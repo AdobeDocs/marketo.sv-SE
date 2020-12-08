@@ -1,0 +1,50 @@
+---
+unique-page-id: 7504120
+description: Starta en presentation - Marketo Docs - Produktdokumentation
+title: Starta en presentation
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '116'
+ht-degree: 0%
+
+---
+
+
+# Starta en presentation {#launch-a-presentation}
+
+När du har angett vyer och rotationsfrekvens för presentationen är det dags att dra igång!
+
+>[!NOTE]
+>
+>**Tillgänglighet**
+>
+>Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
+
+>[!NOTE]
+>
+>**Förutsättningar**
+>
+>* [Skapa en presentation](create-a-presentation.md)
+>* [Anpassa en presentation](customize-a-presentation.md)
+
+>
+
+
+
+>[!TIP]
+>
+>Se till att du **förhandsgranskar en presentation** innan du startar den.
+
+1. Klicka på **Starta**.
+
+   ![](assets/image2015-3-20-14-3a4-3a18.png)
+
+1. Klicka på **Starta** en gång till. Då loggas du ut från Marketo så att presentationen kan visas på ett säkert sätt.
+
+   ![](assets/image2015-3-20-14-3a5-3a34.png)
+
+   >[!TIP]
+   >
+   >Presentationen öppnas på en ny flik. Flytta vid behov fliken till en extern skärm eller TV för visning och klicka på **Helskärm** (eller tryck på **F11 **på tangentbordet om du använder Internet Explorer).
+
