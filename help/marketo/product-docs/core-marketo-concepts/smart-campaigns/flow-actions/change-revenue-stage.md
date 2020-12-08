@@ -1,0 +1,35 @@
+---
+unique-page-id: 1147080
+description: Change Revenue Stage - Marketo Docs - Product Documentation
+title: Ändra intäktsfas
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '77'
+ht-degree: 0%
+
+---
+
+
+# Ändra intäktsfas {#change-revenue-stage}
+
+## Översikt {#overview}
+
+Om du använder intäktscykelmodelleraren och har en godkänd modell kan du välja att flytta leads manuellt från en fas till en annan. Det här flödessteget är till hjälp.
+
+![](assets/image2014-9-22-17-3a4-3a59.png)
+
+## Användning {#usage}
+
+1. Välj **modell**.
+
+   ![](assets/image2014-9-22-17-3a5-3a4.png)
+
+1. Markera den **nya scenen** som du vill tilldela och du är klar!
+
+   ![](assets/image2014-9-22-17-5-8.png)
+
+   >[!CAUTION]
+   >
+   >Data warehouse lägger stor vikt vid när leads rör sig mellan olika faser. Detta kan skapa felaktiga data om de används felaktigt.
+
