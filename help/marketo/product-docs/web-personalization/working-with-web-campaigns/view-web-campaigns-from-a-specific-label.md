@@ -1,0 +1,43 @@
+---
+unique-page-id: 4720075
+description: Visa webbkampanjer från en viss etikett - Marketo Docs - Produktdokumentation
+title: Visa webbkampanjer från en viss etikett
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '84'
+ht-degree: 0%
+
+---
+
+
+# Visa webbkampanjer från en viss etikett {#view-web-campaigns-from-a-specific-label}
+
+Vill du visa och filtrera kampanjer efter en viss etikett?
+
+## Filtrera efter befintliga etiketter {#filter-by-existing-labels}
+
+1. Gå till **Webbkampanjer** **för** webben.
+
+   ![](assets/web-campaigns-hand-4.jpg)
+
+1. Välj önskad etikett i listrutan Etiketter.
+
+   ![](assets/web-campaigns-my-campaigns-dropdown-1.jpg)
+
+1. Observera nu att vi bara visar de kampanjer som är kopplade till den valda etiketten?
+
+   ![](assets/web-campaigns-label-showing-1.jpg)
+
+>[!NOTE]
+>
+>**Relaterade artiklar**
+>
+>* [Märka webbkampanjer](label-your-web-campaigns.md)
+>* [Visa segment från en viss etikett](../../../product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
+>* [Märk upp dina segment](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
+
+>
+
+
+
