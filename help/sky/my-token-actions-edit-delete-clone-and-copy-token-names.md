@@ -2,9 +2,9 @@
 title: my-token-actions-edit-delete-clone-and-copy-token-names
 description: Mina tokenåtgärder Redigera, Ta bort, Klona och Kopiera tokennamn
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: d2195ba23fb1241b54b493d625c50aa4c1704845
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,6 @@ Klicka på [!UICONTROL My Tokens] värdet [!UICONTROL **för den token som du vi
 
 ## Kopiera ett tokennamn
 
-Om du vill kopiera namnet på en token till Urklipp (d.v.s. {{my.Event Calendar File}}) högerklickar du på variabeln och väljer [!UICONTROL **Kopiera tokennamn**].
+Om du vill kopiera namnet på en token till Urklipp (d.v.s. `{{my.Event Calendar File}}`) högerklickar du på variabeln och väljer **Kopiera tokennamn**.
 
 ![Bild sju](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-7.png)
