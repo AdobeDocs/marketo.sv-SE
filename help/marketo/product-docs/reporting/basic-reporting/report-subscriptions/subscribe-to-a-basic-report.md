@@ -1,0 +1,63 @@
+---
+unique-page-id: 2359987
+description: Prenumerera på en grundläggande rapport - Marketo Docs - produktdokumentation
+title: Prenumerera på en grundläggande rapport
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '163'
+ht-degree: 0%
+
+---
+
+
+# Prenumerera på en grundläggande rapport {#subscribe-to-a-basic-report}
+
+Om du vill få automatiska uppdateringar av en [grundläggande rapport](http://docs.marketo.com/display/docs/basic+reporting)eller dela dem kan du prenumerera på valfri e-postadress i en befintlig rapport.
+
+>[!NOTE]
+>
+>Information om prenumerationer på rapporter i [intäktscykelutforskaren](http://docs.marketo.com/display/docs/revenue+cycle+analytics) finns i [Prenumerera på en rapport](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)för intäktsutforskaren.
+
+1. Gå till **Marknadsföringsaktiviteter **området.
+
+   ![](assets/image2014-9-16-10-3a31-3a54.png)
+
+1. Välj rapporten i navigeringsträdet och klicka på fliken **Prenumerationer** .
+
+   ![](assets/image2014-9-16-10-3a32-3a1.png)
+
+   >[!NOTE]
+   >
+   >Du kan också prenumerera på rapporter från fliken **Analytics** .
+
+1. Klicka på **Ny rapportprenumeration**.
+
+   ![](assets/image2014-9-16-10-3a32-3a24.png)
+
+1. Ange e-postadressen/e-postadresserna och ange frekvensen för rapportens e-postmeddelanden.
+
+   ![](assets/image2014-9-16-10-3a32-3a31.png)
+
+   >[!NOTE]
+   >
+   >Alla kan avbeställa rapporten via e-post.
+
+   Så ja! Kontrollera inkorgen!
+
+   ![](assets/image2014-9-16-10-3a32-3a49.png)
+
+   >[!NOTE]
+   >
+   >**Relaterade artiklar**
+   >
+   >
+   >Lär dig [hantera alla prenumerationer](manage-report-subscriptions.md) på en och samma plats.
+
+   >[!NOTE]
+   >
+   >**Djupdykning**
+   >
+   >
+   >Se vad mer du kan göra med rapporter på djupet i [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) .
+
