@@ -1,0 +1,77 @@
+---
+unique-page-id: 10093688
+description: Lägg till Marketo-anpassade objektfält - Marketo-dokument - Produktdokumentation
+title: Lägg till markering i anpassade objektfält
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '285'
+ht-degree: 0%
+
+---
+
+
+# Lägg till markering i anpassade objektfält {#add-marketo-custom-object-fields}
+
+När du har skapat ett anpassat objekt måste du lägga till fält för att uppfylla dina affärsbehov.
+
+Fält definierar den specifika information som används av ett anpassat objekt. Länkfält har ett särskilt jobb, för att koppla anpassade objekt och beskrivs i en [separat artikel](add-marketo-custom-object-link-fields.md).
+
+1. Klicka på **Admin** och välj Anpassade objekt **i** Databashantering ****.
+
+   ![](assets/image2016-1-18-9-3a2-3a6.png)
+
+1. Markera det objekt som du vill lägga till fältet i till höger.
+
+   ![](assets/image2016-1-18-9-3a5-3a3.png)
+
+1. Klicka på **Nytt fält** på fliken **Fält **.
+
+   ![](assets/image2015-9-15-16-3a53-3a40.png)
+
+   >[!NOTE]
+   >
+   >De tre fälten som visas ovan skapas automatiskt av Marketo när du skapar ett anpassat objekt. Marketo hanterar dessa fält automatiskt och du kan inte redigera eller ta bort dem.
+
+1. Ange ett visningsnamn och en beskrivning.
+
+   ![](assets/image2015-10-5-11-3a35-3a48.png)
+
+   >[!NOTE]
+   >
+   >API-namnet kan bara redigeras tills det har godkänts.
+
+1. Välj en lämplig datatyp i listan.
+
+   ![](assets/image2015-10-5-11-3a37-3a24.png)
+
+1. Dra skjutreglaget för borttagning om du vill använda det nya fältet som en unik identifierare. Klicka på **Spara **för att slutföra.
+
+   ![](assets/image2015-10-5-11-3a40-3a12.png)
+
+   >[!TIP]
+   >
+   >När du skapar ett dedupliceringsfält kan du använda det för att ta bort dubblettfält i databasen.
+
+1. Lägg till andra fält som du behöver.
+
+   >[!NOTE]
+   >
+   >**Påminnelse**
+   >
+   >
+   >Om du skapar en en en-till-många-struktur måste du lägga till ett länkfält i det anpassade objektet. För en många-till-många-struktur behöver du inte ha något länkfält i det anpassade objektet, men du måste lägga till två länkfält i det mellanliggande objektet. Se [Lägg till markering i anpassade objektlänkfält](add-marketo-custom-object-link-fields.md) för att skapa länkfälten och [Förstå anpassade objekt](understanding-marketo-custom-objects.md) för markeringar för mer information om typer av anpassade objekt.
+
+>[!NOTE]
+>
+>**Relaterade artiklar**
+>
+>* [Lägg till markering i anpassade objektlänkfält](add-marketo-custom-object-link-fields.md)
+>* [Redigera och ta bort ett markeringsobjekt till anpassat objekt](edit-and-delete-a-marketo-custom-object.md)
+>* [Förstå anpassade objekt i Marketo](understanding-marketo-custom-objects.md)
+>* [Redigera och ta bort markering i anpassade objektfält](edit-and-delete-marketo-custom-object-fields.md)
+
+>
+
+
+
