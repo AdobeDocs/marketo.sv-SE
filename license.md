@@ -1,5 +1,5 @@
 ---
-source-git-commit: 394be8f9a301fae26dbe3d397623eb2921b8fbf1
+source-git-commit: 0dbdb1f26a4dcf59f351511b072a6385935de86f
 workflow-type: tm+mt
 translation-type: tm+mt
 source-wordcount: '170'
@@ -8,7 +8,7 @@ ht-degree: 0%
 ---
 # MIT-licens
 
-© Copyright 2018 Adobe. Med ensamrätt.
+© Copyright 2020 Adobe. Med ensamrätt.
 
 Tillstånd beviljas härmed, kostnadsfritt, till varje person som erhåller en kopia av denna programvara och tillhörande dokumentationsfiler (&quot;Programvaran&quot;), att utan begränsning definiera Programvaran, inklusive, utan begränsning, rätten att använda, kopiera, modifiera, slå samman, publicera, distribuera, underlicensiera och/eller sälja kopior av Programvaran, samt att ge personer till vilka Programvaran har tillhandahållits rätt att göra detta, på följande villkor:
 
