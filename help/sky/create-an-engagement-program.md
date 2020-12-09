@@ -2,9 +2,9 @@
 title: create-an-engagement-program
 description: Skapa ett engagerande program
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Ni kan använda engagemangsprogram i [!DNL Marketo] för att enkelt skapa e-post
 
    ![Bild ett](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-1.png)
 
-1. Klicka på listrutan [!UICONTROL **Mappåtgärder**] och välj [!UICONTROL **Nytt program**].
+1. Klicka på **[!UICONTROL Folder Actions]** listrutan och välj **[!UICONTROL New Program]**.
 
    ![Bild två](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-2.png)
 
@@ -28,10 +28,10 @@ Ni kan använda engagemangsprogram i [!DNL Marketo] för att enkelt skapa e-post
    >
    >Du kan också högerklicka på mappen och välja Nytt program.
 
-1. Ange ett [!UICONTROL **namn**] och välj [!UICONTROL Type] engagemang [!UICONTROL **i**] listrutan.
+1. Ange en **[!UICONTROL Name]** och markera i [!UICONTROL Type] listrutan **[!UICONTROL Engagement]**.
 
    ![Bild tre](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-3.png)
 
-1. Välj en [!UICONTROL Workspace] och [!UICONTROL Destination]. Lägg till valfritt [!UICONTROL Description] och [!UICONTROL Labels]. Klicka på [!UICONTROL **Lägg till**] när du är klar.
+1. Välj en [!UICONTROL Workspace] och [!UICONTROL Destination]. Lägg till valfritt [!UICONTROL Description] och [!UICONTROL Labels]. Klicka **[!UICONTROL Add]** när du är klar.
 
    ![Bild fyra](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-4.png)
