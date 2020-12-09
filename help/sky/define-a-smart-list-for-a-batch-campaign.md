@@ -2,9 +2,9 @@
 title: define-a-smart-list-for-a-batch-campaign
 description: Definiera en smart lista för en batchkampanj
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Smarta listor är en mekanism i hela Marketo för att definiera&quot;vem&quot; (vilka personer) som ska inkluderas, oavsett om det är en rapport, en lista eller en smart kampanj. Så här definierar du en smart lista för en batchkampanj.
 
-1. Välj en smart kampanj och klicka sedan på [!UICONTROL **Smart lista**].
+1. Välj en smart kampanj och klicka sedan på **[!UICONTROL Smart List]**.
 
    ![Bild ett](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-batch-campaign/define-a-smart-list-for-a-batch-campaign-1.png)
 
@@ -32,7 +32,7 @@ Smarta listor är en mekanism i hela Marketo för att definiera&quot;vem&quot; (
    >
    >Du kan få en smart kampanj att köras på en person i taget baserat på live-händelser genom att lägga till utlösare, vilket gör att den smarta kampanjen aktiveras i utlösarläget.
 
-1. Klicka på listrutan och välj en filteroperator (t.ex. [!UICONTROL **is**], [!UICONTROL **is not**], o.s.v.) för filtret du valde.
+1. Klicka på listrutan och välj en filteroperator (t.ex. **[!UICONTROL is]**, **[!UICONTROL is not]** o.s.v.) för det filter du väljer.
 
    ![Bild tre](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-batch-campaign/define-a-smart-list-for-a-batch-campaign-3.png)
 
