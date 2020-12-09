@@ -3,9 +3,9 @@ unique-page-id: 10093157
 description: Klona en webbkampanj - Marketo Docs - Produktdokumentation
 title: Klona en webbkampanj
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Använd klonfunktionen på webbkampanjsidan för att kopiera kampanjinställning
    >
    >Allt innehåll i webbkampanjen kopieras till klonkampanjen förutom delad testning, så glöm inte att lägga till en delad testgrupp i den klonade kampanjen om du vill testa den mot andra.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Skapa en ny webbkampanj i zonen](create-a-new-in-zone-web-campaign.md)
 >* [Skapa en ny webbkampanj för widget](create-a-new-widget-web-campaign.md)
