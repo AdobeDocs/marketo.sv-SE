@@ -3,9 +3,9 @@ unique-page-id: 11383953
 description: Konfigurera offlinekonverteringar för Facebook - Marketo Docs - Produktdokumentation
 title: Konfigurera offlinekonverteringar för Facebook
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '340'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Genom att skicka offlinekonverteringsdata tillbaka till Facebook för personer som skapats via Lead Ads kan ert annonsteam optimera sina annonskostnader bättre än någonsin. Så här ställer du in det.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* Du måste [konfigurera Facebook Lead Ads](set-up-facebook-lead-ads.md).
 >* Du måste ha en godkänd modell i [intäktscykelmodelleraren](http://docs.marketo.com/display/docs/revenue+cycle+models).
