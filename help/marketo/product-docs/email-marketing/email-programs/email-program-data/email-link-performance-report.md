@@ -3,9 +3,9 @@ unique-page-id: 2359478
 description: Resultatrapport för e-postlänk - Marketo Docs - Produktdokumentation
 title: Resultatrapport för e-postlänk
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -76,9 +76,7 @@ Skapa en prestandarapport för e-postlänkar för att se hur bra länkarna i din
 >
 >Om du vill veta exakt vad en enskild person gjorde kan du öppna [aktivitetsloggen](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) på sidan [Personinformation](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) på fliken Medlemmar i programmet.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Rapport om e-postprestanda](email-performance-report.md)
 >* [Filtrera resurser i en e-postrapport](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
