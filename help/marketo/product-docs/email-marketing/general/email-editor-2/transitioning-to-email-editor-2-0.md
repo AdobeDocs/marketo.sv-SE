@@ -3,9 +3,9 @@ unique-page-id: 11373011
 description: Övergång till e-postredigeraren 2.0 - Marketo Docs - produktdokumentation
 title: Övergår till Email Editor 2.0
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '633'
+source-wordcount: '631'
 ht-degree: 0%
 
 ---
@@ -60,9 +60,7 @@ Saker att notera
 
 * I några **sällsynta** fall kan e-post v1.0 inte öppnas i e-postredigeraren 2.0. Om detta inträffar ska du ignorera utkastet och kontakta Marketo Support.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [E-postredigerare 2.0 - översikt](email-editor-v2-0-overview.md)
 >* [Syntax för e-postmall](email-template-syntax.md)
