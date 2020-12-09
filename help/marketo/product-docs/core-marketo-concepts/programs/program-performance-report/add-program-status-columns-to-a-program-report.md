@@ -3,9 +3,9 @@ unique-page-id: 1147239
 description: Lägg till programstatuskolumner i en programrapport - Marketo Docs - Produktdokumentation
 title: Lägg till programstatuskolumner i en programrapport
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Lägg till statistik om programstatus i din [programresultatrapport](create-a-pr
 >
 >Om du inte ser någon kolumn för varje status i programmet kontrollerar du att du har [markerat kolumnerna som ska visas](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) i rapporten.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Filtrera en programrapport efter tagg](filter-a-program-report-by-tag.md)
 
