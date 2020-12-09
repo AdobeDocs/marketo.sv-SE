@@ -3,9 +3,9 @@ unique-page-id: 2949966
 description: Lägg till en landsväljare i formuläret - Marketo Docs - Produktdokumentation
 title: Lägg till en landsväljare i formuläret
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,7 @@ Följ dessa anvisningar för att konvertera landfältet till en listruta med en 
 
 Eftersom det var så enkelt, varför inte göra mer? Vad sägs om att dynamiskt visa fältet State när en användare väljer USA som land i listan? Läs artikeln nedan för att ta reda på hur du gör det.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Växla synlighet för ett formulärfält dynamiskt](../../../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)
 
