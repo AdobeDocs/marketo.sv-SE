@@ -3,9 +3,9 @@ unique-page-id: 2359801
 description: Använda URL Builder - Marketo Docs - Produktdokumentation
 title: Använda URL Builder
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Med URL Builder kan du skapa URL:er som kan fylla i dolda formulärfält i Marke
 >
 >Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >Lär dig hur du skapar dolda fält i formulär och redigerar deras inställningar i [Ange ett formulärfält som dolt](../../../../product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md).
 
