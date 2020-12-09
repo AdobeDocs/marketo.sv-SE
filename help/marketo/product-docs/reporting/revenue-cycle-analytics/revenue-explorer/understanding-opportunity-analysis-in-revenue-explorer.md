@@ -3,9 +3,9 @@ unique-page-id: 2951884
 description: Understanding Opportunity Analysis in Revenue Explorer - Marketo Docs - produktdokumentation
 title: Förstå säljprojektsanalys i skatteutforskaren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '899'
 ht-degree: 0%
 
 ---
@@ -149,9 +149,7 @@ Med säljprojektsanalys får du tillgång till alla lead-, företags- och affär
    | Belopp för affärsmöjlighet (öppet) | Totalt belopp för öppna affärsmöjligheter. Om mer än en lead är associerad med en affärsmöjlighet, baseras allokeringsbeloppet på lead-poäng. |
    | Belopp för affärsmöjlighet (vunnet) | Totalt belopp för vunna affärsmöjligheter. Om mer än en lead är associerad med en affärsmöjlighet, baseras allokeringsbeloppet på lead-poäng. |
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Skapa en rapport för intäktsutforskaren](create-a-revenue-explorer-report.md)
 >* [Lägga till fält i en Intresseutforskarrapport](adding-fields-to-a-revenue-explorer-report.md)
