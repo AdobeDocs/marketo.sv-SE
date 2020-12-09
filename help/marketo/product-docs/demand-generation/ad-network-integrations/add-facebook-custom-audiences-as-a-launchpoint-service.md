@@ -3,9 +3,9 @@ unique-page-id: 4720257
 description: Lägg till anpassade målgrupper på Facebook som en LaunchPoint-tjänst - Marketo Docs - produktdokumentation
 title: Lägg till anpassade Facebook-målgrupper som en LaunchPoint-tjänst
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ Med den här integreringen kan ni skicka målgruppsdata från Marketo till stati
    >
    >Innan du går ska du se till att [godkänna Facebooks villkor](https://www.facebook.com/ads/manage/customaudiences/tos.php) för anpassade målgrupper i ditt Facebook-konto! Om du inte gör det kommer målgruppsuppdateringarna att misslyckas.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Skapa en anpassad målgrupp i Facebook](../../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
    >
