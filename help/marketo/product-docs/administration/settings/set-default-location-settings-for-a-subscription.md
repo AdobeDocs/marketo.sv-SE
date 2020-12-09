@@ -3,9 +3,9 @@ unique-page-id: 2359902
 description: Ange standardplatsinställningar för en prenumeration - Marketo Docs - Produktdokumentation
 title: Ange standardplatsinställningar för en prenumeration
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ Om du ändrar standardspråkområdet för dina användare kanske du också vill 
 
    Grattis! Du har ändrat platsinställningarna för prenumerationen.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Välj språk, språk och tidszon](select-your-language-locale-and-time-zone.md)
 
