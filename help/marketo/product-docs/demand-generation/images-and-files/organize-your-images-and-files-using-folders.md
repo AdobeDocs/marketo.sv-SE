@@ -3,9 +3,9 @@ unique-page-id: 2359880
 description: Organisera dina bilder och filer med hjälp av mappar - Marketo Docs - Produktdokumentation
 title: Ordna dina bilder och filer med hjälp av mappar
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ När du skapar mappar kan du flytta bilder och filer, se bara den uppsättning b
 
 Hög fem! Du är redo för utopia av mappen.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Sök efter överförda bilder och filer](search-uploaded-images-and-files.md)
 
