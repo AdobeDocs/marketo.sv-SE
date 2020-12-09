@@ -3,9 +3,9 @@ unique-page-id: 1146980
 description: Använd Lägg till val i ett flödessteg - Marketo Docs - Produktdokumentation
 title: Använd Lägg till alternativ i ett flödessteg
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Använd Lägg till alternativ i ett flödessteg {#use-add-choice-in-a-flow-step}
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Lägg till ett flödessteg i en smart kampanj](add-a-flow-step-to-a-smart-campaign.md)
 
