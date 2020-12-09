@@ -2,9 +2,9 @@
 title: create-a-smart-campaign
 description: Skapa en smart kampanj
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Smarta kampanjer är det viktigaste verktyget i [!DNL Marketo]. De kan aktiveras
 
    ![Bild ett](/help/sky/assets/smart-campaigns/create-a-smart-campaign/create-a-smart-campaign-1.png)
 
-1. Högerklicka på urvalet och välj [!UICONTROL **Skapa smart kampanj**].
+1. Högerklicka på markeringen och välj **[!UICONTROL Create Smart Campaign]**.
 
    ![Bild två](/help/sky/assets/smart-campaigns/create-a-smart-campaign/create-a-smart-campaign-2.png)
 
@@ -28,6 +28,6 @@ Smarta kampanjer är det viktigaste verktyget i [!DNL Marketo]. De kan aktiveras
 >
 >Ni kan skapa smarta kampanjer som lokala resurser i alla program.
 
-1. Ge den smarta kampanjen ett namn (och lägg till valfri beskrivning/etiketter) och klicka på [!UICONTROL **Skapa**].
+1. Ge den smarta kampanjen ett namn (och lägg till valfri beskrivning/etiketter) och klicka på **[!UICONTROL Create]**.
 
    ![Bild tre](/help/sky/assets/smart-campaigns/create-a-smart-campaign/create-a-smart-campaign-3.png)
