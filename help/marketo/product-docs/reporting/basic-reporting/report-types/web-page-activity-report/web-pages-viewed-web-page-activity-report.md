@@ -3,9 +3,9 @@ unique-page-id: 2360052
 description: Visade webbsidor, aktivitetsrapport för webbsida - Marketo Docs - Produktdokumentation
 title: Visade webbsidor, aktivitetsrapport för webbsida
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Från en [webbsidesaktivitetsrapport](../../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)kan du se de specifika sidor som personer i rapporten har visat.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >Om du vill hämta aktiviteter från din webbplats i Marketo måste du först [konfigurera Munchkin på din webbplats](../../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
