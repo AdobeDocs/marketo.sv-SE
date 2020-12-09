@@ -3,9 +3,9 @@ unique-page-id: 10096681
 description: Understanding Webinar Program Status - Marketo Docs - Produktdokumentation
 title: Om status för webbinarium
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ Här är en kort beskrivning av programstatus som är kopplad till webbseminarie
 >
 >För att Marketo ska kunna dra in statusen No Show måste personerna ha registrerats *i Marketo*. Vi kan inte hämta No Shows som kommer från On24-dataflödet.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Om Marketo ON24-adapterhändelser](understanding-marketo-on24-adapter-events.md)
 
