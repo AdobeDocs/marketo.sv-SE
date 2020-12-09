@@ -3,9 +3,9 @@ unique-page-id: 2359909
 description: Hantera användarroller och behörigheter - Marketo Docs - Produktdokumentation
 title: Hantera användarroller och behörigheter
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '519'
 ht-degree: 0%
 
 ---
@@ -115,9 +115,7 @@ Om en roll blir onödig kan du ta bort den.
 
    ![](assets/image2014-9-9-18-3a10-3a50.png)
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >Läs mer om hur du skapar ytterligare användare och tilldelar dem roller i [Komma igång med Marketo](../../../getting-started.md).
 
