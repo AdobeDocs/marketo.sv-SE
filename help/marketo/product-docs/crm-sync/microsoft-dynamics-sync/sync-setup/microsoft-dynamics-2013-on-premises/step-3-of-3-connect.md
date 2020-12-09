@@ -3,9 +3,9 @@ unique-page-id: 3571819
 description: Steg 3 av 3 - Connect Marketo och Dynamics (2013 On-Premises) - Marketo Docs - Produktdokumentation
 title: Steg 3 av 3 - Connect Marketo och Dynamics (2013 On-Premises)
 translation-type: tm+mt
-source-git-commit: ce8b67b8549d23ff4ddd1d341632c6c5ff33990d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 
 Okej! Vi installerade lösningen och konfigurerade synkroniseringsanvändaren. Därefter måste vi koppla Marketo och Dynamics.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Steg 1 av 3: Installera Marketo-lösningen i Dynamics (On-Premises 2013)](step-1-of-3-install.md)
 >* [Steg 2 av 3: Konfigurera Synkronisera användare för Marketo (lokal 2013)](step-2-of-3-configure.md)
