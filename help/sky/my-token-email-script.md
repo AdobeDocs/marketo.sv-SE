@@ -2,9 +2,9 @@
 title: my-token-email-script
 description: E-postskript för min token
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 För avancerade utvecklare kan du använda [Velocity-skript](http://velocity.apache.org/engine/1.7/user-guide.html) i dina e-postmeddelanden genom att konfigurera en e-postskripttoken. Så här gör du.
 
-1. Dra en [!UICONTROL My Tokens] e- [!UICONTROL **postskriptvariabel**] till arbetsytan på fliken [!UICONTROL Local Tokens] i programmet eller mappen.
+1. Dra en [!UICONTROL My Tokens] token till arbetsytan på fliken **[!UICONTROL Email Script]** [!UICONTROL Local Tokens] i programmet eller mappen.
 
    ![Bild ett](/help/sky/assets/my-tokens/my-token-email-script/my-token-email-script-1.png)
 
@@ -39,6 +39,6 @@ För avancerade utvecklare kan du använda [Velocity-skript](http://velocity.apa
    * [Referenshandbok för hastighet](http://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [VelocityTools 2.0 - dokumentation](http://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
-1. När skriptet är klart klickar du på [!UICONTROL **Spara**].
+1. När skriptet är klart klickar du på **[!UICONTROL Save]**.
 
    ![Bild fyra](/help/sky/assets/my-tokens/my-token-email-script/my-token-email-script-4.png)
