@@ -3,9 +3,9 @@ unique-page-id: 7512654
 description: Se lead feed in Salesforce1 - Marketo Docs - produktdokumentation
 title: Se lead-feed i Salesforce1
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ Ledningsmataren är en uppdaterad lista över intressanta händelser som har utf
 
    ![](assets/image2015-4-23-17-3a20-3a12.png)
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Intressanta stunder i Salesforce1](interesting-moments-in-salesforce1.md)
 >* [Skicka Marketo-åtgärder för e-post och kampanj och bevakning i Salesforce1](send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
