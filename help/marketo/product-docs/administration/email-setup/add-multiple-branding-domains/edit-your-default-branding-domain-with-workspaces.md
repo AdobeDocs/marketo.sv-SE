@@ -3,9 +3,9 @@ unique-page-id: 11377406
 description: Redigera din standardvarumärkesdomän med arbetsytor - Marketo Docs - Produktdokumentation
 title: Redigera din standardprofileringsdomän med arbetsytor
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ ht-degree: 0%
 
 Nu kan du [lägga till ytterligare profildomäner](add-an-additional-branding-domain-with-workspaces.md) som du behöver för arbetsytorna.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Lägg till en extra varumärkesdomän med arbetsytor](add-an-additional-branding-domain-with-workspaces.md)
 
