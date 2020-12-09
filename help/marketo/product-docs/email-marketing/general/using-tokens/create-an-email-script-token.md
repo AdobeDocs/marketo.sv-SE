@@ -3,9 +3,9 @@ unique-page-id: 1900577
 description: Skapa en token för e-postskript - Marketo Docs - Produktdokumentation
 title: Skapa en e-postskripttoken
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,7 @@ För avancerade utvecklare kan du använda [Velocity-skript](http://velocity.apa
 
 Nu kan du använda denna token i dina e-postmeddelanden. Skriptet körs varje gång ett e-postmeddelande skickas.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Lägg till en e-postskripttoken i din e-post](add-an-email-script-token-to-your-email.md)
 
