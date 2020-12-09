@@ -3,9 +3,9 @@ unique-page-id: 10100644
 description: Ställa in meddelandeknappen i appen - Marketo Docs - produktdokumentation
 title: Konfigurera meddelandeknappen i appen
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -78,9 +78,7 @@ Du kan använda standardknappdesignen, ändra den eller överföra en egen anpas
 
 Nästan klart. Det sista steget är att .
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Förstå meddelanden i appen](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [Välj en layout för ditt meddelande i appen](choose-a-layout-for-your-in-app-message.md)
