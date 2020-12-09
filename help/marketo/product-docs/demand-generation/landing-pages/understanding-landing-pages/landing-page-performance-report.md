@@ -3,9 +3,9 @@ unique-page-id: 2359713
 description: Prestandarapport för landningssida - Marketo Docs - Produktdokumentation
 title: Prestandarapport för landningssida
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ Se hur många som fyllde `forms` i din dator `landing pages`och hur många som v
 >
 >Läs mer om andra intressanta rapporter i [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) -djupet.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Filtrera landningssidans resultatrapport](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report.md) efter lokala eller globala resurser.
 
