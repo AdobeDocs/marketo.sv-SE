@@ -3,9 +3,9 @@ unique-page-id: 7515207
 description: Understanding Free-form vs Guided Landing Pages - Marketo Docs - Product Documentation
 title: Förstå frihandssidor jämfört med sidor med guidad landning
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -34,9 +34,7 @@ Den mall du väljer avgör vilket redigeringsläge för landningssidor du kommer
 
 ![](assets/two-1.png)
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Landningssidor i fri form](http://docs.marketo.com/display/public/DOCS/Free-Form+Landing+Pages)
 >* [Guidade landningssidor](http://docs.marketo.com/display/DOCS/Guided+Landing+Pages)
