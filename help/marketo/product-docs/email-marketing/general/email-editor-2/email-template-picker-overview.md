@@ -3,9 +3,9 @@ unique-page-id: 10912237
 description: Översikt över väljaren för e-postmallar - Marketo Docs - Produktdokumentation
 title: Översikt över väljaren för e-postmall
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ Du kan också högerklicka på en mallminiatyrbild om du vill se fler alternativ
 
 Vackert!
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Syntax för e-postmall](email-template-syntax.md)
 >* [Skapa ett e-postmeddelande](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
