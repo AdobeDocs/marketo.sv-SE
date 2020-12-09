@@ -3,9 +3,9 @@ unique-page-id: 10096656
 description: Skapa en händelse med marknadsföringskortet ON24 - Marketo Docs - produktdokumentation
 title: Skapa en händelse med Marketo ON24-adaptern
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Följ de här stegen för att skapa en händelse med marknadsföringskortet On24
 1. [Om status för webbinarium](create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
 1. [ON24 - Händelseregistreringsuppdateringar](create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Om Marketo ON24-adapterhändelser](create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
 
