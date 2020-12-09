@@ -3,9 +3,9 @@ unique-page-id: 10096658
 description: Understanding Marketo On24 Adapter Events - Marketo Docs - produktdokumentation
 title: Om Marketo On24-adapterhändelser
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Bilden nedan visar integrationsprocessen.
 
 Vill du börja? Börja med [Skapa en händelse med ON24-adaptern](../../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md).
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Skapa en händelse med Marketo ON24-adaptern](../../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
 
