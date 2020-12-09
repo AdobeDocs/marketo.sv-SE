@@ -3,9 +3,9 @@ unique-page-id: 6095029
 description: Ange Google AdWords-konverteringar i intäktsmodellen - Marketo Docs - Produktdokumentation
 title: Ange Google AdWords-konverteringar i intäktsmodellen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,7 @@ Läs mer om [Googles importfunktion](https://support.google.com/adwords/answer/2
 
 Du kan skapa en ny offlinekonvertering för AdWords från Marketo om du använder Stage Action.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Lägg till Google AdWords som en LaunchPoint-tjänst](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
 
