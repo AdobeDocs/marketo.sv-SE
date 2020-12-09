@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: Anpassade fält för programmedlemmar - Marketo Docs - Produktdokumentation
 title: Anpassade fält för programmedlem
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -71,9 +71,7 @@ Du kan använda dessa programspecifika data i smarta listor via [](http://docs.m
 * Import och export via [](http://docs.marketo.com/x/egAk)list och [](http://developers.marketo.com/)API stöds.
 * När du sammanfogar två personer används vinnarens anpassade fältdata för programmedlemmen. Men om vinnaren inte har något värde kommer förlorarens värde att användas.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >[Skapa ett anpassat fält i Marketo](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
