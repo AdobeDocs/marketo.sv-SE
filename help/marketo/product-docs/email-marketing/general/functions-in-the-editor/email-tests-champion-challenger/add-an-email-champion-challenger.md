@@ -3,9 +3,9 @@ unique-page-id: 2359553
 description: Lägg till en e-postmästare/kund - Marketo Docs - Produktdokumentation
 title: Lägg till en e-postkampanj/kanal
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Det är en bra idé att testa e-postmeddelanden som du använder ofta för att k
 Det befintliga e-postmeddelandet som du testar anses vara förstapristagaren. Alla varianter du skapar i ett test räknas som utmanare. Du bestämmer hur många procent av personerna som får antingen det förnämsta innehållet eller utmanarinnehållet. Om du har definierat flera utmanare kommer de att fördelas jämnt mellan utmanargruppen.\
 Så här kommer du igång.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Skapa ett program](../../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
 >* [Skapa ett e-postmeddelande](../../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
