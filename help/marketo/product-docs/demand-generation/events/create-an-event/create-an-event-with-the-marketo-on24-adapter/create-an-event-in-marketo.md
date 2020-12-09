@@ -3,9 +3,9 @@ unique-page-id: 10096725
 description: Skapa en händelse i Marketo - Marketo Docs - Produktdokumentation
 title: Skapa en händelse i Marketo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ När du skapar Marketo-händelsen väljer du **Webbinarium** som kanaltyp. Du ka
 
 Nästa steg är att [konfigurera händelseinställningar och synkronisera Markto med ditt webbinarium](https://docs.marketo.com/x/IRCa).
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Om Marketo ON24-adapterhändelser](understanding-marketo-on24-adapter-events.md)
 
