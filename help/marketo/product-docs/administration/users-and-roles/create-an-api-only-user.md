@@ -3,9 +3,9 @@ unique-page-id: 2360207
 description: Skapa en endast API-användare - Marketo Docs - produktdokumentation
 title: Skapa endast en API-användare
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Om du vill integrera med Marketo via [REST API](http://developers.marketo.com/documentation/rest/)måste du skapa en användare med enbart API. Så här gör du.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Skapa en användarroll endast för API](create-an-api-only-user-role.md)
 
