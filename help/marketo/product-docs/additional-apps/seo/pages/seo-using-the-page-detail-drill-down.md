@@ -3,9 +3,9 @@ unique-page-id: 2949186
 description: SEO - Använda detaljgranskning - Marketo Docs - Produktdokumentation
 title: SEO - Använda detaljnivå för sidan nedåt
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ Resultaten av sidoptimering visar exakt vilka steg du behöver utföra för att 
 
 Ganska söt, eller hur? Läs mer om Sidor här.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Optimera specifika sidor med målnyckelord](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
 
