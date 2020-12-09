@@ -3,9 +3,9 @@ unique-page-id: 2950396
 description: Prioritet, Urklipp, Relativ poäng och Bästa val - Marketo Docs - Produktdokumentation
 title: Prioritet, Urklipp, Relativa poäng och Bästa val
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Efterhand som poängen ändras räknas värdena för tränglighet, prioritet och
 >
 >Antalet Relative Urgent (Lågor) och Relative Score (stjärnor) är heltal i Marketo. Möjliga värden för var och en är 0-3.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Marketo Sales Insight](http://docs.marketo.com/display/docs/marketo+sales+insight)
 
