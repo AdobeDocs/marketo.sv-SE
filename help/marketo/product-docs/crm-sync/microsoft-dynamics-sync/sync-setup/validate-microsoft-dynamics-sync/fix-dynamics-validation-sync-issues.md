@@ -3,9 +3,9 @@ unique-page-id: 10095429
 description: Åtgärda problem med synkronisering av Dynamics-validering - Marketo Docs - Produktdokumentation
 title: Åtgärda problem med synkronisering av Dynamics-validering
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -111,9 +111,7 @@ Om du har en ![- här](assets/delete.png) - kontrollerar du att synkroniseringsa
 
 Om du har en ![- här](assets/delete.png) - se till att tilldela rätt synkroniseringsanvändare i fältet Marketo-användare i steget Marketo Config-standardinställning i Microsoft Dynamics.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >[Verifiera Microsoft Dynamics Sync](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
 
