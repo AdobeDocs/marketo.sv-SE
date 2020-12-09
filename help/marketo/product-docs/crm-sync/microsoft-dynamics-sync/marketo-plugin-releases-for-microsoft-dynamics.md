@@ -3,9 +3,9 @@ unique-page-id: 10099389
 description: Marketo Plugin Releases for Microsoft Dynamics - Marketo Docs - Produktdokumentation
 title: Marketo Plugin Releases for Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '346'
 ht-degree: 7%
 
 ---
@@ -100,13 +100,7 @@ Tabellen nedan visar de senaste versionerna.
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Ladda ned Marketo Lead Management Solution](sync-setup/download-the-marketo-lead-management-solution.md)
-
->
-
-
 
