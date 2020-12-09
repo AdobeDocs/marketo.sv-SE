@@ -3,9 +3,9 @@ unique-page-id: 4718648
 description: Understanding the Opportunity Influence Analyzer - Marketo Docs - Product Documentation
 title: Förstå analysen av affärsmöjlighet
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Om du vill behålla det här beteendet bör du ta bort dubbletter av dina data i
 >
 >Varje gång du sluter ett avtal hittar du det i den här analyseraren nästa dag. Dela den med säljaren. De kommer att inse allt hårt arbete du gör - och du kan dessutom fråga varför vissa personer&quot;ser ut&quot; som inflytelserika men inte har någon roll tilldelad i CRM.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Berätta för marknadsföringsberättelsen med en analys av säljprojektspåverkan](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
 >* [Skapa en analys av affärsmöjlighet](create-an-opportunity-influence-analyzer.md)
