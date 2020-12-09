@@ -2,9 +2,9 @@
 title: override-person-restrictions-in-a-smart-campaign
 description: Åsidosätt personbegränsningar i en smart kampanj
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ Med Marketo kan ni ange det maximala antalet personer som kan kvalificera sig f�
 >
 >Se till att du [aktiverar personbegränsningar för smarta kampanjer](https://docs.marketo.com/display/DOCS/Enable+Person+Restrictions+for+Smart+Campaigns) i Marketo [!UICONTROL Admin].
 
-1. Hitta din smarta kampanj och klicka på [!UICONTROL **Schemalägg**].
+1. Hitta din smarta kampanj och klicka **[!UICONTROL Schedule]**.
 
    ![Bild ett](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-1.png)
 
-1. Klicka på [!UICONTROL **Kvalificeringsregler**].
+1. Klicka **[!UICONTROL Qualification Rules]**.
 
    ![Bild två](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-2.png)
 
@@ -32,7 +32,7 @@ Med Marketo kan ni ange det maximala antalet personer som kan kvalificera sig f�
    >
    >Standardgränsen är den som anges i Admin.
 
-1. Ange en ny gräns bredvid [!UICONTROL **Avbryt kampanj om kvalificerade leads överskrider**].
+1. Ange en ny gräns bredvid **[!UICONTROL Abort campaign if qualified leads exceed]**.
 
    ![Bild tre](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-3.png)
 
