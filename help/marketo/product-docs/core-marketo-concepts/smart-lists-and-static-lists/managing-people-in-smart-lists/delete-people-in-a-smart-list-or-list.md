@@ -3,9 +3,9 @@ unique-page-id: 1146897
 description: Ta bort personer i en smart lista eller lista - Marketo Docs - produktdokumentation
 title: Ta bort personer i en smart lista eller lista
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Du kan snabbt och enkelt ta bort vissa/alla personer i en lista eller smart list
 >
 >Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Skapa en smart lista](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
