@@ -3,9 +3,9 @@ unique-page-id: 4719408
 description: Redigera en befintlig webbkampanj - Marketo Docs - Produktdokumentation
 title: Redigera en befintlig webbkampanj
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ ht-degree: 0%
    >
    >Använd [filterfunktionen](filter-web-campaigns.md)för att göra det enklare att hitta den webbkampanj du vill ha.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Ta bort en webbkampanj](delete-a-web-campaign.md)
 >* [Starta/pausa en](launch-pause-a-web-campaign.md) [kampanj](launch-pause-a-web-campaign.md)
