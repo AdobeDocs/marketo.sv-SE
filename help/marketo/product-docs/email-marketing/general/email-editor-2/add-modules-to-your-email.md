@@ -3,9 +3,9 @@ unique-page-id: 11371065
 description: Lägg till moduler i din e-post - Marketo Docs - Produktdokumentation
 title: Lägg till moduler i din e-post
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ Det finns två sätt att flytta en modul.
 
 Det är allt som finns för det.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >[Syntax för e-postmall](email-template-syntax.md)
 
