@@ -3,9 +3,9 @@ unique-page-id: 2359890
 description: Så här fungerar Engagement Score - Marketo Docs - produktdokumentation
 title: Så här fungerar engagemanget
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ Engagemangsmoment är universella för alla kunder. Du kan jämföra dem för at
 >
 >Den egna algoritmen gäller också för engagemangspoängen i e-postprogram.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Förstå engagemangsprogram](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
 
