@@ -2,9 +2,9 @@
 title: apply-communication-limits-to-a-smart-campaign
 description: Använd kommunikationsbegränsningar för en smart kampanj
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ Det är ingen bra idé att mejla någon flera gånger om dagen, eller för mång
 >
 >När någon överskrider de angivna kommunikationsgränserna blockerar Marketo icke-operativa e-postmeddelanden (operativa e-postmeddelanden skickas alltid).
 
-1. Välj den smarta kampanjen och klicka på fliken [!UICONTROL **Schemalägg**] .
+1. Välj en smart kampanj och klicka på **[!UICONTROL Schedule]** fliken.
 
    ![Bild ett](/help/sky/assets/smart-campaigns/apply-communication-limits-to-a-smart-campaign/apply-communication-limits-to-a-smart-campaign-1.png)
 
-1. Öppna [!UICONTROL Qualification Rules] och markera kryssrutan [!UICONTROL **Blockera icke-fungerande e-postmeddelanden**] .
+1. Öppna [!UICONTROL Qualification Rules] och markera **[!UICONTROL Block non-operational emails]** kryssrutan.
 
    ![Bild två](/help/sky/assets/smart-campaigns/apply-communication-limits-to-a-smart-campaign/apply-communication-limits-to-a-smart-campaign-2.png)
 
