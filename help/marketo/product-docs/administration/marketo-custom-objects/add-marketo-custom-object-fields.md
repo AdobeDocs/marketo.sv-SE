@@ -3,9 +3,9 @@ unique-page-id: 10093688
 description: Lägg till Marketo-anpassade objektfält - Marketo-dokument - Produktdokumentation
 title: Lägg till markering i anpassade objektfält
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ Fält definierar den specifika information som används av ett anpassat objekt. 
    >
    >Om du skapar en en en-till-många-struktur måste du lägga till ett länkfält i det anpassade objektet. För en många-till-många-struktur behöver du inte ha något länkfält i det anpassade objektet, men du måste lägga till två länkfält i det mellanliggande objektet. Se [Lägg till markering i anpassade objektlänkfält](add-marketo-custom-object-link-fields.md) för att skapa länkfälten och [Förstå anpassade objekt](understanding-marketo-custom-objects.md) för markeringar för mer information om typer av anpassade objekt.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Lägg till markering i anpassade objektlänkfält](add-marketo-custom-object-link-fields.md)
 >* [Redigera och ta bort ett markeringsobjekt till anpassat objekt](edit-and-delete-a-marketo-custom-object.md)
