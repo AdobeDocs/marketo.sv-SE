@@ -3,9 +3,9 @@ unique-page-id: 10093690
 description: Redigera och ta bort ett Marketo-anpassat objekt - Marketo-dokument - Produktdokumentation
 title: Redigera och ta bort ett markeringsobjekt till anpassat objekt
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -79,9 +79,7 @@ Det är enkelt att ta bort ett anpassat objekt, men du måste vara försiktig. A
    >
    >Om det anpassade objektet är länkat till ett mellanliggande objekt måste du först ta bort mellanliggande objekt.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >[Godkänn ett anpassat objekt](approve-a-custom-object.md)
 
