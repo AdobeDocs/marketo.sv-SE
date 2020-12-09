@@ -3,9 +3,9 @@ unique-page-id: 4720232
 description: Skapa en ny kontolista - Marketo Docs - Produktdokumentation
 title: Skapa en ny kontolista
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -91,9 +91,7 @@ CSV-filen ersätter den befintliga filen. Den befintliga listan förblir aktiv t
 
    ![](assets/delete-notification-hand.jpg)
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Skapa ett segment med hjälp av en kontolista](create-a-segment-using-an-account-list.md)
 >* [Visa en lista med namngivna konton](http://docs.marketo.com/pages/viewpage.action?pageid=4720244)
