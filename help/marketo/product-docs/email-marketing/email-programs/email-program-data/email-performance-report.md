@@ -3,9 +3,9 @@ unique-page-id: 2359467
 description: E-postprestandarapport - Marketo Docs - produktdokumentation
 title: Rapport om e-postprestanda
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ I allmänhet försöker vi använda sunt förnuft för att registrera denna stat
 >
 >Flera utskick från samma kampanj till samma person räknas bara en gång.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Filtrera resurser i e-postrapporter för kampanj](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
 >* [Resultatrapport för e-postlänk](email-link-performance-report.md)
