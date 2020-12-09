@@ -3,9 +3,9 @@ unique-page-id: 2359866
 description: Hämta bilderna från en webbsida - Marketo Docs - Produktdokumentation
 title: Hämta bilderna från en webbsida
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Om du vill lägga till bilder från en webbsida kopierar du webbadressen (URL:en
 
 Snyggt jobbat, överordnad!
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Lägg till bilder och filer i Marketto](add-images-and-files-to-marketo.md)
 >* [Ordna dina bilder och filer med hjälp av mappar](organize-your-images-and-files-using-folders.md)
