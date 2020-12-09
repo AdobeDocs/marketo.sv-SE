@@ -3,9 +3,9 @@ unique-page-id: 10098812
 description: Ställ in intäktsattribuering för digitala annonskampanjer - Marketo Docs - Produktdokumentation
 title: Ställ in intäktsattribuering för digitala annonskampanjer
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '912'
+source-wordcount: '911'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ När du har konfigurerat ditt första annonseringsprogram i Marketo kan du klona
 
 Med separata program kan ni sedan spåra antalet konverteringar från var och en och se era program i Program Analyzer, Opportunity Influence Analyzer och andra funktioner i Marketo Analytics.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* Konfigurera en kanaltagg med statusvärden och programframgångar (t.ex. Digital Advertising eller Social Paid och PPC)
 >* Skapa eller redigera ett formulär för att skicka en frågesträng via personen
