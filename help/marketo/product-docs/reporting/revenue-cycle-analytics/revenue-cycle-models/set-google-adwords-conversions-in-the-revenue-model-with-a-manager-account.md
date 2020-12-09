@@ -3,9 +3,9 @@ unique-page-id: 7504923
 description: Ange Google AdWords-konverteringar i intäktsmodellen med ett Manager-konto - Marketo Docs - produktdokumentation
 title: Ange Google AdWords-konverteringar i intäktsmodellen med ett Manager-konto
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '448'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,7 @@ Du kan mappa AdWords offlinekonverteringar till en eller flera steg i en intäkt
 * Scenåtgärd
 * AdWords-mappning
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Lägg till Google AdWords som en startpunktstjänst med ett hanterarkonto](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
 
