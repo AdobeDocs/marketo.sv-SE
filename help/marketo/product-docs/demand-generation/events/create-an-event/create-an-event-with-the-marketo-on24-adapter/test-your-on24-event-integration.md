@@ -3,9 +3,9 @@ unique-page-id: 10096677
 description: Testa din ON24-händelseintegrering - Marketo Docs - produktdokumentation
 title: Testa din ON24-händelseintegrering
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ Så här uppdateras data när händelsen har inträffat:
 * Marketo hämtar deltagardata från ON24 varje kväll.
 * När deltagarens data synkroniseras mellan Marketo och ON24 uppdaterar Marketo medlemskapsstatusen till Bifogad, Vid behov eller Ingen visning. På fliken **Sammanfattning** för händelsen uppdateras händelsens status till **Händelse klar**.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Exempel på händelseintegrering ON24](example-on24-event-integration.md)
 >* [Om Marketo ON24-adapterhändelser](understanding-marketo-on24-adapter-events.md)
