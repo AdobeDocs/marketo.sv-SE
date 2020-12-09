@@ -3,9 +3,9 @@ unique-page-id: 7512278
 description: Lägg till ReadyTalk som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
 title: Lägg till ReadyTalk som en LaunchPoint-tjänst
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Marketo hanterar registrering och närvaro av ditt webbseminarium ReadyTalk.
 
    ![](assets/readytalk.png)
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >Lär dig hur du [skapar en händelse med ReadyTalk](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md).
 
