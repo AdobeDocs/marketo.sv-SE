@@ -2,9 +2,9 @@
 title: save-smart-list-rules
 description: Spara regler för smarta listor
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Att spara smarta listregler är ett bra sätt att spara värdefull tid.
 
    ![Bild ett](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-1.png)
 
-1. Klicka på [!UICONTROL **Smart lista**].
+1. Klicka **[!UICONTROL Smart List]**.
 
    ![Bild två](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-2.png)
 
@@ -32,11 +32,11 @@ Att spara smarta listregler är ett bra sätt att spara värdefull tid.
 
    ![Bild fyra](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-4.png)
 
-1. När du är klar med att lägga till filter/utlösare klickar du på listrutan [!UICONTROL **Smarta kampanjåtgärder**] och väljer [!UICONTROL **Spara regel**] för smart lista.
+1. När du är klar med att lägga till filter/utlösare klickar du på **[!UICONTROL Smart Campaign Actions]** listrutan och väljer **[!UICONTROL Save Smart List Rule]**.
 
    ![Bild fem](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-5.png)
 
-1. Namnge regeluppsättningen och klicka på [!UICONTROL **Spara**].
+1. Namnge regeluppsättningen och klicka på **[!UICONTROL Save]**.
 
    ![Bild sex](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-6.png)
 
@@ -48,11 +48,11 @@ Och det är allt! Nästa gång du skapar en smart kampanj får du tillgång till
 
    ![Bild sju](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-7.png)
 
-1. Klicka på [!UICONTROL **Smart lista**].
+1. Klicka **[!UICONTROL Smart List]**.
 
    ![Bild åtta](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-8.png)
 
-1. Klicka på listrutan [!UICONTROL **Sparad regel**] .
+1. Klicka på **[!UICONTROL Saved Rule]** listrutan.
 
    ![Bild nio](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-9.png)
 
