@@ -3,9 +3,9 @@ unique-page-id: 10097613
 description: Lägg till Marketo-länkfält för anpassade objekt - Marketo-dokument - Produktdokumentation
 title: Lägg till markering i anpassade objektlänkfält
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '603'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ Så här skapar du ett länkfält i ett anpassat objekt för en 1:N-struktur.
 
 Så här skapar du ett länkfält i ett mellanliggande objekt som kan användas i en många-till-många-struktur.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >Du måste redan ha skapat mellanliggande objekt och eventuella anpassade objekt som du vill länka det till.
 
