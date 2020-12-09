@@ -3,9 +3,9 @@ unique-page-id: 7504051
 description: Hantera persondata - Marketo Docs - Produktdokumentation
 title: Hantera persondata
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -106,9 +106,7 @@ Utnyttja persondata för webbpersonalisering genom att markera personfält som s
 
 Följande lead-fält finns tillgängliga för nya webbpersonaliseringskonton:
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Skapa ett segment med hjälp av kända persondata](create-a-segment-using-known-person-data.md)
 
