@@ -3,9 +3,9 @@ unique-page-id: 2949720
 description: Intressanta stunder - Marketo Docs - Produktdokumentation
 title: Översikt över intressanta stunder
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ Du kan använda det intressanta steget för att ge säljteamet insyn i de coola 
 
 Du kan också använda variabler i intressanta ögonblick för att göra verkligt användbara dynamiska beskrivningar.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Använda intressanta stunder](using-interesting-moments.md)
 >* [Token för intressanta ögonblick](tokens-for-interesting-moments.md)
