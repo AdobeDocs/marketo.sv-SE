@@ -3,9 +3,9 @@ unique-page-id: 11375827
 description: Obligatoriska fält för synkronisering av Marketo med Dynamics - Marketo Docs - Produktdokumentation
 title: Obligatoriska fält för synkronisering av Marketo med Dynamics
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Så här verifierar och lägger du till synkroniseringsfält.
 >
 >Vänta minst 10 minuter på att en synkronisering ska köras innan du verifierar att du har åtgärdat problemet.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >[Stjärnor och flamma för lead-/kontaktposter](http://docs.marketo.com/x/BICMAg)
 
