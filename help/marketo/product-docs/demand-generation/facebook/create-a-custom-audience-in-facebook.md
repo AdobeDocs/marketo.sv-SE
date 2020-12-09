@@ -3,9 +3,9 @@ unique-page-id: 4720275
 description: Skapa en anpassad målgrupp i Facebook - Marketo Docs - produktdokumentation
 title: Skapa en anpassad målgrupp i Facebook
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Skapa en anpassad målgrupp i Facebook {#create-a-custom-audience-in-facebook}
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Lägg till anpassade Facebook-målgrupper som en LaunchPoint-tjänst](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) i administratörsavsnittet.
 >* [Acceptera Facebooks villkor](https://www.facebook.com/ads/manage/customaudiences/tos.php) för anpassade målgrupper i ditt Facebook-konto.
