@@ -3,9 +3,9 @@ unique-page-id: 11378871
 description: Använd Vibes SMS-meddelanden i Smart List-utlösare och -filter - Marketo Docs - Produktdokumentation
 title: Använd Vibes SMS-meddelanden i Smart List-utlösare och -filter
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ Däremot **hittar** **filtret **Member of Vibes List** vem som helst ****** som 
 
 När du har konfigurerat Vibes-utlösare och -filter i din smarta lista kan du [definiera flödet](add-a-flow-step-for-sms.md).
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Definiera smart lista för smart kampanj | Utlösare](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 >* [Söka efter och lägga till filter i en smart lista](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
