@@ -3,9 +3,9 @@ unique-page-id: 557275
 description: Använd inbyggda/systemsmarta listor - Marketo Docs - Produktdokumentation
 title: Använd inbyggda/systemsmarta listor
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Här följer en sammanfattning av vad de inbyggda smarta listorna gör:
 >
 >Det går inte att ta bort systemsmarta listor. Med undantag för listan Möjliga dubbletter kan de inte heller redigeras.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Skapa en smart lista](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
