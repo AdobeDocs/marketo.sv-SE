@@ -3,9 +3,9 @@ unique-page-id: 8781845
 description: Understanding Marketo Moments - Marketo Docs - produktdokumentation
 title: Om Marketo-stunder
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '565'
 ht-degree: 0%
 
 ---
@@ -153,9 +153,7 @@ Under alla steg på vägen kan du bekräfta eller avbryta en åtgärd. Om du än
 
 Vill du lära dig mer?
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Understanding Email Program Cards](understanding-email-program-cards.md)
 >* [Om händelsekort](understanding-event-cards.md)
