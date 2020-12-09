@@ -3,9 +3,9 @@ unique-page-id: 11372299
 description: Email Editor v2.0 Overview - Marketo Docs - produktdokumentation
 title: E-postredigerare v2.0 - översikt
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '431'
 ht-degree: 0%
 
 ---
@@ -107,9 +107,7 @@ Massor av nya bra funktioner! Ha det så roligt!
 >
 >Om du vill ta bort ännu mer kan du titta på den här [videon](https://nation.marketo.com/videos/1463).
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Syntax för e-postmall](email-template-syntax.md)
 
