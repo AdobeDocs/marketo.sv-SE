@@ -3,9 +3,9 @@ unique-page-id: 2359811
 description: Välj delnings-URL för en social app - Marketo Docs - produktdokumentation
 title: Välj delnings-URL för en social app
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ När du skapar en social app kan du välja vilken URL som ska delas i inlägg fr
    >    * **Extern URL**: En landningssida som inte är Marketo.
 
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Lägg till din integritetspolicy i en social app](add-your-privacy-policy-to-a-social-app.md)
 
