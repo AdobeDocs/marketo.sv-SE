@@ -3,9 +3,9 @@ unique-page-id: 11379928
 description: Ändra detaljer i granskningsspår - Marketo Docs - Produktdokumentation
 title: Ändra detaljer i granskningsspår
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '1903'
+source-wordcount: '1901'
 ht-degree: 0%
 
 ---
@@ -799,9 +799,7 @@ Granskningsspår ger en hel del insikt i vem som gör vad i er Marketo-prenumera
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Filtrera i granskningsspår](filtering-in-audit-trail.md)
 
