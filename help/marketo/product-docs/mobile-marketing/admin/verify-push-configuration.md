@@ -3,9 +3,9 @@ unique-page-id: 7512445
 description: Verifiera push-konfiguration - Marketo Docs - produktdokumentation
 title: Verifiera push-konfiguration
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Verifiera push-konfiguration {#verify-push-configuration}
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >Din mobilutvecklare måste ha lagt till Marketos SDK-kod i din mobilapp.
 
