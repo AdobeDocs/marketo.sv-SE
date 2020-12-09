@@ -3,9 +3,9 @@ unique-page-id: 2953358
 description: Ta bort poster direkt i marknadsföringskalendern - Marketo Docs - Produktdokumentation
 title: Radera transaktioner direkt i marknadsföringskalendern
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ Förutom att [skapa](create-entries-directly-in-the-marketing-calendar.md) och [
 
 Beroende på vilken post det gäller kan du behöva bekräfta borttagningen. Men det är allt! Ta det lugnt.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Bekräfta transaktioner direkt i marknadsföringskalendern](confirm-entries-directly-in-the-marketing-calendar.md)
 
