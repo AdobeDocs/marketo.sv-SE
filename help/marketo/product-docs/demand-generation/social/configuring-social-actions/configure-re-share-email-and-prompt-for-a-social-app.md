@@ -3,9 +3,9 @@ unique-page-id: 2950559
 description: Konfigurera Dela om e-post och fråga efter en social app - Marketo Docs - Produktdokumentation
 title: Konfigurera Dela om e-post och fråga efter en social app
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ När du skapar ett [hänvisningserbjudande](../../../../product-docs/demand-gene
 
    ![](assets/image2014-9-22-11-3a7-3a49.png)
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >Sedan kan du konfigurera [spårningsförloppet i ett hänvisningserbjudande](configure-track-progress-flow-for-a-referral-offer.md)eller klicka på **Slutför > Godkänn och stäng** för att [publicera ditt hänvisningserbjudande](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) eller [utlottningar](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md).
 
