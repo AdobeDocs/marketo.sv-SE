@@ -3,9 +3,9 @@ unique-page-id: 2359469
 description: Visa kontrollpanelen för e-postprogram - Marketo Docs - Produktdokumentation
 title: Visa kontrollpanelen för e-postprogram
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Om du inte har lagt till ett A/B-test *eller* om testet är över ska följande 
 >
 >Experimentera genom att hålla markören över diagramwidgetarna. Här visas ytterligare information.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Använd kontrollpanelen för e-postprogram - A/B-testvy](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
 >* [Använda kontrollpanelen för e-postprogram](use-the-email-program-dashboard.md)
