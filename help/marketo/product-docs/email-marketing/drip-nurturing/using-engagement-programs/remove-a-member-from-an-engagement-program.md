@@ -3,9 +3,9 @@ unique-page-id: 2359951
 description: Ta bort en medlem från ett engagemangsprogram - Marketo Docs - Produktdokumentation
 title: Ta bort en medlem från ett engagemangsprogram
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ Oj då! Hur kom de in dit? Du kan ta bort medlemmar från ett engagemangsprogram
 
 Ibland vill man bara pausa personer i ett engagemangsprogram och inte ta bort dem. Detta görs med **Change Engagement Program Cadence**.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Pausa personer i ett engagemangsprogram](pause-people-in-an-engagement-program.md)
 
