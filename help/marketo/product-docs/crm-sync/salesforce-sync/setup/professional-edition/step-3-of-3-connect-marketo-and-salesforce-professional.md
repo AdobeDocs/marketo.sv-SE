@@ -3,9 +3,9 @@ unique-page-id: 3571800
 description: Steg 3 av 3 - Connect Marketo och Salesforce (Professional) - Marketo Docs - Produktdokumentation
 title: Steg 3 av 3 - Connect Marketo och Salesforce (Professional)
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 I den här artikeln konfigurerar du Marketo att synkronisera med din konfigurerade Salesforce-instans.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Steg 1 av 3: Lägg till Marketo-fält i Salesforce (Professional)](step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
 >* [Steg 2 av 3: Skapa en Salesforce-användare för Marketo (Professional)](step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
