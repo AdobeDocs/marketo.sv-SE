@@ -3,9 +3,9 @@ unique-page-id: 11385940
 description: Redigera prediktivt innehåll för multimedia - Marketo Docs - Produktdokumentation
 title: Redigera prediktivt innehåll för multimedia
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,9 @@ ht-degree: 0%
 
 Så här konfigurerar du ditt prediktiva innehåll för multimedia.
 
->[!NOTE]
+>[!PREREQUISITES]
 >
->**Förutsättningar**
->
->Innehållet måste [godkännas för prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) på sidan Allt innehåll.
+>Innehåll måste [godkännas för prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) på sidan Allt innehåll.
 
 1. Öppna redigeraren genom att klicka på en titel på sidan **Predictive Content** .
 
