@@ -3,9 +3,9 @@ unique-page-id: 13796464
 description: Sales Connect Overview - Marketo Docs - produktdokumentation
 title: Översikt över Sales Connect
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -88,9 +88,7 @@ Skapa en enkel smart kampanj som ger era säljanvändare tillgång till [Marketo
 
 Vill du komma igång? Klicka på länken nedan om du vill se installationsanvisningar.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Komma igång med Sales Connect](http://docs.marketo.com/x/coTS)
 
