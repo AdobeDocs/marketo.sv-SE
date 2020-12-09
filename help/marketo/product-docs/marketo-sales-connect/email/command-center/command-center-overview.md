@@ -3,9 +3,9 @@ unique-page-id: 14352530
 description: Command Center Overview - Marketo Docs - produktdokumentation
 title: Översikt över kommandocentralen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -92,9 +92,7 @@ Om du till exempel lägger till 100 personer i en kampanj i MSC kanske du vill r
 
 Bonus: Om du sparar din avancerade sökning kommer den att fungera som en dynamisk lista och lägga till e-postmeddelanden som uppfyller engagemangskriterierna när mottagaren visar eller klickar på ditt e-postmeddelande.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Uppgifter](http://docs.marketo.com/x/qwDb)
 >* [Översikt över avancerad sökning](http://docs.marketo.com/x/KQM6Ag)
