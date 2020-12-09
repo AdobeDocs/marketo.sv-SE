@@ -3,9 +3,9 @@ unique-page-id: 2360350
 description: Skapa en anpassad tjänst för användning med ReST API - Marketo Docs - produktdokumentation
 title: Skapa en anpassad tjänst för användning med ReST API
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Om du vill integrera med Marketo via ReST API:t måste du skapa en anpassad tjänst. Så här gör du.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Skapa en användarroll endast för API](../../../product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
 >* [Skapa endast en API-användare](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md)
