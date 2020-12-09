@@ -3,9 +3,9 @@ unique-page-id: 10095644
 description: Godkänn ett utdrag utan utkast - Marketo Docs - produktdokumentation
 title: Godkänn ett kodfragment utan utkast
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -40,9 +40,7 @@ Inget utkast utlöses varje gång ett fragment godkänns. Detta inkluderar ett f
 >
 >Den här funktionen är utformad för att spara tid med arbetsflödet för godkännande av fragment. Det finns dock några begränsningar att vara medveten om. Mer information finns i [det här dokumentet](https://nation.marketo.com/docs/DOC-4415) . Dokumentet innehåller även felhantering och felsökningsinformation.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >[Aktivera No-draft för kodfragment](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
 
