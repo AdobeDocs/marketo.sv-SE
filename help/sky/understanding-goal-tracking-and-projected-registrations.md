@@ -2,9 +2,9 @@
 title: understanding-target-tracking-and-projicerad-registreringar
 description: Förstå målspårning och projekterade registreringar
 translation-type: tm+mt
-source-git-commit: 1231bc32a3abdf66c10864d6605234763618dbe0
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '976'
+source-wordcount: '969'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ När du har [ställt in händelsemål](/help/sky/setting-event-goals.md)och skic
 
 ## Målspårning och planerade registreringar
 
-1. Du hittar målspårningsinformation på fliken [!UICONTROL **Rapporter**] i ditt händelseprogram. I just det här exemplet finns det 150 registrerade medlemmar hittills mot målet 200 (75 %).
+1. Du hittar målspårningsinformation på fliken **[!UICONTROL Reports]** i ditt händelsemeddelande. I just det här exemplet finns det 150 registrerade medlemmar hittills mot målet 200 (75 %).
 
    ![Bild ett](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-1.png)
 
-Du kommer också att se dina [!UICONTROL **planerade**] registreringar. Håll muspekaren över infoikonen om du vill se en uppdelning av det här talet efter segmentet Sannolikhet.
+Du kommer också att se dina **[!UICONTROL Projected]** registreringar. Håll muspekaren över infoikonen om du vill se en uppdelning av det här talet efter segmentet Sannolikhet.
 
 ![Bild två](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-2.png)
 
@@ -69,7 +69,7 @@ Högst upp på sidan Rapporter hittar du AI/ML-drivna rekommendationer baserat p
 
 ## Personnivåprognoser
 
-Klicka på fliken [!UICONTROL **Medlemmar**] för att visa alla programmedlemmar. Håll muspekaren över fälten [!UICONTROL **Registreringssannolikhet**] eller [!UICONTROL **Närvaro**] för att se exakta procentsatser och kategoriseringar. Du kan sedan vidta åtgärder för medlemmar i en viss kategori (t.ex. alla i kategorin&quot;Less Troely&quot; för att registrera) och särskilt inrikta dig på dem för att eventuellt öka dina registreringsnummer.
+Klicka på&#x200B;**[!UICONTROL Members]** fliken för att visa alla programmedlemmar. Håll muspekaren över **[!UICONTROL Registration Likelihood]** - eller **[!UICONTROL Attendance Likelihood]** -fälten för att se exakta procentsatser och kategoriseringar. Du kan sedan vidta åtgärder för medlemmar i en viss kategori (t.ex. alla i kategorin&quot;Less Troely&quot; för att registrera) och särskilt inrikta dig på dem för att eventuellt öka dina registreringsnummer.
 
 ![Bild sju](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-7.png)
 
