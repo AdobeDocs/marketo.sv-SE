@@ -2,9 +2,9 @@
 title: archive-and-unarchive-stream-content
 description: Arkivera och arkivera ströminnehåll
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Om du inte längre vill använda innehåll i en ström kan du antingen [ta bort]
 
    ![Bild ett](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-1.png)
 
-1. Klicka på fliken [!UICONTROL **Streams**]
+1. Klicka på **[!UICONTROL Streams]** fliken
 
    ![Bild två](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-2.png)
 
@@ -33,7 +33,7 @@ Om du inte längre vill använda innehåll i en ström kan du antingen [ta bort]
 
    ![Bild tre](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-3.png)
 
-1. Välj [!UICONTROL **Arkiv**].
+1. Välj **[!UICONTROL Archive]**.
 
    ![Bild fyra](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-4.png)
 
@@ -45,11 +45,11 @@ Så ja! Kom ihåg att arkivera om du vill bevara historiken.
 
    ![Bild fem](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-5.png)
 
-1. Klicka på fliken [!UICONTROL **Streams**] .
+1. Klicka på **[!UICONTROL Streams]** fliken.
 
    ![Bild sex](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-6.png)
 
-1. Klicka på kugghjulsikonen för strömmen och klicka sedan på [!UICONTROL **Visa arkiverat innehåll**].
+1. Klicka på kugghjulsikonen för strömmen och klicka sedan **[!UICONTROL Show Archived Content]**.
 
    ![Bild sju](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-7.png)
 
@@ -57,7 +57,7 @@ Så ja! Kom ihåg att arkivera om du vill bevara historiken.
 
    ![Bild åtta](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-8.png)
 
-1. Välj [!UICONTROL **Oarkiv**].
+1. Välj **[!UICONTROL Unarchive]**.
 
    ![Bild nio](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-9.png)
 
