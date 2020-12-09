@@ -3,9 +3,9 @@ unique-page-id: 5472402
 description: Redigera din godkända modell - Marketo Docs - Produktdokumentation
 title: Redigera din godkända modell
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ ht-degree: 0%
 
 Du kan bara ha en godkänd modell åt gången. Om du vill godkänna en modell men redan har en godkänd, måste du först avgodkänna den aktuella modellen. Om det är möjligt kan du prova att redigera modellen i stället för att skapa en ny.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >[Skapa en ny intäktsmodell](../../../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
