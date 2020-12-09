@@ -3,9 +3,9 @@ unique-page-id: 11372975
 description: Steg 1 av 3 -Lägg till Marketto-fält i Salesforce (Professional) - Marketo-dokument - Produktdokumentation
 title: Steg 1 av 3 -Lägg till Marketto-fält i Salesforce (Professional)
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '749'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Steg 1 av 3: Lägg till Marketo-fält i Salesforce (Professional) {#step-of-add-marketo-fields-to-salesforce-professional}
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >Salesforce-instansen måste ha tillgång till Salesforce API:er för att kunna synkronisera data mellan Marketo och Salesforce.
 
