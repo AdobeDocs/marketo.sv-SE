@@ -3,9 +3,9 @@ unique-page-id: 4719336
 description: Användarinställningar - Marketo Docs - Produktdokumentation
 title: Användarinställningar
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ Välj vilken [e-postrapport](../../../product-docs/web-personalization/reporting
 >
 >När du klickar på **Spara** avslutas inte användarinställningarna. Om du vill avsluta klickar du på Marketo-logotypen i det övre vänstra hörnet och väljer mål.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Redigera områden](edit-regions.md)
 
