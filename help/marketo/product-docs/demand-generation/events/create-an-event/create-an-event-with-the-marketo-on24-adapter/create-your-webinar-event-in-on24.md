@@ -3,9 +3,9 @@ unique-page-id: 10096712
 description: Skapa ett webbinarium i ON24 - Marketo Docs - produktdokumentation
 title: Skapa ett webbinarium i ON24
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ Det finns vissa inställningar när du skapar ett ON24-webbinarium som används 
 
 Nästa steg är att [skapa en händelse i Marketo](create-an-event-in-marketo.md).
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Om Marketo ON24-adapterhändelser](understanding-marketo-on24-adapter-events.md)
 
