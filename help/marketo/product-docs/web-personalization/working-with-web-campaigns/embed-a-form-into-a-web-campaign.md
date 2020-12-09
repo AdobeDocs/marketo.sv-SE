@@ -3,9 +3,9 @@ unique-page-id: 10095554
 description: Bädda in ett formulär i en webbkampanj - Marketo Docs - produktdokumentation
 title: Bädda in ett formulär i en webbkampanj
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -84,9 +84,7 @@ Så här lägger du till CSS-kod i skriptet:
 
    ![](assets/image2015-12-29-18-3a20-3a35.png)
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Redigera CSS för ett formulärtema](https://docs.marketo.com/display/public/DOCS/Edit+the+CSS+of+a+Form+Theme)
 >* [Visa tackmeddelande utan en uppföljningsstartsida](http://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
