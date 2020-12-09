@@ -2,9 +2,9 @@
 title: activate-and-deactivate-stream-content
 description: Aktivera och inaktivera ströminnehåll
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Ströminnehåll är inaktiverat som standard. Aktivera innehåll som ska skickas
 
    ![Bild ett](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-1.png)
 
-1. Klicka på fliken [!UICONTROL **Streams**] .
+1. Klicka på **[!UICONTROL Streams]** fliken.
 
    ![Bild två](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-2.png)
 
@@ -28,7 +28,7 @@ Ströminnehåll är inaktiverat som standard. Aktivera innehåll som ska skickas
 
    ![Bild tre](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-3.png)
 
-1. Välj [!UICONTROL **Aktivera**].
+1. Välj **[!UICONTROL Activate]**.
 
    ![Bild fyra](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-4.png)
 
@@ -38,7 +38,7 @@ Ströminnehåll är inaktiverat som standard. Aktivera innehåll som ska skickas
 
 >[!TIP]
 >
->Du kan också aktivera allt innehåll i en ström genom att klicka på kugghjulsikonen längst upp och välja [!UICONTROL **Aktivera alla**].
+>Du kan också aktivera allt innehåll i en ström genom att klicka på kugghjulsikonen längst upp och välja **[!UICONTROL Activate All]**.
 
 ## Inaktivera ströminnehåll
 
@@ -46,7 +46,7 @@ Ströminnehåll är inaktiverat som standard. Aktivera innehåll som ska skickas
 
    ![Bild fem](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-5.png)
 
-1. Klicka på fliken [!UICONTROL **Streams**] .
+1. Klicka på **[!UICONTROL Streams]** fliken.
 
    ![Bild sex](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-6.png)
 
@@ -54,6 +54,6 @@ Ströminnehåll är inaktiverat som standard. Aktivera innehåll som ska skickas
 
    ![Bild sju](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-7.png)
 
-1. Välj [!UICONTROL **Inaktivera**].
+1. Välj **[!UICONTROL Deactivate]**.
 
    ![Bild åtta](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-8.png)
