@@ -3,9 +3,9 @@ unique-page-id: 1147064
 description: Använd kommunikationsbegränsningar för Smart Campaign - Marketo Docs - Produktdokumentation
 title: Använd kommunikationsbegränsningar för smart kampanj
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Använd kommunikationsbegränsningar för smart kampanj {#apply-communication-limits-to-smart-campaign}
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Aktivera kommunikationsgränser](../../../../product-docs/administration/email-setup/enable-communication-limits.md)
 
