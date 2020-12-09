@@ -3,9 +3,9 @@ unique-page-id: 7505310
 description: Prenumerera på en smart lista - Marketo Docs - produktdokumentation
 title: Prenumerera på en smart lista
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -108,9 +108,7 @@ Om du vill ta bort en prenumeration markerar du den på prenumerationsfliken och
 
 ![](assets/twelve.png)
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Redigera en prenumeration på en smart lista](edit-a-smart-list-subscription.md)
 >* [Skydda inställningen för prenumerationsadministration](secure-the-subscription-admin-setting.md)
