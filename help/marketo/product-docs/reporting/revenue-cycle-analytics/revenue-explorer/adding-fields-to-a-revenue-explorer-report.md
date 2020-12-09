@@ -3,9 +3,9 @@ unique-page-id: 7504383
 description: Lägga till fält i en Intresseutforskarrapport - Marketo-dokument - Produktdokumentation
 title: Lägga till fält i en Intresseutforskarrapport
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -48,9 +48,7 @@ Anpassa intäktsutforskarrapporter genom att dra och släppa mått- och mätfäl
 
    ![](assets/image2015-3-24-15-3a55-3a7.png)
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Ta bort ett fält i en Intresseutforskarrapport](deleting-a-field-in-a-revenue-explorer-report.md)
 
