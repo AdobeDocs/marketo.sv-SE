@@ -3,9 +3,9 @@ unique-page-id: 1146995
 description: Använd token i flödessteg - Marketo Docs - Produktdokumentation
 title: Använd token i flödessteg
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Använd token i flödessteg {#use-tokens-in-flow-steps}
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Lägg till ett flödessteg i en smart kampanj](add-a-flow-step-to-a-smart-campaign.md)
 
