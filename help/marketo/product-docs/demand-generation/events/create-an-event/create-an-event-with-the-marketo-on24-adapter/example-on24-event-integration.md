@@ -3,9 +3,9 @@ unique-page-id: 10096679
 description: Exempel på ON24-händelseintegrering - Marketo Docs - produktdokumentation
 title: Exempel på händelseintegrering ON24
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '385'
 ht-degree: 0%
 
 ---
@@ -91,9 +91,7 @@ Här är ett exempel på en händelse, inklusive kampanjer, för ett ON24-webbin
 
 ![](assets/ten.png)
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Om Marketo ON24-adapterhändelser](understanding-marketo-on24-adapter-events.md)
 
