@@ -3,9 +3,9 @@ unique-page-id: 2951877
 description: Understanding the Program Opportunity Analysis Area - Marketo Docs - Product Documentation
 title: Understanding the Program Opportunity Analysis Area
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '898'
+source-wordcount: '896'
 ht-degree: 0%
 
 ---
@@ -188,8 +188,6 @@ Måtten (blå punkter) beräknas, och det krävs en viss tanke och förklaring f
 
 **Alla affärsmöjligheter som gav valfri typ av attribueringskrediter till ett program. Möjligheterna kan påverkas av ett eller flera leads och av ett eller flera program.*
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >[Skapa en rapport för intäktsutforskaren](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
