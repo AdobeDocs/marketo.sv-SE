@@ -3,9 +3,9 @@ unique-page-id: 7511980
 description: Spara en rapport - Marketo Docs - Produktdokumentation
 title: Spara en rapport
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -38,9 +38,7 @@ Ibland kan du behöva spara en standardrapport för att kunna visa den igen sena
 
    ![](assets/image2015-4-21-11-3a12-3a40.png)
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >Lär dig hur du [klonar en rapport för att gruppera rapporter](../../../../product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).
 
