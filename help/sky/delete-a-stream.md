@@ -2,9 +2,9 @@
 title: delete-a-stream
 description: Ta bort en ström
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Om du någonsin behöver ta bort en ström från engagemangsprogrammet följer d
 
    ![Bild ett](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-1.png)
 
-1. Klicka på fliken [!UICONTROL **Streams**] .
+1. Klicka på **[!UICONTROL Streams]** fliken.
 
    ![Bild två](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-2.png)
 
@@ -29,7 +29,7 @@ Om du någonsin behöver ta bort en ström från engagemangsprogrammet följer d
    >Om du tar bort en ström går historikdata förlorade för
    >innehållet i den strömmen.
 
-1. Klicka på kugghjulsikonen och välj sedan [!UICONTROL **Ta bort**].
+1. Klicka på kugghjulsikonen och välj sedan **[!UICONTROL Delete]**.
 
    ![Bild tre](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-3.png)
 
