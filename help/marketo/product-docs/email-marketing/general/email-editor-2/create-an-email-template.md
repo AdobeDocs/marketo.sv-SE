@@ -3,9 +3,9 @@ unique-page-id: 10096400
 description: Skapa en e-postmall - Marketo Docs - Produktdokumentation
 title: Skapa en e-postmall
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ Följ de här enkla stegen om du har skapat ett e-postmeddelande som du vill spa
 
 Läs artikeln nedan om du vill anpassa din e-postmall.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >[Syntax för e-postmall](email-template-syntax.md)
 
