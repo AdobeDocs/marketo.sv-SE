@@ -3,9 +3,9 @@ unique-page-id: 2359759
 description: Anpassa knapp för sociala appar - Marketo Docs - Produktdokumentation
 title: Knappen Anpassa social app
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ När du skapar en [social knapp](../../../../product-docs/demand-generation/land
 >
 >I ett hänvisningserbjudande kan du även anpassa knappen **Spåra förlopp** . Gå till **Appinställningar** > Spåra **förloppsformat** och följ stegen ovan.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >För en social knapp [konfigurerar du när den öppnas](configure-when-social-button-opens.md). För ett hänvisningserbjudande [anger du erbjudandemålet](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).
 
