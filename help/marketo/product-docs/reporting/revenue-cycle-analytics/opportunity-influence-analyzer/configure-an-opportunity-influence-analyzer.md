@@ -3,9 +3,9 @@ unique-page-id: 2360240
 description: Konfigurera en säljprojektsanalys - Marketo Docs - Produktdokumentation
 title: Konfigurera en analys av affärsmöjlighet
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 När du har [skapat en analys](create-an-opportunity-influence-analyzer.md)av affärsmöjlighet kan du konfigurera de typer av [intressanta stunder](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) som ingår.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Skapa en analys av affärsmöjlighet](create-an-opportunity-influence-analyzer.md)
 
