@@ -3,9 +3,9 @@ unique-page-id: 2359781
 description: Skapa ett hänvisningserbjudande - Marketo Docs - Produktdokumentation
 title: Skapa ett hänvisningserbjudande
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,7 @@ Om det uppstår några problem i hänvisningserbjudandet uppmanas du att åtgär
 
 Grattis! Du har skapat ditt hänvisningserbjudande.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >Nästa steg är att [publicera ditt hänvisningserbjudande](publish-a-referral-offer.md) på en landningssida, på din webbplats eller på Facebook.
 
