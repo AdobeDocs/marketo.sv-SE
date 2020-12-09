@@ -3,9 +3,9 @@ unique-page-id: 37356575
 description: Alternativ för massutskick - Marketo Docs - Produktdokumentation
 title: Alternativ för massutskick
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ Använda Markera och skicka
 
 Som standard redigeras alla mottagare. Men du kan också välja varje enskild e-postadress och göra anpassade redigeringar. Det här kan vara bra om du vill lägga till en eller flera unika rader med anpassningar till mottagare som du vill använda ett mer personaliserat tillvägagångssätt med.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Disponera massutskick med Markera och skicka](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
 >* [Skicka e-post via gruppe-post](http://docs.marketo.com/x/KAQ6Ag)
