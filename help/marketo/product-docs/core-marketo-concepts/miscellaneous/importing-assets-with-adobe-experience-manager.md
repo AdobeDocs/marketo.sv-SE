@@ -3,9 +3,9 @@ unique-page-id: 37355768
 description: Importera resurser med Adobe Experience Manager - Marketo Docs - Produktdokumentation
 title: Importera resurser med Adobe Experience Manager
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Med Resursväljaren kan Marketo-kunder komma åt, välja och importera AEM till 
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din Customer Success Manager för mer information.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >Kontrollera att du redan har utfört [AEM Configuration](https://docs.marketo.com/x/FwPLAQ).
 
