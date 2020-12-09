@@ -3,9 +3,9 @@ unique-page-id: 7504343
 description: Skapa ett segment med hjälp av kända persondata - Marketo Docs - produktdokumentation
 title: Skapa ett segment med hjälp av kända persondata
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Så här skapar du ett segment med hjälp av kända persondatavärden.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >[Hantera persondata](manage-person-data.md)
 
