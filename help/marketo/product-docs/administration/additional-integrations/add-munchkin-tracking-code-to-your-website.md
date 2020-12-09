@@ -3,9 +3,9 @@ unique-page-id: 2360354
 description: Lägg till Munchkin-spårningskod på din webbplats - Marketo Docs - Produktdokumentation
 title: Lägg till Munchkin-spårningskod på din webbplats
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '672'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketos skräddarsydda JavaScript-spårningskod, som kallas Munchkin, spårar alla personer som besöker er webbplats så att ni kan reagera på deras besök med automatiserade marknadsföringskampanjer. Även anonyma besökare spåras tillsammans med sina IP-adresser och annan information. ** Utan den här spårningskoden kan du inte spåra besök eller annan aktivitet på din webbplats!**
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >Kontrollera att du har tillgång till en erfaren JavaScript-utvecklare. Marketo Technical Support har inte konfigurerats för att hjälpa till med felsökning av anpassad JavaScript.
 
