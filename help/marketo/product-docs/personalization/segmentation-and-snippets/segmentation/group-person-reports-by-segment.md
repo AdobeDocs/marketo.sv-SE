@@ -3,9 +3,9 @@ unique-page-id: 2359492
 description: Grupppersonrapporter efter segment - Marketo Docs - Produktdokumentation
 title: Gruppera personrapporter efter segment
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ Du kan gruppera dina [personrapporter](http://docs.marketo.com/display/docs/basi
 >
 >Mer information om segment och hur du skapar och hanterar dem finns i djupdykningen [Segmentering](http://docs.marketo.com/display/docs/segmentation+and+snippets) .
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Lägg till anpassade kolumner i en personrapport](../../../../product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
 
