@@ -3,9 +3,9 @@ unique-page-id: 1147001
 description: Använda logik för standardregel för smart lista - Marketo Docs - Produktdokumentation
 title: Använda logik för standardregel för smart lista
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -34,9 +34,7 @@ Utlösare utvärderas alltid som ELLER även om inställningen ovan är inställ
 Ovanstående lista med ord:
 `<pre data-theme="Confluence">IF person fills out My Form OR IF person visits My Page AND Industry is Marketing AND Country is USA THEN follow the campaign's flow step(s)</pre>` Så om en person fyller i formuläret **eller** besöker sidan, kommer kampanjen att utvärdera personen baserat på **all **eller **any **i de efterföljande filtren, beroende på vilken inställning som används.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Använda avancerad logik för smarta listregler](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
 
