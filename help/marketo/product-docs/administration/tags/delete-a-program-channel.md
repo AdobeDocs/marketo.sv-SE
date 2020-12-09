@@ -3,9 +3,9 @@ unique-page-id: 2360281
 description: Ta bort en programkanal - Marketo Docs - Produktdokumentation
 title: Ta bort en programkanal
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ Om du råkar göra en av misstag eller inte längre behöver en, kan du ta bort 
 
 Bam! Du kan också [ta bort specifika statusvärden från kanaler](delete-a-program-status-from-a-program-channel.md).
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Ta bort en programstatus från en programkanal](delete-a-program-status-from-a-program-channel.md)
 
