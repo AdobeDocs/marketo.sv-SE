@@ -3,9 +3,9 @@ unique-page-id: 15368208
 description: Så här installerar du anpassningar i din Salesforce-sandlåda - Marketo Docs - produktdokumentation
 title: Installera anpassningar i din Salesforce-sandlåda
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 >
 >**Administratörsbehörigheter krävs**
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >[Anslut försäljningsanslutning till din Salesforce-sandlåda](http://docs.marketo.com/x/DYDq)
 
