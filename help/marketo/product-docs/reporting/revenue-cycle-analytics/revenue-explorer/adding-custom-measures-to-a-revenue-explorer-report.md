@@ -3,9 +3,9 @@ unique-page-id: 10097747
 description: Lägga till anpassade mått i en Intresseutforskarrapport - Marketo Docs - Produktdokumentation
 title: Lägga till anpassade mått i en Intresseutforskarrapport
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Ibland vill man ha ett anpassat mått i en rapport. Det är enkelt att skapa egn
 
 I exemplet nedan skapar du ett beräknat mått för mjuka studsar, som tar mätvärden som redan finns i rapporten och använder grundläggande matematik för att skapa ett nytt mätvärde. Du kan också skapa andra typer av mått.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >Du behöver minst ett mått i rapporten, men det behöver inte vara ett av de mått som du använder för att definiera ditt anpassade mått.
 
