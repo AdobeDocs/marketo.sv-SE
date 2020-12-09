@@ -3,9 +3,9 @@ unique-page-id: 8782024
 description: Laddar ned Marketo Moments - Marketo Docs - produktdokumentation
 title: Hämtar Marketo Moments
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ Mycket nöje!
 >
 >Enkel inloggning med SAML (Security Assertion Markup Language) stöds inte för Marketo Moments.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >[Om Marketo-stunder](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 
