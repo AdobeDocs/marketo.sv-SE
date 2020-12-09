@@ -3,9 +3,9 @@ unique-page-id: 2953415
 description: Använda personinformationssidan - Marketo Docs - Produktdokumentation
 title: Använda personinformationssidan
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -115,9 +115,7 @@ Många fält kan redigeras. Om du vill uppdatera en persons information skriver 
 >
 Läs mer om [systemhanterade fält](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md).
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Skapa en anpassad flik för personinformationssidan](../../../../product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
 
