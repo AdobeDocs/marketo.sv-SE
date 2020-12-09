@@ -3,9 +3,9 @@ unique-page-id: 2359718
 description: Lägg till en social knapp på en startsida i fri form - Marketo Docs - produktdokumentation
 title: Lägga till en social knapp på en startsida i friform
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -55,8 +55,6 @@ En social knapp uppmuntrar människor att dela ditt innehåll med sina vänner. 
 
 Grattis! Du har lagt till en social knapp på landningssidan. Var noga med att godkänna landningssidan.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >Du är klar, men du kan ändra inställningarna för den sociala knappen om det behövs. Börja med att [anpassa knappformatet](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) eller [redigera de delningsmeddelanden](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) som visas.
