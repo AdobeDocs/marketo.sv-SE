@@ -3,9 +3,9 @@ unique-page-id: 11379622
 description: Konfigurera Facebook-annonser - Marketo Docs - Produktdokumentation
 title: Konfigurera Facebook-annonser
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,7 @@ Använd [Facebook-annonser](https://www.facebook.com/business/a/lead-ads) för a
 
    ![](assets/image2016-11-29-12-3a32-3a54.png)
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Använd filter och utlösare för annonsering av leads i en smart kampanj](use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
 >* [Mappa anpassade fält till markering](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
