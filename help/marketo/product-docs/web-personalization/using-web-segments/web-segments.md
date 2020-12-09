@@ -3,9 +3,9 @@ unique-page-id: 4719093
 description: Webbsegment - Marketo Docs - produktdokumentation
 title: Webbsegment
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '2033'
+source-wordcount: '2031'
 ht-degree: 0%
 
 ---
@@ -342,8 +342,7 @@ Du kan inte ta bort ett segment som är associerat med en kampanj. Först måste
 
 Bra! Nu när ni förstår segmentavsnittet kan vi lära oss mer om kampanjer.
 
->[!NOTE]
-**Relaterade artiklar**
+>[!MORELIKETHIS]
 * [Skapa ett enkelt webbsegment](create-a-basic-web-segment.md)
 * [Skapa en ny webbkampanj för dialog](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 * [Skapa en ny webbkampanj i zonen](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
