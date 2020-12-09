@@ -3,9 +3,9 @@ unique-page-id: 2359514
 description: Klona ett kodfragment - Marketo Docs - Produktdokumentation
 title: Klona ett fragment
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ Klona ett fragment för att skapa en kopia som du kan ändra efter behov.
 
 Häftig! Nu kan du ändra det klonade fragmentet så att det passar dina behov.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Redigera fragment med dynamiskt innehåll](edit-snippets-with-dynamic-content.md)
 
