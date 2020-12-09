@@ -3,9 +3,9 @@ unique-page-id: 10093192
 description: Skapa anpassade Marketo-objekt - Marketo Docs - Produktdokumentation
 title: Skapa anpassade Marketo-objekt
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '710'
 ht-degree: 0%
 
 ---
@@ -133,9 +133,7 @@ Använd ett mellanliggande objekt för att koppla ett anpassat objekt till perso
 
    Nästa steg är att du ska [lägga till länkfält](add-marketo-custom-object-link-fields.md) för att koppla ditt mellanliggande objekt till en person/ett företag och ett anpassat objekt.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Lägg till markering i anpassade objektfält](add-marketo-custom-object-fields.md)
 >* [Lägg till markering i anpassade objektlänkfält](add-marketo-custom-object-link-fields.md)
