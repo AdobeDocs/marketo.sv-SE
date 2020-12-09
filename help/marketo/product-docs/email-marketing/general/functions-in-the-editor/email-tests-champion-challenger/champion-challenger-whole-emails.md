@@ -3,9 +3,9 @@ unique-page-id: 2359555
 description: Champion/Challenger -hele mails - Marketo Docs - produktdokumentation
 title: Champion/Challenger - Hele-mails
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Testa hela e-postmeddelanden mot varandra. När testet är klart skickar du ut den översta utföraren.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Lägg till en e-postkampanj/kanal](add-an-email-champion-challenger.md)
 
