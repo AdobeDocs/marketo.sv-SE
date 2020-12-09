@@ -2,9 +2,9 @@
 title: add-a-flow-step-to-a-smart-campaign
 description: Lägg till ett flödessteg i en smart kampanj
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Flödesstegen talar om för Marketo vad du vill ska hända med en grupp personer
 
 ## Lägg till ett flödessteg
 
-1. I [!UICONTROL Marketing Activities]väljer du en smart kampanj och klickar på [!UICONTROL **Flöde**].
+1. I [!UICONTROL Marketing Activities]väljer du en smart kampanj och klickar på **[!UICONTROL Flow]**.
 
    ![Bild ett](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-1.png)
 
