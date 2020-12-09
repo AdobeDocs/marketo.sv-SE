@@ -3,9 +3,9 @@ unique-page-id: 1900591
 description: Skapa ett e-postprogram - Marketo Docs - Produktdokumentation
 title: Skapa ett e-postprogram
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Snyggt! Lägg märke till att programmet nu finns i trädet och är klart att an
 
 `<iframe width="630" height="470" src="//play.vidyard.com/3ySE7FAnFR9btywiWgt4sW.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Definiera en publik med en smart lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
 >* [Definiera en publik genom att importera en lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
