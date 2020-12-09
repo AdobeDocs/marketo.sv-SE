@@ -3,9 +3,9 @@ unique-page-id: 557273
 description: Söka efter och lägga till filter i en smart lista - Marketo Docs - Produktdokumentation
 title: Söka efter och lägga till filter i en smart lista
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ I det här exemplet hittar vi alla i Kalifornien med en poäng över 50.
 
 Perfekt! Låt oss definiera de här filtren.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Skapa en smart lista](create-a-smart-list.md)
 >* [Definiera smarta listfilter](define-smart-list-filters.md)
