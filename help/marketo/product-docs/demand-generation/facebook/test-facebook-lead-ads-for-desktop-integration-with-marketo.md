@@ -3,9 +3,9 @@ unique-page-id: 11370892
 description: Testa Facebook-annonser för datorintegrering med Marketo - Marketo Docs - Produktdokumentation
 title: Testa Facebook-annonser för integrering med Marketo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 När du har skapat din lead-annons bör du testa den! Så här gör du på skrivbordet.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >Du måste [konfigurera Facebook Lead Ads-integrering](set-up-facebook-lead-ads.md).
 
