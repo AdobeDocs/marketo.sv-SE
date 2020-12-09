@@ -3,9 +3,9 @@ unique-page-id: 15368205
 description: Så här ansluter du Sales Connect till din Salesforce-sandlåda - Marketo Docs - produktdokumentation
 title: Ansluta säljanslutning till din Salesforce-sandlåda
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Ansluta säljanslutning till din Salesforce-sandlåda {#how-to-connect-sales-connect-to-your-salesforce-sandbox}
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >Ditt Sales Connect-konto kan inte redan vara anslutet till Salesforce när du upprättar en anslutning till sandlådan. Om så är fallet [måste du koppla från](http://docs.marketo.com/x/FoDq) innan du följer stegen i den här artikeln.
 
