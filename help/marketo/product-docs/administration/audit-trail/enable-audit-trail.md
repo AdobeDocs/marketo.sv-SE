@@ -3,9 +3,9 @@ unique-page-id: 11382122
 description: Aktivera granskningsspår - Marketo Docs - Produktdokumentation
 title: Aktivera granskningsspår
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ Granskningsspårning är tillgängligt för alla kunder och styrs av två admini
 
 ## Tilldela roll för granskningsspår till en användare {#assign-audit-trail-role-to-a-user}
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >[Skapa](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) eller [aktivera](#Enable) en befintlig roll och ge den behörigheten Granskningsspår.
 
