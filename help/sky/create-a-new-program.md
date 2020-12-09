@@ -2,9 +2,9 @@
 title: create-a-new-program
 description: Skapa ett nytt program
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Program är ett av de viktigaste elementen i [!DNL Marketo]. Du kommer att använda dem mycket!
 
-1. Högerklicka på arbetsytans glob överst i trädet och välj [!UICONTROL **Nytt program**] i listrutan.
+1. Högerklicka på arbetsytans glob överst i trädet och välj **[!UICONTROL New Program]** i listrutan.
 
    ![Bild ett](/help/sky/assets/programs/create-a-new-program/create-a-new-program-1.png)
 
@@ -24,6 +24,6 @@ Program är ett av de viktigaste elementen i [!DNL Marketo]. Du kommer att anvä
 
    ![Bild två](/help/sky/assets/programs/create-a-new-program/create-a-new-program-2.png)
 
-1. Du kan också ange ett [!UICONTROL Description] och/eller lägga till [!UICONTROL Labels] i programmet. Klicka på [!UICONTROL **Lägg till**] för att slutföra skapandet av programmet.
+1. Du kan också ange ett [!UICONTROL Description] och/eller lägga till [!UICONTROL Labels] i programmet. Klicka **[!UICONTROL Add]** för att skapa programmet.
 
    ![Bild tre](/help/sky/assets/programs/create-a-new-program/create-a-new-program-3.png)
