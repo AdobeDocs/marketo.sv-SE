@@ -3,9 +3,9 @@ unique-page-id: 2953364
 description: Förstå/aktivera programfokus - Marketo Docs - Produktdokumentation
 title: Förstå/aktivera programfokus
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Marknadsföringskalendern ger er en fågelperspektiv på saker och ting, men den
 
 Häftig! Lär dig interagera med tävlingsbidragen nu.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Skapa transaktioner direkt i marknadsföringskalendern](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)
 >* [Redigera poster direkt i marknadsföringskalendern](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)
