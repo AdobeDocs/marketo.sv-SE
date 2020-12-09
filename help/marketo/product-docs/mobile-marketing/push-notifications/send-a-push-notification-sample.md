@@ -3,9 +3,9 @@ unique-page-id: 8783141
 description: Skicka ett push-meddelandeexempel - Marketo Docs - Produktdokumentation
 title: Skicka ett push-meddelandeexempel
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Du kan skicka ett prov för att verifiera att ditt push-meddelande fungerar som det ska!
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >Kontrollera att appen är installerad på den enhet som du skickar exemplet till.
 
