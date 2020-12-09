@@ -3,9 +3,9 @@ unique-page-id: 4719300
 description: Lägg till/ta bort anpassat objektfält som smart lista/utlösarbegränsningar - Marketo-dokument - Produktdokumentation
 title: Lägg till/ta bort anpassat objektfält som smart lista/utlösarbegränsningar
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -68,9 +68,7 @@ Marketo ger exakt kontroll över Salesforce-objektsynkroniseringen. På så sät
 
 Wow! Nu har smarta listor och smarta kampanjer ännu större kraft.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Aktivera/inaktivera synkronisering av anpassat objekt](enable-disable-custom-object-sync.md)
 
