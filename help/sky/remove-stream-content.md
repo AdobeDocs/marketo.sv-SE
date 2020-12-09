@@ -2,9 +2,9 @@
 title: remove-stream-content
 description: Ta bort ströminnehåll
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Du kan antingen ta bort eller arkivera en del av innehållet. Till skillnad frå
 
    ![Bild ett](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-1.png)
 
-1. Klicka på fliken [!UICONTROL **Streams**] .
+1. Klicka på **[!UICONTROL Streams]** fliken.
 
    ![Bild två](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-2.png)
 
@@ -28,7 +28,7 @@ Du kan antingen ta bort eller arkivera en del av innehållet. Till skillnad frå
 
    ![Bild tre](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-3.png)
 
-1. Välj [!UICONTROL **Ta bort**].
+1. Välj **[!UICONTROL Remove]**.
 
    ![Bild fyra](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-4.png)
 
