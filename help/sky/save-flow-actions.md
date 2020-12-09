@@ -2,9 +2,9 @@
 title: save-flow-actions
 description: Spara flödesåtgärder
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Flödesstegen talar om för Marketo vad du vill ska hända med en grupp personer
 
    ![Bild ett](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-1.png)
 
-1. När du har angett en smart lista klickar du på [!UICONTROL **Flöde**].
+1. När du har angett en smart lista klickar du på **[!UICONTROL Flow]**.
 
    ![Bild två](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-2.png)
 
@@ -32,11 +32,11 @@ Flödesstegen talar om för Marketo vad du vill ska hända med en grupp personer
 
    ![Bild fyra](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-4.png)
 
-1. När du är klar med att lägga till filter/utlösare klickar du på listrutan [!UICONTROL **Smarta kampanjåtgärder**] och väljer [!UICONTROL **Spara nytt flöde**].
+1. När du är klar med att lägga till filter/utlösare klickar du på **[!UICONTROL Smart Campaign Actions]** listrutan och väljer **[!UICONTROL Save New Flow]**.
 
    ![Bild fem](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-5.png)
 
-1. Namnge ditt flöde och klicka på [!UICONTROL **Spara**].
+1. Namnge ditt flöde och klicka på **[!UICONTROL Save]**.
 
    ![Bild sex](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-6.png)
 
@@ -48,11 +48,11 @@ Och du är klar. Nästa gång du skapar en smart kampanj får du tillgång till 
 
    ![Bild sju](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-7.png)
 
-1. Klicka på [!UICONTROL **Flöde**].
+1. Klicka **[!UICONTROL Flow]**.
 
    ![Bild åtta](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-8.png)
 
-1. Klicka på listrutan [!UICONTROL **Sparade flöden**] .
+1. Klicka på **[!UICONTROL Saved Flows]** listrutan.
 
    ![Bild nio](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-9.png)
 
