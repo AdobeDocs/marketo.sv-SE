@@ -3,9 +3,9 @@ unique-page-id: 2953469
 description: SFDC Sync -Campaign Sync - Marketo Docs - Produktdokumentation
 title: SFDC-synkronisering - Kampanjsynkronisering
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
@@ -70,9 +70,7 @@ Här är saker du kan kontrollera:
 >
 >Om Salesforce-kampanjen och det mappade Marketo-programmet har inkompatibla programstatusar kan ett felmeddelande visas. Vi rekommenderar att du [matchar programstatusvärdena före synkroniseringen](sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Synkronisera en SFDC-kampanj med ett program](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
 >* [Förstå programmedlemskap](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
