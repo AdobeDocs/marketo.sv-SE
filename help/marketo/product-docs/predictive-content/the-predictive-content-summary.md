@@ -3,9 +3,9 @@ unique-page-id: 11384634
 description: The Predictive Content Summary - Marketo Docs - produktdokumentation
 title: Sammanfattning av prediktivt innehåll
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ Vilka typer av innehåll är mest engagerande? Se det i det här diagrammet.
 >
 >Om du klickar på en kategorilänk (exempel i bilden ovan): leadgen, e-post osv.) den öppnar sidan Allt innehåll med den kategori som du klickade på och som lagts till i filtret, och visar innehållsanalysen i den kategorin.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Arbeta med allt innehåll](http://docs.marketo.com/display/docs/working+with+all+content)
 >* [Arbeta med prediktivt innehåll](http://docs.marketo.com/display/docs/working+with+predictive+content)
