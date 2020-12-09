@@ -3,9 +3,9 @@ unique-page-id: 2951640
 description: Använda intressanta stunder - Marketo Docs - Produktdokumentation
 title: Använda intressanta stunder
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Intressanta ögonblick är nyckeln till att kommunicera med säljarna via Marketo Sales Insight-appen.
 
->[!NOTE]
->
->**Tillgänglighet**
+>[!AVAILABILITY]
 >
 >Dessa är endast tillgängliga för kunder som har Marketo Sales Insight och [Marketo Sales Connect](http://docs.marketo.com/x/fgTLAQ) .
 
@@ -31,7 +29,7 @@ Det är upp till dig! Du bestämmer själv vilken information som är relevant f
 
 ## Hur skapar jag ett intressant ögonblick?  {#how-do-i-create-an-interesting-moment}
 
-1. Välj en [s](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) [mart campaign](http://docs.marketo.com/display/docs/smart+campaigns), helst en som ditt säljteam skulle finna intressant om det utlöstes.
+1. Välj en [smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), helst en som säljteamet skulle finna intressant om det utlöstes.
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
@@ -76,4 +74,3 @@ När du har [installerat Marketo Sales Insight App](../../../../../../product-do
 När du har installerat eller uppdaterat Marketo Sales Insight för Salesforce1 visas intressanta stunder under leadets relaterade länkar.
 
 ![](assets/seven.png)
-
