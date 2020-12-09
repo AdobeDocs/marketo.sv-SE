@@ -3,9 +3,9 @@ unique-page-id: 2359537
 description: Lägg till ett kodfragment på en landningssida - Marketo Docs - Produktdokumentation
 title: Lägga till ett kodfragment på en landningssida
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Kodfragment är små bitar av HTML som kan följa regler och innehålla personaliserat innehåll.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Skapa ett fragment](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
