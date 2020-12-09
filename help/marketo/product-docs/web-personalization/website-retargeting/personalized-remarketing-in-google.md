@@ -3,9 +3,9 @@ unique-page-id: 4720810
 description: Personaliserad Remarketing i Google - Marketo Docs - produktdokumentation
 title: Personaliserad marknadsföring i Google
 translation-type: tm+mt
-source-git-commit: 09dbd3a141fed0525aec8bf1ca6d141be2a6ce46
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Med personligt anpassad marknadsföring kan ni återengagera era användare med hjälp av RTP-data och Google Analytics med Google Display Network.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* Slutför konfigurationen av [återmarknadsföring med webbpersonaliseringsdata](retargeting-with-web-personalization-data.md)
 >* Granska [kommentarsinformation med hjälpdokumentationen](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645) för Google Analytics
