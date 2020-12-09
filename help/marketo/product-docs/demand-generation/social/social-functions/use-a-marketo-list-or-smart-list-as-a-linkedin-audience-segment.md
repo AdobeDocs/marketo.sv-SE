@@ -3,9 +3,9 @@ unique-page-id: 7504180
 description: Använd en Marketo-lista eller Smart List som ett LinkedIn Audience-segment - Marketo Docs - Produktdokumentation
 title: Använd en Marketo-lista eller en smart lista som ett LinkedIn-målsegment
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Integrera er marknadsföring med andra med era LinkedIn-målgrupper.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Lägg till LinkedIn-matchade målgrupper som en LaunchPoint-tjänst](../../../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
