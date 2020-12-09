@@ -3,9 +3,9 @@ unique-page-id: 2359661
 description: Ange ett formulärfält som dolt - Marketo Docs - Produktdokumentation
 title: Ange ett formulärfält som dolt
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ Dolda formulärfält kan i tysthet hämta in data utan besökarens indata. Så h
 >
 >Kortkommando! När du har markerat ett formulärfält trycker du på Ctrl+Alt+H för att göra det dolt.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >[Ange ett dolt formulärfältsvärde](set-a-hidden-form-field-value.md)
 
