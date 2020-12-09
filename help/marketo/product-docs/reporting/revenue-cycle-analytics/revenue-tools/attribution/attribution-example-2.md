@@ -3,9 +3,9 @@ unique-page-id: 7514146
 description: Attribution Example 2 - Marketo Docs - produktdokumentation
 title: Attribut - exempel 2
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Läs följande scenario och försök fastställa vilka tal som ska finnas i rutn
 
 Prova alla exempel så blir du ett attribueringsproffs!
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Attribut - exempel 1](attribution-example-1.md)
 >* [Attribut - exempel 3](attribution-example-3.md)
