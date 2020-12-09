@@ -3,9 +3,9 @@ unique-page-id: 11377395
 description: Lägg till en extra varumärkesdomän - Marketo Docs - Produktdokumentation
 title: Lägg till en extra varumärkesdomän
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Lägg till ytterligare en varumärkesdomän när du kör flera varumärken från en enda Marketto-instans och vill att de ska ha sina egna varumärkesspårningslänkar.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >Du måste [ersätta den generiska spårningslänken](edit-your-default-branding-domain.md) med en profilerad domän innan du lägger till ytterligare profilerade domäner.
 
