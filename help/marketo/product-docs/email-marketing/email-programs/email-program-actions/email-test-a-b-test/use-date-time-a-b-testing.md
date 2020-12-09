@@ -3,9 +3,9 @@ unique-page-id: 2359520
 description: Använd A/B-testning - Marketo Docs - Produktdokumentation
 title: Använd A/B-testning av datum/tid
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Du kan enkelt A/B-testa dina e-postmeddelanden. Ett test är **Date/Time **test. Detta testar vilken tid på dygnet eller veckodagen som är bäst för att skicka e-postmeddelanden. Så här ställer du in det.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Lägg till ett A/B-test](add-an-a-b-test.md)
 
