@@ -3,9 +3,9 @@ unique-page-id: 2359647
 description: Förstå engagemangsprogram - Marketo Docs - Produktdokumentation
 title: Förstå engagemangsprogram
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -94,9 +94,7 @@ När en person har fått allt innehåll i en ström kallar vi den person som är
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Personer som har fyllt i innehåll](../../../../product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
 
@@ -108,9 +106,7 @@ När en person har fått allt innehåll i en ström kallar vi den person som är
 
 Content Engagement Level är en poängnivå på 0 till 100 poäng som Marketo kommer att ge ert innehåll. Talet bestäms av en avancerad formel som använder öppningar, klickningar, avanmälan, programframgångar och andra faktorer.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Så här fungerar engagemanget](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)
 
