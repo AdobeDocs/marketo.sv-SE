@@ -3,9 +3,9 @@ unique-page-id: 8783322
 description: Validera Microsoft Dynamics Sync - Marketo Docs - Produktdokumentation
 title: Verifiera Microsoft Dynamics Sync
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,7 @@ Det är viktigt att du kör verktyget Validera synkronisering för att kontrolle
    >
    >Vi stöder för närvarande inte uppdatering av sandlådan för Marketo Dynamics Sync. Om du behöver uppdatera din Dynamics CRM-sandlåda krävs en ny Marketo-sandlåda. Kontakta din Customer Success Manager om du vill ha mer information.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >[Åtgärda problem med synkronisering av Dynamics-validering](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
 
