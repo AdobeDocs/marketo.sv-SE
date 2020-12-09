@@ -2,9 +2,9 @@
 title: delete-an-entry-in-program-schedule-view
 description: Ta bort ett inlägg i programschemavy
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,6 @@ Du kan ta bort alla bidrag i kalendern med några enkla steg.
 
    ![Bild två](/help/sky/assets/program-schedule-view/delete-an-entry-in-program-schedule-view/delete-an-entry-in-program-schedule-view-2.png)
 
-1. Klicka på [!UICONTROL **Bekräfta**] för att ta bort posten.
+1. Klicka **[!UICONTROL Confirm]** för att ta bort posten.
 
    ![Bild tre](/help/sky/assets/program-schedule-view/delete-an-entry-in-program-schedule-view/delete-an-entry-in-program-schedule-view-3.png)
