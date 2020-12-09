@@ -3,9 +3,9 @@ unique-page-id: 4720075
 description: Visa webbkampanjer från en viss etikett - Marketo Docs - Produktdokumentation
 title: Visa webbkampanjer från en viss etikett
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ Vill du visa och filtrera kampanjer efter en viss etikett?
 
    ![](assets/web-campaigns-label-showing-1.jpg)
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Märka webbkampanjer](label-your-web-campaigns.md)
 >* [Visa segment från en viss etikett](../../../product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
