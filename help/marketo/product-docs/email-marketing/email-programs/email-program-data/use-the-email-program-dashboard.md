@@ -3,9 +3,9 @@ unique-page-id: 2359476
 description: Använd kontrollpanelen för e-postprogram - Marketo Docs - Produktdokumentation
 title: Använda kontrollpanelen för e-postprogram
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -75,9 +75,7 @@ Klicka bara på uppdateringsikonen på instrumentpanelen för att se de senaste 
 
 ![](assets/refreshicon.png)
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Använd kontrollpanelen för e-postprogram - A/B-testvy](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
 
