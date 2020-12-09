@@ -2,9 +2,9 @@
 title: model-health-and-data-validity
 description: Modellens hälsa och datavalidering
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Modellernas prestanda beror på kvaliteten och fullständigheten hos indata. Så här bedömer du modellens hälsa.
 
-Navigera till avsnittet [!UICONTROL **Modeller och Datahälsa**] under [!UICONTROL **Predictive Audiences**] under [!UICONTROL **Admin**] i Marketo Classic. Här ser du alla dina modeller och deras status.
+Navigera till **[!UICONTROL Models and Data Health]** avsnittet under **[!UICONTROL Predictive Audiences]** i **[!UICONTROL Admin]** området Marketo Classic. Här ser du alla dina modeller och deras status.
 
 ![Bild ett](/help/sky/assets/predictive-audiences/model-health-and-data-validity/model-health-and-data-validity-1.png)
 
