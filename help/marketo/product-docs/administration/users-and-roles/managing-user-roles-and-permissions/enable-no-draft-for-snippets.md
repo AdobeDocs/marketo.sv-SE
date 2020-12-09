@@ -3,9 +3,9 @@ unique-page-id: 10095636
 description: Aktivera No-draft för kodfragment - Marketo Docs - produktdokumentation
 title: Aktivera No-draft för kodfragment
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Inget utkast aktiveras automatiskt för alla administratörsroller. En administr
 >
 >Om du vill inaktivera No-Draft följer du steg 1-4 ovan, avmarkerar kryssrutan No-Draft och klickar på **Save**.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >[Godkänn ett kodfragment utan utkast](../../../../product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
 
