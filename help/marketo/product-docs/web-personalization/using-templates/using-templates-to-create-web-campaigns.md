@@ -3,9 +3,9 @@ unique-page-id: 2949168
 description: Använda mallar för att skapa webbkampanjer - Marketo Docs - Produktdokumentation
 title: Använda mallar för att skapa webbkampanjer
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -63,9 +63,7 @@ Snabba upp och förenkla framtagningen av webbkampanjer genom att använda våra
 
 Snyggt gjort! Såg du hur mycket tid du sparade med en mall?
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Spara en kampanj som en mall](save-your-campaign-as-a-template.md)
 
