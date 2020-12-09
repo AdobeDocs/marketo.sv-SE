@@ -3,9 +3,9 @@ unique-page-id: 2359971
 description: Aktivitetsrapport för webbsida - Marketo Docs - Produktdokumentation
 title: Aktivitetsrapport för webbsida
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '349'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ I den här rapporten kan du se vilka som besöker er webbplats och till och med 
 
 Du kan välja att visa kända personer eller anonyma personer, men inte båda typerna i samma rapport.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Lägg till Munchkin-spårningskod på din webbplats](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
