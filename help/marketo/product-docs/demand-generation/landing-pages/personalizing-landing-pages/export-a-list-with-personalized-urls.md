@@ -3,9 +3,9 @@ unique-page-id: 2359815
 description: Exportera en lista med personaliserade URL:er - Marketo Docs - Produktdokumentation
 title: Exportera en lista med anpassade URL:er
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Exportera en lista med anpassade URL:er {#export-a-list-with-personalized-urls}
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Aktivera anpassade URL:er för ditt konto](enable-personalized-urls-for-your-account.md)
 >* [Aktivera anpassade URL:er för en landningssida](enable-personalized-urls-for-a-landing-page.md)
