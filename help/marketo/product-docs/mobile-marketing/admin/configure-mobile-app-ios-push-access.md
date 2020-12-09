@@ -3,9 +3,9 @@ unique-page-id: 7512434
 description: Konfigurera push-åtkomst för iOS-mobilappar - Marketo Docs - produktdokumentation
 title: Konfigurera push-åtkomst för iOS-mobilappar
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ ht-degree: 0%
 
 Snyggt jobb! Kontrollera att du även konfigurerar appen med Android.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Konfigurera Android-åtkomst för mobilapp](configure-mobile-app-android-push-access.md)
 
