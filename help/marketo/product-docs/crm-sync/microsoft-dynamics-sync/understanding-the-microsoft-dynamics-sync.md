@@ -3,9 +3,9 @@ unique-page-id: 10098625
 description: Förstå Microsoft Dynamics Sync - Marketo Docs - Produktdokumentation
 title: Förstå Microsoft Dynamics Sync
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Det finns många nyanser och funktioner om Dynamics-synkronisering. Läs mer i a
 >
 >Vi stöder för närvarande inte uppdatering av sandlådan för Marketo Dynamics Sync. Om du behöver uppdatera din Dynamics CRM-sandlåda krävs en ny Marketo-sandlåda. Kontakta din Customer Success Manager om du vill ha mer information.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Synkronisera inställningar](http://docs.marketo.com/display/docs/sync+setup)
    >
