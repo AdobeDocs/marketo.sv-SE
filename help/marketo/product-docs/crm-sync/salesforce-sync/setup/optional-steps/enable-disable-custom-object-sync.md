@@ -3,9 +3,9 @@ unique-page-id: 4719297
 description: Aktivera/inaktivera anpassad objektsynkronisering - Marketo-dokument - Produktdokumentation
 title: Aktivera/inaktivera synkronisering av anpassat objekt
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,7 @@ Anpassade objekt som skapas i Salesforce-instansen kan också ingå i Marketo. S
 
    Underbar! Nu kan du använda det här anpassade objektets data i smarta kampanjer och smarta listor.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Lägg till/ta bort anpassat objektfält som smart lista/utlösarbegränsningar](add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
 
