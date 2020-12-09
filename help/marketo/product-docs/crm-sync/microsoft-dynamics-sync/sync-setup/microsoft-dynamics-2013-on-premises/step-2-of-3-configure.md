@@ -3,9 +3,9 @@ unique-page-id: 3571816
 description: Steg 2 av 3 - Configure Sync User for Marketo (2013 On-Premises) - Marketo Docs - produktdokumentation
 title: Steg 2 av 3 - Konfigurera Synkronisera användare för Marketo (On-Premises 2013)
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Bra jobb med att slutföra de föregående stegen - vi går igenom det här.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Steg 1 av 3: Installera Marketo-lösningen i Dynamics (On-Premises 2013)](step-1-of-3-install.md)
 
