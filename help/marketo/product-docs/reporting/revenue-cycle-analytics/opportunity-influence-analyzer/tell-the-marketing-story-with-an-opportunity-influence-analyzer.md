@@ -3,9 +3,9 @@ unique-page-id: 2360237
 description: Berätta för marknadsföringsberättelsen med en säljprojektsanalys - Marketo Docs - produktdokumentation
 title: Berätta för marknadsföringsberättelsen med en analys av säljprojektspåverkan
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Använd en påverkansanalys för säljprojekt för att illustrera marknadsföringens roll i viktiga möjligheter. Visa hur marknadsföringen påverkade en möjlighet, från första beröring till skapande av nya affärsmöjligheter och vinn, och mer därtill.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Skapa en analys av affärsmöjlighet](create-an-opportunity-influence-analyzer.md)
 
