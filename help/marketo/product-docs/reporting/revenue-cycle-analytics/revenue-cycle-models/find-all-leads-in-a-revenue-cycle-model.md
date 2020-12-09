@@ -3,9 +3,9 @@ unique-page-id: 2360423
 description: Hitta alla leads i en intäktscykelmodell - Marketo Docs - Produktdokumentation
 title: Hitta alla leads i en intäktscykelmodell
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Genom att använda smarta listor kan du enkelt hitta alla medlemmar i intäktscykelmodellen.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >[Skapa en smart lista](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
