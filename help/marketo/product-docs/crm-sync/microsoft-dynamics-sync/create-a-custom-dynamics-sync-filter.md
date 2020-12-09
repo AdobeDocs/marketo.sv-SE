@@ -3,9 +3,9 @@ unique-page-id: 9437903
 description: Skapa ett anpassat Dynamics Sync-filter - Marketo Docs - Produktdokumentation
 title: Skapa ett anpassat Dynamics-synkroniseringsfilter
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '790'
+source-wordcount: '789'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Marketo letar efter det här fältet under den automatiska bakgrundssynkroniseri
 >
 >Det enda sättet att tala om för Marketo att hoppa över en post är att explicit ange fältvärdet till **Nej**. Marketo synkroniserar fortfarande poster över även om fältvärdena är tomma.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >Installera den senaste versionen av Marketo Plug-in (3.0.0.1 eller senare). Gå till Marketo > Admin > Microsoft Dynamics > Hämta Marketo-lösning.
 
