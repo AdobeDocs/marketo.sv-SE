@@ -3,9 +3,9 @@ unique-page-id: 2359545
 description: Definiera A/B Test Winner Criteria - Marketo Docs - Product Documentation
 title: Definiera villkor för A/B-testvinnare
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 När du [lägger till ett A/B-test](add-an-a-b-test.md) i e-postprogrammet måste du välja testtyp, [schemalägga A/B-testet](schedule-the-a-b-test.md)och sedan definiera vinnarkriterierna. Så här avgör du vilket e-postmeddelande som vinner.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Lägg till ett A/B-test](add-an-a-b-test.md)
 
