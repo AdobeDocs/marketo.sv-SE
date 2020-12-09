@@ -3,9 +3,9 @@ unique-page-id: 37355600
 description: Avinstallera MSI från din MS Dynamics-instans - Marketo Docs - produktdokumentation
 title: Avinstallera MSI från din MS Dynamics-instans
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Om du vill avinstallera MSI från MS Dynamics-instansen måste du utföra steg i både Marketo och MS Dynamics.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >[Inaktivera global MS Dynamics-synkronisering](http://docs.marketo.com/x/TAA6Ag)
 
