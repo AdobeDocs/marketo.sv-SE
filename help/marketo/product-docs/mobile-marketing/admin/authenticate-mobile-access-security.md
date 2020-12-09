@@ -3,9 +3,9 @@ unique-page-id: 10096158
 description: Autentisera säkerhet för mobil åtkomst - Marketo Docs - Produktdokumentation
 title: Autentisera säkerhet för mobil åtkomst
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Marketo erbjuder två nya ID:n för att förbättra säkerheten för mobila anv�
 
 Om du vill aktivera ID:n måste du skaffa koderna och skicka dem till din IT-avdelning så att de kan skapa en säker matchning.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >Om du vill aktivera den här funktionen kontaktar du supporten och begär Vespa Secure Mode.
 
