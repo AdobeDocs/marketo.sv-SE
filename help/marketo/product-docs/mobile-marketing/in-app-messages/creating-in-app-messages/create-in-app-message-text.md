@@ -3,9 +3,9 @@ unique-page-id: 10100642
 description: Skapa meddelandetext i appen - Marketo Docs - Produktdokumentation
 title: Skapa meddelandetext i appen
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
@@ -79,9 +79,7 @@ Klicka på textområdet om du vill arbeta med textformatet och innehållet.
 
 Du är guld. Därefter måste du [konfigurera meddelandeknappen](set-up-the-in-app-message-button.md)i appen.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Förstå meddelanden i appen](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [Välj en layout för ditt meddelande i appen](choose-a-layout-for-your-in-app-message.md)
