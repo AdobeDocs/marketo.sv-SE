@@ -2,9 +2,9 @@
 title: my-token-rich-text
 description: Min tokenrik text
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,6 @@ Så här konfigurerar du en RTF-token som ska användas i program- och kampanjma
 
    ![Bild ett](/help/sky/assets/my-tokens/my-token-rich-text/my-token-rich-text-1.png)
 
-1. Ange ett namn för din nya token och lägg sedan till eventuell text i redigeraren. Klicka på [!UICONTROL **Spara**].
+1. Ange ett namn för din nya token och lägg sedan till eventuell text i redigeraren. Klicka **[!UICONTROL Save]**.
 
    ![Bild två](/help/sky/assets/my-tokens/my-token-rich-text/my-token-rich-text-2.png)
