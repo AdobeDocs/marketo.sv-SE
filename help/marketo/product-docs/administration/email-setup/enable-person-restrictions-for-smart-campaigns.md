@@ -3,9 +3,9 @@ unique-page-id: 2360243
 description: Aktivera personbegränsningar för smarta kampanjer - Marketo Docs - Produktdokumentation
 title: Aktivera personbegränsningar för smarta kampanjer
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ Det finns en funktion i Marketo som begränsar antalet ***maximalt ***antal pers
 
 Bingo! Du har just aktiverat säkerhetsväxeln. Bra idé, eller hur?
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Åsidosätt personbegränsningar i en smart kampanj](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
 
