@@ -3,9 +3,9 @@ unique-page-id: 2949467
 description: Vad är Marketo? - Marketo Docs - produktdokumentation
 title: Vad är Marketo?
 translation-type: tm+mt
-source-git-commit: d78ecbec87d69cde66b583d21d7e0c95539bb6ec
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
