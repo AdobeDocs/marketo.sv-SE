@@ -2,9 +2,9 @@
 title: understanding-my-tokens
 description: Förstå mina token
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ När du skapar en ny token kan andra objekt i trädet referera till den. Du kan 
 * **[Åsidosatt token:](/help/sky/override-an-inherited-my-token.md)** Token ärvdes, men ett undantag gjordes i programmet eller mappen.
 * **Ärvd token:** Token skapades någonstans i ett program eller en mapp på en högre nivå.
 
-Du hittar dessa tre typer på fliken [!UICONTROL **Mina token**] i program- eller kampanjmappen.
+Du hittar dessa tre typer under fliken **[!UICONTROL My Tokens]** i program- eller kampanjmappen.
 
 ![Bild två](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-2.png)
 
