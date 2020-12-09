@@ -3,9 +3,9 @@ unique-page-id: 1147249
 description: Använda en global övertäckning - Marketo Docs - Produktdokumentation
 title: Använda en global övertäckning
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Med den globala övertäckningen i programschemavyn kan du se programmet i relation till andra schemalagda resurser.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >Du måste ha en licens [för en](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) marknadsföringskalender för att kunna använda den här funktionen.
 
