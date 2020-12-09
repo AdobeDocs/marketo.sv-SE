@@ -3,9 +3,9 @@ unique-page-id: 1146966
 description: Visa kvalificerade personer i en smart kampanj - Marketo Docs - Produktdokumentation
 title: Visa kvalificerade personer i en smart kampanj
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Se personer som är kvalificerade att gå igenom flödet när ni kör en smart k
 
 Söt! Du kan använda den här listan för att kontrollera vilka personer som kan gå igenom flödet innan du kör en smart kampanj.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Visa medlemmar i smarta kampanjer](view-smart-campaign-members.md)
 >* [Visa blockerade personer i en smart kampanj](view-blocked-people-in-a-smart-campaign.md)
