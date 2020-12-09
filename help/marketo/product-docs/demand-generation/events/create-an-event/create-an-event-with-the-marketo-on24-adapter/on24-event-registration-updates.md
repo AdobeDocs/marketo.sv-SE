@@ -3,9 +3,9 @@ unique-page-id: 10096683
 description: ON24 Event Registration Updates - Marketo Docs - produktdokumentation
 title: ON24 - Händelseregistreringsuppdateringar
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Om en person slutar att registreras utan att anges till statusfelet Registrering
 
 Marketo hämtar automatiskt information om närvaro vid ungefär 200 Pacific varje kväll. Om du vill uppdatera närvaroinformation manuellt klickar du på **Uppdatera från webbinariet** under **Händelseåtgärder**.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Om Marketo ON24-adapterhändelser](understanding-marketo-on24-adapter-events.md)
 
