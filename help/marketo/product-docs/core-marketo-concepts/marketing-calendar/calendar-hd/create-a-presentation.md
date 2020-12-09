@@ -3,9 +3,9 @@ unique-page-id: 7503971
 description: Skapa en presentation - Marketo Docs - Produktdokumentation
 title: Skapa en presentation
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Skapa en presentation för att projicera teamets kalendervyer och mål på en HD
 
    Snyggt jobb! Nu kan du anpassa presentationen.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Anpassa en presentation](customize-a-presentation.md)
 
