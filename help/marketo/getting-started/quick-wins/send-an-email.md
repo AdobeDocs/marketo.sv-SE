@@ -3,9 +3,9 @@ unique-page-id: 2359410
 description: Skicka ett e-postmeddelande - Marketo Docs - Produktdokumentation
 title: Skicka ett e-postmeddelande
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Det är det första alla vill göra. Låt oss skicka ett e-postmeddelande från 
 >
 >Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Konfigurera och lägga till en person](get-set-up-and-add-a-person.md)
 
