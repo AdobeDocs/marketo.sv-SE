@@ -3,9 +3,9 @@ unique-page-id: 45416566
 description: Inställningar för tvåpartssamtycke - Marketo Docs - Produktdokumentation
 title: Inställningar för dubbelpartsgodkännande
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 För att säkerställa att USA:s tvåpartslagar följs när du spelar in samtal kan du som administratör aktivera ett inspelat meddelande som du väljer att spela upp i början av dina samtal när det spelas in.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >Innan du följer stegen nedan måste du först [aktivera samtalsinspelning.](http://docs.marketo.com/x/dAC1Ag)
 
