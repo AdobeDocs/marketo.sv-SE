@@ -2,9 +2,9 @@
 title: my-token-link
 description: Min tokenlänk
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -39,6 +39,6 @@ Så här konfigurerar du en länktoken som ska användas i program- och kampanjm
    >
    >Om Inkludera mkt_tok är markerat visar Marketo en länkförhandsvisning av den varumärkesskyddade spårningsdomänen (t.ex. http://mkto-sjqe3355.com/mn/..). Om du avmarkerar den här kryssrutan ändras länken. Om du inaktiverar länkspårning för e-post eller landningssidor förkortas URL-adressen till sin grundläggande längd (t.ex. www.examplepage.com).
 
-1. Under [!UICONTROL Advanced]finns ett alternativ som du kan anpassa länken med hjälp av CSS. Klicka på [!UICONTROL **Spara**].
+1. Under [!UICONTROL Advanced]finns ett alternativ som du kan anpassa länken med hjälp av CSS. Klicka **[!UICONTROL Save]**.
 
    ![Bild fyra](/help/sky/assets/my-tokens/my-token-link/my-token-link-4.png)
