@@ -2,9 +2,9 @@
 title: schedule-a-batch-smart-campaign-to-run-later
 description: Schemalägg en batchsmart kampanj att köras senare
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,11 @@ När du är klar med gruppkampanjen kan du välja att köra den nu eller senare.
 
    ![Bild ett](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-1.png)
 
-1. Gå till fliken [!UICONTROL **Schemalägg**] och klicka på [!UICONTROL **Lägg till Kör**].
+1. Gå till **[!UICONTROL Schedule]** fliken och klicka på **[!UICONTROL Add Run]**.
 
    ![Bild två](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-2.png)
 
-1. Välj [!UICONTROL **Ange kördatum/tid**], klicka sedan på kalenderikonen och välj det datum då du vill att den smarta kampanjen ska köras.
+1. Välj **[!UICONTROL Set Run Date/Time]** och klicka sedan på kalenderikonen och välj det datum då du vill att den smarta kampanjen ska köras.
 
    ![Bild tre](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-3.png)
 
@@ -36,6 +36,6 @@ När du är klar med gruppkampanjen kan du välja att köra den nu eller senare.
 
    ![Bild fyra](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-4.png)
 
-1. Klicka på [!UICONTROL **Bekräfta**].
+1. Klicka **[!UICONTROL Confirm]**.
 
    ![Bild fem](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-5.png)
