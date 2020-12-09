@@ -3,9 +3,9 @@ unique-page-id: 2953352
 description: Redigera inlägg direkt i marknadsföringskalendern - Marketo Docs - Produktdokumentation
 title: Redigera poster direkt i marknadsföringskalendern
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -66,9 +66,7 @@ Du kan snabbt få åtkomst till olika delar av tävlingsbidragen för redigering
 
 Så ja! Som du ser finns det många saker du kan göra direkt i marknadsföringskalendern.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Radera transaktioner direkt i marknadsföringskalendern](https://community.marketo.com/MarketoArticle?id=kA050000000LPDyCAO)
 
