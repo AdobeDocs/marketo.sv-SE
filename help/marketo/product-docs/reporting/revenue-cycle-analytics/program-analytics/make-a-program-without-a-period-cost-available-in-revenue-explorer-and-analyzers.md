@@ -3,9 +3,9 @@ unique-page-id: 2360389
 description: Gör ett program utan periodkostnad tillgängligt i Intresseutforskaren och analytiker - Marketo Docs - Produktdokumentation
 title: Gör ett program utan periodkostnad tillgängligt i Intäktsutforskaren och analytiker
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Vissa program kan behöva inkluderas även om de inte har en periodkostnad. Äve
 
 Snyggt jobb! Nu kommer alla program som använder den ändrade kanalen att inkluderas i intäktsutforskaren och analytiker utan att man behöver betala en viss period.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Åsidosätt analysbeteende på programnivå](override-analytics-behavior-at-the-program-level.md)
 
