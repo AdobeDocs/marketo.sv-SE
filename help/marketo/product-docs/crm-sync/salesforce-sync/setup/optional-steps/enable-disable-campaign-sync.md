@@ -3,9 +3,9 @@ unique-page-id: 4719289
 description: Aktivera/inaktivera kampanjsynkronisering - Marketo-dokument - Produktdokumentation
 title: Aktivera/inaktivera kampanjsynkronisering
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ Med det här alternativet kan Marketo synkronisera sitt programmedlemskap och st
 
 Där har du den. Ge bara synkroniseringen lite tid att hämta data från Salesforce så är du redo att gå.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [SFDC-synkronisering: Kampanjsynkronisering](../../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
 >* [Ange standardvärden för lead, efternamn och företag](set-default-person-last-name-and-company-name.md)
