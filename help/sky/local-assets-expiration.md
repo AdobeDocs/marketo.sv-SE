@@ -2,9 +2,9 @@
 title: local-assets-expiration
 description: Förfallotid för lokala resurser
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 <br> 
 
-Ange ett förfallodatum/tid för att avpublicera landningssidor, inaktivera utlösarkampanjer eller stoppa återkommande batchkampanjer. Den här funktionen finns i avsnittet [!UICONTROL **Förfallotid**] på fliken [!UICONTROL **Resurser**] .
+Ange ett förfallodatum/tid för att avpublicera landningssidor, inaktivera utlösarkampanjer eller stoppa återkommande batchkampanjer. Den här funktionen finns i **[!UICONTROL Expiration]** avsnittet under **[!UICONTROL Assets]** fliken.
 
 ![Bild ett](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-1.png)
 
 ## Ange ett förfallodatum
 
-1. Markera de resurser som du vill ange ett förfallodatum för och klicka sedan på [!UICONTROL **Ange förfallodatum**].
+1. Markera de resurser som du vill ange ett förfallodatum för och klicka sedan på **[!UICONTROL Set Expiration]**.
 
    ![Bild två](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-2.png)
 
@@ -28,13 +28,13 @@ Ange ett förfallodatum/tid för att avpublicera landningssidor, inaktivera utl�
 
    ![Bild tre](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-3.png)
 
-1. Granska de resurser som påverkas och klicka sedan på [!UICONTROL **Bekräfta**].
+1. Granska de resurser som påverkas och klicka sedan på **[!UICONTROL Confirm]**.
 
    ![Bild fyra](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-4.png)
 
 >[!NOTE]
 >
->Om du vill redigera ett befintligt förfallodatum kontrollerar du bara tillgångarna och klickar på [!UICONTROL **Ange förfallodatum**].
+>Om du vill redigera ett befintligt förfallodatum kontrollerar du bara tillgångarna och klickar på **[!UICONTROL Set Expiration]**.
 
 >[!NOTE]
 >
@@ -42,11 +42,11 @@ Ange ett förfallodatum/tid för att avpublicera landningssidor, inaktivera utl�
 
 ## Ta bort ett förfallodatum
 
-1. Om du vill ta bort ett förfallodatum kontrollerar du resurserna och klickar på [!UICONTROL **Ta bort förfallodatum**].
+1. Om du vill ta bort ett förfallodatum kontrollerar du tillgången/tillgångarna och klickar på **[!UICONTROL Remove Expiration]**.
 
    ![Bild fem](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-5.png)
 
-1. Granska de resurser som påverkas och klicka sedan på [!UICONTROL **Bekräfta**].
+1. Granska de resurser som påverkas och klicka sedan på **[!UICONTROL Confirm]**.
 
    ![Bild sex](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-6.png)
 
