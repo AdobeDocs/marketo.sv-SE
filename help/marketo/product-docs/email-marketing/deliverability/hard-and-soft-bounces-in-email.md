@@ -3,9 +3,9 @@ unique-page-id: 1147328
 description: Hårda och mjuka studsar i e-post - Marketo Docs - Produktdokumentation
 title: Hårda och mjuka studsar i e-postmeddelanden
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Det finns fem personsträngar i Marketo som är relaterade till problematisk e-p
 >
 >När en person har markerats som ogiltig **för** e-post kan de bara återställas manuellt (vilket vi rekommenderar att du bara gör om du vet att deras e-postadress är giltig) genom att avmarkera rutan E-post ogiltig på fliken Personinformation i posten.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >Följ [de här stegen](../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) för att skapa en e-postprestandarapport som genererar studsdata.
 
