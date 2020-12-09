@@ -3,9 +3,9 @@ unique-page-id: 2949190
 description: SEO - Välj region/land för sökmotorn - Marketo Docs - Produktdokumentation
 title: SEO - Välj region/land för sökmotorn
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Utmärkt arbete. Nu visas nyckelordsrankningar för det land eller den stad som 
 
 ![](assets/image2014-9-17-21-3a8-3a15.png)
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Om kontrollpanelen: SEO-fixering](understanding-the-seo-dashboard-seo-snapshot.md)
 >* [Om kontrollpanelen: SEO Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)
