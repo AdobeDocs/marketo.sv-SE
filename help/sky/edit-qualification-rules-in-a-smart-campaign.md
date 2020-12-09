@@ -2,9 +2,9 @@
 title: edit-eligibility-rules-in-a-smart-campaign
 description: Redigera kvalificeringsregler i en smart kampanj
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 Kvalificeringsregler styr hur många gånger någon kan gå igenom flödet i en smart kampanj. Även om någon utlöser en smart kampanj flera gånger skickas de som standard bara via flödet en gång. Så här ändrar du inställningarna.
 
-1. Välj kampanjen och gå till fliken [!UICONTROL **Schema**] .
+1. Välj kampanjen och gå till **[!UICONTROL Schedule]** fliken.
 
    ![Bild ett](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-1.png)
 
-1. Klicka på [!UICONTROL **Redigera upprepning**].
+1. Klicka **[!UICONTROL Edit Recurrence]**.
 
    ![Bild två](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-2.png)
 
-1. Välj hur ofta ni ska leda era medarbetare genom det smarta kampanjflödet: [!UICONTROL **varje dag**], [!UICONTROL **varje vecka**], [!UICONTROL **varje månad**] eller [!UICONTROL **en gång var #:e dag**].
+1. Välj hur ofta ni ska leda era medarbetare genom det smarta kampanjflödet: **[!UICONTROL daily]**, **[!UICONTROL weekly]**, **[!UICONTROL monthly]** eller **[!UICONTROL once every # days]**.
 
    ![Bild tre](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-3.png)
 
@@ -34,7 +34,7 @@ Kvalificeringsregler styr hur många gånger någon kan gå igenom flödet i en 
    >
    >Den här logiken gäller även för veckor och månader. En månad räknas alltid som 30 dagar.
 
-1. Klicka på [!UICONTROL **Bekräfta**] när du är klar.
+1. Klicka **[!UICONTROL Confirm]** när du är klar.
 
    ![Bild fyra](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-4.png)
 
