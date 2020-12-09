@@ -3,9 +3,9 @@ unique-page-id: 1147120
 description: Importera medlemmar från ett kalkylblad till ett program - Marketo Docs - Produktdokumentation
 title: Importera medlemmar från ett kalkylblad till ett program
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -63,9 +63,7 @@ Du kan importera en lista över personer som automatiskt blir medlemmar i ett pr
 
    ![](assets/image2014-9-18-15-3a45-3a16.png)
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Hantera och visa medlemmar](manage-and-view-members.md)
 
