@@ -3,9 +3,9 @@ unique-page-id: 2360005
 description: Företagets webbaktivitetsrapport - Marketo Docs - Produktdokumentation
 title: Webbaktivitetsrapport för företag
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ Se vilka företag som besöker er webbplats. Du kan välja att visa kända eller
 
 Skapa en [webbsidesaktivitetsrapport](web-page-activity-report.md) för att se vilka personer som besöker webbplatsen.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >Om du vill hämta aktiviteter från din webbplats i Marketo måste du först konfigurera Munchkin [på din webbplats](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
