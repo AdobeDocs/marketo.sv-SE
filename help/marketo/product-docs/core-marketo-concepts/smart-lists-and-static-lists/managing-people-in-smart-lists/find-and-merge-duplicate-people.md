@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: Sök och sammanfoga duplicerade personer - Marketo Docs - Produktdokumentation
 title: Sök och sammanfoga duplicerade personer
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '480'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Marketo tar automatiskt bort dubbletter när nya personer kommer in i systemet. 
 >
 >Marketo avduplicerar inte automatiskt mot en Salesforce- eller Microsoft Dynamics-synkronisering eller när du anger personer manuellt.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >När du söker efter och sammanfogar dubbletter används [inbyggda/systemsmarta listor](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
 
