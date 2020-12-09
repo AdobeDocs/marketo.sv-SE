@@ -3,9 +3,9 @@ unique-page-id: 2359474
 description: Redigera en segmentering - Marketo Docs - Produktdokumentation
 title: Redigera en segmentering
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -70,9 +70,7 @@ Det är enkelt att ändra befintliga segment. Här är det låga ner.
 
 Experimentera fritt med segmenteringar som inte används i dynamiskt innehåll.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Ta bort en segmentering](delete-a-segmentation.md)
 
