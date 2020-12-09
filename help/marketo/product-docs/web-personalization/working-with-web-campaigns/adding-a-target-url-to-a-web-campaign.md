@@ -3,9 +3,9 @@ unique-page-id: 6094879
 description: Lägga till en mål-URL i en webbkampanj - Marketo Docs - Produktdokumentation
 title: Lägga till en mål-URL i en webbkampanj
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -79,8 +79,7 @@ Om du klickar på plusikonen (![—](assets/image2015-2-18-8-3a40-3a59.png)) öp
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
->[!NOTE]
-**Relaterade artiklar**
+>[!MORELIKETHIS]
 * [Skapa en ny webbkampanj för dialog](create-a-new-dialog-web-campaign.md)
 * [Skapa en ny webbkampanj i zonen](create-a-new-in-zone-web-campaign.md)
 * [Skapa en ny webbkampanj för widget](create-a-new-widget-web-campaign.md)
