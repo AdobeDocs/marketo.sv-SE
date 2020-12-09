@@ -3,9 +3,9 @@ unique-page-id: 3571822
 description: Steg 1 av 3 - Installera Marketo Solution (Online) - Marketo Docs - Produktdokumentation
 title: Steg 1 av 3 -Installera Marketo-lösningen (online)
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -28,9 +28,7 @@ Innan du kan synkronisera Microsoft Dynamics 365 och Marketo måste du först in
 >
 >När du har synkroniserat Markto till en CRM kan du inte utföra en ny synkronisering utan att ersätta instansen.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >[Ladda ned Marketo Lead Management Solution](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
 
