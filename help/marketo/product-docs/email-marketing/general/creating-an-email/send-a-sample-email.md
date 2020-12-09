@@ -3,9 +3,9 @@ unique-page-id: 1147352
 description: Skicka ett exempelmejl - Marketo Docs - Produktdokumentation
 title: Skicka ett exempelmeddelande
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ Det går snabbt och enkelt att skicka exempel på e-postmeddelanden. Mer informa
 
 ## Skicka ett exempelmeddelande baserat på ett segment {#send-a-sample-email-based-on-a-segment}
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >[Använd segmentering i e-postmeddelanden](http://docs.marketo.com/display/public/DOCS/Using+Dynamic+Content+in+an+Email).
 
