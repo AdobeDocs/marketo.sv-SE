@@ -3,9 +3,9 @@ unique-page-id: 4719400
 description: Skapa en ny webbkampanj i zonen - Marketo Docs - Produktdokumentation
 title: Skapa en ny webbkampanj i zonen
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '696'
+source-wordcount: '694'
 ht-degree: 0%
 
 ---
@@ -119,9 +119,7 @@ Se [Klona en webbkampanj](clone-a-web-campaign.md).
 
 1. Ett bekräftelsemeddelande visas som bekräftar om du vill ta bort kampanjen.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Skapa en ny webbkampanj för widget](create-a-new-widget-web-campaign.md)
 >* [Skapa en ny webbkampanj för dialog](create-a-new-dialog-web-campaign.md)
