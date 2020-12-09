@@ -3,9 +3,9 @@ unique-page-id: 2360403
 description: Jämför programeffektiviteten med Program Analyzer - Marketo Docs - Produktdokumentation
 title: Jämför programeffektiviteten med programanalysen
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Använd Program Analyzer för att identifiera era mest effektiva program genom att jämföra programkostnader, medlemsförvärv, pipeline och intäkter.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Skapa en programanalys](create-a-program-analyzer.md)
 
