@@ -3,9 +3,9 @@ unique-page-id: 2949716
 description: Skicka och spåra ett e-postmeddelande med e-posttillägget för Outlook - Marketo Docs - Produktdokumentation
 title: Skicka och spåra ett e-postmeddelande med e-posttillägget för Outlook
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Du kan skicka och spåra e-postmeddelanden med Marketo direkt från Outlook.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >Om du inte har gjort det än installerar du e-posttillägget [Marketo för Outlook](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
