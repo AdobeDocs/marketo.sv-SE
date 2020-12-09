@@ -3,9 +3,9 @@ unique-page-id: 10099408
 description: Översikt över e-postinsikter - Marketo Docs - Produktdokumentation
 title: Översikt över e-postinsikter
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ Klicka på mätfälten för att omvandla färgerna till siffror.
 
 Alla vanliga Marketo-dimensioner inkluderas, men du kan lägga till upp till 10 anpassade dimensioner. [Anpassade dimensioner](custom-dimensions-for-email-insights.md) består av segmenteringar och programtaggar.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Översikt över analys av e-postinsikter](email-insights-analytics-overview.md)
 >* [E-postinsikter - skicka översikt](email-insights-sends-overview.md)
