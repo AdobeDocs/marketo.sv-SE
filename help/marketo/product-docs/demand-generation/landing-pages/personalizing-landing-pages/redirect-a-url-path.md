@@ -3,9 +3,9 @@ unique-page-id: 2359826
 description: Omdirigera en URL-sökväg - Marketo Docs - Produktdokumentation
 title: Omdirigera en URL-sökväg
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Marketo gör det enkelt att omdirigera en URL-sökväg till en sida som du välj
 
 Grattis!  URL-sökvägen har omdirigerats.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Dirigera om en markering till landningssida till en annan sida](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
 
