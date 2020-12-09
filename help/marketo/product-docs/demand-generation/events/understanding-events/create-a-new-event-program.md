@@ -3,9 +3,9 @@ unique-page-id: 2949844
 description: Skapa ett nytt händelseprogram - Marketo Docs - Produktdokumentation
 title: Skapa ett nytt händelseprogram
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Med händelser kan du automatisera online- och offlinehändelser! Fånga persone
 
 Ta-da! Din nya aktivitet visas nu i trädet. När evenemanget har skapats kan du skapa [landningssidor](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [formulär](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)och [e-postmeddelanden](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) för att bjuda in dina gäster! Du kommer också att vilja bekanta dig med [programschemavyn](http://docs.marketo.com/display/docs/program+schedule+view).
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Marknadsföringskalender](http://docs.marketo.com/display/docs/marketing+calendar)
 >* [Använda periodkostnader i ett program](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
