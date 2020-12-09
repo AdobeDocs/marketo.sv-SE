@@ -2,9 +2,9 @@
 title: importing-assets-with-adobe-experience-manager
 description: Importera resurser med Adobe Experience Manager
 translation-type: tm+mt
-source-git-commit: d2195ba23fb1241b54b493d625c50aa4c1704845
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -26,15 +26,15 @@ Med Resursväljaren kan [!DNL Marketo] kunderna komma åt, välja och importera 
 >
 >För närvarande stöds den här funktionen endast fullt ut i Firefox. Det stöds inte i Safari och kanske inte fungerar i den senaste versionen av Chrome, beroende på inställningarna för cookie-filen för samma plats.
 
-1. I [!UICONTROL Design Studio]väljer du [!UICONTROL **Bilder och filer**].
+1. I [!UICONTROL Design Studio]väljer du **[!UICONTROL Images and Files]**.
 
    ![Bild ett](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-1.png)
 
-1. Klicka på [!UICONTROL Images and Files] listrutan och välj [!UICONTROL **Importera bild eller Fil**].
+1. Klicka på [!UICONTROL Images and Files] listrutan och välj **[!UICONTROL Import Image or File]**.
 
    ![Bild två](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-2.png)
 
-1. Klicka på alternativknappen bredvid [!DNL Adobe Experience Manager] och klicka på [!UICONTROL **Nästa**].
+1. Klicka på alternativknappen bredvid [!DNL Adobe Experience Manager] och klicka på **[!UICONTROL Next]**.
 
    ![Bild tre](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-3.png)
 
@@ -42,7 +42,7 @@ Med Resursväljaren kan [!DNL Marketo] kunderna komma åt, välja och importera 
 
    ![Bild fyra](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-4.png)
 
-1. Välj mapp. Markera önskade bilder (du kan välja upp till 10) och klicka på [!UICONTROL **Markera**].
+1. Välj mapp. Markera önskade bilder (du kan välja upp till 10) och klicka på **[!UICONTROL Select]**.
 
    ![Bild fem](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-5.png)
 
@@ -50,11 +50,11 @@ Med Resursväljaren kan [!DNL Marketo] kunderna komma åt, välja och importera 
    >
    >Bilderna får inte vara större än 100 MB.
 
-1. Kontrollera de bilder du har valt, markera målmappen ([!UICONTROL Images and Files] är standardmappen) och klicka på [!UICONTROL **Nästa**].
+1. Kontrollera de bilder du har valt, markera målmappen ([!UICONTROL Images and Files] är standardmappen) och klicka på **[!UICONTROL Next]**.
 
    ![Bild sex](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-6.png)
 
-Och det är allt! Klicka på [!UICONTROL **Stäng**] för att återgå till Bilder och filer.
+Och det är allt! Klicka **[!UICONTROL Close]** för att återgå till Bilder och filer.
 
 ![Bild sju](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-7.png)
 
