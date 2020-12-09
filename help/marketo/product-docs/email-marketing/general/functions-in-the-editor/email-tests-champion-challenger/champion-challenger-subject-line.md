@@ -3,9 +3,9 @@ unique-page-id: 2359557
 description: Champion/Challenger -Subject line - Marketo Docs - Produktdokumentation
 title: Champion/Challenger - Subject Line
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Du kan enkelt testa flera ämnesrader. När testet är klart skickar du ut e-post med den mest effektiva. Så här gör du.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Lägg till en e-postkampanj/kanal](add-an-email-champion-challenger.md)
 
