@@ -3,9 +3,9 @@ unique-page-id: 2359578
 description: Godkänn ett formulär - Marketo Docs - Produktdokumentation
 title: Godkänn ett formulär
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Så här godkänner du ett befintligt formulär som är klart att användas.
 
 Om du gör ändringar i ett formulär kan du godkänna sidan direkt från redigeraren.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Redigera ett formulär](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
