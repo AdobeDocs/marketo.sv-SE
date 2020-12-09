@@ -3,9 +3,9 @@ unique-page-id: 13795727
 description: Avbryt leverans av e-postprogram som schemalagts med mottagartidszon - Marketo Docs - produktdokumentation
 title: Avbryt leverans av e-postprogram som schemalagts med mottagartidszon
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Eftersom e-postprogram som schemaläggs med mottagartidszon kan köras i upp til
 
    ![](assets/image2018-2-23-11-3a30-3a46.png)
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Förstå mottagartidszon](understanding-recipient-time-zone.md)
 >* [Schemalägg e-postprogram med mottagartidszon](schedule-email-programs-with-recipient-time-zone.md)
