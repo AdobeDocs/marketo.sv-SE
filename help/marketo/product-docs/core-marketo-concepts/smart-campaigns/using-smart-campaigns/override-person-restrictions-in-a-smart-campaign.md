@@ -3,9 +3,9 @@ unique-page-id: 1147066
 description: Åsidosätt personbegränsningar i en smart kampanj - Marketo Docs - produktdokumentation
 title: Åsidosätt personbegränsningar i en smart kampanj
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Med Marketo kan du ange det högsta antalet* *personer som kan kvalificera sig f
 >
 >Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >Se till att du [aktiverar personbegränsningar för smarta kampanjer](../../../../product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) i Marketo Admin.
 
