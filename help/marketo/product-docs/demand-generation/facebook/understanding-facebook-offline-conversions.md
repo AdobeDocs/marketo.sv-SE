@@ -3,9 +3,9 @@ unique-page-id: 11383945
 description: Understanding Facebook Offline Conversions - Marketo Docs - produktdokumentation
 title: Förstå offlinekonverteringar för Facebook
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ Du kan [konfigurera offlinekonverteringar](set-up-facebook-offline-conversions.m
 1. Mappa faser i intäktscykelmodellen till offlinekonverteringsfaser på Facebook.
 1. När en Facebook-lead genereras från en Facebook-annons och når en mappad scen skickar Marketo tillbaka konverteringsdata till Facebook flera gånger dagligen via ett säkert, automatiserat API. Informationen visas i Facebook Ads Manager-rapporten.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Konfigurera offlinekonverteringar för Facebook](set-up-facebook-offline-conversions.md)
 
