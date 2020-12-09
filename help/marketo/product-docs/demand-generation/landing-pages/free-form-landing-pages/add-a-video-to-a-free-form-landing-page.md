@@ -3,9 +3,9 @@ unique-page-id: 2359722
 description: Lägg till en video på en startsida i fri form - Marketo Docs - Produktdokumentation
 title: Lägga till en video på en startsida i frihandsformat
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Lägg in videofilmer med alternativ för delning via sociala medier på era land
 
 Grattis! Du har lagt till en videodelning på din startsida för fri form. Godkänn landningssidan så spelas din videoresurs upp live. Du kan också [publicera landningssidan på Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) eller [lägga videodelningen på din webbplats](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >Du är klar, men du kan ändra inställningarna för din videodelning om det behövs. Börja med att [anpassa delningsflödet](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (när och var delningsprompten öppnas).
 
