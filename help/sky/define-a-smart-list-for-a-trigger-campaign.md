@@ -2,9 +2,9 @@
 title: define-a-smart-list-for-a-trigger-campaign
 description: Definiera en smart lista för en utlösarkampanj
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Få en smart kampanj att köras på en person i taget baserat på live-händelser genom att lägga till utlösare.
 
-1. Välj en smart kampanj och klicka sedan på [!UICONTROL **Smart lista**].
+1. Välj en smart kampanj och klicka sedan på **[!UICONTROL Smart List]**.
 
    ![Bild ett](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-1.png)
 
@@ -28,7 +28,7 @@ Få en smart kampanj att köras på en person i taget baserat på live-händelse
    >
    >En smart kampanj med utlösare körs i utlösarläge. Den körs på en person i taget baserat på händelser som utlösts och eventuella ytterligare filter.
 
-1. Klicka på listrutan och välj en operator (t.ex. [!UICONTROL **is**], [!UICONTROL **is not**], o.s.v.) för den utlösare du valde.
+1. Klicka på listrutan och välj en operator (t.ex. **[!UICONTROL is]**, **[!UICONTROL is not]** osv.) för den utlösare du valde.
 
    ![Bild tre](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-3.png)
 
