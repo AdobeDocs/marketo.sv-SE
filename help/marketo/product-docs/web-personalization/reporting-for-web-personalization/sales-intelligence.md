@@ -3,9 +3,9 @@ unique-page-id: 10096420
 description: Sales Intelligence - Marketo Docs - produktdokumentation
 title: Försäljningsinformation
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ I [Användarinställningar](/help/marketo/product-docs/web-personalization/getti
 >
 >Vi rekommenderar att du skapar säljchefer med skrivbehörighet i Marketo Web Personalization. Det innebär att de kan visa alla sidor, men inte skapa, redigera eller ta bort några funktioner.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [E-postrapporter](email-reports.md)
 
