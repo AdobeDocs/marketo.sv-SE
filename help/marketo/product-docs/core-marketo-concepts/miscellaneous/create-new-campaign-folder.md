@@ -3,9 +3,9 @@ unique-page-id: 2953207
 description: Skapa ny kampanjmapp - Marketo Docs - Produktdokumentation
 title: Skapa ny kampanjmapp
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Campaign-mappar hjälper dig att behålla en aktuell arbetsyta. Följ dessa enkl
 
    Nu när du [skapar ett nytt program](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)visas kampanjmappen som ett alternativ.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Skapa ett program](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
 >* [Skapa en ny smart kampanj](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
