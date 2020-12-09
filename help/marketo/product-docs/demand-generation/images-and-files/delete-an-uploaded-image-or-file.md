@@ -3,9 +3,9 @@ unique-page-id: 2359873
 description: Ta bort en överförd bild eller fil - Marketo Docs - produktdokumentation
 title: Ta bort en överförd bild eller fil
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ ht-degree: 0%
 
 Snyggt gjort!
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Ersätta en överförd bild eller fil](replace-an-uploaded-image-or-file.md)
 >* [Sök efter överförda bilder och filer](search-uploaded-images-and-files.md)
