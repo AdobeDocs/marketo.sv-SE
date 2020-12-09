@@ -3,9 +3,9 @@ unique-page-id: 2359498
 description: Förhandsgranska ett fragment - Marketo Docs - Produktdokumentation
 title: Förhandsgranska ett kodavsnitt
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Förhandsgranska ett kodavsnitt {#preview-a-snippet}
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Lägga till innehåll i ett fragment](add-content-to-a-snippet.md)
 
