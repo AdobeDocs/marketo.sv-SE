@@ -3,9 +3,9 @@ unique-page-id: 2359500
 description: Segmenteringsorderprioritet - Marketo Docs - Produktdokumentation
 title: Prioritet för segmenteringsordning
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Det är viktigt att förstå hur **ordningen** prioriterar personutvärdering i en segmentering.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Skapa en segmentering](create-a-segmentation.md)
 >* [Definiera segmentregler](define-segment-rules.md)
