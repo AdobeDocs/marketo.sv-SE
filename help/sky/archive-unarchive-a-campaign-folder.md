@@ -2,9 +2,9 @@
 title: archive-unarchive-a-campaign-folder
 description: 'Arkivera/avarkivera en kampanjmapp '
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## Konvertera till arkivmapp
 
-Högerklicka på en mapp och välj [!UICONTROL **Konvertera till arkivmapp**].
+Högerklicka på en mapp och välj **[!UICONTROL Convert To Archive Folder]**.
 
 ![Bild ett](/help/sky/assets/campaign-folders/archive-unarchive-a-campaign-folder/archive-unarchive-a-campaign-folder-1.png)
 
