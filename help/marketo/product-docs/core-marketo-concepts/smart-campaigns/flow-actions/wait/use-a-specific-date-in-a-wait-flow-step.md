@@ -3,9 +3,9 @@ unique-page-id: 1146976
 description: Använd ett specifikt datum i ett vänteflödessteg - Marketo Docs - Produktdokumentation
 title: Använd ett specifikt datum i ett vänteflödessteg
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -34,9 +34,7 @@ Du kan använda steget **Vänteflöde** om du vill pausa en persons resa genom e
    Ange tid (valfritt) och klicka på Spara.
    ![](assets/image2014-9-22-11-3a51-3a13.png)
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Använd en varaktighet i ett vänteflödessteg](use-a-duration-in-a-wait-flow-step.md)
 >* [Använd en datumtoken i ett vänteflödessteg](use-a-date-token-in-a-wait-flow-step.md)
