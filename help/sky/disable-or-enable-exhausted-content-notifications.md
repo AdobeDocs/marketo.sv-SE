@@ -2,9 +2,9 @@
 title: disable-or-enable-matt-content-notifications
 description: Inaktivera eller aktivera meddelanden om utfyllt innehåll
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ När man tar bort allt innehåll i en ström [!DNL Marketo] kan man skicka ett m
 
    ![Bild ett](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-1.png)
 
-1. Klicka på fliken [!UICONTROL **Inställningar**] .
+1. Klicka på **[!UICONTROL Setup]** fliken.
 
    ![Bild två](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-2.png)
 
-1. Rulla ned till [!UICONTROL Settings] och välj [!UICONTROL **Av**] (eller [!UICONTROL On]).
+1. Rulla ned till [!UICONTROL Settings] och markera **[!UICONTROL Off]** (eller [!UICONTROL On]).
 
    ![Bild tre](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-3.png)
 
