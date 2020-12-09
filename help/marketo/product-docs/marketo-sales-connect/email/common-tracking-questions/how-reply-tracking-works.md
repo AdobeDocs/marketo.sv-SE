@@ -3,9 +3,9 @@ unique-page-id: 14352482
 description: Hur Spåra svar fungerar - Marketo Docs - Produktdokumentation
 title: Hur Svara Tracking fungerar
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Spåra svar görs genom att titta på ett meddelande-ID som finns i varje e-postmeddelande som du skickar. Alla e-postmeddelanden innehåller ett unikt meddelande-ID som gör att vi kan använda någon av de bästa svarsuppföljningarna.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >**Anslutning till e-postserver:** Sales Connect måste vara ansluten till din inkorg så att vi vet när ett nytt svar har kommit. Du måste ha ditt Sales Connect-konto [anslutet till Gmail](http://docs.marketo.com/x/kYMOAQ). Om du använder Outlook måste vi integrera med din [Exchange-server](http://toutapp.com/next#settings/exchange_settings).
 
