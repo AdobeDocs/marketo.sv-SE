@@ -3,9 +3,9 @@ unique-page-id: 2949471
 description: Checklista för installation - Marketo Docs - Produktdokumentation
 title: Konfigurera checklista
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Välkommen till Marketo! Du kan använda följande checklista som en visuell att
 
 1. Arbeta med en webbutvecklare för att lägga till spårningskod på webbplatsen
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >[Installationssteg](../../getting-started/setup-steps.md)
 
