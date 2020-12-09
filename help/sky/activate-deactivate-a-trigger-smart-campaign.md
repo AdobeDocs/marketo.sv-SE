@@ -2,9 +2,9 @@
 title: activate-deactivate-a-trigger-smart-campaign
 description: Aktivera/inaktivera en smart utlösarkampanj
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Aktivering/inaktivering av en smart kampanj som utlöser en åtgärd aktiveras e
 
 ## Aktivera en utlösarkampanj
 
-1. Klicka på fliken [!UICONTROL **Schema**] i den smarta kampanjen.
+1. Klicka på **[!UICONTROL Schedule]** fliken i den smarta kampanjen.
 
    ![Bild ett](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-1.png)
 
@@ -24,7 +24,7 @@ Aktivering/inaktivering av en smart kampanj som utlöser en åtgärd aktiveras e
    >
    >Granska den smarta kampanjen innan du aktiverar den.
 
-1. Klicka på [!UICONTROL **Aktivera**].
+1. Klicka **[!UICONTROL Activate]**.
 
    ![Bild två](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-2.png)
 
@@ -36,11 +36,11 @@ Från och med nu kommer alla som uppfyller kraven för den smarta listan att gå
 
 ## Inaktivera en utlösarkampanj
 
-1. Klicka på fliken [!UICONTROL **Schema**] i den smarta kampanjen.
+1. Klicka på **[!UICONTROL Schedule]** fliken i den smarta kampanjen.
 
    ![Bild tre](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-3.png)
 
-1. Klicka på [!UICONTROL **Inaktivera**].
+1. Klicka **[!UICONTROL Deactivate]**.
 
    ![Bild fyra](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-4.png)
 
