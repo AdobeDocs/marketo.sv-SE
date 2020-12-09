@@ -3,9 +3,9 @@ unique-page-id: 2949904
 description: Testgrupper på landningssidan - Marketo Docs - Produktdokumentation
 title: Testgrupper för landningssida
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketo håller reda på antalet sidvisningar och formulärslutföranden på varje testad sida i en testgrupp. Du kan använda testgruppsresultat för att avgöra vilken landningssida som är mest intressant. Så här skapar du en testgrupp.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >[Bygg två eller flera landningssidor](../../../../getting-started/quick-wins/landing-page-with-a-form.md), helst med ett formulär.
 
