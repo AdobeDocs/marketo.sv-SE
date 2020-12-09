@@ -3,9 +3,9 @@ unique-page-id: 2359763
 description: Visa Sociala prestanda - Marketo Docs - Produktdokumentation
 title: Visa sociala prestanda
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '482'
 ht-degree: 0%
 
 ---
@@ -78,9 +78,7 @@ Se de sociala aktiviteter som genereras av era sociala appar. Via den sociala in
 
    ![](assets/image2014-9-23-17-3a11-3a35.png)
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >Ni kan också använda triggers och filter för att se vem som delar ert innehåll och interagerar med era sociala appar så att ni kan agera på dessa interaktioner. Se [Använda utlösare och filter för sociala aktiviteter](triggers-and-filters-for-social-activities.md).
 
