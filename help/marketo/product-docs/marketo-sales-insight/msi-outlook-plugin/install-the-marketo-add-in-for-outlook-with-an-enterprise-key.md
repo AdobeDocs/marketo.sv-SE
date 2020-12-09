@@ -3,9 +3,9 @@ unique-page-id: 11377488
 description: Installera tillägget Marketo för Outlook med en företagsnyckel - Marketo Docs - Produktdokumentation
 title: Installera Marketo-tillägget för Outlook med en företagsnyckel
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Många gånger har säljarna inte administratörsbehörighet på sina bärbara datorer och IT-avdelningen ansvarar för fjärrinstallation av all programvara. Marketo-tillägget för Outlook kan installeras på det här sättet med hjälp av din Enterprise-nyckel som finns i avsnittet Sales Insight i Admin.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >Administratören måste ha [utfärdat en Marketo E-post-tilläggslicens](issue-a-marketo-email-add-in-license.md).
 
