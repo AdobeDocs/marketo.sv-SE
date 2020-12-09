@@ -3,9 +3,9 @@ unique-page-id: 37356584
 description: Skicka e-post via gruppmejl - Marketo Docs - Produktdokumentation
 title: Skicka e-post via gruppe-post
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -56,9 +56,7 @@ Så här skickar/redigerar du e-post med alternativet Gruppera e-post.
    >
    >Du kan göra flera ändringar i e-postmeddelandet/mallen när du skickar ut ett gruppmeddelande, men du kan inte göra unika redigeringar för specifika mottagare i listan.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Alternativ för massutskick](http://docs.marketo.com/x/HwQ6Ag)
 >* [Använda en mall i dispositionsfönstret](http://docs.marketo.com/x/MQQ6Ag)
