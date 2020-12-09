@@ -3,9 +3,9 @@ unique-page-id: 2953572
 description: Understanding Email Programs - Marketo Docs - Product Documentation
 title: Om e-postprogram
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -68,9 +68,7 @@ Använd ett e-postprogram i ett standardprogram för att hålla ordning på sake
 
 Nu när du förstår e-postprogram kan du komma igång med en av de relaterade artiklarna nedan!
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Skapa ett e-postprogram](create-an-email-program.md)
    >
