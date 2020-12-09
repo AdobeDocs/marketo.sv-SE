@@ -2,9 +2,9 @@
 title: using-the-program-setup-tab
 description: Använda fliken Programinställningar
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -30,11 +30,11 @@ Om du vill ändra programkanal väljer du en annan i listrutan högst upp på si
 
 ## Lägg till taggar
 
-1. Klicka på listrutan [!UICONTROL Tags] Attribut [!UICONTROL **under**] avsnittet och välj ett taggattribut bland de tillgängliga alternativen.
+1. Klicka på [!UICONTROL Tags] listrutan under **[!UICONTROL Attribute]** avsnittet och välj ett taggattribut bland de tillgängliga alternativen.
 
    ![Bild tre](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-3.png)
 
-1. Klicka på listrutan [!UICONTROL **Värde**] och välj ett taggvärde bland de tillgängliga alternativen. Klicka på [!UICONTROL **Lägg till**].
+1. Klicka på **[!UICONTROL Value]** listrutan och välj ett taggvärde bland de tillgängliga alternativen. Klicka **[!UICONTROL Add]**.
 
    ![Bild fyra](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-4.png)
 
@@ -48,7 +48,7 @@ Om du vill ändra programkanal väljer du en annan i listrutan högst upp på si
 
 ## Lägg till periodkostnader
 
-1. Under [!UICONTROL Period Costs] avsnittet väljer du en månad, anger en kostnad och lägger till ett kort namn eller en beskrivning. Klicka på [!UICONTROL **Lägg till**].
+1. Under [!UICONTROL Period Costs] avsnittet väljer du en månad, anger en kostnad och lägger till ett kort namn eller en beskrivning. Klicka **[!UICONTROL Add]**.
 
    ![Bild sex](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-6.png)
 
