@@ -2,9 +2,9 @@
 title: set-stream-cadence
 description: Ange strömavslut
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ Ni kan skicka engagemangsinnehåll när ni vill. Till exempel: en gång i veckan
 
    ![Bild ett](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-1.png)
 
-1. Klicka på fliken [!UICONTROL **Streams**] och sedan på [!UICONTROL **Set Cadence**].
+1. Klicka på **[!UICONTROL Streams]** fliken och sedan på **[!UICONTROL Set Cadence]**.
 
    ![Bild två](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-2.png)
 
-1. Välj hur ofta du vill att cadence ska upprepas. Du kan välja [!UICONTROL **Varje vecka**], [!UICONTROL **Månad**] eller [!UICONTROL **Ingen**].
+1. Välj hur ofta du vill att cadence ska upprepas. Du kan välja **[!UICONTROL Weekly]**, **[!UICONTROL Monthly]** eller **[!UICONTROL None]**.
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ Ni kan skicka engagemangsinnehåll när ni vill. Till exempel: en gång i veckan
 
 ## Vecka
 
-1. Välj [!UICONTROL **Varje vecka**].
+1. Välj **[!UICONTROL Weekly]**.
 
    ![Bild tre](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-3.png)
 
@@ -52,9 +52,9 @@ Ni kan skicka engagemangsinnehåll när ni vill. Till exempel: en gång i veckan
 
    >[!TIP]
    >
-   >Du kan ange att din cadence ska köras varje dag genom att välja [!UICONTROL **Upprepningar: Varje vecka**] / [!UICONTROL **varje: 1 vecka**] / [!UICONTROL **den:**] alla dagar.
+   >Du kan ställa in att din cadence ska köras varje dag genom att välja **[!UICONTROL Repeats: Weekly]** / **[!UICONTROL Every: 1 Week]** / **[!UICONTROL On:]** alla dagar.
 
-1. Välj tid nu. Markera rutan om du vill använda [Mottagarens tidszon](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+with+Recipient+Time+Zone) (d.v.s. leverera enligt lokala tidszoner) och klicka sedan på [!UICONTROL **Spara**].
+1. Välj tid nu. Markera rutan om du vill använda [Mottagarens tidszon](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+with+Recipient+Time+Zone) (d.v.s. leverera enligt lokala tidszoner) och klicka sedan på **[!UICONTROL Save]**.
 
    ![Bild sju](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-7.png)
 
@@ -74,7 +74,7 @@ Så ja! Fortsätt läsa om du vill konfigurera en månadskurs.
 
 ## Månadsvis
 
-1. Välj [!UICONTROL **Varje månad**] om du vill se hur ofta den upprepas.
+1. Välj **[!UICONTROL Monthly]** hur ofta den ska upprepas.
 
    ![Bild nio](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-9.png)
 
@@ -94,7 +94,7 @@ Så ja! Fortsätt läsa om du vill konfigurera en månadskurs.
    >
    >Du kan också välja veckodag.
 
-1. Välj ett [!UICONTROL Time] alternativ och klicka på [!UICONTROL **Spara**].
+1. Välj en [!UICONTROL Time] och klicka **[!UICONTROL Save]**.
 
    ![Bild tretton](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-13.png)
 
