@@ -3,9 +3,9 @@ unique-page-id: 2949283
 description: Skicka och spåra från Outlook med en Marketo-mall - Marketo Docs - Produktdokumentation
 title: Skicka och spåra från Outlook med en Marketo-mall
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -40,9 +40,7 @@ Om marknadsföringsteamet har gjort mallar tillgängliga för dig, så här kan 
 
    Och där kör du! Ni kunde spara massor av tid med hjälp av mallar som era fantastiska marknadsföringsteam gjort för er.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Logga inkommande e-post från leads i Marketo](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
 
