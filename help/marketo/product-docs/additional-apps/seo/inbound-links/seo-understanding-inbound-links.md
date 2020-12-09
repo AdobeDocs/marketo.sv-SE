@@ -3,9 +3,9 @@ unique-page-id: 2949226
 description: SEO - Förstå inkommande länkar - Marketo Docs - Produktdokumentation
 title: SEO - Förstå inkommande länkar
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,7 @@ Inkommande länkar anger för sökmotorer att din webbplats är värd att refere
 
 Söt! Nu när du förstår inkommande länkar kan vi föreslå fler möjligheter till inkommande länkar för din webbplats.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Hämta förslag på inkommande länkar](seo-get-inbound-link-suggestions.md)
 
