@@ -3,9 +3,9 @@ unique-page-id: 2359502
 description: Använd A/B-testning i hele-post - Marketo Docs - produktdokumentation
 title: Använd A/B-testning i"hele-post"
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Du kan enkelt A/B-testa dina e-postmeddelanden. Ett bra test är **Hela e-posttestet** . Så här ställer du in det.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Lägg till ett A/B-test](add-an-a-b-test.md)
 
