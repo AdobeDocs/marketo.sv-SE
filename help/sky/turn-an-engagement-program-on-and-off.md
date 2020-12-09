@@ -2,9 +2,9 @@
 title: starta-och-aktivera-engagemangsprogram-på-och-av
 description: Aktivera och inaktivera ett engagemangsprogram
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Du kan stänga av ett engagemangsprogram med en enkel knapptryckning. Detta för
 
    ![Bild ett](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-1.png)
 
-1. Klicka på fliken [!UICONTROL **Inställningar**] .
+1. Klicka på **[!UICONTROL Setup]** fliken.
 
    ![Bild två](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-2.png)
 
@@ -28,7 +28,7 @@ Du kan stänga av ett engagemangsprogram med en enkel knapptryckning. Detta för
    >
    >Åtagandeprogram är aktiverade som standard såvida du inte överskrider din prenumerationsgräns.
 
-1. Det finns en [!UICONTROL Program] knapp till höger. Välj [!UICONTROL **På**] eller [!UICONTROL **Av**].
+1. Det finns en [!UICONTROL Program] knapp till höger. Markera **[!UICONTROL On]** eller **[!UICONTROL Off]**.
 
    ![Bild tre](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-3.png)
 
