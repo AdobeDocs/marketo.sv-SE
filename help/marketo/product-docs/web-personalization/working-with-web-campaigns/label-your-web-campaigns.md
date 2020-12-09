@@ -3,9 +3,9 @@ unique-page-id: 2949154
 description: Märk era webbkampanjer - Marketo Docs - Produktdokumentation
 title: Märka webbkampanjer
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Häftig! Nu vet ni hur ni skapar etiketter och tilldelar dem till kampanjer.
 
    ![](assets/web-campaigns-label-showing.jpg)
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [L](create-a-new-in-zone-web-campaign.md) [abel ett segment](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
