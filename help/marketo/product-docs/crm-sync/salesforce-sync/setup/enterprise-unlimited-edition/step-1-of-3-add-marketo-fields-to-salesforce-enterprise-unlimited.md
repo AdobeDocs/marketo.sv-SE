@@ -3,9 +3,9 @@ unique-page-id: 2360362
 description: Steg 1 av 3 - Lägg till Marketo-fält i Salesforce (Enterprise/Unlimited) - Marketo Docs - Produktdokumentation
 title: Steg 1 av 3 - Lägg till Marketto-fält i Salesforce (Enterprise/Unlimited)
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '754'
+source-wordcount: '753'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Steg 1 av 3: Lägg till Marketo-fält i Salesforce (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >Du måste ha tillgång till Salesforce API:er för att kunna synkronisera mellan Marketo och Salesforce.
 
