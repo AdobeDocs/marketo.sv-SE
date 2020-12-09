@@ -2,9 +2,9 @@
 title: understanding-batch-and-trigger-smart-campaign
 description: Förstå smarta kampanjer i grupp och utlösare
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Smarta gruppkampanjer har bara filter i avsnittet med smarta listor (d.v.s. inga
 
 ![Bild ett](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-Om du klickar på fliken [!UICONTROL **Schemalägg**] visas en bekräftelse på att den smarta kampanjen är inställd på&quot;Gruppera&quot;.
+Om du klickar på **[!UICONTROL Schedule]** fliken bekräftar du att den smarta kampanjen är inställd på&quot;Gruppera&quot;.
 
 ![Bild två](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-2.png)
 
@@ -42,7 +42,7 @@ Om en smart kampanj använder minst en utlösare i den smarta listsektionen stä
 
 ![Bild tre](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-Om du klickar på fliken [!UICONTROL **Schemalägg**] visas en bekräftelse på att den smarta kampanjen är inställd på Utlösare.
+Om du klickar på **[!UICONTROL Schedule]** fliken bekräftar du att den smarta kampanjen är inställd på&quot;Utlösare&quot;.
 
 ![Bild fyra](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-4.png)
 
