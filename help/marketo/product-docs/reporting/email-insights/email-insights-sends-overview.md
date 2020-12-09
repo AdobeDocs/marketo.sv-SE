@@ -3,9 +3,9 @@ unique-page-id: 10099413
 description: E-postinsikter skickar översikt - Marketo Docs - Produktdokumentation
 title: E-postinsikter - skicka översikt
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ Om du vill visa din e-poststatus i Analytics (Analyser) håller du muspekaren br
 
 Häftiga saker!
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >[Översikt över analys av e-postinsikter](email-insights-analytics-overview.md)
 
