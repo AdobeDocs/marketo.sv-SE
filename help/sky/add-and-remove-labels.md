@@ -2,9 +2,9 @@
 title: add-and-remove-labels
 description: Lägg till och ta bort etiketter
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Du kan tilldela etiketter till alla mediefiler i [!UICONTROL Marketing Activitie
 Om du vill lägga till nya etiketter till en resurs går du till resursens [!UICONTROL Details] sida på [!UICONTROL Overview] fliken.
 <br> 
 
-Klicka på [!UICONTROL Labels] Lägg till nya etiketter [!UICONTROL **under**] avsnittet.
+Klicka på under [!UICONTROL Labels] avsnittet **[!UICONTROL Add New Labels]**.
 
 ![Bild ett](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-1.jpg)
 
-Om du lägger till en etikett som du inte har använt tidigare anger du etikettnamnet och klickar på [!UICONTROL **Skapa ny ___**].
+Om du lägger till en etikett som du inte har använt tidigare anger du etikettnamnet och klickar på **[!UICONTROL Create New ____]**.
 
 ![Bild två](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-2.jpg)
 
@@ -37,6 +37,6 @@ Om du lägger till en etikett som redan har skapats någon annanstans kan du sö
 
 ## Ta bort etiketter
 
-Du kan ta bort en etikett genom att klicka på [!UICONTROL **X**].
+Du kan ta bort en etikett genom att klicka på **[!UICONTROL X]**.
 
 ![Bild fyra](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-4.jpg)
