@@ -2,9 +2,9 @@
 title: setting-event-aim
 description: Så här ställer du in händelsemål
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Ge evenemangen specifika mål och se hur de fungerar.
 
    ![Bild två](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-2.png)
 
-1. Ange målet för [!UICONTROL Registered] och [!UICONTROL Attended]klicka sedan på [!UICONTROL **Skapa**] ([!UICONTROL Description] och [!UICONTROL Labels] är valfria).
+1. Ange målet för [!UICONTROL Registered] och [!UICONTROL Attended]klicka sedan på **[!UICONTROL Create]** ([!UICONTROL Description] och [!UICONTROL Labels] är valfria).
 
    ![Bild ett](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-3.png)
 
