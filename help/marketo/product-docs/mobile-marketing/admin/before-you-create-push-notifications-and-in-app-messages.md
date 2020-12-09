@@ -3,9 +3,9 @@ unique-page-id: 11376159
 description: Innan du skapar push-meddelanden och meddelanden i appen - Marketo Docs - produktdokumentation
 title: Innan du skapar push-meddelanden och meddelanden i appen
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -32,9 +32,7 @@ För meddelanden i programmet är visningsutlösaren inställd på **App Open** 
 
 När du har gjort alla förberedelser för meddelanden i appen och push-meddelanden är det dags att komma igång!
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Skapa ett meddelande i appen](http://docs.marketo.com/display/docs/create+an+in-app+message)
    >
