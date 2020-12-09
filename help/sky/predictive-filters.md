@@ -2,9 +2,9 @@
 title: prediktiva filter
 description: Prediktiva filter
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Detta filtrerar publiken efter om de har en hög eller låg sannolikhet för att
 
 Dessa två filter hjälper er att utöka er nuvarande målgrupp genom att rikta in er på fler leads som liknar medlemmar i andra program eller Smart List. Filtren Lookalike tar hänsyn till fler än 50 faktorer, inklusive leadattribut, e-postaktivitet, webbaktivitet och engagemang.
 
-Klicka på&#x200B;[!UICONTROL **Lägg till begränsning**] för att välja villkor för att medlemmarna i de valda programmen ska lyckas.
+Klicka **[!UICONTROL Add Constraint]** för att välja villkor för att medlemmarna i de valda programmen ska lyckas.
 
 Klicka på ikonen + bredvid listrutan för att enkelt lägga till flera program/smarta listor till ett filter.
 
