@@ -3,9 +3,9 @@ unique-page-id: 7512252
 description: Lägg till en mobilapp - Marketo Docs - Produktdokumentation
 title: Lägg till en mobilapp
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Program startar normalt i en sandlådemiljö, där inledande utveckling och test
 
    Snyggt! Nu ska vi konfigurera appen så att den fungerar med Android- och iOS-enheter.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Konfigurera Android-åtkomst för mobilapp](configure-mobile-app-android-push-access.md)
 >* [Konfigurera push-åtkomst för iOS-mobilappar](configure-mobile-app-ios-push-access.md)
