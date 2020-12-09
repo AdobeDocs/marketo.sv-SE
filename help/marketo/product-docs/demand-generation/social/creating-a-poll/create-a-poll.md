@@ -3,9 +3,9 @@ unique-page-id: 2359768
 description: Skapa en omröstning - Marketo Docs - Produktdokumentation
 title: Skapa en omröstning
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Engagera personer med en omröstning som de kan rösta i och dela med sina vänn
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >Om du vill använda bilder i din omröstning lägger du till dem i Marketo Images- och Files-biblioteket innan du börjar. Lägg till en 60x60px-bild för varje omröstningspost. Se [Lägg till bilder och filer i Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
