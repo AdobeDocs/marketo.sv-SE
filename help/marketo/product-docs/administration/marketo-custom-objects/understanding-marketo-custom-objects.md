@@ -3,9 +3,9 @@ unique-page-id: 10093188
 description: Understanding Marketo Custom Objects - Marketo Docs - produktdokumentation
 title: Förstå anpassade objekt i Marketo
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '734'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
@@ -99,9 +99,7 @@ Anpassade objekt kan bara länka direkt till en enskild post. Det innebär att n
 
 Mer information finns i [Importera anpassade objektdata](import-custom-object-data.md) .
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Skapa anpassade Marketo-objekt](create-marketo-custom-objects.md)
 >* [Godkänn ett anpassat objekt](approve-a-custom-object.md)
