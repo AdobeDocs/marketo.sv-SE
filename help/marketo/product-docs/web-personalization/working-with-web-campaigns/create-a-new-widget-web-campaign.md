@@ -3,9 +3,9 @@ unique-page-id: 4719402
 description: Skapa en ny webbkampanj för widget - Marketo Docs - Produktdokumentation
 title: Skapa en ny webbkampanj för widget
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '644'
+source-wordcount: '642'
 ht-degree: 0%
 
 ---
@@ -125,9 +125,7 @@ Klicka på **Förhandsgranska** på webbkampanjen som du vill förhandsgranska p
 
 1. Ett bekräftelsemeddelande visas som bekräftar om du vill ta bort webbkampanjen.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Skapa en ny webbkampanj i zonen](create-a-new-in-zone-web-campaign.md)
 >* [Skapa en ny webbkampanj för dialog](create-a-new-dialog-web-campaign.md)
