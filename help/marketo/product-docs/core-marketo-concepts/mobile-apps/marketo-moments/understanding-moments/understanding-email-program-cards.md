@@ -3,9 +3,9 @@ unique-page-id: 8781911
 description: Understanding Email Program Cards - Marketo Docs - Product Documentation
 title: Understanding Email Program Cards
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -112,9 +112,7 @@ Högerklicka på ett e-postkort för att förhandsgranska det.
 
 Och det är toppen med att visa era e-postkampanjer. Nu är du proffs!
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Om Marketo-stunder](understanding-marketo-moments.md)
 >* [Om händelsekort](understanding-event-cards.md)
