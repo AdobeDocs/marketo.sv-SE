@@ -3,9 +3,9 @@ unique-page-id: 1147304
 description: Dela en filterdefinition i marknadsföringskalendern - Marketo Docs - Produktdokumentation
 title: Dela en filterdefinition i marknadsföringskalendern
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Filter kan delas mellan olika användare.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Skapa ett filter i marknadsföringskalendern](filtering-the-marketing-calendar.md)
 >* [Spara en filterdefinition i marknadsföringskalendern](saving-a-filter-definition-in-the-marketing-calendar.md)
