@@ -3,9 +3,9 @@ unique-page-id: 2951259
 description: Anpassad fälttypsordlista - Marketo Docs - Produktdokumentation
 title: Ordlista för anpassad fälttyp
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '657'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 
 När du skapar ett anpassat fält i Marketo finns det en lista med typer att välja mellan.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Skapa ett anpassat fält i Marketo](create-a-custom-field-in-marketo.md)
 
