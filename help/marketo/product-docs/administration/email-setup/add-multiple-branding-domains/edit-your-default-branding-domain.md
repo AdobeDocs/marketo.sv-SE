@@ -3,9 +3,9 @@ unique-page-id: 11377392
 description: Redigera din standardvarumärkesdomän - Marketo Docs - Produktdokumentation
 title: Redigera din standardvarumärkesdomän
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Att redigera din standardvarumärkesdomän är det första steget i arbetet med varumärkesdomäner.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >Kontrollera att du har [konfigurerat en CNAME i din DNS](../../../../getting-started/setup-steps/configure-protocols-for-marketo.md) innan du lägger till dina profileringsdomäner i Marketo.
 
