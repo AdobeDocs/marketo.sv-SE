@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: Installera Marketo Email-tillägget för Outlook med en registreringskod - Marketo Docs - Produktdokumentation
 title: Installera Marketo-e-posttillägget för Outlook med en registreringskod
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Om användarna har tillgång till administratörsinställningarna på sina bärb
 
 Om du inte har fått någon inbjudan via e-post ber du Marketo-administratören att bjuda in dig.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* Du måste [få en Marketo E-post-tilläggslicens](issue-a-marketo-email-add-in-license.md).
 
