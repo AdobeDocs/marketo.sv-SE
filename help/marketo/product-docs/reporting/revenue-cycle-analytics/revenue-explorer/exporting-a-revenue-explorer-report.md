@@ -3,9 +3,9 @@ unique-page-id: 7504749
 description: Exportera en rapport för Intresseutforskaren - Marketo Docs - Produktdokumentation
 title: Exportera en rapport för skatteutforskaren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -36,9 +36,7 @@ Du kan exportera alla intäktsutforskarrapporter och dela dem med vem som helst.
 
    Söt! Skicka runt den här filen och imponera på andra med dina ninja-liknande marknadsföringskunskaper.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Prenumerera på en rapport om skatteutforskaren](subscribe-to-a-revenue-explorer-report.md)
 
