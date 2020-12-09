@@ -3,9 +3,9 @@ unique-page-id: 42762514
 description: Insights Dashboard Feature Overview - Marketo Docs - produktdokumentation
 title: Översikt över funktionen Insikt i instrumentpanelen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '1466'
+source-wordcount: '1465'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Läs mer om de funktioner som finns på kontrollpanelen för försäljningsinsikter.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >Du måste ha det senaste MSI SFDC-paketet och [konfigurationen](http://docs.marketo.com/x/F4GMAg).
 
