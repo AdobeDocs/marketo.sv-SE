@@ -28,35 +28,31 @@ I marknadsföringsaktiviteter bör du använda mappar för att ordna dina progra
 >**Exempel**
 >
 >* Aktiva marknadsföringsprogram
-   >
-   >    
-   * E-post
-   >    * Händelser
-
-      >
-      >        
-      * Live Events/Roadshows
-      >        * Varumärken
-      >        * Webbinarier
-   >
-   * Nyhetsbrev
-   * Nätur
-   * Webbinnehåll
-   * Webbformulär
-* Utbildning
-* Operativ
-
-   * Livscykel
-   * Poäng
-   * Datahantering
-* Sales Insight >
-   * Intressanta ögonblick
-   * Försäljningsmejl
-   * Begärda försäljningskampanjer
-* **Arkiv** >
-   * Arkivera händelser >
-      * Arkiv 2012
-      * Arkiv 2013
+>
+>    * E-post
+>    * Händelser
+>
+>        * Live Events/Roadshows
+>        * Varumärken
+>        * Webbinarier
+>   * Nyhetsbrev
+>   * Nätur
+>   * Webbinnehåll
+>   * Webbformulär
+>* Utbildning
+>* Operativ
+>
+>   * Livscykel
+>   * Poäng
+>   * Datahantering
+>* Sales Insight
+>   * Intressanta ögonblick
+>   * Försäljningsmejl
+>   * Begärda försäljningskampanjer
+>* **Arkiv**
+>   * Arkivera händelser
+>      * Arkiv 2012
+>      * Arkiv 2013
 
 
 
