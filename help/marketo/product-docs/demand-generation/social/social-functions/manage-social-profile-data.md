@@ -3,9 +3,9 @@ unique-page-id: 2950578
 description: Hantera data i sociala profiler - Marketo Docs - Produktdokumentation
 title: Hantera data för social profil
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '396'
 ht-degree: 0%
 
 ---
@@ -85,9 +85,7 @@ Beroende på nätverkets och användarens sekretessinställningar hämtas ett el
 >
 >Ifyllning av sociala formulär hämtar *endast* e-postadressen om personen skriver in den i formuläret. Om du behöver e-postadressen bör du [göra den till ett obligatoriskt fält i formuläret](../../../../product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >Aktivera ifyllning av [sociala formulär](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)om du vill hämta in den här informationen från formulär.
 
