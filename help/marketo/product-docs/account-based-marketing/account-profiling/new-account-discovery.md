@@ -3,9 +3,9 @@ unique-page-id: 37355609
 description: Ny kontoidentifiering - Marketo Docs - Produktdokumentation
 title: Ny kontoidentifiering
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Ny kontoidentifiering kan hjälpa dig att hitta nya konton att rikta in dig på genom att använda AI-baserade rekommendationer från din idealiska kundprofil.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >[Ställ in kontoprofilering](http://docs.marketo.com/x/FgAKAQ)
 
