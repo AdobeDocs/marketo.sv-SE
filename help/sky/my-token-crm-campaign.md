@@ -2,9 +2,9 @@
 title: my-token-crm-campaign
 description: Min token CRM-kampanj
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ Så här konfigurerar du en CRM Campaign-token som ska användas i dina program 
 >
 >CRM Campaign Mina token är bara tillgängliga för Salesforce-integreringar.
 
-1. Dra en [!UICONTROL **CRM-kampanjtoken**] till arbetsytan Lokala token på fliken Mina token i ditt program eller din mapp.
+1. Dra en token till arbetsytan Lokala token på fliken Mina token i programmet eller mappen. **[!UICONTROL CRM Campaign]**
 
    ![Bild ett](/help/sky/assets/my-tokens/my-token-crm-campaign/my-token-crm-campaign-1.png)
 
-2. Ange ett namn för din nya token och välj sedan en CRM-kampanj i listrutan. Klicka på [!UICONTROL **Spara**].
+2. Ange ett namn för din nya token och välj sedan en CRM-kampanj i listrutan. Klicka **[!UICONTROL Save]**.
 
    ![Bild två](/help/sky/assets/my-tokens/my-token-crm-campaign/my-token-crm-campaign-2.png)
 
