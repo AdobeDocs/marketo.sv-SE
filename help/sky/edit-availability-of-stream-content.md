@@ -2,9 +2,9 @@
 title: edit-availability-of-stream-content
 description: Redigera tillgänglighet för direktuppspelat innehåll
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Du kan ange en tidsram för när innehållet ska vara aktivt i strömmen.
 
    ![Bild ett](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-1.png)
 
-1. Klicka på fliken [!UICONTROL **Streams**] .
+1. Klicka på **[!UICONTROL Streams]** fliken.
 
    ![Bild två](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-2.png)
 
@@ -28,7 +28,7 @@ Du kan ange en tidsram för när innehållet ska vara aktivt i strömmen.
 
    ![Bild tre](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-3.png)
 
-1. Välj [!UICONTROL **Redigera tillgänglighet**].
+1. Välj **[!UICONTROL Edit Availability]**.
 
    ![Bild fyra](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-4.png)
 
@@ -36,7 +36,7 @@ Du kan ange en tidsram för när innehållet ska vara aktivt i strömmen.
 
    ![Bild fem](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-5.png)
 
-1. Klicka på [!UICONTROL **Spara**].
+1. Klicka **[!UICONTROL Save]**.
 
    ![Bild sex](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-6.png)
 
