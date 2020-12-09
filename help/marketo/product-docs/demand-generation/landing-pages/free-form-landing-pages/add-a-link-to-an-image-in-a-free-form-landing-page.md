@@ -3,9 +3,9 @@ unique-page-id: 5472314
 description: Lägg till en länk till en bild på en landningssida i fri form - Marketo Docs - Produktdokumentation
 title: Lägga till en länk till en bild på en startsida med valfri form
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Vill du göra en bild på landningssidan till en länk till en annan sida/plats? Så här gör du.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Lägga till en bild på en landningssida med valfri form](add-an-image-to-a-free-form-landing-page.md)
 
