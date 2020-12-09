@@ -3,9 +3,9 @@ unique-page-id: 10092730
 description: Förhandsgranska ett push-meddelande - Marketo Docs - Produktdokumentation
 title: Förhandsgranska ett push-meddelande
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ På Notiscenter-skärmen är den uppe uppe,
 
 Med förhandsgranskning av push-meddelanden vet ni alltså alltid vad kunderna kommer att se!
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Skapa ett push-meddelande](create-a-push-notification.md)
 >* [Konfigurera push-meddelanden för mobilen](configure-mobile-push-notification.md)
