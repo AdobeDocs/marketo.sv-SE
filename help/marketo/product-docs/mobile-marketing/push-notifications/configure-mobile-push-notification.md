@@ -3,9 +3,9 @@ unique-page-id: 7512454
 description: Konfigurera Mobile Push Notification - Marketo Docs - produktdokumentation
 title: Konfigurera push-meddelanden för mobilen
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -101,9 +101,7 @@ En djuplänk-URI består av tre delar: schemanamn, sökväg och identifierare. I
 
 Programmets djuplänksstruktur kan dock skilja sig från ovanstående exempel. Din utvecklare har många alternativ för att definiera URI:er för djuplänk, så be utvecklaren att skicka URI:er (länkar) till de sidor som du är intresserad av att använda. Detta garanterar att de URI:er som du anger i push-meddelanden pekar på rätt platser. Din utvecklare kan [hitta mer information här](http://developers.marketo.com/mobile/enabling-deep-links-in-your-app/).
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Skicka ett mobilpush-meddelande](send-a-mobile-push-notification.md)
 
