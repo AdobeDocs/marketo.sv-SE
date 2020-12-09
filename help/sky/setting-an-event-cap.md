@@ -2,9 +2,9 @@
 title: setting-an-event-cap
 description: Så här ställer du in en händelsehatt
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -29,11 +29,11 @@ Begränsa antalet personer som kan registrera sig för evenemanget med ett händ
 
    ![Bild ett](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-1.png)
 
-1. I översikten söker du efter [!UICONTROL Event Cap] och klickar på [!UICONTROL **Inte angiven**].
+1. I översikten letar du reda på [!UICONTROL Event Cap] och klickar **[!UICONTROL Not Set]**.
 
    ![Bild två](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-2.png)
 
-1. Ange det maximala antal personer som du vill kunna registrera för din aktivitet och klicka på [!UICONTROL **Nästa**].
+1. Ange det maximala antal personer som du vill kunna registrera för din aktivitet och klicka på **[!UICONTROL Next]**.
 
    ![Bild tre](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-3.png)
 
@@ -41,7 +41,7 @@ Begränsa antalet personer som kan registrera sig för evenemanget med ett händ
 
    ![Bild fyra](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-4.png)
 
-1. Klicka på listrutan [!UICONTROL **Registrering, hel sida**] och välj den landningssida som ska fungera som registreringssida. Klicka på [!UICONTROL **Ange och aktivera**] när du är klar.
+1. Klicka på den **[!UICONTROL Registration Full Page]** nedrullningsbara listan och välj den landningssida som ska fungera som registreringssida. Klicka **[!UICONTROL Set and Enable]** när du är klar.
 
    ![Bild fem](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-5.png)
 
