@@ -3,9 +3,9 @@ unique-page-id: 11378814
 description: Kontolistor - Marketo Docs - Produktdokumentation
 title: Kontolistor
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -89,9 +89,7 @@ Förutom kontolistor kan du även skapa dynamiska kontolistor som genereras frå
 
    ![](assets/six.png)
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Lägg till ett befintligt namngivet konto i en kontolista](named-accounts/add-an-existing-named-account-to-an-account-list.md)
 >* [Kontolisteinsikter](../../../product-docs/account-based-marketing/measure/account-list-insights.md)
