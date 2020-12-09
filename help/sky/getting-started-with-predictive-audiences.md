@@ -2,9 +2,9 @@
 title: getting-started-with-preditive-audiences
 description: Komma igång med prediktiva målgrupper
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -29,8 +29,8 @@ AI/ML-modellernas prestanda beror på informationen i din prenumeration. Ju ofta
 
 Prediktiva målgrupper inkluderas och aktiveras automatiskt för instanser som använder prispaket för Prime eller Ultimate. Kontakta din Customer Success Manager om du vill veta mer om hur du får tillgång till den här funktionen.
 
-1. När funktionen har lagts till i instansen går du till sidan [!UICONTROL **Predictive Audiences**] (Prediktiva målgrupper) i [!UICONTROL **administratörsområdet**] i [!DNL Marketo Classic].
+1. När funktionen har lagts till i instansen navigerar du till **[!UICONTROL Predictive Audiences]** sidan i **[!UICONTROL Admin]** området i [!DNL Marketo Classic].
 
-1. Markera [!UICONTROL **Aktivera prediktiva målgrupper**] för att aktivera funktionen. Observera att det kan ta upp till 24 timmar för alla processer att slutföra installationen.
+1. Markera **[!UICONTROL Enable Predictive Audiences]** för att aktivera funktionen. Observera att det kan ta upp till 24 timmar för alla processer att slutföra installationen.
 
    ![Bild ett](/help/sky/assets/predictive-audiences/getting-started-with-predictive-audiences/getting-started-with-predictive-audiences-1.png)
