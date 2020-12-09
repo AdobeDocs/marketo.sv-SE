@@ -3,9 +3,9 @@ unique-page-id: 2953120
 description: Understanding Smart Campaigns - Marketo Docs - Product Documentation
 title: Om smarta kampanjer
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ Slutligen styr detta när ni kör er smarta kampanj. Du kan till och med ställa
 
 Det finns en enorm mängd saker som den smarta kampanjen kan göra. Häng med så hittar du allt i Marketo som blir enklare att förstå.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Skapa en ny smart kampanj](creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
