@@ -3,9 +3,9 @@ unique-page-id: 2359757
 description: Lägg till en social knapp på en landningssida - Marketo Docs - Produktdokumentation
 title: Lägg till en social knapp på en landningssida
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -53,8 +53,6 @@ Grattis! Du har lagt till en social knapp på landningssidan. Var noga med att g
 >
 >För att spara tid kan du använda alternativet **Klona från** för att kopiera alla inställningar från en befintlig social knapp.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >Du är klar, men du kan ändra inställningarna för den sociala knappen om det behövs. Börja med att [anpassa knappformatet](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) och [redigera de delningsmeddelanden](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) som visas.
