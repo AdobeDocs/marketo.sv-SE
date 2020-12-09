@@ -2,9 +2,9 @@
 title: cancel-a-schedule-reciing-batch-campaign-run
 description: Avbryt en schemalagd återkommande batchkampanjkörning
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -18,15 +18,15 @@ Om du har en återkommande batchkampanj som du inte vill ha mer kan du avbryta f
 
 ## Avbryt hela upprepningen
 
-1. Välj kampanjen och gå till fliken [!UICONTROL **Schema**] .
+1. Välj kampanjen och gå till **[!UICONTROL Schedule]** fliken.
 
    ![Bild ett](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
-1. Klicka på [!UICONTROL **Redigera upprepning**].
+1. Klicka **[!UICONTROL Edit Recurrence]**.
 
    ![Bild två](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-2.png)
 
-1. Ange Återkommande till Ingen och klicka på [!UICONTROL **Bekräfta**].
+1. Ange Återkommande till Ingen och klicka på **[!UICONTROL Confirm]**.
 
    ![Bild tre](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-3.png)
 
@@ -36,15 +36,15 @@ Om du har en återkommande batchkampanj som du inte vill ha mer kan du avbryta f
 
 ## Avbryt en enskild körning
 
-1. Välj kampanjen och gå till fliken [!UICONTROL **Schema**] .
+1. Välj kampanjen och gå till **[!UICONTROL Schedule]** fliken.
 
    ![Bild fyra](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-4.png)
 
-1. Klicka på [!UICONTROL **Schemalagda körningar**].
+1. Klicka **[!UICONTROL Scheduled Runs]**.
 
    ![Bild fem](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-5.png)
 
-1. Leta reda på den enstaka körning du vill avbryta och klicka på [!UICONTROL **X**] längst till höger.
+1. Leta reda på den enstaka körning som du vill avbryta och klicka på **[!UICONTROL X]** längst till höger.
 
    ![Bild sex](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-6.png)
 
