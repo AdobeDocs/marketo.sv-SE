@@ -3,9 +3,9 @@ unique-page-id: 2359793
 description: Använd e-post i sociala kampanjer - Marketo Docs - Produktdokumentation
 title: Använd e-post i sociala kampanjer
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Använd följande variabler i e-postmeddelanden:
 
 * **Fulfillment email**: Skicka **`{{social.Promo Code}}`** en [kampanjkod](use-promo-codes-for-offer-fulfillment.md)till varje vinnare.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >Innan du kan lägga till ett e-postmeddelande i en social app måste det vara *operativt* och *godkänt*. Se [Redigera inställningar för ett e-postmeddelande](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
