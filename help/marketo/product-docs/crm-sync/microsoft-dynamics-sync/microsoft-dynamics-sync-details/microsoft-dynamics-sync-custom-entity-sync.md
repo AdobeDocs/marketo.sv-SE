@@ -3,9 +3,9 @@ unique-page-id: 3571846
 description: Microsoft Dynamics Sync -Anpassad entitetssynkronisering - Marketo Docs - Produktdokumentation
 title: Microsoft Dynamics Sync - anpassad entitetssynkronisering
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ Om du behöver aktivera den första anpassade entitetssynkroniseringen för att 
 >
 >**Administratörsbehörigheter krävs**
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >Om du vill använda ett anpassat objekt måste det associeras med ett [lead](microsoft-dynamics-sync-lead-sync.md)-, [kontakt](microsoft-dynamics-sync-contact-sync.md)- eller [](microsoft-dynamics-sync-account-sync.md)kontoobjekt i Dynamics.
 
