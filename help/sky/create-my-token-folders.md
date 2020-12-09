@@ -2,9 +2,9 @@
 title: create-my-token-folders
 description: Skapa mina tokenmappar
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Så här sorterar du Mina token i mappar.
 
    ![Bild ett](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-1.png)
 
-1. Ange ett namn för den nya mappen och välj sedan [!UICONTROL **Lokala token**] eller [!UICONTROL **Åsidosatta token**] i listrutan för mål. Klicka på [!UICONTROL **Spara**].
+1. Ange ett namn för den nya mappen och välj **[!UICONTROL Local Tokens]** eller **[!UICONTROL Overridden Tokens]** välj i listrutan för mål. Klicka **[!UICONTROL Save]**.
 
    ![Bild två](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-2.png)
 
@@ -38,4 +38,4 @@ Så här sorterar du Mina token i mappar.
 
 >[!TIP]
 >
->Om du vill byta namn på en mapp högerklickar du på den och klickar på [!UICONTROL **Byt namn**].
+>Om du vill byta namn på en mapp högerklickar du på den och klickar på **[!UICONTROL Rename]**.
