@@ -3,9 +3,9 @@ unique-page-id: 2359612
 description: Ändra position för formuläretikett - Marketo Docs - Produktdokumentation
 title: Ändra formuläretikettposition
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ När du [skapar ett formulär](../../../../product-docs/demand-generation/forms/
 
 Bra gjort! Se hur enkelt det var att ändra etikettplaceringen i ett formulär. Nu ska vi se vad vi kan göra med att ändra teckensnittet för formuläretiketterna.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Ändra teckensnittsfamilj för formulär](change-the-form-font-family.md)
 
