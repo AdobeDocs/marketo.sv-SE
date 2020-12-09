@@ -3,9 +3,9 @@ unique-page-id: 5472348
 description: Gör en befintlig mall för landningssida i friform kompatibel - Marketo Docs - Produktdokumentation
 title: Gör en befintlig mall för landningssida i friform kompatibel
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -85,9 +85,7 @@ När du redigerar en landningssida och klickar på mobilfliken, kommer du ibland
 
 Häftig! Nu kan du [anpassa mobilvyn](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) för alla dina landningssidor som använder den här mallen.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Anpassa mobilvyn för din startsida med kostnadsfria formulär](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
 
