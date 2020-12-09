@@ -3,9 +3,9 @@ unique-page-id: 2359587
 description: Champion/Challenger -Ignorera ett e-posttest - Marketo Docs - produktdokumentation
 title: Champion/Challenger - Ignorera ett e-posttest
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Om du vid något tillfälle bestämmer dig för att du inte vill fortsätta att köra ditt e-posttest kan du ignorera det. Så här gör du.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >* [Champion/Challenger: Godkänn ditt e-posttest](champion-challenger-approve-your-email-test.md)
 
