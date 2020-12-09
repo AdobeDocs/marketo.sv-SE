@@ -3,9 +3,9 @@ unique-page-id: 4719283
 description: Förstå Salesforce-synkronisering - Marketo-dokument - produktdokumentation
 title: Förstå Salesforce-synkronisering
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -44,9 +44,7 @@ Synkroniseringen mellan Salesforce och Marketo är endast dubbelriktad för lead
 
 Det finns många nyanser och funktioner om Salesforce-synkronisering. Läs mer i avsnittet [om](http://docs.marketo.com/display/docs/sfdc+sync+details)SFDC-synkronisering.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Inställningar för Salesforce-synkronisering](http://docs.marketo.com/display/docs/setup)
 >* [Information om SFDC-synkronisering](http://docs.marketo.com/display/docs/sfdc+sync+details)
