@@ -2,9 +2,9 @@
 title: archive-a-program
 description: Arkivera ett program
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -14,23 +14,23 @@ ht-degree: 0%
 
 Om du vill arkivera ett program måste du flytta det till en separat arkivmapp.
 
-1. Skapa en ny kampanjmapp genom att högerklicka på arbetsytan och välja [!UICONTROL **Ny kampanjmapp**].
+1. Skapa en ny kampanjmapp genom att högerklicka på arbetsytan och välja **[!UICONTROL New Campaign Folder]**.
 
    ![Bild ett](/help/sky/assets/programs/archive-a-program/archive-a-program-1.png)
 
-1. Ange ett namn för den nya mappen och lägg sedan till en valfri beskrivning. Klicka på [!UICONTROL **Skapa**].
+1. Ange ett namn för den nya mappen och lägg sedan till en valfri beskrivning. Klicka **[!UICONTROL Create]**.
 
    ![Bild två](/help/sky/assets/programs/archive-a-program/archive-a-program-2.png)
 
-1. Om du vill arkivera ett program lägger du först till det i den nya mappen genom att högerklicka på det i trädet och välja [!UICONTROL **Flytta**].
+1. Om du vill arkivera ett program lägger du först till det i den nya mappen genom att högerklicka på det i trädet och välja **[!UICONTROL Move]**.
 
    ![Bild tre](/help/sky/assets/programs/archive-a-program/archive-a-program-3.png)
 
-1. Skriv för att söka efter den nya mappen och välj den i listrutan. Klicka på [!UICONTROL **Flytta**].
+1. Skriv för att söka efter den nya mappen och välj den i listrutan. Klicka **[!UICONTROL Move]**.
 
    ![Bild fyra](/help/sky/assets/programs/archive-a-program/archive-a-program-4.png)
 
-1. Högerklicka på mappen och välj [!UICONTROL **Konvertera till arkivmapp**].
+1. Högerklicka på mappen och välj **[!UICONTROL Convert To Archive Folder]**.
 
    ![Bild fem](/help/sky/assets/programs/archive-a-program/archive-a-program-5.png)
 
