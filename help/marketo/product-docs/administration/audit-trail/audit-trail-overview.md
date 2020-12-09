@@ -3,9 +3,9 @@ unique-page-id: 11377945
 description: Översikt över granskningsspår - Marketo Docs - Produktdokumentation
 title: Översikt över granskningsspår
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -80,9 +80,7 @@ Du kan bara visa 30 dagars data i din instans. Använd exportalternativet för a
 >
 >**Okänd:** I granskningsspår kan du se en användares namn och e-postadress som är&quot;Okänd&quot;. Det här inträffar när du ändrar värdena i din plocklista i CRM. Dessa värden visas i Marketo-formulär och på landningssidor. Om du gör den här uppdateringen på CRM-sidan läggs dina landningssidor automatiskt till som refererar till formuläret. I granskningsspår kommer vi att se att landningssidan har skrivits, men användarens namn och e-postadress kommer att visas som&quot;Okänd&quot; eftersom vi inte kan samla in användarinformation från CRM-sidan.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Aktivera granskningsspår](enable-audit-trail.md)
 
