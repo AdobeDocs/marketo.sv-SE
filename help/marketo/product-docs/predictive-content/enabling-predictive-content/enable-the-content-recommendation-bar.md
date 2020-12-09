@@ -3,9 +3,9 @@ unique-page-id: 4720108
 description: Aktivera innehållsrekommendationsfältet - Marketo Docs - produktdokumentation
 title: Aktivera innehållsrekommendationsfältet
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Innehållsrekommendationsmotorn använder prediktiva analyser och maskininlärningsalgoritmer för att leverera relevant innehåll till varje webbbesökare. Rekommendationsmotorn förutser vilket innehåll som fungerar bäst per besökare. Innehållet i motorn övervakas och styrs under Recommendations-sidan, vilket hjälper dig att optimera avkastningen på ditt innehåll.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >Innan du aktiverar prediktivt innehåll måste du:
 >
