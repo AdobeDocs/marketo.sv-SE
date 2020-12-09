@@ -2,9 +2,9 @@
 title: clone-a-smart-campaign
 description: Klona en smart kampanj
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -20,14 +20,14 @@ Kloningskampanjer sparar tid åt er. Du behöver inte skapa allt från början, 
 
    ![Bild ett](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-1.png)
 
-1. Välj [!UICONTROL **Klona**] i listrutan Åtgärder för smarta kampanjer.
+1. Välj i listrutan Åtgärder för smart kampanj **[!UICONTROL Clone]**.
 
    ![Bild två](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-2.png)
 
-1. Klicka på listrutan [!UICONTROL **Mål**] och välj ett målprogram eller en målmapp.
+1. Klicka på **[!UICONTROL Destination]** listrutan och välj ett målprogram eller en målmapp.
 
    ![Bild tre](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-3.png)
 
-1. Ange ett kampanjnamn (och valfri beskrivning/etiketter) och klicka på [!UICONTROL **Klona**].
+1. Ange ett kampanjnamn (och valfri beskrivning/etiketter) och klicka på **[!UICONTROL Clone]**.
 
    ![Bild fyra](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-4.png)
