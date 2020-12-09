@@ -3,9 +3,9 @@ unique-page-id: 12976798
 description: Konfigurera LinkedIn Lead Gen Forms - Marketo Docs - Produktdokumentation
 title: Konfigurera LinkedIn Lead Gen Forms
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -83,9 +83,7 @@ Snyggt gjort! Personer som skickar in LinkedIn Lead Gen-formulär börjar flöda
 >
 >Du kan bara auktorisera ett enstaka LinkedIn-användarkonto. Om du har flera företagskonton som du vill länka till Marketo kontrollerar du att användarens LinkedIn-konto som auktoriseras har Lead Gen Form Manager-behörigheter till företagskontot i LinkedIn.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Använd LinkedIn-formulärfilter och utlösare för lead-generering i en smart kampanj](use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
 
