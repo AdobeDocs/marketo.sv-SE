@@ -3,9 +3,9 @@ unique-page-id: 2359823
 description: Publicera landningssidor på Facebook - Marketo Docs - Produktdokumentation
 title: Publicera landningssidor på Facebook
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Du kan publicera dina landningssidor på Facebook, möta din publik där de reda
 >
 >SMB Spark, Standard &amp; Select. Enterprise med separat licensierad funktion.
 
->[!NOTE]
->
->**Förutsättningar**
+>[!PREREQUISITES]
 >
 >Sidan måste ha minst 2 000 gilla-markeringar innan du kan publicera på Facebook.
 
