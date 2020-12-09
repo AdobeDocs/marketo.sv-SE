@@ -3,9 +3,9 @@ unique-page-id: 4718654
 description: Understanding Revenue Models - Marketo Docs - Product Documentation
 title: Förstå intäktsmodeller
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '578'
 ht-degree: 0%
 
 ---
@@ -89,9 +89,7 @@ Förtydliga exakt hur ett lead rör sig från en fas till en annan med smarta ka
 
 Här är några länkar som kan vara mycket hoppfulla. (eller förhoppningsvis till hjälp - välj själv!)
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >[Skapa en ny intäktsmodell](create-a-new-revenue-model.md)
 >
@@ -105,9 +103,7 @@ Lägga till en scen från den lyckade banan   ![](assets/image2015-6-12-10-3a10-
 
 Lost är en bra en att lägga till, men lägg märke till att den inte är på den gröna banan. Det beror på att det inte är en&quot;framgång&quot;.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >[Rapport om din intäktsmodell](report-on-your-revenue-model.md)
 >
