@@ -2,9 +2,9 @@
 title: campaign-folder-tasks-tab
 description: 'Fliken Aktiviteter för kampanjmapp '
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Kampanjmapp: Fliken Verksamheter
 
-Hitta viktig information om era kampanjer på fliken [!UICONTROL **Aktiviteter**] .
+Hitta viktig information om era kampanjer på **[!UICONTROL Activities]** fliken.
 
 ![Bild ett](/help/sky/assets/campaign-folders/campaign-folder-activities-tab/campaign-folder-activities-tab-1.png)
 
-Använd listrutan [!UICONTROL **Filtrera efter**] för att filtrera kampanjer efter aktivitetstyp. Du kan också söka efter kampanj, aktivitetstyp osv.
+Använd listrutan **[!UICONTROL Filter by]** för att filtrera kampanjer efter aktivitetstyp. Du kan också söka efter kampanj, aktivitetstyp osv.
 
 ![Bild två](/help/sky/assets/campaign-folders/campaign-folder-activities-tab/campaign-folder-activities-tab-2.png)
 
