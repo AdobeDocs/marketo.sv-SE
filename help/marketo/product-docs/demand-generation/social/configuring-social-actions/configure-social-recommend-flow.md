@@ -3,9 +3,9 @@ unique-page-id: 2950549
 description: Konfigurera socialt rekommenderat flöde - Marketo Docs - Produktdokumentation
 title: Konfigurera socialt rekommenderat flöde
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '487'
 ht-degree: 0%
 
 ---
@@ -127,9 +127,7 @@ Om du väljer det här alternativet läggs värdena för sidans OpenGraph-taggar
 
    ![](assets/image2014-9-22-12-3a5-3a45.png)
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >Nästa steg är att [lägga till din videoresurs](customize-video-share-flow.md) eller [omröstning](../../../../product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) på en landningssida, Facebook eller din egen webbplats.
 
