@@ -3,9 +3,9 @@ unique-page-id: 4720710
 description: Konfigurera SPF och DKIM för din e-postleverans - Marketo Docs - Produktdokumentation
 title: Konfigurera SPF och DKIM för e-postleveransen
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '456'
+source-wordcount: '454'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Hur ställer jag upp DKIM?
 
 Se [Konfigurera en anpassad DKIM-signatur](set-up-a-custom-dkim-signature.md).
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Läs mer om SPF och hur det fungerar](http://www.open-spf.org/Introduction/)
 >* [Marketos verktyg för e-postleverans](https://www.marketo.com/software/email-marketing/email-deliverability/)
