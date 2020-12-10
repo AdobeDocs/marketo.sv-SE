@@ -3,7 +3,7 @@ unique-page-id: 2949471
 description: Checklista för installation - Marketo Docs - Produktdokumentation
 title: Konfigurera checklista
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: aff16097f274ade1aa3877c9bba6080a87d22bc0
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Konfigurera checklista {#setup-checklist}
 
-Välkommen till Marketo! Du kan använda följande checklista som en visuell att göra-lista för att komma igång. Mer information finns i [installationsstegen](../../getting-started/setup-steps.md).
+Välkommen till Marketo! Du kan använda följande checklista som en visuell att göra-lista för att komma igång. Mer information finns i [installationsstegen](/help/marketo/getting-started/setup-steps.md).
 
 ## Logga in på Marketo och skapa ytterligare användare {#log-in-to-marketo-and-create-additional-users}
 
@@ -34,7 +34,7 @@ Välkommen till Marketo! Du kan använda följande checklista som en visuell att
 1. Be IT-avdelningen att konfigurera en DNS-post för e-postens CNAME
 1. Be IT att tillåtslista Marketo
 1. Konfigurera DKIM och SPF i administrationsområdet
-1. Konfigurera MX för [FromDomain1]
+1. Konfigurera MX för `[FromDomain1]`
 1. När det är klart med e-postmeddelandet CNAME konfigurerar du e-postmeddelandet CNAME i Marketo
 
 ## Skicka en URL för landningssida och e-postmallar {#submit-a-url-for-landing-page-and-email-templates}
@@ -51,5 +51,4 @@ Välkommen till Marketo! Du kan använda följande checklista som en visuell att
 
 >[!MORELIKETHIS]
 >
->[Installationssteg](../../getting-started/setup-steps.md)
-
+>[Installationssteg](/help/marketo/getting-started/setup-steps.md)
