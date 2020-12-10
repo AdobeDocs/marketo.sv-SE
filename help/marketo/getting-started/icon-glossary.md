@@ -3,21 +3,15 @@ unique-page-id: 4720476
 description: Ikonordlista - Marketo Docs - Produktdokumentation
 title: Ikonordlista
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 0ec525defbefe610f0bd1227b1c8f8e125d8e362
 workflow-type: tm+mt
-source-wordcount: '681'
+source-wordcount: '543'
 ht-degree: 0%
 
 ---
 
 
 # Ikonordlista {#icon-glossary}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](/help/marketo/getting-started/updates-to-marketo-terminology.md).
 
 **Allmänna ikoner**
 
@@ -34,114 +28,114 @@ ht-degree: 0%
   <tr> 
    <td> 
     <div> 
-     <img alt="--" src="assets/image2016-2-24-11-3a16-3a17.png" data-linked-resource-id="10098425" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img alt="--" src="assets/image2016-2-24-11-3a16-3a17.png"> 
     </div></td> 
    <td><span>Mapp</span></td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/open-icon.png" data-linked-resource-id="6848728" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/open-icon.png" > 
     </div></td> 
-   <td><p><a href="../product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md">Skapa ny mapp</a></p></td> 
+   <td>Skapa ny mapp</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-9-3a16-3a28.png" data-linked-resource-id="5047097" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-9-3a16-3a28.png"> 
     </div></td> 
-   <td><a href="../product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md">Ta bort mapp</a></td> 
+   <td>Ta bort mapp</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <p><img src="assets/image2015-1-9-9-3a20-3a42.png" data-linked-resource-id="5047098" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"></p> 
+     <img src="assets/image2015-1-9-9-3a20-3a42.png"> 
     </div></td> 
-   <td><a href="../product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md">Redigera/byt namn på mapp</a></td> 
+   <td>Redigera/byt namn på mapp</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <p><img alt="--" height="25" src="assets/share-to.png" data-linked-resource-id="30081185" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"></p> 
+     <img alt="--" height="25" src="assets/share-to.png"> 
     </div></td> 
-   <td colspan="1">Källmappen som du <a href="http://docs.marketo.com/display/DOCS/Understanding+Workspaces+and+Person+Partitions#UnderstandingWorkspacesandPersonPartitions-SharingacrossWorkspaces" rel="nofollow">delade med en annan arbetsyta</a></td> 
+   <td colspan="1">Källmappen som du delade med en annan arbetsyta</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <p><img alt="--" width="25" src="assets/share-from.png" data-linked-resource-id="30081186" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"></p> 
+     <img alt="--" width="25" src="assets/share-from.png"> 
     </div></td> 
-   <td colspan="1">Målmappen som <a href="http://docs.marketo.com/display/DOCS/Understanding+Workspaces+and+Person+Partitions#UnderstandingWorkspacesandPersonPartitions-SharingacrossWorkspaces" rel="nofollow">delades från en annan arbetsyta</a> <br>(hänglåset anger att det inte går att redigera)</td> 
+   <td colspan="1">Målmapp som delades från en annan arbetsyta <br>(hänglås anger att det inte går att redigera)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-9-3a23-3a11.png" data-linked-resource-id="5047099" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-9-3a23-3a11.png"> 
     </div></td> 
-   <td><p>Arkivera mapp eller Konvertera till arkivmapp</p><p>(Detta kan visas för alla mappar och arkiverade program)</p></td> 
+   <td>Arkivmapp eller Konvertera till arkivmapp (kan visas för alla mappar och arkiverade program)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-9-3a35-3a59.png" data-linked-resource-id="5047100" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-9-3a35-3a59.png"> 
     </div></td> 
-   <td><p>Klart!</p><p>(Visas ofta som slutfört program, slutförd körning eller aktiv)</p></td> 
+   <td>Klart!(Visas ofta som slutfört program, slutförd körning eller aktiv)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-10-3a34-3a57.png" data-linked-resource-id="5047108" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-10-3a34-3a57.png"> 
     </div></td> 
-   <td><a href="../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md">Filter, Visa, Visa alla</a></td> 
+   <td>Filter, Visa, Visa alla</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" height="22" width="22" src="assets/trigger.png" data-linked-resource-id="10095371" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476" title="--"> 
+     <img alt="--" height="22" width="22" src="assets/trigger.png" title="--"> 
     </div></td> 
-   <td colspan="1"><a href="../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md">Utlösare</a></td> 
+   <td colspan="1">Utlösare</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-10-3a37-3a40.png" data-linked-resource-id="5047109" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-10-3a37-3a40.png"> 
     </div></td> 
    <td>Community</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-10-3a38-3a59.png" data-linked-resource-id="5047110" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-10-3a38-3a59.png"> 
     </div></td> 
    <td>Historik</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-10-3a41-3a44.png" data-linked-resource-id="5047111" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-10-3a41-3a44.png"> 
     </div></td> 
    <td>Hjälp</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-10-3a47-3a12.png" data-linked-resource-id="5047112" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-10-3a47-3a12.png"> 
     </div></td> 
    <td>Prenumerationsinformation</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-10-3a49-3a41.png" data-linked-resource-id="5047113" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-10-3a49-3a41.png"> 
     </div></td> 
    <td>Kundsupport</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-10-3a52-3a30.png" data-linked-resource-id="5047114" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-10-3a52-3a30.png"> 
     </div></td> 
-   <td><p>Om Marketo</p></td> 
+   <td>Om Marketo</td> 
   </tr> 
  </tbody> 
 </table>
@@ -157,163 +151,163 @@ ht-degree: 0%
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-8-15-3a58-3a8.png" data-linked-resource-id="5047064" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-8-15-3a58-3a8.png"> 
     </div></td> 
-   <td><a href="../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md">Arbetsytor och partitioner</a></td> 
+   <td>Arbetsytor och partitioner</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-8-18-3a33-3a35.png" data-linked-resource-id="5047085" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-8-18-3a33-3a35.png"> 
     </div></td> 
-   <td><p><a href="../product-docs/administration/settings/edit-account-settings.md">Mitt konto</a></p></td> 
+   <td>Mitt konto</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-10-3a56-3a28.png" data-linked-resource-id="5047115" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-10-3a56-3a28.png"> 
     </div></td> 
-   <td><a href="../product-docs/administration/settings/change-your-password-security-settings.md">Säkerhet/utloggning</a></td> 
+   <td>Säkerhet/utloggning</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-8-16-3a25-3a7.png" data-linked-resource-id="5047067" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-8-16-3a25-3a7.png"> 
     </div></td> 
-   <td><a href="../product-docs/administration/users-and-roles/managing-marketo-users.md">Användare och roller</a></td> 
+   <td>Användare och roller</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-8-16-3a30-3a56.png" data-linked-resource-id="5047068" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-8-16-3a30-3a56.png"> 
     </div></td> 
    <td>Inloggningsinställningar</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-8-16-3a34-3a53.png" data-linked-resource-id="5047069" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-8-16-3a34-3a53.png"> 
     </div></td> 
-   <td><a href="../product-docs/administration/settings/set-default-location-settings-for-a-subscription.md">Plats</a></td> 
+   <td>Plats</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-8-16-3a36-3a19.png" data-linked-resource-id="5047070" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-8-16-3a36-3a19.png"> 
     </div></td> 
-   <td><a href="../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md">Smart Campaign</a></td> 
+   <td>Smart Campaign</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-8-16-3a38-3a39.png" data-linked-resource-id="5047071" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-8-16-3a38-3a39.png"> 
     </div></td> 
-   <td><p><a href="quick-wins/send-an-email.md">E-post</a></p></td> 
+   <td>E-post</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-8-16-3a40-3a3.png" data-linked-resource-id="5047072" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-8-16-3a40-3a3.png"> 
     </div></td> 
-   <td><p><a href="../product-docs/administration/email-setup/enable-communication-limits.md">Kommunikationsbegränsningar</a></p></td> 
+   <td>Kommunikationsbegränsningar</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-8-16-3a45-3a58.png" data-linked-resource-id="5047073" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-8-16-3a45-3a58.png"> 
     </div></td> 
-   <td><a href="http://docs.marketo.com/display/docs/field+management">Fälthantering</a></td> 
+   <td>Fälthantering</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-8-16-3a47-3a42.png" data-linked-resource-id="5047074" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-8-16-3a47-3a42.png"> 
     </div></td> 
-   <td><a href="https://docs.marketo.com/display/DOCS/Integrations" rel="nofollow">Integrering</a></td> 
+   <td>Integrering</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-8-17-3a45-3a44.png" data-linked-resource-id="5047075" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-8-17-3a45-3a44.png"> 
     </div></td> 
-   <td><p><a href="../product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md">Salesforce (SFDC)</a></p></td> 
+   <td>Salesforce (SFDC)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-8-17-3a53-3a28.png" data-linked-resource-id="5047076" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-8-17-3a53-3a28.png"> 
     </div></td> 
-   <td><p><a href="http://docs.marketo.com/display/docs/using+msi">Försäljningsinsikter</a></p></td> 
+   <td>Försäljningsinsikter</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-8-18-3a23-3a38.png" data-linked-resource-id="5047081" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-8-18-3a23-3a38.png"> 
     </div></td> 
-   <td><p><a href="../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md">Landningssidor</a></p></td> 
+   <td>Landningssidor</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-8-18-3a25-3a25.png" data-linked-resource-id="5047082" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-8-18-3a25-3a25.png"> 
     </div></td> 
-   <td><p><a href="../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md">Munchkin</a></p></td> 
+   <td>Munchkin</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-8-18-3a26-3a58.png" data-linked-resource-id="5047083" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-8-18-3a26-3a58.png"> 
     </div></td> 
-   <td><p><a href="../product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md">Webbtjänster</a></p></td> 
+   <td>Webbtjänster</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-8-18-3a28-3a16.png" data-linked-resource-id="5047084" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-8-18-3a28-3a16.png"> 
     </div></td> 
-   <td><p><a href="../product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md">LaunchPoint</a></p></td> 
+   <td>LaunchPoint</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-8-18-3a44-3a51.png" data-linked-resource-id="5047086" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-8-18-3a44-3a51.png"> 
     </div></td> 
-   <td><p><a href="../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md">Webhooks</a></p></td> 
+   <td>Webhooks</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-8-18-3a46-3a13.png" data-linked-resource-id="5047087" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-8-18-3a46-3a13.png"> 
     </div></td> 
-   <td><p><a href="http://docs.marketo.com/display/docs/tags">Taggar - programattribut</a></p></td> 
+   <td>Taggar - programattribut</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-9-3a39-3a28.png" data-linked-resource-id="5047101" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-9-3a39-3a28.png"> 
     </div></td> 
-   <td><p><a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Analys av intäktscykler</a></p></td> 
+   <td>Analys av intäktscykler</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-8-19-3a20-3a47.png" data-linked-resource-id="5047090" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-8-19-3a20-3a47.png"> 
     </div></td> 
-   <td><p><a href="../product-docs/administration/settings/enable-or-disable-treasure-chest-features.md">Treasure Chest</a></p></td> 
+   <td>Treasure Chest</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-8-3a40-3a3.png" data-linked-resource-id="5047091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-8-3a40-3a3.png"> 
     </div></td> 
-   <td><p><a href="http://docs.marketo.com/display/docs/administration">Administratör</a></p></td> 
+   <td>Administratör</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-8-3a46-3a19.png" data-linked-resource-id="5047094" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-8-3a46-3a19.png"> 
     </div></td> 
-   <td><p><a href="../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md">Meddelanden - viktiga systemomfattande aviseringar</a></p></td> 
+   <td>Meddelanden - viktiga systemomfattande aviseringar</td> 
   </tr> 
  </tbody> 
 </table>
@@ -329,357 +323,357 @@ ht-degree: 0%
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2014-12-18-16-3a45-3a45.png" data-linked-resource-id="5046958" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2014-12-18-16-3a45-3a45.png"> 
     </div></td> 
-   <td><a href="../product-docs/demand-generation/events/understanding-events/understanding-event-programs.md">Event Program</a></td> 
+   <td>Event Program</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-11-3a9-3a4.png" data-linked-resource-id="5046978" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-11-3a9-3a4.png"> 
     </div></td> 
-   <td><p><a href="../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md">Program - standardtyp</a></p></td> 
+   <td>Program - standardtyp</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-11-3a24-3a42.png" data-linked-resource-id="5047118" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-11-3a24-3a42.png"> 
     </div></td> 
-   <td><a href="../product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md">Importprogram</a></td> 
+   <td>Importprogram</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2014-12-23-11-3a28-3a3.png" data-linked-resource-id="5046960" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2014-12-23-11-3a28-3a3.png"> 
     </div></td> 
-   <td><a href="http://docs.marketo.com/display/docs/drip+nurturing">Engagement Nurture</a></td> 
+   <td>Engagement Nurture</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2014-12-23-11-3a38-3a16.png" data-linked-resource-id="5046962" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2014-12-23-11-3a38-3a16.png"> 
     </div></td> 
-   <td><a href="../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md">Lägg till i engagemangsprogram</a></td> 
+   <td>Lägg till i engagemangsprogram</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2014-12-23-11-3a40-3a19.png" data-linked-resource-id="5046963" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2014-12-23-11-3a40-3a19.png"> 
     </div></td> 
-   <td><a href="../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md">Ändra aktivitetsavslutning (pausad,normal)</a></td> 
+   <td>Ändra aktivitetsavslutning (pausad,normal)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2014-12-23-11-3a42-3a5.png" data-linked-resource-id="5046964" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2014-12-23-11-3a42-3a5.png"> 
     </div></td> 
-   <td><a href="../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md">Ändra engagemangsström</a></td> 
+   <td>Ändra engagemangsström</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-11-3a11-3a29.png" data-linked-resource-id="5046979" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-11-3a11-3a29.png"> 
     </div></td> 
-   <td><a href="../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md">Smart Campaign - aktiv och utlöst</a></td> 
+   <td>Smart Campaign - aktiv och utlöst</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-11-3a12-3a45.png" data-linked-resource-id="5046980" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-11-3a12-3a45.png"> 
     </div></td> 
-   <td><p>Smart Campaign som begärs</p><p>(Efter Sales Insight eller Marketo Flow Action)</p></td> 
+   <td>Smart Campaign som begärs (av Sales Insight eller Marketo Flow Action)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-11-3a14-3a24.png" data-linked-resource-id="5046982" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-11-3a14-3a24.png"> 
     </div></td> 
-   <td><p><a href="../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md">Smart Campaign - batch</a></p><p>(Har körts tidigare)</p></td> 
+   <td>Smart Campaign - batch(har körts tidigare)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-11-3a43-3a30.png" data-linked-resource-id="5046983" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-11-3a43-3a30.png"> 
     </div></td> 
    <td>Smart Campaign - Inaktiv eller aldrig genomförd</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-11-3a1-3a29.png" data-linked-resource-id="5047116" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-11-3a1-3a29.png"> 
     </div></td> 
    <td>Ogiltiga kampanjer</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-11-3a45-3a39.png" data-linked-resource-id="5046984" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </div></td> 
-   <td><a href="http://docs.marketo.com/display/docs/email+programs">E-postprogram</a> <br>(röd flagga ned = e-post har inte skickats än)</td> 
+   <td>E-postprogram <br>(röd flagga ned = e-post har inte skickats än)</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" src="assets/hs-icon.png" data-linked-resource-id="12983012" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476" title="--"> 
+     <img alt="--" src="assets/hs-icon.png" title="--"> 
     </div></td> 
-   <td colspan="1">E-postprogram schemalagt med <a href="../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md">huvudstart</a></td> 
+   <td colspan="1">E-postprogram schemalagt med huvudstart</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-11-3a51-3a1.png" data-linked-resource-id="5046985" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-11-3a51-3a1.png"> 
     </div></td> 
-   <td><p>Smart Campaign - schemalagd batch</p><p>(bockmarkeringen anger att den har körts tidigare)</p></td> 
+   <td>Smart Campaign - schemalagd batch (bockmarkeringen anger att den har körts tidigare)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-11-3a6-3a26.png" data-linked-resource-id="5047117" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-11-3a6-3a26.png"> 
     </div></td> 
-   <td><a href="../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md">Schemalagda gruppkampanjer</a></td> 
+   <td>Schemalagda gruppkampanjer</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-14-3a25-3a43.png" data-linked-resource-id="5047128" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-14-3a25-3a43.png"> 
     </div></td> 
-   <td><a href="http://docs.marketo.com/display/DOCS/Flow+Actions" rel="nofollow">Flödesåtgärd</a></td> 
+   <td>Flödesåtgärd</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-14-3a33-3a30.png" data-linked-resource-id="5047129" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-14-3a33-3a30.png"> 
     </div></td> 
    <td>Redigera inställningar</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-14-3a39-3a56.png" data-linked-resource-id="5047130" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-14-3a39-3a56.png"> 
     </div></td> 
-   <td><a href="http://docs.marketo.com/display/docs/forms">Formulär</a></td> 
+   <td>Formulär</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-14-3a40-3a19.png" data-linked-resource-id="5047131" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-14-3a40-3a19.png"> 
     </div></td> 
-   <td><a href="../product-docs/demand-generation/forms/creating-a-form/create-a-form.md">Klona formulär</a></td> 
+   <td>Klona formulär</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-14-3a41-3a0.png" data-linked-resource-id="5047132" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-14-3a41-3a0.png"> 
     </div></td> 
-   <td><a href="../product-docs/demand-generation/forms/form-actions/edit-a-form.md">Redigera formulär</a></td> 
+   <td>Redigera formulär</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-14-3a41-3a30.png" data-linked-resource-id="5047133" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-14-3a41-3a30.png"> 
     </div></td> 
-   <td><a href="../product-docs/demand-generation/forms/creating-a-form/approve-a-form.md">Formuläret har godkänts</a></td> 
+   <td>Formuläret har godkänts</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-14-3a42-3a29.png" data-linked-resource-id="5047134" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-14-3a42-3a29.png"> 
     </div></td> 
-   <td><a href="http://docs.marketo.com/display/docs/social">Social</a></td> 
+   <td>Social</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-14-3a43-3a17.png" data-linked-resource-id="5047135" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-14-3a43-3a17.png"> 
     </div></td> 
-   <td><a href="../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md">Funktioner för sociala knappar</a></td> 
+   <td>Funktioner för sociala knappar</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-14-3a44-3a8.png" data-linked-resource-id="5047136" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-14-3a44-3a8.png"> 
     </div></td> 
-   <td><a href="../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md">Redigera utkast</a></td> 
+   <td>Redigera utkast</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-14-3a45-3a45.png" data-linked-resource-id="5047137" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-14-3a45-3a45.png"> 
     </div></td> 
-   <td><a href="../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md">Förhandsgranska</a></td> 
+   <td>Förhandsgranska</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-14-3a46-3a39.png" data-linked-resource-id="5047138" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-14-3a46-3a39.png"> 
     </div></td> 
    <td>Klona</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-14-3a50-3a30.png" data-linked-resource-id="5047139" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-14-3a50-3a30.png"> 
     </div></td> 
    <td>Ta bort</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-14-3a53-3a0.png" data-linked-resource-id="5047140" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-14-3a53-3a0.png"> 
     </div></td> 
    <td>Bädda in kod</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-14-3a53-3a40.png" data-linked-resource-id="5047141" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-14-3a53-3a40.png"> 
     </div></td> 
-   <td><a href="../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md">Videofunktioner på YouTube</a></td> 
+   <td>Videofunktioner på YouTube</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-14-3a54-3a36.png" data-linked-resource-id="5047142" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-14-3a54-3a36.png"> 
     </div></td> 
    <td>Redigera utkast</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-14-3a55-3a51.png" data-linked-resource-id="5047143" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-14-3a55-3a51.png"> 
     </div></td> 
    <td>Förhandsgranska</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-14-3a56-3a46.png" data-linked-resource-id="5047144" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-14-3a56-3a46.png"> 
     </div></td> 
    <td>Godkänn</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-14-3a57-3a27.png" data-linked-resource-id="5047145" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-14-3a57-3a27.png"> 
     </div></td> 
    <td>Klona</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-14-3a58-3a0.png" data-linked-resource-id="5047146" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-14-3a58-3a0.png"> 
     </div></td> 
    <td>Ta bort</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-15-3a15-3a42.png" data-linked-resource-id="5047147" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-15-3a15-3a42.png"> 
     </div></td> 
-   <td><a href="../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md">Lotteriåtgärder</a></td> 
+   <td>Lotteriåtgärder</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-15-3a16-3a27.png" data-linked-resource-id="5047148" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-15-3a16-3a27.png"> 
     </div></td> 
    <td>Redigera utkast</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-15-3a17-3a24.png" data-linked-resource-id="5047149" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-15-3a17-3a24.png"> 
     </div></td> 
    <td>Förhandsgranska</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-15-3a17-3a53.png" data-linked-resource-id="5047150" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-15-3a17-3a53.png"> 
     </div></td> 
    <td>Godkänn</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-15-3a18-3a20.png" data-linked-resource-id="5047151" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-15-3a18-3a20.png"> 
     </div></td> 
    <td>Klona</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-15-3a19-3a46.png" data-linked-resource-id="5047152" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-15-3a19-3a46.png"> 
     </div></td> 
    <td>Ta bort</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-15-3a20-3a13.png" data-linked-resource-id="5047153" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-15-3a20-3a13.png"> 
     </div></td> 
-   <td><a href="../product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md">Vinnare</a></td> 
+   <td>Vinnare</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img src="assets/image2015-1-14-13-3a3-3a1.png" data-linked-resource-id="5047181" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-14-13-3a3-3a1.png"> 
     </div></td> 
-   <td colspan="1"><a href="../product-docs/email-marketing/general/functions-in-the-editor/download-an-emails-html.md">Hämta HTML</a></td> 
+   <td colspan="1">Hämta HTML</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img src="assets/image2015-1-14-13-3a3-3a12.png" data-linked-resource-id="5047182" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-14-13-3a3-3a12.png"> 
     </div></td> 
    <td colspan="1">Flytta</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img src="assets/image2015-1-14-13-3a3-3a21.png" data-linked-resource-id="5047183" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-14-13-3a3-3a21.png"> 
     </div></td> 
-   <td colspan="1"><p>Ta bort</p></td> 
+   <td colspan="1">Ta bort</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img src="assets/image2015-1-14-13-3a3-3a30.png" data-linked-resource-id="5047184" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-14-13-3a3-3a30.png"> 
     </div></td> 
    <td colspan="1">Klona</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img src="assets/image2015-1-14-13-3a3-3a42.png" data-linked-resource-id="5047185" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-14-13-3a3-3a42.png"> 
     </div></td> 
    <td colspan="1">Ogodkänd</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img src="assets/image2015-1-14-13-3a3-3a49.png" data-linked-resource-id="5047186" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-14-13-3a3-3a49.png"> 
     </div></td> 
-   <td colspan="1"><a href="../product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md">Skicka exempel</a></td> 
+   <td colspan="1">Skicka exempel</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img src="assets/image2015-1-14-13-3a3-3a56.png" data-linked-resource-id="5047187" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-14-13-3a3-3a56.png"> 
     </div></td> 
    <td colspan="1">Förhandsgranska</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img src="assets/image2015-1-14-13-3a4-3a4.png" data-linked-resource-id="5047188" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-14-13-3a4-3a4.png"> 
     </div></td> 
-   <td colspan="1"><a href="http://docs.marketo.com/pages/viewpage.action?pageid=2359480">Nytt test</a></td> 
+   <td colspan="1">Nytt test</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img src="assets/image2015-1-14-13-3a4-3a16.png" data-linked-resource-id="5047189" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-14-13-3a4-3a16.png"> 
     </div></td> 
    <td colspan="1">Leveransverktyg</td> 
   </tr> 
@@ -697,177 +691,177 @@ ht-degree: 0%
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-12-3a31-3a47.png" data-linked-resource-id="5046986" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-12-3a31-3a47.png"> 
     </div></td> 
-   <td><p><a href="../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md">Landningssida. Åtgärder för landningssida</a></p></td> 
+   <td>Landningssida. Åtgärder för landningssida</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-12-10-3a55-3a52.png" data-linked-resource-id="5047155" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-12-10-3a55-3a52.png"> 
     </div></td> 
    <td>Redigera utkast</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-12-10-3a56-3a42.png" data-linked-resource-id="5047156" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-12-10-3a56-3a42.png"> 
     </div></td> 
    <td>Förhandsgranska</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-12-10-3a57-3a25.png" data-linked-resource-id="5047157" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-12-10-3a57-3a25.png"> 
     </div></td> 
    <td>Ogodkänd</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-12-10-3a59-3a48.png" data-linked-resource-id="5047160" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-12-10-3a59-3a48.png"> 
     </div></td> 
-   <td><a href="../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md">Publicera på Facebook</a></td> 
+   <td>Publicera på Facebook</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-12-11-3a0-3a49.png" data-linked-resource-id="5047161" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-12-11-3a0-3a49.png"> 
     </div></td> 
    <td>Konvertera till testgrupp</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-12-11-3a7-3a6.png" data-linked-resource-id="5047162" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-12-11-3a7-3a6.png"> 
     </div></td> 
    <td>Clone Landing Page</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-12-11-3a8-3a54.png" data-linked-resource-id="5047163" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-12-11-3a8-3a54.png"> 
     </div></td> 
    <td>Ta bort landningssida</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-12-11-3a10-3a10.png" data-linked-resource-id="5047165" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-12-11-3a10-3a10.png"> 
     </div></td> 
-   <td><a href="../product-docs/demand-generation/landing-pages/personalizing-landing-pages/using-the-url-builder.md">URL Tools/URL Builder</a></td> 
+   <td>URL Tools/URL Builder</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-12-11-3a12-3a22.png" data-linked-resource-id="5047166" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-12-11-3a12-3a22.png"> 
     </div></td> 
    <td>Flytta program</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-12-11-3a15-3a18.png" data-linked-resource-id="5047167" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-12-11-3a15-3a18.png"> 
     </div></td> 
-   <td><a href="../product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md">Aktivera anpassade URL:er</a></td> 
+   <td>Aktivera anpassade URL:er</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-12-3a38-3a15.png" data-linked-resource-id="5046987" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-12-3a38-3a15.png"> 
     </div></td> 
    <td>Landningssida - godkänd</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-12-3a41-3a12.png" data-linked-resource-id="5046988" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-12-3a41-3a12.png"> 
     </div></td> 
    <td>Landningssida/e-postmall - ej godkänd</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-12-3a43-3a21.png" data-linked-resource-id="5046989" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-12-3a43-3a21.png"> 
     </div></td> 
    <td>Landningssida/e-postmall - godkänd</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-12-3a45-3a13.png" data-linked-resource-id="5046990" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-12-3a45-3a13.png"> 
     </div></td> 
    <td>E-post - ej godkänt eller utkast</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-12-3a46-3a24.png" data-linked-resource-id="5046991" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-12-3a46-3a24.png"> 
     </div></td> 
    <td>E-post godkänd</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-12-3a48-3a22.png" data-linked-resource-id="5046992" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-12-3a48-3a22.png"> 
     </div></td> 
    <td>Forms - ej godkänt</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-12-3a52-3a44.png" data-linked-resource-id="5046993" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-12-3a52-3a44.png"> 
     </div></td> 
    <td>Mall - godkänd med utkast</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-12-3a53-3a55.png" data-linked-resource-id="5046994" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-12-3a53-3a55.png"> 
     </div></td> 
    <td>Utkast till en godkänd resurs (inte direkt förrän utkast har godkänts)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-13-3a6-3a44.png" data-linked-resource-id="5046995" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-13-3a6-3a44.png"> 
     </div></td> 
-   <td><a href="http://docs.marketo.com/display/docs/images+and+files">Bilder och filer</a></td> 
+   <td>Bilder och filer</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-13-3a11-3a50.png" data-linked-resource-id="5046996" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-13-3a11-3a50.png"> 
     </div></td> 
-   <td><a href="../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md">Fragment - ej godkänt eller rita</a> <a href="../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md">t</a></td> 
+   <td>Fragment - ej godkänt eller utkast</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-13-3a29-3a18.png" data-linked-resource-id="5046997" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-13-3a29-3a18.png"> 
     </div></td> 
    <td>Fragment - Godkänt</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img src="assets/image2015-1-14-13-3a8-3a40.png" data-linked-resource-id="5047190" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-14-13-3a8-3a40.png"> 
     </div></td> 
    <td colspan="1">Nytt</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img src="assets/image2015-1-14-13-3a8-3a47.png" data-linked-resource-id="5047191" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-14-13-3a8-3a47.png"> 
     </div></td> 
-   <td colspan="1"><a href="../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md">Hämta bilder från webben</a></td> 
+   <td colspan="1">Hämta bilder från webben</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img src="assets/image2015-1-14-13-3a8-3a53.png" data-linked-resource-id="5047192" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-14-13-3a8-3a53.png"> 
     </div></td> 
-   <td colspan="1"><a href="../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md">Överför bild eller fil</a></td> 
+   <td colspan="1">Överför bild eller fil</td> 
   </tr> 
  </tbody> 
 </table>
@@ -883,100 +877,100 @@ ht-degree: 0%
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-9-3a50-3a24.png" data-linked-resource-id="5047102" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-9-3a50-3a24.png"> 
     </div></td> 
-   <td><a href="../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md">Intäktscykelmodell</a></td> 
+   <td>Intäktscykelmodell</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-9-3a55-3a4.png" data-linked-resource-id="5047103" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-9-3a55-3a4.png"> 
     </div></td> 
    <td>RCM (Revenue Cycle Model) - ej godkänd</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-9-3a56-3a30.png" data-linked-resource-id="5047104" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-9-3a56-3a30.png"> 
     </div></td> 
    <td>RCM (Revenue Cycle Model) - godkänd</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-9-3a58-3a14.png" data-linked-resource-id="5047105" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-9-3a58-3a14.png"> 
     </div></td> 
    <td>RCM (Revenue Cycle Model) - godkänt med utkast</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-12-3a55-3a23.png" data-linked-resource-id="5047119" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-12-3a55-3a23.png"> 
     </div></td> 
    <td>Rapportåtgärder</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-12-3a55-3a51.png" data-linked-resource-id="5047120" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-12-3a55-3a51.png"> 
     </div></td> 
-   <td><a href="../product-docs/reporting/basic-reporting/report-types/report-type-overview.md">Rapport</a></td> 
+   <td>Rapport</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-12-3a56-3a29.png" data-linked-resource-id="5047121" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-12-3a56-3a29.png"> 
     </div></td> 
-   <td><a href="../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md">Ny rapportprenumeration</a></td> 
+   <td>Ny rapportprenumeration</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-12-3a57-3a19.png" data-linked-resource-id="5047122" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-12-3a57-3a19.png"> 
     </div></td> 
-   <td><a href="../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md">Ta bort rapport</a></td> 
+   <td>Ta bort rapport</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-12-3a58-3a53.png" data-linked-resource-id="5047123" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-12-3a58-3a53.png"> 
     </div></td> 
-   <td><a href="../product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md">Visa kvalificerad lead</a></td> 
+   <td>Visa kvalificerad lead</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-15-3a46-3a10.png" data-linked-resource-id="5047154" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-15-3a46-3a10.png"> 
     </div></td> 
-   <td><a href="../product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md">Översikt över intressanta stunder</a></td> 
+   <td>Översikt över intressanta stunder</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-13-3a35-3a23.png" data-linked-resource-id="5047124" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-13-3a35-3a23.png"> 
     </div></td> 
    <td>Expandera alla</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-13-3a36-3a11.png" data-linked-resource-id="5047125" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-13-3a36-3a11.png"> 
     </div></td> 
    <td>Komprimera alla</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-13-3a43-3a15.png" data-linked-resource-id="5047126" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-13-3a43-3a15.png"> 
     </div></td> 
-   <td><a href="../product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md">Gruppera leads efter</a></td> 
+   <td>Gruppera leads efter</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-9-13-3a45-3a48.png" data-linked-resource-id="5047127" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-9-13-3a45-3a48.png"> 
     </div></td> 
-   <td><a href="../product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md">Egna kolumner</a></td> 
+   <td>Egna kolumner</td> 
   </tr> 
  </tbody> 
 </table>
@@ -992,56 +986,56 @@ ht-degree: 0%
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-13-3a53-3a27.png" data-linked-resource-id="5046998" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-13-3a53-3a27.png"> 
     </div></td> 
-   <td><p><a href="../product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">Kalender-ICS - iCalendars, (inbyggda kalendrar)</a></p></td> 
+   <td>Kalender-ICS - iCalendars, (inbyggda kalendrar)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-14-3a20-3a45.png" data-linked-resource-id="5046999" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-14-3a20-3a45.png"> 
     </div></td> 
-   <td><a href="../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md">RTF (not a Landing Page)</a></td> 
+   <td>RTF (not a Landing Page)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-14-3a27-3a2.png" data-linked-resource-id="5047000" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-14-3a27-3a2.png"> 
     </div></td> 
    <td>Nummer</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-14-3a31-3a7.png" data-linked-resource-id="5047001" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </div></td> 
    <td>Salesforce (även för alla SFDC-relaterade objekt)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-15-3a44-3a30.png" data-linked-resource-id="5047008" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-15-3a44-3a30.png"> 
     </div></td> 
-   <td><p><a href="../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md">Schemalägg den smarta kampanjen så att den körs en gång</a></p><p><br></p></td> 
+   <td>Schemalägg den smarta kampanjen så att den körs en gång</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-15-3a46-3a32.png" data-linked-resource-id="5047009" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-15-3a46-3a32.png"> 
     </div></td> 
    <td>Redigera inställningar</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-15-3a47-3a48.png" data-linked-resource-id="5047010" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-15-3a47-3a48.png"> 
     </div></td> 
    <td>Uppdatera (vanligtvis Antal, Rapport, Smart List)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-16-3a1-3a29.png" data-linked-resource-id="5047011" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-16-3a1-3a29.png"> 
     </div></td> 
    <td>Visa smarta medlemmar (tidigare kvalificerade och aktuella)</td> 
   </tr> 
@@ -1059,63 +1053,63 @@ ht-degree: 0%
   <tr> 
    <td> 
     <div> 
-     <p><img src="assets/image2015-1-5-15-3a18-3a8.png" data-linked-resource-id="5047006" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"></p> 
+     <img src="assets/image2015-1-5-15-3a18-3a8.png"> 
     </div></td> 
-   <td><p><a href="../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md">Schemalägg återkommande kampanj (flera körningar)</a></p></td> 
+   <td>Schemalägg återkommande kampanj (flera körningar)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-15-3a21-3a29.png" data-linked-resource-id="5047007" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-15-3a21-3a29.png"> 
     </div></td> 
    <td>Avbryt körning, åtgärd eller borttagning</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-16-3a10-3a6.png" data-linked-resource-id="5047012" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-16-3a10-3a6.png"> 
     </div></td> 
-   <td><a href="../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md">Redigera kvalificeringsregler</a></td> 
+   <td>Redigera kvalificeringsregler</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-14-3a31-3a7.png" data-linked-resource-id="5047001" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </div></td> 
    <td>Salesforce (även för alla SFDC-relaterade objekt)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-14-3a33-3a11.png" data-linked-resource-id="5047002" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-14-3a33-3a11.png"> 
     </div></td> 
-   <td><p>Endast text</p></td> 
+   <td>Endast text</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-12-11-3a33-3a51.png" data-linked-resource-id="5047168" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-12-11-3a33-3a51.png"> 
     </div></td> 
-   <td><a href="../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md">Relativ bakgrundsmusik (visas även för alla åtgärder för poängsättningsflödet)</a></td> 
+   <td>Relativ bakgrundsmusik (visas även för alla åtgärder för poängsättningsflödet)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-12-11-3a34-3a22.png" data-linked-resource-id="5047169" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-12-11-3a34-3a22.png"> 
     </div></td> 
    <td>Relativ brådskande situation</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-14-3a43-3a28.png" data-linked-resource-id="5047004" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-14-3a43-3a28.png"> 
     </div></td> 
    <td>E-postskript (endast för snabbhet)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-14-3a48-3a34.png" data-linked-resource-id="5047005" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-14-3a48-3a34.png"> 
     </div></td> 
    <td>Datum - formaterat som MM-DD-ÅÅÅ</td> 
   </tr> 
@@ -1133,79 +1127,79 @@ ht-degree: 0%
   <tr> 
    <td> 
     <div> 
-     <p><img src="assets/image2015-1-5-16-3a26-3a11.png" data-linked-resource-id="5047013" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"></p> 
+     <img src="assets/image2015-1-5-16-3a26-3a11.png"> 
     </div></td> 
-   <td><p><a href="../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md">Smart List</a></p></td> 
+   <td>Smart List</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-16-3a27-3a35.png" data-linked-resource-id="5047014" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-16-3a27-3a35.png"> 
     </div></td> 
    <td>Smart List - cachelagrad</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-16-3a37-3a48.png" data-linked-resource-id="5047015" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-16-3a37-3a48.png"> 
     </div></td> 
-   <td><a href="../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md">Segmentering eller segment - ej godkänt</a></td> 
+   <td>Segmentering eller segment - ej godkänt</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-16-3a39-3a5.png" data-linked-resource-id="5047016" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-16-3a39-3a5.png"> 
     </div></td> 
-   <td><a href="../product-docs/personalization/segmentation-and-snippets/segmentation/edit-a-segmentation.md">Segmentering eller segment - godkänt eller utkast</a></td> 
+   <td>Segmentering eller segment - godkänt eller utkast</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-16-3a40-3a49.png" data-linked-resource-id="5047017" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-16-3a40-3a49.png"> 
     </div></td> 
    <td>Segmentering eller segment - godkänt</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-16-3a42-3a11.png" data-linked-resource-id="5047018" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-16-3a42-3a11.png"> 
     </div></td> 
-   <td><a href="../product-docs/reporting/revenue-cycle-analytics/revenue-tools/using-field-organizers.md">Sorteraren i fält</a></td> 
+   <td>Sorteraren i fält</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-14-3a43-3a28.png" data-linked-resource-id="5047004" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-14-3a43-3a28.png"> 
     </div></td> 
    <td>E-postskript (endast för snabbhet)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <img src="assets/image2015-1-5-16-3a54-3a4.png" data-linked-resource-id="5047019" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-5-16-3a54-3a4.png"> 
     </div></td> 
-   <td><a href="../product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md">Statisk lista</a></td> 
+   <td>Statisk lista</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img src="assets/image2015-1-14-13-3a9-3a33.png" data-linked-resource-id="5047193" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-14-13-3a9-3a33.png"> 
     </div></td> 
-   <td colspan="1"><a href="../product-docs/administration/field-management/create-a-custom-field-in-marketo.md">Nytt</a></td> 
+   <td colspan="1">Nytt</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img src="assets/image2015-1-14-13-3a9-3a39.png" data-linked-resource-id="5047194" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-14-13-3a9-3a39.png"> 
     </div></td> 
-   <td colspan="1"><a href="../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md">Ny segmentering</a></td> 
+   <td colspan="1">Ny segmentering</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img src="assets/image2015-1-14-13-3a9-3a47.png" data-linked-resource-id="5047195" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
+     <img src="assets/image2015-1-14-13-3a9-3a47.png"> 
     </div></td> 
-   <td colspan="1"><a href="quick-wins/import-a-list-of-people.md">Importera</a></td> 
+   <td colspan="1">Importera</td> 
   </tr> 
  </tbody> 
 </table>
