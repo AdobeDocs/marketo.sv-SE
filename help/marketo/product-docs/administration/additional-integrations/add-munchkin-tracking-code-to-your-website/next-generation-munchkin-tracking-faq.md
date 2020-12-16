@@ -3,9 +3,9 @@ unique-page-id: 10096583
 description: Nästa generations Munchkin Tracking FAQ - Marketo Docs - Produktdokumentation
 title: Nästa generations Munchkin Tracking - frågor och svar
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '743'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Nästa generations Munchkin Tracking - frågor och svar {#next-generation-munchkin-tracking-faq}
 
 Vi är glada över att kunna meddela att vi snart kommer att påbörja en fasad lansering av nästa generations webbspårningsteknik.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Här är det viktigaste att veta:
 
