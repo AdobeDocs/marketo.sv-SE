@@ -3,9 +3,9 @@ unique-page-id: 2359949
 description: Pausa personer i ett engagemangsprogram - Marketo Docs - Produktdokumentation
 title: Pausa personer i ett engagemangsprogram
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Pausa personer i ett engagemangsprogram {#pause-people-in-an-engagement-program}
 
 När en person är medlem i ett engagemangsprogram får han eller hon innehåll tills han eller hon har [fyllt allt innehåll](people-who-have-exhausted-content.md). Du kan använda flödessteget [Change Engagement Program Cadence](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) för att hindra personer från att ta emot innehåll, även om de inte har fyllt i innehåll än.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Välj engagemangsprogrammet.
 
