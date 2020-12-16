@@ -3,9 +3,9 @@ unique-page-id: 2953415
 description: Använda personinformationssidan - Marketo Docs - Produktdokumentation
 title: Använda personinformationssidan
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '532'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Använda personinformationssidan {#using-the-person-detail-page}
 
 Personinformationssidan innehåller all information som Marketo känner till om en person. Du kan redigera data direkt från den här sidan.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Komma till personinformationssidan {#getting-to-person-detail-page}
 
