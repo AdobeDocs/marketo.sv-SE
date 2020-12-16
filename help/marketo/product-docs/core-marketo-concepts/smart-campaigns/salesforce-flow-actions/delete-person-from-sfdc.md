@@ -3,9 +3,9 @@ unique-page-id: 1147031
 description: Ta bort person från SFDC - Marketo Docs - Produktdokumentation
 title: Ta bort person från SFDC
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Ta bort person från SFDC {#delete-person-from-sfdc}
 
 Om du behöver ta bort en viss uppsättning leads från Salesforce men låta dem vara personer i Marketo, kan du använda åtgärden Ta bort person från SFDC-flöde.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
