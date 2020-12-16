@@ -3,9 +3,9 @@ unique-page-id: 2359420
 description: Drip, Drip, Nurture - Marketo Docs - Produktdokumentation
 title: Drip, Drift, Struktur
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,10 @@ ht-degree: 0%
 
 Du kan enkelt skapa ett avancerat och sofistikerat vårdsystem i Marketo. Så här gör du!
 
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Konfigurera och lägga till en person](get-set-up-and-add-a-person.md)
->* [Importera en lista med personer](import-a-list-of-people.md)
-
->
-
+>* [Konfigurera och lägga till en person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [Importera en lista med personer](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 
 ## Steg 1: Skapa ett engagerande program {#step-create-an-engagement-program}
@@ -68,7 +59,7 @@ Du kan enkelt skapa ett avancerat och sofistikerat vårdsystem i Marketo. Så h�
 
    >[!NOTE]
    >
-   >Ser du inte e-postredigeraren? Webbläsaren har antagligen blockerat fönstret. Aktivera popup-fönster från [app.marketo.com](http://app.marketo.com) i webbläsaren och klicka på **Redigera utkast** i den övre menyraden.
+   >Ser du inte e-postredigeraren? Webbläsaren har antagligen blockerat fönstret. Aktivera popup-fönster från [app.marketo.com](https://app.marketo.com) i webbläsaren och klicka på **Redigera utkast** i den övre menyraden.
 
 1. Ange ett ämne.
 
@@ -92,9 +83,6 @@ Du kan enkelt skapa ett avancerat och sofistikerat vårdsystem i Marketo. Så h�
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
-   >
    >Glöm inte att godkänna dina e-postmeddelanden, annars kan du inte aktivera dem senare.
 
 1. Skapa nu ett nytt e-postmeddelande genom att upprepa åtgärderna i steg 2.
@@ -104,6 +92,7 @@ Du kan enkelt skapa ett avancerat och sofistikerat vårdsystem i Marketo. Så h�
 ## Steg 3: Lägg till innehåll i strömmen {#step-add-content-to-your-stream}
 
 1. Nu är det dags att skapa en ström av innehåll för engagemangsprogrammet med hjälp av de e-postmeddelanden du skapat.
+
 1. Välj engagemangsprogrammet och klicka på fliken **Streams** .
 
    ![](assets/fourteen-2.png)
@@ -114,11 +103,11 @@ Du kan enkelt skapa ett avancerat och sofistikerat vårdsystem i Marketo. Så h�
 
    >[!TIP]
    >
-   >Du kan också använda knappen **Lägg till innehåll** eller ikonen för direktuppspelning **+ **.
+   >Du kan också använda knappen **Lägg till innehåll** eller direktuppspelningsikonen **+** .
 
 ## Steg 4: Aktivera ströminnehåll {#step-activate-stream-content}
 
-1. Aktivera allt innehåll på en gång genom att klicka på kugghjulsikonen och sedan klicka på **Aktivera allt innehåll** .
+1. Aktivera allt innehåll på en gång genom att klicka på kugghjulsikonen och sedan på **Aktivera allt innehåll**.
 
    ![](assets/image2014-9-24-12-3a48-3a28.png)
 
@@ -134,7 +123,7 @@ Du kan enkelt skapa ett avancerat och sofistikerat vårdsystem i Marketo. Så h�
 
    ![](assets/seventeen.png)
 
-1. Redigera inställningarna enligt det schema du vill ha och klicka på **SPARA**.
+1. Redigera inställningarna enligt det schema som du vill ha och klicka på **Spara**.
 
    ![](assets/image2014-9-24-12-3a49-3a5.png)
 
@@ -167,15 +156,15 @@ Du kan enkelt skapa ett avancerat och sofistikerat vårdsystem i Marketo. Så h�
    ![](assets/twenty-two.png)
 
 1. Uppdraget är klart!
+
 1. Du bör få e-post vid den tidpunkt och vid den tidpunkt som du angav.
 
    >[!NOTE]
    >
-   >**Djupdykning**
-   >
-   >
-   >Läs mer om [Engagement Programs](http://docs.marketo.com/display/docs/drip+nurturing).
+   >Läs mer om [Engagement Programs](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md).
 
 <br> 
 
-[◄ 5: Importera en lista med leads](import-a-list-of-people.md) [Mission 7: Anpassa ett e-postmeddelande ►](personalize-an-email.md)
+[◄ 5: Importera en lista med leads](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+
+[Uppdrag 7: Anpassa ett e-postmeddelande ►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
