@@ -3,9 +3,9 @@ unique-page-id: 2951220
 description: Bygg en rapport om personprestanda med Mobile Platform Columns - Marketo Docs - produktdokumentation
 title: Bygg en rapport om personprestanda med Mobile Platform-kolumner
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Bygg en rapport om personprestanda med Mobile Platform-kolumner {#build-a-people-performance-report-with-mobile-platform-columns}
 
 Följ de här stegen för att skapa en rapport om personprestanda med mobila plattformskolumner (iOS/Android).
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Skapa smarta mobillistor {#create-mobile-smart-lists}
 
