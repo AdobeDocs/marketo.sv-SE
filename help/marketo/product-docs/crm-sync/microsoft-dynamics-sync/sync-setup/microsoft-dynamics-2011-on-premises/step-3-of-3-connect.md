@@ -3,21 +3,15 @@ unique-page-id: 3571809
 description: Steg 3 av 3 - Ansluta Microsoft Dynamics med Marketo (2011 On-Premises) - Marketo Docs - Produktdokumentation
 title: Steg 3 av 3 - Anslut Microsoft Dynamics med Marketo (On-Premises 2011)
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---
 
 
 # Steg 3 av 3: Anslut Microsoft Dynamics med Marketo (On-Premises 2011) {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Okej! Vi installerade lösningen och konfigurerade synkroniseringsanvändaren. Därefter måste vi koppla Marketo och Dynamics.
 
