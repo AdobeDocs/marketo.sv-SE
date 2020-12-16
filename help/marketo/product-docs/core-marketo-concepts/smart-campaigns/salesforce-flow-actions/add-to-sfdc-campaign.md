@@ -3,21 +3,15 @@ unique-page-id: 1147034
 description: Lägg till i SFDC-kampanj - Marketo Docs - Produktdokumentation
 title: Lägg till i SFDC-kampanj
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
 
 
 # Lägg till i SFDC-kampanj {#add-to-sfdc-campaign}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
