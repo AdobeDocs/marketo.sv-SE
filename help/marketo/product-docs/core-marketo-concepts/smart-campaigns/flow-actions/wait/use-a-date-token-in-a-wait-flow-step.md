@@ -3,9 +3,9 @@ unique-page-id: 1146997
 description: Använd en datumtoken i ett vänteflödessteg - Marketo Docs - Produktdokumentation
 title: Använd en datumtoken i ett vänteflödessteg
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Använd en datumtoken i ett vänteflödessteg {#use-a-date-token-in-a-wait-flow-step}
 
 Du kan använda steget Väntflöde för att pausa en persons resa genom en smart kampanj tills ett visst datum som använder en datumtoken. Du kan också ändra slutdatumet med ett antal dagar.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
