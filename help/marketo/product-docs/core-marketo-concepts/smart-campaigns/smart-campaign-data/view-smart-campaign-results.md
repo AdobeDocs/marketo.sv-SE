@@ -3,9 +3,9 @@ unique-page-id: 1146968
 description: Visa resultat för smarta kampanjer - Marketo Docs - Produktdokumentation
 title: Visa resultat för smarta kampanjer
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Visa resultat för smarta kampanjer {#view-smart-campaign-results}
 
 Vill du se en sammanfattning av allt som hände i en smart kampanj? Det är enkelt, så här.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Klicka på **Resultat** i den smarta kampanjen.
 
