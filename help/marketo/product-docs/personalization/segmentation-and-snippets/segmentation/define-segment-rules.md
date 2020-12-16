@@ -3,9 +3,9 @@ unique-page-id: 2359449
 description: Definiera segmentregler - Marketo Docs - Produktdokumentation
 title: Definiera segmentregler
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '444'
+source-wordcount: '393'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Definiera segmentregler {#define-segment-rules}
 
 Genom att definiera segmentregler kan du kategorisera dina personer i olika grupper som inte kan kombineras.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!PREREQUISITES]
 >
