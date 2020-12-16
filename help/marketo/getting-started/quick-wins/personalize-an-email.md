@@ -3,9 +3,9 @@ unique-page-id: 2359422
 description: Anpassa ett e-postmeddelande - Marketo Docs - Produktdokumentation
 title: Anpassa ett e-postmeddelande
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,16 @@ ht-degree: 0%
 
 ## Uppdrag: Gör dina e-postmeddelanden personliga genom att lägga till datatoken {#mission-make-your-emails-personal-by-adding-data-tokens}
 
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Konfigurera och lägga till en person](get-set-up-and-add-a-person.md)
->* [Skicka ett e-postutdrag](send-an-email.md)
->* [Drip, Drift, Struktur](drip-drip-nurture.md)
+>* [Konfigurera och lägga till en person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [Skicka ett e-postutdrag](/help/marketo/getting-started/quick-wins/send-an-email.md)
+>* [Drip, Drift, Struktur](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
 
 
 ## Steg 1: Välj en e-postadress att anpassa {#step-select-an-email-to-personalize}
 
-1. Välj en av de vårdnadstexter som skapades i den [tidigare snabbvinningen](drip-drip-nurture.md) och klicka på **Redigera utkast**.
+1. Välj en av de vårdnadstexter som skapades i den [tidigare snabbvinningen](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md) och klicka på **Redigera utkast**.
 
    ![](assets/one-4.png)
 
@@ -38,9 +32,7 @@ ht-degree: 0%
    >
    >Detta skapar en kopia av e-postmeddelandet som ett utkast. Du måste godkänna utkastet för att ändringarna ska börja gälla.
 
-   **Redigera utkast**
-
-Om du inte har aktiverat en popup-blockerare öppnas e-postredigeraren i ett nytt flik/fönster. Klicka annars två gånger.
+Om du inte har aktiverat en popup-blockerare öppnas e-postredigeraren i ett nytt flik/fönster. I annat fall klickar du på **Redigera utkast** två gånger.
 
 ## Steg 2: Gör säljaren till avsändaren {#step-make-the-salesperson-the-sender}
 
@@ -108,11 +100,7 @@ Om du inte har aktiverat en popup-blockerare öppnas e-postredigeraren i ett nyt
 
 >[!TIP]
 >
->Behöver du en snabb uppdatering av hur du skickar e-postmeddelandet till dig själv? Se [Skicka en e-poststund](send-an-email.md).
-
-### Se en video {#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/iRnqxMyJg6VKyuPeuxmHFb.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+>Behöver du en snabb uppdatering av hur du skickar e-postmeddelandet till dig själv? Se [Skicka en e-poststund](/help/marketo/getting-started/quick-wins/send-an-email.md).
 
 ### Uppdraget är slutfört {#mission-complete}
 
@@ -120,4 +108,6 @@ Grattis, du har personaliserat din e-post!
 
 <br> 
 
-[◄ 6: Drip, Drip,](drip-drip-nurture.md) Naturvårdsuppdrag [8: Meddela säljaren ►](alert-the-sales-rep.md)
+[◄ 6: Drip, Drift, Struktur](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+
+[Uppdrag 8: Meddela säljaren ►](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
