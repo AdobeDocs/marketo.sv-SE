@@ -3,21 +3,15 @@ unique-page-id: 2360305
 description: Skapa en anpassad flik för personinformationssidan - Marketo Docs - Produktdokumentation
 title: Skapa en anpassad flik för personinformationssidan
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
 
 # Skapa en anpassad flik för personinformationssidan {#creating-a-custom-tab-for-the-person-detail-page}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Om du råkar leta efter en viss uppsättning fält i persondetaljen om och om igen kan du skapa en anpassad layout som gör det enklare.
 
