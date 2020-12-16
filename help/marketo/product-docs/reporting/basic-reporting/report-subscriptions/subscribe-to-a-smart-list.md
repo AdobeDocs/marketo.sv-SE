@@ -3,9 +3,9 @@ unique-page-id: 7505310
 description: Prenumerera på en smart lista - Marketo Docs - produktdokumentation
 title: Prenumerera på en smart lista
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Prenumerera på en smart lista {#subscribe-to-a-smart-list}
 
 Att prenumerera på smarta listor är ett bra sätt att hålla reda på personer, med rapporter som skickas direkt till din inkorg.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Du kan skapa en prenumeration på en smart lista på två olika platser:
 
