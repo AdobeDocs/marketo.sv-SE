@@ -3,9 +3,9 @@ unique-page-id: 10099360
 description: Förbered dig för ditt event - Marketo Docs - Produktdokumentation
 title: Förbered dig för ditt evenemang
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 0%
 # Förbered dig för ditt evenemang {#prepare-for-your-event}
 
 Det finns flera saker du måste göra för att göra dig redo för evenemanget.
-
->[!NOTE]
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](/help/marketo/getting-started/updates-to-marketo-terminology.md).
 
 ## Skapa en ny Marketo-roll {#create-a-new-marketo-role}
 
