@@ -3,21 +3,15 @@ unique-page-id: 3571819
 description: Steg 3 av 3 - Connect Marketo och Dynamics (2013 On-Premises) - Marketo Docs - Produktdokumentation
 title: Steg 3 av 3 - Connect Marketo och Dynamics (2013 On-Premises)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '379'
 ht-degree: 0%
 
 ---
 
 
 # Steg 3 av 3: Connect Marketo och Dynamics (On-Premises 2013) {#step-of-connect-marketo-and-dynamics-on-premises}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Okej! Vi installerade lösningen och konfigurerade synkroniseringsanvändaren. Därefter måste vi koppla Marketo och Dynamics.
 
