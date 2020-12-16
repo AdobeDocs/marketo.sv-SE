@@ -3,9 +3,9 @@ unique-page-id: 2359418
 description: Importera en lista med människor - Marketo Docs - Produktdokumentation
 title: Importera en lista med personer
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '572'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -15,35 +15,21 @@ ht-degree: 0%
 
 ## Uppdrag: Importera en kalkylbladslista med deltagande i affärsprogram till databasen {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
 
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Konfigurera och lägga till en person](get-set-up-and-add-a-person.md)
+>[Konfigurera och lägga till en person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
->
-
-
-
-`   
-`  I den här självstudiekursen får du lära dig att importera personer från en kalkylbladsfil till Marketo.
+I den här självstudiekursen får du lära dig att importera personer från en kalkylbladsfil till Marketo.
 
 ## Steg 1: Hämta och redigera ett kalkylblad {#step-download-and-edit-a-spreadsheet}
 
-1. Till att börja med laddar du ned övningsfilen för kalkylblad (** [tradeshow-Attendees.csv](http://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv)**) till datorn.
+1. Börja med att ladda ned vår övningskalkylbladsfil ([**tradeshow-Attendees.csv**](https://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv)) till datorn.
 
    ![](assets/image2014-9-24-12-3a5-3a0.png)
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
-   >
-   >Använd följande format när du importerar ett datum: **15/921** (månad/dag/år).
+   >Använd följande format när du importerar ett datum: **200** -09-21 (månad/dag/år).
 
    >[!NOTE]
    >
@@ -67,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-12-3a21-3a13.png)
 
-1. **Ge** programmet namnet&quot;My Tradeshow Program&quot; och välj&quot;Event&quot; som **programtyp.**
+1. **Ge** programmet namnet&quot;My Tradeshow Program&quot; och välj&quot;Event&quot; som **programtyp**.
 
    ![](assets/image2014-9-24-12-3a21-3a25.png)
 
@@ -77,9 +63,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Djupdykning**
->
->Händelseprogram inträffar vid specifika datum. Läs mer om [**evenemang**](http://docs.marketo.com/display/docs/events).
+>Händelseprogram inträffar vid specifika datum. Läs mer om [**evenemang**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md).
 
 ## Steg 3: Importera ditt kalkylblad till Marketo {#step-import-your-spreadsheet-into-marketo}
 
@@ -115,11 +99,9 @@ ht-degree: 0%
    >
    >Om du väljer **Hoppa över nya personer och uppdateringar** i läget Listimport påverkas inte befintliga personposter och du loggar inga aktiviteter. Använd det här läget om du vill ha en snabb, förfiltrerad statisk lista över befintliga personer som kan användas i dina marknadsföringsaktiviteter. Om du väljer det här läget:
    >
-   >    
-   >    
-   >    * Hoppa över skapande av ny person
-   >    * Hoppa över uppdateringar av personfält
-   >    * Hoppa över aktivitetsloggning
+   > * Hoppa över skapande av ny person
+   > * Hoppa över uppdateringar av personfält
+   > * Hoppa över aktivitetsloggning
 
 
 1. Koppla listkolumnsfälten till deras respektive Marketo-fält och klicka på **Nästa**.
@@ -128,7 +110,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Kolumnrubrikerna ska alltid matcha fältet exakt (skiftlägeskänsligt) för att uppnå bästa resultat för automatisk mappning. Om du använder anpassade fält och inte ser dem i listrutan går du tillbaka och [skapar dem](http://docs.marketo.com/display/DOCS/Create+a+Custom+Field+in+Marketo) så att de kan bli alternativ.
+   >Kolumnrubrikerna ska alltid matcha fältet exakt (skiftlägeskänsligt) för att uppnå bästa resultat för automatisk mappning. Om du använder anpassade fält och inte ser dem i listrutan går du tillbaka och [skapar dem](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) så att de kan bli alternativ.
 
    >[!NOTE]
    >
@@ -148,9 +130,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Djupdykning**
->
->Du kan analysera hur ditt program fungerar genom att spåra programmedlemskap. Läs mer om [**Program**](http://docs.marketo.com/display/docs/programs).
+>Du kan analysera hur ditt program fungerar genom att spåra programmedlemskap. Läs mer om [**Program**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
 
 ## Uppdraget är slutfört {#mission-complete}
 
@@ -158,4 +138,6 @@ Nu är deltagarna i ditt varumärke medlemmar i ditt Marketo-program!
 
 <br> 
 
-[◄ 4: E-postautosvar](email-auto-response.md) [uppdrag 6: Drip, Drip, Sköldhet ►](drip-drip-nurture.md)
+[◄ 4: Automatiskt svar för e-post](/help/marketo/getting-started/quick-wins/email-auto-response.md)
+
+[Uppdrag 6: Drip, Drip, Sköldhet ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
