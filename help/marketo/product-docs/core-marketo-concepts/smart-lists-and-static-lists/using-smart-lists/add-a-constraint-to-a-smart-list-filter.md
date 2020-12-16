@@ -3,9 +3,9 @@ unique-page-id: 2949413
 description: Lägg till en begränsning i ett smart listfilter - Marketo Docs - Produktdokumentation
 title: Lägga till en begränsning i ett smart listfilter
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -16,12 +16,6 @@ ht-degree: 0%
 När du skapar smarta listor har vissa filter avancerade alternativ som kallas *begränsningar. *Det här är extra villkor som du kan lägga till i filter och utlösare för att begränsa sökningen ytterligare.
 
 I det här exemplet lägger vi till några begränsningar i ett ** [Data Value Changed](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)**-filter för att hitta personer som har en statusändring från MQL till SQL.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!PREREQUISITES]
 >
