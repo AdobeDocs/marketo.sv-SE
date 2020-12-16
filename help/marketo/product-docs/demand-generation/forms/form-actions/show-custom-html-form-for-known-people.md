@@ -3,9 +3,9 @@ unique-page-id: 2359644
 description: Visa anpassat HTML-formulär för kända personer - Marketo-dokument - Produktdokumentation
 title: Visa anpassat HTML-formulär för kända personer
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Visa anpassat HTML-formulär för kända personer {#show-custom-html-form-for-known-people}
 
 Om en besökare är cookie (en känd person som tidigare har angett en e-postadress), varför behöver du då bekymra dig om formuläret? Ge dem bara nedladdningsknappen. Så här gör du.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Gå till **Marknadsföringsaktiviteter** och **aktiviteter**.
 
