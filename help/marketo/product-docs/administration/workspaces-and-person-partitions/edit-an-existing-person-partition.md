@@ -3,9 +3,9 @@ unique-page-id: 2360323
 description: Redigera en befintlig personpartition - Marketo Docs - Produktdokumentation
 title: Redigera en befintlig personpartition
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Redigera en befintlig personpartition {#edit-an-existing-person-partition}
 
 En personpartition är som att ha en andra (eller tredje) databas. En partition kan anslutas till en eller flera arbetsytor. Så här redigerar du partitionsinformationen.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
