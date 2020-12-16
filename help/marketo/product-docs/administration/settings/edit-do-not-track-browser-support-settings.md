@@ -3,21 +3,15 @@ unique-page-id: 6095047
 description: Redigera "Do Not Track" Browser Support Settings - Marketo Docs - Produktdokumentation
 title: Redigera inställningar för stöd för Do Not Track-webbläsare
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
 
 # Redigera inställningar för stöd för Do Not Track-webbläsare {#edit-do-not-track-browser-support-settings}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 &quot;Do Not Track&quot; är en webbläsarbegäran som inte ska spåras i system som Marketo. Du kan följa den begäran med följande steg.
 
