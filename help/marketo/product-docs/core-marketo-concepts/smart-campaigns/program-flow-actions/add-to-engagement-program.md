@@ -3,21 +3,15 @@ unique-page-id: 1147011
 description: Lägg till i Engagement Program - Marketo Docs - Produktdokumentation
 title: Lägg till i engagemangsprogram
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
 
 # Lägg till i engagemangsprogram {#add-to-engagement-program}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Översikt {#overview}
 
