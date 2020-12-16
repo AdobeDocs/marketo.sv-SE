@@ -3,9 +3,9 @@ unique-page-id: 2360311
 description: Skapa en ny arbetsyta - Marketo Docs - Produktdokumentation
 title: Skapa en ny arbetsyta
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -19,12 +19,6 @@ Arbetsytor är användbara när du vill dela upp ditt företag. Anledningar till
 * Affärsenhet A kontra affärsenhet B
 
 Så här skapar du en ny arbetsyta.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
