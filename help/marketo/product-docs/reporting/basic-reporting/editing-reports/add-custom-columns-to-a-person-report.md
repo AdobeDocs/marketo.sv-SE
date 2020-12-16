@@ -3,9 +3,9 @@ unique-page-id: 2360201
 description: Lägg till anpassade kolumner i en personrapport - Marketo Docs - Produktdokumentation
 title: Lägg till anpassade kolumner i en personrapport
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Lägg till anpassade kolumner i en personrapport {#add-custom-columns-to-a-person-report}
 
 Du kan filtrera mätvärdena i dina [personrapporter](http://docs.marketo.com/display/docs/basic+reporting) ytterligare genom att använda dina [smarta listor](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) som anpassade kolumner.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Gå till området **Marknadsföringsaktiviteter** (eller **Analytics**).
 
