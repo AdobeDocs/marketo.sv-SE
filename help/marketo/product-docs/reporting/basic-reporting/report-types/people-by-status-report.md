@@ -3,9 +3,9 @@ unique-page-id: 2360012
 description: People by Status Report - Marketo Docs - produktdokumentation
 title: Rapport om personer efter status
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Rapport om personer efter status {#people-by-status-report}
 
 Granska hur väl du flyttar människor genom processen genom att kontrollera hur många av dem som visas i varje *personstatusvärde* varje månad.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. [Skapa en rapport](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj **rapporttypen** Personer efter status [](report-type-overview.md).
 1. [Ange tidsramen för rapporten](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) och klicka på fliken **Rapport** .
