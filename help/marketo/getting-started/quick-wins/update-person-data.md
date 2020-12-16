@@ -3,9 +3,9 @@ unique-page-id: 2359426
 description: Uppdatera persondata - Marketo Docs - Produktdokumentation
 title: Uppdatera persondata
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,10 @@ ht-degree: 0%
 
 ## Uppdrag: Uppdatera en persons kontaktinformation eller andra data {#mission-update-a-persons-contact-info-or-other-data}
 
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Konfigurera och lägga till en person](get-set-up-and-add-a-person.md)
->* [Importera en lista med personer](import-a-list-of-people.md)
-
->
-
+>* [Konfigurera och lägga till en person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [Importera en lista med personer](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 
 Tänk dig att en person gav dig ytterligare kontaktinformation vid ditt senaste varumärke. Så här uppdaterar du persondata.
@@ -52,7 +43,7 @@ Tänk dig att en person gav dig ytterligare kontaktinformation vid ditt senaste 
 
    >[!TIP]
    >
-   >Det finns många sätt att uppdatera persondata i Marketo. Se [Importera en lista med personer](import-a-list-of-people.md) och [Ändra datavärde](../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+   >Det finns många sätt att uppdatera persondata i Marketo. Se [Importera en lista med personer](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) och [Ändra datavärde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
 ## Uppdatera persondata {#update-the-person-data}
 
@@ -70,4 +61,6 @@ Snyggt jobb! Du har uppdaterat dina persondata.
 
 <br> 
 
-[◄ 8: Avisera säljaren](alert-the-sales-rep.md) för [uppdrag 10: Omdirigera en landningssida ►](redirect-a-landing-page.md)
+[◄ 8: Meddela säljaren](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
+
+[Uppdrag 10: Omdirigera en landningssida ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)
