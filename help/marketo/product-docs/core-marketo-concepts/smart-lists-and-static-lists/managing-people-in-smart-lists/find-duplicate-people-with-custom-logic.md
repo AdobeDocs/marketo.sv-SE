@@ -3,9 +3,9 @@ unique-page-id: 2952636
 description: Hitta duplicerade personer med anpassad logik - Marketo Docs - produktdokumentation
 title: Sök efter duplicerade personer med anpassad logik
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Sök efter duplicerade personer med anpassad logik {#find-duplicate-people-with-custom-logic}
 
 Marketo har en systemsmart lista som söker efter duplicerade personer genom att matcha deras e-postadresser. Så här använder du ett annat fält för att hitta dubbletter.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!PREREQUISITES]
 >
