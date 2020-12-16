@@ -3,9 +3,9 @@ unique-page-id: 2359416
 description: Automatiskt svar via e-post - Marketo Docs - Produktdokumentation
 title: Automatiskt svar för e-post
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,10 @@ ht-degree: 0%
 
 ## Uppdrag: Skicka ett tackmeddelande när en person fyller i ett formulär {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
 
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Konfigurera och lägga till en person](get-set-up-and-add-a-person.md)
->* [Landningssida med ett formulär](landing-page-with-a-form.md)
-
->
-
+>* [Konfigurera och lägga till en person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [Landningssida med ett formulär](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 
 ## Steg 1: Skapa ett e-postmeddelande {#step-create-an-email}
@@ -48,13 +39,13 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-   En e-postredigerare öppnas i ett nytt fönster eller på en ny flik. Om popup-fönster blockeras klickar du på** Redigera utkast* på sidan med resurssammanfattningen för att öppna e-postmeddelandet.
+   En e-postredigerare öppnas i ett nytt fönster eller på en ny flik. Om popup-fönster blockeras klickar du på **Redigera utkast** på sidan med resurssammanfattningen för att öppna e-postmeddelandet.
 
 1. Ange en ämnesrad och dubbelklicka sedan på det redigerbara området i e-postmeddelandet.
 
    ![](assets/five-2.png)
 
-   En textredigerare öppnas ovanpå e-postredigeraren.
+   _En textredigerare öppnas ovanpå e-postredigeraren._
 
 1. Markera befintligt e-postinnehåll.
 
@@ -82,39 +73,41 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a56-3a25.png)
 
-1. Gå till fliken **Smart lista **.
+1. Gå till fliken **Smart lista** .
 
    ![](assets/image2014-9-24-11-3a56-3a38.png)
 
-   Vi skapar den här kampanjen som ska köras när en person fyller i formuläret som du skapade på [**landningssidan med ett formulär**](landing-page-with-a-form.md).
+   Vi skapar den här kampanjen som ska köras när en person fyller i formuläret som du skapade på [**landningssidan med ett formulär**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
 
 1. Hitta och dra utlösaren för **Fyll i formulär** till den vänstra arbetsytan.
 
    ![](assets/image2014-9-24-11-3a57-3a18.png)
 
-1. Välj **Mitt formulär** i listrutan. Klicka på fliken **Flow **.
+1. Välj **Mitt formulär** i listrutan. Klicka på fliken **Flöde** .
 
    ![](assets/image2014-9-24-11-3a57-3a29.png)
 
-1. Dra åtgärden **Skicka e-post **flöde till den vänstra arbetsytan.
+1. Dra åtgärden **Skicka e-post** till den vänstra arbetsytan.
 
    ![](assets/image2014-9-24-11-3a57-3a41.png)
 
-1. Välj ditt **automatiska svarsmeddelande** och gå till fliken **Schedule **.
+1. Välj e-postadress **för** automatiskt svar och gå till fliken **Schemalägg** .
 
    ![](assets/image2014-9-24-11-3a57-3a53.png)
 
 1. Klicka på **Redigera**.
 
    ![](assets/8.png)
-Markera varje gång och klicka på Spara.
+
+1. Markera **varje gång** och klicka på **Spara**.
+
    ![](assets/9.png)
 
 1. Klicka på **Aktivera**.
 
    ![](assets/10.png)
 
-1. Klicka på **Aktivera **på bekräftelseskärmen.
+1. Klicka på **Aktivera** på bekräftelseskärmen.
 
    ![](assets/11.png)
 
@@ -124,7 +117,7 @@ Markera varje gång och klicka på Spara.
 
 ## Steg 3: Fyll i formuläret {#step-fill-out-the-form}
 
-1. Välj **Min sida**. Detta skapades på [landningssidan med ett snabbt utbyte av ett formulär](landing-page-with-a-form.md) .
+1. Välj **Min sida**. Detta skapades på [landningssidan med ett snabbt utbyte av ett formulär](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) .
 
    ![](assets/image2014-9-24-12-3a0-3a8.png)
 
@@ -148,4 +141,6 @@ Inom bara några minuter visas e-postmeddelandet om automatiskt svar i din inkor
 
 <br> 
 
-[◄ 3: Enkel poängsättning](simple-scoring.md) , [uppdrag 5: Importera en lista med leads ►](import-a-list-of-people.md)
+[◄ 3: Enkel poängsättning](/help/marketo/getting-started/quick-wins/simple-scoring.md)
+
+[Uppdrag 5: Importera en lista med leads ►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
