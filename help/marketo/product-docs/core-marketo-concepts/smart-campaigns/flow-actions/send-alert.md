@@ -3,21 +3,15 @@ unique-page-id: 1146958
 description: Skicka varning - Marketo Docs - Produktdokumentation
 title: Skicka avisering
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
 
 # Skicka avisering {#send-alert}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Översikt {#overview}
 
