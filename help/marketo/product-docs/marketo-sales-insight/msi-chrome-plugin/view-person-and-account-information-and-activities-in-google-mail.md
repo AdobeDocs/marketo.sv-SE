@@ -3,21 +3,15 @@ unique-page-id: 10095358
 description: Visa person- och kontoinformation och aktiviteter i Google Mail - Marketo Docs - Produktdokumentation
 title: Visa person- och kontoinformation och aktiviteter i Google Mail
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
 
 
 # Visa person- och kontoinformation och aktiviteter i Google Mail {#view-person-and-account-information-and-activities-in-google-mail}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Visa aktiviteter i Google Mail {#view-activities-in-google-mail}
 
