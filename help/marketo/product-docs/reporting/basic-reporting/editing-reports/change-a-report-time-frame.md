@@ -3,9 +3,9 @@ unique-page-id: 2359968
 description: Ändra en tidsram för rapport - Marketo Docs - Produktdokumentation
 title: Ändra en tidsram för rapport
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Ändra en tidsram för rapport {#change-a-report-time-frame}
 
 Ändra den tidsperiod som rapporten omfattar så att den fokuserar på en viss tid av aktivitet.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Gå till området **Marknadsföringsaktiviteter** (eller **Analytics**).
 
