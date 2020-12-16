@@ -3,9 +3,9 @@ unique-page-id: 2360014
 description: Prestandarapport - Marketo Docs - Produktdokumentation
 title: Prestandarapport för människor
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Prestandarapport för människor {#people-performance-report}
 
 Använd en rapport om personprestanda för att mäta databastillväxt över tid. Du kan se hur många personer du har lagt till och när. Läs mer om människorna och utvärdera programmen. Gruppera resultaten efter person- eller företagsattribut, eller efter [segmentering](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. [Skapa en rapport](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj **rapporttypen** Personprestanda [.](report-type-overview.md)
 1. [Ange tidsramen för rapporten](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) och klicka på fliken **Rapport** .
