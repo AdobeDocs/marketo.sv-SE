@@ -3,21 +3,15 @@ unique-page-id: 1147015
 description: Change Engagement Program Stream - Marketo Docs - Produktdokumentation
 title: Change Engagement Program Stream
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
 
 # Change Engagement Program Stream {#change-engagement-program-stream}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Översikt {#overview}
 
