@@ -3,9 +3,9 @@ unique-page-id: 1147356
 description: Understanding Email Event Logging - Marketo Docs - produktdokumentation
 title: E-posthändelseloggning
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # E-posthändelseloggning {#understanding-email-event-logging}
 
 När du skickar e-postmeddelanden loggar Marketo olika datapunkter till personens aktivitetsloggar. Här är de grundläggande.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 | Händelse | Beskrivning |
 |---|---|
