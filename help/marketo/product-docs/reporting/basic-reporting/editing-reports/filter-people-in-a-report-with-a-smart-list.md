@@ -3,9 +3,9 @@ unique-page-id: 2360016
 description: Filtrera personer i en rapport med en smart lista - Marketo Docs - Produktdokumentation
 title: Filtrera personer i en rapport med en smart lista
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Filtrera personer i en rapport med en smart lista {#filter-people-in-a-report-with-a-smart-list}
 
 Använd smarta listor för att filtrera rapporter efter specifika personattribut.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Du kan använda smarta listor med följande rapporttyper:
 
