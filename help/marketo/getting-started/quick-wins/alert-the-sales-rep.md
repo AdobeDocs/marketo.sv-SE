@@ -3,9 +3,9 @@ unique-page-id: 2359424
 description: Avisera säljaren - Marketo Docs - Produktdokumentation
 title: Meddela säljaren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,9 @@ ht-degree: 0%
 
 Om du automatiskt vill skicka varningsmeddelanden till säljarna behöver du bara ett varningsmeddelande och en e-postkampanj. Så här gör du.
 
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Landningssida med ett formulär](landing-page-with-a-form.md)
-
->
-
-
+>[Landningssida med ett formulär](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 ## Steg 1: Skapa ett e-postmeddelande {#step-create-an-alert-email}
 
@@ -37,7 +27,7 @@ Om du automatiskt vill skicka varningsmeddelanden till säljarna behöver du bar
 
    ![](assets/one-5.png)
 
-1. Välj **Mitt program** som du skapade på [landningssidan med en snabb vinst i form](landing-page-with-a-form.md) och klicka sedan på **Ny lokal resurs** under **Nytt**.
+1. Välj **Mitt program** som du skapade på [landningssidan med en snabb vinst i form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) och klicka sedan på **Ny lokal resurs** under **Nytt**.
 
    ![](assets/two-6.png)
 
@@ -71,7 +61,7 @@ Om du automatiskt vill skicka varningsmeddelanden till säljarna behöver du bar
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} är en speciell token för varningsmeddelanden. Mer information finns i [Använda informationstoken](../../product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) för skicka-varning.
+   >{{SP_Send_Alert_Info}} är en speciell token för varningsmeddelanden. Mer information finns i [Använda informationstoken](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) för skicka-varning.
 
 1. Klicka på **Spara**.
 
@@ -87,7 +77,7 @@ Om du automatiskt vill skicka varningsmeddelanden till säljarna behöver du bar
 
 ## Steg 2: Skapa en aviseringsutlösarkampanj {#step-create-an-alert-trigger-campaign}
 
-1. Välj **Mitt program** som skapats tidigare och klicka sedan på **Ny smart kampanj** under **Nytt **.
+1. Välj **Mitt program** som skapats tidigare och klicka sedan på **Ny smart kampanj** under **Ny**.
 
    ![](assets/image2014-9-24-13-3a14-3a17.png)
 
@@ -115,12 +105,11 @@ Om du automatiskt vill skicka varningsmeddelanden till säljarna behöver du bar
 
    ![](assets/nineteen-2.png)
 
-1. Gå till fliken **Schema** och klicka på knappen **Aktivera **.
+1. Gå till fliken **Schema** och klicka på **Aktivera** .
 
    ![](assets/twenty-2.png)
 
    >[!TIP]
-   >
    >
    >Ställ in **kvalificeringsreglerna** på **varje gång** (genom att redigera Smart Campaign) så att samma person kan utlösa varningar flera gånger.
 
@@ -135,9 +124,6 @@ Om du automatiskt vill skicka varningsmeddelanden till säljarna behöver du bar
    ![](assets/image2014-9-24-13-3a17-3a8.png)
 
    >[!NOTE]
-   >
-   >**Påminnelse**
-   >
    >
    >Glöm inte att godkänna landningssidor. de lever inte förrän de godkänts.
 
@@ -155,4 +141,6 @@ Om du automatiskt vill skicka varningsmeddelanden till säljarna behöver du bar
 
 <br> 
 
-[◄ uppdrag 7: Anpassa ett e-postuppdrag](personalize-an-email.md) [9: Uppdatera lead-data ►](update-person-data.md)
+[◄ uppdrag 7: Anpassa ett e-postmeddelande](personalize-an-email.md)
+
+[Uppdrag 9: Uppdatera lead-data ►](update-person-data.md)
