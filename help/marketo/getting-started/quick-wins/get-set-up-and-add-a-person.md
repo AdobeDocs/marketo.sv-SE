@@ -3,9 +3,9 @@ unique-page-id: 2359351
 description: Kom igång och lägg till en person - Marketo Docs - Produktdokumentation
 title: Konfigurera och lägga till en person
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,9 @@ ht-degree: 0%
 
 Det finns några saker att göra innan du börjar uppdraget.
 
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 ## Steg 1: Logga in på Marketo {#step-log-in-to-marketo}
 
-1. [Logga in på Marketo](http://app.marketo.com) med de inloggningsuppgifter du fått via e-post.
+1. [Logga in på Marketo](https://app.marketo.com) med de inloggningsuppgifter du fått via e-post.
 
    ![](assets/one.png)
 
@@ -59,7 +53,7 @@ Lägg till dig själv som person i Marketo så att du kan skicka ut testmeddelan
 
    ![](assets/seven.png)
 
-1. Ange för- och efternamn, e-postadress och företagsnamn och klicka sedan på **Skapa **för att lägga till dig själv som person.
+1. Ange för- och efternamn, e-postadress och företagsnamn och klicka sedan på **Skapa** för att lägga till dig själv som person.
 
    ![](assets/eight.png)
 
@@ -67,7 +61,7 @@ Lägg till dig själv som person i Marketo så att du kan skicka ut testmeddelan
 
    ![](assets/nine.png)
 
-1. Klicka på fliken **Personer **. Du borde se dig själv i databasen.
+1. Klicka på fliken **Personer** . Du borde se dig själv i databasen.
 
    ![](assets/ten.png)
 
@@ -77,4 +71,4 @@ Du är redo att börja ditt första uppdrag!
 
 <br> 
 
-[Uppdrag 1: Skicka en e-postklocka ►](send-an-email.md)
+[Uppdrag 1: Skicka en e-postklocka ►](/help/marketo/getting-started/quick-wins/send-an-email.md)
