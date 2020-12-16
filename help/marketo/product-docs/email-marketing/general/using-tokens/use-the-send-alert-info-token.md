@@ -3,9 +3,9 @@ unique-page-id: 2952678
 description: Använd Skicka aviseringsinformationstoken {{SP_Send_Alert_Info}} - Marketo Docs - Produktdokumentation
 title: Använda Skicka aviseringsinformationstoken
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Använda Skicka aviseringsinformationstoken {#use-the-send-alert-info-token-sp-send-alert-info}
 
 Denna `{{SP_Send_Alert_Info}}` token är en särskild token som ska användas när du skapar varningsmeddelanden för ditt säljteam.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!TIP]
 >
