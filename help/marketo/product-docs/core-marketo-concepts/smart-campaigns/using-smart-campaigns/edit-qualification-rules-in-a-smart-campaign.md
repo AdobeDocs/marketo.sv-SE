@@ -3,9 +3,9 @@ unique-page-id: 1146974
 description: Redigera kvalificeringsregler i en smart kampanj - Marketo Docs - Produktdokumentation
 title: Redigera kvalificeringsregler i en smart kampanj
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Redigera kvalificeringsregler i en smart kampanj {#edit-qualification-rules-in-a-smart-campaign}
 
 Kvalificeringsregler styr hur många gånger någon kan gå igenom flödet i en smart kampanj. Även om någon utlöser en smart kampanj flera gånger skickas de som standard bara via flödet en gång. Så här ändrar du inställningarna.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Klicka på fliken **Schema** i den smarta kampanjen och sedan på **Redigera inställningar**.
 
