@@ -3,9 +3,9 @@ unique-page-id: 2360005
 description: Företagets webbaktivitetsrapport - Marketo Docs - Produktdokumentation
 title: Webbaktivitetsrapport för företag
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Webbaktivitetsrapport för företag {#company-web-activity-report}
 
 Se vilka företag som besöker er webbplats. Du kan välja att visa kända eller anonyma besökare, men inte båda i samma rapport.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Skapa en [webbsidesaktivitetsrapport](web-page-activity-report.md) för att se vilka personer som besöker webbplatsen.
 
