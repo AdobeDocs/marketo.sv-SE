@@ -3,9 +3,9 @@ unique-page-id: 7516241
 description: SFDC Sync -Lead Queue - Marketo Docs - Produktdokumentation
 title: SFDC-synkronisering - Lead-kö
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # SFDC-synkronisering: Leadkö {#sfdc-sync-lead-queue}
 
 Med Marketo kan du lägga till personer i [Salesforce-lead-köer](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) för att hjälpa till med lead-distributionen. Här är detaljerna.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Hur tilldelar du en person till en kö i Marketo? {#how-to-assign-a-person-to-a-queue-in-marketo}
 
