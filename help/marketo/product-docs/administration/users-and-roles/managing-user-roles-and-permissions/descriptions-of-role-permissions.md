@@ -3,21 +3,15 @@ unique-page-id: 6848747
 description: Beskrivningar av rollbehörigheter - Marketo Docs - Produktdokumentation
 title: Beskrivningar av rollbehörigheter
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1154'
 ht-degree: 0%
 
 ---
 
 
 # Beskrivningar av rollbehörigheter {#descriptions-of-role-permissions}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Nedan visas en lista med alla tillgängliga behörigheter som du kan tilldela dina roller. Behörigheter är vanligtvis kopplade till specifika funktionsområden i Marketo och kan hjälpa dig att styra vilka områden och funktioner olika användare har tillgång till.
 
