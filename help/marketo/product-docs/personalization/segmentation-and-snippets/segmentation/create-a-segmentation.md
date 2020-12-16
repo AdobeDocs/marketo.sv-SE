@@ -3,9 +3,9 @@ unique-page-id: 2359447
 description: Skapa en segmentering - Marketo Docs - Produktdokumentation
 title: Skapa en segmentering
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Skapa en segmentering {#create-a-segmentation}
 
 Med segmentering kan ni gruppera människor i olika profiler för rapportering och dynamiskt innehåll. Så här skapar du dem.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Gå till **databas**.
 
