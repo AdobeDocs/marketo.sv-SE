@@ -3,9 +3,9 @@ unique-page-id: 2359428
 description: Omdirigera en landningssida - Marketo Docs - Produktdokumentation
 title: Omdirigera en landningssida
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -21,12 +21,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Konfigurera och lägga till en person](get-set-up-and-add-a-person.md)
->* [Landningssida med ett formulär](landing-page-with-a-form.md)
->* [Anpassa landningssidans URL med en CNAME](../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)
-
->
-
+>* [Konfigurera och lägga till en person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [Landningssida med ett formulär](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+>* [Anpassa landningssidans URL med en CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)
 
 
 ## Steg 1: Starta en ny omdirigeringsregel {#step-start-a-new-redirect-rule}
@@ -35,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/admin.png)
 
-1. Gå till** landningssidor**.
+1. Gå till **landningssidor**.
 
    ![](assets/image2014-9-24-13-3a28-3a43.png)
 
@@ -45,22 +42,19 @@ ht-degree: 0%
 
 ## Steg 2: Definiera omdirigeringsregeln {#step-define-the-redirect-rule}
 
-1. Klicka på den första listrutan **Original URL ** och välj Marketo CNAME.
+1. Klicka på den första listrutan **Ursprunglig URL** och välj Marketo CNAME.
 
    ![](assets/image2014-9-24-13-3a30-3a33.png)
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
-   >
-   >Kom ihåg att du bara kan dirigera om landningssidor som börjar med Marketo [CNAME](../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
+   >Kom ihåg att du bara kan dirigera om landningssidor som börjar med Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
-1. Klicka på den andra **Ursprunglig URL-adressen **och välj den startsida som du vill omdirigera.
+1. Klicka på den andra listrutan **Ursprunglig URL** och välj den landningssida som du vill omdirigera.
 
    ![](assets/image2014-9-24-13-3a30-3a50.png)
 
-1. Under **Omdirigerings-URL** väljer du den sida som du vill omdirigera till och klickar på **SKAPA**.
+1. Under **Omdirigerings-URL** väljer du den sida som du vill omdirigera till och klickar på **Skapa**.
 
    ![](assets/image2014-9-24-13-3a31-3a10.png)
 
@@ -70,4 +64,4 @@ Grattis! Du har omdirigerat en landningssida.
 
 <br> 
 
-[◄ 9: Uppdatera lead-data](update-person-data.md)
+[◄ 9: Uppdatera lead-data](/help/marketo/getting-started/quick-wins/update-person-data.md)
