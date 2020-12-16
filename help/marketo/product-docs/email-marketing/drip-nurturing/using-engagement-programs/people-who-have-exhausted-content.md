@@ -3,21 +3,15 @@ unique-page-id: 2359953
 description: Personer som har utsökt innehåll - Marketo Docs - Produktdokumentation
 title: Personer som har fyllt i innehåll
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
 
 # Personer som har fyllt i innehåll {#people-who-have-exhausted-content}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 När en person har fått allt innehåll i en ström har den uttömt alla möjligheter och väntar tills fler läggs till. Du kan hitta personer som är &quot;utmattade&quot; på flera sätt.
 
