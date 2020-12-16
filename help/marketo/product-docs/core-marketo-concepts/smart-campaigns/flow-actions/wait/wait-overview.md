@@ -3,21 +3,15 @@ unique-page-id: 1146950
 description: Vänta - Marketo Docs - Produktdokumentation
 title: Vänta
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
 
 # Vänta {#wait}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](/help/marketo/getting-started/updates-to-marketo-terminology.md).
 
 ## Översikt {#overview}
 
