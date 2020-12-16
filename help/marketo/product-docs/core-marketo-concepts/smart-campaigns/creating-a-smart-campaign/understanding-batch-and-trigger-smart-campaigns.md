@@ -3,9 +3,9 @@ unique-page-id: 2953132
 description: Understanding Batch and Trigger Smart Campaigns - Marketo Docs - Product Documentation
 title: Förstå smarta kampanjer i grupp och utlösare
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Förstå smarta kampanjer i grupp och utlösare {#understanding-batch-and-trigger-smart-campaigns}
 
 Det finns två typer av smarta kampanjer: Batch och utlösare.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Batch Smart Campaign {#batch-smart-campaign}
 
