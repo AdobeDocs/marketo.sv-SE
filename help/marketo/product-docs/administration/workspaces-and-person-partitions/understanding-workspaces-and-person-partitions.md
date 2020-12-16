@@ -3,21 +3,15 @@ unique-page-id: 2360309
 description: Förstå arbetsytor och personpartitioner - Marketo Docs - Produktdokumentation
 title: Arbetsytor och personpartitioner
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '562'
+source-wordcount: '511'
 ht-degree: 0%
 
 ---
 
 
 # Arbetsytor och personpartitioner {#understanding-workspaces-and-person-partitions}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Arbetsytor {#workspaces}
 
