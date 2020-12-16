@@ -3,9 +3,9 @@ unique-page-id: 2360205
 description: Dela en modell mellan arbetsytor - Marketo Docs - Produktdokumentation
 title: Dela en modell över arbetsytor
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Dela en modell över arbetsytor {#share-a-model-across-workspaces}
 
 Marketo ger dig möjlighet att dela en eller flera modeller över arbetsytorna. Så här gör du.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Gå till **Analytics** -avsnittet.
 
