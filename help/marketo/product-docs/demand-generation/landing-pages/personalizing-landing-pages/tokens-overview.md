@@ -3,9 +3,9 @@ unique-page-id: 2950799
 description: Översikt över token - Marketo Docs - Produktdokumentation
 title: Översikt över token
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Översikt över token {#tokens-overview}
 
 En variabel är en variabel som kan användas i Marketo för [smarta kampanjflödessteg](http://docs.marketo.com/display/DOCS/Smart+Campaigns) , [e-post](http://docs.marketo.com/display/DOCS/General), [landningssidor](http://docs.marketo.com/display/DOCS/Landing+Pages), [kodavsnitt](http://docs.marketo.com/display/DOCS/Segmentation+and+Snippets)och [webbkampanjer](http://docs.marketo.com/display/public/DOCS/Using+the+Web+Personalization+Rich+Text+Editor).
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Förstå standardvärden {#understanding-default-values}
 
