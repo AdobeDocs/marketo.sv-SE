@@ -3,9 +3,9 @@ unique-page-id: 2359951
 description: Ta bort en medlem från ett engagemangsprogram - Marketo Docs - Produktdokumentation
 title: Ta bort en medlem från ett engagemangsprogram
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Ta bort en medlem från ett engagemangsprogram {#remove-a-member-from-an-engagement-program}
 
 Oj då! Hur kom de in dit? Du kan ta bort medlemmar från ett engagemangsprogram med **flödessteget Ändra** programstatus.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!TIP]
 >
