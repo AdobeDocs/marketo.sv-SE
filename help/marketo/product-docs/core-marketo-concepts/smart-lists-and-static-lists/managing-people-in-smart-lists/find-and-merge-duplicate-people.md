@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: Sök och sammanfoga duplicerade personer - Marketo Docs - Produktdokumentation
 title: Sök och sammanfoga duplicerade personer
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Sök och sammanfoga duplicerade personer {#find-and-merge-duplicate-people}
 
 Marketo tar automatiskt bort dubbletter när nya personer kommer in i systemet. CRM kan dock ha skickat dubbletter till Marketo från början. Så här sammanfogar du dem.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
