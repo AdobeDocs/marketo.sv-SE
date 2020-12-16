@@ -3,21 +3,15 @@ unique-page-id: 10098812
 description: Ställ in intäktsattribuering för digitala annonskampanjer - Marketo Docs - Produktdokumentation
 title: Ställ in intäktsattribuering för digitala annonskampanjer
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '911'
+source-wordcount: '860'
 ht-degree: 0%
 
 ---
 
 
 # Ställ in intäktsattribuering för digitala annonskampanjer {#set-up-revenue-attribution-for-digital-advertising-campaigns}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Så här skapar du intäktsattribuering för digitala annonskanaler och kampanjer. När ni har skapat det kan ni attribuera intäkter från första kontakten och multitouch för digitala annonser på samma sätt som i andra Marketo-program.
 
