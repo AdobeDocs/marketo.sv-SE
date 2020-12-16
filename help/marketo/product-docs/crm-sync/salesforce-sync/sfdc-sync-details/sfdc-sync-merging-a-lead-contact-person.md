@@ -3,21 +3,15 @@ unique-page-id: 7515133
 description: SFDC-synkronisering -Sammanfoga en lead/kontakt/person - Marketo Docs - Produktdokumentation
 title: SFDC-synkronisering -Sammanfoga en lead/kontakt/person
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
 
 
 # SFDC-synkronisering: Sammanfoga en lead/kontakt/person {#sfdc-sync-merging-a-lead-contact-person}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Ibland är det bäst att bara lista reglerna. Här är vi:
 
