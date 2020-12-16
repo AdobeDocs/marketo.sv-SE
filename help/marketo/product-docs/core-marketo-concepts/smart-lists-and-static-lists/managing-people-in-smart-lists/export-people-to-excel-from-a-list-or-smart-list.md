@@ -3,9 +3,9 @@ unique-page-id: 557329
 description: Exportera personer till Excel från en lista eller smart lista - Marketo Docs - produktdokumentation
 title: Exportera personer till Excel från en lista eller smart lista
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Exportera personer till Excel från en lista eller smart lista {#export-people-to-excel-from-a-list-or-smart-list}
 
 Om du behöver listresultat eller smarta listresultat utanför Marketo kan du enkelt exportera till Excel. Så här gör du.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Gå till **marknadsföringsaktiviteter**.
 
