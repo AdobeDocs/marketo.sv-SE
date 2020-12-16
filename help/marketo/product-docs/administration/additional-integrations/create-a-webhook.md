@@ -3,21 +3,15 @@ unique-page-id: 2360360
 description: Skapa en webkrok - Marketo Docs - Produktdokumentation
 title: Skapa en webbkrok
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
 
 
 # Skapa en webbkrok {#create-a-webhook}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Använd webhooks för att dra nytta av webbtjänster från tredje part för att skicka textmeddelanden, utöka persondata med mera.
 
