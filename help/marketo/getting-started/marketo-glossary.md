@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo Glossary - Marketo Docs - Produktdokumentation
 title: Marketo-ordlista
 translation-type: tm+mt
-source-git-commit: ca1f8ba28b3e3c096a86fe4c1ba8c96529b97b84
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -482,7 +482,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td><strong>Lead</strong></td> 
-   <td>I <strong>Marketo Engage</strong>är lead den föregående termen (<a href="/help/marketo/getting-started/updates-to-marketo-terminology.md" rel="nofollow">ersatt av <strong>person</strong></a>) som används för att beskriva en individ i er Marketo- <strong>databas</strong> som ni interagerar med genom era marknadsföringskampanjer. I din <strong>CRM</strong>kan ett lead representera ett annat koncept (dvs. en individ som är associerad med en <strong>affärsmöjlighet</strong>) oberoende av Marketos funktion.</td> 
+   <td>I <strong>Marketo Engage</strong>är lead den föregående termen (ersatt av <strong>person</strong>) som används för att beskriva en individ i din Marketo- <strong>databas</strong> som du interagerar med via era marknadsföringskampanjer. I din <strong>CRM</strong>kan ett lead representera ett annat koncept (dvs. en individ som är associerad med en <strong>affärsmöjlighet</strong>) oberoende av Marketos funktion.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Lead-databas</strong></td> 
