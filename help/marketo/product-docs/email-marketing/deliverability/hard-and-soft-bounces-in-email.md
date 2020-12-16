@@ -3,9 +3,9 @@ unique-page-id: 1147328
 description: Hårda och mjuka studsar i e-post - Marketo Docs - Produktdokumentation
 title: Hårda och mjuka studsar i e-postmeddelanden
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Hårda och mjuka studsar i e-postmeddelanden {#hard-and-soft-bounces-in-email}
 
 Ett hårt studsande kan göra en persons e-postadress ogiltig när en e-postserver meddelar Market att personens e-postadress inte kan levereras. Ett mjukt studs innebär att något gick fel när e-postmeddelandet skickades till personen. detta löses automatiskt och kan ibland ta dagar. Både hårda och mjuka studsar består av [flera kategorier](http://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838).
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Studsklassificering {#bounce-classification}
 
