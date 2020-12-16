@@ -3,9 +3,9 @@ unique-page-id: 2360418
 description: Statusrapport - Marketo Docs - Produktdokumentation
 title: Scenrapport för personer efter intäkt
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Scenrapport för personer efter intäkt {#people-by-revenue-stage-report}
 
 Du kan skapa en rapport som visar i vilken fas i [intäktscykelmodellen](http://docs.marketo.com/display/docs/revenue+cycle+models) era medarbetare befinner sig. Rapporten innehåller alla stadier från den angivna modellen så länge det finns ett personsaldo för rapportens angivna datumintervall.
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
