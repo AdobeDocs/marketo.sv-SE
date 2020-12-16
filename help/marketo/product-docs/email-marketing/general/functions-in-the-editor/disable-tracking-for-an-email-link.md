@@ -3,9 +3,9 @@ unique-page-id: 1900579
 description: Inaktivera spårning för en e-postlänk - Marketo-dokument - Produktdokumentation
 title: Inaktivera spårning för en e-postlänk
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 0%
 # Inaktivera spårning för en e-postlänk {#disable-tracking-for-an-email-link}
 
 Ibland vill du inte aktivera **Marketo Tracking URL** för en länk i ett e-postmeddelande. Detta är användbart när målsidan inte stöder URL-parametrar och kan resultera i en bruten länk.
-
->[!NOTE]
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](/help/marketo/getting-started/updates-to-marketo-terminology.md).
 
 1. Markera e-postmeddelandet och klicka på **Redigera** **utkast**.
 
