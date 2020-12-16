@@ -3,21 +3,15 @@ unique-page-id: 2953455
 description: SFDC Sync -Lead Sync - Marketo Docs - Produktdokumentation
 title: SFDC-synkronisering - Lead-synkronisering
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
 
 
 # SFDC-synkronisering: Leadsynkronisering {#sfdc-sync-lead-sync}
-
->[!NOTE]
->
->**FYI**
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/personer på docs.marketo.com. Dessa termer betyder samma sak. det påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Visste du att Marketo synkroniserar från din Salesforce-databas? Den synkas, väntar 5 minuter och synkroniseras sedan igen. Hela dagen, varje dag. Här är några detaljer om hur Marketo specifikt behandlar Salesforce-leads.
 
