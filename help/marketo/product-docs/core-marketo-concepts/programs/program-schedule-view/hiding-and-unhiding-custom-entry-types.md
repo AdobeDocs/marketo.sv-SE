@@ -17,7 +17,7 @@ Anpassade posttyper kan döljas i administratörsavsnittet. När posten är dold
 
 ## Dölj en anpassad posttyp {#hide-a-custom-entry-type}
 
-1. Gå till avsnittet **Admin** och klicka på **Kalenderposter** **av****typ**.
+1. Gå till avsnittet **Admin** och klicka på **Kalender** **Post** **Typer**.
 
    ![](assets/image2014-9-24-10-3a11-3a49.png)
 
@@ -31,7 +31,7 @@ Anpassade posttyper kan döljas i administratörsavsnittet. När posten är dold
 
 Om du vill visa en anpassad posttyp är det också enkelt.
 
-1. Högerklicka på posten och välj **Visa**.
+1. Högerklicka på posten och välj **Ta fram**.
 
    ![](assets/image2014-9-24-10-3a12-3a14.png)
 
