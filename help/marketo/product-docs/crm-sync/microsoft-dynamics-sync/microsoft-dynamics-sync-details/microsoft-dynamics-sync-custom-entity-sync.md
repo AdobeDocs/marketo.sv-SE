@@ -21,7 +21,7 @@ Om du behöver aktivera den första anpassade entitetssynkroniseringen för att 
 
 >[!PREREQUISITES]
 >
->Om du vill använda ett anpassat objekt måste det associeras med ett [lead](microsoft-dynamics-sync-lead-sync.md)-, [kontakt](microsoft-dynamics-sync-contact-sync.md)- eller [](microsoft-dynamics-sync-account-sync.md)kontoobjekt i Dynamics.
+>Om du vill använda ett anpassat objekt måste det vara associerat med ett [lead](microsoft-dynamics-sync-lead-sync.md)-, [kontakt](microsoft-dynamics-sync-contact-sync.md)- eller [konto](microsoft-dynamics-sync-account-sync.md)objekt i Dynamics.
 
 >[!CAUTION]
 >
@@ -31,11 +31,11 @@ Om du behöver aktivera den första anpassade entitetssynkroniseringen för att 
 
    ![](assets/image2014-10-20-14-3a32-3a16.png)
 
-1. Klicka på **Inaktivera synkronisering** om du tillfälligt vill inaktivera den globala standardsynkroniseringen.
+1. Klicka på **Inaktivera Synkronisera** om du tillfälligt vill inaktivera den globala standardsynkroniseringen.
 
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
-1. Installera en version av Microsoft Dynamics som har stöd för anpassad entitetssynkronisering (efter 2_0_0_2). Se [Marketo Plugin Releases för MIcrosoft Dynamics](../../../../product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
+1. Installera en version av Microsoft Dynamics som har stöd för anpassad entitetssynkronisering (efter 2_0_0_2). Se [Marketo Plugin Releases for MIcrosoft Dynamics](../../../../product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
 1. Ge Marketo Sync User läsåtkomst till alla enheter du tänker synkronisera.
 1. Klicka på länken** Dynamics Entities Sync** under Databashantering.
 
