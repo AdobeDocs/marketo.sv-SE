@@ -19,7 +19,7 @@ Om du vill att anpassade entitetsdata från Dynamics ska vara tillgängliga i Ma
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till avsnittet **Admin** .
+1. Gå till avsnittet **Admin**.
 
    ![](assets/image2014-10-20-14-3a32-3a16.png)
 
@@ -32,7 +32,7 @@ Om du vill att anpassade entitetsdata från Dynamics ska vara tillgängliga i Ma
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
-1. Klicka på länken **Synkronisera schema** .
+1. Klicka på länken **Synkronisera schema**.
 
    ![](assets/image2015-11-10-9-3a41-3a37.png)
 
