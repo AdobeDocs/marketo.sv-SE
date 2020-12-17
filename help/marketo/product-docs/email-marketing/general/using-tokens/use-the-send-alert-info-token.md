@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Använda Skicka aviseringsinformationstoken {#use-the-send-alert-info-token-sp-send-alert-info}
+# Använd informationstoken för skicka-varning {#use-the-send-alert-info-token-sp-send-alert-info}
 
-Denna `{{SP_Send_Alert_Info}}` token är en särskild token som ska användas när du skapar varningsmeddelanden för ditt säljteam.
+Token `{{SP_Send_Alert_Info}}` är en särskild token som ska användas när du skapar varningsmeddelanden för ditt säljteam.
 
 >[!TIP]
 >
->Denna token fungerar bara som avsett när du skickar e-postmeddelandet som innehåller det med flödessteget [Skicka avisering](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) . Det fungerar inte när det används i ett skicka-e-postflödessteg.
+>Denna token fungerar bara som avsett när du skickar e-postmeddelandet som innehåller det med flödessteget [Skicka varning](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md). Det fungerar inte när det används i ett skicka-e-postflödessteg.
 
 Exempelvarning:   ![](assets/image2014-9-25-15-3a17-3a58.png)
 
 >[!NOTE]
 >
->Skärp dig! URL:er i varningar har förfallodatum så kontrollera att de har en stängsel som stöder den här typen av meddelanden. Förfallodatum [konfigureras av en administratör](../../../../product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
+>Skärp dig! URL:er i varningar har förfallodatum så kontrollera att de har en stängsel som stöder den här typen av meddelanden. Förfallodatum är [konfigurerade av en administratör](../../../../product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
 
 Följande information ingår i `{{SP_Send_Alert_Info}}`:
 
@@ -46,11 +46,11 @@ Följande information ingår i `{{SP_Send_Alert_Info}}`:
 
    ![](assets/two-3.png)
 
-1. Placera markören där du vill att token ska vara och klicka sedan på knappen **Infoga token** .
+1. Placera markören där du vill att token ska vara och klicka sedan på knappen **Infoga token**.
 
    ![](assets/three-3.png)
 
-1. Leta reda på och välj **`{{SP_Send_Alert_Info}}`** variabeln och klicka på **Infoga**.
+1. Sök efter och välj token **`{{SP_Send_Alert_Info}}`** och klicka på **Infoga**.
 
    ![](assets/image2014-9-25-15-3a19-3a11.png)
 
