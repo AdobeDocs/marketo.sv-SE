@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Du kan skapa ett e-postprogram i programschemavyn. Så här gör du.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -35,9 +35,9 @@ Du kan skapa ett e-postprogram i programschemavyn. Så här gör du.
 
    ![](assets/image2014-9-23-15-3a35-3a42.png)
 
-1. [Konfigurera e-postprogrammet](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) och klicka på **Godkänn program**.
+1. [Konfigurera e-postprogrammet ](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) och klicka på  **Godkänn program**.
 
    ![](assets/learnaboutthespeaker.png)
 
-   Förutom den detaljerade kontrollpanelen är en fördel med att använda ett [e-postprogram](http://docs.marketo.com/display/docs/email+programs) istället för en smart kampanj att enkelt implementera ett [A/B-test](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md). Mycket nöje!
+   Förutom den detaljerade kontrollpanelen är en fördel med att använda ett [e-postprogram](http://docs.marketo.com/display/docs/email+programs) i stället för en smart kampanj att enkelt implementera ett [A/B-test](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md). Mycket nöje!
 
