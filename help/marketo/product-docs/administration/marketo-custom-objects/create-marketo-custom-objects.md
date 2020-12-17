@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Skapa anpassade Marketo-objekt {#create-marketo-custom-objects}
+# Skapa Marketo-anpassade objekt {#create-marketo-custom-objects}
 
 Använd anpassade objekt i Marketo för att spåra mätvärden som är specifika för din verksamhet. Det kan vara allt från bilar till kurser - allt du vill modellera i Marketo för att köra era kampanjer.
 
 >[!NOTE]
 >
->Du kan ställa in anpassade objekt så att de fungerar på en-till-många- eller många-till-många-basis. Du skapar det ursprungliga objektet på samma sätt, men stegen är olika när du börjar lägga till fält till objektet. Mer information finns i [Förstå anpassade objekt](understanding-marketo-custom-objects.md) i Marketto.
+>Du kan ställa in anpassade objekt så att de fungerar på en-till-många- eller många-till-många-basis. Du skapar det ursprungliga objektet på samma sätt, men stegen är olika när du börjar lägga till fält till objektet. Mer information finns i [Förstå Marketo-anpassade objekt](understanding-marketo-custom-objects.md).
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Använd anpassade objekt i Marketo för att spåra mätvärden som är specifika
 
 I det här exemplet visas ett anpassat bildobjekt som kan användas i en en-till-många-struktur. Senare skapar du ett kursanpassat objekt och ett mellanliggande objekt som du kan använda i en många-till-många-struktur.
 
-1. Klicka på **Admin** och välj Anpassade objekt **i** Databashantering ****.
+1. Klicka på **Admin** och välj **Marketo-anpassade objekt** i **Databashantering**.
 
    ** ![](assets/image2016-1-18-13-3a12-3a19.png)
 
@@ -47,7 +47,7 @@ I det här exemplet visas ett anpassat bildobjekt som kan användas i en en-till
 
    >[!NOTE]
    >
-   >Du kan redigera de här fälten när du skapar dem, men när de har sparats kan du bara redigera fältet Pluralnamn och reglaget **Visa i Leaddetalj** .
+   >Du kan redigera dessa fält när du skapar dem, men när de har sparats kan du bara redigera fältet Pluralnamn och reglaget **Visa i Leaddetalj**.
 
 1. Dra reglaget **Visa i Leaddetalj **för att visa **Visa** om du vill visa anpassade objektdata på sidan Leaddatabas. Klicka på **Spara**.
 
@@ -57,7 +57,7 @@ I det här exemplet visas ett anpassat bildobjekt som kan användas i en en-till
 
    ![](assets/image2015-9-15-16-3a38-3a22.png)
 
-   Nästa steg är att lägga till fält för att [skapa det anpassade objektet](add-marketo-custom-object-fields.md).
+   Nästa steg är att lägga till fält i [skapa ditt anpassade objekt](add-marketo-custom-object-fields.md).
 
    >[!NOTE]
    >
@@ -71,7 +71,7 @@ I det här exemplet visas ett anpassat kursobjekt som du använder för att skap
 >
 >För många-till-många-relationer behöver du inte skapa någon länk i det anpassade objektet. I stället lägger du till två länkar till mellanliggande objekt (se nedan).
 
-1. Klicka på **Admin** och välj Anpassade objekt **i** Databashantering ****.
+1. Klicka på **Admin** och välj **Marketo-anpassade objekt** i **Databashantering**.
 
    ![](assets/image2016-1-18-13-3a16-3a25.png)
 
@@ -85,7 +85,7 @@ I det här exemplet visas ett anpassat kursobjekt som du använder för att skap
 
    >[!NOTE]
    >
-   >Du kan redigera de här fälten när du skapar dem, men när de har sparats kan du bara redigera fältet Pluralnamn och reglaget **Visa i Leaddetalj** .
+   >Du kan redigera dessa fält när du skapar dem, men när de har sparats kan du bara redigera fältet Pluralnamn och reglaget **Visa i Leaddetalj**.
 
 1. Dra reglaget **Visa i Leaddetalj **för att visa Visa om du vill visa anpassade objektdata på sidan Leaddatabas. Klicka på **Spara**.
 
@@ -109,7 +109,7 @@ Använd ett mellanliggande objekt för att koppla ett anpassat objekt till perso
 >
 >Du behöver inte skapa ett mellanliggande objekt för en anpassad objektstruktur med en-till-många.
 
-1. Klicka på **Admin** och välj Anpassade objekt **i** Databashantering ****.
+1. Klicka på **Admin** och välj **Marketo-anpassade objekt** i **Databashantering**.
 
    ![](assets/image2016-1-18-13-3a17-3a40.png)
 
@@ -125,13 +125,13 @@ Använd ett mellanliggande objekt för att koppla ett anpassat objekt till perso
    >
    >Du kan redigera de här fälten när du skapar dem, men när de har sparats kan du bara redigera fältet Pluralnamn och reglaget Visa i Leaddetalj.
 
-1. Dra skjutreglaget **Visa i Lead-detalj** över för att visa Visa om du vill visa anpassade objektdata på Lead-databassidan. Klicka på **Spara**.
+1. Dra reglaget **Visa i Leaddetalj** för att visa Visa om du vill visa anpassade objektdata på sidan Leaddatabas. Klicka på **Spara**.
 
    ![](assets/image2016-1-14-14-3a12-3a49.png)
 
 1. Den anpassade objektinformationen visar det innehåll du har angett. Observera att det är i utkastläge.
 
-   Nästa steg är att du ska [lägga till länkfält](add-marketo-custom-object-link-fields.md) för att koppla ditt mellanliggande objekt till en person/ett företag och ett anpassat objekt.
+   Nästa steg är att du ska [lägga till länkfält](add-marketo-custom-object-link-fields.md) för att ansluta mellanliggande objekt till en person/ett företag och ett anpassat objekt.
 
 >[!MORELIKETHIS]
 >
