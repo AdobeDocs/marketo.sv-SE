@@ -23,15 +23,15 @@ Följande funktioner släpptes 15 mars 2019.
 
 ## Förbättringar av kärnplattformen {#core-platform-enhancements}
 
-* **Väntelistat:** Ny status för program/evenemang för att vänta på en medlem när du vill [vänta](../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) tills en ledig plats öppnas. Detta gäller för kanaler som är associerade med Event-program i Marketo Classic, och både Event och Event med Webinar-program i Marketo Sky. Som standard har Väntelistat samma stegvärde som Registrerad.
+* **Väntelista:** Ny program-/händelsestatus för att väntelista en medlem när du vill  [placera dem på ](../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) plats tills en ledig plats öppnas. Detta gäller för kanaler som är associerade med Event-program i Marketo Classic, och både Event och Event med Webinar-program i Marketo Sky. Som standard har Väntelistat samma stegvärde som Registrerad.
 * ** [Anpassad kommunikationsgräns](../../product-docs/administration/email-setup/enable-communication-limits.md)**: Administratörer kan nu ange anpassade kommunikationsgränser per dag eller vecka.
-* ** API:er för [Smart Campaign-resurser](http://developers.marketo.com/rest-api/assets/campaigns/)**: Förbättra era analyser utanför Marketo med smart hämtning av kampanjposter med uppdaterat datum och ID.
-* **HTTPS-spårningslänkar för e-post:** För kunder som har köpt&quot;säkra domäner för spårningslänkar&quot; kan nu varumärkesanpassade spårningslänkar visas i dina e-postmeddelanden som HTTPS.
+* ** [Tillgångs-API:er för smarta kampanjer](http://developers.marketo.com/rest-api/assets/campaigns/)**: Förbättra era analyser utanför Marketo med smart hämtning av kampanjposter med uppdaterat datum och ID.
+* **HTTPS-spårningslänkar för e-post:** För kunder som har köpt säkra domäner för spårning av länkar kan nu varumärkesanpassade spårningslänkar visas i dina e-postmeddelanden som HTTPS.
 * **PowerPack-uppdateringar** för e-postleverans: Möjlighet att flagga och kommentera specifika testresultat, dela resultat med intressenter via en webbadress och spåra ändringar för att se hur ett e-postmeddelande utvecklas när intressenter redigerar innehåll.
 
 Kontobaserad marknadsföring
 
-**[Konto`<sup>AI</sup>`](../../product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)** är nu allmänt tillgängligt. Kontot`<sup>AI</sup>` använder artificiell intelligens för att identifiera de konton ni ska inrikta er på för er ABM-strategi.
+**[AccountNow`<sup>AI</sup>`](../../product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)** är allmänt tillgängligt. Konto`<sup>AI</sup>` använder artificiell intelligens för att identifiera de konton som du ska rikta dig mot för din ABM-strategi.
 
 <br> 
 
@@ -41,7 +41,7 @@ Följande funktioner förväntas släppas under det första kalenderkvartalet oc
 
 ## Marketo Sky {#marketo-sky}
 
-Mer information och uppdateringar finns i vår [Sky-versionsinformation](https://help.marketo.com/hc/en-us/articles/360015760534-Q1-Releases).
+Mer information och uppdateringar finns i [Sky Release Notes](https://help.marketo.com/hc/en-us/articles/360015760534-Q1-Releases).
 
 * **Funktioner** för e-postprogram: Skicka e-post, skapa A/B-tester och spåra resultat i en användarvänlig upplevelse.
 * **Smart Campaign-funktionalitet**: Få bättre stabilitet i ett nytt användargränssnitt i takt med att smarta kampanjer lanseras i Sky.
@@ -50,12 +50,12 @@ Mer information och uppdateringar finns i vår [Sky-versionsinformation](https:/
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
-* **Förbättrad granskning**: Ny synlighet för alla människor, e-postmeddelanden och [innehåll](../../product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md) i ett och samma fall med möjlighet att [avsluta befintliga](../../product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)kampanjer som skapats av andra användare.
-* **[Avbeställ hantering](../../product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**: Maximera leveransen och efterlevnaden med möjligheten att [blockera e-postdomäner](../../product-docs/marketo-sales-connect/admin/blocked-domains.md) från att kontaktas. Marketo korsrefererar också till lead-databasen för att avbryta prenumerationen innan ett e-postmeddelande skickas.
+* **Förbättrad granskning**: Ny synlighet för alla personer, e-postmeddelanden och  [](../../product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md) innehåll i en instans med möjlighet att  [avsluta befintliga ](../../product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)kampanjer som skapats av andra användare.
+* **[Avbeställ hantering](../../product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**: Maximera leveransen och efterlevnaden med möjligheten att  [blockera e-](../../product-docs/marketo-sales-connect/admin/blocked-domains.md) postdomäner från att kontaktas. Marketo korsrefererar också till lead-databasen för att avbryta prenumerationen innan ett e-postmeddelande skickas.
 
 ## Bizible by Marketo {#bizible-by-marketo}
 
 * **Förbättringar** av funktioner för bizible Discover: Nya funktioner för instrumentpanelssegmentering gör att marknadsförarna kan förstå resultatet bättre.
 * **Stöd** för flera valutor: Växla mellan företagets valuta och lokal valuta med Bizibles nya automatiska valutakonverteringsfunktion som bygger på valutatabeller i CRM.
-* **CRM-kampanjkostnader**:  Mät utgifter och avkastning för offlinemarknadsföringsaktiviteter med möjlighet att automatiskt hämta kostnadsdata från CRM-kampanjobjektet.
+* **CRM-kampanjkostnader**: Mät utgifter och avkastning för offlinemarknadsföringsaktiviteter med möjlighet att automatiskt hämta kostnadsdata från CRM-kampanjobjektet.
 
