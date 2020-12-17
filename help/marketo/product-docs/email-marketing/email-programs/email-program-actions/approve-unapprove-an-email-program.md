@@ -16,11 +16,11 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Skapa ett e-postprogram](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definiera en publik med en smart lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) eller [Definiera en publik genom att importera en lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Definiera en målgrupp med en smart ](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) lista genom att  [definiera en målgrupp genom att importera en lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
    >
    >
-* [Välj en befintlig e-postadress](choose-an-existing-email.md) eller [skapa en e-postadress för ett e-postprogram](create-an-email-for-an-email-program.md)
+* [Välj en befintlig ](choose-an-existing-email.md) e-postadress  [Skapa ett e-postmeddelande för ett e-postprogram](create-an-email-for-an-email-program.md)
    >
    >
 * [Schemalägg ditt e-postprogram](schedule-your-email-program.md)
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Nu när programmet är klart är det sista steget att godkänna det. Så här:
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -44,7 +44,7 @@ Nu när programmet är klart är det sista steget att godkänna det. Så här:
    >
    >Om du inte godkänner ditt e-postprogram går e-postmeddelandet inte ut.
 
-1. Under rutan **Godkännande** klickar du på **Godkänn program**.
+1. Under rutan **Approval** klickar du på **Approve Program**.
 
    ![](assets/image2014-9-12-13-3a43-3a36.png)
 
@@ -60,7 +60,7 @@ Nu när programmet är klart är det sista steget att godkänna det. Så här:
 
 Om du ändrar dig och bestämmer dig för att du inte vill att det ska gå ut kan du avgodkänna e-postprogrammet.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -68,7 +68,7 @@ Om du ändrar dig och bestämmer dig för att du inte vill att det ska gå ut ka
 
    ![](assets/selectemailprogram-2.jpg)
 
-1. Klicka bara på **Ogodkänt program** under rutan **Godkännande**.
+1. Klicka bara på **Avgodkänn program** under rutan **Godkännande**.
 
    ![](assets/image2014-9-12-13-3a44-3a28.png)
 
