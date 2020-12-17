@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Påminnelse**
 >
->Den här funktionen är bara tillgänglig före den första synkroniseringen till Salesforce! När knappen **Synkronisera nu** trycks ned kan detta inte göras längre.
+>Den här funktionen är bara tillgänglig före den första synkroniseringen till Salesforce! När knappen **Synkronisera nu** trycks ned kan detta inte längre göras.
 
 Under den första synkroniseringen till Salesforce kombinerar Marketo automatiskt anpassade fält med liknande namn till ett enda fält på Marketo-sidan för att säkerställa att data kan utbytas med både lead- och kontaktobjekt i CRM. I den här artikeln beskrivs hur du anpassar mappningarna.
 
@@ -29,7 +29,7 @@ När du ser ett fält i mappen Omappade fält betyder det att det inte är mappa
 
 ![](assets/image2014-12-9-13-3a31-3a0.png)
 
-1. Öppna mappen **Omappade anpassade fält** .
+1. Öppna mappen **Omappade anpassade fält**.
 
    ![](assets/two.png)
 
