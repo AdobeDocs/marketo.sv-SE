@@ -37,13 +37,13 @@ Använd webhooks för att dra nytta av webbtjänster från tredje part för att 
    >
    >Detta inkluderar ofta att du anger dina inloggningsuppgifter för en tredjepartstjänst som en URL-parameter eller i POSTEN.
 
-   * **URL**: Ange den URL som du använder för att POST din förfrågan till webbtjänsten. Om du vill infoga en token, t.ex. personens e-postadress (**`{{lead.Email Address}}`**), klickar du på **Infoga token** i din begäran.
+   * **URL**: Ange den URL som du använder för att POST din förfrågan till webbtjänsten. Om du vill infoga en token, t.ex. personens e-postadress (**`{{lead.Email Address}}`**), i din begäran klickar du på **Infoga token**.
 
    * **Mall**: Om du vill skicka information i POSTENS brödtext anger du mallen. Använd valfritt dataformat som stöder HTTP-POST, inklusive XML, JSON eller SOAP. Om du vill infoga en token i mallen klickar du på **Infoga token**.
 
-   * **Begär tokenkodning**: Om tokenvärdena innehåller specialtecken (t.ex. ett et-tecken (&amp;)) anger du formatet för din begäran (**JSON** eller **Form/Url**).
+   * **Begär tokenkodning**: Om tokenvärdena innehåller specialtecken (t.ex. ett et-tecken (&amp;)) anger du formatet för din begäran (**** JSONeller  **Form/Url**).
 
-   * **Svarstyp**: Välj formatet för det svar du får från tjänsten (**JSON** eller **XML**).
+   * **Svarstyp**: Välj formatet för det svar du får från tjänsten (**** JSONeller  **XML**).
 
    Klicka på Skapa.
 
@@ -53,5 +53,5 @@ Använd webhooks för att dra nytta av webbtjänster från tredje part för att 
 >
 >**Djupdykning**
 >
->Läs mer i [webhookarnas](http://developers.marketo.com/documentation/webhooks/) djupdykning.
+>Läs mer i [webhooks](http://developers.marketo.com/documentation/webhooks/) djupdykning.
 
