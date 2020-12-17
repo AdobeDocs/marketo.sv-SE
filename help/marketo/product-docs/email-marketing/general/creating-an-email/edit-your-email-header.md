@@ -16,9 +16,9 @@ ht-degree: 0%
 E-postrubriken i Marketo är helt anpassningsbar. Det består av fyra fält:
 
 * **Från** - Avsändarens namn som du vill att det ska visas
-* **Från adress** - Avsändarens e-postadress som du vill att den ska visas
-* **Svar till** - Den e-postadress som du vill att en persons svar ska skickas till (kan vara en annan än Från adress)
-* **Ämne** - E-postens ämnesrad
+* **Från adress**  - Avsändarens e-postadress som du vill att den ska visas
+* **Svar till**  - Den e-postadress som du vill att en persons svar ska skickas till (kan vara en annan än Från adress)
+* **Ämne**  - E-postens ämnesrad
 
 Om du vill redigera dessa värden klickar du i varje fält och anger din information.
 
