@@ -21,7 +21,7 @@ Engagemangsprogram är utformade för att marknadsföra innehåll till nya männ
 
 ## Engagement Program {#engagement-program}
 
-Ett **engagemang pr****ogram** är en typ av program som enkelt kan åstadkomma komplexa uppfödningar.
+Ett **engagemang pr****ogram** är en typ av program som enkelt kan utföra komplex näring.
 
 ![](assets/image2014-9-15-15-3a24-3a57.png)
 
@@ -31,7 +31,7 @@ Relaterad artikel:
 
 ## Strömma {#stream}
 
-En **ström** är en pool av prioriterat innehåll som engagemangsprogrammet kommer att använda för att vårda människor.
+En **ström** är en pool med prioriterat innehåll som engagemangsprogrammet kommer att använda för att vårda människor.
 
 ![](assets/image2014-9-15-15-3a25-3a4.png)
 
@@ -42,7 +42,7 @@ Relaterade artiklar:
 
 ## Innehåll {#content}
 
-Det finns två typer av **innehåll** du kan lägga till i engagemangsprogramströmmar - e-post och program. E-post skickas till folk vid sändning.
+Det finns två typer av **innehåll** som du kan lägga till i engagemangsprogramströmmar - e-postmeddelanden och program. E-post skickas till folk vid sändning.
 
 ![](assets/image2014-9-15-15-3a25-3a18.png)
 
@@ -56,7 +56,7 @@ Relaterade artiklar:
 
 ## Kast {#cast}
 
-En **sändning** är händelsen att skicka e-postmeddelanden från ett engagemangsprogram.
+En **cast** är händelsen att skicka e-postmeddelanden från ett engagemangsprogram.
 
 >[!NOTE]
 >
@@ -76,7 +76,7 @@ Relaterad artikel:
 
 ## Person Cadence {#person-cadence}
 
-En **personcadence** är en status som definierar dess förmåga att ta emot innehåll från ett engagemangsprogram. Du kan använda flödessteget **Ändra programstängning** för att ändra det till Pausad eller Normal.
+En **personcadence** är en status som definierar dess förmåga att ta emot innehåll från ett engagemangsprogram. Du kan använda flödessteget **Change Engagement Program Cadence** för att ändra det till Paused eller Normal.
 
 ` ![](assets/image2014-9-15-15-3a25-3a55.png)
 
@@ -84,7 +84,7 @@ En **personcadence** är en status som definierar dess förmåga att ta emot inn
 
 ## Utmattad {#exhausted}
 
-När en person har fått allt innehåll i en ström kallar vi den person som är **utled**.
+När en person har fått allt innehåll i en ström anropar vi personen **Utsökt**.
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 
