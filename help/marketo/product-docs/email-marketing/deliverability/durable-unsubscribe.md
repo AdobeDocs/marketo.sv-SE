@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Marketo har förbättrat beteendet för att avbryta prenumerationen så att den blir&quot;hållbar&quot;. Vi har lagt till en överordnad e-poststatus, som är skild från avregistreringsflaggan som visas på personinformationsposten.
 
-Om flaggan för att avbryta prenumerationen är inställd på false uppdateras den överordnad e-poststatusen och ändringen sprids till andra personer med samma e-postadress. Om en person tas bort och återskapas, eller om en ny post skapas med samma e-postadress, skrivs **inte** avregistreringsflaggan över.
+Om flaggan för att avbryta prenumerationen är inställd på false uppdateras den överordnad e-poststatusen och ändringen sprids till andra personer med samma e-postadress. Om en person tas bort och återskapas, eller om en ny post skapas med samma e-postadress, skrivs den avslutande flaggan **inte** över.
 
 >[!NOTE]
 >
@@ -25,15 +25,15 @@ Om flaggan för att avbryta prenumerationen är inställd på false uppdateras d
 
 Det finns flera sätt att återprenumerera på en person.
 
-I Salesforce **rensar** du fältet E-posta avanmälan i lead/kontakts post. Detta synkroniseras med Marketo.
+**rensa** fältet E-posta avanmälan i lead/kontakts post i Salesforce. Detta synkroniseras med Marketo.
 
 ![](assets/one.png)
 
-I Marketo **avmarkerar** du rutan för att avbryta prenumerationen på fliken Info för personens post.
+I Marketo avmarkerar du **rutan för att avbryta prenumerationen på fliken Info för personens post.**
 
 ![](assets/two.png)
 
-Kör ett flödessteg för **att ändra datavärde** så som visas nedan på en eller flera personer.
+Kör ett **Ändra datavärde**-flödessteg så som visas nedan på en eller flera personer.
 
 ![](assets/three.png)
 
@@ -49,13 +49,13 @@ Om du ändrar e-postadressen för en person till en e-postadress som du inte lä
 
 Om du ändrar en e-postadress som du inte prenumererar på, kommer personen att prenumerera.
 
-## Återprenumerera {#re-subscribing}
+## Återprenumererar {#re-subscribing}
 
 På samma sätt som ett avbrutet abonnemang skulle leda till att alla personer med samma e-postadress avbeställer prenumerationen skulle en återprenumeration faktiskt återbeställa alla personer med samma e-postadress.
 
-## Aktivitetslogg {#activity-log}
+## Aktivitetsloggen {#activity-log}
 
-Definitioner av datavärdesändring för *updateLeadEmailStatus* och *resetLeadEmailStatus* finns i [den här community-artikeln](http://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688).
+Ändringsdefinitioner för datavärde för *updateLeadEmailStatus* och *resetLeadEmailStatus* finns i [den här communityartikeln](http://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688).
 
 >[!MORELIKETHIS]
 >
