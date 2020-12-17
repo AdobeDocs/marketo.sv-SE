@@ -41,15 +41,15 @@ Marketo hanterar registrering och närvaro av GoToWebinar.
 
    ![](assets/new-service-goto-webinar1.png)
 
-1. Klicka sedan på **Logga in på** **GoToWebinar**.
+1. Klicka sedan på **Logga in i** **GoToWebinar**.
 
    ![](assets/image2015-4-22-15-3a57-3a59.png)
 
    >[!NOTE]
    >
-   >Om du vill synkronisera företagsnamn och jobbtitel från Marketto-formuläret till GoToWebinar markerar du rutan **Aktivera ytterligare fält** .
+   >Om du vill synkronisera företagsnamn och jobbtitel från Marketto-formuläret till GoToWebinar markerar du rutan **Aktivera ytterligare fält**.
 
-1. I popup-fönstret för inloggning på GoToWebinar anger du e-postadress och lösenord för **GoToWebinar** och klickar på **Logga in**.
+1. I popup-fönstret GoToWebinar Logga in anger du ditt **GoToWebinar**-e-postadress och lösenord och klickar på **Logga in**.
 
    ![](assets/image2015-4-22-15-3a52-3a31.png)
 
@@ -57,7 +57,7 @@ Marketo hanterar registrering och närvaro av GoToWebinar.
 
    ![](assets/image2015-4-22-15-3a57-3a43.png)
 
-1. Bra! Ditt **GoToWebinar** -konto har nu synkroniserats med Marketo.
+1. Bra! Ditt **GoToWebinar**-konto har nu synkroniserats med Marketo.
 
    ![](assets/goto-webinar.png)
 
