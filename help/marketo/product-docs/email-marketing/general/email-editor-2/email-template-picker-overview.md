@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Översikt över väljaren för e-postmall {#email-template-picker-overview}
 
-När du [skapar ett e-postmeddelande](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)har du flera kostnadsfria mallar att välja bland. Du kan också skapa en egen mall och spara den för framtida bruk.
+När du [skapar ett e-postmeddelande](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md) har du flera kostnadsfria mallar att välja bland. Du kan också skapa en egen mall och spara den för framtida bruk.
 
 ![](assets/starter-templates.png)
 
@@ -21,11 +21,11 @@ När du [skapar ett e-postmeddelande](../../../../product-docs/email-marketing/g
 
 ![](assets/two-2.png)
 
-Om din e-post är viktig och du vill att den ska kringgå kommunikationsbegränsningar [kan du aktivera](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) den genom att markera kryssrutan. **Öppna i redigeraren** är markerat som standard, vilket innebär att du vill börja redigera ditt nya e-postmeddelande direkt. **Skapa** medel, skapa!
+Om din e-post är viktig och du vill att den ska kringgå kommunikationsgränserna [kan du göra den användbar](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) genom att markera kryssrutan. **Öppna i** redigeringsprogram är valt som standard, vilket innebär att du vill börja redigera ditt nya e-postmeddelande direkt. **** Skapare, skapa!
 
 ![](assets/three-2.png)
 
-**Startmallar** innehåller en samling färdiga responsiva e-postmallar. Du kan använda dem som de är eller anpassa dem efter dina önskemål.
+**Startmallar** innehåller en samling körklara e-postmallar. Du kan använda dem som de är eller anpassa dem efter dina önskemål.
 
 ![](assets/starter-templates.png)
 
@@ -33,7 +33,7 @@ Om din e-post är viktig och du vill att den ska kringgå kommunikationsbegräns
 >
 >Marketos startmallar erbjuds alla kunder utan extra kostnad. De uppdateras kontinuerligt och optimeras för större e-postklienter (och mobila enheter), men du bör alltid utvärdera om de uppfyller dina behov. Marketos [e-postleveransverktyg](http://docs.marketo.com/display/DOCS/Email+Deliverability+Tool) kan visa hur du återger mallar på olika e-postklienter. Marketo kan tyvärr inte göra designförfrågningar utanför betalda serviceåtaganden.
 
-**Mina mallar** består av alla mallar du har skapat. Du kan också ha mappar.   ![](assets/five-2.png)
+**Mina** mallar består av alla mallar du har skapat. Du kan också ha mappar.   ![](assets/five-2.png)
 
 Alla mappar som visas under E-post > Mallar i ditt Design Studio-träd finns i **Mina mallar**.
 
@@ -51,7 +51,7 @@ Förhandsgranskaren visar hur mallen kommer att återges på en stationär dator
 
 ![](assets/nine-1.png)
 
-Om du gillar den här mallen väljer du den genom att klicka på **Markera** längst ned till höger. Vill du fortsätta leta? Klicka på **X** i det övre högra hörnet. Använd vänster- och högerpilarna för att bläddra igenom mallar.
+Om du gillar den här mallen väljer du den genom att klicka på **Välj** längst ned till höger. Vill du fortsätta leta? Klicka på **X** uppe till höger. Använd vänster- och högerpilarna för att bläddra igenom mallar.
 
 ![](assets/ten-1.png)
 
