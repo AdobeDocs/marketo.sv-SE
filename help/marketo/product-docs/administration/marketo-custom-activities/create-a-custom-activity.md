@@ -23,7 +23,7 @@ Följ de här stegen för att skapa en ny anpassad aktivitet.
 
    ![](assets/one.png)
 
-1. Klicka på **Anpassade aktiviteter** i **Databashantering**.
+1. I **Databashantering** klickar du på **Anpassade aktiviteter**.
 
    ![](assets/two.png)
 
@@ -39,7 +39,7 @@ Följ de här stegen för att skapa en ny anpassad aktivitet.
    >
    >Om du bestämmer dig för att ändra API-namnet måste du se till att namnet inte hamnar i konflikt med fält i andra anpassade aktiviteter.
 
-1. Definiera **Filter** och **utlösare** och klicka på **Nästa**.
+1. Definiera ditt **filter** och **Utlösare** och klicka på **Nästa**.
 
    ![](assets/five.png)
 
