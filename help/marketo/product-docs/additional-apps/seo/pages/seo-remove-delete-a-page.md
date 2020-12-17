@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Vill du ta bort en sida? Ingen svettning, så här:
 
-1. Gå till avsnittet **Sidor** .
+1. Gå till avsnittet **Sidor**.
 
    ![](assets/image2014-9-18-13-3a58-3a33.png)
 
-1. Håll markören över den sida du vill ta bort på fliken Sidor, klicka på **DELETE** och sedan på **TA BORT**.
+1. Håll markören över den sida du vill ta bort på fliken Sidor, klicka på **DELETE** och klicka sedan på **TA BORT**.
 
    ![](assets/image2014-9-18-13-3a58-3a39.png)
 
