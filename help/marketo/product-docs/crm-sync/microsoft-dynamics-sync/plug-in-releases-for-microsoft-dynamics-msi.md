@@ -15,7 +15,7 @@ ht-degree: 4%
 
 När du först synkroniserar med Microsoft Dynamics hämtar och installerar du den senaste versionen av plugin-programmen för Marketo Sales Insight (MSI). Marketo uppdaterar regelbundet dessa plugin-program så att du kan gå tillbaka till samma ställe och ladda ned den nya versionen.
 
-Hämta [det senaste plugin-programmet](http://docs.marketo.com/x/LoJo) som motsvarar din Dynamics-release.
+[Hämta det senaste plugin-programmet](http://docs.marketo.com/x/LoJo) som motsvarar din Dynamics-release.
 
 >[!NOTE]
 >
@@ -23,8 +23,8 @@ Hämta [det senaste plugin-programmet](http://docs.marketo.com/x/LoJo) som motsv
 
 ## Uppdaterar din MSI-lösning {#updating-your-msi-solution}
 
-1. Importera den senaste versionen av lösningen över den befintliga versionen av Dynamics CRM (t.ex.: om Dynamics CRM har version 1.4 och den senaste versionen är 1.5, kan du importera *över* version 1.4).
-1. Följande popup-fönster visas. Markera alternativen **Uppdatera** och **skriv över anpassning** och klicka sedan på **Importera**.
+1. Importera den senaste versionen av lösningen över den befintliga versionen av Dynamics CRM (t.ex.: om Dynamics CRM har version 1.4 och den senaste versionen är 1.5, importerar du *över* version 1.4).
+1. Följande popup-fönster visas. Välj alternativen **Uppdatera** och **Skriv över anpassning** och klicka sedan på **Importera**.
 
    ![](assets/one.png)
 
@@ -64,7 +64,7 @@ Hämta [det senaste plugin-programmet](http://docs.marketo.com/x/LoJo) som motsv
   </tr> 
   <tr> 
    <td colspan="1">04/28/20</td> 
-   <td colspan="1">2.0.0.16</td> 
+   <td colspan="1">4.0.0.16</td> 
    <td colspan="1"><p>Felkorrigering: Tar bort länkberoende för inställning av platskarta för MSD CRM</p></td> 
   </tr> 
  </tbody> 
