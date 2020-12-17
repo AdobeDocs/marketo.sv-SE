@@ -21,19 +21,19 @@ ht-degree: 0%
 
 ## STEG 1: Skapa ett program {#step-create-a-program}
 
-1. Gå till området **Marknadsföringsaktiviteter** .
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/ma.png)
 
-1. Välj den **Utbildningsmapp** som skapades i den [föregående snabbstarten](/help/marketo/getting-started/quick-wins/send-an-email.md).
+1. Välj mappen **Learning** som skapades i [föregående snabbwin](/help/marketo/getting-started/quick-wins/send-an-email.md).
 
    ![](assets/image2014-9-8-17-3a45-3a34.png)
 
-1. Klicka på **Nytt program under** Nytt ****.
+1. Under **Nytt** klickar du på **Nytt program**.
 
    ![](assets/image2014-9-8-17-3a45-3a49.png)
 
-1. Ange ett **programnamn**, markera en **kanal** och klicka på **Skapa**.
+1. Ange ett program **Namn**, välj en **kanal** och klicka på **Skapa**.
 
    >[!NOTE]
    >
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Ett program är ett specifikt marknadsföringsinitiativ. **Kanalen** är avsedd att fungera som leveransmekanism, t.ex. webbinarium, Sponsorship eller Online Ad. Du kan se olika kanalalternativ i listrutan, beroende på vad som är tillgängligt i din egen instans. Du kan också [skapa en egen kanal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+   >Ett program är ett specifikt marknadsföringsinitiativ. **Kanalen** är avsedd att vara leveransmekanismen, som webbinarium, Sponsorship eller Online Ad. Du kan se olika kanalalternativ i listrutan, beroende på vad som är tillgängligt i din egen instans. Du kan också [skapa en egen kanal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
    ![](assets/image2014-9-8-17-3a46-3a47.png)
 
@@ -51,7 +51,7 @@ Snyggt gjort! Nu när vi har skapat ett program går vi vidare och skapar lite i
 
 ## STEG 2: Skapa ett formulär {#step-create-a-form}
 
-1. När programmet är valt klickar du på **Nytt** och sedan på **Nytt lokalt material**.
+1. Välj ett program och klicka på **Nytt** och **Nytt lokalt material**.
 
    ![](assets/image2014-9-24-11-3a4-3a29.png)
 
@@ -59,13 +59,13 @@ Snyggt gjort! Nu när vi har skapat ett program går vi vidare och skapar lite i
 
    ![](assets/image2014-9-24-11-3a4-3a42.png)
 
-1. Ange ett **formulärnamn** och klicka på **Skapa**.
+1. Ange ett formulär **Namn** och klicka på **Skapa**.
 
    ![](assets/image2014-9-24-11-3a5-3a0.png)
 
    >[!NOTE]
    >
-   >Kontrollera att rutan **Öppna i redigerare** är markerad. Om det inte är det måste du klicka på fliken **Redigera formulär** .
+   >Kontrollera att rutan **Öppna i redigerare** är markerad. Om det inte är det måste du klicka på fliken **Redigera formulär**.
 
    >[!TIP]
    >
@@ -87,7 +87,7 @@ Snyggt gjort! Nu när vi har skapat ett program går vi vidare och skapar lite i
 
    ![](assets/image2014-9-24-11-3a6-3a19.png)
 
-1. Under sidan Tack väljer du **Extern URL** för **uppföljning med**.
+1. Under Tack-sidan väljer du **Extern URL** för **Följ upp med**.
 
    ![](assets/image2014-9-24-11-3a6-3a35.png)
 
@@ -97,7 +97,7 @@ Snyggt gjort! Nu när vi har skapat ett program går vi vidare och skapar lite i
 
    >[!NOTE]
    >
-   >På uppföljningssidan omdirigeras besökaren när formuläret har fyllts i. Extern URL är ett alternativ, men det finns fler. Se [Ställa in en tacksida](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md)för ett formulär.
+   >På uppföljningssidan omdirigeras besökaren när formuläret har fyllts i. Extern URL är ett alternativ, men det finns fler. Se [Ange en formulärtacksida](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md).
 
 1. Klicka på **Slutför**.
 
@@ -113,15 +113,15 @@ Snyggt gjort! Nu när vi har skapat ett program går vi vidare och skapar lite i
 
 ## STEG 3: Skapa en landningssida och lägg till formuläret {#step-create-a-landing-page-and-add-your-form}
 
-1. När programmet är valt klickar du på **Nytt** och sedan på **Ny lokal resurs**.
+1. Välj ett program och klicka sedan på **Nytt** och **Nytt lokalt material**.
 
    ![](assets/image2014-9-24-11-3a7-3a51.png)
 
-1. Välj **landningssida**.
+1. Välj **Startsida**.
 
    ![](assets/image2014-9-24-11-3a8-3a5.png)
 
-1. Ange ett **sidnamn**, markera en mall och klicka på **Skapa**.
+1. Ange en sida **Namn**, markera en mall och klicka på **Skapa**.
 
    >[!NOTE]
    >
@@ -133,7 +133,7 @@ Snyggt gjort! Nu när vi har skapat ett program går vi vidare och skapar lite i
 
    ![](assets/twentyone.png)
 
-1. Leta reda på och markera formuläret och klicka på **Infoga**.
+1. Sök efter och markera formuläret och klicka på **Infoga**.
 
    ![](assets/image2014-9-24-11-3a8-3a53.png)
 
@@ -147,9 +147,9 @@ Snyggt gjort! Nu när vi har skapat ett program går vi vidare och skapar lite i
 
    Bra jobbat! Nu finns det en landningssida med ett formulär. Låt oss godkänna sidan för att göra den offentlig.
 
-## STEG 4: Godkänn landningssidan {#step-approve-your-landing-page}
+## STEG 4: Godkänn din landningssida {#step-approve-your-landing-page}
 
-1. Välj landningssida och klicka på **Godkänn under Åtgärder för** landningssida ****.
+1. Välj landningssida, klicka på **Godkänn** under **Landing Page Actions**.
 
    >[!NOTE]
    >
@@ -163,7 +163,7 @@ Snyggt gjort! Nu när vi har skapat ett program går vi vidare och skapar lite i
 
 ## STEG 5: Testa formuläret {#step-test-your-form}
 
-1. Markera landningssidan och klicka på **Visa godkänd sida**.
+1. Välj landningssida och klicka på **Visa godkänd sida**.
 
    ![](assets/image2014-9-24-11-3a10-3a9.png)
 
@@ -171,7 +171,7 @@ Snyggt gjort! Nu när vi har skapat ett program går vi vidare och skapar lite i
 
    ![](assets/image2014-9-24-11-3a10-3a23.png)
 
-1. Gå till området **Databas** .
+1. Gå till området **Databas**.
 
    ![](assets/db-1.png)
 
