@@ -41,6 +41,6 @@ Det är ingen bra idé att mejla någon flera gånger om dagen eller för många
 
 >[!TIP]
 >
->Om du vill göra detta till standard redigerar du [kommunikationsgränserna](../../../../product-docs/administration/email-setup/enable-communication-limits.md) i avsnittet Admin.
+>Om du vill göra detta till standard redigerar du dina [kommunikationsgränser](../../../../product-docs/administration/email-setup/enable-communication-limits.md) i avsnittet Admin.
 
 Söt. Nu kan du vara säker på att du inte oavsiktligt skickar för många e-postmeddelanden till din publik.
