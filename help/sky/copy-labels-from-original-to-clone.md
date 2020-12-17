@@ -20,11 +20,11 @@ När du klonar en resurs kan du kopiera alla etiketter från den ursprungliga re
 
    ![Bild ett](/help/sky/assets/labels/copy-labels-from-original-to-clone/copy-labels-from-original-to-clone-1.jpg)
 
-1. Ange informationen för din nya klonresurs. Under [!UICONTROL Labels]klickar du sedan på **[!UICONTROL Copy Labels From Original]**.
+1. Ange informationen för din nya klonresurs. Klicka sedan på **[!UICONTROL Copy Labels From Original]** under [!UICONTROL Labels].
 
    ![Bild två](/help/sky/assets/labels/copy-labels-from-original-to-clone/copy-labels-from-original-to-clone-2.jpg)
 
-1. De kopierade etiketterna fylls i automatiskt. Klicka **[!UICONTROL Clone]** för att slutföra resursen.
+1. De kopierade etiketterna fylls i automatiskt. Klicka på **[!UICONTROL Clone]** för att slutföra skapandet av resursen.
 
    ![Bild tre](/help/sky/assets/labels/copy-labels-from-original-to-clone/copy-labels-from-original-to-clone-3.jpg)
 
