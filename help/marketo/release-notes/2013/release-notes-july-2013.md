@@ -13,23 +13,23 @@ ht-degree: 0%
 
 # Versionsinformation: Juli 2013 {#release-notes-july}
 
-Följande funktioner finns i juliversionen som är planerad att lanseras på fredag den 26 juli.  Kontrollera om det finns funktioner i din [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) .
+Följande funktioner finns i juliversionen som är planerad att lanseras på fredag den 26 juli.  Kontrollera din [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) för att se om det finns funktioner.
 
-Efter releasen ska du kontrollera fliken [Ny release](release-notes-december-2013.md) i communityn för att få detaljerade hjälpartiklar för varje funktion!
+Efter releasen ska du kontrollera fliken [New Release](release-notes-december-2013.md) i communityn för detaljerade hjälpartiklar för varje funktion!
 
-## Widgeten Utsträckt innehåll på kontrollpanelen {#exhausted-content-widget-on-the-dashboard}
+## Widgeten Utfyllt innehåll på instrumentpanelen {#exhausted-content-widget-on-the-dashboard}
 
 Anger information om när leads tar bort innehållet i strömmen. Systemet ger dig information om hur många leads som är på väg att nå utmattat innehåll eller hur länge leads har uttömts.
 
 ![](assets/image2014-9-22-16-3a30-3a50.png)
 
-## Kommunikationsbegränsningar {#communication-limits}
+## Kommunikationsgränser {#communication-limits}
 
 Vill du sluta skicka för mycket e-post? Nu är det enkelt att automatiskt begränsa frekvensen till varje enskild person. Ange helt enkelt en gräns för kommunikationen per dag och vecka så sköter systemet resten. Finns i Select, Enterprise och med tilläggspaketet för standardkunder.
 
 ![](assets/image2014-9-22-16-3a31-3a13.png)
 
-## Cobalt-användargränssnitt {#cobalt-user-interface}
+## Kobolt användargränssnitt {#cobalt-user-interface}
 
 Under de närmaste månaderna kommer du att märka att mer av vårt nya tema kommer att lanseras i olika delar av programmet. Inga funktioner kommer att flyttas eller tas bort.
 
