@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Filtrera en programrapport efter tagg {#filter-a-program-report-by-tag}
 
-Fokusera på din [rapport](create-a-program-performance-report.md)om programprestanda för specifika [taggar](http://docs.marketo.com/display/docs/tags).
+Fokusera din [programresultatrapport](create-a-program-performance-report.md)på specifika [taggar](http://docs.marketo.com/display/docs/tags).
 
-1. Gå till **Marknadsföringsaktiviteter****(eller** Analytics ****).
+1. Gå till **Marknadsföring** **Aktiviteter** (eller **Analytics**).
 
    ![](assets/login-marketing-activities.png)
 
-1. Välj din **rapport om programprestanda** .
+1. Välj din **rapport om programprestanda**.
 
    ![](assets/image2014-9-23-16-3a12-3a36.png)
 
-1. Klicka på fliken **Inställningar** och dra över ett av **taggfiltren** .
+1. Klicka på fliken **Inställningar** och dra över något av **taggarna**-filtren.
 
    ![](assets/prospects.jpg)
 
@@ -35,7 +35,7 @@ Fokusera på din [rapport](create-a-program-performance-report.md)om programpres
 
    ![](assets/prospect2.jpg)
 
-1. Klart! Klicka på fliken **Rapport** om du *bara* vill se de program som matchar de markerade taggarna i rapporten.
+1. Klart! Klicka på fliken **Rapport** om du vill visa *bara* de program som matchar de markerade taggarna i rapporten.
 
    ![](assets/image2014-9-23-16-3a14-3a42.png)
 
