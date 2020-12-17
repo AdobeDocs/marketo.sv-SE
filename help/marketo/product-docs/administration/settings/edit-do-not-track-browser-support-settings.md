@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Redigera inställningar för stöd för Do Not Track-webbläsare {#edit-do-not-track-browser-support-settings}
+# Redigera inställningarna för stöd för Do Not Track i webbläsaren {#edit-do-not-track-browser-support-settings}
 
 &quot;Do Not Track&quot; är en webbläsarbegäran som inte ska spåras i system som Marketo. Du kan följa den begäran med följande steg.
 
@@ -48,5 +48,5 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Läs mer om &quot;Do Not Track&quot; och hur det fungerar på [den här sidan](https://en.wikipedia.org/wiki/Do_Not_Track).
+   >Mer information om Do Not Track (Spåra inte) och hur det fungerar finns på [den här sidan](https://en.wikipedia.org/wiki/Do_Not_Track).
 
