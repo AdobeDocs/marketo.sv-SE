@@ -79,7 +79,7 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
    <td>Poäng</td> 
    <td>mkto71_Lead_Score</td> 
    <td>Nummer</td> 
-   <td>Längd 10<br>decimaler 0 </td> 
+   <td>Längd 10<br>Decimaltecken 0 </td> 
   </tr> 
   <tr> 
    <td>Anskaffningsdatum</td> 
@@ -116,8 +116,8 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
 
    * Avmarkera kryssrutan **Skrivskyddad** för din synkroniseringsanvändares profil:
 
-      * Om du har en användare med profilen för en *systemadministratör* som synkroniseringsanvändare avmarkerar du kryssrutan **Skrivskyddad** för systemadministratörsprofilen (se nedan)
-      * Om du har skapat en *anpassad profil* för synkroniseringsanvändaren avmarkerar du kryssrutan **Skrivskyddad** för den anpassade profilen
+      * Om du har en användare med profilen *Systemadministratör* som synkroniseringsanvändare avmarkerar du kryssrutan **Skrivskyddad** för systemadministratörsprofilen (som visas nedan)
+      * Om du skapade en *anpassad profil* för synkroniseringsanvändaren avmarkerar du kryssrutan **Skrivskyddad** för den anpassade profilen
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -159,7 +159,7 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
    <td>ID för förvärvsprogram</td> 
    <td>mkto71_Acquisition_Program_Id</td> 
    <td>Nummer</td> 
-   <td>Längd 18<br>decimaler 0 </td> 
+   <td>Längd 18<br>Decimaltecken 0 </td> 
   </tr> 
   <tr> 
    <td>Ursprunglig referens</td> 
@@ -240,7 +240,7 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
 
 Ett anpassat fält på lead-objektet i Salesforce bör mappas till ett kontaktfält på kontaktobjektet så att data överförs när en konvertering inträffar.
 
-1. Klicka på **Konfigurera** i det övre högra hörnet.
+1. Klicka på **Inställningar** i det övre högra hörnet.
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
@@ -248,7 +248,7 @@ Ett anpassat fält på lead-objektet i Salesforce bör mappas till ett kontaktf�
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. Gå till avsnittet Leadanpassade fält och relationer och klicka på **Mappa lead-fält**.
+1. Gå till delen Leadanpassade fält och relationer och klicka på **Mappa lead-fält**.
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 
@@ -269,7 +269,7 @@ Ett anpassat fält på lead-objektet i Salesforce bör mappas till ett kontaktf�
 >
 >**Djupdykning**
 >
->Här är en länk till en [video om hela proceduren](https://nation.marketo.com/videos/1475) som ska göra den kristallklar!
+>Här är en länk till en [video av hela proceduren](https://nation.marketo.com/videos/1475) som bör göra den kristallklar!
 
 >[!NOTE]
 >
