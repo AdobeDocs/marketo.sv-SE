@@ -23,7 +23,7 @@ Du kanske vill veta vilka Salesforce-fält ett visst Marketo-fält är kopplat t
 
    ![](assets/image2014-9-19-9-3a54-3a26.png)
 
-1. Leta reda på fältet som du är intresserad av och klicka på **+** för att expandera mappningen.
+1. Hitta det fält som du är intresserad av att se och klicka på **+** för att utöka mappningen.
 
    ![](assets/image2014-9-19-9-3a54-3a34.png)
 
