@@ -16,10 +16,10 @@ ht-degree: 0%
 
 Så här ställer du in en texttoken som ska användas i program- och kampanjmappar.
 
-1. Dra en [!UICONTROL My Tokens] textvariabel **till arbetsytan på fliken** [!UICONTROL Local Tokens] i programmet eller mappen.
+1. Dra en **Text**-token till arbetsytan [!UICONTROL Local Tokens] på fliken [!UICONTROL My Tokens] i programmet eller mappen.
 
    ![Bild ett](/help/sky/assets/my-tokens/my-token-text/my-token-text-1.png)
 
-1. Ange ett namn för din nya token och lägg sedan till eventuell text. Klicka **[!UICONTROL Save]**.
+1. Ange ett namn för din nya token och lägg sedan till eventuell text. Klicka på **[!UICONTROL Save]**.
 
    ![Bild två](/help/sky/assets/my-tokens/my-token-text/my-token-text-2.png)
