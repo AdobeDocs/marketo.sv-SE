@@ -23,11 +23,11 @@ Ytterligare information om behörigheter:
 
 ## Tillgängliga behörigheter {#available-permissions}
 
-När du [skapar eller redigerar en roll](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)kan du välja vilken av följande behörigheter som ska tillåtas för den rollen genom att markera lämpliga rutor.
+När du [skapar eller redigerar en roll](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md) kan du välja vilken av följande behörigheter som ska tillåtas för den rollen genom att markera lämpliga rutor.
 
 ![](assets/createnewrole.png)
 
-## Åtkomstadministratör  {#access-admin}
+## Åtkomstadministratör {#access-admin}
 
 Visa och gör ändringar i inställningarna under Mitt konto i Admin.
 
@@ -35,7 +35,7 @@ Visa och gör ändringar i inställningarna under Mitt konto i Admin.
 * Åtkomstkanaler - Ger användarna åtkomst endast för att ändra kanaltaggen, inte andra anpassade taggar
 * Kommunikationsgräns för åtkomst - Ger användarna åtkomst för att aktivera en kommunikationsgräns i Admin
 * Access CRM - Ger användare åtkomst till CRM, som Salesforce eller Microsoft Dynamics, i Admin
-* Access [Data.com](http://Data.com) - ger användarna åtkomst till flödesåtgärden Data.com
+* Åtkomst till [Data.com](http://Data.com) - Ger användare åtkomst till flödesåtgärden på Data.com
 * Åtkomst till e-postadministratör - Ger användare behörighet att ändra standardinställningar, som att avbeställa prenumerationer och ange varumärke
 * Åtkomst till händelsepartners - Ger användarna åtkomst till LaunchPoint i Admin
 * Fälthantering för åtkomst - ger användarna åtkomst till fälthantering i Admin
@@ -59,9 +59,9 @@ Visa och gör ändringar i inställningarna under Mitt konto i Admin.
 * Åtkomst till webbhooks - Ger användare tillgång till webbhooks i Admin för att ställa in information och svarsmappningar
 * Åtkomst till arbetsytor och partitioner - Ger användarna tillgång till arbetsytor och partitioner i administratören för att skapa, redigera och ta bort
 
-## Åtkomst-API  {#access-api}
+## Åtkomst-API {#access-api}
 
-Ger användare åtkomst till de enskilda API:erna som anges nedan med enbart **** API- **rollen** .
+Ger användare med **API Endast** **rollen** åtkomst till de enskilda API:erna som listas nedan.
 
 * Godkänn resurser
 * Kör kampanj
@@ -94,7 +94,7 @@ Ger användarna åtkomst till Analytics-flikarna, e-postinsikter, rapporter och 
 * Ta bort rapport - Avmarkera tar bort användarens möjlighet att ta bort rapporter
 * Exportera analysdata - Avmarkering tar bort användarens möjlighet att exportera analysdata
 
-## Öppna Kalender för Presentations {#access-calendar-presentations}
+## Öppna kalendern Presentations {#access-calendar-presentations}
 
 Ger användare åtkomst till kalenderpresentationer ??- aktiverar visning av Presentations-knappen längst ned?
 
@@ -108,10 +108,10 @@ Ger användarna tillgång till fliken Design Studio och trädvyn, men inte till 
 
    * Redigera e-post - Ger användare behörighet att redigera, skapa och klona e-postmeddelanden
 
-      * Använd e-post - Ger användare behörighet att göra e-postmeddelanden operativa. Se: [Låt e-postmeddelanden fungera](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+      * Använd e-post - Ger användare behörighet att göra e-postmeddelanden operativa. Se: [Gör ett e-postmeddelande användbart](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
    * Godkänn e-post - Låter användarna godkänna e-postmeddelanden.
    * Ta bort e-post - Gör det möjligt för användare att ta bort e-postmeddelanden.
-   * Ange profilerad domän - Gör att användare kan arbeta med profileringsdomäner. Se: [Lägg till flera varumärkesdomäner](http://docs.marketo.com/display/docs/add+multiple+branding+domains)
+   * Ange profilerad domän - Gör att användare kan arbeta med profileringsdomäner. Se: [Lägg till flera profileringsdomäner](http://docs.marketo.com/display/docs/add+multiple+branding+domains)
 
 
 * E-postmall för åtkomst
@@ -172,11 +172,11 @@ Visa databasen samt visa och redigera smarta/statiska listor.
 * Importera anpassat objekt
 * Importera lista
 * Sammanfoga personer
-* Kör enkelflödesåtgärder - Gör det möjligt för användare att köra flödessteget **Ändra datavärde** på personer från databasen
+* Kör enkelflödesåtgärder - Gör att användare kan köra flödessteget **Ändra datavärde** på personer från databasen
 
 * Visa affärsmöjlighetsdata - Döljer affärsmöjlighetsinformationen på personinformationssidan
 
-## Access Marketing Activities {#access-marketing-activities}
+## Åtkomst till marknadsföringsaktiviteter {#access-marketing-activities}
 
 Visa fliken Marknadsföringsaktiviteter, kampanjer och kampanjmappar.
 
