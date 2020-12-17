@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Åsidosätt personbegränsningar i en smart kampanj {#override-person-restrictions-in-a-smart-campaign}
 
-Med Marketo kan du ange det högsta antalet* *personer som kan kvalificera sig för en smart kampanj; På så sätt slipper du oavsiktligt skicka hela databasen via e-post. Så här *åsidosätter* du den här gränsen.
+Med Marketo kan du ange det högsta antalet* *personer som kan kvalificera sig för en smart kampanj; På så sätt slipper du oavsiktligt skicka hela databasen via e-post. Om du vill *åsidosätta* den här gränsen gör du så här.
 
 >[!PREREQUISITES]
 >
->Se till att du [aktiverar personbegränsningar för smarta kampanjer](../../../../product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) i Marketo Admin.
+>Var noga med att [aktivera personbegränsningar för smarta kampanjer](../../../../product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) i Marketo Admin.
 
-1. Gå till din** **smarta kampanj och klicka på **Schemalägg** i Marknadsföringsaktiviteter.
+1. Gå till din** **smarta kampanj i marknadsföringsaktiviteter och klicka på **Schedule**.
 
    ![](assets/one.png)
 
