@@ -19,7 +19,7 @@ När du har aktiverat LinkedIn Lead Gen Forms kan du använda dem som filter och
 >
 >När någon skickar sin information i ett LinkedIn Lead Gen-formulär skickas den informationen direkt till Marketo, vilket gör formuläret tillgängligt i listrutan Formulärnamn för lead-Gen. Formulärnamn visas inte förrän minst en person har skickat formuläret.
 
-1. Använd utlösaren **Fyll i LinkedIn Lead Gen Form** för att vidta åtgärder direkt eller det **ifyllda LinkedIn Lead Gen Form** -filtret för schemalagda batchkampanjer eller standardfiltrering av smarta listor.
+1. Använd utlösaren **Fyll i LinkedIn Lead Gen Form** om du vill vidta åtgärder direkt eller filtret **Fylld i LinkedIn Lead Gen Form** om du vill använda schemalagda gruppkampanjer eller smart listfiltrering enligt standard.
 
    ![](assets/screen-shot-2017-03-29-at-2.38.03-pm.png)
 
