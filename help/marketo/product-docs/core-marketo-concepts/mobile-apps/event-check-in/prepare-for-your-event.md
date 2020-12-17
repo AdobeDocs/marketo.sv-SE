@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Förbered dig för ditt evenemang {#prepare-for-your-event}
+# Förbered dig för händelsen {#prepare-for-your-event}
 
 Det finns flera saker du måste göra för att göra dig redo för evenemanget.
 
 ## Skapa en ny Marketo-roll {#create-a-new-marketo-role}
 
-Marketo har en speciell användarroll för incheckningsappen för händelser.  [Skapa en ny Marketo-roll](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) för iPad- eller Android-användare med behörighet att komma åt mobilprogrammet.
+Marketo har en speciell användarroll för incheckningsappen för händelser.  [Skapa en ny Marketo-](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) roll för iPad- eller Android-användare med behörighet att komma åt mobilappen.
 
-## Bjud in nya användare på surfplattan till evenemanget {#invite-new-tablet-users-to-the-event}
+## Bjud in nya användare på surfplattan till händelsen {#invite-new-tablet-users-to-the-event}
 
-[Bjud in nya surfplatteanvändare till evenemanget](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) och tilldela dem den nya rollen.
+[Bjud in nya surfplatteanvändare till ](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) händelsen och tilldela dem den nya rollen.
 
 ## Skapa ett nytt Marketo Event Program {#create-a-new-marketo-event-program}
 
-[Skapa ett nytt Marketo-eventprogram](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) för att fånga upp personernas status när de går igenom olika faser och få korrekta mått på avkastningen för era marknadsföringssatsningar.
+[Skapa ett nytt Marketo-](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) händelseprogram som fångar upp personernas status när de går igenom olika faser och får korrekta mått på avkastningen för era marknadsföringssatsningar.
 
 ## Ange händelsedatum {#specify-the-event-dates}
 
@@ -45,17 +45,17 @@ Det går snabbt att ställa in dina händelsedatum.
 
 ## Lägg till personer i din aktivitet {#add-people-to-your-event}
 
-Nu när du vet *när*, är det dags att lägga till *vem*.
+Nu när du känner till *när* är det dags att lägga till *vem*.
 
 1. Om du redan har en lista över personer klickar du på panelen **Databas** i Min Marketto.
 
    ![](assets/db.png)
 
-1. Markera en lista med personer och klicka på fliken **Personer** .
+1. Välj en lista med personer och klicka på fliken **Personer**.
 
    ![](assets/four.png)
 
-1. Välj personer för din aktivitet i listan. Använd **Ctrl** (eller **Kommando** på Mac) om du vill klicka på flera personer, eller **Markera alla** om du vill markera alla.
+1. Välj personer för din aktivitet i listan. Använd **Ctrl** (eller **Kommando** på en Mac) om du vill klicka på flera personer, eller **Markera alla** om du vill markera alla.
 
    ![](assets/five.png)
 
@@ -63,11 +63,11 @@ Nu när du vet *när*, är det dags att lägga till *vem*.
 
    ![](assets/six.png)
 
-1. Klicka på listrutan **Program** och välj din aktivitet.
+1. Klicka på listrutan **Program** och välj din händelse.
 
    ![](assets/seven.png)
 
-1. Klicka på listrutan **Ny status** och välj **Roadshow > Registrerad**. Klicka på **Kör nu**.
+1. Klicka på listrutan **New Status** och välj **Roadshow > Registered**. Klicka på **Kör nu**.
 
    ![](assets/eight.png)
 
