@@ -23,11 +23,11 @@ En gång i kvartalet kommer Marketo att hitta smarta kampanjer som har stannat (
 
 Självklart! En gång per kvartal får ni ett meddelande en vecka i förväg med alla kampanjer vi planerar att inaktivera.
 
-1. Gå till fliken **Meddelanden** .
+1. Gå till fliken **Notifications**.
 
    ![](assets/notifications.png)
 
-1. Klicka på **Inaktiv utlösare för kampanjrensning schemalagd**. Klicka sedan på **länken **Dessa inaktiva utlösarkampanjer inaktiveras.** **
+1. Klicka på **Schemalagd rensning av inaktiv utlösarkampanj**. Klicka sedan på länken **Dessa inaktiva utlösarkampanjer inaktiveras **länken.** **
 
    ![](assets/image2015-4-27-20-3a48-3a35.png)
 
@@ -52,7 +52,7 @@ Antingen återställs 6-månadersräknaren.
 
 Absolut - en vecka efter det ursprungliga meddelandet inaktiverar vi de listade kampanjerna (minus alla som kvalificerat minst en person eller inaktiverats/återaktiverats) och skickar ett bekräftelsemeddelande.
 
-1. Välj meddelandet **Inaktiv utlösare för kampanjrensning som schemalagts **i. Klicka på länken **Dessa inaktiva utlösarkampanjer** .
+1. Välj meddelandet **Inaktiv utlösare för kampanjrensning som schemalagts **i. Klicka på länken **Dessa inaktiva utlösarkampanjer**.
 
    ![](assets/image2015-4-27-20-3a56-3a41.png)
 
