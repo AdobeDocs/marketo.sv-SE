@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Skapa och använda ett sammanfogat strängfält (formel) {#create-and-use-a-concatenated-string-formula-field}
+# Skapa och använd ett sammanfogat strängfält (formel) {#create-and-use-a-concatenated-string-formula-field}
 
 Du kan kombinera värden från flera fält eller skapa ett villkorsstyrt värde med hjälp av ett Marketo-formelfält.
 
@@ -23,7 +23,7 @@ Du kan kombinera värden från flera fält eller skapa ett villkorsstyrt värde 
 
    ![](assets/image2014-9-19-9-3a45-3a8.png)
 
-1. Välj **Formel** som **typ**.
+1. Välj **Formel** som **Typ**.
 
    ![](assets/image2014-9-19-9-3a45-3a17.png)
 
@@ -39,7 +39,7 @@ Du kan kombinera värden från flera fält eller skapa ett villkorsstyrt värde 
 
    ![](assets/image2014-9-19-9-3a46-3a25.png)
 
-   Läs mer om [tokens för flödessteg](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
+   Läs mer om [token för flödessteg](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
 
 1. Nu kan du lägga till formelfältet som en token i ett e-postmeddelande.
 
