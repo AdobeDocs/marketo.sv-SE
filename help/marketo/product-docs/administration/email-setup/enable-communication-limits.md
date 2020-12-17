@@ -19,7 +19,7 @@ Det är viktigt att inte överkommunicera med era medarbetare. Genom att ange ko
 >
 >**Administratörsbehörigheter krävs**
 
-1. Under **Admin** klickar du på **Kommunikationsbegränsningar**.
+1. Klicka på **Kommunikationsbegränsningar** under **Admin**.
 
    ![](assets/image2014-9-18-15-3a53-3a37.png)
 Klicka på Redigera.
@@ -42,13 +42,13 @@ Klicka på Redigera.
 
    ![](assets/four.png)
 
-1. Välj **Blockera icke-fungerande e-postmeddelanden**.
+1. Välj **Blockera icke-operativa e-postmeddelanden**.
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >Läs mer om vilka [e-postmeddelanden](http://docs.marketo.com/display/DOCS/Make+an+Email+Operational) som används.
+   >Läs mer om vad [fungerande e-postmeddelanden](http://docs.marketo.com/display/DOCS/Make+an+Email+Operational) är.
 
 1. Klicka på **Spara**.
 
