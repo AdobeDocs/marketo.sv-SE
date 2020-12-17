@@ -19,11 +19,11 @@ Följ stegen nedan för att använda Mina token för att infoga URL:er i dina e-
 
    ![](assets/one-4.png)
 
-1. Välj **Text** My Token, dra och släpp den på arbetsytan.
+1. Markera **texten** Min token, dra och släpp den på arbetsytan.
 
    ![](assets/two-4.png)
 
-1. Ge variabeln ett unikt namn, ange en URL (utan mappen http://) och klicka på **Spara**.
+1. Ge variabeln ett unikt namn, ange en URL (utan http://) och klicka på **Spara**.
 
    ![](assets/three-4.png)
 
@@ -51,7 +51,7 @@ Följ stegen nedan för att använda Mina token för att infoga URL:er i dina e-
    >
    >Du kan förstås även ange&quot;https&quot; om webbplatsen använder den.
 
-1. Leta reda på din Min token, markera den och klicka på **Infoga**.
+1. Leta reda på din My Token, markera den och klicka på **Infoga**.
 
    ![](assets/eight.png)
 
@@ -63,7 +63,7 @@ Följ stegen nedan för att använda Mina token för att infoga URL:er i dina e-
 
    ![](assets/ten.png)
 
-1. Tryck på Ctrl/Cmd+V för att klistra in innehållet i **URL** -rutan och klicka sedan på **Infoga**.
+1. Tryck på Ctrl/Cmd+V för att klistra in innehållet i rutan **URL** och klicka på **Infoga**.
 
    ![](assets/eleven.png)
 
