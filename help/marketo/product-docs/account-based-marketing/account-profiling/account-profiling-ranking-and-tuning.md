@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Rankning och justering av kontoprofilering {#account-profiling-ranking-and-tuning}
+# Rankning och justering för kontoprofilering {#account-profiling-ranking-and-tuning}
 
 Kontoprofilering identifierar din Ideal Customer Profile (ICP), rangordnar företag i din databas baserat på ICP och lägger till ICP Indicator-data till konton som befordrats som namngivna konton.
 
@@ -21,7 +21,7 @@ Resultaten visar alla dina kända konton uppdelade efter grad. A är av högsta 
 
 ![](assets/results.png)
 
-Även om det är valfritt rekommenderar vi att du markerar kryssrutan Automatiskt befordra eftersom du då sparar mycket tid. Men om du vill gå igenom varje konto och [lägga till dem manuellt](http://docs.marketo.com/display/DOCS/Discover+Accounts#DiscoverAccounts-DiscoverCRMAccounts)lämnar du bara rutan avmarkerad.
+Även om det är valfritt rekommenderar vi att du markerar kryssrutan Automatiskt befordra eftersom du då sparar mycket tid. Men om du vill gå igenom varje konto och [lägga till dem manuellt](http://docs.marketo.com/display/DOCS/Discover+Accounts#DiscoverAccounts-DiscoverCRMAccounts) lämnar du bara rutan avmarkerad.
 
 <table> 
  <tbody> 
@@ -89,13 +89,13 @@ Klicka på listrutan Lägg till ICP-indikator för att infoga ytterligare indika
 
 ![](assets/add-icp.png)
 
-Om du markerar rutan Exportera kan du se ICP-indikatorn på sidan med namngivna kontouppgifter, och du kan använda den valda ICP-indikatorn som begränsningar i [namngivna kontofilter](http://docs.marketo.com/display/DOCS/Account+Filters).
+Om du markerar rutan Exportera kan du se ICP-indikatorn på sidan med namngivna kontouppgifter, och du kan använda den valda ICP-indikatorn som begränsningar i [filter för namngivna konton](http://docs.marketo.com/display/DOCS/Account+Filters).
 
 ![](assets/export.png)
 
 >[!NOTE]
 >
->ICP-indikatorer inkluderas som begränsningar i **Medlem av filter för namngivet konto** och utlösare.
+>ICP-indikatorer inkluderas som begränsningar i **Medlem i namngivet konto** Filter och utlösare.
 
 Indikatorns viktning styr den prioritetsnivå som varje indikator får i din modell.
 
