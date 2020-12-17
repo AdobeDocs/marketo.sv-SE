@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Konfigurera checklista {#setup-checklist}
 
-Välkommen till Marketo! Du kan använda följande checklista som en visuell att göra-lista för att komma igång. Mer information finns i [installationsstegen](/help/marketo/getting-started/setup-steps.md).
+Välkommen till Marketo! Du kan använda följande checklista som en visuell att göra-lista för att komma igång. Information finns i [installationssteg](/help/marketo/getting-started/setup-steps.md).
 
 ## Logga in på Marketo och skapa ytterligare användare {#log-in-to-marketo-and-create-additional-users}
 
