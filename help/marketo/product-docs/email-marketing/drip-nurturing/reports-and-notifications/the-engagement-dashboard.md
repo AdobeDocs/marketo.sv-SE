@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Instrumentpanelen för engagemang {#the-engagement-dashboard}
 
-Engagement Dashboard är det enklaste sättet att se hur innehållet i era [engagemangsprogram](http://docs.marketo.com/display/docs/drip+nurturing) fungerar.
+Engagement Dashboard är det enklaste sättet att se hur innehållet i [engagemangsprogrammen](http://docs.marketo.com/display/docs/drip+nurturing) fungerar.
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Välj ditt engagemangsprogram och klicka på **Visa > Kontrollpanel**.
 
 >[!TIP]
 >
->Mer detaljerad statistik finns i rapporten [om hur](engagement-stream-performance-report.md) engagemangsströmmen fungerar.
+>Mer detaljerad statistik finns i [rapporten om hur engagemangsströmmen fungerar](engagement-stream-performance-report.md).
 
 ## Förstå utgiftswidgeten {#understand-the-exhaustion-widget}
 
@@ -37,7 +37,7 @@ Med den här widgeten kan du förutse när leads har fyllt allt innehåll. Utmat
 
 >[!NOTE]
 >
->Du måste gå till fliken Inställningar och se till att meddelanden om utfyllt innehåll är **aktiverade** för att se diagrammet ovan. Om de är avaktiverade ser diagrammet annorlunda ut.
+>Du måste gå till fliken Inställningar och kontrollera att meddelanden om utfyllt innehåll är **On** för att se diagrammet ovan. Om de är avaktiverade ser diagrammet annorlunda ut.
 
 >[!CAUTION]
 >
@@ -69,11 +69,11 @@ Om du vill ändra sorteringen klickar du på kugghjulsikonen och väljer sedan s
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-*Nyaste* och *Äldsta* baseras på tiden för senaste godkännande.
+** Newestand  ** Oldestare baseras på tidpunkten för det senaste godkännandet.
 
 >[!NOTE]
 >
 >**Djupdykning**
 >
->Läs mer i [Create an Engagement Program](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) .
+>Läs mer i [Create an Engagement Program](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) deep dive.
 
