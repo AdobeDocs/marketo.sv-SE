@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Om Marketo-stunder {#understanding-marketo-moments}
+# Om Marketo Moments {#understanding-marketo-moments}
 
 Marketos styrka ligger nu i dina händer, bokstavligen! Förhandsgranska och schemalägg om e-post direkt från telefonen eller iPad.
 
@@ -21,7 +21,7 @@ Marketos styrka ligger nu i dina händer, bokstavligen! Förhandsgranska och sch
 >
 >Åtkomst till mobilappar krävs. Kontakta Marketo Admin för att [uppdatera din roll](../../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
-## Vi presenterar några ögonblick {#introducing-moments}
+## Vi presenterar stunder {#introducing-moments}
 
 `<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/IJfpzE8l73E" frameborder="0" allowfullscreen></iframe>`
 
@@ -49,15 +49,15 @@ Okej, nu när vi har det ur vägen kan vi ta en titt på Marketo Moments på en 
 
 Marketo Moments ger dig tre olika kort som du kan använda för att följa ditt e-postmeddelande:
 
-**On-Deck** - Det här e-postmeddelandet är på väg att gå ut. Det är din sista chans att förhandsgranska, skicka ett prov eller till och med avbryta om du behöver det.
+**On-Deck**  - Det här e-postmeddelandet är på väg att gå ut. Det är din sista chans att förhandsgranska, skicka ett prov eller till och med avbryta om du behöver det.
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**hjärtklappning** - Hallå - det här mejlet skickas nu! Och här är statistik också. Dela med dig.
+**hjärtklappning**  - Hej - det här mejlet skickas nu! Och här är statistik också. Dela med dig.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**Resultat** - Så här gjorde e-postmeddelandet. När e-postmeddelandet har körts klart visas engagemangspoängen och annan status på resultatkortet.
+**Resultat**  - Så här gjorde e-postmeddelandet. När e-postmeddelandet har körts klart visas engagemangspoängen och annan status på resultatkortet.
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
@@ -105,11 +105,11 @@ I avsnittet Senare visas kommande aktiviteter.
 
    >[!NOTE]
    >
-   >Enligt [Guinness Book of World Records](http://www.guinnessworldrecords.com/world-records/largest-hamburger)vägde världens största hamburgare 2 014 lbs.
+   >Enligt [Guinness Book of World Records](http://www.guinnessworldrecords.com/world-records/largest-hamburger) vägde världens största hamburgare 2 014 lbs.
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
-1. Tryck **senare**.
+1. Tryck på **Senare**.
 
    ![](assets/image2015-7-15-10-3a54-3a47.png)
 
@@ -147,7 +147,7 @@ Smarta kampanjkort är en enda kampanjserie. Ett nytt kort visas varje gång den
 
 ## Bekräfta eller avbryta en åtgärd {#confirm-or-cancel-an-action}
 
-Under alla steg på vägen kan du bekräfta eller avbryta en åtgärd. Om du ändrar dig, tryck bara på **Aldrig Mind**.
+Under alla steg på vägen kan du bekräfta eller avbryta en åtgärd. Om du ångrar dig trycker du bara på **Minska aldrig**.
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
@@ -164,7 +164,7 @@ Vill du lära dig mer?
 
 
 
-## Versioner som stöds  {#supported-versions}
+## Versioner som stöds {#supported-versions}
 
 Marketo Moments har stöd för följande operativsystemversioner:
 
