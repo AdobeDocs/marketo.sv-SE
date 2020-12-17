@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Skapa en e-postskripttoken {#create-an-email-script-token}
 
-För avancerade utvecklare kan du använda [Velocity-skript](http://velocity.apache.org/engine/1.7/user-guide.html) i dina e-postmeddelanden. Så här gör du.
+För avancerade utvecklare kan du använda [snabbskript](http://velocity.apache.org/engine/1.7/user-guide.html) i dina e-postmeddelanden. Så här gör du.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/ma.png)
 
@@ -23,15 +23,15 @@ För avancerade utvecklare kan du använda [Velocity-skript](http://velocity.apa
 
    ![](assets/image2014-9-17-22-3a21-3a24.png)
 
-1. Under fliken **Mina token** drar du i en **e-postskripttoken** .
+1. Under fliken **Mina token** drar du i en **e-postskript**-token.
 
    ![](assets/image2014-9-17-22-3a21-3a29.png)
 
-1. Namnge din e-postskripttoken och **klicka för att redigera** innehållet.
+1. Namnge din e-postskripttoken och **klicka för att redigera** dess innehåll.
 
    ![](assets/image2014-9-17-22-3a21-3a46.png)
 
-1. Använd trädet till höger för att dra i token för **person, möjlighet** eller **anpassat objekt** .
+1. Använd trädet till höger för att dra i token **Person, Opportunity** eller **Custom Object**.
 
    ![](assets/five-2.png)
 
