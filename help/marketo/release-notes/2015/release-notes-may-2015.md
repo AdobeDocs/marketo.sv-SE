@@ -29,7 +29,7 @@ Vi lanserar ett nytt redigeringsläge för landningssidor och mallsyntax. Till s
 
 Träffade du skicka innan ett e-postprogram var klart att skickas? Bromsa med den nya knappen för avbrutet e-postprogram. Detta stoppar e-postprogram direkt i sina spår.
 
-## E-postleverans  {#email-deliverability}
+## E-postleverans {#email-deliverability}
 
 Marketo kommer nu att köra automatiska SPF- och DKIM-kontroller varje vecka på dina tillagda domäner. Håll dig uppdaterad genom att kontrollera dina meddelanden.
 
@@ -37,13 +37,13 @@ Marketo kommer nu att köra automatiska SPF- och DKIM-kontroller varje vecka på
 
 Från och med den här versionen är giltiga HTML-kommentarer nu tillåtna och tas inte bort när nya e-postmeddelanden skapas.
 
-## RTP: Dra och släpp segmentredigerare {#rtp-drag-and-drop-segment-editor}
+## RTP: Dra och släpp segmentredigeraren {#rtp-drag-and-drop-segment-editor}
 
 RTP: [Dra och släpp segmentredigerare](https://docs.marketo.com/display/public/DOCS/RTP+Segments)
 
 Dra och släpp villkoren i segmentbyggaren, definiera värdet och du är bra på att skapa ett realtidssegment.
 
-## RTP: Prediktiv text Recommendations {#rtp-predictive-content-recommendations}
+## RTP: Predictive Content Recommendations {#rtp-predictive-content-recommendations}
 
 [Prediktiv text Recommendations](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine)
 
