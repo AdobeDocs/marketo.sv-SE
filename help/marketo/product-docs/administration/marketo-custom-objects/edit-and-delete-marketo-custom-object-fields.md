@@ -41,7 +41,7 @@ Ibland behöver du redigera ett fält som inte har godkänts än.
 
 Om du inte behöver ett fält i ett anpassat objekt längre kan du ta bort det.
 
-1. På fliken Fält klickar du på **Fältåtgärder** och **Ta bort fält**.
+1. Klicka på **Fältåtgärder** och **Ta bort fält** på fliken Fält.
 
    ![](assets/image2015-10-2-11-3a11-3a20.png)
 
