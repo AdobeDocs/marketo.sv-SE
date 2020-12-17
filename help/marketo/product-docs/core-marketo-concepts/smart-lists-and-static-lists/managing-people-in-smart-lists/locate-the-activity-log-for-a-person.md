@@ -23,11 +23,11 @@ Aktivitetsloggen är den ultimata källan till sanning. Det här är den fullst�
 
    ![](assets/two-6.png)
 
-1. Klicka på fliken **Personer** . Välj ett person- **ID** -nummer.
+1. Klicka på fliken **Personer**. Välj en person **ID**-nummer.
 
    ![](assets/three-5.png)
 
-1. Klicka på **Aktivitetslogg**.
+1. Klicka på **Aktivitetsloggen**.
 
    ![](assets/four-3.png)
 
@@ -40,5 +40,5 @@ Aktivitetsloggen är den ultimata källan till sanning. Det här är den fullst�
    >**Relaterade artiklar**
    >
    >
-   >Läs mer om hur du [filtrerar aktivitetsloggen](filter-activity-types-in-the-activity-log-of-a-person.md)för att se specifika personaktiviteter.
+   >Läs mer om [filtrering av aktivitetsloggen](filter-activity-types-in-the-activity-log-of-a-person.md)för att se specifika personaktiviteter.
 
