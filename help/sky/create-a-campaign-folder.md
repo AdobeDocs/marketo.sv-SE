@@ -24,7 +24,7 @@ Campaign-mappar hjälper dig att behålla en aktuell arbetsyta. Följ dessa enkl
 
    ![Bild ett](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-2.png)
 
-1. Du kan också lägga till en beskrivning och/eller etiketter i kampanjmappen. Om du skapar kampanjmappen i en befintlig mapp kan du även kopiera etiketterna från den överordnade resursen. Klicka **[!UICONTROL Create]**.
+1. Du kan också lägga till en beskrivning och/eller etiketter i kampanjmappen. Om du skapar kampanjmappen i en befintlig mapp kan du även kopiera etiketterna från den överordnade resursen. Klicka på **[!UICONTROL Create]**.
 
    ![Bild ett](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-3.png)
 
