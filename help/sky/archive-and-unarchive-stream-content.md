@@ -25,7 +25,7 @@ Om du inte längre vill använda innehåll i en ström kan du antingen [ta bort]
 
    ![Bild ett](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-1.png)
 
-1. Klicka på **[!UICONTROL Streams]** fliken
+1. Klicka på fliken **[!UICONTROL Streams]**
 
    ![Bild två](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-2.png)
 
@@ -45,11 +45,11 @@ Så ja! Kom ihåg att arkivera om du vill bevara historiken.
 
    ![Bild fem](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-5.png)
 
-1. Klicka på **[!UICONTROL Streams]** fliken.
+1. Klicka på fliken **[!UICONTROL Streams]**.
 
    ![Bild sex](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-6.png)
 
-1. Klicka på kugghjulsikonen för strömmen och klicka sedan **[!UICONTROL Show Archived Content]**.
+1. Klicka på kugghjulsikonen för strömmen och klicka sedan på **[!UICONTROL Show Archived Content]**.
 
    ![Bild sju](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-7.png)
 
