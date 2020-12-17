@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Filtrera i granskningsspår {#filtering-in-audit-trail}
+# Filtrerar i granskningsspår {#filtering-in-audit-trail}
 
 Filtrera efter tidsram, resurstyp, användare, åtgärd med mera.
 
@@ -19,7 +19,7 @@ Filtrera efter tidsram, resurstyp, användare, åtgärd med mera.
 
    ![](assets/one-1.png)
 
-1. Välj **Granskningsspår under** Dokumentskydd ****.
+1. Välj **Granskningsspår** under **Säkerhet**.
 
    ![](assets/two-1.png)
 
@@ -29,7 +29,7 @@ Filtrera efter tidsram, resurstyp, användare, åtgärd med mera.
 
    >[!NOTE]
    >
-   >Det finns en mängd möjliga sökparameterkombinationer. I det här exemplet hittar vi: *alla e-postmeddelanden - redigerade av vem som helst - de senaste sju dagarna*.
+   >Det finns en mängd möjliga sökparameterkombinationer. I det här exemplet hittar vi: *alla e-postmeddelanden - redigerade av alla - de senaste sju dagarna*.
 
 1. Klicka på listrutan **Period** och välj **Senaste 7 dagarna**.
 
