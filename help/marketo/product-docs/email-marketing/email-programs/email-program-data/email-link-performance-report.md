@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Skapa en prestandarapport för e-postlänkar för att se hur bra länkarna i dina e-postmeddelanden fungerar.
 
-1. [Skapa en rapport i ett program](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj **E-postlänksprestanda** som rapporttyp.
+1. [Skapa en rapport i ett ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) program och välj  **E-** postlänksprestanda som rapporttyp.
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
-1. Klicka på **Konfigurera**.
+1. Klicka på **Inställningar**.
 
    ![](assets/image2015-5-20-11-3a18-3a0.png)
 
@@ -39,7 +39,7 @@ Skapa en prestandarapport för e-postlänkar för att se hur bra länkarna i din
 
    ![](assets/image2015-5-20-11-3a23-3a33.png)
 
-[Kolumner som är tillgängliga](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en rapport om e-postlänkens prestanda är:
+[Kolumner ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) som är tillgängliga för en e-postlänkprestandarapport är:
 
 <table> 
  <thead> 
@@ -74,7 +74,7 @@ Skapa en prestandarapport för e-postlänkar för att se hur bra länkarna i din
 
 >[!TIP]
 >
->Om du vill veta exakt vad en enskild person gjorde kan du öppna [aktivitetsloggen](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) på sidan [Personinformation](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) på fliken Medlemmar i programmet.
+>Om du vill veta exakt vad en enskild person gjorde kan du öppna sidan [Aktivitetslogg](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) på sidan [Personinformation](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) på fliken Medlemmar i programmet.
 
 >[!MORELIKETHIS]
 >
