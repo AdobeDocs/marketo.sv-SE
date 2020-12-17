@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Drip, Drift, Struktur {#drip-drip-nurture}
+# Drip, Drip, Struktur {#drip-drip-nurture}
 
-## Uppdrag: Ge de personer som deltog i ditt senaste mässor en chans {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
+## Uppdrag: Ge de personer som deltog i ditt senaste varumärke {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
 
 Du kan enkelt skapa ett avancerat och sofistikerat vårdsystem i Marketo. Så här gör du!
 
@@ -23,17 +23,17 @@ Du kan enkelt skapa ett avancerat och sofistikerat vårdsystem i Marketo. Så h�
 >* [Importera en lista med personer](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 
-## Steg 1: Skapa ett engagerande program {#step-create-an-engagement-program}
+## Steg 1: Skapa ett engagemangsprogram {#step-create-an-engagement-program}
 
-1. Gå till området **Marknadsföringsaktiviteter** .
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/one-3.png)
 
-1. Välj **Utbildningsmappen** , klicka på listrutan **Nytt** och välj **Nytt program**.
+1. Välj mappen **Learning**, klicka på listrutan **Nytt** och välj **Nytt program**.
 
    ![](assets/two-4.png)
 
-1. Ange ett **namn** och välj sedan **Deltagande** som **programtyp**.
+1. Ange ett **namn** och välj **engagemang** som **programtyp**.
 
    ![](assets/three-3.png)
 
@@ -45,7 +45,7 @@ Du kan enkelt skapa ett avancerat och sofistikerat vårdsystem i Marketo. Så h�
 
 ## Steg 2: Skapa ett e-postmeddelande {#step-create-an-email}
 
-1. Välj engagemangsprogram, klicka på **Nytt** och välj **Ny lokal resurs**.
+1. Välj engagemangsprogram, klicka sedan på **Nytt** och välj **Ny lokal resurs**.
 
    ![](assets/five-3.png)
 
@@ -53,7 +53,7 @@ Du kan enkelt skapa ett avancerat och sofistikerat vårdsystem i Marketo. Så h�
 
    ![](assets/six-3.png)
 
-1. Ange ett **namn**, markera den **mall** som du vill använda och klicka på **Skapa**.
+1. Ange ett **namn**, välj den **mall** som du vill använda och klicka på **Skapa**.
 
    ![](assets/seven-4.png)
 
@@ -77,7 +77,7 @@ Du kan enkelt skapa ett avancerat och sofistikerat vårdsystem i Marketo. Så h�
 
    ![](assets/eleven-3.png)
 
-1. Klicka på **Godkänn under** E-poståtgärder ****.
+1. Klicka på **Godkänn** under **E-poståtgärder**.
 
    ![](assets/twelve-2.png)
 
@@ -93,7 +93,7 @@ Du kan enkelt skapa ett avancerat och sofistikerat vårdsystem i Marketo. Så h�
 
 1. Nu är det dags att skapa en ström av innehåll för engagemangsprogrammet med hjälp av de e-postmeddelanden du skapat.
 
-1. Välj engagemangsprogrammet och klicka på fliken **Streams** .
+1. Välj ditt engagemangsprogram och klicka på fliken **Streams**.
 
    ![](assets/fourteen-2.png)
 
@@ -103,7 +103,7 @@ Du kan enkelt skapa ett avancerat och sofistikerat vårdsystem i Marketo. Så h�
 
    >[!TIP]
    >
-   >Du kan också använda knappen **Lägg till innehåll** eller direktuppspelningsikonen **+** .
+   >Du kan också använda knappen **Lägg till innehåll** eller direktuppspelningsikonen **+**.
 
 ## Steg 4: Aktivera ströminnehåll {#step-activate-stream-content}
 
@@ -117,13 +117,13 @@ Du kan enkelt skapa ett avancerat och sofistikerat vårdsystem i Marketo. Så h�
 
    Bra jobbat! Ett steg till så är engagemangsprogrammet klart.
 
-## Steg 5: Ange strömbrytaren {#step-set-the-stream-cadence}
+## Steg 5: Ange Stream Cadence {#step-set-the-stream-cadence}
 
 1. Klicka på **Ange strömavslut**.
 
    ![](assets/seventeen.png)
 
-1. Redigera inställningarna enligt det schema som du vill ha och klicka på **Spara**.
+1. Redigera inställningarna så att de matchar det schema du vill ha och klicka på **Spara**.
 
    ![](assets/image2014-9-24-12-3a49-3a5.png)
 
@@ -135,7 +135,7 @@ Du kan enkelt skapa ett avancerat och sofistikerat vårdsystem i Marketo. Så h�
 
 ## Steg 6: Lägg till en testperson i ditt engagemangsprogram {#step-add-a-test-person-to-your-engagement-program}
 
-1. Gå till området **Databas** .
+1. Gå till området **Databas**.
 
    ![](assets/nineteen-1.png)
 
@@ -151,7 +151,7 @@ Du kan enkelt skapa ett avancerat och sofistikerat vårdsystem i Marketo. Så h�
 
    ![](assets/twenty-one.png)
 
-1. Välj **Program** och **Stream** och klicka sedan på **Kör nu**.
+1. Välj ditt **program** och **direktuppspelning** och klicka sedan på **Kör nu**.
 
    ![](assets/twenty-two.png)
 
