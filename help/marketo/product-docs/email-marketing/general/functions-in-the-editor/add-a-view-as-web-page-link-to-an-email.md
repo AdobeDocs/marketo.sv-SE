@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Lägg till en länk för Visa som webbsida i ett e-postmeddelande {#add-a-view-as-web-page-link-to-an-email}
+# Lägg till en Visa som webbsideslänk i ett e-postmeddelande {#add-a-view-as-web-page-link-to-an-email}
 
 E-postmeddelanden har begränsade funktioner (begränsad CSS och inga JavaScript eller formulär). Använd Visa som webbsida om du vill skapa en länk för att visa din e-post i en webbläsare. Detta gör att mottagaren cookie använder Munchkin.
 
@@ -39,4 +39,4 @@ Här är ett exempel på hur det ser ut:
 >
 >Du kommer inte att se länken Visa som webbsida förrän du skickar e-postmeddelandet. Skicka dig själv ett test att titta på.
 
-Mer information om hur du ändrar standardtexten finns i [Redigera meddelandet](../../../../product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)Visa som webbsida.
+Information om hur du ändrar standardtexten finns i [Redigera meddelandet &quot;Visa som webbsida&quot;](../../../../product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).
