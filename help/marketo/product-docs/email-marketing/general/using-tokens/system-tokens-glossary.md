@@ -21,57 +21,57 @@ Förutom persontokens kan du använda några riktigt coola systemtokens. Här ä
 
 ## system.date {#system-date}
 
-Detta innebär att `{{system.date}}` token återger aktuellt datum vid körning: **8 aug 2013**
+`{{system.date}}`-token kommer att återge aktuellt datum vid körning så här: **8 aug 2013**
 
 **Fungerar i:**
 
-* [Ändra flödessteg för](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) datavärde
-* [Intressant](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) övergångsflödessteg
-* [Skapa steg för](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) uppgiftsflöde
+* [Ändra ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) datavärdessteg
+* [Intressant ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) steg för Momentflow
+* [Skapa ](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) uppgiftsflödessteg
 * Innehållet i ett e-postmeddelande eller en mall
 
 ## system.time {#system-time}
 
-Token återger den aktuella tiden vid körning på följande sätt: `{{system.time}}` **04:34 PM (GMT -0700)**
+Token `{{system.time}}` återger aktuell tid vid körning så här: **04:34 PM (GMT -0700)**
 
 **Fungerar i:**
 
-* [Ändra flödessteg för](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) datavärde
-* [Intressant](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) övergångsflödessteg
-* [Skapa steg för](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) uppgiftsflöde
+* [Ändra ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) datavärdessteg
+* [Intressant ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) steg för Momentflow
+* [Skapa ](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) uppgiftsflödessteg
 * Innehållet i ett e-postmeddelande eller en mall
 
 ## system.dateTime {#system-datetime}
 
-Token återger `{{system.dateTime}}` aktuellt datum och aktuell tid vid körning på följande sätt: **2013-08-08 16:36:13**
+Token `{{system.dateTime}}` återger aktuellt datum och aktuell tid vid körning så här: **2013-08-08 16:36:13**
 
 **Fungerar i:**
 
-* [Ändra flödessteg för](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) datavärde
-* [Intressant](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) övergångsflödessteg
-* [Skapa steg för](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) uppgiftsflöde
+* [Ändra ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) datavärdessteg
+* [Intressant ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) steg för Momentflow
+* [Skapa ](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) uppgiftsflödessteg
 * Innehållet i ett e-postmeddelande eller en mall
 
 ## system.forwardToFriendLink {#system-forwardtofriendlink}
 
-Med `{{system.forwardToFriendLink}}` variabeln kan du styra placeringen av länken &quot; [Vidarebefordra till en vän&quot; i e-postmeddelanden](../../../../product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md).
+Med `{{system.forwardToFriendLink}}`-token kan du styra placeringen av [&#39;Forward to a Friend Link&#39; i e-postmeddelanden](../../../../product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md).
 
 **Fungerar i:**
 
-* [Lägg till en systemtoken som en länk i ett e-postmeddelande](add-a-system-token-as-a-link-in-an-email.md) eller en mall
+* [Lägg till en systemtoken som en länk i en ](add-a-system-token-as-a-link-in-an-email.md) e-postmall
 
 ## system.unsubscribeLink {#system-unsubscribelink}
 
-Med denna `{{system.unsubscribLink}}` variabel kan du styra placeringen av länken för att avbryta prenumerationen i ett e-postmeddelande.
+Med `{{system.unsubscribLink}}`-token kan du styra placeringen av länken för att avbryta prenumerationen i ett e-postmeddelande.
 
 **Fungerar i:**
 
-* [Lägg till en systemtoken som en länk i ett e-postmeddelande](add-a-system-token-as-a-link-in-an-email.md) eller en mall
+* [Lägg till en systemtoken som en länk i en ](add-a-system-token-as-a-link-in-an-email.md) e-postmall
 
 ## system.viewAsWebpageLink {#system-viewaswebpagelink}
 
-Med denna `{{system.viewAsWebpageLink}}` variabel kan du styra placeringen av länken Visa som webbsida i ett e-postmeddelande.
+Med `{{system.viewAsWebpageLink}}`-token kan du styra placeringen av länken Visa som webbsida i ett e-postmeddelande.
 
 **Fungerar med:**
 
-* [Lägg till en systemtoken som en länk i ett e-postmeddelande](add-a-system-token-as-a-link-in-an-email.md) eller en mall
+* [Lägg till en systemtoken som en länk i en ](add-a-system-token-as-a-link-in-an-email.md) e-postmall
