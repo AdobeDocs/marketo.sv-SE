@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Begränsa användarinloggning till enbart enkel inloggning {#restrict-user-login-to-sso-only}
 
-Följ de här instruktionerna om du [använder enkel inloggning](add-single-sign-on-to-a-portal.md) och vill vara säker på att användarna inte kan kringgå enkel inloggning.
+Om du [använder SSO](add-single-sign-on-to-a-portal.md) och vill vara säker på att användarna inte kan kringgå SSO-säkerheten följer du dessa instruktioner.
 
 >[!NOTE]
 >
@@ -33,10 +33,10 @@ Följ de här instruktionerna om du [använder enkel inloggning](add-single-sign
 
 >[!TIP]
 >
->Om du väljer **Kräv enkel inloggning** kan du utesluta en [användarroll](../../../product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) från den här begränsningen genom att markera alternativet **Kringgå enkel inloggning** när du konfigurerar rollen. Detta gör att användarna kan logga in normalt. Administratörsanvändare kan till exempel fortfarande behöva logga in på Marketo via inloggningsskärmen.
+>Om du väljer **Kräv enkel inloggning** kan du utesluta en [användarroll](../../../product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) från den här begränsningen genom att markera alternativet **Åsidosätt enkel inloggning** när du konfigurerar rollen. Detta gör att användarna kan logga in normalt. Administratörsanvändare kan till exempel fortfarande behöva logga in på Marketo via inloggningsskärmen.
 
 >[!CAUTION]
 >
->När nya användare bjuds in får de e-postinbjudningar. Om **Kräv enkel inloggning** väljs får de inte dessa e-postmeddelanden, såvida de inte tilldelas en roll som är inställd på **Kringgå enkel inloggning**.
+>När nya användare bjuds in får de e-postinbjudningar. Om **Kräv enkel inloggning** är markerat får de inte dessa e-postmeddelanden, såvida de inte tilldelats en roll som är inställd på **Kringgå enkel inloggning**.
 
 Så ja! Nu kommer alla användare (utom användare med behörighet att kringgå enkel inloggning) att begränsas till att endast använda enkel inloggning.
