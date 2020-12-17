@@ -21,11 +21,11 @@ Anpassade objekt som skapas i Salesforce-instansen kan också ingå i Marketo.  
 
 >[!PREREQUISITES]
 >
->Om du vill använda ett anpassat objekt måste det associeras med ett [lead](sfdc-sync-lead-sync.md)-, [](sfdc-sync-contact-sync.md)kontaktarkonto [](sfdc-sync-account-sync.md)i Salesforce.
+>Om du vill använda ett anpassat objekt måste det vara associerat med ett [lead](sfdc-sync-lead-sync.md)-, [kontakt](sfdc-sync-contact-sync.md)eller [konto](sfdc-sync-account-sync.md)objekt i Salesforce.
 
-## Aktivera anpassat objekt  {#enable-custom-object}
+## Aktivera anpassat objekt {#enable-custom-object}
 
-1. Klicka på **Admin** och **länken** Synkronisera Salesforce-objekt.**
+1. Klicka på **Admin** och länken** Salesforce Objects Sync **link**.**
 
    ![](assets/image2015-11-19-10-3a28-3a5.png).
 
@@ -74,7 +74,7 @@ Anpassade objekt som skapas i Salesforce-instansen kan också ingå i Marketo.  
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. Om du vill visa alla dina anpassade Salesforce-objekt klickar du på **Admin** och länken** Salesforce-objektsynkronisering **(samma som steg 1 ovan).
+1. Om du vill visa alla dina anpassade Salesforce-objekt klickar du på länken **Admin** och ** Salesforce-objektsynkronisering **(samma som steg 1 ovan).
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 
