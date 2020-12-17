@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Använd ett specifikt datum i ett vänteflödessteg {#use-a-specific-date-in-a-wait-flow-step}
 
-Du kan använda steget **Vänteflöde** om du vill pausa en persons resa genom en smart kampanj till ett visst datum.
+Du kan använda flödessteget **Wait** för att pausa en persons resa genom en smart kampanj tills ett visst datum.
 
-1. Dra över steget **Vänta** i det smarta **kampanjflödet** .
+1. Dra över flödessteget **Vänta** i den smarta kampanjen **Flöde**.
 
    ![](assets/image2014-9-22-11-3a50-3a55.png)
 
