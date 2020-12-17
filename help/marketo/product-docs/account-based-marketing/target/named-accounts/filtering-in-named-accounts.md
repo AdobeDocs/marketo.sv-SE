@@ -25,7 +25,7 @@ Filtrering är ett bra sätt att snabbt begränsa data.
 
    >[!NOTE]
    >
-   >Det finns flera sökparameterkombinationer. I det här exemplet hittar vi: *Industry = Banking, Country = United States, Max Employees = 10000*.
+   >Det finns flera sökparameterkombinationer. I det här exemplet hittar vi: *Bransch = Bank, Land = USA, max antal anställda = 10000*.
 
 1. Klicka på listrutan **Bransch** och välj **Bank**.
 
@@ -35,7 +35,7 @@ Filtrering är ett bra sätt att snabbt begränsa data.
 
    ![](assets/filter-3.png)
 
-1. Under **Anställda** skriver du &quot;0&quot; i fältet **Min** , &quot;10000&quot; i fältet **Max** och klickar sedan på **Använd**.
+1. Under **Anställda** skriver du &quot;0&quot; i fältet **Min**, &quot;10000&quot; i fältet **Max** och klickar sedan på **Använd**.
 
    ![](assets/four-2.png)
 
