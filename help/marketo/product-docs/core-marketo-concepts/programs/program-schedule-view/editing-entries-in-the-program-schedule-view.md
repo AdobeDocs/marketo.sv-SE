@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Du kan redigera de olika elementen i programmet i schemavyn.
 
-## Redigera ett postnamn {#edit-an-entrys-name}
+## Redigera namnet på en post {#edit-an-entrys-name}
 
 1. Markera den post som du vill redigera.
 
    ![](assets/image2014-9-18-18-3a1-3a36.png)
 
-1. Skriv ett nytt namn och tryck på **Enter** på tangentbordet för att bekräfta ändringen.
+1. Skriv ett nytt namn och tryck på **Enter/Return** på tangentbordet för att bekräfta ändringen.
 
    ![](assets/image2014-9-18-18-3a1-3a53.png)
 
@@ -29,7 +29,7 @@ Du kan redigera de olika elementen i programmet i schemavyn.
 >
 >Detta ändrar bara visningsnamnet i schemavyn. Namnet på resursen i programmet ändras inte.
 
-## Redigera en anmälnings beskrivning {#edit-an-entrys-description}
+## Redigera en postbeskrivning {#edit-an-entrys-description}
 
 1. Klicka på beskrivningsikonen.
 
