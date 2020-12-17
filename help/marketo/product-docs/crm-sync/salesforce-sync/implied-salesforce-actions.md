@@ -31,7 +31,7 @@ Dessa regler gäller *när personen inte är i [Salesforce.com](http://Salesforc
   </tr> 
   <tr> 
    <td>Ändra status i SFDC-kampanj</td> 
-   <td>Synkronisera person till<br>SFDCAdd till SFDC-kampanj</td> 
+   <td>Synkronisera person till SFDC<br>Lägg till i SFDC-kampanj</td> 
   </tr> 
   <tr> 
    <td>Ändra ägare</td> 
@@ -48,7 +48,7 @@ Dessa regler gäller *när personen inte är i [Salesforce.com](http://Salesforc
  </tbody> 
 </table>
 
-Du kan filtrera bort SFDC-poster i en smart lista med hjälp av **SFDC-typfiltret** med operatorn inställd på &quot;är inte tom&quot;. Alla SFDC-poster har ett värde i det här fältet.
+Du kan filtrera bort SFDC-poster i en smart lista med hjälp av filtret **SFDC-typ** med operatorn inställd på &quot;är inte tom&quot;. Alla SFDC-poster har ett värde i det här fältet.
 
 Kom ihåg att dessa automatiska åtgärder bara utförs om leadet inte finns i [Salesforce.com](http://Salesforce.com)
 
