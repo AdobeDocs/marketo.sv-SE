@@ -23,13 +23,13 @@ Vill du prova en annan från-adress utan problem? Så här gör du.
 
 
 
-1. I e-posttestredigeraren väljer du **Från adress** i listrutan **Testtyp **.
+1. Välj **Från adress** i listrutan **Testtyp **i e-posttestredigeraren.
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
    >[!NOTE]
    >
-   >Den första Från-adressen anges som **Champion**. Efterföljande adresser kallas **för kunder**.
+   >Den första Från-adressen anges som **Champion**. Efterföljande från adresser kallas **Challenger**.
 
 1. Ange Från namn (vänster) och Från adress** ** (höger) för utmanarna.
 
