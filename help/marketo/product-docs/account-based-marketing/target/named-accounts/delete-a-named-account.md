@@ -23,7 +23,7 @@ Följ de här snabbstegen för att ta bort ett namngivet konto.
    >
    >Ctrl-klicka (Windows) eller Kommando-klicka (Mac) om du vill markera flera namngivna konton.
 
-1. Klicka på listrutan Åtgärder **för** namngivet konto och välj **Ta bort namngivet konto**.
+1. Klicka på listrutan **Åtgärder för namngivet konto** och välj **Ta bort namngivet konto**.
 
    ![](assets/eight-1.png)
 
