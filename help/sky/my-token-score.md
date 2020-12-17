@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Så här konfigurerar du en bakgrundstoken som ska användas i program- och kampanjmappar.
 
-1. Dra en [!UICONTROL My Tokens] bakgrundstoken **till arbetsytan på fliken** i programmet eller mappen [!UICONTROL Local Tokens] .
+1. Dra en **bakgrundstoken**-token till arbetsytan i [!UICONTROL Local Tokens] på fliken [!UICONTROL My Tokens] i programmet eller mappen.
 
    ![Bild ett](/help/sky/assets/my-tokens/my-token-score/my-token-score-1.png)
 
