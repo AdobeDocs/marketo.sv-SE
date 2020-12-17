@@ -19,7 +19,7 @@ Du har din anpassade aktivitet precis som du vill ha den. Nu är det dags att pu
 
    ![](assets/one-2.png)
 
-1. I **Databashantering** klickar du på **Markering för anpassade aktiviteter**.
+1. I **Databashantering** klickar du på **Marketo Custom Activities**.
 
    ![](assets/two-2.png)
 
