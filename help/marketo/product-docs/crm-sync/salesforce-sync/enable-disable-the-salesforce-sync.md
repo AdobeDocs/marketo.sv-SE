@@ -15,7 +15,7 @@ ht-degree: 0%
 
 När du gör större ändringar i dina synkroniserings- eller fältinställningar bör du inaktivera synkroniseringen medan du konfigurerar. Så här:
 
-1. Gå till avsnittet **Admin** .
+1. Gå till avsnittet **Admin**.
 
    ** ![](assets/image2014-12-10-13-3a24-3a35.png)
 
