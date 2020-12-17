@@ -15,9 +15,9 @@ ht-degree: 0%
 
 E-postmeddelanden börjar i utkastläge. De är vanligtvis inte tillgängliga i systemet förrän du har godkänt dem. Det finns flera sätt att godkänna ett e-postmeddelande.
 
-## Godkänn den med menyn E-poståtgärder {#approve-it-using-the-email-actions-menu}
+## Godkänn det med hjälp av menyn E-poståtgärder {#approve-it-using-the-email-actions-menu}
 
-1. Leta upp och välj e-post, klicka på listrutan **E-poståtgärder** och välj **Godkänn**.
+1. Sök efter och välj e-post, klicka på listrutan **E-poståtgärder** och välj **Godkänn**.
 
    ` ![](assets/one.png)  
 `
@@ -28,7 +28,7 @@ E-postmeddelanden börjar i utkastläge. De är vanligtvis inte tillgängliga i 
 
    ![](assets/approveemail.png)
 
-## Godkänn din e-postadress i e-postredigeraren {#approve-your-email-in-the-email-editor}
+## Godkänn din e-post i e-postredigeraren {#approve-your-email-in-the-email-editor}
 
 1. Klicka på listrutan **E-poståtgärder** i e-postmeddelandet och välj **Godkänn och stäng**.
 
