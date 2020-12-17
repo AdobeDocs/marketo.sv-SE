@@ -16,18 +16,18 @@ ht-degree: 0%
 
 Ni kan snabbt se medlemmar i ett engagemangsprogram.
 
-1. Välj engagemangsprogram, högerklicka och välj **[!UICONTROL View Members]**.
+1. Välj ditt engagemangsprogram, högerklicka och välj **[!UICONTROL View Members]**.
 
    ![Bild ett](/help/sky/assets/engagement-programs/see-members-of-an-engagement-program/see-members-of-an-engagement-program-1.png)
 
 >[!NOTE]
 >
->Kolumnvärdet uppdateras efter varje [!UICONTROL Exhausted Content] skiftning.
+>Kolumnvärdet [!UICONTROL Exhausted Content] uppdateras efter varje skiftning.
 
-1. Klicka på **[!UICONTROL Members]** fliken.
+1. Klicka på fliken **[!UICONTROL Members]**.
 
    ![Bild två](/help/sky/assets/engagement-programs/see-members-of-an-engagement-program/see-members-of-an-engagement-program-2.png)
 
-1. Klicka på **[!UICONTROL People Actions]** listrutan för att utföra olika funktioner med medlemmarna.
+1. Klicka på listrutan **[!UICONTROL People Actions]** för att utföra olika funktioner med dina medlemmar.
 
    ![Bild tre](/help/sky/assets/engagement-programs/see-members-of-an-engagement-program/see-members-of-an-engagement-program-3.png)
