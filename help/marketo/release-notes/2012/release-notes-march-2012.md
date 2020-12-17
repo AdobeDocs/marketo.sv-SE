@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Djupdykning**
 >
->Andra releaser finns i [versionsinformationen](http://docs.marketo.com/display/docs/release+notes) .
+>Andra versioner finns i [versionsinformationen](http://docs.marketo.com/display/docs/release+notes) djupdykning.
 >
 >## Lös mina token {#resolve-my-tokens}>
 
@@ -35,7 +35,7 @@ Förhandsgranska till redigerare:
 
 ![](assets/image2014-9-23-10-3a0-3a25.png)
 
-## Förhandsgranska kodavsnitt {#snippet-previewer}
+## Förhandsgranskning av kodfragment {#snippet-previewer}
 
 Om du väljer Förhandsgranska fragment på menyn kan du visa ett fragment utan att göra det till ett utkast.Om du dessutom har skrivskyddad åtkomst till ett delat fragment (via arbetsytor) kan du visa fragmentet med den här åtgärden
 
@@ -47,6 +47,6 @@ Med tillägg av dynamiskt innehåll blir det allt viktigare att förhandsgranska
 
 ![](assets/image2014-9-23-10-3a0-3a50.png)
 
-## Dynamiska landningssidor baserade på URL-parameter {#dynamic-landing-pages-based-on-url-parameter}
+## Dynamiska landningssidor baserade på URL-parametern {#dynamic-landing-pages-based-on-url-parameter}
 
 Anonyma leads utgör en betydande del av era landningsbesök. Med möjligheten att lägga in dynamiskt innehåll och segmentering i URL:en som parameter kan du dynamiskt visa innehållet på landningssidan när en anonym eller känd lead klickar på länken.
