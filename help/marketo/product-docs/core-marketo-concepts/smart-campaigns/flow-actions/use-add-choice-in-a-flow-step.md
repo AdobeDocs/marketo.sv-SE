@@ -21,9 +21,9 @@ ht-degree: 0%
 
 
 
-**Med Lägg till alternativ** kan du använda ett flödessteg och säga&quot;Det beror&quot; när du väljer detaljer.
+**Med Lägg till** väljare kan du använda ett flödessteg och säga&quot;Det beror&quot; när du väljer detaljer.
 
-1. Lägg till ett flödessteg på fliken **Flöde** i den smarta kampanjen och klicka sedan på **Lägg till val**.
+1. Lägg till ett flödessteg under fliken **Flow** i den smarta kampanjen och klicka sedan på **Lägg till alternativ**.
 
    ![](assets/image2014-9-22-11-3a58-3a20.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Token fungerar **inte** i villkorsdelen av ett urvalsflödessteg.
+   >Token **fungerar inte** i villkorsdelen av ett urvalsflödessteg.
 
 1. Upprepa stegen ovan för att lägga till flera alternativ och lägg sedan till/justera standardvärdet.
 
