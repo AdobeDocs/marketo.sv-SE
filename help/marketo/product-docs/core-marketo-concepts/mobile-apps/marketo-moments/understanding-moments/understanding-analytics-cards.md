@@ -35,7 +35,7 @@ Låt oss till exempel titta på informationen för kortet för analys av förvä
 
 I det här exemplet visar rött att värdet har minskat över det valda datumintervallet (eh!). Grönt anger att värdet har ökat (åå!).
 
-## Förvärvade leads {#acquired-leads}
+## Insamlade leads {#acquired-leads}
 
 Kortet **Acquired Leads **visar en trending month-over-month-rapport över antalet nya leads.
 
@@ -53,7 +53,7 @@ Kortet **Nya leads** visar en trending month-over-month-rapport över det totala
 
 ## Avbeställ {#unsubscribes}
 
-Kortet **Avbeställ** visar en månadsvis trendrapport över prenumerationskostnaden under de senaste sex månaderna.
+Kortet **Avbeställ** visar en månadsvis trendrapport över din uppsägningsfrekvens under de senaste sex månaderna.
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
 
