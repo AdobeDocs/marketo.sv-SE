@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Om smarta kampanjer {#understanding-smart-campaigns}
+# Smarta kampanjer {#understanding-smart-campaigns}
 
 ![](assets/image2014-12-24-11-3a37-3a0.png)
 
 Om Marketo är en kraftfull bil är den smarta kampanjen verkligen motorn. Det är enkelt att komma igång, men du kan göra nästan vad du vill av det.
 
-Den smarta kampanjen har tre huvudområden: Flikarna [Smart List](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [Flow](http://docs.marketo.com/display/DOCS/Flow+Actions) och [Schedule](using-smart-campaigns/schedule-a-recurring-batch-campaign.md) .
+Den smarta kampanjen har tre huvudområden: Flikarna [Smart List](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [Flöde](http://docs.marketo.com/display/DOCS/Flow+Actions) och [Schedule](using-smart-campaigns/schedule-a-recurring-batch-campaign.md).
 
-## Smart List {#smart-list}
+## Smart lista {#smart-list}
 
 Den smarta listan är hur du definierar WHO som du vill ha som mål med din smarta kampanj. Den har filter och utlösare.
 
@@ -49,7 +49,7 @@ Du kan kombinera filter på olika sätt och använda dem tillsammans med utlösa
 
 Flödet innehåller de steg som du vill att den smarta kampanjen ska utföra, inklusive väntesteg och delade val.
 
-## Schema {#schedule}
+## Schemalägg {#schedule}
 
 Slutligen styr detta när ni kör er smarta kampanj. Du kan till och med ställa in upprepning så att den körs enligt ett upprepande schema.
 
