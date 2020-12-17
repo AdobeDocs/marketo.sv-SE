@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ring webkrok {#call-webhook}
+# Ring webbkrok {#call-webhook}
 
 >[!PREREQUISITES]
 >
@@ -31,11 +31,11 @@ Med webbhooks kan du interagera med tredjepartstjänster. Skicka/ta emot informa
 >
 >**Djupdykning**
 >
->Läs om alla fascinerande saker som [Webhooks](http://developers.marketo.com/documentation/webhooks/) kan göra för dig.
+>Lär dig mer om de många fascinerande saker som [webbhooks](http://developers.marketo.com/documentation/webhooks/) kan göra för dig.
 
 ## Användning {#usage}
 
-Välj en **webkrok** i listrutan.
+Välj en **Webkrok** i listrutan.
 
 ![](assets/image2014-9-22-15-3a4-3a25.png)
 
