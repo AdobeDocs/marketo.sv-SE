@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Understanding Email Program Cards {#understanding-email-program-cards}
+# Om e-postprogramkort {#understanding-email-program-cards}
 
 Använd Marketo Moments för att visa dina e-postprogram från din telefon eller iPad.
 
@@ -41,7 +41,7 @@ När e-postmeddelandet har skickats visar kortet annan värdefull information, i
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Tryck på **Confirm **för att avsluta jobbet, eller **Don Mind** om du hade andra tankar.
+1. Tryck på **Confirm **för att slutföra jobbet eller **Never Mind** om du hade andra tankar.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -49,13 +49,13 @@ När e-postmeddelandet har skickats visar kortet annan värdefull information, i
    >
    >Nu förvandlas kortet till orange!
 
-## Avbryta en sändning med e-postkort {#canceling-an-email-card-send}
+## Avbryter sändning av e-postkort {#canceling-an-email-card-send}
 
 1. Om du inte vill skicka bekräftad e-post trycker du på menyn med tre punkter.
 
    ![](assets/image2015-7-17-9-3a50-3a49.png)
 
-1. Tryck på **Avbryt sändning**.
+1. Tryck på **Avbryt Skicka**.
 
    ![](assets/image2015-7-17-9-3a52-3a54.png)
 
@@ -75,7 +75,7 @@ Du kan schemalägga om bekräftade eller obekräftade e-postkort.
 
    ![](assets/image2015-7-17-10-3a0-3a32.png)
 
-1. Välj ett datum i kalendern och tryck på **Ändra schema**.
+1. Välj ett datum i kalendern och tryck på **Schemalägg om**.
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 
