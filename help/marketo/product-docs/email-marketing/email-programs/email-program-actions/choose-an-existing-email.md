@@ -16,15 +16,15 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Skapa ett e-postprogram](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definiera en publik med en smart lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) eller [Definiera en publik genom att importera en lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Definiera en målgrupp med en smart ](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) lista  [Definiera en målgrupp genom att importera en lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
 >
 
 
 
-När du har [skapat ett e-postprogram](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) och definierat målgruppen, vill du bestämma vilket e-postmeddelande du ska skicka. Du kan [skapa ett e-postmeddelande för ett e-postprogram](create-an-email-for-an-email-program.md) från grunden eller välja ett som redan finns. Så här väljer du en som redan finns.
+När du har [skapat ett e-postprogram](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) och definierat målgruppen, vill du bestämma vilken e-postadress du ska skicka. Du kan [skapa ett e-postmeddelande för ett e-postprogram](create-an-email-for-an-email-program.md) från grunden eller välja ett som redan finns. Så här väljer du en som redan finns.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -32,7 +32,7 @@ När du har [skapat ett e-postprogram](../../../../product-docs/email-marketing/
 
    ![](assets/selectemailprogram.jpg)
 
-1. Under rutan **E-post** väljer du den som du vill skicka.
+1. Under rutan **E-post** markerar du den du vill skicka.
 
    ` ![](assets/image2014-9-12-11-3a28-3a10.png)
 
