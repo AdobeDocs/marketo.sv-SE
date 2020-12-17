@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Skapa en användarroll endast för API {#create-an-api-only-user-role}
+# Skapa en användarroll för endast API {#create-an-api-only-user-role}
 
-Om du vill integrera med Marketo via [REST API](http://developers.marketo.com/documentation/rest/)är det bästa sättet att [tilldela en användare rollen](create-an-api-only-user.md) Endast API och sedan [skapa en anpassad tjänst för användning med ReST API](../../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). Så här skapar du användarrollen enbart för API.
+Om du vill integrera med Marketo via [REST API](http://developers.marketo.com/documentation/rest/) är det bästa sättet att [tilldela en användare rollen Endast API](create-an-api-only-user.md) och sedan [skapa en anpassad tjänst för användning med ReST API](../../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). Så här skapar du användarrollen enbart för API.
 
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
 
-1. Klicka på **Admin** på Min marknadsföring.
+1. Klicka på **Admin** på Min marknad.
 
    ![](assets/adminhand-1.png)
 
@@ -41,5 +41,5 @@ Om du vill integrera med Marketo via [REST API](http://developers.marketo.com/do
 
 >[!MORELIKETHIS]
 >
->Bra gjort! Nu ska vi [skapa en användare](create-an-api-only-user.md)med endast API.
+>Bra gjort! Nu ska vi [skapa en API-användare](create-an-api-only-user.md).
 
