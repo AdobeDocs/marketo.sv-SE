@@ -20,15 +20,15 @@ När ni väl har skapat ert engagemangsprogram måste ni lägga till innehåll i
 
    ![Bild ett](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-1.png)
 
-1. Klicka på **[!UICONTROL Streams]** fliken.
+1. Klicka på fliken **[!UICONTROL Streams]**.
 
    ![Bild två](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-2.png)
 
-1. Klicka **[!UICONTROL Add Content]**.
+1. Klicka på **[!UICONTROL Add Content]**.
 
    ![Bild tre](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-3.png)
 
-1. Lämna uppsättningen till E-post och välj sedan den e-postadress som du vill lägga till. [!UICONTROL Type]
+1. Lämna [!UICONTROL Type]-inställningen till E-post och sök/välj sedan det e-postmeddelande som du vill lägga till.
 
    ![Bild fyra](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-4.png)
 
@@ -42,15 +42,15 @@ När ni väl har skapat ert engagemangsprogram måste ni lägga till innehåll i
 
    ![Bild fem](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-5.png)
 
-1. Klicka på **[!UICONTROL Streams]** fliken.
+1. Klicka på fliken **[!UICONTROL Streams]**.
 
    ![Bild sex](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-6.png)
 
-1. Klicka **[!UICONTROL Add Content]**.
+1. Klicka på **[!UICONTROL Add Content]**.
 
    ![Bild sju](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-7.png)
 
-1. Byt [!UICONTROL Type] till Program.
+1. Ändra [!UICONTROL Type] till Program.
 
    ![Bild åtta](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-8.png)
 
