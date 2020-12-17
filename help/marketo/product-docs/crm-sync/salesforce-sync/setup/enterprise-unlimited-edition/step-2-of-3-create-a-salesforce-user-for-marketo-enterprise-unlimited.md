@@ -29,11 +29,11 @@ I den här artikeln ställer du in användarbehörigheter i Salesforce-profilen 
 
 ## Skapa en profil {#create-a-profile}
 
-1. Klicka på **Konfigurera**.
+1. Klicka på **Inställningar**.
 
    ![](assets/image2015-6-11-16-3a15-3a27.png)
 
-1. Skriv &quot;profiler&quot; i navigeringsfältet och klicka på länken **Profiler** .
+1. Skriv &quot;profiler&quot; i navigeringsfältet och klicka på länken **Profiler**.
 
    ![](assets/sfdc-profiles-hands.png)
 
@@ -41,7 +41,7 @@ I den här artikeln ställer du in användarbehörigheter i Salesforce-profilen 
 
    ![](assets/image2014-12-9-9-3a19-3a15.png)
 
-1. Välj **Standardanvändare**, ge profilen namnet Marketo-Salesforce-synkronisering och klicka på **Spara**.
+1. Välj **Standardanvändare**, ge profilen namnet Marketo-Salesforce Sync och klicka på **Spara**.
 
    ![](assets/image2014-12-9-9-3a19-3a22.png)
 
@@ -51,7 +51,7 @@ I den här artikeln ställer du in användarbehörigheter i Salesforce-profilen 
 
    ![](assets/image2014-12-9-9-3a19-3a30.png)
 
-1. Under avsnittet **Administrativa behörigheter** kontrollerar du att följande rutor är markerade:
+1. Kontrollera att följande rutor är markerade under **Administrativa behörigheter**:
 
    * API aktiverat
    * Redigera HTML-mallar
@@ -62,7 +62,7 @@ I den här artikeln ställer du in användarbehörigheter i Salesforce-profilen 
 
    >[!TIP]
    >
-   >Markera rutan **Lösenordet upphör aldrig att** gälla.
+   >Markera rutan **Lösenordet upphör aldrig**.
 
 1. Kontrollera att följande rutor är markerade under avsnittet Allmänna användarbehörigheter:
 
@@ -98,7 +98,7 @@ I den här artikeln ställer du in användarbehörigheter i Salesforce-profilen 
    >
    >Det här steget förhindrar att fält som du inte behöver visas i Marketo, vilket minskar störande detaljer och snabbar upp synkroniseringen.
 
-1. Gå till avsnittet **Fältnivåsäkerhet** på profilinformationssidan. Klicka på **Visa** för att redigera tillgängligheten för objekten:
+1. Gå till avsnittet **Fältnivåsäkerhet** på profilinformationssidan. Klicka på **Visa** om du vill redigera tillgängligheten för objekten:
 
    * `Lead`
    * `Contact`
@@ -161,7 +161,7 @@ I den här artikeln ställer du in användarbehörigheter i Salesforce-profilen 
 
    ![](assets/sfdc-new-users.png)
 
-1. Fyll i de obligatoriska fälten. Välj sedan **Användarlicens: Salesforce** och den profil som du skapade tidigare. Klicka på **Spara** när du är klar.
+1. Fyll i de obligatoriska fälten. Välj sedan **användarlicens: Salesforce** och den profil som du skapade tidigare. Klicka på **Spara** när du är klar.
 
    ![](assets/image2014-12-9-9-3a20-3a56.png)
 
