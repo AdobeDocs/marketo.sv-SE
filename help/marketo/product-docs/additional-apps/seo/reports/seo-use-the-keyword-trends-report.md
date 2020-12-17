@@ -48,7 +48,7 @@ I den här rapporten kan du se hur nyckelord rangordnas över tiden.
 
    ![](assets/image2014-9-18-14-3a13-3a57.png)
 
-## Exporterar data  {#exporting-data}
+## Exporterar data {#exporting-data}
 
 >[!TIP]
 >
