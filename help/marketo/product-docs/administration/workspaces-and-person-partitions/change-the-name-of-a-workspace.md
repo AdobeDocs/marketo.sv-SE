@@ -27,9 +27,9 @@ Användare kan ändra namnet på en arbetsyta. Det är ganska enkelt.
 >
 >**Djupdykning**
 >
->Förstå först arbetsytor och [personpartitioner](understanding-workspaces-and-person-partitions.md).
+>Förstå först arbetsytor och personpartitioner[.](understanding-workspaces-and-person-partitions.md)
 
-1. Klicka på **Arbetsytor och partitioner under** Admin **.**
+1. Under **Admin** klickar du på **Arbetsytor och partitioner.**
 
    ![](assets/image2014-9-17-11-3a8-3a28.png)
 
