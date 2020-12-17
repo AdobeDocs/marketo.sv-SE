@@ -17,11 +17,11 @@ ht-degree: 0%
 >
 >**Administratörsbehörigheter krävs**
 
-När du skickar e-postmeddelanden om marknadsföring (ej [i drift](../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)) läggs text och länkar till längst ned. Du kan ändra standardinställningarna. Så här gör du.
+När du skickar marknadsföringsmeddelanden (icke- [operativ](../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)) läggs text och länkar för att avbryta prenumerationen till längst ned. Du kan ändra standardinställningarna. Så här gör du.
 
 ## Redigera avbeställningsmeddelandet {#edit-the-unsubscribe-message-1}
 
-1. Klicka på **E-post** under **Admin**.
+1. Under **Admin** klickar du på **E-post**.
 
    ![](assets/image2014-9-18-16-3a52-3a1.png)
 
@@ -36,7 +36,7 @@ När du skickar e-postmeddelanden om marknadsföring (ej [i drift](../../../prod
    >    * **mkt_unsubscribe=1&amp;mkt_tok=##MKT_TOK##**
 
 
-1. Redigera **Avbeställ HTML** - och **Avbeställ** text efter behov och klicka på **Spara ändringar**.
+1. Redigera versionerna **Avbeställ HTML** och **Avbeställ Text** om du vill och klicka på **Spara ändringar**.
 
    ![](assets/image2016-8-26-13-3a40-3a55.png)
 
@@ -44,9 +44,9 @@ När du skickar e-postmeddelanden om marknadsföring (ej [i drift](../../../prod
 
 >[!TIP]
 >
->Du kan anpassa positionen för den HTML-kod som ska avbeställas i ditt e-postmeddelande genom att använda [tokens](../../../product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
+>Du kan anpassa positionen för HTML-avanmälan i ditt e-postmeddelande genom att använda [tokens](../../../product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
 
-## Avbeställ standardtext {#default-unsubscribe-text}
+## Standardtext för att avbryta prenumeration {#default-unsubscribe-text}
 
 Om du behöver gå tillbaka till systemets standardavbrutna prenumeration kopierar/klistrar du in följande:
 
