@@ -20,7 +20,7 @@ Klona en ström av olika anledningar, inklusive att testa olika order och olika 
 
    ![Bild ett](/help/sky/assets/engagement-programs/clone-a-stream/clone-a-stream-1.png)
 
-1. Klicka på **[!UICONTROL Streams]** fliken.
+1. Klicka på fliken **[!UICONTROL Streams]**.
 
    ![Bild två](/help/sky/assets/engagement-programs/clone-a-stream/clone-a-stream-2.png)
 
