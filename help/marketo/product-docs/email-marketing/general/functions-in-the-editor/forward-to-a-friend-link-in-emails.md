@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Vidarebefordra till en länk i e-postmeddelanden {#forward-to-a-friend-link-in-emails}
+# Vidarebefordra till en vänlänk i e-postmeddelanden {#forward-to-a-friend-link-in-emails}
 
 Genom att lägga till länken Vidarebefordra till vän i dina e-postmeddelanden kan du spåra personer som har fått ett vidarebefordrat e-postmeddelande via den här länken och automatiskt lägga till dem som en ny person om de inte redan finns i databasen.
 
@@ -42,7 +42,7 @@ Exempel: Keith använder länken&quot;Vidarebefordra till vän&quot; för att vi
 
    >[!CAUTION]
    >
-   >Vi rekommenderar inte att du använder **formatpositionen:relative** i din e-postmall. Det kan skapa problem med placeringen och visningen av rutan Vidarebefordra till vän.
+   >Vi rekommenderar inte att du använder formatet **position:relative** i din e-postmall. Det kan skapa problem med placeringen och visningen av rutan Vidarebefordra till vän.
 
 1. Klicka på **Förhandsgranska utkast** för att kontrollera att mallen ser ut som du vill ha den.
 
@@ -57,7 +57,7 @@ Exempel: Keith använder länken&quot;Vidarebefordra till vän&quot; för att vi
    Alla e-postmeddelanden som använder den mallen får nu länken Vidarebefordra till vän. När e-postmottagaren klickar på den hämtas de till en webbversion av e-postmeddelandet med rutan Vidarebefordra till en vän:
    ![](assets/f2afbox.png)
 
-## Lägg till länken i ett enskilt e-postmeddelande {#add-the-link-to-an-individual-email}
+## Lägg till länken till ett enskilt e-postmeddelande {#add-the-link-to-an-individual-email}
 
 Du kan också lägga till länken Vidarebefordra till vän direkt i ett e-postmeddelande.
 
@@ -65,11 +65,11 @@ Du kan också lägga till länken Vidarebefordra till vän direkt i ett e-postme
 
    ![](assets/five-4.png)
 
-1. Placera markören där du vill att länken ska visas och klicka på knappen **Infoga token** .
+1. Placera markören där du vill att länken ska visas och klicka på knappen **Infoga token**.
 
    ![](assets/six-2.png)
 
-1. Välj **`{{system.forwardToFriendLink}}`** token.
+1. Välj **`{{system.forwardToFriendLink}}`**-token.
 
    ![](assets/seven-1.png)
 
@@ -81,11 +81,11 @@ Du kan också lägga till länken Vidarebefordra till vän direkt i ett e-postme
 
    ![](assets/seven-1.png)
 
-1. Klipp ut **`{{system.forwardToFriendLink}}`** token med Ctrl+X (Windows) eller Cmd+X (Mac). Markera&quot;Framåt till en vän&quot; och klicka på knappen **Infoga/redigera länk** .
+1. Klipp ut **`{{system.forwardToFriendLink}}`**-token med Ctrl+X (Windows) eller Cmd+X (Mac). Markera&quot;Vidarebefordra till en vän&quot; och klicka på knappen **Infoga/redigera länk**.
 
    ![](assets/eight-1.png)
 
-1. Klistra in **`{{system.forwardToFriendLink}}`** token i **URL** -rutan med Ctrl/Cmd+V och klicka sedan på** Infoga**.
+1. Klistra in **`{{system.forwardToFriendLink}}`**-token i rutan **URL** med Ctrl/Cmd+V och klicka sedan på** Infoga**.
 
    ![](assets/nine.png)
 
@@ -109,7 +109,7 @@ Du kan se vem som vidarebefordrat och tagit emot e-postmeddelanden i personens a
 
    ![](assets/fourteen.png)
 
-1. Gå till fliken **Aktivitetslogg** . Dubbelklicka på **Mottaget vidarebefordrat till väns-e-post** eller **Skickat framåt till väns-e-post** om du vill se information.
+1. Gå till fliken **Aktivitetslogg**. Dubbelklicka på **Mottagen vidarebefordrad till väne-post** eller **Skickad vidarebefordrad till väne-post** om du vill se information.
 
    ![](assets/fifteen.png)
 
@@ -131,13 +131,13 @@ Du kan se vem som vidarebefordrat och tagit emot e-postmeddelanden i personens a
 
    >[!NOTE]
    >
-   >Vi gör det möjligt för **person-ID** att klickas och länka direkt till personen i en kommande korrigering.
+   >Vi gör det möjligt för personen **person-ID** att klickas och länka direkt till personen i en kommande korrigering.
 
    ![](assets/seventeen.png)
 
    >[!NOTE]
    >
-   >Om den vän som tar emot vidarebefordran är en okänd person skapas en ny person med namnet&quot;Vidarebefordra till vän&quot;, som är markerad som personens **källa**.\
+   >Om den vän som tar emot vidarebefordran är en okänd person skapas en ny person med namnet&quot;Vidarebefordra till vän&quot; som är markerad som personens **källa**.\
    >Om e-postmeddelandet är en lokal tillgång i ett program markeras programmet som personens **förvärvsprogram**.
 
 ## Utlös eller filtrera med hjälp av vidarebefordringsaktivitet {#trigger-or-filter-using-forwarding-activity}
@@ -150,4 +150,4 @@ Om du söker efter &quot;framåt&quot; i en smart kampanjlista hittar du tillgä
 
 ## Testa framåt till vän {#test-forward-to-friend}
 
-Om du vill testa Vidarebefordra till vän skickar du dig ett e-postmeddelande med länken Framåt. Se till att du skickar det genom **skicka e-post** -flödet, *inte* via **Skicka testmeddelande**.
+Om du vill testa Vidarebefordra till vän skickar du dig ett e-postmeddelande med länken Framåt. Kontrollera att du skickar den genom flödessteget **Skicka e-post**, *inte* genom **Skicka teste-post**.
