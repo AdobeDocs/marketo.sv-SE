@@ -33,15 +33,15 @@ Som vanligt finns det för- och nackdelar med båda alternativen.
 
 *Proffs*
 
-**Anseende** - Ni äger ert rykte och er leveransförmåga.\
-**Övervakning** - Med övervakning av leveransrapporter kan ni snabbt reagera på förändringar i leveransstatistiken.\
-**Problemlösning** - Det är enklare att undersöka, förstå och lösa leveransproblem.
+**Anseende**  - Du äger ditt rykte och din leveransförmåga.\
+**Övervakning**  - Med övervakning av leveransrapporter kan ni snabbt reagera på förändringar i leveransstatistiken.\
+**Problemlösning**  - Det är enklare att undersöka, förstå och lösa leveransproblem.
 
 *Kon*
 
-**Volymförändringar** - Volymtoppar kan påverka ditt rykte negativt och behöver hanteras.\
-**IP-uppvärmningsprocess** - ryktet byggs över tid. En del internetleverantörer (ISP) stryper IP-adresser utan historik för volymer, så du måste skapa ett rykte under de första veckorna (Marketo kan hjälpa dig).\
-**Kostnad** - Det finns vanligtvis en extra kostnad att skicka från en dedikerad IP-adress till någon annan leverantör.
+**Volymförändringar**  - Volymtoppar kan påverka ditt rykte negativt och behöver hanteras.\
+**IP-uppvärmningsprocess**  - Anseendet byggs över tid. En del internetleverantörer (ISP) stryper IP-adresser utan historik för volymer, så du måste skapa ett rykte under de första veckorna (Marketo kan hjälpa dig).\
+**Kostnad**  - Det brukar tillkomma en extra kostnad att skicka från en dedikerad IP-adress till någon annan leverantör.
 
 **Pros and Cons of a Shared IP**
 
@@ -53,7 +53,7 @@ Som vanligt finns det för- och nackdelar med båda alternativen.
 
 *Kon*
 
-**Dåliga rumskompisar** - Om de personer du delar med dig av din IP-adress använder dåliga sändningsrutiner kan era e-postkampanjer påverkas negativt.\
+**Felaktiga rumskompisar**  - Om de personer du delar med dig av din IP-adress använder dåliga sändningsrutiner kan era e-postkampanjer påverkas negativt.\
 **Kontroll **- Du har mycket mindre kontroll över avsändarens anseende.\
 **Problemlösning **- Det kan ofta vara svårare att lösa ett problem när man skickar från delade IP-adresser.
 
