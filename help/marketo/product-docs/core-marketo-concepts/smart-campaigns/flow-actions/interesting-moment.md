@@ -15,17 +15,17 @@ ht-degree: 0%
 
 ## Översikt {#overview}
 
-Om ni har [Marketo Sales Insight](http://docs.marketo.com/display/docs/assets/sales-insight.php)kan ni använda flödessteget **Intressant stund** för att ge säljteamet insyn i de coola saker era medarbetare gör.
+Om du har [Marketo Sales Insight](http://docs.marketo.com/display/docs/assets/sales-insight.php) kan du använda flödessteget **Intressant stund** för att ge säljteamet insyn i de coola saker som medarbetarna gör.
 
 ![](assets/image2016-1-27-11-3a0-3a21.png)
 
 ## Användning {#usage}
 
-1. Markera den intressanta **infallstext** du vill använda.
+1. Markera den intressanta stund **typ** som du vill använda.
 
    ![](assets/image2014-9-22-10-3a49-3a51.png)
 
-1. Skapa en **beskrivning** som förklarar det intressanta ögonblicket för säljteamet.
+1. Skapa en **beskrivning** som förklarar det intressanta ögonblicket för ditt säljteam.
 
    ![](assets/image2014-9-22-10-3a49-3a55.png)
 
