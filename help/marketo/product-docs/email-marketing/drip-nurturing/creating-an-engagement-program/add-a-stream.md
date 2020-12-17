@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Engagemangsprogram kan innehålla mer än en ström. Så här lägger du till en ny.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Välj engagemangsprogrammet och klicka på fliken **Streams** .
+1. Välj ditt engagemangsprogram och klicka på fliken **Streams**.
 
    ![](assets/streamstablifecycle.jpg)
 
