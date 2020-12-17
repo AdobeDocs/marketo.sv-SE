@@ -25,7 +25,7 @@ Ett program är ett specifikt marknadsföringsinitiativ. Kanalen är avsedd att 
 >
 >Läs mer om [program](http://docs.marketo.com/display/docs/programs), det viktigaste elementet i Marketo.
 
-1. Klicka på **Taggar** under avsnittet **Admin**.
+1. Klicka på **Taggar** under **Admin**.
 
    ![](assets/image2014-9-24-12-3a57-3a27.png)
 
@@ -33,11 +33,11 @@ Ett program är ett specifikt marknadsföringsinitiativ. Kanalen är avsedd att 
    >
    >Varför taggar? En kanal är ett sätt att beskriva ett program, precis som andra taggar. Kanalen har bara specialfunktioner.
 
-1. Klicka på **+** -tecknet bredvid **Kanal** för att expandera och visa befintliga kanaler.
+1. Klicka på **+**-tecknet bredvid **Kanal** för att expandera och visa befintliga kanaler.
 
    ![](assets/image2014-9-24-12-3a58-3a33.png)
 
-1. Klicka på **Ny kanal under** Ny **.**.
+1. Klicka på **Ny kanal** under **Ny**.
 
    ![](assets/image2014-9-24-12-3a58-3a53.png)
 
@@ -83,15 +83,15 @@ Ett program är ett specifikt marknadsföringsinitiativ. Kanalen är avsedd att 
    Ange de två första programstatusnamnen och klicka sedan på Lägg till steg.
    ![](assets/image2014-9-24-15-3a37-3a0.png)
 
-1. Ange en annan **programstatus** och ett **stegnummer** och klicka sedan på **Lägg till steg**.
+1. Ange ett annat program **Status** och **Steg** nummer och klicka sedan på **Lägg till steg**.
 
    ![](assets/image2014-9-24-15-3a37-3a30.png)
 
    >[!TIP]
    >
-   >Stegnumret **används** för att sortera programstatus. Tänk på att det inte går att gå bakåt i dessa steg. De kan bara ändra status till ett högre eller lika värde. Använd lika värden när statusvärdena ska växla fram och tillbaka i stället för en progression.
+   >**Stegnumret** används för att sortera programstatus. Tänk på att det inte går att gå bakåt i dessa steg. De kan bara ändra status till ett högre eller lika värde. Använd lika värden när statusvärdena ska växla fram och tillbaka i stället för en progression.
 
-1. Ange den sista **programstatusen** och **stegnumret** .
+1. Ange det sista programmet **Status** och **Steg** nummer.
 
    ![](assets/image2014-9-24-15-3a39-3a15.png)
 
@@ -99,11 +99,11 @@ Ett program är ett specifikt marknadsföringsinitiativ. Kanalen är avsedd att 
    >
    >När du använder typen Händelse måste du mappa systemet för statusvärdena Registrerad, Väntelistat och Attended. Dessa statusvärden kan därför inte döljas.
 
-1. Välj **Mobile-incheckningsstatus** för **registrerad**.
+1. Välj **Mobile Check-in-status** för **registrerad**.
 
    ![](assets/image2014-9-24-15-3a39-3a43.png)
 
-1. Välj **Mobile-incheckningsstatus** för **Bifogad**.
+1. Välj **Mobile Check-in-status** för **Attended**.
 
    ![](assets/image2014-9-24-15-3a40-3a21.png)
 
@@ -116,13 +116,13 @@ Ett program är ett specifikt marknadsföringsinitiativ. Kanalen är avsedd att 
    >**Påminnelse**
    >
    >
-   >Endast personer med **Mobile Check-in-status**** **för **Registrerad** och **bifogad** kommer att visas i [Mobile Check-in-apparna](http://docs.marketo.com/display/docs/events).
+   >Endast personer med **Mobile Check-in-status**** **of **Registrerad** och **Deltar** visas i [apparna för mobilcheckning](http://docs.marketo.com/display/docs/events).
 
    >[!TIP]
    >
    >Om en ny person skapas i appen för mobilincheckning ställs den in på Registrerad i händelseprogrammet. Om en person checkas in i händelsen i appen ställs den in på Bifogad i händelseprogrammet.
 
-1. Välj **Slutfört** -programstatus och klicka sedan på **Skapa**.
+1. Välj **Programstatus** och klicka sedan på **Skapa**.
 
    ![](assets/image2014-9-24-15-3a42-3a54.png)
 
