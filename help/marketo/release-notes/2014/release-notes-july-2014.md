@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Följande funktioner ingår i juliversionen 2014. Kontrollera om din Marketo Edition innehåller funktioner. Efter releasen finns länkar till detaljerad funktionsdokumentation.
 
-## Marknadsföringskalender {#marketing-calendar}
+## Marknadskalender {#marketing-calendar}
 
-Se alla händelser, e-postmeddelanden med mera i alla program. [Den nya produkten](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) är kostnadsfri för kunder med 10 eller färre användare av Marketo Lead Management eller Dialog.
+Se alla händelser, e-postmeddelanden med mera i alla program. [Den nya ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) produkten kommer att vara tillgänglig utan kostnad för kunder med 10 eller färre användare av Marketo Lead Management eller Dialog.
 
 ![](assets/image2014-9-22-14-3a22-3a27.png)
 
 Dokumentation om marknadsföringskalendern kommer att finnas tillgänglig vid lanseringen.
 
-## Nytt utseende och känsla {#new-look-and-feel}
+## Ny Look och känsla {#new-look-and-feel}
 
 ![](assets/image2014-9-22-14-3a22-3a47.png)
 
@@ -31,13 +31,13 @@ Marketo Lead Management kommer att uppdateras med ett nytt utseende som är mode
 
 ## Datumoperatorer {#date-operators}
 
-[Avancerade filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) för&quot;tidigare&quot;,&quot;i framtiden&quot; och&quot;i framtiden efter&quot;. Du kan till exempel hitta leads som har ett födelsedatum inom de kommande tre månaderna eller ett kontrakt som upphör efter sex månader.
+[Avancerade ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) filter för&quot;tidigare&quot;,&quot;i framtiden&quot; och&quot;i framtiden efter&quot;. Du kan till exempel hitta leads som har ett födelsedatum inom de kommande tre månaderna eller ett kontrakt som upphör efter sex månader.
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 
 ![](assets/image2014-9-22-14-3a24-3a39.png)
 
-## Programplaneringsvy {#program-schedule-view}
+## Programschemavy {#program-schedule-view}
 
 Förutom den marknadsföringskalender du hanterar dina evenemang och standardprogram med finns det en ny schemavy direkt i programmet.
 
@@ -47,7 +47,7 @@ Förutom den marknadsföringskalender du hanterar dina evenemang och standardpro
 
 ## Lista åtgärder i ReST API {#list-operations-in-the-rest-api}
 
-Vi har lagt till anropen nedan som rör liståtgärder i ReST. Den fullständiga dokumentationen finns på [developers.marketo.com](http://developers.marketo.com/documentation/rest/) .
+Vi har lagt till anropen nedan som rör liståtgärder i ReST. Mer information finns i [developers.marketo.com](http://developers.marketo.com/documentation/rest/).
 
 * Hämta lista efter ID
 * Hämta flera listor
@@ -56,7 +56,7 @@ Vi har lagt till anropen nedan som rör liståtgärder i ReST. Den fullständiga
 
 ## Snabb listimport {#fast-list-import}
 
-Över **50 gånger snabbare** zoomas filerna in i Marketo! De gamla importalternativen &quot;Normal&quot; och &quot;Optimerad för nya leads&quot; har ersatts med &quot;Standard (snabb import)&quot;.
+Över **50x snabbare** zoomar filerna in på Marketo! De gamla importalternativen &quot;Normal&quot; och &quot;Optimerad för nya leads&quot; har ersatts med &quot;Standard (snabb import)&quot;.
 
 Alternativet Hoppa över nya leads och uppdateringar ändras inte.
 
@@ -78,7 +78,7 @@ RTP Set Campaign-sidan [innehåller nu färdiga mallar](/help/marketo/product-do
 
 ## RTP: Förbättringar i JavaScript API {#rtp-javascript-api-enhancements}
 
-Nytt RTP API-anrop för att få besöksdata i realtid, som organisation, bransch, plats och segmentkodsmatchning. Om du håller markören över ett segmentnamn på segmentsidan visas dessutom ett verktygstips som visar segmentkoden. Se vår [utvecklarwebbplats](http://developers.marketo.com/documentation/websites/rtp-js-api/) för fullständig dokumentation.
+Nytt RTP API-anrop för att få besöksdata i realtid, som organisation, bransch, plats och segmentkodsmatchning. Om du håller markören över ett segmentnamn på segmentsidan visas dessutom ett verktygstips som visar segmentkoden. Mer information finns på vår [utvecklarwebbplats](http://developers.marketo.com/documentation/websites/rtp-js-api/).
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
