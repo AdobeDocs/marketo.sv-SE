@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ## Redigera en token
 
-Klicka på den token du vill redigera på fliken [!UICONTROL My Tokens] i kampanjmappen eller -programmet **[!UICONTROL Value]** . Redigeringsfönstret öppnas.
+På fliken [!UICONTROL My Tokens] i kampanjmappen eller -programmet klickar du på **[!UICONTROL Value]** för den token som du vill redigera. Redigeringsfönstret öppnas.
 
 ![Bild ett](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-1.png)
 
 >[!NOTE]
 >
->Textvariabler har inget separat redigeringsfönster. Klicka på **[!UICONTROL Value]** för att göra textbundna redigeringar.
+>Textvariabler har inget separat redigeringsfönster. Klicka på **[!UICONTROL Value]** för att göra infogade redigeringar.
 
 ![Bild två](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-2.png)
 
@@ -30,7 +30,7 @@ Klicka på den token du vill redigera på fliken [!UICONTROL My Tokens] i kampan
 
    ![Bild tre](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-3.png)
 
-1. Klicka **[!UICONTROL Confirm]**.
+1. Klicka på **[!UICONTROL Confirm]**.
 
    ![Bild fyra](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-4.png)
 
@@ -50,6 +50,6 @@ Klicka på den token du vill redigera på fliken [!UICONTROL My Tokens] i kampan
 
 ## Kopiera ett tokennamn
 
-Om du vill kopiera namnet på en token till Urklipp (d.v.s. `{{my.Event Calendar File}}`) högerklickar du på variabeln och väljer **Kopiera tokennamn**.
+Om du vill kopiera namnet på en token till Urklipp (d.v.s. `{{my.Event Calendar File}}`) högerklickar du på token och väljer **Kopiera tokennamn**.
 
 ![Bild sju](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-7.png)
