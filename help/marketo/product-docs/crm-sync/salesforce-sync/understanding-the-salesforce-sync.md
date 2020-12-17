@@ -42,7 +42,7 @@ Synkroniseringen mellan Salesforce och Marketo är endast dubbelriktad för lead
 >
 >De [autentiseringsuppgifter du anger i Marketo för Salesforce](setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) används för att synkronisera data. Endast data som dessa autentiseringsuppgifter har åtkomst till inkluderas.
 
-Det finns många nyanser och funktioner om Salesforce-synkronisering. Läs mer i avsnittet [om](http://docs.marketo.com/display/docs/sfdc+sync+details)SFDC-synkronisering.
+Det finns många nyanser och funktioner om Salesforce-synkronisering. Läs mer i [SFDC-synkroniseringsinformationen](http://docs.marketo.com/display/docs/sfdc+sync+details).
 
 >[!MORELIKETHIS]
 >
