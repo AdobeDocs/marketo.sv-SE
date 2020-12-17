@@ -33,7 +33,7 @@ Tilldela endast Marketo-synkroniseringsanvändarrollen till Marketför att synkr
 >
 >Detta gäller Marketo version 4.0.0.14 och senare. I tidigare versioner måste alla användare ha synkroniseringsanvändarrollen. Mer information om hur du uppgraderar din marknadsföring finns i [Uppgradera Marketo-lösningen för Microsoft Dynamics](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
 
-1. Klicka på **Dokumentskydd under** Inställningar ****.
+1. Under **Inställningar** klickar du på **Säkerhet**.
 
    ![](assets/assign1.png)
 
@@ -41,7 +41,7 @@ Tilldela endast Marketo-synkroniseringsanvändarrollen till Marketför att synkr
 
    ![](assets/assign2.png)
 
-1. En lista över användare visas här. Markera den dedikerade Marketo-synkroniseringsanvändaren eller kontakta din [ADFS](https://msdn.microsoft.com/en-us/library/bb897402.aspx)-administratör (Active Directory Federation Services) för att skapa en dedikerad användare för Marketo.
+1. En lista över användare visas här. Markera den dedikerade Marketo-synkroniseringsanvändaren eller kontakta din [ADFS-administratör (Active Directory Federation Services)](https://msdn.microsoft.com/en-us/library/bb897402.aspx)(ADFS) för att skapa en dedikerad användare för Marketo.
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
@@ -59,7 +59,7 @@ Tilldela endast Marketo-synkroniseringsanvändarrollen till Marketför att synkr
 
    >[!NOTE]
    >
-   >Uppdateringar som görs i CRM av Synkronisera användare synkroniseras **inte** tillbaka till Marketo.
+   >Alla uppdateringar som görs i CRM av Sync User kommer **inte** att synkroniseras tillbaka till Marketo.
 
 ## Konfigurera Marketo-lösning {#configure-marketo-solution}
 
@@ -71,13 +71,13 @@ Nästan klart! Vi har bara några sista konfigurationer innan vi går vidare til
 
    >[!NOTE]
    >
-   >Om Marketo Config saknas kan du försöka uppdatera sidan. Om problemet kvarstår kan du [publicera Marketo-lösningen](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) eller försöka logga ut och in igen.
+   >Om Marketo Config saknas kan du försöka uppdatera sidan. Om problemet kvarstår kan du [publicera Marketo Solution](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) eller försöka logga ut och in igen.
 
 1. Klicka på **Standard**.
 
    ![](assets/configure2.png)
 
-1. Klicka på fältet **Marketo-användare** och välj synkroniseringsanvändare.
+1. Klicka på fältet **Marketo User** och välj synkroniseringsanvändare.
 
    ![](assets/configure3.png)
 
@@ -91,8 +91,8 @@ Nästan klart! Vi har bara några sista konfigurationer innan vi går vidare til
 
 ## Innan du fortsätter till steg 3 {#before-proceeding-to-step}
 
-* Om du vill begränsa antalet poster som du synkroniserar [ställer du in ett eget synkroniseringsfilter](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) nu.
-* Kör [verifieringsprocessen för Microsoft Dynamics Sync](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) . Den verifierar att dina initiala inställningar har gjorts korrekt.
+* Om du vill begränsa antalet poster som du synkroniserar [skapar du ett anpassat synkroniseringsfilter](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) nu.
+* Kör [Verifiera Microsoft Dynamics Sync](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)-processen. Den verifierar att dina initiala inställningar har gjorts korrekt.
 * Logga in på Marketo Sync User i Microsoft Dynamics CRM.
 
 >[!NOTE]
