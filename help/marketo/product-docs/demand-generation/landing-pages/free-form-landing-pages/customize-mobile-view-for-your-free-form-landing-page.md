@@ -31,13 +31,13 @@ Mobilvyn på landningssidan i friform är oftast automatisk, men du kan anpassa 
 
    ![](assets/image2015-1-22-18-3a33-3a12.png)
 
-1. Klicka på fliken **Mobil** .
+1. Klicka på fliken **Mobil**.
 
    ![](assets/image2015-1-22-18-3a31-3a40.png)
 
-## Mobil jämfört med skrivbordsvy {#mobile-vs-desktop-view}
+## Vyn Mobil jämfört med dator {#mobile-vs-desktop-view}
 
-Under Page Elements visas en ![](assets/image2015-1-22-18-3a39-3a53.png) ikon (skrivbord) och en ![](assets/image2015-1-22-18-3a40-3a31.png) (mobil) ikon. På så sätt kan du visa/dölja olika element dynamiskt.
+Under Page Elements visas en ![](assets/image2015-1-22-18-3a39-3a53.png)-ikon (skrivbord) och en ![](assets/image2015-1-22-18-3a40-3a31.png)-ikon (mobil). På så sätt kan du visa/dölja olika element dynamiskt.
 
 ![](assets/image2015-5-21-15-3a9-3a34.png)
 
@@ -56,7 +56,7 @@ Som standard visas allt i skrivbordsvyn i mobilvyn.
 * Det går bara att redigera ett mallelement, BODY#bodyid (mobil). Du kan använda det här alternativet om du vill ändra bakgrundsfärgen.\
    ![](assets/image2015-5-21-15-3a15-3a47.png)
 
-## Dölja ett element från mobilvyn {#hide-an-element-from-the-mobile-view}
+## Dölj ett element i mobilvyn {#hide-an-element-from-the-mobile-view}
 
 >[!TIP]
 >
@@ -70,7 +70,7 @@ Som standard visas allt i skrivbordsvyn i mobilvyn.
 
    ![](assets/image2015-5-21-15-3a30-3a17.png)
 
-## Lägga till ett element i mobilvyn {#add-an-element-to-the-mobile-view}
+## Lägg till ett element i mobilvyn {#add-an-element-to-the-mobile-view}
 
 >[!TIP]
 >
@@ -86,7 +86,7 @@ Som standard visas allt i skrivbordsvyn i mobilvyn.
 
 >[!TIP]
 >
->Mobilvyn kan också ha olika upplägg av sidelement. Flytta runt saker på startsidan för frihandslingan eller ändra ordning på objekten som listas under **Page Elements** med dra och släpp.
+>Mobilvyn kan också ha olika upplägg av sidelement. Flytta runt saker på startsidan för frihandssidan eller ändra ordning på objekten som listas under **Sidelement** med dra och släpp.
 
 ## Förhandsgranska mobilvy {#preview-mobile-view}
 
@@ -102,7 +102,7 @@ Som standard visas allt i skrivbordsvyn i mobilvyn.
 
    ![](assets/image2015-1-22-20-3a3-3a22.png)
 
-1. Om du gillar det klickar du på **Godkänn och Stäng**.
+1. Om du gillar det klickar du på **Godkänn och stäng**.
 
    ![](assets/image2015-1-22-20-3a5-3a36.png)
 
