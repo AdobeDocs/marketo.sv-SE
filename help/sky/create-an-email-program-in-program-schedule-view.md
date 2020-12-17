@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Du kan skapa nya e-postprogram direkt i programschemavyn.
 
-1. Välj programmet i trädet och gå sedan till **[!UICONTROL Schedule]** fliken under **[!UICONTROL Overview]**.
+1. Välj ditt program i trädet och gå sedan till fliken **[!UICONTROL Schedule]** under **[!UICONTROL Overview]**.
 
    ![Bild ett](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-1.png)
 
-1. Håll muspekaren över den dag du vill lägga till ett inlägg i och klicka sedan på **[!UICONTROL Add]**.
+1. Håll muspekaren över den dag du vill lägga till en post i och klicka sedan på **[!UICONTROL Add]**.
 
    ![Bild två](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-2.png)
 
@@ -28,7 +28,7 @@ Du kan skapa nya e-postprogram direkt i programschemavyn.
    >
    >Du kan också följa liknande steg för att skapa ett e-postprogram från vyerna Dag, Vecka eller Dagordning.
 
-1. Ange ett namn för den nya smarta kampanjen och ändra sedan **[!UICONTROL Type]** till [!UICONTROL Email Program]. Du kan också ändra **[!UICONTROL Start Date]** och avmarkera **[!UICONTROL Open In Agenda View]** om du vill stanna i kalendern när du har skapat posten. Klicka **[!UICONTROL Save]**.
+1. Ange ett namn för den nya smarta kampanjen och ändra sedan **[!UICONTROL Type]** till [!UICONTROL Email Program]. Du kan också ändra **[!UICONTROL Start Date]** och avmarkera **[!UICONTROL Open In Agenda View]** om du vill stanna i kalendern när du har skapat posten. Klicka på **[!UICONTROL Save]**.
 
    ![Bild tre](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-3.png)
 
@@ -42,4 +42,4 @@ Du kan skapa nya e-postprogram direkt i programschemavyn.
 
 >[!NOTE]
 >
->Du kan skapa e-postprogram i programschemavyn i, [!DNL Marketo Sky]men den faktiska programkonfigurationen kommer att vara i [!DNL Marketo Classic].
+>Du kan skapa e-postprogram i programschemavyn i [!DNL Marketo Sky], men den faktiska programinställningen är i [!DNL Marketo Classic].
