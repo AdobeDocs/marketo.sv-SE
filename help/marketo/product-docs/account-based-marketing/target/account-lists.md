@@ -15,13 +15,13 @@ ht-degree: 0%
 
 En kontolista är en samling namngivna konton som kan användas tillsammans. Med kontolistor kan du rikta in namngivna konton efter bransch, plats eller storlek för företaget.
 
-Förutom kontolistor kan du även skapa dynamiska kontolistor som genereras från offentliga CRM-kontovyer. En CRM-kontovy är en uppsättning regler som fungerar som ett filter när konton visas. Du kan till exempel använda den för att hitta konton där Branschen är Sjukvård *och* där Intäkterna är över 100 miljoner dollar.
+Förutom kontolistor kan du även skapa dynamiska kontolistor som genereras från offentliga CRM-kontovyer. En CRM-kontovy är en uppsättning regler som fungerar som ett filter när konton visas. Du kan till exempel använda den för att hitta konton där Bransch är hälso- och sjukvård *och* Intäkterna är över 100 miljoner USD.
 
 ![](assets/one.png)
 
 >[!NOTE]
 >
->Kontolistor som skapas i Marketo Account Based Marketing är automatiskt tillgängliga när du skapar smarta listor och webbkampanjer i [Webbpersonalisering](http://docs.marketo.com/display/DOCS/RTP+Segments).
+>Kontolistor som skapats i Marketo Account Based Marketing är automatiskt tillgängliga när du skapar smarta listor och webbkampanjer i [Webbpersonalisering](http://docs.marketo.com/display/DOCS/RTP+Segments).
 
 ## Skapa en ny kontolista {#create-a-new-account-list}
 
@@ -33,7 +33,7 @@ Förutom kontolistor kan du även skapa dynamiska kontolistor som genereras frå
 
    ![](assets/three-0.png)
 
-1. När du har skapat din kontolista kan du komma igång med att [lägga till namngivna konton i den](http://docs.marketo.com/display/DOCS/Add+an+Existing+Named+Account+to+an+Account+List)!
+1. När du har skapat din kontolista börjar du [lägga till namngivna konton i den](http://docs.marketo.com/display/DOCS/Add+an+Existing+Named+Account+to+an+Account+List)!
 
    >[!NOTE]
    >
@@ -41,7 +41,7 @@ Förutom kontolistor kan du även skapa dynamiska kontolistor som genereras frå
 
 ## Skapa en ny dynamisk kontolista {#create-a-new-dynamic-account-list}
 
-1. Klicka på listrutan **Ny** och välj **Skapa ny dynamisk lista**.
+1. Klicka på listrutan **Nytt** och välj **Skapa ny dynamisk lista**.
 
    ![](assets/1.png)
 
@@ -61,9 +61,9 @@ Förutom kontolistor kan du även skapa dynamiska kontolistor som genereras frå
 
 >[!NOTE]
 >
->De här stegen gäller endast för kontolistor. *I dynamiska* kontolistor används namnet på deras associerade CRM-kontovyer.
+>De här stegen gäller endast för kontolistor. *I* dynamiska kontolistor används namnet på deras associerade CRM-kontovyer.
 
-1. Välj det konto du vill byta namn på, klicka på listrutan Åtgärder för **kontolista** och välj **Byt namn på kontolista**.
+1. Välj det konto du vill byta namn på, klicka på listrutan **Kontoliståtgärder** och välj **Byt namn på kontolista**.
 
    ![](assets/three.png)
 
