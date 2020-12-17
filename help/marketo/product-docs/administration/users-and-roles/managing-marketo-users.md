@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-9-11-3a35-3a15.png)
 
-1. Ange **e-postadress**, **förnamn** och **efternamn. **
+1. Ange **e-postadress**, **Förnamn** och **Efternamn. **
 
    ** ![](assets/image2016-5-24-9-3a45-3a30.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
    >
    >När förfallodatumet inkommer får användaren ett meddelande om förfallodatum och kontot är låst.
 
-1. Välj **Role **och klicka på **Nästa**.
+1. Välj **Roll **och klicka på **Nästa**.
 
    ![](assets/image2016-5-24-10-3a1-3a33.png)
 
