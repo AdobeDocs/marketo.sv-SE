@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Lägg till Google AdWords som en LaunchPoint-tjänst {#add-google-adwords-as-a-launchpoint-service}
 
-Länka ditt Google AdWords-konto till Marketo för att automatiskt överföra konverteringsdata offline från Marketo till Google AdWords. Sedan kan ni från gränssnittet för AdWords enkelt se vilka klick som resulterat i kvalificerade leads, affärsmöjligheter och nya kunder (eller vilka intäktssteg ni vill spåra) efter att ni [lagt till anpassade kolumner](https://support.google.com/adwords/answer/3073556) i AdWords. Den här informationen visas inte i Marketo-gränssnittet.
+Länka ditt Google AdWords-konto till Marketo för att automatiskt överföra konverteringsdata offline från Marketo till Google AdWords. Från gränssnittet för AdWords kan du sedan enkelt se vilka klick som resulterat i kvalificerade leads, affärsmöjligheter och nya kunder (eller vilka intäktssteg du vill spåra) efter att du har [lagt till anpassade kolumner](https://support.google.com/adwords/answer/3073556) i AdWords. Den här informationen visas inte i Marketo-gränssnittet.
 
-Läs mer om [Googles importfunktion](https://support.google.com/adwords/answer/2998031?hl=en)för offlinekonvertering.
+Läs mer om [Googles importfunktion för offlinekonvertering](https://support.google.com/adwords/answer/2998031?hl=en).
 
 >[!NOTE]
 >
@@ -23,9 +23,9 @@ Läs mer om [Googles importfunktion](https://support.google.com/adwords/answer/2
 
 >[!NOTE]
 >
->Du kan även integrera en [Google AdWords som en Launchpoint-tjänst med ett hanterarkonto](add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md).
+>Du kan även integrera en [Google AdWords som en startpunktstjänst med ett hanterarkonto](add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md).
 
-1. Gå till avsnittet **Admin** .
+1. Gå till avsnittet **Admin**.
 
    ![](assets/login-admin.png)
 
@@ -57,7 +57,7 @@ Läs mer om [Googles importfunktion](https://support.google.com/adwords/answer/2
 
    ![](assets/image2015-2-23-16-3a32-3a45.png)
 
-1. Status visas som **Slutfört**. Välj **Nästa**.
+1. Status visas som **Lyckades**. Välj **Nästa**.
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
@@ -65,7 +65,7 @@ Läs mer om [Googles importfunktion](https://support.google.com/adwords/answer/2
 
    ![](assets/image2015-2-23-16-3a53-3a4.png)
 
-1. Attributkonvertering till **första klickningen** eller **sista klicket**.
+1. Attributkonvertering till **Första klicket** eller **Sista klicket**.
 
    | Typ | Definition |
    |---|---|
@@ -84,7 +84,7 @@ Läs mer om [Googles importfunktion](https://support.google.com/adwords/answer/2
 
    >[!NOTE]
    >
-   >[Automatisk taggning](https://support.google.com/adwords/answer/1752125?hl=en) måste vara markerat för att den här funktionen ska fungera. Inaktiveringen måste göras i AdWords.
+   >[Automatisk ](https://support.google.com/adwords/answer/1752125?hl=en) taggning måste vara markerat för att den här funktionen ska fungera. Inaktiveringen måste göras i AdWords.
 
    >[!NOTE]
    >
