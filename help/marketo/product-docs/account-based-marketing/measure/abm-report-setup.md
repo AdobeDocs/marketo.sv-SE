@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# ABM-rapportinställningar {#abm-report-setup}
+# Rapportinställningar för ABM {#abm-report-setup}
 
 ABM:s försäljningsrapport är ett personligt e-postmeddelande som skickas till kontoteamet varje vecka.
 
@@ -29,15 +29,15 @@ ABM:s försäljningsrapport är ett personligt e-postmeddelande som skickas till
 
    ![](assets/three-3.png)
 
-1. Klicka på listrutan **Dag** och välj den dag i veckan som du vill att mottagarna ska få e-postmeddelandet.
+1. Klicka på listrutan **Dag** och välj den veckodag du vill att mottagarna ska ta emot e-postmeddelandet.
 
    ![](assets/four-4.png)
 
-1. Om du vill bestämma layouten för e-postmeddelandet klickar du på **Sortera efter** och gör ett val.
+1. Om du vill fastställa layouten för e-postmeddelandet klickar du på listrutan **Sortera efter** och gör ett val.
 
    ![](assets/five-3.png)
 
-1. Markera kryssrutan **Användare** , klicka på listrutan och välj vem du vill ska få e-postmeddelandet.
+1. Markera kryssrutan **Användare**, klicka sedan på listrutan och välj vem du vill få e-postmeddelandet.
 
    ![](assets/six-2.png)
 
@@ -57,7 +57,7 @@ Varje rapport har möjligheten att avanmäla sig. Det gör du genom att klicka p
 
 ![](assets/eight-1.png)
 
-## Så här återprenumererar du {#how-to-resubscribe}
+## Så här prenumererar du om {#how-to-resubscribe}
 
 1. Klicka på **Admin**.
 
@@ -75,7 +75,7 @@ Varje rapport har möjligheten att avanmäla sig. Det gör du genom att klicka p
 
    ![](assets/ten.png)
 
-1. Välj den användare som du vill få e-post till igen och klicka på **Prenumerera** igen.
+1. Välj den användare som du vill ta emot e-postmeddelanden till igen och klicka på **Prenumerera**.
 
    ![](assets/eleven.png)
 
