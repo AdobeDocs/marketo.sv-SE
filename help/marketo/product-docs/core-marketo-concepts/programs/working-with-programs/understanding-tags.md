@@ -23,7 +23,7 @@ Märkordstyper identifierar den typ av information som du vill sortera efter.
 
 >[!TIP]
 >
->Kontakta din [Marketo Admin](http://docs.marketo.com/display/DOCS/Create+Custom+Tags) om du vill skapa egna taggar.
+>Tala med din [Marketo Admin](http://docs.marketo.com/display/DOCS/Create+Custom+Tags) om du vill skapa egna taggar.
 
 >[!NOTE]
 >
@@ -55,7 +55,7 @@ Varje taggtyp har värden att välja mellan.
 
 ## Kanal {#channel}
 
-Kanaler används för att rapportera hur [medlemmarna](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) har gått igenom programmet. Varje kanal har en uppsättning status för progression och en status som är inställd på samma framgång.
+Kanaler används för att rapportera hur [medlemmarna](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) har gått igenom ditt program. Varje kanal har en uppsättning status för progression och en status som är inställd på samma framgång.
 
 >[!NOTE]
 >
