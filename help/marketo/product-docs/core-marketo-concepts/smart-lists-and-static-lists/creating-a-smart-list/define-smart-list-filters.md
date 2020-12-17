@@ -22,19 +22,19 @@ ht-degree: 0%
 
 
 
-Nu när du har [skapat en smart lista](create-a-smart-list.md) och [lagt till filter](find-and-add-filters-to-a-smart-list.md) i den kan vi definiera filtren. Så här gör du.
+Nu när du har [skapat en smart lista](create-a-smart-list.md) och [lagt till filter](find-and-add-filters-to-a-smart-list.md) till den definierar vi filtren. Så här gör du.
 
 Låt oss definiera de här filtren för att hitta alla i Kalifornien med en poäng över 50.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Markera den smarta listan och klicka på fliken **Smart lista** .
+1. Markera den smarta listan och klicka på fliken **Smart lista**.
 
    ![](assets/smarlist-choosefilters.png)
 
-1. Sök efter och välj **CA** som **tillståndsfilter** .
+1. Sök efter och välj **CA** som **State**-filter.
 
    ![](assets/smartlistdefinefilters.png)
 
@@ -43,7 +43,7 @@ Låt oss definiera de här filtren för att hitta alla i Kalifornien med en poä
    >**Påminnelse**
    >
    >
-   >Du kanske lagrar både **Kalifornien** och **CA**. Om du vill filtrera efter båda värdena och inkludera *alla *personer från Kalifornien kan du lära dig hur du [lägger till flera värden i ett smart listfilter](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md).
+   >Du kanske lagrar både **California** och **CA**. Om du vill filtrera efter båda värdena och inkludera *alla *personer från Kalifornien ska du lära dig hur du [lägger till flera värden i ett smart listfilter](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md).
 
 1. Välj operatorn **större än** och ange **50**.
 
