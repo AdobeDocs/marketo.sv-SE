@@ -25,14 +25,14 @@ När du har skapat ett e-postprogram vill du berätta vem du vill skicka e-postm
 >
 >Alla datum-/tidfält som importeras behandlas som centraltid. Om du har datum-/tidsfält i en annan tidszon kan du använda en Excel-formel för att omvandla den till Central Time (USA/Chicago).
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
    Välj e-postprogrammet och klicka sedan på Importera lista under målgruppspanelen.
    ![](assets/importlist.png)
 
-1. Listimportfönstret öppnas, klicka på **Bläddra** och välj den fil du vill importera. När du har valt en lista med personer klickar du på Nästa.
+1. Listimportfönstret öppnas. Klicka på **Bläddra** och välj den fil du vill importera. När du har valt en lista med personer klickar du på Nästa.
 1. ![](assets/importlist1.png)
 
    >[!CAUTION]
@@ -70,7 +70,7 @@ När du har skapat ett e-postprogram vill du berätta vem du vill skicka e-postm
 >
 Klicka på numret om du vill se en detaljerad lista över personer som blockerats från utskick.
 >
->Använd knappen ![—](assets/image2014-10-23-16-3a32-3a36-1.png) på **publikpanelen** för att se hur många personer som är kvalificerade att ta emot e-postmeddelandet baserat på villkoren i den smarta listan. Ta bort det blockerade numret från personnumret för att få det totala antalet personer som ska få e-postmeddelandet.
+>Använd knappen ![—](assets/image2014-10-23-16-3a32-3a36-1.png) på **målgruppspanelen** för att se hur många personer som är kvalificerade att ta emot e-postmeddelandet baserat på villkoren i den smarta listan. Ta bort det blockerade numret från personnumret för att få det totala antalet personer som ska få e-postmeddelandet.
 
 >[!TIP]
 >
