@@ -17,7 +17,7 @@ Inkommande länkar anger för sökmotorer att din webbplats är värd att refere
 
 ![](assets/image2014-9-18-13-3a18-3a10.png)
 
-## Kolumndefinition {#definition-of-columns}
+## Definition av kolumner {#definition-of-columns}
 
 | Kolumnrubrik | Beskrivning |
 |---|---|
