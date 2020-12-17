@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Det blir enkelt att se hur effektivt innehållet i engagemangsprogrammet är. Poängen varierar mellan 0 och 100. Gå [till Engagement Dashboard](https://docs.marketo.com/display/DOCS/The+Engagement+Dashboard) för att se hur du kan spåra innehållets prestanda.
+Det blir enkelt att se hur effektivt innehållet i engagemangsprogrammet är. Poängen varierar mellan 0 och 100. Ta en titt på [Enterprise Dashboard](https://docs.marketo.com/display/DOCS/The+Engagement+Dashboard) för att se hur du kan spåra innehållets prestanda.
 
 ![Bild ett](/help/sky/assets/engagement-programs/understanding-the-engagement-score/understanding-the-engagement-score-1.png)
 
