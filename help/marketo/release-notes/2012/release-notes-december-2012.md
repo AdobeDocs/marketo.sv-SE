@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Versionsinformation: December 2012 {#release-notes-december}
 
-Decemberversionen innehåller den efterlängtade funktionen **Framåt till vän** , samt flera andra godbitar! Observera att funktioner som är markerade med en asterisk (*) endast är tillgängliga i Select Edition och i RCA (Revenue Cycle Analytics).
+Decemberversionen innehåller den mycket förväntade funktionen **Vidarebefordra till vän**, samt flera andra godbitar! Observera att funktioner som är markerade med en asterisk (*) endast är tillgängliga i Select Edition och i RCA (Revenue Cycle Analytics).
 
 ## Vidarebefordra till vän {#forward-to-friend}
 
-Möjliggör delning av innehåll med andra genom att inkludera en länk **Framåt till vän** i dina e-postmeddelanden. Genom att lägga till nya filter och utlösare kan du identifiera påverkarna genom att identifiera de användare som har vidarebefordrat ett e-postmeddelande samt de som har tagit emot de vidarebefordrade e-postmeddelandena.
+Aktivera delning av innehåll med andra genom att ta med en **länk för vidarebefordran till vän** i dina e-postmeddelanden. Genom att lägga till nya filter och utlösare kan du identifiera påverkarna genom att identifiera de användare som har vidarebefordrat ett e-postmeddelande samt de som har tagit emot de vidarebefordrade e-postmeddelandena.
 
-Om du vill ta med en inbjudan **till vännen** i ditt e-postmeddelande öppnar du den i redigeraren och infogar `{{system.forwardToFriendLink}}` token.
+Om du vill inkludera en **Forward-to-Friend**-inbjudan i ditt e-postmeddelande öppnar du den i redigeraren och infogar `{{system.forwardToFriendLink}}`-token.
 
 ![](assets/image2014-9-23-10-3a50-3a45.png)
 
-Använd motsvarande utlösare och filter för att identifiera användare som använde länken **Vidarebefordra till vän** och de som tog emot e-postmeddelandet.
+Använd motsvarande utlösare och filter för att identifiera användare som använde länken **Vidarebefordra till vän** och de som fick e-postmeddelandet.
 
 ![](assets/image2014-9-23-10-3a50-3a56.png)
 
@@ -47,30 +47,30 @@ Med Marketo BrightTALK-adaptern kan du hämta närvaroinformation från en live-
 
 Sales Insight är nu tillgängligt för Microsoft Dynamics-kunder!
 
-## Dynamics-affärsmöjlighet, synkronisering {#dynamics-opportunity-sync}
+## Dynamics-säljprojektssynkronisering {#dynamics-opportunity-sync}
 
 Synkronisera affärsmöjlighetsdata mellan Marketo och Microsoft Dynamics.
 
-## Rapport om marknadsföringsmöjligheter* {#marketing-influenced-opportunities-report}
+## Rapport om marknadsföringspåverkade affärsmöjligheter* {#marketing-influenced-opportunities-report}
 
-Se hur stor procentandel av företagets pipeline och intäkter som påverkades av era marknadsföringsprogram. I **intäktsutforskaren** kan du nu skapa anpassade rapporter med den nya gula punkten&quot;Marknadsföringspåverkad möjlighet&quot; i säljprojektsanalysen. Du kan också använda följande två rapporter i standardmappen:
+Se hur stor procentandel av företagets pipeline och intäkter som påverkades av era marknadsföringsprogram. I **Intresseutforskaren** kan du nu skapa anpassade rapporter med den nya gula punkten&quot;Marknadsföringspåverkad möjlighet&quot; i säljprojektsanalysen. Du kan också använda följande två rapporter i standardmappen:
 
 * Marknadsföringspåverkan på skapade affärsmöjligheter
 * Marknadsföringspåverkan på stängda affärsmöjligheter
 
 ![](assets/image2014-9-23-10-3a52-3a11.png)
 
-## Anpassade säljprojektsfält i analys av programsäljprojekt* {#custom-opportunity-fields-in-program-opportunity-analysis}
+## Anpassade fält för affärsmöjlighet i analys av affärsmöjlighet* {#custom-opportunity-fields-in-program-opportunity-analysis}
 
 Lägg till anpassade affärsmöjlighetsfält för att berika dina rapporter om analys av affärsmöjligheter i Intäktsutforskaren.
 
 ![](assets/image2014-9-23-10-3a52-3a23.png)
 
-## Campaign Inspector {#campaign-inspector}
+## Kampanjinspektör {#campaign-inspector}
 
 Har du någonsin undrat vilka kampanjer som använder en specifik flödesåtgärd, som Change Score eller Request Campaign? Eller var används ett visst filter? Med den nya Campaign Inspector (som finns i The Treasure Chest) kan ni identifiera dessa kampanjer samt aktiva kampanjer och kampanjer med fel.
 
-Gå till **Admin** > **Skattekontroll** för att aktivera** Campaign Inspector**.
+Gå till **Admin** > **Skattekontroll** och aktivera* kampanjkontrollen**.
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)
 
