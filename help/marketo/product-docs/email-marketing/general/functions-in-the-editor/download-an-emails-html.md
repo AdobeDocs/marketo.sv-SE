@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ladda ned HTML för ett e-postmeddelande {#download-an-emails-html}
+# Hämta HTML {#download-an-emails-html} för ett e-postmeddelande
 
 För säkerhetskopiering och andra ändamål kan du med Marketo hämta HTML-innehållet i ett e-postmeddelande.
 
