@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Ni kan använda engagemangsprogram i [!DNL Marketo] för att enkelt skapa e-postnäring.
 
-1. I [!DNL Marketing Activities]väljer du den mapp som du vill skapa engagemangsprogrammet i.
+1. I [!DNL Marketing Activities] väljer du den mapp som du vill skapa engagemangsprogrammet i.
 
    ![Bild ett](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-1.png)
 
-1. Klicka på **[!UICONTROL Folder Actions]** listrutan och välj **[!UICONTROL New Program]**.
+1. Klicka på listrutan **[!UICONTROL Folder Actions]** och välj **[!UICONTROL New Program]**.
 
    ![Bild två](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-2.png)
 
@@ -28,10 +28,10 @@ Ni kan använda engagemangsprogram i [!DNL Marketo] för att enkelt skapa e-post
    >
    >Du kan också högerklicka på mappen och välja Nytt program.
 
-1. Ange en **[!UICONTROL Name]** och markera i [!UICONTROL Type] listrutan **[!UICONTROL Engagement]**.
+1. Ange ett **[!UICONTROL Name]**-värde och välj **[!UICONTROL Engagement]** i listrutan [!UICONTROL Type].
 
    ![Bild tre](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-3.png)
 
-1. Välj en [!UICONTROL Workspace] och [!UICONTROL Destination]. Lägg till valfritt [!UICONTROL Description] och [!UICONTROL Labels]. Klicka **[!UICONTROL Add]** när du är klar.
+1. Välj en [!UICONTROL Workspace] och [!UICONTROL Destination]. Lägg till [!UICONTROL Description] och [!UICONTROL Labels] som tillval. Klicka på **[!UICONTROL Add]** när du är klar.
 
    ![Bild fyra](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-4.png)
