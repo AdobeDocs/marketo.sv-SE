@@ -19,19 +19,19 @@ Genom att lägga till konkurrenter kan du spåra hur de fungerar för samma nyck
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till avsnittet **Admin** .
+1. Gå till avsnittet **Admin**.
 
    ![](assets/image2014-9-17-21-3a12-3a15.png)
 
-1. Klicka på fliken **Konkurrenter** .
+1. Klicka på fliken **Konkurrenter**.
 
    ![](assets/image2014-9-17-21-3a12-3a31.png)
 
-1. Klicka på **LÄGG TILL KONKURRENTER**.
+1. Klicka på **LÄGG TILL KOMPETITOR**.
 
    ![](assets/image2014-9-17-21-3a12-3a38.png)
 
-1. Skriv in konkurrentens **namn** och **URL** .
+1. Skriv in **namnet** och **URL** för din konkurrent.
 
    ![](assets/image2014-9-17-21-3a13-3a5.png)
 
