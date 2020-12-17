@@ -18,7 +18,7 @@ Om du vill arkivera ett program måste du flytta det till en separat arkivmapp.
 
    ![Bild ett](/help/sky/assets/programs/archive-a-program/archive-a-program-1.png)
 
-1. Ange ett namn för den nya mappen och lägg sedan till en valfri beskrivning. Klicka **[!UICONTROL Create]**.
+1. Ange ett namn för den nya mappen och lägg sedan till en valfri beskrivning. Klicka på **[!UICONTROL Create]**.
 
    ![Bild två](/help/sky/assets/programs/archive-a-program/archive-a-program-2.png)
 
@@ -26,7 +26,7 @@ Om du vill arkivera ett program måste du flytta det till en separat arkivmapp.
 
    ![Bild tre](/help/sky/assets/programs/archive-a-program/archive-a-program-3.png)
 
-1. Skriv för att söka efter den nya mappen och välj den i listrutan. Klicka **[!UICONTROL Move]**.
+1. Skriv för att söka efter den nya mappen och välj den i listrutan. Klicka på **[!UICONTROL Move]**.
 
    ![Bild fyra](/help/sky/assets/programs/archive-a-program/archive-a-program-4.png)
 
