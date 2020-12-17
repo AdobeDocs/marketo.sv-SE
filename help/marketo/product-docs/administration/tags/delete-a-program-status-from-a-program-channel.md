@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Programstatus är kontrollpunkter via en programsökväg (kanal). Om du gör en status av misstag eller inte längre behöver den kan du ta bort den.
 
-1. Gå till avsnittet **Admin** .
+1. Gå till avsnittet **Admin**.
 
    ![](assets/admin.png)
 
@@ -23,11 +23,11 @@ Programstatus är kontrollpunkter via en programsökväg (kanal). Om du gör en 
 
    ![](assets/image2014-9-24-15-3a51-3a24.png)
 
-1. Markera den kanal som du vill ta bort en status från och klicka sedan på **Redigera** under **taggåtgärder**.
+1. Markera den kanal som du vill ta bort en status från och klicka sedan på Redigera **taggåtgärder** under **Redigera**.
 
    ![](assets/image2014-9-24-15-3a51-3a45.png)
 
-1. Klicka ![-](assets/image2014-9-24-15-3a52-3a39.png) för att ta bort statusen och klicka sedan på **SPARA**.
+1. Klicka på ![—](assets/image2014-9-24-15-3a52-3a39.png) för att ta bort statusen och klicka sedan på **SPARA**.
 
    >[!TIP]
    >
@@ -35,4 +35,4 @@ Programstatus är kontrollpunkter via en programsökväg (kanal). Om du gör en 
 
    ![](assets/image2014-9-24-15-3a57-3a53.png)
 
-Snyggt gjort! Du kan också [ta bort en hel kanal](delete-a-program-channel.md) om det behövs.
+Snyggt gjort! Du kan även [ta bort en hel kanal](delete-a-program-channel.md) om du behöver det.
