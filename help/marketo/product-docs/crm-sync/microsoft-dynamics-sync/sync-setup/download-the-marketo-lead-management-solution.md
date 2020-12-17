@@ -21,13 +21,13 @@ Du måste hämta och installera en Marketo-lösning i ditt Microsoft Dynamics-ko
 
 >[!CAUTION]
 >
->Du måste ladda ned den senaste Marketo-lösningen *innan* du utför en uppgradering.
+>Du måste ladda ned den senaste Marketo-lösningen *innan du utför en uppgradering.*
 
 >[!NOTE]
 >
 >Marketo stöder endast SSL-certifikat som är kompatibla med Java 7 just nu.
 
-1. Gå till området **Admin** .
+1. Gå till området **Admin**.
 
    ![](assets/admin.png)
 
