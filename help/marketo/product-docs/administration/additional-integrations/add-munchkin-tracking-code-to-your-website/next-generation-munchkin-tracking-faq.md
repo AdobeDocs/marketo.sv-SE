@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Nästa generations Munchkin Tracking - frågor och svar {#next-generation-munchkin-tracking-faq}
+# Nästa generation Munchkin Tracking - frågor och svar {#next-generation-munchkin-tracking-faq}
 
 Vi är glada över att kunna meddela att vi snart kommer att påbörja en fasad lansering av nästa generations webbspårningsteknik.
 
@@ -46,7 +46,7 @@ Om du redan använder det här filtret i en smart lista (till exempel i en smart
 >**Exempel**
 >
 >**Utlösare**: Besök webbsidan, webbsidan är prissättningssida\
->**Flöde**: Change Score +10 and Intressant stund, **Web**: Visad prissida
+>**Flöde**: Change Score +10 and Intressant stund,  **Web**: Visad prissida
 >
 >Om en anonym person besöker prissidan för Munchkin V2 kommer hon inte att delta i kampanjen direkt. När den anonyma personen blir känd ska vi genomföra kampanjen mot henne. Hon kommer att:
 >
@@ -98,4 +98,4 @@ Kolla in länkarna:
 
 ## Jag har fler frågor! Hur får jag svar på dem? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Var snäll och nå ut till [communityn](https://nation.marketo.com/welcome). Du kan även skicka ett e-postmeddelande till [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4c3f393c3c233e380c212d3e27293823622f232162) De besvarar gärna dina frågor.
+Kontakta dig på [communityn](https://nation.marketo.com/welcome). Du kan också skicka ett e-postmeddelande till [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4c3f393c3c233e380c212d3e27293823622f232162) De besvarar gärna dina frågor.
