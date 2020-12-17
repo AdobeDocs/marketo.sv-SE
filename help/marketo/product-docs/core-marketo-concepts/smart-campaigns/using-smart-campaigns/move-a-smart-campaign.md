@@ -17,7 +17,7 @@ Flytta en smart kampanj mellan olika program eller mappar genom att dra och slä
 
 ## Använd dra och släpp {#use-drag-and-drop}
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -31,7 +31,7 @@ Flytta en smart kampanj mellan olika program eller mappar genom att dra och slä
    >
    >Reglerna för er smarta kampanj ändras inte - den kommer bara att kapslas på en annan plats.
 
-## Använda flyttfunktionen {#use-the-move-feature}
+## Använd flyttningsfunktionen {#use-the-move-feature}
 
 Smarta kampanjer kan också flyttas med flyttfunktionen i trädet.
 
