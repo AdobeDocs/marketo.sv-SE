@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Statiska listor är en grupp personer som redan finns i din databas. Så här skapar du en.
 
-1. Gå till **databas**.
+1. Gå till **Database**.
 
    ![](assets/db.png)
 
