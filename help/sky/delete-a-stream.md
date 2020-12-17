@@ -20,7 +20,7 @@ Om du någonsin behöver ta bort en ström från engagemangsprogrammet följer d
 
    ![Bild ett](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-1.png)
 
-1. Klicka på **[!UICONTROL Streams]** fliken.
+1. Klicka på fliken **[!UICONTROL Streams]**.
 
    ![Bild två](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-2.png)
 
@@ -29,7 +29,7 @@ Om du någonsin behöver ta bort en ström från engagemangsprogrammet följer d
    >Om du tar bort en ström går historikdata förlorade för
    >innehållet i den strömmen.
 
-1. Klicka på kugghjulsikonen och välj sedan **[!UICONTROL Delete]**.
+1. Klicka på kugghjulsikonen och välj **[!UICONTROL Delete]**.
 
    ![Bild tre](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-3.png)
 
