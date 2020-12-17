@@ -37,5 +37,5 @@ Du kan ta bort från Marketo och inte från CRM, som:
 
 >[!NOTE]
 >
->Att ta bort personen från CRM fungerar **bara med Salesforce**. Om du tar bort en person från Marketo och väljer att behålla dem i Salesforce, återskapas de i Marketo om deras Salesforce-post någonsin uppdateras.
+>Att ta bort personen från CRM **fungerar bara med Salesforce**. Om du tar bort en person från Marketo och väljer att behålla dem i Salesforce, återskapas de i Marketo om deras Salesforce-post någonsin uppdateras.
 
