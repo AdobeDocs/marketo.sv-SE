@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Smarta kampanjer är det viktigaste verktyget i [!DNL Marketo]. De kan aktiveras av en person och utföra åtgärder, eller slå ihop miljontals människor och köra en serie flödessteg.
 
-1. I [!UICONTROL Marketing Activities]väljer du det program eller den mapp där den smarta kampanjen ska finnas.
+1. I [!UICONTROL Marketing Activities] väljer du det program eller den mapp där du vill att den smarta kampanjen ska finnas.
 
    ![Bild ett](/help/sky/assets/smart-campaigns/create-a-smart-campaign/create-a-smart-campaign-1.png)
 
@@ -28,6 +28,6 @@ Smarta kampanjer är det viktigaste verktyget i [!DNL Marketo]. De kan aktiveras
 >
 >Ni kan skapa smarta kampanjer som lokala resurser i alla program.
 
-1. Ge den smarta kampanjen ett namn (och lägg till valfri beskrivning/etiketter) och klicka på **[!UICONTROL Create]**.
+1. Namnge den smarta kampanjen (och lägg till valfri beskrivning/etiketter) och klicka på **[!UICONTROL Create]**.
 
    ![Bild tre](/help/sky/assets/smart-campaigns/create-a-smart-campaign/create-a-smart-campaign-3.png)
