@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ställ in kontoinsikter {#set-up-account-insight}
+# Ställ in kontoinsikt {#set-up-account-insight}
 
 Så här konfigurerar du Account Insight.
 
@@ -23,7 +23,7 @@ Så här konfigurerar du Account Insight.
 
    ![](assets/admin-1.png)
 
-1. Klicka på **ABM** i trädet och sedan på fliken **ABM Sales** .
+1. Klicka på **ABM** i trädet och sedan på fliken **ABM Sales**.
 
    ![](assets/two-5.png)
 
@@ -37,7 +37,7 @@ Så här konfigurerar du Account Insight.
 
    >[!NOTE]
    >
-   >Om inställningarna [för](http://docs.marketo.com/display/DOCS/Account+Score) kontopoäng uppdateras vid något tillfälle måste konfigurationen under ABM-försäljning uppdateras av en administratör för att poängen ska återspegla användarens inställningar. Användaren måste logga ut och logga in igen för att se ändringarna.
+   >Om [kontopoängsinställningarna](http://docs.marketo.com/display/DOCS/Account+Score) uppdateras vid något tillfälle måste konfigurationen under ABM-försäljning uppdateras av en administratör för att se till att poängen korrekt återspeglar användarens inställningar. Användaren måste logga ut och logga in igen för att se ändringarna.
 
 1. Klicka på **Spara**.
 
