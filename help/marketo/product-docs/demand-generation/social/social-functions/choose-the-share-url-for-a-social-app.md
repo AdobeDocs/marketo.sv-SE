@@ -15,7 +15,7 @@ ht-degree: 0%
 
 När du skapar en social app kan du välja vilken URL som ska delas i inlägg från deltagarna.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -23,7 +23,7 @@ När du skapar en social app kan du välja vilken URL som ska delas i inlägg fr
 
    ![](assets/image2015-4-21-11-3a12-3a12.png)
 
-1. Gå till **Appinställningar** i redigeraren för sociala appar och sedan **Avancerade alternativ**.
+1. Gå till **Appinställningar** i redigeraren för sociala appar och **Avancerade alternativ**.
 
    ![](assets/image2015-4-21-11-3a14-3a46.png)
 
