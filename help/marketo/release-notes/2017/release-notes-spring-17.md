@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Versionsinformation: Våren 17 {#release-notes-spring}
+# Versionsinformation: Spring &#39;17 {#release-notes-spring}
 
 Följande funktioner finns i vårutgåvan 17. Se om din Marketo-utgåva har funktioner tillgängliga.
 
@@ -19,9 +19,9 @@ Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion
 
 ## [LinkedIn Lead Gen Forms](https://docs.marketo.com/x/ngLG) {#linkedin-lead-gen-forms}
 
-[LinkedIn Lead Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) är ett mer direkt sätt för ett företag att köra leadgenereringskampanjer på LinkedIn. Man kan fylla i blanketter för att uttrycka sitt intresse för en produkt eller tjänst, vilket gör det möjligt för företaget att samla in personuppgifterna och synka dem till Marketo, där automatiserade uppföljningsprocesser och leadhanteringsaktiviteter kan förekomma.
+[LinkedIn Lead Gen ](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) Forms är ett mer direkt sätt för ett företag att köra leadgenereringskampanjer på LinkedIn. Man kan fylla i blanketter för att uttrycka sitt intresse för en produkt eller tjänst, vilket gör det möjligt för företaget att samla in personuppgifterna och synka dem till Marketo, där automatiserade uppföljningsprocesser och leadhanteringsaktiviteter kan förekomma.
 
-Marketo-integreringen med LinkedIn Lead Gen Forms hämtar automatiskt information som ett lead tillhandahåller i formuläret Lead Gen. Uppföljningsåtgärder och meddelanden kan sedan automatiseras med den nya utlösaren och filtret **Fyll i LinkedIn-formulär** för lead.
+Marketo-integreringen med LinkedIn Lead Gen Forms hämtar automatiskt information som ett lead tillhandahåller i formuläret Lead Gen. Uppföljningsåtgärder och meddelanden kan sedan automatiseras med den nya utlösaren och filtret **Fyll i LinkedIn Lead Gen Form**.
 
 ![](assets/release-notes-image.png)
 
@@ -41,19 +41,19 @@ Nu är det dags att rensa upp gamla mallar i Sales Insight. Ange ett förfalloda
 
 ## ABM-förbättringar {#abm-enhancements}
 
-** [Anpassade fält på namngivna ABM-konton](https://docs.marketo.com/x/1wnG)**
+** [Anpassade fält på ABM-namngivna konton](https://docs.marketo.com/x/1wnG)**
 
 Med Marketo ABM kan du nu skapa upp till 10 anpassade fält på dina namngivna konton. Du kan mappa dessa anpassade fält till fält i CRM-kontoobjektet och Marketo ABM synkroniserar data, så att du kan utöka dina namngivna ABM-konton och hjälpa till att driva marknadsföringen framåt.
 
-** [Percentile-poängsättning på namngivna ABM-konton](http://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
+** [Percentiell poängsättning på namngivna ABM-konton](http://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
 Poängen för namngivna konton kan variera mycket. Marketo ABM beräknar nu automatiskt en percentil för var och en av dina poäng, så att du snabbt kan se var varje namngivet konto finns bland dina andra namngivna konton.
 
-** API:er för [ABM-kontolista](http://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
+** [API:er för kontolista för ABM](http://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
 
 Utnyttja de omfattande och robusta integreringarna med ABM-partners med förbättrat API-stöd för namngivna kontolistor.
 
-## Förbättringar av webbpersonalisering {#web-personalization-enhancements}
+## Förbättringar av webbanpassning {#web-personalization-enhancements}
 
 ![](assets/dialogoptions.png)
 
@@ -75,7 +75,7 @@ Ställ in animeringseffekterna för Dialog Web Campaign för att anpassa hur en 
 
 ![](assets/animationoptins.png)
 
-** [Dialogrutan Stäng anpassar](https://docs.marketo.com/x/JgNI)knappar**
+** [Anpassa dialogrutans stängningsknapp](https://docs.marketo.com/x/JgNI)**
 
 Anpassa stängningsknappen för dialogrutor. Välj bland en rad alternativ som används i webbkampanjer i formatet Genomskinlig dialogruta. Markera ikonen, färgen och placeringen för knappen Stäng. Du kan också lägga till en egen knappbild.
 
