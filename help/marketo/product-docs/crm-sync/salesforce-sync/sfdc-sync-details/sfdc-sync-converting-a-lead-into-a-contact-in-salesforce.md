@@ -13,12 +13,12 @@ ht-degree: 0%
 
 # SFDC-synkronisering: Konvertera en lead till en kontakt i Salesforce {#sfdc-sync-converting-a-lead-into-a-contact-in-salesforce}
 
-Tänk dig tre olika scenarier i Salesforce: (som inte använder flödessteget [](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) Konvertera person i Marketo)
+Tänk dig tre olika scenarier i Salesforce: (använder inte [Konvertera personflödessteget](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) i Marketo)
 
-1. Konvertera en lead till en **ny kontakt och ett nytt konto**
-1. Konvertera en lead till en **ny kontakt** i ett **befintligt konto**
+1. Konverterar en lead till en **ny kontakt och ett nytt konto**
+1. Konverterar en lead till en **ny kontakt** i ett **befintligt konto**
 
-1. Konvertera en lead till en **befintlig kontakt** i ett **befintligt konto** (fungerar på samma sätt som [sammanslagning](sfdc-sync-merging-a-lead-contact-person.md))
+1. Konverterar en lead till en **befintlig kontakt** i ett **befintligt konto** (fungerar identiskt med [sammanslagning](sfdc-sync-merging-a-lead-contact-person.md))
 
 I alla tre fallen får du **1 kontakt och inga leads i Salesforce och 1 kontakt och inga personer i Marketo.**
 
