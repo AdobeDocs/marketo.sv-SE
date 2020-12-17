@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## Översikt {#overview}
 
-På samma sätt som du kan [lägga till i SFDC-](add-to-sfdc-campaign.md)kampanj och [ändringsstatus i SFDC-kampanj](change-status-in-sfdc-campaign.md)kan du även ta bort personer eller leads från en Salesforce-kampanj.
+På samma sätt som du kan [lägga till i SFDC-kampanj](add-to-sfdc-campaign.md)och [Ändra status i SFDC-kampanj](change-status-in-sfdc-campaign.md) kan du även ta bort personer eller leads från en Salesforce-kampanj.
 
 ![](assets/image2014-9-22-15-3a54-3a34.png)
 
