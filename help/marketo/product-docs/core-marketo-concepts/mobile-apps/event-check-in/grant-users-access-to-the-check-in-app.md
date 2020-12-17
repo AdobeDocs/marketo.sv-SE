@@ -37,7 +37,7 @@ Marketo har en speciell användarroll för incheckningsappen för händelser. S�
 
 ## Bjud in nya användare till incheckningsappen {#invite-new-users-for-the-check-in-app}
 
-1. Klicka på fliken **Användare** .
+1. Klicka på fliken **Användare**.
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 
