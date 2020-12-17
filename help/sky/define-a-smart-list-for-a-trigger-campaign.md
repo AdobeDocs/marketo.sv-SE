@@ -48,4 +48,4 @@ Få en smart kampanj att köras på en person i taget baserat på live-händelse
 >
 >Med flera utlösare går en person igenom flödet om någon av utlösarna är aktiverad.
 >
->Om du vill köra kampanjen på en uppsättning personer samtidigt ska du lära dig hur du [definierar smarta listor för smarta kampanjer | Grupp](https://docs.marketo.com/display/DOCS/Define+Smart+List+for+Smart+Campaign+%7C+Batch).
+>Om du vill köra kampanjen på en uppsättning personer samtidigt ska du lära dig hur du [Definiera smart lista för smart kampanj | Grupp](https://docs.marketo.com/display/DOCS/Define+Smart+List+for+Smart+Campaign+%7C+Batch).
