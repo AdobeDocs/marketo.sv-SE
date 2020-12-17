@@ -22,6 +22,6 @@ Om du undrar vad du behöver logga in och använda Marketo, så här är informa
 * Dator eller bärbar dator med Windows, OS X eller Linux
 * Tangentbord och mus
 * Bildskärm med en upplösning på minst 1 280 x 768
-* Aktuell webbläsare, se [Webbläsare](supported-browsers.md) som stöds för mer information
+* Uppdaterad webbläsare, se [Webbläsare](supported-browsers.md) som stöds för mer information
 * Internetanslutning
 
