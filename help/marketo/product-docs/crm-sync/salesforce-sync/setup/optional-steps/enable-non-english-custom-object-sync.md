@@ -19,17 +19,17 @@ Om Marketo-synkroniseringsanvändaren är inställd på ett annat språk än eng
 
 ![](assets/image2014-12-10-13-3a17-3a51.png)
 
-## Komma runt {#getting-around-it}
+## Komma runt det {#getting-around-it}
 
 1. Logga in i Salesforce med markeringen för att synkronisera användaren.
 
    ![](assets/image2014-12-10-13-3a18-3a1.png)
 
-1. Gå till **installationsprogrammet** under användarnamnet.
+1. Gå till **Inställningar** under användarnamnet.
 
    ![](assets/image2014-12-10-13-3a18-3a11.png)
 
-1. Klicka på **Mina personuppgifter** under **Personuppgifter**.
+1. Under **Personlig information** klickar du på **Min personliga information**.
 
    ![](assets/image2014-12-10-13-3a18-3a22.png)
 
@@ -37,7 +37,7 @@ Om Marketo-synkroniseringsanvändaren är inställd på ett annat språk än eng
 
    ![](assets/image2014-12-10-13-3a18-3a32.png)
 
-1. Ändra **språket** till **engelska**.
+1. Ändra **Språk** till **Engelska**.
 
    ![](assets/image2014-12-10-13-3a18-3a45.png)
 
@@ -45,7 +45,7 @@ Om Marketo-synkroniseringsanvändaren är inställd på ett annat språk än eng
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. I Marketo klickar du på **Uppdatera schema** under **Admin > Salesforce > Objekt**.
+1. Tillbaka till Marketo, under **Admin > Salesforce > Objekt** klickar du på **Uppdatera schema**.
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 
