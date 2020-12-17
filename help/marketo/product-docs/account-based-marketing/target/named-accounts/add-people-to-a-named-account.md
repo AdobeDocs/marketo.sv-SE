@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Lägg till personer till ett namngivet konto {#add-people-to-a-named-account}
+# Lägg till personer i ett namngivet konto {#add-people-to-a-named-account}
 
 Det finns tre olika sätt att manuellt lägga till personer i ett namngivet konto i ABM.
 
-## Enstaka flödesåtgärd {#single-flow-action}
+## Enkel flödesåtgärd {#single-flow-action}
 
 1. Klicka på **Databas**.
 
@@ -25,17 +25,17 @@ Det finns tre olika sätt att manuellt lägga till personer i ett namngivet kont
 
    ![](assets/two.png)
 
-1. Klicka på personen för att markera den. Klicka på listrutan **Personåtgärder** , klicka på **Marknadsföring** och välj **Lägg till i namngivet konto**.
+1. Klicka på personen för att markera den. Klicka på listrutan **Personåtgärder**, klicka på **Markering** och välj **Lägg till i namngivet konto**.
 
    ![](assets/three.png)
 
-1. Klicka på listrutan **Namngivet konto** , markera önskat namngivet konto och klicka på **Kör nu**.
+1. Klicka på listrutan **Namngivet konto**, markera önskat namngivet konto och klicka på **Kör nu**.
 
    ![](assets/four.png)
 
 ## Steg för smart kampanjflöde {#smart-campaign-flow-step}
 
-1. Välj en smart kampanj och klicka på **Flöde**.
+1. Välj din smarta kampanj och klicka på **Flöde**.
 
    ![](assets/five.png)
 
@@ -53,7 +53,7 @@ Det finns tre olika sätt att manuellt lägga till personer i ett namngivet kont
 
    Så ja! Schemalägg (eller aktivera) sedan din smarta kampanj så kommer flödessteget att börja lägga till kvalificerade personer till det angivna namngivna kontot.
 
-## Importera lista {#list-import}
+## Listimport {#list-import}
 
 1. Markera listan, klicka på listrutan **Liståtgärder** och välj **Importera lista**.
 
