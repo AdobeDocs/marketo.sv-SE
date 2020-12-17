@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Överför bilder och filer från Box {#upload-images-and-files-from-box}
+# Överför bilder och filer från ruta {#upload-images-and-files-from-box}
 
 Du kan överföra filer från Box och använda dem på landningssidor och e-postmeddelanden.
 
@@ -35,7 +35,7 @@ Du kan överföra filer från Box och använda dem på landningssidor och e-post
 
    ![](assets/image2014-9-16-12-3a51-3a28.png)
 
-1. Välj var du vill spara filerna. Markera sedan den **Box** -mapp som du vill överföra från. Klicka på **Nästa**.
+1. Välj var du vill spara filerna. Markera sedan den **Ruta**-mapp som du vill överföra från. Klicka på **Nästa**.
 
    ![](assets/image2014-9-16-12-3a51-3a59.png)
 
