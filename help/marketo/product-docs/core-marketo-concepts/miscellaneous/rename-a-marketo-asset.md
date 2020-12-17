@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Byta namn på en markeringsresurs {#rename-a-marketo-asset}
+# Byt namn på en markeringsresurs {#rename-a-marketo-asset}
 
 Det är enkelt att byta namn på mappar, program och lokala resurser.
 
