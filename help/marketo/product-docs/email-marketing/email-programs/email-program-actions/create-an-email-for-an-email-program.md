@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# Skapa ett e-postmeddelande för ett e-postprogram {#create-an-email-for-an-email-program}
+# Skapa en e-postadress för ett e-postprogram {#create-an-email-for-an-email-program}
 
 >[!PREREQUISITES]
 >
 >* [Skapa ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definiera en publik med en smart lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) eller [Definiera en publik genom att importera en lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Definiera en målgrupp med en smart ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) lista  [Definiera en målgrupp genom att importera en lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
 >
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 När du har skapat e-postprogrammet och definierat målgruppen, vill du bestämma vilket e-postmeddelande du ska skicka. Du kan [välja ett befintligt e-postmeddelande](choose-an-existing-email.md) eller skapa ett från början. Så här skapar du ett nytt e-postmeddelande.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/one.png)
 
@@ -48,7 +48,7 @@ När du har skapat e-postprogrammet och definierat målgruppen, vill du bestämm
 
    ![](assets/five.png)
 
-Bra! Nu när vi har skapat ett e-postmeddelande som vi vill skicka kan vi [lägga till ett A/B-test](email-test-a-b-test/add-an-a-b-test.md) eller hoppa direkt till att [schemalägga e-postprogrammet](schedule-your-email-program.md).
+Bra! Nu när vi har skapat ett e-postmeddelande som vi vill skicka ska vi [lägga till ett A/B-test](email-test-a-b-test/add-an-a-b-test.md) eller hoppa direkt till [schemaläggning av e-postprogrammet](schedule-your-email-program.md).
 
 >[!MORELIKETHIS]
 >
