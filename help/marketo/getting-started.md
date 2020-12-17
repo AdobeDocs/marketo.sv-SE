@@ -29,7 +29,7 @@ Med lite hjälp från IT-avdelningen kan du få det gjort på nolltid.
 
 Utför dessa uppdrag och lär dig grunderna i Marketo.
 
-[![](/help/marketo/getting-started/assets/getting-started-1.png) 1. Konfigurera och lägga till en person](https://docs.marketo.com/pages/viewpage.action?pageId=2359351)
+[![](/help/marketo/getting-started/assets/getting-started-1.png) 1. Hämta konfiguration och lägg till en person](https://docs.marketo.com/pages/viewpage.action?pageId=2359351)
 
 [![](/help/marketo/getting-started/assets/getting-started-2.png) 2. Skicka ett e-postmeddelande](getting-started/quick-wins/send-an-email.md)
 
@@ -41,15 +41,15 @@ Utför dessa uppdrag och lär dig grunderna i Marketo.
 
 [![](/help/marketo/getting-started/assets/getting-started-6.png) 6. Importera en lista med personer](getting-started/quick-wins/import-a-list-of-people.md)
 
-[![](/help/marketo/getting-started/assets/getting-started-7.png) 7. Drivningsmotor](getting-started/quick-wins/drip-drip-nurture.md)
+[![](/help/marketo/getting-started/assets/getting-started-7.png) 7. Drivrutinsstruktur](getting-started/quick-wins/drip-drip-nurture.md)
 
 [![](/help/marketo/getting-started/assets/getting-started-8.png) 8. Anpassa ett e-postmeddelande](getting-started/quick-wins/personalize-an-email.md)
 
-[![](/help/marketo/getting-started/assets/getting-started-9.png) 9. Meddela säljaren](getting-started/quick-wins/alert-the-sales-rep.md)
+[![](/help/marketo/getting-started/assets/getting-started-9.png) 9. Avisera säljaren](getting-started/quick-wins/alert-the-sales-rep.md)
 
 [![](/help/marketo/getting-started/assets/getting-started-10.png) 10. Uppdatera persondata](getting-started/quick-wins/update-person-data.md)
 
-## STEG 4 Grattis! Du är redo för Nation  {#congrats-youre-ready-for-the-nation}
+## STEG 4 Grattis! Du är redo för Nation {#congrats-youre-ready-for-the-nation}
 
 Dags att gå med i Marketing Nation!
 
