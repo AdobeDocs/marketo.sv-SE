@@ -21,11 +21,11 @@ Marketo tar automatiskt bort dubbletter när nya personer kommer in i systemet. 
 
 >[!PREREQUISITES]
 >
->När du söker efter och sammanfogar dubbletter används [inbyggda/systemsmarta listor](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
+>Du kan söka efter och sammanfoga dubbletter genom att använda [inbyggda/systemsmarta listor](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
 
-## Sök dubbletter {#find-duplicates}
+## Sök efter dubbletter {#find-duplicates}
 
-1. Gå till området **Databas** .
+1. Gå till området **Databas**.
 
    ![](assets/db.png)
 
@@ -33,19 +33,19 @@ Marketo tar automatiskt bort dubbletter när nya personer kommer in i systemet. 
    >
    >Det kanske inte fungerar att sammanfoga personer i Marketo om du använder ett Salesforce-personkonto. Sammanfoga posterna i Salesforce om det är möjligt.
 
-1. Välj den smarta listan **Möjliga** **dubbletter** av systemet och klicka på fliken **Personer** .
+1. Välj **Möjlig** **Duplicerar** systemsmart lista och klicka på fliken **Personer**.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >Du kan också [söka efter duplicerade personer med anpassad logik](find-duplicate-people-with-custom-logic.md).
+   >Du kan även [söka efter dubbletter av personer med anpassad logik](find-duplicate-people-with-custom-logic.md).
 
 ## Sammanfoga personer manuellt {#merge-people-manually}
 
 >[!CAUTION]
 >
->När du sammanfogar personer och den person som förlorar har ett anpassat Marketo-objekt, kopplas det **inte** till den som vinner. Överför det anpassade objektet igen innan du utför sammanfogningen.
+>När du sammanfogar personer och den person som förlorar har ett anpassat Marketo-objekt, associeras det **inte** igen med den vinnande personen. Överför det anpassade objektet igen innan du utför sammanfogningen.
 
 Markera dubbletterna genom att hålla ned Ctrl/Cmd och klicka på Sammanfoga personer.
 ![](assets/three.png)
@@ -78,7 +78,7 @@ Mer information om Salesforce-beteendet när du sammanfogar leads eller kontakte
     * [Sammanfoga dubblettrader](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US)
     * [Sammanfoga dubblettkontakter](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US)
 
-## Masssammanslagning {#bulk-merging}
+## Sammanfoga {#bulk-merging} gruppvis
 
 Om du har för många dubbletter för att sammanfoga manuellt kan du kontakta din Customer Success Manager och diskutera dina alternativ.
 
