@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Visa URL för organisationstjänsten {#view-the-organization-service-url}
+# Visa URL:en för organisationstjänsten {#view-the-organization-service-url}
 
 Marketo behöver organisationstjänstens URL för att kunna synkronisera med Dynamics On-Premises-instanser. Så här hittar du det i Dynamics.
 
@@ -23,7 +23,7 @@ Marketo behöver organisationstjänstens URL för att kunna synkronisera med Dyn
 
    ![](assets/two.png)
 
-1. Klicka på **Utvecklarresurser**.
+1. Klicka på **Resurser för utvecklare**.
 
    ![](assets/three.png)
 
