@@ -19,17 +19,23 @@ Först och främst bör du lära dig grunderna med den här praktiska ordlistan.
 
 ## SEO-ordlista {#seo-glossary}
 
-**Sökmotoroptimering (SEO)** En blandning av strategier och tekniker som används för att öka webbplatstrafiken genom att få en placering med hög rankning på sökmotorernas resultatsidor (SERP).
+**Sökmotoroptimering (SEO)**
+En blandning av strategier och tekniker som används för att öka webbplatstrafiken genom att få en placering med hög rankning på sökmotorernas resultatsidor (SERP).
 
-**Nyckelord** Ett nyckelord är det ord eller den fras som andra skriver i sökmotorer som Google, Yahoo eller Bing.
+**Nyckelord**
+Ett nyckelord är det ord eller den fras som andra skriver i sökmotorer som Google, Yahoo eller Bing.
 
-**Inkommande länkar** på andra platser som dirigerar trafik till din plats. Ju högre anseende den länkade webbplatsen har, desto värdefullare är den här inkommande länken.
+**Inkommande**
+LinksLinks på andra platser som dirigerar trafik till din plats. Ju högre anseende den länkade webbplatsen har, desto värdefullare är den här inkommande länken.
 
-**SERP-rankning** Stands for Search Engine Result Page. Sökmotorer returnerar flera resultatsidor. SERP-rankningen är den sida länken visas på. Det finns vanligtvis 10 resultat per sida.
+**SERP**
+rankingStands for Search Engine Result Page. Sökmotorer returnerar flera resultatsidor. SERP-rankningen är den sida länken visas på. Det finns vanligtvis 10 resultat per sida.
 
-**Sökmotorvy** Det sätt på vilket en sökmotordator uppfattar webbplatsen i motsats till hur en människa uppfattar den.
+**Sökmotorvy**
+Det sätt på vilket en sökmotordator uppfattar webbplatsen i motsats till hur en människa uppfattar den.
 
-**Söktermer** för Fat Head Generiska nyckelord som kastar ett mycket stort nät. De står för cirka 19 % av alla söktermer som används.
+**Sök**
+termsGeneriska nyckelord med fetstil som kastar ett mycket stort nät. De står för cirka 19 % av alla söktermer som används.
 
 >[!NOTE]
 >
@@ -61,7 +67,8 @@ Superspecifika nyckelord. Dessa används cirka 70 % av tiden.
 
 Optimeringsresultat är en marknadspoäng som mäter alla sidor på webbplatsen på en skala från 1 till 100. Det bygger på en sammanställning av dussintals bästa metoder. En bakgrundsmusik på 70 eller högre anger att sajten är ganska optimerad.
 
-**Optimering** direkt på sidan Åtgärder som kan vidtas direkt på själva webbplatsen för att förbättra dess position på sökmotorns resultatsidor.
+**Optimering direkt på sidan**
+Åtgärder som kan vidtas direkt på själva webbplatsen för att förbättra dess position på sökmotorns resultatsidor.
 
 >[!NOTE]
 >
@@ -83,8 +90,8 @@ Det var inte så illa.
 
 ## Hur kommer jag igång? {#how-do-i-get-started}
 
-1. Utveckla er strategi med [Nyckelord](../../../../product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+1. Utveckla din strategi med [Förstå nyckelord](../../../../product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
 1. Åtgärda befintliga problem i [Förstå sidor](../../../../product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
-1. Nå ut bättre genom [att förstå inkommande länkar](../../../../product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
+1. Nå ut längre genom att [Förstå inkommande länkar](../../../../product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
 
 Målet är att vara så nära den första sidan (och det första resultatet) för nyckelord som är viktiga för ditt företag.
