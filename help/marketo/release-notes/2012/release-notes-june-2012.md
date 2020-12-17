@@ -17,11 +17,11 @@ ht-degree: 0%
 >
 >**Djupdykning**
 >
->Andra releaser finns i [versionsinformationen](http://docs.marketo.com/display/docs/release+notes) .
+>Andra versioner finns i [versionsinformationen](http://docs.marketo.com/display/docs/release+notes) djupdykning.
 
 ## Marketo Lead Management Förbättringar {#marketo-lead-management-enhancements}
 
-### Byt namn {#rename}
+### Byt namn på {#rename}
 
 Du kan byta namn på smarta listor, statiska listor och kampanjer. Om du använder dessa resurser i filter, utlösare eller flöden uppdateras även namnet automatiskt där. Du har alltid kunnat byta namn på dina e-postmeddelanden, formulär och mappar.
 
@@ -63,7 +63,7 @@ Med stödlinjerna för landningssidor blir det mycket enklare att justera text, 
 
 ![](assets/image2014-9-23-10-3a24-3a33.png)
 
-## Leads blockerade från utskick {#leads-blocked-from-mailings}
+## Leads som blockerats från e-postmeddelanden {#leads-blocked-from-mailings}
 
 När du schemalägger en kampanj kan du klicka på länken för att se en lista över leads som har blockerats från ditt utskick.
 
@@ -71,7 +71,7 @@ När du schemalägger en kampanj kan du klicka på länken för att se en lista 
 
 ## Vänta steg - Leadtoken och Min token {#wait-step-lead-token-and-my-token}
 
-I majversionen har vi lagt till avancerade alternativ för steget Vänta. Med dessa ändringar kan du ange en arbetsdag, ett datum och en tid. I den här versionen har vi lagt till möjligheten att använda en token i väntesteget. Du kan till exempel använda `{{lead.Birthday}}` för att skicka ett e-postmeddelande på sin födelsedag eller för `{{my.Event Date}}` att skicka en slutgiltig påminnelse.
+I majversionen har vi lagt till avancerade alternativ för steget Vänta. Med dessa ändringar kan du ange en arbetsdag, ett datum och en tid. I den här versionen har vi lagt till möjligheten att använda en token i väntesteget. Du kan till exempel använda `{{lead.Birthday}}` för att skicka ett e-postmeddelande på födelsedagen, eller använda `{{my.Event Date}}` för att skicka en slutgiltig påminnelse för webbinariet.
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 
@@ -87,7 +87,7 @@ Påminnelse: Uppgradering av e-postprestandarapport pågår!
 
 ## Förbättringar i Marketo Revenue Cycle Analytics {#marketo-revenue-cycle-analytics-enhancements}
 
-### Nya mätvärden i analys av affärsmöjligheter i programmet  {#new-metrics-in-program-opportunity-analysis}
+### Nya mått i analys av affärsmöjlighet {#new-metrics-in-program-opportunity-analysis}
 
 Ni kan nu få insikter om det genomsnittliga antalet marknadsföringsåtgärder innan ni skapar eller stänger nya möjligheter, samt om det genomsnittliga värdet av en marknadsföringskontakt.
 
@@ -95,19 +95,19 @@ Ni kan nu få insikter om det genomsnittliga antalet marknadsföringsåtgärder 
 
 ![](assets/image2014-9-23-10-3a26-3a41.png)
 
-## Visa flera diagram {#displaying-multi-charts}
+## Visar multidiagram {#displaying-multi-charts}
 
 Med funktionen för flera diagram kan du visa flera diagram i en enda rapport om intäktscykler i Explorer. Du kan till exempel använda den här funktionen när du vill visa samma data för olika månader. Den här funktionen förhindrar också att du behöver skapa separata filter och rapporter.
 
 ![](assets/image2014-9-23-10-3a27-3a41.png)
 
-## Typ av värmestödrasterdiagram  {#heat-grid-chart-type}
+## Diagramtyp för varmt stödraster {#heat-grid-chart-type}
 
 Värmestödraster gör det möjligt att visualisera data så att ni kan identifiera mönster för marknadsföringens resultat. Den här visualiseringstypen färgkodar dina resultat så att du kan visa komplexa affärsanalyser i en lättbegriplig visualisering.
 
 ![](assets/image2014-9-23-10-3a28-3a21.png)
 
-## Typ av punktdiagram  {#scatter-chart-type}
+## Punktdiagramtyp {#scatter-chart-type}
 
 Punktdiagram hjälper dig att visualisera data i flera dimensioner i ett diagram. Den här visualiseringstypen ritar en bubbla i ett diagram baserat på de attribut som används. Du kan sedan använda ett mått för att färgkoda bubblan och/eller använda ett mått för att ange bubblans storlek.
 
