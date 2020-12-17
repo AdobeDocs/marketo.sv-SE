@@ -23,11 +23,11 @@ Marketo ger exakt kontroll över Salesforce-objektsynkroniseringen. På så sät
 
    ![](assets/image2014-12-10-13-3a9-3a47.png)
 
-1. Klicka på **Admin** och sedan **Salesforce-objektsynkronisering.**
+1. Klicka på **Admin** och sedan **Synkronisera Salesforce-objekt.**
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 
-1. **Salesforce-objektsynkronisering** visas i den vänstra kolumnen.
+1. **Salesforce-objekt** synkroniseras i den vänstra kolumnen.
 
    ![](assets/image2015-12-11-15-3a15-3a15.png)
 
@@ -39,7 +39,7 @@ Marketo ger exakt kontroll över Salesforce-objektsynkroniseringen. På så sät
 
    >[!TIP]
    >
-   >Om knappen **Redigera synliga fält** är nedtonad används objektet för närvarande i en smart lista eller en smart kampanj. Ta bort alla associationer för att fortsätta.
+   >Om knappen **Redigera synliga fält** är nedtonad används objektet i en smart lista eller en smart kampanj. Ta bort alla associationer för att fortsätta.
 
    ![](assets/image2014-12-10-13-3a10-3a25.png)
 
