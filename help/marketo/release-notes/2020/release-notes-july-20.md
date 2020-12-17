@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Versionsinformation: Juli 20 {#release-notes-july}
+# Versionsinformation: 20 juli {#release-notes-july}
 
 Följande funktioner finns i versionen från 20 juli. Se om din Marketo-utgåva har funktioner tillgängliga.
 
@@ -19,9 +19,9 @@ Följande funktioner finns i versionen från 20 juli. Se om din Marketo-utgåva 
 >
 >**Tillgänglighet**
 >
->Observera, att beroende på vilket paket du har kan objekt med en stjärna ( ![(stjärna)](assets/star-yellow.svg)) kräva att du köper ett värdetillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
+>Observera att objekt med en stjärna ( ![(stjärna)](assets/star-yellow.svg)) kan behöva köpa ett värdetillägg beroende på vilket paket du använder. Kontakta din Marketo Engage-representant om du vill veta mer.
 
-***Kvartalsvisa versioner*** Följande funktioner kommer att släppas den 31 **juli 2020**.
+***Kvartalsvisa*** utgåvorFöljande funktioner kommer att släppas den 31  **juli 2020**.
 
 ## Administration {#administration}
 
@@ -44,17 +44,17 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 * **Forms-tjänst: **Vi introducerar starkare syntaxvalidering av formulärfält och möjlighet att blockera vanliga robotmönster med nya funktioner för säkra domäner för landningssidor. Genom att blockera robotmönster kan du minska antalet inskickade skräppostformulär och förbättra databaskvaliteten.
 * **URI-storleksgräns** för utökat tillgångs-API: Storleksgränsen för URI ökas från 8 kB till 65 kB innan parametern &quot;_method&quot; tas bort. När du utför långa frågesträngar kommer den här storleksökningen att göra det enklare att skicka data. Borttagningen av parametern&quot;_method&quot; ingår i en kommande säkerhetsuppgradering.
 
-**Sales Insight ![(stjärna)](assets/star-yellow.svg)
+**Sales Insight ![(star)](assets/star-yellow.svg)
 
 **
 
-* ** [Säljannonsering aktiverad för kunder med icke-inbyggd Salesforce CRM-integrering](https://docs.marketo.com/x/pQK1Ag)(beta)**: Marketo Engage-kunder med icke-ursprungliga Salesforce CRM-integreringar kan nu använda Sales Insight för att hjälpa sina säljteam att förstå, prioritera och interagera med de mest engagerade leads och möjligheter som möjliggör smart försäljning och snabbare avtal.
+* ** [Sales Insight Enabled for Customers with Non-Native Salesforce CRM Integration](https://docs.marketo.com/x/pQK1Ag)(Beta)**: Marketo Engage-kunder med icke-ursprungliga Salesforce CRM-integreringar kan nu använda Sales Insight för att hjälpa sina säljteam att förstå, prioritera och interagera med de mest engagerade leads och möjligheter som möjliggör smart försäljning och snabbare avtal.
 
-**Sales Connect ![(stjärna)](assets/star-yellow.svg)
+**Sales Connect ![(star)](assets/star-yellow.svg)
 
 **
 
-* ** [Förbättrat tvåpartsmedgivande för försäljningssamtal:](https://docs.marketo.com/x/dgC1Ag)** Administratörer har nu större kontroll över konfigurationen för samtalsinspelning. [Aktivera samtalsinspelningar](https://docs.marketo.com/x/dAC1Ag) i trygg förvissning om att ni följer den tvådelade lagen om samtycke. Automatisera meddelandet om det samtal som spelas in och aktivera ljudklipp som ska spelas upp före samtalet.
+* ** [Förbättrat tvåpartsmedgivande för försäljningssamtal:](https://docs.marketo.com/x/dgC1Ag)** Administratörer har nu större kontroll över konfigurationen för samtalsinspelning. [Aktivera ](https://docs.marketo.com/x/dAC1Ag) inspelning av samtal utan att äventyra efterlevnaden av tvåpartslagen. Automatisera meddelandet om det samtal som spelas in och aktivera ljudklipp som ska spelas upp före samtalet.
 
 <br> 
 
@@ -62,7 +62,7 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 
 * **Ta bort parameter för resurs-API &quot;_method&quot;**: Efter september 2020 kommer Resurs-API-slutpunkter inte längre att acceptera &quot;_method&quot; för att skicka Query Parameters i en POST för att kringgå URI-längdbegränsningar. För att tillgodose begäranden som kräver den här parametern ökas URI-gränserna för tillgångs-API:er från 8 kB till 65 kB.
 * ** [Munchkin Associate Lead](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: I den här versionen av Munchkin JavaScript Client, version 159, kommer vi att börja ta bort Munchkin Associate Lead-metoden. Om den anropas får du ett varningsmeddelande om att metoden kommer att tas bort i en framtida version. När metoden tagits bort kommer den inte längre att fungera och försök att använda den kommer att misslyckas. Marketo Engage-kunder som nyligen har använt den här metoden får ett separat meddelande om hur de använder den.
-* **Stöd för Internet Explorer**: Som tidigare meddelats upphör Marketo Engage-stödet för Internet Explorer 11 den 31 **juli 2020**. Vi kommer att fortsätta att stödja Google Chrome, Mozilla Firefox, Apple Safari och Microsoft Edge.
+* **Stöd för Internet Explorer**: Som tidigare meddelats upphör Marketo Engage-stödet för Internet Explorer 11 den 31  **juli 2020**. Vi kommer att fortsätta att stödja Google Chrome, Mozilla Firefox, Apple Safari och Microsoft Edge.
 
 * **Standardupplevelse** för Sky: Alternativet för administratörer och användare att ange Marketo Sky som standardupplevelse kommer att tas bort i den här versionen som förberedelse för en uppdatering av den primära användarupplevelsen. Mer information om uppdateringen av den primära upplevelsen, som planeras senare i år, kommer i juli. Användare som har angett Marketo Sky som standardupplevelse, eller som har beviljats åtkomst till Marketo Sky, kan fortsätta få åtkomst till Marketo Sky från en panel på startsidan för My Marketo.
 * **Stöd** för Microsoft EdgeHTML (ej Chromium): Marketo Engage kommer inte längre att ha stöd för EdgeHTML-versioner av Microsoft Edge i slutet av 2020. Från och med 1 januari 2021 har vi bara stöd för den senaste Chromium-versionen av Microsoft Edge.
