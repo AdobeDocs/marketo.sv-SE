@@ -27,9 +27,9 @@ I Marketo kan du skapa en personlig mappning mellan ett program och en Salesforc
 
 ![](assets/image2015-7-8-9-3a43-3a8.png)
 
-**- [kanalen](../../../../product-docs/administration/tags/create-a-program-channel.md) **och **- [periodkostnaden](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)** i Markför att synkronisera till Salesforce som **kampanjtyp** och **faktisk kostnad**. Den här synkroniseringen är **ett sätt**, från Marketo till Salesforce.
+** [channel](../../../../product-docs/administration/tags/create-a-program-channel.md) **och ** [periodkostnad](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)** i Marketför att synkronisera till Salesforce som **kampanjtyp** och **faktisk kostnad**. Den här synkroniseringen är **ett sätt**, från Marketo till Salesforce.
 
-Marketens **programmedlemmar** och deras ** [progressionsstatus](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)** hålls synkroniserade med **Salesforce-kampanjmedlemmarna** och **kampanjmedlemmens statyer**. Detta är en **dubbelriktad** **synkronisering**, så alla ändringar som görs i Marketo eller Salesforce återspeglas i båda systemen.
+Marketo **programmedlemmar** och deras ** [progressionsstatus](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)** är synkroniserade med Salesforce-kampanjmedlemmarna **och** kampanjmedlemsstatyer **.** Detta är en **dubbelriktad** **synkronisering**, så alla ändringar som görs i Marketo eller Salesforce återspeglas i båda systemen.
 
 >[!NOTE]
 >
@@ -53,11 +53,11 @@ Ja, använd åtgärden [Lägg till i SFDC-kampanjflöde](../../../../product-doc
 
 ## Kan jag ta bort medlemmar från min SFDC-kampanj med Marketo? {#can-i-remove-members-from-my-sfdc-campaign-using-marketo}
 
-Ja, använd åtgärden [Ta bort från SFDC-kampanjflöde](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md).
+Ja, använd åtgärden [Ta bort från SFDC Campaign-flödet](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md).
 
 ## Kan jag ändra kampanjmedlemmens status med Marketo? {#can-i-change-campaign-member-status-using-marketo}
 
-Ja, använd [Ändra status i SFDC-kampanjflödesåtgärden](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md).
+Ja, använd åtgärden [Ändra status i SFDC Campaign-flödesåtgärden](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md).
 
 ## Varför kan jag inte se någon av mina Salesforce-kampanjer? {#why-cant-i-see-any-of-my-salesforce-campaigns}
 
