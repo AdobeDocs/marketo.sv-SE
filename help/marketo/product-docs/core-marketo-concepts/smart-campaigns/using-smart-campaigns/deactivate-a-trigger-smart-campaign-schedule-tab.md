@@ -29,5 +29,5 @@ Om du har en gammal utlösarkampanj som du behöver inaktivera gör du så här:
 
 >[!NOTE]
 >
->Detta hindrar *nya* personer från att gå in i flödet, men personer som väntar eller andra flödessteg fortsätter att gå igenom flödet tills det är klart.
+>Detta hindrar *nya*-personer från att gå in i flödet, men personer i väntesteg eller andra flödessteg fortsätter att gå igenom flödet tills det är klart.
 
