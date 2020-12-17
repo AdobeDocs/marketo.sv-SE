@@ -21,9 +21,9 @@ I den här artikeln beskrivs hur en administratör kan visa och redigera standar
 
 ## Ange standardplatsinställningar för en prenumeration {#set-default-location-settings-for-a-subscription-1}
 
-När en administratör ändrar standardplatsinställningarna ärver nyskapade användare dessa inställningar. Användare kan alltid [ändra språk, språk och tidszonsinställningar](select-your-language-locale-and-time-zone.md) i sina individuella konton.
+När en administratör ändrar standardplatsinställningarna ärver nyskapade användare dessa inställningar. Användare kan alltid [ändra språk, språk och tidszonsinställningar](select-your-language-locale-and-time-zone.md) i sina enskilda konton.
 
-1. Under **Admin**,** **klicka på **Plats**.
+1. Under **Admin**,** **klicka **Plats**.
 
    ![](assets/image2014-11-7-11-3a39-3a17.png)
 
@@ -33,17 +33,17 @@ När en administratör ändrar standardplatsinställningarna ärver nyskapade an
 
    Den här prenumerationen skapades på engelska. Anta att du var i London och ville ändra standardspråkområdet och tidszonen. Språkinställningen avgör formateringen för siffror, datum och tider.
 
-1. Markera **språkinställningen** och ändra den till **engelska** (Storbritannien).
+1. Välj **Språk** och ändra det till **Engelska** (Storbritannien).
 
    ![](assets/image2014-11-7-11-3a51-3a26.png)
 
-1. Välj sedan rätt **tidszon**.
+1. Välj sedan lämplig **tidszon**.
 
    ![](assets/image2014-11-7-14-3a42-3a34.png)
 
    >[!NOTE]
    >
-   >Marketo Sales Insight for [Salesforce.com](http://salesforce.com/) har stöd för franska, tyska, japanska, portugisiska och spanska.
+   >Marketo Sales Insight för [Salesforce.com](http://salesforce.com/) stöder franska, tyska, japanska, portugisiska och spanska.
 
 ## Ange standardvalutainställningar för en prenumeration {#set-the-default-currency-settings-for-a-subscription}
 
@@ -53,7 +53,7 @@ Om du ändrar standardspråkområdet för dina användare kanske du också vill 
 
    ![](assets/image2014-11-7-15-3a50-3a33.png)
 
-1. Välj önskat valutaformat och klicka på **Spara**.
+1. Välj valfritt valutaformat och klicka på **Spara**.
 
    ![](assets/image2014-11-7-15-3a58-3a21.png)
 
