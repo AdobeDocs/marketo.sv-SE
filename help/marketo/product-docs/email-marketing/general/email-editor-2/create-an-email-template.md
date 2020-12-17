@@ -33,7 +33,7 @@ Följ de här stegen för att skapa en ny e-postmall.
 
    ![](assets/three-1.png)
 
-1. Klicka på **Redigera utkast** när du vill börja redigera den nya mallen.
+1. Om du vill börja redigera den nya mallen klickar du på **Redigera utkast**.
 
    ![](assets/4.png)
 
@@ -49,7 +49,7 @@ Följ de här enkla stegen om du har skapat ett e-postmeddelande som du vill spa
 
    ![](assets/one.png)
 
-1. Sök efter och välj e-postadress och klicka sedan på **Redigera utkast**.
+1. Sök efter och markera e-postmeddelandet och klicka sedan på **Redigera utkast**.
 
    ![](assets/two-1.png)
 
@@ -57,7 +57,7 @@ Följ de här enkla stegen om du har skapat ett e-postmeddelande som du vill spa
 
    ![](assets/four-1.png)
 
-1. Klicka på listrutan **Mapp** , välj var du vill att mallen ska visas och klicka sedan på **Spara**.
+1. Klicka på listrutan **Mapp**, välj var du vill att mallen ska vara aktiv och klicka sedan på **Spara**.
 
    ![](assets/five-1.png)
 
