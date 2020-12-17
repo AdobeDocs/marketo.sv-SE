@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Checka in personer i din aktivitet från surfplattan {#check-people-into-your-event-from-your-tablet}
+# Checka in personer i din händelse från din surfplatta {#check-people-into-your-event-from-your-tablet}
 
 När någon visas vid ditt evenemang hittar du deras information i appen. Efter incheckning befordras de till tillagd status när du synkroniserar till Marketo.
 
@@ -29,7 +29,7 @@ Appen fungerar likadant på både iPad och Android, förutom små skillnader i l
 ## Checka in registrerade gäster {#check-in-registered-guests}
 
 1. Tryck på appikonen på din iPad eller Android-surfplatta.
-1. Tryck på **Login** för att starta Marketo Event-appen.
+1. Tryck på **Logga in** för att starta Marketo Event-appen.
 
    ![](assets/1.jpg)
 
@@ -63,7 +63,7 @@ Appen fungerar likadant på både iPad och Android, förutom små skillnader i l
 
    ![](assets/image2016-4-15-14-3a50-3a19.png)
 
-1. Tryck på det valda namnet och tryck på **Checka in** i personposten.
+1. Tryck på det valda namnet och tryck på **Check-in** på personposten.
 
    ![](assets/img-0068-35-hands.png)
 
@@ -79,7 +79,7 @@ Gästen har nu statusen Attended och får en bock. Personposten uppdateras när 
 
 >[!TIP]
 >
->Om en person är inbjuden men inte har registrerat sig kan du söka efter namnet genom att klicka på **Sök på servern**, precis nedanför sökrutan. Statusen Inbjuden ändras till **Bifogad** för händelsen.
+>Om en person är inbjuden men inte har registrerat sig kan du söka efter namnet genom att klicka på **Sök på servern**, precis nedanför sökrutan. Status för Inbjuden ändras till **Attended** för händelsen.
 
 ## Skapa en ny person på surfplattan {#create-a-new-person-on-the-tablet}
 
