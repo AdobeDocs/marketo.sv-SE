@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Skapa ett webbinarium i ON24 {#create-your-webinar-event-in-on}
+# Skapa webbinariet i ON24 {#create-your-webinar-event-in-on}
 
 När du har skapat ditt webbinarium i ON24 kan du skapa en Marketo-händelse och associera den med webbseminariet ON24. På så sätt kan systemen dela registrerings- och närvaroinformation. Anteckna URL-adressen och annan information som du kan använda i bekräftelsemeddelandet och i ICS-filen.
 
