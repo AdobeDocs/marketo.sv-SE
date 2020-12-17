@@ -27,14 +27,14 @@ Med anpassade aktiviteter kan du spåra en aktivitet som inte är relaterad till
 >
 >Anpassade aktiviteter skiljer sig från anpassade objekt. Använd anpassade objekt när värdet kan ändras (dvs. &quot;bilfärgen&quot; ändras från blå till röd). Använd anpassade aktiviteter när du spårar stunder som har inträffat och deras information inte kan ändras (d.v.s. &quot;köpt bil&quot;).
 
-**Fält** Du kan lägga till [ytterligare fält](https://docs.marketo.com/x/Mx6a) som du vill koppla till din aktivitet. Precis som det primära fältet kan de användas som filtreringsvillkor i en smart lista.
+**** FältDu kan lägga till  [ytterligare ](https://docs.marketo.com/x/Mx6a) fält som du vill koppla till din aktivitet. Precis som det primära fältet kan de användas som filtreringsvillkor i en smart lista.
 
 **Komma igång**
 
 Anpassade aktiviteter fungerar precis som vanliga aktiviteter. Men det är en tvåstegsprocess.
 
-Steg 1: [Skapa en anpassad aktivitet](create-a-custom-activity.md) i ditt Marketto-konto
+Steg 1: [Skapa en anpassad aktivitet](create-a-custom-activity.md) i ditt Marketo-konto
 
-Steg 2: Medarbetaren i organisationen som arbetar med vårt API kan sedan påbörja implementeringen. Mer information finns här: [Anpassat aktivitets-API](http://developers.marketo.com/documentation/rest/add-custom-activities/)
+Steg 2: Medarbetaren i organisationen som arbetar med vårt API kan sedan påbörja implementeringen. Mer information finns här: [API för anpassad aktivitet](http://developers.marketo.com/documentation/rest/add-custom-activities/)
 
 Ha det så roligt!
