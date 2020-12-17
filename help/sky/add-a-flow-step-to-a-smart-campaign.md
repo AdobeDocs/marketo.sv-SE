@@ -16,7 +16,7 @@ Flödesstegen talar om för Marketo vad du vill ska hända med en grupp personer
 
 ## Lägg till ett flödessteg
 
-1. I [!UICONTROL Marketing Activities]väljer du en smart kampanj och klickar på **[!UICONTROL Flow]**.
+1. Välj din smarta kampanj i [!UICONTROL Marketing Activities] och klicka på **[!UICONTROL Flow]**.
 
    ![Bild ett](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-1.png)
 
@@ -38,7 +38,7 @@ Läs mer om de olika [flödesstegen](http://docs.marketo.com/display/DOCS/Flow+A
 
 **Påminnelse**
 
-Flödessteg utförs i den ordning som de anges. [Ändra ordning på flödesstegen](https://docs.marketo.com/display/MER/Add+a+Flow+Step+to+a+Smart+Campaign#AddaFlowSteptoaSmartCampaign-ReorderFlowSteps) för att säkerställa att de är i rätt sekvens.
+Flödessteg utförs i den ordning som de anges. [Ändra ordning på flödesstegen ](https://docs.marketo.com/display/MER/Add+a+Flow+Step+to+a+Smart+Campaign#AddaFlowSteptoaSmartCampaign-ReorderFlowSteps) för att säkerställa att de är i rätt sekvens.
 
 >[!TIP]
 >
