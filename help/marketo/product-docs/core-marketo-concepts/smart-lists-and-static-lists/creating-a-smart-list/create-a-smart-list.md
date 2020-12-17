@@ -15,14 +15,14 @@ ht-degree: 0%
 
 Med smarta listor kan du söka efter särskilda grupper med personer med hjälp av enkla filter. Så här skapar du en.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
 1. Välj det program som du vill skapa den smarta listan i.
 1. ![Detta är ett test](assets/image2014-8-11-10-3a17-3a8.png)
 
-1. Klicka på **Ny lokal resurs under** Nytt ****.
+1. Klicka på **Ny lokal resurs** under **Ny**.
 
    ![](assets/image2014-9-9-16-3a26-3a28.png)
 
