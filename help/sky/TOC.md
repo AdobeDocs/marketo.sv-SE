@@ -32,7 +32,7 @@ ht-degree: 0%
 + Design Studio {#design-studio}
    + [Importera resurser med Adobe Experience Manager](importing-assets-with-adobe-experience-manager.md)
    + [Marketo Image Editor](marketo-image-editor.md)
-+ Engagement Programs {#engagement-programs}
++ Åtagandeprogram {#engagement-programs}
    + [Aktivera och inaktivera ströminnehåll](activate-and-deactivate-stream-content.md)
    + [Lägga till en ström i ett engagemangsprogram](add-a-stream-to-an-engagement-program.md)
    + [Lägg till innehåll i en engagemangsström](add-content-to-an-engagement-stream.md)
@@ -87,7 +87,7 @@ ht-degree: 0%
    + [Lokala resurser: Massåtgärder](local-assets-mass-actions.md)
    + [Använda fliken Programöversikt](using-the-program-overview-tab.md)
    + [Använda fliken Programinställningar](using-the-program-setup-tab.md)
-+ Programplaneringsvy {#program-schedule-view}
++ Programschemavy {#program-schedule-view}
    + [Skapa en grundläggande post i programschemavy](create-a-basic-entry-in-program-schedule-view.md)
    + [Skapa en batchvis smart kampanj i programschemavy](create-a-batch-smart-campaign-in-program-schedule-view.md)
    + [Skapa ett e-postprogram i programschemavy](create-an-email-program-in-program-schedule-view.md)
