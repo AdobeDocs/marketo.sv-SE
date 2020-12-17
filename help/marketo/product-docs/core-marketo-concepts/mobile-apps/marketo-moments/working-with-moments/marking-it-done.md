@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Markera färdig {#marking-it-done}
+# Markerar den klar {#marking-it-done}
 
 Markera ett e-postprogram, en händelse eller ett analyskort som Klar för att ta bort det från strömmen. Det finns två sätt att göra det på.
 
