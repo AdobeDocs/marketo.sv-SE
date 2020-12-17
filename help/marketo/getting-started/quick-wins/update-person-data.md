@@ -55,7 +55,7 @@ Tänk dig att en person gav dig ytterligare kontaktinformation vid ditt senaste 
 >
 >När ni ändrar data kommer smarta listor och smarta kampanjer att omedelbart identifiera den nya informationen.
 
-## Uppdraget är slutfört {#mission-complete}
+## Uppdraget är klart {#mission-complete}
 
 Snyggt jobb! Du har uppdaterat dina persondata.
 
