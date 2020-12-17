@@ -29,7 +29,7 @@ Du kan [ta bort en programkanal](delete-a-program-channel.md) om den inte använ
 
    ![](assets/image2014-9-24-15-3a45-3a41.png)
 
-1. Klicka på **Dölj** under **taggåtgärder**.
+1. Klicka på **Dölj** under **Taggåtgärder**.
 
    ![](assets/image2014-9-24-15-3a46-3a22.png)
 
