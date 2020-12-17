@@ -33,19 +33,19 @@ Marketo hanterar registrering och närvaro av ditt webbseminarium ReadyTalk.
 
    ![](assets/readytalk-new-service.png)
 
-1. Ange ett **visningsnamn** **för**. Välj** ReadyTalk** under **Service**.
+1. Ange **Visning** **Namn**. Under **Service** väljer du** ReadyTalk**.
 
    ![](assets/new-service-readytalk.png)
 
-1. Ange ditt **åtkomstnummer** och **Access** - **kod**.
+1. Ange ditt **åtkomstnummer** och **Åtkomst** **kod**.
 
    ![](assets/image2015-4-24-18-3a53-3a2.png)
 
-1. Slutför processen genom att ange ditt **lösenord** och klicka på **Skapa**.
+1. Slutför processen genom att ange din **lösenordskod** och klicka på **Skapa**.
 
    ![](assets/image2015-4-24-18-3a53-3a38.png)
 
-1. Fenomenal! Ditt **ReadyTalk** -konto har nu synkroniserats med Marketo.
+1. Fenomenal! Ditt **ReadyTalk**-konto har nu synkroniserats med Marketo.
 
    ![](assets/readytalk.png)
 
