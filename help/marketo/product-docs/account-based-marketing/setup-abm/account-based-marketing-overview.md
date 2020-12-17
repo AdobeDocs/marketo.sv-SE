@@ -27,19 +27,19 @@ Marketo förenar ABM och lead-hantering i en och samma lösning, vilket gör det
 
 Marketo ABM består av tre komponenter:
 
-**1) [Mål](http://docs.marketo.com/display/docs/target)**
+**1)  [Mål](http://docs.marketo.com/display/docs/target)**
 
 * Kontoidentifiering
 * Matchning av lead-till-konto
 * Namngivna kontolistor
 
-**2) [Engage](http://docs.marketo.com/display/docs/engage)**
+**2)  [Engage](http://docs.marketo.com/display/docs/engage)**
 
 * Kontobaserad personalisering
 * Engagemang över flera kanaler
 * Kontospecifika arbetsflöden
 
-**3) [Åtgärd](http://docs.marketo.com/display/docs/measure)**
+**3)  [Åtgärd](http://docs.marketo.com/display/docs/measure)**
 
 * Insikter på konto- och listnivå
 * Resultat för kontoengagemang
@@ -47,11 +47,11 @@ Marketo ABM består av tre komponenter:
 
 Marketo Account Based Marketing erbjuder också olika verktyg för att personalisera upplevelsen av namngivna konton över olika kanaler.
 
-* E-post- och [landningssidans personalisering](http://docs.marketo.com/display/DOCS/Personalization)
-* Webbanpassning [](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)
-* URL- [personalisering](http://docs.marketo.com/display/DOCS/Enable+Personalized+URLs+for+Your+Account)
-* Annonspersonalisering [](http://docs.marketo.com/display/DOCS/Create+a+Custom+Audience+in+Facebook)
-* [Personaliserad](http://docs.marketo.com/display/DOCS/Website+Retargeting) marknadsföring
+* E-post- och landningssida [Personalisering](http://docs.marketo.com/display/DOCS/Personalization)
+* Webb [Personalisering](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)
+* URL [Personalisering](http://docs.marketo.com/display/DOCS/Enable+Personalized+URLs+for+Your+Account)
+* Lägg till [personalisering](http://docs.marketo.com/display/DOCS/Create+a+Custom+Audience+in+Facebook)
+* [](http://docs.marketo.com/display/DOCS/Website+Retargeting) PersonalizedRemarketing
 
 Jag är inne! Hur kommer jag igång?
 
