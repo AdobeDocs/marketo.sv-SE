@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Du kan dela ett exempel på en e-poststund direkt med någon. Det finns två sätt att göra det på.
 
-## Det normala sättet {#the-regular-way}
+## Det reguljära sättet {#the-regular-way}
 
 1. Öppna kortmenyn.
 
