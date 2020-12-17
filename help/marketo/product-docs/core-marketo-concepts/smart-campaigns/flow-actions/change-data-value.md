@@ -21,7 +21,7 @@ Du kan använda Marketo för att uppdatera ett fälts värde. För detta använd
 
 >[!NOTE]
 >
->Du kan också blockera ett fält så att det inte uppdateras. Mer information finns i [Blockera uppdateringar till ett fält](../../../../product-docs/administration/field-management/block-updates-to-a-field.md) .
+>Du kan också blockera ett fält så att det inte uppdateras. Mer information finns i [Blockera uppdateringar till ett fält](../../../../product-docs/administration/field-management/block-updates-to-a-field.md).
 
 ## Användning {#usage}
 
@@ -42,7 +42,7 @@ Du kan använda Marketo för att uppdatera ett fälts värde. För detta använd
 
    >[!TIP]
    >
-   >Du kan ange &#39;NULL&#39; (inga citattecken, versaler) i **Nytt värde** för att rensa fältet. Mer information finns i [Rensa fältvärden](change-data-value/clear-field-values.md) .
+   >Du kan ange &#39;NULL&#39; (inga citattecken, versaler) i **Nytt värde** för att rensa fältet. Mer information finns i [Rensa fältvärden](change-data-value/clear-field-values.md).
 
    >[!NOTE]
    >
