@@ -41,7 +41,7 @@ Det här flödessteget kan användas i Marketo-kampanjer eller som ett enda flö
 
    >[!TIP]
    >
-   >Du kan använda Salesforce-kampanjen [Mina token](../../../../product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) för att göra programkloningen enklare.
+   >Du kan använda Salesforce-kampanj [Mina token](../../../../product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) för att göra programkloningen enklare.
 
 1. Välj den Salesforce-kampanjmedlemskapsstatus som du vill tilldela leads när de läggs till.
 
@@ -49,5 +49,5 @@ Det här flödessteget kan användas i Marketo-kampanjer eller som ett enda flö
 
    >[!CAUTION]
    >
-   >Om en person redan är huvudmedlem i Salesforce-kampanjen hoppas de över och deras status uppdateras INTE. Du kan [ändra deras status i en SFDC-kampanj](change-status-in-sfdc-campaign.md) i stället.
+   >Om en person redan är huvudmedlem i Salesforce-kampanjen hoppas de över och deras status uppdateras INTE. Du kan använda [ändra deras status i en SFDC-kampanj](change-status-in-sfdc-campaign.md) i stället.
 
