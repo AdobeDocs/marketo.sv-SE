@@ -31,19 +31,19 @@ Marketo hanterar registrering och närvaro av ditt ON24-webbinarium.
 
    ![](assets/on24-new-service.png)
 
-1. Ange ett **visningsnamn** **för**. Under **Service** väljer du **ON24**.
+1. Ange **Visning** **Namn**. Under **Service** väljer du **ON24**.
 
    ![](assets/new-service-on24.png)
 
-1. Slutför processen genom att ange din **klientnyckel** **och** klient **-** ID **i** Inställningar **** **** och klicka sedan på Skapa¥.
+1. Slutför processen genom att ange **klient** **nyckel** och **klient** **ID** i **Inställningar** och klicka sedan på **Skapa**.
 
    ![](assets/image2015-4-24-18-3a48-3a29.png)
 
-1. Ditt **ON24** -konto har nu synkroniserats med Marketo.
+1. Ditt **ON24**-konto har nu synkroniserats med Marketo.
 
    ![](assets/on24.png)
 
 >[!MORELIKETHIS]
 >
->Lär dig hur du [skapar ett webbinarium i ON24](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md).
+>Lär dig hur du [skapar din webbinarihändelse i ON24](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md).
 
