@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Skapa en landningssida med valfri form {#create-a-free-form-landing-page}
+# Skapa en startsida med kostnadsfri form {#create-a-free-form-landing-page}
 
 Landningssidor i friform kan skapas som lokala resurser i ett program eller i Design Studio som ska användas globalt.
 
 >[!NOTE]
 >
->Lägen för landningssidor definieras av deras mall. [Läs mer](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) om mallar för frihandsritning och guidade landningssidor.
+>Lägen för landningssidor definieras av deras mall. [Läs ](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) mer om mallar för frihandsritningar och guidade landningssidor.
 
 ## Skapa en landningssida med valfri form i ett program {#create-a-free-form-landing-page-in-a-program}
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -33,7 +33,7 @@ Landningssidor i friform kan skapas som lokala resurser i ett program eller i De
 
    ![](assets/image2015-5-19-12-3a47-3a27.png)
 
-1. Klicka på **landningssidan**.
+1. Klicka på **Startsida**.
 
    ![](assets/image2014-9-16-12-3a58-3a49.png)
 
@@ -51,7 +51,7 @@ Landningssidor i friform kan skapas som lokala resurser i ett program eller i De
 
 >[!TIP]
 >
->URL:en skapas automatiskt från program- och landningssidans namn. Om du vill ändra URL-adressen redigerar du fältet **Sidadress** .
+>URL:en skapas automatiskt från program- och landningssidans namn. Om du vill ändra URL-adressen redigerar du fältet **Sida-URL**.
 
 ## Skapa en landningssida i fri form i Design Studio {#create-a-free-form-landing-page-in-design-studio}
 
