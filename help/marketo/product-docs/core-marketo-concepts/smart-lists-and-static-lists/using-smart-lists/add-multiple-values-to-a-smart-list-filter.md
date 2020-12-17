@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Lägga till flera värden i ett smart listfilter {#add-multiple-values-to-a-smart-list-filter}
+# Lägg till flera värden i ett smart listfilter {#add-multiple-values-to-a-smart-list-filter}
 
 >[!PREREQUISITES]
 >
@@ -22,13 +22,13 @@ ht-degree: 0%
 
 
 
-Säg att du vill hitta alla i Kalifornien, men du kanske lagrar både **Kalifornien** och **CA** i din databas. Om du vill inkludera alla tillämpliga personer kan du använda två **lägesfilter** , men det är enklare med ett.
+Säg att du vill hitta alla i Kalifornien, men du kanske lagrar både **Kalifornien** och **CA** i din databas. Om du vill inkludera alla tillämpliga personer kan du använda två **State**-filter, men det är enklare med ett.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Hitta och välj en smart lista och klicka på fliken **Smart lista** .
+1. Sök efter och välj en smart lista och klicka på fliken **Smart lista**.
 
    ![](assets/smarlist-choosefilters.png)
 
