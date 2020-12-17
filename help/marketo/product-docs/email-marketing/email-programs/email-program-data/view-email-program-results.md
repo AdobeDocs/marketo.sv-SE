@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Precis som på fliken Resultat i smarta kampanjer kan du se samma information i e-postprogram.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-2.png)
 
