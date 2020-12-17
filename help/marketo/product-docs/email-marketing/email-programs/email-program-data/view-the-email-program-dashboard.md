@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Ta reda på hur ditt e-postprogram (med eller utan A/B-test) fungerar med den här instrumentpanelen.
 
-## Välj e-postprogram {#select-your-email-program}
+## Välj ditt e-postprogram {#select-your-email-program}
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,7 +29,7 @@ Ta reda på hur ditt e-postprogram (med eller utan A/B-test) fungerar med den h�
    >
    >Om ditt A/B-test eller e-postprogram inte har startats ännu visas ingen instrumentpanel.
 
-## E-postprogram A/B-testvy {#email-program-a-b-test-view}
+## E-postprogrammets A/B-testvy {#email-program-a-b-test-view}
 
 Om du har lagt till ett A/B-test i ditt e-postprogram och testet körs för närvarande ser du följande:
 
