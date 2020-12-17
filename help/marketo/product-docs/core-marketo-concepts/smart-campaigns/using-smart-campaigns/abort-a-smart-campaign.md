@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Ibland startar man en smart kampanj och inser omedelbart att det var ett misstag. Så här drar du in nödbromsen och stoppar den smarta kampanjen mitt i körningen.
 
-1. Under **Marknadsföringsaktiviteter** väljer du din smarta kampanj och går till fliken **Schema** .
+1. Under **Marknadsföringsaktiviteter** väljer du din smarta kampanj och går till fliken **Schedule**.
 
    ![](assets/image2014-9-22-16-3a19-3a44.png)
 
@@ -27,7 +27,7 @@ Ibland startar man en smart kampanj och inser omedelbart att det var ett misstag
 
    ![](assets/image2014-9-22-16-19-48.png)
 
-1. Bekräfta genom att klicka på **Avbryt** .
+1. Bekräfta genom att klicka på **Avbryt**.
 
    ![](assets/image2014-9-22-16-3a19-3a57.png)
 
