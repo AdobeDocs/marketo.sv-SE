@@ -19,7 +19,7 @@ Listor och smarta listor kan delas och refereras mellan arbetsytor för enkel å
 >
 >Personpartitionsregler gäller (smarta listor och statiska listor på en arbetsyta visar bara personer som är både medlemmar i listan *och* medlemmar i den aktuella arbetsytan).
 
-## Dela en lista eller smart lista  {#share-a-list-or-smart-list}
+## Dela en lista eller smart lista {#share-a-list-or-smart-list}
 
 1. Gå till **databasen**.
 
