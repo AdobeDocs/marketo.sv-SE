@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-För avancerade utvecklare kan du använda [Velocity-skript](http://velocity.apache.org/engine/1.7/user-guide.html) i dina e-postmeddelanden genom att konfigurera en e-postskripttoken. Så här gör du.
+För avancerade utvecklare kan du använda [snabbskript](http://velocity.apache.org/engine/1.7/user-guide.html) i dina e-postmeddelanden genom att konfigurera en e-postskripttoken. Så här gör du.
 
-1. Dra en [!UICONTROL My Tokens] token till arbetsytan på fliken **[!UICONTROL Email Script]** [!UICONTROL Local Tokens] i programmet eller mappen.
+1. Dra en **[!UICONTROL Email Script]**-token till arbetsytan [!UICONTROL Local Tokens] på fliken [!UICONTROL My Tokens] i programmet eller mappen.
 
    ![Bild ett](/help/sky/assets/my-tokens/my-token-email-script/my-token-email-script-1.png)
 
