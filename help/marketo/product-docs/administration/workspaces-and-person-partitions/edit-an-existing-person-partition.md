@@ -35,7 +35,7 @@ En personpartition är som att ha en andra (eller tredje) databas. En partition 
 
    ![](assets/two-5.png)
 
-1. Ange personpartitionsnamnet **,** arbetsytorna **som de tillhör och klicka på **Spara**.
+1. Ange personpartitionen **Namn**, **Arbetsytor **de tillhör och klicka på **Spara**.
 
    ![](assets/three-5.png)
 
