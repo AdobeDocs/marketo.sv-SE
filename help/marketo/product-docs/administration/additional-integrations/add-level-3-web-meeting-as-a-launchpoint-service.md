@@ -33,11 +33,11 @@ Marketo hanterar registrering och närvaro i Level 3 Web Meeting.
 
    ![](assets/level-3-web-meeting-new-service.png)
 
-1. Ange ett **visningsnamn** **för**. Under **Service** väljer du **Level 3 Web Meeting**.
+1. Ange **Visning** **Namn**. Under **Service** väljer du **Webbmöte på nivå 3**.
 
    ![](assets/new-service-level-3.png)
 
-1. Ange ditt **Access** - **nummer**, **Access** - **kod** och **lösenord****** och klicka sedan på¥Create¥.
+1. Ange din **Access** **Number**, **Access** **Code** och **Lösenord** och klicka sedan på **Create**.
 
    ![](assets/image2015-4-23-10-3a10-3a26.png)
 
@@ -47,5 +47,5 @@ Marketo hanterar registrering och närvaro i Level 3 Web Meeting.
 
 >[!MORELIKETHIS]
 >
->Lär dig hur du [skapar en händelse med ett webbmöte](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)på Nivå 3.
+>Lär dig hur du [skapar en händelse med ett Level 3 Web Meeting](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md).
 
