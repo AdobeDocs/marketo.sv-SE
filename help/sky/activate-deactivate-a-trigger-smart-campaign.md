@@ -16,7 +16,7 @@ Aktivering/inaktivering av en smart kampanj som utlöser en åtgärd aktiveras e
 
 ## Aktivera en utlösarkampanj
 
-1. Klicka på **[!UICONTROL Schedule]** fliken i den smarta kampanjen.
+1. Klicka på fliken **[!UICONTROL Schedule]** i den smarta kampanjen.
 
    ![Bild ett](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-1.png)
 
@@ -24,7 +24,7 @@ Aktivering/inaktivering av en smart kampanj som utlöser en åtgärd aktiveras e
    >
    >Granska den smarta kampanjen innan du aktiverar den.
 
-1. Klicka **[!UICONTROL Activate]**.
+1. Klicka på **[!UICONTROL Activate]**.
 
    ![Bild två](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-2.png)
 
@@ -36,14 +36,14 @@ Från och med nu kommer alla som uppfyller kraven för den smarta listan att gå
 
 ## Inaktivera en utlösarkampanj
 
-1. Klicka på **[!UICONTROL Schedule]** fliken i den smarta kampanjen.
+1. Klicka på fliken **[!UICONTROL Schedule]** i den smarta kampanjen.
 
    ![Bild tre](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-3.png)
 
-1. Klicka **[!UICONTROL Deactivate]**.
+1. Klicka på **[!UICONTROL Deactivate]**.
 
    ![Bild fyra](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-4.png)
 
 >[!NOTE]
 >
->Detta hindrar _nya_ personer från att gå in i flödet, men personer som väntar eller andra flödessteg fortsätter att gå igenom flödet tills det är klart.
+>Detta hindrar _nya_-personer från att gå in i flödet, men personer i väntesteg eller andra flödessteg fortsätter att gå igenom flödet tills det är klart.
