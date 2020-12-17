@@ -23,11 +23,11 @@ Följande variabler kan användas som länkar i en e-postmall eller e-postmall:
 
 >[!NOTE]
 >
->Dessa variabler kan **inte** klickas om de inte finns i en ankarlänk. De kan **inte** bäddas in i en Min token.
+>Dessa tokens **kan inte** klickas om de inte finns i en ankarlänk. Dessutom kan de **inte** bäddas in i en Min token.
 
 Så här lägger du till dem i ett e-postmeddelande:
 
-1. Sök efter och välj e-postadress och klicka sedan på **Redigera utkast**.
+1. Sök efter och markera e-postmeddelandet och klicka sedan på **Redigera utkast**.
 
    ![](assets/one-1.png)
 
@@ -35,11 +35,11 @@ Så här lägger du till dem i ett e-postmeddelande:
 
    ![](assets/two-1.png)
 
-1. Markera den text som du vill konvertera till en länk med variabeln och klicka på knappen **Infoga/redigera länk** .
+1. Markera den text som du vill konvertera till en länk som ska ha variabeln och klicka på knappen **Infoga/redigera länk**.
 
    ![](assets/three-1.png)
 
-1. Ange token i Länk-URL och klicka på **Infoga**.
+1. Ange token i länk-URL och klicka på **Infoga**.
 
    ![](assets/four-1.png)
 
