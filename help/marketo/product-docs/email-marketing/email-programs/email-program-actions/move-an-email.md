@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Behöver du flytta ett e-postmeddelande från ett program till ett annat? Så här gör du.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/one-2.png)
 
@@ -23,7 +23,7 @@ Behöver du flytta ett e-postmeddelande från ett program till ett annat? Så h�
 
    ![](assets/leadperformance.jpg)
 
-1. Klicka på listrutan **Flytta till** och välj **marknadsföringsaktiviteter**.
+1. Klicka på listrutan **Flytta till** och välj **Marknadsföringsaktiviteter**.
 
    ![](assets/three-2.png)
 
@@ -31,7 +31,7 @@ Behöver du flytta ett e-postmeddelande från ett program till ett annat? Så h�
    >
    >I det här exemplet flyttar vi ett e-postmeddelande till ett annat program, men du kan också flytta ett e-postmeddelande till en mapp i Design Studio.
 
-1. Klicka på listrutan **Program** , sök efter och markera målprogrammet och klicka på **Flytta**.
+1. Klicka på listrutan **Program**, sök efter och välj målprogrammet och klicka på **Flytta**.
 
    ![](assets/four-2.png)
 
