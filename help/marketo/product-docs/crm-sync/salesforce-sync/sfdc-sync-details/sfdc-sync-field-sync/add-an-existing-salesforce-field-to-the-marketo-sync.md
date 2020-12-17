@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Vanligtvis synkroniseras nya anpassade fält i Salesforce automatiskt till Marketo. Annars kanske inte fälten visas för Marketo Sync-användaren. Så här kan du fixa det här.
 
-1. Klicka på ditt namn och välj sedan **Konfigurera**.
+1. Klicka på ditt namn och välj sedan **Inställningar**.
 
    ![](assets/image2015-6-30-14-3a20-3a6.png)
 
-1. Ange **profilen** i det vänstra sökfältet och klicka på **Profiler** under **Hantera användare**.
+1. Ange **profil** i det vänstra sökfältet och klicka på **Profiler** under **Hantera användare**.
 
    ![](assets/image2015-6-30-14-3a20-3a52.png)
 
@@ -31,7 +31,7 @@ Vanligtvis synkroniseras nya anpassade fält i Salesforce automatiskt till Marke
 
    ![](assets/image2015-6-30-14-3a23-3a41.png)
 
-1. Under **Fältnivåsäkerhet** klickar du på **Visa** bredvid objektet som innehåller fältet.
+1. Under avsnittet **Fältnivåsäkerhet** klickar du på **Visa** bredvid objektet som innehåller fältet.
 
    ![](assets/image2015-6-30-14-3a23-3a59.png)
 
