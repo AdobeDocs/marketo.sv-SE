@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Det finns flera meddelandetyper.
 
-## Kampanjfel  {#campaign-failure}
+## Kampanjfel {#campaign-failure}
 
 Kampanjfel meddelar dig om fel i smarta kampanjer.
 
@@ -47,7 +47,7 @@ Om du försöker skicka leads till Facebook utan att godkänna användarvillkore
 
 Rensa inaktiv utlösarkampanj
 
-Inaktivera utlösta smarta kampanjer som inte längre får någon aktivitet. Läs mer om [automatisk rensning](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)av utlösarkampanjer.
+Inaktivera utlösta smarta kampanjer som inte längre får någon aktivitet. Läs mer om [automatisk rensning av utlösningskampanj](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
 LinkedIn
 
@@ -61,5 +61,5 @@ Du meddelas när du når din dagliga kvot. Kvotmängden återställs varje natt 
 
 >[!NOTE]
 >
->En del felkoder som du kan få beskrivs i vår [utvecklardokumentation](http://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).
+>En del felkoder som du kan få beskrivs i vår [Developer Documentation](http://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).
 
