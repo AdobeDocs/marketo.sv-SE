@@ -33,13 +33,13 @@ Använd dynamiskt innehåll i e-postmeddelanden för att skicka riktade leads-up
 
    ![](assets/1.2.png)
 
-1. I det här exemplet gör vi ämnesraden dynamisk. Klicka i ämnesfältet och klicka sedan på knappen **Gör dynamisk** .
+1. I det här exemplet gör vi ämnesraden dynamisk. Klicka i ämnesfältet och klicka sedan på knappen **Gör dynamisk**.
 
    ![](assets/1.3.png)
 
    >[!NOTE]
    >
-   >Du kan också göra ett element inuti e-postmeddelandet dynamiskt. Det gör du genom att markera området, klicka på kugghjulsikonen och välja **Gör dynamisk** (eller [Ersätt med fragment](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), beroende på vad du gör).
+   >Du kan också göra ett element inuti e-postmeddelandet dynamiskt. Markera området, klicka på kugghjulsikonen och välj **Gör dynamisk** (eller [Ersätt med fragment](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), beroende på vad du gör).
 
    Ange namnet på segmenteringen, markera det och klicka på Spara.
 
