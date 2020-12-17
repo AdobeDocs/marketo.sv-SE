@@ -18,7 +18,7 @@ Här är grunderna som hjälper dig att navigera i programschemavyn.
 
 ## Hitta schemavy
 
-Välj ditt program i trädet. Klicka på under [!UICONTROL Details] fliken [!UICONTROL Schedule].
+Välj ditt program i trädet. Klicka på [!UICONTROL Schedule] under fliken [!UICONTROL Details].
 
 ![Bild ett](/help/sky/assets/program-schedule-view/navigating-program-schedule-view/navigating-program-schedule-view-1.png)
 
@@ -34,6 +34,6 @@ På dagordningen visas alla bidrag under en viss månad.
 
 ## Visa inställningar
 
-I det övre högra hörnet av programschemavyn klickar du för [!UICONTROL View Settings] att filtrera posterna efter [!UICONTROL Tentative], [!UICONTROL Confirmed]och/eller [!UICONTROL Finished].
+Klicka på [!UICONTROL View Settings] i det övre högra hörnet av programschemavyn för att filtrera dina poster med [!UICONTROL Tentative], [!UICONTROL Confirmed] och/eller [!UICONTROL Finished].
 
 ![Bild fyra](/help/sky/assets/program-schedule-view/navigating-program-schedule-view/navigating-program-schedule-view-4.png)
