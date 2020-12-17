@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Kvalificeringsregler styr hur många gånger någon kan gå igenom flödet i en smart kampanj. Även om någon utlöser en smart kampanj flera gånger skickas de som standard bara via flödet en gång. Så här ändrar du inställningarna.
 
-1. Klicka på fliken **Schema** i den smarta kampanjen och sedan på **Redigera inställningar**.
+1. Klicka på fliken **Schedule** i den smarta kampanjen och **Redigera inställningar**.
 
    ![](assets/programeditsettings-hands.png)
 
@@ -23,7 +23,7 @@ Kvalificeringsregler styr hur många gånger någon kan gå igenom flödet i en 
    >
    >Du kan också klicka på **Redigera** till höger om Inställningar för smart kampanj.
 
-1. Välj hur ofta ni ska leda era medarbetare genom det smarta kampanjflödet: **bara en gång**, **varje gång** eller **en gång var # dag**/**vecka**/**månad**.
+1. Välj hur ofta ni ska leda era medarbetare genom det smarta kampanjflödet: **endast en gång**, **varje gång** eller **en gång var # dag**/**vecka**/**månad**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign.png)
 
