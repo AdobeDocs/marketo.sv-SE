@@ -23,7 +23,7 @@ Periodkostnader avser de pengar du spenderar under en viss månad på ett progra
 >
 >Om du spenderar 1 000 dollar på att anställa en illustratör till en e-bok som lanseras i juli, skulle e-boksprogrammet ha en periodkostnad på 1 000 dollar i juli.
 >
->Om du spenderar 200 USD per månad på Google Adwords har Google Adwords-programmet en periodkostnad på 200 USD **varje månad**.
+>Om du spenderar 200 USD per månad på Google Adwords har Google Adwords-programmet en periodkostnad på 200 **varje månad**.
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ Tänk dig en händelse, som ett webbinarium, som inträffar i mars. Nya människ
 
    ![](assets/graph1.png)
 
-   ...Kontakter som lagts till under månaderna före och efter räknas *bara* från mars.
+   ...kontakter som lagts till under månaderna före och efter kommer att *endast* räknas från mars.
 
    ![](assets/graph2.png)
 
@@ -66,7 +66,7 @@ Tänk dig en händelse, som ett webbinarium, som inträffar i mars. Nya människ
    >**Påminnelse**
    >
    >
-   >Sammanfattningsvis - månader utan definierade periodkostnader kommer att gå bakåt till den sista som definierats. Om det inte finns någon kostnad för föregående period kommer månaderna att flyttas fram till nästa som har definierats. Om periodkostnaden inte har definierats för *några* månader kommer rapportering i RCE inte att vara tillgänglig för programmet.
+   >Sammanfattningsvis - månader utan definierade periodkostnader kommer att gå bakåt till den sista som definierats. Om det inte finns någon kostnad för föregående period kommer månaderna att flyttas fram till nästa som har definierats. Om en periodkostnad inte har definierats för *några* månader kommer rapportering i RCE inte att vara tillgänglig för programmet.
 
    >[!NOTE]
    >
