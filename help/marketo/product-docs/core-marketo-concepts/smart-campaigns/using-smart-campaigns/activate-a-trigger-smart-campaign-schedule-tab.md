@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Att aktivera en utlösande smart kampanj är som att aktivera den. Så här gör du.
 
-1. Klicka på **Aktivera på fliken** Schema **för den smarta kampanjen**.
+1. Klicka på **Aktivera** på fliken **Schema** för den smarta kampanjen.
 
    ![](assets/activateprogram-hands.png)
 
