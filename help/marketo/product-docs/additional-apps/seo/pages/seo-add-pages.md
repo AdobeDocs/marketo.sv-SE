@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Du har sidor! Marketo SEO crawlar automatiskt din webbplats och spårar dem. Om vi missar några kan du få dem i SEO-appen så här:
 
-1. Gå till avsnittet **Sidor** .
+1. Gå till avsnittet **Sidor**.
 
    ![](assets/image2014-9-18-12-3a55-3a19.png)
 
