@@ -15,7 +15,7 @@ ht-degree: 0%
 
 När du har kört ett e-postprogram och har data på kontrollpanelen kan du exportera rådata till Excel för ytterligare analys. Så här gör du.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
