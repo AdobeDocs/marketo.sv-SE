@@ -23,7 +23,7 @@ Ställ in kalenderpresentationen så att den återspeglar de mål och aktivitete
 
 >[!PREREQUISITES]
 >
->* [Skapa anpassade mål](create-a-custom-goal.md) eller mål för [smart lista](create-a-smart-list-goal.md)
+>* [Skapa anpassade ](create-a-custom-goal.md) mål eller  [smarta listmål](create-a-smart-list-goal.md)
    >
    >
 * [Skapa en presentation](create-a-presentation.md)
@@ -34,7 +34,7 @@ Ställ in kalenderpresentationen så att den återspeglar de mål och aktivitete
 
 ## Välja vyer {#choosing-the-views}
 
-Presentations bläddrar igenom olika [filterdefinitioner](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md) . Dra in så många vyer du vill och anpassa frekvensen.
+Presentations bläddrar igenom olika [filterdefinitioner](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md) som du väljer. Dra in så många vyer du vill och anpassa frekvensen.
 
 1. I det högra trädet drar du i de olika vyer som du vill rotera genom i presentationen.
 
@@ -42,7 +42,7 @@ Presentations bläddrar igenom olika [filterdefinitioner](../../../../product-do
 
 ## Lägg till ett mål {#add-a-goal}
 
-Presentations är den grym när de visar upp era teammål. Dra bara över olika [anpassade mål](create-a-custom-goal.md) eller mål [för](create-a-smart-list-goal.md)smarta listor. Du kan använda upp till 10.
+Presentations är den grym när de visar upp era teammål. Dra bara över olika [anpassade mål](create-a-custom-goal.md) eller [mål för smart lista](create-a-smart-list-goal.md). Du kan använda upp till 10.
 
 1. Dra från det högra trädet in olika mål som du vill ska visas i presentationen.
 
@@ -64,7 +64,7 @@ När du har dragit in de vyer du vill ha i presentationen anger du hur ofta den 
 
    ![](assets/image2015-3-18-13-3a22-3a18.png)
 
-## Ange visning av kalendern {#set-the-calendar-display}
+## Ange kalendervisning {#set-the-calendar-display}
 
 Du kan ändra kalendervisningen till en 3-veckors- eller månadsvy.
 
