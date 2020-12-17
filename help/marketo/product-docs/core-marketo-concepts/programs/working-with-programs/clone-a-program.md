@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Du kan snabbt och enkelt klona ett helt program och alla dess resurser i stället för att manuellt återskapa allt. Så här gör du.
 
-1. Sök efter och välj det program som du vill klona och klicka sedan på **Klona under** Programåtgärder **.**
+1. Sök efter och välj det program du vill klona och klicka sedan på **Klona under &lt;a0/>Programåtgärder**.****
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
@@ -23,7 +23,7 @@ Du kan snabbt och enkelt klona ett helt program och alla dess resurser i ställe
 
    >[!NOTE]
    >
-   >Program kan klonas i [kampanjmappar](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [eller](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) arbetsytor [](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Se till att du delar alla underliggande beroende resurser (e-post, kodavsnitt, mallar för landningssidor osv.) med målarbetsytan innan du klonar.
+   >Program kan klonas till [kampanj](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [mappar](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) eller [arbetsytor](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Se till att du delar alla underliggande beroende resurser (e-post, kodavsnitt, mallar för landningssidor osv.) med målarbetsytan innan du klonar.
 
    ![](assets/cloneto.png)
 
@@ -47,7 +47,7 @@ Du kan snabbt och enkelt klona ett helt program och alla dess resurser i ställe
 
    >[!TIP]
    >
-   >Använd den här tekniken tillsammans med [tokens](http://docs.marketo.com/display/docs/using+tokens) för att göra det enklare att skapa nya program.
+   >Använd den här tekniken tillsammans med [tokens](http://docs.marketo.com/display/docs/using+tokens) för att skapa nya program i en handvändning.
 
    >[!CAUTION]
    >
