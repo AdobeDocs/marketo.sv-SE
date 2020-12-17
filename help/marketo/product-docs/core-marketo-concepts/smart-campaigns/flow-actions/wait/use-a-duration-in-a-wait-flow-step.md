@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Du kan använda vänteflödessteget för att pausa en persons resa genom en smart kampanj under en viss tidsperiod. Du kan också ange villkor för veckodag och tidpunkt när den slutar.
 
-1. Dra över steget **Vänta** i det smarta **kampanjflödet** .
+1. Dra över flödessteget **Vänta** i den smarta kampanjen **Flöde**.
 
    ![](assets/image2014-9-22-11-3a53-3a57.png)
 
@@ -43,7 +43,7 @@ Du kan använda vänteflödessteget för att pausa en persons resa genom en smar
    >En person utlöser en smart kampanj på fredag kl. 17.00. Väntesteget är avancerat: 48 timmar och måste sluta på måndag-fredag kl. 9.
    >
    >
-   >Resultatet skulle bli att personen skulle fortsätta i flödet **måndag 9.00**. Detta är första M- F- datumet efter 48 timmar.
+   >Resultatet blir att personen fortsätter i flödet **måndag 9:00**. Detta är första M- F- datumet efter 48 timmar.
 
    >[!NOTE]
    >
