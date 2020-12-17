@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Du kan ställa in utlösare och filter för en smart kampanj för mobilappar.
 
-För de flesta aktiviteter finns det en utlösare, ett filter och ett inaktivitetsfilter. Använd inaktivitetsfilter för att spåra en åtgärd som att trycka på ett push-meddelande som *inte* hände.
+För de flesta aktiviteter finns det en utlösare, ett filter och ett inaktivitetsfilter. Använd inaktivitetsfilter för att spåra en åtgärd, som att trycka på ett push-meddelande, som *inte* inträffar.
 
 * Mobilappen är/har installerats
 * Mobilappen har öppnats/öppnats
@@ -27,7 +27,7 @@ Det finns bara filter för den här aktiviteten:
 
 * Skickades push-meddelande - filter och inaktivitetsfilter
 
-Sök efter **mobilappen** i den högra panelen för att visa alla utlösare och filter för mobilappen.
+Sök efter **mobilapp** på den högra panelen för att visa alla utlösare och filter för mobilappen.
 
 ![](assets/image2015-8-12-17-3a25-3a18.png)
 
@@ -57,7 +57,7 @@ Vissa utlösare och filter har ytterligare begränsningar, till exempel:
 
 * Sessionslängd (sekunder) - Sessionstid när programmet är i förgrunden
 
-* Är aktiverad - **Sant** innebär att push-meddelanden kan skickas. **Falskt** betyder att de inte kan. personen kan till exempel ha avanmält sig från att ta emot push-meddelanden
+* Är push-aktiverad - **Sant** betyder att push-meddelanden kan skickas. **** Falsemeans som de inte kan; personen kan till exempel ha avanmält sig från att ta emot push-meddelanden
 
 ## Utlösare och filter {#triggers-and-filters}
 
@@ -103,7 +103,7 @@ Mobilappen har öppnats/öppnats
 
 Har/haft aktivitet för mobilappar
 
-Dessa är ett kraftfullt sätt att spåra anpassad mobilaktivitet. Du måste arbeta med utvecklaren för att konfigurera spårning [för Android](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android) och [för iOS](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
+Dessa är ett kraftfullt sätt att spåra anpassad mobilaktivitet. Du måste arbeta med utvecklaren för att ställa in spårning [för Android](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android) och [för iOS](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
 
 * Har aktivitet för mobilappar - utlösare
 
@@ -129,7 +129,7 @@ Med åtgärdsbegränsningarna kan du använda utlösaren och filtren för att sp
 >
 >**Exempel**
 >
->Här är en mycket specifik åtgärd, med andra begränsningar som definierar den, under åtgärdstypen *Shopping*:
+>Under åtgärdstypen *Shopping* finns det en mycket specifik åtgärd, med de andra begränsningarna som definierar den:
 >
 >* Köpte en skjorta
 >  * Det var rött
@@ -180,7 +180,7 @@ Tryck/tryck på push-meddelande
 >
 >Använd inaktivitetsfiltret Ej påsatt push-meddelande för att hitta personer som inte tryckte på ett push-meddelande som nyligen skickats till dem, så att du kan följa upp via e-post.
 
-**Skickades push-meddelande** Den här aktiviteten är bara tillgänglig som ett filter.
+**Skickades push-** meddelandeDen här aktiviteten är bara tillgänglig som ett filter.
 
 * Skickades push-meddelande - filter
 
