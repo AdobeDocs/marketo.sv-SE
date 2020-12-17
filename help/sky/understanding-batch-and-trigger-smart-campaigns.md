@@ -24,7 +24,7 @@ Smarta gruppkampanjer har bara filter i avsnittet med smarta listor (d.v.s. inga
 
 ![Bild ett](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-Om du klickar på **[!UICONTROL Schedule]** fliken bekräftar du att den smarta kampanjen är inställd på&quot;Gruppera&quot;.
+Om du klickar på fliken **[!UICONTROL Schedule]** bekräftar du att den smarta kampanjen är inställd på&quot;Gruppera&quot;.
 
 ![Bild två](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-2.png)
 
@@ -42,15 +42,15 @@ Om en smart kampanj använder minst en utlösare i den smarta listsektionen stä
 
 ![Bild tre](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-Om du klickar på **[!UICONTROL Schedule]** fliken bekräftar du att den smarta kampanjen är inställd på&quot;Utlösare&quot;.
+Om du klickar på fliken **[!UICONTROL Schedule]** bekräftar du att den smarta kampanjen är inställd på&quot;Utlösare&quot;.
 
 ![Bild fyra](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-4.png)
 
 **Utlös smarta kampanjer**
 
 * Det går inte att schemalägga för återkommande aktiviteter. De kan bara anges som aktiva eller inaktiva.
-* Du kan ställa in mer än en utlösare. Om _någon_ utlösare utlöses körs kampanjåtgärderna.
+* Du kan ställa in mer än en utlösare. Om _någon_-utlösare aktiveras körs kampanjåtgärderna.
 
 >[!TIP]
 >
->Använd [aktivitetsloggen](https://docs.marketo.com/display/DOCS/Locate+the+Activity+Log+for+a+Person) för att se vad som har hänt steg för steg inom smarta kampanjer. Du hittar aktivitetsloggen på den sista fliken på en persons detaljsida.
+>Använd [aktivitetsloggen](https://docs.marketo.com/display/DOCS/Locate+the+Activity+Log+for+a+Person) för att se vad som hände steg för steg inom smarta kampanjer. Du hittar aktivitetsloggen på den sista fliken på en persons detaljsida.
