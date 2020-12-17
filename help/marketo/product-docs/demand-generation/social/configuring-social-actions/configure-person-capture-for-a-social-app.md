@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Konfigurera Personfångst för en social app {#configure-person-capture-for-a-social-app}
+# Konfigurera PERSON Capture för en social app {#configure-person-capture-for-a-social-app}
 
-När du skapar ett [hänvisningserbjudande](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) eller en [utlottning](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)kan du konfigurera vilken information du begär och vilken information du behöver från personer för att kunna delta.
+När du skapar ett [hänvisningserbjudande](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) eller en [utlottning](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) kan du konfigurera vilken information du begär och vilken information du behöver från personer för att kunna delta.
 
 >[!NOTE]
 >
 >Personer uppmanas bara att ange den här informationen om de inte har tillhandahållit den tidigare.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/ma-2.png)
 
-1. Markera programmet och klicka på **Redigera utkast.**
+1. Markera appen och klicka på **Redigera utkast.**
 
    ![](assets/image2014-9-22-10-3a57-3a57.png)
 
-1. Gå till **Registreringsflöde** > **Personfångst i redigeraren för sociala appar.**
+1. Gå till **Registreringsflöde** > **Personhämtning i redigeraren för sociala appar.**
 
    ![](assets/three-1.png)
 
@@ -42,7 +42,7 @@ När du skapar ett [hänvisningserbjudande](../../../../product-docs/demand-gene
 
    >[!NOTE]
    >
-   >Oavsett vilket får deltagarna fortfarande [*operativa* e-postmeddelanden](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) från ditt erbjudande.
+   >Oavsett vilket får deltagarna fortfarande [*fungerande* e-postmeddelanden](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) från ditt erbjudande.
 
 1. I fönstret Visa och redigera klickar du på **Visa redigeringar** och redigerar meddelandena i delningsprompten.
 
