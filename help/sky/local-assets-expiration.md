@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Ange ett förfallodatum/tid för att avpublicera landningssidor, inaktivera utlösarkampanjer eller stoppa återkommande batchkampanjer. Den här funktionen finns i **[!UICONTROL Expiration]** avsnittet under **[!UICONTROL Assets]** fliken.
+Ange ett förfallodatum/tid för att avpublicera landningssidor, inaktivera utlösarkampanjer eller stoppa återkommande batchkampanjer. Den här funktionen finns i avsnittet **[!UICONTROL Expiration]** på fliken **[!UICONTROL Assets]**.
 
 ![Bild ett](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-1.png)
 
@@ -34,7 +34,7 @@ Ange ett förfallodatum/tid för att avpublicera landningssidor, inaktivera utl�
 
 >[!NOTE]
 >
->Om du vill redigera ett befintligt förfallodatum kontrollerar du bara tillgångarna och klickar på **[!UICONTROL Set Expiration]**.
+>Om du vill redigera ett befintligt förfallodatum kontrollerar du bara resurserna och klickar på **[!UICONTROL Set Expiration]**.
 
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ Ange ett förfallodatum/tid för att avpublicera landningssidor, inaktivera utl�
 
 ## Ta bort ett förfallodatum
 
-1. Om du vill ta bort ett förfallodatum kontrollerar du tillgången/tillgångarna och klickar på **[!UICONTROL Remove Expiration]**.
+1. Om du vill ta bort ett förfallodatum kontrollerar du resurserna och klickar på **[!UICONTROL Remove Expiration]**.
 
    ![Bild fem](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-5.png)
 
