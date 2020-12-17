@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Så här sorterar du Mina token i mappar.
 
-1. Klicka på ikonen längst upp till höger på fliken [!UICONTROL My Tokens] i kampanjmappen eller -programmet [!UICONTROL Create Folder] .
+1. Klicka på ikonen [!UICONTROL Create Folder] längst upp till höger på fliken [!UICONTROL My Tokens] i kampanjmappen eller -programmet.
 
    ![Bild ett](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-1.png)
 
-1. Ange ett namn för den nya mappen och välj **[!UICONTROL Local Tokens]** eller **[!UICONTROL Overridden Tokens]** välj i listrutan för mål. Klicka **[!UICONTROL Save]**.
+1. Ange ett namn för den nya mappen och välj sedan **[!UICONTROL Local Tokens]** eller **[!UICONTROL Overridden Tokens]** i listrutan för målet. Klicka på **[!UICONTROL Save]**.
 
    ![Bild två](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-2.png)
 
