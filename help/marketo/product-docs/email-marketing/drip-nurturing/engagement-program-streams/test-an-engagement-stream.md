@@ -15,7 +15,7 @@ ht-degree: 0%
 
 När du har lagt till allt innehåll i en ström kan du testa dem en bit i taget.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/one.png)
 
@@ -23,7 +23,7 @@ När du har lagt till allt innehåll i en ström kan du testa dem en bit i taget
 
    ![](assets/two.png)
 
-1. Klicka på** Programåtgärder** och välj **Testström**.
+1. Klicka på** Programåtgärder** och välj **Testa ström**.
 
    ![](assets/three.png)
 
@@ -37,12 +37,12 @@ När du har lagt till allt innehåll i en ström kan du testa dem en bit i taget
 
    >[!TIP]
    >
-   >Om den testperson du söker inte finns kan du skapa en direkt med alternativet **Skapa person** .
+   >Om den testperson du söker inte finns kan du använda alternativet **Skapa person** och skapa en direkt.
 
    Klicka på Inledande ström, markera den ström som du vill testa och klicka på Kör sändning.
    ![](assets/five-rubiks.png)
 
-1. Klicka på ikonen Uppdatera när personen har gått igenom de [övergångsregler](transition-people-between-engagement-streams.md) som du har konfigurerat tidigare.
+1. När personen har gått igenom de [övergångsregler](transition-people-between-engagement-streams.md) som du tidigare har konfigurerat klickar du på ikonen Uppdatera.
 
    ![](assets/six-rubiks.png)
 
