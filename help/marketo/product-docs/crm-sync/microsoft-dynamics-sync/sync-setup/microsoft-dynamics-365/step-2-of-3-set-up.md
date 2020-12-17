@@ -25,7 +25,7 @@ Vi börjar med att skapa ett användarkonto.
 
    ![](assets/one.png)
 
-1. Klicka på** Inställningar** och välj **Dokumentskydd**.
+1. Klicka på** Inställningar** och välj **Säkerhet**.
 
    ![](assets/two.png)
 
@@ -33,7 +33,7 @@ Vi börjar med att skapa ett användarkonto.
 
    ![](assets/three.png)
 
-1. Klicka på **Ny.**
+1. Klicka på **Nytt.**
 
    ![](assets/four.png)
 
@@ -57,7 +57,7 @@ Vi börjar med att skapa ett användarkonto.
    >
    >Det här namnet måste vara en dedikerad synkroniseringsanvändare och inte en befintlig CRM-användares konto. Det behöver inte vara en faktisk e-postadress.
 
-1. Ange e-postadressen som ska ta emot inloggningsuppgifterna för den nya användaren och klicka på **Skicka e-post och stäng**.
+1. Ange e-postmeddelandet som ska ta emot inloggningsuppgifterna för den nya användaren och klicka på **Skicka e-post och stäng**.
 
    ![](assets/nine.png)
 
@@ -67,7 +67,7 @@ Tilldela endast Marketo-synkroniseringsanvändarrollen till Marketför att synkr
 
 >[!NOTE]
 >
->Detta gäller Marketo version 4.0.0.14 och senare. I tidigare versioner måste alla användare ha synkroniseringsanvändarrollen. Mer information om hur du uppgraderar Marketo finns i [Upgrade Marketo Solution för Microsoft Dynamics](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
+>Detta gäller Marketo version 4.0.0.14 och senare. I tidigare versioner måste alla användare ha synkroniseringsanvändarrollen. Mer information om hur du uppgraderar Marketo finns i [Upgrade Marketo Solution for Microsoft Dynamics](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
 
 1. Gå tillbaka till fliken Aktiverade användare och uppdatera användarlistan.
 
@@ -87,29 +87,29 @@ Tilldela endast Marketo-synkroniseringsanvändarrollen till Marketför att synkr
 
    >[!NOTE]
    >
-   >Uppdateringar som görs i CRM av Synkronisera användare synkroniseras **inte** tillbaka till Marketo.
+   >Alla uppdateringar som görs i CRM av Sync User kommer **inte** att synkroniseras tillbaka till Marketo.
 
 ## Konfigurera Marketo-lösning {#configure-marketo-solution}
 
 Nästan klart! Allt vi har kvar är att informera Marketo Solution om den nya användaren som har skapats.
 
-1. Gå tillbaka till avsnittet Avancerade inställningar och klicka på ![](assets/image2015-5-13-15-3a49-3a19.png)ikonen bredvid Inställningar och välj **Marketo Config**.
+1. Gå tillbaka till avsnittet Avancerade inställningar och klicka på ikonen ![](assets/image2015-5-13-15-3a49-3a19.png)bredvid Inställningar och välj **Marketo Config**.
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >Uppdatera sidan om du inte ser **Marketo Config** på menyn Inställningar. Om det inte fungerar kan du försöka [publicera Marketo-lösningen](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) [](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) igen eller logga ut och in igen.
+   >Uppdatera sidan om du inte ser **Marketo Config** på menyn Inställningar. Om det inte fungerar kan du försöka med att [publicera Marketo Solution](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) [](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) eller logga ut och in igen.
 
 1. Klicka på **Standard**.
 
    ![](assets/fifteen.png)
 
-1. Klicka på sökknappen i fältet **Marketo-användare** och välj den synkroniseringsanvändare du skapade.
+1. Klicka på sökknappen i fältet **Marketo User** och välj den synkroniseringsanvändare du skapade.
 
    ![](assets/sixteen.png)
 
-1. Klicka på ![](assets/image2015-3-13-15-3a10-3a11.png)ikonen längst ned till höger för att spara ändringarna.
+1. Klicka på ikonen ![](assets/image2015-3-13-15-3a10-3a11.png)längst ned till höger för att spara ändringarna.
 
    ![](assets/image2015-3-13-15-3a3-3a3.png)
 
@@ -117,11 +117,11 @@ Nästan klart! Allt vi har kvar är att informera Marketo Solution om den nya an
 
    ![](assets/seventeen.png)
 
-1. Klicka på ![](assets/image2015-5-13-15-3a49-3a19-1.png)ikonen bredvid Inställningar och välj **Lösningar**.
+1. Klicka på ikonen ![](assets/image2015-5-13-15-3a49-3a19-1.png)bredvid Inställningar och välj **Lösningar**.
 
    ![](assets/eighteen.png)
 
-1. Klicka på knappen **Publicera alla anpassningar** .
+1. Klicka på knappen **Publicera alla anpassningar**.
 
    ![](assets/nineteen.png)
 
