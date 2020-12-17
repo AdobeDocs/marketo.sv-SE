@@ -17,7 +17,7 @@ Ett program kan importeras från en Marketo-prenumeration till en annan. Du kan 
 
 ## Importera ett program {#import-a-program-1}
 
-1. Gå till **marknadsföringsaktiviteter.**
+1. Gå till **Marknadsföringsaktiviteter.**
 
    ![](assets/ma.png)
 
@@ -27,12 +27,12 @@ Ett program kan importeras från en Marketo-prenumeration till en annan. Du kan 
 
    >[!NOTE]
    >
-   >Programimport är bara tillgängligt för användare som har roller med behörigheten Importera program aktiverad. Läs mer om hur du [hanterar användarroller och behörigheter](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+   >Programimport är bara tillgängligt för användare som har roller med behörigheten Importera program aktiverad. Läs mer om [hantering av användarroller och behörigheter](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
    >
    >
    >Om du vill ansluta ett sandlådekonto till din liveprenumeration kontaktar du [Marketo Support](http://www.marketo.com/services/support/).
 
-1. Välj en Marketo- **prenumeration** och ett program som ska importeras. Klicka på **Nästa**.
+1. Välj en Marketo **Prenumeration** och ett program som ska importeras. Klicka på **Nästa**.
 
    ![](assets/image2014-9-17-12-3a20-3a13.png)
 
@@ -42,7 +42,7 @@ Ett program kan importeras från en Marketo-prenumeration till en annan. Du kan 
 
    >[!NOTE]
    >
-   >Se till att** ****Använd standardregler för konflikter** är markerat. Konfliktregler behövs när du importerar program till en instans som har resurser med samma namn.
+   >Se till att** ****Använd standardregler för konflikt** är markerat. Konfliktregler behövs när du importerar program till en instans som har resurser med samma namn.
 
 1. Förhandsgranska information och **Importera** programmet.
 
@@ -58,7 +58,7 @@ Du får en bekräftelse via e-post när importen är klar.
 >
 >Ni måste planera om importerade batchkampanjer och aktivera utlösarkampanjer. Systemet inaktiverar automatiskt kampanjscheman och utlöser kampanjer i det importerade programmet.
 
-## Identifiera färdiga program i Marketo Program Library {#identify-pre-built-programs-in-the-marketo-program-library}
+## Identifiera fördefinierade program i Marketo Program Library {#identify-pre-built-programs-in-the-marketo-program-library}
 
 Marketo Program Library innehåller färdiga testade program som du kan importera till din prenumeration. Tillgängliga program:
 
@@ -77,13 +77,13 @@ Marketo Program Library innehåller färdiga testade program som du kan importer
 1. **Synkronisera nya personer till CRM.** Kampanjen som synkroniserar nya personer med CRM-systemet. Den tilldelar en personstatus så att den inte är försäljningsklar.
 1. **Webbinarium med händelseadapter.** En komplett uppsättning e-postmeddelanden - t.ex. inbjudningar och påminnelser - plus landningssidor med formulär och kampanjer för att flytta människor genom programmet. Det här programmet får uppdateringar om registrering, närvaro osv. från leverantörer av online-event som WebEx.
 1. **Webbinarium utan Event Adapter.** Samma som ovan, men med manuella processer för registrering, närvaro osv.
-1. **Sirius Beslutsbedömningsprogram**. Det här programmet är utformat för att stödja Sirius-beslutets standardbedömningsmodell, inklusive implicita och explicita poängregler och matchade persontilldelningar. Se [den här](http://docs.marketo.com/display/docs/assets/sirius-decisions-scoring-program-overview.pdf)PDF-filen för mer information.
+1. **Sirius Beslutsbedömningsprogram**. Det här programmet är utformat för att stödja Sirius-beslutets standardbedömningsmodell, inklusive implicita och explicita poängregler och matchade persontilldelningar. Visa [den här PDF-filen](http://docs.marketo.com/display/docs/assets/sirius-decisions-scoring-program-overview.pdf)för mer information.
 
 >[!CAUTION]
 >
 >Du måste skapa två anpassade fält (&quot;Demografisk bakgrundsmusik&quot; och&quot;Beteendepoäng&quot;) innan du importerar poängsättningsprogrammet - Standard och Select Editions.
 
-## Inverkan på externa resurser under programimporten {#impact-on-external-assets-during-program-imports}
+## Inverkan på externa resurser vid programimport {#impact-on-external-assets-during-program-imports}
 
 Program använder externa resurser som e-postmallar, mallar för landningssidor, bilder, formulär, tokens och programtaggar. Du kan konfigurera hur landningssidmallar och programtaggar hanteras, och Marketo hanterar automatiskt resten.
 
@@ -105,6 +105,6 @@ Program använder externa resurser som e-postmallar, mallar för landningssidor,
 >
 >När du importerar ett program hoppas landningssidor/e-postmeddelanden som innehåller [dynamiskt innehåll](http://docs.marketo.com/x/yRAt) över.
 
-## Se en video {#watch-a-video}
+## Titta på en video {#watch-a-video}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/KgvZssZ9WRkZgDsY1yZfms.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
