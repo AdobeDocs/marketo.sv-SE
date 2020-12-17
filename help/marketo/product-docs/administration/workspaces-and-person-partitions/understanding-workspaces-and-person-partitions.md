@@ -38,7 +38,7 @@ I båda fallen beror separationen på att marknadsföringsresurserna är helt ol
 >
 >**Djupdykning**
 >
->Lär dig hur du skapar en [ny arbetsyta](create-a-new-workspace.md).
+>Lär dig hur du skapar [en ny arbetsyta](create-a-new-workspace.md).
 
 ## Dela mellan arbetsytor {#sharing-across-workspaces}
 
@@ -82,7 +82,7 @@ Du kan dela dessa objekt mellan arbetsytor.
 * [Segmenteringar](share-segmentations-across-workspaces-and-partitions.md)
 * Fragment
 
-## Klona mellan arbetsytor {#cloning-across-workspaces}
+## Klona över arbetsytor {#cloning-across-workspaces}
 
 För resurser som inte är mallar är det bäst att klona dem som lokala resurser i ett program.  Med rätt åtkomstnivå kan du dra och släppa resurserna på en annan arbetsyta:
 
