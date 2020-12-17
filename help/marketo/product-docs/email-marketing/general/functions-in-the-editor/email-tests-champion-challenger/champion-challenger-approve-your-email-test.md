@@ -23,11 +23,11 @@ Det sista steget i att konfigurera ditt e-posttest för att godkänna det. Så h
 
 
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Sök och högerklicka på **e-posttestet** och klicka sedan på **Godkänn test**.
+1. Sök och högerklicka på **E-posttestet** och klicka sedan på **Godkänn test**.
 
    ![](assets/champion3.jpg)
 
@@ -36,11 +36,11 @@ Det sista steget i att konfigurera ditt e-posttest för att godkänna det. Så h
    >**Påminnelse**
    >
    >
-   >Godkänn utmanarens e-postadress först när du godkänner ett **helt e-postmeddelande**** **test.
+   >Godkänn utmanarens e-postadress först när du godkänner en **hel e-postadress**** **test.
 
    >[!NOTE]
    >
-   >Om du vill skicka ut testet väljer du det e-postmeddelande du lade till testet i **skicka e-post** -flödessteget i utlösarkampanjen. Du kan också infoga e-postmeddelandet i en ström av ett engagemangsprogram. Mejl från Champion/Challenger fungerar inte i gruppkampanjer.
+   >Om du vill skicka ut testet väljer du det e-postmeddelande du lade till testet i flödessteget **Skicka e-post** i utlösarkampanjen. Du kan också infoga e-postmeddelandet i en ström av ett engagemangsprogram. Mejl från Champion/Challenger fungerar inte i gruppkampanjer.
 
    Var inte det enkelt? När du har fått ett antal rapporter vill du anmäla dig som mästare.
 
