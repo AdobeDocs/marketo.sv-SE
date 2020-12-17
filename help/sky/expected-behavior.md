@@ -27,9 +27,9 @@ I den här artikeln hittar du information om förväntat beteende som är koppla
    * Prediktiva filter - [!DNL Sky/Classic]
    * Planerade registreringar - [!DNL Sky/Classic]
    * Sannolikhetsprognoser på ledarnivå - [!DNL Sky/Classic]
-   * Mål och spårning - [!DNL Sky] endast
-   * Insikter och rekommendationer - [!DNL Sky] endast
-* [Den första aktiveringen](/help/sky/getting-started-with-predictive-audiences.md) tar **24-48 timmar** för alla processer att slutföras när PA har aktiverats. Du kommer att se alla funktioner för prediktiva målgrupper och prediktiva filter i gränssnittet, men det kan ta upp till 24 timmar innan de här funktionerna börjar fungera.
+   * Mål och spårning - endast [!DNL Sky]
+   * Insikter och rekommendationer - endast [!DNL Sky]
+* [Inledande ](/help/sky/getting-started-with-predictive-audiences.md) aktivering tar **24-48** timmar för alla processer att slutföra efter att PA har aktiverats. Du kommer att se alla funktioner för prediktiva målgrupper och prediktiva filter i gränssnittet, men det kan ta upp till 24 timmar innan de här funktionerna börjar fungera.
 * **Förutsättningar genereras bara för nya kampanjer som skapas efter att funktionen har aktiverats.**
 
 ## Det finns ytterligare saker att tänka på när det gäller prediktiva filter:
@@ -40,7 +40,7 @@ I den här artikeln hittar du information om förväntat beteende som är koppla
 * Om du vill köra en smart kampanj måste troliga filter användas tillsammans med andra vanliga filter.
 * Funktionen Sparade regler kan inte användas i kampanjer som innehåller prediktiva filter.
 * Du kan använda **upp till 5** prediktiva filter i en smart lista.
-* Prediktiva filter kan bearbeta **maximalt 1 miljon kvalificerade leads**.
+* Prediktiva filter kan bearbeta **högst 1 miljon kvalificerade leads**.
 * Du kan ha **upp till 50 aktiva program** med prediktiva filter. Ett aktivt program är ett program som använder prediktiva filter och har schemalagts minst en gång.
 
 ## När är inte projicerade registreringar tillgängliga?
