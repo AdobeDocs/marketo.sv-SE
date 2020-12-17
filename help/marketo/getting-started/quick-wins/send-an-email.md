@@ -21,15 +21,15 @@ Det är det första alla vill göra. Låt oss skicka ett e-postmeddelande från 
 
 ## Skapa ett e-postprogram {#create-an-email-program}
 
-1. Gå till området **Marknadsföringsaktiviteter** .
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/one-1.png)
 
-1. Välj **Utbildningsmapp** . Klicka på listrutan **Nytt** och välj **Nytt program**.
+1. Välj mappen **Learning**. Klicka på listrutan **Nytt** och välj **Nytt program**.
 
    ![](assets/two-1.png)
 
-1. Ange ett **namn** och välj **E-post** som **programtyp.**
+1. Ange ett **namn** och välj **E-post** för **Programtyp.**
 
    >[!TIP]
    >
@@ -37,11 +37,11 @@ Det är det första alla vill göra. Låt oss skicka ett e-postmeddelande från 
 
    ![](assets/three.png)
 
-1. Under **Kanal** väljer du **Skicka** via e-post och klickar på **Skapa**.
+1. Under **Kanal** väljer du **Skicka via e-post** och klickar på **Skapa**.
 
    ![](assets/image2015-3-2-16-3a25-3a18.png)
 
-## Definiera er målgrupp {#define-your-audience}
+## Definiera målgrupp {#define-your-audience}
 
 1. Klicka på **Redigera smart lista** under rutan Målgrupp.
 
@@ -61,13 +61,13 @@ Det är det första alla vill göra. Låt oss skicka ett e-postmeddelande från 
 
    >[!NOTE]
    >
-   >Om ditt e-postmeddelande inte fylls i automatiskt kan du ha glömt att [konfigurera och lägga till en lead.](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+   >Om e-postmeddelandet inte fylls i automatiskt kan du ha glömt att [Kom igång och lägga till en lead.](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
    >[!NOTE]
    >
    >I det här exemplet ska du bara skicka e-postmeddelandet till dig själv, men du kan anpassa målgruppen som du vill.
 
-1. Gå tillbaka till huvudprogramfliken och klicka på ikonen Uppdatera för **person**.
+1. Gå tillbaka till huvudprogramfliken och klicka på uppdateringsikonen för **person**.
 
    ![](assets/refresh-icon.png)
 
@@ -79,7 +79,7 @@ Det är det första alla vill göra. Låt oss skicka ett e-postmeddelande från 
 
    ![](assets/image2014-9-8-15-3a10-3a47.png)
 
-1. Ange ett **namn**, markera en **mall** och klicka på **Skapa**.
+1. Ange ett **namn**, välj en **mall** och klicka på **Skapa**.
 
    ![](assets/ten-1.png)
 
@@ -89,7 +89,7 @@ Det är det första alla vill göra. Låt oss skicka ett e-postmeddelande från 
 
    >[!NOTE]
    >
-   >Om du har en popup-blockerare klickar du på **Redigera utkast** för att öppna e-postredigeraren.
+   >Om du har en blockerare klickar du på **Redigera utkast** för att öppna e-postredigeraren.
 
 1. Markera området som du vill redigera, klicka på kugghjulsikonen till höger och välj sedan **Redigera** (du kan också dubbelklicka på det redigerbara området som du vill redigera).
 
@@ -115,7 +115,7 @@ Det är det första alla vill göra. Låt oss skicka ett e-postmeddelande från 
 
    ![](assets/sixteen.png)
 
-1. Ange startdagen för e-postmeddelandet till **Idag under rutan Schemalägg.**
+1. Ange startdagen för e-postmeddelandet till **Idag under rutan Schema.**
 
    ![](assets/image2014-9-8-15-3a13-3a11.png)
 
@@ -127,7 +127,7 @@ Det är det första alla vill göra. Låt oss skicka ett e-postmeddelande från 
    >
    >Är inte standardtidszonen din? Lär dig hur du [uppdaterar det här](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md).
 
-1. Klicka på **Godkänn program** under rutan Godkännande så är du klar!
+1. Klicka **Godkänn program** under rutan Godkännande. Klart!
 
    ![](assets/image2014-9-8-15-3a13-3a34.png)
 
