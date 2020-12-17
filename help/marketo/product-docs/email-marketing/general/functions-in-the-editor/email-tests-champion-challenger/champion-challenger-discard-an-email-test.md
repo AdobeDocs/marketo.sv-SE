@@ -23,7 +23,7 @@ Om du vid något tillfälle bestämmer dig för att du inte vill fortsätta att 
 
 
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -31,11 +31,11 @@ Om du vid något tillfälle bestämmer dig för att du inte vill fortsätta att 
 
    ![](assets/champion5.jpg)
 
-1. Bekräfta genom att klicka på **Ta bort** .
+1. Bekräfta genom att klicka på **Ta bort**.
 
    ` ![](assets/image2014-9-15-14-3a17-3a11.png)
 
    `
 
-   Du är klar! Om du någonsin bestämmer dig för att du vill konfigurera ett test igen kan du [lägga till en e-postkampanj](add-an-email-champion-challenger.md).
+   Du är klar! Om du någonsin bestämmer dig för att du vill konfigurera ett test igen kan du [lägga till en e-postkampanj/utmanare](add-an-email-champion-challenger.md).
 
