@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Du kan skapa anpassade övertäckningar för att visa poster som är relevanta för dina behov.
 
-1. Klicka på listrutan **Dagordning** .
+1. Klicka på listrutan **Dagordning**.
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 
-1. Markera **Övertäckningar**.
+1. Välj **Övertäckningar**.
 
    ![](assets/image2014-9-24-10-3a20-3a17.png)
 
