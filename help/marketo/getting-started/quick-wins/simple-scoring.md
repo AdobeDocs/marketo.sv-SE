@@ -19,13 +19,13 @@ ht-degree: 0%
 >* [Landningssida med ett formulär](landing-page-with-a-form.md)
 
 
-## Steg 1: Skapa en resultatkampanj {#step-create-a-scoring-campaign}
+## Steg 1: Skapa en poängkampanj {#step-create-a-scoring-campaign}
 
-1. Gå till området **Marknadsföringsaktiviteter** .
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/ma-1.png)
 
-1. Högerklicka på mappen **Learning** och klicka på **New Campaign Folder**.
+1. Högerklicka på mappen **Learning** och klicka på **Ny kampanjmapp**.
 
    ![](assets/two-2.png)
 
@@ -37,21 +37,21 @@ ht-degree: 0%
    >
    >Om du redan har en bedömningsmapp ger du den ett annat namn, till exempel Betygsättning 1. Mappnamn måste vara unika.
 
-1. Högerklicka sedan på den nya **bedömningsmappen** och välj **Ny smart kampanj**.
+1. Högerklicka sedan på den nya **betygsmappen** och välj **Ny smart kampanj**.
 
    ![](assets/four.png)
 
-1. **Namnge** kampanjen&quot;Change Score&quot; och klicka på **Create**.
+1. **Ge** kampanjen namnet&quot;Change Score&quot; och klicka på  **Create**.
 
    ![](assets/five-1.png)
 
-1. Klicka på fliken **Smart lista** .
+1. Klicka på fliken **Smart lista**.
 
    ![](assets/six-1.png)
 
-   Vi vill att den här kampanjen ska köras när en person fyller i ditt formulär **för** testbegäran.
+   Vi vill att den här kampanjen ska köras när en person fyller i ditt **formulär för testbegäran**.
 
-1. Hitta och dra utlösaren för **Fyll i formulär** till den vänstra arbetsytan.
+1. Hitta och dra utlösaren **Fyller i formulär** till den vänstra arbetsytan.
 
    ![](assets/image2014-9-24-11-3a43-3a35.png)
 
@@ -59,19 +59,19 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Om du har slutfört [landningssidan med en snabbsida i form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) bör du ha formuläret. Om du har använt ett annat namn för formuläret väljer du det.
+   >Om du har slutfört [landningssidan med ett snabbfönster i form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) bör du ha formuläret. Om du har använt ett annat namn för formuläret väljer du det.
 
    ![](assets/image2014-9-24-11-3a44-3a16.png)
 
-1. Klicka på fliken **Flöde** .
+1. Klicka på fliken **Flöde**.
 
    ![](assets/image2014-9-24-11-3a44-3a33.png)
 
-1. Dra åtgärden **Ändra bakgrundsmusik** till den vänstra arbetsytan.
+1. Dra flödesåtgärden **Ändra bakgrundsmusik** till den vänstra arbetsytan.
 
    ![](assets/image2014-9-24-11-3a44-3a45.png)
 
-1. Du kan skriva vilket värde som helst som ska läggas till i personens poäng. Vi skriver &quot;+5&quot; i fältet **Ändra** .
+1. Du kan skriva vilket värde som helst som ska läggas till i personens poäng. Vi anger &quot;+5&quot; i fältet **Ändra**.
 
    ![](assets/eleven-1.png)
 
@@ -79,7 +79,7 @@ ht-degree: 0%
    >
    >Bra poängsättningskampanjer är avgörande för att leverera högkvalitativa säljare. Läs [**The Definitive Guide to Lead Scoring**](https://www.marketo.com/definitive-guides/lead-scoring/).
 
-1. Klicka på fliken **Schema** och på knappen **Aktivera** .
+1. Klicka på fliken **Schema** och **Aktivera**.
 
    ![](assets/twelve-1.png)
 
@@ -93,7 +93,7 @@ ht-degree: 0%
 
 ## Steg 2: Fyll i formuläret {#step-fill-out-the-form}
 
-1. Välj landningssidan som du skapade på [landningssidan med ett snabbt utbyte av ett formulär](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) .
+1. Välj landningssidan som du skapade på [landningssidan med ett snabbt Win-formulär](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
 
    ![](assets/fourteen-1.png)
 
