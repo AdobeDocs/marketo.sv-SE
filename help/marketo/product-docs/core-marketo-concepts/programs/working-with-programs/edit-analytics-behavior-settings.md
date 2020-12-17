@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Redigera inställningar för analysbeteende {#edit-analytics-behavior-settings}
 
-Du kan ange [analysbeteendet på adminnivå i kanalerna](../../../../product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), men du kan även redigera det på programnivå. Så här gör du.
+Du kan ställa in [analysbeteendet på adminnivå på kanalerna](../../../../product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), men du kan även redigera det på programnivå. Så här gör du.
 
 1. Gå till Marknadsföringsaktiviteter.
 
