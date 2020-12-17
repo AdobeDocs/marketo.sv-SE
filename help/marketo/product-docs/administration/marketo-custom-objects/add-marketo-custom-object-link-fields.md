@@ -22,7 +22,7 @@ När du skapar anpassade objekt måste du tillhandahålla länkfält för att ku
 
 Så här skapar du ett länkfält i ett anpassat objekt för en 1:N-struktur.
 
-1. Klicka på **Admin** och välj Anpassade objekt **i** Databashantering ****.
+1. Klicka på **Admin** och välj **Marketo-anpassade objekt** i **Databashantering**.
 
    ![](assets/image2016-1-18-13-3a25-3a11.png)
 
@@ -73,7 +73,7 @@ Så här skapar du ett länkfält i ett mellanliggande objekt som kan användas 
 >
 >Du måste redan ha skapat mellanliggande objekt och eventuella anpassade objekt som du vill länka det till.
 
-1. Klicka på **Admin** och välj Anpassade objekt **i** Databashantering ****.
+1. Klicka på **Admin** och välj **Marketo-anpassade objekt** i **Databashantering**.
 
    ![](assets/image2016-1-18-9-3a8-3a14.png)
 
