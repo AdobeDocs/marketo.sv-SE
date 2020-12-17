@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Lägga till en begränsning i ett smart listfilter {#add-a-constraint-to-a-smart-list-filter}
+# Lägg till en begränsning i ett smart listfilter {#add-a-constraint-to-a-smart-list-filter}
 
 När du skapar smarta listor har vissa filter avancerade alternativ som kallas *begränsningar. *Det här är extra villkor som du kan lägga till i filter och utlösare för att begränsa sökningen ytterligare.
 
-I det här exemplet lägger vi till några begränsningar i ett ** [Data Value Changed](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)**-filter för att hitta personer som har en statusändring från MQL till SQL.
+I det här exemplet lägger vi till några begränsningar i ett ** [datavärde ändrat](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)**-filter för att hitta personer som har en statusändring från MQL till SQL.
 
 >[!PREREQUISITES]
 >
@@ -26,11 +26,11 @@ I det här exemplet lägger vi till några begränsningar i ett ** [Data Value C
 
 
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/ma-1.png)
 
-1. Markera den smarta listan med ett filter som du vill lägga till en begränsning i och klicka på fliken **Smart lista** .
+1. Markera den smarta listan med ett filter som du vill lägga till en begränsning i och klicka på fliken **Smart lista**.
 
    ![](assets/two-3.png)
 
@@ -42,13 +42,13 @@ I det här exemplet lägger vi till några begränsningar i ett ** [Data Value C
 
    ![](assets/four-2.png)
 
-1. Under **Lägg till begränsning** väljer du **Nytt värde**.
+1. Välj **Nytt värde** under **Lägg till begränsning**.
 
    ![](assets/five.png)
 
-1. Ange det **nya värdet**. I det här exemplet använder vi SQL.
+1. Ange **Nytt värde**. I det här exemplet använder vi SQL.
 
    ![](assets/six.png)
 
-1. Snyggt gjort! Klicka på fliken **Personer** för att se alla personer som haft en **status** som har ändrats från **MQL** till **SQL** under de senaste 30 dagarna.
+1. Snyggt gjort! Klicka på fliken **Personer** om du vill visa alla personer som har en **status** som har ändrats från **MQL** till **SQL** de senaste 30 dagarna.
 
