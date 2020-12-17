@@ -5,13 +5,13 @@ title: Kontouppsättning
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
 
-# Kontouppsättning {#account-team-setup}
+# Kontonaminställningar {#account-team-setup}
 
 Ett kontoteam är en grupp intressenter som arbetar tillsammans med ett namngivet konto. Följ de här stegen för att välja vilka CRM-kontoroller som ska läggas till.
 
@@ -31,7 +31,7 @@ Ett kontoteam är en grupp intressenter som arbetar tillsammans med ett namngive
    >
    >Som kontoroll ger du den ett namn och matchar det till önskat fält för användarsökning i CRM.
 
-1. Skriv in namnet på din kontoroll och markera **CRM** -fältet. Lägg till upp till 10.
+1. Skriv in namnet på din kontoroll och välj fältet **CRM**. Lägg till upp till 10.
 
    ![](assets/four-2.png)
 
