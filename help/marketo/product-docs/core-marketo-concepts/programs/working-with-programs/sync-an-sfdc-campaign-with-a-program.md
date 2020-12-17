@@ -23,7 +23,7 @@ Med Marketo kan ni synkronisera program med Salesforce-kampanjer för att behål
 >
 >När en SFDC-kampanj synkroniseras med ett Marketo-program inaktiveras de implicita SFDC-åtgärderna (t.ex. lägg till i SFDC Campaign, Synkronisera till SFDC) för underordnade kampanjer i programmet.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -39,7 +39,7 @@ Med Marketo kan ni synkronisera program med Salesforce-kampanjer för att behål
 
    >[!TIP]
    >
-   >Om du väljer en befintlig Salesforce-kampanj måste du se till att [matcha programstatusvärdena för Salesforce-kampanjen och Marketo-programmet](../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
+   >Om du väljer en befintlig Salesforce-kampanj måste du [matcha programstatusvärdena för Salesforce-kampanjen och Marketo-programmet](../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
 
 1. Ange ett namn för den nya kampanjen och klicka på **Spara**.
 
