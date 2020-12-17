@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Konfigurera Adobe Experience Cloud målgruppsdelning {#set-up-adobe-experience-cloud-audience-sharing}
+# Konfigurera Adobe Experience Cloud Audience Sharing {#set-up-adobe-experience-cloud-audience-sharing}
 
 Om du vill dela målgruppsdata med dina Adobe-program måste du först ange dina Adobe IMS-organisationsuppgifter i Marketo. Så här gör du.
 
@@ -31,7 +31,7 @@ Om du vill dela målgruppsdata med dina Adobe-program måste du först ange dina
 
    ![](assets/three-2.png)
 
-1. Ange ditt Adobe IMS-organisations-ID (läs om hur du hittar det [här](http://docs.adobe.com/content/help/en/control-panel/using/faq.html)) och klicka på **OK**.
+1. Ange ditt Adobe IMS-organisations-ID (läs om hur du hittar [här](http://docs.adobe.com/content/help/en/control-panel/using/faq.html)) och klicka på **OK**.
 
    ![](assets/four-2.png)
 
@@ -47,7 +47,7 @@ Om du vill dela målgruppsdata med dina Adobe-program måste du först ange dina
    >
    >Av säkerhetsskäl måste du vara organisationsadministratör för den Adobe-organisation som du vill mappa till. Annars misslyckas åtgärden.
 
-1. Om du *inte* redan är inloggad visas ett popup-fönster på en ny flik eller i ett nytt fönster. Logga in på din Adobe-organisation (den här åtgärden verifierar organisationsåtkomsten).
+1. Om du *inte* redan är inloggad visas ett popup-fönster på en ny flik/i ett nytt fönster. Logga in på din Adobe-organisation (den här åtgärden verifierar organisationsåtkomsten).
 
-   Och det är allt! Nu kan ni börja [dela målgruppsdata](http://docs.marketo.com/x/ogI6Ag).
+   Och det är allt! Nu kan du börja [dela målgruppsdata](http://docs.marketo.com/x/ogI6Ag).
 
