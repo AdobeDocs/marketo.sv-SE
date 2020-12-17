@@ -25,11 +25,11 @@ Marketo vinner. Det är sällsynt att en sådan kollision mellan data inträffar
 
 ## Kan jag skapa en lead i Salesforce med Marketo? {#can-i-create-a-lead-in-salesforce-using-marketo}
 
-Ja, använd åtgärden [Synkronisera person till SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) -flöde. Detta skapar en lead i Salesforce om leadet inte finns.
+Ja, använd flödesåtgärden [Synkronisera person till SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md). Detta skapar en lead i Salesforce om leadet inte finns.
 
 ## Kan jag manuellt tvinga en synkronisering av en person i Marketto till ett lead i Salesforce? {#can-i-manually-force-a-sync-of-a-person-in-marketo-to-a-lead-in-salesforce}
 
-Ja, använd [funktionen Synkronisera person till SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) så synkroniseras den i realtid.
+Ja, använd flödesåtgärden [Synkronisera person till SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) så synkroniseras den i realtid.
 
 ## Synkroniserar alla standardfält med Marketo? {#does-every-single-standard-field-sync-to-marketo}
 
