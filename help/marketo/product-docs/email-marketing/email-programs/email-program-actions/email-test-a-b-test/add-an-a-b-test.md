@@ -16,11 +16,11 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Skapa ett e-postprogram](../../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definiera en publik med en smart lista](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) eller [Definiera en publik genom att importera en lista](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Definiera en målgrupp med en smart ](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) lista genom att  [definiera en målgrupp genom att importera en lista](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
    >
    >
-* [Välj en befintlig e-postadress](../../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) eller [skapa en e-postadress för ett e-postprogram](../../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+* [Välj en befintlig ](../../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) e-postadress  [Skapa ett e-postmeddelande för ett e-postprogram](../../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
 >
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Testning är ett bra sätt att optimera e-postmeddelanden för bättre engagemang. Så här kommer du igång.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -48,7 +48,7 @@ Testning är ett bra sätt att optimera e-postmeddelanden för bättre engageman
 
    >[!CAUTION]
    >
-   >Om du har dubblettposter i databasen får dessa poster **både** test- och vinnande e-postmeddelanden. Om du vill förhindra att det här händer måste du [söka efter och sammanfoga duplicerade personer](http://docs.marketo.com/x/G4EI) i databasen.
+   >Om du har dubblettposter i din databas får dessa poster **både** test- och vinnande e-postmeddelanden. Om du vill förhindra att detta händer kontrollerar du att du [söker efter och sammanfogar dubblettpersoner](http://docs.marketo.com/x/G4EI) i din databas.
 
 >[!NOTE]
 >
