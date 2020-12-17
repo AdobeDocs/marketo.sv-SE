@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Ange strömavslut {#set-stream-cadence}
+# Ange strömbrytare {#set-stream-cadence}
 
 Ni kan skicka engagemangsinnehåll när ni vill. Till exempel: en gång i veckan, eller var tredje tisdag i månaden.
 
-## Ange hörnpunkt {#set-cadence}
+## Ange Cadence {#set-cadence}
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Hitta och välj engagemangsprogram, klicka på fliken **Streams **och klicka sedan på **Set Stream Cadence**.
+1. Hitta och välj ditt engagemangsprogram, klicka på fliken **Streams **och klicka sedan på **Set Stream Cadence**.
 
    ![](assets/selectstreamcadence.jpg)
 
@@ -29,7 +29,7 @@ Ni kan skicka engagemangsinnehåll när ni vill. Till exempel: en gång i veckan
 
 ## Vecka {#weekly}
 
-1. Välj **Varje vecka**.
+1. Välj **Veckovis**.
 
    ![](assets/image2017-12-5-14-3a9-3a43.png)
 
@@ -51,9 +51,9 @@ Ni kan skicka engagemangsinnehåll när ni vill. Till exempel: en gång i veckan
 
    >[!TIP]
    >
-   >Du kan ange att din cadence ska köras varje dag genom att välja **Upprepningar: Varje vecka** /** var: 1 vecka** /** ****På**: alla dagar.
+   >Du kan ange att din cadence ska köras varje dag genom att välja **Upprepningar: Varje vecka** /** Varje: 1 Vecka** /** ****Den**: alla dagar.
 
-   Välj tid nu. Markera rutan om du vill använda [Mottagarens tidszon](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)(d.v.s. leverera enligt lokala tidszoner) och klicka sedan på Spara.
+   Välj tid nu. Markera rutan om du vill använda [Mottagarens tidszon](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) (d.v.s. leverera enligt lokala tidszoner) och klicka sedan på Spara.
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
    >[!CAUTION]
@@ -70,7 +70,7 @@ Ni kan skicka engagemangsinnehåll när ni vill. Till exempel: en gång i veckan
 
 Så ja! Fortsätt läsa om du vill konfigurera en månadskurs.
 
-## Månadsvis {#monthly}
+## Varje månad {#monthly}
 
 1. Välj **Monthly **om du vill se hur ofta den upprepas.
 
