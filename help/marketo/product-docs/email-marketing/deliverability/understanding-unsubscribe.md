@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Om att avbryta prenumerationen {#understanding-unsubscribe}
+# Om att avbryta prenumeration {#understanding-unsubscribe}
 
 Det finns faktiskt flera olika typer av inbyggda prenumerationer i Marketo. De representeras alla av fält på personobjektet, precis som förnamn.
 
@@ -19,11 +19,11 @@ Det finns faktiskt flera olika typer av inbyggda prenumerationer i Marketo. De r
 >
 >Marketo håller på att ändra termer som Blacklist och Whitelist för att Blocklist och Tillåtslista i vår produkt. Under den här uppdateringen kan du se de gamla villkoren i våra användargränssnitt och skärmbilder för dokumentation samt de nya villkoren i vår dokumentationstext. Vi ber om ursäkt för all förvirring.
 
-Alla dessa fält är inbyggda i er Marketo-prenumeration. De är alla boolesk (kryssrutetyp). De kan användas i Forms eller [Ändra datavärde](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) .
+Alla dessa fält är inbyggda i er Marketo-prenumeration. De är alla boolesk (kryssrutetyp). De kan användas i flödesstegen Forms eller [Ändra datavärde](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
 ## Avbeställ {#unsubscribed}
 
-Detta används på standardsidan för avanmälan. Om en person markerar den här rutan eller klickar på länken för att avbryta prenumerationen i ett e-postmeddelande får han/hon inte längre några marknadsföringsmeddelanden. De får dock [operativa e-postmeddelanden](../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
+Detta används på standardsidan för avanmälan. Om en person markerar den här rutan eller klickar på länken för att avbryta prenumerationen i ett e-postmeddelande får han/hon inte längre några marknadsföringsmeddelanden. De kommer dock att få [e-post om driften](../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
 ## Marknadsföring har pausats {#marketing-suspended}
 
@@ -39,7 +39,7 @@ Den här statusen blockerar en person från att posta i 24 timmar efter att ett 
 
 ## Blocklist {#blocklisted}
 
-[Använd detta för personer som konkurrenter](http://docs.marketo.com/x/uwOQ). Alla du vill ha **inga** e-postmeddelanden - i drift, marknadsföring, osv. De får ingenting!
+[Använd detta för personer som konkurrenter](http://docs.marketo.com/x/uwOQ). Alla du vill få **inga** e-postmeddelanden - i drift, marknadsföring osv. De får ingenting!
 
 ![](assets/image2015-5-18-12-3a6-3a40.png)
 
