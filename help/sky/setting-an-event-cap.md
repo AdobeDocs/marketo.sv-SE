@@ -29,7 +29,7 @@ Begränsa antalet personer som kan registrera sig för evenemanget med ett händ
 
    ![Bild ett](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-1.png)
 
-1. I översikten letar du reda på [!UICONTROL Event Cap] och klickar **[!UICONTROL Not Set]**.
+1. I översikten söker du efter [!UICONTROL Event Cap] och klickar på **[!UICONTROL Not Set]**.
 
    ![Bild två](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-2.png)
 
@@ -37,14 +37,14 @@ Begränsa antalet personer som kan registrera sig för evenemanget med ett händ
 
    ![Bild tre](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-3.png)
 
-1. Klicka på den [!UICONTROL Registration Page] nedrullningsbara listan och välj den landningssida som ska fungera som registreringssida.
+1. Klicka på listrutan [!UICONTROL Registration Page] och välj den landningssida som ska fungera som registreringssida.
 
    ![Bild fyra](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-4.png)
 
-1. Klicka på den **[!UICONTROL Registration Full Page]** nedrullningsbara listan och välj den landningssida som ska fungera som registreringssida. Klicka **[!UICONTROL Set and Enable]** när du är klar.
+1. Klicka på listrutan **[!UICONTROL Registration Full Page]** och välj den landningssida som ska fungera som registreringssida. Klicka på **[!UICONTROL Set and Enable]** när du är klar.
 
    ![Bild fem](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-5.png)
 
-   Ni är färdiga. Om du bestämmer dig för att du vill redigera informationen för händelseanfangen klickar du på den blå texten bredvid [!UICONTROL Event Cap] och upprepar från steg 3.
+   Ni är färdiga. Om du bestämmer dig för att du vill redigera informationen om händelseanfangen klickar du på den blå texten bredvid [!UICONTROL Event Cap] och upprepar från steg 3.
 
    ![Bild sex](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-6.png)
