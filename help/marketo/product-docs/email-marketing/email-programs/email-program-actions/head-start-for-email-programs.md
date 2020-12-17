@@ -37,7 +37,7 @@ När du väljer ett datum/tid för ett e-postprogram avgör det när programmet 
    >
    >Det går inte att använda Head Start med A/B-testning.
 
-1. Schemalägg e-postmeddelandet i rutan Schemalägg och markera sedan rutan **Huvudstart** .
+1. Schemalägg e-postmeddelandet i rutan Schemalägg och markera sedan rutan **Starta**.
 
    ![](assets/three-1.png)
 
@@ -54,8 +54,8 @@ När du väljer ett datum/tid för ett e-postprogram avgör det när programmet 
    Efter programgodkännandet finns det fyra olika statusar som du kan se på godkännandepanelen.
 
    * **Väntar på att köras:** När programmet har godkänts.
-   * **Bearbetningen har startats, väntar på att köras:** Bearbetning pågår.
-   * **Bearbetningen är klar, väntar på att köras:** Bearbetningen är klar, e-postmeddelandet väntar nu på att den schemalagda tiden ska startas.
+   * **Bearbetningen har startats, väntar på att köras:** Bearbetningen pågår.
+   * **Bearbetningen är klar, väntar på att köras:** Bearbetningen har slutförts, e-postmeddelandet väntar nu på att den schemalagda tiden ska startas.
    * **Slutförd:** Programmet har slutförts.
 
    >[!TIP]
@@ -68,13 +68,13 @@ När du väljer ett datum/tid för ett e-postprogram avgör det när programmet 
 
 ## Startpunkt med mottagartidszon {#head-start-with-recipient-time-zone}
 
-Vår befintliga funktion för Head Start kräver att programmet schemaläggs minst 12 timmar i förväg. Vad innebär det för mottagartidszon? Kom ihåg att när mottagarens tidszon är aktiv börjar vi köra e-postprogrammet vid midnatt i den tidigaste tidszonen (UTC +14:00). För att aktivera **både** huvudstartzonen och mottagartidszonen måste programmen schemaläggas **minst 12 timmar före den tidigaste tidszonen (UTC +14:00**).
+Vår befintliga funktion för Head Start kräver att programmet schemaläggs minst 12 timmar i förväg. Vad innebär det för mottagartidszon? Kom ihåg att när mottagarens tidszon är aktiv börjar vi köra e-postprogrammet vid midnatt i den tidigaste tidszonen (UTC +14:00). Om du vill aktivera **både** Starttidszon för HEAD och Mottagarens tidszon måste programmen schemaläggas **minst 12 timmar före den tidigaste tidszonen (UTC +14:00**.)
 
 Det innebär att om du är i Amerika/Los Angeles och vill aktivera både Head Start och Receipient Time Zone måste du schemalägga programmet **34 timmar** i förväg. Hur kom vi till det här numret?
 
 ![](assets/image2017-12-5-13-3a11-3a46.png)
 
-[Läs mer](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) om hur du schemalägger e-postprogram med mottagartidszon.
+[Läs ](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) mer om hur du schemalägger e-postprogram med mottagartidszon.
 
 >[!NOTE]
 >
