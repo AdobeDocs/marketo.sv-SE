@@ -16,10 +16,10 @@ ht-degree: 0%
 
 Så här konfigurerar du en RTF-token som ska användas i program- och kampanjmappar.
 
-1. Dra en [!UICONTROL My Tokens] RTF **-token till arbetsytan på fliken** i programmet eller mappen [!UICONTROL Local Tokens] .
+1. Dra en **RTF**-token till arbetsytan [!UICONTROL Local Tokens] på fliken [!UICONTROL My Tokens] i programmet eller mappen.
 
    ![Bild ett](/help/sky/assets/my-tokens/my-token-rich-text/my-token-rich-text-1.png)
 
-1. Ange ett namn för din nya token och lägg sedan till eventuell text i redigeraren. Klicka **[!UICONTROL Save]**.
+1. Ange ett namn för din nya token och lägg sedan till eventuell text i redigeraren. Klicka på **[!UICONTROL Save]**.
 
    ![Bild två](/help/sky/assets/my-tokens/my-token-rich-text/my-token-rich-text-2.png)
