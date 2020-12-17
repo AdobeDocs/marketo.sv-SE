@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Låt e-postmeddelanden fungera {#make-an-email-operational}
+# Gör ett e-postmeddelande användbart {#make-an-email-operational}
 
 E-postmeddelanden som används ignorerar statusen Avbeställ och Marknadsföring har avbrutits. De skickar oavsett vad.
 
@@ -33,7 +33,7 @@ E-postmeddelanden som används ignorerar statusen Avbeställ och Marknadsföring
 
    ![](assets/two-1.png)
 
-1. Markera **Operational Email** (E-post för drift) och klicka på **Save**(Spara).
+1. Kontrollera **e-postadress** och klicka på **Spara**.
 
    ![](assets/three.png)
 
