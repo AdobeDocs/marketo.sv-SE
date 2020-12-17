@@ -19,11 +19,11 @@ Reservsidor är den sista försvarslinjen om landningssidan är offline eller in
 >
 >**Administratörsbehörigheter krävs**
 
-1. Under **Admin** klickar du på **landningssidor**.
+1. Under **Admin** klickar du på **Startsidor**.
 
    ![](assets/image2014-9-10-12-3a7-3a22.png)
 
-1. Klicka på **Redigera** under fliken **Landningssidor**.
+1. Klicka på **Redigera** under fliken **Startsidor**.
 
    ![](assets/image2014-9-10-12-3a7-3a5.png)
 
