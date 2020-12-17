@@ -12,14 +12,14 @@ ht-degree: 0%
 
 # Lägg till och ta bort etiketter
 
-Du kan tilldela etiketter till alla mediefiler i [!UICONTROL Marketing Activities]så att det blir enkelt att ordna och söka efter mediefiler.
+Du kan tilldela etiketter till alla resurser i [!UICONTROL Marketing Activities], vilket gör det enkelt att ordna och söka efter resurser.
 
 ## Lägg till etiketter
 
-Om du vill lägga till nya etiketter till en resurs går du till resursens [!UICONTROL Details] sida på [!UICONTROL Overview] fliken.
+Om du vill lägga till nya etiketter till en resurs går du till resursens [!UICONTROL Details]-sida under fliken [!UICONTROL Overview].
 <br> 
 
-Klicka på under [!UICONTROL Labels] avsnittet **[!UICONTROL Add New Labels]**.
+Klicka på **[!UICONTROL Add New Labels]** under avsnittet [!UICONTROL Labels].
 
 ![Bild ett](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-1.jpg)
 
