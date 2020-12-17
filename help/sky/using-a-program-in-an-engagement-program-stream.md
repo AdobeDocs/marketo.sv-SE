@@ -17,7 +17,7 @@ ht-degree: 0%
 Det är enkelt att lägga till e-post i en ström i ett engagemangsprogram, och det fungerar bra. Men om era affärsbehov är mer komplexa kan det vara bra att placera e-postmeddelandet i ett program. Du kanske vill:
 
 * Skicka ett e-postmeddelande till en undergrupp personer i strömmen
-* Skicka _olika_ e-postmeddelanden till undergrupper i strömmen
+* Skicka _olika_-e-postmeddelanden till undergrupper i strömmen
 * Inkludera landningssidor, formulär eller andra resurser i engagemangsprogrammet
 * Aktivera multitouch-attribuering
 * Lägg till extra flödessteg, som varningsmeddelanden
@@ -30,7 +30,7 @@ När du använder ett kapslat program baseras beslutet att skicka ett e-postmedd
 * Om du är medlem i programmet får du inte e-postmeddelandet
 * Om du inte längre är medlem men redan har fått e-postmeddelandet tidigare via det programmet får du inte e-postmeddelandet
 
-När du använder ett program i en ström spelar det ingen roll om du har fått den specifika e-postadressen tidigare. Så länge e-postmeddelandet inte har skickats ut tidigare _i det specifika programmet_ kan du få det igen.
+När du använder ett program i en ström spelar det ingen roll om du har fått den specifika e-postadressen tidigare. Så länge e-postmeddelandet inte har skickats ut före _i det specifika programmet_ kan du ta emot det igen.
 
 Det kan vara svårt att blanda e-post och program i ett engagemangsprogram. Du kanske vill använda den ena eller den andra.
 
@@ -40,7 +40,7 @@ Det kan vara svårt att blanda e-post och program i ett engagemangsprogram. Du k
 
 ## Vad händer med dem som inte uppfyller villkoren i den smarta listan?
 
-Om någon filtreras bort från den smarta listan i ett kapslat programs smarta kampanj går de inte vidare till nästa innehåll under den aktuella sändningen. De kommer att gå vidare till nästa innehållsdel i strömmen för _följande_ sändning.
+Om någon filtreras bort från den smarta listan i ett kapslat programs smarta kampanj går de inte vidare till nästa innehåll under den aktuella sändningen. De fortsätter till nästa del av innehållet i strömmen för _följande_-sändning.
 
 ## Vad innehåller ett kapslat program?
 
