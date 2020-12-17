@@ -19,7 +19,7 @@ Du kan använda steget Väntflöde för att pausa en persons resa genom en smart
 >
 >Detta gäller endast utlösande kampanjer. Du kan inte använda den här funktionen i gruppkampanjer.
 
-1. Dra över steget **Vänta** i det smarta **kampanjflödet** .
+1. Dra över flödessteget **Vänta** i den smarta kampanjen **Flöde**.
 
    ![](assets/image2014-9-22-14-3a8-3a22.png)
 
@@ -54,7 +54,7 @@ Du kan använda steget Väntflöde för att pausa en persons resa genom en smart
 
    >[!NOTE]
    >
-   >Du kan också ange antalet dagar med hjälp av ett `{{lead.` - eller `{{company.` token som representerar ett heltalsfält eller en `{{my.` token av taltyp.
+   >Du kan också ange antalet dagar med en `{{lead.`- eller `{{company.`-token som representerar ett heltalsfält eller en `{{my.`-token av taltyp.
 
 1. Klicka på Spara.
 
