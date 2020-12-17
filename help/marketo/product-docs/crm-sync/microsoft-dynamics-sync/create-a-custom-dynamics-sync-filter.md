@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Skapa ett anpassat Dynamics-synkroniseringsfilter {#create-a-custom-dynamics-sync-filter}
+# Skapa ett synkroniseringsfilter för anpassad Dynamics {#create-a-custom-dynamics-sync-filter}
 
 Vill du inte synkronisera allt i Dynamics CRM till Marketo? Oroa dig inte! Marketo låter dig konfigurera ett synkroniseringsfilter och synkronisera endast en del av dina poster.
 
@@ -53,37 +53,37 @@ Marketo letar efter det här fältet under den automatiska bakgrundssynkroniseri
 
    ![](assets/image2015-8-10-21-3a42-3a15.png)
 
-1. Klicka ![](assets/image2015-8-10-21-3a44-3a23.png) bredvid **Enheter**.
+1. Klicka på ![](assets/image2015-8-10-21-3a44-3a23.png) bredvid **Enheter**.
 
    ![](assets/image2015-8-10-21-3a43-3a39.png)
 
-1. Klicka ![](assets/image2015-8-10-21-3a44-3a23.png) bredvid **Lead **och välj **Fält**. Klicka sedan på **Ny**.
+1. Klicka på ![](assets/image2015-8-10-21-3a44-3a23.png) bredvid **Lead **och välj **Fält**. Klicka sedan på **Nytt**.
 
    ![](assets/image2015-8-10-21-3a49-3a49.png)
 
-1. Ange **SyncToMkto** i fältet **Visningsnamn** och välj **Två alternativ** som **datatyp**. Klicka sedan på **Spara och stäng**.
+1. Ange **SyncToMkto** i fältet **Visningsnamn** och välj **Två alternativ** som **Datatyp**. Klicka sedan på **Spara och stäng**.
 
    ![](assets/image2015-9-8-10-3a25-3a33.png)
 
    >[!NOTE]
    >
-   >Välj ett visningsnamn för det här fältet, men fältet Namn måste vara exakt **new_synctomkto**. Du måste använda **new** som standardprefix. Om du har ändrat standardinställningen går du hit för att [återställa standardprefixet för de anpassade fältnamnen](create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md). Du kan ändra tillbaka när du har skapat de nya fälten.
+   >Välj ett visningsnamn för det här fältet, men fältet Namn måste vara exakt **new_synctomkto**. Du måste använda **new** som standardprefix. Om du har ändrat standardvärdet går du hit till [återställ standardprefixet för de anpassade fältnamnen](create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md). Du kan ändra tillbaka när du har skapat de nya fälten.
 
    >[!NOTE]
    >
    >Om du har konfigurerat ett asynkront arbetsflöde får posten det standardvärde för SyncToMkto som du har konfigurerat i fältet, och det korrekta värdet hämtas några sekunder senare när arbetsflödet har slutförts. Om standardvärdet är Ja skapas posterna i Marketo och blir sedan inaktuella. Använd **Nej** som standardvärde för att undvika detta.
 
-1. Upprepa den här processen och skapa fältet **SyncToMkto** för andra enheter som du vill begränsa synkroniseringen för, till exempel kontakter, konton, affärstillfällen och anpassade entiteter.
+1. Upprepa den här processen och skapa fältet **SyncToMkto** för andra entiteter som du vill begränsa synkroniseringen för, till exempel kontakt, konto, affärsmöjlighet och anpassade entiteter.
 
-## Markera filtret i Marketto {#select-the-filter-in-marketo}
+## Markera filtret i Marketo {#select-the-filter-in-marketo}
 
 Även om du redan har gjort din första synkronisering går du in och väljer fälten som ska synkroniseras med Marketo.
 
-1. Gå till Admin och välj **MIcrosoft Dynamics**.
+1. Gå till Admin och välj **Microsoft Dynamics**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Klicka på **Redigera** i fältsynkroniseringsinformation.
+1. Klicka på **Redigera** i Fältsynkroniseringsinformation.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -103,7 +103,7 @@ Du kan alltid manuellt tilldela ett värde till SyncToMkto-fälten för dina pos
 >
 >Ett Dynamics-arbetsflöde fungerar bara på nya poster som skapas framåt, inte på historiska data. Använd en batchuppdatering för att flytta över befintliga poster.
 
-1. Gå till Dynamics CRM. Klicka på **Inställningar** och sedan på **Processer**.
+1. Gå till Dynamics CRM. Klicka på **Inställningar** och klicka sedan på **Processer**.
 
    ![](assets/image2015-8-11-8-3a42-3a10.png)
 
@@ -111,11 +111,11 @@ Du kan alltid manuellt tilldela ett värde till SyncToMkto-fälten för dina pos
 
    ![](assets/image2015-8-11-8-3a43-3a46.png)
 
-1. Ange ett namn för arbetsflödet och välj **Arbetsflöde** som kategori och **Lead** som enhet. Klicka sedan på **OK**.
+1. Ange ett namn för arbetsflödet och välj **Arbetsflöde** som kategori och **Lead** som entitet. Klicka sedan på **OK**.
 
    ![](assets/image2015-8-11-8-3a45-3a46.png)
 
-1. Skapa regler för att tilldela ett true- eller false-värde till **SyncToMkto** -fältet baserat på din organisations önskemål. Klicka på **Spara och stäng**.
+1. Skapa regler för att tilldela ett sant eller falskt värde till fältet **SyncToMkto** baserat på din organisations önskemål. Klicka på **Spara och stäng**.
 
    ![](assets/setsynctomkto-fix.png)
 
@@ -129,7 +129,7 @@ Du kan alltid manuellt tilldela ett värde till SyncToMkto-fälten för dina pos
 
    >[!TIP]
    >
-   >Se [Anpassade synkroniseringsfilterregler för en e-postadress](create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md) för att konfigurera regler för att synkronisera endast poster för personer med e-postadresser.
+   >Se [Anpassade synkroniseringsfilterregler för en e-postadress](create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md) om du vill konfigurera regler för att synkronisera endast poster för personer med e-postadresser.
 
 ## Information om synkroniseringsfilter {#sync-filter-details}
 
@@ -137,11 +137,11 @@ Här är några implementeringsdetaljer vi trodde att du borde veta:
 
 1. Starta en synkroniseringsåtgärd
 
-   När **SyncToMkto** -värdet ändras från **Nej** till **Ja** skickar Dynamics ett meddelande till Marketto om att synkroniseringen av den här posten ska börja. Om posten redan finns uppdaterar Marketo den. Annars skapar Marketo posten.
+   När värdet **SyncToMkto** ändras från **No** till **Yes**, meddelar Dynamics Marketo omedelbart att synkroniseringen av den här posten ska börja. Om posten redan finns uppdaterar Marketo den. Annars skapar Marketo posten.
 
    >[!TIP]
    >
-   >En **Create [StartSync]** -åtgärd läggs till i Marketo-loggen när detta inträffar.
+   >En **Create [StartSync]**-åtgärd läggs till i Marketo-loggen när detta inträffar.
 
 1. Stoppa en synkroniseringsåtgärd
 
