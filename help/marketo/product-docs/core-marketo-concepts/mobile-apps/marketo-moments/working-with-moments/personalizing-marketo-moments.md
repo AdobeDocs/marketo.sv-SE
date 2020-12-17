@@ -15,7 +15,7 @@ ht-degree: 0%
 
 När ni har massor av marknadsföringsprogram och smarta kampanjer på gång är det bra att se allt, men ni kanske bara vill fokusera på ert eget arbete.
 
-Aktivera **Visa bara mina stunder** för att visa enbart dina egna e-postprogram och smarta kampanjer.
+Aktivera **Visa bara mina stunder** så att endast dina egna e-postprogram och smarta kampanjer visas.
 
 ![](assets/image2015-7-16-15-3a53-3a24.png)
 
