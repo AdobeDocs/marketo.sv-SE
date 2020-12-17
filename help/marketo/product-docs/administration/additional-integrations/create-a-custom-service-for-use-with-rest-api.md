@@ -32,7 +32,7 @@ Om du vill integrera med Marketo via ReST API:t måste du skapa en anpassad tjä
 >
 >**Djupdykning**
 >
->Läs mer i dokumentationen för våra utvecklare om [ReST API](http://developers.marketo.com/documentation/rest/). Vi har också [SOAP API](http://developers.marketo.com/documentation/soap/) om det är det du behöver.
+>Läs dokumentationen till våra utvecklare för mer information om [ReST API](http://developers.marketo.com/documentation/rest/). Vi har också [SOAP API](http://developers.marketo.com/documentation/soap/) om det är det du behöver.
 
 >[!NOTE]
 >
@@ -44,11 +44,11 @@ Om du vill integrera med Marketo via ReST API:t måste du skapa en anpassad tjä
 
    ![](assets/image2014-9-19-10-3a38-3a15.png)
 
-1. Klicka på **Ny tjänst** under **Ny**.
+1. Under **Ny** klickar du på **Ny tjänst**.
 
    ![](assets/image2014-9-19-10-3a38-3a22.png)
 
-1. Ange ett **visningsnamn** för tjänsten. Markera den **API-version som du** tidigare skapade [som endast är användar](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md).
+1. Ange ett **visningsnamn** för tjänsten. Välj **API-endast användare** [som tidigare skapats](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md).
 
    >[!NOTE]
    >
@@ -70,7 +70,7 @@ Om du vill integrera med Marketo via ReST API:t måste du skapa en anpassad tjä
 
    ![](assets/image2014-9-19-10-3a42-3a11.png)
 
-1. Klicka på **Visa detaljer** för den anpassade LaunchPoint-tjänsten som skapas ovan.
+1. Klicka på **Visa information** för den anpassade LaunchPoint-tjänsten som skapats ovan.
 
    ![](assets/image2014-9-19-10-3a42-3a16.png)
 
@@ -78,7 +78,7 @@ Om du vill integrera med Marketo via ReST API:t måste du skapa en anpassad tjä
 
    ![](assets/image2014-9-19-10-3a42-3a24.png)
 
-1. Ange klient-ID**, **klienthemlighet**, **auktoriserad användare** och **token** för den person som ansvarar för att upprätta anslutningen.
+1. Ange klient-ID***, **Klienthemlighet**, **Autentiserad användare** och **token** till den person som ansvarar för att upprätta anslutningen.
 
    ![](assets/image2014-9-19-10-3a42-3a38.png)
 
