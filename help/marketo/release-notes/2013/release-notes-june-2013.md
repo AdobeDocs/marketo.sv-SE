@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Versionsinformation: Juni 2013 {#release-notes-june}
 
-Följande funktioner finns i juniversionen. Kontrollera om det finns funktioner i din [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) .
+Följande funktioner finns i juniversionen. Kontrollera din [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) för att se om det finns funktioner.
 
-Efter releasen ska du kontrollera fliken [Ny release](release-notes-december-2013.md) i communityn för detaljerade kunskapsbasartiklar för varje funktion!
+Efter releasen ska du kontrollera fliken [New Release](release-notes-december-2013.md) i communityn för detaljerade kunskapsbasartiklar för varje funktion!
 
 ## Ytterligare användarspråk {#additional-user-languages}
 
@@ -23,13 +23,13 @@ Se gränssnittet Marketo Lead Management på ditt språk - som nu stöder spansk
 
 ![](assets/image2014-9-22-16-3a25-3a54.png)
 
-## Cobalt-användargränssnitt {#cobalt-user-interface}
+## Kobolt användargränssnitt {#cobalt-user-interface}
 
 Under de närmaste månaderna kommer du att märka ett nytt tema som lanserats i olika delar av programmet; till exempel påverka modala fönster.
 
 ![](assets/image2014-9-22-16-3a26-3a8.png)
 
-## Kloning av undermapp {#subfolder-cloning}
+## Klona undermapp {#subfolder-cloning}
 
 Klona resurser i undermappar.
 
