@@ -55,7 +55,7 @@ Nu är det dags att omgodkänna allt varje gång ett textutdrag uppdateras! Med 
 
 ## [Anpassade aktiviteter](http://docs.marketo.com/display/docs/marketo+custom+activities) {#custom-activities}
 
-Marketo-administratörer kan nu definiera och hantera sina anpassade aktivitetstyper via Marketo Custom Activity Definition-modelleraren. På samma sätt som (och i kombination med) Marketo Custom Object Modeler kan administratörer nu utöka datamodellen för att passa just deras affärsbehov. Information om hur du använder den här funktionen finns på [Marketos dokumentationswebbplats](https://docs.marketo.com/display/public/DOCS/Marketo+Custom+Activities).
+Marketo-administratörer kan nu definiera och hantera sina anpassade aktivitetstyper via Marketo Custom Activity Definition-modelleraren. På samma sätt som (och i kombination med) Marketo Custom Object Modeler kan administratörer nu utöka datamodellen för att passa just deras affärsbehov. Information om hur du använder den här funktionen finns på webbplatsen [Marketo documentation](https://docs.marketo.com/display/public/DOCS/Marketo+Custom+Activities).
 
 ## [Landningssida, landningssidmall och formulär-API:er](http://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
 
@@ -63,7 +63,7 @@ Marketo REST API:er har nu stöd för kontroll över Marketo-landningssidor, lan
 
 ## [IP-Tillåtelselistning för API-åtkomst](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-På samma sätt som funktionen för IP-tillåtelselistning för Marketo-användarinloggningar kan Marketo-administratörer nu ställa in ett tillåtelselista med IP-adresser som kan komma åt Marketo SOAP- och REST-API:er, vilket blockerar åtkomst från icke-auktoriserade IP-adresser. Detta lägger till ett extra säkerhetsskikt till din Marketo-instans och ser till att API-åtkomst bara kan ske inifrån organisationens nätverk. Information om hur du konfigurerar detta finns på [Marketos dokumentationswebbplats](https://docs.marketo.com/display/public/DOCS/Create+a+Whitelist+for+IP-Based+API+Access).
+På samma sätt som funktionen för IP-tillåtelselistning för Marketo-användarinloggningar kan Marketo-administratörer nu ställa in ett tillåtelselista med IP-adresser som kan komma åt Marketo SOAP- och REST-API:er, vilket blockerar åtkomst från icke-auktoriserade IP-adresser. Detta lägger till ett extra säkerhetsskikt till din Marketo-instans och ser till att API-åtkomst bara kan ske inifrån organisationens nätverk. Information om hur du konfigurerar detta finns på webbplatsen [Marketo documentation](https://docs.marketo.com/display/public/DOCS/Create+a+Whitelist+for+IP-Based+API+Access).
 
 ## [Ny Microsoft Dynamics Sync Connector med hög hastighet](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
@@ -75,13 +75,13 @@ Bygg på Orion-arkitekturen - den nya höghastighetsanslutningen för dynamik ge
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
-**Fliken** Synkroniseringsfel:  Sök, sök och exportera leads (och andra objekt) som inte kunde synkroniseras med information som åtgärd, riktning, felkod och felmeddelande.
+**Fliken** Synkroniseringsfel: Sök, sök och exportera leads (och andra objekt) som inte kunde synkroniseras med information som åtgärd, riktning, felkod och felmeddelande.
 
 ![](assets/sync-errors.png)
 
 **Microsoft Dynamics 2016**: Connector är helt certifierad för Dynamics 2016 Online- och On-Local-versioner.
 
-**Plugin-uppdateringarna finns nu dokumenterade:** Se artikeln [om uppdatering av](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)plugin-program.
+**Plugin-uppdateringarna finns nu dokumenterade:** Se  [dokumentartikeln](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md) för plugin-uppdateringarna.
 
 ## [Eget instansnamn](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
 
