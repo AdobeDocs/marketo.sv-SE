@@ -17,11 +17,11 @@ E-postmeddelanden kan innehålla fyra olika element: RTF, bilder, kodfragment oc
 
 ## Så här redigerar du RTF-elementet {#how-to-edit-the-rich-text-element}
 
-1. Leta upp e-postmeddelandet, markera det och klicka på **Redigera utkast**.
+1. Leta reda på e-postmeddelandet, markera det och klicka på **Redigera utkast**.
 
    ![](assets/one-edited.png)
 
-1. E-postredigeraren öppnas. Markera RTF, klicka på kugghjulsikonen och välj **Redigera**.
+1. E-postredigeraren öppnas. Markera RTF-texten, klicka på kugghjulsikonen och välj **Redigera**.
 
    ![](assets/two.png)
 
@@ -44,7 +44,7 @@ E-postmeddelanden kan innehålla fyra olika element: RTF, bilder, kodfragment oc
    >
    >Undvik att kopiera och klistra in text från en rik textkälla, t.ex. en webbplats eller ett Word-dokument. Klistra i stället in RTF-text i en vanlig textredigerare, till exempel Anteckningar (Windows) eller TextEdit (Mac). När det är&quot;rent&quot; kan du sedan kopiera det från textredigeraren och klistra in det i e-postmeddelandet.
 
-## Redigera bildelementet {#how-to-edit-the-image-element}
+## Så här redigerar du bildelementet {#how-to-edit-the-image-element}
 
 1. Klicka i modulen med bildelementet för att markera det.
 
@@ -74,7 +74,7 @@ E-postmeddelanden kan innehålla fyra olika element: RTF, bilder, kodfragment oc
 
    **Den här datorn**
 
-   Klicka på **Bläddra** om du vill överföra en bild från datorn.
+   Om du vill överföra en bild från datorn klickar du på **Bläddra**.
 
    ![](assets/nine.png)
 
@@ -99,7 +99,7 @@ E-postmeddelanden kan innehålla fyra olika element: RTF, bilder, kodfragment oc
 
 Om du vill använda en extern URL klistrar du först in bildens URL. Ändra dimensionerna efter dina behov och lägg till Alt-text (valfritt). Tryck sedan på .               ...och infoga den. Ändra dimensionerna efter dina behov, ändra Alt-texten (valfritt) och tryck sedan på .
 
-## Redigera fragmentelementet {#how-to-edit-the-snippet-element}
+## Så här redigerar du fragmentelementet {#how-to-edit-the-snippet-element}
 
 1. Klicka i modulen med fragmentelementet.
 
@@ -109,7 +109,7 @@ Om du vill använda en extern URL klistrar du först in bildens URL. Ändra dime
 
    ![](assets/fifteen.png)
 
-1. Hitta fragmentet, markera det och klicka på **Spara**.
+1. Leta reda på fragmentet, markera det och klicka på **Spara**.
 
    ![](assets/sixteen.png)
 
