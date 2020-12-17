@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Redigera textversionen av ett e-postmeddelande {#edit-the-text-version-of-an-email}
+# Redigera textversionen för ett e-postmeddelande {#edit-the-text-version-of-an-email}
 
 När du skapar ett e-postmeddelande kanske du vill att textversionen ska skrivas på ett annat sätt än HTML-versionen. Marketo kopierar som standard automatiskt textinnehållet i textelement som finns i e-postmeddelandet till textversionen. Så här redigerar du det.
 
 >[!NOTE]
 >
->Det här är inte en artikel om att skapa ett e-postmeddelande med endast text. Mer information finns i [Skapa ett e-postmeddelande](create-a-text-only-email.md)med endast text.
+>Det här är inte en artikel om att skapa ett e-postmeddelande med endast text. Mer information finns i [Skapa ett e-postmeddelande med endast text](create-a-text-only-email.md).
 
 1. Klicka på fliken **Text** längst ned i e-postmeddelandet i e-postredigeraren.
 
