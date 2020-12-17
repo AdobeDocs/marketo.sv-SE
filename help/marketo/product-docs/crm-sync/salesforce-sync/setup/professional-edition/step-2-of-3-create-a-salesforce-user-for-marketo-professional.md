@@ -31,7 +31,7 @@ I den här artikeln ska du anpassa fältbehörigheter med en Salesforce-sidlayou
 
 Salesforce Professional anger tillgänglighet på fältnivå med sidlayouter, i motsats till Salesforce Enterprise/Unlimited&#39;s Profiles. Med de här stegen kan Marketto synkronisera användaren för att uppdatera anpassade fält.
 
-1. Skriv **sidlayouter** i navigeringsfältet utan att trycka på **Retur** och klicka sedan på **Sidlayout** under **Leads**.
+1. Skriv **sidlayouter** i navigeringsfältet utan att trycka på **Enter** och klicka på **Sidlayout** under **Leads**.
 
    ![](assets/image2016-2-26-12-3a58-3a32.png)
 
@@ -43,11 +43,11 @@ Salesforce Professional anger tillgänglighet på fältnivå med sidlayouter, i 
 
    ![](assets/image2014-12-9-12-3a56-3a40.png)
 
-1. Ange Marketo som **avsnittsnamn** och klicka på **OK**.
+1. Ange Marketo för **Avsnittsnamn** och klicka på **OK**.
 
    ![](assets/image2014-12-9-12-3a56-3a52.png)
 
-1. Klicka och dra fältet **Ackumuleringsdatum** till **Marketo** .
+1. Klicka och dra fältet **Anskaffningsdatum** till avsnittet **Marketo**.
 
    ![](assets/image2014-12-9-12-3a57-3a0.png)
 
@@ -82,11 +82,11 @@ Salesforce Professional anger tillgänglighet på fältnivå med sidlayouter, i 
 
    ![](assets/image2014-12-9-12-3a57-3a10.png)
 
-1. Upprepa alla ovanstående steg för Salesforce- **kontaktsidans layout**.
+1. Upprepa alla ovanstående steg för Salesforce **Kontaktsidlayout**.
 
    ![](assets/image2016-2-26-13-3a10-3a1.png)
 
-1. Kom ihåg att klicka på **Spara** när du är klar med **kontaktsidans layout**.
+1. Kom ihåg att klicka på **Spara** när du är klar med **Kontaktsidans layout**.
 
    ![](assets/image2014-12-9-12-3a57-3a30.png)
 
@@ -97,15 +97,15 @@ Salesforce Professional anger tillgänglighet på fältnivå med sidlayouter, i 
    >
    >Kontrollera att fältet **Heldagshändelse** har lagts till i **händelsesidlayouten**.
 
-## Skapa synkroniserad användare {#create-sync-user}
+## Skapa synkroniseringsanvändare {#create-sync-user}
 
 Marketo kräver inloggningsuppgifter för att få åtkomst till Salesforce. Detta görs bäst med en dedikerad användare som skapats med stegen nedan.
 
 >[!NOTE]
 >
->Om din organisation inte har några ytterligare Salesforce-licenser kan du använda en befintlig **Marketing-användare** med **systemadministratörsprofilen** .
+>Om din organisation inte har några ytterligare Salesforce-licenser kan du använda en befintlig **marknadsföringsanvändare** med profilen **Systemadministratör**.
 
-1. Ange&quot;användare&quot; i navigeringsfältet och klicka på **Användare** under **Hantera användare**.
+1. Ange &quot;användare&quot; i navigeringsfältet och klicka på **Användare** under **Hantera användare**.
 
    ![](assets/image2014-12-9-12-3a57-3a42.png)
 
@@ -113,7 +113,7 @@ Marketo kräver inloggningsuppgifter för att få åtkomst till Salesforce. Dett
 
    ![](assets/image2014-12-9-12-3a58-3a1.png)
 
-1. Fyll i de obligatoriska fälten och välj **Användarlicens: Salesforce**, ange **profil: Systemadministratör**, markera **Marknadsförare** och klicka på **Spara**.
+1. Fyll i de obligatoriska fälten och välj **Användarlicens: Salesforce**, ange **profilen: Systemadministratör**, kontrollera **Marknadsförare** och klicka på **Spara**.
 
    ![](assets/image2014-12-9-12-3a58-3a11.png)
 
