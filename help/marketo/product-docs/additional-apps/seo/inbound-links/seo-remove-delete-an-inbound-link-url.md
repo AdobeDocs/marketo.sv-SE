@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Ibland vill du ta bort inkommande länkar. Så här:
 
-1. Gå till avsnittet **Inkommande länkar** .
+1. Gå till avsnittet **Inkommande länkar**.
 
    ![](assets/image2014-9-18-13-3a47-3a3.png)
 
