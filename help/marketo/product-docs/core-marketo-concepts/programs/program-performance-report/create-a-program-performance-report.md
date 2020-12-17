@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Se bra statistik om dina program med den här rapporten.
 
-1. [Skapa en rapport i ett program](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj **rapporttypen** Program Performance [](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. Klicka på fliken **Rapport** .
+1. [Skapa en rapport i ett ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) program och välj typen  **Program** [PerformancePort](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. Klicka på fliken **Rapport**.
 1. Du är där! Utforska rapporten och se hur era program fungerar.
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
 
 >[!TIP]
 >
->Om du vill hitta program med den lägsta *kostnaden per lyckad*, [sorterar du rapporten](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) i den kolumnen och väljer **Sortera stigande**.
+>Om du vill söka efter program med den lägsta *kostnaden per lyckad*, till exempel [sorterar du rapporten](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) i den kolumnen och väljer **Sortera stigande**.
 
 Kolumnerna i en rapport om programprestanda omfattar:
 
