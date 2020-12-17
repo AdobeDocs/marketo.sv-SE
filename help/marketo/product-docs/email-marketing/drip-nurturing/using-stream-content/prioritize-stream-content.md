@@ -15,11 +15,11 @@ ht-degree: 0%
 
 När du har lagt till innehåll i strömmen kanske du vill ändra prioriteten. Innehållet levereras alltid uppifrån och ned i varje sändning och inget innehåll skickas till samma person två gånger.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/ma.png)
 
-1. Välj engagemangsprogrammet och klicka på fliken **Streams** .
+1. Välj ditt engagemangsprogram och klicka på fliken **Streams**.
 
    ![](assets/cloneasteam-1.jpg)
 
