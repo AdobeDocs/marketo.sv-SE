@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Konfigurera SPF och DKIM för e-postleveransen {#set-up-spf-and-dkim-for-your-email-deliverability}
+# Konfigurera SPF och DKIM för din e-postslutbarhet {#set-up-spf-and-dkim-for-your-email-deliverability}
 
-Ett snabbt sätt att förbättra e-postleveransen är att inkludera **SPF** (Sender Policy Framework) och **DKIM** (Domain Keys Identified Mail) i DNS-inställningarna. Med det här tillägget i dina DNS-poster talar du om för mottagarna att du har auktoriserat Marketatt att skicka e-post för din räkning. Utan den här ändringen har din e-postadress större chans att markeras som skräppost eftersom e-postadressen adresserades från din domän, men skickas från en IP-adress med en Marketo-domän.
+Ett snabbt sätt att förbättra e-postleveranshastigheten är att införliva **SPF** (Sender Policy Framework) och **DKIM** (Domain Keys Identified Mail) i dina DNS-inställningar. Med det här tillägget i dina DNS-poster talar du om för mottagarna att du har auktoriserat Marketatt att skicka e-post för din räkning. Utan den här ändringen har din e-postadress större chans att markeras som skräppost eftersom e-postadressen adresserades från din domän, men skickas från en IP-adress med en Marketo-domän.
 
 >[!CAUTION]
 >
@@ -24,7 +24,7 @@ Ett snabbt sätt att förbättra e-postleveransen är att inkludera **SPF** (Sen
 **Om du inte har någon SPF-post på din domän**
 
 Be nätverksadministratören lägga till följande rad i DNS-posterna. Ersätt [domän] med webbplatsens huvuddomän (t.ex. &quot;company.com&quot;) och [corpIP] med IP-adressen för företagets e-postserver (t.ex. &quot;255.255.255.255&quot;). Om du skickar e-post från flera domäner via Marketo bör du lägga till detta i varje domän (på en rad).
-[domän] IN TXT v=spf1 mx ip4:[corpIP] include:mktomail.com ~all\
+[] domainIN TXT v=spf1 mx ip4:[] corpIPinclude:mktomail.com ~all\
 Om du har en SPF-post på din domän
 
 Om du redan har en SPF-post i DNS-posten lägger du till följande i den:
