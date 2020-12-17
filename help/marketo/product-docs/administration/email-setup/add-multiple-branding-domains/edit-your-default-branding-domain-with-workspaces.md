@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Add**** **fungerar inte förrän du har redigerat den generiska domänen.** Det går inte att ta bort ******förrän du lägger till en andra domän.
+   >**Add****  **fungerar inte förrän du har redigerat den generiska domänen.** Det går inte att ta bort ******förrän du lägger till en andra domän.
    >
    >Du kan inte lägga till ytterligare en domän förrän du först redigerar den generiska domänen.
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 >
 >När du lägger till ytterligare profileringsdomäner kan du välja att göra den till din primära domän för en eller flera arbetsytor, och alla befintliga oskickade e-postmeddelanden anges till &quot;Standard&quot; och alla nya e-postmeddelanden blir standard till den primära domänen. Du kan åsidosätta detta per e-post.
 
-Nu kan du [lägga till ytterligare profildomäner](add-an-additional-branding-domain-with-workspaces.md) som du behöver för arbetsytorna.
+Nu kan du [lägga till ytterligare profileringsdomäner](add-an-additional-branding-domain-with-workspaces.md) som du behöver för arbetsytorna.
 
 >[!MORELIKETHIS]
 >
