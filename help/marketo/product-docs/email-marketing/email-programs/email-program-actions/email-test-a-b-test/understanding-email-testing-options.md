@@ -17,10 +17,10 @@ Testa era e-postmeddelanden för att förbättra deras engagemangspoäng. Det fi
 
 ## A/B-testning {#a-b-testing}
 
-Detta är för engångs-e-postmeddelanden med [e-postprogram](http://docs.marketo.com/display/docs/email+programs). Lägg till [A/B-testning](add-an-a-b-test.md) så får en liten grupp testet och resten får vinnaren.
+Detta är för engångs-e-postmeddelanden som använder [e-postprogram](http://docs.marketo.com/display/docs/email+programs). Lägg till [A/B-testning](add-an-a-b-test.md) så får en liten grupp testet och resten får vinnaren.
 
-## Mejlmästare/budbärare {#email-champion-challenger}
+## E-postkampanj/budbärare {#email-champion-challenger}
 
-För pågående e-postmeddelanden som används för att utlösa smarta kampanjer eller [engagemangsprogram](http://docs.marketo.com/display/docs/drip+nurturing)kan du lägga till testning av [e-postkampanjer/utmanare](http://docs.marketo.com/pages/viewpage.action?pageid=2359551) . Detta kommer att medföra variationer för en pågående procentandel av mottagarna.
+För pågående e-postmeddelanden som används för att utlösa smarta kampanjer eller [engagemangsprogram](http://docs.marketo.com/display/docs/drip+nurturing) kan du lägga till [e-postkampanj/utmanartestning](http://docs.marketo.com/pages/viewpage.action?pageid=2359551). Detta kommer att medföra variationer för en pågående procentandel av mottagarna.
 
 Glad testning!
