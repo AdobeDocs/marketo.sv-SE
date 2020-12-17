@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ta bort från lista {#remove-from-list}
+# Ta bort från listan {#remove-from-list}
 
 ## Översikt {#overview}
 
@@ -21,7 +21,7 @@ Eftersom du kan ** [Lägg till i lista](add-to-list.md)** behöver du också ett
 
 ## Användning {#usage}
 
-1. Sök efter och markera den **lista** som du vill ta bort personer från.
+1. Sök efter och välj den **lista** som du vill att personerna ska tas bort från.
 
    ![](assets/image2014-9-22-10-3a44-3a7.png)
 
