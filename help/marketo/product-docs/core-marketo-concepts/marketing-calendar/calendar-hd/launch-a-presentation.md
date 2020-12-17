@@ -32,7 +32,7 @@ När du har angett vyer och rotationsfrekvens för presentationen är det dags a
 
 >[!TIP]
 >
->Se till att du **förhandsgranskar en presentation** innan du startar den.
+>**Förhandsgranska en presentation** innan du startar programmet.
 
 1. Klicka på **Starta**.
 
