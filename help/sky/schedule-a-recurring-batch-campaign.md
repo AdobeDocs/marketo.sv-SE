@@ -22,11 +22,11 @@ I det här exemplet väljer vi en gång i veckan, tisdagar kl. 8.00.
 
    ![Bild ett](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-1.png)
 
-1. Gå till **[!UICONTROL Schedule]** fliken och klicka på **[!UICONTROL Set Recurrence]**.
+1. Gå till fliken **[!UICONTROL Schedule]** och klicka på **[!UICONTROL Set Recurrence]**.
 
    ![Bild två](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-2.png)
 
-1. Klicka på **[!UICONTROL Recurring]** listrutan och välj **[!UICONTROL Weekly]**.
+1. Klicka på listrutan **[!UICONTROL Recurring]** och välj **[!UICONTROL Weekly]**.
 
    ![Bild tre](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-3.png)
 
@@ -34,11 +34,11 @@ I det här exemplet väljer vi en gång i veckan, tisdagar kl. 8.00.
 
    ![Bild fyra](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-4.png)
 
-1. Ange **[!UICONTROL Repeat every]** till 1 och markera **[!UICONTROL Tuesday]**.
+1. Ange **[!UICONTROL Repeat every]** till 1 och välj **[!UICONTROL Tuesday]**.
 
    ![Bild fem](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-5.png)
 
-1. Klicka på kalenderikonen bredvid **[!UICONTROL Ending on]** och välj ett slutdatum. Klicka **[!UICONTROL Confirm]** när du är klar.
+1. Klicka på kalenderikonen bredvid **[!UICONTROL Ending on]** och välj ett slutdatum. Klicka på **[!UICONTROL Confirm]** när du är klar.
 
    ![Bild sex](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-6.png)
 
