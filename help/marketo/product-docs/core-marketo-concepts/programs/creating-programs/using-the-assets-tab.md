@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Resursytan är en visuell representation av ditt program. Du kan använda den för att lägga till lokala resurser och interagera med befintliga.
 
-## Lägga till resurser {#adding-assets}
+## Lägger till resurser {#adding-assets}
 
-Klicka på fliken **Resurser** i området **Marknadsföringsaktiviteter** . Välj något av resurserna nedan och lägg till dem i programmet.
+Klicka på fliken **Resurser** i området **Marknadsföringsaktiviteter**. Välj något av resurserna nedan och lägg till dem i programmet.
 
 ![](assets/programassets.png)
 
-## Hantera ditt program  {#manage-your-program}
+## Hantera ditt program {#manage-your-program}
 
 När det finns resurser i programmet visas de här.
 
