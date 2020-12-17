@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ändra lösenordsinställningarna {#change-your-password-security-settings}
+# Ändra säkerhetsinställningarna för lösenord {#change-your-password-security-settings}
 
 Kontrollera lösenordsprincipen för din prenumeration. Så här gör du.
 
@@ -27,7 +27,7 @@ Kontrollera lösenordsprincipen för din prenumeration. Så här gör du.
 
    ![](assets/passwordsettings-hand.png)
 
-1. Välj en **mall**. Om du vill ha avancerade alternativ klickar du på listrutan **Avancerat** .
+1. Välj en **mall**. Klicka på listrutan **Avancerat** för avancerade alternativ.
 
    >[!NOTE]
    >
@@ -40,9 +40,9 @@ Kontrollera lösenordsprincipen för din prenumeration. Så här gör du.
 
    >[!TIP]
    >
-   >I **Anpassad** markerar du rutorna för att ange vilka egenskaper du vill att användarna ska ha med när de skapar lösenord.
+   >I **Anpassad** markerar du rutorna för att ange vilka egenskaper du vill att användarna ska ta med när de skapar lösenord.
 
-1. Ange **förfallodatum**.** **Den här funktionen kräver automatiskt att användarna återställer sina lösenord efter en viss tid. Detta gäller även administratören.
+1. Ange **Förfallotid**.** **Den här funktionen kräver automatiskt att användarna återställer sina lösenord efter en viss tid. Detta gäller även administratören.
 
    >[!CAUTION]
    >
@@ -50,7 +50,7 @@ Kontrollera lösenordsprincipen för din prenumeration. Så här gör du.
 
    ![](assets/expiration.png)
 
-1. Ange tidsgräns för **inaktiv session**. Detta avgör hur länge en användare kan vara inaktiv innan han/hon måste logga in på Marketo igen.
+1. Ange **Timeout för inaktiv session**. Detta avgör hur länge en användare kan vara inaktiv innan han/hon måste logga in på Marketo igen.
 
    ![](assets/inactivesession.png)
 
