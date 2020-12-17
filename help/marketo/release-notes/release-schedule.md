@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Versionsschema {#release-schedule}
+# Frigör schema {#release-schedule}
 
 **Version**: Marketo använder ett kvartalsvis större lanseringsschema. När versionsinformationen är tillgänglig länkas den till tabellen nedan.
 
