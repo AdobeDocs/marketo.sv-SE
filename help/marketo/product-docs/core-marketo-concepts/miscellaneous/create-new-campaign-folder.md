@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Campaign-mappar hjälper dig att behålla en aktuell arbetsyta. Följ dessa enkla steg och du är på väg att automatisera magin.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Välj **Ny**.
+1. Välj **Nytt**.
 
    ![](assets/image2015-2-25-7-3a57-3a18.png)
 
@@ -43,7 +43,7 @@ Campaign-mappar hjälper dig att behålla en aktuell arbetsyta. Följ dessa enkl
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   Nu när du [skapar ett nytt program](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)visas kampanjmappen som ett alternativ.
+   När du [skapar ett nytt program](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) visas den här kampanjmappen som ett alternativ.
 
 >[!MORELIKETHIS]
 >
