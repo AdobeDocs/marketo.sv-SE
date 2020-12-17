@@ -19,13 +19,13 @@ Du kan hantera och visa dina medlemmar i dina program på fliken Medlemmar.
 >
 >**Djupdykning**
 >
-> Gå ett steg längre i [programmedlemskapet](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
+> Gör mer i [programmedlemskapet](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
 
 ## Sök efter en medlem {#search-for-a-member}
 
 Längst ned i avsnittet Medlemmar använder du sökfältet för att söka efter programmedlemmar efter namn, e-postadress, befattning eller företag.
 
-1. Klicka på fliken **Medlemmar** i programmet.
+1. Klicka på fliken **Medlemmar** i ditt program.
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
@@ -33,13 +33,13 @@ Längst ned i avsnittet Medlemmar använder du sökfältet för att söka efter 
 
    ![](assets/image2014-10-1-16-3a7-3a20.png)
 
-## Exportera stödrastret för medlemmar {#export-the-members-grid}
+## Exportera rutnätet för medlemmar {#export-the-members-grid}
 
 Du kan exportera din medlemslista genom att klicka på Excel-ikonen bredvid sökfältet.
 
 ![](assets/image2014-10-1-16-3a9-3a55.png)
 
-## Hantera kolumner i medlemsrutnätet {#manage-columns-in-the-members-grid}
+## Hantera kolumner i medlemsstödrastret {#manage-columns-in-the-members-grid}
 
 * Dra och släpp kolumner för att ändra deras ordning. De blå pilarna anger vart kolumnen ska placeras.
 
@@ -49,13 +49,13 @@ Du kan exportera din medlemslista genom att klicka på Excel-ikonen bredvid sök
 
    ![](assets/image2014-10-1-17-3a3-3a28.png)
 
-## Välj vilka kolumner som ska visas i rutnätet {#choose-which-columns-are-visible-in-the-grid}
+## Välj vilka kolumner som ska visas i stödrastret {#choose-which-columns-are-visible-in-the-grid}
 
 1. Klicka på listrutan **Visa **och välj **Skapa vy**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. Namnge din anpassade vy. Välj kolumnrubriker. Klicka på** Lägg till **och** ta bort **för att flytta kolumner och skapa en vy.
+1. Namnge din anpassade vy. Välj kolumnrubriker. Klicka** Lägg till **och** Ta bort **för att flytta kolumner och skapa en vy.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
@@ -63,13 +63,13 @@ Du kan exportera din medlemslista genom att klicka på Excel-ikonen bredvid sök
 
    ![](assets/image2014-10-1-16-3a38-3a7.png)
 
-## Filtrera medlemsstödrastret  {#filter-the-members-grid}
+## Filtrera medlemsstödrastret {#filter-the-members-grid}
 
 1. Klicka på listrutan **Filter** och välj ett förloppssteg att sortera efter.
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
-## Hantera personstatus i medlemsrutnätet {#manage-person-status-in-the-members-grid}
+## Hantera personstatus i medlemsstödrastret {#manage-person-status-in-the-members-grid}
 
 Du kan ändra status för dina personer inuti medlemsrutnätet.
 
