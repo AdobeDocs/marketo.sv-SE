@@ -16,10 +16,10 @@ ht-degree: 0%
 
 Så här ställer du in en Number-token som ska användas i dina program och kampanjmappar.
 
-1. Dra en [!UICONTROL My Tokens] Number **-token till arbetsytan på fliken** i programmet eller mappen [!UICONTROL Local Tokens] .
+1. Dra en **Number**-token till arbetsytan [!UICONTROL Local Tokens] på fliken [!UICONTROL My Tokens] i programmet eller mappen.
 
    ![Bild ett](/help/sky/assets/my-tokens/my-token-number/my-token-number-1.png)
 
-1. Ange ett namn och nummer för din nya token. Klicka **[!UICONTROL Save]**.
+1. Ange ett namn och nummer för din nya token. Klicka på **[!UICONTROL Save]**.
 
    ![Bild två](/help/sky/assets/my-tokens/my-token-number/my-token-number-2.png)
