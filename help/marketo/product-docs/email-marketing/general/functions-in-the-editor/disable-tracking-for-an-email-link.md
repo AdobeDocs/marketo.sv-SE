@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Inaktivera spårning för en e-postlänk {#disable-tracking-for-an-email-link}
 
-Ibland vill du inte aktivera **Marketo Tracking URL** för en länk i ett e-postmeddelande. Detta är användbart när målsidan inte stöder URL-parametrar och kan resultera i en bruten länk.
+Ibland vill du inte aktivera URL:en **Marketo Tracking** för en länk i ett e-postmeddelande. Detta är användbart när målsidan inte stöder URL-parametrar och kan resultera i en bruten länk.
 
-1. Markera e-postmeddelandet och klicka på **Redigera** **utkast**.
+1. Markera e-postmeddelandet och klicka på **Redigera** **Utkast**.
 
    ![](assets/one-7.png)
 
@@ -23,7 +23,7 @@ Ibland vill du inte aktivera **Marketo Tracking URL** för en länk i ett e-post
 
    ![](assets/two-6.png)
 
-1. Klicka på länken i fråga och klicka sedan på knappen **Infoga/redigera länk** .
+1. Klicka på länken i fråga och klicka sedan på knappen **Infoga/redigera länk**.
 
    ![](assets/three-6.png)
 
@@ -31,13 +31,13 @@ Ibland vill du inte aktivera **Marketo Tracking URL** för en länk i ett e-post
 
    ![](assets/four-4.png)
 
-1. Du kommer att märka att rutan **** Inkludera mkt_tok försvinner. Klicka på **Använd**.
+1. Du kommer att märka att rutan **Inkludera mkt_tok** försvinner. Klicka på **Använd**.
 
    ![](assets/five-3.png)
 
    >[!TIP]
    >
-   >Om du avmarkerar enbart **Include mkt_tok** kan länken fortfarande spåras, men efter omdirigeringen kommer mål-URL:en inte att innehålla frågesträngsparametern mkt_tok. Den här parametern används av Marketo Landing Pages och Munchkin för att säkerställa korrekt spårning av personaktiviteter (som när en person säger upp prenumerationen på ett e-postmeddelande). Du bör undvika att använda den här funktionen om du inte ser något konstigt beteende på webbplatsen på grund av att parametern finns.
+   >Om du bara avmarkerar **Include mkt_tok** kan länken fortfarande spåras, men efter omdirigeringen kommer mål-URL:en inte att innehålla frågesträngsparametern mkt_tok. Den här parametern används av Marketo Landing Pages och Munchkin för att säkerställa korrekt spårning av personaktiviteter (som när en person säger upp prenumerationen på ett e-postmeddelande). Du bör undvika att använda den här funktionen om du inte ser något konstigt beteende på webbplatsen på grund av att parametern finns.
 
 1. Klicka på **Spara**.
 
@@ -45,7 +45,7 @@ Ibland vill du inte aktivera **Marketo Tracking URL** för en länk i ett e-post
 
    >[!TIP]
    >
-   >Vill du inaktivera klickspårning för en länk i en e- **postmall**? Använd det här formatet:
+   >Vill du inaktivera klickspårning för en länk i ett e-postmeddelande **mall**? Använd det här formatet:
    >`<a class="mktNoTrack" href="http://www.mywebsite.com">This link does not have tracking</a>`\
    >Kontakta din webbutvecklare om du behöver hjälp med att implementera detta.
 
