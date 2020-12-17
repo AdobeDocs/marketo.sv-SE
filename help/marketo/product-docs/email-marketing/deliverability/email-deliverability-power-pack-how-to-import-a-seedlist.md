@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Power Pack för e-postleverans: Importera en lista {#email-deliverability-power-pack-how-to-import-a-seedlist}
+# Power Pack för e-postleverans: Importera en Seedlist {#email-deliverability-power-pack-how-to-import-a-seedlist}
 
 En startvärdeslista är en lista över e-postkonton hos flera postlådeproviders, bland annat Google Apps, Hotmail, Yahoo!, som används för att beräkna hur många inkorgar som kan levereras jämfört med skräppostmappar. Så här hämtar du listan till din Marketo-instans.
 
@@ -21,17 +21,17 @@ En startvärdeslista är en lista över e-postkonton hos flera postlådeprovider
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
-## Importera en utskickslista {#import-a-seedlist}
+## Importera en Seedlist {#import-a-seedlist}
 
 1. Gå till **Leveransverktyg**.
 
    ![](assets/one-1.png)
 
-1. Klicka på **Inkorgsinformation**.
+1. Klicka på **Inkorgsinfo**.
 
    ![](assets/two-1.png)
 
-1. Klicka på **Hämta lista**.
+1. Klicka på **Hämta Seedlist**.
 
    ![](assets/three-1.png)
 
@@ -53,7 +53,7 @@ En startvärdeslista är en lista över e-postkonton hos flera postlådeprovider
 
    >[!CAUTION]
    >
-   >Du får ett begränsat antal av dessa Inbox Informant-kampanjer per månad. Om du vill se hur många du får kan du titta i dina 250ok- **kontoinställningar**. Kontakta er säljare på Marketo om du vill ha mer information.
+   >Du får ett begränsat antal av dessa Inbox Informant-kampanjer per månad. Om du vill se hur många du får kan du titta i dina 250ok **Kontoinställningar**. Kontakta er säljare på Marketo om du vill ha mer information.
 
 ## Hämtar nya dirigeringslistor {#acquiring-new-seedlists}
 
