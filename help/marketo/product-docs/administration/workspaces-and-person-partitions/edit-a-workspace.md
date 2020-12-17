@@ -23,7 +23,7 @@ Ibland behöver du göra ändringar i en arbetsyta. Det är lätt.
 >
 >**Djupdykning**
 >
->Ta en titt på arbetsytorna med [Förstå arbetsytor och Personpartitioner](understanding-workspaces-and-person-partitions.md).
+>Ta en titt på arbetsytorna med [Förstå arbetsytor och personpartitioner](understanding-workspaces-and-person-partitions.md).
 
 1. Under **Admin** klickar du på **Arbetsytor och partitioner**.
 
