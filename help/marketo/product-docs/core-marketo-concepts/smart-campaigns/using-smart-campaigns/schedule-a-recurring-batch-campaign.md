@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Schemalägg en återkommande batchkampanj {#schedule-a-recurring-batch-campaign}
+# Schemalägg en återkommande gruppkampanj {#schedule-a-recurring-batch-campaign}
 
 Med Återkommande kan du köra en batchsmart kampanj enligt ett regelbundet schema. Exempel: en gång i veckan, måndagar klockan 12:00.
 
