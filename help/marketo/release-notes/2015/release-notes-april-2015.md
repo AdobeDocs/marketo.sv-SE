@@ -23,7 +23,7 @@ Följande funktioner ingår i aprilversionen 2015. Kontrollera om din Marketo Ed
 >
 >Den här funktionen kommer att släppas tisdagen den 28 april.
 
-Den nya [analysstartsidan](../../product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) ger snabb åtkomst för att köra ad hoc-rapporter över tillgängliga rapporttyper.   ![](assets/image2015-4-20-11-3a18-3a8.png)
+Den nya [startsidan för analyser](../../product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) ger snabb åtkomst för att köra ad hoc-rapporter över tillgängliga rapporttyper.   ![](assets/image2015-4-20-11-3a18-3a8.png)
 
 Dessutom finns nu både privat och delad rapportorganisation tillgänglig. Skapa eller dra rapporter till mappen Mina rapporter för att låsa dem så att de inte kan visas, redigeras eller tas bort av andra användare. Grupprapporter delas av alla användare.
 
@@ -31,7 +31,7 @@ Dessutom finns nu både privat och delad rapportorganisation tillgänglig. Skapa
 
 [Marketo Mobile Engagement](http://docs.marketo.com/display/docs/mobile+marketing)
 
-Med [Marketo Mobile Engagement](http://docs.marketo.com/display/docs/mobile+marketing)är det enkelt att leverera övertygande mobilupplevelser. Skapa personaliserade kampanjer som levererar övertygande innehåll utan att någonsin behöva förlita sig på ett apputvecklingsteam. Med nya filter och utlösare kan du lyssna och svara på mobilkanalen via push-meddelanden.
+Med [Marketo Mobile Engagement](http://docs.marketo.com/display/docs/mobile+marketing) är det enkelt att leverera övertygande mobilupplevelser. Skapa personaliserade kampanjer som levererar övertygande innehåll utan att någonsin behöva förlita sig på ett apputvecklingsteam. Med nya filter och utlösare kan du lyssna och svara på mobilkanalen via push-meddelanden.
 
 ![](assets/image2015-4-20-11-3a16-3a55.png)
 
@@ -51,8 +51,8 @@ Dina favoritfunktioner i Sales Insight - lead feed, best bets, intressanta stund
 
 ## RTP - kontobaserad marknadsanalys {#rtp-account-based-marketing-analytics}
 
-RTP - [kontobaserad marknadsanalys](http://docs.marketo.com/pages/viewpage.action?pageid=7511515)
+RTP - [Kontobaserad marknadsanalys](http://docs.marketo.com/pages/viewpage.action?pageid=7511515)
 
-Få direkt insyn i [prestanda för dina huvudlistor](http://docs.marketo.com/pages/viewpage.action?pageid=7511515) med namngivna konton baserat på varje fas i köpcykeln, med den nya prestandagrafen för dina listor med namngivna konton. I diagrammet visas hur långt besöket från nyckelorganisationen har kommit, från medvetenhet till handling, baserat på antalet besök och besökarens status.
+Få omedelbar synlighet av [prestandan för dina huvudlistor med namngivna konton](http://docs.marketo.com/pages/viewpage.action?pageid=7511515) baserat på varje fas i köpcykeln, med det nya prestandagrafen för listorna med namngivna konton. I diagrammet visas hur långt besöket från nyckelorganisationen har kommit, från medvetenhet till handling, baserat på antalet besök och besökarens status.
 
 ![](https://lh3.googleusercontent.com/ZipQutmNTRxkWdr_zzdatg31w7xmQ0xkniez-qf2X784MO-0AoHfKE0ltYSeaHU73KxyZc3s0Oklfig_v6bpN7tKnrrX6hHcMs44RFgtUb1qOf_Y5uhKedyHi6tQv3KhUHaCmIc)
