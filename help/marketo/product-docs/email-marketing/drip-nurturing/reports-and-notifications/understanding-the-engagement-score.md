@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Så här fungerar engagemanget {#understanding-the-engagement-score}
+# Förstå engagemangspoängen {#understanding-the-engagement-score}
 
-Det blir enkelt att se hur effektivt innehållet i engagemangsprogrammet är. Poängen varierar mellan 0 och 100. Gå [till Engagement Dashboard](the-engagement-dashboard.md) för att se hur du kan spåra innehållets prestanda.
+Det blir enkelt att se hur effektivt innehållet i engagemangsprogrammet är. Poängen varierar mellan 0 och 100. Ta en titt på [Enterprise Dashboard](the-engagement-dashboard.md) för att se hur du kan spåra innehållets prestanda.
 
 ![](assets/image2014-9-25-16-3a24-3a54.png)
 
@@ -23,7 +23,7 @@ Poängen baseras på en egen algoritm som tar hänsyn till engagerat beteende (O
 
 >[!NOTE]
 >
->När program används som innehåll i strömmar baseras poängen på programmedlemskap och framgångsstatus, **inte** på e-postinteraktion (klickningar, öppningar, prenumerationer).
+>När program används som innehåll i strömmar baseras poängen på programmedlemskap och framgångsstatus, **inte** e-postinteraktion (klickningar, öppnas, prenumererar inte).
 
 Engagemangsmoment är universella för alla kunder. Du kan jämföra dem för att se vem som har det mest engagerande innehållet.
 
