@@ -21,7 +21,7 @@ Sociala appar i Marketo har sina egna speciella triggers och filter.
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
-1. Om du vill använda sociala *utlösare* väljer du den smarta kampanjen och klickar på fliken **Smart lista** . Klicka på + till höger för att expandera **utlösare** och sedan på **Social**.
+1. Om du vill använda sociala *utlösare* väljer du den smarta kampanjen och klickar på fliken **Smart lista**. Till höger klickar du på + för att expandera **Utlösare** och sedan **Socialt**.
 
    ![](assets/image2015-4-23-11-22-39.png)
 
