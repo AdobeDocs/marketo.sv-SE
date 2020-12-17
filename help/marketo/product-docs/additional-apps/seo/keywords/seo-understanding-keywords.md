@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Nyckelord är ryggraden i er SEO-strategi. Målet är att vara på första sidan, så nära första sidan som möjligt för nyckelord som är relevanta för ditt företag.
 
-Nyckelordsavsnittet visar hur framgångsrik sajten är när det gäller att uppnå detta och hur ni anpassar er efter [konkurrenterna.](../../../../product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
+Nyckelordsavsnittet visar hur framgångsrik sajten är när det gäller att uppnå detta och hur du ställer dig upp till [din tävling.](../../../../product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
 
 ## Nyckelord - sammanfattningsvy {#keywords-summary-view}
 
@@ -35,7 +35,7 @@ Nyckelordsavsnittet visar hur framgångsrik sajten är när det gäller att uppn
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">Rankning och trend</td> 
-   <td colspan="1" rowspan="1"><p>Platsens rangordning för det här nyckelordet. Pilar visar hur din nyckelordsrankning går från föregående vecka </p><p><img alt="--" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">  = rankning uppåt</p><p><img alt="--" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--"> = rangordning nedåt</p><p> <img alt="--" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">= rangordna samma</p></td> 
+   <td colspan="1" rowspan="1"><p>Platsens rangordning för det här nyckelordet. Pilar visar hur din nyckelordsrankning går från föregående vecka </p><p><img alt="—" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—">  = rankning uppåt</p><p><img alt="—" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—"> = rangordning nedåt</p><p> <img alt="—" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—">= rangordna samma</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">Konkurrensnivå</td> 
