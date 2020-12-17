@@ -17,7 +17,7 @@ Med den globala övertäckningen i programschemavyn kan du se programmet i relat
 
 >[!PREREQUISITES]
 >
->Du måste ha en licens [för en](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) marknadsföringskalender för att kunna använda den här funktionen.
+>Du måste ha en [licens för marknadsföringskalendern](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) för att kunna använda den här funktionen.
 
 ## Använd den globala övertäckningen {#use-the-global-overlay}
 
@@ -25,7 +25,7 @@ Med den globala övertäckningen i programschemavyn kan du se programmet i relat
 
    ![](assets/image2014-9-24-10-16-4.png)
 
-1. Markera **Övertäckning** i det nedre högra hörnet.
+1. Välj **Övertäckning** i det nedre högra hörnet.
 
    ![](assets/image2014-9-24-10-3a16-3a9.png)
 
@@ -39,7 +39,7 @@ Med den globala övertäckningen i programschemavyn kan du se programmet i relat
 
 ## Använd ett sparat filter som övertäckning {#use-a-saved-filter-as-an-overlay}
 
-Om du har [sparat ett filter i marknadsföringskalendern](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)kan du använda det som en övertäckning i programschemavyn.
+Om du har [sparat ett filter i marknadsföringskalendern](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md) kan du använda det som en övertäckning i programschemavyn.
 
 1. Klicka på listrutan **Övertäckning** och välj filterdefinitionen.
 
