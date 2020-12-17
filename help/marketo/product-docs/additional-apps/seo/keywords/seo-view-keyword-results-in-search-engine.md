@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Om du vill se hur innehållet ser ut i en sökmotor har vi lagt till en liten genväg.
 
-1. Gå till avsnittet **Nyckelord** .
+1. Gå till avsnittet **Nyckelord**.
 
    ![](assets/image2014-9-18-13-3a33-3a58.png)
 
-1. Hovra över ett nyckelord. Klicka på **Visa resultat**.
+1. Hovra över ett nyckelord. Klicka på **visa resultat**.
 
    ![](assets/image2014-9-18-13-3a34-3a2.png)
 
