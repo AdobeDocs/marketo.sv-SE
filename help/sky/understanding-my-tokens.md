@@ -21,7 +21,7 @@ Mina token är anpassade variabler som du kan skapa och använda i program- och 
 * `{{my.Event Date}}`
 * `{{my.Webinar Speaker}}`
 
-Om du vill komma åt och skapa Mina token väljer du program- eller kampanjmappen och går till [!UICONTROL My Tokens] -fliken. Dra och släpp en token på din [!UICONTROL Local Tokens] arbetsyta.
+Om du vill komma åt och skapa Mina token väljer du program- eller kampanjmappen och går till fliken [!UICONTROL My Tokens]. Dra och släpp en token på din [!UICONTROL Local Tokens] arbetsyta.
 
 ![Bild ett](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-1.png)
 
@@ -43,9 +43,9 @@ När du skapar en ny token kan andra objekt i trädet referera till den. Du kan 
 
 * **Lokal token:** Token skapades direkt i programmet eller mappen.
 * **[Åsidosatt token:](/help/sky/override-an-inherited-my-token.md)** Token ärvdes, men ett undantag gjordes i programmet eller mappen.
-* **Ärvd token:** Token skapades någonstans i ett program eller en mapp på en högre nivå.
+* **Ärvd token:** Token skapades upp trädet någonstans i ett program eller en mapp på en högre nivå.
 
-Du hittar dessa tre typer under fliken **[!UICONTROL My Tokens]** i program- eller kampanjmappen.
+Du hittar dessa tre typer på fliken **[!UICONTROL My Tokens]** i program- eller kampanjmappen.
 
 ![Bild två](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-2.png)
 
