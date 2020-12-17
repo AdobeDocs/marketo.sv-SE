@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Förstå anpassade objekt i Marketo {#understanding-marketo-custom-objects}
+# Om Marketo-anpassade objekt {#understanding-marketo-custom-objects}
 
 Använd anpassade objekt för att spåra mätvärden som är specifika för din verksamhet.
 
@@ -43,9 +43,9 @@ Många-till-många anpassade objekt använder två länkfält, som ingår i ett 
 >
 >Du kan inte återställa anpassade objekt, så kontrollera att du inte behöver dem längre innan du tar bort dem.
 
-## Åtkomst till anpassade objekt i Marketo {#accessing-marketo-custom-objects}
+## Åtkomst till anpassade Marketo-objekt {#accessing-marketo-custom-objects}
 
-1. Om du vill skapa eller redigera markering för anpassade objekt klickar du på **Admin **och sedan på länken **Marketo-anpassade** objekt.
+1. Om du vill skapa eller redigera markering för anpassade objekt klickar du på länken **Admin **och sedan på länken **Marketo Custom Object** s.
 
    ![](assets/image2016-5-18-16-3a59-3a30.png)
 
@@ -67,11 +67,11 @@ Många-till-många anpassade objekt använder två länkfält, som ingår i ett 
 
 När du har skapat den anpassade objektstrukturen kopplas de anpassade objekten automatiskt till personer i databasen med hjälp av länkfältet i det anpassade objektet när du överför specifika anpassade objektdata. Du kan visa information på fliken Egna objekt på sidan med personinformation.
 
-1. Gå till **databas**.
+1. Gå till **Database**.
 
    ![](assets/db.png)
 
-1. Öppna databasen och klicka på fliken **Personer** . Dubbelklicka på posten för en person som är kopplad till ett anpassat objekt.
+1. Öppna databasen och klicka på fliken **Personer**. Dubbelklicka på posten för en person som är kopplad till ett anpassat objekt.
 
    ![](assets/five.png)
 
@@ -91,7 +91,7 @@ Om du har flera personer i Marketo som är poster i CRM- eller Marketo-posterna,
 
 Anpassade objekt kan bara länka direkt till en enskild post. Det innebär att när din anpassade objekttyp är länkad efter företagsfält bör du se till att dina personposter är kopplade till ett företag antingen med hjälp av kontaktkonvertering i CRM eller med hjälp av fältet externalCompanyId om du hanterar företag med hjälp av Marketos REST API:er. För personposter som inte är uttryckligen länkade till företagsposter, kommer anpassade objekt som är länkade med hjälp av företag att slumpmässigt länkas till en enda post, även om värdet i företagsfältet delas av många personer.
 
-Mer information finns i [Importera anpassade objektdata](import-custom-object-data.md) .
+Mer information finns i [Importera anpassade objektdata](import-custom-object-data.md).
 
 >[!MORELIKETHIS]
 >
