@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Versionsinformation: September 2013 {#release-notes-september}
 
-Följande funktioner ingår i versionen från september. Kontrollera om det finns funktioner i din [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) .
+Följande funktioner ingår i versionen från september. Kontrollera din [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) för att se om det finns funktioner.
 
-Efter releasen ska du kontrollera fliken [Ny release](release-notes-december-2013.md) i communityn för detaljerade kunskapsbasartiklar för varje funktion!
+Efter releasen ska du kontrollera fliken [New Release](release-notes-december-2013.md) i communityn för detaljerade kunskapsbasartiklar för varje funktion!
 
 ## Kortare URL:er {#shorter-urls}
 
@@ -29,11 +29,11 @@ Använd data från Marketför anpassade objekt eller lägg till villkorsstyrd lo
 
 ![](assets/image2014-9-22-17-3a10-3a56.png)
 
-## Ändra Skicka test till Skicka exempel {#change-send-test-to-send-sample}
+## Ändra Skicka test till Skicka prov {#change-send-test-to-send-sample}
 
 Vi har bytt namn på åtgärden Skicka test till Skicka exempel
 
-## Personaliserat e-postexempel {#personalized-send-sample-email}
+## Personaliserat e-postprov för Skicka {#personalized-send-sample-email}
 
 När du skickar ett e-postexempel kan du välja namnet på ett lead för att anpassa exempelmeddelandet.
 
@@ -49,17 +49,17 @@ Du kan synkronisera företagsnamn och befattning från Marketto-formuläret till
 
 Konfigurera prenumerationer så att endast Marketo-användare kan logga in via enkel inloggning och inte via den vanliga inloggningsskärmen
 
-## Virussökning av överförda filer {#virus-scan-of-uploaded-files}
+## Virusgenomsökning av överförda filer {#virus-scan-of-uploaded-files}
 
 Filer som överförs till Design Studio skannas nu automatiskt och blockeras om filerna innehåller virus
 
-## Analys av påverkan på affärsmöjlighet vid export {#export-opportunity-influence-analyzer}
+## Analysera påverkan på affärsmöjlighet för export {#export-opportunity-influence-analyzer}
 
 Du kan nu exportera data i säljprojektsanalysen till Excel. Varje exporterad Excel-fil innehåller alla marknadsföringsinteraktioner för alla leads (inklusive de som inte har någon roll i affärsmöjligheten) samt alla affärsmöjligheter under det valda kontot i analyseraren. Affärstillfällesraderna markeras med grönt. Du kan använda Excel:s inbyggda datafiltreringsfunktioner om du behöver fokusera på specifika leads eller marknadsföringsaktiviteter.
 
 ![](assets/image2014-9-22-17-3a12-3a23.png)
 
-## Programattribueringsinställningar {#program-attribution-settings}
+## Programattributsinställningar {#program-attribution-settings}
 
 Ni kan ändra det sätt Marketo knyter kontakter och möjligheter till första och multitouch-attribueringsstatistik, inklusive möjligheten att göra kontobaserad attribuering. De här inställningarna påverkar attribueringsvärden i Intresseutforskarrapporter under området för analys av affärsmöjlighet och säljprojektsanalysen. Detta påverkar också attribueringsvärdena i Program Analyzer.
 
@@ -75,6 +75,6 @@ Ladda ned den senaste versionen av Marketo Lead Management och Marketo Sales Ins
 
 ![](assets/image2014-9-22-17-3a13-3a12.png)
 
-## Cobalt-användargränssnitt {#cobalt-user-interface}
+## Kobolt användargränssnitt {#cobalt-user-interface}
 
 Under de närmaste månaderna har ett nytt tema introducerats i olika delar av programmet. Den här månaden kan du märka fler blå modala fönster.
