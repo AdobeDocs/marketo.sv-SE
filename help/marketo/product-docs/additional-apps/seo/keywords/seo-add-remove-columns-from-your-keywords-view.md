@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Du kan justera nyckelordsvyn så att de data som du är mest intresserad av visas.
 
-1. Gå till avsnittet **Nyckelord** .
+1. Gå till avsnittet **Nyckelord**.
 
    ![](assets/image2014-9-18-13-3a37-3a31.png)
 
