@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Program är ett av de viktigaste elementen i Marketo. Du kommer att använda dem mycket!
 
-1. Gå till **marknadsföringsaktiviteter.**
+1. Gå till **Marknadsföringsaktiviteter.**
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,7 +23,7 @@ Program är ett av de viktigaste elementen i Marketo. Du kommer att använda dem
 
    ![](assets/leadlifecycle.jpg)
 
-1. Ange ett **namn*****,** Välj en **- [kanal](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)** i listrutan och klicka på **Skapa.**
+1. Ange ett **namn*****,** Välj en ** [kanal](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)** i listrutan och klicka på **Skapa.**
 
    ![](assets/image2015-2-5-16-3a33-3a23.png)
 
