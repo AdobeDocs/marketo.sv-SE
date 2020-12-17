@@ -15,11 +15,11 @@ ht-degree: 0%
 
 När man tar bort allt innehåll i en ström kan Marketo skicka ett meddelande. Du kan inaktivera/aktivera meddelanden baserat på dina behov. Så här gör du.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Välj ett engagemangsprogram och klicka på fliken **Inställningar** .
+1. Välj ett engagemangsprogram och klicka på fliken **Inställningar**.
 
    ![](assets/setuptab.jpg)
 
@@ -27,7 +27,7 @@ När man tar bort allt innehåll i en ström kan Marketo skicka ett meddelande. 
 
    ![](assets/image2014-9-15-17-3a28-3a11.png)
 
-1. Välj **Av ** (eller **På**) och klicka på **Spara**.
+1. Välj **Av **(eller **På**) och klicka på **Spara**.
 
    ![](assets/image2014-9-15-17-3a28-3a15.png)
 
