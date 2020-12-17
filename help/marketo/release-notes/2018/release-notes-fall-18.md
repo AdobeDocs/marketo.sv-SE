@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Versionsinformation: Hösten &#39;18 {#release-notes-fall}
+# Versionsinformation: Hög &#39;18 {#release-notes-fall}
 
 Följande funktioner finns i höstutgåvan 18. Se om din Marketo-utgåva har funktioner tillgängliga.
 
@@ -38,7 +38,7 @@ Webbpersonalisering har nu stöd för flera arbetsytor.
 
 ## Marketo Sky {#marketo-sky}
 
-Mer information och uppdateringar finns i vår [Sky-versionsinformation](https://help.marketo.com).
+Mer information och uppdateringar finns i [Sky Release Notes](https://help.marketo.com).
 
 * **Systemuppdateringar**
 
