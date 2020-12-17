@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Exportera smarta kampanjresultat till Excel {#export-smart-campaign-results-to-excel}
+# Exportera resultat för smarta kampanjer till Excel {#export-smart-campaign-results-to-excel}
 
 Exportera smarta kampanjresultat till Excel för användning utanför Marketo.
 
