@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Använda periodkostnader i ett program {#using-period-costs-in-a-program}
 
-En [periodkostnad](understanding-period-costs.md) är det belopp du spenderar på ett program. Den kan vara i en eller flera månader och används för att rapportera ROI.
+En [periodkostnad](understanding-period-costs.md) är den summa du spenderar på ett program. Den kan vara i en eller flera månader och används för att rapportera ROI.
 
 >[!NOTE]
 >
 >**Djupdykning**
 >
-> Läs mer om [Revenue Cycle Analytics](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+> Läs mer om [Intäktscykelanalys](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
-## Lägg till en periodkostnad  {#add-a-period-cost}
+## Lägg till en periodkostnad {#add-a-period-cost}
 
 1. Gå till fliken **Inställningar** i programmet.
 
