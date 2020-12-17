@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Skapa ett inlägg i programschemavy {#creating-an-entry-in-the-program-schedule-view}
+# Skapa en post i programschemavy {#creating-an-entry-in-the-program-schedule-view}
 
 Du kan skapa poster i programschemavyn för att komplettera ett befintligt program.
 
 ## Skapa en grundläggande post {#create-a-basic-entry}
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Välj program. Klicka på listrutan **Visa** . Välj **Schema**.
+1. Välj program. Klicka på listrutan **Visa**. Välj **Schema**.
 
    ![](assets/image2014-9-16-9-3a22-3a7.png)
 
@@ -41,7 +41,7 @@ Du kan skapa poster i programschemavyn för att komplettera ett befintligt progr
 
    ![](assets/image2014-9-16-9-3a25-3a23.png)
 
-1. Ange en beskrivning och klicka på **Spara**.
+1. Ange din beskrivning och klicka på **Spara**.
 
    ![](assets/image2014-9-16-9-3a25-3a39.png)
 
@@ -51,11 +51,11 @@ Du kan skapa poster i programschemavyn för att komplettera ett befintligt progr
 
 ## Ändra posttyp {#change-entry-type}
 
-1. Välj en grundläggande post i **dagordningsvyn** .
+1. Välj en grundläggande post i vyn **Dagordning**.
 
    ![](assets/image2014-9-16-9-3a26-3a5.png)
 
-1. Välj listrutan **Typ** . Välj en ny posttyp.
+1. Välj listrutan **Typ**. Välj en ny posttyp.
 
    >[!NOTE]
    >
@@ -69,5 +69,5 @@ Du kan skapa poster i programschemavyn för att komplettera ett befintligt progr
 
 >[!NOTE]
 >
-> Du kan också skapa en [smart kampanj](creating-a-batch-smart-campaign-in-the-program-schedule-view.md) eller ett [e-postprogram](creating-a-new-email-program-in-the-schedule-view.md) från schemavyn.
+> Du kan också skapa ett [smart kampanj](creating-a-batch-smart-campaign-in-the-program-schedule-view.md) eller [e-postprogram](creating-a-new-email-program-in-the-schedule-view.md) från schemavyn.
 
