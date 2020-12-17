@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Lägg till en e-postskripttoken i din e-post {#add-an-email-script-token-to-your-email}
 
-När du har [skapat e-postskriptet vill](create-an-email-script-token.md)du lägga till det i ett e-postmeddelande för att se hur det fungerar. Så här gör du.
+När du har [skapat e-postskriptet](create-an-email-script-token.md)vill du lägga till det i ett e-postmeddelande för att se hur det fungerar. Så här gör du.
 
 >[!NOTE]
 >
