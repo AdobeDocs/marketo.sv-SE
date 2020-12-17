@@ -23,7 +23,7 @@ Programstatus hjälper dig att hålla reda på hur människor utvecklas genom et
 
 ## Användning {#usage}
 
-1. Dra i **flödessteget Ändra** programstatus.
+1. Dra i flödessteget **Ändra programstatus**.
 
    ![](assets/image2014-9-22-14-3a43-3a34.png)
 
