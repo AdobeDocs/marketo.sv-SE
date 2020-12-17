@@ -31,7 +31,7 @@ Testa hela e-postmeddelanden mot varandra. När testet är klart skickar du ut d
    >
    >Kom ihåg: Det ursprungliga e-postmeddelandet är segraren. Utmanarna tävlar mot det.
 
-1. Leta reda på och välj e-postadressen/e-postmeddelandena **för** resenärer och klicka sedan på **Klona**.
+1. Sök efter och välj **Challenger**-e-postadresserna och klicka sedan på **Klona**.
 
    ![](assets/image2015-8-10-11-3a46-3a28.png)
 
