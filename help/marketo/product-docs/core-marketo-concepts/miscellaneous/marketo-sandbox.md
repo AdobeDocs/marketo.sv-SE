@@ -21,14 +21,14 @@ En Marketo-sandlåda är ytterligare en instans som används för testning innan
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din Customer Success Manager för mer information.
 
-En Marketo-sandlåda kan inte synkroniseras med din vanliga CRM om den redan har synkroniserats med din produktionsinstans. Använd din CRM-sandlåda för synkroniseringen och följ [samma steg](http://docs.marketo.com/display/DOCS/CRM+Sync) som den ursprungliga synkroniseringen.
+En Marketo-sandlåda kan inte synkroniseras med din vanliga CRM om den redan har synkroniserats med din produktionsinstans. Använd CRM-sandlådan för synkroniseringen och följ [alla samma steg](http://docs.marketo.com/display/DOCS/CRM+Sync) som den ursprungliga synkroniseringen.
 
 ## Saker att känna till om sandlådor {#things-to-know-about-sandboxes}
 
 * När din Customer Success Manager har konfigurerat din sandlåda och skickar inbjudan måste du använda en annan e-postadress för att logga in än din Marketo-produktionsinstans.
-* Om du vill lägga till användare är processen densamma som att [lägga till användare i produktionen](http://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers). Även här måste de använda en annan e-postadress om de redan har en Marketo-inloggning.
+* Om du vill lägga till användare är processen densamma som att [lägga till användare i produktion](http://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers). Även här måste de använda en annan e-postadress om de redan har en Marketo-inloggning.
 * Din Marketo-sandlåda börjar bli tom, men har samma funktioner som din produktionsinstans.
-* Du kan skicka ett supportärende och begära en engångsinstanskopia för att fylla i din sandlåda. Instanskopian tar dock inte med *allt*. Mer information finns i Marketo Support.
+* Du kan skicka ett supportärende och begära en engångsinstanskopia för att fylla i din sandlåda. Instanskopian tar dock inte över *allt*. Mer information finns i Marketo Support.
 * Om du skapar ett program i sandlådan och vill flytta det till produktion kan du utföra en [programimport](http://docs.marketo.com/display/DOCS/Import+a+Program).
 * Sandlådor stryps så att produktionsinstanser inte påverkas negativt av testmiljöer. Du kan skicka upp till 30 e-postmeddelanden per kampanjkörning.
 
