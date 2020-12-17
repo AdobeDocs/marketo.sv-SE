@@ -15,7 +15,7 @@ ht-degree: 7%
 
 När du först synkroniserar med Microsoft Dynamics hämtar du den senaste versionen av plugin-programmen för Marketo. Marketo uppdaterar dessa plugin-program regelbundet så att du kan gå tillbaka till samma ställe och ladda ned den nya versionen.
 
-[Hämta den senaste plugin](sync-setup/download-the-marketo-lead-management-solution.md) som motsvarar din Dynamics-release.
+[Hämta den senaste ](sync-setup/download-the-marketo-lead-management-solution.md) pluginmodulen som motsvarar din Dynamics-release.
 
 ![](assets/lead-management-solution.png)
 
