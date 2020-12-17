@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Importera en lista med personer {#import-a-list-of-people}
 
-## Uppdrag: Importera en kalkylbladslista med deltagande i affärsprogram till databasen {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
+## Uppdrag: Importera en kalkylbladslista med deltagande i affärsprogram till din databas {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
 
 >[!PREREQUISITES]
 >
@@ -29,7 +29,7 @@ I den här självstudiekursen får du lära dig att importera personer från en 
 
    >[!NOTE]
    >
-   >Använd följande format när du importerar ett datum: **200** -09-21 (månad/dag/år).
+   >Använd följande format när du importerar ett datum: **9/21/20** (månad/dag/år).
 
    >[!NOTE]
    >
@@ -45,29 +45,29 @@ I den här självstudiekursen får du lära dig att importera personer från en 
 
 ## Steg 2: Skapa ett program {#step-create-a-program}
 
-1. Gå till området **Marknadsföringsaktiviteter** .
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/ma-2.png)
 
-1. Välj din **utbildningsmapp** och klicka sedan på **Nytt program** under **Nytt**.
+1. Välj mappen **Learning** och klicka sedan på **Nytt program** under **Nytt**.
 
    ![](assets/image2014-9-24-12-3a21-3a13.png)
 
-1. **Ge** programmet namnet&quot;My Tradeshow Program&quot; och välj&quot;Event&quot; som **programtyp**.
+1. **Ge** programmet namnet&quot;My Tradeshow Program&quot; och välj&quot;Event&quot; som  **programtyp**.
 
    ![](assets/image2014-9-24-12-3a21-3a25.png)
 
-1. Välj **VARUMÄRKE** för **kanalen** och klicka på **Skapa**.
+1. Välj **Tradeshow** för **Channel** och klicka på **Create**.
 
    ![](assets/image2014-9-24-12-3a21-3a39.png)
 
 >[!NOTE]
 >
->Händelseprogram inträffar vid specifika datum. Läs mer om [**evenemang**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md).
+>Händelseprogram inträffar vid specifika datum. Läs mer om [**Händelser**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md).
 
 ## Steg 3: Importera ditt kalkylblad till Marketo {#step-import-your-spreadsheet-into-marketo}
 
-1. Klicka på **Nytt** i **Mitt program** för varumärkesprofilering och välj **Ny lokal resurs**.
+1. I **My Tradeshow Program** klickar du på **Nytt** och väljer **Ny lokal resurs**.
 
    ![](assets/seven-3.png)
 
@@ -75,11 +75,11 @@ I den här självstudiekursen får du lära dig att importera personer från en 
 
    ![](assets/image2014-9-24-12-3a22-3a56.png)
 
-1. **Namnge** listan&quot;Varumärkesdeltagare&quot; och klicka på **Skapa**.
+1. **Ge** listan namnet&quot;Deltagare i mässa&quot; och klicka på  **Skapa**.
 
    ![](assets/image2014-9-24-12-3a23-3a9.png)
 
-1. Klicka på **Visa åtgärder** i listan **Deltagare** i ditt varumärke och välj **Importera lista**.
+1. Klicka på **Visa åtgärder** och välj **Importera lista** i listan **Deltagare**.
 
    ![](assets/ten-2.png)
 
@@ -91,13 +91,13 @@ I den här självstudiekursen får du lära dig att importera personer från en 
    >
    >Storleksgränsen för CSV-filer är 100 MB.
 
-1. **Bläddra** till **kalkylbladsfilen tradeshow-Attendees.csv** på datorn och klicka på **Nästa**.
+1. **Bläddra** till  **filen tradeshow-Attendees.** csvkalkylblad på datorn och klicka på  **Nästa**.
 
    ![](assets/eleven-2.png)
 
    >[!NOTE]
    >
-   >Om du väljer **Hoppa över nya personer och uppdateringar** i läget Listimport påverkas inte befintliga personposter och du loggar inga aktiviteter. Använd det här läget om du vill ha en snabb, förfiltrerad statisk lista över befintliga personer som kan användas i dina marknadsföringsaktiviteter. Om du väljer det här läget:
+   >Om du väljer **Hoppa över nya personer och uppdateringar** i listimportläget påverkas inte befintliga personposter och du loggar inga aktiviteter. Använd det här läget om du vill ha en snabb, förfiltrerad statisk lista över befintliga personer som kan användas i dina marknadsföringsaktiviteter. Om du väljer det här läget:
    >
    > * Hoppa över skapande av ny person
    > * Hoppa över uppdateringar av personfält
@@ -114,9 +114,9 @@ I den här självstudiekursen får du lära dig att importera personer från en 
 
    >[!NOTE]
    >
-   >Om det finns fält som du inte vill importera väljer du **Ignorera** i listrutan Marketinfält.
+   >Om det finns fält som du inte vill importera väljer du **Ignorera** i listrutan Marketfält.
 
-1. Välj **Mitt** utbildningsprogram för **förvärvsprogrammet** och klicka sedan på **Importera**.
+1. Välj **My Tradeshow Program** för **förvärvsprogrammet** och klicka sedan på **Importera**.
 
    ![](assets/image2014-9-24-12-3a25-3a1.png)
 
@@ -124,7 +124,7 @@ I den här självstudiekursen får du lära dig att importera personer från en 
 
    ![](assets/image2014-9-24-12-3a25-3a13.png)
 
-1. Gå tillbaka till **My Tradeshow Program** och klicka på fliken **Members** . Du kommer att se alla de personer du just importerat.
+1. Gå tillbaka i **Mitt utbildningsprogram** och klicka på fliken **Medlemmar**. Du kommer att se alla de personer du just importerat.
 
    ![](assets/fifteen-1.png)
 
@@ -132,7 +132,7 @@ I den här självstudiekursen får du lära dig att importera personer från en 
 >
 >Du kan analysera hur ditt program fungerar genom att spåra programmedlemskap. Läs mer om [**Program**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
 
-## Uppdraget är slutfört {#mission-complete}
+## Uppdraget är klart {#mission-complete}
 
 Nu är deltagarna i ditt varumärke medlemmar i ditt Marketo-program!
 
