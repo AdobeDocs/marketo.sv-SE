@@ -25,13 +25,13 @@ När enkel inloggning är aktiverad kan IdP validera användarens inloggningsupp
 
 >[!NOTE]
 >
->Är du en Microsoft Azure-användare? Kolla in deras [integreringsjälvstudiekurs](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/).
+>Är du en Microsoft Azure-användare? Ta en titt på deras [självstudiekurs om integrering](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/).
 
-## Skicka förfrågan {#how-to-send-the-request}
+## Skicka begäran {#how-to-send-the-request}
 
 * Skicka SSO-begäran, som är ett SAML-svar, till `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
 * Som SP:s målgrupps-URL. Använd [http://saml.marketo.com/sp](http://saml.marketo.com/sp)
-* Om du använder attributet SPNameQualifier anger du [http://saml.marketo.com/sp för elementet NameID för Subject](http://saml.marketo.com/sp)
+* Om du använder SPNameQualifier-attributet anger du [http://saml.marketo.com/sp](http://saml.marketo.com/sp) för NameID-elementet för Subject
 * Om du federerar flera Marketo-prenumerationer till samma SSO-leverantör kan du använda unika SP-URL:er för varje Marketo-underordnad med formatet `http://saml.marketo.com/sp/<munchkin_id>`
 
 >[!NOTE]
@@ -40,10 +40,10 @@ När enkel inloggning är aktiverad kan IdP validera användarens inloggningsupp
 
 ## Ytterligare information {#additional-notes}
 
-* **Synkroniseringstid** - För en ny användare uppstår cirka 10 minuters fördröjning innan en första enkel inloggningsbegäran behandlas.
-* **Användaretablering** - Användare etableras manuellt av Marketo.
-* **Autentisering** - Användarbehörigheter behålls i Marketo.
-* **OAuth-stöd** - Marketo stöder för närvarande inte OAuth.
+* **Synkroniseringstid**  - För en ny användare sker cirka 10 minuters fördröjning innan en första enkel inloggningsbegäran behandlas.
+* **Användaretablering**  - Användare etableras manuellt av Marketo.
+* **Behörighet**  - Användarbehörigheter finns i Marketo.
+* **Stöd**  för OAuth - Marketo stöder för närvarande inte OAuth.
 
 >[!NOTE]
 >
@@ -59,21 +59,21 @@ SSO är inaktiverat som standard. Följ de här stegen för att aktivera SAML oc
 
    >[!NOTE]
    >
-   >Om du inte ser **enkel inloggning** under **Admin** kontaktar du [`[email protected]`](http://mailto:support@marketo.com).
+   >Om du inte ser **enkel inloggning** under **Admin**, kontaktar du [`[email protected]`](http://mailto:support@marketo.com).
 
-1. Klicka på **Redigera** under avsnittet **SAML-inställningar**.
+1. Klicka på **Redigera** under **SAML-inställningar**.
 
    ![](assets/image2014-9-24-14-3a37-3a3.png)
 
-1. Ändra **SAML enkel inloggning** till **aktiverad**.
+1. Ändra **SAML enkel inloggning** till **Aktiverad**.
 
    ![](assets/image2014-9-24-14-3a37-3a17.png)
 
-1. Ange **utfärdarens ID**, **enhets-ID**, markera platsen **för** användar-ID och klicka sedan på **Bläddra**.
+1. Ange ditt **Issuer ID**, **Entity ID**, välj **User ID Location** och klicka sedan på **Browse**.
 
    ![](assets/image2014-9-24-14-3a37-3a32.png)
 
-1. Välj **identitetsleverantörens certifikatfil** .
+1. Välj din **identitetsleverantörscertifikatfil**.
 
    ![](assets/image2014-9-24-14-3a38-3a8.png)
 
@@ -83,15 +83,15 @@ SSO är inaktiverat som standard. Följ de här stegen för att aktivera SAML oc
 
 ## Uppdatera inställningar för omdirigeringssida {#update-redirect-page-settings}
 
-1. Klicka på **Redigera** under avsnittet **Omdirigera sidor**.
+1. Klicka på **Redigera** under **Omdirigera sidor**.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >Kunder som använder Universal ID tillsammans med enkel inloggning måste ange identitetsleverantörens inloggnings-URL i fältet **Inloggnings-URL** .
+   >Kunder som använder Universal ID tillsammans med enkel inloggning måste ange identitetsleverantörens inloggnings-URL i fältet **Inloggnings-URL**.
 
-1. Ange en **utloggnings-URL**. Det här är den URL som du vill att användaren ska dirigeras till när han/hon loggar ut från Marketo.
+1. Ange en **Logout URL**. Det här är den URL som du vill att användaren ska dirigeras till när han/hon loggar ut från Marketo.
 
    ![](assets/eight.png)
 
