@@ -18,7 +18,7 @@ ht-degree: 0%
 Det är enkelt att lägga till e-post i en ström i ett engagemangsprogram, och det fungerar bra. Men om era affärsbehov är mer komplexa kan det vara bra att placera e-postmeddelandet i ett program. Du kanske vill:
 
 * Skicka ett e-postmeddelande till en undergrupp personer i strömmen
-* Skicka *olika* e-postmeddelanden till undergrupper i strömmen
+* Skicka *olika*-e-postmeddelanden till undergrupper i strömmen
 * Inkludera landningssidor, formulär eller andra resurser i näringen
 * Aktivera multitouch-attribuering
 * Lägg till extra flödessteg, till exempel varningsmeddelanden
@@ -31,17 +31,17 @@ När du använder ett kapslat program baseras beslutet att skicka ett e-postmedd
 * Om du är medlem i programmet får du inte e-postmeddelandet
 * Om du inte längre är medlem men har fått e-postmeddelandet tidigare via det programmet får du inte e-postmeddelandet
 
-När du använder ett program i en ström spelar det ingen roll om du har fått den specifika e-postadressen tidigare. Så länge e-postmeddelandet inte har skickats ut tidigare *i det specifika programmet* kan du få det igen.
+När du använder ett program i en ström spelar det ingen roll om du har fått den specifika e-postadressen tidigare. Så länge e-postmeddelandet inte har skickats ut före *i det specifika programmet* kan du ta emot det igen.
 
 Det kan vara svårt att blanda e-post och program i ett engagemangsprogram. Du kanske vill använda den ena eller den andra.
 
 >[!TIP]
 >
->Se till att du använder ett **medlemsprogramfilter** i den smarta listan.
+>Använd ett **Member of Engagement Program**-filter i den smarta listan.
 
 ## Vad händer med dem som inte uppfyller villkoren i den smarta listan? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 
-Om någon filtreras bort från den smarta listan i ett kapslat programs smarta kampanj går de inte vidare till nästa innehåll under den aktuella sändningen. De kommer att gå vidare till nästa innehållsdel i strömmen för *följande* sändning.
+Om någon filtreras bort från den smarta listan i ett kapslat programs smarta kampanj går de inte vidare till nästa innehåll under den aktuella sändningen. De fortsätter till nästa del av innehållet i strömmen för *följande*-sändning.
 
 ## Vad innehåller ett kapslat program? {#what-does-a-nested-program-contain}
 
