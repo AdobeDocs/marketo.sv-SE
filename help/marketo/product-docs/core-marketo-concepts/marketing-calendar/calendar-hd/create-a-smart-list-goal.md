@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Målen är sätt att följa utvecklingen och motivera ert team. De kan kombineras med smarta listor för att spåra alla typer av saker i Marketo. När du har skapat ett mål för en smart lista uppdateras den automatiskt varannan timme när den används i en presentation.
 
-Precis som presentationer är målen [arbetsytespecifika](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+Precis som för presentationer är målen [arbetsyta](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)-specifika.
 
 1. Gå till **kalendern**.
 
@@ -29,7 +29,7 @@ Precis som presentationer är målen [arbetsytespecifika](../../../../product-do
 
    ![](assets/image2015-3-26-12-3a25-3a17.png)
 
-1. Dra och släpp **Smart List-målet** på arbetsytan.
+1. Dra och släpp **Mål för smart lista** på arbetsytan.
 
    ![](assets/image2015-3-24-12-3a47-3a36.png)
 
