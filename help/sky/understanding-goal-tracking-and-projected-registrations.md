@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-När du har [ställt in händelsemål](/help/sky/setting-event-goals.md)och skickat ut inbjudningar via en [smart kampanj](/help/sky/create-a-smart-campaign.md), så här spårar du målförloppet och förstår Marketos prognoser.
+När [du har ställt in händelsemål](/help/sky/setting-event-goals.md) och skickat ut inbjudningar via en [smart kampanj](/help/sky/create-a-smart-campaign.md), ska du följa upp målförloppet och förstå Marketos prognoser.
 
 >[!NOTE]
 >
@@ -22,11 +22,11 @@ När du har [ställt in händelsemål](/help/sky/setting-event-goals.md)och skic
 
 ## Målspårning och planerade registreringar
 
-1. Du hittar målspårningsinformation på fliken **[!UICONTROL Reports]** i ditt händelsemeddelande. I just det här exemplet finns det 150 registrerade medlemmar hittills mot målet 200 (75 %).
+1. Du hittar målspårningsinformation på fliken **[!UICONTROL Reports]** i ditt händelsprogram. I just det här exemplet finns det 150 registrerade medlemmar hittills mot målet 200 (75 %).
 
    ![Bild ett](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-1.png)
 
-Du kommer också att se dina **[!UICONTROL Projected]** registreringar. Håll muspekaren över infoikonen om du vill se en uppdelning av det här talet efter segmentet Sannolikhet.
+Du kommer även att se dina **[!UICONTROL Projected]**-registreringar. Håll muspekaren över infoikonen om du vill se en uppdelning av det här talet efter segmentet Sannolikhet.
 
 ![Bild två](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-2.png)
 
@@ -44,7 +44,7 @@ Alla medlemmar (registrerade och ännu inte registrerade) kategoriseras utifrån
 
 >[!NOTE]
 >
->Prediktionsnumren uppdateras var 24:e timme tills dagen för händelsen. Alla medlemmar som anges som _Bearbetning_ inkluderas i nästa beräkningscykel.
+>Prediktionsnumren uppdateras var 24:e timme tills dagen för händelsen. Alla medlemmar som är listade som _Bearbetar_ inkluderas i nästa beräkningscykel.
 
 ## Liknande program
 
@@ -69,7 +69,7 @@ Högst upp på sidan Rapporter hittar du AI/ML-drivna rekommendationer baserat p
 
 ## Personnivåprognoser
 
-Klicka på&#x200B;**[!UICONTROL Members]** fliken för att visa alla programmedlemmar. Håll muspekaren över **[!UICONTROL Registration Likelihood]** - eller **[!UICONTROL Attendance Likelihood]** -fälten för att se exakta procentsatser och kategoriseringar. Du kan sedan vidta åtgärder för medlemmar i en viss kategori (t.ex. alla i kategorin&quot;Less Troely&quot; för att registrera) och särskilt inrikta dig på dem för att eventuellt öka dina registreringsnummer.
+Klicka på fliken **[!UICONTROL Members]** för att visa alla programmedlemmar. Håll pekaren över fälten **[!UICONTROL Registration Likelihood]** eller **[!UICONTROL Attendance Likelihood]** för att se exakta procentsatser och kategoriseringar. Du kan sedan vidta åtgärder för medlemmar i en viss kategori (t.ex. alla i kategorin&quot;Less Troely&quot; för att registrera) och särskilt inrikta dig på dem för att eventuellt öka dina registreringsnummer.
 
 ![Bild sju](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-7.png)
 
@@ -89,7 +89,7 @@ Vi sätter in sannolikhetsvärden i tre segment:
 * Sannolikt att registrera >25 % till &lt;50 % = Sannolikt segment
 * Sannolikhet för registrering &lt;25% = mindre sannolikhetssegment
 
-När det är troligt att en person registrerar sig hamnar förutsägelsen i ett av dessa segment (alla som är medlemmar i ett program kommer att ingå i ett av dem). Om ett händelseprogram till exempel har 1000 medlemmar baserat på sannolikhetsprognoserna, kommer dessa 1000 att distribueras till segmenten _Mycket sannolikt_, _Sannolikt_ eller _Mindre sannolikt_ .
+När det är troligt att en person registrerar sig hamnar förutsägelsen i ett av dessa segment (alla som är medlemmar i ett program kommer att ingå i ett av dem). Om ett händelseprogram till exempel har 1000 medlemmar baserat på sannolikhetsprognoserna distribueras dessa 1000 till segmenten _Mycket sannolikt_, _Sannolikt_ eller _Mindre troligt_.
 
 Därför har de som hamnar i segmentet Highly Troely större chans att anmäla sig till evenemanget.
 
