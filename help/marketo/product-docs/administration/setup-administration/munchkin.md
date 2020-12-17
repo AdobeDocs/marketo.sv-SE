@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Munchkin är det JavaScript-fragment som du lägger ut på din webbplats. Här spåras besök, klick och formulärfyllning. Den har också ett omfattande API för att göra alla möjliga typer av smarta tricks.
 
-Gå till [utvecklarsidan om Munchkin](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/).
+Ta en titt på [utvecklarsidan på Munchkin](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/).
