@@ -16,14 +16,14 @@ ht-degree: 0%
 
 Så här konfigurerar du en Image-token som ska användas i program- och kampanjmappar.
 
-1. Dra en [!UICONTROL My Tokens] bildtoken **till arbetsytan på fliken** i programmet eller mappen [!UICONTROL Local Tokens] .
+1. Dra en **Image**-token till arbetsytan [!UICONTROL Local Tokens] på fliken [!UICONTROL My Tokens] i programmet eller mappen.
 
    ![Bild ett](/help/sky/assets/my-tokens/my-token-image/my-token-image-1.png)
 
-1. Ange ett namn för din bildtoken och ange sedan bildens URL. Klicka **[!UICONTROL Save]**.
+1. Ange ett namn för din bildtoken och ange sedan bildens URL. Klicka på **[!UICONTROL Save]**.
 
    ![Bild två](/help/sky/assets/my-tokens/my-token-image/my-token-image-2.png)
 
-Du kan också välja en befintlig bild från [!UICONTROL Design Studio]. Klicka **[!UICONTROL Save]**.
+Du kan också välja en befintlig bild från [!UICONTROL Design Studio]. Klicka på **[!UICONTROL Save]**.
 
 ![Bild tre](/help/sky/assets/my-tokens/my-token-image/my-token-image-3.png)
