@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Om e-postprogram {#understanding-email-programs}
+# E-postprogram {#understanding-email-programs}
 
 Säg hej till din nya Marketo-vän, e-postprogrammet. Skicka ut e-postmeddelanden, skapa A/B-tester och spåra alla resultat på ett och samma ställe.
 
 ## Kontrollpanelen {#control-panel}
 
-Fyra lådor håller dig fokuserad. **Målgruppen** definierar&quot;vem&quot;, **Email** , som innehåller&quot;vad&quot;, **Schedule** som definierar&quot;när&quot;, och **Approval** gör det klart att användas.
+Fyra lådor håller dig fokuserad. **Audiencedefinierar** &quot;vem&quot;,  **** Emailger&quot;vad&quot;,  **** Scheduledefinierar&quot;när&quot; och  **** Approvalmakes it ready to go.
 
 ![](assets/emailprogram.png)
 
@@ -44,7 +44,7 @@ Njut av frukterna av ditt arbete. Kontrollpanelerna visar e-postprogrammet och A
 
 ![](assets/image2015-4-27-11-3a38-3a27.png)
 
-## Kapsling {#nesting}
+## Kapslar {#nesting}
 
 E-postprogram fungerar bra tillsammans med andra program.
 
