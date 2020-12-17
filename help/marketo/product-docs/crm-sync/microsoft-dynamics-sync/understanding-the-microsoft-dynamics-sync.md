@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Förstå Microsoft Dynamics Sync {#understanding-the-microsoft-dynamics-sync}
+# Förstå Microsoft Dynamics-synkronisering {#understanding-the-microsoft-dynamics-sync}
 
 Marketo och Microsoft Dynamics går ihop. Vi synkroniserar era sälj- och marknadsföringsdata.
 
@@ -43,7 +43,7 @@ Synkroniseringen mellan Marketo och Dynamics är dubbelriktad för leads och kon
 >
 >De [autentiseringsuppgifter du anger i Marketo för Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) används för att synkronisera data.
 
-Det finns många nyanser och funktioner om Dynamics-synkronisering. Läs mer i avsnittet [Synkroniseringsinformation för](http://docs.marketo.com/display/docs/microsoft+dynamics+sync+details)Microsoft Dynamics.
+Det finns många nyanser och funktioner om Dynamics-synkronisering. Läs mer i avsnittet [Synkroniseringsinformation för Microsoft Dynamics](http://docs.marketo.com/display/docs/microsoft+dynamics+sync+details).
 
 >[!CAUTION]
 >
