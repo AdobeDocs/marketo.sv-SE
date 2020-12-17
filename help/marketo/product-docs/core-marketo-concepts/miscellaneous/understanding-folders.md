@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Om mappar {#understanding-folders}
+# Förstå mappar {#understanding-folders}
 
 Mappar i ett program kan användas för att ordna smarta kampanjer och resurser. Dessa skiljer sig från [kampanjmappar](create-new-campaign-folder.md).
 
 ## Skapa en mapp {#create-a-folder}
 
-1. Gå till området **Marknadsföringsaktiviteter** .
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/ma.png)
 
@@ -25,7 +25,7 @@ Mappar i ett program kan användas för att ordna smarta kampanjer och resurser.
 
    ![](assets/image2015-4-20-18-3a45-3a14.png)
 
-1. Namnge den nya mappen och tryck på **Retur**.
+1. Ge den nya mappen ett namn och tryck på **Enter**.
 
    ![](assets/image2015-4-20-18-3a46-3a57.png)
 
@@ -39,7 +39,7 @@ Det är okej att ändra sig.
 
    ![](assets/image2015-4-20-18-3a49-3a10.png)
 
-1. Skriv ett nytt namn och tryck på **Retur**.
+1. Skriv ett nytt namn och tryck på **Enter**.
 
    ![](assets/image2015-4-20-18-3a52-3a30.png)
 
