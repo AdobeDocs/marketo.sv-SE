@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Ändra standard från e-post och från etikett {#change-the-default-from-email-and-from-label}
 
-Varje Admin-användare kan ändra standardvärdena för **Från e-post** och **Från etikett** så att när de skapar nya e-postmeddelanden används dessa standardvärden.
+Varje Admin-användare kan ändra standardvärdena för **Från e-post** och **Från etikett** så att standardvärdena används när de skapar nya e-postmeddelanden.
 
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till avsnittet **Admin** .
+1. Gå till avsnittet **Admin**.
 
    ![](assets/adminhand.png)
 
@@ -27,7 +27,7 @@ Varje Admin-användare kan ändra standardvärdena för **Från e-post** och **F
 
    ![](assets/image2014-9-18-16-3a27-3a19.png)
 
-1. Ange de standardvärden som du vill använda för **Från e-post** och **Från etikett** och klicka sedan på **Spara ändringar**.
+1. Ange de standardvärden du vill använda för **Från e-post** och **Från etikett** och klicka sedan på **Spara ändringar**.
 
    ![](assets/change-default-hands.png)
 
