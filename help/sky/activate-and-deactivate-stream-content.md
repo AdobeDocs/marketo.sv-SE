@@ -20,7 +20,7 @@ Ströminnehåll är inaktiverat som standard. Aktivera innehåll som ska skickas
 
    ![Bild ett](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-1.png)
 
-1. Klicka på **[!UICONTROL Streams]** fliken.
+1. Klicka på fliken **[!UICONTROL Streams]**.
 
    ![Bild två](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-2.png)
 
@@ -46,7 +46,7 @@ Ströminnehåll är inaktiverat som standard. Aktivera innehåll som ska skickas
 
    ![Bild fem](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-5.png)
 
-1. Klicka på **[!UICONTROL Streams]** fliken.
+1. Klicka på fliken **[!UICONTROL Streams]**.
 
    ![Bild sex](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-6.png)
 
