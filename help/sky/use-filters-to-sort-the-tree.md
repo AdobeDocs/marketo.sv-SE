@@ -24,7 +24,7 @@ Du öppnar filterpanelen genom att klicka på filterikonen längst upp i trädet
 
 Du kan använda den här funktionen för att hitta resurser som har skapats eller ändrats inom ett visst datumintervall. t.ex. förra veckan, under de senaste tre månaderna osv.
 
-Som standard läser Marketo in allt innehåll från de senaste sex månaderna. Om du vill ändra detta väljer du ett intervall i **[!UICONTROL Choose Date Range]** listrutan. De här inställningarna är kladdiga och kommer även att användas nästa gång du loggar in på Marketo.
+Som standard läser Marketo in allt innehåll från de senaste sex månaderna. Om du vill ändra detta väljer du ett intervall i listrutan **[!UICONTROL Choose Date Range]**. De här inställningarna är kladdiga och kommer även att användas nästa gång du loggar in på Marketo.
 
 ![Bild två](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-2.png)
 
