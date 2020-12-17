@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Kvalificeringsregler styr hur många gånger någon kan gå igenom flödet i en smart kampanj. Även om någon utlöser en smart kampanj flera gånger skickas de som standard bara via flödet en gång. Så här ändrar du inställningarna.
 
-1. Välj kampanjen och gå till **[!UICONTROL Schedule]** fliken.
+1. Markera kampanjen och gå till fliken **[!UICONTROL Schedule]**.
 
    ![Bild ett](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-1.png)
 
-1. Klicka **[!UICONTROL Edit Recurrence]**.
+1. Klicka på **[!UICONTROL Edit Recurrence]**.
 
    ![Bild två](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-2.png)
 
@@ -30,11 +30,11 @@ Kvalificeringsregler styr hur många gånger någon kan gå igenom flödet i en 
 
    >[!NOTE]
    >
-   >När du anger en regel för en gång varje dag konverteras den till timmar [!DNL Marketo] . Om du t.ex. anger regeln för en gång om dagen och en person kvalificerar sig klockan 10.00 på en söndag kväll, kan den inte kvalificera igen förrän 10.00 på måndag kväll.
+   >När du anger en regel för en gång varje dag konverterar [!DNL Marketo] den till timmar. Om du t.ex. anger regeln för en gång om dagen och en person kvalificerar sig klockan 10.00 på en söndag kväll, kan den inte kvalificera igen förrän 10.00 på måndag kväll.
    >
    >Den här logiken gäller även för veckor och månader. En månad räknas alltid som 30 dagar.
 
-1. Klicka **[!UICONTROL Confirm]** när du är klar.
+1. Klicka på **[!UICONTROL Confirm]** när du är klar.
 
    ![Bild fyra](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-4.png)
 
