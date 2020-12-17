@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Istället för att skapa en smart lista från grunden kan du spara tid genom att klona en liknande lista och göra ändringar. Så här gör du.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
