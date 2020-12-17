@@ -29,7 +29,7 @@ Det enda ordet (plus [YourCompany.com](http://YourCompany.com)) kallas för CNAM
 
 ## Hitta din kontosträng {#find-your-account-string}
 
-1. Gå till området **Admin** och klicka på **landningssidor.**
+1. Gå till området **Admin** och klicka på **Startsidor.**
 
    ![](assets/image2014-9-18-16-3a2-3a45.png)
 
@@ -37,7 +37,7 @@ Det enda ordet (plus [YourCompany.com](http://YourCompany.com)) kallas för CNAM
    >
    >**Administratörsbehörigheter krävs**
 
-1. Under fliken **Landningssidor** **Sidor** kopierar du **kontots** **sträng** från avsnittet **Inställningar** .
+1. Under fliken **Landning** **Sidor** kopierar du **Konto** **Sträng** från avsnittet **Inställningar**.
 
    ![](assets/image2014-9-18-16-3a44-3a12.png)
 
@@ -45,9 +45,9 @@ Det enda ordet (plus [YourCompany.com](http://YourCompany.com)) kallas för CNAM
 
 ## Skicka begäran till IT {#send-request-to-it}
 
-Be din IT-personal att installera följande CNAME: (Ersätt ordet [CNAME] och [KONTOSTRÄNG] med texten från föregående steg.)
+Be din IT-personal att installera följande CNAME: (Ersätt ordet [CNAME] och [KONTOSTRING] med texten från föregående steg.)
 
-[CNAME]. [YourCompany.com](http://yourcompany.com/) > [ACCOUNT STRING]. [mktoweb.com](http://mktoweb.com/)
+[CNAME]. [YourCompany.com](http://yourcompany.com/) >  [ACCOUNT STRING]. [mktoweb.com](http://mktoweb.com/)
 
 ## Slutför CNAME-installationen {#complete-cname-setup}
 
@@ -59,7 +59,7 @@ Be din IT-personal att installera följande CNAME: (Ersätt ordet [CNAME] och [K
 
    ![](assets/image2014-9-18-17-3a15-3a18.png)
 
-1. Ange ditt CNAME-värde i **Domännamn** **för** **Landing** **Pages** ******** ******** ****, ange dinFallback¥page¥, ange din Homepage¥ och klicka på¥Save¥¥.
+1. Ange CNAME i **domän** **namn** **för** **landning** **Sidor** och ange din **reservsida** **sida**, ange din **startsida** och klicka på **Spara**.
 
    ![](assets/image2014-9-18-17-3a15-3a25.png)
 
