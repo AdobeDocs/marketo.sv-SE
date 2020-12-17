@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Ange ett standardprefix för anpassat fält {#set-a-default-custom-field-prefix}
 
-Ditt standardprefix för Microsoft Dynamics för anpassade fält måste vara **nytt** för att företagsspecifika fält ska kunna synkroniseras korrekt. Så här ändrar du standardprefixet.
+Microsoft Dynamics-standardprefixet för anpassade fält måste vara **new** för att Marketos egna fält ska kunna synkroniseras korrekt. Så här ändrar du standardprefixet.
 
 1. Gå till Inställningar och välj **Anpassningar.**
 
@@ -29,7 +29,7 @@ Ditt standardprefix för Microsoft Dynamics för anpassade fält måste vara **n
 
    ![](assets/image2015-10-9-11-3a2-3a45.png)
 
-1. Ändra prefixet till **nytt**. Klicka på **Spara och stäng**.
+1. Ändra prefixet till **new**. Klicka på **Spara och stäng**.
 
    ![](assets/image2015-10-9-11-3a9-3a17.png)
 
