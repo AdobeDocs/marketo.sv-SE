@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Versionsinformation: Hösten &#39;16 {#release-notes-fall}
+# Versionsinformation: Hög &#39;16 {#release-notes-fall}
 
 Följande funktioner finns i höstutgåvan 16. Se om din Marketo-utgåva har funktioner tillgängliga. Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion.
 
@@ -53,7 +53,7 @@ Nu kan ni tilldela kontoteam till namngivna konton i kontobaserad marknadsförin
 
 **REST API**
 
-I den här versionen kan du även hantera attribut och poäng för namngivna konton i ABM med Marketo REST API. Mer information om API:er finns på [Marketo Developers webbplats](http://developers.marketo.com/rest-api/lead-database/named-accounts).
+I den här versionen kan du även hantera attribut och poäng för namngivna konton i ABM med Marketo REST API. Mer information om API-åtgärder finns på webbplatsen [Marketo Developers](http://developers.marketo.com/rest-api/lead-database/named-accounts).
 
 ## [Förbättringar av granskningsspår](../../product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -67,7 +67,7 @@ Det var inte länge sedan du var tvungen att oroa dig för att användare ska sk
 
 **Redigera kampanjbegränsningar**
 
-Varför ange [kampanjbegränsningar](http://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns) om du inte kan genomdriva dem? När du anger inställningarna för kampanjbegränsning för att begränsa antalet personer i databasen som kan användas för en enskild kampanj, kan du nu begränsa vilka användare som kan åsidosätta inställningarna när du schemalägger en kampanj.
+Varför ska du ange [kampanjbegränsningar](http://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns) om du inte kan genomdriva dem? När du anger inställningarna för kampanjbegränsning för att begränsa antalet personer i databasen som kan användas för en enskild kampanj, kan du nu begränsa vilka användare som kan åsidosätta inställningarna när du schemalägger en kampanj.
 
 ## [Ljud för mobila push-meddelanden](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
@@ -86,7 +86,7 @@ Ge iOS push-meddelanden ökad detaljrikedom genom att aktivera ljud. Med den hä
 
 ## [Säljinsikter kompatibel med Salesforce-kryptering](../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
-Market Sales Insight är nu kompatibelt med Salesforce Shield Encryption. Alla Sales Insight-kunder bör uppgradera till det senaste hanterade paketet (version 1.4359.2), som finns [på Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
+Market Sales Insight är nu kompatibelt med Salesforce Shield Encryption. Alla Sales Insight-kunder bör uppgradera till det senaste hanterade paketet (version 1.4359.2), som är [tillgängligt på Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
 ## [API:er för namngivna konton](http://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 
