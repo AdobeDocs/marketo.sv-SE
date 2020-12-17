@@ -27,7 +27,7 @@ Treasure Chest innehåller roliga experimentella funktioner som inte stöds full
 
    ![](assets/image2014-9-16-16-3a53-3a42.png)
 
-1. Markera rutan **Aktiverad** om du vill aktivera eller avmarkera om du vill inaktivera. Klicka sedan på **Spara**.
+1. Markera rutan **Aktiverad** om du vill aktivera eller avmarkera om du vill inaktivera och klicka på **Spara**.
 
    ![](assets/image2014-9-16-16-3a53-3a53.png)
 
