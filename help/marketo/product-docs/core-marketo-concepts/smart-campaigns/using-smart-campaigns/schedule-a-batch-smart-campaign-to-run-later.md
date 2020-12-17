@@ -19,11 +19,11 @@ Så här gör du om du vill ställa in en batchsmart kampanj som ska köras någ
 >
 >Du kan även [schemalägga om en batchsmart kampanj i programschemavyn](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md).
 
-1. Välj den batchsmarta kampanj som du vill köra, gå till fliken **Schemalägg** och klicka på **Kör en gång**.
+1. Välj den batchsmarta kampanj som du vill köra, gå till fliken **Schema** och klicka på **Kör en gång**.
 
    ![](assets/scheduledruns2.png)
 
-1. Klicka på **Kör senare**, klicka på kalenderikonen och välj den dag du vill att den smarta kampanjen ska köras.
+1. Klicka på **Kör senare**, klicka på kalenderikonen och välj den dag du vill att den smarta kampanjen ska köras på.
 
    ![](assets/runonce.png)
 
@@ -35,7 +35,7 @@ Så här gör du om du vill ställa in en batchsmart kampanj som ska köras någ
 
    ![](assets/runoncetimesave.png)
 
-1. Du kan bekräfta den schemalagda körningen genom att titta på fliken **Schema** .
+1. Du kan bekräfta den schemalagda körningen genom att titta på fliken **Schema**.
 
    ![](assets/scheduledrunsbox.png)
 
