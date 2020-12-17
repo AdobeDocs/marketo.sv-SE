@@ -24,6 +24,6 @@ Du kan ta bort alla bidrag i kalendern med några enkla steg.
 
    ![Bild två](/help/sky/assets/program-schedule-view/delete-an-entry-in-program-schedule-view/delete-an-entry-in-program-schedule-view-2.png)
 
-1. Klicka **[!UICONTROL Confirm]** för att ta bort posten.
+1. Klicka på **[!UICONTROL Confirm]** för att ta bort posten.
 
    ![Bild tre](/help/sky/assets/program-schedule-view/delete-an-entry-in-program-schedule-view/delete-an-entry-in-program-schedule-view-3.png)
