@@ -17,11 +17,11 @@ När ni väl har skapat ert engagemangsprogram måste ni lägga till innehåll i
 
 ## Lägg till en e-postadress i en ström {#add-an-email-to-a-stream}
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Välj engagemangsprogram och gå till fliken **Streams** .
+1. Välj ditt engagemangsprogram och gå till fliken **Streams**.
 
    ![](assets/streamstab.jpg)
 
@@ -29,11 +29,11 @@ När ni väl har skapat ert engagemangsprogram måste ni lägga till innehåll i
 
 **Knappen Lägg till innehåll**
 
-1. Klicka på knappen **Lägg till innehåll** .
+1. Klicka på knappen **Lägg till innehåll**.
 
    ![](assets/addcontentbutton.jpg)
 
-1. Låt **Type** vara **Email** och välj sedan det e-postmeddelande du vill lägga till.
+1. Lämna **Type** inställd på **Email** och välj sedan det e-postmeddelande som du vill lägga till.
 
    ![](assets/image2014-9-15-15-3a44-3a58.png)
 
@@ -43,7 +43,7 @@ När ni väl har skapat ert engagemangsprogram måste ni lägga till innehåll i
 
 **Strömma + ikon**
 
-1. Klicka på ikonen för direktuppspelning **+** , lämna **Type** som **e-post** och välj det e-postmeddelande som du vill lägga till.
+1. Klicka på ikonen för strömmarna **+**, lämna **Type** som **Email** och välj det e-postmeddelande som du vill lägga till.
 
    ![](assets/image2014-9-15-15-3a45-3a25.png)
 
@@ -55,11 +55,11 @@ När ni väl har skapat ert engagemangsprogram måste ni lägga till innehåll i
 
 ## Lägg till ett program i en ström {#add-a-program-to-a-stream}
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Välj engagemangsprogram och gå till fliken **Streams** .
+1. Välj ditt engagemangsprogram och gå till fliken **Streams**.
 
    ![](assets/streamstab.jpg)
 
@@ -71,7 +71,7 @@ När ni väl har skapat ert engagemangsprogram måste ni lägga till innehåll i
 
    ![](assets/image2014-9-15-15-3a45-3a51.png)
 
-1. Ändra **typ** till program.
+1. Ändra **typ** till Program.
 
    ![](assets/image2014-9-15-15-3a46-3a0.png)
 
@@ -92,7 +92,7 @@ När ni väl har skapat ert engagemangsprogram måste ni lägga till innehåll i
 
 **Strömma + ikon**
 
-1. Klicka på direktuppspelningsikonen **+** och ändra sedan **Type** till Program.
+1. Klicka på ikonen för direktuppspelningen **+** och ändra sedan **typ** till Program.
 
    ![](assets/image2014-9-15-15-3a46-3a43.png)
 
