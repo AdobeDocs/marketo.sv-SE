@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Versionsinformation: April 2013 {#release-notes-april}
 
-Följande funktioner finns i aprilversionen. Kontrollera om det finns funktioner i din [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) .
+Följande funktioner finns i aprilversionen. Kontrollera din [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) för att se om det finns funktioner.
 
-Efter releasen ska du kontrollera fliken [Ny release](release-notes-december-2013.md) i communityn för detaljerade kunskapsbasartiklar för varje funktion!
+Efter releasen ska du kontrollera fliken [New Release](release-notes-december-2013.md) i communityn för detaljerade kunskapsbasartiklar för varje funktion!
 
 ## Box-integrering {#box-integration}
 
