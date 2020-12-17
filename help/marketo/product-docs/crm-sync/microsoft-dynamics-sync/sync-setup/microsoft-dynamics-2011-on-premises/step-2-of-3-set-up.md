@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Steg 2 av 3: Konfigurera Marketo-synkronisering av användare i Dynamics (lokal 2011) {#step-of-set-up-marketo-sync-user-in-dynamics-on-premises}
+# Steg 2 av 3: Konfigurera Marketo Sync User in Dynamics (On-Premises 2011) {#step-of-set-up-marketo-sync-user-in-dynamics-on-premises}
 
 Bra jobb med att slutföra de föregående stegen - vi går igenom det här.
 
@@ -43,7 +43,7 @@ Tilldela endast Marketo-synkroniseringsanvändarrollen till Marketför att synkr
 
    ![](assets/image2015-4-2-14-3a4-3a37.png)
 
-1. En lista över användare visas här. Markera din dedikerade Marknad för att synkronisera användare eller kontakta [administratören för Active Directory Federation Services (AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx) för att skapa en ny användare som är dedikerad till Marketo. Klicka på **Hantera roller**.
+1. En lista över användare visas här. Markera din dedikerade Marknad för att synkronisera användare eller kontakta din [AFDS-administratör (Active Directory Federation Services)](https://msdn.microsoft.com/en-us/library/bb897402.aspx) för att skapa en ny användare som är dedikerad till Marketo. Klicka på **Hantera roller**.
 
    ![](assets/image2015-4-2-14-3a11-3a7.png)
 
@@ -57,7 +57,7 @@ Tilldela endast Marketo-synkroniseringsanvändarrollen till Marketför att synkr
 
    >[!NOTE]
    >
-   >Uppdateringar som görs i CRM av Synkronisera användare synkroniseras **inte** tillbaka till Marketo.
+   >Alla uppdateringar som görs i CRM av Sync User kommer **inte** att synkroniseras tillbaka till Marketo.
 
 ## Konfigurera Marketo-lösning {#configure-marketo-solution}
 
@@ -69,7 +69,7 @@ Nästan klart! Vi har bara några sista konfigurationer innan vi går vidare til
 
    >[!NOTE]
    >
-   >Om Marketo Config saknas kan du försöka uppdatera sidan. Om problemet kvarstår [publicerar du Marketo-lösningen igen](step-1-of-3-install.md) eller loggar ut och in igen.
+   >Om Marketo Config saknas kan du försöka uppdatera sidan. Om problemet kvarstår kan du [publicera Marketo-lösningen igen](step-1-of-3-install.md) eller logga ut och in igen.
 
 1. Klicka på **Standard**.
 
