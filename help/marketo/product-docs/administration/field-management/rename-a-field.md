@@ -29,7 +29,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Klicka på länken **Används** för att hitta resurser som refererar till det här fältet.
+   >Klicka på länken **Används av** för att hitta resurser som refererar till det här fältet.
 
    ![](assets/changefieldname.png)
 
