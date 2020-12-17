@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Översikt {#overview}
 
-Normalt använder du [flödesövergångsregler](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) för att uppnå detta, men om du vill flytta personer manuellt från en ström till en annan är detta det flödessteg som ska användas.
+Normalt använder du [regler för direktövergång](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) för att uppnå detta, men om du vill flytta personer från en ström till en annan manuellt är det här flödessteget som ska användas.
 
 ![](assets/image2014-9-22-14-3a52-3a14.png)
 
