@@ -35,16 +35,16 @@ Marknadsföringsteamet bör ha skickat två förfrågningar till dig om nya CNAM
 
 `1` **Lägg till CNAME för landningssidor**
 
-Lägg till landningssidan CNAME som de skickade dig till din DNS-post, så att den `[YourLandingPageCNAME]` pekar på den unika kontosträng som tilldelas till dina Marketto-landningssidor. Logga in på din domänregistrators webbplats och ange landningssidan CNAME och kontosträng. Vanligtvis omfattar detta tre fält:
+Lägg till landningssidan CNAME som de skickade dig till din DNS-post, så att `[YourLandingPageCNAME]` pekar på den unika kontosträng som tilldelas till dina Marketo-landningssidor. Logga in på din domänregistrators webbplats och ange landningssidan CNAME och kontosträng. Vanligtvis omfattar detta tre fält:
 
-* Alias: Ange `[YourLandingPageCNAME]` (marknadsföringsmaterial)
+* Alias: Ange `[YourLandingPageCNAME]` (tillhandahålls via marknadsföring)
 * Typ: CNAME
-* Peka på: Ange `[MarketoAccountString].mktoweb.com` (marknadsföringsmaterial)
+* Peka på: Ange `[MarketoAccountString].mktoweb.com` (tillhandahålls via marknadsföring)
 
 `2` **Lägg till CNAME för länkar för e-postspårning**
 
-Lägg till e-postmarknadsföringen CNAME skickade dig, så att den `[YourEmailCNAME]` pekar på [MktoTrackingLink], standardspårningslänken som Marketo tilldelade, i formatet:\
-`[YourEmailCNAME].[YourDomain].com` I CNAME `[MktoTrackingLink]`
+Lägg till e-postmarknadsföringen för CNAME som skickade dig, så att `[YourEmailCNAME]` pekar på [MktoTrackingLink], standardspårningslänken som Marketo tilldelade dig, i formatet:\
+`[YourEmailCNAME].[YourDomain].com` I CNAME  `[MktoTrackingLink]`
 
 Till exempel:
 
@@ -54,7 +54,7 @@ Till exempel:
 
 Meddela marknadsföringsteamet när du har slutfört den här processen.
 
-## Steg 2: IP-adresser i Tillåtelselista Marketo {#step-allowlist-marketo-ips}
+## Steg 2: IP-adresser för Tillåtelselista Marketo {#step-allowlist-marketo-ips}
 
 När er marknadsföringsgrupp använder Marketo för att skicka testmeddelanden (en god vana innan de skickar ut e-postmeddelanden) blockeras ibland testmeddelandena av skräppostskyddssystem som förlitar sig på avsändarens IP-adresser för att bekräfta att e-postmeddelandet är giltigt. Lägg till Marketo på tillåtelselista för att försäkra dig om att dessa testmeddelanden kommer fram.
 
@@ -91,11 +91,11 @@ Marknadsföringsteamet ska också ha skickat dig DKIM-information som ska lägga
 
 1. För DKIM skapar du DNS-resursposter för varje domän som vi vill konfigurera. Nedan visas värdposter och TXT-värden för varje domän som vi ska signera för:
 
-   `[DKIMDomain1]`: Värdposten är `[HostRecord1]` och TXT-värdet är `[TXTValue1]`.
+   `[DKIMDomain1]`: Värdposten är  `[HostRecord1]` och TXT-värdet är  `[TXTValue1]`.
 
-   `[DKIMDomain2]`: Värdposten är `[HostRecord2]` och TXT-värdet är `[TXTValue2]`.
+   `[DKIMDomain2]`: Värdposten är  `[HostRecord2]` och TXT-värdet är  `[TXTValue2]`.
 
-   Kopiera HostRecord och TXTValue för varje DKIMDomain som du har konfigurerat efter att ha [instruktionerna här](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). Glöm inte att verifiera varje domän i Admin > E-post > DKIM när din IT-personal har slutfört det här steget.
+   Kopiera HostRecord och TXTValue för varje DKIMDomain som du har konfigurerat efter [instruktionerna här](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). Glöm inte att verifiera varje domän i Admin > E-post > DKIM när din IT-personal har slutfört det här steget.
 
 ## Steg 4: Konfigurera MX-poster för din domän {#step-set-up-mx-records-for-your-domain}
 
