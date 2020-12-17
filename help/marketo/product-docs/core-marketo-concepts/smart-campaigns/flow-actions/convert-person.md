@@ -37,7 +37,7 @@ Använd det här flödessteget om du vill konvertera en person till en kontakt i
 
    ![](assets/three-2.png)
 
-1. Välj **konverteringsstatus**.
+1. Välj **konverterad status**.
 
    ![](assets/four-3.png)
 
