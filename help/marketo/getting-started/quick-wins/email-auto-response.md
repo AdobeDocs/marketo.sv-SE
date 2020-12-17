@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-   En e-postredigerare öppnas i ett nytt fönster eller på en ny flik. Om popup-fönster blockeras klickar du på **Redigera utkast** på sidan med resurssammanfattningen för att öppna e-postmeddelandet.
+   En e-postredigerare öppnas i ett nytt fönster eller på en ny flik. Om popup-fönster är blockerade klickar du på **Redigera utkast** på resurssammanfattningssidan för att komma åt e-postmeddelandet.
 
 1. Ange en ämnesrad och dubbelklicka sedan på det redigerbara området i e-postmeddelandet.
 
@@ -69,29 +69,29 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a56-3a13.png)
 
-1. **Namnge** den smarta kampanjen&quot;Automatisk svarskampanj&quot; och klicka på **Skapa**.
+1. **Ge** den smarta kampanjen namnet&quot;Automatisk svarskampanj&quot; och klicka på  **Skapa**.
 
    ![](assets/image2014-9-24-11-3a56-3a25.png)
 
-1. Gå till fliken **Smart lista** .
+1. Gå till fliken **Smart lista**.
 
    ![](assets/image2014-9-24-11-3a56-3a38.png)
 
-   Vi skapar den här kampanjen som ska köras när en person fyller i formuläret som du skapade på [**landningssidan med ett formulär**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
+   Vi konfigurerar kampanjen så att den körs när en person fyller i formuläret som du skapade på [**landningssidan med ett formulär**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
 
-1. Hitta och dra utlösaren för **Fyll i formulär** till den vänstra arbetsytan.
+1. Hitta och dra utlösaren **Fyller i formulär** till den vänstra arbetsytan.
 
    ![](assets/image2014-9-24-11-3a57-3a18.png)
 
-1. Välj **Mitt formulär** i listrutan. Klicka på fliken **Flöde** .
+1. Välj **Mitt formulär** i listrutan. Klicka på fliken **Flöde**.
 
    ![](assets/image2014-9-24-11-3a57-3a29.png)
 
-1. Dra åtgärden **Skicka e-post** till den vänstra arbetsytan.
+1. Dra flödesåtgärden **Skicka e-post** till den vänstra arbetsytan.
 
    ![](assets/image2014-9-24-11-3a57-3a41.png)
 
-1. Välj e-postadress **för** automatiskt svar och gå till fliken **Schemalägg** .
+1. Välj din **e-postadress för automatiskt svar** och gå till fliken **Schemalägg**.
 
    ![](assets/image2014-9-24-11-3a57-3a53.png)
 
@@ -99,7 +99,7 @@ ht-degree: 0%
 
    ![](assets/8.png)
 
-1. Markera **varje gång** och klicka på **Spara**.
+1. Välj **varje gång** och klicka på **Spara**.
 
    ![](assets/9.png)
 
@@ -117,7 +117,7 @@ ht-degree: 0%
 
 ## Steg 3: Fyll i formuläret {#step-fill-out-the-form}
 
-1. Välj **Min sida**. Detta skapades på [landningssidan med ett snabbt utbyte av ett formulär](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) .
+1. Välj **Min sida**. Detta skapades på [landningssidan med en snabb vinst i form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
 
    ![](assets/image2014-9-24-12-3a0-3a8.png)
 
@@ -135,7 +135,7 @@ ht-degree: 0%
 >
 >Se till att du använder din faktiska e-postadress så att du kan få e-postmeddelandet.
 
-## Uppdraget är slutfört {#mission-complete}
+## Uppdraget är klart {#mission-complete}
 
 Inom bara några minuter visas e-postmeddelandet om automatiskt svar i din inkorg. Bra jobbat!
 
