@@ -43,7 +43,7 @@ Kom så sätter vi igång!
 
 1. Hitta din kontosträng.
 
-1. Gå till området **Admin** och klicka på **landningssidor**.
+1. Gå till området **Admin** och klicka på **Startsidor**.
 
    ![](assets/image2014-9-16-13-3a9-3a44.png)
 
@@ -57,7 +57,7 @@ Kom så sätter vi igång!
 
 1. Be din IT-personal att installera följande CNAME (ersätt ordet [CNAME] och [KONTOSTRING] med texten från föregående steg):
 
-   [CNAME].YourCompany.com > [ACCOUNT STRING].mktoweb.com
+   [CNAME].YourCompany.com >  [ACCOUNT STRING].mktoweb.com
 
 1. Slutför CNAME-installationen.
 
@@ -69,7 +69,7 @@ Kom så sätter vi igång!
 
    ![](assets/image2014-9-16-13-3a10-3a31.png)
 
-1. Ange CNAME i **Domännamn för landningssidor**, ange din **reservsida**, ange din **startsida** och klicka på **Spara**.
+1. Ange ditt CNAME-konto i **Domännamn för landningssidor**, ange din **återställningssida**, ange din **startsida** och klicka på **Spara**.
 
    ![](assets/image2014-9-16-13-3a10-3a45.png)
 
