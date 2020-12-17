@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SFDC-synkronisering: Synkronisering av affärsmöjlighet {#sfdc-sync-opportunity-sync}
+# SFDC-synkronisering: Affärsmöjlighet, synkronisering {#sfdc-sync-opportunity-sync}
 
 ## Hur synkroniseras informationen om affärsmöjligheterna mellan de två systemen? {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
 
@@ -27,15 +27,15 @@ Nej, det kan du inte. Ändringarna i alla affärsmöjligheter i Salesforce synkr
 
 ## Stöder Marketo mer än en valuta i säljprojektsbeloppet? {#does-marketo-support-more-than-one-currency-in-the-opportunity-amount}
 
-Nej, Marketo stöder bara en valuta. Affärsmöjlighetsbeloppet synkroniseras från Salesforce, men valutan blir [standardvalutan](https://docs.marketo.com/display/DOCS/Set+Default+Location+Settings+for+a+Subscription#SetDefaultLocationSettingsforaSubscription-SettheDefaultCurrencySettingsforaSubscription) i din Marketo-prenumeration.
+Nej, Marketo stöder bara en valuta. Affärsmöjlighetsbeloppet synkroniseras från Salesforce men valutan är [standardvalutan](https://docs.marketo.com/display/DOCS/Set+Default+Location+Settings+for+a+Subscription#SetDefaultLocationSettingsforaSubscription-SettheDefaultCurrencySettingsforaSubscription) i din Marketo-prenumeration.
 
 ## Hur kopplar Marketo möjligheter och kontakter? {#how-does-marketo-associate-opportunities-and-contacts}
 
-Marketo associerar affärsmöjligheter och kontakter med hjälp av [säljprojektskontaktroller](https://help.salesforce.com/HTViewHelpDoc?id=contactroles.htm). Affärsmöjligheter utan tilldelade kontaktroller synkroniseras med Marketo, men tillhör inte någon. Personen kvalificerar till exempel inte filtret Har affärsmöjlighet.
+Marketo associerar affärsmöjligheter och kontakter med [Roller för säljprojektskontakt](https://help.salesforce.com/HTViewHelpDoc?id=contactroles.htm). Affärsmöjligheter utan tilldelade kontaktroller synkroniseras med Marketo, men tillhör inte någon. Personen kvalificerar till exempel inte filtret Har affärsmöjlighet.
 
 ## Hur kan jag se alla möjligheter för en person? {#how-can-i-see-all-the-opportunities-of-a-person}
 
-Du kan visa en lista med affärsmöjligheter på fliken **Affärsinformation** på sidan [Personinformation](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) .
+Du kan visa en lista över affärsmöjligheter på fliken **Affärsmöjlighetsinfo** på sidan [Personinformation](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
 ## Vilka utlösare/filter hör till affärsmöjligheten? {#what-are-the-triggers-filters-related-to-opportunity}
 
