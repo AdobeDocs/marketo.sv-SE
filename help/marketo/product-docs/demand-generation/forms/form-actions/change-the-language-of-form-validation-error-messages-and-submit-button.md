@@ -19,7 +19,7 @@ Visste du att du kan anpassa formuläret för att skicka meddelanden på ett ann
 >
 >Detta ändrar även sändningsknappens språk.
 
-1. Gå till **Marknadsföringsaktiviteter** och **aktiviteter**.
+1. Gå till **Marknadsföring** **Aktiviteter**.
 
    ![](assets/login-marketing-activities-6.png)
 
@@ -31,7 +31,7 @@ Visste du att du kan anpassa formuläret för att skicka meddelanden på ett ann
 
    ![](assets/image2014-9-15-12-3a48-3a5.png)
 
-1. Välj det **felspråk** **du behöver** .
+1. Välj **Error** **Language** du need.
 
    ![](assets/image2014-9-15-12-3a48-3a26.png)
 
@@ -39,7 +39,7 @@ Visste du att du kan anpassa formuläret för att skicka meddelanden på ett ann
 
    ![](assets/image2014-9-15-12-3a48-3a43.png)
 
-1. Klicka på **Godkänn och Stäng** för att tillämpa och spara ändringarna.
+1. Klicka på **Godkänn och stäng** för att tillämpa och spara ändringarna.
 
    >[!NOTE]
    >
@@ -52,7 +52,7 @@ Visste du att du kan anpassa formuläret för att skicka meddelanden på ett ann
    >**Påminnelse**
    >
    >
-   >Kom ihåg att [godkänna utkastet till landningssidan](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som skapades av formulärändringarna.
+   >Kom ihåg att [godkänna landningssidans ](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)-utkast som skapades av formulärändringarna.
 
    ![](assets/image2014-9-15-12-3a50-3a11.png)
 
