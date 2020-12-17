@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Aktivera/inaktivera kommunikationsbegränsningar i ett e-postprogram {#enable-disable-communication-limits-in-an-email-program}
+# Aktivera/inaktivera kommunikationsgränser i ett e-postprogram {#enable-disable-communication-limits-in-an-email-program}
 
-När du kör ett e-postprogram kan du välja att ignorera eller respektera kommunikationsgränsen [på](../../../../product-docs/administration/email-setup/enable-communication-limits.md) administratörsnivå [](../../../../product-docs/administration/email-setup/enable-communication-limits.md). Så här gör du.
+När du kör ett e-postprogram kan du välja att ignorera eller respektera kommunikationsgränsen [på administratörsnivå](../../../../product-docs/administration/email-setup/enable-communication-limits.md) [s](../../../../product-docs/administration/email-setup/enable-communication-limits.md). Så här gör du.
 
 >[!NOTE]
 >
 >**Definition**
 >
->Kommunikationsbegränsningar [anges i avsnittet](../../../../product-docs/administration/email-setup/enable-communication-limits.md) Admin och hjälper dig att undvika att skicka för många e-postmeddelanden till en person.
+>Kommunikationsgränserna är [angivna i avsnittet Admin](../../../../product-docs/administration/email-setup/enable-communication-limits.md) och hjälper dig att undvika att skicka för många e-postmeddelanden till en person.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -29,7 +29,7 @@ När du kör ett e-postprogram kan du välja att ignorera eller respektera kommu
 
    ![](assets/selectemailprogram-3.jpg)
 
-1. Dubbelklicka på raden för kommunikationsbegränsning på fliken **Inställningar** .
+1. Under fliken **Inställningar** dubbelklickar du på radobjektet för kommunikationsbegränsning.
 
    ![](assets/blockoperational.png)
 
@@ -37,5 +37,5 @@ När du kör ett e-postprogram kan du välja att ignorera eller respektera kommu
 
    ![](assets/ifaperson.jpg)
 
-   Om du låter **Blockera icke-fungerande e-postmeddelanden** vara markerat förhindrar du att e-postmeddelandet skickas till alla som har fått fler e-postmeddelanden än vad som tillåts i administratörsinställningarna.
+   Om **Blockera icke-fungerande e-postmeddelanden** är markerat förhindras e-postmeddelandet att skickas till alla som har fått fler e-postmeddelanden än vad som tillåts i administratörsinställningarna.
 
