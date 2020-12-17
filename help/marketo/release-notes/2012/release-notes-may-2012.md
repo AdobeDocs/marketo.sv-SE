@@ -17,9 +17,9 @@ ht-degree: 0%
 >
 >**Djupdykning**
 >
->Andra releaser finns i [versionsinformationen](http://docs.marketo.com/display/docs/release+notes) .
+>Andra versioner finns i [versionsinformationen](http://docs.marketo.com/display/docs/release+notes) djupdykning.
 
-## E-postprestandarapport - omdesign {#email-performance-report-redesign}
+## E-postprestandarapport, omdesign {#email-performance-report-redesign}
 
 Obs! detta kommer att bli en stegvis utrullning, som börjar med majversionen
 
@@ -57,9 +57,9 @@ Figur 4. Incheckning av händelse: Välj en händelse!
 
 Figur 5. Checka in dem
 
-## Bekräftelse-URL för utökat webbinarium {#enhanced-webinar-confirmation-url}
+## Förbättrad URL för bekräftelse av webbinarium {#enhanced-webinar-confirmation-url}
 
-Finns nu för ON24 och Adobe Connect! Inkludera en unik länk i bekräftelsemeddelandet för varje registrerad deltagare med den nya `{{member.webinar URL}}` token. Bland Adobe Connect förbättringar finns även möjligheten att aktivera/inaktivera e-postmeddelandet med kontoinformation för Adobe som innehåller användarens inloggnings-ID och lösenord.
+Finns nu för ON24 och Adobe Connect! Inkludera en unik länk i bekräftelsemeddelandet för varje registrerad deltagare med den nya `{{member.webinar URL}}`-token. Bland Adobe Connect förbättringar finns även möjligheten att aktivera/inaktivera e-postmeddelandet med kontoinformation för Adobe som innehåller användarens inloggnings-ID och lösenord.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
@@ -73,7 +73,7 @@ Söker du en viss mall när du skapar e-post eller landningssida, men vet inte h
 
 Figur 7. Förhandsgranska den valda mallen
 
-## Konfigurerbar förifyllning av formulär {#configurable-form-prefill}
+## Konfigurerbar formulärföfyllning {#configurable-form-prefill}
 
 Kontrollera förifyllning av formulärdata på prenumerationsnivå och skriv över på landningssidnivå. Utan förifyllning kan du se till att leadet ger den senaste informationen.
 
@@ -119,7 +119,7 @@ Nu kan du ordna e-postmallarna som delas med Marketo Sales Insight i angivna map
 
 Figur 13. Välj en mapp för dina e-postmeddelanden
 
-## Få åtkomst till säljprojektsanalys från säljinsikter {#access-opportunity-analyzer-from-sales-insight}
+## Få åtkomst till säljprojektsanalysen från Sales Insight {#access-opportunity-analyzer-from-sales-insight}
 
 Ge säljarna insikt i vilka marknadsföringsaktiviteter som skapar engagemang med hjälp av direktåtkomst till säljprojektsanalysen från Marketo Sales Insight. Obs! Kräver licens för intäktscykelanalys.
 
@@ -139,7 +139,7 @@ Gå ned till de sidor som visas av ett anonymt lead från den anonyma webbaktivi
 
 Figur 15. Se anonym webbaktivitet
 
-## Förbättrat lead- och kontaktabonnemang {#enhanced-lead-and-contact-subscribe}
+## Utökat lead och kontaktprenumeration {#enhanced-lead-and-contact-subscribe}
 
 Följ en lead eller kontakta när som helst med den nya prenumerationsknappen på postinformationssidan.
 
