@@ -29,4 +29,4 @@ Ta en titt på din favoritdryck.
 * [Saker att granska: Kärnfärdigheter](/help/marketo/getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
 * [Sätt att få hjälp](/help/marketo/getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
 
-Om du redan känner till hur du använder Marketo och känner dig bekväm med dina centrala koncept kan du ta en titt på Marketo Product Docs eller besöka [Marketing Nation](https://nation.marketo.com/) online-communityn för att se vad andra marknadsföringsanvändare säger.
+Om du redan vet hur du är i din närhet och känner dig bekväm med viktiga begrepp i Marketo, kan du ta en titt på Marketo Product Docs eller besöka onlinecommunityn [Marketing Nation](https://nation.marketo.com/) för att se vad andra Marketo-användare säger.
