@@ -41,7 +41,7 @@ Marketo hanterar din zoomregistrering och närvaro.
 
    ![](assets/login.png)
 
-1. Ange dina Zoom-inloggningsuppgifter i zoomningsfönstret och klicka på **Logga in**.
+1. I inloggningsfönstret för Zoom anger du dina inloggningsuppgifter för Zoom och klickar på **Logga in**.
 
    ![](assets/zoomlogin.png)
 
