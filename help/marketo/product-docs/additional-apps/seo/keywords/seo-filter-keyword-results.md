@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# SEO - filtrera nyckelordsresultat {#seo-filter-keyword-results}
+# SEO - Filtrera nyckelordsresultat {#seo-filter-keyword-results}
 
-Du kanske har många [nyckelord](seo-understanding-keywords.md). Här är olika sätt att filtrera dem:
+Du kan ha många [nyckelord](seo-understanding-keywords.md). Här är olika sätt att filtrera dem:
 
 ## Filtrera efter lista {#filter-by-list}
 
-1. Gå till avsnittet **Nyckelord** .
+1. Gå till avsnittet **Nyckelord**.
 
    ![](assets/image2014-9-18-11-3a55-3a8.png)
 
@@ -27,7 +27,7 @@ Du kanske har många [nyckelord](seo-understanding-keywords.md). Här är olika 
 
    >[!NOTE]
    >
-   >Om du inte ser några listor kan du [lära dig](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) att [skapa en nyckelordslista](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md).
+   >Om du inte ser några listor kan du [l](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) [lära dig hur du gör en nyckelordslista](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md).
 
 Söt! Du kommer nu endast att titta på nyckelord i den listan.
 
@@ -47,7 +47,7 @@ Söt! Du kommer nu endast att titta på nyckelord i den listan.
 
 Du kan också hitta de nyckelord du söker efter med hjälp av sökfältet i det övre högra hörnet.
 
-1. Gå till avsnittet **Nyckelord** .
+1. Gå till avsnittet **Nyckelord**.
 
    ![](assets/image2014-9-18-12-3a0-3a50.png)
 
