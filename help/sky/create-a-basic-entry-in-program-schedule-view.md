@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Du kan skapa nya grundläggande poster direkt från programschemavyn.
 
-1. Välj programmet i trädet och gå sedan till **[!UICONTROL Schedule]** fliken under **[!UICONTROL Overview]**.
+1. Välj ditt program i trädet och gå sedan till fliken **[!UICONTROL Schedule]** under **[!UICONTROL Overview]**.
 
    ![Bild ett](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-1.png)
 
-1. Håll muspekaren över den dag du vill lägga till ett inlägg i och klicka sedan på **[!UICONTROL Add]**.
+1. Håll muspekaren över den dag du vill lägga till en post i och klicka sedan på **[!UICONTROL Add]**.
 
    ![Bild två](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-2.png)
 
@@ -28,7 +28,7 @@ Du kan skapa nya grundläggande poster direkt från programschemavyn.
    >
    >Du kan också utföra liknande steg för att skapa ett grundläggande inlägg från vyerna Dag, Vecka eller Dagordning.
 
-1. Ange ett namn för den nya grundläggande posten och ändra **[!UICONTROL Type]** till [!UICONTROL Basic Entry] vid behov. Du kan också ändra **[!UICONTROL Start & End Date]** och avmarkera **[!UICONTROL Open In Agenda View]** om du vill stanna i kalendern när du har skapat posten. Klicka **[!UICONTROL Save]**.
+1. Ange ett namn för den nya grundläggande posten och ändra sedan **[!UICONTROL Type]** till [!UICONTROL Basic Entry] om det behövs. Du kan också ändra **[!UICONTROL Start & End Date]** och avmarkera **[!UICONTROL Open In Agenda View]** om du vill stanna i kalendern när du har skapat posten. Klicka på **[!UICONTROL Save]**.
 
    ![Bild tre](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-3.png)
 
@@ -42,4 +42,4 @@ Du kan skapa nya grundläggande poster direkt från programschemavyn.
 
 **Relaterade artiklar**
 
-Du kan också skapa en [batchsmart kampanj](/help/sky/create-a-batch-smart-campaign-in-program-schedule-view.md) eller ett [e-postprogram](/help/sky/create-an-email-program-in-program-schedule-view.md) från schemavyn.
+Du kan också skapa en [batchsmart kampanj](/help/sky/create-a-batch-smart-campaign-in-program-schedule-view.md) eller [e-postprogram](/help/sky/create-an-email-program-in-program-schedule-view.md) från schemavyn.
