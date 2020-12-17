@@ -21,11 +21,11 @@ Marketo synkroniserar över både händelser och uppgifter som är kopplade till
 
 ## Hur synkroniseras aktivitetsinformationen mellan de två systemen? {#how-are-activity-details-kept-in-sync-between-the-two-systems}
 
-Synkroniseringen är ett sätt, från Salesforce till Marketo. Men du kan skapa en uppgift i Salesforce med hjälp av [Skapa uppgift](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) -flödessteget eller [Anpassa aktiviteter som synkroniseras](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md) med Salesforce.
+Synkroniseringen är ett sätt, från Salesforce till Marketo. Men du kan skapa en uppgift i Salesforce med flödessteget [Skapa uppgift](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) eller [Anpassa aktiviteter Synkronisera](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md) till Salesforce.
 
 ## Kan jag skapa en uppgift med Marketo? {#can-i-create-a-task-using-marketo}
 
-Ja, du kan använda åtgärden [](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)Skapa uppgiftsflöde.
+Ja, du kan använda åtgärden [Skapa uppgiftsflöde](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md).
 
 ## Vilka utlösare/filter är relaterade till aktiviteten? {#what-are-the-triggers-filters-related-to-activity}
 
