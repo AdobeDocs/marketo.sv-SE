@@ -15,7 +15,7 @@ ht-degree: 0%
 
 I Marketos nya e-postupplevelse 2.0 består e-postmallar av valfri kombination av element, variabler, moduler eller behållare. Var och en definieras genom att lägga till Marketo-specifik syntax i HTML-koden. Gamla (v1.0) e-postmallar stöds i e-postredigeraren 2.0; men inte alla funktioner i den nya redigeraren.
 
-Marketens e-postsyntax fungerar endast i mallar och enskilda e-postmeddelanden. det fungerar **inte** om det är inbäddat i utdrag eller RTF-token.
+Marketens e-postsyntax fungerar endast i mallar och enskilda e-postmeddelanden. det fungerar **inte** om det är inbäddat i kodfragment eller RTF-token.
 
 >[!NOTE]
 >
@@ -36,7 +36,7 @@ Element är innehållsområden som du definierar som redigerbara i din e-postmal
 
 ## RTF {#rich-text}
 
-Om du definierar ett område som RTF-text kan användarna redigera innehållet [med hjälp av Marketos RTF-redigerare](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md). Det finns två sätt att definiera ett RTF-element i en e-postmall: mktEditable och mktoText. Kom ihåg att ett RTF-element alltid kan konverteras till ett fragment i e-postredigeraren.
+Om du definierar ett område som RTF kan användarna redigera innehållet [med Marketos RTF-redigerare](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md). Det finns två sätt att definiera ett RTF-element i en e-postmall: mktEditable och mktoText. Kom ihåg att ett RTF-element alltid kan konverteras till ett fragment i e-postredigeraren.
 
 ### Alternativ 1 - mktEditable {#option-mkteditable}
 
@@ -79,30 +79,30 @@ Exempel:
 
 ## Bilder {#images}
 
-Det finns två alternativ för att definiera redigerbara bildelement. Du kan använda antingen en `<div>`, som anger en behållare som `<img>` ska infogas i, eller en `<img>` -tagg. Om du vill att slutanvändaren ska välja en bild som returnerar bild-URL:en (till skillnad från DOM), se&quot;bildvariabler&quot; i avsnittet nedan. Följande två alternativ infogar ett HTML- `<img>` element.
+Det finns två alternativ för att definiera redigerbara bildelement. Du kan antingen använda en `<div>`, som anger en behållare som `<img>` ska infogas i, eller en `<img>`-tagg. Om du vill att slutanvändaren ska välja en bild som returnerar bild-URL:en (till skillnad från DOM), se&quot;bildvariabler&quot; i avsnittet nedan. Följande två alternativ infogar ett HTML `<img>`-element.
 
 ### Alternativ 1 - Använd en \&lt;div\> {#option-use-a-div}
 
 Attribut som krävs
 
-* **klass:** &quot;mktoImg&quot;.
+* **class:** &quot;mktoImg&quot;.
 * **id:** ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.
-* **mktoName :** Sträng. Det här är det visningsnamn som kommer att visas i e-postredigeraren 2.0. Det bästa sättet är att använda ett beskrivande namn.
+* **mktoName:** String. Det här är det visningsnamn som kommer att visas i e-postredigeraren 2.0. Det bästa sättet är att använda ett beskrivande namn.
 
 Valfria attribut
 
-* **mktoImgClass:** Sträng. Värdet här läggs till i klassattributet för `<img>` elementet inuti div-filen.
-* **mktoImgSrc:** Ska användas som standardvärde för bilden som placeras i den här diven. En platshållare används om detta utelämnas.
-* **mktoImgLink:** Anger att `<img>` ska omges av en `<a>` -tagg med denna mål-URL. Användaren kan ändra detta i e-postredigeraren.
-* **mktoImgLinkTarget:** Ange att `<a>` taggen från attributet mktoImgLink ska använda det här målet. Har ingen effekt om mktoImgLink inte också används.
-* **mktoImgWidth:** Används som bredd på innesluten `<img>`.
-* **mktoImgHeight:** Används som höjd på innesluten `<img>`.
-* **mktoLockImgSize:** Används för att låsa upp `<img>` elementets height- och width-egenskap så att slutanvändaren kan ändra (standard är true om den utelämnas).
-* **mktoLockImgStyle:** Används för att låsa `<img>` elementets style-egenskap (standardvärdet är false).
+* **mktoImgClass:** String. Värdet här läggs till i klassattributet för `<img>`-elementet inuti div-elementet.
+* **mktoImgSrc:** Ska användas som standardvärde för den bild som placeras i den här div:n. En platshållare används om detta utelämnas.
+* **mktoImgLink:** Ange att  `<img>` ska omges av en  `<a>` tagg med denna mål-URL. Användaren kan ändra detta i e-postredigeraren.
+* **mktoImgLinkTarget:** Ange att  `<a>` taggen från attributet mktoImgLink ska använda det här målet. Har ingen effekt om mktoImgLink inte också används.
+* **mktoImgWidth:** Används som bredd på innesluten  `<img>`.
+* **mktoImgHeight:** Används som höjd på innesluten  `<img>`.
+* **mktoLockImgSize:** Används för att låsa upp  `<img>` elementets height- och width-egenskap så att slutanvändaren kan ändra (standard är true om det utelämnas).
+* **mktoLockImgStyle:** Används för att låsa  `<img>` elementets style-egenskap (standard är false).
 
 Standardvärde (valfritt)
 
-**`<img>`**: Används som det `<img>` element som bilden ska placeras i. Användbart om du vill lägga till en textbunden formatering i bilden. Kom ihåg att ta med omgivande `<a> </a>` taggar, så om användaren lägger till en länk kommer din formatering inte att tas bort!
+**`<img>`**: Används som  `<img>` element som bilden ska placeras i. Användbart om du vill lägga till en textbunden formatering i bilden. Kom ihåg att ta med omgivande `<a> </a>`-taggar, så om användaren lägger till en länk tas inte formateringen bort!
 
 Exempel:
 
@@ -116,24 +116,24 @@ Exempel:
 
 Attribut som krävs
 
-* **klass:** &quot;mktoImg&quot;.
+* **class:** &quot;mktoImg&quot;.
 * **id:** ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.
-* **mktoName:** Sträng. Det här är det visningsnamn som kommer att visas i e-postredigeraren 2.0. Det bästa sättet är att använda ett beskrivande namn.  Standardvärde (valfritt)
-* **src:** Används som standardvärde för bilden. En platshållare används om detta utelämnas.
-* **mktoLockImgSize:** Används för att låsa upp `<img>` elementets height- och width-egenskap så att slutanvändaren kan ändra (standard är true om den utelämnas).
-* **mktoLockImgStyle:** Används för att låsa `<img>` elementets style-egenskap (standardvärdet är false).
+* **mktoName:** String. Det här är det visningsnamn som kommer att visas i e-postredigeraren 2.0. Det bästa sättet är att använda ett beskrivande namn.  Standardvärde (valfritt)
+* **src:** Ska användas som standardvärde för bilden. En platshållare används om detta utelämnas.
+* **mktoLockImgSize:** Används för att låsa upp  `<img>` elementets height- och width-egenskap så att slutanvändaren kan ändra (standard är true om det utelämnas).
+* **mktoLockImgStyle:** Används för att låsa  `<img>` elementets style-egenskap (standard är false).
 
 Exempel:
 `<pre data-theme="Confluence"><img class="mktoImg" id="exampleImg" mktoName="Example Image"></pre>`
 
-## Fragment {#snippets}
+## Kodavsnitt {#snippets}
 
-Om du definierar ett område som ett kodfragment kan slutanvändarna välja vilket godkänt [](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)kodfragment de vill infoga i det här området. Även om RTF-element kan konverteras till fragment i e-postredigeraren, kan de inte konverteras till RTF när du definierar ett område som ett fragment. Du kan ange ett fragmentområde med hjälp av en `<div>` med class=&quot;mktoSnippet&quot;
+Om du definierar ett område som ett kodfragment kan slutanvändarna välja vilket godkänt [kodfragment](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)de vill infoga i det här området. Även om RTF-element kan konverteras till fragment i e-postredigeraren, kan de inte konverteras till RTF när du definierar ett område som ett fragment. Du kan ange ett fragmentområde med hjälp av en `<div>` med class=&quot;mktoSnippet&quot;
 
 Attribut som krävs
 
 * **id:** ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.
-* **mktoName:** Sträng. Det här är det visningsnamn som kommer att visas i e-postredigeraren 2.0. Det bästa sättet är att använda ett beskrivande namn.
+* **mktoName:** String. Det här är det visningsnamn som kommer att visas i e-postredigeraren 2.0. Det bästa sättet är att använda ett beskrivande namn.
 
 Standardvärde (valfritt)
 
@@ -150,11 +150,11 @@ Om du definierar ett område som en video kan slutanvändarna infoga antingen en
 Attribut som krävs
 
 * **id:** ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.
-* **mktoName:** Sträng. Det här är det visningsnamn som kommer att visas i e-postredigeraren 2.0. Det bästa sättet är att använda ett beskrivande namn.
+* **mktoName:** String. Det här är det visningsnamn som kommer att visas i e-postredigeraren 2.0. Det bästa sättet är att använda ett beskrivande namn.
 
 Valfria attribut
 
-* **mktoImgClass:** Sträng. Värdet här läggs till i klassattributet för videominiatyrbilden `<img>` inuti diven.
+* **mktoImgClass:** String. Värdet här läggs till i klassattributet för videominiatyren `<img>` inuti diven.
 
 Exempel:
 
@@ -162,16 +162,16 @@ Exempel:
 
 ## Variabler {#variables}
 
-Variabler är som tokens. Du definierar dem först i e-postmallens `<head>` avsnitt med `<meta>` -taggar och använder dem sedan så många gånger du vill i hela mallen. Eftersom de är definierade i mallen kan slutanvändaren ändra sina värden enligt sina regler. Observera att du kan definiera en variabel som lokal eller global i omfånget. Om du använder en variabel i en &quot;modul&quot; (se nedan) och en slutanvändare duplicerar den modulen, kommer lokala variabler att ha oberoende värden, medan globala variabler gäller för båda modulerna.
+Variabler är som tokens. Du definierar dem först i `<head>`-avsnittet i din e-postmall med `<meta>`-taggar och använder dem sedan så många gånger du vill i hela mallen. Eftersom de är definierade i mallen kan slutanvändaren ändra sina värden enligt sina regler. Observera att du kan definiera en variabel som lokal eller global i omfånget. Om du använder en variabel i en &quot;modul&quot; (se nedan) och en slutanvändare duplicerar den modulen, kommer lokala variabler att ha oberoende värden, medan globala variabler gäller för båda modulerna.
 
 ## Sträng {#string}
 
-Om du anger en variabel som en sträng kan slutanvändaren ange text i en textruta i e-postredigeraren. Du anger en String-variabel med `<meta>` class=&quot;mktoString&quot;
+Om du anger en variabel som en sträng kan slutanvändaren ange text i en textruta i e-postredigeraren. Du anger en String-variabel med `<meta>` och class=&quot;mktoString&quot;
 
 Attribut som krävs
 
 * **id:** Hur du refererar till variabeln i din e-postmall.
-* **mktoName:** Sträng. Det här är det visningsnamn som kommer att visas i e-postredigeraren 2.0. Det bästa sättet är att använda ett beskrivande namn.
+* **mktoName:** String. Det här är det visningsnamn som kommer att visas i e-postredigeraren 2.0. Det bästa sättet är att använda ett beskrivande namn.
 
 Valfria attribut
 
@@ -189,13 +189,13 @@ Exempelanvändning:
 
 ## Lista {#list}
 
-Om du anger en variabel som List kan slutanvändaren välja bland en uppsättning värden som du definierar i e-postredigeraren. Du anger en List-variabel med `<meta>` class=&quot;mktoList&quot;
+Om du anger en variabel som List kan slutanvändaren välja bland en uppsättning värden som du definierar i e-postredigeraren. Du anger en List-variabel med `<meta>` med class=&quot;mktoList&quot;
 
 Attribut som krävs
 
 * **id**: Hur du refererar till variabeln i din e-postmall.
-* **mktoName:** Sträng. Det här är det visningsnamn som kommer att visas i e-postredigeraren 2.0. Det bästa sättet är att använda ett beskrivande namn.
-* **värden:** Kommaavgränsad lista med värden. Måste ha minst en sträng.
+* **mktoName:** String. Det här är det visningsnamn som kommer att visas i e-postredigeraren 2.0. Det bästa sättet är att använda ett beskrivande namn.
+* **värden:** kommaseparerade värdelista. Måste ha minst en sträng.
 
 Valfria attribut
 
@@ -212,20 +212,20 @@ Exempelanvändning:
 
 ## Nummer {#number}
 
-Om du anger en variabel som Number kan slutanvändaren ange en siffra i e-postredigeraren. Du anger en Number-variabel med `<meta>` class=&quot;mktoNumber&quot;
+Om du anger en variabel som Number kan slutanvändaren ange en siffra i e-postredigeraren. Du anger en Number-variabel med `<meta>` med class=&quot;mktoNumber&quot;
 
 Attribut som krävs
 
 * **id**: Hur du refererar till variabeln i din e-postmall.
 * **mktoName**: Sträng. Det här är det visningsnamn som kommer att visas i e-postredigeraren 2.0. Det bästa sättet är att använda ett beskrivande namn.
-* **standard:** Standardvärde för variabeln.
+* **default:** numeriskt standardvärde för variabeln.
 
 Valfria attribut
 
 * **min:** Minsta godkända värde.
-* **max:** Högsta godkända värde.
-* **enheter:** Enheter som ska läggas till i talvärdet (t.ex.: px, pt, em osv.) när det visas i e-postredigeraren, samt i den resulterande koden.
-* **steg:** Hur många enheter som talvariabeln ska öka/minska med (0,1, 1, 10 osv.). Om det utelämnas blir standardvärdet 1.
+* **max:** Max godkänt värde.
+* **enheter:** enheter som ska läggas till i talvärdet (t.ex: px, pt, em osv.) när det visas i e-postredigeraren, samt i den resulterande koden.
+* **steg:** Hur många enheter talvariabeln ska öka/minska med (0,1, 1, 10 osv.). Om det utelämnas blir standardvärdet 1.
 * **mktoModuleScope**: Boolean. Kontrollerar om variabeln är lokal (true) eller global (false) när den används i en modul. Standardvärdet är Falskt om det utelämnas.
 
 Exempeldeklaration:
@@ -238,7 +238,7 @@ Exempelanvändning:
 
 ## Färg {#color}
 
-Om du anger en variabel som en färg kan slutanvändaren ange ett hexadecimalt färgvärde eller välja en färg i färgväljaren i e-postredigeraren. Du anger en Color-variabel med `<meta>` class=&quot;mktoColor&quot;
+Om du anger en variabel som en färg kan slutanvändaren ange ett hexadecimalt färgvärde eller välja en färg i färgväljaren i e-postredigeraren. Du anger en Color-variabel med `<meta>` med class=&quot;mktoColor&quot;
 
 Attribut som krävs
 
@@ -260,7 +260,7 @@ Exempelanvändning:
 
 ## Boolean {#boolean}
 
-Om du anger en variabel som Boolean kan slutanvändaren aktivera/inaktivera alternativet i e-postredigeraren. Du anger en boolesk variabel med `<meta>` class=&quot;mktoBoolean&quot;
+Om du anger en variabel som Boolean kan slutanvändaren aktivera/inaktivera alternativet i e-postredigeraren. Du anger en boolesk variabel med `<meta>` och class=&quot;mktoBoolean&quot;
 
 Attribut som krävs
 
@@ -269,11 +269,11 @@ Attribut som krävs
 
 Valfria attribut
 
-* **standard:** Booleskt värde som fastställer växlingens standardläge. Falskt om det utelämnas.
+* **default:** Booleskt värde som fastställer växlingens standardläge. Falskt om det utelämnas.
 * **false_value:** Värde som ska infogas när växlingen är i AV-läge. Falskt om det utelämnas.
-* **true_value:** Värde som ska infogas när växlingen är på-position. True om det utelämnas.
-* **false_value_name:** Gränssnittet som visas i växlingsknappen när det är inaktiverat. Falskt om det utelämnas.
-* **true_value_name:** Gränssnittet som visas i växlingsknappen när det är i ON-läge. True om det utelämnas.
+* **true_value:** Värde som ska infogas när växlingen är i ON-läge. True om det utelämnas.
+* **false_value_name:** UI visas i växlingsläget när det är inaktiverat. Falskt om det utelämnas.
+* **true_value_name:** UI som visas i växlingsknappen när den är på plats. True om det utelämnas.
 * **mktoModuleScope**: Boolean. Kontrollerar om variabeln är lokal (true) eller global (false) när den används i en modul. Standardvärdet är Falskt om det utelämnas.
 
 Exempeldeklaration:
@@ -286,7 +286,7 @@ Exempelanvändning:
 
 ## HTML-block {#html-block}
 
-Om du anger en variabel som ett HTML-block kan slutanvändaren mata in ordagrant HTML inifrån e-postredigeraren. Du anger en HTML-blockvariabel med `<meta>` class=&quot;mktoHTML&quot;
+Om du anger en variabel som ett HTML-block kan slutanvändaren mata in ordagrant HTML inifrån e-postredigeraren. Du anger en HTML-blockvariabel med `<meta>` med class=&quot;mktoHTML&quot;
 
 Attribut som krävs
 
@@ -308,7 +308,7 @@ Exempelanvändning:
 
 ## Bildvariabel {#image-variable}
 
-Om du anger en variabel som en bild kan slutanvändaren välja en bild i bildväljaren i e-postredigeraren. Den valda bild-URL:en är variabelns värde. Du anger en bildvariabel med `<meta>` class=&quot;mktoImg&quot;
+Om du anger en variabel som en bild kan slutanvändaren välja en bild i bildväljaren i e-postredigeraren. Den valda bild-URL:en är variabelns värde. Du anger en bildvariabel med `<meta>` med class=&quot;mktoImg&quot;
 
 Attribut som krävs
 
@@ -317,7 +317,7 @@ Attribut som krävs
 
 Valfria attribut
 
-* **standard:** Standardbild-URL för elementet.
+* **default:** Default image URL for the element.
 * **mktoModuleScope**: Boolean. Kontrollerar om variabeln är lokal (true) eller global (false) när den används i en modul. Standardvärdet är Falskt om det utelämnas.
 
 Exempeldeklaration:
@@ -332,13 +332,13 @@ Exempelanvändning:
 
 Moduler är mallavsnitt som definieras på mallnivå och som visas för slutanvändare så att de kan infoga dem i sina e-postmeddelanden. Eftersom du har skapat de här modulerna kan du se till att de interagerar med resten av ditt e-postinnehåll på ett smidigt sätt (på ett helt responsivt sätt). Du kan bara placera en modul i en behållare.
 
-**För behållare av typen `<table>`, `<tbody>`, `<thead>`eller `<tfoot>`:**
+**För behållare av typen  `<table>`,  `<tbody>`,  `<thead>` eller  `<tfoot>`:**
 
-Anges med `<tr>` klassen=&quot;mktoModule&quot;
+Anges med `<tr>` med class=&quot;mktoModule&quot;
 
-**För behållare av typen `<td>`:**
+**För behållare av typen  `<td>`:**
 
-Anges med `<table>` klassen=&quot;mktoModule&quot;
+Anges med `<table>` med class=&quot;mktoModule&quot;
 
 Attribut som krävs
 
@@ -347,8 +347,8 @@ Attribut som krävs
 
 Valfria attribut
 
-* **mktoActive:** Avgör om den här modulen visas i listan med moduler i e-postredigeraren. Standardvärdet är true. Om värdet är false kan modulen inte läggas till av en slutanvändare i ett e-postmeddelande.
-* **mktoAddByDefault:** Avgör om den här modulen kommer att finnas på arbetsytan i ett nytt e-postmeddelande som använder den här mallen när den skapas. Standardvärdet är true (om mktoActive är false ignoreras det här värdet).
+* **mktoActive:** Determines whether this module appears in the list of modules within the email editor. Standardvärdet är true. Om värdet är false kan modulen inte läggas till av en slutanvändare i ett e-postmeddelande.
+* **mktoAddByDefault:** Avgör om den här modulen kommer att finnas på arbetsytan i ett nytt e-postmeddelande som använder mallen när den skapas. Standardvärdet är true (om mktoActive är false ignoreras det här värdet).
 
 >[!NOTE]
 >
@@ -360,7 +360,7 @@ Valfria attribut
 
 En behållare innehåller moduler och definierar var de kan placeras. När slutanvändarna sorterar om och infogar moduler i sina e-postmeddelanden styr behållaren vart de kan gå.
 
-**Anges med antingen `<table>`, `<tbody>`, `<thead>`eller `<tfoot>` `<td>` med class=&quot;mktoContainer&quot;**
+**Anges med antingen  `<table>`,  `<tbody>`,  `<thead>`eller  `<tfoot>`   `<td>` med class=&quot;mktoContainer&quot;**
 
 Attribut som krävs
 
