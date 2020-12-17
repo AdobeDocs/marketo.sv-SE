@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # SEO - diagram över nyckelordstrender {#seo-keyword-trends-chart}
 
-Det är viktigt att kunna övervaka hur nyckelordens [SERP-rankningar](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) trendar över tiden. Kontrollera det här coola diagrammet för att övervaka förloppet.
+Det är viktigt att övervaka hur nyckelordet [SERP Rank](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) trendar över tiden. Kontrollera det här coola diagrammet för att övervaka förloppet.
 
-1. Gå till avsnittet **Nyckelord** .
+1. Gå till avsnittet **Nyckelord**.
 
    ![](assets/image2014-9-18-12-3a5-3a7.png)
 
@@ -23,7 +23,7 @@ Det är viktigt att kunna övervaka hur nyckelordens [SERP-rankningar](../../../
 
    ![](assets/image2014-9-18-12-3a5-3a11.png)
 
-   Ser du? Här visas din [SERP-rankning](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) de senaste 30 dagarna:
+   Ser du? Här visas din [SERP Rank](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) under de senaste 30 dagarna:
 
    ![](assets/image2014-9-18-12-3a5-3a14.png)
 
