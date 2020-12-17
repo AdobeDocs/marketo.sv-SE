@@ -19,11 +19,11 @@ Om du vill ta bort ett filter i marknadsföringskalendern har du kommit till rä
 
    ![](assets/image2014-9-24-11-3a27-3a32.png)
 
-1. Klicka på det röda **krysset**.
+1. Klicka på det röda **x**.
 
    ![](assets/image2014-9-24-11-3a27-3a36.png)
 
-1. Bekräfta genom att klicka på **Ta bort** .
+1. Bekräfta genom att klicka på **Ta bort**.
 
    ![](assets/image2014-9-24-11-3a27-3a42.png)
 
