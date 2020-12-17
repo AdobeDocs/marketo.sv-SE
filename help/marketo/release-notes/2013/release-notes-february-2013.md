@@ -23,7 +23,7 @@ De senaste versionerna av Apple Safari för Mac och Windows stöds fullt ut för
 
 Webhooks har förbättrats så att tokens i URL/nyttolast kan undvikas och Marketos lead-fält kan uppdateras genom att XML/JSON-svar från tredjepartssystem analyseras (ej tillgängligt i Spark SMB Edition).
 
-## SOAP API-slutpunkt har uppdaterats {#updated-soap-api-endpoint}
+## SOAP API-slutpunkt {#updated-soap-api-endpoint} har uppdaterats
 
 Den önskade SOAP API-slutpunkten har uppdaterats, vilket visas i Admin -> SOAP API. Uppdatera dina samtal för att använda den nya slutpunkten. API-anrop till den gamla slutpunkten är inaktuella, men kommer att fortsätta att fungera. (SOAP API är inte tillgängligt i Spark SMB Edition)
 
@@ -33,4 +33,4 @@ Facebook-flikar som publiceras från Marketo upptäcker mobila enheter och dirig
 
 ## Kommer snart: Stöd för flera modeller {#coming-soon-support-for-multiple-models}
 
-Vi lägger grunden för att stödja flera olika intäktscykelmodeller, som vi röstade på bästis för RCA i gemenskapen, i en framtida release. I den här versionen kommer du att märka vissa ändringar, bland annat [smarta listfilter och Lägg till alternativ i Flödessteg](../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) , som stöder valet av modell och scen. Vi flyttar även fälten Leadintäktsstadium och Leadintäktscykelmodell från fliken Smart List Lead grid.
+Vi lägger grunden för att stödja flera olika intäktscykelmodeller, som vi röstade på bästis för RCA i gemenskapen, i en framtida release. I den här versionen kommer du att märka några ändringar, bland annat [Smart List-filter och Lägg till alternativ i Flow Steps](../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md), som stöder valet av modell och scen. Vi flyttar även fälten Leadintäktsstadium och Leadintäktscykelmodell från fliken Smart List Lead grid.
