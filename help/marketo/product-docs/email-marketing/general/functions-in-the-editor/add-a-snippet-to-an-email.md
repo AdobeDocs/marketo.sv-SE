@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Lägga till ett kodfragment i ett e-postmeddelande {#add-a-snippet-to-an-email}
+# Lägg till ett kodfragment i ett e-postmeddelande {#add-a-snippet-to-an-email}
 
 Kodavsnitt är återanvändbara block med text och grafik som du kan använda i e-postmeddelanden och på landningssidor.
 
@@ -22,9 +22,9 @@ Kodavsnitt är återanvändbara block med text och grafik som du kan använda i 
 
 >[!NOTE]
 >
->Du kan inte bädda in [Marketo-e-](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)postsyntaxfragment; det kommer **inte** att fungera i ett e-postmeddelande. Kodavsnitt ska bara innehålla brödtext (HTML + TEXT).
+>Du kan inte bädda in en [Marketo-e-postsyntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)i fragment; **fungerar inte** i ett e-postmeddelande. Kodavsnitt ska bara innehålla brödtext (HTML + TEXT).
 
-1. Leta upp e-postmeddelandet, markera det och klicka på **Redigera utkast**.
+1. Leta reda på e-postmeddelandet, markera det och klicka på **Redigera utkast**.
 
    ![](assets/one-2.png)
 
