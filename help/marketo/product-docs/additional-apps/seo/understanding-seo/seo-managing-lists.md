@@ -29,7 +29,7 @@ Du kan lägga till saker i listor när du lägger till nyckelord, sidor, sidprob
 
    >[!TIP]
    >
-   >Du kan skapa en ny lista i listrutan. Ange en titel och tryck på returtangenten.  ![—](assets/image2014-9-18-13-3a25-3a8.png) >
+   >Du kan skapa en ny lista i listrutan. Ange en titel och tryck på returtangenten.  ![—](assets/image2014-9-18-13-3a25-3a8.png)   >
 
 1. Klicka på **SPARA**.
 
