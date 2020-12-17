@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Lägga till ett fält i ett formulär {#add-a-field-to-a-form}
+# Lägg till ett fält i ett formulär {#add-a-field-to-a-form}
 
-När du har [skapat formuläret](create-a-form.md) och [valt ett tema](select-a-form-theme.md)kanske du vill lägga till fler fält så att andra kan fylla i det. Så här gör du.
+När du har [skapat formuläret](create-a-form.md) och [valt ett tema](select-a-form-theme.md) kan det vara bra att lägga till ytterligare fält så att andra kan fylla i. Så här gör du.
 
-1. Gå till **Marknadsföringsaktiviteter** och **aktiviteter**.
+1. Gå till **Marknadsföring** **Aktiviteter**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Markera formuläret och klicka på **Redigera** **formulär**.
+1. Markera formuläret och klicka på **Redigera** **Formulär**.
 
    ![](assets/editform-1.png)
 
-1. Klicka på **+** -tecknet.
+1. Klicka på **+**-tecknet.
 
    ![](assets/image2014-9-15-17-18-17.png)
 
@@ -49,4 +49,4 @@ När du har [skapat formuläret](create-a-form.md) och [valt ett tema](select-a-
 >
 >Var noga med att godkänna alla utkast till landningssidor som har skapats på grund av formulärändringar.
 
-Inte dåligt alls. Fortsätt med det goda arbetet! Vad sägs om att vi lär oss att [göra ett formulärfält obligatoriskt](make-a-form-field-required.md) härnäst?
+Inte dåligt alls. Fortsätt med det goda arbetet! Vad sägs om att [göra ett formulärfält obligatoriskt](make-a-form-field-required.md) härnäst?
