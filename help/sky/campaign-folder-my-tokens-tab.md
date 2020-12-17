@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Kampanjmapp: Mina token-flikar
 
-På [!UICONTROL My Tokens] fliken visas alla Mina token i kampanjmappen.
+På fliken [!UICONTROL My Tokens] visas alla Mina token i kampanjmappen.
 
 ![Bild ett](/help/sky/assets/campaign-folders/campaign-folder-my-tokens-tab/campaign-folder-my-tokens-tab-1.png)
 
