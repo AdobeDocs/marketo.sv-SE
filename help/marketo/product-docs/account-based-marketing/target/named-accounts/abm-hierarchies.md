@@ -35,7 +35,7 @@ Använda hierarki
 >
 >Marketo-gränssnittet visar endast upp till 10 nivåer nedåt (det överordnade kontots underordnade och indirekt underordnade konton), men det finns ingen gräns för hur många underordnade konton du kan skapa.
 
-Rikta och rapportera om hela hierarkier med [ett klick](http://docs.marketo.com/display/DOCS/Account+Filters#AccountFilters-MemberofNamedAccount).
+Rikta in och rapportera hela hierarkier med [ett klick](http://docs.marketo.com/display/DOCS/Account+Filters#AccountFilters-MemberofNamedAccount).
 
 ![](assets/member.png)
 
