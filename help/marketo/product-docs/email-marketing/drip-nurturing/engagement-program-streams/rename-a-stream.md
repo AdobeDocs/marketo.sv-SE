@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Byta namn på en ström {#rename-a-stream}
+# Byt namn på en ström {#rename-a-stream}
 
 Om du vill kunna hålla ordning kan du byta namn på strömmarna. Så här gör du.
 
-1. Hitta och välj engagemangsprogram och klicka sedan på **Streams**.
+1. Hitta och välj ditt engagemangsprogram och klicka sedan på **Streams**.
 
    ![](assets/cloneasteam-1.jpg)
 
@@ -23,7 +23,7 @@ Om du vill kunna hålla ordning kan du byta namn på strömmarna. Så här gör 
 
    ![](assets/image2014-9-15-17-3a4-3a10.png)
 
-1. Ange det nya **strömnamnet** och klicka på **Spara**.
+1. Ange den nya strömmen **Namn** och klicka på **Spara**.
 
    ![](assets/image2014-9-15-17-3a4-3a14.png)
 
