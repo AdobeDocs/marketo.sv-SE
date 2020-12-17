@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Här är några saker du bör känna till när det gäller att lägga till och ta bort plocklistevärden i Salesforce.
 
-## Lägga till värden för plocklista {#adding-picklist-values}
+## Lägger till värden för plocklista {#adding-picklist-values}
 
 1. Om ett extra värde läggs till i Salesforce för en typ av listfält får du ett [meddelande](../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) som identifierar vilka formulär som detta påverkar.
 
@@ -23,7 +23,7 @@ Här är några saker du bör känna till när det gäller att lägga till och t
 
 1. Gå till formulärredigeraren och [lägg till det extra värdet](../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) i listan med förslag.
 
-## Ta bort värden för plocklistor {#remove-picklist-values}
+## Ta bort värden för plocklista {#remove-picklist-values}
 
 När ett listvärde tas bort från ett fält i Salesforce måste du ta bort det här värdet manuellt från alla formulär som är värdar för det här fältet.
 
