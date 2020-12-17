@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Se om din Marketo-utgåva har funktioner tillgängliga. Dokumentationen kommer när den släpps.
 
-## Programfokus i marknadsföringskalender {#program-focus-in-marketing-calendar}
+## Programfokus i marknadsföringskalendern {#program-focus-in-marketing-calendar}
 
-[Skapa och redigera tävlingsbidrag](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) direkt från marknadsföringskalendern.
+[Skapa och redigera ](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) poster direkt från marknadsföringskalendern.
 
 ![](assets/image2014-10-20-11-3a48-3a51.png)
 
@@ -34,19 +34,19 @@ Fullständig information finns tillgänglig efter releasen på [developers.marke
 
 ## MSI - Skicka Marketo-e-post för Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}
 
-[Skicka och spåra säljmeddelanden](../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) till leads och kontakter från Microsoft Dynamics.
+[Skicka och spåra ](../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) säljmejl till leads och kontakter från Microsoft Dynamics.
 
 ![](assets/image2014-10-20-11-3a49-3a25.png)
 
 ## MSI - Lägg till i Marketo-kampanjer för Microsoft Dynamics {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
 
-[Lägg till leads och kontakter i Marketos smarta kampanjer](../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) direkt från Microsoft Dynamics. Marknadsföringen kan välja vilka marknadsföringskampanjer som är tillgängliga för försäljning.
+[Lägg till leads och kontakter i Marketos smarta ](../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) kampanjer direkt från Microsoft Dynamics. Marknadsföringen kan välja vilka marknadsföringskampanjer som är tillgängliga för försäljning.
 
-## Stöd för anpassade entiteter för Microsoft Dynamics Sync {#custom-entity-support-for-microsoft-dynamics-sync}
+## Stöd för anpassad entitet för Microsoft Dynamics Sync {#custom-entity-support-for-microsoft-dynamics-sync}
 
-[Använd anpassade objektdata](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync/enable-sync-for-a-custom-entity.md) från Microsoft Dynamics för filtrering och aktivering av smarta listor, smarta kampanjer, program...
+[Använd anpassade ](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync/enable-sync-for-a-custom-entity.md) objektdata från Microsoft Dynamics för filtrering och utlösning i smarta listor, smarta kampanjer, program...
 
-## Stöd för Microsoft Dynamics Sync {#shareholder-support-for-microsoft-dynamics-sync}
+## Aktieägarsupport för Microsoft Dynamics Sync {#shareholder-support-for-microsoft-dynamics-sync}
 
 Synkronisera aktieägardata för affärsmöjlighet från Dynamics. Det finns även möjligheter som är kopplade till ett konto med hjälp av fältet Primärt konto samt möjligheter som är kopplade till kontakten med synkroniseringen Primär kontakt.
 
@@ -58,9 +58,9 @@ Kontrollpanelen har nu förbättrats så att den innehåller mer lättöverskåd
 * De fem populäraste branscherna
 * Totalt engagerade besökare
 
-## RTP - Nya mobilmallar för kampanjer {#rtp-new-mobile-templates-for-campaigns}
+## RTP - nya mobilmallar för kampanjer {#rtp-new-mobile-templates-for-campaigns}
 
-Skapa snabbt och enkelt [mobilkampanjer](../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) med de nya mallarna.
+[Skapa mobilkampanjer](../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) snabbt och enkelt med de nya mallarna.
 
 ## RTP - API för användarkontext {#rtp-user-context-api}
 
@@ -70,5 +70,5 @@ Använd ett nytt samtal som spårar besökarens historik. Anpassa kampanjer base
 * Produkter som är intresserade av
 * Vilka RTP-kampanjer de har sett
 
-Mer information finns på [developers.marketo.com](http://developers.marketo.com/documentation/websites/rtp-js-api/) .
+Mer information finns på [developers.marketo.com](http://developers.marketo.com/documentation/websites/rtp-js-api/).
 
