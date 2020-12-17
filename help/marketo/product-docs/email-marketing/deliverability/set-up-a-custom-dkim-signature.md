@@ -21,7 +21,7 @@ För att säkerställa avancerad leverans signerar vi automatiskt all utgående 
 
 Du kan anpassa DKIM-signaturen så att den återspeglar de domäner du väljer. Så här gör du.
 
-1. Gå till avsnittet **Admin** .
+1. Gå till avsnittet **Admin**.
 
    ![](assets/adminhand.png)
 
