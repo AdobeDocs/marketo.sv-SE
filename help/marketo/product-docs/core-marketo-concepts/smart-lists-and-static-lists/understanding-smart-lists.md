@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Smarta listor {#understanding-smart-lists}
 
-Med smarta listor kan du söka efter särskilda grupper med personer med hjälp av enkla filter. De används över hela Marketo, t.ex. i [smarta kampanjer](http://docs.marketo.com/display/docs/smart+campaigns), [program](http://docs.marketo.com/display/docs/programs), [rapporter](http://docs.marketo.com/display/docs/basic+reporting), [segmenteringar](http://docs.marketo.com/display/docs/segmentation+and+snippets), [affärsmodeller](http://docs.marketo.com/display/docs/revenue+cycle+models)[](http://docs.marketo.com/display/docs/drip+nurturing)[](http://docs.marketo.com/display/docs/segmentation+and+snippets),¥Engagement-program¥,dynamiskt innehåll¥ med mera. Beroende på dina behov kan smarta listor skapas på två platser i Marketo:
+Med smarta listor kan du söka efter särskilda grupper med personer med hjälp av enkla filter. De används över hela Marketo, till exempel i [smarta kampanjer](http://docs.marketo.com/display/docs/smart+campaigns), [program](http://docs.marketo.com/display/docs/programs), [rapporter](http://docs.marketo.com/display/docs/basic+reporting), [segmenteringar](http://docs.marketo.com/display/docs/segmentation+and+snippets), [affärsmodeller](http://docs.marketo.com/display/docs/revenue+cycle+models), [engagemangsprogram](http://docs.marketo.com/display/docs/drip+nurturing), [dynamiskt innehåll](http://docs.marketo.com/display/docs/segmentation+and+snippets) med mera. Beroende på dina behov kan smarta listor skapas på två platser i Marketo:
 
-1. I **databasen**, där de är tillgängliga för delad/global användning (t.ex. &quot;Alla personer som inte har prenumererat&quot;).
+1. I **Database**, där de är tillgängliga för delad/global användning (t.ex. &quot;All Unsubscribed People&quot;).
 1. I **program **som lokala resurser, där de hittar en grupp personer som är relevanta för det specifika programmet (t.ex. &quot;Attended Tradeshow&quot;).
 
 De viktigaste stegen för att skapa en smart lista är:
@@ -28,7 +28,7 @@ Här är ett exempel på hur en smart lista ser ut.
 
 ## Huvudflik {#main-tab}
 
-Här kan du [redigera namnet](../../../product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md) på den smarta listan och se information om den smarta listan.
+Här kan du [redigera namnet på den smarta listan](../../../product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md) och se information om den smarta listan.
 
 ![](assets/smartlist.png)
 
