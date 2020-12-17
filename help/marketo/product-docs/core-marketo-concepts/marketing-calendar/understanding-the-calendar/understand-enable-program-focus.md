@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Förstå/aktivera programfokus {#understand-enable-program-focus}
 
-Marknadsföringskalendern ger er en fågelperspektiv på saker och ting, men den tillåter också vissa interaktioner. Du kan [skapa](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [redigera](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [ta bort](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)och [bekräfta](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md) poster. För att kunna interagera med tävlingsbidragen måste du först fokusera på ett program.
+Marknadsföringskalendern ger er en fågelperspektiv på saker och ting, men den tillåter också vissa interaktioner. Du kan [skapa](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [redigera](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [ta bort](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md) och [bekräfta](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md) poster. För att kunna interagera med tävlingsbidragen måste du först fokusera på ett program.
 
 1. Gå till **Marketing** **Calendar**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. Markera ett tävlingsbidrag och klicka på **Visa programfokus**.
+1. Markera en post och klicka på **Visa programfokus**.
 
    ![](assets/image2014-10-20-13-3a24-3a3.png)
 
