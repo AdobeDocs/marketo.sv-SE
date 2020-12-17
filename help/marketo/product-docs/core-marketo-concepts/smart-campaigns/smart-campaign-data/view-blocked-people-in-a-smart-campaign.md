@@ -19,13 +19,13 @@ Spärrade personer i Marketo-databasen har markerats som blocklist, avbeställda
 >
 >Marketo håller på att ändra termer som Blacklist och Whitelist för att Blocklist och Tillåtslista i vår produkt. Under den här uppdateringen kan du se de gamla villkoren i våra användargränssnitt och skärmbilder för dokumentation samt de nya villkoren i vår dokumentationstext. Vi ber om ursäkt för all förvirring.
 
-1. Klicka på **Schedule** i den smarta kampanjen. Klicka på den andra länken under Status för **smart lista** .
+1. Klicka på **Schedule** i den smarta kampanjen. Klicka på den andra länken under **Status för smart lista**.
 
    ![](assets/image2014-9-22-16-3a47-3a38.png)
 
    >[!NOTE]
    >
-   >Personer som nått sin kommunikationsgräns kan också blockeras från att ta emot e-post. Lär dig hur du [redigerar kommunikationsbegränsningar](../../../../product-docs/administration/email-setup/enable-communication-limits.md) i administratörsavsnittet.
+   >Personer som nått sin kommunikationsgräns kan också blockeras från att ta emot e-post. Lär dig hur du [redigerar kommunikationsgränser](../../../../product-docs/administration/email-setup/enable-communication-limits.md) i administratörsavsnittet.
 
    Fliken Spärrade personer visar personer som kanske inte tar emot utskick.
 
