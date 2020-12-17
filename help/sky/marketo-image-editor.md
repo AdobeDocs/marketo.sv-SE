@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-Med bildredigeraren kan du göra snabba, ljusa redigeringar i dina bilder [!DNL Marketo].
+Med bildredigeraren kan du göra snabba, ljusa redigeringar av dina bilder i [!DNL Marketo].
 
-1. I [!DNL Marketo Sky]öppnar du [!UICONTROL Design Studio].
+1. Öppna [!UICONTROL Design Studio] i [!DNL Marketo Sky].
 
    ![Bild ett](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-1.png)
 
@@ -24,10 +24,10 @@ Med bildredigeraren kan du göra snabba, ljusa redigeringar i dina bilder [!DNL 
 
    ![Bild två](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-2.png)
 
-1. Klicka på **[!UICONTROL Edit Image]** knappen.
+1. Klicka på knappen **[!UICONTROL Edit Image]**.
 
    ![Bild tre](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-3.png)
 
-1. Välj bland en mängd olika funktioner i verktygsfältet längst upp. Klicka **[!UICONTROL Save]** när du är klar.
+1. Välj bland en mängd olika funktioner i verktygsfältet längst upp. Klicka på **[!UICONTROL Save]** när du är klar.
 
    ![Bild fyra](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-4.png)
