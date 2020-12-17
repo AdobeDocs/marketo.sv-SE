@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-Exportera smarta kampanjresultat till Excel för användning utanför [!DNL Marketo].
+Exportera resultaten för smarta kampanjer till Excel för användning utanför [!DNL Marketo].
 
-1. Klicka på [!UICONTROL Overview] fliken på fliken **[!UICONTROL Reports]** för den smarta kampanjen.
+1. Klicka på fliken **[!UICONTROL Reports]** på fliken [!UICONTROL Overview] för den smarta kampanjen.
 
    ![Bild ett](/help/sky/assets/smart-campaigns/export-smart-campaign-results-to-excel/export-smart-campaign-results-to-excel-1.png)
 
