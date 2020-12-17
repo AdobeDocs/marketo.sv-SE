@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-När en person är medlem i ett engagemangsprogram får han eller hon innehåll tills han eller hon har [fyllt allt innehåll](https://docs.marketo.com/display/DOCS/People+Who+Have+Exhausted+Content). Du kan använda flödessteget [Change Engagement Program Cadence](https://docs.marketo.com/display/DOCS/Change+Engagement+Program+Cadence) för att hindra personer från att ta emot innehåll, även om de inte har fyllt i innehåll än.
+När en person är medlem i ett engagemangsprogram får han/hon tillgång till innehåll tills han/hon har [fyllt allt innehåll](https://docs.marketo.com/display/DOCS/People+Who+Have+Exhausted+Content). Du kan använda flödessteget [Change Engagement Program Cadence](https://docs.marketo.com/display/DOCS/Change+Engagement+Program+Cadence) för att hindra personer från att ta emot innehåll, även om de inte har uttömt innehållet än.
 
-1. I den smarta kampanjen väljer du den/de personer du vill ska pausas i den smarta listan. I flödet kan du sedan söka efter och dra över **[!UICONTROL Change Engagement Program Cadence]** flödesåtgärden.
+1. I den smarta kampanjen väljer du den/de personer du vill ska pausas i den smarta listan. I flödet söker du efter och drar över flödesåtgärden **[!UICONTROL Change Engagement Program Cadence]**.
 
    ![Bild ett](/help/sky/assets/engagement-programs/pause-people-in-an-engagement-program/pause-people-in-an-engagement-program-1.png)
 
@@ -24,11 +24,11 @@ När en person är medlem i ett engagemangsprogram får han eller hon innehåll 
 
    ![Bild två](/help/sky/assets/engagement-programs/pause-people-in-an-engagement-program/pause-people-in-an-engagement-program-2.png)
 
-1. Välj **[!UICONTROL Paused]** som nytt värde om du vill hindra personen från att ta emot innehåll.
+1. Välj **[!UICONTROL Paused]** som nytt värde om du inte vill att personen ska kunna ta emot innehåll.
 
    ![Bild tre](/help/sky/assets/engagement-programs/pause-people-in-an-engagement-program/pause-people-in-an-engagement-program-3.png)
 
-Du kan ställa in personen på **[!UICONTROL Normal]** om du vill att de ska börja ta emot innehåll igen. De återupptas där de slutade.
+Du kan återställa personen till **[!UICONTROL Normal]** om du vill att de ska börja ta emot innehåll igen. De återupptas där de slutade.
 
 >[!NOTE]
 >
