@@ -37,7 +37,7 @@ Visste du att du kan lägga till anteckningar i sidnummer som personliga påminn
 >
 >Du kan ta bort anteckningen genom att klicka på det lilla krysset i det övre vänstra hörnet.
 
-## Lägg till anteckningar i detaljnivå nedåt {#add-notes-in-page-detail-drill-down}
+## Lägg till anteckningar i detaljnivå {#add-notes-in-page-detail-drill-down}
 
 1. Gå till avsnittet Sidor.
 
@@ -47,7 +47,7 @@ Visste du att du kan lägga till anteckningar i sidnummer som personliga påminn
 
    ![](assets/image2014-9-18-13-3a13-3a42.png)
 
-1. Håll muspekaren över det sidproblem du vill lägga till en anteckning i och klicka på **ADD NOTE**.
+1. Håll muspekaren över det sidproblem du vill lägga till en anteckning i och klicka på **LÄGG TILL NOTE**.
 
    ![](assets/image2014-9-18-13-3a13-3a46.png)
 
