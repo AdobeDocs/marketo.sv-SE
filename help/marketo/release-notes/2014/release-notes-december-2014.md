@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Följande funktioner ingår i december 2014-versionen. Kontrollera om din Marketo Edition innehåller funktioner. Efter releasen måste du komma tillbaka för att hitta länkar till detaljerade artiklar för varje funktion!
 
-## Sales Insight-rapporter {#sales-insight-reports}
+## Sales Insight Reports {#sales-insight-reports}
 
-Med [e-postresultatrapporten](../../product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) för Sales Insight kan du se e-poststatistik per e-post och säljare. Det har stöd för e-postmeddelanden som skickas via Salesforce, Microsoft Dynamics, Outlook-plugin-programmet och Gmail-plugin-programmet.
+Med [E-postresultatrapporten från Sales Insight](../../product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) kan du visa e-poststatistik per e-post och säljare. Det har stöd för e-postmeddelanden som skickas via Salesforce, Microsoft Dynamics, Outlook-plugin och Gmail.
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
@@ -25,13 +25,13 @@ Med [e-postresultatrapporten](../../product-docs/marketo-sales-insight/msi-for-s
 
 ## Anpassade målgrupper för Facebook {#facebook-custom-audiences}
 
-När Marketo-administratören har lagt till [Facebook via Admin > Startpunkt](../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)kan du enkelt skapa, uppdatera eller [ersätta en anpassad Facebook-målgrupp med leads från en statisk eller smart Marketo-lista](../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Leta efter den nya Facebook-ikonen längst ned i huvudstödrastret i statiska eller smarta listor.
+När Marketo-administratören har lagt till [Facebook via Admin > Startpunkt](../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) kan du enkelt skapa, uppdatera eller [ersätta en anpassad Facebook-målgrupp med leads från en statisk eller smart lista från Marketo](../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Leta efter den nya Facebook-ikonen längst ned i huvudstödrastret i statiska eller smarta listor.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
-## Förbättrad kloning över flera arbetsytor  {#improved-cloning-across-workspaces}
+## Förbättrad kloning över arbetsytor {#improved-cloning-across-workspaces}
 
-[Det har aldrig varit enklare att klona ett program](../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) till en annan arbetsyta! När du klickar på klona väljer du målarbetsytan. Nu behöver du inte längre klona till en mapp och sedan flytta mappen!
+[Det har aldrig varit enklare att klona ett ](../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) program till en annan arbetsyta! När du klickar på klona väljer du målarbetsytan. Nu behöver du inte längre klona till en mapp och sedan flytta mappen!
 
 >[!NOTE]
 >
@@ -41,11 +41,11 @@ När Marketo-administratören har lagt till [Facebook via Admin > Startpunkt](..
 
 ## Referera till smart lista {#reference-smart-list}
 
-[Smarta listor som delas med en annan arbetsyta kan](../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)refereras när du skapar en smart lista eller ett smart flöde.
+[Smarta listor som delas med en annan arbetsyta kan ](../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)refereras när du skapar en smart lista eller ett smart flöde.
 
 ## Förbättringar av listimport {#list-import-improvements}
 
-[Importera filer](../../getting-started/quick-wins/import-a-list-of-people.md) som är kodade med UTF-16, Shift-JIS eller EUC-JP. Vi har fortsatt stöd för UTF-8-kodade filer.
+[Importera ](../../getting-started/quick-wins/import-a-list-of-people.md) filer som är kodade i UTF-16, Shift-JIS eller EUC-JP. Vi har fortsatt stöd för UTF-8-kodade filer.
 
 ## Länkspårning i e-postskript {#link-tracking-in-email-scripting}
 
@@ -65,15 +65,15 @@ Tre nya anrop till API:t Lead &amp; Activity ReST:
 
 ・ Lägg samman lead
 
-Fullständig information finns tillgänglig efter releasen på [developers.marketo.com](http://developers.marketo.com/)
+Fullständig information kommer att finnas tillgänglig efter releasen på [developers.marketo.com](http://developers.marketo.com/)
 
-## Kompatibilitetsförbättringar för Munchkin Javascript {#munchkin-javascript-compatibility-enhancements}
+## Munchkin Javascript-kompatibilitetsförbättringar {#munchkin-javascript-compatibility-enhancements}
 
 Vi har gjort flera smärre förbättringar av Munchkin för att se till att den fortsätter att läsas in snabbt och fungera som du vill i fall med andra JavaScript-skript på sidan.
 
 Utbyggnaden kommer att stagnera i mitten av december och fortsätta under de kommande månaderna.
 
-## Uppgraderat utseende och känsla för intäktsutforskaren {#revenue-explorer-upgraded-look-and-feel}
+## Intäktsutforskaren uppgraderade Look och känsla {#revenue-explorer-upgraded-look-and-feel}
 
 ![](assets/image2014-12-5-11-3a8-3a4.png)
 
@@ -89,7 +89,7 @@ Hantera och övervaka dina viktigaste konton med hög kapacitet på den nya sida
 
 ![](assets/image2014-12-5-11-3a9-3a10.png)
 
-## RTP: Glidande effekt för kampanjer i zonen {#rtp-sliding-effect-for-in-zone-campaigns}
+## RTP: Glidande effekt för In Zone-kampanjer {#rtp-sliding-effect-for-in-zone-campaigns}
 
 Vi har lagt till en ny Sliding-effekt för InZone-kampanjer som gör att ditt personaliserade innehåll kan glida in på plats när sidan läses in.
 
