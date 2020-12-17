@@ -26,11 +26,11 @@ Administratörer kan åsidosätta Marketos fasta prioritet för utlösarkampanje
 
 ## Åsidosätt prioritet
 
-1. Klicka på **[!UICONTROL Schedule]** fliken i utlösarkampanjen och klicka sedan på **[!UICONTROL Override Priority]**.
+1. Klicka på fliken **[!UICONTROL Schedule]** i utlösarkampanjen och klicka sedan på **[!UICONTROL Override Priority]**.
 
    ![Bild ett](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-1.png)
 
-1. Välj en ny prioritetsnivå i listrutan. Klicka **[!UICONTROL Confirm]**.
+1. Välj en ny prioritetsnivå i listrutan. Klicka på **[!UICONTROL Confirm]**.
 
    ![Bild två](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-2.png)
 
@@ -38,7 +38,7 @@ Administratörer kan åsidosätta Marketos fasta prioritet för utlösarkampanje
 
 >[!NOTE]
 >
->* Du kan visa kampanjens standardprioritet i [!UICONTROL Campaign Queue] listan under [!UICONTROL Marketing Activities]. Vi rekommenderar att du ställer in kampanjprioriteten på en nivå som är högre än standardnivån för att öka exekveringsfrekvensen.
+>* Du kan visa kampanjens standardprioritet i [!UICONTROL Campaign Queue] under [!UICONTROL Marketing Activities]. Vi rekommenderar att du ställer in kampanjprioriteten på en nivå som är högre än standardnivån för att öka exekveringsfrekvensen.
 >* Prioriteten för användarinställningen gäller endast nya personer som är kvalificerade för kampanjen. Personer som redan är i kö påverkas inte.
 
 
@@ -48,13 +48,13 @@ Administratörer kan åsidosätta Marketos fasta prioritet för utlösarkampanje
 
    ![Bild fyra](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-4.png)
 
-1. Bekräfta genom **[!UICONTROL Reset]** att klicka.
+1. Bekräfta genom att klicka på **[!UICONTROL Reset]**.
 
    ![Bild fem](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-5.png)
 
 >[!NOTE]
 >
->Prioritetsåsidosättningar och -återställningar sparas i granskningsspåret. Du kan visa [granskningsspåret](https://docs.marketo.com/x/GZ2t) genom [!UICONTROL Admin] området Klassisk.
+>Prioritetsåsidosättningar och -återställningar sparas i granskningsspåret. Du kan visa [granskningsspåret](https://docs.marketo.com/x/GZ2t) genom [!UICONTROL Admin]-området i Classic Experience.
 
 ## Åsidosätt åtkomst med Bevilja prioritet
 
@@ -62,24 +62,24 @@ Administratörer kan åsidosätta Marketos fasta prioritet för utlösarkampanje
 >
 >Endast administratörer eller användare med administratörsansvar bör ha åtkomst till åsidosättande av kampanjprioritet.
 
-1. Klicka i [!UICONTROL Admin] området **[!UICONTROL Users & Roles]**.
+1. Klicka på **[!UICONTROL Users & Roles]** i området [!UICONTROL Admin].
 
    ![Bild sex](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-6.png)
 
-1. Klicka på **[!UICONTROL Roles]** fliken, markera den användare som du vill ge åtkomst till och klicka sedan på **[!UICONTROL Edit Role]**.
+1. Klicka på fliken **[!UICONTROL Roles]**, markera den användare som du vill ge åtkomst till och klicka sedan på **[!UICONTROL Edit Role]**.
 
    ![Bild sju](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-7.png)
 
-1. Under [!UICONTROL Access Marketing Activities], kolla **[!UICONTROL Edit Trigger Campaign Priority]**. Klicka **[!UICONTROL Save]**.
+1. Markera **[!UICONTROL Edit Trigger Campaign Priority]** under [!UICONTROL Access Marketing Activities]. Klicka på **[!UICONTROL Save]**.
 
    ![Bild åtta](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-8.png)
 
 ## Visa kampanjprioritet i Marketo Classic
 
-Du kan visa kampanjprioritet i [!DNL Classic] upplevelsen genom att klicka på **[!UICONTROL Schedule]** fliken i en utlösarkampanj.
+Du kan visa kampanjprioritet i [!DNL Classic]-upplevelsen genom att klicka på fliken **[!UICONTROL Schedule]** i en utlösarkampanj.
 
 ![Bild nio](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-9.png)
 
 >[!NOTE]
 >
->Prioriteten i upplevelsen är bara att visa [!DNL Classic] . Det går bara att ändra eller återställa kampanjens prioritet via Marketo Sky.
+>Prioriteten i [!DNL Classic]-upplevelsen är endast synlig. Det går bara att ändra eller återställa kampanjens prioritet via Marketo Sky.
