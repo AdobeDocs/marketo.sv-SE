@@ -17,7 +17,7 @@ När en person har fått allt innehåll i en ström har den uttömt alla möjlig
 
 ## Medlem i Engagement Program-filtret {#member-of-engagement-program-filter}
 
-1. Skapa en ny smart lista och sök och dra sedan i filtret **Medlem i engagemangsprogrammet** .
+1. Skapa en ny smart lista och sök och dra sedan i filtret **Member of Engagement Program**.
 
    ![](assets/image2014-9-15-18-20-0.png)
 
@@ -25,11 +25,11 @@ När en person har fått allt innehåll i en ström har den uttömt alla möjlig
 
    ![](assets/image2014-9-15-18-3a20-3a11.png)
 
-1. Under **Lägg till begränsning** väljer du **Utfyllt innehåll**.
+1. Välj **Utfyllt innehåll** under **Lägg till begränsning**.
 
    ![](assets/image2014-9-15-18-3a20-3a17.png)
 
-1. Ställ in **Utfyllt innehåll** till **true**.
+1. Ange **Utfyllt innehåll** till **true**.
 
    ![](assets/image2014-9-15-18-3a20-3a21.png)
 
@@ -37,15 +37,15 @@ När en person har fått allt innehåll i en ström har den uttömt alla möjlig
 
 ## Fliken Medlemmar {#members-tab}
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/ma.png)
 
-1. Välj ditt engagemangsprogram och gå till fliken **Medlemmar** .
+1. Välj ditt engagemangsprogram och gå till fliken **Medlemmar**.
 
    ![](assets/memberstab.jpg)
 
-1. Lägg märke till kolumnen med namnet **Utfyllt innehåll**.
+1. Lägg märke till kolumnen **Utsträckt innehåll**.
 
    ![](assets/image2014-9-15-18-3a21-3a7.png)
 
