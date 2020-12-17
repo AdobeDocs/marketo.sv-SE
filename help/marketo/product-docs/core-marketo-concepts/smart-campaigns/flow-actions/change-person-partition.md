@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Översikt {#overview}
 
-Om du använder [arbetsytor och partitioner](http://docs.marketo.com/x/9QMk)bör du skapa smarta kampanjer för att flytta personer från en partition till en annan.
+Om du använder [arbetsytor och partitioner](http://docs.marketo.com/x/9QMk) bör du skapa smarta kampanjer för att flytta personer från en partition till en annan.
 
 ![](assets/one-3.png)
 
