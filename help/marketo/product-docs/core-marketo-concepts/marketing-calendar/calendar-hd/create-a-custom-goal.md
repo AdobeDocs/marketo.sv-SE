@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Målen är sätt att följa utvecklingen och motivera ert team. När de har skapats måste de uppdateras manuellt.
 
-Precis som presentationer är målen [arbetsytespecifika](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+Precis som för presentationer är målen [arbetsyta](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)-specifika.
 
 1. Gå till **kalendern**.
 
@@ -37,11 +37,11 @@ Precis som presentationer är målen [arbetsytespecifika](../../../../product-do
 
    >[!NOTE]
    >
-   >Om målet inte är ett monetärt värde kan du välja **Ingen**.
+   >Om målet inte är ett monetärt värde kan du välja **Inget**.
 
    ![](assets/image2015-3-24-12-3a36-3a0.png)
 
-1. Ange ett värde för **målmålet** och det **aktuella värdet** (om det inte finns något **anger du 0**). Klicka sedan på **Skapa**.
+1. Ange ett värde för **målmålet** och **aktuellt värde** (om det inte finns något, **ange 0**). Klicka sedan på **Skapa**.
 
    ![](assets/image2015-3-24-12-3a39-3a28.png)
 
