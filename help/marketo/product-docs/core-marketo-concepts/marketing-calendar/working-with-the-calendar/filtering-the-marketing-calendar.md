@@ -19,11 +19,11 @@ Använd anmälningstyper, programtaggar eller arbetsytor för att filtrera infor
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. Klicka på **listrutan** Typ **** av post.
+1. Klicka på listrutan **Post** **Typ**.
 
    >[!NOTE]
    >
-   >Standardanmälningstyperna är **Email** **Programs** och **Smart** **Campaigns** **med** ****¥Email¥.
+   >Standardposttyperna är **E-post** **Program** och **Smarta** **Kampanjer** **med** **E-post**.
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 
@@ -33,7 +33,7 @@ Använd anmälningstyper, programtaggar eller arbetsytor för att filtrera infor
 
    >[!TIP]
    >
-   >Beskrivningar av standardposttyperna finns i [Program Schedule View-posttyper](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md).
+   >Mer information om standardposttyperna finns i [Visa posttyper för programscheman](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md).
 
 1. Välj de programtaggar som intresserar dig.
 
