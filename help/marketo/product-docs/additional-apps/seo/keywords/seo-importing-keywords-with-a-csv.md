@@ -11,10 +11,10 @@ ht-degree: 0%
 ---
 
 
-# SEO - Importera nyckelord med en CSV-fil {#seo-importing-keywords-with-a-csv}
+# SEO - Importera nyckelord med en CSV {#seo-importing-keywords-with-a-csv}
 
-1. Du kan [lägga till nyckelord](seo-add-keywords.md) manuellt, [hämta nyckelordsförslag](seo-get-suggested-keywords.md) och till och med importera nyckelord från en CSV-fil. Så här gör du importen.
-1. Gå till avsnittet **Nyckelord** .
+1. Du kan [lägga till nyckelord](seo-add-keywords.md) manuellt, [hämta nyckelordsförslag](seo-get-suggested-keywords.md) och även importera nyckelord från en CSV-fil. Så här gör du importen.
+1. Gå till avsnittet **Nyckelord**.
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-11-3a44-3a42.png)
 
-1. Klicka på **Välj fil**.
+1. Klicka på **Välj Arkiv**.
 
    ![](assets/image2014-9-18-11-3a44-3a46.png)
 
