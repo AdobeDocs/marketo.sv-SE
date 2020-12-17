@@ -21,7 +21,7 @@ I e-postredigeraren 2.0 är en modul en del av e-postmeddelandet som definieras 
 
    >[!NOTE]
    >
-   >De flesta av Marketo Starter-mallarna innehåller moduler. Du kan också [skapa egna](http://docs.marketo.com/display/DOCS/Email+Template+Syntax#EmailTemplateSyntax-Modules).
+   >De flesta av Marketo Starter-mallarna innehåller moduler. Du kan också [skapa en egen](http://docs.marketo.com/display/DOCS/Email+Template+Syntax#EmailTemplateSyntax-Modules).
 
 1. Klicka på **Moduler** till höger om e-postmeddelandet.
 
@@ -59,7 +59,7 @@ Det finns två sätt att flytta en modul.
 
    ![](assets/nine-2.png)
 
-1. Klicka på kugghjulsikonen och välj **Flytta uppåt** eller **Flytta nedåt**, beroende på var du vill att modulen ska placeras.
+1. Klicka på kugghjulsikonen och välj **Flytta upp** eller **Flytta ned**, beroende på var du vill att modulen ska vara.
 
    ![](assets/ten-2.png)
 
