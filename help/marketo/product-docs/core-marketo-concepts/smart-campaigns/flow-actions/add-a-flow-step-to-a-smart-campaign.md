@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Flödesstegen talar om för Marketo vad du vill ska hända med en grupp personer som är kvalificerade. Det är dina instruktioner, och den smarta kampanjen kommer att göra dina bud!
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -47,7 +47,7 @@ Skriv om du vill söka efter ett flödessteg och sedan dra och släppa det på a
    >**Påminnelse**
    >
    >
-   >Flödessteg utförs i den ordning som de anges.  [Ändra ordning på flödesstegen](add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) för att säkerställa att de är i rätt sekvens.
+   >Flödessteg utförs i den ordning som de anges.  [Ändra ordning på flödesstegen ](add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) för att säkerställa att de är i rätt sekvens.
 
    >[!TIP]
    >
