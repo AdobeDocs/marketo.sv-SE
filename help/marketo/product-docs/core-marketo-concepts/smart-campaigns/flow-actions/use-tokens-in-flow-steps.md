@@ -18,7 +18,7 @@ ht-degree: 0%
 >* [Lägg till ett flödessteg i en smart kampanj](add-a-flow-step-to-a-smart-campaign.md)
 
 
-En variabel är en variabel. Ni använder det i [e-postmeddelanden](https://docs.marketo.com/pages/viewpage.action?pageId=557076), [landningssidor](https://docs.marketo.com/pages/viewpage.action?pageId=2359689)och [smarta kampanjer](https://docs.marketo.com/display/DOCS/Smart+Lists+and+Lists) för att göra livet enklare. Du kan använda [Mina token](../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (anpassade tokens) i flödessteg, på webbhocker, i e-postmeddelanden och på landningssidor.  Du kan använda variabler för att inkludera variabelt innehåll i dessa flödessteg:
+En variabel är en variabel. Du kan använda den i [e-postmeddelanden](https://docs.marketo.com/pages/viewpage.action?pageId=557076), [landningssidor](https://docs.marketo.com/pages/viewpage.action?pageId=2359689) och [smarta kampanjer](https://docs.marketo.com/display/DOCS/Smart+Lists+and+Lists) för att göra livet enklare. Du kan använda [Mina token](../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (anpassade tokens) i flödessteg, webbhooks, e-post och landningssidor.  Du kan använda variabler för att inkludera variabelt innehåll i dessa flödessteg:
 
 * Ändra datavärde
 * Intressant stund
@@ -32,13 +32,13 @@ En variabel är en variabel. Ni använder det i [e-postmeddelanden](https://docs
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
-1. Börja skriva i flödessteget `{{` för att hämta tokategorier. ![](assets/image2014-9-22-14-3a3-3a17.png)>
+1. I flödessteget börjar du skriva `{{` för att hämta tokategorier. ![](assets/image2014-9-22-14-3a3-3a17.png)
 
    >[!NOTE]
    >
    >**Djupdykning**
    >
-   >Se [Token Overview](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) för en lista över flera tillgängliga tokens.
+   >Se [Översikt över token](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) för en lista över flera tillgängliga token.
 
 1. Fortsätt skriva tills du hittar den variabel du vill ha och klicka för att välja.
 
