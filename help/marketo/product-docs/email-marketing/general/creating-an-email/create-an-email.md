@@ -21,7 +21,7 @@ Det finns två sätt att skapa e-postmeddelanden i Marketo. Vi tittar på båda.
 
    ![](assets/one-4.png)
 
-1. Klicka på listrutan **Nytt** och välj **Nytt e-postmeddelande**.
+1. Klicka på listrutan **Ny** och välj **Ny e-post**.
 
    ![](assets/two-4.png)
 
@@ -33,7 +33,7 @@ Enkelt! Nu åt andra hållet..
 
 ## Skapa ett e-postmeddelande i marknadsföringsaktiviteter {#create-an-email-in-marketing-activities}
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/three-3.png)
 
@@ -61,7 +61,7 @@ Vilken metod du än väljer kommer du till mallväljaren.
 
    ![](assets/seven-1.png)
 
-   Beroende på vilken mall du har valt har du olika alternativ för att redigera e-postmeddelandet. Om du har e-post med moduler går du till [Lägg till moduler i e-postmeddelandet](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
+   Beroende på vilken mall du har valt har du olika alternativ för att redigera e-postmeddelandet. Om du har e-post med moduler kan du checka ut [Lägg till moduler i din e-post](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
 
 Din e-postadress har skapats, så redigera bort!
 
