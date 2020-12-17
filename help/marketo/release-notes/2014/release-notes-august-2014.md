@@ -17,9 +17,9 @@ Följande funktioner finns i augusti 2014-versionen. Se om din Marketo-utgåva h
 
 ## Licenser för marknadsföringskalender {#marketing-calendar-licenses}
 
-Efter 5 september 2014 kan bara fem användare ha kostnadsfri tillgång till marknadsföringskalendern. Var noga med att [utfärda/återkalla en licens](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) för en marknadsföringskalender till valfria användare innan du gör det, så får du tillgång utan avbrott.
+Efter 5 september 2014 kan bara fem användare ha kostnadsfri tillgång till marknadsföringskalendern. Var noga med att [utfärda/återkalla en licens för en marknadsföringskalender](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) till valfria användare innan dess för oavbruten åtkomst.
 
-![--](assets/image2014-9-16-9-3a45-3a52.png)
+![—](assets/image2014-9-16-9-3a45-3a52.png)
 
 ## Nya användarbehörigheter {#new-user-permissions}
 
@@ -35,7 +35,7 @@ Följande nya användarbehörigheter har lagts till:
 
 ## Exportera användare och roller från administratör {#export-users-and-roles-from-admin}
 
-Du kan nu [exportera en lista med användare och roller](../../product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) från Marketo. Du kan även inkludera en tidsstämpel för senaste inloggning som ska inkluderas i exporten.
+Du kan nu [exportera en lista över användare och roller](../../product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) från Marketo. Du kan även inkludera en tidsstämpel för senaste inloggning som ska inkluderas i exporten.
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
@@ -69,7 +69,7 @@ Du frågade i communityn och vi levererade! Du kan nu inkludera, exkludera eller
 
 ![](assets/image2014-9-16-12-3a23-3a43.png)
 
-## Förbättrad segmentering och målgruppsanpassning i 1:1 {#enhanced-segmentation-and-targeting}
+## Förbättrad segmentering och målgruppsanpassning för 1:1 {#enhanced-segmentation-and-targeting}
 
 Nu kan du använda avancerade filteroperatorer för att rikta in kända besökare.
 
