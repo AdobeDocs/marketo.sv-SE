@@ -20,7 +20,7 @@ Du kan ange en tidsram för när innehållet ska vara aktivt i strömmen.
 
    ![Bild ett](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-1.png)
 
-1. Klicka på **[!UICONTROL Streams]** fliken.
+1. Klicka på fliken **[!UICONTROL Streams]**.
 
    ![Bild två](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-2.png)
 
@@ -32,11 +32,11 @@ Du kan ange en tidsram för när innehållet ska vara aktivt i strömmen.
 
    ![Bild fyra](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-4.png)
 
-1. Välj [!UICONTROL Active From] datum och [!UICONTROL Active Through] datum.
+1. Välj ditt [!UICONTROL Active From]-datum och [!UICONTROL Active Through]-datum.
 
    ![Bild fem](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-5.png)
 
-1. Klicka **[!UICONTROL Save]**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![Bild sex](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-6.png)
 
