@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Du kan enkelt skapa nya körningar av en befintlig smart kampanj direkt från programschemavyn.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-3.png)
 
