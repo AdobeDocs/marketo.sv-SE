@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Visa medlemmar i smarta kampanjer {#view-smart-campaign-members}
+# Visa medlemmar för smarta kampanjer {#view-smart-campaign-members}
 
 Se personer som redan har gått igenom det smarta kampanjflödet. dvs. medlemmar i smarta kampanjer.
 
