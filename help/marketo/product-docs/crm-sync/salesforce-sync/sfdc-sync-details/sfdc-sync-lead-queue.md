@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SFDC-synkronisering: Leadkö {#sfdc-sync-lead-queue}
 
-Med Marketo kan du lägga till personer i [Salesforce-lead-köer](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) för att hjälpa till med lead-distributionen. Här är detaljerna.
+Med Marketo kan du lägga till personer i [Salesforce lead-köer](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) för att hjälpa till med lead-distributionen. Här är detaljerna.
 
 ## Hur tilldelar du en person till en kö i Marketo? {#how-to-assign-a-person-to-a-queue-in-marketo}
 
