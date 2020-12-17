@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Historik för användarinloggning {#user-login-history}
+# Användarinloggningshistorik {#user-login-history}
 
 Användarens inloggningshistorik hjälper till att upprätthålla ansvarighet och säkerhet genom att visa exakt vem som har loggat in på din prenumeration, inklusive misslyckade inloggningsförsök.
 
@@ -33,7 +33,7 @@ Så här visar du användarens inloggningshistorik:
 
    ![](assets/image2016-7-12-9-3a2-3a31.png)
 
-1. Klicka på fliken **Inloggningshistorik** . I listan visas de senaste inloggningarna.
+1. Klicka på fliken **Inloggningshistorik**. I listan visas de senaste inloggningarna.
 
    ![](assets/login-history-tab.jpg)
 
@@ -49,7 +49,7 @@ Så här visar du användarens inloggningshistorik:
 
    ![](assets/filter-select-from-dropdown.jpg)
 
-1. Välj användare i listrutan **Användare** .** **
+1. Välj användare i listrutan **Användare**.** **
 
    ** ![](assets/user-dropdown.jpg)
 
