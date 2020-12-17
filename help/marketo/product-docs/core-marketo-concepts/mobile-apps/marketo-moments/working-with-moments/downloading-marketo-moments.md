@@ -32,7 +32,7 @@ Hämta Marketo Moments från App Store eller Google Play och voila! Marketo magi
 1. Sök efter Marketo Moments och tryck för att ladda ned.\
    ![](assets/image2015-7-14-9-3a6-3a34.png)
 
-1. Tryck på **Godkänn**.\
+1. Tryck på **Acceptera**.\
    ![](assets/image2015-7-7-16-3a41-3a47.png)
 
 1. Tryck på **Installera**.\
