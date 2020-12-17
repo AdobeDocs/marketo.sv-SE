@@ -36,11 +36,11 @@ Tilldela endast Marketo-synkroniseringsanvändarrollen till Marketför att synkr
 
    ![](assets/image2014-12-11-11-3a13-3a29.png)
 
-1. En lista över användare visas här. Välj en dedikerad Marketo-synkroniseringsanvändare eller kontakta [administratören för Active Directory Federation Services (AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx) [för att skapa en ny användare som är dedikerad till Marketo.](http://blogs.technet.com/b/askpfeplat/archive/2014/04/21/introduction-to-active-directory-federation-services-ad-fs-alternateloginid-feature.aspx)
+1. En lista över användare visas här. Välj din dedikerade Marketo-synkroniseringsanvändare eller kontakta din [AFDS-administratör (Active Directory Federation Services)](https://msdn.microsoft.com/en-us/library/bb897402.aspx) [administratör för att skapa en ny användare som är dedikerad till Marketo.](http://blogs.technet.com/b/askpfeplat/archive/2014/04/21/introduction-to-active-directory-federation-services-ad-fs-alternateloginid-feature.aspx)
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
-1. Välj synkroniseringsanvändare. Klicka ![](assets/image2015-3-26-11-3a16-3a22.png)och välj **Hantera roller**
+1. Välj synkroniseringsanvändare. Klicka på ![](assets/image2015-3-26-11-3a16-3a22.png)och välj **Hantera roller**
 
    ![](assets/image2015-3-26-11-3a18-3a6.png)
 
@@ -54,7 +54,7 @@ Tilldela endast Marketo-synkroniseringsanvändarrollen till Marketför att synkr
 
    >[!NOTE]
    >
-   >Uppdateringar som görs i CRM av Synkronisera användare synkroniseras **inte** tillbaka till Marketo.
+   >Alla uppdateringar som görs i CRM av Sync User kommer **inte** att synkroniseras tillbaka till Marketo.
 
 ## Konfigurera Marketo-lösning {#configure-marketo-solution}
 
@@ -72,11 +72,11 @@ Nästan klart! Vi har bara några sista konfigurationer innan vi går vidare til
 
    ![](assets/image2015-3-26-11-3a30-3a20.png)
 
-1. Klicka på fältet **Marketo-användare** och välj synkroniseringsanvändare.
+1. Klicka på fältet **Marketo User** och välj synkroniseringsanvändare.
 
    ![](assets/image2015-3-26-11-3a29-3a13.png)
 
-1. Klicka ![](assets/image2015-3-13-15-3a10-3a11.png) i det nedre högra hörnet för att spara ändringarna.
+1. Klicka på ![](assets/image2015-3-13-15-3a10-3a11.png) längst ned till höger för att spara ändringarna.
 
    ![](assets/image2014-12-11-11-3a15-3a32.png)
 
@@ -86,8 +86,8 @@ Nästan klart! Vi har bara några sista konfigurationer innan vi går vidare til
 
 ## Innan du fortsätter till steg 3 {#before-proceeding-to-step}
 
-* Om du vill begränsa antalet poster som du synkroniserar [ställer du in ett eget synkroniseringsfilter](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) nu.
-* Kör [verifieringsprocessen för Microsoft Dynamics Sync](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) . Den verifierar att dina initiala inställningar har gjorts korrekt.
+* Om du vill begränsa antalet poster som du synkroniserar [skapar du ett anpassat synkroniseringsfilter](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) nu.
+* Kör [Verifiera Microsoft Dynamics Sync](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)-processen. Den verifierar att dina initiala inställningar har gjorts korrekt.
 * Logga in på Marketo Sync User i Microsoft Dynamics CRM.
 
 Bra jobbat!
