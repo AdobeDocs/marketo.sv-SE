@@ -13,8 +13,8 @@ ht-degree: 0%
 
 # SEO - Exportera problem till CSV {#seo-export-issues-to-csv}
 
-1. Du kan exportera dina [sidutgivningsdata](seo-understanding-pages.md) till en CSV-fil om du vill dela den informationen med personer utanför Marketo. Så här gör du.
-1. Gå till avsnittet **Sidor** .
+1. Du kan exportera dina [sidproblem](seo-understanding-pages.md)-data till en CSV-fil om du vill dela informationen med personer utanför Marketo. Så här gör du.
+1. Gå till avsnittet **Sidor**.
 
    ![](assets/image2014-9-18-13-3a16-3a5.png)
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a16-3a8.png)
 
-   Det här är detaljnivån för [sidan nedåt](seo-using-the-page-detail-drill-down.md). **Sidoptimeringsresultat** är en lista med alla problem som gäller den aktuella sidan.
+   Det här är [detaljnivån för sidinformation](seo-using-the-page-detail-drill-down.md). **Sidoptimering** ger en lista över alla problem med den aktuella sidan.
 
    ![](assets/image2014-9-18-13-3a16-3a12.png)
 
