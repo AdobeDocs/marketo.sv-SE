@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Filtrera en programrapport efter periodkostnad {#filter-a-program-report-by-period-cost}
 
-Fokusera på din [programresultatrapport](create-a-program-performance-report.md) under en viss tidsperiod.
+Fokusera din [rapport om programprestanda](create-a-program-performance-report.md) på en viss tidsram för periodkostnad.
 
-1. Gå till **Marknadsföringsaktiviteter****(eller** Analytics ****).
+1. Gå till **Marknadsföring** **Aktiviteter** (eller **Analytics**).
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -27,11 +27,11 @@ Fokusera på din [programresultatrapport](create-a-program-performance-report.md
 
    ![](assets/lm-86194-1.png)
 
-1. Ange datumen **Från** och **Till** för uppkomna kostnader och klicka på **Använd**.
+1. Ange datumen **Från** och **Till** för faktiska kostnader och klicka på **Använd**.
 
    ![](assets/lm-86194-2a-hands.png)
 
-1. Du är klar! Klicka på fliken **Rapport** om du bara vill visa de program som ligger inom den angivna tidskostnadstiden.
+1. Du är klar! Klicka på fliken **Rapport** om du bara vill visa de program som ligger inom den angivna tidskostnadstiden för perioden.
 
    ![](assets/lm-86194-report-tab.png)
 
