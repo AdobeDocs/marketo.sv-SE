@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Förstå programmedlemskap {#understanding-program-membership}
+# Om programmedlemskap {#understanding-program-membership}
 
 >[!NOTE]
 >
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Definition:** En medlem är en person som har status i ett program.
+>**Definition:** En medlem är en person som har en status i ett program.
 
-## Så här blir människor medlemmar i ett program {#how-people-become-members-of-a-program}
+## Så här blir personer medlemmar i ett program {#how-people-become-members-of-a-program}
 
 1. En person fyller i ett [formulär på en landningssida](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) i programmet.
 
@@ -31,10 +31,10 @@ ht-degree: 0%
 
    1. Personen får automatiskt den första statusen i förloppet.
 
-1. Du använder flödessteget [Ändra](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) programstatus.
-1. En person registrerar eller deltar i ett [webbinarium som synkroniseras med ett händelseprogram](/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md).
-1. En person [skapas med hjälp av incheckningsprogrammet](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)Marketo iPad.
-1. En person läggs till i en SFDC-kampanj, som [synkroniseras med programmet](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md).
+1. Du använder flödessteget [Ändra programstatus](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md).
+1. En person registrerar eller deltar i ett [webbinarium som är synkroniserat med ett händelseprogram](/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md).
+1. En person [skapas med Marketo iPad-incheckningsprogrammet](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
+1. En person läggs till i en SFDC-kampanj som är [synkroniserad med programmet](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md).
 
 >[!NOTE]
 >
@@ -58,9 +58,9 @@ Syftet med ett program är att skapa en meningsfull interaktion med personen ell
 >
 >För ett webbinarium är registrering inte en meningsfull interaktion om de inte tittar på webbinariet. Att delta är lyckat i det här fallet.
 
-## Anskaffningsprogram  {#acquisition-program}
+## Anskaffningsprogram {#acquisition-program}
 
-När ett nytt namn kommer in i systemet som programmedlem, anger Marketo automatiskt det programmet som&quot;förvärv&quot;. Detta ger betyg för [förstahandsattribuering](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+När ett nytt namn kommer in i systemet som programmedlem, anger Marketo automatiskt det programmet som&quot;förvärv&quot;. Detta skapar kredit för [First Touch-attribuering](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 >[!MORELIKETHIS]
 >
