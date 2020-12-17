@@ -24,13 +24,13 @@ Det finns två meddelandetyper i integreringen med Slack:
 
 >[!PREREQUISITES]
 >
->Om du inte har Slack systemmeddelanden aktiverat kan du [kontakta support](http://docs.marketo.com/cdn-cgi/l/email-protection#1d6e686d6d726f695d707c6f76786972337e7270).
+>[Kontakta support](http://docs.marketo.com/cdn-cgi/l/email-protection#1d6e686d6d726f695d707c6f76786972337e7270) om du inte redan har Slack System Notifications aktiverat.
 
-1. Gå till **LaunchPoint** och klicka sedan på **Ny tjänst** under **Ny** tjänst.
+1. Gå till **LaunchPoint** och klicka sedan på **Ny tjänst** under &lt;a2/>Nytt **.**
 
    ![](assets/image2017-11-27-14-3a13-3a18.png)
 
-1. Ange ett visningsnamn för integreringen med Slack. I listrutan **Tjänst** väljer du **Slack**. Klicka på **Skapa**.
+1. Ange ett visningsnamn för integreringen med Slack. I listrutan **Service** väljer du **Slack**. Klicka på **Skapa**.
 
    ![](assets/image2017-11-27-15-3a54-3a11.png)
 
@@ -38,7 +38,7 @@ Det finns två meddelandetyper i integreringen med Slack:
 
    ![](assets/image2017-11-27-14-3a16-3a6.png)
 
-1. Ange arbetsytans URL-adress på fliken Slack och klicka på **Fortsätt**.
+1. Ange arbetsytans URL-adress på den nya fliken Slack och klicka på **Fortsätt**.
 
    ![](assets/image2017-11-27-15-3a1-3a29.png)
 
@@ -46,7 +46,7 @@ Det finns två meddelandetyper i integreringen med Slack:
 
    ![](assets/image2017-11-27-15-3a1-3a3.png)
 
-1. I listrutan **Skicka till** väljer du den kanal där du vill att meddelanden från Marknad ska bokföras. Granska de begärda behörigheterna och klicka sedan på **Auktorisera**.
+1. I listrutan **Skicka till** väljer du den kanal där du vill att meddelanden från Marketska ska bokföras. Granska de begärda behörigheterna och klicka sedan på **Auktorisera**.
 
    ![](assets/image2018-1-9-13-3a21-3a50.png)
 
