@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Konfigurera en utlösare smart kampanj för försäljning med&quot;Campaign is Requested&quot; {#setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested}
+# Konfigurera en utlösande smart kampanj för försäljning med hjälp av&quot;Campaign is Requested&quot; {#setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested}
 
 En av de coolaste funktionerna i Marketo är möjligheten att låta säljarna delta i marknadsföringen. De är på framsidan och interagerar med människor. Säljarna bör kunna styra marknadsföringen i rätt riktning.
 
@@ -21,8 +21,8 @@ En av de coolaste funktionerna i Marketo är möjligheten att låta säljarna de
 >
 >Exempel på smarta kampanjer att begära:
 >
->1. **Långsiktig** vårdare - när de inte har någon budget i år, och du bara vill stanna på radarn
->1. **Aktiv försäljningscykel** - när säljaren inte vill ha några meddelanden till personen förutom sin egen. (använd den flagga som anger att marknadsföringen har pausats för att tillfälligt avbryta prenumerationen)
+>1. **Långsiktig**  vårdare - när de inte har någon budget i år och du bara vill stanna på radarn
+>1. **Aktiv försäljningscykel**  - när säljaren inte vill ha några meddelanden till personen förutom sin egen. (använd den flagga som anger att marknadsföringen har pausats för att tillfälligt avbryta prenumerationen)
 
 >
 >
@@ -32,15 +32,15 @@ Var kreativ. Vad vill säljaren automatisera? Fråga dem bara och vrida upp den!
 
    ![](assets/image2015-5-20-16-3a3-3a25.png)
 
-1. Sök och dra **Campaign** **är** **Requested **till arbetsytan.
+1. Sök och dra **kampanj** **är** **Begärd **till arbetsytan.
 
    ![](assets/campaignfilterdrag.png)
 
-1. Källalternativen anger vilken typ av begäran som kommer att utföras. För Salesforce-funktionalitet väljer du **Sales** **Insight**.
+1. Källalternativen anger vilken typ av begäran som kommer att utföras. För Salesforce-funktioner måste du välja **Försäljning** **Insight**.
 
    >[!TIP]
    >
-   >Källoperatorerna är av säkerhetsskäl. Du kan begränsa kampanjen till förfrågningar som bara görs av specifika källor, som andra smarta kampanjer eller utvecklare. Välj **Är något** i den första rutan om du vill tillåta begäranden från alla källor.
+   >Källoperatorerna är av säkerhetsskäl. Du kan begränsa kampanjen till förfrågningar som bara görs av specifika källor, som andra smarta kampanjer eller utvecklare. Välj **Är någon** i den första rutan om du vill tillåta begäranden från alla källor.
    >
    >
    >**Kom ihåg** att genom att välja Sales Insight visas det magiskt i kartongen för försäljning. Överdriv det inte. För många kommer att ignoreras av dem.
