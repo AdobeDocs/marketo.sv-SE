@@ -21,17 +21,17 @@ Sök efter aktiviteter som är viktiga för dig i aktivitetsloggen.
 >
 >Läs mer om [aktivitetsloggen](locate-the-activity-log-for-a-person.md).
 
-1. Gå till sidan **Personinformation** . Klicka på fliken **Aktivitetslogg** .
+1. Gå till sidan **Personinformation**. Klicka på fliken **Aktivitetslogg**.
 
    ![](assets/one.png)
 
-1. Välj listrutan **Filter** .
+1. Välj listrutan **Filter**.
 
    ![](assets/two-3.png)
 
 ## Skapa anpassade filter {#creating-custom-filters}
 
-1. Klicka på listrutan **Filter** . Välj **Egen**.
+1. Klicka på listrutan **Filter**. Välj **Anpassad**.
 
    ![](assets/three-3.png)
 
@@ -47,11 +47,11 @@ Sök efter aktiviteter som är viktiga för dig i aktivitetsloggen.
 
    ![](assets/six-1.png)
 
-## Referera sparade filter {#reference-saved-filters}
+## Referens för sparade filter {#reference-saved-filters}
 
-Du kan komma åt sparade filter i listrutan **Filter** .
+Det går att komma åt sparade filter från listrutan **Filter**.
 
-1. Klicka på listrutan **Filter** . Välj **Egen**.
+1. Klicka på listrutan **Filter**. Välj **Anpassad**.
 
    ![](assets/seven-1.png)
 
