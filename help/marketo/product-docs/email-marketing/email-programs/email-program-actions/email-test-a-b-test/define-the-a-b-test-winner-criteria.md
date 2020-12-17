@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Definiera villkor för A/B-testvinnare {#define-the-a-b-test-winner-criteria}
+# Definiera A/B-test för vinnarvillkor {#define-the-a-b-test-winner-criteria}
 
-När du [lägger till ett A/B-test](add-an-a-b-test.md) i e-postprogrammet måste du välja testtyp, [schemalägga A/B-testet](schedule-the-a-b-test.md)och sedan definiera vinnarkriterierna. Så här avgör du vilket e-postmeddelande som vinner.
+När [du lägger till ett A/B-test](add-an-a-b-test.md) i ditt e-postprogram måste du välja en testtyp, [schemalägga A/B-testet](schedule-the-a-b-test.md) och sedan definiera vinnarvillkoren. Så här avgör du vilket e-postmeddelande som vinner.
 
 >[!PREREQUISITES]
 >
@@ -25,7 +25,7 @@ När du [lägger till ett A/B-test](add-an-a-b-test.md) i e-postprogrammet måst
 
 ## Vinnarvillkor {#winner-criteria}
 
-1. Standardalternativen för **vinnarvillkor** visas först.
+1. Standardalternativen för **Vinnarvillkor** visas först.
 
    ![](assets/image2014-9-12-15-3a51-3a3.png)
 
@@ -33,11 +33,11 @@ När du [lägger till ett A/B-test](add-an-a-b-test.md) i e-postprogrammet måst
    |---|---|
    | **Klickningar** | Som standard är länkar i e-postmeddelanden inbäddade i spårning, vilket gör att du kan se vem som klickade på länken, hur många länkar som klickades osv. |
    | **Klicka för att öppna %** | Procentandel e-postmeddelanden som öppnades och där en länk klickades i e-postmeddelandet. Detta mäter relevansen och sammanhanget för ett e-postmeddelande genom att ta antalet unika klick dividerat med antalet unika öppningar och sedan multiplicera med 100 för att visa det som en procentandel. |
-   | **Engagement Score** | Med hjälp av [engagemangspoängen](http://docs.marketo.com/display/DOCS/Understanding+the+Engagement+Score) kan ni avgöra hur effektivt ert innehåll är. |
+   | **Engagement Score** | Med [engagemangspoängen](http://docs.marketo.com/display/DOCS/Understanding+the+Engagement+Score) kan du avgöra hur effektivt ditt innehåll är. |
 
    >[!TIP]
    >
-   >Om du väljer Engagement Score måste testet köras i minst 24 timmar. Läs mer om hur du [förstår poängen](../../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)för engagemang.
+   >Om du väljer Engagement Score måste testet köras i minst 24 timmar. Läs mer om [att förstå engagemangspoängen](../../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
    Du kan också anpassa villkoren genom att välja Anpassad konvertering och klicka på Redigera.
    ![](assets/image2014-9-12-15-3a51-3a53.png)
@@ -79,7 +79,7 @@ När du [lägger till ett A/B-test](add-an-a-b-test.md) i e-postprogrammet måst
    >**Påminnelse**
    >
    >
-   >Om du gör ett A/B-test för **datum/tid** kan du bara välja **Manuell**.
+   >Om du gör ett **datum/tid** A/B-test kan du bara välja **Manuell**.
 
    När A/B-testet är klart kan Marketo automatiskt skicka det vinnande e-postmeddelandet vid den schemalagda tidpunkten, eller så kan du granska resultatet och bestämma när e-postmeddelandet ska skickas.
 
