@@ -24,13 +24,13 @@ Det finns två meddelandetyper i Workplace-integreringen:
 
 >[!PREREQUISITES]
 >
->Om du inte redan har aktiverat Workplace Notifications [kontaktar du supporten](http://docs.marketo.com/cdn-cgi/l/email-protection#5b282e2b2b34292f1b363a29303e2f3475383436).
+>[Kontakta support](http://docs.marketo.com/cdn-cgi/l/email-protection#5b282e2b2b34292f1b363a29303e2f3475383436) om du inte redan har aktiverat Workplace Notifications.
 
-1. Gå till **LaunchPoint** och klicka sedan på **Ny tjänst** under **Ny** tjänst.
+1. Gå till **LaunchPoint** och klicka sedan på **Ny tjänst** under &lt;a2/>Nytt **.**
 
    ![](assets/image2017-11-27-14-3a13-3a18-1.png)
 
-1. Ange ett visningsnamn för integreringen av arbetsytan. I listrutan **Tjänst** väljer du **Arbetsplats via Facebook**. Klicka på **Skapa**.
+1. Ange ett visningsnamn för integreringen av arbetsytan. I listrutan **Tjänst** väljer du **Arbetsplats av Facebook**. Klicka på **Skapa**.
 
    ![](assets/newservice.png)
 
