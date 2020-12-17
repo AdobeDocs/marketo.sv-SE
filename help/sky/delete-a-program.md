@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Så här tar du bort ett program.
 
-1. Hitta det program du vill ta bort och välj sedan **[!UICONTROL Delete]** i [!UICONTROL Program Actions] listrutan.
+1. Hitta det program du vill ta bort och välj sedan **[!UICONTROL Delete]** i listrutan [!UICONTROL Program Actions].
 
    ![Bild ett](/help/sky/assets/programs/delete-a-program/delete-a-program-1.png)
 
-1. Granska biverkningarna av borttagningen av programmet och kontrollera sedan **[!UICONTROL Delete all the items listed above]**. Klicka **[!UICONTROL Submit]**.
+1. Granska biverkningarna av borttagningen av programmet och kontrollera sedan **[!UICONTROL Delete all the items listed above]**. Klicka på **[!UICONTROL Submit]**.
 
    ![Bild två](/help/sky/assets/programs/delete-a-program/delete-a-program-2.png)
 
@@ -30,4 +30,4 @@ Så här tar du bort ett program.
 
 >[!CAUTION]
 >
->Om du tar bort ett program tas alla associerade data bort. Om du vill bevara data kan du [placera programmet i en arkivmapp](/help/sky/archive-a-program.md) i stället.
+>Om du tar bort ett program tas alla associerade data bort. Om du vill bevara data kan du i stället placera programmet i en arkivmapp[.](/help/sky/archive-a-program.md)
