@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Ordlista för operatorer för smarta listfilter {#smart-list-filter-operators-glossary}
 
-En operator är en del av den [smarta listan](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) som hjälper dig att få reda på mer. Du kan beskriva filtret eller utlösaren på ett enkelt språk. De tillgängliga operatorerna är olika för varje fälttyp.\
+En operator är en del av [den smarta listan](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) som hjälper dig att bli specifik. Du kan beskriva filtret eller utlösaren på ett enkelt språk. De tillgängliga operatorerna är olika för varje fälttyp.\
 Här är en ordlista som beskriver varje uppsättning operatorer.
 
 ## Datumfält {#date-fields}
@@ -51,11 +51,11 @@ Skriv bara in numret och enheten så fungerar det!
 
 >[!NOTE]
 >
->Tidigare **omfattar** det datum (fram till tidpunkten, inte efter) som du skapar den smarta listan.
+>Tidigare **omfattar** den dag (fram till tidpunkten, inte efter) som du skapar den smarta listan.
 
 >[!CAUTION]
 >
->När du skapar en smart lista med ett datumfältsfilter (t.ex. Födelsedatum, Skapat den SFDC) och använder begränsningarna **före** eller **före** eller före, kommer den smarta listan även att omfatta personer som inte har något värde i det datumfältet.
+>När du skapar en smart lista med ett datumfältfilter (t.ex. Födelsedatum, SFDC Skapat den) och använder begränsningarna **före** eller **på eller före**, kommer den smarta listan även att innehålla personer som inte har något värde i det datumfältet.
 
 Använd följande diagram för att förstå skillnaden mellan datumoperatorerna.
 
