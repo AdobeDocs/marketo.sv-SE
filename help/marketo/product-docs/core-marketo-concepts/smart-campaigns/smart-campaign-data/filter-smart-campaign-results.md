@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Filtrera resultat för smarta kampanjer {#filter-smart-campaign-results}
+# Filtrera resultat för smart kampanj {#filter-smart-campaign-results}
 
 >[!PREREQUISITES]
 >
@@ -25,7 +25,7 @@ Filtrera resultaten från smarta kampanjer för att se specifika aktiviteter som
 
 ## Filtrera efter sparade filter {#filter-by-saved-filters}
 
-1. Klicka på **Filter** på fliken **Resultat** av smarta kampanjer och välj ett sparat filter.
+1. Klicka på **Filter** och välj ett sparat filter på fliken **Resultat**.
 
    ![](assets/resultsfilter-hands.png)
 
@@ -35,7 +35,7 @@ Filtrera resultaten från smarta kampanjer för att se specifika aktiviteter som
 
 ## Skapa ett eget filter {#create-a-custom-filter}
 
-1. Klicka på **Filter** och sedan på **Egen**.
+1. Klicka på **Filter** och sedan **Egen**.
 
    ![](assets/filterscustom-hands.png)
 
@@ -45,7 +45,7 @@ Filtrera resultaten från smarta kampanjer för att se specifika aktiviteter som
 
    >[!TIP]
    >
-   >Klicka på **Använd** om du vill använda ett eget filter direkt på resultatet utan att spara det.
+   >Klicka på **Använd** om du vill använda ett anpassat filter direkt på resultatet utan att spara det.
 
 1. Ange ett filternamn och klicka på **Spara**.
 
