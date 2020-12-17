@@ -16,19 +16,19 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Skapa ett e-postprogram](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definiera en publik med en smart lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) eller [Definiera en publik genom att importera en lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Definiera en målgrupp med en smart ](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) lista  [Definiera en målgrupp genom att importera en lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
    >
    >
-* [Välj en befintlig e-postadress](choose-an-existing-email.md) eller [skapa en e-postadress för ett e-postprogram](create-an-email-for-an-email-program.md)
+* [Välj en befintlig ](choose-an-existing-email.md) e-postadress  [Skapa ett e-postmeddelande för ett e-postprogram](create-an-email-for-an-email-program.md)
 
 >
 
 
 
-När e-postprogrammet har skapats, målgruppen har definierats och e-postmeddelandet har valts, vill du tala om för programmet *när* e-postmeddelandet ska skickas. Så här gör du.
+När ditt e-postprogram har skapats, målgruppen har definierats och e-postmeddelandet har valts, vill du att ditt program *anger när* ska skicka e-postmeddelandet. Så här gör du.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -36,7 +36,7 @@ När e-postprogrammet har skapats, målgruppen har definierats och e-postmeddela
 
    ![](assets/selectemailprogram-1.jpg)
 
-1. Ange datumet under **rutan Schema** .
+1. Ange datumet under rutan **Schema**.
 
    ![](assets/image2017-12-5-14-3a4-3a28.png)
 
@@ -44,7 +44,7 @@ När e-postprogrammet har skapats, målgruppen har definierats och e-postmeddela
 
    ![](assets/image2017-12-5-14-3a3-3a58.png)
 
-1. Du kan också välja att använda funktionerna [Mottagarens tidszon](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) och/eller [Huvudstart](head-start-for-email-programs.md) .
+1. Du kan också välja att använda funktionerna [Mottagarens tidszon](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) och/eller [Startpunkt](head-start-for-email-programs.md).
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 
