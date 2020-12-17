@@ -23,15 +23,15 @@ Genom att blockera uppdateringar av ett fält kan du skriva till fältet en gån
 
    ![](assets/image2014-9-24-13-3a54-3a40.png)
 
-1. Leta reda på fältet, markera det och klicka sedan på **Blockera fältuppdateringar** under **Fältåtgärder**.
+1. Leta reda på fältet, markera det och klicka sedan på **Blockera fältuppdateringar** under &lt;a0/>Fältåtgärder&lt;a1/>.****
 
    ![](assets/two-1.png)
 
-1. Markera de **indatakällor** som du vill blockera och klicka på **Använd**.
+1. Markera **de indatakällor** som du vill blockera och klicka på **Använd**.
 
    ![](assets/image2014-9-24-13-3a55-3a16.png)
 
    >[!CAUTION]
    >
-   >När du utför en listimport visas statusen för ett fält som blockeras i importförhandsvisningen endast om fältet identifieras automatiskt av Marketo baserat på namnet på det fält som matchar **exakt** (eller om alias har upprättats). Om fältet väljs manuellt från listrutan Marketfält visas inte spärrstatusen i importförhandsvisningen, men uppdateringsblockering för det fältet kommer fortfarande att implementeras.
+   >När du utför en listimport visas statusen för ett fält som blockeras i importförhandsvisningen endast om fältet identifieras automatiskt av Marketo baserat på namnet på fältet som matchar **exakt** (eller om alias har upprättats). Om fältet väljs manuellt från listrutan Marketfält visas inte spärrstatusen i importförhandsvisningen, men uppdateringsblockering för det fältet kommer fortfarande att implementeras.
 
