@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# Automatisera en avisering om möjliga dubbletter av personer {#automate-an-alert-for-possible-duplicate-people}
+# Automatisera en varning för möjliga dubblettpersoner {#automate-an-alert-for-possible-duplicate-people}
 
 Vill du få en varning varje gång en dubblettperson skapas? Så här konfigurerar du en smart kampanj för att göra det.
 
 1. [Skapa en ny smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md). Definiera följande smarta lista:
 
 * Utlösare: **Personen är skapad**
-* Filter: **Duplicera fält.** Fältnamnet **är fullständigt namn**
+* Filter: **Duplicera fält.** Fältnamnet  **är fullständigt namn**
 
    ![](assets/image2017-3-27-8-3a22-3a4.png)
 
@@ -26,13 +26,13 @@ Vill du få en varning varje gång en dubblettperson skapas? Så här konfigurer
    >
    >Var kreativ. Experimentera med olika fält för att få bättre filtreringsresultat.
 
-1. I flödessteget väljer du åtgärden [Skicka varningsflöde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) .
+1. Välj flödesåtgärden [Skicka varning](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) i flödessteget.
 
    ![](assets/image2017-3-27-8-3a24-3a8.png)
 
    >[!TIP]
    >
-   >Använda [skicka aviseringsinformation-token](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) för att inkludera en länk till personen i CRM.
+   >Använd [Skicka aviseringsinformationstoken](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) för att inkludera en länk till personen i CRM.
 
    >[!CAUTION]
    >
@@ -40,7 +40,7 @@ Vill du få en varning varje gång en dubblettperson skapas? Så här konfigurer
    >
    >Två personer med samma namn betyder inte heller automatiskt att de är samma person.
 
-1. Aktivera kampanjen på fliken **Schema** .
+1. Aktivera kampanjen på fliken **Schedule**.
 
    ![](assets/image2017-3-27-8-3a24-3a37.png)
 
