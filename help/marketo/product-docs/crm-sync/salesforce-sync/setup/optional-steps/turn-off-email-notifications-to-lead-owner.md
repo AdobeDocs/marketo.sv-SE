@@ -27,7 +27,7 @@ Du kan inaktivera de automatiska e-postmeddelanden som skickas till Leadägare i
 
    ![](assets/salesforcesummary2.jpg)
 
-1. Avmarkera rutan **Skicka e-postmeddelande till ägaren i Salesforce när lead tilldelas** . Klicka på **Spara**.
+1. Avmarkera rutan **Skicka e-postmeddelande till ägaren i Salesforce vid lead-tilldelning**. Klicka på **Spara**.
 
    ![](assets/new-screen.png)
 
