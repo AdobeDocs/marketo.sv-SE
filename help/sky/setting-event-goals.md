@@ -23,12 +23,12 @@ Ge evenemangen specifika mål och se hur de fungerar.
 
    ![Bild ett](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-1.png)
 
-1. Ge händelsen ett [!UICONTROL Name]namn, markera [!UICONTROL Destination] mappen och [!UICONTROL Channel].
+1. Ge händelsen ett [!UICONTROL Name], markera mappen [!UICONTROL Destination] och [!UICONTROL Channel].
 
    ![Bild två](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-2.png)
 
-1. Ange målet för [!UICONTROL Registered] och [!UICONTROL Attended]klicka sedan på **[!UICONTROL Create]** ([!UICONTROL Description] och [!UICONTROL Labels] är valfria).
+1. Ange målet för [!UICONTROL Registered] och [!UICONTROL Attended] och klicka sedan på **[!UICONTROL Create]** ([!UICONTROL Description] och [!UICONTROL Labels] är valfria).
 
    ![Bild ett](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-3.png)
 
-Och det är allt! Kontrollera status för händelsemål genom att klicka på [!UICONTROL Reports] fliken.
+Och det är allt! Kontrollera status för händelsemål genom att klicka på fliken [!UICONTROL Reports].
