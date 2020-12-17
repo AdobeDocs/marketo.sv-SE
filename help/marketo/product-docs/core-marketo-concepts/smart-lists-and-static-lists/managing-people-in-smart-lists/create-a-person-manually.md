@@ -19,7 +19,7 @@ Det finns många sätt att få in en person i Marketo. Så här skapar du en man
 
    ![](assets/db-1.png)
 
-1. Klicka på **Ny person** under **Ny**.
+1. Under **Ny** klickar du på **Ny person**.
 
    ![](assets/two-2.png)
 
