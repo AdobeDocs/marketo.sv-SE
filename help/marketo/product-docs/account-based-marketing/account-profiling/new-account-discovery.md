@@ -21,17 +21,17 @@ Ny kontoidentifiering kan hjälpa dig att hitta nya konton att rikta in dig på 
 
 >[!TIP]
 >
->Vi rekommenderar att du trycker på knappen **Uppdatera befintliga konton** innan du gör en ny kontosökning för att försäkra dig om att du tittar på de senaste data. Uppdateringen kan ta upp till 24 timmar.
+>Vi rekommenderar att du trycker på **Uppdatera befintliga konton** innan du gör en ny kontosökning för att vara säker på att du tittar på de senaste data. Uppdateringen kan ta upp till 24 timmar.
 
 1. Klicka på **ABM** på My Marketo.
 
    ![](assets/one-1.png)
 
-1. Klicka på fliken **Kontoprofilering** .
+1. Klicka på fliken **Kontoprofilering**.
 
    ![](assets/two-2.png)
 
-1. Klicka på fliken **Nya konton** .
+1. Klicka på fliken **Nya konton**.
 
    ![](assets/three-1.png)
 
@@ -49,7 +49,7 @@ Ny kontoidentifiering kan hjälpa dig att hitta nya konton att rikta in dig på 
 
    >[!NOTE]
    >
-   >Om du bara ser ett fåtal konton kan du välja att klicka på enskilda konton och klicka på **Spara valda konton** när du är klar.
+   >Om du bara ser ett fåtal konton kan du klicka på enskilda konton och klicka på **Spara valda konton** när du är klar.
 
 1. Du kan göra din lista till en ny kontolista eller lägga till den i en befintlig. I det här exemplet skapar vi en ny.
 
@@ -65,7 +65,7 @@ Ny kontoidentifiering kan hjälpa dig att hitta nya konton att rikta in dig på 
 
    >[!NOTE]
    >
-   >Du kan bara spara upp till 5 000 konton åt gången. Om sökningen ger 10 000 resultat måste du spara de första 5 000, sedan återställa filtren och spara de följande 5 000. Den **totala** kontogränsen är en miljon.
+   >Du kan bara spara upp till 5 000 konton åt gången. Om sökningen ger 10 000 resultat måste du spara de första 5 000, sedan återställa filtren och spara de följande 5 000. Kontogränsen för **totalt** är en miljon.
 
 1. Klicka på **OK**.
 
@@ -73,5 +73,5 @@ Ny kontoidentifiering kan hjälpa dig att hitta nya konton att rikta in dig på 
 
    >[!TIP]
    >
-   >När dina konton har sparats kan du använda en [matchande målgrupp på LinkedIn](http://docs.marketo.com/x/rYGZAQ) för att rikta in dem.
+   >När dina konton har sparats kan du använda en [matchad målgrupp på LinkedIn](http://docs.marketo.com/x/rYGZAQ) för att ange dem som mål.
 
