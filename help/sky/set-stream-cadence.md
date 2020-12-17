@@ -22,7 +22,7 @@ Ni kan skicka engagemangsinnehåll när ni vill. Till exempel: en gång i veckan
 
    ![Bild ett](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-1.png)
 
-1. Klicka på **[!UICONTROL Streams]** fliken och sedan på **[!UICONTROL Set Cadence]**.
+1. Klicka på fliken **[!UICONTROL Streams]** och sedan på **[!UICONTROL Set Cadence]**.
 
    ![Bild två](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-2.png)
 
@@ -52,7 +52,7 @@ Ni kan skicka engagemangsinnehåll när ni vill. Till exempel: en gång i veckan
 
    >[!TIP]
    >
-   >Du kan ställa in att din cadence ska köras varje dag genom att välja **[!UICONTROL Repeats: Weekly]** / **[!UICONTROL Every: 1 Week]** / **[!UICONTROL On:]** alla dagar.
+   >Du kan ange att din cadence ska köras varje dag genom att välja **[!UICONTROL Repeats: Weekly]** / **[!UICONTROL Every: 1 Week]** / **[!UICONTROL On:]** alla dagar.
 
 1. Välj tid nu. Markera rutan om du vill använda [Mottagarens tidszon](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+with+Recipient+Time+Zone) (d.v.s. leverera enligt lokala tidszoner) och klicka sedan på **[!UICONTROL Save]**.
 
@@ -74,7 +74,7 @@ Så ja! Fortsätt läsa om du vill konfigurera en månadskurs.
 
 ## Månadsvis
 
-1. Välj **[!UICONTROL Monthly]** hur ofta den ska upprepas.
+1. Välj **[!UICONTROL Monthly]** för hur ofta den upprepas.
 
    ![Bild nio](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-9.png)
 
@@ -94,7 +94,7 @@ Så ja! Fortsätt läsa om du vill konfigurera en månadskurs.
    >
    >Du kan också välja veckodag.
 
-1. Välj en [!UICONTROL Time] och klicka **[!UICONTROL Save]**.
+1. Välj en [!UICONTROL Time] och klicka på **[!UICONTROL Save]**.
 
    ![Bild tretton](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-13.png)
 
