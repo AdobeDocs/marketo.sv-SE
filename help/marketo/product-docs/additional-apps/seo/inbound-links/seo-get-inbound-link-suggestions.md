@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # SEO - Hämta förslag på inkommande länk {#seo-get-inbound-link-suggestions}
 
-Marketo kan föreslå vilka inkommande länkar som är värdefulla för er [off-page-optimering](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
+Marketo kan föreslå vilka inkommande länkar som är värdefulla för din [sidoptimering](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
 
-1. Gå till avsnittet **Inkommande länkar** .
+1. Gå till avsnittet **Inkommande länkar**.
 
    ![](assets/image2014-9-18-13-3a20-3a44.png)
 
@@ -27,7 +27,7 @@ Marketo kan föreslå vilka inkommande länkar som är värdefulla för er [off-
 
    ![](assets/image2014-9-18-13-3a21-3a31.png)
 
-1. Markera länkarna. Klicka på **LÄGG TILL MARKERAT**.
+1. Markera länkarna. Klicka på **LÄGG TILL MARKERAD**.
 
    ![](assets/image2014-9-18-13-3a21-3a40.png)
 
