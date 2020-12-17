@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-Med en [!UICONTROL Calendar File] variabel kan du lägga till en länk för kalenderhändelser (.ics) till dina Marketo-e-postmeddelanden och landningssidor. Så här konfigurerar du en för användning i program- och kampanjmappar.
+Med en [!UICONTROL Calendar File]-token kan du lägga till en kalender (.ics)-länk till dina Marketo-e-postmeddelanden och landningssidor. Så här konfigurerar du en för användning i program- och kampanjmappar.
 
-1. Dra en [!UICONTROL My Tokens] token till arbetsytan på fliken **[!UICONTROL Calendar File]** [!UICONTROL Local Tokens] i programmet eller mappen.
+1. Dra en **[!UICONTROL Calendar File]**-token till arbetsytan [!UICONTROL Local Tokens] på fliken [!UICONTROL My Tokens] i programmet eller mappen.
 
    ![Bild ett](/help/sky/assets/my-tokens/my-token-calendar-file/my-token-calendar-file-1.jpg)
 
@@ -28,6 +28,6 @@ Med en [!UICONTROL Calendar File] variabel kan du lägga till en länk för kale
 
    ![Bild tre](/help/sky/assets/my-tokens/my-token-calendar-file/my-token-calendar-file-3.jpg)
 
-1. Ange den associerade länken och välj när du vill skicka händelsemeddelandet. Du kan också ange en valfri beskrivning. Klicka **[!UICONTROL Save]**.
+1. Ange den associerade länken och välj när du vill skicka händelsemeddelandet. Du kan också ange en valfri beskrivning. Klicka på **[!UICONTROL Save]**.
 
    ![Bild fyra](/help/sky/assets/my-tokens/my-token-calendar-file/my-token-calendar-file-4.jpg)
