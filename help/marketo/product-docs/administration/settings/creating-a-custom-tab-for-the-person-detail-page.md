@@ -19,7 +19,7 @@ Om du råkar leta efter en viss uppsättning fält i persondetaljen om och om ig
 
    ![](assets/image2014-9-16-16-3a41-3a41.png)
 
-1. Klicka på fliken **Anpassad layoutare** .
+1. Klicka på fliken **Egen layoutare**.
 
    ![](assets/image2014-9-16-16-3a41-3a55.png)
 
