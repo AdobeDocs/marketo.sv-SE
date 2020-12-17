@@ -29,7 +29,7 @@ AI/ML-modellernas prestanda beror på informationen i din prenumeration. Ju ofta
 
 Prediktiva målgrupper inkluderas och aktiveras automatiskt för instanser som använder prispaket för Prime eller Ultimate. Kontakta din Customer Success Manager om du vill veta mer om hur du får tillgång till den här funktionen.
 
-1. När funktionen har lagts till i instansen navigerar du till **[!UICONTROL Predictive Audiences]** sidan i **[!UICONTROL Admin]** området i [!DNL Marketo Classic].
+1. När funktionen har lagts till i din instans går du till sidan **[!UICONTROL Predictive Audiences]** i **[!UICONTROL Admin]**-området i [!DNL Marketo Classic].
 
 1. Markera **[!UICONTROL Enable Predictive Audiences]** för att aktivera funktionen. Observera att det kan ta upp till 24 timmar för alla processer att slutföra installationen.
 
