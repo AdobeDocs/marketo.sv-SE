@@ -17,11 +17,11 @@ Klona ett program klonar *allt*. Ibland vill du bara klona en resurs. Så här g
 
 >[!NOTE]
 >
->Du måste utföra ytterligare steg för att [klona en testgrupp](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md)för landningssidor.
+>Du måste utföra ytterligare steg för att [klona en testgrupp för landningssidor](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md).
 
 ## Klona en lokal resurs {#clone-a-local-asset}
 
-1. Gå till **Marknadsföringsaktiviteter** och **aktiviteter**.
+1. Gå till **Marknadsföring** **Aktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -39,7 +39,7 @@ Klona ett program klonar *allt*. Ibland vill du bara klona en resurs. Så här g
 
    >[!TIP]
    >
-   >Du kan också klona en resurs till ett annat program. Välj **i listrutan Program** .
+   >Du kan också klona en resurs till ett annat program. Använd listrutan **Program** för att göra ditt val.
 
 1. Bra! Du bör nu se den nya klonade resursen.
 
