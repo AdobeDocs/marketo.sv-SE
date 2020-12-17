@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Versionsinformation: Förbättringar av ABM i april 17 {#release-notes-april-abm-enhancements}
+# Versionsinformation: 17 april-förbättringar av ABM {#release-notes-april-abm-enhancements}
 
 Följande funktioner ingår i den förbättrade versionen från april 2017 av ABM. Se om din Marketo-utgåva har funktioner tillgängliga.
 
@@ -25,7 +25,7 @@ Nu kan du lägga till anpassade fält till konton, mappa dem till CRM och använ
 
 ![](assets/new-custom-field.png)
 
-## Kontobaserade filter i rutnätet för namngivna konton {#account-based-filters-in-the-named-account-grid}
+## Kontobaserade filter i stödrastret för namngivet konto {#account-based-filters-in-the-named-account-grid}
 
 Nu kan du enkelt filtrera dina namngivna konton baserat på en kontolista.
 
