@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO - Optimera specifika sidor med riktade nyckelord {#seo-optimize-specific-pages-with-targeted-keywords}
+# SEO - Optimera specifika sidor med målnyckelord {#seo-optimize-specific-pages-with-targeted-keywords}
 
 Vissa nyckelord fungerar bra med vissa sidor. Så här matchar du det perfekta nyckelordet till den perfekta sidan. Detta ger de mest korrekta data och de bästa rekommendationerna för förbättring.
 
-1. Gå till avsnittet **Sidor** .
+1. Gå till avsnittet **Sidor**.
 
    ![](assets/image2014-9-18-12-3a52-3a28.png)a
 
