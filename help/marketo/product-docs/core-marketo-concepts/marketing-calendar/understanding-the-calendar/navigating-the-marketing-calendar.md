@@ -17,7 +17,7 @@ Det är enkelt att navigera runt i marknadsföringskalendern som en, två, tre!
 
 >[!PREREQUISITES]
 >
->Se till att du har en licens [för](issue-revoke-a-marketing-calendar-license.md) marknadsföringskalender - annars visas inte rutan för marknadsföringskalender i Min marknadsföring.
+>Kontrollera att du har en [licens för marknadsföringskalender](issue-revoke-a-marketing-calendar-license.md) - annars visas inte rutan för marknadsföringskalender i Min marknadsföring.
 
 1. Gå till **marknadsföringskalendern**.
 
@@ -43,7 +43,7 @@ I dagordningsvyn visas alla dina bidrag som en lista.
 
    `
 
-1. Välj vyn **Dagordning** .
+1. Välj vyn **Dagordning**.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
