@@ -18,7 +18,7 @@ Innan du kan synkronisera Microsoft Dynamics 365 och Marketo måste du först in
 >[!CAUTION]
 >
 >* `Do not enable custom entity sync before the initial sync is completed. You will be notified via email once the initial sync is completed.`
->* Om Multi-Factor Authentication (MFA) är aktiverat för Dynamics Sync måste du inaktivera det för att Dynamics ska kunna synkroniseras korrekt med Marketo. Kontakta [Marketo Support](http://nation.marketo.com/community/support_solutions)om du vill ha mer information.
+>* Om Multi-Factor Authentication (MFA) är aktiverat för Dynamics Sync måste du inaktivera det för att Dynamics ska kunna synkroniseras korrekt med Marketo. Kontakta [Marketo Support](http://nation.marketo.com/community/support_solutions) om du vill ha mer information.
 
 >
 
@@ -40,7 +40,7 @@ Innan du kan synkronisera Microsoft Dynamics 365 och Marketo måste du först in
 
    ![](assets/image2015-3-16-16-3a0-3a10.png)
 
-1. Klicka på ![](assets/image2015-5-13-10-3a5-3a8.png) menyn. I listrutan väljer du **Settings **och sedan **Solutions**.
+1. Klicka på ![](assets/image2015-5-13-10-3a5-3a8.png)-menyn. I listrutan väljer du **Settings **och sedan **Solutions**.
 
    ![](assets/image2015-5-13-10-3a4-3a1.png)
 
@@ -50,19 +50,19 @@ Innan du kan synkronisera Microsoft Dynamics 365 och Marketo måste du först in
 
    **
 
-1. Klicka på **Välj fil.** Välj den Marketo Lead Management-lösning du [laddat ned](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klicka på **Nästa**.
+1. Klicka på **Välj Arkiv.** Välj den Marketo Lead Management-lösning du  [laddat ned](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klicka på **Nästa**.
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 
-1. Visa lösningsinformationen och klicka på **Visa information** om lösningspaketet.
+1. Visa lösningsinformationen och klicka på **Visa information om lösningspaketet**.
 
    ![](assets/image2015-10-9-15-3a4-3a16.png)
 
-1. När du har kontrollerat alla detaljer klickar du på **Stäng**.
+1. När du är klar med att kontrollera all information klickar du på **Stäng**.
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
-1. Gå tillbaka till sidan Lösningsinformation och klicka på **Nästa**.
+1. Gå tillbaka till sidan Lösningsinformation och klicka **Nästa**.
 
    ![](assets/image2015-10-9-14-3a59-3a24.png)
 
@@ -90,7 +90,7 @@ Innan du kan synkronisera Microsoft Dynamics 365 och Marketo måste du först in
 
    ![](assets/image2015-3-19-8-3a40-3a38.png)
 
-1. Välj **Marketo Lead Management** och klicka på **Publish All Customizations.**
+1. Välj **Marketo Lead Management** och klicka på **Publicera alla anpassningar.**
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 
