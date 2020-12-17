@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Använd kontrollpanelen för e-postprogram - A/B-testvy {#use-the-email-program-dashboard-a-b-test-view}
 
-Ta reda på hur ert [e-postprogram A/B-test](http://docs.marketo.com/pages/viewpage.action?pageid=2359480) fungerar med den här instrumentpanelen.
+Ta reda på hur ditt [e-postprogram A/B test](http://docs.marketo.com/pages/viewpage.action?pageid=2359480) fungerar med den här instrumentpanelen.
 
 ![](assets/image2014-9-12-16-3a14-3a28.png)
 
@@ -23,7 +23,7 @@ Här ser du det totala antalet levererade och uppdelade efter varianter.
 
 ![](assets/image2014-9-12-16-3a16-3a2.png)
 
-## Klickningar {#clicks}
+## Klicka {#clicks}
 
 Här ser du hur många klick varje variant har.
 
