@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Om du har tillgång till flera Marketo-prenumerationer och vill vara säker på vilken du använder kan du prova att ge var och en ett unikt namn. Namnet visas sedan högst upp på prenumerationssidan.
 
-Om du till exempel arbetar i både produktion och i sandlådeinstanser kan du ge en prenumeration namnet **Marketo Production** och den andra **Marketo Sandbox**.
+Om du till exempel arbetar i både produktion och sandlådeinstanser kan du namnge en prenumeration **Marketo Production** och den andra **Marketo Sandbox**.
 
 ![](assets/image2016-4-8-14-3a34-3a28.png)
 
