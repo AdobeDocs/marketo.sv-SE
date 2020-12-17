@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Konfigurera och lägga till en person {#get-set-up-and-add-a-person}
+# Hämta konfiguration och lägg till en person {#get-set-up-and-add-a-person}
 
 Det finns några saker att göra innan du börjar uppdraget.
 
 ## Steg 1: Logga in på Marketo {#step-log-in-to-marketo}
 
-1. [Logga in på Marketo](https://app.marketo.com) med de inloggningsuppgifter du fått via e-post.
+1. [Logga in på ](https://app.marketo.com) Marketousing the credentials you receive by email.
 
    ![](assets/one.png)
 
@@ -25,7 +25,7 @@ Det finns några saker att göra innan du börjar uppdraget.
 
 Låt oss skapa en mapp som innehåller allt du kommer att göra i uppdragen.
 
-1. Gå till området **Marknadsföringsaktiviteter** .
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/two.png)
 
@@ -45,7 +45,7 @@ Låt oss skapa en mapp som innehåller allt du kommer att göra i uppdragen.
 
 Lägg till dig själv som person i Marketo så att du kan skicka ut testmeddelanden till dig själv senare.
 
-1. Gå till området **Databas** .
+1. Gå till området **Databas**.
 
    ![](assets/db.png)
 
@@ -61,11 +61,11 @@ Lägg till dig själv som person i Marketo så att du kan skicka ut testmeddelan
 
    ![](assets/nine.png)
 
-1. Klicka på fliken **Personer** . Du borde se dig själv i databasen.
+1. Klicka på fliken **Personer**. Du borde se dig själv i databasen.
 
    ![](assets/ten.png)
 
-## Konfigurationen är klar {#set-up-complete}
+## Konfigurera Slutförd {#set-up-complete}
 
 Du är redo att börja ditt första uppdrag!
 
