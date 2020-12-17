@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Marketo-ordlista {#marketo-glossary}
 
-Nedan finns definitioner för många av de termer som du kan stöta på när du använder Marketo. Om du vill begära att en term läggs till skickar du [ett e-postmeddelande](mailto:GRP-Marketo-articlefeedback@adobe.com)till oss.
+Nedan finns definitioner för många av de termer som du kan stöta på när du använder Marketo. [Skicka ett e-postmeddelande](mailto:GRP-Marketo-articlefeedback@adobe.com) om du vill begära att en term ska läggas till.
 
 | **[A](#A)** | **[B](#B)** | **[C](#C)** | **[D](#D)** | **[E](#E)** | **[F](#F)** | **[G](#G)** | **[H](#H)** | **[I](#I)** | **J** | **[K](#K)** | **[L](#L)** | **[M](#M)** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -33,10 +33,10 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Konto</strong></td> 
-   <td colspan="1">Den här termen kan ha olika innebörd:<br>-Din Marketo-instans i sig kan kallas ditt Marketo-konto.<br>-I <strong>ABM</strong>är ett <strong>namngivet konto</strong> ett konto som användaren har fastställt är ett målkonto som han/hon vill föra.<br>-I ABM är ett CRM-konto ett konto som mappas från din länkade <strong>CRM</strong> (konto i <strong>Salesforce</strong>, <strong>MS Dynamics</strong> eller <strong>API</strong>).<br>-I CRM är konton det företag som leder och kontakter är kopplade till.</td> 
+   <td colspan="1">Den här termen kan ha olika betydelser:<br>-Din Marketo-instans kan kallas ditt Marketo-konto.<br>-I  <strong>ABM</strong> är ett  <strong>namngivet </strong> konto ett konto som användaren har bestämt ett målkonto som han/hon vill köra.<br>-I ABM är ett CRM-konto mappat från ditt länkade  <strong>CRM</strong>  (konto i  <strong>Salesforce</strong>,  <strong>MS </strong> Dynamicsor  <strong>API</strong>).<br>-I CRM är konton det företag som leder och kontakter är kopplade till.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/account-based-marketing/setup-abm/account-based-marketing-overview.md" rel="nofollow">Kontobaserad marknadsföring</a> (ABM)</strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/account-based-marketing/setup-abm/account-based-marketing-overview.md" rel="nofollow">Kontobaserad marknadsföring</a>  (ABM)</strong></td> 
    <td colspan="1">En tilläggsfunktion som gör att ni kan rikta in och engagera nyckelkonton på ett mycket samordnat sätt.</td> 
   </tr> 
   <tr> 
@@ -45,15 +45,15 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Kontoprofilering</strong></td> 
-   <td colspan="1">(tidigare AccountAI) I <strong>ABM</strong>kommer befintliga företag i din databas att rangordnas med din Ideal Customer Profile (ICP) och rankningarna läggs till som poäng på dina konton.</td> 
+   <td colspan="1">(tidigare AccountAI) I <strong>ABM</strong>, med din Ideal Customer Profile (ICP), kommer befintliga företag i din databas att rangordnas och rangordningarna läggs till som poäng på dina konton.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/account-based-marketing/setup-abm/account-score.md" rel="nofollow">Kontopoäng</a></strong></td> 
-   <td colspan="1">I <strong>ABM</strong>är det en poäng som tilldelas ett konto för att hjälpa er att fastställa dess nivå av engagemang.</td> 
+   <td colspan="1">I <strong>ABM</strong> är det en poäng som tilldelats ett konto för att hjälpa dig att fastställa dess nivå av engagemang.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Anskaffningsdatum</strong></td> 
-   <td colspan="1">Det datum då en person blir känd i Marketo. Detta datum motsvarar det <strong>förvärvsprogram</strong> som förvärvade personen.</td> 
+   <td colspan="1">Det datum då en person blir känd i Marketo. Detta datum motsvarar <strong>förvärvsprogrammet</strong> som förvärvade personen.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Anskaffningsprogram</strong></td> 
@@ -77,11 +77,11 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Godkänd</strong></td> 
-   <td colspan="1">Används för att bekräfta när en <strong>tillgång</strong> är klar för förbrukning. Resurser kan inte visas offentligt förrän de har godkänts.</td> 
+   <td colspan="1">Används för att bekräfta när en <strong>resurs</strong> är klar för förbrukning. Resurser kan inte visas offentligt förrän de har godkänts.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Tillgång</strong></td> 
-   <td colspan="1">Ett objekt som fungerar som innehåll i din Marketo-instans (t.ex. <strong>e-post</strong>, <strong>landningssida</strong>, <strong>smarta kampanjer</strong>osv.).</td> 
+   <td colspan="1">Ett objekt som fungerar som innehåll i din Marketo-instans (t.ex. <strong>e-post</strong>, <strong>landningssida</strong>, <strong>smart kampanj</strong> osv.).</td> 
   </tr> 
  </tbody> 
 </table>
@@ -107,7 +107,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Blockeringslista</strong></td> 
-   <td colspan="1">En lista över IP-adresser eller domäner som är associerade med sändning av <strong>skräppost</strong>.</td> 
+   <td colspan="1">En lista över IP-adresser eller domäner som är associerade med sändning <strong>spam</strong>.</td> 
   </tr> 
   <tr> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" rel="nofollow"><strong>Blocklist</strong></a></td> 
@@ -137,7 +137,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Campaign</strong></td> 
-   <td colspan="1">"Campaign" kan betyda några saker i Marketo. En <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">kampanj</a> är en kortare term för en smart kampanj. I <strong>Marketo Sales Connect</strong>är <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">kampanjer</a> en serie korrespondenssteg för flera kanaler. I <strong>Webbpersonalisering</strong>är webbkampanjer <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow"></a> anpassade reaktioner som är kopplade till ett visst segment.</td> 
+   <td colspan="1">"Campaign" kan betyda några saker i Marketo. En <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">kampanj</a> är en kortare term för smart kampanj. I <strong>Marketo Sales Connect</strong> är <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">kampanjer</a> en serie korrespondenssteg för flera kanaler. I <strong>Webbpersonalisering</strong> är webbkampanjer<a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow"> anpassade reaktioner som är kopplade till ett visst segment.</a></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md" rel="nofollow">Kampanjaktivitetsrapport</a></strong></td> 
@@ -145,7 +145,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md" rel="nofollow">Resultatrapport för e-postkampanj</a></strong></td> 
-   <td colspan="1">Typ av rapportering som visar e-postresultatstatistik grupperade efter <strong>smart kampanj</strong>.</td> 
+   <td colspan="1">Typ av rapport som visar e-postresultatstatistik grupperade efter <strong>smart kampanj</strong>.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md" rel="nofollow">Campaign-mapp</a></strong></td> 
@@ -153,11 +153,11 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md#cast" rel="nofollow"><strong>Kast</strong></a></td> 
-   <td colspan="1">En sändning är händelsen att skicka e-post från ett <strong>engagemangsprogram</strong>.</td> 
+   <td colspan="1">En sändning innebär att e-post skickas från ett <strong>engagemangsprogram</strong>.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" rel="nofollow"><strong>Kanal</strong></a></td> 
-   <td colspan="1">Typ av marknadsföringsaktivitet som är associerad med ett <strong>program</strong> (t.ex. e-post, <strong>webbinarium, </strong>mässor, reklamprogram, webbreklam osv.). </td> 
+   <td colspan="1">Typ av marknadsföringsaktivitet som är associerad med ett <strong>program</strong> (t.ex. e-post, <strong>webbinarium, </strong>mässor, bildspel, onlinereklam osv.). </td> 
   </tr> 
   <tr> 
    <td><strong>Klicka för att öppna %</strong></td> 
@@ -173,7 +173,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Klona</strong></td> 
-   <td colspan="1">I Marketo kan du duplicera flera olika typer av enheter i instansen. Du kan klona <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">program</a>, en <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">resurs i ett program</a>, en <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">ström</a>med mera.</td> 
+   <td colspan="1">I Marketo kan du duplicera flera olika typer av enheter i instansen. Du kan klona <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">program</a>, en <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">resurs i ett program</a>, en <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">ström</a> och mycket mer.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname-administration.md" rel="nofollow"><strong>CNAME</strong></a></td> 
@@ -185,11 +185,11 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md" rel="nofollow"><strong>Begränsning</strong></a></td> 
-   <td colspan="1">Ett extra villkor som du kan lägga till i smarta <strong>listfilter</strong>/<strong>utlösare </strong>för att begränsa sökningen.</td> 
+   <td colspan="1">Ett extra villkor som du kan lägga till i den smarta listan <strong>filter</strong>/<strong>utlösare </strong>för att begränsa sökningen.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Innehåll</strong></td> 
-   <td colspan="1">En del information som lagts till <strong>resurser</strong>, t.ex. <strong>e-post</strong> eller <strong>landningssidor</strong>. I <strong>engagemangsprogram</strong>finns det två typer av innehåll som du kan <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md#content" rel="nofollow">lägga till i strömmar</a>- e-post och <strong>program</strong>.</td> 
+   <td colspan="1">En del information som lagts till i <strong>resurser</strong>, till exempel <strong>e-post</strong> eller <strong>landningssidor</strong>. I <strong>engagemangsprogram</strong> finns det två typer av innehåll som du kan <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md#content" rel="nofollow">lägga till i strömmar</a> - e-postmeddelanden och <strong>program</strong>.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>ContentAI</strong></td> 
@@ -197,11 +197,11 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md" rel="nofollow"><strong>Innehållsanalys</strong></a></td> 
-   <td colspan="1">Ett område inom <strong>webbpersonalisering</strong> som visar befintligt innehåll från din webbplats samt innehållsprestanda.</td> 
+   <td colspan="1">Ett område i <strong>Webbanpassning</strong> som visar befintligt innehåll från din webbplats, samt innehållsprestanda.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Innehållsengagemangsnivå</strong></td> 
-   <td colspan="1">En poäng på 0 till 100 poäng som Marketo ger ert innehåll i ett <strong>engagemangsprogram</strong>. Poängen avgörs av en avancerad formel med <strong>öppningar</strong>, <strong>klickningar</strong>, <strong>avanmälan</strong>, programframgångar med mera.</td> 
+   <td colspan="1">En poäng på 0 till 100 poäng som Marketo ger ert innehåll i ett <strong>engagemangsprogram</strong>. Poängen bestäms av en avancerad formel som använder <strong>öppnar</strong>, <strong>klickningar</strong>, <strong>avbryter</strong>, slutfört program med mera.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Cookie</strong></td> 
@@ -242,7 +242,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
     <div> 
      <p><strong> Databas</strong></p> 
     </div></td> 
-   <td>En av kärnavsnitten i <strong>Marketo Engage</strong>. Databasen är hemlig till alla dina <strong>personposter</strong> .</td> 
+   <td>En av kärnavsnitten i <strong>Marketo Engage</strong>. Databasen är hemlig för alla dina <strong>person</strong>-poster.</td> 
   </tr> 
   <tr> 
    <td><strong>Deduplicera</strong></td> 
@@ -257,7 +257,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Leverans</strong></td> 
-   <td colspan="1">Möjligheten för ett e-postmeddelande att nå den avsedda mottagarens inkorg, vilket kan påverkas av <strong>skräppost</strong> och filter på klientsidan. Annat än"Levererat", vilket bara anger att e-postmeddelandet har skickats till mottagarservern.</td> 
+   <td colspan="1">Möjligheten för ett e-postmeddelande att nå den avsedda mottagarens inkorg, vilket kan påverkas av <strong>spam</strong> och klientfilter. Annat än"Levererat", vilket bara anger att e-postmeddelandet har skickats till mottagarservern.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Efterfrågegenerering</strong></td> 
@@ -269,23 +269,23 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Design Studio</strong></td> 
-   <td colspan="1">En av kärnavsnitten i <strong>Marketo Engage</strong>. Design Studio är startsida för ditt <strong>material</strong>, till exempel: <strong>landningssidor</strong>, formulär, <strong>e-post</strong>, <strong>kodavsnitt</strong>och bilder/filer.</td> 
+   <td colspan="1">En av kärnavsnitten i <strong>Marketo Engage</strong>. Design Studio är startsida för dina <strong>resurser</strong>, till exempel: <strong>landningssidor</strong>, formulär, <strong>e-post</strong>, <strong>fragment</strong> och bilder/filer.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Dokument</strong></td> 
-   <td colspan="1">Dokumenten är korta för dokument och är hjälpartiklar som kunderna kan använda för att bättre förstå produkten. Marketo har flera olika typer av dokument: Produktdokument (den webbplats du för närvarande är på), <a href="https://experienceleague.adobe.com/docs/marketo/sky/home.html" rel="nofollow">Marketo Sky</a> -dokument, <a href="https://developers.marketo.com/" rel="nofollow">utvecklardokument</a> och <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">supportdokument</a> .</td> 
+   <td colspan="1">Dokumenten är korta för dokument och är hjälpartiklar som kunderna kan använda för att bättre förstå produkten. Marketo har flera olika typer av dokument: Produktdokument (den webbplats du för närvarande är på), <a href="https://experienceleague.adobe.com/docs/marketo/sky/home.html" rel="nofollow">Marketo Sky</a> dokument, <a href="https://developers.marketo.com/" rel="nofollow">Developer</a> dokument och <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Support</a> dokument.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Domänbaserad meddelandeautentisering, rapportering och överensstämmelse (DMARC)</strong></td> 
-   <td colspan="1">En DNS-baserad säkerhetsprofil för e-post som standardiserar <strong>SPF</strong> och <strong>DKIM</strong>, vilket gör att postlådeprovidrar kan validera att e-post som gör anspråk på att komma från en domän kommer från giltiga källor för den domänen. Avsändare kan dessutom ange hur e-post som inte godkänns vid validering ska behandlas.</td> 
+   <td colspan="1">En DNS-baserad säkerhetsprofil för e-post som standardiserar åtgärden och tolkningen av <strong>SPF</strong> och <strong>DKIM</strong>, vilket gör att postlådeprovidrar kan validera att e-post som gör anspråk på att komma från en domän kommer från giltiga källor för den domänen. Avsändare kan dessutom ange hur e-post som inte godkänns vid validering ska behandlas.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" rel="nofollow">Identifierad e-post</a> med domännycklar (DKIM)</strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" rel="nofollow">Identifierad e-post</a>  för domännycklar (DKIM)</strong></td> 
    <td colspan="1">En autentiseringsmekanism som skyddar den sändande domänen och gör det möjligt för avsändare att associera domännamnet i Från-adressen med ett visst e-postmeddelande. Detta gör att mottagaren kan känna till att e-postmeddelandet har skickats lagligen av domänens ägare. En avsändare signerar e-postmeddelandet med en digital signatur i meddelandehuvudet. Mottagaren kan dekryptera signaturen med en offentlig nyckel som publiceras i DNS av domänens ägare för att säkerställa att e-postmeddelandet skickades korrekt av domänens ägare.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Utkast</strong></td> 
-   <td colspan="1"><p>En <strong>e-post</strong> - eller <strong>landningssida</strong> som ännu inte har <strong>godkänts</strong> . Utkast kan inte visas offentligt förrän de har godkänts. Du kan skicka ett utkast som ett test-e-postmeddelande (exempel), men inga analyser registreras. <br></p></td> 
+   <td colspan="1"><p>En <strong>e-postsida</strong> eller <strong>landningssida</strong> som ännu inte har <strong>godkänts</strong>. Utkast kan inte visas offentligt förrän de har godkänts. Du kan skicka ett utkast som ett test-e-postmeddelande (exempel), men inga analyser registreras. <br></p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Drip Campaign</strong></td> 
@@ -293,11 +293,11 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md" rel="nofollow"><strong>Varaktigt avslut</strong></a></td> 
-   <td colspan="1">En överordnad avanmälningsstatus som säkerställer om en person som <strong>avbeställt prenumerationen</strong> tas bort och återskapas, eller om en ny post skapas med en befintlig avbeställd e-postadress, kommer den posten att fortsätta att avbeställa prenumerationen.</td> 
+   <td colspan="1">En överordnad avanmälningsstatus som säkerställer om en <strong>person som avbeställt</strong> tas bort och återskapas, eller om en ny post skapas med en befintlig avbeställd e-postadress, kommer den posten att fortsätta att avbeställa prenumerationen.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md" rel="nofollow">Dynamiskt innehåll</a></strong></td> 
-   <td colspan="1">Innehåll (t.ex. bilder, textutdrag, text) som fylls i i ett <strong>e-postmeddelande</strong> eller en <strong>landningssida</strong> baserat på kriterier som du anger, så att du kan anpassa läsarens upplevelse. </td> 
+   <td colspan="1">Innehåll (t.ex. bilder, textutdrag, text) som fylls i i ett <strong>e-postmeddelande</strong> eller <strong>landningssida</strong> baserat på kriterier som du anger, vilket gör att du kan anpassa läsarens upplevelse. </td> 
   </tr> 
  </tbody> 
 </table>
@@ -312,7 +312,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
  <tbody> 
   <tr> 
    <td colspan="1"><strong>E-post</strong></td> 
-   <td colspan="1">I Marketo är en av de <strong>resurser</strong> som är tillgängliga för att kommunicera med kunderna. E-postmeddelanden kan vara HTML (grafik, anpassat teckensnitt osv.) eller Endast text (rena textmeddelanden utan särskild formatering). Endast HTML-e-post kan spela in "öppningar".</td> 
+   <td colspan="1">I Marketo kan du använda en av <strong>resurserna</strong> för att kommunicera med dina kunder. E-postmeddelanden kan vara HTML (grafik, anpassat teckensnitt osv.) eller Endast text (rena textmeddelanden utan särskild formatering). Endast HTML-e-post kan spela in "öppningar".</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Ogiltig e-postadress</strong></td> 
@@ -327,7 +327,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#email-suspended" rel="nofollow"><strong>E-post pausad</strong></a></td> 
-   <td colspan="1">En status som hindrar en person från att ta emot e-post i 24 timmar efter att ett <strong>hårt studsande</strong> inträffat. Efter 24 timmar kan personen skickas igen. </td> 
+   <td colspan="1">En status som hindrar en person från att ta emot e-post i 24 timmar efter att en <strong>hård studsa</strong> inträffar. Efter 24 timmar kan personen skickas igen. </td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -338,11 +338,11 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md" rel="nofollow"><strong>Engagement Score</strong></a></td> 
-   <td>Poäng baserad på en egen algoritm som tar hänsyn till: engagerat beteende (<strong>öppning</strong>, <strong>klickningar</strong>, programframgångar) och inaktiverat beteende (avsluta prenumeration).</td> 
+   <td>Poäng baserad på en egen algoritm som tar hänsyn till: engagerat beteende (<strong>öppnar</strong>, <strong>klickningar</strong>, slutfört program) och inaktiverat beteende (avsluta prenumeration).</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md" rel="nofollow">Händelse</a></strong></td> 
-   <td>Något som händer för att ni ska kunna kommunicera med era kunder och potentiella kunder. Offlineevent består oftast av sammankomster eller mässor, och online-event är oftast <strong>webbinarier</strong>.</td> 
+   <td>Något som händer för att ni ska kunna kommunicera med era kunder och potentiella kunder. Offlineevent består vanligtvis av sammankomster eller mässor, och onlineevent är vanligen <strong>webbinarier</strong>.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md" rel="nofollow">Evenemangspartner</a></strong></td> 
@@ -353,11 +353,11 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
     <div> 
      <p><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md" rel="nofollow">Event Program</a></strong></p> 
     </div></td> 
-   <td colspan="1">En programtyp i Marketo. Händelseprogram används för att automatisera <strong>händelser</strong>, både online och offline (t.ex. webbinarier, möten, mässor, mässor osv.).  </td> 
+   <td colspan="1">En programtyp i Marketo. Händelseprogram används för att automatisera dina <strong>händelser</strong>, både online och offline (t.ex. webbinarier, möten, mässor osv.).  </td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" rel="nofollow"><strong>Utmattad</strong></a></td> 
-   <td colspan="1">När en person har fått allt innehåll i en engagemangsström. Personer som är markerade som utmattade kommer att vara kvar tills ytterligare <strong>innehåll</strong> läggs till.</td> 
+   <td colspan="1">När en person har fått allt innehåll i en engagemangsström. Personer som är markerade som utmattade kommer att vara kvar tills ytterligare <strong>innehåll</strong> har lagts till.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -376,15 +376,15 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md" rel="nofollow"><strong>Filter</strong></a></td> 
-   <td>Ett verktyg som används i <strong>smarta listor</strong> som gör att du kan begränsa din målgrupp (t.ex. alla i din databas som bor i Kalifornien). Filter kan användas i både <strong>Batch</strong> - och <strong>Trigger-kampanjer</strong>.</td> 
+   <td>Ett verktyg som används i <strong>smarta listor</strong> som gör att du kan begränsa din målgrupp (t.ex. alla i din databas som bor i Kalifornien). Filter kan användas i både <strong>Batch</strong> och <strong>utlösarkampanjer</strong>.</td> 
   </tr> 
   <tr> 
    <td><strong>Flöde</strong></td> 
-   <td><p>Området för en <strong>smart kampanj</strong> som avgör vad som händer med de personer som du har valt via villkoren i den <strong>smarta listan</strong>. Flödet består av ett eller flera <strong>flödessteg</strong>.</p></td> 
+   <td><p>Området för en <strong>smart kampanj</strong> som avgör vad som händer med de personer du har valt via de villkor som anges i <strong>smart lista</strong>. Flödet består av ett eller flera <strong>flödessteg</strong>.</p></td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md" rel="nofollow">Flödessteg</a></strong></td> 
-   <td>Kallas även flödesåtgärd: en åtgärd som utförs för den person/de personer som du har valt (antingen som en del av en <strong>smart kampanj</strong>, en enda flödesåtgärd från en <strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md" rel="nofollow">smart lista</a></strong>eller en enda flödesåtgärd för en person).</td> 
+   <td>Kallas även flödesåtgärd: en åtgärd som utförs för den person/de personer som du har valt (antingen som en del av en <strong>smart kampanj</strong>, en enskild flödesåtgärd från en <strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md" rel="nofollow">smart lista</a></strong> eller en enda flödesåtgärd för en person).</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Landningssida för frihandslayout</strong></td> 
@@ -407,7 +407,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td><strong>Globala resurser</strong></td> 
-   <td>Material som skapats i <strong>Design Studio</strong> för användning i <strong>program</strong> i hela Marketo-instansen. </td> 
+   <td>Resurser skapade i <strong>Design Studio</strong> för användning i <strong>program</strong> i din Marketo-instans. </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Guidad landningssida</strong></td> 
@@ -431,7 +431,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
  </tbody> 
 </table>
 
-## I {#i}
+## K {#i}
 
 <table> 
  <colgroup> 
@@ -441,12 +441,12 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Intressant stund</strong></a></td> 
-   <td><p>I <strong>Marketo Sales Insight</strong>, en förekomst som du anser vara av särskild betydelse (t.ex. när någon besöker en viss sida på webbplatsen klickar du på en viss länk i ett e-postmeddelande) som du vill att ditt säljteam ska vara medvetna om.</p></td> 
+   <td><p>I <strong>Marketo Sales Insight</strong> är en förekomst som du anser vara av särskild betydelse (t.ex. när någon besöker en viss sida på webbplatsen klickar du på en viss länk i ett e-postmeddelande) som du vill att ditt säljteam ska vara medvetna om.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-## K {#k}
+## I {#k}
 
 <table> 
  <colgroup> 
@@ -456,7 +456,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Känd person</strong></a></td> 
-   <td><p>Persondata i Marketo- <strong>databasen</strong> betraktas som kända persondata. Det finns flera olika sätt att ange databasen: CRM-synkronisering, fylla i ett formulär, ange import/manuell inmatning, programmatisk (övriga API-/partnerintegrationer) med mera. Webbbesökare <strong>kodas</strong> först (och är anonyma) via Marketos <strong>Munchkin</strong> -webbspårning och mappas sedan till motsvarande kända personpost när identifierbara åtgärder utförs (t.ex. klickade på en spårad länk i ett Marketo-e-postmeddelande, fyllde i ett formulär med sin e-postadress eller mappas manuellt via Marketo för att associera lead-API:er i både <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead"></a> och <a href="http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/AssociateLeadUsingPOST">Resterande API</a></p></td> 
+   <td><p>Alla persondata i Marketo <strong>databasen</strong> betraktas som kända persondata. Det finns flera olika sätt att ange databasen: CRM-synkronisering, fylla i ett formulär, ange import/manuell inmatning, programmatisk (övriga API-/partnerintegrationer) med mera. Webbbesökare är inledningsvis <strong>cookiekodade</strong> (och anonyma) via Marketos <strong>Munchkin</strong>-webbspårning och mappas sedan till motsvarande kända personpost när identifierbara åtgärder inträffar (t.ex. klickade på en spårad länk i ett Marketo-e-postmeddelande, fyllde i ett formulär med deras e-postadress eller mappas manuellt via Marketto-API:n i Marketch via Marketto-API:n finns i både <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a> och <a href="http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/AssociateLeadUsingPOST">Rest API</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -474,7 +474,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
     <div> 
      <p><strong>Landningssida</strong></p> 
     </div></td> 
-   <td>En Marketo-hostingsida där du kan visa <strong>innehåll</strong> och spåra besökare. Det finns två olika typer: Frihand och guidad. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#free-form-pages" rel="nofollow">Med landningssidor</a> med fritt format kan du dra och släppa allt innehåll du vill, var du vill. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#guided-pages" rel="nofollow">De guidade landningssidorna</a> är mer strikta och har en fördefinierad layout/struktur som bestäms av <strong>mallen</strong>.</td> 
+   <td>En Marketo-hostingsida där du kan visa <strong>innehåll</strong> och spåra besökare. Det finns två olika typer: Frihand och guidad. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#free-form-pages" rel="nofollow">Med </a> landningssidor med valfri form kan du dra och släppa allt innehåll du vill, var du vill. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#guided-pages" rel="nofollow">De guidade </a> landningssidorna är mer strikta, med en fördefinierad layout/struktur som bestäms av  <strong>mallen</strong>.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="https://launchpoint.marketo.com/" rel="nofollow">LaunchPoint</a></strong></td> 
@@ -482,7 +482,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td><strong>Lead</strong></td> 
-   <td>I <strong>Marketo Engage</strong>är lead den föregående termen (ersatt av <strong>person</strong>) som används för att beskriva en individ i din Marketo- <strong>databas</strong> som du interagerar med via era marknadsföringskampanjer. I din <strong>CRM</strong>kan ett lead representera ett annat koncept (dvs. en individ som är associerad med en <strong>affärsmöjlighet</strong>) oberoende av Marketos funktion.</td> 
+   <td>I <strong>Marketo Engage</strong> är lead den föregående termen (ersätts av <strong>person</strong>) som används för att beskriva en individ i din Marketo <strong>databas</strong> som du interagerar med genom dina marknadsföringskampanjer. I din <strong>CRM</strong> kan ett lead representera ett annat koncept (d.v.s. en individ som är associerad med en <strong>möjlighet</strong>) oberoende av Marketos funktion.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Lead-databas</strong></td> 
@@ -493,11 +493,11 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
     <div> 
      <p><strong> Lista</strong></p> 
     </div></td> 
-   <td colspan="1">En samling människor. I Marketo finns det smarta listor och statiska listor. En <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">smart lista</a> är en dynamisk lista med personer som kan ändras hela tiden, eftersom den baseras på filter som du definierar (t.ex. alla i databasen som bor i Kalifornien). När nya personer uppfyller kriterierna (eller befintliga personer inte längre är kvalificerade) ändras listan. En <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">statisk lista</a> är statiska. Den ändras inte om du inte lägger till/tar bort någon manuellt.</td> 
+   <td colspan="1">En samling människor. I Marketo finns det smarta listor och statiska listor. En <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">smart lista</a> är en dynamisk lista över personer som kan ändras hela tiden, eftersom den baseras på filter som du definierar (t.ex. alla i databasen som bor i Kalifornien). När nya personer uppfyller kriterierna (eller befintliga personer inte längre är kvalificerade) ändras listan. En <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">statisk lista</a> är tämligen statisk. Den ändras inte om du inte lägger till/tar bort någon manuellt.</td> 
   </tr> 
   <tr> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>Lokala resurser</strong></a></td> 
-   <td><strong>Resurser</strong> som används inom ett specifikt <strong>program</strong>.</td> 
+   <td><strong>Tillgångar </strong> som används inom ett specifikt  <strong>program</strong>.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -512,7 +512,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
  <tbody> 
   <tr> 
    <td><strong>Marknadsföringsaktiviteter</strong></td> 
-   <td><p>En av kärnavsnitten i Marketo Engage. Det är här som er <strong>kampanjsamordning</strong> sker. Alla era <strong>program</strong>, kampanjer och <strong>kampanjmappar</strong> (och deras <strong>lokala resurser</strong>) finns här.</p></td> 
+   <td><p>En av kärnavsnitten i Marketo Engage. Det är här din <strong>kampanj</strong>-samordning inträffar. Alla dina <strong>program</strong>, kampanjer och <strong>kampanjmappar</strong> (samt deras <strong>lokala resurser</strong>) finns här.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="https://www.marketo.com/marketing-automation/" rel="nofollow"><strong>Marknadsföringsautomatisering</strong></a></td> 
@@ -524,7 +524,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" rel="nofollow"><strong>Marknadsföring har pausats</strong></a></td> 
-   <td colspan="1">Det här fältet ställs in manuellt av <strong>användaren</strong> för att göra någon i sin Marketo- <strong>databas</strong> tillfälligt opostbar.</td> 
+   <td colspan="1">Det här fältet ställs in manuellt av <strong>användaren</strong> för att göra någon i deras Marketo <strong>databas</strong> temporärt opostbar.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Marketo Engage</strong></td> 
@@ -536,10 +536,10 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Marketo Performance Insights (MPI)</strong></td> 
-   <td colspan="1">(se <strong><a href="#p">Prestandainsikter</a></strong>)</td> 
+   <td colspan="1">(se <strong><a href="#p">Performance Insights</a></strong>)</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md" rel="nofollow">Marketo Sales Connect</a> (MSC)</strong></td> 
+   <td><strong><a href="/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md" rel="nofollow">Marketo Sales Connect</a>  (MSC)</strong></td> 
    <td>Ett tilläggsverktyg för försäljning med flera aspekter som hjälper marknadsförarna att engagera sig i framtiden och spåra resultatet.</td> 
   </tr> 
   <tr> 
@@ -552,7 +552,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td><strong>Microsoft Dynamics</strong></td> 
-   <td>Kallas även MSD. En av de två CRM-företagen Marketo har en inbyggd integrering med (se <a href="#c"><strong>CRM</strong></a>).</td> 
+   <td>Kallas även MSD. En av de två CRM:erna Marketo har en inbyggd integrering med (se <a href="#c"><strong>CRM</strong></a>).</td> 
   </tr> 
   <tr> 
    <td><strong><a href="http://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">Munchkin</a></strong></td> 
@@ -564,7 +564,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" rel="nofollow"><strong>Mina token</strong></a></td> 
-   <td colspan="1">Egna variabler som alla kan skapa. De <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md" rel="nofollow">skapas</a> antingen i <strong>kampanjmappar</strong> eller i <strong>program</strong>.</td> 
+   <td colspan="1">Egna variabler som alla kan skapa. De <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md" rel="nofollow">skapas</a> i antingen <strong>kampanjmappar</strong> eller <strong>program</strong>.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -579,7 +579,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
  <tbody> 
   <tr> 
    <td><strong>Namngivet konto</strong></td> 
-   <td><p>I <strong>ABM</strong>är ett konto som användaren har fastställt ett målkonto som han/hon vill föra.</p></td> 
+   <td><p>I <strong>ABM</strong> är ett konto som användaren har fastställt ett målkonto som han/hon vill föra.</p></td> 
   </tr> 
   <tr> 
    <td><strong>Näringsprogram</strong></td> 
@@ -602,11 +602,11 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" rel="nofollow">Driftmeddelande</a></strong></td> 
-   <td colspan="1"> Ett e-postmeddelande som ignorerar statusen <strong>Avbeställ</strong> och <strong>Marknadsföring avbruten</strong> . Meant som ska användas för viktiga eller automatiska e-postmeddelanden. Inte avsedd för marknadsföring. E-postmeddelanden skickas inte till personer med <strong>Blocklist</strong> status eller <strong>e-poststatus ogiltig</strong> . <br></td> 
+   <td colspan="1"> Ett e-postmeddelande som ignorerar <strong>Avbeställ</strong> och <strong>Marknadsföringen har pausats</strong>. Meant som ska användas för viktiga eller automatiska e-postmeddelanden. Inte avsedd för marknadsföring. E-postmeddelanden skickas inte till personer med <strong>Blocklist</strong> eller <strong>E-poststatus ogiltig</strong>. <br></td> 
   </tr> 
   <tr> 
    <td><strong>Möjligheter</strong></td> 
-   <td>En affärsmöjlighet kan kopplas till en <strong>person</strong> eller ett <strong>konto</strong> som en potentiell framtida försäljning. De kommer vanligtvis in på Marketo via en <strong>CRM</strong>eller via <strong>API</strong>.</td> 
+   <td>En affärsmöjlighet kan associeras med en <strong>person</strong> eller <strong>konto</strong> som en potentiell framtida försäljning. De går vanligtvis till Marketo via ett <strong>CRM</strong> eller via <strong>API</strong>.</td> 
   </tr> 
   <tr> 
    <td><strong>Anmäl dig</strong></td> 
@@ -614,7 +614,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td><strong>Avanmäl dig</strong></td> 
-   <td>(se <a href="#u"><strong>avbeställa</strong></a>)</td> 
+   <td>(se <a href="#u"><strong>unsubscribe</strong></a>)</td> 
   </tr> 
  </tbody> 
 </table>
@@ -629,11 +629,11 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
  <tbody> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md" rel="nofollow"><strong>Prestandarapport för människor</strong></a></td> 
-   <td colspan="1">En rapporttyp i Marketo. Det gör att du kan mäta <strong>databasens</strong> tillväxt över tid.</td> 
+   <td colspan="1">En rapporttyp i Marketo. Du kan mäta tillväxten för din <strong>databas</strong> över tiden.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" rel="nofollow"><strong>Periodkostnad</strong></a></td> 
-   <td colspan="1">De pengar ni spenderar under en viss månad på ett <strong>program</strong>.</td> 
+   <td colspan="1">De pengar du spenderar under en viss månad på ett <strong>program</strong>.</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -644,7 +644,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td><strong>Person</strong></td> 
-   <td>En individ i er Marketo- <strong>databas</strong> som ni engagerar med hjälp av marknadsföringskampanjer.</td> 
+   <td>En individ i er Marketo <strong>databas</strong> som ni engagerar med hjälp av marknadsföringskampanjer.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#person-partitions" rel="nofollow">Personpartition</a></strong></td> 
@@ -652,22 +652,22 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/account-based-marketing/using-personas.md" rel="nofollow"><strong>Persona</strong></a></td> 
-   <td colspan="1">I Marketos <strong>kontobaserade marknadsföring</strong>är personer en delmängd av en målgrupp, vilket ger en mer specifik målgruppsanpassning.</td> 
+   <td colspan="1">I Marketos <strong>Account-based Marketing</strong> är profiler en delmängd av en målgrupp, vilket ger en mer specifik målgruppsanpassning.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md" rel="nofollow"><strong>Omröstning</strong></a></td> 
-   <td colspan="1">En omröstning i Marketo är precis som en vanlig omröstning. Skapa ett ämne som folk kan rösta på och dela på era Marketto- <strong>landningssidor</strong>, på er webbplats och/eller i sociala medier.</td> 
+   <td colspan="1">En omröstning i Marketo är precis som en vanlig omröstning. Skapa ett ämne som folk kan rösta på och dela på din Marknad till <strong>landningssidor</strong>, din webbplats och/eller sociala medier.</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <p><strong>Prediktivt innehåll</strong></p> 
     </div></td> 
-   <td>(tidigare kallat ContentAI) En tilläggsfunktion som hjälper Marketo-användare att engagera webbesökare och e-postmottagare med det mest relevanta <strong>innehållet</strong>med hjälp av rekommendationer som bygger på maskininlärning och prediktiv analys.</td> 
+   <td>(kallades tidigare ContentAI) En tilläggsfunktion som hjälper Marketo-användare att engagera webbbesökare och e-postmottagare med det mest relevanta <strong>innehållet</strong>, med rekommendationer som bygger på maskininlärning och prediktiv analys.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md" rel="nofollow">Program</a></strong></td> 
-   <td colspan="1">En behållare som innehåller allt du behöver för att utföra ett marknadsföringsinitiativ. Det finns fyra olika typer: <strong>Event Programs</strong>, <strong>Engagement Programs</strong>, <strong>Email Programs</strong>och <strong>Default Programs</strong>)</td> 
+   <td colspan="1">En behållare som innehåller allt du behöver för att utföra ett marknadsföringsinitiativ. Det finns fyra olika typer: <strong>Händelseprogram</strong>, <strong>Åtagandeprogram</strong>, <strong>E-postprogram</strong> och <strong>Standardprogram</strong>)</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Programmånad</strong></td> 
@@ -675,7 +675,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md" rel="nofollow"><strong>Rapport om programprestanda</strong></a></td> 
-   <td colspan="1">En rapporttyp i Marketo. Det gör att du kan se hur programmen fungerar. Filtrera efter <strong>taggar</strong>, <strong>periodkostnad</strong>osv.</td> 
+   <td colspan="1">En rapporttyp i Marketo. Det gör att du kan se hur programmen fungerar. Filtrera efter <strong>taggar</strong>, <strong>periodkostnad</strong> osv.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -690,7 +690,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md" rel="nofollow"><strong>Kvalificeringsregler</strong></a></td> 
-   <td>När en person uppfyller de förbestämda villkoren i en <strong>smart kampanj</strong>kvalificerar de sig för det. Du kan ange kvalificeringsregler för att bestämma hur många gånger de kan gå igenom <strong>flödet</strong> i den smarta kampanjen.</p></td> 
+   <td>När en person uppfyller de förinställda villkoren i en <strong>smart kampanj</strong> kvalificerar de sig för det. Du kan ställa in kvalificeringsregler för att bestämma hur många gånger de kan gå igenom <strong>flödet</strong> i den smarta kampanjen.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -705,7 +705,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Anseende</strong></td> 
-   <td colspan="1"><p>Ett poängtal som består av olika signaler och/eller datapunkter. Anseendet kan knytas till en avsändares domän, <strong>innehåll</strong>eller IP-adress och påverka <strong>leveransen</strong>.</p></td> 
+   <td colspan="1"><p>Ett poängtal som består av olika signaler och/eller datapunkter. Anseendet kan knytas till en avsändares domän, <strong>innehåll</strong> eller IP-adress och påverkar <strong>leveransbarhet</strong>.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Returadress</strong></td> 
@@ -717,7 +717,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md" rel="nofollow"><strong>Intäktsmodell</strong></a></td> 
-   <td colspan="1">Ett verktyg som används i <strong>RCA (Revenue Cycle Analytics)</strong> och som använder en serie stadier, så att du kan spåra var <strong>leadet</strong> finns vid varje given tidpunkt under konverteringen.</td> 
+   <td colspan="1">Ett verktyg som används i <strong>RCA (Revenue Cycle Analytics)</strong> som använder en serie stadier, vilket gör att du kan spåra var <strong>leadet</strong> finns vid en given tidpunkt under konverteringen.</td> 
   </tr> 
   <tr> 
    <td><strong>Roll</strong></td> 
@@ -740,11 +740,11 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Salesforce</strong></td> 
-   <td colspan="1">Kallas även SFDC. En av de två CRM-företagen Marketo har en inbyggd integrering med (se <a href="#c"><strong>CRM</strong></a>).</td> 
+   <td colspan="1">Kallas även SFDC. En av de två CRM:erna Marketo har en inbyggd integrering med (se <a href="#c"><strong>CRM</strong></a>).</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md" rel="nofollow"><strong>E-postexempel</strong></a></td> 
-   <td colspan="1">Ett <strong>testmeddelande</strong> som du skickar till dig själv (och/eller andra) för att se hur det ser ut innan du skickar det till dina kunder. Du kan också använda exempel för att testa <strong>dynamiskt innehåll</strong>.</td> 
+   <td colspan="1">Ett test <strong>e-postmeddelande</strong> som du skickar till dig själv (och/eller andra) för att se hur det ser ut innan du skickar det till dina kunder. Du kan också använda exempel för att testa <strong>dynamiskt innehåll</strong>.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" rel="nofollow">Segment</a></strong></td> 
@@ -752,7 +752,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md#segmentation" rel="nofollow">Segmentering</a></strong></td> 
-   <td colspan="1">Grupperingen av personer i din <strong>databas</strong> baseras på en <strong>smart listregel</strong> som du anger. Du kan till exempel ha en segmentering som kallas Bransch, och kategorierna i den kan vara: Sjukvård, teknik, ekonomi osv. Med segmentering kan ni marknadsföra hela grupper av människor baserat på en vald demografisk profil.</td> 
+   <td colspan="1">Grupperingen av personer i din <strong>databas</strong> baserad på en <strong>smart lista</strong>-regel som du anger. Du kan till exempel ha en segmentering som kallas Bransch, och kategorierna i den kan vara: Sjukvård, teknik, ekonomi osv. Med segmentering kan ni marknadsföra hela grupper av människor baserat på en vald demografisk profil.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" rel="nofollow">SPF (Sender Policy Framework</a> )</strong></td> 
@@ -768,7 +768,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" rel="nofollow">Fragment</a></strong></td> 
-   <td colspan="1">Ett block med <strong>innehåll</strong> (text, bild) som kan skapas i förväg och snabbt infogas på <strong>landningssidor</strong>/<strong>e-postmeddelanden</strong> .</td> 
+   <td colspan="1">Ett block med <strong>innehåll</strong> (text, bild) som kan förskapas och snabbt infogas i <strong>landningssidor</strong>/<strong>e-postmeddelanden</strong> som fortsätter framåt.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Mjuk studs</strong></td> 
@@ -784,7 +784,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Spam Traps</strong></td> 
-   <td colspan="1">E-postadresser som Internet-leverantörer och e-postleverantörer specifikt övervakar för att spåra skräppost. Dessa kan innehålla adresser som aldrig används, typdomäner och domäner som har gått ut. De olika typerna av skräppostsvällningar kan visa olika problem med att hämta, t.ex. problem med formulär (typa spam-svällningar), att inte underhålla en databas på rätt sätt eller ta bort ogiltiga adresser (inaktuella spam-svällningar) eller att hämta adresser utan tillstånd, ofta genom att köpa listor (pristine spam-svällningar). Alla e-postmeddelanden som skickas till dessa adresser markeras som <strong>skräppost</strong>.</td> 
+   <td colspan="1">E-postadresser som Internet-leverantörer och e-postleverantörer specifikt övervakar för att spåra skräppost. Dessa kan innehålla adresser som aldrig används, typdomäner och domäner som har gått ut. De olika typerna av skräppostsvällningar kan visa olika problem med att hämta, t.ex. problem med formulär (typa spam-svällningar), att inte underhålla en databas på rätt sätt eller ta bort ogiltiga adresser (inaktuella spam-svällningar) eller att hämta adresser utan tillstånd, ofta genom att köpa listor (pristine spam-svällningar). Alla e-postmeddelanden som skickas till dessa adresser markeras som <strong>spam</strong>.</td> 
   </tr> 
   <tr> 
    <td><strong>Delad testning</strong></td> 
@@ -796,7 +796,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md" rel="nofollow">Strömma</a></strong></td> 
-   <td colspan="1">En samling prioriterat <strong>innehåll</strong> som används i ett <strong>engagemangsprogram</strong> för att främja människor. <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" rel="nofollow">Innehållet</a> distribueras i den ordning du anger.</td> 
+   <td colspan="1">En samling <strong>prioriterat </strong>-innehåll som används i ett <strong>engagemangsprogram</strong> för att vårda människor. <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" rel="nofollow">Innehållet </a> distribueras i den ordning du anger.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -815,7 +815,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td><strong>Mall</strong></td> 
-   <td>En <strong>e-post</strong> - eller <strong>landningssida</strong> som används som utgångspunkt för att skapa ytterligare e-postmeddelanden eller landningssidor.</td> 
+   <td>En <strong>e-postsida</strong> eller <strong>landningssida</strong> som används som startpunkt för att skapa ytterligare e-postmeddelanden eller landningssidor.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md" rel="nofollow">Token</a></strong></td> 
@@ -823,11 +823,11 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Träd</strong></td> 
-   <td colspan="1">Den kolumn till vänster i Marketo som visar objekt i en hierarkisk struktur. Den visar allt som finns i din Marketo-instans (t.ex. <strong>arbetsytor</strong>, <strong>program</strong>, <strong>lokala resurser</strong>etc.).</td> 
+   <td colspan="1">Den kolumn till vänster i Marketo som visar objekt i en hierarkisk struktur. Den visar allt som finns i din Marketo-instans (t.ex. <strong>arbetsytor</strong>, <strong>program</strong>, <strong>lokala resurser</strong> osv.).</td> 
   </tr> 
   <tr> 
    <td><strong>Utlösare</strong></td> 
-   <td>En aktivitet eller händelse som aktiverar <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md" rel="nofollow">flödesstegen för en utlösarkampanj</a> när händelsen inträffar (t.ex. någon besöker en webbsida, klickar på en länk i ett e-postmeddelande). </td> 
+   <td>En aktivitet eller händelse som aktiverar <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md" rel="nofollow">flödesstegen för en utlösarkampanj</a> när händelsen inträffar (någon t.ex. besöker en webbsida, klickar på en länk i ett e-postmeddelande). </td> 
   </tr> 
   <tr> 
    <td> 
@@ -852,11 +852,11 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
     <div> 
      <p><strong> Avbeställ</strong></p> 
     </div></td> 
-   <td colspan="1">När en <strong>person</strong> väljer att inte längre ta emot e-postmeddelanden med marknadsföring är det en annan term för avanmälan.</td> 
+   <td colspan="1">När en <strong>person</strong> väljer att inte längre ta emot marknadsföringsmeddelanden är det en annan term för avanmälan.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#unsubscribed" rel="nofollow">Avbeställ</a></strong></td> 
-   <td>En status som anger att mottagaren har valt att inte längre ta emot marknadsföringsmeddelanden. Personer som har markerats som avbeställda kan fortfarande få <strong>e-postmeddelanden</strong>.</td> 
+   <td>En status som anger att mottagaren har valt att inte längre ta emot marknadsföringsmeddelanden. Personer som har markerats som avbeställda kan fortfarande få <strong>fungerande e-postmeddelanden</strong>.</td> 
   </tr> 
   <tr> 
    <td><strong>Användare</strong></td> 
@@ -878,11 +878,11 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
     <div> 
      <p><strong> Webbkampanj</strong></p> 
     </div></td> 
-   <td colspan="1">En anpassad reaktion som är kopplad till ett visst segment. I <strong>Webbpersonalisering</strong>innehåller webbkampanjer <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">dialogrutor</a>, <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md" rel="nofollow">I zoner</a>och <strong><a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">widgetar</a></strong>.</td> 
+   <td colspan="1">En anpassad reaktion som är kopplad till ett visst segment. I <strong>Webbpersonalisering</strong> innehåller webbkampanjer <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">dialogrutor</a>, <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md" rel="nofollow">I zoner</a> och <strong><a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">widgetar</a></strong>.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" rel="nofollow">Aktivitetsrapport för webbsida</a></strong></td> 
-   <td>En rapporttyp i Marketo. Här kan du se kända <i>eller</i> anonyma personer som besöker din webbplats.</td> 
+   <td>En rapporttyp i Marketo. Du kan se de kända <i>eller</i> anonyma personer som besöker din webbplats.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md" rel="nofollow">Webbanpassning</strong></td> 
@@ -890,7 +890,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr>
   <tr> 
    <td><strong>Webbinarium</strong></td> 
-   <td>Ett webbaserat seminarium. I Marketo kan webbinarier genomföras via ett antal olika <strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md" rel="nofollow">händelsepartners.</a></strong></td> 
+   <td>Ett webbaserat seminarium. I Marketo kan webbinarier utföras via ett antal olika <strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md" rel="nofollow">händelsepartners.</a></strong></td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md" rel="nofollow">Återmarknadsföring av webbplatser</a></strong></td> 
@@ -902,7 +902,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
   </tr> 
   <tr> 
    <td><strong>Widget</strong></td> 
-   <td>Ett litet grafiskt element i ett program som tillåter en viss interaktion. Widgetar är bara tillgängliga i Marketo Sky (skiljer sig från webbkampanjer för <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">widgetar)</a></td> 
+   <td>Ett litet grafiskt element i ett program som tillåter en viss interaktion. Widgetar är bara tillgängliga i Marketo Sky (skiljer sig från en <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">Widget-webbkampanj)</a></td> 
   </tr> 
   <tr> 
    <td><strong>Jokertecken</strong></td> 
