@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Dölja och visa ett fält {#hide-and-unhide-a-field}
+# Dölj och visa ett fält {#hide-and-unhide-a-field}
 
 Om du inte längre har använt för ett fält i Marketo kan du dölja det från användargränssnittet så att det inte längre visas i programmet.
 
@@ -25,7 +25,7 @@ Om du inte längre har använt för ett fält i Marketo kan du dölja det från 
 
    ![](assets/image2014-9-18-13-3a10-3a3.png)
 
-1. Leta reda på fältet, markera det och klicka sedan på **Dölj fält** under **Fältåtgärder**.
+1. Sök efter fältet, markera det och klicka sedan på **Dölj fält** under &lt;a0/>Fältåtgärder **.**
 
    ![](assets/fieldmanagement-hidefield-.png)
 
@@ -48,7 +48,7 @@ Om du inte längre har använt för ett fält i Marketo kan du dölja det från 
 
    ![](assets/image2014-9-18-13-3a11-3a3.png)
 
-1. Sök och markera fältet och klicka sedan under **Fältåtgärder** på **`Unhide Field`**.
+1. Sök efter och markera fältet och klicka sedan på **Fältåtgärder** under **`Unhide Field`**.
 
    ![](assets/image2014-9-18-13-3a11-3a46.png)
 
