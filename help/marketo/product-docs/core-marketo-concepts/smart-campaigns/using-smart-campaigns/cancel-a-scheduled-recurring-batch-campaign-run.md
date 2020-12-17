@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Om du har en återkommande batchkampanj som du inte vill ha mer kan du avbryta framtida körningar. Så här gör du.
 
-1. Klicka på den smarta kampanjen och sedan på fliken **Schema** .
+1. Klicka på den smarta kampanjen och sedan på fliken **Schedule**.
 
    ![](assets/image2014-9-22-16-3a44-3a51.png)
 
-1. Klicka på **Schemalägg** **upprepning**.
+1. Klicka på **Schedule** **Recurrence**.
 
    ![](assets/image2014-9-22-16-3a44-3a55.png)
 
    >[!TIP]
    >
-   >Du kan avbryta en enskild körning genom att klicka på den ![bredvid den](assets/image2014-9-22-16-3a45-3a42.png) . Lär dig hur du [avbryter en schemalagd batchkampanjkörning](cancel-a-scheduled-batch-campaign-run.md).
+   >Du kan avbryta en enskild körning genom att klicka på ![—](assets/image2014-9-22-16-3a45-3a42.png) bredvid den. Lär dig hur du [avbryter en schemalagd batchkampanjkörning](cancel-a-scheduled-batch-campaign-run.md).
 
-1. Ange Schemalägg till **Ingen** och sedan **Spara**.
+1. Ange Schemalägg till **Ingen** och **Spara**.
 
    ![](assets/image2014-9-22-16-3a45-3a56.png)
 
