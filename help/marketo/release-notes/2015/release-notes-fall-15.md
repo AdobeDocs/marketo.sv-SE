@@ -42,7 +42,7 @@ Skapa enkelt anpassade objekt från administratörsgränssnittet. Vi stöder fö
 
 ![](assets/image2015-10-1-13-3a55-3a21.png)
 
-## Marketo Insights för Google Chrome {#marketo-insights-for-google-chrome}
+## Marketo Insights for Google Chrome {#marketo-insights-for-google-chrome}
 
 [Marketo Insights för Google Chrome](../../product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
@@ -66,13 +66,13 @@ Anpassa enkelt push-meddelanden med [tokens](https://docs.marketo.com/pages/view
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-Du kan också [förhandsgranska](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) eller skicka ut ett [exempel](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) på ett push-meddelande innan du distribuerar det till kunderna.
+Du kan även [förhandsgranska](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) eller skicka ut ett [exempel](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)-push-meddelande innan du distribuerar det till kunder.
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
 ![](assets/image2015-10-1-13-3a46-3a20.png)
 
-## Smarta kampanjer i några ögonblick {#smart-campaigns-in-moments}
+## Smarta kampanjer i stund {#smart-campaigns-in-moments}
 
 [Smarta kampanjer i några ögonblick](../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
 
@@ -87,7 +87,7 @@ Statistik om e-postmeddelanden som skickas via smarta kampanjer är nu tillgäng
 
 ## RTP - Innehållsanalys och Recommendations {#rtp-content-analytics-and-recommendations}
 
-[Content Analytics](../../product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) och Recommendations
+[Content ](../../product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) Analytics och Recommendations
 
 RTP Content Analytics visar hur ert webbinnehåll fungerar genom regelbundna webbbesök och även besök som genererats av RTP:s rekommendationsmotor.
 
@@ -98,7 +98,7 @@ RTP Content Analytics visar hur ert webbinnehåll fungerar genom regelbundna web
 RTP:s Assets-sida är nu uppdelad i Content Analytics och Content Recommendations.
 
 * **Innehållsanalys:** Visar vyer och direkta leads för allt identifierat och definierat webbinnehåll, vilket hjälper dig att analysera ditt bästa innehåll
-* **Recommendations** Content: Visar visningar och klickningar från RTP:s rekommenderade innehåll och tillhörande leadattribuering. Du kan också redigera och aktivera innehållsrekommendationer från den här sidan för [fältets](https://docs.marketo.com/display/DOCS/Enabling+the+Content+Recommendation+Engine) och [multimedias](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine) rekommendationer.
+* **Recommendations** Content: Visar visningar och klickningar från RTP:s rekommenderade innehåll och tillhörande leadattribuering. Du kan också redigera och aktivera innehållsrekommendationer från den här sidan för [bar](https://docs.marketo.com/display/DOCS/Enabling+the+Content+Recommendation+Engine) och [multimedia](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine)-rekommendationerna.
 
 * Alla direkta lead-data på dessa två sidor har uppdaterats retroaktivt sedan början av året (1 januari 2015).
 
@@ -110,7 +110,7 @@ Kloning av en RTP-kampanj gör det snabbare och effektivare att skapa mer person
 
 ![](assets/clone2.png)
 
-## Förbättringar av textredigeraren {#rich-text-editor-improvements}
+## Förbättringar i RTF-redigeraren {#rich-text-editor-improvements}
 
 Vi gör flera förbättringar i textredigeraren. Efter att vi släppt den uppdaterade redigeraren i juli fick vi bra feedback och kunde bearbeta dessa ändringar i uppgraderingen. Det finns mycket mer att komma över de kommande månaderna. Här är en lista över nyheterna under det fjärde kvartalet:
 
@@ -178,7 +178,7 @@ Lägg enkelt till nya fält i anpassade objekt som synkroniserats från Salesfor
 
 ![](assets/image2015-10-1-15-3a54-3a4.png)
 
-## Stöd för IE 11 (och stöd för IE 9 tas bort) {#ie-support-and-deprecating-support-for-ie}
+## Stöd för IE 1 (och stöd för IE 9 har tagits bort) {#ie-support-and-deprecating-support-for-ie}
 
 Nu har vi officiellt stöd för webbläsaren Microsoft Internet Explorer 11 och håller på att ta bort stöd för webbläsaren Microsoft Internet Explorer 9.
 
