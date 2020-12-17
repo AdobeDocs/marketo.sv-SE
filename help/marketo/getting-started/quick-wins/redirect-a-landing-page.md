@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Omdirigera en landningssida {#redirect-a-landing-page}
 
-## Uppdrag: Omdirigera en landningssida till en annan webbsida {#mission-redirect-a-landing-page-to-a-different-web-page}
+## Uppdrag: Dirigera om en landningssida till en annan webbsida {#mission-redirect-a-landing-page-to-a-different-web-page}
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ## Steg 1: Starta en ny omdirigeringsregel {#step-start-a-new-redirect-rule}
 
-1. Gå till området **Admin** .
+1. Gå till området **Admin**.
 
    ![](assets/admin.png)
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-13-3a28-3a43.png)
 
-1. Klicka på fliken **Regler** och sedan på **Ny** och **ny omdirigeringsregel**.
+1. Klicka på fliken **Regler** och sedan på **Nytt** och **Ny omdirigeringsregel**.
 
    ![](assets/image2014-9-24-13-3a28-3a59.png)
 
@@ -48,17 +48,17 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Kom ihåg att du bara kan dirigera om landningssidor som börjar med Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
+   >Kom ihåg att du bara kan dirigera om landningssidor som börjar med din Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
 1. Klicka på den andra listrutan **Ursprunglig URL** och välj den landningssida som du vill omdirigera.
 
    ![](assets/image2014-9-24-13-3a30-3a50.png)
 
-1. Under **Omdirigerings-URL** väljer du den sida som du vill omdirigera till och klickar på **Skapa**.
+1. För **Omdirigerings-URL** markerar du sidan som du vill omdirigera till och klickar på **Skapa**.
 
    ![](assets/image2014-9-24-13-3a31-3a10.png)
 
-## Uppdraget är slutfört {#mission-complete}
+## Uppdraget är klart {#mission-complete}
 
 Grattis! Du har omdirigerat en landningssida.
 
