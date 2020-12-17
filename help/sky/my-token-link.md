@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Så här konfigurerar du en länktoken som ska användas i program- och kampanjmappar.
 
-1. Dra en [!UICONTROL My Tokens] länktoken **till arbetsytan på fliken** i programmet eller mappen [!UICONTROL Local Tokens] .
+1. Dra en **länk**-token till arbetsytan [!UICONTROL Local Tokens] på fliken [!UICONTROL My Tokens] i programmet eller mappen.
 
    ![Bild ett](/help/sky/assets/my-tokens/my-token-link/my-token-link-1.png)
 
-1. Ange ett namn för din nya länktoken. Ange sedan märkordet [!UICONTROL Display Text], [!UICONTROL URL]och [!UICONTROL Title] (title) och välj en [!UICONTROL Target] i listrutan.
+1. Ange ett namn för din nya länktoken. Ange sedan [!UICONTROL Display Text], [!UICONTROL URL] och [!UICONTROL Title] (title-tagg) och välj en [!UICONTROL Target] i listrutan.
 
    ![Bild två](/help/sky/assets/my-tokens/my-token-link/my-token-link-2.png)
 
@@ -31,7 +31,7 @@ Så här konfigurerar du en länktoken som ska användas i program- och kampanjm
    * Överordnad: Om det finns kapslade ramar på sidan öppnas länken en nivå upp
    * Hela kroppen: Öppnar länken i huvudfönstret
 
-1. Markera rutorna under [!UICONTROL Track link for] för att välja var länkarna ska spåras.
+1. Markera rutorna under [!UICONTROL Track link for] för att välja var du vill att länkarna ska spåras.
 
    ![Bild tre](/help/sky/assets/my-tokens/my-token-link/my-token-link-3.png)
 
@@ -39,6 +39,6 @@ Så här konfigurerar du en länktoken som ska användas i program- och kampanjm
    >
    >Om Inkludera mkt_tok är markerat visar Marketo en länkförhandsvisning av den varumärkesskyddade spårningsdomänen (t.ex. http://mkto-sjqe3355.com/mn/..). Om du avmarkerar den här kryssrutan ändras länken. Om du inaktiverar länkspårning för e-post eller landningssidor förkortas URL-adressen till sin grundläggande längd (t.ex. www.examplepage.com).
 
-1. Under [!UICONTROL Advanced]finns ett alternativ som du kan anpassa länken med hjälp av CSS. Klicka **[!UICONTROL Save]**.
+1. Om du vill kan du under [!UICONTROL Advanced] anpassa länken med CSS. Klicka på **[!UICONTROL Save]**.
 
    ![Bild fyra](/help/sky/assets/my-tokens/my-token-link/my-token-link-4.png)
