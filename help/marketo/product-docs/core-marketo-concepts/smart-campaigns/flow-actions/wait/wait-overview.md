@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ## Översikt {#overview}
 
-Pausa en person i ett smart kampanjflöde med det praktiska **väntesteget**.
+Pausa en person i ett smart kampanjflöde med handboken **wait step**.
 
 ![](assets/wait-overview.png)
 
-Lägg märke till hur du kan skriva på ett naturligt språk som&quot;4 timmar&quot;. Förkorta **dock inte** orden (dvs. 4 timmar). Den smarta kampanjen körs fortfarande, men väntesteget ignoreras.
+Lägg märke till hur du kan skriva på ett naturligt språk som&quot;4 timmar&quot;. Gör **inte**, men förkorta orden (d.v.s. 4 tim). Den smarta kampanjen körs fortfarande, men väntesteget ignoreras.
 
 >[!CAUTION]
 >
@@ -27,7 +27,7 @@ Lägg märke till hur du kan skriva på ett naturligt språk som&quot;4 timmar&q
 
 >[!TIP]
 >
->Om du har någon som redan är i ett väntesteg och du inte vill att de ska gå vidare efter vänteperioden, infogar du [ta bort från flödet](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) direkt efter väntesteget. Ange vem du vill ta bort genom att använda alternativet [Lägg till](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) .
+>Om du har någon som redan är i ett väntesteg och du inte vill att de ska gå vidare efter vänteperioden, infogar du [ta bort från flöde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) direkt efter väntesteget. Ange vem du vill ta bort med alternativet [lägg till alternativ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md).
 
 ## Användning {#usage}
 
