@@ -17,7 +17,7 @@ En smart lista visar en standarduppsättning med kolumner. Visste du att du kund
 
 ## Skapa en vy {#create-a-view}
 
-1. Gå till en lista eller smart lista, klicka på fliken **Personer** och klicka på **Skapa** **vy** i **listrutan Visa** .
+1. Gå till en lista eller smart lista, klicka på fliken **Personer** och klicka på **Skapa** **Visa** under listrutan **Visa**.
 1. ![](assets/smartlist-createview.png)
 
 1. Namnge vyn och hitta den kolumn som du vill lägga till eller ta bort.
@@ -30,7 +30,7 @@ En smart lista visar en standarduppsättning med kolumner. Visste du att du kund
 
 >[!TIP]
 >
->Använd rutan **Sök** om du snabbt vill söka.
+>Om du snabbt vill söka använder du rutan **Sök**.
 
 ## Växla vy {#switch-views}
 
@@ -44,11 +44,11 @@ En smart lista visar en standarduppsättning med kolumner. Visste du att du kund
 
 ## Redigera en vy {#edit-a-view}
 
-1. Kontrollera att den vy du vill redigera är markerad i listrutan **Visa** .
+1. Kontrollera att vyn som du vill redigera är markerad i listrutan **Visa**.
 
    ![](assets/smartlist-customviewchoose.png)
 
-1. Klicka på alternativet **Redigera** .
+1. Klicka på alternativet **Redigera**.
 
    ![](assets/smartlist-editcustomview.png)
 
@@ -60,7 +60,7 @@ En smart lista visar en standarduppsättning med kolumner. Visste du att du kund
 
 ## Ta bort en vy {#delete-a-view}
 
-1. Välj alternativet **Redigera** för den vy som du vill ta bort från listrutan **Visa** .
+1. Välj alternativet **Redigera** för vyn som du vill ta bort från listrutan **Visa**.
 
    ![](assets/smartlist-editcustomview.png)
 
