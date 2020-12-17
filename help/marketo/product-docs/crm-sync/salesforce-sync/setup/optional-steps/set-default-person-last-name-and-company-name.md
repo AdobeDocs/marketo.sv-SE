@@ -23,7 +23,7 @@ Salesforce kräver (minimum) efternamn och företagsnamn för sina leads och kon
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. Ange ett **standardpersonefternamn** och ett **Default ****personföretag** och klicka sedan på **Spara**.
+1. Ange ett **efternamn för standardperson** och ett **Standard ****personföretag** och klicka sedan på **Spara**.
 
    ![](assets/sync-options-hands.png)
 
