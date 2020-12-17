@@ -31,7 +31,7 @@ Så här använder du snabbsynkronisering för att synkronisera om nya fält.
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
-1. Klicka på **Redigera** i Fältsynkroniseringsinformation.
+1. Klicka på **Redigera** på Information om fältsynkronisering.
 
    ![](assets/image2016-8-19-11-3a16-3a22.png)
 
@@ -73,7 +73,7 @@ Vad händer om du vill synkronisera ett befintligt fält, men bara vill göra de
 
    Det är bara poster som uppdateras mellan 16 september 2016 och 19 september 2016 som snabbsynkroniseras för fältet.
 
-## Korrigera ej synkroniserade fält {#fixing-out-of-sync-fields}
+## Korrigerar ej synkroniserade fält {#fixing-out-of-sync-fields}
 
 I det sällsynta fall där ett Dynamics- och Marketo-fält inte är synkroniserat finns det ett snabbt och enkelt sätt att synkronisera om dem.
 
