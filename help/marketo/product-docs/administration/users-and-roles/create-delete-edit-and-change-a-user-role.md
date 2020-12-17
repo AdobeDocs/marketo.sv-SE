@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Skapa, ta bort, redigera och ändra en användarroll {#create-delete-edit-and-change-a-user-role}
 
-**Roller** grupperar en mängd behörigheter. **Med behörigheter** kan du göra saker i Marketo. Du tilldelar en **roll** till en användare. Enkelt som paj.
+**Rolesk** grupperar en massa behörigheter. **Med** tillstånd kan du göra saker i Marketo. Du tilldelar en **roll** till en användare. Enkelt som paj.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-3a30-3a0.png)
 
-1. Namnge din nya roll, kontrollera alla behörigheter du vill ge användare som är kopplade till rollen och klicka på **Skapa**.
+1. Namnge din nya roll, kontrollera alla behörigheter som du vill ge användare som är associerade med rollen och klicka på **Skapa**.
 
    ![](assets/image2014-9-16-13-3a31-3a19.png)
 
@@ -91,7 +91,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-36-8.png)
 
-1. Avmarkera föregående roll, markera den nya och klicka sedan på **Spara**.
+1. Avmarkera den tidigare rollen, markera den nya och klicka sedan på **Spara**.
 
    ![](assets/image2014-9-16-13-3a36-3a35.png)
 
