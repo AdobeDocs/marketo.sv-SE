@@ -30,7 +30,7 @@ ht-degree: 0%
 * Adobe Real-Time Customer Data Platform
 * Adobe Target
 
-## Exportera en lista {#how-to-export-a-list}
+## Så här exporterar du en lista {#how-to-export-a-list}
 
 1. I Marketo söker du efter och markerar den lista som du vill exportera.
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. Klicka på listrutan **Audience Manager-mapp** och markera önskad målmapp i Experience Cloud.
+1. Klicka på listrutan **Audience Manager-mapp** och välj önskad målmapp i Experience Cloud.
 
    ![](assets/three-1.png)
 
@@ -70,7 +70,7 @@ När du initierar en listexport i Marketo kommer du att märka följande ändrin
 * För alla ECID:n som Marketo har lyckats matcha med Leads i den exporterade listan skriver Marketo ett varumärke med ECID-enhetsidentifieraren. Namnet på egenskapen matchar målpublikens namn som du angav under exporten.
 * Marketo kommer också att skapa ett segment i din Audience Manager Instance med ECID-egenskapen som enda segmenteringskriterium. Segmentets namn matchar målpublikens namn som du angav under exporten.
 
-## Vanliga frågor {#faq}
+## Vanliga frågor och svar {#faq}
 
 **Varför skiljer sig liststorleken i Marketo från den i Adobe?**
 
