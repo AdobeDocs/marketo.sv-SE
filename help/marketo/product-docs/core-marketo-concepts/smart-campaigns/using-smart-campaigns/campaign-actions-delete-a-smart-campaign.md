@@ -19,24 +19,24 @@ Om du har en gammal smart kampanj som du inte längre behöver kan du ta bort de
 >
 >Se till att du är säker innan du tar bort. När du har tagit bort en smart kampanj kan den inte återställas.
 
-1. Gå till området **Marknadsföringsaktiviteter** .
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Navigera till din inaktiva smarta kampanj. Under **Kampanjåtgärder** **klickar du på** Ta bort ****.
+1. Navigera till din inaktiva smarta kampanj. Under **Kampanj** **Åtgärder** klickar du på **Ta bort**.
 
    >[!TIP]
    >
-   >Om du vill avbryta bearbetningen av en aktiv smart kampanj utan att ta bort den helt och hållet, ska du lära dig hur du [avbryter en smart kampanj](abort-a-smart-campaign.md).
+   >Om du vill avbryta bearbetningen av en aktiv smart kampanj utan att ta bort den helt och hållet ska du lära dig hur du avbryter en smart kampanj[.](abort-a-smart-campaign.md)
 
    ![](assets/image2014-9-22-16-3a41-3a55.png)
 
-1. Bekräfta genom att klicka på **Ta bort** .
+1. Bekräfta genom att klicka på **Ta bort**.
 
    ![](assets/image2014-9-22-16-3a41-3a59.png)
 
    >[!CAUTION]
    >
-   >Ta **INTE** bort en aktiv smart kampanj med personer i flödesstegen. Kampanjen kommer troligtvis fortfarande att genomföras.
+   >Gör **NOT** om du vill ta bort en aktiv smart kampanj med personer i flödesstegen. Kampanjen kommer troligtvis fortfarande att genomföras.
 
 Snyggt!
