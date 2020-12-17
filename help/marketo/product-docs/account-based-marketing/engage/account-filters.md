@@ -17,11 +17,11 @@ Identifiera och engagera namngivna konton och personer i dem med nya kontobasera
 
 ## ABM-filter {#abm-filters}
 
-1. Välj en smart kampanj och klicka på **Smart List**.
+1. Välj en smart kampanj och klicka på **Smart lista**.
 
    ![](assets/one.png)
 
-1. Klicka på **+** för att expandera mappen **Kontofilter** .
+1. Klicka på **+** för att utöka mappen **Kontofilter**.
 
    ![](assets/two.png)
 
