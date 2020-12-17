@@ -31,7 +31,7 @@ Om du behöver ett nytt anpassat fält i Marketo för att lagra/hämta data, så
 
    >[!TIP]
    >
-   >Läs ordlistan för [anpassade fälttyper](custom-field-type-glossary.md).
+   >Ta en titt på ordlistan [Egna fälttyper](custom-field-type-glossary.md).
 
    ![](assets/image2014-9-24-13-3a47-3a42.png)
 
