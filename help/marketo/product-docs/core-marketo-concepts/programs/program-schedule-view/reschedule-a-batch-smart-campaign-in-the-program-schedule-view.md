@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Schemalägg om en batchvis smart kampanj i programschemavy {#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}
+# Schemalägg om en batchvis smart kampanj i programtidsvyn {#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}
 
 Vill du schemalägga om en batchsmart kampanjkörning? Dra och släpp dem i framtiden i programschemavyn.
 
@@ -21,7 +21,7 @@ Vill du schemalägga om en batchsmart kampanjkörning? Dra och släpp dem i fram
 
 1. Dra och släpp till det nya datum som du vill att kampanjen ska köras. ![](assets/image2015-5-19-12-3a12-3a1.png)
 
-1. Bra! Den smarta kampanjen har planerats om. Tiden kan också ändras från **listrutan Datum** i informationen om posten.
+1. Bra! Den smarta kampanjen har planerats om. Tiden kan också ändras från listrutan **Datum** i postinformationen.
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 
