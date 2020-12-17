@@ -25,7 +25,7 @@ När du har skapat händelsen i Marketo läses den in till iPad- eller Android-a
 >
 >Du måste vara ansluten till Internet för att hämta program.
 
-## Hämta och installera Marketo Events-appen för iPad {#download-and-install-the-marketo-events-ipad-app}
+## Hämta och installera Marketo Events iPad-appen {#download-and-install-the-marketo-events-ipad-app}
 
 Om din iPad inte redan har Marketo Events-appen installerad gör du så här.
 
@@ -33,19 +33,19 @@ Om din iPad inte redan har Marketo Events-appen installerad gör du så här.
 
    ![](assets/image2016-4-14-15-3a52-3a19.png)
 
-1. Ange **Marketo** i sökrutan och tryck på Marketo- **händelser** i Förslag.
+1. I sökrutan anger du **Marketo** och trycker på **Marketo-händelser** i Förslag.
 
    ![](assets/image2016-4-14-16-3a0-3a3.png)
 
 1. Följ anvisningarna för att hämta och installera appen på din iPad.
 
-## Hämta och installera Android-appen Marketo Events {#download-and-install-the-marketo-events-android-app}
+## Hämta och installera Marketo Events Android-appen {#download-and-install-the-marketo-events-android-app}
 
 Om din Android-surfplatta inte har något Marketo Events-program installerat ännu, så här skaffar du det.
 
 1. Öppna surfplattan och tryck på appen** Google Play Store**.
 1. I sökrutan anger du **Marketo** och trycker på **Return**.
-1. Tryck på **Marketo Events** -appen i sökresultaten.
+1. I sökresultaten trycker du på **Marketo Events**-appen.
 
    ![](assets/image2016-4-15-14-3a42-3a11.png)
 
@@ -83,13 +83,13 @@ Synkronisera för att vara säker på att de personer du har lagt till finns dä
 
 Kontrollera att incheckningar fungerar från iPad eller surfplatta före händelsen.
 
-1. I appen [checkar du in ett testlead](check-people-into-your-event-from-your-tablet.md).
+1. I appen [kontrollerar du en testlead i](check-people-into-your-event-from-your-tablet.md).
 1. Tryck på ikonen **Synkronisera** för att synkronisera appen.
-1. Öppna din fest i Marketo och klicka på **Medlemmar**.
+1. Öppna din händelse i Marketo och klicka på **Medlemmar**.
 
    ![](assets/image2016-4-15-15-3a32-3a42.png)
 
-1. Bekräfta att personens status har ändrats till **Attended** och Success har markerats.
+1. Bekräfta att personens status har ändrats till **Attended** och Success har kontrollerats.
 
    ![](assets/image2016-4-18-14-3a11-3a36.png)
 
