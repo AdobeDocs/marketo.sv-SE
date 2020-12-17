@@ -27,11 +27,11 @@ Anpassade objekt som skapas i Salesforce-instansen kan också ingå i Marketo. S
 
    **
 
-1. Klicka på Synkronisera **Salesforce** - **objekt på menyn Databashantering**.
+1. Klicka på **Salesforce** **Objektsynkronisering** på menyn Databashantering.
 
    ![](assets/two-2.png)
 
-1. Om det här är ditt första anpassade objekt klickar du på **Synkronisera schema.** Annars klickar du på **Uppdatera schema** för att kontrollera att du har det senaste.
+1. Om det här är ditt första anpassade objekt klickar du på **Synkronisera schema.** Annars klickar du på  **Uppdatera** schema för att kontrollera att du har det senaste.
 
    ![](assets/image2014-12-10-10-3a14-3a44.png)
 
@@ -65,13 +65,13 @@ Anpassade objekt som skapas i Salesforce-instansen kan också ingå i Marketo. S
 
    ![](assets/image2014-12-10-10-3a15-3a49.png)
 
-## Använda egna objekt {#using-your-custom-objects}
+## Använda dina anpassade objekt {#using-your-custom-objects}
 
 >[!NOTE]
 >
 >Du kan inte använda anpassade objekt i smarta kampanjer med utlösare.
 
-1. I den smarta listan drar du över **filtret Har** säljprojekt och anger **true**.
+1. Dra över filtret **Har möjlighet** i den smarta listan och ställ in på&#x200B;**true**.
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 
