@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Dela segment mellan arbetsytor och partitioner {#share-segmentations-across-workspaces-and-partitions}
+# Dela segment över arbetsytor och partitioner {#share-segmentations-across-workspaces-and-partitions}
 
 >[!PREREQUISITES]
 >
@@ -27,11 +27,11 @@ Marketo är bra på att välja ut rätt personer för ett program eller en smart
 >
 >Lär dig [hur du skapar segmenteringar](../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-När du har konfigurerat de här personerna (**och** använder arbetsytor) vill du dela dem mellan arbetsytorna. Här är några bra saker att veta:
+När du har konfigurerat de här personerna (**och** du använder arbetsytor) vill du dela dem mellan arbetsytorna. Här är några bra saker att veta:
 
 ## Regler och tips {#rules-tips}
 
-* Varje Marketo-prenumeration kan innehålla upp till 20 segment&quot;totalt&quot; för flera arbetsytor (**inte 20 per arbetsyta**).
+* Varje Marketo-prenumeration kan innehålla upp till 20 segment (totalt) över flera arbetsytor (**inte 20 per arbetsyta**).
 * Du kan bara dela en segmentering med arbetsytor som du har tillgång till.
 * Se till att skapa och använda en **standardarbetsyta som har synlighet i alla partitioner**.
 
