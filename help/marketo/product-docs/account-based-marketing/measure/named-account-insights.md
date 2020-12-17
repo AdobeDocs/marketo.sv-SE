@@ -19,13 +19,13 @@ På instrumentpanelen Namngivet konto visas ett målkonto i 360 grader.
 
 ## Kontrollpanel {#dashboard}
 
-Instrumentpanelen samlar viktiga insikter på kontonivå från alla personer på ett namngivet konto och undviker därmed behovet av att gå till varje person för att utvärdera deras framsteg. Du kan fördjupa dig i e-postaktiviteten med hjälp av [e-postinsikter](http://docs.marketo.com/display/DOCS/Filtering+in+Email+Insights#FilteringinEmailInsights-AccountBasedMarketing).
+Instrumentpanelen samlar viktiga insikter på kontonivå från alla personer på ett namngivet konto och undviker därmed behovet av att gå till varje person för att utvärdera deras framsteg. Du kan fördjupa dig i e-postaktiviteten med [e-postinsikter](http://docs.marketo.com/display/DOCS/Filtering+in+Email+Insights#FilteringinEmailInsights-AccountBasedMarketing).
 
 >[!NOTE]
 >
 >Diagram visar insikter från de senaste 90 dagarna.
 
-**Kontoengagemang över tid** Klicka på listrutan **Visa** till höger för att ändra det du tittar på. Förutom Kontopoäng kan du visa efter Total Intäkter...
+**Kontoengagemang över** tidKlicka på listrutan  **** Vy till höger för att ändra det du tittar på. Förutom Kontopoäng kan du visa efter Total Intäkter...
 
 ![](assets/two-new.png)
 
@@ -52,13 +52,13 @@ Instrumentpanelen samlar viktiga insikter på kontonivå från alla personer på
 
 **Intressanta ögonblick**
 
-Tillgängligt för användare av [Marketo Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight). Se de intressanta stunderna på kontonivå.
+Tillgängligt för användare av [Marketo Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight), se de intressanta stunderna på kontonivå.
 
 ![](assets/int-mom.png)
 
 **De vanligaste personerna**
 
-Dessa personer beräknas baserat på prioriteringar som baseras på nyligen gjorda eller brådskande åtgärder som visas av personer med namngivna konton (samma som [Bästa val](http://docs.marketo.com/display/DOCS/Priority,+Urgency,+Relative+Score,+and+Best+Bets) i Sales Insight), eller resultat som definieras av användaren. **Prioriteten** är endast tillgänglig för användare av Marketo Sales Insight.
+Dessa personer beräknas baserat på prioriteringar som baseras på senaste eller brådskande händelser som visas av personer med namngivna konton (samma som [Bästa val](http://docs.marketo.com/display/DOCS/Priority,+Urgency,+Relative+Score,+and+Best+Bets) i Sales Insight), eller resultat som definieras av användaren. **Prioritet** är endast tillgängligt för användare av Marketo Sales Insight.
 
 ![](assets/top-ten.png)
 
@@ -108,7 +108,7 @@ Visa teammedlemmar, lägg till/ta bort medlemmar, och tilldela även en kontoäg
 
 >[!NOTE]
 >
->Klicka på listrutan Åtgärder **för** kontoteam om du vill lägga till/ta bort kontomedlemmar eller tilldela en kontoägare.
+>Klicka på listrutan **Åtgärder för kontoteam** om du vill lägga till/ta bort kontomedlemmar eller tilldela en kontoägare.
 
 ## ICP-indikatorer {#icp-indicators}
 
