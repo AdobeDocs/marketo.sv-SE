@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Förstå smarta kampanjkort {#understanding-smart-campaign-cards}
+# Smarta kampanjkort {#understanding-smart-campaign-cards}
 
 Använd Marketo Moments för att visa varje körning av smarta kampanjer från smarttelefonen eller iPad. Marketo Moments smarta kampanjkort representerar en enda kampanjserie. ett nytt kort visas varje gång den smarta kampanjen körs. Smarta kampanjkort är märkta med en glödlampa längst upp till vänster.
 
@@ -58,7 +58,7 @@ För framtida smarta kampanjer som är schemalagda men ännu inte har körts vis
    >
    >Observera att den andra punkten är markerad nu.
 
-## Skapa e-postexempel och förhandsvisningar {#creating-email-samples-and-previews}
+## Skapar e-postexempel och förhandsvisningar {#creating-email-samples-and-previews}
 
 Det är en bra idé att ta en titt på ett e-postmeddelande innan det skickas ut. Eller skicka ett prov till någon annan för att få en andra uppsättning ögon på det.
 
@@ -66,7 +66,7 @@ Det är en bra idé att ta en titt på ett e-postmeddelande innan det skickas ut
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. Tryck på [Skicka exempel](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) eller [Förhandsgranska e-post](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (klicka på länkarna för mer information).
+1. Tryck på [Skicka exempel](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) eller [Förhandsgranska e-post](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (klicka på de här länkarna för mer information).
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
@@ -82,7 +82,7 @@ Kort för obekräftade smarta kampanjer är grå tills du bekräftar dem. Sedan 
 
    ![](assets/image2015-9-23-10-3a45-3a51.png)
 
-1. Tryck på **Bekräfta** för att slutföra jobbet eller **Slut aldrig** bort om du har andra tankar.
+1. Tryck på **Bekräfta** för att slutföra jobbet eller **Slut aldrig** om du har andra tankar.
 
    ![](assets/image2015-9-23-10-3a47-3a28.png)
 
@@ -102,7 +102,7 @@ Du kan avbryta en bekräftad, schemalagd smart kampanjkörning.
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
-1. Tryck på **Avbryt körning**. Om du i sista minuten bestämmer dig för att inte avbryta körningen trycker du på **Aldrig Mind**, så körs den smarta kampanjen som planerat.
+1. Tryck på **Avbryt körning**. Om du i sista minuten bestämmer dig för att inte avbryta körningen trycker du på **Aldrig mind** så körs den smarta kampanjen som planerat.
 
    ![](assets/image2015-9-22-14-3a41-3a26.png)
 
@@ -118,7 +118,7 @@ Du kan schemalägga om en bekräftad smart kampanj som inte har körts än.
 
    ![](assets/image2015-9-22-14-3a13-3a25.png)
 
-1. Välj ett datum i kalendern och tryck på **Ändra schema**.
+1. Välj ett datum i kalendern och tryck på **Schemalägg om**.
 
    ![](assets/image2015-9-22-14-3a16-3a56.png)
 
