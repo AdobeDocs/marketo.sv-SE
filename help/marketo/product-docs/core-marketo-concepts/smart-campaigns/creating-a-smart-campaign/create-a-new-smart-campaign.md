@@ -21,11 +21,11 @@ Smarta kampanjer är det viktigaste verktyget i Marketo. De kan aktiveras av en 
 >
 >Smarta kampanjer är supercoola. Läs mer om dem [här](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Välj ett **program** och klicka sedan på **Ny lokal resurs** under **Nytt**.
+1. Välj ett **program** och klicka sedan på **Ny lokal resurs** under &lt;a2/>Nytt **.**
 
    ![](assets/program-localassethands.png)
 
