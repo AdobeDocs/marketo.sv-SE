@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Använda fliken Program {#using-the-program-home-tab}
+# Använda hemfliken för programmet {#using-the-program-home-tab}
 
 På startfliken för programmet får du en översikt över vad som pågår i programmet.
 
 ## Sammanfattningsvy {#summary-view}
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -37,13 +37,13 @@ På startfliken för programmet får du en översikt över vad som pågår i pro
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
-## Används av vy {#used-by-view}
+## Används av vyn {#used-by-view}
 
 1. Välj ett program i Marknadsföringsaktiviteter.
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. Klicka på listrutan **Visa** . Välj **Används av**.
+1. Klicka på listrutan **Visa**. Välj **Används av**.
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
@@ -57,7 +57,7 @@ På startfliken för programmet får du en översikt över vad som pågår i pro
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. Klicka på listrutan **Visa** . Välj **medlemskap**.
+1. Klicka på listrutan **Visa**. Välj **medlemskap**.
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
@@ -67,7 +67,7 @@ På startfliken för programmet får du en översikt över vad som pågår i pro
 
    >[!NOTE]
    >
-   >**Historik** innebär att alla som har gått igenom programmet har en historik, medan **Current** endast omfattar personer som för närvarande finns i programmet.
+   >**Med** historik avses alla som har gått igenom programmet, medan  **** för närvarande endast omfattar personer som för närvarande deltar i programmet.
 
    >[!NOTE]
    >
