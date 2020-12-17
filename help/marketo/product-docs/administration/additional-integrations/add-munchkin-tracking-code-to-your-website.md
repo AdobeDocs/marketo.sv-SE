@@ -49,7 +49,7 @@ Marketos skräddarsydda JavaScript-spårningskod, som kallas Munchkin, spårar a
    >
    >Lägg in spårningskod på de webbsidor du vill spåra. Det kan vara varje sida för mindre webbplatser, eller bara nyckelsidor på webbplatser som har många dynamiskt genererade webbsidor, användarforum och så vidare.
 
-   För bästa resultat bör du använda den asynkrona Munchkin-koden och placera den inuti `<head>` elementen på sidorna. Om du använder den enkla koden (rekommenderas inte) är detta precis före `</body>` -taggen.
+   För bästa resultat bör du använda den asynkrona Munchkin-koden och placera den inuti `<head>`-elementen på sidorna. Om du använder den enkla koden (rekommenderas inte) är detta precis före taggen `</body>`.
    ![](assets/image2015-8-25-16-3a5-3a20.png)
 
 >[!TIP]
@@ -84,7 +84,7 @@ Om du använder Arbetsytor i ditt Marketo-konto har du förmodligen också separ
 >
 >Använd inte koden som visas på skärmbilden - du måste använda den unika koden som visas på ditt konto!
 
-1. Placera spårningskoden på dina webbsidor i `<head>` elementet. Nya personer som besöker den här sidan tilldelas den här partitionen.
+1. Placera spårningskoden på dina webbsidor i `<head>`-elementet. Nya personer som besöker den här sidan tilldelas den här partitionen.
 
 ![](assets/image2015-8-25-16-3a5-3a20.png)
 
@@ -104,7 +104,7 @@ Det finns tre typer av Munchkin-spårningskoder som du kan välja mellan. Alla e
 1. **Asynkron**: minskar inläsningstiden för webbsidor.
 1. **Asynkron jQuery**: minskar inläsningstiden för webbsidor och förbättrar också systemprestanda. Den här koden förutsätter att du redan har jQuery och inte kontrollerar att den har lästs in.
 
-## Testa om Munchkin-koden fungerar {#test-if-your-munchkin-code-is-working}
+## Testa om din Munchkin-kod fungerar {#test-if-your-munchkin-code-is-working}
 
 Så här kontrollerar du att din Munchkin-kod fungerar när du har lagt till den:
 
@@ -117,11 +117,11 @@ Så här kontrollerar du att din Munchkin-kod fungerar när du har lagt till den
 
    ![](assets/webanalytics.png)
 
-1. Klicka på fliken **Konfigurera** , dubbelklicka på **Aktivitetskälla** och ändra den till **anonyma besökare (inklusive Internet-leverantörer)**.
+1. Klicka på fliken **Inställningar**, dubbelklicka på **Aktivitetskälla** och ändra den till **Anonyma besökare (inklusive Internet-leverantörer)**.
 
    ![](assets/analytics-activity-source.png)
 
    ![](assets/activitysource.png)
 
-1. Klicka på fliken **Rapport** . Om du inte ser några data väntar du några minuter och klickar sedan på uppdateringsikonen längst ned.
+1. Klicka på fliken **Rapport**. Om du inte ser några data väntar du några minuter och klickar sedan på uppdateringsikonen längst ned.
 
