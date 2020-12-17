@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Använd A/B-testning från adress {#use-from-address-a-b-testing}
+# Använd A/B-testning från adressen {#use-from-address-a-b-testing}
 
-Du kan enkelt A/B-testa dina e-postmeddelanden. Ett intressant test är **From Address** -testet. Så här ställer du in det.
+Du kan enkelt A/B-testa dina e-postmeddelanden. Ett intressant test är **From Address**-testet. Så här ställer du in det.
 
 >[!PREREQUISITES]
 >
@@ -23,11 +23,11 @@ Du kan enkelt A/B-testa dina e-postmeddelanden. Ett intressant test är **From A
 
 
 
-1. Under rutan **E-post** , med e-postmeddelandet markerat, klickar du på **Lägg till A/B-test**.
+1. Klicka på **Lägg till A/B-test** under rutan **E-post** med ditt e-postmeddelande markerat.
 
    ![](assets/image2014-9-12-15-3a32-3a8.png)
 
-1. Ett nytt fönster öppnas. Välj **Från adress** som **testtyp**.
+1. Ett nytt fönster öppnas. Välj **Från adress** för **Testtyp**.
 
    ![](assets/image2014-9-12-15-3a32-3a22.png)
 
@@ -35,7 +35,7 @@ Du kan enkelt A/B-testa dina e-postmeddelanden. Ett intressant test är **From A
 
    ![](assets/image2014-9-12-15-3a32-3a28.png)
 
-1. Ange den andra **informationen från adressen** som du vill testa.
+1. Ange den andra **Från-adressen**-informationen som du vill testa.
 
    >[!NOTE]
    >
@@ -57,9 +57,9 @@ Du kan enkelt A/B-testa dina e-postmeddelanden. Ett intressant test är **From A
 
    >[!CAUTION]
    >
-   >**Vi rekommenderar att du inte anger 100 %** som provstorlek. Om du använder en statisk lista skickas e-postmeddelandet till alla i målgruppen om du anger att exempelstorleken ska vara 100 %, och vinnaren går inte till någon. Om du använder en **smart** lista skickas e-postmeddelandet till alla i målgruppen *vid den tidpunkten om du anger 100 % för exempelstorleken. *När e-postprogrammet körs igen vid ett senare tillfälle kommer alla nya personer som är kvalificerade för den smarta listan också att få e-postmeddelandet eftersom de nu ingår i målgruppen.
+   >**Vi rekommenderar att du inte anger 100 %** som provstorlek. Om du använder en statisk lista skickas e-postmeddelandet till alla i målgruppen om du anger att exempelstorleken ska vara 100 %, och vinnaren går inte till någon. Om du använder en **smart**-lista skickas e-postmeddelandet till alla i målgruppen *vid den tidpunkten när du anger samplingsstorleken till 100 %. *När e-postprogrammet körs igen vid ett senare tillfälle kommer alla nya personer som är kvalificerade för den smarta listan också att få e-postmeddelandet eftersom de nu ingår i målgruppen.
 
-   Vi är nästan framme. Nu måste vi [definiera kriterierna](define-the-a-b-test-winner-criteria.md)för A/B-testvinnare.
+   Vi är nästan framme. Nu måste vi [definiera kriterierna för A/B-testvinnare](define-the-a-b-test-winner-criteria.md).
 
    >[!NOTE]
    >
