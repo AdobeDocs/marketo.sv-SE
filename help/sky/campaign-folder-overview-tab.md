@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Kampanjmapp: Fliken Översikt
 
-Det finns två avsnitt under [!UICONTROL Overview] fliken kampanjmapp: **[!UICONTROL Details]** och **[!UICONTROL Reports]**.
+Fliken [!UICONTROL Overview] innehåller två avsnitt: **[!UICONTROL Details]** och **[!UICONTROL Reports]**.
 
 ![Bild ett](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-1.png)
 
@@ -28,7 +28,7 @@ Klicka på listrutan Mappåtgärder i det övre högra hörnet för snabb åtkom
 
 [!UICONTROL ## Reports]
 
-I [!UICONTROL Reports] avsnittet hittar du viktig information om de olika kampanjerna i din mapp.
+I avsnittet [!UICONTROL Reports] hittar du viktig information om de olika kampanjerna i din mapp.
 
 ![Bild ett](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-3.png)
 
