@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Använd A/B-testning på ämnesraden {#use-subject-line-a-b-testing}
+# Använd A/B-testning av ämnesrad {#use-subject-line-a-b-testing}
 
-Du kan enkelt A/B-testa dina e-postmeddelanden. Ett av de vanligaste testerna är **ämnesraden** .
+Du kan enkelt A/B-testa dina e-postmeddelanden. Ett av de vanligaste testerna är **Subject Line**-testet.
 
 >[!PREREQUISITES]
 >
@@ -37,7 +37,7 @@ Du kan enkelt A/B-testa dina e-postmeddelanden. Ett av de vanligaste testerna ä
 
    >[!TIP]
    >
-   >Du kan klicka på **plustecknet****** för att lägga till fler ämnesrader.
+   >Du kan klicka på **plustecknet (****)** för att lägga till fler ämnesrader.
 
 1. Använd reglaget för att välja hur stor procentandel av publiken du vill ska få A/B-testet och klicka på **Nästa**.
 
@@ -51,7 +51,7 @@ Du kan enkelt A/B-testa dina e-postmeddelanden. Ett av de vanligaste testerna ä
    >
    >De olika variationerna av motivet tar jämna delar av den valda provstorleken.
 
-   Vi är nästan framme. Nu måste vi [definiera kriterierna](define-the-a-b-test-winner-criteria.md)för A/B-testvinnare.
+   Vi är nästan framme. Nu måste vi [definiera kriterierna för A/B-testvinnare](define-the-a-b-test-winner-criteria.md).
 
    >[!NOTE]
    >
