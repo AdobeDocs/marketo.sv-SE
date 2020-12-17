@@ -21,7 +21,7 @@ När en ny Microsoft Dynamics-lösning släpps kan du hämta uppgraderingen frå
 
 >[!CAUTION]
 >
->Du måste ladda ned den senaste Marketo-lösningen *innan* du utför en uppgradering.
+>Du måste ladda ned den senaste Marketo-lösningen *innan du utför en uppgradering.*
 
 1. Gå till **Admin **området.
 
