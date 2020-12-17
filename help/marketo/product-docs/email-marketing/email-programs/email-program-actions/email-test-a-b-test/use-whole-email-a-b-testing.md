@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Använd A/B-testning i&quot;hele-post&quot; {#use-whole-email-a-b-testing}
+# Använd A/B-testning för&quot;hel e-post&quot; {#use-whole-email-a-b-testing}
 
-Du kan enkelt A/B-testa dina e-postmeddelanden. Ett bra test är **Hela e-posttestet** . Så här ställer du in det.
+Du kan enkelt A/B-testa dina e-postmeddelanden. Ett bra test är testet **Hela e-postmeddelandet**. Så här ställer du in det.
 
 >[!PREREQUISITES]
 >
@@ -65,13 +65,13 @@ Du kan enkelt A/B-testa dina e-postmeddelanden. Ett bra test är **Hela e-postte
 
    >[!NOTE]
    >
-   >De olika variationerna skickas till samma delar av den valda **provstorleken**.
+   >De olika variationerna skickas till lika delar av den valda **provstorleken**.
 
    >[!CAUTION]
    >
-   >**Vi rekommenderar att du inte anger 100 %** som provstorlek. Om du använder en statisk lista skickas e-postmeddelandet till alla i målgruppen om du anger att exempelstorleken ska vara 100 %, och vinnaren går inte till någon. Om du använder en **smart** lista skickas e-postmeddelandet till alla i målgruppen *vid den tidpunkten om du anger 100 % för exempelstorleken. *När e-postprogrammet körs igen vid ett senare tillfälle kommer alla nya personer som är kvalificerade för den smarta listan också att få e-postmeddelandet eftersom de nu ingår i målgruppen.
+   >**Vi rekommenderar att du inte anger 100 %** som provstorlek. Om du använder en statisk lista skickas e-postmeddelandet till alla i målgruppen om du anger att exempelstorleken ska vara 100 %, och vinnaren går inte till någon. Om du använder en **smart**-lista skickas e-postmeddelandet till alla i målgruppen *vid den tidpunkten när du anger samplingsstorleken till 100 %. *När e-postprogrammet körs igen vid ett senare tillfälle kommer alla nya personer som är kvalificerade för den smarta listan också att få e-postmeddelandet eftersom de nu ingår i målgruppen.
 
-   Vi är nästan framme. Nu måste vi [definiera kriterierna](define-the-a-b-test-winner-criteria.md)för A/B-testvinnare.
+   Vi är nästan framme. Nu måste vi [definiera kriterierna för A/B-testvinnare](define-the-a-b-test-winner-criteria.md).
 
    >[!NOTE]
    >
