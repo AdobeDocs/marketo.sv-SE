@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Schemalägga om ett helt program från schemaläggningsvyn {#rescheduling-an-entire-program-from-the-schedule-view}
+# Schemalägga om ett helt program från schemavy {#rescheduling-an-entire-program-from-the-schedule-view}
 
 När du klonar ett program eller en händelse med datum, vill du troligtvis schemalägga om alla datum samtidigt. Så här gör du.
 
