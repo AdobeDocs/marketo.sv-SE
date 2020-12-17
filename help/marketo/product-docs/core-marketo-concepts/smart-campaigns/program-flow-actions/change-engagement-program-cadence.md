@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Change Engagement Program Cadence {#change-engagement-program-cadence}
+# Ändra aktivitetsprogrammets avslutande {#change-engagement-program-cadence}
 
 1. Översikt
 
@@ -29,9 +29,9 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-14-3a49-3a27.png)
 
-1. Välj **Pausad** som **nytt värde** om du vill hindra personen från att ta emot innehåll.
+1. Välj **Pausad** som **Nytt värde** om du vill hindra personen från att ta emot innehåll.
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 
-   Du kan återställa personen till **Normal** om du vill att de ska börja ta emot innehållet igen.
+   Du kan återställa personen till **Normal** om du vill att de ska börja ta emot innehåll igen.
 
