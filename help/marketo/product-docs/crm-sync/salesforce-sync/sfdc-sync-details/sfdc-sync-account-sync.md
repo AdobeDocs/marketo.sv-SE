@@ -29,7 +29,7 @@ Nej. Ett konto kan ha många kontakter, en kontakt kan bara ha ett konto.
 
 ## Kan jag skapa konton från Marketo? {#can-i-create-accounts-from-marketo}
 
-För det mesta, nej. Om du däremot använder steget [Konvertera person](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) för en person skapas en ny kontakt, ett nytt konto och ett nytt säljprojekt.
+För det mesta, nej. Om du däremot använder flödessteget [Konvertera person](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) för en person skapas en ny kontakt, ett nytt konto och ett nytt säljprojekt.
 
 >[!CAUTION]
 >
