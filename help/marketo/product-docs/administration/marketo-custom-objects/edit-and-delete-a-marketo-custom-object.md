@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Redigera och ta bort ett markeringsobjekt till anpassat objekt {#edit-and-delete-a-marketo-custom-object}
+# Redigera och ta bort ett markerings-till-anpassat objekt {#edit-and-delete-a-marketo-custom-object}
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Använd menyn Anpassade objektåtgärder för att redigera eller ta bort ett anpassat objekt.
 
-1. Klicka på **Admin** och välj Anpassade objekt **i** Databashantering ****.
+1. Klicka på **Admin** och välj **Marketo-anpassade objekt** i **Databashantering**.
 
    ![](assets/image2016-1-18-13-3a31-3a51.png)
 
@@ -29,7 +29,7 @@ Använd menyn Anpassade objektåtgärder för att redigera eller ta bort ett anp
 
    ![](assets/image2016-1-18-13-3a33-3a11.png)
 
-1. Klicka på fliken **Anpassade objektåtgärder** och sedan på **Redigera objekt**.
+1. Klicka på fliken **Anpassade objektåtgärder** och klicka på **Redigera objekt**.
 
    ![](assets/image2015-9-23-11-3a37-3a44.png)
 
@@ -45,13 +45,13 @@ Använd menyn Anpassade objektåtgärder för att redigera eller ta bort ett anp
 
 ## Ta bort ett anpassat objekt {#delete-a-custom-object}
 
-Det är enkelt att ta bort ett anpassat objekt, men du måste vara försiktig. Anpassade objekt kan anslutas till andra objekt eller till smarta listor. Marketo varnar dig därför innan du låter dig klicka på **Ta bort**.
+Det är enkelt att ta bort ett anpassat objekt, men du måste vara försiktig. Anpassade objekt kan anslutas till andra objekt eller till smarta listor. Marketo varnar dig därför innan du kan klicka på **Ta bort**.
 
 >[!CAUTION]
 >
 >Du kan inte återställa ett anpassat objekt när du har tagit bort det.
 
-1. Klicka på **Admin** och välj Anpassade objekt **i** Databashantering ****.
+1. Klicka på **Admin** och välj **Marketo-anpassade objekt** i **Databashantering**.
 
    ![](assets/image2016-1-18-13-3a36-3a0.png)
 
@@ -71,7 +71,7 @@ Det är enkelt att ta bort ett anpassat objekt, men du måste vara försiktig. A
 
    ![](assets/image2015-9-23-16-3a31-3a2.png)
 
-1. Om det anpassade objektet redan har godkänts finns det en större risk om du tar bort det. Så du får en bättre varning. Ange **Jag förstår**, markera kryssrutan **Kan inte ångra** och klicka på **Ta bort**.
+1. Om det anpassade objektet redan har godkänts finns det en större risk om du tar bort det. Så du får en bättre varning. Ange **Jag förstår**, markera kryssrutan **Det går inte att ångra** och klicka på **Ta bort**.
 
    ![](assets/image2016-1-15-9-3a49-3a38.png)
 
