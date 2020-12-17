@@ -27,7 +27,7 @@ Du kan arkivera ett program, men ibland vill du bara göra dig av med det perman
 
 >[!TIP]
 >
->**Arkiveringsprogram** bevarar programdata men gör programmet oanvändbart. Välj det alternativet och klicka sedan på **Nästa** för att visa mer information om arkivering.
+>**Arkivering av** program innebär att programdata lagras, men att programmet inte är i vägen för dig. Välj det alternativet och klicka sedan på **Nästa** för att se mer information om arkivering.
 
 ![](assets/2017-05-05-15-04-15.png)
 
@@ -43,7 +43,7 @@ För att åtgärda problemet kan du behöva gå ned på detaljnivå och ta bort 
 
    ![](assets/image2014-9-23-15-3a42-3a10.png)
 
-1. Klicka på **Används** **av** för att se var resursen används.
+1. Klicka på **Används** **Av** för att se var resursen används.
 
    ![](assets/image2014-9-23-15-3a42-3a57.png)
 
