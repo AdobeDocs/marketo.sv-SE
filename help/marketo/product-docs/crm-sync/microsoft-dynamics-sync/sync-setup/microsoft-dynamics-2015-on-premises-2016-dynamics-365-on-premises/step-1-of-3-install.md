@@ -25,7 +25,7 @@ Innan du kan synkronisera Microsoft Dynamics 2015 On-Premises eller 2016 (Dynami
 >
 >Om du använder Microsoft Dynamics On-Premise måste du ha [Internet Facing Deployment](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) med [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+ (ADFS) konfigurerat. Obs! IFD-dokumentet laddas ned automatiskt när du klickar på länken.
 >
->[Ladda ned Marketo Lead Management Solution](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) innan du börjar.
+>[Ladda ned Marketo Lead Management ](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) Solution innan du börjar.
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ Innan du kan synkronisera Microsoft Dynamics 2015 On-Premises eller 2016 (Dynami
 >
 >Du behöver administratörsbehörighet för CRM för att kunna utföra den här synkroniseringen.
 
-1. Logga in i **Dynamics.** Klicka på listrutan **Microsoft Dynamics CRM** och välj **Inställningar**.
+1. Logga in på **Dynamics.** Klicka på listrutan  **Microsoft Dynamics** CRM och välj  **Inställningar**.
 
    ![](assets/image2015-3-19-8-33-29.png)
 
@@ -45,15 +45,15 @@ Innan du kan synkronisera Microsoft Dynamics 2015 On-Premises eller 2016 (Dynami
 
    ![](assets/image2015-3-19-8-34-8.png)
 
-1. Klicka på **Bläddra** och välj den lösning du [laddat ned](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klicka på **Nästa**.
+1. Klicka på **Bläddra** och välj den lösning du [hämtade](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klicka på **Nästa**.
 
    ![](assets/image2015-3-19-9-20-56.png)
 
-1. Visa lösningsinformationen och klicka på **Visa information** om lösningspaketet.
+1. Visa lösningsinformationen och klicka på **Visa information om lösningspaketet**.
 
    ![](assets/image2015-11-18-11-12-8.png)
 
-1. När du har kontrollerat alla detaljer klickar du på **Stäng**.
+1. När du är klar med att kontrollera all information klickar du på **Stäng**.
 
    ![](assets/step6.png)
 
@@ -81,7 +81,7 @@ Innan du kan synkronisera Microsoft Dynamics 2015 On-Premises eller 2016 (Dynami
 
    ![](assets/image2015-3-13-9-54-39.png)
 
-1. Marketo Lead Management visas nu på sidan **Alla lösningar** .
+1. Marketo Lead Management visas nu på sidan **Alla lösningar**.
 
    ![](assets/image2015-3-19-8-40-38.png)
 
