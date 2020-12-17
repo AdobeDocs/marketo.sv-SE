@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Programmet har ändrats {#change-program-success}
+# Ändringsprogrammet lyckades {#change-program-success}
 
 ## Översikt {#overview}
 
@@ -29,7 +29,7 @@ Om du någon gång har en grupp personer som av misstag har markerats med Progra
 
    ![](assets/image2014-9-22-14-3a45-3a35.png)
 
-1. Välj **Slutfört** eller** Slutfört den** som attribut.
+1. Välj **Success** eller** Success Date** som attribut.
 
    ![](assets/image2014-9-22-14-3a45-3a39.png)
 
