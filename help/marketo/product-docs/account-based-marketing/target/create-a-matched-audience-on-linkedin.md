@@ -27,7 +27,7 @@ Skapa matchande målgrupper från ABM-kontolistor för LinkedIn Ad Targeting.
 
    ![](assets/two.png)
 
-1. Klicka på listrutan Åtgärder för **kontolista** och välj **Skicka via AdBridge**.
+1. Klicka på listrutan **Kontoliståtgärder** och välj **Skicka via AdBridge**.
 
    ![](assets/three-1.png)
 
@@ -35,7 +35,7 @@ Skapa matchande målgrupper från ABM-kontolistor för LinkedIn Ad Targeting.
 
    ![](assets/four-1.png)
 
-1. Klicka på listrutan **Målgrupp** . Du kan välja en befintlig målgrupp eller skapa en ny. I det här exemplet skapar vi en ny (om du väljer en befintlig publik går du vidare till steg 7).
+1. Klicka på listrutan **Målgrupp**. Du kan välja en befintlig målgrupp eller skapa en ny. I det här exemplet skapar vi en ny (om du väljer en befintlig publik går du vidare till steg 7).
 
    ![](assets/five-1.png)
 
