@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Microsoft Dynamics Sync: Synkronisering av affärsmöjlighet {#microsoft-dynamics-sync-opportunity-sync}
+# Microsoft Dynamics Sync: Affärsmöjlighet, synkronisering {#microsoft-dynamics-sync-opportunity-sync}
 
 Marketo to Dynamics sync är superkraftfull. Här är all information för affärsmöjlighetssynkronisering:
 
@@ -25,4 +25,4 @@ Nej, du måste skapa affärsmöjligheten i Dynamics och den synkroniseras automa
 
 ## Vilka fält synkroniseras med Marketo? {#what-fields-will-sync-to-marketo}
 
-Du kan [välja fält som ska synkroniseras](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) under installationen.
+Du kan [välja fält att synkronisera](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) under installationen.
