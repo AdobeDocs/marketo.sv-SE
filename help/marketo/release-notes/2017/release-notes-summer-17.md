@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Versionsinformation: Sommaren 17 {#release-notes-summer}
+# Versionsinformation: Sommaren &#39;17 {#release-notes-summer}
 
 Följande funktioner ingår i sommarversionen 17. Se om din Marketo-utgåva har funktioner tillgängliga.
 
@@ -35,17 +35,17 @@ Se till att meddelanden och innehåll är konsekventa genom att förhindra redig
 
 Matcha personer mot japanska företagsnamn på det lokala språket.
 
-** [ABM- och LeanData-integrering](https://docs.marketo.com/x/pKmt)**
+** [Integrering av ABM och LeanData](https://docs.marketo.com/x/pKmt)**
 
 LeanData-integrering tillåter nu matchning från lead till konto i Marketo. Håll marknadsföringen och försäljningen i linje med varandra genom att ha samma leads kopplade till konton inom sälj- och marknadsföringssystemen. Flexiblare alternativ ger marknadsförings- och säljåtgärder större kontroll över lead-to-account-matchningsregler, så att de kan uppnå önskad precisionsnivå.
 
-## Förbättringar av webbpersonalisering {#web-personalization-enhancements}
+## Förbättringar av webbanpassning {#web-personalization-enhancements}
 
-** Förbättringar av [förhandsgranskning av kampanj](https://docs.marketo.com/x/fQGa)**
+** [Förbättringar av förhandsgranskning av kampanj](https://docs.marketo.com/x/fQGa)**
 
-Marknadsförare kan nu se till att deras webbkampanjer ser bra ut på alla enheter *innan* de lanseras. Med de här förbättringarna kan du se hur webbkampanjer kommer att se ut på både dator, mobila enheter och surfplattor. Den nya pluginen för Chrome ger också enhetligare och exaktare förhandsgranskningar.
+Marknadsförare kan nu se till att deras webbkampanjer ser bra ut på alla enheter *innan* startar dem. Med de här förbättringarna kan du se hur webbkampanjer kommer att se ut på både dator, mobila enheter och surfplattor. Den nya pluginen för Chrome ger också enhetligare och exaktare förhandsgranskningar.
 
-** [Förbättringar](https://docs.marketo.com/x/KgNI)i widgetkampanj**
+** [Förbättringar av widgetkampanjer](https://docs.marketo.com/x/KgNI)**
 
 Nu finns nya alternativ för widgetkampanjer:
 
@@ -55,7 +55,7 @@ Nu finns nya alternativ för widgetkampanjer:
 
 ## Innehåll`<sup>AI</sup>` {#contentai}
 
-** [`<sup>AI </sup>`ContentAnalytics och förslag](https://docs.marketo.com/x/1BPG)**
+** [Innehåll`<sup>AI </sup>`Analys och förslag](https://docs.marketo.com/x/1BPG)**
 
 Öka avkastningen på er innehållsmarknadsföring med djupare analyser och AI-baserade innehållsförslag för att öka engagemanget.** **Kraftfull analys visar hur rekommenderat innehåll fungerar, inklusive populära, trendbaserade och målgruppsbaserade vyer. Du kommer också att se förslag på ytterligare innehåll som ska inkluderas.
 
