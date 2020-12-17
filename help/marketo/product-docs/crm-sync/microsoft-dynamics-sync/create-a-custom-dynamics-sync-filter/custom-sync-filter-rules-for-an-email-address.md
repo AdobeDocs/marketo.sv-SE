@@ -15,10 +15,10 @@ ht-degree: 0%
 
 Följ de här reglerna för att förhindra synkronisering av poster som inte har någon e-postadress.
 
-* När ett lead skapas ELLER när leadets e-postadressfält uppdateras, kontrollerar du om leadet har en e-postadress och, om så är fallet, ändrar du Synkronisera till **Sant**. Ändra annars till **Falskt**
+* När ett lead skapas ELLER när leadets e-postadressfält uppdateras, kontrollerar du om leadet har en e-postadress och, om det har det, ändrar du Synkronisera till **Sant**. Ändra annars till **Falskt**
 
-* När en kontakt skapas ELLER när kontaktens e-postadressfält uppdateras, kontrollerar du om kontakten har en e-postadress och om den har det, ändrar Synkronisera till **Sant** och ändrar Synkronisera till MKto till **Sant** i kontoposten. I annat fall, ändra till **Falskt**
+* När en kontakt skapas ELLER när kontaktens e-postadressfält uppdateras kontrollerar du om kontakten har en e-postadress och om den har det ändrar du Synkronisera till **True** och ändrar Synkronisera till **True** för kontoposten. I annat fall ändrar du till **Falskt**
 
 * När kontaktens företagsnamn (parentcustomerid) uppdateras kontrollerar du om kontaktens fält Synkronisera med KTO är true. Om det är det ändrar du även Synkronisera till MKTO för kontot till **True**
-* När fältet Potentiell kund (anpassad) eller Kontakt (parentkontaktaktid) för affärsmöjligheten uppdateras, kontrollerar du om kontots Synkronisera med MKto-fält är sant eller om kontaktens Synkronisera med MKto-fält är sant. I så fall ändrar du även Synkronisera till MKTO för affärsmöjligheten till **True**
+* När fältet Potentiell kund (anpassad) eller Kontakt (parentkontaktaktid) för affärsmöjligheten uppdateras, kontrollerar du om kontots Synkronisera med MKto-fält är sant eller om kontaktens Synkronisera med MKto-fält är sant. I så fall ändrar du Synkronisera till MKTO för affärsmöjligheten till **Sant** även
 
