@@ -23,7 +23,7 @@ Account Insight är en Chrome-plugin som ger er åtgärdbara ABM-resurser och ko
 
 >[!CAUTION]
 >
->Plugin-programmet Account Insight fungerar inte i prenumerationer som bara har [SSO](http://docs.marketo.com/display/DOCS/Restrict+User+Login+to+SSO+Only) (enkel inloggning) aktiverat.
+>Plugin-programmet Account Insight fungerar inte i prenumerationer där [SSO-only](http://docs.marketo.com/display/DOCS/Restrict+User+Login+to+SSO+Only) (enkel inloggning) är aktiverat.
 >
 >CRM-kontext fungerar för Salesforce när plugin-programmet startas från ett konto, en lead eller en kontakt. CRM-kontext fungerar inte för Dynamics när plugin-programmet startas från ett konto, en lead eller en kontakt. För Dynamics-användare rekommenderar vi att du använder plugin-programmet Account Insight.
 
