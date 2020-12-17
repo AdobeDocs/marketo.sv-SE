@@ -31,7 +31,7 @@ Som administratör kan du exportera relaterade resurser i ett fält så att du k
 
    ![](assets/three.png)
 
-1. Klicka på listrutan **Fältåtgärder** och välj **Exportera som används**.
+1. Klicka på listrutan **Fältåtgärder** och välj **Exportera använd av**.
 
    ![](assets/four.png)
 
