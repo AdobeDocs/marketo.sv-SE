@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Visa resultat för smarta kampanjer {#view-smart-campaign-results}
+# Visa resultat för smart kampanj {#view-smart-campaign-results}
 
 Vill du se en sammanfattning av allt som hände i en smart kampanj? Det är enkelt, så här.
 
