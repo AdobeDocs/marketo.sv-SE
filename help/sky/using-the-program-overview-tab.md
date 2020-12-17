@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Under [!UICONTROL Program Overview] fliken finns tre avsnitt: **[!UICONTROL Details]**, **[!UICONTROL Schedule]** och **[!UICONTROL Reports]**. Här är en snabb titt på var och en.
+Det finns tre avsnitt under fliken [!UICONTROL Program Overview]: **[!UICONTROL Details]**, **[!UICONTROL Schedule]** och **[!UICONTROL Reports]**. Här är en snabb titt på var och en.
 
 ## Detaljer
 
@@ -22,7 +22,7 @@ På sidan med huvudinformation visas allmän information om programmet.
 
 ![Bild ett](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-1.png)
 
-Längst ned på sidan finns två avsnitt: **[!UICONTROL Program Stats]** och **[!UICONTROL Used By]**. **[!UICONTROL Program Stats]** visar nyckeltal om programprestanda och **[!UICONTROL Used By]** är ett enkelt sätt att se var ditt program används i Marketo.
+Längst ned på sidan finns två avsnitt: **[!UICONTROL Program Stats]** och **[!UICONTROL Used By]**. **[!UICONTROL Program Stats]** visar nyckeltal om programprestanda och  **[!UICONTROL Used By]** är ett enkelt sätt att se var ditt program används i Marketo.
 
 ![Bild två](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-2.png)
 
