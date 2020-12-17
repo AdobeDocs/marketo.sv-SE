@@ -31,5 +31,5 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Vad är ett bra lösenord? Något långt med massor av bokstäver, siffror och symboler som &quot; [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection) !$ [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection)&quot;. Förutom den där. Var kreativ och gör din egen.
+   >Vad är ett bra lösenord? Något långt med många bokstäver, siffror och symboler som &quot; [[e-postskyddat]](http://docs.marketo.com/cdn-cgi/l/email-protection) !$ [[e-postskyddad]](http://docs.marketo.com/cdn-cgi/l/email-protection)&quot;. Förutom den där. Var kreativ och gör din egen.
 
