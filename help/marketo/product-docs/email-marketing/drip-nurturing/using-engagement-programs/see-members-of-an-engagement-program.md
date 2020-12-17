@@ -21,7 +21,7 @@ Ni kan snabbt se medlemmar i ett engagemangsprogram. Så här gör du.
 
    >[!NOTE]
    >
-   >Kolumnvärdet [Utfyllt innehåll](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) uppdateras efter varje omgång.
+   >Kolumnvärdet [Utsträckt innehåll](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) uppdateras efter varje byte.
 
 1. Nu kan du se alla medlemmar i programmet.
 
