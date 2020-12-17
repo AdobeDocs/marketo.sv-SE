@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Hårda och mjuka studsar i e-postmeddelanden {#hard-and-soft-bounces-in-email}
+# Hårda och mjuka studsar i e-post {#hard-and-soft-bounces-in-email}
 
 Ett hårt studsande kan göra en persons e-postadress ogiltig när en e-postserver meddelar Market att personens e-postadress inte kan levereras. Ett mjukt studs innebär att något gick fel när e-postmeddelandet skickades till personen. detta löses automatiskt och kan ibland ta dagar. Både hårda och mjuka studsar består av [flera kategorier](http://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838).
 
@@ -19,17 +19,17 @@ Ett hårt studsande kan göra en persons e-postadress ogiltig när en e-postserv
 
 Det finns fem personsträngar i Marketo som är relaterade till problematisk e-postleverans.
 
-1. **Uppskjuten** e-post - Ange som True när en viss typ av hård studsning inträffar.
-1. **Orsak** till uppehåll i e-post - Det kan finnas många orsaker. Det här fältet försöker förklara orsaken.
+1. **Uppskjuten**  e-post - Ange som True när en viss typ av hård studsning inträffar.
+1. **Orsak**  till avbruten e-post - Det kan finnas många orsaker. Det här fältet försöker förklara orsaken.
 1. **E-post avbruten vid **- När den kränkta studsen inträffar gör Marketo uppehåll i e-postutskick till personen i 24 timmar från den här tidsstämpeln.
-1. **Ogiltig** e-post - Ange som true när en viss typ av hård studsning inträffar.
-1. **Ogiltig orsak** till e-post - Orsaken till den hårda studsen.
+1. **Ogiltig**  e-post - Ange som True när en viss typ av hård studsning inträffar.
+1. **E-postfel orsak**  - Orsaken till den hårda studsen.
 
 >[!NOTE]
 >
->När en person når **status för pausad** e-post finns det inget sätt att avmarkera kryssrutan för pausad e-post. Personen kommer dock fortfarande att kunna mejlas 24 timmar efter det första uppehållet.
+>När en person når **e-postmeddelandet som är inaktiverat** finns det inget sätt att rensa kryssrutan för att pausa e-postmeddelandet. Personen kommer dock fortfarande att kunna mejlas 24 timmar efter det första uppehållet.
 >
->När en person har markerats som ogiltig **för** e-post kan de bara återställas manuellt (vilket vi rekommenderar att du bara gör om du vet att deras e-postadress är giltig) genom att avmarkera rutan E-post ogiltig på fliken Personinformation i posten.
+>När en person har markerats som **e-post ogiltig** kan de bara återställas manuellt (vilket vi rekommenderar att du bara gör om du vet att deras e-postadress är giltig) genom att avmarkera rutan E-post ogiltig på fliken Personinformation i posten.
 
 >[!PREREQUISITES]
 >
