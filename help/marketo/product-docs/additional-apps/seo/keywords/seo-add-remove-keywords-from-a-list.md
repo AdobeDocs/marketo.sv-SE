@@ -17,11 +17,11 @@ Du kan hålla alla nyckelord på ett trevligt och organiserat sätt med hjälp a
 
 ## Lägg till i en lista {#add-to-a-list}
 
-1. Gå till avsnittet **Nyckelord** .
+1. Gå till avsnittet **Nyckelord**.
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. Håll muspekaren över det nyckelord som du vill lägga till i en lista. Klicka på **LÄGG TILL/TA BORT FRÅN LISTAN**.
+1. Håll muspekaren över det nyckelord som du vill lägga till i en lista. Klicka på **LÄGG TILL/TA BORT FRÅN LISTA**.
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
@@ -37,15 +37,15 @@ Du kan hålla alla nyckelord på ett trevligt och organiserat sätt med hjälp a
 
 Woohoo! Markera listan om du vill se de nya nyckelorden.
 
-## Ta bort nyckelord från lista {#remove-keyword-from-list}
+## Ta bort nyckelord från listan {#remove-keyword-from-list}
 
 Du kan också ta bort nyckelord från en lista.
 
-1. Gå till avsnittet **Nyckelord** .
+1. Gå till avsnittet **Nyckelord**.
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. Håll muspekaren över det nyckelord som du vill ta bort från en lista. Klicka på **LÄGG TILL/TA BORT FRÅN LISTAN**.
+1. Håll muspekaren över det nyckelord som du vill ta bort från en lista. Klicka på **LÄGG TILL/TA BORT FRÅN LISTA**.
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 
