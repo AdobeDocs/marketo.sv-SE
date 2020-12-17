@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Skicka ett exempelmeddelande {#send-a-sample-email}
 
-Det går snabbt och enkelt att skicka exempel på e-postmeddelanden. Mer information om hur du skickar ett e-postmeddelande med dynamiskt innehåll finns i [Förhandsgranska ett e-postmeddelande med dynamiskt innehåll](../../../../product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
+Det går snabbt och enkelt att skicka exempel på e-postmeddelanden. Mer information om hur du skickar e-post med dynamiskt innehåll finns i [Förhandsgranska ett e-postmeddelande med dynamiskt innehåll](../../../../product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ Det går snabbt och enkelt att skicka exempel på e-postmeddelanden. Mer informa
    >
    >Mina token matchar värdet som passar e-postprogrammet.
 
-1. Ange en e-postadress för leverans och klicka på **Skicka**.
+1. Ange en e-postadress för leveransen och klicka på **Skicka**.
 
    ![](assets/two.png)
 
@@ -41,11 +41,11 @@ Det går snabbt och enkelt att skicka exempel på e-postmeddelanden. Mer informa
 
    >[!TIP]
    >
-   >Om du vill lösa tokens som en viss person väljer du den personen i listrutan **** Personen i steg 2.
+   >Om du vill lösa tokens som en viss person väljer du personen i listrutan **person** i steg 2.
 
 ## Skicka ett exempelmeddelande när du redigerar {#send-a-sample-email-while-editing}
 
-1. Leta reda på e-postmeddelandet, markera det och klicka på fliken **Redigera utkast** .
+1. Leta reda på e-postmeddelandet, markera det och klicka på fliken **Redigera utkast**.
 
    ![](assets/three-281-29.jpg)
 
@@ -53,7 +53,7 @@ Det går snabbt och enkelt att skicka exempel på e-postmeddelanden. Mer informa
 
    ![](assets/four.png)
 
-1. Ange en e-postadress för leverans och klicka på **Skicka**.
+1. Ange en e-postadress för leveransen och klicka på **Skicka**.
 
    ![](assets/two.png)
 
@@ -61,13 +61,13 @@ Det går snabbt och enkelt att skicka exempel på e-postmeddelanden. Mer informa
    >
    >Utlösarfältet gäller endast för dem som använder [e-postskript](http://developers.marketo.com/documentation/velocity-script/).
 
-## Skicka ett exempelmeddelande baserat på ett segment {#send-a-sample-email-based-on-a-segment}
+## Skicka ett exempel på e-post baserat på ett segment {#send-a-sample-email-based-on-a-segment}
 
 >[!PREREQUISITES]
 >
 >[Använd segmentering i e-postmeddelanden](http://docs.marketo.com/display/public/DOCS/Using+Dynamic+Content+in+an+Email).
 
-1. Leta reda på e-postmeddelandet, markera det och klicka på fliken **Redigera utkast** .
+1. Leta reda på e-postmeddelandet, markera det och klicka på fliken **Redigera utkast**.
 
    ![](assets/three-281-29.jpg)
 
@@ -87,12 +87,12 @@ Det går snabbt och enkelt att skicka exempel på e-postmeddelanden. Mer informa
 
    ![](assets/4.png)
 
-1. Klicka på **Skicka exempel** om du vill få ett test-e-postmeddelande om ditt segment.
+1. Klicka på **Skicka exempel** om du vill få ett test-e-postmeddelande om ditt segment i aktion.
 
    ![](assets/5.png)
 
    >[!TIP]
    >
-   >Du kan också skicka ett exempelmejl baserat på ett segment i redigeringsläget för e-postmeddelandet. Klicka på listrutan **E-poståtgärder** , välj **Skicka exempel** och välj sedan ditt segment.
+   >Du kan också skicka ett exempelmejl baserat på ett segment i redigeringsläget för e-postmeddelandet. Klicka på listrutan **E-poståtgärder**, välj **Skicka exempel** och välj sedan ditt segment.
 
 Det är mycket viktigt att ta prov på ditt innehåll innan en kampanj lanseras. Mät två gånger, en gång!
