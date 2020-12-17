@@ -31,7 +31,7 @@ I den smarta kampanjens lista kan du utlösa en flödesåtgärd när ett anpassa
 >
 >Ingen aktivitetsloggpost skapas när en anpassad objektpost ändras.
 
-1. Gå till **Marketo.**
+1. Gå till **Marknadsföringsaktiviteter i Marketo.**
 
    ![](assets/image2016-7-25-15-3a49-3a52.png)
 
