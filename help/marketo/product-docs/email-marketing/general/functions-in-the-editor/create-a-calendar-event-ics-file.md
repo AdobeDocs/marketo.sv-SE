@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Med en Calendar File-token kan du lägga till en kalender (.ics)-länk till dina Marketo-e-postmeddelanden och landningssidor.
 
-1. Gå till fliken **Mina token** i ditt program.
+1. Gå till fliken **Mina token** i programmet.
 
    ![](assets/image2014-9-11-15-3a33-3a27.png)
 
-1. Dra en **Calendar File** -token till arbetsytan.
+1. Dra en **kalenderfil**-token till arbetsytan.
 
    ![](assets/image2014-9-11-15-3a34-3a0.png)
 
-1. Ange ett **tokennamn** och **redigera**.
+1. Ange ett **tokennamn** och **Redigera**.
 
    ![](assets/image2014-9-11-15-3a34-3a10.png)
 
