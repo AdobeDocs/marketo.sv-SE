@@ -23,11 +23,11 @@ Men när du importerar det till Marketo kanske du ser att de icke-engelska teckn
 
 Det beror på att filen inte har sparats korrekt för Marketo för att alla icke-latinska tecken ska kännas igen. Den goda nyheten är att du kan följa några enkla steg för att åtgärda det.
 
-1. Välj **Spara som...** på **Arkiv** -menyn i Excel.
+1. Välj **Spara som..** från menyn **Arkiv** i Excel.
 
    ![](assets/image2015-2-10-9-3a46-3a44.png)
 
-1. Välj **UTF-16 Unicode-text (.txt)** som **formatalternativ** . Detta kodar filen så som Marketo kan visa den.
+1. Välj **UTF-16 Unicode-text (.txt)** som **Format**-alternativ. Detta kodar filen så som Marketo kan visa den.
 
    ![](assets/image2015-2-10-9-3a48-3a7.png)
 
@@ -47,7 +47,7 @@ Det beror på att filen inte har sparats korrekt för Marketo för att alla icke
 
    ![](assets/image2015-2-10-9-3a55-3a53.png)
 
-1. Välj **Sök och ersätt..** på menyn **Redigera** .
+1. Välj **Sök och ersätt...** från menyn **Redigera**.
 
    ![](assets/image2015-2-10-9-3a59-3a8.png)
 
@@ -55,7 +55,7 @@ Det beror på att filen inte har sparats korrekt för Marketo för att alla icke
    >
    >Motsvarande åtgärd för Windows-användare är: **Redigera > Ersätt..**
 
-1. Klistra in fliken som du kopierade i steg 4 i den första rutan (som ska ersättas) och skriv in ett kommatecken i den andra rutan (ersätt med). Och klicka på **Alla**.
+1. Klistra in fliken som du kopierade i steg 4 i den första rutan (som ska ersättas) och skriv in ett kommatecken i den andra rutan (ersätt med). Klicka sedan på **Alla**.
 
    ![](assets/image2015-2-10-10-3a8-3a53.png)
 
