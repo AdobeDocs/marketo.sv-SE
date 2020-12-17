@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Versionsinformation: Våren 18 {#release-notes-spring}
+# Versionsinformation: Spring &#39;18 {#release-notes-spring}
 
 Följande funktioner finns i vårutgåvan 18. Se om din Marketo-utgåva har funktioner tillgängliga.
 
@@ -69,11 +69,11 @@ Dela enkelt dina snabbdiagram med andra Performance Insights-användare.
 
 Optimerad navigering och förbättrade arbetsflöden ger er insyn i kriterier för att lyckas med programmet och tillgång till programinformation.
 
-## <sup>ContentAI</sup>  {#contentai}
+## Innehåll<sup>AI</sup> {#contentai}
 
 [Målinställning](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 
-Ange målet för optimeringsalgoritmen<sup>ContentAI</sup> för att få fler vyer, klick eller konverteringar.
+Ange målet för optimeringsalgoritmen för innehåll<sup>AI</sup> om du vill skapa fler vyer, klick eller konverteringar.
 
 ## Integrering och API:er {#integration-and-apis}
 
