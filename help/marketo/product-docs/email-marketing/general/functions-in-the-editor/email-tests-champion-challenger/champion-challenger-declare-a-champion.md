@@ -20,29 +20,29 @@ När du är klar kan du deklarera en kampanj för ditt e-posttest.
 >* [Champion/Challenger: Godkänn ditt e-posttest](champion-challenger-approve-your-email-test.md)
 
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Leta upp och högerklicka på ditt e-posttest och klicka sedan på **Deklarera tävling**.
+1. Sök efter och högerklicka på ditt e-posttest och klicka sedan på **Deklarera tävling**.
 
    ![](assets/champion4.jpg)
 
-1. Välj **vinnare** .
+1. Välj **vinnare**.
 
    ![](assets/image2014-9-15-13-3a33-3a33.png)
 
-1. Ange **deklarationsdatum**.
+1. Ange **Deklarationsdatum**.
 
    >[!NOTE]
    >
-   >Fram till **Deklarationsdatumet** kommer Marketo att fortsätta skicka den gamla segraren och utmanaren/utmanarna. När datum/tid är nådd skickas bara den nya segraren.
+   >Fram till **Deklarera datum** kommer Marketo att fortsätta skicka den eller de gamla förkämparna och utmanarna. När datum/tid är nådd skickas bara den nya segraren.
 
    ![](assets/image2014-9-15-13-3a33-3a47.png)
 
    >[!CAUTION]
    >
-   >Observera att standardvärdet för **Deklarationsdatum** är i morgon, inte i dag.
+   >Observera att standardvärdet **Deklarera datum** är i morgon, inte i dag.
 
    Välj en tid och klicka på **Spara**.
 
