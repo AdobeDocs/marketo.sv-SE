@@ -25,7 +25,7 @@ Få en smart kampanj att köras på en person i taget baserat på live-händelse
 
    >[!NOTE]
    >
-   >En smart kampanj med utlösare körs i **utlösarläge** . Den körs på en person i taget baserat på händelser som utlösts och eventuella ytterligare filter.
+   >En smart kampanj med utlösare körs i **utlösarläge**. Den körs på en person i taget baserat på händelser som utlösts och eventuella ytterligare filter.
 
 1. Klicka på listrutan och välj en operator.
 
@@ -45,7 +45,7 @@ Få en smart kampanj att köras på en person i taget baserat på live-händelse
 
    >[!NOTE]
    >
-   >Med flera utlösare går en person igenom flödet om **någon** av utlösarna aktiveras.
+   >Med flera utlösare går en person igenom flödet om **ANY** någon av utlösarna aktiveras.
 
    [Definiera smart lista för smart kampanj | Grupp](define-smart-list-for-smart-campaign-batch.md)
 
