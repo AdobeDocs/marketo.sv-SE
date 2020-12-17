@@ -25,7 +25,7 @@ Så här redigerar du personliga partitioner/arbetsytetilldelningar:
 
 >[!CAUTION]
 >
->Arbetsytor och personpartitioner kan vara komplexa. Kontakta [Marketos support](http://support.marketo.com/) om du behöver hjälp med att konfigurera dem.
+>Arbetsytor och personpartitioner kan vara komplexa. Kontakta [Marketo support](http://support.marketo.com/) om du behöver hjälp med att konfigurera dem.
 
 1. Klicka på Arbetsytor och partitioner under Admin.
 
