@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Förstå preliminära/bekräftade datum {#understanding-tentative-confirmed-dates}
+# Tentativa/bekräftade datum {#understanding-tentative-confirmed-dates}
 
-Smarta kampanjer och e-postprogram kan markeras som **Preliminära** eller **Bekräftade**. Så här fungerar de.
+Smarta kampanjer och e-postprogram har en kraftfull funktion som kan markeras som **Preliminärt** eller **Bekräftat**. Så här fungerar de.
 
 ## Preliminärt {#tentative}
 
@@ -25,7 +25,7 @@ Preliminära datum förmedlar avsikter. Tänk på detta som *penciling *något i
 >
 >Endast smarta gruppkampanjer och e-postprogram kan vara försiktiga.
 
-## Bekräfta transaktioner {#confirming-entries}
+## Bekräfta inmatningar {#confirming-entries}
 
 Det är som att godkänna en resurs, så posterna måste vara helt konfigurerade innan du kan bekräfta dem. När alla ankor är i rad kan du bekräfta inmatningar genom att dra den preliminära fliken åt höger.
 
@@ -41,9 +41,9 @@ Bekräftade poster kommer definitivt att köras. De har regler, godkända tillg�
 
 ![](assets/image2014-9-23-15-3a23-3a30.png)
 
-## Slutförd  {#finished}
+## Slutförd {#finished}
 
-Slutförda poster har redan körts. De kan bara finnas i det förflutna (uppenbarligen). När en post har körts och är **klar** kan du inte flytta den eller göra den preliminärt. (Ingen föränderlig verklighet och störande av kontinuiteten i tidsströmmen.)
+Slutförda poster har redan körts. De kan bara finnas i det förflutna (uppenbarligen). När en post har körts och är **Slutförd** kan du inte flytta den eller göra den preliminärt. (Ingen föränderlig verklighet och störande av kontinuiteten i tidsströmmen.)
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 
