@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Ni kan ändra det sätt Marketo knyter kontakter till möjligheter för första- och flerberöringsattribuering, konverteringsstatistik för leads och flaggan för marknadspåverkade affärsmöjligheter.
 
-De här inställningarna påverkar Intresseutforskarrapporter under områdena [Programsäljprojektsanalys](../../../product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Affärsmöjlighetsanalys](../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)och Leadanalys. Det här påverkar även rapporten för Program Analyzer.
+De här inställningarna påverkar Intresseutforskarrapporter under [Programsäljprojektsanalys](../../../product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Affärsmöjlighetsanalys](../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md) och Leadanalys. Det här påverkar även rapporten för Program Analyzer.
 
-1. Klicka på **Inkomstcykelanalys** under avsnittet **Admin**.
+1. Klicka på **Intäktscykelanalys** under **Admin**.
 
    ![](assets/image2014-9-24-11-3a55-3a19.png)
 
