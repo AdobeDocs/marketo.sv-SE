@@ -14,7 +14,7 @@ ht-degree: 0%
 # SEO - Ta bort ett nyckelord {#seo-remove-a-keyword}
 
 1. Om du har ett nyckelord som du inte vill fortsätta att optimera för gör du så här:
-1. Klicka för att gå till avsnittet **Nyckelord** .
+1. Klicka för att gå till avsnittet **Nyckelord**.
 
    ![](assets/image2014-9-18-13-3a35-3a52.png)
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a36-3a6.png)
 
-1. Bekräfta genom att klicka på **DELETE** igen.
+1. Klicka på **DELETE** igen för att bekräfta.
 
    ![](assets/image2014-9-18-13-3a36-3a11.png)
 
