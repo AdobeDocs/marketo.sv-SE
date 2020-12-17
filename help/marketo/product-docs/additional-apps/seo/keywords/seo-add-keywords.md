@@ -19,7 +19,7 @@ Nyckelord är fraser som användare skriver i sökmotorer. Lägg till de nyckelo
 >
 >Om du har många nyckelord kan du [importera dem med en CSV-fil](seo-importing-keywords-with-a-csv.md).
 
-1. Gå till avsnittet **Nyckelord** .
+1. Gå till avsnittet **Nyckelord**.
 
    ![](assets/image2014-9-18-11-3a28-3a39.png)
 
