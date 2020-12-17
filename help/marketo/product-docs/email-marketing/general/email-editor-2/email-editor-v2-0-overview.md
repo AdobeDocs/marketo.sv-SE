@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# E-postredigerare v2.0 - översikt {#email-editor-v-overview}
+# E-postredigeraren v2.0 - översikt {#email-editor-v-overview}
 
 När du bestämmer dig för att aktivera e-postredigeraren v2.0 kommer du att märka flera nya funktioner.
 
 **Väljare för e-postmall**
 
-När du skapar ett nytt e-postmeddelande visas väljaren för [e-postmallar](email-template-picker-overview.md).
+När du skapar ett nytt e-postmeddelande dirigeras du till [e-postmallväljaren](email-template-picker-overview.md).
 
 ![](assets/starter-templates-1.png)
 
@@ -41,7 +41,7 @@ Växlingen mellan HTML-versionen och textversionen av e-postmeddelandet finns nu
 
 **E-posthuvud**
 
-Vill du ha mer designutrymme? E-postrubriken kan döljas när du är klar med [redigeringen](../../../../product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Klicka bara på den här ikonen..
+Vill du ha mer designutrymme? E-postrubriken kan döljas när du har redigerat [den](../../../../product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Klicka bara på den här ikonen..
 
 ![](assets/five-4.png)
 
@@ -73,7 +73,7 @@ Standardvyn där är skrivbordet..
 
 **E-poståtgärder**
 
-Under **E-poståtgärder** kommer du att märka några nya funktioner. **Ladda upp en bild eller fil** och **ta bilder från webben**. Du kan också spara själva e-postmeddelandet som en ny e-postmall. Allt du behöver göra är att ge den ett namn och ett mål.
+Under **E-poståtgärder** kommer du att märka några nya funktioner. **Ladda upp en bild eller fil** och  **ta bilder från webben**. Du kan också spara själva e-postmeddelandet som en ny e-postmall. Allt du behöver göra är att ge den ett namn och ett mål.
 
 ![](assets/nine-3.png)
 
@@ -85,7 +85,7 @@ Under **E-poståtgärder** kommer du att märka några nya funktioner. **Ladda u
 >
 >** [Hämta bilder från webben](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** fungerar på samma sätt som i Design Studio.
 
-**Inaktivera Open Tracking** under **Email Settings**(Spårning av öppna under e-postinställningar), om det behövs, kan du inaktivera Open Tracking.
+**Inaktivera Open** TrackingUnder  **Email Settings** (E-postinställningar) kan du inaktivera Open Tracking (spåra) om det behövs.
 
 ![](assets/thirteen-1.png)
 
