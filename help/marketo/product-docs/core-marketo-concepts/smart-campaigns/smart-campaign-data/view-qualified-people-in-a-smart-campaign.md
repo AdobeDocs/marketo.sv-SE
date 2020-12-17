@@ -23,7 +23,7 @@ Se personer som är kvalificerade att gå igenom flödet när ni kör en smart k
 >
 >Utlösande smarta kampanjer visar inte kvalificerade personer, eftersom de körs baserat på live-event.
 
-1. Fliken **Personer** med kvalificerade personer listar de personer som är kvalificerade att gå igenom flödet när kampanjen körs.
+1. På fliken **Berättigade personer** visas de personer som är kvalificerade att gå igenom flödet när kampanjen körs.
 
    ![](assets/qualifiedpeople-tab.png)
 
