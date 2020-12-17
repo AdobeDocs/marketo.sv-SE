@@ -27,7 +27,7 @@ Du kan skapa anpassade [taggar](../../../product-docs/core-marketo-concepts/prog
 >
 >Programtaggvärde: SMB, Enterprise, Mid Market
 
-1. Klicka på **Taggar** under **Admin**.
+1. Under **Admin** klickar du på **Taggar**.
 
    ![](assets/image2014-9-24-12-3a10-3a32.png)
 
@@ -35,7 +35,7 @@ Du kan skapa anpassade [taggar](../../../product-docs/core-marketo-concepts/prog
 
    ![](assets/image2014-9-24-12-3a12-3a43.png)
 
-1. Ange **taggtyp** och ett **taggvärde**. Klicka sedan på **Lägg till annan**.
+1. Ange **taggtyp** och en tagg **Värde**. Klicka sedan på **Lägg till en annan**.
 
    ![](assets/image2014-9-24-12-3a16-3a55.png)
 
@@ -47,13 +47,13 @@ Du kan skapa anpassade [taggar](../../../product-docs/core-marketo-concepts/prog
    >
    >Du kan välja flera programtyper. När ett nytt program skapas blir den här taggtypen tillgänglig.
 
-1. Markera **Obligatoriskt** och klicka på **Skapa**.
+1. Markera **Obligatorisk** och klicka på **Skapa**.
 
    ![](assets/image2014-9-24-12-3a18-3a33.png)
 
    >[!NOTE]
    >
-   >Om taggtypen är **obligatorisk** måste användarna ange ett värde för taggen när de skapar ett nytt program.
+   >Om taggtypen är **Obligatorisk** måste användarna ange ett värde för taggen när de skapar ett nytt program.
 
    ![](assets/image2014-9-24-12-3a19-3a17.png)
 
