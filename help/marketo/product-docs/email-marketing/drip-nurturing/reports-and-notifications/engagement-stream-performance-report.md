@@ -17,7 +17,7 @@ Vill du veta hur engagemangsinnehållet fungerar? Testa rapporten om hur engagem
 
 ## Skapa rapporten {#create-the-report}
 
-1. Hitta och välj ditt engagemangsprogram och klicka sedan på **Ny lokal resurs** under **Nytt**.
+1. Hitta och välj ditt engagemangsprogram och klicka sedan på **Nytt** **Ny lokal resurs** under &lt;a0/>Nytt&lt;a1/>.
 
    ![](assets/localassetnutring.jpg)
 
@@ -44,7 +44,7 @@ Vill du veta hur engagemangsinnehållet fungerar? Testa rapporten om hur engagem
 
    ![](assets/engagementperformancereport.jpg)
 
-1. Dubbelklicka på e-postfiltret för **engagemangsprogrammet på fliken** Inställningar **** .
+1. Under fliken **Setup** dubbelklickar du på filtret **Engagement Program Email**.
 
    ![](assets/image2014-9-15-18-3a25-3a4.png)
 
@@ -54,14 +54,14 @@ Vill du veta hur engagemangsinnehållet fungerar? Testa rapporten om hur engagem
 
 ## Kör rapport {#run-report}
 
-1. Om du vill köra rapporten klickar du bara på fliken **Rapport** .
+1. Klicka på fliken **Rapport** om du vill köra rapporten.
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 
    >[!TIP]
    >
    >
-   >Även om det inte finns någon illustration är Engagement Score en kolumn i den här rapporten. Se [Förstå engagemangspoängen](understanding-the-engagement-score.md) för mer information om vad det är.
+   >Även om det inte finns någon illustration är Engagement Score en kolumn i den här rapporten. Mer information om vad det är finns i [Förstå engagemangspoängen](understanding-the-engagement-score.md).
 
    Bra jobbat! Observera att rapporten grupperas efter engagemangsprogram.
 
