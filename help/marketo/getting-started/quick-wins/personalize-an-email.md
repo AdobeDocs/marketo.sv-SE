@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## Steg 1: Välj en e-postadress att anpassa {#step-select-an-email-to-personalize}
 
-1. Välj en av de vårdnadstexter som skapades i den [tidigare snabbvinningen](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md) och klicka på **Redigera utkast**.
+1. Välj en av de vårdnadstexter som skapades i [föregående snabbwin](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md) och klicka på **Redigera utkast**.
 
    ![](assets/one-4.png)
 
@@ -32,35 +32,35 @@ ht-degree: 0%
    >
    >Detta skapar en kopia av e-postmeddelandet som ett utkast. Du måste godkänna utkastet för att ändringarna ska börja gälla.
 
-Om du inte har aktiverat en popup-blockerare öppnas e-postredigeraren i ett nytt flik/fönster. I annat fall klickar du på **Redigera utkast** två gånger.
+Om du inte har aktiverat en popup-blockerare öppnas e-postredigeraren i ett nytt flik/fönster. Annars klickar du **Redigera utkast** två gånger.
 
 ## Steg 2: Gör säljaren till avsändaren {#step-make-the-salesperson-the-sender}
 
-1. Markera fältet **Från** , markera och **ta bort** det aktuella namnet.
+1. Markera fältet **Från**, markera och **ta bort** det aktuella namnet.
 
    ![](assets/two-5.png)
 
-1. Klicka på ikonen **Token** till höger om fältet **Från** .
+1. Klicka på ikonen **Token** till höger om fältet **Från**.
 
    ![](assets/three-4.png)
 
-1. Sök efter och välj **`{{lead.Lead Owner First Name}}`** token.
+1. Sök efter och välj **`{{lead.Lead Owner First Name}}`**-token.
 
    ![](assets/four-3.png)
 
-1. Skriv ditt företagsnamn och ett tankstreck för **standardvärdet** för att se till att något visas om säljarens förnamn inte är tillgängligt. Klicka på **Infoga**.
+1. Skriv ditt företagsnamn och ett bindestreck för **Standardvärdet** för att se till att något visas om säljarens förnamn inte är tillgängligt. Klicka på **Infoga**.
 
    ![](assets/five-4.png)
 
-1. Tryck på blankstegstangenten i fältet **Från** och se till att markören blinkar ett blanksteg efter den variabel du just infogade. Klicka sedan på **tokenikonen** igen.
+1. Tryck på blankstegstangenten i fältet **Från** och se till att markören blinkar ett blanksteg efter den variabel du just infogade. Klicka sedan på ikonen **Token** igen.
 
    ![](assets/six-4.png)
 
-1. Sök efter och välj **`{{lead.Lead Owner Last Name}}`** token.
+1. Sök efter och välj **`{{lead.Lead Owner Last Name}}`**-token.
 
    ![](assets/seven-5.png)
 
-1. Skriv&quot;Försäljning&quot; som **standardvärde** och klicka på **Infoga**.
+1. Skriv &quot;Sales&quot; för **Standardvärde** och klicka på **Infoga**.
 
    ![](assets/eight-3.png)
 
@@ -70,11 +70,11 @@ Om du inte har aktiverat en popup-blockerare öppnas e-postredigeraren i ett nyt
 
    ![](assets/nine-2.png)
 
-1. Lägg till ett blanksteg efter &quot;Hello&quot; och placera markören framför kommatecknet och klicka sedan på ikonen **Infoga token** .
+1. Lägg till ett blanksteg efter &quot;Hello&quot; och placera markören framför kommatecknet och klicka sedan på ikonen **Infoga token**.
 
    ![](assets/ten-4.png)
 
-1. Sök efter och välj **`{{lead.First Name}}`** token.
+1. Sök efter och välj **`{{lead.First Name}}`**-token.
 
    ![](assets/eleven-4.png)
 
@@ -102,7 +102,7 @@ Om du inte har aktiverat en popup-blockerare öppnas e-postredigeraren i ett nyt
 >
 >Behöver du en snabb uppdatering av hur du skickar e-postmeddelandet till dig själv? Se [Skicka en e-poststund](/help/marketo/getting-started/quick-wins/send-an-email.md).
 
-### Uppdraget är slutfört {#mission-complete}
+### Uppdraget är klart {#mission-complete}
 
 Grattis, du har personaliserat din e-post!
 
