@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SEO - Ange e-postaviseringsinställningar {#seo-set-your-email-alert-preferences}
+# SEO - Ange dina e-postaviseringsinställningar {#seo-set-your-email-alert-preferences}
 
 Du kan anpassa e-postinställningarna för att avgöra när du ska uppdateras om SEO-arbetet.
 
