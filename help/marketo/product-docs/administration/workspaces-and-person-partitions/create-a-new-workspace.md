@@ -28,7 +28,7 @@ Så här skapar du en ny arbetsyta.
 >
 >**Djupdykning**
 >
->Förstå först arbetsytor och [personpartitioner](understanding-workspaces-and-person-partitions.md).
+>Förstå först arbetsytor och personpartitioner[.](understanding-workspaces-and-person-partitions.md)
 
 >[!NOTE]
 >
@@ -42,14 +42,14 @@ Så här skapar du en ny arbetsyta.
 
    ![](assets/two-1.png)
 
-1. Ange ett** namn** och välj den eller de **personpartitioner** som du vill använda. Välj en **primär personpartition**.
+1. Ange ett** namn** och välj den **personpartition(er)** som du vill använda. Välj en **primär personpartition**.
 
    >[!NOTE]
    >
    >**Påminnelse**
    >
    >
-   >Se till att du [skapar personpartitioner](create-a-person-partition.md) om du inte redan gjort det.
+   >Se till att [skapa personpartitioner](create-a-person-partition.md) om du inte redan gjort det.
 
    ![](assets/three-1.png)
 
