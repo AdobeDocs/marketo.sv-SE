@@ -27,7 +27,7 @@ Du kan importera en lista över personer som automatiskt blir medlemmar i ett pr
 
 ## Importera din CSV-fil till Marketo {#import-your-csv-into-marketo}
 
-1. Gå till **medlemssektionen** i ditt program.
+1. Gå till avsnittet **Medlemmar** i ditt program.
 
    ![](assets/image2014-9-18-15-3a3-3a57.png)
 
@@ -39,13 +39,13 @@ Du kan importera en lista över personer som automatiskt blir medlemmar i ett pr
 
    ![](assets/importlist1.png)
 
-1. Mappa datavärdena från listan till motsvarande Markto-fält och klicka på **Nästa**.
+1. Mappa datavärdena från listan till motsvarande Marketo-fält och klicka på **Nästa**.
 
    ![](assets/importlist12.png)
 
    >[!NOTE]
    >
-   >Om det finns fält som du inte vill importera väljer du **IGNORERA** i listrutan Marketinfält.
+   >Om det finns fält som du inte vill importera väljer du **IGNORE** i listrutan Marketinfält.
 
 1. Välj **medlemsstatus** för listan.
 
