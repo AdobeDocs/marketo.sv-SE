@@ -33,5 +33,5 @@ Du måste konfigurera användare med en licens för att använda ABM. Så här g
 
    >[!NOTE]
    >
-   >Om du vill ta bort en användarlicens följer du steg 1, ** avmarkerar kryssrutan och klickar på **Spara**.
+   >Om du vill ta bort en användarlicens följer du steg 1 och *kör* kryssrutan och klickar sedan på **Spara**.
 
