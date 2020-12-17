@@ -25,7 +25,7 @@ Om du vill filtrera efter kontolista klickar du på listrutan Visa...
 
 ![](assets/three.png)
 
-Om du vill visa instrumentpanelen för [kontolistan](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard)klickar du på namnet på den kontolista du valde...
+Om du vill visa kontrollpanelen [Kontolista](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard) klickar du på namnet på den kontolista du har valt..
 
 ![](assets/four.png)
 
@@ -37,7 +37,7 @@ Om du inte vill visa kontrollpanelen för kontolistan utan vill gå ned i ett na
 
 ![](assets/six.png)
 
-...och visa det [namngivna kontots insikter](http://docs.marketo.com/display/DOCS/Named+Account+Insights).
+...och visa det namngivna kontots [insikter](http://docs.marketo.com/display/DOCS/Named+Account+Insights).
 
 ![](assets/seven.png)
 
