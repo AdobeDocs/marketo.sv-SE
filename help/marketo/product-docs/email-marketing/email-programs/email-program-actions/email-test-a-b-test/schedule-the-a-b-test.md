@@ -31,7 +31,7 @@ När du har lagt till ett A/B-test i ett e-postprogram och definierat vinnarkrit
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
-1. Välj **Skicka testtid** .
+1. Välj **Skicka test** tid.
 
    ![](assets/image2014-9-12-16-3a0-3a2.png)
 
@@ -39,7 +39,7 @@ När du har lagt till ett A/B-test i ett e-postprogram och definierat vinnarkrit
    >
    >Skicka test- och Skicka-vinnaren måste vara minst fyra timmars ifrån. För större utskick kanske du vill vänta i 24 timmar så att du hinner uppnå bra resultat.
 
-1. Gör samma sak för **Skicka-vinnaren**. Ange meddelandemottagare (valfritt) och klicka på **Nästa**.
+1. Gör samma sak för **Skicka-vinnare**. Ange meddelandemottagare (valfritt) och klicka på **Nästa**.
 
    >[!NOTE]
    >
@@ -52,12 +52,12 @@ När du har lagt till ett A/B-test i ett e-postprogram och definierat vinnarkrit
 
    >[!NOTE]
    >
-   >Om du väljer att deklarera en vinnare manuellt definierar du **rapportens sändningsdatum** i stället för **slutdatum** /-tid.
+   >Om du väljer att deklarera en vinnare manuellt definierar du **Report Send** datum/tid i stället för **Finish Mailing** date/time.
 
    Suverän! Nu är du klar. Granska sammanfattningen och klicka på Stäng.
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
-   Du kommer att märka att panelen **Schema** nu har uppdaterats.
+   Du kommer att märka att panelen **Schedule** nu har uppdaterats.
 
    ![](assets/image2014-9-12-16-3a1-3a33.png)
 
