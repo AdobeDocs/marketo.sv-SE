@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >**Djupdykning**
 >
->Andra releaser finns i [versionsinformationen](http://docs.marketo.com/display/docs/release+notes) .
+>Andra versioner finns i [versionsinformationen](http://docs.marketo.com/display/docs/release+notes) djupdykning.
 
 Målgruppsanpassar ni samma grupp av leads konsekvent? Om så är fallet, använd segmentering i era smarta listor för riktade leads. Med segmentering segmenteras hela din lead-databas alltid och kan återanvändas i alla program för att vara konsekvent. Segmenteringsresultaten hämtas snabbt eftersom de inte kräver att den smarta listan ska köras när begäran görs.
 
