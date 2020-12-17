@@ -41,11 +41,11 @@ Marketo hanterar registrering och närvaro av Adobe Connect webbinarium.
 
    ![](assets/new-service-adobe-connect.png)
 
-1. Ange ditt **användarnamn** och **åtkomstkod**.
+1. Ange din **användarnamn** och **åtkomstkod**.
 
    ![](assets/image2015-4-22-11-3a50-3a6.png)
 
-1. Slutför processen genom att ange webbadressen **till** mötesmappen och **deltagarens** **lösenord**** **och klicka på** Skapa.**
+1. Slutför processen genom att ange din **URL till mötesmappen** och **Deltagare** **Lösenord**,** **och klicka sedan på** Skapa.**
 
    ** ![](assets/image2015-4-22-11-3a55-3a36.png)
 
@@ -60,13 +60,13 @@ Marketo hanterar registrering och närvaro av Adobe Connect webbinarium.
    >**Exempel**
    >
    >
-   >När du har loggat in på ditt Adobe Connect-konto väljer du fliken **Seminarier** . Om du inte behöver gå in i ett visst seminarium kopierar du URL:en från webbläsarfältet till URL- **inställningen** för **mötesmappen.**
+   >När du har loggat in på ditt Adobe Connect-konto väljer du fliken **Seminarier**. Om du inte behöver gå in i något specifikt seminarium kopierar du URL:en från webbläsarfältet till **URL:en för mötesmappen** inställningen **.**
 
-1. Fenomenal! Din **Adobe Connect-tjänst** synkroniseras nu med Marketo.
+1. Fenomenal! Din **Adobe Connect-tjänst** har nu synkroniserats med Marketo.
 
    ![](assets/adobe-connect-service.png)
 
 >[!MORELIKETHIS]
 >
->Lär dig hur du [skapar ett event med Adobe Connect](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md).
+>Lär dig hur du [skapar en händelse med Adobe Connect](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md).
 
