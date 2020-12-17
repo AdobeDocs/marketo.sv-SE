@@ -17,7 +17,7 @@ Om du har arbetsytor kan du lägga till ytterligare profildomäner.
 
 >[!PREREQUISITES]
 >
->Du måste [redigera din standardvarumärkesdomän](edit-your-default-branding-domain.md) först.
+>Du måste [redigera din standardbranding-domän](edit-your-default-branding-domain.md) först.
 >
 >Du måste först [ersätta den generiska spårningslänken](edit-your-default-branding-domain-with-workspaces.md) med en branding-domän innan du lägger till ytterligare branding-domäner.
 
@@ -37,7 +37,7 @@ Om du har arbetsytor kan du lägga till ytterligare profildomäner.
    >
    >Du kan välja att göra detta till din primära domän för en eller flera arbetsytor, och alla befintliga e-postmeddelanden som inte skickas anges som standard, så används den primära domänen som standard för alla nya e-postmeddelanden. Du kan åsidosätta detta per e-post.
 
-1. Välj den nya varumärkesdomänen och klicka på **Spara**.
+1. Välj den nya profileringsdomänen och klicka på **Spara**.
 
    ![](assets/image2016-8-12-10-3a52-3a44.png)
 
