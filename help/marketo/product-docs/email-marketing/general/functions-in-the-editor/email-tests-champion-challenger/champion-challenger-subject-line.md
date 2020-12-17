@@ -23,15 +23,15 @@ Du kan enkelt testa flera ämnesrader. När testet är klart skickar du ut e-pos
 
 
 
-1. I e-posttestredigeraren väljer du **Ämnesrad** i listrutan **Testtyp **.
+1. Välj **Ämnesrad** i listrutan **Testtyp **i e-posttestredigeraren.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >I ett ämnesprov ska den första ämnesraden anges som **Champion**. Efterföljande ämnesrader kallas **för &quot;Challenger**&quot;.
+   >I ett ämnestest anges den första ämnesraden som **Champion**. Efterföljande ämnesrader kallas **Challenger**.
 
-1. Ange ämnesrad(er) för **resenärer**.
+1. Ange ämnesrad(er) för **resande**.
 
    ![](assets/image2014-9-15-12-3a38-3a4.png)
 
