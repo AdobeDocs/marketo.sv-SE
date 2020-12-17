@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Rensa fältvärden {#clear-field-values}
 
-** [Ändra datavärde](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)** är bra, men hur *tar du bort* värdet fullständigt? Bra fråga!
+** [Ändra datavärde](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)** är bra, men hur tar du *bort* värdet fullständigt? Bra fråga!
 
-1. I flödessteget väljer du det fält som du vill ta bort och skriver in **NULL ** (all caps) som **nytt värde**.
+1. I flödessteget väljer du det fält som du vill rensa och skriver in **NULL **(all caps) som **Nytt värde**.
 
    ![](assets/image2015-3-19-10-3a6-3a14.png)
 
