@@ -17,9 +17,9 @@ ht-degree: 0%
 >
 >**Administratörsbehörigheter krävs**
 
-För att kunna använda era [Marketing Calendar](http://docs.marketo.com/display/docs/marketing+calendar) -licenser måste ni utfärda licenser till användare som behöver åtkomst. Så här gör du.
+Om du vill använda din [marknadsföringskalender](http://docs.marketo.com/display/docs/marketing+calendar) licenser måste du utfärda licenser till användare som behöver åtkomst. Så här gör du.
 
-1. Gå till avsnittet **Admin** .
+1. Gå till avsnittet **Admin**.
 
    ![](assets/adminhand.png)
 
@@ -31,7 +31,7 @@ För att kunna använda era [Marketing Calendar](http://docs.marketo.com/display
 
    >[!TIP]
    >
-   >Använd **Ctrl/Cmd+klicka** för att markera flera användare samtidigt.
+   >Använd **Ctrl/Cmd+klicka** om du vill markera flera användare samtidigt.
 
    ![](assets/3.png)
 
@@ -43,7 +43,7 @@ För att kunna använda era [Marketing Calendar](http://docs.marketo.com/display
 
    ![](assets/4.png)
 
-   Snyggt gjort! Ser du den gröna bockmarkeringen under **Kalender**?
+   Snyggt gjort! Vill du se den gröna bockmarkeringen under **Kalender**?
 
    ![](assets/5.png)
 
