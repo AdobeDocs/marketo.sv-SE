@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Versionsinformation: Vintern &#39;17 {#release-notes-winter}
+# Versionsinformation: Vinter &#39;17 {#release-notes-winter}
 
 Följande funktioner finns i vinterversionen 17. Se om din Marketo-utgåva har funktioner tillgängliga.
 
@@ -39,7 +39,7 @@ Exportera all information och alla analyser i webbkampanjen i ett CSV-format. Se
 
 ## [Lokalisering](http://docs.marketo.com/display/docs/web+personalization) {#localization}
 
-Apparna Webbpersonalisering, Predictive Content och Email Insights finns nu på japanska, tyska och spanska. Du [väljer språk och språkområde](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) för att visa ditt innehåll på dessa språk.
+Apparna Webbpersonalisering, Predictive Content och Email Insights finns nu på japanska, tyska och spanska. Du [väljer språk och språk](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) för att visa ditt innehåll på dessa språk.
 
 ![](assets/japanese-web-personalization.png)
 
@@ -57,7 +57,7 @@ Använd namngivet konto eller kontolista som dimensioner i e-postinsikter.
 
 ![](assets/ei.png)
 
-## Förbättringar av prediktivt innehåll {#predictive-content-enhancements}
+## Prediktiva innehållsförbättringar {#predictive-content-enhancements}
 
 **[Filtrera efter aktiverad källa](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
