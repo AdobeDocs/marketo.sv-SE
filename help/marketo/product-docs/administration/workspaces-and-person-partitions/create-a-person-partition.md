@@ -23,11 +23,11 @@ Skapa en ny personpartition enligt dessa steg.
 >
 >**Djupdykning**
 >
->Förstå först arbetsytor och [personpartitioner](understanding-workspaces-and-person-partitions.md).
+>Förstå först arbetsytor och personpartitioner[.](understanding-workspaces-and-person-partitions.md)
 
 >[!CAUTION]
 >
->Personpartitioner kan vara komplexa. Kontakta [Marketos support](http://support.marketo.com/) för hjälp med att konfigurera dem.
+>Personpartitioner kan vara komplexa. Kontakta [Marketo support](http://support.marketo.com/) om du behöver hjälp med att konfigurera dem.
 
 1. Under Admin väljer du Arbetsytor och partitioner.
 
@@ -37,7 +37,7 @@ Skapa en ny personpartition enligt dessa steg.
 
    ![](assets/two-2.png)
 
-1. Namnge partitionen, välj **arbetsytan** där den ska visas och klicka på&#x200B;**Skapa.**
+1. Namnge partitionen, välj **arbetsytan/arbetsytorna** där den ska visas och klicka på&#x200B;**Skapa.**
 
    ![](assets/three-2.png)
 
