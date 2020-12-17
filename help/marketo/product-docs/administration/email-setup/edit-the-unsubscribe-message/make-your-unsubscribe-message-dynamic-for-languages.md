@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Gör ditt avbeställningsmeddelande dynamiskt för språk {#make-your-unsubscribe-message-dynamic-for-languages}
+# Gör ditt meddelande om att avbryta prenumerationen dynamiskt för språk {#make-your-unsubscribe-message-dynamic-for-languages}
 
 Standardmeddelandet och länken för att avbryta prenumerationen är på engelska. Du kan använda dynamiskt innehåll för att visa det på olika språk.
 
@@ -20,7 +20,7 @@ Standardmeddelandet och länken för att avbryta prenumerationen är på engelsk
 >Vi har skapat den här lilla lektionen nedan åt dig. Det är en bra metod, men det kan man göra på andra sätt.
 
 1. Förbered dina data
-1. [Skapa ett anpassat](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)fält med namnet&quot;Önskat språk&quot;. (Konfigurera den i CRM om du vill att det här fältet ska synkroniseras).
+1. [Skapa ett anpassat ](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)fält med namnet&quot;Önskat språk&quot;. (Konfigurera den i CRM om du vill att det här fältet ska synkroniseras).
 
    >[!TIP]
    >
@@ -32,11 +32,11 @@ Standardmeddelandet och länken för att avbryta prenumerationen är på engelsk
 
    **
 
-1. Klicka på **Nytt segment i listrutan** Nytt ****.
+1. I listrutan **Nytt** klickar du på **Nytt segment**.
 
    ![](assets/two.png)
 
-1. Namnge segmenteringen **Standardspråk**. Klicka på **Lägg till segment**. Skriv på ett språk.
+1. Namnge segmenteringen **Önskat språk**. Klicka på **Lägg till segment**. Skriv på ett språk.
 
    ![](assets/image2015-3-9-8-3a33-3a44.png)
 
@@ -52,7 +52,7 @@ Standardmeddelandet och länken för att avbryta prenumerationen är på engelsk
 
    ![](assets/image2015-3-9-8-3a38-3a17.png)
 
-1. Gå till fliken **Smart lista** . Ange **Önskat språk** i sökfältet. Dra och släpp filtret på arbetsytan.
+1. Gå till fliken **Smart lista**. Ange **Önskat språk** i sökfältet. Dra och släpp filtret på arbetsytan.
 
    ![](assets/six.png)
 
@@ -75,7 +75,7 @@ Standardmeddelandet och länken för att avbryta prenumerationen är på engelsk
 
    **
 
-1. Ge fragmentet namnet **Unsubscribe Message**. Klicka på **Skapa**.
+1. Namnge fragmentet **Avsluta prenumeration på meddelande**. Klicka på **Skapa**.
 
    ![](assets/image2015-3-9-8-3a40-3a54.png)
 
@@ -83,11 +83,11 @@ Standardmeddelandet och länken för att avbryta prenumerationen är på engelsk
 
    ![](assets/image2015-3-9-8-3a41-3a47.png)
 
-1. Kopiera och klistra in denna token: **`{{system.unsubscribeLink}}`** till fältet **Länk-URL** . Klicka på **Infoga**.
+1. Kopiera och klistra in denna token: **`{{system.unsubscribeLink}}`** i fältet **Länk-URL**. Klicka på **Infoga**.
 
    ![](assets/image2015-3-9-8-3a43-3a17.png)
 
-1. Markera **Segmentera efter** i segmenteringsavsnittet.
+1. Välj **Segmentera med** i segmenteringsavsnittet.
 
    ![](assets/image2015-3-9-8-3a44-3a16.png)
 
@@ -99,7 +99,7 @@ Standardmeddelandet och länken för att avbryta prenumerationen är på engelsk
 
    ![](assets/image2015-3-9-8-3a45-3a43.png)
 
-1. Kopiera och klistra in samma token: **`{{system.unsubscribeLink}}`** till fältet **Länk-URL** . Klicka på **Infoga**.
+1. Kopiera och klistra in samma token: **`{{system.unsubscribeLink}}`** i fältet **Länk-URL**. Klicka på **Infoga**.
 
    ![](assets/image2015-3-9-8-3a47-3a4.png)
 
@@ -110,19 +110,19 @@ Standardmeddelandet och länken för att avbryta prenumerationen är på engelsk
    Häftig. Nästan klart.
 
 1. Använd kodfragment i ett e-postmeddelande
-1. Klicka på det redigerbara elementet i e-postredigeraren. Klicka sedan på kugghjulsikonen och välj **Ersätt med kodutdrag**. Om du markerar ett redigerbart fragmentelement klickar du på kugghjulsikonen och väljer **Redigera**.
+1. Klicka på det redigerbara elementet i e-postredigeraren. Klicka sedan på kugghjulsikonen och välj **Ersätt med fragment**. Om du markerar ett redigerbart fragmentelement klickar du på kugghjulsikonen och väljer **Redigera**.
 
    ![](assets/4.1.png)
 
-1. Leta upp och markera fragmentet i listrutan och klicka på **Spara**.
+1. Sök efter och välj kodfragment i listrutan och klicka på **Spara**.
 
    ![](assets/image2015-3-9-8-3a50-3a16.png)
 
-1. Klicka på **Bakåt** om du vill testa den..
+1. Om du vill testa den klickar du på **Bakåt**..
 
    ![](assets/4.3.png)
 
-1. ...sedan fliken **Dynamisk** .
+1. ...sedan fliken **Dynamisk**.
 
    ![](assets/4.4.png)
 
@@ -165,5 +165,5 @@ Standardmeddelandet och länken för att avbryta prenumerationen är på engelsk
    >**Djupdykning**
    >
    >
-   >Läs mer om [dynamiskt innehåll](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) och allt annat du kan göra.
+   >Läs mer om [dynamiskt innehåll](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) och alla coola saker du kan göra.
 
