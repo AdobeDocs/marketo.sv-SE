@@ -25,17 +25,17 @@ Du kan lita på data i vissa listor mer än andra. Ibland kan du ha tvivelaktiga
 
    ![](assets/image2014-9-19-9-3a38-3a38.png)
 
-1. Leta reda på fältet som du vill ha, markera det och klicka sedan på Blockera **fältuppdateringar** under **Fältåtgärder**.
+1. Leta reda på fältet du vill använda, markera det och klicka sedan på **Blockera fältuppdateringar** under &lt;a0/>Fältåtgärder&lt;a1/>.****
 
    ![](assets/image2014-9-19-9-3a39-3a40.png)
 
-1. Markera **Listimport som ej betrodd källa** och klicka på **Använd**.
+1. Markera **List Import untrusted source** och klicka på **Apply**.
 
    ![](assets/blockupdates.png)
 
 >[!TIP]
 >
->Du kan skydda fält från alla listor (tillförlitliga och ej tillförlitliga) genom att även markera **List Import trusted source**.
+>Du kan skydda fält från alla listor (tillförlitliga och ej tillförlitliga) genom att kontrollera **Lista importera betrodd källa**.
 
 Upprepa stegen ovan för andra fält som du vill skydda från ej tillförlitliga listor.
 
