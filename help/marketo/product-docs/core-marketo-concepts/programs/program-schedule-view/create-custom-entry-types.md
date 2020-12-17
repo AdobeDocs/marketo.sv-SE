@@ -23,7 +23,7 @@ Du kan skapa anpassade anmälningstyper som ska användas i programschemavy. På
 
    ![](assets/image2014-9-15-15-3a41-3a33.png)
 
-1. Klicka på listrutan **Ny** och välj **Posttyp**.
+1. Klicka på listrutan **Nytt** och välj **Posttyp**.
 
    ![](assets/image2014-9-15-15-3a41-3a58.png)
 
