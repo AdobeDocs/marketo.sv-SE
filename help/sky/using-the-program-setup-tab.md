@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-På fliken [!UICONTROL Setup] i programmet kan du välja en kanal, lägga till taggar och periodkostnader samt ändra inställningar.
+På fliken [!UICONTROL Setup] i ditt program kan du välja en kanal, lägga till taggar och periodkostnader samt ändra inställningarna.
 
 ![Bild ett](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-1.png)
 
@@ -30,11 +30,11 @@ Om du vill ändra programkanal väljer du en annan i listrutan högst upp på si
 
 ## Lägg till taggar
 
-1. Klicka på [!UICONTROL Tags] listrutan under **[!UICONTROL Attribute]** avsnittet och välj ett taggattribut bland de tillgängliga alternativen.
+1. Under avsnittet [!UICONTROL Tags] klickar du på listrutan **[!UICONTROL Attribute]** och väljer ett taggattribut bland de tillgängliga alternativen.
 
    ![Bild tre](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-3.png)
 
-1. Klicka på **[!UICONTROL Value]** listrutan och välj ett taggvärde bland de tillgängliga alternativen. Klicka **[!UICONTROL Add]**.
+1. Klicka på listrutan **[!UICONTROL Value]** och välj ett taggvärde bland de tillgängliga alternativen. Klicka på **[!UICONTROL Add]**.
 
    ![Bild fyra](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-4.png)
 
@@ -48,7 +48,7 @@ Om du vill ändra programkanal väljer du en annan i listrutan högst upp på si
 
 ## Lägg till periodkostnader
 
-1. Under [!UICONTROL Period Costs] avsnittet väljer du en månad, anger en kostnad och lägger till ett kort namn eller en beskrivning. Klicka **[!UICONTROL Add]**.
+1. Under [!UICONTROL Period Costs] väljer du en månad, anger en kostnad och lägger till ett kort namn eller en beskrivning. Klicka på **[!UICONTROL Add]**.
 
    ![Bild sex](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-6.png)
 
@@ -58,6 +58,6 @@ Om du vill ändra programkanal väljer du en annan i listrutan högst upp på si
 
 ## Ändra inställningar
 
-Under [!UICONTROL Settings] avsnittet kan du välja en CRM-kampanj att synkronisera till (om prenumerationen har CRM-integrering) och/eller ändra analysbeteendet för programmet.
+Under [!UICONTROL Settings]-avsnittet kan du välja en CRM-kampanj att synkronisera till (om din prenumeration har CRM-integrering) och/eller ändra analysbeteendet för ditt program.
 
 ![Bild åtta](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-8.png)
