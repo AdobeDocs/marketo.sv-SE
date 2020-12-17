@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Hitta en person i resultatet av en lista eller smart lista med hjälp av snabbsökningen.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Markera den smarta lista som du vill söka i och klicka sedan på fliken **Personer** .
+1. Markera den smarta lista som du vill söka i och klicka sedan på fliken **Personer**.
 
    ![](assets/smartlistpeople.png)
 
 ## Sök efter personer med personlig information {#find-people-using-personal-info}
 
-1. Skriv ett nyckelord i rutan **Snabbsökning** längst ned på skärmen (**personligt namn**, **e-postadress** eller **jobbtitel**).
+1. I rutan **Snabbsökning** längst ned på skärmen skriver du ett nyckelord (**personligt namn**, **e-postadress** eller **jobbtitel**).
 
    ![](assets/searchpeople.png)
 
@@ -33,7 +33,7 @@ Hitta en person i resultatet av en lista eller smart lista med hjälp av snabbs�
 
 ## Sök efter personer med ett företagsnamn {#find-people-using-a-company-name}
 
-1. Om du vill hitta ett företag skriver du [**företag**] i rutan **Snabbsökning** , följt av en del av företagsnamnet som du letar efter.
+1. Om du vill hitta ett företag skriver du [**company**] i rutan **Snabbsökning**, följt av en del av företagsnamnet som du letar efter.
 
    ![](assets/supersmartlistsearch.jpg)
 
