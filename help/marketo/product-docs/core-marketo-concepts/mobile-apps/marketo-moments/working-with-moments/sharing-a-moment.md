@@ -5,13 +5,13 @@ title: Dela en stund
 translation-type: tm+mt
 source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
 
-# Dela en stund {#sharing-a-moment}
+# Dela ett ögonblick {#sharing-a-moment}
 
 Vill du ge en uppdatering till ditt team? Du kan välja att dela:
 
