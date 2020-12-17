@@ -19,7 +19,7 @@ Lägg till anpassade fält till konton, mappa dem till CRM och använd dem för 
 
    ![](assets/admin.png)
 
-1. Klicka på **Fälthantering** och sedan **Nytt anpassat fält**.
+1. Klicka på **Fälthantering** och **Nytt anpassat fält**.
 
    ![](assets/two-4.png)
 
