@@ -29,7 +29,7 @@ Granskningsspårning är tillgängligt för alla kunder och styrs av två admini
 
    ![](assets/two-2.png)
 
-1. Välj den roll som du vill aktivera granskningsspår för och klicka på **Redigera roll**.
+1. Markera rollen som du vill aktivera granskningsspår för och klicka på **Redigera roll**.
 
    ![](assets/three-1.png)
 
@@ -37,7 +37,7 @@ Granskningsspårning är tillgängligt för alla kunder och styrs av två admini
    >
    >Du kan också skapa en ny roll och ge den åtkomst till granskningsspår här.
 
-1. Expandera behörigheten **Åtkomstadministratör** . Välj **Åtkomst till granskningsspår** och/eller **Åtkomst till inloggningshistorik**, beroende på dina behov. Klicka på **Spara**.
+1. Expandera behörigheten **Åtkomstadministratör**. Välj **Åtkomst till granskningsspår** och/eller **Åtkomst till inloggningshistorik**, beroende på dina behov. Klicka på **Spara**.
 
    ![](assets/four-1.png)
 
@@ -46,22 +46,22 @@ Granskningsspårning är tillgängligt för alla kunder och styrs av två admini
    >**Definition**
    >
    >
-   >**Åtkomstgranskningsspår:** Ger användare åtkomst till både Resursgranskningsspår och Administratörsgranskningsspår.
+   >**Åtkomst till granskningsspår:** Ger användare åtkomst till både resursgranskningsspår och administratörsgranskningsspår.
    >
    >
-   >**Åtkomstinloggningshistorik:** Ger användare åtkomst till [användarinloggningshistorik](user-login-history.md).
+   >**Åtkomst till inloggningshistorik:** Ger användare åtkomst till  [användarens inloggningshistorik](user-login-history.md).
 
 ## Tilldela roll för granskningsspår till en användare {#assign-audit-trail-role-to-a-user}
 
 >[!PREREQUISITES]
 >
->[Skapa](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) eller [aktivera](#Enable) en befintlig roll och ge den behörigheten Granskningsspår.
+>[Skapa ](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) eller  [](#Enable) aktivera befintlig roll och ge den behörigheten Granskningsspår.
 
-1. I **Användare &amp; roller** klickar du på **Användare**.
+1. I **Användare och roller** klickar du på **Användare**.
 
    ![](assets/five-1.png)
 
-1. Markera den användare som du vill ge åtkomst till granskningsspår och klicka på **Redigera användare**.
+1. Markera den användare som du vill ge granskningsspår åtkomst till och klicka på **Redigera användare**.
 
    ![](assets/six-1.png)
 
@@ -75,7 +75,7 @@ Granskningsspårning är tillgängligt för alla kunder och styrs av två admini
 
    >[!CAUTION]
    >
-   >Om du har aktiverat arbetsytor markerar du rollens kryssruta, som markerar alla arbetsytor. Om du avmarkerar en enskild arbetsyta döljs granskningsspåret. Det innebär att du ser granskningsversionsdata för alla arbetsytor. Du kan dölja arbetsytor när du [filtrerar](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail).
+   >Om du har aktiverat arbetsytor markerar du rollens kryssruta, som markerar alla arbetsytor. Om du avmarkerar en enskild arbetsyta döljs granskningsspåret. Det innebär att du ser granskningsversionsdata för alla arbetsytor. Du kan dölja arbetsytor när [filtrera](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail).
 
 1. Klicka på **Spara**.
 
