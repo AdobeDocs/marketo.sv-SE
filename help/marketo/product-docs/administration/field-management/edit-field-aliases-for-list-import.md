@@ -37,7 +37,7 @@ När du importerar en lista med okända rubriker kan du skapa fältalias som gö
 
 >[!TIP]
 >
->Klicka på **Lägg till en annan** och ange fler alias om du behöver dem.
+>Klicka på **Lägg till ytterligare en** och ange fler alias om du behöver dem.
 
 Titta på det där! Om du importerar ett kalkylblad med kolumnen &quot;DOB&quot;, kommer Marketo automatiskt att identifiera det som &quot;Födelsedatum&quot; och importera data till rätt fält.  ![](assets/image2014-9-19-9-3a57-3a20.png)
 
