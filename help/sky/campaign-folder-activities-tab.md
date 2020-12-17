@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Kampanjmapp: Fliken Verksamheter
 
-Hitta viktig information om era kampanjer på **[!UICONTROL Activities]** fliken.
+Hitta viktig information om era kampanjer på fliken **[!UICONTROL Activities]**.
 
 ![Bild ett](/help/sky/assets/campaign-folders/campaign-folder-activities-tab/campaign-folder-activities-tab-1.png)
 
