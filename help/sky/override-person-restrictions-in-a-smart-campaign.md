@@ -18,13 +18,13 @@ Med Marketo kan ni ange det maximala antalet personer som kan kvalificera sig f�
 
 >[!IMPORTANT]
 >
->Se till att du [aktiverar personbegränsningar för smarta kampanjer](https://docs.marketo.com/display/DOCS/Enable+Person+Restrictions+for+Smart+Campaigns) i Marketo [!UICONTROL Admin].
+>Var noga med att [aktivera personbegränsningar för smarta kampanjer](https://docs.marketo.com/display/DOCS/Enable+Person+Restrictions+for+Smart+Campaigns) i Marketo [!UICONTROL Admin].
 
-1. Hitta din smarta kampanj och klicka **[!UICONTROL Schedule]**.
+1. Hitta din smarta kampanj och klicka på **[!UICONTROL Schedule]**.
 
    ![Bild ett](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-1.png)
 
-1. Klicka **[!UICONTROL Qualification Rules]**.
+1. Klicka på **[!UICONTROL Qualification Rules]**.
 
    ![Bild två](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-2.png)
 
