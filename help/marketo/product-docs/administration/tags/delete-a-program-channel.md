@@ -33,7 +33,7 @@ Om du råkar göra en av misstag eller inte längre behöver en, kan du ta bort 
 
    ![](assets/image2014-9-24-16-3a10-3a59.png)
 
-Bam! Du kan också [ta bort specifika statusvärden från kanaler](delete-a-program-status-from-a-program-channel.md).
+Bam! Du kan även [ta bort specifika statusvärden från kanaler](delete-a-program-status-from-a-program-channel.md).
 
 >[!MORELIKETHIS]
 >
