@@ -35,5 +35,5 @@ Att redigera din standardvarumärkesdomän är det första steget i arbetet med 
 
    ![](assets/edit-branding-domain-hands.png)e
 
-Nu kan du [lägga till ytterligare profildomäner](add-an-additional-branding-domain.md) som du behöver.
+Nu kan du [lägga till ytterligare profileringsdomäner](add-an-additional-branding-domain.md) som du behöver.
 
