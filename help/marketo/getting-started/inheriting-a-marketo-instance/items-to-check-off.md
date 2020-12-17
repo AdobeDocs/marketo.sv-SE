@@ -19,12 +19,12 @@ Se till att du har rätt inställningar för rätt typ av åtkomst och informati
 
 * Se en kort översikt över [**vad Marketo gör**](https://pages2.marketo.com/demoFull.html).
 
-* **Konfigurera din profil** i [**Marketing Nation**](https://nation.marketo.com/) -communityn (användarnamn och lösenord krävs).
+* **Ställ in din** profil i  [**Marketing**](https://nation.marketo.com/) Nationcommunity (användarnamn och lösenord krävs).
 
-* Lär dig hur du kan interagera med [**Marketing Nation**](https://nation.marketo.com/t5/About-Community/ct-p/about-community) -communityn för att få svar på dina frågor.
+* Lär dig hur du kan interagera med [**Marketing Nation**](https://nation.marketo.com/t5/About-Community/ct-p/about-community)-communityn för att få svar på dina frågor.
 
 * Klicka på **Dina platser** i din Marketo Nation-communityprofil för att se ditt företags kontosida.
 
-* Lär dig hur du [**skickar in ett supportärende**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201) (och bekräftar att du har [**konfigurerats som en auktoriserad supportkontakt**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341)).
+* Lär dig hur du [**skickar ett supportärende**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201) (och bekräfta att du [**har konfigurerats som en auktoriserad supportkontakt**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341)).
 
-* [**Hantera användare**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) och ta bort dem som har lämnat företaget.
+* [**Hantera**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) användare och ta bort dem som lämnat företaget.
