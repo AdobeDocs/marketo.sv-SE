@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Webbläsare som stöds {#supported-browsers}
+# Webbläsare {#supported-browsers} som stöds
 
 Marketo har för närvarande stöd för följande webbläsare:
 
@@ -22,4 +22,4 @@ Marketo har för närvarande stöd för följande webbläsare:
 | [Apple Safari](http://support.apple.com/downloads/#safari) | senaste |
 | [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge) | senaste |
 
-För att få en så bra upplevelse som möjligt bör du **hålla webbläsaren uppdaterad**!
+**håll webbläsaren uppdaterad** för att få bästa möjliga upplevelse.
