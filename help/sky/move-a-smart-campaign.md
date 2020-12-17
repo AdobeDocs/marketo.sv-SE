@@ -28,6 +28,6 @@ Flytta en smart kampanj till ett annat program eller en annan mapp.
 
    ![Bild tre](/help/sky/assets/smart-campaigns/move-a-smart-campaign/move-a-smart-campaign-3.png)
 
-1. Klicka **[!UICONTROL Move]**.
+1. Klicka på **[!UICONTROL Move]**.
 
    ![Bild fyra](/help/sky/assets/smart-campaigns/move-a-smart-campaign/move-a-smart-campaign-4.png)
