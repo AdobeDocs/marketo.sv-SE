@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Förstå och använda Launch Pack {#understanding-and-using-the-launch-pack}
+# Om och med Launch Pack {#understanding-and-using-the-launch-pack}
 
 ![](assets/coming-soon.png)
 
