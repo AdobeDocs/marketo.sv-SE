@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Förstå SEO-kontrollpanelen: SEO-fixering {#understanding-the-seo-dashboard-seo-snapshot}
+# Förstå SEO-kontrollpanelen: SEO-ögonblicksbild {#understanding-the-seo-dashboard-seo-snapshot}
 
 Använd kontrollpanelen för att få en översiktlig bild av hur nyckelordsrankningen är trending och hur bra webbplatsen är optimerad för SEO.
 
-Om du vill ta reda på vad du ska fokusera på för att förbättra SEO-arbetet kan du använda [Recommendations](understanding-the-seo-dashboard-seo-recommendations.md) i den här instrumentpanelen.
+Om du vill veta vad du ska fokusera på för att förbättra SEO-arbetet kan du använda avsnittet [Recommendations](understanding-the-seo-dashboard-seo-recommendations.md) i den här instrumentpanelen.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
-## Sammanfattning av nyckelordsrankning {#keyword-rank-summary}
+## Nyckelordsrankningssammanfattning {#keyword-rank-summary}
 
-I det här avsnittet visas hur din webbplats rangordnas efter de [nyckelord du riktar](../../../../product-docs/additional-apps/seo/keywords/seo-add-keywords.md)dig mot.
+I det här avsnittet visas hur din webbplats rangordnas för de [nyckelord du riktar dig till](../../../../product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
@@ -33,11 +33,11 @@ I det här avsnittet visas hur din webbplats rangordnas efter de [nyckelord du r
 
 >[!TIP]
 >
->Du kan även visa hur en [viss lista](../../../../product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) med nyckelord fungerar. Klicka på listrutan och välj vilken som ska intressera dig.
+>Du kan även visa hur en [specifik lista](../../../../product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) med nyckelord fungerar. Klicka på listrutan och välj vilken som ska intressera dig.
 
 Kom igen! Vi fortsätter.
 
-## Genomsnittlig poäng för sidoptimering {#average-page-optimization-score}
+## Genomsnittligt resultat för sidoptimering {#average-page-optimization-score}
 
 Poängen för genomsnittlig sidoptimering är en marknadspoäng som mäter alla sidor på webbplatsen på en skala från 1 till 100.
 
