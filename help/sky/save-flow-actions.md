@@ -18,11 +18,11 @@ Flödesstegen talar om för Marketo vad du vill ska hända med en grupp personer
 
 ## Spara flödesåtgärder
 
-1. I [!UICONTROL Marketing Activities]väljer du en smart kampanj (eller skapar en ny).
+1. Välj din smarta kampanj (eller skapa en ny) i [!UICONTROL Marketing Activities].
 
    ![Bild ett](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-1.png)
 
-1. När du har angett en smart lista klickar du på **[!UICONTROL Flow]**.
+1. När du har angett din smarta lista klickar du på **[!UICONTROL Flow]**.
 
    ![Bild två](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-2.png)
 
@@ -32,7 +32,7 @@ Flödesstegen talar om för Marketo vad du vill ska hända med en grupp personer
 
    ![Bild fyra](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-4.png)
 
-1. När du är klar med att lägga till filter/utlösare klickar du på **[!UICONTROL Smart Campaign Actions]** listrutan och väljer **[!UICONTROL Save New Flow]**.
+1. När du är klar med att lägga till filter/utlösare klickar du på listrutan **[!UICONTROL Smart Campaign Actions]** och väljer **[!UICONTROL Save New Flow]**.
 
    ![Bild fem](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-5.png)
 
@@ -44,15 +44,15 @@ Och du är klar. Nästa gång du skapar en smart kampanj får du tillgång till 
 
 ## Använda sparade flödesåtgärder
 
-1. I [!UICONTROL Marketing Activities]väljer du en smart kampanj (eller skapar en ny).
+1. Välj din smarta kampanj (eller skapa en ny) i [!UICONTROL Marketing Activities].
 
    ![Bild sju](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-7.png)
 
-1. Klicka **[!UICONTROL Flow]**.
+1. Klicka på **[!UICONTROL Flow]**.
 
    ![Bild åtta](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-8.png)
 
-1. Klicka på **[!UICONTROL Saved Flows]** listrutan.
+1. Klicka på listrutan **[!UICONTROL Saved Flows]**.
 
    ![Bild nio](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-9.png)
 
