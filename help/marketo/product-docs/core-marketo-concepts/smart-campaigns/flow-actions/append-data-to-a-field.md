@@ -23,7 +23,7 @@ Det finns ett enkelt sätt att lägga till data i ett fält. Så här gör du.
 
 
 
-1. Under fliken **Flöde** drar du i flödessteget **Ändra datavärde** .
+1. Under fliken **Flöde** drar du i flödessteget **Ändra datavärde**.
 
    ![](assets/image2014-9-22-16-3a5-3a1.png)
 
