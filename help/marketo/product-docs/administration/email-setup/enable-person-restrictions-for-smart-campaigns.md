@@ -23,7 +23,7 @@ Det finns en funktion i Marketo som begränsar antalet ***maximalt ***antal pers
 >
 >Detta gäller endast gruppkampanjer och e-postprogram.
 
-1. Klicka på **Admin **och sedan på **Smart Campaign**.
+1. Klicka på **Admin **och sedan **Smart Campaign**.
 
    ![](assets/image2014-9-18-15-3a58-3a29.png)
 
