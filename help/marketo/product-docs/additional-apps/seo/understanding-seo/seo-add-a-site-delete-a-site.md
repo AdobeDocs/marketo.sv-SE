@@ -35,7 +35,7 @@ För att Marketo ska kunna hämta data (inkommande länkar och rekommendationer)
 
    ![](assets/two.png)
 
-1. Ange **namn, webbadress** och klicka på **Spara**.
+1. Ange **Namn, URL till webbplats** och klicka på **Spara**.
 
    >[!TIP]
    >
@@ -67,5 +67,5 @@ Bekräfta att du vill ta bort.
 
    >[!NOTE]
    >
-   >Du kan bara ta bort en plats om du har fler än en. Om du bara har en kan du utföra en återställning genom att markera platsen och klicka på **Återställ**. Om du återställer en plats *tas alla webbplatsdata* bort och platsen återskapas.
+   >Du kan bara ta bort en plats om du har fler än en. Om du bara har en kan du utföra en återställning genom att markera platsen och klicka på **Återställ**. Om du återställer en plats kommer *alla webbplatsdata* att tas bort och platsen återskapas.
 
