@@ -49,7 +49,7 @@ Ta reda på vilka som har delat ert innehåll och rösträtt i era omröstningar
 
 Nu kan ni samla in information om era leads när de delar innehåll eller fyller i formulär med hjälp av deras sociala profiler. Detta inkluderar Facebook-, LinkedIn- och Twitter-handtag, antalet vänner de har med mera.
 
-## Prenumerationer på rapporter om intäktsutforskaren {#revenue-explorer-report-subscriptions}
+## Rapportprenumerationer {#revenue-explorer-report-subscriptions} för Intäktsutforskaren
 
 Skapa prenumerationer på rapporter och skicka rapporter från Intresseutforskaren regelbundet till era huvudintressenter, inklusive andra användare än Marketo. E-postmeddelandet innehåller en förhandsgranskning av rapportens datatabell eller diagram och ett Excel-kalkylblad med alla rapportdata.
 
