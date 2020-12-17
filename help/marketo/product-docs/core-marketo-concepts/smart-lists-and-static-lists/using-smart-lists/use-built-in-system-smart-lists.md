@@ -27,7 +27,7 @@ Marketo har några mycket användbara inbyggda smarta listor. Vi kollar dem!
 
    ![](assets/two.png)
 
-1. Så här ser du ett exempel: Markera **Alla personer** och klicka sedan på fliken **Personer** .
+1. Så här ser du ett exempel: Välj **Alla personer** och klicka sedan på fliken **Personer**.
 
    ![](assets/three.png)
 
