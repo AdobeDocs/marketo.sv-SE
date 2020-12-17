@@ -19,11 +19,11 @@ Följande funktioner ingår i januari 2015-versionen. Kontrollera om din Marketo
 
 **Nya foton av Rick DeCosta!**
 
-Rick är Marketo-kund hos SmartBear och har en [otrolig samling foton](https://www.flickr.com/photos/rickdecosta). Kolla in dem!
+Rick är Marketo-kund hos SmartBear och har [en fantastisk samling foton](https://www.flickr.com/photos/rickdecosta). Kolla in dem!
 
 ## Mobilanpassade landningssidor {#mobile-friendly-landing-pages}
 
-Nu kan du [skapa mobilvyer för landningssidor](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) inifrån landningssidans redigerare. Leverera ert budskap effektivt oavsett enhet och öka engagemanget genom att skräddarsy ert innehåll för enkel användning oavsett var ni är. Den här funktionen lanseras gradvis under veckan efter releasen.
+Du kan nu [skapa mobilvyer för landningssidor](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) inifrån startsidans redigerare. Leverera ert budskap effektivt oavsett enhet och öka engagemanget genom att skräddarsy ert innehåll för enkel användning oavsett var ni är. Den här funktionen lanseras gradvis under veckan efter releasen.
 
 `<iframe width="420" height="315" src="//www.youtube-nocookie.com/embed/aPQHlG2X6c0" frameborder="0" allowfullscreen></iframe>`
 
@@ -35,7 +35,7 @@ Tre nya anrop till API:t Lead &amp; Activity ReST:
 * Hämta leads per program-ID
 * Hämta borttagna leads
 
-Det finns också ett nytt alternativ för Synkronisera lead, som gör att leadet ändras asynkront för ett snabbare API-anrop. Fullständig information finns tillgänglig efter releasen på [developers.marketo.com](http://developers.marketo.com)
+Det finns också ett nytt alternativ för Synkronisera lead, som gör att leadet ändras asynkront för ett snabbare API-anrop. Fullständig information kommer att finnas tillgänglig efter releasen på [developers.marketo.com](http://developers.marketo.com)
 
 **Stöd för anpassade objekt för e-postskript**
 
@@ -45,7 +45,7 @@ Nu kan du komma åt anpassade objekt som är kopplade till kontoobjektet inifrå
 
 **Personaliserad Remarketing för Google och Facebook**
 
-Marknadsföring visar annonser för personer som har besökt din webbplats. Nu kan ni personalisera era återmarknadsföringskampanjer på [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) och [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) med data från personalisering i realtid. Marknadsför till målgrupper från olika branscher, namngivna kontolistor, företagsstorlekar eller data från kända leads.
+Marknadsföring visar annonser för personer som har besökt din webbplats. Nu kan du personalisera dina återmarknadsföringskampanjer på [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) och [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) med data från Real-Time Personalization. Marknadsför till målgrupper från olika branscher, namngivna kontolistor, företagsstorlekar eller data från kända leads.
 
 [Modulen Namngiven kontolista](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
 
@@ -59,13 +59,13 @@ Förbättringar av modulen Namngivna konton förbättrar matchningsfrekvenserna 
 
 Uppdaterade alternativ för RTP-tagg
 
-[Alternativen för RTP-tagg](http://docs.marketo.com/display/docs/rtp+tag+implementation) under Kontoinställningar har uppdaterats till att omfatta:
+[RTP-](http://docs.marketo.com/display/docs/rtp+tag+implementation) taggalternativen under Kontoinställningar har uppdaterats till att omfatta:
 
 1. CDN och asynkron (rekommenderad tagg)
 1. CDN och synkron (hög hastighet)
 1. Asynkron tagg utan CDN
 1. Synkron tagg utan CDN
 
-För bästa prestanda bör du placera taggen högst upp i sidhuvudet på webbsidan efter `<head>`. Alla taggar tillåter användning av [RTP API](http://developers.marketo.com/documentation/websites/rtp-js-api/). Mer information om hur du distribuerar RTP-taggen finns [här](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+För bästa prestanda bör du placera taggen högst upp i sidhuvudet på webbsidan efter `<head>`. Alla taggar tillåter användning av [RTP API](http://developers.marketo.com/documentation/websites/rtp-js-api/). Mer information om hur du distribuerar RTP-taggen finns i [här](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)
