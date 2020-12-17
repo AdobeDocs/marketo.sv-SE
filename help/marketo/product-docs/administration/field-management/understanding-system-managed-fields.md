@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Förstå systemhanterade fält {#understanding-system-managed-fields}
+# Om systemhanterade fält {#understanding-system-managed-fields}
 
-Du kan ha lagt märke till att [personinformationssidan](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) innehåller en serie icke-redigerbara fält som skapats av Marketo. Dessa data kommer från olika källor och det finns otaliga värden som kan visas.
+Du kan ha lagt märke till att sidan [personinformation](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) innehåller en serie icke-redigerbara fält som skapats av Marketo. Dessa data kommer från olika källor och det finns otaliga värden som kan visas.
 
 ## Fälttyper {#field-types}
 
@@ -35,7 +35,7 @@ Du kan ha lagt märke till att [personinformationssidan](../../../product-docs/c
 | Ingående metropolitområde | Marketos bästa gissning (baserat på IP) i personens storstadsområde |
 | Riktnummer för inkommande telefon | Marketos bästa gissning (baserat på IP) för personens riktnummer |
 
-## Möjliga värden för ursprungs- och registreringskälltyp {#possible-values-for-original-and-registration-source-type}
+## Möjliga värden för ursprunglig och registreringskälltyp {#possible-values-for-original-and-registration-source-type}
 
 Nedan finns några möjliga värden och vad de betyder.
 
