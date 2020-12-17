@@ -19,7 +19,7 @@ Om du undrar vilka behörigheter du har eller inte har i Marketo finns det ett e
 
    ![](assets/login-marketing-activities.png)
 
-1. Klicka på **Fullständig åtkomst** för att visa de behörigheter du har.
+1. Klicka på **Fullständig åtkomst** för att se de behörigheter du har.
 
    ![](assets/image2014-9-8-17-3a45-3a13.png)
 
