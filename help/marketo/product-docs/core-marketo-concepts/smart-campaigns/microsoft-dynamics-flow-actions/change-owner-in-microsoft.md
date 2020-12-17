@@ -17,7 +17,7 @@ Om du har befintliga personer som redan har tilldelats en ägare kan du använda
 
 >[!NOTE]
 >
->Det här flödessteget fungerar **bara när det används med utlösare**, inte filter, i din smarta kampanj.
+>Det här flödessteget **fungerar bara när det används med utlösare**, inte filter, i den smarta kampanjen.
 
 ![](assets/one-1.png)
 
