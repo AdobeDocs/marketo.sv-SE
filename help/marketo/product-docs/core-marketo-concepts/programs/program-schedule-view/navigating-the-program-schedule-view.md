@@ -17,11 +17,11 @@ Här är grunderna som hjälper dig att navigera i programschemavyn.
 
 ## Hitta schemavy {#find-the-schedule-view}
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Välj program. Klicka på listrutan **Visa** . Välj **Schema**.
+1. Välj program. Klicka på listrutan **Visa**. Välj **Schema**.
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
