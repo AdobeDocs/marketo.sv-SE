@@ -25,7 +25,7 @@ Marketo har flera inbyggda roller med olika åtkomstnivåer:
 
 * **Admin **- Alla delar av programmet, inklusive avsnittet Admin
 * **Standardanvändare **- alla delar av programmet, utom administrationsavsnittet
-* **Marknadsföringsanvändare** - alla delar av programmet, utom avsnittet Admin
+* **Marknadsföringsanvändare**  - alla delar av programmet, utom administratörsavsnittet
 * **Web Designer **- endast Design Studio
 * **Analytics User **- only the Analytics section
 
@@ -87,7 +87,7 @@ Om du behöver ändra behörigheterna som är kopplade till en befintlig roll ka
 
    ![](assets/image2014-9-9-18-3a9-3a40.png)
 
-1. Ändra **rollnamn** och **Beskrivning **om det behövs, och ändra sedan urvalet av associerade **behörigheter**.
+1. Ändra **rollnamnet** och **Beskrivning **om det behövs, och ändra sedan urvalet av associerade **behörigheter**.
 
    ![](assets/image2014-9-9-18-3a10-3a3.png)
 
@@ -123,4 +123,4 @@ Om en roll blir onödig kan du ta bort den.
 >
 >**Djupdykning**
 >
->Lär dig mer om andra administrativa uppgifter i [Admin](http://docs.marketo.com/display/docs/administration) Devices.
+>Lär dig mer om andra administrativa uppgifter i djupet [Admin](http://docs.marketo.com/display/docs/administration).
