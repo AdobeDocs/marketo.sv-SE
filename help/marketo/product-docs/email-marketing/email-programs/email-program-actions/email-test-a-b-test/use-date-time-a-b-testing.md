@@ -27,7 +27,7 @@ Du kan enkelt A/B-testa dina e-postmeddelanden. Ett test är **Date/Time **test.
 
    ![](assets/image2014-9-12-15-3a41-3a3.png)
 
-1. Ett nytt fönster öppnas. Välj **Datum/tid** som **testtyp**.
+1. Ett nytt fönster öppnas. Välj **Datum/tid** för **Testtyp**.
 
    ![](assets/image2014-9-12-15-3a41-3a12.png)
 
@@ -57,7 +57,7 @@ Du kan enkelt A/B-testa dina e-postmeddelanden. Ett test är **Date/Time **test.
 
    >[!CAUTION]
    >
-   >**Vi rekommenderar att du inte anger 100 %** som provstorlek. Om du använder en statisk lista skickas e-postmeddelandet till alla i målgruppen om du anger att exempelstorleken ska vara 100 %, och vinnaren går inte till någon. Om du använder en **smart** lista skickas e-postmeddelandet till alla i målgruppen *vid den tidpunkten om du anger 100 % för exempelstorleken. *När e-postprogrammet körs igen vid ett senare tillfälle kommer alla nya personer som är kvalificerade för den smarta listan också att få e-postmeddelandet eftersom de nu ingår i målgruppen.
+   >**Vi rekommenderar att du inte anger 100 %** som provstorlek. Om du använder en statisk lista skickas e-postmeddelandet till alla i målgruppen om du anger att exempelstorleken ska vara 100 %, och vinnaren går inte till någon. Om du använder en **smart**-lista skickas e-postmeddelandet till alla i målgruppen *vid den tidpunkten när du anger samplingsstorleken till 100 %. *När e-postprogrammet körs igen vid ett senare tillfälle kommer alla nya personer som är kvalificerade för den smarta listan också att få e-postmeddelandet eftersom de nu ingår i målgruppen.
 
    [definiera kriterier för A/B-testvinnare](define-the-a-b-test-winner-criteria.md)
 
