@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Följande funktioner finns i majversionen. Kontrollera om din [Marketo](http://docs.marketo.com/display/docs/assets/pricing.php) [Edition](http://docs.marketo.com/display/docs/assets/pricing.php) är tillgänglig.
 
-Efter releasen ska du kontrollera fliken [Ny release](release-notes-december-2013.md) i communityn för detaljerade kunskapsbasartiklar för varje funktion!
+Efter releasen ska du kontrollera fliken [New Release](release-notes-december-2013.md) i communityn för detaljerade kunskapsbasartiklar för varje funktion!
 
 ## Kalenderfiler för landningssidor {#calendar-files-for-landing-pages}
 
@@ -29,7 +29,7 @@ Se alla modellmedlemmens data på ett och samma ställe för att enkelt kunna ö
 
 ![](assets/image2014-9-22-16-3a3-3a33.png)
 
-## Åtgärdsträd för omorganiserat flöde {#reorganized-flow-action-tree}
+## Åtgärdsträdet för omorganiserat flöde {#reorganized-flow-action-tree}
 
 Hitta flödesåtgärder snabbare med det omorganiserade flödesträdet.
 
