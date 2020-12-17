@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Konfigurera Adobe Experience Manager Integration {#configuring-adobe-experience-manager-integration}
+# Konfigurerar Adobe Experience Manager-integrering {#configuring-adobe-experience-manager-integration}
 
 Konfigurera AEM så att du kan komma åt, välja och importera AEM till Marketos Design Studio.
 
@@ -31,7 +31,7 @@ Konfigurera AEM så att du kan komma åt, välja och importera AEM till Marketos
 
    ![](assets/two.png)
 
-1. Klicka på **Åtgärder** i **Verktyg** och välj **Webbkonsol**.
+1. I **Verktyg** klickar du på **Åtgärder** och väljer **Webbkonsol**.
 
    ![](assets/2a.png)
 
@@ -39,11 +39,11 @@ Konfigurera AEM så att du kan komma åt, välja och importera AEM till Marketos
 
    ![](assets/three.png)
 
-1. Klicka på **+** -tecknet till höger.
+1. Klicka på **+**-tecknet till höger.
 
    ![](assets/four.png)
 
-1. I textrutan **Tillåtna original (Regexp)** skriver du&quot;https://.*\.marketo\.com&quot; (utan citattecken) och klicka på **Spara**.
+1. I textrutan **Tillåtna original (Regexp)** skriver du &quot;https://.*\.marketo\.com&quot; (utan citattecken) och klicka på **Spara**.
 
    ![](assets/five-psd.png)
 
@@ -51,19 +51,19 @@ Konfigurera AEM så att du kan komma åt, välja och importera AEM till Marketos
 
    ![](assets/six.png)
 
-1. Klicka på knappen **Starta om under Serverinformation** .
+1. Klicka på knappen **Starta om** under Serverinformation.
 
    ![](assets/seven.png)
 
-1. Bekräfta genom att klicka på **OK** .
+1. Bekräfta genom att klicka på **OK**.
 
    ![](assets/eight.png)
 
-1. Klicka på **Admin** i Marketo Classic.
+1. I Marketo Classic klickar du på **Admin**.
 
    ![](assets/nine.png)
 
-1. Under Integration väljer du **Adobe Experience Manager**.
+1. Under Integrering väljer du **Adobe Experience Manager**.
 
    ![](assets/ten.png)
 
@@ -75,5 +75,5 @@ Konfigurera AEM så att du kan komma åt, välja och importera AEM till Marketos
 
    ![](assets/twelve.png)
 
-   Du är redo! Nu kan du [importera AEM till Design Studio i Marketo Sky](http://help.marketo.com/hc/en-us/articles/360036765993).
+   Du är redo! Du kan nu [importera AEM till Design Studio i Marketo Skyn](http://help.marketo.com/hc/en-us/articles/360036765993).
 
