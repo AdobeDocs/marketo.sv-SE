@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Radera transaktioner direkt i marknadsföringskalendern {#delete-entries-directly-in-the-marketing-calendar}
+# Ta bort poster direkt i marknadsföringskalendern {#delete-entries-directly-in-the-marketing-calendar}
 
-Förutom att [skapa](create-entries-directly-in-the-marketing-calendar.md) och [redigera](edit-entries-directly-in-the-marketing-calendar.md) poster kan du ta bort dem direkt i marknadsföringskalendern. Så här gör du.
+Förutom [att skapa](create-entries-directly-in-the-marketing-calendar.md)- och [redigera](edit-entries-directly-in-the-marketing-calendar.md)-poster kan du ta bort dem direkt i marknadsföringskalendern. Så här gör du.
 
 1. Gå till **kalendern**.
 
