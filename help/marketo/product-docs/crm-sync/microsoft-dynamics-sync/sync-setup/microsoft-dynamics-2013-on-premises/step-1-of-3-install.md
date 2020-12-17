@@ -21,9 +21,9 @@ Innan du kan synkronisera Microsoft Dynamics On-Premises och Marketo måste du f
 
 >[!PREREQUISITES]
 >
->IFD ( [Internet Facing Deployment](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) ) måste vara konfigurerat med [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 eller 3.0 (ADFS). Obs! IFD-dokumentet laddas ned automatiskt när du klickar på länken.
+>Du måste ha [Internet Facing Deployment](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) med [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 eller 3.0 (ADFS) konfigurerat. Obs! IFD-dokumentet laddas ned automatiskt när du klickar på länken.
 >
->[Ladda ned Marketo-lösningen](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) innan du börjar.
+>[Ladda ned Marketo-](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) lösningen innan du börjar.
 
 >[!NOTE]
 >
@@ -31,11 +31,11 @@ Innan du kan synkronisera Microsoft Dynamics On-Premises och Marketo måste du f
 >
 >Du behöver administratörsbehörighet för CRM för att kunna utföra den här synkroniseringen.
 
-1. Logga in i **Dynamics**. Klicka på listrutan **Microsoft Dynamics CRM** och välj **INSTÄLLNINGAR**.
+1. Logga in på **Dynamics**. Klicka på listrutan **Microsoft Dynamics CRM** och välj **INSTÄLLNINGAR**.
 
    ![](assets/image2014-12-11-10-3a39-3a41.png)
 
-1. Under **INSTÄLLNINGAR** väljer du **LÖSNINGAR**.
+1. Välj **LÖSNINGAR** under **INSTÄLLNINGAR**.
 
    ![](assets/image2014-12-11-10-3a39-3a51.png)
 
@@ -43,15 +43,15 @@ Innan du kan synkronisera Microsoft Dynamics On-Premises och Marketo måste du f
 
    ![](assets/image2015-3-26-9-3a52-3a10.png)
 
-1. Klicka på **Bläddra** och välj den [hämtade lösningen](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klicka på **Nästa**.
+1. Klicka på **Bläddra** och välj [hämtad lösning](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klicka på **Nästa**.
 
    ![](assets/image2015-3-26-9-3a54-3a1.png)
 
-1. Visa lösningsinformationen och klicka på **Visa information** om lösningspaketet.
+1. Visa lösningsinformationen och klicka på **Visa information om lösningspaketet**.
 
    ![](assets/image2015-11-18-11-3a12-3a8.png)
 
-1. När du har kontrollerat alla detaljer klickar du på **Stäng**.
+1. När du är klar med att kontrollera all information klickar du på **Stäng**.
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
@@ -79,7 +79,7 @@ Innan du kan synkronisera Microsoft Dynamics On-Premises och Marketo måste du f
 
    ![](assets/image2014-12-11-10-3a41-3a14.png)
 
-1. Marketo Lead Management visas nu på sidan **Alla lösningar** .
+1. Marketo Lead Management visas nu på sidan **Alla lösningar**.
 
    ![](assets/image2015-3-26-10-3a1-3a21.png)
 
