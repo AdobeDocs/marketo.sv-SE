@@ -18,11 +18,11 @@ Om du har en återkommande batchkampanj som du inte vill ha mer kan du avbryta f
 
 ## Avbryt hela upprepningen
 
-1. Välj kampanjen och gå till **[!UICONTROL Schedule]** fliken.
+1. Markera kampanjen och gå till fliken **[!UICONTROL Schedule]**.
 
    ![Bild ett](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
-1. Klicka **[!UICONTROL Edit Recurrence]**.
+1. Klicka på **[!UICONTROL Edit Recurrence]**.
 
    ![Bild två](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-2.png)
 
@@ -36,11 +36,11 @@ Om du har en återkommande batchkampanj som du inte vill ha mer kan du avbryta f
 
 ## Avbryt en enskild körning
 
-1. Välj kampanjen och gå till **[!UICONTROL Schedule]** fliken.
+1. Markera kampanjen och gå till fliken **[!UICONTROL Schedule]**.
 
    ![Bild fyra](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-4.png)
 
-1. Klicka **[!UICONTROL Scheduled Runs]**.
+1. Klicka på **[!UICONTROL Scheduled Runs]**.
 
    ![Bild fem](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-5.png)
 
