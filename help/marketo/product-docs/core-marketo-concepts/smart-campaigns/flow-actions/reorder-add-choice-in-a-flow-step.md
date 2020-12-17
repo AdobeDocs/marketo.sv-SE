@@ -19,15 +19,15 @@ Eftersom endast det första matchande alternativet gäller för en person är de
 
    ![](assets/one.png)
 
-1. Låt oss flytta alternativ 3 uppåt över alternativ 2. Klicka på **Alternativ 3** och sedan på **Flytta upp**.
+1. Låt oss flytta alternativ 3 uppåt över alternativ 2. Klicka på **Alternativ 3** och klicka sedan på **Flytta upp**.
 
    >[!NOTE]
    >
-   >När du ändrar ordning kan du **flytta uppåt**, **flytta nedåt** eller **flytta till**.
+   >När du ändrar ordning kan du **flytta upp**, **Flytta ned** eller **Flytta till**.
 
    ![](assets/two.png) ![](assets/three.png)
 
-1. Om du har många alternativ och behöver flytta en nivå uppåt eller nedåt, kan du spara tid med den här alternativa metoden. Klicka på det alternativ som du vill flytta och dra sedan skjutreglaget till den position du vill flytta valet till under **Flytta till**.
+1. Om du har många alternativ och behöver flytta en nivå uppåt eller nedåt, kan du spara tid med den här alternativa metoden. Klicka på det alternativ som du vill flytta och dra sedan reglaget till den position du vill flytta valet till under **Flytta till**.
 
    ![](assets/four.png)
 
