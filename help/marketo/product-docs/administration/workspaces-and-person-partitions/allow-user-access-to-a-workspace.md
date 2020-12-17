@@ -33,7 +33,7 @@ Arbetsytor kan vara av vilken anledning som helst (t.ex. affärsenhet eller geog
 
    ![](assets/image2014-9-17-11-3a2-3a46.png)
 
-1. Markera den **roll och arbetsyta** som du vill att användaren ska ha tillgång till.
+1. Välj den **roll och arbetsyta** som du vill att användaren ska ha tillgång till.
 
    >[!NOTE]
    >
