@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Importera anpassade objektdata {#import-custom-object-data}
 
-Det är enkelt att importera anpassade objektdata till databasen. Om du använder anpassade objekt med företag kan du läsa [Använda anpassade objekt med företag](http://docs.marketo.com/display/DOCS/Understanding+Marketo+Custom+Objects#UnderstandingMarketoCustomObjects-customcompanyUsingCustomObjectswithCompanies) för mer information.
+Det är enkelt att importera anpassade objektdata till databasen. Om du använder anpassade objekt med företag finns mer information i [Använda anpassade objekt med företag](http://docs.marketo.com/display/DOCS/Understanding+Marketo+Custom+Objects#UnderstandingMarketoCustomObjects-customcompanyUsingCustomObjectswithCompanies).
 
-1. På My Marketo går du till **Database**.
+1. Gå till **Database** på My Marketo.
 
    ![](assets/db-1.png)
 
@@ -37,7 +37,7 @@ Det är enkelt att importera anpassade objektdata till databasen. Om du använde
 
    >[!NOTE]
    >
-   >Använd Dedupe-fält som unika identifierare när du skapar eller uppdaterar anpassade objektposter. I det här exemplet används fältet Dedupe för det anpassade objektet **car** - vin (fordons-ID-nummer). Om du bara uppdaterar anpassade objektposter kan du välja Marketo Guid som borttagningsläge.
+   >Använd Dedupe-fält som unika identifierare när du skapar eller uppdaterar anpassade objektposter. I det här exemplet används dedupliceringsfältet för det anpassade objektet **car** - vin (fordons-ID-nummer). Om du bara uppdaterar anpassade objektposter kan du välja Marketo Guid som borttagningsläge.
 
 1. Koppla varje kolumn till ett Marketo-fält och välj den i listrutan.
 
@@ -61,7 +61,7 @@ Det är enkelt att importera anpassade objektdata till databasen. Om du använde
 
    >[!TIP]
    >
-   >Ange din e-postadress i **Skicka avisering till:** och Marketo skickar e-post till dig när importen är klar!
+   >Ange din e-postadress i fältet **Skicka avisering till:** så mejlar Marketo dig när importen är klar!
 
 1. I skärmens övre högra hörn visas ett meddelande när importen körs och det slutliga resultatet när den är klar.
 
