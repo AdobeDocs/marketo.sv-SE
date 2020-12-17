@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Om meddelanden {#understanding-notifications}
+# Förstå meddelanden {#understanding-notifications}
 
 Med meddelanden håller du dig uppdaterad om systemhändelser som inträffar i din Marketo-prenumeration. Kampanjfelmeddelanden informerar dig om fel i smarta kampanjer, och CRM-synkroniseringsmeddelanden varnar dig om allvarliga problem som kan uppstå med CRM-synkroniseringen, till exempel felaktiga behörigheter eller om synkroniseringen inte fungerar.
 
@@ -43,5 +43,5 @@ Du kan prenumerera på meddelanden om du vill få dem via e-post.
 
 >[!TIP]
 >
->Vill du avbryta prenumerationen på e-postmeddelanden? Inga problem. Klicka bara på länken **Avbeställ meddelanden** längst ned i e-postmeddelandet.
+>Vill du avbryta prenumerationen på e-postmeddelanden? Inga problem. Klicka bara på länken **unsubscribe from Notifications** längst ned i e-postmeddelandet.
 
