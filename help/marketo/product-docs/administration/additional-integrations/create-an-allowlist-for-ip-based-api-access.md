@@ -23,7 +23,7 @@ Ibland vill du bara ge API-åtkomst till en viss IP-adress eller ett adressinter
 
    ![](assets/image2016-2-25-9-3a12-3a48.png)
 
-1. Klicka på **Redigera i området IP-begränsningar **eller klicka på** Redigera IP-begränsningar **i det övre vänstra hörnet.
+1. I området IP-begränsningar klickar du på **Redigera, **eller på** Redigera IP-begränsningar **i det övre vänstra hörnet.
 
    ![](assets/image2016-2-25-9-3a15-3a30.png)
 
