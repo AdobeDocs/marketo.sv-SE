@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Använda persona {#using-personas}
+# Använda personas {#using-personas}
 
 Personer är ett bra sätt att segmentera ABM-målgrupper och -marknader för en viss del av människor.
 
@@ -53,7 +53,7 @@ Visa dina personuppgifter genom att besöka ett specifikt namngivet konto.
 
    ![](assets/one-a.png)
 
-1. Klicka på fliken **Personas** .
+1. Klicka på fliken **Personas**.
 
    ![](assets/two-a.png)
 
