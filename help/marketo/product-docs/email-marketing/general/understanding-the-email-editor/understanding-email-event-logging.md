@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# E-posthändelseloggning {#understanding-email-event-logging}
+# Om e-posthändelseloggning {#understanding-email-event-logging}
 
 När du skickar e-postmeddelanden loggar Marketo olika datapunkter till personens aktivitetsloggar. Här är de grundläggande.
 
