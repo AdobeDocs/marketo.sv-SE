@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Översikt {#overview}
 
-Marketo kan skicka ett e-postmeddelande med personinformation till vem som helst - säljaren, en partner eller någon annan. Använd flödessteget **Skicka avisering** .
+Marketo kan skicka ett e-postmeddelande med personinformation till vem som helst - säljaren, en partner eller någon annan. Använd flödessteget **Skicka varning**.
 
 ![](assets/one-1.png)
 
@@ -29,7 +29,7 @@ Marketo kan skicka ett e-postmeddelande med personinformation till vem som helst
    >
    >**Påminnelse**
    >
-   >Din e-postavisering måste innehålla all rubrikinformation och vara i läget **Godkänd** .
+   >Din e-postavisering måste innehålla all rubrikinformation och vara i läget **Godkänd**.
 
 1. Du kan klicka på förhandsgranskningsikonen för att kontrollera att du har valt rätt e-postadress.
 
@@ -39,7 +39,7 @@ Marketo kan skicka ett e-postmeddelande med personinformation till vem som helst
    >
    >**Påminnelse**
    >
-   >Var noga med att använda **skicka varningsinformation** i ditt e-postmeddelande.
+   >Var noga med att använda token **Skicka varningsinformation** i ditt e-postmeddelande.
 
 1. Välj varningsmottagare. Du kan välja Säljare eller Kontoägare.
 
@@ -51,9 +51,9 @@ Marketo kan skicka ett e-postmeddelande med personinformation till vem som helst
 
    >[!TIP]
    >
-   >I utlösande kampanjer kan du använda variabler i **till andra e-postmeddelanden** , till exempel `{{lead.Territory Owner}}` eller `{{my.Alert Recipient}}` , så länge som värdena är giltiga e-postadresser. Tokens in **To Other Emails** fungerar inte i en gruppkampanj.
+   >I utlösarkampanjer kan du använda variabler i **till andra e-postmeddelanden**, till exempel `{{lead.Territory Owner}}` eller `{{my.Alert Recipient}}`, förutsatt att värdena är giltiga e-postadresser. Token i **To Other Emails** fungerar inte i en gruppkampanj.
 
-Så ja! Nu vet du hur du använder flödessteget **Skicka avisering** .
+Så ja! Nu vet du hur du använder flödessteget **Skicka varning**.
 
 >[!MORELIKETHIS]
 >
