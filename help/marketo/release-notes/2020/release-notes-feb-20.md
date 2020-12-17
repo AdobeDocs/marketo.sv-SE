@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Versionsinformation: 20 feb {#release-notes-feb}
+# Versionsinformation: Feb &#39;20 {#release-notes-feb}
 
 Följande funktioner finns i utgåvan från 20 februari. Se om din Marketo-utgåva har funktioner tillgängliga.
 
@@ -21,7 +21,7 @@ Följande funktioner finns i utgåvan från 20 februari. Se om din Marketo-utgå
 >
 >Funktioner som anges av en stjärna ( ![(stjärna)](assets/star-yellow.svg)) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
 
-***Kvartalsvisa versioner*** Följande funktioner släpptes den 21 **februari 2020**.
+***Kvartalsvisa*** utgåvorFöljande funktioner släpptes den 21  **februari 2020**.
 
 ## Core Marketo Engage {#core-marketo-engage}
 
@@ -46,7 +46,7 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 * **Sparar filter**: Spara specifika kontrollpanelsfilter som är unika för varje användare för att analysera dem snabbt och konsekvent.
 * **Exportera till PDF**: Dela värdefulla insikter i hela organisationen genom att exportera Bizible Dashboards som PDF:er.
 
-## Sales Connect  {#sales-connect}
+## Säljanslutning {#sales-connect}
 
 * **Disponera fönsteruppdateringar**: Vi har effektiviserat processen för att välja mallar och skicka e-postmeddelanden via Sales Connect. Använd Compose-fönstret i vår webbklient och Salesforce som en enda butik för säljare, med möjlighet att spara mallkategorier, schemalägga e-postmeddelanden, skicka e-postmeddelanden i grupp och skicka e-post med visning och klickning.
 * **Uppdateringar** i kommandocentralen: Vi återskapar kommandocentralen Sales Connect för att ge säljarna insikt i alla deras e-postmeddelanden, samtal och uppgifter som har initierats från Sales Connect. De kan även visa information som e-postinteraktion och leveransbarhet via kommandocentralen.
@@ -62,4 +62,4 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 * **Resurs-API &quot;_method&quot;-parameter**: Efter september 2020 kommer Resurs-API-slutpunkter inte längre att acceptera &quot;_method&quot; för att skicka Query Parameters i en POST för att kringgå URI-längdbegränsningar. För att tillgodose begäranden som kräver den här parametern ökas URI-gränsen för tillgångs-API:er från 6KiB till 65KiB, så att långa URI:er för begäran kan skickas.
 * **Undertryckt stöd för Internet Explorer**: Från och med version 31 juli 2020 stöds inte längre användargränssnittet i Marketo Engage i Internet Explorer.
 
-***Product Release Webinar*** [Join us](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) on March 3, 11:00 PT / 2:00 ET för ett live webbinarium som leds av vårt produktteam och läs mer om funktionerna i den här versionen.
+***Product Release*** [WebinarGå ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) till den 3 mars 23:00 PT / 2:00 ET för ett live webbinarium som leds av vårt produktteam och läs mer om funktionerna i den här versionen.
