@@ -35,7 +35,7 @@ Följ de här stegen för att börja använda kontoprofilering.
 
    ![](assets/five.png)
 
-1. Om du vill visa resultatet av modellen klickar du på **Se modellresultat**.
+1. Om du vill visa resultatet av modellen klickar du på **Se Modellresultat**.
 
    ![](assets/six.png)
 
@@ -45,5 +45,5 @@ Följ de här stegen för att börja använda kontoprofilering.
 
    >[!TIP]
    >
-   >Nu när du har skapat din modell kan du lära dig hur du trimmar den i [kontoprofileringsöversikten](http://docs.marketo.com/x/NIDv).
+   >Nu när du har skapat modellen kan du lära dig hur du trimmar den i [Översikt över kontoprofiler](http://docs.marketo.com/x/NIDv).
 
