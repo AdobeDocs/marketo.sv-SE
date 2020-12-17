@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Versionsinformation: Jan/feb 2012 {#release-notes-jan-feb}
+# Versionsinformation: Jan/Feb 2012 {#release-notes-jan-feb}
 
 Följande funktioner ingår i Jan/Feb-versionen. Se om din Marketo-utgåva har funktioner tillgängliga. Efter releasen finns länkar till detaljerad funktionsdokumentation.
 
@@ -19,7 +19,7 @@ Följande funktioner ingår i Jan/Feb-versionen. Se om din Marketo-utgåva har f
 >
 >**Djupdykning**
 >
->Andra releaser finns i [versionsinformationen](http://docs.marketo.com/display/docs/release+notes) .
+>Andra versioner finns i [versionsinformationen](http://docs.marketo.com/display/docs/release+notes) djupdykning.
 
 ## Avancerat dynamiskt innehåll {#advanced-dynamic-content}
 
@@ -29,7 +29,7 @@ Med avancerat dynamiskt innehåll kan ni skapa engagerande e-postmeddelanden och
 
 ![](assets/image2014-9-23-9-3a50-3a27.png)
 
-## Segmentering  {#segmentation}
+## Segmentering {#segmentation}
 
 *Finns för Pro- och Enterprise-versioner*
 
@@ -37,7 +37,7 @@ Segmentering är en grupp segment, som är en riktad grupp av individer som ni m
 
 ![](assets/image2014-9-23-9-3a50-3a42.png)
 
-## Fragment {#snippets}
+## Kodavsnitt {#snippets}
 
 *Finns för Pro- och Enterprise-versioner*
 
@@ -45,7 +45,7 @@ Lagra multimediematerial som kan användas om och om igen för att skapa statisk
 
 ![](assets/image2014-9-23-9-3a50-3a58.png)
 
-## PURL {#purls}
+## PURL:er {#purls}
 
 *Finns för Pro- och Enterprise-versioner*
 
@@ -100,7 +100,7 @@ Förstå marknadsföringsbidrag till enskilda affärsmöjligheter
 
 ![](assets/image2014-9-23-9-3a52-3a30.png)
 
-## Scenanalys för programintäkter {#program-revenue-stage-analysis}
+## Scenanalys för programintäkt {#program-revenue-stage-analysis}
 
 Få insikt i programmets hastighet genom att förstå vilka program som förvärvat de snabba framstegen
 
