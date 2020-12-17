@@ -14,15 +14,15 @@ ht-degree: 0%
 
 <br> 
 
-Du kan utföra gruppåtgärder på flera resurser direkt från **[!UICONTROL Actions]** avsnittet på **[!UICONTROL Assets]** fliken. Så här hittar du de resurser du behöver och använder en massåtgärd på dem.
+Du kan utföra gruppåtgärder på flera resurser direkt från **[!UICONTROL Actions]**-avsnittet på fliken **[!UICONTROL Assets]**. Så här hittar du de resurser du behöver och använder en massåtgärd på dem.
 
 ## Filtrera efter resurstyp och/eller villkor
 
-Om du vill hitta specifika resurser som du vill vidta åtgärder för kan du filtrera genom **[!UICONTROL asset type]** att välja en eller flera typer i listrutan.
+Om du vill hitta specifika resurser som du vill vidta åtgärder för kan du filtrera efter **[!UICONTROL asset type]** genom att välja en eller flera typer i listrutan.
 
 ![Bild ett](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-1.png)
 
-Dessutom kan du filtrera genom **[!UICONTROL asset condition]** att välja ett eller flera villkor i listrutan. Du kan göra detta separat eller i kombination med filtrering av resurstyper.
+Dessutom kan du filtrera efter **[!UICONTROL asset condition]** genom att välja ett eller flera villkor i listrutan. Du kan göra detta separat eller i kombination med filtrering av resurstyper.
 
 ![Bild två](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-2.png)
 
@@ -32,7 +32,7 @@ Dessutom kan du filtrera genom **[!UICONTROL asset condition]** att välja ett e
 
 ## Tillämpa en massåtgärd
 
-Välj en grupp med resurser och välj sedan en åtgärd i **[!UICONTROL Select Action]** listrutan. Åtgärder som inte kan tillämpas på _någon_ av de valda resurserna är automatiskt nedtonade.
+Välj en grupp med resurser och välj sedan en åtgärd i listrutan **[!UICONTROL Select Action]**. Åtgärder som inte kan tillämpas på _någon_ av dina valda resurser är automatiskt nedtonade.
 
 ![Bild tre](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-3.png)
 
@@ -46,13 +46,13 @@ När du väljer en massåtgärd visas ett bekräftelsefönster med ignorerade re
 
 ## Statusmeddelanden
 
-Du hittar statusen för dina massåtgärder i **[!UICONTROL Recent Notifications]** fältet.
+Du hittar statusen för dina massåtgärder i **[!UICONTROL Recent Notifications]**-fältet.
 
 ![Bild fem](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-5.png)
 
 ## Massåtgärdsfel
 
-Om den åtgärd du har valt inte kan användas på grund av att resursen kräver korrigering får du ett meddelande om ett partiellt fel (med en gul varningssymbol). Om åtgärden inte har tillämpats på _alla_ dina markerade resurser får meddelandet en röd varningssymbol. Klicka **[!UICONTROL View Failures]** för mer information.
+Om den åtgärd du har valt inte kan användas på grund av att resursen kräver korrigering får du ett meddelande om ett partiellt fel (med en gul varningssymbol). Om åtgärden inte har tillämpats på _alla_ av dina valda resurser får meddelandet en röd varningssymbol. Klicka på **[!UICONTROL View Failures]** om du vill ha mer information.
 
 ![Bild sex](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-6.png)
 
