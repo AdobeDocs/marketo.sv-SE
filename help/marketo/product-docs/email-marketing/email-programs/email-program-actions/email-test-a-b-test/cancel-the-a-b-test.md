@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Avbryt A/B-testet {#cancel-the-a-b-test}
 
-Om du har [lagt till en A/B-testning](add-an-a-b-test.md) i e-postprogrammet och har beslutat att du inte längre vill ha det, är det enkelt att ångra. Så här gör du.
+Om du [har lagt till en A/B-testning](add-an-a-b-test.md) i e-postprogrammet och har beslutat att du inte längre vill ha det, går det enkelt att ångra. Så här gör du.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -31,6 +31,6 @@ Om du har [lagt till en A/B-testning](add-an-a-b-test.md) i e-postprogrammet och
    >**Påminnelse**
    >
    >
-   >Ditt e-postprogram måste avgodkännas innan du kan ta bort A/B-testet. Mer information finns i [Godkänn/Avgodkänn ett e-postprogram](../../../../../product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) .
+   >Ditt e-postprogram måste avgodkännas innan du kan ta bort A/B-testet. Mer information finns i [Godkänn/Avgodkänn ett e-postprogram](../../../../../product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md).
 
 Ser du? Ta det lugnt!
