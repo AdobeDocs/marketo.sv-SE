@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Förstå smarta kampanjer i grupp och utlösare {#understanding-batch-and-trigger-smart-campaigns}
+# Förstå smarta gruppkampanjer och utlösare {#understanding-batch-and-trigger-smart-campaigns}
 
 Det finns två typer av smarta kampanjer: Batch och utlösare.
 
@@ -27,7 +27,7 @@ Smarta gruppkampanjer har bara filter i avsnittet med smarta listor (d.v.s. inga
 
 ![](assets/batch-filter.png)
 
-Om du klickar på fliken **Schemalägg** visas en bekräftelse på att den smarta kampanjen är inställd på&quot;Gruppera&quot;.
+Om du klickar på fliken **Schedule** bekräftar du att den smarta kampanjen är inställd på &quot;Batch&quot;.
 
 ![](assets/batch-c4.png)
 
@@ -39,7 +39,7 @@ Om du klickar på fliken **Schemalägg** visas en bekräftelse på att den smart
 
 <br> 
 
-## Utlös Smart Campaign {#trigger-smart-campaign}
+## Utlös smart kampanj {#trigger-smart-campaign}
 
 >[!NOTE]
 >
@@ -51,7 +51,7 @@ Om en smart kampanj använder minst en utlösare i den smarta listsektionen stä
 
 ![](assets/trigger.png)
 
-Om du klickar på fliken **Schemalägg** visas en bekräftelse på att den smarta kampanjen är inställd på&quot;Triggered&quot;.
+Om du klickar på fliken **Schedule** bekräftar du att den smarta kampanjen är inställd på Triggered.
 
 ![](assets/trigger2.png)
 
@@ -66,5 +66,5 @@ Om du klickar på fliken **Schemalägg** visas en bekräftelse på att den smart
 
 >[!TIP]
 >
->Använd [aktivitetsloggen](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) för att se vad som har hänt steg för steg inom smarta kampanjer. Du hittar aktivitetsloggen på den sista fliken på en persons detaljsida.
+>Använd [aktivitetsloggen](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) för att se vad som hände steg för steg inom smarta kampanjer. Du hittar aktivitetsloggen på den sista fliken på en persons detaljsida.
 
