@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-Om du vill kopiera etiketter från en överordnad till en underordnad resurs går du till resursens [!UICONTROL Details] sida under [!UICONTROL Overview] fliken.
+Om du vill kopiera etiketter från en överordnad till en underordnad resurs går du till resursens [!UICONTROL Details]-sida under fliken [!UICONTROL Overview].
 
-Klicka på under [!UICONTROL Labels] avsnittet **[!UICONTROL Copy Labels From Parent]**.
+Klicka på **[!UICONTROL Copy Labels From Parent]** under avsnittet [!UICONTROL Labels].
 
 ![Bild ett](/help/sky/assets/labels/copy-labels-from-parent-to-child/copy-labels-from-parent-to-child-1.jpg)
 
