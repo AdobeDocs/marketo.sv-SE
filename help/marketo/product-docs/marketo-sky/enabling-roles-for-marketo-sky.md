@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aktivera roller för Marketo Sky {#enabling-roles-for-marketo-sky}
+# Aktivera roller för Marketo Skyn {#enabling-roles-for-marketo-sky}
 
 För att kunna använda Marketo Sky måste roller för önskade användare aktiveras.
 
@@ -19,11 +19,11 @@ För att kunna använda Marketo Sky måste roller för önskade användare aktiv
 >
 >**Administratörsbehörigheter krävs**
 
-1. Klicka på **Admin** i Marketo Classic.
+1. I Marketo Classic klickar du på **Admin**.
 
    ![](assets/enabling-roles-for-marketo-sky-1.png)
 
-1. Markera **Marketo Sky** i trädet.
+1. I trädet väljer du **Marketo Sky**.
 
    ![](assets/enabling-roles-for-marketo-sky-2.png)
 
