@@ -24,11 +24,11 @@ Skillnaden mellan en statisk och smart lista är avgörande för att förstå.
 | Typ | Logic |
 |---|---|
 | Smart List | Baserat på **definierade regler** |
-| Statisk lista | Baserat på **tillägg/borttagning av varje person** |
+| Statisk lista | Baserat på **att lägga till/ta bort varje person** |
 
 >[!CAUTION]
 >
->Ett av de vanligaste felen är att man kan ta bort en person från en lista genom att helt enkelt ta bort personen. **Det här är fel.** Om du tar bort personen tas de bort från **hela databasen**, inte bara från listan.
+>Ett av de vanligaste felen är att man kan ta bort en person från en lista genom att helt enkelt ta bort personen. **Det här är fel.** Om du tar bort personen tas de bort från  **hela databasen**, inte bara från listan.
 
 ## Olika sätt att lägga till/ta bort personer från en lista {#ways-to-add-remove-people-from-a-list}
 
