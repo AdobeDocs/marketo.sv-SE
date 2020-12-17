@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Skapa ett engagerande program {#create-an-engagement-program}
+# Skapa ett engagemangsprogram {#create-an-engagement-program}
 
 Ni kan använda engagemangsprogram i Marketo för att enkelt skapa e-postnäring.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 1. ![](assets/login-marketing-activities.png)
 
 1. Välj den mapp som du vill skapa engagemangsprogrammet i och klicka sedan på **Nytt** och **Nytt program**.
 1. ![](assets/newprogramlifecycle.jpg)
 
-1. Ange ett **namn**, välj **Engagement** som **programtyp** och klicka på **Create**.
+1. Ange ett **namn**, välj **Förlovning** för **Programtyp** och klicka på **Skapa**.
 1. ![](assets/image2014-9-15-15-3a35-3a32.png)
 
 1. Nu när ni har ett engagemangsprogram, så går vi vidare och klär upp det.
