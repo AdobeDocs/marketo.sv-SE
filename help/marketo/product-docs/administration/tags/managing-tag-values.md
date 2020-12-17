@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Hantera taggvärden {#managing-tag-values}
 
-[Taggar](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) används för att beskriva program. Ni kan skapa så många ni behöver, var och en med unika värden. Så här hanterar du dessa värden.
+[Taggar ](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) används för att beskriva program. Ni kan skapa så många ni behöver, var och en med unika värden. Så här hanterar du dessa värden.
 
 >[!NOTE]
 >
@@ -25,15 +25,15 @@ ht-degree: 0%
 
 ## Lägga till taggvärden {#adding-tag-values}
 
-1. Klicka på **Taggar** under **Admin**.
+1. Under **Admin** klickar du på **Taggar**.
 
    ![](assets/image2014-9-24-12-3a24-3a55.png)
 
-1. Klicka på** Ny** och sedan på **Nytt taggvärde**.
+1. Klicka på** Ny** och **Nytt taggvärde**.
 
    ![](assets/image2014-9-24-12-3a25-3a23.png)
 
-1. Välj **taggtyp**.
+1. Välj taggtypen ****.
 
    ![](assets/image2014-9-24-12-3a26-3a2.png)
 
@@ -49,11 +49,11 @@ ht-degree: 0%
 
 ![](assets/image2014-9-24-12-3a27-3a34.png)
 
-## Dölja taggvärden {#hiding-tag-values}
+## Döljer taggvärden {#hiding-tag-values}
 
 Taggar kan användas i äldre program. Du kan ta bort dem för framtida bruk genom att dölja taggtypen.
 
-1. Markera **taggen** ** **och välj det **värde** som du vill dölja.
+1. Markera den** ****tagg** och välj det **värde** som du vill dölja.
 
    ![](assets/image2014-9-24-12-3a28-3a25.png)
 
