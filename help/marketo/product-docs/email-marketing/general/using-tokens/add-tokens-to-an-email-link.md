@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Om du vill infoga extra och personspecifika parametrar i länkarna kan du använda variabler. Så här gör du.
 
-1. Markera e-postmeddelandet och klicka på fliken **Redigera utkast** .
+1. Markera e-postmeddelandet och klicka på fliken **Redigera utkast**.
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ Om du vill infoga extra och personspecifika parametrar i länkarna kan du använ
 
    ![](assets/two.png)
 
-1. Leta reda på eller skriv texten för länken. Markera den och klicka på ikonen **Infoga/redigera länk** .
+1. Leta reda på eller skriv texten för länken. Markera den och klicka på ikonen **Infoga/redigera länk**.
 
    ![](assets/three.png)
 
-1. Skriv de token som du vill använda i **URL-adressen** och klicka på **Infoga**.
+1. Ange önskade token i **URL** och klicka på **Infoga**.
 
    ![](assets/four.png)
 
