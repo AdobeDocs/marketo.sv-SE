@@ -21,7 +21,7 @@ Om du skickar från en eller flera dedikerade IP-adresser får du fullständig k
 >
 >En dedikerad IP är en tilläggsprodukt. Alla har inte rätt att lägga till en dedikerad IP-adress i sitt program. Du måste skicka mer än 100 000 e-postmeddelanden per månad och ha en stabil kampanjstängsel för att behålla en dedikerad IP-adress. Kontakta din CSM om du vill ha mer information om hur du lägger till en dedikerad IP-adress till ditt Marketo-program.
 >
->Om du skickar mindre än 100 000 e-postmeddelanden per månad och/eller har olika kampanjvolymer och/eller är en säsongssändare kan du inte upprätthålla en dedikerad IP-adress. Marketo har en separat betrodd IP-delad pool för kunder som följer strikta standarder. Om du är intresserad kan du fylla i [enkäten](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) och ansöka om Marketos tillförlitliga IP-program.
+>Om du skickar mindre än 100 000 e-postmeddelanden per månad och/eller har olika kampanjvolymer och/eller är en säsongssändare kan du inte upprätthålla en dedikerad IP-adress. Marketo har en separat betrodd IP-delad pool för kunder som följer strikta standarder. Fyll i [enkäten](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) om du är intresserad för att ansöka om Marketos betrodda IP-program.
 
 Alla Marketo-konton börjar på en delad IP-adress, vilket gör att du kan börja skicka direkt. Om du lägger till en dedikerad IP-adress arbetar du med leveranskonsulter för att schemalägga IP-provisioneringen.
 
@@ -40,7 +40,7 @@ För att maximera den långsiktiga leveransen erbjuder de konsulter som arbetar 
 
 >[!TIP]
 >
->Håll databasen ren så att leveransen blir hög. [Adobe kräver](http://www.adobe.com/legal/terms/aup.html) att kunderna bara skickar marknadsföringsmeddelanden till personer som har anmält sig till/begärt att få e-post. Skräppost inte.
+>Håll databasen ren så att leveransen blir hög. [Adobe ](http://www.adobe.com/legal/terms/aup.html) kräver att kunder bara skickar marknadsföringsmeddelanden till personer som har anmält sig till/begärt att få e-post. Skräppost inte.
 
 >[!CAUTION]
 >
