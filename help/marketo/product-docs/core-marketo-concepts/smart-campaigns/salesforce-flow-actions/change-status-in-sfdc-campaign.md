@@ -27,11 +27,11 @@ Om ett lead inte finns i Salesforce eller inte är medlem av kampanjen än, synk
 
 ## Användning {#usage}
 
-1. Sök och välj den Salesforce- **kampanj** som posten finns i.
+1. Sök och välj Salesforce **Campaign** som posten finns i.
 
    ![](assets/image2014-9-22-15-3a13-3a58.png)
 
-1. Välj sedan den **nya** **status** som du vill ange och du är klar!
+1. Välj sedan **Nytt** **Status** som du vill ange och du är klar!
 
    ![](assets/image2014-9-22-15-3a14-3a0.png)
 
