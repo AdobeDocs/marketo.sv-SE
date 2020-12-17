@@ -17,7 +17,7 @@ Följande funktioner ingår i versionen från juni 2015. Kontrollera om din Mark
 
 ## [E-postrapport om attribut](../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)  {#attribution-email-report}
 
-Se hur värdefull personalisering och rekommenderat innehåll kan användas i era marknadsföringsaktiviteter. [E-postrapporten](../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) om attribuering visar de direkta och assisterade leads som härrör från RTP:s personalisering och rekommenderade innehållskampanjer. I RTP:er, Användarinställningar och E-postrapport lägger du till e-postrapporten om attribuering för att få e-post varje månad eller kvartal.
+Se hur värdefull personalisering och rekommenderat innehåll kan användas i era marknadsföringsaktiviteter. [E-postrapporten om attribuering ](../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) visar de direkta och assisterade leads som härrör från RTP:s personalisering och rekommenderade innehållskampanjer. I RTP:er, Användarinställningar och E-postrapport lägger du till e-postrapporten om attribuering för att få e-post varje månad eller kvartal.
 
 ## Vill du påverka vår färdplan? {#want-to-influence-our-roadmap}
 
