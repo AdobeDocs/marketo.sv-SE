@@ -31,8 +31,8 @@ Lär dig hur du ansluter din BrightTALK-kanal till din Marketo-instans. För att
 >
 >Nu måste du konfigurera en API-roll och API-användare för att begränsa vilka behörigheter BrightStor ska ha i din Marketo-instans. Eftersom vi redan har artiklar för de stegen länkar vi dig till dem.
 
-1. Skapa en [endast API-användarroll](http://docs.marketo.com/x/iwMk).
-1. [Skapa en API-användare](http://docs.marketo.com/x/jwMk)med den API-roll för BrightStor som du skapade under steg 4.
+1. Skapa en [API Endast användarroll](http://docs.marketo.com/x/iwMk).
+1. [Skapa en API-användare](http://docs.marketo.com/x/jwMk) med den API-roll för BrightStor som du skapade under steg 4.
 1. Gå tillbaka till området Admin.
 
    ![](assets/one.png)
@@ -45,7 +45,7 @@ Lär dig hur du ansluter din BrightTALK-kanal till din Marketo-instans. För att
 
    ![](assets/three.png)
 
-1. Ange ett visningsnamn. Klicka på listrutan Tjänst och välj **Egen** (välj **inte** BrightTALK).
+1. Ange ett visningsnamn. Klicka på listrutan Tjänst och välj **Egen** (gör **inte** välj BrightTALK).
 
    ![](assets/four.png)
 
@@ -57,11 +57,11 @@ Lär dig hur du ansluter din BrightTALK-kanal till din Marketo-instans. För att
 
    ![](assets/five.png)
 
-1. Klicka på **Visa detaljer** för den anpassade tjänst du just skapade.
+1. Klicka på **Visa information** för den anpassade tjänst du just skapade.
 
    ![](assets/six.png)
 
-1. Kopiera (och spara) **klient-ID** och **klienthemlighet**. Klicka på **Stäng**.
+1. Kopiera (och spara) **Klient-ID** och **Klienthemlighet**. Klicka på **Stäng**.
 
    ![](assets/eight-1.png)
 
@@ -77,5 +77,5 @@ Lär dig hur du ansluter din BrightTALK-kanal till din Marketo-instans. För att
 
 1. Gå tillbaka till konfigurationsskärmen för BrightTALK-anslutningen från steg 3 och ange de uppgifter du sparade från steg 12 och 14.
 
-   När inloggningsuppgifterna har autentiserats har du officiellt anslutit BrightTALK till Marketo. Nästa steg är att avgöra [vilka datafält du vill synkronisera](http://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync).
+   När inloggningsuppgifterna har autentiserats har du officiellt anslutit BrightTALK till Marketo. Nästa steg är att bestämma [vilka datafält du vill synkronisera](http://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync).
 
