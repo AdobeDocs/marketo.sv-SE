@@ -31,21 +31,21 @@ Lägg till tre anpassade fält i lead- och kontaktobjekten i Salesforce som list
 
 Utför följande steg för vart och ett av de tre anpassade fälten för att lägga till dem. Börja med **bakgrundsmusik**.
 
-1. Logga in i Salesforce och klicka på **Konfigurera.**
+1. Logga in i Salesforce och klicka på **Inställningar.**
 
    ** ![](assets/image2016-5-23-13-3a15-3a21.png)
 
    **
 
-1. Klicka på **Anpassa** till vänster på menyn Skapa och välj **Leads**. Klicka på **Fält**.
+1. Klicka på **Anpassa** på menyn Skapa till vänster och välj **Leads**. Klicka på **Fält**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. Klicka på **Nytt** under Anpassade fält och relationer längst ned på sidan.
+1. Klicka på **Nytt** i avsnittet Anpassade fält och relationer längst ned på sidan.
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
-1. Välj lämplig fälttyp (för poäng - **nummer**), Acquisition Program - **text**; Anskaffningsdatum - **datum/tid**).
+1. Välj lämplig fälttyp (för bakgrundsmusik - **tal**; Acquisition Program — **text**; Anskaffningsdatum — **Datum/tid**).
 
    ![](assets/choose-field-type-2-hand.png)
 
@@ -81,7 +81,7 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
    <td>Poäng</td> 
    <td>mkto71_Lead_Score</td> 
    <td>Nummer</td> 
-   <td>Längd 10<br>decimaler 0 </td> 
+   <td>Längd 10<br>Decimaltecken 0 </td> 
   </tr> 
   <tr> 
    <td>Anskaffningsdatum</td> 
@@ -118,9 +118,9 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
 
    * Avmarkera kryssrutan **Skrivskyddad** för din synkroniseringsanvändares profil:
 
-      * Om du har en användare med profilen för en *systemadministratör* som synkroniseringsanvändare avmarkerar du kryssrutan **Skrivskyddad** för systemadministratörsprofilen (se nedan)
+      * Om du har en användare med profilen *Systemadministratör* som synkroniseringsanvändare avmarkerar du kryssrutan **Skrivskyddad** för systemadministratörsprofilen (som visas nedan)
 
-      * Om du har skapat en *anpassad profil* för synkroniseringsanvändaren avmarkerar du kryssrutan **Skrivskyddad** för den anpassade profilen
+      * Om du skapade en *anpassad profil* för synkroniseringsanvändaren avmarkerar du kryssrutan **Skrivskyddad** för den anpassade profilen
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -128,7 +128,7 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Klicka på **Spara och ny** för att gå tillbaka och skapa de två andra anpassade fälten. Klicka på **Spara** när du är klar med alla tre.
+1. Klicka på **Spara och ny** om du vill gå tillbaka och skapa de två andra anpassade fälten. Klicka på **Spara** när du är klar med alla tre.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
@@ -148,7 +148,7 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
    <td>ID för förvärvsprogram</td> 
    <td>mkto71_Acquisition_Program_Id</td> 
    <td>Nummer</td> 
-   <td>Längd 18<br>decimaler 0 </td> 
+   <td>Längd 18<br>Decimaltecken 0 </td> 
   </tr> 
   <tr> 
    <td>Ursprunglig referens</td> 
@@ -225,7 +225,7 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
  </tbody> 
 </table>
 
-## Mappa anpassade fält för konverteringar  {#map-custom-fields-for-conversions}
+## Mappa anpassade fält för konverteringar {#map-custom-fields-for-conversions}
 
 Ett anpassat fält på lead-objektet i Salesforce bör mappas till ett kontaktfält på kontaktobjektet så att data överförs när en konvertering inträffar.
 
@@ -258,7 +258,7 @@ Inte så lätt, eller hur?
 >
 >**Djupdykning**
 >
->Här är en [video om hela processen](https://nation.marketo.com/videos/1475) som ska göra den kristallklar!
+>Här är en [video av hela processen](https://nation.marketo.com/videos/1475) som ska göra den kristallklar!
 
 >[!NOTE]
 >
