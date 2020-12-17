@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Lägg till en e-postkampanj/kanal {#add-an-email-champion-challenger}
+# Lägg till en e-postmästare/utfyllnadstecken {#add-an-email-champion-challenger}
 
 Det är en bra idé att testa e-postmeddelanden som du använder ofta för att kontrollera att de fungerar. Ett sätt är att jämföra ett e-postmeddelandes effektivitet med andra versioner, eller utmaningar. I ett test kan du testa hela e-postadressen, ämnesraden eller formuläradressen.\
 Det befintliga e-postmeddelandet som du testar anses vara förstapristagaren. Alla varianter du skapar i ett test räknas som utmanare. Du bestämmer hur många procent av personerna som får antingen det förnämsta innehållet eller utmanarinnehållet. Om du har definierat flera utmanare kommer de att fördelas jämnt mellan utmanargruppen.\
@@ -30,7 +30,7 @@ Så här kommer du igång.
 >
 >Mejl med Champion/Challenger fungerar bara med utlösande kampanjer och engagemangsprogram. För grupputskick använder du e-postprogrammets [A/B-testfunktion](../../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md).
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -43,7 +43,7 @@ Så här kommer du igång.
    >**Djupdykning**
    >
    >
-   >Läs mer om e- [postprogram](http://docs.marketo.com/display/docs/email+programs)för engångsutskick.
+   >Läs mer om [e-postprogram](http://docs.marketo.com/display/docs/email+programs) för engångsmeddelanden.
 
 1. Klicka på **Nytt test** under **E-poståtgärder**.
 
