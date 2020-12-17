@@ -39,7 +39,7 @@ När du sparar ett filter kan du växla fram och tillbaka mellan olika filterdef
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   Om du vill kan du [skicka en kopia](sharing-a-filter-definition-in-the-marketing-calendar.md) av definitionen till andra Marketto-användare.
+   Om du vill kan du [skicka en kopia](sharing-a-filter-definition-in-the-marketing-calendar.md) av definitionen till andra Marketo-användare.
 
    >[!NOTE]
    >
