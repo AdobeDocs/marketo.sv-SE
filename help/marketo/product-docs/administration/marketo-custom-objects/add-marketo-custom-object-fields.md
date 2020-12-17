@@ -15,9 +15,9 @@ ht-degree: 0%
 
 När du har skapat ett anpassat objekt måste du lägga till fält för att uppfylla dina affärsbehov.
 
-Fält definierar den specifika information som används av ett anpassat objekt. Länkfält har ett särskilt jobb, för att koppla anpassade objekt och beskrivs i en [separat artikel](add-marketo-custom-object-link-fields.md).
+Fält definierar den specifika information som används av ett anpassat objekt. Länkfält har ett särskilt jobb för att ansluta anpassade objekt och beskrivs i en [separat artikel](add-marketo-custom-object-link-fields.md).
 
-1. Klicka på **Admin** och välj Anpassade objekt **i** Databashantering ****.
+1. Klicka på **Admin** och välj **Marketo-anpassade objekt** i **Databashantering**.
 
    ![](assets/image2016-1-18-9-3a2-3a6.png)
 
@@ -60,7 +60,7 @@ Fält definierar den specifika information som används av ett anpassat objekt. 
    >**Påminnelse**
    >
    >
-   >Om du skapar en en en-till-många-struktur måste du lägga till ett länkfält i det anpassade objektet. För en många-till-många-struktur behöver du inte ha något länkfält i det anpassade objektet, men du måste lägga till två länkfält i det mellanliggande objektet. Se [Lägg till markering i anpassade objektlänkfält](add-marketo-custom-object-link-fields.md) för att skapa länkfälten och [Förstå anpassade objekt](understanding-marketo-custom-objects.md) för markeringar för mer information om typer av anpassade objekt.
+   >Om du skapar en en en-till-många-struktur måste du lägga till ett länkfält i det anpassade objektet. För en många-till-många-struktur behöver du inte ha något länkfält i det anpassade objektet, men du måste lägga till två länkfält i det mellanliggande objektet. Mer information om olika typer av anpassade objekt finns i [Lägg till markering i anpassade objektlänkfält](add-marketo-custom-object-link-fields.md) för att skapa länkfälten och [Förstå anpassade objekt](understanding-marketo-custom-objects.md).
 
 >[!MORELIKETHIS]
 >
