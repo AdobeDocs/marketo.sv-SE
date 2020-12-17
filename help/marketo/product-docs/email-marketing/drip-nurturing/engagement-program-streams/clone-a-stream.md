@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Klona en ström av olika anledningar, inklusive att testa olika order och olika licenser.
 
-1. Välj engagemangsprogram och gå till fliken **Streams** .
+1. Välj ditt engagemangsprogram och gå till fliken **Streams**.
 
    ![](assets/cloneasteam.jpg)
 
