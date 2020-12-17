@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Lägga till en bakgrundsbild i en presentation {#add-a-background-image-to-a-presentation}
+# Lägg till en bakgrundsbild i en presentation {#add-a-background-image-to-a-presentation}
 
 Anpassa en presentation genom att välja en bakgrundsbild.
 
@@ -39,7 +39,7 @@ Anpassa en presentation genom att välja en bakgrundsbild.
 
    >[!TIP]
    >
-   >Använd en bild som är **1 920 x 1 080** eller **1 280 x 720 för att få ett renast utseende**.
+   >Använd en bild som är **1920 x 1080** eller **1280 x 720** för att få ett renast utseende.
 
    ![](assets/image2015-3-24-14-3a47-3a57.png)
 
