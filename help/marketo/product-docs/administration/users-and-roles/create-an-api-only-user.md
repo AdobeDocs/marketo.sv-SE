@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Skapa endast en API-användare {#create-an-api-only-user}
+# Skapa en endast API-användare {#create-an-api-only-user}
 
-Om du vill integrera med Marketo via [REST API](http://developers.marketo.com/documentation/rest/)måste du skapa en användare med enbart API. Så här gör du.
+Om du vill integrera med Marketo via [REST API](http://developers.marketo.com/documentation/rest/) måste du skapa en användare som bara har API. Så här gör du.
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ Om du vill integrera med Marketo via [REST API](http://developers.marketo.com/do
 >
 >**Administratörsbehörigheter krävs**
 
-1. Klicka på **Användare och roller under** Admin **.**
+1. Under **Admin** klickar du på **Användare och roller.**
 
    ![](assets/image2014-9-17-9-3a31-3a31.png)
 
@@ -43,7 +43,7 @@ Om du vill integrera med Marketo via [REST API](http://developers.marketo.com/do
    >
    >Lägg till en valfri orsak eller ett förfallodatum för åtkomst. Utgångsdatumet är praktiskt för korttidsanställda.
 
-1. Markera rollen Endast **** API och markera kryssrutan Endast **** API. Klicka på **Nästa**.
+1. Markera rollen **Endast API** och markera kryssrutan **Endast API**. Klicka på **Nästa**.
 
    ![](assets/four.png)
 
