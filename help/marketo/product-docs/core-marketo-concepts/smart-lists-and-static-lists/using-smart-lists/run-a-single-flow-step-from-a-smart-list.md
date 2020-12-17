@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Köra ett enda flödessteg från en smart lista {#run-a-single-flow-step-from-a-smart-list}
+# Kör ett enskilt flödessteg från en smart lista {#run-a-single-flow-step-from-a-smart-list}
 
 Om du vill köra ett enda steg för ett enda flöde kan du använda ett enda flödessteg i en smart lista i stället för att skapa en hel smart kampanj.
 
@@ -23,11 +23,11 @@ Om du vill köra ett enda steg för ett enda flöde kan du använda ett enda fl�
 
 
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Välj en lista eller smart lista med personer i och gå sedan till fliken **Personer** .
+1. Välj en lista eller smart lista med personer i den och gå sedan till fliken **Personer**.
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -41,9 +41,9 @@ Om du vill köra ett enda steg för ett enda flöde kan du använda ett enda fl�
 
    >[!NOTE]
    >
-   >Om resultatet sträcker sig över flera sidor markerar du alla personer på alla sidor genom att klicka på **Markera alla** .
+   >Om resultatet sträcker sig över flera sidor och du klickar på **Markera alla** markeras alla personer på alla sidor.
 
-1. Under **Personliga** **åtgärder** väljer du önskat flödessteg. I det här exemplet använder vi [Ändra datavärde](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+1. Välj önskat flödessteg under **Person** **Åtgärder**. I det här exemplet använder vi [Ändra datavärde](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
    ![](assets/personactions-hands.png)
 
@@ -55,7 +55,7 @@ Om du vill köra ett enda steg för ett enda flöde kan du använda ett enda fl�
 
    ![](assets/runactionnewvalue-hands.png)
 
-1. Om du ändrar datavärden för ett stort antal personer kan du behöva bekräfta ändringen genom att skriva in talet. Klicka på **Gå**.
+1. Om du ändrar datavärden för ett stort antal personer kan du behöva bekräfta ändringen genom att skriva in talet. Klicka på **Gå till**.
 
    ![](assets/changedatavalue.jpg)
 
