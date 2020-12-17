@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Använd e-postprogram för att snabbt och enkelt skicka ett e-postmeddelande till en grupp personer.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/one.png)
 
-1. Välj den mapp som du vill skapa programmet i, klicka på listrutan **Nytt** och välj **Nytt program**.
+1. Markera mappen som du vill skapa programmet i, klicka på listrutan **Nytt** och välj **Nytt program**.
 
    ![](assets/two.png)
 
@@ -29,13 +29,13 @@ Använd e-postprogram för att snabbt och enkelt skicka ett e-postmeddelande til
 
    >[!NOTE]
    >
-   >När du väljer **E-post** som programtyp ställs kanalen automatiskt in på **Skicka** via e-post. Du kan ändra den om du vill.
+   >När du väljer **E-post** som programtyp ställs kanalen automatiskt in på **Skicka e-post**. Du kan ändra den om du vill.
 
    ![](assets/four.png)
 
 Snyggt! Lägg märke till att programmet nu finns i trädet och är klart att användas. Nästa steg blir att definiera er målgrupp. Se Marketo Related Articles nedan.
 
-## Se en video {#watch-a-video}
+## Titta på en video {#watch-a-video}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/3ySE7FAnFR9btywiWgt4sW.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
