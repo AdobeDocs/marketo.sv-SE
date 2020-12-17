@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# SEO - Använd KW-trendrapport för konkurrent {#seo-use-the-competitor-kw-trends-report}
+# SEO - Använd rapporten för KW-trender för konkurrent {#seo-use-the-competitor-kw-trends-report}
 
 I den här rapporten kan du se hur du och dina konkurrenter rangordnas efter nyckelord.
 
-## Hitta rapporter {#find-reports}
+## Sök efter rapporter {#find-reports}
 
 1. Gå till **Rapporter**.
 
    ![](assets/image2014-9-18-14-3a6-3a18.png)
 
-1. Klicka på **Konkurrenskraftiga KW-ordertrender**.
+1. Klicka på **Konkurrenskraftiga KW Rank-trender**.
 
    ![](assets/image2014-9-18-14-3a6-3a37.png)
 
-## Diagram Rankningstrender för nyckelord {#kw-rank-trends-graph}
+## Diagram över KW-rangordnade trender {#kw-rank-trends-graph}
 
 I det här diagrammet kan du se hur många procent av nyckelorden som har rankats i ett visst intervall och hur dina konkurrenter staplas.
 
@@ -48,7 +48,7 @@ I det här diagrammet kan du se hur många procent av nyckelorden som har rankat
 
    ![](assets/image2014-9-18-14-3a8-3a26.png)
 
-## Exporterar data  {#exporting-data}
+## Exporterar data {#exporting-data}
 
 >[!TIP]
 >
