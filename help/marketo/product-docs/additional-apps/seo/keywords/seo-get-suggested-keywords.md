@@ -17,7 +17,7 @@ Marketo SEO kan föreslå vilka nyckelord du ska spåra. Vi kan ge förslag base
 
 ## Hämta nyckelordsförslag med ett nyckelord {#get-keyword-suggestions-using-a-keyword}
 
-1. Gå till avsnittet **Nyckelord** .
+1. Gå till avsnittet **Nyckelord**.
 
    ![](assets/image2014-9-18-10-3a51-3a41.png)
 
@@ -31,9 +31,9 @@ Marketo SEO kan föreslå vilka nyckelord du ska spåra. Vi kan ge förslag base
 
    >[!TIP]
    >
-   >Visste du att du kan [lägga till ditt nyckelord i en ny eller befintlig lista](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) här?
+   >Visste du att du kan [lägga till nyckelordet i en ny eller befintlig lista](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) här?
 
-1. Välj föreslagna nyckelord. Klicka på **LÄGG TILL MARKERAT**.
+1. Välj föreslagna nyckelord. Klicka på **LÄGG TILL MARKERAD**.
 
    ![](assets/image2014-9-18-10-3a54-3a12.png)
 
@@ -43,9 +43,9 @@ Marketo SEO kan föreslå vilka nyckelord du ska spåra. Vi kan ge förslag base
 
    Ja! Nu när du vet hur du får nyckelordsförslag baserade på ett nyckelord kan du försöka få förslag baserat på en URL.
 
-## Hämta nyckelordsförslag från en URL  {#get-keyword-suggestions-from-a-url}
+## Hämta nyckelordsförslag från en URL {#get-keyword-suggestions-from-a-url}
 
-1. Gå till avsnittet **Nyckelord** .
+1. Gå till avsnittet **Nyckelord**.
 
    ![](assets/image2014-9-18-10-3a54-3a26.png)
 
@@ -53,7 +53,7 @@ Marketo SEO kan föreslå vilka nyckelord du ska spåra. Vi kan ge förslag base
 
    ![](assets/image2014-9-18-11-3a4-3a43.png)
 
-1. Ange **Föreslå efter** till **URL**.
+1. Ange **Föreslå av** till **URL**.
 
    ![](assets/image2014-9-18-11-3a4-3a52.png)
 
@@ -63,9 +63,9 @@ Marketo SEO kan föreslå vilka nyckelord du ska spåra. Vi kan ge förslag base
 
    >[!TIP]
    >
-   >Visste du att du kan [lägga till ditt nyckelord i en ny eller befintlig lista](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) här?
+   >Visste du att du kan [lägga till nyckelordet i en ny eller befintlig lista](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) här?
 
-1. Välj föreslagna nyckelord. Klicka på **LÄGG TILL MARKERAT**.
+1. Välj föreslagna nyckelord. Klicka på **LÄGG TILL MARKERAD**.
 
    ![](assets/image2014-9-18-11-3a8-3a3.png)
 
