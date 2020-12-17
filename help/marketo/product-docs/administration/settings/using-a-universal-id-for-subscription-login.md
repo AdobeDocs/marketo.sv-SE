@@ -21,11 +21,11 @@ Prenumerationsnivåinställningarna gäller för användare som använder Univer
 
 ## Konfigurera ett universellt ID {#setting-up-a-universal-id}
 
-Från varje enskild instans måste Marketo-administratören bjuda in dig till de olika prenumerationerna med samma inloggning. Marketo kan inte sammanfoga dina befintliga inloggningar automatiskt. När du har aktiverat Universellt ID är **din Marketo-instans inte tillgänglig** i upp till 30 minuter. Om du har en större användarbas kan det ta lite längre tid.
+Från varje enskild instans måste Marketo-administratören bjuda in dig till de olika prenumerationerna med samma inloggning. Marketo kan inte sammanfoga dina befintliga inloggningar automatiskt. När du har aktiverat Universellt ID är **Marketo-instansen inte tillgänglig** i upp till 30 minuter. Om du har en större användarbas kan det ta lite längre tid.
 
 >[!CAUTION]
 >
->Om ett enskilt ID eller Universal ID är aktiverat för en användare, kan deras roller och arbetsytor **inte** redigeras efter den första konfigurationen.
+>Om ett enskilt ID eller Universal ID är aktiverat för en användare kan deras roller och arbetsytor **inte** redigeras efter den första konfigurationen.
 
 >[!NOTE]
 >
@@ -63,7 +63,7 @@ När du loggar ut och in igen loggar Marketo automatiskt in dig på den prenumer
 
 Om du har flera prenumerationer kan du ha flera communityprofiler. Vi rekommenderar att du väljer den inloggning som är länkad till din mest aktiva community-profil.
 
-## Mobilplattform {#mobile-platform}
+## Mobile Platform {#mobile-platform}
 
 Användare med ett universellt ID kan se sina data på Marketo Moments och iPad-händelseincheckningsprogrammet från den prenumeration de senast loggat in på. Du kan inte ändra prenumerationer från själva mobilplattformen.
 
