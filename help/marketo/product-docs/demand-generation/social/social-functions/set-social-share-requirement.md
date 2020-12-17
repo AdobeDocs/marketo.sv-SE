@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Ange krav på socialresurs {#set-social-share-requirement}
+# Ange krav för social resurs {#set-social-share-requirement}
 
-När du [skapar ett hänvisningserbjudande](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)kan du kräva att andra delar erbjudandet för att kunna registrera sig eller göra det valfritt.
+När du [skapar ett hänvisningserbjudande](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) kan du kräva att andra delar erbjudandet för att kunna registrera sig eller göra det valfritt.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/ma-1.png)
 
@@ -23,7 +23,7 @@ När du [skapar ett hänvisningserbjudande](../../../../product-docs/demand-gene
 
    ![](assets/image2015-4-22-13-3a30-3a36.png)
 
-1. Gå till **Appinställningar** och sedan **Registreringsflödessteg** i redigeraren för hänvisningserbjudanden.
+1. Gå till **Appinställningar** och **Anmälningsflödessteg** i redigeraren för hänvisningserbjudanden.
 
    ![](assets/three.png)
 
@@ -34,7 +34,7 @@ När du [skapar ett hänvisningserbjudande](../../../../product-docs/demand-gene
    * **Personfångst > Dela**: Man kan hoppa över delning och bara registrera sig.
    * **Dela > Personfångst**: Personen måste dela för att kunna registrera sig.
 
-1. För varje alternativ, se förhandsvisningen i fönstret **Visa och redigera** .
+1. För varje alternativ, se förhandsvisningen i fönstret **Visa och redigera**.
 
    ![](assets/image2015-4-22-13-3a34-3a28.png)
 
