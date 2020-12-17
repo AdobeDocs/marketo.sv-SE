@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Söka efter och lägga till filter i en smart lista {#find-and-add-filters-to-a-smart-list}
 
-När du har [skapat en smart lista](create-a-smart-list.md)måste du lägga till och [definiera](define-smart-list-filters.md) filter. Så här söker du efter och lägger till filter.
+När du har [skapat en smart lista](create-a-smart-list.md) måste du lägga till och [definiera](define-smart-list-filters.md)-filter. Så här söker du efter och lägger till filter.
 
 I det här exemplet hittar vi alla i Kalifornien med en poäng över 50.
 
@@ -21,11 +21,11 @@ I det här exemplet hittar vi alla i Kalifornien med en poäng över 50.
 >
 >Utforska trädet till höger - filtren är mycket kraftfulla och har en mängd olika funktioner.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/ma.png)
 
-1. Markera den smarta lista som du vill lägga till filter i och klicka på fliken **Smart lista** .
+1. Markera den smarta lista som du vill lägga till filter i och klicka på fliken **Smart lista**.
 
    ![](assets/two.png)
 
@@ -33,7 +33,7 @@ I det här exemplet hittar vi alla i Kalifornien med en poäng över 50.
 
    ![](assets/three.png)
 
-1. Du kan också hitta och dra **bakgrundsmusiken** över.
+1. Du kan också söka efter och dra över filtret **Poäng**.
 
    ![](assets/four.png)
 
