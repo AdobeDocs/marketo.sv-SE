@@ -54,7 +54,7 @@ Klicka på fliken **Namngivna konton** för att se vilka namngivna konton som ti
 
 ## Används av flik {#used-by-tab}
 
-Klicka på fliken **Används** för att se vilka resurser som refererar till den kontolistan.
+Klicka på fliken **Används av** för att se vilka resurser som refererar till den kontolistan.
 
 ![](assets/four-2.png)
 
