@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Om Marketo On24-adapterhändelser {#understanding-marketo-on-adapter-events}
+# Om Marketo On24 adapterhändelser {#understanding-marketo-on-adapter-events}
 
 Om ditt ON24-webbinarium inte är kopplat till Marketo måste du hämta deltagarinformation som redan finns i Marketo och ange den i ON24. Efter webbinariet måste du ta närvaroinformation som redan finns i ON24 och ange den igen i Marketo.
 
