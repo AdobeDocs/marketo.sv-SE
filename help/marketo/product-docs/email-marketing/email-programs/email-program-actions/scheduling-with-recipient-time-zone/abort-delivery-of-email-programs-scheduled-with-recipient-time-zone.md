@@ -25,13 +25,13 @@ Eftersom e-postprogram som schemaläggs med mottagartidszon kan köras i upp til
 
    ![](assets/image2018-2-23-11-3a20-3a27.png)
 
-1. När du har avslutat åtgärden ser **resultatrutnätet** i ditt e-postprogram ut ungefär som det nedan. Eventuella efterföljande utskick avbryts och visas som&quot;E-postbaserad mjuk&quot; i kolumnen **Aktivitetstyp** .
+1. När du har avslutat åtgärden kommer rutnätet **Results** i ditt e-postprogram att se ut ungefär som det nedan. Eventuella efterföljande utskick avbryts och visas som&quot;E-postbaserad mjuk&quot; i kolumnen **Aktivitetstyp**.
 
    ![](assets/image2018-2-23-11-3a22-3a11.png)
 
    >[!NOTE]
    >
-   >Avbrutna e-postmeddelanden visas **inte** som ett mjukt studsmeddelande *förrän* de ursprungligen skulle levereras i sina respektive tidszoner. Fram tills dess visas de som&quot;Skicka e-post&quot;.
+   >Avbrutna e-postmeddelanden **visas inte** som ett mjukt studsmeddelande *förrän* den tid de ursprungligen skulle levereras i sina respektive tidszoner. Fram tills dess visas de som&quot;Skicka e-post&quot;.
 
 1. I rutnätet kan du klicka på valfritt e-postmeddelande för att visa aktivitetsinformation. Om du avbryter en sändning ser popup-fönstret med information ut så här:
 
