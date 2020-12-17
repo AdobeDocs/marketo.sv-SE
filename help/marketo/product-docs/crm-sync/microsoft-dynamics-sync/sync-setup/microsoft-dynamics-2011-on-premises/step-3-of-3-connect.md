@@ -25,7 +25,7 @@ Okej! Vi installerade lösningen och konfigurerade synkroniseringsanvändaren. D
 >
 >**Administratörsbehörigheter krävs**
 
-## Ange användarinformation för Dynamics Sync {#enter-dynamics-sync-user-information}
+## Ange Dynamics Sync-användarinformation {#enter-dynamics-sync-user-information}
 
 1. Logga in på Marketo och klicka på **Admin**.
 
@@ -39,7 +39,7 @@ Okej! Vi installerade lösningen och konfigurerade synkroniseringsanvändaren. D
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 
-1. Klicka på **Redigera** i **steg 1: Ange autentiseringsuppgifter.**
+1. Klicka på **Redigera** i **Steg 1: Ange autentiseringsuppgifter.**
 
    ![](assets/image2014-12-11-11-3a54-3a19.png)
 
@@ -47,23 +47,23 @@ Okej! Vi installerade lösningen och konfigurerade synkroniseringsanvändaren. D
    >
    >Kontrollera att dina autentiseringsuppgifter är korrekta eftersom det inte går att återställa efterföljande schemaändringar efter överföringen. Om felaktiga inloggningsuppgifter sparas måste du skaffa en ny Marketo-prenumeration.
 
-1. Ange **användarnamn**, **lösenord** och CRM- **URL** och klicka sedan på **Spara**.
+1. Ange **användarnamn**, **lösenord** och CRM **URL** och klicka sedan på **Spara**.
 
    ![](assets/image2015-4-2-14-3a50-3a7.png)
 
    >[!NOTE]
    >
-   >Användarnamnet i Marketo måste matcha användarnamnet för synkroniseringsanvändaren i CRM. Formatet kan vara [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#a0d5d3c5d2e0c4cfcdc1c9ce8ec3cfcd) DOMAIN\user.
+   >Användarnamnet i Marketo måste matcha användarnamnet för synkroniseringsanvändaren i CRM. Formatet kan vara [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#a0d5d3c5d2e0c4cfcdc1c9ce8ec3cfcd) eller DOMAIN\user.
 
    >[!TIP]
    >
-   >Vet du inte URL:en? Vi visar hur du hittar URL:en [till](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) Dynamics-organisationstjänsten här.
+   >Vet du inte URL:en? Vi visar hur du hittar URL:en för Dynamics-organisationstjänsten[ här.](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
 
-## Markera fält som ska synkroniseras {#select-fields-to-sync}
+## Välj fält att synkronisera {#select-fields-to-sync}
 
 Nu måste vi markera de fält vi vill synkronisera.
 
-1. Klicka på **Redigera** i **steg 2: Markera de fält som ska synkroniseras.**
+1. Klicka på **Redigera** i **steg 2: Välj fält att synkronisera.**
 
    ![](assets/image2015-3-16-9-51-28a.png)
 
@@ -71,7 +71,7 @@ Nu måste vi markera de fält vi vill synkronisera.
 
    ![](assets/image2016-8-25-13-3a26-3a14.png)
 
-## Synkronisera fält för ett eget filter {#sync-fields-for-a-custom-filter}
+## Synkronisera fält för ett anpassat filter {#sync-fields-for-a-custom-filter}
 
 Om du har skapat ett eget filter måste du gå in och välja de nya fält som ska synkroniseras med Marketo.
 
@@ -79,7 +79,7 @@ Om du har skapat ett eget filter måste du gå in och välja de nya fält som sk
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Klicka på **Redigera** i fältsynkroniseringsinformation.
+1. Klicka på **Redigera** i Fältsynkroniseringsinformation.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -89,7 +89,7 @@ Om du har skapat ett eget filter måste du gå in och välja de nya fält som sk
 
 ## Aktivera synkronisering {#enable-sync}
 
-1. Klicka på **Redigera** i **steg 3: Aktivera synkronisering**.
+1. Klicka på **Redigera** i **Steg 3: Aktivera synkronisering**.
 
    ![](assets/image2015-3-16-9-52-2b.png)
 
