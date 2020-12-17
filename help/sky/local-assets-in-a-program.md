@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Lokala resurser är det innehåll som utgör programmet. Resurserna är anpassningsbara och gör att ni kan skapa automatiserade marknadsföringsinitiativ. Här är en översikt över de flesta lokala resurser du kan skapa i [!DNL Marketo Sky].
+Lokala resurser är det innehåll som utgör programmet. Resurserna är anpassningsbara och gör att ni kan skapa automatiserade marknadsföringsinitiativ. Här är en översikt över de flesta lokala resurser som du kan skapa i [!DNL Marketo Sky].
 
 ![Bild ett](/help/sky/assets/programs/local-assets-in-a-program/local-assets-in-a-program-1.jpg)
 
