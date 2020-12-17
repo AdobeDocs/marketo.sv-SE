@@ -21,14 +21,14 @@ Den här artikeln gäller endast användare som använder Event Cap- eller Event
 
 1. Skapa och [lägg till personer i en statisk lista](http://docs.marketo.com/x/ecKt).
 1. [Skapa en smart kampanj](http://docs.marketo.com/x/M4AR).
-1. I den smarta listan för den smarta kampanj du skapade i steg två söker du efter och lägger till **medlemslistan** .
+1. I den smarta listan för den smarta kampanj du skapade i steg två söker du efter och lägger till filtret **Medlem i listan**.
 
    ![](assets/three.png)
 
 1. Sök efter och markera listan som du skapade i steg 1.
 1. ![](assets/four.png)
 
-1. I Flow söker du efter och lägger till **Ändra programstatus** .
+1. I Flow söker du efter och lägger till flödessteget **Change Program Status**.
 1. ![](assets/five.png)
 
 1. Hitta och välj ditt Event Program.
