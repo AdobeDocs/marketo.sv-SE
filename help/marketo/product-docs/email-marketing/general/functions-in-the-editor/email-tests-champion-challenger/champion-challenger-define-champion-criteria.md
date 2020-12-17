@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Champion/Challenger: Definiera villkor för tävling {#champion-challenger-define-champion-criteria}
+# Champion/Challenger: Definiera tävlingsvillkor {#champion-challenger-define-champion-criteria}
 
 När du har konfigurerat testtypen måste du definiera tävlingskriterierna. Så här gör du.
 
@@ -23,7 +23,7 @@ När du har konfigurerat testtypen måste du definiera tävlingskriterierna. Så
 
 
 
-## Standardvillkor för tävling {#standard-champion-criteria}
+## Standardtävlingsvillkor {#standard-champion-criteria}
 
 1. Välj ett av de tillgängliga **tävlingsvillkoren**.
 
@@ -33,7 +33,7 @@ När du har konfigurerat testtypen måste du definiera tävlingskriterierna. Så
    >
    >Vi håller reda på mätvärdena och skickar en rapport med data via e-post.
 
-1. Om du valde något av standardvillkoren för **tävling** går du vidare till [Champion/Challenger: Konfigurera rapportaviseringar](champion-challenger-configure-report-alerts.md)!
+1. Om du valde ett av standardvillkoren för **Champion Criteria** går du vidare till [Champion/Challenger: Konfigurera rapportaviseringar](champion-challenger-configure-report-alerts.md)!
 
 ## Anpassade villkor för tävling {#custom-champion-criteria}
 
