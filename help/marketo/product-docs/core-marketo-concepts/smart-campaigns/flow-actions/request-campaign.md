@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Begär kampanj {#request-campaign}
 
-Du kan placera personer i en viss kampanj genom att använda det **enskilda flödessteget i Begär kampanj** .
+Du kan placera personer i en viss kampanj genom att använda det enkla flödessteget **Begär kampanj**.
 
 >[!NOTE]
 >
->Kampanjen som du placerar personen i måste vara aktiv och ha utlösaren ** [Campaign begärd](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)**.
+>Kampanjen som du placerar personen i måste vara aktiv och ha utlösaren ** [Kampanjen är begärd](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)**.
 
-1. I **databasen** söker du efter och markerar personer.
+1. I **Databas** söker du efter och väljer önskad person/personer.
 
    ![](assets/one-5.png)
 
@@ -27,7 +27,7 @@ Du kan placera personer i en viss kampanj genom att använda det **enskilda flö
 
    ![](assets/two-5.png)
 
-1. Välj den kampanj du vill att personen ska placeras i och klicka på **Kör nu**.
+1. Markera kampanjen som du vill att personen ska placeras i och klicka på **Kör nu**.
 
    ![](assets/three-4.png)
 
@@ -43,5 +43,5 @@ Du kan placera personer i en viss kampanj genom att använda det **enskilda flö
 
 >[!TIP]
 >
->Använd **kampanjutlösaren** eller filtret för att hitta personer som påverkas av det här flödessteget.
+>Använd utlösaren eller filtret **Kampanjen är begärd** för att hitta personer som påverkas av det här flödessteget.
 
