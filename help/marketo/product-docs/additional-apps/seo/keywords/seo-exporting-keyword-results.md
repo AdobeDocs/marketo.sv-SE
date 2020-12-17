@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Du kan exportera dina nyckelordsresultat för att dela dem med ditt team eller för att skapa en rapport.
 
-1. Gå till avsnittet **Nyckelord** .
+1. Gå till avsnittet **Nyckelord**.
 
    ![](assets/image2014-9-18-12-3a51-3a7.png)
 
