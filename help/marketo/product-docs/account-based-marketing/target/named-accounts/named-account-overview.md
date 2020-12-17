@@ -61,7 +61,7 @@ Namngivna konton håller personerna från de företag ni riktar er mot. Kontroll
   </tr> 
   <tr> 
    <td><strong>SIC-kod</strong></td> 
-   <td><span><strong></strong>Standard <strong></strong>Industrial <strong></strong>Classification - fyrsiffrig kod för klassificering av industrier<br></span></td> 
+   <td><span><strong></strong>Standard  <strong></strong>Industrial  <strong></strong>Classification - fyrsiffrig kod för klassificering av industrier<br></span></td> 
   </tr> 
   <tr> 
    <td><strong>Intäkter</strong></td> 
