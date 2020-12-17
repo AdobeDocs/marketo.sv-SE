@@ -19,7 +19,7 @@ Du måste godkänna ett anpassat objekt innan du kan använda det. Processen ski
 
 Du har skapat ett helt nytt anpassat objekt. Så här godkänner du det.
 
-1. I Admin klickar du på **Markering till anpassade objekt** och markerar ett objekt som är i utkastläge.
+1. I Admin klickar du på **Markera till anpassade objekt** och markerar ett objekt som är i utkastläge.
 
    ![](assets/one.png)
 
@@ -36,13 +36,13 @@ Du har skapat ett helt nytt anpassat objekt. Så här godkänner du det.
    >Ett anpassat objekt som används i en *en-till-många-struktur* måste ha minst ett dedupliceringsfält, ett länkfält, ett länkat objektnamn och ett länkat fältnamn som ska godkännas.
    >
    >
-   >Ett anpassat objekt som används i en *många-till-många-struktur* behöver **inte** något länkfält, länkat objektnamn eller ett länkat fältnamn när du godkänner det (eftersom de finns i det mellanliggande objektet).
+   >Ett anpassat objekt som används i en *många-till-många-struktur* **behöver inte** ett länkfält, namn på länkat objekt eller ett länkat fältnamn när du godkänner det (eftersom de finns i det mellanliggande objektet).
    >
    >
-   >Ett anpassat objekt som används som *mellanliggande objekt* kräver ett länkfält, ett namn på ett länkat objekt och ett länkat fältnamn, men **kräver inget** dedupliceringsfält.
+   >Ett anpassat objekt som används som ett *mellanliggande objekt* kräver ett länkfält, ett länkat objektnamn och ett länkat fältnamn, men **kräver inget** dedupliceringsfält.
    >
    >
-   >Mer information finns i [Förstå anpassade objekt](understanding-marketo-custom-objects.md) i Marketto.
+   >Mer information finns i [Förstå Marketo-anpassade objekt](understanding-marketo-custom-objects.md).
 
 Så ja! Nu kan du välja det anpassade objektet i begränsningarna för filter och utlösare som ska användas i dina kampanjer.
 
