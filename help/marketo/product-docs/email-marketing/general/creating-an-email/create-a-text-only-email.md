@@ -19,7 +19,7 @@ Om du någonsin vill skicka e-post med enbart text är det så här du skapar et
 >
 >Eftersom öppningar spåras av mottagaren som hämtar e-postbilderna (som innehåller en osynlig spårningspixel), kan öppningarna **inte** spåras för e-postmeddelanden med enbart text.
 
-1. Gå till området **Marknadsföringsaktiviteter** .
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/one-1.png)
 
@@ -39,19 +39,19 @@ Om du någonsin vill skicka e-post med enbart text är det så här du skapar et
 
    ![](assets/five.png)
 
-1. Markera Endast **text** och klicka på **Spara**.
+1. Markera **Endast text** och klicka på **Spara**.
 
    ![](assets/six.png)
 
    >[!CAUTION]
    >
-   >Länkar spåras inte automatiskt i e-postmeddelanden som bara innehåller text. Se hur du [lägger till spårade länkar i ett e-postmeddelande](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md)med text.
+   >Länkar spåras inte automatiskt i e-postmeddelanden som bara innehåller text. Se hur du [lägger till spårade länkar i ett e-postmeddelande](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
 
    >[!TIP]
    >
    >Du kan även redigera ett befintligt e-postmeddelande och ändra den här inställningen. Glöm inte att godkänna utkastet.
 
-1. Avmarkera kryssrutan **Automatisk kopiering från HTML** .
+1. Avmarkera kryssrutan **Kopiera automatiskt från HTML**.
 
    ![](assets/seven.png)
 
