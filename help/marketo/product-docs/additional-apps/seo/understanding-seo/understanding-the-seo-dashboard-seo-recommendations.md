@@ -19,9 +19,9 @@ Du kan även läsa om hur du kan förbättra genom att använda Recommendations.
 
 ![](assets/image2014-9-17-21-3a39-3a57.png)
 
-## Optimeringsproblem på den vanligaste sidan {#top-page-optimization-issues}
+## Optimeringsproblem för den översta sidan {#top-page-optimization-issues}
 
-Detta visar fem effektiva sätt att börja optimera webbplatsen direkt! Klicka bara på någon av länkarna för att visa hela [sidan Detaljnivå ned](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md).
+Detta visar fem effektiva sätt att börja optimera webbplatsen direkt! Klicka bara på någon av länkarna för att visa den fullständiga [detaljnivån ](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md).
 
 >[!TIP]
 >
