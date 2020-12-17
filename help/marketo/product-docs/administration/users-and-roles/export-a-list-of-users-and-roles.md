@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Exportera en lista med användare och roller {#export-a-list-of-users-and-roles}
+# Exportera en lista över användare och roller {#export-a-list-of-users-and-roles}
 
 >[!NOTE]
 >
