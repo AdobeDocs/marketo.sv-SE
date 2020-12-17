@@ -17,11 +17,11 @@ Vill du hantera sidorna? Det kan du enkelt göra genom att skapa en lista. Du ka
 
 ## Lägg till sida i en lista {#add-page-to-a-list}
 
-1. Gå till avsnittet **Sidor** .
+1. Gå till avsnittet **Sidor**.
 
    ![](assets/image2014-9-18-13-3a2-3a49.png)
 
-1. Håll markören över den sida som du vill lägga till i en lista. Klicka på **LÄGG TILL/TA BORT FRÅN LISTAN**.
+1. Håll markören över den sida som du vill lägga till i en lista. Klicka på **LÄGG TILL/TA BORT FRÅN LISTA**.
 
    ![](assets/image2014-9-18-13-3a2-3a53.png)
 
@@ -49,7 +49,7 @@ Vill du hantera sidorna? Det kan du enkelt göra genom att skapa en lista. Du ka
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 
-1. Hovra över sidan som du vill ta bort. Klicka på **LÄGG TILL/TA BORT FRÅN LISTAN**.
+1. Hovra över sidan som du vill ta bort. Klicka på **LÄGG TILL/TA BORT FRÅN LISTA**.
 
    ![](assets/image2014-9-18-13-3a4-3a3.png)
 
