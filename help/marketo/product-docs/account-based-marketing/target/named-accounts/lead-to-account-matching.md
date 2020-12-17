@@ -17,7 +17,7 @@ Matcha högerleads till högernamngivna konton med Marketo Lead-to-Account-match
 
 >[!NOTE]
 >
->**Matchning** från lead till konto är en inbyggd funktion i Marketo-kontobaserad marknadsföring. Den använder otydlig logik för att automatiskt matcha leads till rätt namngivna konton i nära realtid. Dessa namngivna konton kan vara CRM-konton eller Marketo-företag.
+>**Lead-till-konto-** matchning är en inbyggd funktion i Marketo-kontobaserad marknadsföring. Den använder otydlig logik för att automatiskt matcha leads till rätt namngivna konton i nära realtid. Dessa namngivna konton kan vara CRM-konton eller Marketo-företag.
 
 Marketo Lead-to-Account Matching följer en process i fyra steg:
 
@@ -27,7 +27,7 @@ Marketo Lead-to-Account Matching följer en process i fyra steg:
 * Infört företagsnamn från IP-adress
 * Företagsnamn - Detta kan vara CRM-kontonamn eller huvudföretagsnamnsattribut, t.ex. från formulärifyllnad
 
-**Steg 2 -** Vi normaliserar de företagsnamn vi hittar baserat på olika ledattribut (t.ex. Acme Inc. och Acme Corp normaliseras automatiskt till Acme). Detta steg säkerställer att vi har en enda representation av det namngivna kontot i Marketo och kan se alla leads i ett namngivet konto.
+**Steg 2 -** Vi normaliserar företagsnamnen som vi hittar baserat på olika ledattribut (t.ex. Acme Inc. och Acme Corp normaliseras automatiskt till Acme). Detta steg säkerställer att vi har en enda representation av det namngivna kontot i Marketo och kan se alla leads i ett namngivet konto.
 
 **Steg 3 -** Vi delar matchade leads i två grupper: Stark Match och Weak Match.
 
