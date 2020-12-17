@@ -21,7 +21,7 @@ På flikarna Synkroniseringsstatus och Synkroniseringsfel kan du hålla reda på
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. Klicka på fliken **Synkroniseringsstatus** .
+1. Klicka på fliken **Synkroniseringsstatus**.
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
@@ -35,7 +35,7 @@ På flikarna Synkroniseringsstatus och Synkroniseringsfel kan du hålla reda på
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. Klicka på **Visa: **listrutan** **och välj **Senaste timmen **för att visa genomströmningsinformation.
+1. Klicka på **Visa: **listruta** **och välj **Senaste timma **för att visa genomströmningsinformation.
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
