@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ladda ned aktivitetslogg för GoogleAdwords {#download-googleadwords-activity-log}
+# Ladda ned aktivitetsloggen för GoogleAdwords {#download-googleadwords-activity-log}
 
 Saker händer. Ibland behöver du hämta aktivitetsloggen för att felsöka problem.
 
