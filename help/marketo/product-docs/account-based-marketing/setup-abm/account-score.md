@@ -28,13 +28,13 @@ I B2B-inköpsprocessernas komplexa värld är det sällan en enskild person fatt
 | **Räntepoäng för kontoprodukt** | Personer från målkonton som visar intresse för innehållet från en viss produkt (t.ex. nedladdning av ett faktablad). |
 | **Resultat för webbengagemang för konto** | Personer från målkonton som besöker webbkanalen. Samma poäng kan skapas för att mäta kanalengagemang från e-post, annonser eller andra kanaler. |
 
-## Så här konfigurerar du kontopoäng {#how-to-configure-account-score}
+## Konfigurera kontopoäng {#how-to-configure-account-score}
 
 >[!NOTE]
 >
 >**Förklaring**
 >
->Om du vill beräkna kontopoäng måste du först skapa poängpoäng. Marketo ABM samlar automatiskt in poängpoäng från leads till resultaträkningar. Vi kommer till exempel att ta två av de ovanstående exemplen (*Konto **produktintresse* och *Webbengagemang* för konto).
+>Om du vill beräkna kontopoäng måste du först skapa poängpoäng. Marketo ABM samlar automatiskt in poängpoäng från leads till resultaträkningar. Vi tar till exempel två av de ovanstående exemplen (*Konto **Produkträntepoäng* och *Kontowebbengagemang*).
 >
 >Skapa först fält för lead-poäng som hämtar relevant information från varje lead i ett målkonto.\
 >Tilldela sedan dessa lead scores till respektive kontopoäng:\
