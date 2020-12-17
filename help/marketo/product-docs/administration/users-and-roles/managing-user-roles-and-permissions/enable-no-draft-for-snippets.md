@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aktivera No-draft för kodfragment {#enable-no-draft-for-snippets}
+# Aktivera No-draft för fragment {#enable-no-draft-for-snippets}
 
 Med No-Draft for Snippets kan du distribuera kodfragmentändringar utan att skriva ut godkända resurser. Alla resurser som använder det redigerade fragmentet får uppdateringarna och behåller sina respektive statusvärden:
 
@@ -29,19 +29,19 @@ Inget utkast aktiveras automatiskt för alla administratörsroller. En administr
 
    ![](assets/usersandroles.png)
 
-1. Gå till fliken **Roller** , markera en roll och klicka sedan på **Redigera roll**.
+1. Gå till fliken **Roller**, markera en roll och klicka sedan på **Redigera roll**.
 
    ![](assets/editrole2.png)
 
-1. Expandera alternativet **Access Design Studio** .
+1. Expandera alternativet **Access Design Studio**.
 
    ![](assets/expanddesignstudio.png)
 
-1. Expandera alternativet **Åtkomstfragment** .
+1. Expandera alternativet **Åtkomstfragment**.
 
    ![](assets/expandsnippet.png)
 
-1. Expandera behörigheten **Godkänn fragment** och markera rutan **Ej utkast** . Klicka sedan på **Spara**.
+1. Expandera behörigheten **Godkänn fragment** och markera rutan **Inget utkast**. Klicka sedan på **Spara**.
 
    ![](assets/2017-06-15-10-35-04.png)
 
