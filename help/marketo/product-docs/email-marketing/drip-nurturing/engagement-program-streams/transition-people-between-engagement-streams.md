@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Överför personer mellan engagemangsströmmar {#transition-people-between-engagement-streams}
 
-Engagement-program kan ha fler än en ström. Om du [lägger till en ström](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)måste du definiera ett sätt för användarna att gå från en ström till en annan. Dessa kallas **övergångsregler.**
+Engagement-program kan ha fler än en ström. Om du [lägger till en ström](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md) måste du definiera ett sätt för personer att flytta från en ström till en annan. Dessa kallas **övergångsregler.**
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/ma.png)
 
@@ -23,7 +23,7 @@ Engagement-program kan ha fler än en ström. Om du [lägger till en ström](../
 
    ![](assets/multistream.jpg)
 
-1. Klicka på **Övergångsregler** för den ström du vill hämta in från andra strömmar och klicka sedan på **Redigera övergångsregler. **
+1. Klicka på **Övergångsregler** för den ström du vill hämta från andra strömmar och klicka sedan på **Redigera övergångsregler. **
 
    ![](assets/image2014-9-15-18-3a10-3a18.png)
 
@@ -58,5 +58,5 @@ Engagement-program kan ha fler än en ström. Om du [lägger till en ström](../
 
    >[!NOTE]
    >
-   >Stegen ovan *gäller* även personer som är [på paus](http://docs.marketo.com/display/DOCS/Pause+People+in+an+Engagement+Program) .
+   >Stegen ovan *do* gäller även personer som är [på paus](http://docs.marketo.com/display/DOCS/Pause+People+in+an+Engagement+Program).
 
