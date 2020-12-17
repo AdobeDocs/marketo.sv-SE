@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Lägg till programstatuskolumner i en programrapport {#add-program-status-columns-to-a-program-report}
 
-Lägg till statistik om programstatus i din [programresultatrapport](create-a-program-performance-report.md).
+Lägg till statistik om programstatus i din [rapport om programprestanda](create-a-program-performance-report.md).
 
 1. Gå till Marknadsföringsaktiviteter (eller Analytics).
 
@@ -33,7 +33,7 @@ Lägg till statistik om programstatus i din [programresultatrapport](create-a-pr
 
    >[!TIP]
    >
-   >Om du vill visa kolumner för programstatus måste rapporten filtreras efter *bara en* kanal.
+   >Om du vill visa programstatuskolumner måste rapporten filtreras med *bara en*-kanal.
 
 1. Markera alternativet Visa programstatuskolumner. Klicka på Använd.
 
@@ -45,7 +45,7 @@ Lägg till statistik om programstatus i din [programresultatrapport](create-a-pr
 
 >[!NOTE]
 >
->Om du inte ser någon kolumn för varje status i programmet kontrollerar du att du har [markerat kolumnerna som ska visas](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) i rapporten.
+>Om du inte ser någon kolumn för varje status i programmet kontrollerar du att du har [markerat de kolumner som ska visas](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) i rapporten.
 
 >[!MORELIKETHIS]
 >
