@@ -18,11 +18,11 @@ Engagemangsprogram kan innehålla mer än en ström.
 
    ![Bild ett](/help/sky/assets/engagement-programs/add-a-stream-to-an-engagement-program/add-a-stream-to-an-engagement-program-1.png)
 
-1. Klicka på **[!UICONTROL Streams]** fliken.
+1. Klicka på fliken **[!UICONTROL Streams]**.
 
    ![Bild två](/help/sky/assets/engagement-programs/add-a-stream-to-an-engagement-program/add-a-stream-to-an-engagement-program-2.png)
 
-1. Klicka **[!UICONTROL Add Stream]**.
+1. Klicka på **[!UICONTROL Add Stream]**.
 
    ![Bild tre](/help/sky/assets/engagement-programs/add-a-stream-to-an-engagement-program/add-a-stream-to-an-engagement-program-3.png)
 
