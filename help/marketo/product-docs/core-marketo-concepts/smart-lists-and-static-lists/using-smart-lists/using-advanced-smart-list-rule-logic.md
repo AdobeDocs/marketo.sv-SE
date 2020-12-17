@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Använda avancerad logik för smarta listregler {#using-advanced-smart-list-rule-logic}
+# Använda avancerad logik för smart listregel {#using-advanced-smart-list-rule-logic}
 
 Du kan hitta exakt de personer du behöver genom att tillämpa logik för smarta listregler på flera filter i en smart lista. Så här gör du.
 
@@ -30,19 +30,19 @@ Du kan hitta exakt de personer du behöver genom att tillämpa logik för smarta
 
 ## Lägg till logik i en smart lista {#add-logic-to-a-smart-list}
 
-Som standard hittar den smarta listan de personer som matchar **ALLA** filter (filtren 1 *och* 2 *och* 3). Du kan ändra regellogiken för att hitta personer som matchar **något** av de definierade filtren (filter 1 *eller* 2 *eller* 3) eller använda avancerade filter (filter 1 *och* 2 *eller *3).
+Som standard söker den smarta listan efter personer som matchar **ALLA** filter (filters 1 *och* 2 *och* 3). Du kan ändra regellogiken för att hitta personer som matchar **ANY** för de definierade filtren (filters 1 *eller* 2 *eller* 3), eller använda avancerade filter (filters 1 *och* 2 *eller *3).
 
-I det här exemplet ska vi säga att du vill hitta personer i Kalifornien *och* ha minst 50 poäng *eller* statusen&quot;Försäljningskvalificerad&quot;.
+I det här exemplet ska vi säga att du vill hitta personer i Kalifornien *och* med ett poängvärde på minst 50 poäng *eller* med statusen&quot;Försäljningskvalificerad&quot;.
 
-1. Välj **Använd** **avancerade** **filter** i listrutan.
+1. Välj **Använd** **Avancerade** **filter** i listrutan.
 
    ![](assets/one.png)
 
    >[!NOTE]
    >
-   >Om du använder **avancerade** filter behöver du inte skapa smarta listor med filtret Medlem i smart lista. Detta hjälper till att optimera prestanda.
+   >Om du använder **Avancerade**-filter minskar behovet av att skapa smarta listor med filtret Medlem i smart lista. Detta hjälper till att optimera prestanda.
 
-1. I textrutan **Avancerade** **filter** visas&quot;och&quot; som standardvärde mellan alla filter.
+1. Textrutan **Avancerat** **filter** visar &quot;och&quot; som standardvärde mellan alla filter.
 
    ![](assets/two-2.png)
 
@@ -58,13 +58,13 @@ I det här exemplet ska vi säga att du vill hitta personer i Kalifornien *och* 
 
    ![](assets/four-1.png)
 
-## Använd parenteser vid blandning av&quot;And&quot; och&quot;Or&quot; {#use-parentheses-when-mixing-and-and-or}
+## Använd parenteser vid blandning av&quot;And&quot; och&quot;Or {#use-parentheses-when-mixing-and-and-or}
 
 Om du blandar&quot;och&quot;- och&quot;eller&quot;-logik måste du använda parenteser för att tydliggöra din avsikt.
 
 ![](assets/advancedfilters-parent.png)
 
-## Använd kapslade parenteser för fyra eller fler filter vid behov {#use-nested-parentheses-for-four-or-more-filters-if-needed}
+## Använd kapslade parenteser för fyra eller fler filter om det behövs {#use-nested-parentheses-for-four-or-more-filters-if-needed}
 
 Beroende på din avsikt kan du behöva lägga till kapslade parenteser när du använder fyra eller fler filter.
 
