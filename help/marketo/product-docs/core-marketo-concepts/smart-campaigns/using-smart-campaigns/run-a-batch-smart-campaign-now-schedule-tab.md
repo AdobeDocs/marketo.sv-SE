@@ -27,7 +27,7 @@ När du är klar med gruppkampanjen kan du välja att köra den nu eller senare.
 
    ![](assets/image2014-9-19-15-3a57-3a19.png)
 
-   Ta det lugnt! Du kan också [schemalägga körningar senare](schedule-a-batch-smart-campaign-to-run-later.md) om du vill.
+   Ta det lugnt! Du kan också [schemalägga körningar för senare](schedule-a-batch-smart-campaign-to-run-later.md) om du vill.
 
    >[!NOTE]
    >
