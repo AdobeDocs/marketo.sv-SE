@@ -17,15 +17,15 @@ Ströminnehållet är AV som standard. Aktivera innehåll för att skicka ut det
 
 ## Aktivera ströminnehåll {#activate-stream-content}
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Välj engagemangsprogrammet och klicka på fliken **Streams** .
+1. Välj ditt engagemangsprogram och klicka på fliken **Streams**.
 
    ![](assets/cloneasteam.jpg)
 
-1. Håll muspekaren över det innehåll du vill aktivera, klicka på kugghjulsikonen och klicka sedan på **Aktivera**.
+1. Håll pekaren över det innehåll du vill aktivera, klicka på kugghjulsikonen och klicka sedan på **Aktivera**.
 
    >[!NOTE]
    >
@@ -35,17 +35,17 @@ Ströminnehållet är AV som standard. Aktivera innehåll för att skicka ut det
 
    >[!TIP]
    >
-   >Du kan också aktivera allt innehåll i en ström genom att klicka på kugghjulsikonen på den översta nivån och sedan klicka på **Aktivera allt innehåll.**
+   >Du kan även aktivera allt innehåll i en ström genom att klicka på kugghjulsikonen på den översta nivån och sedan klicka på **Aktivera allt innehåll.**
 
    Snyggt jobbat! Nu vet ni hur ni aktiverar innehåll i era strömmar.
 
 ## Inaktivera ströminnehåll {#deactivate-stream-content}
 
-1. Välj engagemangsprogrammet och klicka på fliken **Streams** .
+1. Välj ditt engagemangsprogram och klicka på fliken **Streams**.
 
    ![](assets/cloneasteam.jpg)
 
-1. Håll muspekaren över det innehåll du vill inaktivera, klicka på kugghjulsikonen och klicka sedan på **Inaktivera.**
+1. Håll pekaren över det innehåll du vill inaktivera, klicka på kugghjulsikonen och klicka sedan på **Inaktivera.**
 
    ![](assets/image2014-9-15-16-3a34-3a25.png)
 
