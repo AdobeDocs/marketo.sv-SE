@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Identifiera konton {#discover-accounts}
+# Upptäck konton {#discover-accounts}
 
 Använd alternativet Discover för att identifiera potentiella målkonton.
 
@@ -21,13 +21,13 @@ Identifiera potentiella målkonton från CRM.
 
 >[!NOTE]
 >
->När du har anslutit CRM till Marketo ABM visar **Discover CRM-konton** alla CRM-konton och relevant information som hjälper dig att välja rätt namngivna konton. Marketo lägger till ytterligare information utöver vad som tas emot från CRM.
+>När du har anslutit CRM till Marketo ABM visar **Identifiera CRM-konton** alla CRM-konton och relevant information som hjälper dig att välja rätt namngivna konton. Marketo lägger till ytterligare information utöver vad som tas emot från CRM.
 
-**Personer** (i Identifiera CRM-konton och Identifiera Marketo-företag): Innehåller både kontakter och leads. Leads kan identifieras med hjälp av Marketos [lead-to-account-matchning](http://docs.marketo.com/display/DOCS/Lead+to+Account+Matching). **Potentiella personer** (i Discover CRM Accounts &amp; Discover Marketo Companies): Visar hur många leads Marketo som kan tillhöra ett CRM-konto.
+**Personer**  (i Identifiera CRM-konton och Identifiera Marketo-företag): Innehåller både kontakter och leads. Leads kan identifieras med Marketos [lead-to-account matching](http://docs.marketo.com/display/DOCS/Lead+to+Account+Matching). **Potentiella personer**  (i Discover CRM Accounts &amp; Discover Marketo Companies): Visar hur många leads Marketo som kan tillhöra ett CRM-konto.
 
-**Anpassat CRM-fält** (endast i Identifiera CRM-konton): Detta hjälper er att anpassa sälj- och marknadsföringsorganisationen för att välja rätt målkonton. När du har [mappat det anpassade CRM-fältet](http://docs.marketo.com/x/1wnG) med Marketo ABM visar vi mappade data som hjälper dig att identifiera målkonton.
+**Anpassat CRM-fält**  (endast i Identifiera CRM-konton): Detta hjälper er att anpassa sälj- och marknadsföringsorganisationen för att välja rätt målkonton. När du har [mappat det anpassade CRM-fältet](http://docs.marketo.com/x/1wnG) med Marketo ABM visar vi mappade data som hjälper dig att identifiera målkontona.
 
-1. Klicka på listrutan **Nytt** i Namngivna konton och välj **Identifiera CRM-konton**.
+1. I Namngivna konton klickar du på listrutan **Nytt** och väljer **Identifiera CRM-konton**.
 
    ![](assets/disc-crm-one.png)
 
@@ -65,11 +65,11 @@ Identifiera rätt företag för målinriktning.
    >
    > * Söker efter personer från din Marketo-databas som har det företaget angivet i sin post. Om du ser flera värden för vissa av attributen (t.ex. Bransch) beror det på att Marketo hittade olika värden för de enskilda personerna. Attributet med flest träffar
    >
-   >I **Upptäck endast CRM** :
+   >I **Upptäck endast CRM**, Marketo automatiskt:
    >
    > * Synkroniserar och associerar CRM-kontakter med det namngivna kontot
    >
-   >I **Discover Marketo Companies** only:
+   >I **Discover Marketo Companies** är Marketo automatiskt:
    >
    > * Filtrerar ut de flesta Internetleverantörer och offentliga domäner (t.ex. [Yahoo.com](https://yahoo.com), [Gmail.com](https://gmail.com)) som företagsnamn
       >
@@ -86,7 +86,7 @@ Identifiera rätt företag för målinriktning.
    >
    >Framöver kommer alla nya personer från dessa utvalda företag automatiskt att tilldelas sina respektive namngivna konton. Kontrollera dessa företag och se till att de har tilldelats rätt namngivet konto.
 
-1. Om du vill välja ett befintligt konto klickar du på listrutan **Namngivet konto** , väljer önskat konto och klickar sedan på **Nästa**.
+1. Om du vill välja ett befintligt konto klickar du på listrutan **Namngivet konto**, väljer önskat konto och klickar sedan på **Nästa**.
 
    ![](assets/disc-comp-four.png)
 
@@ -94,7 +94,7 @@ Identifiera rätt företag för målinriktning.
 
    ![](assets/disc-comp-five.png)
 
-   ...så ser du ditt nya namngivna konto. Då klickar du bara på **Nästa** , som i steg 4.
+   ...så ser du ditt nya namngivna konto. Då klickar du bara på **Nästa** som i steg 4.
 
    ![](assets/disc-comp-six.png)
 
