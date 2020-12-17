@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Du kan stänga av ett engagemangsprogram med en enkel knapptryckning. Detta förhindrar att innehåll skickas ut. Så här gör du.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Välj engagemangsprogrammet och klicka på **Konfigurera**.
+1. Välj engagemangsprogrammet och klicka på **Inställningar**.
 
    >[!NOTE]
    >
