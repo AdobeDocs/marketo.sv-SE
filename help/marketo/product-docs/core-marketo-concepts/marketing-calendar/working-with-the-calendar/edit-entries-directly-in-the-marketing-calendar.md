@@ -21,7 +21,7 @@ I programfokusläget kan du snabbt ändra kalenderposterna. Så här gör du.
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. Markera en post som tillhör programmet som du vill fokusera på och klicka på **Visa programfokus**.
+1. Välj en post som tillhör det program som du vill fokusera på och klicka på **Visa programfokus**.
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 
@@ -46,7 +46,7 @@ I programfokusläget kan du snabbt ändra kalenderposterna. Så här gör du.
    >Du kan också redigera beskrivningen.
    >
    >
-   >![--](assets/image2014-10-20-13-3a16-3a56.png)   >
+   >![—](assets/image2014-10-20-13-3a16-3a56.png)   >
 
 ## Konvertera posttyp {#convert-entry-type}
 
