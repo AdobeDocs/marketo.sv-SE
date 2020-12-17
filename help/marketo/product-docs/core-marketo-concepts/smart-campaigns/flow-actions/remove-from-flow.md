@@ -21,7 +21,7 @@ Tänk dig att du har ett smart kampanjflöde som använder&quot;Skicka avisering
 
 ## Översikt {#overview}
 
-Du kan ta bort personer från ett kampanjflöde genom att använda flödessteget **Ta bort från flöde** .
+Du kan ta bort personer från en kampanjflödes genom att använda flödessteget **Ta bort från flöde**.
 
 ![](assets/image2014-9-22-17-3a10-3a21.png)
 
@@ -33,7 +33,7 @@ Hitta och välj den smarta kampanj som du vill ta bort personer från.
 
 >[!NOTE]
 >
->Du kan välja en specifik smart kampanj eller välja den här kampanjen i listrutan **Campaign** för att välja den kampanj du befinner dig i just nu.
+>Du kan välja en specifik smart kampanj eller välja &quot;den här kampanjen&quot; i listrutan **Campaign** för att välja den kampanj som du befinner dig i just nu.
 
 >[!NOTE]
 >
