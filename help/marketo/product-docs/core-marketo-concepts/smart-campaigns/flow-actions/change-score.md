@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ändra poäng {#change-score}
+# Ändra bakgrundsmusik {#change-score}
 
 ## Översikt {#overview}
 
@@ -27,7 +27,7 @@ Det är enkelt och kraftfullt att betygsätta personer så att säljteamet kan p
 
    >[!TIP]
    >
-   >Du kan skapa flera poängfält. Mer information finns i [Skapa ett anpassat fält i Marketo](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md) .
+   >Du kan skapa flera poängfält. Mer information finns i [Skapa ett anpassat fält i Marketo](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
 1. Ange den poängändring du vill ha.
 
