@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Alla sidproblem kan inte vara användbara för dig. Så här tar du bort en:
 
-1. Gå till avsnittet **Sidor** .
+1. Gå till avsnittet **Sidor**.
 
    ![](assets/image2014-9-18-14-3a0-3a16.png)
 
