@@ -20,7 +20,7 @@ Om du vill kunna hålla ordning kan du byta namn på strömmarna.
 
    ![Bild ett](/help/sky/assets/engagement-programs/rename-a-stream/rename-a-stream-1.png)
 
-1. Klicka på **[!UICONTROL Streams]** fliken.
+1. Klicka på fliken **[!UICONTROL Streams]**.
 
    ![Bild två](/help/sky/assets/engagement-programs/rename-a-stream/rename-a-stream-2.png)
 
