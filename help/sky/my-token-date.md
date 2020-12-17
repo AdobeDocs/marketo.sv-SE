@@ -16,10 +16,10 @@ ht-degree: 0%
 
 Så här ställer du in en Date-token som ska användas i program- och kampanjmappar.
 
-1. Dra en [!UICONTROL My Tokens] token till arbetsytan på fliken **[!UICONTROL Date]** [!UICONTROL Local Tokens] i programmet eller mappen.
+1. Dra en **[!UICONTROL Date]**-token till arbetsytan [!UICONTROL Local Tokens] på fliken [!UICONTROL My Tokens] i programmet eller mappen.
 
    ![Bild ett](/help/sky/assets/my-tokens/my-token-date/my-token-date-1.jpg)
 
-1. Ange ett namn för din datumtoken och välj ett datum i kalendern. Klicka **[!UICONTROL Save]**.
+1. Ange ett namn för din datumtoken och välj ett datum i kalendern. Klicka på **[!UICONTROL Save]**.
 
    ![Bild två](/help/sky/assets/my-tokens/my-token-date/my-token-date-2.jpg)
