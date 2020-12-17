@@ -25,17 +25,17 @@ När du skapar ett anpassat fält i Marketo finns det en lista med typer att vä
 
 >[!TIP]
 >
->Beroende på fälttyp kommer filter-/ [utlösaroperatorer](https://docs.marketo.com/display/public/DOCS/Smart+List+Filter+Operators+Glossary) att vara olika.
+>Beroende på fälttyp kommer filter/trigger [operatorer](https://docs.marketo.com/display/public/DOCS/Smart+List+Filter+Operators+Glossary) att vara olika.
 
 >[!NOTE]
 >
->De flesta fält får inte innehålla maximalt antal tecken, utan i stället en mängd byte. Därför kan vi inte ange en definitiv teckengräns för varje fält. Undantaget är **String**, som är högst 255 tecken långt.
+>De flesta fält får inte innehålla maximalt antal tecken, utan i stället en mängd byte. Därför kan vi inte ange en definitiv teckengräns för varje fält. Undantaget är **String**, som är högst vid 255 tecken.
 
 ## Boolean {#boolean}
 
-**Exempelnamn:** Är kund - tagga dina medarbetare som kunder
+**Exempelnamn:** Är kund - tagga dina personer som kunder
 
-**Exempelvärden:** True (checked) / False (unchecked)
+**Exempelvärden:** Sant (markerat) / Falskt (omarkerat)
 
 **Operatorer**: Ingen
 
@@ -55,7 +55,7 @@ När du skapar ett anpassat fält i Marketo finns det en lista med typer att vä
 
 **Operatorer**: är, inte, mellan, tidigare, tidigare, tidigare, i framtiden, efter, i tidsramen, efter, före, på eller efter, är tom, är inte tom
 
-## Datetime {#datetime}
+## Datum/tid {#datetime}
 
 **Exempelnamn:** Skapad - Lagra datum och tid då en person skapades
 
@@ -73,15 +73,15 @@ När du skapar ett anpassat fält i Marketo finns det en lista med typer att vä
 
 ## Float {#float}
 
-**Exempelnamn:** Grad - Behåll en persons medelvärde för poäng eller något annat numeriskt värde med decimaler
+**Exempelnamn:** Grad-punktsmedel - Behåll en persons medelpoäng eller något annat numeriskt värde med decimaler
 
-**Exempelvärden:** 2,47
+**Exempelvärden:** 2.47
 
 **Operatorer**: mellan, större än, mindre än, åtminstone, är tom, är inte tom
 
 ## Formel {#formula}
 
-**Exempelnamn:** Hälsningar - använd det här speciella fältet i en [lösning för att få rätt hälsning](create-and-use-a-concatenated-string-formula-field.md) baserat på kön
+**Exempelnamn:** Hälsningar - använd det här specialfältet i en  [lösning för att få rätt ](create-and-use-a-concatenated-string-formula-field.md) lösning baserat på kön
 
 **Exempelvärden:** kontrollera den länkade lösningen
 
@@ -103,7 +103,7 @@ När du skapar ett anpassat fält i Marketo finns det en lista med typer att vä
 
 ## Telefon {#phone}
 
-**Exempelnamn:** Alternativ telefon - lagra ytterligare ett telefonnummer åt dina medarbetare
+**Exempelnamn:** Alternativ telefon - lagra ytterligare ett telefonnummer för dina personer
 
 **Exempelvärde:** 650-555-5555
 
@@ -121,7 +121,7 @@ När du skapar ett anpassat fält i Marketo finns det en lista med typer att vä
 
 **Exempelnamn:** Mellannamn - lagra ytterligare ett textattribut
 
-**Exempelvärde:** ros
+**exempelvärde:** ros
 
 **Operatorer**: is, is not, startar med, inte börjar med, innehåller, inte innehåller, är tom, är inte tom
 
@@ -135,7 +135,7 @@ När du skapar ett anpassat fält i Marketo finns det en lista med typer att vä
 
 ## URL {#url}
 
-**Exempelnamn:** Blogg - skapa ett fält för lagring av personblogg-URL:er
+**Exempelnamn:** Blogg - skapa ett fält för lagring av personbloggar-URL:er
 
 **Exempelvärde:** www.myblog.com
 
