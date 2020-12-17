@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Skapa uppgift i Microsoft {#create-task-in-microsoft}
+# Skapa aktivitet i Microsoft {#create-task-in-microsoft}
 
 Som marknadsförare har ni information som kan hjälpa försäljningen att sluta avtal. Du kan skapa uppgifter för att tala om för dem vad de ska göra och när de ska göra det.
 
@@ -19,7 +19,7 @@ Skapa uppgift i Microsoft skapar en uppgift under Aktiviteter som är relaterade
 
 >[!NOTE]
 >
->Det här flödessteget fungerar **bara när det används med utlösare**, inte filter, i din smarta kampanj.
+>Det här flödessteget **fungerar bara när det används med utlösare**, inte filter, i den smarta kampanjen.
 
 Som standard ser flödessteget ut så här:   ![](assets/msd1.png)
 
@@ -35,5 +35,5 @@ Anpassa alla fält för att skapa uppgiften som du vill.   ![](assets/msd2.png)
 
 >[!TIP]
 >
->Du kan använda `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` och `{{system.tokens}}` i **Ämne** och **Beskrivning**. Mer information finns i [Token for Flow Steps](http://docs.marketo.com/x/c4AR) .
+>Du kan använda `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` och `{{system.tokens}}` i **Subject** och **Beskrivning**. Mer information finns i [Tokens for Flow Steps](http://docs.marketo.com/x/c4AR).
 
