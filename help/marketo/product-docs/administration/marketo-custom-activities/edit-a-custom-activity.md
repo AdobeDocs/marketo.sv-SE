@@ -19,7 +19,7 @@ Behöver du ändra en anpassad aktivitet som du redan har skapat? Så här gör 
 
    ![](assets/one-1.png)
 
-1. Klicka på **Anpassade aktiviteter** i **Databashantering**.
+1. I **Databashantering** klickar du på **Anpassade aktiviteter**.
 
    ![](assets/two-1.png)
 
