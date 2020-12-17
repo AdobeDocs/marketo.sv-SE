@@ -37,5 +37,5 @@ Om du någonsin behöver ta bort en ström från engagemangsprogrammet följer d
 
    >[!NOTE]
    >
-   >Om det finns personer i strömmen blir du ombedd att [flytta](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) ut dem först.
+   >Om det finns personer i strömmen uppmanas du att [flytta](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) dem först.
 
