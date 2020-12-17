@@ -25,8 +25,8 @@ Det finns många sätt att öppna specifika personer. Några exempel visas nedan
 >
 >* I **databasen** kan du söka i Snabbsökning
 >* Valfri smart **lista** eller lista
->* **Fliken Medlemmar** i ett program
->* **Visa kampanjmedlemmar** i en smart kampanj
+>* **Medlemskap** i ett program
+>* **Visa kampanjmedlemskap** i en smart kampanj
 >* Vissa **rapporter**
 
 >
@@ -98,7 +98,7 @@ Många fält kan redigeras. Om du vill uppdatera en persons information skriver 
 >
 >**Djupdykning**
 >
->Vissa fält kan *inte* redigeras:
+>Vissa fält är *inte* redigerbara:
 >
 >* Företagsinformation
 >* Möjligheter för SFDC-kontakter
@@ -107,7 +107,7 @@ Många fält kan redigeras. Om du vill uppdatera en persons information skriver 
 
 >
 >
-Läs mer om [systemhanterade fält](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md).
+Läs mer om [Systemhanterade fält](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md).
 
 >[!MORELIKETHIS]
 >
