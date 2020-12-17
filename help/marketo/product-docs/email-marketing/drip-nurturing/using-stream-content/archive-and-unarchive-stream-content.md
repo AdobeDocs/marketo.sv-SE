@@ -21,11 +21,11 @@ Om du inte längre vill använda innehåll i en ström kan du antingen [ta bort]
 
 ## Arkivera ströminnehåll {#archive-stream-content}
 
-1. Välj engagemangsprogram och gå till fliken **Streams** .
+1. Välj ditt engagemangsprogram och gå till fliken **Streams**.
 
    ![](assets/cloneasteam-4.jpg)
 
-1. Håll muspekaren över e-postmeddelandet som du vill arkivera och klicka sedan på **Arkiv** under kugghjulsikonen.
+1. Håll muspekaren över e-postmeddelandet som du vill arkivera och klicka sedan under kugghjulsikonen på **Arkiv**.
 
    ![](assets/image2014-9-15-17-3a42-3a7.png)
 
@@ -41,7 +41,7 @@ Om du inte längre vill använda innehåll i en ström kan du antingen [ta bort]
 
    ![](assets/image2014-9-15-17-3a42-3a15.png)
 
-1. Nu när du kan se det arkiverade innehållet klickar du på kugghjulsikonen för det innehåll du vill avarkivera och sedan på **Arkivera**.
+1. Nu när du kan se det arkiverade innehållet klickar du på kugghjulsikonen för det innehåll du vill avarkivera och sedan på **Avarkivera**.
 
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 
