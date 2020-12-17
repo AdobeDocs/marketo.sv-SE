@@ -16,7 +16,7 @@ ht-degree: 0%
 Ibland är det bäst att bara lista reglerna. Här är vi:
 
 * När du sammanfogar två leads i **Salesforce** anger den normala synkroniseringen Marketo och leads sammanfogas automatiskt som personer i Marketo.
-* Att sammanfoga två personer i **Marketo** anropar faktiskt samma process som att sammanfoga dem som leads i Salesforce. Det fungerar fortfarande automatiskt.
+* När du sammanfogar två personer i **Marketo** anropas i själva verket samma process som när de sammanfogas som leads i Salesforce. Det fungerar fortfarande automatiskt.
 * Att sammanfoga ett **lead (person) till en kontakt** fungerar på samma sätt. Du får en enda kontakt på båda sidor.
 * Standardpoängen sammanfogas vid sammanslagningen.
 
@@ -34,5 +34,5 @@ Ibland är det bäst att bara lista reglerna. Här är vi:
 >
 >**Djupdykning**
 >
->Djupdykning om du vill ha mer information om hur du [sammanfogar personer i Marketo](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
+>Djupdykning om du vill ha mer information om [att sammanfoga personer i Marketo](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
 
