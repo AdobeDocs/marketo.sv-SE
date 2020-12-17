@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # CRM-synkronisering {#crm-sync}
 
-** ![SFDC](assets/sfdc.png)SyncSFDC Sync** [SFDC Sync Världens coolaste Salesforce Sync. Allvarligt, det är grymt.](https://docs.marketo.com/display/DOCS/Salesforce+Sync)     ** ![Microsoft Dynamic](assets/dynamics.png)SyncMicrosoft Dynamic Sync** [Microsoft Dynamic Sync visar några nya kul trick med CRM.](https://docs.marketo.com/display/DOCS/Microsoft+Dynamics+Sync)
+** ![SFDC Sync](assets/sfdc.png)SFDC Sync** [SFDC Sync Världens coolaste Salesforce Sync. Allvarligt, det är grymt.](https://docs.marketo.com/display/DOCS/Salesforce+Sync)     **  ![Microsoft Dynamic ](assets/dynamics.png)SyncMicrosoft Dynamic Sync**  [Microsoft Dynamic Sync visar några nya kul trick med CRM.](https://docs.marketo.com/display/DOCS/Microsoft+Dynamics+Sync)
