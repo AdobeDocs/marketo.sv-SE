@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Versionsinformation: Hösten 17 {#release-notes-fall}
+# Versionsinformation: Hög &#39;17 {#release-notes-fall}
 
 Följande funktioner finns i höstutgåvan 17. Se om din Marketo-utgåva har funktioner tillgängliga.
 
@@ -25,7 +25,7 @@ Vi har gjort ytterligare förbättringar av kärninfrastrukturen på Marketo, bl
 
 Dra nytta av en djupare och snabbare synkronisering mellan Marketo och Salesforce. Dataändringar som kräver satsvis uppdatering av konton eller leads kan delas upp i parallella köer för att undvika eftersläpningar. Händelser och uppgifter synkroniseras nu också upp till 50 % snabbare.
 
-## Prestandaförbättringar för analyser {#analytics-performance-improvements}
+## Prestandaförbättringar för analys {#analytics-performance-improvements}
 
 De senaste infrastrukturförbättringarna erbjuder ökad drifttid och stabilitet i Marketos rapporterings- och analysverktyg, vilket gör att ni kan skapa ad hoc-rapporter snabbare.
 
@@ -60,19 +60,19 @@ Vi har släppt två funktioner som en del av vår nya integrering med Slack:
 
 Marketo ABM synkroniserar nu och visar CRM-konton utan kontakter. Inkludera nya konton utan tidigare sälj- eller marknadsföringshistorik och följ upp framstegen genom att matcha efterföljande leads med kontona.
 
-## `<sup>AI </sup>`ContentAnalytics {#contentai-analytics}
+## Innehåll`<sup>AI </sup>`Analys {#contentai-analytics}
 
-** [Nytt ABM-kontolistfilter](https://docs.marketo.com/x/1BPG) **
+** [Nytt filter för kontolista för ABM](https://docs.marketo.com/x/1BPG) **
 
-Visa och jämför innehållsprestanda i kontolistor för ABM för att optimera befintligt innehåll. Innehåll`<sup>AI</sup>` visar:
+Visa och jämför innehållsprestanda i kontolistor för ABM för att optimera befintligt innehåll. Innehåll`<sup>AI</sup>` visar dig:
 
 * populärt innehåll visat
 * toppkonverterat innehåll
 * AI-baserat föreslaget innehåll för marknadsföringsaktiviteter
 
-## Förbättringar av webbpersonalisering {#web-personalization-enhancements}
+## Förbättringar av webbanpassning {#web-personalization-enhancements}
 
-** [Tokens för webbkampanjer](https://docs.marketo.com/x/SwJI)**
+** [Tokens for Web Campaigns](https://docs.marketo.com/x/SwJI)**
 
 Tokens finns nu tillgängliga för användning inom webbkampanjer. Använd variabler för att leverera personaliserade meddelanden och innehåll för att öka engagemanget i era webbkampanjer.
 
@@ -84,9 +84,9 @@ Spara tid genom att återanvända kreativa resurser och bilder i flera kanaler i
 
 ![](assets/image2017-11-16-11-3a26-3a10.png)
 
-## Integrering  {#integration}
+## Integrering {#integration}
 
-** API för [förhandsgranskning av e-post](https://developers.marketo.com/rest-api/assets/emails/)**
+** [API för e-postförhandsgranskning](https://developers.marketo.com/rest-api/assets/emails/)**
 
 Nu kan du fjärrförhandsgranska e-post utanför Marketo, vilket förenklar processen för lokalisering av e-postinnehåll och minskar antalet fel.
 
