@@ -41,7 +41,7 @@ Marketo hanterar registrering och närvaro i webbinariet WebEx.
 
    ![](assets/webex-new-service.png)
 
-1. Ange ett **visningsnamn**. Välj **WebEx under** Service ****.
+1. Ange ett **visningsnamn**. Under **Service** väljer du **WebEx**.
 
    ![](assets/new-service-webex.png)
 
@@ -53,7 +53,7 @@ Marketo hanterar registrering och närvaro i webbinariet WebEx.
 
    ![](assets/image2015-4-24-18-3a58-3a43.png)
 
-1. Fenomenal! Din **WebEx** har synkroniserats med Marketo.
+1. Fenomenal! Din **WebEx** har nu synkroniserats med Marketo.
 
    ![](assets/webex.png)
 
