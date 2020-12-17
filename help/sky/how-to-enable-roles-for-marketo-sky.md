@@ -14,13 +14,13 @@ ht-degree: 0%
 
 <br> 
 
-[!DNL Marketo] Administratörer kan aktivera roller för [!DNL Sky] i [!UICONTROL Admin] området i [!DNL Marketo Classic].
+[!DNL Marketo] Administratörer kan aktivera roller för  [!DNL Sky] i  [!UICONTROL Admin] området i  [!DNL Marketo Classic].
 
-1. Klicka [!DNL Marketo Classic]i **[!UICONTROL Admin]**.
+1. Klicka på **[!UICONTROL Admin]** i [!DNL Marketo Classic].
 
    ![Bild ett](/help/sky/assets/home/how-to-enable-roles-for-marketo-sky/how-to-enable-roles-for-marketo-sky-1.png)
 
-1. Markera i trädet **[!UICONTROL Marketo Sky]**.
+1. Välj **[!UICONTROL Marketo Sky]** i trädet.
 
    ![Bild två](/help/sky/assets/home/how-to-enable-roles-for-marketo-sky/how-to-enable-roles-for-marketo-sky-2.png)
 
@@ -28,6 +28,6 @@ ht-degree: 0%
 
    ![Bild tre](/help/sky/assets/home/how-to-enable-roles-for-marketo-sky/how-to-enable-roles-for-marketo-sky-3.png)
 
-1. De valda rollerna kan nu komma åt [!DNL Marketo Sky] via panelen i sina **[!UICONTROL My Marketo]**.
+1. De valda rollerna kan nu komma åt [!DNL Marketo Sky] via rutan i **[!UICONTROL My Marketo]**.
 
    ![Bild fyra](/help/sky/assets/home/how-to-enable-roles-for-marketo-sky/how-to-enable-roles-for-marketo-sky-4.png)
