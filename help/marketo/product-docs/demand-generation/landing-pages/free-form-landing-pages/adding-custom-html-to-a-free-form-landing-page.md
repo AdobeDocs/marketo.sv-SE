@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Lägga till anpassad HTML till en landningssida med valfri form {#adding-custom-html-to-a-free-form-landing-page}
+# Lägga till anpassad HTML till en startsida med valfri form {#adding-custom-html-to-a-free-form-landing-page}
 
 Du kan lägga till egna skript, CSS eller annan HTML-kod på landningssidor.
 
@@ -23,7 +23,7 @@ Du kan lägga till egna skript, CSS eller annan HTML-kod på landningssidor.
 
    ![](assets/image2014-9-17-12-3a2-3a15.png)
 
-1. Dra i **HTML** -elementet i landningssidans redigerare.
+1. Dra i elementet **HTML** i landningssidans redigerare.
 
    ![](assets/image2015-5-21-15-3a52-3a42.png)
 
