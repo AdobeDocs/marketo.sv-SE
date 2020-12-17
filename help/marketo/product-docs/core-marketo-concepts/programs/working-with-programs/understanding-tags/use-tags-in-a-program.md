@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Taggar är attribut som beskriver dina program och används för att gruppera programtyper vid rapportering.
 
-## Använda en tagg i ett program {#use-a-tag-in-a-program}
+## Använd en tagg i ett program {#use-a-tag-in-a-program}
 
-1. Välj program. Klicka på **Konfigurera**.
+1. Välj program. Klicka på **Inställningar**.
 
    ![](assets/image2014-9-23-15-3a45-3a0.png)
 
@@ -39,7 +39,7 @@ Taggar är attribut som beskriver dina program och används för att gruppera pr
 
 ## Redigera en tagg {#edit-a-tag}
 
-1. Gå till fliken **Inställningar** . Högerklicka på taggen. Välj **Redigera**.
+1. Gå till fliken **Inställningar**. Högerklicka på taggen. Välj **Redigera**.
 
    ![](assets/image2014-9-23-15-3a45-3a53.png)
 
@@ -55,9 +55,9 @@ Taggar är attribut som beskriver dina program och används för att gruppera pr
 
    ![](assets/image2014-9-23-15-3a46-3a35.png)
 
-## Ta bort en tagg  {#delete-a-tag}
+## Ta bort en tagg {#delete-a-tag}
 
-1. Gå till fliken **Inställningar** . Högerklicka på taggen och välj **Ta bort**.
+1. Gå till fliken **Inställningar**. Högerklicka på taggen och välj **Ta bort**.
 
    ![](assets/image2014-9-23-15-3a46-3a55.png)
 
