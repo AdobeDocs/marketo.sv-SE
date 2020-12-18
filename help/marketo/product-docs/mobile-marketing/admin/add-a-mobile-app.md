@@ -35,7 +35,7 @@ Program startar normalt i en sandlådemiljö, där inledande utveckling och test
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
-1. Ange ett namn. I listrutan **Typ** väljer du vilken typ av miljö du använder: sandlåda eller produktion. Klicka på **Spara**.
+1. Ange ett namn. I listrutan **Typ** väljer du den typ av miljö som du använder - Sandbox eller Production. Klicka på **Spara**.
 
    ![](assets/image2015-11-18-15-3a52-3a15.png)
 
