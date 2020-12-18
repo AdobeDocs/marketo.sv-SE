@@ -17,18 +17,18 @@ ht-degree: 0%
 
    ![](assets/image2016-8-18-16-3a15-3a14.png)
 
-1. På sidan **Webbkampanjer** klickar du på **Redigera **för den kampanj du vill redigera.
+1. Klicka på **Redigera **på den kampanj du vill redigera på sidan **Webbkampanjer**.
 
    ![](assets/web-campaigns-1-edit-hand.png)
 
    >[!NOTE]
    >
-   >Använd [filterfunktionen](filter-web-campaigns.md)för att göra det enklare att hitta den webbkampanj du vill ha.
+   >Använd filterfunktionen [](filter-web-campaigns.md) för att göra det enklare att hitta den webbkampanj du vill ha.
 
 >[!MORELIKETHIS]
 >
 >* [Ta bort en webbkampanj](delete-a-web-campaign.md)
->* [Starta/pausa en](launch-pause-a-web-campaign.md) [kampanj](launch-pause-a-web-campaign.md)
+>* [Starta/pausa ](launch-pause-a-web-campaign.md) [kampanj](launch-pause-a-web-campaign.md)
 
 >
 
