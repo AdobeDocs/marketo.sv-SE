@@ -17,7 +17,7 @@ Många gånger har säljarna inte administratörsbehörighet på sina bärbara d
 
 >[!PREREQUISITES]
 >
->Administratören måste ha [utfärdat en Marketo E-post-tilläggslicens](issue-a-marketo-email-add-in-license.md).
+>Administratören måste ha [utfärdat en Marketo-e-posttilläggslicens](issue-a-marketo-email-add-in-license.md).
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Många gånger har säljarna inte administratörsbehörighet på sina bärbara d
 
    ![](assets/image2016-7-25-14-3a22-3a12.png)
 
-1. Klicka på fliken **E-posttillägg** .
+1. Klicka på fliken **E-posttillägg**.
 
    ![](assets/image2016-7-25-14-3a23-3a57.png)
 
@@ -35,11 +35,11 @@ Många gånger har säljarna inte administratörsbehörighet på sina bärbara d
 
    ![](assets/image2016-7-25-14-3a35-3a38.png)
 
-1. Kopiera licensnyckeln för Outlook Enterprise och klistra in den i ett e-postmeddelande tillsammans med [den här länken](marketo-outlook-plugin-installation-by-it.md)och skicka den till din IT-avdelning för fjärrinstallation.
+1. Kopiera licensnyckeln för Outlook Enterprise och klistra in den i ett e-postmeddelande tillsammans med [den här länken](marketo-outlook-plugin-installation-by-it.md) och skicka den till din IT-avdelning för fjärrinstallation.
 
    ![](assets/image2016-7-25-14-3a39-3a9.png)
 
-   Det är allt! Sedan går säljaren igenom [registreringsprocessen](authorize-the-marketo-outlook-plugin.md). Du kan skicka en länk till instruktionerna till dem (se **Marketo-relaterade artiklar**).
+   Det är allt! Sedan går säljaren igenom registreringsprocessen [](authorize-the-marketo-outlook-plugin.md). Du kan skicka en länk till instruktionerna till dem (se **Marketo Related Articles**).
 
    >[!NOTE]
    >
