@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Redigera en segmentering {#edit-a-segmentation}
+# Redigera ett segment {#edit-a-segmentation}
 
 Det är enkelt att ändra befintliga segment. Här är det låga ner.
 
@@ -31,7 +31,7 @@ Det är enkelt att ändra befintliga segment. Här är det låga ner.
 
 ## Lägg till, redigera eller ta bort segment {#add-edit-or-delete-segments}
 
-1. I segmenteringen klickar du på **Segmenteringsåtgärder** och sedan på **Redigera segment**.
+1. Klicka på **Segmenteringsåtgärder** i segmenteringen och **Redigera segment**.
 
    ![](assets/four.png)
 
@@ -53,7 +53,7 @@ Det är enkelt att ändra befintliga segment. Här är det låga ner.
 
 ## Redigera segmentregler {#edit-segment-rules}
 
-1. Gå till **Smart** lista **i utkastsegmentet**. Använd regler som liknar [Definiera segmentregler](http://docs.marketo.com/display/public/DOCS/Define+Segment+Rules).
+1. Gå till **Smart lista** i utkastet **Segment**. Använd regler som liknar [Definiera segmentregler](http://docs.marketo.com/display/public/DOCS/Define+Segment+Rules).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
