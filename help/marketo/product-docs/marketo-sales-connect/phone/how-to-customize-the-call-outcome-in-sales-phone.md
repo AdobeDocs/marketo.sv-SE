@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Anpassa samtalsutdata i telefonförsäljning {#how-to-customize-the-call-outcome-in-sales-phone}
+# Anpassa samtalsresultatet på telefonen {#how-to-customize-the-call-outcome-in-sales-phone}
 
 1. Gå till inställningssidan i Salesforce.
-1. Klicka på **Anpassa**, **Aktiviteter** och välj **Aktivitetsfält**.
-1. Klicka i fältet **Ämne** .
+1. Klicka på **Anpassa**, **Aktiviteter** och välj **Åtgärdsfält**.
+1. Klicka i fältet **Ämne**.
 1. Här kan du lägga till/ta bort/ordna om alla alternativ.
 1. Den här anpassade listan visas sedan i Sales Connect när du slutför ett samtal.
 
