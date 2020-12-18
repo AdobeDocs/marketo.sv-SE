@@ -11,35 +11,35 @@ ht-degree: 0%
 ---
 
 
-# Personaliserad marknadsföring i Google {#personalized-remarketing-in-google}
+# Anpassad marknadsföring i Google {#personalized-remarketing-in-google}
 
 Med personligt anpassad marknadsföring kan ni återengagera era användare med hjälp av RTP-data och Google Analytics med Google Display Network.
 
 >[!PREREQUISITES]
 >
->* Slutför konfigurationen av [återmarknadsföring med webbpersonaliseringsdata](retargeting-with-web-personalization-data.md)
->* Granska [kommentarsinformation med hjälpdokumentationen](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645) för Google Analytics
+>* Slutför konfigurationen [Återmarknadsföring med webbpersonaliseringsdata](retargeting-with-web-personalization-data.md)
+>* Granska [Marknadsföring med Google Analytics Help](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645)-dokumentation
 
 >
 
 
 
-## Creating a Remarketing Audience in Google {#creating-a-remarketing-audience-in-google}
+## Skapa en marknadsföringsmålgrupp i Google {#creating-a-remarketing-audience-in-google}
 
 1. Logga in på Google Analytics. Klicka på **Admin**, **Konto**, **Egenskap**. Klicka på **Målgruppsdefinitioner** och **Målgrupper**.
 
    ![](assets/remarketing-ga-screenshots.jpg)
 
-1. Klicka **+Ny publik**.
+1. Klicka på **+Ny publik**.
 
    ![](assets/image2015-1-15-17-3a26-3a40.png)
 
 1. **Länkkonfiguration**: Länka till ditt Google Adwords-konto
-1. **Definiera målgrupp**: Klicka på **Skapa nytt**.
+1. **Definiera målgrupp**: Klicka på  **Skapa nytt**.
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. I Audience Builder klickar du på **Sequences** och **letar upp RTP-data** under Custom Dimensions, Custom Variables, Events.
+1. I Audience Builder klickar du på **Sequences** och **Find the RTP Data** under Custom Dimensions, Custom Variables, Events.
 
 >[!TIP]
 >
@@ -67,7 +67,7 @@ I Google Universal Analytics:
 
 1. Klicka på **Sekvenser.**
 1. Välj **Händelseetikett.**
-1. Ange **namnet på segmenterad publik** (så som det visas i RTP).
+1. Ange **Namn på segmenterad publik** (så som det visas i RTP).
 1. Klicka på **Använd**.
 
 ![](assets/image2015-2-10-14-3a51-3a43.png)
@@ -78,7 +78,7 @@ I Google Universal Analytics:
 
 1. Klicka på **Sekvenser**.
 1. Välj** RTP-Industry**.
-1. Ange **namnet på branschen** (t.ex. Finansiella tjänster, utbildning..).
+1. Ange **Namn på bransch** (t.ex. Finansiella tjänster, utbildning..).
 1. Klicka på **Använd**.
 1. Ange ett **målgruppsnamn**. Klicka på **Spara**.
 
@@ -86,15 +86,15 @@ I Google Universal Analytics:
 
 ## Skapa en reklamkampanj för återmarknadsföring i Google Adwords {#create-a-remarketing-ad-campaign-in-google-adwords}
 
-1. Logga in på **Google Adwords**. Klicka på **Kampanjer** och välj **Visa endast** nätverk.
+1. Logga in på **Google Adwords**. Klicka på **Kampanjer** och välj **Visa endast nätverk**.
 
    ![](assets/image2015-1-15-18-3a31-3a58.png)
 
-1. Ange **kampanjnamn**, välj **Typåtermarknadsföring.**
+1. Ange **kampanjnamn**, välj **Type Remarketing.**
 
    ![](assets/image2015-1-15-18-3a35-3a7.png)
 
-1. Ange **annonsgruppnamn,** ange **Förbättrad CPC** och välj **Marknadsföringslista**.
+1. Ange **Ad Group Name,** ange **Enhanced CPC**, Välj **Remarketing List**.
 
    ![](assets/image2015-1-15-18-3a51-3a57.png)
 
