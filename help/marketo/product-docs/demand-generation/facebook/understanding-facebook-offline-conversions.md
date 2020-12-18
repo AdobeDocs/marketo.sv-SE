@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Förstå offlinekonverteringar för Facebook {#understanding-facebook-offline-conversions}
+# Om offlinekonverteringar för Facebook {#understanding-facebook-offline-conversions}
 
 Leadannonskampanjer på Facebook genererar leads och skickar dem till Marketo för användning i marknadsföringskampanjer. Utan synlighet i offlinekonverteringar kan annonsören på Facebook inte veta vilka annonser som är mest effektiva. Här är ett exempel.
 
@@ -40,9 +40,9 @@ Det innebär att annonsering 1, trots att den genererade färre leads, hade 50 p
 >
 >Utan offlinekonverteringar skulle annonsören förmodligen investera mer i annons 3. Med offlinekonverteringsdata är det troligare att annonsören investerar i annons 1.
 
-Du kan [konfigurera offlinekonverteringar](set-up-facebook-offline-conversions.md) för Facebook för att skicka offlineannonsprestanda till Facebook.
+Du kan [konfigurera offlinekonverteringar för Facebook](set-up-facebook-offline-conversions.md) för att skicka offlineannonsprestanda till Facebook.
 
-1. Se till att [startpunktsintegreringen](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) i Facebook är aktuell.
+1. Se till att din [LaunchPoint-integrering på Facebook](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) är aktuell.
 1. Mappa faser i intäktscykelmodellen till offlinekonverteringsfaser på Facebook.
 1. När en Facebook-lead genereras från en Facebook-annons och når en mappad scen skickar Marketo tillbaka konverteringsdata till Facebook flera gånger dagligen via ett säkert, automatiserat API. Informationen visas i Facebook Ads Manager-rapporten.
 
