@@ -21,7 +21,7 @@ Du kan redigera de här kolumnerna direkt på fliken Prenumerationer, som visas 
 * Slutleverans
 * Format
 
-1. Välj **databas** (vi använder den i det här exemplet, men marknadsföringsaktiviteterna fungerar på exakt samma sätt).
+1. Välj **Databas** (vi använder den i det här exemplet, men marknadsföringsaktiviteterna fungerar på exakt samma sätt).
 
    ![](assets/db-1.png)
 
@@ -49,7 +49,7 @@ Du kan redigera de här kolumnerna direkt på fliken Prenumerationer, som visas 
 
    ![](assets/image2015-9-14-11-3a6-3a38.png)
 
-1. Sista pusselbiten är formatet. Klicka på kolumnen **Format** och markera den du vill använda. CSV är standard.
+1. Sista pusselbiten är formatet. Klicka på kolumnen **Format** och välj den du vill använda. CSV är standard.
 
    ![](assets/image2015-9-14-11-3a11-3a41.png)
 
