@@ -29,7 +29,7 @@ Hur många nya namn genererade varje program/kanal per månad?
 
 ![](assets/three-2.png)
 
-## Dimensioner och åtgärder för programmedlemskapsanalys {#program-membership-analysis-dimensions-and-measures}
+## Dimensioner och åtgärder för analys av programmedlemskap {#program-membership-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
@@ -60,7 +60,7 @@ Hur många nya namn genererade varje program/kanal per månad?
 | Vecka | Tidsram för programmedlemskap |
 | Datum | Tidsram för programmedlemskap |
 
-### Lyckades {#success}
+### {#success} lyckades
 
 | Mät | Beskrivning |
 |---|---|
