@@ -31,15 +31,15 @@ Följ installationsanvisningarna nedan för att skapa och konfigurera RTP-taggen
 
    >[!NOTE]
    >
-   >Kopiera JavaScript-taggen RTP och klistra in den som det första skriptet i sidhuvudet mellan `<head> </head>` -taggarna.
+   >Kopiera RTP JavaScript-taggen och klistra in den som det första skriptet i sidhuvudet - mellan `<head> </head>`-taggarna.
 
    Kontrollera att taggen visas på alla sidor, inklusive landningssidor och underdomäner. Kontrollera detta genom att högerklicka på webbplatsens sida. Gå till Visa sidkälla i en webbläsare. Sök: &quot;RTP&quot;.
 
-1. Taggväxlingen är inställd på **PÅ**.
+1. Taggväxlingen är inställd på **ON**.
 
    Bekräfta att växlingsknappen Tagg är inställd på ON. Du bör börja se dataflödet på fliken Organisationen.
 
-   Du är nu klar med RTP-taggen och redo att börja [skapa segment](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) och realtidskampanjer!
+   Du är nu konfigurerad med RTP-taggen och redo att börja [skapa segment](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) och realtidskampanjer!
 
 1. Kontrollera att taggen finns på alla sidor.
 
