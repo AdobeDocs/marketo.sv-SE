@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Efterlevnad av Sales Connect och GDPR {#sales-connect-and-gdpr-compliance}
+# Efterlevnad av Säljanslutning och GDPR {#sales-connect-and-gdpr-compliance}
 
 Den allmänna dataskyddsförordningen (GDPR) är EU-lagstiftning som trädde i kraft den 25 maj 2018.
 
@@ -166,7 +166,7 @@ Du kan exportera kontaktinformation från persondetaljvyn. Vid export hämtas en
 >
 >Detta kan bara göras en kontakt i taget. Det finns för närvarande ingen funktion som tillåter bulkexport av kontakter.
 
-Om du vill exportera kontaktinformation klickar du på de tre lodräta prickarna i sidhuvudet i persondetaljvyn och väljer **Exportera**. .CSV-filen hämtas automatiskt.   ![](assets/thirteen.png)
+Om du vill exportera kontaktinformation klickar du på de tre lodräta prickarna i huvudet i persondetaljvyn och väljer **Exportera**. .CSV-filen hämtas automatiskt.   ![](assets/thirteen.png)
 
 >[!NOTE]
 >
@@ -176,10 +176,10 @@ Om du vill exportera kontaktinformation klickar du på de tre lodräta prickarna
 
 Ett vanligt missförstått område i GDPR är kontakter som avslutar prenumerationen på organisationens databas. För att följa nya regler om skydd av data för dem som väljer att säga upp prenumerationen har följande funktioner inkluderats i Marketo Sales Connect:
 
-**Avbeställ länkar:** Länkar för att avbryta prenumerationen läggs automatiskt till i alla e-postmeddelanden som skickas från webbprogrammet Sales Connect för att säkerställa att kontakterna kan avanmäla sig.\
-**Avbeställ synkronisering:** Användare kan synkronisera avanmälan till och från sina CRM (Salesforce) för att säkerställa att avanmälningarna är aktuella.\
-**Avbeställningshistorik:** Användare kan se tidigare avanmälan och avanmälan i persondetaljvyn.\
-**Avbeställ borttagning:** Om du väljer att avbryta prenumerationen i måste användaren ha administratörsbehörighet och visa att kontakten har gett nytt medgivande för att kunna kontakta dem.
+**Avbeställ länkar:** Avbeställ länkar läggs automatiskt till i alla e-postmeddelanden som skickas från webbprogrammet Sales Connect för att säkerställa att kontakterna kan avanmäla sig.\
+**Avbeställ synkronisering:** Användare kan synkronisera avbeställningar till och från sin CRM (Salesforce) för att säkerställa att avbeställningarna är aktuella.\
+**Avbryta prenumerationshistorik:** Användare kan se historiska avanmälningar och avanmälningar i persondetaljvyn.\
+**Avbeställ borttagning av prenumeration:Om du** väljer att avbryta prenumerationen måste användaren ha administratörsbehörighet och bekräfta att kontakten har gett nytt samtycke för att kontakta dem.
 
 ## Framtida uppdateringar {#future-updates}
 
