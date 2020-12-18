@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Starta/pausa en webbkampanj {#launch-pause-a-web-campaign}
 
-En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment och kan vara en [dialogruta](create-a-new-dialog-web-campaign.md) på din webbplats, en [in-zon-ersättning](create-a-new-in-zone-web-campaign.md), en widget-funktion eller en e-postavisering.
+En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment och kan vara en [dialogruta](create-a-new-dialog-web-campaign.md) på din webbplats, en [zonersättning](create-a-new-in-zone-web-campaign.md), en widgetfunktion eller en e-postavisering.
 
 Du kan starta eller pausa en webbkampanj på två sätt från sidan Webbkampanjer eller sidan Ange webbkampanjer.
 
