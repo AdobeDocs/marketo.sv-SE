@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Plugin-programmet Sales Connect för Gmail körs via ett webbläsartillägg. Du måste ta bort den för att kunna ta bort Sales Connect i Gmail.
 
-1. I **Chrome** klickar du på de tre linjerna i det övre högra hörnet av webbläsarfönstret.
+1. I **Chrome** klickar du på de tre raderna i det övre högra hörnet av webbläsarfönstret.
 1. Klicka på **Fler verktyg**.
 1. Klicka på **Tillägg**.
 1. Klicka på papperskorgsikonen bredvid **ToutApp för Chrome**.
