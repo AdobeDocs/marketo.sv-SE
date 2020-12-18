@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Beroende på inköpsdatumet kan din Marketo-prenumeration innehålla antingen Marketo Predictive Content eller Content`<sup>AI</sup>`. För dem som använder Predictive Content aktiverar Marketo Content`<sup>AI</sup>` Analytics-funktioner fram till 30 april 2018. Kontakta Marketo Customer Success Manager för att uppgradera till Marketo Content`<sup>AI</sup>`om du vill behålla funktionerna efter detta datum.
+>Beroende på inköpsdatumet kan din Marketo-prenumeration innehålla antingen Marketo Predictive Content eller Content`<sup>AI</sup>`. För dem som använder Predictive Content aktiverar Marketo Content`<sup>AI</sup>` Analytics-funktioner fram till 30 april 2018. Kontakta Marketo Customer Success Manager för att uppgradera till Marketo Content`<sup>AI</sup>` om du vill behålla funktionerna efter detta datum.
 
 Funktionen för innehållsidentifiering identifierar och taggar automatiskt befintligt innehåll (inklusive fallstudier, blogginlägg, videor, pressmeddelanden etc.) från din webbplats och håller reda på antalet vyer av det här materialet.  Prediktivt innehåll använder det identifierade innehållet och använder prediktiv analys för att avgöra vilket innehåll som är ditt högsta resultat och rekommenderar det bästa innehållet till rätt person.
 
@@ -23,7 +23,7 @@ Funktionen för innehållsidentifiering identifierar och taggar automatiskt befi
 
    ![](assets/settings-dropdown-hand.png)
 
-1. Aktivera Innehållsidentifiering **till** På.
+1. Aktivera innehållsidentifiering till **På**.
 
    ![](assets/content-discovery-on-hand.png)
 
