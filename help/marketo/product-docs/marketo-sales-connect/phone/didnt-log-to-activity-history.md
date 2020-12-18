@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Om du inte ser dina samtalsloggar i Salesforce kan det bero på att vi inte kan hitta någon lead/kontakt i Salesforce.
 
-För samtal som ska loggas till rätt lead/kontakt måste Sales Connect ha Salesforce-ID:t. Det bästa sättet att lägga till Salesforce-ID:t i Sales Connect är att använda funktionen [Skicka till Sales Connect](http://docs.marketo.com/x/XQDb) . När du använder Push to Sales Connect inkluderar vi Salesforce ID i kontaktmigreringen.
+För samtal som ska loggas till rätt lead/kontakt måste Sales Connect ha Salesforce-ID:t. Det bästa sättet att lägga till Salesforce-ID:t i Sales Connect är att använda funktionen [Skicka till Sales Connect](http://docs.marketo.com/x/XQDb). När du använder Push to Sales Connect inkluderar vi Salesforce ID i kontaktmigreringen.
