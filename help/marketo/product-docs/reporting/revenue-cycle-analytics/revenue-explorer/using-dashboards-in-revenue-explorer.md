@@ -21,7 +21,7 @@ En kontrollpanel är en kombination av rapporter från Intresseutforskaren för 
 
    ![](assets/one.png)
 
-1. Klicka på **Skapa ny** och sedan **Instrumentpanel**.
+1. Klicka på **Skapa ny** och **Kontrollpanel**.
 
    ![](assets/two.png)
 
@@ -31,9 +31,9 @@ En kontrollpanel är en kombination av rapporter från Intresseutforskaren för 
 
    >[!NOTE]
    >
-   >Du kan anpassa instrumentpanelens utseende ytterligare genom att klicka på **Teman** och välja en favorit.
+   >Du kan anpassa instrumentpanelens utseende ytterligare genom att klicka på **Teman** och välja din favorit.
 
-1. Klicka på ikonen **Infoga** i den första delen av kontrollpanelen och välj **Arkiv**.
+1. Klicka på ikonen **Infoga** i det första avsnittet på kontrollpanelen och välj **Arkiv**.
 
    ![](assets/four.png)
 
@@ -65,13 +65,13 @@ En kontrollpanel är en kombination av rapporter från Intresseutforskaren för 
 
    ![](assets/eleven.png)
 
-## Redigera en kontrollpanel {#editing-a-dashboard}
+## Redigera en instrumentpanel {#editing-a-dashboard}
 
 1. Klicka på **Intresseutforskaren**.
 
    ![](assets/one.png)
 
-1. Dubbelklicka på mappen **Intresseutforskaren** . Navigera till den plats där kontrollpanelen finns.
+1. Dubbelklicka på mappen **Intresseutforskaren**. Navigera till den plats där kontrollpanelen finns.
 
    ![](assets/thirteen.png)
 
@@ -85,7 +85,7 @@ En kontrollpanel är en kombination av rapporter från Intresseutforskaren för 
 
    ![](assets/one.png)
 
-1. Dubbelklicka på mappen **Intresseutforskaren** . Navigera till den plats där kontrollpanelen finns.
+1. Dubbelklicka på mappen **Intresseutforskaren**. Navigera till den plats där kontrollpanelen finns.
 
    ![](assets/thirteen.png)
 
