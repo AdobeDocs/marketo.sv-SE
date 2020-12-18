@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Skapa ett evenemang med Adobe Connect {#create-an-event-with-adobe-connect}
+# Skapa en händelse med Adobe Connect {#create-an-event-with-adobe-connect}
 
 Genom att synkronisera med Adobe Connect kan ni hantera registreringen av webbinarier och närvaron inifrån Marketo, vilket säkerställer att engagemanget inte spåras.
 
@@ -27,7 +27,7 @@ Kontrollera först att du har skapat ett möte eller seminarium i Adobe Connect.
 >
 >Vi **stöder för närvarande inte** Adobe Connect On-Site.
 
-1. Välj **Händelseåtgärder** i startdelen av en ny händelse och sedan **Händelseinställningar**.
+1. Välj **Händelseåtgärder** i startdelen av en ny händelse och **Händelseinställningar**.
 
    ![](assets/image2015-1-30-15-3a34-3a28.png)
 
@@ -39,7 +39,7 @@ Kontrollera först att du har skapat ett möte eller seminarium i Adobe Connect.
 
    ![](assets/event-settings-adobe-connect.png)
 
-1. Välj ditt **inloggnings** -ID och välj din **händelse**.
+1. Välj ditt **inloggnings-ID** och välj din **Event**.
 
    ![](assets/event-settings-select-event-adobe-connect.png)
 
@@ -57,7 +57,7 @@ Kontrollera först att du har skapat ett möte eller seminarium i Adobe Connect.
    >
    >Om du vill infoga personens unika URL-adress i ett e-postmeddelande använder du den här variabeln: `{{member.webinar url}}`. När e-postmeddelandet skickas löser denna token automatiskt personens unika bekräftelse-URL från Adobe Connect.
    >
-   >Ange bekräftelsemeddelandet till **Operational** för att säkerställa att personer som registrerar sig och kan avbeställa prenumerationen fortfarande får sin bekräftelseinformation.
+   >Ange din bekräftelse via e-post till **Operational** för att säkerställa att personer som registrerar sig och kan avbeställa prenumerationen fortfarande får sin bekräftelseinformation.
 
    ![](assets/adobe.png)
 
@@ -67,7 +67,7 @@ Kontrollera först att du har skapat ett möte eller seminarium i Adobe Connect.
 
    >[!TIP]
    >
-   >Det kan ta upp till 48 timmar innan data visas i Marketo. Om du fortfarande inte ser något efter att ha väntat så länge väljer du **Uppdatera från webbinariet Provider** på menyn Händelseåtgärder på fliken Sammanfattning för händelsen.
+   >Det kan ta upp till 48 timmar innan data visas i Marketo. Om du inte ser något efter att ha väntat så länge väljer du **Uppdatera från webbinariet Provider** på menyn Händelseåtgärder på fliken Sammanfattning för händelsen.
 
    >[!MORELIKETHIS]
    >
