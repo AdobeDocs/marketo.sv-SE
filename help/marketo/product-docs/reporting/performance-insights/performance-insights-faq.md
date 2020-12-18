@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Vanliga frågor om prestandainsikter {#performance-insights-faq}
+# Prestandainsikter - frågor och svar {#performance-insights-faq}
 
 ## Vad är definitionen av&quot;framgång&quot; på fliken Engagement? {#what-is-the-definition-of-success-in-the-engagement-tab}
 
@@ -41,7 +41,7 @@ Du kan styra visningen av dina program genom att ange Analytics-beteendet för d
 
 >[!NOTE]
 >
->Läs mer om hur du ställer in analysbeteende [här](http://docs.marketo.com/display/public/DOCS/Edit+Analytics+Behavior+Settings).
+>Läs mer om att ställa in analysbeteende [här](http://docs.marketo.com/display/public/DOCS/Edit+Analytics+Behavior+Settings).
 
 ## Jag har en flerkanalskampanj för att lansera en ny produkt. Hur kan jag se resultatet för den här kampanjen i alla olika kanaler på ett och samma ställe? {#i-am-running-a-multi-channel-campaign-for-a-new-product-launch-how-can-i-view-the-performance-for-this-campaign-across-all-the-different-channels-in-one-place}
 
@@ -59,11 +59,11 @@ Du kanske också saknar möjligheter på grund av att programkostnaden saknas i 
 
 1. Standard - Standardbeteendet är att programmet ENDAST inkluderas i MPI om det finns minst en periodkostnad, även en med noll dollar tilldelat.
 1. Inkluderande - Det här alternativet ser till att programmet är tillgängligt i MPI oavsett om du har inkluderat en periodkostnad eller inte.
-1. [Operativ](http://docs.marketo.com/display/DOCS/Best+Practice%3A+How+to+Organize+your+Programs#BestPractice:HowtoOrganizeyourPrograms-OperationalPrograms) - Det här alternativet gör att programmet inte visas i MPI.
+1. [Operativ](http://docs.marketo.com/display/DOCS/Best+Practice%3A+How+to+Organize+your+Programs#BestPractice:HowtoOrganizeyourPrograms-OperationalPrograms)  - Det här alternativet gör att programmet inte visas i MPI.
 
 >[!NOTE]
 >
->Periodkostnad **måste** ställas in för rapportering av lyckade och nya namn på instrumentpanelen för engagemang. På den här instrumentpanelen används periodkostnadsdata för att samla framgångar och nya namn. Om periodkostnad inte är inställt kommer instrumentpanelen för engagemang inte att rapportera korrekt oavsett inställningarna för analysbeteendet ovan.
+>Periodkostnaden **har** ställts in för rapportering av lyckade och nya namn på instrumentpanelen för engagemang. På den här instrumentpanelen används periodkostnadsdata för att samla framgångar och nya namn. Om periodkostnad inte är inställt kommer instrumentpanelen för engagemang inte att rapportera korrekt oavsett inställningarna för analysbeteendet ovan.
 
 ## Varför saknar jag vissa möjligheter i MPI? {#why-am-i-missing-some-opportunities-in-mpi}
 
@@ -82,7 +82,7 @@ Anpassade fält, säljprojektstyp och ABM-filter är alla attribut som är relat
 
 ## Jag vill använda ett anpassat Salesforce-säljprojektsfält för intäktsrapportering i stället för standardfältet Salesforce-säljprojektsbelopp. Kommer MPI att tillåta mig att göra det? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-Ja. [Marketo Support](http://docs.marketo.com/cdn-cgi/l/email-protection#b5c6c0c5c5dac7c1f5d8d4c7ded0c1da9bd6dad8) kan mappa om Marketos säljprojektsbelopp till ett anpassat Salesforce-säljprojektsfält så länge som fälttypen är valuta. Eftersom MPI pekar på fältet Marketo-säljprojektsbelopp kan MPI använda data från det ommappade anpassade Salesforce-fältet.
+Ja. [Marketo ](http://docs.marketo.com/cdn-cgi/l/email-protection#b5c6c0c5c5dac7c1f5d8d4c7ded0c1da9bd6dad8) Supportis kan mappa Marketos säljprojektsbelopp till ett anpassat Salesforce-säljprojektsfält så länge som fälttypen är valuta. Eftersom MPI pekar på fältet Marketo-säljprojektsbelopp kan MPI använda data från det ommappade anpassade Salesforce-fältet.
 
 >[!NOTE]
 >
@@ -104,7 +104,7 @@ Ja. MPI integreras med [Marketo ABM](http://docs.marketo.com/display/DOCS/Accoun
 
 ## Är attribuering direkt tillgängligt när jag köper MPI? {#is-attribution-instantly-available-when-i-purchase-mpi}
 
-Marketo Attribution-funktionerna är tillgängliga för våra kunder när de köper MPI. Det krävs dock [korrekt konfiguration](http://docs.marketo.com/x/mRPG) för att säkerställa att affärsmöjligheter och programdata flödar korrekt in i MPI.
+Marketo Attribution-funktionerna är tillgängliga för våra kunder när de köper MPI. [Korrekt konfiguration](http://docs.marketo.com/x/mRPG) krävs dock för att säkerställa att affärsmöjligheter och programdata flödar korrekt till MPI.
 
 ## Vad måste jag göra för att konfigurera attribuering? {#what-do-i-have-to-do-to-set-up-attribution}
 
