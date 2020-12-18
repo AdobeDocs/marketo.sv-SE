@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Välj Lotterivinnare {#select-sweepstakes-winners}
 
-När du [publicerar utlottningar](publish-a-sweepstakes.md)måste du välja vinnare för varje teckning. När du gör det skickas ditt [e-postmeddelande](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) automatiskt till dem.
+När du [publicerar utlottningar](publish-a-sweepstakes.md) måste du välja vinnare för varje teckning. När du gör det skickas ditt [e-postmeddelande](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) automatiskt till dem.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ När du [publicerar utlottningar](publish-a-sweepstakes.md)måste du välja vinn
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,7 +29,7 @@ När du [publicerar utlottningar](publish-a-sweepstakes.md)måste du välja vinn
 
    ![](assets/image2014-9-25-17-3a47-3a37.png)
 
-1. Klicka på **Välj** **vinnare**.
+1. Klicka på **Välj** **Vinnare**.
 
    ![](assets/image2014-9-25-17-3a47-3a49.png)
 
@@ -37,15 +37,15 @@ När du [publicerar utlottningar](publish-a-sweepstakes.md)måste du välja vinn
    >
    >Klicka på fliken **Deltagare **om du vill se en lista över personer som har anmält sig till ditt lotteri.
 
-1. Välj antalet vinnare, välj **Jag är redo att välja** och klicka på **Nästa**.
+1. Välj antal vinnare, välj **Jag är redo att välja** och klicka på **Nästa**.
 
    ![](assets/image2014-9-25-17-3a49-3a2.png)
 
    >[!NOTE]
    >
-   >Om du väljer 0 vinnare för en viss teckning visas inte den informationen på fliken **Vinnare** .
+   >Om du väljer 0 vinnare för en viss teckning visas inte den informationen på fliken **Vinnare**.
 
-1. Klicka på **Slutför** för att skicka e- [postmeddelandet](https://community.marketo.com/MarketoArticle?id=kA050000000L8A6) till vinnarna i listan.
+1. Klicka på **Slutför** för att skicka [e-postmeddelandet](https://community.marketo.com/MarketoArticle?id=kA050000000L8A6) till vinnarna i listan.
 
    ![](assets/image2014-9-25-17-3a49-3a48.png)
 
