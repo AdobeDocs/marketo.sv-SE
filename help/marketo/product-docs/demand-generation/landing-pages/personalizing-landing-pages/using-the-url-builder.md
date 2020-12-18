@@ -19,7 +19,7 @@ Med URL Builder kan du skapa URL:er som kan fylla i dolda formulärfält i Marke
 >
 >Lär dig hur du skapar dolda fält i formulär och redigerar deras inställningar i [Ange ett formulärfält som dolt](../../../../product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md).
 
-1. Välj en landningssida, klicka på Åtgärder för **landningssida**, hovra över **URL-verktyg** och klicka sedan på **URL Builder**.
+1. Välj en landningssida, klicka på **Landing Page Actions**, hovra över **URL Tools** och klicka sedan på **URL Builder**.
 
    ![](assets/image2014-9-18-13-3a5-3a19.png)
 
