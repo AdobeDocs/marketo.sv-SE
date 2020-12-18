@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Konfigurera händelseinställningar och synkronisera markeringar med ditt webbinarium {#configure-event-settings-and-sync-marketo-with-your-webinar}
+# Konfigurera händelseinställningar och Synkronisera markering med ditt webbinarium {#configure-event-settings-and-sync-marketo-with-your-webinar}
 
 Följ de här stegen för att konfigurera inställningarna för händelsen Marketo och ansluta Marketo och ON24.
 
@@ -37,7 +37,7 @@ Följ de här stegen för att konfigurera inställningarna för händelsen Marke
    >
    >Under högtider kan det ta 15 till 20 minuter för ON24 att göra händelseinformationen tillgänglig för Marketo. Om du får meddelandet&quot;Ogiltigt sessions-ID&quot; kan du försöka igen lite senare.
 
-## Ange schema {#set-the-schedule}
+## Ange schemat {#set-the-schedule}
 
 När du ställer in en händelse som är associerad med ett ON24-webbinarium fylls händelseschemat i med data från ON24. Följ de här stegen för att öppna dialogrutan Händelseschema.
 
