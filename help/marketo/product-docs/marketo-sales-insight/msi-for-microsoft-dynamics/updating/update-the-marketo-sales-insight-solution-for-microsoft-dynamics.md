@@ -19,7 +19,7 @@ När en ny Microsoft Dynamics-lösning släpps för Sales Insight kan du hämta 
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till området **Admin** .
+1. Gå till området **Admin**.
 
    ![](assets/mainnavhand.png)
 
