@@ -27,7 +27,7 @@ Om du hellre vill titta på de här stegen än att läsa dem går du direkt till
 * prenumeration på Sales Connect
 * Salesforce-prenumeration (med API-anrop och Apex-klasser aktiverade)
 
-## Vem du behöver för att komma igång? {#who-you-need-to-get-started}
+## Vem du behöver för att komma igång {#who-you-need-to-get-started}
 
 * Marketo Admin-användare
 * Administratörsanvändare för Sales Connect
@@ -51,13 +51,13 @@ Du kan också:
 
 ## Anslut ditt Sales Connect-konto till Salesforce {#connect-your-sales-connect-account-to-salesforce}
 
-Om du vill ansluta ditt Sales Connect-konto till ditt Salesforce-konto, som administratör eller icke-administratör, följer du stegen i [den här artikeln](http://docs.marketo.com/x/JwDb).
+Om du vill ansluta ditt Sales Connect-konto till ditt Salesforce-konto, som administratör eller annan administratör, följer du stegen i [den här artikeln](http://docs.marketo.com/x/JwDb).
 
 >[!NOTE]
 >
 >Den Salesforce-instans som du ansluter till måste vara samma instans som är (eller kommer att vara) ansluten till Marketo.
 
-## Hämtar autentiseringsuppgifter innan du kopplar säljkontakt med Marketo {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
+## Hämtar autentiseringsuppgifter innan du kopplar upp Sales Connect med Marketo {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
 Du måste hämta en uppsättning inloggningsuppgifter inifrån Marketo. Dessa autentiseringsuppgifter används senare av Sales Connect Admin för att ansluta Marketo till Sales Connect.
 
@@ -77,9 +77,9 @@ Du måste hämta en uppsättning inloggningsuppgifter inifrån Marketo. Dessa au
    >
    >När du kopierar och klistrar in ovanstående information bör du kontrollera att inga mellanslag läggs till.
 
-## Connect Sales Connect to Marketo {#connect-sales-connect-to-marketo}
+## Anslut försäljningsanslutning till Marketo {#connect-sales-connect-to-marketo}
 
-1. Klicka på kugghjulsikonen i Sales Connect och välj **Settings**.
+1. Klicka på kugghjulsikonen i Sales Connect och välj **Inställningar**.
 
    ![](assets/four.png)
 
@@ -119,11 +119,11 @@ Du kan distribuera ditt team som Marketo Sales Connect User från den här sidan
 
    >[!NOTE]
    >
-   >Om du vill lägga till nya användare går du till avsnittet Teamhantering i Administrationsinställningar och klickar på knappen **Bjud in användare** .
+   >Om du vill lägga till nya användare går du till avsnittet Teamhantering i Administrationsinställningar och klickar på knappen **Bjud in användare**.
 
 Du kan få fler användare från sidan Teamhantering och följa stegen ovan för att få dem anslutna.
 
-## Testa Sales Connect i din sandlåda {#test-sales-connect-in-your-sandbox}
+## Testa Säljanslutning i din sandlåda {#test-sales-connect-in-your-sandbox}
 
 För team som vill testa Marketo Sales Connect med sin Marketo Sandbox kan ytterligare ett Sales Connect-konto etableras på begäran. Detta gäller endast kunder som har köpt en Marketo Sandbox, eller kunder som har den som en del av sitt Marketo-paket. Om du är intresserad av att köpa en sandlåda kontaktar du er kontoansvarige på Marketo.
 
