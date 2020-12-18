@@ -23,7 +23,7 @@ Följ de här enkla stegen för att schemalägga ett e-postmeddelande.
 
    ![](assets/one-1.png)
 
-1. När du är klar med ditt e-postmeddelande klickar du på **Schemalägg** längst ned till höger
+1. När du är klar med ditt e-postmeddelande klickar du på **Schema** längst ned till höger
 
    ![](assets/two-1.png)
 
