@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Skapa en ny webbkampanj för widget {#create-a-new-widget-web-campaign}
 
-En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment och kan vara en [dialogruta](create-a-new-dialog-web-campaign.md) på din webbplats, en [in-zon-ersättning](create-a-new-in-zone-web-campaign.md), en widget-funktion eller en e-postavisering. Widgetens webbkampanj är en text eller en banderoll som visas på den lodräta sidan av webbsidan med möjlighet att expandera och dra samman, samtidigt som den är fast på webbplatsens sida under hela besöket.
+En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment och kan vara en [dialogruta](create-a-new-dialog-web-campaign.md) på din webbplats, en [zonersättning](create-a-new-in-zone-web-campaign.md), en widgetfunktion eller en e-postavisering. Widgetens webbkampanj är en text eller en banderoll som visas på den lodräta sidan av webbsidan med möjlighet att expandera och dra samman, samtidigt som den är fast på webbplatsens sida under hela besöket.
 
 ## Skapa en webbkampanj för widget {#create-a-widget-web-campaign}
 
@@ -25,7 +25,7 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment o
 
    ![](assets/create-new-web-campaign-hand-1.png)
 
-1. Välj kampanjtypen för **widget** .
+1. Välj kampanjtypen **Widget**.
 
    ![](assets/3.png)
 
@@ -83,10 +83,10 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment o
   </tr> 
   <tr> 
    <td colspan="1"><strong>Förhandsgranska på plats </strong></td> 
-   <td colspan="1">Förhandsgranska kampanjer innan de lanseras.<br> 
+   <td colspan="1">Förhandsgranska kampanjer innan de startas.<br> 
     <ul> 
      <li>URL - Ange en exempel-URL där kampanjen körs för att se ett förhandsgranskningsexempel på hur kampanjen skulle se ut live.</li> 
-     <li>Förhandsgranska - Klicka på <strong>Förhandsgranska </strong>för att öppna ett nytt fönster med exempel-URL:en för att se hur kampanjen reagerar (lägg till <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">Chrome-tillägget</a> för att få den bästa förhandsvisningen av webbkampanjen.) </li> 
+     <li>Förhandsgranska - Klicka på <strong>Förhandsgranska </strong>för att öppna ett nytt fönster med exempel-URL:en för att se hur kampanjen reagerar (lägg till <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">Chrome-tillägget</a> för bästa möjliga förhandsgranskning i webbkampanjen.) </li> 
      <li>Dela - Använd knappen Dela för att skicka ett e-postmeddelande till en kollega med en länk för att se proxykampanjen.</li> 
     </ul></td> 
   </tr> 
@@ -95,17 +95,17 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment o
 
 >[!NOTE]
 >
->**Vill du A/B-testa webbkampanjer?** En eller flera webbkampanjer kan [A/B-testas för optimala resultat](ab-test-your-web-campaign.md). Med funktionen Automatisk justering känner plattformen automatiskt igen de kampanjer som presterar bättre, fortsätter med de mest konverterande kampanjerna och pausar de andra.
+>**Vill du A/B-testa webbkampanjer?** En eller flera webbkampanjer kan  [A/B-testas för optimala resultat](ab-test-your-web-campaign.md). Med funktionen Automatisk justering känner plattformen automatiskt igen de kampanjer som presterar bättre, fortsätter med de mest konverterande kampanjerna och pausar de andra.
 
 ## Redigera en webbkampanj {#edit-a-web-campaign}
 
-Klicka på **Redigera** i Campaign på webbkampanjsidan.
+På sidan Webbkampanjer klickar du på **Redigera** i Campaign.
 
 ![](assets/image2016-11-4-13-3a2-3a20.png)
 
 >[!NOTE]
 >
->Använd [filterfunktionen](filter-web-campaigns.md)för att göra det enklare att hitta kampanjen du vill ha.
+>Använd filterfunktionen [](filter-web-campaigns.md) för att göra det enklare att hitta kampanjen du vill ha.
 
 ## Klona en webbkampanj {#clone-a-web-campaign}
 
