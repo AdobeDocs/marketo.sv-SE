@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # E-postrapporter {#email-reports}
 
-Information om hur du anpassar vilken automatisk e-postrapport som användaren får finns i avsnittet [](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)Användarinställningar.
+Information om hur du anpassar vilken automatiserad e-postrapport som användaren får finns i avsnittet [Användarinställningar](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
 
 ## E-postrapporter om webbpersonalisering {#web-personalization-email-reports}
 
@@ -21,7 +21,7 @@ Dagliga eller veckovisa e-postrapporter skickas till användarens e-postadress m
 
 Följande rapporter är tillgängliga:
 
-## Organisationsrapport varje dag/vecka {#daily-weekly-organizations-report}
+## Organisationsrapport för varje dag/vecka {#daily-weekly-organizations-report}
 
 ![](assets/image2014-12-6-13-3a32-3a8.png)
 
@@ -39,7 +39,7 @@ Personrapporten varje dag/vecka skickar ett e-postmeddelande till användaren me
 
 I rapporten&quot;Top Performing Real-time Campaigns Report&quot; skickas ett e-postmeddelande till användaren med information om kampanjens namn, visningar, klickningar, vilket segment kampanjen reagerade på och kampanjens konverteringsgrad.
 
-## Rapport över de vanligaste utföranderesurserna {#top-performing-assets-report}
+## Rapport om de vanligaste utföranderesurserna {#top-performing-assets-report}
 
 ![](assets/image2014-12-6-13-3a29-3a5.png)
 
@@ -69,4 +69,4 @@ Sammanfattningsrapporten skickar ett e-postmeddelande (månadsvis eller kvartals
 >
 >Marketo Web Personalization hämtar webbbesökarens e-postadress för alla formulär som fylls i på webbplatsen. Detta visas på sidan Webbpersonalisering och är den person som används i sammanfattningsrapporten.
 
-Information om hur du anpassar vilken automatisk e-postrapport som användaren får finns i avsnittet [](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)Användarinställningar.
+Information om hur du anpassar vilken automatiserad e-postrapport som användaren får finns i avsnittet [Användarinställningar](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
