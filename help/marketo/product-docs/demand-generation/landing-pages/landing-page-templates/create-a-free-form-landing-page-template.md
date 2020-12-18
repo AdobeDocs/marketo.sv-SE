@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Skapa en mall för landningssida i fri form {#create-a-free-form-landing-page-template}
+# Skapa en mall för startsida i fri form {#create-a-free-form-landing-page-template}
 
 För landningssidor i fri form krävs mindre teknisk kunskap än för deras styrda motsvarigheter. Följ stegen nedan för att skapa en mall för framtida landningssidor.
 
@@ -19,7 +19,7 @@ För landningssidor i fri form krävs mindre teknisk kunskap än för deras styr
 
    ![](assets/one.png)
 
-1. Klicka på **Nytt** och välj sedan **Ny mall** för landningssida.
+1. Klicka på **Ny** och välj sedan **Ny mall för landningssida**.
 
    ![](assets/two.png)
 
@@ -35,7 +35,7 @@ För landningssidor i fri form krävs mindre teknisk kunskap än för deras styr
    >
    >Marketo Support är inte konfigurerat för att underlätta felsökning av anpassad HTML. Kontakta en webbutvecklare om du behöver HTML-hjälp.
 
-1. När du är klar med redigeringarna klickar du på **Mallåtgärder** och väljer sedan **Godkänn och Stäng**.
+1. När du är klar med redigeringarna klickar du på **Mallåtgärder** och väljer sedan **Godkänn och stäng**.
 
    ![](assets/five.png)
 
@@ -43,8 +43,8 @@ För landningssidor i fri form krävs mindre teknisk kunskap än för deras styr
 
    >[!NOTE]
    >
-   >Välj **Inaktivera Munchkin-spårning** om du vill förhindra att formulär fylls i i automatiskt, eller om du bara inte vill spåra webbbeteende på en viss sida.\
-   >Välj **Validera mobilkompatibilitet** för att kontrollera att koden är kompatibel med mobila enheter.
+   >Välj **Inaktivera Munchkin-spårning** om du vill förhindra att formulär fylls i i i förväg, eller om du bara inte vill spåra webbbeteende på en viss sida.\
+   >Välj **Verifiera mobilkompatibilitet** för att kontrollera att koden är kompatibel med mobila enheter.
 
    >[!NOTE]
    >
