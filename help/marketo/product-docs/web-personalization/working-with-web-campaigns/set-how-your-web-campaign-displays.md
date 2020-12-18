@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ange hur webbkampanjen ska visas {#set-how-your-web-campaign-displays}
+# Ange hur webbkampanjen visas {#set-how-your-web-campaign-displays}
 
 Det finns flera metoder att använda när/hur webbkampanjen visas.
 
@@ -35,7 +35,7 @@ Ange en tidsfördröjning (i totalt antal sekunder) för webbkampanjer att reage
 
 ## Rulla {#scroll}
 
-1. Klicka på listrutan **Visa vid** och välj **Bläddra**.
+1. Klicka på listrutan **Visa på** och välj **Rulla**.
 
    ![](assets/s1.png)
 
@@ -64,7 +64,7 @@ Ange en tidsfördröjning (i totalt antal sekunder) för webbkampanjer att reage
 
 När muspekaren stängs visas webbkampanjen när användaren avslutar webbläsaren.
 
-1. Klicka på listrutan **Visa vid** och välj **Avsluta metod**.
+1. Klicka på listrutan **Visa på** och välj **Avsluta metod**.
 
    ![](assets/ei1.png)
 
@@ -74,5 +74,5 @@ När muspekaren stängs visas webbkampanjen när användaren avslutar webbläsar
 
 >[!TIP]
 >
->Vill du se hur de valda effekterna kommer att se ut i förväg? Kolla in dem via en förhandsgranskning [av](preview-and-test-a-web-campaign.md)webbkampanjer.
+>Vill du se hur de valda effekterna kommer att se ut i förväg? Kolla in dem via en [förhandsgranskning av webbkampanj](preview-and-test-a-web-campaign.md).
 
