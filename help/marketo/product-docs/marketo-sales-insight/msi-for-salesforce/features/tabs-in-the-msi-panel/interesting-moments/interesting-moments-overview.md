@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Översikt över intressanta stunder {#interesting-moments-overview}
+# Intressanta stunder - översikt {#interesting-moments-overview}
 
 Du kan använda det intressanta steget för att ge säljteamet insyn i de coola saker som leads gör i en Smart Campaign.
 
