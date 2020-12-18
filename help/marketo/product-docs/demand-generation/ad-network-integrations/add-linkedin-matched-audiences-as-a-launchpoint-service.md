@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Koppla ditt Marketto-konto till LinkedIn Matched Audiences om du vill använda en statisk Marketo-lista eller smart lista som ett LinkedIn-målgruppssegment.
 
-1. Gå till avsnittet **Admin** .
+1. Gå till avsnittet **Admin**.
 
    ![](assets/admin.png)
 
