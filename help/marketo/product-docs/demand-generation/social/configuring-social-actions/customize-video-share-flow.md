@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Anpassa videodelningsflöde {#customize-video-share-flow}
 
-När du [skapar en videodelning](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)kan du anpassa när och var delningsprompten visas.
+När du [skapar en videoresurs](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md) kan du anpassa när och var delningsprompten visas.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Markera programmet och klicka på **Redigera utkast.**
+1. Markera appen och klicka på **Redigera utkast.**
 
    ![](assets/image2014-9-22-16-3a40-3a41.png)
 
@@ -33,5 +33,5 @@ När du [skapar en videodelning](../../../../product-docs/demand-generation/land
 
 >[!MORELIKETHIS]
 >
->Nästa steg är att [konfigurera vad som händer efter videodelning](configure-after-share-prompts.md).
+>Nästa steg är att [konfigurera vad som ska hända efter videodelning](configure-after-share-prompts.md).
 
