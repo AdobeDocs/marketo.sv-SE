@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Förstå meddelanden i appen {#understanding-in-app-messages}
+# Om meddelanden i appen {#understanding-in-app-messages}
 
 >[!NOTE]
 >
@@ -29,15 +29,15 @@ Innan du kan skapa och skicka meddelanden i appen för din mobilapp behöver du 
 
 ## Steg 1: Administratör och utvecklare utför initiala inställningar {#step-admin-and-developer-perform-initial-setups}
 
-Marketo Admin och utvecklaren av mobilappar samarbetar för att konfigurera dig. Mer information finns i [Innan du skapar push-meddelanden och meddelanden](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) i appen.
+Marketo Admin och utvecklaren av mobilappar samarbetar för att konfigurera dig. Mer information finns i [Innan du skapar push-meddelanden och meddelanden i appen](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md).
 
 ## Steg 2: Skapa ett meddelande i appen {#step-create-an-in-app-message}
 
-Du [skapar ett meddelande](http://docs.marketo.com/display/docs/create+an+in-app+message) i appen med onlineredigeraren.
+Du [skapar ett meddelande i appen](http://docs.marketo.com/display/docs/create+an+in-app+message) med onlineredigeraren.
 
 ## Steg 3: Skicka! {#step-send}
 
-Du skapar ett program som [skickar meddelandet](http://docs.marketo.com/display/docs/send+your+in-app+message).
+Du skapar ett program för att [skicka meddelandet](http://docs.marketo.com/display/docs/send+your+in-app+message).
 
 Du är på väg.
 
