@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Ändra formuläretikettposition {#change-form-label-position}
 
-När du [skapar ett formulär](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)kan du enkelt ändra placeringen av formulärfältsetiketterna. Så här gör du.
+När [du skapar ett formulär](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md) kan du enkelt ändra placeringen av formulärfältsetiketterna. Så här gör du.
 
-1. Gå till **Marknadsföringsaktiviteter** och **aktiviteter**.
+1. Gå till **Marknadsföring** **Aktiviteter**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Markera formuläret och klicka på **Redigera** **formulär**.
+1. Markera formuläret och klicka på **Redigera** **Formulär**.
 
    ![](assets/image2014-9-15-16-3a16-3a9.png)
 
@@ -27,7 +27,7 @@ När du [skapar ett formulär](../../../../product-docs/demand-generation/forms/
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 
-1. Markera den **etikettposition** **du vill ha** .
+1. Välj den **etikett** **position** du vill ha.
 
    ![](assets/image2014-9-15-16-3a16-3a39.png)
 
