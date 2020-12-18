@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Genom att använda den avancerade sökningen för att rikta dig till potentiella kunder som har visat, klickat eller svarat på e-postmeddelanden kan du skapa en målinriktad lista över de mest engagerade potentiella kunderna.
 
-## Använda avancerad sökning {#how-to-access-advanced-search}
+## Åtkomst till avancerad sökning {#how-to-access-advanced-search}
 
-1. Klicka på **Kommando Center**.
+1. Klicka på **Kommandocentral**.
 
    ![](assets/one.png)
 
