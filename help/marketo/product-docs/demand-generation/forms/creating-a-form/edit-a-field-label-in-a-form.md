@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Du kan ändra etiketten för ett formulär till vad som helst - du kan till och med använda en bild eller radera den helt! Så här gör du.
 
-1. Gå till **Marknadsföringsaktiviteter** och **aktiviteter**.
+1. Gå till **Marknadsföring** **Aktiviteter**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Markera formuläret och klicka på **Redigera** **formulär**.
+1. Markera formuläret och klicka på **Redigera** **Formulär**.
 
    ![](assets/image2014-9-15-17-3a26-3a27.png)
 
@@ -29,7 +29,7 @@ Du kan ändra etiketten för ett formulär till vad som helst - du kan till och 
 
    >[!TIP]
    >
-   >Om du vill bli snygg klickar du på ![](assets/image2014-9-15-17-3a27-3a7.png) >
+   >Om du vill bli snygg kan du klicka på   ![](assets/image2014-9-15-17-3a27-3a7.png)   >
    >
    > . Då öppnas en textredigerare med bilder, länkar med mera.
 
@@ -45,7 +45,7 @@ Du kan ändra etiketten för ett formulär till vad som helst - du kan till och 
 >
 >**Påminnelse**
 >
->Glöm inte att [godkänna landningssidans utkast](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som har skapats av formulärändringarna.
+>Glöm inte att [godkänna landningssidans utkast](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som skapats av formulärändringarna.
 
 Där har du den! Litet för barn blir du en mästare på att skapa formulär.
 
