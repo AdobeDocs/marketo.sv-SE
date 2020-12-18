@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Beroende på inköpsdatumet kan din Marketo-prenumeration innehålla antingen Marketo Predictive Content eller Content`<sup>AI</sup>`. För dem som använder Predictive Content aktiverar Marketo Content`<sup>AI</sup>` Analytics-funktioner fram till 30 april 2018. Kontakta Marketo Customer Success Manager för att uppgradera till Marketo Content`<sup>AI</sup>`om du vill behålla funktionerna efter detta datum.
+>Beroende på inköpsdatumet kan din Marketo-prenumeration innehålla antingen Marketo Predictive Content eller Content`<sup>AI</sup>`. För dem som använder Predictive Content aktiverar Marketo Content`<sup>AI</sup>` Analytics-funktioner fram till 30 april 2018. Kontakta Marketo Customer Success Manager för att uppgradera till Marketo Content`<sup>AI</sup>` om du vill behålla funktionerna efter detta datum.
 
-När du har [godkänt en titel för prediktivt innehåll](//help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)arbetar du med den här. På sidan Predictive Content (Prediktivt innehåll) visas alla titlar som du har godkänt för prediktivt innehåll.
+När du har [godkänt en titel för prediktivt innehåll](//help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) arbetar du med den här. På sidan Predictive Content (Prediktivt innehåll) visas alla titlar som du har godkänt för prediktivt innehåll.
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
@@ -30,7 +30,7 @@ Sidfälten innehåller:
 * **Konverteringsgrad**: En procentandel som beräknas genom direktkonverteringar dividerat med klick. Hovra för att se ytterligare data (se nedan)
 * **Konvertering**: Besökare som tidigare klickat på rekommenderat innehåll och fyllt i ett formulär senare
 
-## Filtrera innehåll {#filtering-content}
+## Filtrerar innehåll {#filtering-content}
 
 **Kategori**
 
@@ -50,7 +50,7 @@ Med filtrering av aktiverat innehåll kan ni se hur varje källa fungerar.
 
 ![](assets/image2017-10-3-9-3a25-3a34.png)
 
-## Visa analyser efter datum {#display-analytics-by-date}
+## Visa analys efter datum {#display-analytics-by-date}
 
 1. välj start- och slutdatum till höger (som visas). Klicka på **Använd**.
 
