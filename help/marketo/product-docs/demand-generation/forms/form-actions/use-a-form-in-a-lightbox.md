@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Använda ett formulär i en ljuslåda {#use-a-form-in-a-lightbox}
+# Använd ett formulär i en ljuslåda {#use-a-form-in-a-lightbox}
 
 En ljuslåda är en teknik som öppnar ett formulär framför innehållet när du vill att det ska visas. Så här gör du.
 
-1. Gå till **Marknadsföringsaktiviteter** och **aktiviteter**.
+1. Gå till **Marknadsföring** **Aktiviteter**.
 
    ![](assets/login-marketing-activities-8.png)
 
@@ -23,7 +23,7 @@ En ljuslåda är en teknik som öppnar ett formulär framför innehållet när d
 
    ![](assets/image2014-9-15-14-3a32-3a15.png)
 
-1. Under **Formuläråtgärder** **klickar du på** Bädda in **** kod ****.
+1. Under **Formulär** **Åtgärder** klickar du på **Bädda in** **Kod**.
 
    >[!NOTE]
    >
@@ -34,7 +34,7 @@ En ljuslåda är en teknik som öppnar ett formulär framför innehållet när d
 
    ![](assets/image2014-9-15-14-3a32-3a24.png)
 
-1. Ange **Kodtyp** **för** **ljuslåda**.
+1. Ange **Kod** **Typ** till **Ljuslåda**.
 
    ![](assets/image2014-9-15-14-3a32-3a31.png)
 
