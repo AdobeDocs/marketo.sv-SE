@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Avbeställ historikkort {#unsubscribe-history-card}
+# Avbeställ historikkortet {#unsubscribe-history-card}
 
 Med historikkortet för att avbryta prenumerationen kan administratörer och användare få sammanhangsberoende information om kontaktens avbeställningshistorik.
 
