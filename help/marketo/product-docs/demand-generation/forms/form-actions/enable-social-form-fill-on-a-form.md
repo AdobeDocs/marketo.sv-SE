@@ -21,15 +21,15 @@ Tillåt besökarna att fylla i formuläret via sitt sociala nätverk. Ni får au
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
-1. Gå till **Marknadsföringsaktiviteter** och **aktiviteter**.
+1. Gå till **Marknadsföring** **Aktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Markera formuläret och klicka på **Redigera** **formulär**.
+1. Markera formuläret och klicka på **Redigera** **Formulär**.
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. Under **Formulärinställningar** **klickar** du på **Inställningar**.
+1. Under **Formulär** **Inställningar** klickar du på **Inställningar**.
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
@@ -39,7 +39,7 @@ Tillåt besökarna att fylla i formuläret via sitt sociala nätverk. Ni får au
 
    >[!TIP]
    >
-   >Ta en titt på vilka [data Marketo fångar](../../../../product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) om man använder knapparna för sociala medier.
+   >Ta en titt på vad [data Marketo kommer att fånga](../../../../product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) om någon använder knapparna för sociala medier.
 
 1. Klicka på **Slutför**.
 
