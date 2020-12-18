@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Redigera inställningar för avancerat inlägg på Facebook {#edit-facebook-rich-post-settings}
+# Redigera inställningar för Facebook Rich Post {#edit-facebook-rich-post-settings}
 
-Anpassa inlägg när andra [delar dig](http://docs.marketo.com/display/docs/social) på Facebook.
+Anpassa inlägg när någon [delar dig](http://docs.marketo.com/display/docs/social) på Facebook.
 
 >[!NOTE]
 >
@@ -21,13 +21,13 @@ Anpassa inlägg när andra [delar dig](http://docs.marketo.com/display/docs/soci
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
-Marketo [sociala appar](http://docs.marketo.com/display/docs/social) gör det möjligt för dina leads att dela dina landningssidor med sina anslutningar i sociala nätverk som Facebook, Twitter och så vidare. Med Facebook OpenGraph-taggar (OG-taggar) kan du ange vilken information från din landningssida som ska ingå i Facebook-inlägg.
+Marketo [sociala appar](http://docs.marketo.com/display/docs/social) tillåter dina leads att dela dina landningssidor med sina anslutningar i sociala nätverk som Facebook, Twitter osv. Med Facebook OpenGraph-taggar (OG-taggar) kan du ange vilken information från din landningssida som ska ingå i Facebook-inlägg.
 
 ## Välj alternativ för Rich Post {#select-rich-post-options}
 
 Du kan ange vilka typer av sidinformation som ska användas i de Facebook-inlägg som genereras av delningar från din landningssida.
 
-1. Välj **Facebook-meddelande** i redigeraren för din **YouTube** -video eller sociala knapp.
+1. Välj **Facebook-meddelande** i redigeraren för din **YouTube**-video eller sociala knapp.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
@@ -37,12 +37,12 @@ Du kan ange vilka typer av sidinformation som ska användas i de Facebook-inläg
 
       ![](assets/image2014-9-22-16-3a48-3a0.png)
 
-   * Lägg till dynamiskt innehåll: Din sociala app kan använda landningssidans `<TITLE>`-, `<CAPTION>`och `<DESCRIPTION>` -taggar för att fylla i ditt inlägg.
+   * Lägg till dynamiskt innehåll: Din sociala app kan använda landningssidans `<TITLE>`-, `<CAPTION>`- och `<DESCRIPTION>`-taggar för att fylla i ditt inlägg.
 
       ![](assets/image2014-9-22-16-3a48-3a9.png)
    >[!NOTE]
    >
-   >Dessa bör redan finnas i sidkällan, men för större kontroll kan du [lägga till särskilda Facebook OG-taggar på landningssidan](edit-facebook-rich-post-settings.md).
+   >Dessa bör redan finnas i sidans källa, men om du vill ha mer kontroll kan du [lägga till särskilda Facebook OG-taggar på din startsida](edit-facebook-rich-post-settings.md).
 
    * Lägg inte till avancerat innehåll: Begränsar Facebook-inlägg från din landningssida till endast huvudmeddelandet och länken.
 
@@ -50,7 +50,7 @@ Du kan ange vilka typer av sidinformation som ska användas i de Facebook-inläg
 
 
 
-## Lägga till Facebooks OG-taggar på en landningssida {#add-facebook-og-tags-to-a-landing-page}
+## Lägg till OG-taggar för Facebook på en landningssida {#add-facebook-og-tags-to-a-landing-page}
 
 Om du vill styra vilka sidelement som ska inkluderas i Facebook-delningarna från din landningssida kan du lägga till Facebooks OG-taggar (Open Graph) för titel, bildtext och beskrivning på din landningssida.
 
@@ -58,9 +58,9 @@ Om du vill styra vilka sidelement som ska inkluderas i Facebook-delningarna frå
 
    ![](assets/image2014-9-22-16-3a51-3a28.png)
 
-   Designern för **landningssidan** öppnas i ett nytt fönster.
+   **Startsidans Designer** öppnas i ett nytt fönster.
 
-1. Välj **Åtgärder** för landningssida > **Redigera sidmetataggar****.**
+1. Välj **Åtgärder för landningssida** > **Redigera sidmetataggar****.**
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 
