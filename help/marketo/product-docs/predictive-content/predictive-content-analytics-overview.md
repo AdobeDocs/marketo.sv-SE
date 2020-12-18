@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Översikt över prediktiv innehållsanalys {#predictive-content-analytics-overview}
+# Översikt över analys av prediktivt innehåll {#predictive-content-analytics-overview}
 
 Använd innehållsanalys för att få ytterligare insikter i ert befintliga innehåll, lär dig (baserat på AI och prediktiva algoritmer) vilket innehåll som fungerar för era målgrupper och öka avkastningen från era marknadsföringssatsningar.
 
@@ -45,13 +45,13 @@ Klicka på kalenderikonen om du vill ändra datumen för speglade data. Välj en
 
 ![](assets/dates.png)
 
-## Övre innehåll efter vy {#top-content-by-views}
+## Övre innehåll efter vyer {#top-content-by-views}
 
 Visar det översta innehållet i antal vyer per valt datumintervall.
 
 ![](assets/new-6.png)
 
-## Övre innehåll efter konverteringsgrad {#top-content-by-conversion-rate}
+## Övre innehåll efter konverteringsfrekvens {#top-content-by-conversion-rate}
 
 Visar det översta konverteringsinnehållet efter konverteringsgrad för det valda datumintervallet.
 
