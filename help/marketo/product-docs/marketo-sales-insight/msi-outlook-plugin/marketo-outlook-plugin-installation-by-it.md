@@ -17,7 +17,7 @@ Ibland kräver företagets policyer att IT-teamet installerar all programvara p�
 
 >[!PREREQUISITES]
 >
->[Konfigurera](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) företagsnyckeln.
+>[Ange ](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) företagsnyckeln.
 
 Kör följande kommandorad som System eller ett administratörskonto med växeln /i som ska installeras.  `<pre>msiexec.exe /i [File Name] /qn REG=[Enterprise Key]</pre>`
 
@@ -44,7 +44,7 @@ Om du vill ange en plats för loggfilerna kan du ange filsökvägen på kommando
 >
 >Loggfilens lagringsplats måste finnas, annars avbryts installationen.
 
-Se [Microsofts fullständiga lista över switchar](https://support.microsoft.com/en-us/kb/227091) om du vill prova olika loggningsnivåer eller användargränssnittsnivåer.
+Se [Microsofts fullständiga lista över växlar](https://support.microsoft.com/en-us/kb/227091) om du vill prova olika loggningsnivåer eller användargränssnittsnivåer.
 
 >[!NOTE]
 >
