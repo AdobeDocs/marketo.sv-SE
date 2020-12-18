@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Använd e-post i sociala kampanjer {#use-emails-in-social-promotions}
 
-När du skapar ett [hänvisningserbjudande](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) eller en [utlottning](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)kan du inkludera e-postmeddelanden som skickas när personen registrerar sig och igen när personen har vunnit belöningen.
+När du skapar ett [hänvisningserbjudande](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) eller en [utlottning](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) kan du inkludera e-postmeddelanden som skickas när personen registrerar sig och igen när personen har vunnit belöningen.
 
 >[!TIP]
 >
@@ -21,15 +21,15 @@ När du skapar ett [hänvisningserbjudande](../../../../product-docs/demand-gene
 
 Använd följande variabler i e-postmeddelanden:
 
-* **E-post** för registrering: Används **`{{social.Share Url}}`** för att skicka en personlig delningslänk till varje deltagare.
+* **E-post** för registrering: Används  **`{{social.Share Url}}`** för att skicka en personlig delningslänk till varje deltagare.
 
-* **Fulfillment email**: Skicka **`{{social.Promo Code}}`** en [kampanjkod](use-promo-codes-for-offer-fulfillment.md)till varje vinnare.
+* **Fulfillment email**: Skicka  **`{{social.Promo Code}}`** en  [kampanjkod](use-promo-codes-for-offer-fulfillment.md) till varje vinnare.
 
 >[!PREREQUISITES]
 >
->Innan du kan lägga till ett e-postmeddelande i en social app måste det vara *operativt* och *godkänt*. Se [Redigera inställningar för ett e-postmeddelande](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
+>Innan du kan lägga till ett e-postmeddelande i en social app måste det vara *användbart* och *godkänt*. Se [Redigera inställningar för ett e-postmeddelande](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/ma.png)
 
@@ -37,7 +37,7 @@ Använd följande variabler i e-postmeddelanden:
 
    ![](assets/image2014-9-19-16-3a12-3a33.png)
 
-1. Gå till **Appinställningar > Erbjudandeinformation** (eller **Information** om Lotteriet) i redigeraren för sociala appar.
+1. Gå till **Appinställningar > Erbjudandeinformation** (eller **Information om Lotteriet**) i redigeraren för sociala appar.
 
    ![](assets/image2014-9-19-16-3a12-3a41.png)
 
@@ -66,7 +66,7 @@ Använd följande variabler i e-postmeddelanden:
 >**Definition**
 >
 >* **automatiskt på mål**: E-postmeddelandet skickas automatiskt när varje deltagare uppfyller målet.
->* **skicka** manuellt: När man börjat uppnå målet återgår man till hänvisningserbjudandet för att manuellt [skicka e-postmeddelandet](../../../../product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md).
+>* **skicka** manuellt: När man börjat uppnå målet återgår man till hänvisningserbjudandet för att manuellt  [skicka e-postmeddelandet](../../../../product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md).
 
 >
 
@@ -76,5 +76,5 @@ Använd följande variabler i e-postmeddelanden:
 >
 >**Relaterade artiklar**
 >
->Därefter kan du [välja URL](choose-the-share-url-for-a-social-app.md) för delning eller, i ditt erbjudande om att [skicka anmälan, ladda upp de kampanjkoder](use-promo-codes-for-offer-fulfillment.md) du skickar ut.
+>Därefter kan du [välja resurs-URL](choose-the-share-url-for-a-social-app.md) eller, i ditt hänvisningserbjudande, [ladda upp de kampanjkoder](use-promo-codes-for-offer-fulfillment.md) som du skickar ut.
 
