@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Bästa val i Salesforce1 {#best-bets-in-salesforce}
 
-Dina [bästa val](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) är dina leads och kontakter med högsta prioritet och relativa poäng. Endast de leads du äger visas i listan och listan uppdateras när poängen ändras.
+Dina [Bästa val](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) är dina leads och kontakter med högsta prioritet och relativa poäng. Endast de leads du äger visas i listan och listan uppdateras när poängen ändras.
 
 1. Gå till Marketo-området i Salesforce-appen.
 
