@@ -13,10 +13,10 @@ ht-degree: 0%
 
 # Resultatrapport för e-postkampanj {#campaign-email-performance-report}
 
-Kör en rapport om prestanda för e-postkampanjer om du vill se status grupperade efter [smarta kampanjer](http://docs.marketo.com/display/docs/smart+campaigns).
+Kör en rapport om prestanda för e-postkampanjer om du vill se din e-poststatus grupperad efter [smart kampanj](http://docs.marketo.com/display/docs/smart+campaigns).
 
-1. [Skapa en rapport](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj **rapporttypen** för e-postprestanda [för](report-type-overview.md)kampanj.
-1. [Ange tidsramen för rapporten](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) och klicka på fliken **Rapport** .
+1. [Skapa en ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapport och välj  **Campaign Email** [PerformancePort-typ](report-type-overview.md).
+1. [Ange tidsramen för ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) rapporten och klicka på fliken  **** Rapportera.
 1. Utforska nu rapporten för att se hur varje e-postmeddelande har genomförts i era kampanjer.
 
    ![](assets/image2014-9-16-16-3a19-3a59.png)
@@ -25,7 +25,7 @@ Kör en rapport om prestanda för e-postkampanjer om du vill se status grupperad
    >
    >Klicka på namnet på ett e-postmeddelande för att öppna det i E-postförhandsgranskaren.
 
-   [Kolumner som du kan](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)välja för en rapport om kampanjens e-postprestanda är:
+   [Kolumner som du kan ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)välja för en rapport om kampanjens e-postprestanda är:
 
    | Kolumn | Beskrivning |
    |---|---|
@@ -37,7 +37,7 @@ Kör en rapport om prestanda för e-postkampanjer om du vill se status grupperad
 
    >[!NOTE]
    >
-   >I allmänhet försöker vi använda sunt förnuft för att registrera denna statistik. Om någon till exempel klickade på en länk i ett e-postmeddelande så öppnades den tydligt först. Mer information om de specifika regler vi följer finns i [E-postprestandarapporten](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
+   >I allmänhet försöker vi använda sunt förnuft för att registrera denna statistik. Om någon till exempel klickade på en länk i ett e-postmeddelande så öppnades den tydligt först. Mer information om de specifika regler vi följer finns i [E-postprestandarapport](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
 
    >[!NOTE]
    >
