@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ## Introduktion {#introduction}
 
-För nya marknadsföringskunder delas personalisering i realtid in i fyra appar som nås via dessa två paneler: Webbpersonalisering och -innehåll`<sup>AI</sup>`.
+För nya marknadsföringskunder delas personalisering i realtid in i fyra appar som nås via dessa två paneler: Webbanpassning och innehåll`<sup>AI</sup>`.
 
 ![](assets/pasted-image-at-2016-03-23-02-45-pm.png) ![](assets/mlm-homepage-content-ai-281-29.png)
 
 >[!NOTE]
 >
->Webbpersonalisering och innehåll`<sup>AI</sup>` finns på alla språk som stöds av Marketo (engelska, franska, tyska, japanska, portugisiska, spanska).
+>Webbanpassning och innehåll`<sup>AI</sup>` finns på alla språk som stöds av Marketo (engelska, franska, tyska, japanska, portugisiska, spanska).
 
 Befintliga kunder har fortsatt åtkomst till apparna via panelen för anpassning i realtid tills de förnyas, och då kommer de att använda inloggningen ovan.
 
@@ -36,13 +36,13 @@ De fyra programmen är:
 * Återmarknadsföring av webbplatser
 * Innehåll`<sup>AI</sup>`
 
-Webbpersonaliseringsplattan** är **din åtkomstpunkt för** att **skapa personaliserade webbkampanjer.** **Kontobaserad webbmarknadsföring och återmarknadsföring på webben. Du kan lägga till innehåll på sidan Innehållsanalys.
+Webbpersonalisering **plattan** är din åtkomstpunkt för att** **skapa personaliserade webbkampanjer.** **Kontobaserad webbmarknadsföring och återmarknadsföring på webben. Du kan lägga till innehåll på sidan Innehållsanalys.
 
-**Kontobaserad webbmarknadsföring** fungerar med webbpersonalisering och funktionen Namngivna konton. Sidan Namngivna konton innehåller grafisk information om befintliga kunder, det totala engagemanget och organisationstrender samt en lista över kontona. Du kan även skapa nya namngivna konton där.
+**Kontobaserad webbmarknadsföring fungerar** med webbanpassning och har namngivna konton. Sidan Namngivna konton innehåller grafisk information om befintliga kunder, det totala engagemanget och organisationstrender samt en lista över kontona. Du kan även skapa nya namngivna konton där.
 
-**Återmarknadsföring** av webbplatser ger er möjlighet att marknadsföra till segmenterade målgrupper. Du kan ange segment, men inte använda namngivna konton i filtret.
+**Med** omdirigering av webbplatser kan ni marknadsföra till segmenterade målgrupper. Du kan ange segment, men inte använda namngivna konton i filtret.
 
-**Innehåll`<sup>AI</sup>`** är platsen där innehållsrekommendationer ska ges. Du kan enkelt lägga till innehåll på Recommendations-sidan Innehåll.
+**Innehåll`<sup>AI</sup>`** är den plats där innehållsrekommendationer ska ges. Du kan enkelt lägga till innehåll på Recommendations-sidan Innehåll.
 
 >[!NOTE]
 >
