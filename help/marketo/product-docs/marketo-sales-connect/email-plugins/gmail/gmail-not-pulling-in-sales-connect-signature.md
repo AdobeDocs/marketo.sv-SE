@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Gmail hämtar inte in Sales Connect-signatur {#gmail-not-pulling-in-sales-connect-signature}
+# Gmail tar inte emot signaturen för försäljningsanslutning {#gmail-not-pulling-in-sales-connect-signature}
 
 Vi använder din Gmail-signatur i Gmail i stället för att infoga din [Sales Connect-signatur](http://toutapp.com/next#settings).
 
