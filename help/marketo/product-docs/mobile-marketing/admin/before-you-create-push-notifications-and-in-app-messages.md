@@ -16,19 +16,19 @@ ht-degree: 0%
 Det är inte svårt att skapa push-meddelanden och meddelanden i appen, men du måste ha allt klart innan du kan börja. Marketo Admin och utvecklare av mobilappar ska följa stegen nedan för att förbereda nödvändiga integreringar.
 
 1. Först lägger Marketo Admin [till en mobilapp](add-a-mobile-app.md)
-1. Marketo Admin [skickar sedan ett kodfragment till utvecklaren](send-sdk-code-to-a-developer.md)
-1. Utvecklaren hämtar SDK:n och inkluderar kodfragment och andra metoder för [Android](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android/) och [iOS](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)
-1. Som standard utlöses meddelanden i appen när appen öppnas. Om du vill utlösa meddelanden för andra händelser, till exempel när en viss sida visas eller en viss knapp skickas, måste utvecklaren lägga till anpassade händelser i koden (se [Anpassade händelser för meddelanden](#CustomEvents) i appen nedan)
-1. Utvecklaren [genererar nyckel och projektnummer för server-API för Android](http://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-android/) eller [certifiering och lösenord för iOS](http://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-ios/) och skickar det till Marketo Admin
-1. Marketo Admin konfigurerar push-meddelandeåtkomst [med Server API-nyckeln (Android)](configure-mobile-app-android-push-access.md) eller [med certifikatet (iOS)](configure-mobile-app-ios-push-access.md)
+1. Marketo Admin skickar sedan [ett kodfragment till utvecklaren](send-sdk-code-to-a-developer.md)
+1. Utvecklaren hämtar SDK-filen och inkluderar fragment och andra metoder för [Android](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android/) eller [iOS](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)
+1. Som standard utlöses meddelanden i appen när appen öppnas. Om du vill utlösa meddelanden för andra händelser, till exempel när en viss sida visas eller en viss knapp skickas, måste utvecklaren lägga till anpassade händelser i koden (se [Anpassade händelser för meddelanden i appen](#CustomEvents) nedan)
+1. Utvecklaren [genererar nyckel och projektnummer för server-API för Android](http://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-android/) eller [certifiering och lösenord för iOS](http://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-ios/) och skickar den till Marketo Admin
+1. Marketo Admin konfigurerar push-meddelandeåtkomst [med Server-API-nyckeln (Android)](configure-mobile-app-android-push-access.md) eller [med certifikatet (iOS)](configure-mobile-app-ios-push-access.md)
 
 >[!TIP]
 >
->Det är enkelt för Marketo Admin att kontrollera om din push-konfiguration har verifierats. Gå [hit](verify-push-configuration.md)bara.
+>Det är enkelt för Marketo Admin att kontrollera om din push-konfiguration har verifierats. Gå [hit](verify-push-configuration.md).
 
 ## Anpassade händelser för meddelanden i appen {#custom-events-for-in-app-messages}
 
-För meddelanden i programmet är visningsutlösaren inställd på **App Open** som standard. Om du vill använda anpassade händelser för att utlösa visningen av meddelanden i appen (t.ex. **klicka på Lägg till i kundvagnen**, sidan **med** visningsinställningar) skapar du en lista över önskade händelser och ger den till din mobilappsutvecklare. Utvecklaren lägger sedan till anpassade händelser i koden. När de har godkänts visas de som visningsutlösare när du ställer in målgruppen. **Varning**: Godkännandeprocessen för anpassad händelsekodning kan ta lite tid att slutföra.
+För meddelanden i programmet är visningsutlösaren inställd på **App Open** som standard. Om du vill använda anpassade händelser för att utlösa visningen av meddelanden i appen (till exempel **Klicka på Lägg till i kundvagnen**, **sidan Vyinställningar**) skapar du en lista över önskade händelser och ger den till din mobilappsutvecklare. Utvecklaren lägger sedan till anpassade händelser i koden. När de har godkänts visas de som visningsutlösare när du ställer in målgruppen. **Varning**: Godkännandeprocessen för anpassad händelsekodning kan ta lite tid att slutföra.
 
 När du har gjort alla förberedelser för meddelanden i appen och push-meddelanden är det dags att komma igång!
 
