@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ## Vad är skillnaden mellan innehåll och en bifogad fil? {#what-is-the-difference-between-content-and-a-file-attachment}
 
-En **bifogad** fil fungerar på samma sätt som en bifogad fil som du använder i din vanliga e-postklient.
+En **bifogad fil** är precis som en bifogad fil som du använder i din vanliga e-postklient.
 
-**Innehåll** är det vi använder för att beskriva filer (PPT, PDF, Word, osv.) som du vill bli spårad av Sales Connect.
+**Innehåller** vad vi använder för att beskriva filer (PPT, PDF, Word, osv.) som du vill bli spårad av Sales Connect.
 
 När du har klickat på den knappen kan du välja en fil som redan har överförts eller överföra en ny fil som ska spåras. Sedan infogar vi en länk i e-postmeddelandet eller mallen som du använder.
 
