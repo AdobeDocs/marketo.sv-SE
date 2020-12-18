@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Skapa en händelse med webbmöte på nivå 3 {#create-an-event-with-level-web-meeting}
+# Skapa en händelse med Level 3 Web Meeting {#create-an-event-with-level-web-meeting}
 
 >[!PREREQUISITES]
 >
@@ -23,19 +23,19 @@ ht-degree: 0%
 
 
 
-Skapa först ditt webbinarium på nivå 3. Om du behöver hjälp kan du kolla in resursbiblioteket [för](http://www.level3.com/en/resource-library/)nivå 3. Du kommer att finna att det liknar BrightTalk.  Marketo använder en liten delmängd av Level 3-fält:
+Skapa först ditt webbinarium på nivå 3. Om du behöver hjälp kan du kolla in [Level 3 Resource Library](http://www.level3.com/en/resource-library/). Du kommer att finna att det liknar BrightTalk.  Marketo använder en liten delmängd av Level 3-fält:
 
-* **Namn** - Webbsändningens namn.
-* **Startdatum** - Startdatum för webbsändningen.
-* **Slutdatum** - slutdatumet för webbsändningen.
-* **Tidszon** - tidszonen som angetts för webbsändningen.
-* **Beskrivning** - Webbcast-beskrivningen.
+* **Namn**  - Webbcast-namnet.
+* **Startdatum**  - Startdatum för webbsändningen.
+* **Slutdatum**  - Slutdatum för webbsändningen.
+* **Tidszon**  - Tidszonen som angetts för webbsändningen.
+* **Beskrivning**  - Webbcast-beskrivningen.
 
-1. Välj den nya aktiviteten. Klicka på **Händelseåtgärder och** sedan på **Händelseinställningar.**
+1. Välj den nya aktiviteten. Klicka på **Händelseåtgärder,** och **Händelseinställningar.**
 
    ![](assets/image2016-3-24-15-3a40-3a39.png)
 
-1. Under Event Partner väljer du **Level 3 Web Meeting**.
+1. Välj **Level 3 Web Meeting** under Event Partner.
 
    ![](assets/image2016-3-24-15-3a42-3a10.png)
 
@@ -53,8 +53,8 @@ Skapa först ditt webbinarium på nivå 3. Om du behöver hjälp kan du kolla in
 
    Mest utmärkt! Du har anslutit din aktivitet till nivå 3!
 
-## Visa schemat  {#viewing-the-schedule}
+## Visa schemat {#viewing-the-schedule}
 
-Klicka på kalenderposten för din aktivitet i [programschemavyn](http://docs.marketo.com/display/docs/program+schedule+view). Schemat visas till höger på skärmen.
+Klicka på kalenderposten för händelsen i [programschemavyn](http://docs.marketo.com/display/docs/program+schedule+view). Schemat visas till höger på skärmen.
 
 ![](assets/image2016-3-24-15-3a51-3a7.png)
