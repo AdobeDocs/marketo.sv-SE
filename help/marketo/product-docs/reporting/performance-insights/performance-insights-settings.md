@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Inställningar för Performance Insights {#performance-insights-settings}
+# Inställningar för prestandainsikter {#performance-insights-settings}
 
 Lär dig mer om de olika inställningarna i MPI.
 
@@ -21,7 +21,7 @@ Lär dig mer om de olika inställningarna i MPI.
 >
 >Beroende på vilken instrumentpanel du är på visas olika inställningsalternativ.
 
-## Visa slutförda program efter {#view-program-success-by}
+## Visa slutförda program med {#view-program-success-by}
 
 **Engagement Dashboard - Bidrag och trender**
 
