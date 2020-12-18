@@ -15,13 +15,13 @@ ht-degree: 0%
 
 När du har installerat Enterprise-paketet i Salesforce kan du installera fälten för Sales Connect-händelser i din aktivitetshistorik. Händelsefält för Sales Connect innehåller information som vyer, klick och kampanjer. På så sätt kan du få information om dina e-postmeddelanden direkt importerade till Salesforce.
 
-Se till att du samarbetar med din Salesforce-administratör när du utför de här stegen. I det här exemplet ska vi installera fälten på **sidlayouten** Leads. Du kan även installera fälten på sidlayouterna för kontakt, konto och säljprojekt. Kom ihåg att när du loggar e-postmeddelanden till konton och säljprojekt måste du ha kontakten som du skickar som en kontaktroll.
+Se till att du samarbetar med din Salesforce-administratör när du utför de här stegen. I det här exemplet ska vi installera fälten på sidlayouten **Leads**. Du kan även installera fälten på sidlayouterna för kontakt, konto och säljprojekt. Kom ihåg att när du loggar e-postmeddelanden till konton och säljprojekt måste du ha kontakten som du skickar som en kontaktroll.
 
-1. Klicka på **Konfigurera**.
+1. Klicka på **Inställningar**.
 1. Klicka på **Anpassa**.
 1. Klicka på **Leads**.
 1. Klicka på **Sidlayouter**.
-1. Klicka på **Redigera** bredvid den sidlayout som du vill ändra.
+1. Klicka på **Redigera** bredvid sidlayouten som du vill ändra.
 
    >[!NOTE]
    >
@@ -30,7 +30,7 @@ Se till att du samarbetar med din Salesforce-administratör när du utför de h�
 1. Bläddra nedåt till avsnittet Aktivitetshistorik.
 1. Klicka på den skiftnyckel som du vill redigera.
 1. Markera de Sales Connect-fält som du vill ta med i avsnittet Aktivitetshistorik. Om du inte ser Sales Connect-fält här kan du ha installerat fel Salesforce-paket.
-1. Klicka på **Lägg** till om du vill flytta fälten.
+1. Klicka på **Lägg till** om du vill flytta fälten.
 1. Klicka på **OK**.
 1. Klicka på **Spara**.
 
