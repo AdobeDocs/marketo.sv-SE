@@ -19,7 +19,7 @@ Allt du behöver göra är att välja när du vill att dina e-postmeddelanden sk
 
 Om du inte har schemalagt ditt första steg eller behöver välja en&quot;Skicka vid&quot;-tid blir du ombedd att välja när din kampanj ska skickas, varje gång du lägger till en person eller en grupp.
 
-Öppna spärren Lägg till i kampanj genom att antingen lägga till enskilda personer, en grupp eller valda personer och klicka på **Nästa**.
+Öppna spärren Lägg till i kampanj, antingen genom att lägga till enskilda personer, en grupp eller valda personer och klicka på **Nästa**.
 
 När du har klickat på **Nästa** kan du förhandsgranska det första e-postmeddelandet.
 
