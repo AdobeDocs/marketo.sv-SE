@@ -38,7 +38,7 @@ Använd Program Analyzer för att identifiera era mest effektiva program genom a
 
    >[!TIP]
    >
-   >Ett snabbt sätt att filtrera program till en enda kanal är att välja **Visa > Efter kanal**, klicka på bubblan för den kanalen och sedan klicka på kanalnamnet i popup-dialogrutan.
+   >Ett snabbt sätt att filtrera program till endast en kanal är att välja **Visa > Efter kanal**, klicka på bubblan för den kanalen och sedan klicka på kanalnamnet i popup-dialogrutan.
 
 1. Använd listrutan X-axel för att välja ett mått för den vågräta axeln. Vi börjar med Programkostnad.
 
@@ -68,13 +68,13 @@ Använd Program Analyzer för att identifiera era mest effektiva program genom a
 
    >[!NOTE]
    >
-   >Många av de mätvärden du kan välja i programanalysen är tillgängliga med beräkningar med första beröringen (FT) och multitouch (MT). Det är viktigt att förstå [skillnaden mellan FT- och MT-attribuering](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >Många av de mätvärden du kan välja i programanalysen är tillgängliga med beräkningar med första beröringen (FT) och multitouch (MT). Det är viktigt att förstå skillnaden [mellan FT- och MT-attribuering](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Se bubblorna ändra storlek i diagrammet.
 
    ![](assets/image2014-9-17-18-3a54-3a57.png)
 
-   Genom att lägga till **(FT) Revenue Won**(FT) ser vi snabbt att Origami Expo visserligen har köpt många nya namn, men att det ger en relativt liten intäkt. Vi ser också att Paper Fest 12-programmet får färre men bättre namn eftersom det påverkar fler intäkter (större bubbla).
+   Genom att lägga till **(FT) Revenue Won** ser vi snabbt att medan Origami Expo köpte många nya namn resulterar det i relativt liten intäkt. Vi ser också att Paper Fest 12-programmet får färre men bättre namn eftersom det påverkar fler intäkter (större bubbla).
 
 1. Använd listrutan Färg för att lägga till ett fjärde mått. Vi ska titta på (FT) Revenue to Investment.
 
@@ -100,4 +100,4 @@ Vi ser att Paper Fest 12-programmet inte bara påverkar mer intäkter (större b
 
 >[!NOTE]
 >
->Läs mer om avancerad analys i [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>Läs mer om avancerad analys i [Inkomstcykelutforskaren](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
