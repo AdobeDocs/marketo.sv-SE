@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Konfigurera en analys av affärsmöjlighet {#configure-an-opportunity-influence-analyzer}
+# Konfigurera en analys av säljprojektspåverkan {#configure-an-opportunity-influence-analyzer}
 
-När du har [skapat en analys](create-an-opportunity-influence-analyzer.md)av affärsmöjlighet kan du konfigurera de typer av [intressanta stunder](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) som ingår.
+När du har [skapat en analys av säljprojektspåverkan](create-an-opportunity-influence-analyzer.md) kan du konfigurera de typer av [intressanta stunder](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) som ingår.
 
 >[!PREREQUISITES]
 >
@@ -28,7 +28,7 @@ När du har [skapat en analys](create-an-opportunity-influence-analyzer.md)av af
 
    ![](assets/image2014-9-17-12-3a28-3a33.png)
 
-   Om det finns för många intressanta stunder i analysdiagrammet kan du minska dem genom att avmarkera personer på **inställningspanelen** eller genom att minska typerna av intressanta stunder.
+   Om det finns för många intressanta stunder i analysdiagrammet kan du minska dem genom att avmarkera personer på panelen **Inställningar** eller genom att minska typerna av intressanta stunder.
 
 1. Om du vill konfigurera vilka typer av intressanta stunder som ska inkluderas går du till fliken Inställningar och drar i filtret Intressanta stunder.
 
