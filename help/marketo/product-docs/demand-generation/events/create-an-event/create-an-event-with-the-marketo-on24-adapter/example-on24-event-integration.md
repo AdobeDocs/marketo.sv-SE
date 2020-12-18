@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Exempel på händelseintegrering ON24 {#example-on-event-integration}
+# Exempel på ON24-händelseintegrering {#example-on-event-integration}
 
 Här är ett exempel på en händelse, inklusive kampanjer, för ett ON24-webbinarium. När du skapar en händelse måste du testa kampanjerna innan du kör dem.
 
@@ -21,7 +21,7 @@ Här är ett exempel på en händelse, inklusive kampanjer, för ett ON24-webbin
 
    ![](assets/image2015-12-22-15-3a35-3a15.png)
 
-1. Välj en **kampanjmapp** där händelsen ska finnas.
+1. Välj en **kampanjmapp** där händelsen ska visas.
 
    ![](assets/image2015-12-22-15-3a39-3a51.png)
 
@@ -41,33 +41,33 @@ Här är ett exempel på en händelse, inklusive kampanjer, för ett ON24-webbin
 
    ![](assets/image2015-12-22-15-3a48-3a20.png)
 
-## Bjud in (gruppkampanj)  {#invite-batch-campaign}
+## Bjud in (gruppkampanj) {#invite-batch-campaign}
 
-* **Smart List** - Definiera vem du ska bjuda in till händelsen.
+* **Smart lista**  - Ange vem du vill bjuda in till händelsen.
 * **Flöde**
 
    * Skicka e-post - Om det här är en lokal resurspost får den följande namnkonvention: EventName.EmailName. Du kan också använda globala e-postmeddelanden.
    * Ändra status i progression - Ange som webbinarium > Inbjuden.
 
-* **Schema** - Ange datumet för den inbjudan som ska skickas.
+* **Schema**  - Ange datumet för den inbjudan som ska skickas.
 
 ## Registrering/bekräftelse (utlösarkampanj) {#registration-confirmation-trigger-campaign}
 
 * **Smart List**
 
-   * Starta kampanjen baserat på **ifyllningsformulär**. Se till att du inkluderar den landningssida som formuläret finns på med **Lägg till begränsning**, särskilt om formuläret används på flera landningssidor.
+   * Utlös kampanjen baserat på **Fyller i formulär**. Se till att du inkluderar landningssidan som formuläret är aktivt på med **Lägg till begränsning**, särskilt om formuläret används på flera landningssidor.
 
 >[!CAUTION]
 >
->Du måste använda ett Marketo-formulär för att registrera personer för händelsen, eller ett icke-Marketo-formulär med rätt API-integrering för att skicka registreringsdata till Marketo. Detta är viktigt för att integreringen av din Event Partner ska lyckas. **OBS**: Om du använder ett Marketo-formulär på en icke-Marketo-landningssida kommer utlösaren att vara **Fyll i formulär** med formulärnamnet.
+>Du måste använda ett Marketo-formulär för att registrera personer för händelsen, eller ett icke-Marketo-formulär med rätt API-integrering för att skicka registreringsdata till Marketo. Detta är viktigt för att integreringen av din Event Partner ska lyckas. **OBS**: Om du använder ett Marketo-formulär på en icke-Marketo-landningssida kommer utlösaren att vara  **Fyll i** formulär med formulärnamnet.
 
 ![](assets/image2015-12-22-15-3a50-3a22.png)
 
 * **Flöde**
 
-   * **Ändra status i progression** - Ange som webbinarium > Registrerad. **VARNING**: Det här flödessteget krävs när du konfigurerar din underordnade kampanj. När en persons status ändras till **Registrerad**, skickar Marketo registreringsinformationen till ON24.
+   * **Ändra status i progression**  - Ange som webbinarium > Registrerad. **VARNING**: Det här flödessteget krävs när du konfigurerar din underordnade kampanj. När en persons progressionsstatus ändras till **Registrerad**, skickar Marketo registreringsinformationen till ON24.
 
-   * **Skicka e-post** - bekräftelsemeddelande ( **använd** så att de som har registrerat sig fortfarande får det).
+   * **Skicka e-post**  - Bekräftelsemeddelande (inställt på  **** Åtgärd, även att personer som har registrerat sig fortfarande får det).
 
 ![](assets/image2015-12-22-15-3a52-3a9.png)
 
@@ -75,19 +75,19 @@ Här är ett exempel på en händelse, inklusive kampanjer, för ett ON24-webbin
 
 ## Påminnelse (gruppkampanj) {#reminder-batch-campaign}
 
-* **Smart List** - Filtrera med **Medlem i program** och ange status till **Registrerad**.
+* **Smart List** - Filtrera med  **Medlem i** program och ställ in statusen på  **Registrerad**.
 
-* **Flöde** - Skicka e-post (påminnelse-e-post).
+* **Flow**  - Send Email (Reminder Email).
 
-**OBS**: Du kan använda en liknande kampanj för att skicka ett *annat* uppföljningsmeddelande till personer som har bjudits in men som inte har registrerat sig än.
+**OBS**: Du kan använda en liknande kampanj för att skicka ett  ** annat uppföljningsmeddelande via e-post till personer som var inbjudna men som inte har registrerat sig än.
 
 ## Uppföljningskampanj (batch- eller utlösarkampanj) {#follow-up-campaign-batch-or-trigger-campaign}
 
-* **Smart List** - utlösare baserad på förändringar i programstatus.
+* **Smart List**  - Utlösare baserad på förändringar i programstatus.
 
 ![](assets/image2015-12-22-15-3a57-3a25.png)
 
-* **Flöde** - Skicka e-post. Använd alternativ för att skicka olika e-postmeddelanden baserat på programstatus.
+* **Flöde**  - Skicka e-post. Använd alternativ för att skicka olika e-postmeddelanden baserat på programstatus.
 
 ![](assets/ten.png)
 
