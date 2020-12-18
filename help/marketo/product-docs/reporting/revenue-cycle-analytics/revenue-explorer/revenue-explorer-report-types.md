@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Rapporttyper för intäktsutforskaren {#revenue-explorer-report-types}
+# Rapporttyper {#revenue-explorer-report-types} för Intäktsutforskaren
 
 Nedan följer de typer av rapporter som du kommer att stöta på om du använder Revenue Cycle Analytics.
 
