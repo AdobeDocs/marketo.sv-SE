@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >I den här artikeln beskrivs hur du använder den gamla Google Standard Analytics, men vi rekommenderar att du går över till Universal Analytics.
 >
->Om du inte redan använder spårningskoden [för](https://developers.google.com/analytics/devguides/collection/analyticsjs/)analytics.js rekommenderar Google att du taggar om webbplatsen för att använda den. Följande har tagits bort av Google:
+>Om du inte redan använder [analytics.js-spårningskoden](https://developers.google.com/analytics/devguides/collection/analyticsjs/) rekommenderar Google att du taggar om webbplatsen så att den används. Följande har tagits bort av Google:
 >
 >* ga.js
 >* urchin.js
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 >
 >
-Se hur man integrerar [webbpersonalisering med Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+Se hur du kan integrera [webbpersonalisering med Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
 
 ## Introduktion {#introduction}
 
@@ -66,15 +66,15 @@ Mät era RTP-kampanjer och korrelera dem med det övergripande genomsnittliga an
 
 ## Konfigurera RTP med Google Analytics {#setting-up-rtp-with-google-analytics}
 
-1. Lägg till e-postmeddelandet [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b)som en Läs och analysera-användare på ditt GA-konto. Mer information finns [här](https://support.google.com/analytics/answer/2884495?hl=en).
+1. Lägg till e-postadressen [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b) som en Läs och analysera-användare till ditt GA-konto. Mer information finns i [här](https://support.google.com/analytics/answer/2884495?hl=en).
 1. I ditt RTP-konto. Gå till **Kontoinställningar**.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
-1. Under **Kontoinställningar**, **Domän** och **analys**
+1. Under **Kontoinställningar**, **Domän** och **Analytics**
 1. Klicka på** Google Analytics.**
-1. Aktivera relevanta **anpassade variabler** och **händelser** för att lägga till dessa data från RTP till Google Analytics.
-1. Ange **facknumret** för att skicka anpassade variabeldata (standard är 1,2).
+1. Aktivera relevanta **anpassade variabler** och **händelser** för att lägga till data från RTP till Google Analytics.
+1. Ange **kortplatsen** för att skicka anpassade variabeldata (standard är 1,2).
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
@@ -82,12 +82,12 @@ Klicka på **SPARA**.
 
 >[!NOTE]
 >
->För att kunna skicka segmentdata till GA, under sidan [](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) Redigera segment i RTP-plattformen, markerar du kryssrutan **Skicka händelse till Google Analytics på segmentmatchning**.
+>För att kunna skicka segmentdata till GA markerar du kryssrutan **Skicka händelse till Google Analytics på segmentmatchning** under sidan [Redigera segment](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) på RTP-plattformen.
 
 ## Konfigurera Google Analytics-rapporter med RTP-data {#setting-up-google-analytics-reports-with-rtp-data}
 
 I Google Analytics kan du använda kontrollpaneler, GA-segmentering och rapportering för att visa dina RTP-data:
 
-* [Kontrollpanelerna](https://support.google.com/analytics/answer/1068216?hl=en) ger en översikt över webbplatsens prestanda.
+* [På ](https://support.google.com/analytics/answer/1068216?hl=en) kontrollpanelerna finns en översikt över webbplatsens prestanda.
 * Ett GA-segment är avsett att filtrera besökare i GA-gränssnittet och visa trafiken per segment. Se hur du skapar ett segment [här](https://support.google.com/analytics/answer/3124493?hl=en).
-* Skapa [anpassade rapporter](https://support.google.com/analytics/answer/1033013?hl=en) för att visa och/eller konfigurera schemalagda e-postmeddelanden. Se under Anpassning > Ny anpassad rapport.
+* Skapar [anpassade rapporter](https://support.google.com/analytics/answer/1033013?hl=en) för att visa och/eller konfigurera schemalagda e-postmeddelanden. Se under Anpassning > Ny anpassad rapport.
