@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Lägga till en bild på en landningssida med valfri form {#add-an-image-to-a-free-form-landing-page}
+# Lägg till en bild på en startsida med valfri form {#add-an-image-to-a-free-form-landing-page}
 
 >[!PREREQUISITES]
 >
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 
 
-1. Välj en startsida för frihandslandning och klicka på **Redigera** **utkast**.
+1. Välj en startsida för frihandslandning och klicka på **Redigera** **Utkast**.
 
    ![](assets/landingpageeditdraft.jpg)
 
-1. Dra över **bildelementet** i redigeraren.
+1. Dra över elementet **Bild** i redigeraren.
 
    ![](assets/image2015-5-21-15-3a38-3a58.png)
 
