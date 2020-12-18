@@ -29,25 +29,25 @@ Marketo Sales Insight använder stjärnor och lågor för att prioritera leads. 
 
 ![](assets/image2014-9-16-13-3a38-3a6.png)
 
-1. Klicka på **Redigera** under Inställningar för **leadpoäng**.
+1. Klicka på **Redigera** under **Leadbedömningsinställningar**.
 
    ![](assets/image2014-9-16-13-3a38-3a17.png)
 
-1. Välj **bedömningsmetod** .
+1. Välj **Bedömningsmetod**.
 
    >[!NOTE]
    >
    >**Definition**
    >
    >
-   >**Dynamisk** - är ett procentvärde som härleds från [relativa data](priority-urgency-relative-score-and-best-bets.md). Häftiga grejer. Den här metoden rekommenderas.
+   >**Dynamisk**  - är ett procentvärde som härleds från  [relativa data](priority-urgency-relative-score-and-best-bets.md). Häftiga grejer. Den här metoden rekommenderas.
    >
    >
-   >**Statisk** - Gör att du kan definiera exakta poängtal - inga fler procenttal, inga fler hemliga auktioner.
+   >**Statisk**  - Gör att du kan definiera exakta poängtal - inga fler procenttal, inga fler hemliga auktioner.
 
    ![](assets/image2014-9-16-13-3a38-3a31.png)
 
-1. Redigera procentparenteserna efter dina önskemål och **spara**.
+1. Redigera procentparenteserna efter dina önskemål och **Spara**.
 
    >[!TIP]
    >
