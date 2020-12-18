@@ -57,7 +57,7 @@ Du kan ta bort ett filter när som helst genom att klicka på X:et bredvid det. 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Anpassade attribut</strong></td> 
-   <td colspan="1"><p>De här bestäms av dig. Alla fält som <a href="http://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">du aktiverar</a> för affärsmöjlighetsanalysen kan filtreras i Performance Insights.</p></td> 
+   <td colspan="1"><p>De här bestäms av dig. Alla fält <a href="http://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">du aktiverar</a> för affärsmöjlighetsanalysen kan filtreras på i Prestandainsikter.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Investeringsperiod</strong></p></td> 
