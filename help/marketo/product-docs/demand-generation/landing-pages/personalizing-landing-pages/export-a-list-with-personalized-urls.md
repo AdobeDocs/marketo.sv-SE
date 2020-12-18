@@ -22,11 +22,11 @@ ht-degree: 0%
 
 
 
-1. Markera listan eller den smarta listan, klicka på fliken **Leads** för att visa resultatet och klicka sedan på excel-ikonen. INLINE Kontrollera att du har **Marketo Unique Code **and **Marketo Unique Name** [columns visible](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+1. Markera listan eller den smarta listan, klicka på fliken **Leads** för att få resultaten och klicka sedan på Excel-ikonen. INLINE Kontrollera att du har **Marketo-unik kod **och **Marketo-unikt namn** [synliga kolumner](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
-1. Markera **Inkludera anpassad URL-adress**, sök efter och välj den landningssida som du vill generera URL-adresser för.
+1. Markera **Inkludera anpassad URL**, sök efter och välj den startsida som du vill generera URL:er för.
 
    ![](assets/image2014-9-18-13-3a36-3a42.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
    >
    >Om du ser flera URL-adresser för samma landningssida beror det troligtvis på att du har ändrat sidans URL-adress någon gång tidigare och skapat en omdirigering.
 
-1. Välj en **stil** och klicka på **Exportera**.
+1. Välj ett **format** och klicka på **Exportera**.
 
    ![](assets/image2014-9-18-13-3a37-3a6.png)
 
