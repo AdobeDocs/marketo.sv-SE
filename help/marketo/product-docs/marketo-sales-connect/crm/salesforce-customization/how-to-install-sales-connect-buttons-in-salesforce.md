@@ -26,5 +26,5 @@ Installera enkelt Call med Marketo Sales Connect, Send Marketo Sales Email och L
 
    >[!NOTE]
    >
-   >Du kan upprepa de här stegen för att installera dem i kontaktlayouten. Var noga med att välja **Kontakter** under steg 3.
+   >Du kan upprepa de här stegen för att installera dem i kontaktlayouten. Var noga med att välja **Kontakter** för steg 3.
 
