@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Lägg till säljprojektskolumner i en lead-rapport {#add-opportunity-columns-to-a-lead-report}
 
-Om du vill visa statistik om affärsmöjligheter i dina [personrapporter](http://docs.marketo.com/display/docs/basic+reporting)kan du lägga till kolumner för affärsmöjligheter.
+Om du vill visa statistik om affärsmöjligheter i dina [personrapporter](http://docs.marketo.com/display/docs/basic+reporting) kan du lägga till kolumner för affärsmöjligheter.
 
-1. Gå till området **Marknadsföringsaktiviteter** .
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/ma.png)
 
-1. Välj rapporten i navigeringsträdet och klicka på fliken **Inställningar** .
+1. Välj din rapport i navigeringsträdet och klicka på fliken **Inställningar**.
 
    ![](assets/two.png)
 
-1. Dubbelklicka på **säljprojektskolumner**.
+1. Dubbelklicka på **Affärsmöjlighetskolumner**.
 
    ![](assets/three.png)
 
@@ -39,7 +39,7 @@ Om du vill visa statistik om affärsmöjligheter i dina [personrapporter](http:/
    >
    >Rulla åt höger om du vill se fler kolumner.
 
-1. Om du vill [lägga till eller ta bort kolumner från rapporten](select-report-columns.md)klickar du på en kolumnrubrik och väljer **Kolumner**.
+1. Om du vill [lägga till eller ta bort kolumner från rapporten](select-report-columns.md) klickar du på en kolumnrubrik och väljer **Kolumner**.
 
    ![](assets/six.png)
 
@@ -51,8 +51,8 @@ Om du vill visa statistik om affärsmöjligheter i dina [personrapporter](http:/
 
    | Kolumn | Beskrivning |
    |---|---|
-   | Ingen möjlighet | Antal personer som *inte* är en primär säljprojektskontakt. |
-   | Dagar utan affärsmöjlighet | Genomsnittlig ålder i dagar för personer som *inte* är en primär kontakt. |
+   | Ingen möjlighet | Antal personer som *inte* är en primär affärsmöjlighetskontakt. |
+   | Dagar utan affärsmöjlighet | Genomsnittlig ålder i dagar för personer som är *inte* en primär kontakt. |
    | Har möjlighet | Antal personer som är en primär säljprojektskontakt. |
    | Har möjlighet % | Procentandel personer som är en primär säljprojektskontakt. |
    | Dagar till affärsmöjlighet | Genomsnittligt antal dagar för konvertering från person till primär affärsmöjlighetskontakt. |
@@ -71,12 +71,12 @@ Om du vill visa statistik om affärsmöjligheter i dina [personrapporter](http:/
    >**Relaterade artiklar**
    >
    >
-   >Lär dig hur du [hanterar rapportens](configure-report-size.md)storlek.
+   >Lär dig hur du [hanterar storleken på din rapport](configure-report-size.md).
 
    >[!NOTE]
    >
    >**Djupdykning**
    >
    >
-   >Se vad mer du kan göra med rapporter på djupet i [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) .
+   >Se vad mer du kan göra med rapporter i djupdykningen [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
 
