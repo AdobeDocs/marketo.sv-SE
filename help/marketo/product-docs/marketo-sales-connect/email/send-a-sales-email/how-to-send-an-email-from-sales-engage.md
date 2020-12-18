@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Skicka ett e-postmeddelande från säljare {#how-to-send-an-email-from-sales-engage}
+# Så här skickar du ett e-postmeddelande från säljare {#how-to-send-an-email-from-sales-engage}
 
 1. Klicka på knappen **Disponera** längst upp till höger i kommandocentralen.
 1. Skriv mottagarens e-postadress och namn.
