@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Exportera en rapport för skatteutforskaren {#exporting-a-revenue-explorer-report}
+# Exportera en Intresseutforskarrapport {#exporting-a-revenue-explorer-report}
 
 Du kan exportera alla intäktsutforskarrapporter och dela dem med vem som helst.
 
-1. Klicka på ikonen Kugga, välj **Exportera** och välj ett filformat.
+1. Klicka på kugghjulsikonen, välj **Exportera** och välj ett filformat.
 
    ![](assets/image2015-3-26-14-3a2-3a19.png)
 
@@ -30,7 +30,7 @@ Du kan exportera alla intäktsutforskarrapporter och dela dem med vem som helst.
    >    * CSV
 
 
-1. Välj **sidformat** och **orientering** och klicka på **Exportera**.
+1. Välj önskat **sidformat** och **orientering** och klicka på **Exportera**.
 
    ![](assets/image2015-3-27-16-3a18-3a34.png)
 
