@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Filtrera en kampanjaktivitetsrapport {#filter-a-campaign-activity-report}
 
-Fokusera på era [kampanjaktivitetsrapporter](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)om specifika [smarta kampanjer](http://docs.marketo.com/display/docs/smart+campaigns).
+Fokusera din [kampanjaktivitetsrapport](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)på specifika [smarta kampanjer](http://docs.marketo.com/display/docs/smart+campaigns).
 
-1. Gå till **marknadsföringsaktiviteter** (eller **Analytics**) och välj din kampanjaktivitetsrapport.
+1. Gå till **Marknadsföringsaktiviteter** (eller **Analytics**) och välj din kampanjaktivitetsrapport.
 
    ![](assets/image2014-9-16-16-3a13-3a56.png)
 
-1. Klicka på fliken **Konfigurera** och dubbelklicka på **Kampanjer.**
+1. Klicka på fliken **Inställningar** och dubbelklicka på **Kampanjer.**
 
    ![](assets/image2014-9-16-16-3a14-3a1.png)
 
@@ -31,7 +31,7 @@ Fokusera på era [kampanjaktivitetsrapporter](../../../../product-docs/reporting
    >
    >Om du väljer en mapp innehåller rapporten allt som finns i mappen när rapporten körs.
 
-1. Du är klar! Klicka på fliken **Rapport** för att *bara* se de valda smarta kampanjerna i rapporten.
+1. Du är klar! Klicka på fliken **Rapport** om du vill visa *bara* de valda smarta kampanjerna i rapporten.
 
    ![](assets/image2014-9-16-16-3a14-3a32.png)
 
