@@ -25,7 +25,7 @@ Med hänvisningserbjudanden får du en anledning att hänvisa sina vänner. Skap
 
    ![](assets/image2014-9-19-11-3a3-3a23.png)
 
-1. Klicka på **Hänvisningserbjudande i** det **lokala tillgångsgalleriet.**
+1. I **Lokalt tillgångsgalleri** klickar du på **Referenserbjudande.**
 
    ![](assets/image2014-9-19-11-3a3-3a31.png)
 
@@ -43,7 +43,7 @@ Med hänvisningserbjudanden får du en anledning att hänvisa sina vänner. Skap
 
    ![](assets/image2014-9-19-11-3a3-3a49.png)
 
-1. Lägg till en länk till reglerna i ditt erbjudande. Ange **URL-adressen.**
+1. Lägg till en länk till reglerna i ditt erbjudande. Ange **URL.**
 
    ![](assets/image2014-9-19-11-3a3-3a57.png)
 
@@ -59,7 +59,7 @@ Med hänvisningserbjudanden får du en anledning att hänvisa sina vänner. Skap
 
    >[!TIP]
    >
-   >Om du vill ändra standardinställningarna i ditt hänvisningserbjudande klickar du på **Bakåt**. Om du vill spara ditt arbete för senare bruk utan att godkänna klickar du på **Stäng.**
+   >Om du vill ändra något av standardvärdena i ditt hänvisningserbjudande klickar du på **Tillbaka**. Om du vill spara ditt arbete för senare utan godkännande klickar du på **Stäng.**
 
    ![](assets/image2014-9-19-11-3a4-3a11.png)
 
