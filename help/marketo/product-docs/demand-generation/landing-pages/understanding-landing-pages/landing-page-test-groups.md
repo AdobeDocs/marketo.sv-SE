@@ -30,7 +30,7 @@ Marketo håller reda på antalet sidvisningar och formulärslutföranden på var
    >    
    >    
    >    * Högerklicka på en landningssida i trädet och välj **Konvertera till testgrupp**
-   >    * Skapa en testgrupp för landningssidor i ett program genom att välja **AB-testgrupp** på menyn **Ny lokal resurs**
+   >    * Skapa en testgrupp för landningssidor i ett program genom att välja **AB Test Group** på menyn **Ny lokal resurs**
 
 
 1. Ange ett namn och en valfri beskrivning. Markera de landningssidor som du vill testa och klicka på **Skapa**.
@@ -41,7 +41,7 @@ Marketo håller reda på antalet sidvisningar och formulärslutföranden på var
    >
    >Endast ej godkända landningssidor är tillgängliga.
 
-1. Högerklicka på respektive landningssida och välj **Godkänn**.
+1. Högerklicka på varje landningssida och välj **Godkänn**.
 
    ![](assets/three-1.png)
 
