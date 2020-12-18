@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Avbeställ prenumeration - översikt {#unsubscribe-overview}
+# Avbeställ översikt {#unsubscribe-overview}
 
 Det blir allt viktigare för organisationer att följa lagar om e-postsekretess. För att underlätta detta har vi förbättrat vår avprenumeration.
 
