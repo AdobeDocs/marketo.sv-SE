@@ -31,16 +31,16 @@ Du kan enkelt lägga till leads eller kontakter till smarta Marketinkampanjer in
 
    ![](assets/three.png)
 
-1. Rulla nedåt till Marketo Sales Insight, klicka på listrutan **Åtgärder** , välj **Lägg till i Marketo Campaign** och klicka på&#x200B;**Gå.**
+1. Rulla ned till Marketo Sales Insight, klicka på listrutan **Åtgärder**, välj **Lägg till i Marketo Campaign,** och klicka på&#x200B;**Gå.**
 
    ![](assets/four.png)
 
-1. Klicka på listrutan **Campaign Name** (Kampanjnamn), välj den önskade Marketo-kampanjen och klicka på **Add to Marketo Campaign**(Lägg till i Marketingkampanj).
+1. Klicka på listrutan **Kampanjnamn**, välj önskad Marketo-kampanj och klicka på **Lägg till i Marketo Campaign**.
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >För att kampanjen ska visas i listrutan använder du [**kampanjutlösaren** , med](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)Sales Insight **** som källa, när du ställer in kampanjen.
+   >För att kampanjen ska visas i listrutan använder du [**Kampanjen är begärd** utlösare](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), med **Sales Insight** som källa när du konfigurerade kampanjen.
 
 Och det är allt! Personen läggs till i er Marketo-kampanj.
