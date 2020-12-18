@@ -17,9 +17,9 @@ Med intäktsmodelleraren och intäktsutforskaren får du insikt i hur era leads 
 
 >[!NOTE]
 >
->Kontrollera att den godkända modellen har faser på framgångsbanan med alternativet **Starta spårning efter konto** markerat
+>Kontrollera att den godkända modellen har faser på framgångsbanan med **Starta spårning efter konto** markerat
 
-1. När det har gått tillräckligt lång tid för att samla in användbara data väljer du **Intresseutforskaren** under **My Marketo Home**.
+1. När det har gått tillräckligt mycket tid för att samla in användbara data väljer du **Intäktsutforskaren** under **Mitt Marketo-startsida**.
 
    ![](assets/image2015-4-29-16-3a36-3a2.png)
 
@@ -27,15 +27,15 @@ Med intäktsmodelleraren och intäktsutforskaren får du insikt i hur era leads 
 
    ![](assets/image2015-4-29-16-3a38-3a44.png)
 
-1. Välj **Model Performance Analysis (företag)** som analysområde och klicka på **OK**.
+1. Välj **Modellprestandaanalys (företag)** som analysområde och klicka på **OK**.
 
    ![](assets/image2015-4-29-16-3a41-3a47.png)
 
-1. Vi rekommenderar att du drar i fälten **Stage**, **Month** och **Ending Balance** för att visa hur företag utvecklas i din modell efter månad. Använd filter för att välja de månader du vill ha.
+1. Vi rekommenderar att du drar i fälten **Stage**, **Month** och **Slutsaldo** för att visa hur företag utvecklas i din modell efter månad. Använd filter för att välja de månader du vill ha.
 
    ![](assets/image2015-4-29-17-3a16-3a1.png)
 
-1. När du är klar med konfigurationen av rapporten högerklickar du på **Is Track Company** och väljer **Filter**. Vi använder den här för att begränsa rapporten till endast stadier där **Spärra per konto** har valts.
+1. När du är klar med konfigurationen av rapporten högerklickar du på **Är spårföretag** och väljer **Filter**. Vi använder detta för att begränsa rapporten till endast stadier där **Spårning via konto** är valt.
 
    ![](assets/image2015-4-29-17-3a18-3a9.png)
 
