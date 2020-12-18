@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Om det finns ett fält som du inte längre behöver i formuläret kan det enkelt tas bort. Så här gör du.
 
-1. Gå till **Marknadsföringsaktiviteter** och **aktiviteter**.
+1. Gå till **Marknadsföring** **Aktiviteter**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Markera formuläret och klicka på **Redigera** **formulär**.
+1. Markera formuläret och klicka på **Redigera** **Formulär**.
 
    ![](assets/image2014-9-15-15-3a43-3a36.png)
 
-1. Markera fältet och klicka på ikonen **Ta bort** .
+1. Markera fältet och klicka på ikonen **delete**.
 
    ![](assets/image2014-9-15-15-3a43-3a54.png)
 Klicka på Slutför.
@@ -37,6 +37,6 @@ Klicka på Slutför.
 >
 >**Påminnelse**
 >
->Glöm inte att [godkänna landningssidans utkast](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som har skapats av formulärändringarna.
+>Glöm inte att [godkänna landningssidans utkast](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som skapats av formulärändringarna.
 
 Hur svårt trodde du att det skulle vara att ta bort ett fält?
