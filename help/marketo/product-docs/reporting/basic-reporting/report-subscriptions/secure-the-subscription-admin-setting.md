@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Skydda inställningen för prenumerationsadministration {#secure-the-subscription-admin-setting}
+# Skydda inställningen för prenumerationsadministratör {#secure-the-subscription-admin-setting}
 
 >[!NOTE]
 >
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 En administratör kan välja att kräva inloggning för att visa en rapport.
 
-1. Klicka på **Admin** och sedan på **Inloggningsinställningar**.
+1. Klicka på **Admin** och **Inloggningsinställningar**.
 
    ![](assets/image2015-4-29-12-3a46-3a14.png)
 
