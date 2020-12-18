@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Prestandainsikter - trendöversikt {#performance-insights-trend-overview}
+# Prestandainsikter, trendöversikt {#performance-insights-trend-overview}
 
 Trend visar kanalprestanda för en tidsperiod.
 
