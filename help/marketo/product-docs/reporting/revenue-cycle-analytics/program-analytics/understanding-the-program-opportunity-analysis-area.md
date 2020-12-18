@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Understanding the Program Opportunity Analysis Area {#understanding-the-program-opportunity-analysis-area}
+# Förstå analysområdet för programsäljprojekt {#understanding-the-program-opportunity-analysis-area}
 
 ## Översikt {#overview}
 
@@ -35,7 +35,7 @@ Vilka möjligheter påverkade programmet?
 
 ![](assets/four-1.png)
 
-## Attributionsåtgärder för analys av affärsmöjligheter (blå punkter) {#program-opportunity-analysis-attribution-measures-blue-dots}
+## Attributionsmått för analys av affärsmöjligheter (blå punkter) {#program-opportunity-analysis-attribution-measures-blue-dots}
 
 De mått som är tillgängliga för dig att använda vid analys är vanligtvis siffror och representeras av blå punkter. Dimensioner är attribut som ger olika vyer av måtten och representeras av gula punkter.
 
@@ -49,7 +49,7 @@ Det finns tre typer av åtgärder:
 * Framgångsrelaterade mått, som får multitouch-attribuering (MT).
 * Diverse programrelaterade åtgärder, inklusive det genomsnittliga antalet marknadsföringsåtgärder innan affärsmöjligheter skapas eller stängs.
 
-## Förvärva och framgångsrika åtgärder {#acquisition-and-success-related-measures}
+## Förvärva och lyckade åtgärder {#acquisition-and-success-related-measures}
 
 Förvärvningsrelaterade åtgärder tillskriver programmet genom vilket en leads kontaktinformation först hämtas. En lead behöver inte bli framgångsrik i ett program för att bli godkänd.
 
@@ -169,15 +169,15 @@ Måtten (blå punkter) beräknas, och det krävs en viss tanke och förklaring f
   </tr> 
   <tr> 
    <td>Attribut för affärsmöjlighet</td> 
-   <td><p>Affärsmöjlighet<br>stängdAffärsmöjlighet namn*<br>Affärsmöjlighet ägare<br>NamnAffärsmöjlighet<br>StageOpportunity-typ</p></td> 
+   <td><p>Affärsmöjligheten har stängts<br>Affärsmöjlighetens namn*<br>Affärsmöjlighetens ägare Namn<br>Affärsmöjlighetens fas<br>Affärsmöjlighet</p></td> 
   </tr> 
   <tr> 
    <td>Tidsram för affärsmöjlighet</td> 
-   <td><p>Stängt affärstillfälle år/kvartal/<br>månadSkapat år/kvartal/månad</p></td> 
+   <td><p>Affärsmöjligheten stängd år/kvartal/månad<br>Skapad affärsmöjlighet år/kvartal/månad</p></td> 
   </tr> 
   <tr> 
    <td>Programattribut</td> 
-   <td><p>Program<br>ChannelProgram</p></td> 
+   <td><p>Programkanal<br>Programnamn</p></td> 
   </tr> 
   <tr> 
    <td>Tidsram för programkostnad</td> 
@@ -186,7 +186,7 @@ Måtten (blå punkter) beräknas, och det krävs en viss tanke och förklaring f
  </tbody> 
 </table>
 
-**Alla affärsmöjligheter som gav valfri typ av attribueringskrediter till ett program. Möjligheterna kan påverkas av ett eller flera leads och av ett eller flera program.*
+**Alla affärsmöjligheter som gav valfri typ av attribueringskrediter till ett program. Möjligheter kan påverkas av ett eller flera leads och av ett eller flera program.*
 
 >[!MORELIKETHIS]
 >
