@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Skapa Lotterier {#create-sweepstakes}
+# Skapa Lotteriet {#create-sweepstakes}
 
 En utlottning ger folk en chans att vinna ett pris i utbyte mot att de berättar för sina vänner om dig. Du kan släppa det på landningssidor, på din webbplats och till och med på Facebook.
 
@@ -35,7 +35,7 @@ En utlottning ger folk en chans att vinna ett pris i utbyte mot att de berättar
 
    >[!TIP]
    >
-   >För att spara tid kan du använda alternativet **Klona från** för att kopiera alla inställningar från en befintlig utlottning.
+   >Om du vill spara tid kan du använda alternativet **Klona från** för att kopiera alla inställningar från en befintlig svephög.
 
 1. Klicka på **Lotteriet** **Information**.
 
@@ -49,7 +49,7 @@ En utlottning ger folk en chans att vinna ett pris i utbyte mot att de berättar
    >
    >För daglig- och veckoritning är start- och sluttiderna fasta till 12 respektive 11:59. Om du vill rita en gång kan du välja egna start- och sluttider.
 
-1. Klicka på **Avancerade** **alternativ**.
+1. Klicka på **Avancerade** **Alternativ**.
 
    ![](assets/image2014-9-25-17-3a33-3a19.png)
 
@@ -73,7 +73,7 @@ En utlottning ger folk en chans att vinna ett pris i utbyte mot att de berättar
 
    >[!TIP]
    >
-   >Klicka på **Bakåt** om du vill ändra standardinställningarna för dina utlottningar. Om du vill spara ditt arbete för senare bruk utan att godkänna klickar du på **Stäng**.
+   >Om du vill ändra något av standardvärdena i utlottningen klickar du på **Bakåt**. Om du vill spara ditt arbete för senare bruk utan godkännande klickar du på **Stäng**.
 
    Grattis! Du har skapat en utlottning.
 
@@ -81,6 +81,6 @@ En utlottning ger folk en chans att vinna ett pris i utbyte mot att de berättar
    >
    >**Relaterade artiklar**
    >
-   >Nästa steg är att [publicera dina utlottningar](publish-a-sweepstakes.md), men du kan ändra utseendet och inställningarna för dina utlottningar. Börja med att [anpassa dina utlottningsstilar](customize-sweepstakes-styles.md).
+   >Nästa steg är att [publicera dina utlottningar](publish-a-sweepstakes.md), men du kan ändra utseendet och inställningarna för dina utlottningar. Börja med att [anpassa dina utlottningsformat](customize-sweepstakes-styles.md).
 
 Redaktören öppnas i ett nytt fönster. Standardinställningarna är bra, men du måste ändå konfigurera några detaljer. Vi visar hur man gör i nästa steg.                    Om det finns några problem i lotteriet uppmanas du att åtgärda dem innan lotteriet godkänns.
