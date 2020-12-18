@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Ordlista för dynamiska fält {#dynamic-fields-glossary}
 
-När du skapar en mall i Sales Connect rekommenderar vi alltid att du integrerar dynamiska fält med knappen **MSE Dynamic Fields** .
+När du skapar en mall i Sales Connect rekommenderar vi alltid att du integrerar dynamiska fält med knappen **MSE Dynamic Fields**.
 
-Det här verktyget används för att `auto-personalize your email` spara massor av tid i `pulling information from the People page`taget.
+Det här verktyget används för att `auto-personalize your email` och spara massor av tid med `pulling information from the People page`.
 
 | Dynamiskt fält | Exempel på vad som visas i ditt e-postmeddelande |
 |---|---|
@@ -30,12 +30,12 @@ Det här verktyget används för att `auto-personalize your email` spara massor 
 
 **Saker att notera**:
 
-* Om en kontakts `information is entered incorrectly` eller saknas på sidan Personer, läggs den `will not pull over correctly` in i din mall.
+* Om en kontakts `information is entered incorrectly` eller saknas på sidan Personer, läggs den `will not pull over correctly` till i mallen.
 
-* Skillnaden mellan `{{company}}` och `{{company_friendly}}` är att `{{company_friendly}}` kommer `remove any formal title`, som Inc., LLC. osv., från namnet på din kontakts företag.
-* När du använder `{{company_friendly}}`måste du separera Inc. eller Co. med ett kommatecken i kontaktinformationen. Så här vet Sales Connect vad som ska tas bort när värdet hämtas.
+* Skillnaden mellan `{{company}}` och `{{company_friendly}}` är att `{{company_friendly}}` kommer att `remove any formal title`, t.ex. Inc., LLC osv., från namnet på din kontakts företag.
+* När du använder `{{company_friendly}}` måste du separera Inc. eller Co. med ett kommatecken i kontaktinformationen. Så här vet Sales Connect vad som ska tas bort när värdet hämtas.
 
 >[!TIP]
 >
->Du kan skapa ett eget [anpassat dynamiskt fält](http://docs.marketo.com/x/fADb) för allt du vill ha i dina e-postmeddelanden automatiskt
+>Du kan skapa ett eget [anpassat dynamiskt fält](http://docs.marketo.com/x/fADb) för allt du vill ha automatiskt i dina e-postmeddelanden
 
