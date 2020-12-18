@@ -20,7 +20,7 @@ ht-degree: 0%
 >* Ange lämpliga [flödesåtgärder](http://docs.marketo.com/display/DOCS/Flow+Actions)för att spåra engagemang
 
 
-Konfigurera först ditt event i ReadyTalk konferenscenter. Om du behöver hjälp kan du kolla in [ReadyTalk Resource Center.](https://www.readytalk.com/resources/readytalk)  När du väljer registreringstyp väljer du **förregistrera före mötet**. Om du väljer *Registrera vid mötet* kommer Marketo **inte** att hämta en registrerad status för dina anställda och kommer bara att hämta personstatusen för Deltagad *efter* att webbinariet har avslutats.
+Konfigurera först ditt event i ReadyTalk konferenscenter. Om du behöver hjälp kan du gå till [ReadyTalk Resource Center.](https://www.readytalk.com/resources/readytalk)  När du väljer registreringstyp väljer du  **förregistrera före mötet**. Om du väljer *registrera dig när du möts* kommer Marketo **inte** att hämta en registrerad status för dina personer och kommer endast att hämta en personstatus som Attended *när* webbinariet är avslutat.
 
 Lämna **meddela mig om nya registreringar via e-post** avmarkerat.
 
@@ -30,11 +30,11 @@ Om du använder ReadyTalk för att skicka bekräftelsemeddelanden måste du ocks
 
 >[!NOTE]
 >
->Om du vill schemalägga en Operator Assisted Event ska du klicka på länken **Request Event Services** (Begär händelsetjänster) på vänster sida av hemskärmen för Conference Center för att schemalägga en händelse för vårt Events-team.
+>Om du vill schemalägga en Operator Assisted Event-händelse klickar du på länken **Request Event Services** till vänster i hemskärmen för Conference Center för att schemalägga en händelse för vårt Events-team.
 
 Nu kan du länka din aktivitet till Marketo.
 
-1. Markera händelsen, klicka på **Händelseåtgärder** och slutligen **Händelseinställningar.**
+1. Markera händelsen, klicka sedan på **Händelseåtgärder** och slutligen **Händelseinställningar.**
 
    ![](assets/image2015-5-18-12-3a46-3a47.png)
 
@@ -42,15 +42,15 @@ Nu kan du länka din aktivitet till Marketo.
    >
    >Kanaltypen för den valda händelsen måste vara **webbinarium.**
 
-1. Under **Event Partner** väljer du **ReadyTalk**.
+1. Under **Event Partner,** väljer du **ReadyTalk**.
 
    ![](assets/image2015-5-18-12-3a47-3a59.png)
 
-1. Under **Login** väljer du din ReadyTalk-inloggning.
+1. Under **Inloggning** väljer du din ReadyTalk-inloggning.
 
    ![](assets/image2015-5-18-12-3a48-3a48.png)
 
-1. Under **Händelse** markerar du händelsen som du vill länka och klickar sedan på **Spara**.
+1. Under **Event** markerar du händelsen som du vill länka och klickar sedan på **Spara**.
 
    ![](assets/image2015-5-18-12-3a51-3a35.png)
 
@@ -74,11 +74,11 @@ Nu kan du länka din aktivitet till Marketo.
 
    >[!TIP]
    >
-   >Det kan ta upp till 48 timmar innan data visas i Marketo. Om du fortfarande inte ser något efter att ha väntat så länge väljer du **Uppdatera från webbinariet Provider** på menyn Händelseåtgärder på fliken **Sammanfattning** i händelsen.
+   >Det kan ta upp till 48 timmar innan data visas i Marketo. Om du fortfarande inte ser något efter att ha väntat så länge väljer du **Uppdatera från webbinariet Provider** på menyn Händelseåtgärder på fliken **Sammanfattning** för din händelse.
 
-## Visa schemat  {#viewing-the-schedule}
+## Visa schemat {#viewing-the-schedule}
 
-Klicka på kalenderposten för din aktivitet i [programschemavyn](http://docs.marketo.com/display/docs/program+schedule+view). Schemat visas till höger på skärmen.
+Klicka på kalenderposten för händelsen i [programschemavyn](http://docs.marketo.com/display/docs/program+schedule+view). Schemat visas till höger på skärmen.
 
 ![](assets/image2015-5-18-12-9-58.png)
 
