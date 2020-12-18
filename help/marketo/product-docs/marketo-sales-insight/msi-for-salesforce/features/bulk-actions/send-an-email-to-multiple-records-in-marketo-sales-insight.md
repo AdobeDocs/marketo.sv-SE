@@ -19,21 +19,21 @@ Det är superenkelt att skicka ett Marketo-e-postmeddelande till flera personer 
 
    ![](assets/image2015-6-1-14-3a40-3a35.png)
 
-1. Klicka på **Gå** för att visa alla öppna leads.
+1. Klicka på **Gå** om du vill visa alla öppna leads.
 
    ![](assets/image2015-6-1-14-3a41-3a42.png)
 
-1. I listvyn markerar du alla leads/kontakter som du vill skicka e-post till och klickar på **Skicka Marketo-e-post (klassisk)**.
+1. I listvyn markerar du alla leads/kontakter som du vill skicka e-post till och klickar på **Skicka marknadsföring via e-post (klassisk)**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Om du använder Salesforce Lightning står det&quot; **Skicka Marketo-e-post (blixt)**&quot; på knappen.
+   >Om du använder Salesforce Lightning står det **Skicka marknadsföringsmeddelande (blixt)** på knappen.
 
    >[!TIP]
    >
-   >Ser du inte knappen? Se till att du har [lagt till Marketo-knapparna i listvyn](add-marketo-sales-insight-tab-and-buttons-to-salesforce.md).
+   >Ser du inte knappen? Kontrollera att du har [lagt till Marketo-knappar i listvyn](add-marketo-sales-insight-tab-and-buttons-to-salesforce.md).
 
 1. Skriv e-postmeddelandet nu. Klicka på **Skicka med Marketo **när du är klar.
 
