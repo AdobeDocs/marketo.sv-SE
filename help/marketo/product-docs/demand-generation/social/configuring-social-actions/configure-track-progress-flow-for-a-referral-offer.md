@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Konfigurera förloppsflöde för spår för ett referenserbjudande {#configure-track-progress-flow-for-a-referral-offer}
 
-När du [skapar ett hänvisningserbjudande](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)kan du konfigurera de uppmaningar som visar deltagarnas framsteg mot belöningen.
+När du [skapar ett hänvisningserbjudande](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) kan du konfigurera de uppmaningar som visar deltagarnas framsteg mot belöningen.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -23,17 +23,17 @@ När du [skapar ett hänvisningserbjudande](../../../../product-docs/demand-gene
 
    ![](assets/image2014-9-22-14-3a35-3a31.png)
 
-1. Gå till **Track Progress Flow** > **Social Networks** i förslagsredigeraren.
+1. Gå till **Spåra förloppsflöde** > **Sociala nätverk** i redigeraren för hänvisningserbjudanden.
 
    ![](assets/image2014-9-22-14-3a35-3a43.png)
 
-1. I fönstret **Visa** **&amp;** **Redigera** redigerar du uppmaningen som påminner deltagarna om att logga in på samma sociala nätverk som de använde för att registrera sig för ditt erbjudande.
+1. I fönstret **Visa** **&amp;** **Redigera** redigerar du uppmaningen som påminner deltagarna att logga in på samma sociala nätverk som de använde för att registrera sig för ditt erbjudande.
 
    ![](assets/image2014-9-22-14-3a35-3a58.png)
 
    >[!NOTE]
    >
-   >Markera texten som du kan redigera genom att välja **Visa redigeringar** i det övre högra hörnet.
+   >Markera den text du kan redigera genom att välja **Visa redigeringar** i det övre högra hörnet.
 
 1. Redigera uppmaningen som uppmanar deltagaren att dela länken med fler vänner.
 
