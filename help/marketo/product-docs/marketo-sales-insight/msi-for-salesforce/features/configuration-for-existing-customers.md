@@ -19,10 +19,10 @@ Ställ in följande konfiguration för att börja använda den nya instrumentpan
 >
 >Kontrollera att du har uppgraderat ditt Salesforce-paket till den senaste versionen
 
-## Konfigurera Sales Insight in Marketo {#configure-sales-insight-in-marketo}
+## Konfigurera Sales Insight i Marketo {#configure-sales-insight-in-marketo}
 
 1. Öppna en ny flik i webbläsaren för att hämta Marketo Sales Insights-autentiseringsuppgifterna från ditt Marketo-konto.
-1. Gå till området **Admin** .
+1. Gå till området **Admin**.
 
    ![](assets/configure-1.png)
 
@@ -38,7 +38,7 @@ Ställ in följande konfiguration för att börja använda den nya instrumentpan
 
 ## Konfigurera säljinsikter i Salesforce {#configure-sales-insight-in-salesforce}
 
-1. Klicka på **Konfigurera** i Salesforce.
+1. Klicka på **Inställningar** i Salesforce.
 
    ![](assets/sfdc-1.png)
 
