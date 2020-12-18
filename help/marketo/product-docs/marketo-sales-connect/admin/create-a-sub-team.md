@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/one-1.png)
 
-1. Välj **Teamhantering** under Administratörsinställningar.
+1. Välj **Teamhantering** under Administrationsinställningar.
 
    ![](assets/two-1.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## Lägg till personer i ditt underteam {#add-people-to-your-sub-team}
 
-1. Gå fortfarande till teamhantering och välj gruppen **Alla** .
+1. I Teamhantering väljer du gruppen **Alla**.
 
    ![](assets/five-1.png)
 
