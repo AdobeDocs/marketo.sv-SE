@@ -28,7 +28,7 @@ En segmentering måste godkännas innan den kan användas.
 
    ![](assets/image2017-3-28-14-3a25-3a49.png)
 
-1. I segmenteringen klickar du på **Segmenteringsåtgärder** och sedan **Godkänn**.
+1. Klicka på **Segmenteringsåtgärder** i segmenteringen och **Godkänn**.
 
    ![](assets/image2017-3-28-14-3a46-3a22.png)
 
