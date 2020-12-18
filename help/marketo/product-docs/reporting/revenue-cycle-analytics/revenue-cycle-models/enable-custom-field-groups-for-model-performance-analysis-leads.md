@@ -35,7 +35,7 @@ ht-degree: 0%
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Vad händer när du aktiverar en anpassad fältgrupp som är kopplad till ett anpassat person- eller företagsfält?</strong></p></td> 
    <td colspan="1" rowspan="1"><p>Den anpassade fältgruppen är aktiverad för rapportering i modellresultatanalysområdet (Leads)</p></td> 
-   <td colspan="1" rowspan="1"><p>Själva det anpassade fältet är aktiverat för rapportering i områdena Lead Analysis, Campaign Analysis och Opportunity Analysis.</p><p><strong>OBS!</strong> Anpassade fältgrupper stöds INTE i dessa analysområden, så gruppassociationerna visas inte i intäktscykelutforskaren,<em>bara</em> i det anpassade fältet.</p></td> 
+   <td colspan="1" rowspan="1"><p>Själva det anpassade fältet är aktiverat för rapportering i områdena Lead Analysis, Campaign Analysis och Opportunity Analysis.</p><p><strong>Obs! </strong> Anpassade fältgrupper stöds INTE i dessa analysområden, så gruppassociationerna visas inte i Inkomstcykelutforskaren, <em></em> bara i det anpassade fältet.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -46,7 +46,7 @@ Följ de här stegen för att aktivera en anpassad fältgrupp för rapportering 
 
    ![](assets/one-1.png)
 
-1. Klicka på **Inkomstcykelanalys**.
+1. Klicka på **Intäktscykelanalys**.
 
    ![](assets/two-1.png)
 
@@ -54,7 +54,7 @@ Följ de här stegen för att aktivera en anpassad fältgrupp för rapportering 
 
    ![](assets/three.png)
 
-1. Klicka på listrutan **Fält** och välj den du vill använda.
+1. Klicka på listrutan **Fält** och välj det du vill använda.
 
    ![](assets/four-1.png)
 
