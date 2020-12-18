@@ -48,7 +48,7 @@ Analystabellen innehåller följande information:
    <td colspan="1" rowspan="1">Namnet på resursen för digitalt innehåll. Klicka på <strong>Titel</strong> för att öppna innehålls-URL:en på en ny flik.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Rekommendationsikon </strong><strong></strong></p><p><strong><img alt="--" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1"><p><strong>Rekommendationsikon  </strong><strong></strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></strong></p></td> 
    <td colspan="1">Anger om innehållsdelen har lagts till för <a href="#">Content Recommendations</a>.</td> 
   </tr> 
   <tr> 
@@ -60,17 +60,17 @@ Analystabellen innehåller följande information:
    <td colspan="1" rowspan="1">Webbbesökare som tittade på innehållet och fyllde i ett formulär vid samma besök</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Analysikon</strong></p><p><strong><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1"><p><strong>Analysikon</strong></p><p><strong><img alt="—" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></strong></p></td> 
    <td colspan="1">Se fler analyser av innehållet</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Ta bort ikon</strong></p><p><img alt="--" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
+   <td colspan="1"><p><strong>Ta bort ikon</strong></p><p><img alt="—" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></p></td> 
    <td colspan="1">Tar bort innehållet från innehållsanalysen</td> 
   </tr> 
  </tbody> 
 </table>
 
-## Visa ytterligare innehållsanalyser {#view-additional-content-analytics}
+## Visa ytterligare innehållsanalys {#view-additional-content-analytics}
 
 Klicka på Analysikonen för en del av innehållet.
 
@@ -90,7 +90,7 @@ Ytterligare innehållsanalyser är:
 
 **Trender**
 
-* Ett **trenddiagram** som visar de senaste 30 dagarnas vyer av den specifika delen av innehållet. Håll pekaren över linjediagrammet om du vill visa antalet innehållsvyer från en viss dag
+* Ett **Trender**-diagram som visar de senaste 30 dagarnas vyer av den specifika delen av innehållet. Håll pekaren över linjediagrammet om du vill visa antalet innehållsvyer från en viss dag
 
 ## Ta bort innehåll {#delete-content}
 
