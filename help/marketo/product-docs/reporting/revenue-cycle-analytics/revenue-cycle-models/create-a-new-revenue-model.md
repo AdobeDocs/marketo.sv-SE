@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Skapa en ny intäktsmodell {#create-a-new-revenue-model}
 
-1. Om du vill skapa en ny intäktscykelmodell klickar du på knappen **Analytics** (Analyser) på startskärmen för My Marketo.
+1. Om du vill skapa en ny intäktscykelmodell klickar du på knappen **Analytics** på hemskärmen på My Marketo.
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Klicka på **Ny** på fliken **Analytics** och välj **New Revenue Cycle Model**.
+1. På fliken **Analytics** klickar du på **New** och väljer **New Revenue Cycle Model**.
 
    ![](assets/image2015-4-27-11-3a55-3a51.png)
 
-1. Ett modalt fönster med **New Revenue Cycle Model** visas. Ange ett namn och klicka på **Skapa**.
+1. Ett modalt fönster för **New Revenue Cycle Model** visas. Ange ett namn och klicka på **Skapa**.
 
    ![](assets/image2015-4-27-11-3a57-3a59.png)
 
