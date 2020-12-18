@@ -55,7 +55,7 @@ Den bifogade filen visas längst ned i e-postmeddelandet.
 
    ![](assets/three-4.png)
 
-1. Markera det innehåll som du vill lägga till, klicka på **Innehållet är spårat** och klicka på **Infoga**.
+1. Markera det innehåll du vill lägga till, klicka på reglaget **Innehållet är spårat** och klicka på **Infoga**.
 
    ![](assets/four-4.png)
 
