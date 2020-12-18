@@ -17,13 +17,13 @@ När en grupp har skapats och kontakter har lagts till har du två alternativ n�
 
 ## E-post vald {#email-selected}
 
-Med e-post markerad kan du `select specific recipients in the group` kontakta dig. Den här metoden `allows you to edit each email before they get sent out`.
+Med e-post markerad kan du `select specific recipients in the group` som du vill kontakta. Den här metoden är också `allows you to edit each email before they get sent out`.
 
 >[!NOTE]
 >
 >Den här metoden rekommenderas om du vill skicka e-post till ungefär 15 mottagare eller färre och vill redigera varje e-post.
 
-Du kan vara `add specific content` relevant för varje mottagare innan gruppmeddelandet skickas ut.
+Du kan `add specific content` som är relevant för varje mottagare innan gruppmeddelandet skickas ut.
 
 ## E-posta hela gruppen {#email-entire-group}
 
@@ -33,4 +33,4 @@ Vi ger dig också möjlighet att skicka ett e-postmeddelande till alla i gruppen
 >
 >Den här metoden rekommenderas när du utför större grupputskick.
 
-I gruppen väljer du **E-postgrupp**. Det kommer det att `pull in everyone in the group for you to email`.  Här kan du använda en angiven mall och välja förhandsgranskning för att få en glimt av hur e-postmeddelandet kommer att se ut innan det skickas. När allt ser bra ut, tryck bara på Skicka!
+Välj **E-postgrupp** i gruppen. Det kommer att `pull in everyone in the group for you to email`.  Här kan du använda en angiven mall och välja förhandsgranskning för att få en glimt av hur e-postmeddelandet kommer att se ut innan det skickas. När allt ser bra ut, tryck bara på Skicka!
