@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Alternativ för massutskick {#bulk-sending-options}
 
-Att skicka e-postmeddelanden i grupp är ett bra sätt att öka engagemanget hos potentiella kunder. Sales Connect erbjuder två sätt att skicka e-post i grupp: **Gruppera e-postmeddelanden** och **välj och skicka**. Gruppmeddelanden är ett bra sätt att snabbt skicka hundratals e-postmeddelanden till en målgrupp. Användningen av Välj och Skicka innebär lägre e-postbegränsningar, men ger användaren fler anpassningsmöjligheter.
+Att skicka e-postmeddelanden i grupp är ett bra sätt att öka engagemanget hos potentiella kunder. Sales Connect erbjuder två sätt att skicka e-post i grupp: **Gruppera e-postmeddelanden** och **Markera och skicka**. Gruppmeddelanden är ett bra sätt att snabbt skicka hundratals e-postmeddelanden till en målgrupp. Användningen av Välj och Skicka innebär lägre e-postbegränsningar, men ger användaren fler anpassningsmöjligheter.
 
 Gruppera e-post jämfört med Markera och skicka
 
@@ -28,25 +28,25 @@ Gruppera e-post jämfört med Markera och skicka
  </colgroup> 
  <tbody> 
   <tr> 
-   <th><p><span>Skicka</span><span> typ</span> </p></th> 
-   <th><p><span>Max antal </span><span></span><span>e-postmeddelanden</span> </p></th> 
-   <th><p><span>Initierad </span><span>sändning av</span></p></th> 
-   <th><p><span>Massredigera </span><span>e-postmeddelanden</span> </p></th> 
-   <th><p><span>Redigera</span><span> alla e-postmeddelanden </span><span>unikt</span> </p></th> 
-   <th><p><span>Stöd för mallar och </span><span>dynamiska fält</span> </p></th> 
+   <th><p><span></span><span> SendType</span> </p></th> 
+   <th><p><span>Max antal  </span><span></span><span>e-postmeddelanden</span> </p></th> 
+   <th><p><span>Initierad  </span><span>sändning av</span></p></th> 
+   <th><p><span>Massredigera  </span><span>e-postmeddelanden</span> </p></th> 
+   <th><p><span></span><span> RedigeraAlla e-postmeddelanden  </span><span>unikt</span> </p></th> 
+   <th><p><span>Stöd för mallar och  </span><span>dynamiska fält</span> </p></th> 
   </tr> 
   <tr> 
    <td><p><span>Gruppe-post</span> </p></td> 
-   <td><p><span>1,000</span> </p></td> 
-   <td><p><span>Markera en grupp och klicka på</span><span> knappen </span><span></span><span>"Gruppera åtgärder", eller skriv gruppnamnet i fältet Till. </span> </p></td> 
+   <td><p><span>1 000</span> </p></td> 
+   <td><p><span>Markera en grupp och </span><span> klicka på knappen </span><span> </span><span>"Gruppera åtgärder" eller skriv gruppnamnet i fältet Till.  </span> </p></td> 
    <td><p><span>Ja</span> </p></td> 
    <td><p><span>Nej</span> </p></td> 
    <td><p><span>Ja</span> </p></td> 
   </tr> 
   <tr> 
-   <td><p><span>Markera </span><span>och </span><span>skicka</span> </p></td> 
+   <td><p><span>Markera  </span><span>och  </span><span>skicka</span> </p></td> 
    <td><p><span>200</span> </p></td> 
-   <td><p><span>Markera personer i rutnätet och klicka på knappen"E-posta markerade" i åtgärdsfältet</span><span>,</span><span>eller skriv in mottagare i det stora </span><span>sidofältet</span><span>för e-post.</span></p></td> 
+   <td><p><span>Markera personer i rutnätet och klicka på knappen"E-posta markerade" i åtgärdsfältet</span><span>, </span><span>eller skriv in mottagare i det stora  </span><span>sidofältet</span><span> för e-post.</span></p></td> 
    <td><p><span>Ja</span> </p></td> 
    <td><p><span>Ja</span> </p></td> 
    <td><p><span>Ja</span> </p></td> 
