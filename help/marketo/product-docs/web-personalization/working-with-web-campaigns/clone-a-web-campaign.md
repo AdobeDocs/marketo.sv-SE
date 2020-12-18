@@ -23,13 +23,13 @@ Använd klonfunktionen på webbkampanjsidan för att kopiera kampanjinställning
 
    >[!NOTE]
    >
-   >Använd [filterfunktionen](filter-web-campaigns.md)för att göra det enklare att hitta den webbkampanj du vill ha.
+   >Använd filterfunktionen [](filter-web-campaigns.md) för att göra det enklare att hitta den webbkampanj du vill ha.
 
 1. Klicka på **Klona** för webbkampanjen.
 
    ![](assets/web-campaigns-1-clone-hand.png)
 
-1. Kampanjkloningen kopierar allt innehåll från den befintliga webbkampanjen till den nya klonade kampanjen. Den nya klonade webbkampanjen heter &quot;[CAMPAIGN NAME] Copy&quot;.
+1. Kampanjkloningen kopierar allt innehåll från den befintliga webbkampanjen till den nya klonade kampanjen. Den nya klonade webbkampanjen har titeln &quot;[KAMPANJNAMN] Kopiera&quot;.
 
    ![](assets/image2016-8-18-17-3a8-3a27.png)
 
