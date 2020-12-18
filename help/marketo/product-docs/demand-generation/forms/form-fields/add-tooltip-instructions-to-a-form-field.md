@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# Lägga till verktygstipsinstruktioner i ett formulärfält {#add-tooltip-instructions-to-a-form-field}
+# Lägg till verktygstipsinstruktioner i ett formulärfält {#add-tooltip-instructions-to-a-form-field}
 
-[Tips](add-hint-text-to-a-form-field.md) och instruktioner hjälper användarna att fylla i formulär. Så här lägger du till verktygstipsinstruktioner.
+[Med ](add-hint-text-to-a-form-field.md) handledningar fyller man i blanketter. Så här lägger du till verktygstipsinstruktioner.
 
 >[!NOTE]
 >
 >**Definition**
 >
->Formulärtips **är** text i fältet som försvinner när besökaren börjar skriva i fältet.
+>Formuläret **Tips** är text i fältet som försvinner när besökaren börjar skriva i fältet.
 >
->Formulärinstruktioner **är** små verktygstips som visas när besökaren hovrar över fältet.
+>Formuläret **Instruktioner** är små verktygstips som visas när besökaren hovrar över fältet.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-6.png)
 
-1. Markera **formuläret** och klicka på **Redigera formulär**.
+1. Välj ditt **formulär** och klicka på **Redigera formulär**.
 
    ![](assets/image2014-9-15-14-3a15-3a42.png)
 
-1. Markera fältet och ange **instruktioner**.
+1. Markera fältet och ange **Instruktioner**.
 
    ![](assets/image2014-9-15-14-3a15-3a49.png)
 
@@ -48,7 +48,7 @@ ht-degree: 0%
    >**Påminnelse**
    >
    >
-   >Glöm inte att [godkänna landningssidans utkast](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som har skapats av formulärändringarna.
+   >Glöm inte att [godkänna landningssidans utkast](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som skapats av formulärändringarna.
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 
