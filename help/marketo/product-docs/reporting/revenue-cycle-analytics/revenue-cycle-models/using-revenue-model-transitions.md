@@ -50,7 +50,7 @@ När du skapar modellen och väljer och organiserar dina lagerfaser är det dags
 
    ![](assets/seven.png)
 
-1. När du har konfigurerat regler för alla övergångar klickar du på **Validera** för att verifiera.
+1. När du har konfigurerat regler för alla övergångar klickar du på **Verifiera** för att verifiera.
 
    ![](assets/eight.png)
 
