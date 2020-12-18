@@ -59,11 +59,11 @@ Välj bland vanliga förinställda datumintervall, välj specifika datum och anv
 
 >[!NOTE]
 >
->Datumintervall gäller för både sidan Analytics (Analyser) och sidan Send (Skickar). Alternativet **Jämför** gäller dock bara Analytics-sidan.
+>Datumintervall gäller för både sidan Analytics (Analyser) och sidan Send (Skickar). Alternativet **Jämför** kan bara användas på Analytics-sidan.
 
 ## Kontobaserad marknadsföring {#account-based-marketing}
 
-Om du använder [kontobaserad marknadsföring](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)finns det filter särskilt för dig.
+Om du använder [kontobaserad marknadsföring](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) finns det filter som är specifika för dig.
 
 ![](assets/abm.png)
 
