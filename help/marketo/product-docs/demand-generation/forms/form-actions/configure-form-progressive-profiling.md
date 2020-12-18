@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Konfigurera progressiv profilering av formulär {#configure-form-progressive-profiling}
+# Konfigurera progressiv formulärprofilering {#configure-form-progressive-profiling}
 
 Korta formulär är bra. När någon kommer tillbaka till ett formulär kan du presentera nya fält och progressivt fylla i besökarens profil. Så här gör du.
 
@@ -19,23 +19,23 @@ Korta formulär är bra. När någon kommer tillbaka till ett formulär kan du p
 >
 >För att den här funktionen ska fungera på rätt sätt måste formulärförifyllning vara aktiverat för synliga fält och [inaktiverat](http://docs.marketo.com/display/DOCS/Disable+Pre-fill+for+a+Form+Field) för dolda fält.
 
-1. Gå till **Marknadsföringsaktiviteter** och **aktiviteter**.
+1. Gå till **Marknadsföring** **Aktiviteter**.
 
    ![](assets/ma-1.png)
 
-1. Markera formuläret och klicka på **Redigera** **formulär**.
+1. Markera formuläret och klicka på **Redigera** **Formulär**.
 
    ![](assets/image2014-9-15-12-3a31-3a20.png)
 
-1. Klicka på **Inställningar** under **Formulärinställningar******.
+1. Under **Formulär** **Inställningar** klickar du på **Inställningar**.
 
    ![](assets/image2014-9-15-12-3a31-3a29.png)
 
-1. Ange **Progressiv** **profilering** som **aktiverad**.
+1. Ange **Progressiv** **Profilering** till **Aktiverad**.
 
    ![](assets/image2014-9-15-12-3a31-3a47.png)
 
-1. Nu ska vi konfigurera det. Gå till **Fältinformation** **Information**.
+1. Nu ska vi konfigurera det. Gå till **Fält** **Information**.
 
    ![](assets/image2014-9-15-12-3a31-3a55.png)
 Dra och släpp alla fält som ingår i den progressiva profiluppsättningen.
@@ -47,9 +47,9 @@ Dra och släpp alla fält som ingår i den progressiva profiluppsättningen.
 
    >[!NOTE]
    >
-   >Fälten utanför rutan **Progressiv** **profilering** visas alltid i formuläret, även om de är ifyllda.
+   >Fälten utanför rutan **Progressiv** **Profilering** visas alltid i formuläret, även om de är ifyllda.
 
-1. Markera rutan **Progressiv** **profilering** .
+1. Markera rutan **Progressiv** **Profilering**.
 
    ![](assets/image2014-9-15-12-3a32-3a19.png)
 
@@ -57,7 +57,7 @@ Dra och släpp alla fält som ingår i den progressiva profiluppsättningen.
    >
    >Var försiktig när du använder obligatoriska fält i Progressiv profilering. Dessa fält kan fortfarande lämnas tomma om besökaren anger en ny e-postadress (som skulle skapa en ny person) efter att tidigare ha skickat data för de andra fälten, eftersom de då skulle ignoreras i det senaste formuläret.
 
-1. Välj nu hur många tomma fält du vill att personer ska se i rutan **Progressiv** **profilering** vid varje given tidpunkt.
+1. Välj nu hur många tomma fält du vill att personer ska se i rutan **Progressiv** **Profilering** vid en given tidpunkt.
 
    ![](assets/image2014-9-15-12-3a32-3a26.png)
 
@@ -66,7 +66,7 @@ Dra och släpp alla fält som ingår i den progressiva profiluppsättningen.
    >**Exempel**
    >
    >
-   >Om du väljer **Antal** **för** **tomma** **fält** som 1 visas följande första gången de ser det här formuläret:
+   >Om du väljer **Nummer** **av** **Tomt** **Fält** som 1 visas följande första gången de ser det här formuläret:
    >
    >    
    >    
