@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Ibland kan du behöva spara en standardrapport för att kunna visa den igen senare. Så här kan du göra:
 
-1. Gå till **Analytics** .
+1. Gå till området **Analytics**.
 1. ![](assets/image2015-4-30-11-3a50-3a5.png)
 
 1. Välj en [rapporttyp](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
@@ -26,11 +26,11 @@ Ibland kan du behöva spara en standardrapport för att kunna visa den igen sena
 
    ![](assets/image2015-4-20-17-3a4-3a11.png)
 
-1. **Spara till** en plats och välj en **mapp**.
+1. **Spara** till en plats och välj en  **mapp**.
 
    ![](assets/image2015-4-20-17-3a33-3a25.png)
 
-1. **Namnge** rapporten och klicka på **Spara**.
+1. **Ge** rapporten ett namn och klicka på  **Spara**.
 
    ![](assets/image2015-4-20-17-3a34-3a57.png)
 
@@ -40,5 +40,5 @@ Ibland kan du behöva spara en standardrapport för att kunna visa den igen sena
 
 >[!MORELIKETHIS]
 >
->Lär dig hur du [klonar en rapport för att gruppera rapporter](../../../../product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).
+>Lär dig hur du [klonar en rapport till grupprapporter](../../../../product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).
 
