@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Sammanfattning av prediktivt innehåll {#the-predictive-content-summary}
+# The Predictive Content Summary {#the-predictive-content-summary}
 
 >[!NOTE]
 >
->Beroende på inköpsdatumet kan din Marketo-prenumeration innehålla antingen Marketo Predictive Content eller Content`<sup>AI</sup>`. För dem som använder Predictive Content aktiverar Marketo Content`<sup>AI</sup>` Analytics-funktioner fram till 30 april 2018. Kontakta Marketo Customer Success Manager för att uppgradera till Marketo Content`<sup>AI</sup>`om du vill behålla funktionerna efter detta datum.
+>Beroende på inköpsdatumet kan din Marketo-prenumeration innehålla antingen Marketo Predictive Content eller Content`<sup>AI</sup>`. För dem som använder Predictive Content aktiverar Marketo Content`<sup>AI</sup>` Analytics-funktioner fram till 30 april 2018. Kontakta Marketo Customer Success Manager för att uppgradera till Marketo Content`<sup>AI</sup>` om du vill behålla funktionerna efter detta datum.
 
 Sammanfattningen av prediktivt innehåll visar översiktlig information om ditt prediktiva innehåll, med tabeller, diagram och aktuella tal.
 
@@ -37,7 +37,7 @@ Se konverteringsgraden genom att jämföra det totala antalet klick och direktle
 
 ![](assets/predictive-engagement-actual.png)
 
-## Innehållstrend efter vyer  {#content-trend-by-views}
+## Innehållstrend efter vyer {#content-trend-by-views}
 
 Jämför hur era åsikter om allt innehåll överensstämmer med ert prediktiva innehåll.
 
