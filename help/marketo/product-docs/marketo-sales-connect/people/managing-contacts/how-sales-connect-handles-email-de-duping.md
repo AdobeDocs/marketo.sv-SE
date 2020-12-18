@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Hur Sales Connect hanterar borttagning av dubbletter av e-post {#how-sales-connect-handles-email-de-duping}
+# Hur Sales Connect hanterar e-postborttagning av dubbletter {#how-sales-connect-handles-email-de-duping}
 
-När du [överför en CSV](http://docs.marketo.com/x/VADb) -fil till Sales Connect sammanfogas alla liknande kontakter i CSV-filen innan importen sker.
+När du [överför en CSV](http://docs.marketo.com/x/VADb)-fil till Sales Connect sammanfogas alla liknande kontakter i CSV-filen innan importen äger rum.
 
 Vi gör detta baserat på e-postadressen. Om det finns två identiska e-postadresser sammanfogar vi dem till en kontakt.
 
