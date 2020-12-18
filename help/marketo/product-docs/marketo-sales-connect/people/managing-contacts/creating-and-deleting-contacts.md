@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Skapa och ta bort kontakter {#creating-and-deleting-contacts}
 
-## Skapa kontakter {#creating-contacts}
+## Skapar kontakter {#creating-contacts}
 
-1. På sidan Personer klickar du på knappen **Gruppera åtgärder** och väljer **Skapa kontakt**.
+1. Klicka på knappen **Gruppåtgärder** på sidan Personer och välj **Skapa kontakt**.
 
    ![](assets/one-2.png)
 
-1. Ange för-/efternamn och e-postadress tillsammans med annan information som du vill ha. Klicka på **Skapa** när du är klar eller **Skapa och lägg till ny** om du vill lägga till fler kontakter.
+1. Ange för-/efternamn och e-postadress tillsammans med annan information som du vill ha. Klicka på **Skapa** när du är klar, eller **Skapa och lägg till ny** om du vill lägga till fler kontakter.
 
    ![](assets/two-2.png)
 
    >[!TIP]
    >
-   >Vill du lägga till flera kontakter samtidigt? [Klicka här](http://docs.marketo.com/x/VADb) om du vill veta mer om hur du importerar kontakter via CSV.
+   >Vill du lägga till flera kontakter samtidigt? [Klicka ](http://docs.marketo.com/x/VADb) här om du vill veta hur du importerar kontakter via CSV.
 
-## Ta bort kontakter {#deleting-contacts}
+## Tar bort kontakter {#deleting-contacts}
 
 1. Markera rutan för den kontakt du vill ta bort på sidan Personer.
 
