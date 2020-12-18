@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Beroende på inköpsdatumet kan din Marketo-prenumeration innehålla antingen Marketo Predictive Content eller Content`<sup>AI</sup>`. För dem som använder Predictive Content aktiverar Marketo Content`<sup>AI</sup>` Analytics-funktioner fram till 30 april 2018. Kontakta Marketo Customer Success Manager för att uppgradera till Marketo Content`<sup>AI</sup>`om du vill behålla funktionerna efter detta datum.
+>Beroende på inköpsdatumet kan din Marketo-prenumeration innehålla antingen Marketo Predictive Content eller Content`<sup>AI</sup>`. För dem som använder Predictive Content aktiverar Marketo Content`<sup>AI</sup>` Analytics-funktioner fram till 30 april 2018. Kontakta Marketo Customer Success Manager för att uppgradera till Marketo Content`<sup>AI</sup>` om du vill behålla funktionerna efter detta datum.
 
 På sidan Allt innehåll visas allt innehåll som har identifierats eller lagts till manuellt.   ![](assets/image2017-10-3-9-3a4-3a56.png)
 
@@ -30,7 +30,7 @@ Sidfälten innehåller:
 
 Du kan lägga till en ny del av innehållet och spåra den, ta bort en del av innehållet eller godkänna en del av innehållet. När du har godkänt innehållet kan du redigera det på sidan Predictive Content.
 
-## Filtrera innehåll efter kategorier  {#filter-content-by-categories}
+## Filtrera innehåll efter kategorier {#filter-content-by-categories}
 
 Filtrera innehåll genom att markera en eller flera kategorier. Ange sedan datum eller datumintervall för innehållsanalysen med hjälp av standardinställningar eller anpassade inställningar.
 
