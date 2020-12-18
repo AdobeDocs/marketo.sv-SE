@@ -15,6 +15,8 @@ ht-degree: 0%
 
 Nedan finns information om uppdateringar som görs av dina Marketing Sales Connect-anpassningar för Salesforce.
 
-**Version 1** Aktivitetsfält, Kontaktfält, Lead-fält, Kontofält, Affärsmöjlighetsfält, Knappar, [dessa Marketo-fält](http://docs.marketo.com/x/wQDh).
+**Version 1**
+Aktivitetsfält, Kontaktfält, Lead-fält, Kontofält, Affärsmöjlighetsfält, Knappar,  [dessa Marketo-fält](http://docs.marketo.com/x/wQDh).
 
-**Version 1.1** Aktivitetsfält, Kontaktfält, Leadfält, Kontofält, Fält för affärsmöjligheter, Knappar, Marketto-fält är nu tillgängliga i sidlayouten för Salesforce Lightning.
+**Version 1.1**
+Aktivitetsfält, Kontaktfält, Leadfält, Kontofält, Fält för affärsmöjligheter, Knappar, Marketto-fält är nu tillgängliga i sidlayouten för Salesforce Lightning.
