@@ -17,24 +17,24 @@ ht-degree: 0%
 
 Du bör känna till byggblocken och den rekommenderade sekvensen för att skapa händelser i Marketo. Du bör också ha kunskap om följande Marketo-koncept:
 
-* [Marketo Programs](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md) samt Events och skillnaderna mellan dem
+* [Marketo-](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md) program samt Event och skillnaderna mellan dem
 * [Kanaler](../../../../product-docs/administration/tags/create-a-program-channel.md)
 * [Lokala resurser](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md)
-* [Underordnade kampanjer](https://docs.marketo.com/x/IRCa) och [programstatus](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
+* [Underordnade ](https://docs.marketo.com/x/IRCa) kampanjer och  [programstatus](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
 
 >[!NOTE]
 >
->Mer information om API:er för Marketo finns i dokumentationen [för](http://developers.marketo.com/documentation/rest/) Marketo.
+>Mer information om Marketo API:er finns i [dokumentationen för Marketo API](http://developers.marketo.com/documentation/rest/).
 
 ## Förutsättningar {#prerequisites}
 
 Följande krävs för att använda Marketo ON24-integreringen:
 
-* **Prenumeration på ON24-webbsändningar** - Om du inte har någon prenumeration kontaktar du ON24 direkt. **OBS**: ON24 Hosted Edition krävs. Händelsehantering ON24 krävs inte.
+* **Prenumeration på ON24-webbsändningar**  - Om du inte har någon prenumeration kontaktar du ON24 direkt. **OBS**: ON24 Hosted Edition krävs. Händelsehantering ON24 krävs inte.
 
-* **Administratörsrättigheter till ON24** - Du behöver detta för att använda den här anslutningen och skapa gäster i ON24-systemet.
-* **ON24-anslutningsreferenser** - Du måste ange den här informationen i Marketo för att kunna aktivera integreringen: Användarnamn, lösenord, klient-ID och klientnyckel. Kontakta din kontohanterare för ON24 eller support för ON24 om du behöver hjälp med dina uppgifter.
-* **Registreringsformulär** - Använd ett Marketo-formulär eller ett icke-Marketo-formulär tillsammans med rätt API för att säkerställa att registreringsdata och registreringsinformation skickas till Marketo.
+* **Administratörsrättigheter till ON24**  - Du behöver detta för att använda den här anslutningen och skapa gäster i ON24-systemet.
+* **ON24-anslutningsreferenser**  - Du måste ange den här informationen i Marketo för att kunna aktivera integreringen: Användarnamn, lösenord, klient-ID och klientnyckel. Kontakta din kontohanterare för ON24 eller support för ON24 om du behöver hjälp med dina uppgifter.
+* **Registreringsformulär**  - Använd ett Marketo-formulär eller ett icke-Marketo-formulär tillsammans med rätt API för att säkerställa att registreringsdata och registreringsinformation skickas till Marketo.
 * **Underordnad kampanj för registrering - **En underordnad kampanj för registrering i din Marketo-händelse måste skapas och konfigureras på rätt sätt för att integreringen av din Event-partner ska fungera.
 
 ## Processflöde {#process-flow}
