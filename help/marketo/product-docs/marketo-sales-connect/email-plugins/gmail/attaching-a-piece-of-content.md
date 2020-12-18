@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Bifoga en innehållsdel {#attaching-a-piece-of-content}
+# Bifoga en innehållskomponent {#attaching-a-piece-of-content}
 
 Lägg till spårbart innehåll genom att klicka på knappen **Innehåll** och ladda upp en fil. Tidigare spårat innehåll visas så att du kan välja det i popup-fönstret utan att behöva ladda upp igen.
 
