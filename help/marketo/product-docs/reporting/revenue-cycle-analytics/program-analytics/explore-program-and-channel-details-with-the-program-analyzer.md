@@ -40,7 +40,7 @@ Du kan se detaljerad program- och kanalstatistik i Program Analyzer. Du kan äve
 
    >[!NOTE]
    >
-   >Många av de mätvärden du kan välja i programanalysen är tillgängliga med beräkningar med första beröringen (FT) och multitouch (MT). Det är viktigt att förstå [skillnaden mellan FT- och MT-attribuering](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >Många av de mätvärden du kan välja i programanalysen är tillgängliga med beräkningar med första beröringen (FT) och multitouch (MT). Det är viktigt att förstå skillnaden [mellan FT- och MT-attribuering](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Om du vill jämföra alla program i en enda kanal klickar du på kanalnamnet i popup-dialogrutan.
 
@@ -60,4 +60,4 @@ Du kan se detaljerad program- och kanalstatistik i Program Analyzer. Du kan äve
 
    >[!NOTE]
    >
-   >Läs mer om avancerad analys i [Revenue Explorer](http://docs.marketo.com/display/docs/revenue+explorer).
+   >Läs mer om avancerad analys i [Intresseutforskaren](http://docs.marketo.com/display/docs/revenue+explorer).
