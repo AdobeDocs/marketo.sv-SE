@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Instrumentpaneler för prestandainsikter {#performance-insights-dashboards}
+# Prestandainsikter Kontrollpaneler {#performance-insights-dashboards}
 
 Läs mer om de tillgängliga instrumentpanelerna i MPI.
 
@@ -25,7 +25,7 @@ Med kontrollpanelen för engagemang kan du mäta effektiviteten i dina program f
 
 Mäta målgruppsengagemang
 
-Välj mätvärdet **Successes** för att mäta målgruppernas engagemang i era vårdsprogram. Success är ett mått på meningsfull interaktion i Marketo.
+Välj mätvärdet **Successes** för att mäta målgruppens engagemang i dina vårdsprogram. Success är ett mått på meningsfull interaktion i Marketo.
 
 ![](assets/3-4.png)
 
