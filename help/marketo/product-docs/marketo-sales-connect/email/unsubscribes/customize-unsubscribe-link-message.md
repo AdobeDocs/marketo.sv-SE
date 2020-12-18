@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Anpassa meddelande om att avbryta prenumeration på länk {#customize-unsubscribe-link-message}
+# Anpassa meddelande om att avbryta prenumerationen {#customize-unsubscribe-link-message}
 
 Vi har alltid tillåtit team att anpassa sina länkmeddelanden för att avbryta prenumerationen, men nu kan administratörer ställa in länkmeddelanden för att avbryta prenumerationen för hela teamet så att de får ett enhetligt budskap.
 
@@ -21,7 +21,7 @@ Vi har alltid tillåtit team att anpassa sina länkmeddelanden för att avbryta 
 
 ## Anpassa meddelanden för dig själv {#customize-messaging-for-yourself}
 
-1. Logga in på [webbprogrammet](http://toutapp.com/login), klicka på kugghjulsikonen uppe till höger och välj **Inställningar**.
+1. Logga in på [webbprogrammet](http://toutapp.com/login), klicka på kugghjulsikonen överst till höger och välj **Inställningar**.
 
    ![](assets/one.png)
 
@@ -45,9 +45,9 @@ Vi har alltid tillåtit team att anpassa sina länkmeddelanden för att avbryta 
 
    ![](assets/five.png)
 
-## Ange avbeställningsmeddelanden för ditt team {#set-unsubscribe-messaging-for-your-team}
+## Ange avanmälningsmeddelanden för ditt team {#set-unsubscribe-messaging-for-your-team}
 
-1. Logga in på [webbprogrammet](http://toutapp.com/login), klicka på kugghjulsikonen uppe till höger och välj **Inställningar**.
+1. Logga in på [webbprogrammet](http://toutapp.com/login), klicka på kugghjulsikonen överst till höger och välj **Inställningar**.
 
    ![](assets/six.png)
 
@@ -55,11 +55,11 @@ Vi har alltid tillåtit team att anpassa sina länkmeddelanden för att avbryta 
 
    ![](assets/eight.png)
 
-1. Anpassa meddelanden och klicka på **Spara** när du är klar.
+1. Anpassa meddelandet och klicka på **Spara** när du är klar.
 
    ![](assets/seven.png)
 
-1. Välj **Jag ställer in standardmeddelandet så att det** gäller alla användare.
+1. Välj **Jag ställer in standardmeddelandet för mitt team** så att meddelandet gäller alla användare.
 
    ![](assets/eleven.png)
 
