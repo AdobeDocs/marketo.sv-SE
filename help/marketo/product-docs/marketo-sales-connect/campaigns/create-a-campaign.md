@@ -24,7 +24,7 @@ Med kampanjer kan ni
 
 Hur skapar ni en kampanj?
 
-1. Klicka på fliken **Kampanjer** .
+1. Klicka på fliken **Kampanjer**.
 
    ![](assets/one-1.png)
 
@@ -56,7 +56,7 @@ Hur skapar ni en kampanj?
    >
    >&quot;Dagar&quot; är inte antalet dagar mellan åtgärder, utan dagen i sekvensen. Om din kampanj till exempel ska vara i 7 dagar, innebär &quot;3&quot; att åtgärden kommer att utföras i dag 3 av 7, **inte **3 dagar senare.
 
-1. Se till att du anpassar alternativen för schemaläggning och svar, till exempel att hoppa över helger (vilket är fantastiskt), genom att gå till fliken **** Inställningar för din kampanj.
+1. Se till att du anpassar alternativen för schemaläggning och svar, till exempel att hoppa över helger (vilket är grymt) genom att gå till **fliken Inställningar** för din kampanj.
 
    ![](assets/seven.png)
 
