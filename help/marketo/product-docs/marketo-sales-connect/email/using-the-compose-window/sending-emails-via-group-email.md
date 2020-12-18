@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Skicka e-post via gruppe-post {#sending-emails-via-group-email}
+# Skicka e-postmeddelanden via gruppe-post {#sending-emails-via-group-email}
 
 Så här skickar/redigerar du e-post med alternativet Gruppera e-post.
 
 ## Skicka ett gruppe-postmeddelande {#sending-a-group-email}
 
-1. Klicka på fliken **Personer** .
+1. Klicka på fliken **Personer**.
 
    ![](assets/one-3.png)
 
@@ -35,7 +35,7 @@ Så här skickar/redigerar du e-post med alternativet Gruppera e-post.
 
 ## Redigera en gruppe-postadress {#editing-a-group-email}
 
-1. Skapa ett gruppe-postmeddelande med [steg 1-3 ovan](https://docs.marketo.com/display/DOCS/Sending+Emails+via+Group+Email#SendingEmailsviaGroupEmail-SendingaGroupEmail).
+1. Skapa ett gruppe-postmeddelande med [Steg 1-3 ovan](https://docs.marketo.com/display/DOCS/Sending+Emails+via+Group+Email#SendingEmailsviaGroupEmail-SendingaGroupEmail).
 1. Välj en mall eller fyll i e-postmeddelandet.
 
    ![](assets/edit-two.png)
@@ -48,7 +48,7 @@ Så här skickar/redigerar du e-post med alternativet Gruppera e-post.
 
    ![](assets/edit-four.png)
 
-1. Klicka på **Förhandsgranska dynamiska fält** och visa förhandsgranskningen till höger.
+1. Klicka på **Förhandsgranska dynamiska fält** och visa förhandsvisningen till höger.
 
    ![](assets/edit-five.png)
 
