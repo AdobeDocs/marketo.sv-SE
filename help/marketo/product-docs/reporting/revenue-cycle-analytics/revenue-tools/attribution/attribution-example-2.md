@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Attribut - exempel 2 {#attribution-example}
+# Attributionsexempel 2 {#attribution-example}
 
 Läs följande scenario och försök fastställa vilka tal som ska finnas i rutnätet.
 
