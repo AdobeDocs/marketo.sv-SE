@@ -19,7 +19,7 @@ Om du vill lägga till ett formulär på en av dina landningssidor måste det go
 
 Så här godkänner du ett befintligt formulär som är klart att användas.
 
-1. Gå till **Marknadsföringsaktiviteter** och **aktiviteter**.
+1. Gå till **Marknadsföring** **Aktiviteter**.
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -27,7 +27,7 @@ Så här godkänner du ett befintligt formulär som är klart att användas.
 
    ![](assets/image2014-9-15-17-3a49-3a40.png)
 
-1. Klicka på **Godkänn under** Formuläråtgärder ****.
+1. Under **Formuläråtgärder** klickar du på **Godkänn**.
 
    ![](assets/image2014-9-15-17-3a49-3a47.png)
 
@@ -35,13 +35,13 @@ Så här godkänner du ett befintligt formulär som är klart att användas.
 
    ![](assets/image2014-9-15-17-3a50-3a2.png)
 
-   Det är godkänt och klart att läggas [till på en landningssida](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+   Den är godkänd och klar att läggas till [på en landningssida](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
 
    >[!NOTE]
    >
    >Ändringar som görs efter godkännandet kan ta upp till fyra minuter att uppdatera inbäddade formulär.
 
-## Godkänn ett formulär från Redigeraren {#approve-a-form-from-the-editor}
+## Godkänn ett formulär från redigeraren {#approve-a-form-from-the-editor}
 
 Om du gör ändringar i ett formulär kan du godkänna sidan direkt från redigeraren.
 
@@ -65,6 +65,6 @@ Om du gör ändringar i ett formulär kan du godkänna sidan direkt från redige
 >
 >**Påminnelse**
 >
->Kom ihåg att om du redigerar formuläret efter att det har godkänts måste du [godkänna landningssidan](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) för att se ändringarna.
+>Kom ihåg att om du redigerar formuläret när det har godkänts måste du [godkänna landningssidan](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) för att se ändringarna.
 
 Så ja! Så enkelt som möjligt.
