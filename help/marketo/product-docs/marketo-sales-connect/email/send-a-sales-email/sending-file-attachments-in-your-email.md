@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Skicka bifogade filer i ditt e-postmeddelande {#sending-file-attachments-in-your-email}
+# Skickar bifogade filer i ditt e-postmeddelande {#sending-file-attachments-in-your-email}
 
 Att skicka en bilaga är ett bra sätt att hålla e-postmeddelandet kort och låta marknadsföringsteamet tala. Om du skickar ett e-postmeddelande med en stor fil kan det dock hindra mottagaren från att göra det.
 
@@ -21,4 +21,4 @@ Vanligtvis är alla filer som är större än 20 MB för stora för att kunna le
 >
 >När du använder Tout som e-postleveranskanal rekommenderar vi filer på 19 MB eller mindre när du skickar e-postmeddelanden.
 
-Om du absolut behöver skicka en stor fil, kan du prova att zippa den först eller överföra den som en [spårbar bilaga](http://docs.marketo.com/x/3oPS) i [webbprogrammet](http://toutapp.com/login).
+Om du absolut behöver skicka en stor fil, kan du försöka zippa den först eller överföra den som en [spårbar bifogad fil](http://docs.marketo.com/x/3oPS) i [webbprogrammet](http://toutapp.com/login).
