@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Gör ett formulärfält obligatoriskt {#make-a-form-field-required}
 
-När du [lägger till fält i ett formulär](add-a-field-to-a-form.md) kanske du vill göra några av dem obligatoriska för personen som fyller i dem. Så här gör du.
+När du lägger till [fält i ett formulär](add-a-field-to-a-form.md) kanske du vill göra några av dem obligatoriska för personen som fyller i dem. Så här gör du.
 
-1. Gå till **Marknadsföringsaktiviteter** och **aktiviteter**.
+1. Gå till **Marknadsföring** **Aktiviteter**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Markera formuläret och klicka på **Redigera** **formulär**.
+1. Markera formuläret och klicka på **Redigera** **Formulär**.
 
    ![](assets/editform-2.png)
 
@@ -39,6 +39,6 @@ När du [lägger till fält i ett formulär](add-a-field-to-a-form.md) kanske du
 >
 >**Påminnelse**
 >
->Glöm inte att [godkänna alla landningssidor](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som det här formuläret finns på för att ändringarna ska publiceras.
+>Glöm inte att [godkänna alla landningssidor](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som det här formuläret lever på så att ändringarna kan publiceras.
 
-Behöver du [ändra ordning på de fält som du har lagt till i formuläret](../../../../product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?
+Måste du [ändra ordning på de fält som du har lagt till i formuläret](../../../../product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?
