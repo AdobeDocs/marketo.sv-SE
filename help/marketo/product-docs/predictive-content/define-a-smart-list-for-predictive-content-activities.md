@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Definiera en smart lista för aktiviteter med prediktivt innehåll {#define-a-smart-list-for-predictive-content-activities}
+# Definiera en smart lista för aktiviteter för prediktivt innehåll {#define-a-smart-list-for-predictive-content-activities}
 
 >[!NOTE]
 >
->Beroende på inköpsdatumet kan din Marketo-prenumeration innehålla antingen Marketo Predictive Content eller Content`<sup>AI</sup>`. För dem som använder Predictive Content aktiverar Marketo Content`<sup>AI</sup>` Analytics-funktioner fram till 30 april 2018. Kontakta Marketo Customer Success Manager för att uppgradera till Marketo Content`<sup>AI</sup>`om du vill behålla funktionerna efter detta datum.
+>Beroende på inköpsdatumet kan din Marketo-prenumeration innehålla antingen Marketo Predictive Content eller Content`<sup>AI</sup>`. För dem som använder Predictive Content aktiverar Marketo Content`<sup>AI</sup>` Analytics-funktioner fram till 30 april 2018. Kontakta Marketo Customer Success Manager för att uppgradera till Marketo Content`<sup>AI</sup>` om du vill behålla funktionerna efter detta datum.
 
-Du kan använda prediktiva innehållsaktiviteter i utlösare och filter när du definierar en smart lista i en smart kampanj. Du kan aktivera en åtgärd för alla som klickar på prediktivt innehåll via [multimediamallen](enabling-predictive-content/enable-predictive-content-for-web-rich-media.md), [innehållsrekommendationsfältet](enabling-predictive-content/enable-the-content-recommendation-bar.md)eller i ett e-postmeddelande.
+Du kan använda prediktiva innehållsaktiviteter i utlösare och filter när du definierar en smart lista i en smart kampanj. Du kan utlösa en åtgärd för alla som klickar på prediktivt innehåll via [multimediamallen](enabling-predictive-content/enable-predictive-content-for-web-rich-media.md), [innehållsrekommendationsfältet](enabling-predictive-content/enable-the-content-recommendation-bar.md) eller i ett e-postmeddelande.
 
-1. Gå till fliken **Smart lista** i den smarta kampanjen.
+1. Gå till fliken **Smart List** i den smarta kampanjen.
 
    ![](assets/smart-list-1.png)
 
@@ -28,7 +28,7 @@ Du kan använda prediktiva innehållsaktiviteter i utlösare och filter när du 
    >**Djupdykning**
    >
    >
-   >Smarta listor kan göra fantastiska saker. Läs mer i den [smarta listrutans djupdykning](../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+   >Smarta listor kan göra fantastiska saker. Läs mer i [Djupdykning för smart lista](../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Sök efter utlösaren och dra och släpp den på arbetsytan.
 
@@ -46,7 +46,7 @@ Du kan använda prediktiva innehållsaktiviteter i utlösare och filter när du 
 
    ![](assets/smart-lislt-select-content-hands.png)
 
-1. Lägg till **Type** -begränsningen.
+1. Lägg till **Type**-begränsningen.
 
    ![](assets/clicks-predictive-content-add-constraint-hands.png)
 
@@ -54,7 +54,7 @@ Du kan använda prediktiva innehållsaktiviteter i utlösare och filter när du 
 
    ![](assets/pc-add-constraint.png)
 
-1. Om du använder e-postkällan för ditt prediktiva innehåll lägger du till **Click Link i e-postutlösaren **. Markera e-postmeddelandet och lägg till begränsningen **Är prediktiv** , definierad som **true**.
+1. Om du använder e-postkällan för ditt prediktiva innehåll lägger du till **Click Link i e-postutlösaren **. Markera din e-post och lägg till **Är prediktiv**-begränsning, definierad som **true**.
 
    ![](assets/clicks-link-in-email-trigger-hands.png)
 
