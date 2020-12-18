@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Använd stödlinjer för landningssiddesign i friform {#use-guides-for-free-form-landing-page-design}
+# Använd stödlinjer för landningssiddesign i fritt format {#use-guides-for-free-form-landing-page-design}
 
 När du utformar en landningssida i fri form kan du använda stödlinjer för att justera komponenterna.
 
 >[!NOTE]
 >
->Stödlinjerna är endast tillgängliga i **sidredigeraren för kostnadsfri****formulärlandning** .
+>Stödlinjer är bara tillgängliga på startsidans **kostnadsfria**-**formulär**-redigerare.
 
-1. Markera en **landningssida** och klicka på **Redigera utkast**.
+1. Välj en **landningssida** och klicka på **Redigera utkast**.
 
    ![](assets/image2015-5-20-14-3a10-3a9.png)
 
-1. Klicka på **Landing Page Actions **och välj **Show Guides**.
+1. Klicka på **Åtgärder för landningssida **och välj **Visa stödlinjer**.
 
    ![](assets/image2015-5-20-14-3a12-3a15.png)
 
