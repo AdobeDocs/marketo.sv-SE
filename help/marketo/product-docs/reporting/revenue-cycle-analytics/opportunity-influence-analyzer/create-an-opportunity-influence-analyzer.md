@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Skapa en analys av affärsmöjlighet {#create-an-opportunity-influence-analyzer}
+# Skapa en analys av affärsmöjlighetspåverkan {#create-an-opportunity-influence-analyzer}
 
 Använd säljprojektsanalys för att visa hur marknadsföringen bidrar till ett viktigt erbjudande. Se hur ditt program och dina event fungerar, liksom intressanta ögonblick, i hela livet.
 
@@ -21,7 +21,7 @@ Använd säljprojektsanalys för att visa hur marknadsföringen bidrar till ett 
 >
 >Om du vill få bra information från en säljprojektsanalys kontrollerar du att dina kontakter är kopplade till affärsmöjligheterna i CRM.
 
-1. Klicka på **Analytics**.
+1. Klicka på **Analys**.
 
    ![](assets/analytics.png)
 
@@ -29,7 +29,7 @@ Använd säljprojektsanalys för att visa hur marknadsföringen bidrar till ett 
 
    ![](assets/two.png)
 
-1. Välj kontot på panelen **Inställningar** .
+1. Välj kontot på panelen **Inställningar**.
 
    ![](assets/image2014-9-17-8-3a56-3a32.png)
 
@@ -60,7 +60,7 @@ Använd säljprojektsanalys för att visa hur marknadsföringen bidrar till ett 
 
 >[!TIP]
 >
->Du kan också titta på en video om Opportunity Influence Analyzer i [Marketo University](https://learn.marketo.com). (Det ser lite annorlunda ut nu, men det finns fortfarande mycket att lära!)
+>Du kan också titta på en video om säljprojektsanalys i [Marketo University](https://learn.marketo.com). (Det ser lite annorlunda ut nu, men det finns fortfarande mycket att lära!)
 
 >[!MORELIKETHIS]
 >
