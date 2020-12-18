@@ -23,7 +23,7 @@ Några insikter om världen och språket i Marketo Web Personalization.
 | **ISP** | Internetleverantör |
 | **Känd besökare** | En webbbesökare som har fyllt i ett formulär och lämnat sina uppgifter (e-postadress) på webbplatsen eller klickat på en länk i ett Marketo-e-postmeddelande. |
 | **Kontolista** | En lista med nyckelkonton/organisationsnamn. Kallas även kontobaserad marknadsföring (ABM). |
-| **Segment** | En samling besökare som uppfyller de angivna villkoren som definieras på sidan [](../../../product-docs/web-personalization/using-web-segments/web-segments.md)&quot;Ställ in ett segment&quot;. |
+| **Segment** | En samling besökare som uppfyller de angivna villkoren som definieras på sidan [&quot;Ställ in ett segment&quot;](../../../product-docs/web-personalization/using-web-segments/web-segments.md). |
 | **Delad testning** | Ett testexperiment med två eller flera varianter för att mäta skillnaden i resultat. Målet är att identifiera förändringar på webbsidor som ökar eller maximerar ett intressant resultat. |
 | **Jokertecken** | Ett jokertecken (*) används före eller efter en sträng för att ersätta andra tecken i en sträng. Se exemplen nedan. |
 
@@ -31,11 +31,11 @@ Några insikter om världen och språket i Marketo Web Personalization.
 
 Här är tre sätt att använda jokertecken i Webbanpassning.
 
-Matcha alla besökare på sidadresser som slutar med priser (t.ex. [www.marketo.com/pricing):](http://www.marketo.com/pricing):)
+Matcha alla besökare på sid-URL:er som slutar med priser (till exempel [www.marketo.com/pricing):](http://www.marketo.com/pricing):)
 
 ![](assets/wildcard-example-1.png)
 
-Matcha alla besökare på sidadresser som börjar med https:// (till exempel [https://www.marketo.com):](https://www.marketo.com))
+Matcha alla besökare på sidadresser som börjar med https:// (t.ex. [https://www.marketo.com):](https://www.marketo.com))
 
 ![](assets/wildcard-example-2.png)
 
