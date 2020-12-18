@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Redigera din modell {#editing-your-model}
 
-1. Markera den modell som du vill ändra i avsnittet Analytics (Analyser) och klicka på **Edit Draft**(Redigera utkast).
+1. Markera den modell som du vill ändra i avsnittet Analytics (Analyser) och klicka på **Redigera utkast**.
 
    ![](assets/one.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. När du är klar med ändringarna av modellen godkänner du den igen genom att välja **Godkänn modellutkast** på menyn **Modellåtgärder** .
+1. När du är klar med ändringarna av modellen godkänner du den igen genom att välja **Godkänn modellutkast** på **modellåtgärder**-menyn.
 
    ![](assets/four.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >Om du ändrar några steg, till exempel lägger till eller sammanfogar dem, måste du ändra uppdragsreglerna och faserna så att de återspeglar dina ändringar.
 
-## Modellen godkänns inte {#unapproving-your-model}
+## Modellen {#unapproving-your-model} avgodkänns
 
 >[!CAUTION]
 >
@@ -53,7 +53,7 @@ ht-degree: 0%
 >
 >Om du vill omgodkänna den här modellen måste du först omtilldela leads till faserna.
 
-## Skapa fler modeller {#creating-more-models}
+## Skapar fler modeller {#creating-more-models}
 
 Du kan bara ha en godkänd modell åt gången. Om du vill godkänna en modell men redan har en godkänd, måste du först avgodkänna den aktuella modellen. Om det är möjligt kan du prova att redigera modellen i stället för att skapa en ny.
 
