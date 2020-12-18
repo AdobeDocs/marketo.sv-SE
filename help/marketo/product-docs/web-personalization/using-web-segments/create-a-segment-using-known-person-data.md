@@ -23,7 +23,7 @@ Så här skapar du ett segment med hjälp av kända persondatavärden.
 
    ![](assets/new-dropdown-segments-hand-2.jpg)
 
-1. Klicka på **Skapa nytt**.
+1. Klicka på **Skapa ny**.
 
    ![](assets/image2015-8-28-13-3a19-3a59.png)
 
@@ -47,9 +47,9 @@ Så här skapar du ett segment med hjälp av kända persondatavärden.
 
    ![](assets/seven-1.png)
 
-## Markera flera persondatafält {#selecting-multiple-person-data-fields}
+## Markera datafält för flera personer {#selecting-multiple-person-data-fields}
 
-1. Klicka **+** för att lägga till ett annat persondatafält.
+1. Klicka på **+** om du vill lägga till ett annat persondatafält.
 
    ![](assets/eight.png)
 
@@ -57,7 +57,7 @@ Så här skapar du ett segment med hjälp av kända persondatavärden.
 
    ![](assets/nine.png)
 
-1. Klicka på **Spara** för att spara segmentet eller **Spara och definiera kampanj **för att spara och gå till sidan Kampanjer.
+1. Klicka på **Spara** om du vill spara segmentet eller **Spara och definiera kampanj **om du vill spara och gå till sidan Kampanjer.
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 
