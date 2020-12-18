@@ -21,13 +21,13 @@ Attribution är hur Marketo ger kredit åt program som påverkar försäljning o
 
 Attribution hjälper er att mäta programframgången. Vissa program är avsedda att generera nya namn medan andra är avsedda att öka försäljningen. Genom att ha ett system för attribuering kan ni fatta väl underbyggda beslut om vilka program ni ska investera i.
 
-## First Touch-attribuering (FT) {#first-touch-ft-attribution}
+## First Touch-attribut (FT) {#first-touch-ft-attribution}
 
-First Touch-attribuering (FT) besvarar en **enkel affärsfråga**:&quot;Vilka program är bra på att skaffa lönsamma nya namn?&quot;
+First Touch-attribuering (FT) besvarar en **enkel affärsfråga**,&quot;Vilka program är bra på att skaffa lönsamma nya namn?&quot;
 
 ## MultiTouch-attribuering {#multi-touch-attribution}
 
-MultiTouch besvarar en **komplicerad affärsfråga**:&quot;Vilka program är mest inflytelserika när det gäller att föra människor framåt i säljcykeln över tid?&quot;
+MultiTouch besvarar en **komplicerad affärsfråga**,&quot;Vilka program är mest inflytelserika när det gäller att föra människor framåt i säljcykeln över tid?&quot;
 
 ## Attributionsregler {#rules-of-attribution}
 
