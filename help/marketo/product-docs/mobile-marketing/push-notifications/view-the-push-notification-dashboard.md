@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Det är enkelt att se hur dina push-meddelanden fungerar.
 
-1. Gå till området **Marknadsföringsaktiviteter** .
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/image2015-12-11-12-3a57-3a48.png)
 
