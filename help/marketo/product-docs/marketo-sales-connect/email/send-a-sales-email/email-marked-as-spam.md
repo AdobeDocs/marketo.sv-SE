@@ -18,7 +18,7 @@ Som företag arbetar vi hårt för att säkerställa att våra leveransnivåer f
 **`Check Your Settings`**
 
 * [Anpassad domänspårning](http://docs.marketo.com/x/4oPS): På så sätt kan du visa alla spårningslänkar som du vill.&quot;din domän i stället för go.toutapp. En del e-postsäkerhet kommer att se att e-postmeddelandet kommer från din domän, men länken dirigeras om till go.toutapp. Genom att implementera spårning av anpassade domänlänkar kommer dina e-postmeddelanden att se legitima ut och ha större sannolikhet att hitta mottagarens inkorg.
-* [Leveranskanal](http://docs.marketo.com/x/y4TS)för e-post: Som standard skickar dina e-postmeddelanden via ToutApp-servrar. Genom att konfigurera en egen Gmail eller anpassad SMTP kan du ge dina e-postmeddelanden den bästa möjligheten att hamna i mottagarens inkorg. [Klicka här](https://nation.marketo.com/docs/DOC-5080) om du vill läsa mer om hur du väljer rätt leveranskanal för dina behov.
+* [Leveranskanal](http://docs.marketo.com/x/y4TS) för e-post: Som standard skickar dina e-postmeddelanden via ToutApp-servrar. Genom att konfigurera en egen Gmail eller anpassad SMTP kan du ge dina e-postmeddelanden den bästa möjligheten att hamna i mottagarens inkorg. [Klicka ](https://nation.marketo.com/docs/DOC-5080) här för att läsa mer om hur du väljer rätt leveranskanal för dina behov.
 
 **Kontrollera dina e-postbeteenden**
 
