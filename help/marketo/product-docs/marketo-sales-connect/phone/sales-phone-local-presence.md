@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Lokal telefonnärvaro {#sales-phone-local-presence}
+# Lokal närvaro för telefonförsäljning {#sales-phone-local-presence}
 
-När du vill se ut som om du ringer från någon annans riktnummer markerar du bara rutan **Lokal närvaro** innan du ringer.
+När du vill se ut som om du ringer från någon annans riktnummer markerar du bara rutan **Lokal närvaro** innan du ringer samtalet.
 
 ## Vanliga frågor om lokal närvaro {#local-presence-faq}
 
