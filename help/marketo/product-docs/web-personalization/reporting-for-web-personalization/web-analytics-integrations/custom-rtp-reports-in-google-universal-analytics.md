@@ -26,7 +26,7 @@ I det här inlägget beskrivs hur du konfigurerar anpassade RTP-rapporter för G
 
 1. Logga in på Google Analytics.
 1. Klicka på **Anpassning **i den övre menyn.
-1. Klicka **+Ny anpassad rapport.**
+1. Klicka på **+Ny anpassad rapport.**
 
 ** ![](assets/image2015-3-22-16-3a10-3a48.png)
 
@@ -34,17 +34,17 @@ I det här inlägget beskrivs hur du konfigurerar anpassade RTP-rapporter för G
 
 ## RTP B2B-rapport {#rtp-b-b-report}
 
-1. Ge rapporten namnet **RTP B2B Report**.
+1. Namnge rapporten **RTP B2B-rapport**.
 1. Namnge den första fliken **Bransch **
 
-   1. (Obs! du **duplicerar den här fliken** och skapar ytterligare liknande - steg 5)
+   1. (Obs! du **Duplicera den här fliken** och skapa ytterligare liknande - steg 5)
 
 1. Välj rapporttypen** Utforskaren**.\
    ** ![](assets/image2015-3-22-16-3a15-3a25.png)
 
    **
 
-1. I avsnittet **Måttgrupper** väljer du de mått som är relevanta för din verksamhet.
+1. I avsnittet **Måttgrupper** väljer du de mått som är relevanta för ditt företag.
 
    1. Vi rekommenderar följande:\
       ** ![](assets/image2015-3-22-16-3a16-3a40.png)
@@ -61,7 +61,7 @@ I det här inlägget beskrivs hur du konfigurerar anpassade RTP-rapporter för G
 
    ![](assets/image2015-3-22-16-3a17-3a41.png)
 
-1. I avsnittet **Dimension - Nedladdningar** anger du de relevanta måtten för varje flik enligt nedan.
+1. I avsnittet **Dimension Drill downns** anger du de relevanta dimensionerna för varje flik enligt nedan.
 
 <table> 
  <thead> 
@@ -111,7 +111,7 @@ I det här inlägget beskrivs hur du konfigurerar anpassade RTP-rapporter för G
 
    1. (Obs! du kommer att duplicera den här fliken och skapa andra liknande - steg 5)
 
-1. Välj rapporttypen **Utforskaren** .\
+1. Välj rapporttypen **Utforskaren**.\
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
 1. I avsnittet Måttgrupper väljer du de mått som är relevanta för ditt företag. Här är en rekommendation:\
@@ -127,7 +127,7 @@ I det här inlägget beskrivs hur du konfigurerar anpassade RTP-rapporter för G
 
    ** ![](assets/image2015-3-22-16-3a26-3a21.png)\**
 
-1. I avsnittet **Dimension - Nedladdningar** anger du de relevanta måtten för varje flik enligt nedan:
+1. I avsnittet **Dimension Drill downns** anger du de relevanta måtten för varje flik enligt nedan:
 
 <table> 
  <thead> 
