@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Visa segment från en viss etikett {#view-segments-from-a-specific-label}
+# Visa segment från en specifik etikett {#view-segments-from-a-specific-label}
 
 Vill du visa och filtrera segmenten efter en viss etikett?
 
