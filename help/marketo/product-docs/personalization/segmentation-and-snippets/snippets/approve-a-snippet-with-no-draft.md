@@ -38,7 +38,7 @@ Inget utkast utlöses varje gång ett fragment godkänns. Detta inkluderar ett f
 
 >[!CAUTION]
 >
->Den här funktionen är utformad för att spara tid med arbetsflödet för godkännande av fragment. Det finns dock några begränsningar att vara medveten om. Mer information finns i [det här dokumentet](https://nation.marketo.com/docs/DOC-4415) . Dokumentet innehåller även felhantering och felsökningsinformation.
+>Den här funktionen är utformad för att spara tid med arbetsflödet för godkännande av fragment. Det finns dock några begränsningar att vara medveten om. Mer information finns i [det här dokumentet](https://nation.marketo.com/docs/DOC-4415). Dokumentet innehåller även felhantering och felsökningsinformation.
 
 >[!MORELIKETHIS]
 >
