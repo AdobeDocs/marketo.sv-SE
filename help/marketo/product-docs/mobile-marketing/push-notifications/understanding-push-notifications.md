@@ -25,15 +25,15 @@ Med Marketo Mobile Engagement kan ni skapa, konfigurera och skicka ett meddeland
 
 ## Steg 1: Administratör och utvecklare utför initiala inställningar {#step-admin-and-developer-perform-initial-setups}
 
-Marketo Admin och utvecklaren av mobilappar samarbetar för att konfigurera dig. Mer information finns i [Innan du skapar push-meddelanden och meddelanden](../../../product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) i appen.
+Marketo Admin och utvecklaren av mobilappar samarbetar för att konfigurera dig. Mer information finns i [Innan du skapar push-meddelanden och meddelanden i appen](../../../product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md).
 
 ## Steg 2: Skapa ett push-meddelande {#step-create-a-push-notification}
 
-[Skapa meddelanden](create-a-push-notification.md) och förhandsgranska hur de visas på Android- och iOS-enheter.
+[Skapa ](create-a-push-notification.md) meddelanden och förhandsgranska hur de visas på Android- och iOS-enheter.
 
 ## Steg 3: Skicka! {#step-send}
 
-[Push-meddelanden kan skickas](send-a-mobile-push-notification.md) med smarta utlösar- och batchkampanjer. Ganska coolt, va?
+[Push-meddelanden kan ](send-a-mobile-push-notification.md) skickas med smarta kampanjer för utlösare och batchbearbetning. Ganska coolt, va?
 
 ![](assets/image2015-4-27-8-3a41-3a43.png)
 
