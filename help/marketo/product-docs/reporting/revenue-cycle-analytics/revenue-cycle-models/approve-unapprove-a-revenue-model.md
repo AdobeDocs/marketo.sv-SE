@@ -17,11 +17,11 @@ Du får bara ha en godkänd modell åt gången.
 
 >[!CAUTION]
 >
->[Enskilda faser måste godkännas](approving-stages-and-assigning-leads-to-a-revenue-model.md) och personer läggas till innan du godkänner en hel modell.
+>[Enskilda faser måste ](approving-stages-and-assigning-leads-to-a-revenue-model.md) godkännas och personer läggas till innan du godkänner en hel modell.
 
 ## Godkänn {#approve}
 
-1. Gå till **Analytics** .
+1. Gå till området **Analytics**.
 
    ![](assets/image2017-3-28-8-3a9-3a16.png)
 
@@ -45,7 +45,7 @@ Din modell är nu levande!
 >
 >Om du inte godkänner din modell tas alla dina personer bort från modellen och deras historik i modellen tas bort!
 
-1. Gå till **Analytics** .
+1. Gå till området **Analytics**.
 
    ![](assets/image2017-3-28-8-3a9-3a30.png)
 
