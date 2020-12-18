@@ -15,12 +15,12 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->.Net-tillägget stöds inte längre från och med 19 maj 2019. [Klicka här](http://nation.marketo.com/docs/DOC-7028-end-of-life-outlook-net-add-in-for-toutappmarketo-sales-connect) om du vill veta mer.
+>.Net-tillägget stöds inte längre från och med 19 maj 2019. [Klicka här ](http://nation.marketo.com/docs/DOC-7028-end-of-life-outlook-net-add-in-for-toutappmarketo-sales-connect) om du vill veta mer.
 
-1. Klicka på **Start** -menyn.
-1. Sök efter **ToutApp** i programlistan.
+1. Klicka på menyn **Start**.
+1. Sök efter **ToutApp** i listan Program.
 1. Klicka på den och välj **Avregistrera**.
 1. Navigera till Kontrollpanelen.
 1. Dra upp&quot;Lägg till/ta bort ett program&quot;.
-1. Välj ToutApp i listan och välj **Ta bort**.
+1. Välj ToutApp i listan och välj **Ta bort den**.
 
