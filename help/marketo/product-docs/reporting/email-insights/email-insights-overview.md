@@ -23,25 +23,25 @@ Om du vill få tillgång till e-postinsikter klickar du bara på dess panel i My
 
 ## Analyser {#analytics}
 
-Använd [Analytics](email-insights-analytics-overview.md) för att utforska sammanställda tidsseriedata för e-postleverans och engagemangsmått.
+Använd [Analytics](email-insights-analytics-overview.md) för att utforska sammanställda tidsseriedata för e-postleverans och interaktionsstatistik.
 
 ![](assets/emailanalytics.jpg)
 
 **Filter **
 
-Använde avancerade [filter](filtering-in-email-insights.md) för att bryta ned resultaten efter publik, innehåll eller plattform. Samma filter gäller för både Analytics och Send.
+Använde avancerade [filter](filtering-in-email-insights.md) för att dela upp resultat efter publik, innehåll eller plattform. Samma filter gäller för både Analytics och Send.
 
 ![](assets/filter.png)
 
 **Snabbdiagram**
 
-[Snabbdiagram](email-insights-quick-charts.md) är miniatyrbilder som du skapar och sparar och som ger en snabb vy av diagram som är viktiga för dig.
+[Quick ](email-insights-quick-charts.md) Charts är miniatyrer som du skapar och sparar och som ger en snabb översikt över diagram som är viktiga för dig.
 
 ![](assets/three.png)
 
 ## Skickar {#sends}
 
-Granska egenskaperna för den senaste e-postkommunikationen på sidan [Skicka](email-insights-sends-overview.md) .
+Granska egenskaperna för den senaste e-postkommunikationen på sidan [Skickar](email-insights-sends-overview.md).
 
 ![](assets/two.png)
 
@@ -57,7 +57,7 @@ Klicka på mätfälten för att omvandla färgerna till siffror.
 
 ## Anpassade Dimensioner {#custom-dimensions}
 
-Alla vanliga Marketo-dimensioner inkluderas, men du kan lägga till upp till 10 anpassade dimensioner. [Anpassade dimensioner](custom-dimensions-for-email-insights.md) består av segmenteringar och programtaggar.
+Alla vanliga Marketo-dimensioner inkluderas, men du kan lägga till upp till 10 anpassade dimensioner. [Anpassade ](custom-dimensions-for-email-insights.md) dimensioner består av segmenteringar och programtaggar.
 
 >[!MORELIKETHIS]
 >
