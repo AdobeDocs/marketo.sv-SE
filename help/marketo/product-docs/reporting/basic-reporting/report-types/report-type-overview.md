@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Översikt över rapporttyp {#report-type-overview}
 
-När du [skapar en rapport i ett program](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)väljer du vilken typ av rapport du vill ha.
+När du [skapar en rapport i ett program](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) väljer du vilken typ av rapport du vill ha.
 
 ## De mest använda rapporterna {#most-used-reports}
 
@@ -47,7 +47,7 @@ När du [skapar en rapport i ett program](../../../../product-docs/reporting/bas
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Scenrapport för personer efter intäkt</a>  </strong></td> 
-   <td>Grundläggande rapportering för er <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">intäktsmodell</a>. Se <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Inkomstcykelanalys</a> för djupare rapportering.</td> 
+   <td>Grundläggande rapportering för din <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">intäktsmodell</a>. Mer detaljerad rapportering finns i <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Inkomstcykelanalys</a>.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Prestanda för landningssida</a>  </strong></td> 
@@ -55,7 +55,7 @@ När du [skapar en rapport i ett program](../../../../product-docs/reporting/bas
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Programprestanda</a>  </strong></td> 
-   <td>Grundläggande mätvärden som medlemmar och framgång. Se <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Inkomstcykelanalys</a> för djupare rapportering.</td> 
+   <td>Grundläggande mätvärden som medlemmar och framgång. Mer detaljerad rapportering finns i <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Inkomstcykelanalys</a>.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="company-web-activity-report.md">Företagets webbaktivitet</a>  </strong></td> 
@@ -71,7 +71,7 @@ När du [skapar en rapport i ett program](../../../../product-docs/reporting/bas
   </tr> 
   <tr> 
    <td><strong> <a href="../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Resultatrapport för engagemangsström</a> </strong></td> 
-   <td><p>Se hur väl ert <a href="http://docs.marketo.com/display/docs/drip+nurturing">engagemangsprogram</a> fungerar.</p></td> 
+   <td><p>Se hur bra ditt <a href="http://docs.marketo.com/display/docs/drip+nurturing">engagemangsprogram</a> fungerar.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -89,5 +89,5 @@ Inte så användbar som rapporttyperna ovan, men ändå tillgänglig.
 >
 >**Djupdykning**
 >
->Om du vill se allt du kan göra med de här rapporterna läser du djupet i [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting) .
+>Om du vill se allt du kan göra med dessa rapporter läser du djupdykningen [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
 
