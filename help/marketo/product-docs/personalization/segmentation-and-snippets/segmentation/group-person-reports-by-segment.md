@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Gruppera personrapporter efter segment {#group-person-reports-by-segment}
+# Grupppersonrapporter efter segment {#group-person-reports-by-segment}
 
-Du kan gruppera dina [personrapporter](http://docs.marketo.com/display/docs/basic+reporting) efter [segment](http://docs.marketo.com/display/docs/basic+reporting) som du har [definierat i segmenteringarna](create-a-segmentation.md).
+Du kan gruppera dina [personrapporter](http://docs.marketo.com/display/docs/basic+reporting) efter ett [segment](http://docs.marketo.com/display/docs/basic+reporting) som du har [definierat i dina segmenteringar](create-a-segmentation.md).
 
-1. Gå till avsnittet **Marknadsföringsaktiviteter** (eller **Analytics**).
+1. Gå till **Marknadsföringsaktiviteter** (eller **Analytics**).
 
    ![](assets/image2017-3-28-8-3a43-3a9.png)
 
@@ -28,9 +28,9 @@ Du kan gruppera dina [personrapporter](http://docs.marketo.com/display/docs/basi
    >**Djupdykning**
    >
    >
-   >Läs mer om personrapporter och andra rapporttyper i djupdykningen för [grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting) .
+   >Läs mer om personrapporter och andra rapporttyper i djupdykningen [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
 
-1. Klicka på fliken **Inställningar** och dubbelklicka på **Gruppera personer efter**.
+1. Klicka på fliken **Setup** och dubbelklicka på **Gruppera människor av**.
 
    ![](assets/image2017-3-28-9-3a25-3a22.png)
 
@@ -38,7 +38,7 @@ Du kan gruppera dina [personrapporter](http://docs.marketo.com/display/docs/basi
    >
    >Du kan också [gruppera dina personrapporter efter person- eller företagsattribut](http://docs.marketo.com/display/DOCS/Group+Person+Reports+by+Attribute).
 
-1. I dialogrutan **Gruppera människor efter** börjar du skriva Segmentering i textrutan. När rubriken **Segmenteringar** visas väljer du en i listan under rubriken.
+1. I dialogrutan **Gruppera personer efter** börjar du skriva Segmentering i textrutan. När rubriken **Segmenteringar** visas väljer du en i listan under rubriken.
 
    ![](assets/image2017-3-28-9-3a25-3a55.png)
 
@@ -50,7 +50,7 @@ Du kan gruppera dina [personrapporter](http://docs.marketo.com/display/docs/basi
 >
 >**Djupdykning**
 >
->Mer information om segment och hur du skapar och hanterar dem finns i djupdykningen [Segmentering](http://docs.marketo.com/display/docs/segmentation+and+snippets) .
+>Mer information om segment och hur du skapar och hanterar dem finns i djupdykningen [Segmentering](http://docs.marketo.com/display/docs/segmentation+and+snippets).
 
 >[!MORELIKETHIS]
 >
