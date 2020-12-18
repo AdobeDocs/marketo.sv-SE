@@ -11,10 +11,10 @@ ht-degree: 0%
 ---
 
 
-# Sammanfoga två grupper {#how-to-merge-two-groups-together}
+# Sammanfoga två grupper tillsammans {#how-to-merge-two-groups-together}
 
 1. Gå till en av grupperna som du vill sammanfoga och markera alla kontakter.
-1. Välj **Lägg till personer i grupp**.
+1. Välj **Lägg till personer i gruppen**.
 1. En fönsterruta visas som verifierar sammanfogningen. Markera gruppen som du vill flytta kontakterna till.
 
    >[!NOTE]
