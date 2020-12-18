@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Attribut - exempel 4 {#attribution-example}
+# Attributionsexempel 4 {#attribution-example}
 
 Läs följande scenario och försök fastställa vilka tal som ska finnas i rutnätet.
 
@@ -20,7 +20,7 @@ Läs följande scenario och försök fastställa vilka tal som ska finnas i rutn
 * 22 april | (möjlighet 1) skapad för $3 000
 * 24 april | (möjlighet 2) skapat för 5 000 USD
 * 25 april | John och Michelle är associerade med **båda** Optys
-* 29 april | [Opty 1] is Closed-Won
+* 29 april | [Opty 1] är Closed-Won
 
 | Programnamn | (Innehåll) | (webbinarium) |
 |---|---|---|
