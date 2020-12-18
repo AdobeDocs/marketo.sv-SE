@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Sortera webbkampanjer efter senaste eller populäraste resultat {#sort-web-campaigns-by-latest-or-top-performing}
+# Sortera webbkampanjer efter senaste eller populäraste {#sort-web-campaigns-by-latest-or-top-performing}
 
 Ni kan sortera era webbkampanjer på några olika sätt.
 
@@ -26,10 +26,10 @@ Ni kan sortera era webbkampanjer på några olika sätt.
    >**Definition**
    >
    >
-   >**Senaste** - sorterar baserat på det datum då kampanjen skapades. Senaste kampanjen överst.
+   >**Senaste**  sorteringen baseras på det datum då kampanjen skapades. Senaste kampanjen överst.
    >
    >
-   >**Top** **Performing** - sorterar kampanjer baserat på klickfrekvensen. Det högsta klicket längst upp.
+   >**** **TopPerforming**  - sorterar kampanjer baserat på klickfrekvensen. Det högsta klicket längst upp.
 
    ![](assets/image2016-11-4-13-3a34-3a59.png)
 
