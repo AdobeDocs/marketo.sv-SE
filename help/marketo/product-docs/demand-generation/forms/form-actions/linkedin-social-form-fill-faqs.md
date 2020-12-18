@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Vanliga frågor om LinkedIn-fyllning av sociala formulär {#linkedin-social-form-fill-faqs}
+# LinkedIn Social Form Fill FAQ {#linkedin-social-form-fill-faqs}
 
 LinkedIn:s reviderade API-policy kräver att vi tar bort LinkedIn Social Form Fill från produkten.
 
-## Viktiga saker att veta {#important-things-to-know}
+## Viktiga saker att känna till {#important-things-to-know}
 
 * Knapparna för fyllning i sociala formulär i LinkedIn är inte längre ett alternativ att lägga till i Marketo från och med den 28 april 2016
 
@@ -61,11 +61,11 @@ Nej, formulären som vi har tagit bort den här funktionen från har publicerats
 
 Nej, vi tar bara bort LinkedIn-knappen från formuläret. När ifyllning av sociala formulär används i ett formulär skapas en behållare ovanför som innehåller knapparna för ifyllning av sociala formulär. Före den 28 april 2016, om LinkedIn var det enda alternativet, liknade behållarens utseende den här bilden:
 
-![--](assets/one.png)
+![—](assets/one.png)
 
 Efter den 28 april 2016 finns det nu en tom behållare längst upp i alla formulär där LinkedIn Social Form Fill har tagits bort:
 
-![--](assets/two.png)
+![—](assets/two.png)
 
 >[!NOTE]
 >
