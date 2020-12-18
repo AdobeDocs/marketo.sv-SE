@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Översikt över funktionen Insikt i instrumentpanelen {#insights-dashboard-feature-overview}
+# Översikt över funktionen i instrumentpanelen för insikter {#insights-dashboard-feature-overview}
 
 Läs mer om de funktioner som finns på kontrollpanelen för försäljningsinsikter.
 
@@ -139,7 +139,7 @@ Fliken Händelse:
 * Kortet för aktivitetsinformation i det här avsnittet har förhandsvisningsalternativ
 * Filtret innehåller&quot;Sök&quot;,&quot;Visa endast inbjudna händelser&quot; och&quot;Datumintervall&quot;
 
-## Affärsmöjlighet {#opportunity-layout}
+## Affärsmöjlighetslayout {#opportunity-layout}
 
 **Hastighetsrutnät för engagemang**
 
@@ -156,7 +156,7 @@ Fliken Händelse:
 * Veckosammanfattningsfältet visar Intressanta tider, e-post och webbaktivitet för den veckan. Varje ikon går att klicka på och kan användas som filter för att visa specifik aktivitet
 * Standardvy: Det här är en lista över aktiviteter i den aktuella vyn
 
-**Fliken E-postkampanjer och evenemang** :
+**Kommande fliken E-postkampanjer och** evenemangE-postkampanjer:
 
 * Inkluderar kampanjer som är en del av e-postprogram eller standardprogram som planeras inom de kommande 90 dagarna
 * Inte specifikt för kontakten/leadet (dvs. listan över kampanjer är en allmän lista över alla e-postkampanjer som är schemalagda i Marketo-instansen). Listan över kampanjer för alla lead-, kontakt-, konto- och affärsmöjlighetspaneler blir densamma
