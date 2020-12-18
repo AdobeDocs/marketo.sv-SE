@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Klona en testgrupp för en landningssida {#cloning-a-landing-page-test-group}
+# Klona en testgrupp för landningssidor {#cloning-a-landing-page-test-group}
 
 I Design Studio kan du söka efter och duplicera en testgrupp för landningssidor.
 
@@ -23,11 +23,11 @@ I Design Studio kan du söka efter och duplicera en testgrupp för landningssido
 
    ![](assets/image2015-4-27-16-3a10-3a10.png)
 
-1. Skapa nu en ny testgrupp genom att klicka på **Ny** och välja **Ny testgrupp**.
+1. Skapa nu en ny testgrupp genom att klicka på **Nytt** och välja **Ny testgrupp**.
 
    ![](assets/image2015-4-27-15-3a49-3a54.png)
 
-1. I dialogrutan Skapa nya landningssidor anger du det nya **testgruppsnamnet**.
+1. I dialogrutan Skapa nya landningssidor anger du den nya testgruppen **Namn**.
 
    ![](assets/image2015-4-27-15-3a58-3a13.png)
 
