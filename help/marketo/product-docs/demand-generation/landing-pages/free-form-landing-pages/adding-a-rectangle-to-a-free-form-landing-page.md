@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Lägga till en rektangel på en landningssida med valfri form {#adding-a-rectangle-to-a-free-form-landing-page}
+# Lägga till en rektangel på en startsida i fri form {#adding-a-rectangle-to-a-free-form-landing-page}
 
 Rektanglar på landningssidor passar bra för att markera ett textområde.
 
-1. Välj en startsida för frihandslandning och klicka på **Redigera** **utkast**.
+1. Välj en startsida för frihandslandning och klicka på **Redigera** **Utkast**.
 
    ![](assets/image2014-9-16-14-3a50-3a51.png)
 
@@ -23,11 +23,11 @@ Rektanglar på landningssidor passar bra för att markera ett textområde.
    >
    >Designern för landningssidan öppnas i ett nytt fönster.
 
-1. Dra över **Rectangle** -elementet.
+1. Dra över elementet **Rectangle**.
 
    ![](assets/image2015-5-21-14-3a48-3a45.png)
 
-1. Markera rektangeln och använd **egenskapssidan** **för** att göra nödvändiga ändringar.
+1. Markera rektangeln och använd **egenskapen** **Blad** för att göra nödvändiga ändringar.
 
    >[!TIP]
    >
