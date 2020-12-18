@@ -21,7 +21,7 @@ Du kanske vill lägga till CNAME för landningssidor så att olika URL:er kan pe
 
 >[!TIP]
 >
->**Samma toppnivådomän - bra! Cookies är delade.go**.mincompany.com > **info**.mincompany.**comOlika toppnivådomäner - Dåligt! Cookies delas inte.**
+>**Samma toppnivådomän - bra! Cookies är delade.go**.mincompany.com > **info**.mincompany.com **Andra toppnivådomäner - Dåliga! Cookies delas inte.**
 >gå.**mycompany**.com > go.**mynewcompany**.com
 
 >[!NOTE]
@@ -30,11 +30,11 @@ Du kanske vill lägga till CNAME för landningssidor så att olika URL:er kan pe
 
 ## Hitta din kontosträng {#find-your-account-string}
 
-1. Gå till området **Admin** och klicka på **Landing Pages**.
+1. Gå till området **Admin** och klicka på **Startsidor**.
 
    ![](assets/image2014-9-16-15-3a19-3a54.png)
 
-1. Kopiera **kontosträngen** från avsnittet **Inställningar** .
+1. Kopiera **kontosträngen** från avsnittet **Inställningar**.
 
    ![](assets/image2014-9-16-15-3a20-3a2.png)
 
@@ -42,21 +42,21 @@ Du kanske vill lägga till CNAME för landningssidor så att olika URL:er kan pe
 
 ## Skicka begäran till IT {#send-request-to-it}
 
-1. Be din IT-avdelning att installera följande CNAME: (Ersätt ordet [CNAME] med valfri CNAME och [KONTOSTRÄNG] med texten från föregående steg).
+1. Be din IT-avdelning att installera följande CNAME: (Ersätt ordet [CNAME] med valfritt CNAME och [KONTOSTRING] med texten från föregående steg).
 
-   [CNAME].YourCompany.com > [ACCOUNT STRING].mktoweb.com
+   [CNAME].YourCompany.com >  [ACCOUNT STRING].mktoweb.com
 
 ## Lägg till en ny CNAME {#add-a-new-cname}
 
-1. När IT-avdelningen har skapat CNAME går du till **Admin** och klickar på **Landing Pages**.
+1. När IT-avdelningen har skapat CNAME går du till **Admin** och klickar sedan på **Landing Pages**.
 
    ![](assets/image2014-9-16-15-3a20-3a20.png)
 
-1. Klicka på **Nytt** och välj **Nytt domänalias**.
+1. Klicka på **Nytt** och välj sedan **Nytt domänalias**.
 
    ![](assets/image2014-9-16-15-3a20-3a28.png)
 
-1. Ange **domänalias.** Standardsidan **visas om** besökaren inte anger någon URL-adress. Ange vart de ska gå i så fall.
+1. Ange ditt **domänalias.** Standardsidan  **** visas om besökaren inte anger någon URL. Ange vart de ska gå i så fall.
 
    >[!NOTE]
    >
