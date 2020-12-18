@@ -19,9 +19,9 @@ När du skapar en social app kan du konfigurera de val av sociala nätverk och u
 
 >[!NOTE]
 >
->Detta liknar mycket [att konfigurera flödet](configure-social-sign-up-share-flow.md)för social registrering/delning, men det gäller delningslänkarna *under* den sociala appen.
+>Detta liknar [konfigurationen av flödet för social registrering/delning](configure-social-sign-up-share-flow.md), men detta gäller för delningslänkarna *under* den sociala appen.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -29,7 +29,7 @@ När du skapar en social app kan du konfigurera de val av sociala nätverk och u
 
    ![](assets/image2014-9-22-11-3a51-3a6.png)
 
-1. Gå till **Rekommendera flöde** > **Sociala nätverk**** i appredigeraren för sociala medier.**
+1. Gå till **Rekommendera flöde** > **Sociala nätverk*** i redigeraren för sociala appar.**
 
    ![](assets/recommendedflow.png)
 
@@ -53,15 +53,15 @@ När du skapar en social app kan du konfigurera de val av sociala nätverk och u
 
    >[!TIP]
    >
-   >Mer information finns i [Redigera Facebook-inställningar](../../../../product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)för avancerade inlägg.
+   >Mer information finns i [Redigera inställningar för Facebook Rich Post](../../../../product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md).
 
    ![](assets/image2014-9-22-11-3a54-3a36.png)
 
    >[!NOTE]
    >
-   >URL:en [för](../../../../product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) delning läggs automatiskt till i alla delningsmeddelanden.
+   >URL:en för resursen [läggs automatiskt till i alla delningsmeddelanden.](../../../../product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md)
 
-1. Om du väljer **Lägg till statiskt** **innehåll** ovan redigerar du titeln, bildtexten och beskrivningen och överför en anpassad bild (från dina Marketo-bilder och filer).
+1. Om du väljer **Lägg till statisk** **innehåll** ovan redigerar du titeln, beskrivningen och beskrivningen och överför en anpassad bild (från dina Marketo-bilder och filer).
 
    ![](assets/image2014-9-22-11-3a55-3a14.png)
 
@@ -93,11 +93,11 @@ Om du väljer det här alternativet läggs värdena för sidans OpenGraph-taggar
 
    ![](assets/image2014-9-22-12-3a3-3a21.png)
 
-   Om du väljer **Lägg till dynamiskt** innehåll läggs värdena för sidtaggarna (rubrik och beskrivning) och miniatyrbilden till automatiskt i LinkedIn-inlägg. Se nästa steg.
+   Om du väljer **Lägg till dynamiskt**-innehåll läggs värdena för sidtaggarna (rubrik och beskrivning) och miniatyrbilden till automatiskt i LinkedIn-inlägg. Se nästa steg.
 
-   Om du väljer **Lägg till statiskt** innehåll anger du titel, bildtext och beskrivning och överför en bild. Se de två nästa stegen.
+   Om du väljer **Lägg till statiskt** innehåll anger du rubrik, bildtext och beskrivning och överför en bild. Se de två nästa stegen.
 
-1. Klicka på **Visa redigeringar** i fönstret **Visa** och **redigera** och redigera delningsprompten och meddelandet som ska visas i LinkedIn-inlägg.
+1. I fönstret **Visa** &amp; **Redigera** klickar du på **Visa redigeringar** och redigerar delningsmeddelandet och meddelandet som ska visas i LinkedIn-inlägg.
 
    ![](assets/image2014-9-22-12-3a3-3a38.png)
 
@@ -105,7 +105,7 @@ Om du väljer det här alternativet läggs värdena för sidans OpenGraph-taggar
    >
    >Använd {html_title} i din inläggstext för att visa sidans rubrik automatiskt.
 
-1. Om du väljer **Lägg till statiskt** innehåll ovan redigerar du titeln och beskrivningen och överför en anpassad bild (från dina **** Marketo-bilder och filer).
+1. Om du väljer **Lägg till statiskt** innehåll ovan redigerar du titeln och beskrivningen och överför en anpassad bild (från Mark **e** till Bilder och filer).
 
    ![](assets/image2014-9-22-12-3a4-3a43.png)
 
@@ -123,11 +123,11 @@ Om du väljer det här alternativet läggs värdena för sidans OpenGraph-taggar
 
    ![](assets/image2014-9-22-12-3a5-3a30.png)
 
-1. Klicka på **Slutför** > **Godkänn** och **stäng****.**
+1. Klicka på **Slutför** > **Godkänn** och **Stäng***.**
 
    ![](assets/image2014-9-22-12-3a5-3a45.png)
 
 >[!MORELIKETHIS]
 >
->Nästa steg är att [lägga till din videoresurs](customize-video-share-flow.md) eller [omröstning](../../../../product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) på en landningssida, Facebook eller din egen webbplats.
+>Nästa steg är att [lägga till din videoresurs](customize-video-share-flow.md) eller [avsökning](../../../../product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) på en landningssida, Facebook eller din egen webbplats.
 
