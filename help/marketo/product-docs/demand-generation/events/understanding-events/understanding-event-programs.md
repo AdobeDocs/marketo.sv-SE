@@ -38,7 +38,7 @@ Ett eventprogram är en typ av program som kan användas för att automatisera o
 
 Händelser kan automatiskt ansluta till din [webbinarileverantör](launchpoint-event-partners.md) samt synkronisera med en [iPad-incheckningsapp](../../../../product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 
-## Se en video {#watch-a-video}
+## Titta på en video {#watch-a-video}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/rvsNpqTUpsPd7KxCovVVva.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
