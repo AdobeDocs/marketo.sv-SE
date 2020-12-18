@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-18-3a43-3a21.png)
 
-1. Under **Push Notification Actions** klickar du på **Delete**.
+1. Klicka på **Ta bort** under **Push Notification Actions**.
 
    ![](assets/image2015-4-22-18-3a43-3a38.png)
 
