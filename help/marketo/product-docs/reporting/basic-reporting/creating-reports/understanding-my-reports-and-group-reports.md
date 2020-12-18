@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Förstå mina rapporter och grupprapporter {#understanding-my-reports-and-group-reports}
+# Förstå Mina rapporter och grupprapporter {#understanding-my-reports-and-group-reports}
 
-Du kan skapa **Mina rapporter **och **Grupprapporter **från [analysstartsidan](navigating-the-analytics-home-page.md).
+Du kan skapa **Mina rapporter **och **Grupprapporter **från [Startsidan för analysen](navigating-the-analytics-home-page.md).
 
-**Mina rapporter** är bara synliga för dig.
+**Mina** rapporter är bara synliga för dig.
 
 **Grupprapporter** är synliga för alla användare på den arbetsytan.
 
