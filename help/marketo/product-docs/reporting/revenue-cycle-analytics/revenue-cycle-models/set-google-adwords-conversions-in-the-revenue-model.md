@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Ange Google AdWords-konverteringar i intäktsmodellen {#set-google-adwords-conversions-in-the-revenue-model}
 
-Länka ditt Google AdWords-konto till Marketo för att automatiskt överföra konverteringsdata offline från Marketo till Google AdWords. Sedan kan ni från gränssnittet för AdWords enkelt se vilka klick som resulterat i kvalificerade leads, affärsmöjligheter och nya kunder (eller vilka intäktssteg ni vill spåra) efter att ni har [lagt till anpassade kolumner](https://support.google.com/adwords/answer/3073556) i AdWords.
+Länka ditt Google AdWords-konto till Marketo för att automatiskt överföra konverteringsdata offline från Marketo till Google AdWords. Sedan kan du från gränssnittet för AdWords enkelt se vilka klick som resulterat i kvalificerade leads, affärsmöjligheter och nya kunder (eller vilka intäktssteg du vill spåra) efter att du har [lagt till anpassade kolumner](https://support.google.com/adwords/answer/3073556) i AdWords.
 
 >[!NOTE]
 >
->Det här är en push-integrering från Marketo till Google AdWords. Konverteringsdata visas *bara* i Google AdWords-portalen**, inte i Marketo-gränssnittet. **
+>Det här är en push-integrering från Marketo till Google AdWords. Konverteringsdata visas *endast* i Google AdWords-portalen,** inte i Marketo-gränssnittet. **
 
-Läs mer om [Googles importfunktion](https://support.google.com/adwords/answer/2998031?hl=en)för offlinekonvertering.  Mappa AdWords-offlinekonverteringar till en eller flera steg i en intäktsmodell. Det finns tre sätt att mappa:
+Läs mer om [Googles importfunktion för offlinekonvertering](https://support.google.com/adwords/answer/2998031?hl=en).  Mappa AdWords-offlinekonverteringar till en eller flera steg i en intäktsmodell. Det finns tre sätt att mappa:
 
 * Konvertering av ord
 * Scenåtgärd
@@ -37,7 +37,7 @@ Du kan skapa en ny offlinekonvertering för AdWords från Marketo om du använde
 
 ## Använd AdWords-konvertering {#use-adwords-conversion}
 
-1. Gå till **Analytics** .
+1. Gå till området **Analytics**.
 
    ![](assets/image2015-2-23-18-3a9-3a34.png)
 
@@ -53,7 +53,7 @@ Du kan skapa en ny offlinekonvertering för AdWords från Marketo om du använde
 
    ![](assets/image2015-2-26-16-3a40-3a2.png)
 
-1. Välj den **AdWords Conversion** som du vill mappa till Marketo-scenen.
+1. Välj **AdWords Conversion** som du vill mappa till Marketo-scenen.
 
    ![](assets/image2015-2-26-16-3a46-3a15.png)
 
@@ -67,7 +67,7 @@ Du kan också mappa en AdWords-konvertering under Stage-åtgärder.
 
    ![](assets/image2015-2-26-16-3a40-3a2.png)
 
-1. Under listrutan **Scenåtgärder** väljer du **Ställ in radkonvertering**.
+1. Under listrutan **Stage Actions** väljer du **Set AdWords Conversion**.
 
    ![](assets/image2015-2-26-16-3a52-3a24.png)
 
@@ -75,7 +75,7 @@ Du kan också mappa en AdWords-konvertering under Stage-åtgärder.
 
    ![](assets/image2015-2-26-16-3a54-3a47.png)
 
-   **Tips**: Om du inte har några AdWords-konverteringar skapar du en genom att klicka på **+Ny konvertering**.
+   **Tips**: Om du inte har några AdWords-konverteringar skapar du en genom att klicka på  **+Ny konvertering**.
 
    ![](assets/image2015-2-26-21-3a22-3a10.png)
 
@@ -95,7 +95,7 @@ Proffstips! En ny offlinekonvertering för AdWords kan skapas från Marketo.
 >
 >Nya konverteringar som skapats från Marketo har optimeringsinställningen aktiverad. Det innebär att AdWords anbudsstrategier kan optimera dina bud för dessa konverteringar. Du kan ändra den här inställningen från ditt AdWords-konto.
 
-1. Under listrutan **Scenåtgärder** väljer du **Ställ in radkonvertering**.
+1. Under listrutan **Stage Actions** väljer du **Set AdWords Conversion**.
 
    ![](assets/image2015-2-26-16-3a52-3a24.png)
 
@@ -117,7 +117,7 @@ Du kan koppla alla dina modellfaser till din AdWords-konvertering på ett och sa
 
    ![](assets/image2015-2-26-17-3a3-3a29.png)
 
-1. Välj önskad **AdWords-konvertering** för varje scen som du vill spåra.
+1. Välj önskad **AdWords Conversion** för varje scen som du vill spåra.
 
    ![](assets/image2015-2-26-17-3a6-3a15.png)
 
@@ -129,4 +129,4 @@ Du kan koppla alla dina modellfaser till din AdWords-konvertering på ett och sa
 
    ![](assets/image2015-2-27-12-3a20-3a20.png)
 
-Om du vill visa offlinekonverteringsdata måste du logga in på ditt AdWords-konto. Vi rekommenderar att du använder deras [anpassade kolumnfunktion](https://support.google.com/adwords/answer/3073556) för att skapa konverteringskolumner för varje offlinekonvertering som du importerar från Marketo.
+Om du vill visa offlinekonverteringsdata måste du logga in på ditt AdWords-konto. Vi rekommenderar att du använder deras [anpassade kolumnfunktion](https://support.google.com/adwords/answer/3073556) för att skapa konverteringsräkningskolumner för varje offlinekonvertering som du importerar från Marketo.
