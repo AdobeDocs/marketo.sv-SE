@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Om du vill göra några ändringar i ett befintligt formulär gör du så här för att få igång processen.
 
-1. Gå till **Marknadsföringsaktiviteter** och **aktiviteter**.
+1. Gå till **Marknadsföring** **Aktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Markera formuläret och klicka på **Redigera** **formulär**.
+1. Markera formuläret och klicka på **Redigera** **Formulär**.
 
    ![](assets/editform.png)
 
