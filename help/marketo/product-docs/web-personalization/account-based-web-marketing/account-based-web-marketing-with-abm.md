@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Kontobaserad webbmarknadsföring med ABM {#account-based-web-marketing-with-abm}
 
-Marketo har infört en ny [kontobaserad marknadsföring](http://docs.marketo.com/display/docs/account+based+marketing) (ABM).
+Marketo har introducerat ett nytt [kontobaserat marknadsföring](http://docs.marketo.com/display/docs/account+based+marketing)-program (ABM).
 
 När du använder Marketo Web Personalization och den nya kontobaserade marknadsföringen (ABM):
 
@@ -23,18 +23,18 @@ När du använder Marketo Web Personalization och den nya kontobaserade marknads
 
    * **Obs**: Synkroniseringen kan ta upp till 5 minuter
 
-* I Webbpersonalisering kan du skapa [segment med målkonton från kontolistan](create-a-segment-using-an-account-list.md) som du skapade i ABM och anpassa innehållet för dessa konton
+* I Webbpersonalisering kan du skapa [segment som målkonton från kontolistan](create-a-segment-using-an-account-list.md) som du skapade i ABM, och anpassa innehållet för dessa konton
 
 ## För befintliga webbkunder med ABM {#for-existing-web-abm-customers}
 
 Om du redan använder Web ABM:
 
-* Du kan skapa kontolistor i Web ABM *och* ABM
+* Du kan skapa kontolistor i Web ABM *och* i ABM
 * Du kan skapa, redigera och ta bort kontolistor i ABM *och *i Web ABM
 * Kontolistor (från både Web ABM och ABM) synkroniseras till Webbanpassning för användning i segmentering
 
    * **Obs**: Synkroniseringen kan ta upp till 5 minuter
 
-* I Webbpersonalisering kan du skapa segment med målkonton utifrån kontolistor som skapats i *både* Web ABM och ABM och anpassa innehållet för dessa konton
+* I Webbpersonalisering kan du skapa segment med målkonton från kontolistor som skapats i *både* Web ABM och ABM och anpassa innehållet för dessa konton
 * Du kan överföra CSV-filer på sidan Lista över webbpersonaliseringskonton
 
