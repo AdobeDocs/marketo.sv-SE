@@ -33,7 +33,7 @@ Med separata program kan ni sedan spåra antalet konverteringar från var och en
 
 Till skillnad från vissa program (till exempel e-post) som kan köras regelbundet under en viss tidsperiod, är standardprogram alltid aktiverade.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-5.png)
 
@@ -81,11 +81,11 @@ Till skillnad från vissa program (till exempel e-post) som kan köras regelbund
 
 1. Schemalägg och aktivera kampanjen.
 
-## Skapa en smart kampanj för status/lyckat program {#create-a-smart-campaign-for-status-program-success}
+## Skapa en smart kampanj för status/slutfört program {#create-a-smart-campaign-for-status-program-success}
 
 Ni behöver en andra smart kampanj för att ändra personernas status, så att de kan uppnå programframgångar och inkluderas i intäktsattribueringsberäkningarna.
 
-1. Ange programnamnet i frågesträngen i utlösaren för **Fyll i formulär** . Om du klonar programmet ersätter du bara det gamla frågesträngnamnet med det nya.
+1. I utlösaren **Fyller i formulär** anger du programnamnet i frågesträngen. Om du klonar programmet ersätter du bara det gamla frågesträngnamnet med det nya.
 
    ![](assets/image2016-3-23-14-3a7-3a20.png)
 
@@ -120,10 +120,10 @@ Skapa den nya annonsen när du har konfigurerat programmet och kampanjerna.
    >
    >    
    >    
-   >    * **källa** är den personkälla som används som kanalidentifierare
-   >    * **kommentar** är den unika identifieraren som skapas för varje program
-   >    * **lägret** är kampanjen på Facebook, LinkedIn eller Google
-   >    * **kk** är det nyckelord eller resursnamn som du vill hämta
+   >    * **källa är den** personkälla som används som kanalidentifierare
+   >    * **kommenterar den unika** identifieraren som skapas för varje program
+   >    * **Campis** the campaign in Facebook, LinkedIn, or Google
+   >    * **är** nyckelordet eller resursnamnet som du vill hämta
 
    >    
    >    
