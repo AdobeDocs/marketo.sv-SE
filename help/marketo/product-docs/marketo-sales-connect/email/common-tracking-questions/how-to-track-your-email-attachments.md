@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Spåra e-postbilagor {#how-to-track-your-email-attachments}
 
-Sales Connect erbjuder spårning på dina bilagor (.doc, .ppt, .pdf) så att du kan se när de har skickats `opened/` och `downloaded``see what pages your recipient is looking through`. Du kan använda funktionen för spårbara bilagor från både [webbprogrammet](http://toutapp.com/login) och Gmail (eller Google Apps).
+Sales Connect erbjuder spårning på dina bilagor (.doc, .ppt, .pdf) så att du kan se när de har `opened/` `downloaded` och `see what pages your recipient is looking through`. Du kan använda funktionen för spårbara bilagor från både [webbprogrammet](http://toutapp.com/login) och Gmail (eller Google Apps).
 
 >[!NOTE]
 >
 >Spårning av bilagor är bara tillgängligt för våra teamplaner (med början från vårt g3startup-plan).
 
-## Skicka din första spårbara bilaga {#how-to-send-your-first-trackable-attachment}
+## Skicka den första spårbara bifogade filen {#how-to-send-your-first-trackable-attachment}
 
-1. Skapa ett e-postmeddelande eller redigera en mall och klicka sedan på knappen **Innehåll** .
+1. Skapa ett e-postmeddelande eller redigera en mall och klicka sedan på knappen **Innehåll**.
 1. Ladda upp den bifogade filen och skicka den. Vi stöder PDF:er, Word-dokument och PowerPoint-presentationer.
 1. Välj **Lägg till i e-post**.
 1. Klicka på **Skicka** och starta din livefeed. Mottagarna visas när de öppnar och bläddrar igenom de bifogade filerna.* *
