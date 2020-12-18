@@ -17,7 +17,7 @@ Ibland kan du behöva koppla från ditt Salesforce-konto från ditt Sales Connec
 
 ## Koppla från Salesforce som administratör {#how-to-disconnect-from-salesforce-as-an-admin}
 
-1. I Sales Connect klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Settings**.
+1. I Sales Connect klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Inställningar**.
 
    ![](assets/one-1.png)
 
@@ -31,7 +31,7 @@ Ibland kan du behöva koppla från ditt Salesforce-konto från ditt Sales Connec
 
 ## Koppla från Salesforce som icke-administratör {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
-1. I Sales Connect klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Settings**.
+1. I Sales Connect klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Inställningar**.
 
    ![](assets/one-1.png)
 
