@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Filtrera resurser i en e-postrapport {#filter-assets-in-an-email-report}
 
-Fokusera på din rapport om [e-postprestanda](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) eller [e-postlänksprestanda](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) i dina program (lokala resurser), på e-postmeddelanden i Design Studio (globala resurser) eller på e-postmeddelanden som har arkiverats.
+Fokusera på din [rapport om e-postprestanda](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) eller [e-postlänksprestanda](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) för e-postmeddelanden i dina program (&#39;lokala resurser&#39;), på e-postmeddelanden i Design Studio (&#39;globala resurser&#39;) eller på e-postmeddelanden som har arkiverats.
 
-1. Gå till **Analytics** (eller **Marketing Activity**).
+1. Gå till **Analys** (eller **Marknadsföringsaktiviteter**).
 
    ![](assets/image2014-9-16-15-3a53-3a26.png)
 
