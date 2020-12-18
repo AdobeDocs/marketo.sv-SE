@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Knappen Anpassa social app {#customize-social-app-button}
+# Anpassa knapp för social app {#customize-social-app-button}
 
-När du skapar en [social knapp](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) eller ett [hänvisningserbjudande](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)kan du anpassa knapparnas utseende.
+När du skapar en [social knapp](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) eller ett [hänvisningserbjudande](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) kan du anpassa knapparnas utseende.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Markera programmet och klicka på **Redigera utkast.**
+1. Markera appen och klicka på **Redigera utkast.**
 
    ![](assets/image2014-9-23-17-3a3-3a34.png)
 
@@ -51,15 +51,15 @@ När du skapar en [social knapp](../../../../product-docs/demand-generation/land
 
    ![](assets/image2014-9-23-17-3a5-3a30.png)
 
-1. Medan du gör varje val kan du granska resultatet i fönstret **Visa och redigera** .
+1. När du gör varje val granskar du resultatet i fönstret **Visa och redigera**.
 
    ![](assets/image2014-9-23-17-3a5-3a42.png)
 
 >[!NOTE]
 >
->I ett hänvisningserbjudande kan du även anpassa knappen **Spåra förlopp** . Gå till **Appinställningar** > Spåra **förloppsformat** och följ stegen ovan.
+>I ett hänvisningserbjudande kan du även anpassa knappen **Spåra förlopp**. Gå till **Appinställningar** > **Spåra förloppsformat** och följ stegen ovan.
 
 >[!MORELIKETHIS]
 >
->För en social knapp [konfigurerar du när den öppnas](configure-when-social-button-opens.md). För ett hänvisningserbjudande [anger du erbjudandemålet](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).
+>[Konfigurera när den öppnas](configure-when-social-button-opens.md) för en social knapp. För ett hänvisningserbjudande [anger du erbjudandemålet](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).
 
