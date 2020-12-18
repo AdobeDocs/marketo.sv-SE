@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Lägga till RTF i ett formulär {#add-rich-text-to-a-form}
+# Lägg till RTF i ett formulär {#add-rich-text-to-a-form}
 
 Använd RTF i ett formulär för att lägga till instruktioner eller annan information mellan fält. Kolla in den.
 
-1. Gå till **Marknadsföringsaktiviteter** och **aktiviteter**.
+1. Gå till **Marknadsföring** **Aktiviteter**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Markera formuläret och klicka på **Redigera** **formulär**.
+1. Markera formuläret och klicka på **Redigera** **Formulär**.
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
-1. Klicka på **+** -tecknet.
+1. Klicka på **+**-tecknet.
 
    ![](assets/image2014-9-15-16-3a46-3a43.png)
 
