@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Implementera RTP i Wordpress Enterprise {#implementing-rtp-on-wordpress-enterprise}
+# Implementera RTP på Wordpress Enterprise {#implementing-rtp-on-wordpress-enterprise}
 
 Följ installationsanvisningarna nedan för att implementera RTP-taggen:
 
