@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Inställningar för dubbelpartsgodkännande {#two-party-consent-settings}
+# Inställningar för tvåpartssamtycke {#two-party-consent-settings}
 
 För att säkerställa att USA:s tvåpartslagar följs när du spelar in samtal kan du som administratör aktivera ett inspelat meddelande som du väljer att spela upp i början av dina samtal när det spelas in.
 
@@ -43,7 +43,7 @@ För att säkerställa att USA:s tvåpartslagar följs när du spelar in samtal 
 
    ![](assets/five.png)
 
-1. När överföringen är klar väljer du docka (tre punkter) i filhanteraren och klickar på **Välj som meddelande** om godkännande. Klicka på **OK** när du är klar.
+1. När överföringen är klar väljer du dotfilen (tre punkter) i filhanteraren och klickar på **Välj som meddelande om godkännande**. Klicka på **OK** när du är klar.
 
    ![](assets/six.png)
 
