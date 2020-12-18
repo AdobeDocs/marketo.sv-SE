@@ -65,7 +65,7 @@ I det här exemplet väljer vi en öppen kurs för de första tre veckorna i feb
 
 Vill du ta bort ett snabbdiagram? Det är enkelt!
 
-1. Klicka på ikonen **Snabbdiagram** .
+1. Klicka på ikonen **Snabbdiagram**.
 
    ![](assets/nine.png)
 
