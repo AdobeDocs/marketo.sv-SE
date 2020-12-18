@@ -21,7 +21,7 @@ När ditt Sales Connect-konto skapas aktiveras delningsinställningarna. Detta g
 
 När delningsinställningar är aktiverade kan bara administratörer dela i kategorier, såvida inte delningsbehörighet ges till ett team eller alla. Om Delningsinställningar är inaktiverat finns det inga begränsningar och alla användare kan dela i valfria mallkategorier.
 
-## Konfigurera delningsinställningar {#configure-your-sharing-settings}
+## Konfigurera delningsinställningarna {#configure-your-sharing-settings}
 
 1. Gå till sidan Inställningar i [webbprogrammet](http://toutapp.com/login).
 
@@ -31,7 +31,7 @@ När delningsinställningar är aktiverade kan bara administratörer dela i kate
 
    ![](assets/two-2.png)
 
-1. Kontrollera att **delningsinställningarna** är aktiverade. Detta innebär som standard att bara administratörer kan dela mallar i dina mallkategorier.
+1. Kontrollera att **Delningsinställningar** är aktiverade. Detta innebär som standard att bara administratörer kan dela mallar i dina mallkategorier.
 
    ![](assets/three-2.png)
 
