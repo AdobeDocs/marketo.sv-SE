@@ -23,7 +23,7 @@ Du kan skicka SMS-meddelanden till personer i dina Vibes-listor och använda SMS
 >
 >Du behöver både Marketo Admin-behörighet och ett aktivt Vibes-konto för att slutföra den här konfigurationen. Autentiseringsuppgifterna som efterfrågas i steg 4 nedan är autentiseringsuppgifterna från ditt Vibes-konto.
 
-1. I My Marketo klickar du på **Admin** och sedan på **LaunchPoint**.
+1. I My Marketo klickar du på **Admin** och sedan **LaunchPoint**.
 
    ![](assets/image2016-7-27-9-3a31-3a17.png)
 
