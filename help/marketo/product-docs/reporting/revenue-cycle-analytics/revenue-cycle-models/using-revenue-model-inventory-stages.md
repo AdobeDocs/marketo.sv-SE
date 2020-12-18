@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Använda intäktsmodelllagerfaser {#using-revenue-model-inventory-stages}
+# Använda intäktsmodelllagerartiklar {#using-revenue-model-inventory-stages}
 
 Alla kända leads och konton finns från början i lagerstadiet. Den här potentiella kundpoolen är den plats där leads vårdas tills säljprojektet är klart. Det finns ingen tidsgräns för en lagerfas.
 
@@ -19,13 +19,13 @@ Alla kända leads och konton finns från början i lagerstadiet. Den här potent
 >
 >Det är en bra idé att skapa en övningsmodell i ett grafik- eller presentationsprogram och bekräfta den med dina kollegor först.
 
-## Lägga till en inventeringsfas {#add-an-inventory-stage}
+## Lägg till en lagerfas {#add-an-inventory-stage}
 
-1. Om du vill lägga till en ny fas för inventering av intäktscykelmodell klickar du på knappen **Analyser** på startskärmen för **My Marketo** .
+1. Om du vill lägga till ett nytt stadium för intäktscykelmodellinventering klickar du på knappen **Analytics** i startskärmen för **My Marketo**.
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. I avsnittet **Analyser** väljer du en befintlig modell eller [skapar en ny](create-a-new-revenue-model.md).
+1. Välj en befintlig modell i **Analytics** eller [skapa en ny](create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-14-3a31-3a53.png)
 
@@ -41,9 +41,9 @@ Alla kända leads och konton finns från början i lagerstadiet. Den här potent
 
    ![](assets/image2015-4-27-13-3a29-3a2.png)
 
-## Redigera ett lagerstadium {#edit-an-inventory-stage}
+## Redigera en lagerfas {#edit-an-inventory-stage}
 
-När du väljer en inventeringsikon kan du redigera **namnet**, lägga till en **beskrivning** eller justera **typen**. Du kan också välja [Starta spårning efter konto](start-tracking-by-account-in-the-revenue-modeler.md).
+När du väljer en inventeringsikon kan du redigera **namnet**, lägga till en **Beskrivning** eller justera **Typ**. Du kan också välja [Starta spårning efter konto](start-tracking-by-account-in-the-revenue-modeler.md).
 
 1. Klicka på en inventeringsikon.
 
@@ -53,17 +53,17 @@ När du väljer en inventeringsikon kan du redigera **namnet**, lägga till en *
 
    ![](assets/image2015-4-27-13-3a34-3a58.png)
 
-1. Markera listrutan **Typ** som du vill redigera.
+1. Välj den **typmeny** som du vill redigera.
 
    ![](assets/image2015-4-27-13-3a36-3a52.png)
 
-## Ta bort ett inventeringsstadium {#delete-an-inventory-stage}
+## Ta bort en lagerfas {#delete-an-inventory-stage}
 
 1. Du kan ta bort en inventeringsfas genom att högerklicka eller Ctrl-klicka på en inventeringsscenikon.
 
    ![](assets/image2015-4-28-13-3a0-3a20.png)
 
-1. Du kan också ta bort en scen genom att klicka på den och sedan välja **Ta bort** i listrutan **Scenåtgärder**.
+1. Du kan också ta bort en scen genom att klicka på den och sedan välja **Ta bort** scenåtgärder **i listrutan &lt;a2/>Ta bort**.
 
    ![](assets/image2015-4-28-13-3a1-3a17.png)
 
