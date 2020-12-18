@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Förstå frihandssidor jämfört med sidor med guidad landning {#understanding-free-form-vs-guided-landing-pages}
 
-Den mall du väljer avgör vilket redigeringsläge för landningssidor du kommer att arbeta i. Det finns två möjliga sökvägar: [frihand](http://docs.marketo.com/display/docs/free-form+landing+pages) och [guidad](http://docs.marketo.com/display/docs/guided+landing+pages). Här nedan hittar du en kort sammanfattning av de viktiga skillnaderna.
+Den mall du väljer avgör vilket redigeringsläge för landningssidor du kommer att arbeta i. Det finns två möjliga sökvägar: [friform](http://docs.marketo.com/display/docs/free-form+landing+pages) och [guidad](http://docs.marketo.com/display/docs/guided+landing+pages). Här nedan hittar du en kort sammanfattning av de viktiga skillnaderna.
 
 ## Frihandssidor {#free-form-pages}
 
@@ -24,7 +24,7 @@ Den mall du väljer avgör vilket redigeringsläge för landningssidor du kommer
 
 ![](assets/image2015-5-20-17-3a50-3a53.png)
 
-## Guidade sidor {#guided-pages}
+## Sidor med stödlinjer {#guided-pages}
 
 * Fördefinierad layout/struktur som styrs av mallen.
 * Endast regioner och variabler som definierats som redigerbara i mallen kan anpassas i redigeraren.
