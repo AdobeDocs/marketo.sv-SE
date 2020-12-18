@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Lägga till en video {#add-a-video}
+# Lägg till en video {#add-a-video}
 
 Lägg in videofilmer med alternativ för delning via sociala medier på era landningssidor.
 
@@ -35,9 +35,9 @@ Lägg in videofilmer med alternativ för delning via sociala medier på era land
 
    >[!NOTE]
    >
-   >Du kan också skapa en videoresurs *i ett program* genom att välja **Nytt** > **Ny lokal resurs.** Du kan sedan välja den i listrutan, vilket visas här.
+   >Du kan också skapa en videoresurs *inuti ett program* genom att välja **Ny** > **Ny lokal resurs.** Du kan sedan välja den i listrutan, vilket visas här.
 
-1. Ange webbadressen till YouTube-videon och ge videon ett namn. Under alternativet **Klona från** väljer du **Inget** och klickar på **Infoga.**
+1. Ange webbadressen till YouTube-videon och ge videon ett namn. Välj **Ingen** under alternativet **Klona från** och klicka på **Infoga.**
 
    ![](assets/image2014-9-23-16-3a51-3a32.png)
 
@@ -45,9 +45,9 @@ Lägg in videofilmer med alternativ för delning via sociala medier på era land
 >
 >Om du vill spara tid kan du använda alternativet **Klona från** för att kopiera alla inställningar från en befintlig videoresurs.
 
-Grattis! Du har lagt till en videodelning på landningssidan. Godkänn landningssidan så spelas din videoresurs upp live. Du kan också [publicera landningssidan på Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) eller [lägga videodelningen på din webbplats](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md).
+Grattis! Du har lagt till en videodelning på landningssidan. Godkänn landningssidan så spelas din videoresurs upp live. Du kan även [publicera landningssidan på Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) eller [lägga videodelningen på din webbplats](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md).
 
 >[!MORELIKETHIS]
 >
->Du är klar, men du kan ändra inställningarna för din videodelning om det behövs. Börja med att [anpassa delningsflödet](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (när och var delningsprompten öppnas).
+>Du är klar, men du kan ändra inställningarna för din videodelning om det behövs. Börja med [att anpassa delningsflödet](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (när och var delningsprompten öppnas).
 
