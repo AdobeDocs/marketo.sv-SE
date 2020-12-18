@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Lägga till högdagerinnehåll i e-postmeddelandet {#adding-highspot-content-to-your-email}
+# Lägga till högdagerinnehåll i din e-post {#adding-highspot-content-to-your-email}
 
 Om du är kund hos Highspot kan du enkelt infoga Highspot-innehåll i dina Sales Connect-e-postmeddelanden.
 
@@ -31,7 +31,7 @@ Om du är kund hos Highspot kan du enkelt infoga Highspot-innehåll i dina Sales
 
    ![](assets/four-5.png)
 
-1. Markera önskat innehåll och klicka på knappen **Lägg till innehåll** .
+1. Markera önskat innehåll och klicka på knappen **Lägg till innehåll**.
 
    ![](assets/five-3.png)
 
