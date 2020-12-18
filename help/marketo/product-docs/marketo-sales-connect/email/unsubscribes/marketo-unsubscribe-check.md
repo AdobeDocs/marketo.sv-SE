@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Marketo Avbeställ kontroll {#marketo-unsubscribe-check}
+# Marketo Unsubscribe Check {#marketo-unsubscribe-check}
 
 Marketo Unsubscribe Check använder teamets anslutning till Marketför att förhindra att e-postmeddelanden skickas till personer som har avbrutit prenumerationen i Marketos Lead Management-system. När en säljanvändare skickar ett e-postmeddelande med Sales Connect, görs ett API-anrop till Marketo för att kontrollera om e-post-ID:t har avbrutits. I så fall blockerar vi e-postmeddelandet från att skickas.
 
@@ -37,7 +37,7 @@ Marketo Unsubscribe Check använder teamets anslutning till Marketför att förh
 
    ![](assets/four-2.png)
 
-## Saker att veta {#things-to-know}
+## Saker att känna till {#things-to-know}
 
 Marketo Unsubscribe check..
 
