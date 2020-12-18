@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Du kan filtrera mätvärdena i dina [personrapporter](http://docs.marketo.com/display/docs/basic+reporting) ytterligare genom att använda dina [smarta listor](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) som anpassade kolumner.
 
-1. Gå till området **Marknadsföringsaktiviteter** (eller **Analytics**).
+1. Gå till **Marknadsföringsaktiviteter** (eller **Analytics**).
 
    ![](assets/ma-1.png)
 
-1. Markera rapporten och klicka på fliken **Inställningar** .
+1. Markera rapporten och klicka på fliken **Inställningar**.
 
    ![](assets/two-1.png)
 
-1. Dra över **anpassade kolumner**.
+1. Dra över **Anpassade kolumner**.
 
    ![](assets/three-1.png)
 
@@ -36,7 +36,7 @@ Du kan filtrera mätvärdena i dina [personrapporter](http://docs.marketo.com/di
    >**Djupdykning**
    >
    >
-   >Lär dig hur du skapar och konfigurerar smarta listor i djupet [Smarta listor och Statiska listor](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) .
+   >Lär dig hur du skapar och konfigurerar smarta listor i djupdykningen [Smarta listor och Statiska listor](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
 1. Du har gjort det! Klicka på fliken **Rapport** för att visa rapporten med de nya kolumnerna.
 
@@ -54,5 +54,5 @@ Du kan filtrera mätvärdena i dina [personrapporter](http://docs.marketo.com/di
    >**Djupdykning**
    >
    >
-   >Lär dig mer om många saker du kan göra med rapporter i djupet för [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) .
+   >Lär dig mer om många saker du kan göra med rapporter i djupdykningen [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
 
