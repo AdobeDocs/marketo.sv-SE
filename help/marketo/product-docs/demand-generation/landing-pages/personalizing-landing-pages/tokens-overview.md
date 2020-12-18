@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Översikt över token {#tokens-overview}
 
-En variabel är en variabel som kan användas i Marketo för [smarta kampanjflödessteg](http://docs.marketo.com/display/DOCS/Smart+Campaigns) , [e-post](http://docs.marketo.com/display/DOCS/General), [landningssidor](http://docs.marketo.com/display/DOCS/Landing+Pages), [kodavsnitt](http://docs.marketo.com/display/DOCS/Segmentation+and+Snippets)och [webbkampanjer](http://docs.marketo.com/display/public/DOCS/Using+the+Web+Personalization+Rich+Text+Editor).
+En token är en variabel som kan användas i Marketo [smarta kampanjflödessteg, [e-post](http://docs.marketo.com/display/DOCS/General), [landningssidor](http://docs.marketo.com/display/DOCS/Landing+Pages), [kodavsnitt](http://docs.marketo.com/display/DOCS/Segmentation+and+Snippets) och [webbkampanjer](http://docs.marketo.com/display/public/DOCS/Using+the+Web+Personalization+Rich+Text+Editor).](http://docs.marketo.com/display/DOCS/Smart+Campaigns)
 
-## Förstå standardvärden {#understanding-default-values}
+## Standardvärden {#understanding-default-values}
 
 När du använder en variabel vill du även ange ett standardvärde. Det här är texten som visas om en person inte har ett värde för fältet som du refererar till.
 
@@ -122,7 +122,7 @@ I det här exemplet kommer e-postmeddelandet att stå &quot;Greetings, (förnamn
 
 >[!NOTE]
 >
->Läs mer om dessa variabler i ordlistan för [systemtoken](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
+>Läs mer om dessa variabler i [System Tokens Glossary](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
 
 * `{{system.date}}`
 * `{{system.time}}`
@@ -149,7 +149,7 @@ I det här exemplet kommer e-postmeddelandet att stå &quot;Greetings, (förnamn
 
 >[!NOTE]
 >
->Läs mer om [tokens för intressanta stunder](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) baserat på utlösare som används i en smart kampanj.
+>Läs mer om [token för intressanta stunder](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) baserat på utlösare som används i en smart kampanj.
 
 ## Programtoken {#program-tokens}
 
@@ -161,14 +161,14 @@ I det här exemplet kommer e-postmeddelandet att stå &quot;Greetings, (förnamn
 
 ## Mina token {#my-tokens}
 
-Mina token definieras i ett program och börjar med `{{my.` det namn du skapade för token. Läs mer om [Mina token i ett program](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
+Mina token definieras i ett program och börjar med `{{my.` följt av namnet som du skapade för token. Läs mer om [Mina token i ett program](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
 
 ## Medlemstoken {#member-token}
 
-Medlemstoken används för att infoga unika värden från integrerade tjänstpartner. Ett vanligt användningsområde för Member Tokens är för unika URL:er för webbinarier-deltagare. Varje person har en unik URL för att komma åt webbinariet som kan infogas med en `{{member.webinar url}}` token. Token `{{member.webinar url}}` löser automatiskt personens unika bekräftelse-URL som genereras av tjänsteleverantören.
+Medlemstoken används för att infoga unika värden från integrerade tjänstpartner. Ett vanligt användningsområde för Member Tokens är för unika URL:er för webbinarier-deltagare. Varje person har en unik URL för att komma åt webbinariet som kan infogas med en `{{member.webinar url}}`-token. Token `{{member.webinar url}}` löser automatiskt personens unika bekräftelse-URL som genereras av tjänsteleverantören.
 
 * `{{member.webinar url}}`
 
 >[!CAUTION]
 >
->Token fylls bara i om den smarta kampanj som skickar e-postmeddelandet är en underordnad resurs till Event Program. `{{member.webinar url}}`
+>Token `{{member.webinar url}}` fylls bara i om den smarta kampanj som skickar e-postmeddelandet är en underordnad tillgång till Event Program.
