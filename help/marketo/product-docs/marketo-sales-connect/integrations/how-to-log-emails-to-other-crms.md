@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Så här loggar du e-postmeddelanden till andra CRM-system {#how-to-log-emails-to-other-crms}
+# Logga e-postmeddelanden till andra CRM:er {#how-to-log-emails-to-other-crms}
 
 Om din CRM ger dig en hemlig kopia-adress kan du använda CRM-avsnittet&quot;other&quot; för att konfigurera e-postloggning. När konfigurationen har konfigurerats loggas e-postmeddelanden som du skickar automatiskt till CRM.
 
