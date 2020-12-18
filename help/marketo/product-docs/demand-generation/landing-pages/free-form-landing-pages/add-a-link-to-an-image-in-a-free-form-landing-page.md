@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Lägga till en länk till en bild på en startsida med valfri form {#add-a-link-to-an-image-in-a-free-form-landing-page}
+# Lägg till en länk till en bild på en startsida med valfri form {#add-a-link-to-an-image-in-a-free-form-landing-page}
 
 Vill du göra en bild på landningssidan till en länk till en annan sida/plats? Så här gör du.
 
@@ -35,7 +35,7 @@ Vill du göra en bild på landningssidan till en länk till en annan sida/plats?
 
    ![](assets/add-link.png)
 
-   Grattis! Du har nu lagt till en länk till en bild på landningssidan. Nu kan du [förhandsgranska sidan](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) och se hur den fungerar.
+   Grattis! Du har nu lagt till en länk till en bild på landningssidan. Du kan nu [förhandsgranska sidan](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) och se hur den fungerar.
 
 >[!TIP]
 >
