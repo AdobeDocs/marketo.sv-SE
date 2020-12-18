@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Så här skapar du din prioriterade samtalslista i Sales Connect {#how-to-create-your-priority-call-list-in-sales-connect}
+# Skapa din prioritetssamtalslista i Sales Connect {#how-to-create-your-priority-call-list-in-sales-connect}
 
 Lär dig hur du skapar en prioriterad rapport/samtalslista med hjälp av e-postinteraktionsdata för ToutApp för att fokusera din tid på medarbetarna eller möjligheterna med framgång.
 
