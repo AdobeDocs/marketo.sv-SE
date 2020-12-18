@@ -27,7 +27,7 @@ Ett fragment måste godkännas före användning.
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. Klicka på **fragmentet** och klicka sedan på&#x200B;**Godkänn** under **Utdragsåtgärder**.
+1. Klicka på **fragmentet** och under **Fragmentåtgärder** klickar du på **Godkänn**.
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 
