@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10092902
-description: Mall 19-A - Marketo Docs - Produktdokumentation
+description: Mall 19-E - Marketo Docs - Produktdokumentation
 title: Mall 19-E
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
