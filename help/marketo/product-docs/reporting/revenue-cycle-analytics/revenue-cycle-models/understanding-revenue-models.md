@@ -37,9 +37,9 @@ Som standard startar en ny modell dig med sex intäktsfaser. Den här modellen �
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-Observera att de alla är på grön bakgrund. Detta kallas **Success Path**. Lär dig mer om vägen till framgång [här](understanding-revenue-model-success-path.md).
+Observera att de alla är på grön bakgrund. Detta kallas **Success Path**. Lär dig mer om vägen [här](understanding-revenue-model-success-path.md).
 
-**Stegen** är milstolparna i en utveckling mot sina mål.
+**Stegen är** milstolparna i en ledarutveckling mot deras mål.
 
 **Övergångar **visas som pilar och styr hur leads rör sig mellan faser.
 
@@ -59,7 +59,7 @@ Det här ser ut som en låda och är det mest grundläggande av faser. Analysern
 
 ## SLA-scen {#sla-stage}
 
-Detta är en förkortning av **servicenivåavtalets** fas. Avsikten här är att vissa faser som du vill tillämpa en tidsgräns.
+Detta är en förkortning av **servicenivåavtalet**-fasen. Avsikten här är att vissa faser som du vill tillämpa en tidsgräns.
 
 >[!NOTE]
 >
@@ -67,7 +67,7 @@ Detta är en förkortning av **servicenivåavtalets** fas. Avsikten här är att
 >
 >När en lead fyller i ett&quot;Kontakta mig&quot;-formulär och du skickar ett meddelande till en säljare kanske du vill ha ett 72-timmars SLA. Du kommer att kunna hålla reda på intrång och skala rep för att lämna en bra ledare i Communicado.
 
-## Gate Stage {#gate-stage}
+## Gatscen {#gate-stage}
 
 En Gate-scen är avsedd för situationer där du vill filtrera leads till ett av flera alternativ. Det här är ett avancerat alternativ. Nybörjare bör undvika portar.
 
@@ -75,7 +75,7 @@ En Gate-scen är avsedd för situationer där du vill filtrera leads till ett av
 >
 >**Exempel**
 >
->En port kan användas för leads som ingår i en **namngiven kontolista** för att separera detta från den normala processen.
+>En port kan användas för leads som är en del av en **namngiven kontolista** för att skilja den från den normala processen.
 
 ## Övergångar {#transitions}
 
