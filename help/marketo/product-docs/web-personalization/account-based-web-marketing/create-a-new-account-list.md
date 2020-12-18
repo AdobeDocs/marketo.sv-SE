@@ -17,7 +17,7 @@ Skapa och överför en lista över organisations- och domännamn för att rikta 
 
 >[!NOTE]
 >
->Den här artikeln gäller endast äldre kunder med Web ABM. Om du har köpt Web ABM efter september 2016 ska du följa stegen i [den här artikeln](http://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) istället.
+>Den här artikeln gäller endast äldre kunder med Web ABM. Om du har skaffat Web ABM efter september 2016 följer du stegen i [den här artikeln](http://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) i stället.
 
 ## Skapa en ny kontolista {#create-a-new-account-list-1}
 
@@ -29,7 +29,7 @@ Skapa och överför en lista över organisations- och domännamn för att rikta 
 
    ![](assets/create-new-account-list-hand.jpg)
 
-1. Välj **Bläddra** och överför CSV-filen (kontrollera att CSV-filen uppfyller villkoren). Lägg till ett **namn** och en **beskrivning**. Klicka på **Spara**.
+1. Välj **Bläddra** och överför CSV-filen (kontrollera att CSV-filen uppfyller villkoren). Lägg till en **Namn** och **Beskrivning**. Klicka på **Spara**.
 
    ![](assets/create-account-list-hands.jpg)
 
@@ -75,7 +75,7 @@ På sidan **Kontolistor** klickar du på ikonen **Redigera **i listan.
 
 ![](assets/create-new-account-list-edit.jpg)
 
-Välj **Bläddra** och överför din nya CSV-fil. Den här filen ersätter originalfilen. Klicka på **Spara**. Den nya överförda filen kommer att vara i ett väntande läge tills den har godkänts av Marketo Support. När den är i ett väntande läge förblir den ursprungliga filen aktiv.
+Välj **Bläddra** och överför den nya CSV-filen. Den här filen ersätter originalfilen. Klicka på **Spara**. Den nya överförda filen kommer att vara i ett väntande läge tills den har godkänts av Marketo Support. När den är i ett väntande läge förblir den ursprungliga filen aktiv.
 
 ![](assets/set-account-list-edit-hands.jpg)
 
