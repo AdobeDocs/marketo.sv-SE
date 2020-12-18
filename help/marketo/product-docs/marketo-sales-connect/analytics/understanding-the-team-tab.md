@@ -15,7 +15,7 @@ ht-degree: 0%
 
 På fliken Team belyser vi tre viktiga mätvärden.
 
-## E-postmeddelanden skickade med mall {#emails-sent-with-template}
+## E-postmeddelanden skickade med mallen {#emails-sent-with-template}
 
 Av de e-postmeddelanden som har skickats, hur många av dem använde en mall.
 
@@ -23,7 +23,7 @@ Av de e-postmeddelanden som har skickats, hur många av dem använde en mall.
 
 Över hela styrelsen bubblar vi upp den tid det tar att engagera sig, vilket anger vilken tid på dygnet teamet får mest aktivitet (vyer, klickningar, svar). Ert team kan schemalägga e-postmeddelanden eller planera för att skicka e-postmeddelanden strategiskt runt den här tiden.
 
-## Avslutade affärer {#deals-closed}
+## Avslutade erbjudanden {#deals-closed}
 
 Detta baseras på försäljningsloggen och hur många avtal som har lagts ned under den aktuella månaden.
 
