@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # Fel vid sändning från webbprogrammet {#error-when-sending-from-the-web-application}
 
-När ett fel skapas från [webbprogrammet](http://toutapp.com/login)beror det oftast på ett problem med formateringen av e-postmeddelandet eller de dynamiska fälten. Kontrollera att allt fylls i korrekt i dispositionsfönstret och försök sedan skicka igen.
+När ett fel skapas från [webbprogrammet](http://toutapp.com/login) beror det oftast på ett problem med formateringen av e-postmeddelandet eller de dynamiska fälten. Kontrollera att allt fylls i korrekt i dispositionsfönstret och försök sedan skicka igen.
