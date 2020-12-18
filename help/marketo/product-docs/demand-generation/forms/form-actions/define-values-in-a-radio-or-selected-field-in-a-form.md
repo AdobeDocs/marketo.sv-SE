@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Definiera värden i ett alternativfält eller markerat fält i ett formulär {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-När du har [angett en fälttyp](../../../../product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) som en alternativknapp eller valtyp, vill du definiera de värden som användaren kan välja mellan. Så här gör du.
+När du har [angett att fälttypen](../../../../product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) ska vara en alternativknapp eller en markeringstyp, vill du definiera de värden som användaren kan välja mellan. Så här gör du.
 
-1. Gå till **Marknadsföringsaktiviteter** och **aktiviteter**.
+1. Gå till **Marknadsföring** **Aktiviteter**.
 
    ![](assets/ma.png)
 
-1. Markera formuläret och klicka på **Redigera** **formulär**.
+1. Markera formuläret och klicka på **Redigera** **Formulär**.
 
    ![](assets/image2014-9-15-16-3a28-3a56.png)
 
