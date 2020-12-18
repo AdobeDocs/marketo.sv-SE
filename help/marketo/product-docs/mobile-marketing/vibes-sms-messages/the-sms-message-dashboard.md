@@ -17,15 +17,15 @@ Kontrollpanelen för SMS-meddelanden visar användbar information om ditt SMS-me
 
 ![](assets/converted-dashboard-image.png)
 
-I **SMS-progressionsdiagrammet** visas det totala antalet skickade och levererade meddelanden. Beloppen visas till höger och om du håller pekaren över en stapel visas procentvärdet.
+Diagrammet **SMS Progression** visar totalt antal skickade och levererade. Beloppen visas till höger och om du håller pekaren över en stapel visas procentvärdet.
 
 ![](assets/sms-progression-hand-border.png)
 
-I diagrammet **Sammanfattning** visas den beräknade studsfrekvensen i procent. Håll pekaren över stapeln om du vill visa leveransfrekvensen per belopp och procent. Håll muspekaren över den orangefärgade studsfrekvensen i fältet för att visa beloppen och procentsatserna för den mjuka studsfrekvensen och den hårda studsfrekvensen.
+Diagrammet **Sammanfattning** visar den beräknade studsfrekvensen i procent. Håll pekaren över stapeln om du vill visa leveransfrekvensen per belopp och procent. Håll muspekaren över den orangefärgade studsfrekvensen i fältet för att visa beloppen och procentsatserna för den mjuka studsfrekvensen och den hårda studsfrekvensen.
 
 ![](assets/hover-over-summary-hands-thin-border.png)
 
-Med **diagrammet Aktivitet över tid** kan du välja Totalt skickat eller Totalt levererat. Välj ett lämpligt intervall från datumintervallväljaren.
+Med diagrammet **Aktivitet över tid** kan du välja Totalt skickat eller Totalt levererat. Välj ett lämpligt intervall från datumintervallväljaren.
 
 ![](assets/activity-over-time-hands.png)
 
