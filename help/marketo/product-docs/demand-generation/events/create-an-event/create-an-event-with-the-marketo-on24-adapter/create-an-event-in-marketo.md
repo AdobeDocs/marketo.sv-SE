@@ -19,9 +19,9 @@ Så här utbyts data:
 
 ![](assets/image2015-12-16-13-33-56.png)
 
-När du skapar Marketo-händelsen väljer du **Webbinarium** som kanaltyp. Du kan redigera den här kanalen i Admin och skapa en ny kanal. Om du skapar en ny kanal måste den vara av typen **Event med Webinar** för att integreringen ska fungera. Mer information finns i [Skapa en programkanal](../../../../../product-docs/administration/tags/create-a-program-channel.md) .
+När du skapar Marketo-händelsen väljer du **Webbseminarium** som kanaltyp. Du kan redigera den här kanalen i Admin och skapa en ny kanal. Om du skapar en ny kanal måste den vara av typen **Event med Webinar** för att integreringen ska fungera. Mer information finns i [Skapa en programkanal](../../../../../product-docs/administration/tags/create-a-program-channel.md).
 
-Nästa steg är att [konfigurera händelseinställningar och synkronisera Markto med ditt webbinarium](https://docs.marketo.com/x/IRCa).
+Nästa steg är att [konfigurera händelseinställningar och synkronisera Marketo med ditt webbinarium](https://docs.marketo.com/x/IRCa).
 
 >[!MORELIKETHIS]
 >
