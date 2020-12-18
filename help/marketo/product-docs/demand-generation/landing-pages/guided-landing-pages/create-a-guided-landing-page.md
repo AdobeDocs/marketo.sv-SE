@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Lägen för landningssidor definieras av deras mall. [Läs mer](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) om mallar för frihandsritning och guidade landningssidor.
+>Lägen för landningssidor definieras av deras mall. [Läs ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) mer om mallar för frihandsritningar och guidade landningssidor.
 
 >[!PREREQUISITES]
 >
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 Du kan skapa landningssidor med stödlinjer som lokala resurser i ett program eller i Design Studio som ska användas globalt.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/one-1.png)
 
@@ -33,11 +33,11 @@ Du kan skapa landningssidor med stödlinjer som lokala resurser i ett program el
 
    ![](assets/image2015-5-26-9-3a24-3a2.png)
 
-1. Klicka på listrutan **Nytt** . Välj **Ny lokal resurs**.
+1. Klicka på listrutan **Nytt**. Välj **Ny lokal resurs**.
 
    ![](assets/image2015-5-26-9-3a25-3a36.png)
 
-1. Välj **landningssida**.
+1. Välj **Startsida**.
 
    ![](assets/four.png)
 
@@ -45,7 +45,7 @@ Du kan skapa landningssidor med stödlinjer som lokala resurser i ett program el
 
    >[!NOTE]
    >
-   >De guidade mallarna för landningssidor har ikonen ![—](assets/image2015-5-26-9-3a26-3a51.png) bredvid sig. De guidade mallarna är strukturerade så att de kan vara fullt responsiva.
+   >De guidade startsidmallarna har ikonen ![—](assets/image2015-5-26-9-3a26-3a51.png) bredvid sig. De guidade mallarna är strukturerade så att de kan vara fullt responsiva.
 
    ![](assets/image2015-5-24-15-3a47-3a56.png)
 
@@ -55,7 +55,7 @@ Du kan skapa landningssidor med stödlinjer som lokala resurser i ett program el
 
    ![](assets/six.png)
 
-1. Klicka på listrutan **Nytt** . Välj **Ny landningssida**.
+1. Klicka på listrutan **Nytt**. Välj **Ny landningssida**.
 
    ![](assets/seven.png)
 
@@ -69,6 +69,6 @@ Du kan skapa landningssidor med stödlinjer som lokala resurser i ett program el
 
 >[!TIP]
 >
->URL:en skapas automatiskt från program- och landningssidans namn. Om du vill ändra URL-adressen redigerar du fältet **Sidadress** .
+>URL:en skapas automatiskt från program- och landningssidans namn. Om du vill ändra URL-adressen redigerar du fältet **Sida-URL**.
 >
 >Avmarkera kryssrutan **Öppna i redigerare** om du inte vill att redigeraren ska öppnas omedelbart efter att du klickat på **Skapa**.
