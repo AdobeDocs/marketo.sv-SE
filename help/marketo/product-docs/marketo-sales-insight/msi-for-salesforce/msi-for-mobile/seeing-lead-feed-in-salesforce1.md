@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Se lead-feed i Salesforce1 {#seeing-lead-feed-in-salesforce}
+# Visa lead-feed i Salesforce1 {#seeing-lead-feed-in-salesforce}
 
 Ledningsmataren är en uppdaterad lista över intressanta händelser som har utförts av dina leads.
 
-1. Gå till **Marketo** i Salesforce1.
+1. Gå till området **Marketo** i Salesforce1.
 
    ![](assets/image2015-4-20-15-3a14-3a15.png)
 
@@ -23,7 +23,7 @@ Ledningsmataren är en uppdaterad lista över intressanta händelser som har utf
 
    ![](assets/image2015-4-23-17-3a7-3a16.png)
 
-1. Tryck på **Lead Feed**.
+1. Tryck på **Leadfeed**.
 
    ![](assets/image2015-4-23-17-3a19-3a16.png)
 
