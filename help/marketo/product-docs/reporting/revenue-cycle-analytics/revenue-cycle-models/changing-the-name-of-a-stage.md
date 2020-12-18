@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vill du ändra dig? Inte ett problem. Det är enkelt att byta namn på en fas i intäktscykelmodellen.
 
-1. Gå till **Analytics** .
+1. Gå till området **Analytics**.
 
    ![](assets/image2015-4-27-23-3a18-3a34.png)
 
