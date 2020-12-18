@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Om en besökare är cookie (en känd person som tidigare har angett en e-postadress), varför behöver du då bekymra dig om formuläret? Ge dem bara nedladdningsknappen. Så här gör du.
 
-1. Gå till **Marknadsföringsaktiviteter** och **aktiviteter**.
+1. Gå till **Marknadsföring** **Aktiviteter**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Under **Marknadsföringsaktiviteter** **väljer du formuläret och klickar på** Redigera **** formulär ****.
+1. Under **Marknadsföring** **Aktiviteter** markerar du formuläret och klickar på **Redigera** **Formulär**.
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. Klicka på **Inställningar** under **Formulärinställningar******.
+1. Under **Formulär** **Inställningar** klickar du på **Inställningar**.
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. Ange om **du känner** till **besökare, visa**: till **anpassad** **HTML**.
+1. Ange om **du känner** **Besökare, visa**: till **Anpassad** **HTML**.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
@@ -45,7 +45,7 @@ Om en besökare är cookie (en känd person som tidigare har angett en e-postadr
    |---|---|
    | `{{lead.FirstName}}` | Då visas personens förnamn. |
    | `{{lead.LastName}}` | Då visas personens efternamn. |
-   | `{{form.Button:default=Download}}` | Då visas formulärknappen. Ersätt området efter `=` knappen för att ändra knapptexten. |
+   | `{{form.Button:default=Download}}` | Då visas formulärknappen. Ersätt området efter `=` om du vill ändra knapptexten. |
    | `{{form.NotYou:default=Not you?}}` | Då visas en länk om personen är någon annan. Ersätt området efter `=` för att ändra länktexten. |
 
    >[!CAUTION]
@@ -69,7 +69,7 @@ Om en besökare är cookie (en känd person som tidigare har angett en e-postadr
    >**Påminnelse**
    >
    >
-   >Kom ihåg att [godkänna landningssidans utkast](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som har skapats av formulärändringarna.
+   >Kom ihåg att [godkänna landningssidans utkast](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som skapats av formulärändringarna.
 
    ![](assets/image2014-9-15-12-3a28-3a12.png)
 
