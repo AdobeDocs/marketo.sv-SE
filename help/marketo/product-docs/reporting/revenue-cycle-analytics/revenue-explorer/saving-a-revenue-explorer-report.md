@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Spara en rapport i skatteutforskaren {#saving-a-revenue-explorer-report}
+# Sparar en Intresseutforskarrapport {#saving-a-revenue-explorer-report}
 
 Rapporterna i Intresseutforskaren kan sparas i den fil du vill.
 
