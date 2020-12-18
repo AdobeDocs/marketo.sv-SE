@@ -17,9 +17,9 @@ Marketo Sales Insight är ett fantastiskt verktyg för att ge säljteamet ett&qu
 
 >[!PREREQUISITES]
 >
->Slutför er [Marketo-Microsoft-integrering](http://docs.marketo.com/x/ZwBd).
+>Slutför din [Marketo-Microsoft-integrering](http://docs.marketo.com/x/ZwBd).
 >
->[Hämta rätt lösning](http://docs.marketo.com/x/LoJo) för din version av Microsoft Dynamics CRM.
+>[Hämta rätt ](http://docs.marketo.com/x/LoJo) lösning för din version av Microsoft Dynamics CRM.
 
 ## Importera lösning {#import-solution}
 
@@ -68,7 +68,7 @@ OK, nu är det dags att importera Marketo Sales Insight-lösningen till Microsof
 
    ![](assets/image2014-12-12-9-3a6-3a19.png)
 
-1. Hämta loggfilen utan kostnad och klicka sedan på **Stäng**.
+1. Hämta loggfilen och klicka sedan på **Stäng**.
 
    ![](assets/image2014-12-12-9-3a6-3a29.png)
 
@@ -88,7 +88,7 @@ Låt oss knyta din Marketo-instans till Sales Insight i Dynamics. Så här:
 
    ![](assets/image2014-12-12-9-3a6-3a50.png)
 
-1. Klicka på **Redigera API-konfiguration** under Sales Insight.
+1. Under avsnittet Sales Insight klickar du på **Redigera API-konfiguration**.
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
@@ -102,7 +102,7 @@ Låt oss knyta din Marketo-instans till Sales Insight i Dynamics. Så här:
 
    >[!NOTE]
    >
-   >Följande fält måste synkroniseras med Marketo för att *både Lead och Contact* for Sales Insight ska fungera:
+   >Följande fält måste synkroniseras med Marketo för *både Lead och Contact* för att Sales Insight ska fungera:
    >
    >    
    >    
@@ -112,9 +112,9 @@ Låt oss knyta din Marketo-instans till Sales Insight i Dynamics. Så här:
 
    >    
    >    
-   >Om något av dessa fält saknas visas ett felmeddelande i Marketo med namnet på de fält som saknas. Utför [den här proceduren](../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)för att åtgärda detta.
+   >Om något av dessa fält saknas visas ett felmeddelande i Marketo med namnet på de fält som saknas. Utför [den här proceduren](../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md) för att åtgärda detta.
 
-1. Gå tillbaka till Microsoft Dynamics, gå till **Inställningar**.
+1. Gå tillbaka i Microsoft Dynamics till **Inställningar**.
 
    ![](assets/image2014-12-12-9-3a7-3a25.png)
 
@@ -146,7 +146,7 @@ Slutligen måste du ge specifika användare tillgång till Marketo Sales Insight
 
    ![](assets/image2015-4-29-14-3a57-3a46.png)
 
-1. Markera de användare som du vill ge tillgång till Sales Insight och klicka på **Hantera roller**.
+1. Markera de användare som du vill ge åtkomst till Sales Insight till och klicka på **Hantera roller**.
 
    ![](assets/image2015-4-29-14-3a59-3a31.png)
 
