@@ -29,7 +29,7 @@ Om du vill aktivera ID:n måste du skaffa koderna och skicka dem till din IT-avd
 
    ![](assets/image2015-12-2-10-3a18-3a6.png)
 
-1. Bläddra nedåt och klicka på **Redigera** i sektionen Åtkomstskydd.
+1. Bläddra nedåt och klicka på **Redigera** i sektionen Åtkomstsäkerhet.
 
    ![](assets/image2015-12-1-14-3a41-3a37.png)
 
