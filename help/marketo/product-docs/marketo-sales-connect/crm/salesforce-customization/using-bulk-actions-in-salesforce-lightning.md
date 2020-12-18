@@ -66,11 +66,11 @@ Lär dig hur du utför satsvisa åtgärder, som att lägga till leads till en ka
 
    ![](assets/seven-2.png)
 
-1. Klicka på listrutan med pilar (längst till höger på skärmen) och välj **Skicka till MSC**.
+1. Klicka på pilen i listrutan längst till höger på skärmen och välj **Skicka till MSC**.
 
    ![](assets/eight-2.png)
 
-1. En ny flik med namnet&quot;Salesforce Bridge&quot; öppnas. Klicka på knappen **Gå till grupp→** .
+1. En ny flik med namnet&quot;Salesforce Bridge&quot; öppnas. Klicka på knappen **Gå till grupp →**.
 
    ![](assets/nine-2.png)
 
