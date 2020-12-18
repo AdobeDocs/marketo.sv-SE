@@ -22,9 +22,9 @@ Du kan välja att visa kända personer eller anonyma personer, men inte båda ty
 >* [Lägg till Munchkin-spårningskod på din webbplats](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
 
-1. [Skapa en](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)rapport och välj [rapporttypen](report-type-overview.md)** Webbsidesaktivitetsrapport**.
-1. Välj om du vill [visa kända eller anonyma personer](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) i rapporten.
-1. [Ange tidsramen för rapporten](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) och klicka på fliken **Rapport** .
+1. [Skapa en ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)rapport och välj  [rapporttypen](report-type-overview.md)** Webbsidesaktivitetsrapport**.
+1. Välj att [visa kända eller anonyma personer](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) i rapporten.
+1. [Ange tidsramen för ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) rapporten och klicka på fliken  **** Rapportera.
 1. Du har det! Granska rapporten för att se vem som besöker er webbplats.
 
    ![](assets/image2017-3-29-9-3a21-3a36.png)
@@ -35,10 +35,10 @@ Du kan välja att visa kända personer eller anonyma personer, men inte båda ty
 
    >[!TIP]
    >
-   >Om du vill ta reda på vem som besöker webbplatsen mest [sorterar du rapporten](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) [](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)i kolumnen *Sidvyer* och väljer Sortera fallande.
+   >[sortera rapporten](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) [](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)på *sidvyerna* och välj Sortera fallande om du vill veta vem som besöker webbplatsen mest.
 
-   [Marketo lägger till anonyma](../../../../product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) webbplatsbesökare i din databas och du kan välja att visa dem i den här rapporten. Det ger mycket information trots att de är anonyma.\
-   [Kolumner som du kan välja](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en webbsidesaktivitetsrapport är:
+   [Marketo lägger till ](../../../../product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) anonyma webbplatsbesökare i din databas och du kan välja att visa dem i den här rapporten. Det ger mycket information trots att de är anonyma.\
+   [Kolumner som du kan ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) välja för en aktivitetsrapport för webbsida är:
 
 <table> 
  <thead> 
@@ -50,7 +50,7 @@ Du kan välja att visa kända personer eller anonyma personer, men inte båda ty
  <tbody> 
   <tr> 
    <td>Person</td> 
-   <td>Besökarens namn, titel och företag.<br><strong>Klicka</strong> för att visa personinformation och aktivitetshistorik.</td> 
+   <td>Besökarens namn, titel och företag.<br><strong>Klicka </strong> för att visa personinformation och aktivitetshistorik.</td> 
   </tr> 
   <tr> 
    <td>Första/sista besök (tidszon)</td> 
@@ -58,7 +58,7 @@ Du kan välja att visa kända personer eller anonyma personer, men inte båda ty
   </tr> 
   <tr> 
    <td>Sidvyer</td> 
-   <td>Antal sidor som har lästs in av den här besökaren.<br><strong><a href="web-page-activity-report/web-pages-viewed-web-page-activity-report.md">Klicka</a></strong> för att se vilka sidor som besöktes.</td> 
+   <td>Antal sidor som har lästs in av den här besökaren.<br><strong><a href="web-page-activity-report/web-pages-viewed-web-page-activity-report.md">Klicka </a></strong> för att visa vilka sidor som besöktes.</td> 
   </tr> 
   <tr> 
    <td>HTTP-referens</td> 
@@ -70,7 +70,7 @@ Du kan välja att visa kända personer eller anonyma personer, men inte båda ty
   </tr> 
   <tr> 
    <td>Införstått företag eller Internet-leverantör</td> 
-   <td>Företaget, vilket framgår av besökarnas IP-adress. <strong>Namn i fetstil</strong> anger att det är företaget, inte Internet-leverantören. </td> 
+   <td>Företaget, vilket framgår av besökarnas IP-adress. <strong>Namn i </strong> fet stil anger att det är företaget, inte Internet-leverantören. </td> 
   </tr> 
   <tr> 
    <td>Infört land, delstat/region och ort</td> 
@@ -81,7 +81,7 @@ Du kan välja att visa kända personer eller anonyma personer, men inte båda ty
 
 >[!TIP]
 >
->Trimma era säljare! [Filtrera rapporten](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)för deras territorium och [prenumerera på den](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)!
+>Trimma era säljare! [Filtrera rapporten ](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)för deras territorium och  [prenumerera på den](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)!
 
 >[!NOTE]
 >
