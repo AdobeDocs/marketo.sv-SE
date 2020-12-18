@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Du kan ändra ordningen på kolumnerna i en rapport.
 
-1. Gå till området **Marknadsföringsaktiviteter** (eller **Analytics**).
+1. Gå till **Marknadsföringsaktiviteter** (eller **Analytics**).
 
    ![](assets/image2014-9-16-10-3a50-3a27.png)
 
-1. Välj rapporten i navigeringsträdet och klicka på fliken **Rapport** .
+1. Välj din rapport i navigeringsträdet och klicka på fliken **Rapport**.
 
    ![](assets/image2014-9-16-10-3a50-3a31.png)
 
@@ -47,5 +47,5 @@ Du kan ändra ordningen på kolumnerna i en rapport.
    >**Djupdykning**
    >
    >
-   >Lär dig allt du kan göra med rapporter i [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+   >Lär dig allt du kan göra med rapporter i [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
 
