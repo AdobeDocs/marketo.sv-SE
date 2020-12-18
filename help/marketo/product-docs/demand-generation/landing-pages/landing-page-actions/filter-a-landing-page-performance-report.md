@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Filtrera en rapport om landningssidans prestanda {#filter-a-landing-page-performance-report}
 
-Fokusera på [landningssidans prestandarapport](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) på landningssidor i dina program (lokala resurser), på dem i Design Studio (globala tillgångar) eller på dem som har arkiverats.
+Fokusera din [rapport om landningssidans prestanda](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) på landningssidor i dina program (lokala resurser), på landningssidor i Design Studio (globala resurser) eller på dem som har arkiverats.
 
-1. Gå till **Analytics** (eller **Marketing Activity**).
+1. Gå till **Analytics** (eller **Marknadsföringsaktiviteter**).
 
    ![](assets/analyticstile.png)
 
@@ -27,7 +27,7 @@ Fokusera på [landningssidans prestandarapport](../../../../product-docs/demand-
 
    ![](assets/image2014-9-18-15-3a46-3a16.png)
 
-   * **Design Studio Landing Pages:** Globala resurser som hanteras i Design Studio.
+   * **landningssidor för Design Studio:** Globala resurser som hanteras i Design Studio.
    * **Landningssidor för marknadsföringsaktiviteter:** Lokala resurser i program på fliken Marknadsföringsaktiviteter.
    * **Arkiverade landningssidor:** Inaktiva, indragna landningssidor.
 
@@ -47,5 +47,5 @@ Fokusera på [landningssidans prestandarapport](../../../../product-docs/demand-
 >
 >**Djupdykning**
 >
->Lär dig allt om rapporter i [grundläggande rapporter](http://docs.marketo.com/display/docs/basic+reporting).
+>Lär dig allt om rapporter i [grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
 
