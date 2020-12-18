@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Prioritera webbkampanjer {#prioritizing-web-campaigns}
+# Prioriterar webbkampanjer {#prioritizing-web-campaigns}
 
 Prioritera era webbkampanjer när två eller flera webbkampanjer överlappar varandra genom att ange en prioriterad poäng.
 
@@ -34,7 +34,7 @@ En In Zone-kampanj och en (Widget eller Dialog) kampanj kan reagera på samma si
 
    >[!NOTE]
    >
-   >Använd [filterfunktionen](filter-web-campaigns.md)för att göra det enklare att hitta den webbkampanj du vill ha.
+   >Använd filterfunktionen [](filter-web-campaigns.md) för att göra det enklare att hitta den webbkampanj du vill ha.
 
 1. Ange prioritetspoäng (999 = Högsta prioritet 1 = Lägsta prioritet) på sidan Redigera kampanj.
 
