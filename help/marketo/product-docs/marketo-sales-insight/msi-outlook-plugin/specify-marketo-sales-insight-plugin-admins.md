@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ange administratörer för Marketo Sales Insight-plugin {#specify-marketo-sales-insight-plugin-admins}
+# Ange Marketo Sales Insight-plugin-administratörer {#specify-marketo-sales-insight-plugin-admins}
 
 Du kan ange vilka kontakter som ska visas i det e-postmeddelande som du skickar till användarna när du bjuder in dem att konfigurera MSI i Outlook.
 
@@ -19,7 +19,7 @@ Du kan ange vilka kontakter som ska visas i det e-postmeddelande som du skickar 
 
    ![](assets/image2016-7-25-14-3a12-3a59.png)
 
-1. Klicka på fliken **E-posttillägg** .
+1. Klicka på fliken **E-posttillägg**.
 
    ![](assets/image2016-7-25-14-3a2-3a53.png)
 
