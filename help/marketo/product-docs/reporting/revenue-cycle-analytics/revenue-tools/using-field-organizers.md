@@ -23,13 +23,13 @@ Det finns ingen specifik rapport för fältorganisatörer.
 
 Fältorganisatörer används i modellprestandaanalys.
 
-## Skapa fältorganisatörer {#how-to-create-field-organizers}
+## Så här skapar du fältorganisatörer {#how-to-create-field-organizers}
 
 1. Klicka på **Databas**.
 
    ![](assets/db.png)
 
-1. Under **Nytt** väljer du **Ny fältsorterare**.
+1. Under **Ny** väljer du **Ny fältorganisatör**.
 
    ![](assets/two-1.png)
 
