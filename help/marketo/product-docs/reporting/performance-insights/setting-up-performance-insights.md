@@ -21,13 +21,13 @@ Följ stegen nedan för att konfigurera MPI.
 
    ![](assets/admin.png)
 
-1. Klicka på **Inkomstcykelanalys**.
+1. Klicka på **Intäktscykelanalys**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >Om du inte har någon RCA måste du välja **Programanalys** för steg 2.
+   >Om du inte har RCA måste du välja **Programanalys** för steg 2.
 
 1. Klicka på **Redigera** under Attribution.
 
@@ -67,11 +67,11 @@ Uppdatera programkostnaderna i minst 12 månader. Du kan göra detta manuellt el
 
    ![](assets/select-program.png)
 
-1. Klicka på fliken **Inställningar** .
+1. Klicka på fliken **Inställningar**.
 
    ![](assets/setup-tab.png)
 
-1. Dra **periodkostnad** till arbetsytan.
+1. Dra **Periodkostnad** till arbetsytan.
 
    ![](assets/period-cost.png)
 
