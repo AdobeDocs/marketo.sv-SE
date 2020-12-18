@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Skapa en rapport för intäktsutforskaren {#create-a-revenue-explorer-report}
+# Skapa en rapport för Intresseutforskaren {#create-a-revenue-explorer-report}
 
 Med rapporten Revenue Explorer (intäktsutforskaren) kan du följa avkastningen på era marknadsföringssatsningar.
 
