@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Marketo Outlook Plugin - avinstallation av IT {#marketo-outlook-plugin-uninstall-by-it}
+# Marketo Outlook Plugin Uninstall av IT {#marketo-outlook-plugin-uninstall-by-it}
 
 Så här kan IT-avdelningen fjärravinstallera Marketo Outlook-pluginprogrammet.
 
