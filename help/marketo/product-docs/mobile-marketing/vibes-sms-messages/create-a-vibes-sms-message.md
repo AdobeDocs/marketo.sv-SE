@@ -25,9 +25,9 @@ Så här skapar du ett Vibes SMS-meddelande.
 
    >[!TIP]
    >
-   >Du kan också klicka på listrutan **Nytt** .
+   >Du kan också klicka på listrutan **Nytt**.
 
-1. Klicka på **SMS-meddelande**.
+1. Klicka på **SMS**.
 
    ![](assets/new-local-asset-selection-hand.jpg)
 
@@ -47,7 +47,7 @@ Så här skapar du ett Vibes SMS-meddelande.
    >
    >Begränsningarna för USA och Kanada är olika, med 160 respektive 130 tecken. Om du överskrider teckengränserna kan meddelandet delas upp. Vi visar när du överskrider gränsen för Kanada, men redigeraren är optimerad för USA och delar upp meddelandet baserat på USA:s gräns.
 
-1. Klicka på **Token** på Infoga-menyn för att lägga till en token i meddelandet.
+1. Klicka på **Token** på Infoga-menyn om du vill lägga till en token i meddelandet.
 
    ![](assets/add-token-real-hand.jpg)
 
@@ -59,7 +59,7 @@ Så här skapar du ett Vibes SMS-meddelande.
 
    ![](assets/full-message-link-hand.jpg)
 
-1. Välj en länktyp. Marketo Landing Page är standard. Om du går med på det måste du välja landningssidan i listrutan och klicka på **Infoga**.
+1. Välj en länktyp. Marketo Landing Page är standard. Om du väljer det måste du välja landningssidan i listrutan och klicka på **Infoga**.
 
    ![](assets/insert-link-real-hands.jpg)
 
@@ -67,7 +67,7 @@ Så här skapar du ett Vibes SMS-meddelande.
    >
    >De två spårningslänkarna är markerade som standard.
 
-1. Om du vill använda en extern URL i stället klickar du på knappen **Extern URL** och anger URL:en i fältet URL. Klicka på **Infoga**.
+1. Om du vill använda en extern URL i stället klickar du på knappen **Extern URL** och anger URL:en i URL-fältet. Klicka på **Infoga**.
 
    ![](assets/insert-link-url-hands.jpg)
 
