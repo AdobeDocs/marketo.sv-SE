@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Innan du publicerar kan du se formuläret i den här snabba och enkla formulärförhandsgranskningen.
 
-1. Gå till **Marknadsföringsaktiviteter** och **aktiviteter**.
+1. Gå till **Marknadsföring** **Aktiviteter**.
 
    ![](assets/login-marketing-activities-6.png)
 
@@ -23,15 +23,15 @@ Innan du publicerar kan du se formuläret i den här snabba och enkla formulärf
 
    ![](assets/image2014-9-15-17-3a45-3a51.png)
 
-1. Klicka på **Förhandsgranska** under **Formuläråtgärder******.
+1. Under **Formulär** **Åtgärder** klickar du på **Förhandsgranska**.
 
    ![](assets/image2014-9-15-17-3a46-3a9.png)
 
-1. Formulärredigeraren öppnas i **förhandsgranskningsläge** .
+1. Formulärredigeraren öppnas i **förhandsgranskningsläge**.
 
    ![](assets/image2014-9-15-17-3a46-3a17.png)
 
-1. Klicka på **Redigera** **utkast** för att gå tillbaka till **redigeringsläget** .
+1. Klicka på **Redigera** **Utkast** om du vill gå tillbaka till **redigeringsläget**.
 
    ![](assets/image2014-9-15-17-3a46-3a37.png)
 
@@ -42,7 +42,7 @@ Innan du publicerar kan du se formuläret i den här snabba och enkla formulärf
    >
    >Läs mer om [formulär](http://docs.marketo.com/display/docs/forms).
 
-1. Växla enkelt tillbaka genom att klicka på **Förhandsgranska** **utkast**.
+1. Växla enkelt tillbaka genom att klicka på **Förhandsgranska** **Utkast**.
 
    ![](assets/image2014-9-15-17-3a46-3a45.png)
 
