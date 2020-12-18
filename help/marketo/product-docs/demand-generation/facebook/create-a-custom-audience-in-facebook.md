@@ -15,8 +15,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Lägg till anpassade Facebook-målgrupper som en LaunchPoint-tjänst](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) i administratörsavsnittet.
->* [Acceptera Facebooks villkor](https://www.facebook.com/ads/manage/customaudiences/tos.php) för anpassade målgrupper i ditt Facebook-konto.
+>* [Lägg till anpassade Facebook-målgrupper som en LaunchPoint-](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) tjänst i administratörsavsnittet.
+>* [Acceptera Facebooks anpassade målgruppsvillkor ](https://www.facebook.com/ads/manage/customaudiences/tos.php) i ditt Facebook-konto.
 
 >
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Läs mer om [anpassade målgrupper på Facebook](https://www.facebook.com/help/341425252616329).
+>Läs mer om [anpassade målgrupper i Facebook](https://www.facebook.com/help/341425252616329).
 
 1. Hitta och välj den smarta eller statiska lista som innehåller de leads du vill skapa målgruppen från.
 
@@ -38,11 +38,11 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. Klicka på listrutan **Målgrupp** och välj **+ Ny publik**.
+1. Klicka på listrutan **Målgrupp** och välj **+ Ny målgrupp**.
 
    ![](assets/four.png)
 
-1. Skriv in ett **publiknamn**. Klicka på **Uppdatera**.
+1. Skriv in ett **målgruppsnamn**. Klicka på **Uppdatera**.
 
    ![](assets/five.png)
 
@@ -52,13 +52,13 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Vill du byta ut en ny publik mot en befintlig som är kopplad till en annonsuppsättning eller grupp? Markera kryssrutan **Ersätt en befintlig målgrupp** . Om du gör det raderas **inte** den målgrupp som ersätts.
+   >Vill du byta ut en ny publik mot en befintlig som är kopplad till en annonsuppsättning eller grupp? Markera kryssrutan **Ersätt en befintlig målgrupp**. Om du gör detta kommer **inte** att ta bort målgruppen som ersätts.
 
 1. När du är klar uppdateras statusdialogrutan.
 
    ![](assets/six.png)
 
-   Och det är allt! På Facebook ser du den nya publiken i **Ads Manager > Publiker**.
+   Och det är allt! På Facebook ser du den nya målgruppen i **Ads Manager > Publiker**.
 
    ![](assets/image2014-12-10-11-3a38-3a32.png)
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Se [Facebooks utbildningsväg för Marketo-kunder](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi). Det täcker allt ni behöver veta, från att skapa en Facebook-sida till att målinrikta era Facebook-annonser med hjälp av Marketos annonsnätverksintegreringar.
+   >Se [Facebook-utbildningsvägen för Marketo-kunder](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi). Det täcker allt ni behöver veta, från att skapa en Facebook-sida till att målinrikta era Facebook-annonser med hjälp av Marketos annonsnätverksintegreringar.
 
    >[!NOTE]
    >
