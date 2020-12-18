@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ange dina ON24-inloggningsuppgifter i Marketo {#enter-your-on-credentials-in-marketo}
+# Ange dina ON24-autentiseringsuppgifter i Marketo {#enter-your-on-credentials-in-marketo}
 
 Låt oss komma igång med din ON24-händelseintegrering. Om du någon gång behöver redigera eller ta bort dina inloggningsuppgifter, beskrivs dessa steg också nedan.
 
@@ -31,11 +31,11 @@ Låt oss komma igång med din ON24-händelseintegrering. Om du någon gång beh�
 
 1. Ange följande information i dialogrutan Ny tjänst:
 
-   * **Visningsnamn** - Ange ett namn som ska användas i Marketo. Detta kan vara ditt namn eller namnet på din grupp om du delar inloggningsuppgifter.
-   * **Tjänst** - Välj **On24** i listrutan.
+   * **Visningsnamn**  - Ange ett namn som ska användas i Marketo. Detta kan vara ditt namn eller namnet på din grupp om du delar inloggningsuppgifter.
+   * **Service**  - Välj  **On24** i listrutan.
 
-   * **Klientnyckel** - Ange den ON24-klientnyckel som du använder för inloggning. Klientnyckeln är en 32-siffrig sträng som innehåller en blandning av bokstäver och siffror.
-   * **Klient-ID** - Ange det 4-siffriga ON24-klient-ID som du använder för inloggning. Du kan hämta klient-ID:t och klientnyckeln direkt från kontohanteraren för ON24.
+   * **Klientnyckel**  - Ange den ON24-klientnyckel som du använder för inloggning. Klientnyckeln är en 32-siffrig sträng som innehåller en blandning av bokstäver och siffror.
+   * **Klient-ID**  - Ange det 4-siffriga ON24-klient-ID som du använder för inloggning. Du kan hämta klient-ID:t och klientnyckeln direkt från kontohanteraren för ON24.
 
    ![](assets/image2015-12-22-13-3a38-3a52.png)
 
@@ -67,7 +67,7 @@ Du kan redigera dina autentiseringsuppgifter om ditt lösenord upphör att gäll
 
    ![](assets/nine.png)
 
-Nästa steg är att [skapa ett webbinarium i ON24](create-your-webinar-event-in-on24.md).
+Nästa steg är att [skapa webbinariet i ON24](create-your-webinar-event-in-on24.md).
 
 >[!MORELIKETHIS]
 >
