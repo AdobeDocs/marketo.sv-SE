@@ -19,7 +19,7 @@ Om du skickar ett gruppmeddelande med Sales Connect kan du kontakta flera mottag
 >
 >Mottagarna av gruppmeddelanden får sina egna personliga meddelanden. Vi levererar också individuell spårningsstatistik för varje mottagare.
 
-Klicka [här](http://docs.marketo.com/x/JITS) för att få en stegvis guide om hur du skapar en ny kontaktgrupp (krävs för att skicka flera kontakter ett gruppe-postmeddelande).
+Klicka [här](http://docs.marketo.com/x/JITS) om du vill se en steg-för-steg-guide om hur du skapar en ny kontaktgrupp (krävs för att skicka flera kontakter ett gruppe-postmeddelande).
 
 ## Tona ut ett e-postmeddelande till en grupp {#tout-an-email-to-a-group}
 
@@ -30,14 +30,14 @@ Klicka [här](http://docs.marketo.com/x/JITS) för att få en stegvis guide om h
    >Om du använder Gmail- eller Outlook-plugin-programmet måste du navigera till webbprogrammet för att skicka ett gruppmeddelande via e-post.
 
 1. Markera gruppen som ska skickas med e-post.
-1. Klicka på knappen **E-postgrupp** .
+1. Klicka på knappen **E-postgrupp**.
 1. Välj en e-postmall.
 
    >[!TIP]
    >
    >Varje medlem i gruppen får samma e-post, så se till att mallen innehåller [dynamiska fält](http://docs.marketo.com/x/QITS) för att anpassa varje mottagares meddelande.
 
-1. Klicka på **Förhandsgranska** för att granska e-postmeddelandet innan du skickar det.
+1. Klicka på **Förhandsgranska** om du vill granska e-postmeddelandet innan du skickar det.
 1. När e-postmeddelandet är klart klickar du på **Skicka**.
 
 Öppna nu din Sales Connect [Live Feed](http://toutapp.com/next#live) och se hur mottagarna börjar använda din e-post.
