@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Lägga till en ny testenhet {#adding-a-new-test-device}
+# Lägger till en ny testenhet {#adding-a-new-test-device}
 
 Det är enkelt att lägga till en ny testenhet för att skicka meddelanden till.
 
@@ -19,7 +19,7 @@ Det är enkelt att lägga till en ny testenhet för att skicka meddelanden till.
 >
 >**Administratörsbehörigheter krävs**
 
-1. Klicka på **Admin **och sedan på länken **Mobilappar** .\
+1. Klicka på **Admin **och sedan på länken **Mobilappar**.\
    ![](assets/image2015-7-9-14-3a33-3a12.png)
 
 1. Klicka på fliken **Testenheter** och **Ny testenhet**.
