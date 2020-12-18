@@ -11,10 +11,10 @@ ht-degree: 0%
 ---
 
 
-# Installera ToutApp Browser Extension {#how-to-install-the-toutapp-browser-extension}
+# Installera ToutApp Browser-tillägget {#how-to-install-the-toutapp-browser-extension}
 
 1. Klicka på **Inställningar** i [webbprogrammet](http://toutapp.com/next#settings).
 1. Klicka på **E-postinställningar** under Mitt konto.
-1. Klicka på **Plugin-program**.
+1. Klicka på **Plugins**.
 1. Klicka på **Installera** under Gmail och Google Apps.
 
