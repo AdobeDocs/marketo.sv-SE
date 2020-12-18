@@ -25,11 +25,11 @@ Lär dig hur du utför satsvisa åtgärder, som att lägga till leads till en ka
 
 ## Massutskick {#bulk-email}
 
-1. Klicka på fliken **Leads** i Salesforce och sedan på knappen **Gå** .
+1. Klicka på fliken **Leads** i Salesforce och sedan på knappen **Gå**.
 
    ![](assets/one-5.png)
 
-1. Välj önskade leads och klicka på knappen **E-post med MSC (klassisk)** .
+1. Välj önskade leads och klicka på knappen **E-post med MSC (Classic)**.
 
    ![](assets/two-5.png)
 
@@ -45,11 +45,11 @@ Lär dig hur du utför satsvisa åtgärder, som att lägga till leads till en ka
 
 ## Lägg till i kampanj {#add-to-campaign}
 
-1. Klicka på fliken **Leads** i Salesforce och sedan på knappen **Gå** .
+1. Klicka på fliken **Leads** i Salesforce och sedan på knappen **Gå**.
 
    ![](assets/four-3.png)
 
-1. Välj önskade leads och klicka på knappen **Lägg till i MSC Campaign (Classic)** .
+1. Välj önskade leads och klicka på knappen **Lägg till i MSC Campaign (Classic)**.
 
    ![](assets/five-3.png)
 
@@ -59,15 +59,15 @@ Lär dig hur du utför satsvisa åtgärder, som att lägga till leads till en ka
 
 ## Push to Marketo Sales Connect {#push-to-marketo-sales-connect}
 
-1. Klicka på fliken **Leads** i Salesforce och sedan på knappen **Gå** .
+1. Klicka på fliken **Leads** i Salesforce och sedan på knappen **Gå**.
 
    ![](assets/seven-1.png)
 
-1. Välj önskade leads och klicka på knappen **Skicka till MSC (klassisk)** .
+1. Välj önskade leads och klicka på knappen **Skicka till MSC (Classic)**.
 
    ![](assets/eight-1.png)
 
-1. En ny flik med namnet&quot;Salesforce Bridge&quot; öppnas. Klicka på knappen **Gå till grupp→** .
+1. En ny flik med namnet&quot;Salesforce Bridge&quot; öppnas. Klicka på knappen **Gå till grupp →**.
 
    ![](assets/nine-1.png)
 
