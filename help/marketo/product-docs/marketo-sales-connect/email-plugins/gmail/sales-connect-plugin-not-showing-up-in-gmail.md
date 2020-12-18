@@ -27,4 +27,4 @@ Enligt vår erfarenhet kan du försöka med några saker om verktygsfältet inte
 
 - Försök att koppla från och sedan återansluta webbläsartillägget Sales Connect.
 
-Om inget av tipsen ovan hjälper dig, [skicka ett ärende](http://nation.marketo.com/community/support_solutions) till supporten.
+Om inget av tipsen ovan hjälper dig ber vi dig [skicka ett ärende](http://nation.marketo.com/community/support_solutions) till support.
