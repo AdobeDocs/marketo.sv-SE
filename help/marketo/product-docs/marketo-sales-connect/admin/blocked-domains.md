@@ -33,5 +33,5 @@ Hjälp säljteamet att nå framgång genom att förhindra dem från att oavsiktl
 
    >[!NOTE]
    >
-   >E-postmeddelanden som ingår i en [gruppe-post](http://docs.marketo.com/x/KAQ6Ag) som inte kan skickas på grund av att de skickas till en blockerad e-postdomän kommer att misslyckas och inte visas i den misslyckade e-postmappen.
+   >E-postmeddelanden som är en del av en [gruppe-post](http://docs.marketo.com/x/KAQ6Ag)-sändning som misslyckas på grund av att den skickas till en blockerad e-postdomän misslyckas och visas inte i den misslyckade e-postmappen.
 
