@@ -11,8 +11,8 @@ ht-degree: 0%
 ---
 
 
-# Spårningsaktiviteten visas inte {#tracking-activity-not-showing}
+# Spårningsaktiviteten visar inte {#tracking-activity-not-showing}
 
 Om din spårningsaktivitet inte visas kontrollerar du att de anpassade aktivitetsfälten som Sales Connect tillhandahåller är synliga/redigerbara i Salesforce. Om du har installerat fälten men inte fyller i dem kan det finnas fältnivåsäkerhet som förhindrar att information fylls i. Kontakta din Salesforce-administratör.
 
-Läs mer om [fältnivåsäkerhet](http://help.salesforce.com/articleView?id=admin_fls.htm&amp;type=5) i Salesforce.
+Läs mer om [Fältnivåsäkerhet](http://help.salesforce.com/articleView?id=admin_fls.htm&amp;type=5) i Salesforce.
