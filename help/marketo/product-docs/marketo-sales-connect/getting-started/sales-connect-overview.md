@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Översikt över Sales Connect {#sales-connect-overview}
+# Översikt över Säljanslutning {#sales-connect-overview}
 
 Marketo Sales Connect är en mångfacetterad säljsupport med många olika funktioner som hjälper er att öka engagemanget under hela säljcykeln.
 
@@ -21,15 +21,15 @@ Marketo Sales Connect är en mångfacetterad säljsupport med många olika funkt
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din Customer Success Manager om du vill ha mer information.
 
-## The Live Feed {#the-live-feed}
+## Direktmatningen {#the-live-feed}
 
-Säljarna kan se hur [både marknadsförings- och säljinnehållet engagerar](http://docs.marketo.com/x/d4TS) i realtid.
+Säljare kan se [realtidsengagemang](http://docs.marketo.com/x/d4TS) av både marknadsförings- och säljinnehåll.
 
 ![](assets/engagement.jpg)
 
 ## Persondetaljvy {#person-detail-view}
 
-Få [detaljerad personstatistik](http://docs.marketo.com/x/e4TS).
+Få åtkomst till [detaljerad personstatistik](http://docs.marketo.com/x/e4TS).
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
@@ -63,7 +63,7 @@ Se hur era prospects engagerar sig i era säljsatsningar.
   </tr> 
   <tr> 
    <td colspan="1"><p>Ta emot försäljningssamtal</p></td> 
-   <td colspan="1"><p>Lead tog emot ett samtal från en säljare via <a href="http://docs.marketo.com/x/NgDb" rel="nofollow">telefonen</a>.</p></td> 
+   <td colspan="1"><p>Lead tog emot ett samtal från en säljare som använder <a href="http://docs.marketo.com/x/NgDb" rel="nofollow">telefonförsäljning</a>.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Lägg till i försäljningskampanj</p></td> 
@@ -82,7 +82,7 @@ Se hur era prospects engagerar sig i era säljsatsningar.
 
 ## Dela marknadsföringskampanjer {#share-marketing-campaigns}
 
-Skapa en enkel smart kampanj som ger era säljanvändare tillgång till [Marketo-kampanjdata](http://docs.marketo.com/x/NwDh).
+Skapa en enkel smart kampanj som ger dina säljanvändare åtkomst till [Marketo-kampanjdata](http://docs.marketo.com/x/NwDh).
 
 ![](assets/campaign-is-requested.jpg)
 
