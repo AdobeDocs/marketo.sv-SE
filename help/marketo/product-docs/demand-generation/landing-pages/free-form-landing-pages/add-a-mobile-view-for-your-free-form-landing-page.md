@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Lägg till en mobilvy för din startsida med kostnadsfria formulär {#add-a-mobile-view-for-your-free-form-landing-page}
+# Lägg till en mobilvy för din startsida för frihandslandning {#add-a-mobile-view-for-your-free-form-landing-page}
 
 Det är enkelt att få dina landningssidor i fri form att se bra ut på en smarttelefon.
 
@@ -19,7 +19,7 @@ Det är enkelt att få dina landningssidor i fri form att se bra ut på en smart
 >
 >Mobilvyn fungerar på skärmar som är 480 px breda (eller mindre). Med andra ord smarttelefoner. Här finns mer [information om enhetsupplösningar](http://mydevice.io/devices/.).
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -31,7 +31,7 @@ Det är enkelt att få dina landningssidor i fri form att se bra ut på en smart
 
    ![](assets/image2015-1-22-15-3a38-3a12.png)
 
-1. Klicka på fliken **Mobil** .
+1. Klicka på fliken **Mobil**.
 
    ![](assets/image2015-1-22-16-3a46-3a10.png)
 
@@ -41,13 +41,13 @@ Det är enkelt att få dina landningssidor i fri form att se bra ut på en smart
 
    >[!CAUTION]
    >
-   >Frihandsmallen kan behöva uppgraderas. Om du ser det meddelandet kan du snabbt läsa om hur du [gör en befintlig mall för landningssida i fri form till mobil](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
+   >Frihandsmallen kan behöva uppgraderas. Om du ser det meddelandet kan du snabbt läsa om hur du [gör en befintlig mall för en startsida i fri form kompatibel](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
 
 1. Bra! Du har nu aktiverat den mobila versionen av landningssidan. Klicka på **Stäng. **
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 
-   Nu kan du [anpassa mobilvyn](customize-mobile-view-for-your-free-form-landing-page.md).
+   Du kan nu [anpassa din mobilvy](customize-mobile-view-for-your-free-form-landing-page.md).
 
    ![](assets/image2015-1-22-16-3a47-3a16.png)
 
