@@ -19,7 +19,7 @@ Det går snabbt och enkelt att lägga till teammedlemmar!
 
    ![](assets/one.png)
 
-1. Välj **Teamhantering** under Administratörsinställningar.
+1. Välj **Teamhantering** under Administrationsinställningar.
 
    ![](assets/two.png)
 
