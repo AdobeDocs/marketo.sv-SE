@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Skapa en lyckad sökvägsanalys {#create-a-success-path-analyzer}
+# Skapa en sökvägsanalys {#create-a-success-path-analyzer}
 
-Få en visuell representation av hastighet och flöde genom [intäktscykelmodellen](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+Få en visuell representation av hastighet och flöde genom din [intäktscykelmodell](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
 >[!PREREQUISITES]
 >
@@ -29,7 +29,7 @@ Få en visuell representation av hastighet och flöde genom [intäktscykelmodell
 
    >[!NOTE]
    >
-   >Om du får en varning om att inga data hittades inom den angivna tidsramen klickar du bara på **Stäng** för att ändra tidsramen. Om du inte får frågan, men vill ändra tidsramen, går du till **Konfigurera** och dubbelklickar** ****Tidsram**.
+   >Om du får en varning om att inga data hittades i den angivna tidsramen klickar du bara på **Stäng** för att ändra tidsramen. Om du inte uppmanas att göra det men vill ändra tidsramen går du till **Inställningar** och dubbelklickar** ****Tidsram**.
 
 1. Om du inte har några data eller om du ändrar tidsramen väljer du en i listrutan och klickar på Spara.
 
@@ -37,7 +37,7 @@ Få en visuell representation av hastighet och flöde genom [intäktscykelmodell
 
    >[!TIP]
    >
-   >Om du vill markera ett visst intervall väljer du **Egen** och använder fälten **Från** och **Till** .
+   >Om du vill markera ett visst intervall väljer du **Egen** och använder fälten **Från** och **Till**.
 
 1. Om du har fler än en intäktscykelmodell väljer du den du vill ha på fliken Inställningar.
 
