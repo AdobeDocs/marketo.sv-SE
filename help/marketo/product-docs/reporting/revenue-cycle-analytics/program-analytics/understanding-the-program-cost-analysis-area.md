@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Förstå området för programkostnadsanalys {#understanding-the-program-cost-analysis-area}
+# Förstå analysområdet för programkostnader {#understanding-the-program-cost-analysis-area}
 
 Under Programkostnadsanalys kan du analysera effektiviteten i enskilda program eller se summerade resultat per kanal under en viss tidsperiod.
 
@@ -33,13 +33,13 @@ Hur mycket spenderade jag per program och månad?
 
 ![](assets/image2015-5-6-14-3a36-3a34.png)
 
-## Dimensioner och åtgärder för programkostnadsanalys {#program-cost-analysis-dimensions-and-measures}
+## Dimensioner och mått för programkostnadsanalys {#program-cost-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
 >Gula punkter är dimensioner och blå punkter är mått.
 
-## Investeringar {#investment}
+## Investering {#investment}
 
 | Mät | Beskrivning |
 |---|---|
@@ -96,7 +96,7 @@ Hur mycket spenderade jag per program och månad?
 | Programägare | Programtagg |
 | Län | Programtagg |
 
-## Lyckades {#success}
+## {#success} lyckades
 
 | Mät | Beskrivning |
 |---|---|
