@@ -21,7 +21,7 @@ Dolda fält fylls vanligtvis i dynamiskt. De visas inte för den som fyller i fo
 
 ## Markera fältet {#select-the-field}
 
-1. Markera det dolda fältet i formuläret och klicka på **Redigera** för **Autofyll**.
+1. Markera det dolda fältet i formuläret och klicka på **Redigera** för **Fyll i automatiskt**.
 
    ![](assets/autofill.png)
 
@@ -33,11 +33,11 @@ Genom att välja Använd standardvärde kan du hårdkoda ett specifikt värde so
 
 ## URL-parameter {#url-parameter}
 
-Om du vill hämta URL-parametrar (frågesträngar) från sidan som personen är på när du fyller i formuläret kan du använda **URL** - **parametrar** för att fylla i det dolda fältet.
+Om du vill hämta URL-parametrar (frågesträngar) från sidan som personen är på när du fyller i formuläret kan du använda **URL** **Parametrar** för att fylla i det dolda fältet.
 
 >[!NOTE]
 >
->Parametrar är ganska tekniska, eller hur? När man väl fått dem, är de kraftfulla. Den här [Wikipedia-sidan om frågesträngar](http://en.wikipedia.org/wiki/Query_string) är till viss hjälp.
+>Parametrar är ganska tekniska, eller hur? När man väl fått dem, är de kraftfulla. Den här [Wikipedia-sidan om frågesträngar](http://en.wikipedia.org/wiki/Query_string) är något användbar.
 
 1. Välj **URL-parameter** för **Hämta värdetyp**.
 
@@ -53,13 +53,13 @@ Om du vill hämta URL-parametrar (frågesträngar) från sidan som personen är 
 
 ## Cookie-värde {#cookie-value}
 
-Om du lagrar data i cookies kan du använda **cookie** - **värde** för att hämta data när formuläret skickas.
+Om du lagrar data i cookies kan du använda **cookie** **Value** för att hämta data när formuläret skickas.
 
-1. Välj **Cookie** - **värde** för **Hämta** **värde** **från**.
+1. Välj **Cookie** **Värde** för **Hämta** **Värde** **Från**.
 
    ![](assets/image2014-9-15-13-3a8-3a21.png)
 
-1. Ange det namn på cookie-parametern som du vill använda och klicka på **Spara**.
+1. Ange det cookie-parameternamn du vill använda och klicka på **Spara**.
 
    ![](assets/image2014-9-15-13-3a8-3a43.png)
 
@@ -69,19 +69,19 @@ Om du lagrar data i cookies kan du använda **cookie** - **värde** för att hä
 
 ## Referensparameter {#referrer-parameter}
 
-Om du vill hämta data från den sida som besökaren kom från innan du fyller i formuläret kan du använda **Referer** - **parameter**.
+Om du vill hämta data från den sida som besökaren kom från innan du fyller i formuläret kan du använda **Referent** **Parameter**.
 
-1. Ange **Hämta** **värde** **från** till **** referensparameter ****.
+1. Ange **Hämta** **Värde** **Från** till **Referent** **Parameter**.
 
    ![](assets/image2014-9-15-13-3a9-3a31.png)
 
-1. Ange det **parameternamn** som du vill fästa från hänvisarens URL och klicka på **Spara**.
+1. Ange **parameternamnet** som du vill fästa från hänvisarens URL och klicka på **Spara**.
 
    ![](assets/image2014-9-15-13-3a9-3a56.png)
 
    >[!TIP]
    >
-   >Du kan ange ett **standardvärde** för **värde** om refererarparametern inte hittas.
+   >Du kan ange ett **Default** **värde** om referentparametern inte hittas.
 
 1. Klicka på **Slutför**.
 
