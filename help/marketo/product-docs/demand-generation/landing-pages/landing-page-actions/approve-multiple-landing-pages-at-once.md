@@ -17,7 +17,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-11-3a35-3a5.png)
 
-1. Klicka på **Landningssidor.**
+1. Klicka på **Startsidor.**
 
    ![](assets/image2014-9-17-11-3a35-3a11.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
    >
    >Klicka inte på det faktiska namnet på landningssidan, det är länkar som tar dig till sidan.
 
-1. När landningssidorna är markerade går du till Åtgärder för **landningssidan** och klickar på **Godkänn.**
+1. När landningssidorna är markerade går du till **Åtgärder för landningssida** och klickar på **Godkänn.**
 
    ![](assets/image2014-9-17-11-3a35-3a27.png)
 
