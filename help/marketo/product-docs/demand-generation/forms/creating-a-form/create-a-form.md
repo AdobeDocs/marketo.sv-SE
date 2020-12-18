@@ -17,17 +17,17 @@ Skapa och använd ett formulär på en landningssida för att generera nya namn.
 
 >[!NOTE]
 >
->Läs vad Marketo gör för att [skydda](http://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)formulären.
+>Läs vad Marketo gör för att [skydda formulären](http://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
-1. Gå till **Marknadsföringsaktiviteter** och **aktiviteter**.
+1. Gå till **Marknadsföring** **Aktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Hitta och välj **program**.
+1. Hitta och välj ditt **program**.
 
    ![](assets/programseelct.png)
 
-1. Under **Ny** klickar du på **Ny** **lokal** **resurs**.
+1. Under **Nytt** klickar du på **Nytt** **Lokalt** **Resurs**.
 
    ![](assets/newlocalasset.png)
 
@@ -35,7 +35,7 @@ Skapa och använd ett formulär på en landningssida för att generera nya namn.
 
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 
-1. Ange ett **formulärnamn** och klicka på **Skapa**.
+1. Ange ett formulär **Namn** och klicka på **Skapa**.
 
    ![](assets/newformwithhands.png)
 
