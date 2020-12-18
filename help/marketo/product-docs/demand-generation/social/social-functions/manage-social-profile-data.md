@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Hantera data för social profil {#manage-social-profile-data}
 
-När någon interagerar med en Marketo- [social app](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md), eller auktoriserar sitt sociala nätverk att förifylla ett Marketo-formulär med [social formulärfyllning](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), hämtar Marketo alla data som är tillgängliga från deras sociala profil. Du kan visa den här informationen på sidan [](http://docs.marketo.com/display/DOCS/Using+the+Person+Detail+Page)Personinformation eller lägga till den som en kolumn i en [anpassad vy av en smart lista](http://docs.marketo.com/display/DOCS/Create+and+Change+Views+for+Lists+and+Smart+List).
+När någon interagerar med en Marketo [social app](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md), eller auktoriserar sitt sociala nätverk att förifylla ett Marketo-formulär med [ifyllnad av sociala formulär](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), hämtar Marketo alla data som är tillgängliga från deras sociala profil. Du kan visa den här informationen på [personinformationssidan](http://docs.marketo.com/display/DOCS/Using+the+Person+Detail+Page), eller lägga till den som en kolumn i en [anpassad vy av en smart lista](http://docs.marketo.com/display/DOCS/Create+and+Change+Views+for+Lists+and+Smart+List).
 
 Social formulärfyllning och sociala appar fångar upp lite olika fältuppsättningar, se respektive avsnitt nedan.
 
@@ -77,15 +77,15 @@ Beroende på nätverkets och användarens sekretessinställningar hämtas ett el
 
 >[!NOTE]
 >
->Ifyllning av sociala formulär hämtar *endast* e-postadressen om personen skriver in den i formuläret. Om du behöver e-postadressen bör du [göra den till ett obligatoriskt fält i formuläret](../../../../product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
+>Ifyllning av sociala formulär hämtar endast e-postadressen *om personen skriver in den i formuläret.* Om du behöver e-postadressen ska du [göra den till ett obligatoriskt fält i formuläret](../../../../product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
 
 >[!MORELIKETHIS]
 >
->Aktivera ifyllning av [sociala formulär](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)om du vill hämta in den här informationen från formulär.
+>Aktivera [ifyllning av sociala formulär](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md) om du vill hämta in den här informationen från formulär.
 
 >[!NOTE]
 >
 >**Djupdykning**
 >
->Läs mer om hur du arbetar med formulär i [Forms](http://docs.marketo.com/display/docs/forms) djupdykning.
+>Läs mer om hur du arbetar med formulär i djupdykningen [Forms](http://docs.marketo.com/display/docs/forms).
 
