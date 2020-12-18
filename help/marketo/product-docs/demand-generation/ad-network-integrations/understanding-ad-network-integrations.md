@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![](assets/hith-golden-gate-144833144-e.jpeg)
 
-## Så fungerar annonsnätverk {#how-ad-network-integrations-work}
+## Så fungerar ADD-nätverksintegreringar {#how-ad-network-integrations-work}
 
 Annonsnätverkintegreringar kopplar samman Marketos unika målgruppsdata med era betalda mediasystem så att ni kan köra mer målinriktade, personaliserade digitala annonskampanjer. Dessa integreringar fungerar för närvarande med Facebook, LinkedIn och Google.
 
@@ -36,7 +36,7 @@ Funktionerna är:
 
    * En person kan till exempel söka efter, se och klicka på en annons och sedan fylla i ett formulär online. Efter det får han en demo offline och blir en CRM-möjlighet. Det är där annonsören riktar sig mot honom
 
-* Återmarknadsföring av besökare, med [webbpersonalisering](http://docs.marketo.com/display/docs/web+personalization), för att få dem tillbaka till er webbplats
+* Återmarknadsföring av besökare, med [Webbanpassning](http://docs.marketo.com/display/docs/web+personalization), för att dirigera dem tillbaka till webbplatsen
 
    * Anpassa efter segment eller lodrätt
 
@@ -52,11 +52,11 @@ Du kan använda integreringar för att:
 
 |  | Målgruppsdata | Radmatning | Offlinekonvertering |
 |---|---|---|---|
-| ![--](assets/facebook-logo-2-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25-1.png) |
-| ![--](assets/linkedin-logo-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25.png) | ![--](assets/x-mark-3-256-25.png) |
-| ![--](assets/google-logo-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/x-mark-3-256-25.png) | ![--](assets/checkmark-flat-25.png) |
+| ![—](assets/facebook-logo-2-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25-1.png) |
+| ![—](assets/linkedin-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) |
+| ![—](assets/google-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) | ![—](assets/checkmark-flat-25.png) |
 
-## Se en video {#watch-a-video}
+## Titta på en video {#watch-a-video}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/y8xoFczdrKQzAfvnAkAUXH.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
