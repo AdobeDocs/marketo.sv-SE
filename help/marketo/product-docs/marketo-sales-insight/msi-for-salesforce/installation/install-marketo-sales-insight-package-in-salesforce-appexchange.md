@@ -23,12 +23,12 @@ Du måste installera Marketo Sales Insight-appen i din Salesforce-prenumeration 
 >
 >Marketo Sales Insight är kompatibelt med Salesforce Platform (Shield) Encryption.
 
-1. Gå till sidan [AppExchange för Marketo Sales Insight](http://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) och klicka på **Get it Now**.
+1. Gå till sidan [AppExchange för Marketo Sales Insight](http://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) och klicka på **Hämta nu**.
 
    ![](assets/one.png)
 
-1. Klicka på **Logga in på AppExchange** och logga in med dina Salesforce-inloggningsuppgifter.
-1. Ange ditt anslutna Salesforce-kontoinloggning och klicka på **Installera i produktion**.
+1. Klicka på **Logga in på AppExchange**-knappen och logga in med dina Salesforce-inloggningsuppgifter.
+1. Ange ditt anslutna Salesforce-kontoinloggning och klicka på **Installera i Production**.
 
    ![](assets/three.png)
 
@@ -52,7 +52,7 @@ Du måste installera Marketo Sales Insight-appen i din Salesforce-prenumeration 
 
    ![](assets/seven.png)
 
-1. Klicka på **Konfigurera** bredvid ditt namn.
+1. Klicka på **Setup** bredvid ditt namn.
 
    ![](assets/image2015-5-22-14-3a40-3a39.png)
 
@@ -60,7 +60,7 @@ Du måste installera Marketo Sales Insight-appen i din Salesforce-prenumeration 
 
    ![](assets/image2015-5-22-14-3a42-3a7.png)
 
-1. Kontrollera att **Distribuerad** är markerat för alla Marketo Sales Insight-artiklar.
+1. Dubbelkontrollera att **Distribuerad** har kontrollerats för alla Marketo Sales Insight-objekt.
 
    ![](assets/image2015-5-27-16-3a15-3a58.png)
 
