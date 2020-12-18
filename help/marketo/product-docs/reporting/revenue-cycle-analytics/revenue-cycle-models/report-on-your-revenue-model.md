@@ -23,15 +23,15 @@ För varje intäktscykelmodell kan du generera en rapport om hur många leads so
 
    ![](assets/image2015-4-29-16-3a8-3a14.png)
 
-1. Klicka på **Leads efter intäktsfas**.
+1. Klicka på **Leads efter intäktsstadium**.
 
    ![](assets/image2015-4-29-16-3a15-3a3.png)
 
-1. Klicka på fliken **Inställningar** och dubbelklicka sedan på **Inkomstcykelmodell** under filteravsnittet.
+1. Klicka på fliken **Setup** och dubbelklicka sedan på **Revenue Cycle Model** under filteravsnittet.
 
    ![](assets/image2015-4-29-16-3a37-3a57.png)
 
-1. Välj godkänd **modell**.
+1. Välj den godkända **modellen**.
 
    ![](assets/image2015-4-29-16-3a40-3a34.png)
 
