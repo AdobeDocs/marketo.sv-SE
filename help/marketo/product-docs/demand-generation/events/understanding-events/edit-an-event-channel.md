@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Redigera en händelsekanal {#edit-an-event-channel}
 
-Du kan redigera kanaltypen på fliken **Sammanfattning** eller på fliken **Inställningar** .
+Du kan redigera kanaltypen på fliken **Sammanfattning** eller på fliken **Inställningar** för händelsen.
 
 >[!NOTE]
 >
@@ -21,15 +21,15 @@ Du kan redigera kanaltypen på fliken **Sammanfattning** eller på fliken **Inst
 
 >[!NOTE]
 >
->Ett program är ett specifikt marknadsföringsinitiativ. **Kanalen** är avsedd att fungera som leveransmekanism, t.ex. webbinarium, Tradeshow eller Online Ad. Du kan se olika kanalalternativ i listrutan, beroende på vad som är tillgängligt i din egen instans. Du kan också [skapa en egen kanal.](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)
+>Ett program är ett specifikt marknadsföringsinitiativ. **Kanalen** är avsedd att vara leveransmekanismen, som webbinarium, Tradeshow eller Online Ad. Du kan se olika kanalalternativ i listrutan, beroende på vad som är tillgängligt i din egen instans. Du kan också [skapa en egen kanal.](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)
 
 ## På fliken Sammanfattning {#from-the-summary-tab}
 
-1. I **Marknadsföringsaktiviteter** väljer du din aktivitet i trädet.
+1. Välj din aktivitet från **marknadsföringsaktiviteter** i trädet.
 
    ![](assets/eventprogramseelct.png)
 
-1. Navigera till **sammanfattningsvyn** .
+1. Navigera till vyn **Sammanfattning**.
 
    ![](assets/eventprogramsummary.png)
 
@@ -47,13 +47,13 @@ Du kan redigera kanaltypen på fliken **Sammanfattning** eller på fliken **Inst
 
 ## På fliken Inställningar {#from-the-setup-tab}
 
-En ny kanaltyp kan också tilldelas från händelsefliken **Konfigurera** .
+En ny kanaltyp kan också tilldelas från händelsens **Setup**-flik.
 
 1. Välj din händelse i trädet.
 
    ![](assets/eventprogramseelct.png)
 
-1. Gå till fliken **Inställningar** . Dubbelklicka på den aktuella **kanalen**.
+1. Gå till fliken **Inställningar**. Dubbelklicka på aktuell **kanal**.
 
    ![](assets/setuptabchangechannel.png)
 
