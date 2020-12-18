@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Vi har skapat en massa fina teman för dina formulär. Vilken tycker du bäst om?
 
-1. Gå till **Marknadsföringsaktiviteter** och **aktiviteter**.
+1. Gå till **Marknadsföring** **Aktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Markera formuläret och klicka på **Redigera** **formulär**.
+1. Markera formuläret och klicka på **Redigera** **Formulär**.
 
    ![](assets/editform.png)
 
-1. Gå till **Formulärets** **inställningar**.
+1. Gå till **Formulär** **Inställningar**.
 
    ![](assets/image2014-9-15-17-7-7.png)
 
-1. Växla fram och tillbaka för att välja **Formulärets** **tema** .
+1. Växla fram och tillbaka för att välja **Formulär** **Tema** som du vill använda.
 
    ![](assets/image2014-9-15-17-3a7-3a20.png)
 
@@ -43,9 +43,9 @@ Vi har skapat en massa fina teman för dina formulär. Vilken tycker du bäst om
 
    >[!TIP]
    >
-   >Du kan också [redigera CSS för ditt formulärtema](../../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
+   >Du kan även [redigera CSS för ditt formulärtema](../../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
-1. Klicka på **Nästa** om du vill konfigurera andra formuläralternativ eller klicka på **Slutför** om du bara vill ändra formulärtemat.
+1. Klicka på **Nästa** om du vill konfigurera andra formuläralternativ, eller klicka på **Slutför** om du bara vill ändra formulärtemat.
 
    ![](assets/image2014-9-15-17-3a8-3a22.png)
 
