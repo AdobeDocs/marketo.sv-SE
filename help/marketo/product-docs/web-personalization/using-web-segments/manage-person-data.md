@@ -18,12 +18,12 @@ Utnyttja persondata för webbpersonalisering genom att markera personfält som s
 1. Gå till **Kontoinställningar**.\
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. Gå till **databas**.\
+1. Gå till **Database**.\
    ![](assets/account-settings-dropdown-database.jpg)
 
-## Lägga till ett fält för ny person {#adding-a-new-person-field}
+## Lägga till fältet Ny person {#adding-a-new-person-field}
 
-1. Välj **Fält som ska läggas till** i listrutan för att lägga till ett persondatafält i listan.
+1. Välj **Fält att lägga till** från listrutan för att lägga till ett persondatafält i listan.
 
    ![](assets/add-a-person-field-hand.jpg)
 
@@ -35,9 +35,9 @@ Utnyttja persondata för webbpersonalisering genom att markera personfält som s
    >    * Ett nytt fält läggs till i ett väntande läge och kan ta upp till 24 timmar att aktivera.
 
 
-## Ta bort ett personfält {#deleting-a-person-field}
+## Tar bort ett personfält {#deleting-a-person-field}
 
-1. Klicka på borttagningsikonen ( ![—](assets/image2015-3-24-13-3a45-3a56.png)) för att ta bort ett fält från listan. Bekräfta att du vill ta bort fältet genom att klicka på **Ja** .
+1. Klicka på borttagningsikonen ( ![—](assets/image2015-3-24-13-3a45-3a56.png)) för att ta bort ett fält från listan. Klicka på **Ja** för att bekräfta att du vill ta bort fältet.
 
    ![](assets/web-engagement-settings-delete.jpg)
 
