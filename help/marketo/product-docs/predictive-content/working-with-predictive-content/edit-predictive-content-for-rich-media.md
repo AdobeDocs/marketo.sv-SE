@@ -15,15 +15,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Beroende på inköpsdatumet kan din Marketo-prenumeration innehålla antingen Marketo Predictive Content eller<sup>ContentAI</sup>. För dem som använder Predictive Content aktiverar Marketo<sup>ContentAI</sup> Analytics-funktioner fram till 30 april 2018. Kontakta Marketo Customer Success Manager för att uppgradera till Marketo<sup>ContentAI</sup>om du vill behålla funktionerna efter detta datum.
+>Beroende på inköpsdatumet kan din Marketo-prenumeration innehålla antingen Marketo Predictive Content eller Content<sup>AI</sup>. För dem som använder Predictive Content aktiverar Marketo funktioner för innehållsanalys<sup>AI</sup> till och med 30 april 2018. Kontakta Marketo Customer Success Manager för att uppgradera till Marketo Content<sup>AI</sup> om du vill behålla funktionerna efter detta datum.
 
 Så här konfigurerar du ditt prediktiva innehåll för multimedia.
 
 >[!PREREQUISITES]
 >
->Innehåll måste [godkännas för prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) på sidan Allt innehåll.
+>Innehållet måste vara [godkänt för prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) på sidan Allt innehåll.
 
-1. Öppna redigeraren genom att klicka på en titel på sidan **Predictive Content** .
+1. Öppna redigeraren genom att klicka på en titel på sidan **Predictive Content**.
 
    ![](assets/image2017-10-3-9-3a40-3a38.png)
 
