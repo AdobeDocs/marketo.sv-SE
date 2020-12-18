@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Lägg till din integritetspolicy i en social app {#add-your-privacy-policy-to-a-social-app}
 
-När du skapar en [social app](http://docs.marketo.com/display/docs/social)kan du lägga till en länk till företagets integritetspolicy.
+När du skapar en [social app](http://docs.marketo.com/display/docs/social) kan du lägga till en länk till företagets sekretesspolicy.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -23,7 +23,7 @@ När du skapar en [social app](http://docs.marketo.com/display/docs/social)kan d
 
    ![](assets/image2014-9-22-10-3a50-3a22.png)
 
-1. Gå till **Appinställningar** > **Avancerade alternativ**** i redigeraren för sociala appar.**
+1. Gå till **Appinställningar** > **Avancerade alternativ*** i redigeraren för sociala appar.**
 
    ![](assets/image2014-9-22-10-3a50-3a38.png)
 
