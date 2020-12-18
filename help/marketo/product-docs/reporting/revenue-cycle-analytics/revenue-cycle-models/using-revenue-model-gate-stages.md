@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Använda intäktsmodellens gatustadier {#using-revenue-model-gate-stages}
+# Använda intäktsmodellens Gate-steg {#using-revenue-model-gate-stages}
 
 En gate-fas fungerar som en kvalifikationskontroll.
 
@@ -19,9 +19,9 @@ En gate-fas fungerar som en kvalifikationskontroll.
 >
 >Det är en bra idé att skapa en övningsmodell i ett grafik- eller presentationsprogram och bekräfta den med dina kollegor.
 
-## Lägga till en Gate-scen {#add-a-gate-stage}
+## Lägg till en Gate-scen {#add-a-gate-stage}
 
-1. Gå till **Analytics** .
+1. Gå till området **Analytics**.
 
    ![](assets/image2015-4-27-23-3a27-3a43.png)
 
@@ -29,7 +29,7 @@ En gate-fas fungerar som en kvalifikationskontroll.
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. Klicka på **Redigera** **utkast**.
+1. Klicka på **Redigera** **Utkast**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
@@ -41,19 +41,19 @@ En gate-fas fungerar som en kvalifikationskontroll.
 
    >[!NOTE]
    >
-   >Välj [Starta spårning efter konto](start-tracking-by-account-in-the-revenue-modeler.md) nu för att få insikt i hur dina konton fungerar när de utvecklas i din modell.
+   >Välj [Starta spårning med konto](start-tracking-by-account-in-the-revenue-modeler.md) för att få kunskap om hur dina konton fungerar när de går igenom din modell.
 
    ![](assets/image2015-4-28-12-3a1-3a7.png)
 
 >[!NOTE]
 >
->Gate Stage delar upp leads baserat på kriterier som du anger i övergångsreglerna. **den inte håller leads**. En standardövergång krävs så att leads som inte väljs av de andra övergångarna hamnar i standardläget.
+>Gate Stage delar upp leads baserat på kriterier som du anger i övergångsreglerna. **den innehåller inte leads**. En standardövergång krävs så att leads som inte väljs av de andra övergångarna hamnar i standardläget.
 
 ## Redigera en Gate-scen {#edit-a-gate-stage}
 
-Redigera namnet, beskrivningen och justera typen av Gate-scenen. Du kan också välja [Starta spårning efter konto](start-tracking-by-account-in-the-revenue-modeler.md).
+Redigera namnet, beskrivningen och justera typen av Gate-scenen. Du kan också välja [Starta spårning via konto](start-tracking-by-account-in-the-revenue-modeler.md).
 
-1. Klicka på en **Gate** stage-ikon.
+1. Klicka på en **Gate**-scenikon.
 
    ![](assets/image2015-4-27-17-3a11-3a41.png)
 
@@ -61,7 +61,7 @@ Redigera namnet, beskrivningen och justera typen av Gate-scenen. Du kan också v
 
    ![](assets/image2015-4-28-12-3a17-3a22.png)
 
-1. Markera listrutan **Typ** som du vill redigera.
+1. Välj listrutan **Typ** som du vill redigera.
 
    ![](assets/image2015-4-27-17-3a14-3a7.png)
 
@@ -71,7 +71,7 @@ Redigera namnet, beskrivningen och justera typen av Gate-scenen. Du kan också v
 
    ![](assets/image2015-4-28-12-3a30-3a19.png)
 
-1. Du kan också ta bort en Gate-scen genom att klicka på den och sedan välja **Ta bort** i listrutan **Scenåtgärder**.
+1. Du kan också ta bort en Gate-scen genom att klicka på den och sedan välja **Stage Actions** och sedan **Delete**.
 
    ![](assets/image2015-4-28-12-3a56-3a28.png)
 
