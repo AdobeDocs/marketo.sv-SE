@@ -45,12 +45,12 @@ Google Universal Analytics med RTP:s data ger er en bättre förståelse för hu
 
    1. Gå till **Admin**
    1. Välj **konto.**
-   1. Markera **egenskapen.**
+   1. Välj **egenskapen.**
    1. Välj **Anpassade definitioner **och **Anpassade Dimensioner.**
 
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
-1. Lägg till en ny anpassad dimension. Klicka **+Ny anpassad Dimension**
+1. Lägg till en ny anpassad dimension. Klicka på **+Ny anpassad Dimension**
 
    ![](assets/image2014-11-29-11-3a8-3a16.png)
 
@@ -88,9 +88,9 @@ Google Universal Analytics med RTP:s data ger er en bättre förståelse för hu
 
 >[!NOTE]
 >
->**Namnen på anpassade Dimensioner** måste vara exakt som de definieras i tabellen ovan (annars visas inte anpassade RTP-instrumentpaneler och rapporter i GUA korrekt)
+>**Anpassade** namn på Dimensioner måste vara exakt som de definieras i tabellen ovan (annars visas inte anpassade RTP-instrumentpaneler och rapporter i GUA korrekt)
 
-1. Lägg till **Name. **Välj scope som **session.** Klicka på **Skapa.**
+1. Lägg till **Name. **Välj scope som **session.** Klicka på  **Skapa.**
 
    ![](assets/image2014-11-29-11-3a12-3a51.png)
 
@@ -102,13 +102,13 @@ När du har aktiverat anpassade Dimensioner i GUA går du till RTP-plattformen f
 
 ## Aktivera GUA-integreringen i ditt RTP-konto {#activate-the-gua-integration-in-your-rtp-account}
 
-1. Gå till **Kontoinställningar på RTP-plattformen.**
+1. Gå till **Kontoinställningar i RTP-plattformen.**
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
 1. Klicka på **Domän under** Kontoinställningar **.**
-1. Under **Analytics, **klicka på **Google Universal Analytics**.
-1. Aktivera **berörda anpassade Dimensioner och händelser för** att lägga till dessa data från RTP till Google Universal Analytics.
+1. Under **Analytics, **click **Google Universal Analytics**.
+1. Vrid **På** de relevanta anpassade Dimensionerna och händelserna för att lägga till dessa data från RTP till Google Universal Analytics.
 1. Ange **indexnumret** för dimensionen justerad mot indexnumret i GUA.
 1. Klicka på **Spara**.
 
@@ -120,10 +120,10 @@ När du har aktiverat anpassade Dimensioner i GUA går du till RTP-plattformen f
 >
 >Exempel: RTP-Industry Index Number är lika med 1, RTP-Organization Index Number är lika med 2.
 
-## Ta bort gamla instrumentpaneler i Google Analytics {#remove-old-dashboards-in-google-analytics}
+## Ta bort gamla instrumentpaneler i Google Analytics{#remove-old-dashboards-in-google-analytics}
 
-1. I Google Analytics. Gå till **Rapportering.**
-1. Klicka på **Kontrollpaneler.**
+1. I Google Analytics. Gå till **rapportering.**
+1. Klicka på **instrumentpaneler.**
 1. Välj en **Dashboard **(RTP B2B- eller RTP-prestanda)
 1. Klicka på **Ta bort instrumentpanel**.
 
