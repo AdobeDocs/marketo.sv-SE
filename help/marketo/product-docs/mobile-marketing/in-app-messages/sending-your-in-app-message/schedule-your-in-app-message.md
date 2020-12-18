@@ -27,8 +27,8 @@ Skicka meddelandet nu eller schemalägg det för senare.
 
    ![](assets/schedule-your-in-app-message-3.png)
 
-1. Om du vill köra programmet nu väljer du **Kör omedelbart**. Startdatumfälten försvinner.
+1. Om du vill köra programmet just nu väljer du **Kör omedelbart**. Startdatumfälten försvinner.
 
    ![](assets/schedule-your-in-app-message-4.png)
 
-Enkelt! Sist men inte minst [godkännandesteget](approve-your-in-app-message.md) .
+Enkelt! Sist men inte minst är steget [Approval](approve-your-in-app-message.md).
