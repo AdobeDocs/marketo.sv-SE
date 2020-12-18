@@ -23,7 +23,7 @@ De bygger på huvudpoängen - ett mått på personens intresse för dina produkt
 >
 >Ni behöver flera poängsättningskampanjer för att få ut maximalt av prioritet, brådskande och relativ poäng.  För få eller inga poängkampanjer gör de här fälten inte användbara.
 
-## Akut {#urgency}
+## Åtgärd {#urgency}
 
 Lågorna är brådskande - hur mycket personens ledspår har ändrats nyligen. Ett mycket brådskande (mer lågornas) innebär att poängen för detta lead har ökat mycket på sistone. är det ett gott tecken på att denna lead är intresserad av ditt erbjudande. Du borde följa upp med den här personen snabbt!
 
@@ -31,7 +31,7 @@ En lead som till exempel har begärt en demo och besökt flera webbsidor kommer 
 
 ![](assets/two.png)
 
-## Relativa poäng {#relative-score}
+## Relativ poäng {#relative-score}
 
 Stjärnorna representerar relativa poäng - ett mått på hur den här personens poäng kan jämföras med andras. En hög relativ poäng innebär att den här personen förmodligen är mer intresserad och informerad om ditt erbjudande jämfört med personer med lägre relativa poäng.
 
