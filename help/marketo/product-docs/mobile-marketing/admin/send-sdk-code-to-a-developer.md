@@ -38,11 +38,11 @@ Så här gör du.
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Klicka på Åtgärder för **mobilappar** och välj **Skicka till utvecklare**.
+1. Klicka på **Åtgärder för mobilappar** och välj **Skicka till utvecklare**.
 
    ![](assets/image2015-4-22-17-3a13-3a30.png)
 
-1. Ange en e-postadress och klicka på **SKICKA**.
+1. Ange en e-postadress och klicka på **SEND**.
 
    ![](assets/image2015-4-22-18-3a51-3a54.png)
 
