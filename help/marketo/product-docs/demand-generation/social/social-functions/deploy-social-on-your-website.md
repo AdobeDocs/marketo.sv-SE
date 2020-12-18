@@ -27,7 +27,7 @@ Ni kan distribuera sociala appar på er egen webbplats för att engagera er mål
 
    ![](assets/image2015-5-12-11-3a43-3a24.png)
 
-1. Välj **Bädda in** **kod**** **från åtgärder i sociala appar.
+1. Välj **Bädda in** **Kod**** **från åtgärder för sociala appar.
 
    ![](assets/image2015-5-12-12-3a59-3a46.png)
 
@@ -43,7 +43,7 @@ Ni kan distribuera sociala appar på er egen webbplats för att engagera er mål
 
    ![](assets/socialonsite-embedwidget.png)
 
-1. Om du behöver ange storleken på den sociala appen till specifika dimensioner på sidan lägger du till alternativen **outerHeight** och **outerWidth** i det andra kodfragmentet. Du kan till exempel lägga till options=&#39;{&quot;outerHeight&quot;:400, &quot;outerWidth&quot;:600}&#39;, som i:
+1. Om du behöver ange storleken på den sociala appen till specifika dimensioner på sidan lägger du till alternativen **outerHeight** och **outerWidth** till det andra kodfragmentet. Du kan till exempel lägga till options=&#39;{&quot;outerHeight&quot;:400, &quot;outerWidth&quot;:600}&#39;, som i:
 
    ![](assets/socialonsite-resizewidget2.png)
 
