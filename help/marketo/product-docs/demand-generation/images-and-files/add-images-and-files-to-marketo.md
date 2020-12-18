@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Lägg till bilder och filer i Marketto {#add-images-and-files-to-marketo}
+# Lägg till bilder och filer i Marketo {#add-images-and-files-to-marketo}
 
 Det är enkelt att lägga till flera bilder och filer samtidigt.
 
@@ -23,7 +23,7 @@ Det är enkelt att lägga till flera bilder och filer samtidigt.
 
    ![](assets/image2014-9-15-18-3a5-3a33.png)
 
-1. Markera den mapp där du vill lagra bilderna eller filerna och klicka sedan på **Bläddra**.
+1. Välj den mapp där du vill lagra bilderna eller filerna och klicka sedan på **Bläddra**.
 
    ![](assets/image2014-9-15-18-3a6-3a21.png)
 
@@ -63,7 +63,7 @@ Snyggt gjort!
 >
 >Marketo godkänner alla filtyper för överföring, men endast de större bildtyperna (JPG, PNG, GIF osv.) kommer att fungera i vår e-postredigerare.
 
-## Se en video {#watch-a-video}
+## Titta på en video {#watch-a-video}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/ZWBeQ5oiXRKG2QAP5E7g6Q.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
