@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Favorera en mall {#favorite-a-template}
+# Favoritera en mall {#favorite-a-template}
 
 Du kan lägga till mallar från vilken kategori som helst i favoritlistan. Då genereras automatiskt en ny kategori högst upp i listan så att du snabbt kommer åt de mallar du använder mest.
 
