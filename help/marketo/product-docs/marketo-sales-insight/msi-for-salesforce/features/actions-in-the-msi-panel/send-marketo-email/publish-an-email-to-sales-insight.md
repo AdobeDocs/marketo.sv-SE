@@ -5,7 +5,7 @@ title: Publicera ett e-postmeddelande till Sales Insight
 translation-type: tm+mt
 source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Aktivera inställningen Publicera till försäljningsinsikter om du vill att ett e-postmeddelande ska vara tillgängligt för ditt säljteam i både Sales Insight och Outlook och Gmail Add-in. Du kan också ange ett förfallodatum.
 
-1. Leta upp e-postmeddelandet, markera det och klicka på **Redigera utkast**.
+1. Leta reda på e-postmeddelandet, markera det och klicka på **Redigera utkast**.
 
    ![](assets/one.png)
 
@@ -43,7 +43,7 @@ Snyggt jobb! Nu vet du hur du kan göra e-postmeddelanden tillgängliga för sä
 
 >[!NOTE]
 >
->[Mina token](../../../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) löses inte när du skickar ett e-postmeddelande från Sales Insight på antingen Microsoft Dynamics eller Salesforce. endast standardtokens fylls i (Lead, Company, etc.). Standardvärden för tokens fungerar dock.
+>[Min ](../../../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) token kommer inte att lösas när du skickar ett e-postmeddelande från Sales Insight på antingen Microsoft Dynamics eller Salesforce. endast standardtokens fylls i (Lead, Company, etc.). Standardvärden för tokens fungerar dock.
 
 >[!TIP]
 >
