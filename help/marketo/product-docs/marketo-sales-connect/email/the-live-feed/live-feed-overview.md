@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Live Feed är ett flytande fönster som kan startas från webbprogrammet eller Gmail-pluginprogrammet och som ger en realtidsöversikt över hur potentiella kunder engagerar sig.
 
-## Fliken Engagement {#engagement-tab}
+## Engagement Tab {#engagement-tab}
 
 ![](assets/engagement.jpg)
 
@@ -46,7 +46,7 @@ Kontrollera snabbt din att göra-lista direkt från Live Feed.
 
 Skapa nya eller hantera öppna uppgifter.
 
-Filtrera idag, imorgon, idag *och* imorgon, eller nästa 7 dagar.
+Filtrera idag, imorgon, idag *och* imorgon, eller kommande 7 dagar.
 
 >[!NOTE]
 >
@@ -54,7 +54,7 @@ Filtrera idag, imorgon, idag *och* imorgon, eller nästa 7 dagar.
 
 Använd snabbåtgärdsknappar för att snabbt ringa ett samtal, skicka ett e-postmeddelande eller navigera till en persons länkade profil.
 
-## Fliken Mål {#target-tab}
+## Målflik {#target-tab}
 
 ![](assets/target.jpg)
 
@@ -75,28 +75,28 @@ Se de översta personerna (ordnade uppifrån och ned) rankade efter lead-poäng.
   <tr> 
    <td> 
     <div> 
-     <p><img alt="--" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td><p>Någon har visat din e-post</p></td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <p><img alt="--" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td><p>Någon har klickat på en länk i ditt e-postmeddelande</p></td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <p><img alt="--" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td><p>Någon har svarat på ditt e-postmeddelande</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <p><img alt="--" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td colspan="1">Alla meddelanden som listas under Intressanta stunder, inklusive e-post, webben och milstolpar</td> 
   </tr> 
