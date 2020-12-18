@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Hitta alla leads i en intäktscykelmodell {#find-all-leads-in-a-revenue-cycle-model}
+# Sök efter alla leads i en intäktscykelmodell {#find-all-leads-in-a-revenue-cycle-model}
 
 Genom att använda smarta listor kan du enkelt hitta alla medlemmar i intäktscykelmodellen.
 
@@ -19,11 +19,11 @@ Genom att använda smarta listor kan du enkelt hitta alla medlemmar i intäktscy
 >
 >[Skapa en smart lista](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Markera den smarta listan och klicka på fliken **Smart lista** .
+1. Markera den smarta listan och klicka på fliken **Smart lista**.
 
    ![](assets/image2015-4-29-14-3a6-3a36.png)
 
-1. Leta reda på filtret **Medlem i intäktsmodell** och dra det till arbetsytan.
+1. Hitta filtret **Medlem i intäktsmodell** och dra det till arbetsytan.
 
    ![](assets/image2015-4-29-14-3a12-3a33.png)
 
@@ -37,17 +37,17 @@ Genom att använda smarta listor kan du enkelt hitta alla medlemmar i intäktscy
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
-1. Markera en **scen.**
+1. Välj en **scen.**
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
-1. Gå till fliken **Leads** för att visa resultatet.
+1. Gå till fliken **Leads** för att visa resultaten.
 
    ![](assets/2.png)
 
    >[!TIP]
    >
-   >Du behöver inte båda filtren, bara välja det du behöver. Vi visar er båda för att vara noggranna. ![(leende)](assets/smile.svg) >
+   >Du behöver inte båda filtren, bara välja det du behöver. Vi visar er båda för att vara noggranna. ![(leende)](assets/smile.svg)   >
 
    >[!CAUTION]
    >
