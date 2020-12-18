@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Konfigurera Android-åtkomst för mobilapp {#configure-mobile-app-android-push-access}
+# Konfigurera Android-push-åtkomst för mobilappar {#configure-mobile-app-android-push-access}
 
 1. Klicka på **Admin**.
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Du behöver en **server-API-nyckel** och ett **projektnummer** från din mobilappsutvecklare. Utvecklaren får dessa genom att logga in på Google Play Developer Console för att registrera din app och aktivera molnmeddelanden.
+   >Du behöver en **server-API-nyckel** och **projektnummer** från din mobilappsutvecklare. Utvecklaren får dessa genom att logga in på Google Play Developer Console för att registrera din app och aktivera molnmeddelanden.
 
    Ange nyckel för server-API och projektnummer. Klicka på Spara.
 
