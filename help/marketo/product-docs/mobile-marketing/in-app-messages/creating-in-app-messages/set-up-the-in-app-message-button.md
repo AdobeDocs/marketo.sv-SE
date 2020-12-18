@@ -19,7 +19,7 @@ Du kan använda standardknappdesignen, ändra den eller överföra en egen anpas
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
-1. Om du vill ändra färg på standardknappen klickar du på knappen **Färg** .
+1. Om du vill ändra färg på standardknappen klickar du på knappen **Färg**.
 
    ![](assets/image2016-5-6-15-3a10-3a38.png)
 
@@ -35,7 +35,7 @@ Du kan använda standardknappdesignen, ändra den eller överföra en egen anpas
 
    ![](assets/image2016-5-6-15-3a18-3a18.png)
 
-1. Välj bilden och klicka på **Markera**.
+1. Välj bilden och klicka på **Välj**.
 
    ![](assets/image2016-5-6-16-3a36-3a0.png)
 
@@ -51,7 +51,7 @@ Du kan använda standardknappdesignen, ändra den eller överföra en egen anpas
 
    ![](assets/image2016-5-6-16-3a41-3a52.png)
 
-1. Välj teckensnittsstil för betoning: **Fet**, *kursiv* eller Understruken.
+1. Välj teckensnittsstil för betoning: **Fet**, *Kursiv* eller Understruken.
 
    ![](assets/image2016-5-6-16-3a43-3a47.png)
 
