@@ -23,11 +23,11 @@ Med den här integreringen kan ni skicka målgruppsdata från Marketo till stati
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Gå till **LaunchPoint**, klicka på **Ny** och välj **Ny tjänst**.
+1. Gå till **LaunchPoint**, klicka på **Nytt** och välj **Ny tjänst**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Ange ett **visningsnamn** för tjänsten och välj **Facebook-tjänsten Custom Audiences** i **tjänstens** listruta.
+1. Ange ett **visningsnamn** för tjänsten och välj tjänsten **Anpassade målgrupper för Facebook** i listrutan **Tjänst**.
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
@@ -35,7 +35,7 @@ Med den här integreringen kan ni skicka målgruppsdata från Marketo till stati
 
    >[!CAUTION]
    >
-   >För att Marketto ska kunna skicka målgrupper över flera annonshanterarkonton måste Facebook-användaren som du auktoriserar i följande steg ha tillgång till *alla* dessa konton.
+   >För att Marketto ska kunna skicka målgrupper över flera annonshanterarkonton måste Facebook-användaren som du auktoriserar i följande steg ha tillgång till *alla* av dessa konton.
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
@@ -55,7 +55,7 @@ Med den här integreringen kan ni skicka målgruppsdata från Marketo till stati
 
    >[!NOTE]
    >
-   >**Grundläggande matchning** använder endast e-postadresser.**För avancerad matchning** används ytterligare sju fält, vilket ökar matchningsfrekvensen, för mer konvertering. Om ditt företags sekretesspolicy inte tillåter delning av ytterligare fält, eller om dina data inte inkluderar dem, väljer du Grundläggande matchning.
+   >**Grundläggande matchning** använder endast e-postadresser.**Avancerad** matchning använder ytterligare sju fält, vilket ökar matchningsfrekvensen, för mer konvertering. Om ditt företags sekretesspolicy inte tillåter delning av ytterligare fält, eller om dina data inte inkluderar dem, väljer du Grundläggande matchning.
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
@@ -63,7 +63,7 @@ Med den här integreringen kan ni skicka målgruppsdata från Marketo till stati
 
    >[!CAUTION]
    >
-   >Innan du går ska du se till att [godkänna Facebooks villkor](https://www.facebook.com/ads/manage/customaudiences/tos.php) för anpassade målgrupper i ditt Facebook-konto! Om du inte gör det kommer målgruppsuppdateringarna att misslyckas.
+   >Innan du går ska du [godkänna Facebooks anpassade målgruppsvillkor](https://www.facebook.com/ads/manage/customaudiences/tos.php) i ditt Facebook-konto! Om du inte gör det kommer målgruppsuppdateringarna att misslyckas.
 
 >[!MORELIKETHIS]
 >
