@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Skicka ett spårat e-postmeddelande {#sending-a-tracked-email}
+# Skicka en spårad e-post {#sending-a-tracked-email}
 
 När du skickar ett e-postmeddelande med Marketo Sales Connect spåras vyer (e-post öppnas) och klickningar (länkar som du klickar på).
 
@@ -30,7 +30,7 @@ När du skickar ett e-postmeddelande med Marketo Sales Connect spåras vyer (e-p
 
    ![](assets/one.png)
 
-1. Ange namnet eller e-postadressen för en mottagare i fältet **Till** .
+1. Ange namn eller e-postadress för en mottagare i fältet **Till**.
 
    ![](assets/two.png)
 
@@ -44,7 +44,7 @@ När du skickar ett e-postmeddelande med Marketo Sales Connect spåras vyer (e-p
 
    >[!NOTE]
    >
-   >Om någon som har varit en CC’d eller BCC’d öppnar e-postmeddelandet, spelas den öppningen in som en vy i posten för personen i fältet **Till** .
+   >Om någon som har varit CC’d eller BCC’d öppnar e-postmeddelandet registreras den öppningen som en vy på personens post i fältet **Till**.
 
 1. Lägg till en ämnesrad.
 
@@ -52,9 +52,9 @@ När du skickar ett e-postmeddelande med Marketo Sales Connect spåras vyer (e-p
 
    >[!NOTE]
    >
-   >Du måste ange ämnesrad och mottagare för att kunna skicka e-postmeddelandet. Vi sparar **automatiskt utkastet** när en ämnesrad och mottagare har lagts till.
+   >Du måste ange ämnesrad och mottagare för att kunna skicka e-postmeddelandet. Vi kommer att **automatiskt spara utkastet** när en ämnesrad och mottagare har lagts till.
 
-1. Skriv e-postmeddelandet med redigeraren. Klicka på **Skicka** (eller [Schemalägg](http://docs.marketo.com/x/GAQ6Ag)om du vill) när du är klar.
+1. Skriv e-postmeddelandet med redigeraren. Klicka på **Skicka** (eller [Schemalägg](http://docs.marketo.com/x/GAQ6Ag), om du vill) när du är klar.
 
    ![](assets/five.png)
 
