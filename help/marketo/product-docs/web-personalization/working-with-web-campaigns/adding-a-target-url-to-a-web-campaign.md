@@ -48,7 +48,7 @@ En mål-URL finns under sidan Ange kampanj och definierar den specifika URL elle
  </tbody> 
 </table>
 
-## Lägga till flera URL:er till mål-URL {#adding-multiple-urls-to-target-url}
+## Lägga till flera URL:er till mål-URL:en {#adding-multiple-urls-to-target-url}
 
 Om du klickar på plusikonen (![—](assets/image2015-2-18-8-3a40-3a59.png)) öppnas dialogrutan Multiple Value Entry där du kan lägga till flera URL:er. Lägg till en URL per rad.
 
@@ -64,7 +64,7 @@ Om du klickar på plusikonen (![—](assets/image2015-2-18-8-3a40-3a59.png)) öp
 
 ## Lägga till en mål-URL för webbkampanjer i zonen {#adding-a-target-url-for-in-zone-web-campaigns}
 
-1. Gå till **Webbkampanjer** **för** webben.
+1. Gå till **Webben** **Kampanjer**.
 
    ![](assets/web-campaigns-hand-5.jpg)
 
