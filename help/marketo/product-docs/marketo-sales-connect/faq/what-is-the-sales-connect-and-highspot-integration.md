@@ -31,7 +31,7 @@ Förutom att arbeta i Sales Connect i en webbläsare är integrering med Highspo
 
 ## Aktivera Sales Connect och Highspot-integrering {#enabling-the-sales-connect-and-highspot-integration}
 
-Om du är intresserad av att aktivera integrering med högdagrar för ditt team kontaktar du [Marketo Support](http://support.marketo.com).
+Om du vill aktivera integrering med högdagrar för ditt team kontaktar du [Marketo Support](http://support.marketo.com).
 
 ## Så här använder du integreringen {#how-to-use-the-integration}
 
