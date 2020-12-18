@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Ställ in kategorier {#set-up-categories}
+# Konfigurera kategorier {#set-up-categories}
 
 >[!NOTE]
 >
->Beroende på inköpsdatumet kan din Marketo-prenumeration innehålla antingen Marketo Predictive Content eller Content`<sup>AI</sup>`. För dem som använder Predictive Content aktiverar Marketo Content`<sup>AI</sup>` Analytics-funktioner fram till 30 april 2018. Kontakta Marketo Customer Success Manager för att uppgradera till Marketo Content`<sup>AI</sup>`om du vill behålla funktionerna efter detta datum.
+>Beroende på inköpsdatumet kan din Marketo-prenumeration innehålla antingen Marketo Predictive Content eller Content`<sup>AI</sup>`. För dem som använder Predictive Content aktiverar Marketo Content`<sup>AI</sup>` Analytics-funktioner fram till 30 april 2018. Kontakta Marketo Customer Success Manager för att uppgradera till Marketo Content`<sup>AI</sup>` om du vill behålla funktionerna efter detta datum.
 
 Skapa kategorier i Predictive Content för att gruppera prediktiva resultat på webben eller i e-post. Du kan till exempel bara arbeta med bloggar eller med innehåll på ett visst språk. Du kan även söka efter och filtrera sidvyn.  Kategorier visas på sidorna Allt innehåll och Predictive Content för enkel referens.
 
