@@ -23,7 +23,7 @@ Ett hårt studsande inträffar när ett e-postmeddelande har misslyckats på gru
 
 >[!NOTE]
 >
->Vill du konfigurera Sales Connect för att gå via din egen SMTP-leverantör? Gå [hit](http://docs.marketo.com/x/zYTS)bara.
+>Vill du konfigurera Sales Connect för att gå via din egen SMTP-leverantör? Gå [hit](http://docs.marketo.com/x/zYTS).
 
 ## Lista över studsade e-postmeddelanden {#list-of-bounced-emails}
 
