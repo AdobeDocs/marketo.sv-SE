@@ -19,11 +19,11 @@ Upptäck vilka program och kanaler som ger er den största rabatten för er mark
 >
 >**Påminnelse**
 >
->Om du vill få bra data från en programanalys måste du se till att dina CRM-kontakter har roller i affärsmöjligheterna och att dina Marketo-program är helt konfigurerade, med [periodkostnader](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md), programstatus och slutförda åtgärder.
+>Om du vill få bra data från en programanalys kontrollerar du att dina CRM-kontakter har roller i affärsmöjligheterna och att dina Marketo-program är helt konfigurerade, med [periodkostnader](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md), programstatus och slutförda åtgärder definierade.
 
 >[!TIP]
 >
->Om du vill att program utan kostnad ska visas i programanalysen [anger du periodkostnaden](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) till $0.
+>[Ställ in periodkostnaden](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) till $0 om du vill att program utan kostnad ska visas i programanalysen.
 
 1. Klicka på Analytics-panelen.
 
@@ -51,7 +51,7 @@ Upptäck vilka program och kanaler som ger er den största rabatten för er mark
 
    >[!TIP]
    >
-   >Om du vill markera ett visst intervall väljer du **Egen** och använder fälten **Från** och **Till** .
+   >Om du vill markera ett visst intervall väljer du **Egen** och använder fälten **Från** och **Till**.
 
 1. Om du vill spara din nya anpassade analysator väljer du Spara som i listrutan Analyzer-åtgärder.
 
@@ -75,8 +75,8 @@ Upptäck vilka program och kanaler som ger er den största rabatten för er mark
 
 >[!NOTE]
 >
->Många av de mätvärden du kan välja i programanalysen är tillgängliga med beräkningar med första beröringen (FT) och multitouch (MT). Det är viktigt att förstå [skillnaden mellan FT- och MT-attribuering](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+>Många av de mätvärden du kan välja i programanalysen är tillgängliga med beräkningar med första beröringen (FT) och multitouch (MT). Det är viktigt att förstå skillnaden [mellan FT- och MT-attribuering](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 >[!NOTE]
 >
->Läs mer i [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) and [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>Läs mer i [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting) och [Inkomstcykelutforskaren](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
