@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Konfigurera flöde för social registrering/delning {#configure-social-sign-up-share-flow}
+# Konfigurera socialt registreringsflöde/delningsflöde {#configure-social-sign-up-share-flow}
 
-När du skapar en [social app](http://docs.marketo.com/display/docs/social)kan du konfigurera de val av sociala nätverk och uppmaningar som en användare stöter på när de registrerar sig.
+När du skapar en [social app](http://docs.marketo.com/display/docs/social) kan du konfigurera val av sociala nätverk och uppmaningar som en användare stöter på när de registrerar sig.
 
 ## Välj nätverk för delning {#select-networks-for-sharing}
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/ma-1.png)
 
@@ -25,7 +25,7 @@ När du skapar en [social app](http://docs.marketo.com/display/docs/social)kan d
 
    ![](assets/image2014-9-22-13-3a57-3a43.png)
 
-1. Klicka på **Registreringsflöde** > **Sociala nätverk**** i redigeraren för sociala appar.**
+1. Klicka på **Registreringsflöde** > **Sociala nätverk*** i redigeraren för sociala appar.**
 
    ![](assets/three.png)
 
@@ -35,7 +35,7 @@ När du skapar en [social app](http://docs.marketo.com/display/docs/social)kan d
 
 ## Konfigurera Facebook-meddelandet {#configure-the-facebook-message}
 
-1. Gå till **Registreringsflöde** **>** Dela **** meddelanden ****.
+1. Gå till **Registrera dig** **Flöde** > **Dela** **Meddelanden**.
 
    ![](assets/five.png)
 
@@ -47,21 +47,21 @@ När du skapar en [social app](http://docs.marketo.com/display/docs/social)kan d
    >
    >I en videodelning genereras miniatyrbilden automatiskt.
 
-   **Lägg till dynamiskt innehåll,****** OpenGraphOm du väljer **Lägg till statiskt innehåll,** anger du titel, bildtext, beskrivning och överför en bild. Se de två nästa stegen.
+   **Lägg till dynamiskt innehåll,****** OpenGraphOm du väljer  **Lägg till statiskt innehåll** anger du titel, bildtext, beskrivning och överför en bild. Se de två nästa stegen.
 
 1. I fönstret Visa och redigera klickar du på **Visa redigeringar** och redigerar delningsprompten och meddelandet som ska visas i Facebook-inlägg.
 
    >[!TIP]
    >
-   >Mer information finns i [Redigera Facebook-inställningar](../../../../product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)för avancerade inlägg.
+   >Mer information finns i [Redigera inställningar för Facebook Rich Post](../../../../product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md).
 
    ![](assets/image2014-9-22-13-3a59-3a57.png)
 
    >[!NOTE]
    >
-   >URL:en [för](../../../../product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) delning läggs automatiskt till i alla delningsmeddelanden.
+   >URL:en för resursen [läggs automatiskt till i alla delningsmeddelanden.](../../../../product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md)
 
-1. Om du väljer **Lägg till statiskt** **innehåll** ovan redigerar du titeln, bildtexten och beskrivningen och överför en anpassad bild (från dina [**Marketo-bilder** **och** **filer **](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)**).**
+1. Om du väljer **Lägg till statisk** **innehåll** ovan redigerar du titeln, beskrivningen och beskrivningen och överför en anpassad bild (från [**Marketo Images** **och** **Filer **](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)**).**
 
    ![](assets/image2014-9-22-14-3a1-3a11.png)
 
@@ -93,11 +93,11 @@ Om du väljer värden för sidans taggar (log:title, og:caption och og:descripti
 
    ![](assets/image2014-9-22-14-3a3-3a8.png)
 
-   Om du väljer **Lägg till dynamiskt** **innehåll** läggs värdena för sidtaggarna (rubrik och beskrivning) och miniatyrbilden automatiskt till i LinkedIn-inlägg. Se nästa steg.
+   Om du väljer **Lägg till dynamiskt** **innehåll**, läggs värdena för sidtaggarna (rubrik och beskrivning) och miniatyrbilden automatiskt till i LinkedIn-inlägg. Se nästa steg.
 
-   Om du väljer **Lägg till statiskt innehåll** anger du titel, bildtext och beskrivning och överför en bild. Se de två nästa stegen.
+   Om du väljer **Lägg till statiskt innehåll** anger du rubrik, beskrivning och beskrivning och överför en bild. Se de två nästa stegen.
 
-1. Klicka på **Visa redigeringar** i fönstret **Visa** **&amp;** Redigera **** och redigera delningsprompten och meddelandet som ska visas i LinkedIn-inlägg.
+1. I fönstret **Visa** **&amp;** **Redigera** klickar du på **Visa redigeringar** och redigerar delningsprompten och meddelandet som ska visas i LinkedIn-inlägg.
 
    ![](assets/image2014-9-22-14-3a4-3a6.png)
 
@@ -105,7 +105,7 @@ Om du väljer värden för sidans taggar (log:title, og:caption och og:descripti
    >
    >Använd {html_title} i din inläggstext för att visa sidans rubrik automatiskt.
 
-1. Om du väljer **Lägg till statiskt** **innehåll** ovan redigerar du titeln och beskrivningen och överför en anpassad bild (från dina [**Marketo-bilder** **och** **filer**](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)).
+1. Om du väljer **Lägg till statisk** **innehåll** ovan redigerar du titeln och beskrivningen och överför en anpassad bild (från [**Marketo Images** **och** **Filer**](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)).
 
    ![](assets/image2014-9-22-13-3a55-3a17.png)
 
@@ -115,5 +115,5 @@ Om du väljer värden för sidans taggar (log:title, og:caption och og:descripti
 
 >[!MORELIKETHIS]
 >
->Sedan kan du klicka på **Slutför > Godkänn och stäng** och placera din sociala app på en landningssida. Du kan också konfigurera [hämtning](configure-person-capture-for-a-social-app.md) av personer eller uppmaningen att [dela](configure-re-share-email-and-prompt-for-a-social-app.md)igen.
+>Sedan kan du klicka på **Slutför > Godkänn och stäng** och placera din sociala app på en landningssida. Du kan också konfigurera [personhämtning](configure-person-capture-for-a-social-app.md) eller [frågan om att dela om](configure-re-share-email-and-prompt-for-a-social-app.md).
 
