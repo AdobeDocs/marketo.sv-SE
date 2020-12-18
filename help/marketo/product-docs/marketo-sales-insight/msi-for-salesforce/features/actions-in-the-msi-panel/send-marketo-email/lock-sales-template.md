@@ -33,7 +33,7 @@ För att förhindra CRM-användare från att redigera säljmallar kan administra
 
    ![](assets/2.png)
 
-1. Markera **Aktivera möjlighet att låsa mallar**. Klicka på **Spara**.
+1. Markera **Aktivera möjligheten att låsa mallar**. Klicka på **Spara**.
 
    ![](assets/image2017-10-9-8-3a19-3a45.png)
 
@@ -43,7 +43,7 @@ För att förhindra CRM-användare från att redigera säljmallar kan administra
 
 >[!NOTE]
 >
->Om du ändrar den här inställningen som administratör påverkas **inte** befintliga mallar retroaktivt. Det innebär att de inte låses automatiskt.
+>Om du ändrar den här inställningen som administratör kommer **inte** att påverka befintliga mallar retroaktivt. Det innebär att de inte låses automatiskt.
 
 ## Lås mall i e-postredigeraren {#lock-template-in-the-email-editor}
 
@@ -55,7 +55,7 @@ För att förhindra CRM-användare från att redigera säljmallar kan administra
 
    ![](assets/6.png)
 
-1. Markera **Publish to Marketo Sales Insight** (Publicera på Marketos Sales Insight) om den inte redan är markerad. Du kan nu avmarkera **Tillåt CRM-användare att redigera e-post** för att låsa mallen. Klicka på **Spara**.
+1. Markera **Publish to Marketo Sales Insight** om den inte redan är markerad. Du kan nu avmarkera **Tillåt CRM-användare att redigera e-post** för att låsa mallen. Klicka på **Spara**.
 
    ![](assets/7.png)
 
