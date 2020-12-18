@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Märka webbkampanjer {#label-your-web-campaigns}
+# Märk upp dina webbkampanjer {#label-your-web-campaigns}
 
 Har ni så många kampanjer att rullningen blir krånglig? Använd etiketter för att tagga era kampanjer, så att ni kan sortera dem och snabbt hitta dem.
 
-## Lägga till en etikett i en webbkampanj {#add-a-label-to-a-web-campaign}
+## Lägg till en etikett i en webbkampanj {#add-a-label-to-a-web-campaign}
 
 1. Logga in på Webbanpassning och gå till Web Campaigns.
 
@@ -23,7 +23,7 @@ Har ni så många kampanjer att rullningen blir krånglig? Använd etiketter fö
 
    >[!NOTE]
    >
-   >Använd [filterfunktionen](filter-web-campaigns.md)för att göra det enklare att hitta kampanjen du vill ha.
+   >Använd filterfunktionen [](filter-web-campaigns.md) för att göra det enklare att hitta kampanjen du vill ha.
 
 1. Välj de kampanjer du vill tagga med en etikett.
 
@@ -51,7 +51,7 @@ Häftig! Nu vet ni hur ni skapar etiketter och tilldelar dem till kampanjer.
 
 >[!MORELIKETHIS]
 >
->* [L](create-a-new-in-zone-web-campaign.md) [abel ett segment](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
+>* [Märk ](create-a-new-in-zone-web-campaign.md) [upp ett segment](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
 >
 
