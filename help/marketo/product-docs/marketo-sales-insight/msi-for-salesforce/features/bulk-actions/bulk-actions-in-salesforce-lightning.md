@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Så här ställer du in massåtgärder i Salesforce Lightning.
 
-1. Klicka på ikonen Inställningar i Salesforce och välj **Konfigurera**.
+1. Klicka på ikonen Inställningar i Salesforce och välj **Inställningar**.
 
    ![](assets/one.png)
 
-1. Klicka på fliken **Objekthanteraren** .
+1. Klicka på fliken **Objektshanteraren**.
 
    ![](assets/two.png)
 
-1. Leta upp och välj etiketten **Lead** .
+1. Sök efter och välj etiketten **Lead**.
 
    ![](assets/three-2.png)
 
@@ -35,7 +35,7 @@ Så här ställer du in massåtgärder i Salesforce Lightning.
 
    ![](assets/five.png)
 
-1. Under Anpassade knappar letar du upp och väljer **Lägg till i Marketo Campaign (blixt)** och **Skicka Marketo-e-post (blixt)**. Klicka på knappen **Lägg till** .
+1. Under Anpassade knappar letar du reda på och väljer **Lägg till i Marketo Campaign (blixt)** och **Skicka Marketo-e-post (blixt)**. Klicka på knappen **Lägg till**.
 
    ![](assets/six.png)
 
