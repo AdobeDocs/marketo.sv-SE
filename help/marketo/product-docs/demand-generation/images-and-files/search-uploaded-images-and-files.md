@@ -19,17 +19,17 @@ I Marketo är det enkelt att hitta bilder och filer.
 
    ![](assets/designstudio-1.png)
 
-1. Klicka på **Bilder och filer** för att se en fullständig lista över alla överförda filer.
+1. Klicka på **Bilder och filer** om du vill se en fullständig lista över alla överförda filer.
 
    ![](assets/image2014-9-16-11-3a44-3a4.png)
 
-1. Skriv namnet på filen som du söker efter i rutan **Snabbsökning** längst ned på skärmen och klicka på **Retur**.
+1. I rutan **Snabbsökning** längst ned på skärmen skriver du namnet på filen som du söker efter och klickar på **Ange**.
 
    ![](assets/image2014-9-16-11-3a46-3a32.png)
 
 >[!TIP]
 >
->Om du vill starta en ny sökning klickar du på **x** i rutan **Snabb** **sökning** .
+>Om du vill starta en ny sökning klickar du på **x** i rutan **Snabb** **Sök**.
 
 Sparka upp fötterna - du är klar!
 
