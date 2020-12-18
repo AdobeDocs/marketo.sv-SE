@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Förstå sammanfattningsrapporten {#understanding-the-summary-report}
+# Sammanfattningsrapporten {#understanding-the-summary-report}
 
 Sammanfattningsrapporten är en månatlig översikt över alla kampanjer och rekommenderade innehållsprestanda. Det baseras på antalet klick och antal leads (direkt eller assisterade) som deltar i den personaliserade kampanjen eller det rekommenderade innehållet och sedan blir ett känt tips. Rapporten jämför resultaten med föregående månad.
 
@@ -23,7 +23,7 @@ Sammanfattningsrapporten är en månatlig översikt över alla kampanjer och rek
 >
 >Konvertering: En webbbesökare som fyller i något av formulären på webbplatsen och lämnar sin e-postadress, som vid ett tidigare besök (inom de senaste sex månaderna) klickade på en personlig kampanj eller rekommenderad innehållsresurs.
 
-Gå till **Analytics** and **Summary Report** i Webbanpassning.*****   ![](assets/image2016-4-6-10-3a15-3a58.png)
+I Webbanpassning,** **gå till **Analytics** och **Sammanfattningsrapport**.   ![](assets/image2016-4-6-10-3a15-3a58.png)
 
 Välj** Månad** och klicka på **Visa rapport**.
 
@@ -31,23 +31,23 @@ Välj** Månad** och klicka på **Visa rapport**.
 
 Den första delen av rapporten handlar om personaliserade webbpersonaliseringskampanjer och annonser:
 
-* **Klickningar** - alla klickningar på webbpersonaliseringskampanjer
+* **Klick**  - alla klick på webbpersonaliseringskampanjer
 * **Direktkonvertering **- alla besökare som klickade på en webbpersonaliseringskampanj under besöket och fyllde i ett formulär
-* **Direktkonverteringsgrad** - den procentandel besökare som blev direkt leads efter att ha klickat på en webbpersonaliseringskampanj. Direktleads delat med klick
-* **Assisterade konverteringar** - alla besökare som fyllt i ett formulär och klickat på en webbpersonaliseringskampanj under ett tidigare besök (under de senaste sex månaderna)
-* **Tips** - tips för att optimera resultatet av webbpersonaliseringskampanjer
-* **Top Campaigns** - de mest effektiva kampanjerna under den valda tidsperioden, ordnade efter antal klick
+* **Direct Conversion Rate**  (Riktad konverteringsgrad) - den procentandel besökare som blev en direkt ledtråd efter att ha klickat på en webbpersonaliseringskampanj. Direktleads delat med klick
+* **Assisterade konverteringar**  - alla besökare som fyllt i ett formulär och klickat på en webbpersonaliseringskampanj under ett tidigare besök (under de senaste sex månaderna)
+* **Tips**  - tips för att optimera resultatet av webbpersonaliseringskampanjer
+* **Top Campaigns**  - de mest effektiva kampanjerna under den valda tidsperioden, ordnade efter antal klick
 
 ![](assets/3.png)
 
 Den andra delen av rapporten handlar om rekommenderat innehåll från webbpersonaliseringens rekommendationsmotor. Den visar:
 
-* **Klickningar** - allt klickningar på rekommenderat webbpersonaliserat innehåll
+* **Klickningar**  - allt klickande på rekommenderat webbpersonaliserat innehåll
 * **Direktkonvertering **- alla besökare som klickade på rekommenderat innehåll under sitt besök och fyllde i ett formulär
-* **Direktkonverteringsgrad** - den procentandel besökare som blev en direkt lead efter att ha klickat på rekommenderat innehåll. Direktleads delat med klick
+* **Direktkonverteringsfrekvens**  - den procentandel besökare som blev en direkt lead efter att ha klickat på rekommenderat innehåll. Direktleads delat med klick
 * **Assisterade konverteringar ** - alla besökare som fyllt i ett formulär och klickat på rekommenderat innehåll under ett tidigare besök (under de senaste sex månaderna)
-* **Tips** - tips om hur du kan optimera med hjälp av verktyget för innehållsrekommendation
-* **Top Recommendations** - the top performance recommended content under the selected time period, ordered by number of clicks
+* **Tips**  - tips för att optimera med hjälp av verktyget för innehållsrekommendation
+* **Recommendations**  - det bästa rekommenderade innehållet under den valda tidsperioden, ordnade efter antal klick
 
 >[!NOTE]
 >
