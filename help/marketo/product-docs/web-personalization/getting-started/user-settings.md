@@ -51,7 +51,7 @@ Välj vilken [e-postrapport](../../../product-docs/web-personalization/reporting
 
 >[!NOTE]
 >
->När du klickar på **Spara** avslutas inte användarinställningarna. Om du vill avsluta klickar du på Marketo-logotypen i det övre vänstra hörnet och väljer mål.
+>Om du klickar på **Spara** avslutas inte användarinställningarna. Om du vill avsluta klickar du på Marketo-logotypen i det övre vänstra hörnet och väljer mål.
 
 >[!MORELIKETHIS]
 >
