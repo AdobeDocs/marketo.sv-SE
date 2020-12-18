@@ -15,7 +15,7 @@ ht-degree: 0%
 
 När ni har aktiverat Facebook-annonser kan ni använda dem i era smarta kampanjer för att se om det går att lyckas med programmet. När man skickar in information i en Facebook-annonsenhet skickas informationen till Marketo omedelbart.
 
-1. Använd **filtret Fyll i formulär** för annonser för leads eller utlösaren.
+1. Använd filtret **Fyller i formulär för annonser för leads** eller utlösaren.
 
    ![](assets/image2016-8-5-11-3a18-3a31.png)
 
