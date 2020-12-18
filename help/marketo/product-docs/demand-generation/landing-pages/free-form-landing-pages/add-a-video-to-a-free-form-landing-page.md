@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Lägga till en video på en startsida i frihandsformat {#add-a-video-to-a-free-form-landing-page}
+# Lägg till en video på en startsida i frihandsformat {#add-a-video-to-a-free-form-landing-page}
 
 Lägg in videofilmer med alternativ för delning via sociala medier på era landningssidor.
 
@@ -21,7 +21,7 @@ Lägg in videofilmer med alternativ för delning via sociala medier på era land
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
-1. Navigera till landningssidan för frihandslayout och klicka på **Redigera utkast**.
+1. Navigera till din startsida för frihandslandning och klicka på **Redigera utkast**.
 
    ![](assets/image2014-9-17-11-3a28-3a51.png)
 
@@ -35,9 +35,9 @@ Lägg in videofilmer med alternativ för delning via sociala medier på era land
 
    >[!NOTE]
    >
-   >Funktionen **Skapa nytt** visas endast i marknadsföringsaktiviteter; det är inte tillgängligt i Design Studio. Endast redan skapade videor finns i Design Studio. Du kan dock skapa en videoresurs *i ett program* genom att välja **Nytt** > **Ny lokal resurs.** Du kan sedan välja den i listrutan, vilket visas här.
+   >Funktionen **Skapa nytt** visas endast i marknadsföringsaktiviteter; det är inte tillgängligt i Design Studio. Endast redan skapade videor finns i Design Studio. Du kan dock skapa en videoresurs *inuti ett program* genom att välja **Ny** > **Ny lokal resurs.** Du kan sedan välja den i listrutan, vilket visas här.
 
-1. Ange webbadressen till YouTube-videon och ge sedan videon ett namn. Under listrutan Klona från väljer du **Ingen och** klickar sedan på **Infoga.**
+1. Ange webbadressen till YouTube-videon och ge sedan videon ett namn. Välj **Ingen,** och klicka sedan på **Infoga under listrutan Klona från.**
 
    ![](assets/image2014-9-17-11-3a29-3a15.png)
 
@@ -45,9 +45,9 @@ Lägg in videofilmer med alternativ för delning via sociala medier på era land
 >
 >Om du vill spara tid kan du använda alternativet **Klona från** för att kopiera alla inställningar från en befintlig videoresurs.
 
-Grattis! Du har lagt till en videodelning på din startsida för fri form. Godkänn landningssidan så spelas din videoresurs upp live. Du kan också [publicera landningssidan på Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) eller [lägga videodelningen på din webbplats](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+Grattis! Du har lagt till en videodelning på din startsida för fri form. Godkänn landningssidan så spelas din videoresurs upp live. Du kan även [publicera landningssidan på Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) eller [lägga videodelningen på din webbplats](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!MORELIKETHIS]
 >
->Du är klar, men du kan ändra inställningarna för din videodelning om det behövs. Börja med att [anpassa delningsflödet](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (när och var delningsprompten öppnas).
+>Du är klar, men du kan ändra inställningarna för din videodelning om det behövs. Börja med [att anpassa delningsflödet](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (när och var delningsprompten öppnas).
 
