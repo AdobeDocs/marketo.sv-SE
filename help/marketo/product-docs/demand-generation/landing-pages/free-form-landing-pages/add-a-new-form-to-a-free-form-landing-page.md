@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Lägga till ett nytt formulär på en startsida med valfri form {#add-a-new-form-to-a-free-form-landing-page}
+# Lägg till ett nytt formulär på en startsida med valfri form {#add-a-new-form-to-a-free-form-landing-page}
 
 Blankett, möt landningssidan. Landningssida, möt formulär.
 
@@ -24,15 +24,15 @@ Blankett, möt landningssidan. Landningssida, möt formulär.
 
 
 
-1. Gå till **Marknadsföringsaktiviteter** och **aktiviteter**.
+1. Gå till **Marknadsföring** **Aktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Hitta landningssidan och klicka på **Redigera** **utkast**.
+1. Leta reda på landningssidan och klicka på **Redigera** **Utkast**.
 
    ![](assets/image2014-9-16-14-3a44-3a15.png)
 
-1. Dra och släpp **formulärelementet** på sidan.
+1. Dra och släpp elementet **Form** på sidan.
 
    ![](assets/image2015-5-21-15-3a43-3a30.png)
 
@@ -42,7 +42,7 @@ Blankett, möt landningssidan. Landningssida, möt formulär.
 
 1. Det finns tre alternativ när du väljer en uppföljningssida:
 
-   * **Landningssida** - för att välja en Marketo-landningssida
+   * **Landningssida**  - för att välja en Marketo-landningssida
    * **Extern**** URL** - för att välja valfri URL
 
    * **Formulär**** Definierad** - om du vill använda inställningarna som definierats på formulärnivå
