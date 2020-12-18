@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Med faser kan du gruppera ett antal steg. Ibland återspeglar flera steg i en modell en fas i en tratt.
 
-![--](assets/image2015-6-12-16-3a56-3a40.png)
+![—](assets/image2015-6-12-16-3a56-3a40.png)
 
-## Definiera modellens faser {#define-the-phases-of-the-model}
+## Definiera faserna för modellen {#define-the-phases-of-the-model}
 
 1. Klicka på **Phases.**
 
