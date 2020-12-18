@@ -19,4 +19,4 @@ Om vi har fått fel plats för dina mottagare finns det tre möjligheter för va
 
 -Om e-postmeddelandet har vidarebefordrats eller öppnats av någon i fältet CC eller Hemlig kopia försöker vi visa platsen för dessa personer korrekt.
 
-På det hela taget avgör vi platser så exakt som möjligt utifrån IP-spårning, men tyvärr `isn't an exact science`så.
+På det hela taget avgör vi platser så exakt som möjligt utifrån IP-spårning, men tyvärr `isn't an exact science`.
