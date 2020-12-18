@@ -41,13 +41,13 @@ ht-degree: 0%
 
 ## Fästa mallkategorier i dispositionsfönstret {#pinning-template-categories-in-the-compose-window}
 
-Använd **upp till fem** specifika mallkategorier för att få snabb åtkomst till de mallar du använder mest.
+Använd **upp till fem** specifika mallkategorier för att få snabb åtkomst till de mallar som du använder mest.
 
 1. Skapa ditt e-postutkast (det finns flera sätt att göra detta, i det här exemplet väljer vi **Disponera** i sidhuvudet).
 
    ![](assets/one-6.png)
 
-1. Klicka på **+** -ikonen bredvid Favoriter.
+1. Klicka på ikonen **+** bredvid Favoriter.
 
    ![](assets/pinning-two.png)
 
@@ -55,7 +55,7 @@ Använd **upp till fem** specifika mallkategorier för att få snabb åtkomst ti
 
    ![](assets/pinning-three.png)
 
-1. Klicka på **Spara ändringar** när du är klar (valfritt: upprepa steg 3 för att lägga till fler).
+1. Klicka på **Spara ändringar** när du är klar (valfritt): upprepa steg 3 för att lägga till fler).
 
    ![](assets/pinning-four.png)
 
@@ -67,7 +67,7 @@ Använd **upp till fem** specifika mallkategorier för att få snabb åtkomst ti
 
    >[!NOTE]
    >
-   >**Favoriter** finns där som standard. Den innehåller e-postmallar för favoriter, inte kategorier.
+   >**Som standard** finns Favoriter där. Den innehåller e-postmallar för favoriter, inte kategorier.
 
    >[!NOTE]
    >
