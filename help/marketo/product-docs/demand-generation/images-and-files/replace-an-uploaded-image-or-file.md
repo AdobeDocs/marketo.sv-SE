@@ -17,15 +17,15 @@ ht-degree: 0%
 
    ![](assets/designstudio-6.png)
 
-1. Klicka på **Bilder** **och** **filer** och markera sedan den fil som du vill ersätta.
+1. Klicka på **Bilder** **och** **Filer** och välj sedan den fil som du vill ersätta.
 
    ![](assets/image2014-9-16-11-3a21-3a48.png)
 
    >[!TIP]
    >
-   >Du kan också [söka i överförda bilder eller filer](search-uploaded-images-and-files.md).
+   >Du kan också [söka efter överförda bilder eller filer](search-uploaded-images-and-files.md).
 
-1. Klicka på **Filåtgärder** och välj **Ersätt bild eller Fil**.
+1. Klicka på **Filåtgärder** och välj **Ersätt bild eller Arkiv**.
 
    ![](assets/image2014-9-16-11-3a21-3a55.png)
 
