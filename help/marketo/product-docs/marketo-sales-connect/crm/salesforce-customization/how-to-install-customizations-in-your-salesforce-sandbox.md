@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >[Anslut försäljningsanslutning till din Salesforce-sandlåda](http://docs.marketo.com/x/DYDq)
 
-1. I Sales Connect klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Settings**.
+1. I Sales Connect klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Inställningar**.
 
    ![](assets/one-3.png)
 
-1. Klicka på **Salesforce under Administratörsinställningar.**
+1. Under Administratörsinställningar klickar du på **Salesforce.**
 
    ![](assets/two-3.png)
 
@@ -33,5 +33,5 @@ ht-degree: 0%
 
    ![](assets/three-3.png)
 
-   Gå sedan igenom stegen för att installera anpassningen på samma sätt som för ett vanligt Salesforce-konto. Gå till enminutsmärkningen för [videon](http://docs.marketo.com/display/DOCS/Quick+Start+Videos+and+Tutorials#QuickStartVideosandTutorials-InstallingCustomizationsinSalesforce) om du vill ha mer information.
+   Gå sedan igenom stegen för att installera anpassningen på samma sätt som för ett vanligt Salesforce-konto. Gå till enminutsinställningen [den här videon](http://docs.marketo.com/display/DOCS/Quick+Start+Videos+and+Tutorials#QuickStartVideosandTutorials-InstallingCustomizationsinSalesforce) om du vill ha mer information.
 
