@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Med Lägg till e-post i Salesforce kan du skicka e-postmeddelanden som du får i Gmail till ditt Salesforce-konto. Vi gör sökningen baserat på e-postmeddelandets avsändare, så vi kan för närvarande bara använda den här knappen för e-postmeddelanden som du har fått.
 
-Vi arbetar på att ändra funktionaliteten så att du kan logga e-postmeddelanden som du redan har skickat. Under tiden kan du vidarebefordra den till din e-postadress för [Salesforce om den inte loggade automatiskt när den skickades eller om den visades i dina misslyckade aktiviteter i](http://toutapp.com/next#settings/crm/salesforce/activity)aktivitetsloggen [.](http://docs.marketo.com/x/soLS)
+Vi arbetar på att ändra funktionaliteten så att du kan logga e-postmeddelanden som du redan har skickat. Under tiden kan du vidarebefordra den till din [e-postadress för Salesforce BCC om den inte loggade automatiskt när den skickades eller om den visades i dina misslyckade aktiviteter i [aktivitetsloggen](http://toutapp.com/next#settings/crm/salesforce/activity).](http://docs.marketo.com/x/soLS)
