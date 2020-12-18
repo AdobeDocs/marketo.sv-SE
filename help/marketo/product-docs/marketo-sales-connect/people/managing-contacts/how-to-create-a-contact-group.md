@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Med Sales Connect kan du skapa grupper av kontakter så att du kan skicka personaliserade e-postmeddelanden till flera mottagare.
 
-Om du vill skapa en grupp väljer du **N***ew Group**.
+Om du vill skapa en grupp väljer du **N***Ny grupp**.
 
 Härifrån kan du lägga till kontakter [manuellt](http://docs.marketo.com/x/IYTS) eller [via CSV](http://docs.marketo.com/x/VADb).
 
-Om du vill veta mer om hur du skickar gruppmeddelanden [klickar du här](http://docs.marketo.com/x/iADb).
+[Klicka här](http://docs.marketo.com/x/iADb) om du vill veta mer om hur du skickar gruppmeddelanden.
