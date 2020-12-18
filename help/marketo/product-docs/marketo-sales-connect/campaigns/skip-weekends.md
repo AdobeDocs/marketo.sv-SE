@@ -27,7 +27,7 @@ När ni automatiserar en kampanj vill ni förmodligen inte att era e-postmeddela
 
    ![](assets/three-2.png)
 
-1. Markera kryssrutan **Hoppa över helger** .
+1. Markera kryssrutan **Hoppa över helger**.
 
    ![](assets/four-2.png)
 
