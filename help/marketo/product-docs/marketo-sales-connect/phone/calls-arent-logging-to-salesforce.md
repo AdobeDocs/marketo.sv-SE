@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Samtal loggar inte till Salesforce {#calls-arent-logging-to-salesforce}
+# Samtal loggas inte till Salesforce {#calls-arent-logging-to-salesforce}
 
 Om du vill att dina samtal från telefonen ska loggas automatiskt till Salesforce kontrollerar du att följande är på plats.
 
 Du behöver ditt Sales Connect-konto vara anslutet till ditt [Salesforce-konto](http://docs.marketo.com/x/q4LS) via API-anslutningen.
 
-Om du ringer från [webbprogrammet](http://toutapp.com/login)behöver du ett Salesforce-ID sparat till den kontakten. [Klicka här](http://docs.marketo.com/x/G4PS) för att se hur du kan se till att alla dina Sales Connect-kontakter har ett associerat Salesforce-ID.
+Om du ringer från [webbprogrammet](http://toutapp.com/login) behöver du ett Salesforce-ID sparat till den kontakten. [Klicka ](http://docs.marketo.com/x/G4PS) här för att se hur du kan se till att alla dina Sales Connect-kontakter har ett associerat Salesforce-ID.
 
 >[!NOTE]
 >
