@@ -31,4 +31,4 @@ Här väljer du det meddelande som du skapade för att använda i programmet.
    >
    >Om du vill välja ett annat meddelande tar du bort det i fältet Meddelande i appen. Länken Nytt meddelande i appen visas sedan igen. Klicka på den och välj ett annat meddelande.
 
-Du är rätt på rätt spår. Det är dags att [schemalägga sändningen](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md).
+Du är rätt på rätt spår. Tid att [schemalägga sändningen](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md).
