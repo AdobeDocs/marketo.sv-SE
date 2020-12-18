@@ -19,7 +19,7 @@ Vi stöder enkel inloggning via SAML 2.0-specifikationen. Men vi har för närva
 >
 >**Påminnelse**
 >
->Detta gäller endast **Marketo Sales Connect** -kunder. Kontakta din Customer Success Manager om du inte har Sales Connect men vill veta mer.
+>Detta gäller endast **Marketo Sales Connect**-kunder. Kontakta din Customer Success Manager om du inte har Sales Connect men vill veta mer.
 
 ## Krav {#requirements}
 
@@ -27,12 +27,12 @@ Vi stöder enkel inloggning via SAML 2.0-specifikationen. Men vi har för närva
 * Marketo Sales Connect-prenumeration
 * Metadata.xml från SSO-konto (Issue URL, endpoint for validation och a public key)
 
-## Inställningar {#setup}
+## Konfigurera {#setup}
 
 Metadata.xml från teamets SSO-instans ska innehålla utfärdarens URL, valideringens slutpunkt och en offentlig nyckel.
 
-Vi behöver också SSO-platsen för ditt företags SSO-konto som en unik domän. Vi `require a unique subdomain` gillar till exempel&quot;toutapp.pingidentity.com&quot; eller liknande. Utan den här typen av unik identifierare kan vi inte konfigurera SAML från kontrollpanelen.
+Vi behöver också SSO-platsen för ditt företags SSO-konto som en unik domän. Vi `require a unique subdomain` till exempel som&quot;toutapp.pingidentity.com&quot; eller liknande. Utan den här typen av unik identifierare kan vi inte konfigurera SAML från kontrollpanelen.
 
-One Login och Okta tillhandahåller inte alltid unika identifierare när en URL tilldelas. Om du använder Okta eller One Login betyder det att vi inte kan konfigurera en inloggning från kontrollpanelsknappen. Vi kommer fortfarande att kunna konfigurera det med knappen för enkel inloggning i [webbprogrammet](http://toutapp.com/login).
+One Login och Okta tillhandahåller inte alltid unika identifierare när en URL tilldelas. Om du använder Okta eller One Login betyder det att vi inte kan konfigurera en inloggning från kontrollpanelsknappen. Vi kommer fortfarande att kunna konfigurera det med knappen för enkel inloggning på [webbprogrammet](http://toutapp.com/login).
 
 När vi har fått den informationen kommer vi att arbeta tillsammans med vårt tekniker för att göra detta för din prenumeration.
