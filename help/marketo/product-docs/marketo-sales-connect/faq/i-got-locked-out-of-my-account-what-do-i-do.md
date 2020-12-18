@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # Jag har låst ut mitt konto. Vad ska jag göra? {#i-got-locked-out-of-my-account-what-do-i-do}
 
-Om du har överskridit antalet försök att logga in kommer du att vara utelåst från ditt konto. Kontakta [](http://nation.marketo.com/community/support_solutions)supporten om du behöver hjälp med att låsa upp det.
+Om du har överskridit antalet försök att logga in kommer du att vara utelåst från ditt konto. Kontakta [supporten](http://nation.marketo.com/community/support_solutions)om du behöver hjälp med att låsa upp det.
