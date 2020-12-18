@@ -15,6 +15,6 @@ ht-degree: 0%
 
 När du schemalägger ett e-postmeddelande i Gmail ska det sparas i mappen Utkast tills det skickas. Inget har gått fel, men på grund av hur vi integrerar med Gmail är detta en begränsning av schemalagda e-postmeddelanden.
 
-Efter den schemalagda tiden går e-postmeddelandet från Utkast till Skickat. Du kan se att e-postmeddelandet har schemalagts i [webbprogrammet](http://toutapp.com/login), och det ska även ha etiketten&quot;Tout Scheduled Email&quot;.
+Efter den schemalagda tiden går e-postmeddelandet från Utkast till Skickat. Du kan se att e-postmeddelandet har schemalagts i [webbprogrammet](http://toutapp.com/login), och det ska även ha etiketten Tout Scheduled Email.
 
 Du kan också alltid schemalägga från [webbprogrammet](http://toutapp.com/login), och e-postmeddelandena visas inte i mappen Gmail Drafts.
