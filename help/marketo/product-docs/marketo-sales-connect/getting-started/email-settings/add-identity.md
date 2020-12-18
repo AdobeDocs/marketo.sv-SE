@@ -21,7 +21,7 @@ Lägg till en identitet när du har flera e-postadresser att skicka från.
 
    >[!NOTE]
    >
-   >Läs mer om [att lägga till signaturer i dina identiteter](https://docs.marketo.com/x/6BnG).
+   >Läs mer om att [lägga till signaturer i dina identiteter](https://docs.marketo.com/x/6BnG).
 
 1. Ange din information (e-post och namn är obligatoriska fält) och klicka på **Skapa** när du är klar.
 1. Klicka på länken i det bekräftelsemeddelande du får.
