@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Följ installationsanvisningarna nedan för att implementera RTP-taggen:
 
-1. Öppna filen **header.php** i **WordPress-temat**.
+1. Öppna filen **header.php** för ditt **WordPress-tema**.
 
    Du kan antingen använda en FTP-klient för att komma åt servern eller redigera dina temafiler direkt från instrumentpanelen i WordPress. Filredigeraren finns under fliken **Utseende** på sidofältsmenyn.
 
@@ -34,11 +34,11 @@ Följ installationsanvisningarna nedan för att implementera RTP-taggen:
 
 1. Kopiera JavaScript-taggen RTP och klistra in den i webbplatsmallarna.
 
-   Kontrollera att det är det första skriptet i sidhuvudet - mellan **`<head> </head>`** -taggarna.
+   Kontrollera att det är det första skriptet i sidhuvudet - mellan **`<head> </head>`**-taggarna.
 
    ![](assets/image2014-11-30-15-3a36-3a31.png)
 
 1. Klicka på **Uppdatera fil** för header.php-filen.
 1. Kontrollera att den visas på alla `pages including` landningssidor och underdomäner.
 
-   Du kan göra detta genom att högerklicka på din `website’s` sida. Gå till **Visa sidkälla.** Sök efter **RTP** för att hitta taggen.
+   Du kan göra detta genom att högerklicka på sidan `website’s`. Gå till **Visa sidkälla.** Sök efter  **** RTP för att hitta taggen.
