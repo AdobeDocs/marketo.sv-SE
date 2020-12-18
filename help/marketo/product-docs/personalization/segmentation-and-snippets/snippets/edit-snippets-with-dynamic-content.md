@@ -30,11 +30,11 @@ Använd Segmentering i kodfragment för att enkelt hantera dynamiskt innehåll i
 
    ![](assets/designstudio-1.png)
 
-1. Klicka på ditt **kodfragment **och **redigera sedan utkastet**.
+1. Klicka på ditt **kodfragment **och **Redigera utkast**.
 
    ![](assets/image2014-9-16-8-3a59-3a14.png)
 
-1. Klicka på **Segment efter**.
+1. Klicka på **Segment by**.
 
    ![](assets/image2014-9-16-8-3a59-3a27.png)
 
