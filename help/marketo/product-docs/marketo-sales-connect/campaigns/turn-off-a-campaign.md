@@ -17,11 +17,11 @@ Behöver du automatiskt avsluta en kampanj när en mottagare svarar? Så här g�
 
 >[!NOTE]
 >
->Detta är endast tillgängligt för kunder som är integrerade med [Gmail eller Exchange](https://toutapp.com/next#settings/email-tracking) och har svarsuppföljning aktiverat.
+>Detta är endast tillgängligt för kunder som är integrerade med [Gmail eller Exchange](https://toutapp.com/next#settings/email-tracking) och som har svarsspårning aktiverad.
 
 ## Inaktivera en kampanj för en person {#turn-off-a-campaign-for-one-person}
 
-När du har skapat kampanjen går du bara till fliken **Inställningar** och väljer hur du vill att kampanjen ska fungera om någon svarar.
+När du har skapat kampanjen går du till fliken **Inställningar** och väljer hur du vill att kampanjen ska fungera om någon svarar.
 
 Båda alternativen avslutar kampanjen och mottagaren får inga fler e-postmeddelanden från dig.
 
