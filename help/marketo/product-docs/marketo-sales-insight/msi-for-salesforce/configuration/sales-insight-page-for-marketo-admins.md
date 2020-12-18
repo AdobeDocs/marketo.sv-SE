@@ -5,7 +5,7 @@ title: Sales Insight Page for Marketo Admins
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Marketo-administratörer har vissa privilegier i Sales Insight. Läs vad de är nedan.
 
-## Konfiguration av Soap API {#soap-api-configuration}
+## Konfiguration för SOAP API {#soap-api-configuration}
 
 De här inloggningsuppgifterna används för att ansluta ditt Salesforce-konto till din Marketo-instans för att använda MSI i Salesforce.
 
@@ -39,11 +39,11 @@ Du kan välja att ta bort Rest API-autentiseringsuppgifter i SFDC och endast anv
 
 Som standard använder Marketo Sales Insight fältet Lead Score för att beräkna stjärnor och lågor. Men om du vill välja ett annat fält, så här:
 
-1. Klicka på **Sales Insight** under **Admin** i Marketo.
+1. I området **Admin** på Marketo klickar du på **Sales Insight**.
 
    ![](assets/four.png)
 
-1. Klicka på **Redigera** under Inställningar för leadpoäng.
+1. Klicka på **Redigera** under Inställningar för poängsättning av leads.
 
    ![](assets/five.png)
 
@@ -61,7 +61,7 @@ Som standard använder Marketo Sales Insight fältet Lead Score för att beräkn
 
    >[!TIP]
    >
-   >Om du inte redan har dina anpassade poängfält så här [skapar du dem](http://docs.marketo.com/x/3wMk).
+   >Om du inte redan har dina anpassade poängfält gör du så här för att [skapa dem](http://docs.marketo.com/x/3wMk).
 
    >[!NOTE]
    >
