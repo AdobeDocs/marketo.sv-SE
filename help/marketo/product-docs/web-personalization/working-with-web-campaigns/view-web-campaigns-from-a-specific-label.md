@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Visa webbkampanjer från en viss etikett {#view-web-campaigns-from-a-specific-label}
+# Visa webbkampanjer från en specifik etikett {#view-web-campaigns-from-a-specific-label}
 
 Vill du visa och filtrera kampanjer efter en viss etikett?
 
 ## Filtrera efter befintliga etiketter {#filter-by-existing-labels}
 
-1. Gå till **Webbkampanjer** **för** webben.
+1. Gå till **Webben** **Kampanjer**.
 
    ![](assets/web-campaigns-hand-4.jpg)
 
