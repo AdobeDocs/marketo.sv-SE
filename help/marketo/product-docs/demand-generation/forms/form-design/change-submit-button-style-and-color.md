@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Om du tycker att standardknappen för att skicka är trist, eller om du behöver något mer avancerat, kan du välja bland en mängd färdiga knappformat.
 
-1. Gå till **Marknadsföringsaktiviteter** och **aktiviteter**.
+1. Gå till **Marknadsföring** **Aktiviteter**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Markera formuläret och klicka på **Redigera** **formulär**.
+1. Markera formuläret och klicka på **Redigera** **Formulär**.
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
-1. Markera knappen **Skicka** och klicka på **Redigera** bredvid Knappformat.
+1. Välj knappen **Skicka** och klicka på **Redigera** bredvid Knappformat.
 
    ![](assets/image2014-9-15-16-3a54-3a56.png)
 
