@@ -20,6 +20,6 @@ Följ de här enkla stegen för att ta bort en mall.
 >Om du tar bort en mall tas även ALL-spårning och analys som är kopplade till den bort.
 
 1. Markera den mall som du vill ta bort.
-1. Klicka på listrutan i det övre högra hörnet och klicka sedan på **Ta bort**.
-1. Bekräfta genom att klicka på **Ta bort** .
+1. Klicka på listrutan högst upp till höger och klicka sedan på **Ta bort**.
+1. Bekräfta genom att klicka på **Ta bort**.
 
