@@ -19,7 +19,7 @@ Marketo-rapporter är som standard begränsade till högst 5 000 rader, men du k
 
    ![](assets/image2014-9-16-10-3a53-3a57.png)
 
-1. Välj rapporten i navigeringsträdet och klicka på fliken **Inställningar** .
+1. Välj din rapport i navigeringsträdet och klicka på fliken **Inställningar**.
 
    ![](assets/image2014-9-16-10-3a54-3a1.png)
 
@@ -35,7 +35,7 @@ Marketo-rapporter är som standard begränsade till högst 5 000 rader, men du k
    >
    >Om du ändrar gränsen ändras även rapportstorleken, inte bara den exporterade Excel-filen. Om det tar för lång tid att generera rapporten minskar du gränsen!
 
-1. Bekräfta den nya gränsen genom att klicka på **Spara** .
+1. Klicka på **Spara** för att bekräfta den nya gränsen.
 
    ![](assets/image2016-3-2-9-3a13-3a59.png)
 
@@ -48,5 +48,5 @@ Marketo-rapporter är som standard begränsade till högst 5 000 rader, men du k
    >
    >Nu kan du [exportera rapporten](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) med den nya gränsen.
 
-   Se fler sätt att konfigurera dina rapporter i djupet för [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) .
+   Se fler sätt att konfigurera dina rapporter i djupdykningen [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
 
