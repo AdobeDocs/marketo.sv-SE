@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Skapa en ny webbkampanj för dialog {#create-a-new-dialog-web-campaign}
+# Skapa en ny dialogrutewebbkampanj {#create-a-new-dialog-web-campaign}
 
-## Skapa en webbkampanj för dialog {#create-a-dialog-web-campaign}
+## Skapa en dialogrutewebbkampanj {#create-a-dialog-web-campaign}
 
 Skapa en webbkampanj för att personalisera ert webbinnehåll i realtid och leverera rätt budskap till rätt användare vid rätt tidpunkt.
 
-En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment. Reaktionen kan vara en dialogruta på webbplatsen, en [in-zon-ersättning](create-a-new-in-zone-web-campaign.md), en [widget-](create-a-new-widget-web-campaign.md)funktion eller en e-postavisering.
+En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment. Reaktionen kan vara en dialogruta på webbplatsen, en [zonersättning](create-a-new-in-zone-web-campaign.md), en [widgetfunktion](create-a-new-widget-web-campaign.md)eller en e-postavisering.
 
 1. Gå till **Webbkampanjer**.
 
@@ -27,7 +27,7 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment. 
 
    ![](assets/image2016-11-4-10-3a58-3a32.png)
 
-1. Välj webbkampanjtypen för **dialogrutan** . Designa och lägg till din kreativitet i redigeraren. Klicka på **Förhandsgranska** för att se hur webbkampanjen kommer att reagera på webbplatsen.
+1. Välj webbkampanjtypen **Dialogruta**. Designa och lägg till din kreativitet i redigeraren. Klicka på **Förhandsgranska** för att se hur webbkampanjen kommer att reagera på din webbplats.
 
    ![](assets/new-3.png)
 
@@ -115,7 +115,7 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment. 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Förhandsgranska på plats</strong></td> 
-   <td colspan="1">Förhandsgranska kampanjer innan de lanseras.<br> 
+   <td colspan="1">Förhandsgranska kampanjer innan de startas.<br> 
     <ul> 
      <li>URL - Ange en exempel-URL där kampanjen körs för att se ett förhandsgranskningsexempel på hur kampanjen skulle se ut live.</li> 
      <li>Enhet - Förhandsgranska hur kampanjen kommer att visas per enhet: Stationär dator, Mobile Portrait, Mobile Landscape, Tablet Portrait, Portrait Landscape.<br></li> 
@@ -128,21 +128,21 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment. 
 
 >[!TIP]
 >
->Snabba upp och förenkla framtagningen av kampanjer genom att använda våra [inbyggda mallar](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) eller genom att [spara er befintliga kampanj](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) som en mall för återanvändning.
+>Snabba upp och förenkla framtagningen av kampanjer genom att använda våra [inbyggda mallar](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) eller genom att [spara din befintliga kampanj](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) som en mall för återanvändning.
 
 ## Redigera en webbkampanj {#edit-a-web-campaign}
 
-1. På sidan **Webbkampanjer** **klickar du på** Redigera **i webbkampanjen** .
+1. På sidan **Webb** **Kampanjer** klickar du på **Redigera** i webbkampanjen.
 
 ![](assets/image2016-11-4-11-3a6-3a19.png)
 
 >[!NOTE]
 >
->Använd [filterfunktionen](filter-web-campaigns.md)för att göra det enklare att hitta den webbkampanj du vill ha.
+>Använd filterfunktionen [](filter-web-campaigns.md) för att göra det enklare att hitta den webbkampanj du vill ha.
 
 ## Förhandsgranska en webbkampanj {#preview-a-web-campaign}
 
-1. På sidan **Webbkampanjer** klickar du på **Förhandsgranska** i webbkampanjen som du vill visa.
+1. På sidan **Webbkampanjer** klickar du på **Förhandsgranska** på den webbkampanj du vill visa.
 
 ![](assets/image2016-11-4-11-3a8-3a58.png)
 
