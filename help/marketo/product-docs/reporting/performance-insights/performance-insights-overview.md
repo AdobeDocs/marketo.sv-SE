@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Performance Insights - översikt {#performance-insights-overview}
+# Prestandainsikter - översikt {#performance-insights-overview}
 
 Marketo Performance Insights hjälper er att optimera er kanalmix för maximal effektivitet och identifiera långsiktiga trender för att hitta enhetliga vinnande strategier.
 
@@ -29,7 +29,7 @@ Om du vill få åtkomst till Performance Insights klickar du på ikonen på star
 
 ## Bidrag {#contribution}
 
-Utvärdera Marketing:s [bidrag till](http://docs.marketo.com/x/QAvG)intäkterna som en funktion av kundvärvning, påverkan, konvertering och även installerad bastillväxt.
+Utvärdera Marketing [s bidrag till intäkterna](http://docs.marketo.com/x/QAvG)som en funktion av kundvärvning, påverkan, konvertering och till och med installerad bastillväxt.
 
 ![](assets/two.png)
 
@@ -39,13 +39,13 @@ Som standard återspeglar de data som visas prestanda efter engagemang. Du kan v
 
 ## Trend {#trend}
 
-Upptäck [långsiktiga trender](http://docs.marketo.com/x/QgvG) för att hitta enhetliga vinnande strategier.
+Ta del av [långsiktiga trender](http://docs.marketo.com/x/QgvG) för att hitta enhetliga vinnande strategier.
 
 ![](assets/4.png)
 
 ## Inställningar {#settings}
 
-Klicka på ikonen [Inställningar](http://docs.marketo.com/x/pIDS) på kontrollpanelerna Intäkter och Pipeline för att ange ytterligare parametrar.
+Klicka på ikonen [Inställningar](http://docs.marketo.com/x/pIDS) på kontrollpanelerna för intäkter och pipeline för att ange ytterligare parametrar.
 
 ![](assets/5.png)
 
