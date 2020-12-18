@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Sortera rapport efter kolumner {#sort-report-on-columns}
+# Sortera rapport i kolumner {#sort-report-on-columns}
 
 Använd kolumner för att sortera data i rapporten och göra de viktigaste siffrorna enkla att hitta.
 
-1. Gå till **Analytics** (eller **Marketing Activity**).
+1. Gå till **Analytics** (eller **Marknadsföringsaktiviteter**).
 
    ![](assets/login-marketing-activities.png)
 
-1. Välj rapporten i navigeringsträdet och klicka på fliken **Rapport** .
+1. Välj din rapport i navigeringsträdet och klicka på fliken **Rapport**.
 
    ![](assets/reports2.jpg)
 
@@ -45,5 +45,5 @@ Använd kolumner för att sortera data i rapporten och göra de viktigaste siffr
    >**Djupdykning**
    >
    >
-   >Lär dig allt du kan göra med rapporter i [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+   >Lär dig allt du kan göra med rapporter i [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
 
