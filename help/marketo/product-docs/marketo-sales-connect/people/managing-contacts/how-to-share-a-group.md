@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Det är enkelt att dela en grupp leads eller kontakter med ditt team i Sales Connect.
 
-1. Gå till fliken **Personer** .
+1. Gå till fliken **Personer**.
 
    ![](assets/one-1.png)
 
