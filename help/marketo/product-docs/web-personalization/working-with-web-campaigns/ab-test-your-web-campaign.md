@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Testning är ett bra sätt att optimera webbkampanjer för bättre engagemang. Så här kommer du igång.
 
-Om du vill A/B-testa dina personaliserade kampanjer kan du välja två eller flera kampanjer, associera dem till samma **delade testgrupp** och välja **Automatisk trimning** för att automatiskt fortsätta med den bästa kampanjen.
+Om du vill A/B-testa dina personaliserade kampanjer kan du välja två eller flera kampanjer, associera dem till samma **Dela test**-grupp och välja **Autotrimma** för att automatiskt fortsätta med den kampanj som ger bäst resultat.
 
 >[!TIP]
 >
@@ -29,25 +29,25 @@ Om du vill A/B-testa dina personaliserade kampanjer kan du välja två eller fle
 
    >[!NOTE]
    >
-   >Använd [filterfunktionen](filter-web-campaigns.md)för att göra det enklare att hitta kampanjen du vill ha.
+   >Använd filterfunktionen [](filter-web-campaigns.md) för att göra det enklare att hitta kampanjen du vill ha.
 
 1. Välj den första kampanjen som du vill göra ett A/B-test. Klicka på **Redigera**.
 
    ![](assets/image2016-11-4-13-3a46-3a37.png)
 
-1. Välj **Dela testning** på kampanjsidan och klicka på **Skapa nytt**.
+1. Välj **Dela testning** på kampanjsidan och klicka på **Skapa ny**.
 
    ![](assets/image2014-11-26-16-3a47-3a18.png)
 
-1. Ange namnet på den **delade testgruppen** och klicka på **Skapa.** Välj **Automatisk trimning.**
+1. Ange **namnet på den delade testgruppen** och klicka på **Skapa.** Välj **Automatisk trimning.**
 
    ![](assets/image2014-11-26-16-3a52-3a24.png)
 
-1. **Spara **eller** lansera **kampanjen.
+1. **Spara **eller** Starta **kampanjen.
 
    >[!TIP]
    >
-   >Om du väljer **Automatisk justering** kan webbpersonaliseringsplattformen automatiskt känna igen den bättre delade testkampanjen och fortsätta med den högsta konverteringskampanjen samtidigt som de andra pausas.
+   >Om du väljer **Autotrimma** kan webbpersonaliseringsplattformen automatiskt känna igen den bättre delade testkampanjen och fortsätter med den högsta konverteringskampanjen samtidigt som de andra pausas.
 
 1. Upprepa ovanstående process med den andra kampanjen.
 1. Välj den andra kampanjen som du vill göra A/B-test. Klicka på **Redigera**.
@@ -56,13 +56,13 @@ Om du vill A/B-testa dina personaliserade kampanjer kan du välja två eller fle
 
    **
 
-1. Välj **S****Deltest** på sidan **Ställ in kampanj** och välj **Grupp** i listrutan. Välj** Automatisk trimning**.
+1. Välj **S***plit Testing** på sidan **Ange kampanj** och välj **Grupp** i listrutan. Välj** Automatisk trimning**.
 
    ![](assets/image2014-11-26-17-3a2-3a17.png)
 
 1. **Spara **eller **Starta **kampanjen.
 1. Upprepa den här processen för en tredje eller fjärde kampanj att testa.
-1. I **Web** **Campaigns** ser du de delade testkampanjer som A/B-ikonen anger.
+1. I **Webben** **Kampanjer** kan du se de delade testkampanjer som A/B-ikonen anger.
 
    ![](assets/image2016-11-4-13-3a55-3a5.png)
 
