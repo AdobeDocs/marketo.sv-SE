@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Ändra text på Skicka-knapp för formulär {#change-form-submit-button-text}
+# Ändra Skicka-knapptext för formulär {#change-form-submit-button-text}
 
 Du kan snabbt och enkelt ändra en formulärknapp från &quot;Skicka&quot; till något annat ord. Så här gör du.
 
-1. Gå till **Marknadsföringsaktiviteter** och **aktiviteter**.
+1. Gå till **Marknadsföring** **Aktiviteter**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Markera formuläret och klicka på **Redigera** **formulär**.
+1. Markera formuläret och klicka på **Redigera** **Formulär**.
 
    ![](assets/image2014-9-15-12-3a42-3a14.png)
 
