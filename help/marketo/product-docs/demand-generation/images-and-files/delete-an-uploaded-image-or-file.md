@@ -17,15 +17,15 @@ ht-degree: 0%
 
    ![](assets/designstudio-5.png)
 
-1. Välj **Bilder** och **filer** i den vänstra menyn och klicka sedan bredvid namnet på filen som du vill ta bort.
+1. Välj **Bilder** och **Filer** i den vänstra menyn och klicka sedan på bredvid namnet på filen som du vill ta bort.
 
    ![](assets/image2014-9-16-11-3a18-3a15.png)
 
-1. Klicka på **File** **Actions** och **Delete**.
+1. Klicka på **Arkiv** **Åtgärder** och **Ta bort**.
 
    ![](assets/image2014-9-16-11-3a18-3a22.png)
 
-1. Kontrollera att du har valt rätt fil och klicka på **DELETE**.
+1. Kontrollera att du har markerat rätt fil och klicka på **DELETE**.
 
    ![](assets/image2014-9-16-11-3a18-3a30.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >Borttagna bilder och filer tas bort helt från Marketo och kan inte återställas.  De kommer inte längre att visas på landningssidor eller e-postmeddelanden där de används.
 
-1. Du kommer tillbaka till sidan **Bilder** och **filer** där du ser att filen har tagits bort.
+1. Du kommer tillbaka till sidan **Bilder** och **Filer** där du ser att filen har tagits bort.
 
    ![](assets/image2014-9-16-11-3a19-3a0.png)
 
