@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Lägga till text och token på en landningssida {#add-text-and-tokens-to-a-landing-page}
+# Lägg till text och token på en landningssida {#add-text-and-tokens-to-a-landing-page}
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >Designern för landningssidan öppnas i ett nytt fönster.
 
-1. Dra över **RTF** -elementet.
+1. Dra över **RTF-elementet**.
 
    ![](assets/image2015-5-21-12-3a28-3a49.png)
 
