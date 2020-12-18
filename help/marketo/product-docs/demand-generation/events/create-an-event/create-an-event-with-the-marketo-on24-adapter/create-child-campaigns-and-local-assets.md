@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Skapa era barnkampanjer och lokala resurser med Design Studio.
 
-## Landningssida och -formulär {#landing-page-and-form}
+## Landningssida och formulär {#landing-page-and-form}
 
 För att säkerställa att personer är korrekt registrerade med ON24 måste följande fält inkluderas i Marketo-formuläret:
 
@@ -38,7 +38,7 @@ Med rätt flödessteg i registreringskampanjen kommer personerna att flyttas til
 
 Skapa inbjudan, bekräftelse, uppföljning och tack för dina e-postmeddelanden med Marketo.
 
-## Marketo - bekräftelse av e-postadress och URL-token {#marketo-confirmation-email-and-url-token}
+## Marketo-bekräftelse - e-postadress och URL-token {#marketo-confirmation-email-and-url-token}
 
 Använd Marketo för att skicka bekräftelsemeddelandet för din händelse. När en person registrerar sig får han eller hon en unik URL som kan användas för att ange händelsen.
 
@@ -48,11 +48,11 @@ Använd Marketo för att skicka bekräftelsemeddelandet för din händelse. När
 >
 >Om du vill fylla i bekräftelsemeddelandet med den här unika URL-adressen använder du följande token i e-postmeddelandet: `{{member.webinar url}}`. När du skickar ut en bekräftelse-URL matchas denna token automatiskt mot personens unika bekräftelse-URL.
 >
->Ange typen av bekräftelsemeddelande som **Operational** för att säkerställa att alla som registrerar får sin bekräftelseinformation, även om de avbeställer prenumerationen.
+>Ange typen av bekräftelsemeddelande som **Operational** för att se till att alla som registrerar får sin bekräftelseinformation, även om de avbeställer prenumerationen.
 
 >[!TIP]
 >
->Du kan konfigurera ON24 för att skicka ut bekräftelser, påminnelser eller uppföljningsmeddelanden. Mer information finns på [ON24 Help Site](http://webcastelitehelp.on24.com) .
+>Du kan konfigurera ON24 för att skicka ut bekräftelser, påminnelser eller uppföljningsmeddelanden. Se [ON24 Help Site](http://webcastelitehelp.on24.com) för mer information.
 
 ## Krav för registrering av underordnad kampanj {#registration-child-campaign-requirements}
 
@@ -67,7 +67,7 @@ Exempel på underordnade kampanjer är en inbjudningskampanj, en registreringska
 **Registrering/bekräftelse (utlösarkampanj)**
 
 * Smart List
-* Utlösare baserad på **Fyll i formulär**. Se till att du inkluderar den landningssida som formuläret finns på med **Lägg till begränsning**, särskilt om samma formulär används på flera landningssidor.
+* Utlösare baserad på **Fyller i formulär**. Se till att du inkluderar landningssidan som formuläret är aktivt på med **Lägg till begränsning**, särskilt om samma formulär används på flera landningssidor.
 
 >[!CAUTION]
 >
@@ -75,17 +75,17 @@ Exempel på underordnade kampanjer är en inbjudningskampanj, en registreringska
 
 >[!NOTE]
 >
->Om du använder ett Marketo-formulär på en icke-Marketo-landningssida kommer utlösaren att vara **Fyller i formuläret** med formulärnamnet.
+>Om du använder ett Marketo-formulär på en icke-Marketo-startsida är utlösaren **Fyller i formulär** med formulärnamnet.
 
 ![](assets/image2015-12-22-15-3a20-3a51.png)
 
 **Flöde**
 
-* **Ändra programstatus** - Ange som webbinarium -> Registrerad.
+* **Ändra programstatus**  - Ange som webbinarium -> Registrerad.
 
 Det här flödessteget krävs som STEG FÖR FÖRSTA FLÖDE när du konfigurerar din underordnade kampanj. När en persons programstatus ändras till Registrerad skickar Marketo registreringsinformationen till ON24. Ingen annan status kommer att föra personen över.
 
-* **Skicka e-post** - bekräftelse via e-post. Ange det här e-postmeddelandet som **operativt** så att personer som har registrerat sig fortfarande får det.
+* **Skicka e-post**  - Bekräftelsemejl. Ange det här e-postmeddelandet som **Operational** så att personer som har registrerat sig fortfarande får det.
 
 Flödessteget **Skicka e-post** MÅSTE vara det andra steget. Bekräftelsemeddelandet innehåller `{{member.webinar url}}`, som fylls i med information som skickas tillbaka till Marketo från ON24.
 
@@ -93,7 +93,7 @@ Flödessteget **Skicka e-post** MÅSTE vara det andra steget. Bekräftelsemeddel
 
 >[!NOTE]
 >
->Ordningen för dessa flödessteg är viktig eftersom åtgärderna utförs i Marketo i den ordning som de utförs. I steget **Ändra programstatus** skickas personen till ON24 för att registrera och en unik URL genereras. När detta har inträffat kan du skicka ut bekräftelsemeddelandet som innehåller denna unika URL-adress med hjälp av `{{member.webinar URL}}` token.
+>Ordningen för dessa flödessteg är viktig eftersom åtgärderna utförs i Marketo i den ordning som de utförs. **Ändra programstatus**-steget skickar personen till ON24 för registrering och en unik URL genereras. När detta har inträffat kan du skicka ut bekräftelsemeddelandet som innehåller denna unika URL-adress med hjälp av `{{member.webinar URL}}`-token.
 >
 >Om personen returneras med ett registreringsfel får han/hon ingen e-postbekräftelse.
 
