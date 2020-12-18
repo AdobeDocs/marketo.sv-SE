@@ -19,7 +19,7 @@ Låt oss skapa ett grundläggande segment som riktar sig till alla webbesökare 
 
    ![](assets/image2016-8-18-15-3a37-3a32.png)
 
-1. Klicka på **Skapa nytt**.
+1. Klicka på **Skapa ny**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
@@ -43,7 +43,7 @@ Låt oss skapa ett grundläggande segment som riktar sig till alla webbesökare 
 
    ![](assets/industries-hand.jpg)
 
-1. Välj Branscher att lägga till i listrutan. Välj **Financial Services ****Industry**.
+1. Välj Branscher att lägga till i listrutan. Välj **Finansiella tjänster ****Bransch**.
 
    ![](assets/segment-industries.png)
 
