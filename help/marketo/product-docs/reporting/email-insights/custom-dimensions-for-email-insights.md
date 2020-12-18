@@ -21,7 +21,7 @@ Alla vanliga Marketo-dimensioner inkluderas, men du kan lägga till upp till 10 
 
 >[!CAUTION]
 >
->Egna dimensioner **kan INTE** tas bort eller ersättas, så välj 10 noggrant.
+>Anpassade dimensioner **KAN INTE** tas bort eller ersättas, så välj 10 noggrant.
 
 1. I E-postinsikter klickar du på kugghjulsikonen i det övre högra hörnet på sidan.
 
