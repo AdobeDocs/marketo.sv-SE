@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Berätta för marknadsföringsberättelsen med en analys av säljprojektspåverkan {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
+# Berätta för marknadsföringsberättelsen med en säljprojektsanalys {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
 
 Använd en påverkansanalys för säljprojekt för att illustrera marknadsföringens roll i viktiga möjligheter. Visa hur marknadsföringen påverkade en möjlighet, från första beröring till skapande av nya affärsmöjligheter och vinn, och mer därtill.
 
@@ -23,27 +23,27 @@ Använd en påverkansanalys för säljprojekt för att illustrera marknadsförin
 
 
 
-1. Gå till **Analytics** och välj **Opportunity Influence Analyzer**.
+1. Gå till **Analytics** och välj **Säljanalysen**.
 
    ![](assets/analytics-opportunityhand.png)
 
    Affärsmöjlighetsanalysen är en visuell representation av de interaktioner, program och händelseframgångar som är involverade i den affärsmöjligheten. Låt oss titta på diagrammet:
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png)**Orange punkter** representerar [intressanta ögonblick](https://community.marketo.com/MarketoArticle?id=kA050000000LA1oCAG) i affärsmöjligheten (öppnade e-postmeddelanden, direktreklam, nedladdningar av whitepaper-rapporter osv.). Större punkter indikerar fler interaktioner.
+   * ![—](assets/image2014-10-3-13-3a43-3a21.png)**Orange-** punkter utgör  [en intressant ](https://community.marketo.com/MarketoArticle?id=kA050000000LA1oCAG) drivkraft i affärsmöjligheten (öppnade e-postmeddelanden, direktreklam för både besök, nedladdningar av whitepaper-rapporter osv.). Större punkter indikerar fler interaktioner.
 
-   * ` ![--](assets/image2014-10-3-13-3a44-3a9.png)
+   * ` ![—](assets/image2014-10-3-13-3a44-3a9.png)
 
-      ` **Binder icons** anger att [programmet](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QO6CAM) lyckades.
+      ` **Binder-ikoner** anger [program](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QO6CAM) lyckades.
 
-   * ** ![—](assets/image2014-10-3-13-3a44-3a40.png) Kalenderikoner** anger att [händelsen](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QNwCAM) lyckades.
+   * ** ![—](assets/image2014-10-3-13-3a44-3a40.png) Kalenderikoner** indikerar [händelsen](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QNwCAM) lyckades.
 
    * **Affärsmöjlighetsperiod**. Det gröna området representerar själva affärsmöjligheten, från skapande av affärsmöjlighet till stängning av affärsmöjlighet (vunnen eller förlorad).
    * **Affärsmöjlighetens livscykel**. De grå områdena före och efter den gröna affärsmöjlighetsperioden visar de interaktioner som ledde till och följde på affärsmöjligheten.
 
-   På **inställningspanelen** visas personer från kontot:
+   På panelen **Inställningar** visas personer från kontot:
 
-   * Antalet **inom parentes** är antalet interaktioner med kontakten.
-   * ![—](assets/image2014-10-3-13-3a45-3a9.png)Den **gula stjärnan** anger den primära kontakten.
+   * **talet inom parentes** är antalet interaktioner med den kontakten.
+   * ![—](assets/image2014-10-3-13-3a45-3a9.png)Den  **gula** starten anger den primära kontakten.
 
 
 1. Håll muspekaren över ett namn för att se personens befattning och källan till deras medverkan i affärsmöjligheten.
