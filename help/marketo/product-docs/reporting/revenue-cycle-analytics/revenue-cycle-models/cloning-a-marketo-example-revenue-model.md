@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Marketo har exempel på intäktsmodellerare som kan inspirera dig. Klona modellerna och gör dem till dina egna. Så här:
 
-1. Gå till **Analytics** .
+1. Gå till området **Analytics**.
 
    ![](assets/image2015-4-27-17-3a37-3a30.png)
 
-1. Välj mappen **Revenue Cycle Modeler **och klicka på **Marketo Examples**.
+1. Välj **Intäktscykelmodelleraren **och klicka på **Marketo-exempel**.
 
    ![](assets/image2015-4-27-17-3a11-3a39.png)
 
