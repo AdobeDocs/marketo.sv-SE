@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Med händelser kan du automatisera online- och offlinehändelser! Fånga personernas status när de går igenom olika faser och få korrekta mått på avkastningen för era marknadsföringssatsningar.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/ma.png)
 
@@ -47,7 +47,7 @@ Med händelser kan du automatisera online- och offlinehändelser! Fånga persone
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 
-Ta-da! Din nya aktivitet visas nu i trädet. När evenemanget har skapats kan du skapa [landningssidor](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [formulär](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)och [e-postmeddelanden](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) för att bjuda in dina gäster! Du kommer också att vilja bekanta dig med [programschemavyn](http://docs.marketo.com/display/docs/program+schedule+view).
+Ta-da! Din nya aktivitet visas nu i trädet. När din aktivitet har skapats kan du skapa [landningssidorna](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [formulären](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md) och [e-postmeddelanden](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) och bjuda in dina gäster! Du kommer också att vilja bekanta dig med [programschemavyn](http://docs.marketo.com/display/docs/program+schedule+view).
 
 >[!MORELIKETHIS]
 >
