@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Hur spårning fungerar {#how-view-tracking-works}
+# Så här fungerar spårning {#how-view-tracking-works}
 
 Vi spårar öppnandet av e-postmeddelanden genom att placera en osynlig bild inuti de e-postmeddelanden du skickar.
 
-Om någon svarar på ditt e-postmeddelande men Sales Connect säger att det inte visades, är det troligt att mottagaren gjorde det `not enable images within their email client (i.e. click on the "click here to download images" message in the email).`
+Om någon svarar på ditt e-postmeddelande men Sales Connect säger att det inte visades, är det troligt att mottagaren gjorde `not enable images within their email client (i.e. click on the "click here to download images" message in the email).`
 
 Några tips för att få bättre spårningsstatistik i e-postmeddelanden:
 
