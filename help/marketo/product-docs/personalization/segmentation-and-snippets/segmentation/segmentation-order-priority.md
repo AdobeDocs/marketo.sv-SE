@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Prioritet för segmenteringsordning {#segmentation-order-priority}
 
-Det är viktigt att förstå hur **ordningen** prioriterar personutvärdering i en segmentering.
+Det är viktigt att förstå hur **order** prioriterar utvärdering av dina personer i en segmentering.
 
 >[!PREREQUISITES]
 >
@@ -28,7 +28,7 @@ Det är viktigt att förstå hur **ordningen** prioriterar personutvärdering i 
 
    ![](assets/image2017-3-29-8-3a9-3a33.png)
 
-1. Välj **segmentering**. I **Segmenteringsåtgärder** klickar du på **Redigera segment**.
+1. Välj din **segmentering**. I **Segmenteringsåtgärder** klickar du på **Redigera segment**.
 
    ![](assets/image2014-9-16-10-3a11-3a55.png)
 
@@ -49,5 +49,5 @@ Det är viktigt att förstå hur **ordningen** prioriterar personutvärdering i 
 
 
 
-Coola, va? Du kan använda segment för dynamiskt innehåll, [rapportering](http://docs.marketo.com/display/docs/basic+reporting) och till och med i [smarta listor](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
+Coola, va? Du kan använda segment för dynamiskt innehåll, [rapportering](http://docs.marketo.com/display/docs/basic+reporting) och även i [smarta listor](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
