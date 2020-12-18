@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Konfigurera Unsubscribe Footers in Marketo Sales Insight {#configure-unsubscribe-footers-in-marketo-sales-insight}
+# Konfigurera sidfot för avanmälan i Marketo Sales Insight {#configure-unsubscribe-footers-in-marketo-sales-insight}
 
 Säljmejl placerar automatiskt sidfoten längst ned. Du kan dock justera inställningarna efter dina behov.
 
@@ -23,9 +23,9 @@ Säljmejl placerar automatiskt sidfoten längst ned. Du kan dock justera instäl
 >
 >**Definition**
 >
->**E-postmeddelanden** skickas från Sales Insight. (Detta inkluderar inte de som skickas från Marketo Outlook-plugin.)
+>**E-** postmeddelanden skickas från Sales Insight. (Detta inkluderar inte de som skickas från Marketo Outlook-plugin.)
 
-1. Gå till området **Admin** .
+1. Gå till området **Admin**.
 
    ![](assets/one-1.png)
 
@@ -38,8 +38,8 @@ Säljmejl placerar automatiskt sidfoten längst ned. Du kan dock justera instäl
    ![](assets/three-1.png)
 
    * **Ingen mall **- Skapas manuellt av säljare.
-   * **Standard-e-post** - e-postmeddelanden baserade på en mall.
-   * **Driftsatt e-post** - E-postmeddelanden som ignorerar Avbeställ, Marknadsföring pausad och Kommunikationsbegränsningar (de skickas oavsett vad).
+   * **Standardbaserad e-post**  - E-post baserad på en mall.
+   * **E-post**  - E-postmeddelanden som ignorerar Avbeställning, Marknadsföring avbruten och Kommunikationsbegränsningar (de skickas oavsett vad).
 
    Du kan ange olika beteenden för varje typ.
 
@@ -48,7 +48,7 @@ Säljmejl placerar automatiskt sidfoten längst ned. Du kan dock justera instäl
    >**Inställningar för att avbryta prenumerationen: **leads för avbeställning får INTE e-postmeddelandet även om det publicerade e-postmeddelandet är i drift
    >
    >
-   >**Ignorera inställningar för att avbryta prenumerationen:** leads som inte längre prenumererar får e-postmeddelandet
+   >**Ignorera inställningar för att avbryta prenumerationen:** leads för att avbryta prenumerationen får e-postmeddelandet
 
    Gör önskade ändringar och klicka sedan på Spara.
 
