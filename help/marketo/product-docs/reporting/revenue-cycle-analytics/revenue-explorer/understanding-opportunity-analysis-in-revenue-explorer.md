@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Förstå säljprojektsanalys i skatteutforskaren {#understanding-opportunity-analysis-in-revenue-explorer}
+# Förstå säljprojektsanalys i intäktsutforskaren {#understanding-opportunity-analysis-in-revenue-explorer}
 
 Med säljprojektsanalys i intäktsutforskaren kan du undersöka dina möjligheter på en djupare nivå. Segmentera och dela upp data baserat på eventuella lead-/företagsattribut, t.ex. lead source, industry eller geography. Analysera skapandet av affärsmöjligheten och stäng utifrån namn, fas eller sannolikhet. Ta reda på marknadsbidragen till pipeline.
 
@@ -53,7 +53,7 @@ Här är några rapporter som du kan skapa i området för säljprojektsanalys.
 
    ![](assets/image2015-7-21-10-3a35-3a45.png)
 
-## Dimensioner och åtgärder för analys av affärsmöjligheter {#opportunity-analysis-dimensions-and-measures}
+## Dimensioner och mått för analys av affärsmöjligheter {#opportunity-analysis-dimensions-and-measures}
 
 Med säljprojektsanalys får du tillgång till alla lead-, företags- och affärsmöjlighetsrelaterade dimensioner och affärsmöjlighetsrelaterade mått. Använd de här dimensionerna för affärsmöjlighetsanalys och åtgärderna för att besvara specifika frågor i rapporten.
 
