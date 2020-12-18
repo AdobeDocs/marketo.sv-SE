@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Du kan göra vissa ändringar i listor på sidan Allt innehåll.
 
-1. På sidan **Allt innehåll** för du muspekaren över raden i titeln som du vill redigera och klickar på redigeringsikonen.
+1. På sidan **Allt innehåll** för du pekaren över raden för titeln som du vill redigera och klickar på redigeringsikonen.
 
    ![](assets/image2017-10-3-9-3a8-3a1.png)
 
