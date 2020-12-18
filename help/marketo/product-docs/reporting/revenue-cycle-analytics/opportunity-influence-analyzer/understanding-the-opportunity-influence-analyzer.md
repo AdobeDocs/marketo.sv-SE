@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Förstå analysen av affärsmöjlighet {#understanding-the-opportunity-influence-analyzer}
+# Förstå säljprojektsanalys {#understanding-the-opportunity-influence-analyzer}
 
 Varje möjlighet är en historia. Var träffade du ledaren? Vilka marknadsföringsmöjligheter påverkade dem under marknadsförings-/försäljningsprocessen?
 
