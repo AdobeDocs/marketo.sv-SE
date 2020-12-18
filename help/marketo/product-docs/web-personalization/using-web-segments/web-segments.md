@@ -19,9 +19,9 @@ ht-degree: 0%
 
 På fliken Segment visas alla anpassade definierade segment som du ställer in baserat på olika attribut.  **Ett segment är en samling besökare som uppfyller de angivna villkoren på sidan&quot;Ställ in ett segment&quot;.**  Ett segment kan vara besökare från en viss bransch, plats eller baserat på besökarens aktivitet på plats.
 
-Inom webbpersonalisering kan en besökare matcha mer än ett segment. Om det till exempel finns ett segment för besökare i USA och ett segment för finansföretag skulle en webbbesökare från Bank of America matcha **både** segmentet för besökare i USA och segmentet för finansföretag.
+Inom webbpersonalisering kan en besökare matcha mer än ett segment. Om det till exempel finns ett segment för besökare i USA och ett segment för finansföretag skulle en webbbesökare från Bank of America matcha både **segmentet för besökaren i USA och segmentet för finansföretagen.**
 
-**DIAGRAM:**  På sidan Segment visas ett stapeldiagram över de valda segmenten utifrån antalet besökare från segmentet (y-axeln) och segmentnamnet (x-axeln).
+**DIAGRAM:**  På sidan Segment visas ett stapeldiagram över de markerade segmenten utifrån antalet besökare från segmentet (y-axeln) och segmentnamnet (x-axeln).
 
 <table> 
  <thead> 
@@ -80,23 +80,23 @@ Om du vill aktivera eller inaktivera ett segment markerar du kryssrutan för det
 
 ## Skapa segment {#create-segments}
 
-Segmentet som du skapar uppfyller alla specifika villkor som du anger på sidan **Ställ in segment** . Ni kan anpassa era segment baserat på en kombination av kriterier också, och inrikta er på en viss målgrupp i kampanjen.
+Segmentet som du skapar uppfyller alla specifika villkor som du definierar på sidan **Ställ in segment**. Ni kan anpassa era segment baserat på en kombination av kriterier också, och inrikta er på en viss målgrupp i kampanjen.
 
 Skapa ett nytt segment
 
-Klicka på **Skapa ny** under diagrammet på sidan **Segment** . Följande skärm visas.
+Klicka på **Skapa ny** under diagrammet på sidan **Segment**. Följande skärm visas.
 
 ![](assets/four.png)
 
 Definiera allmänna parametrar för ditt segment:
 
-1. &#x200B;
+1. 
 
-   * **Namn:**  Ge segmentet ett namn.
+   * **Namn:**  Namnge ditt segment.
    * **Beskrivning:**  Ge en mer detaljerad förklaring av segmentvillkoren.
    * **Domäner:**  Markera den eller de domäner som du vill inkludera i segmentet.
    * **Segmentregellogik:**  Välj en AND/OR-logik för att skapa varje segmenteringsattribut
-   * **Timing:** Definiera nivån på besökarens engagemang i kampanjen
+   * **Timing:** Definiera nivån på besökarengagemanget ni vill ha i kampanjen
 
       * **Vid inträde**: Engagera från besökaren som kommer till webbplatsen
       * **Efter 1:a till 9:e klickningen**: Engagera besökaren efter ett visst antal klick på webbplatsen
@@ -109,22 +109,24 @@ Definiera allmänna parametrar för ditt segment:
 >
 >1. Använd alla filter (1, 2 och 3...)
 >1. Använd filter (1 eller 2 eller 3..)
->1. Avancerade filter (med och/eller uttryck)
->    1. &#x200B;
->
->       Med avancerade filter kan du styra segmentvillkoren. Ange filternumren avgränsade med &quot;och&quot; och &quot;eller&quot;.
->       * 1, 2 och 3
->       * 1 eller 2 eller 3
->
->       Blandning av&quot;och&quot; och&quot;eller&quot; kräver parenteser för att förtydliga logiks avsikt. t.ex. &quot;1 eller 2 och 3&quot; skall skrivas som något av följande:
->       * 1 och (2 eller 3)
->       * (1 och 2) eller 3
->
->       Kapslade parenteser accepteras för mer komplicerad logik, t.ex.
->       * (1 och 2) eller (3 och 4)
->       * 1 och (2 eller (3 och 4))
->
->       Kontrollera logiken efter infogning, borttagning eller sortering.
+>1. Avancerade filter (med och/eller uttryck) >
+   >    1. >    
+   >       
+
+      >Med avancerade filter kan du styra segmentvillkoren. Ange filternumren avgränsade med &quot;och&quot; och &quot;eller&quot;.  >
+      >        * 1, 2 och 3
+      >        * 1 eller 2 eller 3
+
+      >
+      Blandning av&quot;och&quot; och&quot;eller&quot; kräver parenteser för att förtydliga logiks avsikt. t.ex. &quot;1 eller 2 och 3&quot; skall skrivas som något av följande:  >
+      * 1 och (2 eller 3)
+      * (1 och 2) eller 3
+
+      Kapslade parenteser accepteras för mer komplicerad logik, t.ex.  >
+      * (1 och 2) eller (3 och 4)
+      * 1 och (2 eller (3 och 4))
+
+      Kontrollera logiken efter infogning, borttagning eller sortering.
 
 
 
@@ -144,28 +146,28 @@ Dra och släpp **Location **i segmentredigeraren.
 * Välj bland följande parametrar:
 
    * **Inkludera **- Välj om du vill att kampanjen ska inkludera eller exkludera en plats.
-   * **Välj land att lägga** till - I listrutan väljer du det land du vill inkludera i segmentet. Landsnamnet visas till höger. Du kan välja flera länder.
+   * **Välj land att lägga**   till - Välj det land du vill inkludera i segmentet i listrutan. Landsnamnet visas till höger. Du kan välja flera länder.
 
 När landet har lagts till kan du även ange segmentets stat, ort och postnummer.
 
-* **Välj delstat eller provins som ska läggas till** - I listrutan väljer du delstat eller kanadensisk provins som du vill inkludera. Du kan göra flera val.
-* **Postnummer** - Ange det postnummer du vill inkludera i ditt segment.
-* **Städer** - Ange den ort eller de städer som du vill inkludera. Använd ett semikolon mellan städer.
+* **Välj delstat eller provins som ska läggas till**  - I listrutan väljer du delstat eller provins i USA som du vill inkludera. Du kan göra flera val.
+* **Postnummer**  - Ange det postnummer du vill inkludera i ditt segment.
+* **Städer**  - Ange den ort eller de städer du vill inkludera. Använd ett semikolon mellan städer.
 
 >[!TIP]
 >
 >**Vilka segmentvillkor väljer jag? &quot;AND&quot; eller&quot;OR&quot;? **OR fungerar som ett extra alternativ i varje fält. Prospekt behöver bara uppfylla ett av de kriterier som valts ut i varje fält för att vara kvalificerade för segmentet. (Prospekt kan till exempel antingen komma från USA. *eller* från försvarsindustrin). AND fungerar som en extra obligatorisk parameter som måste uppfyllas för det här segmentet. (Prospekten måste till exempel vara både från USA och försvarsindustrin). Inom varje segmenteringsprofil kan varje separat fält fungera som både och, antingen&quot;AND&quot; eller&quot;OR&quot; beroende på vilket segmentvillkor som valts.
 
-**Branscher** Under avsnittet **Profilsegmentering** markerar du kryssrutan bredvid **Bransch**.
+**** BranscherMarkera kryssrutan intill  **Bransch**  under avsnittet  **Profilsegmentering**.
 
 * Välj bland följande parametrar:
 
-   * **Innehåller** - Välj om du vill att segmentet ska inkludera eller exkludera en bransch.
-   * **Välj Branscher som ska läggas till** - Välj den bransch som du vill inkludera i segmentet. Branschen visas under listrutan. Du kan välja flera branscher.
+   * **Innehåller**  - Välj om du vill att segmentet ska inkludera eller exkludera en bransch.
+   * **Välj Branscher att lägga till**  - Välj den bransch du vill inkludera i segmentet. Branschen visas under listrutan. Du kan välja flera branscher.
 
 **Organisationsgrupp**
 
-Markera kryssrutan bredvid **Organisationsgrupp under avsnittet** Profilsegmentering **.**
+Markera kryssrutan bredvid **Organisationsgrupp under** Profilsegmentering **.**
 
 * Välj bland följande alternativ i listrutan:
 
@@ -184,17 +186,17 @@ Markera kryssrutan bredvid **Organisationsgrupp under avsnittet** Profilsegmente
    * **Kommer från dessa företag (specifika namn)**
 
       * Välj företag att rikta in på i listrutan Välj företag att lägga till.
-      * Du kan ange det exakta organisationsnamn som du vill ha som mål. *Det *rekommenderas alltid att du använder namngivna kontolistor i stället för att skriva in namnen manuellt för att få bättre matchningar (se nedan).*
+      * Du kan ange det exakta organisationsnamn som du vill ha som mål. *Det är *alltid *vi rekommenderar att du använder namngivna kontolistor i stället för att skriva in namnen manuellt för att få bättre matchningar (se nedan).*
 
 **Namngiven kontolista**
 
-Välj från en lista [över](../../../product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) namngivna konton om du vill segmentera målkonton för nycklar
+Välj i en [lista över namngivna konton](../../../product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) om du vill segmentera målkonton för nycklar
 
 ![](assets/image2015-5-27-17-3a14-3a8.png)
 
 >[!NOTE]
 >
->Siffran inom hakparenteser bredvid namnet Namngiven kontolista används som indexreferens för listan för API:t [för webbpersonalisering](http://developers.marketo.com/documentation/websites/rtp-js-api/).
+>Siffran inom hakparenteser bredvid namnet Namngiven kontolista används som indexreferens för listan för Webbpersonalisering [Läs API](http://developers.marketo.com/documentation/websites/rtp-js-api/).
 
 **Exkludera ISP**
 
@@ -206,7 +208,7 @@ Utesluter Internetleverantörer (ISP) från segmentet.
 
 Webbpersonalisering integreras med er Marketo-databas så att ni kan segmentera och personalisera kampanjer utifrån kända personattribut och data.
 
-Välj Databas och välj ett persondatafält i listrutan. Välj **+** för att lägga till fält i listrutan.
+Välj Databas och välj ett persondatafält i listrutan. Välj   **+** om du vill lägga till fält från listrutan.
 
 ![](assets/seven.png)
 
@@ -218,7 +220,7 @@ Du kan lägga till eller ta bort persondatafält från Kontoinställningar > Dat
 >
 >Exempel: &quot;Jobbtitel är lika med CMO&quot; och &quot;bakgrundsmusik är mindre än eller lika med 50&quot;
 
-**Marketo Email Campaign** Segment och personalisera kampanjer genom att mejla till en besökare som klickar på ett Marketo-e-postmeddelande och anländer till webbplatsen. Segmentera efter Marketo-programnamn eller kampanjnamn och fortsätt konversationen från e-post till webben. Välj + för att lägga till fält från listrutan.
+**Marketo Email** CampaignSegmentera och personalisera kampanjer genom att mejla till en besökare som klickar på ett Marketo-e-postmeddelande och anländer till webbplatsen. Segmentera efter Marketo-programnamn eller kampanjnamn och fortsätt konversationen från e-post till webben. Välj + för att lägga till fält från listrutan.
 
 ![](assets/image2015-5-27-17-3a20-3a34.png)
 
@@ -235,7 +237,7 @@ Definiera ditt segment utifrån en potentiell kunders status: känd eller anonym
 
 ### Beteende {#behavioral}
 
-**Besök -** Definiera ditt segment utifrån besökarens beteende eller identifiering.
+**Besök -** Definiera segmentet utifrån besökarens beteende eller identifiering.
 
 * 
 
@@ -247,25 +249,25 @@ Definiera ditt segment utifrån en potentiell kunders status: känd eller anonym
       * Ange det besökarnummer du vill spåra i textrutan till höger. Det unika besökaridentifieringsnumret för webbpersonalisering visas när du klickar på en besökare (på besökarsidan) och på Ställ in kampanj på den högra panelen. Besökar-ID:t finns i avsnittet Avancerade inställningar. Besökar-ID:t finns också i URL:en (t.ex. VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
 
 
-**Sökvillkor** - Definiera ett segment enligt en potentiell kunders sökvillkor.
+**Sökvillkor**  - Definiera ett segment enligt den potentiella kundens sökvillkor.
 
 * 
 
    * Besökaren sökte efter - I listrutan väljer du de termer som du vill spåra från besökarens sökning eller lägger till egna söktermer. (Jokertecknet * behövs inte för söktermer eftersom det är inställt som standard för att innehålla fraser som innehåller söktermen).
 
-**Referenser** - Lägg till URL:er som besökaren refererades till.
+**Referenser**  - Lägg till URL:er som besökaren refererades till.
 
 * 
 
    * Välj hänvisningar att lägga till - Välj de hänvisningswebbplatser du vill spåra i listrutan eller lägg till din egen hänvisning. När du har valt detta alternativ visas hänvisningarna i rutan nedan. (Användning av * som jokertecken tillåts)
 
-**Inkludera sidor** - Spåra specifika sidor som besökts på webbplatsen.
+**Inkludera sidor**  - Spåra specifika sidor som besökts på webbplatsen.
 
 * 
 
    * URL-matchningar - Lägg till URL:en för specifika webbsidor som du vill spåra. Du kan lägga till flera URL-adresser genom att separera dem med ett semikolon. (Användning av * som jokertecken är tillåtet).
 
-**Uteslut sidor** - Uteslut specifika sidor som du inte vill matcha i segmentet. (Användning av * som jokertecken är tillåtet).
+**Uteslut sidor**  - Uteslut specifika sidor som du inte vill matcha i segmentet. (Användning av * som jokertecken är tillåtet).
 
 * 
 
@@ -284,13 +286,13 @@ Dra och släpp det mobila operativsystemet i segmentredigeraren
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
 * **Besökartyp **
-   **Mobiloperativsystem** - Välj ett eller flera mobila operativsystem i listrutan. Det valda mobiloperativsystemet visas nedan.
+   **Mobiloperativsystem**  - Välj ett eller flera mobila operativsystem i listan i listrutan. Det valda mobiloperativsystemet visas nedan.
 
    * Besökaren använder vilken mobil enhet som helst ** **
    * Besökaren använder den specifika enheten/operativsystemet
    * Besökaren använder inte någon mobil enhet
 
-* **Enhet** - I listrutan väljer du en eller flera enheter (Apple, Samsung, LG, HTC, Nexus, Blackberry osv.). De valda enheterna visas nedan.
+* **Enhet**   - I listrutan väljer du en eller flera enheter (Apple, Samsung, LG, HTC, Nexus, Blackberry osv.). De valda enheterna visas nedan.
 
 **Webbläsare**
 
@@ -303,17 +305,17 @@ Målgrupp som använder specifika webbläsartyper och/eller versioner.
 
 ### API {#api}
 
-**Datahändelser** - Segmentera besökare som utlöser specifika anpassade datahändelser
+**Datahändelser**  - Segmentera besökare som utlöser specifika anpassade datahändelser
 
 Lägg till det händelsevärde som du vill ha som mål. t.ex. från datakällor från tredje part.
 
 **API för användarkontext**
 
-Anrop till API för webbanpassning [innehåller mer information.](http://developers.marketo.com/documentation/websites/rtp-user-context-api/)
+Anrop till API för webbanpassning [läs mer om det här.](http://developers.marketo.com/documentation/websites/rtp-user-context-api/)
 
 >[!TIP]
 >
->**Använda jokertecken - **När du vill inkludera ett sökord eller en URL som innehåller något i det, dvs. &quot; [google.com](http://google.com)&quot; eller &quot;söktermsprodukt&quot;, kallar vi det här ett jokertecken och det ska läggas in med en asterisk - den här lilla killen* - i varje ände. Så allt som kommer från [google.com](http://google.com) ska anges som * [google.com](http://google.com)*
+>**Använda jokertecken - **När du vill inkludera ett sökord eller en URL som innehåller något i det, dvs. &quot;[google.com](http://google.com)&quot; eller &quot;söktermsprodukt&quot;, kallar vi det här ett jokertecken och det ska läggas in med en asterisk - den här lilla killen* - i varje ände. Allt som kommer från [google.com](http://google.com) ska därför infogas som * [google.com](http://google.com)*
 
 ## Redigera segment {#edit-segments}
 
@@ -323,7 +325,7 @@ Du kan redigera ett segment som har skapats.
 
    ![](assets/image2014-11-12-11-3a38-3a22.png)
 
-1. I **segmenttabellen** klickar du på redigeringsikonen ( ![](assets/segment-edit.png)) för det segment som du vill redigera. Sidan **Ställ in segment** öppnas med det valda segmentet.
+1. I tabellen **Segment** klickar du på redigeringsikonen ( ![](assets/segment-edit.png)) för det segment som du vill redigera. Sidan **Ange segment** öppnas med det valda segmentet.
 1. Gör de ändringar du vill i segmentet.
 1. Klicka på **Spara**.
 
@@ -332,7 +334,7 @@ Du kan redigera ett segment som har skapats.
 Du kan ta bort segment som du har skapat.
 
 1. Markera ett segment på sidan **Segment** ovan.
-1. Klicka på borttagningsikonen ( ![](assets/segment-delete.png) ) för segmentet** **du vill ta bort.
+1. Klicka på borttagningsikonen ( ![](assets/segment-delete.png)) för segmentet** **du vill ta bort.
 1. Ett bekräftelsemeddelande visas som bekräftar att du håller på att ta bort **segmentet**.
 
 >[!NOTE]
