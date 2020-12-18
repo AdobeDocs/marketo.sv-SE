@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Konfigurera leveranskanalen {#setting-up-your-delivery-channel}
+# Konfigurera din leveranskanal {#setting-up-your-delivery-channel}
 
 När du börjar använda Marketo Sales Connect måste du konfigurera en SMTP-server för att kunna skicka ut e-postmeddelanden.
 
@@ -23,7 +23,7 @@ Du kan välja att skicka e-post med en anpassad SMTP-server, en Team SMTP-server
 
 ## Anpassad SMTP {#custom-smtp}
 
-1. Logga in på [webbprogrammet](http://toutapp.com/login), klicka på kugghjulsikonen uppe till höger och välj **Inställningar**.
+1. Logga in på [webbprogrammet](http://toutapp.com/login), klicka på kugghjulsikonen överst till höger och välj **Inställningar**.
 
    ![](assets/one.png)
 
@@ -35,7 +35,7 @@ Du kan välja att skicka e-post med en anpassad SMTP-server, en Team SMTP-server
 
    ![](assets/three.png)
 
-1. Ange dina autentiseringsuppgifter för SMTP-servern och klicka på **Anslut**.
+1. Ange autentiseringsuppgifterna för SMTP-servern och klicka på **Anslut**.
 
    ![](assets/four.png)
 
@@ -65,21 +65,21 @@ Du kan välja att skicka e-post med en anpassad SMTP-server, en Team SMTP-server
 
    **Se en video**`<iframe width="630" height="470" src="//play.vidyard.com/YWKSgZvBEjUU8FrXZ5hdYR.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
-## Team SMTP-server {#team-smtp-server}
+## Team SMTP Server {#team-smtp-server}
 
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
 
-1. Logga in på [webbprogrammet](http://toutapp.com/login), klicka på kugghjulsikonen uppe till höger och välj **Inställningar**.
+1. Logga in på [webbprogrammet](http://toutapp.com/login), klicka på kugghjulsikonen överst till höger och välj **Inställningar**.
 
    ![](assets/nine.png)
 
-1. Klicka på **Team SMTP Server** under Administratörsinställningar.
+1. Under Administratörsinställningar klickar du på **Team SMTP Server**.
 
    ![](assets/ten.png)
 
-1. Ange dina autentiseringsuppgifter för SMTP-servern och klicka på **Anslut**.
+1. Ange autentiseringsuppgifterna för SMTP-servern och klicka på **Anslut**.
 
    ![](assets/eleven.png)
 
@@ -91,7 +91,7 @@ Du kan välja att skicka e-post med en anpassad SMTP-server, en Team SMTP-server
 
 ## Gmail {#gmail}
 
-1. Logga in på [webbprogrammet](http://toutapp.com/login), klicka på kugghjulsikonen uppe till höger och välj **Inställningar**.
+1. Logga in på [webbprogrammet](http://toutapp.com/login), klicka på kugghjulsikonen överst till höger och välj **Inställningar**.
 
    ![](assets/twelve.png)
 
