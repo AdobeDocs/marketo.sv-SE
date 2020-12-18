@@ -25,5 +25,5 @@ ht-degree: 0%
 >
 >**Djupdykning**
 >
->Läs mer om hur du [konfigurerar push-meddelanden](configure-mobile-push-notification.md) här.
+>Läs mer om [konfiguration av push-meddelanden](configure-mobile-push-notification.md) här.
 
