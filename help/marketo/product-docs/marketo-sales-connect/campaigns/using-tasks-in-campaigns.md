@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Använda uppgifter i kampanjer {#using-tasks-in-campaigns}
+# Använda aktiviteter i kampanjer {#using-tasks-in-campaigns}
 
 Aktiviteter är ett kraftfullt verktyg när du skickar en kampanj till en kontakt, särskilt om din försäljningsprocess är flerkanals/pekfunktion.
 
