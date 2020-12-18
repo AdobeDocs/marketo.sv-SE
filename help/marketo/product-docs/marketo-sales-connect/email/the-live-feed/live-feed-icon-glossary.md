@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Livefelikon - ordlista {#live-feed-icon-glossary}
+# Ikonordlista för Live-feed {#live-feed-icon-glossary}
 
-| ![--](assets/1.png) | Någon visade ditt e-postmeddelande. |
+| ![—](assets/1.png) | Någon visade ditt e-postmeddelande. |
 |---|---|
-| ![--](assets/2.png) | Någon klickade på en länk i ditt e-postmeddelande. |
-| ![--](assets/3.png) | Någon visade en bifogad fil som du kan spåra eller besökte din webbplats. |
+| ![—](assets/2.png) | Någon klickade på en länk i ditt e-postmeddelande. |
+| ![—](assets/3.png) | Någon visade en bifogad fil som du kan spåra eller besökte din webbplats. |
 
 Om du ser någon visa ditt e-postmeddelande om och om igen i din livefeed, kan de ha vidarebefordrat e-postmeddelandet till ytterligare mottagare. Detta är troligtvis fallet om du märker att platsen börjar ändras för dessa vyer.
