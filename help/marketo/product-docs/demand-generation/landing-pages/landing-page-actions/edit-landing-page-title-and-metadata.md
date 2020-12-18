@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Redigera landningssidrubrik och metadata {#edit-landing-page-title-and-metadata}
 
-Med Marketo kan du redigera [metataggar för landningssidan för SEO-syften](http://www.w3schools.com/tags/tag_meta.asp) samt anpassa `<head>` delen av HTML.
+Med Marketo kan du redigera din landningssida [metataggar för SEO-syften](http://www.w3schools.com/tags/tag_meta.asp) samt anpassa `<head>`-delen av HTML.
 
-1. Välj en landningssida och klicka på **Redigera** **utkast**.
+1. Välj en landningssida och klicka på **Redigera** **Utkast**.
 
    ![](assets/image2014-9-17-11-3a39-3a21.png)
 
@@ -23,20 +23,20 @@ Med Marketo kan du redigera [metataggar för landningssidan för SEO-syften](htt
    >
    >Designern för landningssidan öppnas i ett nytt fönster.
 
-1. Klicka på **Redigera sidmetataggar under Åtgärder för** landningssida ****.
+1. Under **Åtgärder för landningssida** klickar du på **Redigera sidmeta-taggar**.
 
    ![](assets/image2014-9-17-11-3a39-3a32.png)
 
-1. Ange sidans **titel,** **nyckelord** och **beskrivning** . Välj önskat **rotalternativ** och ange önskat eget innehåll för HTML- `<head>` avsnittet. Klicka på **Spara.**
+1. Ange **titel,** **Nyckelord** och **Beskrivning** för sidan. Välj det önskade alternativet **Robots** och ange valfritt anpassat innehåll för HTML `<head>`-avsnittet. Klicka på **Spara.**
 
    ![](assets/image2014-9-17-11-3a39-3a50.png)
 
    >[!TIP]
    >
-   >**Vad betyder [robotar](http://www.robotstxt.org/meta.html) ?**
+   >**Vad betyder  [](http://www.robotstxt.org/meta.html) robotar?**
    >
    >
-   >**index:** sidan är sökbar på webben. **följer:** sökmotorer kan följa länkar på indexerade sidor.
+   >**index:** sidan kan sökas igenom på webben. **följa:** sökmotorer kan följa länkar på indexerade sidor.
 
 1. Redigera taggarna när som helst och godkänn landningssidan.
 
