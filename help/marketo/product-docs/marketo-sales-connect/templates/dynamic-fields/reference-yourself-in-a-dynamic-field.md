@@ -15,6 +15,6 @@ ht-degree: 0%
 
 Dynamiska fält är vår form av dokumentkoppling.
 
-Vi låter dig anpassa dina e-postmallar med fördefinierade attribut som `{{my_name}}` eller `{{my_title}}`. Med dessa fält kan du snabbt referera till dig själv i e-postmallar.
+Du kan anpassa dina e-postmallar med fördefinierade attribut som `{{my_name}}` eller `{{my_title}}`. Med dessa fält kan du snabbt referera till dig själv i e-postmallar.
 
 Om du vill lägga till ett självrefererande dynamiskt fält i en mall väljer du bara det som du vill använda från knappen **MSE Dynamic Fields** i mallredigeraren.
