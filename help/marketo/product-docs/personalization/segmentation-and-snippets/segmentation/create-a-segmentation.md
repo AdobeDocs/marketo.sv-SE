@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Skapa en segmentering {#create-a-segmentation}
+# Skapa ett segment {#create-a-segmentation}
 
 Med segmentering kan ni gruppera människor i olika profiler för rapportering och dynamiskt innehåll. Så här skapar du dem.
 
-1. Gå till **databas**.
+1. Gå till **Database**.
 
    ![](assets/image2017-3-28-13-3a44-3a54.png)
 
@@ -52,7 +52,7 @@ Med segmentering kan ni gruppera människor i olika profiler för rapportering o
 
    >[!NOTE]
    >
-   >En person kvalificerar sig för det första matchande segmentet i den [definierade ordningen](segmentation-order-priority.md) .
+   >En person kvalificerar sig för det första matchande segmentet i [ordningen](segmentation-order-priority.md) som definierats.
 
    >[!NOTE]
    >
