@@ -17,7 +17,7 @@ Utforska aggregerade data i Analytics för e-postleverans och engagemang. Använ
 
 ![](assets/emailanalytics-1.jpg)
 
-[Du kan filtrera](filtering-in-email-insights.md) för att få mer information om specifika mätvärden.
+[Det finns ](filtering-in-email-insights.md) filterfunktioner som hjälper dig att hitta specifika mätvärden.
 
 ![](assets/filter-field.png)
 
@@ -50,7 +50,7 @@ I diagrammet visas de filtrerade villkoren. Om du vill dölja ett av filtren kli
 ` ![](assets/chart2.png)  
 `
 
-Om du skapar ett diagram som du vill använda igen gör du det till ett [snabbdiagram](email-insights-quick-charts.md).
+Om du skapar ett diagram som du vill använda igen kan du göra det till ett [snabbdiagram](email-insights-quick-charts.md).
 
 ` ![](assets/quick-chart.png)  
 `
