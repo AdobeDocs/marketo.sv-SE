@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Inloggning och användarhantering {#login-and-user-management}
 
-## Skapa en användarroll för webbpersonalisering {#create-a-web-personalization-user-role}
+## Skapa en användarroll för webbanpassning {#create-a-web-personalization-user-role}
 
 1. Gå till avsnittet **Admin** och klicka sedan på **Användare och roller**.
 
@@ -37,9 +37,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Markera *alla kryssrutor om du vill ge användarna behörighet att komma åt allt i Riktning och Personalisering* .
+   >Om du vill ge användarna behörighet att komma åt allt i Mål och personalisering måste du markera *alla* kryssrutorna.
 
-## Behörigheter för webbpersonalisering och prediktivt innehåll {#web-personalization-and-predictive-content-user-permissions}
+## Webbpersonalisering och användarbehörigheter för prediktivt innehåll {#web-personalization-and-predictive-content-user-permissions}
 
 **Målinriktning och personalisering**: Användaren har endast behörighet att visa om den här behörigheten bara är markerad.
 
@@ -67,6 +67,6 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. Nyligen aktiverade användare kommer att se panelen **Webbanpassning** på Min marknad till nästa gång de loggar in.
+1. Nyligen aktiverade användare ser **Webbanpassning**-panelen på Min marknad nästa gång de loggar in.
 
    ![](assets/eight.png)
