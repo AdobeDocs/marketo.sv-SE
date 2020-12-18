@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Förstå sändningsalternativ {#understanding-send-options}
+# Om sändningsalternativ {#understanding-send-options}
 
 När du skapar en kampanj har du flera alternativ för hur e-poststegen skapas i Sales Connect. Och beroende på var e-postmeddelandet hamnar i din kampanj skiljer sig även alternativen åt.
 
