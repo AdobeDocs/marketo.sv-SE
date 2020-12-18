@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# Använda indatamaskering på ett fält i ett formulär {#apply-input-masking-to-a-field-in-a-form}
+# Använd indatamaskering på ett fält i ett formulär {#apply-input-masking-to-a-field-in-a-form}
 
 Du kan begränsa indata från besökaren med hjälp av en indatamask. Du kanske till exempel vill att besökarna bara ska ange telefonnummer i ett visst format.
 
-1. Gå till **Marknadsföringsaktiviteter** och **aktiviteter**.
+1. Gå till **Marknadsföring** **Aktiviteter**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Markera formuläret och klicka på **Redigera** **formulär**.
+1. Markera formuläret och klicka på **Redigera** **Formulär**.
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. Markera fältet och se till att **Fälttyp** **är inställt på** Text ****.
+1. Markera fältet och kontrollera att **fältet** **Typ** är inställt på **Text**.
 
    >[!NOTE]
    >
-   >Indatamaskering fungerar bara med **textfälttyper**.
+   >Indatamaskering fungerar bara med **textfältstyper**.
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. Klicka på länken **Maskera** **indata** .
+1. Klicka på länken **Mask** **Indata**.
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 
