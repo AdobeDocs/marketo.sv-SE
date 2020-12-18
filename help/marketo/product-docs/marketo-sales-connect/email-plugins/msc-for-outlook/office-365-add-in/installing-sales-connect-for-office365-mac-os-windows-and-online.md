@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Installera Sales Connect för Office 365 Mac OS, Windows och Online {#installing-sales-connect-for-office-mac-os-windows-and-online}
+# Installerar Sales Connect för Office 365 Mac OS, Windows och Online {#installing-sales-connect-for-office-mac-os-windows-and-online}
 
 Vi har skapat en integrering med Outlook Web Apps. Outlook Web Apps är en version av Outlook som ingår i Office 365-prenumerationen. Eftersom det är webbläsarbaserat fungerar integreringen både på Mac och Windows. [Klicka här om du vill se den fullständiga installationsguiden](http://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
 
-Som administratör kan du [installera det här för hela teamet](http://docs.microsoft.com/en-us/office365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide).
+Som administratör kan du [installera det här å hela teamets vägnar](http://docs.microsoft.com/en-us/office365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide).
 
 >[!NOTE]
 >
