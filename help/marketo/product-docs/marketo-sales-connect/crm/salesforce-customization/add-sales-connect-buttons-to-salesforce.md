@@ -15,25 +15,25 @@ ht-degree: 0%
 
 ## Push to Marketo Sales Connect {#push-to-marketo-sales-connect}
 
-1. Gå till **Inställningar** och **Anpassa**.
-1. Öppna **söklayouter** under Kontakter/Leads/Konton.
+1. Gå till **Inställningar** och sedan **Anpassa**.
+1. Öppna **Sök efter layouter** under Kontakter/Leads/Konton.
 1. Redigera listvyn Leads och dra **Push to MSC **into the Selected Buttons.
 
 ## Send Marketo Sales Email {#send-marketo-sales-email}
 
 1. Redigera sidlayouten för Lead/Kontakt/Konto.
 1. Markera avsnittet för knappar.
-1. Ta tag i knappen **Skicka MSC-e-post** och dra den till delen **Anpassade knappar** i Information.
+1. Ta tag i knappen **Skicka MSC-e-post** och dra den till avsnittet **Anpassade knappar** i Information.
 
-## Ring med Marketo Sales Connect {#call-with-marketo-sales-connect}
+## Samtal med Marketo Sales Connect {#call-with-marketo-sales-connect}
 
 1. Redigera sidlayouten för Lead/Kontakt/Konto.
 1. Markera avsnittet för knappar.
-1. Ta ett **Call med MSC **och dra det till delen **Anpassade knappar** i Information.
+1. Ta ett **Call med MSC **button och dra det till avsnittet **Egna knappar** i Information.
 
 ## Lägg till i kampanj {#add-to-campaign}
 
 1. Redigera sidlayouten för Lead/Kontakt/Konto.
 1. Markera avsnittet för knappar.
-1. Ta knappen **Lägg till i MSC Campaign** och dra den till delen **Anpassade knappar** i Information.
+1. Ta tag i knappen **Lägg till i MSC-kampanj** och dra den till avsnittet **Anpassade knappar** i Information.
 
