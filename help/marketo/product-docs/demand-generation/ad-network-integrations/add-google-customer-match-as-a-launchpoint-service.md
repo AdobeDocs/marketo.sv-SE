@@ -31,7 +31,7 @@ Med den här integreringen kan ni skicka en Marketo-målgrupp till Google för m
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Ange ett **Visningsnamn **och välj** Google Customer Match **i listrutan **Service** . Klicka på **Skapa**.
+1. Ange ett **Visningsnamn **och välj** Google Customer Match **i listrutan **Service**. Klicka på **Skapa**.
 
    ![](assets/chooseservice.png)
 
@@ -43,7 +43,7 @@ Med den här integreringen kan ni skicka en Marketo-målgrupp till Google för m
 
    >[!CAUTION]
    >
-   >För att Marketto ska kunna skicka målgrupper över flera AdWords-konton måste den Google-användare som du auktoriserar i följande steg ha tillgång till *alla* dessa konton.
+   >För att Marketto ska kunna skicka målgrupper över flera AdWords-konton måste den Google-användare som du auktoriserar i följande steg ha tillgång till *alla* av dessa konton.
 
    ![](assets/chooseaccount.png)
 
