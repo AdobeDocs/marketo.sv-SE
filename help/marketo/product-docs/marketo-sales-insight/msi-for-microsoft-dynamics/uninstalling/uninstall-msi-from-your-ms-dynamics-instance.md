@@ -38,7 +38,7 @@ Om du vill avinstallera MSI från MS Dynamics-instansen måste du utföra steg i
    >**Påminnelse**
    >
    >
-   >Kontrollera att du [inaktiverar Global MS Dynamics Sync](http://docs.marketo.com/x/TAA6Ag) innan du inaktiverar fältsynkroniseringen.
+   >Se till att du [inaktiverar Global MS Dynamics Sync](http://docs.marketo.com/x/TAA6Ag) innan du inaktiverar fältsynkroniseringen.
 
    ![](assets/eight.png)
 
@@ -46,7 +46,7 @@ Om du vill avinstallera MSI från MS Dynamics-instansen måste du utföra steg i
 
 1. Klicka på **Avancerade inställningar**.
 1. Klicka på **Lösningar**.
-1. Välj **Marketo Sales Insight** och klicka på ikonen delete.
+1. Välj **Marketo Sales Insight** och klicka på borttagningsikonen.
 1. När modala avinstallationslösningar visas klickar du på **OK**.
 
    Det tar vanligtvis cirka 20 minuter för MS Dynamics-lösningen att avinstallera helt. Men om du har en stor MS Dynamics-instans kan det ta lite längre tid.
