@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Mallar för landningssidor som skapades före [januari 2015](../../../../release-notes/2015/release-notes-january-2015.md)måste uppgraderas för att vara mobilkompatibla.
+>Mallar för landningssidor som skapades före [januariversionen 2015](../../../../release-notes/2015/release-notes-january-2015.md)måste uppgraderas för att vara mobilkompatibla.
 
 Det kan du göra på två ställen: mallredigeraren och redigeraren för landningssidor.
 
@@ -29,7 +29,7 @@ Det kan du göra på två ställen: mallredigeraren och redigeraren för landnin
 
    ![](assets/image2015-1-22-20-3a20-3a2.png)
 
-1. Välj en mall där **Mobile Compatible** är **No**.
+1. Välj en mall där **Mobile Compatible** är **Nej**.
 
    ![](assets/image2015-1-22-20-3a22-3a24.png)
 
@@ -67,11 +67,11 @@ Om något är fel visas ett felmeddelande. Klicka på Reparera för att åtgärd
 
 Om du gör några ändringar i mallen klickar du på Mallåtgärder och väljer Validera mobilkompatibilitet.
 
-## Uppgradera en mall från sidredigeraren för kostnadsfri landning {#upgrading-a-template-from-the-free-form-landing-page-editor}
+## Uppgradera en mall från redigeraren för startsida i fritt format {#upgrading-a-template-from-the-free-form-landing-page-editor}
 
 När du redigerar en landningssida och klickar på mobilfliken, kommer du ibland att märka att mallen inte har uppgraderats. Rädsla inte! Där kan du uppgradera den.
 
-1. Klicka på fliken **Mobil** .
+1. Klicka på fliken **Mobil**.
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 
@@ -83,7 +83,7 @@ När du redigerar en landningssida och klickar på mobilfliken, kommer du ibland
    >
    >När du aktiverar mobilversionen av en mall skapas utkast för alla landningssidor som använder den.
 
-Häftig! Nu kan du [anpassa mobilvyn](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) för alla dina landningssidor som använder den här mallen.
+Häftig! Du kan nu [anpassa mobilvyn](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) för alla dina landningssidor som använder den här mallen.
 
 >[!MORELIKETHIS]
 >
