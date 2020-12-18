@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Filtrera resurser i en e-postrapport för kampanj {#filter-assets-in-a-campaign-email-reports}
 
-Fokusera på rapporten om [kampanjens e-postprestanda](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) för specifika [smarta kampanjer](http://docs.marketo.com/display/docs/smart+campaigns) i era program (lokala resurser) eller på de som har arkiverats.
+Fokusera din [rapport om e-postprestanda för kampanj](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) på specifika [smarta kampanjer](http://docs.marketo.com/display/docs/smart+campaigns) i dina program (lokala resurser) eller på de som har arkiverats.
 
-1. Gå till **Analytics **(eller **Marketing Activity**).
+1. Gå till **Analytics **(eller **Marknadsföringsaktiviteter**).
 
    ![](assets/image2014-9-16-15-3a57-3a27.png)
 
