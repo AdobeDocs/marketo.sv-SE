@@ -15,7 +15,7 @@ ht-degree: 0%
 
 1. Gå till gruppen som du vill ta bort och klicka på **Åtgärder**.
 1. Välj **Ta bort grupp** i listrutan.
-1. Klicka på den gula **Ta bort** -knappen i popup-fönstret.
+1. Klicka på den gula **Ta bort**-knappen i popup-fönstret.
 
    Oro för att ta bort en grupp av misstag? Det är okej, vi ska dubbelkolla om du tänker göra det här!
 
