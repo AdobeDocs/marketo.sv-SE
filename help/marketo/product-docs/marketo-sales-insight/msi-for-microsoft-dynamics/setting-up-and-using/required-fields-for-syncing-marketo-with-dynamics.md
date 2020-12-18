@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Obligatoriska fält för synkronisering av Marketo med Dynamics {#required-fields-for-syncing-marketo-with-dynamics}
 
-Dessa fält *måste* synkroniseras med Marketo för både lead och för att Kontakt för Sales Insight ska fungera:
+Dessa fält *måste* synkroniseras med Marketo så att både lead och kontakt för Sales Insight fungerar:
 
 * Prioritet
 * Akut
 * Relativa poäng
 
-Om något av dessa fält saknas visas ett felmeddelande i Marketo med namnet på de fält som saknas. Kontrollera i instansen att fälten är synkroniserade för både **lead** och **kontakt** för att åtgärda detta. Om inte, lägg till dem.
+Om något av dessa fält saknas visas ett felmeddelande i Marketo med namnet på de fält som saknas. Kontrollera i instansen att fälten är synkroniserade för både **Lead** och **Kontakt** för att åtgärda detta. Om inte, lägg till dem.
 
 Så här verifierar och lägger du till synkroniseringsfält.
 
