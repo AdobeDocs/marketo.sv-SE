@@ -24,11 +24,11 @@ Använd Program Analyzer för att jämföra kanalkostnader, medlemsförvärv, pi
 
    ![](assets/image2014-9-17-18-3a36-3a13.png)
 
-1. Välj **programanalys.**
+1. Välj din **programanalys.**
 
    ![](assets/image2014-9-17-18-3a36-3a40.png)
 
-1. Ändra vyn till **Efter** **kanal**.
+1. Ändra vyn till **By** **Kanal**.
 
    ![](assets/image2014-9-17-18-3a36-3a59.png)
 
@@ -36,13 +36,13 @@ Använd Program Analyzer för att jämföra kanalkostnader, medlemsförvärv, pi
 
    ![](assets/image2014-9-17-18-3a37-3a7.png)
 
-1. Använd listrutan Y-axel för att välja ett mått för den lodräta axeln. Här kommer vi med **(FT) Pipeline skapad**.
+1. Använd listrutan Y-axel för att välja ett mått för den lodräta axeln. Här följer en **(FT)-pipeline skapad**.
 
    ![](assets/image2014-9-17-18-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >Många av de mätvärden du kan välja i programanalysen är tillgängliga med beräkningar med första beröringen (FT) och multitouch (MT). Det är viktigt att förstå [skillnaden mellan FT- och MT-attribuering](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >Många av de mätvärden du kan välja i programanalysen är tillgängliga med beräkningar med första beröringen (FT) och multitouch (MT). Det är viktigt att förstå skillnaden [mellan FT- och MT-attribuering](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Använd listrutan **Y-axel** för att välja **(MT) Pipeline skapad**.
 
@@ -52,7 +52,7 @@ Använd Program Analyzer för att jämföra kanalkostnader, medlemsförvärv, pi
 
    Nu ska vi lägga till ytterligare två dimensioner!
 
-1. Använd listrutan **Bubbelstorlek** för att välja ytterligare ett mått, till exempel **Nya namn**.
+1. Använd listrutan **Bubbelstorlek** för att välja ytterligare ett mått, som **Nya namn**.
 
    ![](assets/image2014-9-17-18-3a39-3a36.png)
 
@@ -60,7 +60,7 @@ Använd Program Analyzer för att jämföra kanalkostnader, medlemsförvärv, pi
 
    ![](assets/image2014-9-17-18-3a39-3a55.png)
 
-   Vi ser att webbseminariekanalen krymper, enligt **New Names**. Vi kan dra slutsatsen att även om den har många medlemmar är det mindre effektivt att generera nya leads än Tradeshow-kanalen.
+   Vi ser att webbseminariekanalen krymper, enligt **Nya namn**. Vi kan dra slutsatsen att även om den har många medlemmar är det mindre effektivt att generera nya leads än Tradeshow-kanalen.
 
 1. Använd slutligen listrutan Färg för att lägga till den fjärde dimensionen. Vi väljer **(FT) Revenue** **Won**.
 
@@ -72,7 +72,7 @@ Använd Program Analyzer för att jämföra kanalkostnader, medlemsförvärv, pi
 
    Av färgerna har vi fått veta att Tradeshow-kanalen, den grönaste bubblan, har påverkat de största intäkterna, som mäts med första-beröringsattribuering.
 
-1. Om vi nu ändrar Color-måttet till **(MT) Revenue Won**(MT) ser vi att onlinereklam, nu den grönaste, påverkade mer intäkter - över tid_ än webbinariet och Tradeshow-kanalerna.
+1. Om vi nu ändrar Color-måttet till **(MT) Revenue Won** ser vi att Online Advertising Channel, nu den grönaste, påverkade mer intäkter -over time_ än webbseminariet och Tradeshow-kanalerna.
 
    ![](assets/image2014-9-17-18-3a41-3a40.png)
 
@@ -95,4 +95,4 @@ I vårt exempel ser vi att Tradeshow-kanalen både är den mest dyra (längst ti
 
 >[!NOTE]
 >
->Läs mer om avancerad analys i [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>Läs mer om avancerad analys i [Inkomstcykelutforskaren](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
