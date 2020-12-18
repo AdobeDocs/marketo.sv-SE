@@ -19,7 +19,7 @@ Om marknadsföringsteamet har gjort mallar tillgängliga för dig, så här kan 
 
    ![](assets/image2014-9-23-17-3a8-3a33.png)
 
-1. Markera den mall du vill använda, förhandsgranska den och klicka på **OK**.
+1. Markera önskad mall, förhandsgranska den och klicka på **OK**.
 
    ![](assets/image2014-9-23-17-3a8-3a45.png)
 
