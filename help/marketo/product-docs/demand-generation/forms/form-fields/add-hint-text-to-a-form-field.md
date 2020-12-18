@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Lägga till tipstext i ett formulärfält {#add-hint-text-to-a-form-field}
+# Lägg till tipstext i ett formulärfält {#add-hint-text-to-a-form-field}
 
 Tips och [instruktioner](add-tooltip-instructions-to-a-form-field.md) hjälper användarna att fylla i formulär. Så här lägger du till ett tips.
 
@@ -19,19 +19,19 @@ Tips och [instruktioner](add-tooltip-instructions-to-a-form-field.md) hjälper a
 >
 >**Definition**
 >
->Formulärtips **är** text i fältet som försvinner när besökaren börjar skriva i fältet.
+>Formuläret **Tips** är text i fältet som försvinner när besökaren börjar skriva i fältet.
 >
->Formulärinstruktioner **är** små verktygstips som visas när besökaren hovrar över fältet.
+>Formuläret **Instruktioner** är små verktygstips som visas när besökaren hovrar över fältet.
 
-1. Gå till **Marknadsföringsaktiviteter** och **aktiviteter**.
+1. Gå till **Marknadsföring** **Aktiviteter**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Markera formuläret och klicka på **Redigera** **formulär**.
+1. Markera formuläret och klicka på **Redigera** **Formulär**.
 
    ![](assets/image2014-9-15-13-3a54-3a6.png)
 
-1. Markera fältet och ange **tipsen** för **text**.
+1. Markera fältet och ange **tips** **Text**.
 
    ![](assets/image2014-9-15-13-3a53-3a58.png)
 
@@ -48,11 +48,11 @@ Tips och [instruktioner](add-tooltip-instructions-to-a-form-field.md) hjälper a
    >**Påminnelse**
    >
    >
-   >Glöm inte att [godkänna landningssidans utkast](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som har skapats av formulärändringarna.
+   >Glöm inte att [godkänna landningssidans utkast](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som skapats av formulärändringarna.
 
    ![](assets/image2014-9-15-13-3a53-3a23.png)
 
-Kolla in den! Låt oss lägga till några [instruktioner](add-tooltip-instructions-to-a-form-field.md) nu.
+Kolla in den! Låt oss nu lägga till [instruktioner](add-tooltip-instructions-to-a-form-field.md).
 
 >[!MORELIKETHIS]
 >
