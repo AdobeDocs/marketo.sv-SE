@@ -17,5 +17,5 @@ ht-degree: 0%
 1. Ange mottagarens e-postadress.
 1. Ange ämnet för e-postmeddelandet.
 1. Välj en e-postmall eller skriv ett nytt meddelande.
-1. När e-postmeddelandet är klart att skickas klickar du på knappen **Skicka och anslut** . Klicka på den knappen i stället för på den vanliga skicka-knappen `will ensure your email is sent with tracking applied`. Sales Connect spårar när ditt e-postmeddelande öppnas och när någon klickar på någon länk.
+1. När e-postmeddelandet är klart att skickas klickar du på knappen **Skicka och ansluta**. Klicka på den knappen i stället för på den normala skicka-knappen `will ensure your email is sent with tracking applied`. Sales Connect spårar när ditt e-postmeddelande öppnas och när någon klickar på någon länk.
 
