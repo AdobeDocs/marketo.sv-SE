@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Lägga till en bild på en landningssida med stödlinjer {#add-an-image-to-a-guided-landing-page}
+# Lägg till en bild på en guidad landningssida {#add-an-image-to-a-guided-landing-page}
 
 Till skillnad från landningssidor med frihandslingor har stödda landningssidor fördefinierade, låsta utrymmen där du lägger till bilder.
 
@@ -31,7 +31,7 @@ Till skillnad från landningssidor med frihandslingor har stödda landningssidor
 
    >[!NOTE]
    >
-   >Hur bildens storlek ändras beror på mallen. Läs mer om [guidade sidmallar](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)för landning.
+   >Hur bildens storlek ändras beror på mallen. Läs mer om [Guided Landing Page Templates](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 
