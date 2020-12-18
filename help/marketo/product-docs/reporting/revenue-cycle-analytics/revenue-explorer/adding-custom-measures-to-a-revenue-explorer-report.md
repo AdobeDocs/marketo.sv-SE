@@ -21,7 +21,7 @@ I exemplet nedan skapar du ett beräknat mått för mjuka studsar, som tar mätv
 >
 >Du behöver minst ett mått i rapporten, men det behöver inte vara ett av de mått som du använder för att definiera ditt anpassade mått.
 
-1. Dra över fälten du behöver för rapporten. Mer information finns i [Lägga till fält i en Intresseutforskarrapport](adding-fields-to-a-revenue-explorer-report.md) .
+1. Dra över fälten du behöver för rapporten. Mer information finns i [Lägga till fält i en Intresseutforskarrapport](adding-fields-to-a-revenue-explorer-report.md).
 1. Högerklicka på ett befintligt mått (blå cell), klicka på **Användardefinierat mått** och välj **Beräknat mått**.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
