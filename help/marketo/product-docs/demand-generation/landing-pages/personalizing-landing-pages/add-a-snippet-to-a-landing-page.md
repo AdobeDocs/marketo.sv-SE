@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Lägga till ett kodfragment på en landningssida {#add-a-snippet-to-a-landing-page}
+# Lägg till ett kodfragment på en landningssida {#add-a-snippet-to-a-landing-page}
 
 Kodfragment är små bitar av HTML som kan följa regler och innehålla personaliserat innehåll.
 
@@ -27,11 +27,11 @@ Kodfragment är små bitar av HTML som kan följa regler och innehålla personal
 
    ![](assets/image2014-9-16-15-3a4-3a28.png)
 
-1. Dra över **fragmentelementet** i landningssidans redigerare.
+1. Dra över elementet **Kodfragment** i landningssidans redigerare.
 
    ![](assets/image2015-5-21-12-3a46-3a34.png)
 
-1. Hitta fragmentet, markera det och klicka på **Spara**.
+1. Leta reda på fragmentet, markera det och klicka på **Spara**.
 
    ![](assets/image2014-9-16-15-3a4-3a14.png)
 
