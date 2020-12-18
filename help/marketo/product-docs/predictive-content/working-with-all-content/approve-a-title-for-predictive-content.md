@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Beroende på inköpsdatumet kan din Marketo-prenumeration innehålla antingen Marketo Predictive Content eller Content`<sup>AI</sup>`. För dem som använder Predictive Content aktiverar Marketo Content`<sup>AI</sup>` Analytics-funktioner fram till 30 april 2018. Kontakta Marketo Customer Success Manager för att uppgradera till Marketo Content`<sup>AI</sup>`om du vill behålla funktionerna efter detta datum.
+>Beroende på inköpsdatumet kan din Marketo-prenumeration innehålla antingen Marketo Predictive Content eller Content`<sup>AI</sup>`. För dem som använder Predictive Content aktiverar Marketo Content`<sup>AI</sup>` Analytics-funktioner fram till 30 april 2018. Kontakta Marketo Customer Success Manager för att uppgradera till Marketo Content`<sup>AI</sup>` om du vill behålla funktionerna efter detta datum.
 
 Du kan lägga till vilken rubrik som helst på sidan Allt innehåll i det prediktiva innehållet genom att godkänna den på sidan Allt innehåll eller i popup-fönstret Redigera innehåll.
 
@@ -37,7 +37,7 @@ Du kan också godkänna titlar för prediktivt innehåll direkt på popup-menyn 
 
    ![](assets/image2017-10-3-9-3a14-3a55.png)
 
-1. Markera rutan **Godkänn prediktivt innehåll** på popup-menyn Redigera innehåll och klicka på **Spara**.
+1. Markera rutan **Godkänn för prediktivt innehåll** på popup-menyn Redigera innehåll och klicka på **Spara**.
 
    ![](assets/image2017-10-3-9-3a15-3a35.png)
 
