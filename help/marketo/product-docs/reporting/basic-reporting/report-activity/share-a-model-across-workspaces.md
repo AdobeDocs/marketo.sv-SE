@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Marketo ger dig möjlighet att dela en eller flera modeller över arbetsytorna. Så här gör du.
 
-1. Gå till **Analytics** -avsnittet.
+1. Gå till avsnittet **Analytics**.
 
    ![](assets/analytics.png)
 
@@ -27,7 +27,7 @@ Marketo ger dig möjlighet att dela en eller flera modeller över arbetsytorna. 
 
    ![](assets/image2014-10-3-14-3a5-3a38.png)
 
-1. Dra modellerna som du vill dela till **Dela mapp**.
+1. Dra modellerna som du vill dela till mappen **Dela**.
 
    ![](assets/image2014-10-3-14-3a5-3a52.png)
 
@@ -44,4 +44,4 @@ Marketo ger dig möjlighet att dela en eller flera modeller över arbetsytorna. 
 
    ![](assets/image2014-10-3-14-3a6-3a22.png)
 
-Så enkelt är det! Nu kan personer från andra arbetsytor navigera i den delade modellen. Du kanske vill köra persontilldelning på den arbetsytan, se [Starta intäktscykelmodellen](https://community.marketo.com/MarketoArticle?id=kA050000000KyvQCAS) för mer information.
+Så enkelt är det! Nu kan personer från andra arbetsytor navigera i den delade modellen. Du kan köra persontilldelning på den arbetsytan i [Starta din intäktscykelmodell](https://community.marketo.com/MarketoArticle?id=kA050000000KyvQCAS) för mer information.
