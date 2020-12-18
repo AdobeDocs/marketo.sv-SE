@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Prenumerera på en rapport om skatteutforskaren {#subscribe-to-a-revenue-explorer-report}
+# Prenumerera på en Intresseutforskarrapport {#subscribe-to-a-revenue-explorer-report}
 
-Om du vill få uppdateringar från [intäktscykelutforskarrapporter](http://docs.marketo.com/display/docs/revenue+cycle+analytics) och dela dem kan du prenumerera på valfri e-postadress i en befintlig rapport.
+Om du vill få uppdateringar från dina [Intäktscykelutforskarrapporter](http://docs.marketo.com/display/docs/revenue+cycle+analytics) och dela dem kan du prenumerera på valfri e-postadress i en befintlig rapport.
 
-1. Gå till **Analytics** och välj **New > New Report Subscription (Ny rapportprenumeration).**
+1. Gå till **Analytics** och välj **New > New Report Subscription.**
 
    ![](assets/image2014-9-17-12-3a46-3a20.png)
 
@@ -23,7 +23,7 @@ Om du vill få uppdateringar från [intäktscykelutforskarrapporter](http://docs
    >
    >Information om hur du prenumererar på en grundläggande rapport som du har skapat i ett program finns i [Prenumerera på en grundläggande rapport.](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
 
-1. För **rapportkälla** väljer du** Intäktsutforskaren**.
+1. För **Rapportkälla** väljer du** Intäktsutforskaren**.
 
    ![](assets/image2014-9-17-12-3a47-3a11.png)
 
@@ -45,7 +45,7 @@ Om du vill få uppdateringar från [intäktscykelutforskarrapporter](http://docs
 
 >[!MORELIKETHIS]
 >
->Lär dig [hantera alla prenumerationer](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) på en och samma plats.
+>Lär dig hur du [hanterar alla rapportprenumerationer](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) på ett och samma ställe.
 
 >[!NOTE]
 >
