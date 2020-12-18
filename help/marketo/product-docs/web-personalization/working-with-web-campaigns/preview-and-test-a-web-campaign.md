@@ -17,7 +17,7 @@ I den här artikeln visas olika sätt att förhandsgranska en webbkampanj och ä
 
 ## Förhandsgranska en webbkampanj på sidan Skapa {#preview-a-web-campaign-on-the-creation-page}
 
-1. Gå till **Webbkampanjer** **för** webben.
+1. Gå till **Webben** **Kampanjer**.
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
@@ -60,9 +60,9 @@ I den här artikeln visas olika sätt att förhandsgranska en webbkampanj och ä
 
    ![](assets/campaign-preview.png)
 
-## Förhandsgranska en webbkampanj på sidan Webbkampanjer {#preview-a-web-campaign-on-the-web-campaigns-page}
+## Förhandsgranska en webbkampanj på webbkampanjsidan {#preview-a-web-campaign-on-the-web-campaigns-page}
 
-1. När du tittar på listan över dina webbkampanjer väljer du bara en kampanj och klickar på ikonen **Förhandsgranska** .
+1. När du tittar på listan över dina webbkampanjer väljer du bara en kampanj och klickar på ikonen **Förhandsgranska**.
 
    ![](assets/web-campaigns-1-preview-hand.png)
 
@@ -76,7 +76,7 @@ Skapa ett sandlådesegment och en kampanj.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
-1. Klicka på **Skapa nytt**.
+1. Klicka på **Skapa ny**.
 
    ![](assets/image2015-9-10-10-3a42-3a39.png)
 
@@ -89,7 +89,7 @@ Skapa ett sandlådesegment och en kampanj.
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
-1. Slutför kampanjkreativiteten och klicka på **Launch**.\
+1. Slutför kampanjkreativiteten och klicka på **Starta**.\
    ![](assets/click-launch.jpg)
 
 1. Gå till webbplatsen och lägg till URL-parametern&quot;?sandbox=1&quot; i slutet av URL:en. Exempel: [www.marketo.com?sandbox=1](http://www.marketo.com/?sandbox=1)
