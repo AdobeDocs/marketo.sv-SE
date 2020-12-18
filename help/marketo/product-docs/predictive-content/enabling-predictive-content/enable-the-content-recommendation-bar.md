@@ -33,7 +33,7 @@ Innehållsrekommendationsmotorn använder prediktiva analyser och maskininlärni
 
    ![](assets/content-settings-bar-hand.png)
 
-1. Om du vill aktivera rekommendationsfältet för en URL-adress klickar du bara på **På** och sedan på **Spara**.
+1. Om du vill aktivera rekommendationsfältet för en URL-adress klickar du på **På** och sedan **Spara**.
 
    ![](assets/bar-enable.png)
 
@@ -55,7 +55,7 @@ Innehållsrekommendationsmotorn använder prediktiva analyser och maskininlärni
 
 ## Överväganden i rekommendationsfältet {#recommendation-bar-considerations}
 
-* Du behöver minst en innehållsdel för rekommendationsfältet som är inställt på **På** på Recommendations-sidan för att rekommendationsmotorn ska fungera. Om inget innehåll är aktiverat och Bar är inställt på **På**, visas effekten Pil längst ned till höger på webbsidan, men inget rekommenderat innehåll visas.
+* Du behöver minst en innehållsdel för rekommendationsfältet inställt på **On** på Recommendations-sidan för att rekommendationsmotorn ska fungera. Om inget innehåll är aktiverat och Bar är inställt på **På** visas pileffekten längst ned till höger på webbsidan, men inget rekommenderat innehåll visas.
 
 * Ju mer innehåll som körs i rekommendationsmotorn desto bättre för algoritmen att testa och lära sig vilket innehåll som fungerar bäst. Vi rekommenderar att du börjar med 10 till 20 aktiva innehållskomponenter och fortsätter lägga till nya.
 * Innehållsdelen som du aktiverar för rekommendation bör innehålla Javascript-taggen RTP. Detta hjälper algoritmen att spåra och optimera rekommenderat innehåll.
