@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Förbered Sales Insight för flerspråkig support i Salesforce {#prepare-sales-insight-for-multi-lingual-support-in-salesforce}
+# Förbered Sales Insight for Multi-Lingual Support in Salesforce {#prepare-sales-insight-for-multi-lingual-support-in-salesforce}
 
 >[!NOTE]
 >
@@ -32,11 +32,11 @@ Marketo Sales Insight lagras på språk. Om du vill att det ska fungera för mer
 Alla andra språk är som standard engelska.
 
 1. Lägga till ett nytt språk för Marketo Sales Insight
-1. Logga in i Salesforce. Klicka på **Konfigurera** i listrutan under ditt namn i det övre högra hörnet.
+1. Logga in i Salesforce. Klicka på **Inställningar** i listrutan under ditt namn i det övre högra hörnet.
 
    ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. Under** Mina personuppgifter** klickar du på **Personlig information**.
+1. Under** Min personliga information** klickar du på **Personlig information**.
 
    ![](assets/image2015-7-6-16-3a5-3a25.png)
 
@@ -48,7 +48,7 @@ Alla andra språk är som standard engelska.
 
    ![](assets/image2015-7-6-16-3a5-3a47.png)
 
-1. Salesforce-gränssnittet finns nu på det valda språket. Du kan klicka på ikonen **+** om du vill visa alla tillgängliga flikar.
+1. Salesforce-gränssnittet finns nu på det valda språket. Du kan klicka på ikonen **+** för att visa alla tillgängliga flikar.
 
    ![](assets/image2015-7-6-16-3a6-3a10.png)
 
@@ -56,7 +56,7 @@ Alla andra språk är som standard engelska.
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. Gå till Marketo. Leta reda på [konfigurationsinformationen **för Marketo Sales Insight** API](https://docs.marketo.com/pages/viewpage.action?pageId=2360368#ConfigureMarketoSalesInsightinSalesforceEnterprise/Unlimited-ConfigureMarketoSalesInsight) .
+1. Gå till Marketo. Hitta din [Marketo Sales Insight **API-konfiguration** information](https://docs.marketo.com/pages/viewpage.action?pageId=2360368#ConfigureMarketoSalesInsightinSalesforceEnterprise/Unlimited-ConfigureMarketoSalesInsight).
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 
@@ -76,7 +76,7 @@ När du är klar med att anpassa din Salesforce-organisation gör du så här f�
 
 ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. Klicka på **Personlig information** under **Mina personuppgifter**.
+1. Klicka på **Personlig information** under **Min personliga information**.
 
    ![](assets/image2015-7-6-16-3a8-3a3.png)
 
