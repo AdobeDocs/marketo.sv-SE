@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Fem Sales Connect-knappar läggs till högst upp på Gmail-sidan när du loggar in.
 
-| **Knappen Live-feed** | Öppnar din Sales Connect [Live Feed](http://toutapp.com/next#live) där du kan få information om spårning i realtid i dina e-postmeddelanden. |
+| **Knappen Live-feed** | Öppnar Sales Connect [Live Feed](http://toutapp.com/next#live) där du kan få information om spårning i realtid i dina e-postmeddelanden. |
 |---|---|
 | **Knappen Åtgärder** | Visar en listruta med alla dina uppgifter. |
-| **Mallar och **konversationsknappar** | Öppnar sidan Mallar och sidan Konversationer i [webbprogrammet](http://toutapp.com/login). Allt på din Gmail-sida. |
+| **Mallar **och konversationsknappar** | Öppnar sidan Mallar och sidan Konversationer i ditt [webbprogram](http://toutapp.com/login). Allt på din Gmail-sida. |
 | **Knappen Försäljningsgong ** | Låter dig fira dina stängda/vunna avtal med dina teamkamrater. |
 
