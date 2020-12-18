@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Granska rösterna i omröstningen {#review-votes-cast-in-poll}
+# Granska offerter i omröstning {#review-votes-cast-in-poll}
 
 Vem röstade på vad i din omröstning? Låt oss ta reda på det.
 
-1. I **marknadsföringsaktiviteter** väljer du omröstningen och klickar på fliken **Deltagare** .
+1. I **Marknadsföringsaktiviteter** väljer du undersökningen och klickar på fliken **Deltagare**.
 
    ![](assets/image2015-5-12-14-3a35-3a10.png)
 
-1. Klicka på talet i kolumnen **Röster** .
+1. Klicka på siffran i kolumnen **Röster**.
 
    ![](assets/image2015-5-12-14-3a36-3a36.png)
 
