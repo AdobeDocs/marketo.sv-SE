@@ -17,15 +17,15 @@ När en webbbesökare är känd (kodad) kommer Marketo-formulär att förifylla 
 
 >[!NOTE]
 >
->**Förifyll** formulär är aktiverat som standard. Inställningarna för förifyllning på landningssidnivå och förifyllning på administratörsnivå trumpar inställningen för formulärnivå:
+>**Formulärets** förifyllning är aktiverat som standard. Inställningarna för förifyllning på landningssidnivå och förifyllning på administratörsnivå trumpar inställningen för formulärnivå:
 >
 >Form &lt; landningssida &lt; Admin
 
-1. Gå till **Marknadsföringsaktiviteter** och **aktiviteter**.
+1. Gå till **Marknadsföring** **Aktiviteter**.
 
    ![](assets/login-marketing-activities-7.png)
 
-1. Markera formuläret och klicka på **Redigera** **formulär**.
+1. Markera formuläret och klicka på **Redigera** **Formulär**.
 
    ![](assets/image2014-9-15-14-3a26-3a46.png)
 
@@ -33,7 +33,7 @@ När en webbbesökare är känd (kodad) kommer Marketo-formulär att förifylla 
    >
    >Förifyll formulär fungerar inte när du bäddar in ett formulär på dina egna sidor. Det fungerar bara på Marketo landningssidor.
 
-1. Markera ett av fälten och ange **Formulär** **för****ifyllning** till **Inaktiverat**.
+1. Markera ett av fälten och ställ in **Form** **Pre**-**fill** på **Inaktiverad**.
 
    ![](assets/image2014-9-15-14-3a26-3a54.png)
 
