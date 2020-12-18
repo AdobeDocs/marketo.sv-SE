@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Ange en tacksida för formuläret {#set-a-form-thank-you-page}
+# Ange formulärets tacksida {#set-a-form-thank-you-page}
 
 Vad händer när någon fyller i ett formulär? Var vidarebefordras de till? Så här konfigurerar du det.
 
 ## Redigera formulär {#edit-form}
 
-1. Gå till **Marknadsföringsaktiviteter** och **aktiviteter**.
+1. Gå till **Marknadsföring** **Aktiviteter**.
 
    ![](assets/login-marketing-activities-5.png)
 
@@ -25,17 +25,17 @@ Vad händer när någon fyller i ett formulär? Var vidarebefordras de till? Så
 
    ![](assets/image2014-9-15-17-3a34-3a14.png)
 
-1. Under **Formulärinställningar** **klickar du på** Inställningar ****.
+1. Under **Formulär** **Inställningar** klickar du på **Inställningar**.
 
    ![](assets/image2014-9-15-17-3a34-3a21.png)
 
-1. Bläddra ned till **sidan Tack** **du** **sida** .
+1. Bläddra nedåt till **Tack** **Du** **sidan**.
 
 ## Stanna kvar på sidan {#stay-on-page}
 
 Med alternativet Håll kvar på sidan ser du till att besökaren ser samma sida när formuläret har skickats.
 
-1. Välj **Stanna** kvar **på** **sidan** om du vill **följa** **upp** **** med.
+1. Välj **Stanna** **den** **Sida** för **Följ** **Uppåt** **Med**.
 
    ![](assets/image2014-9-15-17-3a34-3a35.png)
 
@@ -43,7 +43,7 @@ Med alternativet Håll kvar på sidan ser du till att besökaren ser samma sida 
 
 Med inställningen Extern URL kan du definiera valfri URL som uppföljningssida. När användaren har skickat formuläret dirigeras de till den angivna URL:en.
 
-1. Välj **Extern** **URL** för **Följ** **upp** **med**.
+1. Välj **Extern** **URL** för **Följ** **Uppåt** **Med**.
 
    ![](assets/image2014-9-15-17-3a34-3a45.png)
 
@@ -59,7 +59,7 @@ Med inställningen Extern URL kan du definiera valfri URL som uppföljningssida.
 
 Du kan välja vilken godkänd Marketo-landningssida som helst som uppföljning.
 
-1. Ange **Uppföljning med** till **landningssida**.
+1. Ange **Följ upp med** till **Startsida**.
 
    ![](assets/image2014-9-15-17-3a37-3a52.png)
 
@@ -71,7 +71,7 @@ Du kan välja vilken godkänd Marketo-landningssida som helst som uppföljning.
 
 Du kan lägga till flera alternativ och bygga in alternativ för att visa olika uppföljningar för personer beroende på deras svar.
 
-1. Klicka på **Lägg till** **alternativ**.
+1. Klicka på **Lägg till** **Alternativ**.
 
    ![](assets/image2014-9-15-17-3a38-3a6.png)
 
@@ -91,7 +91,7 @@ Du kan lägga till flera alternativ och bygga in alternativ för att visa olika 
 
    ![](assets/image2014-9-15-17-3a38-3a40.png)
 
-1. Välj lämplig sida för **Följ** **upp** **med** text.
+1. Välj lämplig sida för typen **Följ** **Uppåt** **Med**.
 
    ![](assets/image2014-9-15-17-3a38-3a51.png)
 
@@ -106,7 +106,7 @@ Du kan lägga till flera alternativ och bygga in alternativ för att visa olika 
    >
    >Du måste ha skapat/godkänt dessa landningssidor i förväg.
 
-1. Klicka på **+** -tecknet för att lägga till ett annat alternativ.
+1. Klicka på **+**-tecknet för att lägga till ett annat alternativ.
 
    ![](assets/image2014-9-15-17-3a39-3a25.png)
 
