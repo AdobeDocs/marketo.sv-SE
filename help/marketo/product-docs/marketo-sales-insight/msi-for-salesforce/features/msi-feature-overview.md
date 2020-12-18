@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Översikt över MSI-funktioner {#msi-feature-overview}
+# MSI-funktionsöversikt {#msi-feature-overview}
 
 MSI har följande funktioner i Salesforce Lightning och Classic.
 
-## Visualforce-panel {#visualforce-panel}
+## Visualforce-panelen {#visualforce-panel}
 
 MSI Visualforce-panelen innehåller följande funktioner:
 
@@ -102,7 +102,7 @@ Följande funktioner är **inte tillgängliga** på sidan Kontolayout:
 * Funktionsmakron: Lägg till i Marketo Campaign, Skicka Marketo-e-post, Lägg till/ta bort från bevakad lista
 * Stjärnor och flamman
 
-## Affärsmöjlighet {#opportunity-layout}
+## Affärsmöjlighetslayout {#opportunity-layout}
 
 Visualforce-sidor:
 
@@ -120,7 +120,7 @@ Följande funktioner är **inte tillgängliga** på sidan för säljprojektslayo
 * Funktionsmakron: Lägg till i Marketo Campaign, Skicka Marketo-e-post, Lägg till/ta bort från bevakad lista
 * Stjärnor och flamman
 
-## Lead- och kontaktlistevy (massåtgärder) {#lead-and-contact-list-view-bulk-actions}
+## Vyn Lead- och kontaktlista (gruppåtgärder) {#lead-and-contact-list-view-bulk-actions}
 
 Salesforce Lightning: Lägg till åtgärdsknapparna Lägg till i Marketo Campaign och Skicka till e-postmarknadsföring i grupplistan i Lead- och Kontaktlistvyn.
 
@@ -162,7 +162,7 @@ Salesforce Classic: Lägg till åtgärdsknapparna Lägg till i Marketo Campaign 
    * Prenumerationsalternativ för att få e-postmeddelanden för den här typen av händelse
    * Ikonen med hög prioritet för att visa den här personen är ett Bästa val
 
-## Marketo Sales Insight Configuration tab {#marketo-sales-insight-configuration-tab}
+## Marketo Sales Insight Configuration Tab {#marketo-sales-insight-configuration-tab}
 
 * Driftsinställningar: Inkluderar de Soap &amp; Rest API-autentiseringsuppgifter som krävs för att konfigurera MSI i SFDC
 * MSI-konfiguration: Inkluderar konfiguration av Marketo-fliken och MSI visualforce-panelen
@@ -172,11 +172,11 @@ Salesforce Classic: Lägg till åtgärdsknapparna Lägg till i Marketo Campaign 
 >
 >[Marketo Sales Insight Configuration tab in Salesforce](http://docs.marketo.com/x/UoCMAg)
 
-## Resultatrapporter för Sales Insight {#sales-insight-performance-reports}
+## Prestandarapporter för Sales Insight {#sales-insight-performance-reports}
 
 Visa prestanda för e-postmeddelanden som skickas via Salesforce, Microsoft Dynamics eller ett Gmail- eller Outlook-plugin-program
 
-## MSI för mobiler {#msi-for-mobile}
+## MSI för mobilen {#msi-for-mobile}
 
 MSI-funktioner stöds i Salesforce-mobilprogram
 
