@@ -15,9 +15,9 @@ ht-degree: 0%
 
 I persondetaljvyn finns en detaljerad profil för varje person i ditt MSC-konto.
 
-## Åtkomst {#how-to-access}
+## Åtkomst till {#how-to-access}
 
-1. Klicka på fliken **Personer** för att öppna vyn med persondetaljer.
+1. Klicka på fliken **Personer** för att komma åt vyn med persondetaljer.
 
    ![](assets/people-tab.png)
 
@@ -29,7 +29,7 @@ I persondetaljvyn finns en detaljerad profil för varje person i ditt MSC-konto.
    >
    >I stort sett var du än ser en persons namn kan du klicka på den och gå till hans/hennes personvy.
 
-## Fliken Om {#about-tab}
+## Fliken {#about-tab}
 
 Innehåller all kontaktinformation för personen.
 
@@ -56,7 +56,7 @@ Innehåller all kontaktinformation för personen.
 
 * Skapa anpassade anteckningar
 
-## Fliken Engagement {#engagement-tab}
+## Engagement Tab {#engagement-tab}
 
 Se hur den här personen engagerar sig i er utåtriktade verksamhet.
 
@@ -70,7 +70,7 @@ Se hur den här personen engagerar sig i er utåtriktade verksamhet.
 
 * Se hur er person engagerar sig i marknadsföringskampanjer
 
-## Fliken Händelser {#history-tab}
+## Fliken Historik {#history-tab}
 
 Visar din utdatahistorik. Inkluderar e-post, kampanjer och samtal.
 
@@ -105,7 +105,7 @@ Hantera uppgifter som är kopplade till den här personen.
 * Klicka på Typ för att starta Säljtelefonen om du ringer, E-posta om det är e-post, Länkad om e-post och Anpassad anteckning om det är anpassat.
 * Markera en uppgift som slutförd
 
-## Fliken Försäljningsnavigator {#sales-navigator-tab}
+## Fliken Sales Navigator {#sales-navigator-tab}
 
 Visa LinkedIn-profildata med LinkedIns Sales Navigator.
 
