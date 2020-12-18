@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Exportera data för påverkansanalys för affärsmöjlighet {#export-opportunity-influence-analyzer-data}
 
-Om du vill få uppdateringar från [intäktscykelutforskarrapporter](http://docs.marketo.com/display/docs/revenue+cycle+analytics) och dela dem kan du prenumerera på valfri e-postadress i en befintlig rapport.
+Om du vill få uppdateringar från dina [Intäktscykelutforskarrapporter](http://docs.marketo.com/display/docs/revenue+cycle+analytics) och dela dem kan du prenumerera på valfri e-postadress i en befintlig rapport.
 
-1. Gå till **Analytics** och välj **New** **>** New **** Report **** ****¥Subscription¥.
+1. Gå till **Analytics** och välj **Nytt** **** **Nytt** **Rapport** **Prenumeration**.
 
    ![](assets/image2014-9-17-12-3a40-3a46.png)
 
    >[!NOTE]
    >
-   >Om du vill prenumerera på en grundläggande rapport som du har skapat i ett program kan du läsa [Prenumerera på en grundläggande rapport](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) .
+   >Information om hur du prenumererar på en grundläggande rapport som du har skapat i ett program finns i [Prenumerera på en grundläggande rapport](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md).
 
 1. För Rapportkälla väljer du **Intäktsutforskaren.**
 
@@ -45,7 +45,7 @@ Om du vill få uppdateringar från [intäktscykelutforskarrapporter](http://docs
 
 >[!MORELIKETHIS]
 >
->Lär dig [hantera alla prenumerationer](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) på en och samma plats.
+>Lär dig hur du [hanterar alla rapportprenumerationer](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) på ett och samma ställe.
 
 >[!NOTE]
 >
