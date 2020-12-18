@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Ta bort en rapport {#delete-a-report}
 
-När du väl har börjat [skapa rapporter](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)kan du snabbt få många. Kom ihåg att ta bort rapporter som du inte längre behöver.
+När du börjar [skapa rapporter](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) kan du snabbt få många rapporter. Kom ihåg att ta bort rapporter som du inte längre behöver.
 
 1. Högerklicka på den onödiga rapporten i trädet och välj **Ta bort rapport**.
 
@@ -30,5 +30,5 @@ När du väl har börjat [skapa rapporter](../../../../product-docs/reporting/ba
    >**Djupdykning**
    >
    >
-   >Se alla andra saker du kan göra med rapporter i djupet för [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) .
+   >Se alla andra saker du kan göra med rapporter i djupdykningen [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
 
