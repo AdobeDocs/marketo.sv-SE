@@ -17,10 +17,10 @@ När du har skapat din lead-annons bör du testa den!
 
 >[!PREREQUISITES]
 >
->Du måste [konfigurera Facebook Lead Ads-integrering](set-up-facebook-lead-ads.md).
+>Du måste [konfigurera Facebook Lead Ads Integration](set-up-facebook-lead-ads.md).
 
 1. Välj en kampanj, en annons i Facebook Power Editor och klicka på **Redigera**.
-1. Klicka på länken **Visa på mobilapp** under **Länkar** .
+1. Under **Länkar** klickar du på länken **Visa på mobilapp**.
 
    ![](assets/image2016-5-13-15-3a2-3a38.png)
 
@@ -28,11 +28,11 @@ När du har skapat din lead-annons bör du testa den!
 
    ![](assets/image2016-3-11-8-3a35-3a7.png)
 
-1. Tryck på **Notifications (Meddelanden** ) i Facebook-mobilappen på din mobila enhet.
+1. Tryck på **Notifications** i Facebook-mobilappen på din mobila enhet.
 
    ![](assets/image2016-3-11-8-3a38-3a35.png)
 
-1. I Notifications (Meddelanden): tryck på **din annons för förhandsgranskning**.
+1. Tryck på **Annonsen är klar att förhandsgranska** i Notifications (Meddelanden).
 
    ![](assets/image2016-3-11-8-3a41-3a59.png)
 
@@ -44,7 +44,7 @@ När du har skapat din lead-annons bör du testa den!
    >
    >Detta är bara ett exempel som använder en Learn More Call To Action. Ditt lead-annonsenhetsanrop kan vara ett annat.
 
-1. Det är här som magin händer! När du har skickat in formuläret [kan du skapa en smart lista i Marketo](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) som en del av ett program eller i den lead-databas som använder det **ifyllda Facebook-blankettfiltret** för annonser. Ange formulärets namn för lead-annons för det formulär du just skickade.
+1. Det är här som magin händer! När du har skickat in formuläret [skapar du en smart lista i Marketo](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) som en del av ett program eller i den lead-databas som använder filtret **Fyll i Facebook-annonsformulär**. Ange formulärets namn för lead-annons för det formulär du just skickade.
 
    ![](assets/image2016-3-11-8-3a59-3a34.png)
 
