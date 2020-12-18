@@ -26,7 +26,7 @@ Använd en utlösare för att skicka ett e-postmeddelande eller en varning, elle
    >**Djupdykning**
    >
    >
-   >Smarta listor kan göra fantastiska saker. Läs mer i [Smart List Deep Dive](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+   >Smarta listor kan göra fantastiska saker. Läs mer i [Djupdykning för smart lista](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Sök efter utlösaren och dra och släpp sedan utlösaren på arbetsytan.
 
