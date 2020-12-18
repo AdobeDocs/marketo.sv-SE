@@ -23,7 +23,7 @@ Om du vill använda Marketo MSI-pluginprogrammet i Outlook måste du godkänna d
 
    ![](assets/image2016-8-24-16-3a4-3a28.png)
 
-1. När dialogrutan Authorize Marketo Plugin visas klickar du på **Request Code**.
+1. När dialogrutan Authorize Marketo Plugin visas klickar du på **Begär kod**.
 
    ![](assets/image2016-8-24-16-3a6-3a51.png)
 
