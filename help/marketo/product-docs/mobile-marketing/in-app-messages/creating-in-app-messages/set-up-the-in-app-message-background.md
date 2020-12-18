@@ -31,7 +31,7 @@ Att välja en meddelandebakgrund är ett viktigt steg när du vill avsluta ditt 
    >
    >Vanligtvis är vitt som standard en vinnare.
 
-1. Om du vill använda en bakgrund klickar du på **Bild** och sedan på länken **Välj bild** .
+1. Om du vill använda en bakgrund klickar du på **Bild** och sedan på länken **Välj bild**.
 
    ![](assets/image2016-5-9-8-3a52-3a43.png)
 
