@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Mall 13-C {#template-a}
+# Mall 13-A {#template-a}
 
 [Ladda ned mall 13-A](http://docs.marketo.com/download/attachments/9437783/template-13a.html?version=1&amp;modificationdate=1438979525000&amp;api=v2)
 
