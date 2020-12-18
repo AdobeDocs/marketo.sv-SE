@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Ange poängfält som ska användas för staplar och flamma i Sales Insight {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
+# Ange poängfält som ska användas för stjärnor och flamma i Sales Insight {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
 
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
 
-Som standard använder Marketo Sales Insight fältet **Lead Score** för att beräkna stjärnor och lågor. Men om du vill välja ett annat fält, så här:
+Marketo Sales Insight använder som standard fältet **Leadpoäng** för att beräkna stjärnor och lågor. Men om du vill välja ett annat fält, så här:
 
 >[!TIP]
 >
->Om du inte redan har dina anpassade poängfält, så här [](../../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)skapar du dem.
+>Om du inte redan har dina anpassade poängfält gör du så här för att [skapa](../../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)dem.
 
 >[!NOTE]
 >
@@ -38,7 +38,7 @@ Som standard använder Marketo Sales Insight fältet **Lead Score** för att ber
 
    ![](assets/image2014-9-16-13-3a27-3a19.png)
 
-1. Klicka på **Redigera** under Inställningar **för** leadpoäng.
+1. Klicka på **Redigera** under **Leadbedömningsinställningar**.
 
    ![](assets/image2014-9-16-13-3a27-3a33.png)
 
@@ -46,7 +46,7 @@ Som standard använder Marketo Sales Insight fältet **Lead Score** för att ber
 
    ![](assets/image2014-9-16-13-3a27-3a45.png)
 
-1. Markera det fält som du vill använda för **Flames**.
+1. Markera det fält som du vill använda för **flamma**.
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
