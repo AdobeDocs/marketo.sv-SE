@@ -19,7 +19,7 @@ Det första steget för alla tillgängliga gruppåtgärder är att markera två 
 
 ![](assets/one-3.png)
 
-## Lägg till personer i grupp {#add-people-to-group}
+## Lägg till personer i gruppen {#add-people-to-group}
 
 Lägg till flera personer i en grupp samtidigt.
 
@@ -37,7 +37,7 @@ Vi tilldelar automatiskt en källa till varje kontakt som matas in i databasen. 
 
 ## Behörighet {#authorization}
 
-I enlighet med [GDPR](http://eugdpr.org/)ska du använda behörigheten för att ange hur du fick behörighet att interagera med dessa kontakter.
+I enlighet med [GDPR](http://eugdpr.org/), använd behörigheten för att ange hur du fick behörighet att interagera med dessa kontakter.
 
 ![](assets/authorization.png)
 
