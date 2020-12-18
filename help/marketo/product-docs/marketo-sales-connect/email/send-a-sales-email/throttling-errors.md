@@ -21,6 +21,6 @@ Om du skickar via din egen server har den begränsningar för hur många e-postm
 
 Det innebär att det inte gick att autentisera anslutningen till SMTP-servern. Ditt lösenord har antagligen ändrats nyligen och du behöver bara autentisera dina nya inloggningsuppgifter.
 
-Gå till [SMTP-inställningarna om du vill göra det](http://docs.marketo.com/display/docs/assets/external-link-1.jspa) `where you should see the same error message. Update your credentials and hit **Authenticate and Save** to see a confirmation message.`
+Det gör du genom att gå till [SMTP-inställningarna](http://docs.marketo.com/display/docs/assets/external-link-1.jspa) `where you should see the same error message. Update your credentials and hit **Authenticate and Save** to see a confirmation message.`
 
 Gå till Misslyckade leveranser och försök skicka om dessa e-postmeddelanden.
