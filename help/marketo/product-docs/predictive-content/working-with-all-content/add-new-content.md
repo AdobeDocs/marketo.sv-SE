@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Beroende på inköpsdatumet kan din Marketo-prenumeration innehålla antingen Marketo Predictive Content eller Content`<sup>AI</sup>`. För dem som använder Predictive Content aktiverar Marketo Content`<sup>AI</sup>` Analytics-funktioner fram till 30 april 2018. Kontakta Marketo Customer Success Manager för att uppgradera till Marketo Content`<sup>AI</sup>`om du vill behålla funktionerna efter detta datum.
+>Beroende på inköpsdatumet kan din Marketo-prenumeration innehålla antingen Marketo Predictive Content eller Content`<sup>AI</sup>`. För dem som använder Predictive Content aktiverar Marketo Content`<sup>AI</sup>` Analytics-funktioner fram till 30 april 2018. Kontakta Marketo Customer Success Manager för att uppgradera till Marketo Content`<sup>AI</sup>` om du vill behålla funktionerna efter detta datum.
 
 Du kan enkelt lägga till innehåll manuellt på sidan Allt innehåll.
 
@@ -35,7 +35,7 @@ Du kan enkelt lägga till innehåll manuellt på sidan Allt innehåll.
 
    ![](assets/all-content-add-hand.png)
 
-1. Den nya titeln visas nu på sidan **Allt innehåll** . Observera att det inte har godkänts för prediktivt innehåll än.
+1. Den nya titeln visas nu på sidan **Allt innehåll**. Observera att det inte har godkänts för prediktivt innehåll än.
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 
