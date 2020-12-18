@@ -23,7 +23,7 @@ Om du vill lägga till bilder från en webbsida kopierar du webbadressen (URL:en
 
    ![](assets/image2014-9-16-11-3a37-3a46.png)
 
-1. Markera mappen **Bilder och filer** , klistra in webbadressen (URL:en) i textrutan URL och klicka på **Nästa.**
+1. Markera mappen **Bilder och filer**, klistra in webbadressen (URL:en) i textrutan URL och klicka på **Nästa.**
 
    ![](assets/image2014-9-16-11-3a37-3a55.png)
 
@@ -31,7 +31,7 @@ Om du vill lägga till bilder från en webbsida kopierar du webbadressen (URL:en
    >
    >Den här funktionen fungerar inte med URL-adresser som pekar direkt på en bild. Använd URL-adressen till den webbsida som innehåller bilderna.
 
-1. Markera de bilder som du vill lägga till och klicka på **Importera.**
+1. Markera de bilder du vill lägga till och klicka på **Importera.**
 
    ![](assets/image2014-9-16-11-3a38-3a3.png)
 
@@ -39,7 +39,7 @@ Om du vill lägga till bilder från en webbsida kopierar du webbadressen (URL:en
 
    ![](assets/image2014-9-16-11-3a38-3a9.png)
 
-1. Du kan se alla tillgängliga bilder i **Bilder och Filer**.
+1. Du kan se alla tillgängliga bilder i **Bilder och filer**.
 
    ![](assets/image2014-9-16-11-3a38-3a18.png)
 
