@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Arkivera innehåll för att rensa upp ditt säljinnehållskonto utan att förlora några malldata.
 
-Markera rutan bredvid en mall och klicka på **Arkivera**.
+Markera rutan bredvid en mall och klicka på **Arkiv**.
 
 >[!NOTE]
 >
