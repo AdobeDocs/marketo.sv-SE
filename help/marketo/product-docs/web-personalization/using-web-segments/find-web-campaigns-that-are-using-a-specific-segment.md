@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# Hitta webbkampanjer som använder ett visst segment {#find-web-campaigns-that-are-using-a-specific-segment}
+# Sök efter webbkampanjer som använder ett specifikt segment {#find-web-campaigns-that-are-using-a-specific-segment}
 
 Söker du webbkampanjer som använder ett specifikt segment?
 
 1. Gå till **Segment**.\
    ![](assets/new-dropdown-segments-hand-1.jpg)
 
-1. Sök efter ett **segment**. Markera **segmentnamnet**. Klicka på **Associerade kampanjer** i den högra panelen för att visa de kampanjer som är kopplade till det specifika segmentet.\
+1. Sök efter ett **segment**. Markera **segmentnamnet**. Klicka på **Associerade kampanjer** i den högra panelen för att visa de kampanjer som är associerade med det här specifika segmentet.\
    ![](assets/image2014-11-26-14-21-59.png)
 
 1. Visa de **kampanjer** som är associerade med det valda segmentet.\
@@ -28,5 +28,5 @@ Söker du webbkampanjer som använder ett specifikt segment?
 >
 >**Djupdykning**
 >
->Lär dig mer om [segment](web-segments.md) och hur du [skapar ett enkelt segment](create-a-basic-web-segment.md).
+>Läs mer om [segment](web-segments.md) och hur du [skapar ett enkelt segment](create-a-basic-web-segment.md).
 
