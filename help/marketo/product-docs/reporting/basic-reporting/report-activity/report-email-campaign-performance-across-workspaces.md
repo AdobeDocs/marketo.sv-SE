@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# E-postrapport, kampanjprestanda i flera arbetsytor {#report-email-campaign-performance-across-workspaces}
+# E-postrapport, kampanjprestanda i arbetsytor {#report-email-campaign-performance-across-workspaces}
 
-Aktivera Global Reporting om du vill inkludera data från alla era Marketto- [arbetsytor](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) i [e-postprestanda](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [e-postlänksprestanda](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)och [kampanjaktivitetsrapporter](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) .
+Aktivera Global rapportering om du vill inkludera data från alla dina marknader till [arbetsytor](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) i dina [e-postprestanda](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)-, [e-postlänksprestanda](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)- och [kampanjaktiviteter](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)-rapporter.
 
-1. Gå till **Analytics** (eller **Marketing Activity**).
+1. Gå till **Analys** (eller **Marknadsföringsaktiviteter**).
 
    ![](assets/image2014-9-16-16-3a4-3a46.png)
 
@@ -23,7 +23,7 @@ Aktivera Global Reporting om du vill inkludera data från alla era Marketto- [ar
 
    ![](assets/image2014-9-16-16-3a4-3a51.png)
 
-1. Klicka på fliken **Inställningar** och dubbelklicka på **Global rapportering**.
+1. Klicka på fliken **Setup** och dubbelklicka på **Global Reporting**.
 
    ![](assets/image2014-9-16-16-3a4-3a58.png)
 
@@ -49,5 +49,5 @@ Aktivera Global Reporting om du vill inkludera data från alla era Marketto- [ar
    >**Djupdykning**
    >
    >
-   >Lär dig allt om rapporter i [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting) .
+   >Läs allt om rapporter i [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
 
