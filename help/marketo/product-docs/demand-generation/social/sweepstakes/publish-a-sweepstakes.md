@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Publicera Lotteriet {#publish-a-sweepstakes}
+# Publicera en Lotterie {#publish-a-sweepstakes}
 
-När du har [skapat utlottningar](create-sweepstakes.md)kan du publicera dem på din Markettill landningssidor, på din webbplats och på din Facebook.
+När du har [skapat en utlottning](create-sweepstakes.md) kan du publicera den på din Markettill landningssidor, på din webbplats och på din Facebook.
 
 >[!NOTE]
 >
@@ -46,7 +46,7 @@ När du har [skapat utlottningar](create-sweepstakes.md)kan du publicera dem på
    >
    >Du måste godkänna dina utlottningar för att kunna göra dem tillgängliga här.
 
-   [publicera landningssidan på Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [och lägga upp utlottningen på din webbplats](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+   [publicera landningssidan på ](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [Facebook och lägga upp utlottningen på din webbplats](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
 
    >[!TIP]
    >
@@ -54,6 +54,6 @@ När du har [skapat utlottningar](create-sweepstakes.md)kan du publicera dem på
 
    >[!NOTE]
    >
-   >När folk väl har börjat registrera sig, kom ihåg att gå tillbaka till appen för att [välja vinnarna](select-sweepstakes-winners.md)av utlottningen!
+   >Kom ihåg att gå tillbaka till appen till [välj vinnarna](select-sweepstakes-winners.md) när folk har börjat registrera sig!
 
 Grattis! Godkänn landningssidan och dina utlottningar är live. Du kan också eller .
