@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Snabbare arbetsflöde med snabbåtgärder {#using-quick-actions-to-speed-up-your-workflow}
+# Snabba upp arbetsflödet {#using-quick-actions-to-speed-up-your-workflow} med snabbåtgärder
 
 Det finns två typer av snabbåtgärdskolumner i e-postrutnätet. E-poståtgärder, som gör att du kan vidta åtgärder i e-postmeddelandet, och uppföljningsåtgärder, som gör att du kan vidta interaktionsåtgärder med bara några klick.
 
