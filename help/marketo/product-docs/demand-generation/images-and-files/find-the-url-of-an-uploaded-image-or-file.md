@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Hitta URL-adressen till en överförd bild eller fil {#find-the-url-of-an-uploaded-image-or-file}
+# Hitta URL:en för en överförd bild eller fil {#find-the-url-of-an-uploaded-image-or-file}
 
 Söker du efter webbadressen (URL:en) till en bild eller fil som du har överfört? Marketo har dig täckt.
 
@@ -19,11 +19,11 @@ Söker du efter webbadressen (URL:en) till en bild eller fil som du har överfö
 
    ![](assets/designstudio-4.png)
 
-1. Klicka på **Bilder** **och** **filer** i den vänstra menyn och välj sedan den fil som du vill använda URL-adressen för.
+1. Klicka på **Bilder** **och** **Filer** på den vänstra menyn och välj sedan den fil som du vill ha URL-adressen för.
 
    ![](assets/image2014-9-25-14-3a47-3a53.png)
 
-1. URL- **adressen** visas på informationssidan. Högerklicka på **URL-adressen** och klicka på **Kopiera** på menyn som visas.
+1. URL:en **visas på informationssidan.** Högerklicka på **URL** och klicka på **Kopiera** på menyn som visas.
 
    ![](assets/image2014-9-25-14-3a48-3a16.png)
 
