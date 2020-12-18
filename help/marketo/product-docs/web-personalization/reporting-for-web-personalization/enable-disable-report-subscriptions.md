@@ -23,5 +23,5 @@ Webbpersonalisering har flera användbara rapporter som skickas via e-post. Så 
 
    ![](assets/email-settings.png)
 
-   Så ja! Om du vill avbryta prenumerationen på rapporten avmarkerar du den och klickar på **Spara**.
+   Så ja! Avmarkera och klicka på **Spara** om du vill avbryta prenumerationen på rapporten.
 
