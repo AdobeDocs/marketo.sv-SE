@@ -25,11 +25,11 @@ ht-degree: 0%
 >
 >Detta gäller endast landningssidor med fri form.
 
-1. Markera den bild du lade till på landningssidan och expandera **egenskapssidan.**
+1. Markera bilden som du lade till på landningssidan och expandera **egenskapssidan.**
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. Skriv din mailto-länk i **länk-URL:en.**
+1. Skriv din mailto-länk i **länk-URL.**
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 
