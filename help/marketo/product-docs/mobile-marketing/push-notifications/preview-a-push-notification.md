@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Det är enkelt att förhandsgranska hur ditt push-meddelande kommer att se ut, antingen för Android eller iOS. Det finns fyra sätt att göra det på.
 
-Högerklicka på filen i navigeringsträdet för meddelandet som du vill förhandsgranska och klicka på **Förhandsgranska**.
+Högerklicka på filen för det meddelande som du vill förhandsgranska i navigeringsträdet och klicka på **Förhandsgranska**.
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Högerklicka på filen i navigeringsträdet för meddelandet som du vill förhan
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
-Du kan också klicka på **Push Notifications Actions** på sidan Push Notification (Push-meddelanden-vy) och sedan **Preview**. Eller klicka på **Förhandsgranska **längst till höger.** **
+Eller klicka på **Push Notifications Actions** och **Preview** på sidan Push Notification-vy. Du kan också klicka på **Förhandsgranska **längst till höger.** **
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
