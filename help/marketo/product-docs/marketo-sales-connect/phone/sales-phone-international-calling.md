@@ -11,7 +11,7 @@ ht-degree: 8%
 ---
 
 
-# Internationellt telefonsamtal för försäljning {#sales-phone-international-calling}
+# Säljtelefon, internationell telefonsamtal {#sales-phone-international-calling}
 
 Säljtelefon gör det enkelt för dig att kommunicera internationellt. För kunder som ringer inifrån USA kan försäljningstelefonen användas för utgående samtal till internationella länder. För kunder utanför USA stöder vi samtal från internationella länder.
 
@@ -33,7 +33,7 @@ Säljtelefon gör det enkelt för dig att kommunicera internationellt. För kund
   </tr> 
   <tr> 
    <td colspan="1">Österrike</td> 
-   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 436555, 43677, 4369988, 4369989, 43720, 43780, 439</td> 
+   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 43655, 43677, 436988, 4366 9989, 43720, 43780, 439</td> 
   </tr> 
   <tr> 
    <td colspan="1">Bahamas</td> 
@@ -137,7 +137,7 @@ Säljtelefon gör det enkelt för dig att kommunicera internationellt. För kund
   </tr> 
   <tr> 
    <td>Amerikas förenta stater</td> 
-   <td>1, 1800,1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
+   <td>1, 1800, 1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
   </tr> 
  </tbody> 
 </table>
