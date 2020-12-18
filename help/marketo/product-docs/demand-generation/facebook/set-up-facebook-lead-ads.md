@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Konfigurera Facebook-annonser {#set-up-facebook-lead-ads}
 
-Använd [Facebook-annonser](https://www.facebook.com/business/a/lead-ads) för att köra annonskampanjer på Facebook och generera leads för Marketo.
+Använd [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) för att köra annonskampanjer på Facebook och generera leads för Marketo.
 
 >[!NOTE]
 >
@@ -29,11 +29,11 @@ Använd [Facebook-annonser](https://www.facebook.com/business/a/lead-ads) för a
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Gå till **LaunchPoint**, klicka på **Ny,** och välj **Ny tjänst**.
+1. Gå till **LaunchPoint**, klicka på **Nytt,** och välj **Ny tjänst**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Ange ett **visningsnamn** för tjänsten, välj **Facebook-tjänsten Lead Ads** i listrutan och klicka på **Create**.
+1. Ange ett **visningsnamn** för tjänsten, välj tjänsten **Facebook Lead Ads** i listrutan och klicka på **Skapa**.
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
@@ -49,7 +49,7 @@ Använd [Facebook-annonser](https://www.facebook.com/business/a/lead-ads) för a
 
    ![](assets/image2016-11-29-10-3a52-3a51.png)
 
-1. Om du uppmanas till det klickar du på **OK** för att godkänna Marketo-appinstallationen på Facebook.
+1. Om du uppmanas till det klickar du på **OK** för att godkänna Marketo-appinstallationen till Facebook.
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
@@ -57,7 +57,7 @@ Använd [Facebook-annonser](https://www.facebook.com/business/a/lead-ads) för a
 
    ![](assets/image2016-11-29-10-3a56-3a28.png)
 
-1. Markera den eller de sidor som du vill att Marketto ska hämta Facebook-annonser från och klicka på **Nästa**.
+1. Markera den eller de sidor som du vill att Marketska ska hämta Facebook-annonser från och klicka på **Nästa**.
 
    >[!TIP]
    >
@@ -69,7 +69,7 @@ Använd [Facebook-annonser](https://www.facebook.com/business/a/lead-ads) för a
 
    >[!TIP]
    >
-   >Genom att ändra mappningarna kan du anpassa var informationen om annonser för lead lagras i Marketo. Du kan även [hämta in data från anpassade frågor](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)om leadannonser.
+   >Genom att ändra mappningarna kan du anpassa var informationen om annonser för lead lagras i Marketo. Du kan även [hämta data från anpassade frågor för Lead Ads](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
 
    >[!CAUTION]
    >
