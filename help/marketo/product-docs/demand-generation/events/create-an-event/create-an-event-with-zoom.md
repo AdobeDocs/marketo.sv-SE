@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Skapa en händelse med zoom {#create-an-event-with-zoom}
+# Skapa en händelse med zoomning {#create-an-event-with-zoom}
 
 >[!PREREQUISITES]
 >
@@ -28,23 +28,23 @@ Ange följande information för ditt webbinarium så hämtas det till Marketo vi
 
 **Titel och beskrivning**
 
-* **Namn på** webbinarium - Ange namnet på webbinariet. Det här namnet kan visas i Marketo.
+* **Namn**  på webbinarium - Ange namnet på webbinariet. Det här namnet kan visas i Marketo.
 
-* **Beskrivning** (valfritt) - Ange beskrivningen för webbinariet. Beskrivningen kan`visas i Marketo.
+* **Beskrivning**  (valfritt) - Ange beskrivningen för webbinariet. Beskrivningen kan`visas i Marketo.
 
 **Datum och tid**
 
-* **Startdatum** - Ange startdatum. Den här visas i Marketo.
+* **Startdatum**  - Ange startdatum. Den här visas i Marketo.
 
-* **Starttid** - Ange starttid. Den här visas i Marketo.
+* **Starttid**  - Ange starttid. Den här visas i Marketo.
 
-* **Varaktighet** - Ange längden. Starttiden och sluttiden visas i Marketo.
+* **Varaktighet**  - Ange längden. Starttiden och sluttiden visas i Marketo.
 
-* **Tidszon** - Välj tillämplig tidszon. Den här visas i Marketo.
+* **Tidszon**  - Välj önskad tidszon. Den här visas i Marketo.
 
-* **Återkommande webbinarium**- Behåll avmarkerat.
+* **Återkommande webbinarium** - Behåll avmarkerat.
 
-* **Registrering** - Markera den här kryssrutan om du vill göra registreringen obligatorisk. Du använder en Marketo-formulär/landningssida för att hämta registreringsinformation som ska överföras till Zoom.
+* **Registrering**  - Markera den här kryssrutan om du vill göra registreringen obligatorisk. Du använder en Marketo-formulär/landningssida för att hämta registreringsinformation som ska överföras till Zoom.
 
 >[!NOTE]
 >
@@ -54,7 +54,7 @@ Ange följande information för ditt webbinarium så hämtas det till Marketo vi
 
 >[!TIP]
 >
->Det finns ytterligare fält som du konfigurerar i Zoom som INTE påverkar integreringen. Mer information om dessa fält finns i hjälpcentret [för](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar) Zoom Webinar.
+>Det finns ytterligare fält som du konfigurerar i Zoom som INTE påverkar integreringen. Mer information om dessa fält finns i [Zoom Webinar Help Center](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar).
 
 Nu går vi till Marketo!
 
@@ -66,7 +66,7 @@ Nu går vi till Marketo!
    >
    >Kanaltypen för den valda händelsen måste vara **webbinarium**.
 
-1. Välj **Zooma** i listan **Event** **Partner** .
+1. Välj **Zooma** i **Event** **Partner**-listan.
 
    ![](assets/eventsettings1.png)
 
@@ -92,9 +92,9 @@ Nu går vi till Marketo!
    >
    >Om du vill fylla i bekräftelsemeddelandet med den här unika URL-adressen använder du följande token i e-postmeddelandet: `{{member.webinar url}}`. När bekräftelse-URL:en skickas, tolkas denna token automatiskt till personens unika bekräftelse-URL.
    >
-   >Ange bekräftelsemeddelandet till **Operational** för att säkerställa att personer som registrerar sig och kan avbeställa prenumerationen fortfarande får sin bekräftelseinformation.
+   >Ange din bekräftelse via e-post till **Operational** för att säkerställa att personer som registrerar sig och kan avbeställa prenumerationen fortfarande får sin bekräftelseinformation.
 
-   Personer som registrerar sig för ditt webbinarium kommer att pushas till din webbinarileverantör via flödessteget **Ändra programstatus** när den nya statusen är inställd på&quot;Registrerad&quot;. Ingen annan status kommer att föra personen över. Se även till att flödesteget **Ändra programstatus** är steg 1 och att **skicka e-post** steg 2.
+   Personer som registrerar sig för ditt webbinarium kommer att pushas till din webbinarileverantör via flödessteget **Ändra programstatus** när Ny status är inställd på &quot;Registrerad&quot;. Ingen annan status kommer att föra personen över. Se även till att flödesteget **Ändra programstatus** är 1 och **Skicka e-post** flödessteg 2.
 
    ![](assets/goto-webinar-1.png)
 
@@ -104,4 +104,4 @@ Nu går vi till Marketo!
 
    >[!TIP]
    >
-   >Det kan ta upp till 48 timmar innan data visas i Marketo. Om du fortfarande inte ser något efter att ha väntat så länge väljer du **Uppdatera från webbinariet Provider** på menyn Händelseåtgärder på fliken **Sammanfattning** i händelsen.
+   >Det kan ta upp till 48 timmar innan data visas i Marketo. Om du fortfarande inte ser något efter att ha väntat så länge väljer du **Uppdatera från webbinariet Provider** på menyn Händelseåtgärder på fliken **Sammanfattning** för din händelse.
