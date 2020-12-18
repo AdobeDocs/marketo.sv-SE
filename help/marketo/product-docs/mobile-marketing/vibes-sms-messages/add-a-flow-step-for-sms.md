@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Marketo har tre flödessteg som du kan använda i SMS-smarta kampanjer:
 
-* **Skicka SMS-meddelande** - Den här flödesåtgärden skickar meddelanden till personer från Marketo-smartlistan som prenumererar på en användarvald Vibes-prenumerationslista. Det initierar inte prenumerationsprocessen.
-* **Prenumerera på Vibes-lista** - Den här flödesåtgärden initierar SMS-prenumerationsprocessen via en av användaren vald Vibes Acquisition Campaign. Vibes skickar sedan ett bekräftelsemeddelande; mottagaren måste svara för att slutföra prenumerationsprocessen.
-* **Avbeställ utskick** - Den här flödesåtgärden avbryter prenumeration på varje person från en användarvald Vibes-prenumerationslista.
+* **Skicka SMS-meddelande**  - Den här flödesåtgärden skickar meddelanden till personer från Marketo-smartlistan som prenumererar på en användarvald Vibes-prenumerationslista. Det initierar inte prenumerationsprocessen.
+* **Prenumerera på Vibes List**  - Den här flödesåtgärden initierar SMS-prenumerationsprocessen via en av användaren vald Vibes Acquisition Campaign. Vibes skickar sedan ett bekräftelsemeddelande; mottagaren måste svara för att slutföra prenumerationsprocessen.
+* **Avbeställ Vibes List** - Denna flödesåtgärd avslutar prenumerationen för varje person i en användarvald Vibes-prenumerationslista.
 
 >[!NOTE]
 >
@@ -38,7 +38,7 @@ Här är grunderna för hur du använder SMS.
 
    ![](assets/image2016-7-28-11-3a41-3a17.png)
 
-1. Hitta den smarta kampanj som du vill lägga till SMS-flödet i. Klicka på fliken **Flöde** .
+1. Hitta den smarta kampanj som du vill lägga till SMS-flödet i. Klicka på fliken **Flöde**.
 
    ![](assets/image2016-7-28-11-3a43-3a41.png)
 
@@ -51,5 +51,5 @@ Här är grunderna för hur du använder SMS.
    >Väljaren Vibes-lista fungerar som ett ytterligare filter för den målgrupp som redan identifierats i den smarta listan så att den endast riktar sig till de leads som tillhör den listan.
    >
    >
-   >För flödena **Prenumerera på Vibes List** och **Avbeställ från Vibes List** finns olika krav. För **Prenumerera** måste du välja listan Vibes och kampanjen Vibes. För **Avbeställ** krävs bara listan Vibes.
+   >**Prenumerera på Vibes List** och **Avbeställ Vibes List** har olika krav. För **prenumerera** måste du välja listan Vibes och kampanjen för förvärv av Vibes. För **Unsubscribe** krävs bara listan Vibes.
 
