@@ -17,7 +17,7 @@ Landningssidor är i utkastläge tills du godkänner dem. Godkännande gör sido
 
 ## Godkänn en landningssida {#approve-a-landing-page}
 
-1. Välj en landningssida, gå till Åtgärder för **landningssida** och klicka på **Godkänn**.
+1. Välj en landningssida, gå till **Åtgärder för landningssida** och klicka på **Godkänn**.
 
    >[!TIP]
    >
@@ -37,21 +37,21 @@ Landningssidor är i utkastläge tills du godkänner dem. Godkännande gör sido
    >När landningssidans ikon har godkänts är den grön.
 
 1. Avgodkänna en landningssida
-1. Välj en landningssida, gå till Åtgärder för **landningssida** och klicka på **Ogodkänd**.
+1. Välj en landningssida, gå till **Åtgärder för landningssida** och klicka på **Ogodkänd**.
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
 
-1. Du kan också högerklicka på landningssidan och klicka på **Ogodkänd**.
+1. Du kan också högerklicka på landningssidan och klicka på **Avgodkänn**.
 
    ![](assets/image2014-9-16-15-3a31-3a34.png)
 
 >[!NOTE]
 >
->Den ej godkända landningssidan publiceras inte längre på webben och genererar ingen ytterligare aktivitet. Besökare som inte godkänt landningssidor och deras Facebook-flikar ser [reservsidan](../../../../product-docs/administration/settings/set-a-fallback-page.md).
+>Den ej godkända landningssidan publiceras inte längre på webben och genererar ingen ytterligare aktivitet. Besökare på icke godkända landningssidor och deras Facebook-flikar ser [återställningssidan](../../../../product-docs/administration/settings/set-a-fallback-page.md).
 
 ## Ta bort en landningssida {#delete-a-landing-page}
 
-1. Välj en landningssida, gå till Åtgärder för **landningssida** och klicka på **Ta bort**.
+1. Välj en landningssida, gå till **Åtgärder för landningssida** och klicka på **Ta bort**.
 
    ![](assets/image2014-9-16-15-3a49-3a59.png)
 
@@ -67,7 +67,7 @@ Landningssidor är i utkastläge tills du godkänner dem. Godkännande gör sido
 
 Vill du ta bort mer än en landningssida åt gången? Så här gör du.
 
-1. Klicka på **landningssidor** i Design Studio.
+1. I Design Studio klickar du på **landningssidor**.
 
    ![](assets/one.png)
 
@@ -79,7 +79,7 @@ Vill du ta bort mer än en landningssida åt gången? Så här gör du.
    >
    >Du kan också använda Ctrl-klicka för att ta bort flera landningssidor som inte är sekventiella.
 
-1. Klicka på listrutan Åtgärder för **landningssida** och välj **Ta bort**.
+1. Klicka på listrutan **Åtgärder för landningssida** och välj **Ta bort**.
 
    ![](assets/three.png)
 
