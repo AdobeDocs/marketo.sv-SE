@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Lägga till ett formulär på en landningssida med stödlinjer {#add-a-form-to-a-guided-landing-page}
+# Lägg till ett formulär på en guidad landningssida {#add-a-form-to-a-guided-landing-page}
 
 Blankett, möt landningssidan. Landningssida, möt formulär.
 
@@ -23,11 +23,11 @@ Blankett, möt landningssidan. Landningssida, möt formulär.
 
 
 
-1. Gå till området **Marknadsföringsaktiviteter** .
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/one.png)
 
-1. Hitta och välj landningssida och klicka på **Redigera utkast**.
+1. Leta reda på och markera landningssidan och klicka på **Redigera utkast**.
 
    ![](assets/two.png)
 
