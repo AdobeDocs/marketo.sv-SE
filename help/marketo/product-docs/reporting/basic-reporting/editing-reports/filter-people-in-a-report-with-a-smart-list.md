@@ -28,11 +28,11 @@ Du kan använda smarta listor med följande rapporttyper:
 * [Företagets webbaktivitet](../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [Webbsidesaktivitet](../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
-1. Gå till området **Marknadsföringsaktiviteter** .
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/image2017-3-27-11-3a31-3a2.png)
 
-1. Välj rapporten i navigeringsträdet och klicka på fliken **Smart lista** .
+1. Välj din rapport i navigeringsträdet och klicka på fliken **Smart lista**.
 
    ![](assets/image2017-3-27-14-3a12-3a53.png)
 
@@ -55,5 +55,5 @@ Du kan använda smarta listor med följande rapporttyper:
    >**Djupdykning**
    >
    >
-   >Mer information om hur du använder rapporter finns i djupdykningen för [grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting) .
+   >Mer information om hur du använder rapporter finns i djupdykningen [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
 
