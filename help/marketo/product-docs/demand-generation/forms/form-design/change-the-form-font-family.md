@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ändra teckensnittsfamilj för formulär {#change-the-form-font-family}
+# Ändra formulärteckensnittsfamiljen {#change-the-form-font-family}
 
 Google Fonts är grymt och vi har byggt in dem direkt i formulärredigeraren. Kolla in den!
 
@@ -19,23 +19,23 @@ Google Fonts är grymt och vi har byggt in dem direkt i formulärredigeraren. Ko
 >
 >Den här inställningen påverkar formuläretiketten, indatatexten och eventuell RTF-text.
 
-1. Gå till **Marknadsföringsaktiviteter** och **aktiviteter**.
+1. Gå till **Marknadsföring** **Aktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Markera formuläret och klicka på **Redigera** **formulär**.
+1. Markera formuläret och klicka på **Redigera** **Formulär**.
 
    ![](assets/image2014-9-15-15-3a47-3a27.png)
 
-1. Under **Formulärinställningar** **väljer du** Inställningar ****.
+1. Under **Formulär** **Inställningar** väljer du **Inställningar**.
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
-1. Välj den **teckensnittsfamilj** du vill ha.
+1. Välj den **teckensnittsfamilj** du vill använda.
 
    >[!TIP]
    >
-   >Det finns en mängd [Google Fonts](http://www.google.com/fonts) att använda.
+   >En hög med [Google Fonts](http://www.google.com/fonts) är tillgängliga för användning.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
