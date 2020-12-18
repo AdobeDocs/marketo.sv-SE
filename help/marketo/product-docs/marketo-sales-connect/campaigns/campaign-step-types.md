@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Typer av kampanjsteg {#campaign-step-types}
+# Typ av kampanjsteg {#campaign-step-types}
 
 När du lägger till ett steg till kampanjen har du fyra alternativ.
 
@@ -33,7 +33,7 @@ Skapa ett nytt e-postmeddelande eller använd en befintlig mall.
 >
 >Lär dig mer om dina [sändningsalternativ](http://docs.marketo.com/x/7QDb).
 
-## Utlysning {#call}
+## Ring {#call}
 
 Ställ in en påminnelse om att följa upp med en kontakt via telefon. Du kan också spara anteckningar som ska användas som ett röstspår under samtalet.
 
