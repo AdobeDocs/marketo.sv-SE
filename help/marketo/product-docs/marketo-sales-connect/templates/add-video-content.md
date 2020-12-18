@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Det går tyvärr inte att lägga till videoinnehåll i en mall och spela upp det online i det skickade meddelandet just nu.
 
-Du kan emellertid infoga en textbunden bild (GIF-bilder ingår) i mallarna genom att klicka på knappen **Infoga bild** . Ett förslag är att infoga en stillbild av den avsedda videon och sedan göra den klickbar genom att markera den och klicka på hyperlänksikonen för att ange video-URL:en.
+Du kan emellertid infoga en textbunden bild (GIF-bilder ingår) i mallarna genom att klicka på knappen **Infoga bild**. Ett förslag är att infoga en stillbild av den avsedda videon och sedan göra den klickbar genom att markera den och klicka på hyperlänksikonen för att ange video-URL:en.
