@@ -17,7 +17,7 @@ Följ de här stegen för att skapa en rapport om personprestanda med mobila pla
 
 ## Skapa smarta mobillistor {#create-mobile-smart-lists}
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/ma.png)
 
@@ -41,7 +41,7 @@ Följ de här stegen för att skapa en rapport om personprestanda med mobila pla
 
    ![](assets/six-1.png)
 
-1. Ange att e-post **är valfri**.
+1. Ange e-postadress till **är valfri**.
 
    ![](assets/seven.png)
 
@@ -53,7 +53,7 @@ Följ de här stegen för att skapa en rapport om personprestanda med mobila pla
    >
    >Vi använde filtret Öppen e-post i det här exemplet. Du kan också använda det klickade e-postfiltret på samma sätt som det har plattformsbegränsningen.
 
-1. Ange Platform som **iOS**.
+1. Ställ in plattformen på **iOS**.
 
    ![](assets/nine.png)
 
@@ -65,7 +65,7 @@ Följ de här stegen för att skapa en rapport om personprestanda med mobila pla
 
 ## Skapa en rapport om personprestanda {#create-a-people-performance-report}
 
-1. Under Marknadsföringsaktiviteter väljer du det program som innehåller **smarta listor för iOS** och **Android** .
+1. Under Marknadsföringsaktiviteter väljer du det program som innehåller de smarta listorna **iOS** och **Android**.
 
    ![](assets/ten.png)
 
@@ -77,7 +77,7 @@ Följ de här stegen för att skapa en rapport om personprestanda med mobila pla
 
    ![](assets/twelve.png)
 
-1. Ange Typ till **personprestanda**.
+1. Ange typen till **Personprestanda**.
 
    ![](assets/thirteen.png)
 
@@ -89,7 +89,7 @@ Följ de här stegen för att skapa en rapport om personprestanda med mobila pla
 
 ## Lägg till smarta mobillistor som kolumner {#add-mobile-smart-lists-as-columns}
 
-1. I den rapport du just skapade klickar du på **Konfigurera** och drar sedan **Anpassade kolumner** till arbetsytan.
+1. Klicka på **Inställningar** i den rapport du just skapade och dra sedan **Anpassade kolumner** till arbetsytan.
 
    ![](assets/fifteen.png)
 
