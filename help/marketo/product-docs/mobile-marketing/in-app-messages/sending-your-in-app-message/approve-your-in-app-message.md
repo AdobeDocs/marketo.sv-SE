@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Du måste godkänna sändningen innan meddelandet i appen skickas.
 
-1. Om allt ser bra ut klickar du på **Godkänn och Starta**.
+1. Om allt ser bra ut klickar du på **Godkänn och starta**.
 
    ![](assets/pasted-image-at-2016-05-31-02-08-pm-281-29.png)
 
@@ -41,7 +41,7 @@ Du måste godkänna sändningen innan meddelandet i appen skickas.
 
    Du kan pausa eller stoppa ett aktivt program, men det är stor skillnad mellan dessa två alternativ.
 
-1. Klicka på **Pausa program** om du behöver stoppa programmet en stund men återuppta det senare. Det ändras till **Pausad** status.
+1. Klicka på **Paus Program** om du behöver stoppa programmet en stund men återuppta det senare. Den ändras till **Pausad** status.
 
    ![](assets/image2016-5-12-13-3a50-3a26.png)
 
@@ -49,7 +49,7 @@ Du måste godkänna sändningen innan meddelandet i appen skickas.
    >
    >Orsaker till att pausa kan vara att stoppa det en stund eller om du vill ändra meddelandet eller justera schemat. Du kan dock inte ändra till ett annat meddelande, bara redigera det befintliga.
 
-1. När du vill att det pausade programmet ska fortsätta att köras klickar du på **Återuppta** **program**.
+1. När du vill att det pausade programmet ska fortsätta att köras klickar du på **Fortsätt** **Program**.
 
    ![](assets/image2016-5-24-13-3a26-3a43.png)
 
@@ -65,7 +65,7 @@ Du måste godkänna sändningen innan meddelandet i appen skickas.
 
    >[!NOTE]
    >
-   >När du stoppar ett program körs det inte längre och kan inte återupptas. Om du vill köra det igen måste du bygga om det. Se till att du är klar med programmet innan du klickar på **Stoppa program**!
+   >När du stoppar ett program körs det inte längre och kan inte återupptas. Om du vill köra det igen måste du bygga om det. Se till att du är klar med ett program innan du klickar på **Stoppa program**!
 
 ## Instrumentpanel i appen {#in-app-dashboard}
 
