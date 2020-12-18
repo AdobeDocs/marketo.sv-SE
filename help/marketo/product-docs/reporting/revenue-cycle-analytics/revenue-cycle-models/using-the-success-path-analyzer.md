@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Använda sökvägsanalysen {#using-the-success-path-analyzer}
 
-Använd en Success Path Analyzer för att utforska de specifika detaljer som återspeglar både flöde (mängd) och hastighet (hastighet, i antal dagar) för människor genom faserna i [intäktscykelmodellen](understanding-revenue-models.md).
+Använd en Success Path Analyzer för att utforska de specifika detaljer som återspeglar både flöde (mängd) och hastighet (hastighet, uttryckt i dagar) för personer genom stegen i din [intäktscykelmodell](understanding-revenue-models.md).
 
 >[!PREREQUISITES]
 >
@@ -37,11 +37,11 @@ Använd en Success Path Analyzer för att utforska de specifika detaljer som åt
 
    ![](assets/image2015-6-12-17-3a39-3a15.png)
 
-1. Välj **Från** -datumet för jämförelseperioden.
+1. Välj datumet **Från** för jämförelseperioden.
 
    ![](assets/image2015-6-12-17-3a43-3a49.png)
 
-   Till- **datumet** ställs automatiskt in så att det matchar den ursprungliga tidsperiodens längd.
+   Datumet **Till** ställs automatiskt in så att det matchar den ursprungliga tidsperiodens längd.
 
 1. Klicka på **Jämför**.
 
@@ -51,7 +51,7 @@ Använd en Success Path Analyzer för att utforska de specifika detaljer som åt
 
    ![](assets/image2015-6-12-17-3a46-3a16.png)
 
-1. Om du vill ändra tidsskalan för diagrammet klickar du på någon av **diagramknapparna** : varje dag (standard), varje vecka och varje månad
+1. Om du vill ändra tidsskalan för diagrammet klickar du på någon av knapparna **Diagram med**: varje dag (standard), varje vecka och varje månad
 
    ![](assets/image2015-6-12-17-3a46-3a55.png)
 
@@ -63,9 +63,9 @@ Använd en Success Path Analyzer för att utforska de specifika detaljer som åt
 
    ![](assets/image2015-6-12-17-3a50-3a16.png)
 
-   De personer som visas med orange kanske *eller inte* fortfarande befinner sig i SLA-scenen.
+   Personerna som visas med orange kan vara *eller inte* fortfarande vara i SLA-scenen.
 
-1. Klicka på **Diagrammakron** >** Visa SLA förfallen** för att visa alla personer med utgångna SLA-mål som fortfarande befinner sig i SLA-stadiet vid slutet av den angivna tidsperioden.
+1. Klicka på **Diagramåtgärder** >** Visa SLA-förfallodatum** för att visa alla personer med utgångna SLA-mål som fortfarande befinner sig i SLA-stadiet i slutet av den angivna tidsperioden.
 
    ![](assets/image2015-6-12-17-3a51-3a39.png)
 
