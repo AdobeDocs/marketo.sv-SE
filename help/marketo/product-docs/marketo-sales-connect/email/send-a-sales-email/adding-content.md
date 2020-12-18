@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Om du vill lägga till spårbart innehåll i dina e-postmeddelanden öppnar du ett nytt Compose-fönster. Klicka på **Innehåll**.
 
-Om du redan har lagt till innehåll visas dessa filer. Om du inte gör det klickar du på **Överför** för att lägga till innehåll från datorn.
+Om du redan har lagt till innehåll visas dessa filer. Om inte klickar du på **Överför** för att lägga till innehåll från datorn.
 
 >[!NOTE]
 >
