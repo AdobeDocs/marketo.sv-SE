@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Lägg till underdomäner i kontoinställningar {#add-subdomains-in-account-settings}
+# Lägg till underdomäner i kontoinställningarna {#add-subdomains-in-account-settings}
 
 Så här lägger du till underdomäner i dina primära domäner i Kontoinställningar. På så sätt kan du hantera underdomäner som är relaterade till det specifika RTP Javascript-skriptet för din primära domän. Du bör distribuera Javascript-taggen till alla tillagda underdomäner.
 
@@ -37,5 +37,5 @@ Så här lägger du till underdomäner i dina primära domäner i Kontoinställn
 
    >[!NOTE]
    >
-   >Om du vill lägga till *primära* domäner i ditt konto kontaktar du [Marketo Support](http://docs.marketo.com/cdn-cgi/l/email-protection#5e2d2b2e2e312c2a1e333f2c353b2a31703d3133).
+   >Om du vill lägga till *primära* domäner för ditt konto kontaktar du [Marketo Support](http://docs.marketo.com/cdn-cgi/l/email-protection#5e2d2b2e2e312c2a1e333f2c353b2a31703d3133).
 
