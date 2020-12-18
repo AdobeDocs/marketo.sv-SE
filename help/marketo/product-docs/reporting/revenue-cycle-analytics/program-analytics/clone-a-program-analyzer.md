@@ -19,7 +19,7 @@ När du har sparat en analyserare är det enkelt att klona den och skapa en ny. 
 
    ![](assets/2017-05-01-08-20-37.png)
 
-1. Klicka på **programanalysrutan** .
+1. Klicka på **programanalysrutan**.
 
    ![](assets/program-analyzer-icon-hand.png)
 
@@ -27,7 +27,7 @@ När du har sparat en analyserare är det enkelt att klona den och skapa en ny. 
 
    ![](assets/image2016-10-31-16-3a12-3a6.png)
 
-1. Välj plats för den klonade analyseraren i listrutorna **Klona till** och **Mapp** .
+1. Välj plats för den klonade analyseraren i listrutorna **Klona till** och **Mapp**.
 
    ![](assets/image2016-10-31-16-3a13-3a42.png)
 
