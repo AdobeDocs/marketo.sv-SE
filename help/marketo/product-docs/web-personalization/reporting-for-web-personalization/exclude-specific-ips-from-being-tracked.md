@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Undanta specifika IP-adresser från spårning {#exclude-specific-ips-from-being-tracked}
+# Undanta specifika IP-adresser från att spåras {#exclude-specific-ips-from-being-tracked}
 
 Har du någonsin velat utesluta egna medarbetare och företagsnamn från spårningen och rapporteringen i Webbpersonalisering?
 
@@ -21,15 +21,15 @@ Du kan utesluta enskilda IP-adresser och hela eller delar av ett intervall med I
 >
 >Den här processen kan ta upp till fem minuter att slutföra.
 
-1. Logga in på Webbanpassning och klicka på **Kontoinställningar** under din inloggning.
+1. Logga in på Webbpersonalisering och klicka på **Kontoinställningar** under din inloggning.
 
    ![](assets/image2014-11-19-19-3a25-3a41.png)
 
-1. Bläddra ned till området för **IP-undantag** . Om du exkluderar IP-adresser för första gången klickar du i det tomma fältet **Uteslut IP-adresser** .
+1. Bläddra ned till området **IP exclude**. Om du exkluderar IP-adresser för första gången klickar du i det tomma fältet **Uteslut IP-adresser**.
 
    ![](assets/image2016-11-4-10-3a27-3a1.png)
 
-1. Ange de enskilda IP-adresserna eller IP-intervallen som du vill utesluta från spårning och rapportering och klicka på **Spara**.
+1. Ange de enskilda IP-adresserna eller IP-intervallen som du vill utesluta från spårning och rapportering och klicka sedan på **Spara**.
 
    ![](assets/exclude-ips-form-hands.png)
 
