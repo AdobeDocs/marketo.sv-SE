@@ -17,13 +17,13 @@ ht-degree: 0%
 >
 >[Gör en kampanj synlig för säljare](http://docs.marketo.com/x/NwDh)
 
-## Lägg till enskilda personer i en kampanj {#add-individuals-to-a-campaign}
+## Lägg till enskilda i en kampanj {#add-individuals-to-a-campaign}
 
 >[!NOTE]
 >
 >Om du vill lägga till en person i en Marketo Campaign från Sales Connect måste Sales Connect ha personens Marketo lead-ID. [Lär dig hur du hämtar Marketo ID:n här](http://docs.marketo.com/x/CQXLAQ).
 
-1. Klicka på fliken **Personer** .
+1. Klicka på fliken **Personer**.
 
    ![](assets/one-3.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/three-3.png)
 
-1. Klicka på **Lägg till markerade i kampanj**.
+1. Klicka på **Lägg till markerat i kampanj**.
 
    ![](assets/four-3.png)
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 ## Lägg till en grupp i en kampanj {#add-a-group-to-a-campaign}
 
-1. Klicka på fliken **Personer** .
+1. Klicka på fliken **Personer**.
 
    ![](assets/one-3.png)
 
