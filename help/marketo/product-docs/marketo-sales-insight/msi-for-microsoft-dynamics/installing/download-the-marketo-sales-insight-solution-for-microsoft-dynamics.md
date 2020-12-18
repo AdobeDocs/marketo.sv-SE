@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Du måste hämta och installera en Marketo-lösning för Sales Insight på ditt Microsoft Dynamics-konto för att komma igång med synkroniseringen.
 
-1. Gå till området **Admin** .
+1. Gå till området **Admin**.
 
    ![](assets/mainnavhand.png)
 
