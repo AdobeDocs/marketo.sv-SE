@@ -19,7 +19,7 @@ Kampanjer kan bara delas om de är synliga. Så här gör du.
 
    ![](assets/one.png)
 
-1. Klicka på fliken **Smart lista** .
+1. Klicka på fliken **Smart lista**.
 
    ![](assets/two.png)
 
@@ -27,11 +27,11 @@ Kampanjer kan bara delas om de är synliga. Så här gör du.
 
    ![](assets/three.png)
 
-1. För källa väljer du &quot;is&quot; **Web Service API**.
+1. För källa väljer du &quot;is&quot; **API för webbtjänst**.
 
    ![](assets/4.png)
 
-1. Klicka på fliken **Flöde** .
+1. Klicka på fliken **Flöde**.
 
    ![](assets/five.png)
 
@@ -47,7 +47,7 @@ Kampanjer kan bara delas om de är synliga. Så här gör du.
 
    ![](assets/eight.png)
 
-1. Klicka på fliken **Schemalägg** och **aktivera** kampanjen.
+1. Klicka på fliken **Schedule** och **Aktivera** kampanjen.
 
    ![](assets/nine.png)
 
