@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Implementera RTP med Google Tag Manager {#implementing-rtp-using-google-tag-manager}
 
-För att implementera RTP `tag please` följer du installationsanvisningarna nedan.
+Följ installationsanvisningarna nedan för att implementera RTP `tag please`.
 
 1. Logga in på ditt Google Tag Manager-konto.
 
-1. Lägg till en ny tagg > Taggkonfigurationer > Anpassad HTML-tagg**.** Kalla det **RTP**.
+1. Lägg till en ny tagg > Taggkonfigurationer > Anpassad HTML-tagg**.** Ring det **RTP**.
 
 1. Logga in på ditt RTP-konto**.**
 
@@ -33,13 +33,13 @@ För att implementera RTP `tag please` följer du installationsanvisningarna ned
 
    **
 
-1. Kopiera JavaScript-taggen RTP och klistra in den i den nya **anpassade HTML-taggen** som du skapade (steg 1).
+1. Kopiera RTP JavaScript-taggen och klistra in den i den nya **anpassade HTML-taggen** som du skapade (steg 1).
 
-1. Klicka på **+Lägg till regel i Fire Tag**. Markera **alla sidor**.
+1. Klicka på **+Lägg till regel i Fire Tag**. Välj **Alla sidor**.
 
 1. Klicka på **Spara **och [publicera den nya versionen](https://support.google.com/tagmanager/answer/2699097?hl=en).
 
 1. Kontrollera att den visas på alla `pages, including` landningssidor och underdomäner.
 
-   1. Du kan göra detta genom att högerklicka på din `website’s` sida. Gå till **Inspect Element. **Sök efter **RTP **för att hitta taggen.
+   1. Du kan göra detta genom att högerklicka på din `website’s`-sida. Gå till **Inspect Element. **Sök efter **RTP **för att hitta taggen.
 
