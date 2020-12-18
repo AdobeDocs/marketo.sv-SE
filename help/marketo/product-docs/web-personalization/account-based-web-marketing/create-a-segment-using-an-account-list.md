@@ -27,11 +27,11 @@ Så här skapar du ett segment med hjälp av en kontolista.
 
    ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
 
-1. Klicka på **Skapa nytt**.
+1. Klicka på **Skapa ny**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
-1. Ange ett namn för segmentet. Dra och släpp **kontolistor** från delen **Firmographics** .
+1. Ange ett namn för segmentet. Dra och släpp **Kontolistor** från avsnittet **Firmographics**.
 
    ![](assets/set-segment-hands.jpg)
 
