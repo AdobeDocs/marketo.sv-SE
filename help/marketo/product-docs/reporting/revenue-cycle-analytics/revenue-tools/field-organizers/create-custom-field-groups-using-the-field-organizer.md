@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Skapa anpassade fältgrupper med fältorganiseraren {#create-custom-field-groups-using-the-field-organizer}
+# Skapa anpassade fältgrupper med hjälp av fältorganiseraren {#create-custom-field-groups-using-the-field-organizer}
 
 Innan du kan aktivera anpassade fältgrupper för rapportering i modellresultatanalysen (Leads) i intäktscykelutforskaren måste du kategorisera standardfält eller anpassade fält i grupper för rapportering via Fältorganiseraren i Marketo Lead Management. Detta gäller endast lead- och företagsattribut.
 När du väljer ett standardfält eller ett anpassat fält i listrutan Fält i dialogrutan Sorteraren i nytt fält mappas datatypen Marketo Lead Management som är associerad med fältet som du vill gruppera med en av tre tillgängliga redigerare i Fältsorteraren: sträng, heltal eller datum.
@@ -36,15 +36,15 @@ I följande tre avsnitt beskrivs hur du skapar en anpassad fältgrupp för en st
 
 ## Skapa anpassad fältgrupp - Strängredigeraren {#create-custom-field-group-string-editor}
 
-1. Klicka på **Lead-databas**.
+1. Klicka på **Leaddatabas**.
 
    ![](assets/one.png)
 
-1. Klicka på **Nytt** och välj **Ny fältorganisatör**.
+1. Klicka på **Ny** och välj **Ny fältorganisatör**.
 
    ![](assets/two.png)
 
-1. Klicka på **Fält** och välj ett standardfält eller ett anpassat fält med en datatyp som mappar till strängredigeraren (se tabellen i föregående avsnitt). Land används här.
+1. Klicka på **Fält** och välj ett standardfält eller anpassat fält med en datatyp som mappar till strängredigeraren (se tabellen i föregående avsnitt). Land används här.
 
    ![](assets/three.png)
 
@@ -92,15 +92,15 @@ I följande tre avsnitt beskrivs hur du skapar en anpassad fältgrupp för en st
 
 ## Skapa anpassad fältgrupp - heltalsredigerare {#create-custom-field-group-integer-editor}
 
-1. Klicka på **Lead-databas**.
+1. Klicka på **Leaddatabas**.
 
    ![](assets/one.png)
 
-1. Klicka på **Nytt** och välj **Ny fältorganisatör**.
+1. Klicka på **Ny** och välj **Ny fältorganisatör**.
 
    ![](assets/two.png)
 
-1. Klicka på **Fält** och välj ett standardfält eller ett anpassat fält med en datatyp som mappar till strängredigeraren (se tabellen i föregående avsnitt). Årsintäkt används här.
+1. Klicka på **Fält** och välj ett standardfält eller anpassat fält med en datatyp som mappar till strängredigeraren (se tabellen i föregående avsnitt). Årsintäkt används här.
 
    ![](assets/nine.png)
 
@@ -144,17 +144,17 @@ I följande tre avsnitt beskrivs hur du skapar en anpassad fältgrupp för en st
    >
    >När grupperna har definierats kan du aktivera den anpassade fältgruppen för rapportering i Model Performance Analysis (Leads) via fliken Revenue Cycle Analytics i Marketo Lead Management.
 
-## Skapa anpassad fältgrupp - datumredigerare {#create-custom-field-group-date-editor}
+## Skapa anpassad fältgrupp - datumredigeraren {#create-custom-field-group-date-editor}
 
-1. Klicka på **Lead-databas**.
+1. Klicka på **Leaddatabas**.
 
    ![](assets/one.png)
 
-1. Klicka på **Nytt** och välj **Ny fältorganisatör**.
+1. Klicka på **Ny** och välj **Ny fältorganisatör**.
 
    ![](assets/two.png)
 
-1. Klicka på **Fält** och välj ett standardfält eller ett anpassat fält med en datatyp som mappar till strängredigeraren (se tabellen i föregående avsnitt). Anskaffningsdatum används här.
+1. Klicka på **Fält** och välj ett standardfält eller anpassat fält med en datatyp som mappar till strängredigeraren (se tabellen i föregående avsnitt). Anskaffningsdatum används här.
 
    ![](assets/fourteen.png)
 
