@@ -23,7 +23,7 @@ När du har visat en rapport lagrar Marketo den i databasen så att den läses i
 
    ![](assets/two.png)
 
-1. Du kan också uppdatera rapporten genom att klicka på **rapportåtgärder** -menyn och välja **Uppdatera rapport**.
+1. Du kan också uppdatera rapporten genom att klicka på menyn **Rapportåtgärder** och välja **Uppdatera rapport**.
 
    ![](assets/three.png)
 
