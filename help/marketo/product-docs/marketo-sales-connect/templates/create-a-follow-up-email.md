@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Skapa ett uppföljnings-e-postmeddelande {#create-a-follow-up-email}
+# Skapa ett uppföljningsmeddelande {#create-a-follow-up-email}
 
-Med funktionen [Campaigns](http://docs.marketo.com/display/TEST/Campaigns) från Sales Connect är det enkelt att skapa ett uppföljningsmejl.
+Med funktionen [Campaigns](http://docs.marketo.com/display/TEST/Campaigns) hos Sales Connect är det enkelt att skapa ett uppföljningsmejl.
 
 På fliken **Konfigurera** i kampanjen markerar du kryssrutan för att skapa ett e-postmeddelande som en uppföljning, som automatiskt kopplar ditt tidigare e-postmeddelande till nästa e-postmeddelande i kampanjen.
 
