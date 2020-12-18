@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Översikt över avancerad programrapportering {#advanced-program-reporting-overview}
 
-**Inkomstcykeln Explorer** innehåller flera analysområden och en mängd nya mätvärden som gör att du kan mäta programmets effektivitet.
+**Inkomstcykeln** Explorerinnehåller flera analysområden och en mängd nya mätvärden som gör att du kan mäta programmets effektivitet.
 
 ![](assets/rev.png)
 
@@ -27,19 +27,19 @@ Analysområden innehåller olika datauppsättningar och mätvärden i Intresseut
 
 ## Programanalysområden {#program-analysis-areas}
 
-* ** [Kostnadsanalys](understanding-the-program-cost-analysis-area.md) **- Se avkastningen för alla program.
+* ** [Programkostnadsanalys](understanding-the-program-cost-analysis-area.md) **- Se avkastningen för alla program.
 
-* ** [Analys](understanding-the-program-membership-analysis-area.md) av programmedlemskap **- Se resultat per kanal, deltagande, kriterier för framgång osv.
+* ** [Analys av programmedlemskap](understanding-the-program-membership-analysis-area.md) **- Se resultat per kanal, deltagande, kriterier för lyckade försök osv.
 
-* ** [Analys](understanding-the-program-opportunity-analysis-area.md) av affärsmöjligheter **- Affärsmöjligheter som genereras baserat på fördelning, intäkter och avkastning.
+* ** [Analys av affärsmöjligheter](understanding-the-program-opportunity-analysis-area.md) **- Affärsmöjligheter som genereras baserat på fördelning, intäkter och avkastning.
 
-* ** [Scenanalys](understanding-the-program-revenue-stage-analysis-area.md) för programintäkter **- Nya namn som har nått vissa framgångar i er intäktscykelmodell.
+* ** [Analys av programinkomststadium](understanding-the-program-revenue-stage-analysis-area.md) **- Nya namn som har nått vissa framgångsfaser i intäktscykelmodellen.
 
 ## Programanalytiker {#program-analyzers}
 
-* **Program Analyzer** - Identifiera snabbt program som är framgångsrika eller inte och fokusera resurserna på rätt sätt.
+* **Programanalys**  - Identifiera snabbt program som är framgångsrika eller inte och fokusera på resurserna på rätt sätt.
 
-* **Affärsmöjlighetsanalys** - Bevisa marknadsföringens bidrag genom att mäta effekten av program och viktiga engagemang som genererade möjligheter.
+* **Affärsmöjlighetsanalys**  - Bevisa marknadsföringens bidrag genom att mäta effekten av program och viktiga engagemang som genererade möjligheter.
 
 ## Rapportalternativ {#report-options}
 
