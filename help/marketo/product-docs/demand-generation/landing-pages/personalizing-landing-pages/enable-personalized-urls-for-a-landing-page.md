@@ -27,7 +27,7 @@ Personaliserade URL:er passar utmärkt för e-postkampanjer i tryck.
 
    ![](assets/image2014-9-18-13-3a24-3a3.png)
 
-1. Nu kan du markera **Aktivera anpassade URL:er** och klicka på **Spara**.
+1. Nu kan du kontrollera **Aktivera anpassade URL:er** och klicka på **Spara**.
 
    ![](assets/image2014-9-18-13-3a23-3a53.png)
 
