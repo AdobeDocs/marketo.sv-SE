@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Lägga till en FieldSet i ett formulär {#add-a-fieldset-to-a-form}
+# Lägg till en FieldSet i ett formulär {#add-a-fieldset-to-a-form}
 
 Fältuppsättningar är coola. De grupperar en massa fält tillsammans. Du kan styra ett helt block samtidigt!
 
-1. Gå till **Marknadsföringsaktiviteter** och **aktiviteter**.
+1. Gå till **Marknadsföring** **Aktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Markera formuläret och klicka på **Redigera** **formulär**.
+1. Markera formuläret och klicka på **Redigera** **Formulär**.
 
    ![](assets/image2014-9-15-15-3a1-3a22.png)
 
-1. Klicka på **+** -tecknet och välj **Fältuppsättning**.
+1. Klicka på **+**-tecknet och välj **Fältuppsättning**.
 
    ![](assets/image2014-9-15-15-3a1-3a43.png)
 
@@ -31,7 +31,7 @@ Fältuppsättningar är coola. De grupperar en massa fält tillsammans. Du kan s
 
    ![](assets/image2014-9-15-15-3a2-3a0.png)
 
-1. Dra fälten du vill ha till **fältuppsättningen**.
+1. Dra fälten du vill använda till **fältuppsättningen**.
 
    ![](assets/image2014-9-15-15-3a2-3a13.png)
 
@@ -43,5 +43,5 @@ Där har du den!
 
 >[!TIP]
 >
->Du kan dynamiskt dölja/visa hela fältuppsättningen beroende på ett annat fält. Lär dig mer om [synlighetsregler](dynamically-toggle-visibility-of-a-form-field.md).
+>Du kan dynamiskt dölja/visa hela fältuppsättningen beroende på ett annat fält. Läs mer om [synlighetsregler](dynamically-toggle-visibility-of-a-form-field.md).
 
