@@ -34,4 +34,4 @@ När du har skapat ditt meddelande i appen är det dags att skicka det. Så här
 
    ![Bild fyra](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-4.png)
 
-Redo? Börja med [att sätta publiken](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md).
+Redo? Börja med [att ställa in målgruppen](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md).
