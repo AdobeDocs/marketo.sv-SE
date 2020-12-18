@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# E-postmeddelanden som kommer till skräppost {#emails-going-to-spam}
+# E-postmeddelanden som går till skräppost {#emails-going-to-spam}
 
 Vi arbetar mycket hårt för att säkerställa att våra leveransgrader förblir höga. Det finns dock vissa användarbeteenden som kan dirigera e-postmeddelanden till skräppostmappen.
 
