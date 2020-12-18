@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Du kan lägga till anpassade Marketo Sales Insight-flikar och knappar i Salesforce-vyn för enkel åtkomst. Intresserad? Så här gör du.
 
-## Lägga till markeringsfliken  {#adding-the-marketo-tab}
+## Lägger till markeringsfliken {#adding-the-marketo-tab}
 
 1. Klicka på** + **och klicka på **Anpassa mina flikar**.
 
    ![](assets/image2014-9-24-17-3a38-3a25.png)
 
-1. Välj Marketo i den vänstra listan. Klicka sedan på **Lägg** till för att lägga till den på de **markerade flikarna**.
+1. Välj Marketo i den vänstra listan. Klicka sedan på **Lägg till** för att lägga till den i **Valda flikar**.
 
    >[!TIP]
    >
-   >Använd **upp** - och **nedpilarna** för att ordna om tabbarna.
+   >Använd pilarna **Upp** och **Ned** för att ordna om flikarna.
 
    ![](assets/image2015-5-27-13-3a42-3a59.png)
 
@@ -33,21 +33,21 @@ Du kan lägga till anpassade Marketo Sales Insight-flikar och knappar i Salesfor
 
    ![](assets/three-1.png)
 
-## Lägga till markeringsknappar {#adding-marketo-buttons}
+## Lägger till markeringsknappar {#adding-marketo-buttons}
 
 Du kan lägga till Marketo-knappar i dina Salesforce-layouter. Här är ett exempel:
 
 ![](assets/image2015-5-26-17-3a7-3a18.png)
 
-1. Klicka på **Konfigurera**. Sök efter&quot;söklayout&quot; och klicka på **söklayouten** under **Leads**.
+1. Klicka på **Inställningar**. Sök efter &quot;söklayout&quot; och klicka på **söklayouterna** under **Leads**.
 
    ![](assets/image2015-5-26-14-3a59-3a53.png)
 
-1. Klicka på **Redigera** i **Radlista **rad.
+1. Klicka på **Redigera** i **Leads List View **row.
 
    ![](assets/image2015-5-26-16-3a7-3a24.png)
 
-1. Lägg till **Lägg till i Marketi Kampanj**, **Skicka Marketi-e-post** och **Lägg till i bevakningslista** till knapparna **Markerade knappar** och **Spara**.
+1. Lägg till **Lägg till i Marketo Campaign**, **Skicka markering till e-post** och **Lägg till i bevakningslista**-knappar i **Markerade knappar** och **Spara**.
 
    ![](assets/image2015-5-26-16-3a59-3a34.png)
 
