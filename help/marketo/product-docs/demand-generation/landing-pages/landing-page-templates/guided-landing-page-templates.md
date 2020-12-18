@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Guided Landing Page Templates {#guided-landing-page-templates}
 
-Bläddra i vår samling med exempelmallar, som du kan använda med [redigeraren](../../../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)för guidad landning. Varje mall är helt responsiv och bygger på ramverket Bootstrap.
+Bläddra i vår samling med exempelmallar, som du kan använda med [redigeraren för guidad landningssida](../../../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Varje mall är helt responsiv och bygger på ramverket Bootstrap.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ Så här importerar du en mall till Marketo:
 
 1. Klicka på mallens namn för en större vy.
 1. Hämta den valda mallen.
-1. Gå till **Design Studio i Marketo.**
-1. Klicka på **Landningssidor** i det vänstra trädet och välj sedan **Mallar.**
+1. I Marketo går du till **Design Studio.**
+1. Klicka på **Startsidor** i det vänstra trädet och välj sedan **Mallar.**
 
 1. Klicka på **Importera mall på menyraden.**
-1. Välj den hämtade filen, ange ett mallnamn och klicka sedan på **Importera** (se till att välja ett beskrivande namn och ange att redigeringsläget är **guidat**).
+1. Välj den hämtade filen, ange ett mallnamn och klicka sedan på **Importera** (se till att välja ett beskrivande namn och ange att redigeringsläget är **Guidad**).
 
 |  |  |  |
 |---|---|---|
@@ -75,7 +75,7 @@ Så här importerar du en mall till Marketo:
 | ![](assets/12c.jpg) | ![](assets/12d.jpg) | ![](assets/12e.jpg) |
 | [Mall 12-F](guided-landing-page-templates/template-12-f.md) | [Mall 13-C](guided-landing-page-templates/template-13-a.md) | [Mall 13-B](guided-landing-page-templates/template-13-b.md) |
 | ![](assets/12f.jpg) | ![](assets/13a.jpg) | ![](assets/13b.jpg) |
-| [Mall 13-C](guided-landing-page-templates/template-13-c.md) | [Mall 13-D](guided-landing-page-templates/template-13-d.md) | [Mall 13-E](guided-landing-page-templates/template-13-e.md) |
+| [Mall 13-A](guided-landing-page-templates/template-13-c.md) | [Mall 13-D](guided-landing-page-templates/template-13-d.md) | [Mall 13-E](guided-landing-page-templates/template-13-e.md) |
 | ![](assets/13c.jpg) | ![](assets/13d.jpg) | ![](assets/13e.jpg) |
 | [Mall 14-A](guided-landing-page-templates/template-14-a.md) | [Mall 14-B](guided-landing-page-templates/template-14-b.md) | [Mall 14-C](guided-landing-page-templates/template-14-c.md) |
 | ![](assets/14a.jpg) | ![](assets/14b.jpg) | ![](assets/14c.jpg) |
