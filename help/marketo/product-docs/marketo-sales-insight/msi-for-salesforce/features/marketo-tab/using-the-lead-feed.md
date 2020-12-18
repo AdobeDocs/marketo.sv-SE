@@ -69,7 +69,7 @@ När du visar det i Salesforce har varje objekt:
  </tbody> 
 </table>
 
-## Hämta RSS-uppdateringar {#getting-rss-updates}
+## Hämtar RSS-uppdateringar {#getting-rss-updates}
 
 Du kan också hämta uppdateringar för lead-feed via RSS-flöde.  Med en RSS-feed kan du få uppdateringar för dina leads även om du inte är ansluten till Salesforce. Flödet har samma information som lead-matningen i Salesforce samt följande (om den är tillgänglig):
 
