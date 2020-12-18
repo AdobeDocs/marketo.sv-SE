@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Gruppera personrapporter efter attribut {#group-person-reports-by-attribute}
 
-Du kan gruppera dina [personrapporter](http://docs.marketo.com/display/docs/basic+reporting) utifrån vilket person- eller företagsattribut du vill.
+Du kan gruppera dina [personrapporter](http://docs.marketo.com/display/docs/basic+reporting) efter vilket person- eller företagsattribut du vill.
 
-1. Gå till området **Marknadsföringsaktiviteter** (eller **Analytics**).
+1. Gå till **Marknadsföringsaktiviteter** (eller **Analytics**).
 
    ![](assets/image2017-3-28-10-3a22-3a53.png)
 
-1. Välj din personrapport i navigeringsträdet och klicka på fliken **Inställningar** .
+1. Välj din personrapport i navigeringsträdet och klicka på fliken **Inställningar**.
 
    ![](assets/image2017-3-28-11-3a33-3a48.png)
 
-1. Dubbelklicka på **Gruppera personer efter**.
+1. Dubbelklicka på **Gruppera personer av**.
 
    ![](assets/image2017-3-28-11-3a34-3a5.png)
 
@@ -37,7 +37,7 @@ Du kan gruppera dina [personrapporter](http://docs.marketo.com/display/docs/basi
 
    >[!TIP]
    >
-   >Om du väljer ett attribut som har ett numeriskt värde, till exempel *Skapad* eller *Årlig intäkt*, väljer du måtten i **listrutan Enheter** till höger.
+   >Om du väljer ett attribut som har ett numeriskt värde, t.ex. *Skapad* eller *Årlig intäkt*, väljer du måtten i listrutan **Enheter** till höger.
 
    Så ja! Klicka på fliken Rapport om du vill visa rapporten grupperad efter behov.
 
@@ -48,7 +48,7 @@ Du kan gruppera dina [personrapporter](http://docs.marketo.com/display/docs/basi
    >**Djupdykning**
    >
    >
-   >Läs mer om personrapporter och andra rapporttyper i [Enkelt att](http://docs.marketo.com/display/docs/basic+reporting)rapportera.
+   >Läs mer om personrapporter och andra rapporttyper i [Enkel rapportering](http://docs.marketo.com/display/docs/basic+reporting)djupdykning.
 
    >[!NOTE]
    >
