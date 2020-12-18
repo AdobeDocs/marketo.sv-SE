@@ -28,21 +28,21 @@ Prediktivt innehåll engagerar webbbesökarna med det mest relevanta innehållet
 
 När du har förberett innehållets titel, beskrivning och bild för multimedia kan du aktivera enskilda eller flera innehållskomponenter.
 
-1. Om du vill aktivera en enskild titel klickar du på en titel för att öppna redigeraren. Klicka på Multimedia, markera **Aktivera för prediktivt innehåll i rutan Multimedia** och klicka på **Spara**.
+1. Om du vill aktivera en enskild titel klickar du på en titel för att öppna redigeraren. Klicka på Multimedia, markera kryssrutan **Aktiverad för prediktivt innehåll i Multimedia** och klicka på **Spara**.
 
    ![](assets/image2017-10-3-9-3a50-3a29.png)
 
-1. Om det finns flera innehållsdelar på sidan **Prediktivt innehåll** markerar du rutorna intill rubriken/rubrikerna.
+1. Om det finns flera innehållsdelar markerar du kryssrutorna intill rubriken på sidan **Predictive Content**.
 
    ![](assets/image2017-10-3-10-3a0-3a42.png)
 
-1. Klicka på listrutan **Innehållsåtgärder** och välj **Aktivera för multimedia** för webben.
+1. Klicka på listrutan **Innehållsåtgärder** och välj **Aktivera för webb-multimedia**.
 
    ![](assets/image2017-10-3-10-3a2-3a6.png)|
 
-## Anpassa JavaScript-koden och bädda in den på din webbplats  {#customize-the-javascript-code-and-embed-it-into-your-website}
+## Anpassa JavaScript-koden och bädda in den på din webbplats {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Mer information finns i dokumentationen till Rekommendationsmallen för Rich Media [på webbplatsen Marketo Developers.](http://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)Detta förklarar hur du anpassar mallen för webbplatsen.
+Mer information finns i dokumentationen till Rekommendationsmallen för multimedia [på webbplatsen Marketo Developers.](http://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)Detta förklarar hur du anpassar mallen för webbplatsen.
 
 Klistra in JavaScript-koden på webbplatsen där du vill att mallen ska visas.
 
