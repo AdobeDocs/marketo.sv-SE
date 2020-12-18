@@ -23,11 +23,11 @@ Vi kommer att bryta ned de tre olika kanalerna som du kan använda, hur du välj
 
 Som standard väljs den här metoden för leverans av dina e-postmeddelanden. MSC-e-postservrar är ett bra alternativ för användare som inte använder Gmail eller Outlook. Eftersom de är våra servrar har vi dessutom möjlighet att ta felmeddelanden om studsar eller misslyckade leveranser och visa upp dem för dig under&quot;Misslyckade leveranser&quot; på fliken Konversationer.
 
-En annan fördel med att använda MSC-servrarna är att när mottagaren använder en [e-postadress](https://help.toutapp.com/hc/en-us/articles/215371427), kommer han/hon att se e-postadressen för identiteten som du har skapat.
+En annan fördel med att använda MSC-servrarna är att när mottagaren använder en [e-postadress](https://help.toutapp.com/hc/en-us/articles/215371427) ser han/hon e-postadressen till identiteten som du har skapat.
 
 När du använder MSC-servrar kan mottagarna se taggen&quot;via toutapp.com&quot;. Det här är deras e-postklient som meddelar att e-postmeddelandet skickades med Sales Connect.
 
-Mer information finns i den här [Gmail-hjälpartikeln](https://support.google.com/mail/answer/1311182?hl=en).
+Mer information finns i den här [hjälpartikeln för Gmail](https://support.google.com/mail/answer/1311182?hl=en).
 
 >[!NOTE]
 >
@@ -45,7 +45,7 @@ I webbprogrammet visas din identitet som du har skapat den (ovan). Om du skickar
 >
 >Eftersom Sales Connect inte hanterar dina Gmail-servrar direkt kan vi inte spela in studsade e-posthändelser i webbprogrammet.
 
-## Anpassad SMTP-server  {#custom-smtp-server}
+## Anpassad SMTP-server {#custom-smtp-server}
 
-Betala för din egen server? Använda en Microsoft Exchange-miljö? Det här är ett alternativ för dig. Läs [instruktionerna](http://docs.marketo.com/x/zYTS) om hur du kommer igång. Precis som Gmail-servrar spelar vi inte in studsade e-posthändelser i webbprogrammet eftersom Sales Connect inte hanterar servern direkt.
+Betala för din egen server? Använda en Microsoft Exchange-miljö? Det här är ett alternativ för dig. Läs [de här instruktionerna](http://docs.marketo.com/x/zYTS) om hur du konfigurerar. Precis som Gmail-servrar spelar vi inte in studsade e-posthändelser i webbprogrammet eftersom Sales Connect inte hanterar servern direkt.
 
