@@ -17,7 +17,7 @@ Lär dig hur du hanterar dina grupper i Sales Connect.
 
 ## Skapa en grupp {#create-a-group}
 
-1. Klicka på **plustecknet** bredvid Grupper på sidan Personer.
+1. Klicka på plustecknet **bredvid Grupper på sidan Personer.**
 
    ![](assets/one-4.png)
 
@@ -71,7 +71,7 @@ Lär dig hur du hanterar dina grupper i Sales Connect.
 
    Du äger fortfarande gruppen, men den visas nu under Team Groups.
 
-## Ta bort delning av en grupp {#unshare-a-group}
+## Ta bort delning av grupp {#unshare-a-group}
 
 1. På sidan Personer letar du reda på och markerar gruppen som du vill ta bort delningen för.
 
@@ -81,7 +81,7 @@ Lär dig hur du hanterar dina grupper i Sales Connect.
 
    ![](assets/eleven.png)
 
-1. Klicka på **X** bredvid teamet som du delade gruppen med och klicka sedan utanför det modala.
+1. Klicka på **X** bredvid teamet som du delade gruppen med och klicka sedan utanför modalen.
 
    ![](assets/twelve.png)
 
@@ -111,7 +111,7 @@ Lär dig hur du hanterar dina grupper i Sales Connect.
 
    ![](assets/sixteen.png)
 
-1. Bekräfta genom att klicka på **Ta bort** .
+1. Bekräfta genom att klicka på **Ta bort**.
 
    ![](assets/seventeen.png)
 
