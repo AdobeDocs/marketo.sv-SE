@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Alla rapporter i **Mina rapporter **är bara synliga för dig. Vad händer om du vill göra rapporten tillgänglig för alla andra? Så här kan du göra:
 
-1. Klicka på önskad [sparad rapport](../../../../product-docs/reporting/basic-reporting/creating-reports/save-a-report.md)i området **Analytics **.
+1. I området **Analytics **klickar du på önskad [sparad rapport](../../../../product-docs/reporting/basic-reporting/creating-reports/save-a-report.md).
 1. ![](assets/image2015-4-21-11-3a25-3a54.png)
 
    >[!NOTE]
@@ -26,11 +26,11 @@ Alla rapporter i **Mina rapporter **är bara synliga för dig. Vad händer om du
 
    ![](assets/image2015-4-21-11-3a29-3a32.png)
 
-1. **Klona till** en **analysgrupp** och välj en **mapp**.
+1. **Klona** till en  **analysgrupp** och välj en  **mapp**.
 
    ![](assets/image2015-4-21-11-3a32-3a0.png)
 
-1. **Namnge** rapporten och klicka på **Klona**.
+1. **Ge** rapporten ett namn och klicka på  **Klona**.
 
    ![](assets/image2015-4-21-11-3a33-3a11.png)
 
