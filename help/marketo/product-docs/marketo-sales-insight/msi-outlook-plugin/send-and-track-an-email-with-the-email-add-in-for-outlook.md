@@ -37,7 +37,7 @@ Du kan skicka och spåra e-postmeddelanden med Marketo direkt från Outlook.
 
    >[!TIP]
    >
-   >Om du vill använda en Marketo-mall läser du [Skicka och spåra från Outlook med en mall](send-and-track-from-outlook-using-a-marketo-template.md).
+   >Om du vill använda en Marketo-mall kan du läsa [Skicka och spåra från Outlook med en mall](send-and-track-from-outlook-using-a-marketo-template.md).
 
 1. Ta en titt på förhandsgranskningen och klicka på **Skicka**.
 
