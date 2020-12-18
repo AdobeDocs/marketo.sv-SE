@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# Autentiseringen misslyckades {#authentication-unsuccessful-error}
+# Autentiseringen misslyckades med felet {#authentication-unsuccessful-error}
 
 Ser du dina e-postmeddelanden i Misslyckad leverans med felmeddelandet&quot;Autentiseringen misslyckades&quot;? Det innebär att det inte gick att autentisera anslutningen till SMTP-servern. Ditt lösenord har antagligen ändrats nyligen och du måste autentisera dina nya inloggningsuppgifter.
 
-1. Gå till [SMTP-inställningarna](http://toutapp.com/next#settings/email-servers/smtp/configure) där du ska se samma felmeddelande om att autentiseringen misslyckades.
-1. Uppdatera dina inloggningsuppgifter och klicka på **Autentisera och spara**.
+1. Gå till dina [SMTP-inställningar](http://toutapp.com/next#settings/email-servers/smtp/configure) där samma felmeddelande om att autentiseringen misslyckades ska visas.
+1. Uppdatera dina inloggningsuppgifter och klicka på **Verifiera och spara**.
 1. Gå till Misslyckade leveranser och försök skicka e-postmeddelandena igen.
 
-Om du råkar ut för problem ber vi dig [skicka ett ärende](http://nation.marketo.com/community/support_solutions) till supporten.
+Om du fortfarande stöter på problem ska du [skicka ett ärende](http://nation.marketo.com/community/support_solutions) för support.
