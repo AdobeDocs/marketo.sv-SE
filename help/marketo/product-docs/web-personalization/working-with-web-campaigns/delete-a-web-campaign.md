@@ -19,7 +19,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Använd [filterfunktionen](filter-web-campaigns.md)för att göra det enklare att hitta den webbkampanj du vill ha.
+   >Använd filterfunktionen [](filter-web-campaigns.md) för att göra det enklare att hitta den webbkampanj du vill ha.
 
 1. Klicka på **Delete **på den kampanj du vill ta bort på webbkampanjsidan.
 
