@@ -21,7 +21,7 @@ Du kan anpassa vilken kontaktinformation du ser genom att välja vilka kolumner 
 
    ![](assets/one-5.png)
 
-1. Bläddra igenom och markera kolumner (du kan också klicka på **Markera alla** om du vill ha alla kolumner). Klicka utanför listan när du är klar.
+1. Bläddra igenom och markera önskade kolumner (du kan också klicka på **Markera alla** om du vill ha alla kolumner). Klicka utanför listan när du är klar.
 
    ![](assets/two-4.png)
 
