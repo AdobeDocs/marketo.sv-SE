@@ -36,11 +36,11 @@ Prenumerationer är specifika för arbetsytan. Den här listan över prenumerati
 
 ## Skapa en prenumeration på en smart lista {#create-a-smart-list-subscription}
 
-1. Gå till **databas** eller **marknadsföringsaktiviteter**.
+1. Gå till **databasen** eller **marknadsföringsaktiviteter**.
 
    ![](assets/db.png)
 
-1. Välj den smarta lista som du vill skapa en prenumeration för. Klicka på **Lista åtgärder** och välj** Ny prenumeration på Smart List**.
+1. Välj den smarta lista som du vill skapa en prenumeration för. Klicka på **Visa en lista över åtgärder** och välj** Ny prenumeration för smart lista**.
 
    ![](assets/three.png)
 
@@ -48,7 +48,7 @@ Prenumerationer är specifika för arbetsytan. Den här listan över prenumerati
 
    ![](assets/image2015-9-14-13-3a18-3a38.png)
 
-1. Klicka på **Frekvens** och välj en frekvens.
+1. Klicka på listan **Frekvens** och välj en frekvens.
 
    ** ![](assets/image2015-9-14-13-3a21-3a21.png)
 
@@ -58,7 +58,7 @@ Prenumerationer är specifika för arbetsytan. Den här listan över prenumerati
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
-1. Klicka på **Format** och välj i listan.
+1. Klicka på **Format** och välj ett alternativ i listan.
 
    ![](assets/image2015-9-14-13-3a25-3a25.png)
 
@@ -82,7 +82,7 @@ Mottagarna får ett e-postmeddelande med möjlighet att ladda ned rapporten samt
 
 >[!NOTE]
 >
->Om inställningen för [säker prenumerationsadministration](secure-the-subscription-admin-setting.md) är **Ja** kan bara personer med åtkomst till Marketo-instansen hämta rapporten.
+>Om inställningen [Administratör för säker prenumeration](secure-the-subscription-admin-setting.md) är **Ja** kan bara personer med åtkomst till Marketo-instansen hämta rapporten.
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
