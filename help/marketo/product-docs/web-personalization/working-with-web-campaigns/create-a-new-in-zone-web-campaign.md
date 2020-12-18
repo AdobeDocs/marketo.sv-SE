@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Skapa en ny webbkampanj i zonen {#create-a-new-in-zone-web-campaign}
 
-En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment och kan vara en [dialogruta](create-a-new-dialog-web-campaign.md) på din webbplats, en ersättning i zonen, en [widgetfunktion](create-a-new-widget-web-campaign.md) eller en e-postavisering. En In Zone-webbkampanj ersätter ett element på din webbplats baserat på Zone-id med innehåll eller grafiska banners.
+En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment och kan vara en [dialogruta](create-a-new-dialog-web-campaign.md) på din webbplats, en in zone-ersättning, en [widgetfunktion](create-a-new-widget-web-campaign.md) eller en e-postavisering. En In Zone-webbkampanj ersätter ett element på din webbplats baserat på Zone-id med innehåll eller grafiska banners.
 
 ## Skapa en webbkampanj i zonen {#create-an-in-zone-web-campaign}
 
@@ -25,7 +25,7 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment o
 
    ![](assets/create-new-web-campaign-hand.png)
 
-1. Välj kampanjtypen **In Zone** . Anpassa och lägg till ett **zon-ID.** Ställ in kampanjen på **Sticky** och lägg till din kreativitet i redigeraren. Lägg till sidans URL för att förhandsgranska och klicka på **Förhandsgranska** för att se hur kampanjen kommer att reagera på webbplatsen.
+1. Välj kampanjtypen **I zon**. Anpassa och lägg till ett **zon-id.** Sätt kampanjen på  **** Stickyoch lägg till din kreativitet i redigeraren. Lägg till webbadressen till sidan som ska förhandsgranskas och klicka på **Förhandsgranska** för att se hur kampanjen kommer att reagera på webbplatsen.
 
    ![](assets/new-3-1.png)
 
@@ -40,7 +40,7 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment o
    >Ett zon-ID är där du vill att webbkampanjen In Zone ska placeras på plats. Om du vill hitta ett &quot;zon-ID&quot; går du till webbplatsen och väljer det område som du vill ersätta med en webbkampanj och högerklickar. I Chrome är alternativet&quot;Inspect Element&quot;, vilket kan variera i andra webbläsare.
    >
    >
-   >Sedan söker du efter det ID som är kopplat till det här avsnittet på webbplatsen, som är markerat eftersom du undersöker elementet. Om du t.ex. högerklickar i Chrome i den markerade texten står `<div id="featured-slider">` &quot;featured-slider&quot; är det som du ska skriva i&quot;zone id&quot;-avsnittet. Vanligtvis används &quot;div id&quot;, men alla ID:n kan också användas, till exempel h1 id, p id osv.
+   >Sedan söker du efter det ID som är kopplat till det här avsnittet på webbplatsen, som är markerat eftersom du undersöker elementet. Om du t.ex. högerklickar i Chrome i den markerade texten `<div id="featured-slider">` är &quot;featured-slider&quot; det som du bör skriva i &quot;zone id&quot;-avsnittet. Vanligtvis används &quot;div id&quot;, men alla ID:n kan också användas, till exempel h1 id, p id osv.
 
 <table> 
  <thead> 
@@ -85,21 +85,21 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment o
 
 >[!TIP]
 >
->Snabba upp och förenkla framtagningen av kampanjer genom att använda våra [inbyggda mallar](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) eller genom att [spara er befintliga kampanj](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) som en mall för återanvändning.
+>Snabba upp och förenkla framtagningen av kampanjer genom att använda våra [inbyggda mallar](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) eller genom att [spara din befintliga kampanj](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) som en mall för återanvändning.
 
 >[!NOTE]
 >
->**Vill du testa webbkampanjer?** En eller flera webbkampanjer kan [A/B-testas för optimala resultat](ab-test-your-web-campaign.md). Med funktionen Automatisk justering känner plattformen automatiskt igen de kampanjer som presterar bättre, fortsätter med de mest konverterande kampanjerna och pausar de andra.
+>**Vill du testa webbkampanjer?** En eller flera webbkampanjer kan  [A/B-testas för optimala resultat](ab-test-your-web-campaign.md). Med funktionen Automatisk justering känner plattformen automatiskt igen de kampanjer som presterar bättre, fortsätter med de mest konverterande kampanjerna och pausar de andra.
 
 ## Redigera en webbkampanj {#edit-a-web-campaign}
 
-På sidan **Webbkampanjer** klickar du på **Redigera** i kampanjen.
+På sidan **Webbkampanjer** klickar du på **Redigera** i Campaign.
 
 ![](assets/in-zone-web-campaign-edit.png)
 
 >[!NOTE]
 >
->Använd [filterfunktionen](filter-web-campaigns.md)för att göra det enklare att hitta kampanjen du vill ha.
+>Använd filterfunktionen [](filter-web-campaigns.md) för att göra det enklare att hitta kampanjen du vill ha.
 
 ## Förhandsgranska en webbkampanj {#preview-a-web-campaign}
 
