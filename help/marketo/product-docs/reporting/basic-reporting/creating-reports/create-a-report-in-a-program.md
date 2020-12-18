@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Kör en rapport för att analysera människor, program, landningssidor, e-post och sociala resurser.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 1. ![](assets/login-marketing-activities.png)
 
 1. Välj ett program.
@@ -24,7 +24,7 @@ Kör en rapport för att analysera människor, program, landningssidor, e-post o
 
    >[!NOTE]
    >
-   >Du kan också skapa rapporter på fliken **Analytics** .
+   >Du kan också skapa rapporter från fliken **Analytics**.
 
    Högerklicka på programmet och välj Ny lokal resurs.
 
@@ -34,7 +34,7 @@ Kör en rapport för att analysera människor, program, landningssidor, e-post o
 
    ![](assets/image2014-9-15-18-3a36-3a46.png)
 
-1. Välj **rapporttyp**.
+1. Välj rapporten **Typ**.
 
    ![](assets/choosereport.png)
 
@@ -50,7 +50,7 @@ Kör en rapport för att analysera människor, program, landningssidor, e-post o
    >
    >Om du vill göra det enklare att navigera i dina rapporter senare ska du ta med en referens till rapporttypen i namnet.
 
-   Ange tidsramen för rapporten. Mer information finns i [Ändra en tidsram](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) för rapport.
+   Ange tidsramen för rapporten. Mer information finns i [Ändra en tidsram för rapport](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md).
 
 1. Klicka på fliken **Rapport** för att se din statistik.
 
@@ -61,7 +61,7 @@ Kör en rapport för att analysera människor, program, landningssidor, e-post o
    >**Djupdykning**
    >
    >
-   >Som standard omfattar rapporter all aktivitet på ditt konto, i alla program. Mer information om hur du kan filtrera rapporten finns i djupdykningen [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting) .
+   >Som standard omfattar rapporter all aktivitet på ditt konto, i alla program. Om du vill veta mer om hur du kan filtrera rapporten kan du läsa djupdykningen [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
 
    >[!NOTE]
    >
@@ -75,5 +75,5 @@ Kör en rapport för att analysera människor, program, landningssidor, e-post o
    >**Relaterade artiklar**
    >
    >
-   >Du kan [ändra en tidsram](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)för rapporten, [prenumerera på en enkel rapport](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [exportera en rapport till Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filtrera personer i en rapport med en smart lista](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)och [mycket mer](http://docs.marketo.com/display/docs/basic+reporting).
+   >Du kan [ändra en rapporttidsram](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [prenumerera på en enkel rapport](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [exportera en rapport till Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filtrera personer i en rapport med en smart lista](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) och [mer](http://docs.marketo.com/display/docs/basic+reporting).
 
