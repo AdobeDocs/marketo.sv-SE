@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ändra förfallotid för URL:er i e-postrapporter {#change-the-expiration-time-for-urls-in-report-emails}
+# Ändra förfallotid för URL:er i rapportmeddelanden {#change-the-expiration-time-for-urls-in-report-emails}
 
 >[!NOTE]
 >
