@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Push to Sales Connect {#push-to-sales-connect}
+# Skicka till Sales Connect {#push-to-sales-connect}
 
 Knappen Push to Tout (Skicka till toning) innehåller en lista över dina leads/kontakter i Salesforce och placerar dem i en grupp i Sales Connect. Du kan sedan snabbt skicka en anpassningsbar gruppe-post med Tout-spårning bifogad.
 
@@ -19,22 +19,22 @@ Knappen Push to Tout (Skicka till toning) innehåller en lista över dina leads/
 
 * Sales Connect [Salesforce-paket](http://docs.marketo.com/x/C4PS) installerat av `Salesforce Admin`
 
-* `Push to Sales Connect`knapp installerad för att visa en lista per `Salesforce Admin`
+* `Push to Sales Connect`knapp installerad för att visa en lista per  `Salesforce Admin`
 
 * Salesforce-anslutning skapad med Sales Connect för användare som gör push
 
-## Använda {#how-to}
+## Så här {#how-to}
 
 1. Klicka på fliken **Lead/kontakt** i Salesforce.
 1. Växla till listvyn som du vill skicka till Sales Connect bredvid knappen Gå.
 1. Klicka på **Gå**.
 1. Markera alla leads/kontakter som du vill ska pushas för att tona ut.
-1. Välj **Push to MSE**.
-1. Ett nytt fönster visas som verifierar antalet leads/kontakter som du vill skicka över. Välj **Gå till grupp**. Sales Connect `will not push over` för alla kontakter som är markerade som `Email Opt Out` i Salesforce eller `Unsubscribed` i Sales Connect.
+1. Välj **Skicka till MSE**.
+1. Ett nytt fönster visas som verifierar antalet leads/kontakter som du vill skicka över. Välj **Gå till grupp**. Sales Connect `will not push over` alla kontakter som är markerade som `Email Opt Out` i Salesforce eller `Unsubscribed` i Sales Connect.
 
    >[!NOTE]
    >
-   >Sales Connect kommer att lägga till den här gruppen med namnet &quot;SFDC-..&quot; till sidan Relationer i [webbprogrammet](http://toutapp.com/login).
+   >Sales Connect kommer att lägga till den här gruppen med namnet &quot;SFDC-..&quot; till sidan Relationer på [webbprogrammet](http://toutapp.com/login).
 
-1. Välj **E-posta hela gruppen** om du vill skicka det här gruppe-postmeddelandet.
+1. Välj **E-posta hela gruppen** om du vill skicka ut gruppe-postmeddelandet.
 
