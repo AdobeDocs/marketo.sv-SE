@@ -21,11 +21,11 @@ ht-degree: 0%
 
 Om du vill lägga till bifogade filer i mallen öppnar du mallredigeraren och klickar på **Bifoga filer** ovanför textredigeraren. Sedan söker du bara upp den bifogade filen från datorn.
 
-Om du vill att dina bilagor ska [spåras när de öppnas](http://docs.marketo.com/display/TEST/How+to+Track+Your+Email+Attachments)klickar du på **Lägg till** **innehåll** och väljer en .doc-, PDF- eller .ppt-fil.
+Om du vill att dina bifogade filer ska [spåras när de öppnas](http://docs.marketo.com/display/TEST/How+to+Track+Your+Email+Attachments) klickar du på **Lägg till** **Innehåll** och väljer en .doc-, PDF- eller .ppt-fil.
 
 När du har överfört filerna till en mall lagras de i ditt Sales Connect-innehåll. Du kan snabbt lägga till dem i e-postmeddelanden från din webbläsare eller från [webbprogrammet](http://toutapp.com/login) genom att klicka på **Lägg till innehåll** i mallredigeraren.
 
 >[!NOTE]
 >
->Storleksgränsen för knapparna **Innehåll** eller **Bifoga filer** är 5 MB.
+>Storleksgränsen för knapparna **Content** eller **Bifoga filer** är 5mb.
 
