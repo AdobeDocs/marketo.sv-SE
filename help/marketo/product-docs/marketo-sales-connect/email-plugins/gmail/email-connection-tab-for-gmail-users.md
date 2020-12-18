@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Att ansluta till Gmail innebär att du får svarsspårning, tillgång till Gmail-leveranskanalen, möjlighet att schemalägga e-postmeddelanden i Gmail och skicka regelefterlevnad.
 
-1. Klicka på kugghjulsikonen i Sales Connect och välj **Settings**.
+1. Klicka på kugghjulsikonen i Sales Connect och välj **Inställningar**.
 
    ![](assets/one.png)
 
@@ -23,7 +23,7 @@ Att ansluta till Gmail innebär att du får svarsspårning, tillgång till Gmail
 
    ![](assets/two.png)
 
-1. Klicka på fliken **E-postanslutning** .
+1. Klicka på fliken **E-postanslutning**.
 
    ![](assets/three.png)
 
@@ -39,7 +39,7 @@ Att ansluta till Gmail innebär att du får svarsspårning, tillgång till Gmail
 
    ![](assets/six.png)
 
-1. Om du redan har loggat in på Gmail väljer du det konto du vill ansluta till. Om inte anger du din Gmail-adress och klickar på **Nästa**. I det här exemplet är vi ännu inte inloggade.
+1. Om du redan har loggat in på Gmail väljer du det konto du vill ansluta till. Om inte, anger du din Gmail-adress och klickar på **Nästa**. I det här exemplet är vi ännu inte inloggade.
 
    ![](assets/seven.png)
 
