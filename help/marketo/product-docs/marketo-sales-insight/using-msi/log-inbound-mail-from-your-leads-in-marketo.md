@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Logga inkommande e-post från leads i Marketo {#log-inbound-mail-from-your-leads-in-marketo}
+# Logga inkommande e-post från dina leads i Marketo {#log-inbound-mail-from-your-leads-in-marketo}
 
 Du kan logga svar från dina leads direkt i Outlook med Marketo-tillägget för e-post.
 
@@ -23,13 +23,13 @@ Du kan logga svar från dina leads direkt i Outlook med Marketo-tillägget för 
 
 >[!TIP]
 >
->Du kan också högerklicka på ett meddelande och klicka på **Logga med markering**.
+>Du kan också högerklicka på ett meddelande och klicka på **Logga med Marketo**.
 
 Du bör se en bekräftelse.
 
 ![](assets/image2014-9-23-17-3a13-3a39.png)
 
-## Från själva e-postmeddelandet {#from-the-email-itself}
+## I själva e-postmeddelandet {#from-the-email-itself}
 
 Om du har öppnat e-postmeddelandet behöver du bara klicka på knappen Logga med Marketo.
 
