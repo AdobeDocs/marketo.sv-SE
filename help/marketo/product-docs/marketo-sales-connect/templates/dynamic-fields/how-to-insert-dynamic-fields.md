@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Infoga dynamiska fält {#how-to-insert-dynamic-fields}
 
-Vi låter dig anpassa dina e-postmallar med fördefinierade attribut som `{{first_name}}` eller `{{company}}`. Dessa fält gör att du kan skicka e-post till flera kontakter och fylla i fälten automatiskt utan att behöva skriva ut dem separat för varje kontakt.
+Du kan anpassa dina e-postmallar med fördefinierade attribut som `{{first_name}}` eller `{{company}}`. Dessa fält gör att du kan skicka e-post till flera kontakter och fylla i fälten automatiskt utan att behöva skriva ut dem separat för varje kontakt.
 
 >[!TIP]
 >
->Fälten&quot;first_name&quot; och&quot;company&quot; är `only fields that will look to both Sales Connect and Salesforce.` &quot;Det innebär att om en kontakt inte finns i [webbprogrammet](http://toutapp.com/login), söker vi i Salesforce för att se om vi kan hitta en kontakt-/lead-post med en matchande e-postadress. Vi använder sedan information från den posten för att fylla i fältet.
+>Fälten&quot;first_name&quot; och&quot;company&quot; är `only fields that will look to both Sales Connect and Salesforce.` Det innebär att om en kontakt inte finns i [webbprogrammet](http://toutapp.com/login), söker vi i Salesforce för att se om det går att hitta en kontakt-/lead-post med en matchande e-postadress. Vi använder sedan information från den posten för att fylla i fältet.
 
 ## Infoga ett dynamiskt fält i en mall {#insert-a-dynamic-field-into-a-template}
 
