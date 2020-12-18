@@ -14,9 +14,9 @@ ht-degree: 0%
 
 Det finns flera steg för att skapa det perfekta meddelandet i appen. Börja här och följ sedan stegen i ordning i de här artiklarna.
 
-När du har skapat ditt meddelande i appen kan du gå [hit](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md) och se hur du skickar det.
+När du har skapat ditt meddelande i appen går du [hit](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md) och ser hur du skickar det.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![Bild ett](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-1.png)
 
@@ -24,7 +24,7 @@ När du har skapat ditt meddelande i appen kan du gå [hit](/help/marketo/produc
 
    ![Bild två](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-2.png)
 
-1. Välj **Meddelande** i appen.
+1. Välj **Meddelande i programmet**.
 
    ![Bild tre](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-3.png)
 
@@ -36,4 +36,4 @@ När du har skapat ditt meddelande i appen kan du gå [hit](/help/marketo/produc
 >
 >Programnamnet visas automatiskt i listrutan, men du kan välja ett annat.
 
-Därefter [väljer du en layout](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) för ditt meddelande i appen.
+[Välj sedan en layout](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) för meddelandet i appen.
