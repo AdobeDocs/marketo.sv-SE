@@ -15,7 +15,7 @@ ht-degree: 0%
 
 När det finns en ny version av Marketo Email-tillägget för Outlook följer du dessa anvisningar för att uppgradera.
 
-## Hämta installationsprogram {#download-installer}
+## Hämta installationsprogrammet {#download-installer}
 
 Hämta det installationsprogram som är lämpligt för din version av Microsoft Outlook.
 
