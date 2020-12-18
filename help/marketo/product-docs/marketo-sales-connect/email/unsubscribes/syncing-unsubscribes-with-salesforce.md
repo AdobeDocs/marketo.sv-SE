@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Synkronisera avbeställningar med Salesforce {#syncing-unsubscribes-with-salesforce}
+# Synkroniserar avbeställningar med Salesforce {#syncing-unsubscribes-with-salesforce}
 
-## Krav för att avbryta prenumerationen på Synkronisera med Salesforce {#requirements-for-unsubscribes-to-sync-to-salesforce}
+## Krav för att avbryta prenumerationen att synkronisera med Salesforce {#requirements-for-unsubscribes-to-sync-to-salesforce}
 
 * Synkronisering av avbruten prenumeration måste vara aktiverat (för nightly sync)
 * Fältet Avanmäl dig måste vara installerat i Salesforce
@@ -35,11 +35,11 @@ Användare kan bestämma sig för om de vill synkronisera sin avanmälan med sta
 
    ![](assets/one-1.png)
 
-1. Välj **Avbeställ** under Administratörsinställningar.
+1. Under Administratörsinställningar väljer du **Avbeställ**.
 
    ![](assets/two-2.png)
 
-1. Klicka på **Synkronisera till Salesforce** och aktivera sedan nattsynkroniseringen.
+1. Klicka på **Synkronisering till Salesforce** och aktivera sedan nattsynkroniseringen.
 
    ![](assets/three-2.png)
 
@@ -49,7 +49,7 @@ Användare kan bestämma sig för om de vill synkronisera sin avanmälan med sta
 
    | **Synkronisera med Salesforce-alternativfält** | Markerat som standard uppdaterar bara Salesforce-alternativfältet. |
    |---|---|
-   | **Synkronisera med Marketo förs.avanmäl dig** | Om du vill avgränsa försäljning och marknadsföring väljer du det här alternativet för att uppdatera ytterligare [avanmäl försäljning.](#msoo) |
+   | **Synkronisera med Marketo förs.avanmäl dig** | Om du vill avgränsa försäljning och marknadsföring väljer du det här alternativet för att uppdatera ytterligare [Marketo Sales Opt Out-fält.](#msoo) |
 
 ## Installera avanmälningsfältet i sidlayouten {#installing-the-opt-out-field-in-the-page-layout}
 
@@ -61,7 +61,7 @@ Avanmäl dig via e-post är ett standardfält i Salesforce som kan installeras f
 
    ![](assets/five-1.png)
 
-1. Klicka på ditt användarnamn och välj **Konfigurera**.
+1. Klicka på ditt användarnamn och välj **Inställningar**.
 
    ![](assets/six-1.png)
 
@@ -77,7 +77,7 @@ Avanmäl dig via e-post är ett standardfält i Salesforce som kan installeras f
 
    ![](assets/nine.png)
 
-1. Markera **fält**.
+1. Välj **Fält**.
 
    ![](assets/ten.png)
 
@@ -89,7 +89,7 @@ Avanmäl dig via e-post är ett standardfält i Salesforce som kan installeras f
 
    ![](assets/twelve.png)
 
-## Marketo - säljavanmälan {#marketo-sales-opt-out}
+## Marketo Sales Opt Out {#marketo-sales-opt-out}
 
 Marketo Sales Opt Out-fältet är ett anpassat fält som är tillgängligt för användare som har installerat Marketo Sales Connect Customizations.
 
