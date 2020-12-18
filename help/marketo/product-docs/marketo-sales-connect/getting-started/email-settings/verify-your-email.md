@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Om du har en e-postidentitet som inte har verifierats följer du stegen nedan.
 
-1. Klicka på kugghjulsikonen uppe till höger och välj **Inställningar**.
+1. Klicka på kugghjulsikonen längst upp till höger och välj **Inställningar**.
 
    ![](assets/verify-your-email-1.png)
 
@@ -23,11 +23,11 @@ Om du har en e-postidentitet som inte har verifierats följer du stegen nedan.
 
    ![](assets/verify-your-email-2.png)
 
-1. Under Adress och Signatur letar du reda på den e-postadress du vill verifiera och klickar på **Skicka bekräftelsemeddelande** igen. Ett nytt bekräftelsemeddelande skickas.
+1. Under Adress och Signatur letar du reda på den e-postadress du vill verifiera och klickar på **Skicka bekräftelsemeddelande på nytt**. Ett nytt bekräftelsemeddelande skickas.
 
    ![](assets/verify-your-email-3.png)
 
-1. Klicka på **Skicka** igen.
+1. Klicka på **Skicka om**.
 
    ![](assets/verify-your-email-4.png)
 
