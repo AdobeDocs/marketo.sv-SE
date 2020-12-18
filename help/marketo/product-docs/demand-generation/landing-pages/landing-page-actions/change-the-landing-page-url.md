@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Du kan ändra en landningssidas URL**.** Detta kan göra webbadressen enklare att komma ihåg och förbättra SEO.
 
-1. Välj landningssida. Klicka på listrutan Åtgärder för **landningssida** , bläddra till **URL-verktyg** och välj **Redigera URL-inställningar.**
+1. Välj landningssida. Klicka på listrutan **Landing Page Actions**, bläddra till **URL Tools** och välj **Redigera URL-inställningar.**
 
    ![](assets/one.png)
 
-1. Ange den **nya URL-adressen**, välj om den gamla URL-adressen ska ignoreras eller omdirigeras och klicka på **Spara.**
+1. Ange **Ny URL**, välj att ta bort eller omdirigera den gamla URL:en och klicka sedan på **Spara.**
 
    ![](assets/two.png)
 
