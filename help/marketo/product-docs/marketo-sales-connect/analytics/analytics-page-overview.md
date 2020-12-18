@@ -21,9 +21,9 @@ Analyssidan uppdateras var tionde minut.
 
 ## Vad betyder siffrorna? {#what-do-the-numbers-mean}
 
-Siffrorna i `radials` beräknar det totala antalet händelser i alla skickade e-postmeddelanden. Så om en `single same email is viewed five times, it will add five views`till det här numret. Samma idé gäller för de klick och svar som räknas inuti cirkeln.
+Siffrorna i `radials` beräknar det totala antalet händelser för alla skickade e-postmeddelanden. Om det är en `single same email is viewed five times, it will add five views`till det här talet. Samma idé gäller för de klick och svar som räknas inuti cirkeln.
 
-Alla våra statistikuppgifter som finns i `table` programmet beräknas genom att titta på de unika vyerna, klicka och svaren på e-postmeddelandena. Om `one email is viewed five times, we will count that as one view.` det är därför du kan se en stor skillnad mellan siffrorna i tabellerna och siffrorna i radialen.
+Alla våra statistik som finns i `table` beräknas genom att titta på de unika vyerna, klickningarna och svaren på dina e-postmeddelanden. Om `one email is viewed five times, we will count that as one view.` Det är därför du kan se en stor skillnad i talen i tabellerna jämfört med siffrorna i radialen.
 
 ## Analytiska flikar {#analytic-tabs}
 
@@ -33,11 +33,11 @@ När du går från en flik till en flik på analyssidan kan du sortera dina stat
 
 På flikarna Me och Team visas information om avtal som stängts. Antalet styrs av hur många gånger folk i ditt team ringer.
 
-## Fliken Me {#me-tab}
+## Me Tab {#me-tab}
 
 Fliken Me är en bra plats att kontrollera hur dina e-postmeddelanden, mallar och länkar fungerar. Om du är administratör i Sales Connect kan du filtrera efter användare i teamet för att se deras status.
 
-## Fliken Team {#team-tab}
+## Teamflik {#team-tab}
 
 Här ser du statistik och rankningar för hela teamet. Du kan också filtrera efter alla undergrupper som du har skapat.
 
