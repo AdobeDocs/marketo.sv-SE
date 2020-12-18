@@ -23,7 +23,7 @@ Lär dig hur du ansluter ditt Sales Connect-konto till Outlook.
 
 Att ansluta till Outlook innebär att du får svarsspårning, åtkomst till leveranskanalen i Outlook, möjlighet att schemalägga e-postmeddelanden i Outlook och skicka regelefterlevnad.
 
-1. Klicka på kugghjulsikonen i Sales Connect och välj **Settings**.
+1. Klicka på kugghjulsikonen i Sales Connect och välj **Inställningar**.
 
    ![](assets/one.png)
 
@@ -31,7 +31,7 @@ Att ansluta till Outlook innebär att du får svarsspårning, åtkomst till leve
 
    ![](assets/two.png)
 
-1. Klicka på fliken **E-postanslutning** .
+1. Klicka på fliken **E-postanslutning**.
 
    ![](assets/three.png)
 
@@ -59,7 +59,7 @@ Att ansluta till Outlook innebär att du får svarsspårning, åtkomst till leve
 
    ![](assets/eight-a.png)
 
-1. Klicka på **Godkänn**.
+1. Klicka på **Acceptera**.
 
    ![](assets/nine-a.png)
 
@@ -73,7 +73,7 @@ Att ansluta till Outlook innebär att du får svarsspårning, åtkomst till leve
 
 Att ansluta till Exchange On-Premise innebär att du får svarsspårning, åtkomst till Outlooks leveranskanal, möjlighet att schemalägga e-postmeddelanden i Outlook och skicka regelefterlevnad.
 
-1. Klicka på kugghjulsikonen i Sales Connect och välj **Settings**.
+1. Klicka på kugghjulsikonen i Sales Connect och välj **Inställningar**.
 
    ![](assets/one.png)
 
@@ -81,7 +81,7 @@ Att ansluta till Exchange On-Premise innebär att du får svarsspårning, åtkom
 
    ![](assets/two.png)
 
-1. Klicka på fliken **E-postanslutning** .
+1. Klicka på fliken **E-postanslutning**.
 
    ![](assets/three.png)
 
