@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Scenrapport för personer efter intäkt {#people-by-revenue-stage-report}
+# Statusrapport för personer efter intäkt {#people-by-revenue-stage-report}
 
-Du kan skapa en rapport som visar i vilken fas i [intäktscykelmodellen](http://docs.marketo.com/display/docs/revenue+cycle+models) era medarbetare befinner sig. Rapporten innehåller alla stadier från den angivna modellen så länge det finns ett personsaldo för rapportens angivna datumintervall.
+Du kan skapa en rapport som visar i vilket skede i din [intäktscykelmodell](http://docs.marketo.com/display/docs/revenue+cycle+models) dina medarbetare befinner sig. Rapporten innehåller alla stadier från den angivna modellen så länge det finns ett personsaldo för rapportens angivna datumintervall.
 
 >[!NOTE]
 >
@@ -27,13 +27,13 @@ Du kan skapa en rapport som visar i vilken fas i [intäktscykelmodellen](http://
 
    **
 
-1. Klicka på rapporten för **Personer efter intäktsfas**.
+1. Klicka på rapporten för **People by Revenue Stage**.
 
    ** ![](assets/image2017-3-27-15-3a46-3a27.png)
 
    **
 
-1. Klicka på fliken **Inställningar** . Dubbelklicka på fältet **Personen skapad** den för att ange önskad tidsram att rapportera om.
+1. Klicka på fliken **Inställningar**. Dubbelklicka på fältet **Person skapad** för att ange önskad tidsram att rapportera till.
 
    ![](assets/image2017-3-28-8-3a6-3a23.png)
 
@@ -41,7 +41,7 @@ Du kan skapa en rapport som visar i vilken fas i [intäktscykelmodellen](http://
 
    ![](assets/image2015-4-29-12-3a11-3a31.png)
 
-1. Klicka på fliken **Rapport** . Nu kan ni se i vilken fas av intäktsmodellen era medarbetare befinner sig och fokusera på eventuella flaskhalsar.
+1. Klicka på fliken **Rapport**. Nu kan ni se i vilken fas av intäktsmodellen era medarbetare befinner sig och fokusera på eventuella flaskhalsar.
 
    ![](assets/image2017-3-28-8-3a6-3a48.png)
 
