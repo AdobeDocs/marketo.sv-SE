@@ -29,9 +29,9 @@ Du kan schemalägga webbkampanjen baserat på besökarens tid eller en vald tids
 
    >[!NOTE]
    >
-   >Använd [filterfunktionen](filter-web-campaigns.md)för att göra det enklare att hitta kampanjen du vill ha.
+   >Använd filterfunktionen [](filter-web-campaigns.md) för att göra det enklare att hitta kampanjen du vill ha.
 
-1. Öppna menyn Kampanjstatus och välj **Schemalägg**.
+1. Öppna menyn Campaign Status och välj **Schedule**.
 
    ![](assets/image2016-8-18-16-3a41-3a45.png)
 
@@ -51,7 +51,7 @@ Du kan schemalägga webbkampanjen baserat på besökarens tid eller en vald tids
    >
    >Du kan välja datum och tid på den nedrullningsbara menyn och kalendern eller ange dem manuellt. Tidpunkterna är 12-timmars AM/PM-tid.
 
-1. Som standard körs kampanjen varje dag mellan start- och slutdatumet. Om du bara vill köra kampanjen på en viss dag eller vid en viss tidpunkt använder du inställningarna för **Upprepa** . Välj dag och start- och sluttid för att visa kampanjen. Använd plustecknet + för att lägga till ytterligare dagar.
+1. Som standard körs kampanjen varje dag mellan start- och slutdatumet. Om du bara vill köra kampanjen på en viss dag eller vid en viss tidpunkt använder du inställningarna **Upprepa**. Välj dag och start- och sluttid för att visa kampanjen. Använd plustecknet + för att lägga till ytterligare dagar.
 
    ![](assets/image2016-1-14-8-3a19-3a37.png)
 
