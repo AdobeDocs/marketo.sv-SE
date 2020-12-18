@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Mall 3D {#template-d}
+# Mall 3-D {#template-d}
 
 [Ladda ned mall 3D](http://docs.marketo.com/download/attachments/8160090/template3-d.html?version=1&amp;modificationdate=1434390935000&amp;api=v2)
 
