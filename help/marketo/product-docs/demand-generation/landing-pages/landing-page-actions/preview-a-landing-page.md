@@ -17,7 +17,7 @@ Du vill antagligen se hur landningssidan ser ut innan du publicerar den.
 
 ## Förhandsgranska en landningssida {#preview-a-landing-page-1}
 
-1. Välj en landningssida och klicka på **Förhandsgranska** **sida**.
+1. Välj en landningssida och klicka på **Förhandsgranska** **Sida**.
 
    ![](assets/image2014-9-16-16-3a21-3a10.png)
 
@@ -29,15 +29,15 @@ Du vill antagligen se hur landningssidan ser ut innan du publicerar den.
 
    ![](assets/image2014-9-17-10-3a9-3a49.png)
 
-## Förhandsgranska ett landningssidutkast {#preview-a-landing-page-draft}
+## Förhandsgranska ett startsidesutkast {#preview-a-landing-page-draft}
 
-1. Högerklicka på en godkänd landningssida som har ett utkast och klicka på **Förhandsgranska** **utkast**.
+1. Högerklicka på en godkänd landningssida som har ett utkast och klicka på **Förhandsgranska** **Utkast**.
 
    ![](assets/image2014-9-17-10-3a9-3a56.png)
 
-## Förhandsgranska ett utkast för en landningssida vid redigering {#preview-a-landing-page-draft-while-editing}
+## Förhandsgranska ett utkast för en landningssida medan du redigerar {#preview-a-landing-page-draft-while-editing}
 
-1. Välj en landningssida och klicka på **Redigera** **utkast**.
+1. Välj en landningssida och klicka på **Redigera** **Utkast**.
 
    ![](assets/image2014-9-17-10-3a10-3a4.png)
 
