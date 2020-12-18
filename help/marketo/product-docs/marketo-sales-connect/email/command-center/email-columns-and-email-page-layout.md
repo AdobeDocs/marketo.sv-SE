@@ -114,7 +114,7 @@ Du kan konfigurera alla tillgängliga kolumner så att de visas i e-postavsnitte
  </tbody> 
 </table>
 
-## Inställningar för sidlayout för e-post {#email-page-layout-settings}
+## Inställningar för e-postsidlayout {#email-page-layout-settings}
 
 Du kan konfigurera layouten genom att följa dessa steg.
 
@@ -122,7 +122,7 @@ Du kan konfigurera layouten genom att följa dessa steg.
 
    ![](assets/email-columns-and-email-grid-layout-1.png)
 
-1. Markera **avsnittet E-post** .
+1. Markera avsnittet **E-post**.
 
    ![](assets/email-columns-and-email-grid-layout-2.png)
 
