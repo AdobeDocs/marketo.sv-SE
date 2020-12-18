@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# E-postinsikter - skicka översikt {#email-insights-sends-overview}
+# E-postinsikter Skickar översikt {#email-insights-sends-overview}
 
 Granska egenskaperna för den senaste e-postkommunikationen på sidan Skicka.
 
@@ -25,11 +25,11 @@ Till höger på sidan finns det flera uppgifter om dina skickade e-postmeddeland
 
 ![](assets/two-1.png)
 
-**Typ** anger vilken typ av tillgång som används.\
+**Typ** anger vilken typ av resurs som används.\
 **Mottagarnummer** är hur många personer som har fått e-postmeddelandet.\
-**Delivery Metrics** ger er en snabb bild av hur många e-postmeddelanden som har levererats, väntar eller har studsat.\
-**Med Engagement Metrics** får du en snabb överblick över hur många mottagare som har öppnat, klickat in och avslutat en prenumeration via e-post.\
-**Score** är e-postens [Engagement Score](../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+**Delivery** Metricsger dig en snabb översikt över hur många e-postmeddelanden som har levererats, väntar eller har studsat.\
+**Med Engagement** Metricsfår du en snabb överblick över hur många mottagare som har öppnat, klickat in och avbrutit en prenumeration via e-post.\
+**Scoreis** your email&#39;s  [Engagement Score](../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 Som standard sorteras dina e-postmeddelanden efter de senaste, men du kan sortera dem efter alla tillgängliga mätvärden.
 
