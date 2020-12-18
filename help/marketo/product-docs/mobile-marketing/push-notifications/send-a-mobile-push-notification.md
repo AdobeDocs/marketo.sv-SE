@@ -24,11 +24,11 @@ Skicka ett push-meddelande till personer som använder din mobilapp.
 
 
 
-1. Gå till området **Marknadsföringsaktiviteter** .
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/image2015-4-22-18-3a31-3a54.png)
 
-1. Välj en smart kampanj och klicka på **Smart List**.
+1. Välj en smart kampanj och klicka på **Smart lista**.
 
    ![](assets/image2015-4-23-17-3a57-3a46.png)
 
