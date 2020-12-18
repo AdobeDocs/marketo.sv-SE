@@ -21,7 +21,7 @@ Följ de här stegen för att skapa en e-postanalysrapport som visar e-postinfor
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
-1. Starta **intäktsutforskaren**.
+1. Starta **Intresseutforskaren**.
 
    ![](assets/image2014-9-17-19-3a42-3a26.png)
 
@@ -33,7 +33,7 @@ Följ de här stegen för att skapa en e-postanalysrapport som visar e-postinfor
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
-1. Hitta den gula punkten **Skickat (vecka)** och högerklicka på den. Klicka på **Filter**.
+1. Hitta den gula punkten **Skickat (Vecka)** och högerklicka på den. Klicka på **Filter**.
 
    >[!NOTE]
    >
@@ -41,7 +41,7 @@ Följ de här stegen för att skapa en e-postanalysrapport som visar e-postinfor
 
    ![](assets/image2014-9-17-19-3a43-3a49.png)
 
-1. Markera **Aktuell sänd vecka** och klicka på **OK**.
+1. Kontrollera **Aktuell avsänd vecka** och klicka på **OK**.
 
    ![](assets/image2014-9-17-19-3a43-3a59.png)
 
@@ -49,11 +49,11 @@ Följ de här stegen för att skapa en e-postanalysrapport som visar e-postinfor
 
    ![](assets/image2014-9-17-19-3a44-3a14.png)
 
-1. Sök och dubbelklicka på den gula punkten **E-postnamn** .
+1. Sök och dubbelklicka på den gula punkten **E-postnamn**.
 
    ![](assets/image2014-9-17-19-3a44-3a34.png)
 
-1. Leta upp och dubbelklicka på de **utsända**, **öppnade** och **klickade** blå punkterna.
+1. Leta reda på och dubbelklicka på de blå punkterna **Skickat**, **Öppnat** och **Klickat**.
 
    ![](assets/image2014-9-17-19-3a44-3a41.png)
 
@@ -66,5 +66,5 @@ Följ de här stegen för att skapa en e-postanalysrapport som visar e-postinfor
    >**Djupdykning**
    >
    >
-   >Vill du veta mer om [intäktscykelutforskaren](http://docs.marketo.com/display/docs/revenue+cycle+analytics)?
+   >Vill du veta mer om [Intäktscykelutforskaren](http://docs.marketo.com/display/docs/revenue+cycle+analytics)?
 
