@@ -32,7 +32,7 @@ Alla som vill använda tillägget Marketo Email Outlook måste först få en lic
 
 ![](assets/image2015-7-20-17-3a48-3a17.png)
 
-1. Klicka på **Utfärda licens** på fliken **E-posttillägg **.
+1. Klicka på **Issue License** under fliken **Email Add-in **tab.
 
    ![](assets/image2016-7-22-10-3a20-3a15.png)
 
@@ -46,7 +46,7 @@ Alla som vill använda tillägget Marketo Email Outlook måste först få en lic
 
    >[!NOTE]
    >
-   >Om du vill installera plugin-programmet på fjärrbasis, låter du kryssrutan vara avmarkerad och skickar din IT-personal din [företagsnyckel](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key).
+   >Om du vill installera plugin-programmet från en annan plats lämnar du kryssrutan avmarkerad och skickar din [företagsnyckel](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) till IT-teamet.
    >
    >Om säljarna har administratörsåtkomst till sina datorer markerar du kryssrutan så är du klar!
 
