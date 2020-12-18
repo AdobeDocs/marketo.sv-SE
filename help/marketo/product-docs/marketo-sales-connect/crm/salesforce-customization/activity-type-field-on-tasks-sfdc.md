@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SFDC (Activity Type Field on Task) {#activity-type-field-on-tasks-sfdc}
+# SFDC (Activity Type Field on Tasks) {#activity-type-field-on-tasks-sfdc}
 
 Med hjälp av Sales Connect kan du logga dina e-postmeddelanden och samtal som en aktivitet i Salesforce. En viktig del av att ha värdefulla data i Salesforce är att låta typfältet fylla i rätt värde.
 
@@ -24,9 +24,9 @@ Med hjälp av Sales Connect kan du logga dina e-postmeddelanden och samtal som e
 * Anslutning till Salesforce
 * Inget standardtypvärde har valts i listrutan Aktivitetstyp
 * Samtal, svar och e-post måste alla finnas i listrutan Aktivitetstyp (skiftlägesfrågor)
-* Ingen `Workflows` eller `Triggers` åtgärd för typfältets värde
+* Ingen `Workflows` eller `Triggers` åtgärd för värdet i textfältet
 
-## Inställningar {#setup}
+## Konfigurera {#setup}
 
 Kontrollera först att du har rätt plocklistevärden på plats. Du behöver hjälp av din Salesforce-administratör för att göra ändringar i din lista.
 
@@ -38,7 +38,7 @@ Kontrollera först att du har rätt plocklistevärden på plats. Du behöver hj�
 1. Du finns nu i listan över uppgiftstyper. Kontrollera att du inte har valt &#39;Standard&#39;.
 1. Kontrollera att det finns ett typvärde för E-post, Ring och Svara.
 
-Nu när detta är på plats börjar du se textfältet fylla i motsvarande värde för loggade e-postmeddelanden, samtal och svar. Dessa värden fylls **inte** i för påminnelseaktiviteter för Sales Connect.
+Nu när detta är på plats börjar du se textfältet fylla i motsvarande värde för loggade e-postmeddelanden, samtal och svar. Dessa värden **fylls inte** i på påminnelseaktiviteter för Sales Connect.
 
 >[!NOTE]
 >
