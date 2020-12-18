@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Installera Marketo-e-posttillägget för Outlook med en registreringskod {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
+# Installera Marketo-e-posttillägget för Outlook med registreringskoden {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
 
 Om användarna har tillgång till administratörsinställningarna på sina bärbara datorer kan du skicka en registreringskod direkt till dem.
 
@@ -19,13 +19,13 @@ Om du inte har fått någon inbjudan via e-post ber du Marketo-administratören 
 
 >[!PREREQUISITES]
 >
->* Du måste [få en Marketo E-post-tilläggslicens](issue-a-marketo-email-add-in-license.md).
+>* Du måste vara [utfärdad en Marketo Email-tilläggslicens](issue-a-marketo-email-add-in-license.md).
 
 >
 
 
 
-## Hämta installationsprogram {#download-installer}
+## Hämta installationsprogrammet {#download-installer}
 
 1. Identifiera din [Microsoft Outlook-version](http://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
 1. Klicka på länken om du vill hämta det installationsprogram som passar din version av Microsoft Outlook.
@@ -71,7 +71,7 @@ Om du inte har fått någon inbjudan via e-post ber du Marketo-administratören 
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. Fyll i **Förnamn**, **Efternamn**, **E-postadress**, kopiera och klistra in **Registreringskoden **från e-postmeddelandet i formuläret och klicka på **Nästa**.
+1. Fyll i **Förnamn**, **Efternamn**, **E-postadress**, kopiera och klistra sedan in **Registreringskoden **från e-postmeddelandet i formuläret och klicka på **Nästa**.
 
    ![](assets/enter-your-information-hands.png)
 
@@ -91,7 +91,7 @@ Om du inte har fått någon inbjudan via e-post ber du Marketo-administratören 
    >
    >Om du får en säkerhetsfråga om en okänd utgivare klickar du på **Ja**.
 
-1. Installationen är klar. Klicka på **Stäng**.
+1. Installationen är nu klar, klicka på **Stäng**.
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 
