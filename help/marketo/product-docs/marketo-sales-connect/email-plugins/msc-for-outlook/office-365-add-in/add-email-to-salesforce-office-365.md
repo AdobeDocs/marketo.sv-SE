@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Med Lägg till e-post i Salesforce kan du skicka e-postmeddelanden som du tar emot i Outlook till ditt Salesforce-konto. Vi gör sökningen baserat på e-postmeddelandets avsändare, så vi kan för närvarande bara använda den här knappen för e-postmeddelanden som du har fått, inte e-postmeddelanden som du har skickat.
 
-Vi arbetar på att ändra funktionaliteten så att du kan logga e-postmeddelanden som du redan har skickat. Om ett e-postmeddelande inte loggade automatiskt när det skickades, eller om det visades i dina misslyckade aktiviteter i [aktivitetsloggen](http://docs.marketo.com/pages/assets/external-link.jspa), kan du vidarebefordra det till din e-postadress [för](http://docs.marketo.com/x/soLS)Salesforce BCC.
+Vi arbetar på att ändra funktionaliteten så att du kan logga e-postmeddelanden som du redan har skickat. Om ett e-postmeddelande inte loggade automatiskt när det skickades, eller om det visades i dina misslyckade aktiviteter i [aktivitetsloggen](http://docs.marketo.com/pages/assets/external-link.jspa), kan du vidarebefordra det till din [Salesforce BCC-e-postadress](http://docs.marketo.com/x/soLS).
