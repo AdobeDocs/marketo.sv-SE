@@ -19,15 +19,15 @@ Intäktscykelanalys kan rapportera i anpassade Marketo-fält, och för att kunna
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till avsnittet **Admin** .
+1. Gå till avsnittet **Admin**.
 
    ![](assets/image2014-9-19-9-3a51-3a11.png)
 
-1. Välj **Inkomstcykelanalys**.
+1. Välj **Intäktscykelanalys**.
 
    ![](assets/image2014-9-19-9-3a51-3a19.png)
 
-1. Klicka på fliken **Synkronisera** anpassade fält och välj önskat analysområde.
+1. Klicka på fliken **Synkronisera anpassade fält** och välj önskat analysområde.
 
    ![](assets/image2014-9-19-9-3a51-3a26.png)
 
@@ -39,7 +39,7 @@ Intäktscykelanalys kan rapportera i anpassade Marketo-fält, och för att kunna
 
    ![](assets/image2014-9-19-9-3a51-3a45.png)
 
-1. Välj önskad **RCA-typ** och klicka sedan på **Spara**.
+1. Välj **RCA-typ** och klicka sedan på **Spara**.
 
    ![](assets/image2014-9-19-9-3a51-3a52.png)
 
