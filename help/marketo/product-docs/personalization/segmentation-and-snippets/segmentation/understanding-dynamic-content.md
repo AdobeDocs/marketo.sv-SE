@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Dynamiskt innehåll {#understanding-dynamic-content}
+# Förstå dynamiskt innehåll {#understanding-dynamic-content}
 
 Personalisering handlar mycket mer än bara&quot;Hej `{{First Name}}`&quot;. Med Marketos dynamiska innehåll kan du anpassa hur olika personer ser en landningssida eller ett e-postmeddelande.
 
@@ -25,7 +25,7 @@ Först måste du dela upp dina personer i undergrupper. Detta kallas [segmenteri
 >
 >**Definition**
 >
->Segmentering kategoriserar er målgrupp i olika undergrupper baserat på en [smart](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)listruta. Dessa grupper kallas segment.
+>Segmentering kategoriserar målgruppen i olika undergrupper baserat på en [Smart List](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)regel. Dessa grupper kallas segment.
 
 Om vi till exempel har en segmentering som kallas Bransch kan några av segmenten vara: Sjukvård, teknik, ekonomi, konsumentvaror osv.   ![](assets/artboard-2.png)
 
@@ -35,9 +35,9 @@ När du har skapat olika segment kan du lägga till dynamiska innehållsblock p�
 
 ![](assets/artboard-3.png)
 
-## Fragment {#snippets}
+## Kodavsnitt {#snippets}
 
-[Kodavsnitt](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) är ett användbart verktyg i Marketo. Skapa en gång och använd den på flera ställen! Om du uppdaterar fragmentet uppdateras alla resurser (landningssidor eller e-postmeddelanden) som använder fragmentet automatiskt.
+[Kodfragment ](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) är ett användbart verktyg i Marketo. Skapa en gång och använd den på flera ställen! Om du uppdaterar fragmentet uppdateras alla resurser (landningssidor eller e-postmeddelanden) som använder fragmentet automatiskt.
 
 >[!NOTE]
 >
