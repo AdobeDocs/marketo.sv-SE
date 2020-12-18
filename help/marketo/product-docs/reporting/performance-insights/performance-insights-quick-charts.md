@@ -17,9 +17,9 @@ Snabbdiagram är miniatyrbilder som du anpassar och sparar, vilket ger en snabb 
 
 ## Skapa ett nytt snabbdiagram {#create-a-new-quick-chart}
 
-Snabbdiagram härleds från data som du anger. I det här exemplet väljer vi: **nya affärsmöjligheter (första kontakten), typ av affärsmöjlighet = ny affärsverksamhet, aktuellt år** till dato.
+Snabbdiagram härleds från data som du anger. I det här exemplet väljer vi: **nya affärsmöjligheter (första beröring), typ av affärsmöjlighet = ny affärsverksamhet, aktuellt år till dato**.
 
-1. Klicka på datumfiltret och välj **Aktuellt år (hittills i år)**.
+1. Klicka på datumfiltret och välj **Aktuellt år (YTD)**.
 
    ![](assets/1-2.png)
 
@@ -49,7 +49,7 @@ Ditt snabbdiagram är nu tillsammans med de andra.
 
 ## Visa befintliga snabbdiagram {#view-existing-quick-charts}
 
-1. Om du vill visa dina befintliga snabbdiagram klickar du bara på **snabbdiagramsikonen** .
+1. Om du vill visa dina befintliga snabbdiagram klickar du bara på ikonen **Snabbdiagram**.
 
    ![](assets/7-1.png)
 
@@ -57,7 +57,7 @@ Ditt snabbdiagram är nu tillsammans med de andra.
 
 Följ de här enkla stegen om du vill ta bort ett snabbdiagram.
 
-1. Klicka på ikonen **Snabbdiagram** .
+1. Klicka på ikonen **Snabbdiagram**.
 
    ![](assets/8-1.png)
 
