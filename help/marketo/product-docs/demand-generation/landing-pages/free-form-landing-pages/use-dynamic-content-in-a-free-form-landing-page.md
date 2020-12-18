@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Använd dynamiskt innehåll på en landningssida i fri form {#use-dynamic-content-in-a-free-form-landing-page}
+# Använd dynamiskt innehåll på en startsida i fri form {#use-dynamic-content-in-a-free-form-landing-page}
 
 Genom att använda dynamiskt innehåll i landningssidor engagerar du publiken med riktad information.
 
@@ -27,7 +27,7 @@ Genom att använda dynamiskt innehåll i landningssidor engagerar du publiken me
 
 ## Lägg till segmentering {#add-segmentation}
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -53,17 +53,17 @@ Genom att använda dynamiskt innehåll i landningssidor engagerar du publiken me
 
 ## Gör element dynamiskt {#make-element-dynamic}
 
-1. Dra och släpp element med dynamiskt innehåll från under **Statisk** till **Dynamisk.**
+1. Dra och släpp element för dynamiskt innehåll från **Statisk** till **Dynamisk.**
 
    ![](assets/image2014-9-17-12-3a10-3a8.png)
 
-1. Du kan också göra elementen **statiska** eller **dynamiska** från **elementinställningarna.**
+1. Du kan också skapa element **Statisk** eller **Dynamisk** från elementet **Inställningar.**
 
    ![](assets/image2014-9-17-12-3a10-3a14.png)
 
 ## Använd dynamiskt innehåll {#apply-dynamic-content}
 
-1. Markera ett element under ett segment, klicka på inställningsikonen och sedan på **Redigera**. Upprepa för varje segment.
+1. Markera ett element under ett segment, klicka på inställningsikonen och klicka sedan på **Redigera**. Upprepa för varje segment.
 
    ![](assets/image2014-9-17-12-3a11-3a43.png)
 
