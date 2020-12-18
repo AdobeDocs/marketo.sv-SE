@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Lägga till innehåll i ett fragment {#add-content-to-a-snippet}
+# Lägg till innehåll i ett fragment {#add-content-to-a-snippet}
 
 >[!PREREQUISITES]
 >
@@ -21,13 +21,13 @@ Du kan lägga till variabler, bilder, filer eller RTF-text i ett fragment.
 
 >[!NOTE]
 >
->Du kan inte bädda in någon [Marketo-e-postsyntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) i utdrag; det kommer **inte** att fungera i ett e-postmeddelande. Kodavsnitt ska bara innehålla brödtext (HTML + TEXT).
+>Du kan inte bädda in en [Marketo-e-postsyntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) i fragment; **fungerar inte** i ett e-postmeddelande. Kodavsnitt ska bara innehålla brödtext (HTML + TEXT).
 
 1. Gå till **Design Studio.**
 
    ![](assets/designstudio-2.png)
 
-1. Markera **fragmentet** och klicka på **Redigera utkast**.
+1. Välj **kodfragment** och klicka på **Redigera utkast**.
 
    ![](assets/image2014-9-16-9-3a34-3a58.png)
 
@@ -35,7 +35,7 @@ Du kan lägga till tre typer av innehåll i ett fragment.
 
 ## Lägg till token {#add-token}
 
-1. Dra och släpp **Token** -elementet.
+1. Dra och släpp **Token**-elementet.
 
    ![](assets/image2014-9-16-9-3a35-3a8.png)
 
@@ -45,7 +45,7 @@ Du kan lägga till tre typer av innehåll i ett fragment.
 
 ## Lägg till bild/fil {#add-image-file}
 
-1. Dra och släpp **bild/fil** -elementet.
+1. Dra och släpp **Image/File**-elementet.
 
    ![](assets/image2014-9-16-9-3a35-3a25.png)
 
@@ -53,7 +53,7 @@ Du kan lägga till tre typer av innehåll i ett fragment.
    >
    >Du kan lägga till egna bilder eller filer i Marketo. Läs mer om [bilder och filer](http://docs.marketo.com/display/docs/images+and+files).
 
-1. Markera den **bild** som ska användas och klicka på **Infoga**.
+1. Välj den **bild** som ska användas och klicka på **Infoga**.
 
    ![](assets/image2014-9-16-9-3a35-3a33.png)
 
@@ -71,7 +71,7 @@ Du kan lägga till tre typer av innehåll i ett fragment.
    >
    >Anpassa texten med formateringsverktygen.
 
-1. För E-postmeddelanden klickar du på fliken **Textversion** .
+1. För E-post klickar du på fliken **Textversion**.
 
    ![](assets/image2014-9-16-9-3a35-3a51.png)
 
