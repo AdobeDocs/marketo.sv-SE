@@ -19,11 +19,11 @@ Med följande steg kan du använda anpassade fält i RCA-rapporter.
 
    ![](assets/one.png)
 
-1. Klicka på **Inkomstcykelanalys** och sedan **Anpassad fältsynkronisering**.
+1. Klicka på **Intäktscykelanalys** och **Anpassad fältsynkronisering**.
 
    ![](assets/two.png)
 
-1. Markera **fältnamnet** och klicka sedan på **Redigera synkroniseringsalternativ**.
+1. Markera ditt **fältnamn** och klicka sedan på **Redigera synkroniseringsalternativ**.
 
    ![](assets/three.png)
 
