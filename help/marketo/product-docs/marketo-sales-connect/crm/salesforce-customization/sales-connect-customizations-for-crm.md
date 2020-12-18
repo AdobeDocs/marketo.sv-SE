@@ -21,7 +21,7 @@ Fälten och knapparna nedan skapas av Metadata API i Salesforce CRM. När fälte
 
 ## Installera anpassningar i Salesforce {#how-to-install-customizations-in-salesforce}
 
-1. Klicka på kugghjulsikonen i Sales Connect och välj **Settings**.
+1. Klicka på kugghjulsikonen i Sales Connect och välj **Inställningar**.
 
    ![](assets/one.png)
 
@@ -43,7 +43,7 @@ Fälten och knapparna nedan skapas av Metadata API i Salesforce CRM. När fälte
 
 ## Anpassade aktivitetsfält {#custom-activity-fields}
 
-Marketo kommer att upptäcka om de nya fälten har skapats och sedan göra en engångsefterfyllning av data, en ommappning och en pågående synkronisering av värden endast i de **nya** fälten. Gamla fält uppdateras inte.
+Marketo identifierar skapandet av de nya fälten och gör sedan en engångsefterfyllning av data, en ommappning och en pågående synkronisering av värden endast i de **nya** fälten. Gamla fält uppdateras inte.
 
 | **Fältnamn** | **Beskrivning** |
 |---|---|
@@ -61,7 +61,7 @@ Marketo kommer att upptäcka om de nya fälten har skapats och sedan göra en en
 | MSE-e-post-URL | Om du klickar på den här URL:en öppnas Kommando Center i MSE och fliken Historik för personinformationsvyn öppnas där du kan se det skickade e-postmeddelandet. |
 | MSE-e-post visad | Loggar en bock när mottagaren visar ett e-postmeddelande. |
 
-## Samla in loggningsfält {#roll-up-logging-fields}
+## Sammanslagning av loggningsfält {#roll-up-logging-fields}
 
 <table> 
  <colgroup> 
@@ -142,5 +142,6 @@ Marketo kommer att upptäcka om de nya fälten har skapats och sedan göra en en
 
 ## Relaterade videoklipp {#related-videos}
 
-**Installera anpassningar i Salesforce**`<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>` ** Fördelen med att använda anpassningar i Salesforce**
+**Installera anpassningar i Salesforce**
+`<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>` ** Fördelen med att använda anpassningar i Salesforce** 
 `<iframe width="630" height="470" src="//play.vidyard.com/4PzSDb6o8Qg8WbvBsq8wJD.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
