@@ -25,8 +25,8 @@ Följ installationsanvisningarna nedan för att implementera RTP-taggen.
    >Du behöver inte publicera den nya behållaren än.
 
 1. När profilen har sparats klickar du på ditt namn/din e-postadress i det övre högra hörnet av Tealium iQ-konsolen.
-1. På Admin-menyn klickar du på **Hantera mallar** under Kontoadministratör.
-1. Välj anpassad **tealium-behållare: Marketo RTP** i listrutan för att öppna taggmallen.
+1. Klicka på **Hantera mallar** under Kontoadministratör på Admin-menyn.
+1. Välj **Anpassad tealiumbehållare: Marketo RTP** från listrutan för att öppna taggmallen.
 1. Logga in på ditt RTP-konto.
 1. Gå till Kontoinställningar.
 
@@ -43,7 +43,7 @@ Följ installationsanvisningarna nedan för att implementera RTP-taggen.
    >
    >Ta bort taggarna `<!-- RTP tag -->` och `<!-- End of RTP tag -->` från koden som du placerar i den här filen.
    >
-   >Ta bort alla `<script type='text/javascript'>` och `</script>` taggar från koden som du monterar i den här filen.
+   >Ta bort alla `<script type='text/javascript'>`- och `</script>`-taggar från koden som du monterar i den här filen.
 
-1. **Klicka på Spara profilmall** och publicera den nya profilen.
+1. **Klicka på Spara** profilmall och publicera den nya profilen.
 
