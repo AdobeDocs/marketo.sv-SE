@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ta bort en segmentering {#delete-a-segmentation}
+# Ta bort ett segment {#delete-a-segmentation}
 
 Du kan ta bort en segmentering genom att följa stegen nedan.
 
@@ -19,13 +19,13 @@ Du kan ta bort en segmentering genom att följa stegen nedan.
 
    ![](assets/image2017-3-28-14-3a55-3a26.png)
 
-1. Gå till segmenteringen och klicka på **Används av** för att kontrollera associationer.
+1. Gå till din segmentering och klicka på **Används av** för att kontrollera associationer.
 
    ![](assets/image2017-3-28-15-3a51-3a8.png)
 
    Om din segmentering används av andra resurser tar du bort alla dessa associationer innan du fortsätter.
 
-1. Ta bort alla associationer och klicka sedan på **Ta bort** i **** Segmenteringsåtgärder.
+1. Ta bort alla associationer och klicka sedan i **Segmenteringsåtgärder** på **Ogodkänd** i &lt;a0/>Segmenteringsåtgärder&lt;a1/>.
 
    ![](assets/image2017-3-28-15-3a51-3a30.png)
 
