@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Använd en Marketo-lista eller en smart lista som ett LinkedIn-målsegment {#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
+# Använd en Marketo-lista eller Smart List som ett LinkedIn-målgruppssegment {#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
 
 Integrera er marknadsföring med andra med era LinkedIn-målgrupper.
 
@@ -31,11 +31,11 @@ Integrera er marknadsföring med andra med era LinkedIn-målgrupper.
 
    ![](assets/two.png)
 
-1. Klicka på fliken **Personer** .
+1. Klicka på fliken **Personer**.
 
    ![](assets/three-1.png)
 
-1. Klicka på ikonen** Skicka via annons ** ![—](assets/image2015-4-20-18-3a18-3a41.png) längst ned i listan.
+1. Klicka på ikonen ** Skicka via annons **ikon ![—](assets/image2015-4-20-18-3a18-3a41.png) längst ned i listan.
 
    ![](assets/four-1.png)
 
@@ -47,11 +47,11 @@ Integrera er marknadsföring med andra med era LinkedIn-målgrupper.
 
    ![](assets/image2015-4-20-18-3a7-3a19.png)
 
-1. Välj en **LinkedIn-publik**.
+1. Välj en **LinkedIn-målgrupp**.
 
    >[!NOTE]
    >
-   >Om du klickar **+Ny publik** skapas en målgrupp i LinkedIn Campaign Manager.
+   >Om du klickar på **+Ny publik** skapas en målgrupp i LinkedIn Campaign Manager.
 
    ![](assets/6.png)
 
@@ -59,7 +59,7 @@ Integrera er marknadsföring med andra med era LinkedIn-målgrupper.
    >
    >LinkedIn tog bort de API:er som användes för push-typen&quot;Clear audiens and add leads&quot; i mars 2018. Det här alternativet är inte längre tillgängligt från och med Marketos Q1 2018-utgåva.
 
-1. Välj en **penseltyp**. Klicka på **Uppdatera**.
+1. Välj en **push-typ**. Klicka på **Uppdatera**.
 
    ![](assets/7.png)
 
