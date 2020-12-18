@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Prenumerera på och avbryta prenumeration {#resubscribing-an-unsubscribe}
+# Prenumerera på ett Avbeställ {#resubscribing-an-unsubscribe}
 
 Ibland vill man avanmäla sig från att ta emot e-post. Så här gör du för att avbeställa tjänsten.
 
@@ -32,11 +32,11 @@ Ibland vill man avanmäla sig från att ta emot e-post. Så här gör du för at
 
    ![](assets/two.png)
 
-1. Klicka på de tre prickarna i vyn Personinformation och välj **Ta bort avbeställning**.
+1. Klicka på de tre punkterna i vyn med personinformation och välj **Ta bort avanmälan**.
 
    ![](assets/three.png)
 
-1. Välj orsaken till varför personen har valts tillbaka för att få e-post och klicka sedan på **Ta bort avanmälan**.
+1. Välj orsaken till varför personen har valts in igen för att få e-post och klicka sedan på **Ta bort avanmälan**.
 
    ![](assets/four.png)
 
