@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Lägg till en landsväljare i formuläret {#add-a-country-picklist-to-your-form}
+# Lägg till en landsväljarlista i ditt formulär {#add-a-country-picklist-to-your-form}
 
 Följ dessa anvisningar för att konvertera landfältet till en listruta med en lista över alla länder.
 
-1. Gå till **Marknadsföringsaktiviteter** och **aktiviteter**.
+1. Gå till **Marknadsföring** **Aktiviteter**.
 
    ![](assets/login-marketing-activities-9.png)
 
-1. Markera formuläret och klicka på **Redigera** **formulär**.
+1. Markera formuläret och klicka på **Redigera** **Formulär**.
 
    ![](assets/editform-1.png)
 
@@ -31,15 +31,15 @@ Följ dessa anvisningar för att konvertera landfältet till en listruta med en 
 
    ![](assets/image2014-9-15-15-3a33-3a15.png)
 
-1. Med fältet **Land** markerat ändrar du **Fälttyp** **till** Välj ****.
+1. Med fältet **Land** markerat ändrar du **Fält** **Typ** till **Välj**.
 
    ![](assets/image2014-9-15-15-3a33-3a21.png)
 
-1. **Redigera** **värden** för att lägga till listan över länder som användare kan välja från.
+1. **Redigera** värdena  **** för att lägga till listan över länder som användare kan välja mellan.
 
    ![](assets/image2014-9-15-15-3a33-3a40.png)
 
-1. Klicka på **Avancerad** **redigerare**.
+1. Klicka på **Avancerat** **Redigeraren**.
 
    ![](assets/image2014-9-15-15-3a34-3a1.png)
 
