@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Du kan välja vilka kolumner som är och inte är inkluderade i rapporten.
 
-1. Gå till **Analytics **(eller **Marketing Activity**).
+1. Gå till området **Analytics **(eller **Marknadsföringsaktiviteter**).
 
    ![](assets/image2014-9-16-10-3a43-3a0.png)
 
@@ -23,7 +23,7 @@ Du kan välja vilka kolumner som är och inte är inkluderade i rapporten.
 
    ![](assets/image2014-9-16-10-3a43-3a5.png)
 
-1. Klicka på fliken **Rapport** , klicka på en kolumnrubrik, markera **Kolumner** och välj sedan de kolumner som ska inkluderas.
+1. Klicka på fliken **Rapport**, klicka på en kolumnrubrik och välj **Kolumner** och välj sedan de kolumner som ska inkluderas.
 
    ![](assets/image2014-9-16-10-3a43-3a9.png)
 
