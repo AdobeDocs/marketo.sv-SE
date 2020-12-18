@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2016-8-23-16-3a49-3a48.png)
 
-1. Gå till **Konfigurera**.
+1. Gå till **Inställningar**.
 
    ![](assets/image2016-8-23-16-3a51-3a56.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/image2016-8-23-16-3a43-3a28.png)
 
-1. Ange meddelandetext eller välj token-ikonen om du vill lägga till variabler. Välj sedan en **knackåtgärd**.
+1. Ange meddelandetext eller välj token-ikonen om du vill lägga till variabler. Välj sedan ett **tryck på Åtgärd**.
 
    ![](assets/image2015-9-14-16-3a7-3a43.png)
 
@@ -53,15 +53,15 @@ ht-degree: 0%
    >Det finns tre typer av** Tryck på Åtgärder:**
    >
    >
-   >**Starta app** - **Den här appen** öppnar appens startsida när användaren trycker på meddelandet. **Anpassad** använder en djuplänk för att öppna andra områden i din app eller andra appar som du har länken till (mer information finns i [Deep Link URI](#Deeplink) nedan).
+   >**Starta app**  -  **Det här** programmet öppnar appens startsida när användaren trycker på meddelandet. **Kunderna** använder en djup länk för att öppna andra delar av appen eller andra appar som du har länken till (mer information finns i  [Deep Link ](#Deeplink) URI nedan).
    >
    >
-   >**Landningssida** - tar dig till en angiven Marketo-landningssida.
+   >**Landningssida**  - tar dig till en viss Marketo-landningssida.
    >
    >
-   >**Extern URL** - tar dig till en landningssida som inte är markerad.
+   >**Extern URL**  - tar dig till en landningssida som inte är Marketo.
 
-   Om du vill infoga en djuplänk för en anpassad knackningsåtgärd klickar du på Anpassad och anger [djuplänkens URI](#Deeplink) i fältet.
+   Om du vill infoga en djuplänk för en anpassad knackningsåtgärd klickar du på Anpassad och anger URI:n för djuplänk[ i fältet.](#Deeplink)
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
@@ -91,7 +91,7 @@ ht-degree: 0%
 
 Grattis! Nu är push-meddelandet klart att skickas.
 
-## Deep Link URIs {#deep-link-uris}
+## Deep Link URI:er {#deep-link-uris}
 
 När prenumeranter klickar på en knapp i ett push-meddelande kan de antingen gå till appens hemsida eller direkt till en viss sida i appen. En djup länk är en unik referens till en viss sida i appen och ser ut ungefär som en webbplatslänk.
 
