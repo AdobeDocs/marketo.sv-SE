@@ -21,7 +21,7 @@ Lär dig hur du skickar ett e-postmeddelande till en hel grupp eller lägger til
 
    ![](assets/one-6.png)
 
-1. Klicka på knappen **Gruppera åtgärder** och välj **E-postgrupp**.
+1. Klicka på knappen **Gruppåtgärder** och välj **E-postgrupp**.
 
    ![](assets/two-5.png)
 
