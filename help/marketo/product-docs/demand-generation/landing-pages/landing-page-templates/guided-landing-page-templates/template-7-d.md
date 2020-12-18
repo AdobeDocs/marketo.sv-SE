@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Mall 7-D {#template-d}
+# Template 7-D {#template-d}
 
 [Ladda ned mall 7-D](http://docs.marketo.com/download/attachments/8783950/template-7d.html?version=1&amp;modificationdate=1437693396000&amp;api=v2)
 
