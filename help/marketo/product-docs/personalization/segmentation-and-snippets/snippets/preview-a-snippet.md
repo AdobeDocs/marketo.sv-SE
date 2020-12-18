@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Förhandsgranska ett kodavsnitt {#preview-a-snippet}
+# Förhandsgranska ett fragment {#preview-a-snippet}
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ Kodavsnitt är block med dynamiskt innehåll som ändras baserat på segmenterin
 
    ![](assets/designstudio-3.png)
 
-1. Klicka på fragmentet och sedan på **Förhandsgranska fragment**.
+1. Klicka på fragmentet och **Förhandsgranska fragment**.
 
    ![](assets/image2014-9-16-9-3a48-3a32.png)
 
