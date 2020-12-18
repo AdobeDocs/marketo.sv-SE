@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Förhindra självvisning {#preventing-self-views}
+# Förhindrar självvisning {#preventing-self-views}
 
 ## Översikt {#overview}
 
@@ -41,11 +41,11 @@ Vyer spåras genom att en liten osynlig bildpixel hämtas till din e-postklient.
 
    ![](assets/win-3.png)
 
-1. Klicka på Inställningar för **Trust Center under Microsoft Outlook Trust Center**.
+1. Under Microsoft Outlook Trust Center klickar du på **Trust Center Settings**.
 
    ![](assets/win-4.png)
 
-1. Klicka på Automatisk hämtning på menyn till vänster och markera kryssrutan **Hämta inte bilder automatiskt i HTML-e-post eller RSS-alternativ** .
+1. Klicka på Automatisk hämtning på menyn till vänster och markera kryssrutan **Hämta inte bilder automatiskt i HTML-e-post eller RSS-alternativ**.
 
    ![](assets/win-5.png)
 
@@ -61,15 +61,15 @@ Vyer spåras genom att en liten osynlig bildpixel hämtas till din e-postklient.
 
 Vyer spåras genom att en liten osynlig bildpixel hämtas till din e-postklient. Du kan avsevärt minska antalet självvisningar i Outlook genom att inaktivera bilder som laddas ned automatiskt. Här nedan beskrivs hur du gör.
 
-1. I Outlook klickar du på **Outlook** på menyraden och väljer **Inställningar**.
+1. I Outlook klickar du på **Outlook** i menyraden och väljer **Inställningar**.
 
    ![](assets/mac-1.png)
 
-1. Välj **Läsning** under E-post.
+1. Välj **Läser** under E-post.
 
    ![](assets/mac-2.png)
 
-1. Klicka på knappen **Aldrig** under Säkerhet.
+1. Klicka på alternativknappen **Aldrig** under Säkerhet.
 
    ![](assets/mac-3.png)
 
