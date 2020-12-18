@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Det finns två typer av redigerbara sektioner i mallar för guidade landningssidor: element och variabler.
 
-## Element  {#elements}
+## Element {#elements}
 
 Elementen är de olika innehållsdelar som utgör en landningssida. De kan vara bilder, text eller Marketo-resurser.
 
@@ -49,11 +49,11 @@ Det finns tre typer av variabler: strängvariabler, färgvariabler och booleska 
   </tr> 
   <tr> 
    <td>Färg</td> 
-   <td><p>Redigerbar hexkod för färg</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Exempel: Bakgrundsfärg, teckensnittsfärg, kantfärg</p></td> 
+   <td><p>Redigerbar hexkod för färg</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="—"></p><p>Exempel: Bakgrundsfärg, teckensnittsfärg, kantfärg</p></td> 
   </tr> 
   <tr> 
    <td>Boolean</td> 
-   <td><p>En spake som styr läge på/av för objekt eller format på landningssidan</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Exempel: Visa sidfot (Ja/Nej), Antal kolumner (1/2), Bädda in Google Analytics (sant/falskt)</p></td> 
+   <td><p>En spake som styr läge på/av för objekt eller format på landningssidan</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="—"></p><p>Exempel: Visa sidfot (Ja/Nej), Antal kolumner (1/2), Bädda in Google Analytics (sant/falskt)</p></td> 
   </tr> 
  </tbody> 
 </table>
