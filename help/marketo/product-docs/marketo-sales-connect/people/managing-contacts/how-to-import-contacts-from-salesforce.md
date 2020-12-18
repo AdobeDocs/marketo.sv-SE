@@ -18,6 +18,6 @@ Knappen&quot;Skicka till Sales Connect&quot; tar en lista över dina leads/konta
 1. I en leadlista i Salesforce väljer du de personer du vill ska föras in i Sales Engage.
 1. Välj **Skicka till MSC**.
 1. Ett nytt fönster visas som verifierar de leads som du vill föra över.
-1. Välj **Gå till grupp**. Säljanslutning lägger till den här gruppen med namnet SFDC-.....*&quot;* till sidan Personer i [webbprogrammet](http://toutapp.com/).
-1. Välj **E-posta hela gruppen** om du vill skicka den här gruppen med kontakter till ett gruppe-postmeddelande.
+1. Välj **Gå till grupp**. Säljanslutning lägger till den här gruppen med namnet SFDC-.....*&quot;* till sidan Personer i  [webbprogrammet](http://toutapp.com/).
+1. Välj **E-posta hela gruppen** om du vill skicka den här gruppen med kontakter ett gruppe-postmeddelande.
 
