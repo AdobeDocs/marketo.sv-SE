@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Understanding the Program Revenue Stage Analysis Area {#understanding-the-program-revenue-stage-analysis-area}
+# Förstå analysområdet för programintäkterna {#understanding-the-program-revenue-stage-analysis-area}
 
 I det här analysområdet kan du analysera effektiviteten i enskilda program eller se summerade resultat per kanal. Här får du insikt i hur många av de nya namnen som har genererats har nått vissa framgångar inom modellen för intäktscykler.
 
