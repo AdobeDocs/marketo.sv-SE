@@ -23,7 +23,7 @@ Här väljer du och anpassar dina bilder för meddelanden i appen.
 
    >[!TIP]
    >
-   >Vad är skillnaden mellan mallarna? Se [Välja en layout för ditt meddelande](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) i appen innan du börjar.
+   >Vad är skillnaden mellan mallarna? Se [Välj en layout för ditt meddelande i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) innan du börjar.
 
    ![](assets/image2016-5-4-10-3a21-3a33.png)
 
@@ -67,7 +67,7 @@ Här väljer du och anpassar dina bilder för meddelanden i appen.
 
    ![](assets/image2016-5-6-9-3a39-3a28.png)
 
-1. Välj en marginal (av eller på). **På** är standardinställningen.
+1. Välj en marginal (av eller på). **Standardinställningen är** On.
 
    ![](assets/image2016-5-6-9-3a42-3a15.png)
 
@@ -87,7 +87,7 @@ Här väljer du och anpassar dina bilder för meddelanden i appen.
    >
    >Om du vill trycka på åtgärder för bilder, knappar eller bakgrunder kan du ange olika åtgärder för Apple- och Android-plattformarna. Djuplänkar hanteras till exempel på olika sätt för Apple och Android. Om ditt meddelande endast ska visas på en plattform eller på en annan, låter du den andra vara kvar i standardinställningen eller väljer **Ingen**.
 
-Bra jobbat! Nu är det dags att [skapa texten för ditt meddelande](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md)i appen.
+Bra jobbat! Nu är det dags att [skapa texten för meddelandet](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md) i appen.
 
 >[!MORELIKETHIS]
 >
