@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Har aldrig fått någon bekräftelsemeddelande {#never-received-a-verification-email}
+# Har aldrig fått ett verifieringsmeddelande {#never-received-a-verification-email}
 
 Fick du inte bekräftelsemeddelandet från oss?
 
