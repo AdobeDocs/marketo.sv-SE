@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# Personaliserad marknadsföring på Facebook {#personalized-remarketing-in-facebook}
+# Anpassad marknadsföring på Facebook {#personalized-remarketing-in-facebook}
 
 Med personligt anpassad marknadsföring kan ni återengagera era användare med hjälp av RTP-data och kraften i Facebook Remarketing.
 
 >[!PREREQUISITES]
 >
->* Slutför konfigurationen av [återmarknadsföring med webbpersonaliseringsdata](retargeting-with-web-personalization-data.md)
->* Granska [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) Facebook-dokumentationen om anpassade [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)annonser och marknadsföring
+>* Slutför installationen av [Återmarknadsföring med webbpersonaliseringsdata](retargeting-with-web-personalization-data.md)
+>* Granska [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-dokumentationen om anpassade målgrupper](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)och ommarketing
 
 >
 
 
 
-## Skapa en publik på Facebook {#creating-an-audience-in-facebook}
+## Skapa en publik i Facebook {#creating-an-audience-in-facebook}
 
-1. Gå till fliken [](https://www.facebook.com/ads/audience_manager) Audience i Ads Manager på Facebook.
+1. Gå till fliken [Målgrupp](https://www.facebook.com/ads/audience_manager) i Ads Manager på Facebook.
 1. Klicka på **Verktyg** och välj **Publiker**.
 
    ![](assets/one-1.png)
 
-1. Klicka på **Skapa en anpassad publik**.
+1. Klicka på **Skapa en anpassad målgrupp**.
 
    ![](assets/two-1.png)
 
@@ -51,7 +51,7 @@ Med personligt anpassad marknadsföring kan ni återengagera era användare med 
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
-1. I det här exemplet väljer du Bransch som ska innehålla **Utbildning**. Ange **Utbildning** och redigera **Under de sista** till 180 dagarna. Ange målgruppsnamn: **Utbildningsbranschen**. Klicka på **Skapa publik**.
+1. I det här exemplet väljer du Bransch som ska innehålla **Utbildning**. Ange **Utbildning** och redigera **De sista** ska vara 180 dagar. Ange målgruppsnamn: **Skolbranschen**. Klicka på **Skapa målgrupp**.
 
    ![](assets/image2015-1-19-16-3a56-3a15.png)
 
@@ -112,7 +112,7 @@ Mer information finns i [Facebooks dokumentation](https://developers.facebook.co
 
    ![](assets/image2015-1-19-17-3a10-3a19.png)
 
-1. Välj **Skicka personer till webbplatsen** som mål för kampanjen.
+1. Välj **Skicka personer till din webbplats** som mål för din kampanj.
 
    ![](assets/image2015-1-19-17-3a11-3a20.png)
 
