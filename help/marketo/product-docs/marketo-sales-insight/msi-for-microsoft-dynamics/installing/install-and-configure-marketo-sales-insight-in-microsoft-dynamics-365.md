@@ -17,9 +17,9 @@ Marketo Sales Insight är ett fantastiskt verktyg för att ge säljteamet ett&qu
 
 >[!PREREQUISITES]
 >
->Slutför er [Marketo-Microsoft-integrering](http://docs.marketo.com/x/E4A2).
+>Slutför din [Marketo-Microsoft-integrering](http://docs.marketo.com/x/E4A2).
 >
->[Hämta rätt lösning](http://docs.marketo.com/x/LoJo) för din version av Microsoft Dynamics CRM.
+>[Hämta rätt ](http://docs.marketo.com/x/LoJo) lösning för din version av Microsoft Dynamics CRM.
 
 ## Importera lösning {#import-solution}
 
@@ -31,7 +31,7 @@ Marketo Sales Insight är ett fantastiskt verktyg för att ge säljteamet ett&qu
 
    ![](assets/image2015-3-16-16-0-10.png)
 
-1. Klicka på menyn ![—](assets/image2015-5-13-10-5-8.png) . I listrutan väljer du **Inställningar** och sedan **Lösningar**.
+1. Klicka på menyn ![—](assets/image2015-5-13-10-5-8.png). I listrutan väljer du **Inställningar** och sedan **Lösningar**.
 
    ![](assets/image2015-5-13-10-4-1.png)
 
@@ -45,7 +45,7 @@ Marketo Sales Insight är ett fantastiskt verktyg för att ge säljteamet ett&qu
    Klicka på Importera.
    ![](assets/image2014-12-12-9-3a5-3a27.png)
 
-1. Klicka på **Bläddra** i det nya fönstret. Välj den [Marketo Sales Insight-lösning du laddade ned i steg 1](#msi). Klicka på **Nästa**.
+1. Klicka på **Bläddra** i det nya fönstret. Välj den [Marketo Sales Insight-lösning som du hämtade i steg 1](#msi). Klicka på **Nästa**.
 
    ![](assets/image2015-5-13-15-3a38-3a49.png)
 
@@ -53,7 +53,7 @@ Marketo Sales Insight är ett fantastiskt verktyg för att ge säljteamet ett&qu
 
    ![](assets/image2014-12-12-9-3a6-3a10.png)
 
-1. Se till att rutan är **markerad** och klicka på **Importera**.
+1. Se till att du inte markerar rutan **och klickar på** Importera **.**
 
    ![](assets/image2014-12-12-9-3a6-3a19.png)
 
@@ -77,7 +77,7 @@ Låt oss knyta din Marketo-instans till Sales Insight i Dynamics. Så här:
 >
 >**Administratörsbehörigheter krävs**
 
-1. Logga in på Marketo och gå till **Admin** .
+1. Logga in på Marketo och gå till avsnittet **Admin**.
 
    ![](assets/image2014-12-12-9-3a6-3a50.png)
 
@@ -85,7 +85,7 @@ Låt oss knyta din Marketo-instans till Sales Insight i Dynamics. Så här:
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
-1. Kopiera **Marketo Host**, **API URL** och **API User Id** för användning i ett senare steg. Ange en **API-hemlig nyckel** och klicka på **SPARA**.
+1. Kopiera **Marketo Host**, **API URL** och **API användar-ID** för användning i ett senare steg. Ange en **API-hemlig nyckel** och klicka på **SPARA**.
 
    >[!CAUTION]
    >
@@ -95,16 +95,16 @@ Låt oss knyta din Marketo-instans till Sales Insight i Dynamics. Så här:
 
    >[!NOTE]
    >
-   >Följande fält måste synkroniseras med Marketo för att *både Lead och Contact* for Sales Insight ska fungera:
+   >Följande fält måste synkroniseras med Marketo för *både Lead och Contact* för att Sales Insight ska fungera:
    >
    > * Prioritet
    > * Akut
    > * Relativa poäng
 
    >
-   >Om något av dessa fält saknas visas ett felmeddelande i Marketo med namnet på de fält som saknas. Utför [den här proceduren](../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)för att åtgärda detta.
+   >Om något av dessa fält saknas visas ett felmeddelande i Marketo med namnet på de fält som saknas. Utför [den här proceduren](../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md) för att åtgärda detta.
 
-1. I Microsoft Dynamics klickar du på ![](assets/image2015-5-13-15-3a49-3a19.png) ikonen bredvid Inställningar och väljer sedan **Marketo API Config** i listrutan.
+1. I Microsoft Dynamics klickar du på ikonen ![](assets/image2015-5-13-15-3a49-3a19.png) bredvid Inställningar och väljer sedan **Marketo API Config** i listrutan.
 
    ![](assets/image2015-5-13-16-3a4-3a1.png)
 
@@ -116,13 +116,13 @@ Låt oss knyta din Marketo-instans till Sales Insight i Dynamics. Så här:
 
    ![](assets/image2015-5-13-16-3a7-3a6.png)
 
-1. Klicka på ![](assets/image2015-5-13-16-3a8-3a51.png) ikonen längst ned till höger för att spara ändringarna.
+1. Klicka på ikonen ![](assets/image2015-5-13-16-3a8-3a51.png) längst ned till höger för att spara ändringarna.
 
 ## Ange användaråtkomst {#set-user-access}
 
 Du måste ge användarna behörighet att använda Sales Insight.
 
-1. Klicka på ![](assets/image2015-5-13-10-3a5-3a8.png) menyn. I listrutan väljer du **Inställningar** och sedan **Dokumentskydd**.
+1. Klicka på menyn ![](assets/image2015-5-13-10-3a5-3a8.png). I listrutan väljer du **Inställningar** och sedan **Säkerhet**.
 
    ![](assets/image2015-5-13-16-3a12-3a12.png)
 
@@ -130,7 +130,7 @@ Du måste ge användarna behörighet att använda Sales Insight.
 
    ![](assets/image2015-4-29-14-3a57-3a46.png)
 
-1. Markera den eller de användare som du vill ge tillgång till Sales Insight till och klicka på **Hantera roller**.
+1. Markera den eller de användare som du vill ge åtkomst till Sales Insight till och klicka på **Hantera roller**.
 
    ![](assets/image2015-4-29-14-3a59-3a31.png)
 
