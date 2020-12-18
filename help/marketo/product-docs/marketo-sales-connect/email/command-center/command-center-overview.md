@@ -78,13 +78,13 @@ I e-postavsnittet får du en fågelöversikt över alla dina e-postmeddelanden o
  </tbody> 
 </table>
 
-## Hantera uppgifter {#manage-tasks}
+## Hantera aktiviteter {#manage-tasks}
 
 Uppgiftsavsnittet är en heltäckande lösning för att hantera och slutföra uppgifter. Här kan du smidigt hantera dina uppgifter och öka produktiviteten och fokusera på de mest relevanta objekten.
 
 ![](assets/command-center-overview-2.png)
 
-## Uppföljning med engagerade potentiella kunder {#follow-up-with-engaged-prospects}
+## Uppföljning med engagerade prospects {#follow-up-with-engaged-prospects}
 
 När ni väl har börjat engagera era prospects via dispositionsfönstret eller kampanjer kan ni börja rikta om de mest engagerade prospects genom att använda de avancerade sökfunktionerna.
 
