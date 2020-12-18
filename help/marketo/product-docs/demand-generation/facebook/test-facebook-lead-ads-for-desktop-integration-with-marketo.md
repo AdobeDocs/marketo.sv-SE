@@ -11,16 +11,16 @@ ht-degree: 0%
 ---
 
 
-# Testa Facebook-annonser för integrering med Marketo {#test-facebook-lead-ads-for-desktop-integration-with-marketo}
+# Testa Facebook-annonser för datorintegrering med Marketo {#test-facebook-lead-ads-for-desktop-integration-with-marketo}
 
 När du har skapat din lead-annons bör du testa den! Så här gör du på skrivbordet.
 
 >[!PREREQUISITES]
 >
->Du måste [konfigurera Facebook Lead Ads-integrering](set-up-facebook-lead-ads.md).
+>Du måste [konfigurera Facebook Lead Ads Integration](set-up-facebook-lead-ads.md).
 
 1. Välj en kampanj, en annons i Facebook Power Editor och klicka på **Redigera**.
-1. Klicka på länken **Visa i nyhetsfeed** under **Länkar** .
+1. Under **Länkar** klickar du på länken **Visa i nyhetsfeed**.
 
    ![](assets/image2016-5-13-14-3a35-3a36.png)
 
@@ -40,7 +40,7 @@ När du har skapat din lead-annons bör du testa den! Så här gör du på skriv
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. Det är här som magin händer! När du har skickat in formuläret kan du [skapa en smart lista i Marketo](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) som en del av ett program eller i databasen som använder det ifyllda Facebook-filtret för annonser. Ange formulärets namn för lead-annons för det formulär du just skickade.
+1. Det är här som magin händer! När du har skickat in formuläret [skapar du en smart lista i Marketo](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) som en del av ett program eller i databasen som använder det ifyllda Facebook-filtret för annonser. Ange formulärets namn för lead-annons för det formulär du just skickade.
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 
