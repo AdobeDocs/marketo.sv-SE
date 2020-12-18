@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## Hur kommer jag snabbt igång med Sales Phone? {#how-do-i-quickly-get-set-up-with-sales-phone}
 
-**Telefonnummer:** Du behöver bara skriva in den en gång. Sales Connect kommer att komma ihåg ditt nummer för alla framtida samtal.
+**Telefonnummer:** Du behöver bara skriva in det en gång. Sales Connect kommer att komma ihåg ditt nummer för alla framtida samtal.
 
-**Lokal närvaro:** Du behöver bara kontrollera &quot;använd lokal närvaro&quot; och registrera samtalet för ditt första samtal. Sales Connect kommer att komma ihåg dina inställningar för alla framtida samtal.
+**Lokal närvaro:** Du behöver bara kontrollera&quot;använd lokal närvaro&quot; och registrera samtalet för ditt första samtal. Sales Connect kommer att komma ihåg dina inställningar för alla framtida samtal.
 
-Om du vill att Sales Connect automatiskt ska skapa en samtalsaktivitet i Salesforce ska du läsa [den här artikeln](http://docs.marketo.com/x/joLS).
+Om du vill att Sales Connect automatiskt ska skapa en samtalsaktivitet i Salesforce går du till [den här artikeln](http://docs.marketo.com/x/joLS).
 
 ## Hur ringer jag ett samtal med en säljtelefon? {#how-do-i-make-a-call-with-sales-phone}
 
@@ -39,4 +39,4 @@ När du ringer eller ringer ett samtal kommer Sales Connect att ange din lead/ko
 
 För team som använder andra CRMS-system hämtar Sales Connect telefonnumret från numret på posten i Sales Connect. Dessa data är enkelt tillgängliga via en [CSV-överföring](http://docs.marketo.com/x/HIPS).
 
-Tryck på den stora gröna **samtalsknappen** . Din telefon börjar sedan ringa. Plocka upp telefonen så ringer Sales Connect automatiskt lead/kontakt.
+Tryck på den stora gröna knappen **Ring**. Din telefon börjar sedan ringa. Plocka upp telefonen så ringer Sales Connect automatiskt lead/kontakt.
