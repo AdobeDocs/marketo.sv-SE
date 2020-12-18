@@ -25,7 +25,7 @@ Se hur du kan bädda in ett Marketo-formulär i en webbkampanj (Dialog, In Zone 
 
    ![](assets/image2015-12-16-11-3a16-3a24.png)
 
-1. Gå till **Webbkampanjer i Webbanpassning**.
+1. Gå till **Webbkampanjer** i Webbanpassning.
 
    ![](assets/web-campaigns-hand-7.jpg)
 
@@ -80,7 +80,7 @@ Så här lägger du till CSS-kod i skriptet:
 
    ![](assets/image2015-12-29-18-3a1-3a15.png)
 
-1. Klicka på **Förhandsgranska** den för att se hur den kommer att återges i en kampanj (formuläret kommer inte att visas i redigeringsvyn). Här är ett exempel på hur formulärkoden ovan återges i en kampanj med en bakgrundsbild.
+1. Klicka på **Förhandsgranska** för att se hur det kommer att återges i en kampanj (formuläret kommer inte att visas i redigeringsvyn). Här är ett exempel på hur formulärkoden ovan återges i en kampanj med en bakgrundsbild.
 
    ![](assets/image2015-12-29-18-3a20-3a35.png)
 
