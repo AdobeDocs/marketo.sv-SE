@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Djupdykning:** Trött på att läsa? [Titta på den här videon](https://youtu.be/3O7e4GdZKsM) med steg-för-steg-instruktioner.
+>**Djupdykning:** Trött på att läsa? [Titta på den här coola ](https://youtu.be/3O7e4GdZKsM) videon med steg-för-steg-instruktioner.
 
 Mallar för guidade landningssidor har en speciell syntax. Använd den här syntaxen för att ange vad som kan anpassas och var innehållet ska hamna på varje landningssida som skapats utifrån din mall. Endast de regioner eller variabler som du anger som redigerbara kommer att vara tillgängliga för anpassning i den guidade redigeraren för landningssidor.
 
@@ -34,7 +34,7 @@ Elementen deklareras genom att ett vanligt DOM-element läggs till i mallen och 
 
 ## Text {#text}
 
-Om du definierar ett område som RTF-text kan användarna redigera innehållet [med hjälp av Marketos RTF-redigerare](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+Om du definierar ett område som RTF kan användarna redigera innehållet [med Marketos RTF-redigerare](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
 Attribut som krävs:\
 **klass**: &quot;mktoText&quot;\
@@ -50,7 +50,7 @@ Exempel:
 
 ### Bild {#image}
 
-Det finns två alternativ för att definiera redigerbara bildelement. Du kan antingen använda en `<div>`, som anger en behållare som bilden ska infogas i, eller en `<img>` tagg.
+Det finns två alternativ för att definiera redigerbara bildelement. Du kan antingen använda en `<div>`, som anger en behållare som bilden ska infogas i, eller en `<img>`-tagg.
 
 ## Alternativ 1 - Använd <div> {#option-use-a-div}
 
@@ -61,13 +61,13 @@ id: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot
 mktoName : Sträng. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
 
 Valfritt:\
-mktoImgClass: Sträng. Värdet här läggs till i klassattributet för `<img>` elementet inuti div-filen.
+mktoImgClass: Sträng. Värdet här läggs till i klassattributet för `<img>`-elementet inuti div-elementet.
 
 Exempel:
 
 `<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image"></div></pre>`
 
-## Alternativ 2 - Använd `<img>` {#option-use-a-img}
+## Alternativ 2 - Använd en `<img>` {#option-use-a-img}
 
 Attribut som krävs:\
 klass: &quot;mktoImg&quot;\
@@ -83,7 +83,7 @@ Exempel:
 
 >[!NOTE]
 >
->När du använder `<img>` versionen innehåller den återgivna HTML-koden en genererad div-wrapper runt `<img>` -taggen. Den ställs in på klassen .&quot;mktoImg.mktoGen&quot;, och kommer att visas:inline-block.
+>När du använder versionen `<img>` innehåller den återgivna HTML-koden en genererad div-wrapper runt taggen `<img>`. Den ställs in på klassen .&quot;mktoImg.mktoGen&quot;, och kommer att visas:inline-block.
 
 ## Formulär {#form}
 
@@ -105,7 +105,7 @@ Exempel:
 
 `<pre data-theme="Confluence"><div class="mktoSnippet" id="exampleSnippet" mktoName="Example Snippet"></div></pre>`
 
-## Knappen Dela {#share-button}
+## Delningsknapp {#share-button}
 
 Attribut som krävs:\
 **klass**: &quot;mktoShareButton&quot;\
@@ -123,14 +123,15 @@ Exempel:
 >När du använder videoelementet på en landningssida stöder Marketo endast videor från YouTube. Om du använder en annan tjänst rekommenderar vi att du använder en RTF-ruta och klistrar in videons inbäddningskod.
 
 Attribut som krävs:
-**klass**: &quot;mktoVideo&quot;**id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.
+**klass**: &quot;mktoVideo&quot;
+**id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.
 **mktoName** : Sträng. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
 
 Exempel:
 
 `<pre data-theme="Confluence"><div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div></pre>`
 
-## Omröstning {#poll}
+## Avsökning {#poll}
 
 Attribut som krävs:\
 **klass**: &quot;mktoPoll&quot;\
@@ -141,7 +142,7 @@ Exempel:
 
 `<pre data-theme="Confluence"><div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div></pre>`
 
-## Hänvisning {#referral}
+## Referens {#referral}
 
 Attribut som krävs:\
 **klass**: &quot;mktoReferral&quot;\
@@ -173,12 +174,12 @@ Exempel:
 
 **Deklaration:**
 
-Variabler deklareras som metataggar inuti mallens `<head>` element. Det finns tre typer av variabler som kan användas: Sträng, Färg och Boolean.
+Variabler deklareras som metataggar inuti elementet `<head>` i mallen. Det finns tre typer av variabler som kan användas: Sträng, Färg och Boolean.
 
 ## Sträng {#string}
 
 Attribut som krävs:\
-**class** : &quot;mktoString&quot;,\
+**klass** : &quot;mktoString&quot;,\
 **id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.\
 **mktoName** : Sträng. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
 
@@ -197,7 +198,7 @@ Exempel med alla attribut:
 ## Färg {#color}
 
 Attribut som krävs:\
-**class** : &quot;mktoColor&quot;,\
+**klass** : &quot;mktoColor&quot;,\
 **id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.\
 **mktoName** : Sträng. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
 
@@ -215,7 +216,7 @@ Exempel med alla attribut:
 ## Boolean {#boolean}
 
 Attribut som krävs:\
-**class** : &quot;mktoBoolean&quot;,\
+**klass** : &quot;mktoBoolean&quot;,\
 **id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.\
 **mktoName** : Sträng. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
 
