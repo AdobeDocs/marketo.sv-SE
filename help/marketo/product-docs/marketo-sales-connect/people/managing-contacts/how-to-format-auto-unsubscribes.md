@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Så här formaterar du automatisk uppsägning av prenumerationer {#how-to-format-auto-unsubscribes}
+# Så här formaterar du automatisk avbeställning {#how-to-format-auto-unsubscribes}
 
-1. Under Inställningar klickar du på **Tidszoner och Avbeställ**.
+1. Klicka på **Tidszoner och avsluta prenumeration** under Inställningar.
 1. Ange den text som du vill ska visas längst ned i e-postmeddelandet för att avsluta prenumerationen.
 1. Markera det eller de ord som du vill att mottagarna ska klicka på för att avbryta prenumerationen.
 1. Klicka på **Spara ändringar**.
