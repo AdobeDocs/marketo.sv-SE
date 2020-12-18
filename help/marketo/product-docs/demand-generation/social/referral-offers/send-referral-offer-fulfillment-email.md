@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Skicka e-post om uppfyllelse av hänvisningserbjudande {#send-referral-offer-fulfillment-email}
+# Skicka e-post om uppfyllande av hänvisningserbjudande {#send-referral-offer-fulfillment-email}
 
 Belöna era kunder med kuponger och rabattkoder med hjälp av e-postmeddelandet om att erbjudandet har genomförts.
 
@@ -24,23 +24,23 @@ Belöna era kunder med kuponger och rabattkoder med hjälp av e-postmeddelandet 
 
 
 
-## Ställ in leverans för leverans {#set-up-fulfillment-delivery}
+## Ställ in leverans för uppfyllelse {#set-up-fulfillment-delivery}
 
 1. Välj hänvisningserbjudandet. Klicka på **Redigera utkast**.
 
    ![](assets/image2015-4-20-16-3a3-3a14.png)
 
-1. Välj **Erbjudandeinformation under** Appinställningar **.**
+1. Under **Appinställningar** väljer du **Erbjudandeinformation.**
 
    ** ![](assets/image2015-4-23-12-3a53-3a16.png)
 
    **
 
-1. Välj ett **e-postmeddelande** för registrering.
+1. Välj ett **e-postmeddelande för registrering**.
 
    ![](assets/image2015-4-23-12-3a58-3a52.png)
 
-1. Välj ett **e-postmeddelande** för uppfyllelse.
+1. Välj en **e-postadress för uppfyllelse**.
 
    ![](assets/image2015-4-23-13-3a4-3a40.png)
 
@@ -49,19 +49,19 @@ Belöna era kunder med kuponger och rabattkoder med hjälp av e-postmeddelandet 
    >**Djupdykning**
    >
    >
-   >Läs mer om hur du [använder e-post i sociala kampanjer](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >Läs mer om [hur du använder e-post i sociala kampanjer](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
 
-1. Klicka på listrutan **Leverans** och välj **Automatiskt på mål**.
+1. Klicka på listrutan **Fulfillment Delivery** och välj **auto on target**.
 
    ![](assets/image2015-4-23-13-3a13-3a33.png)
 
-   Meddelandet som valts i **e-postmeddelandet** skickas automatiskt till personer som uppfyller målet.
+   Meddelandet som valts i **E-post för uppfyllelse** skickas automatiskt till personer som uppfyller målet.
 
-## Manuell sändning {#manual-send}
+## Skicka manuellt {#manual-send}
 
 Du kan skicka ett e-postmeddelande manuellt till en person när de har nått målet.
 
-1. Välj hänvisningserbjudandet och klicka på fliken **Deltagare** .
+1. Markera hänvisningserbjudandet och klicka på fliken **Deltagare**.
 
    ![](assets/image2015-4-20-15-3a37-3a14.png)
 
@@ -77,7 +77,7 @@ Du kan skicka ett e-postmeddelande manuellt till en person när de har nått må
 
    ![](assets/2015-04-23-13-08-53.png)
 
-1. Högerklicka och välj **Skicka e-post** för uppfyllelse.
+1. Högerklicka och välj **Skicka e-post för uppfyllelse**.
 
    ![](assets/2015-04-20-15-54-13.png)
 
