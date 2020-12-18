@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Använd Vibes SMS-meddelanden i Smart List-utlösare och -filter {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
 
-När du har [skapat ett Vibes SMS-meddelande](create-a-vibes-sms-message.md)vill du använda smarta listutlösare och filter i en smart kampanj för att få fördelarna. Så här gör du.
+När du har [skapat ett Vibes SMS-meddelande](create-a-vibes-sms-message.md) vill du använda smarta listutlösare och filter i en smart kampanj för att få fördelarna. Så här gör du.
 
 1. Klicka på **Marknadsföringsaktiviteter** på My Marketo.
 
    ![](assets/image2016-7-28-9-3a48-3a32.png)
 
-1. Välj en smart kampanj där du vill använda din SMS-resurs. Dra över en utlösare, t.ex. det populära **Fyll i formulär**.
+1. Välj en smart kampanj där du vill använda din SMS-resurs. Dra över en utlösare, t.ex. populära **Fyller i formulär**.
 
    ![](assets/fills-out-form-pull-over.jpg)
 
@@ -45,11 +45,11 @@ Utlösaren för att* klicka på länken i SMS-meddelande** startar ett flöde n�
 
 ## SMS-filter {#sms-filters}
 
-Du kan också använda Vibes-filter i smarta listor. Filtret **Prenumerera på Vibes-lista** hittar alla som *någonsin* prenumererar på Vibes. Detta inkluderar både personer som inte längre är prenumererade och borttagna, även om borttagna personer utelämnas från flödet. Det här filtret passar bäst för rapportering.
+Du kan också använda Vibes-filter i smarta listor. Filtret **Prenumererar på Vibes-listan** hittar alla som *någonsin* prenumererar på Vibes. Detta inkluderar både personer som inte längre är prenumererade och borttagna, även om borttagna personer utelämnas från flödet. Det här filtret passar bäst för rapportering.
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-Däremot **hittar** **filtret **Member of Vibes List** vem som helst ****** som ** prenumererar på Vibes och är mest lämpligt att använda i smarta kampanjer eller listor.
+Däremot hittar **Member of Vibes List **filter** **** **alla** ***som just nu* prenumererar på Vibes och är mest lämpad för smarta kampanjer eller listor.
 
 ![](assets/image001.png)
 
