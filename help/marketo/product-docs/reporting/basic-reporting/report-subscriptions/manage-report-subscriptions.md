@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Konfigurera och ta bort rapportprenumerationer.
 
-1. Gå till **Analytics** .
+1. Gå till området **Analytics**.
 
    ![](assets/image2014-9-16-10-3a35-3a25.png)
 
-1. Klicka på fliken **Prenumerationer** .
+1. Klicka på fliken **Prenumerationer**.
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   På den här sidan visas prenumerationerna på alla rapporter på ditt konto, grupperade efter [rapporttyp](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Detta inkluderar [prenumerationer på grundläggande rapporter](subscribe-to-a-basic-report.md) och på rapporter från [intäktsCycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics) .
+   På den här sidan visas prenumerationerna på alla rapporter på ditt konto, grupperade efter [rapporttyp](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Detta inkluderar [prenumerationer på grundläggande rapporter](subscribe-to-a-basic-report.md) och på rapporter i [Intäktscykelutforskaren](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
    >[!TIP]
    >
-   >Du kan också hantera prenumerationer på en enskild rapport i **marknadsföringsaktiviteter**. Markera rapporten och klicka på fliken **Prenumerationer** .
+   >Du kan också hantera prenumerationer på en enskild rapport i **Marknadsföringsaktiviteter**. Markera rapporten och klicka på fliken **Prenumerationer**.
 
    Om du vill ändra hur ofta en rapport skickas via e-post klickar du på fältet Frekvens och väljer ett nytt alternativ i listrutan.
 
@@ -49,10 +49,10 @@ Konfigurera och ta bort rapportprenumerationer.
    Du kan också:
 
    * Klicka på knappen **Visa** för att öppna en rapport.
-   * Avmarkera kryssrutan **Aktiv** för att inaktivera prenumerationen.
-   * Klicka och redigera fältet **Sammanfattning** för att ändra hur många förhandsgranskningsrader som visas i e-postmeddelandet.
+   * Avmarkera kryssrutan **Aktiv** om du vill inaktivera prenumerationen.
+   * Klicka och redigera fältet **Sammanfattning** om du vill ändra hur många förhandsgranskningsrader som visas i e-postmeddelandet.
    * Avmarkera kryssrutan **Excel** om du vill skicka rapportsammanfattningar utan kalkylbladsbilagan.
-   * Klicka på knappen **Skicka** för att skicka rapportens e-post direkt.
+   * Klicka på knappen **Skicka** om du vill skicka rapportens e-post direkt.
 
 
 
@@ -74,5 +74,5 @@ Konfigurera och ta bort rapportprenumerationer.
    >    * [Prenumerera på en rapport om skatteutforskaren](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
 
 
-   Läs mer i [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) and [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics) deep dives.
+   Läs mer i [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) och [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics) deep dives.
 
