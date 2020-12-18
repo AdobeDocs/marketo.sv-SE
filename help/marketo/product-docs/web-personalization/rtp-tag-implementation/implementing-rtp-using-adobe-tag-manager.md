@@ -27,17 +27,17 @@ Följ installationsanvisningarna nedan för att implementera RTP-taggen:
    ![](assets/image2014-11-30-15-3a20-3a17-4.png)
 
 1. Logga in på ditt Dynamic Tag Manager-konto ([https://dtm.adobe.com/sign_in](https://dtm.adobe.com/sign_in)).
-1. Gå till **instrumentpanelen.** Klicka på den relevanta webbegenskapen.
+1. Gå till **Kontrollpanelen.** Klicka på den relevanta webbegenskapen.
 
    ![](assets/image2014-12-3-17-3a58-3a17.png)
 
-1. Gå till **Regler och** klicka på **Skapa ny regel.**
+1. Gå till **Regler,** klicka på **Skapa ny regel.**
 
 1. Fyll i följande
 
    1. Namn: **Marketo RTP**
-   1. Villkor (komprimera): Utlösarregel vid - **sidans överkant**
-   1. JavaScript (komprimera): klicka på **Lägg till nytt skript**
+   1. Villkor (komprimera): Utlösarregel vid - **Överst på sidan**
+   1. JavaScript (komprimera): klicka **Lägg till nytt skript**
 
    ![](assets/image2014-12-3-17-3a59-3a40.png)
 
@@ -53,11 +53,11 @@ Följ installationsanvisningarna nedan för att implementera RTP-taggen:
 
    >[!CAUTION]
    >
-   >Se till att du tar bort alla taggar och bara låter skriptet vara (nej `<script type='text/javascript'>` , `</script>` )
+   >Se till att du tar bort alla taggar och bara låter skriptet vara (ingen `<script type='text/javascript'>` , `</script>` )
 
 1. Klicka på **Spara kod** i skriptredigeraren och **Spara regel** i regelredigeraren.
 
-1. Leta reda på inläsningsregeln för sidan Marketo RTP på panelen Regler och välj **Aktivera regler** i listrutan **Åtgärder**.
+1. På panelen Regler letar du reda på inläsningsregeln för sidan Marketo RTP och väljer **Åtgärder** i listrutan **Aktivera regler**.
 
    ![](assets/image2014-12-3-18-3a4-3a14.png)
 
