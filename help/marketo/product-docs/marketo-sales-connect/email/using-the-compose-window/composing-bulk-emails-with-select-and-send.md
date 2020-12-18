@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Disponera massutskick med Markera och skicka {#composing-bulk-emails-with-select-and-send}
+# Disponera massutskick med Select och Send {#composing-bulk-emails-with-select-and-send}
 
 Så här skickar/redigerar du e-postmeddelanden med alternativet Markera och skicka.
 
-## Skicka e-post {#sending-emails}
+## Skickar e-postmeddelanden {#sending-emails}
 
 1. Navigera till sidan Personer.
 
@@ -29,11 +29,11 @@ Så här skickar/redigerar du e-postmeddelanden med alternativet Markera och ski
    >
    >Högst 200 personer kan väljas när du använder Markera och Skicka.
 
-1. Klicka på knappen **E-post markerad** .
+1. Klicka på knappen **E-post markerad**.
 
    ![](assets/three-2.png)
 
-1. Ange en ämnesrad, välj en mall (eller skapa e-postmeddelandet från grunden) och skicka/ [](http://docs.marketo.com/x/GAQ6Ag)schemalägg e-postmeddelandet.
+1. Ange en ämnesrad, välj en mall (eller skapa e-postmeddelandet från grunden) och skicka/ [schemalägg](http://docs.marketo.com/x/GAQ6Ag)e-postmeddelandet.
 
    ![](assets/four-2.png)
 
@@ -45,7 +45,7 @@ Så här skickar/redigerar du e-postmeddelanden med alternativet Markera och ski
 
 **Massredigeringar**
 
-1. Följ steg 1-3 i avsnittet [](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)Skicka e-post.
+1. Följ steg 1-3 i avsnittet [Skicka e-post](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails).
 
    >[!NOTE]
    >
@@ -59,7 +59,7 @@ Så här skickar/redigerar du e-postmeddelanden med alternativet Markera och ski
    >
    >Du kan klicka på en viss e-postmottagare för att se ändringarna som har skickats till det e-postmeddelandet.
 
-1. Klicka på **Skicka** (eller [Schemalägg](http://docs.marketo.com/x/GAQ6Ag)) för att skicka e-postmeddelanden till alla mottagare med de satsvisa uppdateringarna du gjort.
+1. Klicka på **Skicka** (eller [Schemalägg](http://docs.marketo.com/x/GAQ6Ag)) för att skicka till alla mottagare med de satsvisa e-postuppdateringarna som du har gjort.
 
    ![](assets/bulk-four.png)
 
@@ -89,7 +89,7 @@ Slutför gruppuppdateringar innan du anpassar varje e-postmeddelande, eftersom e
    >
    >Du kan klicka på andra mottagare för att se att de ändringar du har gjort för den tidigare valda mottagaren inte visas.
 
-1. Klicka på **Skicka** (eller [Schemalägg](http://docs.marketo.com/x/GAQ6Ag)) för att skicka e-postmeddelanden till alla mottagare med de satsvisa uppdateringarna du gjort.
+1. Klicka på **Skicka** (eller [Schemalägg](http://docs.marketo.com/x/GAQ6Ag)) för att skicka till alla mottagare med de satsvisa e-postuppdateringarna som du har gjort.
 
    ![](assets/each-four.png)
 
