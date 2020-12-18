@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Using Marketo Insights for Google Chrome {#using-marketo-insights-for-google-chrome}
+# Använda Marketo-insikter för Google Chrome {#using-marketo-insights-for-google-chrome}
 
 Skicka och spåra alla Google-e-postmeddelanden med Marketo Insights för Google Chrome.
 
