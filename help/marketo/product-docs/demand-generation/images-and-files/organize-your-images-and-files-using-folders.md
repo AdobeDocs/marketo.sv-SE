@@ -27,7 +27,7 @@ När du skapar mappar kan du flytta bilder och filer, se bara den uppsättning b
 
    ![](assets/image2014-9-16-11-3a25-3a53.png)
 
-1. Gå till **Bilder och filer**, nu kan du dra och släppa i den mapp du vill ha.
+1. Gå till **Bilder och filer**, nu kan du dra och släppa till önskad mapp.
 
    ![](assets/image2014-9-16-11-3a26-3a0.png)
 
