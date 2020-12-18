@@ -27,7 +27,7 @@ Genom att använda dynamiskt innehåll på landningssidor engagerar du människo
 
 ## Lägg till segmentering {#add-segmentation}
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -53,11 +53,11 @@ Genom att använda dynamiskt innehåll på landningssidor engagerar du människo
 
 ## Gör element dynamiskt {#make-element-dynamic}
 
-1. Dra och släpp element från statisk till **dynamisk**.
+1. Dra och släpp element från Static till **Dynamic**.
 
    ![](assets/image2014-9-16-14-3a50-3a27.png)
 
-1. Du kan också göra elementen statiska eller dynamiska med **elementinställningarna**.
+1. Du kan också göra elementen statiska eller dynamiska från elementet **Inställningar**.
 
    ![](assets/image2015-5-21-12-3a39-3a41.png)
 
