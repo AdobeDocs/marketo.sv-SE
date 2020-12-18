@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Tillgänglighet**
 >
->Omdirigering av webbplatser ingår nu i panelen Webbanpassning. Om du bara har köpt återmarknadsföring ser du den här rutan och får tillgång till produkten för webbanpassning med **endast** återmarknadsföring aktiverad. Detta ger dig tillgång till kontoinställningar, sidan Återmarknadsföring, segment och ytterligare spårningssidor.
+>Omdirigering av webbplatser ingår nu i panelen Webbanpassning. Om du bara har köpt återmarknadsföring visas den här rutan och du får tillgång till produkten för webbanpassning med **endast** återmarknadsföringsfunktioner aktiverade. Detta ger dig tillgång till kontoinställningar, sidan Återmarknadsföring, segment och ytterligare spårningssidor.
 
 Återmarknadsföring riktar sig till potentiella kunder som tidigare har besökt er webbplats med webbannonsering baserat på vem de är och vad de gjorde. Personaliserad återmarknadsföring riktar sig till specifika målgrupper med relevanta annonser baserade på bransch, namngivna konton och kända persondata.
 
@@ -54,7 +54,7 @@ Webbpersonalisering skickar följande data till återmarknadsföringsplattformar
  </tbody> 
 </table>
 
-## Remarketing-konfiguration {#remarketing-configuration}
+## Återmarknadsföringskonfiguration {#remarketing-configuration}
 
 1. Gå till **Återmarknadsföring**.
 
@@ -79,11 +79,11 @@ Webbpersonalisering skickar följande data till återmarknadsföringsplattformar
 
    >[!NOTE]
    >
-   >Du måste ha [Facebook Custom Audience](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Pixelinstallerat din webbplats för att den här funktionen ska fungera.
+   >Du måste ha [Facebook Custom Audience Pixel](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)installerat din webbplats för att den här funktionen ska fungera.
 
    ![](assets/three.png)
 
-## Skapa segmenterad publik {#creating-segmented-audience}
+## Skapar segmenterad publik {#creating-segmented-audience}
 
 Med en segmenterad publik kan ni välja ett befintligt segment som målgrupp för återmarknadsföringskampanjer. Du kan t.ex. markera dina kända personsegment.
 
@@ -91,7 +91,7 @@ Med en segmenterad publik kan ni välja ett befintligt segment som målgrupp fö
 >
 >Det finns ingen anledning att skapa en segmenterad målgrupp för branschdata eller andra data som redan skickats in i domänkonfigurationen. Det är bäst att använda segmenterade målgrupper för segment baserat på kända persondata.
 
-1. Klicka på **Skapa segmenterad publik**.
+1. Klicka på **Skapa segmenterad målgrupp**.
 
    ![](assets/image2015-1-15-16-3a36-3a38.png)
 
