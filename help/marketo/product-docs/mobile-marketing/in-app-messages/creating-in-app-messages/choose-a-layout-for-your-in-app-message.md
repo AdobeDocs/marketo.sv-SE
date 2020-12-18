@@ -58,7 +58,7 @@ Den tredje helskärmslayouten är densamma som den andra, förutom den andra kna
 
 ![](assets/image2016-5-9-13-3a11-3a35.png)
 
-Nu när du känner till mallarna är det dags att välja en när du [skapar dina bilder](add-in-app-message-images.md)i appen.
+Nu när du känner till mallarna är det dags att välja en när du [skapar dina bilder för meddelanden i appen](add-in-app-message-images.md).
 
 >[!MORELIKETHIS]
 >
