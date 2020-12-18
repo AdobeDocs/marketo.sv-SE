@@ -21,7 +21,7 @@ Tillåt besökarna att fylla i formuläret via sitt sociala nätverk. Ni får au
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -39,7 +39,7 @@ Tillåt besökarna att fylla i formuläret via sitt sociala nätverk. Ni får au
 
    >[!TIP]
    >
-   >Ta en titt på vilka [data Marketo fångar](manage-social-profile-data.md) om man använder knapparna för sociala medier.
+   >Ta en titt på vad [data Marketo kommer att fånga](manage-social-profile-data.md) om någon använder knapparna för sociala medier.
 
 1. Klicka på **Slutför**.
 
