@@ -29,7 +29,7 @@ Engagera personer med en omröstning som de kan rösta i och dela med sina vänn
 
    ![](assets/image2014-9-18-18-3a18-3a41.png)
 
-1. Klicka på **Avsökning i det** **lokala resursgalleriet.**
+1. Klicka på **Avsökning i**-galleriet för lokala resurser.****
 
    ![](assets/image2014-9-18-18-3a18-3a47.png)
 
@@ -49,7 +49,7 @@ Engagera personer med en omröstning som de kan rösta i och dela med sina vänn
 
    ![](assets/image2014-9-18-18-3a19-3a23.png)
 
-1. Om du vill lägga till en post klickar du på **+** -symbolen och redigerar titeln och beskrivningen.
+1. Om du vill lägga till en post klickar du på symbolen **+** och redigerar titeln och beskrivningen.
 
    ![](assets/image2014-9-18-18-3a19-3a30.png)
 
@@ -57,7 +57,7 @@ Engagera personer med en omröstning som de kan rösta i och dela med sina vänn
 
    ![](assets/image2014-9-18-18-3a19-3a37.png)
 
-1. Markera den bild du behöver och klicka sedan på **Välj.**
+1. Välj den bild du behöver och klicka sedan på **Välj.**
 
    ![](assets/image2014-9-18-18-3a19-3a44.png)
 
@@ -73,7 +73,7 @@ Frågeredigeraren öppnas i ett nytt fönster. Standardinställningarna är bra,
 
 >[!TIP]
 >
->Klicka på **Bakåt** om du vill ändra något av standardvärdena i din omröstning. Om du vill spara ditt arbete för senare bruk utan att godkänna klickar du på **Stäng**.
+>Om du vill ändra något av standardvärdena i din omröstning klickar du på **Tillbaka**. Om du vill spara ditt arbete för senare bruk utan godkännande klickar du på **Stäng**.
 
 Om det finns några problem i omröstningen uppmanas du att åtgärda dem innan omröstningen godkänns. Grattis! Du har skapat din omröstning.
 
@@ -81,5 +81,5 @@ Om det finns några problem i omröstningen uppmanas du att åtgärda dem innan 
 >
 >**Relaterade artiklar**
 >
->Nästa steg är att [publicera omröstningen](publish-a-poll.md), men du kan ändra inställningarna för omröstningen om det behövs. Börja med att [anpassa omröstningsinställningarna](customize-poll-settings.md).
+>Nästa steg är att [publicera din omröstning](publish-a-poll.md), men du kan ändra inställningarna för din omröstning om det behövs. Börja med att [anpassa omröstningsinställningarna](customize-poll-settings.md).
 
