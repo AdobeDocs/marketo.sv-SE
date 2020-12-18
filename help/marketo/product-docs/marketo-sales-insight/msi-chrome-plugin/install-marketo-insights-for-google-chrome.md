@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Installera Marketo Insights för Google Chrome {#install-marketo-insights-for-google-chrome}
+# Installera Marketo-insikter för Google Chrome {#install-marketo-insights-for-google-chrome}
 
 Följ de här stegen för att börja använda det kraftfulla Chrome-tillägget.
 
@@ -19,7 +19,7 @@ Följ de här stegen för att börja använda det kraftfulla Chrome-tillägget.
 >
 >Du behöver inte vara Marketo-administratör för att installera tillägget.
 
-1. Installera [Marketo Insights för Google Chrome Add i tillägg](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb) från Chrome Web Store.
+1. Installera [Marketo Insights för Google Chrome Add i tillägget](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb) från Chrome Web Store.
 
    ![](assets/image2015-10-5-10-3a24-3a7.png)
 
@@ -27,7 +27,7 @@ Följ de här stegen för att börja använda det kraftfulla Chrome-tillägget.
 
    ![](assets/two.png)
 
-1. Ange din **Reg-kod**, **E-postadress**, **Förnamn** och **Efternamn**. Klicka på **Verifiera och spara**.
+1. Ange din **Reg-kod**, **e-postadress**, **Förnamn** och **Efternamn**. Klicka på **Verifiera och spara**.
 
    ![](assets/three.png)
 
@@ -37,7 +37,7 @@ Följ de här stegen för att börja använda det kraftfulla Chrome-tillägget.
 
    >[!NOTE]
    >
-   >Registreringskoden kommer att finnas i e-postmeddelandet som skickas efter att Marketo Admin [i](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) skickar en Marketo-e-posttilläggslicens [](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [.](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) **Den upphör att gälla efter 14 dagar.**
+   >Registreringskoden kommer att finnas i e-postmeddelandet som skickas efter en Marketo-administratör [i](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) [skickar en Marketo-e-posttilläggslicens](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [.](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) **Den upphör att gälla efter 14 dagar.**
 
 1. Klicka** Tillåt **för att tillåta offlineåtkomst.
 
