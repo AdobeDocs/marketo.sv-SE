@@ -27,11 +27,11 @@ Ta bort ett fragment som du inte längre behöver.
 
    ![](assets/image2014-9-16-10-3a43-3a47.png)
 
-1. Gå till fragmentet och klicka sedan på **Ta bort** under **Utdragsåtgärder**.
+1. Gå till fragmentet och klicka på **Ta bort** under &lt;a0/>Fragmentåtgärder **.**
 
    ![](assets/image2014-9-16-10-3a43-3a57.png)
 
-1. Klicka på **Delete **för att bekräfta eller bara **avbryta**.
+1. Klicka på **Delete **för att bekräfta eller bara **Avbryt**.
 
    ![](assets/image2014-9-16-10-3a44-3a8.png)
 
