@@ -21,7 +21,7 @@ Ibland vill du inte längre att besökarna ska skicka in formulär med hjälp av
 >
 >Alla kunder har inte köpt den här funktionen.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-10.png)
 
