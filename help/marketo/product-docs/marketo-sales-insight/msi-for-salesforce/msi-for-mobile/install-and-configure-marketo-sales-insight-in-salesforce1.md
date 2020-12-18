@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Påminnelse**
 >
->Befintliga kunder, [uppgradera ditt MSI-paket](http://docs.marketo.com/x/_gU6Ag) innan du fortsätter!
+>Befintliga kunder: [Uppgradera ditt MSI-paket](http://docs.marketo.com/x/_gU6Ag) innan du fortsätter!
 
 >[!PREREQUISITES]
 >
@@ -43,7 +43,7 @@ Om du har Salesforce Professional:
 >Marketo Sales Insight in Salesforce1 includes: Bästa val, Lead Feed, Intressant ögonblick och Lägg till i Marketo Campaign.
 
 1. Aktivera Salesforce1-mobilappen
-1. Klicka på **Konfigurera** och sedan **Mobiladministration**.
+1. Klicka på **Inställningar** och sedan **Mobiladministration**.
 
    ![](assets/image2015-4-21-15-3a29-3a22.png)
 
@@ -55,7 +55,7 @@ Om du har Salesforce Professional:
 
    ![](assets/image2015-4-21-15-3a32-3a21.png)
 
-1. Klicka på **Enable the Salesforce1 mobile browser app**.
+1. Klicka på **Aktivera Salesforce1-mobilwebbläsarappen**.
 
    ![](assets/image2015-4-21-15-3a34-3a27.png)
 
@@ -80,7 +80,7 @@ Om du har Salesforce Professional:
    ![](assets/image2015-4-22-17-3a20-3a56.png)
 
 1. Dölj föråldrad markering till anpassat objekt
-1. Klicka på **Konfigurera**.
+1. Klicka på **Inställningar**.
 
    ![](assets/image2015-4-22-15-3a13-3a48.png)
 
@@ -96,13 +96,13 @@ Om du har Salesforce Professional:
 
    ![](assets/image2015-5-5-13-3a51-3a36.png)
 
-1. Under **Tabbinställningar** väljer du den *första* **markeringen**.
+1. Under **Tabbinställningar** väljer du *först* **Marketo**.
 
    ** ![](assets/image2015-5-5-13-3a55-3a36.png)
 
    **
 
-1. Välj **Dold** flik.
+1. Välj **Tabb dold**.
 
    ** ![](assets/image2015-5-5-14-3a2-3a29.png)
 
@@ -121,7 +121,7 @@ Om du har Salesforce Professional:
 
    ![](assets/image2015-4-22-17-3a16-3a22.png)
 
-1. Välj **Marketo** och **Lägg till **det på de markerade flikarna.
+1. Välj **Marketo** och **Lägg till **den på de markerade flikarna.
 
    ![](assets/image2015-4-22-17-3a17-3a15.png)
 
@@ -130,11 +130,11 @@ Om du har Salesforce Professional:
    ![](assets/image2015-4-22-18-3a29-3a47.png)
 
 1. Anpassa sidlayouter
-1. Klicka på **Konfigurera**.
+1. Klicka på **Inställningar**.
 
    ![](assets/image2015-4-22-17-3a26-3a56.png)
 
-1. Klicka på **Konfigurera**, skriv **Sidlayouter** och klicka på **Sidlayouter** under Leads.
+1. Klicka på **Utskriftsformat**, skriv **Sidlayouter** och klicka på **Sidlayouter** under Leads.
 
    >[!NOTE]
    >
@@ -146,7 +146,7 @@ Om du har Salesforce Professional:
 
    ![](assets/image2015-4-22-17-3a44-3a0.png)
 
-1. Klicka på **Visualforce-sidor **och dra** sedan Lead Mobile **till avsnittet Mobilkort.
+1. Klicka på **Visualforce-sidor **och dra** Lead Mobile **till avsnittet Mobilkort.
 
    ![](assets/image2015-4-22-17-3a49-3a37.png)
 
@@ -154,7 +154,7 @@ Om du har Salesforce Professional:
 
    ![](assets/image2015-4-22-17-3a52-3a15.png)
 
-1. Klicka på **Fält** och dra **Lägg till i Marketo Campaign **till** Marketo Sales Insight **avsnittet.
+1. Klicka på **Fält** och dra **Lägg till i Marketo Campaign **till** Marketo Sales Insight **avsnittet Marketo Sales Insight.
 
    ![](assets/configure-step-6.png)
 
