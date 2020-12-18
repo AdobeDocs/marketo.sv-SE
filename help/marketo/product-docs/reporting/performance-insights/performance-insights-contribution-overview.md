@@ -43,7 +43,7 @@ I stapeldiagrammet visas programprestanda i alla kanaler (tio program i taget) f
 
 >[!TIP]
 >
->Om du vill att staplarna i diagrammet ska skalförändras uppåt när du bläddrar genom grupperna, markerar du kryssrutan **Skala Y-axeln så att den passar** .
+>Om du vill att staplarna i diagrammet ska skalförändras uppåt när du bläddrar genom grupperna markerar du kryssrutan **Skala Y-axeln så att den passar**.
 
 För musen över ett fält för mer information.   ![](assets/seven.png)
 
