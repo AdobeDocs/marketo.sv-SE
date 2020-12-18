@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Konfigurera knappen Stäng och godkänn meddelandet {#set-up-the-dismiss-button-and-approve-the-message}
 
-## Konfigurera egenskaper för knappen Stäng  {#configure-dismiss-button-properties}
+## Konfigurera egenskaper för knappen Stäng {#configure-dismiss-button-properties}
 
 Knappen Stäng har många alternativ som du kan använda för att konfigurera den som du vill.
 
@@ -49,7 +49,7 @@ Knappen Stäng har många alternativ som du kan använda för att konfigurera de
 
 Alla dina val för grafik, text och knappar har sparats automatiskt. Nu är du redo att avsluta jobbet.
 
-1. Om du vill förhandsgranska ditt meddelande i appen klickar du på **listrutan Meddelandeåtgärder** och väljer **Förhandsgranska**.
+1. Om du vill förhandsgranska ditt meddelande i appen klickar du på listrutan **Meddelandeåtgärder** och väljer **Förhandsgranska**.
 
    ![](assets/image2016-5-9-10-3a58-3a38.png)
 
@@ -63,7 +63,7 @@ Alla dina val för grafik, text och knappar har sparats automatiskt. Nu är du r
 
    >[!NOTE]
    >
-   >Du kan också välja **Godkänn och stäng** direkt från listrutan Meddelandeåtgärder (se steg 1), men varför inte förhandsgranska meddelandet först, bara för att vara säker?
+   >Du kan också välja **Godkänn och stäng** direkt i listrutan Meddelandeåtgärder (se steg 1), men varför inte förhandsgranska meddelandet först, bara för att vara säker?
 
 1. Stäng fliken om du vill stänga redigeraren utan att godkänna. Den sparas automatiskt så att du kan returnera och godkänna den senare.
 
