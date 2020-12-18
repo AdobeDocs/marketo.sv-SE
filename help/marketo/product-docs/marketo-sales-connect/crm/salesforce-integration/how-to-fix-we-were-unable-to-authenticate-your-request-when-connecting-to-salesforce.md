@@ -18,16 +18,16 @@ Om du får felmeddelandet&quot;Vi kunde inte autentisera din begäran&quot; när
 ## Aktivera API i användarbehörigheter {#enable-api-in-user-permissions}
 
 1. Låt en Salesforce-administratör logga in på SFDC.
-1. Välj **Konfigurera**.
+1. Välj **Inställningar**.
 1. Välj **Hantera användare**.
 1. Välj **Profiler**.
-1. Leta reda på den profil som ToutApp-användarna befinner sig under och klicka på **Redigera**.
-1. Bläddra ned till **Administrativa behörigheter** och kontrollera att **API-aktivering** är markerat.
+1. Hitta den profil som ToutApp-användarna befinner sig under och klicka på **Redigera**.
+1. Bläddra nedåt till **Administrativa behörigheter** och kontrollera att **API Enabled** är markerat.
 
-## Kontrollera om Salesforce blockerar Sales Connect från Connecting {#check-if-salesforce-is-blocking-sales-connect-from-connecting}
+## Kontrollera om Salesforce blockerar Sales Connect från Anslutning {#check-if-salesforce-is-blocking-sales-connect-from-connecting}
 
 1. Låt en Salesforce-administratör logga in på SFDC.
-1. Välj **Konfigurera**.
+1. Välj **Inställningar**.
 1. Välj **Hantera program**.
 1. Välj **Anslutna appar OAuth-användning**.
 1. Se till att Sales Connect visar &quot;Block&quot; bredvid det. Om du ser &quot;Avblockera&quot; klickar du på knappen för att avblockera Sales Connect-åtkomsten till Salesforce.
