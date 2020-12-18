@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Arkiverade webbkampanjer visas inte i standardfiltret. Om du vill visa dem klickar du på ikonen Filter och under **Status** markerar du kryssrutan **Arkiverat** och klickar på **Använd**.
+   >Arkiverade webbkampanjer visas inte i standardfiltret. Om du vill visa dem klickar du på ikonen Filter och under **Status** markerar du kryssrutan **Arkiverad** och klickar på **Använd**.
 
 >[!MORELIKETHIS]
 >
