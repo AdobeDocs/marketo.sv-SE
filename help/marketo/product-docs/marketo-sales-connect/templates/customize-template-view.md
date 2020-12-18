@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Anpassa mallvy {#customize-template-view}
+# Anpassa mallvyn {#customize-template-view}
 
 I listrutan **Visa **kan du se: alla mallar, dina mallar, delade mallar eller oanvända mallar (mallar som inte har använts de senaste 90 dagarna).
 
-Du kan även lägga till/ta bort kolumner i mallvyn genom att klicka på inställningsikonen till höger om **Visa.**
+Du kan också lägga till/ta bort kolumner i mallvyn genom att klicka på inställningsikonen till höger om **Visa.**
 
