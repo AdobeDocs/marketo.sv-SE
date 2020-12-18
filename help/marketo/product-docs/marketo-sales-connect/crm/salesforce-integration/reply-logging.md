@@ -24,21 +24,21 @@ Sales Connect ger dig möjlighet att automatiskt logga presumtiva kunders svar t
 
 ## Aktivera svarsloggning {#enable-reply-logging}
 
-1. Om du vill aktivera svarsloggning går du till sidan med [Salesforce-inställningar](http://docs.marketo.com/pages/assets/external-link.jspa) . När API-loggningen är avmarkerad ser du alternativet att kontrollera *Loggsvar.\
+1. Om du vill aktivera svarsloggning går du till [Salesforce-inställningarna](http://docs.marketo.com/pages/assets/external-link.jspa)-sidan. När API-loggningen är avmarkerad ser du alternativet att kontrollera *Loggsvar.\
    *
 
    >[!NOTE]
    >
    >Svarsloggning följer samma regler som du har för att logga skickade e-postmeddelanden. Detta inkluderar hur e-postmeddelanden loggas. Leads och kontakter. om det finns en dubblettpost, om inga matchande poster hittas.
 
-## Ange typ till svar i Salesforce {#setting-type-to-reply-in-salesforce}
+## Anger typ som svar i Salesforce {#setting-type-to-reply-in-salesforce}
 
-Det är viktigt att du hämtar meningsfulla data från dina Salesforce-rapporter. Om du har möjlighet att fylla i fältet Typ som Svara kan du hämta data genom dina rapporter. Samarbeta med dig `Salesforce admin` för att få den här konfigurationen.
+Det är viktigt att du hämtar meningsfulla data från dina Salesforce-rapporter. Om du har möjlighet att fylla i fältet Typ som Svara kan du hämta data genom dina rapporter. Anslut till din `Salesforce admin` för att få den här konfigurationen.
 
 1. Gå till **Inställningar **> **Anpassa **> **Aktiviteter **> **Aktivitetsfält**.
-1. Klicka på **Text**.
-1. Klicka på **Ny** under Värden för aktivitetstypväljaren.
-1. Skriv&quot;Svara&quot; i den tomma rutan. Se till att du börjar med versal och klickar på **Spara**.
+1. Klicka på **Skriv**.
+1. Klicka på **Nytt** under Värden för aktivitetstypväljaren.
+1. Skriv&quot;Svara&quot; i den tomma rutan. Se till att du börjar med versal och klicka på **Spara**.
 
    >[!NOTE]
    >
