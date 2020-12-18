@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # Varför skickas inga kontakter till Sales Connect? {#why-arent-any-of-my-contacts-getting-pushed-to-sales-connect}
 
-Om inga kontakter har överförts är det möjligt att du har en ogiltig Salesforce-anslutning. Gå till dina [Salesforce-inställningar](http://toutapp.com/next#settings/crm/salesforce/configure) och koppla från och återanslut. Ge den cirka 20 minuter att återställa helt. Om det fortfarande är noll ska du [skicka ett ärende](http://nation.marketo.com/community/support_solutions) till supporten.
+Om inga kontakter har överförts är det möjligt att du har en ogiltig Salesforce-anslutning. Gå till dina [Salesforce-inställningar](http://toutapp.com/next#settings/crm/salesforce/configure) och koppla från och återanslut. Ge den cirka 20 minuter att återställa helt. [Skicka ett ärende](http://nation.marketo.com/community/support_solutions) till support om det fortfarande är noll efter det.
