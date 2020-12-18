@@ -23,15 +23,15 @@ Kontrollpanelerna MPI-intäkter och Pipeline kan filtrera på anpassade Marketo-
 >
 >Den här artikeln är endast avsedd för användare som **inte** har [RCA](http://docs.marketo.com/x/lwIk). Om du har RCA följer du stegen i [den här artikeln](http://docs.marketo.com/x/FQQk).
 
-1. Gå till avsnittet **Admin** .
+1. Gå till avsnittet **Admin**.
 
    ![](assets/image2014-9-19-9-3a51-3a11.png)
 
-1. Välj **Programanalys** under Andra saker.
+1. Välj **Programanalys** under Andra studier.
 
    ![](assets/2-3.png)
 
-1. Klicka på fliken **Synkronisera** anpassat fält.
+1. Klicka på fliken **Synkronisera anpassade fält**.
 
    ![](assets/3-5.png)
 
@@ -43,7 +43,7 @@ Kontrollpanelerna MPI-intäkter och Pipeline kan filtrera på anpassade Marketo-
 
    ![](assets/image2014-9-19-9-3a51-3a45.png)
 
-1. Välj önskad **RCA-typ** och klicka sedan på **Spara**.
+1. Välj **RCA-typ** och klicka sedan på **Spara**.
 
    ![](assets/image2014-9-19-9-3a51-3a52.png)
 
