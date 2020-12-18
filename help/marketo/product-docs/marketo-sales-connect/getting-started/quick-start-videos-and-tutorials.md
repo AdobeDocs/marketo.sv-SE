@@ -25,10 +25,10 @@ ht-degree: 0%
 
 `<iframe width="630" height="470" src="//play.vidyard.com/FwDFo9H3gciM6oDCWZw74B.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
-## Installera anpassningar i Salesforce {#installing-customizations-in-salesforce}
+## Installerar anpassningar i Salesforce {#installing-customizations-in-salesforce}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
-## Salesforce - översikt {#salesforce-overview}
+## Salesforce-översikt {#salesforce-overview}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/4PzSDb6o8Qg8WbvBsq8wJD.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
