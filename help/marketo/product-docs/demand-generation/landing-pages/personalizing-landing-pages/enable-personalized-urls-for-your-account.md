@@ -19,7 +19,7 @@ Personaliserade URL:er passar utmärkt för e-postkampanjer i tryck.
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till avsnittet **Admin** och klicka på **Landing Pages**.
+1. Gå till avsnittet **Admin** och klicka på **Startsidor**.
 
    ![](assets/image2014-9-18-13-3a29-3a49.png)
 
