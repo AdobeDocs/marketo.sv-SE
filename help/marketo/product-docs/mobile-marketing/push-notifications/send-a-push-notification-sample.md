@@ -36,13 +36,13 @@ Du kan skicka ett prov för att verifiera att ditt push-meddelande fungerar som 
 
    ![](assets/image2015-7-29-8-3a25-3a17.png)
 
-   Du kan också klicka på **Lägg till enhet** för att [lägga till en ny testenhet](adding-a-new-test-device.md) att skicka exemplet till.
+   Du kan också klicka på **Lägg till enhet** till [lägg till en ny testenhet](adding-a-new-test-device.md) som du vill skicka exemplet till.
 
    ![](assets/image2015-7-13-11-3a34-3a21.png)
 
 1. Du kan ansluta enheten till appen på två sätt.
 
-   Med det första alternativet klickar du på knappen **Besök URL med enhet** , kopierar URL-adressen från fältet och skickar den i ett e-postmeddelande eller i ett textmeddelande till enheten. Tryck på URL-adressen på enheten. När statusen visar anslutningen klickar du på **Skicka**.
+   Med det första alternativet klickar du på knappen **Besök URL med device**, kopierar URL:en från fältet och skickar den i ett e-postmeddelande eller ett textmeddelande till enheten. Tryck på URL-adressen på enheten. När statusen visar anslutningen klickar du på **Skicka**.
 
    ![](assets/image2015-7-29-8-3a29-3a18.png)
 
@@ -52,7 +52,7 @@ Du kan skicka ett prov för att verifiera att ditt push-meddelande fungerar som 
 
    >[!TIP]
    >
-   >Har du lagt till en testenhet, men den visas inte i fältet **Skicka till** ? Kontrollera följande för att felsöka:
+   >Har du lagt till en testenhet, men den visas inte i fältet **Skicka till**? Kontrollera följande för att felsöka:
    >
    >    
    >    
