@@ -19,15 +19,15 @@ Du har några färdiga [teman som du bara kan välja mellan](../../../../product
 >
 >Se till att du känner till CSS om du vill prova det här eftersom Marketo Support inte har konfigurerats för anpassad kodning. Ändringar som görs gäller endast det formulär som du redigerar.
 
-1. Gå till **Marknadsföringsaktiviteter** och **aktiviteter**.
+1. Gå till **Marknadsföring** **Aktiviteter**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Markera formuläret och klicka på **Redigera** **formulär**.
+1. Markera formuläret och klicka på **Redigera** **Formulär**.
 
    ![](assets/image2014-9-15-14-3a37-3a7.png)
 
-1. Gå till **Formulärets** **inställningar**.
+1. Gå till **Formulär** **Inställningar**.
 
    ![](assets/image2014-9-15-14-3a37-3a42.png)
 
@@ -47,7 +47,7 @@ Du har några färdiga [teman som du bara kan välja mellan](../../../../product
 
    ![](assets/image2014-9-15-14-3a38-3a46.png)
 
-1. Klicka på **Redigera** **anpassad** **CSS** under kugghjulsikonen.
+1. Klicka på **Redigera** **Anpassad** **CSS** under kugghjulsikonen.
 
    ![](assets/image2014-9-15-14-3a39-3a5.png)
 
@@ -59,7 +59,7 @@ Du har några färdiga [teman som du bara kan välja mellan](../../../../product
 
    ![](assets/image2014-9-15-14-3a39-3a30.png)
 
-1. Om du vill visa det anpassade formuläret klickar du på **Förhandsgranska** **utkast**.
+1. Om du vill visa det anpassade formuläret klickar du på **Förhandsgranska** **Utkast**.
 
    ![](assets/image2014-9-15-14-3a39-3a50.png)
 
