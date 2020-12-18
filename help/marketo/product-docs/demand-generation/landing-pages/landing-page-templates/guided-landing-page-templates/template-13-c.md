@@ -1,11 +1,11 @@
 ---
 unique-page-id: 9437792
 description: Mall 13-C - Marketo Docs - Produktdokumentation
-title: Mall 13-C
+title: Mall 13-A
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
