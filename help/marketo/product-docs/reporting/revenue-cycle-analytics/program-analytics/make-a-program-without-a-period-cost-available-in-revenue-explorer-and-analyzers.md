@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Gör ett program utan periodkostnad tillgängligt i Intäktsutforskaren och analytiker {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
+# Gör ett program utan periodkostnad tillgängligt i intäktsutforskaren och analytiker {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
-Med Periodkostnader kan du definiera&quot;Hur mycket pengar&quot; och&quot;När&quot; för ett program. Detta visas i [resultatutforskaren](http://docs.marketo.com/display/docs/revenue+cycle+analytics) och [analysatorerna](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
+Med Periodkostnader kan du definiera&quot;Hur mycket pengar&quot; och&quot;När&quot; för ett program. Detta visas i [utforskaren av intäktscykel](http://docs.marketo.com/display/docs/revenue+cycle+analytics) och [analysatorer](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
 
 >[!NOTE]
 >
