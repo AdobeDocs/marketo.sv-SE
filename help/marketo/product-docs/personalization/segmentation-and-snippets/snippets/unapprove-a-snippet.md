@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Avgodkänna ett kodavsnitt {#unapprove-a-snippet}
+# Avgodkänn ett fragment {#unapprove-a-snippet}
 
 Ett icke godkänt kodfragment kan inte användas i e-postmeddelanden eller på landningssidor.
 
@@ -25,7 +25,7 @@ Ett icke godkänt kodfragment kan inte användas i e-postmeddelanden eller på l
 
    Om fragmentet används av andra resurser tar du bort de associationerna innan du fortsätter.
 
-1. Klicka på **Ta bort** i **Utdragsåtgärder**.
+1. I **Kodavsnittsåtgärder** klickar du på **Ogodkänd**.
 
    ![](assets/image2014-9-16-10-3a41-3a54.png)
 
