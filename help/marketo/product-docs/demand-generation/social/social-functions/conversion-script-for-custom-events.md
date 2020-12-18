@@ -17,11 +17,11 @@ Du definierar leveransmålet när du skapar ett hänvisningserbjudande. Om den �
 
 ## Hämta konverteringsskriptet {#retrieve-the-conversion-script}
 
-1. Klicka på **Erbjudandeinformation** i offertredigeraren och välj sedan **Kundens JavaScript-händelse** i listrutan för mål.
+1. Klicka på **Erbjudandeinformation** i redigeraren för hänvisningserbjudandet och välj sedan **Kund-JavaScript-händelse** i listrutan för mål.
 
    ![](assets/image2015-4-20-17-3a22-3a15.png)
 
-1. Kopiera det översta skriptet i den grå rutan och placera det på webbsidan i `<body>` -taggarna. Det nedersta skriptet placeras inuti `<header>` -taggarna.
+1. Kopiera det översta skriptet i den grå rutan och placera det på webbsidan i `<body>`-taggarna. Det nedersta skriptet placeras inuti `<header>`-taggarna.
 
    ![](assets/image2015-4-20-17-3a29-3a7.png)
 
@@ -34,7 +34,7 @@ Du definierar leveransmålet när du skapar ett hänvisningserbjudande. Om den �
 
 ## Hämta Loader-skriptet {#retrieve-the-loader-script}
 
-1. Välj hänvisningserbjudandet i trädet, klicka sedan på **Erbjudandeåtgärder** och **Bädda in kod**.
+1. Välj hänvisningserbjudandet i trädet och klicka sedan på **Åtgärder för hänvisningserbjudande** och **Bädda in kod**.
 
    ![](assets/image2015-4-20-17-3a34-3a46.png)
 
@@ -42,7 +42,7 @@ Du definierar leveransmålet när du skapar ett hänvisningserbjudande. Om den �
 
    ![](assets/image2015-4-20-20-3a49-3a19.png)
 
-## Klistra in skript på din webbsida {#pasting-the-scripts-onto-your-webpage}
+## Klistrar in skript på din webbsida {#pasting-the-scripts-onto-your-webpage}
 
 Klistra in konverteringsskripten i HTML för brödtexten och rubriken. Placera sedan inläsarskripten i HTML för brödtexten och rubriken.
 
