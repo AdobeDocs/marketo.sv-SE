@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Marketo Sales Insight Configuration tab in Salesforce {#marketo-sales-insight-configuration-tab-in-salesforce}
 
-## Driftsinställningar {#operational-settings}
+## Användningsinställningar {#operational-settings}
 
 Du måste ha konfigurerat detta för att kunna börja använda Sales Insight i SFDC.
 
