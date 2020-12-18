@@ -33,7 +33,7 @@ Genom att definiera segmentregler kan du kategorisera dina personer i olika grup
 
    >[!CAUTION]
    >
-   >Segment har för närvarande inte stöd för operatorerna *In Past* och *In Timeframe *för filter. Det beror på att segmenteringar bara söker efter uppdateringar när ett ändringsdatavärde loggas. Dessa värden loggas *inte* för saker som ändras automatiskt, till exempel formelfält och datum. Dessutom stöds inte datumoperatorer med relativa datumintervall eftersom de beräknas vid tidpunkten för segmenteringsgodkännande, inte vid tidpunkten för en Ändra datavärdesaktivitet.
+   >Segment har för närvarande inte stöd för operatorerna *Tidigare* och *I Timeframe *för filter. Det beror på att segmenteringar bara söker efter uppdateringar när ett ändringsdatavärde loggas. Dessa värden är *inte* loggade för saker som ändras automatiskt, till exempel formelfält och datum. Dessutom stöds inte datumoperatorer med relativa datumintervall eftersom de beräknas vid tidpunkten för segmenteringsgodkännande, inte vid tidpunkten för en Ändra datavärdesaktivitet.
 
    >[!NOTE]
    >
@@ -50,7 +50,7 @@ Genom att definiera segmentregler kan du kategorisera dina personer i olika grup
    >
    >Smarta listor är fantastiska. Lär dig allt du kan göra med [smarta listor och statiska listor](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
-1. Klicka på fliken **Personer (utkast)** för att visa vilka personer som kan kvalificera sig som medlemmar i det här segmentet.
+1. Klicka på fliken **Personer (utkast)** för att visa de personer som kan kvalificera sig som medlemmar i det här segmentet.
 
    ![](assets/image2017-3-28-14-3a20-3a15.png)
 
@@ -73,7 +73,7 @@ Bra jobbat! Dessa segment kommer att bli bra på många ställen i Marketo.
 
 >[!NOTE]
 >
->En person kan kvalificera sig för olika segment, men tillhör så småningom bara ett segment som är beroende av segmentens [prioritetsordning](segmentation-order-priority.md).
+>En person kan kvalificera sig för olika segment, men tillhör så småningom bara ett som är beroende av [prioritetsordningen för segmenten](segmentation-order-priority.md).
 
 >[!NOTE]
 >
