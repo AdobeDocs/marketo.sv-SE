@@ -19,7 +19,7 @@ När du har skapat hundratals webbpersonaliseringskampanjer är det verkligen br
 
    ![](assets/web-campaigns-hand-8.jpg)
 
-1. Klicka på **Filter** på webbkampanjsidan.
+1. Klicka på **Filter** på sidan Webbkampanjer.
 
    ![](assets/web-campaigns-page-filter-hand.jpg)
 
@@ -29,7 +29,7 @@ När du har skapat hundratals webbpersonaliseringskampanjer är det verkligen br
 
    >[!TIP]
    >
-   >Använd kryssrutan **Markera alla** för att välja alla eller länken **Radera** för att ta bort alla kryssrutor.
+   >Använd kryssrutan **Markera allt** för att välja alla eller länken **Rensa** för att ta bort alla kryssrutor.
 
 1. Nu visas bara kampanjer som matchar filtret.
 
