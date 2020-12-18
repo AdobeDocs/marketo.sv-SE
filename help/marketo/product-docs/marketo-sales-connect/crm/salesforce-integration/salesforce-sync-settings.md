@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Synkroniseringsinställningar för Salesforce {#salesforce-sync-settings}
+# Inställningar för Salesforce-synkronisering {#salesforce-sync-settings}
 
 ## Logga e-postaktivitet till Salesforce via API {#logging-email-activity-to-salesforce-via-api}
 
@@ -21,7 +21,7 @@ Den här funktionen kräver att du finns i Enterprise/Unlimited Edition av Sales
 >
 >Salesforce och Sales Engage måste vara anslutna.
 
-1. I Sales Engage klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Settings**.
+1. I Sales Engage klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Inställningar**.
 
    ![](assets/one-2.png)
 
@@ -29,7 +29,7 @@ Den här funktionen kräver att du finns i Enterprise/Unlimited Edition av Sales
 
    ![](assets/two-2.png)
 
-1. Klicka på fliken **Synkronisera inställningar** .
+1. Klicka på fliken **Synkronisera inställningar**.
 
    ![](assets/three-1.png)
 
@@ -37,7 +37,7 @@ Den här funktionen kräver att du finns i Enterprise/Unlimited Edition av Sales
 
    ![](assets/four-1.png)
 
-1. Klicka på fliken **Salesforce API** . På det här kortet kan du ange din inställning för att logga information till Salesforce. Klicka på **Spara** när du är klar.
+1. Klicka på fliken **Salesforce API**. På det här kortet kan du ange din inställning för att logga information till Salesforce. Klicka på **Spara** när du är klar.
 
    ![](assets/five.png)
 
@@ -51,7 +51,7 @@ När du har aktiverat&quot;E-post till Salesforce (BCC)&quot; får du en kopia a
 
 **Logga dina e-postmeddelanden i Salesforce via e-post (BCC)**
 
-1. I Sales Engage klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Settings**.
+1. I Sales Engage klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Inställningar**.
 
    ![](assets/one-3.png)
 
@@ -59,7 +59,7 @@ När du har aktiverat&quot;E-post till Salesforce (BCC)&quot; får du en kopia a
 
    ![](assets/two-3.png)
 
-1. Klicka på fliken **Synkronisera inställningar** .
+1. Klicka på fliken **Synkronisera inställningar**.
 
    ![](assets/three-1.png)
 
@@ -86,7 +86,7 @@ Om du inte ser Min e-post till Salesforce under dina inställningar har administ
 >
 >Du måste ha administratörsbehörighet för att kunna konfigurera detta.
 
-1. Klicka på **Konfigurera *.* **
+1. Klicka på **Inställningar *.* **
 1. Klicka på **E-postadministration *.* **
 1. Klicka på **E-post till Salesforce *.* **
 1. Klicka på **Redigera**.
@@ -103,7 +103,7 @@ Om du inte ser Min e-post till Salesforce under dina inställningar har administ
 
    ![](assets/two-2.png)
 
-1. Klicka på fliken **Synkronisera inställningar** .
+1. Klicka på fliken **Synkronisera inställningar**.
 
    ![](assets/three-1.png)
 
