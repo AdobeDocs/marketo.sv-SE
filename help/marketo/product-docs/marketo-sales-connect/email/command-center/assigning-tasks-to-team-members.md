@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Tilldela uppgifter till teammedlemmar {#assigning-tasks-to-team-members}
+# Tilldela aktiviteter till teammedlemmar {#assigning-tasks-to-team-members}
 
 Om du vill samarbeta med andra teammedlemmar kan det vara ett bra sätt att samordna dina prospekteringsinsatser.
 
@@ -19,7 +19,7 @@ Om du vill samarbeta med andra teammedlemmar kan det vara ett bra sätt att samo
 >
 >Du kan bara tilldela uppgifter för delade kontakter. Du vill [dela en grupp kontakter](http://docs.marketo.com/x/fwDb) med dina teammedlemmar innan du samarbetar med delade uppgifter.
 
-1. Klicka på **kommandocentralen**.
+1. Klicka på **Kommandocentralen**.
 
    ![](assets/one-1.png)
 
