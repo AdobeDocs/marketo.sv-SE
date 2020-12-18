@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Inkludera en ICS-fil för kalenderhändelse på en landningssida {#include-a-calendar-event-ics-file-in-a-landing-page}
+# Inkludera en ICS-fil för kalenderhändelse på en startsida {#include-a-calendar-event-ics-file-in-a-landing-page}
 
-Med en **Calendar File** -token kan du lägga till en kalender (.ics)-länk till dina Markets landningssidor.
+Med en **Calendar File**-token kan du lägga till en kalender (.ics)-länk till dina Markettill landningssidor.
 
 >[!PREREQUISITES]
 >
@@ -23,11 +23,11 @@ Med en **Calendar File** -token kan du lägga till en kalender (.ics)-länk till
 
 
 
-1. Klicka på **{...}** i landningssidans redigerare för att infoga en token.
+1. Klicka på **{..}** för att infoga en token i startsidans redigerare.
 
    ![](assets/image2015-7-8-17-3a51-3a29.png)
 
-1. Markera **kalenderfilens** token och klicka på **Infoga**.
+1. Välj token **Kalenderfil** och klicka på **Infoga**.
 
    >[!CAUTION]
    >
