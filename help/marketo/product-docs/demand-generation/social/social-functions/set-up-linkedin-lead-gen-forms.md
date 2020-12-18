@@ -23,7 +23,7 @@ Använd LinkedIn Lead Gen Forms för att köra annonskampanjer i LinkedIn och ge
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Gå till **LaunchPoint**, klicka på **Ny** och välj **Ny tjänst**.
+1. Gå till **LaunchPoint**, klicka på **Nytt** och välj **Ny tjänst**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
@@ -39,7 +39,7 @@ Använd LinkedIn Lead Gen Forms för att köra annonskampanjer i LinkedIn och ge
 
    ![](assets/linkedin-login.png)
 
-1. När du har loggat in på LinkedIn går du tillbaka till Marketo och klickar på **Authorize**.
+1. När du är inloggad på LinkedIn går du tillbaka till Marketo och klickar på **Auktorisera**.
 
    ![](assets/linkedin-lead-gen-authorize.png)
 
@@ -53,9 +53,9 @@ Använd LinkedIn Lead Gen Forms för att köra annonskampanjer i LinkedIn och ge
 
    >[!CAUTION]
    >
-   >Tjänsten upphör automatiskt ett år efter auktoriseringen. Klicka bara på **Återauktorisera** om du vill återfå åtkomsten. Du kan behöva ange ditt LinkedIn-lösenord igen, beroende på inställningarna i webbläsaren.
+   >Tjänsten upphör automatiskt ett år efter auktoriseringen. Klicka på **Återauktorisera** om du vill återfå åtkomst. Du kan behöva ange ditt LinkedIn-lösenord igen, beroende på inställningarna i webbläsaren.
 
-1. Markera det eller de konton som du vill att LinkedIn-lead-Gen ska komma till Marketo från och klicka på **Nästa**.
+1. Markera det/de konton du vill att LinkedIn Lead Gen-leads ska komma till Marketo från och klicka på **Nästa**.
 
    >[!TIP]
    >
@@ -63,11 +63,11 @@ Använd LinkedIn Lead Gen Forms för att köra annonskampanjer i LinkedIn och ge
 
    ![](assets/linkedin-pages-to-capture.png)
 
-1. Om du vill acceptera standardfältkopplingar för LinkedIn till Marketo klickar du bara på **Skapa**. Om du vill ändra standardfältmappningen, ta bort en fältmappning eller lägga till en ny fältmappning, kan du göra detta per fält via modalen nedan.
+1. Om du vill acceptera standardfältmappningar för LinkedIn till Marketo klickar du bara på **Skapa**. Om du vill ändra standardfältmappningen, ta bort en fältmappning eller lägga till en ny fältmappning, kan du göra detta per fält via modalen nedan.
 
    >[!CAUTION]
    >
-   >Marketo stöder mappning av två LinkedIn-fält till ett enda Marketo-fält, **men endast när** de två LinkedIn-fälten inte finns i samma formulär. Om du mappar två fält från samma LinkedIn-formulär till ett enda Marketo-fält kan det hända att ingen kan ange din Marketo-databas.
+   >Marketo stöder mappning av två LinkedIn-fält till ett enskilt Marketo-fält, **men endast när** de två LinkedIn-fälten inte finns i samma formulär. Om du mappar två fält från samma LinkedIn-formulär till ett enda Marketo-fält kan det hända att ingen kan ange din Marketo-databas.
 
    ![](assets/linkedin-lead-gen-mapping.png)
 
