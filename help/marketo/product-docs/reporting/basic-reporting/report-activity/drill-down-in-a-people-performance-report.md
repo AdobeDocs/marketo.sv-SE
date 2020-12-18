@@ -39,7 +39,7 @@ Gå ned i en rapport om personprestanda om du vill se ytterligare personinformat
 
    ![](assets/five.png)
 
-1. Om du vill spara resultatet (valfritt) klickar du på ikonen **Exportera** längst ned till vänster.
+1. Om du vill spara dina resultat (valfritt) klickar du på ikonen **Exportera** längst ned till vänster.
 
    ![](assets/six.png)
 
