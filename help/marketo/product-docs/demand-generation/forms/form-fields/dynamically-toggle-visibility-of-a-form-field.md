@@ -27,17 +27,17 @@ En bra egenskap hos Marketo-formulär är att du dynamiskt kan dölja/visa formu
 >
 >**Exempel**
 >
->I det här exemplet döljer vi fältet **Delstat** såvida inte **Land** har valts som &quot;USA&quot;.
+>I det här exemplet döljer vi fältet **State** såvida inte **Country** har valts som &quot;USA&quot;.
 
-1. Gå till **Marknadsföringsaktiviteter** och **aktiviteter**.
+1. Gå till **Marknadsföring** **Aktiviteter**.
 
    ![](assets/login-marketing-activities-8.png)
 
-1. Markera formuläret och klicka på **Redigera** **formulär**.
+1. Markera formuläret och klicka på **Redigera** **Formulär**.
 
    ![](assets/editform-1.png)
 
-1. Markera det fält som du vill visa/dölja dynamiskt och klicka på länken för **Synlighetsregler** ****.
+1. Markera fältet som du vill visa/dölja dynamiskt och klicka på länken för **Synlighet** **Regler**.
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
