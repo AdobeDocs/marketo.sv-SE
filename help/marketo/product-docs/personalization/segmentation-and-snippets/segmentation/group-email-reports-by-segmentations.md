@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Gruppera e-postrapporter efter segment {#group-email-reports-by-segmentations}
 
-Segmenteringar är inte bara för dynamiskt innehåll. Du kan också gruppera din [e-postrapport](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) efter [segmenteringar](http://docs.marketo.com/display/docs/segmentation+and+snippets).
+Segmenteringar är inte bara för dynamiskt innehåll. Du kan också gruppera din [rapport om e-postprestanda](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) med [segmenteringar](http://docs.marketo.com/display/docs/segmentation+and+snippets).
 
 >[!PREREQUISITES]
 >
@@ -23,11 +23,11 @@ Segmenteringar är inte bara för dynamiskt innehåll. Du kan också gruppera di
 
 
 
-1. Gå till området **Marknadsföringsaktiviteter** (eller **Analytics**).
+1. Gå till **Marknadsföringsaktiviteter** (eller **Analytics**).
 
    ![](assets/image2014-9-16-9-3a15-3a58.png)
 
-1. Välj din **rapport om e-postprestanda** .
+1. Välj din **e-postrapport**.
 
    ![](assets/image2014-9-16-9-3a16-3a6.png)
 
@@ -39,11 +39,11 @@ Segmenteringar är inte bara för dynamiskt innehåll. Du kan också gruppera di
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. Så ja! Klicka på fliken **Rapport** . Om du använder en segmentering visar rapporten en rad för varje segment.
+1. Så ja! Klicka på fliken **Rapport**. Om du använder en segmentering visar rapporten en rad för varje segment.
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 
-1. Om du använder två segmenteringar visas en rad för varje *kombination* av segment.
+1. Om du använder två segmenteringar visas en rad för varje *kombination* segment.
 
    ![](assets/image2014-9-16-9-3a17-3a26.png)
 
