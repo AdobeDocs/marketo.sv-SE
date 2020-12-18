@@ -15,17 +15,17 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Ditt Sales Connect-konto kan inte redan vara anslutet till Salesforce när du upprättar en anslutning till sandlådan. Om så är fallet [måste du koppla från](http://docs.marketo.com/x/FoDq) innan du följer stegen i den här artikeln.
+>Ditt Sales Connect-konto kan inte redan vara anslutet till Salesforce när du upprättar en anslutning till sandlådan. Om det är det [kontrollerar du att du kopplar från](http://docs.marketo.com/x/FoDq) innan du följer stegen i den här artikeln.
 
-1. I Sales Connect klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Settings**.
+1. I Sales Connect klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Inställningar**.
 
    ![](assets/one-2.png)
 
-1. Klicka på **CRM** under Integreringar.
+1. Klicka på **CRM** under Integrationer.
 
    ![](assets/two-2.png)
 
-1. Klicka på **Mer information** på Salesforce-kortet.
+1. Klicka på **Mer info** på Salesforce-kortet.
 
    ![](assets/three-2.png)
 
