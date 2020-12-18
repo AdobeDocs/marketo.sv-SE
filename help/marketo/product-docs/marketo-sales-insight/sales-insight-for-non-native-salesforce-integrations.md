@@ -62,7 +62,7 @@ API-dokumentation för synkronisering av säljaren: [https://developers.marketo.
 
 1. Synkronisera Salesforce-konton med Marketo.
 
-   Ett Marketo-företag måste uppdateras för Salesforce-kontot. Fälten *externalCompanyId* och *externalSalesPersonId* är obligatoriska för företagets upsert.
+   Ett Marketo-företag måste uppdateras för Salesforce-kontot. Fälten *externalCompanyId* och *externalSalesPersonId* måste anges för att det ska gå att uppdatera företaget.
 
 <table> 
  <colgroup> 
@@ -94,7 +94,7 @@ API-dokumentation för företag: [https://developers.marketo.com/rest-api/lead-d
 
 1. Synkronisera Salesforce-leads/kontakter till Marketo.
 
-   Du måste infoga en Marketo Lead för Salesforce Lead/Contact. Fälten *externalPersonId*, *externalSalesPersonId* och *externalCompanyId* krävs för att ladda upp leadet.
+   Du måste infoga en Marketo Lead för Salesforce Lead/Contact. Fälten *externalPersonId*, *externalSalesPersonId* och *externalCompanyId* måste anges för att leadet ska kunna skickas.
 
 <table> 
  <colgroup> 
@@ -131,7 +131,7 @@ API-dokumentation för synkronisering av leads:  [https://developers.marketo.com
 
 1. Synkronisera Salesforce-affärsmöjligheter med Marketo.
 
-   Du måste infoga en marknadsföringsmöjlighet för Salesforce-affärsmöjligheten. Fälten *externalOpportunityId*, *externalCompanyId* och *externalSalesPersonId* krävs för att bekräfta säljprojektet.
+   Du måste infoga en marknadsföringsmöjlighet för Salesforce-affärsmöjligheten. Fälten *externalOpportunityId*, *externalCompanyId* och *externalSalesPersonId* är obligatoriska för att bekräfta säljprojektet.
 
 <table> 
  <colgroup> 
@@ -168,7 +168,7 @@ API-dokumentation för säljprojekt: [`https://developers.marketo.com/rest-api/l
 
 1. Synkronisera Salesforce-kontaktroller till Marketo.
 
-   Salesforce-kontaktroller för en Salesforce-affärsmöjlighet kan sedan synkroniseras via Marketo-säljprojektsrollen. Posten för säljprojektsrollen anger *fälten externalOpportunityId*, *role* och *leadId* .
+   Salesforce-kontaktroller för en Salesforce-affärsmöjlighet kan sedan synkroniseras via Marketo-säljprojektsrollen. Posten för säljprojektsrollen anger fälten *externalOpportunityId*, *roll* och *leadId*.
 
 <table> 
  <colgroup> 
@@ -207,7 +207,7 @@ API-dokumentation för säljprojekt: [`https://developers.marketo.com/rest-api/l
 
    När Salesforce-objekten har synkroniserats korrekt till Marketo kan du sedan utnyttja MSI-funktionerna. Fälten Senaste intressanta MSI-stund/poäng visas i REST API för leads. Dessa fält beräknas av MSI och är skrivskyddade.
 
-   Fälten Senaste intressanta stund/poäng i en Marketo Lead måste synkroniseras regelbundet till Salesforce med REST API Lead-slutpunkten. Fråga den här slutpunkten efter en Marketo Lead med *externalPersonId* som filterType och skicka Salesforce Lead GUID som filterValue.
+   Fälten Senaste intressanta stund/poäng i en Marketo Lead måste synkroniseras regelbundet till Salesforce med REST API Lead-slutpunkten. Fråga den här slutpunkten efter en Marketo Lead med hjälp av *externalPersonId* som filterType och som skickas i Salesforce Lead GUID som filterValue.
 
    | GET /rest/v1/leads.json?filterType=externalPersonId&amp;filterValues=salesforceLeadId1,salesforceLeadId2 |
    |---|
@@ -228,7 +228,7 @@ API-dokumentation för säljprojekt: [`https://developers.marketo.com/rest-api/l
   </tr> 
   <tr> 
    <td>msiLastIntressantMomentType</td> 
-   <td>Etikett: Senaste intressanta<br>stund TypeName: Sista_intressanta_stund_typ__c</td> 
+   <td>Etikett: Typ av senaste intressanta stund<br>Namn: Sista_intressanta_stund_typ__c</td> 
    <td>Typ av det sista intressanta tillfället för leadet</td> 
   </tr> 
   <tr> 
