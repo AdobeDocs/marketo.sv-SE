@@ -19,5 +19,5 @@ Om du får ett &quot;Oväntat fel&quot; i Gmail när du försöker skicka ett e-
 1. Klicka på **Koppla från Gmail**.
 1. När du har kopplat från klickar du på **Anslut till Google**.
 
-   När du är ansluten igen går du tillbaka till Gmail och uppdaterar sidan. Försök sedan skicka e-postmeddelandet igen. Om det fortfarande inte fungerar ber vi dig [skicka in en biljett](http://nation.marketo.com/community/support_solutions) till vårt supportteam.
+   När du är ansluten igen går du tillbaka till Gmail och uppdaterar sidan. Försök sedan skicka e-postmeddelandet igen. Om det fortfarande inte fungerar kan du [skicka in en biljett](http://nation.marketo.com/community/support_solutions) till vårt supportteam.
 
