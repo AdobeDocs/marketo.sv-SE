@@ -23,11 +23,11 @@ Som administratör kan du aktivera samtalsinspelning för dina Sales Connect-sam
 
    ![](assets/two.png)
 
-1. Bläddra ned till Inställningar för telefonförsäljning och välj **Aktivera samtalsinspelning** .
+1. Bläddra ned till Inställningar för Sales Connect Phone och välj alternativet **Aktivera samtalsinspelning**.
 
    ![](assets/three.png)
 
-1. Om du vill ge dina säljare möjlighet att aktivera eller inaktivera samtalsinspelning klickar du på** Valfri inspelning för alla teammedlemmar. **Om du vill att alla samtal ska spelas in automatiskt klickar du på** Spela in alla samtal.**
+1. Om du vill ge dina säljare möjlighet att aktivera eller inaktivera samtalsinspelning klickar du på** Valfri inspelning för alla teammedlemmar. **Om du vill att alla samtal ska spelas in automatiskt** klickar du på Spela in alla samtal.**
 
    ![](assets/four.png)
 
