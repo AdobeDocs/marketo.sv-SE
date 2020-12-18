@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Skapa ett fragment {#create-a-snippet}
 
-Fragment kan användas som dynamiska innehållsblock på **e-post** - och **landningssidor.**
+Kodavsnitt kan användas som dynamiska innehållsblock på **e-postmeddelanden** och **landningssidor.**
 
 1. Gå till **Design Studio.**
 
    ![](assets/designstudio.png)
 
-1. Klicka på **Nytt **och sedan **Nytt kodfragment**.
+1. Klicka på **Nytt **och sedan **Nytt fragment**.
 
    ![](assets/image2014-9-16-8-50-4.png)
 
@@ -27,7 +27,7 @@ Fragment kan användas som dynamiska innehållsblock på **e-post** - och **land
 
    ![](assets/image2014-9-16-8-3a50-3a14.png)
 
-Bra jobbat! Förenkla arbetet genom att skapa utdrag för dynamiskt innehåll. Nu kan du lägga [till innehåll i det nya fragmentet](add-content-to-a-snippet.md).
+Bra jobbat! Förenkla arbetet genom att skapa utdrag för dynamiskt innehåll. Nu kan du fortsätta och [lägga till innehåll i det nya fragmentet](add-content-to-a-snippet.md).
 
 >[!MORELIKETHIS]
 >
