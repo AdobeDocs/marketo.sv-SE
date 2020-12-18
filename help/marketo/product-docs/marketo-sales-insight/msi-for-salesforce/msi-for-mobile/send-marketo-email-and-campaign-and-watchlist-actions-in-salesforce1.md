@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Skicka Marketo-åtgärder för e-post och kampanj och bevakning i Salesforce1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
+# Skicka Marketo-e-post och kampanjåtgärder och bevakningsåtgärder i Salesforce1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 
-1. Gå till området Leadinformation i Salesforce1 och klicka på fliken **Relaterat** .
+1. Gå till området Leadinformation i Salesforce1 och klicka på fliken **Relaterat**.
 
    ![](assets/one-1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Vilka smarta kampanjer visas? De med utlösarna&quot;Campaign is Requested&quot;. Lär dig hur du ställer in en [utlöst kampanj med&quot;Campaign is Requested](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
+   >Vilka smarta kampanjer visas? De med utlösarna&quot;Campaign is Requested&quot;. Lär dig hur du ställer in en [utlöst kampanj med hjälp av&quot;Campaign is Requested](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
 
 Coola, nu kan säljarna aktivt delta i marknadsföringen.
 
