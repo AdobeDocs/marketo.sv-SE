@@ -17,7 +17,7 @@ Visa prestanda för e-postmeddelanden som skickas via Salesforce, Microsoft Dyna
 
 ## Generera en rapport {#generate-a-report}
 
-1. Klicka på **Analytics**.
+1. Klicka på **Analys**.
 
    ![](assets/mainnav-analyticshand-small.png)
 
@@ -29,7 +29,7 @@ Visa prestanda för e-postmeddelanden som skickas via Salesforce, Microsoft Dyna
 
    ![](assets/three.png)
 
-1. Klicka på fliken **Rapport** .
+1. Klicka på fliken **Rapport**.
 
    ![](assets/image2014-12-9-12-3a5-3a35.png)
 
@@ -47,11 +47,11 @@ Visa prestanda för e-postmeddelanden som skickas via Salesforce, Microsoft Dyna
 
 Du kan visa den här rapporten grupperad efter säljare genom att ändra dina inställningar.
 
-1. Klicka på **Konfigurera**. Dubbelklicka på **E-post**.
+1. Klicka på **Inställningar**. Dubbelklicka på **E-post**.
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 
-1. Välj Gruppera e-postmeddelanden efter **säljare**.
+1. Välj Gruppera e-postmeddelanden av **säljare**.
 
    ![](assets/image2014-12-9-12-3a16-3a42.png)
 
@@ -59,7 +59,7 @@ Du kan visa den här rapporten grupperad efter säljare genom att ändra dina in
 
    ![](assets/image2014-12-9-12-3a17-3a39.png)
 
-1. Klicka på fliken **Rapport** .
+1. Klicka på fliken **Rapport**.
 
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 
