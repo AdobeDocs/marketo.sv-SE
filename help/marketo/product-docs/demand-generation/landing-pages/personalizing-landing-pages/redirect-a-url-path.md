@@ -19,11 +19,11 @@ Marketo gör det enkelt att omdirigera en URL-sökväg till en sida som du välj
 >
 >**Administratörsbehörigheter krävs**
 
-1. Under **Admin** klickar du på **landningssidor**.
+1. Under **Admin,** klickar du på **landningssidor**.
 
    ![](assets/image2014-9-18-13-3a43-3a29.png)
 
-1. Klicka på fliken **Regler** och sedan på **Ny **och **Ny omdirigeringsregel**.
+1. Klicka på fliken **Regler** och klicka sedan på **Nytt **och **Ny omdirigeringsregel**.
 
    ![](assets/image2014-9-18-13-3a43-3a40.png)
 
@@ -36,17 +36,17 @@ Marketo gör det enkelt att omdirigera en URL-sökväg till en sida som du välj
    >**Påminnelse**
    >
    >
-   >Kom ihåg att du bara kan omdirigera URL:er som börjar med Marketo [CNAME](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
+   >Kom ihåg att du bara kan omdirigera URL:er som börjar med din Marketo [CNAME](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
-1. Skriv URL-sökvägen (eller den specifika sidan) som du vill omdirigera i det andra **ursprungliga URL** -fältet till höger.
+1. Skriv URL-sökvägen (eller den specifika sidan) som du vill omdirigera i det andra fältet **Ursprunglig URL** till höger.
 
    ![](assets/image2014-9-18-13-3a43-3a59.png)
 
-1. Klicka på **Använd icke-marknadsföringsstartsida**, skriv den sida som du vill omdirigera besökare till i fältet **Omdirigerings-URL** och klicka på **Skapa**.
+1. Klicka på **Använd icke-Marketo Landing Page**, skriv den sida som du vill omdirigera besökare till i fältet **Omdirigerings-URL** och klicka på **Skapa**.
 
    ![](assets/image2014-9-18-13-3a44-3a7.png)
 
-   Du kan också [använda Marketo för landningssidor](https://docs.marketo.com/x/vAEk) som mål.
+   Du kan [använda Marketo för landningssidor](https://docs.marketo.com/x/vAEk) som mål.
 
 Grattis!  URL-sökvägen har omdirigerats.
 
