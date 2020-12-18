@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Förstå lyckad affärsmodell {#understanding-revenue-model-success-path}
+# Förstå lyckad sökväg till intäktsmodell {#understanding-revenue-model-success-path}
 
-## Lyckad sökväg {#success-path}
+## Slutförd sökväg {#success-path}
 
-I modellen är den gröna vägen **Success Path** den optimala vägen för hur ett ledande linjärt går över till ett slutet/vunnet företag.
+I modellen är den gröna vägen som kallas **Success Path** den optimala vägen för hur ett lead linjärt övergår till ett slutet/vunnet företag.
 
-![--](assets/image2015-6-12-17-3a12-3a18.png)
+![—](assets/image2015-6-12-17-3a12-3a18.png)
 
 Exempelfaser på en lyckad sökväg:
 
