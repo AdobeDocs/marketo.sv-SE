@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# Token för intressanta ögonblick {#tokens-for-interesting-moments}
+# Token för intressanta stunder {#tokens-for-interesting-moments}
 
 >[!PREREQUISITES]
 >
 >* Lär dig använda flödessteget [Intressant stund](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
->* Läs mer om [variabler](http://docs.marketo.com/display/docs/tokens).
+>* Läs mer om [tokens](http://docs.marketo.com/display/docs/tokens).
 
 >
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## Tillgängliga token {#available-tokens}
 
-Kolla in [Token Overview](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) för att se alla tokens du kan sätta i en intressant stund.
+Kolla in [Översikt över token](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) för att se alla token du kan sätta in i en intressant stund.
 
 ## Utlösartoken {#trigger-tokens}
 
@@ -236,9 +236,9 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
 
 >[!NOTE]
 >
->Om den inte har en check ![(tick)](assets/check.svg) returnerar den en tom sträng (ingenting) i det intressanta ögonblicket.
+>Om den inte har en kontroll ![(tick)](assets/check.svg) returnerar den en tom sträng (ingenting) i den intressanta stunden.
 
-*Utlösaren **besöker webbsidan** har några extra tokens:
+*Utlösaren **Besök webbsidan** har några ytterligare tokens:
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`
