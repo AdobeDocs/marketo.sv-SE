@@ -5,7 +5,7 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketos produktdokumentation
 translation-type: tm+mt
-source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
+source-git-commit: d191e59d4ed96025194ebece423e905e3ac7a7d9
 workflow-type: tm+mt
 source-wordcount: '7840'
 ht-degree: 0%
@@ -68,7 +68,7 @@ ht-degree: 0%
             + [Filtrera i namngivna konton](product-docs/account-based-marketing/target/named-accounts/filtering-in-named-accounts.md)
             + [Ta bort ett namngivet konto](product-docs/account-based-marketing/target/named-accounts/delete-a-named-account.md)
             + [ABM Hierarkier](product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)
-            + [Skapa en hierarki](product-docs/account-based-marketing/target/named-accounts/abm-hierarchies/create-a-hierarchy.md)
+            + [Skapa en hierarki](product-docs/account-based-marketing/target/named-accounts/create-a-hierarchy.md)
          + [Kontolistor](product-docs/account-based-marketing/target/account-lists.md)
          + [Skapa en matchad publik på LinkedIn](product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md)
       + Aktivera {#engage}
