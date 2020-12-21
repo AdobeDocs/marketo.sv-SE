@@ -3,9 +3,9 @@ unique-page-id: 11385183
 description: ABM Sales Report - Marketo Docs - produktdokumentation
 title: ABM-försäljningsrapport
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Ta emot ett e-postmeddelande varje vecka som innehåller de viktigaste kontona o
 
 >[!NOTE]
 >
->Lär dig hur du konfigurerar den här rapporten [här](https://docs.marketo.com/x/drat).
+>Lär dig hur du konfigurerar den här rapporten [här](/help/marketo/product-docs/account-based-marketing/measure/abm-report-setup.md).
 
 Rapporten delar:
 
@@ -30,8 +30,35 @@ Rapporten delar:
 
 ## Försäljningsrapportnyckel {#sales-report-key}
 
-| **Kontopoäng** | Trend varje vecka efter kontopoäng (väljs i konfiguration), följt av aktuellt kontopoäng |
-|---|---|
-| **Försäljningsförlopp** | Trend varje vecka efter pipeline, följt av den totala aktuella pipeline och antalet öppna möjligheter |
-| **Sidvyer** | Veckovis trend för sidvisningar, följt av totalt antal sidvisningar och unika besökare |
-| **Intressanta ögonblick** | Totalt antal intressanta stunder som har inträffat under veckan |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Kontopoäng</strong></td> 
+   <td> 
+    <div>
+      Trend varje vecka efter kontopoäng (väljs i konfiguration), följt av aktuellt kontopoäng 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Försäljningsförlopp</strong></td> 
+   <td> 
+    <div>
+      Trend varje vecka efter pipeline, följt av den totala aktuella pipeline och antalet öppna möjligheter 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Sidvyer</strong></td> 
+   <td> 
+    <div>
+      Veckovis trend för sidvisningar, följt av totalt antal sidvisningar och unika besökare 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Intressanta ögonblick</strong></td> 
+   <td> 
+    <div>
+      Totalt antal intressanta stunder som har inträffat under veckan 
+    </div></td> 
+  </tr> 
+ </tbody> 
+</table>
