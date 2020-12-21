@@ -3,9 +3,9 @@ unique-page-id: 26837421
 description: Skapa en matchad publik på LinkedIn - Marketo Docs - produktdokumentation
 title: Skapa en matchad publik på LinkedIn
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Skapa matchande målgrupper från ABM-kontolistor för LinkedIn Ad Targeting.
 
 >[!PREREQUISITES]
 >
->[Lägg till LinkedIn-matchade målgrupper som en LaunchPoint-tjänst](http://docs.marketo.com/x/I4Fy)
+>[Lägg till LinkedIn-matchade målgrupper som en LaunchPoint-tjänst](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
 1. Klicka på fliken **Kontolistor** i ABM.
 
@@ -49,13 +49,6 @@ Skapa matchande målgrupper från ABM-kontolistor för LinkedIn Ad Targeting.
 
    Och det är allt. Din målgrupp har flyttats till LinkedIn.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Relaterade artiklar**
->
->* [Använd en Marketo-lista eller en smart lista som ett LinkedIn-målsegment](http://docs.marketo.com/x/NIFy)
-
->
-
-
-
+>[Använd en Marketo-lista eller en smart lista som ett LinkedIn-målsegment](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
