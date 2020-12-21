@@ -3,9 +3,9 @@ unique-page-id: 11380732
 description: Kontofilter - Marketo Docs - Produktdokumentation
 title: Kontofilter
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ Om du vill använda det här filtret klickar du på listrutan med kontolistan...
 
    ![](assets/eight.png)
 
-1. Om du använder kvalificeraren &quot;is any&quot; kan du använda [begränsningar](http://docs.marketo.com/display/DOCS/Add+a+Constraint+to+a+Smart+List+Filter) för att begränsa sökresultaten. Lägg till så många du vill!
+1. Om du använder kvalificeraren &quot;is any&quot; kan du använda [begränsningar](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) för att begränsa sökresultaten. Lägg till så många du vill!
 
    ![](assets/nine.png)
 
@@ -67,5 +67,4 @@ Om du vill använda det här filtret klickar du på listrutan med kontolistan...
 
 >[!MORELIKETHIS]
 >
->* [Kontoutlösare](account-triggers.md)
-
+>[Kontoutlösare](/help/marketo/product-docs/account-based-marketing/engage/account-triggers.md)
