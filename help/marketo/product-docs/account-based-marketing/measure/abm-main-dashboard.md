@@ -3,9 +3,9 @@ unique-page-id: 11380783
 description: ABM Main Dashboard - Marketo Docs - Produktdokumentation
 title: ABM Main Dashboard
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Om du vill filtrera efter kontolista klickar du på listrutan Visa...
 
 ![](assets/three.png)
 
-Om du vill visa kontrollpanelen [Kontolista](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard) klickar du på namnet på den kontolista du har valt..
+Om du vill visa kontrollpanelen [Kontolista](/help/marketo/product-docs/account-based-marketing/measure/account-list-insights.md#account-list-dashboard) klickar du på namnet på den kontolista du har valt..
 
 ![](assets/four.png)
 
@@ -37,7 +37,6 @@ Om du inte vill visa kontrollpanelen för kontolistan utan vill gå ned i ett na
 
 ![](assets/six.png)
 
-...och visa det namngivna kontots [insikter](http://docs.marketo.com/display/DOCS/Named+Account+Insights).
+...och visa det namngivna kontots [insikter](/help/marketo/product-docs/account-based-marketing/measure/named-account-insights.md).
 
 ![](assets/seven.png)
-
