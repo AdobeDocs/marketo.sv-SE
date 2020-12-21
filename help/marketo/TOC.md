@@ -5,7 +5,7 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketos produktdokumentation
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
 workflow-type: tm+mt
 source-wordcount: '7840'
 ht-degree: 0%
@@ -71,21 +71,21 @@ ht-degree: 0%
             + [Skapa en hierarki](product-docs/account-based-marketing/target/named-accounts/abm-hierarchies/create-a-hierarchy.md)
          + [Kontolistor](product-docs/account-based-marketing/target/account-lists.md)
          + [Skapa en matchad publik på LinkedIn](product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md)
+      + Aktivera {#engage}
+         + [Kontofilter](product-docs/account-based-marketing/engage/account-filters.md)
+         + [Kontoutlösare](product-docs/account-based-marketing/engage/account-triggers.md)
+      + Mått {#measure}
+         + [ABM Main Dashboard](product-docs/account-based-marketing/measure/abm-main-dashboard.md)
+         + [ABM-rapportinställningar](product-docs/account-based-marketing/measure/abm-report-setup.md)
+         + [ABM-försäljningsrapport](product-docs/account-based-marketing/measure/abm-sales-report.md)
+         + [Kontolisteinsikter](product-docs/account-based-marketing/measure/account-list-insights.md)
+         + [Dimension för namngivet konto i RCA](product-docs/account-based-marketing/measure/named-account-dimension-in-rca.md)
+         + [Insikter om namngivna konton](product-docs/account-based-marketing/measure/named-account-insights.md)
+         + [Använda persona](product-docs/account-based-marketing/using-personas.md)
    + Kontoprofilering {#account-profiling}
       + [Konfigurera kontoprofilering](product-docs/account-based-marketing/account-profiling/setting-up-account-profiling.md)
       + [Rankning och justering av kontoprofilering](product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)
       + [Ny kontoidentifiering](product-docs/account-based-marketing/account-profiling/new-account-discovery.md)
-   + Aktivera {#engage}
-      + [Kontofilter](product-docs/account-based-marketing/engage/account-filters.md)
-      + [Kontoutlösare](product-docs/account-based-marketing/engage/account-triggers.md)
-   + Mått {#measure}
-      + [ABM Main Dashboard](product-docs/account-based-marketing/measure/abm-main-dashboard.md)
-      + [ABM-rapportinställningar](product-docs/account-based-marketing/measure/abm-report-setup.md)
-      + [ABM-försäljningsrapport](product-docs/account-based-marketing/measure/abm-sales-report.md)
-      + [Kontolisteinsikter](product-docs/account-based-marketing/measure/account-list-insights.md)
-      + [Dimension för namngivet konto i RCA](product-docs/account-based-marketing/measure/named-account-dimension-in-rca.md)
-      + [Insikter om namngivna konton](product-docs/account-based-marketing/measure/named-account-insights.md)
-      + [Använda persona](product-docs/account-based-marketing/using-personas.md)
    + Ytterligare program {#additional-apps}
       + SEO {#seo}
          + Om SEO {#understanding-seo}
@@ -781,7 +781,7 @@ ht-degree: 0%
                + [Mall 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Mall 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Mall 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Mall 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Mall 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Mall 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [Mall 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Mall 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
