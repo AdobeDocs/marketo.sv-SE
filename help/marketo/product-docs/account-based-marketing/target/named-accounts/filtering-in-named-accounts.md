@@ -3,7 +3,7 @@ unique-page-id: 12615804
 description: Filtrera på namngivna konton - Marketo Docs - Produktdokumentation
 title: Filtrera i namngivna konton
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Filtrering är ett bra sätt att snabbt begränsa data.
 
    >[!NOTE]
    >
-   >Det finns flera sökparameterkombinationer. I det här exemplet hittar vi: *Bransch = Bank, Land = USA, max antal anställda = 10000*.
+   >Det finns flera sökparameterkombinationer. I det här exemplet hittar vi: _Bransch = Bank, Land = USA, max antal anställda = 10000_.
 
 1. Klicka på listrutan **Bransch** och välj **Bank**.
 
@@ -44,4 +44,3 @@ Filtrering är ett bra sätt att snabbt begränsa data.
    >[!NOTE]
    >
    >Om du vill lägga till fler filter att välja bland klickar du på **Lägg till filter** längst ned till vänster i formuläret.
-
