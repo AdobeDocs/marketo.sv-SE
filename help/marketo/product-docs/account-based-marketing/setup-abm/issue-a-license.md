@@ -3,9 +3,9 @@ unique-page-id: 11380771
 description: Utfärda en licens - Marketo Docs - Produktdokumentation
 title: Utfärda en licens
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -33,5 +33,4 @@ Du måste konfigurera användare med en licens för att använda ABM. Så här g
 
    >[!NOTE]
    >
-   >Om du vill ta bort en användarlicens följer du steg 1 och *kör* kryssrutan och klickar sedan på **Spara**.
-
+   >Om du vill ta bort en användarlicens följer du steg 1, avmarkerar kryssrutan och klickar på **Spara**.
