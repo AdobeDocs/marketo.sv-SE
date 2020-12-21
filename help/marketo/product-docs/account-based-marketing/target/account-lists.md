@@ -3,9 +3,9 @@ unique-page-id: 11378814
 description: Kontolistor - Marketo Docs - Produktdokumentation
 title: Kontolistor
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Förutom kontolistor kan du även skapa dynamiska kontolistor som genereras frå
 
 >[!NOTE]
 >
->Kontolistor som skapats i Marketo Account Based Marketing är automatiskt tillgängliga när du skapar smarta listor och webbkampanjer i [Webbpersonalisering](http://docs.marketo.com/display/DOCS/RTP+Segments).
+>Kontolistor som skapats i Marketo Account Based Marketing är automatiskt tillgängliga när du skapar smarta listor och webbkampanjer i [Webbpersonalisering](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
 
 ## Skapa en ny kontolista {#create-a-new-account-list}
 
@@ -33,7 +33,7 @@ Förutom kontolistor kan du även skapa dynamiska kontolistor som genereras frå
 
    ![](assets/three-0.png)
 
-1. När du har skapat din kontolista börjar du [lägga till namngivna konton i den](http://docs.marketo.com/display/DOCS/Add+an+Existing+Named+Account+to+an+Account+List)!
+1. När du har skapat din kontolista börjar du [lägga till namngivna konton i den](/help/marketo/product-docs/account-based-marketing/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)!
 
    >[!NOTE]
    >
@@ -61,7 +61,7 @@ Förutom kontolistor kan du även skapa dynamiska kontolistor som genereras frå
 
 >[!NOTE]
 >
->De här stegen gäller endast för kontolistor. *I* dynamiska kontolistor används namnet på deras associerade CRM-kontovyer.
+>De här stegen gäller endast för kontolistor. _I_ dynamiska kontolistor används namnet på deras associerade CRM-kontovyer.
 
 1. Välj det konto du vill byta namn på, klicka på listrutan **Kontoliståtgärder** och välj **Byt namn på kontolista**.
 
@@ -91,10 +91,6 @@ Förutom kontolistor kan du även skapa dynamiska kontolistor som genereras frå
 
 >[!MORELIKETHIS]
 >
->* [Lägg till ett befintligt namngivet konto i en kontolista](named-accounts/add-an-existing-named-account-to-an-account-list.md)
->* [Kontolisteinsikter](../../../product-docs/account-based-marketing/measure/account-list-insights.md)
-
->
-
-
+>* [Lägg till ett befintligt namngivet konto i en kontolista](/help/marketo/product-docs/account-based-marketing/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+>* [Kontolisteinsikter](/help/marketo/product-docs/account-based-marketing/measure/account-list-insights.md)
 
