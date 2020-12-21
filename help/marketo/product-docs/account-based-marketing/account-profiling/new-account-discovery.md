@@ -3,9 +3,9 @@ unique-page-id: 37355609
 description: Ny kontoidentifiering - Marketo Docs - Produktdokumentation
 title: Ny kontoidentifiering
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Ny kontoidentifiering kan hjälpa dig att hitta nya konton att rikta in dig på 
 
 >[!PREREQUISITES]
 >
->[Ställ in kontoprofilering](http://docs.marketo.com/x/FgAKAQ)
+>[Ställ in kontoprofilering](/help/marketo/product-docs/account-based-marketing/account-profiling/setting-up-account-profiling.md)
 
 >[!TIP]
 >
@@ -73,5 +73,4 @@ Ny kontoidentifiering kan hjälpa dig att hitta nya konton att rikta in dig på 
 
    >[!TIP]
    >
-   >När dina konton har sparats kan du använda en [matchad målgrupp på LinkedIn](http://docs.marketo.com/x/rYGZAQ) för att ange dem som mål.
-
+   >När dina konton har sparats kan du använda en [matchad målgrupp på LinkedIn](/help/marketo/product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md) för att ange dem som mål.
