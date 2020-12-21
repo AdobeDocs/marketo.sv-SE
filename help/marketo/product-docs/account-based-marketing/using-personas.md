@@ -3,7 +3,7 @@ unique-page-id: 17727818
 description: Using Personas - Marketo Docs - Product Documentation
 title: Använda persona
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -70,4 +70,3 @@ Visa dina personuppgifter genom att besöka ett specifikt namngivet konto.
 1. Använd personliga filter i en smart lista för att marknadsföra till en viss grupp av människor.
 
 ![](assets/one-b.png)
-
