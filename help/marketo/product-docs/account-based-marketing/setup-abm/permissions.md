@@ -3,9 +3,9 @@ unique-page-id: 11380778
 description: Behörigheter - Marketo Docs - produktdokumentation
 title: Behörigheter
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Du måste konfigurera behörigheter för dina användare för att kunna använda
 
    ![](assets/four-1.png)
 
-1. Om du vill välja *alla* behörigheter markerar du kryssrutan **Access Account Based Marketing**.
+1. Om du vill välja _alla_ behörigheter markerar du kryssrutan **Access Account Based Marketing**.
 
    ![](assets/five-1.png)
 
@@ -45,8 +45,8 @@ Du måste konfigurera behörigheter för dina användare för att kunna använda
 
 1. Klicka på **+** för att öppna menyn Åtkomstadministratör. Markera kryssrutan **Åtkomst till ABM Admin**.
 
-   ![](assets/six-1.png)\
-   Din nya ABM-roll är nu klar att [tilldelas till en användare](http://docs.marketo.com/display/public/DOCS/Managing+User+Roles+and+Permissions#ManagingUserRolesandPermissions-AssignRolestoaUser)!
+   ![](assets/six-1.png)
+
+   Din nya ABM-roll är nu klar att [tilldelas till en användare](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user)!
 
    ![](assets/seven.png)
-
