@@ -3,9 +3,9 @@ unique-page-id: 11381917
 description: Kontobaserad marknadsöversikt - Marketo Docs - Produktdokumentation
 title: Kontobaserad marknadsföring - översikt
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -27,19 +27,19 @@ Marketo förenar ABM och lead-hantering i en och samma lösning, vilket gör det
 
 Marketo ABM består av tre komponenter:
 
-**1)  [Mål](http://docs.marketo.com/display/docs/target)**
+**1) Mål**
 
 * Kontoidentifiering
 * Matchning av lead-till-konto
 * Namngivna kontolistor
 
-**2)  [Engage](http://docs.marketo.com/display/docs/engage)**
+**2) Engagera**
 
 * Kontobaserad personalisering
 * Engagemang över flera kanaler
 * Kontospecifika arbetsflöden
 
-**3)  [Åtgärd](http://docs.marketo.com/display/docs/measure)**
+**3) Åtgärd**
 
 * Insikter på konto- och listnivå
 * Resultat för kontoengagemang
@@ -47,18 +47,18 @@ Marketo ABM består av tre komponenter:
 
 Marketo Account Based Marketing erbjuder också olika verktyg för att personalisera upplevelsen av namngivna konton över olika kanaler.
 
-* E-post- och landningssida [Personalisering](http://docs.marketo.com/display/DOCS/Personalization)
-* Webb [Personalisering](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)
-* URL [Personalisering](http://docs.marketo.com/display/DOCS/Enable+Personalized+URLs+for+Your+Account)
-* Lägg till [personalisering](http://docs.marketo.com/display/DOCS/Create+a+Custom+Audience+in+Facebook)
-* [](http://docs.marketo.com/display/DOCS/Website+Retargeting) PersonalizedRemarketing
+* Anpassning av e-post och landningssida
+* Webbanpassning
+* URL [Personalisering](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+* Lägg till [personalisering](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+* [](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) PersonalizedRemarketing
 
 Jag är inne! Hur kommer jag igång?
 
-Vi trodde aldrig att du skulle fråga! ABM finns som tillägg till din Marketto-prenumeration, så kontakta din säljare för att få det implementerat. När du har fått den kan du kolla in den här artikeln: [Komma igång med ABM](getting-started-with-abm.md).
+Vi trodde aldrig att du skulle fråga! ABM finns som tillägg till din Marketto-prenumeration, så kontakta din säljare för att få det implementerat. När du har fått den kan du kolla in den här artikeln: [Komma igång med ABM](/help/marketo/product-docs/account-based-marketing/setup-abm/getting-started-with-abm.md).
 
 >[!NOTE]
 >
->Namngivna konton som hanteras i Marketo ABM kan nås direkt från Web ABM för webbpersonalisering. Läs mer [här](http://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM).
+>Namngivna konton som hanteras i Marketo ABM kan nås direkt från Web ABM för webbpersonalisering. Läs mer [här](/help/marketo/product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-abm.md).
 
 Välkommen till Marketo ABM, och se riktad marknadsföring!
