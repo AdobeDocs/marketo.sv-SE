@@ -3,9 +3,9 @@ unique-page-id: 12979282
 description: Översikt över plugin-programmet Account Insight - Marketo Docs - Produktdokumentation
 title: Översikt över plugin-programmet Account Insight
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,13 @@ ht-degree: 0%
 
 Account Insight är en Chrome-plugin som ger er åtgärdbara ABM-resurser och kontoinsikter till era säljteam, vilket gör att de kan skapa mer effektiva konton.
 
->[!NOTE]
->
->**Tillgänglighet**
+>[!AVAILABILITY]
 >
 >Account Insight ingår för alla kunder som har både ABM och Marketo Sales Insight. För kunder som bara har ABM är Account Insight tillgängligt som ett köpt tillägg. Varje kund är begränsad till 250 licenser för kontoinsikt. Kontakta din säljare för mer information. Det är inte tillgängligt för kunder som inte har ABM.
 
 >[!CAUTION]
 >
->Plugin-programmet Account Insight fungerar inte i prenumerationer där [SSO-only](http://docs.marketo.com/display/DOCS/Restrict+User+Login+to+SSO+Only) (enkel inloggning) är aktiverat.
+>Plugin-programmet Account Insight fungerar inte i prenumerationer där [SSO-only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (enkel inloggning) är aktiverat.
 >
 >CRM-kontext fungerar för Salesforce när plugin-programmet startas från ett konto, en lead eller en kontakt. CRM-kontext fungerar inte för Dynamics när plugin-programmet startas från ett konto, en lead eller en kontakt. För Dynamics-användare rekommenderar vi att du använder plugin-programmet Account Insight.
 
@@ -71,7 +69,8 @@ Aktivitetsflödet visar senaste aktivitet och går tillbaka sju dagar.
 
 ![](assets/af1.png)
 
-Klicka på listrutan **Filter** om du vill filtrera efter olika aktivitetstyper.\
+Klicka på listrutan **Filter** om du vill filtrera efter olika aktivitetstyper.
+
 ![](assets/af2.png)
 
 Det går att klicka på flera objekt. Klicka på det namngivna kontot för att se information om det. Klicka på användarens namn för att se deras aktivitet. Klicka på Fler aktiviteter för att se fler aktiviteter.
@@ -82,9 +81,4 @@ Snygga grejer!
 
 >[!MORELIKETHIS]
 >
->* [Ställ in kontoinsikter](set-up-account-insight.md)
-
->
-
-
-
+>[Ställ in kontoinsikter](/help/marketo/product-docs/account-based-marketing/setup-abm/set-up-account-insight.md)
