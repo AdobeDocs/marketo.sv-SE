@@ -3,9 +3,9 @@ unique-page-id: 11380789
 description: Dimension för namngivet konto i RCA - Marketo Docs - Produktdokumentation
 title: Dimension för namngivet konto i RCA
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Skapa intäktsbaserade rapporter med hjälp av den ABM-specifika dimensionen Nam
 
 >[!NOTE]
 >
->**Definition**
->
->**Dimensioner **- attribut (anges med gula punkter) som ger olika syn på måtten.
+>**Dimensioner** - attribut (representeras av gula punkter) som ger olika åsikter om måtten.
 
 ![](assets/one-2.png)
 
@@ -35,8 +33,6 @@ Följande rapporter har åtkomst till dimensionen Namngivet konto:
 * Analys av programmedlemskap
 
 >[!NOTE]
->
->**Exempel**
 >
 >Nedan finns några exempel på Marketo ABM i Revenue Cycle Analytics.
 
@@ -55,12 +51,3 @@ Programmets effektivitet och påverkan på slutresultatet
 Täckning av leads och engagemang inom namngivna konton
 
 ![](assets/five-2.png)
-
->[!MORELIKETHIS]
->
->* [Analys av intäktscykler](http://docs.marketo.com/display/docs/revenue+cycle+analytics)
-
->
-
-
-
