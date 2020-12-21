@@ -3,9 +3,9 @@ unique-page-id: 13795510
 description: ABM Hierarchies - Marketo Docs - Produktdokumentation
 title: ABM Hierarkier
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,6 @@ Använda hierarki
 >
 >Marketo-gränssnittet visar endast upp till 10 nivåer nedåt (det överordnade kontots underordnade och indirekt underordnade konton), men det finns ingen gräns för hur många underordnade konton du kan skapa.
 
-Rikta in och rapportera hela hierarkier med [ett klick](http://docs.marketo.com/display/DOCS/Account+Filters#AccountFilters-MemberofNamedAccount).
+Rikta in och rapportera hela hierarkier med [ett klick](/help/marketo/product-docs/account-based-marketing/engage/account-filters.md#member-of-named-account).
 
 ![](assets/member.png)
-
