@@ -3,9 +3,9 @@ unique-page-id: 11380774
 description: Kontopoäng - Marketo Docs - Produktdokumentation
 title: Kontopoäng
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
@@ -32,9 +32,7 @@ I B2B-inköpsprocessernas komplexa värld är det sällan en enskild person fatt
 
 >[!NOTE]
 >
->**Förklaring**
->
->Om du vill beräkna kontopoäng måste du först skapa poängpoäng. Marketo ABM samlar automatiskt in poängpoäng från leads till resultaträkningar. Vi tar till exempel två av de ovanstående exemplen (*Konto **Produkträntepoäng* och *Kontowebbengagemang*).
+>Om du vill beräkna kontopoäng måste du först skapa poängpoäng. Marketo ABM samlar automatiskt in poängpoäng från leads till resultaträkningar. Vi tar till exempel två av de ovanstående exemplen (_Intressepoäng för kontoprodukt_ och _Resultat för webbengagemang_).
 >
 >Skapa först fält för lead-poäng som hämtar relevant information från varje lead i ett målkonto.\
 >Tilldela sedan dessa lead scores till respektive kontopoäng:\
@@ -61,17 +59,16 @@ När du har konfigurerat lead-poängen fortsätter du genom att följa stegen ne
 
    >[!NOTE]
    >
-   >Du kan välja upp till **fem **fält för att beräkna kontouppsättningen.
+   >Du kan välja upp till **fem** fält för att beräkna kontouppsättningen.
 
 1. Ange namnet på kontouppsättningen, klicka på listrutan **Välj personpoäng** och välj motsvarande poäng.
 
    ![](assets/four.png)
 
-1. Klicka på **+Lägg till **för att lägga till fler bakgrundsmusik.
+1. Klicka på **+Lägg till** om du vill lägga till fler bakgrundsmusik.
 
    ![](assets/five.png)
 
 1. Lägg till alla önskade bakgrundsmusik. Klicka på **Spara** när du är klar.
 
    ![](assets/six.png)
-
