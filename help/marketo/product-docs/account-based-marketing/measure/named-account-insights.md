@@ -3,9 +3,9 @@ unique-page-id: 11380785
 description: Insikter om namngivna konton - Marketo Docs - Produktdokumentation
 title: Insikter om namngivna konton
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ På instrumentpanelen Namngivet konto visas ett målkonto i 360 grader.
 
 ## Kontrollpanel {#dashboard}
 
-Instrumentpanelen samlar viktiga insikter på kontonivå från alla personer på ett namngivet konto och undviker därmed behovet av att gå till varje person för att utvärdera deras framsteg. Du kan fördjupa dig i e-postaktiviteten med [e-postinsikter](http://docs.marketo.com/display/DOCS/Filtering+in+Email+Insights#FilteringinEmailInsights-AccountBasedMarketing).
+Instrumentpanelen samlar viktiga insikter på kontonivå från alla personer på ett namngivet konto och undviker därmed behovet av att gå till varje person för att utvärdera deras framsteg. Du kan fördjupa dig i e-postaktiviteten med [e-postinsikter](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
 
 >[!NOTE]
 >
@@ -52,13 +52,13 @@ Instrumentpanelen samlar viktiga insikter på kontonivå från alla personer på
 
 **Intressanta ögonblick**
 
-Tillgängligt för användare av [Marketo Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight), se de intressanta stunderna på kontonivå.
+Tillgängligt för användare av Marketo Sales Insight. Se intressanta ögonblick på kontonivå.
 
 ![](assets/int-mom.png)
 
 **De vanligaste personerna**
 
-Dessa personer beräknas baserat på prioriteringar som baseras på senaste eller brådskande händelser som visas av personer med namngivna konton (samma som [Bästa val](http://docs.marketo.com/display/DOCS/Priority,+Urgency,+Relative+Score,+and+Best+Bets) i Sales Insight), eller resultat som definieras av användaren. **Prioritet** är endast tillgängligt för användare av Marketo Sales Insight.
+Dessa personer beräknas baserat på prioriteringar som baseras på senaste eller brådskande händelser som visas av personer med namngivna konton (samma som [Bästa val](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) i Sales Insight), eller resultat som definieras av användaren. **Prioritet** är endast tillgängligt för användare av Marketo Sales Insight.
 
 ![](assets/top-ten.png)
 
@@ -112,7 +112,6 @@ Visa teammedlemmar, lägg till/ta bort medlemmar, och tilldela även en kontoäg
 
 ## ICP-indikatorer {#icp-indicators}
 
-Visa de ICP-indikatorer som du valde att exportera när du [justerade modellen](http://docs.marketo.com/display/DOCS/Account+AI+Overview#AccountAIOverview-ModelTuning).
+Visa de ICP-indikatorer som du valde att exportera när du [justerade modellen](/help/marketo/product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
 
 ![](assets/eight.png)
-
