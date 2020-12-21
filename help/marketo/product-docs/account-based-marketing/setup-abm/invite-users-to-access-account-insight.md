@@ -3,7 +3,7 @@ unique-page-id: 12980105
 description: Bjud in användare att få tillgång till kontoinsikter - Marketo Docs - produktdokumentation
 title: Bjud in användare att få åtkomst till kontoinsikter
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -52,4 +52,3 @@ Följ de här stegen för att ge användarna åtkomst till Account Insight.
 1. Kontrollera skicka-meddelandet, gör eventuella ändringar (valfritt) och klicka på **Skicka**.
 
    ![](assets/seven-2.png)
-
