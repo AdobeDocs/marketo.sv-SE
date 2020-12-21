@@ -3,7 +3,7 @@ unique-page-id: 11381156
 description: Lead till kontomatchning - Marketo Docs - Produktdokumentation
 title: Lead till kontomatchning
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Marketo Lead-to-Account Matching följer en process i fyra steg:
 
 * E-postdomän (t.ex. acme.com)
 * Infört företagsnamn från IP-adress
-* Företagsnamn - Detta kan vara CRM-kontonamn eller huvudföretagsnamnsattribut, t.ex. från formulärifyllnad
+* Företagsnamn - Detta kan vara CRM-kontonamn eller huvudföretagets namnattribut (t.ex. kommer från formulärifyllning)
 
 **Steg 2 -** Vi normaliserar företagsnamnen som vi hittar baserat på olika ledattribut (t.ex. Acme Inc. och Acme Corp normaliseras automatiskt till Acme). Detta steg säkerställer att vi har en enda representation av det namngivna kontot i Marketo och kan se alla leads i ett namngivet konto.
 
@@ -33,7 +33,7 @@ Marketo Lead-to-Account Matching följer en process i fyra steg:
 
 * Svag matchade leads visas på de namngivna kontona och kan sedan lösas manuellt.
 
-**Steg 4 -** Vi presenterar en lista över föreslagna företag med starka och svaga träffar. När ett namngivet konto skapas baserat på ett av de föreslagna företagen, skapar vi matchningsregler som automatiskt kopplar nya leads (t.ex. lead som fylls i ett formulär) till höger namngivna konton. På det här sättet kan du oroa dig mindre för att matcha leads och mer för att få intäkter!
+**Steg 4 -** Vi presenterar en lista över föreslagna företag med starka och svaga träffar. När ett namngivet konto skapas baserat på ett av de föreslagna företagen skapar vi matchningsregler som automatiskt kopplar nya leads (t.ex. lead fill out a form) till höger namngivna konton. På det här sättet kan du oroa dig mindre för att matcha leads och mer för att få intäkter!
 
 Eftersom Marketo lead-to-Account-matchning är en inbyggd funktion i Marketo Account Based Marketing sker matchning av leads till konton i nära realtid (t.ex. så fort ett lead fyller i ett Marketo-formulär, associerar vi detta lead med rätt namngivet konto). Den här händelsen kan användas för att utlösa varningar och meddela kontoägare om nya leads som kommer från deras namngivna konton.
 
@@ -43,5 +43,4 @@ Eftersom Marketo lead-to-Account-matchning är en inbyggd funktion i Marketo Acc
 
 >[!MORELIKETHIS]
 >
->* [Identifiera konton](/help/marketo/product-docs/account-based-marketing/target/named-accounts/discover-accounts.md)
-
+>[Identifiera konton](/help/marketo/product-docs/account-based-marketing/target/named-accounts/discover-accounts.md)
