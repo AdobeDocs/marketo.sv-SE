@@ -3,9 +3,9 @@ unique-page-id: 11378812
 description: Upptäck konton - Marketo Docs - produktdokumentation
 title: Identifiera konton
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '585'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,11 @@ Identifiera potentiella målkonton från CRM.
 >
 >När du har anslutit CRM till Marketo ABM visar **Identifiera CRM-konton** alla CRM-konton och relevant information som hjälper dig att välja rätt namngivna konton. Marketo lägger till ytterligare information utöver vad som tas emot från CRM.
 
-**Personer**  (i Identifiera CRM-konton och Identifiera Marketo-företag): Innehåller både kontakter och leads. Leads kan identifieras med Marketos [lead-to-account matching](http://docs.marketo.com/display/DOCS/Lead+to+Account+Matching). **Potentiella personer**  (i Discover CRM Accounts &amp; Discover Marketo Companies): Visar hur många leads Marketo som kan tillhöra ett CRM-konto.
+**Personer**  (i Identifiera CRM-konton och Identifiera Marketo-företag): Innehåller både kontakter och leads. Leads kan identifieras med Marketos [lead-to-account matching](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md).
 
-**Anpassat CRM-fält**  (endast i Identifiera CRM-konton): Detta hjälper er att anpassa sälj- och marknadsföringsorganisationen för att välja rätt målkonton. När du har [mappat det anpassade CRM-fältet](http://docs.marketo.com/x/1wnG) med Marketo ABM visar vi mappade data som hjälper dig att identifiera målkontona.
+**Potentiella personer**  (i Discover CRM Accounts &amp; Discover Marketo Companies): Visar hur många leads Marketo som kan tillhöra ett CRM-konto.
+
+**Anpassat CRM-fält**  (endast i Identifiera CRM-konton): Detta hjälper er att anpassa sälj- och marknadsföringsorganisationen för att välja rätt målkonton. När du har [mappat det anpassade CRM-fältet](/help/marketo/product-docs/account-based-marketing/setup-abm/create-a-custom-field-for-crm-discovery.md) med Marketo ABM visar vi mappade data som hjälper dig att identifiera målkontona.
 
 1. I Namngivna konton klickar du på listrutan **Nytt** och väljer **Identifiera CRM-konton**.
 
@@ -63,17 +65,17 @@ Identifiera rätt företag för målinriktning.
    >
    >I Discover Marketo Companies och Discover CRM:
    >
-   > * Söker efter personer från din Marketo-databas som har det företaget angivet i sin post. Om du ser flera värden för vissa av attributen (t.ex. Bransch) beror det på att Marketo hittade olika värden för de enskilda personerna. Attributet med flest träffar
+   >* Söker efter personer från din Marketo-databas som har det företaget angivet i sin post. Om du ser flera värden för vissa attribut (t.ex. Bransch) beror det på att Marketo hittade olika värden för de enskilda personerna. Attributet med flest träffar
    >
    >I **Upptäck endast CRM**, Marketo automatiskt:
    >
-   > * Synkroniserar och associerar CRM-kontakter med det namngivna kontot
+   >* Synkroniserar och associerar CRM-kontakter med det namngivna kontot
    >
    >I **Discover Marketo Companies** är Marketo automatiskt:
    >
-   > * Filtrerar ut de flesta Internetleverantörer och offentliga domäner (t.ex. [Yahoo.com](https://yahoo.com), [Gmail.com](https://gmail.com)) som företagsnamn
+   >* Filtrerar ut de flesta Internetleverantörer och offentliga domäner (t.ex. yahoo.com, gmail.com) som företagsnamn
       >
-      > 
+      >
    * Tar bort CRM-konton. Om du har &quot;Acme&quot; i en post och &quot;Acme Inc&quot; (eller något av följande suffix: Co, Corp, Corporation, GmbH, Inc, Incorporated, LLC, LLP, LP, Ltd, PA, PC, PLC, PLLC), vi kommer att sammanfoga dem i ABM som&quot;Acme&quot;
    >
    >Om du vill att Marketo ska ta bort konton efter CRM-ID eller kontoägare i stället för efter företagsnamn kontaktar du [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
@@ -116,5 +118,4 @@ Identifiera rätt företag för målinriktning.
 
 >[!MORELIKETHIS]
 >
->* [Lead till kontomatchning](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)
-
+>[Lead till kontomatchning](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)
