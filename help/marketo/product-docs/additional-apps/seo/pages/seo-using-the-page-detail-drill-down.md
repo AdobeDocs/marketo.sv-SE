@@ -3,7 +3,7 @@ unique-page-id: 2949186
 description: SEO - Använda detaljgranskning - Marketo Docs - Produktdokumentation
 title: SEO - Använda detaljnivå för sidan nedåt
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Du kan se mycket information om dina sidor med detaljnivån nedåt.
 
 ## Nyckelord som sidan är optimerad för {#keyword-s-that-page-is-optimized-for}
 
-Här [väljer du vilket nyckelord du vill optimera sidan för](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
+Här [väljer du vilket nyckelord du vill optimera sidan för](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
 
 >[!NOTE]
 >
@@ -64,9 +64,4 @@ Ganska söt, eller hur? Läs mer om Sidor här.
 
 >[!MORELIKETHIS]
 >
->* [Optimera specifika sidor med målnyckelord](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
-
->
-
-
-
+>[Optimera specifika sidor med målnyckelord](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
