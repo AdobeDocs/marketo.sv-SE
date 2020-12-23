@@ -3,7 +3,7 @@ unique-page-id: 2949238
 description: SEO - Visa nyckelordsresultat i sökmotorn - Marketo Docs - Produktdokumentation
 title: SEO - Visa nyckelordsresultat i sökmotorn
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Om du vill se hur innehållet ser ut i en sökmotor har vi lagt till en liten ge
 1. Häftig! Nu bör du se sökresultaten för nyckelordet i ett nytt fönster.
 
    ![](assets/image2014-9-18-13-3a34-3a24.png)
-
