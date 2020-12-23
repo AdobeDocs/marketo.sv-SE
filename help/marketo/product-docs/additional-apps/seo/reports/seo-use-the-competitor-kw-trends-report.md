@@ -3,7 +3,7 @@ unique-page-id: 2949270
 description: SEO - Använd rapporten Konkurrent KW Trends Report - Marketo Docs - Produktdokumentation
 title: SEO - Använd KW-trendrapport för konkurrent
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -59,4 +59,3 @@ I det här diagrammet kan du se hur många procent av nyckelorden som har rankat
    ![](assets/image2014-9-18-14-3a9-3a49.png)
 
    A+-arbete!
-
