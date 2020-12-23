@@ -3,9 +3,9 @@ unique-page-id: 2949202
 description: SEO - Hämta föreslagna nyckelord - Marketo Docs - Produktdokumentation
 title: SEO - Hämta föreslagna nyckelord
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -21,19 +21,19 @@ Marketo SEO kan föreslå vilka nyckelord du ska spåra. Vi kan ge förslag base
 
    ![](assets/image2014-9-18-10-3a51-3a41.png)
 
-1. Klicka på **GET-FÖRSLAG**.
+1. Klicka på **Hämta förslag**.
 
    ![](assets/image2014-9-18-10-3a52-3a42.png)
 
-1. Ange ett **nyckelord**. Klicka på **FÖRESLÅ NYCKELORD**.
+1. Ange ett **nyckelord**. Klicka på **Föreslå nyckelord**.
 
    ![](assets/image2014-9-18-10-3a53-3a14.png)
 
    >[!TIP]
    >
-   >Visste du att du kan [lägga till nyckelordet i en ny eller befintlig lista](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) här?
+   >Visste du att du kan [lägga till nyckelordet i en ny eller befintlig lista](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) här?
 
-1. Välj föreslagna nyckelord. Klicka på **LÄGG TILL MARKERAD**.
+1. Välj föreslagna nyckelord. Klicka på **Lägg till markerad**.
 
    ![](assets/image2014-9-18-10-3a54-3a12.png)
 
@@ -49,7 +49,7 @@ Marketo SEO kan föreslå vilka nyckelord du ska spåra. Vi kan ge förslag base
 
    ![](assets/image2014-9-18-10-3a54-3a26.png)
 
-1. Klicka på **GET-FÖRSLAG**.
+1. Klicka på **Hämta förslag**.
 
    ![](assets/image2014-9-18-11-3a4-3a43.png)
 
@@ -57,15 +57,15 @@ Marketo SEO kan föreslå vilka nyckelord du ska spåra. Vi kan ge förslag base
 
    ![](assets/image2014-9-18-11-3a4-3a52.png)
 
-1. Ange en **URL** och klicka på **FÖRESLÅ NYCKELORD**.
+1. Ange en **URL** och klicka på **Föreslå nyckelord**.
 
    ![](assets/image2014-9-18-11-3a5-3a7.png)
 
    >[!TIP]
    >
-   >Visste du att du kan [lägga till nyckelordet i en ny eller befintlig lista](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) här?
+   >Visste du att du kan [lägga till nyckelordet i en ny eller befintlig lista](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) här?
 
-1. Välj föreslagna nyckelord. Klicka på **LÄGG TILL MARKERAD**.
+1. Välj föreslagna nyckelord. Klicka på **Lägg till markerad**.
 
    ![](assets/image2014-9-18-11-3a8-3a3.png)
 
@@ -75,13 +75,8 @@ Marketo SEO kan föreslå vilka nyckelord du ska spåra. Vi kan ge förslag base
 
    Okej, du skjuter i den här saken. Fortsätt!
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
-   >
-   >    
-   >    
-   >    * [Förstå nyckelord (sammanfattningsvy)](seo-understanding-keywords.md)
-   >    * [Lägg till/ta bort nyckelord från en lista](seo-add-remove-keywords-from-a-list.md)
-
+   >* [Förstå nyckelord (sammanfattningsvy)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >* [Lägg till/ta bort nyckelord från en lista](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
 
