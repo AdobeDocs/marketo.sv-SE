@@ -3,9 +3,9 @@ unique-page-id: 2949194
 description: SEO - Lägg till en webbplats/ta bort en webbplats - Marketo Docs - Produktdokumentation
 title: SEO - Lägg till en plats/ta bort en plats
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 För att Marketo ska kunna hämta data (inkommande länkar och rekommendationer) som är relevanta för webbplatsens sidor måste du definiera webbplatsens URL här.
 
->[!NOTE]
->
->**Tillgänglighet**
+>[!AVAILABILITY]
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
@@ -39,7 +37,7 @@ För att Marketo ska kunna hämta data (inkommande länkar och rekommendationer)
 
    >[!TIP]
    >
-   >Du kan också lägga till en** ****blogg-URL** om du har en.
+   >Du kan också lägga till en **blogg-URL** om du har en.
 
    ![](assets/image2014-9-17-21-3a19-3a51.png)
 
@@ -62,10 +60,11 @@ Om du spårar mer än en plats kan du även ta bort en plats som du inte längre
 1. Klicka på **Ta bort**.
 
    ![](assets/seven.png)
-Bekräfta att du vill ta bort.
+
+1. Bekräfta att du vill **ta bort**.
+
    ![](assets/image2014-9-17-21-3a21-3a22.png)
 
    >[!NOTE]
    >
-   >Du kan bara ta bort en plats om du har fler än en. Om du bara har en kan du utföra en återställning genom att markera platsen och klicka på **Återställ**. Om du återställer en plats kommer *alla webbplatsdata* att tas bort och platsen återskapas.
-
+   >Du kan bara ta bort en plats om du har fler än en. Om du bara har en kan du utföra en återställning genom att markera platsen och klicka på **Återställ**. Om du återställer en plats kommer _alla webbplatsdata_ att tas bort och platsen återskapas.
