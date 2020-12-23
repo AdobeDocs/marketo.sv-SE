@@ -3,9 +3,9 @@ unique-page-id: 2949190
 description: SEO - Välj region/land för sökmotorn - Marketo Docs - Produktdokumentation
 title: SEO - Välj region/land för sökmotorn
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ SEO-administratörer kan välja region för sökmotorn som du vill få informati
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till avsnittet Admin.
+1. Gå till avsnittet **Admin**.
 
 ![](assets/image2014-9-17-21-3a6-3a43.png)
 
-1. Klicka på fliken Sökmotorer.
+1. Klicka på fliken **Sökmotorer**.
 
    ![](assets/image2014-9-17-21-3a7-3a25.png)
 
-1. Välj land/stad att optimera för och klicka på SPARA.
+1. Välj det land/den ort som du vill optimera för och klicka på **Spara**.
 
 >[!NOTE]
 >
@@ -41,10 +41,6 @@ Utmärkt arbete. Nu visas nyckelordsrankningar för det land eller den stad som 
 
 >[!MORELIKETHIS]
 >
->* [Om kontrollpanelen: SEO-fixering](understanding-the-seo-dashboard-seo-snapshot.md)
->* [Om kontrollpanelen: SEO Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)
-
->
-
-
+>* [Om kontrollpanelen: SEO-fixering](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
+>* [Om kontrollpanelen: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
 
