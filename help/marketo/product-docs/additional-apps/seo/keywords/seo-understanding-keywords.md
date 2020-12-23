@@ -3,7 +3,7 @@ unique-page-id: 2949182
 description: SEO - Förstå nyckelord - Marketo Docs - Produktdokumentation
 title: SEO - Förstå nyckelord
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Nyckelord är ryggraden i er SEO-strategi. Målet är att vara på första sidan, så nära första sidan som möjligt för nyckelord som är relevanta för ditt företag.
 
-Nyckelordsavsnittet visar hur framgångsrik sajten är när det gäller att uppnå detta och hur du ställer dig upp till [din tävling.](../../../../product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
+Nyckelordsavsnittet visar hur framgångsrik sajten är när det gäller att uppnå detta och hur du ställer upp på [din tävling](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
 
 ## Nyckelord - sammanfattningsvy {#keywords-summary-view}
 
@@ -62,10 +62,6 @@ Bra! Nu när du förstår avsnittet med nyckelord kan vi lära oss mer om sidor 
 
 >[!MORELIKETHIS]
 >
->* [Förstå sidor](../../../../product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
->* [Förstå inkommande länkar](../../../../product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
-
->
-
-
+>* [Förstå sidor](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
+>* [Förstå inkommande länkar](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
 
