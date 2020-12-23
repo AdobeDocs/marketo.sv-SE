@@ -3,9 +3,9 @@ unique-page-id: 2949208
 description: SEO - Filtrera nyckelordsresultat - Marketo Docs - Produktdokumentation
 title: SEO - filtrera nyckelordsresultat
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO - Filtrera nyckelordsresultat {#seo-filter-keyword-results}
 
-Du kan ha många [nyckelord](seo-understanding-keywords.md). Här är olika sätt att filtrera dem:
+Du kan ha många [nyckelord](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md). Här är olika sätt att filtrera dem:
 
 ## Filtrera efter lista {#filter-by-list}
 
@@ -27,7 +27,7 @@ Du kan ha många [nyckelord](seo-understanding-keywords.md). Här är olika sät
 
    >[!NOTE]
    >
-   >Om du inte ser några listor kan du [l](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) [lära dig hur du gör en nyckelordslista](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md).
+   >Om du inte ser några listor kan du [lära dig hur du gör en nyckelordslista](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md).
 
 Söt! Du kommer nu endast att titta på nyckelord i den listan.
 
@@ -37,7 +37,7 @@ Söt! Du kommer nu endast att titta på nyckelord i den listan.
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
-   De orange fyrkanterna definierar de övre (vänster) och nedre (höger) gränserna. Filtret fungerar på nyckelordets [SERP-rankning](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
+   De orange fyrkanterna definierar de övre (vänster) och nedre (höger) gränserna. Filtret fungerar på nyckelordets [SERP-rankning](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
 
 1. Dra de orange fyrkanterna åt vänster/höger för att filtrera resultaten.
 
@@ -54,6 +54,3 @@ Du kan också hitta de nyckelord du söker efter med hjälp av sökfältet i det
 1. Ange ditt nyckelord i sökfältet.
 
    ![](assets/image2014-9-18-12-3a1-3a7.png)
-
-   Grattis! Du är nu en krigare inom nyckelordsfiltrering!
-
