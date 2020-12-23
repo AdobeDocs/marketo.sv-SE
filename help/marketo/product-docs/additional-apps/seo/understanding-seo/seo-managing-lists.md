@@ -3,7 +3,7 @@ unique-page-id: 2949232
 description: SEO - Hantera listor - Marketo Docs - Produktdokumentation
 title: SEO - Hantera listor
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Du kan lägga till saker i listor när du lägger till nyckelord, sidor, sidproblem eller inkommande länkar. Listor hjälper dig att hålla ordning och låta dig filtrera rapporter så att du bara kan se data i den listan. Gör så här:
 
-1. Klicka på **LÄGG TILL NYCKELORD**.
+1. Klicka på **Lägg till nyckelord**.
 
    >[!NOTE]
    >
@@ -29,11 +29,10 @@ Du kan lägga till saker i listor när du lägger till nyckelord, sidor, sidprob
 
    >[!TIP]
    >
-   >Du kan skapa en ny lista i listrutan. Ange en titel och tryck på returtangenten.  ![—](assets/image2014-9-18-13-3a25-3a8.png)   >
+   >Du kan skapa en ny lista i listrutan. Ange en titel och tryck på returtangenten.
 
-1. Klicka på **SPARA**.
+1. Klicka på **Spara**.
 
    ![](assets/image2014-9-18-13-3a25-3a36.png)
 
    Ordna smidigt!
-
