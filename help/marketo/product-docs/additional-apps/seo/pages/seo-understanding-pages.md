@@ -3,9 +3,9 @@ unique-page-id: 2949184
 description: SEO - Förstå sidor - Marketo Docs - Produktdokumentation
 title: SEO - Förstå sidor
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 Poängen Sidoptimering är en allmän rankning av hur bra sidan är optimerad för sökning, på en skala från 1 till 100. Det bygger på dussintals bästa metoder inom SEO.
 
-* ~ 00 - 35 = Inte väl optimerad
-* ~ 35 - 70 = På höger spår
-* ~ 70 - 100 = Gör bra!
+* 0 - 35 = Inte väl optimerad
+* 35 - 70 = På höger spår
+* 70 - 100 = Gör bra!
 
 >[!TIP]
 >
@@ -38,7 +38,7 @@ På fliken Sidor visas hur väl enskilda sidor på webbplatsen är optimerade f�
 | Titel | Titel och URL för alla sidor på din domän. Verifiera din domän. |
 | Optimeringsresultat | Den hemliga sås som används för att visa hur bra sidan är optimerad för sökning på en skala från 1 till 100. |
 | Länkar | Antal olika domäner med minst 1 inkommande länk till din plats. |
-| Målnyckelord | De nyckelord som du väljer att optimera varje sida för. [Detta kräver dina indata](seo-using-the-page-detail-drill-down.md). |
+| Målnyckelord | De nyckelord som du väljer att optimera varje sida för. [Detta kräver dina indata](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
 
 ## Fliken Problem {#issues-tab}
 
@@ -53,7 +53,4 @@ Fliken Problem identifierar vilka förbättringar du kan göra för att öka po�
 | Kategori | Typ av problem som rapporteras. |
 | Status | Är uppgiften slutförd eller fortfarande öppen? När du och din webbmaster har åtgärdat problemet på din webbplats bör statusen ändras till löst (grön kontroll). |
 
-Häftig, nu när du vet grunderna för sidorna kan du läsa artikeln Page Detail Dell Down för att lära dig mer coola saker du kan göra.
-
-* [Använda detaljnivån för sidan nedåt](seo-using-the-page-detail-drill-down.md)
-
+Nu när du känner till grunderna för sidor kan du läsa [artikeln om detaljinformation](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) om du vill veta mer om coola saker du kan göra.
