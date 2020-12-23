@@ -3,9 +3,9 @@ unique-page-id: 2949251
 description: SEO - Lägg till/ta bort en URL för inkommande länk från en lista - Marketo Docs - Produktdokumentation
 title: SEO - Lägg till/ta bort en URL för inkommande länk från en lista
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Du kan ordna dina URL:er för inkommande länkar till ditt hjärtas innehåll.
 
    ![](assets/image2014-11-20-18-3a27-3a27.png)
 
-1. Håll muspekaren över den URL för inkommande länk som du vill kategorisera. Klicka på Lägg till/ta bort från listan.
+1. Håll muspekaren över den URL för inkommande länk som du vill kategorisera. Klicka på **Lägg till/ta bort från lista**.
 
    ![](assets/image2014-11-20-18-3a27-3a40.png)
 
@@ -35,15 +35,17 @@ Du kan ordna dina URL:er för inkommande länkar till ditt hjärtas innehåll.
 
 ## Ta bort en URL för inkommande länk från en lista {#remove-an-inbound-link-url-from-a-list}
 
-1. Ibland kanske du vill ta bort en URL för inkommande länkar från en lista.
+Ibland kanske du vill ta bort en URL för inkommande länkar från en lista.
+
+1. Klicka på **Inkommande länkar**.
 
    ![](assets/image2014-11-20-18-3a28-3a41.png)
 
-1. Klicka på Filtrera efter listruta. Klicka på listan som du vill rensa.
+1. Klicka på listrutan **Filtrera efter**. Klicka på listan som du vill rensa.
 
    ![](assets/image2014-11-20-18-3a28-3a57.png)
 
-1. Håll muspekaren över den URL för inkommande länk som du vill ta bort. Klicka på Lägg till/ta bort från listan.
+1. Håll muspekaren över den URL för inkommande länk som du vill ta bort. Klicka på **Lägg till/ta bort från lista**.
 
    ![](assets/image2014-11-20-18-3a29-3a56.png)
 
