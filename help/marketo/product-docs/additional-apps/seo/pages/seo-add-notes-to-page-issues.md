@@ -3,9 +3,9 @@ unique-page-id: 2949220
 description: SEO - Lägg till anteckningar till sidproblem - Marketo-dokument - Produktdokumentation
 title: SEO - Lägg till anteckningar till sidproblem
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ Visste du att du kan lägga till anteckningar i sidnummer som personliga påminn
 
    ![](assets/image2014-9-18-13-3a11-3a43.png)
 
-1. Klicka på Problem på fliken Sidor.
+1. Klicka på **Problem** på fliken Sidor.
 
    ![](assets/image2014-9-18-13-3a12-3a0.png)
 
-1. Håll muspekaren över det problem du vill kommentera. Klicka på LÄGG TILL ANTECKNING.
+1. Håll muspekaren över det problem du vill kommentera. Klicka på **Lägg till anteckning**.
 
    ![](assets/image2014-9-18-13-3a12-3a6.png)
 
@@ -35,7 +35,7 @@ Visste du att du kan lägga till anteckningar i sidnummer som personliga påminn
 
 >[!TIP]
 >
->Du kan ta bort anteckningen genom att klicka på det lilla krysset i det övre vänstra hörnet.
+>Du kan ta bort din anteckning genom att klicka på det lilla **x** i det övre vänstra hörnet.
 
 ## Lägg till anteckningar i detaljnivå {#add-notes-in-page-detail-drill-down}
 
@@ -47,15 +47,14 @@ Visste du att du kan lägga till anteckningar i sidnummer som personliga påminn
 
    ![](assets/image2014-9-18-13-3a13-3a42.png)
 
-1. Håll muspekaren över det sidproblem du vill lägga till en anteckning i och klicka på **LÄGG TILL NOTE**.
+1. Håll muspekaren över det sidproblem du vill lägga till en anteckning i och klicka på **Lägg till anteckning**.
 
    ![](assets/image2014-9-18-13-3a13-3a46.png)
 
-1. Skriv din anteckning. Klicka på **SPARA**.
+1. Skriv din anteckning. Klicka på **Spara**.
 
    ![](assets/image2014-9-18-13-3a14-3a5.png)
 
-   Groovy. Din anteckning har lagts till.
+   Din anteckning har lagts till!
 
    ![](assets/image2014-9-18-13-3a14-3a20.png)
-
