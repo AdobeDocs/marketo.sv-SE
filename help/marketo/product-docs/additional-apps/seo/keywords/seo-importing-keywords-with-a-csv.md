@@ -3,9 +3,9 @@ unique-page-id: 2949206
 description: SEO - Importera nyckelord med en CSV - Marketo Docs - Produktdokumentation
 title: SEO - Importera nyckelord med en CSV-fil
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,8 @@ ht-degree: 0%
 
 # SEO - Importera nyckelord med en CSV {#seo-importing-keywords-with-a-csv}
 
-1. Du kan [lägga till nyckelord](seo-add-keywords.md) manuellt, [hämta nyckelordsförslag](seo-get-suggested-keywords.md) och även importera nyckelord från en CSV-fil. Så här gör du importen.
+1. Du kan [lägga till nyckelord](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manuellt, [hämta nyckelordsförslag](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) och även importera nyckelord från en CSV-fil. Så här gör du importen.
+
 1. Gå till avsnittet **Nyckelord**.
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
@@ -34,7 +35,7 @@ ht-degree: 0%
    >
    >Importgränserna varierar beroende på din prenumeration. Kontakta din säljare om du vill ha mer information.
 
-1. Klicka på **IMPORTERA**.
+1. Klicka på **Importera**.
 
    ![](assets/image2014-9-18-11-3a45-3a25.png)
 
@@ -44,13 +45,8 @@ ht-degree: 0%
 
    Det kan ta några minuter att läsa in alla data som är associerade med varje nyckelord. Meditera om meningen med livet.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
-   >
-   >    
-   >    
-   >    * [Förstå nyckelord (sammanfattningsvy)](seo-understanding-keywords.md)
-   >    * [Lägg till/ta bort nyckelord från en lista](seo-add-remove-keywords-from-a-list.md)
-
+   >* [Förstå nyckelord (sammanfattningsvy)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >* [Lägg till/ta bort nyckelord från en lista](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
 
