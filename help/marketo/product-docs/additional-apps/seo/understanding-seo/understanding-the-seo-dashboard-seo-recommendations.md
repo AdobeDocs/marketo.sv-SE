@@ -3,7 +3,7 @@ unique-page-id: 2949180
 description: Förstå SEO Dashboard -SEO Recommendations - Marketo Docs - produktdokumentation
 title: Förstå SEO Dashboard -SEO Recommendations
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Du kan även läsa om hur du kan förbättra genom att använda Recommendations.
 
 ## Optimeringsproblem för den översta sidan {#top-page-optimization-issues}
 
-Detta visar fem effektiva sätt att börja optimera webbplatsen direkt! Klicka bara på någon av länkarna för att visa den fullständiga [detaljnivån ](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md).
+Detta visar fem effektiva sätt att börja optimera webbplatsen direkt! Klicka bara på någon av länkarna för att visa den fullständiga [detaljnivån ](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md).
 
 >[!TIP]
 >
@@ -43,5 +43,4 @@ Direkt! Gå djupare här.
 
 >[!MORELIKETHIS]
 >
->* [Detaljnivå för sida ned](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
-
+>[Detaljnivå för sida ned](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
