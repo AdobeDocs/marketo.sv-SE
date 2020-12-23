@@ -3,9 +3,9 @@ unique-page-id: 2949273
 description: SEO - Använd rapporten Nyckelordstrender - Marketo Docs - Produktdokumentation
 title: SEO - Använd rapporten om nyckelordstrender
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -62,10 +62,5 @@ I den här rapporten kan du se hur nyckelord rangordnas över tiden.
 
    >[!NOTE]
    >
-   >**Relaterade artiklar**
-   >
-   >    
-   >    
-   >    * [Using the Competitive KW Rank Trends Report](seo-use-the-competitor-kw-trends-report.md)
-
+   >[Using the Competitive KW Rank Trends Report](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
 
