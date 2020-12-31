@@ -108,27 +108,23 @@ Definiera allmänna parametrar för ditt segment:
 >1. Använd alla filter (1, 2 och 3...)
 >1. Använd filter (1 eller 2 eller 3..)
 >1. Avancerade filter (med och/eller uttryck)
-
-   >
-   >    
-   Med avancerade filter kan du styra segmentvillkoren. Ange filternumren avgränsade med &quot;och&quot; och &quot;eller&quot;.
-   >
-   >    
-   * 1, 2 och 3
-   >    * 1 eller 2 eller 3
-
-   >
-   Blandning av&quot;och&quot; och&quot;eller&quot; kräver parenteser för att förtydliga logiks avsikt. t.ex. &quot;1 eller 2 och 3&quot; skall skrivas som något av följande:
-
-   * 1 och (2 eller 3)
-   * (1 och 2) eller 3
-
-   Kapslade parenteser accepteras för mer komplicerad logik, t.ex.
-
-   * (1 och 2) eller (3 och 4)
-   * 1 och (2 eller (3 och 4))
-
-   Kontrollera logiken efter infogning, borttagning eller sortering.
+>
+>    Med avancerade filter kan du styra segmentvillkoren. Ange filternumren avgränsade med &quot;och&quot; och &quot;eller&quot;.
+>
+>    * 1, 2 och 3
+>    * 1 eller 2 eller 3
+>
+>    Blandning av&quot;och&quot; och&quot;eller&quot; kräver parenteser för att förtydliga logiks avsikt. t.ex. &quot;1 eller 2 och 3&quot; skall skrivas som något av följande:
+>
+>    * 1 och (2 eller 3)
+>    * (1 och 2) eller 3
+>
+>    Kapslade parenteser accepteras för mer komplicerad logik, t.ex.
+>
+>    * (1 och 2) eller (3 och 4)
+>    * 1 och (2 eller (3 och 4))
+>
+>    Kontrollera logiken efter infogning, borttagning eller sortering.
 
 
 
