@@ -3,7 +3,7 @@ unique-page-id: 4719093
 description: Webbsegment - Marketo Docs - produktdokumentation
 title: Webbsegment
 translation-type: tm+mt
-source-git-commit: 44e4fd230bb1e997700f6b31290d224899561f9a
+source-git-commit: e3f4eb27d30887ef53d6636a6bd2929bc8f43a88
 workflow-type: tm+mt
 source-wordcount: '2031'
 ht-degree: 0%
