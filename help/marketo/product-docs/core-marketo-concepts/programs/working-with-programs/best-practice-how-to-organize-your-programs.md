@@ -3,7 +3,7 @@ unique-page-id: 6848705
 description: Bästa praxis -Hur du organiserar program - Marketo Docs - Produktdokumentation
 title: Bästa praxis -Så här organiserar du dina program
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 9a1713920e8d755ca77838896cdc5094f23fed09
 workflow-type: tm+mt
 source-wordcount: '859'
 ht-degree: 0%
@@ -28,36 +28,28 @@ I marknadsföringsaktiviteter bör du använda mappar för att ordna dina progra
 >**Exempel**
 >
 >* Aktiva marknadsföringsprogram
->
->    * E-post
->    * Händelser
->
->        * Live Events/Roadshows
->        * Varumärken
->        * Webbinarier
->   * Nyhetsbrev
->   * Nätur
->   * Webbinnehåll
->   * Webbformulär
+   >   * E-post
+   >   * Händelser
+      >      * Live Events/Roadshows
+      >      * Varumärken
+      >      * Webbinarier
+   >   * Nyhetsbrev
+   >   * Nätur
+   >   * Webbinnehåll
+   >   * Webbformulär
 >* Utbildning
 >* Operativ
->
->   * Livscykel
->   * Poäng
->   * Datahantering
->* Sales Insight
->   * Intressanta ögonblick
->   * Försäljningsmejl
->   * Begärda försäljningskampanjer
+   >   * Livscykel
+   >   * Poäng
+   >   * Datahantering
+>* Försäljningsinsikter
+   >   * Intressanta ögonblick
+   >   * Försäljningsmejl
+   >   * Begärda försäljningskampanjer
 >* **Arkiv**
->   * Arkivera händelser
->      * Arkiv 2012
->      * Arkiv 2013
-
-
-
-
-
+   >   * Arkivera händelser
+      >      * Arkiv 2012
+      >      * Arkiv 2013
 
 
 Var och en av dessa nämns i exemplet är en mapp. Lägg märke till att de alla är unikt namngivna. Du kan ha duplicerade (enklare) namn på mappar INUTI-program, men inte i roten av trädet.
