@@ -3,7 +3,7 @@ unique-page-id: 4719093
 description: Webbsegment - Marketo Docs - produktdokumentation
 title: Webbsegment
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 44e4fd230bb1e997700f6b31290d224899561f9a
 workflow-type: tm+mt
 source-wordcount: '2031'
 ht-degree: 0%
@@ -90,16 +90,14 @@ Klicka på **Skapa ny** under diagrammet på sidan **Segment**. Följande skärm
 
 Definiera allmänna parametrar för ditt segment:
 
-1. &#x200B;
+* **Namn:**  Namnge ditt segment.
+* **Beskrivning:**  Ge en mer detaljerad förklaring av segmentvillkoren.
+* **Domäner:**  Markera den eller de domäner som du vill inkludera i segmentet.
+* **Segmentregellogik:**  Välj en AND/OR-logik för att skapa varje segmenteringsattribut
+* **Timing:** Definiera nivån på besökarengagemanget ni vill ha i kampanjen
 
-   * **Namn:**  Ge segmentet ett namn.
-   * **Beskrivning:**  Ge en mer detaljerad förklaring av segmentvillkoren.
-   * **Domäner:**  Markera den eller de domäner som du vill inkludera i segmentet.
-   * **Segmentregellogik:**  Välj en AND/OR-logik för att skapa varje segmenteringsattribut
-   * **Timing:** Definiera nivån på besökarens engagemang i kampanjen
-
-      * **Vid inträde**: Engagera från besökaren som kommer till webbplatsen
-      * **Efter 1:a till 9:e klickningen**: Engagera besökaren efter ett visst antal klick på webbplatsen
+   * **Vid inträde**: Engagera från besökaren som kommer till webbplatsen
+   * **Efter 1:a till 9:e klickningen**: Engagera besökaren efter ett visst antal klick på webbplatsen
 
 >[!TIP]
 >
@@ -110,21 +108,27 @@ Definiera allmänna parametrar för ditt segment:
 >1. Använd alla filter (1, 2 och 3...)
 >1. Använd filter (1 eller 2 eller 3..)
 >1. Avancerade filter (med och/eller uttryck)
->    1. &#x200B;
->
->       Med avancerade filter kan du styra segmentvillkoren. Ange filternumren avgränsade med &quot;och&quot; och &quot;eller&quot;.
->       * 1, 2 och 3
->       * 1 eller 2 eller 3
->
->       Blandning av&quot;och&quot; och&quot;eller&quot; kräver parenteser för att förtydliga logiks avsikt. t.ex. &quot;1 eller 2 och 3&quot; skall skrivas som något av följande:
->       * 1 och (2 eller 3)
->       * (1 och 2) eller 3
->
->       Kapslade parenteser accepteras för mer komplicerad logik, t.ex.
->       * (1 och 2) eller (3 och 4)
->       * 1 och (2 eller (3 och 4))
->
->       Kontrollera logiken efter infogning, borttagning eller sortering.
+
+   >
+   >    
+   Med avancerade filter kan du styra segmentvillkoren. Ange filternumren avgränsade med &quot;och&quot; och &quot;eller&quot;.
+   >
+   >    
+   * 1, 2 och 3
+   >    * 1 eller 2 eller 3
+
+   >
+   Blandning av&quot;och&quot; och&quot;eller&quot; kräver parenteser för att förtydliga logiks avsikt. t.ex. &quot;1 eller 2 och 3&quot; skall skrivas som något av följande:
+
+   * 1 och (2 eller 3)
+   * (1 och 2) eller 3
+
+   Kapslade parenteser accepteras för mer komplicerad logik, t.ex.
+
+   * (1 och 2) eller (3 och 4)
+   * 1 och (2 eller (3 och 4))
+
+   Kontrollera logiken efter infogning, borttagning eller sortering.
 
 
 
@@ -139,12 +143,12 @@ Dra och släpp segmentattribut från den högra kolumnen i segmentredigeraren ti
 
 **Plats**
 
-Dra och släpp **Location **i segmentredigeraren.
+Dra och släpp **Plats** i segmentredigeraren.
 
 * Välj bland följande parametrar:
 
-   * **Inkludera **- Välj om du vill att kampanjen ska inkludera eller exkludera en plats.
-   * **Välj land att lägga**   till - Välj det land du vill inkludera i segmentet i listrutan. Landsnamnet visas till höger. Du kan välja flera länder.
+   * **Inkludera**  - Välj om du vill att kampanjen ska inkludera eller exkludera en plats.
+   * **Välj land att lägga**  till - Välj det land du vill inkludera i segmentet i listrutan. Landsnamnet visas till höger. Du kan välja flera länder.
 
 När landet har lagts till kan du även ange segmentets stat, ort och postnummer.
 
@@ -154,7 +158,7 @@ När landet har lagts till kan du även ange segmentets stat, ort och postnummer
 
 >[!TIP]
 >
->**Vilka segmentvillkor väljer jag? &quot;AND&quot; eller&quot;OR&quot;? **OR fungerar som ett extra alternativ i varje fält. Prospekt behöver bara uppfylla ett av de kriterier som valts ut i varje fält för att vara kvalificerade för segmentet. (Prospekt kan till exempel antingen komma från USA. *eller* från försvarsindustrin). AND fungerar som en extra obligatorisk parameter som måste uppfyllas för det här segmentet. (Prospekten måste till exempel vara både från USA och försvarsindustrin). Inom varje segmenteringsprofil kan varje separat fält fungera som både och, antingen&quot;AND&quot; eller&quot;OR&quot; beroende på vilket segmentvillkor som valts.
+>**Vilka segmentvillkor väljer jag? &quot;AND&quot; eller&quot;OR&quot;?** Eller fungerar som ett extra alternativ i varje fält. Prospekt behöver bara uppfylla ett av de kriterier som valts ut i varje fält för att vara kvalificerade för segmentet. (Prospekt kan till exempel antingen komma från USA. *eller* från försvarsindustrin). AND fungerar som en extra obligatorisk parameter som måste uppfyllas för det här segmentet. (Prospekten måste till exempel vara både från USA och försvarsindustrin). Inom varje segmenteringsprofil kan varje separat fält fungera som både och, antingen&quot;AND&quot; eller&quot;OR&quot; beroende på vilket segmentvillkor som valts.
 
 **** BranscherMarkera kryssrutan intill  **Bransch**  under avsnittet  **Profilsegmentering**.
 
@@ -179,12 +183,10 @@ Markera kryssrutan bredvid **Organisationsgrupp under** Profilsegmentering **.**
 
 **Organisationer**
 
-* 
+* **Kommer från dessa företag (specifika namn)**
 
-   * **Kommer från dessa företag (specifika namn)**
-
-      * Välj företag att rikta in på i listrutan Välj företag att lägga till.
-      * Du kan ange det exakta organisationsnamn som du vill ha som mål. *Det är *alltid *vi rekommenderar att du använder namngivna kontolistor i stället för att skriva in namnen manuellt för att få bättre matchningar (se nedan).*
+   * Välj företag att rikta in på i listrutan Välj företag att lägga till.
+   * Du kan ange det exakta organisationsnamn som du vill ha som mål. *Det är *alltid *vi rekommenderar att du använder namngivna kontolistor i stället för att skriva in namnen manuellt för att få bättre matchningar (se nedan).*
 
 **Namngiven kontolista**
 
@@ -226,10 +228,8 @@ Du kan lägga till eller ta bort persondatafält från Kontoinställningar > Dat
 
 Definiera ditt segment utifrån en potentiell kunders status: känd eller anonym.
 
-* 
-
-   * Känd - Välj det här alternativet i listrutan för kända besökare. En besökare är känd när de skickar in ett formulär på din webbplats och visas på sidan Webbpersonalisering.
-   * Anonym - Välj det här alternativet i listrutan för anonyma besökare.
+* Känd - Välj det här alternativet i listrutan för kända besökare. En besökare är känd när de skickar in ett formulär på din webbplats och visas på sidan Webbpersonalisering.
+* Anonym - Välj det här alternativet i listrutan för anonyma besökare.
 
 ![](assets/image2015-5-27-17-3a23-3a2.png)
 
@@ -237,41 +237,29 @@ Definiera ditt segment utifrån en potentiell kunders status: känd eller anonym
 
 **Besök -** Definiera segmentet utifrån besökarens beteende eller identifiering.
 
-* 
+* Antal besök - Välj det här alternativet i listrutan för att ange antalet besök för potentiella kunder på webbplatsen.
 
-   * Antal besök - Välj det här alternativet i listrutan för att ange antalet besök för potentiella kunder på webbplatsen.
+   * Välj Lika med, Lika med eller Större än, eller Lika med eller Mindre än i listrutan.
 
-      * Välj Lika med, Lika med eller Större än, eller Lika med eller Mindre än i listrutan.
-   * Specifika besök - Välj det här alternativet i listrutan för att ange en specifik besökare.
+* Specifika besök - Välj det här alternativet i listrutan för att ange en specifik besökare.
 
-      * Ange det besökarnummer du vill spåra i textrutan till höger. Det unika besökaridentifieringsnumret för webbpersonalisering visas när du klickar på en besökare (på besökarsidan) och på Ställ in kampanj på den högra panelen. Besökar-ID:t finns i avsnittet Avancerade inställningar. Besökar-ID:t finns också i URL:en (t.ex. VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
-
+   * Ange det besökarnummer du vill spåra i textrutan till höger. Det unika besökaridentifieringsnumret för webbpersonalisering visas när du klickar på en besökare (på besökarsidan) och på Ställ in kampanj på den högra panelen. Besökar-ID:t finns i avsnittet Avancerade inställningar. Besökar-ID:t finns också i URL:en (t.ex. VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
 
 **Sökvillkor**  - Definiera ett segment enligt den potentiella kundens sökvillkor.
 
-* 
-
-   * Besökaren sökte efter - I listrutan väljer du de termer som du vill spåra från besökarens sökning eller lägger till egna söktermer. (Jokertecknet * behövs inte för söktermer eftersom det är inställt som standard för att innehålla fraser som innehåller söktermen).
+* Besökaren sökte efter - I listrutan väljer du de termer som du vill spåra från besökarens sökning eller lägger till egna söktermer. (Jokertecknet * behövs inte för söktermer eftersom det är inställt som standard för att innehålla fraser som innehåller söktermen).
 
 **Referenser**  - Lägg till URL:er som besökaren refererades till.
 
-* 
-
-   * Välj hänvisningar att lägga till - Välj de hänvisningswebbplatser du vill spåra i listrutan eller lägg till din egen hänvisning. När du har valt detta alternativ visas hänvisningarna i rutan nedan. (Användning av * som jokertecken tillåts)
+* Välj hänvisningar att lägga till - Välj de hänvisningswebbplatser du vill spåra i listrutan eller lägg till din egen hänvisning. När du har valt detta alternativ visas hänvisningarna i rutan nedan. (Användning av * som jokertecken tillåts)
 
 **Inkludera sidor**  - Spåra specifika sidor som besökts på webbplatsen.
 
-* 
-
-   * URL-matchningar - Lägg till URL:en för specifika webbsidor som du vill spåra. Du kan lägga till flera URL-adresser genom att separera dem med ett semikolon. (Användning av * som jokertecken är tillåtet).
+* URL-matchningar - Lägg till URL:en för specifika webbsidor som du vill spåra. Du kan lägga till flera URL-adresser genom att separera dem med ett semikolon. (Användning av * som jokertecken är tillåtet).
 
 **Uteslut sidor**  - Uteslut specifika sidor som du inte vill matcha i segmentet. (Användning av * som jokertecken är tillåtet).
 
-* 
-
-   * 
-
-      * URL:en matchar inte - Lägg till URL:en för specifika webbsidor som du vill utesluta från spårning. Du kan lägga till flera URL-adresser genom att separera dem med ett semikolon
+* URL:en matchar inte - Lägg till URL:en för specifika webbsidor som du vill utesluta från spårning. Du kan lägga till flera URL-adresser genom att separera dem med ett semikolon
 
 ![](assets/segment-extra.png)
 
@@ -283,10 +271,11 @@ Dra och släpp det mobila operativsystemet i segmentredigeraren
 
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
-* **Besökartyp **
+* **Typ av besökare**
+
    **Mobiloperativsystem**  - Välj ett eller flera mobila operativsystem i listan i listrutan. Det valda mobiloperativsystemet visas nedan.
 
-   * Besökaren använder vilken mobil enhet som helst ** **
+   * Besökaren använder vilken mobil enhet som helst
    * Besökaren använder den specifika enheten/operativsystemet
    * Besökaren använder inte någon mobil enhet
 
@@ -296,10 +285,8 @@ Dra och släpp det mobila operativsystemet i segmentredigeraren
 
 Målgrupp som använder specifika webbläsartyper och/eller versioner.
 
-* 
-
-   * Typ av webbläsare - Välj en eller flera webbläsare i listrutan. De valda webbläsarna visas nedan.
-   * Webbläsarversion - Ange den webbläsarversion som du vill lägga till i segmentet. Du kan välja flera versioner genom att separera dem med kommatecken. (Användning av * som jokertecken är tillåtet).
+* Typ av webbläsare - Välj en eller flera webbläsare i listrutan. De valda webbläsarna visas nedan.
+* Webbläsarversion - Ange den webbläsarversion som du vill lägga till i segmentet. Du kan välja flera versioner genom att separera dem med kommatecken. (Användning av * som jokertecken är tillåtet).
 
 ### API {#api}
 
@@ -313,7 +300,7 @@ Anrop till API för webbanpassning [läs mer om det här.](http://developers.mar
 
 >[!TIP]
 >
->**Använda jokertecken - **När du vill inkludera ett sökord eller en URL som innehåller något i det, dvs. &quot;[google.com](http://google.com)&quot; eller &quot;söktermsprodukt&quot;, kallar vi det här ett jokertecken och det ska läggas in med en asterisk - den här lilla killen* - i varje ände. Allt som kommer från [google.com](http://google.com) ska därför infogas som * [google.com](http://google.com)*
+>**Med jokertecken -** När du vill ta med ett sökord eller en URL som innehåller något i det, d.v.s. &quot;[google.com](http://google.com)&quot; eller &quot;söktermsprodukt&quot;, kallar vi det här ett jokertecken och det ska läggas in med en asterisk - den här lilla killen* - i varje ände. Allt som kommer från [google.com](http://google.com) ska därför infogas som * [google.com](http://google.com)*
 
 ## Redigera segment {#edit-segments}
 
@@ -332,7 +319,7 @@ Du kan redigera ett segment som har skapats.
 Du kan ta bort segment som du har skapat.
 
 1. Markera ett segment på sidan **Segment** ovan.
-1. Klicka på borttagningsikonen ( ![](assets/segment-delete.png)) för segmentet** **du vill ta bort.
+1. Klicka på borttagningsikonen ( ![](assets/segment-delete.png)) för det segment som du vill ta bort.
 1. Ett bekräftelsemeddelande visas som bekräftar att du håller på att ta bort **segmentet**.
 
 >[!NOTE]
