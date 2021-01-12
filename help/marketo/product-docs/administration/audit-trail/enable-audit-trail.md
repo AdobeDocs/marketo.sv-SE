@@ -3,9 +3,9 @@ unique-page-id: 11382122
 description: Aktivera granskningsspår - Marketo Docs - Produktdokumentation
 title: Aktivera granskningsspår
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -45,17 +45,15 @@ Granskningsspårning är tillgängligt för alla kunder och styrs av två admini
    >
    >**Definition**
    >
-   >
    >**Åtkomst till granskningsspår:** Ger användare åtkomst till både resursgranskningsspår och administratörsgranskningsspår.
    >
-   >
-   >**Åtkomst till inloggningshistorik:** Ger användare åtkomst till  [användarens inloggningshistorik](user-login-history.md).
+   >**Åtkomst till inloggningshistorik:** Ger användare åtkomst till  [användarens inloggningshistorik](/help/marketo/product-docs/administration/audit-trail/user-login-history.md).
 
 ## Tilldela roll för granskningsspår till en användare {#assign-audit-trail-role-to-a-user}
 
 >[!PREREQUISITES]
 >
->[Skapa ](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) eller  [](#Enable) aktivera befintlig roll och ge den behörigheten Granskningsspår.
+>[Skapa ](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#create-a-role) eller  [](#enable-audit-trail) aktivera befintlig roll och ge den behörigheten Granskningsspår.
 
 1. I **Användare och roller** klickar du på **Användare**.
 
@@ -75,9 +73,8 @@ Granskningsspårning är tillgängligt för alla kunder och styrs av två admini
 
    >[!CAUTION]
    >
-   >Om du har aktiverat arbetsytor markerar du rollens kryssruta, som markerar alla arbetsytor. Om du avmarkerar en enskild arbetsyta döljs granskningsspåret. Det innebär att du ser granskningsversionsdata för alla arbetsytor. Du kan dölja arbetsytor när [filtrera](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail).
+   >Om du har aktiverat arbetsytor markerar du rollens kryssruta, som markerar alla arbetsytor. Om du avmarkerar en enskild arbetsyta döljs granskningsspåret. Det innebär att du ser granskningsversionsdata för alla arbetsytor. Du kan dölja arbetsytor när [filtrera](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
 
 1. Klicka på **Spara**.
 
    ![](assets/eight-1.png)
-
