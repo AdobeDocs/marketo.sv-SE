@@ -3,9 +3,9 @@ unique-page-id: 7512270
 description: Lägg till Adobe Connect som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
 title: Lägg till Adobe Connect som en LaunchPoint-tjänst
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -20,8 +20,6 @@ Marketo hanterar registrering och närvaro av Adobe Connect webbinarium.
 >**Administratörsbehörigheter krävs**
 
 >[!NOTE]
->
->**Påminnelse**
 >
 >En befintlig prenumeration på Adobe Connect och administrationsrättigheter krävs för detta steg. Ha följande inställningar till hands: användarnamn, lösenord, deltagarlösenord och URL för mötesmapp.
 
@@ -45,11 +43,9 @@ Marketo hanterar registrering och närvaro av Adobe Connect webbinarium.
 
    ![](assets/image2015-4-22-11-3a50-3a6.png)
 
-1. Slutför processen genom att ange din **URL till mötesmappen** och **Deltagare** **Lösenord**,** **och klicka sedan på** Skapa.**
+1. Slutför processen genom att ange din **URL till mötesmappen** och **Deltagarlösenord** och klicka sedan på **Skapa**.
 
-   ** ![](assets/image2015-4-22-11-3a55-3a36.png)
-
-   **
+   ![](assets/image2015-4-22-11-3a55-3a36.png)
 
    >[!TIP]
    >
@@ -57,16 +53,12 @@ Marketo hanterar registrering och närvaro av Adobe Connect webbinarium.
 
    >[!NOTE]
    >
-   >**Exempel**
-   >
-   >
-   >När du har loggat in på ditt Adobe Connect-konto väljer du fliken **Seminarier**. Om du inte behöver gå in i något specifikt seminarium kopierar du URL:en från webbläsarfältet till **URL:en för mötesmappen** inställningen **.**
+   >När du har loggat in på ditt Adobe Connect-konto väljer du fliken **Seminarier**. Om du inte behöver gå in i något specifikt seminarium kopierar du URL:en från webbläsarfältet till URL:en för mötesmappen **.**
 
-1. Fenomenal! Din **Adobe Connect-tjänst** har nu synkroniserats med Marketo.
+Din Adobe Connect-tjänst är nu synkroniserad med Marketo!
 
-   ![](assets/adobe-connect-service.png)
+![](assets/adobe-connect-service.png)
 
 >[!MORELIKETHIS]
 >
->Lär dig hur du [skapar en händelse med Adobe Connect](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md).
-
+>Lär dig hur du [skapar en händelse med Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md).
