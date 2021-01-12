@@ -3,9 +3,9 @@ unique-page-id: 10096583
 description: Nästa generations Munchkin Tracking FAQ - Marketo Docs - Produktdokumentation
 title: Nästa generations Munchkin Tracking - frågor och svar
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '743'
+source-wordcount: '733'
 ht-degree: 0%
 
 ---
@@ -43,10 +43,9 @@ Om du redan använder det här filtret i en smart lista (till exempel i en smart
 
 >[!NOTE]
 >
->**Exempel**
->
 >**Utlösare**: Besök webbsidan, webbsidan är prissättningssida\
->**Flöde**: Change Score +10 and Intressant stund,  **Web**: Visad prissida
+>**Flöde**: Ändra bakgrundsmusik +10 och intressant stund
+>**Webb**: Visad prissida
 >
 >Om en anonym person besöker prissidan för Munchkin V2 kommer hon inte att delta i kampanjen direkt. När den anonyma personen blir känd ska vi genomföra kampanjen mot henne. Hon kommer att:
 >
@@ -60,9 +59,6 @@ Om du redan använder det här filtret i en smart lista (till exempel i en smart
    >
    >
 * Logga aktiviteten Ny person, som den är idag
-
->
-
 
 
 ## Vad händer med mina smarta listor som redan har filtret&quot;Är anonym&quot;? {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
@@ -92,10 +88,10 @@ Kolla in länkarna:
 
 [Anonyma leaduppgraderingar - versionsschema](https://nation.marketo.com/docs/DOC-2961)
 
-[Anonyma leaduppgraderingar - under molnet](https://nation.marketo.com/docs/DOC-2962)
+[Anonyma leaduppgraderingar - under hoodet](https://nation.marketo.com/docs/DOC-2962)
 
 [Anonym leadmarknadsföring till känd ledare - Munchkin V2-beteende](https://nation.marketo.com/docs/DOC-2963)
 
 ## Jag har fler frågor! Hur får jag svar på dem? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Kontakta dig på [communityn](https://nation.marketo.com/welcome). Du kan också skicka ett e-postmeddelande till [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4c3f393c3c233e380c212d3e27293823622f232162) De besvarar gärna dina frågor.
+Kontakta dig på [communityn](https://nation.marketo.com/welcome). Du kan också kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support). De kommer gärna att besvara dina frågor.
