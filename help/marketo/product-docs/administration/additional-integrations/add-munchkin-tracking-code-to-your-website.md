@@ -3,9 +3,9 @@ unique-page-id: 2360354
 description: Lägg till Munchkin-spårningskod på din webbplats - Marketo Docs - Produktdokumentation
 title: Lägg till Munchkin-spårningskod på din webbplats
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '672'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Lägg till Munchkin-spårningskod på din webbplats {#add-munchkin-tracking-code-to-your-website}
 
-Marketos skräddarsydda JavaScript-spårningskod, som kallas Munchkin, spårar alla personer som besöker er webbplats så att ni kan reagera på deras besök med automatiserade marknadsföringskampanjer. Även anonyma besökare spåras tillsammans med sina IP-adresser och annan information. ** Utan den här spårningskoden kan du inte spåra besök eller annan aktivitet på din webbplats!**
+Marketos skräddarsydda JavaScript-spårningskod, som kallas Munchkin, spårar alla personer som besöker er webbplats så att ni kan reagera på deras besök med automatiserade marknadsföringskampanjer. Även anonyma besökare spåras tillsammans med sina IP-adresser och annan information. **Utan den här spårningskoden kan du inte spåra besök eller annan aktivitet på webbplatsen**!
 
 >[!PREREQUISITES]
 >
@@ -54,39 +54,39 @@ Marketos skräddarsydda JavaScript-spårningskod, som kallas Munchkin, spårar a
 
 >[!TIP]
 >
->För webbplatser med stor trafik (dvs. hundratusentals besök per månad) rekommenderar vi att du inte spårar anonyma personer. [Läs mer.](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/)
+>För webbplatser med stor trafik (dvs. hundratusentals besök per månad) rekommenderar vi att du inte spårar anonyma personer. [Läs mer](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/).
 
 ## Lägg till spårningskod när flera arbetsytor används {#add-tracking-code-when-using-multiple-workspaces}
 
 Om du använder Arbetsytor i ditt Marketo-konto har du förmodligen också separata webblänkar som motsvarar dina arbetsytor. I så fall kan du använda Munchkin tracking Javascript för att tilldela anonyma personer till rätt arbetsyta och partition.
 
-1. Gå till Admin och klicka på Munchkin i trädet till vänster.
+1. Gå till **Admin** och klicka på **Munchkin** i trädet till vänster.
 
 ![](assets/image2015-8-25-16-3a28-3a41.png)
 
 1. Välj lämplig arbetsyta för de webbsidor som du vill spåra.
 
-![](assets/image2015-8-25-16-3a30-3a32.png)
+   ![](assets/image2015-8-25-16-3a30-3a32.png)
 
 >[!NOTE]
 >
 >Om du inte använder den speciella arbetsytan Munchkin-koden tilldelas personerna standardpartitionen som skapades när ditt konto konfigurerades. Det heter till att börja med&quot;Standard&quot;, men du kan ha ändrat det i ditt eget Marketo-konto.
 
-1. Välj Asynkron för spårningskodtyp.
+1. Välj **Asynkron** som spårningskodtyp.
 
    ![](assets/image2015-8-25-16-3a32-3a42.png)
 
 1. Klicka på och kopiera den JavaScript-spårningskod som du vill använda på webbplatsen.
 
-![](assets/image2015-8-25-16-3a34-3a7.png)
+   ![](assets/image2015-8-25-16-3a34-3a7.png)
 
->[!CAUTION]
->
->Använd inte koden som visas på skärmbilden - du måste använda den unika koden som visas på ditt konto!
+   >[!CAUTION]
+   >
+   >Använd inte koden som visas på skärmbilden - du måste använda den unika koden som visas på ditt konto!
 
 1. Placera spårningskoden på dina webbsidor i `<head>`-elementet. Nya personer som besöker den här sidan tilldelas den här partitionen.
 
-![](assets/image2015-8-25-16-3a5-3a20.png)
+   ![](assets/image2015-8-25-16-3a5-3a20.png)
 
 >[!CAUTION]
 >
@@ -109,6 +109,7 @@ Det finns tre typer av Munchkin-spårningskoder som du kan välja mellan. Alla e
 Så här kontrollerar du att din Munchkin-kod fungerar när du har lagt till den:
 
 1. Besök webbsidan.
+
 1. Gå till **Analytics**.
 
    ![](assets/mainnav-analytics-hand.png)
@@ -124,4 +125,3 @@ Så här kontrollerar du att din Munchkin-kod fungerar när du har lagt till den
    ![](assets/activitysource.png)
 
 1. Klicka på fliken **Rapport**. Om du inte ser några data väntar du några minuter och klickar sedan på uppdateringsikonen längst ned.
-
