@@ -3,9 +3,9 @@ unique-page-id: 11379928
 description: Ändra detaljer i granskningsspår - Marketo Docs - Produktdokumentation
 title: Ändra detaljer i granskningsspår
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '1901'
+source-wordcount: '1889'
 ht-degree: 0%
 
 ---
@@ -101,11 +101,11 @@ Granskningsspår ger en hel del insikt i vem som gör vad i er Marketo-prenumera
   </tr> 
   <tr> 
    <td>Redigera</td> 
-   <td>Uppdaterat "Från e-post" till "<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[e-postskyddad]</a>"</td> 
+   <td>Uppdaterat Från e-post till newemail@name.com</td> 
   </tr> 
   <tr> 
    <td>Redigera</td> 
-   <td>Uppdaterat"Svara till" till"<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[e-postskyddad]</a>"</td> 
+   <td>Uppdaterat"Svara till" till"newreplytoemail@name.com"</td> 
   </tr> 
   <tr> 
    <td>Redigera</td> 
@@ -801,9 +801,5 @@ Granskningsspår ger en hel del insikt i vem som gör vad i er Marketo-prenumera
 
 >[!MORELIKETHIS]
 >
->* [Filtrera i granskningsspår](filtering-in-audit-trail.md)
-
->
-
-
+>[Filtrera i granskningsspår](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)
 
