@@ -3,9 +3,9 @@ unique-page-id: 11377958
 description: Användarinloggningshistorik - Marketo Docs - Produktdokumentation
 title: Historik för användarinloggning
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -49,11 +49,9 @@ Så här visar du användarens inloggningshistorik:
 
    ![](assets/filter-select-from-dropdown.jpg)
 
-1. Välj användare i listrutan **Användare**.** **
+1. Välj användare i listrutan **Användare**.
 
-   ** ![](assets/user-dropdown.jpg)
-
-   **
+   ![](assets/user-dropdown.jpg)
 
 1. Markera rutan **Endast misslyckade inloggningar** om du bara vill visa misslyckade inloggningar i sökningen.
 
@@ -69,10 +67,4 @@ Så här visar du användarens inloggningshistorik:
 
    >[!NOTE]
    >
-   >**Relaterade artiklar**
-   >
-   >    
-   >    
-   >    * [Översikt över granskningsspår](audit-trail-overview.md)
-
-
+   >[Översikt över granskningsspår](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)
