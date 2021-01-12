@@ -3,9 +3,9 @@ unique-page-id: 11378468
 description: Filtrera i granskningsspår - Marketo Docs - Produktdokumentation
 title: Filtrera i granskningsspår
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Filtrera efter tidsram, resurstyp, användare, åtgärd med mera.
 
    >[!NOTE]
    >
-   >Det finns en mängd möjliga sökparameterkombinationer. I det här exemplet hittar vi: *alla e-postmeddelanden - redigerade av alla - de senaste sju dagarna*.
+   >Det finns en mängd möjliga sökparameterkombinationer. I det här exemplet hittar vi: _alla e-postmeddelanden - redigerade av alla - de senaste sju dagarna_.
 
 1. Klicka på listrutan **Period** och välj **Senaste 7 dagarna**.
 
@@ -57,12 +57,6 @@ Filtrera efter tidsram, resurstyp, användare, åtgärd med mera.
    >
    >Om du har aktiverat arbetsytor visas granskningsdata för alla arbetsytor. Om du använder ett arbetsytefilter kommer Markering ihåg det tidigare arbetsytevärdet varje gång du använder granskningsspår. Arbetsytebehörigheter på resursnivå används.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
-   >
-   >    
-   >    
-   >    * [Ändra detaljer i granskningsspår](change-details-in-audit-trail.md)
-
-
+   >[Ändra detaljer i granskningsspår](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)
