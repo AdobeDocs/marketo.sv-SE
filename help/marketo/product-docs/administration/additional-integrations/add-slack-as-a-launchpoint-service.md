@@ -3,9 +3,9 @@ unique-page-id: 12983619
 description: Lägg till Slack som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
 title: Lägg till Slack som en LaunchPoint-tjänst
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Det finns två meddelandetyper i integreringen med Slack:
 
 >[!PREREQUISITES]
 >
->[Kontakta support](http://docs.marketo.com/cdn-cgi/l/email-protection#1d6e686d6d726f695d707c6f76786972337e7270) om du inte redan har Slack System Notifications aktiverat.
+>Om du inte har Slack System Notifications aktiverat kan du kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Gå till **LaunchPoint** och klicka sedan på **Ny tjänst** under &lt;a2/>Nytt **.**
 
@@ -61,4 +61,3 @@ Det finns två meddelandetyper i integreringen med Slack:
    Meddelanden börjar nu att publicera i den kanal du valde i steg 6. De kommer att se ut ungefär så här:
 
    ![](assets/samplenotification.png)
-
