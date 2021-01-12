@@ -3,7 +3,7 @@ unique-page-id: 10098433
 description: Skapa ett Tillåtelselista för IP-baserad API-åtkomst - Marketo Docs - Produktdokumentation
 title: Skapa ett Tillåtelselista för IP-baserad API-åtkomst
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Ibland vill du bara ge API-åtkomst till en viss IP-adress eller ett adressinter
 
    ![](assets/image2016-2-25-9-3a12-3a48.png)
 
-1. I området IP-begränsningar klickar du på **Redigera, **eller på** Redigera IP-begränsningar **i det övre vänstra hörnet.
+1. I området IP-begränsningar klickar du på **Redigera,** eller på **Redigera IP-begränsningar** i det övre vänstra hörnet.
 
    ![](assets/image2016-2-25-9-3a15-3a30.png)
 
@@ -42,4 +42,3 @@ Ibland vill du bara ge API-åtkomst till en viss IP-adress eller ett adressinter
 1. Klicka på **Spara**.
 
    ![](assets/image2016-2-25-9-3a28-3a21.png)
-
