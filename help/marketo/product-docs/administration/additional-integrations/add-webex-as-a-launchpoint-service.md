@@ -3,9 +3,9 @@ unique-page-id: 7512272
 description: Lägg till WebEx som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
 title: Lägg till WebEx som en LaunchPoint-tjänst
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,13 @@ Marketo hanterar registrering och närvaro i webbinariet WebEx.
 
 >[!NOTE]
 >
->**Påminnelse**
->
 >En befintlig prenumeration på WebEx och administrationsrättigheter krävs för det här steget. Ha följande inställningar till hands: Användarnamn, lösenord och platsnamn.
 
 >[!NOTE]
 >
 >Platsnamnet finns i slutet av den URL som används för att logga in på WebEx. Till exempel:
 >
->`https://mycompany.webex.com/mw0300lc/mywebex/default.do?siteurl=**mycompa**`**ny**
+>`https://mycompany.webex.com/mw0300lc/mywebex/default.do?siteurl=mycompany`
 >
 >Varning: Ange inte hela URL:en i detta fält. Ange bara platsnamnet!
 
@@ -49,7 +47,7 @@ Marketo hanterar registrering och närvaro i webbinariet WebEx.
 
    ![](assets/image2015-4-24-18-3a56-3a56.png)
 
-1. Slutför processen genom att ange ditt** webbplatsnamn** och klicka sedan på **Skapa**.
+1. Slutför processen genom att ange ditt **platsnamn** och klicka sedan på **Skapa**.
 
    ![](assets/image2015-4-24-18-3a58-3a43.png)
 
@@ -59,5 +57,4 @@ Marketo hanterar registrering och närvaro i webbinariet WebEx.
 
 >[!MORELIKETHIS]
 >
->Lär dig hur du [skapar en händelse med WebEx](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md).
-
+>Lär dig hur du [skapar en händelse med WebEx](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md).
