@@ -3,7 +3,7 @@ unique-page-id: 7512276
 description: Lägg till ON24 som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
 title: Lägg till ON24 som en LaunchPoint-tjänst
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -27,15 +27,15 @@ Marketo hanterar registrering och närvaro av ditt ON24-webbinarium.
 
    ![](assets/image2015-4-23-10-3a15-3a50.png)
 
-1. Välj **Ny** och sedan **Ny** **tjänst**.
+1. Välj **Ny** och sedan **Ny tjänst**.
 
    ![](assets/on24-new-service.png)
 
-1. Ange **Visning** **Namn**. Under **Service** väljer du **ON24**.
+1. Ange ett **visningsnamn**. Under **Service** väljer du **ON24**.
 
    ![](assets/new-service-on24.png)
 
-1. Slutför processen genom att ange **klient** **nyckel** och **klient** **ID** i **Inställningar** och klicka sedan på **Skapa**.
+1. Slutför processen genom att ange din **klientnyckel** och **klient-ID** i **Inställningar** och klicka sedan på **Skapa**.
 
    ![](assets/image2015-4-24-18-3a48-3a29.png)
 
@@ -45,5 +45,4 @@ Marketo hanterar registrering och närvaro av ditt ON24-webbinarium.
 
 >[!MORELIKETHIS]
 >
->Lär dig hur du [skapar din webbinarihändelse i ON24](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md).
-
+>Lär dig hur du [skapar din webbinarihändelse i ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md).
