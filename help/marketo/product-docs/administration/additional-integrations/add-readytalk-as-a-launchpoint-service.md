@@ -3,9 +3,9 @@ unique-page-id: 7512278
 description: Lägg till ReadyTalk som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
 title: Lägg till ReadyTalk som en LaunchPoint-tjänst
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -21,23 +21,21 @@ Marketo hanterar registrering och närvaro av ditt webbseminarium ReadyTalk.
 
 >[!NOTE]
 >
->**Påminnelse**
->
 >En befintlig prenumeration på ReadyTalk och administrationsrättigheter krävs för det här steget. Ha följande inställningar till hands: Åtkomstnummer, åtkomstkod och lösenord.
 
 1. Gå till **Admin** och klicka på **ReadyTalk**.
 
    ![](assets/image2015-4-23-10-3a50-3a23.png)
 
-1. Välj **Ny** och sedan **Ny** **tjänst**.
+1. Välj **Ny** och sedan **Ny tjänst**.
 
    ![](assets/readytalk-new-service.png)
 
-1. Ange **Visning** **Namn**. Under **Service** väljer du** ReadyTalk**.
+1. Ange ett **visningsnamn**. Välj **ReadyTalk** under **Service**.
 
    ![](assets/new-service-readytalk.png)
 
-1. Ange ditt **åtkomstnummer** och **Åtkomst** **kod**.
+1. Ange ditt **åtkomstnummer** och **åtkomstkod**.
 
    ![](assets/image2015-4-24-18-3a53-3a2.png)
 
@@ -45,11 +43,10 @@ Marketo hanterar registrering och närvaro av ditt webbseminarium ReadyTalk.
 
    ![](assets/image2015-4-24-18-3a53-3a38.png)
 
-1. Fenomenal! Ditt **ReadyTalk**-konto har nu synkroniserats med Marketo.
+Ditt **ReadyTalk**-konto har nu synkroniserats med Marketo.
 
-   ![](assets/readytalk.png)
+![](assets/readytalk.png)
 
 >[!MORELIKETHIS]
 >
->Lär dig hur du [skapar en händelse med ReadyTalk](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md).
-
+>Lär dig hur du [skapar en händelse med ReadyTalk](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md).
