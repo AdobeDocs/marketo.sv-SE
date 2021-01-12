@@ -3,9 +3,9 @@ unique-page-id: 2360360
 description: Skapa en webkrok - Marketo Docs - Produktdokumentation
 title: Skapa en webbkrok
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,11 @@ ht-degree: 0%
 
 Använd webhooks för att dra nytta av webbtjänster från tredje part för att skicka textmeddelanden, utöka persondata med mera.
 
->[!NOTE]
->
->**Tillgänglighet**
+>[!AVAILABILITY]
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
-1. Gå till **Admin **och klicka på **Webhooks**.
+1. Gå till **Admin** och klicka på **Webbhooks**.
 
    ![](assets/image2014-9-24-14-3a52-3a57.png)
 
@@ -51,7 +49,4 @@ Använd webhooks för att dra nytta av webbtjänster från tredje part för att 
 
 >[!NOTE]
 >
->**Djupdykning**
->
 >Läs mer i [webhooks](http://developers.marketo.com/documentation/webhooks/) djupdykning.
-
