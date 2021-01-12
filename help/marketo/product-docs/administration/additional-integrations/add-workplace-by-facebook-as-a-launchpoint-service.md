@@ -3,9 +3,9 @@ unique-page-id: 14745982
 description: Lägg till arbetsyta via Facebook som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
 title: Lägg till arbetsyta efter Facebook som en LaunchPoint-tjänst
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Det finns två meddelandetyper i Workplace-integreringen:
 
 >[!PREREQUISITES]
 >
->[Kontakta support](http://docs.marketo.com/cdn-cgi/l/email-protection#5b282e2b2b34292f1b363a29303e2f3475383436) om du inte redan har aktiverat Workplace Notifications.
+>Om du inte redan har aktiverat Workplace Notifications kontaktar du [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Gå till **LaunchPoint** och klicka sedan på **Ny tjänst** under &lt;a2/>Nytt **.**
 
@@ -65,4 +65,3 @@ Det finns två meddelandetyper i Workplace-integreringen:
    Meddelanden kommer nu att börja publicera till den Facebook-grupp du valde i steg 7. De kommer att se ut ungefär så här:
 
    ![](assets/example.png)
-
