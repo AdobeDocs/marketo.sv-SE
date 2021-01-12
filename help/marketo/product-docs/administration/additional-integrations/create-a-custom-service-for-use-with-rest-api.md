@@ -3,9 +3,9 @@ unique-page-id: 2360350
 description: Skapa en anpassad tjänst för användning med ReST API - Marketo Docs - produktdokumentation
 title: Skapa en anpassad tjänst för användning med ReST API
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ Om du vill integrera med Marketo via ReST API:t måste du skapa en anpassad tjä
 
 >[!PREREQUISITES]
 >
->* [Skapa en användarroll endast för API](../../../product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
->* [Skapa endast en API-användare](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md)
+>* [Skapa en användarroll endast för API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
+>* [Skapa endast en API-användare](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
 
 >
 
@@ -28,9 +28,7 @@ Om du vill integrera med Marketo via ReST API:t måste du skapa en anpassad tjä
 >
 >**Administratörsbehörigheter krävs**
 
->[!NOTE]
->
->**Djupdykning**
+>[!TIP]
 >
 >Läs dokumentationen till våra utvecklare för mer information om [ReST API](http://developers.marketo.com/documentation/rest/). Vi har också [SOAP API](http://developers.marketo.com/documentation/soap/) om det är det du behöver.
 
@@ -48,11 +46,9 @@ Om du vill integrera med Marketo via ReST API:t måste du skapa en anpassad tjä
 
    ![](assets/image2014-9-19-10-3a38-3a22.png)
 
-1. Ange ett **visningsnamn** för tjänsten. Välj **API-endast användare** [som tidigare skapats](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md).
+1. Ange ett **visningsnamn** för tjänsten. Välj **API-endast användare** [som tidigare skapats](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
 
    >[!NOTE]
-   >
-   >**Påminnelse**
    >
    >Observera att vi redan har inbyggd integrering för populära webbinärtjänster.
 
@@ -78,11 +74,10 @@ Om du vill integrera med Marketo via ReST API:t måste du skapa en anpassad tjä
 
    ![](assets/image2014-9-19-10-3a42-3a24.png)
 
-1. Ange klient-ID***, **Klienthemlighet**, **Autentiserad användare** och **token** till den person som ansvarar för att upprätta anslutningen.
+1. Ange **klient-ID**, **klienthemlighet**, **auktoriserad användare** och **token** till den person som ansvarar för att upprätta anslutningen.
 
    ![](assets/image2014-9-19-10-3a42-3a38.png)
 
 >[!CAUTION]
 >
 >Dela inte denna information; det är bakdörren till era data. Håll det säkert!
-
