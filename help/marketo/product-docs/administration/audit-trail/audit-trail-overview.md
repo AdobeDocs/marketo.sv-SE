@@ -3,9 +3,9 @@ unique-page-id: 11377945
 description: Översikt över granskningsspår - Marketo Docs - Produktdokumentation
 title: Översikt över granskningsspår
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Vem loggar in på vårt konto?
 
 ## Vad vi granskar {#what-we-audit}
 
-Marketo granskar [skapa, redigera och ta bort](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail)-åtgärder för:
+Marketo granskar [skapa, redigera och ta bort](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)-åtgärder för:
 
 * Designstudiematerial
 * Alla Marketo-program
@@ -46,27 +46,27 @@ Marketo granskar [skapa, redigera och ta bort](http://docs.marketo.com/display/D
 
 >[!NOTE]
 >
->Marketo är **inte** granskar ändringar som gjorts i Webbpersonalisering, Predictive Content eller Sales Insight just nu.
+>Marketo är _inte_ granskar ändringar som gjorts i Webbpersonalisering, Predictive Content eller Sales Insight just nu.
 
 ## Granskningsspårskomponenter {#audit-trail-components}
 
 Granskningsspåret består av tre komponenter.
 
-**1)  [Resursgranskningsspår](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail#ChangeDetailsinAuditTrail-AssetAuditTrail)**
+**1)  [Resursgranskningsspår](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#asset-audit-trail)**
 
 Se aktivitet för specifika resurser.
 
-**2)  [Granskningsspår för administratörer](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail#ChangeDetailsinAuditTrail-AdminAuditTrail)**
+**2)  [Granskningsspår för administratörer](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#admin-audit-trail)**
 
 Övervaka användarbaserad information.
 
-**3)  [Användarinloggningshistorik](http://docs.marketo.com/display/DOCS/User+Login+History)**
+**3)  [Användarinloggningshistorik](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
 
 Se vilka som loggat in på prenumerationen och när. Inkluderar även misslyckade inloggningsförsök.
 
 >[!TIP]
 >
->Det finns så mycket du kan granska med granskningsspår att du måste använda [Filtrering](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail)!
+>Det finns så mycket du kan granska med granskningsspår att du måste använda [Filtrering](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)!
 
 ## Exporterar data {#exporting-data}
 
@@ -82,9 +82,4 @@ Du kan bara visa 30 dagars data i din instans. Använd exportalternativet för a
 
 >[!MORELIKETHIS]
 >
->* [Aktivera granskningsspår](enable-audit-trail.md)
-
->
-
-
-
+>[Aktivera granskningsspår](/help/marketo/product-docs/administration/audit-trail/enable-audit-trail.md)
