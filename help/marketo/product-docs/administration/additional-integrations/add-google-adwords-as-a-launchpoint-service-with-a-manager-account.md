@@ -3,9 +3,9 @@ unique-page-id: 7504893
 description: Lägg till Google AdWords som en startpunktstjänst med ett Manager-konto - Marketo Docs - Produktdokumentation
 title: Lägg till Google AdWords som en startpunktstjänst med ett hanterarkonto
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Läs mer om [Googles importfunktion för offlinekonvertering](https://support.go
 
 >[!NOTE]
 >
->Du kan även integrera ett [fristående Google AdWords-konto som en startpunktstjänst](add-google-adwords-as-a-launchpoint-service.md).
+>Du kan även integrera ett [fristående Google AdWords-konto som en startpunktstjänst](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md).
 
 1. Gå till avsnittet **Admin**.
 
@@ -63,7 +63,7 @@ Läs mer om [Googles importfunktion för offlinekonvertering](https://support.go
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. Ladda upp dina offlinekonverteringar från Marketo till Google AdWords **Weekly **eller **Daily**.
+1. Överför dina offlinekonverteringar från Marketo till Google AdWords **Varje vecka** eller **Daily**.
 
    ![](assets/image2015-3-27-14-3a7-3a45.png)
 
@@ -88,14 +88,8 @@ Läs mer om [Googles importfunktion för offlinekonvertering](https://support.go
 
    ![](assets/image2015-3-27-14-3a12-3a51.png)
 
-   Yippee! Se nu den relaterade artikeln nedan för hur du mappar AdWords-offlinekonverteringar i din intäktsmodell.
+   Se nu den relaterade artikeln nedan för hur du mappar AdWords-offlinekonverteringar i din intäktsmodell.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
-   >
-   >    
-   >    
-   >    * [Ange Google AdWords-konverteringar i intäktsmodellen med ett Manager-konto](../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
-
-
+   >[Ange Google AdWords-konverteringar i intäktsmodellen med ett Manager-konto](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
