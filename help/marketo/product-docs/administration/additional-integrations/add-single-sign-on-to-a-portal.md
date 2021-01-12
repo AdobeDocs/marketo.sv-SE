@@ -3,9 +3,9 @@ unique-page-id: 2360356
 description: Lägg till enkel inloggning i en portal - Marketo Docs - Produktdokumentation
 title: Lägg till enkel inloggning på en portal
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -53,13 +53,13 @@ När enkel inloggning är aktiverad kan IdP validera användarens inloggningsupp
 
 SSO är inaktiverat som standard. Följ de här stegen för att aktivera SAML och konfigurera det.
 
-1. Gå till **Admin **och klicka på **enkel inloggning**.
+1. Gå till **Admin** och klicka på **Enkel inloggning**.
 
    ![](assets/image2014-9-24-14-3a36-3a50.png)
 
    >[!NOTE]
    >
-   >Om du inte ser **enkel inloggning** under **Admin**, kontaktar du [`[email protected]`](http://mailto:support@marketo.com).
+   >Om du inte ser **enkel inloggning** under **Admin**, kontaktar du [[Marketo Support]](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Klicka på **Redigera** under **SAML-inställningar**.
 
@@ -102,4 +102,3 @@ SSO är inaktiverat som standard. Följ de här stegen för att aktivera SAML oc
    >[!NOTE]
    >
    >Båda dessa sidor måste vara allmänt tillgängliga.
-
