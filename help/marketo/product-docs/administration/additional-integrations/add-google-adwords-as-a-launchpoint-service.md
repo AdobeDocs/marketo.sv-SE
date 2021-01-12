@@ -3,9 +3,9 @@ unique-page-id: 6095008
 description: Lägg till Google AdWords som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
 title: Lägg till Google AdWords som en LaunchPoint-tjänst
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Läs mer om [Googles importfunktion för offlinekonvertering](https://support.go
 
 >[!NOTE]
 >
->Du kan även integrera en [Google AdWords som en startpunktstjänst med ett hanterarkonto](add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md).
+>Du kan även integrera en [Google AdWords som en startpunktstjänst med ett hanterarkonto](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md).
 
 1. Gå till avsnittet **Admin**.
 
@@ -61,7 +61,7 @@ Läs mer om [Googles importfunktion för offlinekonvertering](https://support.go
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. Ladda upp dina offlinekonverteringar från Marketo till Google AdWords **Weekly **eller **Daily**.
+1. Överför dina offlinekonverteringar från Marketo till Google AdWords **Varje vecka** eller **Daily**.
 
    ![](assets/image2015-2-23-16-3a53-3a4.png)
 
@@ -86,13 +86,8 @@ Läs mer om [Googles importfunktion för offlinekonvertering](https://support.go
    >
    >[Automatisk ](https://support.google.com/adwords/answer/1752125?hl=en) taggning måste vara markerat för att den här funktionen ska fungera. Inaktiveringen måste göras i AdWords.
 
-   >[!NOTE]
-   >
-   >**Relaterade artiklar**
-   >
-   >    
-   >    
-   >    * [Ange Google AdWords-konverteringar i intäktsmodellen](../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
-
-
 Bra! Se den relaterade artikeln nedan för att lära dig hur du mappar AdWords-offlinekonverteringar i din intäktsmodell.
+
+>[!MORELIKETHIS]
+>
+>[Ange Google AdWords-konverteringar i intäktsmodellen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
