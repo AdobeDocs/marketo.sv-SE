@@ -3,9 +3,9 @@ unique-page-id: 6848782
 description: Gör ditt avbeställningsmeddelande dynamiskt för språk - Marketo Docs - Produktdokumentation
 title: Gör ditt avbeställningsmeddelande dynamiskt för språk
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: '495'
 ht-degree: 0%
 
 ---
@@ -19,18 +19,19 @@ Standardmeddelandet och länken för att avbryta prenumerationen är på engelsk
 >
 >Vi har skapat den här lilla lektionen nedan åt dig. Det är en bra metod, men det kan man göra på andra sätt.
 
-1. Förbered dina data
-1. [Skapa ett anpassat ](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)fält med namnet&quot;Önskat språk&quot;. (Konfigurera den i CRM om du vill att det här fältet ska synkroniseras).
+## Förbered dina data {#prepare-your-data}
+
+1. [Skapa ett anpassat ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) fält med namnet&quot;Önskat språk&quot;. (Konfigurera den i CRM om du vill att det här fältet ska synkroniseras).
 
    >[!TIP]
    >
-   >I framtiden ska du använda det här fältet när du [skapar ett formulär](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md) för att hämta språkinställningar.
+   >I framtiden ska du använda det här fältet när du [skapar ett formulär](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) för att hämta språkinställningar.
 
-1. Skapa segmentering
+## Skapa segmentering {#create-segmentation}
+
 1. Gå till **databasen**.
-** ![](assets/db.png)
 
-   **
+   ![](assets/db.png)
 
 1. I listrutan **Nytt** klickar du på **Nytt segment**.
 
@@ -64,16 +65,15 @@ Standardmeddelandet och länken för att avbryta prenumerationen är på engelsk
 
    ![](assets/image2015-3-9-8-3a39-3a36.png)
 
-1. Skapa ett fragment
+## Skapa ett fragment {#create-a-snippet}
+
 1. Gå till **Design Studio**.
 
    ![](assets/ds.png)
 
 1. I listrutan **Nytt** klickar du på **Nytt fragment**.
 
-   ** ![](assets/ten.png)
-
-   **
+   ![](assets/ten.png)
 
 1. Namnge fragmentet **Avsluta prenumeration på meddelande**. Klicka på **Skapa**.
 
@@ -83,7 +83,7 @@ Standardmeddelandet och länken för att avbryta prenumerationen är på engelsk
 
    ![](assets/image2015-3-9-8-3a41-3a47.png)
 
-1. Kopiera och klistra in denna token: **`{{system.unsubscribeLink}}`** i fältet **Länk-URL**. Klicka på **Infoga**.
+1. Kopiera och klistra in denna token: `{{system.unsubscribeLink}}` i fältet **Länk-URL**. Klicka på **Infoga**.
 
    ![](assets/image2015-3-9-8-3a43-3a17.png)
 
@@ -99,7 +99,7 @@ Standardmeddelandet och länken för att avbryta prenumerationen är på engelsk
 
    ![](assets/image2015-3-9-8-3a45-3a43.png)
 
-1. Kopiera och klistra in samma token: **`{{system.unsubscribeLink}}`** i fältet **Länk-URL**. Klicka på **Infoga**.
+1. Kopiera och klistra in samma token: `{{system.unsubscribeLink}}` i fältet **Länk-URL**. Klicka på **Infoga**.
 
    ![](assets/image2015-3-9-8-3a47-3a4.png)
 
@@ -109,7 +109,8 @@ Standardmeddelandet och länken för att avbryta prenumerationen är på engelsk
 
    Häftig. Nästan klart.
 
-1. Använd kodfragment i ett e-postmeddelande
+## Använd kodfragment i ett e-postmeddelande {#use-snippet-in-an-email}
+
 1. Klicka på det redigerbara elementet i e-postredigeraren. Klicka sedan på kugghjulsikonen och välj **Ersätt med fragment**. Om du markerar ett redigerbart fragmentelement klickar du på kugghjulsikonen och väljer **Redigera**.
 
    ![](assets/4.1.png)
@@ -134,27 +135,27 @@ Standardmeddelandet och länken för att avbryta prenumerationen är på engelsk
    >
    >Naturligtvis kan du även redigera resten av e-postmeddelandet för dynamiskt språk. När du är klar gör du samma sak på sidan för att avbryta prenumerationen.
 
-1. Anpassa din sida för avanmälan med dynamiskt innehåll
+## Anpassa din sida för avanmälan med dynamiskt innehåll {#customizing-your-unsubscribe-page-with-dynamic-content}
 
-   Om du vill att dina medarbetare ska komma till en avanmälningssida på det språk de föredrar, kan du använda dynamiskt innehåll på landningssidan och bekräftelsesidan.
+Om du vill att dina medarbetare ska komma till en avanmälningssida på det språk de föredrar, kan du använda dynamiskt innehåll på landningssidan och bekräftelsesidan.
 
-   Gå till Design Studio.
+1. Gå till Design Studio.
 
    ![](assets/ds.png)
 
-   Skriv in Avbeställ i sökfältet. Du hittar sidorna för Avbeställ.
+1. Skriv in _Unsubscribe_ i sökfältet. Du hittar sidorna för Avbeställ.
 
    ![](assets/image2015-3-9-8-3a51-3a53.png)
 
-   Klicka på Redigera utkast.
+1. Klicka på **Redigera utkast**.
 
    ![](assets/image2015-3-9-8-3a52-3a23.png)
 
-   Välj Segment efter.
+1. Välj **Segmentera med**.
 
    ![](assets/image2015-3-9-8-3a52-3a57.png)
 
-   Hitta segmentet Önskat språk. Klicka på Spara.
+1. Hitta segmentet Önskat språk. Klicka på **Spara**.
 
    ![](assets/image2015-3-9-8-3a53-3a54.png)
 
@@ -162,8 +163,4 @@ Standardmeddelandet och länken för att avbryta prenumerationen är på engelsk
 
    >[!NOTE]
    >
-   >**Djupdykning**
-   >
-   >
-   >Läs mer om [dynamiskt innehåll](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) och alla coola saker du kan göra.
-
+   >Läs mer om [dynamiskt innehåll](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) och alla coola saker du kan göra.
