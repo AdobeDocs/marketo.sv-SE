@@ -3,7 +3,7 @@ unique-page-id: 10093690
 description: Redigera och ta bort ett Marketo-anpassat objekt - Marketo-dokument - Produktdokumentation
 title: Redigera och ta bort ett markeringsobjekt till anpassat objekt
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Använd menyn Anpassade objektåtgärder för att redigera eller ta bort ett anp
 
    ![](assets/image2015-9-15-16-3a48-3a39.png)
 
-1. Var noga med att godkänna [det redigerade objektet](approve-a-custom-object.md).
+1. Var noga med att godkänna [det redigerade objektet](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md).
 
 ## Ta bort ett anpassat objekt {#delete-a-custom-object}
 
@@ -81,5 +81,4 @@ Det är enkelt att ta bort ett anpassat objekt, men du måste vara försiktig. A
 
 >[!MORELIKETHIS]
 >
->[Godkänn ett anpassat objekt](approve-a-custom-object.md)
-
+>[Godkänn ett anpassat objekt](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
