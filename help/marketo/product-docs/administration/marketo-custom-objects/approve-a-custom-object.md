@@ -3,7 +3,7 @@ unique-page-id: 10094188
 description: Godkänn ett anpassat objekt - Marketo Docs - Produktdokumentation
 title: Godkänn ett anpassat objekt
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -33,16 +33,13 @@ Du har skapat ett helt nytt anpassat objekt. Så här godkänner du det.
 
    >[!NOTE]
    >
-   >Ett anpassat objekt som används i en *en-till-många-struktur* måste ha minst ett dedupliceringsfält, ett länkfält, ett länkat objektnamn och ett länkat fältnamn som ska godkännas.
+   >Ett anpassat objekt som används i en _en-till-många-struktur_ måste ha minst ett dedupliceringsfält, ett länkfält, ett länkat objektnamn och ett länkat fältnamn som ska godkännas.
    >
+   >Ett anpassat objekt som används i en _många-till-många-struktur_ **behöver inte** ett länkfält, namn på länkat objekt eller ett länkat fältnamn när du godkänner det (eftersom de finns i det mellanliggande objektet).
    >
-   >Ett anpassat objekt som används i en *många-till-många-struktur* **behöver inte** ett länkfält, namn på länkat objekt eller ett länkat fältnamn när du godkänner det (eftersom de finns i det mellanliggande objektet).
+   >Ett anpassat objekt som används som ett _mellanliggande objekt_ kräver ett länkfält, ett länkat objektnamn och ett länkat fältnamn, men **kräver inget** dedupliceringsfält.
    >
-   >
-   >Ett anpassat objekt som används som ett *mellanliggande objekt* kräver ett länkfält, ett länkat objektnamn och ett länkat fältnamn, men **kräver inget** dedupliceringsfält.
-   >
-   >
-   >Mer information finns i [Förstå Marketo-anpassade objekt](understanding-marketo-custom-objects.md).
+   >Mer information finns i [Förstå Marketo-anpassade objekt](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md).
 
 Så ja! Nu kan du välja det anpassade objektet i begränsningarna för filter och utlösare som ska användas i dina kampanjer.
 
@@ -61,4 +58,3 @@ När du har redigerat ett godkänt anpassat objekt måste du godkänna utkastet 
 1. I en förhandsgranskning visas de objekt som har ändrats i utkastet. Klicka på **Godkänn**.
 
    ![](assets/six-1.png)
-
