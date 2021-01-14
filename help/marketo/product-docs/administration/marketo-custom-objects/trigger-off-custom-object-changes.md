@@ -3,9 +3,9 @@ unique-page-id: 11378713
 description: Utlös anpassade objektändringar - Marketo Docs - Produktdokumentation
 title: Utlös ändringar av anpassade objekt
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >
 >
-Kontakta [Marketo Support](http://support.marketo.com) om du vill aktivera utlösare för anpassade objektändringar.
+Kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) om du vill aktivera utlösare för anpassade objektändringar.
 
 I den smarta kampanjens lista kan du utlösa en flödesåtgärd när ett anpassat objekt läggs till en person eller ett företag. Du kan också skapa en smart lista som använder en *ändring* i ett anpassat objekt som utlösare. Du kan till exempel använda den för att skicka ett e-postmeddelande när ett kursnamn uppdateras.
 
@@ -57,11 +57,6 @@ I den smarta kampanjens lista kan du utlösa en flödesåtgärd när ett anpassa
 
    >[!NOTE]
    >
-   >**Relaterade artiklar**
-   >
-   >    
-   >    
-   >    * [Skapa en smart lista](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-   >    * [Förstå anpassade objekt i Marketo](understanding-marketo-custom-objects.md)
-
+   >* [Skapa en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+   >* [Förstå anpassade objekt i Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
