@@ -3,9 +3,9 @@ unique-page-id: 10099680
 description: Importera anpassade objektdata - Marketo Docs - Produktdokumentation
 title: Importera anpassade objektdata
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Importera anpassade objektdata {#import-custom-object-data}
 
-Det är enkelt att importera anpassade objektdata till databasen. Om du använder anpassade objekt med företag finns mer information i [Använda anpassade objekt med företag](http://docs.marketo.com/display/DOCS/Understanding+Marketo+Custom+Objects#UnderstandingMarketoCustomObjects-customcompanyUsingCustomObjectswithCompanies).
+Det är enkelt att importera anpassade objektdata till databasen. Om du använder anpassade objekt med företag finns mer information i [Använda anpassade objekt med företag](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies).
 
 1. Gå till **Database** på My Marketo.
 
@@ -71,9 +71,4 @@ Det är enkelt att importera anpassade objektdata till databasen. Om du använde
 
 >[!MORELIKETHIS]
 >
->* [Förstå anpassade objekt i Marketo](understanding-marketo-custom-objects.md)
-
->
-
-
-
+>[Förstå anpassade objekt i Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
