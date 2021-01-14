@@ -3,9 +3,9 @@ unique-page-id: 10100266
 description: Förstå anpassade aktiviteter - Marketo Docs - Produktdokumentation
 title: Om anpassade aktiviteter
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -27,14 +27,14 @@ Med anpassade aktiviteter kan du spåra en aktivitet som inte är relaterad till
 >
 >Anpassade aktiviteter skiljer sig från anpassade objekt. Använd anpassade objekt när värdet kan ändras (dvs. &quot;bilfärgen&quot; ändras från blå till röd). Använd anpassade aktiviteter när du spårar stunder som har inträffat och deras information inte kan ändras (d.v.s. &quot;köpt bil&quot;).
 
-**** FältDu kan lägga till  [ytterligare ](https://docs.marketo.com/x/Mx6a) fält som du vill koppla till din aktivitet. Precis som det primära fältet kan de användas som filtreringsvillkor i en smart lista.
+**** FältDu kan lägga till  [ytterligare ](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) fält som du vill koppla till din aktivitet. Precis som det primära fältet kan de användas som filtreringsvillkor i en smart lista.
 
 **Komma igång**
 
 Anpassade aktiviteter fungerar precis som vanliga aktiviteter. Men det är en tvåstegsprocess.
 
-Steg 1: [Skapa en anpassad aktivitet](create-a-custom-activity.md) i ditt Marketo-konto
+Steg 1: [Skapa en anpassad aktivitet](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md) i ditt Marketo-konto
 
-Steg 2: Medarbetaren i organisationen som arbetar med vårt API kan sedan påbörja implementeringen. Mer information finns här: [API för anpassad aktivitet](http://developers.marketo.com/documentation/rest/add-custom-activities/)
+Steg 2: Medarbetaren i organisationen som arbetar med vårt API kan sedan påbörja implementeringen. Mer information finns här: [API för anpassad aktivitet](https://developers.marketo.com/documentation/rest/add-custom-activities/)
 
 Ha det så roligt!
