@@ -3,9 +3,9 @@ unique-page-id: 2951259
 description: Anpassad fälttypsordlista - Marketo Docs - Produktdokumentation
 title: Ordlista för anpassad fälttyp
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '606'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,11 @@ När du skapar ett anpassat fält i Marketo finns det en lista med typer att vä
 
 >[!PREREQUISITES]
 >
->* [Skapa ett anpassat fält i Marketo](create-a-custom-field-in-marketo.md)
-
->
-
-
+>[Skapa ett anpassat fält i Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
 >[!TIP]
 >
->Beroende på fälttyp kommer filter/trigger [operatorer](https://docs.marketo.com/display/public/DOCS/Smart+List+Filter+Operators+Glossary) att vara olika.
+>Beroende på fälttyp kommer filter/trigger [operatorer](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) att vara olika.
 
 >[!NOTE]
 >
@@ -67,7 +63,7 @@ När du skapar ett anpassat fält i Marketo finns det en lista med typer att vä
 
 **Exempelnamn:** Alternativ e-postadress - Behåll en alternativ e-postadress för dina personer (det går inte att skicka e-post till det här fältet, t.ex. standardfältet för e-postadress, det är en speciell adress)
 
-**Exempelvärden:** [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#335d525e5673505c5e43525d4a1d505c5e)
+**Exempelvärden:** name@company.com
 
 **Operatorer**: is, is not, startar med, inte börjar med, innehåller, inte innehåller, är tom, är inte tom
 
@@ -81,7 +77,7 @@ När du skapar ett anpassat fält i Marketo finns det en lista med typer att vä
 
 ## Formel {#formula}
 
-**Exempelnamn:** Hälsningar - använd det här specialfältet i en  [lösning för att få rätt ](create-and-use-a-concatenated-string-formula-field.md) lösning baserat på kön
+**Exempelnamn:** Hälsningar - använd det här specialfältet i en  [lösning för att få rätt ](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) lösning baserat på kön
 
 **Exempelvärden:** kontrollera den länkade lösningen
 
