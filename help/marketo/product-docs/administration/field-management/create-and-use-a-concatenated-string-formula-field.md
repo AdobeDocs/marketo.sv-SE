@@ -3,7 +3,7 @@ unique-page-id: 2360337
 description: Skapa och använda ett sammanfogat strängfält (formel) - Marketo Docs - Produktdokumentation
 title: Skapa och använda ett sammanfogat strängfält (formel)
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Du kan kombinera värden från flera fält eller skapa ett villkorsstyrt värde 
 
    ![](assets/image2014-9-19-9-3a46-3a25.png)
 
-   Läs mer om [token för flödessteg](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
+   Läs mer om [token för flödessteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
 
 1. Nu kan du lägga till formelfältet som en token i ett e-postmeddelande.
 
@@ -50,4 +50,3 @@ Bra jobbat! Nu har du ett smart fält som vet vilken hälsningsfras som ska inkl
 >[!NOTE]
 >
 >Formelfält kan användas på landningssidor, i e-postmeddelanden och i kolumner för smarta listor. de inte exporteras. E-postmeddelanden med formelfält kan inte skickas via batchkampanjer
-
