@@ -3,7 +3,7 @@ unique-page-id: 10100269
 description: Redigera en anpassad aktivitet - Marketo Docs - Produktdokumentation
 title: Redigera en anpassad aktivitet
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -44,4 +44,3 @@ Behöver du ändra en anpassad aktivitet som du redan har skapat? Så här gör 
    >[!NOTE]
    >
    >Om din aktivitet var ett utkast vid redigeringen är det fortfarande ett utkast. Om den publicerades ändras statusen till Publicerad med utkast.
-
