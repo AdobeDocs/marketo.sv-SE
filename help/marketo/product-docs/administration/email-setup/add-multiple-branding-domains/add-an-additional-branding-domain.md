@@ -3,9 +3,9 @@ unique-page-id: 11377395
 description: Lägg till en extra varumärkesdomän - Marketo Docs - Produktdokumentation
 title: Lägg till en extra varumärkesdomän
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Lägg till ytterligare en varumärkesdomän när du kör flera varumärken från
 
 >[!PREREQUISITES]
 >
->Du måste [ersätta den generiska spårningslänken](edit-your-default-branding-domain.md) med en profilerad domän innan du lägger till ytterligare profilerade domäner.
+>Du måste [ersätta den generiska spårningslänken](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) med en profilerad domän innan du lägger till ytterligare profilerade domäner.
 
-1. I My Marketo klickar du på **Admin **och sedan på länken **E-post**.
+1. I My Marketo klickar du på **Admin** och sedan på länken **E-post**.
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
-1. Klicka på **Lägg till **för att lägga till ytterligare en varumärkesdomän.
+1. Klicka på **Lägg till** om du vill lägga till ytterligare en varumärkesdomän.
 
    ![](assets/two.png)
 
@@ -33,15 +33,8 @@ Lägg till ytterligare en varumärkesdomän när du kör flera varumärken från
 
 >[!NOTE]
 >
->Du kan välja att göra den här domänen till primär domän, och alla befintliga e-postmeddelanden som inte har skickats anges som &quot;Standard&quot; och alla nyligen skapade e-postmeddelanden blir som standard till den primära domänen. Du kan [skriva över detta per e-post](overwrite-primary-domain-for-emails.md).
+>Du kan välja att göra den här domänen till primär domän, och alla befintliga e-postmeddelanden som inte har skickats anges som &quot;Standard&quot; och alla nyligen skapade e-postmeddelanden blir som standard till den primära domänen. Du kan [skriva över detta per e-post](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md).
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Relaterade artiklar**
->
->* [Redigera din standardvarumärkesdomän](edit-your-default-branding-domain.md)
-
->
-
-
-
+>[Redigera din standardvarumärkesdomän](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)
