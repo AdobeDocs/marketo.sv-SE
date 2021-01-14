@@ -3,7 +3,7 @@ unique-page-id: 10100275
 description: Lägg till/redigera/ta bort markering i anpassade aktivitetsfält - Marketo-dokument - produktdokumentation
 title: Lägg till/redigera/ta bort markering i anpassade aktivitetsfält
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Du kan behöva lägga till, ändra eller ta bort ett anpassat aktivitetsfält. S
 
    >[!TIP]
    >
-   >Vet du inte vad du ska välja? Vi har det du behöver! Alla tillgängliga datatyper definieras i [den här artikeln](../../../product-docs/administration/field-management/custom-field-type-glossary.md).
+   >Vet du inte vad du ska välja? Vi har det du behöver! Alla tillgängliga datatyper definieras i [den här artikeln](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
 1. Namnge fältet. API-namnet fylls i automatiskt. När du är klar klickar du på **Spara**.
 
@@ -94,4 +94,3 @@ Fältet är nu redigerat!
    ![](assets/thirteen.png)
 
    Det är bara så enkelt!
-
