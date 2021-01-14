@@ -3,9 +3,9 @@ unique-page-id: 11377408
 description: Lägg till en extra varumärkesdomän med Workspaces - Marketo Docs - produktdokumentation
 title: Lägg till en extra varumärkesdomän med arbetsytor
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ Om du har arbetsytor kan du lägga till ytterligare profildomäner.
 
 >[!PREREQUISITES]
 >
->Du måste [redigera din standardbranding-domän](edit-your-default-branding-domain.md) först.
+>Du måste [redigera din standardbranding-domän](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) först.
 >
->Du måste först [ersätta den generiska spårningslänken](edit-your-default-branding-domain-with-workspaces.md) med en branding-domän innan du lägger till ytterligare branding-domäner.
+>Du måste först [ersätta den generiska spårningslänken](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md) med en branding-domän innan du lägger till ytterligare branding-domäner.
 
-1. Gå till **Admin **och klicka sedan på **E-post**.
+1. Gå till **Admin** och klicka på **E-post**.
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
-1. Klicka på **Lägg till **för att lägga till ytterligare en varumärkesdomän.
+1. Klicka på **Lägg till** om du vill lägga till ytterligare en varumärkesdomän.
 
    ![](assets/branding-domains-add-workspaces.png)
 
@@ -40,4 +40,3 @@ Om du har arbetsytor kan du lägga till ytterligare profildomäner.
 1. Välj den nya profileringsdomänen och klicka på **Spara**.
 
    ![](assets/image2016-8-12-10-3a52-3a44.png)
-
