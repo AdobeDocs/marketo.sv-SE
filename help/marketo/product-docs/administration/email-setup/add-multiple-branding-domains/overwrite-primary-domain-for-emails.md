@@ -3,7 +3,7 @@ unique-page-id: 11378051
 description: Skriv över primär domän för e-post - Marketo Docs - produktdokumentation
 title: Skriv över primär domän för e-postmeddelanden
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Du kan skriva över den primära domänen per e-post. Detta ändrar hur länkarn
    >[!NOTE]
    >
    >Alla användare har inte behörighet att ange den varumärkesskyddade domänen per e-post. Kontakta administratören om du inte ser listrutan Varumärkesdomäner.
-
