@@ -3,7 +3,7 @@ unique-page-id: 5472615
 description: Understanding System Managed Fields - Marketo Docs - Product Documentation
 title: Förstå systemhanterade fält
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Om systemhanterade fält {#understanding-system-managed-fields}
 
-Du kan ha lagt märke till att sidan [personinformation](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) innehåller en serie icke-redigerbara fält som skapats av Marketo. Dessa data kommer från olika källor och det finns otaliga värden som kan visas.
+Du kan ha lagt märke till att sidan [personinformation](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) innehåller en serie icke-redigerbara fält som skapats av Marketo. Dessa data kommer från olika källor och det finns otaliga värden som kan visas.
 
 ## Fälttyper {#field-types}
 
@@ -67,4 +67,3 @@ Nedan finns några möjliga värden och vad de betyder.
 | Munchkin API | Bli en person via Marketos Munchkin API |
 | Social app | Bli en person via en social widget |
 | Evenemangspartner | Bli en person via en länkad webbinärtjänst |
-
