@@ -3,7 +3,7 @@ unique-page-id: 2360291
 description: Blockera uppdateringar till ett fält - Marketo Docs - Produktdokumentation
 title: Blockera uppdateringar till ett fält
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Genom att blockera uppdateringar av ett fält kan du skriva till fältet en gån
 
    ![](assets/image2014-9-24-13-3a54-3a40.png)
 
-1. Leta reda på fältet, markera det och klicka sedan på **Blockera fältuppdateringar** under &lt;a0/>Fältåtgärder&lt;a1/>.****
+1. Leta reda på fältet, markera det och klicka sedan på **Blockera fältuppdateringar** under **Fältåtgärder**.
 
    ![](assets/two-1.png)
 
@@ -33,5 +33,4 @@ Genom att blockera uppdateringar av ett fält kan du skriva till fältet en gån
 
    >[!CAUTION]
    >
-   >När du utför en listimport visas statusen för ett fält som blockeras i importförhandsvisningen endast om fältet identifieras automatiskt av Marketo baserat på namnet på fältet som matchar **exakt** (eller om alias har upprättats). Om fältet väljs manuellt från listrutan Marketfält visas inte spärrstatusen i importförhandsvisningen, men uppdateringsblockering för det fältet kommer fortfarande att implementeras.
-
+   >När du utför en listimport visas statusen för ett fält som blockeras i importförhandsvisningen endast om fältet identifieras automatiskt av Marketo baserat på namnet på fältet som matchar _exakt_ (eller om alias har upprättats). Om fältet väljs manuellt från listrutan Marketfält visas inte spärrstatusen i importförhandsvisningen, men uppdateringsblockering för det fältet kommer fortfarande att implementeras.
