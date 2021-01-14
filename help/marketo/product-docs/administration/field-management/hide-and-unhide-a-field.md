@@ -3,9 +3,9 @@ unique-page-id: 2360333
 description: Dölj och visa ett fält - Marketo Docs - Produktdokumentation
 title: Dölja och visa ett fält
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -25,17 +25,16 @@ Om du inte längre har använt för ett fält i Marketo kan du dölja det från 
 
    ![](assets/image2014-9-18-13-3a10-3a3.png)
 
-1. Sök efter fältet, markera det och klicka sedan på **Dölj fält** under &lt;a0/>Fältåtgärder **.**
+1. Sök efter fältet, markera det och klicka sedan på **Dölj fält** under **Fältåtgärder**.
 
    ![](assets/fieldmanagement-hidefield-.png)
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
    >För att dölja ett fält får det inte vara kopplat till några andra resurser (inklusive arkiverade sådana). Se till att du tar bort fältet från alla smarta listor, val av flödessteg, formulär, e-post osv. innan du döljer det.
 
-   Bekräfta genom att klicka på Dölj.
+1. Klicka på **Dölj** för att bekräfta.
+
    ![](assets/image2014-9-18-13-3a10-3a36.png)
 
    Snyggt jobbat! Nu vet du hur du döljer ett fält i Marketos användargränssnitt.
@@ -48,7 +47,7 @@ Om du inte längre har använt för ett fält i Marketo kan du dölja det från 
 
    ![](assets/image2014-9-18-13-3a11-3a3.png)
 
-1. Sök efter och markera fältet och klicka sedan på **Fältåtgärder** under **`Unhide Field`**.
+1. Sök och markera fältet. Klicka på **Visa fält** i listrutan Fältåtgärder.
 
    ![](assets/image2014-9-18-13-3a11-3a46.png)
 
@@ -56,5 +55,4 @@ Om du inte längre har använt för ett fält i Marketo kan du dölja det från 
 
    >[!TIP]
    >
-   >Behöver du gömma/visa massvis? Kontakta Marketo Professional Services: [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4d3e283f3b242e283e0d202c3f26283922632e222063)
-
+   >Behöver du gömma/visa massvis? Kontakta Marketo Professional Services: services@marketo.com.
