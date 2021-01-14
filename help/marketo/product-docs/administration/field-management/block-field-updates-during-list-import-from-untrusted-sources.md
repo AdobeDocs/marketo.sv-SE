@@ -3,7 +3,7 @@ unique-page-id: 2360335
 description: Blockera fältuppdateringar vid listimport från otillförlitliga källor - Marketo Docs - produktdokumentation
 title: Blockera fältuppdateringar vid listimport från otillförlitliga källor
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Du kan lita på data i vissa listor mer än andra. Ibland kan du ha tvivelaktiga
 
    ![](assets/image2014-9-19-9-3a38-3a38.png)
 
-1. Leta reda på fältet du vill använda, markera det och klicka sedan på **Blockera fältuppdateringar** under &lt;a0/>Fältåtgärder&lt;a1/>.****
+1. Leta reda på fältet du vill använda, markera det och klicka sedan på **Blockera fältuppdateringar** under **Fältåtgärder**.
 
    ![](assets/image2014-9-19-9-3a39-3a40.png)
 
@@ -41,10 +41,10 @@ Upprepa stegen ovan för andra fält som du vill skydda från ej tillförlitliga
 
 ## Köra en ej betrodd listimport {#running-an-untrusted-list-import}
 
-1. När du kör listimporten måste du markera **Ej betrodd **om du vill att alla fält som du konfigurerade i föregående steg ska vara säkra.
+1. När du kör listimporten måste du markera **Otillförlitlig** om du vill att alla fält som du konfigurerade i föregående steg ska vara säkra.
 
    ![](assets/importpersondetails.jpg)
 
-Detaljerade anvisningar om hur du importerar listor finns i [Importera en lista med personer](../../../getting-started/quick-wins/import-a-list-of-people.md).
+Detaljerade anvisningar om hur du importerar listor finns i [Importera en lista med personer](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
 
 Snyggt jobbat! Nu vet du hur du kan skydda nyckelfält från otillförlitliga listor.
