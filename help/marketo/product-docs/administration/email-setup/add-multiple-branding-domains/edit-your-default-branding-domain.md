@@ -3,7 +3,7 @@ unique-page-id: 11377392
 description: Redigera din standardvarumärkesdomän - Marketo Docs - Produktdokumentation
 title: Redigera din standardvarumärkesdomän
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Att redigera din standardvarumärkesdomän är det första steget i arbetet med 
 
 >[!PREREQUISITES]
 >
->Kontrollera att du har [konfigurerat en CNAME i din DNS](../../../../getting-started/setup-steps/configure-protocols-for-marketo.md) innan du lägger till dina profileringsdomäner i Marketo.
+>Kontrollera att du har [konfigurerat en CNAME i din DNS](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md) innan du lägger till dina profileringsdomäner i Marketo.
 
 1. Gå till **Admin** och klicka på **E-post**.
 
@@ -35,5 +35,4 @@ Att redigera din standardvarumärkesdomän är det första steget i arbetet med 
 
    ![](assets/edit-branding-domain-hands.png)e
 
-Nu kan du [lägga till ytterligare profileringsdomäner](add-an-additional-branding-domain.md) som du behöver.
-
+Nu kan du [lägga till ytterligare profileringsdomäner](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) som du behöver.
