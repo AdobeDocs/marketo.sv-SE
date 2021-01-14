@@ -3,9 +3,9 @@ unique-page-id: 10095453
 description: Redigera och ta bort Marketto-anpassade objektfält - Marketo-dokument - Produktdokumentation
 title: Redigera och ta bort markering i anpassade objektfält
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -49,14 +49,10 @@ Om du inte behöver ett fält i ett anpassat objekt längre kan du ta bort det.
 
    ![](assets/image2015-10-2-11-3a14-3a5.png)
 
-1. Den är borta!
+   Den är borta!
 
    ![](assets/image2015-10-2-11-3a15-3a48.png)
 
    >[!NOTE]
    >
-   >**Relaterade artiklar**
-   >
-   >
-   >[Lägg till markering i anpassade objektfält](add-marketo-custom-object-fields.md)
-
+   >[Lägg till markering i anpassade objektfält](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
