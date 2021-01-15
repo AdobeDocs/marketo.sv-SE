@@ -3,9 +3,9 @@ unique-page-id: 2360321
 description: Ändra namnet på en arbetsyta - Marketo Docs - Produktdokumentation
 title: Ändra namnet på en arbetsyta
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Skapa en ny arbetsyta](create-a-new-workspace.md)
+>[Skapa en ny arbetsyta](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
 
 Användare kan ändra namnet på en arbetsyta. Det är ganska enkelt.
 
 >[!NOTE]
 >
->**Djupdykning**
->
->Förstå först arbetsytor och personpartitioner[.](understanding-workspaces-and-person-partitions.md)
+>Förstå först arbetsytor och personpartitioner](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).[
 
 1. Under **Admin** klickar du på **Arbetsytor och partitioner.**
 
@@ -44,4 +42,3 @@ Användare kan ändra namnet på en arbetsyta. Det är ganska enkelt.
 1. När du har sparat bör du se ändringarna!
 
    ![](assets/image2014-9-17-11-3a9-3a9.png)
-
