@@ -3,9 +3,9 @@ unique-page-id: 2360207
 description: Skapa en endast API-användare - Marketo Docs - produktdokumentation
 title: Skapa endast en API-användare
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -13,14 +13,11 @@ ht-degree: 0%
 
 # Skapa en endast API-användare {#create-an-api-only-user}
 
-Om du vill integrera med Marketo via [REST API](http://developers.marketo.com/documentation/rest/) måste du skapa en användare som bara har API. Så här gör du.
+Om du vill integrera med Marketo via [REST API](https://developers.marketo.com/documentation/rest/) måste du skapa en användare som bara har API. Så här gör du.
 
 >[!PREREQUISITES]
 >
->* [Skapa en användarroll endast för API](create-an-api-only-user-role.md)
-
->
-
+>[Skapa en användarroll endast för API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
 
 
 >[!NOTE]
@@ -57,13 +54,6 @@ Om du vill integrera med Marketo via [REST API](http://developers.marketo.com/do
 
 Okej då! Nu ska vi skapa en anpassad tjänst.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Relaterade artiklar**
->
->* [Skapa en anpassad tjänst för användning med ReST API](../../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
-
->
-
-
-
+>[Skapa en anpassad tjänst för användning med ReST API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
