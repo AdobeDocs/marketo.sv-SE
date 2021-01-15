@@ -3,9 +3,9 @@ unique-page-id: 6848747
 description: Beskrivningar av rollbehörigheter - Marketo Docs - Produktdokumentation
 title: Beskrivningar av rollbehörigheter
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '1154'
+source-wordcount: '1144'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Ytterligare information om behörigheter:
 
 ## Tillgängliga behörigheter {#available-permissions}
 
-När du [skapar eller redigerar en roll](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md) kan du välja vilken av följande behörigheter som ska tillåtas för den rollen genom att markera lämpliga rutor.
+När du [skapar eller redigerar en roll](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md) kan du välja vilken av följande behörigheter som ska tillåtas för den rollen genom att markera lämpliga rutor.
 
 ![](assets/createnewrole.png)
 
@@ -35,7 +35,7 @@ Visa och gör ändringar i inställningarna under Mitt konto i Admin.
 * Åtkomstkanaler - Ger användarna åtkomst endast för att ändra kanaltaggen, inte andra anpassade taggar
 * Kommunikationsgräns för åtkomst - Ger användarna åtkomst för att aktivera en kommunikationsgräns i Admin
 * Access CRM - Ger användare åtkomst till CRM, som Salesforce eller Microsoft Dynamics, i Admin
-* Åtkomst till [Data.com](http://Data.com) - Ger användare åtkomst till flödesåtgärden på Data.com
+* Åtkomst till [Data.com](https://Data.com) - Ger användare åtkomst till flödesåtgärden på Data.com
 * Åtkomst till e-postadministratör - Ger användare behörighet att ändra standardinställningar, som att avbeställa prenumerationer och ange varumärke
 * Åtkomst till händelsepartners - Ger användarna åtkomst till LaunchPoint i Admin
 * Fälthantering för åtkomst - ger användarna åtkomst till fälthantering i Admin
@@ -105,14 +105,12 @@ Ger användare åtkomst till kalenderpresentationer ??- aktiverar visning av Pre
 Ger användarna tillgång till fliken Design Studio och trädvyn, men inte till detaljer.
 
 * Åtkomst till e-post
-
    * Redigera e-post - Ger användare behörighet att redigera, skapa och klona e-postmeddelanden
+      * Använd e-post - Ger användare behörighet att göra e-postmeddelanden operativa. Se: [Gör ett e-postmeddelande användbart](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
-      * Använd e-post - Ger användare behörighet att göra e-postmeddelanden operativa. Se: [Gör ett e-postmeddelande användbart](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
-   * Godkänn e-post - Låter användarna godkänna e-postmeddelanden.
-   * Ta bort e-post - Gör det möjligt för användare att ta bort e-postmeddelanden.
-   * Ange profilerad domän - Gör att användare kan arbeta med profileringsdomäner. Se: [Lägg till flera profileringsdomäner](http://docs.marketo.com/display/docs/add+multiple+branding+domains)
-
+      * Godkänn e-post - Låter användarna godkänna e-postmeddelanden.
+      * Ta bort e-post - Gör det möjligt för användare att ta bort e-postmeddelanden.
+      * Ange profilerad domän - Gör att användare kan arbeta med profileringsdomäner. Se: [Lägg till ytterligare en profileringsdomän](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
 
 * E-postmall för åtkomst
 
@@ -220,5 +218,3 @@ Administration av arbetsytan
 
 * Administratörsåtkomst för en viss arbetsyta (endast om du har aktiverat Arbetsytor)
 * Flytta resurser mellan arbetsytor (endast om du har aktiverat arbetsytor)
-
-Access Mobile Application
