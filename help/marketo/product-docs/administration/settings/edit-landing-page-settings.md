@@ -3,7 +3,7 @@ unique-page-id: 2359918
 description: Redigera inställningar för landningssida - Marketo Docs - Produktdokumentation
 title: Redigera inställningar för landningssida
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Du kan redigera ditt domännamn och din reservsida, aktivera eller inaktivera f�
    | Villkor | Definition |
    |---|---|
    | Domännamn för landningssidor | Det här är din CNAME. En CNAME är den första delen av den URL som du ger personer för landningssidor. I `http://go.yourCompany.com` är till exempel ordet &quot;go&quot; CNAME. Du kan ha flera, men de flesta använder bara den. |
-   | Reservsida | Det är här du ska gå om landningssidan inte finns eller är nere. Läs mer om [reservsidor](set-a-fallback-page.md). |
+   | Reservsida | Det är här du ska gå om landningssidan inte finns eller är nere. Läs mer om [reservsidor](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
    | Hemsida | Ange företagets webbplats-URL. |
 
    ![](assets/three.png)
@@ -56,4 +56,3 @@ Du kan redigera ditt domännamn och din reservsida, aktivera eller inaktivera f�
    ![](assets/six.png)
 
    Bra jobbat! Dina landningssidor har nu rätt information och bör börja fungera direkt.
-
