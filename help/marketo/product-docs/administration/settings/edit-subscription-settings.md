@@ -3,7 +3,7 @@ unique-page-id: 10099785
 description: Redigera prenumerationsinställningar - Marketo Docs - Produktdokumentation
 title: Redigera prenumerationsinställningar
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -36,4 +36,3 @@ Om du till exempel arbetar i både produktion och sandlådeinstanser kan du namn
    ![](assets/image2016-5-24-10-3a40-3a6.png)
 
    Ta-da! Din prenumeration har ett nytt namn.
-
