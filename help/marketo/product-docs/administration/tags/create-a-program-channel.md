@@ -3,9 +3,9 @@ unique-page-id: 2950682
 description: Skapa en programkanal - Marketo Docs - Produktdokumentation
 title: Skapa en programkanal
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Ett program är ett specifikt marknadsföringsinitiativ. Kanalen är avsedd att 
 
 >[!NOTE]
 >
->**Djupdykning**
->
->Läs mer om [program](http://docs.marketo.com/display/docs/programs), det viktigaste elementet i Marketo.
+>Läs mer om [program](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), det viktigaste elementet i Marketo.
 
 1. Klicka på **Taggar** under **Admin**.
 
@@ -45,27 +43,20 @@ Ett program är ett specifikt marknadsföringsinitiativ. Kanalen är avsedd att 
    >
    >**Exempel**
    >
-   >
    >Kanal: Billboard
    >
-   >    
-   >    
-   >    * Använd för: Standard
-   >    * Progression: Medlem, engagerad (om du är osäker, så fungerar dessa bra)
-   >    * Slutfört: Engagerad
+   >* Använd för: Standard
+   >* Progression: Medlem, engagerad (om du är osäker, så fungerar dessa bra)
+   >* Slutfört: Engagerad
 
-   >    
-   >    
+   >
    >Kanal: Part
    >
-   >    
-   >    
-   >    * Använd för: Händelse
-   >    * Progression: Inbjuden, Registrerad, Inget bildspel och Deltar
-   >    * Slutfört: Anmäld
+   >* Använd för: Händelse
+   >* Progression: Inbjuden, Registrerad, Inget bildspel och Deltar
+   >* Slutfört: Anmäld
 
-   >    
-   >    
+   >
    >Kolla in Progressions of existing channel för att få en uppfattning om hur de används.
 
 1. Låt oss följa exemplet med partikanalen. Namnge din nya **kanal** och välj den programtyp som den ska användas för.
@@ -113,10 +104,7 @@ Ett program är ett specifikt marknadsföringsinitiativ. Kanalen är avsedd att 
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
-   >
-   >Endast personer med **Mobile Check-in-status**** **of **Registrerad** och **Deltar** visas i [apparna för mobilcheckning](http://docs.marketo.com/display/docs/events).
+   >Endast personer med **Mobile Check-in-status** av **Registrerad** och **Delad** visas i [apparna för mobilcheckning](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md).
 
    >[!TIP]
    >
@@ -127,4 +115,3 @@ Ett program är ett specifikt marknadsföringsinitiativ. Kanalen är avsedd att 
    ![](assets/image2014-9-24-15-3a42-3a54.png)
 
    Snyggt gjort! När du skapar ett nytt program av den typen är den nya kanalen ett av alternativen.
-
