@@ -3,9 +3,9 @@ unique-page-id: 2360309
 description: Förstå arbetsytor och personpartitioner - Marketo Docs - Produktdokumentation
 title: Arbetsytor och personpartitioner
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Arbetsytor kan vara komplicerade att konfigurera.  Kontakta [Marketo Support](http://support.marketo.com/) för att ta reda på om de passar dig.
+>Arbetsytor kan vara komplicerade att konfigurera. Kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) för att ta reda på om de passar dig.
 
 Arbetsytor är separata områden i Marketo som innehåller marknadsföringsresurser som program, landningssidor, e-post med mera. De kan användas av flera personer. Varje användare har tillgång till en eller flera arbetsytor.
 
@@ -36,9 +36,7 @@ I båda fallen beror separationen på att marknadsföringsresurserna är helt ol
 
 >[!NOTE]
 >
->**Djupdykning**
->
->Lär dig hur du skapar [en ny arbetsyta](create-a-new-workspace.md).
+>Lär dig hur du skapar [en ny arbetsyta](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
 
 ## Dela mellan arbetsytor {#sharing-across-workspaces}
 
@@ -78,8 +76,8 @@ Du kan dela dessa objekt mellan arbetsytor.
 * Mallar för landningssidor
 * Modeller
 * Smarta kampanjer
-* [Smarta listor](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
-* [Segmenteringar](share-segmentations-across-workspaces-and-partitions.md)
+* [Smarta listor](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
+* [Segmenteringar](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
 * Fragment
 
 ## Klona över arbetsytor {#cloning-across-workspaces}
@@ -105,7 +103,7 @@ Om du vill flytta resurser till en ny arbetsyta placerar du dem i en mapp och dr
 
 ## Personpartitioner {#person-partitions}
 
-Personpartitioner fungerar som separata databaser. Varje partition har sina egna personer som inte avduplicerar eller blandar med andra partitioner. Om du tror att du har ett affärsärende som kan göra det nödvändigt att ha dubblettposter med samma e-postadress kontaktar du [Marketo Support](http://support.marketo.com).
+Personpartitioner fungerar som separata databaser. Varje partition har sina egna personer som inte avduplicerar eller blandar med andra partitioner. Om du tror att du har ett affärsärende som kan göra det nödvändigt att ha dubblettposter med samma e-postadress kontaktar du [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 Du kan tilldela personpartitioner till [arbetsytor](create-a-new-workspace.md) i följande konfigurationer:
 
@@ -115,15 +113,10 @@ Du kan tilldela personpartitioner till [arbetsytor](create-a-new-workspace.md) i
 
 >[!NOTE]
 >
->**Exempel**
->
 >Orsaker till att du använder en personpartition:
 >
 >* Dina arbetsytor har inte bara olika resurser, de delar inga personer
 >* Du vill ha dubbletter av andra affärsskäl
-
->
-
 
 
 >[!CAUTION]
@@ -132,7 +125,4 @@ Du kan tilldela personpartitioner till [arbetsytor](create-a-new-workspace.md) i
 
 >[!NOTE]
 >
->**Djupdykning**
->
-> Lär dig hur du [skapar en personpartition](create-a-person-partition.md).
-
+>Lär dig hur du [skapar en personpartition](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md).
