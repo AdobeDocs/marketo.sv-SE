@@ -3,9 +3,9 @@ unique-page-id: 2360315
 description: Skapa en personpartition - Marketo Docs - Produktdokumentation
 title: Skapa en personpartition
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,13 @@ Skapa en ny personpartition enligt dessa steg.
 
 >[!NOTE]
 >
->**Djupdykning**
->
->Förstå först arbetsytor och personpartitioner[.](understanding-workspaces-and-person-partitions.md)
+>Förstå först arbetsytor och personpartitioner](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).[
 
 >[!CAUTION]
 >
->Personpartitioner kan vara komplexa. Kontakta [Marketo support](http://support.marketo.com/) om du behöver hjälp med att konfigurera dem.
+>Personpartitioner kan vara komplexa. Kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) om du behöver hjälp med att konfigurera dem.
 
-1. Under Admin väljer du Arbetsytor och partitioner.
+1. Under Admin väljer du **Arbetsytor och partitioner**.
 
 ![](assets/image2014-9-17-11-3a32-3a12.png)
 
@@ -37,7 +35,7 @@ Skapa en ny personpartition enligt dessa steg.
 
    ![](assets/two-2.png)
 
-1. Namnge partitionen, välj **arbetsytan/arbetsytorna** där den ska visas och klicka på&#x200B;**Skapa.**
+1. Namnge partitionen, välj **arbetsytan** där den ska visas och klicka på **Skapa**.
 
    ![](assets/three-2.png)
 
@@ -46,4 +44,3 @@ Skapa en ny personpartition enligt dessa steg.
    ![](assets/four-2.png)
 
    Där har du den! Nu vet du hur man skapar en personpartition.
-
