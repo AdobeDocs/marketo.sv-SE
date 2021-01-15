@@ -3,7 +3,7 @@ unique-page-id: 2359906
 description: Hantera Marketo-användare - Marketo Docs - Produktdokumentation
 title: Hantera Marketo-användare
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
@@ -23,11 +23,9 @@ ht-degree: 0%
 
    ![](assets/image2014-9-9-11-3a35-3a15.png)
 
-1. Ange **e-postadress**, **Förnamn** och **Efternamn. **
+1. Ange **e-postadress**, **Förnamn** och **Efternamn**.
 
-   ** ![](assets/image2016-5-24-9-3a45-3a30.png)
-
-   **
+   ![](assets/image2016-5-24-9-3a45-3a30.png)
 
 1. Du kan också ange en orsak till inbjudan och välja ett förfallodatum i fältet **Åtkomst förfaller** med datumväljaren.
 
@@ -45,7 +43,7 @@ ht-degree: 0%
    >
    >När förfallodatumet inkommer får användaren ett meddelande om förfallodatum och kontot är låst.
 
-1. Välj **Roll **och klicka på **Nästa**.
+1. Välj **Roll** och klicka på **Nästa**.
 
    ![](assets/image2016-5-24-10-3a1-3a33.png)
 
@@ -67,29 +65,29 @@ Den nya användaren visas nu på fliken Användare och får ett e-postmeddelande
 
 ## Ta bort användare {#delete-users}
 
-1. Gå till Admin och klicka på Användare och roller.
+1. Gå till Admin och klicka på **Användare och roller**.
 
    ![](assets/image2014-9-9-11-3a36-3a21.png)
 
-1. Markera den användare som du vill ta bort och klicka på Ta bort användare.
+1. Markera den användare som du vill ta bort och klicka på **Ta bort användare**.
 
    ![](assets/image2014-9-9-11-3a36-3a36.png)
 
-1. Bekräfta genom att klicka på OK.
+1. Bekräfta genom att klicka på **OK**.
 
    ![](assets/image2014-9-9-11-3a36-3a51.png)
 
 ## Återställ användarlösenord {#reset-user-passwords}
 
-1. Gå till Admin och klicka på Användare och roller.
+1. Gå till Admin och klicka på **Användare och roller**.
 
    ![](assets/image2014-9-9-11-3a41-3a0.png)
 
-1. Markera en användare och klicka på Återställ lösenord.
+1. Markera en användare och klicka på **Återställ lösenord**.
 
    ![](assets/image2014-9-9-11-3a41-3a19.png)
 
-1. Klicka på Stäng för att stänga meddelandet.
+1. Klicka på **Stäng** för att stänga frågan.
 
    ![](assets/image2014-9-9-11-3a41-3a50.png)
 
