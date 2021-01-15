@@ -3,7 +3,7 @@ unique-page-id: 2360211
 description: Aktivera avancerad behörighet för listimport för en roll - Marketo Docs - Produktdokumentation
 title: Aktivera importeringsbehörighet för avancerad lista för en roll
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Listimportläget är endast tillgängligt för användare med en roll där behö
 
    ![](assets/image2014-9-17-11-3a50-3a38.png)
 
-1. Under fliken **Roller **väljer du den roll du vill ändra och klickar på **Redigera roll**.
+1. Under fliken **Roller** väljer du den roll du vill ändra och klickar på **Redigera roll**.
 
    ![](assets/image2014-9-17-11-3a51-3a49.png)
 
