@@ -3,9 +3,9 @@ unique-page-id: 2360325
 description: Tillåt användaråtkomst till en arbetsyta - Marketo Docs - Produktdokumentation
 title: Tillåt användaråtkomst till en arbetsyta
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,13 @@ Arbetsytor kan vara av vilken anledning som helst (t.ex. affärsenhet eller geog
 
 >[!NOTE]
 >
->**Djupdykning**
->
->Läs mer om [arbetsytor](understanding-workspaces-and-person-partitions.md).
+>Läs mer om [arbetsytor](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. Klicka på Användare och roller under Administratör.
 
 ![](assets/image2014-9-17-11-3a2-3a32.png)
 
-1. Under fliken **Användare **väljer du användaren och klickar på **Redigera användare**.
+1. Under fliken **Användare** markerar du användaren och klickar på **Redigera användare**.
 
    ![](assets/image2014-9-17-11-3a2-3a46.png)
 
@@ -45,5 +43,4 @@ Arbetsytor kan vara av vilken anledning som helst (t.ex. affärsenhet eller geog
 
    ![](assets/image2014-9-17-11-3a3-3a31.png)
 
-   Bra! När de loggar in ser de alla arbetsytor du gett dem åtkomst till.
-
+Bra! När de loggar in ser de alla arbetsytor du gett dem åtkomst till.
