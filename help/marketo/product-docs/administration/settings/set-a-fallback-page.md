@@ -3,7 +3,7 @@ unique-page-id: 2359920
 description: Ange en reservsida - Marketo Docs - Produktdokumentation
 title: Ange en återställningssida
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
