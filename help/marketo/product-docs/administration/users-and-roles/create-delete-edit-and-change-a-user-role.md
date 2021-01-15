@@ -3,9 +3,9 @@ unique-page-id: 2360198
 description: Skapa, ta bort, redigera och ändra en användarroll - Marketo Docs - Produktdokumentation
 title: Skapa, ta bort, redigera och ändra en användarroll
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## Skapa en roll {#create-a-role}
 
-1. Gå till **Admin **och klicka på **Användare och roller**.
+1. Gå till **Admin** och klicka på **Användare och roller**.
 
    ![](assets/image2014-9-16-13-3a29-3a48.png)
 
-1. Gå till fliken** Roller** och klicka på **Ny roll**.
+1. Gå till fliken **Roller** och klicka på **Ny roll**.
 
    ![](assets/image2014-9-16-13-3a30-3a0.png)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
 ## Ta bort en roll {#delete-a-role}
 
-1. Under Admin,** **klickar du på **Användare och roller**.
+1. Under **Admin** klickar du på **Användare och roller**.
 
    ![](assets/image2014-9-16-13-3a31-3a42.png)
 
-1. Välj en roll under fliken **Roller **och klicka på **Ta bort roll**.
+1. Under fliken **Roller** markerar du en roll och klickar på **Ta bort roll**.
 
    ![](assets/image2014-9-16-13-3a31-3a56.png)
 
@@ -61,11 +61,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-3a34-3a2.png)
 
-1. Klicka på fliken **Roller **.
+1. Klicka på fliken **Roller**.
 
    ![](assets/image2014-9-16-13-3a34-3a22.png)
 
-1. Välj den roll du vill redigera och klicka på** Redigera roll**.
+1. Markera rollen som du vill redigera och klicka på **Redigera roll**.
 
    ![](assets/image2014-9-16-13-3a34-3a37.png)
 
@@ -79,7 +79,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Vill du uppdatera kontots e-postadress? [Läs mer här](http://docs.marketo.com/x/3wFI).
+   >Vill du uppdatera kontots e-postadress? [Läs mer här](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
 
 ## Ändra en användares roll {#change-a-users-role}
 
@@ -98,5 +98,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >Om du låter flera roller vara markerade, används Marketo som standard för den mest restriktiva behörigheten.
-
-Häftig, nu är du verkligen på rulle!  (Hämta den?)
