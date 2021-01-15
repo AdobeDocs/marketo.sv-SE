@@ -3,9 +3,9 @@ unique-page-id: 6095047
 description: Redigera "Do Not Track" Browser Support Settings - Marketo Docs - Produktdokumentation
 title: Redigera inställningar för stöd för Do Not Track-webbläsare
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >&quot;Spåra inte&quot; kommer att anges till Ignorera som standard, så om det är det du vill ha behöver du inte vidta några åtgärder.
 
-1. Klicka på** Admin**.
+1. Klicka på **Admin**.
 
    ![](assets/one.png)
 
@@ -36,7 +36,8 @@ ht-degree: 0%
    ![](assets/three-2.png)
 
 1. Välj **Support** och klicka på **Spara**.
-1. ![](assets/four-1.png)
+
+   ![](assets/four-1.png)
 
    När du har sparat ändringarna visas uppdateringen.
 
@@ -49,4 +50,3 @@ ht-degree: 0%
    >[!TIP]
    >
    >Mer information om Do Not Track (Spåra inte) och hur det fungerar finns på [den här sidan](https://en.wikipedia.org/wiki/Do_Not_Track).
-
