@@ -3,7 +3,7 @@ unique-page-id: 2360307
 description: Aktivera eller inaktivera funktioner för skatteschest - Marketo Docs - Produktdokumentation
 title: Aktivera eller inaktivera funktioner för skatteschest
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Treasure Chest innehåller roliga experimentella funktioner som inte stöds full
 >
 >**Administratörsbehörigheter krävs**
 
-1. Under **Admin **klickar du på **Skattekontroll**.
+1. Under **Admin** klickar du på **Resursschema**.
 
    ![](assets/image2014-9-16-17-3a0-3a36.png)
 
@@ -33,6 +33,4 @@ Treasure Chest innehåller roliga experimentella funktioner som inte stöds full
 
    >[!TIP]
    >
-   >
    >Du kan behöva logga ut och sedan logga in på Markto igen för att se ändringarna börja gälla.
-
