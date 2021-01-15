@@ -3,9 +3,9 @@ unique-page-id: 2950660
 description: Skapa egna taggar - Marketo Docs - Produktdokumentation
 title: Skapa egna taggar
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Taggar hjälper dig att organisera dina program medan kanaler hjälper dig att s
 
 >[!NOTE]
 >
->**Djupdykning**
->
->Mer information finns i [Förstå taggar](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md).
+>Mer information finns i [Förstå taggar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md).
 
 >[!NOTE]
 >
