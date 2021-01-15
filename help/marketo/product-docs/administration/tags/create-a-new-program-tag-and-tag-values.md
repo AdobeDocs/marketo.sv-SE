@@ -3,7 +3,7 @@ unique-page-id: 2360272
 description: Skapa en ny programkod och taggvärden - Marketo Docs - Produktdokumentation
 title: Skapa en ny programtagg och taggvärden
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Administratörsbehörigheter krävs**
 
-Du kan skapa anpassade [taggar](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) för dina program och tilldela värden till taggen.
+Du kan skapa anpassade [taggar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) för dina program och tilldela värden till taggen.
 
 >[!NOTE]
 >
