@@ -3,9 +3,9 @@ unique-page-id: 10617187
 description: Understanding Privacy Settings - Marketo Docs - Product Documentation
 title: Sekretessinställningar
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Dessa metoder kan påverka Marketos värde och funktionalitet inom specifika omr
 
 Webbbesökarna kan ställa in sin webbläsare så att de inte kan spåras av någon webbplats genom att välja&quot;Do Not Track&quot; (DNT). Detta förhindrar spårning för just den webbläsaren och enheten. Mer information finns i webbläsarens sekretessinställningar.
 
-I Munchkin kan en marknadsförare [avgöra om webbläsarens DNT-inställning ska stödjas eller ignoreras.](edit-do-not-track-browser-support-settings.md)
+I Munchkin kan en marknadsförare [avgöra om webbläsarens DNT-inställning ska stödjas eller ignoreras.](/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
 
 Vid webbanpassning kan en marknadsförare bestämma om han/hon ska [ha stöd för eller ignorera webbläsarens DNT-inställning](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md).
 
@@ -76,5 +76,4 @@ Marknadsförarna kan skydda sin integritet genom att spåra användare med en an
 
 * För Webbanpassning (RTP) lägger du till detta i javascript-filen:
 
-anonymisera IP: innan du anropar rtp(&#39;send&#39;,&#39;view&#39;); add rtp(&#39;set&#39;, &#39;settings&#39;, {&#39;anonymizeIP&#39; : true});
-
+`anonymize IP : before calling rtp('send','view'); add rtp('set', 'settings', {'anonymizeIP' : true});`
