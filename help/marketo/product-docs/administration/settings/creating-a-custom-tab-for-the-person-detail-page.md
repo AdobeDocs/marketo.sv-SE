@@ -3,7 +3,7 @@ unique-page-id: 2360305
 description: Skapa en anpassad flik för personinformationssidan - Marketo Docs - Produktdokumentation
 title: Skapa en anpassad flik för personinformationssidan
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -35,10 +35,10 @@ Om du råkar leta efter en viss uppsättning fält i persondetaljen om och om ig
    >
    >Du har två kolumner att arbeta med.
 
-   Om du vill ta bort ett fält högerklickar du på det och klickar på Ta bort.
+   Om du vill ta bort ett fält högerklickar du på det och klickar på **Ta bort**.
+
    ![](assets/image2014-9-16-16-3a43-3a56.png)
 
    Fantastiskt arbete! När du nu läser in en persons information kan du använda din anpassade layout för att komma åt den information som är viktig för dig.
 
    ![](assets/six-1.png)
-
