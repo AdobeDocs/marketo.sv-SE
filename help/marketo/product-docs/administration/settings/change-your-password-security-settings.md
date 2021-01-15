@@ -3,9 +3,9 @@ unique-page-id: 2360185
 description: Ändra säkerhetsinställningarna för lösenord - Marketo Docs - Produktdokumentation
 title: Ändra lösenordsinställningarna
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,6 @@ Kontrollera lösenordsprincipen för din prenumeration. Så här gör du.
 
    >[!NOTE]
    >
-   >**Definition**
-   >
-   >
    >En mall är bara en färdig konfiguration. Standard är bra. Hög säkerhet är den starkaste. Med skräddarsydd kan du skapa din egen.
 
    ![](assets/passwordstrength.png)
@@ -42,11 +39,11 @@ Kontrollera lösenordsprincipen för din prenumeration. Så här gör du.
    >
    >I **Anpassad** markerar du rutorna för att ange vilka egenskaper du vill att användarna ska ta med när de skapar lösenord.
 
-1. Ange **Förfallotid**.** **Den här funktionen kräver automatiskt att användarna återställer sina lösenord efter en viss tid. Detta gäller även administratören.
+1. Ange **Förfallotid**. Den här funktionen kräver automatiskt att användarna återställer sina lösenord efter en viss tid. Detta gäller även administratören.
 
    >[!CAUTION]
    >
-   >Befintliga användare meddelas inte om ändringarna. Ställ in **Förfallotid **till 30 dagar först för att säkerställa att alla har uppdaterat till de nya inställningarna och ändra sedan tillbaka till den ursprungliga stängslan.
+   >Befintliga användare meddelas inte om ändringarna. Ange **Förfallotid** till 30 dagar för att säkerställa att alla har uppdaterat till de nya inställningarna och sedan ändra tillbaka till din ursprungliga stängsel.
 
    ![](assets/expiration.png)
 
@@ -55,4 +52,3 @@ Kontrollera lösenordsprincipen för din prenumeration. Så här gör du.
    ![](assets/inactivesession.png)
 
    Säkerhet är en seriös affär. Vi fick din rygg.
-
