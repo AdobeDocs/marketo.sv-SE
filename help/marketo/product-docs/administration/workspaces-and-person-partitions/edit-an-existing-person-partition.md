@@ -3,7 +3,7 @@ unique-page-id: 2360323
 description: Redigera en befintlig personpartition - Marketo Docs - Produktdokumentation
 title: Redigera en befintlig personpartition
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -21,11 +21,7 @@ En personpartition är som att ha en andra (eller tredje) databas. En partition 
 
 >[!PREREQUISITES]
 >
->* [Skapa en personpartition](create-a-person-partition.md)
-
->
-
-
+>[Skapa en personpartition](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
 
 1. Under **Admin** klickar du på **Arbetsytor och partitioner**.
 
@@ -35,7 +31,7 @@ En personpartition är som att ha en andra (eller tredje) databas. En partition 
 
    ![](assets/two-5.png)
 
-1. Ange personpartitionen **Namn**, **Arbetsytor **de tillhör och klicka på **Spara**.
+1. Ange personpartitionen **Namn**, de **arbetsytor** de tillhör och klicka på **Spara**.
 
    ![](assets/three-5.png)
 
@@ -43,9 +39,8 @@ En personpartition är som att ha en andra (eller tredje) databas. En partition 
 
    ![](assets/four-4.png)
 
-   Så där. En sådan kraftfull funktion verkar vara komplex, men det är den inte.
+Så där. En sådan kraftfull funktion verkar vara komplex, men det är den inte.
 
-   >[!CAUTION]
-   >
-   >Mät två gånger, en gång. Du vill inte tilldela en partition till fel arbetsyta.
-
+>[!CAUTION]
+>
+>Mät två gånger, en gång. Du vill inte tilldela en partition till fel arbetsyta.
