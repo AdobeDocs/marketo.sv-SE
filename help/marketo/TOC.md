@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketos produktdokumentation
 translation-type: tm+mt
-source-git-commit: d191e59d4ed96025194ebece423e905e3ac7a7d9
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '7840'
+source-wordcount: '7829'
 ht-degree: 0%
 
 ---
@@ -1120,7 +1120,6 @@ ht-degree: 0%
             + [Testa e-postmeddelandet visas inte som det visats](product-docs/marketo-sales-connect/email/common-tracking-questions/test-email-not-showed-as-viewed.md)
          + E-postleverans {#email-delivery}
             + [Översikt över leveranskanalen](product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
-            + [Konfigurera din SMTP-server för Outlook 365 med Sales Connect](product-docs/marketo-sales-connect/email/email-delivery/how-to-set-up-your-outlook365-smtp-server-with-sales-connect.md)
             + [Konfigurera en SMTP-server](product-docs/marketo-sales-connect/email/email-delivery/setting-up-an-smtp-server.md)
             + [Konfigurera leveranskanalen](product-docs/marketo-sales-connect/email/email-delivery/setting-up-your-delivery-channel.md)
          + Skicka ett e-postmeddelande {#send-a-sales-email}
