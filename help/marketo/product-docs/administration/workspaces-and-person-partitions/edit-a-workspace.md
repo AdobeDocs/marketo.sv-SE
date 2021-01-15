@@ -3,9 +3,9 @@ unique-page-id: 11380986
 description: Redigera en arbetsyta - Marketo Docs - Produktdokumentation
 title: Redigera en arbetsyta
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Ibland behöver du göra ändringar i en arbetsyta. Det är lätt.
 
 >[!NOTE]
 >
->**Djupdykning**
->
->Ta en titt på arbetsytorna med [Förstå arbetsytor och personpartitioner](understanding-workspaces-and-person-partitions.md).
+>Ta en titt på arbetsytorna med [Förstå arbetsytor och personpartitioner](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. Under **Admin** klickar du på **Arbetsytor och partitioner**.
 
@@ -37,25 +35,19 @@ Ibland behöver du göra ändringar i en arbetsyta. Det är lätt.
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
-   >
-   >Du kan [skapa fler personpartitioner](create-a-person-partition.md) om du behöver dem.
+   >Du kan [skapa fler personpartitioner](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) om du behöver dem.
 
    ![](assets/three-7.png)
 
    >[!NOTE]
    >
-   >Kryssrutan **Alla personpartitioner**** **betyder att den här arbetsytan kan använda alla huvudpartitioner i systemet.
+   >Kryssrutan **Alla personpartitioner** betyder att den här arbetsytan kan använda alla huvudpartitioner i systemet.
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
-   >
-   >Den primära partitionen** fungerar som standard och är den plats där alla personer tilldelas.
+   >**Den primära personpartitionen** fungerar som standard och är den plats där alla personer tilldelas.
 
-   Om du har aktiverat flera domäner kan du byta till en annan primär domäner. Klicka på Spara.
+   Om du har aktiverat flera domäner kan du byta till en annan primär domäner. Klicka på **Spara**.
 
    ![](assets/four-6.png)
 
@@ -65,10 +57,6 @@ Ibland behöver du göra ändringar i en arbetsyta. Det är lätt.
 
 >[!MORELIKETHIS]
 >
->* [Skapa en ny arbetsyta](create-a-new-workspace.md)
->* [Arbetsytor och personpartitioner](understanding-workspaces-and-person-partitions.md)
-
->
-
-
+>* [Skapa en ny arbetsyta](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
+>* [Arbetsytor och personpartitioner](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
 
