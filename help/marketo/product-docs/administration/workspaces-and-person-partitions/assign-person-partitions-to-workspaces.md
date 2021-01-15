@@ -3,9 +3,9 @@ unique-page-id: 2360317
 description: Tilldela personpartitioner till arbetsytor - Marketo Docs - Produktdokumentation
 title: Tilldela personpartitioner till arbetsytor
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ Så här redigerar du personliga partitioner/arbetsytetilldelningar:
 
 >[!PREREQUISITES]
 >
->[Skapa en ny arbetsyta](create-a-new-workspace.md)
+>[Skapa en ny arbetsyta](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
 
 >[!CAUTION]
 >
->Arbetsytor och personpartitioner kan vara komplexa. Kontakta [Marketo support](http://support.marketo.com/) om du behöver hjälp med att konfigurera dem.
+>Arbetsytor och personpartitioner kan vara komplexa. Kontakta [Marketo support](https://nation.marketo.com/t5/Support/ct-p/Support) om du behöver hjälp med att konfigurera dem.
 
-1. Klicka på Arbetsytor och partitioner under Admin.
+1. Klicka på **Arbetsytor och partitioner** under Admin.
 
 ![](assets/image2014-9-17-11-3a13-3a24.png)
 
@@ -43,7 +43,7 @@ Så här redigerar du personliga partitioner/arbetsytetilldelningar:
 
    ![](assets/three-3.png)
 
-   Primära personpartitioner är standardinställningen där alla personer ska anges. Använd [flödessteg](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) eller [tilldelningsregler](assigning-person-partitions-with-assignment-rules.md) för att flytta personer.
+   Primära personpartitioner är standardinställningen där alla personer ska anges. Använd [flödessteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) eller [tilldelningsregler](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md) för att flytta personer.
 
 1. Klicka på **Spara**.
 
@@ -53,11 +53,8 @@ Så här redigerar du personliga partitioner/arbetsytetilldelningar:
 
    ![](assets/image2014-9-17-11-3a14-3a53.png)
 
-   Grattis! Arbetsytan har redigerats!
+Grattis! Arbetsytan har redigerats!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Djupdykning**
->
->[Arbetsytor och personpartitioner](understanding-workspaces-and-person-partitions.md).
-
+>[Arbetsytor och personpartitioner](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
