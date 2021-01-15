@@ -3,9 +3,9 @@ unique-page-id: 2359916
 description: Ändra ditt Marketo-lösenord - Marketo-dokument - Produktdokumentation
 title: Ändra ditt Marketo-lösenord
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-10-9-3a43-3a47.png)
 
-1. Ange det gamla lösenordet och det nya lösenordet och klicka sedan på **Spara **när det nya lösenordet uppfyller alla krav.
+1. Ange det gamla lösenordet och det nya lösenordet och klicka sedan på **Spara** när det nya lösenordet uppfyller alla krav.
 
    ![](assets/image2014-9-10-9-3a44-3a2.png)
 
@@ -31,5 +31,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Vad är ett bra lösenord? Något långt med många bokstäver, siffror och symboler som &quot; [[e-postskyddat]](http://docs.marketo.com/cdn-cgi/l/email-protection) !$ [[e-postskyddad]](http://docs.marketo.com/cdn-cgi/l/email-protection)&quot;. Förutom den där. Var kreativ och gör din egen.
-
+   >Vad är ett bra lösenord? En hel del bokstäver, siffror och symboler som &quot;M@rk3to!$ Gre@t&quot;. Förutom den där. Var kreativ och gör din egen.
