@@ -3,9 +3,9 @@ unique-page-id: 2359904
 description: Välj språk, språk och tidszon - Marketo Docs - Produktdokumentation
 title: Välj språk, språk och tidszon
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -26,15 +26,15 @@ Engelska är inte ditt första språk? Oroa dig inte, vi har dig täckt. Så hä
 
 ## Ändra användarspråk, nationella inställningar och tidszon {#change-user-language-locale-and-time-zone}
 
-1. Logga in på Marketo och välj Mitt konto under ditt namn.
+1. Logga in på Marketo och välj **Mitt konto** under ditt namn.
 
    ![](assets/myaccount.png)
 
-1. Klicka på Redigera platsinställningar under Mitt konto.
+1. Klicka på **Redigera platsinställningar** under Mitt konto.
 
    ![](assets/image2014-9-9-11-3a9-3a47.png)
 
-1. Ändra språk.
+1. Ändra **språk**.
 
    ![](assets/image2014-9-9-11-3a10-3a4.png)
 
@@ -42,15 +42,15 @@ Engelska är inte ditt första språk? Oroa dig inte, vi har dig täckt. Så hä
    >
    >Du kan också ändra enbart ditt språk genom att klicka på listrutan för språk högst upp på inloggningssidan.
 
-1. Ändra språkområde.
+1. Ändra din **språkversion**.
 
    ![](assets/image2014-9-9-11-3a10-3a29.png)
 
-1. Ändra tidszonen.
+1. Ändra din **tidszon**.
 
    ![](assets/image2014-9-9-11-3a10-3a56.png)
 
-1. Klicka på Spara.
+1. Klicka på **Spara**.
 
    ![](assets/image2014-9-9-11-3a11-3a18.png)
 
