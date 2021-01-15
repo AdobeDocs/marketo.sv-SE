@@ -3,7 +3,7 @@ unique-page-id: 2360274
 description: Hantera taggvärden - Marketo Docs - Produktdokumentation
 title: Hantera taggvärden
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Hantera taggvärden {#managing-tag-values}
 
-[Taggar ](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) används för att beskriva program. Ni kan skapa så många ni behöver, var och en med unika värden. Så här hanterar du dessa värden.
+[Taggar ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) används för att beskriva program. Ni kan skapa så många ni behöver, var och en med unika värden. Så här hanterar du dessa värden.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Skapa en ny programtagg och taggvärden](create-a-new-program-tag-and-tag-values.md)
+>[Skapa en ny programtagg och taggvärden](/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
 
 ## Lägga till taggvärden {#adding-tag-values}
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-12-3a24-3a55.png)
 
-1. Klicka på** Ny** och **Nytt taggvärde**.
+1. Klicka på **Nytt** och **Nytt taggvärde**.
 
    ![](assets/image2014-9-24-12-3a25-3a23.png)
 
@@ -47,13 +47,13 @@ ht-degree: 0%
 
 1. Du borde se ändringarna direkt!
 
-![](assets/image2014-9-24-12-3a27-3a34.png)
+   ![](assets/image2014-9-24-12-3a27-3a34.png)
 
 ## Döljer taggvärden {#hiding-tag-values}
 
 Taggar kan användas i äldre program. Du kan ta bort dem för framtida bruk genom att dölja taggtypen.
 
-1. Markera den** ****tagg** och välj det **värde** som du vill dölja.
+1. Markera **taggen** och välj **värdet** som du vill dölja.
 
    ![](assets/image2014-9-24-12-3a28-3a25.png)
 
@@ -69,5 +69,4 @@ Om du vill se dina dolda värden igen gör du följande:
 
    ![](assets/image2014-9-24-12-3a29-3a58.png)
 
-   Du kan sedan visa de värden som du vill använda i framtiden.
-
+Du kan sedan visa de värden som du vill använda i framtiden.
