@@ -3,7 +3,7 @@ unique-page-id: 4719071
 description: Redigera kontoinställningar - Marketo Docs - Produktdokumentation
 title: Redigera kontoinställningar
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
@@ -36,4 +36,3 @@ Behöver du ändra kontots e-postadress, namn eller telefonnummer? Läs mer neda
    ![](assets/image2015-6-23-15-3a20-3a16.png)
 
    Ta-da! Informationen har uppdaterats.
-
