@@ -3,9 +3,9 @@ unique-page-id: 2359909
 description: Hantera användarroller och behörigheter - Marketo Docs - Produktdokumentation
 title: Hantera användarroller och behörigheter
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '473'
 ht-degree: 0%
 
 ---
@@ -23,17 +23,17 @@ En marknadsföringsanvändare behöver till exempel vanligtvis bred åtkomst i h
 
 Marketo har flera inbyggda roller med olika åtkomstnivåer:
 
-* **Admin **- Alla delar av programmet, inklusive avsnittet Admin
-* **Standardanvändare **- alla delar av programmet, utom administrationsavsnittet
+* **Administratör**  - alla delar av programmet, inklusive avsnittet Administratör
+* **Standardanvändare**  - alla delar av programmet, utom avsnittet Admin
 * **Marknadsföringsanvändare**  - alla delar av programmet, utom administratörsavsnittet
-* **Web Designer **- endast Design Studio
-* **Analytics User **- only the Analytics section
+* **Web Designer**  - endast Design Studio
+* **Analytics-användare**  - endast Analytics-avsnittet
 
 Du kan inte redigera rollerna Admin och Standard User, men du kan redigera de andra. Du kan också skapa nya anpassade roller som matchar de särskilda organisationsstrukturerna i ditt företag.
 
 ## Tilldela roller till en användare {#assign-roles-to-a-user}
 
-Du kan tilldela roller till en användare när du [skapar användare för första gången](http://docs.marketo.com/display/DOCS/Create%2C+Delete%2C+Edit+and+Change+a+User+Role) eller genom att [redigera en befintlig användare](managing-marketo-users.md).
+Du kan tilldela roller till en användare när du [skapar användare för första gången](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) eller genom att [redigera en befintlig användare](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
 
 1. Om du vill redigera en befintlig användare går du till **Admin** och klickar på **Användare och roller**.
 
@@ -49,25 +49,25 @@ Du kan tilldela roller till en användare när du [skapar användare för först
 
    >[!NOTE]
    >
-   >Mer information om de olika rollerna finns i [Beskrivningar av rollbehörigheter](managing-user-roles-and-permissions/descriptions-of-role-permissions.md).
+   >Mer information om de olika rollerna finns i [Beskrivningar av rollbehörigheter](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md).
 
 ## Skapa en ny roll {#create-a-new-role}
 
 Ibland har din organisation mycket specifika medarbetare som kräver en anpassad kombination av behörigheter.
 
-1. Om du vill skapa en ny användarroll går du till Admin och klickar på Användare och roller.
+1. Om du vill skapa en ny användarroll går du till Admin och klickar på **Användare och roller**.
 
    ![](assets/image2014-9-9-18-3a8-3a12.png)
 
-1. Klicka på fliken Roller.
+1. Klicka på fliken **Roller**.
 
    ![](assets/image2014-9-9-18-3a8-3a22.png)
 
-1. Klicka på Ny roll.
+1. Klicka på **Ny roll**.
 
    ![](assets/image2014-9-9-18-3a8-3a38.png)
 
-1. Ange ett rollnamn, en beskrivning (valfritt) och välj de behörigheter som användare i den här rollen behöver.
+1. Ange ett **rollnamn**, en **beskrivning** (valfritt) och välj de behörigheter som användare i den här rollen behöver.
 
    ![](assets/image2014-9-9-18-3a9-3a3.png)
 
@@ -79,7 +79,7 @@ Om du behöver ändra behörigheterna som är kopplade till en befintlig roll ka
 
    ![](assets/image2014-9-9-18-3a9-3a15.png)
 
-1. Klicka på fliken **Roller **.
+1. Klicka på fliken **Roller**.
 
    ![](assets/image2014-9-9-18-3a9-3a26.png)
 
@@ -87,7 +87,7 @@ Om du behöver ändra behörigheterna som är kopplade till en befintlig roll ka
 
    ![](assets/image2014-9-9-18-3a9-3a40.png)
 
-1. Ändra **rollnamnet** och **Beskrivning **om det behövs, och ändra sedan urvalet av associerade **behörigheter**.
+1. Ändra **rollnamnet** och **Beskrivning** om det behövs och ändra sedan urvalet av associerade **behörigheter**.
 
    ![](assets/image2014-9-9-18-3a10-3a3.png)
 
@@ -99,28 +99,18 @@ Om du behöver ändra behörigheterna som är kopplade till en befintlig roll ka
 
 Om en roll blir onödig kan du ta bort den.
 
-1. Gå till Admin och klicka på Användare och roller.
+1. Gå till Admin och klicka på **Användare och roller**.
 
    ![](assets/image2014-9-9-18-3a10-3a15.png)
 
-1. Klicka på fliken Roller.
+1. Klicka på fliken **Roller**.
 
    ![](assets/image2014-9-9-18-3a10-3a27.png)
 
-1. I listan markerar du den roll du vill ta bort och klickar på Ta bort roll.
+1. I listan markerar du den roll du vill ta bort och klickar på **Ta bort roll**.
 
    ![](assets/image2014-9-9-18-3a10-3a39.png)
 
-1. Bekräfta genom att klicka på Ta bort.
+1. Bekräfta genom att klicka på **Ta bort**.
 
    ![](assets/image2014-9-9-18-3a10-3a50.png)
-
->[!MORELIKETHIS]
->
->Läs mer om hur du skapar ytterligare användare och tilldelar dem roller i [Komma igång med Marketo](../../../getting-started.md).
-
->[!NOTE]
->
->**Djupdykning**
->
->Lär dig mer om andra administrativa uppgifter i djupet [Admin](http://docs.marketo.com/display/docs/administration).
