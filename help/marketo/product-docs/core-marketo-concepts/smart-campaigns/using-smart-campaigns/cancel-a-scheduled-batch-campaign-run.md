@@ -3,9 +3,9 @@ unique-page-id: 1147058
 description: Avbryt en schemalagd batchkampanjkörning - Marketo Docs - Produktdokumentation
 title: Avbryt en schemalagd batchkampanjkörning
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -15,20 +15,18 @@ ht-degree: 0%
 
 Om du har schemalagt en körning för en av dina gruppkampanjer och vill avbryta den, så här gör du.
 
-1. Välj kampanjen och gå till fliken Schema.
+1. Markera kampanjen och gå till fliken **Schedule**.
 
    ![](assets/image2014-9-22-16-3a43-3a10.png)
 
-1. Leta reda på den schemalagda körning som du vill avbryta och klicka på x bredvid den.
+1. Hitta den schemalagda körning som du vill avbryta och klicka på **x** bredvid den.
 
    ![](assets/image2014-9-22-16-3a43-3a15.png)
 
-1. Bekräfta annulleringen genom att klicka på OK.
+1. Bekräfta annulleringen genom att klicka på **OK**.
 
    ![](assets/image2014-9-22-16-3a43-3a24.png)
 
 >[!NOTE]
 >
 >Detta är inte till någon hjälp om körningen redan har startat. Använd det här alternativet när du bestämmer att en framtida körning måste avbrytas.
-
-Snyggt!
