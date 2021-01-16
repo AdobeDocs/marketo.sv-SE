@@ -3,9 +3,9 @@ unique-page-id: 7514898
 description: Konfigurera en utlösare smart kampanj för försäljning med"Campaign is Requested" - Marketo Docs - Produktdokumentation
 title: Konfigurera en utlösare smart kampanj för försäljning med"Campaign is Requested"
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -16,8 +16,6 @@ ht-degree: 0%
 En av de coolaste funktionerna i Marketo är möjligheten att låta säljarna delta i marknadsföringen. De är på framsidan och interagerar med människor. Säljarna bör kunna styra marknadsföringen i rätt riktning.
 
 >[!NOTE]
->
->**Exempel**
 >
 >Exempel på smarta kampanjer att begära:
 >
@@ -32,7 +30,7 @@ Var kreativ. Vad vill säljaren automatisera? Fråga dem bara och vrida upp den!
 
    ![](assets/image2015-5-20-16-3a3-3a25.png)
 
-1. Sök och dra **kampanj** **är** **Begärd **till arbetsytan.
+1. Sök och dra **Kampanjen är begärd** till arbetsytan.
 
    ![](assets/campaignfilterdrag.png)
 
@@ -41,7 +39,6 @@ Var kreativ. Vad vill säljaren automatisera? Fråga dem bara och vrida upp den!
    >[!TIP]
    >
    >Källoperatorerna är av säkerhetsskäl. Du kan begränsa kampanjen till förfrågningar som bara görs av specifika källor, som andra smarta kampanjer eller utvecklare. Välj **Är någon** i den första rutan om du vill tillåta begäranden från alla källor.
-   >
    >
    >**Kom ihåg** att genom att välja Sales Insight visas det magiskt i kartongen för försäljning. Överdriv det inte. För många kommer att ignoreras av dem.
 
@@ -52,4 +49,3 @@ Detta är ett bra sätt att utöka er marknadsföringsräckvidd till andra avdel
 >[!TIP]
 >
 >Glöm inte att tydligt namnge era smarta kampanjer. De visas i Sales Insight exakt hur du namnger dem.
-
