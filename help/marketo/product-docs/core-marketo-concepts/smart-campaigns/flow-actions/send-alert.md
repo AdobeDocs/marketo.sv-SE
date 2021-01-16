@@ -3,9 +3,9 @@ unique-page-id: 1146958
 description: Skicka varning - Marketo Docs - Produktdokumentation
 title: Skicka avisering
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -27,8 +27,6 @@ Marketo kan skicka ett e-postmeddelande med personinformation till vem som helst
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
    >Din e-postavisering måste innehålla all rubrikinformation och vara i läget **Godkänd**.
 
 1. Du kan klicka på förhandsgranskningsikonen för att kontrollera att du har valt rätt e-postadress.
@@ -36,8 +34,6 @@ Marketo kan skicka ett e-postmeddelande med personinformation till vem som helst
    ![](assets/three-1.png)
 
    >[!NOTE]
-   >
-   >**Påminnelse**
    >
    >Var noga med att använda token **Skicka varningsinformation** i ditt e-postmeddelande.
 
@@ -57,5 +53,4 @@ Så ja! Nu vet du hur du använder flödessteget **Skicka varning**.
 
 >[!MORELIKETHIS]
 >
->[Skapa ett e-postmeddelande](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
-
+>[Skapa ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
