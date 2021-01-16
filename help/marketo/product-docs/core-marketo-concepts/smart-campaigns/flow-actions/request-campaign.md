@@ -3,7 +3,7 @@ unique-page-id: 2951703
 description: Begär kampanj - Marketo Docs - Produktdokumentation
 title: Begär kampanj
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Du kan placera personer i en viss kampanj genom att använda det enkla flödesst
 
 >[!NOTE]
 >
->Kampanjen som du placerar personen i måste vara aktiv och ha utlösaren ** [Kampanjen är begärd](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)**.
+>Kampanjen som du placerar personen i måste vara aktiv och ha utlösaren **[Kampanjen är begärd](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)**.
 
 1. I **Databas** söker du efter och väljer önskad person/personer.
 
@@ -44,4 +44,3 @@ Du kan placera personer i en viss kampanj genom att använda det enkla flödesst
 >[!TIP]
 >
 >Använd utlösaren eller filtret **Kampanjen är begärd** för att hitta personer som påverkas av det här flödessteget.
-
