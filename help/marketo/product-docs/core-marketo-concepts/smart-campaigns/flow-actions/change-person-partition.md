@@ -3,9 +3,9 @@ unique-page-id: 1147078
 description: Change Person Partition - Marketo Docs - Produktdokumentation
 title: Ändra personpartition
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Översikt {#overview}
 
-Om du använder [arbetsytor och partitioner](http://docs.marketo.com/x/9QMk) bör du skapa smarta kampanjer för att flytta personer från en partition till en annan.
+Om du använder [arbetsytor och partitioner](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md) bör du skapa smarta kampanjer för att flytta personer från en partition till en annan.
 
 ![](assets/one-3.png)
 
