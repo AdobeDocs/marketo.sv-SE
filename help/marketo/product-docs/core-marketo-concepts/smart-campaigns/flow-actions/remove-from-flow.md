@@ -3,9 +3,9 @@ unique-page-id: 1147084
 description: Ta bort från flöde - Marketo Docs - Produktdokumentation
 title: Ta bort från flöde
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,4 @@ Hitta och välj den smarta kampanj som du vill ta bort personer från.
 
 >[!NOTE]
 >
->**Påminnelse**
->
 >Den här funktionen är avsedd att användas i flödesstegen i en smart kampanj.
-
