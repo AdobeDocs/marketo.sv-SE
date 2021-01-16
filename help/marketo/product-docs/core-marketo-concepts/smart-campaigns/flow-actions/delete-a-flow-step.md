@@ -3,9 +3,9 @@ unique-page-id: 1146987
 description: Ta bort ett flödessteg - Marketo Docs - Produktdokumentation
 title: Ta bort ett flödessteg
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Om du tar bort flödessteg, *speciellt väntesteg* från aktiva smarta kampanjer, kan det få oväntade resultat. **Läs den här artikeln noggrant.**
+>Om du tar bort flödessteg, _speciellt väntesteg_ från aktiva smarta kampanjer, kan det få oväntade resultat. **Läs den här artikeln noggrant.**
 
 Först gör vi grunderna. Så här tar du bort ett oönskat flödessteg från en smart kampanj. 1. Klicka på X-ikonen i det smarta kampanjflödet för att ta bort eventuella flödessteg.
 
@@ -40,7 +40,7 @@ Först gör vi grunderna. Så här tar du bort ett oönskat flödessteg från en
    1. **Aldrig sprang.** Gör alla ändringar du vill. Det kommer inte att påverka någon förrän ni genomför kampanjen.
    1. **Är en återkommande smart kampanj.** Ändringarna kommer att påverka andra användare i framtiden, inte i tidigare körningar.
    1. **Kördes redan UTAN väntesteg.** Ingen kommer att påverkas eftersom kampanjen är vilande efter att ha körts.
-   1. **Kör just nu.** Ändringar kan orsaka oväntat beteende beroende på tidpunkten och informationen för borttagningen. Vi rekommenderar att du INTE redigerar en batchkampanj som aktivt körs. Lär dig hur du avbryter en smart kampanj[ som körs i nödfall.](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)
+   1. **Kör just nu.** Ändringar kan orsaka oväntat beteende beroende på tidpunkten och informationen för borttagningen. Vi rekommenderar att du INTE redigerar en batchkampanj som aktivt körs. Lär dig hur du avbryter en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) som körs i nödfall.[
 
    1. **Kördes redan med väntesteg.** Flera detaljer om den här.\
       När en person går in i ett vänteläge sänker personen längden och anger vilket NUMBER-STEG han/hon ska gå tillbaka till. Se exemplet nedan.
@@ -54,13 +54,10 @@ Först gör vi grunderna. Så här tar du bort ett oönskat flödessteg från en
    >
    >**Exempel**
    >
-   >    
-   >    
    >1. En smart kampanj består av tre steg.
-   >
-   >   * STEG 1. Skicka e-post nr 1
-   >   * STEG 2. Vänta en vecka
-   >   * STEG 3. Skicka e-post nr 2
+      >    * STEG 1. Skicka e-post nr 1
+      >    * STEG 2. Vänta en vecka
+      >    * STEG 3. Skicka e-post nr 2
    >
    >1. Personer som trycker på **Steg 2** väntar en vecka innan de går vidare till **Steg 3**.
    >1. Du tar bort **Steg 2** under veckan.
@@ -71,4 +68,4 @@ Först gör vi grunderna. Så här tar du bort ett oönskat flödessteg från en
 
 Göra ändringar i en aktiv kampanj
 
-Förstå den här funktionen så får ni överordnad smarta kampanjer. Hej!
+Förstå den här funktionen så får ni överordnad smarta kampanjer.
