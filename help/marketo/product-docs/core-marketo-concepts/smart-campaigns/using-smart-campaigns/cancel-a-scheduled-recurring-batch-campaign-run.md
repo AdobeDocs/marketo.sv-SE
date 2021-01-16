@@ -3,9 +3,9 @@ unique-page-id: 1147060
 description: Avbryt en schemalagd återkommande batchkampanjkörning - Marketo Docs - Produktdokumentation
 title: Avbryt en schemalagd återkommande batchkampanjkörning
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ Om du har en återkommande batchkampanj som du inte vill ha mer kan du avbryta f
 
    ![](assets/image2014-9-22-16-3a44-3a51.png)
 
-1. Klicka på **Schedule** **Recurrence**.
+1. Klicka på **Schemalägg upprepning**.
 
    ![](assets/image2014-9-22-16-3a44-3a55.png)
 
    >[!TIP]
    >
-   >Du kan avbryta en enskild körning genom att klicka på ![—](assets/image2014-9-22-16-3a45-3a42.png) bredvid den. Lär dig hur du [avbryter en schemalagd batchkampanjkörning](cancel-a-scheduled-batch-campaign-run.md).
+   >Du kan avbryta en enskild körning genom att klicka på ![röd x](assets/image2014-9-22-16-3a45-3a42.png) bredvid den. Lär dig hur du [avbryter en schemalagd batchkampanjkörning](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md).
 
 1. Ange Schemalägg till **Ingen** och **Spara**.
 
@@ -37,12 +37,6 @@ Om du har en återkommande batchkampanj som du inte vill ha mer kan du avbryta f
    >
    >Detta avbryter framtida körningar, men om en smart kampanj körs kan du inte avbryta den.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
-   >
-   >    
-   >    
-   >    * [Avbryt en schemalagd batchkampanjkörning](cancel-a-scheduled-batch-campaign-run.md)
-
-
+   >[Avbryt en schemalagd batchkampanjkörning](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md)
