@@ -3,9 +3,9 @@ unique-page-id: 1146974
 description: Redigera kvalificeringsregler i en smart kampanj - Marketo Docs - Produktdokumentation
 title: Redigera kvalificeringsregler i en smart kampanj
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -33,18 +33,10 @@ Kvalificeringsregler styr hur många gånger någon kan gå igenom flödet i en 
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
-   >
-   >Kommunikationsbegränsningar används inte som standard för smarta kampanjer. Lär dig hur du [tillämpar kommunikationsbegränsningar på en smart kampanj](apply-communication-limits-to-smart-campaign.md).
+   >Kommunikationsbegränsningar används inte som standard för smarta kampanjer. Lär dig hur du [tillämpar kommunikationsbegränsningar på en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md).
 
    >[!NOTE]
    >
-   >**Relaterade artiklar**
-   >
-   >    
-   >    
-   >    * [Använd kommunikationsbegränsningar för smarta kampanjer](apply-communication-limits-to-smart-campaign.md)
-
+   >[Använd kommunikationsbegränsningar för smarta kampanjer](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
 
 Uppdraget är slutfört! Nu vet ni hur ni styr kvalificeringsregler i en smart kampanj.
