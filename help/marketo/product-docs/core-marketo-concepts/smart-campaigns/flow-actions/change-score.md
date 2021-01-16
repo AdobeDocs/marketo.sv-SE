@@ -3,7 +3,7 @@ unique-page-id: 1146962
 description: Change Score - Marketo Docs - produktdokumentation
 title: Ändra poäng
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Det är enkelt och kraftfullt att betygsätta personer så att säljteamet kan p
 
    >[!TIP]
    >
-   >Du kan skapa flera poängfält. Mer information finns i [Skapa ett anpassat fält i Marketo](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
+   >Du kan skapa flera poängfält. Mer information finns i [Skapa ett anpassat fält i Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
 1. Ange den poängändring du vill ha.
 
@@ -39,6 +39,4 @@ Det är enkelt och kraftfullt att betygsätta personer så att säljteamet kan p
    * **-5** kommer att minska (negativa tal tillåts)
    * **=5** kommer att göra det exakta talet
    * **=-5** kommer att göra poängen exakt negativt tal
-
    Få lite grundläggande poängsättning på plats snabbt och finjustera sedan resultatet över tid. Det var det vi gjorde!
-
