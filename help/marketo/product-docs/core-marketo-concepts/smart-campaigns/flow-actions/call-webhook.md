@@ -3,9 +3,9 @@ unique-page-id: 1147023
 description: Ring Webkrok - Marketo Docs - Produktdokumentation
 title: Ring webkrok
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Skapa en webbkrok](../../../../product-docs/administration/additional-integrations/create-a-webhook.md)
-
->
-
-
+>[Skapa en webbkrok](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md)
 
 ## Översikt {#overview}
 
@@ -29,9 +25,7 @@ Med webbhooks kan du interagera med tredjepartstjänster. Skicka/ta emot informa
 
 >[!NOTE]
 >
->**Djupdykning**
->
->Lär dig mer om de många fascinerande saker som [webbhooks](http://developers.marketo.com/documentation/webhooks/) kan göra för dig.
+>Lär dig mer om de många fascinerande saker som [webbhooks](https://developers.marketo.com/documentation/webhooks/) kan göra för dig.
 
 ## Användning {#usage}
 
@@ -41,13 +35,6 @@ Välj en **Webkrok** i listrutan.
 
 Det är allt! Din webkrok anropas nu när någon kommer in i det smarta kampanjflödet.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Relaterade artiklar**
->
->* [Använda en webkrok i en smart kampanj](use-a-webhook-in-a-smart-campaign.md)
-
->
-
-
-
+>[Använda en webkrok i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
