@@ -3,7 +3,7 @@ unique-page-id: 1147019
 description: Konvertera person - Marketo Docs - Produktdokumentation
 title: Konvertera person
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -41,5 +41,4 @@ Använd det här flödessteget om du vill konvertera en person till en kontakt i
 
    ![](assets/four-3.png)
 
-   Och där kör du!
-
+Och där kör du!
