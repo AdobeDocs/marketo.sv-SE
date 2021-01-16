@@ -3,7 +3,7 @@ unique-page-id: 1146972
 description: Schemalägg en återkommande batchkampanj - Marketo Docs - Produktdokumentation
 title: Schemalägg en återkommande batchkampanj
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Med Återkommande kan du köra en batchsmart kampanj enligt ett regelbundet schema. Exempel: en gång i veckan, måndagar klockan 12:00.
 
-1. Välj kampanjen, gå till fliken Schema och klicka på Schemalägg upprepning.
+1. Välj kampanjen, gå till fliken Schema och klicka på **Schemalägg upprepning**.
 
    ![](assets/recurrencehands-sendemail.png)
 
-1. Klicka på listrutan Schema och välj Varje vecka.
+1. Klicka på listrutan Schema och välj **Veckovis**.
 
    ![](assets/image2014-9-22-11-3a41-3a42.png)
 
@@ -31,7 +31,7 @@ Med Återkommande kan du köra en batchsmart kampanj enligt ett regelbundet sche
 
    ![](assets/image2014-9-22-11-3a41-3a49.png)
 
-1. Låt Upprepa var 1:e dag vara, välj Måndag och klicka sedan på Spara.
+1. Låt Upprepa var 1:e gång, välj Måndag och klicka på **Spara**.
 
    ![](assets/image2014-9-22-11-3a41-3a53.png)
 
