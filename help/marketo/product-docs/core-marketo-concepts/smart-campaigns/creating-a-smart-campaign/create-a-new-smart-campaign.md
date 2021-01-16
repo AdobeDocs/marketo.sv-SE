@@ -3,9 +3,9 @@ unique-page-id: 1146931
 description: Skapa en ny smart kampanj - Marketo Docs - Produktdokumentation
 title: Skapa en ny smart kampanj
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,13 @@ Smarta kampanjer är det viktigaste verktyget i Marketo. De kan aktiveras av en 
 
 >[!NOTE]
 >
->**Djupdykning**
->
->Smarta kampanjer är supercoola. Läs mer om dem [här](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+>Smarta kampanjer är supercoola. Läs mer om dem [här](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Välj ett **program** och klicka sedan på **Ny lokal resurs** under &lt;a2/>Nytt **.**
+1. Välj ett **program** och klicka sedan på **Ny lokal resurs** under **Nytt**.
 
    ![](assets/program-localassethands.png)
 
@@ -43,13 +41,8 @@ Smarta kampanjer är det viktigaste verktyget i Marketo. De kan aktiveras av en 
 
    Häftig! Lär dig sedan definiera vilka personer som ska köras genom den smarta kampanjen med en smart lista.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
-   >
-   >    
-   >    
-   >    * [Definiera smart lista för smart kampanj | Grupp](define-smart-list-for-smart-campaign-batch.md)
-   >    * [Definiera smart lista för smart kampanj | Utlösare](define-smart-list-for-smart-campaign-trigger.md)
-
+   >* [Definiera smart lista för smart kampanj | Grupp](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [Definiera smart lista för smart kampanj | Utlösare](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 
