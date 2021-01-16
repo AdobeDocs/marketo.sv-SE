@@ -3,7 +3,7 @@ unique-page-id: 1147080
 description: Change Revenue Stage - Marketo Docs - Product Documentation
 title: Ändra intäktsfas
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -32,4 +32,3 @@ Om du använder intäktscykelmodelleraren och har en godkänd modell kan du väl
    >[!CAUTION]
    >
    >Data warehouse lägger stor vikt vid när leads rör sig mellan olika faser. Detta kan skapa felaktiga data om de används felaktigt.
-
