@@ -3,7 +3,7 @@ unique-page-id: 1146952
 description: Lägg till i lista - Marketo Docs - Produktdokumentation
 title: Lägg till i listan
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '39'
 ht-degree: 0%
