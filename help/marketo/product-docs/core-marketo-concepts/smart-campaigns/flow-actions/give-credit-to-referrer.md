@@ -3,9 +3,9 @@ unique-page-id: 1147040
 description: Ge kredit till referent - Marketo Docs - produktdokumentation
 title: Ge kredit till referent
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -15,14 +15,16 @@ ht-degree: 0%
 
 ## Översikt {#overview}
 
-När du kör ett [hänvisningserbjudande](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) eller en [utlottning](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) kan du tillskriva referenten på olika sätt:
+När du kör ett [hänvisningserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) eller en [utlottning](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) kan du tillskriva referenten på olika sätt:
 
 * Refererade besök
 * Refererade signeringsprogram
 * **Smart List-utlösare**
 * Anpassad JavaScript-händelse
 
-Om du väljer att använda alternativet **Smart List Trigger** för att ange ett mål måste du använda flödessteget **Ge kredit** **till Referent**.   ![](assets/image2014-9-22-15-3a59-3a18.png)
+Om du väljer att använda alternativet **Smart List Trigger** för att ange ett mål, måste du använda flödessteget **Ge kredit till Referent**.
+
+![](assets/image2014-9-22-15-3a59-3a18.png)
 
 ## Användning {#usage}
 
@@ -32,9 +34,6 @@ Om du väljer att använda alternativet **Smart List Trigger** för att ange ett
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
-   >
-   >Kontrollera att din sociala app är konfigurerad att använda Smart List Trigger. Mer information finns i [Ange mål för hänvisningserbjudande](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).
+   >Kontrollera att din sociala app är konfigurerad att använda Smart List Trigger. Mer information finns i [Ange mål för hänvisningserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).
 
 Underbar! Alla som bearbetas av det här flödessteget kommer nu att tillgodoräkna sig sin referent.
