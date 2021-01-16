@@ -3,7 +3,7 @@ unique-page-id: 6094949
 description: Flytta en smart kampanj - Marketo Docs - Produktdokumentation
 title: Flytta en smart kampanj
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -54,4 +54,3 @@ Smarta kampanjer kan också flyttas med flyttfunktionen i trädet.
    Hög fem! Den här smarta kampanjen har flyttats.
 
    ![](assets/image2015-2-25-13-39-51-copy-281-29.png)
-
