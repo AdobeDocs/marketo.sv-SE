@@ -3,9 +3,9 @@ unique-page-id: 2953132
 description: Understanding Batch and Trigger Smart Campaigns - Marketo Docs - Product Documentation
 title: Förstå smarta kampanjer i grupp och utlösare
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -34,8 +34,7 @@ Om du klickar på fliken **Schedule** bekräftar du att den smarta kampanjen är
 **Smarta gruppkampanjer**
 
 * Kan schemaläggas för återkommande aktiviteter, som dagliga, veckovisa och månadsvisa. Du kan också få dem att springa bara en gång.
-* Är synliga i [programschemavyn](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md).\
-   *Observera att inget efter ett &quot;Vänta&quot;-steg i den smarta kampanjen kommer att inkluderas i vyn.
+* Är synliga i [programschemavyn](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md). Allt efter ett &quot;Vänta&quot;-steg i den smarta kampanjen inkluderas inte i vyn.
 
 <br> 
 
@@ -60,11 +59,6 @@ Om du klickar på fliken **Schedule** bekräftar du att den smarta kampanjen är
 * Det går inte att schemalägga för återkommande aktiviteter. De kan bara anges som aktiva eller inaktiva.
 * Du kan ställa in mer än en utlösare. Om någon utlösare aktiveras körs kampanjåtgärderna.
 
-## Titta på en video om hur du skapar utlösta e-postkampanjer {#watch-a-video-on-creating-triggered-email-campaigns}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/6zNazwTgt2LNeCjPAt3W9K.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 >[!TIP]
 >
->Använd [aktivitetsloggen](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) för att se vad som hände steg för steg inom smarta kampanjer. Du hittar aktivitetsloggen på den sista fliken på en persons detaljsida.
-
+>Använd [aktivitetsloggen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) för att se vad som hände steg för steg inom smarta kampanjer. Du hittar aktivitetsloggen på den sista fliken på en persons detaljsida.
