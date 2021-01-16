@@ -3,9 +3,9 @@ unique-page-id: 1146942
 description: Definiera smart lista för smart kampanj | Utlösare - Marketo Docs - Produktdokumentation
 title: Definiera smart lista för smart kampanj | Utlösare
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Få en smart kampanj att köras på en person i taget baserat på live-händelser genom att lägga till utlösare.
 
-1. Klicka på fliken **Smart List **i den smarta kampanjen.
+1. Klicka på fliken **Smart List** i den smarta kampanjen.
 
    ![](assets/image2014-9-19-16-3a22-3a55.png)
 
@@ -47,16 +47,8 @@ Få en smart kampanj att köras på en person i taget baserat på live-händelse
    >
    >Med flera utlösare går en person igenom flödet om **ANY** någon av utlösarna aktiveras.
 
-   [Definiera smart lista för smart kampanj | Grupp](define-smart-list-for-smart-campaign-batch.md)
+Om du vill köra kampanjen på en uppsättning personer samtidigt ska du lära dig hur du [Definiera smart lista för smart kampanj | Grupp](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
-   >[!NOTE]
-   >
-   >**Relaterade artiklar**
-   >
-   >    
-   >    
-   >    * [Definiera smart lista för smart kampanj | Grupp](define-smart-list-for-smart-campaign-batch.md)
-   >    * [Lägg till ett flödessteg i en smart kampanj](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-
-
-Om du vill köra kampanjen på en uppsättning personer samtidigt ska du lära dig hur du gör .
+>[!MORELIKETHIS]
+>
+>[Lägg till ett flödessteg i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
