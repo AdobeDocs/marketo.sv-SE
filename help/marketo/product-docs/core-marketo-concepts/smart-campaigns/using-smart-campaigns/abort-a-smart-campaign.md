@@ -3,9 +3,9 @@ unique-page-id: 1147053
 description: Avbryt en smart kampanj - Marketo Docs - Produktdokumentation
 title: Avbryt en smart kampanj
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Ibland startar man en smart kampanj och inser omedelbart att det var ett misstag
 
    ![](assets/image2014-9-22-16-3a19-3a44.png)
 
-1. Klicka på listrutan* Kampanjåtgärder**. Välj **Avbryt kampanj**.
+1. Klicka på listrutan **Kampanjåtgärder**. Välj **Avbryt kampanj**.
 
    ![](assets/image2014-9-22-16-19-48.png)
 
@@ -33,19 +33,16 @@ Ibland startar man en smart kampanj och inser omedelbart att det var ett misstag
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
-   >
    >Om du avbryter ångras inte steg som redan är klara, det stoppar bara mer från att hända. (Exempel: E-postmeddelanden kan inte tas bort.)
 
    ![](assets/image2014-9-22-16-3a20-3a0.png)
 
    >[!NOTE]
    >
-   >Ta en titt på fliken **Resultat** i den smarta kampanjen för att se vilka åtgärder som utfördes före avbrottet. Du hittar också ett [meddelande](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) med ytterligare information.
+   >Ta en titt på fliken **Resultat** i den smarta kampanjen för att se vilka åtgärder som utfördes före avbrottet. Du hittar också ett [meddelande](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) med ytterligare information.
 
    >[!TIP]
    >
-   >Vill du ta bort en person från flödet i en utlösarkampanj? Kolla in [Ta bort från flöde](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md).
+   >Vill du ta bort en person från flödet i en utlösarkampanj? Kolla in [Ta bort från flöde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md).
 
 Dubbelkontrollera alltid ditt arbete, men nödbromsen kan komma till användning i framtiden.
