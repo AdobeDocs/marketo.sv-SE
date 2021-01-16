@@ -3,7 +3,7 @@ unique-page-id: 9437991
 description: Utlösare och filter för smarta mobilkampanjer - Marketo Docs - Produktdokumentation
 title: Utlösare och filter för smarta mobilkampanjer
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 0%
@@ -103,7 +103,7 @@ Mobilappen har öppnats/öppnats
 
 Har/haft aktivitet för mobilappar
 
-Dessa är ett kraftfullt sätt att spåra anpassad mobilaktivitet. Du måste arbeta med utvecklaren för att ställa in spårning [för Android](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android) och [för iOS](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
+Dessa är ett kraftfullt sätt att spåra anpassad mobilaktivitet. Du måste arbeta med utvecklaren för att ställa in spårning [för Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android) och [för iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
 
 * Har aktivitet för mobilappar - utlösare
 
@@ -132,12 +132,14 @@ Med åtgärdsbegränsningarna kan du använda utlösaren och filtren för att sp
 >Under åtgärdstypen *Shopping* finns det en mycket specifik åtgärd, med de andra begränsningarna som definierar den:
 >
 >* Köpte en skjorta
->  * Det var rött
->  * Det kostar 30 dollar
->  * Det tog 20 sekunder att köpa
+   >   * Det var rött
+   >   * Det kostar 30 dollar
+   >   * Det tog 20 sekunder att köpa
 
 
-Så här ser filtret ut i Marketo:   ![](assets/image2015-8-17-13-3a16-3a12.png)
+Så här ser filtret ut i Marketo:
+
+![](assets/image2015-8-17-13-3a16-3a12.png)
 
 >[!NOTE]
 >
@@ -192,6 +194,6 @@ Tryck/tryck på push-meddelande
 
 >[!MORELIKETHIS]
 >
->* [Lägga till en begränsning i ett smart listfilter](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
->* [Använd inaktivitetsfilter i en smart lista](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
+>* [Lägga till en begränsning i ett smart listfilter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
+>* [Använd inaktivitetsfilter i en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
 
