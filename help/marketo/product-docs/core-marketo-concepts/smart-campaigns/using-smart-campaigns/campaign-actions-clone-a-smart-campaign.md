@@ -3,9 +3,9 @@ unique-page-id: 1146989
 description: Kampanjåtgärder -Klona en smart kampanj - Marketo Docs - Produktdokumentation
 title: Kampanjåtgärder -Klona en smart kampanj
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Kloningskampanjer kan spara tid åt er. Du behöver inte skapa allt från börja
 
    ![](assets/image2014-9-22-13-3a56-3a34.png)
 
-1. Välj lämpligt **Klona till **alternativ. I det här exemplet väljer vi **Program**.
+1. Välj lämpligt **Klona till**-alternativ. I det här exemplet väljer vi **Program**.
 
    ![](assets/image2014-9-22-13-3a56-3a56.png)
 
@@ -27,5 +27,4 @@ Kloningskampanjer kan spara tid åt er. Du behöver inte skapa allt från börja
 
    ![](assets/image2014-9-22-13-3a57-3a9.png)
 
-   Och klart! Jobba inte hårt, arbeta smart.
-
+Och klart!
