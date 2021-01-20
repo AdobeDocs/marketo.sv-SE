@@ -3,9 +3,9 @@ unique-page-id: 8159286
 description: Filter och utlösare för affärsmöjligheter - Marketo Docs - Produktdokumentation
 title: Filter och utlösare för affärsmöjligheter
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -80,4 +80,3 @@ Du kan till exempel använda den här smarta listan för att utlösa när någon
 Använd utlösaren **Opportunity is Updated** och välj fältet i listrutan för att aktivera dina anpassade fält för affärsmöjlighet:
 
 ![](assets/image2015-6-11-12-3a33-3a34.png)
-
