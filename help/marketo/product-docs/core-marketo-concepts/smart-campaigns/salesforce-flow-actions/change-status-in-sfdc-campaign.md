@@ -3,9 +3,9 @@ unique-page-id: 1147029
 description: Ändra status i SFDC-kampanj - Marketo Docs - Produktdokumentation
 title: Ändra status i SFDC-kampanj
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,6 @@ Om ett lead inte finns i Salesforce eller inte är medlem av kampanjen än, synk
 
    ![](assets/image2014-9-22-15-3a13-3a58.png)
 
-1. Välj sedan **Nytt** **Status** som du vill ange och du är klar!
+1. Välj sedan den **nya status** som du vill ange och du är klar!
 
    ![](assets/image2014-9-22-15-3a14-3a0.png)
-
