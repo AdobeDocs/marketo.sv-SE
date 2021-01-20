@@ -3,9 +3,9 @@ unique-page-id: 1147068
 description: Filtrera smarta kampanjresultat - Marketo Docs - Produktdokumentation
 title: Filtrera resultat för smarta kampanjer
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Visa resultat för smarta kampanjer](view-smart-campaign-results.md)
-
->
-
-
+>[Visa resultat för smarta kampanjer](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-results.md)
 
 Filtrera resultaten från smarta kampanjer för att se specifika aktiviteter som är viktiga för dig.
 
@@ -51,9 +47,8 @@ Filtrera resultaten från smarta kampanjer för att se specifika aktiviteter som
 
    ![](assets/saveasfilter-hands.png)
 
-1. Det anpassade filtret kommer att tillämpas på dina resultat och är nu tillgängligt i listrutan. (Du kan behöva uppdatera sidan för att se den i listrutan.)
+1. Det anpassade filtret kommer att tillämpas på dina resultat och är nu tillgängligt i listrutan (du kan behöva uppdatera sidan för att se den i listrutan).
 
    ![](assets/customfilter-hands.png)
 
    Är inte det coolt? Ditt anpassade filter kan nu användas i alla aktivitetsloggar.
-
