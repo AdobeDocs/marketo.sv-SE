@@ -3,9 +3,9 @@ unique-page-id: 7514027
 description: Synkronisera person till Microsoft - Marketo Docs - Produktdokumentation
 title: Synkronisera person till Microsoft
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -30,4 +30,3 @@ Du kan ange en Dynamics-användare som personägare.
 >[!NOTE]
 >
 >När du använder flödesåtgärden &quot;Synkronisera person till Microsoft&quot; (endast i en utlösarkampanj) skapas lead/kontakt i realtid i Dynamics.
-
