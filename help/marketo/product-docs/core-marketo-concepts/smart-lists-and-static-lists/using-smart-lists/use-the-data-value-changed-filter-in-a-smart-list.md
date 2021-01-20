@@ -3,9 +3,9 @@ unique-page-id: 557324
 description: Använd filtret Datavärdet ändrat i en smart lista - Marketo Docs - Produktdokumentation
 title: Använd det datavärde som har ändrats i en smart lista
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,9 @@ Värdena ändras ständigt och uppdateras i Marketo-databasen. I stället för a
 
 >[!PREREQUISITES]
 >
->* [Skapa en smart lista](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Skapa en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
->
-
-
-
-1. Gå till **Marknadsföringsaktiviteter **området.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/ma.png)
 
@@ -39,15 +35,4 @@ Värdena ändras ständigt och uppdateras i Marketo-databasen. I stället för a
 
    ![](assets/four.png)
 
-Det här filtret söker efter alla personer som har ändrat status. Om du vill få en ännu större fancier kan du försöka med att [lägga till en begränsning i ett smart listfilter](add-a-constraint-to-a-smart-list-filter.md).
-
->[!NOTE]
->
->**Relaterade artiklar**
->
->* [Lägga till en begränsning i ett smart listfilter](add-a-constraint-to-a-smart-list-filter.md)
-
->
-
-
-
+Det här filtret söker efter alla personer som har ändrat status. Om du vill få en ännu större fancier kan du försöka med att [lägga till en begränsning i ett smart listfilter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md).
