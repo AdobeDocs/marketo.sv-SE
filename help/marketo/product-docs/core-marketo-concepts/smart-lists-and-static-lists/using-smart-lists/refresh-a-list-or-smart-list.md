@@ -3,9 +3,9 @@ unique-page-id: 557318
 description: Uppdatera en lista eller smart lista - Marketo Docs - Produktdokumentation
 title: Uppdatera en lista eller smart lista
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,4 @@ Om du har kört en smart lista och några minuter har gått kan resultatet bli a
 
 >[!MORELIKETHIS]
 >
->* [Exportera personer till Excel från en lista eller smart lista](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md)
-
->
-
-
-
+>[Exportera personer till Excel från en lista eller smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md)
