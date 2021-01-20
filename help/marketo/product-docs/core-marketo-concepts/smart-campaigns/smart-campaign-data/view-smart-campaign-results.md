@@ -3,9 +3,9 @@ unique-page-id: 1146968
 description: Visa resultat för smarta kampanjer - Marketo Docs - Produktdokumentation
 title: Visa resultat för smarta kampanjer
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ Vill du se en sammanfattning av allt som hände i en smart kampanj? Det är enke
 
    >[!TIP]
    >
-   >Du kan visa listan över personer som har bearbetats av den smarta kampanjen genom att klicka på [Visa kampanjmedlemmar](view-smart-campaign-members.md).
+   >Du kan visa listan över personer som har bearbetats av den smarta kampanjen genom att klicka på [Visa kampanjmedlemmar](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md).
 
    ![](assets/image2014-9-22-11-38-10.jpg)
 
    >[!TIP]
    >
-   >Du kan även filtrera resultaten baserat på aktivitetstyp. Lär dig hur du [filtrerar smarta kampanjresultat](filter-smart-campaign-results.md).
+   >Du kan även filtrera resultaten baserat på aktivitetstyp. Lär dig hur du [filtrerar smarta kampanjresultat](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md).
 
 1. Klicka på ett **ID** om du vill visa mer information om den aktuella aktiviteten.
 
@@ -35,16 +35,8 @@ Vill du se en sammanfattning av allt som hände i en smart kampanj? Det är enke
    >
    >Visa personinformation genom att klicka på personens namn.
 
-   [exportera smarta kampanjresultat till Excel](export-smart-campaign-results-to-excel.md)
+   Titta på resultaten för att se vad kampanjen faktiskt gjorde eller [exportera smarta kampanjresultat till Excel](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
-   >
-   >    
-   >    
-   >    * [Filtrera resultat för smarta kampanjer](filter-smart-campaign-results.md)
-   >    * [Exportera smarta kampanjresultat till Excel](export-smart-campaign-results-to-excel.md)
-
-
-Ta en titt på resultaten för att se vad er kampanj faktiskt gjorde, eller helt enkelt.
+   >[Filtrera resultat för smarta kampanjer](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md)
