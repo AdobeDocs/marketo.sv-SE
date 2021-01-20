@@ -3,9 +3,9 @@ unique-page-id: 1146937
 description: Visa medlemmar i smarta kampanjer - Marketo Docs - Produktdokumentation
 title: Visa medlemmar i smarta kampanjer
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Se personer som redan har gått igenom det smarta kampanjflödet. dvs. medlemmar i smarta kampanjer.
 
-1. Gå till Marknadsföringsaktiviteter.
+1. Gå till **Marknadsföringsaktiviteter**.
 
 ![](assets/login-marketing-activities.png)
 
-1. Klicka på Visa kampanjmedlemmar i den smarta kampanjen.
+1. Klicka på **Visa kampanjmedlemmar** i den smarta kampanjen.
 
    ![](assets/changescore-hands.png)
 
@@ -35,19 +35,6 @@ Se personer som redan har gått igenom det smarta kampanjflödet. dvs. medlemmar
    >
    >Listan Kampanjmedlemmar är till att börja med tom när den smarta kampanjen inte har körts på några personer.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Djupdykning**
-   >
-   >
-   >Läs mer om vad du kan göra med [listor](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
-
-   >[!NOTE]
-   >
-   >**Relaterade artiklar**
-   >
-   >    
-   >    
-   >    * [Visa blockerade personer i en smart kampanj](view-blocked-people-in-a-smart-campaign.md)
-
-
+   >[Visa blockerade personer i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
