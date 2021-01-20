@@ -3,9 +3,9 @@ unique-page-id: 557322
 description: Köra ett enda flödessteg från en smart lista - Marketo Docs - Produktdokumentation
 title: Köra ett enda flödessteg från en smart lista
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ Om du vill köra ett enda steg för ett enda flöde kan du använda ett enda fl�
 
 >[!PREREQUISITES]
 >
->* [Skapa en smart lista](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
+>[Skapa en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
@@ -35,7 +31,7 @@ Om du vill köra ett enda steg för ett enda flöde kan du använda ett enda fl�
    >
    >Både statiska listor och smarta listor har den här funktionen.
 
-1. Klicka på **Markera alla**. Du kan också använda** Ctrl/Cmd** och klicka för att markera några poster manuellt.
+1. Klicka på **Markera alla**. Du kan också använda **Ctrl/Cmd** och klicka för att markera några poster manuellt.
 
    ![](assets/smartlist-selectallhand.png)
 
@@ -43,7 +39,7 @@ Om du vill köra ett enda steg för ett enda flöde kan du använda ett enda fl�
    >
    >Om resultatet sträcker sig över flera sidor och du klickar på **Markera alla** markeras alla personer på alla sidor.
 
-1. Välj önskat flödessteg under **Person** **Åtgärder**. I det här exemplet använder vi [Ändra datavärde](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+1. Välj önskat flödessteg under **Person** **Åtgärder**. I det här exemplet använder vi [Ändra datavärde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
    ![](assets/personactions-hands.png)
 
