@@ -3,9 +3,9 @@ unique-page-id: 1147017
 description: Skapa aktivitet - Marketo Docs - Produktdokumentation
 title: Skapa uppgift
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,9 @@ Som marknadsförare har ni information som kan hjälpa försäljningen att sluta
 >
 >När Marketo Sync User skapar uppgifter är **Förfaller den** ett obligatoriskt fält för uppgiften som ska skapas i Salesforce. Marketo anger fem dagar som standard om det inte finns något värde.
 
-Som standard ser flödessteget ut så här:   ![](assets/image2014-9-22-14-3a54-3a49.png)
+Som standard ser flödessteget ut så här:
+
+![](assets/image2014-9-22-14-3a54-3a49.png)
 
 Anpassa alla fält för att skapa uppgiften som du vill.
 
@@ -29,5 +31,4 @@ Anpassa alla fält för att skapa uppgiften som du vill.
 
 >[!TIP]
 >
->Du kan använda `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` och `{{system.tokens}}` i **Subject** och **Beskrivning**. Mer information finns i [Tokens for Flow Steps](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
-
+>Du kan använda `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` och `{{system.tokens}}` i **Subject** och **Beskrivning**. Mer information finns i [Tokens for Flow Steps](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
