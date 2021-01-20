@@ -3,9 +3,9 @@ unique-page-id: 1147011
 description: Lägg till i Engagement Program - Marketo Docs - Produktdokumentation
 title: Lägg till i engagemangsprogram
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -32,4 +32,3 @@ Den smarta kampanj som ni bygger med det här flödessteget blir gatewayen till 
    >[!NOTE]
    >
    >Du kan inte lägga till en person i flera strömmar inom samma program.
-
