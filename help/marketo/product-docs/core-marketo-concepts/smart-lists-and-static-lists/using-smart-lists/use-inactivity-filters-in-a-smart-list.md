@@ -3,9 +3,9 @@ unique-page-id: 7511477
 description: Använd inaktivitetsfilter i en smart lista - Marketo Docs - Produktdokumentation
 title: Använd inaktivitetsfilter i en smart lista
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,3 @@ Visste du att du kan söka efter personer i en smart lista som *inte* har gjort 
 1. Välj **är en**-operator. Då hittar du alla personer som inte har besökt någon sida de senaste 30 dagarna.
 
    ![](assets/mysmartlist-people.jpg)
-
-   Var inte det enkelt?
-
