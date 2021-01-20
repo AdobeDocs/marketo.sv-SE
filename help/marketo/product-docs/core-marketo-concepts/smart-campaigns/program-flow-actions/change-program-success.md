@@ -3,9 +3,9 @@ unique-page-id: 1147009
 description: Change Program Success - Marketo Docs - Product Documentation
 title: Programmet har ändrats
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Om du någon gång har en grupp personer som av misstag har markerats med Progra
 
    ![](assets/image2014-9-22-14-3a45-3a35.png)
 
-1. Välj **Success** eller** Success Date** som attribut.
+1. Välj **Success** eller **Success Date** som attribut.
 
    ![](assets/image2014-9-22-14-3a45-3a39.png)
 
