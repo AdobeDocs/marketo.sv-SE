@@ -3,9 +3,9 @@ unique-page-id: 1146997
 description: Använd en datumtoken i ett vänteflödessteg - Marketo Docs - Produktdokumentation
 title: Använd en datumtoken i ett vänteflödessteg
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -56,15 +56,12 @@ Du kan använda steget Väntflöde för att pausa en persons resa genom en smart
    >
    >Du kan också ange antalet dagar med en `{{lead.`- eller `{{company.`-token som representerar ett heltalsfält eller en `{{my.`-token av taltyp.
 
-1. Klicka på Spara.
+1. Klicka på **Spara**.
 
    ![](assets/image2014-9-22-14-3a11-3a3.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
-   >
-   >* [Använd en varaktighet i ett vänteflödessteg](use-a-duration-in-a-wait-flow-step.md)
-   >* [Använd ett specifikt datum i ett vänteflödessteg](use-a-specific-date-in-a-wait-flow-step.md)
-
+   >* [Använd en varaktighet i ett vänteflödessteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
+   >* [Använd ett specifikt datum i ett vänteflödessteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
 
