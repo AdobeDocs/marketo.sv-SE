@@ -3,9 +3,9 @@ unique-page-id: 2949413
 description: Lägg till en begränsning i ett smart listfilter - Marketo Docs - Produktdokumentation
 title: Lägga till en begränsning i ett smart listfilter
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -13,14 +13,14 @@ ht-degree: 0%
 
 # Lägg till en begränsning i ett smart listfilter {#add-a-constraint-to-a-smart-list-filter}
 
-När du skapar smarta listor har vissa filter avancerade alternativ som kallas *begränsningar. *Det här är extra villkor som du kan lägga till i filter och utlösare för att begränsa sökningen ytterligare.
+När du skapar smarta listor har vissa filter avancerade alternativ som kallas &quot;begränsningar&quot;. Det här är extra villkor som du kan lägga till i filter och utlösare för att begränsa sökningen ytterligare.
 
-I det här exemplet lägger vi till några begränsningar i ett ** [datavärde ändrat](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)**-filter för att hitta personer som har en statusändring från MQL till SQL.
+I det här exemplet lägger vi till begränsningar i ett **[datavärde ändrat](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)**-filter för att hitta personer som har en statusändring från MQL till SQL.
 
 >[!PREREQUISITES]
 >
->* [Skapa en smart lista](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
->* [Använd filtret&quot;Datavärdet har ändrats&quot; i en smart lista](use-the-data-value-changed-filter-in-a-smart-list.md)
+>* [Skapa en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [Använd filtret&quot;Datavärdet har ändrats&quot; i en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-the-data-value-changed-filter-in-a-smart-list.md)
 
 >
 
@@ -51,4 +51,3 @@ I det här exemplet lägger vi till några begränsningar i ett ** [datavärde �
    ![](assets/six.png)
 
 1. Snyggt gjort! Klicka på fliken **Personer** om du vill visa alla personer som har en **status** som har ändrats från **MQL** till **SQL** de senaste 30 dagarna.
-
