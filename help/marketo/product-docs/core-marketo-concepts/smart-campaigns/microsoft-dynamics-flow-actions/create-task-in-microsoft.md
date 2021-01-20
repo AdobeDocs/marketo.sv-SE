@@ -3,9 +3,9 @@ unique-page-id: 37356429
 description: Skapa aktivitet i Microsoft - Marketo Docs - Produktdokumentation
 title: Skapa uppgift i Microsoft
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,17 @@ Skapa uppgift i Microsoft skapar en uppgift under Aktiviteter som är relaterade
 >
 >Det här flödessteget **fungerar bara när det används med utlösare**, inte filter, i den smarta kampanjen.
 
-Som standard ser flödessteget ut så här:   ![](assets/msd1.png)
+Som standard ser flödessteget ut så här:
+
+![](assets/msd1.png)
 
 >[!NOTE]
 >
->När Marketo Sync User skapar uppgifter är **Förfaller i **ett obligatoriskt fält för uppgiften som ska skapas i Microsoft. Marketo anger fem dagar som standard om inget värde anges.
+>När Marketo Sync User skapar uppgifter är **Förfallodatum** ett obligatoriskt fält för uppgiften som ska skapas i Microsoft. Marketo anger fem dagar som standard om inget värde anges.
 
-Anpassa alla fält för att skapa uppgiften som du vill.   ![](assets/msd2.png)
+Anpassa alla fält för att skapa uppgiften som du vill.
+
+![](assets/msd2.png)
 
 >[!NOTE]
 >
@@ -35,5 +39,4 @@ Anpassa alla fält för att skapa uppgiften som du vill.   ![](assets/msd2.png)
 
 >[!TIP]
 >
->Du kan använda `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` och `{{system.tokens}}` i **Subject** och **Beskrivning**. Mer information finns i [Tokens for Flow Steps](http://docs.marketo.com/x/c4AR).
-
+>Du kan använda `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` och `{{system.tokens}}` i **Subject** och **Beskrivning**. Mer information finns i [Tokens for Flow Steps](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
