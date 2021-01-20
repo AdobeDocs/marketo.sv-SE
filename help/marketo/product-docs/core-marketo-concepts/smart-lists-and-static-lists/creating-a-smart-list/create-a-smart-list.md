@@ -3,9 +3,9 @@ unique-page-id: 557154
 description: Skapa en smart lista - Marketo Docs - Produktdokumentation
 title: Skapa en smart lista
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,8 @@ Med smarta listor kan du söka efter särskilda grupper med personer med hjälp 
    ![](assets/login-marketing-activities.png)
 
 1. Välj det program som du vill skapa den smarta listan i.
-1. ![Detta är ett test](assets/image2014-8-11-10-3a17-3a8.png)
+
+   ![](assets/image2014-8-11-10-3a17-3a8.png)
 
 1. Klicka på **Ny lokal resurs** under **Ny**.
 
@@ -34,13 +35,8 @@ Med smarta listor kan du söka efter särskilda grupper med personer med hjälp 
 
    ![](assets/image2014-9-9-16-3a27-3a39.png)
 
-   >[!NOTE]
-   >
-   >**Relaterade artiklar**
-   >
-   >    
-   >    
-   >    * [Söka efter och lägga till filter i en smart lista](find-and-add-filters-to-a-smart-list.md)
+   Ta-da, bra jobb! Nu ska vi lägga till och definiera några filter.
 
-
-Ta-da, bra jobb! Nu ska vi lägga till och definiera några filter.
+   >[!MORELIKETHIS]
+   >
+   >[Söka efter och lägga till filter i en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
