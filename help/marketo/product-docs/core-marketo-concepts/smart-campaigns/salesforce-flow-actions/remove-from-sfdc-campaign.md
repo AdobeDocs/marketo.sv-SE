@@ -3,9 +3,9 @@ unique-page-id: 1147036
 description: Ta bort från SFDC Campaign - Marketo Docs - Produktdokumentation
 title: Ta bort från SFDC-kampanj
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## Översikt {#overview}
 
-På samma sätt som du kan [lägga till i SFDC-kampanj](add-to-sfdc-campaign.md)och [Ändra status i SFDC-kampanj](change-status-in-sfdc-campaign.md) kan du även ta bort personer eller leads från en Salesforce-kampanj.
+På samma sätt som du kan [lägga till i SFDC-kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md) och [Ändra status i SFDC-kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md) kan du även ta bort personer eller leads från en Salesforce-kampanj.
 
 ![](assets/image2014-9-22-15-3a54-3a34.png)
 
