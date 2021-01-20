@@ -3,9 +3,9 @@ unique-page-id: 1147031
 description: Ta bort person från SFDC - Marketo Docs - Produktdokumentation
 title: Ta bort person från SFDC
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -36,4 +36,3 @@ Om du behöver ta bort en viss uppsättning leads från Salesforce men låta dem
    >[!CAUTION]
    >
    >Om du anger **Ta bort i Marketo** till **true** och tar bort personer från Marketo och leads från Salesforce är de borta för alltid. Det här kan inte ångras.
-
