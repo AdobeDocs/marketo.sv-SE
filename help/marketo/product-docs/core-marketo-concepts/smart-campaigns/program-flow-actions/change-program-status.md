@@ -3,9 +3,9 @@ unique-page-id: 1147007
 description: Ändra programstatus - Marketo Docs - Produktdokumentation
 title: Ändra programstatus
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Översikt {#overview}
 
-Programstatus hjälper dig att hålla reda på hur människor utvecklas genom ett program eller en händelse. Mer information finns i [Anpassa, skapa och hantera kanaler](../../../../product-docs/administration/tags/create-a-program-channel.md).
+Programstatus hjälper dig att hålla reda på hur människor utvecklas genom ett program eller en händelse. Mer information finns i [Anpassa, skapa och hantera kanaler](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
 >[!CAUTION]
 >
