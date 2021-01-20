@@ -3,9 +3,9 @@ unique-page-id: 1147027
 description: Synkronisera person till SFDC - Marketo Docs - Produktdokumentation
 title: Synkronisera person till SFDC
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -42,4 +42,3 @@ I det här flödessteget infogas Marketo-skapade personer som leads i Salesforce
    >[!CAUTION]
    >
    >Salesforce tillåter inte att &quot;Kontakter&quot; tilldelas till lead-köer. I det här fallet skapar Marketo en dubblett av&quot;Lead&quot; i Salesforce.
-
