@@ -3,9 +3,9 @@ unique-page-id: 4720377
 description: Referera till en lista eller en smart lista över arbetsytor - Marketo Docs - Produktdokumentation
 title: Referera till en lista eller en smart lista över arbetsytor
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ Listor och smarta listor kan delas och refereras mellan arbetsytor för enkel å
 
    ![](assets/four-3.png)
 
-1. Välj en **Arbetsyta **att dela med. Välj **Spara**.
+1. Välj en **arbetsyta** att dela med. Välj **Spara**.
 
    ![](assets/image2014-12-9-15-3a37-3a25.png)
 
@@ -50,4 +50,3 @@ Listor och smarta listor kan delas och refereras mellan arbetsytor för enkel å
    >[!NOTE]
    >
    >I marknadsföringsaktiviteter kan du bara dela mappar på den översta nivån. I Databas kan du dela mappar på den översta nivån samt en nivå ned.
-
