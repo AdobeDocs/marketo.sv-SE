@@ -3,9 +3,9 @@ unique-page-id: 1146978
 description: Använd en varaktighet i ett vänteflödessteg - Marketo Docs - Produktdokumentation
 title: Använd en varaktighet i ett vänteflödessteg
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Du kan använda vänteflödessteget för att pausa en persons resa genom en smar
    >
    >**Exempel**
    >
-   >
    >En person utlöser en smart kampanj på fredag kl. 17.00. Väntesteget är avancerat: 48 timmar och måste sluta på måndag-fredag kl. 9.
-   >
    >
    >Resultatet blir att personen fortsätter i flödet **måndag 9:00**. Detta är första M- F- datumet efter 48 timmar.
 
@@ -49,13 +47,8 @@ Du kan använda vänteflödessteget för att pausa en persons resa genom en smar
    >
    >Den varaktighet, de datum, tider och dagar som används baseras på din prenumerations tidszon.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
-   >
-   >    
-   >    
-   >    * [Använd ett specifikt datum i ett vänteflödessteg](use-a-specific-date-in-a-wait-flow-step.md)
-   >    * [Använd en datumtoken i ett vänteflödessteg](use-a-date-token-in-a-wait-flow-step.md)
-
+   >* [Använd ett specifikt datum i ett vänteflödessteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
+   >* [Använd en datumtoken i ett vänteflödessteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)
 
