@@ -3,9 +3,9 @@ unique-page-id: 1147062
 description: Visa blockerade personer i en smart kampanj - Marketo Docs - Produktdokumentation
 title: Visa blockerade personer i en smart kampanj
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Spärrade personer i Marketo-databasen har markerats som blocklist, avbeställda
 
    >[!NOTE]
    >
-   >Personer som nått sin kommunikationsgräns kan också blockeras från att ta emot e-post. Lär dig hur du [redigerar kommunikationsgränser](../../../../product-docs/administration/email-setup/enable-communication-limits.md) i administratörsavsnittet.
+   >Personer som nått sin kommunikationsgräns kan också blockeras från att ta emot e-post. Lär dig hur du [redigerar kommunikationsgränser](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) i administratörsavsnittet.
 
    Fliken Spärrade personer visar personer som kanske inte tar emot utskick.
 
@@ -35,16 +35,12 @@ Spärrade personer i Marketo-databasen har markerats som blocklist, avbeställda
    >
    >Operativa e-postmeddelanden skickas till personer som markerats som avbeställda och marknadsföringen har avbrutits.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
-   >
-   >    
-   >    
-   >    * [Redigera kvalificeringsregler](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
-   >    * [Aktivera kommunikationsgränser](../../../../product-docs/administration/email-setup/enable-communication-limits.md)
-   >    * [Visa medlemmar i smarta kampanjer](view-smart-campaign-members.md)
-   >    * [Visa kvalificerade personer i en smart kampanj](view-qualified-people-in-a-smart-campaign.md)
+   >* [Redigera kvalificeringsregler](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
+   >* [Aktivera kommunikationsgränser](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)
+   >* [Visa medlemmar i smarta kampanjer](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
+   >* [Visa kvalificerade personer i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md)
 
 
 Så där ja! Nu kan du vara medveten om vem som kanske inte får utskick.
