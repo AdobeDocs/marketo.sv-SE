@@ -3,9 +3,9 @@ unique-page-id: 557337
 description: Skapa och ändra vyer för listor och smarta listor - Marketo Docs - Produktdokumentation
 title: Skapa och ändra vyer för listor och smarta listor
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,13 +18,14 @@ En smart lista visar en standarduppsättning med kolumner. Visste du att du kund
 ## Skapa en vy {#create-a-view}
 
 1. Gå till en lista eller smart lista, klicka på fliken **Personer** och klicka på **Skapa** **Visa** under listrutan **Visa**.
-1. ![](assets/smartlist-createview.png)
+
+   ![](assets/smartlist-createview.png)
 
 1. Namnge vyn och hitta den kolumn som du vill lägga till eller ta bort.
 
    ![](assets/image2014-9-12-11-3a23-3a53.png)
 
-   Lägg till/ta bort kolumner och klicka sedan på Skapa.
+1. Lägg till/ta bort kolumner och klicka sedan på **Skapa**.
 
    ![](assets/image2014-9-12-11-3a24-3a7.png)
 
@@ -56,8 +57,6 @@ En smart lista visar en standarduppsättning med kolumner. Visste du att du kund
 
    ![](assets/image2014-9-12-11-3a27-3a19.png)
 
-
-
 ## Ta bort en vy {#delete-a-view}
 
 1. Välj alternativet **Redigera** för vyn som du vill ta bort från listrutan **Visa**.
@@ -72,10 +71,6 @@ Det är bara du som kan se de anpassade vyer du skapar i listrutan Visa, så tal
 
 >[!MORELIKETHIS]
 >
->* [Använd inbyggda/systemsmarta listor](use-built-in-system-smart-lists.md)
->* [Skapa en smart lista](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
+>* [Använd inbyggda/systemsmarta listor](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
+>* [Skapa en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
