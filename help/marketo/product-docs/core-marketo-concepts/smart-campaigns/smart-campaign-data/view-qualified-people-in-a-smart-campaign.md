@@ -3,9 +3,9 @@ unique-page-id: 1146966
 description: Visa kvalificerade personer i en smart kampanj - Marketo Docs - Produktdokumentation
 title: Visa kvalificerade personer i en smart kampanj
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -33,17 +33,13 @@ Se personer som är kvalificerade att gå igenom flödet när ni kör en smart k
 
    >[!NOTE]
    >
-   >Antalet kvalificerade personer beror också på reglerna för smarta kampanjkvalifikationer. Lär dig hur du [redigerar kvalificeringsregler](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md).
+   >Antalet kvalificerade personer beror också på reglerna för smarta kampanjkvalifikationer. Lär dig hur du [redigerar kvalificeringsregler](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md).
 
 Söt! Du kan använda den här listan för att kontrollera vilka personer som kan gå igenom flödet innan du kör en smart kampanj.
 
 >[!MORELIKETHIS]
 >
->* [Visa medlemmar i smarta kampanjer](view-smart-campaign-members.md)
->* [Visa blockerade personer i en smart kampanj](view-blocked-people-in-a-smart-campaign.md)
->* [Lägg till ett flödessteg i en smart kampanj](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-
->
-
-
+>* [Visa medlemmar i smarta kampanjer](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
+>* [Visa blockerade personer i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
+>* [Lägg till ett flödessteg i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
