@@ -3,9 +3,9 @@ unique-page-id: 37356426
 description: Ändra ägare i Microsoft - Marketo Docs - Produktdokumentation
 title: Ändra ägare i Microsoft
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -30,4 +30,3 @@ Om du har befintliga personer som redan har tilldelats en ägare kan du använda
    >[!NOTE]
    >
    >Om posten ännu inte finns i ditt Dynamics-konto synkroniserar vi den och tilldelar den till den valda användaren.
-
