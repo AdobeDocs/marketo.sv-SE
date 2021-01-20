@@ -3,9 +3,9 @@ unique-page-id: 1146901
 description: Använda logik för avancerad smart listregel - Marketo Docs - Produktdokumentation
 title: Använda avancerad logik för smarta listregler
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ Du kan hitta exakt de personer du behöver genom att tillämpa logik för smarta
 
 >[!PREREQUISITES]
 >
->* [Söka efter och lägga till filter i en smart lista](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
->* [Definiera smarta listfilter](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
-
->
-
+>* [Söka efter och lägga till filter i en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
+>* [Definiera smarta listfilter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
 
 
 >[!NOTE]
@@ -30,11 +27,11 @@ Du kan hitta exakt de personer du behöver genom att tillämpa logik för smarta
 
 ## Lägg till logik i en smart lista {#add-logic-to-a-smart-list}
 
-Som standard söker den smarta listan efter personer som matchar **ALLA** filter (filters 1 *och* 2 *och* 3). Du kan ändra regellogiken för att hitta personer som matchar **ANY** för de definierade filtren (filters 1 *eller* 2 *eller* 3), eller använda avancerade filter (filters 1 *och* 2 *eller *3).
+Som standard söker den smarta listan efter personer som matchar **ALLA** filter (filters 1 _och_ 2 _och_ 3). Du kan ändra regellogiken för att hitta personer som matchar **ANY** för de definierade filtren (filters 1 _eller_ 2 _eller_ 3), eller använda avancerade filter (filters 1 _och_ 2 _eller_ 3).
 
-I det här exemplet ska vi säga att du vill hitta personer i Kalifornien *och* med ett poängvärde på minst 50 poäng *eller* med statusen&quot;Försäljningskvalificerad&quot;.
+I det här exemplet ska vi säga att du vill hitta personer i Kalifornien _och_ med ett poängvärde på minst 50 poäng _eller_ med statusen&quot;Försäljningskvalificerad&quot;.
 
-1. Välj **Använd** **Avancerade** **filter** i listrutan.
+1. Välj **Använd avancerade filter** i listrutan.
 
    ![](assets/one.png)
 
@@ -42,7 +39,7 @@ I det här exemplet ska vi säga att du vill hitta personer i Kalifornien *och* 
    >
    >Om du använder **Avancerade**-filter minskar behovet av att skapa smarta listor med filtret Medlem i smart lista. Detta hjälper till att optimera prestanda.
 
-1. Textrutan **Avancerat** **filter** visar &quot;och&quot; som standardvärde mellan alla filter.
+1. Textrutan **Avancerade filter** visar &quot;och&quot; som standardvärde mellan alla filter.
 
    ![](assets/two-2.png)
 
@@ -73,4 +70,3 @@ Beroende på din avsikt kan du behöva lägga till kapslade parenteser när du a
 >[!TIP]
 >
 >Om du anger en ogiltig regel visas en röd linje under regeln. Bläddra över texten för att se det relaterade felmeddelandet.
-
