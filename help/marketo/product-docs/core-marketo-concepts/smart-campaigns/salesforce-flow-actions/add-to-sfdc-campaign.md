@@ -3,9 +3,9 @@ unique-page-id: 1147034
 description: Lägg till i SFDC-kampanj - Marketo Docs - Produktdokumentation
 title: Lägg till i SFDC-kampanj
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -33,15 +33,13 @@ Det här flödessteget kan användas i Marketo-kampanjer eller som ett enda flö
    >
    >Om du inte kan se en Salesforce-kampanj i Campaign-listan:
    >
-   >    
-   >    
-   >    1. Kontrollera att [kampanjsynkroniseringen är aktiverad](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
-   >    1. Bekräfta att din [Marketo Sync-användare](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) är en [marknadsföringsanvändare](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) i Salesforce.
+   >  1. Kontrollera att [kampanjsynkroniseringen är aktiverad](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
+   >  1. Bekräfta att din [Marketo Sync-användare](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) är en [marknadsföringsanvändare](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) i Salesforce.
 
 
    >[!TIP]
    >
-   >Du kan använda Salesforce-kampanj [Mina token](../../../../product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) för att göra programkloningen enklare.
+   >Du kan använda Salesforce-kampanj [Mina token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) för att göra programkloningen enklare.
 
 1. Välj den Salesforce-kampanjmedlemskapsstatus som du vill tilldela leads när de läggs till.
 
@@ -49,5 +47,4 @@ Det här flödessteget kan användas i Marketo-kampanjer eller som ett enda flö
 
    >[!CAUTION]
    >
-   >Om en person redan är huvudmedlem i Salesforce-kampanjen hoppas de över och deras status uppdateras INTE. Du kan använda [ändra deras status i en SFDC-kampanj](change-status-in-sfdc-campaign.md) i stället.
-
+   >Om en person redan är huvudmedlem i Salesforce-kampanjen hoppas de över och deras status uppdateras INTE. Du kan använda [ändra deras status i en SFDC-kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md) i stället.
