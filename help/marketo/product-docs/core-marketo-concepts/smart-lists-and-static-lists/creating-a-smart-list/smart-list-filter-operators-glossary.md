@@ -3,9 +3,9 @@ unique-page-id: 557312
 description: Operatorordlista för smarta listfilter - Marketo Docs - Produktdokumentation
 title: Ordlista för operatorer för smarta listfilter
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '611'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,8 @@ ht-degree: 0%
 
 # Ordlista för operatorer för smarta listfilter {#smart-list-filter-operators-glossary}
 
-En operator är en del av [den smarta listan](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) som hjälper dig att bli specifik. Du kan beskriva filtret eller utlösaren på ett enkelt språk. De tillgängliga operatorerna är olika för varje fälttyp.\
+En operator är en del av den smarta listan som hjälper dig att få reda på mer. Du kan beskriva filtret eller utlösaren på ett enkelt språk. De tillgängliga operatorerna är olika för varje fälttyp.
+
 Här är en ordlista som beskriver varje uppsättning operatorer.
 
 ## Datumfält {#date-fields}
@@ -51,7 +52,7 @@ Skriv bara in numret och enheten så fungerar det!
 
 >[!NOTE]
 >
->Tidigare **omfattar** den dag (fram till tidpunkten, inte efter) som du skapar den smarta listan.
+>&quot;Tidigare&quot; **omfattar** den dag (fram till tidpunkten, inte efter) som du skapar den smarta listan.
 
 >[!CAUTION]
 >
@@ -102,7 +103,7 @@ Använd följande diagram för att förstå skillnaden mellan datumoperatorerna.
  <thead> 
   <tr> 
    <th colspan="1" rowspan="1">Operator</th> 
-   <th colspan="1" rowspan="1"><p>Beskrivning</p></th> 
+   <th colspan="1" rowspan="1">Beskrivning</th> 
   </tr> 
  </thead> 
  <tbody> 
