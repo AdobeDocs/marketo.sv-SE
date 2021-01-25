@@ -3,9 +3,9 @@ unique-page-id: 6848705
 description: Bästa praxis -Hur du organiserar program - Marketo Docs - Produktdokumentation
 title: Bästa praxis -Så här organiserar du dina program
 translation-type: tm+mt
-source-git-commit: 9a1713920e8d755ca77838896cdc5094f23fed09
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '859'
+source-wordcount: '843'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ Var och en av dessa nämns i exemplet är en mapp. Lägg märke till att de alla
 
 >[!TIP]
 >
->Mappen&quot;Arkiv&quot; är en speciell typ av mapp som är utformad för att ta bort objekt från utvalda listor samt rapporter. Det gör att systemet kan köras snabbare. Läs [mer om mappar](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md).
+>Mappen&quot;Arkiv&quot; är en speciell typ av mapp som är utformad för att ta bort objekt från utvalda listor samt rapporter. Det gör att systemet kan köras snabbare. Läs [mer om mappar](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md).
 
 Du kan lägga till fler mappar när du vill. Tänk bara på att framtida generationer marknadsförare i företaget kommer att leva med dina beslut om hur ni namnger/organiserar saker.
 
@@ -76,15 +76,12 @@ Namngivning är viktigt eftersom alla Marketos funktioner använder ett gemensam
 >1. NL 2015-06 nyhetsbrev
 >1. WBN 2015-12-01 Webbseminarium här
 
->
 
-
-
-Programnamnen måste vara unika i prenumerationen, även i olika [arbetsytor](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).  För lokala resurser i program är regeln att **behålla namnet enkelt**. Ange bara&quot;Inbjudan&quot; till skillnad från&quot;2015 Juniwebbinariet Invitation&quot;. Eftersom dessa finns i ett program är det överordnade programmet automatiskt en del av namnet när du väljer det någon annanstans. Med andra ord behöver lokala resurser bara vara unika inom programmet. Du kan ha hundratals resurser som heter&quot;Bjud in&quot;, var och en i ett annat program och det kommer inte att försvåra dig.
+Programnamnen måste vara unika i prenumerationen, även i olika [arbetsytor](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).  För lokala resurser i program är regeln att **behålla namnet enkelt**. Ange bara&quot;Inbjudan&quot; till skillnad från&quot;2015 Juniwebbinariet Invitation&quot;. Eftersom dessa finns i ett program är det överordnade programmet automatiskt en del av namnet när du väljer det någon annanstans. Med andra ord behöver lokala resurser bara vara unika inom programmet. Du kan ha hundratals resurser som heter&quot;Bjud in&quot;, var och en i ett annat program och det kommer inte att försvåra dig.
 
 ## Tokens {#tokens}
 
-Tokens använder mappar och program som ett hjälpmedel för att ange variabler som ska användas av landningssidor, e-postmeddelanden och andra resurser. Lär dig [allt om tokens](http://docs.marketo.com/display/docs/tokens).
+Tokens använder mappar och program som ett hjälpmedel för att ange variabler som ska användas av landningssidor, e-postmeddelanden och andra resurser.
 
 Med den organisation som nämns ovan kan du placera tokens i händelsemappen så att den överlappar alla händelser.
 
@@ -102,7 +99,7 @@ En händelse har vanligtvis många rörliga delar, bland annat: inbjudningar, la
 
 ## Åtagandeprogram {#engagement-programs}
 
-Lär dig [allt om engagemangsprogram](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md). Det bästa sättet att organisera engagemangsprogrammet är med mappar. Skapa en mapp för varje ström och placera sedan e-postmeddelandena eller programmen i den mappen. Inkludera en arkivmapp i varje ström när innehållet blir inaktuellt och du vill ta bort det.
+Lär dig [allt om engagemangsprogram](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md). Det bästa sättet att organisera engagemangsprogrammet är med mappar. Skapa en mapp för varje ström och placera sedan e-postmeddelandena eller programmen i den mappen. Inkludera en arkivmapp i varje ström när innehållet blir inaktuellt och du vill ta bort det.
 
 ## Operativa program {#operational-programs}
 
@@ -110,7 +107,7 @@ De används för datarensning. Ha mappar för de datum som programmen kördes oc
 
 ## Kapslar e-postprogram {#nesting-email-programs}
 
-E-postprogram är utformade för att vara ditt verktyg för massutskick av e-post. Du kan placera dem i Evenemang och andra program för kampanjer, inbjudningar och påminnelser. De har en häftig kontrollpanel och andra A/B-testfunktioner. Dessutom kan de enkelt hanteras i [programschemavyn](http://docs.marketo.com/display/docs/program+schedule+view).
+E-postprogram är utformade för att vara ditt verktyg för massutskick av e-post. Du kan placera dem i Evenemang och andra program för kampanjer, inbjudningar och påminnelser. De har en häftig kontrollpanel och andra A/B-testfunktioner. Dessutom kan de enkelt hanteras i programschemavyn.
 
 Du kan också skapa ett e-postprogram som ett fristående program. E-postprogram tillåts inte i andra e-postprogram. Det vore galet!
 
@@ -126,4 +123,4 @@ En del människor kan till och med abstrahera större delen av texten i e-postme
 
 ## Sammanfattning {#summary}
 
-Som du ser finns det mycket kraft i Marketo. Grunderna har beskrivits här, men tänk på ytterligare [tjänster från Marketo Experts](http://www.marketo.com/services/) för att finjustera och konfigurera dig själv för att lyckas.
+Som du ser finns det mycket kraft i Marketo. Grunderna har beskrivits här, men tänk på ytterligare [tjänster från Marketo Experts](https://www.marketo.com/services/) för att finjustera och konfigurera dig själv för att lyckas.
