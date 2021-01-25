@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: Anpassade fält för programmedlemmar - Marketo Docs - Produktdokumentation
 title: Anpassade fält för programmedlem
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Med anpassade fält för programmedlemmar kan du samla in programspecifika data 
 
    >[!NOTE]
    >
-   >Typer som stöds för anpassade fält för programmedlemmar är: boolesk, date, datetime, float, integer, string, URL. [Läs mer om fälttyper](http://docs.marketo.com/x/Wwgt).
+   >Typer som stöds för anpassade fält för programmedlemmar är: boolesk, date, datetime, float, integer, string, URL. [Läs mer om fälttyper](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
 ## Objektbeskrivningar {#object-descriptions}
 
@@ -56,7 +56,7 @@ Med anpassade fält för programmedlemmar kan du samla in programspecifika data 
 
 ## Utlösare och filter {#triggers-and-filters}
 
-Du kan använda dessa programspecifika data i smarta listor via [utlösare](http://docs.marketo.com/x/PoAR)och/eller [filter](http://docs.marketo.com/x/2YAI).
+Du kan utnyttja dessa programspecifika data i smarta listor via [utlösare](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md) och/eller [filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md).
 
 ![](assets/six.png)
 
@@ -68,10 +68,9 @@ Du kan använda dessa programspecifika data i smarta listor via [utlösare](http
 * Objektet Program Member kan ha upp till 20 anpassade fält. Dessa fält är tillgängliga för alla program.
 * När du tar bort en medlem i ett program och har data i det anpassade fältet Programmedlem, rensas data från det fältet.
 * Om du vill visa data klickar du på fliken Medlemmar i programmet och skapar en anpassad vy som innehåller dessa fält.
-* Import och export via [list](http://docs.marketo.com/x/egAk)och [API](http://developers.marketo.com/)stöds.
+* Import och export via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)och [API](https://developers.marketo.com/) stöds.
 * När du sammanfogar två personer används vinnarens anpassade fältdata för programmedlemmen. Men om vinnaren inte har något värde kommer förlorarens värde att användas.
 
 >[!MORELIKETHIS]
 >
->[Skapa ett anpassat fält i Marketo](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
-
+>[Skapa ett anpassat fält i Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
