@@ -3,9 +3,9 @@ unique-page-id: 1147112
 description: Taggar - Marketo Docs - Produktdokumentation
 title: Taggar
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -23,16 +23,13 @@ Märkordstyper identifierar den typ av information som du vill sortera efter.
 
 >[!TIP]
 >
->Tala med din [Marketo Admin](http://docs.marketo.com/display/DOCS/Create+Custom+Tags) om du vill skapa egna taggar.
+>Tala med din [Marketo Admin](/help/marketo/product-docs/administration/tags/create-custom-tags.md) om du vill skapa egna taggar.
 
 >[!NOTE]
 >
 >**Exempel**
 >
 >* Tagg Type = Program Owner
-
->
-
 
 
 ![](assets/image2014-9-17-15-3a12-3a46.png)
@@ -47,38 +44,26 @@ Varje taggtyp har värden att välja mellan.
 >
 >* Taggvärden = Anna, Arun, Reza
 
->
-
-
 
 ![](assets/image2014-9-17-15-3a16-3a8.png)
 
 ## Kanal {#channel}
 
-Kanaler används för att rapportera hur [medlemmarna](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) har gått igenom ditt program. Varje kanal har en uppsättning status för progression och en status som är inställd på samma framgång.
+Kanaler används för att rapportera hur [medlemmarna](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) har gått igenom ditt program. Varje kanal har en uppsättning status för progression och en status som är inställd på samma framgång.
 
 >[!NOTE]
 >
 >**Exempel**
 >
 >* Kanal = Roadshow
-   >
-   >
-* Progressionsstatus = Inbjuden, Registrerad, Bifogad, Ingen visning
+>* Progressionsstatus = Inbjuden, Registrerad, Bifogad, Ingen visning
 >* Lyckades = Bifogad
-
->
-
 
 
 ![](assets/image2015-2-5-16-3a57-3a59.png)
 
 >[!MORELIKETHIS]
 >
->* [Skapa egna taggar](../../../../product-docs/administration/tags/create-custom-tags.md)
->* [Skapa en programkanal](../../../../product-docs/administration/tags/create-a-program-channel.md)
-
->
-
-
+>* [Skapa egna taggar](/help/marketo/product-docs/administration/tags/create-custom-tags.md)
+>* [Skapa en programkanal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)
 
