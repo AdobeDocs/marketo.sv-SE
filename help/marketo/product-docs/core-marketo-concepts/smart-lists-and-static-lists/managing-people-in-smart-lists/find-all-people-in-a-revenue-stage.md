@@ -3,7 +3,7 @@ unique-page-id: 557331
 description: Hitta alla personer i en intäktsfas - Marketo Docs - Produktdokumentation
 title: Söka efter alla personer i en intäktsfas
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -15,15 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Skapa en smart lista](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
+>[Skapa en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 ## Sök efter alla medlemmar i en viss intäktsfas {#find-all-members-of-a-specific-revenue-stage}
 
-1. Klicka på fliken **Smart lista **i en smart lista, leta reda på filtret **Intäktsstadium** och dra det till arbetsytan.
+1. Klicka på fliken **Smart lista** i en smart lista, leta reda på filtret **Intäktsstadium** och dra det till arbetsytan.
 
    ![](assets/draginrevenuefilter.png)
 
@@ -44,4 +40,3 @@ Nu när ni vet vilka människor som befinner sig i vilka intäktsfaser kan ni ma
    ![](assets/six.png)
 
    Därifrån kan du välja vilka medlemmar som ska påverkas av vilken aspekt av flödessteget. Kul!
-
