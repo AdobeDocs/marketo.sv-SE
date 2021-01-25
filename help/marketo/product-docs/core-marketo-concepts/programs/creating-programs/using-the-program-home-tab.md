@@ -3,9 +3,9 @@ unique-page-id: 1147126
 description: Använda hemfliken Program - Marketo Docs - Produktdokumentation
 title: Använda fliken Program
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -29,11 +29,11 @@ På startfliken för programmet får du en översikt över vad som pågår i pro
    >
    >Det här är standardvyn. Den innehåller information om din status för Inställningar, Schema, Resultat och Medlemmsprogram.
 
-   Klicka på understrukna element om du vill göra ändringar eller visa mer information.
+1. Klicka på understrukna element om du vill göra ändringar eller visa mer information.
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-   Klicka på Exportera längst ned i Sammanfattning för att hämta rapporten.
+1. Klicka på **Exportera** längst ned i sammanfattningen för att hämta rapporten.
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
@@ -69,12 +69,6 @@ På startfliken för programmet får du en översikt över vad som pågår i pro
    >
    >**Med** historik avses alla som har gått igenom programmet, medan  **** för närvarande endast omfattar personer som för närvarande deltar i programmet.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
-   >
-   >    
-   >    
-   >    * [Förstå programmedlemskap](understanding-program-membership.md)
-
-
+   >[Förstå programmedlemskap](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
