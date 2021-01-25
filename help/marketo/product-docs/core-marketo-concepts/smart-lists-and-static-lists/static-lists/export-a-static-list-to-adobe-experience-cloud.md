@@ -3,9 +3,9 @@ unique-page-id: 37356194
 description: Exportera en statisk lista till Adobe Experience Cloud - Marketo Docs - Produktdokumentation
 title: Exportera en statisk lista till Adobe Experience Cloud
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '587'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Konfigurera Adobe Experience Cloud målgruppsdelning](http://docs.marketo.com/x/D4GMAg)
+>[Konfigurera Adobe Experience Cloud målgruppsdelning](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
 
 ## Målprogram som stöds {#supported-destination-applications}
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 **Dela till Adobe Analytics**
 
-För kunder som äger både Adobe Audience Manager och Adobe Analytics kommer integreringen att göra det möjligt att dela målgrupper från Marketo till dina Adobe Analytics Report Suites, men det finns några ytterligare konfigurationsåtgärder som måste vidtas i Adobe Audience Manager för att detta ska vara möjligt. Läs Adobe Audience Manager dokumentation om du vill veta mer om hur du konfigurerar detta: [https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](http://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html).
+För kunder som äger både Adobe Audience Manager och Adobe Analytics kommer integreringen att göra det möjligt att dela målgrupper från Marketo till dina Adobe Analytics Report Suites, men det finns några ytterligare konfigurationsåtgärder som måste vidtas i Adobe Audience Manager för att detta ska vara möjligt. Läs Adobe Audience Manager dokumentation om du vill veta mer om hur du konfigurerar detta: [https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 **Trait Usage för Adobe Audience Manager-kunder**
 
@@ -80,4 +80,4 @@ Under huven fungerar målgruppsintegreringen genom att synkronisera Marketo Munc
 
 När cookie-synkroniseringen är aktiverad för din Marketo-prenumeration försöker Marketos munchkin.js att hämta och lagra ECID:n för Adobe för den Adobe IMS-organisation som du angav under integreringsinställningen och matcha dessa ECID:n med motsvarande Marketo-cookie-identifierare. Detta gör att Marketos anonyma användarprofiler kan berikas med Adobe ECID:n.
 
-Ytterligare ett steg krävs för att koppla den anonyma användarprofilen till en lead-profil, som identifieras med ett enkelt textmeddelande. Exakt hur detta fungerar beskrivs här: [https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](http://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People).
+Ytterligare ett steg krävs för att koppla den anonyma användarprofilen till en lead-profil, som identifieras med ett enkelt textmeddelande. Exakt hur detta fungerar beskrivs här: [https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People).
