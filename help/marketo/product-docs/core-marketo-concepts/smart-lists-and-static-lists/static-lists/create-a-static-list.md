@@ -3,9 +3,9 @@ unique-page-id: 11387513
 description: Skapa en statisk lista - Marketo Docs - Produktdokumentation
 title: Skapa en statisk lista
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,8 @@ Statiska listor är en grupp personer som redan finns i din databas. Så här sk
 
    ![](assets/three.png)
 
-   Du har nu en tom lista som är klar att fyllas i. Lär dig hur du lägger till personer [här](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists#UnderstandingStaticLists-WaystoAdd/RemoveLeadsfromaList).
+   Du har nu en tom lista som är klar att fyllas i. Lär dig hur du lägger till personer [här](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md#ways-to-add-remove-people-from-a-list).
 
    >[!NOTE]
    >
    >Du kan lägga till en person i listan så många gånger du vill, men de visas bara en gång. Personer finns kvar i listan tills du tar bort dem.
-
