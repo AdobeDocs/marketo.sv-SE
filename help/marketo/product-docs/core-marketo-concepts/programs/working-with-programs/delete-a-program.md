@@ -3,7 +3,7 @@ unique-page-id: 1147148
 description: Ta bort ett program - Marketo Docs - produktdokumentation
 title: Ta bort ett program
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Du kan arkivera ett program, men ibland vill du bara göra dig av med det perman
 
 ![](assets/image2014-9-23-15-3a40-3a57.png)
 
-1. Klicka på Programåtgärder. Klicka på Ta bort.
+1. Klicka på **Programåtgärder**. Klicka på **Ta bort**.
 
    ![](assets/image2014-9-23-15-3a41-3a11.png)
 
-1. Välj alternativet Ta bort alla. Granska biverkningarna av borttagningen av programmet och klicka sedan på Ta bort för att bekräfta.
+1. Välj alternativet Ta bort alla. Granska biverkningarna av borttagningen av programmet och klicka sedan på **Ta bort** för att bekräfta.
 
 >[!TIP]
 >
@@ -43,9 +43,8 @@ För att åtgärda problemet kan du behöva gå ned på detaljnivå och ta bort 
 
    ![](assets/image2014-9-23-15-3a42-3a10.png)
 
-1. Klicka på **Används** **Av** för att se var resursen används.
+1. Klicka på **Används av** för att se var resursen används.
 
    ![](assets/image2014-9-23-15-3a42-3a57.png)
 
    När du vet var resursen används går du till den och tar bort/godkänner. Försök sedan att ta bort programmet igen.
-
