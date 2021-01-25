@@ -3,7 +3,7 @@ unique-page-id: 2953173
 description: Använd listmedlemmar i en smart lista - Marketo Docs - Produktdokumentation
 title: Använda listmedlemmar i en smart lista
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Du kan lägga till personer i en lista med [Importera](../../../../getting-started/quick-wins/import-a-list-of-people.md) eller [Lägg till i listflödessteget](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md).
+>Du kan lägga till personer i en lista med [Importera](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) eller [Lägg till i listflödessteget](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md).
 
 Med det här filtret kan du hämta medlemmar från en annan lista genom att referera till den i reglerna för smarta listor. Så här gör du.
 
@@ -31,5 +31,4 @@ Med det här filtret kan du hämta medlemmar från en annan lista genom att refe
 
    ![](assets/memberoflist.png)
 
-   **Klart!** I det här exemplet kommer den smarta listan nu endast att rikta sig till medlemmar i den listan och utvärdera dem baserat på andra regler som du inkluderar.
-
+   Klart! I det här exemplet kommer den smarta listan nu endast att rikta sig till medlemmar i den listan och utvärdera dem baserat på andra regler som du inkluderar.
