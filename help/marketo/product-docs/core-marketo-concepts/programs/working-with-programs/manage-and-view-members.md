@@ -3,9 +3,9 @@ unique-page-id: 1147122
 description: Hantera och visa medlemmar - Marketo Docs - Produktdokumentation
 title: Hantera och visa medlemmar
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Du kan hantera och visa dina medlemmar i dina program på fliken Medlemmar.
 
 >[!NOTE]
 >
->**Djupdykning**
->
-> Gör mer i [programmedlemskapet](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
+>Gör mer i [programmedlemskapet](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
 
 ## Sök efter en medlem {#search-for-a-member}
 
@@ -41,21 +39,21 @@ Du kan exportera din medlemslista genom att klicka på Excel-ikonen bredvid sök
 
 ## Hantera kolumner i medlemsstödrastret {#manage-columns-in-the-members-grid}
 
-* Dra och släpp kolumner för att ändra deras ordning. De blå pilarna anger vart kolumnen ska placeras.
+Dra och släpp kolumner för att ändra deras ordning. De blå pilarna anger vart kolumnen ska placeras.
 
-   ![](assets/image2014-10-1-16-3a25-3a30.png)
+![](assets/image2014-10-1-16-3a25-3a30.png)
 
-* Högerklicka på kolumnrubriken om du vill sortera i bokstavsordning, antingen stigande eller fallande.
+Högerklicka på kolumnrubriken om du vill sortera i bokstavsordning, antingen stigande eller fallande.
 
-   ![](assets/image2014-10-1-17-3a3-3a28.png)
+![](assets/image2014-10-1-17-3a3-3a28.png)
 
 ## Välj vilka kolumner som ska visas i stödrastret {#choose-which-columns-are-visible-in-the-grid}
 
-1. Klicka på listrutan **Visa **och välj **Skapa vy**.
+1. Klicka på listrutan **Visa** och välj **Skapa vy**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. Namnge din anpassade vy. Välj kolumnrubriker. Klicka** Lägg till **och** Ta bort **för att flytta kolumner och skapa en vy.
+1. Namnge din anpassade vy. Välj kolumnrubriker. Klicka på **Lägg till** och **Ta bort** för att flytta kolumner och skapa en vy.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
@@ -89,9 +87,4 @@ Många funktioner, men de är ganska enkla. Mycket nöje!
 
 >[!MORELIKETHIS]
 >
->* [Skapa en rapport om programprestanda](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
-
->
-
-
-
+>[Skapa en rapport om programprestanda](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
