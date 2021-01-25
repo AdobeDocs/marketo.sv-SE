@@ -3,9 +3,9 @@ unique-page-id: 1147118
 description: Använda periodkostnader i ett program - Marketo Docs - Produktdokumentation
 title: Använda periodkostnader i ett program
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,7 @@ ht-degree: 0%
 
 # Använda periodkostnader i ett program {#using-period-costs-in-a-program}
 
-En [periodkostnad](understanding-period-costs.md) är den summa du spenderar på ett program. Den kan vara i en eller flera månader och används för att rapportera ROI.
-
->[!NOTE]
->
->**Djupdykning**
->
-> Läs mer om [Intäktscykelanalys](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+En [periodkostnad](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md) är den summa du spenderar på ett program. Den kan vara i en eller flera månader och används för att rapportera ROI.
 
 ## Lägg till en periodkostnad {#add-a-period-cost}
 
@@ -54,7 +48,8 @@ En [periodkostnad](understanding-period-costs.md) är den summa du spenderar på
 ## Redigera en periodkostnad {#edit-a-period-cost}
 
 1. Om du spenderar mer eller mindre pengar än vad som ursprungligen planerats kan du redigera periodkostnaden.
-1. Gå till fliken **Setup **i programmet.
+
+1. Gå till fliken **Inställningar** i programmet.
 
    ![](assets/image2014-9-18-14-3a3-3a6.png)
 
@@ -76,17 +71,12 @@ En [periodkostnad](understanding-period-costs.md) är den summa du spenderar på
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
-1. Bekräfta genom att klicka på **Ta bort **.
+1. Bekräfta genom att klicka på **Ta bort**.
 
    ![](assets/image2014-9-18-14-3a4-3a35.png)
 
 >[!MORELIKETHIS]
 >
->* [Förstå periodkostnader](understanding-period-costs.md)
->* [Analys av intäktscykler](http://docs.marketo.com/display/docs/revenue+cycle+analytics)
->* [Filtrera en programrapport efter periodkostnad](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
-
->
-
-
+>* [Förstå periodkostnader](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
+>* [Filtrera en programrapport efter periodkostnad](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
 
