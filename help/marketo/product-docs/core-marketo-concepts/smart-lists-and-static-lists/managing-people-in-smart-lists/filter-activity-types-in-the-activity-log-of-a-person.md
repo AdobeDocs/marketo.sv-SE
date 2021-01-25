@@ -3,9 +3,9 @@ unique-page-id: 2952402
 description: Filtrera aktivitetstyper i aktivitetsloggen för en person - Marketo Docs - produktdokumentation
 title: Filtrera aktivitetstyper i aktivitetsloggen för en person
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Sök efter aktiviteter som är viktiga för dig i aktivitetsloggen.
 
 >[!NOTE]
 >
->**Djupdykning**
->
->Läs mer om [aktivitetsloggen](locate-the-activity-log-for-a-person.md).
+>Läs mer om [aktivitetsloggen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md).
 
 1. Gå till sidan **Personinformation**. Klicka på fliken **Aktivitetslogg**.
 
@@ -58,4 +56,3 @@ Det går att komma åt sparade filter från listrutan **Filter**.
 1. Klicka på **Sparade filter**. Sparade filter visas nedan.
 
    ![](assets/eight.png)
-
