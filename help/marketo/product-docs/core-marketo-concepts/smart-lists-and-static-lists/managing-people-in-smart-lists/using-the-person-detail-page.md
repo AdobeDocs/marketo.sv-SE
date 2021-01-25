@@ -3,9 +3,9 @@ unique-page-id: 2953415
 description: Använda personinformationssidan - Marketo Docs - Produktdokumentation
 title: Använda personinformationssidan
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '532'
+source-wordcount: '527'
 ht-degree: 0%
 
 ---
@@ -17,21 +17,15 @@ Personinformationssidan innehåller all information som Marketo känner till om 
 
 ## Komma till personinformationssidan {#getting-to-person-detail-page}
 
-Det finns många sätt att öppna specifika personer. Några exempel visas nedan.
+Det finns många sätt att öppna specifika personer. Några exempel är:
 
->[!NOTE]
->
->**Exempel**
->
->* I **databasen** kan du söka i Snabbsökning
->* Valfri smart **lista** eller lista
->* **Medlemskap** i ett program
->* **Visa kampanjmedlemskap** i en smart kampanj
->* Vissa **rapporter**
+* I **databasen** kan du söka i Snabbsökning
+* Valfri smart **lista** eller lista
+* **Medlemskap** i ett program
+* **Visa kampanjmedlemskap** i en smart kampanj
+* Vissa **rapporter**
 
->
-
-
+   <br> 
 
 1. Dubbelklicka på en person eller klicka en gång på ID:t till vänster.
 
@@ -96,9 +90,7 @@ Många fält kan redigeras. Om du vill uppdatera en persons information skriver 
 
 >[!NOTE]
 >
->**Djupdykning**
->
->Vissa fält är *inte* redigerbara:
+>Vissa fält är _inte_ redigerbara:
 >
 >* Företagsinformation
 >* Möjligheter för SFDC-kontakter
@@ -107,13 +99,8 @@ Många fält kan redigeras. Om du vill uppdatera en persons information skriver 
 
 >
 >
-Läs mer om [Systemhanterade fält](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md).
+Läs mer om [Systemhanterade fält](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
 
 >[!MORELIKETHIS]
 >
->* [Skapa en anpassad flik för personinformationssidan](../../../../product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
-
->
-
-
-
+>[Skapa en anpassad flik för personinformationssidan](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
