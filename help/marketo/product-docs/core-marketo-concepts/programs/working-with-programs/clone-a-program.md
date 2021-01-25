@@ -3,9 +3,9 @@ unique-page-id: 1147110
 description: Clone a Program - Marketo Docs - Produktdokumentation
 title: Klona ett program
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Du kan snabbt och enkelt klona ett helt program och alla dess resurser i stället för att manuellt återskapa allt. Så här gör du.
 
-1. Sök efter och välj det program du vill klona och klicka sedan på **Klona under &lt;a0/>Programåtgärder**.****
+1. Sök efter och välj det program du vill klona och klicka sedan på **Klona under** Programåtgärder **.**
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
@@ -23,22 +23,20 @@ Du kan snabbt och enkelt klona ett helt program och alla dess resurser i ställe
 
    >[!NOTE]
    >
-   >Program kan klonas till [kampanj](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [mappar](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) eller [arbetsytor](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Se till att du delar alla underliggande beroende resurser (e-post, kodavsnitt, mallar för landningssidor osv.) med målarbetsytan innan du klonar.
+   >Program kan klonas till [kampanj](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [mappar](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) eller [arbetsytor](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Se till att du delar alla underliggande beroende resurser (e-post, kodavsnitt, mallar för landningssidor osv.) med målarbetsytan innan du klonar.
 
    ![](assets/cloneto.png)
 
    >[!NOTE]
    >
-   >**Förklaring**
-   >
-   >
    >Ser du NOTE i skärmbilden ovan? Det innebär att om du klonar ett program med 1 000 eller fler personer i en lista kommer själva listan att klonas, men den kommer att vara tom. Om du klonar ett program med en lista som innehåller 999 personer eller mindre visas den listan tillsammans med alla dess medlemmar i det klonade programmet.
 
-   Ange ett namn.
+1. Ange ett namn.
 
    ![](assets/cloneprogramname.png)
 
-   Välj den mapp som du vill klona programmet till.
+1. Välj den mapp som du vill klona programmet till.
+
    ![](assets/choosefolderclone.png)
 
 1. Lägg till en valfri beskrivning och klicka sedan på **Skapa**. Se hur snabbt du kunde skapa ett nytt program med allt material redo att användas!
@@ -47,9 +45,8 @@ Du kan snabbt och enkelt klona ett helt program och alla dess resurser i ställe
 
    >[!TIP]
    >
-   >Använd den här tekniken tillsammans med [tokens](http://docs.marketo.com/display/docs/using+tokens) för att skapa nya program i en handvändning.
+   >Använd den här tekniken tillsammans med variabler för att skapa nya program på ett kick.
 
    >[!CAUTION]
    >
    >Periodkostnaderna överförs inte över, så lägg till dem i ditt klonade program om du hade en uppsättning i originalet.
-
