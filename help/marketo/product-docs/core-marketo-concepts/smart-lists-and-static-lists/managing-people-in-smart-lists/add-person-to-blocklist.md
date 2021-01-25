@@ -3,7 +3,7 @@ unique-page-id: 9438139
 description: Lägg till person i Blockeringslista - Marketo Docs - Produktdokumentation
 title: Lägg till person i Blockeringslista
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -19,7 +19,8 @@ Genom att lägga till personer på Blockeringslista kan de inte ta emot din korr
 >
 >Marketo håller på att ändra termer som Blacklist och Whitelist för att Blocklist och Tillåtslista i vår produkt. Under den här uppdateringen kan du se de gamla villkoren i våra användargränssnitt och skärmbilder för dokumentation samt de nya villkoren i vår dokumentationstext. Vi ber om ursäkt för all förvirring.
 
-1. [Skapa ett nytt ](../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) standardprogram och ge det namnet  **Lägg till i Blockeringslista**.
+1. [Skapa ett nytt ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) standardprogram och ge det namnet  **Lägg till i Blockeringslista**.
+
 1. Klicka på **Ny** och välj **Ny lokal resurs**.
 
    ![](assets/image2015-8-14-11-3a0-3a46.png)
@@ -72,5 +73,4 @@ Genom att lägga till personer på Blockeringslista kan de inte ta emot din korr
 
    >[!TIP]
    >
-   >Skapa en [utlösande smart kampanj](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) med **Ändra datavärde** med **Listat block är true** för alla personer i framtiden som har attribut som kan blocklist.
-
+   >Skapa en [utlösande smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) med **Ändra datavärde** med **Listat block är true** för alla personer i framtiden som har attribut som kan blocklist.
