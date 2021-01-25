@@ -3,9 +3,9 @@ unique-page-id: 1147124
 description: Använda fliken Resurser - Marketo Docs - produktdokumentation
 title: Använda fliken Resurser
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,8 @@ Du kan högerklicka på rubriken om du vill interagera med resursen.
 >
 >Dra och släpp för att ordna om resurskolumnerna.
 
-Resurser som inte är lokala i ditt program ser ut så här:  ![](assets/image2014-9-18-16-3a30-3a33.png)
+Resurser som inte är lokala i ditt program ser ut så här:
+
+![](assets/image2014-9-18-16-3a30-3a33.png)
 
 Fliken Resurser är en bra liten kontrollpanel för allt som finns i programmet och som programmet refererar till.
