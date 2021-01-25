@@ -3,9 +3,9 @@ unique-page-id: 7504676
 description: Förstå periodkostnader - Marketo Docs - Produktdokumentation
 title: Förstå periodkostnader
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,9 @@ Periodkostnader avser de pengar du spenderar under en viss månad på ett progra
 
 >[!NOTE]
 >
->**Djupdykning**
+>[Förstå program](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
 >
->[Förstå program](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
->
->[Förstå programmedlemskap](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+>[Förstå programmedlemskap](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
 ## Hur periodkostnader beräknas {#how-period-costs-are-calculated}
 
@@ -63,18 +61,10 @@ Tänk dig en händelse, som ett webbinarium, som inträffar i mars. Nya människ
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
-   >
-   >Sammanfattningsvis - månader utan definierade periodkostnader kommer att gå bakåt till den sista som definierats. Om det inte finns någon kostnad för föregående period kommer månaderna att flyttas fram till nästa som har definierats. Om en periodkostnad inte har definierats för *några* månader kommer rapportering i RCE inte att vara tillgänglig för programmet.
+   >Sammanfattningsvis - månader utan definierade periodkostnader kommer att gå bakåt till den sista som definierats. Om det inte finns någon kostnad för föregående period kommer månaderna att flyttas fram till nästa som har definierats. Om en periodkostnad inte har definierats för _några_ månader kommer rapportering i RCE inte att vara tillgänglig för programmet.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
-   >
-   >    
-   >    
-   >    * [Använda periodkostnader i ett program](using-period-costs-in-a-program.md)
-   >    * [Filtrera en programrapport efter periodkostnad](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
-
+   >* [Använda periodkostnader i ett program](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
+   >* [Filtrera en programrapport efter periodkostnad](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
 
