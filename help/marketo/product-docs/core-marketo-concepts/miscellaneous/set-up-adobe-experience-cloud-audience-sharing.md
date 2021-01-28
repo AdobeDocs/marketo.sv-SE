@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: Konfigurera Adobe Experience Cloud Audience Sharing - Marketo Docs - produktdokumentation
 title: Konfigurera Adobe Experience Cloud målgruppsdelning
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Om du vill dela målgruppsdata med dina Adobe-program måste du först ange dina
 
    ![](assets/three-2.png)
 
-1. Ange ditt Adobe IMS-organisations-ID (läs om hur du hittar [här](http://docs.adobe.com/content/help/en/control-panel/using/faq.html)) och klicka på **OK**.
+1. Ange ditt Adobe IMS-organisations-ID (läs om hur du hittar [här](https://docs.adobe.com/content/help/en/control-panel/using/faq.html)) och klicka på **OK**.
 
    ![](assets/four-2.png)
 
@@ -47,7 +47,6 @@ Om du vill dela målgruppsdata med dina Adobe-program måste du först ange dina
    >
    >Av säkerhetsskäl måste du vara organisationsadministratör för den Adobe-organisation som du vill mappa till. Annars misslyckas åtgärden.
 
-1. Om du *inte* redan är inloggad visas ett popup-fönster på en ny flik/i ett nytt fönster. Logga in på din Adobe-organisation (den här åtgärden verifierar organisationsåtkomsten).
+1. Om du _inte_ redan är inloggad visas ett popup-fönster på en ny flik/i ett nytt fönster. Logga in på din Adobe-organisation (den här åtgärden verifierar organisationsåtkomsten).
 
-   Och det är allt! Nu kan du börja [dela målgruppsdata](http://docs.marketo.com/x/ogI6Ag).
-
+   Och det är allt! Nu kan du börja [dela målgruppsdata](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md).
