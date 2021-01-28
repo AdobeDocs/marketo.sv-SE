@@ -3,9 +3,9 @@ unique-page-id: 2953364
 description: Förstå/aktivera programfokus - Marketo Docs - Produktdokumentation
 title: Förstå/aktivera programfokus
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Förstå/aktivera programfokus {#understand-enable-program-focus}
 
-Marknadsföringskalendern ger er en fågelperspektiv på saker och ting, men den tillåter också vissa interaktioner. Du kan [skapa](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [redigera](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [ta bort](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md) och [bekräfta](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md) poster. För att kunna interagera med tävlingsbidragen måste du först fokusera på ett program.
+Marknadsföringskalendern ger er en fågelperspektiv på saker och ting, men den tillåter också vissa interaktioner. Du kan [skapa](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [redigera](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [ta bort](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md) och [bekräfta](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md) poster. För att kunna interagera med tävlingsbidragen måste du först fokusera på ett program.
 
-1. Gå till **Marketing** **Calendar**.
+1. Gå till **marknadsföringskalendern**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
@@ -39,12 +39,8 @@ Häftig! Lär dig interagera med tävlingsbidragen nu.
 
 >[!MORELIKETHIS]
 >
->* [Skapa transaktioner direkt i marknadsföringskalendern](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)
->* [Redigera poster direkt i marknadsföringskalendern](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)
->* [Radera transaktioner direkt i marknadsföringskalendern](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
->* [Bekräfta transaktioner direkt i marknadsföringskalendern](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)
-
->
-
-
+>* [Skapa transaktioner direkt i marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)
+>* [Redigera poster direkt i marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)
+>* [Radera transaktioner direkt i marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
+>* [Bekräfta transaktioner direkt i marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)
 
