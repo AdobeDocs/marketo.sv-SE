@@ -3,7 +3,7 @@ unique-page-id: 2953331
 description: Kör en smart kampanj igen i programschemavy - Marketo Docs - produktdokumentation
 title: Kör en smart kampanj igen i programschemavy
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -33,6 +33,6 @@ Du kan enkelt skapa nya körningar av en befintlig smart kampanj direkt från pr
 
    >[!TIP]
    >
-   >Du kan även göra detta från [programfokus](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
+   >Du kan även göra detta från [programfokus](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
 
 Boom! På samma sätt har du schemalagt en ny körning för den smarta kampanjen. Om den smarta kampanjen innehöll e-poststeg för att skicka dem ser du även dem!
