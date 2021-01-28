@@ -3,7 +3,7 @@ unique-page-id: 2949839
 description: Checka in personer i ditt event från din surfplatta - Marketo Docs - produktdokumentation
 title: Checka in personer i din aktivitet från surfplattan
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
@@ -22,13 +22,11 @@ Appen fungerar likadant på både iPad och Android, förutom små skillnader i l
 >* Skapa en händelse i Marketo och fyll i den med Inbjudna och registrerade personer.
 >* Hämta appen för surfplattan för [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) eller [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
 
->
-
-
 
 ## Checka in registrerade gäster {#check-in-registered-guests}
 
 1. Tryck på appikonen på din iPad eller Android-surfplatta.
+
 1. Tryck på **Logga in** för att starta Marketo Event-appen.
 
    ![](assets/1.jpg)
@@ -57,7 +55,9 @@ Appen fungerar likadant på både iPad och Android, förutom små skillnader i l
    >
    >Processen är densamma på iPad och Android, men skärmarna skiljer sig åt och objekten kan finnas på olika platser. Den här artikeln innehåller iPad-gränssnittet. Jämför Android-skärmen i det här avsnittet för referens.
 
-   **iPad** ![](assets/image2016-4-15-11-3a55-3a11.png)
+   **iPad**
+
+   ![](assets/image2016-4-15-11-3a55-3a11.png)
 
    **Android**
 
@@ -111,7 +111,7 @@ Den nya personen registreras som incheckad till din händelse och läggs till i 
 
 ## Invertera en incheckning {#reverse-a-check-in}
 
-Om du checkade in en person av misstag, *innan du synkroniserade med Marketo*, kan du vända på statusen Bifogad.
+Om du checkade in en person av misstag, _innan du synkroniserade med Marketo_, kan du vända på statusen Bifogad.
 
 1. Tryck på namnet i listan och tryck på **Ångra** i personposten.
 
@@ -146,6 +146,7 @@ Appen Marketo Events fungerar oberoende tills du synkroniserar din aktivitet til
 >När du har synkroniserat kan du inte återföra en incheckning från appen.
 
 1. Öppna appen på surfplattan och navigera till din aktivitet.
+
 1. Tryck på **Synkronisera**.
 
    Din aktivitet uppdateras med nya incheckningar i Marketo-databasen. Den röda räknaren på knappen Synkronisera avmarkeras tills du checkar in någon annan.
@@ -170,4 +171,3 @@ Om du är oroad över internetåtkomst på platsen kanske du vill logga in på M
 >[!NOTE]
 >
 >Appen loggar automatiskt ut dig efter åtta timmars inaktivitet.
-
