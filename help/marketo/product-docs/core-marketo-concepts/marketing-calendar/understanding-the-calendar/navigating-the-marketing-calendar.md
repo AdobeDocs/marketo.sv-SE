@@ -3,9 +3,9 @@ unique-page-id: 1147257
 description: Navigera i marknadsföringskalendern - Marketo Docs - Produktdokumentation
 title: Navigera i marknadsföringskalendern
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Det är enkelt att navigera runt i marknadsföringskalendern som en, två, tre!
 
 >[!PREREQUISITES]
 >
->Kontrollera att du har en [licens för marknadsföringskalender](issue-revoke-a-marketing-calendar-license.md) - annars visas inte rutan för marknadsföringskalender i Min marknadsföring.
+>Kontrollera att du har en [licens för marknadsföringskalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) - annars visas inte rutan för marknadsföringskalender i Min marknadsföring.
 
 1. Gå till **marknadsföringskalendern**.
 
@@ -39,9 +39,7 @@ I dagordningsvyn visas alla dina bidrag som en lista.
 
 1. Klicka på listrutan **Filter**.
 
-   ` ![](assets/image2014-9-26-10-3a29-3a6.png)
-
-   `
+   ![](assets/image2014-9-26-10-3a29-3a6.png)
 
 1. Välj vyn **Dagordning**.
 
@@ -67,9 +65,6 @@ Du kan också använda dessa kortkommandon.
 
 Häftig! Det här är grunderna. Du kan också anpassa vyn med hjälp av filter.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Relaterade artiklar**
->
->* [Filtrera marknadsföringskalendern](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
-
+>[Filtrera marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
