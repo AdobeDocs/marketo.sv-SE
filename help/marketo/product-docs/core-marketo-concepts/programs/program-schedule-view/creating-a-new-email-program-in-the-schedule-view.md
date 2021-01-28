@@ -3,9 +3,9 @@ unique-page-id: 1147144
 description: Skapa ett nytt e-postprogram i schemavy - Marketo Docs - produktdokumentation
 title: Skapa ett nytt e-postprogram i schemavy
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Du kan skapa ett e-postprogram i programschemavyn. Så här gör du.
 
    ![](assets/image2014-9-23-15-3a35-3a16.png)
 
-1. Ange ett namn. Välj **E-post** **Program**.
+1. Ange ett namn. Välj **E-postprogram**.
 
    ![](assets/image2014-9-23-15-3a35-3a32.png)
 
@@ -35,9 +35,8 @@ Du kan skapa ett e-postprogram i programschemavyn. Så här gör du.
 
    ![](assets/image2014-9-23-15-3a35-3a42.png)
 
-1. [Konfigurera e-postprogrammet ](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) och klicka på  **Godkänn program**.
+1. [Konfigurera e-postprogrammet ](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) och klicka på  **Godkänn program**.
 
    ![](assets/learnaboutthespeaker.png)
 
-   Förutom den detaljerade kontrollpanelen är en fördel med att använda ett [e-postprogram](http://docs.marketo.com/display/docs/email+programs) i stället för en smart kampanj att enkelt implementera ett [A/B-test](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md). Mycket nöje!
-
+   Förutom den detaljerade kontrollpanelen är en fördel med att använda ett [e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md) i stället för en smart kampanj att enkelt implementera ett [A/B-test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md). Mycket nöje!
