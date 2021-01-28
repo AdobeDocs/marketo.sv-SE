@@ -3,7 +3,7 @@ unique-page-id: 10099363
 description: Konfigurera iPad- eller Android-surfplattan - Marketo Docs - Produktdokumentation
 title: Konfigurera iPad- eller Android-surfplattan
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Om din iPad inte redan har Marketo Events-appen installerad gör du så här.
 
 Om din Android-surfplatta inte har något Marketo Events-program installerat ännu, så här skaffar du det.
 
-1. Öppna surfplattan och tryck på appen** Google Play Store**.
+1. Öppna din surfplatta och tryck på appen **Google Play Store**.
 1. I sökrutan anger du **Marketo** och trycker på **Return**.
 1. I sökresultaten trycker du på **Marketo Events**-appen.
 
@@ -69,7 +69,7 @@ Innan du tilldelar iPad eller surfplattor till annan visningspersonal måste du 
 Synkronisera för att vara säker på att de personer du har lagt till finns där.
 
 1. Öppna din aktivitet i iPad- eller Android-appen.
-1. Leta efter folk. Om du inte ser dem trycker du på **Synkronisera **för att synkronisera appen och läsa in listan med personer för händelser igen.
+1. Leta efter folk. Om du inte ser dem trycker du på **Synkronisera** för att synkronisera appen och läsa in listan med händelser igen.
 
    **iPad**
 
@@ -83,7 +83,7 @@ Synkronisera för att vara säker på att de personer du har lagt till finns dä
 
 Kontrollera att incheckningar fungerar från iPad eller surfplatta före händelsen.
 
-1. I appen [kontrollerar du en testlead i](check-people-into-your-event-from-your-tablet.md).
+1. I appen [kontrollerar du en testlead i](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 1. Tryck på ikonen **Synkronisera** för att synkronisera appen.
 1. Öppna din händelse i Marketo och klicka på **Medlemmar**.
 
@@ -96,4 +96,3 @@ Kontrollera att incheckningar fungerar från iPad eller surfplatta före händel
    >[!TIP]
    >
    >Använd dig själv som testperson.
-
