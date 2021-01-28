@@ -3,9 +3,9 @@ unique-page-id: 1147100
 description: Navigera i programschemavy - Marketo Docs - produktdokumentation
 title: Navigera i programschemavy
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Här är grunderna som hjälper dig att navigera i programschemavyn.
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
-   Groovy. Nu ska vi titta på schemaläggningen av ditt program.
+   Nu ska vi titta på schemaläggningen av ditt program.
 
    ![](assets/image2014-9-17-11-3a38-3a14.png)
 
@@ -33,7 +33,8 @@ Här är grunderna som hjälper dig att navigera i programschemavyn.
 >
 >Vyn för programschemat är fast. När du har angett det används schemavyn som standard för alla program.
 
-1. Växla mellan poster
+## Växla mellan poster {#switching-between-entries}
+
 1. Klicka på pilarna i informationen om inlägget för att gå till nästa schemalagda inmatning.
 
    ![](assets/image2014-9-17-11-3a38-3a54.png)
@@ -42,7 +43,8 @@ Här är grunderna som hjälper dig att navigera i programschemavyn.
 
    ![](assets/image2014-9-17-11-3a39-3a10.png)
 
-1. Snabbmenyn Visa
+## Snabbmenyn Visa {#view-context-menu}
+
 1. Högerklicka på ett program för att göra ändringar i Programmet, Smart List, Setup, My Tokens eller Members.
 
    ![](assets/image2014-9-17-11-3a39-3a59.png)
@@ -63,9 +65,4 @@ Bra! Nu när du vet hur man visar programmet kan vi lära oss andra coola saker 
 
 >[!MORELIKETHIS]
 >
->* [Skapa ett inlägg i programschemavy](creating-an-entry-in-the-program-schedule-view.md)
-
->
-
-
-
+>[Skapa ett inlägg i programschemavy](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md)
