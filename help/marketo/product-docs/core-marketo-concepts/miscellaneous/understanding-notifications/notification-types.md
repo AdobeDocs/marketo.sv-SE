@@ -3,7 +3,7 @@ unique-page-id: 2953243
 description: Meddelandetyper - Marketo Docs - produktdokumentation
 title: Meddelandetyper
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Om du försöker skicka leads till Facebook utan att godkänna användarvillkore
 
 Rensa inaktiv utlösarkampanj
 
-Inaktivera utlösta smarta kampanjer som inte längre får någon aktivitet. Läs mer om [automatisk rensning av utlösningskampanj](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
+Inaktivera utlösta smarta kampanjer som inte längre får någon aktivitet. Läs mer om [automatisk rensning av utlösningskampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
 LinkedIn
 
@@ -61,5 +61,4 @@ Du meddelas när du når din dagliga kvot. Kvotmängden återställs varje natt 
 
 >[!NOTE]
 >
->En del felkoder som du kan få beskrivs i vår [Developer Documentation](http://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).
-
+>En del felkoder som du kan få beskrivs i vår [Developer Documentation](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).
