@@ -3,9 +3,9 @@ unique-page-id: 1147306
 description: Filtrera marknadsföringskalendern efter Workspace - Marketo Docs - Produktdokumentation
 title: Filtrera marknadsföringskalendern efter arbetsyta
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -27,10 +27,4 @@ Marknadskalendern kan filtreras efter objekt i specifika arbetsytor.
 
    >[!NOTE]
    >
-   >**Relaterade artiklar**
-   >
-   >    
-   >    
-   >    * [Spara en filterdefinition i marknadsföringskalendern](saving-a-filter-definition-in-the-marketing-calendar.md)
-
-
+   >[Spara en filterdefinition i marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
