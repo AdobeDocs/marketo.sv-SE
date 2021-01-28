@@ -3,7 +3,7 @@ unique-page-id: 10093348
 description: Understanding Smart Campaign Cards - Marketo Docs - produktdokumentation
 title: Förstå smarta kampanjkort
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '514'
 ht-degree: 0%
@@ -26,6 +26,7 @@ För framtida smarta kampanjer som är schemalagda men ännu inte har körts vis
    ![](assets/image2015-9-21-11-3a7-3a52.png)
 
 1. På informationskortet får du tillgång till information om Smart List-filter, flöde och e-postsammanfattning.
+
 1. Tryck på **Smart List**.
 
    ![](assets/image2015-9-21-13-3a31-3a49.png)
@@ -66,7 +67,7 @@ Det är en bra idé att ta en titt på ett e-postmeddelande innan det skickas ut
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. Tryck på [Skicka exempel](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) eller [Förhandsgranska e-post](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (klicka på de här länkarna för mer information).
+1. Tryck på [Skicka exempel](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) eller [Förhandsgranska e-post](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (klicka på de här länkarna för mer information).
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
@@ -128,9 +129,9 @@ Du kan schemalägga om en bekräftad smart kampanj som inte har körts än.
 
 Precis som med andra Marketo Moments-kort kan du trycka på de tre punkterna på ett Smart Campaign-kort eller informationskort för att:
 
-* [Gör det till en favorit](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [Markera som klar](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [Dela](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [Gör det till en favorit](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [Markera som klar](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [Dela](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 ![](assets/image2015-9-21-14-3a38-3a19.png)
 
