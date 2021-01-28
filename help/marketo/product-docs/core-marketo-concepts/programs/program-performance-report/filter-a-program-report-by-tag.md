@@ -3,9 +3,9 @@ unique-page-id: 1147235
 description: Filtrera en programrapport efter tagg - Marketo Docs - Produktdokumentation
 title: Filtrera en programrapport efter tagg
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtrera en programrapport efter tagg {#filter-a-program-report-by-tag}
 
-Fokusera din [programresultatrapport](create-a-program-performance-report.md)på specifika [taggar](http://docs.marketo.com/display/docs/tags).
+Fokusera din [programresultatrapport](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) på specifika [taggar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md).
 
 1. Gå till **Marknadsföring** **Aktiviteter** (eller **Analytics**).
 
@@ -35,23 +35,10 @@ Fokusera din [programresultatrapport](create-a-program-performance-report.md)på
 
    ![](assets/prospect2.jpg)
 
-1. Klart! Klicka på fliken **Rapport** om du vill visa *bara* de program som matchar de markerade taggarna i rapporten.
+1. Klart! Klicka på fliken **Rapport** om du vill visa _bara_ de program som matchar de markerade taggarna i rapporten.
 
    ![](assets/image2014-9-23-16-3a14-3a42.png)
 
    >[!NOTE]
    >
-   >**Relaterade artiklar**
-   >
-   >    
-   >    
-   >    * [Filtrera en programrapport efter periodkostnad](filter-a-program-report-by-period-cost.md)
-
-
-   >[!NOTE]
-   >
-   >**Djupdykning**
-   >
-   >
-   >Lär dig allt om rapporter i [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Filtrera en programrapport efter periodkostnad](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
