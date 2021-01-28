@@ -3,9 +3,9 @@ unique-page-id: 10099360
 description: Förbered dig för ditt event - Marketo Docs - Produktdokumentation
 title: Förbered dig för ditt evenemang
 translation-type: tm+mt
-source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '342'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Det finns flera saker du måste göra för att göra dig redo för evenemanget.
 
 ## Skapa en ny Marketo-roll {#create-a-new-marketo-role}
 
-Marketo har en speciell användarroll för incheckningsappen för händelser.  [Skapa en ny Marketo-](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) roll för iPad- eller Android-användare med behörighet att komma åt mobilappen.
+Marketo har en speciell användarroll för incheckningsappen för händelser. [Skapa en ny Marketo-](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) roll för iPad- eller Android-användare med behörighet att komma åt mobilappen.
 
 ## Bjud in nya användare på surfplattan till händelsen {#invite-new-tablet-users-to-the-event}
 
-[Bjud in nya surfplatteanvändare till ](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) händelsen och tilldela dem den nya rollen.
+[Bjud in nya surfplatteanvändare till ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) händelsen och tilldela dem den nya rollen.
 
 ## Skapa ett nytt Marketo Event Program {#create-a-new-marketo-event-program}
 
