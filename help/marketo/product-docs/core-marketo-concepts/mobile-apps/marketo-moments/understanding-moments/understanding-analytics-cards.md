@@ -3,9 +3,9 @@ unique-page-id: 8781988
 description: Analyskort - Marketo Docs - produktdokumentation
 title: Analyskort
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ I början av varje månad tillhandahåller Marketo Moments tre olika rapportkort
 
 ## Analyskort {#analytics-cards}
 
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/OA5yfBkaNck" frameborder="0" allowfullscreen></iframe>` När du trycker på ett Analytics-kort kan du:
+När du trycker på ett Analytics-kort kan du:
 
-* [Gör det till en favorit](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [Markera som slutförd](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [Dela](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [Gör det till en favorit](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [Markera som slutförd](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [Dela](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 Tryck på ett Analytics-kort för att visa:
 
@@ -37,7 +37,7 @@ I det här exemplet visar rött att värdet har minskat över det valda datumint
 
 ## Insamlade leads {#acquired-leads}
 
-Kortet **Acquired Leads **visar en trending month-over-month-rapport över antalet nya leads.
+Kortet **Acquired Leads** visar en trending month-over-month-rapport över antalet nya leads.
 
 >[!NOTE]
 >
@@ -61,12 +61,7 @@ Nu vet du.
 
 >[!MORELIKETHIS]
 >
->* [Om Marketo-stunder](understanding-marketo-moments.md)
->* [Om händelsekort](understanding-event-cards.md)
->* [Understanding Email Program Cards](understanding-email-program-cards.md)
+>* [Om Marketo-stunder](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Om händelsekort](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Understanding Email Program Cards](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
 
->
-
-
-
-Kul fakta: Det första mejlet någonsin skickades av Ray Tomlinson till sig själv år 1971.
