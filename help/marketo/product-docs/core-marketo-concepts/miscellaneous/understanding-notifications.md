@@ -3,7 +3,7 @@ unique-page-id: 2952292
 description: Understanding Notifications - Marketo Docs - Product Documentation
 title: Om meddelanden
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Du kan prenumerera på meddelanden om du vill få dem via e-post.
 
 1. Markera meddelandetypen och ange den eller de e-postadresser som du vill att meddelanden ska skickas till.
 
-![](assets/image2014-10-10-13-3a0-3a37.png)
+   ![](assets/image2014-10-10-13-3a0-3a37.png)
 
 >[!NOTE]
 >
@@ -44,4 +44,3 @@ Du kan prenumerera på meddelanden om du vill få dem via e-post.
 >[!TIP]
 >
 >Vill du avbryta prenumerationen på e-postmeddelanden? Inga problem. Klicka bara på länken **unsubscribe from Notifications** längst ned i e-postmeddelandet.
-
