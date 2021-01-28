@@ -3,7 +3,7 @@ unique-page-id: 7503971
 description: Skapa en presentation - Marketo Docs - Produktdokumentation
 title: Skapa en presentation
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Skapa en presentation för att projicera teamets kalendervyer och mål på en HD
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
-1. Gå till** Calendar**.
+1. Gå till **kalendern**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
@@ -41,9 +41,4 @@ Skapa en presentation för att projicera teamets kalendervyer och mål på en HD
 
 >[!MORELIKETHIS]
 >
->* [Anpassa en presentation](customize-a-presentation.md)
-
->
-
-
-
+>[Anpassa en presentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)
