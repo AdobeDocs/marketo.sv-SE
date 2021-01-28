@@ -3,9 +3,9 @@ unique-page-id: 1147138
 description: Schemalägga om ett helt program från schemaläggningsvyn - Marketo Docs - produktdokumentation
 title: Schemalägga om ett helt program från schemaläggningsvyn
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ När du klonar ett program eller en händelse med datum, vill du troligtvis sche
 
    ![](assets/image2014-9-23-15-3a15-3a18.png)
 
-1. Välj listrutan Händelseåtgärd. Välj Schemalägg om transaktioner.
+1. Välj listrutan Händelseåtgärd. Välj **Schemalägg om poster**.
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
@@ -31,11 +31,11 @@ När du klonar ett program eller en händelse med datum, vill du troligtvis sche
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 
-1. Klicka på Ändra schema.
+1. Klicka på **Schemalägg om**.
 
    ![](assets/image2014-9-23-15-3a18-3a54.png)
 
-1. Woof! Våra datahämtare kommer sedan att ta bort godkännanden, schemalägga om och omgodkänna alla dina resurser med rätt datum!
+1. Våra datahämtare kommer sedan att ta bort godkännanden, schemalägga om och omgodkänna alla dina resurser med rätt datum!
 
    ![](assets/image2014-9-23-15-3a19-3a1.png)
 
@@ -43,5 +43,6 @@ När du klonar ett program eller en händelse med datum, vill du troligtvis sche
 >
 >Resurser som redan har körts flyttas inte.
 
-Galna! Allt är nu omplanerat. Justera eventuella specifika datum efter behov.    ![](assets/image2014-9-23-15-3a19-3a58.png)
+Allt är nu omplanerat. Justera eventuella specifika datum efter behov.
 
+![](assets/image2014-9-23-15-3a19-3a58.png)
