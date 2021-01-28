@@ -3,9 +3,9 @@ unique-page-id: 2953352
 description: Redigera inlägg direkt i marknadsföringskalendern - Marketo Docs - Produktdokumentation
 title: Redigera poster direkt i marknadsföringskalendern
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -45,8 +45,7 @@ I programfokusläget kan du snabbt ändra kalenderposterna. Så här gör du.
    >
    >Du kan också redigera beskrivningen.
    >
-   >
-   >![—](assets/image2014-10-20-13-3a16-3a56.png)   >
+   >![](assets/image2014-10-20-13-3a16-3a56.png)
 
 ## Konvertera posttyp {#convert-entry-type}
 
@@ -68,9 +67,4 @@ Så ja! Som du ser finns det många saker du kan göra direkt i marknadsförings
 
 >[!MORELIKETHIS]
 >
->* [Radera transaktioner direkt i marknadsföringskalendern](https://community.marketo.com/MarketoArticle?id=kA050000000LPDyCAO)
-
->
-
-
-
+>[Radera transaktioner direkt i marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
