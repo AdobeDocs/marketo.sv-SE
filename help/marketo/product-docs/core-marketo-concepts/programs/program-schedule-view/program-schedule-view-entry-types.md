@@ -3,9 +3,9 @@ unique-page-id: 1147243
 description: Visningstyper för programplanering - Marketo Docs - Produktdokumentation
 title: Inmatningstyper för programschemavy
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Posttyper för programschemavy {#program-schedule-view-entry-types}
 
-Det finns åtta olika inbyggda anmälningstyper som är synliga och tillgängliga att användas i programschemavyn. Du kan också [skapa anpassade posttyper](create-custom-entry-types.md) i avsnittet Admin.
+Det finns åtta olika inbyggda anmälningstyper som är synliga och tillgängliga att användas i programschemavyn. Du kan också [skapa anpassade posttyper](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) i avsnittet Admin.
 
 <table> 
  <thead> 
@@ -57,12 +57,3 @@ Det finns åtta olika inbyggda anmälningstyper som är synliga och tillgänglig
   </tr> 
  </tbody> 
 </table>
-
->[!MORELIKETHIS]
->
->* [Skapa en anpassad posttyp](create-custom-entry-types.md)
-
->
-
-
-
