@@ -3,9 +3,9 @@ unique-page-id: 2953358
 description: Ta bort poster direkt i marknadsföringskalendern - Marketo Docs - Produktdokumentation
 title: Radera transaktioner direkt i marknadsföringskalendern
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Ta bort poster direkt i marknadsföringskalendern {#delete-entries-directly-in-the-marketing-calendar}
 
-Förutom [att skapa](create-entries-directly-in-the-marketing-calendar.md)- och [redigera](edit-entries-directly-in-the-marketing-calendar.md)-poster kan du ta bort dem direkt i marknadsföringskalendern. Så här gör du.
+Förutom [att skapa](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)- och [redigera](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)-poster kan du ta bort dem direkt i marknadsföringskalendern. Så här gör du.
 
 1. Gå till **kalendern**.
 
@@ -31,9 +31,4 @@ Beroende på vilken post det gäller kan du behöva bekräfta borttagningen. Men
 
 >[!MORELIKETHIS]
 >
->* [Bekräfta transaktioner direkt i marknadsföringskalendern](confirm-entries-directly-in-the-marketing-calendar.md)
-
->
-
-
-
+>[Bekräfta transaktioner direkt i marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)
