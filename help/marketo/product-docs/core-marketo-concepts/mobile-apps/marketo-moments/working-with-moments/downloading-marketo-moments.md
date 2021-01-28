@@ -3,7 +3,7 @@ unique-page-id: 8782024
 description: Laddar ned Marketo Moments - Marketo Docs - produktdokumentation
 title: Hämtar Marketo Moments
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
@@ -17,25 +17,32 @@ Hämta Marketo Moments från App Store eller Google Play och voila! Marketo magi
 
 ## För iPhone {#for-iphone}
 
-1. Gå till [App Store](https://itunes.apple.com/us/genre/ios/id36?mt=8).\
+1. Gå till [App Store](https://itunes.apple.com/us/genre/ios/id36?mt=8).
+
    ![](assets/image2015-7-15-14-3a52-3a13.png)
 
-1. Sök efter Marketo Moments och markera den.\
+1. Sök efter Marketo Moments och markera den.
+
    ![](assets/image2015-7-7-17-3a19-3a7.png)
 
-1. Tryck sedan på **Öppna**.\
+1. Tryck sedan på **Öppna**.
+
    ![](assets/image2015-7-7-17-3a20-3a51.png)
 
 ## För Android {#for-android}
 
 1. Gå till [Google Play](https://play.google.com/store?hl=en).
-1. Sök efter Marketo Moments och tryck för att ladda ned.\
+
+1. Sök efter Marketo Moments och tryck för att ladda ned.
+
    ![](assets/image2015-7-14-9-3a6-3a34.png)
 
-1. Tryck på **Acceptera**.\
+1. Tryck på **Acceptera**.
+
    ![](assets/image2015-7-7-16-3a41-3a47.png)
 
-1. Tryck på **Installera**.\
+1. Tryck på **Installera**.
+
    ![](assets/image2015-7-7-16-3a43-3a21.png)
 
 Mycket nöje!
@@ -48,5 +55,4 @@ Mycket nöje!
 
 >[!MORELIKETHIS]
 >
->[Om Marketo-stunder](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
-
+>[Om Marketo-stunder](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
