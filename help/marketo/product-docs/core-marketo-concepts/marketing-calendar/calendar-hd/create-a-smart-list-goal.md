@@ -3,7 +3,7 @@ unique-page-id: 7504128
 description: Skapa ett smart listmål - Marketo Docs - Produktdokumentation
 title: Skapa ett mål för en smart lista
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Målen är sätt att följa utvecklingen och motivera ert team. De kan kombineras med smarta listor för att spåra alla typer av saker i Marketo. När du har skapat ett mål för en smart lista uppdateras den automatiskt varannan timme när den används i en presentation.
 
-Precis som för presentationer är målen [arbetsyta](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)-specifika.
+Precis som för presentationer är målen [arbetsyta](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)-specifika.
 
 1. Gå till **kalendern**.
 
@@ -25,7 +25,7 @@ Precis som för presentationer är målen [arbetsyta](../../../../product-docs/a
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. Välj fliken** Mål**.
+1. Välj fliken **Mål**.
 
    ![](assets/image2015-3-26-12-3a25-3a17.png)
 
@@ -37,7 +37,7 @@ Precis som för presentationer är målen [arbetsyta](../../../../product-docs/a
 
    ![](assets/image2015-3-24-12-3a50-3a6.png)
 
-1. [Definiera den smarta listan](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md). Möjligheterna är oändliga!
+1. [Definiera den smarta listan](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md). Möjligheterna är oändliga!
 
    ![](assets/mql.png)
 
@@ -48,4 +48,3 @@ Precis som för presentationer är målen [arbetsyta](../../../../product-docs/a
    Titta på det där! Målet för den smarta listan har skapats.
 
    ![](assets/image2015-3-24-13-3a0-3a35.png)
-
