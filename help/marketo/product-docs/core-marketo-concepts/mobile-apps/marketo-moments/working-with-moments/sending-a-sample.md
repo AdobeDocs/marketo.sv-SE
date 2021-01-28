@@ -3,7 +3,7 @@ unique-page-id: 8783561
 description: Skicka ett exempel - Marketo Docs - Produktdokumentation
 title: Skicka ett exempel
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -31,7 +31,8 @@ Du kan dela ett exempel på en e-poststund direkt med någon. Det finns två sä
 
 ## Snabbvägen {#the-quick-way}
 
-1. Tryck på ikonen för pappersflygplanet på skärmen E-postförhandsgranskning för att skicka ett exempel direkt från förhandsgranskningen.\
+1. Tryck på ikonen för pappersflygplanet på skärmen E-postförhandsgranskning för att skicka ett exempel direkt från förhandsgranskningen.
+
    ![](assets/image2015-9-25-10-3a28-3a47.png)
 
 Uppdraget är slutfört!
