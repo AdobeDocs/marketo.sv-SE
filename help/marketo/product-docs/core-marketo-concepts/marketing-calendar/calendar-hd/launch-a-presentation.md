@@ -3,7 +3,7 @@ unique-page-id: 7504120
 description: Starta en presentation - Marketo Docs - Produktdokumentation
 title: Starta en presentation
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -23,11 +23,8 @@ När du har angett vyer och rotationsfrekvens för presentationen är det dags a
 
 >[!PREREQUISITES]
 >
->* [Skapa en presentation](create-a-presentation.md)
->* [Anpassa en presentation](customize-a-presentation.md)
-
->
-
+>* [Skapa en presentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
+>* [Anpassa en presentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)
 
 
 >[!TIP]
@@ -44,5 +41,4 @@ När du har angett vyer och rotationsfrekvens för presentationen är det dags a
 
    >[!TIP]
    >
-   >Presentationen öppnas på en ny flik. Flytta vid behov fliken till en extern skärm eller TV för visning och klicka på **Helskärm** (eller tryck på **F11 **på tangentbordet om du använder Internet Explorer).
-
+   >Presentationen öppnas på en ny flik. Flytta vid behov fliken till en extern skärm eller TV för visning och klicka på **Helskärm** (eller tryck på **F11** på tangentbordet om du använder Internet Explorer).
