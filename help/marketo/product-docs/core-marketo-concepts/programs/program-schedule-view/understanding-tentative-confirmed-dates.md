@@ -3,9 +3,9 @@ unique-page-id: 1147140
 description: Understanding tentative/Confirmated Dates - Marketo Docs - Product Documentation
 title: Förstå preliminära/bekräftade datum
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Smarta kampanjer och e-postprogram har en kraftfull funktion som kan markeras so
 
 ## Preliminärt {#tentative}
 
-Preliminära datum förmedlar avsikter. Tänk på detta som *penciling *något i kalendern. Preliminära poster körs inte - de är bara platshållare.
+Preliminära datum förmedlar avsikter. Tänk på detta som _penciling_ något i kalendern. Preliminära poster körs inte - de är bara platshållare.
 
 ![](assets/image2014-9-23-15-3a22-3a23.png)
 
@@ -29,11 +29,15 @@ Preliminära datum förmedlar avsikter. Tänk på detta som *penciling *något i
 
 Det är som att godkänna en resurs, så posterna måste vara helt konfigurerade innan du kan bekräfta dem. När alla ankor är i rad kan du bekräfta inmatningar genom att dra den preliminära fliken åt höger.
 
-![](assets/image2014-9-23-15-3a23-3a2.png)  ![](assets/image2014-9-23-15-3a23-3a8.png) ![](assets/image2014-9-23-15-3a23-3a12.png)
+![](assets/image2014-9-23-15-3a23-3a2.png)
+
+![](assets/image2014-9-23-15-3a23-3a8.png)
+
+![](assets/image2014-9-23-15-3a23-3a12.png)
 
 >[!NOTE]
 >
->Varför hunden? Han är en Golden Retriever. Han hämtar era data.
+>Varför hunden? Han är en rävtagare. Han hämtar era data.
 
 ## Bekräftat {#confirmed}
 
