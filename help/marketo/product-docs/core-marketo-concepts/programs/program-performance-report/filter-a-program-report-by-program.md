@@ -3,9 +3,9 @@ unique-page-id: 2360047
 description: Filtrera en programrapport efter program - Marketo Docs - Produktdokumentation
 title: Filtrera en programrapport per program
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtrera en programrapport efter program {#filter-a-program-report-by-program}
 
-Fokusera din [rapport om programprestanda](create-a-program-performance-report.md) på specifika program för att jämföra deras prestanda.
+Fokusera din [rapport om programprestanda](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) på specifika program för att jämföra deras prestanda.
 
 1. Gå till **Marknadsföring** **Aktiviteter** (eller **Analytics**).
 
@@ -35,23 +35,10 @@ Fokusera din [rapport om programprestanda](create-a-program-performance-report.m
    >
    >Om du väljer en mapp innehåller rapporten allt som finns i mappen när rapporten körs.
 
-1. Det är allt! Klicka på fliken **Rapport** för att visa *bara* de valda programmen i rapporten.
+1. Det är allt! Klicka på fliken **Rapport** för att visa _bara_ de valda programmen i rapporten.
 
    ![](assets/image2014-9-23-16-3a5-3a41.png)
 
    >[!NOTE]
    >
-   >**Relaterade artiklar**
-   >
-   >    
-   >    
-   >    * [Filtrera en programrapport efter tagg](filter-a-program-report-by-tag.md)
-
-
-   >[!NOTE]
-   >
-   >**Djupdykning**
-   >
-   >
-   >Lär dig allt om rapporter i [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Filtrera en programrapport efter tagg](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)
