@@ -3,7 +3,7 @@ unique-page-id: 1147136
 description: Redigera poster i programschemavy - Marketo Docs - Produktdokumentation
 title: Redigera poster i programschemavy
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -54,4 +54,3 @@ Din rock! Nu har datumet för ditt bidrag flyttats till ett nytt datum.
 >[!NOTE]
 >
 > Det går inte att flytta poster för smarta kampanjer och e-postprogram som redan har körts.
-
