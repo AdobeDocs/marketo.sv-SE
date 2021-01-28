@@ -3,7 +3,7 @@ unique-page-id: 8783559
 description: Dela en stund - Marketo Docs - Produktdokumentation
 title: Dela en stund
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
@@ -38,4 +38,3 @@ Vill du ge en uppdatering till ditt team? Du kan välja att dela:
    ![](assets/image2015-7-14-16-3a18-3a16.png)
 
    Bra jobbat!
-
