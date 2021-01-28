@@ -3,7 +3,7 @@ unique-page-id: 1147318
 description: Ordlista för kortkommandon - Marketo Docs - Produktdokumentation
 title: Ordlista för kortkommandon
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -44,4 +44,3 @@ ht-degree: 0%
 | ESC | Stäng popup-fönster |
 | Retur/Enter | Skicka-popup |
 | Ctrl + Alt/Opt + H | Dölj/visa ett fält i formulärredigeraren |
-
