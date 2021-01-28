@@ -3,9 +3,9 @@ unique-page-id: 8781845
 description: Understanding Marketo Moments - Marketo Docs - produktdokumentation
 title: Om Marketo-stunder
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,7 @@ Marketos styrka ligger nu i dina händer, bokstavligen! Förhandsgranska och sch
 >
 >**Tillgänglighet**
 >
->Åtkomst till mobilappar krävs. Kontakta Marketo Admin för att [uppdatera din roll](../../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
-
-## Vi presenterar stunder {#introducing-moments}
-
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/IJfpzE8l73E" frameborder="0" allowfullscreen></iframe>`
+>Åtkomst till mobilappar krävs. Kontakta Marketo Admin för att [uppdatera din roll](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## Strömmar {#streams}
 
@@ -35,13 +31,11 @@ Här är de olika strömmarna i ögonblicket.
 >
 >**Definition**
 >
->Moment - Allt som bara har gått, eller är på väg att springa, hamnar här.
->
->Favoriter - allt du gör med en favorit hamnar här.
->
->Senare - allt som äger rum senare än det här ögonblicket går in här.
->
->Klart - Allt som har körts färdigt eller du har markerat som gjort hamnar här.
+>* Moment: Allt som bara sprang, eller är på väg att springa, hamnar här.
+>* Favoriter: Allt du gör till en favorit går in här.
+>* Senare: Allt som sker senare än det här ögonblicket går in här.
+>* Klart: Allt som har körts färdigt eller du markerat som gjort hamnar här.
+
 
 Okej, nu när vi har det ur vägen kan vi ta en titt på Marketo Moments på en telefon!
 
@@ -53,7 +47,7 @@ Marketo Moments ger dig tre olika kort som du kan använda för att följa ditt 
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**hjärtklappning**  - Hej - det här mejlet skickas nu! Och här är statistik också. Dela med dig.
+**Hjärtslag**  - Hej - det här mejlet skickas nu! Och här är statistik också. Dela med dig.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
@@ -93,19 +87,12 @@ Bra! Nu kan du få något att hända genom att trycka på:
 >* Skicka exempel (endast e-post): Använd detta för att låta andra se hur dina e-postmeddelanden ser ut innan du skickar ut dem.
 >* Förhandsgranska e-post (endast e-post): Det är alltid en bra idé att checka ut dina e-postmeddelanden i förväg.
 
->
-
-
 
 ## Senare stunder {#later-moments}
 
 I avsnittet Senare visas kommande aktiviteter.
 
 1. Börja med att trycka på hamburgermenyn.
-
-   >[!NOTE]
-   >
-   >Enligt [Guinness Book of World Records](http://www.guinnessworldrecords.com/world-records/largest-hamburger) vägde världens största hamburgare 2 014 lbs.
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
@@ -151,23 +138,19 @@ Under alla steg på vägen kan du bekräfta eller avbryta en åtgärd. Om du ån
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
-Vill du lära dig mer?
-
->[!MORELIKETHIS]
->
->* [Understanding Email Program Cards](understanding-email-program-cards.md)
->* [Om händelsekort](understanding-event-cards.md)
->* [Analyskort](understanding-analytics-cards.md)
->* [Förstå smarta kampanjkort](understanding-smart-campaign-cards.md)
-
->
-
-
-
 ## Versioner som stöds {#supported-versions}
 
 Marketo Moments har stöd för följande operativsystemversioner:
 
 * Apple iOS 8.0 och senare.
 * Android version 4.1 och senare (i stort sett Jellybean och up).
+
+Vill du lära dig mer?
+
+>[!MORELIKETHIS]
+>
+>* [Understanding Email Program Cards](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [Om händelsekort](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Analyskort](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
+>* [Förstå smarta kampanjkort](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
 
