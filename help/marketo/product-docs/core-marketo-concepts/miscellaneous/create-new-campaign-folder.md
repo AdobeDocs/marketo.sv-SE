@@ -3,7 +3,7 @@ unique-page-id: 2953207
 description: Skapa ny kampanjmapp - Marketo Docs - Produktdokumentation
 title: Skapa ny kampanjmapp
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d4c7832c4f2b1dbc74bdbb2f3b52df905e0cb7d3
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Campaign-mappar hjälper dig att behålla en aktuell arbetsyta. Följ dessa enkl
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
-1. Valfritt: Ange en **beskrivning** och klicka på** Skapa. **
+1. Valfritt: Ange en **beskrivning** och klicka på **Skapa**.
 
    >[!TIP]
    >
@@ -43,14 +43,10 @@ Campaign-mappar hjälper dig att behålla en aktuell arbetsyta. Följ dessa enkl
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   När du [skapar ett nytt program](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) visas den här kampanjmappen som ett alternativ.
+   När du [skapar ett nytt program](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) visas den här kampanjmappen som ett alternativ.
 
 >[!MORELIKETHIS]
 >
->* [Skapa ett program](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
->* [Skapa en ny smart kampanj](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
-
->
-
-
+>* [Skapa ett program](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
+>* [Skapa en ny smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
