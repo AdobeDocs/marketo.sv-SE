@@ -3,9 +3,9 @@ unique-page-id: 1147237
 description: Filtrera en programrapport efter periodkostnad - Marketo Docs - Produktdokumentation
 title: Filtrera en programrapport efter periodkostnad
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Filtrera en programrapport efter periodkostnad {#filter-a-program-report-by-period-cost}
 
-Fokusera din [rapport om programprestanda](create-a-program-performance-report.md) på en viss tidsram för periodkostnad.
+Fokusera din [rapport om programprestanda](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) på en viss tidsram för periodkostnad.
 
-1. Gå till **Marknadsföring** **Aktiviteter** (eller **Analytics**).
+1. Gå till **Marknadsföringsaktiviteter** (eller **Analytics**).
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -37,17 +37,4 @@ Fokusera din [rapport om programprestanda](create-a-program-performance-report.m
 
    >[!NOTE]
    >
-   >**Relaterade artiklar**
-   >
-   >    
-   >    
-   >    * [Filtrera en programrapport per program](filter-a-program-report-by-program.md)
-
-
-   >[!NOTE]
-   >
-   >**Djupdykning**
-   >
-   >
-   >Lär dig allt om rapporter i [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Filtrera en programrapport per program](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-program.md)
