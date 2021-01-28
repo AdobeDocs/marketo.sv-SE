@@ -3,9 +3,9 @@ unique-page-id: 8781911
 description: Understanding Email Program Cards - Marketo Docs - Product Documentation
 title: Understanding Email Program Cards
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Använd Marketo Moments för att visa dina e-postprogram från din telefon eller
 
 ## E-postprogramkort {#email-program-cards}
 
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/n8JTSZI22Do" frameborder="0" allowfullscreen></iframe>` När du trycker på ett e-postprogramkort kan du:
+När du trycker på ett e-postprogramkort kan du:
 
-* [Gör ett e-postmeddelande till en favorit](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [Markera ett e-postmeddelande som klart](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [Dela ett kort för e-poststund](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [Gör ett e-postmeddelande till en favorit](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [Markera ett e-postmeddelande som klart](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [Dela ett kort för e-poststund](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 På ett e-postprogramkort för ett e-postmeddelande som ännu inte har skickats hittar du information om e-postprogrammets status och målgrupp.
 
@@ -41,7 +41,7 @@ När e-postmeddelandet har skickats visar kortet annan värdefull information, i
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Tryck på **Confirm **för att slutföra jobbet eller **Never Mind** om du hade andra tankar.
+1. Tryck på **Bekräfta** för att slutföra jobbet, eller **Slut aldrig** om du hade andra tankar.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -105,7 +105,8 @@ Högerklicka på ett e-postkort för att förhandsgranska det.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
-   På det här sättet vet du att e-postmeddelandet är perfekt innan du trycker på utlösaren!\
+   På det här sättet vet du att e-postmeddelandet är perfekt innan du trycker på utlösaren!
+
    ![](assets/image2015-6-30-11-3a15-3a22.png)
 
    Underbar!
@@ -114,12 +115,7 @@ Och det är toppen med att visa era e-postkampanjer. Nu är du proffs!
 
 >[!MORELIKETHIS]
 >
->* [Om Marketo-stunder](understanding-marketo-moments.md)
->* [Om händelsekort](understanding-event-cards.md)
->* [Analyskort](understanding-analytics-cards.md)
->* [E-postprogram](http://docs.marketo.com/display/docs/email+programs)
-
->
-
-
+>* [Om Marketo-stunder](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Om händelsekort](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Analyskort](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
 
