@@ -3,9 +3,9 @@ unique-page-id: 1147302
 description: Ta bort ett filter i marknadsföringskalendern - Marketo Docs - Produktdokumentation
 title: Ta bort ett filter i marknadsföringskalendern
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,3 @@ Om du vill ta bort ett filter i marknadsföringskalendern har du kommit till rä
 1. Bekräfta genom att klicka på **Ta bort**.
 
    ![](assets/image2014-9-24-11-3a27-3a42.png)
-
-   Hej då.
-
