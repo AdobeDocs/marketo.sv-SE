@@ -3,9 +3,9 @@ unique-page-id: 7503973
 description: Anpassa en presentation - Marketo Docs - Produktdokumentation
 title: Anpassa en presentation
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -23,18 +23,15 @@ Ställ in kalenderpresentationen så att den återspeglar de mål och aktivitete
 
 >[!PREREQUISITES]
 >
->* [Skapa anpassade ](create-a-custom-goal.md) mål eller  [smarta listmål](create-a-smart-list-goal.md)
+>* [Skapa anpassade ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md) mål eller  [smarta listmål](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md)
    >
    >
-* [Skapa en presentation](create-a-presentation.md)
-
->
-
+* [Skapa en presentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
 
 
 ## Välja vyer {#choosing-the-views}
 
-Presentations bläddrar igenom olika [filterdefinitioner](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md) som du väljer. Dra in så många vyer du vill och anpassa frekvensen.
+Presentations bläddrar igenom olika [filterdefinitioner](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md) som du väljer. Dra in så många vyer du vill och anpassa frekvensen.
 
 1. I det högra trädet drar du i de olika vyer som du vill rotera genom i presentationen.
 
@@ -42,7 +39,7 @@ Presentations bläddrar igenom olika [filterdefinitioner](../../../../product-do
 
 ## Lägg till ett mål {#add-a-goal}
 
-Presentations är den grym när de visar upp era teammål. Dra bara över olika [anpassade mål](create-a-custom-goal.md) eller [mål för smart lista](create-a-smart-list-goal.md). Du kan använda upp till 10.
+Presentations är den grym när de visar upp era teammål. Dra bara över olika [anpassade mål](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md) eller [mål för smart lista](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md). Du kan använda upp till 10.
 
 1. Dra från det högra trädet in olika mål som du vill ska visas i presentationen.
 
@@ -52,7 +49,7 @@ Presentations är den grym när de visar upp era teammål. Dra bara över olika 
 
 När du har dragit in de vyer du vill ha i presentationen anger du hur ofta den ska roteras mellan de olika vyerna.
 
-1. Klicka på** 5 minuter** (det här är standardvärdet).
+1. Klicka på **5 minuter** (det här är standardvärdet).
 
    ![](assets/image2015-3-18-13-3a17-3a29.png)
 
@@ -76,7 +73,7 @@ Du kan ändra kalendervisningen till en 3-veckors- eller månadsvy.
 
 >[!TIP]
 >
->Ange en [bakgrundsbild](add-a-background-image-to-a-presentation.md) för presentationen. Vi föreslår kattungar eller regnbågar.
+>Ange en [bakgrundsbild](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md) för presentationen. Vi föreslår kattungar eller regnbågar.
 
 ## Förhandsgranska en presentation {#preview-a-presentation}
 
@@ -92,14 +89,8 @@ När presentationen har konfigurerats kan den förhandsgranskas och startas.
 
    Tycker du inte om det du ser? Gå tillbaka och använd olika filterdefinitioner för att skapa den vy du vill.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Relaterade artiklar**
->
->* [Lägga till en bakgrundsbild i en presentation](add-a-background-image-to-a-presentation.md)
->* [Starta en presentation](launch-a-presentation.md)
-
->
-
-
+>* [Lägga till en bakgrundsbild i en presentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md)
+>* [Starta en presentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/launch-a-presentation.md)
 
