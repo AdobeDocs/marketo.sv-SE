@@ -3,7 +3,7 @@ unique-page-id: 7504060
 description: Ta bort en presentation - Marketo Docs - Produktdokumentation
 title: Ta bort en presentation
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
@@ -28,4 +28,3 @@ Ibland kan man ha för mycket av en bra sak. Ta bort gamla presentationer för a
    ![](assets/image2015-3-20-16-3a21-3a10.png)
 
    Korv! Ur syn ur sinn.
-
