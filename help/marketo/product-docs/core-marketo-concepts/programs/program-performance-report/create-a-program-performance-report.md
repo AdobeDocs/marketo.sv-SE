@@ -3,9 +3,9 @@ unique-page-id: 1147129
 description: Skapa en rapport om programprestanda - Marketo Docs - Produktdokumentation
 title: Skapa en rapport om programprestanda
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Se bra statistik om dina program med den här rapporten.
 
-1. [Skapa en rapport i ett ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) program och välj typen  **Program** [PerformancePort](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Skapa en rapport i ett ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) program och välj typen  **Program** [PerformancePort](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 1. Klicka på fliken **Rapport**.
 1. Du är där! Utforska rapporten och se hur era program fungerar.
 
@@ -23,7 +23,7 @@ Se bra statistik om dina program med den här rapporten.
 
 >[!TIP]
 >
->Om du vill söka efter program med den lägsta *kostnaden per lyckad*, till exempel [sorterar du rapporten](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) i den kolumnen och väljer **Sortera stigande**.
+>Om du vill söka efter program med den lägsta *kostnaden per lyckad*, till exempel [sorterar du rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) i den kolumnen och väljer **Sortera stigande**.
 
 Kolumnerna i en rapport om programprestanda omfattar:
 
@@ -53,10 +53,3 @@ Kolumnerna i en rapport om programprestanda omfattar:
   </tr> 
  </tbody> 
 </table>
-
->[!NOTE]
->
->**Djupdykning**
->
->Läs mer i [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
-
