@@ -3,7 +3,7 @@ unique-page-id: 2953362
 description: Bekräfta transaktioner direkt i marknadsföringskalendern - Marketo Docs - Produktdokumentation
 title: Bekräfta transaktioner direkt i marknadsföringskalendern
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Smarta kampanjer och e-postprogram kan skapas som preliminära tävlingsbidrag o
    Bekräftelse kör en rad valideringsprocesser och om allt checkar ut bekräftas posten.
 
    ![](assets/image2014-10-20-13-3a22-3a36.png)
-
