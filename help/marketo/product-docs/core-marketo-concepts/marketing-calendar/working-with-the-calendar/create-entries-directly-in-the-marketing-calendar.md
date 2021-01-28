@@ -3,7 +3,7 @@ unique-page-id: 2953348
 description: Skapa tävlingsbidrag direkt i marknadsföringskalendern - Marketo Docs - Produktdokumentation
 title: Skapa transaktioner direkt i marknadsföringskalendern
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -26,7 +26,8 @@ Så här gör du.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-   Markera en tidigare post och klicka på Visa programfokus.
+1. Markera en tidigare post och klicka på **Visa programfokus**.
+
    ![](assets/image2014-10-20-13-3a7-3a55.png)
 
 1. I programfokusläget väljer du vilken dag du vill lägga till ett bidrag.
@@ -47,9 +48,4 @@ Så här gör du.
 
 >[!MORELIKETHIS]
 >
->* [Redigera poster direkt i marknadsföringskalendern](edit-entries-directly-in-the-marketing-calendar.md)
-
->
-
-
-
+>[Redigera poster direkt i marknadsföringskalendern](edit-entries-directly-in-the-marketing-calendar.md)
