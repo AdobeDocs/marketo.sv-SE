@@ -3,9 +3,9 @@ unique-page-id: 1147249
 description: Använda en global övertäckning - Marketo Docs - Produktdokumentation
 title: Använda en global övertäckning
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Med den globala övertäckningen i programschemavyn kan du se programmet i relat
 
 >[!PREREQUISITES]
 >
->Du måste ha en [licens för marknadsföringskalendern](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) för att kunna använda den här funktionen.
+>Du måste ha en [licens för marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) för att kunna använda den här funktionen.
 
 ## Använd den globala övertäckningen {#use-the-global-overlay}
 
@@ -39,7 +39,7 @@ Med den globala övertäckningen i programschemavyn kan du se programmet i relat
 
 ## Använd ett sparat filter som övertäckning {#use-a-saved-filter-as-an-overlay}
 
-Om du har [sparat ett filter i marknadsföringskalendern](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md) kan du använda det som en övertäckning i programschemavyn.
+Om du har [sparat ett filter i marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md) kan du använda det som en övertäckning i programschemavyn.
 
 1. Klicka på listrutan **Övertäckning** och välj filterdefinitionen.
 
@@ -49,12 +49,6 @@ Om du har [sparat ett filter i marknadsföringskalendern](../../../../product-do
 
    ![](assets/image2014-9-24-10-3a16-3a31.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
-   >
-   >    
-   >    
-   >    * [Skapa anpassade övertäckningar i programschemavy](creating-custom-overlays-in-program-schedule-view.md)
-
-
+   >[Skapa anpassade övertäckningar i programschemavy](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md)
