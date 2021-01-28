@@ -3,7 +3,7 @@ unique-page-id: 1147245
 description: Skapa anpassade posttyper - Marketo Docs - produktdokumentation
 title: Skapa anpassade posttyper
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -44,4 +44,3 @@ Bra! Nu när du skapar ett nytt inlägg i din schemavy är den här typen ett al
 >[!NOTE]
 >
 >Du kan skapa upp till 100 anpassade posttyper.
-
