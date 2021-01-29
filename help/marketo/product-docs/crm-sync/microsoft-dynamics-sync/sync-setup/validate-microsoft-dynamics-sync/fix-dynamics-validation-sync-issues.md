@@ -3,7 +3,7 @@ unique-page-id: 10095429
 description: Åtgärda problem med synkronisering av Dynamics-validering - Marketo Docs - Produktdokumentation
 title: Åtgärda problem med synkronisering av Dynamics-validering
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
 source-wordcount: '407'
 ht-degree: 0%
@@ -79,7 +79,7 @@ Om du har en ![—](assets/delete.png) här, gå till Microsoft Dynamics för at
 
    ![](assets/one.png)
 
-1. Klicka på **Inställningar **och välj **Lösningar.**
+1. Klicka på **Inställningar** och välj **Lösningar.**
 
    ![](assets/eleven.png)
 
@@ -99,7 +99,7 @@ Om du har en ![—](assets/delete.png) här kontrollerar du att Synkronisera-anv
 
    ![](assets/one.png)
 
-1. Klicka på **Settings **och välj **Marketo Config**.
+1. Klicka på **Inställningar** och välj **Marketo Config**.
 
    ![](assets/thirteen.png)
 
@@ -113,5 +113,4 @@ Om du har en ![—](assets/delete.png) här ska du tilldela rätt synkronisering
 
 >[!MORELIKETHIS]
 >
->[Verifiera Microsoft Dynamics Sync](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
-
+>[Verifiera Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
