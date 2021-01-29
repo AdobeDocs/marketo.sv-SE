@@ -3,9 +3,9 @@ unique-page-id: 8783322
 description: Validera Microsoft Dynamics Sync - Marketo Docs - Produktdokumentation
 title: Verifiera Microsoft Dynamics Sync
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Om Multi-Factor Authentication (MFA) är aktiverat för Dynamics Sync måste du inaktivera det för att Dynamics ska kunna synkroniseras korrekt med Marketo. Kontakta [Marketo Support](http://nation.marketo.com/community/support_solutions) om du vill ha mer information.
+>Om Multi-Factor Authentication (MFA) är aktiverat för Dynamics Sync måste du inaktivera det för att Dynamics ska kunna synkroniseras korrekt med Marketo. Kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) om du vill ha mer information.
 
 ## Kör Verifiera synkronisering i Marketo {#run-validate-sync-in-marketo}
 
@@ -45,7 +45,7 @@ Det är viktigt att du kör verktyget Validera synkronisering för att kontrolle
 
    ![](assets/image2015-9-22-15-3a58-3a12.png)
 
-1. Om du ser ett ![—](assets/delete.png) har det steget ett problem. Se [Åtgärda problem med synkronisering av Dynamics-validering](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) för att identifiera och åtgärda problemet. Kör sedan synkroniseringsvalideringsstegen igen tills resultatet ser ut som bilden ovan.
+1. Om du ser ett ![—](assets/delete.png) har det steget ett problem. Se [Åtgärda problem med synkronisering av Dynamics-validering](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) för att identifiera och åtgärda problemet. Kör sedan synkroniseringsvalideringsstegen igen tills resultatet ser ut som bilden ovan.
 
    >[!CAUTION]
    >
@@ -53,5 +53,4 @@ Det är viktigt att du kör verktyget Validera synkronisering för att kontrolle
 
 >[!MORELIKETHIS]
 >
->[Åtgärda problem med synkronisering av Dynamics-validering](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
-
+>[Åtgärda problem med synkronisering av Dynamics-validering](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
