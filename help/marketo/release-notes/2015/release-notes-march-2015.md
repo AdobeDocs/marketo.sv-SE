@@ -3,7 +3,7 @@ unique-page-id: 6095037
 description: Versionsinformation -mars 2015 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -mars 2015
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Vi har nu stöd för att skapa och redigera e-post, mallar, mina tokens, filer o
 
 ## Microsoft Dynamics 2015 On Premise {#microsoft-dynamics-on-premise}
 
-Stöds med det senaste installationsprogrammet [som nu är tillgängligt via appen](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
+Stöds med det senaste installationsprogrammet [som nu är tillgängligt via appen](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
 
 ![](assets/image2015-3-23-11-3a47-3a16.png)
 
