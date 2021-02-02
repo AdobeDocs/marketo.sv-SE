@@ -3,9 +3,9 @@ unique-page-id: 4719283
 description: Förstå Salesforce-synkronisering - Marketo-dokument - produktdokumentation
 title: Förstå Salesforce-synkronisering
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -29,28 +29,17 @@ Synkroniseringen mellan Salesforce och Marketo är endast dubbelriktad för lead
 
 ## Vad är Synkroniserat mellan Marketo och Salesforce? {#what-is-synced-between-marketo-and-salesforce}
 
-* [Leads](sfdc-sync-details/sfdc-sync-lead-sync.md)
-* [Kontakter](sfdc-sync-details/sfdc-sync-contact-sync.md)
-* [Konton](sfdc-sync-details/sfdc-sync-account-sync.md)
-* [Användare](sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
-* [Möjligheter](sfdc-sync-details/sfdc-sync-opportunity-sync.md)
-* [Salesforce-kampanjer](sfdc-sync-details/sfdc-sync-campaign-sync.md)
-* [Egna objekt](sfdc-sync-details/sfdc-sync-custom-object-sync.md)
-* [Aktivitet](sfdc-sync-details/sfdc-sync-activity-sync.md)
+* [Leads](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
+* [Kontakter](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
+* [Konton](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
+* [Användare](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
+* [Möjligheter](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
+* [Salesforce-kampanjer](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
+* [Egna objekt](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
+* [Aktivitet](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
 
 >[!NOTE]
 >
->De [autentiseringsuppgifter du anger i Marketo för Salesforce](setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) används för att synkronisera data. Endast data som dessa autentiseringsuppgifter har åtkomst till inkluderas.
+>De [autentiseringsuppgifter du anger i Marketo för Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) används för att synkronisera data. Endast data som dessa autentiseringsuppgifter har åtkomst till inkluderas.
 
-Det finns många nyanser och funktioner om Salesforce-synkronisering. Läs mer i [SFDC-synkroniseringsinformationen](http://docs.marketo.com/display/docs/sfdc+sync+details).
-
->[!MORELIKETHIS]
->
->* [Inställningar för Salesforce-synkronisering](http://docs.marketo.com/display/docs/setup)
->* [Information om SFDC-synkronisering](http://docs.marketo.com/display/docs/sfdc+sync+details)
-
->
-
-
-
-Marketos synkronisering med Salesforce är den mest kraftfulla i sitt slag i världen. Det känns som magi - en förändring görs och det andra systemet är snart uppdaterat.
+Marketos synkronisering med Salesforce är den mest kraftfulla i sitt slag i världen. Det känns som magi. en ändring görs och det andra systemet är snart uppdaterat.
