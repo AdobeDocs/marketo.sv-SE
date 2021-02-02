@@ -3,7 +3,7 @@ unique-page-id: 10094647
 description: Ange ett standardprefix för anpassat fält - Marketo Docs - Produktdokumentation
 title: Ange ett standardprefix för anpassat fält
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -17,9 +17,7 @@ Microsoft Dynamics-standardprefixet för anpassade fält måste vara **new** fö
 
 1. Gå till Inställningar och välj **Anpassningar.**
 
-   ** ![](assets/image2015-10-9-11-3a18-3a8.png)
-
-   **
+   ![](assets/image2015-10-9-11-3a18-3a8.png)
 
 1. Klicka på **Utgivare**.
 
@@ -42,4 +40,3 @@ Microsoft Dynamics-standardprefixet för anpassade fält måste vara **new** fö
    ![](assets/image2015-10-9-11-3a14-3a42.png)
 
 1. Skapa egna fält nu. När du är klar med dem återställer du prefixet till det ursprungliga.
-
