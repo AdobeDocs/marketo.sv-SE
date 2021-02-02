@@ -3,9 +3,9 @@ unique-page-id: 4719287
 description: Redigera ursprungliga fältmappningar - Marketo Docs - Produktdokumentation
 title: Redigera ursprungliga fältmappningar
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Påminnelse**
->
 >Den här funktionen är bara tillgänglig före den första synkroniseringen till Salesforce! När knappen **Synkronisera nu** trycks ned kan detta inte längre göras.
 
 Under den första synkroniseringen till Salesforce kombinerar Marketo automatiskt anpassade fält med liknande namn till ett enda fält på Marketo-sidan för att säkerställa att data kan utbytas med både lead- och kontaktobjekt i CRM. I den här artikeln beskrivs hur du anpassar mappningarna.
@@ -25,7 +23,7 @@ Under den första synkroniseringen till Salesforce kombinerar Marketo automatisk
 
 När du ser ett fält i mappen Omappade fält betyder det att det inte är mappat till ett liknande fält på lead eller kontakt i Salesforce. Du kan fixa det där.
 
-1. Klicka på Redigera mappningar.
+1. Klicka på **Redigera mappningar**.
 
 ![](assets/image2014-12-9-13-3a31-3a0.png)
 
@@ -69,6 +67,4 @@ Om du har fält med liknande namn på leadet och kontaktobjektet Marketo mappas 
 
    * Alla mappningsändringar återställs!
    * Om du återställer schemat läggs bara fält till, inte tas bort (även om du döljer dem för synkroniseringsanvändaren).
-
    ![](assets/image2014-12-9-13-3a32-3a8.png)
-
