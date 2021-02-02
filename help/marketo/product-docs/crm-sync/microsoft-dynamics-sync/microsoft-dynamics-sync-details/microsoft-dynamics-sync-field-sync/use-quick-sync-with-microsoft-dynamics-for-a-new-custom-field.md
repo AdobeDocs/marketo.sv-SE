@@ -3,7 +3,7 @@ unique-page-id: 10098379
 description: Använd snabbsynkronisering med Microsoft Dynamics för ett nytt anpassat fält - Marketo Docs - produktdokumentation
 title: Använd snabbsynkronisering med Microsoft Dynamics för ett nytt anpassat fält
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Så här använder du snabbsynkronisering för att synkronisera om nya fält.
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
-1. Klicka** Microsoft Dynamics**.
+1. Klicka på **Microsoft Dynamics**.
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
@@ -67,7 +67,7 @@ Vad händer om du vill synkronisera ett befintligt fält, men bara vill göra de
 
    ![](assets/image2016-8-25-15-3a52-3a9.png)
 
-1. Välj **Uppdaterat **och välj ett datumintervall med datumväljarna. Klicka på **Spara**.
+1. Välj **Uppdaterat** och välj ett datumintervall med datumväljarna. Klicka på **Spara**.
 
    ![](assets/image2016-8-25-16-3a0-3a3.png)
 
@@ -86,4 +86,3 @@ I det sällsynta fall där ett Dynamics- och Marketo-fält inte är synkronisera
    ![](assets/image2016-8-25-16-3a20-3a45.png)
 
    Det borde fixa det!
-
