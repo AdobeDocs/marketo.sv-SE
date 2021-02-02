@@ -3,9 +3,9 @@ unique-page-id: 3571797
 description: Steg 2 av 3 - Skapa en Salesforce-användare för Marketo (Professional) - Marketo Docs - Produktdokumentation
 title: Steg 2 av 3 - Skapa en Salesforce-användare för Marketo (Professional)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Steg 1 av 3: Lägg till Marketo-fält i Salesforce (Professional)](step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
-
->
-
-
+>[Steg 1 av 3: Lägg till Marketo-fält i Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
 
 I den här artikeln ska du anpassa fältbehörigheter med en Salesforce-sidlayout och skapa en Marketo-Salesforce-synkroniseringsanvändare.
 
@@ -92,9 +88,6 @@ Salesforce Professional anger tillgänglighet på fältnivå med sidlayouter, i 
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
-   >
    >Kontrollera att fältet **Heldagshändelse** har lagts till i **händelsesidlayouten**.
 
 ## Skapa synkroniseringsanvändare {#create-sync-user}
@@ -123,13 +116,6 @@ Marketo kräver inloggningsuppgifter för att få åtkomst till Salesforce. Dett
 
 Underbar! Nu har du ett konto som Marketo kan använda för att ansluta till Salesforce. Låt oss göra det.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Relaterade artiklar**
->
->* [Steg 3 av 3: Connect Marketo och Salesforce (Professional)](step-3-of-3-connect-marketo-and-salesforce-professional.md)
-
->
-
-
-
+>[Steg 3 av 3: Connect Marketo och Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
