@@ -3,9 +3,9 @@ unique-page-id: 12983390
 description: Registrera en app med Azure för att hämta ditt klient-ID/program-ID - Marketo Docs - Produktdokumentation
 title: Registrera en app med Azure för att hämta ditt klient-ID/program-ID
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Azure Active Directory utökar dina lokala kataloger till molnet, vilket ger st�
 
    ![](assets/three.png)
 
-1. Klicka på **Ny registrering **överst på sidan.
+1. Klicka på **Ny registrering** överst på sidan.
 
    ![](assets/four.png)
 
