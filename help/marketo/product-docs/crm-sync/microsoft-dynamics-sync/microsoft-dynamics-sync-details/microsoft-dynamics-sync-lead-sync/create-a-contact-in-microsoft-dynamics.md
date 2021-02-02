@@ -3,7 +3,7 @@ unique-page-id: 10095389
 description: Skapa en kontakt i Microsoft Dynamics - Marketo Docs - Produktdokumentation
 title: Skapa en kontakt i Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. Klicka på **Personåtgärder** och **Microsoft,** och välj **Synkronisera person till Microsoft**.
+1. Klicka på **Personåtgärder** och **Microsoft** och välj **Synkronisera person till Microsoft**.
 
    ![](assets/two.png)
 
@@ -36,4 +36,3 @@ ht-degree: 0%
 1. Nu kan du välja **Kontakt** när du använder begränsningen Synkronisera som i ett smart kampanjfilter.
 
    ![](assets/five.png)
-
