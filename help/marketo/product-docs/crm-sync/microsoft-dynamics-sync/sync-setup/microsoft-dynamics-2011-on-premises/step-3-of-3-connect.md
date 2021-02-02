@@ -3,9 +3,9 @@ unique-page-id: 3571809
 description: Steg 3 av 3 - Ansluta Microsoft Dynamics med Marketo (2011 On-Premises) - Marketo Docs - Produktdokumentation
 title: Steg 3 av 3 - Anslut Microsoft Dynamics med Marketo (On-Premises 2011)
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ Okej! Vi installerade lösningen och konfigurerade synkroniseringsanvändaren. D
 
 >[!PREREQUISITES]
 >
->* [Steg 1 av 3: Installera Marketo-lösningen (2011 On-Premises)](step-1-of-3-install.md)
->* [Steg 2 av 3: Konfigurera Marketo-synkronisering av användare i Dynamics (lokal 2011)](step-2-of-3-set-up.md)
+>* [Steg 1 av 3: Installera Marketo-lösningen (2011 On-Premises)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
+>* [Steg 2 av 3: Konfigurera Marketo-synkronisering av användare i Dynamics (lokal 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -53,17 +53,17 @@ Okej! Vi installerade lösningen och konfigurerade synkroniseringsanvändaren. D
 
    >[!NOTE]
    >
-   >Användarnamnet i Marketo måste matcha användarnamnet för synkroniseringsanvändaren i CRM. Formatet kan vara [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#a0d5d3c5d2e0c4cfcdc1c9ce8ec3cfcd) eller DOMAIN\user.
+   >Användarnamnet i Marketo måste matcha användarnamnet för synkroniseringsanvändaren i CRM. Formatet kan vara user@domain.com eller DOMÄN\användare.
 
    >[!TIP]
    >
-   >Vet du inte URL:en? Vi visar hur du hittar URL:en för Dynamics-organisationstjänsten[ här.](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
+   >Vet du inte URL:en? Vi visar hur du hittar URL:en för Dynamics-organisationstjänsten](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) här.[
 
 ## Välj fält att synkronisera {#select-fields-to-sync}
 
 Nu måste vi markera de fält vi vill synkronisera.
 
-1. Klicka på **Redigera** i **steg 2: Välj fält att synkronisera.**
+1. Klicka på **Redigera** i **Steg 2: Välj fält att synkronisera.**
 
    ![](assets/image2015-3-16-9-51-28a.png)
 
