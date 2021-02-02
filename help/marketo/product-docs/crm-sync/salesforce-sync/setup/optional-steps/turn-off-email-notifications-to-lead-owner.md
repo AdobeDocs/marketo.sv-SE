@@ -3,7 +3,7 @@ unique-page-id: 13795802
 description: Inaktivera e-postmeddelanden till Lead Owner - Marketo Docs - Produktdokumentation
 title: Inaktivera e-postmeddelanden till leadägaren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Du kan inaktivera de automatiska e-postmeddelanden som skickas till Leadägare i
 1. Avmarkera rutan **Skicka e-postmeddelande till ägaren i Salesforce vid lead-tilldelning**. Klicka på **Spara**.
 
    ![](assets/new-screen.png)
-
