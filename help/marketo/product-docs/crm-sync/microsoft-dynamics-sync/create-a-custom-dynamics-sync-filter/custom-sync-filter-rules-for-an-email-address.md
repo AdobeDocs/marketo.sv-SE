@@ -3,7 +3,7 @@ unique-page-id: 10095307
 description: Anpassade synkroniseringsfilterregler för en e-postadress - Marketo Docs - Produktdokumentation
 title: Anpassade synkroniseringsfilterregler för en e-postadress
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
@@ -21,4 +21,3 @@ Följ de här reglerna för att förhindra synkronisering av poster som inte har
 
 * När kontaktens företagsnamn (parentcustomerid) uppdateras kontrollerar du om kontaktens fält Synkronisera med KTO är true. Om det är det ändrar du även Synkronisera till MKTO för kontot till **True**
 * När fältet Potentiell kund (anpassad) eller Kontakt (parentkontaktaktid) för affärsmöjligheten uppdateras, kontrollerar du om kontots Synkronisera med MKto-fält är sant eller om kontaktens Synkronisera med MKto-fält är sant. I så fall ändrar du Synkronisera till MKTO för affärsmöjligheten till **Sant** även
-
