@@ -3,7 +3,7 @@ unique-page-id: 4719297
 description: Aktivera/inaktivera anpassad objektsynkronisering - Marketo-dokument - Produktdokumentation
 title: Aktivera/inaktivera synkronisering av anpassat objekt
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -23,11 +23,9 @@ Anpassade objekt som skapas i Salesforce-instansen kan också ingå i Marketo. S
 
 1. Klicka på **Admin**.
 
-   ** ![](assets/one.png)
+   ![](assets/one.png)
 
-   **
-
-1. Klicka på **Salesforce** **Objektsynkronisering** på menyn Databashantering.
+1. Klicka på **Salesforce-objektsynkronisering** på menyn Databashantering.
 
    ![](assets/two-2.png)
 
@@ -57,9 +55,7 @@ Anpassade objekt som skapas i Salesforce-instansen kan också ingå i Marketo. S
 
 1. Klicka på **Aktivera synkronisering** igen.
 
-   ** ![](assets/image2014-12-10-10-3a15-3a40.png)
-
-   **
+   ![](assets/image2014-12-10-10-3a15-3a40.png)
 
 1. Gå tillbaka till fliken **Salesforce** och klicka på **Aktivera synkronisering**.
 
@@ -71,7 +67,7 @@ Anpassade objekt som skapas i Salesforce-instansen kan också ingå i Marketo. S
 >
 >Du kan inte använda anpassade objekt i smarta kampanjer med utlösare.
 
-1. Dra över filtret **Har möjlighet** i den smarta listan och ställ in på&#x200B;**true**.
+1. Dra över filtret **Har möjlighet** i den smarta listan och ange **true**.
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 
@@ -83,9 +79,4 @@ Anpassade objekt som skapas i Salesforce-instansen kan också ingå i Marketo. S
 
 >[!MORELIKETHIS]
 >
->* [Lägg till/ta bort anpassat objektfält som smart lista/utlösarbegränsningar](add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
-
->
-
-
-
+>[Lägg till/ta bort anpassat objektfält som smart lista/utlösarbegränsningar](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
