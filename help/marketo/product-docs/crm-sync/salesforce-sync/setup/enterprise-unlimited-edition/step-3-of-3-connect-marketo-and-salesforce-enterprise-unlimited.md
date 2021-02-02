@@ -3,9 +3,9 @@ unique-page-id: 2360366
 description: Steg 3 av 3 - Connect Marketo och Salesforce (Enterprise/Unlimited) - Marketo Docs - Produktdokumentation
 title: Steg 3 av 3 - Connect Marketo och Salesforce (Enterprise/Unlimited)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ I den här artikeln konfigurerar du Marketo att synkronisera med din konfigurera
 
 >[!PREREQUISITES]
 >
->* [Steg 1 av 3: Lägg till Marketo-fält i Salesforce (Enterprise/Unlimited)](step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
->* [Steg 2 av 3: Skapa en Salesforce-användare för Marketo (Enterprise/Unlimited)](../../../../../product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) [](https://community.marketo.com/MarketoTutorial?id=kA250000000Kz5rCAC)
-
->
-
+>* [Steg 1 av 3: Lägg till Marketo-fält i Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>* [Steg 2 av 3: Skapa en Salesforce-användare för Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
 
 
 ## Hämta säkerhetstoken för synkroniserad användare {#retrieve-sync-user-security-token}
@@ -52,12 +49,9 @@ I den här artikeln konfigurerar du Marketo att synkronisera med din konfigurera
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
-   >
-   >Var noga med att [dölja alla fält som du inte behöver](../../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md) i Marketo för synkroniseringsanvändaren innan du klickar på **Synkronisera fält**. När du klickar på Synkronisera fält skapas alla fält som användaren kan se i Marketo permanent och kan inte tas bort.
+   >Var noga med att [dölja alla fält som du inte behöver](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md) i Marketo för synkroniseringsanvändaren innan du klickar på **Synkronisera fält**. När du klickar på Synkronisera fält skapas alla fält som användaren kan se i Marketo permanent och kan inte tas bort.
 
-1. Ange inloggningsuppgifterna för Salesforce Sync User som skapades i del 2 av Salesforce-konfigurationen ([Professional](https://community.marketo.com/MarketoArticle?id=kA050000000LJ3QCAW), [Enterprise](https://community.marketo.com/MarketoArticle?id=kA050000000LIwKCAW)) och klicka på **Synkronisera fält**.
+1. Ange inloggningsuppgifterna för Salesforce Sync User som skapades i del 2 av Salesforce-konfigurationen ([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md), [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) och klicka på **Synkronisera fält**.
 
    ![](assets/image2014-12-9-9-3a53-3a8.png)
 
@@ -71,7 +65,7 @@ I den här artikeln konfigurerar du Marketo att synkronisera med din konfigurera
 
    >[!CAUTION]
    >
-   >Om du vill titta över [mappningarna och anpassa dem](https://docs.marketo.com/display/public/DOCS/Edit+Initial+Field+Mappings) är detta den enda chansen att göra det! När du klickar på Starta Salesforce-synkronisering är det klart.
+   >Om du vill titta över [mappningarna och anpassa dem](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md) är detta den enda chansen att göra det! När du klickar på Starta Salesforce-synkronisering är det klart.
 
 ## Starta Salesforce-synkronisering {#start-salesforce-sync}
 
@@ -83,7 +77,7 @@ I den här artikeln konfigurerar du Marketo att synkronisera med din konfigurera
    >
    >Marketo avlastar inte automatiskt från en Salesforce-synkronisering eller när du anger leads manuellt.
 
-1. Klicka på **STARTA SYNKRONISERING**.
+1. Klicka på **Starta synkronisering**.
 
    ![](assets/image2014-12-9-9-3a53-3a32.png)
 
@@ -109,17 +103,10 @@ Marketo tillhandahåller statusmeddelanden för Salesforce-synkronisering i admi
 
 Wow, du har precis konfigurerat en av de kraftfullaste funktionerna i Marketo, tack!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Relaterade artiklar**
->
->* [Steg 1 av 3: Lägg till Marketo-fält i Salesforce (Enterprise/Unlimited)](step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
->* [Steg 2 av 3: Skapa en Salesforce-användare för Marketo (Enterprise/Unlimited)](step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
->* [Installera Marketo Sales Insight-paket i Salesforce AppExchange](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
->* [Konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
->* [Valfria steg](http://docs.marketo.com/display/docs/optional+steps)
-
->
-
-
+>* [Steg 1 av 3: Lägg till Marketo-fält i Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>* [Steg 2 av 3: Skapa en Salesforce-användare för Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>* [Installera Marketo Sales Insight-paket i Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+>* [Konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 
