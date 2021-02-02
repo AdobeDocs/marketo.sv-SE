@@ -3,7 +3,7 @@ unique-page-id: 10097584
 description: Synkroniseringsstatus - Marketo Docs - Produktdokumentation
 title: Synkroniseringsstatus
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -35,7 +35,7 @@ På flikarna Synkroniseringsstatus och Synkroniseringsfel kan du hålla reda på
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. Klicka på **Visa: **listruta** **och välj **Senaste timma **för att visa genomströmningsinformation.
+1. Klicka på listrutan **Visa:** och välj **Senaste timme** om du vill visa genomströmningsinformation.
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
@@ -55,5 +55,4 @@ Sök, sök och exportera leads (och andra objekt) som inte kunde synkroniseras m
 
 >[!MORELIKETHIS]
 >
->* [Meddelandetyper](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
-
+>[Meddelandetyper](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
