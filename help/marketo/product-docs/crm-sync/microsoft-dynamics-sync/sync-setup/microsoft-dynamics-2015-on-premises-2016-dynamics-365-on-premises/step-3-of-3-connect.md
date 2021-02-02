@@ -3,23 +3,20 @@ unique-page-id: 7504744
 description: Installera Marketo för Dynamics 2015 On-Prem och 2016 365 On-Prem Step 3 of 3 - Marketo Docs - produktdokumentation
 title: Installera Marketo för Dynamics 2015 On-Prem och 2016 365 On-Prem Step 3 of 3
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
 
 
-# Installera Marketo för Dynamics 2015 On-Prem och 2016 365 On-Prem Step 3 of 3 {#install-marketo-for-dynamics-on-prem-and-on-prem-step-of}
+# Steg 3 av 3: Connect Marketo Dynamics (2015 On-Prem och 2016 365 On-Prem) {#step-of-connect-marketo-dynamics-on-premises-and-365}
 
 >[!PREREQUISITES]
 >
->* [Installera Marketo för Dynamics 2015 On-Prem och 2016 365 On-Prem Step 1 of 3](step-1-of-3-install.md)
->* [Installera Marketo för Dynamics 2015 On-Prem och 2016 365 On-Prem Step 2 of 3](step-2-of-3-set-up.md)
-
->
-
+>* [Installera Marketo för Dynamics 2015 On-Prem och 2016 365 On-Prem Step 1 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+>* [Installera Marketo för Dynamics 2015 On-Prem och 2016 365 On-Prem Step 2 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -54,11 +51,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Användarnamnet i Marketo måste matcha användarnamnet för synkroniseringsanvändaren i CRM. Formatet kan vara [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#8cf9ffe9fecce8e3e1ede5e2a2efe3e1) eller DOMAIN\user.
+   >Användarnamnet i Marketo måste matcha användarnamnet för synkroniseringsanvändaren i CRM. Formatet kan vara user@domain.com eller DOMÄN\användare.
 
    >[!TIP]
    >
-   >Vet du inte URL:en? Vi visar dig hur du hittar din [Dynamics organisationstjänst-URL](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) här.
+   >Vet du inte URL:en? Vi visar dig hur du hittar din [Dynamics organisationstjänst-URL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) här.
 
 ## Välj fält att synkronisera {#select-fields-to-sync}
 
