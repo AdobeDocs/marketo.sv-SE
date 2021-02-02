@@ -3,7 +3,7 @@ unique-page-id: 2953384
 description: Aktivera synkronisering för en anpassad enhet - Marketo Docs - Produktdokumentation
 title: Aktivera synkronisering för en anpassad entitet
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -26,9 +26,10 @@ Om du vill att anpassade entitetsdata från Dynamics ska vara tillgängliga i Ma
 1. Välj **Microsoft Dynamics** och klicka på **Inaktivera synkronisering**.
 
    Du måste inaktivera den globala synkroniseringen tillfälligt för att kunna aktivera eller inaktivera en anpassad entitet.
+
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
-1. Klicka på länken** Dynamics Entities Sync** under Databashantering.
+1. Klicka på länken **Synkronisera Dynamics-entiteter** under Databashantering.
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
@@ -40,7 +41,7 @@ Om du vill att anpassade entitetsdata från Dynamics ska vara tillgängliga i Ma
 
    ![](assets/image2015-11-10-9-3a44-3a35.png)
 
-1. Markera de fält som du vill synkronisera eller använda som [begränsningar](../../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) och/eller utlösare i smarta listor. När du är klar klickar du på **Aktivera synkronisering**.
+1. Markera de fält som du vill synkronisera eller använda som [begränsningar](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) och/eller utlösare i smarta listor. När du är klar klickar du på **Aktivera synkronisering**.
 
    ![](assets/image2014-10-20-14-3a32-3a55.png)
 
