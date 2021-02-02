@@ -3,9 +3,9 @@ unique-page-id: 9437903
 description: Skapa ett anpassat Dynamics Sync-filter - Marketo Docs - Produktdokumentation
 title: Skapa ett anpassat Dynamics-synkroniseringsfilter
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '789'
+source-wordcount: '785'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ Marketo letar efter det här fältet under den automatiska bakgrundssynkroniseri
 
    ![](assets/image2015-8-10-21-3a43-3a39.png)
 
-1. Klicka på ![](assets/image2015-8-10-21-3a44-3a23.png) bredvid **Lead **och välj **Fält**. Klicka sedan på **Nytt**.
+1. Klicka på ![](assets/image2015-8-10-21-3a44-3a23.png) bredvid **Lead** och välj **Fält**. Klicka sedan på **Nytt**.
 
    ![](assets/image2015-8-10-21-3a49-3a49.png)
 
@@ -67,7 +67,7 @@ Marketo letar efter det här fältet under den automatiska bakgrundssynkroniseri
 
    >[!NOTE]
    >
-   >Välj ett visningsnamn för det här fältet, men fältet Namn måste vara exakt **new_synctomkto**. Du måste använda **new** som standardprefix. Om du har ändrat standardvärdet går du hit till [återställ standardprefixet för de anpassade fältnamnen](create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md). Du kan ändra tillbaka när du har skapat de nya fälten.
+   >Välj ett visningsnamn för det här fältet, men fältet Namn måste vara exakt **new_synctomkto**. Du måste använda **new** som standardprefix. Om du har ändrat standardvärdet går du hit till [återställ standardprefixet för de anpassade fältnamnen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md). Du kan ändra tillbaka när du har skapat de nya fälten.
 
    >[!NOTE]
    >
@@ -129,7 +129,7 @@ Du kan alltid manuellt tilldela ett värde till SyncToMkto-fälten för dina pos
 
    >[!TIP]
    >
-   >Se [Anpassade synkroniseringsfilterregler för en e-postadress](create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md) om du vill konfigurera regler för att synkronisera endast poster för personer med e-postadresser.
+   >Se [Anpassade synkroniseringsfilterregler för en e-postadress](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md) om du vill konfigurera regler för att synkronisera endast poster för personer med e-postadresser.
 
 ## Information om synkroniseringsfilter {#sync-filter-details}
 
@@ -141,21 +141,15 @@ Här är några implementeringsdetaljer vi trodde att du borde veta:
 
    >[!TIP]
    >
-   >En **Create [StartSync]**-åtgärd läggs till i Marketo-loggen när detta inträffar.
+   >En `Create [StartSync]`-åtgärd läggs till i Marketo-loggen när detta händer.
 
 1. Stoppa en synkroniseringsåtgärd
 
    När en post ändrar sitt SyncToMkto-värde från Yes till No, meddelas Marketo om att den här posten ska sluta synkroniseras. Posten tas dock inte bort, utan den slutar att hämta uppdateringar och blir föråldrad.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Relaterade artiklar**
->
->* [Synkroniseringsfilter för Microsoft Dynamics: Kvalificera](create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
->* [Synkroniseringsfilter för Microsoft Dynamics: Sammanfoga](create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
->* [Anpassade synkroniseringsfilterregler för en e-postadress](create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
-
->
-
-
+>* [Synkroniseringsfilter för Microsoft Dynamics: Kvalificera](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
+>* [Synkroniseringsfilter för Microsoft Dynamics: Sammanfoga](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
+>* [Anpassade synkroniseringsfilterregler för en e-postadress](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
 
