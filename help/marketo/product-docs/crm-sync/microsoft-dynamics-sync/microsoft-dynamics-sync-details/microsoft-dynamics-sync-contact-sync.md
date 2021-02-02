@@ -3,9 +3,9 @@ unique-page-id: 3571833
 description: Microsoft Dynamics Sync -Contact Sync - Marketo Docs - Produktdokumentation
 title: Microsoft Dynamics Sync - kontaktsynkronisering
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Trots att detta är sällsynt kommer Marketo att vinna för människor och Dynam
 
 ## Kan jag skapa en kontakt med Marketo? {#can-i-create-a-contact-using-marketo}
 
-Ja. [Så här](microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md).
+Ja. [Så här](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md).
 
 >[!NOTE]
 >
@@ -33,11 +33,11 @@ Ja. [Så här](microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-d
 
 ## Kan jag framtvinga en manuell synkronisering av en person eller en kontakt? {#can-i-manually-force-a-sync-of-a-person-or-a-contact}
 
-Nej, den automatiska bakgrundssynkroniseringen är det enda sättet att synkronisera uppdateringar mellan Marketo och Dynamics. [Synkronisering av person till Microsoft](../../../../product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) tvingar inte till en synkronisering av leadet.
+Nej, den automatiska bakgrundssynkroniseringen är det enda sättet att synkronisera uppdateringar mellan Marketo och Dynamics. [Synkronisering av person till Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) tvingar inte till en synkronisering av leadet.
 
 ## Vilka fält synkroniseras med Marketo? {#what-fields-will-sync-to-marketo}
 
-Du kan [välja fält att synkronisera](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) under installationen. Marketo synkroniserar bara de fält som din Dynamics-synkroniseringsanvändare har åtkomst till.
+Du kan [välja fält att synkronisera](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync) under installationen. Marketo synkroniserar bara de fält som din Dynamics-synkroniseringsanvändare har åtkomst till.
 
 ## Kommer Marketo att respektera Dynamics-valideringsreglerna? {#will-marketo-respect-the-dynamics-validation-rules}
 
