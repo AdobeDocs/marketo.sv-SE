@@ -3,9 +3,9 @@ unique-page-id: 4719294
 description: Anpassa aktiviteter Sync - Marketo Docs - Produktdokumentation
 title: Synkronisera anpassade aktiviteter
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Synkronisera aktiviteter {#customize-activities-sync}
 
-Om du inte använder [Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight) kan Marketo skapa Salesforce-historikposter för aktivitet för vissa händelser. Så här aktiverar du dem.
+Om du inte använder Marketo Sales Insight kan Marketo skapa Salesforce-historikposter för vissa händelser. Så här aktiverar du dem.
 
-1. Gå till **Admin. **
+1. Gå till **Admin**.
 
    ![](assets/admin.png)
 
@@ -29,7 +29,7 @@ Om du inte använder [Sales Insight](http://docs.marketo.com/display/DOCS/Market
 
    >[!NOTE]
    >
-   >När Marketo har aktiverats kommer han att puffa för tre månaders aktivitetshistorik. Beroende på mängden data kan *det ta flera dagar att slutföra*. Uppdateringar som inträffar under den initiala aktivitetspush-åtgärden kan fördröjas tills den initiala aktivitetssynkroniseringen har slutförts.
+   >När Marketo har aktiverats kommer han att puffa för tre månaders aktivitetshistorik. Beroende på mängden data kan _det ta flera dagar att slutföra_. Uppdateringar som inträffar under den initiala aktivitetspush-åtgärden kan fördröjas tills den initiala aktivitetssynkroniseringen har slutförts.
 
 <table> 
  <colgroup> 
@@ -96,12 +96,8 @@ Om du inte använder [Sales Insight](http://docs.marketo.com/display/DOCS/Market
 
 >[!NOTE]
 >
->**Påminnelse**
->
->
 >&quot;E-post som tagits emot&quot; innebär **inte** levererat. Leveransstatus hämtas inte för e-postmeddelanden som skickas via Sales Insight.
 
 >[!TIP]
 >
->Om du är intresserad av att få in mer marknadsföringsinformation i Salesforce kan du ta en titt på vår [Marketo Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)-produkt.
-
+>Om du är intresserad av att få in mer marknadsföringsinformation i Salesforce kan du ta en titt på vår [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)-produkt.
