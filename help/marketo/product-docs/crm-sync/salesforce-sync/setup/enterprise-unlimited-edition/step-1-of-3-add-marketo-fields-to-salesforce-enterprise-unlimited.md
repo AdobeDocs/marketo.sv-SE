@@ -3,9 +3,9 @@ unique-page-id: 2360362
 description: Steg 1 av 3 - Lägg till Marketo-fält i Salesforce (Enterprise/Unlimited) - Marketo Docs - Produktdokumentation
 title: Steg 1 av 3 - Lägg till Marketto-fält i Salesforce (Enterprise/Unlimited)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '753'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -31,15 +31,15 @@ Lägg till tre anpassade fält i lead- och kontaktobjekten i Salesforce som list
 
 Utför följande steg för vart och ett av de tre anpassade fälten för att lägga till dem. Börja med bakgrundsmusik.
 
-1. Logga in i Salesforce och klicka på Inställningar.
+1. Logga in i Salesforce och klicka på **Inställningar**.
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. Klicka på Anpassa på menyn Skapa till vänster och välj Leads. Klicka på Fält.
+1. Klicka på **Anpassa** på menyn Skapa till vänster och välj **Leads**. Klicka på **Fält**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. Klicka på Nytt i avsnittet Anpassade fält och relationer längst ned på sidan.
+1. Klicka på **Nytt** i avsnittet Anpassade fält och relationer längst ned på sidan.
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
@@ -47,7 +47,7 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
 
    ![](assets/choose-field-type-2-hand.png)
 
-1. Klicka på Nästa.
+1. Klicka på **Nästa**.
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
@@ -106,18 +106,18 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
 >
 >Text- och nummerfält kräver en längd, men inte datum-/tidsfält. En beskrivning är valfri.
 
-1. Klicka på Nästa.
+1. Klicka på **Nästa**.
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
-1. Ange åtkomstinställningarna och klicka på Nästa:
+1. Ange åtkomstinställningarna och klicka på **Nästa**:
 
-   * Ställ in alla roller till **Visible **och **Read-Only**
+   * Ställ in alla roller till **Visible** och **Read-Only**
 
    * Avmarkera kryssrutan **Skrivskyddad** för din synkroniseringsanvändares profil:
 
-      * Om du har en användare med profilen *Systemadministratör* som synkroniseringsanvändare avmarkerar du kryssrutan **Skrivskyddad** för systemadministratörsprofilen (som visas nedan)
-      * Om du skapade en *anpassad profil* för synkroniseringsanvändaren avmarkerar du kryssrutan **Skrivskyddad** för den anpassade profilen
+      * Om du har en användare med profilen _Systemadministratör_ som synkroniseringsanvändare avmarkerar du kryssrutan **Skrivskyddad** för systemadministratörsprofilen (som visas nedan)
+      * Om du skapade en _anpassad profil_ för synkroniseringsanvändaren avmarkerar du kryssrutan **Skrivskyddad** för den anpassade profilen
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -125,11 +125,11 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Klicka på Spara och ny för att gå tillbaka och skapa de två andra anpassade fälten. Klicka på Spara när du är klar med alla tre.
+1. Klicka på **Spara och ny** om du vill gå tillbaka och skapa de två andra anpassade fälten. Klicka på **Spara** när du är klar med alla tre.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. Klicka på Anpassa på menyn Skapa till vänster och välj Kontakter. Klicka på Fält.
+1. Klicka på **Anpassa** på menyn Skapa till vänster och välj Kontakter. Klicka på Fält.
 1. Utför steg 3 till 10 för fälten Poäng, Inköpsdatum och Anskaffningsprogram på kontaktobjektet, precis som för lead-objektet.
 1. Du kan också använda ovanstående procedur för ytterligare anpassade fält från den här tabellen.
 
@@ -261,23 +261,15 @@ Ett anpassat fält på lead-objektet i Salesforce bör mappas till ett kontaktf�
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
 1. Upprepa stegen ovan för alla andra fält som du har skapat.
+
 1. Klicka på **Spara** när du är klar.
 
    Inte så lätt, eller hur?
 
 >[!NOTE]
 >
->**Djupdykning**
->
 >Här är en länk till en [video av hela proceduren](https://nation.marketo.com/videos/1475) som bör göra den kristallklar!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Relaterade artiklar**
->
->* [Steg 2 av 3: Skapa en Salesforce-användare för Marketo (Enterprise/Unlimited)](step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
-
->
-
-
-
+>[Steg 2 av 3: Skapa en Salesforce-användare för Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
