@@ -3,7 +3,7 @@ unique-page-id: 4719291
 description: Ange standardperson, efternamn och företagsnamn - Marketo-dokument - produktdokumentation
 title: Ange standardpersonens efternamn och företagsnamn
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Salesforce kräver (minimum) efternamn och företagsnamn för sina leads och kon
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. Ange ett **efternamn för standardperson** och ett **Standard ****personföretag** och klicka sedan på **Spara**.
+1. Ange ett **standardpersonefternamn** och ett **standardpersonföretag** och klicka sedan på **Spara**.
 
    ![](assets/sync-options-hands.png)
 
