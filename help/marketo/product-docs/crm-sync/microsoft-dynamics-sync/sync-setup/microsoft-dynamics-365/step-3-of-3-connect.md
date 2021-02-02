@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: Steg 3 av 3 - Anslut Microsoft Dynamics med Marketo (Online) - Marketo Docs - Produktdokumentation
 title: Steg 3 av 3 -Anslut Microsoft Dynamics med Marketo (online)
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,10 @@ Detta är det sista steget i synkroniseringen. Vi är nästan framme!
 
 >[!PREREQUISITES]
 >
->* [Steg 1 av 3: Installera Marketo-lösningen (online)](step-1-of-3-install.md)
+>* [Steg 1 av 3: Installera Marketo-lösningen (online)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
    >
    >
-* [Steg 2 av 3: Konfigurera Marketo Sync User i Dynamics](step-2-of-3-set-up.md)
-
->
-
+* [Steg 2 av 3: Konfigurera Marketo Sync User i Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -58,7 +55,7 @@ Detta är det sista steget i synkroniseringen. Vi är nästan framme!
 
    >[!NOTE]
    >
-   >Användarnamnet i Marketo måste matcha användarnamnet för synkroniseringsanvändaren i CRM. Formatet kan vara [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#bcc9cfd9cefcd8d3d1ddd5d292dfd3d1) eller DOMAIN\user.
+   >Användarnamnet i Marketo måste matcha användarnamnet för synkroniseringsanvändaren i CRM. Formatet kan vara user@domain.com eller DOMÄN\användare.
 
 ## Välj fält att synkronisera {#select-fields-to-sync}
 
