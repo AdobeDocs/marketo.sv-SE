@@ -3,9 +3,9 @@ unique-page-id: 2360364
 description: Steg 2 av 3 - Skapa en Salesforce-användare för Marketo (Enterprise/Unlimited) - Marketo Docs - Produktdokumentation
 title: Steg 2 av 3 - Skapa en Salesforce-användare för Marketo (Enterprise/Unlimited)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '420'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Steg 1 av 3: Lägg till Marketo-fält i Salesforce (Enterprise/Unlimited)](step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
-
->
-
-
+>[Steg 1 av 3: Lägg till Marketo-fält i Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 
 I den här artikeln ställer du in användarbehörigheter i Salesforce-profilen och skapar ett Marketo-Salesforce-integrationskonto.
 
@@ -100,10 +96,10 @@ I den här artikeln ställer du in användarbehörigheter i Salesforce-profilen 
 
 1. Gå till avsnittet **Fältnivåsäkerhet** på profilinformationssidan. Klicka på **Visa** om du vill redigera tillgängligheten för objekten:
 
-   * `Lead`
-   * `Contact`
-   * `Account`
-   * `Opportunity`
+   * Lead
+   * Kontakt
+   * Konto
+   * Möjligheter
 
    >[!TIP]
    >
@@ -115,18 +111,15 @@ I den här artikeln ställer du in användarbehörigheter i Salesforce-profilen 
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. Leta reda på de fält som inte behövs, kontrollera att **Läs åtkomst **och** Redigera åtkomst **är avmarkerade. Klicka på **Spara** när du är klar.
+1. Leta reda på de fält som inte behövs, kontrollera att **Läs åtkomst** och **Redigera åtkomst** är avmarkerade. Klicka på **Spara** när du är klar.
 
    >[!NOTE]
-   >
-   >**Påminnelse**
-   >
    >
    >Redigera bara tillgängligheten för anpassade fält.
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. När du har avaktiverat alla onödiga fält måste du kontrollera **Läs åtkomst och Redigera åtkomst **för följande objektfält. Klicka på **Spara** när du är klar.
+1. När du har inaktiverat alla onödiga fält måste du kontrollera **Läs åtkomst och Redigera åtkomst** för följande objektfält. Klicka på **Spara** när du är klar.
 
 <table> 
  <tbody> 
@@ -155,7 +148,7 @@ I den här artikeln ställer du in användarbehörigheter i Salesforce-profilen 
 
 >[!TIP]
 >
->Skapa ett dedikerat Salesforce-konto (t.ex. [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#89e4e8fbe2ecfde6c9f0e6fcfbeae6e4f9e8e7f0a7eae6e4)) för att skilja på ändringar som gjorts av Marketo och andra Salesforce-användare.
+>Skapa ett dedikerat Salesforce-konto (t.ex. marketo@yourcompany.com) för att skilja de ändringar som gjorts av Marketo från andra Salesforce-användare.
 
 1. Skriv&quot;Hantera användare&quot; i navigeringsfältet och klicka sedan på **Användare**. Klicka på **Ny användare**.
 
@@ -169,11 +162,4 @@ Steg 2 av 2 är slutförd.
 
 >[!NOTE]
 >
->**Relaterade artiklar**
->
->* [Steg 3 av 3: Connect Marketo och Salesforce (Enterprise/Unlimited)](step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
-
->
-
-
-
+>[Steg 3 av 3: Connect Marketo och Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
