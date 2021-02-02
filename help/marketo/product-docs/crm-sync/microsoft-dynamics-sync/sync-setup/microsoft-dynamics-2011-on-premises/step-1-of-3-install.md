@@ -3,9 +3,9 @@ unique-page-id: 3571805
 description: Steg 1 av 3 - Installera Marketo Solution (2011 On-Premises) - Marketo Docs - Produktdokumentation
 title: Steg 1 av 3 - Installera Marketo Solution (2011 On-Premises)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ Innan du kan synkronisera Microsoft Dynamics On-Premises och Marketo måste du f
 
 >[!PREREQUISITES]
 >
->Du måste ha [Internet Facing Deployment](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) med [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 eller 3.0 (ADFS) konfigurerat. **Obs**: IFD-dokumentet laddas ned automatiskt när du klickar på länken.
+>Du måste ha [Internet Facing Deployment](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) med [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 eller 3.0 (ADFS) konfigurerat. **Obs**: IFD-dokumentet laddas ned automatiskt när du klickar på länken.
 >
->[Ladda ned Marketo Lead Management ](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) Solution innan du börjar.
+>[Ladda ned Marketo Lead Management ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) Solution innan du börjar.
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ Innan du kan synkronisera Microsoft Dynamics On-Premises och Marketo måste du f
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. Klicka på **Bläddra**. Välj den Marketo Lead Management-lösning som du [har hämtat](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klicka på **Nästa**.
+1. Klicka på **Bläddra**. Välj den Marketo Lead Management-lösning som du [har hämtat](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klicka på **Nästa**.
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 
@@ -93,8 +93,6 @@ Det var väl inte så illa? Kom igen, jag fortsätter gå dig genom resten.
 >
 >Om du inaktiverar någon av Marketo SDK-meddelandeprocesserna avbryts installationen!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Relaterade artiklar**
->
->[Steg 2 av 3: Konfigurera Marketo-synkronisering av användare i Dynamics (lokal 2011)](step-2-of-3-set-up.md)
+>[Steg 2 av 3: Konfigurera Marketo-synkronisering av användare i Dynamics (lokal 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
