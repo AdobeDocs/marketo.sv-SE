@@ -3,7 +3,7 @@ unique-page-id: 8782944
 description: Gör Marketo Sync User a Marketing User - Marketo Docs - Produktdokumentation
 title: Gör Marketo till Sync User a Marketing User
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Gör Marketo Sync User a Marketing User {#make-marketo-sync-user-a-marketing-user}
 
-[Marketo-synkroniseringsanvändaren](../../../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) måste vara en marknadsföringsanvändare för att Salesforce-kampanjsynkroniseringen ska fungera korrekt. Så här gör du för att göra användaren till en marknadsföringsanvändare i Salesforce.
+[Marketo-synkroniseringsanvändaren](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) måste vara en marknadsföringsanvändare för att Salesforce-kampanjsynkroniseringen ska fungera korrekt. Så här gör du för att göra användaren till en marknadsföringsanvändare i Salesforce.
 
 >[!NOTE]
 >
@@ -36,4 +36,3 @@ ht-degree: 0%
    ![](assets/image2015-7-8-14-3a30-3a16.png)
 
    Bra! Marketo-synkroniseringsanvändaren är nu en marknadsföringsanvändare.
-
