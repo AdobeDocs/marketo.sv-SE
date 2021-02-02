@@ -3,9 +3,9 @@ unique-page-id: 11372975
 description: Steg 1 av 3 -Lägg till Marketto-fält i Salesforce (Professional) - Marketo-dokument - Produktdokumentation
 title: Steg 1 av 3 -Lägg till Marketto-fält i Salesforce (Professional)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '745'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
 
 1. Logga in i Salesforce och klicka på **Inställningar.**
 
-   ** ![](assets/image2016-5-23-13-3a15-3a21.png)
-
-   **
+   ![](assets/image2016-5-23-13-3a15-3a21.png)
 
 1. Klicka på **Anpassa** på menyn Skapa till vänster och välj **Leads**. Klicka på **Fält**.
 
@@ -114,13 +112,13 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
 
 1. Ange åtkomstinställningarna och klicka på **Nästa**:
 
-   * Ställ in alla roller till **Visible **och **Read-Only**
+   * Ställ in alla roller till **Visible** och **Read-Only**
 
    * Avmarkera kryssrutan **Skrivskyddad** för din synkroniseringsanvändares profil:
 
-      * Om du har en användare med profilen *Systemadministratör* som synkroniseringsanvändare avmarkerar du kryssrutan **Skrivskyddad** för systemadministratörsprofilen (som visas nedan)
+      * Om du har en användare med profilen _Systemadministratör_ som synkroniseringsanvändare avmarkerar du kryssrutan **Skrivskyddad** för systemadministratörsprofilen (som visas nedan)
 
-      * Om du skapade en *anpassad profil* för synkroniseringsanvändaren avmarkerar du kryssrutan **Skrivskyddad** för den anpassade profilen
+      * Om du skapade en _anpassad profil_ för synkroniseringsanvändaren avmarkerar du kryssrutan **Skrivskyddad** för den anpassade profilen
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -132,7 +130,7 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. Klicka på **Anpassa **och välj **Kontakter** på menyn Skapa till vänster. Klicka på **Fält**.
+1. Klicka på **Anpassa** på menyn Skapa till vänster och välj **Kontakter**. Klicka på **Fält**.
 1. Utför steg 3 till 10 för fälten Poäng, Inköpsdatum och Anskaffningsprogram på kontaktobjektet, precis som för lead-objektet.
 1. Du kan också använda ovanstående procedur för ytterligare anpassade fält från den här tabellen.
 
@@ -256,17 +254,8 @@ Inte så lätt, eller hur?
 
 >[!NOTE]
 >
->**Djupdykning**
->
 >Här är en [video av hela processen](https://nation.marketo.com/videos/1475) som ska göra den kristallklar!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Relaterade artiklar**
->
->* [Steg 2 av 3: Skapa en Salesforce-användare för Marketo (Professional)](step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
-
->
-
-
-
+>[Steg 2 av 3: Skapa en Salesforce-användare för Marketo (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
