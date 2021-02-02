@@ -3,7 +3,7 @@ unique-page-id: 4719302
 description: Aktivera icke-engelsk anpassad objektsynkronisering - Marketo Docs - produktdokumentation
 title: Aktivera icke-engelsk anpassad objektsynkronisering
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -61,7 +61,4 @@ Om Marketo-synkroniseringsanvändaren är inställd på ett annat språk än eng
 
 >[!NOTE]
 >
->**Påminnelse**
->
 >Glöm inte att uppdatera schemat en sista gång för att hämta tillbaka objekten på ditt språk.
-
