@@ -3,7 +3,7 @@ unique-page-id: 2359400
 description: Välj ett formulärtema - Marketo Docs - Produktdokumentation
 title: Välj ett formulärtema
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Vi har skapat en massa fina teman för dina formulär. Vilken tycker du bäst om?
 
-1. Gå till **Marknadsföring** **Aktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Markera formuläret och klicka på **Redigera** **Formulär**.
+1. Markera formuläret och klicka på **Redigera formulär**.
 
    ![](assets/editform.png)
 
-1. Gå till **Formulär** **Inställningar**.
+1. Gå till **Formulärinställningar**.
 
    ![](assets/image2014-9-15-17-7-7.png)
 
-1. Växla fram och tillbaka för att välja **Formulär** **Tema** som du vill använda.
+1. Växla fram och tillbaka för att välja **Formulärtema** som du vill använda.
 
    ![](assets/image2014-9-15-17-3a7-3a20.png)
 
@@ -43,7 +43,7 @@ Vi har skapat en massa fina teman för dina formulär. Vilken tycker du bäst om
 
    >[!TIP]
    >
-   >Du kan även [redigera CSS för ditt formulärtema](../../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
+   >Du kan även [redigera CSS för ditt formulärtema](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
 1. Klicka på **Nästa** om du vill konfigurera andra formuläralternativ, eller klicka på **Slutför** om du bara vill ändra formulärtemat.
 
@@ -53,10 +53,6 @@ Hur enkelt var det där?! Du kan nu låta din HTML/CSS-bok samla in lite damm.
 
 >[!MORELIKETHIS]
 >
->* [Redigera CSS för ett formulärtema](../../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
->* [Lägga till ett fält i ett formulär](add-a-field-to-a-form.md)
-
->
-
-
+>* [Redigera CSS för ett formulärtema](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
+>* [Lägga till ett fält i ett formulär](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)
 
