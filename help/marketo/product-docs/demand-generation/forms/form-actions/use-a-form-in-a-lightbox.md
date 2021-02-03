@@ -3,9 +3,9 @@ unique-page-id: 2359677
 description: Använd ett formulär i en ljuslåda - Marketo Docs - Produktdokumentation
 title: Använda ett formulär i en ljuslåda
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 En ljuslåda är en teknik som öppnar ett formulär framför innehållet när du vill att det ska visas. Så här gör du.
 
-1. Gå till **Marknadsföring** **Aktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-8.png)
 
@@ -23,18 +23,15 @@ En ljuslåda är en teknik som öppnar ett formulär framför innehållet när d
 
    ![](assets/image2014-9-15-14-3a32-3a15.png)
 
-1. Under **Formulär** **Åtgärder** klickar du på **Bädda in** **Kod**.
+1. Under **Formuläråtgärder** klickar du på **Bädda in kod**.
 
    >[!NOTE]
-   >
-   >**Påminnelse**
-   >
    >
    >Formuläret måste godkännas för att det inbäddade kodobjektet ska vara synligt/användbart.
 
    ![](assets/image2014-9-15-14-3a32-3a24.png)
 
-1. Ange **Kod** **Typ** till **Ljuslåda**.
+1. Ange **kodtypen** till **Ljuslåda**.
 
    ![](assets/image2014-9-15-14-3a32-3a31.png)
 
