@@ -3,9 +3,9 @@ unique-page-id: 2949870
 description: Skapa en händelse med ReadyTalk - Marketo Docs - Produktdokumentation
 title: Skapa en händelse med ReadyTalk
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '444'
+source-wordcount: '431'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,10 @@ ht-degree: 0%
 >
 >* [Lägg till ReadyTalk som en LaunchPoint-tjänst](/help/marketo/product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
 >* [Skapa ett nytt händelseprogram](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Ange lämpliga [flödesåtgärder](http://docs.marketo.com/display/DOCS/Flow+Actions)för att spåra engagemang
+>* Ange lämpliga [flödesåtgärder](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)för att spåra engagemang
 
 
-Konfigurera först ditt event i ReadyTalk konferenscenter. Om du behöver hjälp kan du gå till [ReadyTalk Resource Center.](https://www.readytalk.com/resources/readytalk)  När du väljer registreringstyp väljer du  **förregistrera före mötet**. Om du väljer *registrera dig när du möts* kommer Marketo **inte** att hämta en registrerad status för dina personer och kommer endast att hämta en personstatus som Attended *när* webbinariet är avslutat.
+Konfigurera först ditt event i ReadyTalk konferenscenter. Om du behöver hjälp kan du gå till [ReadyTalk Resource Center](https://www.readytalk.com/resources/readytalk). När du väljer registreringstyp väljer du **förregistrera före mötet**. Om du väljer _registrera dig när du möts_ kommer Marketo **inte** att hämta en registrerad status för dina personer och kommer endast att hämta en personstatus som Attended _när_ webbinariet är avslutat.
 
 Lämna **meddela mig om nya registreringar via e-post** avmarkerat.
 
@@ -78,7 +78,7 @@ Nu kan du länka din aktivitet till Marketo.
 
 ## Visa schemat {#viewing-the-schedule}
 
-Klicka på kalenderposten för händelsen i [programschemavyn](http://docs.marketo.com/display/docs/program+schedule+view). Schemat visas till höger på skärmen.
+Klicka på kalenderposten för aktiviteten i programschemavyn. Schemat visas till höger på skärmen.
 
 ![](assets/image2015-5-18-12-9-58.png)
 
