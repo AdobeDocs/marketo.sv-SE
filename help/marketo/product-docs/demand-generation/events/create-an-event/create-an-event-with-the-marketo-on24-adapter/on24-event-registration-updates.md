@@ -3,7 +3,7 @@ unique-page-id: 10096683
 description: ON24 Event Registration Updates - Marketo Docs - produktdokumentation
 title: ON24 - Händelseregistreringsuppdateringar
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '282'
 ht-degree: 0%
@@ -41,9 +41,4 @@ Marketo hämtar automatiskt information om närvaro vid ungefär 200 Pacific var
 
 >[!MORELIKETHIS]
 >
->* [Om Marketo ON24-adapterhändelser](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[Om Marketo ON24-adapterhändelser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
