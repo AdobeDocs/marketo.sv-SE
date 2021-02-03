@@ -3,9 +3,9 @@ unique-page-id: 2949857
 description: Redigera en Event Channel - Marketo Docs - Produktdokumentation
 title: Redigera en händelsekanal
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Du kan redigera kanaltypen på fliken **Sammanfattning** eller på fliken **Inst
 
 >[!NOTE]
 >
->Ett program är ett specifikt marknadsföringsinitiativ. **Kanalen** är avsedd att vara leveransmekanismen, som webbinarium, Tradeshow eller Online Ad. Du kan se olika kanalalternativ i listrutan, beroende på vad som är tillgängligt i din egen instans. Du kan också [skapa en egen kanal.](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)
+>Ett program är ett specifikt marknadsföringsinitiativ. **Kanalen** är avsedd att vara leveransmekanismen, som webbinarium, Tradeshow eller Online Ad. Du kan se olika kanalalternativ i listrutan, beroende på vad som är tillgängligt i din egen instans. Du kan också [skapa en egen kanal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
 ## På fliken Sammanfattning {#from-the-summary-tab}
 
@@ -61,7 +61,7 @@ En ny kanaltyp kan också tilldelas från händelsens **Setup**-flik.
 
    ![](assets/tradeshowchange.png)
 
-1. Klicka på **Spara.**
+1. Klicka på **Spara**.
 
    ![](assets/2017-06-13-09-35-53.png)
 
