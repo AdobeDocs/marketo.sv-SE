@@ -3,9 +3,9 @@ unique-page-id: 10096725
 description: Skapa en händelse i Marketo - Marketo Docs - Produktdokumentation
 title: Skapa en händelse i Marketo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,10 @@ Så här utbyts data:
 
 ![](assets/image2015-12-16-13-33-56.png)
 
-När du skapar Marketo-händelsen väljer du **Webbseminarium** som kanaltyp. Du kan redigera den här kanalen i Admin och skapa en ny kanal. Om du skapar en ny kanal måste den vara av typen **Event med Webinar** för att integreringen ska fungera. Mer information finns i [Skapa en programkanal](../../../../../product-docs/administration/tags/create-a-program-channel.md).
+När du skapar Marketo-händelsen väljer du **Webbseminarium** som kanaltyp. Du kan redigera den här kanalen i Admin och skapa en ny kanal. Om du skapar en ny kanal måste den vara av typen **Event med Webinar** för att integreringen ska fungera. Mer information finns i [Skapa en programkanal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
-Nästa steg är att [konfigurera händelseinställningar och synkronisera Marketo med ditt webbinarium](https://docs.marketo.com/x/IRCa).
+Nästa steg är att [konfigurera händelseinställningar och synkronisera Marketo med ditt webbinarium](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md).
 
 >[!MORELIKETHIS]
 >
->* [Om Marketo ON24-adapterhändelser](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[Om Marketo ON24-adapterhändelser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
