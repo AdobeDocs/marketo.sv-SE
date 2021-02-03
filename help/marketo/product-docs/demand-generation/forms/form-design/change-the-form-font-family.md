@@ -3,9 +3,9 @@ unique-page-id: 2359608
 description: Ändra formulärteckensnittsfamiljen - Marketo Docs - Produktdokumentation
 title: Ändra teckensnittsfamilj för formulär
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ Google Fonts är grymt och vi har byggt in dem direkt i formulärredigeraren. Ko
 >
 >Den här inställningen påverkar formuläretiketten, indatatexten och eventuell RTF-text.
 
-1. Gå till **Marknadsföring** **Aktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Markera formuläret och klicka på **Redigera** **Formulär**.
+1. Markera formuläret och klicka på **Redigera formulär**.
 
    ![](assets/image2014-9-15-15-3a47-3a27.png)
 
-1. Under **Formulär** **Inställningar** väljer du **Inställningar**.
+1. Under **Formulärinställningar** väljer du **Inställningar**.
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
@@ -35,7 +35,7 @@ Google Fonts är grymt och vi har byggt in dem direkt i formulärredigeraren. Ko
 
    >[!TIP]
    >
-   >En hög med [Google Fonts](http://www.google.com/fonts) är tillgängliga för användning.
+   >En hög med [Google Fonts](https://www.google.com/fonts) är tillgängliga för användning.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
@@ -53,9 +53,6 @@ Google Fonts är grymt och vi har byggt in dem direkt i formulärredigeraren. Ko
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
-   >
    >Kom ihåg att godkänna landningssidans utkast som skapats av formulärändringarna.
 
    ![](assets/image2014-9-15-16-3a2-3a1.png)
@@ -64,9 +61,4 @@ Se hur enkelt det var att byta teckensnittsfamilj i ett formulär? Nu när det �
 
 >[!MORELIKETHIS]
 >
->* [Ändra teckenstorlek för formulär](change-the-form-font-size.md)
-
->
-
-
-
+>[Ändra teckenstorlek för formulär](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-size.md)
