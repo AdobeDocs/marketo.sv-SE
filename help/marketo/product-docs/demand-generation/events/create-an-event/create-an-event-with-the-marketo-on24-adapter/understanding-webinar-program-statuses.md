@@ -3,7 +3,7 @@ unique-page-id: 10096681
 description: Understanding Webinar Program Status - Marketo Docs - Produktdokumentation
 title: Om status för webbinarium
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 0%
@@ -27,9 +27,9 @@ Här är en kort beskrivning av programstatus som är kopplad till webbseminarie
 
 **Inte i programmet**  - Använd den här statusen för att ta bort personer från evenemanget.
 
-** Inbjuden** - Använd den här statusen för att lägga till personer till evenemanget.
+**Inbjuden**  - Använd den här statusen för att lägga till personer i händelsen.
 
-**Väntar på godkännande**  - Använd den här statusen för att vänta med att skicka en bekräftelse via e-post till dina medarbetare. Mer information finns i&quot;Manuellt Approving Registrants&quot; i [ON24 Event Registration Updates](on24-event-registration-updates.md).
+**Väntar på godkännande**  - Använd den här statusen för att vänta med att skicka en bekräftelse via e-post till dina medarbetare. Mer information finns i&quot;Manuellt Approving Registrants&quot; i [ON24 Event Registration Updates](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md).
 
 **Vänta i listan**  - Använd den här statusen om du vill att vissa personer ska vänta tills ytterligare platser blir tillgängliga.
 
@@ -43,7 +43,7 @@ Här är en kort beskrivning av programstatus som är kopplad till webbseminarie
 >
 >Om ett registreringsfel inträffar kan du få ytterligare information för den personen genom att titta i kolumnen Statusorsak på fliken Medlemmar i programmet. När felet är åtgärdat kan du manuellt ändra användarens programstatus till Registrerad i Marketo.
 
-**Deltar** - När webbinariet är klart returnerar ON24 en lista över personer som deltog. Den här statusen hämtas automatiskt till Marketo.
+**Deltar**  - När webbinariet är klart returnerar ON24 en lista över personer som deltog. Den här statusen hämtas automatiskt till Marketo.
 
 **Attended On-demand**  - Personer som deltog i den arkiverade versionen av webbinariet får denna status.
 
@@ -55,9 +55,4 @@ Här är en kort beskrivning av programstatus som är kopplad till webbseminarie
 
 >[!MORELIKETHIS]
 >
->* [Om Marketo ON24-adapterhändelser](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[Om Marketo ON24-adapterhändelser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
