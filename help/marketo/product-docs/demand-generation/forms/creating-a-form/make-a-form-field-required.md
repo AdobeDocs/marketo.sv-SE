@@ -3,9 +3,9 @@ unique-page-id: 2359569
 description: Gör ett formulärfält obligatoriskt - Marketo Docs - Produktdokumentation
 title: Gör ett formulärfält obligatoriskt
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Gör ett formulärfält obligatoriskt {#make-a-form-field-required}
 
-När du lägger till [fält i ett formulär](add-a-field-to-a-form.md) kanske du vill göra några av dem obligatoriska för personen som fyller i dem. Så här gör du.
+När du lägger till [fält i ett formulär](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) kanske du vill göra några av dem obligatoriska för personen som fyller i dem. Så här gör du.
 
-1. Gå till **Marknadsföring** **Aktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Markera formuläret och klicka på **Redigera** **Formulär**.
+1. Markera formuläret och klicka på **Redigera formulär**.
 
    ![](assets/editform-2.png)
 
@@ -37,8 +37,6 @@ När du lägger till [fält i ett formulär](add-a-field-to-a-form.md) kanske du
 
 >[!NOTE]
 >
->**Påminnelse**
->
->Glöm inte att [godkänna alla landningssidor](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som det här formuläret lever på så att ändringarna kan publiceras.
+>Glöm inte att [godkänna alla landningssidor](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som det här formuläret lever på så att ändringarna kan publiceras.
 
-Måste du [ändra ordning på de fält som du har lagt till i formuläret](../../../../product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?
+Måste du [ändra ordning på de fält som du har lagt till i formuläret](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?
