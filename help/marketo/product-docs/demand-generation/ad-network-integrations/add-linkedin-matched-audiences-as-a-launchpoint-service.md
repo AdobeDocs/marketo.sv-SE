@@ -3,7 +3,7 @@ unique-page-id: 7504163
 description: Lägg till LinkedIn Matched Audiences som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
 title: Lägg till LinkedIn-matchade målgrupper som en LaunchPoint-tjänst
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
@@ -61,9 +61,4 @@ Koppla ditt Marketto-konto till LinkedIn Matched Audiences om du vill använda e
 
 >[!MORELIKETHIS]
 >
->* [Använd en Marketo-lista eller en smart lista som ett LinkedIn-målsegment](../../../product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
-
->
-
-
-
+>[Använd en Marketo-lista eller en smart lista som ett LinkedIn-målsegment](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
