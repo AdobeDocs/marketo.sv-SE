@@ -3,9 +3,9 @@ unique-page-id: 10098242
 description: Inaktivera fyllning av sociala formulär - Marketo Docs - Produktdokumentation
 title: Inaktivera ifyllning av sociala formulär
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Ibland vill du inte längre att besökarna ska skicka in formulär med hjälp av en social profil. Så här inaktiverar du det.
 
->[!NOTE]
->
->**Tillgänglighet**
+>[!AVAILABILITY]
 >
 >Alla kunder har inte köpt den här funktionen.
 
@@ -25,7 +23,7 @@ Ibland vill du inte längre att besökarna ska skicka in formulär med hjälp av
 
    ![](assets/login-marketing-activities-10.png)
 
-1. Markera formuläret och klicka på **Redigera ****Formulär**.
+1. Markera formuläret och klicka på **Redigera formulär**.
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
@@ -46,4 +44,3 @@ Ibland vill du inte längre att besökarna ska skicka in formulär med hjälp av
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 
    Det är allt du behöver göra.
-
