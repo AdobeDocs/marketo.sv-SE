@@ -3,9 +3,9 @@ unique-page-id: 2949841
 description: Om händelseprogram - Marketo Docs - Produktdokumentation
 title: Om händelseprogram
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Om händelseprogram {#understanding-event-programs}
 
->[!NOTE]
->
->**Tillgänglighet**
+>[!AVAILABILITY]
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
@@ -32,26 +30,13 @@ Ett eventprogram är en typ av program som kan användas för att automatisera o
 >* Varumärken
 >* Möten
 
->
 
-
-
-Händelser kan automatiskt ansluta till din [webbinarileverantör](launchpoint-event-partners.md) samt synkronisera med en [iPad-incheckningsapp](../../../../product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
-
-## Titta på en video {#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/rvsNpqTUpsPd7KxCovVVva.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+Händelser kan automatiskt ansluta till din [webbinarileverantör](launchpoint-event-partners.md) samt synkronisera med en [iPad-incheckningsapp](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 
 >[!MORELIKETHIS]
 >
->Kom igång redan idag med dessa praktiska länkar:
->
->* [Skapa ett nytt händelseprogram](create-a-new-event-program.md)
+>* [Skapa ett nytt händelseprogram](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
    >
    >
-* [LaunchPoint Event Partners](launchpoint-event-partners.md)
-
->
-
-
+* [LaunchPoint Event Partners](/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md)
 
