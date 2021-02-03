@@ -3,9 +3,9 @@ unique-page-id: 2359573
 description: Ange ett formulär - Tack, sida - Marketo Docs - Produktdokumentation
 title: Ange en tacksida för formuläret
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Vad händer när någon fyller i ett formulär? Var vidarebefordras de till? Så
 
 ## Redigera formulär {#edit-form}
 
-1. Gå till **Marknadsföring** **Aktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-5.png)
 
@@ -25,17 +25,17 @@ Vad händer när någon fyller i ett formulär? Var vidarebefordras de till? Så
 
    ![](assets/image2014-9-15-17-3a34-3a14.png)
 
-1. Under **Formulär** **Inställningar** klickar du på **Inställningar**.
+1. Under **Formulärinställningar** klickar du på **Inställningar**.
 
    ![](assets/image2014-9-15-17-3a34-3a21.png)
 
-1. Bläddra nedåt till **Tack** **Du** **sidan**.
+1. Bläddra nedåt till **Tack för sidan**.
 
 ## Stanna kvar på sidan {#stay-on-page}
 
 Med alternativet Håll kvar på sidan ser du till att besökaren ser samma sida när formuläret har skickats.
 
-1. Välj **Stanna** **den** **Sida** för **Följ** **Uppåt** **Med**.
+1. Välj **Stanna kvar på sidan** för **Följ upp med**.
 
    ![](assets/image2014-9-15-17-3a34-3a35.png)
 
@@ -43,7 +43,7 @@ Med alternativet Håll kvar på sidan ser du till att besökaren ser samma sida 
 
 Med inställningen Extern URL kan du definiera valfri URL som uppföljningssida. När användaren har skickat formuläret dirigeras de till den angivna URL:en.
 
-1. Välj **Extern** **URL** för **Följ** **Uppåt** **Med**.
+1. Välj **Extern URL** för **Följ upp med**.
 
    ![](assets/image2014-9-15-17-3a34-3a45.png)
 
@@ -71,7 +71,7 @@ Du kan välja vilken godkänd Marketo-landningssida som helst som uppföljning.
 
 Du kan lägga till flera alternativ och bygga in alternativ för att visa olika uppföljningar för personer beroende på deras svar.
 
-1. Klicka på **Lägg till** **Alternativ**.
+1. Klicka på **Lägg till alternativ**.
 
    ![](assets/image2014-9-15-17-3a38-3a6.png)
 
@@ -91,7 +91,7 @@ Du kan lägga till flera alternativ och bygga in alternativ för att visa olika 
 
    ![](assets/image2014-9-15-17-3a38-3a40.png)
 
-1. Välj lämplig sida för typen **Följ** **Uppåt** **Med**.
+1. Välj lämplig sida för typen **Följ upp med**.
 
    ![](assets/image2014-9-15-17-3a38-3a51.png)
 
@@ -100,9 +100,6 @@ Du kan lägga till flera alternativ och bygga in alternativ för att visa olika 
    ![](assets/image2014-9-15-17-3a39-3a3.png)
 
    >[!NOTE]
-   >
-   >**Påminnelse**
-   >
    >
    >Du måste ha skapat/godkänt dessa landningssidor i förväg.
 
@@ -114,7 +111,7 @@ Du kan lägga till flera alternativ och bygga in alternativ för att visa olika 
    >
    >Du kan lägga till flera alternativ. Om du lägger till för många kan det dock påverka formulärets inläsningshastighet, så lägg bara till det du behöver.
 
-1. Gå igenom och konfigurera **Choice** **2**.
+1. Gå igenom och konfigurera **Alternativ 2**.
 
    ![](assets/image2014-9-15-17-3a39-3a44.png)
 
@@ -143,3 +140,4 @@ Du kan lägga till flera alternativ och bygga in alternativ för att visa olika 
    ![](assets/image2014-9-15-17-3a41-3a0.png)
 
 Bra jobbat!
+
