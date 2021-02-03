@@ -3,9 +3,9 @@ unique-page-id: 2949874
 description: Skapa en händelse med GotoWebinar - Marketo Docs - Produktdokumentation
 title: Skapa en händelse med GotoWebinar
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '543'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,12 @@ ht-degree: 0%
 >
 >* [Lägg till GoToWebinar som en LaunchPoint-tjänst](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
 >* [Skapa ett nytt händelseprogram](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Ange lämpliga [flödesåtgärder](http://docs.marketo.com/display/DOCS/Flow+Actions)för att spåra engagemang
+>* Ange lämpliga [flödesåtgärder](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)för att spåra engagemang
 
 
 Skapa först ditt webbinarium i GoToWebinar. Vissa inställningar när du skapar GoToWebinar används av Marketo och vissa används bara av GoToWebinar.
 
-När du har skapat en Marketo-händelse och associerat GoToWebinar med den kan systemen dela registrerings- och närvaroinformation. Hjälp med att skapa ett GoToWebinar finns i [användarhandboken för GoToWebinar](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf).
+När du har skapat en Marketo-händelse och associerat GoToWebinar med den kan systemen dela registrerings- och närvaroinformation.
 
 Nedan finns en lista med de inställningar som används av Marketo.
 
@@ -36,7 +36,7 @@ Nedan finns en lista med de inställningar som används av Marketo.
 
 ## Datum och tid {#date-time}
 
-`Enter the following information for your webinar and it will be pulled into Marketo via the`adapter. Om du ändrar något i den här informationen måste du klicka på länken **Uppdatera från webbinariet Provider** under **Händelseåtgärder** för att Marketo ska kunna se ändringarna.
+Ange följande information för ditt webbinarium så hämtas det till Marketo via adaptern. Om du ändrar något i den här informationen måste du klicka på länken **Uppdatera från webbinariet Provider** under **Händelseåtgärder** för att Marketo ska kunna se ändringarna.
 
 **Startdatum** - ange startdatum. Den här visas i Marketo.
 
@@ -56,7 +56,7 @@ Nedan finns en lista med de inställningar som används av Marketo.
 
 >[!TIP]
 >
->Det finns ytterligare fält som du konfigurerar i GoToWebinar som INTE påverkar integreringen. Mer information om fälten finns i [användarhandboken för GoToWebinar](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf) eftersom de inte kommer att behandlas i den här artikeln. Om du behöver ytterligare hjälp med GoToWebinar går du till deras [hjälpwebbplats](http://support.logmeininc.com/gotowebinar).
+>Om du behöver ytterligare hjälp med GoToWebinar går du till deras [hjälpwebbplats](https://support.logmeininc.com/gotowebinar).
 
 Nu går vi till Marketo!
 
@@ -68,7 +68,7 @@ Nu går vi till Marketo!
    >
    >Kanaltypen för den valda händelsen måste vara **webbinarium**.
 
-1. Välj **GoToWebinar** i **Event** **Partner**-listan.
+1. Välj **GoToWebinar** i listan **Event Partner**.
 
    ![](assets/image2015-5-14-14-3a55-3a20.png)
 
@@ -112,7 +112,7 @@ Personer som registrerar sig för ditt webbinarium kommer att pushas till din we
 
 ## Visa schemat {#viewing-the-schedule}
 
-Klicka på kalenderposten för händelsen i [programschemavyn](http://docs.marketo.com/display/docs/program+schedule+view). Schemat visas till höger på skärmen.
+Klicka på kalenderposten för aktiviteten i programschemavyn. Schemat visas till höger på skärmen.
 
 >[!NOTE]
 >
