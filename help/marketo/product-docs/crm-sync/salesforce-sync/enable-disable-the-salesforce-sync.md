@@ -3,7 +3,7 @@ unique-page-id: 4719310
 description: Aktivera/inaktivera Salesforce-synkronisering - Marketo-dokument - Produktdokumentation
 title: Aktivera/inaktivera Salesforce-synkronisering
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -17,9 +17,7 @@ När du gör större ändringar i dina synkroniserings- eller fältinställninga
 
 1. Gå till avsnittet **Admin**.
 
-   ** ![](assets/image2014-12-10-13-3a24-3a35.png)
-
-   **
+   ![](assets/image2014-12-10-13-3a24-3a35.png)
 
 1. Under **Salesforce** klickar du på **Inaktivera synkronisering**.
 
@@ -30,4 +28,3 @@ När du gör större ändringar i dina synkroniserings- eller fältinställninga
    ![](assets/image2014-12-10-13-3a24-3a58.png)
 
 1. Gör ändringarna och aktivera synkroniseringen igen. Det är samma knapp.
-
