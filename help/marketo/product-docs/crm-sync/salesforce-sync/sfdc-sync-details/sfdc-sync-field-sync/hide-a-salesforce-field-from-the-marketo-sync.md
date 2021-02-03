@@ -3,9 +3,9 @@ unique-page-id: 4719306
 description: Dölj ett Salesforce-fält från Marketo Sync - Marketo Docs - Produktdokumentation
 title: Dölj ett Salesforce-fält från markeringssynkroniseringen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -49,12 +49,6 @@ Alla fält i Salesforce är inte användbara för marknadsföring. Du kan optime
 
    Så ja! Du kommer inte längre att se det här fältet i Marketo när nästa synkronisering är klar.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
-   >
-   >    
-   >    
-   >    * [Dölja och visa ett fält](../../../../../product-docs/administration/field-management/hide-and-unhide-a-field.md)
-
-
+   >[Dölja och visa ett fält](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md)
