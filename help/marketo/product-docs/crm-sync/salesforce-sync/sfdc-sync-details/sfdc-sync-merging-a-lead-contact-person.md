@@ -1,11 +1,11 @@
 ---
 unique-page-id: 7515133
-description: SFDC-synkronisering -Sammanfoga en lead/kontakt/person - Marketo Docs - Produktdokumentation
-title: SFDC-synkronisering -Sammanfoga en lead/kontakt/person
+description: SFDC-synkronisering - Sammanfoga en lead/kontakt/person - Marketo Docs - produktdokumentation
+title: SFDC-synkronisering - Sammanfoga en lead/kontakt/person
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -22,8 +22,6 @@ Ibland är det bäst att bara lista reglerna. Här är vi:
 
 >[!NOTE]
 >
->**Exempel**
->
 >Om du sammanfogar 3 leads (personer) med poängen 10 var, får du resultatet 1 lead (person) med poängen 30.
 
 * Fältvärden i konflikt hämtas från den&quot;vinnande posten&quot;. (Post = den resulterande lead eller kontakten)
@@ -32,7 +30,4 @@ Ibland är det bäst att bara lista reglerna. Här är vi:
 
 >[!NOTE]
 >
->**Djupdykning**
->
->Djupdykning om du vill ha mer information om [att sammanfoga personer i Marketo](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
-
+>Djupdykning om du vill ha mer information om [att sammanfoga personer i Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
