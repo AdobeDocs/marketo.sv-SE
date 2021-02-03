@@ -3,9 +3,9 @@ unique-page-id: 10096675
 description: Skapa underordnade kampanjer och lokala resurser - Marketo Docs - Produktdokumentation
 title: Skapa underordnade kampanjer och lokala resurser
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '667'
 ht-degree: 0%
 
 ---
@@ -44,15 +44,13 @@ Använd Marketo för att skicka bekräftelsemeddelandet för din händelse. När
 
 >[!NOTE]
 >
->**Påminnelse**
->
 >Om du vill fylla i bekräftelsemeddelandet med den här unika URL-adressen använder du följande token i e-postmeddelandet: `{{member.webinar url}}`. När du skickar ut en bekräftelse-URL matchas denna token automatiskt mot personens unika bekräftelse-URL.
 >
 >Ange typen av bekräftelsemeddelande som **Operational** för att se till att alla som registrerar får sin bekräftelseinformation, även om de avbeställer prenumerationen.
 
 >[!TIP]
 >
->Du kan konfigurera ON24 för att skicka ut bekräftelser, påminnelser eller uppföljningsmeddelanden. Se [ON24 Help Site](http://webcastelitehelp.on24.com) för mer information.
+>Du kan konfigurera ON24 för att skicka ut bekräftelser, påminnelser eller uppföljningsmeddelanden. Se [ON24 Help Site](https://webcastelitehelp.on24.com) för mer information.
 
 ## Krav för registrering av underordnad kampanj {#registration-child-campaign-requirements}
 
@@ -97,16 +95,11 @@ Flödessteget **Skicka e-post** MÅSTE vara det andra steget. Bekräftelsemeddel
 >
 >Om personen returneras med ett registreringsfel får han/hon ingen e-postbekräftelse.
 
-Nästa steg är att [testa din ON24-händelseintegrering](test-your-on24-event-integration.md).
+Nästa steg är att [testa din ON24-händelseintegrering](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md).
 
 >[!MORELIKETHIS]
 >
->* [Om Marketo ON24-adapterhändelser](understanding-marketo-on24-adapter-events.md)
->* [Exempel på händelseintegrering ON24](example-on24-event-integration.md)
->* [Om status för webbinarium](understanding-webinar-program-statuses.md)
->* [Testa din ON24-händelseintegrering](test-your-on24-event-integration.md)
-
->
-
-
+>* [Om Marketo ON24-adapterhändelser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>* [Exempel på händelseintegrering ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
+>* [Om status för webbinarium](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
 
