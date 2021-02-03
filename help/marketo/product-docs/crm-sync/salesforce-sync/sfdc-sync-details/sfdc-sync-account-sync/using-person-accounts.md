@@ -3,7 +3,7 @@ unique-page-id: 4719316
 description: Använda personkonton - Marketo Docs - Produktdokumentation
 title: Använda personkonton
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Aktiviteter som rör personkonton visas på panelen **Konto**.
 
 >[!NOTE]
 >
->Marketo Sales Insight&#39;s **Add to Marketo Campaign **and **Send Email **options are for person accounts.
+>Marketo Sales Insight-alternativen **Lägg till i Marketo Campaign** och **Skicka e-post** är för närvarande inte tillgängliga för personkonton.
 
 ## Hur kopplar jag affärsmöjligheter till ett personkonto? {#how-do-i-associate-opportunities-to-a-person-account}
 
