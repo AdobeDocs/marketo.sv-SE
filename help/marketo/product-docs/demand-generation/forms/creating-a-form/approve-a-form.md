@@ -3,9 +3,9 @@ unique-page-id: 2359578
 description: Godkänn ett formulär - Marketo Docs - Produktdokumentation
 title: Godkänn ett formulär
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Om du vill lägga till ett formulär på en av dina landningssidor måste det go
 
 Så här godkänner du ett befintligt formulär som är klart att användas.
 
-1. Gå till **Marknadsföring** **Aktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -35,7 +35,7 @@ Så här godkänner du ett befintligt formulär som är klart att användas.
 
    ![](assets/image2014-9-15-17-3a50-3a2.png)
 
-   Den är godkänd och klar att läggas till [på en landningssida](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+   Den är godkänd och klar att läggas till [på en landningssida](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
 
    >[!NOTE]
    >
@@ -47,10 +47,7 @@ Om du gör ändringar i ett formulär kan du godkänna sidan direkt från redige
 
 >[!PREREQUISITES]
 >
->* [Redigera ett formulär](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)
-
->
-
+>* [Redigera ett formulär](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
 
 1. Klicka på **Slutför**.
@@ -63,8 +60,6 @@ Om du gör ändringar i ett formulär kan du godkänna sidan direkt från redige
 
 >[!NOTE]
 >
->**Påminnelse**
->
->Kom ihåg att om du redigerar formuläret när det har godkänts måste du [godkänna landningssidan](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) för att se ändringarna.
+>Kom ihåg att om du redigerar formuläret när det har godkänts måste du [godkänna landningssidan](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) för att se ändringarna.
 
 Så ja! Så enkelt som möjligt.
