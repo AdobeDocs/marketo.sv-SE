@@ -3,9 +3,9 @@ unique-page-id: 2359616
 description: Aktivera ifyllning av sociala formulär på ett formulär - Marketo Docs - Produktdokumentation
 title: Aktivera ifyllning av sociala formulär i ett formulär
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -15,17 +15,15 @@ ht-degree: 0%
 
 Tillåt besökarna att fylla i formuläret via sitt sociala nätverk. Ni får automatiskt extra data och de får en snabbare upplevelse.
 
->[!NOTE]
->
->**Tillgänglighet**
+>[!AVAILABILITY]
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
-1. Gå till **Marknadsföring** **Aktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Markera formuläret och klicka på **Redigera** **Formulär**.
+1. Markera formuläret och klicka på **Redigera formulär**.
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
@@ -39,13 +37,13 @@ Tillåt besökarna att fylla i formuläret via sitt sociala nätverk. Ni får au
 
    >[!TIP]
    >
-   >Ta en titt på vad [data Marketo kommer att fånga](../../../../product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) om någon använder knapparna för sociala medier.
+   >Ta en titt på vad [data Marketo kommer att fånga](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) om någon använder knapparna för sociala medier.
 
 1. Klicka på **Slutför**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. Klicka** Godkänn och stäng**.
+1. Klicka på **Godkänn och stäng**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 
