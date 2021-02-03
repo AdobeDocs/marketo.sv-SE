@@ -3,7 +3,7 @@ unique-page-id: 2359870
 description: Hitta URL:en till en överförd bild eller fil - Marketo Docs - produktdokumentation
 title: Hitta URL-adressen till en överförd bild eller fil
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Söker du efter webbadressen (URL:en) till en bild eller fil som du har överfö
 
    ![](assets/designstudio-4.png)
 
-1. Klicka på **Bilder** **och** **Filer** på den vänstra menyn och välj sedan den fil som du vill ha URL-adressen för.
+1. Klicka på **Bilder och filer** i den vänstra menyn och välj sedan den fil som du vill använda URL:en för.
 
    ![](assets/image2014-9-25-14-3a47-3a53.png)
 
@@ -31,9 +31,4 @@ Ge dig själv en klappa på ryggen för ett väl utfört jobb!
 
 >[!MORELIKETHIS]
 >
->* [Ersätta en överförd bild eller fil](replace-an-uploaded-image-or-file.md)
-
->
-
-
-
+>[Ersätta en överförd bild eller fil](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
