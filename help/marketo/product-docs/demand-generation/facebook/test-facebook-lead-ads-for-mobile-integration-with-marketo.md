@@ -3,9 +3,9 @@ unique-page-id: 10098759
 description: Testa Facebook-annonser för mobilintegrering med Marketo - Marketo Docs - Produktdokumentation
 title: Testa Facebook-annonser för mobilintegrering med Marketo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,10 @@ När du har skapat din lead-annons bör du testa den!
 
 >[!PREREQUISITES]
 >
->Du måste [konfigurera Facebook Lead Ads Integration](set-up-facebook-lead-ads.md).
+>Du måste [konfigurera Facebook Lead Ads Integration](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
 1. Välj en kampanj, en annons i Facebook Power Editor och klicka på **Redigera**.
+
 1. Under **Länkar** klickar du på länken **Visa på mobilapp**.
 
    ![](assets/image2016-5-13-15-3a2-3a38.png)
@@ -44,7 +45,7 @@ När du har skapat din lead-annons bör du testa den!
    >
    >Detta är bara ett exempel som använder en Learn More Call To Action. Ditt lead-annonsenhetsanrop kan vara ett annat.
 
-1. Det är här som magin händer! När du har skickat in formuläret [skapar du en smart lista i Marketo](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) som en del av ett program eller i den lead-databas som använder filtret **Fyll i Facebook-annonsformulär**. Ange formulärets namn för lead-annons för det formulär du just skickade.
+1. Det är här som magin händer! När du har skickat in formuläret [skapar du en smart lista i Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) som en del av ett program eller i den lead-databas som använder filtret **Fyll i Facebook-annonsformulär**. Ange formulärets namn för lead-annons för det formulär du just skickade.
 
    ![](assets/image2016-3-11-8-3a59-3a34.png)
 
@@ -52,15 +53,8 @@ När du har skapat din lead-annons bör du testa den!
 
    ![](assets/image2016-3-11-15-3a27-3a54.png)
 
-   Är det coolt eller?
+Är det coolt eller?
 
 >[!NOTE]
 >
->**Relaterade artiklar**
->
->* [Aktivera/inaktivera Facebook-annonser](set-up-facebook-lead-ads.md)
-
->
-
-
-
+>[Aktivera/inaktivera Facebook-annonser](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
