@@ -3,9 +3,9 @@ unique-page-id: 11383953
 description: Konfigurera offlinekonverteringar för Facebook - Marketo Docs - Produktdokumentation
 title: Konfigurera offlinekonverteringar för Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ Genom att skicka offlinekonverteringsdata tillbaka till Facebook för personer s
 
 >[!PREREQUISITES]
 >
->* Du måste [konfigurera Facebook-annonser](set-up-facebook-lead-ads.md).
->* Du måste ha en godkänd modell i [Intäktscykelmodelleraren](http://docs.marketo.com/display/docs/revenue+cycle+models).
-
->
-
+>* Du måste [konfigurera Facebook-annonser](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>* Du måste ha en godkänd modell i [Intäktscykelmodelleraren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 
 
 ## Administratörskonfiguration {#admin-configuration}
@@ -34,7 +31,7 @@ Genom att skicka offlinekonverteringsdata tillbaka till Facebook för personer s
 
    >[!NOTE]
    >
-   >Om du inte har gjort det, gå vidare och [Konfigurera Facebook-annonser](set-up-facebook-lead-ads.md) och kom sedan tillbaka hit.
+   >Om du inte har gjort det, gå vidare och [Konfigurera Facebook-annonser](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) och kom sedan tillbaka hit.
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
@@ -72,18 +69,16 @@ Genom att skicka offlinekonverteringsdata tillbaka till Facebook för personer s
    >
    >För närvarande finns det 10 Facebook-händelser som du kan mappa intäktscykelsteg till:
    >
-   >    
-   >    
-   >    * Lägger till betalningsinformation
-   >    * Lägger till i kundvagnen
-   >    * Lägger till i önskelista
-   >    * Slutförda registreringar
-   >    * Utcheckningar har initierats
-   >    * Person
-   >    * Övriga
-   >    * Inköp
-   >    * Sökningar
-   >    * Innehållsvyer
+   >* Lägger till betalningsinformation
+   >* Lägger till i kundvagnen
+   >* Lägger till i önskelista
+   >* Slutförda registreringar
+   >* Utcheckningar har initierats
+   >* Person
+   >* Övriga
+   >* Inköp
+   >* Sökningar
+   >* Innehållsvyer
 
 
 1. Markera den scen som du vill mappa och välj sedan den Facebook-händelse som du vill mappa den till i listrutan **Facebook-konvertering**. Upprepa det här steget om du vill mappa alla faser i RCM till offlinekonverteringsfaser på Facebook.
@@ -108,13 +103,6 @@ Genom att skicka offlinekonverteringsdata tillbaka till Facebook för personer s
    >
    >Konverteringsdata offline skickas flera gånger dagligen från Marketo till Facebook.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Relaterade artiklar**
->
->* [Förstå offlinekonverteringar för Facebook](understanding-facebook-offline-conversions.md)
-
->
-
-
-
+>[Förstå offlinekonverteringar för Facebook](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
