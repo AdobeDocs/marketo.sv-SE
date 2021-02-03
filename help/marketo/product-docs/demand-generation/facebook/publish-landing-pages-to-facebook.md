@@ -3,9 +3,9 @@ unique-page-id: 2359823
 description: Publicera landningssidor på Facebook - Marketo Docs - Produktdokumentation
 title: Publicera landningssidor på Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Du kan publicera dina landningssidor på Facebook, möta din publik där de redan sticker ut och generera mer trafik till dina program.
 
->[!NOTE]
->
->**Tillgänglighet**
+>[!AVAILABILITY]
 >
 >SMB Spark, Standard &amp; Select. Enterprise med separat licensierad funktion.
 
@@ -65,8 +63,4 @@ Anta att du lanserar en ny bok och att du kan nå en del av publiken via e-post 
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
-   >
    >Om du vill ta bort landningssidan från Facebook avgodkänner du den i Marketo och markerar alternativet att ta bort fliken Facebook när du uppmanas till det.
-
