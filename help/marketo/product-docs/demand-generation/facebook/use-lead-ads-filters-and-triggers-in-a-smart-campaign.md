@@ -3,7 +3,7 @@ unique-page-id: 10095239
 description: Använd filter och utlösare för annonsering på leads i en smart kampanj - Marketo Docs - produktdokumentation
 title: Använd filter och utlösare för annonsering av leads i en smart kampanj
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -22,4 +22,3 @@ När ni har aktiverat Facebook-annonser kan ni använda dem i era smarta kampanj
 1. Lägg till begränsningar för att anpassa den.
 
    ![](assets/image2016-8-5-11-3a19-3a27.png)
-
