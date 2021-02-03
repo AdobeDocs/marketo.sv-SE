@@ -3,7 +3,7 @@ unique-page-id: 2953463
 description: SFDC Sync -Lead/Account Owner Sync - Marketo Docs - Produktdokumentation
 title: SFDC-synkronisering - Synkronisering av lead-/kontoägare
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -33,11 +33,11 @@ För varje kontakt synkroniserar vi de fem ovanstående fälten för lead-ägare
 
 ## Kan jag ändra huvudägaren i Marketo? {#can-i-change-the-lead-owner-in-marketo}
 
-Absolut, använd bara flödesåtgärden [Ändra ägare](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md).
+Absolut, använd bara flödesåtgärden [Ändra ägare](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md).
 
 >[!NOTE]
 >
->Du kan inte ändra ägarinformationen med hjälp av [Personinformationssidan](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
+>Du kan inte ändra ägarinformationen med hjälp av [Personinformationssidan](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
 ## Vad kan jag göra med dessa data? {#what-can-i-do-with-this-data}
 
@@ -46,6 +46,6 @@ Det finns många skäl att använda dessa data, till exempel
 * Skicka ett personligt e-postmeddelande med signatur från säljaren
 * Filtrera på specifika säljare för marknadsföring eller till och med för att analysera effektiviteten
 * Tilldelningsregler (och omtilldelningsregler) i Marketo
-* Använd dem i flödesuppgifterna [Ändra ägare](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md), [Synkronisera person till SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) och [Skapa aktivitet](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)
+* Använd dem i flödesuppgifterna [Ändra ägare](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md), [Synkronisera person till SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) och [Skapa aktivitet](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)
 
 Marketo har en fantastisk Salesforce-synkronisering. Ingen annan gör det så bra!
