@@ -3,7 +3,7 @@ unique-page-id: 7516241
 description: SFDC Sync -Lead Queue - Marketo Docs - Produktdokumentation
 title: SFDC-synkronisering - Lead-kö
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -19,8 +19,8 @@ Med Marketo kan du lägga till personer i [Salesforce lead-köer](https://help.s
 
 Du kan tilldela en person till en Salesforce-lead-kö med någon av följande flödesåtgärder:
 
-* [Synkronisera person till SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
-* [Ändra ägare](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
+* [Synkronisera person till SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
+* [Ändra ägare](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
 
 >[!NOTE]
 >
@@ -35,4 +35,3 @@ Om ett lead ägs av en kö i Salesforce, behålls dessa säljarfält tomma tills
 * Ägartitel för försäljning
 * Försäljningsägarens telefonnummer
 * E-postadress för säljare
-
