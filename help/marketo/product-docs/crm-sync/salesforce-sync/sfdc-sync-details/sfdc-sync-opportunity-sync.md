@@ -3,9 +3,9 @@ unique-page-id: 2953467
 description: SFDC Sync -Opportunity Sync - Marketo Docs - Produktdokumentation
 title: SFDC-synkronisering - Affärsmöjlighet - synkronisering
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Synkroniseringen är ett sätt: från Salesforce till Marketo. Uppdateringar av 
 
 >[!NOTE]
 >
->De [autentiseringsuppgifter du anger i Marketo för Salesforce](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) används för att synkronisera data. Endast data som dessa autentiseringsuppgifter har åtkomst till inkluderas.
+>De [autentiseringsuppgifter du anger i Marketo för Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) används för att synkronisera data. Endast data som dessa autentiseringsuppgifter har åtkomst till inkluderas.
 
 ## Kan jag starta en säljprojektssynkronisering? {#can-i-initiate-an-opportunity-sync}
 
@@ -27,7 +27,7 @@ Nej, det kan du inte. Ändringarna i alla affärsmöjligheter i Salesforce synkr
 
 ## Stöder Marketo mer än en valuta i säljprojektsbeloppet? {#does-marketo-support-more-than-one-currency-in-the-opportunity-amount}
 
-Nej, Marketo stöder bara en valuta. Affärsmöjlighetsbeloppet synkroniseras från Salesforce men valutan är [standardvalutan](https://docs.marketo.com/display/DOCS/Set+Default+Location+Settings+for+a+Subscription#SetDefaultLocationSettingsforaSubscription-SettheDefaultCurrencySettingsforaSubscription) i din Marketo-prenumeration.
+Nej, Marketo stöder bara en valuta. Affärsmöjlighetsbeloppet synkroniseras från Salesforce men valutan är [standardvalutan](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription) i din Marketo-prenumeration.
 
 ## Hur kopplar Marketo möjligheter och kontakter? {#how-does-marketo-associate-opportunities-and-contacts}
 
@@ -35,7 +35,7 @@ Marketo associerar affärsmöjligheter och kontakter med [Roller för säljproje
 
 ## Hur kan jag se alla möjligheter för en person? {#how-can-i-see-all-the-opportunities-of-a-person}
 
-Du kan visa en lista över affärsmöjligheter på fliken **Affärsmöjlighetsinfo** på sidan [Personinformation](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
+Du kan visa en lista över affärsmöjligheter på fliken **Affärsmöjlighetsinfo** på sidan [Personinformation](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
 ## Vilka utlösare/filter hör till affärsmöjligheten? {#what-are-the-triggers-filters-related-to-opportunity}
 
@@ -60,5 +60,3 @@ Filter:
 >Ta en titt på begränsningarna för filter och utlösare. Massor av coola detaljer där inne.
 >
 >Gör bara ett nytt fält i affärsmöjlighetsobjektet i Salesforce så blir det automatiskt en begränsning!
-
-Marketo har den bästa Salesforce-synkroniseringen i världen!
