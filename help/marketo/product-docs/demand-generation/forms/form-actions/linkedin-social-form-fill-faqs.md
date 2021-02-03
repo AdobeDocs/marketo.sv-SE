@@ -3,7 +3,7 @@ unique-page-id: 10098238
 description: LinkedIn Social Form Fill FAQs - Marketo Docs - produktdokumentation
 title: Vanliga frågor om LinkedIn-fyllning av sociala formulär
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '558'
 ht-degree: 0%
@@ -17,7 +17,7 @@ LinkedIn:s reviderade API-policy kräver att vi tar bort LinkedIn Social Form Fi
 
 ## Viktiga saker att känna till {#important-things-to-know}
 
-* Knapparna för fyllning i sociala formulär i LinkedIn är inte längre ett alternativ att lägga till i Marketo från och med den 28 april 2016
+* LinkedIn-knappar för ifyllning av sociala formulär kunde inte längre läggas till i Marketo den 28 april 2016
 
 * Vi har tagit bort knappen Fyll i socialt formulär för LinkedIn från alla formulär som hade den aktiverad
 
