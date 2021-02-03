@@ -3,7 +3,7 @@ unique-page-id: 2359398
 description: Skapa ett formulär - Marketo Docs - Produktdokumentation
 title: Skapa ett formulär
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -17,9 +17,9 @@ Skapa och använd ett formulär på en landningssida för att generera nya namn.
 
 >[!NOTE]
 >
->Läs vad Marketo gör för att [skydda formulären](http://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
+>Läs vad Marketo gör för att [skydda formulären](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
-1. Gå till **Marknadsföring** **Aktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -47,10 +47,6 @@ Söt! Nu när formuläret har skapats kan vi klä på det.
 
 >[!MORELIKETHIS]
 >
->* [Välj ett formulärtema](select-a-form-theme.md)
->* [Lägga till en FieldSet i ett formulär](../../../../product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
-
->
-
-
+>* [Välj ett formulärtema](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
+>* [Lägga till en FieldSet i ett formulär](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
 
