@@ -3,9 +3,9 @@ unique-page-id: 4720257
 description: Lägg till anpassade målgrupper på Facebook som en LaunchPoint-tjänst - Marketo Docs - produktdokumentation
 title: Lägg till anpassade Facebook-målgrupper som en LaunchPoint-tjänst
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Med den här integreringen kan ni skicka målgruppsdata från Marketo till stati
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. Öppna en ny flik i samma webbläsare och gå till [www.facebook.com.](http://www.facebook.com./) Logga in på Facebook med det konto du vill använda för integreringen.
+1. Öppna en ny flik i samma webbläsare och gå till [facebook.com](http://www.facebook.com/). Logga in på Facebook med det konto du vill använda för integreringen.
 
    >[!CAUTION]
    >
@@ -45,9 +45,9 @@ Med den här integreringen kan ni skicka målgruppsdata från Marketo till stati
 
    >[!NOTE]
    >
-   >Du *måste* använda ett Facebook Business Manager-konto för att integreringen av anpassade målgrupper ska fungera. Mer information om hur du konfigurerar ett Business Manager-konto finns i [Facebook-hjälpen](https://www.facebook.com/business/help/1710077379203657).
+   >Du _måste_ använda ett Facebook Business Manager-konto för att integreringen av anpassade målgrupper ska fungera. Mer information om hur du konfigurerar ett Business Manager-konto finns i [Facebook-hjälpen](https://www.facebook.com/business/help/1710077379203657).
 
-1. Om du uppmanas till det klickar du på **OK **för att godkänna Marketo-appinstallationen på Facebook.
+1. Om du uppmanas till det klickar du på **OK** för att godkänna installationen av Marketo-appen på Facebook.
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
@@ -55,7 +55,7 @@ Med den här integreringen kan ni skicka målgruppsdata från Marketo till stati
 
    >[!NOTE]
    >
-   >**Grundläggande matchning** använder endast e-postadresser.**Avancerad** matchning använder ytterligare sju fält, vilket ökar matchningsfrekvensen, för mer konvertering. Om ditt företags sekretesspolicy inte tillåter delning av ytterligare fält, eller om dina data inte inkluderar dem, väljer du Grundläggande matchning.
+   >**Grundläggande** matchning använder endast e-postadresser. **Avancerad** matchning använder ytterligare sju fält, vilket ökar matchningsfrekvensen, för mer konvertering. Om ditt företags sekretesspolicy inte tillåter delning av ytterligare fält, eller om dina data inte inkluderar dem, väljer du Grundläggande matchning.
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
@@ -67,12 +67,8 @@ Med den här integreringen kan ni skicka målgruppsdata från Marketo till stati
 
 >[!MORELIKETHIS]
 >
->* [Skapa en anpassad målgrupp i Facebook](../../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+>* [Skapa en anpassad målgrupp i Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
    >
    >
-* [Konfigurera Facebook-annonser](../../../product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
-
->
-
-
+* [Konfigurera Facebook-annonser](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
 
