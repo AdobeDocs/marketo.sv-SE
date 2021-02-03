@@ -3,7 +3,7 @@ unique-page-id: 12983101
 description: Mappa anpassade fält till Marketo - Marketo Docs - Produktdokumentation
 title: Mappa anpassade fält till markering
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Du kanske vill samla in mer än standardinformationen som lagras på Facebook som standard, till exempel hur ofta någon använder din onlinetjänst. Du kan uppnå detta genom att [skapa anpassade frågor](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink) i dina Facebook-annonser.
 
-Men **Marketo börjar inte automatiskt samla in dessa data**.** **För att Marketo ska kunna börja hämta anpassade fältvärden måste du **mappa dessa anpassade fält till ett fält i Marketo.**
+Men **Marketo börjar inte automatiskt samla in dessa data**. För att Marketo ska kunna börja hämta anpassade fältvärden måste du **mappa dessa anpassade fält till ett fält i Marketo.**
 
 Så här konfigurerar du detta i området LaunchPoint i Admin.
 
@@ -41,9 +41,7 @@ Så här konfigurerar du detta i området LaunchPoint i Admin.
 
 1. Här mappar du det anpassade Facebook-fältet till ditt Marketo-fält. Klicka på **Lägg till.**
 
-   ** ![](assets/image2017-10-24-9-3a33-3a49.png)
-
-   **
+   ![](assets/image2017-10-24-9-3a33-3a49.png)
 
 1. Ange namnet på det anpassade Facebook-fältet på den nya raden.
 
@@ -59,9 +57,8 @@ Så här konfigurerar du detta i området LaunchPoint i Admin.
 
    >[!NOTE]
    >
-   >Om du inte redan har ett fält i Marketo att mappa Facebook-fältet till, lär du dig hur du [skapar anpassade fält](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
+   >Om du inte redan har ett fält i Marketo att mappa Facebook-fältet till, lär du dig hur du [skapar anpassade fält](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
 >[!CAUTION]
 >
 >Du **måste** gå igenom den här processen för alla nya Facebook-fält för att Marketo ska kunna samla in data.
-
