@@ -3,7 +3,7 @@ unique-page-id: 2953459
 description: SFDC Sync -Account Sync - Marketo Docs - Produktdokumentation
 title: SFDC-synkronisering - kontosynkronisering
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Nej. Ett konto kan ha många kontakter, en kontakt kan bara ha ett konto.
 
 ## Kan jag skapa konton från Marketo? {#can-i-create-accounts-from-marketo}
 
-För det mesta, nej. Om du däremot använder flödessteget [Konvertera person](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) för en person skapas en ny kontakt, ett nytt konto och ett nytt säljprojekt.
+För det mesta, nej. Om du däremot använder flödessteget [Konvertera person](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) för en person skapas en ny kontakt, ett nytt konto och ett nytt säljprojekt.
 
 >[!CAUTION]
 >
