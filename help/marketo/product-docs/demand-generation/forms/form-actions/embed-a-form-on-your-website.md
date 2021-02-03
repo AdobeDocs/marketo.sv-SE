@@ -3,9 +3,9 @@ unique-page-id: 2359641
 description: Bädda in ett formulär på din webbplats - Marketo Docs - Produktdokumentation
 title: Bädda in ett formulär på din webbplats
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Marketo låter er bädda in våra formulär på er egen webbplats. Så här får du åtkomst till inbäddningskoden.
 
-1. Gå till **Marknadsföring** **Aktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -23,20 +23,17 @@ Marketo låter er bädda in våra formulär på er egen webbplats. Så här får
 
    ![](assets/image2014-9-15-12-3a12-3a14.png)
 
-1. Under **Formulär** **Åtgärder** klickar du på **Bädda in** **Kod**.
+1. Under **Formuläråtgärder** klickar du på **Bädda in kod**.
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
-   >
-   >Formuläret måste godkännas för att **Embed** **Code**-objektet ska vara synligt/användbart.
+   >Formuläret måste godkännas för att **Embed Code**-objektet ska vara synligt/användbart.
 
    ![](assets/image2014-9-15-12-3a12-3a20.png)
 
    >[!CAUTION]
    >
-   >** [Formulärförifyllning](../../../../product-docs/administration/settings/edit-landing-page-settings.md)** fungerar inte när du använder formulärinbäddningskoden på dina egna sidor *eller* en Marketo-landningssida. Förifyll formulär är endast avsett att fungera när formuläret används på en Marketo-landningssida via alternativet Infoga element.
+   >**[Formulärförifyllnad fungerar inte när du använder formulärinbäddningskoden på dina egna sidor](/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md)**   __ eller Marketo-landningssida. Förifyll formulär är endast avsett att fungera när formuläret används på en Marketo-landningssida via alternativet Infoga element.
 
 1. Markera/kopiera inbäddningskoden och klicka sedan på **Stäng**.
 
@@ -50,6 +47,6 @@ Ge nu bara inbäddningskoden till webbutvecklaren och låt dem lägga till den p
 
 >[!NOTE]
 >
->Om din utvecklare vill anpassa utseendet eller få åtkomst till avancerade API-funktioner visar du sidan [Forms 2.0-utvecklare](http://developers.marketo.com/documentation/websites/forms-2-0/).
+>Om din utvecklare vill anpassa utseendet eller få åtkomst till avancerade API-funktioner visar du sidan [Forms 2.0-utvecklare](https://developers.marketo.com/documentation/websites/forms-2-0/).
 
-Bra jobbat! Vill du att [inbäddningskoden ska innehålla lightbox-kod](use-a-form-in-a-lightbox.md)? Det är lätt också!
+Bra jobbat! Vill du att [inbäddningskoden ska innehålla lightbox-kod](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)? Det är lätt också!
