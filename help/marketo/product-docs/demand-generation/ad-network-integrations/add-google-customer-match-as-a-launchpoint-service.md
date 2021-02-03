@@ -3,7 +3,7 @@ unique-page-id: 12980661
 description: Lägg till Google Customer Match som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
 title: Lägg till Google Customer Match som en LaunchPoint-tjänst
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -27,11 +27,11 @@ Med den här integreringen kan ni skicka en Marketo-målgrupp till Google för m
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Välj **Ny** och sedan** Ny tjänst**.
+1. Välj **Ny** och sedan **Ny tjänst**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Ange ett **Visningsnamn **och välj** Google Customer Match **i listrutan **Service**. Klicka på **Skapa**.
+1. Ange ett **visningsnamn** och välj **Google Customer Match** i listrutan **Service**. Klicka på **Skapa**.
 
    ![](assets/chooseservice.png)
 
@@ -43,7 +43,7 @@ Med den här integreringen kan ni skicka en Marketo-målgrupp till Google för m
 
    >[!CAUTION]
    >
-   >För att Marketto ska kunna skicka målgrupper över flera AdWords-konton måste den Google-användare som du auktoriserar i följande steg ha tillgång till *alla* av dessa konton.
+   >För att Marketto ska kunna skicka målgrupper över flera AdWords-konton måste den Google-användare som du auktoriserar i följande steg ha tillgång till _alla_ av dessa konton.
 
    ![](assets/chooseaccount.png)
 
@@ -56,4 +56,3 @@ Med den här integreringen kan ni skicka en Marketo-målgrupp till Google för m
    ![](assets/authorizesuccess.png)
 
    Häftig! Nu visas Google Matched Audiences som en LaunchPoint-tjänst på fliken Installerade tjänster.
-
