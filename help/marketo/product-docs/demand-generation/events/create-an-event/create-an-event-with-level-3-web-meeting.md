@@ -3,9 +3,9 @@ unique-page-id: 7512328
 description: Skapa en händelse med Level 3 Web Meeting - Marketo Docs - Produktdokumentation
 title: Skapa en händelse med webbmöte på nivå 3
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,10 @@ ht-degree: 0%
 >
 >* [Lägg till webbmöte på nivå 3 som en startpunktstjänst](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
 >* [Skapa ett nytt händelseprogram](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Ange lämpliga [flödesåtgärder](https://docs.marketo.com/x/k8Kt)för att spåra engagemang
-
->
+>* Ange lämpliga [flödesåtgärder](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)för att spåra engagemang
 
 
-
-Skapa först ditt webbinarium på nivå 3. Om du behöver hjälp kan du kolla in [Level 3 Resource Library](http://www.level3.com/en/resource-library/). Du kommer att finna att det liknar BrightTalk.  Marketo använder en liten delmängd av Level 3-fält:
+Skapa först ditt webbinarium på nivå 3. Om du behöver hjälp kan du kolla in [Level 3 Resource Library](https://www.level3.com/en/resource-library/). Du kommer att finna att det liknar BrightTalk.  Marketo använder en liten delmängd av Level 3-fält:
 
 * **Namn**  - Webbcast-namnet.
 * **Startdatum**  - Startdatum för webbsändningen.
@@ -55,6 +52,6 @@ Skapa först ditt webbinarium på nivå 3. Om du behöver hjälp kan du kolla in
 
 ## Visa schemat {#viewing-the-schedule}
 
-Klicka på kalenderposten för händelsen i [programschemavyn](http://docs.marketo.com/display/docs/program+schedule+view). Schemat visas till höger på skärmen.
+Klicka på kalenderposten för aktiviteten i programschemavyn. Schemat visas till höger på skärmen.
 
 ![](assets/image2016-3-24-15-3a51-3a7.png)
