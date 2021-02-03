@@ -3,7 +3,7 @@ unique-page-id: 2953473
 description: SFDC Sync -Activity Sync - Marketo Docs - Produktdokumentation
 title: SFDC-synkronisering - Aktivitetssynkronisering
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -21,11 +21,11 @@ Marketo synkroniserar över både händelser och uppgifter som är kopplade till
 
 ## Hur synkroniseras aktivitetsinformationen mellan de två systemen? {#how-are-activity-details-kept-in-sync-between-the-two-systems}
 
-Synkroniseringen är ett sätt, från Salesforce till Marketo. Men du kan skapa en uppgift i Salesforce med flödessteget [Skapa uppgift](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) eller [Anpassa aktiviteter Synkronisera](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md) till Salesforce.
+Synkroniseringen är ett sätt, från Salesforce till Marketo. Men du kan skapa en uppgift i Salesforce med flödessteget [Skapa uppgift](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) eller [Anpassa aktiviteter Synkronisera](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md) till Salesforce.
 
 ## Kan jag skapa en uppgift med Marketo? {#can-i-create-a-task-using-marketo}
 
-Ja, du kan använda åtgärden [Skapa uppgiftsflöde](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md).
+Ja, du kan använda åtgärden [Skapa uppgiftsflöde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md).
 
 ## Vilka utlösare/filter är relaterade till aktiviteten? {#what-are-the-triggers-filters-related-to-activity}
 
@@ -41,5 +41,4 @@ Filter
 
 >[!TIP]
 >
->Är du inte säker på den ordalydelsen &quot;Inte aktivitet&quot;? &quot;not&quot; refererar till ett inaktivitetsfilter. Läs mer om dem här: [Använd inaktivitetsfilter i en smart lista](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
-
+>Är du inte säker på den ordalydelsen &quot;Inte aktivitet&quot;? &quot;not&quot; refererar till ett inaktivitetsfilter. Läs mer om dem här: [Använd inaktivitetsfilter i en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
