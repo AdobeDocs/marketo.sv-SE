@@ -3,9 +3,9 @@ unique-page-id: 2359614
 description: Definiera värden i ett alternativfält eller markerat fält i ett formulär - Marketo Docs - Produktdokumentation
 title: Definiera värden i ett alternativfält eller markerat fält i ett formulär
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Definiera värden i ett alternativfält eller markerat fält i ett formulär {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-När du har [angett att fälttypen](../../../../product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) ska vara en alternativknapp eller en markeringstyp, vill du definiera de värden som användaren kan välja mellan. Så här gör du.
+När du har [angett att fälttypen](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) ska vara en alternativknapp eller en markeringstyp, vill du definiera de värden som användaren kan välja mellan. Så här gör du.
 
-1. Gå till **Marknadsföring** **Aktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/ma.png)
 
-1. Markera formuläret och klicka på **Redigera** **Formulär**.
+1. Markera formuläret och klicka på **Redigera formulär**.
 
    ![](assets/image2014-9-15-16-3a28-3a56.png)
 
@@ -39,9 +39,7 @@ När du har [angett att fälttypen](../../../../product-docs/administration/fiel
    >
    >**Definition**
    >
-   >
    >**Visningsvärde:** Vad som visas för besökaren.
-   >
    >
    >**Lagrat värde:** Vad som spelas in i Marketo.
 
@@ -65,4 +63,4 @@ När du har [angett att fälttypen](../../../../product-docs/administration/fiel
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 
-Superjobb! Du klarar dig jättebra. Läs mer om [formulär](http://docs.marketo.com/display/docs/forms).
+Superjobb! Du klarar dig jättebra.
