@@ -3,9 +3,9 @@ unique-page-id: 2359858
 description: Lägg till bilder och filer i Marketo - Marketo Docs - Produktdokumentation
 title: Lägg till bilder och filer i Marketto
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Det är enkelt att lägga till flera bilder och filer samtidigt.
 
-1. Gå till **Design** **Studio**.
+1. Gå till **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Under **Nytt** klickar du på** Överför bild** **eller** **Fil**.
+1. Under **Nytt** klickar du på **Överför bild** eller **Fil**.
 
    ![](assets/image2014-9-15-18-3a5-3a33.png)
 
@@ -41,16 +41,14 @@ Det är enkelt att lägga till flera bilder och filer samtidigt.
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
-   >
    >Om du vill ta bort alla köade filer före överföring klickar du på x:et bredvid filnamnet.
 
    >[!TIP]
    >
    >Marketo söker igenom alla filer innan de överförs. infekterade filer kommer att hoppas över.
 
-   När överföringen är klar klickar du på Slutför.
+1. När överföringen är klar klickar du på **Slutför**.
+
    ![](assets/image2014-9-15-18-3a8-3a34.png)
 
 1. Dina bilder kan nu användas i e-postkampanjer och på landningssidor.
@@ -63,15 +61,6 @@ Snyggt gjort!
 >
 >Marketo godkänner alla filtyper för överföring, men endast de större bildtyperna (JPG, PNG, GIF osv.) kommer att fungera i vår e-postredigerare.
 
-## Titta på en video {#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/ZWBeQ5oiXRKG2QAP5E7g6Q.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 >[!MORELIKETHIS]
 >
->* [Ordna dina bilder och filer med hjälp av mappar](organize-your-images-and-files-using-folders.md)
-
->
-
-
-
+>[Ordna dina bilder och filer med hjälp av mappar](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
