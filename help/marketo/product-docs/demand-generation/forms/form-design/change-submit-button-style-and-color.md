@@ -3,7 +3,7 @@ unique-page-id: 2359620
 description: Ändra format och färg för Skicka-knapp - Marketo-dokument - Produktdokumentation
 title: Ändra format och färg för Skicka-knapp
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Om du tycker att standardknappen för att skicka är trist, eller om du behöver något mer avancerat, kan du välja bland en mängd färdiga knappformat.
 
-1. Gå till **Marknadsföring** **Aktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Markera formuläret och klicka på **Redigera** **Formulär**.
+1. Markera formuläret och klicka på **Redigera formulär**.
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
@@ -62,4 +62,3 @@ Om du tycker att standardknappen för att skicka är trist, eller om du behöver
    >[!NOTE]
    >
    >Precis som många grafiska element kan knappen se annorlunda ut beroende på vilken webbläsare du använder.
-
