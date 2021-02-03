@@ -3,9 +3,9 @@ unique-page-id: 2949863
 description: Skapa en händelse med WebEx - Marketo Docs - Produktdokumentation
 title: Skapa en händelse med WebEx
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '940'
+source-wordcount: '927'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,10 @@ ht-degree: 0%
 >
 >* [Lägg till WebEx som en LaunchPoint-tjänst](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [Skapa ett nytt händelseprogram](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Ange lämpliga [flödesåtgärder](http://docs.marketo.com/display/DOCS/Flow+Actions)för att spåra engagemang
+>* Ange lämpliga [flödesåtgärder](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)för att spåra engagemang
 
 
-Skapa först en WebEx-händelse i WebEx Event Center. Marketo använder bara specifika inställningar och fält för din integrering, som vi kommer att gå igenom inom kort. Andra fält som du kanske vill konfigurera för WebEx beskrivs i [användarhandboken för WebEx Event Center](http://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
+Skapa först en WebEx-händelse i WebEx Event Center. Marketo använder bara specifika inställningar och fält för din integrering, som vi kommer att gå igenom inom kort. Andra fält som du kanske vill konfigurera för WebEx beskrivs i [användarhandboken för WebEx Event Center](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
 
 ## Grundläggande information {#basic-information}
 
@@ -140,7 +140,7 @@ Söt! Din WebEx-händelse synkroniseras nu med din Marketo-händelse.  Personer 
 
 ## Visa schemat {#viewing-the-schedule}
 
-Klicka på kalenderposten för händelsen i [programschemavyn](http://docs.marketo.com/display/docs/program+schedule+view). Schemat visas till höger på skärmen.
+Klicka på kalenderposten för aktiviteten i programschemavyn. Schemat visas till höger på skärmen.
 
 ![](assets/image2015-5-14-16-3a21-3a41.png)
 
