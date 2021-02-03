@@ -3,7 +3,7 @@ unique-page-id: 11379622
 description: Konfigurera Facebook-annonser - Marketo Docs - Produktdokumentation
 title: Konfigurera Facebook-annonser
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -19,9 +19,7 @@ Använd [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) för a
 >
 >**Administratörsbehörigheter krävs**
 
->[!NOTE]
->
->**Tillgänglighet**
+>[!AVAILABILITY]
 >
 >Kontakta din Customer Success Manager om du vill lägga till Facebook-annonser i din instans.
 
@@ -37,7 +35,7 @@ Använd [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) för a
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
-1. Öppna en ny flik i samma webbläsare och gå till [www.facebook.com.](http://www.facebook.com.) Logga in på Facebook med det konto du vill använda för integreringen.
+1. Öppna en ny flik i samma webbläsare och gå till [facebook.com](http://www.facebook.com). Logga in på Facebook med det konto du vill använda för integreringen.
 
    >[!NOTE]
    >
@@ -49,7 +47,7 @@ Använd [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) för a
 
    ![](assets/image2016-11-29-10-3a52-3a51.png)
 
-1. Om du uppmanas till det klickar du på **OK** för att godkänna Marketo-appinstallationen till Facebook.
+1. Om du uppmanas till det klickar du på **OK** för att godkänna installationen av Marketo-appen på Facebook.
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
@@ -69,7 +67,7 @@ Använd [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) för a
 
    >[!TIP]
    >
-   >Genom att ändra mappningarna kan du anpassa var informationen om annonser för lead lagras i Marketo. Du kan även [hämta data från anpassade frågor för Lead Ads](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
+   >Genom att ändra mappningarna kan du anpassa var informationen om annonser för lead lagras i Marketo. Du kan även [hämta data från anpassade frågor för Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
 
    >[!CAUTION]
    >
@@ -83,10 +81,6 @@ Använd [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) för a
 
 >[!MORELIKETHIS]
 >
->* [Använd filter och utlösare för annonsering av leads i en smart kampanj](use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
->* [Mappa anpassade fält till markering](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
-
->
-
-
+>* [Använd filter och utlösare för annonsering av leads i en smart kampanj](/help/marketo/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
+>* [Mappa anpassade fält till markering](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
 
