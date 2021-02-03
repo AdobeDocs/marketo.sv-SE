@@ -3,9 +3,9 @@ unique-page-id: 10096671
 description: Ange dina ON24-inloggningsuppgifter i Marketo - Marketo Docs - Produktdokumentation
 title: Ange dina ON24-inloggningsuppgifter i Marketo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,6 @@ Låt oss komma igång med din ON24-händelseintegrering. Om du någon gång beh�
 
    * **Visningsnamn**  - Ange ett namn som ska användas i Marketo. Detta kan vara ditt namn eller namnet på din grupp om du delar inloggningsuppgifter.
    * **Service**  - Välj  **On24** i listrutan.
-
    * **Klientnyckel**  - Ange den ON24-klientnyckel som du använder för inloggning. Klientnyckeln är en 32-siffrig sträng som innehåller en blandning av bokstäver och siffror.
    * **Klient-ID**  - Ange det 4-siffriga ON24-klient-ID som du använder för inloggning. Du kan hämta klient-ID:t och klientnyckeln direkt från kontohanteraren för ON24.
 
@@ -67,13 +66,8 @@ Du kan redigera dina autentiseringsuppgifter om ditt lösenord upphör att gäll
 
    ![](assets/nine.png)
 
-Nästa steg är att [skapa webbinariet i ON24](create-your-webinar-event-in-on24.md).
+Nästa steg är att [skapa webbinariet i ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md).
 
 >[!MORELIKETHIS]
 >
->* [Om Marketo ON24-adapterhändelser](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[Om Marketo ON24-adapterhändelser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
