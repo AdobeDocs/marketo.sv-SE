@@ -3,7 +3,7 @@ unique-page-id: 2359594
 description: Lägg till en fältuppsättning i ett formulär - Marketo Docs - Produktdokumentation
 title: Lägga till en FieldSet i ett formulär
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Fältuppsättningar är coola. De grupperar en massa fält tillsammans. Du kan styra ett helt block samtidigt!
 
-1. Gå till **Marknadsföring** **Aktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Markera formuläret och klicka på **Redigera** **Formulär**.
+1. Markera formuläret och klicka på **Redigera formulär**.
 
    ![](assets/image2014-9-15-15-3a1-3a22.png)
 
@@ -43,5 +43,4 @@ Där har du den!
 
 >[!TIP]
 >
->Du kan dynamiskt dölja/visa hela fältuppsättningen beroende på ett annat fält. Läs mer om [synlighetsregler](dynamically-toggle-visibility-of-a-form-field.md).
-
+>Du kan dynamiskt dölja/visa hela fältuppsättningen beroende på ett annat fält. Läs mer om [synlighetsregler](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).
