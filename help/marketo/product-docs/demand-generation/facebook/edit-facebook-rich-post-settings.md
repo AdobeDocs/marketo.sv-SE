@@ -3,9 +3,9 @@ unique-page-id: 2950555
 description: Redigera Facebook Rich Post Settings - Marketo Docs - Produktdokumentation
 title: Redigera inställningar för avancerat inlägg på Facebook
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -13,15 +13,13 @@ ht-degree: 0%
 
 # Redigera inställningar för Facebook Rich Post {#edit-facebook-rich-post-settings}
 
-Anpassa inlägg när någon [delar dig](http://docs.marketo.com/display/docs/social) på Facebook.
+Anpassa inlägg när andra delar dig på Facebook.
 
->[!NOTE]
->
->**Tillgänglighet**
+>[!AVAILABILITY]
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
-Marketo [sociala appar](http://docs.marketo.com/display/docs/social) tillåter dina leads att dela dina landningssidor med sina anslutningar i sociala nätverk som Facebook, Twitter osv. Med Facebook OpenGraph-taggar (OG-taggar) kan du ange vilken information från din landningssida som ska ingå i Facebook-inlägg.
+Marketo [sociala appar](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) tillåter dina leads att dela dina landningssidor med sina anslutningar i sociala nätverk som Facebook, Twitter osv. Med Facebook OpenGraph-taggar (OG-taggar) kan du ange vilken information från din landningssida som ska ingå i Facebook-inlägg.
 
 ## Välj alternativ för Rich Post {#select-rich-post-options}
 
@@ -35,20 +33,19 @@ Du kan ange vilka typer av sidinformation som ska användas i de Facebook-inläg
 
    * Lägg till statiskt innehåll: Välj det här alternativet om du vill ange rubrik, bildtext och beskrivning manuellt.
 
-      ![](assets/image2014-9-22-16-3a48-3a0.png)
+   ![](assets/image2014-9-22-16-3a48-3a0.png)
 
    * Lägg till dynamiskt innehåll: Din sociala app kan använda landningssidans `<TITLE>`-, `<CAPTION>`- och `<DESCRIPTION>`-taggar för att fylla i ditt inlägg.
 
-      ![](assets/image2014-9-22-16-3a48-3a9.png)
+   ![](assets/image2014-9-22-16-3a48-3a9.png)
+
    >[!NOTE]
    >
-   >Dessa bör redan finnas i sidans källa, men om du vill ha mer kontroll kan du [lägga till särskilda Facebook OG-taggar på din startsida](edit-facebook-rich-post-settings.md).
+   >Dessa bör redan finnas i sidkällan, men för mer kontroll kan du lägga till särskilda Facebook OG-taggar på landningssidan.
 
    * Lägg inte till avancerat innehåll: Begränsar Facebook-inlägg från din landningssida till endast huvudmeddelandet och länken.
 
-      ![](assets/image2014-9-22-16-3a48-3a18.png)
-
-
+   ![](assets/image2014-9-22-16-3a48-3a18.png)
 
 ## Lägg till OG-taggar för Facebook på en landningssida {#add-facebook-og-tags-to-a-landing-page}
 
@@ -60,7 +57,7 @@ Om du vill styra vilka sidelement som ska inkluderas i Facebook-delningarna frå
 
    **Startsidans Designer** öppnas i ett nytt fönster.
 
-1. Välj **Åtgärder för landningssida** > **Redigera sidmetataggar****.**
+1. Välj **Landing Page Actions** > **Redigera sidmetataggar**.
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 
