@@ -3,9 +3,9 @@ unique-page-id: 2359610
 description: Ändra formulärens teckenstorlek - Marketo Docs - Produktdokumentation
 title: Ändra teckenstorlek för formulär
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -19,19 +19,19 @@ Marketo gör det enkelt för er att anpassa formulärens utseende och känsla. E
 >
 >Den här inställningen påverkar formuläretiketten, indatatexten och texten för knappen Skicka.
 
-1. Gå till **Marknadsföring** **Aktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Markera formuläret och klicka på **Redigera** **Formulär**.
+1. Markera formuläret och klicka på **Redigera formulär**.
 
    ![](assets/image2014-9-15-16-3a9-3a41.png)
 
-1. Under **Formulär** **Inställningar** väljer du **Inställningar**.
+1. Under **Formulärinställningar** väljer du **Inställningar**.
 
    ![](assets/image2014-9-15-16-3a9-3a56.png)
 
-1. Välj det **teckensnitt** **Storlek** du vill använda.
+1. Välj den **teckensnittsstorlek** du vill använda.
 
    ![](assets/image2014-9-15-16-3a10-3a8.png)
 
@@ -48,9 +48,6 @@ Marketo gör det enkelt för er att anpassa formulärens utseende och känsla. E
    ![](assets/image2014-9-15-16-3a11-3a17.png)
 
    >[!NOTE]
-   >
-   >**Påminnelse**
-   >
    >
    >Kom ihåg att godkänna landningssidans utkast som skapats av formulärändringarna.
 
