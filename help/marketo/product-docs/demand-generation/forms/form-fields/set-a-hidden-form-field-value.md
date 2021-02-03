@@ -3,9 +3,9 @@ unique-page-id: 2359663
 description: Ange ett dolt formulärfältsvärde - Marketo Docs - Produktdokumentation
 title: Ange ett dolt formulärfältsvärde
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Dolda fält fylls vanligtvis i dynamiskt. De visas inte för den som fyller i fo
 
 >[!PREREQUISITES]
 >
->[Ange ett formulärfält som dolt](set-a-form-field-as-hidden.md)
+>[Ange ett formulärfält som dolt](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)
 
 ## Markera fältet {#select-the-field}
 
@@ -33,11 +33,11 @@ Genom att välja Använd standardvärde kan du hårdkoda ett specifikt värde so
 
 ## URL-parameter {#url-parameter}
 
-Om du vill hämta URL-parametrar (frågesträngar) från sidan som personen är på när du fyller i formuläret kan du använda **URL** **Parametrar** för att fylla i det dolda fältet.
+Om du vill hämta URL-parametrar (frågesträngar) från sidan som personen är på när du fyller i formuläret kan du använda **URL-parametrar** för att fylla i det dolda fältet.
 
 >[!NOTE]
 >
->Parametrar är ganska tekniska, eller hur? När man väl fått dem, är de kraftfulla. Den här [Wikipedia-sidan om frågesträngar](http://en.wikipedia.org/wiki/Query_string) är något användbar.
+>Parametrar är ganska tekniska, eller hur? När man väl fått dem, är de kraftfulla. Den här [Wikipedia-sidan om frågesträngar](https://en.wikipedia.org/wiki/Query_string) är något användbar.
 
 1. Välj **URL-parameter** för **Hämta värdetyp**.
 
@@ -53,9 +53,9 @@ Om du vill hämta URL-parametrar (frågesträngar) från sidan som personen är 
 
 ## Cookie-värde {#cookie-value}
 
-Om du lagrar data i cookies kan du använda **cookie** **Value** för att hämta data när formuläret skickas.
+Om du lagrar data i cookies kan du använda **cookievärde** för att hämta data när formuläret skickas.
 
-1. Välj **Cookie** **Värde** för **Hämta** **Värde** **Från**.
+1. Välj **Cookie-värde** för **Hämta värde från**.
 
    ![](assets/image2014-9-15-13-3a8-3a21.png)
 
@@ -69,9 +69,9 @@ Om du lagrar data i cookies kan du använda **cookie** **Value** för att hämta
 
 ## Referensparameter {#referrer-parameter}
 
-Om du vill hämta data från den sida som besökaren kom från innan du fyller i formuläret kan du använda **Referent** **Parameter**.
+Om du vill hämta data från den sida som besökaren kom från innan du fyller i formuläret kan du använda **Referensparameter**.
 
-1. Ange **Hämta** **Värde** **Från** till **Referent** **Parameter**.
+1. Ange **Hämta värde från** till **Referensparameter**.
 
    ![](assets/image2014-9-15-13-3a9-3a31.png)
 
@@ -81,7 +81,7 @@ Om du vill hämta data från den sida som besökaren kom från innan du fyller i
 
    >[!TIP]
    >
-   >Du kan ange ett **Default** **värde** om referentparametern inte hittas.
+   >Du kan ange ett **standardvärde** om referensparametern inte hittas.
 
 1. Klicka på **Slutför**.
 
@@ -90,5 +90,3 @@ Om du vill hämta data från den sida som besökaren kom från innan du fyller i
 1. Klicka på **Godkänn och stäng**.
 
    ![](assets/image2014-9-15-13-3a10-3a43.png)
-
-Söt! Du klarar dig ganska bra. Det finns mer att lära sig om [formulär](http://docs.marketo.com/display/docs/forms).
