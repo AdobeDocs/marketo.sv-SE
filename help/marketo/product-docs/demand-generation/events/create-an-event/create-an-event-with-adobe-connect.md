@@ -3,7 +3,7 @@ unique-page-id: 2949865
 description: Skapa en händelse med Adobe Connect - Marketo Docs - Produktdokumentation
 title: Skapa ett evenemang med Adobe Connect
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
@@ -71,8 +71,8 @@ Kontrollera först att du har skapat ett möte eller seminarium i Adobe Connect.
 
    >[!MORELIKETHIS]
    >
-   > * [Lägg till Adobe Connect som en LaunchPoint-tjänst](../../../../product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
-   > * [Redigera en händelsekanal](../../../../product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
+   > * [Lägg till Adobe Connect som en LaunchPoint-tjänst](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
+   > * [Redigera en händelsekanal](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
 
 
 Personer som registrerar sig för ditt webbinarium kommer att pushas till din webbinarileverantör via flödessteget Ändra programstatus när Ny status är inställd på&quot;Registrerad&quot;. Ingen annan status kommer att föra personen över. Se även till att du följer flödessteget Ändra programstatus 1 och Skicka e-postflöde 2.
