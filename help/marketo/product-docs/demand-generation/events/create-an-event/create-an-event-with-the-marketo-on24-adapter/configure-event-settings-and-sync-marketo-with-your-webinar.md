@@ -3,9 +3,9 @@ unique-page-id: 10096673
 description: Konfigurera händelseinställningar och synkronisera marknadsföring med ditt webbinarium - Marketo Docs - produktdokumentation
 title: Konfigurera händelseinställningar och synkronisera markeringar med ditt webbinarium
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -53,16 +53,8 @@ När du ställer in en händelse som är associerad med ett ON24-webbinarium fyl
    >
    >Om du uppdaterar någon händelseinformation i ON24 måste du klicka på **Uppdatera från webbinariet Provider** på menyn Händelseåtgärder för att se hur nya data fylls i.
 
-   [skapa underordnade kampanjer och lokala resurser](create-child-campaigns-and-local-assets.md)
-
-Nu kan du gå vidare till nästa steg: .
+Nu kan du gå vidare till nästa steg: [skapa underordnade kampanjer och lokala resurser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md).
 
 >[!MORELIKETHIS]
 >
->* [Om Marketo On24-adapterhändelser](understanding-marketo-on24-adapter-events.md)
->* [Skapa underordnade kampanjer och lokala resurser](create-child-campaigns-and-local-assets.md)
-
->
-
-
-
+>[Om Marketo On24-adapterhändelser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
