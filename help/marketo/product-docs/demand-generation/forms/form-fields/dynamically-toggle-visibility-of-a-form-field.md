@@ -3,9 +3,9 @@ unique-page-id: 2949962
 description: Växla synlighet för ett formulärfält dynamiskt - Marketo Docs - Produktdokumentation
 title: Växla synlighet för ett formulärfält dynamiskt
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,10 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Lägg till en landsväljare i formuläret](../../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
-
->
+>* [Lägg till en landsväljare i formuläret](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
 
 
-
-En bra egenskap hos Marketo-formulär är att du dynamiskt kan dölja/visa formulärfält eller [fältuppsättningar](add-a-fieldset-to-a-form.md).
+En bra egenskap hos Marketo-formulär är att du dynamiskt kan dölja/visa formulärfält eller [fältuppsättningar](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md).
 
 >[!NOTE]
 >
@@ -29,15 +26,15 @@ En bra egenskap hos Marketo-formulär är att du dynamiskt kan dölja/visa formu
 >
 >I det här exemplet döljer vi fältet **State** såvida inte **Country** har valts som &quot;USA&quot;.
 
-1. Gå till **Marknadsföring** **Aktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-8.png)
 
-1. Markera formuläret och klicka på **Redigera** **Formulär**.
+1. Markera formuläret och klicka på **Redigera formulär**.
 
    ![](assets/editform-1.png)
 
-1. Markera fältet som du vill visa/dölja dynamiskt och klicka på länken för **Synlighet** **Regler**.
+1. Markera fältet som du vill visa/dölja dynamiskt och klicka på länken för **Synlighetsregler**.
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
@@ -63,17 +60,10 @@ En bra egenskap hos Marketo-formulär är att du dynamiskt kan dölja/visa formu
 
    >[!NOTE]
    >
-   >Vi har tidigare konverterat Land till fälttyp för plocklista och [lagt till alla länder som värden](../../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
+   >Vi har tidigare konverterat Land till fälttyp för plocklista och [lagt till alla länder som värden](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
 
 1. Klicka på **Spara**.
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
 Och det är allt! När man fyller i blanketten och väljer USA som land visas fältet State dynamiskt med de alternativ som anges.
-
->[!NOTE]
->
->**Djupdykning**
->
->Vill du veta mer om [formulär](http://docs.marketo.com/display/docs/forms)?
-
