@@ -3,7 +3,7 @@ unique-page-id: 10096679
 description: Exempel på ON24-händelseintegrering - Marketo Docs - produktdokumentation
 title: Exempel på händelseintegrering ON24
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 0%
@@ -29,11 +29,11 @@ Här är ett exempel på en händelse, inklusive kampanjer, för ett ON24-webbin
 
    ![](assets/image2015-12-22-15-3a43-3a4.png)
 
-1. Välj **Event **som **programtyp**.
+1. Välj **Event** som **Programtyp**.
 
    ![](assets/image2015-12-22-15-3a44-3a41.png)
 
-1. Välj **Webinar **som **Channel **för händelsen.
+1. Välj **Webbseminarium** som **kanal** för händelsen.
 
    ![](assets/image2015-12-22-15-3a46-3a34.png)
 
@@ -93,9 +93,4 @@ Här är ett exempel på en händelse, inklusive kampanjer, för ett ON24-webbin
 
 >[!MORELIKETHIS]
 >
->* [Om Marketo ON24-adapterhändelser](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[Om Marketo ON24-adapterhändelser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
