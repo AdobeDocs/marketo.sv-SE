@@ -3,7 +3,7 @@ unique-page-id: 4719312
 description: Lägg till/ta bort plocklistevärden - Marketo-dokument - Produktdokumentation
 title: Lägg till/ta bort värden för plocklistor
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%
@@ -17,11 +17,11 @@ Här är några saker du bör känna till när det gäller att lägga till och t
 
 ## Lägger till värden för plocklista {#adding-picklist-values}
 
-1. Om ett extra värde läggs till i Salesforce för en typ av listfält får du ett [meddelande](../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) som identifierar vilka formulär som detta påverkar.
+1. Om ett extra värde läggs till i Salesforce för en typ av listfält får du ett [meddelande](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) som identifierar vilka formulär som detta påverkar.
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. Gå till formulärredigeraren och [lägg till det extra värdet](../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) i listan med förslag.
+1. Gå till formulärredigeraren och [lägg till det extra värdet](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) i listan med förslag.
 
 ## Ta bort värden för plocklista {#remove-picklist-values}
 
