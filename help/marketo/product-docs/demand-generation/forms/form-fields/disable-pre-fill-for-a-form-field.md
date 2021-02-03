@@ -3,9 +3,9 @@ unique-page-id: 2359675
 description: Inaktivera förifyllning för ett formulärfält - Marketo Docs - Produktdokumentation
 title: Inaktivera förifyllning för ett formulärfält
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ När en webbbesökare är känd (kodad) kommer Marketo-formulär att förifylla 
 >
 >**Formulärets** förifyllning är aktiverat som standard. Inställningarna för förifyllning på landningssidnivå och förifyllning på administratörsnivå trumpar inställningen för formulärnivå:
 >
->Form &lt; landningssida &lt; Admin
+>Form > Landing Page > Admin
 
-1. Gå till **Marknadsföring** **Aktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-7.png)
 
-1. Markera formuläret och klicka på **Redigera** **Formulär**.
+1. Markera formuläret och klicka på **Redigera formulär**.
 
    ![](assets/image2014-9-15-14-3a26-3a46.png)
 
@@ -33,7 +33,7 @@ När en webbbesökare är känd (kodad) kommer Marketo-formulär att förifylla 
    >
    >Förifyll formulär fungerar inte när du bäddar in ett formulär på dina egna sidor. Det fungerar bara på Marketo landningssidor.
 
-1. Markera ett av fälten och ställ in **Form** **Pre**-**fill** på **Inaktiverad**.
+1. Markera ett av fälten och ange **Formulärförifyllning** till **Inaktiverad**.
 
    ![](assets/image2014-9-15-14-3a26-3a54.png)
 
@@ -50,10 +50,3 @@ När en webbbesökare är känd (kodad) kommer Marketo-formulär att förifylla 
    ![](assets/image2014-9-15-14-3a27-3a6.png)
 
 Snyggt jobb!
-
->[!NOTE]
->
->**Djupdykning**
->
->Vill du veta mer om [formulär](http://docs.marketo.com/display/docs/forms)?
-
