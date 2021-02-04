@@ -3,9 +3,9 @@ unique-page-id: 2359732
 description: Använd dynamiskt innehåll i en landningssida i fri form - Marketo Docs - produktdokumentation
 title: Använd dynamiskt innehåll på en landningssida i fri form
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,9 @@ Genom att använda dynamiskt innehåll i landningssidor engagerar du publiken me
 
 >[!PREREQUISITES]
 >
->* [Skapa en segmentering](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [Skapa en landningssida med valfri form](create-a-free-form-landing-page.md)
->* [Lägga till ett nytt formulär på en startsida med valfri form](add-a-new-form-to-a-free-form-landing-page.md)
-
->
-
+>* [Skapa en segmentering](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [Skapa en landningssida med valfri form](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [Lägga till ett nytt formulär på en startsida med valfri form](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
 
 ## Lägg till segmentering {#add-segmentation}
@@ -31,19 +28,19 @@ Genom att använda dynamiskt innehåll i landningssidor engagerar du publiken me
 
    ![](assets/login-marketing-activities-2.png)
 
-   Välj landningssida och klicka sedan på Redigera utkast.
+1. Välj landningssida och klicka sedan på **Redigera utkast**.
 
    ![](assets/landingpageeditdraft-1.jpg)
 
-   Klicka på Segmentera efter.
+1. Klicka på **Segmentera med**.
 
    ![](assets/image2014-9-17-12-3a8-3a46.png)
 
-   Ange namnet på segmenteringen och klicka på Spara.
+1. Ange namnet på segmenteringen och klicka på **Spara**.
 
    ![](assets/image2014-9-17-12-3a8-3a53.png)
 
-   Segmenteringen och segmenten visas under Dynamic till höger.
+1. Segmenteringen och segmenten visas under Dynamic till höger.
 
    ![](assets/image2014-9-17-12-3a9-3a3.png)
 
@@ -53,11 +50,11 @@ Genom att använda dynamiskt innehåll i landningssidor engagerar du publiken me
 
 ## Gör element dynamiskt {#make-element-dynamic}
 
-1. Dra och släpp element för dynamiskt innehåll från **Statisk** till **Dynamisk.**
+1. Dra och släpp element med dynamiskt innehåll från **Statisk** till **Dynamisk**.
 
    ![](assets/image2014-9-17-12-3a10-3a8.png)
 
-1. Du kan också skapa element **Statisk** eller **Dynamisk** från elementet **Inställningar.**
+1. Du kan också skapa element **Statisk** eller **Dynamisk** från elementet **Inställningar**.
 
    ![](assets/image2014-9-17-12-3a10-3a14.png)
 
@@ -81,14 +78,8 @@ Genom att använda dynamiskt innehåll i landningssidor engagerar du publiken me
 
 Voila! Nu kan du skicka riktat innehåll.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Relaterade artiklar**
->
->* [Förhandsgranska en landningssida med dynamiskt innehåll](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
->* [Använda dynamiskt innehåll i ett e-postmeddelande](../../../../product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
-
->
-
-
+>* [Förhandsgranska en landningssida med dynamiskt innehåll](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
+>* [Använda dynamiskt innehåll i ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
 
