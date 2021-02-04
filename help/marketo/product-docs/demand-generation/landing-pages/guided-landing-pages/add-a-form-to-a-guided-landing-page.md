@@ -3,7 +3,7 @@ unique-page-id: 7515107
 description: Lägg till ett formulär på en guidad landningssida - Marketo Docs - Produktdokumentation
 title: Lägga till ett formulär på en landningssida med stödlinjer
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Blankett, möt landningssidan. Landningssida, möt formulär.
 
 >[!PREREQUISITES]
 >
->* [Skapa en guidad landningssida](create-a-guided-landing-page.md)
-
->
-
-
+>[Skapa en guidad landningssida](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
@@ -61,4 +57,4 @@ Blankett, möt landningssidan. Landningssida, möt formulär.
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Stäng nu bara landningssidans redigerare och [godkänn landningssidans utkast](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Stäng nu bara landningssidans redigerare och [godkänn landningssidans utkast](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
