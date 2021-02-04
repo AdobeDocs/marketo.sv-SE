@@ -3,7 +3,7 @@ unique-page-id: 7515069
 description: Förstå element och variabler i guidade mallar - Marketo Docs - Produktdokumentation
 title: Förstå element och variabler i guidade mallar
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -33,7 +33,7 @@ När du redigerar en guidad landningssida visas elementen om de har markerats so
 * ![—](assets/image2015-5-20-12-3a44-3a40.png)Marketo Sweepstakes
 * ![—](assets/image2015-5-20-12-3a47-3a45.png)Marketo-kodfragment
 
-Variabler
+## Variabler {#variables}
 
 Variabler är tokenliknande attribut som kan anpassas från den guidade redigeraren på landningssidan, som visas nedan.
 
@@ -60,5 +60,4 @@ Det finns tre typer av variabler: strängvariabler, färgvariabler och booleska 
 
 >[!MORELIKETHIS]
 >
->[Skapa en mall för guidad landningssida](create-a-guided-landing-page-template.md)
-
+>[Skapa en mall för guidad landningssida](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
