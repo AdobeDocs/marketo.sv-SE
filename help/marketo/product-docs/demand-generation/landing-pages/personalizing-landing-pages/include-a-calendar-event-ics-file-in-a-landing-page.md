@@ -3,9 +3,9 @@ unique-page-id: 2359540
 description: Inkludera en ICS-fil för kalenderhändelse på en landningssida - Marketo Docs - Produktdokumentation
 title: Inkludera en ICS-fil för kalenderhändelse på en landningssida
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,7 @@ Med en **Calendar File**-token kan du lägga till en kalender (.ics)-länk till 
 
 >[!PREREQUISITES]
 >
->* [Skapa en kalenderhändelsefil (.ics)](../../../../product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
-
->
-
+>* [Skapa en kalenderhändelsefil (.ics)](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
 
 1. Klicka på **{..}** för att infoga en token i startsidans redigerare.
@@ -33,26 +30,19 @@ Med en **Calendar File**-token kan du lägga till en kalender (.ics)-länk till 
    >
    >Följande tokens stöds inte på landningssidor:
    >
-   >    
-   >    
-   >    * member.webinar URL
+   >* member.webinar URL
 
 
    ![](assets/image2015-1-6-16-3a31-3a28.png)
 
 1. Klicka på **Spara**.
 
-   Folk kommer att se en landningssida som ser ut så här:   ![](assets/image2015-1-6-16-3a42-3a51.png)
+   Folk kommer att se en landningssida som ser ut så här:
+
+   ![](assets/image2015-1-6-16-3a42-3a51.png)
 
 Söt! Allt borde fungera bra nu. Se till att testa.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Relaterade artiklar**
->
->* [Inkludera en kalenderhändelse (.ics) i ett e-postmeddelande](../../../../product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
-
->
-
-
-
+>[Inkludera en kalenderhändelse (.ics) i ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
