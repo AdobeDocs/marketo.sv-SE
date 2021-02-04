@@ -3,7 +3,7 @@ unique-page-id: 7515616
 description: Guided Landing Page Templates - Marketo Docs - Produktdokumentation
 title: Guided Landing Page Templates
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Guided Landing Page Templates {#guided-landing-page-templates}
 
-Bläddra i vår samling med exempelmallar, som du kan använda med [redigeraren för guidad landningssida](../../../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Varje mall är helt responsiv och bygger på ramverket Bootstrap.
+Bläddra i vår samling med exempelmallar, som du kan använda med [redigeraren för guidad landningssida](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Varje mall är helt responsiv och bygger på ramverket Bootstrap.
 
 >[!NOTE]
 >
