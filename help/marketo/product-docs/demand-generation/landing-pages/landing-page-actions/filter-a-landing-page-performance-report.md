@@ -3,9 +3,9 @@ unique-page-id: 2359742
 description: Filtrera en rapport om landningssidans prestanda - Marketo Docs - Produktdokumentation
 title: Filtrera en rapport om landningssidans prestanda
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtrera en rapport om landningssidans prestanda {#filter-a-landing-page-performance-report}
 
-Fokusera din [rapport om landningssidans prestanda](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) på landningssidor i dina program (lokala resurser), på landningssidor i Design Studio (globala resurser) eller på dem som har arkiverats.
+Fokusera din [rapport om landningssidans prestanda](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) på landningssidor i dina program (lokala resurser), på landningssidor i Design Studio (globala resurser) eller på dem som har arkiverats.
 
 1. Gå till **Analytics** (eller **Marknadsföringsaktiviteter**).
 
@@ -42,10 +42,3 @@ Fokusera din [rapport om landningssidans prestanda](../../../../product-docs/dem
 1. Du är klar! Klicka på fliken **Rapport** för att visa den filtrerade rapporten.
 
    ![](assets/image2014-9-18-15-3a47-3a21.png)
-
->[!NOTE]
->
->**Djupdykning**
->
->Lär dig allt om rapporter i [grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
-
