@@ -3,9 +3,9 @@ unique-page-id: 5472283
 description: Anpassa mobilvyn för din startsida med kostnadsfria formulär - Marketo Docs - Produktdokumentation
 title: Anpassa mobilvyn för din startsida med kostnadsfria formulär
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Lägg till en mobilvy för din startsida med kostnadsfria formulär](add-a-mobile-view-for-your-free-form-landing-page.md)
-
->
-
-
+>[Lägg till en mobilvy för din startsida med kostnadsfria formulär](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
 Mobilvyn på landningssidan i friform är oftast automatisk, men du kan anpassa den. Så här gör du.
 
@@ -49,11 +45,12 @@ Som standard visas allt i skrivbordsvyn i mobilvyn.
 
 ![](assets/image2015-5-21-15-3a12-3a2.png)
 
-## Viktiga saker att veta:  {#important-things-to-know}
+## Viktiga saker att veta: {#important-things-to-know}
 
 * Bilderna utökas till bredden på den mobila enheten. Om du vill ha mindre bilder drar du in textelementet och lägger till bilden därifrån.
 * Använd endast Forms 2.0-formulär. De är responsiva och justeras automatiskt.
-* Det går bara att redigera ett mallelement, BODY#bodyid (mobil). Du kan använda det här alternativet om du vill ändra bakgrundsfärgen.\
+* Det går bara att redigera ett mallelement, BODY#bodyid (mobil). Du kan använda det här alternativet om du vill ändra bakgrundsfärgen.
+
    ![](assets/image2015-5-21-15-3a15-3a47.png)
 
 ## Dölj ett element i mobilvyn {#hide-an-element-from-the-mobile-view}
@@ -112,13 +109,6 @@ Som standard visas allt i skrivbordsvyn i mobilvyn.
 
 Ha det så roligt!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Relaterade artiklar**
->
->* [Gör en befintlig mall för landningssida i friform kompatibel](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
-
->
-
-
-
+>[Gör en befintlig mall för landningssida i friform kompatibel](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
