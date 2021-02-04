@@ -3,7 +3,7 @@ unique-page-id: 2359730
 description: Lägga till anpassad HTML på en startsida med fri form - Marketo Docs - produktdokumentation
 title: Lägga till anpassad HTML till en landningssida med valfri form
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Du kan lägga till egna skript, CSS eller annan HTML-kod på landningssidor.
 >
 >Marketo Support är inte konfigurerat för att underlätta felsökning av anpassad HTML. Kontakta en webbutvecklare om du behöver HTML-hjälp.
 
-1. Markera landningssidan och klicka på **Redigera utkast.**
+1. Markera landningssidan och klicka på **Redigera utkast**.
 
    ![](assets/image2014-9-17-12-3a2-3a15.png)
 
@@ -27,7 +27,7 @@ Du kan lägga till egna skript, CSS eller annan HTML-kod på landningssidor.
 
    ![](assets/image2015-5-21-15-3a52-3a42.png)
 
-1. Ange din egen HTML-kod och klicka på **Spara.**
+1. Ange din egen HTML-kod och klicka på **Spara**.
 
    ![](assets/image2014-9-17-12-3a3-3a39.png)
 
@@ -40,4 +40,3 @@ Snyggt! Skriv eventuella skript eller CSS där.
 >[!CAUTION]
 >
 >Om din anpassade HTML-kod inte återges (till exempel en osynlig JavaScript-funktion eller CSS) placerar du elementet på en minnesvärd plats, som i det övre vänstra hörnet. Elementets kontur syns bara när du klickar i dess område.
-
