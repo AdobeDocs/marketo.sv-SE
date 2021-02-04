@@ -3,7 +3,7 @@ unique-page-id: 2949904
 description: Testgrupper på landningssidan - Marketo Docs - Produktdokumentation
 title: Testgrupper för landningssida
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Marketo håller reda på antalet sidvisningar och formulärslutföranden på var
 
 >[!PREREQUISITES]
 >
->[Bygg två eller flera landningssidor](../../../../getting-started/quick-wins/landing-page-with-a-form.md), helst med ett formulär.
+>[Bygg två eller flera landningssidor](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md), helst med ett formulär.
 
 1. Klicka på **Nytt** i Design Studio. Välj **Ny testgrupp** i listrutan.
 
@@ -27,10 +27,8 @@ Marketo håller reda på antalet sidvisningar och formulärslutföranden på var
    >
    >Andra sätt att skapa en testgrupp är:
    >
-   >    
-   >    
-   >    * Högerklicka på en landningssida i trädet och välj **Konvertera till testgrupp**
-   >    * Skapa en testgrupp för landningssidor i ett program genom att välja **AB Test Group** på menyn **Ny lokal resurs**
+   >* Högerklicka på en landningssida i trädet och välj **Konvertera till testgrupp**
+   >* Skapa en testgrupp för landningssidor i ett program genom att välja **AB Test Group** på menyn **Ny lokal resurs**
 
 
 1. Ange ett namn och en valfri beskrivning. Markera de landningssidor som du vill testa och klicka på **Skapa**.
@@ -56,4 +54,3 @@ Marketo håller reda på antalet sidvisningar och formulärslutföranden på var
    >[!TIP]
    >
    >Om du vill ta bort testgruppen klickar du bara på **Testgruppsåtgärder** och väljer **Ta bort testgrupp**.
-
