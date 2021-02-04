@@ -3,9 +3,9 @@ unique-page-id: 4720738
 description: Redigera en Marketo Landing Page Template - Marketo Docs - Produktdokumentation
 title: Redigera en mall för landningssida för Marketo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Du kan redigera alla landningssidmallar i Marketo.
 
    ![](assets/image2015-5-21-12-3a40-3a3.png)
 
-1. Välj den **mall** som du vill redigera. Klicka på** Redigera utkast**.
+1. Välj den **mall** som du vill redigera. Klicka på **Redigera utkast**.
 
    ![](assets/image2015-5-21-12-3a37-3a54.png)
 
@@ -32,4 +32,3 @@ Du kan redigera alla landningssidmallar i Marketo.
    >[!NOTE]
    >
    >När du redigerar en mall för landningssidor skapas ett utkast av alla resurser på landningssidan med den mallen.
-
