@@ -3,9 +3,9 @@ unique-page-id: 7515401
 description: Skapa en guidad landningssidmall - Marketo Docs - Produktdokumentation
 title: Skapa en mall för guidad landningssida
 translation-type: tm+mt
-source-git-commit: 975e048271dae6a877ae9ff5d39360b159afcc8a
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '1271'
+source-wordcount: '1269'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Djupdykning:** Trött på att läsa? [Titta på den här coola ](https://youtu.be/3O7e4GdZKsM) videon med steg-för-steg-instruktioner.
+>Trött på att läsa? [Titta på den här coola ](https://youtu.be/3O7e4GdZKsM) videon med steg-för-steg-instruktioner.
 
 Mallar för guidade landningssidor har en speciell syntax. Använd den här syntaxen för att ange vad som kan anpassas och var innehållet ska hamna på varje landningssida som skapats utifrån din mall. Endast de regioner eller variabler som du anger som redigerbara kommer att vara tillgängliga för anpassning i den guidade redigeraren för landningssidor.
 
@@ -46,13 +46,13 @@ Innehållet i ett element med klassen mktoText (om sådan finns) används som st
 
 Exempel:
 
-`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
+`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div></pre>`
 
 ### Bild {#image}
 
 Det finns två alternativ för att definiera redigerbara bildelement. Du kan antingen använda en `<div>`, som anger en behållare som bilden ska infogas i, eller en `<img>`-tagg.
 
-## Alternativ 1 - Använd <div> {#option-use-a-div}
+## Alternativ 1 - Använd en `<div>` {#option-use-a-div}
 
 Attribut som krävs:
 
