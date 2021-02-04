@@ -3,9 +3,9 @@ unique-page-id: 2359530
 description: Lägg till text och token på en landningssida - Marketo Docs - Produktdokumentation
 title: Lägga till text och token på en landningssida
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ Tokens är dynamiska textbitar som kan anpassa din landningssida.
    >
    >Designern för landningssidan öppnas i ett nytt fönster.
 
-1. Dubbelklicka i textrutan där du vill lägga till variabeln.
+1. Dubbelklicka på textrutan där du vill lägga till variabeln.
 
    ![](assets/image2015-5-21-12-3a30-3a5.png)
 
@@ -73,5 +73,4 @@ Tokens är dynamiska textbitar som kan anpassa din landningssida.
 
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 
-   Uppdraget är klart! Nu har du en token på din landningssida.
-
+   Uppdraget är slutfört! Nu har du en token på din landningssida.
