@@ -3,7 +3,7 @@ unique-page-id: 2359707
 description: Lägga till en rektangel på en startsida i fri form - Marketo Docs - produktdokumentation
 title: Lägga till en rektangel på en landningssida med valfri form
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Rektanglar på landningssidor passar bra för att markera ett textområde.
 
-1. Välj en startsida för frihandslandning och klicka på **Redigera** **Utkast**.
+1. Välj en startsida för frihandslandning och klicka på **Redigera utkast**.
 
    ![](assets/image2014-9-16-14-3a50-3a51.png)
 
@@ -27,7 +27,7 @@ Rektanglar på landningssidor passar bra för att markera ett textområde.
 
    ![](assets/image2015-5-21-14-3a48-3a45.png)
 
-1. Markera rektangeln och använd **egenskapen** **Blad** för att göra nödvändiga ändringar.
+1. Markera rektangeln och använd **egenskapssidan** för att göra nödvändiga ändringar.
 
    >[!TIP]
    >
