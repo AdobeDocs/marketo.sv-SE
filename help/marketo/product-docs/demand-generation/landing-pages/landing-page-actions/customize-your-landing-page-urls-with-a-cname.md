@@ -3,9 +3,9 @@ unique-page-id: 2359746
 description: Anpassa URL:er för landningssidor med en CNAME - Marketo Docs - produktdokumentation
 title: Anpassa URL:er för landningssidor med en CNAME
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---
@@ -14,22 +14,26 @@ ht-degree: 0%
 # Anpassa URL:er för landningssidor med en CNAME {#customize-your-landing-page-urls-with-a-cname}
 
 Även om Marketo är värd för dina landningssidor kan URL:en anpassas helt. Hur det ser ut utan CNAME:
-`<pre data-theme="Confluence">http://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html</pre>` Så här ska det se ut:
-`<pre data-theme="Confluence"> http://go.YourCompany.com/UnsubscribePage.html</pre>`
+
+`http://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html`
+
+Så här ska det se ut:
+
+`http://go.YourCompany.com/UnsubscribePage.html`
 
 ## Välj en CNAME {#choose-a-cname}
 
 Välj ett ord som du vill gå till början av URL:en för dina landningssidor. Det är bara ett ord och borde vara ganska kort. Exempel:
 
-* gå. [YourCompany.com/NameOfPage.html](http://YourCompany.com/NameOfPage.html)
-* info. [YourCompany.com/NameOfPage.html](http://YourCompany.com/NameOfPage.html)
-* sidor. [YourCompany.com/NameOfPage.html](http://YourCompany.com/NameOfPage.html)
+* go.YourCompany.com/NameOfPage.html
+* info.YourCompany.com/NameOfPage.html
+* pages.YourCompany.com/NameOfPage.html
 
-Det enda ordet (plus [YourCompany.com](http://YourCompany.com)) kallas för CNAME. Du behöver det här senare så notera det.
+Det enda ordet (plus YourCompany.com) kallas för CNAME. Du behöver det här senare, så notera det.
 
 ## Hitta din kontosträng {#find-your-account-string}
 
-1. Gå till området **Admin** och klicka på **Startsidor.**
+1. Gå till området **Admin** och klicka på **Startsidor**.
 
    ![](assets/image2014-9-18-16-3a2-3a45.png)
 
@@ -47,11 +51,11 @@ Det enda ordet (plus [YourCompany.com](http://YourCompany.com)) kallas för CNAM
 
 Be din IT-personal att installera följande CNAME: (Ersätt ordet [CNAME] och [KONTOSTRING] med texten från föregående steg.)
 
-[CNAME]. [YourCompany.com](http://yourcompany.com/) >  [ACCOUNT STRING]. [mktoweb.com](http://mktoweb.com/)
+[CNAME].YourCompany.com >  [ACCOUNT STRING].mktoweb.com
 
 ## Slutför CNAME-installationen {#complete-cname-setup}
 
-1. När IT-avdelningen har skapat CNAME går du till **Admin** och klickar på **Landing** **Pages**.
+1. När IT-avdelningen har skapat CNAME går du till **Admin** och klickar på **landningssidor**.
 
    ![](assets/image2014-9-18-17-3a15-3a11.png)
 
@@ -59,7 +63,7 @@ Be din IT-personal att installera följande CNAME: (Ersätt ordet [CNAME] och [K
 
    ![](assets/image2014-9-18-17-3a15-3a18.png)
 
-1. Ange CNAME i **domän** **namn** **för** **landning** **Sidor** och ange din **reservsida** **sida**, ange din **startsida** och klicka på **Spara**.
+1. Ange ditt CNAME-konto i **Domännamn för landningssidor**, ange din **återställningssida**, ange din **startsida** och klicka på **Spara**.
 
    ![](assets/image2014-9-18-17-3a15-3a25.png)
 
