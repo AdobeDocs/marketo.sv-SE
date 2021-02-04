@@ -3,7 +3,7 @@ unique-page-id: 2359701
 description: Skapa en landningssida i fri form - Marketo Docs - Produktdokumentation
 title: Skapa en landningssida med valfri form
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Landningssidor i friform kan skapas som lokala resurser i ett program eller i De
 
 >[!NOTE]
 >
->Lägen för landningssidor definieras av deras mall. [Läs ](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) mer om mallar för frihandsritningar och guidade landningssidor.
+>Lägen för landningssidor definieras av deras mall. [Läs ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) mer om mallar för frihandsritningar och guidade landningssidor.
 
 ## Skapa en landningssida med valfri form i ett program {#create-a-free-form-landing-page-in-a-program}
 
@@ -55,11 +55,11 @@ Landningssidor i friform kan skapas som lokala resurser i ett program eller i De
 
 ## Skapa en landningssida i fri form i Design Studio {#create-a-free-form-landing-page-in-design-studio}
 
-1. Gå till **Design** **Studio**.
+1. Gå till **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Klicka på **Ny** och sedan på **Ny landningssida.**
+1. Klicka på **Ny** och **Ny landningssida**.
 
    ![](assets/image2014-9-16-13-3a0-3a43.png)
 
@@ -74,4 +74,3 @@ Landningssidor i friform kan skapas som lokala resurser i ett program eller i De
 >[!TIP]
 >
 >Avmarkera&quot;Öppna startsidans redigerare för ny sida&quot; om du inte vill att redigeraren ska öppnas omedelbart efter att du klickat på **Skapa**.
-
