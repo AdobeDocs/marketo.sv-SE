@@ -3,9 +3,9 @@ unique-page-id: 10097969
 description: Skapa en mall för landningssida i fri form - Marketo Docs - Produktdokumentation
 title: Skapa en mall för landningssida i fri form
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -46,14 +46,9 @@ För landningssidor i fri form krävs mindre teknisk kunskap än för deras styr
    >Välj **Inaktivera Munchkin-spårning** om du vill förhindra att formulär fylls i i i förväg, eller om du bara inte vill spåra webbbeteende på en viss sida.\
    >Välj **Verifiera mobilkompatibilitet** för att kontrollera att koden är kompatibel med mobila enheter.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
-   >
-   >    
-   >    
-   >    * [Skapa en landningssida med valfri form](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
-   >    * [Skapa en mall för guidad landningssida](create-a-guided-landing-page-template.md)
-   >    * [Förstå frihandssidor jämfört med sidor med guidad landning](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
-
+   >* [Skapa en landningssida med valfri form](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+   >* [Skapa en mall för guidad landningssida](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
+   >* [Förstå frihandssidor jämfört med sidor med guidad landning](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
 
