@@ -3,9 +3,9 @@ unique-page-id: 2359815
 description: Exportera en lista med personaliserade URL:er - Marketo Docs - Produktdokumentation
 title: Exportera en lista med anpassade URL:er
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -15,14 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Aktivera anpassade URL:er för ditt konto](enable-personalized-urls-for-your-account.md)
->* [Aktivera anpassade URL:er för en landningssida](enable-personalized-urls-for-a-landing-page.md)
-
->
+>* [Aktivera anpassade URL:er för ditt konto](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+>* [Aktivera anpassade URL:er för en landningssida](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
 
-
-1. Markera listan eller den smarta listan, klicka på fliken **Leads** för att få resultaten och klicka sedan på Excel-ikonen. INLINE Kontrollera att du har **Marketo-unik kod **och **Marketo-unikt namn** [synliga kolumner](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+1. Markera listan eller den smarta listan, klicka på fliken **Leads** för att få resultaten och klicka sedan på Excel-ikonen. INLINE Kontrollera att du har **Marketo Unik kod** och **Marketo Unikt namn** [kolumner synliga](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
@@ -53,4 +50,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >Om det finns leads med samma för- och efternamn läggs nummer till automatiskt så att URL:erna förblir unika.
-
