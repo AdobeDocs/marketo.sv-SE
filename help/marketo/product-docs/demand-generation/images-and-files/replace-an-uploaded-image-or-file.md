@@ -3,7 +3,7 @@ unique-page-id: 2359876
 description: Ersätta en överförd bild eller fil - Marketo Docs - Produktdokumentation
 title: Ersätta en överförd bild eller fil
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Ersätta en överförd bild eller fil {#replace-an-uploaded-image-or-file}
 
-1. Gå till **Design** **Studio**.
+1. Gå till **Design Studio**.
 
    ![](assets/designstudio-6.png)
 
-1. Klicka på **Bilder** **och** **Filer** och välj sedan den fil som du vill ersätta.
+1. Klicka på **Bilder och filer** och välj sedan den fil som du vill ersätta.
 
    ![](assets/image2014-9-16-11-3a21-3a48.png)
 
    >[!TIP]
    >
-   >Du kan också [söka efter överförda bilder eller filer](search-uploaded-images-and-files.md).
+   >Du kan också [söka efter överförda bilder eller filer](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md).
 
 1. Klicka på **Filåtgärder** och välj **Ersätt bild eller Arkiv**.
 
@@ -49,10 +49,6 @@ Du lyckades!
 
 >[!MORELIKETHIS]
 >
->* [Sök efter överförda bilder och filer](search-uploaded-images-and-files.md)
->* [Hitta URL-adressen till en överförd bild eller fil](find-the-url-of-an-uploaded-image-or-file.md)
-
->
-
-
+>* [Sök efter överförda bilder och filer](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
+>* [Hitta URL-adressen till en överförd bild eller fil](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
 
