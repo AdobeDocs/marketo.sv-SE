@@ -3,9 +3,9 @@ unique-page-id: 5472314
 description: Lägg till en länk till en bild på en landningssida i fri form - Marketo Docs - Produktdokumentation
 title: Lägga till en länk till en bild på en startsida med valfri form
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ Vill du göra en bild på landningssidan till en länk till en annan sida/plats?
 
 >[!PREREQUISITES]
 >
->* [Lägga till en bild på en landningssida med valfri form](add-an-image-to-a-free-form-landing-page.md)
-
->
-
-
+>[Lägga till en bild på en landningssida med valfri form](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
 
 1. Klicka på bilden som du vill lägga till en länk till.
 
@@ -31,23 +27,12 @@ Vill du göra en bild på landningssidan till en länk till en annan sida/plats?
 
    ![](assets/image2015-5-21-15-3a42-3a27.png)
 
-1. Kopiera eller skriv in länken i rutan **linkUrl **.
+1. Kopiera eller skriv in länken i rutan **linkUrl**.
 
    ![](assets/add-link.png)
 
-   Grattis! Du har nu lagt till en länk till en bild på landningssidan. Du kan nu [förhandsgranska sidan](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) och se hur den fungerar.
+   Grattis! Du har nu lagt till en länk till en bild på landningssidan. Du kan nu [förhandsgranska sidan](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) och se hur den fungerar.
 
 >[!TIP]
 >
 >Testa alltid sidorna!
-
->[!NOTE]
->
->**Relaterade artiklar**
->
->* [Förhandsgranska en landningssida](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
-
->
-
-
-
