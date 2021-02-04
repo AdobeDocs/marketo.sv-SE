@@ -3,9 +3,9 @@ unique-page-id: 2950799
 description: Översikt över token - Marketo Docs - Produktdokumentation
 title: Översikt över token
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Översikt över token {#tokens-overview}
 
-En token är en variabel som kan användas i Marketo [smarta kampanjflödessteg, [e-post](http://docs.marketo.com/display/DOCS/General), [landningssidor](http://docs.marketo.com/display/DOCS/Landing+Pages), [kodavsnitt](http://docs.marketo.com/display/DOCS/Segmentation+and+Snippets) och [webbkampanjer](http://docs.marketo.com/display/public/DOCS/Using+the+Web+Personalization+Rich+Text+Editor).](http://docs.marketo.com/display/DOCS/Smart+Campaigns)
+En variabel är en variabel som kan användas i Marketos smarta kampanjflödessteg, e-post, landningssidor, kodfragment och webbkampanjer.
 
 ## Standardvärden {#understanding-default-values}
 
@@ -154,9 +154,7 @@ I det här exemplet kommer e-postmeddelandet att stå &quot;Greetings, (förnamn
 ## Programtoken {#program-tokens}
 
 * `{{program.Name}}`
-
 * `{{program.Description}}`
-
 * `{{program.id}}`
 
 ## Mina token {#my-tokens}
