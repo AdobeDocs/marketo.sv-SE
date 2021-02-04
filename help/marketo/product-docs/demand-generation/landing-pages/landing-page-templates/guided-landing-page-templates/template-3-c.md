@@ -3,9 +3,9 @@ unique-page-id: 8160086
 description: Mall 3-C - Marketo Docs - Produktdokumentation
 title: Mall 3-C
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Mall 3-C {#template-c}
 
-[Ladda ned mall 3-C](http://docs.marketo.com/download/attachments/8160086/template3-c.html?version=1&amp;modificationdate=1434390549000&amp;api=v2)
+Högerklicka för att [hämta mall 3-C](http://docs.marketo.com/download/attachments/8160086/template3-c.html?version=1&amp;modificationdate=1434390549000&amp;api=v2)
 
 ![](assets/image2015-6-15-11-3a20-3a37.png)
 
@@ -27,6 +27,6 @@ Den här mallen innehåller följande innehåll:
 * Tre innehållsavsnitt (valfritt)
 * Sidfot (valfritt)
 
-**Klicka nedan om du vill hämta den här mallen:**
+**Högerklicka nedan om du vill hämta den här mallen:**
 
 [Template3-C.html](http://docs.marketo.com/download/attachments/8160086/template3-c.html?version=1&amp;modificationdate=1434390549000&amp;api=v2)
