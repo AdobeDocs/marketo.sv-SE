@@ -3,7 +3,7 @@ unique-page-id: 2359862
 description: Sök efter överförda bilder och filer - Marketo Docs - Produktdokumentation
 title: Sök efter överförda bilder och filer
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -29,16 +29,12 @@ I Marketo är det enkelt att hitta bilder och filer.
 
 >[!TIP]
 >
->Om du vill starta en ny sökning klickar du på **x** i rutan **Snabb** **Sök**.
+>Om du vill starta en ny sökning klickar du på **x** i rutan **Snabbsökning**.
 
-Sparka upp fötterna - du är klar!
+Sparka upp fötterna, du är klar!
 
 >[!MORELIKETHIS]
 >
->* [Ersätta en överförd bild eller fil](replace-an-uploaded-image-or-file.md)
->* [Ordna dina bilder och filer med hjälp av mappar](organize-your-images-and-files-using-folders.md)
-
->
-
-
+>* [Ersätta en överförd bild eller fil](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
+>* [Ordna dina bilder och filer med hjälp av mappar](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
 
