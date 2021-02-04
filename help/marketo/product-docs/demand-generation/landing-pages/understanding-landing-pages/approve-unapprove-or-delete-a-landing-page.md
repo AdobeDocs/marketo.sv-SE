@@ -3,9 +3,9 @@ unique-page-id: 2359710
 description: Godkänn, Avgodkänn eller Ta bort en landningssida - Marketo Docs - Produktdokumentation
 title: Godkänn, Avgodkänn eller Ta bort en landningssida
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Landningssidor är i utkastläge tills du godkänner dem. Godkännande gör sido
 
    >[!TIP]
    >
-   >Du kan [godkänna flera sidor samtidigt](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) för att göra livet enklare.
+   >Du kan [godkänna flera sidor samtidigt](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) för att göra livet enklare.
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 
@@ -31,12 +31,10 @@ Landningssidor är i utkastläge tills du godkänner dem. Godkännande gör sido
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
-   >
    >När landningssidans ikon har godkänts är den grön.
 
-1. Avgodkänna en landningssida
+## Avgodkänn en landningssida {#unapprove-a-landing-page}
+
 1. Välj en landningssida, gå till **Åtgärder för landningssida** och klicka på **Ogodkänd**.
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
@@ -47,7 +45,7 @@ Landningssidor är i utkastläge tills du godkänner dem. Godkännande gör sido
 
 >[!NOTE]
 >
->Den ej godkända landningssidan publiceras inte längre på webben och genererar ingen ytterligare aktivitet. Besökare på icke godkända landningssidor och deras Facebook-flikar ser [återställningssidan](../../../../product-docs/administration/settings/set-a-fallback-page.md).
+>Den ej godkända landningssidan publiceras inte längre på webben och genererar ingen ytterligare aktivitet. Besökare på icke godkända landningssidor och deras Facebook-flikar ser [återställningssidan](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
 
 ## Ta bort en landningssida {#delete-a-landing-page}
 
