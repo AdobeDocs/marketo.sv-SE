@@ -3,9 +3,9 @@ unique-page-id: 7515207
 description: Understanding Free-form vs Guided Landing Pages - Marketo Docs - Product Documentation
 title: Förstå frihandssidor jämfört med sidor med guidad landning
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Förstå frihandssidor jämfört med sidor med guidad landning {#understanding-free-form-vs-guided-landing-pages}
 
-Den mall du väljer avgör vilket redigeringsläge för landningssidor du kommer att arbeta i. Det finns två möjliga sökvägar: [friform](http://docs.marketo.com/display/docs/free-form+landing+pages) och [guidad](http://docs.marketo.com/display/docs/guided+landing+pages). Här nedan hittar du en kort sammanfattning av de viktiga skillnaderna.
+Den mall du väljer avgör vilket redigeringsläge för landningssidor du kommer att arbeta i. Det finns två möjliga sökvägar: [friform](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) och [guidad](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Här nedan hittar du en kort sammanfattning av de viktiga skillnaderna.
 
 ## Frihandssidor {#free-form-pages}
 
@@ -33,13 +33,3 @@ Den mall du väljer avgör vilket redigeringsläge för landningssidor du kommer
 * Används bäst om du har kodat eller köpt responsiva mallar eller vill ändra en fördefinierad Marketo-mall.
 
 ![](assets/two-1.png)
-
->[!MORELIKETHIS]
->
->* [Landningssidor i fri form](http://docs.marketo.com/display/public/DOCS/Free-Form+Landing+Pages)
->* [Guidade landningssidor](http://docs.marketo.com/display/DOCS/Guided+Landing+Pages)
-
->
-
-
-
