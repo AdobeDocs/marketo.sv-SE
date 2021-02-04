@@ -3,19 +3,15 @@ unique-page-id: 5472348
 description: Gör en befintlig mall för landningssida i friform kompatibel - Marketo Docs - Produktdokumentation
 title: Gör en befintlig mall för landningssida i friform kompatibel
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
 
 
 # Gör en befintlig mall för landningssida i friform kompatibel {#make-an-existing-free-form-landing-page-template-mobile-compatible}
-
->[!NOTE]
->
->Mallar för landningssidor som skapades före [januariversionen 2015](../../../../release-notes/2015/release-notes-january-2015.md)måste uppgraderas för att vara mobilkompatibla.
 
 Det kan du göra på två ställen: mallredigeraren och redigeraren för landningssidor.
 
@@ -57,7 +53,9 @@ Det kan du göra på två ställen: mallredigeraren och redigeraren för landnin
 
 Fantastiska frågor! Mallen måste ha följande taggar:
 
-`<pre data-theme="Confluence">Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV></pre>`  Om allt ser bra ut ser du det här meddelandet.
+`<pre data-theme="Confluence">Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV></pre>`
+
+Om allt ser bra ut ser du det här meddelandet.
 
 ![](assets/image2015-1-22-20-3a41-3a31.png)
 
@@ -83,13 +81,4 @@ När du redigerar en landningssida och klickar på mobilfliken, kommer du ibland
    >
    >När du aktiverar mobilversionen av en mall skapas utkast för alla landningssidor som använder den.
 
-Häftig! Du kan nu [anpassa mobilvyn](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) för alla dina landningssidor som använder den här mallen.
-
->[!MORELIKETHIS]
->
->* [Anpassa mobilvyn för din startsida med kostnadsfria formulär](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
-
->
-
-
-
+Häftig! Du kan nu [anpassa mobilvyn](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) för alla dina landningssidor som använder den här mallen.
