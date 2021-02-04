@@ -3,9 +3,9 @@ unique-page-id: 2359801
 description: Använda URL Builder - Marketo Docs - Produktdokumentation
 title: Använda URL Builder
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Med URL Builder kan du skapa URL:er som kan fylla i dolda formulärfält i Marke
 
 >[!PREREQUISITES]
 >
->Lär dig hur du skapar dolda fält i formulär och redigerar deras inställningar i [Ange ett formulärfält som dolt](../../../../product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md).
+>Lär dig hur du skapar dolda fält i formulär och redigerar deras inställningar i [Ange ett formulärfält som dolt](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md).
 
 1. Välj en landningssida, klicka på **Landing Page Actions**, hovra över **URL Tools** och klicka sedan på **URL Builder**.
 
@@ -29,6 +29,6 @@ Med URL Builder kan du skapa URL:er som kan fylla i dolda formulärfält i Marke
 
    >[!NOTE]
    >
-   >Om du inte ser några fält som är tillgängliga i verktyget kontrollerar du att formuläret har dolda fält och att de är [inställda på att acceptera URL-parametrar](http://docs.marketo.com/display/DOCS/Set+a+Hidden+Form+Field+Value#SetaHiddenFormFieldValue-URLParameter).
+   >Om du inte ser några fält som är tillgängliga i verktyget kontrollerar du att formuläret har dolda fält och att de är [inställda på att acceptera URL-parametrar](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter).
 
 Bra jobbat! Nu kan du kopiera och klistra in URL-adressen och använda den på webben.
