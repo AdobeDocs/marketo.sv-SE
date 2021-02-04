@@ -3,7 +3,7 @@ unique-page-id: 2953038
 description: Klona en testgrupp för landningssidor - Marketo Docs - Produktdokumentation
 title: Klona en testgrupp för en landningssida
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -35,7 +35,7 @@ I Design Studio kan du söka efter och duplicera en testgrupp för landningssido
 
    ![](assets/image2015-4-27-16-3a3-3a22.png)
 
-1. När du är klar klickar du på **Skapa.**
+1. När du är klar klickar du på **Skapa**.
 
    ![](assets/image2015-4-27-16-3a7-3a50.png)
 
@@ -44,4 +44,3 @@ I Design Studio kan du söka efter och duplicera en testgrupp för landningssido
    ![](assets/image2015-4-27-16-3a19-3a10.png)
 
    Gruppen kommer nu att aktivt följa upp besök och ifyllningar av formulär så att du kan se vilken landningssida som fungerar bäst.
-
