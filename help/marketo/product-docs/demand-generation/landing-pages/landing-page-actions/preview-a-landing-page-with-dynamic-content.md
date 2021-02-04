@@ -3,7 +3,7 @@ unique-page-id: 2359734
 description: Förhandsgranska en landningssida med dynamiskt innehåll - Marketo Docs - produktdokumentation
 title: Förhandsgranska en landningssida med dynamiskt innehåll
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
@@ -17,14 +17,11 @@ Förhandsgranska landningssidan när du har lagt till dynamiskt innehåll för a
 
 >[!PREREQUISITES]
 >
->* [Använd dynamiskt innehåll på en landningssida](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
->* [Förhandsgranska en landningssida](preview-a-landing-page.md)
-
->
+>* [Använd dynamiskt innehåll på en landningssida](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
+>* [Förhandsgranska en landningssida](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
 
 
-
-1. Välj en landningssida och klicka på **Förhandsgranska sida.**
+1. Välj en landningssida och klicka på **Förhandsgranska sida**.
 
    ![](assets/image2014-9-17-16-3a9-3a55.png)
 
