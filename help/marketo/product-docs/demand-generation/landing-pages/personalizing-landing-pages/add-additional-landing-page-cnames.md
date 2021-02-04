@@ -3,9 +3,9 @@ unique-page-id: 2359798
 description: Lägg till fler CNAME-filer för landningssida - Marketo Docs - Produktdokumentation
 title: Lägg till ytterligare CNAME för landningssida
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,9 @@ Du kanske vill lägga till CNAME för landningssidor så att olika URL:er kan pe
 
 >[!TIP]
 >
->**Samma toppnivådomän - bra! Cookies är delade.go**.mincompany.com > **info**.mincompany.com **Andra toppnivådomäner - Dåliga! Cookies delas inte.**
->gå.**mycompany**.com > go.**mynewcompany**.com
+>**Samma toppnivådomän - bra! Cookies delas**.<br/> **go**.mycompany.com >  **info**.mycompany.com
+>
+>**Olika toppnivådomäner - Felaktiga! Cookies är _inte_ delade**.<br/> gå.**mycompany**.com > go.**mynewcompany**.com
 
 >[!NOTE]
 >
