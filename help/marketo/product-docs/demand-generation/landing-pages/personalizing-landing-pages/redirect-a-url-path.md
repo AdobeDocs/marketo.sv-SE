@@ -3,9 +3,9 @@ unique-page-id: 2359826
 description: Omdirigera en URL-sökväg - Marketo Docs - Produktdokumentation
 title: Omdirigera en URL-sökväg
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Marketo gör det enkelt att omdirigera en URL-sökväg till en sida som du välj
 >
 >**Administratörsbehörigheter krävs**
 
-1. Under **Admin,** klickar du på **landningssidor**.
+1. Under **Admin** klickar du på **Startsidor**.
 
    ![](assets/image2014-9-18-13-3a43-3a29.png)
 
-1. Klicka på fliken **Regler** och klicka sedan på **Nytt **och **Ny omdirigeringsregel**.
+1. Klicka på fliken **Regler** och sedan på **Nytt** och **Ny omdirigeringsregel**.
 
    ![](assets/image2014-9-18-13-3a43-3a40.png)
 
@@ -33,10 +33,7 @@ Marketo gör det enkelt att omdirigera en URL-sökväg till en sida som du välj
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
-   >
-   >Kom ihåg att du bara kan omdirigera URL:er som börjar med din Marketo [CNAME](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
+   >Kom ihåg att du bara kan omdirigera URL:er som börjar med din Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
 1. Skriv URL-sökvägen (eller den specifika sidan) som du vill omdirigera i det andra fältet **Ursprunglig URL** till höger.
 
@@ -46,15 +43,10 @@ Marketo gör det enkelt att omdirigera en URL-sökväg till en sida som du välj
 
    ![](assets/image2014-9-18-13-3a44-3a7.png)
 
-   Du kan [använda Marketo för landningssidor](https://docs.marketo.com/x/vAEk) som mål.
+   Du kan [använda Marketo för landningssidor](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md) som mål.
 
-Grattis!  URL-sökvägen har omdirigerats.
+Grattis! URL-sökvägen har omdirigerats.
 
 >[!MORELIKETHIS]
 >
->* [Dirigera om en markering till landningssida till en annan sida](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
-
->
-
-
-
+>[Dirigera om en markering till landningssida till en annan sida](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
