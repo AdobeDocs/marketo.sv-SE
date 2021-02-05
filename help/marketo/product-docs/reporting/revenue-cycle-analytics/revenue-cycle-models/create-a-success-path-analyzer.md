@@ -3,9 +3,9 @@ unique-page-id: 2360411
 description: Skapa en Success Path Analyzer - Marketo Docs - Produktdokumentation
 title: Skapa en lyckad sökvägsanalys
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ Nu kan du utforska hur du rör dig mellan scenerna!
 >
 >Vill du spara din rapport? Klicka på listrutan **Analysåtgärder** och välj **Spara som**.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Använda sökvägsanalysen](using-the-success-path-analyzer.md)
 
