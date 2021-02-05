@@ -3,9 +3,9 @@ unique-page-id: 7503973
 description: Anpassa en presentation - Marketo Docs - Produktdokumentation
 title: Anpassa en presentation
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Ställ in kalenderpresentationen så att den återspeglar de mål och aktiviteter som är viktiga för ditt team.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Tillgänglighet**
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
