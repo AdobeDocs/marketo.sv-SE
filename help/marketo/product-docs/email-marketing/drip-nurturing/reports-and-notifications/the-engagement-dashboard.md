@@ -3,9 +3,9 @@ unique-page-id: 2359685
 description: The Engagement Dashboard - Marketo Docs - produktdokumentation
 title: Instrumentpanelen för engagemang
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Instrumentpanelen för engagemang {#the-engagement-dashboard}
 
-Engagement Dashboard är det enklaste sättet att se hur innehållet i [engagemangsprogrammen](http://docs.marketo.com/display/docs/drip+nurturing) fungerar.
+Engagement Dashboard är det enklaste sättet att se hur innehållet i ert engagemangsprogram fungerar.
 
 >[!NOTE]
 >
->Förlovningsresultatet beräknas 72 timmar efter varje sändning. Läs mer om [engagemangspoängen](understanding-the-engagement-score.md).
+>Förlovningsresultatet beräknas 72 timmar efter varje sändning. Läs mer om [engagemangspoängen](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 ## Visa instrumentpanelen för engagemang {#view-the-engagement-dashboard}
 
-Välj ditt engagemangsprogram och klicka på **Visa > Kontrollpanel**.
+Välj ditt engagemangsprogram och klicka på **Visa** > **Kontrollpanel**.
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
 >[!TIP]
 >
->Mer detaljerad statistik finns i [rapporten om hur engagemangsströmmen fungerar](engagement-stream-performance-report.md).
+>Mer detaljerad statistik finns i [rapporten om hur engagemangsströmmen fungerar](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md).
 
 ## Förstå utgiftswidgeten {#understand-the-exhaustion-widget}
 
@@ -47,9 +47,7 @@ Med den här widgeten kan du förutse när leads har fyllt allt innehåll. Utmat
 
 Visar den genomsnittliga engagemangspoängen över tid och effekten av innehållsredigeringar.
 
->[!NOTE]
->
->**Tillgänglighet**
+>[!AVAILABILITY]
 >
 >Den här funktionen är tillgänglig som ett tillägg för kunder som använder Marketos intäktscykel Explorer. Kontakta din Customer Success Manager om du vill ha mer information.
 
@@ -69,11 +67,8 @@ Om du vill ändra sorteringen klickar du på kugghjulsikonen och väljer sedan s
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-** Newestand  ** Oldestare baseras på tidpunkten för det senaste godkännandet.
+__ Newestand  __ Oldestare baseras på tidpunkten för det senaste godkännandet.
 
 >[!NOTE]
 >
->**Djupdykning**
->
->Läs mer i [Create an Engagement Program](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) deep dive.
-
+>Läs mer i [Create an Engagement Program](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) deep dive.
