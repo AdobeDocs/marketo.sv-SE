@@ -3,9 +3,9 @@ unique-page-id: 2359947
 description: Överför personer mellan engagemangsströmmar - Marketo Docs - Produktdokumentation
 title: Överför personer mellan engagemangsströmmar
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Överför personer mellan engagemangsströmmar {#transition-people-between-engagement-streams}
 
-Engagement-program kan ha fler än en ström. Om du [lägger till en ström](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md) måste du definiera ett sätt för personer att flytta från en ström till en annan. Dessa kallas **övergångsregler.**
+Engagement-program kan ha fler än en ström. Om du [lägger till en ström](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md) måste du definiera ett sätt för personer att flytta från en ström till en annan. Dessa kallas **övergångsregler.**
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
@@ -23,7 +23,7 @@ Engagement-program kan ha fler än en ström. Om du [lägger till en ström](../
 
    ![](assets/multistream.jpg)
 
-1. Klicka på **Övergångsregler** för den ström du vill hämta från andra strömmar och klicka sedan på **Redigera övergångsregler. **
+1. Klicka på **Övergångsregler** för den ström du vill hämta från andra strömmar och klicka sedan på **Redigera övergångsregler**.
 
    ![](assets/image2014-9-15-18-3a10-3a18.png)
 
@@ -32,15 +32,12 @@ Engagement-program kan ha fler än en ström. Om du [lägger till en ström](../
    >Övergångsregler dras in i en ström. definierar alltid reglerna för den ström som du vill hämta till.
 
    När fönstret med övergångsregeln öppnas kan du söka efter och dra i valfri utlösare. I det här fallet vill vi flytta personer till Mid Stage när det läggs till i en affärsmöjlighet.
-` ![](assets/image2014-9-15-18-3a10-3a46.png)
 
-   `
+   ![](assets/image2014-9-15-18-3a10-3a46.png)
 
-1. Låt oss ställa in operatorn på** är vilket** som helst, så att personerna kan gå över för nya möjligheter.
+1. Låt oss ställa in operatorn på **är valfri** så att personerna flyttar över för varje tillagd möjlighet.
 
-   ` ![](assets/image2014-9-15-18-3a11-3a14.png)
-
-   `
+   ![](assets/image2014-9-15-18-3a11-3a14.png)
 
    >[!TIP]
    >
@@ -52,11 +49,8 @@ Engagement-program kan ha fler än en ström. Om du [lägger till en ström](../
 
    Bra! Nu kommer alla personer i ditt engagemangsprogram som läggs till i en affärsmöjlighet att flyttas till Mid Stage-strömmen.
 
-   ` ![](assets/image2014-9-15-18-3a11-3a29.png)
-
-   `
+   ![](assets/image2014-9-15-18-3a11-3a29.png)
 
    >[!NOTE]
    >
-   >Stegen ovan *do* gäller även personer som är [på paus](http://docs.marketo.com/display/DOCS/Pause+People+in+an+Engagement+Program).
-
+   >Stegen ovan *do* gäller även personer som är [på paus](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md).
