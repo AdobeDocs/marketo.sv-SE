@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: Installera Marketo Email-tillägget för Outlook med en registreringskod - Marketo Docs - Produktdokumentation
 title: Installera Marketo-e-posttillägget för Outlook med en registreringskod
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '388'
 ht-degree: 0%
 
 ---
@@ -103,9 +103,7 @@ Om du inte har fått någon inbjudan via e-post ber du Marketo-administratören 
 
 Läs mer om hur du använder åtgärderna Marketo Message och Log With Marketo.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Skicka och spåra ett e-postmeddelande med tillägget Marketo Email för Outlook](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [Skicka och spåra från Outlook med en Marketo-mall](send-and-track-from-outlook-using-a-marketo-template.md)
