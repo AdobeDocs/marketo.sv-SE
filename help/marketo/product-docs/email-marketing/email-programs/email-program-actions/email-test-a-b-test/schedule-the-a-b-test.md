@@ -3,9 +3,9 @@ unique-page-id: 2359547
 description: Schemalägg A/B-testet - Marketo Docs - produktdokumentation
 title: Schemalägg A/B-testet
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,8 @@ När du har lagt till ett A/B-test i ett e-postprogram och definierat vinnarkrit
 
    Om du redan har definierat målgruppen och valt ett e-postmeddelande är det enda steget kvar att godkänna programmet.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
    >
    >    
    >    
