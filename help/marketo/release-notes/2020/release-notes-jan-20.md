@@ -3,9 +3,9 @@ unique-page-id: 37355534
 description: Versionsinformation - jan 2020 - Marketo Docs - produktdokumentation
 title: Versionsinformation - jan 2020
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '847'
+source-wordcount: '846'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Följande funktioner finns i jan 20. Se om din Marketo-utgåva har funktioner tillgängliga.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Tillgänglighet**
 >
 >Funktioner som anges av en stjärna ( ![(stjärna)](assets/star-yellow.svg)) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
 
