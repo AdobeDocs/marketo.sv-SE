@@ -3,9 +3,9 @@ unique-page-id: 2359659
 description: Lägg till innehåll i en ström - Marketo Docs - Produktdokumentation
 title: Lägg till innehåll i en ström
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -85,9 +85,6 @@ När ni väl har skapat ert engagemangsprogram måste ni lägga till innehåll i
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
-   >
    >Den smarta kampanjen måste ha filtret **Member of Engagement Program** för att den ska fungera korrekt.
 
 **Strömma + ikon**
@@ -118,9 +115,4 @@ Bra jobbat! Nu kan du lägga till innehåll i programströmmar på olika sätt. 
 
 >[!MORELIKETHIS]
 >
->* [Lägga till ett program i en Engagement Program Stream](adding-a-program-to-an-engagement-program-stream.md)
-
->
-
-
-
+>[Lägga till ett program i en Engagement Program Stream](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
