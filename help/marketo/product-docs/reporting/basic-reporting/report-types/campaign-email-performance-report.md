@@ -3,9 +3,9 @@ unique-page-id: 2360188
 description: Resultatrapport för e-postkampanj - Marketo Docs - Produktdokumentation
 title: Resultatrapport för e-postkampanj
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,8 @@ Kör en rapport om prestanda för e-postkampanjer om du vill se din e-poststatus
    >
    >I allmänhet försöker vi använda sunt förnuft för att registrera denna statistik. Om någon till exempel klickade på en länk i ett e-postmeddelande så öppnades den tydligt först. Mer information om de specifika regler vi följer finns i [E-postprestandarapport](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
    >
    >    
    >    
