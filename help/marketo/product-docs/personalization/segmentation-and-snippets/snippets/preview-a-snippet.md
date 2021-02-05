@@ -3,9 +3,9 @@ unique-page-id: 2359498
 description: Förhandsgranska ett fragment - Marketo Docs - Produktdokumentation
 title: Förhandsgranska ett kodavsnitt
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ Kodavsnitt är block med dynamiskt innehåll som ändras baserat på segmenterin
 
 Förhandsgranskning är bra för att säkerställa att innehållet ser bra ut för varje segment.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Godkänn ett fragment](approve-a-snippet.md)
 
