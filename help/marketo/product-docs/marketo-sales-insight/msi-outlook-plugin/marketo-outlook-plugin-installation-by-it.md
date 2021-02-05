@@ -3,9 +3,9 @@ unique-page-id: 11382815
 description: Marketo Outlook Plugin Installation by IT - Marketo Docs - Produktdokumentation
 title: Marketo Outlook Plugin-installation av IT
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ Om du vill ange en plats för loggfilerna kan du ange filsökvägen på kommando
 
 Se [Microsofts fullständiga lista över växlar](https://support.microsoft.com/en-us/kb/227091) om du vill prova olika loggningsnivåer eller användargränssnittsnivåer.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >[Marketo Outlook Plugin - avinstallation av IT](marketo-outlook-plugin-uninstall-by-it.md)
 
