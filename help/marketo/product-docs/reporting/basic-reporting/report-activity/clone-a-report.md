@@ -3,9 +3,9 @@ unique-page-id: 2360028
 description: Klona en rapport - Marketo Docs - Produktdokumentation
 title: Klona en rapport
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,8 @@ Skapa en dubblett av rapporten för att anpassa den ytterligare utan att ändra 
 
    Nu är du redo att börja anpassa klonen!
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
    >
    >    
    >    
