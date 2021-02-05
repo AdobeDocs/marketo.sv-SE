@@ -3,9 +3,9 @@ unique-page-id: 7504120
 description: Starta en presentation - Marketo Docs - Produktdokumentation
 title: Starta en presentation
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 När du har angett vyer och rotationsfrekvens för presentationen är det dags att dra igång!
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Tillgänglighet**
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
