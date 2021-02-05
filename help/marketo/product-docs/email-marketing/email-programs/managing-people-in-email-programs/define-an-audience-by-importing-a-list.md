@@ -3,9 +3,9 @@ unique-page-id: 1900597
 description: Definiera en målgrupp genom att importera en lista - Marketo Docs - Produktdokumentation
 title: Definiera en publik genom att importera en lista
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
@@ -78,9 +78,7 @@ Klicka på numret om du vill se en detaljerad lista över personer som blockerat
 
 Fantastisk! Nu är det dags att välja ett befintligt e-postmeddelande eller att skapa ett nytt e-postmeddelande som ska skickas till dessa personer.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Välj en befintlig e-postadress](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
 >* [Skapa ett e-postmeddelande för ett e-postprogram](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
