@@ -3,9 +3,9 @@ unique-page-id: 2360405
 description: Skapa en analysrapport för programmedlemskap som listar leads - Marketo Docs - produktdokumentation
 title: Skapa en analysrapport för programmedlemskap som listar leads
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Följ de här stegen för att skapa en analysrapport för programmedlemskap som visar alla namn på programmedlemmar.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Tillgänglighet**
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
