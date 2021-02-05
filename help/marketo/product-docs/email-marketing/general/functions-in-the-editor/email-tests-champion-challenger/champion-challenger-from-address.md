@@ -3,9 +3,9 @@ unique-page-id: 2359559
 description: Champion/Challenger -From Address - Marketo Docs - produktdokumentation
 title: Champion/Challenger - Från adress
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,8 @@ Vill du prova en annan från-adress utan problem? Så här gör du.
 
    Förlopp! Låt oss fortsätta med det.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
    >
    >    
    >    
