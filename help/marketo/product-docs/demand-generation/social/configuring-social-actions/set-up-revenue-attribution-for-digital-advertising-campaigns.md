@@ -3,9 +3,9 @@ unique-page-id: 10098812
 description: Ställ in intäktsattribuering för digitala annonskampanjer - Marketo Docs - Produktdokumentation
 title: Ställ in intäktsattribuering för digitala annonskampanjer
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '835'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,6 @@ Med separata program kan ni sedan spåra antalet konverteringar från var och en
 >* Skapa eller redigera ett formulär för att skicka en frågesträng via personen
 >* Se till att ni har tillgång till vissa funktioner i IntäktsCycle Analytics för att rapportera om era annonskanaler och kampanjer
 
->
-
-
 
 ## Skapa ett standardprogram {#create-a-default-program}
 
@@ -41,7 +38,7 @@ Till skillnad från vissa program (till exempel e-post) som kan köras regelbund
 
    ![](assets/image2016-3-14-15-52-0.png)
 
-1. Om du redan har ett program kan du [klona det](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
+1. Om du redan har ett program kan du [klona det](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
 
    >[!TIP]
    >
@@ -53,15 +50,11 @@ Till skillnad från vissa program (till exempel e-post) som kan köras regelbund
    >
    >**Exempel**
    >
-   >
    >En frågesträng som skickas via URL:en hjälper Marketo att veta vilken annonskampanj någon klickade på när de blev en person i Marketo.
-   >
    >
    >Du kan skapa en frågesträngsmetod som innehåller alla variabler som du vill mäta. Marketo använder dessa variabler för att lägga till personer i olika program.
    >
-   >
    >Du kan till exempel använda kanaltypen Kanal_Kanal_Resurs_Region. Det kan se ut så här: SP_FB_NewGuide_US. **Obs**: förkortningar sparar utrymme.
-   >
    >
    >Du kan också ange det som Channel_Adsource_AssetName_Region_UniqueIdNumber. Det kan se ut så här: Social-Paid_Facebook_NewGuide_NA_123.
 
@@ -95,7 +88,7 @@ Ni behöver en andra smart kampanj för att ändra personernas status, så att d
 
    >[!NOTE]
    >
-   >I exemplet ovan visas **Converted, **men detta beror på din status/dina framgångsvärden.
+   >I exemplet ovan visas **Konverterad**, men detta beror på dina status/framgångsvärden.
 
 1. Schemalägg och aktivera kampanjen.
 
@@ -112,21 +105,16 @@ Skapa den nya annonsen när du har konfigurerat programmet och kampanjerna.
    >
    >**Exempel**
    >
-   >
    >Så här kan du lägga till all information som du har angett i en faktisk URL-adress. Objekten avgränsas med ett et-tecken (&amp;):
    >
+   >`www.marketo.com?**source**=Social-Paid&**comment**=Social-Paid_Facebook_NewGuide_NA&**camp**=abc&**kk=**xyz`
    >
-   >[www.marketo.com?**source**=Social-Paid&amp;**comment**=Social-Paid_Facebook_NewGuide_NA&amp;**camp**=abc&amp;**kk=**xyz](http://www.marketo.com?source=Social-Paid&amp;comment=Social-Paid_Facebook_NewGUide_NA&amp;camp=abc&amp;kk+xyz)
-   >
-   >    
-   >    
-   >    * **källa är den** personkälla som används som kanalidentifierare
-   >    * **kommenterar den unika** identifieraren som skapas för varje program
-   >    * **Campis** the campaign in Facebook, LinkedIn, or Google
-   >    * **är** nyckelordet eller resursnamnet som du vill hämta
+   >* **källa är den** personkälla som används som kanalidentifierare
+   >* **kommenterar den unika** identifieraren som skapas för varje program
+   >* **Campis** the campaign in Facebook, LinkedIn, or Google
+   >* **är** nyckelordet eller resursnamnet som du vill hämta
 
-   >    
-   >    
+   >
    >**De här fyra termerna måste vara gemena och det får inte finnas några blanksteg i URL:en för att informationen ska kunna hämtas.**
 
 ## Bästa praxis {#best-practices}
