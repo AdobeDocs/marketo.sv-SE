@@ -3,9 +3,9 @@ unique-page-id: 2359777
 description: Granska offerter i omröstning - Marketo Docs - Produktdokumentation
 title: Granska rösterna i omröstningen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -27,10 +27,6 @@ Vem röstade på vad i din omröstning? Låt oss ta reda på det.
 
    ![](assets/image2015-5-12-14-3a37-3a24.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
-   >
-   >
-   >Läs mer om apparnas sociala räckvidd och påverkan i [Visa sociala prestanda](../../../../product-docs/demand-generation/social/social-functions/view-social-performance.md).
-
+   >Läs mer om apparnas sociala räckvidd och påverkan i [Visa sociala prestanda](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
