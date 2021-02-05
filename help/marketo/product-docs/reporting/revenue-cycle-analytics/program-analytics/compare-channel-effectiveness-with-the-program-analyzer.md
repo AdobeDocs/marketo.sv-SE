@@ -3,9 +3,9 @@ unique-page-id: 2360401
 description: Jämför kanaleffektivitet med Program Analyzer - Marketo Docs - Produktdokumentation
 title: Jämför kanaleffektiviteten med programanalysen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -82,9 +82,7 @@ I vårt exempel ser vi att Tradeshow-kanalen både är den mest dyra (längst ti
 >
 >Exemplen i dessa steg mäter effektiviteten utifrån den pipeline som skapats. Använd listrutan Y-axel för att välja andra sätt att mäta kanalens effektivitet, t.ex. nya namn, medlemmar, kostnad per lyckad åtgärd osv.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Utforska program- och kanalinformation med Program Analyzer](explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [Jämför programeffektiviteten med programanalysen](compare-program-effectiveness-with-the-program-analyzer.md)
