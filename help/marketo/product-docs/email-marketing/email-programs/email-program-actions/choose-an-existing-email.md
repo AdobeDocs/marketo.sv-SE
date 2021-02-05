@@ -3,9 +3,9 @@ unique-page-id: 2359451
 description: Välj en befintlig e-postadress - Marketo Docs - Produktdokumentation
 title: Välj en befintlig e-postadress
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ När du har [skapat ett e-postprogram](../../../../product-docs/email-marketing/
 
 Nu när vi har bestämt vilka e-postmeddelanden vi ska skicka kan vi konfigurera ett A/B-test eller hoppa över det och schemalägga e-postprogrammet.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Lägg till ett A/B-test](email-test-a-b-test/add-an-a-b-test.md)
 >* [Schemalägg ditt e-postprogram](schedule-your-email-program.md)
