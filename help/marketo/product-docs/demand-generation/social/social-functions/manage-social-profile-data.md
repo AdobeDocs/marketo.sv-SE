@@ -3,9 +3,9 @@ unique-page-id: 2950578
 description: Hantera data i sociala profiler - Marketo Docs - Produktdokumentation
 title: Hantera data för social profil
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,11 @@ ht-degree: 0%
 
 # Hantera data för social profil {#manage-social-profile-data}
 
-När någon interagerar med en Marketo [social app](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md), eller auktoriserar sitt sociala nätverk att förifylla ett Marketo-formulär med [ifyllnad av sociala formulär](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), hämtar Marketo alla data som är tillgängliga från deras sociala profil. Du kan visa den här informationen på [personinformationssidan](http://docs.marketo.com/display/DOCS/Using+the+Person+Detail+Page), eller lägga till den som en kolumn i en [anpassad vy av en smart lista](http://docs.marketo.com/display/DOCS/Create+and+Change+Views+for+Lists+and+Smart+List).
+När någon interagerar med en Marketo [social app](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md), eller auktoriserar sitt sociala nätverk att förifylla ett Marketo-formulär med [ifyllnad av sociala formulär](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), hämtar Marketo alla data som är tillgängliga från deras sociala profil. Du kan visa den här informationen på [personinformationssidan](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md), eller lägga till den som en kolumn i en [anpassad vy av en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
 Social formulärfyllning och sociala appar fångar upp lite olika fältuppsättningar, se respektive avsnitt nedan.
 
->[!NOTE]
->
->**Tillgänglighet**
+>[!AVAILABILITY]
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
@@ -58,7 +56,7 @@ Beroende på nätverkets och användarens sekretessinställningar hämtas ett el
 
 >[!CAUTION]
 >
->Data som hämtas av ifyllnad för sociala formulär skriver över matchande fält såvida du inte [blockerar uppdateringar av dessa fält på formulärnivå](../../../../product-docs/administration/field-management/block-updates-to-a-field.md).
+>Data som hämtas av ifyllnad för sociala formulär skriver över matchande fält såvida du inte [blockerar uppdateringar av dessa fält på formulärnivå](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md).
 
 ## Från Twitter: {#from-twitter-1}
 
@@ -77,15 +75,8 @@ Beroende på nätverkets och användarens sekretessinställningar hämtas ett el
 
 >[!NOTE]
 >
->Ifyllning av sociala formulär hämtar endast e-postadressen *om personen skriver in den i formuläret.* Om du behöver e-postadressen ska du [göra den till ett obligatoriskt fält i formuläret](../../../../product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
+>Ifyllning av sociala formulär hämtar endast e-postadressen _om personen skriver in den i formuläret._ Om du behöver e-postadressen ska du [göra den till ett obligatoriskt fält i formuläret](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
 
 >[!MORELIKETHIS]
 >
->Aktivera [ifyllning av sociala formulär](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md) om du vill hämta in den här informationen från formulär.
-
->[!NOTE]
->
->**Djupdykning**
->
->Läs mer om hur du arbetar med formulär i djupdykningen [Forms](http://docs.marketo.com/display/docs/forms).
-
+>Aktivera [ifyllning av sociala formulär](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md) om du vill hämta in den här informationen från formulär.
