@@ -3,9 +3,9 @@ unique-page-id: 7512252
 description: Lägg till en mobilapp - Marketo Docs - Produktdokumentation
 title: Lägg till en mobilapp
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,8 @@ Skicka push-meddelanden till kundbasen genom att ansluta mobilappen till Marketo
 
 Program startar normalt i en sandlådemiljö, där inledande utveckling och testning utförs. Utvecklarna använder sedan en produktionsmiljö för att bygga den slutliga app som ska användas av kunderna. Du måste välja lämpligt meddelandecertifikat när du lägger till en mobilapp (se steg 4 nedan).
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Tillgänglighet**
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
