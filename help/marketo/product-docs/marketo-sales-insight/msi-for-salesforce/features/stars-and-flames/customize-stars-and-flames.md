@@ -3,9 +3,9 @@ unique-page-id: 2360303
 description: Anpassa stjärnor och flamma - Marketo Docs - Produktdokumentation
 title: Anpassa stjärnor och flamma
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Marketo Sales Insight använder stjärnor och lågor för att prioritera leads. Marketo bestämmer automatiskt vem som får 1-2-3 stjärnor/flammor. Du kan dock ändra formeln. Så här:
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Tillgänglighet**
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
