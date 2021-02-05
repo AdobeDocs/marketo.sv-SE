@@ -3,9 +3,9 @@ unique-page-id: 2360437
 description: Utforska program- och kanalinformation med Program Analyzer - Marketo Docs - Produktdokumentation
 title: Utforska program- och kanalinformation med Program Analyzer
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,8 @@ Du kan se detaljerad program- och kanalstatistik i Program Analyzer. Du kan äve
 >* [Skapa en programanalys](create-a-program-analyzer.md)
 
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Tillgänglighet**
 >
 >Alla utgåvor av Marketo innehåller inte den här funktionen. Kontakta din kontoansvarige om du vill ha mer information.
 
