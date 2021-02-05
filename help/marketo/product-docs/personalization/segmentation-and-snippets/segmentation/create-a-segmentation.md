@@ -3,9 +3,9 @@ unique-page-id: 2359447
 description: Skapa en segmentering - Marketo Docs - Produktdokumentation
 title: Skapa en segmentering
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,8 @@ Med segmentering kan ni gruppera människor i olika profiler för rapportering o
    >
    >Du måste definiera segmentregler innan du kan använda segmenteringen.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
    >
    >    
    >    
