@@ -3,9 +3,9 @@ unique-page-id: 2359567
 description: Champion/Challenger -Configure Report Alerts - Marketo Docs - Produktdokumentation
 title: Champion/Challenger -Configure Report Alerts
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,8 @@ Marketo skickar rapporter om hur e-posttestet går. Så här schemalägger du de
 
    Rapporten kommer att innehålla användbara detaljer, som: testtyp, vinnarvillkor, antal e-postöppningar med mera. Det finns också en direktlänk till själva testet, där du kan förklara vinnaren! Häftiga saker.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
    >
    >    
    >    
