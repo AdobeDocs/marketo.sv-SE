@@ -3,9 +3,9 @@ unique-page-id: 12976798
 description: Konfigurera LinkedIn Lead Gen Forms - Marketo Docs - Produktdokumentation
 title: Konfigurera LinkedIn Lead Gen Forms
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Använd LinkedIn Lead Gen Forms för att köra annonskampanjer i LinkedIn och ge
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Ange ett **visningsnamn** för tjänsten, välj tjänsten **LinkedIn Lead Gen **i listrutan och klicka på **Nästa**.
+1. Ange ett **visningsnamn** för tjänsten, välj tjänsten **LinkedIn Lead Gen** i listrutan och klicka på **Nästa**.
 
    ![](assets/linkedin-lead-gen.png)
 
-1. Marketo öppnar en ny flik i samma webbläsare till [www.linkedin.com](http://www.linkedin.com). Logga in på LinkedIn med det konto som du vill använda för integreringen.
+1. Marketo öppnar en ny flik i samma webbläsare till [linkedin.com](https://www.linkedin.com). Logga in på LinkedIn med det konto som du vill använda för integreringen.
 
    >[!NOTE]
    >
@@ -43,7 +43,7 @@ Använd LinkedIn Lead Gen Forms för att köra annonskampanjer i LinkedIn och ge
 
    ![](assets/linkedin-lead-gen-authorize.png)
 
-1. När du uppmanas till det klickar du på **Allow **för att godkänna Marketo-appinstallationen i LinkedIn.
+1. När du uppmanas till det klickar du på **Tillåt** för att acceptera Marketo-appinstallationen i LinkedIn.
 
    ![](assets/linkedin-marketo-allow.png)
 
@@ -85,9 +85,4 @@ Snyggt gjort! Personer som skickar in LinkedIn Lead Gen-formulär börjar flöda
 
 >[!MORELIKETHIS]
 >
->* [Använd LinkedIn-formulärfilter och utlösare för lead-generering i en smart kampanj](use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
-
->
-
-
-
+>[Använd LinkedIn-formulärfilter och utlösare för lead-generering i en smart kampanj](/help/marketo/product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
