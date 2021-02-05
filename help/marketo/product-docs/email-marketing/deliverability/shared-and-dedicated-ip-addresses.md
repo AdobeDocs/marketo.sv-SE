@@ -3,7 +3,7 @@ unique-page-id: 10912085
 description: Delade och dedikerade IP-adresser - Marketo Docs - Produktdokumentation
 title: Delade och dedikerade IP-adresser
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 0%
@@ -31,13 +31,13 @@ Som vanligt finns det för- och nackdelar med båda alternativen.
 
 **Pros and Cons of a Dedicated IP**
 
-*Proffs*
+_Proffs_
 
 **Anseende**  - Du äger ditt rykte och din leveransförmåga.\
 **Övervakning**  - Med övervakning av leveransrapporter kan ni snabbt reagera på förändringar i leveransstatistiken.\
 **Problemlösning**  - Det är enklare att undersöka, förstå och lösa leveransproblem.
 
-*Kon*
+_Kon_
 
 **Volymförändringar**  - Volymtoppar kan påverka ditt rykte negativt och behöver hanteras.\
 **IP-uppvärmningsprocess**  - Anseendet byggs över tid. En del internetleverantörer (ISP) stryper IP-adresser utan historik för volymer, så du måste skapa ett rykte under de första veckorna (Marketo kan hjälpa dig).\
@@ -45,17 +45,17 @@ Som vanligt finns det för- och nackdelar med båda alternativen.
 
 **Pros and Cons of a Shared IP**
 
-*Proffs*
+_Proffs_
 
-**Bra rumskompisar **- Om de personer du delar din IP-adress med följer vedertagna sändningsmetoder har du nytta av detta.\
-**Utskicksfrekvens **- Det behövs ingen minsta utskicksfrekvens för att kvalificera sig för en delad IP, till skillnad från för dedikerade IP-adresser.\
-**Kostnad **- Det tillkommer aldrig någon extra kostnad att skicka från en delad IP.
+**Bra rumskompisar**  - Om de personer som du delar din IP-adress med följer vedertagna sändningsmetoder har du nytta av det.\
+**Utskicksfrekvens**  - Det behövs ingen minsta utskicksfrekvens för att kvalificera sig för en delad IP, till skillnad från för dedikerade IP-adresser.\
+**Kostnad**  - Det finns aldrig någon extra kostnad att skicka från en delad IP-adress.
 
-*Kon*
+_Kon_
 
 **Felaktiga rumskompisar**  - Om de personer du delar med dig av din IP-adress använder dåliga sändningsrutiner kan era e-postkampanjer påverkas negativt.\
-**Kontroll **- Du har mycket mindre kontroll över avsändarens anseende.\
-**Problemlösning **- Det kan ofta vara svårare att lösa ett problem när man skickar från delade IP-adresser.
+**Kontroll**  - Du har mycket mindre kontroll över avsändarens anseende.\
+**Problemlösning**  - Det kan ofta vara svårare att lösa ett problem när du skickar från delade IP-adresser.
 
 >[!NOTE]
 >
