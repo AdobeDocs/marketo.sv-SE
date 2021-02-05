@@ -3,7 +3,7 @@ unique-page-id: 10098134
 description: Lägga till ett program i en Engagement Program Stream - Marketo Docs - Produktdokumentation
 title: Lägga till ett program i en Engagement Program Stream
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '461'
 ht-degree: 0%
@@ -57,10 +57,6 @@ Rapportera ändringar med e-postplats. Om e-postmeddelandet till exempel finns i
 
 >[!MORELIKETHIS]
 >
->* [Lägg till innehåll i en ström](add-content-to-a-stream.md)
->* [Förstå program](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
-
->
-
-
+>* [Lägg till innehåll i en ström](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+>* [Förstå program](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
 
