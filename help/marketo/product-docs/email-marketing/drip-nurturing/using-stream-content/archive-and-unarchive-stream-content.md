@@ -3,9 +3,9 @@ unique-page-id: 2359930
 description: Arkivera och arkivera ströminnehåll - Marketo Docs - Produktdokumentation
 title: Arkivera och arkivera ströminnehåll
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Arkivera och arkivera ströminnehåll {#archive-and-unarchive-stream-content}
 
-Om du inte längre vill använda innehåll i en ström kan du antingen [ta bort](remove-stream-content.md) den eller arkivera den. Så här arkiverar du innehåll.
+Om du inte längre vill använda innehåll i en ström kan du antingen [ta bort](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) den eller arkivera den. Så här arkiverar du innehåll.
 
 >[!TIP]
 >
@@ -33,11 +33,11 @@ Om du inte längre vill använda innehåll i en ström kan du antingen [ta bort]
 
 ## Oarkiverat ströminnehåll {#unarchive-stream-content}
 
-1. Välj engagemangsprogram och gå till fliken Streams.
+1. Välj ditt engagemangsprogram och gå till fliken **Streams**.
 
    ![](assets/image2014-9-15-17-3a42-3a11.png)
 
-1. Klicka på kugghjulsikonen för strömmen och klicka sedan på Visa arkiverat innehåll.
+1. Klicka på kugghjulsikonen för strömmen och klicka sedan på **Visa arkiverat innehåll**.
 
    ![](assets/image2014-9-15-17-3a42-3a15.png)
 
@@ -46,4 +46,3 @@ Om du inte längre vill använda innehåll i en ström kan du antingen [ta bort]
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 
    Perfekt! Nu kan innehållet prioriteras och aktiveras.
-
