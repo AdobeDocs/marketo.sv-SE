@@ -3,9 +3,9 @@ unique-page-id: 2360237
 description: Berätta för marknadsföringsberättelsen med en säljprojektsanalys - Marketo Docs - produktdokumentation
 title: Berätta för marknadsföringsberättelsen med en analys av säljprojektspåverkan
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -64,9 +64,8 @@ Använd en påverkansanalys för säljprojekt för att illustrera marknadsförin
 
    Klicka på mer orangefärgade punkter längs tidslinjen för att fylla i berättelsen om de händelser, program och intressanta ögonblick som bidrog till att skapa och stänga affärsmöjligheten.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
    >
    >
    >    
