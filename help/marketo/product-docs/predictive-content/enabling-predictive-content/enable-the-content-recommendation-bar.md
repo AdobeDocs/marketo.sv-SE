@@ -3,9 +3,9 @@ unique-page-id: 4720108
 description: Aktivera innehållsrekommendationsfältet - Marketo Docs - produktdokumentation
 title: Aktivera innehållsrekommendationsfältet
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,6 @@ Innehållsrekommendationsmotorn använder prediktiva analyser och maskininlärni
 * Ju mer innehåll som körs i rekommendationsmotorn desto bättre för algoritmen att testa och lära sig vilket innehåll som fungerar bäst. Vi rekommenderar att du börjar med 10 till 20 aktiva innehållskomponenter och fortsätter lägga till nya.
 * Innehållsdelen som du aktiverar för rekommendation bör innehålla Javascript-taggen RTP. Detta hjälper algoritmen att spåra och optimera rekommenderat innehåll.
 
->[!NOTE]
-**Relaterade artiklar**
+>[!MORELIKETHIS]
 * [Aktivera prediktivt innehåll för multimedia för webben](enable-predictive-content-for-web-rich-media.md)
 
