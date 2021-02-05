@@ -3,9 +3,9 @@ unique-page-id: 2359837
 description: Utlösare och filter för sociala aktiviteter - Marketo Docs - Produktdokumentation
 title: Utlösare och filter för sociala aktiviteter
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -15,17 +15,15 @@ ht-degree: 0%
 
 Sociala appar i Marketo har sina egna speciella triggers och filter.
 
->[!NOTE]
->
->**Tillgänglighet**
+>[!AVAILABILITY]
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
-1. Om du vill använda sociala *utlösare* väljer du den smarta kampanjen och klickar på fliken **Smart lista**. Till höger klickar du på + för att expandera **Utlösare** och sedan **Socialt**.
+1. Om du vill använda sociala _utlösare_ väljer du den smarta kampanjen och klickar på fliken **Smart lista**. Till höger klickar du på + för att expandera **Utlösare** och sedan **Socialt**.
 
    ![](assets/image2015-4-23-11-22-39.png)
 
-1. Om du vill använda sociala *filter* klickar du på **+** för att expandera **filtren**.
+1. Om du vill använda sociala _filter_ klickar du på **+** för att expandera **filtren**.
 
    ![](assets/two-282-29.png)
 
@@ -44,9 +42,6 @@ Sociala appar i Marketo har sina egna speciella triggers och filter.
    | Omröstningar |  | ![(tick)](assets/check.svg) |  |  |  |
    | Vins Lotteriet |  |  |  |  | ![(tick)](assets/check.svg) |
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
-   >
-   >* [Visa sociala prestanda](view-social-performance.md)
-
+   >[Visa sociala prestanda](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md)
