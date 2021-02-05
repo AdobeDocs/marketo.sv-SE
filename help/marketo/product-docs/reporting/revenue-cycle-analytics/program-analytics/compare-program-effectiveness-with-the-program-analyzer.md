@@ -3,9 +3,9 @@ unique-page-id: 2360403
 description: Jämför programeffektiviteten med Program Analyzer - Marketo Docs - Produktdokumentation
 title: Jämför programeffektiviteten med programanalysen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '484'
 ht-degree: 0%
 
 ---
@@ -90,9 +90,7 @@ Vi ser att Paper Fest 12-programmet inte bara påverkar mer intäkter (större b
 >
 >Du kan snabbt jämföra program i en kanal med program i en annan. Använd bara **kanalfiltret** längst upp i fönstret för att lägga till fler kanaler.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Utforska program- och kanalinformation med Program Analyzer](explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [Jämför kanaleffektiviteten med programanalysen](compare-channel-effectiveness-with-the-program-analyzer.md)
