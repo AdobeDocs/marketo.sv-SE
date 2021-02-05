@@ -3,9 +3,9 @@ unique-page-id: 2359987
 description: Prenumerera på en grundläggande rapport - Marketo Docs - produktdokumentation
 title: Prenumerera på en grundläggande rapport
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,8 @@ Om du vill få automatiska uppdateringar av en [enkel rapport](http://docs.marke
 
    ![](assets/image2014-9-16-10-3a32-3a49.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
    >
    >
    >Lär dig hur du [hanterar alla rapportprenumerationer](manage-report-subscriptions.md) på ett och samma ställe.
