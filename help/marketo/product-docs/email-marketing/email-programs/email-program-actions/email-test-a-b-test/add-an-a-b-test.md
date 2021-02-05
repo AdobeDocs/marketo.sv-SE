@@ -3,9 +3,9 @@ unique-page-id: 2359491
 description: Lägg till ett A/B-test - Marketo Docs - produktdokumentation
 title: Lägg till ett A/B-test
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Testning är ett bra sätt att optimera e-postmeddelanden för bättre engageman
    >
    >Om du har dubblettposter i din databas får dessa poster **både** test- och vinnande e-postmeddelanden. Om du vill förhindra att detta händer kontrollerar du att du [söker efter och sammanfogar dubblettpersoner](http://docs.marketo.com/x/G4EI) i din databas.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Använd A/B-testning på ämnesraden](use-subject-line-a-b-testing.md)
 >* [Använd A/B-testning i&quot;hele-post&quot;](use-whole-email-a-b-testing.md)
