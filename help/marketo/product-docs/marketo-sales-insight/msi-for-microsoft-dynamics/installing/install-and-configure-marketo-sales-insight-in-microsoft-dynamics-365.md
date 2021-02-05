@@ -3,9 +3,9 @@ unique-page-id: 3571739
 description: Installera och konfigurera Marketo Sales Insight i Microsoft Dynamics 365 - Marketo Docs - produktdokumentation
 title: Installera och konfigurera Marketo Sales Insight i Microsoft Dynamics 365
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '472'
 ht-degree: 0%
 
 ---
@@ -144,8 +144,6 @@ Du måste ge användarna behörighet att använda Sales Insight.
 
 Du har nu låst upp kraften i Marketo Sales Insight för ditt säljteam.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >[Stjärnor och flamma för lead-/kontaktposter](http://docs.marketo.com/x/BICMAg)
