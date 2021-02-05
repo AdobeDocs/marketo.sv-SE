@@ -3,9 +3,9 @@ unique-page-id: 7511512
 description: Installera och konfigurera Marketo Sales Insight i Salesforce1 - Marketo Docs - Produktdokumentation
 title: Installera och konfigurera Marketo Sales Insight i Salesforce1
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
@@ -168,9 +168,7 @@ Om du har Salesforce Professional:
 
 Phew! Du har nu installerat Marketo Sales Insight för Salesforce1! Ge dig själv en klapp på baksidan.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Bästa val i Salesforce1](best-bets-in-salesforce1.md)
 >* [Intressanta stunder i Salesforce1](interesting-moments-in-salesforce1.md)
