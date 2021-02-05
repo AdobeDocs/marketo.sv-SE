@@ -3,9 +3,9 @@ unique-page-id: 10097202
 description: Head Start for Email Programs - Marketo Docs - Product Documentation
 title: Head Start for Email Programs
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
@@ -76,9 +76,7 @@ Det innebär att om du är i Amerika/Los Angeles och vill aktivera både Head St
 
 [Läs ](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) mer om hur du schemalägger e-postprogram med mottagartidszon.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Schemalägg ditt e-postprogram](schedule-your-email-program.md)
 >* [Schemalägg e-postprogram med mottagartidszon](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
