@@ -3,9 +3,9 @@ unique-page-id: 7503971
 description: Skapa en presentation - Marketo Docs - Produktdokumentation
 title: Skapa en presentation
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Skapa en presentation för att projicera teamets kalendervyer och mål på en HDTV. Presentations är specifikt för Workspace.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Tillgänglighet**
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
