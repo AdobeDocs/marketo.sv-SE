@@ -3,9 +3,9 @@ unique-page-id: 8781845
 description: Understanding Marketo Moments - Marketo Docs - produktdokumentation
 title: Om Marketo-stunder
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Marketos styrka ligger nu i dina händer, bokstavligen! Förhandsgranska och schemalägg om e-post direkt från telefonen eller iPad.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Tillgänglighet**
 >
 >Åtkomst till mobilappar krävs. Kontakta Marketo Admin för att [uppdatera din roll](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
