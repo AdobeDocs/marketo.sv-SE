@@ -3,9 +3,9 @@ unique-page-id: 2359504
 description: Använd A/B-testning från adress - Marketo Docs - Produktdokumentation
 title: Använd A/B-testning från adress
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,8 @@ Du kan enkelt A/B-testa dina e-postmeddelanden. Ett intressant test är **From A
 
    Vi är nästan framme. Nu måste vi [definiera kriterierna för A/B-testvinnare](define-the-a-b-test-winner-criteria.md).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
    >
    >    
    >    
