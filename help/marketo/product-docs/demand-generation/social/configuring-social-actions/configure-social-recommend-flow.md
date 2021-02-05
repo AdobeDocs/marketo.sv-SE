@@ -3,9 +3,9 @@ unique-page-id: 2950549
 description: Konfigurera socialt rekommenderat flöde - Marketo Docs - Produktdokumentation
 title: Konfigurera socialt rekommenderat flöde
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '515'
 ht-degree: 0%
 
 ---
@@ -19,17 +19,17 @@ När du skapar en social app kan du konfigurera de val av sociala nätverk och u
 
 >[!NOTE]
 >
->Detta liknar [konfigurationen av flödet för social registrering/delning](configure-social-sign-up-share-flow.md), men detta gäller för delningslänkarna *under* den sociala appen.
+>Detta liknar [konfigurationen av flödet för social registrering/delning](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md), men detta gäller för delningslänkarna _under_ den sociala appen.
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Markera appen och klicka på **Redigera utkast****.**
+1. Markera programmet och klicka på **Redigera utkast**.
 
    ![](assets/image2014-9-22-11-3a51-3a6.png)
 
-1. Gå till **Rekommendera flöde** > **Sociala nätverk*** i redigeraren för sociala appar.**
+1. Gå till **Rekommendera flöde** > **Sociala nätverk** i redigeraren för sociala appar.
 
    ![](assets/recommendedflow.png)
 
@@ -47,25 +47,27 @@ När du skapar en social app kan du konfigurera de val av sociala nätverk och u
    >
    >I en videodelning genereras miniatyrbilden automatiskt.
 
-   **Lägg till dynamiskt** innehållOm du väljer** Lägg till statiskt innehåll** anger du rubrik, bildtext och beskrivning och överför en bild. Se de två nästa stegen.
+   Om du väljer **Lägg till dynamiskt innehåll** läggs värdena för sidans OpenGraph-taggar (log:title, og:caption och og:description) och miniatyrbilden automatiskt till i Facebook-inlägg. Se nästa steg.
+
+   Om du väljer **Lägg till statiskt innehåll** anger du titel, bildtext och beskrivning och överför en bild. Se de två nästa stegen.
 
 1. I fönstret Visa och redigera klickar du på **Visa redigeringar** för att anpassa delningsprompten och meddelandet som ska visas i Facebook-inlägg.
 
    >[!TIP]
    >
-   >Mer information finns i [Redigera inställningar för Facebook Rich Post](../../../../product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md).
+   >Mer information finns i [Redigera inställningar för Facebook Rich Post](/help/marketo/product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md).
 
    ![](assets/image2014-9-22-11-3a54-3a36.png)
 
    >[!NOTE]
    >
-   >URL:en för resursen [läggs automatiskt till i alla delningsmeddelanden.](../../../../product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md)
+   >URL:en för resursen [läggs automatiskt till i alla delningsmeddelanden.](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md)
 
-1. Om du väljer **Lägg till statisk** **innehåll** ovan redigerar du titeln, beskrivningen och beskrivningen och överför en anpassad bild (från dina Marketo-bilder och filer).
+1. Om du väljer **Lägg till statiskt innehåll** ovan redigerar du titeln, bildtexten och beskrivningen och överför en anpassad bild (från dina Marketo-bilder och filer).
 
    ![](assets/image2014-9-22-11-3a55-3a14.png)
 
-   Se [Lägg till bilder och filer i Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+   Se [Lägg till bilder och filer i Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
    >[!NOTE]
    >
@@ -97,7 +99,7 @@ Om du väljer det här alternativet läggs värdena för sidans OpenGraph-taggar
 
    Om du väljer **Lägg till statiskt** innehåll anger du rubrik, bildtext och beskrivning och överför en bild. Se de två nästa stegen.
 
-1. I fönstret **Visa** &amp; **Redigera** klickar du på **Visa redigeringar** och redigerar delningsmeddelandet och meddelandet som ska visas i LinkedIn-inlägg.
+1. I fönstret **Visa och redigera** klickar du på **Visa redigeringar** och redigerar delningsprompten och meddelandet som ska visas i LinkedIn-inlägg.
 
    ![](assets/image2014-9-22-12-3a3-3a38.png)
 
@@ -105,11 +107,11 @@ Om du väljer det här alternativet läggs värdena för sidans OpenGraph-taggar
    >
    >Använd {html_title} i din inläggstext för att visa sidans rubrik automatiskt.
 
-1. Om du väljer **Lägg till statiskt** innehåll ovan redigerar du titeln och beskrivningen och överför en anpassad bild (från Mark **e** till Bilder och filer).
+1. Om du väljer **Lägg till statiskt** innehåll ovan redigerar du titeln och beskrivningen och överför en anpassad bild (från Marketo-bilder och filer).
 
    ![](assets/image2014-9-22-12-3a4-3a43.png)
 
-   Se [Lägg till bilder och filer i Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+   Se [Lägg till bilder och filer i Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
    >[!NOTE]
    >
@@ -123,11 +125,10 @@ Om du väljer det här alternativet läggs värdena för sidans OpenGraph-taggar
 
    ![](assets/image2014-9-22-12-3a5-3a30.png)
 
-1. Klicka på **Slutför** > **Godkänn** och **Stäng***.**
+1. Klicka på **Slutför** > **Godkänn** och **Stäng**.
 
    ![](assets/image2014-9-22-12-3a5-3a45.png)
 
 >[!MORELIKETHIS]
 >
->Nästa steg är att [lägga till din videoresurs](customize-video-share-flow.md) eller [avsökning](../../../../product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) på en landningssida, Facebook eller din egen webbplats.
-
+>Nästa steg är att [lägga till din videoresurs](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) eller [avsökning](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) på en landningssida, Facebook eller din egen webbplats.
