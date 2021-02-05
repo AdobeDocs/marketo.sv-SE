@@ -3,9 +3,9 @@ unique-page-id: 45416698
 description: Versionsinformation -juli 20 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -juli 20
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '657'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Följande funktioner finns i versionen från 20 juli. Se om din Marketo-utgåva har funktioner tillgängliga.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Tillgänglighet**
 >
 >Observera att objekt med en stjärna ( ![(stjärna)](assets/star-yellow.svg)) kan behöva köpa ett värdetillägg beroende på vilket paket du använder. Kontakta din Marketo Engage-representant om du vill veta mer.
 
