@@ -3,9 +3,9 @@ unique-page-id: 42762409
 description: Sales Insight Page for Marketo Admins - Marketo Docs - produktdokumentation
 title: Sales Insight Page for Marketo Admins
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -63,9 +63,8 @@ Som standard använder Marketo Sales Insight fältet Lead Score för att beräkn
    >
    >Om du inte redan har dina anpassade poängfält gör du så här för att [skapa dem](http://docs.marketo.com/x/3wMk).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
    >
    >
    >[Stjärnor och flamman](http://docs.marketo.com/x/qgU6Ag)
