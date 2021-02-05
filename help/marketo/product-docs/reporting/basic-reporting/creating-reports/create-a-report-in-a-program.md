@@ -3,9 +3,9 @@ unique-page-id: 2359963
 description: Skapa en rapport i ett program - Marketo Docs - Produktdokumentation
 title: Skapa en rapport i ett program
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -70,9 +70,8 @@ Kör en rapport för att analysera människor, program, landningssidor, e-post o
    >
    >Du kan snabbt få många rapporter. Kom ihåg att [ta bort en rapport](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md) som du inte längre behöver.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
    >
    >
    >Du kan [ändra en rapporttidsram](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [prenumerera på en enkel rapport](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [exportera en rapport till Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filtrera personer i en rapport med en smart lista](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) och [mer](http://docs.marketo.com/display/docs/basic+reporting).
