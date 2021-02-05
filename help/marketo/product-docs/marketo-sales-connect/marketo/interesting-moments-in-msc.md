@@ -3,9 +3,9 @@ unique-page-id: 30082174
 description: Intressanta ögonblick i MSC - Marketo Docs - Produktdokumentation
 title: Intressanta stunder i MSC
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Intressanta ögonblick är nyckeln till att kommunicera med säljarna via Marketo Sales Connect.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Tillgänglighet**
 >
 >Dessa är endast tillgängliga för [Marketo Sales Insight](http://docs.marketo.com/x/2Akt)- och Marketo Sales Connect-kunder.
 
