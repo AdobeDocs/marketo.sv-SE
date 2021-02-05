@@ -3,9 +3,9 @@ unique-page-id: 2360219
 description: Konfigurera en anpassad DKIM-signatur - Marketo Docs - Produktdokumentation
 title: Konfigurera en anpassad DKIM-signatur
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ Du kan anpassa DKIM-signaturen så att den återspeglar de domäner du väljer. 
 
    >[!NOTE]
    >
-   >
    >Om du skapar en anpassad DKIM-signatur på det gammaldags sättet kommer den att fortsätta att fungera och visas här.
 
 1. Klicka på **E-post**, sedan på fliken **DKIM** och slutligen **Lägg till domän**.
@@ -37,7 +36,6 @@ Du kan anpassa DKIM-signaturen så att den återspeglar de domäner du väljer. 
 1. Ange den domän du vill använda i Marketo-e-postmeddelanden som Från-adress och klicka på **Lägg till**.
 
    >[!TIP]
-   >
    >
    >Om du använder en annan domän i din Från-adress använder vi Marketo-signaturen för DKIM.
 
@@ -53,14 +51,10 @@ Du kan anpassa DKIM-signaturen så att den återspeglar de domäner du väljer. 
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
    >Om bekräftelsen misslyckas och din IT-avdelning har skapat posten korrekt kan det bero på DNS-spridning. Försök igen senare.
 
    >[!CAUTION]
    >
-   >
    >Om du ändrar/tar bort motsvarande DNS-post blir slutresultatet sämre. Se till att du tar bort posten i Marketo innan du gör DNS-ändringar.
 
    Detta är till stor hjälp när det gäller e-postleveransen. Du bör få en validering av att posten finns där och rätt.
-
