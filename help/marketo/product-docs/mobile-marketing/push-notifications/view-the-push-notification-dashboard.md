@@ -3,9 +3,9 @@ unique-page-id: 10096523
 description: Visa kontrollpanelen för push-meddelanden - Marketo Docs - Produktdokumentation
 title: Visa kontrollpanelen för push-meddelanden
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,8 @@ Det är enkelt att se hur dina push-meddelanden fungerar.
    >
    >Måttet **Skickat** kan visa fler meddelanden än det exakta antalet personer som push-meddelandet skickades till. Det beror på att det beräknas baserat på *antalet enheter* som är kvalificerade att ta emot din push-funktion. Om en person till exempel har tre enheter registrerar kontrollpanelen tre utskick, inte en.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
    >
    >    
    >    
