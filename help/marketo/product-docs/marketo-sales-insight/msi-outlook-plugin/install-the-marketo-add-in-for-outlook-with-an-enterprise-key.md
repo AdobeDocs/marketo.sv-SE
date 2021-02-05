@@ -3,9 +3,9 @@ unique-page-id: 11377488
 description: Installera tillägget Marketo för Outlook med en företagsnyckel - Marketo Docs - Produktdokumentation
 title: Installera Marketo-tillägget för Outlook med en företagsnyckel
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,8 @@ Många gånger har säljarna inte administratörsbehörighet på sina bärbara d
 
    Det är allt! Sedan går säljaren igenom registreringsprocessen [](authorize-the-marketo-outlook-plugin.md). Du kan skicka en länk till instruktionerna till dem (se **Marketo Related Articles**).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
    >
    >    
    >    
