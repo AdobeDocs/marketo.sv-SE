@@ -3,9 +3,9 @@ unique-page-id: 2359449
 description: Definiera segmentregler - Marketo Docs - Produktdokumentation
 title: Definiera segmentregler
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '391'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,7 @@ Bra jobbat! Dessa segment kommer att bli bra på många ställen i Marketo.
 >
 >På skärmen Personer (utkast) visas alla personer som är berättigade att vara medlem och inte alltid är den slutliga listan över personer. Godkänn segmentet för att se den slutliga listan.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Godkänn en segmentering](approve-a-segmentation.md)
 
