@@ -3,7 +3,7 @@ unique-page-id: 2950553
 description: Anpassa videodelningsflöde - Marketo Docs - Produktdokumentation
 title: Anpassa videodelningsflöde
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Anpassa videodelningsflöde {#customize-video-share-flow}
 
-När du [skapar en videoresurs](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md) kan du anpassa när och var delningsprompten visas.
+När du [skapar en videoresurs](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md) kan du anpassa när och var delningsprompten visas.
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Markera appen och klicka på **Redigera utkast.**
+1. Markera programmet och klicka på **Redigera utkast**.
 
    ![](assets/image2014-9-22-16-3a40-3a41.png)
 
-1. Gå till **Appinställningar** > **Avancerade alternativ i videouppdelningsredigeraren.**
+1. Gå till **Appinställningar** > **Avancerade alternativ** i videouppdelningsredigeraren.
 
    ![](assets/image2014-9-22-16-3a41-3a3.png)
 
@@ -33,5 +33,4 @@ När du [skapar en videoresurs](../../../../product-docs/demand-generation/landi
 
 >[!MORELIKETHIS]
 >
->Nästa steg är att [konfigurera vad som ska hända efter videodelning](configure-after-share-prompts.md).
-
+>Nästa steg är att [konfigurera vad som ska hända efter videodelning](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).
