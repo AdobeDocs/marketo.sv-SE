@@ -3,9 +3,9 @@ unique-page-id: 2950524
 description: Distribuera sociala medier på er webbplats - Marketo Docs - Produktdokumentation
 title: Distribuera sociala medier på din webbplats
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Bädda in sociala appar på icke-marknadsföringssidor.
 
->[!NOTE]
->
->**Tillgänglighet**
+>[!AVAILABILITY]
 >
 >Kontakta din säljare för mer information.
 
@@ -27,7 +25,7 @@ Ni kan distribuera sociala appar på er egen webbplats för att engagera er mål
 
    ![](assets/image2015-5-12-11-3a43-3a24.png)
 
-1. Välj **Bädda in** **Kod**** **från åtgärder för sociala appar.
+1. Välj **Bädda in kod** från åtgärder för sociala appar.
 
    ![](assets/image2015-5-12-12-3a59-3a46.png)
 
@@ -43,19 +41,15 @@ Ni kan distribuera sociala appar på er egen webbplats för att engagera er mål
 
    ![](assets/socialonsite-embedwidget.png)
 
-1. Om du behöver ange storleken på den sociala appen till specifika dimensioner på sidan lägger du till alternativen **outerHeight** och **outerWidth** till det andra kodfragmentet. Du kan till exempel lägga till options=&#39;{&quot;outerHeight&quot;:400, &quot;outerWidth&quot;:600}&#39;, som i:
+1. Om du behöver ange storleken på den sociala appen till specifika dimensioner på sidan lägger du till alternativen **outerHeight** och **outerWidth** till det andra kodfragmentet. Du kan till exempel lägga till `options='{"outerHeight":400, "outerWidth":600}'` som i:
 
    ![](assets/socialonsite-resizewidget2.png)
 
    Din sociala app Marketo lägger nu till innehåll och interaktivitet på din webbplats, vilket bjuder in fans, besökare och befintliga kunder att sprida ordet om dig. Samtidigt läggs deras profildata till i databasen och mätvärden för social påverkan spåras.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
-   >
-   >    
-   >    
-   >* [Knappen Anpassa social app](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
-   >* [Ange krav på socialresurs](set-social-share-requirement.md)
-   >* [Publicera landningssidor på Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
+   >* [Knappen Anpassa social app](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
+   >* [Ange krav på socialresurs](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
+   >* [Publicera landningssidor på Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
 
