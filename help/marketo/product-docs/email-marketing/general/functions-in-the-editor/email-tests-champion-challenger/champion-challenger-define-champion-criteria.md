@@ -3,9 +3,9 @@ unique-page-id: 2359562
 description: Champion/Challenger -Define Champion Criteria - Marketo Docs - produktdokumentation
 title: Champion/Challenger - Definiera tävlingskriterier
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,8 @@ När du har konfigurerat testtypen måste du definiera tävlingskriterierna. Så
 
    Bra! Nu är det dags att planera rapporten.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
    >
    >    
    >    
