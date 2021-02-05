@@ -3,9 +3,9 @@ unique-page-id: 14352634
 description: Lägg till en bifogad fil - Marketo Docs - Produktdokumentation
 title: Lägg till en bifogad fil
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,8 @@ ht-degree: 0%
 
 # Lägg till en bifogad fil {#add-an-attachment}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Tillgänglighet**
 >
 >Det går att lägga till bilagor om du använder Marketo Sales Connect. Det är inte tillgängligt i Marketos vanliga e-postredigerare.
 
