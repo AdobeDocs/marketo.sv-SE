@@ -3,7 +3,7 @@ unique-page-id: 2359821
 description: Ange krav på social resurs - Marketo Docs - produktdokumentation
 title: Ange krav på socialresurs
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Ange krav för social resurs {#set-social-share-requirement}
 
-När du [skapar ett hänvisningserbjudande](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) kan du kräva att andra delar erbjudandet för att kunna registrera sig eller göra det valfritt.
+När du [skapar ett hänvisningserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) kan du kräva att andra delar erbjudandet för att kunna registrera sig eller göra det valfritt.
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
@@ -31,10 +31,9 @@ När du [skapar ett hänvisningserbjudande](../../../../product-docs/demand-gene
 
    ![](assets/four.png)
 
-   * **Personfångst > Dela**: Man kan hoppa över delning och bara registrera sig.
-   * **Dela > Personfångst**: Personen måste dela för att kunna registrera sig.
+   * **Personfångst**  >  **Dela**: Man kan hoppa över delning och bara registrera sig.
+   * **Dela**  >  **Personfångst**: Personen måste dela för att kunna registrera sig.
 
 1. För varje alternativ, se förhandsvisningen i fönstret **Visa och redigera**.
 
    ![](assets/image2015-4-22-13-3a34-3a28.png)
-
