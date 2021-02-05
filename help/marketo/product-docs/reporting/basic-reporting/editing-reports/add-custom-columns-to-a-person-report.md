@@ -3,9 +3,9 @@ unique-page-id: 2360201
 description: Lägg till anpassade kolumner i en personrapport - Marketo Docs - Produktdokumentation
 title: Lägg till anpassade kolumner i en personrapport
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -42,9 +42,8 @@ Du kan filtrera mätvärdena i dina [personrapporter](http://docs.marketo.com/di
 
    ![](assets/five-1.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
    >
    >
    >Du kan också [lägga till säljprojektskolumner i en lead-rapport](add-opportunity-columns-to-a-lead-report.md).
