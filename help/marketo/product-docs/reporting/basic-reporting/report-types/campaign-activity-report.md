@@ -3,9 +3,9 @@ unique-page-id: 2360057
 description: Kampanjaktivitetsrapport - Marketo Docs - Produktdokumentation
 title: Kampanjaktivitetsrapport
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,8 @@ Se hur era [smarta kampanjer](http://docs.marketo.com/display/docs/smart+campaig
    | Utlöst (aktivt) | Aktuella utlösta kampanjer på fliken **Marknadsföringsaktiviteter**. |
    | Utlöst (inaktivt) | Inaktiva utlösta kampanjer på fliken **Marknadsföringsaktiviteter**. |
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
    >
    >    
    >    
