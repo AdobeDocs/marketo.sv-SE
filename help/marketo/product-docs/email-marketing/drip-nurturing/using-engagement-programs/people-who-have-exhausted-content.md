@@ -3,7 +3,7 @@ unique-page-id: 2359953
 description: Personer som har utsökt innehåll - Marketo Docs - Produktdokumentation
 title: Personer som har fyllt i innehåll
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -60,4 +60,3 @@ När en person har fått allt innehåll i en ström har den uttömt alla möjlig
    >[!NOTE]
    >
    >Numret uppdateras omedelbart efter varje sändning.
-
