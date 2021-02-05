@@ -3,9 +3,9 @@ unique-page-id: 13796466
 description: Komma igång med Sales Connect - Marketo Docs - Produktdokumentation
 title: Komma igång med Sales Connect
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '638'
+source-wordcount: '637'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Om du hellre vill titta på de här stegen än att läsa dem går du direkt till [videoinstruktionerna nedan](#video).
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Tillgänglighet**
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din Customer Success Manager om du vill ha mer information.
 
