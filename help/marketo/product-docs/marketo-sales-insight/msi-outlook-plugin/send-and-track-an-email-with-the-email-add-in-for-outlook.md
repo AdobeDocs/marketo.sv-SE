@@ -3,9 +3,9 @@ unique-page-id: 2949716
 description: Skicka och spåra ett e-postmeddelande med e-posttillägget för Outlook - Marketo Docs - Produktdokumentation
 title: Skicka och spåra ett e-postmeddelande med e-posttillägget för Outlook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ Du kan skicka och spåra e-postmeddelanden med Marketo direkt från Outlook.
 
 Så enkelt är det! Även om det här e-postmeddelandet skickades av en säljares Outlook spåras det i Marketo.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Logga inkommande e-post från leads i Marketo](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
 
