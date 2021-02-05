@@ -3,9 +3,9 @@ unique-page-id: 10097867
 description: Definiera en smart lista för webbpersonaliseringsaktiviteter - Marketo Docs - Produktdokumentation
 title: Definiera en smart lista för webbpersonaliseringsaktiviteter
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,8 @@ Använd en utlösare för att skicka ett e-postmeddelande eller en varning, elle
 
    [Definiera smart lista för smart kampanj | Grupp](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
    >
    >    
    >    
