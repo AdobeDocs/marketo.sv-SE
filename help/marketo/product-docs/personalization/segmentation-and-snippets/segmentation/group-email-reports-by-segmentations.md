@@ -3,9 +3,9 @@ unique-page-id: 2359488
 description: Gruppera e-postrapporter efter segment - Marketo Docs - Produktdokumentation
 title: Gruppera e-postrapporter efter segment
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Segmenteringar är inte bara för dynamiskt innehåll. Du kan också gruppera di
 
    ![](assets/image2014-9-16-9-3a17-3a26.png)
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Filtrera resurser i en e-postrapport](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
 
