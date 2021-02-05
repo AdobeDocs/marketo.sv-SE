@@ -3,9 +3,9 @@ unique-page-id: 2359455
 description: Schemalägg ditt e-postprogram - Marketo Docs - produktdokumentation
 title: Schemalägg ditt e-postprogram
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ När ditt e-postprogram har skapats, målgruppen har definierats och e-postmedde
 
    Hur lätt var det där? Det enda som återstår är att [godkänna ett e-postprogram](approve-unapprove-an-email-program.md) och du är redo att gå.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Schemalägg e-postprogram med mottagartidszon](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
 >* [Head Start for Email Programs](head-start-for-email-programs.md)
