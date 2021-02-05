@@ -3,9 +3,9 @@ unique-page-id: 4720796
 description: Återannonsering med webbpersonaliseringsdata - Marketo Docs - Produktdokumentation
 title: Återannonsering med webbpersonaliseringsdata
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,8 @@ ht-degree: 0%
 
 # Återannonsering med webbpersonaliseringsdata {#retargeting-with-web-personalization-data}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Tillgänglighet**
 >
 >Omdirigering av webbplatser ingår nu i panelen Webbanpassning. Om du bara har köpt återmarknadsföring visas den här rutan och du får tillgång till produkten för webbanpassning med **endast** återmarknadsföringsfunktioner aktiverade. Detta ger dig tillgång till kontoinställningar, sidan Återmarknadsföring, segment och ytterligare spårningssidor.
 
