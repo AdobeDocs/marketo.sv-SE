@@ -3,9 +3,9 @@ unique-page-id: 2359971
 description: Aktivitetsrapport för webbsida - Marketo Docs - Produktdokumentation
 title: Aktivitetsrapport för webbsida
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -83,9 +83,8 @@ Du kan välja att visa kända personer eller anonyma personer, men inte båda ty
 >
 >Trimma era säljare! [Filtrera rapporten ](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)för deras territorium och  [prenumerera på den](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Relaterade artiklar**
 >
 >* [Visade webbsidor, aktivitetsrapport för webbsida](web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
 >* [Visa personer eller anonyma besökare i webbrapporter](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
