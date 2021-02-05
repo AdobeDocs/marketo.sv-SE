@@ -3,9 +3,9 @@ unique-page-id: 2949281
 description: Utfärda en Marketo Email Add-in License - Marketo Docs - Produktdokumentation
 title: Utfärda en Marketo E-post-tilläggslicens
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -18,9 +18,8 @@ Alla som vill använda tillägget Marketo Email Outlook måste först få en lic
 * **[Installation](install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)** av företagsnyckel: Använd den här metoden när säljarna inte har administratörsbehörighet för sina bärbara företagsdatorer och inte kan installera plugin-program, programvara osv. på den. I det här fallet utfärdar Marketo Admin licenser till en lista över behöriga användare. Sedan fjärrdistribuerar IT-teamet plugin-programmet till alla behöriga användares datorer med hjälp av Enterprise Key. Plugin-användaren godkänner det sedan.
 * **[Installation](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)** av registreringskod: Använd den här metoden när säljarna har administratörsrättigheter för sin bärbara företagsdator och kan installera plugin-program, programvara osv. på den. Under den här processen utfärdar Marketo-administratören licenser till en lista över behöriga användare och skickar dem e-postmeddelanden direkt med nedladdningslänkar. Säljaren får ett mejl med en nedladdningslänk och en unik registrerings-URL.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Tillgänglighet**
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
