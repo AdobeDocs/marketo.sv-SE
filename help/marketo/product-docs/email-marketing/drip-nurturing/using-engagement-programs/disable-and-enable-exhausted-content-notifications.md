@@ -3,7 +3,7 @@ unique-page-id: 2359877
 description: Inaktivera och aktivera utökade innehållsmeddelanden - Marketo Docs - Produktdokumentation
 title: Inaktivera och aktivera meddelanden om utfyllt innehåll
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -27,9 +27,8 @@ När man tar bort allt innehåll i en ström kan Marketo skicka ett meddelande. 
 
    ![](assets/image2014-9-15-17-3a28-3a11.png)
 
-1. Välj **Av **(eller **På**) och klicka på **Spara**.
+1. Välj **Av** (eller **På**) och klicka på **Spara**.
 
    ![](assets/image2014-9-15-17-3a28-3a15.png)
 
    Suverän! Om du aktiverar meddelanden visas något i själva strömmen och du får ett e-postmeddelande.
-
