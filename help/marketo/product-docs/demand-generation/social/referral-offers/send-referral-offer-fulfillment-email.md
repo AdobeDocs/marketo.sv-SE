@@ -3,9 +3,9 @@ unique-page-id: 2359785
 description: Skicka hänvisningserbjudande för uppfyllelse av e-post - Marketo Docs - Produktdokumentation
 title: Skicka e-post om uppfyllelse av hänvisningserbjudande
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ Belöna era kunder med kuponger och rabattkoder med hjälp av e-postmeddelandet 
 
 >[!PREREQUISITES]
 >
->* [Använd e-post i sociala kampanjer](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
->* [Skapa ett hänvisningserbjudande](create-a-referral-offer.md)
-
->
-
+>* [Använd e-post i sociala kampanjer](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
+>* [Skapa ett hänvisningserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
 
 
 ## Ställ in leverans för uppfyllelse {#set-up-fulfillment-delivery}
@@ -30,11 +27,9 @@ Belöna era kunder med kuponger och rabattkoder med hjälp av e-postmeddelandet 
 
    ![](assets/image2015-4-20-16-3a3-3a14.png)
 
-1. Under **Appinställningar** väljer du **Erbjudandeinformation.**
+1. Under **Appinställningar** väljer du **Erbjudandeinformation**.
 
-   ** ![](assets/image2015-4-23-12-3a53-3a16.png)
-
-   **
+   ![](assets/image2015-4-23-12-3a53-3a16.png)
 
 1. Välj ett **e-postmeddelande för registrering**.
 
@@ -46,10 +41,7 @@ Belöna era kunder med kuponger och rabattkoder med hjälp av e-postmeddelandet 
 
    >[!NOTE]
    >
-   >**Djupdykning**
-   >
-   >
-   >Läs mer om [hur du använder e-post i sociala kampanjer](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >Läs mer om [hur du använder e-post i sociala kampanjer](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
 
 1. Klicka på listrutan **Fulfillment Delivery** och välj **auto on target**.
 
@@ -65,7 +57,7 @@ Du kan skicka ett e-postmeddelande manuellt till en person när de har nått må
 
    ![](assets/image2015-4-20-15-3a37-3a14.png)
 
-1. Klicka på alternativet **Filtrera efter **och välj **Mål**.
+1. Klicka på alternativet **Filtrera efter** och välj **Mål**.
 
    >[!NOTE]
    >
