@@ -3,9 +3,9 @@ unique-page-id: 7504238
 description: Anpassade RTP-instrumentpaneler i Google Universal Analytics - Marketo Docs - Produktdokumentation
 title: Anpassade RTP-instrumentpaneler i Google Universal Analytics
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '747'
 ht-degree: 0%
 
 ---
@@ -263,9 +263,7 @@ Skapa en ny instrumentpanel med namnet **RTP Engagement Dashboard** och definier
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >[Integrera RTP med Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
 >
