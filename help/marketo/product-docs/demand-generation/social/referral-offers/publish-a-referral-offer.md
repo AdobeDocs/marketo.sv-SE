@@ -3,9 +3,9 @@ unique-page-id: 2359845
 description: Publicera ett hänvisningserbjudande - Marketo Docs - Produktdokumentation
 title: Publicera ett hänvisningserbjudande
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Publicera ett hänvisningserbjudande {#publish-a-referral-offer}
 
-När du har [skapat ett hänvisningserbjudande](create-a-referral-offer.md) kan du publicera det på din Markettill landningssidor, på Facebook och på din webbplats.
+När du har [skapat ett hänvisningserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) kan du publicera det på din Markettill landningssidor, på Facebook och på din webbplats.
 
 1. Navigera till landningssidan och öppna den för redigering.
 
@@ -29,13 +29,10 @@ När du har [skapat ett hänvisningserbjudande](create-a-referral-offer.md) kan 
 
 >[!NOTE]
 >
->**Påminnelse**
->
 >Du måste godkänna ditt hänvisningserbjudande för att kunna göra det tillgängligt här.
 
-Grattis! Godkänn landningssidan och ditt hänvisningserbjudande är öppet. Du kan även [publicera landningssidan på Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) eller [publicera erbjudandet på din webbplats](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+Grattis! Godkänn landningssidan och ditt hänvisningserbjudande är öppet. Du kan även [publicera landningssidan på Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) eller [publicera erbjudandet på din webbplats](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!TIP]
 >
 >Testa och förfina ditt hänvisningserbjudande. Gå till erbjudandet på din webbsida och registrera dig med testinformation. Observera allt du vill ändra när det gäller användarens upplevelse.
-
