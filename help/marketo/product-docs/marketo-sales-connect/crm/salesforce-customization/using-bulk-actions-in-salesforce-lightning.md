@@ -3,9 +3,9 @@ unique-page-id: 42762825
 description: Använda gruppåtgärder i Salesforce Lightning - Marketo Docs - Produktdokumentation
 title: Använda gruppåtgärder i Salesforce Lightning
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
@@ -82,9 +82,7 @@ Lär dig hur du utför satsvisa åtgärder, som att lägga till leads till en ka
 >
 >Du kan även använda gruppåtgärder i kontaktlistvyn genom att följa samma steg.
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Skicka e-post via gruppe-post](http://docs.marketo.com/x/KAQ6Ag)
 >* [Disponera massutskick med Markera och skicka](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
