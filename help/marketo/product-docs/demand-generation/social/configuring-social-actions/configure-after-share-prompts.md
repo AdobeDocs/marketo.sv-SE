@@ -3,7 +3,7 @@ unique-page-id: 2359813
 description: Konfigurera efterdelningsfrågor - Marketo Docs - Produktdokumentation
 title: Konfigurera efterdelningsfrågor
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -23,7 +23,7 @@ I appar för sociala knappar, videodelning och omröstningar kan du välja vad s
 
    ![](assets/image2015-4-21-12-3a1-3a11.png)
 
-1. Gå till **Appinställningar**** **och sedan **Avancerade alternativ** i redigeraren för sociala appar.
+1. Gå till **Appinställningar** i redigeraren för sociala appar och **Avancerade alternativ**.
 
    ![](assets/image2015-4-21-12-3a10-3a54.png)
 
@@ -57,4 +57,3 @@ I appar för sociala knappar, videodelning och omröstningar kan du välja vad s
 1. Redigera begäran om e-postadress och marknadsföringsmeddelandet (om du har inkluderat det).
 
    ![](assets/image2015-4-21-12-3a52-3a49.png)
-
