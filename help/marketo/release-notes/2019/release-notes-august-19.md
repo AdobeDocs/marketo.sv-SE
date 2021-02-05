@@ -3,9 +3,9 @@ unique-page-id: 27656786
 description: Versionsinformation -August 19 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - augusti 19
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,8 @@ Följande funktioner är icke-kvartalsvisa och kommer att släppas under det tre
 * **Introduktion:** Stegvis genomgång gör introduktionen enklare och effektivare genom att vägleda nya användare via instanskonfiguration.
 * **Förbättring av sidlayout för personer:** Hantera personer och grupper genom att lista importer och gruppåtgärder i den nya sidlayouten för personer.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Tillgänglighet**
 >
 >Funktioner som anges av en stjärna ( ![(stjärna)](assets/star-yellow.svg)) är betalda tillägg. Kontakta er Marketo om du vill veta mer.
 
