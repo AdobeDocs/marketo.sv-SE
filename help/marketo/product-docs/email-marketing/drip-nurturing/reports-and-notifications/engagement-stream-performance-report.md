@@ -3,7 +3,7 @@ unique-page-id: 2359955
 description: Resultatrapport för Engagement Stream - Marketo Docs - Produktdokumentation
 title: Resultatrapport för engagemangsström
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Vill du veta hur engagemangsinnehållet fungerar? Testa rapporten om hur engagem
 
 ## Skapa rapporten {#create-the-report}
 
-1. Hitta och välj ditt engagemangsprogram och klicka sedan på **Nytt** **Ny lokal resurs** under &lt;a0/>Nytt&lt;a1/>.
+1. Hitta och välj ditt engagemangsprogram och klicka sedan på **Nytt** **Ny lokal resurs** under Nytt.
 
    ![](assets/localassetnutring.jpg)
 
@@ -60,8 +60,6 @@ Vill du veta hur engagemangsinnehållet fungerar? Testa rapporten om hur engagem
 
    >[!TIP]
    >
-   >
-   >Även om det inte finns någon illustration är Engagement Score en kolumn i den här rapporten. Mer information om vad det är finns i [Förstå engagemangspoängen](understanding-the-engagement-score.md).
+   >Även om det inte finns någon illustration är Engagement Score en kolumn i den här rapporten. Mer information om vad det är finns i [Förstå engagemangspoängen](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
    Bra jobbat! Observera att rapporten grupperas efter engagemangsprogram.
-
