@@ -3,9 +3,9 @@ unique-page-id: 10099077
 description: E-postleverans Power Pack - Så här importerar du en Seedlist - Marketo Docs - Produktdokumentation
 title: E-postleverans, Power Pack - Så här importerar du en Seedlist
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 615ddd6ffdb3873baa159d440db7b24f3a07e6b0
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 En startvärdeslista är en lista över e-postkonton hos flera postlådeproviders, bland annat Google Apps, Hotmail, Yahoo!, som används för att beräkna hur många inkorgar som kan levereras jämfört med skräppostmappar. Så här hämtar du listan till din Marketo-instans.
 
->[!NOTE]
->
->**Tillgänglighet**
+>[!AVAILABILITY]
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
@@ -41,9 +39,9 @@ En startvärdeslista är en lista över e-postkonton hos flera postlådeprovider
 
    >[!NOTE]
    >
-   >Välj **Optimera lista** om du vill att 250ok ska [optimera listan](http://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-) åt dig. Välj** Anpassa lista** om du vill välja vilka seedlisteområden du vill ta med.
+   >Välj **Optimera lista** om du vill att 250ok ska [optimera listan](https://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-) åt dig. Välj **Anpassa lista** om du vill välja de utseendelisteområden som du vill ta med.
 
-1. Efter exporten visas listan som en TXT-fil i webbläsarens nedladdningsmapp. Hämta den och [importera](../../../getting-started/quick-wins/import-a-list-of-people.md) den till din Marketo-instans som en statisk lista.
+1. Efter exporten visas listan som en TXT-fil i webbläsarens nedladdningsmapp. Hämta den och [importera](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) den till din Marketo-instans som en statisk lista.
 
    ![](assets/five.png)
 
