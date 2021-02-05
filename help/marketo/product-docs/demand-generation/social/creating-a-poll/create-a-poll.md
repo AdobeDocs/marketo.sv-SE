@@ -3,9 +3,9 @@ unique-page-id: 2359768
 description: Skapa en omröstning - Marketo Docs - Produktdokumentation
 title: Skapa en omröstning
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -15,21 +15,19 @@ ht-degree: 0%
 
 Engagera personer med en omröstning som de kan rösta i och dela med sina vänner i sociala nätverk. Du kan lägga till den på platser som dina landningssidor, din webbplats och Facebook.
 
->[!NOTE]
->
->**Tillgänglighet**
+>[!AVAILABILITY]
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
 >[!PREREQUISITES]
 >
->Om du vill använda bilder i din omröstning lägger du till dem i Marketo Images- och Files-biblioteket innan du börjar. Lägg till en 60x60px-bild för varje omröstningspost. Se [Lägg till bilder och filer i Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+>Om du vill använda bilder i din omröstning lägger du till dem i Marketo Images- och Files-biblioteket innan du börjar. Lägg till en 60x60px-bild för varje omröstningspost. Se [Lägg till bilder och filer i Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
-1. I programmet väljer du **Nytt** > **Ny lokal resurs.**
+1. I programmet väljer du **Nytt** > **Ny lokal resurs**.
 
    ![](assets/image2014-9-18-18-3a18-3a41.png)
 
-1. Klicka på **Avsökning i**-galleriet för lokala resurser.****
+1. Klicka på **Avsökning** i **galleriet för lokala resurser**.
 
    ![](assets/image2014-9-18-18-3a18-3a47.png)
 
@@ -57,11 +55,11 @@ Engagera personer med en omröstning som de kan rösta i och dela med sina vänn
 
    ![](assets/image2014-9-18-18-3a19-3a37.png)
 
-1. Välj den bild du behöver och klicka sedan på **Välj.**
+1. Markera den bild du behöver och klicka sedan på **Välj**.
 
    ![](assets/image2014-9-18-18-3a19-3a44.png)
 
-1. När du har angett miniatyrbild, rubrik och beskrivning för alla poster klickar du på **Slutför.**
+1. När du har angett miniatyrbild, rubrik och beskrivning för alla poster klickar du på **Slutför**.
 
    ![](assets/image2014-9-18-18-3a19-3a50.png)
 
@@ -77,9 +75,6 @@ Frågeredigeraren öppnas i ett nytt fönster. Standardinställningarna är bra,
 
 Om det finns några problem i omröstningen uppmanas du att åtgärda dem innan omröstningen godkänns. Grattis! Du har skapat din omröstning.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Relaterade artiklar**
->
->Nästa steg är att [publicera din omröstning](publish-a-poll.md), men du kan ändra inställningarna för din omröstning om det behövs. Börja med att [anpassa omröstningsinställningarna](customize-poll-settings.md).
-
+>Nästa steg är att [publicera din omröstning](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md), men du kan ändra inställningarna för din omröstning om det behövs. Börja med att [anpassa omröstningsinställningarna](/help/marketo/product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md).
