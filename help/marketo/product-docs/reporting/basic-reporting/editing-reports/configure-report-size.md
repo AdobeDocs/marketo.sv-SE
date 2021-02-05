@@ -3,9 +3,9 @@ unique-page-id: 2360002
 description: Konfigurera rapportstorlek - Marketo Docs - Produktdokumentation
 title: Konfigurera rapportstorlek
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,8 @@ Marketo-rapporter är som standard begränsade till högst 5 000 rader, men du k
 
    Du är klar! Rapporten kommer att följa den nya gränsen.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
    >
    >
    >Nu kan du [exportera rapporten](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) med den nya gränsen.
