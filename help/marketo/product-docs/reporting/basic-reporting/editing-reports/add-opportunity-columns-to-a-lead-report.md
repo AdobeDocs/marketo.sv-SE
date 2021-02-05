@@ -3,9 +3,9 @@ unique-page-id: 2360018
 description: Lägg till säljprojektskolumner i en lead-rapport - Marketo Docs - produktdokumentation
 title: Lägg till säljprojektskolumner i en lead-rapport
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -66,9 +66,8 @@ Om du vill visa statistik om affärsmöjligheter i dina [personrapporter](http:/
    | Dagar som ska stängas | Genomsnittligt antal dagar för stängning av affärsmöjligheter. |
    | Dagar i försäljning | Genomsnittlig längd på försäljningscykeln (dagar till affärsmöjlighet + dagar till stängning). |
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
    >
    >
    >Lär dig hur du [hanterar storleken på din rapport](configure-report-size.md).
