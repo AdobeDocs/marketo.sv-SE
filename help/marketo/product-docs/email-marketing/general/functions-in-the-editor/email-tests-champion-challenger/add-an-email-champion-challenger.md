@@ -3,9 +3,9 @@ unique-page-id: 2359553
 description: Lägg till en e-postmästare/kund - Marketo Docs - Produktdokumentation
 title: Lägg till en e-postkampanj/kanal
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,8 @@ Så här kommer du igång.
 
 1. Ett nytt fönster öppnas med olika testtypsalternativ. Läs de relaterade artiklarna nedan om du vill veta mer om dem.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
    >
    >    
    >    
