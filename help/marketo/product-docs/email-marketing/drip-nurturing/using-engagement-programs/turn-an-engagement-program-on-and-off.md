@@ -3,7 +3,7 @@ unique-page-id: 2359856
 description: Aktivera och inaktivera ett engagemangsprogram - Marketo Docs - Produktdokumentation
 title: Aktivera och inaktivera ett engagemangsprogram
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -35,5 +35,4 @@ Du kan stänga av ett engagemangsprogram med en enkel knapptryckning. Detta för
 
    ![](assets/image2014-9-15-17-3a15-3a2.png)
 
-   Så där ja! Du kan aktivera det igen med samma steg.
-
+Så där ja! Du kan aktivera det igen med samma steg.
