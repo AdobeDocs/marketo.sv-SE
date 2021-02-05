@@ -3,9 +3,9 @@ unique-page-id: 2360418
 description: Statusrapport - Marketo Docs - Produktdokumentation
 title: Scenrapport för personer efter intäkt
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Du kan skapa en rapport som visar i vilket skede i din [intäktscykelmodell](http://docs.marketo.com/display/docs/revenue+cycle+models) dina medarbetare befinner sig. Rapporten innehåller alla stadier från den angivna modellen så länge det finns ett personsaldo för rapportens angivna datumintervall.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Tillgänglighet**
 >
 >Alla utgåvor av Marketo innehåller inte den här funktionen. Kontakta kontohanteraren om du vill ha mer information.
 
