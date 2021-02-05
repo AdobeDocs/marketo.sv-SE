@@ -3,7 +3,7 @@ unique-page-id: 2359669
 description: Aktivera och inaktivera ströminnehåll - Marketo Docs - Produktdokumentation
 title: Aktivera och inaktivera ströminnehåll
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Ströminnehållet är AV som standard. Aktivera innehåll för att skicka ut det
 
    >[!TIP]
    >
-   >Du kan även aktivera allt innehåll i en ström genom att klicka på kugghjulsikonen på den översta nivån och sedan klicka på **Aktivera allt innehåll.**
+   >Du kan också aktivera allt innehåll i en ström genom att klicka på kugghjulsikonen på den översta nivån och sedan klicka på **Aktivera allt innehåll**.
 
    Snyggt jobbat! Nu vet ni hur ni aktiverar innehåll i era strömmar.
 
@@ -45,7 +45,6 @@ Ströminnehållet är AV som standard. Aktivera innehåll för att skicka ut det
 
    ![](assets/cloneasteam.jpg)
 
-1. Håll pekaren över det innehåll du vill inaktivera, klicka på kugghjulsikonen och klicka sedan på **Inaktivera.**
+1. Håll pekaren över det innehåll du vill inaktivera, klicka på kugghjulsikonen och klicka sedan på **Inaktivera**.
 
    ![](assets/image2014-9-15-16-3a34-3a25.png)
-
