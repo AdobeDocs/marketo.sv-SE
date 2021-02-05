@@ -3,9 +3,9 @@ unique-page-id: 2359581
 description: Champion/Challenger -Approve Your Email Test - Marketo Docs - Product Documentation
 title: Champion/Challenger - Godkänn ditt e-posttest
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -44,9 +44,8 @@ Det sista steget i att konfigurera ditt e-posttest för att godkänna det. Så h
 
    Var inte det enkelt? När du har fått ett antal rapporter vill du anmäla dig som mästare.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
    >
    >    
    >    
