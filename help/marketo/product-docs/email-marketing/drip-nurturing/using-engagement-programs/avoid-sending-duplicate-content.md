@@ -3,7 +3,7 @@ unique-page-id: 10096409
 description: Undvik att skicka duplicerat innehåll - Marketo Docs - produktdokumentation
 title: Undvik att skicka duplicerat innehåll
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -30,4 +30,3 @@ En person får ett e-postmeddelande som skickas från Customer Engagement Engine
 | En kampanj inom ett standardprogram som aktiveras från en sändning inom ett **annat** CEE-program | En medlem i standardprogrammet | Nej |
 | En kampanj inom ett standardprogram som aktiveras från en sändning inom ett **annat** CEE-program | Inte medlem i standardprogrammet | Ja |
 | Ett **annat** CEE-program som använder en smart ström | En medlem i båda CEE-programmen | Nej |
-
