@@ -3,7 +3,7 @@ unique-page-id: 2359839
 description: Testa en engagemangsström - Marketo Docs - Produktdokumentation
 title: Testa en engagemangsström
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
@@ -23,11 +23,11 @@ När du har lagt till allt innehåll i en ström kan du testa dem en bit i taget
 
    ![](assets/two.png)
 
-1. Klicka på** Programåtgärder** och välj **Testa ström**.
+1. Klicka på **Programåtgärder** och välj **Testa ström**.
 
    ![](assets/three.png)
 
-1. Välj din person i listrutan **Testa person **. Kom ihåg att innehåll faktiskt kommer att gå ut, så tänk på det när du väljer.
+1. Välj din person i listrutan **Testa person**. Kom ihåg att innehåll faktiskt kommer att gå ut, så tänk på det när du väljer.
 
    ![](assets/four-rubix.png)
 
@@ -42,7 +42,7 @@ När du har lagt till allt innehåll i en ström kan du testa dem en bit i taget
    Klicka på Inledande ström, markera den ström som du vill testa och klicka på Kör sändning.
    ![](assets/five-rubiks.png)
 
-1. När personen har gått igenom de [övergångsregler](transition-people-between-engagement-streams.md) som du tidigare har konfigurerat klickar du på ikonen Uppdatera.
+1. När personen har gått igenom de [övergångsregler](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) som du tidigare har konfigurerat klickar du på ikonen Uppdatera.
 
    ![](assets/six-rubiks.png)
 
@@ -54,5 +54,4 @@ När du har lagt till allt innehåll i en ström kan du testa dem en bit i taget
 
    >[!NOTE]
    >
-   >Inget annat innehåll skickas om du inte klickar på **Kör Cast **igen.
-
+   >Inget annat innehåll skickas om du inte klickar på **Kör klippet igen**.
