@@ -3,9 +3,9 @@ unique-page-id: 2360052
 description: Visade webbsidor, aktivitetsrapport för webbsida - Marketo Docs - Produktdokumentation
 title: Visade webbsidor, aktivitetsrapport för webbsida
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,8 @@ Från en [webbsidesaktivitetsrapport](../../../../../product-docs/reporting/basi
 
    ![](assets/image2014-9-16-14-3a54-3a12.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
    >
    >
    >Skapa en [företagswebbaktivitetsrapport](../../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) för att se vilka företag som besöker din webbplats.
