@@ -3,7 +3,7 @@ unique-page-id: 12976776
 description: Använd LinkedIn-formulärfilter och utlösare i en smart kampanj - Marketo Docs - produktdokumentation
 title: Använd LinkedIn-formulärfilter och utlösare för lead-generering i en smart kampanj
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -26,4 +26,3 @@ När du har aktiverat LinkedIn Lead Gen Forms kan du använda dem som filter och
 1. Lägg till begränsningar för att begränsa resultaten ytterligare.
 
    ![](assets/lead-gen-constraints.png)
-
