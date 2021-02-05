@@ -3,7 +3,7 @@ unique-page-id: 2950547
 description: Configure Person Capture for a Social App - Marketo Docs - Produktdokumentation
 title: Konfigurera Personfångst för en social app
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Konfigurera PERSON Capture för en social app {#configure-person-capture-for-a-social-app}
 
-När du skapar ett [hänvisningserbjudande](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) eller en [utlottning](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) kan du konfigurera vilken information du begär och vilken information du behöver från personer för att kunna delta.
+När du skapar ett [hänvisningserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) eller en [utlottning](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) kan du konfigurera vilken information du begär och vilken information du behöver från personer för att kunna delta.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ När du skapar ett [hänvisningserbjudande](../../../../product-docs/demand-gene
 
    ![](assets/ma-2.png)
 
-1. Markera appen och klicka på **Redigera utkast.**
+1. Markera programmet och klicka på **Redigera utkast**.
 
    ![](assets/image2014-9-22-10-3a57-3a57.png)
 
-1. Gå till **Registreringsflöde** > **Personhämtning i redigeraren för sociala appar.**
+1. Gå till **Registreringsflöde** > **Personhämtning** i redigeraren för sociala appar.
 
    ![](assets/three-1.png)
 
@@ -42,7 +42,7 @@ När du skapar ett [hänvisningserbjudande](../../../../product-docs/demand-gene
 
    >[!NOTE]
    >
-   >Oavsett vilket får deltagarna fortfarande [*fungerande* e-postmeddelanden](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) från ditt erbjudande.
+   >Oavsett vilket får deltagarna fortfarande [_fungerande_ e-postmeddelanden](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) från ditt erbjudande.
 
 1. I fönstret Visa och redigera klickar du på **Visa redigeringar** och redigerar meddelandena i delningsprompten.
 
@@ -50,5 +50,4 @@ När du skapar ett [hänvisningserbjudande](../../../../product-docs/demand-gene
 
 >[!MORELIKETHIS]
 >
->Nu kan du [konfigurera det sociala registreringsflödet](configure-social-sign-up-share-flow.md) och redigera delningsmeddelanden som ska skickas till varje socialt nätverk.
-
+>Nu kan du [konfigurera det sociala registreringsflödet](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) och redigera delningsmeddelanden som ska skickas till varje socialt nätverk.
