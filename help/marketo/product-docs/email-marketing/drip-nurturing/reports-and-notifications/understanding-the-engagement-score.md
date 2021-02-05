@@ -3,7 +3,7 @@ unique-page-id: 2359890
 description: Så här fungerar Engagement Score - Marketo Docs - produktdokumentation
 title: Så här fungerar engagemanget
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Förstå engagemangspoängen {#understanding-the-engagement-score}
 
-Det blir enkelt att se hur effektivt innehållet i engagemangsprogrammet är. Poängen varierar mellan 0 och 100. Ta en titt på [Enterprise Dashboard](the-engagement-dashboard.md) för att se hur du kan spåra innehållets prestanda.
+Det blir enkelt att se hur effektivt innehållet i engagemangsprogrammet är. Poängen varierar mellan 0 och 100. Ta en titt på [Enterprise Dashboard](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/the-engagement-dashboard.md) för att se hur du kan spåra innehållets prestanda.
 
 ![](assets/image2014-9-25-16-3a24-3a54.png)
 
@@ -33,9 +33,4 @@ Engagemangsmoment är universella för alla kunder. Du kan jämföra dem för at
 
 >[!MORELIKETHIS]
 >
->* [Förstå engagemangsprogram](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
-
->
-
-
-
+>[Förstå engagemangsprogram](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
