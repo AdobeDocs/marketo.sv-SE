@@ -3,7 +3,7 @@ unique-page-id: 2359819
 description: Använd kampanjkoder för att fylla i erbjudanden - Marketo Docs - Produktdokumentation
 title: Använd kampanjkoder för att slutföra erbjudandet
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
@@ -25,7 +25,7 @@ När du skapar ett hänvisningserbjudande eller utlottningar kan du skicka en ka
 
    ![](assets/image2015-4-22-11-3a16-3a45.png)
 
-1. Gå till **Appinställningar** och **Erbjudandeinformation i den hänvisningsbara redigeraren.**
+1. Gå till **Appinställningar** och **Erbjudandeinformation** i redigeraren för hänvisningserbjudanden.
 
    ![](assets/image2015-4-22-11-3a23-3a39.png)
 
@@ -39,7 +39,6 @@ När du skapar ett hänvisningserbjudande eller utlottningar kan du skicka en ka
 
    >[!CAUTION]
    >
-   >
    >Allt tomt utrymme i kampanjkodsfilen behandlas som en del av koden på den raden. Var särskilt försiktig så att du undviker efterföljande blanksteg i slutet av varje rad.
 
 1. När överföringen är klar visas det totala antalet överförda koder.
@@ -52,7 +51,7 @@ När deltagarna har börjat tjäna på erbjudandet ser du vilka kampanjkoder som
 
 >[!NOTE]
 >
->Endast Marketo-användare med *Access Awards*-behörighet har tillgång till den här informationen. Se [Hantera användarroller och behörigheter](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>Endast Marketo-användare med _Access Awards_-behörighet har tillgång till den här informationen. Se [Hantera användarroller och behörigheter](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
