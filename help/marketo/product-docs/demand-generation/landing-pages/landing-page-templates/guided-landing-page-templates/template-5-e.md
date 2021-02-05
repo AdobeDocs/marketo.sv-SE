@@ -3,9 +3,9 @@ unique-page-id: 8783926
 description: Mall 5-E - Marketo Docs - Produktdokumentation
 title: Mall 5-E
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Mall 5-E {#template-e}
 
-Högerklicka för att [hämta mall 5-E](http://docs.marketo.com/download/attachments/8783926/template-5e.html?version=1&amp;modificationdate=1437693060000&amp;api=v2)
+[Ladda ned mall 5-E](https://docs.marketo.com/download/attachments/8783926/template-5e.html?version=1&amp;modificationdate=1437693060000&amp;api=v2)
 
 ![](assets/image2015-7-29-15-3a24-3a40.png)
 
@@ -27,6 +27,6 @@ Den här mallen innehåller följande innehåll:
 * Tre innehållsavsnitt (valfritt)
 * Sidfot (valfritt)
 
-Högerklicka nedan om du vill hämta den här mallen:
+**Klicka nedan om du vill hämta den här mallen:**
 
-[Template5-E.html](http://docs.marketo.com/download/attachments/8783926/template-5e.html?version=1&amp;modificationdate=1437693060000&amp;api=v2)
+[Template5-E.html](https://docs.marketo.com/download/attachments/8783926/template-5e.html?version=1&amp;modificationdate=1437693060000&amp;api=v2)
