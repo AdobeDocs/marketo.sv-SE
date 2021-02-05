@@ -3,9 +3,9 @@ unique-page-id: 7504218
 description: Anpassade RTP-rapporter i Google Universal Analytics - Marketo Docs - produktdokumentation
 title: Anpassade RTP-rapporter i Google Universal Analytics
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -220,9 +220,7 @@ I det här inlägget beskrivs hur du konfigurerar anpassade RTP-rapporter för G
 
 ![](assets/image2015-3-22-16-3a30-3a0.png)
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >[Integrera RTP med Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
 >
