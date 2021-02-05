@@ -3,7 +3,7 @@ unique-page-id: 2359811
 description: Välj delnings-URL för en social app - Marketo Docs - produktdokumentation
 title: Välj delnings-URL för en social app
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -35,21 +35,13 @@ När du skapar en social app kan du välja vilken URL som ska delas i inlägg fr
    >
    >**Definition**
    >
-   >
    >Dela inlägg kan länka till tre platser:
    >
-   >    
-   >    
-   >    * **Refererande sida**: Sidan som innehåller appen.
-   >    * **Annan landningssida**: En annan Marketo-landningssida än de som finns i listrutan.
-   >    * **Extern URL**: En landningssida som inte är Marketo.
+   >* **Refererande sida**: Sidan som innehåller appen.
+   >* **Annan landningssida**: En annan Marketo-landningssida än de som finns i listrutan.
+   >* **Extern URL**: En landningssida som inte är Marketo.
 
 
 >[!MORELIKETHIS]
 >
->* [Lägg till din integritetspolicy i en social app](add-your-privacy-policy-to-a-social-app.md)
-
->
-
-
-
+>[Lägg till din integritetspolicy i en social app](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)
