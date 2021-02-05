@@ -3,9 +3,9 @@ unique-page-id: 2359793
 description: Använd e-post i sociala kampanjer - Marketo Docs - Produktdokumentation
 title: Använd e-post i sociala kampanjer
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Använd e-post i sociala kampanjer {#use-emails-in-social-promotions}
 
-När du skapar ett [hänvisningserbjudande](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) eller en [utlottning](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) kan du inkludera e-postmeddelanden som skickas när personen registrerar sig och igen när personen har vunnit belöningen.
+När du skapar ett [hänvisningserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) eller en [utlottning](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) kan du inkludera e-postmeddelanden som skickas när personen registrerar sig och igen när personen har vunnit belöningen.
 
 >[!TIP]
 >
->Mer information om hur du skapar e-postmeddelanden finns i [Skicka en e-poststund](../../../../getting-started/quick-wins/send-an-email.md).
+>Mer information om hur du skapar e-postmeddelanden finns i [Skicka en e-poststund](/help/marketo/getting-started/quick-wins/send-an-email.md).
 
 Använd följande variabler i e-postmeddelanden:
 
 * **E-post** för registrering: Används  **`{{social.Share Url}}`** för att skicka en personlig delningslänk till varje deltagare.
 
-* **Fulfillment email**: Skicka  **`{{social.Promo Code}}`** en  [kampanjkod](use-promo-codes-for-offer-fulfillment.md) till varje vinnare.
+* **Fulfillment email**: Skicka  **`{{social.Promo Code}}`** en  [kampanjkod](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md) till varje vinnare.
 
 >[!PREREQUISITES]
 >
->Innan du kan lägga till ett e-postmeddelande i en social app måste det vara *användbart* och *godkänt*. Se [Redigera inställningar för ett e-postmeddelande](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
+>Innan du kan lägga till ett e-postmeddelande i en social app måste det vara _användbart_ och _godkänt_. Se [Redigera inställningar för ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
@@ -59,22 +59,19 @@ Använd följande variabler i e-postmeddelanden:
 
 >[!NOTE]
 >
->I utlottningar skickas e-postmeddelandet alltid automatiskt när du [väljer vinnaren](../../../../product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md).
+>I utlottningar skickas e-postmeddelandet alltid automatiskt när du [väljer vinnaren](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md).
 
 >[!NOTE]
 >
 >**Definition**
 >
 >* **automatiskt på mål**: E-postmeddelandet skickas automatiskt när varje deltagare uppfyller målet.
->* **skicka** manuellt: När man börjat uppnå målet återgår man till hänvisningserbjudandet för att manuellt  [skicka e-postmeddelandet](../../../../product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md).
+>* **skicka** manuellt: När man börjat uppnå målet återgår man till hänvisningserbjudandet för att manuellt  [skicka e-postmeddelandet](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md).
 
 >
 
 
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Relaterade artiklar**
->
->Därefter kan du [välja resurs-URL](choose-the-share-url-for-a-social-app.md) eller, i ditt hänvisningserbjudande, [ladda upp de kampanjkoder](use-promo-codes-for-offer-fulfillment.md) som du skickar ut.
-
+>Därefter kan du [välja resurs-URL](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) eller, i ditt hänvisningserbjudande, [ladda upp de kampanjkoder](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md) som du skickar ut.
