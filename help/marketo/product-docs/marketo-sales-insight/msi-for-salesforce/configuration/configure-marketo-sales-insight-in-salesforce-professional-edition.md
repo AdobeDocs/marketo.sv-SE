@@ -3,9 +3,9 @@ unique-page-id: 3571743
 description: Configure Marketo Sales Insight in Salesforce Professional Edition - Marketo Docs - produktdokumentation
 title: Konfigurera Marketo Sales Insight i Salesforce Professional Edition
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '920'
+source-wordcount: '918'
 ht-degree: 0%
 
 ---
@@ -299,9 +299,7 @@ Och det är allt! Du bör kunna se fälten Marketo Sales Insight för Leads, Con
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
 
->[!NOTE]
->
->**Relaterade artiklar**
+>[!MORELIKETHIS]
 >
 >* [Prioritet, Urklipp, Relativa poäng och Bästa val](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
 >* [Lägg till Marketo Sales Insight-flik och knappar i Salesforce](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
