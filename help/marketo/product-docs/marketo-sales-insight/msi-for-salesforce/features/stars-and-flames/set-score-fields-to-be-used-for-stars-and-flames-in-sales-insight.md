@@ -3,9 +3,9 @@ unique-page-id: 2360301
 description: Ange poängfält som ska användas för staplar och flamma i Sales Insight - Marketo Docs - produktdokumentation
 title: Ange poängfält som ska användas för staplar och flamma i Sales Insight
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,8 @@ Marketo Sales Insight använder som standard fältet **Leadpoäng** för att ber
    >
    >Försäljningsinsikter kan ta lite tid att omberäkna. Du kan kontrollera CRM senare för att se stjärnorna och lågor.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Relaterade artiklar**
    >
    >
    >[Prioritet, Urklipp, Relativa poäng och Bästa val](priority-urgency-relative-score-and-best-bets.md)
