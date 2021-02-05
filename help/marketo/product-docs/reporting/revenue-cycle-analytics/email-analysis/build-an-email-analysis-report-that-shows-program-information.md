@@ -3,9 +3,9 @@ unique-page-id: 2360409
 description: Skapa en e-postanalysrapport som visar programinformation - Marketo Docs - produktdokumentation
 title: Skapa en e-postanalysrapport som visar programinformation
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Följ de här stegen för att skapa en e-postanalysrapport som visar e-postinformation grupperad efter programkanaler.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Tillgänglighet**
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
