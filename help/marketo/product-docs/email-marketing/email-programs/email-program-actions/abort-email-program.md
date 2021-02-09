@@ -3,7 +3,7 @@ unique-page-id: 7504840
 description: Avbryt e-postprogram - Marketo Docs - Produktdokumentation
 title: Avbryt e-postprogram
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Oj då! Bromsa! Det här e-postprogrammet bör inte gå ut.
 >
 >Den här artikeln är avsedd att hjälpa dig att förhindra att e-postmeddelanden skickas innan de skickas. Det finns inget sätt att återkalla skickade e-postmeddelanden.
 
-1. Klicka på **Avbryt program i ett e-postprogram.**
+1. Klicka på **Avbryt program** i ett e-postprogram.
 
    ![](assets/dashboardleads.jpg)
 
-1. Klicka på **Avbryt **för fullständig bekräftelse.
+1. Klicka på **Avbryt** för fullständig bekräftelse.
 
    ![](assets/image2015-5-20-15-3a24-3a35.png)
 
