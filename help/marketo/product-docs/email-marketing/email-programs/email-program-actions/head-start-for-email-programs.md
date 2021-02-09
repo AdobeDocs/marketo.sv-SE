@@ -3,7 +3,7 @@ unique-page-id: 10097202
 description: Head Start for Email Programs - Marketo Docs - Product Documentation
 title: Head Start for Email Programs
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
 source-wordcount: '408'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Skapa ett e-postprogram](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
-
->
-
-
+>[Skapa ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
 När du väljer ett datum/tid för ett e-postprogram avgör det när programmet ska börja bearbeta. Om du vill att dina e-postmeddelanden ska starta vid den valda tidpunkten, får du det alternativet med Head Start genom att bearbeta programmet i förväg.
 
@@ -74,15 +70,11 @@ Det innebär att om du är i Amerika/Los Angeles och vill aktivera både Head St
 
 ![](assets/image2017-12-5-13-3a11-3a46.png)
 
-[Läs ](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) mer om hur du schemalägger e-postprogram med mottagartidszon.
+[Läs ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) mer om hur du schemalägger e-postprogram med mottagartidszon.
 
 >[!MORELIKETHIS]
 >
->* [Schemalägg ditt e-postprogram](schedule-your-email-program.md)
->* [Schemalägg e-postprogram med mottagartidszon](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
->* [Förstå mottagartidszon](scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
-
->
-
-
+>* [Schemalägg ditt e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+>* [Schemalägg e-postprogram med mottagartidszon](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [Förstå mottagartidszon](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 
