@@ -3,9 +3,9 @@ unique-page-id: 2359455
 description: Schemalägg ditt e-postprogram - Marketo Docs - produktdokumentation
 title: Schemalägg ditt e-postprogram
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,12 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Skapa ett e-postprogram](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definiera en målgrupp med en smart ](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) lista  [Definiera en målgrupp genom att importera en lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Skapa ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>* [Definiera en målgrupp med en smart ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) lista  [Definiera en målgrupp genom att importera en lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
    >
    >
-* [Välj en befintlig ](choose-an-existing-email.md) e-postadress  [Skapa ett e-postmeddelande för ett e-postprogram](create-an-email-for-an-email-program.md)
-
->
-
+* [Välj en befintlig ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) e-postadress  [Skapa ett e-postmeddelande för ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
 
 När ditt e-postprogram har skapats, målgruppen har definierats och e-postmeddelandet har valts, vill du att ditt program *anger när* ska skicka e-postmeddelandet. Så här gör du.
@@ -44,19 +41,14 @@ När ditt e-postprogram har skapats, målgruppen har definierats och e-postmedde
 
    ![](assets/image2017-12-5-14-3a3-3a58.png)
 
-1. Du kan också välja att använda funktionerna [Mottagarens tidszon](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) och/eller [Startpunkt](head-start-for-email-programs.md).
+1. Du kan också välja att använda funktionerna [Mottagarens tidszon](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) och/eller [Startpunkt](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md).
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 
-   Hur lätt var det där? Det enda som återstår är att [godkänna ett e-postprogram](approve-unapprove-an-email-program.md) och du är redo att gå.
+   Hur lätt var det där? Det enda som återstår är att [godkänna ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) och du är redo att gå.
 
 >[!MORELIKETHIS]
 >
->* [Schemalägg e-postprogram med mottagartidszon](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
->* [Head Start for Email Programs](head-start-for-email-programs.md)
->* [Godkänn/avgodkänn ett e-postprogram](approve-unapprove-an-email-program.md)
-
->
-
-
+>* [Schemalägg e-postprogram med mottagartidszon](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [Head Start for Email Programs](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
 
