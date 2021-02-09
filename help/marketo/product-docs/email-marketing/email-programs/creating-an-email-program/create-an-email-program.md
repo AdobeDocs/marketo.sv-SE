@@ -3,9 +3,9 @@ unique-page-id: 1900591
 description: Skapa ett e-postprogram - Marketo Docs - Produktdokumentation
 title: Skapa ett e-postprogram
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -35,16 +35,8 @@ Använd e-postprogram för att snabbt och enkelt skicka ett e-postmeddelande til
 
 Snyggt! Lägg märke till att programmet nu finns i trädet och är klart att användas. Nästa steg blir att definiera er målgrupp. Se Marketo Related Articles nedan.
 
-## Titta på en video {#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/3ySE7FAnFR9btywiWgt4sW.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 >[!MORELIKETHIS]
 >
->* [Definiera en publik med en smart lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
->* [Definiera en publik genom att importera en lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
-
->
-
-
+>* [Definiera en publik med en smart lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+>* [Definiera en publik genom att importera en lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
