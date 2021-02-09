@@ -3,9 +3,9 @@ unique-page-id: 2359491
 description: Lägg till ett A/B-test - Marketo Docs - produktdokumentation
 title: Lägg till ett A/B-test
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,12 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Skapa ett e-postprogram](../../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definiera en målgrupp med en smart ](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) lista genom att  [definiera en målgrupp genom att importera en lista](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Skapa ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>* [Definiera en målgrupp med en smart ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) lista  [Definiera en målgrupp genom att importera en lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
    >
    >
-* [Välj en befintlig ](../../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) e-postadress  [Skapa ett e-postmeddelande för ett e-postprogram](../../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-
->
-
+* [Välj en befintlig ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) e-postadress  [Skapa ett e-postmeddelande för ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
 
 Testning är ett bra sätt att optimera e-postmeddelanden för bättre engagemang. Så här kommer du igång.
@@ -48,16 +45,12 @@ Testning är ett bra sätt att optimera e-postmeddelanden för bättre engageman
 
    >[!CAUTION]
    >
-   >Om du har dubblettposter i din databas får dessa poster **både** test- och vinnande e-postmeddelanden. Om du vill förhindra att detta händer kontrollerar du att du [söker efter och sammanfogar dubblettpersoner](http://docs.marketo.com/x/G4EI) i din databas.
+   >Om du har dubblettposter i din databas får dessa poster **både** test- och vinnande e-postmeddelanden. Om du vill förhindra att detta händer kontrollerar du att du [söker efter och sammanfogar dubblettpersoner](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md) i din databas.
 
 >[!MORELIKETHIS]
 >
->* [Använd A/B-testning på ämnesraden](use-subject-line-a-b-testing.md)
->* [Använd A/B-testning i&quot;hele-post&quot;](use-whole-email-a-b-testing.md)
->* [Använd A/B-testning från adress](use-from-address-a-b-testing.md)
->* [Använd A/B-testning av datum/tid](use-date-time-a-b-testing.md)
-
->
-
-
+>* [Använd A/B-testning på ämnesraden](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
+>* [Använd A/B-testning i&quot;hele-post&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
+>* [Använd A/B-testning från adress](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
+>* [Använd A/B-testning av datum/tid](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
 
