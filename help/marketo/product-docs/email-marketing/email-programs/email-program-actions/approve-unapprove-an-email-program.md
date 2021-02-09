@@ -3,9 +3,9 @@ unique-page-id: 2359462
 description: Godkänn/avgodkänn ett e-postprogram - Marketo Docs - Produktdokumentation
 title: Godkänn/avgodkänn ett e-postprogram
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -15,18 +15,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Skapa ett e-postprogram](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definiera en målgrupp med en smart ](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) lista genom att  [definiera en målgrupp genom att importera en lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Skapa ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>* [Definiera en målgrupp med en smart ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) lista  [Definiera en målgrupp genom att importera en lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
    >
    >
-* [Välj en befintlig ](choose-an-existing-email.md) e-postadress  [Skapa ett e-postmeddelande för ett e-postprogram](create-an-email-for-an-email-program.md)
+* [Välj en befintlig ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) e-postadress  [Skapa ett e-postmeddelande för ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
    >
    >
-* [Schemalägg ditt e-postprogram](schedule-your-email-program.md)
-
->
-
+* [Schemalägg ditt e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
 
 
 ## Godkänn ditt e-postprogram {#approve-your-email-program}
