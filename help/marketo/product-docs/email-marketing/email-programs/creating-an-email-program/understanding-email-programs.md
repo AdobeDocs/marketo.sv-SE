@@ -3,7 +3,7 @@ unique-page-id: 2953572
 description: Understanding Email Programs - Marketo Docs - Product Documentation
 title: Om e-postprogram
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -27,10 +27,10 @@ A/B-tester gör att du kan bevisa vilken e-postadress som är bäst.
 
 Läs mer om följande A/B-tester:
 
-* [A/B-testning av ämnesraden](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
-* [A/B-testning av&quot;hel e-post&quot;](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
-* [A/B-testning av &quot;Från adress&quot;](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
-* [A/B-testning av datum/tid](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
+* [A/B-testning av ämnesraden](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
+* [A/B-testning av&quot;hel e-post&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
+* [A/B-testning av &quot;Från adress&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
+* [A/B-testning av datum/tid](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
 
 ![](assets/abtesthighlight.png)
 
@@ -40,7 +40,9 @@ Läs mer om följande A/B-tester:
 >
 >Vissa föredrar att använda e-postprogram framför att skicka e-postmeddelanden via en smart kampanj på grund av programmets detaljerade rapportkontrollpanel.
 
-Njut av frukterna av ditt arbete. Kontrollpanelerna visar e-postprogrammet och A/B-testresultatet i korthet.   ![](assets/image2015-4-27-11-3a38-3a41.png)
+Njut av frukterna av ditt arbete. Kontrollpanelerna visar e-postprogrammet och A/B-testresultatet i korthet.
+
+![](assets/image2015-4-27-11-3a38-3a41.png)
 
 ![](assets/image2015-4-27-11-3a38-3a27.png)
 
@@ -62,7 +64,7 @@ Använd ett e-postprogram i ett standardprogram för att hålla ordning på sake
 
 >[!NOTE]
 >
->E-postprogram kan inte kapslas i [engagemangsprogram](../../../../getting-started/quick-wins/drip-drip-nurture.md). De kan inte skickas igen och kan bara köra ett test åt gången.
+>E-postprogram kan inte kapslas i [engagemangsprogram](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md). De kan inte skickas igen och kan bara köra ett test åt gången.
 
 ## Schemainställningar {#schedule-settings}
 
@@ -70,14 +72,10 @@ Nu när du förstår e-postprogram kan du komma igång med en av de relaterade a
 
 >[!MORELIKETHIS]
 >
->* [Skapa ett e-postprogram](create-an-email-program.md)
+>* [Skapa ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
    >
    >
-* [Definiera en publik med en smart lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
->* [Skapa ett e-postmeddelande för ett e-postprogram](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
->* [Schemalägg ditt e-postprogram](../../../../product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
-
->
-
-
+* [Definiera en publik med en smart lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+>* [Skapa ett e-postmeddelande för ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Schemalägg ditt e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
 
