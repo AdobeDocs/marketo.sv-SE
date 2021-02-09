@@ -3,9 +3,9 @@ unique-page-id: 2359547
 description: Schemalägg A/B-testet - Marketo Docs - produktdokumentation
 title: Schemalägg A/B-testet
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,13 @@ När du har lagt till ett A/B-test i ett e-postprogram och definierat vinnarkrit
 
 >[!PREREQUISITES]
 >
->* [Lägg till ett A/B-test](add-an-a-b-test.md)
-
->
-
-
+>[Lägg till ett A/B-test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 >[!NOTE]
 >
 >För datum-/tidstester behöver du bara ange när du får sammanfattningen av testresultaten.
 
-1. Välj Skicka testdatum.
+1. Välj datumet **Skicka test**.
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
@@ -43,9 +39,6 @@ När du har lagt till ett A/B-test i ett e-postprogram och definierat vinnarkrit
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
-   >
    >Endast testgruppen får testvarianterna.
 
    ![](assets/image2014-9-12-16-3a0-3a12.png)
@@ -55,6 +48,7 @@ När du har lagt till ett A/B-test i ett e-postprogram och definierat vinnarkrit
    >Om du väljer att deklarera en vinnare manuellt definierar du **Report Send** datum/tid i stället för **Finish Mailing** date/time.
 
    Suverän! Nu är du klar. Granska sammanfattningen och klicka på Stäng.
+
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
    Du kommer att märka att panelen **Schedule** nu har uppdaterats.
@@ -69,9 +63,4 @@ När du har lagt till ett A/B-test i ett e-postprogram och definierat vinnarkrit
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Godkänn/avgodkänn ett e-postprogram](../../../../../product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
-
-
+   >[Godkänn/avgodkänn ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
