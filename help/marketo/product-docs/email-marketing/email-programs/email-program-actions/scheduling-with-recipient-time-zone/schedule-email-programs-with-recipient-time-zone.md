@@ -3,9 +3,9 @@ unique-page-id: 12982903
 description: Schemalägg e-postprogram med mottagartidszon - Marketo Docs - Produktdokumentation
 title: Schemalägg e-postprogram med mottagartidszon
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -37,15 +37,12 @@ Detta ger dig två alternativ:
 >* **Leverera följande dag i mottagarens tidszon**: Om e-postmeddelandet är schemalagt att skickas ut på tisdag kl. 9:00, kommer kvalificerade personer som bor i tidszoner där den schemalagda tiden redan har passerat att få e-postmeddelandet  ** onsdag kl. 9:00.
    >
    >
-* **Leverera med programmets standardinställda tid**: Om e-postmeddelandet är schemalagt att skickas ut på tisdag kl. 9.00, kommer kvalificerade personer som bor i tidszoner där den schemalagda tiden redan har passerat att få e-postmeddelandet  *baserat på dina prenumerationstidszonsinställningar*. Om dina [s](../../../../../product-docs/administration/settings/select-your-language-locale-and-time-zone.md) [inställningar för tidszon för prenumeration](../../../../../product-docs/administration/settings/set-default-location-settings-for-a-subscription.md) är inställda på PDT America/Los Angeles får dessa mottagare fortfarande e-postmeddelandet på tisdag klockan 9:00 PDT (oavsett tid i deras egna tidszoner).
-
->
-
+* **Leverera med programmets standardinställda tid**: Om e-postmeddelandet är schemalagt att skickas ut på tisdag kl. 9.00, kommer kvalificerade personer som bor i tidszoner där den schemalagda tiden redan har passerat att få e-postmeddelandet  _baserat på dina prenumerationstidszonsinställningar_. Om dina [inställningar för tidszon för prenumeration](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) är inställda på PDT America/Los Angeles, kommer dessa mottagare fortfarande att få e-postmeddelandet på tisdag klockan 9:00 PDT (vilken tid som helst i deras egna tidszoner).
 
 
 >[!NOTE]
 >
->[Läs ](https://docs.marketo.com/display/DOCS/Understanding+Recipient+Time+Zone#UnderstandingRecipientTimeZone-CalculatingTimeZone) mer om hur Marketo beräknar tidszoner för mottagare.
+>[Läs ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md#calculating-time-zone) mer om hur Marketo beräknar tidszoner för mottagare.
 
 Låt oss titta närmare på det här scenariot. Anta att du är i San Francisco och schemalägger ett e-postmeddelande kl. 7:00 för en **9:00**-sändning. I din smarta lista finns det personer från följande områden:
 
@@ -68,15 +65,15 @@ När du godkänt programmet börjar det köras inom 15 minuter.
 
 >[!NOTE]
 >
->Även om programmet kommer att starta *processen* för att skicka e-post på 15 minuter, kommer e-postmeddelanden inte att *levereras* vid den tidpunkten. Mottagarna får fortfarande e-post baserat på de **tidszonsinställningar** du väljer.
+>Även om programmet kommer att starta _processen_ för att skicka e-post på 15 minuter, kommer e-postmeddelanden inte att _levereras_ vid den tidpunkten. Mottagarna får fortfarande e-post baserat på de **tidszonsinställningar** du väljer.
 
 ## Scenario 2: Mer än 25 timmar {#scenario-more-than-hours}
 
 I det andra scenariot godkänner du ett e-postprogram med **Mottagarens tidszon** aktiverad och en schemalagd leveranstid som är mer än 25 timmar framåt. I så fall börjar programmet köras vid den schemalagda tidpunkten i **den tidigaste** tidszonen i världen (UTC + 14:00). Det kan finnas personer som är kvalificerade för din smarta lista i alla tidszoner över hela världen, så med början i den tidigaste tidszonen kan vi leverera e-postmeddelandet på det schemalagda datumet/den schemalagda tiden till alla mottagare i deras respektive tidszoner.
 
-Startpunkt
+**Startpunkt**
 
-Nu ska vi prata om hur [Startstart](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) fungerar med **Mottagarens tidszon**. Vår befintliga funktion för Head Start kräver att programmet schemaläggs minst 12 timmar i förväg. Så vad betyder det för mottagarens tidszon? Kom ihåg att när Mottagarens tidszon är aktiverad börjar vi köra e-postprogrammet vid den schemalagda tidpunkten i den tidigaste tidszonen (UTC +14:00). Om du vill aktivera **både** Starttid och Mottagarens tidszon måste e-postprogram schemaläggas **minst 12 timmar före den schemalagda tiden i UTC +14:00.**
+Nu ska vi prata om hur [Startstart](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) fungerar med **Mottagarens tidszon**. Vår befintliga funktion för Head Start kräver att programmet schemaläggs minst 12 timmar i förväg. Så vad betyder det för mottagarens tidszon? Kom ihåg att när Mottagarens tidszon är aktiverad börjar vi köra e-postprogrammet vid den schemalagda tidpunkten i den tidigaste tidszonen (UTC +14:00). Om du vill aktivera **både** Starttid och Mottagarens tidszon måste e-postprogram schemaläggas **minst 12 timmar före den schemalagda tiden i UTC +14:00.**
 
 Det innebär att om du är i Amerika/Los Angeles och vill aktivera både Head Start och Receipient Time Zone måste du schemalägga programmet **34 timmar** i förväg. Hur kom vi till det här numret?
 
@@ -86,8 +83,8 @@ Det innebär att om du är i Amerika/Los Angeles och vill aktivera både Head St
 
 Kort och gott: e-postprogram som schemalagts med mottagartidszon måste börja köras vid den schemalagda tidpunkten i den tidigaste tidszonen (dvs. där den når midnatt först) för att varje tidszon ska få plats. Så om du schemalägger ett e-postprogram..
 
-* **med en leveranstid  *inom*  25 timmar** börjar programmet köras inom 15 minuter. Mottagare som redan har passerat den schemalagda tiden får e-postmeddelandet baserat på de tidszonsinställningar du har valt.
-* **med en leveranstid  ** *på mer än*  25 timmar i framtiden** börjar programmet köras vid den schemalagda tidpunkten i den tidigaste tidszonen (UTC +14:00).
+* **med en leveranstid  _inom_  25 timmar** börjar programmet köras inom 15 minuter. Mottagare som redan har passerat den schemalagda tiden får e-postmeddelandet baserat på de tidszonsinställningar du har valt.
+* **med en leveranstid på  _mer än_  25 timmar i framtiden** börjar programmet köras vid den schemalagda tidpunkten i den tidigaste tidszonen (UTC +14:00).
 * **med Head Start** börjar programmet bearbeta 12 timmar före den schemalagda tiden i den tidigaste tidszonen (UTC +14:00).
 
 >[!CAUTION]
@@ -96,11 +93,7 @@ Kort och gott: e-postprogram som schemalagts med mottagartidszon måste börja k
 
 >[!MORELIKETHIS]
 >
->* [Förstå mottagartidszon](understanding-recipient-time-zone.md)
->* [Head Start for Email Programs](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
->* [Avbryt leverans av e-postprogram som schemalagts med mottagartidszon](abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)
-
->
-
-
+>* [Förstå mottagartidszon](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [Head Start for Email Programs](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
+>* [Avbryt leverans av e-postprogram som schemalagts med mottagartidszon](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)
 
