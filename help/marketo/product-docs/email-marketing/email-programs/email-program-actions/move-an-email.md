@@ -3,7 +3,7 @@ unique-page-id: 10098691
 description: Flytta ett e-postmeddelande - Marketo Docs - Produktdokumentation
 title: Flytta ett e-postmeddelande
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -40,4 +40,3 @@ Behöver du flytta ett e-postmeddelande från ett program till ett annat? Så h�
    ![](assets/leadperformance2.jpg)
 
    Ganska fet!
-
