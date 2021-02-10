@@ -3,7 +3,7 @@ unique-page-id: 1147356
 description: Understanding Email Event Logging - Marketo Docs - produktdokumentation
 title: E-posthändelseloggning
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
@@ -28,4 +28,3 @@ När du skickar e-postmeddelanden loggar Marketo olika datapunkter till personen
 >[!CAUTION]
 >
 >Om samma e-post skickas till samma person två gånger från samma kampanj loggas händelsen **Öppnad** högst en gång.
-
