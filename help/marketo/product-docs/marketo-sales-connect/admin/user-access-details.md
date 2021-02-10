@@ -3,9 +3,9 @@ unique-page-id: 14352623
 description: Information om användaråtkomst - Marketo Docs - Produktdokumentation
 title: Information om användaråtkomst
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ Vad har administratörer och icke-administratörer tillgång till?
 
 ## Administratörsanvändarbehörigheter {#admin-user-permissions}
 
-Administratörer kan [visa alla mallar](http://docs.marketo.com/x/OYAXAQ).
+Administratörer kan [visa alla mallar](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md).
 
 ![](assets/templates.jpg)
 
-Administratörer kan [visa alla kampanjer](http://docs.marketo.com/x/N4AXAQ).
+Administratörer kan [visa alla kampanjer](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
 
 ![](assets/campaigns.jpg)
 
-Administratörer kan [visa alla e-postaktiviteter](http://docs.marketo.com/x/SYAXAQ).
+Administratörer kan visa all e-postaktivitet.
 
 ![](assets/email-activity.png)
 
@@ -70,4 +70,3 @@ Administratörer kan stoppa kampanjer för användarnas räkning.
    * Användare kan dela mallar i kategorier som deras administratörer tillåter dem att
    * När en användare tas bort från ett team delas inte deras mallar med det teamet
    * När en användare tas bort från ett team överför deras mallar ägarskapet till den Överordnad administratören som tog bort användaren
-
