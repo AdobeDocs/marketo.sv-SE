@@ -3,9 +3,9 @@ unique-page-id: 11371040
 description: Syntax för e-postmall - Marketo Docs - Produktdokumentation
 title: Syntax för e-postmall
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '2397'
+source-wordcount: '2395'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Element är innehållsområden som du definierar som redigerbara i din e-postmal
 
 ## RTF {#rich-text}
 
-Om du definierar ett område som RTF kan användarna redigera innehållet [med Marketos RTF-redigerare](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md). Det finns två sätt att definiera ett RTF-element i en e-postmall: mktEditable och mktoText. Kom ihåg att ett RTF-element alltid kan konverteras till ett fragment i e-postredigeraren.
+Om du definierar ett område som RTF kan användarna redigera innehållet [med Marketos RTF-redigerare](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md). Det finns två sätt att definiera ett RTF-element i en e-postmall: mktEditable och mktoText. Kom ihåg att ett RTF-element alltid kan konverteras till ett fragment i e-postredigeraren.
 
 ### Alternativ 1 - mktEditable {#option-mkteditable}
 
@@ -81,7 +81,7 @@ Exempel:
 
 Det finns två alternativ för att definiera redigerbara bildelement. Du kan antingen använda en `<div>`, som anger en behållare som `<img>` ska infogas i, eller en `<img>`-tagg. Om du vill att slutanvändaren ska välja en bild som returnerar bild-URL:en (till skillnad från DOM), se&quot;bildvariabler&quot; i avsnittet nedan. Följande två alternativ infogar ett HTML `<img>`-element.
 
-### Alternativ 1 - Använd en \&lt;div\> {#option-use-a-div}
+### Alternativ 1 - Använd en `<div>` {#option-use-a-div}
 
 Attribut som krävs
 
@@ -128,7 +128,7 @@ Exempel:
 
 ## Kodavsnitt {#snippets}
 
-Om du definierar ett område som ett kodfragment kan slutanvändarna välja vilket godkänt [kodfragment](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)de vill infoga i det här området. Även om RTF-element kan konverteras till fragment i e-postredigeraren, kan de inte konverteras till RTF när du definierar ett område som ett fragment. Du kan ange ett fragmentområde med hjälp av en `<div>` med class=&quot;mktoSnippet&quot;
+Om du definierar ett område som ett kodfragment kan slutanvändarna välja vilket godkänt [kodfragment](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)de vill infoga i det här området. Även om RTF-element kan konverteras till fragment i e-postredigeraren, kan de inte konverteras till RTF när du definierar ett område som ett fragment. Du kan ange ett fragmentområde med hjälp av en `<div>` med class=&quot;mktoSnippet&quot;
 
 Attribut som krävs
 
@@ -351,8 +351,6 @@ Valfria attribut
 * **mktoAddByDefault:** Avgör om den här modulen kommer att finnas på arbetsytan i ett nytt e-postmeddelande som använder mallen när den skapas. Standardvärdet är true (om mktoActive är false ignoreras det här värdet).
 
 >[!NOTE]
->
->**Påminnelse**
 >
 >Klassvärden som innehåller Marketo-syntax (dvs mktoModule, mktoContainer, mktoText) är skiftlägeskänsliga. Anpassade attributnamn (dvs. mktoimgwidth, mktoname) är inte tillåtna.
 
