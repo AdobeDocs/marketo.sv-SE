@@ -3,7 +3,7 @@ unique-page-id: 2359562
 description: Champion/Challenger -Define Champion Criteria - Marketo Docs - produktdokumentation
 title: Champion/Challenger - Definiera tävlingskriterier
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
@@ -17,11 +17,7 @@ När du har konfigurerat testtypen måste du definiera tävlingskriterierna. Så
 
 >[!PREREQUISITES]
 >
->* [Lägg till en e-postkampanj/kanal](add-an-email-champion-challenger.md)
-
->
-
-
+>[Lägg till en e-postkampanj/kanal](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
 ## Standardtävlingsvillkor {#standard-champion-criteria}
 
@@ -33,7 +29,7 @@ När du har konfigurerat testtypen måste du definiera tävlingskriterierna. Så
    >
    >Vi håller reda på mätvärdena och skickar en rapport med data via e-post.
 
-1. Om du valde ett av standardvillkoren för **Champion Criteria** går du vidare till [Champion/Challenger: Konfigurera rapportaviseringar](champion-challenger-configure-report-alerts.md)!
+1. Om du valde ett av standardvillkoren för **Champion Criteria** går du vidare till [Champion/Challenger: Konfigurera rapportaviseringar](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)!
 
 ## Anpassade villkor för tävling {#custom-champion-criteria}
 
@@ -63,9 +59,4 @@ När du har konfigurerat testtypen måste du definiera tävlingskriterierna. Så
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Champion/Challenger: Konfigurera rapportaviseringar](champion-challenger-configure-report-alerts.md)
-
-
+   >[Champion/Challenger: Konfigurera rapportaviseringar](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
