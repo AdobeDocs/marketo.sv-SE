@@ -3,9 +3,9 @@ unique-page-id: 11372299
 description: Email Editor v2.0 Overview - Marketo Docs - produktdokumentation
 title: E-postredigerare v2.0 - översikt
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ När du bestämmer dig för att aktivera e-postredigeraren v2.0 kommer du att m�
 
 **Väljare för e-postmall**
 
-När du skapar ett nytt e-postmeddelande dirigeras du till [e-postmallväljaren](email-template-picker-overview.md).
+När du skapar ett nytt e-postmeddelande dirigeras du till [e-postmallväljaren](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
 
 ![](assets/starter-templates-1.png)
 
@@ -29,19 +29,19 @@ När du börjar redigera din e-post kommer du att märka att redigeraren ser hel
 
 **Moduler**
 
-Sådana saker till höger om redigeraren kallas moduler. Lär dig hur du [lägger till moduler i e-postmeddelandet](add-modules-to-your-email.md).
+Sådana saker till höger om redigeraren kallas moduler. Lär dig hur du [lägger till moduler i e-postmeddelandet](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
 
 ![](assets/three-4.png)
 
 **Textversion**
 
-Växlingen mellan HTML-versionen och textversionen av e-postmeddelandet finns nu på en praktisk flik längst ned. Lär dig hur du [redigerar textversionen av ett e-postmeddelande](../../../../product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
+Växlingen mellan HTML-versionen och textversionen av e-postmeddelandet finns nu på en praktisk flik längst ned. Lär dig hur du [redigerar textversionen av ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
 
 ![](assets/four-3.png)
 
 **E-posthuvud**
 
-Vill du ha mer designutrymme? E-postrubriken kan döljas när du har redigerat [den](../../../../product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Klicka bara på den här ikonen..
+Vill du ha mer designutrymme? E-postrubriken kan döljas när du har redigerat [den](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Klicka bara på den här ikonen..
 
 ![](assets/five-4.png)
 
@@ -69,7 +69,7 @@ Standardvyn där är skrivbordet..
 
 ...men du kan också se hur det kommer att se ut på en mobil enhet. Du kan också förhandsgranska textversionen! Klicka bara på **Redigera utkast** i det övre högra hörnet för att återuppta redigeringen.
 
-[![](assets/preview3.png)](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
+![](assets/preview3.png)
 
 **E-poståtgärder**
 
@@ -83,7 +83,7 @@ Under **E-poståtgärder** kommer du att märka några nya funktioner. **Ladda u
 
 >[!NOTE]
 >
->** [Hämta bilder från webben](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** fungerar på samma sätt som i Design Studio.
+>**[Hämta bilder från](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** Webworks precis som i Design Studio.
 
 **Inaktivera Open** TrackingUnder  **Email Settings** (E-postinställningar) kan du inaktivera Open Tracking (spåra) om det behövs.
 
@@ -103,15 +103,8 @@ Massor av nya bra funktioner! Ha det så roligt!
 
 >[!NOTE]
 >
->**Djupdykning**
->
 >Om du vill ta bort ännu mer kan du titta på den här [videon](https://nation.marketo.com/videos/1463).
 
 >[!MORELIKETHIS]
 >
->* [Syntax för e-postmall](email-template-syntax.md)
-
->
-
-
-
+>[Syntax för e-postmall](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
