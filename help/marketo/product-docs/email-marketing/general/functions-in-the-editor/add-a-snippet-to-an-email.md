@@ -3,7 +3,7 @@ unique-page-id: 1147358
 description: Lägg till ett kodfragment i ett e-postmeddelande - Marketo Docs - Produktdokumentation
 title: Lägga till ett kodfragment i ett e-postmeddelande
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
@@ -18,7 +18,6 @@ Kodavsnitt är återanvändbara block med text och grafik som du kan använda i 
 >[!PREREQUISITES]
 >
 >[Skapa ett fragment](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
-
 
 >[!NOTE]
 >
