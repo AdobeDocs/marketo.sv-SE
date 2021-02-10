@@ -3,9 +3,9 @@ unique-page-id: 1900558
 description: Redigera element i ett e-postmeddelande - Marketo Docs - Produktdokumentation
 title: Redigera element i ett e-postmeddelande
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '502'
 ht-degree: 0%
 
 ---
@@ -35,10 +35,7 @@ E-postmeddelanden kan innehålla fyra olika element: RTF, bilder, kodfragment oc
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
-   >
-   >Du kan också lägga till bilder, variabler, tabeller och andra element. Se [Använda RTF-redigeraren](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+   >Du kan också lägga till bilder, variabler, tabeller och andra element. Se [Använda RTF-redigeraren](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
    >[!CAUTION]
    >
@@ -70,7 +67,9 @@ E-postmeddelanden kan innehålla fyra olika element: RTF, bilder, kodfragment oc
    >
    >Använd det här alternativet om du vill använda en Marketo-token. Tänk på att när du använder en variabel kommer bilden att visas som skadad i redigeraren, men den kommer att återges i förhandsgranskningsläget och i e-postmeddelandet med sändningsexemplet.
 
-   **Växla** ![](assets/eight.png)
+   Om du vill använda en extern URL klistrar du först in bildens URL. Ändra dimensionerna efter dina behov och lägg till Alt-text (valfritt). Tryck sedan på **Växla**.
+
+   ![](assets/eight.png)
 
    **Den här datorn**
 
@@ -90,14 +89,15 @@ E-postmeddelanden kan innehålla fyra olika element: RTF, bilder, kodfragment oc
    >
    >Om du ersätter en bild måste du markera rutan **Skriv över befintlig bild** som visas under bildens URL/namn.
 
-   **Design** StudioOm du vill infoga en bild från Design Studio letar du reda på den...
+   **Design Studio**
+
+   Om du vill infoga en bild från Design Studio letar du reda på den...
 
    ![](assets/twelve.png)
 
-   **Växla**
-   ![](assets/thirteen.png)
+   ...och infoga den. Ändra dimensionerna efter dina behov, ändra Alt-texten (valfritt) och tryck sedan på **Växla**.
 
-Om du vill använda en extern URL klistrar du först in bildens URL. Ändra dimensionerna efter dina behov och lägg till Alt-text (valfritt). Tryck sedan på .               ...och infoga den. Ändra dimensionerna efter dina behov, ändra Alt-texten (valfritt) och tryck sedan på .
+   ![](assets/thirteen.png)
 
 ## Så här redigerar du fragmentelementet {#how-to-edit-the-snippet-element}
 
