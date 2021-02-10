@@ -3,7 +3,7 @@ unique-page-id: 1900556
 description: Skapa ett e-postmeddelande med endast text - Marketo Docs - produktdokumentation
 title: Skapa ett e-postmeddelande med endast text
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Om du någonsin vill skicka e-post med enbart text är det så här du skapar et
 
    >[!CAUTION]
    >
-   >Länkar spåras inte automatiskt i e-postmeddelanden som bara innehåller text. Se hur du [lägger till spårade länkar i ett e-postmeddelande](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
+   >Länkar spåras inte automatiskt i e-postmeddelanden som bara innehåller text. Se hur du [lägger till spårade länkar i ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
 
    >[!TIP]
    >
