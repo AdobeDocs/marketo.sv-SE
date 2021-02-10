@@ -3,7 +3,7 @@ unique-page-id: 1900585
 description: Lägg till redigerbara avsnitt i e-postmallar v1.0 - Marketo Docs - Produktdokumentation
 title: Lägg till redigerbara avsnitt i e-postmallar v1.0
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -18,6 +18,7 @@ Om du skapar en mall i e-postmallsredigeraren v1.0 kan du göra alla avsnitt red
 >[!NOTE]
 >
 >**Exempel**
+>
 >`<pre> <div class="mktEditable" id="UNIQUE_ID">This part is editable</div></pre>`
 
 Regler:
