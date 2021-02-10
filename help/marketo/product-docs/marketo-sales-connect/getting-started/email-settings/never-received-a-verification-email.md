@@ -3,9 +3,9 @@ unique-page-id: 14352411
 description: Aldrig fått ett bekräftelsemeddelande via e-post - Marketo Docs - produktdokumentation
 title: Har aldrig fått någon bekräftelsemeddelande
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '45'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
@@ -17,4 +17,4 @@ Fick du inte bekräftelsemeddelandet från oss?
 
 Kontrollera först att den inte finns i din skräppostmapp.
 
-Kontakta support om du inte hittar e-postmeddelandet där.
+Kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) om du inte hittar e-postmeddelandet där.
