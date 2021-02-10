@@ -3,9 +3,9 @@ unique-page-id: 1900575
 description: Lägg till en e-postskripttoken i din e-post - Marketo Docs - Produktdokumentation
 title: Lägg till en e-postskripttoken i din e-post
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Lägg till en e-postskripttoken i din e-post {#add-an-email-script-token-to-your-email}
 
-När du har [skapat e-postskriptet](create-an-email-script-token.md)vill du lägga till det i ett e-postmeddelande för att se hur det fungerar. Så här gör du.
+När du har [skapat e-postskriptet](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) vill du lägga till det i ett e-postmeddelande för att se hur det fungerar. Så här gör du.
 
 >[!NOTE]
 >
 >Den totala storleken på alla skripttoken som infogats i ett enda e-postmeddelande får inte överstiga 100 kB.
 
-1. Gå till området Marknadsföringsaktiviteter.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/one-2.png)
 
-1. Leta reda på och välj det e-postmeddelande som du vill lägga till token i och klicka på Redigera utkast.
+1. Sök efter och markera det e-postmeddelande som du vill lägga till token i och klicka på **Redigera utkast**.
 
    ![](assets/two-2.png)
 
@@ -39,7 +39,7 @@ När du har [skapat e-postskriptet](create-an-email-script-token.md)vill du läg
 
    ![](assets/four-2.png)
 
-1. Sök efter och välj den e-postskripttoken som du skapade tidigare och klicka på Infoga.
+1. Sök efter och välj den e-postskripttoken som du skapade tidigare och klicka på **Infoga**.
 
    ![](assets/five-1.png)
 
@@ -47,14 +47,12 @@ När du har [skapat e-postskriptet](create-an-email-script-token.md)vill du läg
    >
    >Lägg till ett standardvärde om du vill.
 
-1. Klicka på Spara.
+1. Klicka på **Spara**.
 
    ![](assets/six.png)
 
 >[!NOTE]
 >
->**Påminnelse**
->
->Glöm inte att [godkänna e-postmeddelandet](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
+>Glöm inte att [godkänna e-postmeddelandet](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
 
 Så ja! När det här e-postmeddelandet skickas körs skriptet bakom token och fyller i innehållet.
