@@ -3,7 +3,7 @@ unique-page-id: 14746143
 description: Delningsinställningar - Marketo Docs - Produktdokumentation
 title: Delningsinställningar
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
@@ -23,7 +23,7 @@ När delningsinställningar är aktiverade kan bara administratörer dela i kate
 
 ## Konfigurera delningsinställningarna {#configure-your-sharing-settings}
 
-1. Gå till sidan Inställningar i [webbprogrammet](http://toutapp.com/login).
+1. Gå till sidan Inställningar i [webbprogrammet](https://toutapp.com/login).
 
    ![](assets/one-2.png)
 
@@ -58,4 +58,3 @@ När delningsinställningar är aktiverade kan bara administratörer dela i kate
 1. Nu när ditt team har lagts till kan du välja att endast tillåta teamadministratörer att dela eller alla användare i det teamet. I det här exemplet gav vi alla användare på SDR-teamet delningsåtkomst.
 
    ![](assets/eight-1.png)
-
