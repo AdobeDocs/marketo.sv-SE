@@ -3,9 +3,9 @@ unique-page-id: 2359476
 description: Använd kontrollpanelen för e-postprogram - Marketo Docs - Produktdokumentation
 title: Använda kontrollpanelen för e-postprogram
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Använd kontrollpanelen för e-postprogram {#use-the-email-program-dashboard}
 
-Ta reda på hur dina [e-postprogram](http://docs.marketo.com/display/docs/email+programs) fungerar med den här instrumentpanelsvyn.
+Se hur e-postprogrammen fungerar i den här instrumentpanelsvyn.
 
 >[!NOTE]
 >
->Om ditt program har ett A/B-test går du till [e-postprogramkontrollpanelen - A/B-testvy](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md).
+>Om ditt program har ett A/B-test går du till [e-postprogramkontrollpanelen - A/B-testvy](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md).
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 
@@ -47,7 +47,7 @@ I det här diagrammet visas antalet e-postmeddelanden som öppnas/klickas under 
 
 ## Sammanfattning - engagemang {#summary-engagement}
 
-Detta visar den övergripande [engagemangspoängen](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+Detta visar den övergripande [engagemangspoängen](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 ![](assets/image2014-9-12-14-3a13-3a11.png)
 
@@ -65,7 +65,7 @@ Resten av informationen visar Öppna, Klickningar, Klick/Öppna förhållande oc
 >
 >**Definition**
 >
->**Öppnar **räknas när e-postmottagaren hämtar e-postbilderna, som innehåller en Marketo-infogad spårningspixel. Om mottagaren visar e-postmeddelandet men väljer att inte hämta bilderna räknas det inte som en öppen fil. Om bilderna läses in i mottagarens förhandsgranskningsfönster räknas det vanligtvis som en öppen bild, men det varierar beroende på e-postklienten.
+>**Openseras** när e-postmottagaren hämtar e-postbilderna, som innehåller en marketo-infogad spårningspixel. Om mottagaren visar e-postmeddelandet men väljer att inte hämta bilderna räknas det inte som en öppen fil. Om bilderna läses in i mottagarens förhandsgranskningsfönster räknas det vanligtvis som en öppen bild, men det varierar beroende på e-postklienten.
 >
 >**Klicka för att** öppna mäter procentandelen e-postmeddelanden som både öppnades och där en länk klickades i e-postmeddelandet. Vi tar antalet unika klick dividerat med antalet unika öppningar och multiplicerar med 100 för att visa det som en procentandel.
 
@@ -77,9 +77,4 @@ Klicka bara på uppdateringsikonen på instrumentpanelen för att se de senaste 
 
 >[!MORELIKETHIS]
 >
->* [Använd kontrollpanelen för e-postprogram - A/B-testvy](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
-
->
-
-
-
+>[Använd kontrollpanelen för e-postprogram - A/B-testvy](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
