@@ -3,9 +3,9 @@ unique-page-id: 11371065
 description: Lägg till moduler i din e-post - Marketo Docs - Produktdokumentation
 title: Lägg till moduler i din e-post
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ I e-postredigeraren 2.0 är en modul en del av e-postmeddelandet som definieras 
 
    >[!NOTE]
    >
-   >De flesta av Marketo Starter-mallarna innehåller moduler. Du kan också [skapa en egen](http://docs.marketo.com/display/DOCS/Email+Template+Syntax#EmailTemplateSyntax-Modules).
+   >De flesta av Marketo Starter-mallarna innehåller moduler. Du kan också [skapa en egen](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
 
 1. Klicka på **Moduler** till höger om e-postmeddelandet.
 
@@ -67,5 +67,4 @@ Det är allt som finns för det.
 
 >[!MORELIKETHIS]
 >
->[Syntax för e-postmall](email-template-syntax.md)
-
+>[Syntax för e-postmall](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
