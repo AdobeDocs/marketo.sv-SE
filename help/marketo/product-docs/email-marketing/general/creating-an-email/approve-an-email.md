@@ -3,7 +3,7 @@ unique-page-id: 1147342
 description: Godkänn ett e-postmeddelande - Marketo Docs - Produktdokumentation
 title: Godkänn ett e-postmeddelande
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -19,8 +19,7 @@ E-postmeddelanden börjar i utkastläge. De är vanligtvis inte tillgängliga i 
 
 1. Sök efter och välj e-post, klicka på listrutan **E-poståtgärder** och välj **Godkänn**.
 
-   ` ![](assets/one.png)  
-`
+   ![](assets/one.png)
 
 ## Godkänn det direkt i trädet {#approve-it-directly-in-the-tree}
 
