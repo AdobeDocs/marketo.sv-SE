@@ -3,7 +3,7 @@ unique-page-id: 1147340
 description: Skicka e-post från Lead Owner - Marketo Docs - Produktdokumentation
 title: Skicka e-post från lead-ägaren
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
@@ -47,7 +47,8 @@ Vad händer om du vill skicka ett e-postmeddelande till en lead för leadägaren
    >
    >Se till att du har lagt till ett blanksteg mellan för- och efternamnstoken.
 
-   Klicka i fältet Från e-post (ta bort en befintlig e-postadress) och klicka på knappen Infoga token.
+1. Klicka i fältet Från e-post (ta bort en befintlig e-postadress) och klicka på knappen Infoga token.
+
    ![](assets/eight.png)
 
 1. Börja skriva `{{lead.Lead Owner` och välj token **`{{lead.Lead Owner Email Address}}`**.
@@ -61,4 +62,3 @@ Vad händer om du vill skicka ett e-postmeddelande till en lead för leadägaren
 1. Se till att fälten **Svara till** och **Ämne** är ifyllda. Klart!
 
    ![](assets/eleven.png)
-
