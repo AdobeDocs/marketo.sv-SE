@@ -3,9 +3,9 @@ unique-page-id: 1147352
 description: Skicka ett exempelmejl - Marketo Docs - Produktdokumentation
 title: Skicka ett exempelmeddelande
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Skicka ett exempelmeddelande {#send-a-sample-email}
 
-Det går snabbt och enkelt att skicka exempel på e-postmeddelanden. Mer information om hur du skickar e-post med dynamiskt innehåll finns i [Förhandsgranska ett e-postmeddelande med dynamiskt innehåll](../../../../product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
+Det går snabbt och enkelt att skicka exempel på e-postmeddelanden. Mer information om hur du skickar e-post med dynamiskt innehåll finns i [Förhandsgranska ett e-postmeddelande med dynamiskt innehåll](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
 
 >[!NOTE]
 >
@@ -33,9 +33,6 @@ Det går snabbt och enkelt att skicka exempel på e-postmeddelanden. Mer informa
    ![](assets/two.png)
 
    >[!NOTE]
-   >
-   >**Påminnelse**
-   >
    >
    >Om du vill ange flera e-postadresser avgränsar du dem med kommatecken.
 
@@ -59,13 +56,13 @@ Det går snabbt och enkelt att skicka exempel på e-postmeddelanden. Mer informa
 
    >[!NOTE]
    >
-   >Utlösarfältet gäller endast för dem som använder [e-postskript](http://developers.marketo.com/documentation/velocity-script/).
+   >Utlösarfältet gäller endast för dem som använder [e-postskript](https://developers.marketo.com/documentation/velocity-script/).
 
 ## Skicka ett exempel på e-post baserat på ett segment {#send-a-sample-email-based-on-a-segment}
 
 >[!PREREQUISITES]
 >
->[Använd segmentering i e-postmeddelanden](http://docs.marketo.com/display/public/DOCS/Using+Dynamic+Content+in+an+Email).
+>[Använd segmentering i e-postmeddelanden](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md).
 
 1. Leta reda på e-postmeddelandet, markera det och klicka på fliken **Redigera utkast**.
 
