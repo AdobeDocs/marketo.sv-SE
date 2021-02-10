@@ -3,9 +3,9 @@ unique-page-id: 13796464
 description: Sales Connect Overview - Marketo Docs - produktdokumentation
 title: Översikt över Sales Connect
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -17,18 +17,17 @@ Marketo Sales Connect är en mångfacetterad säljsupport med många olika funkt
 
 >[!AVAILABILITY]
 >
->
 >Alla kunder har inte köpt den här funktionen. Kontakta din Customer Success Manager om du vill ha mer information.
 
 ## Direktmatningen {#the-live-feed}
 
-Säljare kan se [realtidsengagemang](http://docs.marketo.com/x/d4TS) av både marknadsförings- och säljinnehåll.
+Säljare kan se [realtidsengagemang](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) av både marknadsförings- och säljinnehåll.
 
 ![](assets/engagement.jpg)
 
 ## Persondetaljvy {#person-detail-view}
 
-Få åtkomst till [detaljerad personstatistik](http://docs.marketo.com/x/e4TS).
+Få åtkomst till [detaljerad personstatistik](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
@@ -62,7 +61,7 @@ Se hur era prospects engagerar sig i era säljsatsningar.
   </tr> 
   <tr> 
    <td colspan="1"><p>Ta emot försäljningssamtal</p></td> 
-   <td colspan="1"><p>Lead tog emot ett samtal från en säljare som använder <a href="http://docs.marketo.com/x/NgDb" rel="nofollow">telefonförsäljning</a>.</p></td> 
+   <td colspan="1"><p>Lead tog emot ett samtal från en säljare som använder <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">telefonförsäljning</a>.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Lägg till i försäljningskampanj</p></td> 
@@ -81,7 +80,7 @@ Se hur era prospects engagerar sig i era säljsatsningar.
 
 ## Dela marknadsföringskampanjer {#share-marketing-campaigns}
 
-Skapa en enkel smart kampanj som ger dina säljanvändare åtkomst till [Marketo-kampanjdata](http://docs.marketo.com/x/NwDh).
+Skapa en enkel smart kampanj som ger dina säljanvändare åtkomst till [Marketo-kampanjdata](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
 
 ![](assets/campaign-is-requested.jpg)
 
@@ -89,9 +88,4 @@ Vill du komma igång? Klicka på länken nedan om du vill se installationsanvisn
 
 >[!MORELIKETHIS]
 >
->* [Komma igång med Sales Connect](http://docs.marketo.com/x/coTS)
-
->
-
-
-
+>[Komma igång med Sales Connect](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
