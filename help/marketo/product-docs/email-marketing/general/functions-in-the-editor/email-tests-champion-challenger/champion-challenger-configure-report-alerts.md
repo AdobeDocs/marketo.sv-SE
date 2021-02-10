@@ -3,7 +3,7 @@ unique-page-id: 2359567
 description: Champion/Challenger -Configure Report Alerts - Marketo Docs - Produktdokumentation
 title: Champion/Challenger -Configure Report Alerts
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Marketo skickar rapporter om hur e-posttestet går. Så här schemalägger du de
 
 >[!PREREQUISITES]
 >
->* [Champion/Challenger: Definiera villkor för tävling](champion-challenger-define-champion-criteria.md)
-
->
-
-
+>[Champion/Challenger: Definiera villkor för tävling](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
 
 1. Vi schemalägger rapporten att skicka en gång i veckan på fredag kl. 9.00.
 
@@ -47,9 +43,4 @@ Marketo skickar rapporter om hur e-posttestet går. Så här schemalägger du de
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Champion/Challenger: Godkänn ditt e-posttest](champion-challenger-approve-your-email-test.md)
-
-
+   >[Champion/Challenger: Godkänn ditt e-posttest](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
