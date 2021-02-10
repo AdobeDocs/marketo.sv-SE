@@ -3,7 +3,7 @@ unique-page-id: 2359555
 description: Champion/Challenger -hele mails - Marketo Docs - produktdokumentation
 title: Champion/Challenger - Hele-mails
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -17,13 +17,9 @@ Testa hela e-postmeddelanden mot varandra. När testet är klart skickar du ut d
 
 >[!PREREQUISITES]
 >
->* [Lägg till en e-postkampanj/kanal](add-an-email-champion-challenger.md)
+>[Lägg till en e-postkampanj/kanal](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
->
-
-
-
-1. I e-posttestredigeraren väljer du **Hela e-postmeddelanden** i listrutan **Testtyp **.
+1. I e-posttestredigeraren väljer du **Hela e-postmeddelanden** i listrutan **Testtyp**.
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -47,10 +43,11 @@ Testa hela e-postmeddelanden mot varandra. När testet är klart skickar du ut d
    >
    >**Exempel**
    >
-   >
    >I den distribution som visas ovan får 15 % av den totala målgruppen som anges i den smarta listan en av utmanarnas e-postmeddelanden och 85 % får det bästa e-postmeddelandet. Flera utmanarmejl delar 15 % lika. När testet är klart kan du deklarera en vinnare manuellt. Från och med då får alla framtida personer det innehåll som presterar bättre.
 
-   [Mer information än du någonsin önskat om statistisk tillförsikt](http://en.wikipedia.org/wiki/Confidence_interval).
+   För att få statistiskt förtroende måste du se till att den procentandel du tilldelar till utmanare innehåller tillräckligt många personer för att testet ska vara giltigt. Låt dig inte luras av osäkra resultat.
+
+   [Mer information än du någonsin önskat om statistisk tillförsikt](https://en.wikipedia.org/wiki/Confidence_interval).
 
 1. Klicka på **Nästa**.
 
@@ -60,10 +57,4 @@ Testa hela e-postmeddelanden mot varandra. När testet är klart skickar du ut d
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Champion/Challenger: Definiera villkor för tävling](champion-challenger-define-champion-criteria.md)
-
-
-För att få statistiskt förtroende måste du se till att den procentandel du tilldelar till utmanare innehåller tillräckligt många personer för att testet ska vara giltigt. Låt dig inte luras av osäkra resultat.
+   >[Champion/Challenger: Definiera villkor för tävling](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
