@@ -3,7 +3,7 @@ unique-page-id: 11373011
 description: Övergång till e-postredigeraren 2.0 - Marketo Docs - produktdokumentation
 title: Övergår till Email Editor 2.0
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '631'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Övergår till e-postredigeraren 2.0 {#transitioning-to-email-editor}
 
-Från och med den [19 juni](../../../../release-notes/2016/release-notes-spring-16.md) har alla Marketo-prenumerationer övergått till Email Editor 2.0. [Läs mer om borttagning av e-postredigerare 1.0.](https://nation.marketo.com/docs/DOC-7038)
+Från och med den [19 juni](/help/marketo/release-notes/2016/release-notes-spring-16.md) har alla Marketo-prenumerationer övergått till Email Editor 2.0. [Läs mer om borttagning av e-postredigerare 1.0.](https://nation.marketo.com/docs/DOC-7038)
 
 E-post och e-postmallar i din prenumeration ska ha ett versionsnummer. Versionen finns på resurssammanfattningssidan.
 
@@ -27,13 +27,13 @@ Som standard markeras alla dina befintliga e-postmeddelanden och e-postmallar so
 Om din prenumeration har e-post v1.0 innan du går över till e-postredigeraren 2.0 kommer du att uppleva följande beteende baserat på resursens aktuella tillstånd:
 
 **Godkänd**  - Om du klickar på Redigera utkast skapas ett v2.0-utkast av det godkända e-postmeddelandet. Om du sedan godkänner utkastet från v2.0 blir det godkända tillståndet för e-postmeddelandet v2.0 och det finns inget sätt att återgå till v1.0.\
-**Utkast**  - Om du klickar på Redigera utkast markeras automatiskt utkastet som v2.0. I det här läget går det inte att ta bort och återställa till v1.0 eftersom det inte finns någon godkänd version av tillgången.\
+**Utkast**  - Om du klickar på Redigera utkast markeras automatiskt utkastet som v2.0. I det här läget går det inte att ta bort och återställa till v1.0 eftersom det inte finns någon godkänd version av tillgången.
 **Godkänd med utkast**  - Om du klickar på Redigera utkast markeras det utkastet automatiskt som v2.0. På grund av detta går det inte heller att återställa utkastet till v1.0.
 
 Om din prenumeration har e-postmallar från version 1.0 innan du går över till e-postredigeraren 2.0 fungerar följande:
 
-**Godkänd**  - Om du klickar på Redigera utkast skapas ett v2.0-utkast av den befintliga e-postmallen.\
-**Utkast**  - Om du klickar på Redigera utkast markeras automatiskt utkastet som v2.0. I det här läget går det inte att ta bort och återställa till v1.0 eftersom det inte finns någon godkänd version av tillgången.\
+**Godkänd**  - Om du klickar på Redigera utkast skapas ett v2.0-utkast av den befintliga e-postmallen.
+**Utkast**  - Om du klickar på Redigera utkast markeras automatiskt utkastet som v2.0. I det här läget går det inte att ta bort och återställa till v1.0 eftersom det inte finns någon godkänd version av tillgången.
 **Godkänd med utkast**  - Om du klickar på Redigera utkast markeras automatiskt utkastet som v2.0. På grund av detta går det inte heller att återställa utkastet till v1.0.
 
 Om du godkänner en e-postmall som tidigare var v1.0 (i något av de ovanstående lägena) visas följande beteende:
@@ -62,10 +62,6 @@ Saker att notera
 
 >[!MORELIKETHIS]
 >
->* [E-postredigerare 2.0 - översikt](email-editor-v2-0-overview.md)
->* [Syntax för e-postmall](email-template-syntax.md)
-
->
-
-
+>* [E-postredigerare 2.0 - översikt](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
+>* [Syntax för e-postmall](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
 
