@@ -3,9 +3,9 @@ unique-page-id: 1900554
 description: Redigera en e-postes HTML - Marketo Docs - Produktdokumentation
 title: Redigera HTML för ett e-postmeddelande
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -76,6 +76,6 @@ Använd funktionen Sök kod för att effektivt söka efter och ersätta innehål
 
    >[!NOTE]
    >
-   >Sökkoden finns också i [e-postmallsredigeraren](http://docs.marketo.com/display/DOCS/Create+a+New+Email+Template).
+   >Sökkoden finns också i [e-postmallsredigeraren](/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md).
 
 Vi rekommenderar att du fortsätter att redigera dina e-postmeddelanden med hjälp av Marketos inbyggda funktioner, men den här kodredigeraren erbjuder flexibilitet om du behöver det.
