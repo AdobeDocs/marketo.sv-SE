@@ -3,9 +3,9 @@ unique-page-id: 1900581
 description: Vidarebefordra till en vän-länk i e-postmeddelanden - Marketo Docs - produktdokumentation
 title: Vidarebefordra till en länk i e-postmeddelanden
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '704'
+source-wordcount: '703'
 ht-degree: 0%
 
 ---
@@ -50,11 +50,10 @@ Exempel: Keith använder länken&quot;Vidarebefordra till vän&quot; för att vi
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
    >Kom ihåg att godkänna mallutkastet för att tillämpa ändringarna.
 
    Alla e-postmeddelanden som använder den mallen får nu länken Vidarebefordra till vän. När e-postmottagaren klickar på den hämtas de till en webbversion av e-postmeddelandet med rutan Vidarebefordra till en vän:
+
    ![](assets/f2afbox.png)
 
 ## Lägg till länken till ett enskilt e-postmeddelande {#add-the-link-to-an-individual-email}
@@ -85,7 +84,7 @@ Du kan också lägga till länken Vidarebefordra till vän direkt i ett e-postme
 
    ![](assets/eight-1.png)
 
-1. Klistra in **`{{system.forwardToFriendLink}}`**-token i rutan **URL** med Ctrl/Cmd+V och klicka sedan på** Infoga**.
+1. Klistra in **`{{system.forwardToFriendLink}}`**-token i rutan **URL** med Ctrl/Cmd+V och klicka sedan på **Infoga**.
 
    ![](assets/nine.png)
 
@@ -117,15 +116,13 @@ Du kan se vem som vidarebefordrat och tagit emot e-postmeddelanden i personens a
    >
    >**Definition**
    >
-   >
    >För Mottaget vidarebefordrat till väns-e-post är person-ID den person som vidarebefordrade e-postmeddelandet.
-   >
    >
    >För Skickat Vidarebefordra till väns-e-post är person-ID den person som tog emot e-postmeddelandet.
 
    ![](assets/sixteen.png)
 
-1. Om du vill visa en person efter ID kopierar och klistrar du in ID:t*** till slutet av URL:en (början av URL:en beror på din Marketo-instans):
+1. Om du vill visa en person efter ID kopierar och klistrar du in **person-ID** i slutet av URL:en (början av URL:en beror på din Marketo-instans):
 
    `<pre data-theme="Confluence">...marketo.com/Database/loadPersonDetail?personId=</pre>`
 
@@ -137,7 +134,7 @@ Du kan se vem som vidarebefordrat och tagit emot e-postmeddelanden i personens a
 
    >[!NOTE]
    >
-   >Om den vän som tar emot vidarebefordran är en okänd person skapas en ny person med namnet&quot;Vidarebefordra till vän&quot; som är markerad som personens **källa**.\
+   >Om den vän som tar emot vidarebefordran är en okänd person skapas en ny person med namnet&quot;Vidarebefordra till vän&quot; som är markerad som personens **källa**.
    >Om e-postmeddelandet är en lokal tillgång i ett program markeras programmet som personens **förvärvsprogram**.
 
 ## Utlös eller filtrera med hjälp av vidarebefordringsaktivitet {#trigger-or-filter-using-forwarding-activity}
