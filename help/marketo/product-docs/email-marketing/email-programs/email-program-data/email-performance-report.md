@@ -3,9 +3,9 @@ unique-page-id: 2359467
 description: E-postprestandarapport - Marketo Docs - produktdokumentation
 title: Rapport om e-postprestanda
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '424'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Om du vill se hur bra dina e-postmeddelanden fungerar med status som levererad, öppnad, klickad osv. skapar du en rapport om e-postprestanda.
 
-1. [Skapa en rapport i ett ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) program och välj  **E-** [postrapporttyp](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. [Ändra ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) tidsramen för rapporten och klicka på fliken  **** Rapportera.
+1. [Skapa en rapport i ett ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) program och välj  **E-** [postrapporttyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Ändra ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) tidsramen för rapporten och klicka på fliken  **** Rapportera.
 1. Du är där! Utforska nu rapporten och se hur dina e-postmeddelanden har fungerat.
 
    >[!NOTE]
@@ -31,10 +31,9 @@ Om du vill se hur bra dina e-postmeddelanden fungerar med status som levererad, 
 
    >[!NOTE]
    >
-   >
-   >En rapport om e-postprestanda innehåller aktiviteter för alla personer, inklusive de som har tagits bort sedan e-postmeddelandet skickades. Ibland vill du bara se aktiviteter för aktiva personer. I så fall måste du filtrera bort borttagna personer från rapporten. Använd fliken **Smart List** för att [skapa en smart lista](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) för rapporten. Om du inte filtrerar något specifikt fält anger du följande för e-postadressfiltret: **är inte tom**.
+   >En rapport om e-postprestanda innehåller aktiviteter för alla personer, inklusive de som har tagits bort sedan e-postmeddelandet skickades. Ibland vill du bara se aktiviteter för aktiva personer. I så fall måste du filtrera bort borttagna personer från rapporten. Använd fliken **Smart List** för att [skapa en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) för rapporten. Om du inte filtrerar något specifikt fält anger du följande för e-postadressfiltret: **är inte tom**.
 
-   [Välj Rapportkolumner ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en e-postrapport som innehåller:
+   [Välj Rapportkolumner ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en e-postrapport som innehåller:
 
    | Kolumn | Beskrivning |
    |---|---|
@@ -50,13 +49,13 @@ Om du vill se hur bra dina e-postmeddelanden fungerar med status som levererad, 
 
 I allmänhet försöker vi använda sunt förnuft för att registrera denna statistik. Om någon till exempel klickade på en länk i ett e-postmeddelande så öppnades e-postmeddelandet tydligt först. Vi följer dessa specifika regler för e-postprestandarapporten:
 
-* **Regel 1**: Varje post för e-postaktivitet anges till en, och bara en, av följande:  *Levererad*,  *Hård studsad*,  *Mjuk studsad* eller  *Väntande*.
+* **Regel 1**: Varje post för e-postaktivitet anges till en, och bara en, av följande:  _Levererad_,  _Hård studsad_,  _Mjuk studsad_ eller  _Väntande_.
 
 * **Regel 2**: Om e-postposten visar  *Öppnad* räknas den som  *Levererad*.
 
-* **Regel 3**: Om e-postposten visar  *Emailor* Unsubscribed *, som du klickat på, räknas den som* Deliveredand  ** Opened **.
+* **Regel 3**: Om e-postposten visar  _Emailor_ Unsubscribed _, som du klickat på, räknas den som_ Deliveredand  __ Opened __.
 
-* **Regel 4**: Om e-postmeddelandet är  *öppet* ignoreras studenterna. Om e-postmeddelandet inte har öppnats har *Hård studsning* högre prioritet än *Mjuk studsad* och *Levererad*.
+* **Regel 4**: Om e-postmeddelandet är  _öppet_ ignoreras studenterna. Om e-postmeddelandet inte har öppnats har _Hård studsning_ högre prioritet än _Mjuk studsad_ och _Levererad_.
 
 >[!NOTE]
 >
@@ -64,16 +63,6 @@ I allmänhet försöker vi använda sunt förnuft för att registrera denna stat
 
 >[!MORELIKETHIS]
 >
->* [Filtrera resurser i e-postrapporter för kampanj](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
->* [Resultatrapport för e-postlänk](email-link-performance-report.md)
-
->
-
-
-
->[!NOTE]
->
->**Djupdykning**
->
->Läs mer i [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
+>* [Filtrera resurser i e-postrapporter för kampanj](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+>* [Resultatrapport för e-postlänk](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 
