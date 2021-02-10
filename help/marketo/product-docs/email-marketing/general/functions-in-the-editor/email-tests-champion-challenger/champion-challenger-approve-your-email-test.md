@@ -3,9 +3,9 @@ unique-page-id: 2359581
 description: Champion/Challenger -Approve Your Email Test - Marketo Docs - Product Documentation
 title: Champion/Challenger - Godkänn ditt e-posttest
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ Det sista steget i att konfigurera ditt e-posttest för att godkänna det. Så h
 
 >[!PREREQUISITES]
 >
->* [Champion/Challenger: Konfigurera rapportaviseringar](champion-challenger-configure-report-alerts.md)
-
->
-
-
+>[Champion/Challenger: Konfigurera rapportaviseringar](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
@@ -33,10 +29,7 @@ Det sista steget i att konfigurera ditt e-posttest för att godkänna det. Så h
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
-   >
-   >Godkänn utmanarens e-postadress först när du godkänner en **hel e-postadress**** **test.
+   >När du godkänner ett **hele-posttest** ska du godkänna utmanarens e-postmeddelande först.
 
    >[!NOTE]
    >
@@ -46,10 +39,6 @@ Det sista steget i att konfigurera ditt e-posttest för att godkänna det. Så h
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Champion/Challenger: Deklarera en tävling](champion-challenger-declare-a-champion.md)
-   >    * [Champion/Challenger: Ignorera ett e-posttest](champion-challenger-discard-an-email-test.md)
-
+   >* [Champion/Challenger: Deklarera en tävling](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
+   >* [Champion/Challenger: Ignorera ett e-posttest](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)
 
