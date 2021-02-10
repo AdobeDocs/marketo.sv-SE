@@ -3,7 +3,7 @@ unique-page-id: 2950617
 description: Använda dynamiskt innehåll i ett e-postmeddelande - Marketo Docs - Produktdokumentation
 title: Använda dynamiskt innehåll i ett e-postmeddelande
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Skapa en segmentering](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
-
->
-
-
+>[Skapa en segmentering](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
 Använd dynamiskt innehåll i e-postmeddelanden för att skicka riktade leads-uppgifter.
 
@@ -39,9 +35,9 @@ Använd dynamiskt innehåll i e-postmeddelanden för att skicka riktade leads-up
 
    >[!NOTE]
    >
-   >Du kan också göra ett element inuti e-postmeddelandet dynamiskt. Markera området, klicka på kugghjulsikonen och välj **Gör dynamisk** (eller [Ersätt med fragment](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), beroende på vad du gör).
+   >Du kan också göra ett element inuti e-postmeddelandet dynamiskt. Markera området, klicka på kugghjulsikonen och välj **Gör dynamisk** (eller [Ersätt med fragment](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), beroende på vad du gör).
 
-   Ange namnet på segmenteringen, markera det och klicka på Spara.
+1. Ange namnet på segmenteringen, markera det och klicka på **Spara**.
 
    ![](assets/1.4.png)
 
@@ -75,10 +71,6 @@ Söt! Nu kan ni skicka flexibla e-postmeddelanden till er målgrupp.
 
 >[!MORELIKETHIS]
 >
->* [Förhandsgranska ett e-postmeddelande med dynamiskt innehåll](preview-an-email-with-dynamic-content.md)
->* [Använd dynamiskt innehåll på en landningssida](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
-
->
-
-
+>* [Förhandsgranska ett e-postmeddelande med dynamiskt innehåll](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
+>* [Använd dynamiskt innehåll på en landningssida](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
 
