@@ -3,7 +3,7 @@ unique-page-id: 1900565
 description: Inkludera en kalenderhändelse (.ics) i ett e-postmeddelande - Marketo Docs - produktdokumentation
 title: Inkludera en kalenderhändelse (.ics) i ett e-postmeddelande
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Med en Calendar File-token kan du lägga till en kalender (.ics)-länk i dina Ma
 
 >[!PREREQUISITES]
 >
->* [Skapa en kalenderhändelsefil (.ics)](create-a-calendar-event-ics-file.md)
-
->
-
-
+>[Skapa en kalenderhändelsefil (.ics)](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
 1. När du redigerar programmets e-post klickar du där du vill att token ska placeras och sedan på knappen Infoga token.
 
@@ -31,7 +27,7 @@ Med en Calendar File-token kan du lägga till en kalender (.ics)-länk i dina Ma
 
    ![](assets/image2014-9-11-16-3a53-3a30.png)
 
-   Klicka på Spara.
+1. Klicka på **Spara**.
 
    ![](assets/three-5.png)
 
