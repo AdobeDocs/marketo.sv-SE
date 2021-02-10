@@ -3,9 +3,9 @@ unique-page-id: 17727995
 description: Email CC - Marketo Docs - produktdokumentation
 title: Email CC
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '547'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Med Email CC kan angivna e-postmeddelanden skickas via Marketo till att inkludera CC-mottagare.
 
-Den här funktionen är tillgänglig för alla Marketo-e-postresurser, oavsett hur e-postmeddelandet skickas (batch- eller utlösarkampanj). CC-mottagaren får en exakt kopia av e-postmeddelandet som skickas till den valda Marketo-personen. Därför kan alla aktiviteter (öppningar, klickningar osv.) loggas i aktivitetsloggen för Marketo Person på raden &quot;Till&quot; i e-postmeddelandet. Leveransaktivitet (skickad, levererad, hård studsning osv.) *annat än &quot;soft bounce&quot;* registreras  **** inte eftersom Marketo inte kan skilja leveranshändelser för Marketo-personen från CC-mottagarna. Marketo kommer endast att CC för upp till 100 000 personer i taget. Om din smarta lista överstiger 100 kB och det är absolut nödvändigt att alla personer på den får CC rekommenderar vi att du delar upp din lista.
+Den här funktionen är tillgänglig för alla Marketo-e-postresurser, oavsett hur e-postmeddelandet skickas (batch- eller utlösarkampanj). CC-mottagaren får en exakt kopia av e-postmeddelandet som skickas till den valda Marketo-personen. Därför kan alla aktiviteter (öppningar, klickningar osv.) loggas i aktivitetsloggen för Marketo Person på raden &quot;Till&quot; i e-postmeddelandet. Leveransaktivitet (skickad, levererad, hård studsning osv.) _annat än &quot;soft bounce&quot;_ registreras  **** inte eftersom Marketo inte kan skilja leveranshändelser för Marketo-personen från CC-mottagarna. Marketo kommer endast att CC för upp till 100 000 personer i taget. Om din smarta lista överstiger 100 kB och det är absolut nödvändigt att alla personer på den får CC rekommenderar vi att du delar upp din lista.
 
 >[!NOTE]
 >
@@ -57,10 +57,11 @@ Den här funktionen är tillgänglig för alla Marketo-e-postresurser, oavsett h
 
    >[!NOTE]
    >
-   >
    >Om en ogiltig e-postadress finns i ett CC-fält hoppas den över.
 
-   För snabb identifiering visar e-postsammanfattningsvyn om/vilka e-postfält som har valts.  ![](assets/eight.png)
+   För snabb identifiering visar e-postsammanfattningsvyn om/vilka e-postfält som har valts.
+
+   ![](assets/eight.png)
 
    Om e-postmeddelandet har godkänts, men Marketo Admin inaktiverar ett eller flera av CC-fälten innan e-postmeddelandet skickas, **får de personerna inte något e-postmeddelande**. I så fall kommer e-postsammanfattningsvyn att visa alla fält som inaktiverats efter godkännande men som skickats i förväg:
 
@@ -76,9 +77,8 @@ Den här funktionen är tillgänglig för alla Marketo-e-postresurser, oavsett h
 
 >[!TIP]
 >
->Du kan välja att [inaktivera vissa eller alla spårningslänkar](http://docs.marketo.com/x/IwAd) i ett e-postmeddelande.
+>Du kan välja att [inaktivera vissa eller alla spårningslänkar](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md) i ett e-postmeddelande.
 
 * När en e-postkampanj har körts innehåller aktiviteten Skicka e-post en lista med alla CC-adresser som har inkluderats för varje mottagare av e-postmeddelandet. Om några CC-adresser hoppades över på grund av att prenumerationen avbrutits, kommer även den att registreras i aktiviteten.
 * Avbeställ länkarna och sidorna fungerar normalt i e-postmeddelanden från CC. Detta gör att CC-mottagare kan avbeställa prenumerationen om de vill (och följa reglerna för skräppostskydd) och en post för den här åtgärden lagras i Marketo-databasen.
 * Personer som anges som avbeställda i din Marketo-databas **får inte** e-postmeddelanden via CC.
-
