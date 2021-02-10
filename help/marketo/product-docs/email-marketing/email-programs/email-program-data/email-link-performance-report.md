@@ -3,9 +3,9 @@ unique-page-id: 2359478
 description: Resultatrapport för e-postlänk - Marketo Docs - Produktdokumentation
 title: Resultatrapport för e-postlänk
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Skapa en prestandarapport för e-postlänkar för att se hur bra länkarna i dina e-postmeddelanden fungerar.
 
-1. [Skapa en rapport i ett ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) program och välj  **E-** postlänksprestanda som rapporttyp.
+1. [Skapa en rapport i ett ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) program och välj  **E-** postlänksprestanda som rapporttyp.
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
@@ -27,7 +27,7 @@ Skapa en prestandarapport för e-postlänkar för att se hur bra länkarna i din
 
    ![](assets/image2015-5-20-11-3a18-3a59.png)
 
-1. Ange en lämplig tidsram för rapporten. Klicka på **Spara. **
+1. Ange en lämplig tidsram för rapporten. Klicka på **Spara**.
 
    ![](assets/image2015-5-20-11-3a20-3a52.png)
 
@@ -39,7 +39,7 @@ Skapa en prestandarapport för e-postlänkar för att se hur bra länkarna i din
 
    ![](assets/image2015-5-20-11-3a23-3a33.png)
 
-[Kolumner ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) som är tillgängliga för en e-postlänkprestandarapport är:
+[Kolumner ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) som är tillgängliga för en e-postlänkprestandarapport är:
 
 <table> 
  <thead> 
@@ -74,20 +74,10 @@ Skapa en prestandarapport för e-postlänkar för att se hur bra länkarna i din
 
 >[!TIP]
 >
->Om du vill veta exakt vad en enskild person gjorde kan du öppna sidan [Aktivitetslogg](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) på sidan [Personinformation](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) på fliken Medlemmar i programmet.
+>Om du vill veta exakt vad en enskild person gjorde kan du öppna sidan [Aktivitetslogg](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) på sidan [Personinformation](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) på fliken Medlemmar i programmet.
 
 >[!MORELIKETHIS]
 >
->* [Rapport om e-postprestanda](email-performance-report.md)
->* [Filtrera resurser i en e-postrapport](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
-
->
-
-
-
->[!NOTE]
->
->**Djupdykning**
->
->Läs mer om [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
+>* [Rapport om e-postprestanda](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+>* [Filtrera resurser i en e-postrapport](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
 
