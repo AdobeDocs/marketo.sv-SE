@@ -3,7 +3,7 @@ unique-page-id: 14352402
 description: Bjud in teammedlemmar - Marketo Docs - Produktdokumentation
 title: Bjud in teammedlemmar
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -38,4 +38,3 @@ Det går snabbt och enkelt att lägga till teammedlemmar!
 1. Klicka på **OK**.
 
    ![](assets/five.png)
-
