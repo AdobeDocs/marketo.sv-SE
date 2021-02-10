@@ -3,7 +3,7 @@ unique-page-id: 2359557
 description: Champion/Challenger -Subject line - Marketo Docs - Produktdokumentation
 title: Champion/Challenger - Subject Line
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -17,13 +17,9 @@ Du kan enkelt testa flera ämnesrader. När testet är klart skickar du ut e-pos
 
 >[!PREREQUISITES]
 >
->* [Lägg till en e-postkampanj/kanal](add-an-email-champion-challenger.md)
+>[Lägg till en e-postkampanj/kanal](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
->
-
-
-
-1. Välj **Ämnesrad** i listrutan **Testtyp **i e-posttestredigeraren.
+1. I e-posttestredigeraren väljer du **Ämnesrad** i listrutan **Testtyp**.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
@@ -47,10 +43,9 @@ Du kan enkelt testa flera ämnesrader. När testet är klart skickar du ut e-pos
    >
    >**Exempel**
    >
-   >
    >I den distribution som visas ovan får 10 % av den totala målgruppen som anges i den smarta listan ett av e-postmeddelandena med utmanarraden och 90 % får e-postmeddelanden med den främsta ämnesraden. E-postmeddelanden med flera utmanande ämnesrader delar 10 % lika. När testet är klart kan du deklarera en vinnare manuellt. Från och med då får alla framtida personer det innehåll som presterar bättre.
 
-   För att få statistiskt förtroende bör du kontrollera att den procentandel du väljer innehåller tillräckligt många personer, så att testet blir giltigt. Låt dig inte luras av osäkra resultat.  [Mer information än du någonsin önskat om statistisk tillförsikt](http://en.wikipedia.org/wiki/Confidence_interval).
+   För att få statistiskt förtroende bör du kontrollera att den procentandel du väljer innehåller tillräckligt många personer, så att testet blir giltigt. Låt dig inte luras av osäkra resultat. [Mer information än du någonsin önskat om statistisk tillförsikt](http://en.wikipedia.org/wiki/Confidence_interval).
 
 1. Klicka på **Nästa**.
 
@@ -60,7 +55,4 @@ Du kan enkelt testa flera ämnesrader. När testet är klart skickar du ut e-pos
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[Champion/Challenger: Definiera villkor för tävling](champion-challenger-define-champion-criteria.md)
-
+   >[Champion/Challenger: Definiera villkor för tävling](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
