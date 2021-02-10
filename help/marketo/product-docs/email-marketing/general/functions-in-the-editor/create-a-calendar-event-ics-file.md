@@ -3,7 +3,7 @@ unique-page-id: 1900563
 description: Skapa en kalenderhändelsefil (.ics) - Marketo Docs - Produktdokumentation
 title: Skapa en kalenderhändelsefil (.ics)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -35,10 +35,6 @@ Uppdraget är slutfört! Se till att testa det.
 
 >[!MORELIKETHIS]
 >
->* [Inkludera en kalenderhändelse (.ics) i ett e-postmeddelande](include-a-calendar-event-ics-in-an-email.md)
->* [Inkludera en ICS-fil för kalenderhändelse på en landningssida](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
-
->
-
-
+>* [Inkludera en kalenderhändelse (.ics) i ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
+>* [Inkludera en ICS-fil för kalenderhändelse på en landningssida](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
 
