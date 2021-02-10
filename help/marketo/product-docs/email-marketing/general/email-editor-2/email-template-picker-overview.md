@@ -3,9 +3,9 @@ unique-page-id: 10912237
 description: Översikt över väljaren för e-postmallar - Marketo Docs - Produktdokumentation
 title: Översikt över väljaren för e-postmall
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Översikt över väljaren för e-postmall {#email-template-picker-overview}
 
-När du [skapar ett e-postmeddelande](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md) har du flera kostnadsfria mallar att välja bland. Du kan också skapa en egen mall och spara den för framtida bruk.
+När du [skapar ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md) har du flera kostnadsfria mallar att välja bland. Du kan också skapa en egen mall och spara den för framtida bruk.
 
 ![](assets/starter-templates.png)
 
@@ -21,7 +21,7 @@ När du [skapar ett e-postmeddelande](../../../../product-docs/email-marketing/g
 
 ![](assets/two-2.png)
 
-Om din e-post är viktig och du vill att den ska kringgå kommunikationsgränserna [kan du göra den användbar](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) genom att markera kryssrutan. **Öppna i** redigeringsprogram är valt som standard, vilket innebär att du vill börja redigera ditt nya e-postmeddelande direkt. **** Skapare, skapa!
+Om din e-post är viktig och du vill att den ska kringgå kommunikationsgränserna [kan du göra den användbar](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) genom att markera kryssrutan. **Öppna i** redigeringsprogram är valt som standard, vilket innebär att du vill börja redigera ditt nya e-postmeddelande direkt. **** Skapare, skapa!
 
 ![](assets/three-2.png)
 
@@ -31,9 +31,11 @@ Om din e-post är viktig och du vill att den ska kringgå kommunikationsgränser
 
 >[!NOTE]
 >
->Marketos startmallar erbjuds alla kunder utan extra kostnad. De uppdateras kontinuerligt och optimeras för större e-postklienter (och mobila enheter), men du bör alltid utvärdera om de uppfyller dina behov. Marketos [e-postleveransverktyg](http://docs.marketo.com/display/DOCS/Email+Deliverability+Tool) kan visa hur du återger mallar på olika e-postklienter. Marketo kan tyvärr inte göra designförfrågningar utanför betalda serviceåtaganden.
+>Marketos startmallar erbjuds alla kunder utan extra kostnad. De uppdateras kontinuerligt och optimeras för större e-postklienter (och mobila enheter), men du bör alltid utvärdera om de uppfyller dina behov. Marketos [e-postleveransverktyg](/help/marketo/product-docs/email-marketing/deliverability/email-deliverability-tool.md) kan visa hur du återger mallar på olika e-postklienter. Marketo kan tyvärr inte göra designförfrågningar utanför betalda serviceåtaganden.
 
-**Mina** mallar består av alla mallar du har skapat. Du kan också ha mappar.   ![](assets/five-2.png)
+**Mina** mallar består av alla mallar du har skapat. Du kan också ha mappar.
+
+![](assets/five-2.png)
 
 Alla mappar som visas under E-post > Mallar i ditt Design Studio-träd finns i **Mina mallar**.
 
@@ -67,10 +69,6 @@ Vackert!
 
 >[!MORELIKETHIS]
 >
->* [Syntax för e-postmall](email-template-syntax.md)
->* [Skapa ett e-postmeddelande](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
-
->
-
-
+>* [Syntax för e-postmall](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>* [Skapa ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
 
