@@ -3,7 +3,7 @@ unique-page-id: 1900560
 description: Lägg till en länk för Visa som webbsida i ett e-postmeddelande - Marketo Docs - Produktdokumentation
 title: Lägg till en länk för Visa som webbsida i ett e-postmeddelande
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -39,4 +39,4 @@ Här är ett exempel på hur det ser ut:
 >
 >Du kommer inte att se länken Visa som webbsida förrän du skickar e-postmeddelandet. Skicka dig själv ett test att titta på.
 
-Information om hur du ändrar standardtexten finns i [Redigera meddelandet &quot;Visa som webbsida&quot;](../../../../product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).
+Information om hur du ändrar standardtexten finns i [Redigera meddelandet &quot;Visa som webbsida&quot;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).
