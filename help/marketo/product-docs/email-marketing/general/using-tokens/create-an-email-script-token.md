@@ -3,9 +3,9 @@ unique-page-id: 1900577
 description: Skapa en token för e-postskript - Marketo Docs - Produktdokumentation
 title: Skapa en e-postskripttoken
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Skapa en e-postskripttoken {#create-an-email-script-token}
 
-För avancerade utvecklare kan du använda [snabbskript](http://velocity.apache.org/engine/1.7/user-guide.html) i dina e-postmeddelanden. Så här gör du.
+För avancerade utvecklare kan du använda [snabbskript](https://velocity.apache.org/engine/1.7/user-guide.html) i dina e-postmeddelanden. Så här gör du.
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
@@ -45,17 +45,14 @@ För avancerade utvecklare kan du använda [snabbskript](http://velocity.apache.
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
-   >
    >Om du skriver in tokens i friform måste du kontrollera/aktivera alla motsvarande tokens i trädet, annars behandlas de som oformaterad text och fungerar inte.
 
 1. Skriv ditt skript i Snabbhet. Här är några användbara resurser:
 
-   * [Marketo-utvecklare e-postskriptdokumentation](http://developers.marketo.com/email-scripting/)
-   * [Användarhandbok för snabbhet](http://velocity.apache.org/engine/devel/user-guide.html)
-   * [Referenshandbok för hastighet](http://velocity.apache.org/engine/devel/vtl-reference-guide.html)
-   * [Velocity Tools Javadoc](http://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
+   * [Marketo-utvecklare e-postskriptdokumentation](https://developers.marketo.com/email-scripting/)
+   * [Användarhandbok för snabbhet](https://velocity.apache.org/engine/devel/user-guide.html)
+   * [Referenshandbok för hastighet](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
+   * [Velocity Tools Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
 1. När skriptet är klart klickar du på **Spara**.
 
@@ -69,9 +66,4 @@ Nu kan du använda denna token i dina e-postmeddelanden. Skriptet körs varje g�
 
 >[!MORELIKETHIS]
 >
->* [Lägg till en e-postskripttoken i din e-post](add-an-email-script-token-to-your-email.md)
-
->
-
-
-
+>[Lägg till en e-postskripttoken i din e-post](/help/marketo/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)
