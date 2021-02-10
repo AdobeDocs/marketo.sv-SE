@@ -3,9 +3,9 @@ unique-page-id: 2952678
 description: Använd Skicka aviseringsinformationstoken {{SP_Send_Alert_Info}} - Marketo Docs - Produktdokumentation
 title: Använda Skicka aviseringsinformationstoken
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,15 @@ Token `{{SP_Send_Alert_Info}}` är en särskild token som ska användas när du 
 
 >[!TIP]
 >
->Denna token fungerar bara som avsett när du skickar e-postmeddelandet som innehåller det med flödessteget [Skicka varning](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md). Det fungerar inte när det används i ett skicka-e-postflödessteg.
+>Denna token fungerar bara som avsett när du skickar e-postmeddelandet som innehåller det med flödessteget [Skicka varning](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md). Det fungerar inte när det används i ett skicka-e-postflödessteg.
 
-Exempelvarning:   ![](assets/image2014-9-25-15-3a17-3a58.png)
+Exempelvarning:
+
+![](assets/image2014-9-25-15-3a17-3a58.png)
 
 >[!NOTE]
 >
->Skärp dig! URL:er i varningar har förfallodatum så kontrollera att de har en stängsel som stöder den här typen av meddelanden. Förfallodatum är [konfigurerade av en administratör](../../../../product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
+>Skärp dig! URL:er i varningar har förfallodatum så kontrollera att de har en stängsel som stöder den här typen av meddelanden. Förfallodatum är [konfigurerade av en administratör](/help/marketo/product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
 
 Följande information ingår i `{{SP_Send_Alert_Info}}`:
 
@@ -59,8 +61,6 @@ Följande information ingår i `{{SP_Send_Alert_Info}}`:
    ![](assets/image2014-9-25-15-3a19-3a24.png)
 
 >[!NOTE]
->
->**Påminnelse**
 >
 >Glöm inte att godkänna e-postmeddelandet.
 
