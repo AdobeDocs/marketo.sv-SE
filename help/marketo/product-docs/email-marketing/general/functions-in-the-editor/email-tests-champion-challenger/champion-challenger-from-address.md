@@ -3,7 +3,7 @@ unique-page-id: 2359559
 description: Champion/Challenger -From Address - Marketo Docs - produktdokumentation
 title: Champion/Challenger - Från adress
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -17,13 +17,9 @@ Vill du prova en annan från-adress utan problem? Så här gör du.
 
 >[!PREREQUISITES]
 >
->* [Lägg till en e-postkampanj/kanal](add-an-email-champion-challenger.md)
+>[Lägg till en e-postkampanj/kanal](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
->
-
-
-
-1. Välj **Från adress** i listrutan **Testtyp **i e-posttestredigeraren.
+1. I e-posttestredigeraren väljer du **Från adress** i listrutan **Testtyp**.
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
@@ -31,7 +27,7 @@ Vill du prova en annan från-adress utan problem? Så här gör du.
    >
    >Den första Från-adressen anges som **Champion**. Efterföljande från adresser kallas **Challenger**.
 
-1. Ange Från namn (vänster) och Från adress** ** (höger) för utmanarna.
+1. Ange **Från namn** (vänster) och **Från adress** (höger) för utmanarna.
 
    ![](assets/image2014-9-15-12-3a52-3a50.png)
 
@@ -47,10 +43,9 @@ Vill du prova en annan från-adress utan problem? Så här gör du.
    >
    >**Exempel**
    >
-   >
    >I den distribution som visas ovan får 15 % av den totala målgruppen som anges i den smarta listan ett e-postmeddelande med en utmanare från adress och 85 % får e-postmeddelandet med mästaren från adress. E-postmeddelanden för flera utmanare Från adresser delar 15 % lika. När testet är klart kan du deklarera en vinnare manuellt. Från och med då får alla framtida personer det innehåll som presterar bättre.
 
-   För att få statistiskt förtroende måste du välja en procentsats som innehåller tillräckligt många personer för att testet ska vara giltigt. Låt dig inte luras av osäkra resultat.  [Mer information än du någonsin önskat om statistisk tillförsikt](http://en.wikipedia.org/wiki/Confidence_interval).
+   För att få statistiskt förtroende måste du välja en procentsats som innehåller tillräckligt många personer för att testet ska vara giltigt. Låt dig inte luras av osäkra resultat. [Mer information än du någonsin önskat om statistisk tillförsikt](https://en.wikipedia.org/wiki/Confidence_interval).
 
 1. Klicka på **Nästa**.
 
@@ -60,9 +55,4 @@ Vill du prova en annan från-adress utan problem? Så här gör du.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Champion/Challenger: Definiera villkor för tävling](champion-challenger-define-champion-criteria.md)
-
-
+   >[Champion/Challenger: Definiera villkor för tävling](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
