@@ -3,7 +3,7 @@ unique-page-id: 1900597
 description: Definiera en målgrupp genom att importera en lista - Marketo Docs - Produktdokumentation
 title: Definiera en publik genom att importera en lista
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Skapa ett e-postmeddelande för ett e-postprogram](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>[Skapa ett e-postmeddelande för ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-När du har skapat ett e-postprogram vill du berätta vem du vill skicka e-postmeddelandet till. Du kan göra detta genom att [skapa en smart lista](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) eller genom att importera en lista. Så här uppnår du detta genom att importera en lista.
+När du har skapat ett e-postprogram vill du berätta vem du vill skicka e-postmeddelandet till. Du kan göra detta genom att [skapa en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) eller genom att importera en lista. Så här uppnår du detta genom att importera en lista.
 
 >[!NOTE]
 >
@@ -29,17 +29,20 @@ När du har skapat ett e-postprogram vill du berätta vem du vill skicka e-postm
 
    ![](assets/login-marketing-activities-1.png)
 
-   Välj e-postprogrammet och klicka sedan på Importera lista under målgruppspanelen.
+1. Välj e-postprogrammet och klicka sedan på Importera lista under målgruppspanelen.
+
    ![](assets/importlist.png)
 
-1. Listimportfönstret öppnas. Klicka på **Bläddra** och välj den fil du vill importera. När du har valt en lista med personer klickar du på Nästa.
-1. ![](assets/importlist1.png)
+1. Listimportfönstret öppnas. Klicka på **Bläddra** och välj den fil du vill importera. När du har valt en lista med personer klickar du på **Nästa**.
+
+   ![](assets/importlist1.png)
 
    >[!CAUTION]
    >
    >Kontrollera att listan är kodad UTF-8, UTF-16, Shift-JIS eller EUC-JP och att filstorleken inte överstiger 50 MB.
 
-   Kontrollera att fälten i filen är korrekt mappade och klicka på Nästa.
+1. Kontrollera att fälten i filen är korrekt mappade och klicka på **Nästa**.
+
    ![](assets/image2014-9-12-11-3a10-3a7.png)
 
    >[!TIP]
@@ -80,10 +83,6 @@ Fantastisk! Nu är det dags att välja ett befintligt e-postmeddelande eller att
 
 >[!MORELIKETHIS]
 >
->* [Välj en befintlig e-postadress](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [Skapa ett e-postmeddelande för ett e-postprogram](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-
->
-
-
+>* [Välj en befintlig e-postadress](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
+>* [Skapa ett e-postmeddelande för ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
