@@ -3,7 +3,7 @@ unique-page-id: 2953419
 description: Använda Rich Text Editor - Marketo Docs - Produktdokumentation
 title: Använda RTF-redigeraren
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '736'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Textredigeraren (RTE) visas i hela Marketo och är tillgänglig när du vill lä
 
 ## Redigeringsinställningar {#editor-settings}
 
-Rotblockelementets inställning definierar vilka taggar som omsluter innehållet. Som standard används elementet för e-postrotblock <p> -taggar. Du kan ändra det genom att följa stegen nedan.
+Rotblockelementets inställning definierar vilka taggar som omsluter innehållet. Som standard använder e-postrotelementet `<p>`-taggar. Du kan ändra det genom att följa stegen nedan.
 
 >[!TIP]
 >
@@ -35,11 +35,11 @@ Rotblockelementets inställning definierar vilka taggar som omsluter innehållet
 
    ![](assets/three.png)
 
-1. Välj **** <div> eller Ingen och klicka på **Spara**. <div> används i det här exemplet.
+1. I listrutan **E-post-/fragmentredigerare** väljer du `<div>` eller Ingen och klickar på **Spara**. `<div>` används i det här exemplet.
 
    ![](assets/four.png)
 
-   Om du har <div class="&ldquo;mktEditable&rdquo;"></div> I en e-postmall visas följande HTML-källbeteende när du öppnar avsnittet och skriver&quot;Text Goes Here&quot; i redigeraren:
+   Om du har `<div class=“mktEditable”></div>` i en e-postmall visas följande HTML-källbeteende när du öppnar avsnittet och skriver&quot;Text Goes Here&quot; i redigeraren:
 
 <table> 
  <tbody> 
@@ -62,7 +62,7 @@ Rotblockelementets inställning definierar vilka taggar som omsluter innehållet
 
 >[!NOTE]
 >
->Rotblockelementet är alltid <p> för RTF-programtoken.
+>Rotblockelementet är alltid `<p>` för RTF-programtoken.
 
 ## Funktioner {#features}
 
@@ -109,7 +109,7 @@ Här är de funktioner du hittar i en RTE.
 
 ## Landningssidor {#landing-pages}
 
-Rotblockelementets inställning definierar vilka taggar som omsluter innehållet. Som standard använder rotblockselementet för landningssidan <div> -taggar. Du kan ändra det genom att följa stegen nedan.
+Rotblockelementets inställning definierar vilka taggar som omsluter innehållet. Som standard använder rotblockselementet för landningssidan `<div>`-taggar. Du kan ändra det genom att följa stegen nedan.
 
 >[!TIP]
 >
@@ -127,9 +127,8 @@ Rotblockelementets inställning definierar vilka taggar som omsluter innehållet
 
    ![](assets/three.png)
 
-1. I listrutan **Landing Page Editor** väljer du <p> eller Ingen och klicka på **Spara**. <p> används i det här exemplet.
+1. I listrutan **Landing Page Editor** väljer du `<p>` eller Ingen och klickar på **Spara**. `<p>` används i det här exemplet.
 
    ![](assets/five.png)
 
    Och det är allt!
-
