@@ -3,9 +3,9 @@ unique-page-id: 13796466
 description: Komma igång med Sales Connect - Marketo Docs - Produktdokumentation
 title: Komma igång med Sales Connect
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '635'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,6 @@ ht-degree: 0%
 Om du hellre vill titta på de här stegen än att läsa dem går du direkt till [videoinstruktionerna nedan](#video).
 
 >[!AVAILABILITY]
->
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din Customer Success Manager om du vill ha mer information.
 
@@ -129,7 +128,3 @@ För team som vill testa Marketo Sales Connect med sin Marketo Sandbox kan ytter
 >[!NOTE]
 >
 >Du kan inte etablera ett Sales Connect-konto med samma e-post-ID till flera instanser. Det innebär att om du vill ha ett extra Sales Connect-konto för att testa med din Marketo Sandbox-instans måste du använda ett annat e-post-ID för varje konto.
-
-## Videoinstruktioner {#video-instructions}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/w5RY7iMPpEfUYQ4Fp8WUKR.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
