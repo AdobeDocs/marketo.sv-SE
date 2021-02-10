@@ -3,9 +3,9 @@ unique-page-id: 14352404
 description: Fliken Administratörsinställningar - Marketo Docs - Produktdokumentation
 title: Fliken Administratörsinställningar
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ På fliken Administratörsinställningar kan administratören för vilket konto 
 
 Om du markerar kryssrutan **Åsidosätt alla Salesforce-synkroniseringsinställningar för mitt team** visas alternativet att antingen bara tillåta loggning via BCC eller enbart via API.
 
-Om du väljer **API-loggning**, alla inställningar som är valda för säljprojekt, leads, kontakter `will be set for the entire team after you click **Save Changes**.`
+Om du väljer **API-loggning** ställs alla inställningar som är valda för säljprojekt, leads, kontakter in för hela teamet när du klickar på **Spara ändringar**.
 
 Härifrån kan du också massaktivera säljprojekt och aktivitetssynkronisering i hela teamet.
 
@@ -25,12 +25,14 @@ Härifrån kan du också massaktivera säljprojekt och aktivitetssynkronisering 
 >
 >Om du aktiverar de här inställningarna används ett stort antal API-anrop i teamets Salesforce-inställningar.
 
-1 - Aktivera&quot;Konfigurera mitt teams inställningar&quot;
+1. Aktivera&quot;Konfigurera mitt teams inställningar&quot;.
 
-2 - Aktivera inställningar för teamomfattande synkronisering
+1. Aktivera inställningar för teamomfattande synkronisering.
 
-3 - Konfigurera hur du vill att din e-postaktivitet och den senaste MSE-aktiviteten ska loggas till SFDC
+1. Konfigurera hur du vill att din e-postaktivitet och den senaste MSE-aktiviteten ska loggas till SFDC.
 
-4 - Aktivera&quot;Synkronisera försäljningskontaktuppgifter&quot; är valfritt
+1. Aktivera alternativet Synkronisera försäljningsanslutningsuppgifter är valfritt.
 
-(Obs! MSE gör att du kan hoppa över uppgifter medan SFDC inte gör det, så du måste bestämma hur SFDC hanterar den uppgift som hoppade över)
+>[!NOTE]
+>
+>MSC gör att du kan hoppa över aktiviteter medan SFDC inte gör det, så du måste bestämma hur SFDC hanterar den hoppade aktiviteten.
