@@ -3,9 +3,9 @@ unique-page-id: 1900573
 description: Lägg till en systemtoken som en länk i ett e-postmeddelande - Marketo Docs - Produktdokumentation
 title: Lägg till en systemtoken som en länk i ett e-postmeddelande
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -53,8 +53,6 @@ Så här lägger du till dem i ett e-postmeddelande:
 
 >[!NOTE]
 >
->**Påminnelse**
->
->Glöm inte att [godkänna e-postmeddelandet](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md) när du är klar.
+>Glöm inte att [godkänna e-postmeddelandet](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) när du är klar.
 
 Snyggt gjort! Nu vet du hur du lägger till en systemtoken som en länk i ett e-postmeddelande.
