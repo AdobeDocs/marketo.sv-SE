@@ -3,9 +3,9 @@ unique-page-id: 14746186
 description: Anpassa Avbeställ länkmeddelande - Marketo Docs - Produktdokumentation
 title: Anpassa meddelande om att avbryta prenumeration på länk
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Vi har alltid tillåtit team att anpassa sina länkmeddelanden för att avbryta 
 
 ## Anpassa meddelanden för dig själv {#customize-messaging-for-yourself}
 
-1. Logga in på [webbprogrammet](http://toutapp.com/login), klicka på kugghjulsikonen överst till höger och välj **Inställningar**.
+1. Logga in på [webbprogrammet](https://toutapp.com/login), klicka på kugghjulsikonen uppe till höger och välj **Inställningar**.
 
    ![](assets/one.png)
 
@@ -47,7 +47,7 @@ Vi har alltid tillåtit team att anpassa sina länkmeddelanden för att avbryta 
 
 ## Ange avanmälningsmeddelanden för ditt team {#set-unsubscribe-messaging-for-your-team}
 
-1. Logga in på [webbprogrammet](http://toutapp.com/login), klicka på kugghjulsikonen överst till höger och välj **Inställningar**.
+1. Logga in på [webbprogrammet](https://toutapp.com/login), klicka på kugghjulsikonen uppe till höger och välj **Inställningar**.
 
    ![](assets/six.png)
 
@@ -62,4 +62,3 @@ Vi har alltid tillåtit team att anpassa sina länkmeddelanden för att avbryta 
 1. Välj **Jag ställer in standardmeddelandet för mitt team** så att meddelandet gäller alla användare.
 
    ![](assets/eleven.png)
-
