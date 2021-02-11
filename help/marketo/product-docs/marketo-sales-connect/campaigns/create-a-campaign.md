@@ -3,9 +3,9 @@ unique-page-id: 14352618
 description: Skapa en kampanj - Marketo Docs - Produktdokumentation
 title: Skapa en kampanj
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Hur skapar ni en kampanj?
 
    >[!NOTE]
    >
-   >Skapa en ny kategori genom att klicka på** +** bredvid **Kategorier**.
+   >Skapa en ny kategori genom att klicka på **+** bredvid **Kategorier**.
 
 1. Kategorin som du valde markeras. Om du ångrar dig klickar du på listrutan och väljer en annan. När du är klar klickar du på **Fortsätt**.
 
@@ -44,7 +44,7 @@ Hur skapar ni en kampanj?
 
    ![](assets/four-1.png)
 
-1. Välj mellan: E-post, Samtal, InMail eller Anpassad aktivitet. I det här exemplet väljer vi [E-post](http://docs.marketo.com/display/DOCS/Campaign+Step+Types#CampaignStepTypes-Email).
+1. Välj mellan: E-post, Samtal, InMail eller Anpassad aktivitet. I det här exemplet väljer vi [E-post](/help/marketo/product-docs/marketo-sales-connect/campaigns/campaign-step-types.md#email).
 
    ![](assets/five-1.png)
 
@@ -54,11 +54,10 @@ Hur skapar ni en kampanj?
 
    >[!NOTE]
    >
-   >&quot;Dagar&quot; är inte antalet dagar mellan åtgärder, utan dagen i sekvensen. Om din kampanj till exempel ska vara i 7 dagar, innebär &quot;3&quot; att åtgärden kommer att utföras i dag 3 av 7, **inte **3 dagar senare.
+   >&quot;Dagar&quot; är inte antalet dagar mellan åtgärder, utan dagen i sekvensen. Om kampanjen till exempel ska vara i 7 dagar, innebär &quot;3&quot; att åtgärden kommer att utföras i dag 3 av 7, **inte** 3 dagar senare.
 
 1. Se till att du anpassar alternativen för schemaläggning och svar, till exempel att hoppa över helger (vilket är grymt) genom att gå till **fliken Inställningar** för din kampanj.
 
    ![](assets/seven.png)
 
    Nu är det dags att börja lägga till personer i kampanjen!
-
