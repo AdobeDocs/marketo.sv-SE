@@ -3,9 +3,9 @@ unique-page-id: 14352523
 description: Skicka bifogade filer i ditt e-postmeddelande - Marketo Docs - Produktdokumentation
 title: Skicka bifogade filer i ditt e-postmeddelande
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ Vanligtvis är alla filer som är större än 20 MB för stora för att kunna le
 >
 >När du använder Tout som e-postleveranskanal rekommenderar vi filer på 19 MB eller mindre när du skickar e-postmeddelanden.
 
-Om du absolut behöver skicka en stor fil, kan du försöka zippa den först eller överföra den som en [spårbar bifogad fil](http://docs.marketo.com/x/3oPS) i [webbprogrammet](http://toutapp.com/login).
+Om du absolut behöver skicka en stor fil, kan du försöka zippa den först eller överföra den som en [spårbar bifogad fil](/help/marketo/product-docs/marketo-sales-connect/email/common-tracking-questions/how-to-track-your-email-attachments.md) i [webbprogrammet](https://toutapp.com/login).
