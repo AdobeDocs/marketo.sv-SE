@@ -3,9 +3,9 @@ unique-page-id: 14745730
 description: Salesforce Diagnostics - Marketo Docs - Produktdokumentation
 title: Salesforce-diagnostik
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '1426'
+source-wordcount: '1427'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ En del av vår Salesforce-integrering innehåller en Salesforce-diagnostiksida i
 **kategori:** Annan\
 **Meddelande:** kan inte referera till konverterad lead\
 **Vad händer:** Vi försöker logga till ett konverterat lead under loggning av senaste aktivitet för kontakter och leads. Jag har också sett ett par av de här.\
-**Felsökningssteg:** Rapportera eventuella förekomster av detta till vårt  [supportteam](http://nation.marketo.com/community/support_solutions).
+**Felsökningssteg:** Rapportera eventuella förekomster av detta till vårt  [supportteam](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 <br> 
 
@@ -65,7 +65,7 @@ En del av vår Salesforce-integrering innehåller en Salesforce-diagnostiksida i
 **Fel:** EXPIRED_ACCESS-
 **kategori:** Autentiseringsmeddelande:
 **** invalid_grant: åtkomst-/uppdateringstoken 
-**Vad som händer:** Åtkomst- eller uppdateringstoken har upphört att gälla. Tokens förfaller baserat på [sessionsinställningarna i Salesforce](http://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
+**Vad som händer:** Åtkomst- eller uppdateringstoken har upphört att gälla. Tokens förfaller baserat på [sessionsinställningarna i Salesforce](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
 **Felsökningssteg:** Du måste autentisera igen. Koppla från Salesforce-anslutningen och återanslut.
 
 <br> 
@@ -129,9 +129,9 @@ En del av vår Salesforce-integrering innehåller en Salesforce-diagnostiksida i
 <br> 
 
 **Fel:** INSUFFICIENT_ACCESS_OR_READONLY\
-**Kategori:** Åtkomst/validering** ** 
-**Meddelande:** otillräckliga åtkomsträttigheter för objekt-ID** ** 
-**Vad händer:** Senaste aktivitetsloggning kan inte redigera den specifika posten eftersom användaren inte har skrivbehörighet.\
+**Kategori:** Åtkomst/validering av 
+**meddelande:** otillräckliga åtkomsträttigheter för objekt-ID 
+**Vad som händer:** Senaste aktivitetsloggning kan inte redigera den specifika posten eftersom användaren inte har skrivbehörighet.\
 **Felsökningssteg:** Bevilja användaråtkomst i Salesforce ELLER inaktivera loggning av senaste aktivitet för det objektet för den användaren.
 
 **Fel:** INVALID_FIELD\
@@ -142,7 +142,7 @@ En del av vår Salesforce-integrering innehåller en Salesforce-diagnostiksida i
 
 **Fel:** INVALID_FIELD_FOR_INSERT_UPDATE\
 **kategori:** åtkomst/validering\
-**Meddelande:** Det går inte att skapa/uppdatera fält: ToutApp__Tout_Last_Replied__c. Kontrollera säkerhetsinställningarna för det här fältet.\
+**Meddelande:** Det går inte att skapa/uppdatera fält: ToutApp__Tout_Last_Replied__c. Kontrollera säkerhetsinställningarna för det här fältet.
 **Vad händer:** Användare har inte skrivåtkomst till anpassade Tout-fält som behövs för att utföra loggningstransaktionen Senaste aktivitet. Team kan ha installerat paket men har inte aktiverat rätt fält för användarna.\
 **Felsökningssteg:** Salesforce Admin måste ge åtkomst till anpassade fält ELLER inaktivera loggning av senaste aktivitet.
 
@@ -154,7 +154,7 @@ En del av vår Salesforce-integrering innehåller en Salesforce-diagnostiksida i
 
 **Fel:** INVALID_TYPE\
 **kategori:** åtkomst/validering\
-**Meddelande:** CreatedDate, (SELECT Id FROM Ttasks) FROM Lead WHERE Email=&#39;emailid&#39;^ERROR at Row:1:Column:53sObjekttypen &#39;Lead&#39; stöds inte. Om du försöker använda ett anpassat objekt måste du lägga till &#39;__c&#39; efter enhetsnamnet. Please reference your WSDL or the describe call for the appropriate names\
+**Meddelande:** CreatedDate, (SELECT Id FROM Ttasks) FROM Lead WHERE Email=&#39;emailid&#39;^ERROR at Row:1:Column:53sObjekttypen &#39;Lead&#39; stöds inte. Om du försöker använda ett anpassat objekt måste du lägga till &#39;__c&#39; efter enhetsnamnet. Please reference your WSDL or the describe call for the appropriate names
 **Vad händer:** Vi försöker fråga en objekttyp från Salesforce som användaren inte har åtkomst till. Detta är troligen relaterat till att användaren inte har rätt åtkomst till Lead-objektet.\
 **Felsökningssteg:** Bevilja läsnings- och uppdateringsåtkomst till lead-objektet i Salesforce, eller inaktivera e-postloggning och loggning av senaste aktivitet för att leda poster.
 
@@ -179,7 +179,7 @@ En del av vår Salesforce-integrering innehåller en Salesforce-diagnostiksida i
 
 **Fel:** REQUIRED_FIELD_MISSING\
 **kategori:** åtkomst/validering\
-**Meddelande:** Obligatoriska fält saknas:  [Belopp_Alltid_Privat_Versalt__c]\
+**Meddelande:** Obligatoriska fält saknas:  `[Amount_Committed_Private_Capital__c]`
 **Vad som händer:** Detta sker vanligtvis för loggning av den senaste aktiviteten. Anpassade fält har konfigurerats för att vara obligatoriska men har tomma värden. Detta kan inträffa om posten har skapats med ett tomt värde för det anpassade fältet och sedan har gjorts till obligatorisk. Kravet upprätthålls när vi försöker uppdatera posten, även om vi inte rör det anpassade fältet.\
 **felsökningssteg:** Uppdatera värdena för de saknade fälten manuellt. Du kan sedan försöka med meddelandet igen från ToutApp.
 
@@ -191,8 +191,8 @@ En del av vår Salesforce-integrering innehåller en Salesforce-diagnostiksida i
 
 **Fel:** TXN_SECURITY_NO_ACCESS\
 **kategori:** åtkomst/validering\
-**Meddelande:** Den begärda åtgärden tillåts inte på grund av en säkerhetsprincip i organisationen. Kontakta administratören.\
-**Vad händer:** Någon typ av säkerhetsbegränsning har konfigurerats - se  `https://developer.salesforce.com/forums/?id="record` ID&quot;\
+**Meddelande:** Den begärda åtgärden tillåts inte på grund av en säkerhetsprincip i organisationen. Kontakta administratören.<br/>
+**Vad händer:** Någon typ av säkerhetsbegränsning har konfigurerats - se https://developer.salesforce.com/forums/?id=&quot;post-ID&quot;\
 **Felsökningssteg:** Tala med din Salesforce-administratör och se vad den specifika begränsningen kan vara.
 
 **Fel:** UNABLE_TO_LOCK_ROW\
@@ -201,7 +201,7 @@ En del av vår Salesforce-integrering innehåller en Salesforce-diagnostiksida i
 **Vad händer:** Sannolikt finns det en utlösare som gör att flera försök görs att få åtkomst till samma post, eventuellt när det gäller ett gruppmeddelande.\
 **Felsökningssteg:** Återförsökslogiken bör hantera detta. Om det fortfarande inte fungerar kan du tillsammans med din Salesforce-administratör felsöka en problematisk utlösare.
 
-**Fel:** UNKNOWN_EXCEPTION\
+**Fel:** UNKNOWN_EXCEPTION, 
 **kategori:** Annan\
 **Meddelande:** Ett okänt undantag inträffade\
 **Vad händer:** Ohanterat undantag i Salesforce.\
