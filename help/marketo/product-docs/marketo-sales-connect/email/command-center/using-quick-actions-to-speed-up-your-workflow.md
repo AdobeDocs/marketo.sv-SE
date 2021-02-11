@@ -3,9 +3,9 @@ unique-page-id: 37357306
 description: Snabba upp arbetsflödet - Marketo Docs - Produktdokumentation
 title: Snabbare arbetsflöde med snabbåtgärder
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,9 @@ Snabba e-poståtgärder är dynamiska och uppdateras beroende på de mest releva
 
 **Levererat**
 
-| Arkiv | Kommer att lägga till e-postmeddelandet i den arkiverade mappen och stoppa alla inaktiveringsvyer och klicka på spårning för det e-postmeddelandet. |
+| Status | Beskrivning |
 |---|---|
+| Arkiv | Kommer att lägga till e-postmeddelandet i den arkiverade mappen och stoppa alla inaktiveringsvyer och klicka på spårning för det e-postmeddelandet. |
 | Lyckades | Markerar e-postmeddelandet som lyckat att rapporteras i mallanalyser. |
 
 **Arkiverad**
@@ -84,13 +85,11 @@ Snabba e-poståtgärder är dynamiska och uppdateras beroende på de mest releva
 
 **Uppföljningsåtgärder**
 
-** ![](assets/using-quick-actions-to-speed-up-your-workflow-1.png)
+![](assets/using-quick-actions-to-speed-up-your-workflow-1.png)
 
-**
-
-| Skicka e-post med uppföljning | Öppnar dispositionsfönstret med den markerade infogade e-posttexten tillagd och klar att skickas till mottagaren. |
+| Funktion | Beskrivning |
 |---|---|
+| Skicka e-post med uppföljning | Öppnar dispositionsfönstret med den markerade infogade e-posttexten tillagd och klar att skickas till mottagaren. |
 | Ring | Öppnar säljtelefonen för att ringa ett samtal till e-postmottagaren. |
 | Skicka via e-post | Omdirigerar till LinkedIn för att skicka ett InMail-meddelande till personen. |
 | Skapa uppgift | Öppnar popup-fönstret för att skapa en påminnelseuppgift. |
-
