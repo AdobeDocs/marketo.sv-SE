@@ -3,9 +3,9 @@ unique-page-id: 14352416
 description: Översikt över analyssidan - Marketo Docs - Produktdokumentation
 title: Översikt över analyssidan
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '383'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ Analyssidan uppdateras var tionde minut.
 
 ## Vad betyder siffrorna? {#what-do-the-numbers-mean}
 
-Siffrorna i `radials` beräknar det totala antalet händelser för alla skickade e-postmeddelanden. Om det är en `single same email is viewed five times, it will add five views`till det här talet. Samma idé gäller för de klick och svar som räknas inuti cirkeln.
+Siffrorna i radialerna beräknar det totala antalet händelser i alla skickade e-postmeddelanden. Om ett och samma e-postmeddelande visas fem gånger läggs fem vyer till i det här numret. Samma idé gäller för de klick och svar som räknas inuti cirkeln.
 
-Alla våra statistik som finns i `table` beräknas genom att titta på de unika vyerna, klickningarna och svaren på dina e-postmeddelanden. Om `one email is viewed five times, we will count that as one view.` Det är därför du kan se en stor skillnad i talen i tabellerna jämfört med siffrorna i radialen.
+All statistik som finns i tabellen beräknas genom att du tittar på de unika vyerna, klickar och svarar på dina mejl. Om ett e-postmeddelande visas fem gånger räknas det som en vy. Det är därför du kan se en stor skillnad mellan siffrorna i tabellerna och siffrorna i radialen.
 
 ## Analytiska flikar {#analytic-tabs}
 
@@ -45,6 +45,6 @@ Här ser du statistik och rankningar för hela teamet. Du kan också filtrera ef
 
 Fliken Innehåll innehåller statistik om mallar, innehåll och länkar. Du kan antingen filtrera efter alla eller efter team som dina administratörer har skapat.
 
-Om du ser blå text under ämneskolumnen betyder det att mallen är `shared`. Du kan klicka på den blå text som ska tas till mallen. Visa hur det används genom att klicka på **Mallanalys**.
+Om du ser blå text under ämneskolumnen betyder det att mallen delas. Du kan klicka på den blå text som ska tas till mallen. Visa hur det används genom att klicka på **Mallanalys**.
 
 &quot;Klicka på innehåll&quot; räknas när en mottagare klickar på en länk i ditt e-postmeddelande.
