@@ -3,9 +3,9 @@ unique-page-id: 15368208
 description: Så här installerar du anpassningar i din Salesforce-sandlåda - Marketo Docs - produktdokumentation
 title: Installera anpassningar i din Salesforce-sandlåda
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Anslut försäljningsanslutning till din Salesforce-sandlåda](http://docs.marketo.com/x/DYDq)
+>[Anslut försäljningsanslutning till din Salesforce-sandlåda](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
 
 1. I Sales Connect klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Inställningar**.
 
@@ -33,5 +33,4 @@ ht-degree: 0%
 
    ![](assets/three-3.png)
 
-   Gå sedan igenom stegen för att installera anpassningen på samma sätt som för ett vanligt Salesforce-konto. Gå till enminutsinställningen [den här videon](http://docs.marketo.com/display/DOCS/Quick+Start+Videos+and+Tutorials#QuickStartVideosandTutorials-InstallingCustomizationsinSalesforce) om du vill ha mer information.
-
+   Gå sedan igenom stegen för att installera anpassningen på samma sätt som för ett vanligt Salesforce-konto.
