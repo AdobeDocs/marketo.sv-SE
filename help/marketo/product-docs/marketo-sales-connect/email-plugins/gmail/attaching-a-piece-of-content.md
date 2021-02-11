@@ -3,7 +3,7 @@ unique-page-id: 14352442
 description: Bifoga en innehållsdel - Marketo Docs - Produktdokumentation
 title: Bifoga en innehållsdel
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -18,4 +18,3 @@ Lägg till spårbart innehåll genom att klicka på knappen **Innehåll** och la
 >[!NOTE]
 >
 >Om du vill spåra dina e-postbilagor måste du lägga till dem via den här knappen.
-
