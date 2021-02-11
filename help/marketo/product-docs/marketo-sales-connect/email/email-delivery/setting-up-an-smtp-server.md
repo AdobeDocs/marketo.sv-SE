@@ -3,9 +3,9 @@ unique-page-id: 14746594
 description: Konfigurera en SMTP-server - Marketo Docs - Produktdokumentation
 title: Konfigurera en SMTP-server
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '596'
+source-wordcount: '655'
 ht-degree: 0%
 
 ---
@@ -53,13 +53,17 @@ Kon
 * Om du ändrar användarens O365-lösenord bryts anslutningen
 
 Om du använder Office365 eller Exchange Online kan du ansluta till SMTP-servern med hjälp av en standarduppsättning med autentiseringsuppgifter. Kom ihåg att Office365 inte är en massutskick av e-post, men det fungerar bra för att skicka engångskommunikation via e-post. När du skickar massutskick kan Office365 begränsa dina e-postmeddelanden, vilket kan leda till felaktig leverans. Mer information om den här utcheckningen av Microsofts artikel om [hur du ställer in SMTP-klientinlämning](http://support.office.com/en-us/article/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-office-365-69f58e99-c550-4274-ad18-c805d654b4c4).
-`<blockquote>  <p>“You can only send from one email address unless your device can store login credentials for multiple Office 365 mailboxes. Office 365 imposes a limit of 30 messages sent per minute, and a limit of 10,000 recipients per day.”</p> </blockquote>`\
+
+&quot;Du kan bara skicka från en e-postadress om inte din enhet kan lagra inloggningsuppgifter för flera Office 365-postlådor. Office 365 har en gräns på 30 meddelanden som skickas per minut och en gräns på 10 000 mottagare per dag.&quot;
+
 Om du bestämmer dig för att använda Office365 som leveranskanal måste du ange dessa autentiseringsuppgifter. Samma inloggningsuppgifter kan inte användas i hela teamet eftersom Office365 använder användarens e-postadress och lösenord för att ansluta.
 
 Microsoft och massutskick
 
-[Klicka ](http://technet.microsoft.com/en-us/library/exchange-online-limits.aspx#RecipientLimits) här om du vill veta mer om massutskick i Office365. 
-`<blockquote>  <p>“Exchange Online customers who need to send legitimate bulk commercial email (for example, customer newsletters) should use third-party providers that specialize in these services.”</p> </blockquote>`\
+[Klicka ](https://technet.microsoft.com/en-us/library/exchange-online-limits.aspx#RecipientLimits) här om du vill veta mer om massutskick i Office365.
+
+Exchange Online-kunder som behöver skicka laglig massvis kommersiell e-post (till exempel kundnyhetsbrev) bör använda tredjepartsleverantörer som specialiserar sig på dessa tjänster.&quot;
+
 **Vad händer om mitt företag använder Gmail?**
 
 Du behöver inte hämta några SMTP-autentiseringsuppgifter om ditt team vill använda Gmail som leveranskanal med Sales Connect. Med Sales Connect får användarna tillgång till sin Gmail-leveranskanal via vår OAuth-integrering. Användarna kan aktivera detta genom att integrera sitt Sales Connect-konto med Gmail.
@@ -73,4 +77,3 @@ Detta beror på vilken leveranskanal du använder. Till exempel tillåter tjäns
 Om du ansluter till Office365 är autentiseringsuppgifterna e-postadressbaserade. Detta innebär endast den e-postadress som upprättade anslutningen autentiseras för att skicka e-post via den leveranskanalen, så autentiseringsuppgifterna ska **inte** delas.
 
 ![](assets/3.png)
-
