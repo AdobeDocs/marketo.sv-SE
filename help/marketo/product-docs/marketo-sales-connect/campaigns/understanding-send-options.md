@@ -3,7 +3,7 @@ unique-page-id: 14352621
 description: Understanding Send Options - Marketo Docs - Product Documentation
 title: Förstå sändningsalternativ
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '540'
 ht-degree: 0%
@@ -59,4 +59,3 @@ Skapa en uppgift; Jag skickar det här e-postmeddelandet själv
 Koppla det här e-postmeddelandet till föregående e-postmeddelande
 
 * Det här sändningsalternativet är en uppföljning av ditt tidigare e-postmeddelande och kommer att lägga till det föregående e-postmeddelandet längst ned i det här e-postmeddelandet.
-
