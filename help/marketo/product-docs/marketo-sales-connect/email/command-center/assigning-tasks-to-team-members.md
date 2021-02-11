@@ -3,9 +3,9 @@ unique-page-id: 45417460
 description: Tilldela uppgifter till teammedlemmar - Marketo Docs - Produktdokumentation
 title: Tilldela uppgifter till teammedlemmar
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Om du vill samarbeta med andra teammedlemmar kan det vara ett bra sätt att samo
 
 >[!NOTE]
 >
->Du kan bara tilldela uppgifter för delade kontakter. Du vill [dela en grupp kontakter](http://docs.marketo.com/x/fwDb) med dina teammedlemmar innan du samarbetar med delade uppgifter.
+>Du kan bara tilldela uppgifter för delade kontakter. Du vill [dela en grupp kontakter](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md) med dina teammedlemmar innan du samarbetar med delade uppgifter.
 
 1. Klicka på **Kommandocentralen**.
 
@@ -57,5 +57,4 @@ Om du vill samarbeta med andra teammedlemmar kan det vara ett bra sätt att samo
 
 >[!MORELIKETHIS]
 >
->[Dela en grupp](http://docs.marketo.com/x/fwDb)
-
+>[Dela en grupp](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md)
