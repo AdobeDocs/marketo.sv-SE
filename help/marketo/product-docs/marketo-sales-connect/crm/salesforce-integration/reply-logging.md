@@ -3,9 +3,9 @@ unique-page-id: 14352480
 description: SFDC (Reply Logging) - Marketo Docs - Produktdokumentation
 title: SFDC (Reply Logging)
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -18,14 +18,13 @@ Sales Connect ger dig möjlighet att automatiskt logga presumtiva kunders svar t
 ## Krav {#requirements}
 
 * E-postmeddelanden måste loggas via API-loggning
-* Måste kunna [spåra ett svar](http://docs.marketo.com/x/BYPS)
+* Måste kunna [spåra ett svar](/help/marketo/product-docs/marketo-sales-connect/email/common-tracking-questions/how-reply-tracking-works.md)
 * Måste vara ansluten till Salesforce
-* Måste ha Salesforce [API-anrop](http://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) tillgängliga
+* Måste ha Salesforce [API-anrop](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) tillgängliga
 
 ## Aktivera svarsloggning {#enable-reply-logging}
 
-1. Om du vill aktivera svarsloggning går du till [Salesforce-inställningarna](http://docs.marketo.com/pages/assets/external-link.jspa)-sidan. När API-loggningen är avmarkerad ser du alternativet att kontrollera *Loggsvar.\
-   *
+1. Om du vill aktivera svarsloggning går du till sidan med Salesforce-inställningar. När API-loggningen är avmarkerad kan du se alternativet _Logga svar_.
 
    >[!NOTE]
    >
@@ -35,7 +34,7 @@ Sales Connect ger dig möjlighet att automatiskt logga presumtiva kunders svar t
 
 Det är viktigt att du hämtar meningsfulla data från dina Salesforce-rapporter. Om du har möjlighet att fylla i fältet Typ som Svara kan du hämta data genom dina rapporter. Anslut till din `Salesforce admin` för att få den här konfigurationen.
 
-1. Gå till **Inställningar **> **Anpassa **> **Aktiviteter **> **Aktivitetsfält**.
+1. Gå till **Inställningar** > **Anpassa** > **Aktiviteter** > **Åtgärdsfält**.
 1. Klicka på **Skriv**.
 1. Klicka på **Nytt** under Värden för aktivitetstypväljaren.
 1. Skriv&quot;Svara&quot; i den tomma rutan. Se till att du börjar med versal och klicka på **Spara**.
@@ -43,4 +42,3 @@ Det är viktigt att du hämtar meningsfulla data från dina Salesforce-rapporter
    >[!NOTE]
    >
    >Du behöver inte välja en standard i typväljaren. Sales Connect kommer att se att den här aktivitetstypen är tillgänglig i din Salesforce-instans och fylla i aktivitetsfältet på dina inkommande aktiviteter i enlighet med detta.
-
