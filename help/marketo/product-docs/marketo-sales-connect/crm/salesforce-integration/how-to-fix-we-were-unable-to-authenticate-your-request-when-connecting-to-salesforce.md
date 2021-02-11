@@ -3,7 +3,7 @@ unique-page-id: 14352484
 description: Så här åtgärdar du"Vi kunde inte autentisera din begäran" vid anslutning till Salesforce - Marketo Docs - produktdokumentation
 title: Så här åtgärdar du"Vi kunde inte autentisera din begäran" vid anslutning till Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -31,4 +31,3 @@ Om du får felmeddelandet&quot;Vi kunde inte autentisera din begäran&quot; när
 1. Välj **Hantera program**.
 1. Välj **Anslutna appar OAuth-användning**.
 1. Se till att Sales Connect visar &quot;Block&quot; bredvid det. Om du ser &quot;Avblockera&quot; klickar du på knappen för att avblockera Sales Connect-åtkomsten till Salesforce.
-
