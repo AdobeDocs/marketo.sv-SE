@@ -3,7 +3,7 @@ unique-page-id: 14352591
 description: Lägga till innehåll - Marketo Docs - produktdokumentation
 title: Lägga till innehåll
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -20,4 +20,3 @@ Om du redan har lagt till innehåll visas dessa filer. Om inte klickar du på **
 >[!NOTE]
 >
 >Filen placeras där markören befinner sig i e-postmeddelandet, och du måste klicka på &quot;Tout It&quot; när du skickar e-postmeddelandet för att kunna spåra innehållet i din livefeed.
-
