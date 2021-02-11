@@ -3,9 +3,9 @@ unique-page-id: 37356584
 description: Skicka e-post via gruppmejl - Marketo Docs - Produktdokumentation
 title: Skicka e-post via gruppe-post
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,8 @@ Så här skickar/redigerar du e-post med alternativet Gruppera e-post.
 
 ## Redigera en gruppe-postadress {#editing-a-group-email}
 
-1. Skapa ett gruppe-postmeddelande med [Steg 1-3 ovan](https://docs.marketo.com/display/DOCS/Sending+Emails+via+Group+Email#SendingEmailsviaGroupEmail-SendingaGroupEmail).
+1. Skapa ett gruppe-postmeddelande med [Steg 1-3 ovan](#sending-a-group-email).
+
 1. Välj en mall eller fyll i e-postmeddelandet.
 
    ![](assets/edit-two.png)
@@ -58,11 +59,6 @@ Så här skickar/redigerar du e-post med alternativet Gruppera e-post.
 
 >[!MORELIKETHIS]
 >
->* [Alternativ för massutskick](http://docs.marketo.com/x/HwQ6Ag)
->* [Använda en mall i dispositionsfönstret](http://docs.marketo.com/x/MQQ6Ag)
->* [Dynamiska fält](http://docs.marketo.com/x/wwDb)
-
->
-
-
+>* [Alternativ för massutskick](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
+>* [Använda en mall i dispositionsfönstret](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
 
