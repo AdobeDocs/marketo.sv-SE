@@ -3,9 +3,9 @@ unique-page-id: 14352476
 description: SFDC (Activity Type Field on Task) - Marketo Docs - Produktdokumentation
 title: SFDC (Activity Type Field on Task)
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -24,13 +24,13 @@ Med hjälp av Sales Connect kan du logga dina e-postmeddelanden och samtal som e
 * Anslutning till Salesforce
 * Inget standardtypvärde har valts i listrutan Aktivitetstyp
 * Samtal, svar och e-post måste alla finnas i listrutan Aktivitetstyp (skiftlägesfrågor)
-* Ingen `Workflows` eller `Triggers` åtgärd för värdet i textfältet
+* Inga arbetsflöden eller utlösare som utför åtgärder på värdet i typfältet
 
 ## Konfigurera {#setup}
 
 Kontrollera först att du har rätt plocklistevärden på plats. Du behöver hjälp av din Salesforce-administratör för att göra ändringar i din lista.
 
-1. Navigera till [Salesforce.com](http://Salesforce.com) och klicka på Inställningar i det övre högra hörnet.
+1. Navigera till [Salesforce.com](https://salesforce.com) och klicka på Inställningar i det övre högra hörnet.
 1. Klicka på Anpassa.
 1. Klicka på Aktiviteter.
 1. Klicka på Aktivitetsfält.
