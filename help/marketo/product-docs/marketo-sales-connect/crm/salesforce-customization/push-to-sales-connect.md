@@ -3,9 +3,9 @@ unique-page-id: 14352477
 description: Push to Sales Connect - Marketo Docs - Product Documentation
 title: Push to Sales Connect
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Knappen Push to Tout (Skicka till toning) innehåller en lista över dina leads/
 
 ## Krav {#requirements}
 
-* Sales Connect [Salesforce-paket](http://docs.marketo.com/x/C4PS) installerat av `Salesforce Admin`
+* Sales Connect Salesforce-paket installerat av Salesforce Admin
 
-* `Push to Sales Connect`knapp installerad för att visa en lista per  `Salesforce Admin`
+* Knappen Skicka till försäljningskontakt installerad i listvyn av Salesforce Admin
 
 * Salesforce-anslutning skapad med Sales Connect för användare som gör push
 
@@ -30,11 +30,10 @@ Knappen Push to Tout (Skicka till toning) innehåller en lista över dina leads/
 1. Klicka på **Gå**.
 1. Markera alla leads/kontakter som du vill ska pushas för att tona ut.
 1. Välj **Skicka till MSE**.
-1. Ett nytt fönster visas som verifierar antalet leads/kontakter som du vill skicka över. Välj **Gå till grupp**. Sales Connect `will not push over` alla kontakter som är markerade som `Email Opt Out` i Salesforce eller `Unsubscribed` i Sales Connect.
+1. Ett nytt fönster visas som verifierar antalet leads/kontakter som du vill skicka över. Välj **Gå till grupp**. Sales Connect kommer inte att föra över kontakter som är markerade som e-postavanmälan i Salesforce eller Avanmäl i Sales Connect.
 
    >[!NOTE]
    >
    >Sales Connect kommer att lägga till den här gruppen med namnet &quot;SFDC-..&quot; till sidan Relationer på [webbprogrammet](http://toutapp.com/login).
 
 1. Välj **E-posta hela gruppen** om du vill skicka ut gruppe-postmeddelandet.
-
