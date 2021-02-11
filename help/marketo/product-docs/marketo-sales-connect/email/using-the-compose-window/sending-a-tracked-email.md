@@ -3,9 +3,9 @@ unique-page-id: 37356565
 description: Skicka ett spårat e-postmeddelande - Marketo Docs - Produktdokumentation
 title: Skicka ett spårat e-postmeddelande
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,8 @@ När du skickar ett e-postmeddelande med Marketo Sales Connect spåras vyer (e-p
 >
 >Du måste ha en identitetsverifierad och en e-postleveranskanal konfigurerad innan du kan skicka ett spårat e-postmeddelande.
 >
->* [Verifiera din e-postadress](http://docs.marketo.com/x/ewPh)
->* Konfigurera en leveranskanal för [Outlook](http://docs.marketo.com/x/Z4AOAQ) eller [Gmail](http://docs.marketo.com/x/kYMOAQ)
-
->
-
+>* [Verifiera din e-postadress](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
+>* Konfigurera en leveranskanal för [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-tab-for-outlook-users.md) eller [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md)
 
 
 1. Skapa ditt e-postutkast (det finns flera sätt att göra detta, i det här exemplet väljer vi **Disponera** i sidhuvudet).
@@ -54,17 +51,12 @@ När du skickar ett e-postmeddelande med Marketo Sales Connect spåras vyer (e-p
    >
    >Du måste ange ämnesrad och mottagare för att kunna skicka e-postmeddelandet. Vi kommer att **automatiskt spara utkastet** när en ämnesrad och mottagare har lagts till.
 
-1. Skriv e-postmeddelandet med redigeraren. Klicka på **Skicka** (eller [Schemalägg](http://docs.marketo.com/x/GAQ6Ag), om du vill) när du är klar.
+1. Skriv e-postmeddelandet med redigeraren. Klicka på **Skicka** (eller [Schemalägg](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md), om du vill) när du är klar.
 
    ![](assets/five.png)
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Schemalägga ett e-postmeddelande](http://docs.marketo.com/x/GAQ6Ag)
-   >    * [Dynamiska fält](http://docs.marketo.com/x/wwDb)
-   >    * [Använda mallar](http://docs.marketo.com/display/DOCS/Templates)
-
+   >* [Schemalägga ett e-postmeddelande](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
+   >* [Mallar](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)
 
