@@ -3,7 +3,7 @@ unique-page-id: 37356587
 description: Lägg till en bifogad fil eller spårbart innehåll i din e-post - Marketo Docs - produktdokumentation
 title: Lägg till en bifogad fil eller spårbart innehåll i din e-post
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -70,4 +70,3 @@ Den bifogade filen visas längst ned i e-postmeddelandet.
    >[!NOTE]
    >
    >Användarna meddelas i Live Feed när de visar sitt spårade innehåll. Användarna kan även se det innehåll som har högst prestanda i innehållsavsnittet på sidan Analytics.
-
