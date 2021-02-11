@@ -3,9 +3,9 @@ unique-page-id: 14746690
 description: Kampanjstegstyper - Marketo Docs - Produktdokumentation
 title: Typer av kampanjsteg
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Skapa ett nytt e-postmeddelande eller använd en befintlig mall.
 
 >[!TIP]
 >
->Lär dig mer om dina [sändningsalternativ](http://docs.marketo.com/x/7QDb).
+>Lär dig mer om dina [sändningsalternativ](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
 
 ## Ring {#call}
 
@@ -50,4 +50,3 @@ Uppföljning i flera kanaler är ett bra sätt att få kontakt med leads. Med In
 Använd anpassade uppgifter när ovanstående alternativ inte är tillämpliga. Du kan till exempel bjuda in en kollega att följa upp med en lead via e-post.
 
 ![](assets/custom.png)
-
