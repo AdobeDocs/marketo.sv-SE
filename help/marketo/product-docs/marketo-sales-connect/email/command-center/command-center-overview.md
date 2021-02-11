@@ -3,9 +3,9 @@ unique-page-id: 14352530
 description: Command Center Overview - Marketo Docs - produktdokumentation
 title: Översikt över kommandocentralen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -94,11 +94,7 @@ Bonus: Om du sparar din avancerade sökning kommer den att fungera som en dynami
 
 >[!MORELIKETHIS]
 >
->* [Uppgifter](http://docs.marketo.com/x/qwDb)
->* [Översikt över avancerad sökning](http://docs.marketo.com/x/KQM6Ag)
->* [Disponera massutskick med Markera och skicka](http://docs.marketo.com/x/IgQ6Ag)
-
->
-
-
+>* [Uppgifter](/help/marketo/product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
+>* [Översikt över avancerad sökning](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
+>* [Disponera massutskick med Markera och skicka](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
 
