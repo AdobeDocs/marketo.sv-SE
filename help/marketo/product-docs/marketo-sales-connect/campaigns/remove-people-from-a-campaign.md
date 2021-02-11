@@ -3,7 +3,7 @@ unique-page-id: 14352608
 description: Ta bort personer från en kampanj - Marketo Docs - Produktdokumentation
 title: Ta bort personer från en kampanj
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
@@ -72,4 +72,3 @@ Dessutom kan du ta bort personer från själva kampanjen, ta bort personer från
 1. Klicka på **Åtgärder** och välj **Ta bort markerade från kampanj**.
 
    ![](assets/four-b.png)
-
