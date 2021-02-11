@@ -3,9 +3,9 @@ unique-page-id: 14352609
 description: Inaktivera en kampanj - Marketo Docs - Produktdokumentation
 title: Inaktivera en kampanj
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Behöver du automatiskt avsluta en kampanj när en mottagare svarar? Så här g�
 
 >[!NOTE]
 >
->Detta är endast tillgängligt för kunder som är integrerade med [Gmail eller Exchange](https://toutapp.com/next#settings/email-tracking) och som har svarsspårning aktiverad.
+>Detta är endast tillgängligt för kunder som är integrerade med Gmail eller Exchange och har svarsuppföljning aktiverat.
 
 ## Inaktivera en kampanj för en person {#turn-off-a-campaign-for-one-person}
 
