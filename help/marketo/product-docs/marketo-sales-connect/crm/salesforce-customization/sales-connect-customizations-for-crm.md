@@ -3,9 +3,9 @@ unique-page-id: 14745793
 description: Sales Connect-anpassningar för CRM - Marketo Docs - Produktdokumentation
 title: Anpassningar av Sales Connect för CRM
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '626'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Anpassningar av Sales Connect för CRM {#sales-connect-customizations-for-crm}
 
-Fälten och knapparna nedan skapas av Metadata API i Salesforce CRM. När fälten har skapats måste administratörer konfigurera sidlayouterna i CRM så att de visas. Instruktioner finns [här](http://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf).
+Fälten och knapparna nedan skapas av Metadata API i Salesforce CRM. När fälten har skapats måste administratörer konfigurera sidlayouterna i CRM så att de visas. Instruktioner finns [här](https://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf).
 
 >[!NOTE]
 >
@@ -134,14 +134,8 @@ Marketo identifierar skapandet av de nya fälten och gör sedan en engångsefter
 
 ## Användarhandböcker {#user-guides}
 
-[Anpassade MSE-rapporter i Salesforce](http://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
+[Anpassade MSE-rapporter i Salesforce](https://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
 
-[MSE för Salesforce](http://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
+[MSE för Salesforce](https://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
 
-[MSE för Salesforce Lightning](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
-
-## Relaterade videoklipp {#related-videos}
-
-**Installera anpassningar i Salesforce**
-`<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>` ** Fördelen med att använda anpassningar i Salesforce** 
-`<iframe width="630" height="470" src="//play.vidyard.com/4PzSDb6o8Qg8WbvBsq8wJD.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+[MSE för Salesforce Lightning](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
