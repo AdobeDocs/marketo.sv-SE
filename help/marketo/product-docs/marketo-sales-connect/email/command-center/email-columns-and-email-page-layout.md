@@ -3,7 +3,7 @@ unique-page-id: 37357302
 description: E-postkolumner och e-postsidlayout - Marketo Docs - Produktdokumentation
 title: E-postkolumner och sidlayout för e-post
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '506'
 ht-degree: 0%
@@ -131,4 +131,3 @@ Du kan konfigurera layouten genom att följa dessa steg.
    ![](assets/email-columns-and-email-grid-layout-3.png)
 
 1. Klicka utanför konfigurationen när du är klar.
-
