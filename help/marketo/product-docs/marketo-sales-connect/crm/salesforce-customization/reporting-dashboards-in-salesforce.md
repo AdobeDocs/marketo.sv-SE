@@ -3,7 +3,7 @@ unique-page-id: 14352464
 description: Rapportera instrumentpaneler i Salesforce - Marketo Docs - Produktdokumentation
 title: Rapportera instrumentpaneler i Salesforce
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%
@@ -23,21 +23,20 @@ Lär dig hur du konfigurerar instrumentpaneler nedan.
 1. Välj rapportformatet **Sammanfattning**.
 1. Lägg till fälten Ämne, Tilldelad och Marketo Försäljning klickad/Marketo Försäljning Visad i rapporten.
 1. Dubbelklicka på **Lägg till formel** i fältfönstret.
-1. Lägg till ett namn i formeln, välj **Percent **i formatet och välj** Gruppera 1 *.***
-1. Välj **Marketo Sales Click/Marketo Sales Viewed,** och sedan **Sum** i sammanfattningsfälten.
-1. Lägg till ett divisionstecken i formeln och välj sedan **Antal poster** i sammanfattningsfälten - *Spara som*.
+1. Lägg till ett namn i formeln, välj **Procent** i formatet och välj **Gruppera 1**.
+1. Välj **Marketo Sales Click/Marketo Sales Viewed,** och **Sum** i sammanfattningsfälten.
+1. Lägg till ett divisionstecken i formeln och välj sedan **Antal poster** i sammanfattningsfälten - _Spara som_.
 
 ## Resultatrapport för mall {#template-performance-report}
 
-1. Anpassa rapporten Öppna och klicka för att inkludera följande fält - *Spara som.*
+1. Anpassa rapporten Öppna och klicka för att inkludera följande fält - _Spara som_.
 
 ## Mallvolymrapport {#template-volume-report}
 
 1. Ändra mallresultatrapporten och inkludera filtret&quot;Marketo Sales Template not equal to blank&quot;.
-1. Ta bort fältet Marketo Sales Click - *Spara som*.
+1. Ta bort fältet Marketo Sales Click - _Spara som_.
 
 ## Trendkontorapport {#trending-accounts-report}
 
 1. Välj aktiviteter med posttypen Konton.
-1. Ange rapportparametrar och fält enligt nedan - *Spara som.
-
+1. Konfigurera rapportparametrar och fält enligt nedan - _Spara som_.
