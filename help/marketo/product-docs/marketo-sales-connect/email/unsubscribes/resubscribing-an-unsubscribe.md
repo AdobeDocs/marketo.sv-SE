@@ -3,7 +3,7 @@ unique-page-id: 14746177
 description: Prenumerera på ett abonnemang - Marketo Docs - produktdokumentation
 title: Prenumerera på och avbryta prenumeration
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -27,7 +27,8 @@ Ibland vill man avanmäla sig från att ta emot e-post. Så här gör du för at
 >
 >Om du har avaktiverat synkronisering av prenumerationen måste du ta bort avprenumerationen från ToutApp och avmarkera avregistreringen i Salesforce för att personposten inte ska synkroniseras igen.
 
-1. Gå till [webbprogrammet](http://toutapp.com/login) och klicka på **Personer**.
+1. Gå till [webbprogrammet](https://toutapp.com/login) och klicka på **Personer**.
+
 1. Markera personen som du vill öppna vyn med personinformation.
 
    ![](assets/two.png)
@@ -39,4 +40,3 @@ Ibland vill man avanmäla sig från att ta emot e-post. Så här gör du för at
 1. Välj orsaken till varför personen har valts in igen för att få e-post och klicka sedan på **Ta bort avanmälan**.
 
    ![](assets/four.png)
-
