@@ -3,9 +3,9 @@ unique-page-id: 14352543
 description: Felaktig mottagarplats - Marketo Docs - Produktdokumentation
 title: Felaktig mottagarplats
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -19,4 +19,4 @@ Om vi har fått fel plats för dina mottagare finns det tre möjligheter för va
 
 -Om e-postmeddelandet har vidarebefordrats eller öppnats av någon i fältet CC eller Hemlig kopia försöker vi visa platsen för dessa personer korrekt.
 
-På det hela taget avgör vi platser så exakt som möjligt utifrån IP-spårning, men tyvärr `isn't an exact science`.
+På det hela taget avgör vi platser så exakt som möjligt utifrån IP-spårning, men tyvärr är det inte en exakt vetenskap.
