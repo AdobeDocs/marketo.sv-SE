@@ -3,9 +3,9 @@ unique-page-id: 14746655
 description: Anpassningsversioner - Marketo Docs - Produktdokumentation
 title: Anpassningsversioner
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 Nedan finns information om uppdateringar som görs av dina Marketing Sales Connect-anpassningar för Salesforce.
 
 **Version 1**
-Aktivitetsfält, Kontaktfält, Lead-fält, Kontofält, Affärsmöjlighetsfält, Knappar,  [dessa Marketo-fält](http://docs.marketo.com/x/wQDh).
+Aktivitetsfält, Kontaktfält, Lead-fält, Kontofält, Affärsmöjlighetsfält, Knappar,  [dessa Marketo-fält](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
 
 **Version 1.1**
 Aktivitetsfält, Kontaktfält, Leadfält, Kontofält, Fält för affärsmöjligheter, Knappar, Marketto-fält är nu tillgängliga i sidlayouten för Salesforce Lightning.
