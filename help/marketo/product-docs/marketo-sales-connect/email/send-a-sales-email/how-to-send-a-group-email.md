@@ -3,9 +3,9 @@ unique-page-id: 14352520
 description: Så här skickar du ett gruppe-postmeddelande - Marketo Docs - produktdokumentation
 title: Skicka en gruppe-post
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -19,30 +19,31 @@ Om du skickar ett gruppmeddelande med Sales Connect kan du kontakta flera mottag
 >
 >Mottagarna av gruppmeddelanden får sina egna personliga meddelanden. Vi levererar också individuell spårningsstatistik för varje mottagare.
 
-Klicka [här](http://docs.marketo.com/x/JITS) om du vill se en steg-för-steg-guide om hur du skapar en ny kontaktgrupp (krävs för att skicka flera kontakter ett gruppe-postmeddelande).
+Klicka [här](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/how-to-create-a-contact-group.md) om du vill se en steg-för-steg-guide om hur du skapar en ny kontaktgrupp (krävs för att skicka flera kontakter ett gruppe-postmeddelande).
 
 ## Tona ut ett e-postmeddelande till en grupp {#tout-an-email-to-a-group}
 
-1. Navigera till sidan [Personer](http://toutapp.com/next#relationships) i webbprogrammet.
+1. Navigera till sidan [Personer](https://toutapp.com/login) i webbprogrammet.
 
    >[!NOTE]
    >
    >Om du använder Gmail- eller Outlook-plugin-programmet måste du navigera till webbprogrammet för att skicka ett gruppmeddelande via e-post.
 
 1. Markera gruppen som ska skickas med e-post.
+
 1. Klicka på knappen **E-postgrupp**.
+
 1. Välj en e-postmall.
 
    >[!TIP]
    >
-   >Varje medlem i gruppen får samma e-post, så se till att mallen innehåller [dynamiska fält](http://docs.marketo.com/x/QITS) för att anpassa varje mottagares meddelande.
+   >Varje medlem i gruppen får samma e-post, så se till att mallen innehåller [dynamiska fält](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md) för att anpassa varje mottagares meddelande.
 
 1. Klicka på **Förhandsgranska** om du vill granska e-postmeddelandet innan du skickar det.
 1. När e-postmeddelandet är klart klickar du på **Skicka**.
 
-Öppna nu din Sales Connect [Live Feed](http://toutapp.com/next#live) och se hur mottagarna börjar använda din e-post.
+Öppna nu din Sales Connect [Live Feed](https://toutapp.com/login) och se hur mottagarna börjar använda din e-post.
 
 >[!NOTE]
 >
 >Mottagarna av ett gruppmeddelande kan inte avgöra om de är en del av en massutsändning.
-
