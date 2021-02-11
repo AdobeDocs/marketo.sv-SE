@@ -3,7 +3,7 @@ unique-page-id: 13796471
 description: Översikt över Live-flöden - Marketo Docs - Produktdokumentation
 title: Översikt över Live-feed
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
@@ -33,9 +33,6 @@ Personer markerade med en blå linje representerar engagemang med e-post som ski
 >
 >* Om din mottagare var inloggad på det trådlösa nätverket för ett företag som har sitt IT-huvudkontor i en annan stad eller ett annat land loggar vi den platsen i stället för mottagarens aktuella språkområde.
 >* Om e-postmeddelandet har vidarebefordrats eller öppnats av någon i fältet CC/BCC försöker vi visa platsen för dessa personer korrekt.
-
->
-
 
 
 ## Fliken Åtgärder {#tasks-tab}
@@ -106,4 +103,3 @@ Se de översta personerna (ordnade uppifrån och ned) rankade efter lead-poäng.
 >[!NOTE]
 >
 >Om du ser någon visa ditt e-postmeddelande om och om igen i din livefeed, kan de ha vidarebefordrat e-postmeddelandet till ytterligare mottagare. Detta är troligtvis fallet om du märker att platsen börjar ändras för dessa vyer.
-
