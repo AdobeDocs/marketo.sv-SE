@@ -3,9 +3,9 @@ unique-page-id: 37356568
 description: Schemalägga ett e-postmeddelande - Marketo Docs - produktdokumentation
 title: Schemalägga ett e-postmeddelande
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,4 @@ Följ de här enkla stegen för att schemalägga ett e-postmeddelande.
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[Översikt över kommandocentralen](http://docs.marketo.com/x/kgDb)
-
+   >[Översikt över kommandocentralen](/help/marketo/product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
