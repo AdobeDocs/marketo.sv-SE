@@ -3,9 +3,9 @@ unique-page-id: 37356593
 description: Använda en mall i dispositionsfönstret - Marketo Docs - Produktdokumentation
 title: Använda en mall i dispositionsfönstret
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -69,13 +69,4 @@ Använd **upp till fem** specifika mallkategorier för att få snabb åtkomst ti
    >
    >**Som standard** finns Favoriter där. Den innehåller e-postmallar för favoriter, inte kategorier.
 
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [Dynamiska fält](http://docs.marketo.com/x/wwDb)
-   >    * [Använda mallar](http://docs.marketo.com/display/DOCS/Templates)
-
-
-Den valda kategorin är nu fäst.
+   Den valda kategorin är nu fäst.
