@@ -3,7 +3,7 @@ unique-page-id: 14352612
 description: Boka en kampanj - Marketo Docs - Produktdokumentation
 title: Schemalägg en kampanj
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -23,4 +23,4 @@ Om du inte har schemalagt ditt första steg eller behöver välja en&quot;Skicka
 
 När du har klickat på **Nästa** kan du förhandsgranska det första e-postmeddelandet.
 
-När du har klickat på **Nästa **igen får du ett alternativ för när du vill att kampanjen ska gå ut. Du kan antingen få det att börja nu eller schemalägga en tid för att starta kampanjen senare.
+När du har klickat på **Nästa** igen visas ett alternativ för när du vill att kampanjen ska gå ut. Du kan antingen få det att börja nu eller schemalägga en tid för att starta kampanjen senare.
