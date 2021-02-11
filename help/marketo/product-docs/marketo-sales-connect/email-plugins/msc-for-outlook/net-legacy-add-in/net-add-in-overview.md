@@ -3,9 +3,9 @@ unique-page-id: 14352457
 description: Översikt över tillägget .NET - Marketo Docs - Produktdokumentation
 title: Översikt över .NET-tillägg
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Detta är vårt gamla tillägg. Om du redan har det installerat fortsätter det att fungera till 2020. Om du är ny användare ska du installera vårt nya [Office 365-tillägg](http://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
+>Detta är vårt gamla tillägg. Om du redan har det installerat fortsätter det att fungera till 2020. Om du är ny användare ska du installera vårt nya [Office 365-tillägg](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
 
 ## Bifoga en innehållskomponent {#attaching-a-piece-of-content}
 
@@ -33,7 +33,7 @@ Detta gör att du kan lägga till datum och tider som är kostnadsfria i Outlook
 
 Dra in en fördefinierad Tout-mall till Outlook-meddelandet genom att trycka på knappen **Mallar**.
 
-Vi är `sync with all of your personal templates and any shared templates` bland teamet. Vi hämtar automatiskt den senast använda mallen och den mall som används oftast, så att den blir enkel att komma åt.
+Vi synkroniserar med alla dina personliga mallar och alla delade mallar i teamet. Vi hämtar automatiskt den senast använda mallen och den mall som används oftast, så att den blir enkel att komma åt.
 
 ## The Tout It Button {#the-tout-it-button}
 
