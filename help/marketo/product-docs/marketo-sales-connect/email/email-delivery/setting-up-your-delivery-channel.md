@@ -3,9 +3,9 @@ unique-page-id: 14746470
 description: Konfigurera din leveranskanal - Marketo Docs - Produktdokumentation
 title: Konfigurera leveranskanalen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ När du börjar använda Marketo Sales Connect måste du konfigurera en SMTP-ser
 
 >[!NOTE]
 >
->Förutom att konfigurera SMTP-servern måste din [e-postidentitet verifieras](http://docs.marketo.com/x/ewPh) innan du kan skicka e-postmeddelanden.
+>Förutom att konfigurera SMTP-servern måste din [e-postidentitet verifieras](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md) innan du kan skicka e-postmeddelanden.
 
 Du kan välja att skicka e-post med en anpassad SMTP-server, en Team SMTP-server eller Gmail som leveranskanal. Vi går igenom varje alternativ.
 
 ## Anpassad SMTP {#custom-smtp}
 
-1. Logga in på [webbprogrammet](http://toutapp.com/login), klicka på kugghjulsikonen överst till höger och välj **Inställningar**.
+1. Logga in på [webbprogrammet](https://toutapp.com/login), klicka på kugghjulsikonen överst till höger och välj **Inställningar**.
 
    ![](assets/one.png)
 
@@ -63,15 +63,13 @@ Du kan välja att skicka e-post med en anpassad SMTP-server, en Team SMTP-server
    >
    >Om teamadministratören konfigurerar teamets SMTP-server gäller den automatiskt bara din standardidentitet för e-post och är tillgänglig som ett alternativ för dina andra e-postidentiteter.
 
-   **Se en video**`<iframe width="630" height="470" src="//play.vidyard.com/YWKSgZvBEjUU8FrXZ5hdYR.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 ## Team SMTP Server {#team-smtp-server}
 
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
 
-1. Logga in på [webbprogrammet](http://toutapp.com/login), klicka på kugghjulsikonen överst till höger och välj **Inställningar**.
+1. Logga in på [webbprogrammet](https://toutapp.com/login), klicka på kugghjulsikonen överst till höger och välj **Inställningar**.
 
    ![](assets/nine.png)
 
@@ -87,11 +85,9 @@ Du kan välja att skicka e-post med en anpassad SMTP-server, en Team SMTP-server
    >
    >Teamets SMTP-server kommer att vara standardleveranskanalen för standardidentiteten för e-post för alla teammedlemmar. Dessutom kommer den att vara tillgänglig som ett alternativ för leveranskanal för alla andra e-postidentiteter.
 
-   ** Se en video**`<iframe width="630" height="470" src="//play.vidyard.com/Ky9EwGmLcgvsMpFq3H8Y6n.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 ## Gmail {#gmail}
 
-1. Logga in på [webbprogrammet](http://toutapp.com/login), klicka på kugghjulsikonen överst till höger och välj **Inställningar**.
+1. Logga in på [webbprogrammet](https://toutapp.com/login), klicka på kugghjulsikonen överst till höger och välj **Inställningar**.
 
    ![](assets/twelve.png)
 
@@ -108,6 +104,7 @@ Du kan välja att skicka e-post med en anpassad SMTP-server, en Team SMTP-server
    ![](assets/fifteen.png)
 
 1. Logga in med dina Google-inloggningsuppgifter.
+
 1. När du kommer till den här skärmen klickar du på **Tillåt**.
 
    ![](assets/sixteen.png)
@@ -135,4 +132,3 @@ Du kan välja att skicka e-post med en anpassad SMTP-server, en Team SMTP-server
    >[!NOTE]
    >
    >Om teamadministratören konfigurerar teamets SMTP-server gäller den automatiskt bara din standardidentitet för e-post och är tillgänglig som ett alternativ för dina andra e-postidentiteter.
-
