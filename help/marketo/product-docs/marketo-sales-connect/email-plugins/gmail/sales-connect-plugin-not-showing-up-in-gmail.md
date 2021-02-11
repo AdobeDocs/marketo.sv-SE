@@ -3,7 +3,7 @@ unique-page-id: 14352547
 description: Plugin-programmet Sales Connect visas inte i Gmail - Marketo Docs - produktdokumentation
 title: Plugin-programmet Sales Connect visas inte i Gmail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -21,10 +21,10 @@ Enligt vår erfarenhet kan du försöka med några saker om verktygsfältet inte
 
 - Detta kan vara uppenbart, men försök att lämna webbläsaren och öppna ett helt nytt fönster.
 
-- Gå till [webbprogrammet](http://toutapp.com/login) och kontrollera att du är inloggad där.
+- Gå till [webbprogrammet](https://toutapp.com/login) och kontrollera att du är inloggad där.
 
 - Kontrollera att cookies är aktiverade. Om du använder Chrome går du till Inställningar > Visa avancerade inställningar > Innehållsinställningar > Avmarkera &quot;Blockera cookies och webbplatsdata från tredje part&quot;.
 
 - Försök att koppla från och sedan återansluta webbläsartillägget Sales Connect.
 
-Om inget av tipsen ovan hjälper dig ber vi dig [skicka ett ärende](http://nation.marketo.com/community/support_solutions) till support.
+Om inget av tipsen ovan hjälper dig ber vi dig [skicka ett ärende](https://nation.marketo.com/community/support_solutions) till support.
