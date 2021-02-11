@@ -3,9 +3,9 @@ unique-page-id: 27656223
 description: Installera Salesforce-anpassning för Professional Edition-kunder - Marketo Docs - Produktdokumentation
 title: Installera Salesforce-anpassning för Professional Edition-kunder
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,6 @@ Kunder som har Salesforce Professional Edition måste följa dessa steg för att
 >
 >* Sales Connect Admin måste ansluta sina Salesforce- och Sales Connect-konton.
 >* Den Salesforce-instans som används måste ha utrymme för att installera tretton anpassade aktivitetsfält.
-
->
-
 
 
 ## Installation {#installation}
@@ -40,7 +37,7 @@ Kunder som har Salesforce Professional Edition måste följa dessa steg för att
    >
    >Om du är ansluten visas en grön Install-knapp. **Klicka** INTE på den här knappen, fortsätt till steg 4 i stället.
 
-1. Logga in på Salesforce-kontot som du är ansluten till och klicka sedan på [den här länken](http://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
+1. Logga in på Salesforce-kontot som du är ansluten till och klicka sedan på [den här länken](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
 1. Du kommer att skickas till installationssidan för Sales Connect.
 
    ![](assets/install-package.png)
@@ -58,7 +55,8 @@ Kunder som har Salesforce Professional Edition måste följa dessa steg för att
    >
    >Försäljningsengagemanget är det tidigare namnet för Sales Connect.
 
-   [Installationshandbok för Salesforce Classic](http://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
+## Stödlinjer {#guides}
 
-   [Installationshandbok för Salesforce Lightning](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+[Installationshandbok för Salesforce Classic](http://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 
+[Installationshandbok för Salesforce Lightning](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
