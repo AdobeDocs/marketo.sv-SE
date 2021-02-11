@@ -3,7 +3,7 @@ unique-page-id: 14352475
 description: Installera händelsefält för anslutning av försäljning på aktivitetshistorik - Marketo-dokument - produktdokumentation
 title: Installera händelsefält för försäljningsanslutning i aktivitetshistorik
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -35,4 +35,3 @@ Se till att du samarbetar med din Salesforce-administratör när du utför de h�
 1. Klicka på **Spara**.
 
    Dina användare kan nu se värdefull information och uppdateringar om sina e-postmeddelanden i Salesforce!
-
