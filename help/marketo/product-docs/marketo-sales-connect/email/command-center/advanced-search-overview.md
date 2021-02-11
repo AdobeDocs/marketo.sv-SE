@@ -3,9 +3,9 @@ unique-page-id: 37356329
 description: Advanced Search Overview - Marketo Docs - produktdokumentation
 title: Översikt över avancerad sökning
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -47,8 +47,9 @@ Filtrera efter e-postmottagare/avsändare i avsnittet Vem.
 
 ![](assets/who.png)
 
-| **Visa som** | Filtrera efter en specifik avsändare i din Sales Connect-instans (det här alternativet är endast tillgängligt för administratörer). |
+| Nedrullningsbar meny | Beskrivning |
 |---|---|
+| **Visa som** | Filtrera efter en specifik avsändare i din Sales Connect-instans (det här alternativet är endast tillgängligt för administratörer). |
 | **Per grupp** | Filtrera e-postmeddelanden efter en viss grupp mottagare. |
 | **Per person** | Filtrera efter en viss mottagare. |
 
@@ -82,8 +83,9 @@ Filtrerar efter din skickade e-postaktivitet. Du kan välja vyer/inga vyer, klic
 
 Filtrerar efter alla väntande e-postmeddelanden.
 
-| **Schemalagd** | E-postmeddelanden som har schemalagts från dispositionsfönstret (Salesforce eller Web App), e-postplugin-program eller en kampanj. |
+| Status | Beskrivning |
 |---|---|
+| **Schemalagd** | E-postmeddelanden som har schemalagts från dispositionsfönstret (Salesforce eller Web App), e-postplugin-program eller en kampanj. |
 | **Utkast** | E-postmeddelanden som är i utkastläge. E-postmeddelanden kräver en ämnesrad och en mottagare för att kunna sparas som ett utkast. |
 | **Pågår** | E-postmeddelanden som håller på att skickas. E-postmeddelanden får inte vara kvar i det här läget i mer än några sekunder. |
 
@@ -93,8 +95,9 @@ Filtrerar efter alla väntande e-postmeddelanden.
 
 Filtrerar efter e-postmeddelanden som aldrig levererats.
 
-| **Misslyckades** | När ett e-postmeddelande inte kan skickas från Sales Connect (vanliga orsaker är: e-postmeddelanden skickas till kontakter som inte längre är prenumererade/blockerade eller om det uppstod ett problem med att fylla i de dynamiska fälten). |
+| Status | Beskrivning |
 |---|---|
+| **Misslyckades** | När ett e-postmeddelande inte kan skickas från Sales Connect (vanliga orsaker är: e-postmeddelanden skickas till kontakter som inte längre är prenumererade/blockerade eller om det uppstod ett problem med att fylla i de dynamiska fälten). |
 | **Studsade** | Ett e-postmeddelande markeras som studsat när det avvisas av mottagarens server. Endast e-postmeddelanden som skickades via Sales Connect-servrar visas här. |
 | **Spam** | När e-postmeddelandet har markerats som skräppost (vanlig term för oombedd e-post) av mottagaren. Endast e-postmeddelanden som skickades via Sales Connect-servrar visas här. |
 
@@ -113,4 +116,3 @@ Så här skapar du en sparad sökning.
    Dina sparade sökningar visas i sidofältet till vänster.
 
    ![](assets/advanced-search-overview-15.png)
-
