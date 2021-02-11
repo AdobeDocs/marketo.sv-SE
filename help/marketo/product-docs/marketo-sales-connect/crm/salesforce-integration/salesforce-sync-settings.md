@@ -3,9 +3,9 @@ unique-page-id: 18317669
 description: Salesforce Sync Settings - Marketo Docs - Produktdokumentation
 title: Synkroniseringsinställningar för Salesforce
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -86,12 +86,12 @@ Om du inte ser Min e-post till Salesforce under dina inställningar har administ
 >
 >Du måste ha administratörsbehörighet för att kunna konfigurera detta.
 
-1. Klicka på **Inställningar *.* **
-1. Klicka på **E-postadministration *.* **
-1. Klicka på **E-post till Salesforce *.* **
+1. Klicka på **Inställningar**.
+1. Klicka på **E-postadministration**.
+1. Klicka på **E-post till Salesforce**.
 1. Klicka på **Redigera**.
-1. Markera rutan bredvid&quot;Aktiv*&quot;.*
-1. Klicka på **Spara *.* **
+1. Markera rutan bredvid&quot;Aktiv&quot;.
+1. Klicka på **Spara**.
 
 ## Synkronisera aktiviteter/påminnelser för försäljningsengagemang till Salesforce-aktiviteter {#sync-sales-engage-tasks-reminders-to-salesforce-tasks}
 
@@ -114,4 +114,3 @@ Om du inte ser Min e-post till Salesforce under dina inställningar har administ
 1. Välj önskat alternativ (&quot;Synkronisera inte till Salesforce-uppgifter&quot; är valt som standard).
 
    ![](assets/eight.png)
-
