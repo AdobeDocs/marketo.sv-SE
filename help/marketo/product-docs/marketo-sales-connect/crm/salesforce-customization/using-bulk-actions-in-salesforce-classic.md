@@ -3,9 +3,9 @@ unique-page-id: 42762794
 description: Använda gruppåtgärder i Salesforce Classic - Marketo Docs - produktdokumentation
 title: Använda gruppåtgärder i Salesforce Classic
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Lär dig hur du utför satsvisa åtgärder, som att lägga till leads till en ka
 
 >[!PREREQUISITES]
 >
->Uppdatera till den senaste versionen av paketet Sales Connect och installera gruppåtgärdsknapparna i din lead-/kontaktvy. [Klicka här för instruktioner](http://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
+>Uppdatera till den senaste versionen av paketet Sales Connect och installera gruppåtgärdsknapparna i din lead-/kontaktvy. [Klicka här för instruktioner](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
 
 >[!NOTE]
 >
@@ -81,10 +81,6 @@ Lär dig hur du utför satsvisa åtgärder, som att lägga till leads till en ka
 
 >[!MORELIKETHIS]
 >
->* [Skicka e-post via gruppe-post](http://docs.marketo.com/x/KAQ6Ag)
->* [Disponera massutskick med Markera och skicka](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
-
->
-
-
+>* [Skicka e-post via gruppe-post](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
+>* [Disponera massutskick med Markera och skicka](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
 
