@@ -3,9 +3,9 @@ unique-page-id: 14745611
 description: Lägg till i marknadsföringskampanj - Marketo Docs - Produktdokumentation
 title: Lägg till i marknadsföringskampanj
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Gör en kampanj synlig för säljare](http://docs.marketo.com/x/NwDh)
+>[Gör en kampanj synlig för säljare](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
 
 ## Lägg till enskilda i en kampanj {#add-individuals-to-a-campaign}
 
 >[!NOTE]
 >
->Om du vill lägga till en person i en Marketo Campaign från Sales Connect måste Sales Connect ha personens Marketo lead-ID. [Lär dig hur du hämtar Marketo ID:n här](http://docs.marketo.com/x/CQXLAQ).
+>Om du vill lägga till en person i en Marketo Campaign från Sales Connect måste Sales Connect ha personens Marketo lead-ID. [Lär dig hur du hämtar Marketo ID:n här](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md).
 
 1. Klicka på fliken **Personer**.
 
@@ -87,7 +87,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Om du vill lägga till en person i en Marketo Campaign från Sales Connect måste Sales Connect ha personens Marketo lead-ID. [Lär dig hur du hämtar Marketo ID:n här](http://docs.marketo.com/x/CQXLAQ).
+   >Om du vill lägga till en person i en Marketo Campaign från Sales Connect måste Sales Connect ha personens Marketo lead-ID. [Lär dig hur du hämtar Marketo ID:n här](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md).
 
 1. Klicka på listrutan Arbetsytor och välj den arbetsyta som innehåller kampanjen som du vill lägga till gruppen i.
 
@@ -104,4 +104,3 @@ ht-degree: 0%
 1. Du visas de kontakter som är behöriga. Klicka på **Start** för att lägga till dem.
 
    ![](assets/nine.png)
-
