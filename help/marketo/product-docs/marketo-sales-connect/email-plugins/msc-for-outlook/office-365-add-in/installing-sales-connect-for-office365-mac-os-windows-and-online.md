@@ -3,7 +3,7 @@ unique-page-id: 14352455
 description: Installera Sales Connect för Office 365 Mac OS, Windows och Online - Marketo Docs - produktdokumentation
 title: Installera Sales Connect för Office 365 Mac OS, Windows och Online
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Installerar Sales Connect för Office 365 Mac OS, Windows och Online {#installing-sales-connect-for-office-mac-os-windows-and-online}
 
-Vi har skapat en integrering med Outlook Web Apps. Outlook Web Apps är en version av Outlook som ingår i Office 365-prenumerationen. Eftersom det är webbläsarbaserat fungerar integreringen både på Mac och Windows. [Klicka här om du vill se den fullständiga installationsguiden](http://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
+Vi har skapat en integrering med Outlook Web Apps. Outlook Web Apps är en version av Outlook som ingår i Office 365-prenumerationen. Eftersom det är webbläsarbaserat fungerar integreringen både på Mac och Windows. [Klicka här om du vill se den fullständiga installationsguiden](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
 
-Som administratör kan du [installera det här å hela teamets vägnar](http://docs.microsoft.com/en-us/office365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide).
+Som administratör kan du [installera det här å hela teamets vägnar](https://docs.microsoft.com/en-us/office365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide).
 
 >[!NOTE]
 >
@@ -32,4 +32,3 @@ Som administratör kan du [installera det här å hela teamets vägnar](http://d
 >[!NOTE]
 >
 >.Net-tillägget stöder inte längre schemaläggning av e-postmeddelanden från Outlook. Du måste uppdatera till Office365-tillägget för att schemalägga e-postmeddelanden.
-
