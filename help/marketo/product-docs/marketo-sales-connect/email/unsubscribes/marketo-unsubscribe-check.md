@@ -3,7 +3,7 @@ unique-page-id: 18317340
 description: Marketo Unsubscribe Check - Marketo Docs - Produktdokumentation
 title: Marketo Avbeställ kontroll
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -45,4 +45,3 @@ Marketo Unsubscribe check..
 * Kräver en Marketo-anslutning
 * Är en global inställning
 * Blockerar e-postmeddelanden som skickas från webbprogrammet, e-postklienter och Salesforce
-
