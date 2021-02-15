@@ -3,7 +3,7 @@ unique-page-id: 2359987
 description: Prenumerera på en grundläggande rapport - Marketo Docs - produktdokumentation
 title: Prenumerera på en grundläggande rapport
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Prenumerera på en grundläggande rapport {#subscribe-to-a-basic-report}
 
-Om du vill få automatiska uppdateringar av en [enkel rapport](http://docs.marketo.com/display/docs/basic+reporting), eller dela dem, kan du prenumerera på valfri e-postadress i en befintlig rapport.
+Om du vill få automatiska uppdateringar av en [enkel rapport](https://docs.marketo.com/display/docs/basic+reporting), eller dela dem, kan du prenumerera på valfri e-postadress i en befintlig rapport.
 
 >[!NOTE]
 >
->Information om [Intäktscykelutforskaren](http://docs.marketo.com/display/docs/revenue+cycle+analytics)-rapportprenumerationer finns i [Prenumerera på en Intresseutforskarrapport](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
+>Information om [Intäktscykelutforskaren](https://docs.marketo.com/display/docs/revenue+cycle+analytics)-rapportprenumerationer finns i [Prenumerera på en Intresseutforskarrapport](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
 1. Gå till **Marknadsföringsaktiviteter **området.
 
@@ -58,5 +58,5 @@ Om du vill få automatiska uppdateringar av en [enkel rapport](http://docs.marke
    >**Djupdykning**
    >
    >
-   >Se vad mer du kan göra med rapporter i djupdykningen [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
+   >Se vad mer du kan göra med rapporter i djupdykningen [Grundläggande rapportering](https://docs.marketo.com/display/docs/basic+reporting).
 
