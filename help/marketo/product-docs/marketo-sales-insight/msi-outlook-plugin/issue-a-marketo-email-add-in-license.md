@@ -3,7 +3,7 @@ unique-page-id: 2949281
 description: Utfärda en Marketo Email Add-in License - Marketo Docs - Produktdokumentation
 title: Utfärda en Marketo E-post-tilläggslicens
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Alla som vill använda tillägget Marketo Email Outlook måste först få en lic
 
    >[!NOTE]
    >
-   >Om du vill installera plugin-programmet från en annan plats lämnar du kryssrutan avmarkerad och skickar din [företagsnyckel](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) till IT-teamet.
+   >Om du vill installera plugin-programmet från en annan plats lämnar du kryssrutan avmarkerad och skickar din [företagsnyckel](https://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) till IT-teamet.
    >
    >Om säljarna har administratörsåtkomst till sina datorer markerar du kryssrutan så är du klar!
 
