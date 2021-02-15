@@ -3,9 +3,9 @@ unique-page-id: 14352509
 description: Dynamiska fält - ordlista - Marketo Docs - produktdokumentation
 title: Ordlista för dynamiska fält
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -24,18 +24,16 @@ Det här verktyget används för att `auto-personalize your email` och spara mas
 | `{{first_name}}` | Keith |
 | `{{friendly_unsubscribe}}` | Om du inte vill höra av mig igen, var snäll och säg till här |
 | `{{my_name}}` | Alan Bradley |
-| `{{personal_email}}` | [[e-postskyddad]](http://docs.marketo.com/cdn-cgi/l/email-protection) |
+| `{{personal_email}}` | keith@pickyouremail.com |
 | `{{title}}` | Teknikskribent |
 | `{{work_website}}` | https://www.marketo.com |
 
 **Saker att notera**:
 
-* Om en kontakts `information is entered incorrectly` eller saknas på sidan Personer, läggs den `will not pull over correctly` till i mallen.
-
-* Skillnaden mellan `{{company}}` och `{{company_friendly}}` är att `{{company_friendly}}` kommer att `remove any formal title`, t.ex. Inc., LLC osv., från namnet på din kontakts företag.
+* Om en kontakts information är felaktigt angiven eller saknas på sidan Personer, kommer den inte att läggas in korrekt i mallen.
+* Skillnaden mellan `{{company}}` och `{{company_friendly}}` är att `{{company_friendly}}` kommer att ta bort all formell titel, som Inc., LLC. osv., från namnet på din kontakts företag.
 * När du använder `{{company_friendly}}` måste du separera Inc. eller Co. med ett kommatecken i kontaktinformationen. Så här vet Sales Connect vad som ska tas bort när värdet hämtas.
 
 >[!TIP]
 >
->Du kan skapa ett eget [anpassat dynamiskt fält](http://docs.marketo.com/x/fADb) för allt du vill ha automatiskt i dina e-postmeddelanden
-
+>Du kan skapa ett eget [anpassat dynamiskt fält](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md) för allt du vill ha automatiskt i dina e-postmeddelanden
