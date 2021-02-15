@@ -3,7 +3,7 @@ unique-page-id: 12979012
 description: Filtrering i Performance Insights - Marketo Docs - Produktdokumentation
 title: Filtrera i Performance Insights
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Klicka på + för att börja lägga till filter.
 
 >[!NOTE]
 >
->För närvarande är anpassade attribut endast tillgängliga i filter för kunder som har [RCA](http://docs.marketo.com/x/lwIk) aktiverat.
+>För närvarande är anpassade attribut endast tillgängliga i filter för kunder som har [RCA](https://docs.marketo.com/x/lwIk) aktiverat.
 
 Om du klickar på en kategori visas flera underkategorier.
 
@@ -53,11 +53,11 @@ Du kan ta bort ett filter när som helst genom att klicka på X:et bredvid det. 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Namngivet ABM-konto</strong></td> 
-   <td colspan="1">Om du använder Marketo ABM synkroniseras alla dina namngivna konton till MPI och visas via filtret"ABM Named Account". Du kan välja ett namngivet konto för att filtrera resultaten till dessa konton.<a href="http://docs.marketo.com/x/eaCt" rel="nofollow">Läs mer om ABM-namngivna konton.</a></td> 
+   <td colspan="1">Om du använder Marketo ABM synkroniseras alla dina namngivna konton till MPI och visas via filtret"ABM Named Account". Du kan välja ett namngivet konto för att filtrera resultaten till dessa konton.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">Läs mer om ABM-namngivna konton.</a></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Anpassade attribut</strong></td> 
-   <td colspan="1"><p>De här bestäms av dig. Alla fält <a href="http://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">du aktiverar</a> för affärsmöjlighetsanalysen kan filtreras på i Prestandainsikter.</p></td> 
+   <td colspan="1"><p>De här bestäms av dig. Alla fält <a href="https://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">du aktiverar</a> för affärsmöjlighetsanalysen kan filtreras på i Prestandainsikter.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Investeringsperiod</strong></p></td> 
