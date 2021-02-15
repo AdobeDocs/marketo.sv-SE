@@ -3,7 +3,7 @@ unique-page-id: 2360016
 description: Filtrera personer i en rapport med en smart lista - Marketo Docs - Produktdokumentation
 title: Filtrera personer i en rapport med en smart lista
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Du kan använda smarta listor med följande rapporttyper:
 
 * [Personprestanda](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
 * [Personer efter status](../../../../product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-* [Personer efter intäktsfas](http://docs.marketo.com/display/DOCS/People+by+Revenue+Stage+Report)
+* [Personer efter intäktsfas](https://docs.marketo.com/display/DOCS/People+by+Revenue+Stage+Report)
 * [E-postprestanda](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 * [E-postlänkens prestanda](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 * [Prestanda för engagemangsström](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
@@ -55,5 +55,5 @@ Du kan använda smarta listor med följande rapporttyper:
    >**Djupdykning**
    >
    >
-   >Mer information om hur du använder rapporter finns i djupdykningen [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
+   >Mer information om hur du använder rapporter finns i djupdykningen [Grundläggande rapportering](https://docs.marketo.com/display/docs/basic+reporting).
 
