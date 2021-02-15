@@ -3,7 +3,7 @@ unique-page-id: 17728380
 description: Versionsinformation - våren 2019 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - våren 2019
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '476'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Följande funktioner släpptes 15 mars 2019.
 
 * **Väntelista:** Ny program-/händelsestatus för att väntelista en medlem när du vill  [placera dem på ](../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) plats tills en ledig plats öppnas. Detta gäller för kanaler som är associerade med Event-program i Marketo Classic, och både Event och Event med Webinar-program i Marketo Sky. Som standard har Väntelistat samma stegvärde som Registrerad.
 * ** [Anpassad kommunikationsgräns](../../product-docs/administration/email-setup/enable-communication-limits.md)**: Administratörer kan nu ange anpassade kommunikationsgränser per dag eller vecka.
-* ** [Tillgångs-API:er för smarta kampanjer](http://developers.marketo.com/rest-api/assets/campaigns/)**: Förbättra era analyser utanför Marketo med smart hämtning av kampanjposter med uppdaterat datum och ID.
+* ** [Tillgångs-API:er för smarta kampanjer](https://developers.marketo.com/rest-api/assets/campaigns/)**: Förbättra era analyser utanför Marketo med smart hämtning av kampanjposter med uppdaterat datum och ID.
 * **HTTPS-spårningslänkar för e-post:** För kunder som har köpt säkra domäner för spårning av länkar kan nu varumärkesanpassade spårningslänkar visas i dina e-postmeddelanden som HTTPS.
 * **PowerPack-uppdateringar** för e-postleverans: Möjlighet att flagga och kommentera specifika testresultat, dela resultat med intressenter via en webbadress och spåra ändringar för att se hur ett e-postmeddelande utvecklas när intressenter redigerar innehåll.
 
