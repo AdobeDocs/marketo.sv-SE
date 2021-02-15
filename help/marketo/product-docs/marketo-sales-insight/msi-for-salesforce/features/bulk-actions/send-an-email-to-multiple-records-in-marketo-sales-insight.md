@@ -3,7 +3,7 @@ unique-page-id: 5472672
 description: Skicka ett e-postmeddelande till flera poster i Marketo Sales Insight - Marketo Docs - Produktdokumentation
 title: Skicka ett e-postmeddelande till flera poster i Marketo Sales Insight
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -33,17 +33,16 @@ Det är superenkelt att skicka ett Marketo-e-postmeddelande till flera personer 
 
    >[!TIP]
    >
-   >Ser du inte knappen? Kontrollera att du har [lagt till Marketo-knappar i listvyn](add-marketo-sales-insight-tab-and-buttons-to-salesforce.md).
+   >Ser du inte knappen? Kontrollera att du har [lagt till Marketo-knappar i listvyn](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md).
 
-1. Skriv e-postmeddelandet nu. Klicka på **Skicka med Marketo **när du är klar.
+1. Skriv e-postmeddelandet nu. Klicka på **Skicka med Marketo** när du är klar.
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >Du kan [publicera e-post till Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) och välja bland dessa e-postmeddelanden.
+   >Du kan [publicera e-post till Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) och välja bland dessa e-postmeddelanden.
 
    >[!NOTE]
    >
    >Du kan skicka upp till 200 Marketo-e-postmeddelanden i taget.
-
