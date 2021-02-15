@@ -3,7 +3,7 @@ unique-page-id: 15695874
 description: Connect BrightTALK to Marketo - Marketo Docs - Produktdokumentation
 title: Anslut BrightTALK till Marketo
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Lär dig hur du ansluter din BrightTALK-kanal till din Marketo-instans. För att
 
 ## Steg i BrightTALK {#steps-in-brighttalk}
 
-1. Logga in på [business.brighttalk.com/demandcentral](http://business.brighttalk.com/demandcentral/login) och klicka på **Anslut nu**.
+1. Logga in på [business.brighttalk.com/demandcentral](https://business.brighttalk.com/demandcentral/login) och klicka på **Anslut nu**.
 1. Klicka på **Anslut** under Advanced Marketo Connector.
 1. Du kommer till skärmen för inloggningsuppgifter och frågar efter: Klient-ID, Klienthemlighet, Identitetstjänstens URL och URL för återställningstjänst. Logga in på Marketo för att få den här informationen.
 
@@ -77,4 +77,4 @@ Lär dig hur du ansluter din BrightTALK-kanal till din Marketo-instans. För att
 
 1. Gå tillbaka till konfigurationsskärmen för BrightTALK-anslutningen från steg 3 och ange de uppgifter du sparade från steg 12 och 14.
 
-   När inloggningsuppgifterna har autentiserats har du officiellt anslutit BrightTALK till Marketo. Nästa steg är att bestämma [vilka datafält du vill synkronisera](http://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync).
+   När inloggningsuppgifterna har autentiserats har du officiellt anslutit BrightTALK till Marketo. Nästa steg är att bestämma [vilka datafält du vill synkronisera](https://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync).
