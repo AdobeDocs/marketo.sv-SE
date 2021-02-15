@@ -3,7 +3,7 @@ unique-page-id: 2951124
 description: Versionsinformation -jan/feb 2012 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - jan/feb 2012
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '449'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Följande funktioner ingår i Jan/Feb-versionen. Se om din Marketo-utgåva har f
 >
 >**Djupdykning**
 >
->Andra versioner finns i [versionsinformationen](http://docs.marketo.com/display/docs/release+notes) djupdykning.
+>Andra versioner finns i [versionsinformationen](https://docs.marketo.com/display/docs/release+notes) djupdykning.
 
 ## Avancerat dynamiskt innehåll {#advanced-dynamic-content}
 
