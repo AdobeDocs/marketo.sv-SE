@@ -3,9 +3,9 @@ unique-page-id: 11375827
 description: Obligatoriska fält för synkronisering av Marketo med Dynamics - Marketo Docs - Produktdokumentation
 title: Obligatoriska fält för synkronisering av Marketo med Dynamics
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ Om något av dessa fält saknas visas ett felmeddelande i Marketo med namnet på
 
 Så här verifierar och lägger du till synkroniseringsfält.
 
-1. Gå till Admin och klicka på Microsoft Dynamics.
+1. Gå till Admin och klicka på **Microsoft Dynamics**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Klicka på Redigera i Fältsynkroniseringsinformation.
+1. Klicka på **Redigera** i Fältsynkroniseringsinformation.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -47,7 +47,7 @@ Så här verifierar och lägger du till synkroniseringsfält.
 
    ![](assets/image2016-6-8-13-3a36-3a36.png)
 
-1. Klicka på Spara.
+1. Klicka på **Spara**.
 
    ![](assets/image2016-6-8-13-3a41-3a27.png)
 
@@ -57,5 +57,4 @@ Så här verifierar och lägger du till synkroniseringsfält.
 
 >[!MORELIKETHIS]
 >
->[Stjärnor och flamma för lead-/kontaktposter](http://docs.marketo.com/x/BICMAg)
-
+>[Stjärnor och flamma för lead-/kontaktposter](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
