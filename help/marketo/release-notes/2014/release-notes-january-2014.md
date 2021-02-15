@@ -3,7 +3,7 @@ unique-page-id: 2951050
 description: Versionsinformation -januari 2014 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - januari 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Versionsinformation: Januari 2014 {#release-notes-january}
 
-Följande funktioner ingår i januari 2014-versionen. Kontrollera din [Marketo Edition](http://www.marketo.com/pricing/) för att se om det finns funktioner.
+Följande funktioner ingår i januari 2014-versionen. Kontrollera din [Marketo Edition](https://www.marketo.com/pricing/) för att se om det finns funktioner.
 
 ## Forms 2.0 {#forms}
 
-HUD: Dokumentation för Forms 2.0 kommer snart. Under tiden kan du läsa mer nedan och i videon [intro](http://docs.marketo.com/display/docs/forms)!
+HUD: Dokumentation för Forms 2.0 kommer snart. Under tiden kan du läsa mer nedan och i videon [intro](https://docs.marketo.com/display/docs/forms)!
 
-Ta kontroll över hur blanketterna skapas och ge webbutvecklarna en chans. [Forms](http://docs.marketo.com/display/docs/forms) 2.0 är utformat för att ge marknadsförarna möjlighet att skapa både visuellt och funktionellt robusta formulär utan att behöva programmeringskunskaper.
+Ta kontroll över hur blanketterna skapas och ge webbutvecklarna en chans. [Forms](https://docs.marketo.com/display/docs/forms) 2.0 är utformat för att ge marknadsförarna möjlighet att skapa både visuellt och funktionellt robusta formulär utan att behöva programmeringskunskaper.
 
 **Ge din Forms den visuella makeover de förtjänar:**
 
@@ -38,7 +38,7 @@ Nu är det dags att lyfta HTML-kod från formulär som placerats på Marketo-lan
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 
-Läs mer i [Forms 2.0 intro video](http://docs.marketo.com/display/docs/forms). (Dokumentationen kommer till djupdykningen [Forms](http://docs.marketo.com/display/docs/forms) snart!)
+Läs mer i [Forms 2.0 intro video](https://docs.marketo.com/display/docs/forms). (Dokumentationen kommer till djupdykningen [Forms](https://docs.marketo.com/display/docs/forms) snart!)
 
 ## Kommunikationsbegränsningar för e-postprogram {#communication-limits-for-email-program}
 
