@@ -3,7 +3,7 @@ unique-page-id: 2360188
 description: Resultatrapport för e-postkampanj - Marketo Docs - Produktdokumentation
 title: Resultatrapport för e-postkampanj
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Resultatrapport för e-postkampanj {#campaign-email-performance-report}
 
-Kör en rapport om prestanda för e-postkampanjer om du vill se din e-poststatus grupperad efter [smart kampanj](http://docs.marketo.com/display/docs/smart+campaigns).
+Kör en rapport om prestanda för e-postkampanjer om du vill se din e-poststatus grupperad efter [smart kampanj](https://docs.marketo.com/display/docs/smart+campaigns).
 
 1. [Skapa en ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapport och välj  **Campaign Email** [PerformancePort-typ](report-type-overview.md).
 1. [Ange tidsramen för ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) rapporten och klicka på fliken  **** Rapportera.
@@ -53,5 +53,5 @@ Kör en rapport om prestanda för e-postkampanjer om du vill se din e-poststatus
    >**Djupdykning**
    >
    >
-   >Läs mer i [Grundläggande rapportering.](http://docs.marketo.com/display/docs/basic+reporting)
+   >Läs mer i [Grundläggande rapportering.](https://docs.marketo.com/display/docs/basic+reporting)
 
