@@ -3,7 +3,7 @@ unique-page-id: 2951114
 description: Versionsinformation -juni 2012 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -juni 2012
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '684'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Djupdykning**
 >
->Andra versioner finns i [versionsinformationen](http://docs.marketo.com/display/docs/release+notes) djupdykning.
+>Andra versioner finns i [versionsinformationen](https://docs.marketo.com/display/docs/release+notes) djupdykning.
 
 ## Marketo Lead Management Förbättringar {#marketo-lead-management-enhancements}
 
