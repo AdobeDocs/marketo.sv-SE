@@ -3,7 +3,7 @@ unique-page-id: 2360227
 description: Filtrera resurser i en kampanjrapport via e-post - Marketo Docs - Produktdokumentation
 title: Filtrera resurser i en e-postrapport för kampanj
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtrera resurser i en e-postrapport för kampanj {#filter-assets-in-a-campaign-email-reports}
 
-Fokusera din [rapport om e-postprestanda för kampanj](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) på specifika [smarta kampanjer](http://docs.marketo.com/display/docs/smart+campaigns) i dina program (lokala resurser) eller på de som har arkiverats.
+Fokusera din [rapport om e-postprestanda för kampanj](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) på specifika [smarta kampanjer](https://docs.marketo.com/display/docs/smart+campaigns) i dina program (lokala resurser) eller på de som har arkiverats.
 
 1. Gå till **Analytics **(eller **Marknadsföringsaktiviteter**).
 
@@ -56,5 +56,5 @@ Fokusera din [rapport om e-postprestanda för kampanj](../../../../product-docs/
    >**Djupdykning**
    >
    >
-   >Lär dig allt om rapporter i [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
+   >Lär dig allt om rapporter i [Grundläggande rapportering](https://docs.marketo.com/display/docs/basic+reporting).
 
