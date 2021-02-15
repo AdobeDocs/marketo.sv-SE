@@ -3,7 +3,7 @@ unique-page-id: 14746594
 description: Konfigurera en SMTP-server - Marketo Docs - Produktdokumentation
 title: Konfigurera en SMTP-server
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '655'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Det gör att ni kan utnyttja företagets anseende och leveransförmåga och inte
 
 **Hur skickar Sales Connect till min SMTP-server?**
 
-Följ [de här stegen](http://docs.marketo.com/x/ZgPh).
+Följ [de här stegen](https://docs.marketo.com/x/ZgPh).
 
 ![](assets/1.png)
 
@@ -52,7 +52,7 @@ Kon
 * Varje användare måste själv konfigurera detta
 * Om du ändrar användarens O365-lösenord bryts anslutningen
 
-Om du använder Office365 eller Exchange Online kan du ansluta till SMTP-servern med hjälp av en standarduppsättning med autentiseringsuppgifter. Kom ihåg att Office365 inte är en massutskick av e-post, men det fungerar bra för att skicka engångskommunikation via e-post. När du skickar massutskick kan Office365 begränsa dina e-postmeddelanden, vilket kan leda till felaktig leverans. Mer information om den här utcheckningen av Microsofts artikel om [hur du ställer in SMTP-klientinlämning](http://support.office.com/en-us/article/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-office-365-69f58e99-c550-4274-ad18-c805d654b4c4).
+Om du använder Office365 eller Exchange Online kan du ansluta till SMTP-servern med hjälp av en standarduppsättning med autentiseringsuppgifter. Kom ihåg att Office365 inte är en massutskick av e-post, men det fungerar bra för att skicka engångskommunikation via e-post. När du skickar massutskick kan Office365 begränsa dina e-postmeddelanden, vilket kan leda till felaktig leverans. Mer information om den här utcheckningen av Microsofts artikel om [hur du ställer in SMTP-klientinlämning](https://support.office.com/en-us/article/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-office-365-69f58e99-c550-4274-ad18-c805d654b4c4).
 
 &quot;Du kan bara skicka från en e-postadress om inte din enhet kan lagra inloggningsuppgifter för flera Office 365-postlådor. Office 365 har en gräns på 30 meddelanden som skickas per minut och en gräns på 10 000 mottagare per dag.&quot;
 
