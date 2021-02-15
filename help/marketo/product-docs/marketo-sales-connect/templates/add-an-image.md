@@ -3,7 +3,7 @@ unique-page-id: 14352636
 description: Lägg till en bild - Marketo Docs - Produktdokumentation
 title: Lägg till en bild
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -16,7 +16,9 @@ ht-degree: 0%
 Följ de här stegen om du vill lägga till en bild eller GIF i e-postmeddelandet.
 
 1. Öppna mallredigeraren och klicka på bildikonen i verktygsfältet.
-1. Dra och släpp eller överför bilden.
-1. Dubbelklicka på bilden om du vill ändra storlek eller lägga till en hyperlänk.
-1. Klicka på **Uppdatera** när du är klar.
 
+1. Dra och släpp eller överför bilden.
+
+1. Dubbelklicka på bilden om du vill ändra storlek eller lägga till en hyperlänk.
+
+1. Klicka på **Uppdatera** när du är klar.
