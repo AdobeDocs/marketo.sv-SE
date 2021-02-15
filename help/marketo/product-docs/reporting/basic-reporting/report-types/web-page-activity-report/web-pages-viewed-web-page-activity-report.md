@@ -3,7 +3,7 @@ unique-page-id: 2360052
 description: Visade webbsidor, aktivitetsrapport för webbsida - Marketo Docs - Produktdokumentation
 title: Visade webbsidor, aktivitetsrapport för webbsida
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -38,5 +38,5 @@ Från en [webbsidesaktivitetsrapport](../../../../../product-docs/reporting/basi
    >**Djupdykning**
    >
    >
-   >Gör mer med rapporter! Se djupdykningen [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
+   >Gör mer med rapporter! Se djupdykningen [Grundläggande rapportering](https://docs.marketo.com/display/docs/basic+reporting).
 
