@@ -3,7 +3,7 @@ unique-page-id: 2950396
 description: Prioritet, Urklipp, Relativ poäng och Bästa val - Marketo Docs - Produktdokumentation
 title: Prioritet, Urklipp, Relativa poäng och Bästa val
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '462'
 ht-degree: 0%
@@ -35,7 +35,7 @@ En lead som till exempel har begärt en demo och besökt flera webbsidor kommer 
 
 Stjärnorna representerar relativa poäng - ett mått på hur den här personens poäng kan jämföras med andras. En hög relativ poäng innebär att den här personen förmodligen är mer intresserad och informerad om ditt erbjudande jämfört med personer med lägre relativa poäng.
 
-Om två leads är lika brådskande kan du använda relativa poäng för att avgöra vilken som är värd att ringa ett telefonsamtal först. Den som har det högsta relativa poängvärdet kan reagera mer positivt på ditt erbjudande jämfört med det lägre.
+Om två leads är lika brådskande kan du använda relativa poäng för att avgöra vilken som är värd att ringa ett telefonsamtal först. Den som har den högre relativa poängen kan reagera mer positivt på ert erbjudande jämfört med den lägre.
 
 ## Bästa val {#best-bets}
 
@@ -57,5 +57,5 @@ Efterhand som poängen ändras räknas värdena för tränglighet, prioritet och
 
 >[!MORELIKETHIS]
 >
->* [Marketo Sales Insight](http://docs.marketo.com/display/docs/marketo+sales+insight)
+>* [Marketo Sales Insight](https://docs.marketo.com/display/docs/marketo+sales+insight)
 
