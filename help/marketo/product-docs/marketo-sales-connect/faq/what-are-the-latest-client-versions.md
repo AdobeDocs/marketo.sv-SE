@@ -3,7 +3,7 @@ unique-page-id: 14352422
 description: Vilka är de senaste klientversionerna? - Marketo Docs - produktdokumentation
 title: Vilka är de senaste klientversionerna?
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 5%
@@ -43,4 +43,3 @@ Nedan finns de senaste versionerna för alla Sales Connect-klienter.
 >[!NOTE]
 >
 >Vi är för närvarande inte optimerade för andra webbläsare än Chrome. Detta är något som vårt produktteam känner till och hoppas kunna ta upp i framtiden.
-
