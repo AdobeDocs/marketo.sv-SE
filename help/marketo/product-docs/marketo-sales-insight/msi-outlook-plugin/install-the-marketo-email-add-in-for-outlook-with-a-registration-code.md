@@ -3,7 +3,7 @@ unique-page-id: 2949711
 description: Installera Marketo Email-tillägget för Outlook med en registreringskod - Marketo Docs - Produktdokumentation
 title: Installera Marketo-e-posttillägget för Outlook med en registreringskod
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '388'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Installera Marketo-e-posttillägget för Outlook med registreringskoden {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
+# Installera Marketo-e-posttillägget för Outlook med en registreringskod {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
 
 Om användarna har tillgång till administratörsinställningarna på sina bärbara datorer kan du skicka en registreringskod direkt till dem.
 
@@ -27,7 +27,7 @@ Om du inte har fått någon inbjudan via e-post ber du Marketo-administratören 
 
 ## Hämta installationsprogrammet {#download-installer}
 
-1. Identifiera din [Microsoft Outlook-version](http://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
+1. Identifiera din [Microsoft Outlook-version](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
 1. Klicka på länken om du vill hämta det installationsprogram som passar din version av Microsoft Outlook.
 
    >[!NOTE]
@@ -37,13 +37,13 @@ Om du inte har fått någon inbjudan via e-post ber du Marketo-administratören 
    | Outlook-version | 32-bitars Outlook | 64-bitars Outlook |
    |---|---|---|
    | Outlook 2000 | Stöds inte | Ej tillämpligt |
-   | Outlook 2003 | [Hämta](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | Ej tillämpligt |
-   | Outlook 2007 | [Hämta](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | Ej tillämpligt |
-   | Outlook 2010 | [Hämta](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Hämta](http://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2013 | [Hämta](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Hämta](http://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2016 | [Hämta](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Hämta](http://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2019 | [Hämta](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Hämta](http://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook O365 (endast Windows) | [Hämta](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Hämta](http://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2003 | [Hämta](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | Ej tillämpligt |
+   | Outlook 2007 | [Hämta](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | Ej tillämpligt |
+   | Outlook 2010 | [Hämta](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Hämta](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2013 | [Hämta](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Hämta](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2016 | [Hämta](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Hämta](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2019 | [Hämta](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Hämta](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook O365 (endast Windows) | [Hämta](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Hämta](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | Outlook för Mac | Stöds inte | Stöds inte |
    | Outlook Web App | Stöds inte | Stöds inte |
 
