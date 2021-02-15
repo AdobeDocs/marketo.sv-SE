@@ -3,7 +3,7 @@ unique-page-id: 42762322
 description: Marketo Sales Insight Configuration tab in Salesforce - Marketo Docs - Product Documentation
 title: Marketo Sales Insight Configuration tab in Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
@@ -58,4 +58,3 @@ Konfigurationer gäller för alla MSI-användare och är inte specifika för pro
 Om du väljer att göra det raderas alla konfigurationer i SFDC och de kan inte återställas. Du måste konfigurera om allt igen.
 
 ![](assets/three.png)
-
