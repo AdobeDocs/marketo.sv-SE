@@ -3,7 +3,7 @@ unique-page-id: 2949718
 description: Publicera ett e-postmeddelande till Sales Insight - Marketo Docs - produktdokumentation
 title: Publicera ett e-postmeddelande till Sales Insight
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -43,9 +43,8 @@ Snyggt jobb! Nu vet du hur du kan göra e-postmeddelanden tillgängliga för sä
 
 >[!NOTE]
 >
->[Min ](../../../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) token kommer inte att lösas när du skickar ett e-postmeddelande från Sales Insight på antingen Microsoft Dynamics eller Salesforce. endast standardtokens fylls i (Lead, Company, etc.). Standardvärden för tokens fungerar dock.
+>[Min ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) token kommer inte att lösas när du skickar ett e-postmeddelande från Sales Insight på antingen Microsoft Dynamics eller Salesforce. endast standardtokens fylls i (Lead, Company, etc.). Standardvärden för tokens fungerar dock.
 
 >[!TIP]
 >
->Glöm inte att godkänna det här e-postmeddelandet för att ändringarna ska börja gälla. Lär dig hur du [godkänner ett e-postmeddelande](../../../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
-
+>Glöm inte att godkänna det här e-postmeddelandet för att ändringarna ska börja gälla. Lär dig hur du [godkänner ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
