@@ -3,7 +3,7 @@ unique-page-id: 2951640
 description: Använda intressanta stunder - Marketo Docs - Produktdokumentation
 title: Använda intressanta stunder
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Intressanta ögonblick är nyckeln till att kommunicera med säljarna via Market
 
 >[!AVAILABILITY]
 >
->Dessa är endast tillgängliga för Marketo Sales Insight- och [Marketo Sales Connect](http://docs.marketo.com/x/fgTLAQ)-kunder.
+>Dessa är endast tillgängliga för Marketo Sales Insight- och [Marketo Sales Connect](https://docs.marketo.com/x/fgTLAQ)-kunder.
 
 ## Vad är ett intressant ögonblick?  {#what-is-an-interesting-moment}
 
