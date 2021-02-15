@@ -3,7 +3,7 @@ unique-page-id: 6095037
 description: Versionsinformation -mars 2015 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -mars 2015
 translation-type: tm+mt
-source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Följande funktioner ingår i mars 2015-utgåvan. Kontrollera om din Marketo Edi
 
 ## Kalender-HD {#calendar-hd}
 
-[Visa teamets marknadsföringsaktiviteter ](http://docs.marketo.com/display/docs/calendar+hd) med kalenderns nya presentationsläge. De här programmen är bra för tv-apparater eller jättestora skärmar på kontoret! Ange och visa mål baserat på en smart lista eller anpassade mått.
+[Visa teamets marknadsföringsaktiviteter ](https://docs.marketo.com/display/docs/calendar+hd) med kalenderns nya presentationsläge. De här programmen är bra för tv-apparater eller jättestora skärmar på kontoret! Ange och visa mål baserat på en smart lista eller anpassade mått.
 
 >[!NOTE]
 >
@@ -33,13 +33,13 @@ Länka ditt [Google AdWords-konto till Marketo](../../product-docs/administratio
 
 ## Redesign av intäktsutforskaren {#revenue-explorer-redesign}
 
-[Intäktsutforskaren ](http://docs.marketo.com/display/docs/revenue+explorer) har ett helt nytt utseende och en helt ny känsla, liksom nya Sunburst-diagram! Vi kommer att få ut det här under de första två veckorna i april.
+[Intäktsutforskaren ](https://docs.marketo.com/display/docs/revenue+explorer) har ett helt nytt utseende och en helt ny känsla, liksom nya Sunburst-diagram! Vi kommer att få ut det här under de första två veckorna i april.
 
 ## Nya REST API:er {#new-asset-rest-apis}
 
-[Nya REST API:er för resurs](http://developers.marketo.com/)
+[Nya REST API:er för resurs](https://developers.marketo.com/)
 
-Vi har nu stöd för att skapa och redigera e-post, mallar, mina tokens, filer och fragment [via API](http://developers.marketo.com/documentation/asset-api)!
+Vi har nu stöd för att skapa och redigera e-post, mallar, mina tokens, filer och fragment [via API](https://developers.marketo.com/documentation/asset-api)!
 
 ## Microsoft Dynamics 2015 On Premise {#microsoft-dynamics-on-premise}
 
