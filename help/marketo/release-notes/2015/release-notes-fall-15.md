@@ -3,7 +3,7 @@ unique-page-id: 10094114
 description: Versionsinformation - hösten 2015 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - hösten 2015
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1026'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Flera prenumerationer kan skapas i en smart lista. Det finns en begränsning på
 
 ## Marketo-anpassade objekt {#marketo-custom-objects}
 
-[Marketo-anpassade objekt](http://docs.marketo.com/display/docs/marketo+custom+objects)
+[Marketo-anpassade objekt](https://docs.marketo.com/display/docs/marketo+custom+objects)
 
 Skapa enkelt anpassade objekt från administratörsgränssnittet. Vi stöder för närvarande möjligheten att skapa ett anpassat 1:N-objekt i Marketo och koppla det till en lead eller ett företag.
 
@@ -121,7 +121,7 @@ Vi gör flera förbättringar i textredigeraren. Efter att vi släppt den uppdat
    ```
 
    ```
-   <v:fill type="tile" src="<a href="http://i.imgur.com/YJOX1PC.png" rel="nofollow">http://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
+   <v:fill type="tile" src="<a href="https://i.imgur.com/YJOX1PC.png" rel="nofollow">https://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
    ```
 
    ```
@@ -192,4 +192,4 @@ Det nya plugin-programmet kör olika åtgärder i asynkront läge för att öka 
 
 ## Sök på URL för landningssida i Design Studio {#search-by-url-of-landing-page-in-design-studio}
 
-I sidstödrastret Design Studio Landing kan du nu söka efter landningssidor via sid-URL:en. Detta kan också exporteras.
+I sidstödrastret Design Studio Landing kan du nu söka efter landningssidor via sid-URL. Detta kan också exporteras.
