@@ -3,7 +3,7 @@ unique-page-id: 2360399
 description: Skapa en programanalys - Marketo Docs - Produktdokumentation
 title: Skapa en programanalys
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
@@ -79,4 +79,4 @@ Upptäck vilka program och kanaler som ger er den största rabatten för er mark
 
 >[!NOTE]
 >
->Läs mer i [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting) och [Inkomstcykelutforskaren](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>Läs mer i [Grundläggande rapportering](https://docs.marketo.com/display/docs/basic+reporting) och [Inkomstcykelutforskaren](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
