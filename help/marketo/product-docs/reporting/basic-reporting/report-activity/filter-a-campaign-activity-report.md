@@ -3,7 +3,7 @@ unique-page-id: 2360184
 description: Filtrera en kampanjaktivitetsrapport - Marketo Docs - Produktdokumentation
 title: Filtrera en kampanjaktivitetsrapport
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtrera en kampanjaktivitetsrapport {#filter-a-campaign-activity-report}
 
-Fokusera din [kampanjaktivitetsrapport](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)på specifika [smarta kampanjer](http://docs.marketo.com/display/docs/smart+campaigns).
+Fokusera din [kampanjaktivitetsrapport](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)på specifika [smarta kampanjer](https://docs.marketo.com/display/docs/smart+campaigns).
 
 1. Gå till **Marknadsföringsaktiviteter** (eller **Analytics**) och välj din kampanjaktivitetsrapport.
 
@@ -47,5 +47,5 @@ Fokusera din [kampanjaktivitetsrapport](../../../../product-docs/reporting/basic
 >
 >**Djupdykning**
 >
->Lär dig allt om rapporter i [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
+>Lär dig allt om rapporter i [Grundläggande rapportering](https://docs.marketo.com/display/docs/basic+reporting).
 
