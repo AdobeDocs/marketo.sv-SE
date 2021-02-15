@@ -3,7 +3,7 @@ unique-page-id: 2953334
 description: Versionsinformation -oktober 2014 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -oktober 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Använd API för att dra igång nya aktiviteter eller ändringar av leads:
 * Hämta aktivitetstyper
 * Hämta växlingstoken
 
-Fullständig information finns tillgänglig efter releasen på [developers.marketo.com](http://developers.marketo.com/documentation/rest/).
+Fullständig information finns tillgänglig efter releasen på [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
 
 ## MSI - Skicka Marketo-e-post för Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -42,7 +42,7 @@ Fullständig information finns tillgänglig efter releasen på [developers.marke
 
 [Lägg till leads och kontakter i Marketos smarta ](../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) kampanjer direkt från Microsoft Dynamics. Marknadsföringen kan välja vilka marknadsföringskampanjer som är tillgängliga för försäljning.
 
-## Stöd för anpassad entitet för Microsoft Dynamics Sync {#custom-entity-support-for-microsoft-dynamics-sync}
+## Stöd för anpassade entiteter för Microsoft Dynamics Sync {#custom-entity-support-for-microsoft-dynamics-sync}
 
 [Använd anpassade ](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync/enable-sync-for-a-custom-entity.md) objektdata från Microsoft Dynamics för filtrering och utlösning i smarta listor, smarta kampanjer, program...
 
@@ -70,5 +70,5 @@ Använd ett nytt samtal som spårar besökarens historik. Anpassa kampanjer base
 * Produkter som är intresserade av
 * Vilka RTP-kampanjer de har sett
 
-Mer information finns på [developers.marketo.com](http://developers.marketo.com/documentation/websites/rtp-js-api/).
+Mer information finns på [developers.marketo.com](https://developers.marketo.com/documentation/websites/rtp-js-api/).
 
