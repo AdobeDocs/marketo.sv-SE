@@ -3,7 +3,7 @@ unique-page-id: 4718651
 description: Understanding the Email Analysis Area - Marketo Docs - Product Documentation
 title: Förstå e-postanalysområdet
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -18,7 +18,7 @@ E-postanalysområdet fokuserar på e-poststatistik. I den här artikeln presente
 >[!AVAILABILITY]
 >
 >
->Detta är tillgängligt för användare med tillägget Select Edition eller [Revenue Cycle Analytics](http://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/). Kontakta din säljare för mer information.
+>Detta är tillgängligt för användare med tillägget Select Edition eller [Revenue Cycle Analytics](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/). Kontakta din säljare för mer information.
 
 ## E-postklickning på det heta rutnätet {#email-click-activity-heat-grid}
 
