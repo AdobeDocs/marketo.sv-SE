@@ -3,7 +3,7 @@ unique-page-id: 2951117
 description: Versionsinformation -maj 2012 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -maj 2012
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '658'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Djupdykning**
 >
->Andra versioner finns i [versionsinformationen](http://docs.marketo.com/display/docs/release+notes) djupdykning.
+>Andra versioner finns i [versionsinformationen](https://docs.marketo.com/display/docs/release+notes) djupdykning.
 
 ## E-postprestandarapport, omdesign {#email-performance-report-redesign}
 
