@@ -3,7 +3,7 @@ unique-page-id: 2360181
 description: Spåra anonym aktivitet och människor - Marketo Docs - Produktdokumentation
 title: Spåra anonym aktivitet och människor
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 0%
@@ -28,8 +28,8 @@ Första gången någon besöker en Marketo [landningssida](../../../../product-d
    En anonym aktivitet sammanfogas till en ny eller befintlig person när någon:
 
    * Klicka på en [länk i ett Marketo-e-postmeddelande](../../../../product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
-   * Fyller i ett Marketo [formulär](http://docs.marketo.com/display/docs/forms).
-   * Använder Marketos [REST API](http://developers.marketo.com/rest-api/lead-database/leads/) eller [Munchkin](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/) API (för utvecklare) för att associera en anonym aktivitet med en känd post.
+   * Fyller i ett Marketo [formulär](https://docs.marketo.com/display/docs/forms).
+   * Använder Marketos [REST API](https://developers.marketo.com/rest-api/lead-database/leads/) eller [Munchkin](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/) API (för utvecklare) för att associera en anonym aktivitet med en känd post.
 
    Ett namn i databasen kan vara knutet till många cookies eftersom användare ofta använder olika enheter och webbläsare för att besöka webbplatsen.
 
@@ -50,5 +50,5 @@ Första gången någon besöker en Marketo [landningssida](../../../../product-d
    >**Djupdykning**
    >
    >
-   >Läs mer om [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
+   >Läs mer om [Grundläggande rapportering](https://docs.marketo.com/display/docs/basic+reporting).
 
