@@ -3,7 +3,7 @@ unique-page-id: 13796466
 description: Komma igång med Sales Connect - Marketo Docs - Produktdokumentation
 title: Komma igång med Sales Connect
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '635'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Du kan också:
 
 ## Anslut ditt Sales Connect-konto till Salesforce {#connect-your-sales-connect-account-to-salesforce}
 
-Om du vill ansluta ditt Sales Connect-konto till ditt Salesforce-konto, som administratör eller annan administratör, följer du stegen i [den här artikeln](http://docs.marketo.com/x/JwDb).
+Om du vill ansluta ditt Sales Connect-konto till ditt Salesforce-konto, som administratör eller annan administratör, följer du stegen i [den här artikeln](https://docs.marketo.com/x/JwDb).
 
 >[!NOTE]
 >
@@ -93,7 +93,7 @@ Du måste hämta en uppsättning inloggningsuppgifter inifrån Marketo. Dessa au
 
 Om det redan finns användare på ditt konto (tidigare från ToutApp) visas de på fliken **Teamåtkomst** i Marketo-avsnittet i Sales Connect.
 
-Du kan distribuera ditt team som Marketo Sales Connect User från den här sidan. Om du aldrig har använt ToutApp, eller ännu inte har bjudit in användare, följer du stegen i [den här artikeln](http://docs.marketo.com/display/TOUT/Invite+Team+Members).
+Du kan distribuera ditt team som Marketo Sales Connect User från den här sidan. Om du aldrig har använt ToutApp, eller ännu inte har bjudit in användare, följer du stegen i [den här artikeln](https://docs.marketo.com/display/TOUT/Invite+Team+Members).
 
 >[!CAUTION]
 >
