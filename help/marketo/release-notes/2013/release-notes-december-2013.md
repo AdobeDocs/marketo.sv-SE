@@ -3,7 +3,7 @@ unique-page-id: 2951052
 description: Versionsinformation -december 2013 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - december 2013
 translation-type: tm+mt
-source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Versionsinformation: December 2013 {#release-notes-december}
 
-Följande funktioner finns i december-versionen. Kontrollera din [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) för att se om det finns funktioner.
+Följande funktioner finns i december-versionen. Kontrollera din [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php) för att se om det finns funktioner.
 
 Efter releasen ska du kontrollera fliken Ny release i communityn för att få detaljerade kunskapsbasartiklar för varje funktion!
 
 ## Söta bakgrundsfoton {#sweet-background-photos}
 
-Vi har börjat uttrycka vår kreativa uppskattning av programmet. Varje kvartal kommer en ny artist att presenteras. Vi har valt [Trey Ratcliff](http://stuckincustoms.smugmug.com/) för att få oss att sparka.
+Vi har börjat uttrycka vår kreativa uppskattning av programmet. Varje kvartal kommer en ny artist att presenteras. Vi har valt [Trey Ratcliff](https://stuckincustoms.smugmug.com/) för att få oss att sparka.
 
 ## E-postprogram {#email-program}
 
