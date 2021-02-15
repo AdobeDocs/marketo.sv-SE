@@ -3,7 +3,7 @@ unique-page-id: 2359971
 description: Aktivitetsrapport för webbsida - Marketo Docs - Produktdokumentation
 title: Aktivitetsrapport för webbsida
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
@@ -94,4 +94,4 @@ Du kan välja att visa kända personer eller anonyma personer, men inte båda ty
 >
 >**Djupdykning**
 >
->Läs mer om andra intressanta rapporter i [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
+>Läs mer om andra intressanta rapporter i [Grundläggande rapportering](https://docs.marketo.com/display/docs/basic+reporting).
