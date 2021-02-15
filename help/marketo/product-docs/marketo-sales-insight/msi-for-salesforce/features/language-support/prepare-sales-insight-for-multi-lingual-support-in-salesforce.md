@@ -3,9 +3,9 @@ unique-page-id: 7516460
 description: Förbered Sales Insight for Multi-Lingual Support in Salesforce - Marketo Docs - produktdokumentation
 title: Förbered Sales Insight för flerspråkig support i Salesforce
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -31,12 +31,13 @@ Marketo Sales Insight lagras på språk. Om du vill att det ska fungera för mer
 >
 Alla andra språk är som standard engelska.
 
-1. Lägga till ett nytt språk för Marketo Sales Insight
+## Lägga till ett nytt språk för Marketo Sales Insight {#adding-a-new-language-for-marketo-sales-insight}
+
 1. Logga in i Salesforce. Klicka på **Inställningar** i listrutan under ditt namn i det övre högra hörnet.
 
    ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. Under** Min personliga information** klickar du på **Personlig information**.
+1. Under **Mina personuppgifter** klickar du på **Personlig information**.
 
    ![](assets/image2015-7-6-16-3a5-3a25.png)
 
@@ -52,11 +53,11 @@ Alla andra språk är som standard engelska.
 
    ![](assets/image2015-7-6-16-3a6-3a10.png)
 
-1. Klicka på **Configure Marketo Sales Insight **(på det valda språket).
+1. Klicka på **Configure Marketo Sales Insight** (på det valda språket).
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. Gå till Marketo. Hitta din [Marketo Sales Insight **API-konfiguration** information](https://docs.marketo.com/pages/viewpage.action?pageId=2360368#ConfigureMarketoSalesInsightinSalesforceEnterprise/Unlimited-ConfigureMarketoSalesInsight).
+1. Gå till Marketo. Leta reda på din [Marketo Sales Insight **API-konfiguration** information](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 
@@ -72,7 +73,7 @@ När du är klar med att anpassa din Salesforce-organisation gör du så här f�
 >
 >Följande skärmbilder är på franska med instruktioner på engelska.  Du ser samma skärmar med text på det språk du valde i föregående steg.
 
-1. Klicka på Konfigurera under ditt namn.
+1. Klicka på **Inställningar** under ditt namn.
 
 ![](assets/image2015-7-6-16-3a5-3a6.png)
 
@@ -89,4 +90,3 @@ När du är klar med att anpassa din Salesforce-organisation gör du så här f�
    ![](assets/image2015-7-6-16-3a8-3a31.png)
 
    Nu är Salesforce tillbaka på engelska!
-
