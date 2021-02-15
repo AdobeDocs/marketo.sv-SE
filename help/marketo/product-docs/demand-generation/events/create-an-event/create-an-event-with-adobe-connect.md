@@ -3,7 +3,7 @@ unique-page-id: 2949865
 description: Skapa en händelse med Adobe Connect - Marketo Docs - Produktdokumentation
 title: Skapa ett evenemang med Adobe Connect
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Genom att synkronisera med Adobe Connect kan ni hantera registreringen av webbin
 >* [Skapa ett nytt händelseprogram](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
 
-Kontrollera först att du har skapat ett möte eller seminarium i Adobe Connect. Om du behöver hjälp kan du läsa [Adobe Connect användarhandbok](http://help.adobe.com/en_US/connect/9.0/using/index.html). Möten och seminarier som du skapar i Adobe Connect måste skapas i den mapp som du angav när du angav dina inloggningsuppgifter i Marketo. När du har skapat ditt möte eller seminarium bör du notera all relevant logistisk information (till exempel telefonnumret) som du kan använda i bekräftelsemeddelandet och ICS-filen.
+Kontrollera först att du har skapat ett möte eller seminarium i Adobe Connect. Om du behöver hjälp kan du läsa [Adobe Connect användarhandbok](https://help.adobe.com/en_US/connect/9.0/using/index.html). Möten och seminarier som du skapar i Adobe Connect måste skapas i den mapp som du angav när du angav dina inloggningsuppgifter i Marketo. När du har skapat ditt möte eller seminarium bör du notera all relevant logistisk information (till exempel telefonnumret) som du kan använda i bekräftelsemeddelandet och ICS-filen.
 
 >[!NOTE]
 >
