@@ -3,7 +3,7 @@ unique-page-id: 1147025
 description: Använda en webkrok i en smart kampanj - Marketo Docs - produktdokumentation
 title: Använda en webkrok i en smart kampanj
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Använda en webbkrok i en smart kampanj {#use-a-webhook-in-a-smart-campaign}
 
-Om du vill använda en [webkrok](http://developers.marketo.com/documentation/webhooks/) lägger du till den i en [smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) som en flödesåtgärd.
+Om du vill använda en [webkrok](https://developers.marketo.com/documentation/webhooks/) lägger du till den i en [smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) som en flödesåtgärd.
 
 >[!AVAILABILITY]
 >
