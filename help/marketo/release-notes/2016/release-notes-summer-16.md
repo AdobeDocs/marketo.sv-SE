@@ -3,7 +3,7 @@ unique-page-id: 11380218
 description: Versionsinformation -Sommaren 16 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - Sommaren 16
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '804'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Följande funktioner ingår i sommarversionen 16. Se om din Marketo-utgåva har funktioner tillgängliga. Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion.
 
-## [Kontobaserad marknadsföring](http://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
+## [Kontobaserad marknadsföring](https://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
 
 Marketo Account Based Marketing tillhandahåller allt i en och samma plattform:
 
@@ -29,7 +29,7 @@ Marketo Account Based Marketing tillhandahåller allt i en och samma plattform:
 >
 >ABM finns som tillägg till din Marketto-prenumeration, så kontakta din säljare för att få det implementerat.
 
-## [Granskningsspår](http://docs.marketo.com/display/docs/audit+trail) {#audit-trail}
+## [Granskningsspår](https://docs.marketo.com/display/docs/audit+trail) {#audit-trail}
 
 Granskningsspårning ger en omfattande historik över de ändringar som gjorts i din Marketo-prenumeration. Det kommer att skapa ansvar bland användare och administratörer, hjälpa till att identifiera orsaken till oväntat beteende och ge säkerhet för att veta vem som gör vad och när. Denna information kommer att finnas tillgänglig när som helst och kan användas för att besvara frågor som:
 
@@ -39,7 +39,7 @@ Granskningsspårning ger en omfattande historik över de ändringar som gjorts i
 
 ![](assets/audit-trail.png)
 
-## [Marketo-Vibes SMS LaunchPoint Integration](http://docs.marketo.com/display/docs/vibes+sms+messages) {#marketo-vibes-sms-launchpoint-integration}
+## [Marketo-Vibes SMS LaunchPoint Integration](https://docs.marketo.com/display/docs/vibes+sms+messages) {#marketo-vibes-sms-launchpoint-integration}
 
 Skapa enkelt SMS-meddelanden direkt inifrån Marketo. Anpassa och inrikta ert budskap med hjälp av era omfattande Marketo-data och övervaka enkelt hur det fungerar med SMS-meddelandeinstrumentpanelen.
 
@@ -72,7 +72,7 @@ Använd den nya sökfunktionen för att effektivt söka och ersätta innehåll i
 
 Token kan nu användas i området &quot;Extern URL&quot; i infogningsbildens upplevelse! Om du har angett bilder med `{{my.tokens}}` kan du nu referera till dessa variabler i e-postredigeraren 2.0. Observera att bilden fortfarande visas som skadad på arbetsytan i e-postredigeraren 2.0. Men du kommer att se dem renderade i Förhandsgranska och Skicka exempel innan du skickar ut ditt e-postmeddelande.
 
-## [Flera profildomäner](http://docs.marketo.com/display/docs/add+multiple+branding+domains) {#multiple-branding-domains}
+## [Flera profildomäner](https://docs.marketo.com/display/docs/add+multiple+branding+domains) {#multiple-branding-domains}
 
 Det är inte alltid då e-postspårningslänkar bara kan profileras med en enda varumärkesdomän. Nu kan ni lägga till flera olika varumärkesdomäner för att få konsumenterna att känna sig trygga, skapa ett effektivare varumärke, förbättra e-postleveransen och, per e-post, välja vilken varumärkesdomän som ska användas för varje e-posts spårningslänkar.
 
@@ -100,11 +100,11 @@ Ange en tidsfördröjning för webbkampanjer att reagera på webbplatsen.
 
 Visa innehållsanalyser och rekommendationer offline.
 
-## [API-stöd för e-postredigeraren 2.0](http://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
+## [API-stöd för e-postredigeraren 2.0](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
 
 Redan befintliga resurs-API:er, som tidigare bara var kompatibla med e-post och mallar i version 1.0, är nu aktiverade för e-postresurser i version 2.0.
 
-## [Marketo Developers Site](http://developers.marketo.com/) {#marketo-developers-site}
+## [Marketo Developers Site](https://developers.marketo.com/) {#marketo-developers-site}
 
 Nytt och förbättrat!
 
