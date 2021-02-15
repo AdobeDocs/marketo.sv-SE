@@ -3,9 +3,9 @@ unique-page-id: 3571743
 description: Configure Marketo Sales Insight in Salesforce Professional Edition - Marketo Docs - produktdokumentation
 title: Konfigurera Marketo Sales Insight i Salesforce Professional Edition
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '918'
+source-wordcount: '898'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,11 @@ Här är de steg du måste ta för att konfigurera Marketo Sales Insight i Sales
 
 >[!PREREQUISITES]
 >
->[Installera Marketo i din Salesforce Professional Edition](http://docs.marketo.com/display/docs/professional+edition)
->
->[Installera Marketo Sales Insight-paket i Salesforce AppExchange](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+>* Installera Marketo i Salesforce Professional Edition.
+   >
+   >
+* [Installera Marketo Sales Insight-paket i Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+
 
 >[!NOTE]
 >
@@ -82,7 +84,7 @@ Här är de steg du måste ta för att konfigurera Marketo Sales Insight i Sales
 
    ![](assets/login-admin-1.png)
 
-1. Klicka** Sales Insight**.
+1. Klicka på **Sales Insight**.
 
    ![](assets/image2015-5-22-15-3a12-3a33-1.png)
 
@@ -132,7 +134,7 @@ Här är de steg du måste ta för att konfigurera Marketo Sales Insight i Sales
 
    ![](assets/image2015-5-28-14-3a58-3a39-1.png)
 
-1. Klicka på **Visualforce-sidor **till vänster. Dra **Avsnitt** till layouten under Anpassade länkar.
+1. Klicka på **Visualforce-sidor** till vänster. Dra **Avsnitt** till layouten under Anpassade länkar.
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 
@@ -160,7 +162,7 @@ Här är de steg du måste ta för att konfigurera Marketo Sales Insight i Sales
    >
    >Vi rekommenderar en höjd på 410 pixlar för objekten Konton och Affärsmöjligheter.
 
-1. Klicka på **Fält **till vänster. Sök och dra sedan etiketten **Engagement** till layouten **Marketo Sales Insight**.
+1. Klicka på **Fält** till vänster. Sök och dra sedan etiketten **Engagement** till layouten **Marketo Sales Insight**.
 
    ![](assets/image2015-5-22-16-3a32-3a46-1.png)
 
@@ -213,15 +215,13 @@ Marketo-personfält måste mappas till Salesforce-kontaktfält för att konverte
 
 1. Klicka på **Mappa lead-fält**.
 
-   ** ![](assets/image2015-6-1-9-3a58-3a48-1.png)
-
-   **
+   ![](assets/image2015-6-1-9-3a58-3a48-1.png)
 
 1. Klicka på listrutan till höger för **engagemang**.
 
    ![](assets/image2015-6-1-10-3a9-3a53-1.png)
 
-1. Välj **Contact.Engagement **i listan.
+1. Välj **Contact.Engagement** i listan.
 
    ![](assets/image2015-6-1-10-3a12-3a11-1.png)
 
@@ -264,23 +264,23 @@ Marketo-personfält måste mappas till Salesforce-kontaktfält för att konverte
  </tbody> 
 </table>
 
-1. Klicka på **Spara **när du är klar.
+1. Klicka på **Spara** när du är klar.
 
    ![](assets/image2014-9-24-17-3a37-3a17.png)
 
 ## Marketo Sales Insight Config {#marketo-sales-insight-config}
 
-1. Klicka på **+ **och välj sedan **Marketo Sales Insight Config**.
+1. Klicka på **+** och välj sedan **Marketo Sales Insight Config**.
 
    ![](assets/image2014-9-24-17-3a37-3a45.png)
 
-1. Markera **Aktivera Marketo API**. Fyll sedan i [API-konfigurationsinformationen i Marketo Admin](http://docs.marketo.com/display/DOCS/Configure+Marketo+Sales+Insight+in+Salesforce+Professional+Edition#ConfigureMarketoSalesInsightinSalesforceProfessionalEdition-SetupMarketoSalesInsight). Klicka på **Spara ändringar **när du är klar.
+1. Markera **Aktivera Marketo API**. Fyll sedan i [API-konfigurationsinformationen i Marketo Admin](#set-up-marketo-sales-insight). Klicka på **Spara ändringar** när du är klar.
 
    ![](assets/image2014-9-24-17-3a38-3a0.png)
 
    >[!NOTE]
    >
-   >Om diagnostiktestet misslyckas kan du behöva [lägga till fler fält i sidlayouten](http://nation.marketo.com/docs/DOC-1115).
+   >Om diagnostiktestet misslyckas kan du behöva [lägga till fler fält i sidlayouten](https://nation.marketo.com/docs/DOC-1115).
 
 Och det är allt! Du bör kunna se fälten Marketo Sales Insight för Leads, Contacts, Accounts och Opportunity.
 
@@ -293,19 +293,17 @@ Och det är allt! Du bör kunna se fälten Marketo Sales Insight för Leads, Con
 ## Access Marketo Sales Insight {#access-marketo-sales-insight}
 
 1. I Salesforce klickar du på **+** i slutet av flikfältet och klickar på **Marketo Sales Insight Config**.
+
 1. Markera kryssrutan **Aktivera Marketo API**.
+
 1. Kopiera inloggningsuppgifterna från Soap API-panelen på Marketos Sales Insight Admin-sida och klistra in dem i Soap API-avsnittet på Salesforce Sales Insight Configuration-sidan.
+
 1. Kopiera inloggningsuppgifterna från panelen Rest API på Marketos Sales Insight Admin-sida och klistra in dem i delen Rest API på sidan Konfiguration av Salesforce Sales Insight.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
 
 >[!MORELIKETHIS]
 >
->* [Prioritet, Urklipp, Relativa poäng och Bästa val](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
->* [Lägg till Marketo Sales Insight-flik och knappar i Salesforce](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
+>* [Prioritet, Urklipp, Relativa poäng och Bästa val](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
+>* [Lägg till Marketo Sales Insight-flik och knappar i Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
 
->
-
-
-
-hh
