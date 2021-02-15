@@ -3,7 +3,7 @@ unique-page-id: 2951042
 description: Versionsinformation -juni 2014 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -juni 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -35,7 +35,7 @@ När du skickar ett test-e-postmeddelande från Sales Insight går det inte att 
 
 ## Lead ReST API {#lead-rest-api}
 
-Skapa, läs och uppdatera leads programmatiskt via vårt nya ReST-API. För att komma igång med ReST måste du [skapa en anpassad tjänst](../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) i Marketo. Gå sedan till [utvecklarwebbplatsen](http://developers.marketo.com/documentation/rest/) för mer information om hur du använder denna API.
+Skapa, läs och uppdatera leads programmatiskt via vårt nya ReST-API. För att komma igång med ReST måste du [skapa en anpassad tjänst](../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) i Marketo. Gå sedan till [utvecklarwebbplatsen](https://developers.marketo.com/documentation/rest/) för mer information om hur du använder denna API.
 
 ## Marketo Real-Time Personalization (RTP) Campaigns Page Update {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
