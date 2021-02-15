@@ -3,7 +3,7 @@ unique-page-id: 2360409
 description: Skapa en e-postanalysrapport som visar programinformation - Marketo Docs - produktdokumentation
 title: Skapa en e-postanalysrapport som visar programinformation
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -65,5 +65,5 @@ Följ de här stegen för att skapa en e-postanalysrapport som visar e-postinfor
    >**Djupdykning**
    >
    >
-   >Vill du veta mer om [Intäktscykelutforskaren](http://docs.marketo.com/display/docs/revenue+cycle+analytics)?
+   >Vill du veta mer om [Intäktscykelutforskaren](https://docs.marketo.com/display/docs/revenue+cycle+analytics)?
 
