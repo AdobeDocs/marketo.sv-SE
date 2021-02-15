@@ -3,7 +3,7 @@ unique-page-id: 14352433
 description: Så här skapar du din prioriterade samtalslista i Sales Connect - Marketo Docs - Produktdokumentation
 title: Så här skapar du din prioriterade samtalslista i Sales Connect
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '226'
 ht-degree: 0%
@@ -15,7 +15,8 @@ ht-degree: 0%
 
 Lär dig hur du skapar en prioriterad rapport/samtalslista med hjälp av e-postinteraktionsdata för ToutApp för att fokusera din tid på medarbetarna eller möjligheterna med framgång.
 
-1. Gå till ditt konto i [webbprogrammet](http://toutapp.com/login). När du är klar med stegen nedan kommer du att ha en prioritetssamtalslista sparad i Sales Connect för att prioritera dina varmaste leads/konton, återanslut leads/konton som har blivit mörka, fånga upp den låga hängande frukten och minska tiden för att få kontakt mellan kampanjkontakterna.
+1. Gå till ditt konto i [webbprogrammet](https://toutapp.com/login). När du är klar med stegen nedan kommer du att ha en prioritetssamtalslista sparad i Sales Connect för att prioritera dina varmaste leads/konton, återanslut leads/konton som har blivit mörka, fånga upp den låga hängande frukten och minska tiden för att få kontakt mellan kampanjkontakterna.
+
 1. Utför följande steg.
 
    * Klicka på Visa alternativ
@@ -31,4 +32,3 @@ Lär dig hur du skapar en prioriterad rapport/samtalslista med hjälp av e-posti
    >[!NOTE]
    >
    >Vi lägger automatiskt in ditt telefonnummer, din leads/kontakts telefonnummer från Sales Connect eller Salesforce, och loggar automatiskt dina samtal och anteckningar till Salesforce (om du använder Salesforce som din CRM). Du kan också använda lokal närvaro och samtalsinspelning.
-
