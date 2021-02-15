@@ -3,7 +3,7 @@ unique-page-id: 2359994
 description: Välj Rapportkolumner - Marketo Docs - Produktdokumentation
 title: Välj rapportkolumner
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -35,5 +35,5 @@ Du kan välja vilka kolumner som är och inte är inkluderade i rapporten.
    >    * [Sortera rapport efter kolumner](sort-report-on-columns.md)
 
 
-   Gör mer med rapporter! Se [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
+   Gör mer med rapporter! Se [Grundläggande rapportering](https://docs.marketo.com/display/docs/basic+reporting).
 
