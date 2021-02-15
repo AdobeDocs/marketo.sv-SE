@@ -3,7 +3,7 @@ unique-page-id: 14746432
 description: Synkronisera anpassade fält med Performance Insights - Marketo Docs - Produktdokumentation
 title: Synkronisera anpassade fält med prestandainsikter
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Kontrollpanelerna MPI-intäkter och Pipeline kan filtrera på anpassade Marketo-
 
 >[!NOTE]
 >
->Den här artikeln är endast avsedd för användare som **inte** har [RCA](http://docs.marketo.com/x/lwIk). Om du har RCA följer du stegen i [den här artikeln](http://docs.marketo.com/x/FQQk).
+>Den här artikeln är endast avsedd för användare som **inte** har [RCA](https://docs.marketo.com/x/lwIk). Om du har RCA följer du stegen i [den här artikeln](https://docs.marketo.com/x/FQQk).
 
 1. Gå till avsnittet **Admin**.
 
