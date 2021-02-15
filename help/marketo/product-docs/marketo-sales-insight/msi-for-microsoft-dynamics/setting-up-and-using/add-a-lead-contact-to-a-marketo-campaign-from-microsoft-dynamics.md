@@ -3,9 +3,9 @@ unique-page-id: 2953342
 description: Lägg till en lead/kontakt i en Marketenkampanj från Microsoft Dynamics - Marketo Docs - Produktdokumentation
 title: Lägg till en lead/kontakt i en Marketingkampanj från Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Du kan snabbt och enkelt lägga till leads/kontakter till Marketo smarta kampanj
 
    ![](assets/image2014-10-20-12-3a10-3a19.png)
 
-1. Klicka** ...** och välj **Lägg till i Marketo Campaign**.
+1. Klicka på **..** och välj **Lägg till i Marketo Campaign**.
 
    ![](assets/image2014-10-20-12-3a10-3a31.png)
 
@@ -37,6 +37,6 @@ Du kan snabbt och enkelt lägga till leads/kontakter till Marketo smarta kampanj
 
    >[!NOTE]
    >
-   >För att kampanjen ska visas i listrutan använder du [**Kampanjen är begärd** utlösare](http://docs.marketo.com/pages/viewpage.action?pageId=7514898), med Sales Insight som källa, när du konfigurerar kampanjen.
+   >För att kampanjen ska visas i listrutan använder du [**Kampanjen är begärd** utlösare](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), med Sales Insight som källa, när du konfigurerar kampanjen.
 
 Och det där är alla! Nu har ni kraften i Marketos smarta kampanjer i era händer direkt från Dynamics.
