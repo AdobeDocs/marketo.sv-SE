@@ -3,7 +3,7 @@ unique-page-id: 10092925
 description: Förhandsgranska och testa en webbkampanj - Marketo Docs - Produktdokumentation
 title: Förhandsgranska och testa en webbkampanj
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -35,7 +35,7 @@ I den här artikeln visas olika sätt att förhandsgranska en webbkampanj och ä
 
    >[!NOTE]
    >
-   >Du kan också installera ett webbläsarplugin-program (antingen [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) eller [Firefox](http://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)) för att få den bästa upplevelsen när du förhandsgranskar kampanjen. Se avsnittet nedan.
+   >Du kan också installera ett webbläsarplugin-program (antingen [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) eller [Firefox](https://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)) för att få den bästa upplevelsen när du förhandsgranskar kampanjen. Se avsnittet nedan.
 
 ## Förhandsgranska en webbkampanj på sidan Skapa med plugin-programmet för webbläsare {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
@@ -92,7 +92,7 @@ Skapa ett sandlådesegment och en kampanj.
 1. Slutför kampanjkreativiteten och klicka på **Starta**.\
    ![](assets/click-launch.jpg)
 
-1. Gå till webbplatsen och lägg till URL-parametern&quot;?sandbox=1&quot; i slutet av URL:en. Exempel: [www.marketo.com?sandbox=1](http://www.marketo.com/?sandbox=1)
+1. Gå till webbplatsen och lägg till URL-parametern&quot;?sandbox=1&quot; i slutet av URL:en. Exempel: [www.marketo.com?sandbox=1](https://www.marketo.com/?sandbox=1)
 1. Se kampanjens respons på er webbplats.
 
 >[!NOTE]
