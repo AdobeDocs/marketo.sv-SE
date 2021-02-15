@@ -3,7 +3,7 @@ unique-page-id: 7513771
 description: Inloggning och användarhantering - Marketo Docs - Produktdokumentation
 title: Inloggning och användarhantering
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '312'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. Ange ett rollnamn och välj Behörigheter. Klicka på **Skapa** (den här rollen måste [gälla för alla arbetsytor](http://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)).
+1. Ange ett rollnamn och välj Behörigheter. Klicka på **Skapa** (den här rollen måste [gälla för alla arbetsytor](https://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)).
 
    ![](assets/four.png)
 
