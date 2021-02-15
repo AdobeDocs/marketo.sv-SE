@@ -3,7 +3,7 @@ unique-page-id: 7516419
 description: Lägg till Marketo Sales Insight Tab and Buttons to Salesforce - Marketo Docs - Product Documentation
 title: Lägg till Marketo Sales Insight-flik och knappar i Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Du kan lägga till anpassade Marketo Sales Insight-flikar och knappar i Salesfor
 
 ## Lägger till markeringsfliken {#adding-the-marketo-tab}
 
-1. Klicka på** + **och klicka på **Anpassa mina flikar**.
+1. Klicka på **+** och klicka på **Anpassa mina flikar**.
 
    ![](assets/image2014-9-24-17-3a38-3a25.png)
 
@@ -43,7 +43,7 @@ Du kan lägga till Marketo-knappar i dina Salesforce-layouter. Här är ett exem
 
    ![](assets/image2015-5-26-14-3a59-3a53.png)
 
-1. Klicka på **Redigera** i **Leads List View **row.
+1. Klicka på **Redigera** i **Leads List View**-raden.
 
    ![](assets/image2015-5-26-16-3a7-3a24.png)
 
