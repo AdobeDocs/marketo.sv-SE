@@ -3,9 +3,9 @@ unique-page-id: 30081230
 description: Massåtgärder för människor - Marketo Docs - Produktdokumentation
 title: Massåtgärder för personer
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Vi tilldelar automatiskt en källa till varje kontakt som matas in i databasen. 
 
 ## Behörighet {#authorization}
 
-I enlighet med [GDPR](http://eugdpr.org/), använd behörigheten för att ange hur du fick behörighet att interagera med dessa kontakter.
+I enlighet med [GDPR](https://eugdpr.org/), använd behörigheten för att ange hur du fick behörighet att interagera med dessa kontakter.
 
 ![](assets/authorization.png)
 
@@ -49,7 +49,6 @@ Avbeställ massutskick av kontakter som inte längre vill få meddelanden från 
 
 ## Ta bort {#delete}
 
-Ta bort flera kontakter samtidigt. Fullständiga steg finns [här](http://docs.marketo.com/display/DOCS/How+to+Add+or+Delete+Contacts#HowtoAddorDeleteContacts-DeletingContacts).
+Ta bort flera kontakter samtidigt. Fullständiga steg finns [här](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md).
 
 ![](assets/delete.png)
-
