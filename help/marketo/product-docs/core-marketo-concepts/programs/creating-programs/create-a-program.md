@@ -3,7 +3,7 @@ unique-page-id: 1147095
 description: Skapa ett program - Marketo Docs - Produktdokumentation
 title: Skapa ett program
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Program är ett av de viktigaste elementen i Marketo. Du kommer att använda dem
 
    ![](assets/leadlifecycle.jpg)
 
-1. Ange ett **namn**, välj en **[kanal](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)** i listrutan och klicka på **Skapa**.
+1. Ange ett **namn**, välj en **[kanal](https://docs.marketo.com/display/DOCS/Create+a+Program+Channel)** i listrutan och klicka på **Skapa**.
 
    ![](assets/image2015-2-5-16-3a33-3a23.png)
 
