@@ -3,7 +3,7 @@ unique-page-id: 2360394
 description: Exportera data för påverkansanalys för affärsmöjlighet - Marketo Docs - Produktdokumentation
 title: Exportera data för påverkansanalys för affärsmöjlighet
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Exportera data för påverkansanalys för affärsmöjlighet {#export-opportunity-influence-analyzer-data}
 
-Om du vill få uppdateringar från dina [Intäktscykelutforskarrapporter](http://docs.marketo.com/display/docs/revenue+cycle+analytics) och dela dem kan du prenumerera på valfri e-postadress i en befintlig rapport.
+Om du vill få uppdateringar från dina [Intäktscykelutforskarrapporter](https://docs.marketo.com/display/docs/revenue+cycle+analytics) och dela dem kan du prenumerera på valfri e-postadress i en befintlig rapport.
 
 1. Gå till **Analytics** och välj **Nytt** **** **Nytt** **Rapport** **Prenumeration**.
 
@@ -51,5 +51,5 @@ Om du vill få uppdateringar från dina [Intäktscykelutforskarrapporter](http:/
 >
 >**Djupdykning**
 >
->Se mer av det du kan göra med Marketos avancerade analyser i [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics) deep dive.
+>Se mer av det du kan göra med Marketos avancerade analyser i [Revenue Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics) deep dive.
 
