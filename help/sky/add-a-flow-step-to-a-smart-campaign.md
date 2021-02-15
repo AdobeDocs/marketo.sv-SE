@@ -2,7 +2,7 @@
 title: add-a-flow-step-to-a-smart-campaign
 description: Lägg till ett flödessteg i en smart kampanj
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Flödesstegen talar om för Marketo vad du vill ska hända med en grupp personer
 
 **Djupdykning**
 
-Läs mer om de olika [flödesstegen](http://docs.marketo.com/display/DOCS/Flow+Actions).
+Läs mer om de olika [flödesstegen](https://docs.marketo.com/display/DOCS/Flow+Actions).
 
 1. Klicka på listrutan och välj ett lämpligt alternativ.
 
