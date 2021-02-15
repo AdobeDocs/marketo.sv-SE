@@ -3,7 +3,7 @@ unique-page-id: 2949844
 description: Skapa ett nytt händelseprogram - Marketo Docs - Produktdokumentation
 title: Skapa ett nytt händelseprogram
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -51,7 +51,7 @@ Med händelser kan du automatisera online- och offlinehändelser! Fånga persone
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 
-När din aktivitet har skapats kan du skapa [landningssidorna](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [formulären](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) och [e-postmeddelanden](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) och bjuda in dina gäster! Du kommer också att vilja bekanta dig med [programschemavyn](http://docs.marketo.com/display/docs/program+schedule+view).
+När din aktivitet har skapats kan du skapa [landningssidorna](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [formulären](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) och [e-postmeddelanden](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) och bjuda in dina gäster! Du kommer också att vilja bekanta dig med [programschemavyn](https://docs.marketo.com/display/docs/program+schedule+view).
 
 >[!MORELIKETHIS]
 >
