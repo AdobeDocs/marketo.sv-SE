@@ -3,7 +3,7 @@ unique-page-id: 4720758
 description: Versionsinformation -januari 2015 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - januari 2015
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Tre nya anrop till API:t Lead &amp; Activity ReST:
 * Hämta leads per program-ID
 * Hämta borttagna leads
 
-Det finns också ett nytt alternativ för Synkronisera lead, som gör att leadet ändras asynkront för ett snabbare API-anrop. Fullständig information kommer att finnas tillgänglig efter releasen på [developers.marketo.com](http://developers.marketo.com)
+Det finns också ett nytt alternativ för Synkronisera lead, som gör att leadet ändras asynkront för ett snabbare API-anrop. Fullständig information kommer att finnas tillgänglig efter releasen på [developers.marketo.com](https://developers.marketo.com)
 
 **Stöd för anpassade objekt för e-postskript**
 
@@ -59,13 +59,13 @@ Förbättringar av modulen Namngivna konton förbättrar matchningsfrekvenserna 
 
 Uppdaterade alternativ för RTP-tagg
 
-[RTP-](http://docs.marketo.com/display/docs/rtp+tag+implementation) taggalternativen under Kontoinställningar har uppdaterats till att omfatta:
+[RTP-](https://docs.marketo.com/display/docs/rtp+tag+implementation) taggalternativen under Kontoinställningar har uppdaterats till att omfatta:
 
 1. CDN och asynkron (rekommenderad tagg)
 1. CDN och synkron (hög hastighet)
 1. Asynkron tagg utan CDN
 1. Synkron tagg utan CDN
 
-För bästa prestanda bör du placera taggen högst upp i sidhuvudet på webbsidan efter `<head>`. Alla taggar tillåter användning av [RTP API](http://developers.marketo.com/documentation/websites/rtp-js-api/). Mer information om hur du distribuerar RTP-taggen finns i [här](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+För bästa prestanda bör du placera taggen högst upp i sidhuvudet på webbsidan efter `<head>`. Alla taggar tillåter användning av [RTP API](https://developers.marketo.com/documentation/websites/rtp-js-api/). Mer information om hur du distribuerar RTP-taggen finns i [här](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)
