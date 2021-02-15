@@ -3,7 +3,7 @@ unique-page-id: 11381689
 description: Kontobaserad webbmarknadsföring med ABM - Marketo Docs - Produktdokumentation
 title: Kontobaserad webbmarknadsföring med ABM
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Kontobaserad webbmarknadsföring med ABM {#account-based-web-marketing-with-abm}
 
-Marketo har introducerat ett nytt [kontobaserat marknadsföring](http://docs.marketo.com/display/docs/account+based+marketing)-program (ABM).
+Marketo har introducerat ett nytt [kontobaserat marknadsföring](https://docs.marketo.com/display/docs/account+based+marketing)-program (ABM).
 
 När du använder Marketo Web Personalization och den nya kontobaserade marknadsföringen (ABM):
 
