@@ -3,7 +3,7 @@ unique-page-id: 12979006
 description: Performance Insights Overview - Marketo Docs - produktdokumentation
 title: Performance Insights - översikt
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Om du vill få åtkomst till Performance Insights klickar du på ikonen på star
 
 ## Bidrag {#contribution}
 
-Utvärdera Marketing [s bidrag till intäkterna](http://docs.marketo.com/x/QAvG)som en funktion av kundvärvning, påverkan, konvertering och till och med installerad bastillväxt.
+Utvärdera Marketing [s bidrag till intäkterna](https://docs.marketo.com/x/QAvG)som en funktion av kundvärvning, påverkan, konvertering och till och med installerad bastillväxt.
 
 ![](assets/two.png)
 
@@ -38,13 +38,13 @@ Som standard återspeglar de data som visas prestanda efter engagemang. Du kan v
 
 ## Trend {#trend}
 
-Ta del av [långsiktiga trender](http://docs.marketo.com/x/QgvG) för att hitta enhetliga vinnande strategier.
+Ta del av [långsiktiga trender](https://docs.marketo.com/x/QgvG) för att hitta enhetliga vinnande strategier.
 
 ![](assets/4.png)
 
 ## Inställningar {#settings}
 
-Klicka på ikonen [Inställningar](http://docs.marketo.com/x/pIDS) på kontrollpanelerna för intäkter och pipeline för att ange ytterligare parametrar.
+Klicka på ikonen [Inställningar](https://docs.marketo.com/x/pIDS) på kontrollpanelerna för intäkter och pipeline för att ange ytterligare parametrar.
 
 ![](assets/5.png)
 
@@ -56,5 +56,5 @@ Du kan exportera data och diagram i PowerPoint eller Excel. Du kan också spara 
 
 >[!NOTE]
 >
->Exportera data till Excel för att visa data som är tillgängliga för alla kanaler (inte bara de tio översta). PPT-exporten kommer att vara WYSIWYG (utdata kommer att efterlikna det du ser på skärmen).
+>Exportera data till Excel för att visa data som är tillgängliga för alla kanaler (inte bara de tio översta). PPT-exporten blir WYSIWYG (utdata påminner om det du ser på skärmen).
 
