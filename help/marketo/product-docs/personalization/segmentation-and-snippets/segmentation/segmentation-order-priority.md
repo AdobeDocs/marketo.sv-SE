@@ -3,7 +3,7 @@ unique-page-id: 2359500
 description: Segmenteringsorderprioritet - Marketo Docs - Produktdokumentation
 title: Prioritet för segmenteringsordning
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -49,5 +49,5 @@ Det är viktigt att förstå hur **order** prioriterar utvärdering av dina pers
 
 
 
-Coola, va? Du kan använda segment för dynamiskt innehåll, [rapportering](http://docs.marketo.com/display/docs/basic+reporting) och även i [smarta listor](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
+Coola, va? Du kan använda segment för dynamiskt innehåll, [rapportering](https://docs.marketo.com/display/docs/basic+reporting) och även i [smarta listor](https://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
