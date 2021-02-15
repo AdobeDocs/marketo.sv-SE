@@ -3,7 +3,7 @@ unique-page-id: 2360225
 description: Filtrera resurser i en e-postrapport - Marketo Docs - Produktdokumentation
 title: Filtrera resurser i en e-postrapport
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -55,5 +55,5 @@ Fokusera på din [rapport om e-postprestanda](../../../../product-docs/email-mar
 >
 >**Djupdykning**
 >
->Lär dig allt om rapporter i [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
+>Lär dig allt om rapporter i [Grundläggande rapportering](https://docs.marketo.com/display/docs/basic+reporting).
 
