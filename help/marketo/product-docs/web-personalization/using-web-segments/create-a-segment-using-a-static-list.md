@@ -3,7 +3,7 @@ unique-page-id: 13795536
 description: Skapa ett segment med hjälp av en statisk lista - Marketo Docs - Produktdokumentation
 title: Skapa ett segment med hjälp av en statisk lista
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Skapa ett segment med hjälp av en statisk lista {#create-a-segment-using-a-static-list}
 
-Segmentera kända webbbesökare när de besöker er webbplats baserat på om de befinner sig i eller inte i någon av era Marketo [statiska listor](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists).
+Segmentera kända webbbesökare när de besöker er webbplats baserat på om de befinner sig i eller inte i någon av era Marketo [statiska listor](https://docs.marketo.com/display/DOCS/Understanding+Static+Lists).
 
 1. Gå till **Segment**.
 
