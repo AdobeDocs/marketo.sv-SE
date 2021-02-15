@@ -3,9 +3,9 @@ unique-page-id: 45416566
 description: Inställningar för tvåpartssamtycke - Marketo Docs - Produktdokumentation
 title: Inställningar för dubbelpartsgodkännande
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ För att säkerställa att USA:s tvåpartslagar följs när du spelar in samtal 
 
 >[!PREREQUISITES]
 >
->Innan du följer stegen nedan måste du först [aktivera samtalsinspelning.](http://docs.marketo.com/x/dAC1Ag)
+>Innan du följer stegen nedan måste du först [aktivera samtalsinspelning](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
 
 1. Klicka på ikonen Inställningar och välj **Inställningar**.
 
@@ -50,4 +50,3 @@ För att säkerställa att USA:s tvåpartslagar följs när du spelar in samtal 
 1. Klicka på växlingsknappen för att aktivera att det markerade meddelandet spelas upp i början av dina inspelade samtal.
 
    ![](assets/seven.png)
-
