@@ -3,7 +3,7 @@ unique-page-id: 7512944
 description: Using Marketo Insights for Google Chrome - Marketo Docs - produktdokumentation
 title: Using Marketo Insights for Google Chrome
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Skicka och spåra alla Google-e-postmeddelanden med Marketo Insights för Google
 
 >[!PREREQUISITES]
 >
->* [Installera Marketo Insights för Google Chrome](install-marketo-insights-for-google-chrome.md)
-
->
-
-
+>[Installera Marketo Insights för Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
 
 ## Skicka ett e-postmeddelande med Marketo Insights {#send-an-email-with-marketo-insights}
 
@@ -41,11 +37,11 @@ Skicka och spåra alla Google-e-postmeddelanden med Marketo Insights för Google
    >
    >Du kan även klicka på dubbelpilen för att expandera till helskärmsläge.
 
-1. Om du vill fylla i e-postmeddelandet i förväg med en publicerad Marketo-mall klickar du på **Fler alternativ** och väljer **Läs in Marketo-mall.**
+1. Om du vill fylla i e-postmeddelandet i förväg med en publicerad Marketo-mall klickar du på **Fler alternativ** och väljer **Läs in Marketo-mall**.
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
-1. Välj en **tillgänglig mall** och klicka på **OK.**
+1. Välj en **tillgänglig mall** och klicka på **OK**.
 
    ![](assets/image2015-10-5-15-3a11-3a44.png)
 
@@ -75,10 +71,6 @@ Du kan logga svar och gammal aktivitet i en leads aktivitetshistorik.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Installera Marketo Insights för Google Chrome](install-marketo-insights-for-google-chrome.md)
-   >    * [Visa person- och kontoinformation och aktiviteter i Google Mail](view-person-and-account-information-and-activities-in-google-mail.md)
-
+   >* [Installera Marketo Insights för Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+   >* [Visa person- och kontoinformation och aktiviteter i Google Mail](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
 
