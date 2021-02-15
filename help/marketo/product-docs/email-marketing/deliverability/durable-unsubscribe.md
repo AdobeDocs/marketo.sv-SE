@@ -3,7 +3,7 @@ unique-page-id: 10094576
 description: Varaktigt avbeställ - Marketo Docs - Produktdokumentation
 title: Varaktigt avslut
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 0%
@@ -55,7 +55,7 @@ På samma sätt som ett avbrutet abonnemang skulle leda till att alla personer m
 
 ## Aktivitetsloggen {#activity-log}
 
-Ändringsdefinitioner för datavärde för _updateLeadEmailStatus_ och _resetLeadEmailStatus_ finns i [den här communityartikeln](http://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688).
+Ändringsdefinitioner för datavärde för _updateLeadEmailStatus_ och _resetLeadEmailStatus_ finns i [den här communityartikeln](https://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688).
 
 >[!MORELIKETHIS]
 >
