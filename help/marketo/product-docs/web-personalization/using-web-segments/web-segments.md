@@ -3,7 +3,7 @@ unique-page-id: 4719093
 description: Webbsegment - Marketo Docs - produktdokumentation
 title: Webbsegment
 translation-type: tm+mt
-source-git-commit: e3f4eb27d30887ef53d6636a6bd2929bc8f43a88
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '2031'
 ht-degree: 0%
@@ -108,23 +108,27 @@ Definiera allmänna parametrar för ditt segment:
 >1. Använd alla filter (1, 2 och 3...)
 >1. Använd filter (1 eller 2 eller 3..)
 >1. Avancerade filter (med och/eller uttryck)
->
->    Med avancerade filter kan du styra segmentvillkoren. Ange filternumren avgränsade med &quot;och&quot; och &quot;eller&quot;.
->
->    * 1, 2 och 3
->    * 1 eller 2 eller 3
->
->    Blandning av&quot;och&quot; och&quot;eller&quot; kräver parenteser för att förtydliga logiks avsikt. t.ex. &quot;1 eller 2 och 3&quot; skall skrivas som något av följande:
->
->    * 1 och (2 eller 3)
->    * (1 och 2) eller 3
->
->    Kapslade parenteser accepteras för mer komplicerad logik, t.ex.
->
->    * (1 och 2) eller (3 och 4)
->    * 1 och (2 eller (3 och 4))
->
->    Kontrollera logiken efter infogning, borttagning eller sortering.
+
+   >
+   >    
+   Med avancerade filter kan du styra segmentvillkoren. Ange filternumren avgränsade med &quot;och&quot; och &quot;eller&quot;.
+   >
+   >    
+   * 1, 2 och 3
+   >    * 1 eller 2 eller 3
+
+   >
+   Blandning av&quot;och&quot; och&quot;eller&quot; kräver parenteser för att förtydliga logiks avsikt. t.ex. &quot;1 eller 2 och 3&quot; skall skrivas som något av följande:
+
+   * 1 och (2 eller 3)
+   * (1 och 2) eller 3
+
+   Kapslade parenteser accepteras för mer komplicerad logik, t.ex.
+
+   * (1 och 2) eller (3 och 4)
+   * 1 och (2 eller (3 och 4))
+
+   Kontrollera logiken efter infogning, borttagning eller sortering.
 
 
 
@@ -192,7 +196,7 @@ Välj i en [lista över namngivna konton](../../../product-docs/web-personalizat
 
 >[!NOTE]
 >
->Siffran inom hakparenteser bredvid namnet Namngiven kontolista används som indexreferens för listan för Webbpersonalisering [Läs API](http://developers.marketo.com/documentation/websites/rtp-js-api/).
+>Siffran inom hakparenteser bredvid namnet Namngiven kontolista används som indexreferens för listan för Webbpersonalisering [Läs API](https://developers.marketo.com/documentation/websites/rtp-js-api/).
 
 **Exkludera ISP**
 
@@ -292,11 +296,11 @@ Lägg till det händelsevärde som du vill ha som mål. t.ex. från datakällor 
 
 **API för användarkontext**
 
-Anrop till API för webbanpassning [läs mer om det här.](http://developers.marketo.com/documentation/websites/rtp-user-context-api/)
+Anrop till API för webbanpassning [läs mer om det här.](https://developers.marketo.com/documentation/websites/rtp-user-context-api/)
 
 >[!TIP]
 >
->**Med jokertecken -** När du vill ta med ett sökord eller en URL som innehåller något i det, d.v.s. &quot;[google.com](http://google.com)&quot; eller &quot;söktermsprodukt&quot;, kallar vi det här ett jokertecken och det ska läggas in med en asterisk - den här lilla killen* - i varje ände. Allt som kommer från [google.com](http://google.com) ska därför infogas som * [google.com](http://google.com)*
+>**Med jokertecken -** När du vill ta med ett sökord eller en URL som innehåller något i det, d.v.s. &quot;[google.com](https://google.com)&quot; eller &quot;söktermsprodukt&quot;, kallar vi det här ett jokertecken och det ska läggas in med en asterisk - den här lilla killen* - på varje ände. Allt som kommer från [google.com](https://google.com) ska därför infogas som * [google.com](https://google.com)*
 
 ## Redigera segment {#edit-segments}
 
@@ -321,7 +325,7 @@ Du kan ta bort segment som du har skapat.
 >[!NOTE]
 Du kan inte ta bort ett segment som är associerat med en kampanj. Först måste ni ta bort kampanjen och sedan segmentet.
 
-Bra! Nu när ni förstår segmentavsnittet kan vi lära oss mer om kampanjer.
+Bra! Nu när ni förstår segmentavsnittet ska vi lära oss mer om kampanjer.
 
 >[!MORELIKETHIS]
 * [Skapa ett enkelt webbsegment](create-a-basic-web-segment.md)
