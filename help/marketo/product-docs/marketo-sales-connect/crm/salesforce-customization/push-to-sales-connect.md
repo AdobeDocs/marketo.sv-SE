@@ -1,9 +1,9 @@
 ---
 unique-page-id: 14352477
-description: Push to Sales Connect - Marketo Docs - Product Documentation
+description: Skicka till Sales Connect - Marketo Docs - produktdokumentation
 title: Push to Sales Connect
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
@@ -34,6 +34,6 @@ Knappen Push to Tout (Skicka till toning) innehåller en lista över dina leads/
 
    >[!NOTE]
    >
-   >Sales Connect kommer att lägga till den här gruppen med namnet &quot;SFDC-..&quot; till sidan Relationer på [webbprogrammet](http://toutapp.com/login).
+   >Sales Connect kommer att lägga till den här gruppen med namnet &quot;SFDC-..&quot; till sidan Relationer på [webbprogrammet](https://toutapp.com/login).
 
 1. Välj **E-posta hela gruppen** om du vill skicka ut gruppe-postmeddelandet.
