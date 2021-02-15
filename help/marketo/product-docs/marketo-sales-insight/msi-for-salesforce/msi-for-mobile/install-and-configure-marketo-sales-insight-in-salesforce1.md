@@ -3,7 +3,7 @@ unique-page-id: 7511512
 description: Installera och konfigurera Marketo Sales Insight i Salesforce1 - Marketo Docs - Produktdokumentation
 title: Installera och konfigurera Marketo Sales Insight i Salesforce1
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Påminnelse**
 >
->Befintliga kunder: [Uppgradera ditt MSI-paket](http://docs.marketo.com/x/_gU6Ag) innan du fortsätter!
+>Befintliga kunder: [Uppgradera ditt MSI-paket](https://docs.marketo.com/x/_gU6Ag) innan du fortsätter!
 
 >[!PREREQUISITES]
 >
