@@ -3,7 +3,7 @@ unique-page-id: 14352407
 description: Översikt över leveranskanalen - Marketo Docs - Produktdokumentation
 title: Översikt över leveranskanalen
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '456'
 ht-degree: 0%
@@ -47,4 +47,4 @@ I webbprogrammet visas din identitet som du har skapat den (ovan). Om du skickar
 
 ## Anpassad SMTP-server {#custom-smtp-server}
 
-Betala för din egen server? Använda en Microsoft Exchange-miljö? Det här är ett alternativ för dig. Läs [de här instruktionerna](http://docs.marketo.com/x/zYTS) om hur du konfigurerar. Precis som Gmail-servrar spelar vi inte in studsade e-posthändelser i webbprogrammet eftersom Sales Connect inte hanterar servern direkt.
+Betala för din egen server? Använda en Microsoft Exchange-miljö? Det här är ett alternativ för dig. Läs [de här instruktionerna](https://docs.marketo.com/x/zYTS) om hur du konfigurerar. Precis som Gmail-servrar spelar vi inte in studsade e-posthändelser i webbprogrammet eftersom Sales Connect inte hanterar servern direkt.
