@@ -3,7 +3,7 @@ unique-page-id: 10099167
 description: Lägg till en lead/kontakt i en Marketenkampanj från Salesforce - Marketo Docs - Produktdokumentation
 title: Lägg till en lead/kontakt i en Marketkampanj från Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Du kan enkelt lägga till leads eller kontakter till smarta Marketinkampanjer inifrån Salesforce. Så här använder ni leads.
 
-1. Klicka på fliken **Leads **i Salesforce.
+1. Klicka på fliken **Leads** i Salesforce.
 
    ![](assets/image2016-3-22-9-3a18-3a36.png)
 
@@ -31,7 +31,7 @@ Du kan enkelt lägga till leads eller kontakter till smarta Marketinkampanjer in
 
    ![](assets/three.png)
 
-1. Rulla ned till Marketo Sales Insight, klicka på listrutan **Åtgärder**, välj **Lägg till i Marketo Campaign,** och klicka på&#x200B;**Gå.**
+1. Rulla ned till Marketo Sales Insight-området i posten, klicka på listrutan **Åtgärder**, välj **Lägg till i Marketo Campaign** och klicka på **Gå**.
 
    ![](assets/four.png)
 
@@ -41,6 +41,6 @@ Du kan enkelt lägga till leads eller kontakter till smarta Marketinkampanjer in
 
    >[!NOTE]
    >
-   >För att kampanjen ska visas i listrutan använder du [**Kampanjen är begärd** utlösare](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), med **Sales Insight** som källa när du konfigurerade kampanjen.
+   >För att kampanjen ska visas i listrutan använder du [**Kampanjen är begärd** utlösare](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), med **Sales Insight** som källa när du konfigurerade kampanjen.
 
 Och det är allt! Personen läggs till i er Marketo-kampanj.
