@@ -3,7 +3,7 @@ unique-page-id: 27656223
 description: Installera Salesforce-anpassning för Professional Edition-kunder - Marketo Docs - Produktdokumentation
 title: Installera Salesforce-anpassning för Professional Edition-kunder
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
@@ -57,6 +57,6 @@ Kunder som har Salesforce Professional Edition måste följa dessa steg för att
 
 ## Stödlinjer {#guides}
 
-[Installationshandbok för Salesforce Classic](http://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
+[Installationshandbok för Salesforce Classic](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 
-[Installationshandbok för Salesforce Lightning](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+[Installationshandbok för Salesforce Lightning](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
