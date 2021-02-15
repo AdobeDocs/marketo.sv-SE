@@ -3,9 +3,9 @@ unique-page-id: 14352516
 description: Skapa och ta bort kontakter - Marketo Docs - Produktdokumentation
 title: Skapa och ta bort kontakter
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Vill du lägga till flera kontakter samtidigt? [Klicka ](http://docs.marketo.com/x/VADb) här om du vill veta hur du importerar kontakter via CSV.
+   >Vill du lägga till flera kontakter samtidigt? [Klicka ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) här om du vill veta hur du importerar kontakter via CSV.
 
 ## Tar bort kontakter {#deleting-contacts}
 
@@ -37,10 +37,10 @@ ht-degree: 0%
    >
    >Om du vill ta bort flera kontakter markerar du bara flera personer. De återstående stegen är desamma.
 
-1. Klicka på punkten (tre lodräta punkter) och välj Ta bort.
+1. Klicka på punkten (tre lodräta punkter) och välj **Ta bort**.
 
    ![](assets/four-2.png)
 
-1. Bekräfta genom att klicka på Ta bort kontakt.
+1. Bekräfta genom att klicka på **Ta bort kontakt**.
 
    ![](assets/five-2.png)
