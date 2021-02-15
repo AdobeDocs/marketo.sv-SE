@@ -3,7 +3,7 @@ unique-page-id: 6094890
 description: Versionsinformation -februari 2015 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - februari 2015
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '336'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Versionsinformation: Februari 2014 {#release-notes-february}
+# Versionsinformation: Februari 2015 {#release-notes-february}
 
 Följande funktioner finns i februari 2015-versionen. Kontrollera om din Marketo Edition innehåller funktioner. Efter releasen måste du komma tillbaka för att hitta länkar till detaljerade artiklar för varje funktion. Trumrulle...
 
@@ -21,7 +21,7 @@ Följande funktioner finns i februari 2015-versionen. Kontrollera om din Marketo
 
 Rejöst! Nu kan du flytta smarta kampanjer in och ut ur programmen genom att dra och släppa eller flytta funktionen Flytta i trädet.
 
-** [Dynamics 2015 (Online)](http://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises) **- stöds!
+** [Dynamics 2015 (Online)](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises) **- stöds!
 
 **Ändringar av HTTPS-certifikat**
 
@@ -29,11 +29,11 @@ För att skydda sekretess och integritet för kunddata och SaaS-tjänster följe
 
 och kommer att ersätta de säkerhetsprotokoll som för närvarande används (SHA-1 och SSL) med säkrare versioner (SHA-2 (alias). SHA-256) och TLS) för följande domäner:
 
-`·` [marketo.net](http://marketo.net)  (krypterad Munchkin-trafik)
+`·` [marketo.net](https://marketo.net)  (krypterad Munchkin-trafik)
 
-`·` [marketo.com](http://marketo.com) (de viktigaste SaaS-programmen)
+`·` [marketo.com](https://marketo.com) (de viktigaste SaaS-programmen)
 
-Det här kommer att hända kort efter den här versionen. SHA-1-protokollet stöds tillfälligt på domänen [mktoapi.com](http://mktoapi.com) till december 2015 så att ägare av äldre system och program kan uppdatera sina system med SHA-2-kompatibilitet.
+Det här kommer att hända kort efter den här versionen. SHA-1-protokollet stöds tillfälligt på domänen [mktoapi.com](https://mktoapi.com) till december 2015 så att ägare av äldre system och program kan uppdatera sina system med SHA-2-kompatibilitet.
 
 **Secure Munchkin**
 
