@@ -3,7 +3,7 @@ unique-page-id: 6094879
 description: Lägga till en mål-URL i en webbkampanj - Marketo Docs - Produktdokumentation
 title: Lägga till en mål-URL i en webbkampanj
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -58,7 +58,7 @@ Om du klickar på plusikonen (![—](assets/image2015-2-18-8-3a40-3a59.png)) öp
 >
 >
 >* Webbkampanjer i dialogrutor och widgetar kan använda alternativen Valfri sida och Jokertecken (*).
-* I avancerade fall kan webbkampanjer i InZone använda jokertecken i slutet av URL-sökvägen. Exempel: [www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
+* I avancerade fall kan webbkampanjer i InZone använda jokertecken i slutet av URL-sökvägen. Exempel: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
 * URL är skiftlägeskänslig
 
 
@@ -75,7 +75,7 @@ Om du klickar på plusikonen (![—](assets/image2015-2-18-8-3a40-3a59.png)) öp
 1. Lägg till ett** kampanjnamn**. Välj ett **målsegment**. Lägg till **mål-URL**.
 
    >[!NOTE]
-   Mål-URL:en med In Zones måste definiera en specifik URL eller URL:er. I avancerade fall kan webbkampanjer i InZone använda jokertecken i slutet av URL-sökvägen. Exempel: [www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
+   Mål-URL:en med In Zones måste definiera en specifik URL eller URL:er. I avancerade fall kan webbkampanjer i InZone använda jokertecken i slutet av URL-sökvägen. Exempel: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
