@@ -3,7 +3,7 @@ unique-page-id: 7514956
 description: Aktivera prediktivt innehåll för multimedia för webben - Marketo Docs - produktdokumentation
 title: Aktivera prediktivt innehåll för multimedia för webben
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Prediktivt innehåll engagerar webbbesökarna med det mest relevanta innehållet
 >
 >Innan du aktiverar Predictive Content måste du:
 >
->* [Förbered ditt prediktiva innehåll](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [Förbered ditt prediktiva innehåll](https://docs.marketo.com/display/docs/edit+predictive+content)
 >* [Godkänn en titel för prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 >
@@ -42,7 +42,7 @@ När du har förberett innehållets titel, beskrivning och bild för multimedia 
 
 ## Anpassa JavaScript-koden och bädda in den på din webbplats {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Mer information finns i dokumentationen till Rekommendationsmallen för multimedia [på webbplatsen Marketo Developers.](http://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)Detta förklarar hur du anpassar mallen för webbplatsen.
+Mer information finns i dokumentationen till Rekommendationsmallen för multimedia [på webbplatsen Marketo Developers.](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)Detta förklarar hur du anpassar mallen för webbplatsen.
 
 Klistra in JavaScript-koden på webbplatsen där du vill att mallen ska visas.
 
@@ -62,5 +62,5 @@ Här är ett exempel på rekommendationsmallen för multimedia2:
 >[!MORELIKETHIS]
 >
 >* [Aktivera innehållsrekommendationsfältet](enable-the-content-recommendation-bar.md)
->* [Aktivera prediktivt innehåll i e-postmeddelanden](http://docs.marketo.com/x/vLit)
+>* [Aktivera prediktivt innehåll i e-postmeddelanden](https://docs.marketo.com/x/vLit)
 
