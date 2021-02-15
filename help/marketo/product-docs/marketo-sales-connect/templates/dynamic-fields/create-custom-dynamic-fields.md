@@ -3,9 +3,9 @@ unique-page-id: 14352508
 description: Skapa anpassade dynamiska fält - Marketo Docs - Produktdokumentation
 title: Skapa anpassade dynamiska fält
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -18,16 +18,23 @@ Det finns två sätt att skapa anpassade dynamiska fält.
 ## Sparar anpassade fält för en eller några kontakter {#saving-custom-fields-for-one-or-a-few-contacts}
 
 1. Klicka på namnet på en kontakt på sidan Personer.
+
 1. Välj listrutan bredvid Avsluta prenumeration och välj **Redigera**.
+
 1. Rulla ned till redigeringssidans nedre del. Du kan sedan skapa ett namn och ett värde för fältet.
+
 1. Klicka på **Spara**.
 
 ## Sparar anpassade fält för många kontakter {#saving-custom-fields-for-many-contacts}
 
 1. Skapa ett CSV-kalkylblad med dina anpassade fält i en egen kolumn.
-1. Följ [den normala CSV-överföringsprocessen](http://docs.marketo.com/x/HIPS) och stoppa på fältmappningsskärmen.
+
+1. Följ [den normala CSV-överföringsprocessen](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) och stoppa på fältmappningsskärmen.
+
 1. Välj **Lägg till ett nytt anpassat fält** i listrutan i stället för ett av de förinställda fälten.
+
 1. Ange önskat fältnamn och klicka på **OK**.
+
 1. Slutför överföringen av CSV-filen. Dina kontakter visas med det nya anpassade fältet.
 
 >[!NOTE]
@@ -38,7 +45,8 @@ Det finns två sätt att skapa anpassade dynamiska fält.
 
 När dina anpassade fält har lagrats med ovanstående metoder kan du referera till dem i dina mallar.
 
-1. [Skapa en ](http://docs.marketo.com/x/OCDG) mall och klicka på knappen  **Dynamiska** fält som vanligt.
-1. Välj **Anpassade fält** i listrutan som visas.
-1. Du ser dina förlagrade anpassade fält och kan välja vilka som ska fyllas i i mallen.
+1. [Skapa en ](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md) mall och klicka på knappen  **Dynamiska** fält som vanligt.
 
+1. Välj **Anpassade fält** i listrutan som visas.
+
+1. Du ser dina förlagrade anpassade fält och kan välja vilka som ska fyllas i i mallen.
