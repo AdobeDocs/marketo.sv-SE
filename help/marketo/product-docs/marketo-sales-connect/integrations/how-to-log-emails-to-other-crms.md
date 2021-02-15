@@ -3,9 +3,9 @@ unique-page-id: 14352430
 description: Så här loggar du e-postmeddelanden till andra CRM-system - Marketo Docs - produktdokumentation
 title: Så här loggar du e-postmeddelanden till andra CRM-system
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Om din CRM ger dig en hemlig kopia-adress kan du använda CRM-avsnittet&quot;oth
 
 ## CRM:er som vi integrerar med {#crms-we-integrate-with}
 
-**`Almost every CRM`**:
+**Nästan alla CRM**:
 
-* Vår `auto-BCC`* *funktion fungerar med nästan alla CRM-postmeddelanden du har skickat med Sales Connect till dina leads. Se bara till att din CRM ger dig en hemlig kopia-adress för att kunna utnyttja detta.
+* Vår funktion för automatisk BCC fungerar med nästan alla CRM-postmeddelanden som du har skickat med Sales Connect till dina leads. Se bara till att din CRM ger dig en hemlig kopia-adress för att kunna utnyttja detta.
 
-**`Salesforce`**:
+**Salesforce**:
 
 * Vi gör allt detta och mycket mer!
 
@@ -34,4 +34,3 @@ Om din CRM ger dig en hemlig kopia-adress kan du använda CRM-avsnittet&quot;oth
 1. Klicka på **Spara** så sparas din BCC-adress i Sales Connect.
 
    E-postmeddelanden loggas nu i CRM via BCC.
-
