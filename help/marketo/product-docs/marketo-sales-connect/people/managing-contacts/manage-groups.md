@@ -3,9 +3,9 @@ unique-page-id: 30081250
 description: Hantera grupper - Marketo Docs - Produktdokumentation
 title: Hantera grupper
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Lär dig hur du hanterar dina grupper i Sales Connect.
 
 ## Skapa en grupp {#create-a-group}
 
-1. Klicka på plustecknet **bredvid Grupper på sidan Personer.**
+1. På sidan Personer klickar du på **+** bredvid Grupper.
 
    ![](assets/one-4.png)
 
@@ -39,7 +39,7 @@ Lär dig hur du hanterar dina grupper i Sales Connect.
 
    >[!NOTE]
    >
-   >Då läggs en kontakt till i taget. Om du vill lägga till flera kontakter samtidigt följer du [de här stegen](http://docs.marketo.com/x/VADb).
+   >Då läggs en kontakt till i taget. Om du vill lägga till flera kontakter samtidigt följer du [de här stegen](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
 1. Fyll i kontaktinformationen och klicka på **Skapa** (eller **Skapa och lägg till ny** om du vill lägga till en annan).
 
@@ -114,4 +114,3 @@ Lär dig hur du hanterar dina grupper i Sales Connect.
 1. Bekräfta genom att klicka på **Ta bort**.
 
    ![](assets/seventeen.png)
-
