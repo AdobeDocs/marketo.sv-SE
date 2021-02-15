@@ -3,7 +3,7 @@ unique-page-id: 2951058
 description: Versionsinformation -augusti 2013 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - augusti 2013
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Versionsinformation: Augusti 2013 {#release-notes-august}
 
-Följande funktioner finns i augusti 2013-versionen. Kontrollera din [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing-1.php) för att se om det finns funktioner.
+Följande funktioner finns i augusti 2013-versionen. Kontrollera din [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing-1.php) för att se om det finns funktioner.
 
 Efter releasen ska du kontrollera fliken [New Release](release-notes-december-2013.md) i communityn för detaljerade kunskapsbasartiklar för varje ny funktion!
 
@@ -59,7 +59,7 @@ Marketo meddelar dig nu regelbundet och [inaktiverar automatiskt utlösarkampanj
 
 ### Programkostnadsuppdatering {#program-cost-update}
 
-Synkronisering av programkostnader möjliggör uppföljning av programkostnader på flera plattformar.
+Programkostnadssynkning gör det möjligt att hålla reda på programkostnaderna på flera plattformar.
 
 ### Kobolt användargränssnitt {#cobalt-user-interface}
 
