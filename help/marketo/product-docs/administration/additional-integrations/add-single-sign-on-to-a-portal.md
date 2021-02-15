@@ -3,7 +3,7 @@ unique-page-id: 2360356
 description: Lägg till enkel inloggning i en portal - Marketo Docs - Produktdokumentation
 title: Lägg till enkel inloggning på en portal
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '458'
 ht-degree: 0%
@@ -30,9 +30,9 @@ När enkel inloggning är aktiverad kan IdP validera användarens inloggningsupp
 ## Skicka begäran {#how-to-send-the-request}
 
 * Skicka SSO-begäran, som är ett SAML-svar, till `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
-* Som SP:s målgrupps-URL. Använd [http://saml.marketo.com/sp](http://saml.marketo.com/sp)
-* Om du använder SPNameQualifier-attributet anger du [http://saml.marketo.com/sp](http://saml.marketo.com/sp) för NameID-elementet för Subject
-* Om du federerar flera Marketo-prenumerationer till samma SSO-leverantör kan du använda unika SP-URL:er för varje Marketo-underordnad med formatet `http://saml.marketo.com/sp/<munchkin_id>`
+* Som SP:s målgrupps-URL. Använd [https://saml.marketo.com/sp](https://saml.marketo.com/sp)
+* Om du använder SPNameQualifier-attributet anger du [https://saml.marketo.com/sp](https://saml.marketo.com/sp) för NameID-elementet för Subject
+* Om du federerar flera Marketo-prenumerationer till samma SSO-leverantör kan du använda unika SP-URL:er för varje Marketo-underordnad med formatet `https://saml.marketo.com/sp/<munchkin_id>`
 
 >[!NOTE]
 >
