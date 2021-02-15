@@ -3,7 +3,7 @@ unique-page-id: 2951040
 description: Versionsinformation -juli 2014 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -juli 2014
 translation-type: tm+mt
-source-git-commit: 975e048271dae6a877ae9ff5d39360b159afcc8a
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Förutom den marknadsföringskalender du hanterar dina evenemang och standardpro
 
 ## Lista åtgärder i ReST API {#list-operations-in-the-rest-api}
 
-Vi har lagt till anropen nedan som rör liståtgärder i ReST. Mer information finns i [developers.marketo.com](http://developers.marketo.com/documentation/rest/).
+Vi har lagt till anropen nedan som rör liståtgärder i ReST. Mer information finns i [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
 
 * Hämta lista efter ID
 * Hämta flera listor
@@ -78,7 +78,7 @@ RTP Set Campaign-sidan [innehåller nu färdiga mallar](/help/marketo/product-do
 
 ## RTP: Förbättringar i JavaScript API {#rtp-javascript-api-enhancements}
 
-Nytt RTP API-anrop för att få besöksdata i realtid, som organisation, bransch, plats och segmentkodsmatchning. Om du håller markören över ett segmentnamn på segmentsidan visas dessutom ett verktygstips som visar segmentkoden. Mer information finns på vår [utvecklarwebbplats](http://developers.marketo.com/documentation/websites/rtp-js-api/).
+Nytt RTP API-anrop för att få besöksdata i realtid, som organisation, bransch, plats och segmentkodsmatchning. Om du håller markören över ett segmentnamn på segmentsidan visas dessutom ett verktygstips som visar segmentkoden. Mer information finns på vår [utvecklarwebbplats](https://developers.marketo.com/documentation/websites/rtp-js-api/).
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
