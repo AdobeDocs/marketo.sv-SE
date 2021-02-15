@@ -3,9 +3,9 @@ unique-page-id: 30081318
 description: Ansluta till en grupp - Marketo Docs - Produktdokumentation
 title: Ansluta till en grupp
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ Lär dig hur du skickar ett e-postmeddelande till en hel grupp eller lägger til
 
    >[!NOTE]
    >
-   >Du kan se ett alternativ för att lägga till i en Marketo Campaign. [Det är en annan artikel](http://docs.marketo.com/x/CwDh).
+   >Du kan se ett alternativ för att lägga till i en Marketo Campaign. [Det är en annan artikel](/help/marketo/product-docs/marketo-sales-connect/campaigns/add-to-marketing-campaign.md).
 
 1. Välj en kampanj (du kan välja en kategori för att begränsa resultaten) och klicka på **Nästa**.
 
@@ -60,4 +60,3 @@ Lär dig hur du skickar ett e-postmeddelande till en hel grupp eller lägger til
 1. Schemalägg kampanjen och klicka på **Start**.
 
    ![](assets/nine-1.png)
-
