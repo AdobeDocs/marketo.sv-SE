@@ -3,9 +3,9 @@ unique-page-id: 3571737
 description: Installera och konfigurera Marketo Sales Insight i Microsoft Dynamics 2013 - Marketo Docs - produktdokumentation
 title: Installera och konfigurera Marketo Sales Insight i Microsoft Dynamics 2013
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '442'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Marketo Sales Insight är ett fantastiskt verktyg för att ge säljteamet ett&qu
 
 >[!PREREQUISITES]
 >
->Slutför din [Marketo-Microsoft-integrering](http://docs.marketo.com/x/EIA2).
+>Slutför er Marketo-Microsoft-integrering.
 >
->[Hämta rätt ](http://docs.marketo.com/x/LoJo) lösning för din version av Microsoft Dynamics CRM.
+>[Hämta rätt ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) lösning för din version av Microsoft Dynamics CRM.
 
 ## Importera lösning {#import-solution}
 
@@ -38,9 +38,6 @@ OK, nu är det dags att importera Marketo Sales Insight-lösningen till Microsof
    ![](assets/image2014-12-12-9-3a5-3a17.png)
 
    >[!NOTE]
-   >
-   >**Påminnelse**
-   >
    >
    >Du bör redan ha installerat och konfigurerat Marketo innan du går vidare
 
@@ -92,7 +89,7 @@ Låt oss knyta din Marketo-instans till Sales Insight i Dynamics.
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
-1. Kopiera **Marketo Host**, **API URL** och **API User Id** för användning i ett senare steg. Ange en **API-hemlig nyckel** och klicka på **SPARA**.
+1. Kopiera **Marketo Host**, **API URL** och **API User Id** för användning i ett senare steg. Ange en **API-hemlig nyckel** och klicka på **Spara**.
 
    >[!CAUTION]
    >
@@ -102,17 +99,14 @@ Låt oss knyta din Marketo-instans till Sales Insight i Dynamics.
 
    >[!NOTE]
    >
-   >Följande fält måste synkroniseras med Marketo för *både Lead och Contact* för att Sales Insight ska fungera:
+   >Följande fält måste synkroniseras med Marketo för _både Lead och Contact_ för att Sales Insight ska fungera:
    >
-   >    
-   >    
-   >    * Prioritet
-   >    * Akut
-   >    * Relativa poäng
+   >* Prioritet
+   >* Akut
+   >* Relativa poäng
 
-   >    
-   >    
-   >Om något av dessa fält saknas visas ett felmeddelande i Marketo med namnet på de fält som saknas. Utför [den här proceduren](../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md) för att åtgärda detta.
+   >
+   >Om något av dessa fält saknas visas ett felmeddelande i Marketo med namnet på de fält som saknas. Utför [den här proceduren](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md) för att åtgärda detta.
 
 1. Gå tillbaka i Microsoft Dynamics till **Inställningar**.
 
@@ -158,5 +152,4 @@ Du har nu låst upp kraften i Marketo Sales Insight för ditt säljteam.
 
 >[!MORELIKETHIS]
 >
->[Stjärnor och flamma för lead-/kontaktposter](http://docs.marketo.com/x/BICMAg)
-
+>[Stjärnor och flamma för lead-/kontaktposter](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
