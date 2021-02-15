@@ -3,7 +3,7 @@ unique-page-id: 2360350
 description: Skapa en anpassad tjänst för användning med ReST API - Marketo Docs - produktdokumentation
 title: Skapa en anpassad tjänst för användning med ReST API
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Om du vill integrera med Marketo via ReST API:t måste du skapa en anpassad tjä
 
 >[!TIP]
 >
->Läs dokumentationen till våra utvecklare för mer information om [ReST API](http://developers.marketo.com/documentation/rest/). Vi har också [SOAP API](http://developers.marketo.com/documentation/soap/) om det är det du behöver.
+>Läs dokumentationen till våra utvecklare för mer information om [ReST API](https://developers.marketo.com/documentation/rest/). Vi har också [SOAP API](https://developers.marketo.com/documentation/soap/) om det är det du behöver.
 
 >[!NOTE]
 >
