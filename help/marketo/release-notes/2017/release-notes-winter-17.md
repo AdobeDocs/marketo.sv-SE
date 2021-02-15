@@ -3,7 +3,7 @@ unique-page-id: 12255606
 description: Versionsinformation -vinter '17 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -vinter '17
 translation-type: tm+mt
-source-git-commit: 8c4f0985e11ed85a9f696ac2ff89c089aa9184c3
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Grundläggande matchning använder endast e-postadresser, men i ny avancerad mat
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
-## [API för anpassad objektimport](http://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
+## [API för anpassad objektimport](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
 
 Detta API ger ett snabbare gränssnitt för att synkronisera anpassade objekt till Marketo. Du kan importera CSV-, TSV- eller SSV-kalkylbladsfiler till Marketo som anpassade objekt.
 
@@ -37,7 +37,7 @@ Exportera all information och alla analyser i webbkampanjen i ett CSV-format. Se
 
 ![](assets/web-personalization-csv-download-hand.png)
 
-## [Lokalisering](http://docs.marketo.com/display/docs/web+personalization) {#localization}
+## [Lokalisering](https://docs.marketo.com/display/docs/web+personalization) {#localization}
 
 Apparna Webbpersonalisering, Predictive Content och Email Insights finns nu på japanska, tyska och spanska. Du [väljer språk och språk](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) för att visa ditt innehåll på dessa språk.
 
@@ -71,7 +71,7 @@ Analys av filterprediktivt innehåll för specifika källor - e-post, multimedia
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**[Predictive Content Editor](http://docs.marketo.com/display/docs/edit+predictive+content)**
+**[Predictive Content Editor](https://docs.marketo.com/display/docs/edit+predictive+content)**
 
 Det finns en förbättrad redigeringsupplevelse och layout som delar upp innehållsförberedelser efter källa - e-post, multimedia eller rekommendationsfält.
 
@@ -81,7 +81,7 @@ Det finns en förbättrad redigeringsupplevelse och layout som delar upp innehå
 
 Bild-URL och metadata används nu i processen för automatisk identifiering av innehåll.
 
-## [SDK-förbättringar](http://developers.marketo.com/mobile/) {#sdk-enhancements}
+## [SDK-förbättringar](https://developers.marketo.com/mobile/) {#sdk-enhancements}
 
 Utvecklare har nu ytterligare kontroll över leveransen av push-meddelanden med ett nytt SDK API-anrop som gör att utvecklare kan ta bort push-tokens.
 
