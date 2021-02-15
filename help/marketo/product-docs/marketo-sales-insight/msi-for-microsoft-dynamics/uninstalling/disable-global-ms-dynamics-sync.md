@@ -3,9 +3,9 @@ unique-page-id: 37355596
 description: Inaktivera global MS Dynamics Sync - Marketo Docs - Produktdokumentation
 title: Inaktivera global MS Dynamics-synkronisering
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,4 @@ Följ de här enkla stegen för att inaktivera MS Dynamics-synkroniseringen.
 
    >[!NOTE]
    >
-   >Om du inte ser knappen Inaktivera synkronisering i din instans kontaktar du [Marketo Support](http://nation.marketo.com/community/support_solutions).
-
+   >Om du inte ser knappen Inaktivera synkronisering i din instans kontaktar du [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
