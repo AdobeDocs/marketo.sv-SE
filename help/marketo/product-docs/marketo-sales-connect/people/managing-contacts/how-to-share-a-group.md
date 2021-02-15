@@ -3,7 +3,7 @@ unique-page-id: 14352511
 description: Dela en grupp - Marketo Docs - Produktdokumentation
 title: Dela en grupp
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Det är enkelt att dela en grupp leads eller kontakter med ditt team i Sales Con
 
    ![](assets/two-1.png)
 
-1. Klicka på knappen* Gruppera åtgärder** och välj **Dela grupp**.
+1. Klicka på knappen **Gruppera åtgärder** och välj **Dela grupp**.
 
    ![](assets/three-1.png)
 
@@ -34,4 +34,3 @@ Det är enkelt att dela en grupp leads eller kontakter med ditt team i Sales Con
 1. Klicka på **Dela**.
 
    ![](assets/five-1.png)
-
