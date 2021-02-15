@@ -3,7 +3,7 @@ unique-page-id: 2359996
 description: Sortera rapport om kolumner - Marketo Docs - Produktdokumentation
 title: Sortera rapport efter kolumner
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -44,5 +44,5 @@ Använd kolumner för att sortera data i rapporten och göra de viktigaste siffr
    >**Djupdykning**
    >
    >
-   >Lär dig allt du kan göra med rapporter i [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
+   >Lär dig allt du kan göra med rapporter i [Grundläggande rapportering](https://docs.marketo.com/display/docs/basic+reporting).
 
