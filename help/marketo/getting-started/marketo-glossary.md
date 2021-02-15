@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo Glossary - Marketo Docs - Produktdokumentation
 title: Marketo-ordlista
 translation-type: tm+mt
-source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -431,7 +431,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
  </tbody> 
 </table>
 
-## K {#i}
+## I {#i}
 
 <table> 
  <colgroup> 
@@ -456,7 +456,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Känd person</strong></a></td> 
-   <td><p>Alla persondata i Marketo <strong>databasen</strong> betraktas som kända persondata. Det finns flera olika sätt att ange databasen: CRM-synkronisering, fylla i ett formulär, ange import/manuell inmatning, programmatisk (övriga API-/partnerintegrationer) med mera. Webbbesökare är inledningsvis <strong>cookiekodade</strong> (och anonyma) via Marketos <strong>Munchkin</strong>-webbspårning och mappas sedan till motsvarande kända personpost när identifierbara åtgärder inträffar (t.ex. klickade på en spårad länk i ett Marketo-e-postmeddelande, fyllde i ett formulär med deras e-postadress eller mappas manuellt via Marketto-API:n i Marketch via Marketto-API:n finns i både <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a> och <a href="http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/AssociateLeadUsingPOST">Rest API</a></p></td> 
+   <td><p>Alla persondata i Marketo <strong>databasen</strong> betraktas som kända persondata. Det finns flera olika sätt att ange databasen: CRM-synkronisering, fylla i ett formulär, ange import/manuell inmatning, programmatisk (övriga API-/partnerintegrationer) med mera. Webbbesökare är inledningsvis <strong>cookiekodade</strong> (och anonyma) via Marketos <strong>Munchkin</strong>-webbspårning och mappas sedan till motsvarande kända personpost när identifierbara åtgärder inträffar (t.ex. klickade på en spårad länk i ett Marketo-e-postmeddelande, fyllde i ett formulär med deras e-postadress eller mappas manuellt via Marketto-API:n i Marketch via Marketto-API:n finns i både <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a> och <a href="https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/AssociateLeadUsingPOST">Rest API</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -555,7 +555,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
    <td>Kallas även MSD. En av de två CRM:erna Marketo har en inbyggd integrering med (se <a href="#c"><strong>CRM</strong></a>).</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="http://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">Munchkin</a></strong></td> 
+   <td><strong><a href="https://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">Munchkin</a></strong></td> 
    <td>Marketos anpassade JavaScript-spårningskod. Här spåras alla personer som besöker er webbplats. Detta inkluderar anonyma besökare (tillsammans med deras IP-adresser och annan information). </td> 
   </tr> 
   <tr> 
@@ -759,7 +759,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
    <td colspan="1"><p>En autentiseringsmekanism som identifierar de e-postservrar som tillåts skicka e-post för en specifik domän.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="http://docs.marketo.com/x/oA8t" rel="nofollow"><strong>Smart Campaign</strong></a></td> 
+   <td colspan="1"><a href="https://docs.marketo.com/x/oA8t" rel="nofollow"><strong>Smart Campaign</strong></a></td> 
    <td colspan="1">Ett av de viktigaste verktygen i Marketo. De utför åtgärder som du anger baserat på kriterier som du bestämmer. (se även <strong><a href="#b">Gruppkampanj</a></strong> och <strong><a href="#t">Utlös kampanj</a></strong>)</td> 
   </tr> 
   <tr> 
