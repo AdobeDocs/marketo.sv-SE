@@ -3,9 +3,9 @@ unique-page-id: 42762514
 description: Insights Dashboard Feature Overview - Marketo Docs - produktdokumentation
 title: Översikt över funktionen Insikt i instrumentpanelen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '1465'
+source-wordcount: '1460'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Läs mer om de funktioner som finns på kontrollpanelen för försäljningsinsik
 
 >[!PREREQUISITES]
 >
->Du måste ha det senaste MSI SFDC-paketet och [konfigurationen](http://docs.marketo.com/x/F4GMAg).
+>Du måste ha det senaste MSI SFDC-paketet och [konfigurationen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md).
 
 ![](assets/one.png)
 
@@ -43,7 +43,7 @@ Läs mer om de funktioner som finns på kontrollpanelen för försäljningsinsik
 
 Fliken E-postkampanjer:
 
-* Inkluderar kampanjer som är en del av e-postprogram eller standardprogram som planeras inom de kommande 90 dagarna
+* Inkluderar kampanjer som ingår i e-postprogram eller standardprogram som är schemalagda inom de kommande 90 dagarna
 * Inte specifikt för kontakten/leadet (dvs. listan över kampanjer är en allmän lista över alla e-postkampanjer som är schemalagda i Marketo-instansen). Listan över kampanjer för alla lead-, kontakt-, konto- och affärsmöjlighetspaneler blir densamma
 * Om kampanjen upprepas mer än tre gånger under de kommande 90 dagarna visas bara de tre efterföljande omgångarna vid en given tidpunkt (liknande beteendet i Marketo)
 * Aktivitetsinformationskortet i det här avsnittet har ett förhandsvisningsalternativ. Om flödet innehåller flera skicka-e-poststeg är alla e-postmeddelanden tillgängliga för förhandsgranskning. Om det finns flera&quot;e-postalternativ&quot; i skicka-e-postflödessteget är standardalternativet tillgängligt för förhandsgranskning
@@ -84,7 +84,7 @@ Fliken Händelse:
 
 Fliken E-postkampanjer:
 
-* Inkluderar kampanjer som är en del av e-postprogram eller standardprogram som planeras inom de kommande 90 dagarna
+* Inkluderar kampanjer som ingår i e-postprogram eller standardprogram som är schemalagda inom de kommande 90 dagarna
 * Inte specifikt för kontakten/leadet (dvs. listan över kampanjer är en allmän lista över alla e-postkampanjer som är schemalagda i Marketo-instansen). Listan över kampanjer för alla lead-, kontakt-, konto- och affärsmöjlighetspaneler blir densamma
 * Om kampanjen upprepas mer än tre gånger under de kommande 90 dagarna visas bara de tre efterföljande omgångarna vid en given tidpunkt (liknande beteendet i Marketo)
 * Aktivitetsinformationskortet i det här avsnittet har ett förhandsvisningsalternativ. Om flödet innehåller flera skicka-e-poststeg är alla e-postmeddelanden tillgängliga för förhandsgranskning. Om det finns flera&quot;e-postalternativ&quot; i skicka-e-postflödessteget är standardalternativet tillgängligt för förhandsgranskning
@@ -124,7 +124,7 @@ Fliken Händelse:
 
 Fliken E-postkampanjer:
 
-* Inkluderar kampanjer som är en del av e-postprogram eller standardprogram som planeras inom de kommande 90 dagarna
+* Inkluderar kampanjer som ingår i e-postprogram eller standardprogram som är schemalagda inom de kommande 90 dagarna
 * Inte specifikt för kontakten/leadet (dvs. listan över kampanjer är en allmän lista över alla e-postkampanjer som är schemalagda i Marketo-instansen). Listan över kampanjer för alla lead-, kontakt-, konto- och affärsmöjlighetspaneler blir densamma
 * Om kampanjen upprepas mer än tre gånger under de kommande 90 dagarna visas bara de tre efterföljande omgångarna vid en given tidpunkt (liknande beteendet i Marketo)
 * Aktivitetsinformationskortet i det här avsnittet har ett förhandsvisningsalternativ. Om flödet innehåller flera skicka-e-poststeg är alla e-postmeddelanden tillgängliga för förhandsgranskning. Om det finns flera&quot;e-postalternativ&quot; i skicka-e-postflödessteget är standardalternativet tillgängligt för förhandsgranskning
@@ -158,7 +158,7 @@ Fliken Händelse:
 
 **Kommande fliken E-postkampanjer och** evenemangE-postkampanjer:
 
-* Inkluderar kampanjer som är en del av e-postprogram eller standardprogram som planeras inom de kommande 90 dagarna
+* Inkluderar kampanjer som ingår i e-postprogram eller standardprogram som är schemalagda inom de kommande 90 dagarna
 * Inte specifikt för kontakten/leadet (dvs. listan över kampanjer är en allmän lista över alla e-postkampanjer som är schemalagda i Marketo-instansen). Listan över kampanjer för alla lead-, kontakt-, konto- och affärsmöjlighetspaneler blir densamma
 * Om kampanjen upprepas mer än tre gånger under de kommande 90 dagarna visas bara de tre efterföljande omgångarna vid en given tidpunkt (liknande beteendet i Marketo)
 * Aktivitetsinformationskortet i det här avsnittet har ett förhandsvisningsalternativ. Om flödet innehåller flera skicka-e-poststeg är alla e-postmeddelanden tillgängliga för förhandsgranskning. Om det finns flera&quot;e-postalternativ&quot; i skicka-e-postflödessteget är standardalternativet tillgängligt för förhandsgranskning
@@ -172,4 +172,3 @@ Fliken Händelse:
 * Om du väljer alla händelser visas en lista över händelser som schemalagts inom de kommande 90 dagarna
 * Kortet för aktivitetsinformation i det här avsnittet har förhandsvisningsalternativ
 * Filtret innehåller&quot;Sök&quot;,&quot;Visa endast inbjudna händelser&quot; och&quot;Datumintervall&quot;
-
