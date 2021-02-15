@@ -3,7 +3,7 @@ unique-page-id: 18317369
 description: Visa malllistan som en annan användare - Marketo Docs - Produktdokumentation
 title: Visa malllista som en annan användare
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -34,4 +34,3 @@ Som administratör kan du visa mallar som alla användare.
    >[!NOTE]
    >
    >Du kan också använda filter eller sökfunktionen tillsammans med Visa som för att visa vad som är viktigast för dig.
-
