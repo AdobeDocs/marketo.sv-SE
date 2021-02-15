@@ -3,7 +3,7 @@ unique-page-id: 2951095
 description: Versionsinformation -juni 2013 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -juni 2013
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Versionsinformation: Juni 2013 {#release-notes-june}
 
-Följande funktioner finns i juniversionen. Kontrollera din [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) för att se om det finns funktioner.
+Följande funktioner finns i juniversionen. Kontrollera din [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php) för att se om det finns funktioner.
 
 Efter releasen ska du kontrollera fliken [New Release](release-notes-december-2013.md) i communityn för detaljerade kunskapsbasartiklar för varje funktion!
 
