@@ -3,7 +3,7 @@ unique-page-id: 2360366
 description: Steg 3 av 3 - Connect Marketo och Salesforce (Enterprise/Unlimited) - Marketo Docs - Produktdokumentation
 title: Steg 3 av 3 - Connect Marketo och Salesforce (Enterprise/Unlimited)
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '405'
 ht-degree: 0%
@@ -43,7 +43,7 @@ I den här artikeln konfigurerar du Marketo att synkronisera med din konfigurera
 
 ## Ange synkroniseringsanvändarautentiseringsuppgifter {#set-sync-user-credentials}
 
-1. I Marketo går du till **Admin**, väljer **CRM** och klickar på **Synkronisera med [Salesforce.com](http://Salesforce.com)**
+1. I Marketo går du till **Admin**, väljer **CRM** och klickar på **Synkronisera med [Salesforce.com](https://Salesforce.com)**
 
    ![](assets/image2014-12-9-9-3a52-3a58.png)
 
@@ -87,7 +87,7 @@ I den här artikeln konfigurerar du Marketo att synkronisera med din konfigurera
 
 ## Verifiera synkronisering {#verify-sync}
 
-Marketo tillhandahåller statusmeddelanden för Salesforce-synkronisering i administrationsområdet. Du kan kontrollera att synkroniseringen fungerar som den ska genom att följa de här stegen.
+Marketo tillhandahåller statusmeddelanden för Salesforce-synkronisering i administrationsområdet. Du kan kontrollera att synkroniseringen fungerar som den ska genom att följa dessa steg.
 
 1. I Marketo klickar du på **Admin** och sedan **Salesforce**.
 
