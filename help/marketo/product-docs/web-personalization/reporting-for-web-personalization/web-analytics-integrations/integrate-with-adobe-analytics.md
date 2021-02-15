@@ -3,7 +3,7 @@ unique-page-id: 2949160
 description: Integrera med Adobe Analytics - Marketo Docs - produktdokumentation
 title: Integrera med Adobe Analytics
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1130'
 ht-degree: 0%
@@ -64,8 +64,8 @@ Gör så här för att konfigurera dessa variabler i AA:
 
 1. Gå till **Admin Tools** i ditt AA-konto.
 1. Välj **Report Suite** som ska användas med integreringen.
-1. Under **Redigera inställningar,** går du till **Konvertering** och väljer ** [Konverteringsvariabler](http://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
-   Välj [Konverteringsvariabel](http://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) (vi rekommenderar):
+1. Under **Redigera inställningar,** går du till **Konvertering** och väljer ** [Konverteringsvariabler](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
+   Välj [Konverteringsvariabel](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) (vi rekommenderar):
 
    1. 
 
@@ -82,7 +82,7 @@ Gör så här för att konfigurera dessa variabler i AA:
 
          1. Ändra fältet Förfaller efter till **Besök.**
 
-1. Under **Redigera inställningar **går du till** Konvertering **och väljer ** [Slutförda händelser](http://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
+1. Under **Redigera inställningar **går du till** Konvertering **och väljer ** [Slutförda händelser](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
 
 1. Välj ett anpassat händelsenummer för lyckade händelser (vi rekommenderar):
 
@@ -97,7 +97,7 @@ Gör så här för att konfigurera dessa variabler i AA:
 
 1. Välj fältet Typ* *som **Räknare (inga underrelationer)**
 
-1. Under **Redigera inställningar** går du till ** [Trafik](http://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **och väljer ** [Trafikvariabler](http://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
+1. Under **Redigera inställningar** går du till ** [Trafik](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **och väljer ** [Trafikvariabler](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
 
    1. Välj egenskapsnumret för trafikvariabeln (vi rekommenderar):
 
@@ -183,13 +183,13 @@ Exempel på anpassade rapporter och kontrollpaneler i AA är:
 
 **Skapa RTP-instrumentpanelen**
 
-Skapa en [ny instrumentpanel](http://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html) med namnet **RTP-instrumentpanel**. Den här instrumentpanelen hjälper dig att förstå hur besökarna delas upp efter vertikala linjer och RTP-segment.
+Skapa en [ny instrumentpanel](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html) med namnet **RTP-instrumentpanel**. Den här instrumentpanelen hjälper dig att förstå hur besökarna delas upp efter vertikala linjer och RTP-segment.
 
 1. Klicka på **Kontrollpanel,** klicka** Lägg till kontrollpanel**
 
 1. Namnge instrumentpanelen **RTP-instrumentpanelen**
 1. Välj storleken **på kontrollpanelen** 3 x 2, 2 x 2
-1. Skapa [rapportleten](http://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) och lägg till [innehåll på kontrollpanelen](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard)
+1. Skapa [rapportleten](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) och lägg till [innehåll på kontrollpanelen](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard)
 
 Lägga till branschrapporten på kontrollpanelen
 
