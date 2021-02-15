@@ -3,7 +3,7 @@ unique-page-id: 14352436
 description: Telefon, lokal närvaro - Marketo Docs - Produktdokumentation
 title: Lokal telefonnärvaro
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Nej, lokal närvaro fungerar bara för utgående samtal. Anroparen kan inte ring
 
 Vi erbjuder all telefonfunktionalitet för försäljning endast för samtal i USA.
 
-**Är det lokala visningsnumret alltid detsamma när jag anropar en riktnummer? **
+**Är det lokala visningsnumret alltid detsamma när jag anropar en riktnummer?**
 
 Talet är troligtvis alltid detsamma när du anropar en riktnummer.
 
