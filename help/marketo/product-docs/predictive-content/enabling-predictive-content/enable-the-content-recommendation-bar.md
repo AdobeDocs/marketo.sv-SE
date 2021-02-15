@@ -3,7 +3,7 @@ unique-page-id: 4720108
 description: Aktivera innehållsrekommendationsfältet - Marketo Docs - produktdokumentation
 title: Aktivera innehållsrekommendationsfältet
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Innehållsrekommendationsmotorn använder prediktiva analyser och maskininlärni
 >
 >Innan du aktiverar prediktivt innehåll måste du:
 >
->* [Förbered ditt prediktiva innehåll](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [Förbered ditt prediktiva innehåll](https://docs.marketo.com/display/docs/edit+predictive+content)
 >* [Godkänn en titel för prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
@@ -46,7 +46,7 @@ Innehållsrekommendationsmotorn använder prediktiva analyser och maskininlärni
    >**Inkludera/exkludera visnings-URL**
    >
    >    * URL för visning ska vara domänens sökväg
-   >    * Ta inte med http:// eller https://
+   >    * Ta inte med https:// eller https://
    >    * Använd * för jokertecken
    * Använda ett semikolon som avgränsare
    * Exempel: /contact_us*; *action=log*
