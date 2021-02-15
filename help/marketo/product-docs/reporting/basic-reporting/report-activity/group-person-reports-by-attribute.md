@@ -3,7 +3,7 @@ unique-page-id: 2360199
 description: Group Person Reports by Attribute - Marketo Docs - produktdokumentation
 title: Gruppera personrapporter efter attribut
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Gruppera personrapporter efter attribut {#group-person-reports-by-attribute}
 
-Du kan gruppera dina [personrapporter](http://docs.marketo.com/display/docs/basic+reporting) efter vilket person- eller företagsattribut du vill.
+Du kan gruppera dina [personrapporter](https://docs.marketo.com/display/docs/basic+reporting) efter vilket person- eller företagsattribut du vill.
 
 1. Gå till **Marknadsföringsaktiviteter** (eller **Analytics**).
 
@@ -48,7 +48,7 @@ Du kan gruppera dina [personrapporter](http://docs.marketo.com/display/docs/basi
    >**Djupdykning**
    >
    >
-   >Läs mer om personrapporter och andra rapporttyper i [Enkel rapportering](http://docs.marketo.com/display/docs/basic+reporting)djupdykning.
+   >Läs mer om personrapporter och andra rapporttyper i [Enkel rapportering](https://docs.marketo.com/display/docs/basic+reporting)djupdykning.
 
    >[!MORELIKETHIS]
    >
