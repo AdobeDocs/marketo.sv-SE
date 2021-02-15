@@ -3,7 +3,7 @@ unique-page-id: 2360389
 description: Gör ett program utan periodkostnad tillgängligt i Intresseutforskaren och analytiker - Marketo Docs - Produktdokumentation
 title: Gör ett program utan periodkostnad tillgängligt i Intäktsutforskaren och analytiker
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Gör ett program utan periodkostnad tillgängligt i intäktsutforskaren och analytiker {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
-Med Periodkostnader kan du definiera&quot;Hur mycket pengar&quot; och&quot;När&quot; för ett program. Detta visas i [utforskaren av intäktscykel](http://docs.marketo.com/display/docs/revenue+cycle+analytics) och [analysatorer](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
+Med Periodkostnader kan du definiera&quot;Hur mycket pengar&quot; och&quot;När&quot; för ett program. Detta visas i [utforskaren av intäktscykel](https://docs.marketo.com/display/docs/revenue+cycle+analytics) och [analysatorer](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
 
 >[!NOTE]
 >
