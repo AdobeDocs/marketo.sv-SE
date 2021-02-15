@@ -3,7 +3,7 @@ unique-page-id: 2360030
 description: Ta bort en rapport - Marketo Docs - Produktdokumentation
 title: Ta bort en rapport
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -30,5 +30,5 @@ När du börjar [skapa rapporter](../../../../product-docs/reporting/basic-repor
    >**Djupdykning**
    >
    >
-   >Se alla andra saker du kan göra med rapporter i djupdykningen [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
+   >Se alla andra saker du kan göra med rapporter i djupdykningen [Grundläggande rapportering](https://docs.marketo.com/display/docs/basic+reporting).
 
