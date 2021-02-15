@@ -3,7 +3,7 @@ unique-page-id: 30081307
 description: People page columns - Marketo Docs - Product Documentation
 title: Sidkolumner för personer
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -131,4 +131,3 @@ Du kan anpassa vilken kontaktinformation du ser genom att välja vilka kolumner 
   </tr> 
  </tbody> 
 </table>
-
