@@ -3,9 +3,9 @@ unique-page-id: 3571735
 description: Installera och konfigurera Marketo Sales Insight i Microsoft Dynamics 2011 - Marketo Docs - produktdokumentation
 title: Installera och konfigurera Marketo Sales Insight i Microsoft Dynamics 2011
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Marketo Sales Insight är ett fantastiskt verktyg för ert säljteam. Här följ
 
 >[!PREREQUISITES]
 >
->Slutför din [Marketo-Microsoft-integrering](http://docs.marketo.com/x/DoA2).
+>Slutför er Marketo-Microsoft-integrering.
 >
->[Hämta rätt ](http://docs.marketo.com/x/LoJo) lösning för din version av Microsoft Dynamics CRM.
+>[Hämta rätt ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) lösning för din version av Microsoft Dynamics CRM.
 
 ## Importera lösning {#import-solution}
 
@@ -37,12 +37,9 @@ Marketo Sales Insight är ett fantastiskt verktyg för ert säljteam. Här följ
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
-   >
-   >Du bör redan ha [installerat och konfigurerat](install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md) Marketo-lösningen innan du går vidare.
+   >Du bör redan ha [installerat och konfigurerat](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md) Marketo-lösningen innan du går vidare.
 
-1. Klicka på **Bläddra**. Välj Marketo Sales Insight-lösningen som du [hämtade](download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md). Klicka på **Nästa**.
+1. Klicka på **Bläddra**. Välj Marketo Sales Insight-lösningen som du [hämtade](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md). Klicka på **Nästa**.
 
    ![](assets/image2015-5-4-10-3a55-3a15.png)
 
@@ -80,11 +77,11 @@ Marketo Sales Insight är ett fantastiskt verktyg för ert säljteam. Här följ
 
    ![](assets/image2014-12-12-9-3a6-3a50.png)
 
-1. Under avsnittet **Sales Insight **klickar du på **Redigera API-konfiguration**.
+1. Klicka på **Redigera API-konfiguration** under **Sales Insight**.
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
-1. Kopiera **Marketo Host**, **API URL** och **API User Id** för användning i ett senare steg. Ange en **API-hemlig nyckel** och klicka på **SPARA**.
+1. Kopiera **Marketo Host**, **API URL** och **API User Id** för användning i ett senare steg. Ange en **API-hemlig nyckel** och klicka på **Spara**.
 
    >[!CAUTION]
    >
@@ -94,17 +91,14 @@ Marketo Sales Insight är ett fantastiskt verktyg för ert säljteam. Här följ
 
    >[!NOTE]
    >
-   >Följande fält måste synkroniseras med Marketo för *både Lead och Contact* för att Sales Insight ska fungera:
+   >Följande fält måste synkroniseras med Marketo för _både Lead och Contact_ för att Sales Insight ska fungera:
    >
-   >    
-   >    
-   >    * Prioritet
-   >    * Akut
-   >    * Relativa poäng
+   >* Prioritet
+   >* Akut
+   >* Relativa poäng
 
-   >    
-   >    
-   >Om något av dessa fält saknas visas ett felmeddelande i Marketo med namnet på de fält som saknas. Utför [den här proceduren](../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md) för att åtgärda detta.
+   >
+   >Om något av dessa fält saknas visas ett felmeddelande i Marketo med namnet på de fält som saknas. Utför [den här proceduren](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md) för att åtgärda detta.
 
 1. Gå tillbaka till Dynamics och välj **Inställningar**.
 
@@ -122,11 +116,9 @@ Marketo Sales Insight är ett fantastiskt verktyg för ert säljteam. Här följ
 
    ![](assets/image2015-5-4-11-3a27-3a16.png)
 
-1. Klicka på **Spara.**
+1. Klicka på **Spara**.
 
-   ** ![](assets/image2015-5-4-11-3a28-3a13.png)
-
-   **
+   ![](assets/image2015-5-4-11-3a28-3a13.png)
 
 ## Ange användaråtkomst {#set-user-access}
 
@@ -160,5 +152,4 @@ Konfigurera användarroller för att ge specifika användare åtkomst till Sales
 
 >[!MORELIKETHIS]
 >
->[Stjärnor och flamma för lead-/kontaktposter](http://docs.marketo.com/x/BICMAg)
-
+>[Stjärnor och flamma för lead-/kontaktposter](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
