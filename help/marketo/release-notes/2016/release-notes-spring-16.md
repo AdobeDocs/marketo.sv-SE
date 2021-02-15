@@ -3,7 +3,7 @@ unique-page-id: 11370952
 description: Versionsinformation -Spring '16 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - våren 16
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '837'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Följande funktioner finns i vårutgåvan 16. Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion.
 
-## [E-postinsikter](http://docs.marketo.com/display/docs/email+insights) {#email-insights}
+## [E-postinsikter](https://docs.marketo.com/display/docs/email+insights) {#email-insights}
 
 E-postinsikter är en helt ny historik över e-postanalyser av sammanställda data - helt omdesignade för blixtsnabba prestanda som en del av Project Orion. Den har ett helt nytt användargränssnitt som är optimerat för att passa e-postmarknadsförarnas behov och arbetsflöde.
 
@@ -49,15 +49,15 @@ Skapa fantastiska meddelanden i appen för er app direkt inifrån Marketo. Defin
 
 ## [Inga utkast](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md) {#no-draft-snippets}
 
-Nu är det dags att omgodkänna allt varje gång ett textutdrag uppdateras! Med No-Draft får alla e-postmeddelanden och landningssidor som använder ett utdrag kodfragmentsuppdateringar och deras tidigare status bibehålls. Varje gång du godkänner ett fragment kan du välja att köra No-Draft och uppdatera allt eller skapa utkast. Det är upp till dig! No-Draft blir tillgängligt för alla kunder och styrs av ett nytt tillstånd i Admin.
+Nu är det dags att omgodkänna allt varje gång ett textutdrag uppdateras! Med No-Draft får alla e-postmeddelanden och landningssidor som använder ett utdrag kodfragmentsuppdateringar och behåller sina tidigare statusvärden. Varje gång du godkänner ett fragment kan du välja att köra No-Draft och uppdatera allt eller skapa utkast. Det är upp till dig! No-Draft blir tillgängligt för alla kunder och styrs av ett nytt tillstånd i Admin.
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 
-## [Anpassade aktiviteter](http://docs.marketo.com/display/docs/marketo+custom+activities) {#custom-activities}
+## [Anpassade aktiviteter](https://docs.marketo.com/display/docs/marketo+custom+activities) {#custom-activities}
 
 Marketo-administratörer kan nu definiera och hantera sina anpassade aktivitetstyper via Marketo Custom Activity Definition-modelleraren. På samma sätt som (och i kombination med) Marketo Custom Object Modeler kan administratörer nu utöka datamodellen för att passa just deras affärsbehov. Information om hur du använder den här funktionen finns på webbplatsen [Marketo documentation](https://docs.marketo.com/display/public/DOCS/Marketo+Custom+Activities).
 
-## [Landningssida, landningssidmall och formulär-API:er](http://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
+## [Landningssida, landningssidmall och formulär-API:er](https://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
 
 Marketo REST API:er har nu stöd för kontroll över Marketo-landningssidor, landningssidmallar och formulär. Användarna kan nu skapa, uppdatera, godkänna och ta bort dessa resurser direkt via Marketo REST API.
 
