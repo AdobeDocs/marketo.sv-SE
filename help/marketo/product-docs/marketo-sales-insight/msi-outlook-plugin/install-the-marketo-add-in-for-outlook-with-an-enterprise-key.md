@@ -3,7 +3,7 @@ unique-page-id: 11377488
 description: Installera tillägget Marketo för Outlook med en företagsnyckel - Marketo Docs - Produktdokumentation
 title: Installera Marketo-tillägget för Outlook med en företagsnyckel
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Många gånger har säljarna inte administratörsbehörighet på sina bärbara d
 
 >[!NOTE]
 >
->Om du inte ser knappen Visa företagsnyckel kontaktar du [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#1c6f696c6c736e685c717d6e77796873327f7371) för att aktivera den.
+>Om du inte ser knappen Visa företagsnyckel kontaktar du [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#1c6f696c6c736e685c717d6e77796873327f7371) för att aktivera den.
 
 1. I My Marketo klickar du på **Admin** och sedan **Sales Insight.**
 
