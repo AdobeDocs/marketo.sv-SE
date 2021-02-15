@@ -3,7 +3,7 @@ unique-page-id: 7511815
 description: Versionsinformation -April 2015 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -april 2015
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
@@ -29,9 +29,9 @@ Dessutom finns nu både privat och delad rapportorganisation tillgänglig. Skapa
 
 ## Marketo Mobile Engagement {#marketo-mobile-engagement}
 
-[Marketo Mobile Engagement](http://docs.marketo.com/display/docs/mobile+marketing)
+[Marketo Mobile Engagement](https://docs.marketo.com/display/docs/mobile+marketing)
 
-Med [Marketo Mobile Engagement](http://docs.marketo.com/display/docs/mobile+marketing) är det enkelt att leverera övertygande mobilupplevelser. Skapa personaliserade kampanjer som levererar övertygande innehåll utan att någonsin behöva förlita sig på ett apputvecklingsteam. Med nya filter och utlösare kan du lyssna och svara på mobilkanalen via push-meddelanden.
+Med [Marketo Mobile Engagement](https://docs.marketo.com/display/docs/mobile+marketing) är det enkelt att leverera övertygande mobilupplevelser. Skapa personaliserade kampanjer som levererar övertygande innehåll utan att någonsin behöva förlita sig på ett apputvecklingsteam. Med nya filter och utlösare kan du lyssna och svara på mobilkanalen via push-meddelanden.
 
 ![](assets/image2015-4-20-11-3a16-3a55.png)
 
@@ -51,8 +51,8 @@ Dina favoritfunktioner i Sales Insight - lead feed, best bets, intressanta stund
 
 ## RTP - kontobaserad marknadsanalys {#rtp-account-based-marketing-analytics}
 
-RTP - [Kontobaserad marknadsanalys](http://docs.marketo.com/pages/viewpage.action?pageid=7511515)
+RTP - [Kontobaserad marknadsanalys](https://docs.marketo.com/pages/viewpage.action?pageid=7511515)
 
-Få omedelbar synlighet av [prestandan för dina huvudlistor med namngivna konton](http://docs.marketo.com/pages/viewpage.action?pageid=7511515) baserat på varje fas i köpcykeln, med det nya prestandagrafen för listorna med namngivna konton. I diagrammet visas hur långt besöket från nyckelorganisationen har kommit, från medvetenhet till handling, baserat på antalet besök och besökarens status.
+Få omedelbar synlighet av [prestandan för dina huvudlistor med namngivna konton](https://docs.marketo.com/pages/viewpage.action?pageid=7511515) baserat på varje fas i köpcykeln, med det nya prestandagrafen för listorna med namngivna konton. I diagrammet visas hur långt besöket från nyckelorganisationen har kommit, från medvetenhet till handling, baserat på antalet besök och besökarens status.
 
 ![](https://lh3.googleusercontent.com/ZipQutmNTRxkWdr_zzdatg31w7xmQ0xkniez-qf2X784MO-0AoHfKE0ltYSeaHU73KxyZc3s0Oklfig_v6bpN7tKnrrX6hHcMs44RFgtUb1qOf_Y5uhKedyHi6tQv3KhUHaCmIc)
