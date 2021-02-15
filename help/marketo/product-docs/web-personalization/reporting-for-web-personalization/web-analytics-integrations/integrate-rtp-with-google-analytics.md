@@ -3,7 +3,7 @@ unique-page-id: 2949158
 description: Integrera RTP med Google Analytics - Marketo Docs - Produktdokumentation
 title: Integrera RTP med Google Analytics
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '614'
 ht-degree: 0%
@@ -66,7 +66,7 @@ Mät era RTP-kampanjer och korrelera dem med det övergripande genomsnittliga an
 
 ## Konfigurera RTP med Google Analytics {#setting-up-rtp-with-google-analytics}
 
-1. Lägg till e-postadressen [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b) som en Läs och analysera-användare till ditt GA-konto. Mer information finns i [här](https://support.google.com/analytics/answer/2884495?hl=en).
+1. Lägg till e-postadressen [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b) som en Läs och analysera-användare till ditt GA-konto. Mer information finns i [här](https://support.google.com/analytics/answer/2884495?hl=en).
 1. I ditt RTP-konto. Gå till **Kontoinställningar**.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
