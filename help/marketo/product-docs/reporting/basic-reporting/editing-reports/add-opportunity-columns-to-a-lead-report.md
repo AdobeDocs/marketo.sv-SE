@@ -3,7 +3,7 @@ unique-page-id: 2360018
 description: Lägg till säljprojektskolumner i en lead-rapport - Marketo Docs - produktdokumentation
 title: Lägg till säljprojektskolumner i en lead-rapport
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Lägg till säljprojektskolumner i en lead-rapport {#add-opportunity-columns-to-a-lead-report}
 
-Om du vill visa statistik om affärsmöjligheter i dina [personrapporter](http://docs.marketo.com/display/docs/basic+reporting) kan du lägga till kolumner för affärsmöjligheter.
+Om du vill visa statistik om affärsmöjligheter i dina [personrapporter](https://docs.marketo.com/display/docs/basic+reporting) kan du lägga till kolumner för affärsmöjligheter.
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
@@ -77,5 +77,5 @@ Om du vill visa statistik om affärsmöjligheter i dina [personrapporter](http:/
    >**Djupdykning**
    >
    >
-   >Se vad mer du kan göra med rapporter i djupdykningen [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
+   >Se vad mer du kan göra med rapporter i djupdykningen [Grundläggande rapportering](https://docs.marketo.com/display/docs/basic+reporting).
 
