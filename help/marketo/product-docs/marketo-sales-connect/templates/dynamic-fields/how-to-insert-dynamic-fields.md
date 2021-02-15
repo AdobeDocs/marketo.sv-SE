@@ -3,9 +3,9 @@ unique-page-id: 14352592
 description: Infoga dynamiska fält - Marketo Docs - Produktdokumentation
 title: Infoga dynamiska fält
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,12 @@ Du kan anpassa dina e-postmallar med fördefinierade attribut som `{{first_name}
 
 >[!TIP]
 >
->Fälten&quot;first_name&quot; och&quot;company&quot; är `only fields that will look to both Sales Connect and Salesforce.` Det innebär att om en kontakt inte finns i [webbprogrammet](http://toutapp.com/login), söker vi i Salesforce för att se om det går att hitta en kontakt-/lead-post med en matchande e-postadress. Vi använder sedan information från den posten för att fylla i fältet.
+>Fälten&quot;first_name&quot; och&quot;company&quot; är de enda fält som kommer att användas för både Sales Connect och Salesforce. Det innebär att om en kontakt inte finns i [webbprogrammet](https://toutapp.com/login) söker vi i Salesforce för att se om det går att hitta en kontakt-/lead-post med en matchande e-postadress. Vi använder sedan information från den posten för att fylla i fältet.
 
 ## Infoga ett dynamiskt fält i en mall {#insert-a-dynamic-field-into-a-template}
 
 1. I **Mallar och kampanjer** letar du reda på mallen som du vill redigera och klickar på **Redigera mall**.
+
 1. Klicka på **Tout Dynamic Fields**.
 
    >[!NOTE]
