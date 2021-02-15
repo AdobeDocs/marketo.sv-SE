@@ -3,7 +3,7 @@ unique-page-id: 11382535
 description: Använda URL:er i Mina token - Marketo Docs - Produktdokumentation
 title: Använda URL:er i Mina token
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -23,13 +23,13 @@ Följ stegen nedan för att använda Mina token för att infoga URL:er i dina e-
 
    ![](assets/two-4.png)
 
-1. Ge variabeln ett unikt namn, ange en URL (utan http://) och klicka på **Spara**.
+1. Ge variabeln ett unikt namn, ange en URL (utan https://) och klicka på **Spara**.
 
    ![](assets/three-4.png)
 
    >[!CAUTION]
    >
-   >Om du vill vara säker på att klick spåras i ditt e-postmeddelande ska du **inte** ange http:// i tokenvärdet.
+   >Om du vill vara säker på att klick spåras i ditt e-postmeddelande ska du **inte** ange https:// i tokenvärdet.
 
 1. Välj e-postadressen i programmet.
 
@@ -43,7 +43,7 @@ Följ stegen nedan för att använda Mina token för att infoga URL:er i dina e-
 
    ![](assets/six-1.png)
 
-1. Skriv&quot;http://&quot; någonstans i e-postmeddelandet (utan att lämna ett blanksteg efter) och klicka på ikonen Infoga token.
+1. Skriv&quot;https://&quot; någonstans i e-postmeddelandet (utan att lämna ett blanksteg efter) och klicka på ikonen Infoga token.
 
    ![](assets/seven.png)
 
@@ -55,7 +55,7 @@ Följ stegen nedan för att använda Mina token för att infoga URL:er i dina e-
 
    ![](assets/eight.png)
 
-1. Markera http:// och token och tryck sedan på Ctrl/Cmd+X (Ctrl = Windows/Cmd = Mac) för att klippa ut texten.
+1. Markera https:// och token och tryck sedan på Ctrl/Cmd+X (Ctrl = Windows/Cmd = Mac) för att klippa ut texten.
 
    ![](assets/nine.png)
 
@@ -71,4 +71,4 @@ Följ stegen nedan för att använda Mina token för att infoga URL:er i dina e-
 
    ![](assets/twelve.png)
 
-   Och du är klar! URL:en fylls i efter att du har skickat och tack vare att du placerar http:// framför token skapas en spårbar länk.
+   Och du är klar! URL:en fylls i efter att du har skickat och tack vare att du placerar https:// framför token skapas en spårbar länk.
