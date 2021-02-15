@@ -3,7 +3,7 @@ unique-page-id: 14352405
 description: Konfigurera enkel inloggning via SAML 2.0 i Sales Connect - Marketo Docs - produktdokumentation
 title: Konfigurera enkel inloggning via SAML 2.0 i Sales Connect
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
@@ -31,6 +31,6 @@ Metadata.xml från teamets SSO-instans ska innehålla utfärdarens URL, valideri
 
 Vi behöver också SSO-platsen för ditt företags SSO-konto som en unik domän. Vi behöver till exempel en unik underdomän som `toutapp.pingidentity.com` eller liknande. Utan den här typen av unik identifierare kan vi inte konfigurera SAML från kontrollpanelen.
 
-One Login och Okta tillhandahåller inte alltid unika identifierare när en URL tilldelas. Om du använder Okta eller One Login betyder det att vi inte kan konfigurera en inloggning från kontrollpanelsknappen. Vi kommer fortfarande att kunna konfigurera det med knappen för enkel inloggning på [webbprogrammet](http://toutapp.com/login).
+One Login och Okta tillhandahåller inte alltid unika identifierare när en URL tilldelas. Om du använder Okta eller One Login betyder det att vi inte kan konfigurera en inloggning från kontrollpanelsknappen. Vi kommer fortfarande att kunna konfigurera det med knappen för enkel inloggning på [webbprogrammet](https://toutapp.com/login).
 
 När vi har fått den informationen kommer vi att arbeta tillsammans med vårt tekniker för att göra detta för din prenumeration.
