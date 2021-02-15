@@ -3,7 +3,7 @@ unique-page-id: 12979010
 description: Performance Insights Trend Overview - Marketo Docs - Produktdokumentation
 title: Prestandainsikter - trendöversikt
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Prestandainsikter, trendöversikt {#performance-insights-trend-overview}
 
-Trend visar kanalprestanda för en tidsperiod.
+Trend visar kanalernas prestanda under en tidsperiod.
 
 Klicka på fliken **Trend** för att komma åt den här vyn.
 
@@ -23,7 +23,7 @@ Klicka på fliken **Trend** för att komma åt den här vyn.
 
 ![](assets/2-1.png)
 
-Välj det mätvärde som du vill visa prestandan efter. I det här exemplet tittar vi på möjligheter som vunnits via [First Touch](http://docs.marketo.com/display/DOCS/Understanding+Attribution).
+Välj det mätvärde som du vill visa prestandan efter. I det här exemplet tittar vi på möjligheter som vunnits via [First Touch](https://docs.marketo.com/display/DOCS/Understanding+Attribution).
 
 ![](assets/3-2.png)
 
