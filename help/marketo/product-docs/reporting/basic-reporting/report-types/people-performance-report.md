@@ -3,7 +3,7 @@ unique-page-id: 2360014
 description: Prestandarapport - Marketo Docs - Produktdokumentation
 title: Prestandarapport för människor
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Använd en rapport om personprestanda för att mäta databastillväxt över tid.
 
    >[!NOTE]
    >
-   >Som standard grupperas rapporter om personprestanda efter *Skapad* månad.
+   >Som standard grupperas rapporter om personprestanda efter *Skapad den* månaden.
 
    ![](assets/one.png)
 
@@ -41,12 +41,12 @@ Du kan:
 
 >[!TIP]
 >
->Kom ihåg att rapporter är enkla att [skapa](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), [konfigurera](http://docs.marketo.com/display/docs/basic+reporting) och [ta bort](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Lek vidare med de många sätt du kan manipulera dem på och lär dig de bästa sätten att fokusera på viktiga data.
+>Kom ihåg att rapporter är enkla att [skapa](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), [konfigurera](https://docs.marketo.com/display/docs/basic+reporting) och [ta bort](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Lek vidare med de många sätt du kan manipulera dem på och lär dig de bästa sätten att fokusera på viktiga data.
 
 >[!NOTE]
 >
 >**Djupdykning**
 >
 >
->Läs mer i [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting)djupdykning.
+>Läs mer i [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting)djupdykning.
 
