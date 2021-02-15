@@ -3,7 +3,7 @@ unique-page-id: 2360028
 description: Klona en rapport - Marketo Docs - Produktdokumentation
 title: Klona en rapport
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -41,5 +41,5 @@ Skapa en dubblett av rapporten för att anpassa den ytterligare utan att ändra 
    >    * [Filtrera personer i en rapport med en smart lista](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
 
 
-   Gör mycket mer för att anpassa rapporten! Se [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
+   Gör mycket mer för att anpassa rapporten! Se [Grundläggande rapportering](https://docs.marketo.com/display/docs/basic+reporting).
 
