@@ -3,9 +3,9 @@ unique-page-id: 14352517
 description: Skapa en kontaktgrupp - Marketo Docs - Produktdokumentation
 title: Så här skapar du en kontaktgrupp
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Med Sales Connect kan du skapa grupper av kontakter så att du kan skicka personaliserade e-postmeddelanden till flera mottagare.
 
-Om du vill skapa en grupp väljer du **N***Ny grupp**.
+Om du vill skapa en grupp väljer du **Ny grupp**.
 
-Härifrån kan du lägga till kontakter [manuellt](http://docs.marketo.com/x/IYTS) eller [via CSV](http://docs.marketo.com/x/VADb).
+Härifrån kan du lägga till kontakter [manuellt](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md) eller [via CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
-[Klicka här](http://docs.marketo.com/x/iADb) om du vill veta mer om hur du skickar gruppmeddelanden.
+[Klicka här](/help/marketo/product-docs/marketo-sales-connect/email/send-a-sales-email/how-to-send-a-group-email.md) om du vill veta mer om hur du skickar gruppmeddelanden.
