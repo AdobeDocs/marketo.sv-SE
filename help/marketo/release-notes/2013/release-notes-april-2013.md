@@ -3,7 +3,7 @@ unique-page-id: 2951099
 description: Versionsinformation -April 2013 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -april 2013
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Versionsinformation: April 2013 {#release-notes-april}
 
-Följande funktioner finns i aprilversionen. Kontrollera din [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) för att se om det finns funktioner.
+Följande funktioner finns i aprilversionen. Kontrollera din [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php) för att se om det finns funktioner.
 
 Efter releasen ska du kontrollera fliken [New Release](release-notes-december-2013.md) i communityn för detaljerade kunskapsbasartiklar för varje funktion!
 
