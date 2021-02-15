@@ -3,7 +3,7 @@ unique-page-id: 13795395
 description: Versionsinformation -vinter '18 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -vinter '18
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -86,7 +86,7 @@ Innehåll som rekommenderas via Marketos optimerade innehåll`<sup>AI </sup>`alg
 
 ## Integrering {#integration}
 
-** [Aktivera/inaktivera kampanj-API](http://developers.marketo.com/rest-api/assets/campaigns/)**
+** [Aktivera/inaktivera kampanj-API](https://developers.marketo.com/rest-api/assets/campaigns/)**
 
 Detta nya API gör att ni kan aktivera och inaktivera utlösarkampanjer via fjärranslutning, så att ni nu kan skapa helt automatiserade programmallar. Skapa en programmall en gång, automatisera kloningen, uppdatera marknadsföringsmaterialet och nu aktivera/schemalägga smarta kampanjer.
 
@@ -94,7 +94,7 @@ Detta nya API gör att ni kan aktivera och inaktivera utlösarkampanjer via fjä
 
 **Avbeställ uppdatering**
 
-Från och med den 1 mars 2018 kommer alla e-postmeddelanden som skickas från [ToutApp.com](http://ToutApp.com) (och med knappen &quot;Email with Tout&quot; i Salesforce) att ha en länk för att avbryta prenumerationen längst ned.
+Från och med den 1 mars 2018 kommer alla e-postmeddelanden som skickas från [ToutApp.com](https://ToutApp.com) (och med knappen &quot;Email with Tout&quot; i Salesforce) att ha en länk för att avbryta prenumerationen längst ned.
 
 **Uppdatering av Live-feed**
 
