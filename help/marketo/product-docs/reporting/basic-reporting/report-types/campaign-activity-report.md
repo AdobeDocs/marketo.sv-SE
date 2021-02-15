@@ -3,7 +3,7 @@ unique-page-id: 2360057
 description: Kampanjaktivitetsrapport - Marketo Docs - Produktdokumentation
 title: Kampanjaktivitetsrapport
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Kampanjaktivitetsrapport {#campaign-activity-report}
 
-Se hur era [smarta kampanjer](http://docs.marketo.com/display/docs/smart+campaigns) fungerar.
+Se hur era [smarta kampanjer](https://docs.marketo.com/display/docs/smart+campaigns) fungerar.
 
 1. [Skapa en ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapport och välj typen  **kampanjrapport** [för aktivitet](report-type-overview.md).
 1. [Ange tidsramen för ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) rapporten och klicka på fliken  **** Rapportera.
@@ -54,5 +54,5 @@ Se hur era [smarta kampanjer](http://docs.marketo.com/display/docs/smart+campaig
    >    * [Filtrera en kampanjaktivitetsrapport](../../../../product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
 
 
-   Se fler rapporter i [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
+   Se fler rapporter i [Grundläggande rapportering](https://docs.marketo.com/display/docs/basic+reporting).
 
