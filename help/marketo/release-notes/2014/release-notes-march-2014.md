@@ -3,7 +3,7 @@ unique-page-id: 2951046
 description: Versionsinformation -mars 2014 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -mars 2014
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%
@@ -51,12 +51,12 @@ Som en påminnelse ändrar den här inställningen även programmeringsstatistik
 
 ## Ytterligare användarspråk {#additional-user-language}
 
-Välj ditt [Marketo-programspråk](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md). Se gränssnittet Marketo Lead Management på det språk du föredrar - nu med stöd för japanska.
+Välj ditt [Marketo-programspråk](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md). Visa Marketo Lead Management-gränssnittet på det språk du föredrar - nu med stöd för japanska.
 
 ![](assets/image2014-9-22-11-3a37-3a14.png)
 
 ## Marketo Developer Blog {#marketo-developer-blog}
 
-[Marketo Developer-bloggen](http://developers.marketo.com/blog/) riktar sig till webbutvecklare och programvaruingenjörer som stöder den moderna marknadsförarens snabbt växande behov. Du kan prenumerera på meddelanden om nya integreringsalternativ, API-versionsuppdateringar och en ny serie instruktionsartiklar som innehåller kodexempel och metodtips om integrationen med Marketo-plattformen.
+[Marketo Developer-bloggen](https://developers.marketo.com/blog/) riktar sig till webbutvecklare och programvaruingenjörer som stöder den moderna marknadsförarens snabbt växande behov. Du kan prenumerera på meddelanden om nya integreringsalternativ, API-versionsuppdateringar och en ny serie instruktionsartiklar som innehåller kodexempel och metodtips om integrationen med Marketo-plattformen.
 
-Den [första artikeln](http://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/) i den här serien visar hur du effektivt hämtar information om personer (kunder/kontakter/leads) som lagras i Marketo med hjälp av API:t.
+Den [första artikeln](https://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/) i den här serien visar hur du effektivt hämtar information om personer (kunder/kontakter/leads) som lagras i Marketo med hjälp av API:t.
