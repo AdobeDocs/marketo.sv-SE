@@ -3,7 +3,7 @@ unique-page-id: 11384018
 description: Versionsinformation -höst '16 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - höst 16
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '704'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Följande funktioner finns i höstutgåvan 16. Se om din Marketo-utgåva har funktioner tillgängliga. Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion.
 
-## [Prediktivt innehåll i e-post](http://docs.marketo.com/display/docs/predictive+content)  {#predictive-content-in-email}
+## [Prediktivt innehåll i e-post](https://docs.marketo.com/display/docs/predictive+content)  {#predictive-content-in-email}
 
 Det finns en ny användarupplevelse i programmet Predictive Content som spårar, hanterar och rekommenderar ditt innehåll via våra maskininlärnings- och prediktiva algoritmer på webben och i e-postkanaler.
 
@@ -45,7 +45,7 @@ Med ett universellt ID kan du komma åt flera Marketo-prenumerationer med en end
 >
 >Kontakta Marketo Support om du vill aktivera den här funktionen.
 
-## [Marketo-kontobaserade marknadsföringsförbättringar](http://docs.marketo.com/pages/viewpage.action?pageid=11380718) {#marketo-account-based-marketing-enhancements}
+## [Marketo-kontobaserade marknadsföringsförbättringar](https://docs.marketo.com/pages/viewpage.action?pageid=11380718) {#marketo-account-based-marketing-enhancements}
 
 Nu kan ni tilldela kontoteam till namngivna konton i kontobaserad marknadsföring (ABM), till exempel kontoägare, säljutvecklingsrepresentant, affärsutvecklingsrepresentant och kundframgångsansvarig. Du kan också skapa kontoägarspecifika kontolistor och skicka personliga ABM-rapporter varje vecka till kontoteamet.
 
@@ -53,7 +53,7 @@ Nu kan ni tilldela kontoteam till namngivna konton i kontobaserad marknadsförin
 
 **REST API**
 
-I den här versionen kan du även hantera attribut och poäng för namngivna konton i ABM med Marketo REST API. Mer information om API-åtgärder finns på webbplatsen [Marketo Developers](http://developers.marketo.com/rest-api/lead-database/named-accounts).
+I den här versionen kan du även hantera attribut och poäng för namngivna konton i ABM med Marketo REST API. Mer information om API-åtgärder finns på webbplatsen [Marketo Developers](https://developers.marketo.com/rest-api/lead-database/named-accounts).
 
 ## [Förbättringar av granskningsspår](../../product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -63,11 +63,11 @@ Granskningsspårning ger en omfattande historik över de ändringar som gjorts i
 
 **Låt e-postmeddelandet fungera**
 
-Det var inte länge sedan du var tvungen att oroa dig för att användare ska skicka transaktionsmeddelanden via e-post till personer i din databas som har avbeställt prenumerationen. Du kan nu ange vilka användare som kan få ett e-postmeddelande att fungera eller redigera användbara e-postmeddelanden.
+Det var inte länge sedan du var tvungen att oroa dig för att användare ska skicka transaktionsmeddelanden via e-post till personer i din databas som har avbeställt prenumerationen. Du kan nu ange vilka användare som ska få ett e-postmeddelande att fungera eller redigera användbara e-postmeddelanden.
 
 **Redigera kampanjbegränsningar**
 
-Varför ska du ange [kampanjbegränsningar](http://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns) om du inte kan genomdriva dem? När du anger inställningarna för kampanjbegränsning för att begränsa antalet personer i databasen som kan användas för en enskild kampanj, kan du nu begränsa vilka användare som kan åsidosätta inställningarna när du schemalägger en kampanj.
+Varför ska du ange [kampanjbegränsningar](https://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns) om du inte kan genomdriva dem? När du anger inställningarna för kampanjbegränsning för att begränsa antalet personer i databasen som kan användas för en enskild kampanj, kan du nu begränsa vilka användare som kan åsidosätta inställningarna när du schemalägger en kampanj.
 
 ## [Ljud för mobila push-meddelanden](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
@@ -88,11 +88,11 @@ Ge iOS push-meddelanden ökad detaljrikedom genom att aktivera ljud. Med den hä
 
 Market Sales Insight är nu kompatibelt med Salesforce Shield Encryption. Alla Sales Insight-kunder bör uppgradera till det senaste hanterade paketet (version 1.4359.2), som är [tillgängligt på Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
-## [API:er för namngivna konton](http://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
+## [API:er för namngivna konton](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 
 I den här versionen kan Marketo ABM-användare hantera namngivna konton via API:t för namngivna konton. Användare kan skapa, uppdatera och ta bort namngivna konton samt läsa och uppdatera ABM-poängen för namngivna konton.
 
-## [Stöd för API:t för e-postredigeraren v2.0](http://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
+## [Stöd för API:t för e-postredigeraren v2.0](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
 
 Hantera variabler och moduler för e-post i v2.0-format med Marketo REST API.
 
