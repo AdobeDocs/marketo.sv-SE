@@ -3,7 +3,7 @@ unique-page-id: 2359449
 description: Definiera segmentregler - Marketo Docs - Produktdokumentation
 title: Definiera segmentregler
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 0%
@@ -48,7 +48,7 @@ Genom att definiera segmentregler kan du kategorisera dina personer i olika grup
    >**Djupdykning**
    >
    >
-   >Smarta listor är fantastiska. Lär dig allt du kan göra med [smarta listor och statiska listor](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
+   >Smarta listor är fantastiska. Lär dig allt du kan göra med [smarta listor och statiska listor](https://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
 1. Klicka på fliken **Personer (utkast)** för att visa de personer som kan kvalificera sig som medlemmar i det här segmentet.
 
@@ -63,7 +63,7 @@ Genom att definiera segmentregler kan du kategorisera dina personer i olika grup
    >Det totala antalet segment som du kan skapa i en segmentering beror på antalet och typen av filter som används och även på hur komplex logiken i segmenten är. Du kan skapa upp till 100 segment med hjälp av standardfält, men med andra typer av filter kan det bli mer komplicerat och segmenteringen kanske inte kan godkännas. Några exempel är: anpassade fält, listmedlem, fält för huvudägare och intäktsfaser.
    >
    >
-   >Om du får ett felmeddelande under godkännandet och behöver hjälp med att minska komplexiteten i din segmentering kontaktar du [Marketo Support](http://nation.marketo.com/t5/Support/ct-p/Support).
+   >Om du får ett felmeddelande under godkännandet och behöver hjälp med att minska komplexiteten i din segmentering kontaktar du [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. På kontrollpanelen hittar du en snabb översikt över segmenten i ett cirkeldiagram samt vilka regler som används.
 
