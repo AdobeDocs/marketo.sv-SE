@@ -3,7 +3,7 @@ unique-page-id: 4720253
 description: Versionsinformation -december 2014 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - december 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -65,7 +65,7 @@ Tre nya anrop till API:t Lead &amp; Activity ReST:
 
 ・ Lägg samman lead
 
-Fullständig information kommer att finnas tillgänglig efter releasen på [developers.marketo.com](http://developers.marketo.com/)
+Fullständig information kommer att finnas tillgänglig efter releasen på [developers.marketo.com](https://developers.marketo.com/)
 
 ## Munchkin Javascript-kompatibilitetsförbättringar {#munchkin-javascript-compatibility-enhancements}
 
