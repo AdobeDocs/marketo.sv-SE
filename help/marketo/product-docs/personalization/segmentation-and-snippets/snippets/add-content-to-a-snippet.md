@@ -3,7 +3,7 @@ unique-page-id: 2359496
 description: Lägg till innehåll i ett fragment - Marketo Docs - Produktdokumentation
 title: Lägga till innehåll i ett fragment
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -51,7 +51,7 @@ Du kan lägga till tre typer av innehåll i ett fragment.
 
    >[!NOTE]
    >
-   >Du kan lägga till egna bilder eller filer i Marketo. Läs mer om [bilder och filer](http://docs.marketo.com/display/docs/images+and+files).
+   >Du kan lägga till egna bilder eller filer i Marketo. Läs mer om [bilder och filer](https://docs.marketo.com/display/docs/images+and+files).
 
 1. Välj den **bild** som ska användas och klicka på **Infoga**.
 
