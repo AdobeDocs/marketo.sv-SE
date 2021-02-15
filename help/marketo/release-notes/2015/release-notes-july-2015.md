@@ -3,7 +3,7 @@ unique-page-id: 8783189
 description: Versionsinformation -juli 2015 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -juli 2015
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 0%
@@ -22,7 +22,7 @@ Ska vi gå ut på lunch men behöver boka om ett mejl? Appen Marketo Moments, so
 ## Uppdatering för RTF-redigeraren {#rich-text-editor-update}
 
 Uppdaterad textredigerare med modern stil och känsla, inklusive smidig textformatering, bildredigering, länkinfogning och HTML-redigering. HTML-redigeraren har nu minimal validering, vilket ger mindre begränsande kodredigering.
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Uppdateringen lanseras automatiskt inom några dagar efter juliversionen. Efteråt kan du växla mellan de nya och äldre versionerna av redigeraren från **Admin > E-post > Redigera redigeringsinställningar**. Vi vill veta om du har problem med den nya versionen av textredigeraren! Skicka en kort beskrivning till [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#d0bab3bfbfa0b5a2bdb1be90bdb1a2bbb5a4bffeb3bfbd).
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Uppdateringen lanseras automatiskt inom några dagar efter juliversionen. Efteråt kan du växla mellan de nya och äldre versionerna av redigeraren från **Admin > E-post > Redigera redigeringsinställningar**. Vi vill veta om du har problem med den nya versionen av textredigeraren! Skicka en kort beskrivning till [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#d0bab3bfbfa0b5a2bdb1be90bdb1a2bbb5a4bffeb3bfbd).
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -50,7 +50,7 @@ Har du skapat flera personaliserade RTP-kampanjer och märkt att vissa av dem ka
 
 **Åtkomst till företagsobjekt via REST API**: REST API ger nu åtkomst till Marketo Company (alias). Konto). Det innebär att du kan läsa, uppdatera och ta bort företagsobjekt som du har skapat i Marketo och associera leads med sådana företag med hjälp av det uppdaterade lead-API:t.
 
-Läs [mer](http://developers.marketo.com/documentation/company-api/) i vår referenshandbok för företags-API:t.
+Läs [mer](https://developers.marketo.com/documentation/company-api/) i vår referenshandbok för företags-API:t.
 
 ## Åtkomst till e-postleverans {#access-email-deliverability}
 
