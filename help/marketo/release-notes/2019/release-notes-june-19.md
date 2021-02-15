@@ -3,7 +3,7 @@ unique-page-id: 18874822
 description: Versionsinformation -juni 19 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -juni 19
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Följande funktioner släpptes 14 juni 2019.
 
 >[!CAUTION]
 >
->Från och med 18 juni 2019 är e-post 1.0 inte längre tillgänglig. Du kan läsa mer om Email 2.0 och borttagningen av Email 1.0 [här](http://nation.marketo.com/docs/DOC-7038).
+>Från och med 18 juni 2019 är e-post 1.0 inte längre tillgänglig. Du kan läsa mer om Email 2.0 och borttagningen av Email 1.0 [här](https://nation.marketo.com/docs/DOC-7038).
 
 ## Kontobaserad marknadsföring {#account-based-marketing}
 
