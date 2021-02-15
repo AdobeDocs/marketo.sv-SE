@@ -3,7 +3,7 @@ unique-page-id: 10100434
 description: Välj en layout för ditt meddelande i appen - Marketo Docs - Produktdokumentation
 title: Välj en layout för ditt meddelande i appen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '490'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Marketo tillhandahåller sex layouter för att skapa meddelanden i appen.
 
-* Popup-layouter är mer traditionella och perfekta om du inte har ett kreativt team som kan leverera innehåll och du inte behöver ett visst utseende och känsla. Du kan enkelt skapa och redigera dina egna meddelanden i appen i Marketo
+* Popup-layouter är mer traditionella och perfekta om du inte har ett kreativt team som kan leverera innehåll och du inte behöver ett särskilt utseende och känsla. Du kan enkelt skapa och redigera dina egna meddelanden i appen i Marketo
 * Med helskärmslayouter kan du importera dina egna färdiga designer, vilket ger dig total grafisk flexibilitet
 
 ## Popup-layouter {#pop-up-layouts}
@@ -62,7 +62,7 @@ Nu när du känner till mallarna är det dags att välja en när du [skapar dina
 
 >[!MORELIKETHIS]
 >
->* [Skapa ett meddelande i appen](http://docs.marketo.com/display/docs/create+an+in-app+message)
+>* [Skapa ett meddelande i appen](https://docs.marketo.com/display/docs/create+an+in-app+message)
 >* [Förstå meddelanden i appen](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 
 >
