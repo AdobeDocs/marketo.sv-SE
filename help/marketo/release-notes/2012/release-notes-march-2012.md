@@ -3,7 +3,7 @@ unique-page-id: 2951122
 description: Versionsinformation -mars 2012 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - mars 2012
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Djupdykning**
 >
->Andra versioner finns i [versionsinformationen](http://docs.marketo.com/display/docs/release+notes) djupdykning.
+>Andra versioner finns i [versionsinformationen](https://docs.marketo.com/display/docs/release+notes) djupdykning.
 >
 >## Lös mina token {#resolve-my-tokens}>
 
