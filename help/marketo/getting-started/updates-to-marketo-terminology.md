@@ -3,7 +3,7 @@ unique-page-id: 11387674
 description: Uppdateringar av Marketo Terminology - Marketo Docs - Produktdokumentation
 title: Uppdateringar av Marketets terminologi
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 0%
@@ -139,11 +139,11 @@ Fält som innehåller termen Lead har ersatts med Person eller ordet Lead har ta
 
 Förutom namnändringen består den nu av fyra separata program:
 
-| ** [Webbpersonalisering](http://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | Har egen panel på hemskärmen |
+| ** [Webbpersonalisering](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | Har egen panel på hemskärmen |
 |---|---|
-| ** [Kontobaserad webbmarknadsföring](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Tillgängligt via webbanpassningsbrickan |
-| ** [Anpassad återmarknadsföring](http://docs.marketo.com/display/DOCS/Website+Retargeting)** | Tillgängligt via webbanpassningsbrickan |
-| ** [Prediktivt innehåll](http://docs.marketo.com/display/DOCS/Predictive+Content)** | Har egen panel på hemskärmen |
+| ** [Kontobaserad webbmarknadsföring](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Tillgängligt via webbanpassningsbrickan |
+| ** [Anpassad återmarknadsföring](https://docs.marketo.com/display/DOCS/Website+Retargeting)** | Tillgängligt via webbanpassningsbrickan |
+| ** [Prediktivt innehåll](https://docs.marketo.com/display/DOCS/Predictive+Content)** | Har egen panel på hemskärmen |
 
 >[!NOTE]
 >
