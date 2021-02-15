@@ -3,7 +3,7 @@ unique-page-id: 1900579
 description: Inaktivera spårning för en e-postlänk - Marketo-dokument - Produktdokumentation
 title: Inaktivera spårning för en e-postlänk
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Ibland vill du inte aktivera URL:en **Marketo Tracking** för en länk i ett e-p
    >[!TIP]
    >
    >Vill du inaktivera klickspårning för en länk i ett e-postmeddelande **mall**? Använd det här formatet:
-   >`<a class="mktNoTrack" href="http://www.mywebsite.com">This link does not have tracking</a>`\
+   >`<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`\
    >Kontakta din webbutvecklare om du behöver hjälp med att implementera detta.
 
 Snyggt! Du har nu inaktiverat spårning för en länk.
