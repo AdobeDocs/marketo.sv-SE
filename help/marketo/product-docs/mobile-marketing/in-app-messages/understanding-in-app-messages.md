@@ -3,7 +3,7 @@ unique-page-id: 10100397
 description: Om meddelanden i appen - Marketo Docs - Produktdokumentation
 title: Förstå meddelanden i appen
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -33,18 +33,18 @@ Marketo Admin och utvecklaren av mobilappar samarbetar för att konfigurera dig.
 
 ## Steg 2: Skapa ett meddelande i appen {#step-create-an-in-app-message}
 
-Du [skapar ett meddelande i appen](http://docs.marketo.com/display/docs/create+an+in-app+message) med onlineredigeraren.
+Du [skapar ett meddelande i appen](https://docs.marketo.com/display/docs/create+an+in-app+message) med onlineredigeraren.
 
 ## Steg 3: Skicka! {#step-send}
 
-Du skapar ett program för att [skicka meddelandet](http://docs.marketo.com/display/docs/send+your+in-app+message).
+Du skapar ett program för att [skicka meddelandet](https://docs.marketo.com/display/docs/send+your+in-app+message).
 
 Du är på väg.
 
 >[!MORELIKETHIS]
 >
->* [Skapa ett meddelande i appen](http://docs.marketo.com/display/docs/create+an+in-app+message)
+>* [Skapa ett meddelande i appen](https://docs.marketo.com/display/docs/create+an+in-app+message)
    >
    >
-* [Skicka ditt meddelande i appen](http://docs.marketo.com/display/docs/send+your+in-app+message)
+* [Skicka ditt meddelande i appen](https://docs.marketo.com/display/docs/send+your+in-app+message)
 
