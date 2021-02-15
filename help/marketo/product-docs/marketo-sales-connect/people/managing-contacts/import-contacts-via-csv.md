@@ -3,7 +3,7 @@ unique-page-id: 14352468
 description: Importera kontakter via CSV - Marketo Docs - Produktdokumentation
 title: Importera kontakter via CSV
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -40,4 +40,3 @@ Det är viktigt att ha kontakter på personsidan eftersom det är där vi går f
 1. Mappa kolumnerna i CSV-filen till deras respektive fält i Sales Connect. Klicka på **Nästa** när du är klar.
 
    ![](assets/five.png)
-
