@@ -3,7 +3,7 @@ unique-page-id: 2951044
 description: Versionsinformation -maj 2014 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -maj 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '476'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Nu kan du [ta bort en oanvänd arbetsyta](../../product-docs/administration/work
 
 ## Schemalägg första cast {#schedule-first-cast}
 
-I engagemangsprogram kan du schemalägga datumet för den första konverteringen som ska köras[. ](../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) Ange till exempel att cadence ska vara varannan vecka och välj datumet för den första sändningen.
+I engagemangsprogram kan du schemalägga datumet för den första konverteringen som ska köras](../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md). [ Ange till exempel att cadence ska vara varannan vecka och välj datumet för den första sändningen.
 
 ![](assets/image2014-9-22-11-3a57-3a36.png)
 
@@ -39,7 +39,7 @@ Nu får alla flera program, strömmar och kommunikationsbegränsningar.
 >
 >**Exempel**
 >
->[[[http://www.marketo.com](http://www.marketo.com)]]
+>[[[https://www.marketo.com](https://www.marketo.com)]]
 
 Som standard spåras inga länkar i textversionen av e-postmeddelanden. Lägg till den här nya syntaxen för att ange när en länk ska konverteras till en spårningslänk. HTML-länkarnas beteende ändras inte.  Så här lägger du till spårade länkar i e-postmeddelanden:
 
@@ -85,5 +85,5 @@ Intäktscykelmodelleraren och Success Path Analyzer ingår nu i MA Standard Edit
 
 >[!NOTE]
 >
->Läs föregående [Marketo Release Notes](http://docs.marketo.com/display/docs/release+notes)
+>Läs föregående [Marketo Release Notes](https://docs.marketo.com/display/docs/release+notes)
 
