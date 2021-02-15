@@ -3,7 +3,7 @@ unique-page-id: 12981050
 description: Lås försäljningsmall - Marketo Docs - Produktdokumentation
 title: Lås försäljningsmall
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -62,4 +62,3 @@ För att förhindra CRM-användare från att redigera säljmallar kan administra
    >[!NOTE]
    >
    >Som standard är den här kryssrutan markerad och CRM-användare kan redigera e-postmeddelanden.
-
