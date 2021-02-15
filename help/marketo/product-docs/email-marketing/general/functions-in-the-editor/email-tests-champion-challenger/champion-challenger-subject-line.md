@@ -3,7 +3,7 @@ unique-page-id: 2359557
 description: Champion/Challenger -Subject line - Marketo Docs - Produktdokumentation
 title: Champion/Challenger - Subject Line
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Du kan enkelt testa flera ämnesrader. När testet är klart skickar du ut e-pos
    >
    >I den distribution som visas ovan får 10 % av den totala målgruppen som anges i den smarta listan ett av e-postmeddelandena med utmanarraden och 90 % får e-postmeddelanden med den främsta ämnesraden. E-postmeddelanden med flera utmanande ämnesrader delar 10 % lika. När testet är klart kan du deklarera en vinnare manuellt. Från och med då får alla framtida personer det innehåll som presterar bättre.
 
-   För att få statistiskt förtroende bör du kontrollera att den procentandel du väljer innehåller tillräckligt många personer, så att testet blir giltigt. Låt dig inte luras av osäkra resultat. [Mer information än du någonsin önskat om statistisk tillförsikt](http://en.wikipedia.org/wiki/Confidence_interval).
+   För att få statistiskt förtroende bör du kontrollera att den procentandel du väljer innehåller tillräckligt många personer, så att testet blir giltigt. Låt dig inte luras av osäkra resultat. [Mer information än du någonsin önskat om statistisk tillförsikt](https://en.wikipedia.org/wiki/Confidence_interval).
 
 1. Klicka på **Nästa**.
 
