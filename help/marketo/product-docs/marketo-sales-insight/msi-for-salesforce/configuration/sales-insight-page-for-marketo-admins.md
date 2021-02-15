@@ -3,9 +3,9 @@ unique-page-id: 42762409
 description: Sales Insight Page for Marketo Admins - Marketo Docs - produktdokumentation
 title: Sales Insight Page for Marketo Admins
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,8 @@ Du kan välja att ta bort Rest API-autentiseringsuppgifter i SFDC och endast anv
 
 ## Inställningar för personpoäng {#person-score-settings}
 
-| **Stjärnor:** | Stjärnor representerar totalt antal leads jämfört med andra leads. |
-|---|---|
-| **Lågor:** | Lågor är brådskande - hur mycket en leads poäng har ändrats nyligen. |
+* **Stjärnor**: Stjärnor representerar totalt antal leads jämfört med andra leads.
+* **Lågor**: Lågor är brådskande - hur mycket en leads poäng har ändrats nyligen.
 
 Som standard använder Marketo Sales Insight fältet Lead Score för att beräkna stjärnor och lågor. Men om du vill välja ett annat fält, så här:
 
@@ -43,7 +42,7 @@ Som standard använder Marketo Sales Insight fältet Lead Score för att beräkn
 
    ![](assets/four.png)
 
-1. Klicka på **Redigera** under Inställningar för poängsättning av leads.
+1. Klicka på **Redigera** under Inställningar för poängsättning för lead.
 
    ![](assets/five.png)
 
@@ -61,19 +60,17 @@ Som standard använder Marketo Sales Insight fältet Lead Score för att beräkn
 
    >[!TIP]
    >
-   >Om du inte redan har dina anpassade poängfält gör du så här för att [skapa dem](http://docs.marketo.com/x/3wMk).
+   >Om du inte redan har dina anpassade poängfält gör du så här för att [skapa dem](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[Stjärnor och flamman](http://docs.marketo.com/x/qgU6Ag)
+   >[Stjärnor och flamman](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
 
 ## Inställningar {#settings}
 
 ![](assets/nine.png)
 
-**Avbeställ prenumerationsinställningar: **
+**Avbeställ inställningar:**
 
 Du kan välja bland följande inställningar för att avbryta prenumerationen för Ingen mall, Standardmeddelanden och operativa e-postmeddelanden
 
@@ -82,10 +79,10 @@ Du kan välja bland följande inställningar för att avbryta prenumerationen f�
 * Uppfyll inställningarna för att avbryta prenumerationen när fler än fem mottagare har
 * Ignorera inställningar för att avbryta prenumerationen
 
-**Möjlighet att låsa mallar: **
+**Möjlighet att låsa mallar:**
 
 När det här alternativet är aktiverat kan MSI-användare inte redigera mallar när de skickar e-post från Salesforce
 
 **Aktivera RSS-feed:**
 
-När det här alternativet är aktiverat kan MSI-användare visa sin lead-feed i en RSS-feed (utöver lead-feed i Salesforce)**.**
+När det här alternativet är aktiverat kan MSI-användare visa sin lead-feed i en RSS-feed (utöver lead-feed i Salesforce).
