@@ -3,7 +3,7 @@ unique-page-id: 2949469
 description: Installationssteg - Marketo Docs - Produktdokumentation
 title: Installationssteg
 translation-type: tm+mt
-source-git-commit: 0a4050545c5c956001c9c299cfbcf59e9cffd39c
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '2143'
 ht-degree: 0%
@@ -330,7 +330,7 @@ Skicka e-postmeddelandet till IT. Vi förstår att det kan ta lite tid för IT-a
    >
    >Dessa anpassade mallar är endast tillgängliga för kunder som har Launch Pack.
 
-   Gå till formuläret [Marketo Template Design and Build](http://pages2.marketo.com/CESubmit-URL-ForTemplates.html). Fyll i företagsinformation.
+   Gå till formuläret [Marketo Template Design and Build](https://pages2.marketo.com/CESubmit-URL-ForTemplates.html). Fyll i företagsinformation.
 
    ![](assets/image2014-9-12-11-3a4-3a55.png)
 
