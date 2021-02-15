@@ -3,7 +3,7 @@ unique-page-id: 2360005
 description: Företagets webbaktivitetsrapport - Marketo Docs - Produktdokumentation
 title: Webbaktivitetsrapport för företag
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -78,4 +78,4 @@ Skapa en [webbsidesaktivitetsrapport](web-page-activity-report.md) för att se d
 >
 >**Djupdykning**
 >
->Lär dig mer om andra intressanta rapporter i [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting)-djupdykningen.
+>Lär dig mer om andra intressanta rapporter i [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting)-djupdykningen.
