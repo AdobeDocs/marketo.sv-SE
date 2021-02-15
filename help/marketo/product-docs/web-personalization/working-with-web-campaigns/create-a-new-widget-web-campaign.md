@@ -3,7 +3,7 @@ unique-page-id: 4719402
 description: Skapa en ny webbkampanj för widget - Marketo Docs - Produktdokumentation
 title: Skapa en ny webbkampanj för widget
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '642'
 ht-degree: 0%
@@ -51,11 +51,11 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment o
   </tr> 
   <tr> 
    <td colspan="1"><strong>Visa på</strong></td> 
-   <td colspan="1">Gör att du kan <a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">anpassa när och hur</a> webbkampanjen visas.</td> 
+   <td colspan="1">Gör att du kan <a href="https://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">anpassa när och hur</a> webbkampanjen visas.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Animera in/ut</strong></td> 
-   <td colspan="1">Ange vid dialoginträde och/eller -avslutning. Välj effekt (släpp, blind, glid, toning, ingen effekt), varaktighet (i sekunder) och riktning (upp, ned, vänster, höger).</td> 
+   <td colspan="1">Ange vid dialoginträde och/eller -avslutning. Välj effekt (släpp, blinda, glid, tona, ingen effekt), varaktighet (i sekunder) och riktning (upp, ned, vänster, höger).</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Position</strong></td> 
