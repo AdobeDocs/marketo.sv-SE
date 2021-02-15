@@ -3,7 +3,7 @@ unique-page-id: 12977439
 description: Versionsinformation -Spring '17 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - våren 17
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '707'
 ht-degree: 0%
@@ -45,11 +45,11 @@ Nu är det dags att rensa upp gamla mallar i Sales Insight. Ange ett förfalloda
 
 Med Marketo ABM kan du nu skapa upp till 10 anpassade fält på dina namngivna konton. Du kan mappa dessa anpassade fält till fält i CRM-kontoobjektet och Marketo ABM synkroniserar data, så att du kan utöka dina namngivna ABM-konton och hjälpa till att driva marknadsföringen framåt.
 
-** [Percentiell poängsättning på namngivna ABM-konton](http://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
+** [Percentiell poängsättning på namngivna ABM-konton](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
 Poängen för namngivna konton kan variera mycket. Marketo ABM beräknar nu automatiskt en percentil för var och en av dina poäng, så att du snabbt kan se var varje namngivet konto finns bland dina andra namngivna konton.
 
-** [API:er för kontolista för ABM](http://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
+** [API:er för kontolista för ABM](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
 
 Utnyttja de omfattande och robusta integreringarna med ABM-partners med förbättrat API-stöd för namngivna kontolistor.
 
