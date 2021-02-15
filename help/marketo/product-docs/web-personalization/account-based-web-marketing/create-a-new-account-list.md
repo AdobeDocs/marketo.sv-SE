@@ -3,7 +3,7 @@ unique-page-id: 4720232
 description: Skapa en ny kontolista - Marketo Docs - Produktdokumentation
 title: Skapa en ny kontolista
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Skapa och överför en lista över organisations- och domännamn för att rikta 
 
 >[!NOTE]
 >
->Den här artikeln gäller endast äldre kunder med Web ABM. Om du har skaffat Web ABM efter september 2016 följer du stegen i [den här artikeln](http://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) i stället.
+>Den här artikeln gäller endast äldre kunder med Web ABM. Om du har skaffat Web ABM efter september 2016 följer du stegen i [den här artikeln](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) i stället.
 
 ## Skapa en ny kontolista {#create-a-new-account-list-1}
 
@@ -94,5 +94,5 @@ CSV-filen ersätter den befintliga filen. Den befintliga listan förblir aktiv t
 >[!MORELIKETHIS]
 >
 >* [Skapa ett segment med hjälp av en kontolista](create-a-segment-using-an-account-list.md)
->* [Visa en lista med namngivna konton](http://docs.marketo.com/pages/viewpage.action?pageid=4720244)
+>* [Visa en lista med namngivna konton](https://docs.marketo.com/pages/viewpage.action?pageid=4720244)
 
