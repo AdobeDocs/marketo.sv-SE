@@ -3,7 +3,7 @@ unique-page-id: 2360201
 description: Lägg till anpassade kolumner i en personrapport - Marketo Docs - Produktdokumentation
 title: Lägg till anpassade kolumner i en personrapport
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Lägg till anpassade kolumner i en personrapport {#add-custom-columns-to-a-person-report}
 
-Du kan filtrera mätvärdena i dina [personrapporter](http://docs.marketo.com/display/docs/basic+reporting) ytterligare genom att använda dina [smarta listor](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) som anpassade kolumner.
+Du kan filtrera mätvärdena i dina [personrapporter](https://docs.marketo.com/display/docs/basic+reporting) ytterligare genom att använda dina [smarta listor](https://docs.marketo.com/display/docs/smart+lists+and+static+lists) som anpassade kolumner.
 
 1. Gå till **Marknadsföringsaktiviteter** (eller **Analytics**).
 
@@ -36,7 +36,7 @@ Du kan filtrera mätvärdena i dina [personrapporter](http://docs.marketo.com/di
    >**Djupdykning**
    >
    >
-   >Lär dig hur du skapar och konfigurerar smarta listor i djupdykningen [Smarta listor och Statiska listor](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
+   >Lär dig hur du skapar och konfigurerar smarta listor i djupdykningen [Smarta listor och Statiska listor](https://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
 1. Du har gjort det! Klicka på fliken **Rapport** för att visa rapporten med de nya kolumnerna.
 
@@ -53,5 +53,5 @@ Du kan filtrera mätvärdena i dina [personrapporter](http://docs.marketo.com/di
    >**Djupdykning**
    >
    >
-   >Lär dig mer om många saker du kan göra med rapporter i djupdykningen [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
+   >Lär dig mer om många saker du kan göra med rapporter i djupdykningen [Grundläggande rapportering](https://docs.marketo.com/display/docs/basic+reporting).
 
