@@ -3,7 +3,7 @@ unique-page-id: 4719344
 description: Skapa ett enkelt webbsegment - Marketo Docs - Produktdokumentation
 title: Skapa ett enkelt webbsegment
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Nu har ni segmenterat era besökare från USA och lagt till finanssektorn.
 
 >[!MORELIKETHIS]
 >
->* [Webbsegment](http://docs.marketo.com/x/9QFI)
+>* [Webbsegment](https://docs.marketo.com/x/9QFI)
 
 >
 
