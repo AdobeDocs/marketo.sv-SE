@@ -3,7 +3,7 @@ unique-page-id: 2360403
 description: Jämför programeffektiviteten med Program Analyzer - Marketo Docs - Produktdokumentation
 title: Jämför programeffektiviteten med programanalysen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '484'
 ht-degree: 0%
@@ -98,4 +98,4 @@ Vi ser att Paper Fest 12-programmet inte bara påverkar mer intäkter (större b
 
 >[!NOTE]
 >
->Läs mer om avancerad analys i [Inkomstcykelutforskaren](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>Läs mer om avancerad analys i [Inkomstcykelutforskaren](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
