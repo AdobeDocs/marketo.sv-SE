@@ -3,7 +3,7 @@ unique-page-id: 2360055
 description: E-postrapport, kampanjprestanda i flera arbetsytor - Marketo Docs - produktdokumentation
 title: E-postrapport, kampanjprestanda i flera arbetsytor
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -48,5 +48,5 @@ Aktivera Global rapportering om du vill inkludera data från alla dina marknader
    >**Djupdykning**
    >
    >
-   >Läs allt om rapporter i [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
+   >Läs allt om rapporter i [Grundläggande rapportering](https://docs.marketo.com/display/docs/basic+reporting).
 
