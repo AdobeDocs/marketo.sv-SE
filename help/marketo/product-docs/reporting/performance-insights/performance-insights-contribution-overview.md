@@ -3,7 +3,7 @@ unique-page-id: 12979008
 description: Performance Insights Contribution Overview - Marketo Docs - produktdokumentation
 title: Performance Insights Contribute Overview
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Välj det mätvärde som du vill visa prestandan efter. I det här exemplet titt
 
 >[!NOTE]
 >
->Lär dig mer om [First Touch och Multi-Touch](http://docs.marketo.com/display/DOCS/Understanding+Attribution).
+>Lär dig mer om [First Touch och Multi-Touch](https://docs.marketo.com/display/DOCS/Understanding+Attribution).
 
 Välj vilken period du vill se mätvärden för. I det här exemplet tittar vi på det aktuella året (hittills i år).   ![](assets/3-1.png)
 
