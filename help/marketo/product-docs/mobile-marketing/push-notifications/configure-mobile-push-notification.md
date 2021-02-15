@@ -3,7 +3,7 @@ unique-page-id: 7512454
 description: Konfigurera Mobile Push Notification - Marketo Docs - produktdokumentation
 title: Konfigurera push-meddelanden för mobilen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
@@ -61,7 +61,7 @@ ht-degree: 0%
    >
    >**Extern URL**  - tar dig till en landningssida som inte är Marketo.
 
-   Om du vill infoga en djuplänk för en anpassad knackningsåtgärd klickar du på Anpassad och anger URI:n för djuplänk[ i fältet.](#Deeplink)
+   Om du vill infoga en djuplänk för en anpassad knackningsåtgärd klickar du på Anpassad och anger URI:n för djuplänk](#Deeplink) i fältet.[
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
@@ -99,7 +99,7 @@ En djuplänk-URI består av tre delar: schemanamn, sökväg och identifierare. I
 
 ![](assets/image2016-7-29-12-3a49-3a1.png)
 
-Programmets djuplänksstruktur kan dock skilja sig från ovanstående exempel. Din utvecklare har många alternativ för att definiera URI:er för djuplänk, så be utvecklaren att skicka URI:er (länkar) till de sidor som du är intresserad av att använda. Detta garanterar att de URI:er som du anger i push-meddelanden pekar på rätt platser. Din utvecklare kan [hitta mer information här](http://developers.marketo.com/mobile/enabling-deep-links-in-your-app/).
+Programmets djuplänksstruktur kan dock skilja sig från ovanstående exempel. Din utvecklare har många alternativ för att definiera URI:er för djuplänk, så be utvecklaren att skicka URI:er (länkar) till de sidor som du är intresserad av att använda. Detta garanterar att de URI:er som du anger i push-meddelanden pekar på rätt platser. Din utvecklare kan [hitta mer information här](https://developers.marketo.com/mobile/enabling-deep-links-in-your-app/).
 
 >[!MORELIKETHIS]
 >
