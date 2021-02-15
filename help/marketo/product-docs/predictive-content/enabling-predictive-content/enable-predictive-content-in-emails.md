@@ -3,7 +3,7 @@ unique-page-id: 11385020
 description: Aktivera prediktivt innehåll i e-postmeddelanden - Marketo Docs - produktdokumentation
 title: Aktivera prediktivt innehåll i e-postmeddelanden
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 0%
@@ -90,7 +90,7 @@ Här är ett exempel på hur koden ska se ut (det här är bara ett exempel, kop
 **Exempel**
 
 ```example
-<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="http://www.marketo.com">  
+<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com">  
 <a><img style="border:10px solid red;"></a>  
 </div>
 ```
