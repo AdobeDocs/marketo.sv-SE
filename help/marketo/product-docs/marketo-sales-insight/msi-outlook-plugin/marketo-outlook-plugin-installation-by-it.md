@@ -3,7 +3,7 @@ unique-page-id: 11382815
 description: Marketo Outlook Plugin Installation by IT - Marketo Docs - Produktdokumentation
 title: Marketo Outlook Plugin-installation av IT
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Ibland kräver företagets policyer att IT-teamet installerar all programvara p�
 
 >[!PREREQUISITES]
 >
->[Ange ](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) företagsnyckeln.
+>[Ange ](https://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) företagsnyckeln.
 
 Kör följande kommandorad som System eller ett administratörskonto med växeln /i som ska installeras.  `<pre>msiexec.exe /i [File Name] /qn REG=[Enterprise Key]</pre>`
 
