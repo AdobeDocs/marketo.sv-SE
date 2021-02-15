@@ -3,7 +3,7 @@ unique-page-id: 3571927
 description: Webbpersonaliseringsordlista - Marketo Docs - Produktdokumentation
 title: Ordlista för webbpersonalisering
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Några insikter om världen och språket i Marketo Web Personalization.
 
 Här är tre sätt att använda jokertecken i Webbanpassning.
 
-Matcha alla besökare på sid-URL:er som slutar med priser (till exempel [www.marketo.com/pricing):](http://www.marketo.com/pricing):)
+Matcha alla besökare på sid-URL:er som slutar med priser (till exempel [www.marketo.com/pricing):](https://www.marketo.com/pricing):)
 
 ![](assets/wildcard-example-1.png)
 
