@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: Versionsinformation -vinter '19 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -vinter '19
 translation-type: tm+mt
-source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1112'
 ht-degree: 0%
@@ -40,11 +40,11 @@ Inkludera upp till fem CC-adresser per mottagare i e-postmeddelanden som skickas
 * **Stöd för flera domäner för resurs-API:** Godkännande och kloning av resurser ger samma resultat i API:t och användargränssnittet.
 * **Stöd för e-post-CC för resurs-API**: Användare som klonar, godkänner och bearbetar e-postmeddelanden via API:t behåller pariteten med gränssnittsinställningarna.
 
-** [Munchkin v155 (beta)](http://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
+** [Munchkin v155 (beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
 * **Endast API-läge**: Användarna kan nu bestämma när och hur de ska spåra medlemmar i sina databaser genom att tillåta att enkelsidiga webbappar uttryckligen anropar när de vill spela in en webbsida, istället för att förlita sig på Marketos automatiska spårning.
 * **Hantering** av avanmälan: Hantera enkelt avanmälningar genom att matcha avanmälningsdomänen med Munchkins cookie-domän för spårning.
-* **Domännivåbestämningsparameter**: Domäner med två bokstäver (dvs. &quot;  [website.io](http://website.io)&quot;) spåras automatiskt i Marketo utan ytterligare installationskrav.
+* **Domännivåbestämningsparameter**: Domäner med två bokstäver (dvs. &quot;  [website.io](https://website.io)&quot;) spåras automatiskt i Marketo utan ytterligare installationskrav.
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
@@ -103,10 +103,10 @@ För att hantera domäner och underdomäner effektivare kan användare nu lägga
 
 **Uppdaterat MME Software Development Kit (SDK) för Android**
 
-Vi har uppdaterat vårt SDK för Android till ett modernare, stabilare och skalbart ramverk som innehåller större flexibilitet och nya ingenjörsfunktioner. Apputvecklare för Android kan nu direkt använda Googles [Firebase Cloud Messaging](http://firebase.google.com/docs/cloud-messaging/) (FCM) med denna nya SDK.
+Vi har uppdaterat vårt SDK för Android till ett modernare, stabilare och skalbart ramverk som innehåller större flexibilitet och nya ingenjörsfunktioner. Apputvecklare för Android kan nu direkt använda Googles [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) (FCM) med denna nya SDK.
 
-* [Utvecklarinstruktioner](http://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
-* [Frågor och svar för utvecklare](http://developers.marketo.com/mobile/installation/#android_fcm_faq)
+* [Utvecklarinstruktioner](https://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
+* [Frågor och svar för utvecklare](https://developers.marketo.com/mobile/installation/#android_fcm_faq)
 
 >[!NOTE]
 >
@@ -116,6 +116,6 @@ Vi har uppdaterat vårt SDK för Android till ett modernare, stabilare och skalb
 
 **Extensible Webinar Platform**
 
-Förutom vår produktrelease arbetar vårt partnerteam på ett nytt ramverk som gör det möjligt för webbinarier-leverantörer att bygga och underhålla sina egna integreringar med Marketo, vilket ger större flexibilitet när det gäller att uppdatera och förbättra sina lösningar och samtidigt ger marknadsförarna möjlighet att få ut så mycket som möjligt av de integreringar de valt.
+Förutom vår produktrelease arbetar vårt partnerteam på ett nytt ramverk som gör det möjligt för webbinarier-leverantörer att bygga och underhålla sina egna integreringar med Marketo, vilket ger större flexibilitet när det gäller att uppdatera och förbättra sina lösningar samtidigt som marknadsförarna får ut så mycket som möjligt av de integreringar de valt.
 
 Vi planerar att lansera vår nya plattform med leverantörer från fall till fall. Mer information finns i vår [programinformation](https://www.marketo.com/why-marketo/partners/technology/) eller kontakta din Marketinkontakt.
