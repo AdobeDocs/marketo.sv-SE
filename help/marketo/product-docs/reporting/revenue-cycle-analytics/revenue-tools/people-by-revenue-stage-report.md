@@ -3,7 +3,7 @@ unique-page-id: 2360418
 description: Statusrapport - Marketo Docs - Produktdokumentation
 title: Scenrapport för personer efter intäkt
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Statusrapport för personer efter intäkt {#people-by-revenue-stage-report}
 
-Du kan skapa en rapport som visar i vilket skede i din [intäktscykelmodell](http://docs.marketo.com/display/docs/revenue+cycle+models) dina medarbetare befinner sig. Rapporten innehåller alla stadier från den angivna modellen så länge det finns ett personsaldo för rapportens angivna datumintervall.
+Du kan skapa en rapport som visar i vilket skede i din [intäktscykelmodell](https://docs.marketo.com/display/docs/revenue+cycle+models) dina medarbetare befinner sig. Rapporten innehåller alla stadier från den angivna modellen så länge det finns ett personsaldo för rapportens angivna datumintervall.
 
 >[!AVAILABILITY]
 >
@@ -49,5 +49,5 @@ Du kan skapa en rapport som visar i vilket skede i din [intäktscykelmodell](htt
    >**Djupdykning**
    >
    >
-   >Lär dig hur du lägger till kolumner och mycket mer i [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
+   >Lär dig hur du lägger till kolumner och mycket mer i [Grundläggande rapportering](https://docs.marketo.com/display/docs/basic+reporting).
 
