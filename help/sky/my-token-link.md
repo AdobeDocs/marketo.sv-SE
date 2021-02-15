@@ -2,7 +2,7 @@
 title: my-token-link
 description: Min tokenlänk
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -37,7 +37,7 @@ Så här konfigurerar du en länktoken som ska användas i program- och kampanjm
 
    >[!NOTE]
    >
-   >Om Inkludera mkt_tok är markerat visar Marketo en länkförhandsvisning av den varumärkesskyddade spårningsdomänen (t.ex. http://mkto-sjqe3355.com/mn/..). Om du avmarkerar den här kryssrutan ändras länken. Om du inaktiverar länkspårning för e-post eller landningssidor förkortas URL-adressen till sin grundläggande längd (t.ex. www.examplepage.com).
+   >Om Inkludera mkt_tok är markerat visar Marketo en länkförhandsvisning av den varumärkesskyddade spårningsdomänen (t.ex. https://mkto-sjqe3355.com/mn/..). Om du avmarkerar den här kryssrutan ändras länken. Om du inaktiverar länkspårning för e-post eller landningssidor förkortas URL-adressen till sin grundläggande längd (t.ex. www.examplepage.com).
 
 1. Om du vill kan du under [!UICONTROL Advanced] anpassa länken med CSS. Klicka på **[!UICONTROL Save]**.
 
