@@ -3,7 +3,7 @@ unique-page-id: 11376159
 description: Innan du skapar push-meddelanden och meddelanden i appen - Marketo Docs - produktdokumentation
 title: Innan du skapar push-meddelanden och meddelanden i appen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '360'
 ht-degree: 0%
@@ -17,9 +17,9 @@ Det är inte svårt att skapa push-meddelanden och meddelanden i appen, men du m
 
 1. Först lägger Marketo Admin [till en mobilapp](add-a-mobile-app.md)
 1. Marketo Admin skickar sedan [ett kodfragment till utvecklaren](send-sdk-code-to-a-developer.md)
-1. Utvecklaren hämtar SDK-filen och inkluderar fragment och andra metoder för [Android](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android/) eller [iOS](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)
+1. Utvecklaren hämtar SDK-filen och inkluderar fragment och andra metoder för [Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android/) eller [iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)
 1. Som standard utlöses meddelanden i appen när appen öppnas. Om du vill utlösa meddelanden för andra händelser, till exempel när en viss sida visas eller en viss knapp skickas, måste utvecklaren lägga till anpassade händelser i koden (se [Anpassade händelser för meddelanden i appen](#CustomEvents) nedan)
-1. Utvecklaren [genererar nyckel och projektnummer för server-API för Android](http://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-android/) eller [certifiering och lösenord för iOS](http://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-ios/) och skickar den till Marketo Admin
+1. Utvecklaren [genererar nyckel och projektnummer för server-API för Android](https://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-android/) eller [certifiering och lösenord för iOS](https://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-ios/) och skickar den till Marketo Admin
 1. Marketo Admin konfigurerar push-meddelandeåtkomst [med Server-API-nyckeln (Android)](configure-mobile-app-android-push-access.md) eller [med certifikatet (iOS)](configure-mobile-app-ios-push-access.md)
 
 >[!TIP]
@@ -34,7 +34,7 @@ När du har gjort alla förberedelser för meddelanden i appen och push-meddelan
 
 >[!MORELIKETHIS]
 >
->* [Skapa ett meddelande i appen](http://docs.marketo.com/display/docs/create+an+in-app+message)
+>* [Skapa ett meddelande i appen](https://docs.marketo.com/display/docs/create+an+in-app+message)
    >
    >
 * [Skapa ett push-meddelande](../../../product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
