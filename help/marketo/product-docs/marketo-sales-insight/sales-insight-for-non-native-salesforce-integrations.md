@@ -3,7 +3,7 @@ unique-page-id: 45417125
 description: Sales Insight for Non-Native Salesforce Integrations - Marketo Docs - Produktdokumentation
 title: Sales Insight for Non-Native Salesforce Integrations
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1269'
 ht-degree: 0%
@@ -19,8 +19,8 @@ Om ditt Marketo-konto är anslutet till Salesforce via en anpassad eller icke-in
 >
 >* Kontakta er Customer Success Manager för att aktivera funktionen&quot;MSI Non-Native&quot; för er Marketo-instans.
 >* Ett Salesforce-konto med konfiguration av MSI-paket.
->* Marketo REST API [har konfigurerats](http://developers.marketo.com/rest-api/). De exponerade CRUD-API:erna kommer att utgöra grunden för den icke-ursprungliga synkroniseringen.
->* Läs [det här blogginlägget](http://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/) för att få en förståelse för objektet och relationerna.
+>* Marketo REST API [har konfigurerats](https://developers.marketo.com/rest-api/). De exponerade CRUD-API:erna kommer att utgöra grunden för den icke-ursprungliga synkroniseringen.
+>* Läs [det här blogginlägget](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/) för att få en förståelse för objektet och relationerna.
 >* Ställ in Salesforce-objekt för att visa den globalt unika identifieraren som inte är skiftlägeskänslig för 18 tecken i stället för den globalt unika identifieraren för 15 tecken.
 
 >
@@ -57,8 +57,8 @@ Om ditt Marketo-konto är anslutet till Salesforce via en anpassad eller icke-in
  </tbody> 
 </table>
 
-API-dokumentation för säljare: [https://developers.marketo.com/rest-api/lead-database/sales-persons/](http://developers.marketo.com/rest-api/lead-database/sales-persons/)\
-API-dokumentation för synkronisering av säljaren: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_People/syncSalesPeopleUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_People/syncSalesPeopleUsingPOST)
+API-dokumentation för säljare: [https://developers.marketo.com/rest-api/lead-database/sales-persons/](https://developers.marketo.com/rest-api/lead-database/sales-persons/)\
+API-dokumentation för synkronisering av säljaren: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_People/syncSalesPeopleUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_People/syncSalesPeopleUsingPOST)
 
 1. Synkronisera Salesforce-konton med Marketo.
 
@@ -89,8 +89,8 @@ API-dokumentation för synkronisering av säljaren: [https://developers.marketo.
  </tbody> 
 </table>
 
-API-dokumentation för företag: [https://developers.marketo.com/rest-api/lead-database/companies/](http://developers.marketo.com/rest-api/lead-database/companies/)\
-`API documentation for syncing Companies:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST)`
+API-dokumentation för företag: [https://developers.marketo.com/rest-api/lead-database/companies/](https://developers.marketo.com/rest-api/lead-database/companies/)\
+`API documentation for syncing Companies:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST)`
 
 1. Synkronisera Salesforce-leads/kontakter till Marketo.
 
@@ -126,8 +126,8 @@ API-dokumentation för företag: [https://developers.marketo.com/rest-api/lead-d
  </tbody> 
 </table>
 
-API-dokumentation för leads: [`https://developers.marketo.com/rest-api/lead-database/leads/`](http://developers.marketo.com/rest-api/lead-database/leads/)\
-API-dokumentation för synkronisering av leads:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST)
+API-dokumentation för leads: [`https://developers.marketo.com/rest-api/lead-database/leads/`](https://developers.marketo.com/rest-api/lead-database/leads/)\
+API-dokumentation för synkronisering av leads:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST)
 
 1. Synkronisera Salesforce-affärsmöjligheter med Marketo.
 
@@ -163,8 +163,8 @@ API-dokumentation för synkronisering av leads:  [https://developers.marketo.com
  </tbody> 
 </table>
 
-API-dokumentation för säljprojekt: [`https://developers.marketo.com/rest-api/lead-database/opportunities/`](http://developers.marketo.com/rest-api/lead-database/opportunities/)\
-`API documentation for syncing Opportunities:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST)`
+API-dokumentation för säljprojekt: [`https://developers.marketo.com/rest-api/lead-database/opportunities/`](https://developers.marketo.com/rest-api/lead-database/opportunities/)\
+`API documentation for syncing Opportunities:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST)`
 
 1. Synkronisera Salesforce-kontaktroller till Marketo.
 
@@ -200,8 +200,8 @@ API-dokumentation för säljprojekt: [`https://developers.marketo.com/rest-api/l
  </tbody> 
 </table>
 
-API-dokumentation för säljprojekt: [`https://developers.marketo.com/rest-api/lead-database/opportunities/`](http://developers.marketo.com/rest-api/lead-database/opportunities/)\
-`API documentation for syncing Opportunities:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST)`
+API-dokumentation för säljprojekt: [`https://developers.marketo.com/rest-api/lead-database/opportunities/`](https://developers.marketo.com/rest-api/lead-database/opportunities/)\
+`API documentation for syncing Opportunities:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST)`
 
 1. Synkronisera senast intressanta stund-/MSI-bedömningsfält till SFDC.
 
@@ -264,7 +264,7 @@ API-dokumentation för säljprojekt: [`https://developers.marketo.com/rest-api/l
  </tbody> 
 </table>
 
-Dokumentation för Lead REST API:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET).
+Dokumentation för Lead REST API:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET).
 
 Korrekt användning av de externa fälten är avgörande för en lyckad icke-inbyggd synkronisering. Om du inte ser data i vissa vyer är det troligt att ett visst fält inte synkroniserades korrekt. Om t.ex. en leads aktiviteter och intressanta stunder inte visas när du tittar i MSI-widgeten under deras konto, är det troligt att antingen lead-företagets företag eller kontot inte synkroniserades korrekt. Om du utför en GET-begäran för denna lead samtidigt som du anger externa fält kan du kontrollera om leadet synkroniserades korrekt. E-postmeddelandet för den externa säljaren i Marketo måste dessutom matcha e-postmeddelandet för den användaren i Salesforce. Data kanske inte visas på Marketo-fliken i Salesforce om e-postmeddelandena inte matchar.
 
