@@ -3,7 +3,7 @@ unique-page-id: 14745825
 description: Sales Connect och GDPR Compliance - Marketo Docs - produktdokumentation
 title: Efterlevnad av Sales Connect och GDPR
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1387'
 ht-degree: 0%
@@ -38,10 +38,11 @@ Den allmänna dataskyddsförordningen gäller alla organisationer inom eller uta
 
 Marknadsförarna vill skapa kundupplevelser som känns personliga och mänskliga, bygger på förtroende och levereras med omsorg. Även om den allmänna dataskyddsförordningen inte använder dessa villkor är målen desamma - att respektera kundernas rättigheter och att bygga upp deras förtroende. För att bygga upp och upprätthålla detta förtroende måste marknadsförarna ägna sig åt hur, när och varför deras kunder vill bli engagerade. Det är viktigt att kundens preferenser respekteras, inte bara som ett juridiskt krav, utan som grund för kundfokuserade engagemangsrutiner.
 
-Hur marknadsförarna tillgodoser dessa högre förväntningar när det gäller insamling, användning och säkerhet av personuppgifter som används regelbundet i arbetet är avgörande, och Marketo kan hjälpa till att uppfylla dessa förväntningar.\
+Hur marknadsförarna tillgodoser dessa högre förväntningar när det gäller insamling, användning och säkerhet av personuppgifter som används regelbundet i arbetet är avgörande, och Marketo kan hjälpa till att uppfylla dessa förväntningar.
+
 Det finns två viktiga aspekter av den allmänna dataskyddsförordningen där marknadsförarna måste granska tidigare, nuvarande och framtida praxis. Det första är samtycke från individen att behandla deras personuppgifter, och det andra är ansvar, nämligen att kunna visa hur principerna i den allmänna dataskyddsförordningen följs.
 
-Vi tillhandahåller omfattande information om samtycke och ansvar inom Marketo-plattformen i vår e-bok, [GDPR och The Marketer](http://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). I den här artikeln kommer vi dock att särskilt fokusera på de nya funktionerna i Marketo Sales Connect som kommer att hjälpa din organisation att följa GDPR-reglerna.
+Vi tillhandahåller omfattande information om samtycke och ansvar inom Marketo-plattformen i vår e-bok, [GDPR och The Marketer](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). I den här artikeln kommer vi dock att särskilt fokusera på de nya funktionerna i Marketo Sales Connect som kommer att hjälpa din organisation att följa GDPR-reglerna.
 
 ## GDPR-kompatibilitet inom Marketo Sales Connect {#gdpr-compliance-in-marketo-sales-connect}
 
@@ -94,7 +95,8 @@ Om du väljer&quot;Godkännande&quot; som auktoriseringstyp, två obligatoriska 
 ![](assets/6.png)
 
 Om du väljer &quot;Annat&quot; för antingen Auktoriseringstyp eller Källtyp kan du ange text som beskriver källtypen.
-** ![](assets/7.png)
+
+![](assets/7.png)
 
 Med gruppåtgärder** Marketo Sales Connect kan du även uppdatera en kontakts auktoriserings- och källtyper i grupp, vilket sparar värdefull tid i efterlevnadsprocessen.
 
@@ -166,7 +168,9 @@ Du kan exportera kontaktinformation från persondetaljvyn. Vid export hämtas en
 >
 >Detta kan bara göras en kontakt i taget. Det finns för närvarande ingen funktion som tillåter bulkexport av kontakter.
 
-Om du vill exportera kontaktinformation klickar du på de tre lodräta prickarna i huvudet i persondetaljvyn och väljer **Exportera**. .CSV-filen hämtas automatiskt.   ![](assets/thirteen.png)
+Om du vill exportera kontaktinformation klickar du på de tre lodräta prickarna i huvudet i persondetaljvyn och väljer **Exportera**. .CSV-filen hämtas automatiskt.
+
+![](assets/thirteen.png)
 
 >[!NOTE]
 >
@@ -185,4 +189,4 @@ Ett vanligt missförstått område i GDPR är kontakter som avslutar prenumerati
 
 Marketo är en entusiastisk förespråkare för den engagerande ekonomins styrka och kundfokus och förstår vikten av att den registrerade tar hand om integritetsskydd och dataskydd. Precis som med andra dataskyddslagar kräver GDPR-efterlevnad engagemang från både Marketo och våra kunder. Den här artikeln är avsedd att hjälpa er att använda Marketo på ett lämpligt sätt för att stödja er organisations GDPR-efterlevnad.
 
-Vi kommer att fortsätta att noggrant följa GDPR-riktlinjer som utfärdats av tillsynsmyndigheter och tillhörande lagstiftning. Uppdateringar kommer att publiceras på vårt Trust Center på [trust.marketo.com](http://trust.marketo.com).
+Vi kommer att fortsätta att noggrant följa GDPR-riktlinjer som utfärdats av tillsynsmyndigheter och tillhörande lagstiftning. Uppdateringar kommer att publiceras på vårt Trust Center på [trust.marketo.com](https://trust.marketo.com).
