@@ -3,7 +3,7 @@ unique-page-id: 2359488
 description: Gruppera e-postrapporter efter segment - Marketo Docs - Produktdokumentation
 title: Gruppera e-postrapporter efter segment
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Gruppera e-postrapporter efter segment {#group-email-reports-by-segmentations}
 
-Segmenteringar är inte bara för dynamiskt innehåll. Du kan också gruppera din [rapport om e-postprestanda](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) med [segmenteringar](http://docs.marketo.com/display/docs/segmentation+and+snippets).
+Segmenteringar är inte bara för dynamiskt innehåll. Du kan också gruppera din [rapport om e-postprestanda](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) med [segmenteringar](https://docs.marketo.com/display/docs/segmentation+and+snippets).
 
 >[!PREREQUISITES]
 >
