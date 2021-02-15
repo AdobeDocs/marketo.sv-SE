@@ -3,7 +3,7 @@ unique-page-id: 2359474
 description: Redigera en segmentering - Marketo Docs - Produktdokumentation
 title: Redigera en segmentering
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -53,7 +53,7 @@ Det är enkelt att ändra befintliga segment. Här är det låga ner.
 
 ## Redigera segmentregler {#edit-segment-rules}
 
-1. Gå till **Smart lista** i utkastet **Segment**. Använd regler som liknar [Definiera segmentregler](http://docs.marketo.com/display/public/DOCS/Define+Segment+Rules).
+1. Gå till **Smart lista** i utkastet **Segment**. Använd regler som liknar [Definiera segmentregler](https://docs.marketo.com/display/public/DOCS/Define+Segment+Rules).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
