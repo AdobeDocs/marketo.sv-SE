@@ -3,7 +3,7 @@ unique-page-id: 4719332
 description: Distribuera RTP JavaScript - Marketo Docs - Produktdokumentation
 title: Distribuera RTP JavaScript
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -45,5 +45,5 @@ Följ installationsanvisningarna nedan för att skapa och konfigurera RTP-taggen
 
 >[!MORELIKETHIS]
 >
->* [Implementering av RTP-tagg](http://docs.marketo.com/display/docs/rtp+tag+implementation)
+>* [Implementering av RTP-tagg](https://docs.marketo.com/display/docs/rtp+tag+implementation)
 
