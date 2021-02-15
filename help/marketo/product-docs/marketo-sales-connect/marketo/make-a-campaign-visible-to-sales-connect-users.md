@@ -3,7 +3,7 @@ unique-page-id: 14745655
 description: Gör en kampanj synlig för användare av Sales Connect - Marketo Docs - Produktdokumentation
 title: Gör en kampanj synlig för användare av Sales Connect
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -50,4 +50,3 @@ Kampanjer kan bara delas om de är synliga. Så här gör du.
 1. Klicka på fliken **Schedule** och **Aktivera** kampanjen.
 
    ![](assets/nine.png)
-
