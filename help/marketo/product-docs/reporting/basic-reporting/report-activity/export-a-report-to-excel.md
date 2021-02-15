@@ -3,7 +3,7 @@ unique-page-id: 2360020
 description: Exportera en rapport till Excel - Marketo Docs - Produktdokumentation
 title: Exportera en rapport till Excel
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -40,5 +40,5 @@ Du kan exportera alla rapporter till en Excel-fil för att arbeta med data i and
    >**Djupdykning**
    >
    >
-   >Se alla andra användbara saker du kan göra med rapporter i djupdykningen [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
+   >Se alla andra användbara saker du kan göra med rapporter i djupdykningen [Grundläggande rapportering](https://docs.marketo.com/display/docs/basic+reporting).
 
