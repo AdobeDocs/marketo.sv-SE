@@ -3,7 +3,7 @@ unique-page-id: 10912178
 description: Konfigurera knappen Stäng och godkänn meddelandet Marketo Docs - Produktdokumentation
 title: Konfigurera knappen Stäng och godkänn meddelandet
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '366'
 ht-degree: 0%
@@ -71,12 +71,12 @@ Alla dina val för grafik, text och knappar har sparats automatiskt. Nu är du r
 
 Så många alternativ, men nu har du ett snyggt meddelande i appen som är klart att användas!
 
-Nu är det dags att [skicka meddelandet](http://docs.marketo.com/display/docs/send+your+in-app+message).
+Nu är det dags att [skicka meddelandet](https://docs.marketo.com/display/docs/send+your+in-app+message).
 
 >[!MORELIKETHIS]
 >
 >* [Förstå meddelanden i appen](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Skicka ditt meddelande i appen](http://docs.marketo.com/display/docs/send+your+in-app+message)
+>* [Skicka ditt meddelande i appen](https://docs.marketo.com/display/docs/send+your+in-app+message)
 >* [Välj en layout för ditt meddelande i appen](choose-a-layout-for-your-in-app-message.md)
 
 >
