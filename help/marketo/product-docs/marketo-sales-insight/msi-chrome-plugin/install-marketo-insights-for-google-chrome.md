@@ -3,9 +3,9 @@ unique-page-id: 1147326
 description: Installera Marketo Insights för Google Chrome - Marketo Docs - Produktdokumentation
 title: Installera Marketo Insights för Google Chrome
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 7952f5069ed641e2b5ca329c69f4e3f237e2c43e
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Följ de här stegen för att börja använda det kraftfulla Chrome-tillägget.
 
    ![](assets/image2015-10-5-10-3a24-3a7.png)
 
-1. Högerklicka på Marketo-logotypen i Chrome och välj** Alternativ**.
+1. Högerklicka på Marketo-logotypen i Chrome och välj **Alternativ**.
 
    ![](assets/two.png)
 
@@ -37,13 +37,12 @@ Följ de här stegen för att börja använda det kraftfulla Chrome-tillägget.
 
    >[!NOTE]
    >
-   >Registreringskoden kommer att finnas i e-postmeddelandet som skickas efter en Marketo-administratör [i](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) [skickar en Marketo-e-posttilläggslicens](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [.](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) **Den upphör att gälla efter 14 dagar.**
+   >Registreringskoden finns i e-postmeddelandet som skickas efter att en Marketo-administratör [utfärdar en Marketo-tilläggslicens för e-post](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [.](https://docs.marketo.com/pages/viewpage.action?pageid=7510848) **Den upphör att gälla efter 14 dagar**.
 
-1. Klicka** Tillåt **för att tillåta offlineåtkomst.
+1. Klicka på **Tillåt** om du vill tillåta offlineåtkomst.
 
    ![](assets/image2015-10-5-10-3a34-3a1.png)
 
 >[!MORELIKETHIS]
 >
->[Using Marketo Insights for Google Chrome](using-marketo-insights-for-google-chrome.md)
-
+>[Using Marketo Insights for Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
