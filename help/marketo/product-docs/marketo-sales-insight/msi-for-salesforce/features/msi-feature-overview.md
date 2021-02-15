@@ -3,9 +3,9 @@ unique-page-id: 37356893
 description: MSI Feature Overview - Marketo Docs - Produktdokumentation
 title: Översikt över MSI-funktioner
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '908'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ MSI Visualforce-panelen innehåller följande funktioner:
 
 * Tabbar
 
-   * [Instrumentpanel för insikter](http://docs.marketo.com/x/EoGMAg)
+   * [Instrumentpanel för insikter](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
    * Intressant stund
    * Webbaktivitet
    * E-post
@@ -170,7 +170,7 @@ Salesforce Classic: Lägg till åtgärdsknapparna Lägg till i Marketo Campaign 
 
 >[!MORELIKETHIS]
 >
->[Marketo Sales Insight Configuration tab in Salesforce](http://docs.marketo.com/x/UoCMAg)
+>[Marketo Sales Insight Configuration tab in Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
 
 ## Prestandarapporter för Sales Insight {#sales-insight-performance-reports}
 
