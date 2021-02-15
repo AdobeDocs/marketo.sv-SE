@@ -3,7 +3,7 @@ unique-page-id: 2360012
 description: People by Status Report - Marketo Docs - produktdokumentation
 title: Rapport om personer efter status
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -38,5 +38,5 @@ Granska hur väl du flyttar personer genom processen genom att kontrollera hur m
    >**Djupdykning**
    >
    >
-   >Lär dig hur du lägger till kolumner och mycket mer i djupdykningen [Grundläggande rapportering](http://docs.marketo.com/display/docs/basic+reporting).
+   >Lär dig hur du lägger till kolumner och mycket mer i djupdykningen [Grundläggande rapportering](https://docs.marketo.com/display/docs/basic+reporting).
 
