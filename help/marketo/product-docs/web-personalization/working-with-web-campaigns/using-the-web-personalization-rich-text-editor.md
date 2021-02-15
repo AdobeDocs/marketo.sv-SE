@@ -3,7 +3,7 @@ unique-page-id: 4719179
 description: Använda redigeraren för webbpersonalisering - Marketo Docs - Produktdokumentation
 title: Använda Redigeraren för webbanpassning av RTF
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -51,9 +51,9 @@ Viktiga ikoner i RTF-redigeraren är bland annat:
 
 >[!NOTE]
 >
->Webbtoken använder [persondata](http://docs.marketo.com/display/DOCS/Manage+Person+Data) från din Marketo-databas som hanteras i Webbanpassning under Kontoinställningar > Databas. Om webbtoken är ett nytt databasfält som ännu inte finns i Kontoinställningar > Databas, läggs det till automatiskt och kan ta upp till 24 timmar att aktivera.
+>Webbtoken använder [persondata](https://docs.marketo.com/display/DOCS/Manage+Person+Data) från din Marketo-databas som hanteras i Webbanpassning under Kontoinställningar > Databas. Om webbtoken är ett nytt databasfält som ännu inte finns i Kontoinställningar > Databas, läggs det till automatiskt och kan ta upp till 24 timmar att aktivera.
 
 >[!MORELIKETHIS]
 >
->[Använda RTF-redigeraren](http://docs.marketo.com/display/docs/using+the+rich+text+editor#usingtherichtexteditor-features)
+>[Använda RTF-redigeraren](https://docs.marketo.com/display/docs/using+the+rich+text+editor#usingtherichtexteditor-features)
 
