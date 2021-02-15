@@ -3,9 +3,9 @@ unique-page-id: 37355602
 description: Installera och konfigurera Marketo Sales Insight i Microsoft Dynamics Online - Marketo Docs - produktdokumentation
 title: Installera och konfigurera Marketo Sales Insight i Microsoft Dynamics Online
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '509'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Marketo Sales Insight är ett fantastiskt verktyg för att ge säljteamet ett&qu
 
 >[!PREREQUISITES]
 >
->Slutför din [Marketo-Microsoft-integrering](http://docs.marketo.com/x/E4A2).
+>Slutför er Marketo-Microsoft-integrering.
 >
->[Hämta rätt ](http://docs.marketo.com/x/LoJo) lösning för din version av Microsoft Dynamics CRM.
+>[Hämta rätt ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) lösning för din version av Microsoft Dynamics CRM.
 
 ## Importera lösning {#import-solution}
 
@@ -31,7 +31,7 @@ Marketo Sales Insight är ett fantastiskt verktyg för att ge säljteamet ett&qu
 
    ![](assets/image2014-12-12-9-3a4-3a56-1.png)
 
-1. Klicka på **Anpassningar** under INSTÄLLNINGAR.
+1. Klicka på **Anpassningar** under Inställningar.
 
    ![](assets/image2015-4-29-14-3a22-3a1-1.png)
 
@@ -40,9 +40,6 @@ Marketo Sales Insight är ett fantastiskt verktyg för att ge säljteamet ett&qu
    ![](assets/image2014-12-12-9-3a5-3a17-1.png)
 
    >[!NOTE]
-   >
-   >**Påminnelse**
-   >
    >
    >Du bör redan ha installerat och konfigurerat Marketo-lösningen innan du går vidare.
 
@@ -55,6 +52,7 @@ Marketo Sales Insight är ett fantastiskt verktyg för att ge säljteamet ett&qu
    ![](assets/image2014-12-12-9-3a5-3a36-1.png)
 
 1. Hitta och installera den lösning du just laddat ned på datorn.
+
 1. Klicka på **Nästa**.
 
    ![](assets/seven.png)
@@ -89,7 +87,7 @@ Låt oss knyta din Marketo-instans till Sales Insight i Dynamics. Så här:
 >
 >**Administratörsbehörigheter krävs**
 
-1. Logga in på Marketo och gå till **Admin **sektionen.
+1. Logga in på Marketo och gå till avsnittet **Admin**.
 
    ![](assets/image2014-12-12-9-3a6-3a50-1.png)
 
@@ -107,17 +105,14 @@ Låt oss knyta din Marketo-instans till Sales Insight i Dynamics. Så här:
 
    >[!NOTE]
    >
-   >Följande fält måste synkroniseras med Marketo för *både Lead och Contact* för att Sales Insight ska fungera:
+   >Följande fält måste synkroniseras med Marketo för _både Lead och Contact_ för att Sales Insight ska fungera:
    >
-   >    
-   >    
-   >    * Prioritet
-   >    * Akut
-   >    * Relativa poäng
+   >* Prioritet
+   >* Akut
+   >* Relativa poäng
 
-   >    
-   >    
-   >Om något av dessa fält saknas visas ett felmeddelande i Marketo med namnet på de fält som saknas. Utför [den här proceduren](../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md) för att åtgärda detta.
+   >
+   >Om något av dessa fält saknas visas ett felmeddelande i Marketo med namnet på de fält som saknas. Utför [den här proceduren](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md) för att åtgärda detta.
 
 1. Gå tillbaka i Microsoft Dynamics till **Inställningar**.
 
@@ -153,7 +148,7 @@ Låt oss knyta din Marketo-instans till Sales Insight i Dynamics. Så här:
 
    ![](assets/enable-four.png)
 
-1. Detta *markerar automatiskt* MSI-fält som tidigare har inaktiverats (trängsel, relativ poäng och prioritet). Klicka bara på **Spara** för att börja synkronisera data.
+1. Detta _markerar automatiskt_ MSI-fält som tidigare har inaktiverats (trängsel, relativ poäng och prioritet). Klicka bara på **Spara** för att börja synkronisera data.
 
    ![](assets/enable-five.png)
 
@@ -187,5 +182,4 @@ Slutligen måste du ge specifika användare tillgång till Marketo Sales Insight
 
 >[!MORELIKETHIS]
 >
->[Stjärnor och flamma för lead-/kontaktposter](http://docs.marketo.com/x/BICMAg)
-
+>[Stjärnor och flamma för lead-/kontaktposter](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
