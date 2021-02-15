@@ -3,7 +3,7 @@ unique-page-id: 10095358
 description: Visa person- och kontoinformation och aktiviteter i Google Mail - Marketo Docs - Produktdokumentation
 title: Visa person- och kontoinformation och aktiviteter i Google Mail
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Använd rutan Sammanhangsbaserade insikter om Marketo för att se kontoinformati
 
 Panelen visas både i helskärmsfönstret och som det vanliga läsfönstret för Google Mail. I dispositionsvyn visar rutan information och aktiviteter för den första personen som anges på raden Till. I läsvyn visar rutan information och aktiviteter för den person som skickade e-postmeddelandet du läser till dig.
 
-På fliken Personaktivitet visas relevant information om personen, till exempel namn, titel, bild och så vidare. Du kan även se de senaste aktiviteterna som har inträffat efter att du har skickat ett e-postmeddelande, till exempel besökt en webbsida, fyllt i ett formulär, klickat på en länk, deltagit i ett evenemang och öppnat ett e-postmeddelande.
+På fliken Personaktivitet visas relevant information om personen, till exempel namn, titel, bild och så vidare. Du kan även se de senaste aktiviteterna som har inträffat efter att du har skickat ett e-postmeddelande, till exempel besökt en webbsida, fylla i ett formulär, klicka på en länk, delta i ett evenemang och öppna ett e-postmeddelande.
 
 ![](assets/1.png)
 
@@ -49,5 +49,4 @@ Klicka på Marketo-ikonen för att öppna rutan.
 
 >[!MORELIKETHIS]
 >
->[Using Marketo Insights for Google Chrome](using-marketo-insights-for-google-chrome.md)
-
+>[Using Marketo Insights for Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
