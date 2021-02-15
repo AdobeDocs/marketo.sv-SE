@@ -3,7 +3,7 @@ unique-page-id: 10617187
 description: Understanding Privacy Settings - Marketo Docs - Product Documentation
 title: Sekretessinställningar
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
@@ -72,7 +72,7 @@ Marknadsförarna kan skydda sin integritet genom att spåra användare med en an
 
    >[!NOTE]
    >
-   >Om du använder den här parametern måste Munchkin V2 vara aktiverat. Kontakta [Marketo Support](http://nation.marketo.com/community/support_solutions) om du vill aktivera den för din prenumeration.
+   >Om du använder den här parametern måste Munchkin V2 vara aktiverat. Kontakta [Marketo Support](https://nation.marketo.com/community/support_solutions) om du vill aktivera den för din prenumeration.
 
 * För Webbanpassning (RTP) lägger du till detta i javascript-filen:
 
