@@ -3,7 +3,7 @@ unique-page-id: 11384665
 description: Förstå prediktivt innehåll - Marketo Docs - Produktdokumentation
 title: Förstå prediktivt innehåll
 translation-type: tm+mt
-source-git-commit: 40f08784ee6f7ac105ed027963c0d5a7ea812808
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -58,7 +58,7 @@ Med filtrering av aktiverat innehåll kan ni se hur varje källa fungerar.
 
 ## Visa tabelldata för prediktivt innehåll {#view-table-data-for-predictive-content}
 
-I tabellen kan du se vilka källor som är aktiverade för prediktivt innehåll, från vänster till höger: Rekommendationsfält, e-post och multimedia. Aktiverade källor visas i grönt. Du aktiverar dessa när du [redigerar innehållet](http://docs.marketo.com/display/docs/edit+predictive+content).
+I tabellen kan du se vilka källor som är aktiverade för prediktivt innehåll, från vänster till höger: Rekommendationsfält, e-post och multimedia. Aktiverade källor visas i grönt. Du aktiverar dessa när du [redigerar innehållet](https://docs.marketo.com/display/docs/edit+predictive+content).
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
@@ -78,6 +78,6 @@ Håll markören över fältet i kolumnen Konverteringsgrad om du vill visa konve
 
 >[!MORELIKETHIS]
 >
->* [Prediktivt innehåll](http://docs.marketo.com/display/docs/predictive+content)
->* [Redigera prediktivt innehåll](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [Prediktivt innehåll](https://docs.marketo.com/display/docs/predictive+content)
+>* [Redigera prediktivt innehåll](https://docs.marketo.com/display/docs/edit+predictive+content)
 
