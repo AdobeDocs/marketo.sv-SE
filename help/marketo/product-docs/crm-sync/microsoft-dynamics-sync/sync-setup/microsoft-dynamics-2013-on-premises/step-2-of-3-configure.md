@@ -3,7 +3,7 @@ unique-page-id: 3571816
 description: Steg 2 av 3 - Configure Sync User for Marketo (2013 On-Premises) - Marketo Docs - produktdokumentation
 title: Steg 2 av 3 - Konfigurera Synkronisera användare för Marketo (On-Premises 2013)
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Tilldela endast Marketo-synkroniseringsanvändarrollen till Marketför att synkr
 
    ![](assets/image2014-12-11-11-3a13-3a29.png)
 
-1. En lista över användare visas här. Välj din dedikerade Marketo-synkroniseringsanvändare eller kontakta din [AFDS-administratör (Active Directory Federation Services)](https://msdn.microsoft.com/en-us/library/bb897402.aspx) [administratör för att skapa en ny användare som är dedikerad till Marketo.](http://blogs.technet.com/b/askpfeplat/archive/2014/04/21/introduction-to-active-directory-federation-services-ad-fs-alternateloginid-feature.aspx)
+1. En lista över användare visas här. Välj din dedikerade Marketo-synkroniseringsanvändare eller kontakta din [AFDS-administratör (Active Directory Federation Services)](https://msdn.microsoft.com/en-us/library/bb897402.aspx) [administratör för att skapa en ny användare som är dedikerad till Marketo.](https://blogs.technet.com/b/askpfeplat/archive/2014/04/21/introduction-to-active-directory-federation-services-ad-fs-alternateloginid-feature.aspx)
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
