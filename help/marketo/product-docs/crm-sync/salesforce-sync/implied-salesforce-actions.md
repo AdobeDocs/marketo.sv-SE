@@ -3,7 +3,7 @@ unique-page-id: 4719304
 description: Underförstådda Salesforce-åtgärder - Marketo Docs - Produktdokumentation
 title: Underförstådda Salesforce-åtgärder
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 När ett Salesforce-specifikt flödessteg körs, utförs ibland extra steg automatiskt. Här är reglerna, så du vet:
 
-Dessa regler gäller _när personen inte är i [Salesforce.com](http://Salesforce.com)_ som kontakt eller lead.
+Dessa regler gäller _när personen inte är i [Salesforce.com](https://Salesforce.com)_ som kontakt eller lead.
 
 <table> 
  <thead> 
