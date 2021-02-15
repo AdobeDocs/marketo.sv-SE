@@ -3,7 +3,7 @@ unique-page-id: 10097199
 description: Versionsinformation -vinter '16 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -vinter '16
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '505'
 ht-degree: 0%
@@ -49,13 +49,13 @@ Om du vill använda den här funktionen måste e-postprogrammet vara schemalagt 
 
 ## [Förbättringar av mobilmarknadsföring](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**PhoneGap-stöd:** Nu erbjuder vi PhoneGap-stöd för din mobilapp. [Läs mer](http://developers.marketo.com/documentation/mobile/phonegap-plugin/).
+**PhoneGap-stöd:** Nu erbjuder vi PhoneGap-stöd för din mobilapp. [Läs mer](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
 
 **Stöd för sandlådeappar**:
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [Program-API](http://developers.marketo.com/documentation/programs/) {#program-api}
+## [Program-API](https://developers.marketo.com/documentation/programs/) {#program-api}
 
 Skapa, uppdatera och klona program via REST API. Detta inkluderar inte skapande eller uppdatering av smarta listor och smarta kampanjer i ett program.
 
