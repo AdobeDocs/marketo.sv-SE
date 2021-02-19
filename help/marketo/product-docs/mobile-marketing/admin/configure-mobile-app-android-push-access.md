@@ -3,9 +3,9 @@ unique-page-id: 7512432
 description: Konfigurera Android-åtkomst för mobilapp - Marketo Docs - Produktdokumentation
 title: Konfigurera Android-åtkomst för mobilapp
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
-   Välj önskad mobilapp.
+1. Välj önskad mobilapp.
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >Du behöver en **server-API-nyckel** och **projektnummer** från din mobilappsutvecklare. Utvecklaren får dessa genom att logga in på Google Play Developer Console för att registrera din app och aktivera molnmeddelanden.
 
-   Ange nyckel för server-API och projektnummer. Klicka på Spara.
+1. Ange nyckel för server-API och projektnummer. Klicka på **Spara**.
 
    ![](assets/image2015-4-22-18-3a54-3a54.png)
 
@@ -41,9 +41,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Konfigurera push-åtkomst för iOS-mobilappar](configure-mobile-app-ios-push-access.md)
-
->
-
-
-
+>[Konfigurera push-åtkomst för iOS-mobilappar](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
