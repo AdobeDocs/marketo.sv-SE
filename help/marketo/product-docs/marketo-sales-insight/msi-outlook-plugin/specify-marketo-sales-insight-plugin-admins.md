@@ -3,9 +3,9 @@ unique-page-id: 11377552
 description: Ange Marketo Sales Insight Plugin Admins - Marketo Docs - Produktdokumentation
 title: Ange administratörer för Marketo Sales Insight-plugin
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Du kan ange vilka kontakter som ska visas i det e-postmeddelande som du skickar till användarna när du bjuder in dem att konfigurera MSI i Outlook.
 
-1. I My Marketo klickar du på **Admin** och sedan **Sales Insight.**
+1. I My Marketo klickar du på **Admin** och sedan **Sales Insight**.
 
    ![](assets/image2016-7-25-14-3a12-3a59.png)
 
@@ -40,4 +40,3 @@ Du kan ange vilka kontakter som ska visas i det e-postmeddelande som du skickar 
    ![](assets/image2016-8-25-11-3a33-3a33.png)
 
    Perfekt!
-
