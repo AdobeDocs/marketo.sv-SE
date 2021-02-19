@@ -3,9 +3,9 @@ unique-page-id: 11377640
 description: Auktorisera Marketo Outlook-plugin - Marketo Docs - Produktdokumentation
 title: Auktorisera Marketo Outlook-plugin
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -42,4 +42,3 @@ Om du vill använda Marketo MSI-pluginprogrammet i Outlook måste du godkänna d
 1. Om e-postadressen inte är auktoriserad får du detta mindre glada e-postmeddelande. Kontakta er Marketo-administratör för att lösa problemet.
 
    ![](assets/image2016-8-24-16-3a25-3a27.png)
-
