@@ -3,9 +3,9 @@ unique-page-id: 2949283
 description: Skicka och spåra från Outlook med en Marketo-mall - Marketo Docs - Produktdokumentation
 title: Skicka och spåra från Outlook med en Marketo-mall
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,6 @@ Om marknadsföringsteamet har gjort mallar tillgängliga för dig, så här kan 
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
-   >
    >Token stöds inte med tillägget. Ta bort alla element som finns i mallen.
 
 1. Kolla in förhandsgranskningen, kontrollera att den ser bra ut och klicka sedan på **Skicka**.
@@ -42,9 +39,4 @@ Om marknadsföringsteamet har gjort mallar tillgängliga för dig, så här kan 
 
 >[!MORELIKETHIS]
 >
->* [Logga inkommande e-post från leads i Marketo](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
-
->
-
-
-
+>[Logga inkommande e-post från leads i Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
