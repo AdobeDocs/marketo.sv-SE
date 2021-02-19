@@ -3,9 +3,9 @@ unique-page-id: 2950396
 description: Prioritet, Urklipp, Relativ poäng och Bästa val - Marketo Docs - Produktdokumentation
 title: Prioritet, Urklipp, Relativa poäng och Bästa val
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Bästa valet är dina leads och kontakter med högsta prioritet och relativa po�
 
 >[!NOTE]
 >
->Om dina bästa val inte matchar de bästa leads och kontakter du äger, kan du prata med någon på ditt företag som har tillgång till Marketo om att uppdatera dina [poängregler](../../../../../getting-started/quick-wins/simple-scoring.md).
+>Om dina bästa val inte matchar de bästa leads och kontakter du äger, kan du prata med någon på ditt företag som har tillgång till Marketo om att uppdatera dina [poängregler](/help/marketo/getting-started/quick-wins/simple-scoring.md).
 
 ### Hur brådskande och relativ poäng beräknas
 
@@ -54,8 +54,3 @@ Efterhand som poängen ändras räknas värdena för tränglighet, prioritet och
 >[!NOTE]
 >
 >Antalet Relative Urgent (Lågor) och Relative Score (stjärnor) är heltal i Marketo. Möjliga värden för var och en är 0-3.
-
->[!MORELIKETHIS]
->
->* [Marketo Sales Insight](https://docs.marketo.com/display/docs/marketo+sales+insight)
-
