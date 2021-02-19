@@ -3,9 +3,9 @@ unique-page-id: 10096158
 description: Autentisera säkerhet för mobil åtkomst - Marketo Docs - Produktdokumentation
 title: Autentisera säkerhet för mobil åtkomst
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Om du vill aktivera ID:n måste du skaffa koderna och skicka dem till din IT-avd
 >
 >Om du vill aktivera den här funktionen kontaktar du supporten och begär Vespa Secure Mode.
 
-1. I Marketo väljer du **Admin **och klickar på **Mobilappar och enheter**.
+1. I Marketo väljer du **Admin** och klickar på **Mobilappar och enheter**.
 
    ![](assets/image2015-12-1-14-3a36-3a30.png)
 
@@ -33,11 +33,10 @@ Om du vill aktivera ID:n måste du skaffa koderna och skicka dem till din IT-avd
 
    ![](assets/image2015-12-1-14-3a41-3a37.png)
 
-1. Markera kryssrutan* Aktivera säkerhet**. Klicka på **Spara**.
+1. Markera kryssrutan **Aktivera säkerhet**. Klicka på **Spara**.
 
    ![](assets/image2015-12-1-14-3a54-3a0.png)
 
 1. Under Åtkomstskydd visas nu de två nya koderna. Var noga med att skicka dessa till din IT-avdelning.
 
    ![](assets/image2015-12-1-14-3a57-3a34.png)
-
