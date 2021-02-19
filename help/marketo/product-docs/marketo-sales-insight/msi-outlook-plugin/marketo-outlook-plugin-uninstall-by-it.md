@@ -3,9 +3,9 @@ unique-page-id: 11382829
 description: Marketo Outlook Plugin Uninstall by IT - Marketo Docs - Produktdokumentation
 title: Marketo Outlook Plugin - avinstallation av IT
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,25 +16,33 @@ ht-degree: 0%
 Så här kan IT-avdelningen fjärravinstallera Marketo Outlook-pluginprogrammet.
 
 Kör följande kommandorad som System eller ett administratörskonto med växeln /x som ska avinstalleras.
+
 `<pre>msiexec.exe /x [File Name] /qn </pre>`
 
 >[!NOTE]
 >
 >**Exempel**
+>
 >`<pre>msiexec.exe /x MarketoAddInSetup64.msi /qn </pre>`
 
-Vid felsökning kan du aktivera loggning för att skapa en utdataloggfil.  `<pre>msiexec.exe /x [File Name] /qn /L*v MarketoAddinUninstall.log</pre>`
+Vid felsökning kan du aktivera loggning för att skapa en utdataloggfil.
+
+`<pre>msiexec.exe /x [File Name] /qn /L*v MarketoAddinUninstall.log</pre>`
 
 >[!NOTE]
 >
 >**Exempel**
+>
 >`<pre>msiexec.exe /x MarketoAddInSetup64.msi /qn /L*v MarketoAddinUninstall.log</pre>`
 
-Om du vill ange en plats för loggfilerna kan du ange filsökvägen på kommandoraden.  `<pre>msiexec.exe /x [File Name] /qn /L*v [File Path]MarketoAddinUninstall.log</pre>`
+Om du vill ange en plats för loggfilerna kan du ange filsökvägen på kommandoraden.
+
+`<pre>msiexec.exe /x [File Name] /qn /L*v [File Path]MarketoAddinUninstall.log</pre>`
 
 >[!NOTE]
 >
 >**Exempel**
+>
 >`<pre>msiexec.exe /x MarketoAddInSetup64.msi /qn /L*v C:\temp\MarketoAddinUninstall.log</pre>`
 
 >[!CAUTION]
