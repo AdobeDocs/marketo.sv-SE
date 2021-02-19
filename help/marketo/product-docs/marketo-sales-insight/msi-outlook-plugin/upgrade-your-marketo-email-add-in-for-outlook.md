@@ -3,9 +3,9 @@ unique-page-id: 2949279
 description: Uppgradera ditt Marketo-tillägg via e-post för Outlook - Marketo Docs - Produktdokumentation
 title: Uppgradera ditt Marketo-e-posttillägg för Outlook
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -119,7 +119,8 @@ Hämta det installationsprogram som är lämpligt för din version av Microsoft 
 
    ![](assets/image2014-9-23-16-3a53-3a56.png)
 
-   Klicka på Nästa.
+1. Klicka på **Nästa**.
+
    ![](assets/image2014-9-23-16-3a54-3a8.png)
 
    >[!NOTE]
@@ -138,7 +139,7 @@ Hämta det installationsprogram som är lämpligt för din version av Microsoft 
    >
    >Om installationen misslyckas bör du samarbeta med din IT-avdelning för att säkerställa att HTTPS-trafik inte blockeras. Installationsprogrammet kräver att HTTPS-trafik är öppen.
 
-   Klicka på Nästa för att installera på standardplatsen.
+1. Klicka på **Nästa** om du vill installera på standardplatsen.
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
@@ -156,10 +157,6 @@ Hämta det installationsprogram som är lämpligt för din version av Microsoft 
 
 >[!MORELIKETHIS]
 >
->* [Skicka och spåra ett e-postmeddelande med tillägget Marketo Email för Outlook](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Skicka och spåra från Outlook med en Marketo-mall](send-and-track-from-outlook-using-a-marketo-template.md)
-
->
-
-
+>* [Skicka och spåra ett e-postmeddelande med tillägget Marketo Email för Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Skicka och spåra från Outlook med en Marketo-mall](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
