@@ -3,9 +3,9 @@ unique-page-id: 2360301
 description: Ange poängfält som ska användas för staplar och flamma i Sales Insight - Marketo Docs - produktdokumentation
 title: Ange poängfält som ska användas för staplar och flamma i Sales Insight
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ Marketo Sales Insight använder som standard fältet **Leadpoäng** för att ber
 
 >[!TIP]
 >
->Om du inte redan har dina anpassade poängfält gör du så här för att [skapa](../../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)dem.
+>Om du inte redan har dina anpassade poängfält gör du så här för att [skapa](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) dem.
 
 >[!NOTE]
 >
 >**Definition**
 >
->* **Stjärnor: **Stjärnor representerar det totala antalet leads jämfört med andra leads.
+>* **Stjärnor**: Stjärnor representerar det totala antalet leads jämfört med andra leads.
 >* **Lågor**: Det är angeläget att använda flamma - hur mycket ett leads poäng har ändrats nyligen.
 
 >
@@ -50,7 +50,8 @@ Marketo Sales Insight använder som standard fältet **Leadpoäng** för att ber
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
-   Klicka på Spara.
+1. Klicka på **Spara**.
+
    ![](assets/image2014-9-16-13-3a28-3a18.png)
 
    >[!NOTE]
@@ -59,7 +60,4 @@ Marketo Sales Insight använder som standard fältet **Leadpoäng** för att ber
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[Prioritet, Urklipp, Relativa poäng och Bästa val](priority-urgency-relative-score-and-best-bets.md)
-
+   >[Prioritet, Urklipp, Relativa poäng och Bästa val](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
