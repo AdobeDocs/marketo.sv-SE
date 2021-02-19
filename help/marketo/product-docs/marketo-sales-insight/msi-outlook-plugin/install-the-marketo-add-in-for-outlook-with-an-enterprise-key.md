@@ -3,9 +3,9 @@ unique-page-id: 11377488
 description: Installera tillägget Marketo för Outlook med en företagsnyckel - Marketo Docs - Produktdokumentation
 title: Installera Marketo-tillägget för Outlook med en företagsnyckel
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Många gånger har säljarna inte administratörsbehörighet på sina bärbara d
 
 >[!PREREQUISITES]
 >
->Administratören måste ha [utfärdat en Marketo-e-posttilläggslicens](issue-a-marketo-email-add-in-license.md).
+>Administratören måste ha [utfärdat en Marketo-e-posttilläggslicens](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
 
 >[!NOTE]
 >
->Om du inte ser knappen Visa företagsnyckel kontaktar du [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#1c6f696c6c736e685c717d6e77796873327f7371) för att aktivera den.
+>Om du inte ser knappen Visa företagsnyckel kontaktar du [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) för att aktivera den.
 
-1. I My Marketo klickar du på **Admin** och sedan **Sales Insight.**
+1. I My Marketo klickar du på **Admin** och sedan **Sales Insight**.
 
    ![](assets/image2016-7-25-14-3a22-3a12.png)
 
@@ -35,17 +35,8 @@ Många gånger har säljarna inte administratörsbehörighet på sina bärbara d
 
    ![](assets/image2016-7-25-14-3a35-3a38.png)
 
-1. Kopiera licensnyckeln för Outlook Enterprise och klistra in den i ett e-postmeddelande tillsammans med [den här länken](marketo-outlook-plugin-installation-by-it.md) och skicka den till din IT-avdelning för fjärrinstallation.
+1. Kopiera licensnyckeln för Outlook Enterprise och klistra in den i ett e-postmeddelande tillsammans med [den här länken](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md) och skicka den till din IT-avdelning för fjärrinstallation.
 
    ![](assets/image2016-7-25-14-3a39-3a9.png)
 
-   Det är allt! Sedan går säljaren igenom registreringsprocessen [](authorize-the-marketo-outlook-plugin.md). Du kan skicka en länk till instruktionerna till dem (se **Marketo Related Articles**).
-
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [Auktorisera Marketo Outlook-plugin](authorize-the-marketo-outlook-plugin.md)
-
-
+   Det är allt! Sedan går säljaren igenom registreringsprocessen [](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md).
