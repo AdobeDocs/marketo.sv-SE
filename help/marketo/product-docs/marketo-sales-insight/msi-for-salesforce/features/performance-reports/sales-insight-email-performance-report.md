@@ -3,9 +3,9 @@ unique-page-id: 4720314
 description: Sales Insight Email Performance Report - Marketo Docs - Produktdokumentation
 title: E-postresultatrapport för Sales Insight
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -64,4 +64,3 @@ Du kan visa den här rapporten grupperad efter säljare genom att ändra dina in
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 
    Ganska coolt, va? Nu kan du se hur e-postmeddelanden fungerar grupperat efter säljare.
-
