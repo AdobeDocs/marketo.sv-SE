@@ -3,9 +3,9 @@ unique-page-id: 7512654
 description: Se lead feed in Salesforce1 - Marketo Docs - produktdokumentation
 title: Se lead-feed i Salesforce1
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -33,11 +33,7 @@ Ledningsmataren är en uppdaterad lista över intressanta händelser som har utf
 
 >[!MORELIKETHIS]
 >
->* [Intressanta stunder i Salesforce1](interesting-moments-in-salesforce1.md)
->* [Skicka Marketo-åtgärder för e-post och kampanj och bevakning i Salesforce1](send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
->* [Bästa val i Salesforce1](best-bets-in-salesforce1.md)
-
->
-
-
+>* [Intressanta stunder i Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [Skicka Marketo-åtgärder för e-post och kampanj och bevakning i Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [Bästa val i Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
 
