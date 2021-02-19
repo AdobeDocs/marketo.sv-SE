@@ -3,9 +3,9 @@ unique-page-id: 7511931
 description: Skicka Marketo-e-post och kampanjåtgärder och bevakningsåtgärder i Salesforce1 - Marketo Docs - Produktdokumentation
 title: Skicka Marketo-åtgärder för e-post och kampanj och bevakning i Salesforce1
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Vilka smarta kampanjer visas? De med utlösarna&quot;Campaign is Requested&quot;. Lär dig hur du ställer in en [utlöst kampanj med hjälp av&quot;Campaign is Requested](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
+   >Vilka smarta kampanjer visas? De med utlösarna&quot;Campaign is Requested&quot;. Lär dig hur du ställer in en [utlöst kampanj med hjälp av&quot;Campaign is Requested](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
 
 Coola, nu kan säljarna aktivt delta i marknadsföringen.
 
@@ -39,4 +39,3 @@ Coola, nu kan säljarna aktivt delta i marknadsföringen.
 >
 >
 Var kreativ. Vad vill säljaren automatisera? Fråga dem bara och vrida upp den!
-
