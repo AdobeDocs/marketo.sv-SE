@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: Installera Marketo Email-tillägget för Outlook med en registreringskod - Marketo Docs - Produktdokumentation
 title: Installera Marketo-e-posttillägget för Outlook med en registreringskod
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,12 @@ Om du inte har fått någon inbjudan via e-post ber du Marketo-administratören 
 
 >[!PREREQUISITES]
 >
->* Du måste vara [utfärdad en Marketo Email-tilläggslicens](issue-a-marketo-email-add-in-license.md).
-
->
-
-
+>Du måste vara [utfärdad en Marketo Email-tilläggslicens](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
 
 ## Hämta installationsprogrammet {#download-installer}
 
 1. Identifiera din [Microsoft Outlook-version](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
+
 1. Klicka på länken om du vill hämta det installationsprogram som passar din version av Microsoft Outlook.
 
    >[!NOTE]
@@ -71,7 +68,7 @@ Om du inte har fått någon inbjudan via e-post ber du Marketo-administratören 
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. Fyll i **Förnamn**, **Efternamn**, **E-postadress**, kopiera och klistra sedan in **Registreringskoden **från e-postmeddelandet i formuläret och klicka på **Nästa**.
+1. Fyll i **Förnamn**, **Efternamn**, **E-postadress**, kopiera och klistra sedan in **registreringskoden** från e-postmeddelandet i formuläret och klicka på **Nästa**.
 
    ![](assets/enter-your-information-hands.png)
 
@@ -79,7 +76,7 @@ Om du inte har fått någon inbjudan via e-post ber du Marketo-administratören 
    >
    >Om installationen misslyckas bör du kontakta din IT-avdelning för att kontrollera att HTTPS-trafik inte blockeras. Installationsprogrammet kräver att HTTPS-trafik är öppen.
 
-1. Klicka på** Nästa* för att installera på standardplatsen.
+1. Klicka på **Nästa** om du vill installera på standardplatsen.
 
    ![](assets/select-installation-folder-hand.png)
 
@@ -105,10 +102,6 @@ Läs mer om hur du använder åtgärderna Marketo Message och Log With Marketo.
 
 >[!MORELIKETHIS]
 >
->* [Skicka och spåra ett e-postmeddelande med tillägget Marketo Email för Outlook](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Skicka och spåra från Outlook med en Marketo-mall](send-and-track-from-outlook-using-a-marketo-template.md)
-
->
-
-
+>* [Skicka och spåra ett e-postmeddelande med tillägget Marketo Email för Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Skicka och spåra från Outlook med en Marketo-mall](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
