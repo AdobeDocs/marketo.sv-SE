@@ -3,9 +3,9 @@ unique-page-id: 2949720
 description: Intressanta stunder - Marketo Docs - Produktdokumentation
 title: Översikt över intressanta stunder
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -33,10 +33,6 @@ Du kan också använda variabler i intressanta ögonblick för att göra verklig
 
 >[!MORELIKETHIS]
 >
->* [Använda intressanta stunder](using-interesting-moments.md)
->* [Token för intressanta ögonblick](tokens-for-interesting-moments.md)
-
->
-
-
+>* [Använda intressanta stunder](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
+>* [Token för intressanta ögonblick](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
 
