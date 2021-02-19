@@ -3,9 +3,9 @@ unique-page-id: 1146999
 description: Token för intressanta ögonblick - Marketo Docs - produktdokumentation
 title: Token för intressanta ögonblick
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,16 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* Lär dig använda flödessteget [Intressant stund](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
->* Läs mer om [tokens](https://docs.marketo.com/display/docs/tokens).
-
->
-
-
+>Lär dig använda flödessteget [Intressant stund](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
 ## Tillgängliga token {#available-tokens}
 
-Kolla in [Översikt över token](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) för att se alla token du kan sätta in i en intressant stund.
+Kolla in [Översikt över token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) för att se alla token du kan sätta in i en intressant stund.
 
 ## Utlösartoken {#trigger-tokens}
 
@@ -249,4 +244,3 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
 >Testa alltid intressanta ögonblick för att säkerställa att de återges som du tänkt dig.
 >
 >Se även till att det är intressant för säljaren, inte bara för dig. ![(blinka)](assets/wink.svg)>
-
