@@ -3,9 +3,9 @@ unique-page-id: 11378845
 description: Lägg till Vibes som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
 title: Lägg till vibes som en LaunchPoint-tjänst
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -42,4 +42,3 @@ Du kan skicka SMS-meddelanden till personer i dina Vibes-listor och använda SMS
    Den nya SMS-tjänsten visas nu i listan Installerade tjänster.
 
    ![](assets/image2016-7-27-9-3a45-3a1.png)
-
