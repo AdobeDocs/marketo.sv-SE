@@ -3,9 +3,9 @@ unique-page-id: 7511512
 description: Installera och konfigurera Marketo Sales Insight i Salesforce1 - Marketo Docs - Produktdokumentation
 title: Installera och konfigurera Marketo Sales Insight i Salesforce1
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,24 +15,22 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Påminnelse**
->
->Befintliga kunder: [Uppgradera ditt MSI-paket](https://docs.marketo.com/x/_gU6Ag) innan du fortsätter!
+>Befintliga kunder: [Uppgradera ditt MSI-paket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md) innan du fortsätter!
 
 >[!PREREQUISITES]
 >
 >Om du har Salesforce Enterprise/Unlimited:
 >
->* [Steg 1 av 3: Lägg till Marketo-fält i Salesforce (Enterprise/Unlimited)](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
->* [Steg 2 av 3: Skapa en Salesforce-användare för Marketo (Enterprise/Unlimited)](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
->* [Steg 3 av 3: Connect Marketo och Salesforce (Enterprise/Unlimited)](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
->* [Konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [Steg 1 av 3: Lägg till Marketo-fält i Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>* [Steg 2 av 3: Skapa en Salesforce-användare för Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>* [Steg 3 av 3: Connect Marketo och Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
+>* [Konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 
 >
 >
 Om du har Salesforce Professional:
 >
->* [Konfigurera Marketo Sales Insight i Salesforce Professional Edition](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+>* [Konfigurera Marketo Sales Insight i Salesforce Professional Edition](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 
 >
 
@@ -42,7 +40,8 @@ Om du har Salesforce Professional:
 >
 >Marketo Sales Insight in Salesforce1 includes: Bästa val, Lead Feed, Intressant ögonblick och Lägg till i Marketo Campaign.
 
-1. Aktivera Salesforce1-mobilappen
+## Aktivera Salesforce1-mobilappen {#enable-the-salesforce1-mobile-app}
+
 1. Klicka på **Inställningar** och sedan **Mobiladministration**.
 
    ![](assets/image2015-4-21-15-3a29-3a22.png)
@@ -71,15 +70,16 @@ Om du har Salesforce Professional:
 
    ![](assets/image2015-4-22-11-3a13-3a10.png)
 
-1. Välj **Marketo **och **Lägg till **det till menyalternativen **Markerad **Lägg till **det.
+1. Välj **Marketo** och **Lägg till** den till **Markerade** menyalternativ.
 
    ![](assets/image2015-4-22-14-3a55-3a37.png)
 
-1. Välj **Marketo**, flytta den **Uppåt **till önskat område och klicka på **Spara**.
+1. Välj **Marketo**, flytta den **Uppåt** till önskat område och klicka på **Spara**.
 
    ![](assets/image2015-4-22-17-3a20-3a56.png)
 
-1. Dölj föråldrad markering till anpassat objekt
+## Dölj föråldrad markering till anpassat objekt {#hide-outdated-marketo-custom-object}
+
 1. Klicka på **Inställningar**.
 
    ![](assets/image2015-4-22-15-3a13-3a48.png)
@@ -92,28 +92,25 @@ Om du har Salesforce Professional:
 
    ![](assets/image2015-5-5-11-3a15-3a21.png)
 
-1. Klicka för att **redigera **valfri profil.
+1. Klicka för att **redigera** önskade profiler.
 
    ![](assets/image2015-5-5-13-3a51-3a36.png)
 
-1. Under **Tabbinställningar** väljer du *först* **Marketo**.
+1. Under **Tabbinställningar** väljer du _först_ **Marketo**.
 
-   ** ![](assets/image2015-5-5-13-3a55-3a36.png)
-
-   **
+   ![](assets/image2015-5-5-13-3a55-3a36.png)
 
 1. Välj **Tabb dold**.
 
-   ** ![](assets/image2015-5-5-14-3a2-3a29.png)
-
-   **
+   ![](assets/image2015-5-5-14-3a2-3a29.png)
 
    >[!NOTE]
    >
    >Se till att du döljer Marketo-fliken för alla önskade profiler.
 
-1. Anpassa flikar
-1. Klicka** +**.
+## Anpassa flikar {#customize-tabs}
+
+1. Klicka på **+**.
 
    ![](assets/image2015-4-22-17-3a14-3a49.png)
 
@@ -121,15 +118,16 @@ Om du har Salesforce Professional:
 
    ![](assets/image2015-4-22-17-3a16-3a22.png)
 
-1. Välj **Marketo** och **Lägg till **den på de markerade flikarna.
+1. Välj **Marketo** och **Lägg till** på de markerade flikarna.
 
    ![](assets/image2015-4-22-17-3a17-3a15.png)
 
-1. Välj **Marketo**, flytta den **Uppåt **till önskat område och klicka på **Spara**.
+1. Välj **Marketo**, flytta den **Uppåt** till önskat område och klicka på **Spara**.
 
    ![](assets/image2015-4-22-18-3a29-3a47.png)
 
-1. Anpassa sidlayouter
+## Anpassa sidlayouter {#customize-page-layouts}
+
 1. Klicka på **Inställningar**.
 
    ![](assets/image2015-4-22-17-3a26-3a56.png)
@@ -146,7 +144,7 @@ Om du har Salesforce Professional:
 
    ![](assets/image2015-4-22-17-3a44-3a0.png)
 
-1. Klicka på **Visualforce-sidor **och dra** Lead Mobile **till avsnittet Mobilkort.
+1. Klicka på **Visualforce-sidor** och dra sedan **Lead Mobile** till avsnittet Mobilkort.
 
    ![](assets/image2015-4-22-17-3a49-3a37.png)
 
@@ -154,7 +152,7 @@ Om du har Salesforce Professional:
 
    ![](assets/image2015-4-22-17-3a52-3a15.png)
 
-1. Klicka på **Fält** och dra **Lägg till i Marketo Campaign **till** Marketo Sales Insight **avsnittet Marketo Sales Insight.
+1. Klicka på **Fält** och dra **Lägg till i Marketo Campaign** till **Marketo Sales Insight**-avsnittet.
 
    ![](assets/configure-step-6.png)
 
@@ -170,11 +168,7 @@ Phew! Du har nu installerat Marketo Sales Insight för Salesforce1! Ge dig själ
 
 >[!MORELIKETHIS]
 >
->* [Bästa val i Salesforce1](best-bets-in-salesforce1.md)
->* [Intressanta stunder i Salesforce1](interesting-moments-in-salesforce1.md)
->* [Skicka Marketo-åtgärder för e-post och kampanj och bevakning i Salesforce1](send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
-
->
-
-
+>* [Bästa val i Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
+>* [Intressanta stunder i Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [Skicka Marketo-åtgärder för e-post och kampanj och bevakning i Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
 
