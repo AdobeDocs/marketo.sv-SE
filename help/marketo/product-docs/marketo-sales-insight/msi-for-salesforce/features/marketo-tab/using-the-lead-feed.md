@@ -3,9 +3,9 @@ unique-page-id: 7512979
 description: Använda lead feed - Marketo Docs - produktdokumentation
 title: Använda lead-feed
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,8 @@ Ledningsmataren är en uppdaterad lista över intressanta händelser som har utf
 
 ## Vad finns i huvudmatningen? {#whats-in-the-lead-feed}
 
-![](assets/one.png)\
+![](assets/one.png)
+
 Varje objekt i lead-flödet är ett intressant ögonblick - en viktig aktivitet eller händelse i denna leads marknadsföringshistorik.
 
 När du visar det i Salesforce har varje objekt:
@@ -73,17 +74,19 @@ När du visar det i Salesforce har varje objekt:
 
 Du kan också hämta uppdateringar för lead-feed via RSS-flöde.  Med en RSS-feed kan du få uppdateringar för dina leads även om du inte är ansluten till Salesforce. Flödet har samma information som lead-matningen i Salesforce samt följande (om den är tillgänglig):
 
-* `email address`
-* `phone number`
-* `mobile number`
-* `fax number`
-* `company address`
-* `company URL`
+* e-postadress
+* telefonnummer
+* mobilnummer
+* faxnummer
+* företagsadress
+* företag-URL
 
 >[!NOTE]
 >
->Företagets Marketo-administratör måste [aktivera RSS-flöden](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) för att detta ska fungera.
+>Företagets Marketo-administratör måste [aktivera RSS-flöden](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) för att detta ska fungera.
 
-För att få RSS-uppdateringar behöver du två saker: RSS-länken och en RSS-flödesläsare. Du kan få RSS-länken genom att klicka på RSS-ikonen i lead-flödet:   ![](assets/three.png)
+För att få RSS-uppdateringar behöver du två saker: RSS-länken och en RSS-flödesläsare. Du kan få RSS-länken genom att klicka på RSS-ikonen i lead-flödet:
+
+![](assets/three.png)
 
 RSS-flödet visas i ett nytt fönster. Du kan sedan kopiera URL:en för din RSS-feed och använda den i en RSS-läsare. De flesta webbläsare har en inbyggd RSS-läsare, eller så kan du använda en RSS-läsare som är specifik för din plattform.
