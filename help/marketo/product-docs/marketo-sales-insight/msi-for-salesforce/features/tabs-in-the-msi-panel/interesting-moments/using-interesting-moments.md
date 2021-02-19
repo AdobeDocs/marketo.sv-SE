@@ -3,9 +3,9 @@ unique-page-id: 2951640
 description: Använda intressanta stunder - Marketo Docs - Produktdokumentation
 title: Använda intressanta stunder
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Intressanta ögonblick är nyckeln till att kommunicera med säljarna via Market
 
 >[!AVAILABILITY]
 >
->Dessa är endast tillgängliga för Marketo Sales Insight- och [Marketo Sales Connect](https://docs.marketo.com/x/fgTLAQ)-kunder.
+>Dessa är endast tillgängliga för Marketo Sales Insight- och [Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)-kunder.
 
-## Vad är ett intressant ögonblick?  {#what-is-an-interesting-moment}
+## Vad är ett intressant ögonblick? {#what-is-an-interesting-moment}
 
 Det är upp till dig! Du bestämmer själv vilken information som är relevant för säljteamet. Säljteamet kanske vill veta när en lead:
 
@@ -51,7 +51,7 @@ Det är upp till dig! Du bestämmer själv vilken information som är relevant f
 
 ## Hur kan det här bli ännu intressantare?  {#how-can-this-get-even-more-interesting}
 
-Tokens! Lägg till dem i beskrivningsfältet för att ge säljteamet mer specifik information, som ämnesraden i det e-postmeddelande som leadet öppnade eller vem som skickade det. Ta reda på vilka tokens som är tillgängliga för användning i [Token for Intressant stund](tokens-for-interesting-moments.md)-ordlistan.
+Tokens! Lägg till dem i beskrivningsfältet för att ge säljteamet mer specifik information, som ämnesraden i det e-postmeddelande som leadet öppnade eller vem som skickade det. Ta reda på vilka tokens som är tillgängliga för användning i [Token for Intressant stund](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)-ordlistan.
 
 >[!TIP]
 >
@@ -59,13 +59,13 @@ Tokens! Lägg till dem i beskrivningsfältet för att ge säljteamet mer specifi
 
 ## Hur ser ett intressant ögonblick ut i Marketo?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Intressanta stunder visas i en [lead-aktivitetslogg](../../../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
+Intressanta stunder visas i en [lead-aktivitetslogg](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 
 ## Hur ser ett intressant ögonblick ut i Salesforce?  {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-När du har [installerat Marketo Sales Insight App](../../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) visas intressanta stunder på lead-, kontakt-, konto- eller affärsmöjlighetssidorna. De visas också på kontrollpanelen Sales Insight i Lead Feed, Best Bets och Watch List.
+När du har [installerat Marketo Sales Insight App](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) visas intressanta stunder på lead-, kontakt-, konto- eller affärsmöjlighetssidorna. De visas också på kontrollpanelen Sales Insight i Lead Feed, Best Bets och Watch List.
 
 ![](assets/six.png)
 
