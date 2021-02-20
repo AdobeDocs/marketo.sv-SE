@@ -3,19 +3,15 @@ unique-page-id: 11384663
 description: Avgodkänn en titel för prediktivt innehåll - Marketo Docs - produktdokumentation
 title: Avgodkänn en titel för prediktivt innehåll
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
 
 # Avgodkänn en titel för prediktivt innehåll {#unapprove-a-title-for-predictive-content}
-
->[!NOTE]
->
->Beroende på inköpsdatumet kan din Marketo-prenumeration innehålla antingen Marketo Predictive Content eller Content`<sup>AI</sup>`. För dem som använder Predictive Content aktiverar Marketo Content`<sup>AI</sup>` Analytics-funktioner fram till 30 april 2018. Kontakta Marketo Customer Success Manager för att uppgradera till Marketo Content`<sup>AI</sup>` om du vill behålla funktionerna efter detta datum.
 
 Du kan avgodkänna en titel för prediktivt innehåll på sidan Allt innehåll eller på popup-menyn Redigera innehåll.
 
@@ -44,4 +40,3 @@ Du kan avgodkänna en titel medan du redigerar den.
 Oavsett vilken metod du använder finns ikonen Godkänn på sidan Allt innehåll och titeln försvinner från sidan Prediktiv innehåll.
 
 ![](assets/unapprove-content-no-icon.png)
-
