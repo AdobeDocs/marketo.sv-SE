@@ -3,7 +3,7 @@ unique-page-id: 11370503
 description: Schemalägg ditt meddelande i appen - Marketo Docs - produktdokumentation
 title: Schemalägg ditt meddelande i appen
 translation-type: tm+mt
-source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
@@ -31,4 +31,4 @@ Skicka meddelandet nu eller schemalägg det för senare.
 
    ![](assets/schedule-your-in-app-message-4.png)
 
-Enkelt! Sist men inte minst är steget [Approval](approve-your-in-app-message.md).
+Enkelt! Sist men inte minst är steget [Approval](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md).
