@@ -3,9 +3,9 @@ unique-page-id: 12981204
 description: Översikt över prediktiv innehållsanalys - Marketo Docs - Produktdokumentation
 title: Översikt över prediktiv innehållsanalys
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '358'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Använd innehållsanalys för att få ytterligare insikter i ert befintliga inne
 
 ## Översikt {#overview}
 
-Klicka på Analytics (Analyser) på sammanfattningssidan.
+På sidan Sammanfattning klickar du på **Analytics**.
 
 ![](assets/one.png)
 
@@ -81,8 +81,6 @@ Hovra över en bild i Föreslaget innehåll för att visa tillgängliga alternat
 
 >[!NOTE]
 >
->**Förklaring**
->
 >Ser du ikonerna längst ned? Vänster till höger: Visa innehåll, Exportera till CSV, Godkänn innehåll.
 
 ## Innehåll {#content}
@@ -96,4 +94,3 @@ Sök efter önskat innehåll och klicka på det för att se ytterligare informat
 >[!NOTE]
 >
 >Liknande innehåll baseras på den valda delen av innehållet och beräknas med en associationsregelalgoritm. Resultatet representerar de innehållsdelar som besökarna troligen kommer att klicka på, beroende på den valda delen och besökarens beteende. Filtret eller datumintervallet beaktas inte.
-
