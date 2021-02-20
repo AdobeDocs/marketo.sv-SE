@@ -3,7 +3,7 @@ unique-page-id: 11379045
 description: Lägg till ett flödessteg för SMS - Marketo Docs - Produktdokumentation
 title: Lägg till ett flödessteg för SMS
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -26,11 +26,8 @@ Marketo har tre flödessteg som du kan använda i SMS-smarta kampanjer:
 >* Marketo avdupes per telefonnummer. Om flera personer har samma telefonnummer får bara en person meddelandet.
 >* Marketo skickar inte till personer som är blocklist eller marknadsföringspausade.
 
->
 
-
-
-Allmän information om hur du ställer in flödessteg finns i [Lägga till ett flödessteg i en smart kampanj](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md).
+Allmän information om hur du ställer in flödessteg finns i [Lägga till ett flödessteg i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md).
 
 Här är grunderna för hur du använder SMS.
 
@@ -50,6 +47,4 @@ Här är grunderna för hur du använder SMS.
    >
    >Väljaren Vibes-lista fungerar som ett ytterligare filter för den målgrupp som redan identifierats i den smarta listan så att den endast riktar sig till de leads som tillhör den listan.
    >
-   >
    >**Prenumerera på Vibes List** och **Avbeställ Vibes List** har olika krav. För **prenumerera** måste du välja listan Vibes och kampanjen för förvärv av Vibes. För **Unsubscribe** krävs bara listan Vibes.
-
