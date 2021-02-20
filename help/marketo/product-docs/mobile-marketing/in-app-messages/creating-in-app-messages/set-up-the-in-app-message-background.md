@@ -3,9 +3,9 @@ unique-page-id: 10100649
 description: Konfigurera meddelandebakgrunden i appen - Marketo Docs - Produktdokumentation
 title: Konfigurera meddelandebakgrunden i programmet
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -67,16 +67,11 @@ Att välja en meddelandebakgrund är ett viktigt steg när du vill avsluta ditt 
    >
    >För krysåtgärder för bakgrunder kan du ange olika åtgärder för Apple- och Android-plattformar. Djuplänkar hanteras till exempel på olika sätt för Apple och Android. Om ditt meddelande endast ska visas på en plattform eller på en annan, låter du den andra vara kvar i standardinställningen eller väljer **Ingen**.
 
-   [konfigurera knappen Stäng](set-up-the-dismiss-button-and-approve-the-message.md)
+   För att slutföra jobbet är det sista steget att [konfigurera knappen Stäng](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Förstå meddelanden i appen](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
-   >    * [Skicka ett meddelande i appen](https://docs.marketo.com/pages/viewpage.action?pageid=10617378)
-   >    * [Välj en layout för ditt meddelande i appen](choose-a-layout-for-your-in-app-message.md)
+   >* [Förstå meddelanden i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+   >* [Skicka ett meddelande i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
+   >* [Välj en layout för ditt meddelande i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
-
-Slutför jobbet genom att gå till .
