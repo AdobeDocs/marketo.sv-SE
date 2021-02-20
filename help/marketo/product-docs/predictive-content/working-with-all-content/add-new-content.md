@@ -3,19 +3,15 @@ unique-page-id: 11384651
 description: Lägg till nytt innehåll - Marketo Docs - Produktdokumentation
 title: Lägg till nytt innehåll
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
 
 # Lägg till nytt innehåll {#add-new-content}
-
->[!NOTE]
->
->Beroende på inköpsdatumet kan din Marketo-prenumeration innehålla antingen Marketo Predictive Content eller Content`<sup>AI</sup>`. För dem som använder Predictive Content aktiverar Marketo Content`<sup>AI</sup>` Analytics-funktioner fram till 30 april 2018. Kontakta Marketo Customer Success Manager för att uppgradera till Marketo Content`<sup>AI</sup>` om du vill behålla funktionerna efter detta datum.
 
 Du kan enkelt lägga till innehåll manuellt på sidan Allt innehåll.
 
@@ -39,5 +35,4 @@ Du kan enkelt lägga till innehåll manuellt på sidan Allt innehåll.
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 
-1. Så här lägger du till det i [Predictive Content](https://docs.marketo.com/x/Vbet).
-
+1. Så här lägger du till det i [Predictive Content](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md).
