@@ -3,9 +3,9 @@ unique-page-id: 11385020
 description: Aktivera prediktivt innehåll i e-postmeddelanden - Marketo Docs - produktdokumentation
 title: Aktivera prediktivt innehåll i e-postmeddelanden
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,15 @@ Gör en eller flera bilder i ditt e-postmeddelande prediktiva och skräddarsy up
 
 >[!PREREQUISITES]
 >
->Innan du aktiverar Predictive Content. du måste:
+>Innan du aktiverar Predictive Content måste du:
 >
->* [Förbered ditt prediktiva innehåll](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)
+>* **Förbered ditt prediktiva innehåll**
+   >
+   >   
+   * [Redigera prediktivt innehåll för ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) e-postmarkören
+   >   * [Redigera prediktivt innehåll för ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) multimedia
+   >   * [Redigera prediktivt innehåll för rekommendationsfältet](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>
 >* [Godkänn en titel för prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
@@ -37,7 +43,7 @@ Gör en eller flera bilder i ditt e-postmeddelande prediktiva och skräddarsy up
 
    ![](assets/two.png)
 
-1. Klicka på bilden som du vill göra prediktiv. När kugghjulsikonen visas klickar du på den och väljer **Aktivera innehåll`AI`** (Content`AI` är det tidigare namnet för Predictive Content).
+1. Klicka på bilden som du vill göra prediktiv. När kugghjulsikonen visas klickar du på den och väljer **Aktivera ContentAI** (ContentAI är det tidigare namnet för Predictive Content).
 
    ![](assets/three.png)
 
