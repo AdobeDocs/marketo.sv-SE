@@ -3,9 +3,9 @@ unique-page-id: 10100644
 description: Ställa in meddelandeknappen i appen - Marketo Docs - produktdokumentation
 title: Konfigurera meddelandeknappen i appen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Du kan använda standardknappdesignen, ändra den eller överföra en egen anpas
 
    ![](assets/image2016-5-6-15-3a10-3a38.png)
 
-1. Klicka på färgmarkeringsrutan och markera knappfärgen genom att klicka på den eller ange den med hexadecimala eller RGB-värden i färgväljaren.
+1. Klicka på färgmarkeringsrutan och markera knappfärgen genom att klicka på den eller ange den med hexadecimala värden eller RGB-värden i färgväljaren.
 
    ![](assets/image2016-5-6-15-3a14-3a8.png)
 
@@ -51,7 +51,7 @@ Du kan använda standardknappdesignen, ändra den eller överföra en egen anpas
 
    ![](assets/image2016-5-6-16-3a41-3a52.png)
 
-1. Välj teckensnittsstil för betoning: **Fet**, *Kursiv* eller Understruken.
+1. Välj teckensnittsstil för betoning: **Fet**, _Kursiv_ eller Understruken.
 
    ![](assets/image2016-5-6-16-3a43-3a47.png)
 
@@ -63,27 +63,18 @@ Du kan använda standardknappdesignen, ändra den eller överföra en egen anpas
 
    ![](assets/image2016-5-6-16-3a47-3a54.png)
 
-   Klicka på listrutan för varje plattform och välj en tryckåtgärd.
+1. Klicka på listrutan för varje plattform och välj en tryckåtgärd.
 
    ![](assets/image2016-5-6-16-3a49-3a40.png)
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
-   >
    >Knappen har alltid en tryckåtgärd, så kryssrutan Knacka åtgärd markeras automatiskt med standardmeddelandet&quot;Stäng meddelande&quot;.
 
-   [konfigurera bakgrunden för ditt meddelande i appen och knappen Stäng](set-up-the-in-app-message-background.md)
-
-Nästan klart. Det sista steget är att .
+Nästan klart. Det sista steget är att [konfigurera bakgrunden för ditt meddelande i appen och stänga knappen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
 
 >[!MORELIKETHIS]
 >
->* [Förstå meddelanden i appen](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Välj en layout för ditt meddelande i appen](choose-a-layout-for-your-in-app-message.md)
-
->
-
-
+>* [Förstå meddelanden i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Välj en layout för ditt meddelande i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
