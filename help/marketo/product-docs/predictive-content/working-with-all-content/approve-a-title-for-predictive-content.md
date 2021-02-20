@@ -3,19 +3,15 @@ unique-page-id: 11384661
 description: Godkänn en titel för prediktivt innehåll - Marketo Docs - produktdokumentation
 title: Godkänn en titel för prediktivt innehåll
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
 
 # Godkänn en titel för prediktivt innehåll {#approve-a-title-for-predictive-content}
-
->[!NOTE]
->
->Beroende på inköpsdatumet kan din Marketo-prenumeration innehålla antingen Marketo Predictive Content eller Content`<sup>AI</sup>`. För dem som använder Predictive Content aktiverar Marketo Content`<sup>AI</sup>` Analytics-funktioner fram till 30 april 2018. Kontakta Marketo Customer Success Manager för att uppgradera till Marketo Content`<sup>AI</sup>` om du vill behålla funktionerna efter detta datum.
 
 Du kan lägga till vilken rubrik som helst på sidan Allt innehåll i det prediktiva innehållet genom att godkänna den på sidan Allt innehåll eller i popup-fönstret Redigera innehåll.
 
@@ -48,4 +44,3 @@ Ikonen Godkänn för prediktivt innehåll visas nu på raden, oavsett hur du anv
 Nu kan du se titeln som visas på sidan Predictive Content.
 
 ![](assets/image2017-10-3-9-3a16-3a45.png)
-
