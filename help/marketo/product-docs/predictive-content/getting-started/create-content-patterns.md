@@ -3,9 +3,9 @@ unique-page-id: 11385579
 description: Skapa innehållsmönster - Marketo Docs - Produktdokumentation
 title: Skapa innehållsmönster
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,7 @@ ht-degree: 0%
 
 # Skapa innehållsmönster {#create-content-patterns}
 
->[!NOTE]
->
->Beroende på inköpsdatumet kan din Marketo-prenumeration innehålla antingen Marketo Predictive Content eller Content`<sup>AI</sup>`. För dem som använder Predictive Content aktiverar Marketo Content`<sup>AI</sup>` Analytics-funktioner fram till 30 april 2018. Kontakta Marketo Customer Success Manager för att uppgradera till Marketo Content`<sup>AI</sup>` om du vill behålla funktionerna efter detta datum.
-
-När du anger innehållsmönster identifieras innehållet automatiskt när en webbbesökare klickar på den HTML-webbsida som är relevant för innehållsmönstret. Det används för att lägga till HTML-sidor (blogginlägg, pressmeddelanden, nyhetsartiklar) som innehållsdelar på sidan Allt innehåll. När automatisk identifiering baseras på innehållsmönster upptäcks och spåras HTML-sidor som är relaterade till det definierade URL-mönstret när en webbbesökare visar eller klickar på en länk till sidan. Innehållsdelen (URL:en, sidnamnet och metadata, inklusive bild-URL:en och beskrivningen) läggs till på sidan Allt innehåll för att färdigställa förutsägbart innehåll. Om du vill identifiera annat innehåll automatiskt, som PDF-filer och inbäddad video, måste du [aktivera innehållsidentifiering](enable-content-discovery.md).
+När du anger innehållsmönster identifieras innehållet automatiskt när en webbbesökare klickar på den HTML-webbsida som är relevant för innehållsmönstret. Det används för att lägga till HTML-sidor (blogginlägg, pressmeddelanden, nyhetsartiklar) som innehållsdelar på sidan Allt innehåll. När automatisk identifiering baseras på innehållsmönster upptäcks och spåras HTML-sidor som är relaterade till det definierade URL-mönstret när en webbbesökare visar eller klickar på en länk till sidan. Innehållsdelen (URL:en, sidnamnet och metadata, inklusive bild-URL:en och beskrivningen) läggs till på sidan Allt innehåll för att färdigställa förutsägbart innehåll. Om du vill identifiera annat innehåll automatiskt, som PDF-filer och inbäddad video, måste du [aktivera innehållsidentifiering](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
 
 1. Gå till **Innehållsinställningar**.
 
@@ -27,7 +23,7 @@ När du anger innehållsmönster identifieras innehållet automatiskt när en we
 
    ![](assets/click-url-patterns-hand.png)
 
-1. Klicka på **+ **för att öppna en rad där du kan ange dina uppgifter.
+1. Klicka på **+** för att öppna en rad där du kan ange din information.
 
    ![](assets/content-settings-create-patterns-hand.png)
 
@@ -37,9 +33,9 @@ När du anger innehållsmönster identifieras innehållet automatiskt när en we
 
    >[!NOTE]
    >
-   >Objekten i den nedrullningsbara listan till höger återspeglar de kategorier du angav när du [skapade kategorier](set-up-categories.md).
+   >Objekten i den nedrullningsbara listan till höger återspeglar de kategorier du angav när du [skapade kategorier](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
 
-1. Klicka på **+ **för att lägga till en ny bana.
+1. Klicka på **+** om du vill lägga till en annan sökväg.
 
    ![](assets/url-patterns-add2.png)
 
@@ -49,16 +45,16 @@ När du anger innehållsmönster identifieras innehållet automatiskt när en we
 
 ## Innehållsmönsterregler {#content-pattern-rules}
 
-* Du kan använda jokertecken var som helst i ett uttryck (Exempel: *domain.com/**, *domain.com/*blog**)
+* Du kan använda jokertecken var som helst i ett uttryck (Exempel: _domain.com/*_, _domain.com/*blog*_)
 
-* Vi rekommenderar att du använder /* i slutet av ett uttryck för att fortsätta med mönsteridentifieringen (Exempel: *domain.com/blog/** upptäcker alla inlägg i bloggmappen)
-* Innehållsmönstren är inte skiftlägeskänsliga (exempel: *domain.com/Blog/** identifierar alla HTML-sidor på *domain.com/Blog* och *domain.com/blog*)
+* Vi rekommenderar att du använder /* i slutet av ett uttryck för att fortsätta med mönsteridentifieringen (Exempel: _domain.com/blog/*_ upptäcker alla inlägg i bloggmappen)
+* Innehållsmönstren är inte skiftlägeskänsliga (exempel: _domain.com/Blog/*_ identifierar alla HTML-sidor på _domain.com/Blog_ och _domain.com/blog_)
 
 * URL-parametrar identifieras inte (detta undviker att identifiera flera objekt med samma innehålls-URL men olika parametrar)
 
 ## Exempel {#examples}
 
-För *domain.com*:
+För _domain.com_:
 
 <table> 
  <tbody> 
@@ -88,4 +84,3 @@ För *domain.com*:
   </tr> 
  </tbody> 
 </table>
-
