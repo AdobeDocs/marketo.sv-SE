@@ -3,7 +3,7 @@ unique-page-id: 10617440
 description: Godkänn ditt meddelande i appen - Marketo Docs - Produktdokumentation
 title: Godkänn ditt meddelande i appen
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Du måste godkänna sändningen innan meddelandet i appen skickas.
    >
    >Orsaker till att pausa kan vara att stoppa det en stund eller om du vill ändra meddelandet eller justera schemat. Du kan dock inte ändra till ett annat meddelande, bara redigera det befintliga.
 
-1. När du vill att det pausade programmet ska fortsätta att köras klickar du på **Fortsätt** **Program**.
+1. När du vill att det pausade programmet ska fortsätta att köras klickar du på **Återuppta program**.
 
    ![](assets/image2016-5-24-13-3a26-3a43.png)
 
@@ -59,9 +59,7 @@ Du måste godkänna sändningen innan meddelandet i appen skickas.
 
 1. Om du är säker på att du vill stoppa programmet klickar du på **Stopp**.
 
-   ** ![](assets/image2016-5-24-13-3a31-3a22.png)
-
-   **
+   ![](assets/image2016-5-24-13-3a31-3a22.png)
 
    >[!NOTE]
    >
@@ -72,4 +70,3 @@ Du måste godkänna sändningen innan meddelandet i appen skickas.
 När programmet har körts kan du övervaka dess prestanda med kontrollpanelen i appen, som visas automatiskt när du har godkänt programmet. Om du vill återgå till programmet klickar du på länken i det övre högra hörnet och väljer **Kontrollpanelen**.
 
 Det är allt, gott folk!
-
