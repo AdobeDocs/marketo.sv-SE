@@ -3,9 +3,9 @@ unique-page-id: 7514956
 description: Aktivera prediktivt innehåll för multimedia för webben - Marketo Docs - produktdokumentation
 title: Aktivera prediktivt innehåll för multimedia för webben
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,14 @@ Prediktivt innehåll engagerar webbbesökarna med det mest relevanta innehållet
 >
 >Innan du aktiverar Predictive Content måste du:
 >
->* [Förbered ditt prediktiva innehåll](https://docs.marketo.com/display/docs/edit+predictive+content)
->* [Godkänn en titel för prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
-
+>* **Förbered ditt prediktiva innehåll**
+   >
+   >   
+   * [Redigera prediktivt innehåll för ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) e-postmarkören
+   >   * [Redigera prediktivt innehåll för ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) multimedia
+   >   * [Redigera prediktivt innehåll för rekommendationsfältet](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
 >
-
+>* [Godkänn en titel för prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
 När du har förberett innehållets titel, beskrivning och bild för multimedia kan du aktivera enskilda eller flera innehållskomponenter.
@@ -58,9 +61,3 @@ Här är ett exempel på rekommendationsmallen för multimedia1:
 Här är ett exempel på rekommendationsmallen för multimedia2:
 
 ![](assets/image2015-12-20-10-3a35-3a12.png)
-
->[!MORELIKETHIS]
->
->* [Aktivera innehållsrekommendationsfältet](enable-the-content-recommendation-bar.md)
->* [Aktivera prediktivt innehåll i e-postmeddelanden](https://docs.marketo.com/x/vLit)
-
