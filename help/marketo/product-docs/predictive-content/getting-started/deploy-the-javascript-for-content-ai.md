@@ -3,9 +3,9 @@ unique-page-id: 11385053
 description: Distribuera JavaScript för Content-AI - Marketo Docs - produktdokumentation
 title: Distribuera JavaScript för Content-AI
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,7 @@ ht-degree: 0%
 
 # Distribuera JavaScript för Content-AI {#deploy-the-javascript-for-content-ai}
 
->[!NOTE]
->
->Beroende på inköpsdatumet kan din Marketo-prenumeration innehålla antingen Marketo Predictive Content eller Content`<sup>AI</sup>`. För dem som använder Predictive Content aktiverar Marketo Content`<sup>AI</sup>` Analytics-funktioner fram till 30 april 2018. Kontakta Marketo Customer Success Manager för att uppgradera till Marketo Content`<sup>AI</sup>` om du vill behålla funktionerna efter detta datum.
-
-Om du vill använda Predictive Content (Predictive Content) måste du skapa och konfigurera RTP (Web Personalization) `tag.`
+Om du vill använda Predictive Content måste du skapa och konfigurera RTP-taggen (Web Personalization).
 
 ## Generera tagg {#generate-tag}
 
@@ -25,7 +21,7 @@ Om du vill använda Predictive Content (Predictive Content) måste du skapa och 
 
    ![](assets/settings-dropdown-account-hands.png)
 
-1. I **Domänkonfiguration** letar du reda på den relevanta domänen och klickar på **Generera tagg.**
+1. I **Domänkonfiguration** letar du reda på den relevanta domänen och klickar på **Generera tagg**.
 
    ![](assets/generate-tag.png)
 
@@ -35,8 +31,8 @@ Om du vill använda Predictive Content (Predictive Content) måste du skapa och 
 
    >[!NOTE]
    >
-   >Kopiera JavaScript-taggen för webbanpassning och klistra in den som det första skriptet i sidhuvudet mellan `<head> </head>`-taggarna. Mer detaljerade [implementeringsinstruktioner finns här](https://docs.marketo.com/display/docs/rtp+tag+implementation) [.](https://pages2.marketo.com/rtp-implementation.html)
+   >Kopiera JavaScript-taggen för webbanpassning och klistra in den som det första skriptet i sidhuvudet mellan `<head> </head>`-taggarna. Mer detaljerade [implementeringsinstruktioner finns här](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
-1. Kontrollera att taggen visas på alla sidor, inklusive landningssidor och underdomäner. Kontrollera detta genom att högerklicka på din `website’s`-sida. Gå till **Visa sidkälla** i en webbläsare. Sök: &quot;RTP&quot;.
+1. Kontrollera att taggen visas på alla sidor, inklusive landningssidor och underdomäner. Kontrollera detta genom att högerklicka på webbplatsens sida. Gå till **Visa sidkälla** i en webbläsare. Sök: &quot;RTP&quot;.
+
 1. Bekräfta att växlingsknappen Tagg är inställd på **ON**.
-
