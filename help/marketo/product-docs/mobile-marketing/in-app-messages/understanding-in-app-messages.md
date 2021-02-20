@@ -3,9 +3,9 @@ unique-page-id: 10100397
 description: Om meddelanden i appen - Marketo Docs - Produktdokumentation
 title: Förstå meddelanden i appen
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ Använd meddelanden i appen för att interagera direkt med kunderna medan de anv
 
 >[!NOTE]
 >
->Exempel 1: Sommarrabatt visas när appen öppnas.
+>**Exempel 1**: Sommarrabatt visas när appen öppnas.
 >
->Exempel 2: Medan du tittar på en medicinsk video kan du boka ett läkarbesök, så får du en rabattkupong på 40 dollar.
+>**Exempel 2**: Medan du tittar på en medicinsk video kan du boka ett läkarbesök, så får du en rabattkupong på 40 dollar.
 
 Innan du kan skapa och skicka meddelanden i appen för din mobilapp behöver du Marketo Admin och utvecklaren av mobilappar för att kunna göra några inställningar.  Det finns tre steg till processen att skapa meddelanden i appen:
 
@@ -33,18 +33,10 @@ Marketo Admin och utvecklaren av mobilappar samarbetar för att konfigurera dig.
 
 ## Steg 2: Skapa ett meddelande i appen {#step-create-an-in-app-message}
 
-Du [skapar ett meddelande i appen](https://docs.marketo.com/display/docs/create+an+in-app+message) med onlineredigeraren.
+Du [skapar ett meddelande i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md) med onlineredigeraren.
 
 ## Steg 3: Skicka! {#step-send}
 
-Du skapar ett program för att [skicka meddelandet](https://docs.marketo.com/display/docs/send+your+in-app+message).
+Du skapar ett program för att [skicka meddelandet](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
 
 Du är på väg.
-
->[!MORELIKETHIS]
->
->* [Skapa ett meddelande i appen](https://docs.marketo.com/display/docs/create+an+in-app+message)
-   >
-   >
-* [Skicka ditt meddelande i appen](https://docs.marketo.com/display/docs/send+your+in-app+message)
-
