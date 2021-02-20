@@ -3,7 +3,7 @@ unique-page-id: 7511518
 description: Förstå push-meddelanden - Marketo Docs - Produktdokumentation
 title: Förstå push-meddelanden
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
@@ -25,15 +25,15 @@ Med Marketo Mobile Engagement kan ni skapa, konfigurera och skicka ett meddeland
 
 ## Steg 1: Administratör och utvecklare utför initiala inställningar {#step-admin-and-developer-perform-initial-setups}
 
-Marketo Admin och utvecklaren av mobilappar samarbetar för att konfigurera dig. Mer information finns i [Innan du skapar push-meddelanden och meddelanden i appen](../../../product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md).
+Marketo Admin och utvecklaren av mobilappar samarbetar för att konfigurera dig. Mer information finns i [Innan du skapar push-meddelanden och meddelanden i appen](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md).
 
 ## Steg 2: Skapa ett push-meddelande {#step-create-a-push-notification}
 
-[Skapa ](create-a-push-notification.md) meddelanden och förhandsgranska hur de visas på Android- och iOS-enheter.
+[Skapa ](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) meddelanden och förhandsgranska hur de visas på Android- och iOS-enheter.
 
 ## Steg 3: Skicka! {#step-send}
 
-[Push-meddelanden kan ](send-a-mobile-push-notification.md) skickas med smarta kampanjer för utlösare och batchbearbetning. Ganska coolt, va?
+[Push-meddelanden kan ](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) skickas med smarta kampanjer för utlösare och batchbearbetning. Ganska coolt, va?
 
 ![](assets/image2015-4-27-8-3a41-3a43.png)
 
