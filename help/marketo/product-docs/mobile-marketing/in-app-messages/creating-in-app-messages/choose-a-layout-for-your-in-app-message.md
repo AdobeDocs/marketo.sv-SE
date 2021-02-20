@@ -3,9 +3,9 @@ unique-page-id: 10100434
 description: Välj en layout för ditt meddelande i appen - Marketo Docs - Produktdokumentation
 title: Välj en layout för ditt meddelande i appen
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '478'
 ht-degree: 0%
 
 ---
@@ -58,14 +58,8 @@ Den tredje helskärmslayouten är densamma som den andra, förutom den andra kna
 
 ![](assets/image2016-5-9-13-3a11-3a35.png)
 
-Nu när du känner till mallarna är det dags att välja en när du [skapar dina bilder för meddelanden i appen](add-in-app-message-images.md).
+Nu när du känner till mallarna är det dags att välja en när du [skapar dina bilder för meddelanden i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md).
 
 >[!MORELIKETHIS]
 >
->* [Skapa ett meddelande i appen](https://docs.marketo.com/display/docs/create+an+in-app+message)
->* [Förstå meddelanden i appen](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
-
->
-
-
-
+>[Förstå meddelanden i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
