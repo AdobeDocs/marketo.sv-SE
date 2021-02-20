@@ -3,9 +3,9 @@ unique-page-id: 2359510
 description: Ta bort en segmentering - Marketo Docs - Produktdokumentation
 title: Ta bort en segmentering
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Du kan ta bort en segmentering genom att följa stegen nedan.
 
    Om din segmentering används av andra resurser tar du bort alla dessa associationer innan du fortsätter.
 
-1. Ta bort alla associationer och klicka sedan i **Segmenteringsåtgärder** på **Ogodkänd** i &lt;a0/>Segmenteringsåtgärder&lt;a1/>.
+1. Ta bort alla associationer och klicka sedan i **Segmenteringsåtgärder** på **Ogodkänd** i Segmenteringsåtgärder.
 
    ![](assets/image2017-3-28-15-3a51-3a30.png)
 
@@ -33,7 +33,7 @@ Du kan ta bort en segmentering genom att följa stegen nedan.
    >
    >Du kan ta bort associationer genom att ta bort eller skapa alternativ för resurserna som använder segmenteringen.
 
-   Klicka på Segmenteringsåtgärder och ta bort segmenteringen när det inte godkänts.
+1. När det inte godkänts klickar du på **Segmenteringsåtgärder** och tar bort segmenteringen.
 
    ![](assets/image2017-3-28-15-3a51-3a46.png)
 
