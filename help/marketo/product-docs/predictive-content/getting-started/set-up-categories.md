@@ -3,19 +3,15 @@ unique-page-id: 11385057
 description: Ställ in kategorier - Marketo Docs - Produktdokumentation
 title: Ställ in kategorier
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
 
 # Konfigurera kategorier {#set-up-categories}
-
->[!NOTE]
->
->Beroende på inköpsdatumet kan din Marketo-prenumeration innehålla antingen Marketo Predictive Content eller Content`<sup>AI</sup>`. För dem som använder Predictive Content aktiverar Marketo Content`<sup>AI</sup>` Analytics-funktioner fram till 30 april 2018. Kontakta Marketo Customer Success Manager för att uppgradera till Marketo Content`<sup>AI</sup>` om du vill behålla funktionerna efter detta datum.
 
 Skapa kategorier i Predictive Content för att gruppera prediktiva resultat på webben eller i e-post. Du kan till exempel bara arbeta med bloggar eller med innehåll på ett visst språk. Du kan även söka efter och filtrera sidvyn.  Kategorier visas på sidorna Allt innehåll och Predictive Content för enkel referens.
 
@@ -54,4 +50,3 @@ Så här skapar du kategoritaggar.
    ![](assets/save-new.png)
 
    Ganska enkelt.
-
