@@ -3,7 +3,7 @@ unique-page-id: 8783141
 description: Skicka ett push-meddelandeexempel - Marketo Docs - Produktdokumentation
 title: Skicka ett push-meddelandeexempel
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%
@@ -25,7 +25,8 @@ Du kan skicka ett prov för att verifiera att ditt push-meddelande fungerar som 
 
    ![](assets/image2015-7-13-11-3a26-3a15.png)
 
-   Du kan också klicka på **Skicka exempel** på åtgärdsmenyn Push Notification.\
+   Du kan också klicka på **Skicka exempel** på åtgärdsmenyn Push Notification.
+
    ![](assets/image2015-7-13-11-3a28-3a37.png)
 
    Du kan också klicka på **Skicka prov** i Push Notifications Editor.
@@ -36,7 +37,7 @@ Du kan skicka ett prov för att verifiera att ditt push-meddelande fungerar som 
 
    ![](assets/image2015-7-29-8-3a25-3a17.png)
 
-   Du kan också klicka på **Lägg till enhet** till [lägg till en ny testenhet](adding-a-new-test-device.md) som du vill skicka exemplet till.
+   Du kan också klicka på **Lägg till enhet** till [lägg till en ny testenhet](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md) som du vill skicka exemplet till.
 
    ![](assets/image2015-7-13-11-3a34-3a21.png)
 
@@ -46,7 +47,7 @@ Du kan skicka ett prov för att verifiera att ditt push-meddelande fungerar som 
 
    ![](assets/image2015-7-29-8-3a29-3a18.png)
 
-   Eller klicka på **Skanna QR-koden med enhetsknappen **och skanna QR-koden med enheten med det andra alternativet. När statusen visar anslutningen klickar du på **Skicka**.
+   Eller klicka på **Skanna QR-koden med enhetsknappen** med det andra alternativet och skanna QR-koden med enheten. När statusen visar anslutningen klickar du på **Skicka**.
 
    ![](assets/image2015-7-29-8-3a31-3a20.png)
 
@@ -54,19 +55,9 @@ Du kan skicka ett prov för att verifiera att ditt push-meddelande fungerar som 
    >
    >Har du lagt till en testenhet, men den visas inte i fältet **Skicka till**? Kontrollera följande för att felsöka:
    >
-   >    
-   >    
-   >    * Push-meddelanden är aktiverade för det program som är associerat med push-meddelandet.
-      >    
-      >    
+   >* Push-meddelanden är aktiverade för det program som är associerat med push-meddelandet.
       >
-      >    
-      >    
-      >    
-
-
-
-
+      >
    * Push-meddelandet har konfigurerats för testenhetens plattform. Om du till exempel precis har lagt till en iPhone som testenhet kontrollerar du att push-meddelandet är aktiverat för iOS.
 
 
