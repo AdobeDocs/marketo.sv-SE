@@ -3,9 +3,9 @@ unique-page-id: 2359474
 description: Redigera en segmentering - Marketo Docs - Produktdokumentation
 title: Redigera en segmentering
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Det är enkelt att ändra befintliga segment. Här är det låga ner.
 
    ![](assets/two.png)
 
-1. **Status **ändras till Godkänd med utkast. En **Draft **folder skapas i din segmentering.
+1. **Status** ändras till Godkänd med utkast. En **utkastmapp** skapas i din segmentering.
 
    ![](assets/three.png)
 
@@ -39,7 +39,7 @@ Det är enkelt att ändra befintliga segment. Här är det låga ner.
    >
    >Du kan bara redigera segment i ett utkast och inte i Godkänt segment.
 
-1. **Lägg till segment**, **Redigera **befintlig (ändra namn eller ordning) eller **Ta bort **alla segment.
+1. **Lägg till segment**,  **** redigera befintliga (ändra namn eller ordning) eller  **** ta bort segment.
 
    ![](assets/image2014-9-16-9-3a6-3a9.png)
 
@@ -53,7 +53,7 @@ Det är enkelt att ändra befintliga segment. Här är det låga ner.
 
 ## Redigera segmentregler {#edit-segment-rules}
 
-1. Gå till **Smart lista** i utkastet **Segment**. Använd regler som liknar [Definiera segmentregler](https://docs.marketo.com/display/public/DOCS/Define+Segment+Rules).
+1. Gå till **Smart lista** i utkastet **Segment**. Använd regler som liknar [Definiera segmentregler](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
@@ -63,18 +63,10 @@ Det är enkelt att ändra befintliga segment. Här är det låga ner.
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
-   >
    >Kom ihåg att godkänna segmenteringsutkastet.
 
 Experimentera fritt med segmenteringar som inte används i dynamiskt innehåll.
 
 >[!MORELIKETHIS]
 >
->* [Ta bort en segmentering](delete-a-segmentation.md)
-
->
-
-
-
+>[Ta bort en segmentering](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/delete-a-segmentation.md)
