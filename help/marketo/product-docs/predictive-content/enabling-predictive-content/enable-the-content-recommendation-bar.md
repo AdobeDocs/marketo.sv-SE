@@ -3,9 +3,9 @@ unique-page-id: 4720108
 description: Aktivera innehållsrekommendationsfältet - Marketo Docs - produktdokumentation
 title: Aktivera innehållsrekommendationsfältet
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,15 @@ Innehållsrekommendationsmotorn använder prediktiva analyser och maskininlärni
 
 >[!PREREQUISITES]
 >
->Innan du aktiverar prediktivt innehåll måste du:
+>Innan du aktiverar Predictive Content måste du:
 >
->* [Förbered ditt prediktiva innehåll](https://docs.marketo.com/display/docs/edit+predictive+content)
+>* **Förbered ditt prediktiva innehåll**
+   >
+   >   
+   * [Redigera prediktivt innehåll för ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) e-postmarkören
+   >   * [Redigera prediktivt innehåll för ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) multimedia
+   >   * [Redigera prediktivt innehåll för rekommendationsfältet](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>
 >* [Godkänn en titel för prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
@@ -45,9 +51,9 @@ Innehållsrekommendationsmotorn använder prediktiva analyser och maskininlärni
    >
    >**Inkludera/exkludera visnings-URL**
    >
-   >    * URL för visning ska vara domänens sökväg
-   >    * Ta inte med https:// eller https://
-   >    * Använd * för jokertecken
+   >* URL för visning ska vara domänens sökväg
+   >* Ta inte med https:// eller https://
+   >* Använd * för jokertecken
    * Använda ett semikolon som avgränsare
    * Exempel: /contact_us*; *action=log*
    * Det här fältet är skiftlägeskänsligt
@@ -61,5 +67,4 @@ Innehållsrekommendationsmotorn använder prediktiva analyser och maskininlärni
 * Innehållsdelen som du aktiverar för rekommendation bör innehålla Javascript-taggen RTP. Detta hjälper algoritmen att spåra och optimera rekommenderat innehåll.
 
 >[!MORELIKETHIS]
-* [Aktivera prediktivt innehåll för multimedia för webben](enable-predictive-content-for-web-rich-media.md)
-
+[Aktivera prediktivt innehåll för multimedia för webben](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
