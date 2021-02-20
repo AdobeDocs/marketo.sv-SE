@@ -3,7 +3,7 @@ unique-page-id: 11384653
 description: Redigera innehåll - Marketo Docs - Produktdokumentation
 title: Redigera innehåll
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Du kan göra vissa ändringar i listor på sidan Allt innehåll.
 1. Markera rutan **Godkänn för prediktivt innehåll** om du vill godkänna eller avmarkera rutan om du vill avgodkänna. Klicka på **Spara** när du är klar.
 
    ![](assets/edit-content-4.png)
-
