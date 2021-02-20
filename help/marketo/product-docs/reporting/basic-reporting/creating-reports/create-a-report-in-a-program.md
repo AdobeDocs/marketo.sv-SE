@@ -3,9 +3,9 @@ unique-page-id: 2359963
 description: Skapa en rapport i ett program - Marketo Docs - Produktdokumentation
 title: Skapa en rapport i ett program
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,8 @@ ht-degree: 0%
 Kör en rapport för att analysera människor, program, landningssidor, e-post och sociala resurser.
 
 1. Gå till **Marknadsföringsaktiviteter**.
-1. ![](assets/login-marketing-activities.png)
+
+   ![](assets/login-marketing-activities.png)
 
 1. Välj ett program.
 
@@ -26,7 +27,7 @@ Kör en rapport för att analysera människor, program, landningssidor, e-post o
    >
    >Du kan också skapa rapporter från fliken **Analytics**.
 
-   Högerklicka på programmet och välj Ny lokal resurs.
+1. Högerklicka på programmet och välj **Ny lokal resurs**.
 
    ![](assets/programrightclick-asset.png)
 
@@ -40,9 +41,9 @@ Kör en rapport för att analysera människor, program, landningssidor, e-post o
 
    >[!TIP]
    >
-   >I [`Report Type Overview`](https://docs.marketo.com/display/DOCS/Report+Type+Overview) finns en kort beskrivning av varje.
+   >I [Översikt över rapporttypen](https://docs.marketo.com/display/DOCS/Report+Type+Overview) finns en kort beskrivning av alla.
 
-   Ge rapporten ett namn.
+1. Ge rapporten ett namn.
 
    ![](assets/namereport.png)
 
@@ -50,7 +51,7 @@ Kör en rapport för att analysera människor, program, landningssidor, e-post o
    >
    >Om du vill göra det enklare att navigera i dina rapporter senare ska du ta med en referens till rapporttypen i namnet.
 
-   Ange tidsramen för rapporten. Mer information finns i [Ändra en tidsram för rapport](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md).
+1. Ange tidsramen för rapporten. Mer information finns i [Ändra en tidsram för rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md).
 
 1. Klicka på fliken **Rapport** för att se din statistik.
 
@@ -58,21 +59,12 @@ Kör en rapport för att analysera människor, program, landningssidor, e-post o
 
    >[!NOTE]
    >
-   >**Djupdykning**
-   >
-   >
-   >Som standard omfattar rapporter all aktivitet på ditt konto, i alla program. Om du vill veta mer om hur du kan filtrera rapporten kan du läsa djupdykningen [Grundläggande rapportering](https://docs.marketo.com/display/docs/basic+reporting).
+   >Som standard omfattar rapporter all aktivitet på ditt konto, i alla program.
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
-   >
-   >Du kan snabbt få många rapporter. Kom ihåg att [ta bort en rapport](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md) som du inte längre behöver.
+   >Du kan snabbt få många rapporter. Kom ihåg att [ta bort en rapport](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md) som du inte längre behöver.
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >Du kan [ändra en rapporttidsram](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [prenumerera på en enkel rapport](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [exportera en rapport till Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filtrera personer i en rapport med en smart lista](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) och [mer](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >Du kan [ändra en rapporttidsram](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [prenumerera på en enkel rapport](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [exportera en rapport till Excel](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filtrera personer i en rapport med en smart lista](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) med mera.
