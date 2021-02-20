@@ -3,7 +3,7 @@ unique-page-id: 10100642
 description: Skapa meddelandetext i appen - Marketo Docs - Produktdokumentation
 title: Skapa meddelandetext i appen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Klicka på textområdet om du vill arbeta med textformatet och innehållet.
    >
    >För stor textstorlek kan medföra att innehållet flyttas förbi de maximala tre synliga textraderna.
 
-1. Välj en valfri teckenstil för betoning: **Fet**, *Kursiv* eller Understruken.
+1. Välj en valfri teckenstil för betoning: **Fet**, _Kursiv_ eller Understruken.
 
    ![](assets/image2016-5-6-10-3a15-3a32.png)
 
@@ -77,14 +77,10 @@ Klicka på textområdet om du vill arbeta med textformatet och innehållet.
 
    Ändringar som du gör i token som används i ett godkänt meddelandeprogram i appen börjar inte gälla i meddelandet i appen förrän programmet pausas och sedan återupptas.
 
-Du är guld. Sedan måste du [konfigurera meddelandeknappen i appen](set-up-the-in-app-message-button.md).
+Du är guld. Sedan måste du [konfigurera meddelandeknappen i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md).
 
 >[!MORELIKETHIS]
 >
->* [Förstå meddelanden i appen](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Välj en layout för ditt meddelande i appen](choose-a-layout-for-your-in-app-message.md)
-
->
-
-
+>* [Förstå meddelanden i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Välj en layout för ditt meddelande i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
