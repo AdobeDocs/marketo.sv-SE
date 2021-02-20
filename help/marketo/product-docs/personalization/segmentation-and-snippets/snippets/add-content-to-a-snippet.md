@@ -3,9 +3,9 @@ unique-page-id: 2359496
 description: Lägg till innehåll i ett fragment - Marketo Docs - Produktdokumentation
 title: Lägga till innehåll i ett fragment
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Skapa ett fragment](create-a-snippet.md)
+>[Skapa ett fragment](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 Du kan lägga till variabler, bilder, filer eller RTF-text i ett fragment.
 
@@ -23,7 +23,7 @@ Du kan lägga till variabler, bilder, filer eller RTF-text i ett fragment.
 >
 >Du kan inte bädda in en [Marketo-e-postsyntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) i fragment; **fungerar inte** i ett e-postmeddelande. Kodavsnitt ska bara innehålla brödtext (HTML + TEXT).
 
-1. Gå till **Design Studio.**
+1. Gå till **Design Studio**.
 
    ![](assets/designstudio-2.png)
 
@@ -51,7 +51,7 @@ Du kan lägga till tre typer av innehåll i ett fragment.
 
    >[!NOTE]
    >
-   >Du kan lägga till egna bilder eller filer i Marketo. Läs mer om [bilder och filer](https://docs.marketo.com/display/docs/images+and+files).
+   >Du kan lägga till egna bilder eller filer i Marketo. Läs mer om [bilder och filer](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
 1. Välj den **bild** som ska användas och klicka på **Infoga**.
 
@@ -87,6 +87,6 @@ Häftig! Nu kan du skapa olika typer av innehåll för fragmentet.
 
 >[!MORELIKETHIS]
 >
->* [Förhandsgranska ett kodavsnitt](preview-a-snippet.md)
->* [Godkänn ett fragment](approve-a-snippet.md)
+>* [Förhandsgranska ett kodavsnitt](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/preview-a-snippet.md)
+>* [Godkänn ett fragment](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
 
