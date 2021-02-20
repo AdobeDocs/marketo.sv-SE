@@ -3,9 +3,9 @@ unique-page-id: 11378871
 description: Använd Vibes SMS-meddelanden i Smart List-utlösare och -filter - Marketo Docs - Produktdokumentation
 title: Använd Vibes SMS-meddelanden i Smart List-utlösare och -filter
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Använd Vibes SMS-meddelanden i Smart List-utlösare och -filter {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
 
-När du har [skapat ett Vibes SMS-meddelande](create-a-vibes-sms-message.md) vill du använda smarta listutlösare och filter i en smart kampanj för att få fördelarna. Så här gör du.
+När du har [skapat ett Vibes SMS-meddelande](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md) vill du använda smarta listutlösare och filter i en smart kampanj för att få fördelarna. Så här gör du.
 
 1. Klicka på **Marknadsföringsaktiviteter** på My Marketo.
 
@@ -29,7 +29,7 @@ Det finns andra SMS-utlösare tillgängliga. SMS-utlösarna visas bara om tjäns
 
 ![](assets/new-sms-search2.png)
 
-Här är några exempel.
+Här är några exempel:
 
 SMS Message Bounces-utlösaren initierar ett flöde, som att skicka ett e-postmeddelande, när ett SMS-meddelande studsar.
 
@@ -39,7 +39,7 @@ Utlösaren **Prenumererar på Vibes List** initierar ett flöde när en person p
 
 ![](assets/subscribes-to-vibes-list-real.jpg)
 
-Utlösaren för att* klicka på länken i SMS-meddelande** startar ett flöde när en person klickar på en länk i SMS-meddelandet.
+Utlösaren **Click Link in SMS Message** initierar ett flöde när en person klickar på en länk i SMS-meddelandet.
 
 ![](assets/clicks-link-in-sms-message.jpg)
 
@@ -49,7 +49,7 @@ Du kan också använda Vibes-filter i smarta listor. Filtret **Prenumererar på 
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-Däremot hittar **Member of Vibes List **filter** **** **alla** ***som just nu* prenumererar på Vibes och är mest lämpad för smarta kampanjer eller listor.
+Filtret **Member of Vibes List** hittar _alla_ som prenumererar på Vibes och är lämpligast att använda i smarta kampanjer eller listor.
 
 ![](assets/image001.png)
 
@@ -57,15 +57,10 @@ Däremot hittar **Member of Vibes List **filter** **** **alla** ***som just nu* 
 >
 >Alla SMS-filter innehåller begränsningen **Aktivitetsdatum** som standard.
 
-När du har konfigurerat Vibes-utlösare och -filter i din smarta lista kan du [definiera flödet](add-a-flow-step-for-sms.md).
+När du har konfigurerat Vibes-utlösare och -filter i din smarta lista kan du [definiera flödet](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md).
 
 >[!MORELIKETHIS]
 >
->* [Definiera smart lista för smart kampanj | Utlösare](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
->* [Söka efter och lägga till filter i en smart lista](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
->* [Lägg till ett flödessteg för SMS](add-a-flow-step-for-sms.md)
-
->
-
-
+>* [Definiera smart lista för smart kampanj | Utlösare](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+>* [Söka efter och lägga till filter i en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
 
