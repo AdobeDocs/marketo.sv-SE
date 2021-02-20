@@ -3,9 +3,9 @@ unique-page-id: 14745750
 description: Inställningar för algoritmmål - Marketo Docs - Produktdokumentation
 title: Inställningar för algoritmmål
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,10 @@ Algoritmmålsinställningar gör att du kan ange slutmålet för algoritmen för
 
    ![](assets/three-new.png)
 
-   | **`Clicks`** | Visa innehållet så att personen som tittar på innehållet kan klicka på det |
+   | **Klickningar** | Visa innehållet så att personen som tittar på innehållet kan klicka på det |
    |---|---|
-   | **`Conversions`** | Visa det innehåll som mest sannolikt får den som tittar på innehållet att skicka ett formulär |
+   | **Konverteringar** | Visa det innehåll som mest sannolikt får den som tittar på innehållet att skicka ett formulär |
 
 1. Klicka på **Spara** när du är klar.
 
    ![](assets/four.png)
-
