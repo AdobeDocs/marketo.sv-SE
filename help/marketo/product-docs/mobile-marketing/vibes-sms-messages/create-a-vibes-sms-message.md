@@ -3,7 +3,7 @@ unique-page-id: 11378869
 description: Skapa ett Vibes SMS-meddelande - Marketo Docs - Produktdokumentation
 title: Skapa ett Vibes SMS-meddelande
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Så här skapar du ett Vibes SMS-meddelande.
 
-1. Gå till Marknadsföringsaktiviteter och högerklicka på ett program.
+1. Gå till **Marknadsföringsaktiviteter** och högerklicka på ett program.
 
    ![](assets/mobile-right-click-hand.jpg)
 
