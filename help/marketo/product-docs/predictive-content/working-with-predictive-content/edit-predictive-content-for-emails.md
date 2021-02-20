@@ -3,19 +3,15 @@ unique-page-id: 11385938
 description: Redigera prediktivt innehåll för e-post - Marketo Docs - Produktdokumentation
 title: Redigera prediktivt innehåll för e-postmeddelanden
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
 
 
 # Redigera prediktivt innehåll för e-postmeddelanden {#edit-predictive-content-for-emails}
-
->[!NOTE]
->
->Beroende på inköpsdatumet kan din Marketo-prenumeration innehålla antingen Marketo Predictive Content eller Content`<sup>AI</sup>`. För dem som använder Predictive Content aktiverar Marketo Content`<sup>AI</sup>` Analytics-funktioner fram till 30 april 2018. Kontakta Marketo Customer Success Manager för att uppgradera till Marketo Content`<sup>AI</sup>` om du vill behålla funktionerna efter detta datum.
 
 Så här konfigurerar du ditt prediktiva innehåll för e-postmeddelanden.
 
