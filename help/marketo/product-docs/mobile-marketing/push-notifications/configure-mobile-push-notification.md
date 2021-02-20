@@ -3,9 +3,9 @@ unique-page-id: 7512454
 description: Konfigurera Mobile Push Notification - Marketo Docs - produktdokumentation
 title: Konfigurera push-meddelanden för mobilen
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Konfigurera push-meddelanden för mobilen {#configure-mobile-push-notification}
 
-1. Gå till området Marknadsföringsaktiviteter.
+1. Gå till **Marknadsföringsaktiviteter**.
 
 ![](assets/2fbf1ab6-2247-40c8-980d-be56b9d94890.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    ![](assets/image2016-8-23-16-3a53-3a33.png)
 
-   Om ditt push-meddelande endast gäller för en plattform (till exempel för iPhone) kan du utesluta den andra plattformen genom att skjuta dess väljare till Inaktiverad.
+1. Om ditt push-meddelande endast gäller för en plattform (till exempel för iPhone) kan du utesluta den andra plattformen genom att skjuta dess väljare till Inaktiverad.
 
    ![](assets/image2016-8-23-16-3a41-3a48.png)
 
-   Klicka på NÄSTA.
+1. Klicka på **Nästa**.
 
    ![](assets/image2016-8-23-16-3a43-3a28.png)
 
@@ -47,25 +47,19 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Definition**
-   >
-   >
-   >Det finns tre typer av** Tryck på Åtgärder:**
-   >
+   >Det finns tre typer av Tap-åtgärder:
    >
    >**Starta app**  -  **Det här** programmet öppnar appens startsida när användaren trycker på meddelandet. **Kunderna** använder en djup länk för att öppna andra delar av appen eller andra appar som du har länken till (mer information finns i  [Deep Link ](#Deeplink) URI nedan).
    >
-   >
    >**Landningssida**  - tar dig till en viss Marketo-landningssida.
-   >
    >
    >**Extern URL**  - tar dig till en landningssida som inte är Marketo.
 
-   Om du vill infoga en djuplänk för en anpassad knackningsåtgärd klickar du på Anpassad och anger URI:n för djuplänk](#Deeplink) i fältet.[
+1. Om du vill infoga en djuplänk för en anpassad knackningsåtgärd klickar du på Anpassad och anger URI:n för djuplänk](#Deeplink) i fältet.[
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
-   Om du vill infoga variabler väljer du en token, anger ett standardvärde och klickar på Infoga.
+1. Om du vill infoga variabler väljer du en token, anger ett standardvärde och klickar på Infoga.
 
    >[!NOTE]
    >
@@ -77,15 +71,15 @@ ht-degree: 0%
    >
    >Meddelanden och Tryck på Åtgärder ser likadana ut på båda plattformarna.
 
-   För iOS markerar du kryssrutan för att ange att programmet ska spela upp ett ljud när meddelandet kommer. Android spelar upp ljudet automatiskt.
+1. För iOS markerar du kryssrutan för att ange att programmet ska spela upp ett ljud när meddelandet kommer. Android spelar upp ljudet automatiskt.
 
    ![](assets/ios-tap-and-notification-hand.png)
 
-   Förhandsgranska den andra plattformen och klicka på FINISH.
+1. Förhandsgranska den andra plattformen och klicka på **Slutför**.
 
    ![](assets/image2015-9-14-16-3a12-3a34.png)
 
-1. Klicka på **GODKÄNN OCH STÄNG**.
+1. Klicka på **Godkänn och stäng**.
 
    ![](assets/323dda12-0543-4558-8562-563eed5fa0e0.png)
 
@@ -103,9 +97,4 @@ Programmets djuplänksstruktur kan dock skilja sig från ovanstående exempel. D
 
 >[!MORELIKETHIS]
 >
->* [Skicka ett mobilpush-meddelande](send-a-mobile-push-notification.md)
-
->
-
-
-
+>[Skicka ett mobilpush-meddelande](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
