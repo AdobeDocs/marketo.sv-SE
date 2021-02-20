@@ -3,9 +3,9 @@ unique-page-id: 11384645
 description: Understanding All content - Marketo Docs - Product Documentation
 title: Förstå allt innehåll
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,9 @@ ht-degree: 0%
 
 # Förstå allt innehåll {#understanding-all-content}
 
->[!NOTE]
->
->Beroende på inköpsdatumet kan din Marketo-prenumeration innehålla antingen Marketo Predictive Content eller Content`<sup>AI</sup>`. För dem som använder Predictive Content aktiverar Marketo Content`<sup>AI</sup>` Analytics-funktioner fram till 30 april 2018. Kontakta Marketo Customer Success Manager för att uppgradera till Marketo Content`<sup>AI</sup>` om du vill behålla funktionerna efter detta datum.
+På sidan Allt innehåll visas allt innehåll som har identifierats eller lagts till manuellt.
 
-På sidan Allt innehåll visas allt innehåll som har identifierats eller lagts till manuellt.   ![](assets/image2017-10-3-9-3a4-3a56.png)
+![](assets/image2017-10-3-9-3a4-3a56.png)
 
 Sidfälten innehåller:
 
@@ -52,12 +50,8 @@ Filtrera innehåll genom att markera en eller flera kategorier. Ange sedan datum
 
 >[!MORELIKETHIS]
 >
->* [Lägg till nytt innehåll](add-new-content.md)
->* [Ta bort innehåll](delete-content.md)
->* [Godkänn en titel för prediktivt innehåll](approve-a-title-for-predictive-content.md)
->* [Avgodkänn en titel för prediktivt innehåll](unapprove-a-title-for-predictive-content.md)
-
->
-
-
+>* [Lägg till nytt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/add-new-content.md)
+>* [Ta bort innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/delete-content.md)
+>* [Godkänn en titel för prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
+>* [Avgodkänn en titel för prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/unapprove-a-title-for-predictive-content.md)
 
