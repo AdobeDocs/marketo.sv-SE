@@ -3,9 +3,9 @@ unique-page-id: 2359500
 description: Segmenteringsorderprioritet - Marketo Docs - Produktdokumentation
 title: Prioritet för segmenteringsordning
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,8 @@ Det är viktigt att förstå hur **order** prioriterar utvärdering av dina pers
 
 >[!PREREQUISITES]
 >
->* [Skapa en segmentering](create-a-segmentation.md)
->* [Definiera segmentregler](define-segment-rules.md)
-
->
-
-
+>[Skapa en segmentering](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>[Definiera segmentregler](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 1. Gå till **databasen**.
 
@@ -37,6 +33,7 @@ Det är viktigt att förstå hur **order** prioriterar utvärdering av dina pers
    >Du kan bara redigera ett utkast av din segmentering.
 
    Du kan kontrollera eller redigera segmentens ordning på den här skärmen.
+
    ![](assets/image2014-9-16-10-3a12-3a3.png)
 
 >[!NOTE]
@@ -45,9 +42,5 @@ Det är viktigt att förstå hur **order** prioriterar utvärdering av dina pers
 >* När en person kvalificerar sig för två segment tillhör de bara det första i listan.
 >* Om en person inte är berättigad till något segment blir han eller hon medlem i standardsegmentet.
 
->
 
-
-
-Coola, va? Du kan använda segment för dynamiskt innehåll, [rapportering](https://docs.marketo.com/display/docs/basic+reporting) och även i [smarta listor](https://docs.marketo.com/display/docs/smart+lists+and+static+lists).
-
+Coola, va? Du kan använda segment för dynamiskt innehåll, rapportering och till och med i smarta listor.
