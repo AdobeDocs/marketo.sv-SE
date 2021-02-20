@@ -3,19 +3,15 @@ unique-page-id: 11384634
 description: The Predictive Content Summary - Marketo Docs - produktdokumentation
 title: Sammanfattning av prediktivt innehåll
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
 
 
 # The Predictive Content Summary {#the-predictive-content-summary}
-
->[!NOTE]
->
->Beroende på inköpsdatumet kan din Marketo-prenumeration innehålla antingen Marketo Predictive Content eller Content`<sup>AI</sup>`. För dem som använder Predictive Content aktiverar Marketo Content`<sup>AI</sup>` Analytics-funktioner fram till 30 april 2018. Kontakta Marketo Customer Success Manager för att uppgradera till Marketo Content`<sup>AI</sup>` om du vill behålla funktionerna efter detta datum.
 
 Sammanfattningen av prediktivt innehåll visar översiktlig information om ditt prediktiva innehåll, med tabeller, diagram och aktuella tal.
 
@@ -52,13 +48,3 @@ Vilka typer av innehåll är mest engagerande? Se det i det här diagrammet.
 >[!NOTE]
 >
 >Om du klickar på en kategorilänk (exempel i bilden ovan): leadgen, e-post osv.) den öppnar sidan Allt innehåll med den kategori som du klickade på och som lagts till i filtret, och visar innehållsanalysen i den kategorin.
-
->[!MORELIKETHIS]
->
->* [Arbeta med allt innehåll](https://docs.marketo.com/display/docs/working+with+all+content)
->* [Arbeta med prediktivt innehåll](https://docs.marketo.com/display/docs/working+with+predictive+content)
-
->
-
-
-
