@@ -3,19 +3,15 @@ unique-page-id: 11385940
 description: Redigera prediktivt innehåll för multimedia - Marketo Docs - Produktdokumentation
 title: Redigera prediktivt innehåll för multimedia
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
 
 # Redigera prediktivt innehåll för multimedia {#edit-predictive-content-for-rich-media}
-
->[!NOTE]
->
->Beroende på inköpsdatumet kan din Marketo-prenumeration innehålla antingen Marketo Predictive Content eller Content<sup>AI</sup>. För dem som använder Predictive Content aktiverar Marketo funktioner för innehållsanalys<sup>AI</sup> till och med 30 april 2018. Kontakta Marketo Customer Success Manager för att uppgradera till Marketo Content<sup>AI</sup> om du vill behålla funktionerna efter detta datum.
 
 Så här konfigurerar du ditt prediktiva innehåll för multimedia.
 
