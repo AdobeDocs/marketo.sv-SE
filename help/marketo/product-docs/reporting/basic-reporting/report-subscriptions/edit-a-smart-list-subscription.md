@@ -3,7 +3,7 @@ unique-page-id: 10093041
 description: Redigera en prenumeration på en smart lista - Marketo Docs - Produktdokumentation
 title: Redigera en prenumeration på en smart lista
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
@@ -52,4 +52,3 @@ Du kan redigera de här kolumnerna direkt på fliken Prenumerationer, som visas 
 1. Sista pusselbiten är formatet. Klicka på kolumnen **Format** och välj den du vill använda. CSV är standard.
 
    ![](assets/image2015-9-14-11-3a11-3a41.png)
-
