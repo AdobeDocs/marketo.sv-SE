@@ -3,9 +3,9 @@ unique-page-id: 2359991
 description: Hantera rapportprenumerationer - Marketo Docs - Produktdokumentation
 title: Hantera rapportprenumerationer
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Konfigurera och ta bort rapportprenumerationer.
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   På den här sidan visas prenumerationerna på alla rapporter på ditt konto, grupperade efter [rapporttyp](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Detta inkluderar [prenumerationer på grundläggande rapporter](subscribe-to-a-basic-report.md) och på rapporter i [Intäktscykelutforskaren](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
+   På den här sidan visas prenumerationerna på alla rapporter på ditt konto, grupperade efter [rapporttyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Detta inkluderar [prenumerationer på grundläggande rapporter](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) och på rapporter från Intäktscykeln.
 
    >[!TIP]
    >
@@ -39,11 +39,8 @@ Konfigurera och ta bort rapportprenumerationer.
 
    >[!TIP]
    >
-   >
-   >    
-   >    
-   >    * Använd kommatecken mellan e-postadresser.
-   >    * Om du vill spara redigeringarna klickar du i ett område *utanför* prenumerationslistan.
+   >* Använd kommatecken mellan e-postadresser.
+   >* Om du vill spara redigeringarna klickar du i ett område _utanför_ prenumerationslistan.
 
 
    Du kan också:
@@ -53,8 +50,6 @@ Konfigurera och ta bort rapportprenumerationer.
    * Klicka och redigera fältet **Sammanfattning** om du vill ändra hur många förhandsgranskningsrader som visas i e-postmeddelandet.
    * Avmarkera kryssrutan **Excel** om du vill skicka rapportsammanfattningar utan kalkylbladsbilagan.
    * Klicka på knappen **Skicka** om du vill skicka rapportens e-post direkt.
-
-
 
 1. Om du vill ta bort en prenumeration helt markerar du raden och klickar på **Ta bort prenumeration**.
 
@@ -66,12 +61,6 @@ Konfigurera och ta bort rapportprenumerationer.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Prenumerera på en grundläggande rapport](subscribe-to-a-basic-report.md)
-   >    * [Prenumerera på en rapport om skatteutforskaren](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
-
-
-   Läs mer i [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting) och [Revenue Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics) deep dives.
+   >* [Prenumerera på en grundläggande rapport](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+   >* [Prenumerera på en rapport om skatteutforskaren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
 
