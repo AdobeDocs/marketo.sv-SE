@@ -3,9 +3,9 @@ unique-page-id: 2360016
 description: Filtrera personer i en rapport med en smart lista - Marketo Docs - Produktdokumentation
 title: Filtrera personer i en rapport med en smart lista
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -17,16 +17,16 @@ Använd smarta listor för att filtrera rapporter efter specifika personattribut
 
 Du kan använda smarta listor med följande rapporttyper:
 
-* [Personprestanda](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
-* [Personer efter status](../../../../product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-* [Personer efter intäktsfas](https://docs.marketo.com/display/DOCS/People+by+Revenue+Stage+Report)
-* [E-postprestanda](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
-* [E-postlänkens prestanda](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
-* [Prestanda för engagemangsström](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
-* [Kampanjaktivitet](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
-* [Kampanjens e-postprestanda](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
-* [Företagets webbaktivitet](../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
-* [Webbsidesaktivitet](../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
+* [Personprestanda](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
+* [Personer efter status](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
+* [Personer efter intäktsfas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
+* [E-postprestanda](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+* [E-postlänkens prestanda](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
+* [Prestanda för engagemangsström](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
+* [Kampanjaktivitet](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
+* [Kampanjens e-postprestanda](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+* [Företagets webbaktivitet](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
+* [Webbsidesaktivitet](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
@@ -49,11 +49,3 @@ Du kan använda smarta listor med följande rapporttyper:
    ![](assets/image2017-3-27-14-3a14-3a16.png)
 
    Bra! Nu visar rapporten data för just de personer som matchar den smarta listan.
-
-   >[!NOTE]
-   >
-   >**Djupdykning**
-   >
-   >
-   >Mer information om hur du använder rapporter finns i djupdykningen [Grundläggande rapportering](https://docs.marketo.com/display/docs/basic+reporting).
-
