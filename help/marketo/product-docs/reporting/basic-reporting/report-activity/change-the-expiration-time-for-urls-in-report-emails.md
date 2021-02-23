@@ -3,9 +3,9 @@ unique-page-id: 2360032
 description: Ändra förfallotiden för URL:er i rapportmeddelanden - Marketo Docs - Produktdokumentation
 title: Ändra förfallotid för URL:er i e-postrapporter
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Länkar i prenumerationsmeddelanden för rapporter upphör att gälla efter tre 
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
-1. Klicka på knappen **Redigera förfallodatum för URL **.
+1. Klicka på knappen **Redigera URL-förfallodatum**.
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 
@@ -35,8 +35,4 @@ Länkar i prenumerationsmeddelanden för rapporter upphör att gälla efter tre 
 
    >[!NOTE]
    >
-   >**Påminnelse**
-   >
-   >
    >Kom ihåg att dessa bara gäller länkar i rapporter och varningar, inte marknadsföring via e-post.
-
