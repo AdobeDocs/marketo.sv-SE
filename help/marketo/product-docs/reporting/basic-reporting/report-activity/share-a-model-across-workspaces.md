@@ -3,9 +3,9 @@ unique-page-id: 2360205
 description: Dela en modell mellan arbetsytor - Marketo Docs - Produktdokumentation
 title: Dela en modell över arbetsytor
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -37,11 +37,10 @@ Marketo ger dig möjlighet att dela en eller flera modeller över arbetsytorna. 
 
    >[!NOTE]
    >
-   >
    >Genom att dela en modell med en annan arbetsyta kan dessa användare köra rapporter baserade på modellen.
 
 1. Markera de arbetsytor som du vill dela mappen med och klicka på **Spara**.
 
    ![](assets/image2014-10-3-14-3a6-3a22.png)
 
-Så enkelt är det! Nu kan personer från andra arbetsytor navigera i den delade modellen. Du kan köra persontilldelning på den arbetsytan i [Starta din intäktscykelmodell](https://community.marketo.com/MarketoArticle?id=kA050000000KyvQCAS) för mer information.
+Så enkelt är det! Nu kan personer från andra arbetsytor navigera i den delade modellen.
