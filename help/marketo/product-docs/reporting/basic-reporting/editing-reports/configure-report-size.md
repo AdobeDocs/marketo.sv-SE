@@ -3,9 +3,9 @@ unique-page-id: 2360002
 description: Konfigurera rapportstorlek - Marketo Docs - Produktdokumentation
 title: Konfigurera rapportstorlek
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Marketo-rapporter är som standard begränsade till högst 5 000 rader, men du kan ändra den gränsen.
 
-1. Gå till **Marknadsföringsaktiviteter **området.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/image2014-9-16-10-3a53-3a57.png)
 
@@ -23,7 +23,7 @@ Marketo-rapporter är som standard begränsade till högst 5 000 rader, men du k
 
    ![](assets/image2014-9-16-10-3a54-3a1.png)
 
-   Dubbelklicka på **Exportera rader tillgängliga**.
+1. Dubbelklicka på **Exportera rader tillgängliga**.
 
    ![](assets/image2014-9-16-10-3a54-3a5.png)
 
@@ -43,9 +43,4 @@ Marketo-rapporter är som standard begränsade till högst 5 000 rader, men du k
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >Nu kan du [exportera rapporten](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) med den nya gränsen.
-
-   Se fler sätt att konfigurera dina rapporter i djupdykningen [Grundläggande rapportering](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >Du kan [exportera rapporten](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) med den nya gränsen.
