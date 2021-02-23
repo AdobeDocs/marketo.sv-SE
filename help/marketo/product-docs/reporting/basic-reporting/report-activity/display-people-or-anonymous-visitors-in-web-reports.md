@@ -3,7 +3,7 @@ unique-page-id: 2360008
 description: Visa personer eller anonyma besökare i webbrapporter - Marketo Docs - produktdokumentation
 title: Visa personer eller anonyma besökare i webbrapporter
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Lägg till Munchkin-spårningskod på din webbplats](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
+>[Lägg till Munchkin-spårningskod på din webbplats](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
-I [webbsidesaktiviteten](../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) och [företagswebbaktivitetsrapporter](../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) kan du antingen se [personer eller anonyma besökare](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) som besöker din webbplats. De anonyma besökarna har kommit på data, som Metro Area.  Så här väljer du om rapporten ska visa kända leads eller anonyma besökare.
+I [webbsidesaktiviteten](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) och [företagswebbaktivitetsrapporter](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) kan du antingen se [personer eller anonyma besökare](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) som besöker din webbplats. De anonyma besökarna har kommit på data, som Metro Area.  Så här väljer du om rapporten ska visa kända leads eller anonyma besökare.
 
 1. Klicka på **Inställningar** i webbsidesaktivitetsrapporten.
 
@@ -27,7 +27,7 @@ I [webbsidesaktiviteten](../../../../product-docs/reporting/basic-reporting/repo
 
    ![](assets/image2016-2-2-14-3a5-3a59.png)
 
-1. Välj **Kända leads **(personer) eller** anonyma besökare **i listrutan.
+1. Välj **Kända leads** (personer) eller **Anonyma besökare** i listrutan.
 
    ![](assets/image2016-2-2-14-3a7-3a8.png)
 
@@ -41,9 +41,4 @@ I [webbsidesaktiviteten](../../../../product-docs/reporting/basic-reporting/repo
 
 >[!MORELIKETHIS]
 >
->* [Spåra anonym aktivitet och människor](tracking-anonymous-activity-and-people.md)
-
->
-
-
-
+>[Spåra anonym aktivitet och människor](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)
