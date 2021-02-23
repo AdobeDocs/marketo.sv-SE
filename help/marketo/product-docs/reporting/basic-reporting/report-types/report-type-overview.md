@@ -3,9 +3,9 @@ unique-page-id: 2359965
 description: Översikt över rapporttyp - Marketo Docs - Produktdokumentation
 title: Översikt över rapporttyp
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Översikt över rapporttyp {#report-type-overview}
 
-När du [skapar en rapport i ett program](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) väljer du vilken typ av rapport du vill ha.
+När du [skapar en rapport i ett program](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) väljer du vilken typ av rapport du vill ha.
 
 ## De mest använda rapporterna {#most-used-reports}
 
@@ -30,15 +30,15 @@ När du [skapar en rapport i ett program](../../../../product-docs/reporting/bas
    <td>Gruppera personer efter attribut och inkludera information om affärsmöjligheter. Granska och utforska.</td> 
   </tr> 
   <tr> 
-   <td><strong>  <a href="../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md">E-postlänkens prestanda</a>  </strong></td> 
+   <td><strong>  <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md">E-postlänkens prestanda</a>  </strong></td> 
    <td>Statistik om de enskilda länkarna i dina e-postmeddelanden.</td> 
   </tr> 
   <tr> 
-   <td><strong>  <a href="../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md">E-postprestanda</a>  </strong></td> 
+   <td><strong>  <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md">E-postprestanda</a>  </strong></td> 
    <td>Granska interaktioner med e-postmeddelanden: levererat eller studsat, öppnat, klickat, avbeställt osv.</td> 
   </tr> 
   <tr> 
-   <td><strong>  <a href="../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md">E-postprestanda för Sales Insight</a>  </strong></td> 
+   <td><strong>  <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md">E-postprestanda för Sales Insight</a>  </strong></td> 
    <td>Granska interaktioner med e-postmeddelanden som skickas via Marketo Sales Insight i Salesforce, Microsoft Dynamics samt plugin-programmet Outlook och Gmail.</td> 
   </tr> 
   <tr> 
@@ -46,15 +46,15 @@ När du [skapar en rapport i ett program](../../../../product-docs/reporting/bas
    <td>Automatisk rapportering baserad på fältet Personstatus.</td> 
   </tr> 
   <tr> 
-   <td><strong>  <a href="../../../../product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Scenrapport för personer efter intäkt</a>  </strong></td> 
+   <td><strong>  <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Scenrapport för personer efter intäkt</a>  </strong></td> 
    <td>Grundläggande rapportering för din <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">intäktsmodell</a>. Mer detaljerad rapportering finns i <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Inkomstcykelanalys</a>.</td> 
   </tr> 
   <tr> 
-   <td><strong>  <a href="../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Prestanda för landningssida</a>  </strong></td> 
+   <td><strong>  <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Prestanda för landningssida</a>  </strong></td> 
    <td>Inte en ersättare för Google Analytics, men ändå bra information.</td> 
   </tr> 
   <tr> 
-   <td><strong>  <a href="../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Programprestanda</a>  </strong></td> 
+   <td><strong>  <a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Programprestanda</a>  </strong></td> 
    <td>Grundläggande mätvärden som medlemmar och framgång. Mer detaljerad rapportering finns i <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Inkomstcykelanalys</a>.</td> 
   </tr> 
   <tr> 
@@ -70,7 +70,7 @@ När du [skapar en rapport i ett program](../../../../product-docs/reporting/bas
    <td>Granska den sociala aktivitet du skapar och se hur ofta dina medarbetare berättar för sina vänner om dig.</td> 
   </tr> 
   <tr> 
-   <td><strong> <a href="../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Resultatrapport för engagemangsström</a> </strong></td> 
+   <td><strong> <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Resultatrapport för engagemangsström</a> </strong></td> 
    <td><p>Se hur bra ditt <a href="https://docs.marketo.com/display/docs/drip+nurturing">engagemangsprogram</a> fungerar.</p></td> 
   </tr> 
  </tbody> 
@@ -82,12 +82,5 @@ Inte så användbar som rapporttyperna ovan, men ändå tillgänglig.
 
 | Rapport | Beskrivning |
 |---|---|
-| ** [Kampanjaktivitet](campaign-activity-report.md) ** | Status för bearbetning av smarta kampanjer. |
-| ** [Kampanjens e-postprestanda](campaign-email-performance-report.md) ** | E-postprestanda, grupperade efter smarta kampanjer. |
-
->[!NOTE]
->
->**Djupdykning**
->
->Om du vill se allt du kan göra med dessa rapporter läser du djupdykningen [Grundläggande rapportering](https://docs.marketo.com/display/docs/basic+reporting).
-
+| [Kampanjaktivitet](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) | Status för bearbetning av smarta kampanjer. |
+| [Kampanjens e-postprestanda](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) | E-postprestanda, grupperade efter smarta kampanjer. |
