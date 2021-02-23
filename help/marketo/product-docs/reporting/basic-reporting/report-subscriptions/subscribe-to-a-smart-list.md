@@ -3,7 +3,7 @@ unique-page-id: 7505310
 description: Prenumerera på en smart lista - Marketo Docs - produktdokumentation
 title: Prenumerera på en smart lista
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Prenumerationer är specifika för arbetsytan. Den här listan över prenumerati
 
    ![](assets/db.png)
 
-1. Välj den smarta lista som du vill skapa en prenumeration för. Klicka på **Visa en lista över åtgärder** och välj** Ny prenumeration för smart lista**.
+1. Välj den smarta lista som du vill skapa en prenumeration för. Klicka på **Visa en lista över åtgärder** och välj **Ny prenumeration för smart lista**.
 
    ![](assets/three.png)
 
@@ -50,11 +50,9 @@ Prenumerationer är specifika för arbetsytan. Den här listan över prenumerati
 
 1. Klicka på listan **Frekvens** och välj en frekvens.
 
-   ** ![](assets/image2015-9-14-13-3a21-3a21.png)
+   ![](assets/image2015-9-14-13-3a21-3a21.png)
 
-   **
-
-1. Ange **End Delivery **date. Du kan välja **Aldrig** eller ett kalenderdatum.
+1. Ange datumet **Slutleverans**. Du kan välja **Aldrig** eller ett kalenderdatum.
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
@@ -82,7 +80,7 @@ Mottagarna får ett e-postmeddelande med möjlighet att ladda ned rapporten samt
 
 >[!NOTE]
 >
->Om inställningen [Administratör för säker prenumeration](secure-the-subscription-admin-setting.md) är **Ja** kan bara personer med åtkomst till Marketo-instansen hämta rapporten.
+>Om inställningen [Administratör för säker prenumeration](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) är **Ja** kan bara personer med åtkomst till Marketo-instansen hämta rapporten.
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
@@ -104,10 +102,6 @@ Om du vill ta bort en prenumeration markerar du den på prenumerationsfliken och
 
 >[!MORELIKETHIS]
 >
->* [Redigera en prenumeration på en smart lista](edit-a-smart-list-subscription.md)
->* [Skydda inställningen för prenumerationsadministration](secure-the-subscription-admin-setting.md)
-
->
-
-
+>* [Redigera en prenumeration på en smart lista](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
+>* [Skydda inställningen för prenumerationsadministration](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
 
