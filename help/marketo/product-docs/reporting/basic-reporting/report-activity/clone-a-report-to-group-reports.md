@@ -3,9 +3,9 @@ unique-page-id: 7512105
 description: Klona en rapport till grupprapporter - Marketo Docs - Produktdokumentation
 title: Klona en rapport till grupprapporter
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -15,18 +15,19 @@ ht-degree: 0%
 
 Alla rapporter i **Mina rapporter **är bara synliga för dig. Vad händer om du vill göra rapporten tillgänglig för alla andra? Så här kan du göra:
 
-1. I området **Analytics **klickar du på önskad [sparad rapport](../../../../product-docs/reporting/basic-reporting/creating-reports/save-a-report.md).
-1. ![](assets/image2015-4-21-11-3a25-3a54.png)
+1. Klicka på önskad [sparad rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md) i området **Analytics**.
+
+   ![](assets/image2015-4-21-11-3a25-3a54.png)
 
    >[!NOTE]
    >
-   >En sparad rapport kan också klonas till **Grupprapporter **genom att dra rapporten till mappen.
+   >En sparad rapport kan också klonas till **Grupprapporter** genom att dra rapporten till mappen.
 
-1. Klicka på **Rapportåtgärder **och välj **Klonrapport**.
+1. Klicka på **Rapportåtgärder** och välj **Klonrapport**.
 
    ![](assets/image2015-4-21-11-3a29-3a32.png)
 
-1. **Klona** till en  **analysgrupp** och välj en  **mapp**.
+1. Klicka på listrutan **Klona till** och välj gruppen. Välj mappen **Mapp**.
 
    ![](assets/image2015-4-21-11-3a32-3a0.png)
 
@@ -34,7 +35,6 @@ Alla rapporter i **Mina rapporter **är bara synliga för dig. Vad händer om du
 
    ![](assets/image2015-4-21-11-3a33-3a11.png)
 
-   Häftig! Din rapport visas nu i **grupprapporter.**
+   Häftig! Din rapport visas nu i **Grupprapporter**.
 
    ![](assets/image2015-4-21-11-3a37-3a25.png)
-
