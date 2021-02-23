@@ -3,9 +3,9 @@ unique-page-id: 2360199
 description: Group Person Reports by Attribute - Marketo Docs - produktdokumentation
 title: Gruppera personrapporter efter attribut
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Gruppera personrapporter efter attribut {#group-person-reports-by-attribute}
 
-Du kan gruppera dina [personrapporter](https://docs.marketo.com/display/docs/basic+reporting) efter vilket person- eller företagsattribut du vill.
+Du kan gruppera dina personrapporter utifrån vilket person- eller företagsattribut du vill.
 
 1. Gå till **Marknadsföringsaktiviteter** (eller **Analytics**).
 
@@ -29,7 +29,7 @@ Du kan gruppera dina [personrapporter](https://docs.marketo.com/display/docs/bas
 
    >[!NOTE]
    >
-   >Du kan också [gruppera dina personrapporter efter segment](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
+   >Du kan också [gruppera dina personrapporter efter segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
 
    I dialogrutan Gruppera människor efter väljer du det person- eller företagsattribut som ska användas för gruppering.
 
@@ -37,24 +37,12 @@ Du kan gruppera dina [personrapporter](https://docs.marketo.com/display/docs/bas
 
    >[!TIP]
    >
-   >Om du väljer ett attribut som har ett numeriskt värde, t.ex. *Skapad* eller *Årlig intäkt*, väljer du måtten i listrutan **Enheter** till höger.
+   >Om du väljer ett attribut som har ett numeriskt värde, t.ex. _Skapad_ eller _Årlig intäkt_, väljer du måtten i listrutan **Enheter** till höger.
 
    Så ja! Klicka på fliken Rapport om du vill visa rapporten grupperad efter behov.
 
    ![](assets/image2017-3-28-11-3a35-3a0.png)
 
-   >[!NOTE]
-   >
-   >**Djupdykning**
-   >
-   >
-   >Läs mer om personrapporter och andra rapporttyper i [Enkel rapportering](https://docs.marketo.com/display/docs/basic+reporting)djupdykning.
-
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Lägg till anpassade kolumner i en personrapport](../../../../product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
-
-
+   >[Lägg till anpassade kolumner i en personrapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
