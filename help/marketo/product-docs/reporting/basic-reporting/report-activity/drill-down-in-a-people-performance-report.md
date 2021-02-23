@@ -3,7 +3,7 @@ unique-page-id: 2360035
 description: Detaljgranska en rapport om personprestanda - Marketo Docs - Produktdokumentation
 title: Öka detaljnivån i en rapport om personprestanda
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Gå ned i en rapport om personprestanda om du vill se ytterligare personinformat
 
    ![](assets/three.png)
 
-1. I popup-fönstret **Detaljerad** väljer du det attribut som du vill gå ned till. Klicka sedan på** Granska nedåt**.
+1. I popup-fönstret **Detaljerad** väljer du det attribut som du vill gå ned till. Klicka sedan på **Detaljerad**.
 
    ![](assets/four.png)
 
@@ -42,4 +42,3 @@ Gå ned i en rapport om personprestanda om du vill se ytterligare personinformat
 1. Om du vill spara dina resultat (valfritt) klickar du på ikonen **Exportera** längst ned till vänster.
 
    ![](assets/six.png)
-
