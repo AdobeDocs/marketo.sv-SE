@@ -3,9 +3,9 @@ unique-page-id: 2360201
 description: Lägg till anpassade kolumner i en personrapport - Marketo Docs - Produktdokumentation
 title: Lägg till anpassade kolumner i en personrapport
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Lägg till anpassade kolumner i en personrapport {#add-custom-columns-to-a-person-report}
 
-Du kan filtrera mätvärdena i dina [personrapporter](https://docs.marketo.com/display/docs/basic+reporting) ytterligare genom att använda dina [smarta listor](https://docs.marketo.com/display/docs/smart+lists+and+static+lists) som anpassade kolumner.
+Du kan filtrera mätvärdena i dina personrapporter ytterligare genom att använda dina [smarta listor](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) som anpassade kolumner.
 
 1. Gå till **Marknadsföringsaktiviteter** (eller **Analytics**).
 
@@ -31,27 +31,10 @@ Du kan filtrera mätvärdena i dina [personrapporter](https://docs.marketo.com/d
 
    ![](assets/image2014-9-16-16-3a39-3a34.png)
 
-   >[!NOTE]
-   >
-   >**Djupdykning**
-   >
-   >
-   >Lär dig hur du skapar och konfigurerar smarta listor i djupdykningen [Smarta listor och Statiska listor](https://docs.marketo.com/display/docs/smart+lists+and+static+lists).
-
 1. Du har gjort det! Klicka på fliken **Rapport** för att visa rapporten med de nya kolumnerna.
 
    ![](assets/five-1.png)
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >Du kan också [lägga till säljprojektskolumner i en lead-rapport](add-opportunity-columns-to-a-lead-report.md).
-
-   >[!NOTE]
-   >
-   >**Djupdykning**
-   >
-   >
-   >Lär dig mer om många saker du kan göra med rapporter i djupdykningen [Grundläggande rapportering](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >Du kan också [lägga till säljprojektskolumner i en lead-rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md).
