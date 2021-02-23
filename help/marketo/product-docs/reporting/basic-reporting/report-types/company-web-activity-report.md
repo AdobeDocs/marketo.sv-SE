@@ -3,9 +3,9 @@ unique-page-id: 2360005
 description: Företagets webbaktivitetsrapport - Marketo Docs - Produktdokumentation
 title: Webbaktivitetsrapport för företag
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
@@ -15,24 +15,27 @@ ht-degree: 0%
 
 Se vilka företag som besöker er webbplats. Du kan välja att visa kända eller anonyma besökare, men inte båda i samma rapport.
 
-Skapa en [webbsidesaktivitetsrapport](web-page-activity-report.md) för att se de enskilda personer som besöker din webbplats.
+Skapa en [webbsidesaktivitetsrapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) för att se de enskilda personer som besöker din webbplats.
 
 >[!PREREQUISITES]
 >
->Om du vill hämta aktiviteter från din webbplats i Marketo måste du först ställa in [Munchkin på din webbplats](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>Om du vill hämta aktiviteter från din webbplats i Marketo måste du först ställa in [Munchkin på din webbplats](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. [Skapa en ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapport och välj   [rapporttypen](report-type-overview.md) Företagets webbaktivitetsrapport.
-1. Välj att [visa kända eller anonyma personer](https://docs.marketo.com/display/DOCS/Display+Known+or+Anonymous+People+in+Web+Reports) i rapporten.
-1. [Ange tidsramen för ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) rapporten och klicka på fliken  **** Rapportera.
+1. [Skapa en ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapport och välj  [rapporttypen](report-type-overview.md) Företagets webbaktivitetsrapport.
+
+1. Välj att [visa kända eller anonyma personer](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) i rapporten.
+
+1. [Ange tidsramen för ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) rapporten och klicka på fliken  **** Rapportera.
+
 1. Så ja! Granska din rapport för att se vilka företag som besöker er webbplats.
 
    ![](assets/image2014-9-16-11-3a0-3a24.png)
 
    >[!TIP]
    >
-   >[sortera din rapport](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) i kolumnen *Sidvyer* och välj **Sortera fallande** om du vill hitta de företag som besöker webbplatsen mest.
+   >[sortera din rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) i kolumnen _Sidvyer_ och välj **Sortera fallande** om du vill hitta de företag som besöker webbplatsen mest.
 
-   [Kolumner som du kan ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) välja för en webbaktivitetsrapport för företag är:
+   [Kolumner som du kan ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) välja för en webbaktivitetsrapport för företag är:
 
 <table> 
  <thead> 
@@ -71,11 +74,4 @@ Skapa en [webbsidesaktivitetsrapport](web-page-activity-report.md) för att se d
 
 >[!MORELIKETHIS]
 >
->* [Visa personer eller anonyma besökare i webbrapporter](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
-
-
->[!NOTE]
->
->**Djupdykning**
->
->Lär dig mer om andra intressanta rapporter i [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting)-djupdykningen.
+>[Visa personer eller anonyma besökare i webbrapporter](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
