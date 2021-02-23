@@ -3,9 +3,9 @@ unique-page-id: 2359968
 description: Ändra en tidsram för rapport - Marketo Docs - Produktdokumentation
 title: Ändra en tidsram för rapport
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -48,14 +48,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >Om du vill begränsa rapporten efter specifika personattribut kan du [filtrera personer i en rapport med en smart lista](filter-people-in-a-report-with-a-smart-list.md).
-
-   >[!NOTE]
-   >
-   >**Djupdykning**
-   >
-   >
-   >Mer information om hur du använder rapporter finns i djupdykningen [Grundläggande rapportering](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >Om du vill begränsa rapporten efter specifika personattribut kan du [filtrera personer i en rapport med en smart lista](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md).
