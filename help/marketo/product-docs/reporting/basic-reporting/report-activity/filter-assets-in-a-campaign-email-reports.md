@@ -3,9 +3,9 @@ unique-page-id: 2360227
 description: Filtrera resurser i en kampanjrapport via e-post - Marketo Docs - Produktdokumentation
 title: Filtrera resurser i en e-postrapport för kampanj
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Filtrera resurser i en e-postrapport för kampanj {#filter-assets-in-a-campaign-email-reports}
 
-Fokusera din [rapport om e-postprestanda för kampanj](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) på specifika [smarta kampanjer](https://docs.marketo.com/display/docs/smart+campaigns) i dina program (lokala resurser) eller på de som har arkiverats.
+Fokusera din [rapport om e-postprestanda för kampanj](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) på specifika [smarta kampanjer](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) i dina program (lokala resurser) eller på de som har arkiverats.
 
-1. Gå till **Analytics **(eller **Marknadsföringsaktiviteter**).
+1. Gå till **Analys** (eller **Marknadsföringsaktiviteter**).
 
    ![](assets/image2014-9-16-15-3a57-3a27.png)
 
@@ -44,17 +44,5 @@ Fokusera din [rapport om e-postprestanda för kampanj](../../../../product-docs/
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Resultatrapport för e-postkampanj](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
-   >    * [Filtrera resurser i en e-postrapport](filter-assets-in-an-email-report.md)
-
-
-   >[!NOTE]
-   >
-   >**Djupdykning**
-   >
-   >
-   >Lär dig allt om rapporter i [Grundläggande rapportering](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Resultatrapport för e-postkampanj](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+   >[Filtrera resurser i en e-postrapport](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
