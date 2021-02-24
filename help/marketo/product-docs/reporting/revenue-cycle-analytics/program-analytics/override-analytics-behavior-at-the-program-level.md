@@ -3,9 +3,9 @@ unique-page-id: 2360421
 description: Åsidosätt analysbeteende på programnivå - Marketo Docs - Produktdokumentation
 title: Åsidosätt analysbeteende på programnivå
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Åsidosätt analysbeteende på programnivå {#override-analytics-behavior-at-the-program-level}
 
-Du kan ställa in [analysbeteendet på adminnivå på kanalerna](make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), men du kan också åsidosätta det på programnivå. Så här:
+Du kan ställa in [analysbeteendet på adminnivå på kanalerna](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), men du kan också åsidosätta det på programnivå. Så här:
 
-1. Gå till området Marknadsföringsaktiviteter.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/image2014-9-24-11-3a40-3a46.png)
 
@@ -23,7 +23,7 @@ Du kan ställa in [analysbeteendet på adminnivå på kanalerna](make-a-program-
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. Dra Analytics-beteendet till arbetsytan på fliken Setup.
+1. Under fliken **Inställningar** drar du Analytics Behavior till arbetsytan.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
@@ -43,7 +43,7 @@ Du kan ställa in [analysbeteendet på adminnivå på kanalerna](make-a-program-
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
-1. Klicka på SPARA.
+1. Klicka på **Spara**.
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 
@@ -51,7 +51,4 @@ Snyggt gjort! Nu vet ni hur man åsidosätter analysbeteendet på programnivå.
 
 >[!NOTE]
 >
->**Påminnelse**
->
 >Ändringarna kommer att träda i kraft nästa dag och antingen göras tillgängliga eller dras ut ur intäktsutforskaren och analysatorerna.
-
