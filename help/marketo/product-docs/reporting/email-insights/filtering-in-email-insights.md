@@ -3,7 +3,7 @@ unique-page-id: 10099798
 description: Filtrera i e-postinsikter - Marketo Docs - Produktdokumentation
 title: Filtrera i e-postinsikter
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -63,7 +63,6 @@ Välj bland vanliga förinställda datumintervall, välj specifika datum och anv
 
 ## Kontobaserad marknadsföring {#account-based-marketing}
 
-Om du använder [kontobaserad marknadsföring](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) finns det filter som är specifika för dig.
+Om du använder [Hantering av målkonto](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) finns det filter som är specifika för dig.
 
 ![](assets/abm.png)
-
