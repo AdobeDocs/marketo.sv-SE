@@ -3,9 +3,9 @@ unique-page-id: 2360237
 description: Berätta för marknadsföringsberättelsen med en säljprojektsanalys - Marketo Docs - produktdokumentation
 title: Berätta för marknadsföringsberättelsen med en analys av säljprojektspåverkan
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ Använd en påverkansanalys för säljprojekt för att illustrera marknadsförin
 
 >[!PREREQUISITES]
 >
->* [Skapa en analys av affärsmöjlighet](create-an-opportunity-influence-analyzer.md)
-
->
-
-
+>[Skapa en analys av affärsmöjlighet](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
 1. Gå till **Analytics** och välj **Säljanalysen**.
 
@@ -29,20 +25,20 @@ Använd en påverkansanalys för säljprojekt för att illustrera marknadsförin
 
    Affärsmöjlighetsanalysen är en visuell representation av de interaktioner, program och händelseframgångar som är involverade i den affärsmöjligheten. Låt oss titta på diagrammet:
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png)**Orange-** punkter utgör  [en intressant ](https://community.marketo.com/MarketoArticle?id=kA050000000LA1oCAG) drivkraft i affärsmöjligheten (öppnade e-postmeddelanden, direktreklam för både besök, nedladdningar av whitepaper-rapporter osv.). Större punkter indikerar fler interaktioner.
+   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Orange-** punkter utgör  [en intressant ](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md) drivkraft i affärsmöjligheten (öppnade e-postmeddelanden, direktreklam för både besök, nedladdningar av whitepaper-rapporter osv.). Större punkter indikerar fler interaktioner.
 
-   * ` ![—](assets/image2014-10-3-13-3a44-3a9.png)
+   * ![—](assets/image2014-10-3-13-3a44-3a9.png) **Binder** iconsindicate program success.
 
-      ` **Binder-ikoner** anger [program](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QO6CAM) lyckades.
-
-   * ** ![—](assets/image2014-10-3-13-3a44-3a40.png) Kalenderikoner** indikerar [händelsen](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QNwCAM) lyckades.
+   * ![—](assets/image2014-10-3-13-3a44-3a40.png) **Calendar** iconsindicate event success.
 
    * **Affärsmöjlighetsperiod**. Det gröna området representerar själva affärsmöjligheten, från skapande av affärsmöjlighet till stängning av affärsmöjlighet (vunnen eller förlorad).
+
    * **Affärsmöjlighetens livscykel**. De grå områdena före och efter den gröna affärsmöjlighetsperioden visar de interaktioner som ledde till och följde på affärsmöjligheten.
 
    På panelen **Inställningar** visas personer från kontot:
 
    * **talet inom parentes** är antalet interaktioner med den kontakten.
+
    * ![—](assets/image2014-10-3-13-3a45-3a9.png)Den  **gula** starten anger den primära kontakten.
 
 
@@ -66,23 +62,4 @@ Använd en påverkansanalys för säljprojekt för att illustrera marknadsförin
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >    
-   >    
-   >    * [Konfigurera en analys av affärsmöjlighet](configure-an-opportunity-influence-analyzer.md)
-      >    
-      >    
-      >
-      >
-      >    
-      >    
-      >    
-
-
-
-
-
-   * [Grundläggande rapportering](https://docs.marketo.com/display/docs/basic+reporting)
-
-
+   >[Konfigurera en analys av affärsmöjlighet](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
