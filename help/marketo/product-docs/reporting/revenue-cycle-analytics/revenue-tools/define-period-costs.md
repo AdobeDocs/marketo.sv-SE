@@ -3,7 +3,7 @@ unique-page-id: 2953444
 description: Definiera periodkostnader - Marketo Docs - Produktdokumentation
 title: Definiera periodkostnader
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 0%
@@ -53,7 +53,7 @@ Spåra och associera kostnader för ledande moderering och inköp av leads för 
 
 ## Redigera en periodkostnad {#edit-a-period-cost}
 
-1. Högerklicka på Periodkostnad och välj **Redigera **på snabbmenyn för att öppna dialogrutan **Redigera kostnad**.
+1. Högerklicka på Periodkostnad och välj **Redigera** på snabbmenyn för att öppna dialogrutan **Redigera kostnad**.
 
    ![](assets/image2015-4-24-16-3a26-3a29.png)
 
@@ -63,11 +63,10 @@ Spåra och associera kostnader för ledande moderering och inköp av leads för 
 
 ## Ta bort en periodkostnad {#delete-a-period-cost}
 
-1. Högerklicka på den periodkostnad du vill ta bort och välj **Ta bort **på snabbmenyn för att visa uppmaningen **Ta bort kostnad **.
+1. Högerklicka på den periodkostnad du vill ta bort och välj **Ta bort** på snabbmenyn för att visa **Ta bort kostnad**-prompten.
 
    ![](assets/image2015-4-24-16-3a33-3a32.png)
 
 1. Klicka på **Ta bort** om du vill ta bort periodkostnaden permanent eller **Avbryt** om du vill gå tillbaka.
 
    ![](assets/image2015-4-24-16-3a34-3a38.png)
-
