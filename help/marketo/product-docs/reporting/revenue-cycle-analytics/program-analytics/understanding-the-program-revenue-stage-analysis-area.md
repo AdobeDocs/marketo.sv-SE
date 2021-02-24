@@ -3,7 +3,7 @@ unique-page-id: 7514009
 description: Understanding the Program Revenue Stage Analysis Area - Marketo Docs - Product Documentation
 title: Understanding the Program Revenue Stage Analysis Area
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 I det här analysområdet kan du analysera effektiviteten i enskilda program eller se summerade resultat per kanal. Här får du insikt i hur många av de nya namnen som har genererats har nått vissa framgångar inom modellen för intäktscykler.
 
-**Exempel på affärsfrågor som du kan svara på i det här analysområdet är:**
+**Exempel på affärsfrågor du kan besvara i det här analysområdet är**:
 
 Hur många nya namn från ett visst program har någonsin nått en viss fas i min modell?
 
@@ -153,4 +153,4 @@ Om du vill visa tillgängliga dimensioner eller mått inom en kategori klickar d
 
 >[!MORELIKETHIS]
 >
->[Skapa en rapport för intäktsutforskaren](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[Skapa en rapport för intäktsutforskaren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
