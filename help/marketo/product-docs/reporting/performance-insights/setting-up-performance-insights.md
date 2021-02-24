@@ -3,7 +3,7 @@ unique-page-id: 12981145
 description: Ställa in prestandainsikter - Marketo Docs - produktdokumentation
 title: Konfigurera prestandainsikter
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
@@ -45,14 +45,12 @@ Följ stegen nedan för att konfigurera MPI.
    >
    >Se till att rätt fält fylls i för alla affärsmöjligheter:
    >
-   >    
-   >    
-   >    * Affärsmöjlighet - belopp
-   >    * Är stängd
-   >    * Är vunnen
-   >    * Skapad den (kan inte anges i ditt fall)
-   >    * Stängt datum (detta kan inte anges i ditt fall)
-   >    * Typ av affärsmöjlighet
+   >* Affärsmöjlighet - belopp
+   >* Är stängd
+   >* Är vunnen
+   >* Skapad den (kan inte anges i ditt fall)
+   >* Stängt datum (detta kan inte anges i ditt fall)
+   >* Typ av affärsmöjlighet
 
 
 ## Programinställningar {#program-setup}
@@ -121,4 +119,3 @@ Granska sedan analysbeteendet för att ange om en viss kanal ska inkluderas i an
 >[!NOTE]
 >
 >Ändringarna görs inte omedelbart. En nattetid krävs innan ändringarna träder i kraft.
-
