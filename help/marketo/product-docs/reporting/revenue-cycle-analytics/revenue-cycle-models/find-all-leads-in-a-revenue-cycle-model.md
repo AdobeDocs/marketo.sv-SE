@@ -3,9 +3,9 @@ unique-page-id: 2360423
 description: Hitta alla leads i en intäktscykelmodell - Marketo Docs - Produktdokumentation
 title: Hitta alla leads i en intäktscykelmodell
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Genom att använda smarta listor kan du enkelt hitta alla medlemmar i intäktscy
 
 >[!PREREQUISITES]
 >
->[Skapa en smart lista](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Skapa en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 1. Markera den smarta listan och klicka på fliken **Smart lista**.
 
@@ -33,11 +33,11 @@ Genom att använda smarta listor kan du enkelt hitta alla medlemmar i intäktscy
 
    Då får ni alla tips i den modellen, oavsett fas. Vanligtvis vill du ha en specifik scen. Använd följande filter i stället.
 
-1. Leta upp filtret **Inkomstscen **och dra det till arbetsytan.
+1. Hitta filtret **Intäktsstadium** och dra det till arbetsytan.
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
-1. Välj en **scen.**
+1. Välj en **scen**.
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
@@ -47,9 +47,8 @@ Genom att använda smarta listor kan du enkelt hitta alla medlemmar i intäktscy
 
    >[!TIP]
    >
-   >Du behöver inte båda filtren, bara välja det du behöver. Vi visar er båda för att vara noggranna. ![(leende)](assets/smile.svg)   >
+   >Du behöver inte båda filtren, bara välja det du behöver. Vi visar er båda för att vara noggranna. ![(leende)](assets/smile.svg)
 
    >[!CAUTION]
    >
    >Om en leds stadium ändras av en extern kampanj när leadet skapas första gången, loggas ingen aktivitet i databasen. Detta innebär att leadet inte tas med i det smarta listfiltret.
-
