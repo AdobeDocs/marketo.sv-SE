@@ -3,7 +3,7 @@ unique-page-id: 2951877
 description: Understanding the Program Opportunity Analysis Area - Marketo Docs - Product Documentation
 title: Understanding the Program Opportunity Analysis Area
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '896'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Under Analys av affärsmöjlighet kan du analysera enskilda programs effektivitet eller se summerade resultat per programkanal.
 
-**Exempel på affärsfrågor som du kan svara på i det här analysområdet är:**
+**Exempel på affärsfrågor du kan besvara i det här analysområdet är**:
 
 Hur många möjligheter har kopplats till ett visst program och hur många av dem har vi vunnit?
 
@@ -67,11 +67,11 @@ Precis som med förvärvet ändras värdet av att bidra till försäljningen av 
   </tr> 
   <tr> 
    <td>Affärsmöjlighet</td> 
-   <td><p>Den del av kostnaden för programmet som påverkade affärsmöjligheten. Kostnaden kan delas upp om flera leads är inblandade.</p></td> 
+   <td>Den del av kostnaden för programmet som påverkade affärsmöjligheten. Kostnaden kan delas upp om flera leads är inblandade.</td> 
   </tr> 
   <tr> 
    <td>Skapade affärsmöjligheter</td> 
-   <td><p>Den del av krediten som programmet fick för att påverka skapandet av affärsmöjligheten. Det kan vara en bråkdel om flera leads är inblandade.</p></td> 
+   <td>Den del av krediten som programmet fick för att påverka skapandet av affärsmöjligheten. Det kan vara en bråkdel om flera leads är inblandade.</td> 
   </tr> 
   <tr> 
    <td>Vunna affärsmöjligheter</td> 
@@ -79,28 +79,28 @@ Precis som med förvärvet ändras värdet av att bidra till försäljningen av 
   </tr> 
   <tr> 
    <td>Pipeline skapad</td> 
-   <td><p>Den del av krediten (i penningvärde) som programmet fick för att påverka skapandet av affärsmöjligheten. Det kan vara en bråkdel om flera leads är inblandade.</p></td> 
+   <td>Den del av krediten (i penningvärde) som programmet fick för att påverka skapandet av affärsmöjligheten. Det kan vara en bråkdel om flera leads är inblandade.</td> 
   </tr> 
   <tr> 
    <td>Pipeline skapad - fortfarande öppen</td> 
    <td>Andelen kredit (i penningvärde) som programmet tog emot för att påverka skapandet av den öppna affärsmöjligheten. Det kan vara en bråkdel om flera leads är inblandade.</td> 
   </tr> 
   <tr> 
-   <td><p>Förväntad intäkt</p></td> 
+   <td>Förväntad intäkt</td> 
    <td>Den del av krediten (i penningvärde) som programmet fick för att påverka skapandet av affärsmöjligheten. Förväntad intäkt är sannolikheten för affärsmöjligheten multiplicerad med affärsmöjlighetsvärdet. Det kan vara en bråkdel om flera leads är inblandade.</td> 
   </tr> 
   <tr> 
-   <td><p>Intäkter från investeringar</p></td> 
-   <td><p>Detta är andelen kredit (i penningvärde) som programmet fått för att påverka vunna möjligheter och kostnaden för programmet.</p></td> 
+   <td>Intäkter från investeringar</td> 
+   <td>Detta är andelen kredit (i penningvärde) som programmet fått för att påverka vunna möjligheter och kostnaden för programmet.</td> 
   </tr> 
   <tr> 
    <td>Vinst på intäkt</td> 
-   <td><p>Andelen kredit (i penningvärde) som programmet fick för att påverka vunna möjligheter. Det kan vara en bråkdel om flera leads är inblandade.</p></td> 
+   <td>Andelen kredit (i penningvärde) som programmet fick för att påverka vunna möjligheter. Det kan vara en bråkdel om flera leads är inblandade.</td> 
   </tr> 
  </tbody> 
 </table>
 
-** (FT) = First Touch Attribution, används för åtgärder för inköp av leads; (MT) = MultiTouch-attribuering, används för åtgärder för lyckade leads*
+_* (FT) = First Touch Attribution, används för åtgärder för inköp av leads; (MT) = MultiTouch-attribuering, används för åtgärder för lyckade leads_
 
 Nedan visas ett scenario som beskriver hur säljprojektsenheter beräknas när det finns två program som genererade leads, men dessa leder till ett säljprojekt från samma konto.
 
@@ -165,19 +165,19 @@ Måtten (blå punkter) beräknas, och det krävs en viss tanke och förklaring f
  <tbody> 
   <tr> 
    <th>Kategori</th> 
-   <th><p>Visningsetikett</p></th> 
+   <th>Visningsetikett</th> 
   </tr> 
   <tr> 
    <td>Attribut för affärsmöjlighet</td> 
-   <td><p>Affärsmöjligheten har stängts<br>Affärsmöjlighetens namn*<br>Affärsmöjlighetens ägare Namn<br>Affärsmöjlighetens fas<br>Affärsmöjlighet</p></td> 
+   <td>Affärsmöjligheten har stängts<br>Affärsmöjlighetens namn*<br>Affärsmöjlighetens ägare Namn<br>Affärsmöjlighetens fas<br>Affärsmöjlighet</td> 
   </tr> 
   <tr> 
    <td>Tidsram för affärsmöjlighet</td> 
-   <td><p>Affärsmöjligheten stängd år/kvartal/månad<br>Skapad affärsmöjlighet år/kvartal/månad</p></td> 
+   <td>Affärsmöjligheten stängd år/kvartal/månad<br>Skapad affärsmöjlighet år/kvartal/månad</td> 
   </tr> 
   <tr> 
    <td>Programattribut</td> 
-   <td><p>Programkanal<br>Programnamn</p></td> 
+   <td>Programkanal<br>Programnamn</td> 
   </tr> 
   <tr> 
    <td>Tidsram för programkostnad</td> 
@@ -190,4 +190,4 @@ Måtten (blå punkter) beräknas, och det krävs en viss tanke och förklaring f
 
 >[!MORELIKETHIS]
 >
->[Skapa en rapport för intäktsutforskaren](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[Skapa en rapport för intäktsutforskaren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
