@@ -3,9 +3,9 @@ unique-page-id: 12979010
 description: Performance Insights Trend Overview - Marketo Docs - Produktdokumentation
 title: Prestandainsikter - trendöversikt
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Klicka på fliken **Trend** för att komma åt den här vyn.
 
 ![](assets/2-1.png)
 
-Välj det mätvärde som du vill visa prestandan efter. I det här exemplet tittar vi på möjligheter som vunnits via [First Touch](https://docs.marketo.com/display/DOCS/Understanding+Attribution).
+Välj det mätvärde som du vill visa prestandan efter. I det här exemplet tittar vi på möjligheter som vunnits via [First Touch](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 ![](assets/3-2.png)
 
@@ -54,4 +54,3 @@ Utöka en kanal och se de tio viktigaste programmen, med de återstående progra
 >[!NOTE]
 >
 >Om du klickar i kryssrutan bredvid en kanal aktiveras/inaktiveras den i ringdiagrammet.
-
