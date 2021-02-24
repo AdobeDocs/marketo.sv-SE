@@ -3,7 +3,7 @@ unique-page-id: 4718672
 description: Använda intäktsmodellövergångar - Marketo Docs - Produktdokumentation
 title: Använda intäktsmodellövergångar
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Skapa en ny intäktsmodell](create-a-new-revenue-model.md)
+>[Skapa en ny intäktsmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
 När du skapar modellen och väljer och organiserar dina lagerfaser är det dags att ange övergångarna.
 
@@ -29,7 +29,10 @@ När du skapar modellen och väljer och organiserar dina lagerfaser är det dags
    >
    >Övergångsreglerna för övergången till&quot;anonyma Ð&quot; kan inte ändras.
 
-1. En ny flik öppnas för den övergång du har valt.   ![](assets/three-1.png)
+1. En ny flik öppnas för den övergång du har valt.
+
+   ![](assets/three-1.png)
+
 1. Övergångar styr hur leads rör sig mellan faser. Dra utlösaren (eller filtret) från höger och släpp den var som helst på arbetsytan. I det här exemplet väljer vi utlösaren för Fyll i formulär.
 
    >[!TIP]
@@ -62,4 +65,4 @@ Bra gjort! Du har ändrat modellövergångarna.
 
 >[!MORELIKETHIS]
 >
->[Godkänn/avgodkänn en intäktsmodell](approve-unapprove-a-revenue-model.md)
+>[Godkänn/avgodkänn en intäktsmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
