@@ -3,7 +3,7 @@ unique-page-id: 4718687
 description: Godkänn/avgodkänn en intäktsmodell - Marketo Docs - Produktdokumentation
 title: Godkänn/avgodkänn en intäktsmodell
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Du får bara ha en godkänd modell åt gången.
 
 >[!CAUTION]
 >
->[Enskilda faser måste ](approving-stages-and-assigning-leads-to-a-revenue-model.md) godkännas och personer läggas till innan du godkänner en hel modell.
+>[Enskilda faser måste ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) godkännas och personer läggas till innan du godkänner en hel modell.
 
 ## Godkänn {#approve}
 
@@ -66,4 +66,3 @@ Grattis! Din modell har inte godkänts.
 >[!CAUTION]
 >
 >Om du avgodkänner en modell tas alla dina personer bort från modellen och deras historik i modellen tas bort från databasen.
-
