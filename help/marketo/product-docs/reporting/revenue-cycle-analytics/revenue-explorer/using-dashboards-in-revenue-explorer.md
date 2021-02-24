@@ -3,7 +3,7 @@ unique-page-id: 10094959
 description: Använda kontrollpaneler i Intresseutforskaren - Marketo Docs - Produktdokumentation
 title: Använda instrumentpaneler i Intresseutforskaren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -57,7 +57,7 @@ En kontrollpanel är en kombination av rapporter från Intresseutforskaren för 
 
    ![](assets/nine.png)
 
-1. Om du vill byta namn på ett avsnitt markerar du det genom att klicka på det, skriver önskat namn under Titel och klickar på** Använd**. Upprepa för varje avsnitt.
+1. Om du vill byta namn på ett avsnitt klickar du på det för att markera det, skriver det önskade namnet under Titel och klickar på **Använd**. Upprepa för varje avsnitt.
 
    ![](assets/ten.png)
 
@@ -92,4 +92,3 @@ En kontrollpanel är en kombination av rapporter från Intresseutforskaren för 
 1. Markera den instrumentpanel som du vill ta bort och klicka sedan på **Flytta till papperskorgen**.
 
    ![](assets/fifteen.png)
-
