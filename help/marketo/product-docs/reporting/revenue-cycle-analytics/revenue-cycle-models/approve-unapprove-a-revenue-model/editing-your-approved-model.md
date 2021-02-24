@@ -3,7 +3,7 @@ unique-page-id: 5472402
 description: Redigera din godkända modell - Marketo Docs - Produktdokumentation
 title: Redigera din godkända modell
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. Välj den nya scenen för leads som finns i den markerade eller välj **Inget **för att ta bort leads från modellen. När du är klar klickar du på **Sammanfoga**.
+1. Välj den nya fasen för leads i den markerade, eller välj **Ingen** för att ta bort leads från modellen. När du är klar klickar du på **Sammanfoga**.
 
    ![](assets/three.png)
 
@@ -59,5 +59,4 @@ Du kan bara ha en godkänd modell åt gången. Om du vill godkänna en modell me
 
 >[!MORELIKETHIS]
 >
->[Skapa en ny intäktsmodell](../../../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
-
+>[Skapa en ny intäktsmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
