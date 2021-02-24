@@ -3,7 +3,7 @@ unique-page-id: 6095029
 description: Ange Google AdWords-konverteringar i intäktsmodellen - Marketo Docs - Produktdokumentation
 title: Ange Google AdWords-konverteringar i intäktsmodellen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
@@ -17,9 +17,9 @@ Länka ditt Google AdWords-konto till Marketo för att automatiskt överföra ko
 
 >[!NOTE]
 >
->Det här är en push-integrering från Marketo till Google AdWords. Konverteringsdata visas *endast* i Google AdWords-portalen,** inte i Marketo-gränssnittet. **
+>Det här är en push-integrering från Marketo till Google AdWords. Konverteringsdata visas _endast_ i Google AdWords-portalen, _inte i Marketo-gränssnittet_.
 
-Läs mer om [Googles importfunktion för offlinekonvertering](https://support.google.com/adwords/answer/2998031?hl=en).  Mappa AdWords-offlinekonverteringar till en eller flera steg i en intäktsmodell. Det finns tre sätt att mappa:
+Läs mer om [Googles importfunktion för offlinekonvertering](https://support.google.com/adwords/answer/2998031?hl=en). Mappa AdWords-offlinekonverteringar till en eller flera steg i en intäktsmodell. Det finns tre sätt att mappa:
 
 * Konvertering av ord
 * Scenåtgärd
@@ -29,11 +29,7 @@ Du kan skapa en ny offlinekonvertering för AdWords från Marketo om du använde
 
 >[!PREREQUISITES]
 >
->* [Lägg till Google AdWords som en LaunchPoint-tjänst](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
-
->
-
-
+>[Lägg till Google AdWords som en LaunchPoint-tjänst](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
 
 ## Använd AdWords-konvertering {#use-adwords-conversion}
 
