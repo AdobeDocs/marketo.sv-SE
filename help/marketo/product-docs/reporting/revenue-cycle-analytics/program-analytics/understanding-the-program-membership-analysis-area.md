@@ -3,7 +3,7 @@ unique-page-id: 4718640
 description: Understanding the Program Membership Analysis Area - Marketo Docs - Product Documentation
 title: Förstå analysområdet för programmedlemskap
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -68,4 +68,3 @@ Hur många nya namn genererade varje program/kanal per månad?
 | % lyckades (totalt) | Andel leads som lyckades i ett programs utveckling |
 | Lyckades (nya namn) | Totalt antal nya namn som lyckades under ett programs förlopp |
 | Slutfört (totalt) | Totalt antal leads som lyckades under ett programs förlopp |
-
