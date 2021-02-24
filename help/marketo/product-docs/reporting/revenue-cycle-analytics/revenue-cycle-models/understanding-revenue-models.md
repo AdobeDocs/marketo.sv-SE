@@ -3,9 +3,9 @@ unique-page-id: 4718654
 description: Understanding Revenue Models - Marketo Docs - Product Documentation
 title: Förstå intäktsmodeller
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
 workflow-type: tm+mt
-source-wordcount: '578'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -37,11 +37,11 @@ Som standard startar en ny modell dig med sex intäktsfaser. Den här modellen �
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-Observera att de alla är på grön bakgrund. Detta kallas **Success Path**. Lär dig mer om vägen [här](understanding-revenue-model-success-path.md).
+Observera att de alla är på grön bakgrund. Detta kallas **Success Path**. Lär dig mer om vägen [här](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
 
 **Stegen är** milstolparna i en ledarutveckling mot deras mål.
 
-**Övergångar **visas som pilar och styr hur leads rör sig mellan faser.
+**Övergångar** visas som pilar och de styr hur leads rör sig mellan faser.
 
 >[!NOTE]
 >
@@ -85,27 +85,30 @@ Förtydliga exakt hur ett lead rör sig från en fas till en annan med smarta ka
 >
 >**Exempel**
 >
->En övergång kan definieras av en lead **som fyller i ett formulär. **
+>En övergång kan definieras genom att ett lead fyller i ett formulär.
 
-Här är några länkar som kan vara mycket hoppfulla. (eller förhoppningsvis till hjälp - välj själv!)
+Lägga till en scen från den lyckade banan
 
->[!MORELIKETHIS]
->
->[Skapa en ny intäktsmodell](create-a-new-revenue-model.md)
->
->[Använda intäktsmodelllagerfaser](using-revenue-model-inventory-stages.md)
->
->[Använda intäktsmodellens gatustadier](using-revenue-model-gate-stages.md)
->
->[Använda SLA-faser för intäktsmodell](using-revenue-model-sla-stages.md)
-
-Lägga till en scen från den lyckade banan   ![](assets/image2015-6-12-10-3a10-3a26.png)
+![](assets/image2015-6-12-10-3a10-3a26.png)
 
 Lost är en bra en att lägga till, men lägg märke till att den inte är på den gröna banan. Det beror på att det inte är en&quot;framgång&quot;.
 
 >[!MORELIKETHIS]
 >
->[Rapport om din intäktsmodell](report-on-your-revenue-model.md)
->
->[Godkänn/avgodkänn en intäktsmodell](approve-unapprove-a-revenue-model.md)
+>* [Skapa en ny intäktsmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+   >
+   >
+* [Använda intäktsmodelllagerfaser](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+   >
+   >
+* [Använda intäktsmodellens gatustadier](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
+   >
+   >
+* [Använda SLA-faser för intäktsmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+   >
+   >
+* [Rapport om din intäktsmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
+   >
+   >
+* [Godkänn/avgodkänn en intäktsmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
 
