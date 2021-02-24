@@ -3,7 +3,7 @@ unique-page-id: 4718675
 description: Ändra namnet på en scen - Marketo Docs - Produktdokumentation
 title: Ändra namnet på en scen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
@@ -27,8 +27,8 @@ Vill du ändra dig? Inte ett problem. Det är enkelt att byta namn på en fas i 
 
    ![](assets/image2015-4-27-17-3a40-3a46.png)
 
-   Klicka på Stäng.
+1. Klicka på **Stäng**.
+
    ![](assets/image2015-4-27-17-3a41-3a51.png)
 
-   Ser du? Enkelt! Kom ihåg att [godkänna din modell](approve-unapprove-a-revenue-model.md).
-
+   Ser du? Enkelt! Kom ihåg att [godkänna din modell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md).
