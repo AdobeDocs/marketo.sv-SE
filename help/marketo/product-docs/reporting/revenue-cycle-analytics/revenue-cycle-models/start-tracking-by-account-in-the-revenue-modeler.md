@@ -3,7 +3,7 @@ unique-page-id: 4718681
 description: Starta spårning efter konto i intäktsmodelleraren - Marketo Docs - produktdokumentation
 title: Starta spårning efter konto i intäktsmodelleraren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Med intäktsmodelleraren och intäktsutforskaren får du insikt i hur era leads 
 
    ![](assets/image2015-4-29-16-3a41-3a47.png)
 
-1. Vi rekommenderar att du drar i fälten **Stage**, **Month** och **Slutsaldo** för att visa hur företag utvecklas i din modell efter månad. Använd filter för att välja de månader du vill ha.
+1. Vi rekommenderar att du drar i fälten **Stage**, **Month** och **Slutbalans** för att visa hur företag utvecklas i din modell efter månad. Använd filter för att välja de månader du vill ha.
 
    ![](assets/image2015-4-29-17-3a16-3a1.png)
 
@@ -44,4 +44,3 @@ Med intäktsmodelleraren och intäktsutforskaren får du insikt i hur era leads 
    ![](assets/image2015-6-9-16-3a21-3a3.png)
 
 1. Din rapport bör nu endast visa de stadier som du spårar efter konto. Spara rapporten så att du kan använda den i framtiden. Nu kan ni använda detta som ett annat mått på hur framgångsrik er marknadsföring är.
-
