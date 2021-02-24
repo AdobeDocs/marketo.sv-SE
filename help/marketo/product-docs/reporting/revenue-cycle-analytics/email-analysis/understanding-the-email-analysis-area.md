@@ -3,7 +3,7 @@ unique-page-id: 4718651
 description: Understanding the Email Analysis Area - Marketo Docs - Product Documentation
 title: Förstå e-postanalysområdet
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -17,12 +17,11 @@ E-postanalysområdet fokuserar på e-poststatistik. I den här artikeln presente
 
 >[!AVAILABILITY]
 >
->
 >Detta är tillgängligt för användare med tillägget Select Edition eller [Revenue Cycle Analytics](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/). Kontakta din säljare för mer information.
 
 ## E-postklickning på det heta rutnätet {#email-click-activity-heat-grid}
 
-Den här rapporten visar vilken veckodag och tid på dagen som dina leads klickar på e-post. Ju grönare lådan är desto mer klickningar på den specifika dagen och tiden. Det aktuella filtret innehåller alla e-postmeddelanden som skickats de senaste 7 dagarna. Tiden är i CST.
+Den här rapporten visar vilken veckodag och tid på dagen dina leads klickar på e-post. Ju grönare lådan är desto mer klickningar på den specifika dagen och tiden. Det aktuella filtret innehåller alla e-postmeddelanden som skickats de senaste 7 dagarna. Tiden är i CST.
 
 ![](assets/image2015-5-6-17-3a17-3a34.png)
 
@@ -61,4 +60,3 @@ Den här rapporten visar hur många procent av det totala antalet e-postmeddelan
 Den här rapporten visar vilken veckodag och tid på dagen du skickar e-postmeddelanden. Ju grönare lådan är, desto fler utskickade e-postmeddelanden på den specifika dagen och tiden. Det aktuella filtret innehåller alla e-postmeddelanden som skickats de senaste 7 dagarna. Tiden är i CST.
 
 ![](assets/seven.png)
-
