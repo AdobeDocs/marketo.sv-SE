@@ -3,7 +3,7 @@ unique-page-id: 7514146
 description: Attribution Example 2 - Marketo Docs - produktdokumentation
 title: Attribut - exempel 2
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Läs följande scenario och försök fastställa vilka tal som ska finnas i rutn
 * 15 april | Joan förvärvas av (webbinarium)
 * 22 april | (möjlighet 1) skapad för 6 000 USD
 * 24 april | (möjlighet 2) skapat för 10 000 USD
-* 25 april | Bill och Joan är associerade med roller till **BOTH **Optys
+* 25 april | Bill och Joan är associerade med roller till **BÅDE** Optys
 * 29 april | (möjlighet 1) är stängd
 
 | Programnamn | (Varumärke) | (webbinarium) |
@@ -35,7 +35,7 @@ Läs följande scenario och försök fastställa vilka tal som ska finnas i rutn
 >
 >**Förklaring**
 >
->Eftersom både Bill och Joan var associerade med roller till **BOTH **possibilities delade systemet (enligt reglerna) krediten jämnt mellan dem.
+>Eftersom både Bill och Joan associerades med roller till **båda affärsmöjligheterna** delas krediten jämnt mellan dem (enligt reglerna).
 >
 >Pipeline som skapats för varje program ($8.000) är hälften av det totala beloppet ($16.000) som kan krediteras.
 
@@ -47,17 +47,12 @@ Läs följande scenario och försök fastställa vilka tal som ska finnas i rutn
 >1. Du kan inte ge mer beröm än du har fått
 >1. Du kan inte tillgodoräkna dig något som hänt tidigare
 
->
-
-
-
-<br> 
 
 Prova alla exempel så blir du ett attribueringsproffs!
 
 >[!MORELIKETHIS]
 >
->* [Attribut - exempel 1](attribution-example-1.md)
->* [Attribut - exempel 3](attribution-example-3.md)
->* [Attribut - exempel 4](attribution-example-4.md)
+>* [Attribut - exempel 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
+>* [Attribut - exempel 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
+>* [Attribut - exempel 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
 
