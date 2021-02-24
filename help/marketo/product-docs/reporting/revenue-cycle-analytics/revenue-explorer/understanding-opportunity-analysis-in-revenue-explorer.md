@@ -3,7 +3,7 @@ unique-page-id: 2951884
 description: Understanding Opportunity Analysis in Revenue Explorer - Marketo Docs - produktdokumentation
 title: Förstå säljprojektsanalys i skatteutforskaren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '899'
 ht-degree: 0%
@@ -25,13 +25,15 @@ Här är några rapporter som du kan skapa i området för säljprojektsanalys.
 
    ![](assets/image2015-7-21-16-3a21-3a4.png)
 
-1. Marknadsföringspåverkan på stängda och vunna affärsmöjligheter
-1. Rapporten visar hur mycket intäkter som har förvärvats och påverkats av marknadsföringen, per antal och belopp.
+1. Marknadsföringspåverkan på stängda och vunna affärsmöjligheter.
+
+   Rapporten visar hur mycket intäkter som har förvärvats och påverkats av marknadsföringen, per antal och belopp.
 
    ![](assets/image2015-7-21-16-3a41-3a55.png)
 
 1. Affärsmöjligheten stängd av lead-källa
-1. Den här rapporten redogör för alla möjligheter som stängts av lead-källan och ger en tydlig översikt över vilka källor som fungerar och vilka som inte gör det.
+
+   Den här rapporten redogör för alla möjligheter som stängts av lead-källan och ger en tydlig översikt över vilka källor som fungerar och vilka som inte gör det.
 
    ![](assets/image2015-7-21-10-3a34-3a50.png)
 
@@ -151,11 +153,7 @@ Med säljprojektsanalys får du tillgång till alla lead-, företags- och affär
 
 >[!MORELIKETHIS]
 >
->* [Skapa en rapport för intäktsutforskaren](create-a-revenue-explorer-report.md)
->* [Lägga till fält i en Intresseutforskarrapport](adding-fields-to-a-revenue-explorer-report.md)
->* [Prenumerera på en rapport om skatteutforskaren](subscribe-to-a-revenue-explorer-report.md)
-
->
-
-
+>* [Skapa en rapport för intäktsutforskaren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>* [Lägga till fält i en Intresseutforskarrapport](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>* [Prenumerera på en rapport om skatteutforskaren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
 
