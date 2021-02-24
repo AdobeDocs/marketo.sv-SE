@@ -3,9 +3,9 @@ unique-page-id: 12979008
 description: Performance Insights Contribution Overview - Marketo Docs - produktdokumentation
 title: Performance Insights Contribute Overview
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,19 @@ Välj det mätvärde som du vill visa prestandan efter. I det här exemplet titt
 
 >[!NOTE]
 >
->Lär dig mer om [First Touch och Multi-Touch](https://docs.marketo.com/display/DOCS/Understanding+Attribution).
+>Lär dig mer om [First Touch och Multi-Touch](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
-Välj vilken period du vill se mätvärden för. I det här exemplet tittar vi på det aktuella året (hittills i år).   ![](assets/3-1.png)
+Välj vilken period du vill se mätvärden för. I det här exemplet tittar vi på det aktuella året (hittills i år).
+
+![](assets/3-1.png)
 
 >[!NOTE]
 >
 >Vi har tillfälligt tagit bort markeringen&quot;Föregående år&quot;. Du kan fortfarande välja att visa hela föregående års prestandadata genom att använda alternativet Anpassat intervall.
 
-Mätvärdena presenteras i två diagram: ring och bar.   ![](assets/four.png)
+Mätvärdena presenteras i två diagram: ring och bar.
+
+![](assets/four.png)
 
 Ringdiagrammet visar de tio viktigaste kanalerna för det mätresultat du valt.
 
@@ -45,7 +49,9 @@ I stapeldiagrammet visas programprestanda i alla kanaler (tio program i taget) f
 >
 >Om du vill att staplarna i diagrammet ska skalförändras uppåt när du bläddrar genom grupperna markerar du kryssrutan **Skala Y-axeln så att den passar**.
 
-För musen över ett fält för mer information.   ![](assets/seven.png)
+För musen över ett fält för mer information.
+
+![](assets/seven.png)
 
 Markera en eller flera kanaler i ringdiagrammet, så visas alla program som är associerade med kanalerna i stapeldiagrammet till höger. Klicka på kanalen/kanalerna igen för att avmarkera.
 
@@ -69,4 +75,3 @@ Utöka en kanal och se de tio viktigaste programmen, med de återstående progra
 >[!NOTE]
 >
 >Om du klickar i kryssrutan bredvid en kanal aktiveras/inaktiveras den i ringdiagrammet ovan.
-
