@@ -3,7 +3,7 @@ unique-page-id: 4718636
 description: Förstå området för programkostnadsanalys - Marketo Docs - Produktdokumentation
 title: Förstå området för programkostnadsanalys
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -58,7 +58,7 @@ Hur mycket spenderade jag per program och månad?
    <th>Beskrivning</th> 
   </tr> 
   <tr> 
-   <td><p>% nya namn</p></td> 
+   <td>% nya namn</td> 
    <td>Andel leads som förvärvats av ett program</td> 
   </tr> 
   <tr> 
@@ -104,4 +104,3 @@ Hur mycket spenderade jag per program och månad?
 | % lyckades (totalt) | Andel leads som lyckades i ett programs utveckling |
 | Lyckades (nya namn) | Totalt antal nya namn som lyckades under ett programs förlopp |
 | Slutfört (totalt) | Totalt antal leads som lyckades under ett programs förlopp |
-
