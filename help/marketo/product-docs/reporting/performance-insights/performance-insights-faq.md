@@ -3,9 +3,9 @@ unique-page-id: 12979858
 description: Performance Insights FAQ - Marketo Docs - produktdokumentation
 title: Vanliga frågor om prestandainsikter
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '1404'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,6 @@ ht-degree: 0%
 Success är ett mått på meningsfull interaktion i Marketo. Syftet med ett program är att skapa en meningsfull interaktion med personen eller den potentiella kunden. Lyckade markeras när en person når den status som uppnår det målet. Det kan vara att delta i ett webbinarium, klicka på en länk i ett e-postmeddelande eller fylla i ett webbformulär. Hur bra det är varierar beroende på programkanalen.
 
 >[!NOTE]
->
->**Exempel**
 >
 >I ett webbinarium kan det finnas flera statusar, som: Inbjuden, registrerad och anmäld. Inbjudna eller registrerade är inte meningsfulla interaktioner eftersom folk egentligen inte tittar på webbinariet. I det här fallet anses det som lyckat.
 
@@ -41,7 +39,7 @@ Du kan styra visningen av dina program genom att ange Analytics-beteendet för d
 
 >[!NOTE]
 >
->Läs mer om att ställa in analysbeteende [här](https://docs.marketo.com/display/public/DOCS/Edit+Analytics+Behavior+Settings).
+>Läs mer om att ställa in analysbeteende [här](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md).
 
 ## Jag har en flerkanalskampanj för att lansera en ny produkt. Hur kan jag se resultatet för den här kampanjen i alla olika kanaler på ett och samma ställe? {#i-am-running-a-multi-channel-campaign-for-a-new-product-launch-how-can-i-view-the-performance-for-this-campaign-across-all-the-different-channels-in-one-place}
 
@@ -58,8 +56,10 @@ MPI beräknar om alla dina möjligheter inkluderas i analysen eller inte. Annars
 Du kanske också saknar möjligheter på grund av att programkostnaden saknas i dina program. Granska Analytics-beteendet för era program. De kan vara:
 
 1. Standard - Standardbeteendet är att programmet ENDAST inkluderas i MPI om det finns minst en periodkostnad, även en med noll dollar tilldelat.
+
 1. Inkluderande - Det här alternativet ser till att programmet är tillgängligt i MPI oavsett om du har inkluderat en periodkostnad eller inte.
-1. [Operativ](https://docs.marketo.com/display/DOCS/Best+Practice%3A+How+to+Organize+your+Programs#BestPractice:HowtoOrganizeyourPrograms-OperationalPrograms)  - Det här alternativet gör att programmet inte visas i MPI.
+
+1. [Operativ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#operational-programs)  - Det här alternativet gör att programmet inte visas i MPI.
 
 >[!NOTE]
 >
@@ -82,7 +82,7 @@ Anpassade fält, säljprojektstyp och ABM-filter är alla attribut som är relat
 
 ## Jag vill använda ett anpassat Salesforce-säljprojektsfält för intäktsrapportering i stället för standardfältet Salesforce-säljprojektsbelopp. Kommer MPI att tillåta mig att göra det? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-Ja. [Marketo ](https://docs.marketo.com/cdn-cgi/l/email-protection#b5c6c0c5c5dac7c1f5d8d4c7ded0c1da9bd6dad8) Supportis kan mappa Marketos säljprojektsbelopp till ett anpassat Salesforce-säljprojektsfält så länge som fälttypen är valuta. Eftersom MPI pekar på fältet Marketo-säljprojektsbelopp kan MPI använda data från det ommappade anpassade Salesforce-fältet.
+Ja. [Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support) Supportis kan mappa Marketos säljprojektsbelopp till ett anpassat Salesforce-säljprojektsfält så länge som fälttypen är valuta. Eftersom MPI pekar på fältet Marketo-säljprojektsbelopp kan MPI använda data från det ommappade anpassade Salesforce-fältet.
 
 >[!NOTE]
 >
@@ -100,11 +100,11 @@ MPI är utformat för att du ska kunna mäta programmets prestanda från början
 
 ## Kan jag mäta framgången med kontobaserade strategier i MPI? {#can-i-measure-the-success-of-account-based-strategies-in-mpi}
 
-Ja. MPI integreras med [Marketo ABM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) för att dra in ABM-kontolistor i MPI sömlöst. Du kan använda filtret ABM-kontolista för att välja önskad ABM-lista att filtrera data efter.
+Ja. MPI integreras med [Marketo TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) för att dra in ABM-kontolistor till MPI sömlöst. Du kan använda filtret ABM-kontolista för att välja önskad ABM-lista att filtrera data efter.
 
 ## Är attribuering direkt tillgängligt när jag köper MPI? {#is-attribution-instantly-available-when-i-purchase-mpi}
 
-Marketo Attribution-funktionerna är tillgängliga för våra kunder när de köper MPI. [Korrekt konfiguration](https://docs.marketo.com/x/mRPG) krävs dock för att säkerställa att affärsmöjligheter och programdata flödar korrekt till MPI.
+Marketo Attribution-funktionerna är tillgängliga för våra kunder när de köper MPI. [Korrekt konfiguration](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md) krävs dock för att säkerställa att affärsmöjligheter och programdata flödar korrekt till MPI.
 
 ## Vad måste jag göra för att konfigurera attribuering? {#what-do-i-have-to-do-to-set-up-attribution}
 
@@ -125,7 +125,7 @@ Marketo Attribution-funktionerna är tillgängliga för våra kunder när de kö
 
 >[!TIP]
 >
->Alla nödvändiga installationssteg beskrivs i [den här artikeln](https://docs.marketo.com/x/mRPG).
+>Alla nödvändiga installationssteg beskrivs i [den här artikeln](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md).
 
 ## Vad är skillnaden mellan MPI och programanalysen? {#whats-the-difference-between-mpi-and-the-program-analyzer}
 
