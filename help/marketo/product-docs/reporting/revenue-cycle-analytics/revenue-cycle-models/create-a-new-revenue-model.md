@@ -3,7 +3,7 @@ unique-page-id: 4718656
 description: Skapa en ny intäktsmodell - Marketo Docs - Produktdokumentation
 title: Skapa en ny intäktsmodell
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
@@ -37,5 +37,4 @@ Ser skarp ut! Du har just gått in i den underbara modelleringsvärlden.
 
 >[!MORELIKETHIS]
 >
->Läs mer om [Använda intäktsmodelllagersidor](using-revenue-model-inventory-stages.md).
-
+>Läs mer om [Använda intäktsmodelllagersidor](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md).
