@@ -3,9 +3,9 @@ unique-page-id: 4718670
 description: Using Revenue Model Gate Stages - Marketo Docs - produktdokumentation
 title: Använda intäktsmodellens gatustadier
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ En gate-fas fungerar som en kvalifikationskontroll.
 
    ![](assets/image2015-4-27-23-3a27-3a43.png)
 
-1. Välj en befintlig modell eller [skapa en ny](create-a-new-revenue-model.md).
+1. Välj en befintlig modell eller [skapa en ny](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. Klicka på **Redigera** **Utkast**.
+1. Klicka på **Redigera utkast**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
@@ -37,11 +37,11 @@ En gate-fas fungerar som en kvalifikationskontroll.
 
    ![](assets/image2015-4-27-16-3a54-3a19.png)
 
-1. Redigera **Name **och välj en **typ**.
+1. Redigera **namnet** och välj en **typ**.
 
    >[!NOTE]
    >
-   >Välj [Starta spårning med konto](start-tracking-by-account-in-the-revenue-modeler.md) för att få kunskap om hur dina konton fungerar när de går igenom din modell.
+   >Välj [Starta spårning med konto](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) för att få kunskap om hur dina konton fungerar när de går igenom din modell.
 
    ![](assets/image2015-4-28-12-3a1-3a7.png)
 
@@ -51,7 +51,7 @@ En gate-fas fungerar som en kvalifikationskontroll.
 
 ## Redigera en Gate-scen {#edit-a-gate-stage}
 
-Redigera namnet, beskrivningen och justera typen av Gate-scenen. Du kan också välja [Starta spårning via konto](start-tracking-by-account-in-the-revenue-modeler.md).
+Redigera namnet, beskrivningen och justera typen av Gate-scenen. Du kan också välja [Starta spårning via konto](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
 1. Klicka på en **Gate**-scenikon.
 
@@ -83,11 +83,7 @@ Grattis! Nu förstår du Gate Stages underbara värld.
 
 >[!MORELIKETHIS]
 >
->* [Använda intäktsmodelllagerfaser](using-revenue-model-inventory-stages.md)
->* [Använda SLA-faser för intäktsmodell](using-revenue-model-sla-stages.md)
->* [Skapa en ny intäktsmodell](create-a-new-revenue-model.md).
-
->
-
-
+>* [Använda intäktsmodelllagerfaser](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>* [Använda SLA-faser för intäktsmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [Skapa en ny intäktsmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
