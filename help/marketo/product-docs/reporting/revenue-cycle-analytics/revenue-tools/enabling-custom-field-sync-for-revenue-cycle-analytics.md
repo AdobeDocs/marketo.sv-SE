@@ -3,7 +3,7 @@ unique-page-id: 3571888
 description: Aktivera anpassad fältsynkronisering för intäktscykelanalys - Marketo Docs - produktdokumentation
 title: Aktivera anpassad fältsynkronisering för analys av intäktscykler
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -40,4 +40,3 @@ Med följande steg kan du använda anpassade fält i RCA-rapporter.
    >[!NOTE]
    >
    >När fältet är aktiverat är informationen tillgänglig i Inkomstcykelanalys nästa dag.
-
