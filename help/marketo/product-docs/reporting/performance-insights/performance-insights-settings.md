@@ -3,7 +3,7 @@ unique-page-id: 13795492
 description: Performance Insights Settings - Marketo Docs - Produktdokumentation
 title: Inställningar för Performance Insights
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
@@ -25,17 +25,35 @@ Lär dig mer om de olika inställningarna i MPI.
 
 **Engagement Dashboard - Bidrag och trender**
 
-| **Kostnadsperiod** | När du markerar detta sammanställs alla nya namn och framgångar till den månad som angetts som kostnadsperiod. |
-|---|---|
-| **Aktivitetsperiod** | När du markerar detta sammanställs alla nya namn, framgångar och medlemskap efter aktivitetsdatum, oavsett programkostnadsperiod. |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Kostnadsperiod</strong></td> 
+   <td>När du markerar detta sammanställs alla nya namn och framgångar till den månad som angetts som kostnadsperiod.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Aktivitetsperiod</strong></td> 
+   <td>När du markerar detta sammanställs alla nya namn, framgångar och medlemskap efter aktivitetsdatum, oavsett programkostnadsperiod.</td> 
+  </tr> 
+ </tbody> 
+</table>
 
 ## Konfiguration för föregående period {#previous-period-configuration}
 
 **Engagemang, pipeline, intäktsinstrumentpaneler - endast bidrag**
 
-| **Kalenderperiod** | Ställ in föregående period på: föregående kalendermånad, kvartal eller år. |
-|---|---|
-| **YOY Period** | Ange föregående period till samma månad eller kvartal i föregående år. |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Kalenderperiod</strong></td> 
+   <td>Ställ in föregående period på: föregående kalendermånad, kvartal eller år.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>YOY Period</strong></td> 
+   <td>Ange föregående period till samma månad eller kvartal i föregående år.</td> 
+  </tr> 
+ </tbody> 
+</table>
 
 ## Marknadsföringspåverkade affärsmöjligheter {#marketing-influenced-opportunities}
 
@@ -54,7 +72,7 @@ Lär dig mer om de olika inställningarna i MPI.
  </tbody> 
 </table>
 
-Instrumentpanel för intäkter - Bidrag och trender
+**Instrumentpanel för intäkter - Bidrag och trender**
 
 <table> 
  <tbody> 
@@ -73,7 +91,15 @@ Instrumentpanel för intäkter - Bidrag och trender
 
 **Instrumentpaneler för pipeline och intäkt - Bidrag och trender**
 
-| **Baserat på investeringsperiod** | Investeringskostnaden beräknas helt enkelt som summan av de månatliga programkostnader som definieras av investeringsperiodens filter. |
-|---|---|
-| **Baserat på programtilldelning** | Den tilldelade kostnaden baseras på en del av programkostnaden som bestäms av leads eller kontakter som förvärvats eller lyckats i programmet och som slutligen resulterade i en vunnen möjlighet. |
-
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Baserat på investeringsperiod</strong></td> 
+   <td>Investeringskostnaden beräknas helt enkelt som summan av de månatliga programkostnader som definieras av investeringsperiodens filter.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Baserat på programtilldelning</strong></td> 
+   <td>Den tilldelade kostnaden baseras på en del av programkostnaden som bestäms av leads eller kontakter som förvärvats eller lyckats i programmet och som slutligen resulterade i en vunnen möjlighet.</td> 
+  </tr> 
+ </tbody> 
+</table>
