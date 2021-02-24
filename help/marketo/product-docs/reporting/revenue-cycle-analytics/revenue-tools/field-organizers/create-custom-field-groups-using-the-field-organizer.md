@@ -3,7 +3,7 @@ unique-page-id: 10094404
 description: Skapa anpassade fältgrupper med fältorganiseraren - Marketo Docs - Produktdokumentation
 title: Skapa anpassade fältgrupper med fältorganiseraren
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '992'
 ht-degree: 0%
@@ -180,8 +180,8 @@ I följande tre avsnitt beskrivs hur du skapar en anpassad fältgrupp för en st
    >
    >Du kan lägga till upp till tio undergrupper för att kategorisera datavärdena. Varje gruppintervallpost bygger på föregående post. Om du lämnar den sista gruppintervallposten tom för den sista anpassade undergruppen som du skapar, kommer inget slutdatumvärde att anges.
 
+   I exemplet nedan visas en post för Q1 2015 som leder genom Q3.
+
    ![](assets/16.5.png)
 
    Och det är allt! Bra jobbat.
-
-I exemplet nedan visas en post för Q1 2015 som leder genom Q3.
