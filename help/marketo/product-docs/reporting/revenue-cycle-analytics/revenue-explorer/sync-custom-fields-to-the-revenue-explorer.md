@@ -3,7 +3,7 @@ unique-page-id: 2360341
 description: Synkronisera anpassade fält med Intresseutforskaren - Marketo Docs - Produktdokumentation
 title: Synkronisera anpassade fält med intäktsutforskaren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -48,4 +48,3 @@ Intäktscykelanalys kan rapportera i anpassade Marketo-fält, och för att kunna
    >När det här alternativet är aktiverat kommer uppgifterna att vara tillgängliga i intäktscykelanalys följande dag.
 
    Snyggt jobb! Nu vet du hur du lägger till anpassade fält i RCA.
-
