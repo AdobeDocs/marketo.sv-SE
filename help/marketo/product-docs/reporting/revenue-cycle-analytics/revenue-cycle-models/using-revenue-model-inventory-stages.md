@@ -3,7 +3,7 @@ unique-page-id: 4718666
 description: Using Revenue Model Inventory Stages - Marketo Docs - Produktdokumentation
 title: Använda intäktsmodelllagerfaser
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Alla kända leads och konton finns från början i lagerstadiet. Den här potent
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Välj en befintlig modell i **Analytics** eller [skapa en ny](create-a-new-revenue-model.md).
+1. Välj en befintlig modell i **Analytics** eller [skapa en ny](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-14-3a31-3a53.png)
 
@@ -37,13 +37,13 @@ Alla kända leads och konton finns från början i lagerstadiet. Den här potent
 
    ![](assets/image2015-4-28-13-3a9-3a37.png)
 
-1. Du kan redigera namnet, lägga till en beskrivning och justera texten när du har lagt till en scen. Du kan även välja ** [Starta spårning efter konto](start-tracking-by-account-in-the-revenue-modeler.md)** just nu.
+1. Du kan redigera namnet, lägga till en beskrivning och justera texten när du har lagt till en scen. Du kan även välja **[Starta spårning efter konto](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** just nu.
 
    ![](assets/image2015-4-27-13-3a29-3a2.png)
 
 ## Redigera en lagerfas {#edit-an-inventory-stage}
 
-När du väljer en inventeringsikon kan du redigera **namnet**, lägga till en **Beskrivning** eller justera **Typ**. Du kan också välja [Starta spårning efter konto](start-tracking-by-account-in-the-revenue-modeler.md).
+När du väljer en inventeringsikon kan du redigera **namnet**, lägga till en **Beskrivning** eller justera **Typ**. Du kan också välja [Starta spårning efter konto](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
 1. Klicka på en inventeringsikon.
 
@@ -63,7 +63,7 @@ När du väljer en inventeringsikon kan du redigera **namnet**, lägga till en *
 
    ![](assets/image2015-4-28-13-3a0-3a20.png)
 
-1. Du kan också ta bort en scen genom att klicka på den och sedan välja **Ta bort** scenåtgärder **i listrutan &lt;a2/>Ta bort**.
+1. Du kan också ta bort en scen genom att klicka på den och sedan välja **Ta bort** scenåtgärder **i listrutan Ta bort**.
 
    ![](assets/image2015-4-28-13-3a1-3a17.png)
 
