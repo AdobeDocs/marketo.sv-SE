@@ -3,9 +3,9 @@ unique-page-id: 12979012
 description: Filtrering i Performance Insights - Marketo Docs - Produktdokumentation
 title: Filtrera i Performance Insights
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Klicka på + för att börja lägga till filter.
 
 >[!NOTE]
 >
->För närvarande är anpassade attribut endast tillgängliga i filter för kunder som har [RCA](https://docs.marketo.com/x/lwIk) aktiverat.
+>I nuläget är anpassade attribut endast tillgängliga i filter för kunder som har aktiverat Revenue Cycle Analytics.
 
 Om du klickar på en kategori visas flera underkategorier.
 
@@ -57,7 +57,7 @@ Du kan ta bort ett filter när som helst genom att klicka på X:et bredvid det. 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Anpassade attribut</strong></td> 
-   <td colspan="1"><p>De här bestäms av dig. Alla fält <a href="https://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">du aktiverar</a> för affärsmöjlighetsanalysen kan filtreras på i Prestandainsikter.</p></td> 
+   <td colspan="1"><p>De här bestäms av dig. Alla fält <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">du aktiverar</a> för affärsmöjlighetsanalysen kan filtreras på i Prestandainsikter.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Investeringsperiod</strong></p></td> 
@@ -69,11 +69,11 @@ Du kan ta bort ett filter när som helst genom att klicka på X:et bredvid det. 
   </tr> 
   <tr> 
    <td><p><strong>Programtagg</strong></p></td> 
-   <td><p>Taggar används för att beskriva program. Ni kan skapa så många ni behöver, var och en med unika värden. <a href="https://docs.marketo.com/display/public/DOCS/Tags" rel="nofollow">Lär dig hur du arbetar med programtaggar här.</a></p></td> 
+   <td><p>Taggar används för att beskriva program. Ni kan skapa så många ni behöver, var och en med unika värden. <a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow">Lär dig hur du arbetar med programtaggar här.</a></p></td> 
   </tr> 
   <tr> 
    <td><strong>Arbetsyta</strong></td> 
-   <td><p>Arbetsytor är separata områden i Marketo som innehåller marknadsföringsresurser, som: program, landningssidor, e-post med mera. <a href="https://docs.marketo.com/display/public/DOCS/Understanding+Workspaces+and+Person+Partitions" rel="nofollow">Läs mer om arbetsytor här.</a></p></td> 
+   <td><p>Arbetsytor är separata områden i Marketo som innehåller marknadsföringsresurser, som: program, landningssidor, e-post med mera. <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Läs mer om arbetsytor här.</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -81,4 +81,3 @@ Du kan ta bort ett filter när som helst genom att klicka på X:et bredvid det. 
 >[!NOTE]
 >
 >På kontrollpanelen för engagemang är endast programtaggar och arbetsytefilter tillgängliga.
-
