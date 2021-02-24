@@ -3,9 +3,9 @@ unique-page-id: 2360409
 description: Skapa en e-postanalysrapport som visar programinformation - Marketo Docs - produktdokumentation
 title: Skapa en e-postanalysrapport som visar programinformation
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,6 @@ Följ de här stegen för att skapa en e-postanalysrapport som visar e-postinfor
 
 >[!AVAILABILITY]
 >
->
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
 1. Starta **Intresseutforskaren**.
@@ -28,7 +27,7 @@ Följ de här stegen för att skapa en e-postanalysrapport som visar e-postinfor
 
    ![](assets/image2014-9-17-19-3a42-3a32.png)
 
-1. Välj** E-postanalys** och klicka på **OK**.
+1. Välj **E-postanalys** och klicka på **OK**.
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
@@ -44,7 +43,7 @@ Följ de här stegen för att skapa en e-postanalysrapport som visar e-postinfor
 
    ![](assets/image2014-9-17-19-3a43-3a59.png)
 
-1. Sök och dubbelklicka på den gula pricken* Program Channel**.
+1. Sök efter och dubbelklicka på den gula punkten **Programkanal**.
 
    ![](assets/image2014-9-17-19-3a44-3a14.png)
 
@@ -59,11 +58,3 @@ Följ de här stegen för att skapa en e-postanalysrapport som visar e-postinfor
    Bra jobbat! Du borde ha en rapport som ser ut ungefär så här:
 
    ![](assets/image2014-9-17-19-3a45-3a1.png)
-
-   >[!NOTE]
-   >
-   >**Djupdykning**
-   >
-   >
-   >Vill du veta mer om [Intäktscykelutforskaren](https://docs.marketo.com/display/docs/revenue+cycle+analytics)?
-
