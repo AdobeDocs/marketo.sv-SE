@@ -3,7 +3,7 @@ unique-page-id: 2953144
 description: Advanced Program Reporting Overview - Marketo Docs - produktdokumentation
 title: Översikt över avancerad programrapportering
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -27,13 +27,13 @@ Analysområden innehåller olika datauppsättningar och mätvärden i Intresseut
 
 ## Programanalysområden {#program-analysis-areas}
 
-* ** [Programkostnadsanalys](understanding-the-program-cost-analysis-area.md) **- Se avkastningen för alla program.
+* **[Kostnadsanalys](understanding-the-program-cost-analysis-area.md)**  - Se avkastningen för alla program.
 
-* ** [Analys av programmedlemskap](understanding-the-program-membership-analysis-area.md) **- Se resultat per kanal, deltagande, kriterier för lyckade försök osv.
+* **[Analys](understanding-the-program-membership-analysis-area.md)**  av programmedlemskap - se resultat per kanal, deltagande, kriterier för framgång osv.
 
-* ** [Analys av affärsmöjligheter](understanding-the-program-opportunity-analysis-area.md) **- Affärsmöjligheter som genereras baserat på fördelning, intäkter och avkastning.
+* **[Analys](understanding-the-program-opportunity-analysis-area.md)**  av affärsmöjligheter - Möjligheter som genereras baserat på fördelning, intäkter och avkastning.
 
-* ** [Analys av programinkomststadium](understanding-the-program-revenue-stage-analysis-area.md) **- Nya namn som har nått vissa framgångsfaser i intäktscykelmodellen.
+* **[Scenanalys](understanding-the-program-revenue-stage-analysis-area.md)**  för programintäkter - Nya namn som har nått vissa framgångar i er intäktscykelmodell.
 
 ## Programanalytiker {#program-analyzers}
 
