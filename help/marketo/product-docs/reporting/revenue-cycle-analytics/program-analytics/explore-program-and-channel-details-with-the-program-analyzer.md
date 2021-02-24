@@ -3,9 +3,9 @@ unique-page-id: 2360437
 description: Utforska program- och kanalinformation med Program Analyzer - Marketo Docs - Produktdokumentation
 title: Utforska program- och kanalinformation med Program Analyzer
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,13 @@ Du kan se detaljerad program- och kanalstatistik i Program Analyzer. Du kan äve
 
 >[!PREREQUISITES]
 >
->* [Skapa en programanalys](create-a-program-analyzer.md)
-
+>[Skapa en programanalys](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 >[!AVAILABILITY]
 >
->
 >Alla utgåvor av Marketo innehåller inte den här funktionen. Kontakta din kontoansvarige om du vill ha mer information.
 
-1. Klicka på **Analytics**.
+1. Klicka på **Analys**.
 
    ![](assets/image2015-4-28-12-3a54-3a47.png)
 
@@ -56,7 +54,3 @@ Du kan se detaljerad program- och kanalstatistik i Program Analyzer. Du kan äve
 1. Om du vill öppna Inkomstcykelutforskaren och fördjupa dig i en statistik klickar du på siffran i popup-dialogrutan.
 
    ![](assets/image2015-4-28-13-3a1-3a35.png)
-
-   >[!NOTE]
-   >
-   >Läs mer om avancerad analys i [Intresseutforskaren](https://docs.marketo.com/display/docs/revenue+explorer).
