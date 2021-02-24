@@ -3,7 +3,7 @@ unique-page-id: 11383877
 description: Clone a Program Analyzer - Marketo Docs - Produktdokumentation
 title: Klona en programanalys
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 När du har sparat en analyserare är det enkelt att klona den och skapa en ny. Gå sedan in och redigera den nya om det behövs några ändringar.
 
-1. Klicka på rutan **Analytics **.
+1. Klicka på **Analytics**-panelen.
 
    ![](assets/2017-05-01-08-20-37.png)
 
@@ -41,9 +41,4 @@ När du har sparat en analyserare är det enkelt att klona den och skapa en ny. 
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Skapa en programanalys](create-a-program-analyzer.md)
-
-
+   >[Skapa en programanalys](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
