@@ -3,9 +3,9 @@ unique-page-id: 4718648
 description: Understanding the Opportunity Influence Analyzer - Marketo Docs - Product Documentation
 title: Förstå analysen av affärsmöjlighet
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Med säljprojektsanalysen kan du se hela artikeln. Det finns till och med i Sale
 
 ![](assets/image2015-6-23-14-3a43-3a35-1.png)
 
-**Lägg märke till de gröna kontrollerna.** De visar att programmet lyckades för ett av namnen till höger. Det gröna området anger början och slutet av affärsmöjligheten.
+**Lägg märke till de gröna kontrollerna**. De visar att programmet lyckades för ett av namnen till höger. Det gröna området anger början och slutet av affärsmöjligheten.
 
 >[!NOTE]
 >
@@ -41,10 +41,6 @@ Om du vill behålla det här beteendet bör du ta bort dubbletter av dina data i
 
 >[!MORELIKETHIS]
 >
->* [Berätta för marknadsföringsberättelsen med en analys av säljprojektspåverkan](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
->* [Skapa en analys av affärsmöjlighet](create-an-opportunity-influence-analyzer.md)
-
->
-
-
+>* [Berätta för marknadsföringsberättelsen med en analys av säljprojektspåverkan](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [Skapa en analys av affärsmöjlighet](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
