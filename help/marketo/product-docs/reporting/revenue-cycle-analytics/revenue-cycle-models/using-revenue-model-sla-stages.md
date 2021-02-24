@@ -3,9 +3,9 @@ unique-page-id: 4718668
 description: Using Revenue Model SLA Stages - Marketo Docs - Product Documentation
 title: Använda SLA-faser för intäktsmodell
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ SLA står för&quot;servicenivåavtal&quot;. Dessa steg används när det finns 
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Välj din befintliga modell i avsnittet Analytics eller [skapa en ny](create-a-new-revenue-model.md).
+1. Välj din befintliga modell i avsnittet Analytics eller [skapa en ny](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
@@ -37,13 +37,13 @@ SLA står för&quot;servicenivåavtal&quot;. Dessa steg används när det finns 
 
    ![](assets/image2015-4-27-15-3a32-3a10.png)
 
-1. Du kan redigera **namnet**, lägga till en **beskrivning** och justera **typen** efter att du har lagt till en scen. Du kan även välja ** [Starta spårning efter konto](start-tracking-by-account-in-the-revenue-modeler.md)** just nu.
+1. Du kan redigera **namnet**, lägga till en **beskrivning** och justera **typen** efter att du har lagt till en scen. Du kan även välja **[Starta spårning efter konto](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** just nu.
 
    ![](assets/image2015-4-27-17-3a0-3a39.png)
 
 ## Redigera en SLA-scen {#edit-an-sla-stage}
 
-När du väljer en SLA-scenikon kan du redigera namnet, lägga till en beskrivning och justera texten. Du kan också välja [Starta spårning efter konto](start-tracking-by-account-in-the-revenue-modeler.md).
+När du väljer en SLA-scenikon kan du redigera namnet, lägga till en beskrivning och justera texten. Du kan också välja [Starta spårning efter konto](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
 1. Klicka på en SLA-scenikon.
 
@@ -53,7 +53,7 @@ När du väljer en SLA-scenikon kan du redigera namnet, lägga till en beskrivni
 
    ![](assets/image2015-4-27-15-3a48-3a37.png)
 
-1. Välj den **typmeny** som du vill redigera.
+1. Välj listrutan **Typ** som du vill redigera.
 
    ![](assets/image2015-4-27-15-3a51-3a27.png)
 
@@ -66,4 +66,3 @@ När du väljer en SLA-scenikon kan du redigera namnet, lägga till en beskrivni
 1. Du kan också ta bort en scen genom att klicka på den och sedan välja Ta bort i listrutan Scenåtgärder.
 
    ![](assets/image2015-4-27-17-3a20-3a41.png)
-
