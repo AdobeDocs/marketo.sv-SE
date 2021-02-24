@@ -3,9 +3,9 @@ unique-page-id: 11375276
 description: Anpassade Dimensioner för e-postinsikter - Marketo Docs - Produktdokumentation
 title: Anpassade Dimensioner för e-postinsikter
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Alla vanliga Marketo-dimensioner inkluderas, men du kan lägga till upp till 10 
 
 >[!CAUTION]
 >
->Anpassade dimensioner **KAN INTE** tas bort eller ersättas, så välj 10 noggrant.
+>Anpassade dimensioner **kan inte** tas bort eller ersättas, så välj 10 noggrant.
 
 1. I E-postinsikter klickar du på kugghjulsikonen i det övre högra hörnet på sidan.
 
@@ -43,6 +43,4 @@ Alla vanliga Marketo-dimensioner inkluderas, men du kan lägga till upp till 10 
    >
    >**Per publik**: Visar alla godkända segment (från databasen)
    >
-   >
    >**Efter innehåll**: Visar alla programtaggar
-
