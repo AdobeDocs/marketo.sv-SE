@@ -3,9 +3,9 @@ unique-page-id: 2360401
 description: Jämför kanaleffektivitet med Program Analyzer - Marketo Docs - Produktdokumentation
 title: Jämför kanaleffektiviteten med programanalysen
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -17,18 +17,17 @@ Använd Program Analyzer för att jämföra kanalkostnader, medlemsförvärv, pi
 
 >[!PREREQUISITES]
 >
->* [Skapa en programanalys](create-a-program-analyzer.md)
+>[Skapa en programanalys](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-
-1. Klicka på **Analytics** i **My Marketo.**
+1. Klicka på **Analytics** i **My Marketo**.
 
    ![](assets/image2014-9-17-18-3a36-3a13.png)
 
-1. Välj din **programanalys.**
+1. Välj din **programanalys**.
 
    ![](assets/image2014-9-17-18-3a36-3a40.png)
 
-1. Ändra vyn till **By** **Kanal**.
+1. Ändra vyn till **Efter kanal**.
 
    ![](assets/image2014-9-17-18-3a36-3a59.png)
 
@@ -62,7 +61,7 @@ Använd Program Analyzer för att jämföra kanalkostnader, medlemsförvärv, pi
 
    Vi ser att webbseminariekanalen krymper, enligt **Nya namn**. Vi kan dra slutsatsen att även om den har många medlemmar är det mindre effektivt att generera nya leads än Tradeshow-kanalen.
 
-1. Använd slutligen listrutan Färg för att lägga till den fjärde dimensionen. Vi väljer **(FT) Revenue** **Won**.
+1. Använd slutligen listrutan Färg för att lägga till den fjärde dimensionen. Vi väljer **(FT) Intäkter, vinst**.
 
    ![](assets/image2014-9-17-18-3a41-3a7.png)
 
@@ -84,13 +83,6 @@ I vårt exempel ser vi att Tradeshow-kanalen både är den mest dyra (längst ti
 
 >[!MORELIKETHIS]
 >
->* [Utforska program- och kanalinformation med Program Analyzer](explore-program-and-channel-details-with-the-program-analyzer.md)
->* [Jämför programeffektiviteten med programanalysen](compare-program-effectiveness-with-the-program-analyzer.md)
+>* [Utforska program- och kanalinformation med Program Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [Jämför programeffektiviteten med programanalysen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
 
->
-
-
-
->[!NOTE]
->
->Läs mer om avancerad analys i [Inkomstcykelutforskaren](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
