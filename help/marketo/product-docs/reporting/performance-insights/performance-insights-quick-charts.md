@@ -3,7 +3,7 @@ unique-page-id: 12980873
 description: Performance Insights Quick Charts - Marketo Docs - produktdokumentation
 title: Prestandainsikter, snabbdiagram
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -68,4 +68,3 @@ Följ de här enkla stegen om du vill ta bort ett snabbdiagram.
 1. Klicka på **Ta bort**.
 
    ![](assets/10-1.png)
-
