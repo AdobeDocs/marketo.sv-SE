@@ -3,7 +3,7 @@ unique-page-id: 10097747
 description: Lägga till anpassade mått i en Intresseutforskarrapport - Marketo Docs - Produktdokumentation
 title: Lägga till anpassade mått i en Intresseutforskarrapport
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -21,7 +21,8 @@ I exemplet nedan skapar du ett beräknat mått för mjuka studsar, som tar mätv
 >
 >Du behöver minst ett mått i rapporten, men det behöver inte vara ett av de mått som du använder för att definiera ditt anpassade mått.
 
-1. Dra över fälten du behöver för rapporten. Mer information finns i [Lägga till fält i en Intresseutforskarrapport](adding-fields-to-a-revenue-explorer-report.md).
+1. Dra över fälten du behöver för rapporten. Mer information finns i [Lägga till fält i en Intresseutforskarrapport](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md).
+
 1. Högerklicka på ett befintligt mått (blå cell), klicka på **Användardefinierat mått** och välj **Beräknat mått**.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
@@ -48,9 +49,4 @@ I exemplet nedan skapar du ett beräknat mått för mjuka studsar, som tar mätv
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Lägga till fält i en Intresseutforskarrapport](adding-fields-to-a-revenue-explorer-report.md)
-
-
+   >[Lägga till fält i en Intresseutforskarrapport](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
