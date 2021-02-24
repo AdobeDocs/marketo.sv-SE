@@ -3,9 +3,9 @@ unique-page-id: 13795534
 description: Performance Insights Dashboards - Marketo Docs - produktdokumentation
 title: Instrumentpaneler för prestandainsikter
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '504'
 ht-degree: 0%
 
 ---
@@ -32,8 +32,6 @@ Välj mätvärdet **Successes** för att mäta målgruppens engagemang i dina v�
 Syftet med ett program är att skapa en meningsfull interaktion med personen eller den potentiella kunden. Lyckade markeras när en person når den status som uppnår det målet. Det kan vara att delta i ett webbinarium, klicka på en länk i ett e-postmeddelande eller fylla i ett webbformulär. Hur bra det är varierar beroende på programkanalen.
 
 >[!NOTE]
->
->**Exempel**
 >
 >I ett webbinarium kan det finnas flera statusar, som: Inbjuden, registrerad och anmäld. Inbjudna eller registrerade är inte meningsfulla interaktioner eftersom folk egentligen inte tittar på webbinariet. I det här fallet anses det som lyckat.
 
@@ -108,4 +106,3 @@ Instrumentpanelen Intäkter visar kanalprestanda med hjälp av statistik för f�
   </tr> 
  </tbody> 
 </table>
-
