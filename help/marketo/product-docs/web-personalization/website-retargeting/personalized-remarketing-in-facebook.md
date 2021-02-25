@@ -3,7 +3,7 @@ unique-page-id: 4720917
 description: Personaliserad Remarketing i Facebook - Marketo Docs - Produktdokumentation
 title: Personaliserad marknadsföring på Facebook
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -17,16 +17,14 @@ Med personligt anpassad marknadsföring kan ni återengagera era användare med 
 
 >[!PREREQUISITES]
 >
->* Slutför installationen av [Återmarknadsföring med webbpersonaliseringsdata](retargeting-with-web-personalization-data.md)
->* Granska [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-dokumentationen om anpassade målgrupper](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)och ommarketing
-
->
-
+>* Slutför installationen av [Återmarknadsföring med webbpersonaliseringsdata](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* Granska [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-dokumentationen om anpassade målgrupper](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) och ommarketing.
 
 
 ## Skapa en publik i Facebook {#creating-an-audience-in-facebook}
 
 1. Gå till fliken [Målgrupp](https://www.facebook.com/ads/audience_manager) i Ads Manager på Facebook.
+
 1. Klicka på **Verktyg** och välj **Publiker**.
 
    ![](assets/one-1.png)
@@ -39,7 +37,7 @@ Med personligt anpassad marknadsföring kan ni återengagera era användare med 
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
-1. I listan Webbplatstrafik väljer du** Anpassad kombination**.
+1. Välj **Anpassad kombination** i listan över webbplatstrafik.
 
    ![](assets/image2015-1-19-16-3a33-3a21.png)
 
@@ -47,7 +45,7 @@ Med personligt anpassad marknadsföring kan ni återengagera era användare med 
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
-1. Välj **RTP Remarketing **och välj en parameter i händelselistan.
+1. Välj **RTP-ommarknadsföring** i händelselistan och välj en parameter.
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
@@ -132,10 +130,6 @@ Mer information finns i [Facebooks dokumentation](https://developers.facebook.co
 
 >[!MORELIKETHIS]
 >
->* [Återannonsering med webbpersonaliseringsdata](retargeting-with-web-personalization-data.md)
->* [Personaliserad marknadsföring i Google](personalized-remarketing-in-google.md)
-
->
-
-
+>* [Återannonsering med webbpersonaliseringsdata](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [Personaliserad marknadsföring i Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
 
