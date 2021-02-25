@@ -3,7 +3,7 @@ unique-page-id: 10093159
 description: Understanding Content Analytics - Marketo Docs - Product Documentation
 title: Innehållsanalys
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
@@ -100,6 +100,6 @@ På sidan Innehållsanalys klickar du på ikonen Ta bort för det innehåll du v
 
 >[!MORELIKETHIS]
 >
->* [Aktivera innehållsrekommendationsfältet](../../../product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
->* [Aktivera prediktivt innehåll för multimedia för webben](../../../product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+>* [Aktivera innehållsrekommendationsfältet](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
+>* [Aktivera prediktivt innehåll för multimedia för webben](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
 
