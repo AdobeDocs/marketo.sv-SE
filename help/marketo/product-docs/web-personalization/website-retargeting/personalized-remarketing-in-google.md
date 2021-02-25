@@ -3,9 +3,9 @@ unique-page-id: 4720810
 description: Personaliserad Remarketing i Google - Marketo Docs - produktdokumentation
 title: Personaliserad marknadsföring i Google
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ Med personligt anpassad marknadsföring kan ni återengagera era användare med 
 
 >[!PREREQUISITES]
 >
->* Slutför konfigurationen [Återmarknadsföring med webbpersonaliseringsdata](retargeting-with-web-personalization-data.md)
->* Granska [Marknadsföring med Google Analytics Help](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645)-dokumentation
-
->
-
+>* Slutför konfigurationen [Återmarknadsföring med webbpersonaliseringsdata](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* Granska [Marknadsföring med Google Analytics Help](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645)-dokumentationen.
 
 
 ## Skapa en marknadsföringsmålgrupp i Google {#creating-a-remarketing-audience-in-google}
@@ -34,8 +31,7 @@ Med personligt anpassad marknadsföring kan ni återengagera era användare med 
 
    ![](assets/image2015-1-15-17-3a26-3a40.png)
 
-1. **Länkkonfiguration**: Länka till ditt Google Adwords-konto
-1. **Definiera målgrupp**: Klicka på  **Skapa nytt**.
+1. **Länkkonfiguration**: Länka till ditt Google Adwords-konto. **Definiera målgrupp**: Klicka på  **Skapa nytt**.
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
@@ -59,9 +55,6 @@ I Google Universal Analytics:
 >* Händelsekategori: RTP-Segment, RTP-Campaign RTP-Remarketing
 >* Händelseetikett: Segmentnamn, kampanjnamn, segmenterat målgruppsnamn
 
->
-
-
 
 **Exempel på återmarknadsföring från RTP-segmenterade målgruppsdata**
 
@@ -77,7 +70,7 @@ I Google Universal Analytics:
 ![](assets/image2015-1-15-17-3a36-3a5.png)
 
 1. Klicka på **Sekvenser**.
-1. Välj** RTP-Industry**.
+1. Välj **RTP-Industry**.
 1. Ange **Namn på bransch** (t.ex. Finansiella tjänster, utbildning..).
 1. Klicka på **Använd**.
 1. Ange ett **målgruppsnamn**. Klicka på **Spara**.
@@ -105,6 +98,6 @@ I Google Universal Analytics:
 
 >[!MORELIKETHIS]
 >
->* [Återannonsering med webbpersonaliseringsdata](retargeting-with-web-personalization-data.md)
->* [Personaliserad marknadsföring på Facebook](personalized-remarketing-in-facebook.md)
+>* [Återannonsering med webbpersonaliseringsdata](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [Personaliserad marknadsföring på Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
 
