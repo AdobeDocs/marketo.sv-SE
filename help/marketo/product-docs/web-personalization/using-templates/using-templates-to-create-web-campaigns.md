@@ -3,9 +3,9 @@ unique-page-id: 2949168
 description: Använda mallar för att skapa webbkampanjer - Marketo Docs - Produktdokumentation
 title: Använda mallar för att skapa webbkampanjer
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Snabba upp och förenkla framtagningen av webbkampanjer genom att använda våra
 >
 >Mallar är optimerade för alla enheter och för surfupplevelser både på dator och mobil.
 
-1. Gå till Webbkampanjer.
+1. Gå till **Webbkampanjer**.
 
    ![](assets/web-campaigns-hand.jpg)
 
-1. Klicka på Skapa ny webbkampanj.
+1. Klicka på **Skapa ny webbkampanj**.
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
@@ -35,15 +35,13 @@ Snabba upp och förenkla framtagningen av webbkampanjer genom att använda våra
 
    ![](assets/set-web-campaign-education.jpg)
 
-1. Klicka på Mallar.
+1. Klicka på **Mallar**.
 
    ![](assets/templates.png)
 
 1. Välj lämpligt område för kampanjen för att se och välja en mall som fungerar för dig.
 
    >[!NOTE]
-   >
-   >**Påminnelse**
    >
    >Det finns några coola mallar att välja bland, och vi kommer att lägga till fler i framtiden.
 
@@ -57,7 +55,7 @@ Snabba upp och förenkla framtagningen av webbkampanjer genom att använda våra
 
    ![](assets/customize-template.jpg)
 
-1. Klicka på Spara.
+1. Klicka på **Spara**.
 
    ![](assets/click-save-hand.jpg)
 
@@ -65,9 +63,4 @@ Snyggt gjort! Såg du hur mycket tid du sparade med en mall?
 
 >[!MORELIKETHIS]
 >
->* [Spara en kampanj som en mall](save-your-campaign-as-a-template.md)
-
->
-
-
-
+>[Spara en kampanj som en mall](/help/marketo/product-docs/web-personalization/using-templates/save-your-campaign-as-a-template.md)
