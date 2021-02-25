@@ -3,7 +3,7 @@ unique-page-id: 4719093
 description: Webbsegment - Marketo Docs - produktdokumentation
 title: Webbsegment
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '2031'
 ht-degree: 0%
@@ -54,7 +54,7 @@ Inom webbpersonalisering kan en besökare matcha mer än ett segment. Om det til
  </tbody> 
 </table>
 
-Se [hur du skapar och visar segmentetiketter](label-your-segment.md)
+Se [hur du skapar och visar segmentetiketter](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
 **Segment - högerpanel**
 
@@ -108,23 +108,32 @@ Definiera allmänna parametrar för ditt segment:
 >1. Använd alla filter (1, 2 och 3...)
 >1. Använd filter (1 eller 2 eller 3..)
 >1. Avancerade filter (med och/eller uttryck)
->
->    Med avancerade filter kan du styra segmentvillkoren. Ange filternumren avgränsade med &quot;och&quot; och &quot;eller&quot;.
->
->    * 1, 2 och 3
->    * 1 eller 2 eller 3
->
->    Blandning av&quot;och&quot; och&quot;eller&quot; kräver parenteser för att förtydliga logiks avsikt. t.ex. &quot;1 eller 2 och 3&quot; skall skrivas som något av följande:
->
->    * 1 och (2 eller 3)
->    * (1 och 2) eller 3
->
->    Kapslade parenteser accepteras för mer komplicerad logik, t.ex.
->
->    * (1 och 2) eller (3 och 4)
->    * 1 och (2 eller (3 och 4))
->
->    Kontrollera logiken efter infogning, borttagning eller sortering.
+
+   >
+   >    
+   Med avancerade filter kan du styra segmentvillkoren. Ange filternumren avgränsade med &quot;och&quot; och &quot;eller&quot;.
+   >
+   >    
+   * 1, 2 och 3
+   >    * 1 eller 2 eller 3
+
+   >
+   >    Blandning av&quot;och&quot; och&quot;eller&quot; kräver parenteser för att förtydliga logiks avsikt. t.ex. &quot;1 eller 2 och 3&quot; skall skrivas som något av följande:
+   >
+   >    
+   * 1 och (2 eller 3)
+   >    * (1 och 2) eller 3
+
+   >
+   >    Kapslade parenteser accepteras för mer komplicerad logik, t.ex.
+   >
+   >    
+   * (1 och 2) eller (3 och 4)
+   >    * 1 och (2 eller (3 och 4))
+
+   >
+   >    Kontrollera logiken efter infogning, borttagning eller sortering.
+
 
 Dra och släpp segmentattribut från den högra kolumnen i segmentredigeraren till vänster:
 
@@ -170,18 +179,18 @@ Markera kryssrutan bredvid **Organisationsgrupp under** Profilsegmentering **.**
    * Enterprise - Innehåller organisationer med fler än 1 000 anställda och intäkter över 250 miljoner dollar
    * Små och medelstora företag - Inkluderar endast små och medelstora företag i detta segment
 
-**Namngivna konton**
+**-Namngivna konton-**
 
 **Organisationer**
 
 * **Kommer från dessa företag (specifika namn)**
 
    * Välj företag att rikta in på i listrutan Välj företag att lägga till.
-   * Du kan ange det exakta organisationsnamn som du vill ha som mål. *Det är *alltid *vi rekommenderar att du använder namngivna kontolistor i stället för att skriva in namnen manuellt för att få bättre matchningar (se nedan).*
+   * Du kan ange det exakta organisationsnamn som du vill ha som mål. *Det _rekommenderas alltid_ att använda Namngivna kontolistor i stället för att ange namnen manuellt för att få bättre matchningar (se nedan).
 
 **Namngiven kontolista**
 
-Välj i en [lista över namngivna konton](../../../product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) om du vill segmentera målkonton för nycklar
+Välj i en [lista över namngivna konton](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) om du vill segmentera målkonton för nycklar.
 
 ![](assets/image2015-5-27-17-3a14-3a8.png)
 
@@ -199,7 +208,7 @@ Utesluter Internetleverantörer (ISP) från segmentet.
 
 Webbpersonalisering integreras med er Marketo-databas så att ni kan segmentera och personalisera kampanjer utifrån kända personattribut och data.
 
-Välj Databas och välj ett persondatafält i listrutan. Välj   **+** om du vill lägga till fält från listrutan.
+Välj Databas och välj ett persondatafält i listrutan. Välj **+** för att lägga till fält från listrutan.
 
 ![](assets/seven.png)
 
@@ -262,7 +271,7 @@ Dra och släpp det mobila operativsystemet i segmentredigeraren
 
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
-* **Typ av besökare**
+* **Typ av besökare**<br />
 
    **Mobiloperativsystem**  - Välj ett eller flera mobila operativsystem i listan i listrutan. Det valda mobiloperativsystemet visas nedan.
 
@@ -319,8 +328,8 @@ Du kan inte ta bort ett segment som är associerat med en kampanj. Först måste
 Bra! Nu när ni förstår segmentavsnittet ska vi lära oss mer om kampanjer.
 
 >[!MORELIKETHIS]
-* [Skapa ett enkelt webbsegment](create-a-basic-web-segment.md)
-* [Skapa en ny webbkampanj för dialog](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-* [Skapa en ny webbkampanj i zonen](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
-* [Skapa en ny webbkampanj för widget](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+* [Skapa ett enkelt webbsegment](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+* [Skapa en ny webbkampanj för dialog](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [Skapa en ny webbkampanj i zonen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+* [Skapa en ny webbkampanj för widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
