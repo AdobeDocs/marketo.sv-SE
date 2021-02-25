@@ -3,7 +3,7 @@ unique-page-id: 11382593
 description: Ställa in webbpersonalisering till Do Not Track - Marketo Docs - Produktdokumentation
 title: Ställa in webbanpassning till Spåra inte
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -34,4 +34,3 @@ I Webbpersonalisering och Predictive Content kan en marknadsförare ställa in e
    >Om du ställer in växeln på På kan det påverka Marketos värde och funktioner i specifika områden.
 
 1. Om du vill inaktivera inställningen Honor-DNT och ignorera webbläsarens DNT-inställning (Do No Track) väljer du **Av** under Honor-DNT.
-
