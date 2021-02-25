@@ -3,7 +3,7 @@ unique-page-id: 4720224
 description: Redigera områden - Marketo Docs - Produktdokumentation
 title: Redigera områden
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -28,4 +28,3 @@ Vill du ändra de regionala inställningarna för användare så att endast data
 >[!NOTE]
 >
 >Om du väljer USA öppnas alla alternativ för USA längst ned på sidan.
-
