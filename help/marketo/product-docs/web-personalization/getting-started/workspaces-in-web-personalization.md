@@ -3,9 +3,9 @@ unique-page-id: 17727499
 description: Workspaces in Web Personalization - Marketo Docs - produktdokumentation
 title: Arbetsytor för webbpersonalisering
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -35,5 +35,4 @@ Om du vill växla mellan arbetsytor i webbanpassning klickar du på ikonen i det
 
 >[!NOTE]
 >
->Användare kan bara se webbkampanjer och segment som är kopplade till de arbetsytor som de har tillgång till. Så här ger du en användare [åtkomst till en eller flera arbetsytor](../../../product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).
-
+>Användare kan bara se webbkampanjer och segment som är kopplade till de arbetsytor som de har tillgång till. Så här ger du en användare [åtkomst till en eller flera arbetsytor](/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).
