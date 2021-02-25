@@ -3,7 +3,7 @@ unique-page-id: 7504051
 description: Hantera persondata - Marketo Docs - Produktdokumentation
 title: Hantera persondata
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -15,10 +15,12 @@ ht-degree: 0%
 
 Utnyttja persondata för webbpersonalisering genom att markera personfält som ska användas i din segmentering.
 
-1. Gå till **Kontoinställningar**.\
+1. Gå till **Kontoinställningar**.
+
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. Gå till **Database**.\
+1. Gå till **Database**.
+
    ![](assets/account-settings-dropdown-database.jpg)
 
 ## Lägga till fältet Ny person {#adding-a-new-person-field}
@@ -29,11 +31,7 @@ Utnyttja persondata för webbpersonalisering genom att markera personfält som s
 
    >[!NOTE]
    >
-   >
-   >    
-   >    
-   >    * Ett nytt fält läggs till i ett väntande läge och kan ta upp till 24 timmar att aktivera.
-
+   >Ett nytt fält läggs till i ett väntande läge och kan ta upp till 24 timmar att aktivera.
 
 ## Tar bort ett personfält {#deleting-a-person-field}
 
@@ -45,13 +43,11 @@ Utnyttja persondata för webbpersonalisering genom att markera personfält som s
    >
    >**Hantera dina persondatafält**
    >
-   >    
-   >    
-   >    * Endast persondatafält kan inkluderas
-   >    * Du kan lägga till upp till 30 persondatafält
-   >    * Det kan ta upp till 24 timmar att aktivera nya fält
-   >    * Den maximala längden för strängtyper är 255 tecken
-   >    * Dolda fält tas bort automatiskt
+   >* Endast persondatafält kan inkluderas
+   >* Du kan lägga till upp till 30 persondatafält
+   >* Det kan ta upp till 24 timmar att aktivera nya fält
+   >* Den maximala längden för strängtyper är 255 tecken
+   >* Dolda fält tas bort automatiskt
 
 
 <table> 
@@ -108,9 +104,4 @@ Följande lead-fält finns tillgängliga för nya webbpersonaliseringskonton:
 
 >[!MORELIKETHIS]
 >
->* [Skapa ett segment med hjälp av kända persondata](create-a-segment-using-known-person-data.md)
-
->
-
-
-
+>[Skapa ett segment med hjälp av kända persondata](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)
