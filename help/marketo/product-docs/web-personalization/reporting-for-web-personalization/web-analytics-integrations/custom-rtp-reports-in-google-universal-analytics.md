@@ -3,9 +3,9 @@ unique-page-id: 7504218
 description: Anpassade RTP-rapporter i Google Universal Analytics - Marketo Docs - produktdokumentation
 title: Anpassade RTP-rapporter i Google Universal Analytics
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '386'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Integrera RTP med Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+>[Integrera RTP med Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
-I det här inlägget beskrivs hur du konfigurerar anpassade RTP-rapporter för Google Universal Analytics (GUA).  Data som skickas från RTP till GUA kan ställas in som två separata anpassade rapporter som kallas:
+I den här artikeln beskrivs hur du konfigurerar anpassade RTP-rapporter för Google Universal Analytics (GUA).  Data som skickas från RTP till GUA kan ställas in som två separata anpassade rapporter som kallas:
 
 * RTP B2B
 * RTP-engagemang
@@ -25,31 +25,32 @@ I det här inlägget beskrivs hur du konfigurerar anpassade RTP-rapporter för G
 ## Konfigurera en anpassad rapport {#setting-up-a-custom-report}
 
 1. Logga in på Google Analytics.
-1. Klicka på **Anpassning **i den övre menyn.
-1. Klicka på **+Ny anpassad rapport.**
 
-** ![](assets/image2015-3-22-16-3a10-3a48.png)
+1. Klicka på **Anpassning** på den översta menyn.
 
-**
+1. Klicka på **+Ny anpassad rapport**.
+
+![](assets/image2015-3-22-16-3a10-3a48.png)
 
 ## RTP B2B-rapport {#rtp-b-b-report}
 
 1. Namnge rapporten **RTP B2B-rapport**.
-1. Namnge den första fliken **Bransch **
 
-   1. (Obs! du **Duplicera den här fliken** och skapa ytterligare liknande - steg 5)
+1. Ge den första fliken namnet **Bransch**.
 
-1. Välj rapporttypen** Utforskaren**.\
-   ** ![](assets/image2015-3-22-16-3a15-3a25.png)
+>[!NOTE]
+>
+>Du kommer att **duplicera den här fliken** och skapa ytterligare liknande flikar - steg 5)
 
-   **
+1. Välj rapporttypen **Utforskaren**.
+
+   ![](assets/image2015-3-22-16-3a15-3a25.png)
 
 1. I avsnittet **Måttgrupper** väljer du de mått som är relevanta för ditt företag.
 
-   1. Vi rekommenderar följande:\
-      ** ![](assets/image2015-3-22-16-3a16-3a40.png)
+   a. Vi rekommenderar följande:
 
-      **
+   ![](assets/image2015-3-22-16-3a16-3a40.png)
 
 1. Duplicera den här fliken fyra gånger och namnge dem:
 
@@ -72,7 +73,7 @@ I det här inlägget beskrivs hur du konfigurerar anpassade RTP-rapporter för G
     </div></th> 
    <th> 
     <div>
-      Dimension - nedladdningar 
+      Dimension - nedladdningar
     </div></th> 
   </tr> 
  </thead> 
@@ -100,21 +101,28 @@ I det här inlägget beskrivs hur du konfigurerar anpassade RTP-rapporter för G
  </tbody> 
 </table>
 
-1. Ange inga filter och ange att den här rapporten ska vara tillgänglig för **Alla webbplatsdata ** (eller ändra om det är relevant för ett specifikt Analytics-konto).
-1. Klicka på **Spara**.\
+1. Ange inga filter och ställ in den här rapporten som tillgänglig för **Alla webbplatsdata** (eller ändra om det är relevant för det specifika Analytics-kontot).
+
+1. Klicka på **Spara**.
+
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
 ## RTP-engagemangsrapport {#rtp-engagement-report}
 
-1. Namnge rapporten **RTP Engagement Report.**
-1. Ange det första fliknamnet till **All Engagement**
+1. Namnge rapporten **RTP Engagement Report**.
 
-   1. (Obs! du kommer att duplicera den här fliken och skapa andra liknande - steg 5)
+1. Ange det första fliknamnet till **All Engagement**.
 
-1. Välj rapporttypen **Utforskaren**.\
+>[!NOTE]
+>
+>Du kommer att duplicera den här fliken och skapa andra liknande - steg 5)
+
+1. Välj rapporttypen **Utforskaren**.
+
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. I avsnittet Måttgrupper väljer du de mått som är relevanta för ditt företag. Här är en rekommendation:\
+1. I avsnittet Måttgrupper väljer du de mått som är relevanta för ditt företag. Här är en rekommendation:
+
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 
 1. Duplicera den här fliken fyra gånger och namnge dem:
@@ -125,7 +133,7 @@ I det här inlägget beskrivs hur du konfigurerar anpassade RTP-rapporter för G
    1. **Engagemang efter kategori**
    1. **Åtagande av ABM**
 
-   ** ![](assets/image2015-3-22-16-3a26-3a21.png)\**
+   ![](assets/image2015-3-22-16-3a26-3a21.png)
 
 1. I avsnittet **Dimension Drill downns** anger du de relevanta måtten för varje flik enligt nedan:
 
@@ -167,7 +175,6 @@ I det här inlägget beskrivs hur du konfigurerar anpassade RTP-rapporter för G
 </table>
 
 1. Ange följande filter:
-1. 
 
 <table> 
  <thead> 
@@ -212,7 +219,7 @@ I det här inlägget beskrivs hur du konfigurerar anpassade RTP-rapporter för G
  </tbody> 
 </table>
 
-1. Ange att den här rapporten ska vara tillgänglig för **Alla webbplatsdata **(eller ändra om det behövs)
+1. Ange att den här rapporten ska vara tillgänglig för **Alla webbplatsdata** (eller ändra om det behövs).
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
@@ -222,7 +229,6 @@ I det här inlägget beskrivs hur du konfigurerar anpassade RTP-rapporter för G
 
 >[!MORELIKETHIS]
 >
->[Integrera RTP med Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+>[Integrera RTP med Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 >
->[Anpassade RTP-instrumentpaneler i Google Universal Analytics](custom-rtp-dashboards-in-google-universal-analytics.md)
-
+>[Anpassade RTP-instrumentpaneler i Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-dashboards-in-google-universal-analytics.md)
