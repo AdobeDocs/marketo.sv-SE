@@ -3,7 +3,7 @@ unique-page-id: 4720236
 description: Skapa ett segment med hjälp av en kontolista - Marketo Docs - Produktdokumentation
 title: Skapa ett segment med hjälp av en kontolista
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Så här skapar du ett segment med hjälp av en kontolista.
 
 >[!PREREQUISITES]
 >
->* [Skapa en ny kontolista](../../../product-docs/account-based-marketing/target/account-lists.md)
-
->
-
-
+>[Skapa en ny kontolista](/help/marketo/product-docs/account-based-marketing/target/account-lists.md)
 
 1. Gå till **Segment**.
 
@@ -43,7 +39,8 @@ Så här skapar du ett segment med hjälp av en kontolista.
    >
    >Kontolistor synkroniseras från ABM till webbpersonalisering för användning i segmentering. Välj dem i listrutan. Synkroniseringen kan ta upp till fem minuter. Det synkroniseras bara om det finns ett eller flera namngivna konton i kontolistan.
 
-1. Klicka på **Spara** eller klicka på **Spara och definiera kampanj** för att gå till sidan Kampanjer.\
+1. Klicka på **Spara** eller klicka på **Spara och definiera kampanj** för att gå till sidan Kampanjer.
+
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
 Grattis! Du har nu konfigurerat ett segment med en kontolista som mål.
