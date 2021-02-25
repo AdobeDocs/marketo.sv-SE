@@ -3,9 +3,9 @@ unique-page-id: 13795536
 description: Skapa ett segment med hjälp av en statisk lista - Marketo Docs - Produktdokumentation
 title: Skapa ett segment med hjälp av en statisk lista
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Skapa ett segment med hjälp av en statisk lista {#create-a-segment-using-a-static-list}
 
-Segmentera kända webbbesökare när de besöker er webbplats baserat på om de befinner sig i eller inte i någon av era Marketo [statiska listor](https://docs.marketo.com/display/DOCS/Understanding+Static+Lists).
+Segmentera kända webbbesökare när de besöker er webbplats baserat på om de befinner sig i eller inte i någon av era Marketo [statiska listor](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md).
 
 1. Gå till **Segment**.
 
@@ -27,7 +27,7 @@ Segmentera kända webbbesökare när de besöker er webbplats baserat på om de 
 
    ![](assets/three.png)
 
-1. I Kända leads drar du **Statiska listor **över till arbetsytan.
+1. I Kända leads drar du **Statiska listor** till arbetsytan.
 
    ![](assets/four-2.png)
 
@@ -47,7 +47,6 @@ Segmentera kända webbbesökare när de besöker er webbplats baserat på om de 
    >
    >Och/eller listrutan är just det. Klicka för att välja **och**, **eller** eller **och/eller**.
 
-1. Klicka på **Spara** om du vill spara segmentet eller **Spara och definiera kampanj **om du vill spara och gå till sidan Kampanjer.
+1. Klicka på **Spara** för att spara segmentet eller **Spara och definiera kampanj** för att spara och gå till sidan Campaign.
 
    ![](assets/eight-1.png)
-
