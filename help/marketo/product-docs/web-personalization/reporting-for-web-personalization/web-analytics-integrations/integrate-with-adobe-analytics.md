@@ -3,7 +3,7 @@ unique-page-id: 2949160
 description: Integrera med Adobe Analytics - Marketo Docs - produktdokumentation
 title: Integrera med Adobe Analytics
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '1130'
 ht-degree: 0%
@@ -64,40 +64,40 @@ Gör så här för att konfigurera dessa variabler i AA:
 
 1. Gå till **Admin Tools** i ditt AA-konto.
 1. Välj **Report Suite** som ska användas med integreringen.
-1. Under **Redigera inställningar,** går du till **Konvertering** och väljer ** [Konverteringsvariabler](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
+1. Under **Redigera inställningar** går du till **Konvertering** och väljer **[Konverteringsvariabler](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
    Välj [Konverteringsvariabel](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) (vi rekommenderar):
 
-   1. 
+   1. Evar # 20 for Industry Custom Conversions
+   1. Evar # 21 for Organization Custom Conversions
 
-      1. Evar # 20 for Industry Custom Conversions
-      1. Evar # 21 for Organization Custom Conversions
+   >[!NOTE]
+   >
+   >Välj ett annat tillgängligt nummer om du väljer #. Justera det här numret mot platsnumret i RTP-kontoinställningarna.
 
-         >[!NOTE]
-         >
-         >Välj ett annat tillgängligt nummer om du väljer #. Justera det här numret mot platsnumret i RTP-kontoinställningarna.
+   1. Ändra status till _Aktiverad_.
 
-      1. Ändra status till* aktiverat*
+      1. Ändra namn till **Bransch** och **Organisation**. (Så här kommer det att se ut i Report Suite.)
 
-         1. Ändra namn till **Bransch** och **Organisation**. (Så här kommer det att se ut i Report Suite.)
+      1. Ändra fältet Förfaller efter till **Besök**.
 
-         1. Ändra fältet Förfaller efter till **Besök.**
 
-1. Under **Redigera inställningar **går du till** Konvertering **och väljer ** [Slutförda händelser](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
+1. Under **Redigera inställningar** går du till **Konvertering** och väljer **[Slutförda händelser](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
 
-1. Välj ett anpassat händelsenummer för lyckade händelser (vi rekommenderar):
+   1. Välj ett anpassat händelsenummer för lyckade händelser (vi rekommenderar):
 
-   1. event20 för RTP-kampanjer
-   1. event21 för RTP-segment
+      1. event20 för RTP-kampanjer
+      1. event21 för RTP-segment
 
       >[!NOTE]
       >
       >Välj ett annat tillgängligt nummer om du väljer #. Justera det här numret mot platsnumret i RTP-kontoinställningarna.
 
-   1. Ändra de två händelsenamnen till **RTP-kampanjer** och **RTP-segment**. Det här namnet visas i rapportsviten.
+      1. Ändra de två händelsenamnen till **RTP-kampanjer** och **RTP-segment**. Det här namnet visas i rapportsviten.
+   1. Välj det textfält som ska vara **Räknare (inga underrelationer)**
 
-1. Välj fältet Typ* *som **Räknare (inga underrelationer)**
 
-1. Under **Redigera inställningar** går du till ** [Trafik](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **och väljer ** [Trafikvariabler](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
+
+1. Under **Redigera inställningar** går du till **[Trafik](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)** och väljer **[Trafikvariabler](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
 
    1. Välj egenskapsnumret för trafikvariabeln (vi rekommenderar):
 
@@ -106,13 +106,16 @@ Gör så här för att konfigurera dessa variabler i AA:
       1. Egenskap nr 25 - Namn: Kampanjorganisation
       1. Egenskap nr 26 - Namn: RTP Campaign Industry
 
-         >[!NOTE]
-         >
-         >Välj ett annat tillgängligt nummer om du väljer #. Justera det här numret mot platsnumret i RTP-kontoinställningarna)
+      >[!NOTE]
+      >
+      >Välj ett annat tillgängligt nummer om du väljer #. Justera det här numret mot platsnumret i RTP-kontoinställningarna)
 
       1. Ändra egenskapsnamnen för 4. Det här namnet visas i rapportsviten.
-   1. Välj Aktiverat fält till **Aktiverat**
-   1. Välj fältet Sökvägsrapporter till **Aktiverad**
+   1. Välj Aktiverat fält till **Aktiverat**.
+
+   1. Välj fältet Sökvägsrapporter till **Aktiverad**.
+
+
 
 
 ## Konfigurera i Marketo Real-Time Personalization (RTP) {#set-up-in-marketo-real-time-personalization-rtp}
@@ -123,9 +126,9 @@ Gör så här för att konfigurera dessa variabler i AA:
 
 1. Klicka på **Domän** under **Kontoinställningar**.
 1. Klicka på&#x200B;**** Adobe Analytics **under** Analytics.
-1. Aktivera **På **Variabeln Konvertering, Anpassad och Trafik växlar.
+1. Aktivera variabeln Conversion, Custom och Traffic på **den**.
 1. Tilldela konversion-, händelse- och trafikvariablerna **platsnummer** så att de matchar platsnumren som skapas i AA
-1. Klicka på **SPARA**.
+1. Klicka på **Spara**.
 
 ![](assets/image2014-11-29-12-3a24-3a42.png)
 
@@ -169,13 +172,11 @@ Exempel på anpassade rapporter och kontrollpaneler i AA är:
 * Visa sidor per organisation
 * Marknadsföringskanalernas prestanda enligt Organisation, Bransch, Segment
 
-**Exempel på rapporter**
+**-Report Examples-**
 
 **Top Industries Report**
 
-** ![](assets/top-industries-report.png)
-
-**
+![](assets/top-industries-report.png)
 
 **Organisationsrapport**
 
@@ -185,39 +186,47 @@ Exempel på anpassade rapporter och kontrollpaneler i AA är:
 
 Skapa en [ny instrumentpanel](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html) med namnet **RTP-instrumentpanel**. Den här instrumentpanelen hjälper dig att förstå hur besökarna delas upp efter vertikala linjer och RTP-segment.
 
-1. Klicka på **Kontrollpanel,** klicka** Lägg till kontrollpanel**
+1. Klicka på **Kontrollpanel,** klicka på **Lägg till kontrollpanel**.
 
-1. Namnge instrumentpanelen **RTP-instrumentpanelen**
-1. Välj storleken **på kontrollpanelen** 3 x 2, 2 x 2
-1. Skapa [rapportleten](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) och lägg till [innehåll på kontrollpanelen](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard)
+1. Namnge instrumentpanelen **RTP Dashboard**.
+
+1. Välj storleken **på kontrollpanelen** 3 x 2, 2 x 2.
+
+1. Skapa [rapportleten](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) och lägg till [innehåll på kontrollpanelen](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard).
 
 Lägga till branschrapporten på kontrollpanelen
 
-1. Gå till **Anpassade konverteringar**, klicka på **Bransch**
+1. Gå till **Anpassade konverteringar**, klicka på **Bransch**.
 
-1. Konfigurera diagrammet till **cirkeldiagram**
-1. Klicka på **Dashboard**, lägg till **Report**
+1. Konfigurera diagrammet till **cirkeldiagram**.
 
-1. Namnge rapporten **Top Industries**
-1. Placera i instrumentpanelen **RTP-instrumentpanel**
+1. Klicka på **Dashboard**, lägg till **Report**.
+
+1. Namnge rapporten **Top Industries**.
+
+1. Placera i Dashboard **RTP Dashboard**.
+
 1. Skapa **Nytt**.
 
 Lägga till segmentrapporten på kontrollpanelen
 
-1. Gå till **Webbplatsstatistik, **Klicka på **Anpassade händelser, segment**
+1. Gå till **Webbplatsmått**. Klicka på **Egna händelser**, **segment**.
 
-1. Konfigurera diagrammet till **Lodrätt fält**
-1. Klicka på **Dashboard**, lägg till **Report**
+1. Konfigurera diagrammet till **Lodrätt fält**.
 
-1. Namnge rapporten **Top Segments**
-1. Placera i instrumentpanelen **RTP-instrumentpanel**
-1. Skapa **Nytt.**
+1. Klicka på **Dashboard**, lägg till **Report**.
+
+1. Namnge rapporten **Överkantsegment**.
+
+1. Placera i Dashboard **RTP Dashboard**.
+
+1. Skapa **Nytt**.
 
 Dina rapporter visas på kontrollpanelen.
 
 ## Visa Impressions and Clicks (Conversions) i Adobe Analytics {#view-impressions-and-clicks-conversions-in-adobe-analytics}
 
-1. Klicka på Egna länkar.
+1. Klicka på **Anpassade länkar**.
 
    ![](assets/sitecatalyst1-1.png)
 
@@ -227,4 +236,3 @@ Dina rapporter visas på kontrollpanelen.
 1. Sök efter konvertering om du vill visa segment- och kampanjnamn som representerar antalet klick för kampanjen.
 
    ![](assets/sitecatalyst2.png)
-
