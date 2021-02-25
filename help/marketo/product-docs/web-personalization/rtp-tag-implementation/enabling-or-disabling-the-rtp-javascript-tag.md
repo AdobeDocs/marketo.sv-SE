@@ -3,7 +3,7 @@ unique-page-id: 10097163
 description: Aktivera eller inaktivera JavaScript-taggen RTP - Marketo Docs - Produktdokumentation
 title: Aktivera eller inaktivera JavaScript-taggen RTP
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -34,4 +34,3 @@ JavaScript-taggen RTP styr om webbpersonalisering ska spåra webbaktivitet eller
 1. Om du vill aktivera RTP-taggen väljer du alternativet **On** under Tagg i Domän- och Domänkonfiguration.
 
    Enkelt.
-
