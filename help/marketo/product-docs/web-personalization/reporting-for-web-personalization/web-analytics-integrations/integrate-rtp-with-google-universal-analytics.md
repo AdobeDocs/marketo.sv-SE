@@ -3,9 +3,9 @@ unique-page-id: 4720125
 description: Integrera RTP med Google Universal Analytics - Marketo Docs - produktdokumentation
 title: Integrera RTP med Google Universal Analytics
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
@@ -25,18 +25,15 @@ Google Universal Analytics med RTP:s data ger er en bättre förståelse för hu
 
 >[!NOTE]
 >
->**`For Google Tag Manager Users Only`**
+>**Endast för Google Tag Manager-användare**
 >
 >Ingen kodning eller specialkonfiguration behöver göras. Se till att du slutför följande checklista:
 >
->* `RTP dimensions are created in Google Universal Analytics`
+>* RTP-dimensioner skapas i Google Universal Analytics
 >* [RTP-taggen har installerats korrekt i Google Tag Manager](https://docs.marketo.com/display/public/DOCS/Implementing+RTP+using+Google+Tag+Manager)
->* `Google Universal Analytics Integration is enabled in the RTP's Account Settings`
+>* Integrering med Google Universal Analytics är aktiverat i RTP:s kontoinställningar
 >* [Google Universal Analytics-taggen är korrekt konfigurerad i Google Tag Manager](https://support.google.com/tagmanager/answer/6107124?hl=en)
 >* [Google Tag Manager-taggen är korrekt installerad på webbplatsen](https://developers.google.com/tag-manager/quickstart)
-
->
-
 
 
 ## Konfigurera anpassade Dimensioner i GUA {#set-up-custom-dimensions-in-gua}
@@ -46,8 +43,7 @@ Google Universal Analytics med RTP:s data ger er en bättre förståelse för hu
    1. Gå till **Admin**
    1. Välj **konto.**
    1. Välj **egenskapen.**
-   1. Välj **Anpassade definitioner **och **Anpassade Dimensioner.**
-
+   1. Välj **Anpassade definitioner** och **Anpassade Dimensioner**.
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. Lägg till en ny anpassad dimension. Klicka på **+Ny anpassad Dimension**
@@ -90,7 +86,7 @@ Google Universal Analytics med RTP:s data ger er en bättre förståelse för hu
 >
 >**Anpassade** namn på Dimensioner måste vara exakt som de definieras i tabellen ovan (annars visas inte anpassade RTP-instrumentpaneler och rapporter i GUA korrekt)
 
-1. Lägg till **Name. **Välj scope som **session.** Klicka på  **Skapa.**
+1. Lägg till **namnet**. Välj scope som **session**. Klicka på **Skapa**.
 
    ![](assets/image2014-11-29-11-3a12-3a51.png)
 
@@ -106,8 +102,8 @@ När du har aktiverat anpassade Dimensioner i GUA går du till RTP-plattformen f
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
-1. Klicka på **Domän under** Kontoinställningar **.**
-1. Under **Analytics, **click **Google Universal Analytics**.
+1. Klicka på **Domän** under **Kontoinställningar**.
+1. Klicka på **Google Universal Analytics** under **Analytics**.
 1. Vrid **På** de relevanta anpassade Dimensionerna och händelserna för att lägga till dessa data från RTP till Google Universal Analytics.
 1. Ange **indexnumret** för dimensionen justerad mot indexnumret i GUA.
 1. Klicka på **Spara**.
@@ -124,8 +120,7 @@ När du har aktiverat anpassade Dimensioner i GUA går du till RTP-plattformen f
 
 1. I Google Analytics. Gå till **rapportering.**
 1. Klicka på **instrumentpaneler.**
-1. Välj en **Dashboard **(RTP B2B- eller RTP-prestanda)
+1. Välj en **instrumentpanel** (RTP B2B- eller RTP-prestanda)
 1. Klicka på **Ta bort instrumentpanel**.
 
 ![](assets/image2014-11-29-11-3a42-3a55.png)
-
