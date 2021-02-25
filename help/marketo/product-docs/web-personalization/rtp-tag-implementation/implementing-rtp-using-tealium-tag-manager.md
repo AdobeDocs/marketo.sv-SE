@@ -3,7 +3,7 @@ unique-page-id: 9437340
 description: Implementera RTP med Tealium Tag Manager - Marketo Docs - Produktdokumentation
 title: Implementera RTP med Tealium Tag Manager
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
@@ -16,8 +16,11 @@ ht-degree: 0%
 Följ installationsanvisningarna nedan för att implementera RTP-taggen.
 
 1. Logga in på ditt Tealium Tag Manager-konto.
+
 1. Gå till fliken Taggar och lägg till taggen för anpassad behållare för team, som finns på fliken Övrigt på Marketplace.
+
 1. I fältet Titel anger du **Marketo RTP** och klickar på **Slutför**.
+
 1. Spara ändringarna.
 
    >[!NOTE]
@@ -25,9 +28,13 @@ Följ installationsanvisningarna nedan för att implementera RTP-taggen.
    >Du behöver inte publicera den nya behållaren än.
 
 1. När profilen har sparats klickar du på ditt namn/din e-postadress i det övre högra hörnet av Tealium iQ-konsolen.
+
 1. Klicka på **Hantera mallar** under Kontoadministratör på Admin-menyn.
+
 1. Välj **Anpassad tealiumbehållare: Marketo RTP** från listrutan för att öppna taggmallen.
+
 1. Logga in på ditt RTP-konto.
+
 1. Gå till Kontoinställningar.
 
    >[!NOTE]
@@ -35,6 +42,7 @@ Följ installationsanvisningarna nedan för att implementera RTP-taggen.
    >Om du redan har fått din JavaScript-tagg från Support fortsätter du till steg 11.
 
 1. Under Domän letar du reda på den relevanta domänen och klickar på **Generera tagg**.
+
 1. Kopiera RTP JavaScript-taggen och klistra in den mellan Start Tag Library Code och End Tag Library Code i Tealium Profile Template.
 
    >[!NOTE]
@@ -46,4 +54,3 @@ Följ installationsanvisningarna nedan för att implementera RTP-taggen.
    >Ta bort alla `<script type='text/javascript'>`- och `</script>`-taggar från koden som du monterar i den här filen.
 
 1. **Klicka på Spara** profilmall och publicera den nya profilen.
-
