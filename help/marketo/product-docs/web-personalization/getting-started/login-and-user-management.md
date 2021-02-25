@@ -3,9 +3,9 @@ unique-page-id: 7513771
 description: Inloggning och användarhantering - Marketo Docs - Produktdokumentation
 title: Inloggning och användarhantering
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -31,13 +31,13 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. Ange ett rollnamn och välj Behörigheter. Klicka på **Skapa** (den här rollen måste [gälla för alla arbetsytor](https://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)).
+1. Ange ett rollnamn och välj Behörigheter. Klicka på **Skapa** (den här rollen måste [gälla för alla arbetsytor](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md)).
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >Om du vill ge användarna behörighet att komma åt allt i Mål och personalisering måste du markera *alla* kryssrutorna.
+   >Om du vill ge användarna behörighet att komma åt allt i Mål och personalisering måste du markera _alla_ kryssrutorna.
 
 ## Webbpersonalisering och användarbehörigheter för prediktivt innehåll {#web-personalization-and-predictive-content-user-permissions}
 
