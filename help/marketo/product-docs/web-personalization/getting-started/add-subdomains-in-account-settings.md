@@ -3,9 +3,9 @@ unique-page-id: 17727870
 description: Lägg till underdomäner i Kontoinställningar - Marketo Docs - Produktdokumentation
 title: Lägg till underdomäner i kontoinställningar
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -37,5 +37,4 @@ Så här lägger du till underdomäner i dina primära domäner i Kontoinställn
 
    >[!NOTE]
    >
-   >Om du vill lägga till *primära* domäner för ditt konto kontaktar du [Marketo Support](https://docs.marketo.com/cdn-cgi/l/email-protection#5e2d2b2e2e312c2a1e333f2c353b2a31703d3133).
-
+   >Om du vill lägga till _primära_ domäner för ditt konto kontaktar du [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
