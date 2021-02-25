@@ -3,7 +3,7 @@ unique-page-id: 3571927
 description: Webbpersonaliseringsordlista - Marketo Docs - Produktdokumentation
 title: Ordlista för webbpersonalisering
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Några insikter om världen och språket i Marketo Web Personalization.
 | **ISP** | Internetleverantör |
 | **Känd besökare** | En webbbesökare som har fyllt i ett formulär och lämnat sina uppgifter (e-postadress) på webbplatsen eller klickat på en länk i ett Marketo-e-postmeddelande. |
 | **Kontolista** | En lista med nyckelkonton/organisationsnamn. Kallas även kontobaserad marknadsföring (ABM). |
-| **Segment** | En samling besökare som uppfyller de angivna villkoren som definieras på sidan [&quot;Ställ in ett segment&quot;](../../../product-docs/web-personalization/using-web-segments/web-segments.md). |
+| **Segment** | En samling besökare som uppfyller de angivna villkoren som definieras på sidan [&quot;Ställ in ett segment&quot;](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md). |
 | **Delad testning** | Ett testexperiment med två eller flera varianter för att mäta skillnaden i resultat. Målet är att identifiera förändringar på webbsidor som ökar eller maximerar ett intressant resultat. |
 | **Jokertecken** | Ett jokertecken (*) används före eller efter en sträng för att ersätta andra tecken i en sträng. Se exemplen nedan. |
 
@@ -42,4 +42,3 @@ Matcha alla besökare på sidadresser som börjar med https:// (t.ex. [https://w
 Matcha alla besökare på sid-URL:er som innehåller ordet backup (t.ex. [https://www.marketo.com/backup/pricing.html):](https://www.marketo.com/backup/pricing.html):)
 
 ![](assets/wildcard-example-3.png)
-
