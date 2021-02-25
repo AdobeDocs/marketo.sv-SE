@@ -3,7 +3,7 @@ unique-page-id: 3571900
 description: Webbpersonalisering - översikt - Marketo Docs - Produktdokumentation
 title: Webbpersonalisering - översikt
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '833'
 ht-degree: 0%
@@ -15,34 +15,34 @@ ht-degree: 0%
 
 ## Introduktion {#introduction}
 
-För nya marknadsföringskunder delas personalisering i realtid in i fyra appar som nås via dessa två paneler: Webbanpassning och innehåll`<sup>AI</sup>`.
+För nya marknadsföringskunder delas personalisering i realtid in i fyra appar som nås via dessa två paneler: Webbpersonalisering och ContentAI.
 
 ![](assets/pasted-image-at-2016-03-23-02-45-pm.png) ![](assets/mlm-homepage-content-ai-281-29.png)
 
 >[!NOTE]
 >
->Webbanpassning och innehåll`<sup>AI</sup>` finns på alla språk som stöds av Marketo (engelska, franska, tyska, japanska, portugisiska, spanska).
+>Webbpersonalisering och ContentAI finns på alla språk som stöds av Marketo (engelska, franska, tyska, japanska, portugisiska, spanska).
 
 Befintliga kunder har fortsatt åtkomst till apparna via panelen för anpassning i realtid tills de förnyas, och då kommer de att använda inloggningen ovan.
 
 ![](assets/image2016-2-9-8-3a52-3a32.png)
 
-När du klickar på panelen Webbanpassning visas sidan Kontrollpanel. Klicka på rutan Innehåll`<sup>AI</sup>` och gå direkt till Recommendations-sidan Innehåll.
+När du klickar på panelen Webbanpassning visas sidan Kontrollpanel. Klicka på ContentAI-rutan och gå direkt till Recommendations-sidan Content.
 
 De fyra programmen är:
 
 * Webbanpassning
 * Kontobaserad webbmarknadsföring
 * Återmarknadsföring av webbplatser
-* Innehåll`<sup>AI</sup>`
+* ContentAI
 
-Webbpersonalisering **plattan** är din åtkomstpunkt för att** **skapa personaliserade webbkampanjer.** **Kontobaserad webbmarknadsföring och återmarknadsföring på webben. Du kan lägga till innehåll på sidan Innehållsanalys.
+Platsen **Webbpersonalisering** är din åtkomstpunkt för att skapa personaliserade webbkampanjer. Kontobaserad webbmarknadsföring och återmarknadsföring på webben. Du kan lägga till innehåll på sidan Innehållsanalys.
 
 **Kontobaserad webbmarknadsföring fungerar** med webbanpassning och har namngivna konton. Sidan Namngivna konton innehåller grafisk information om befintliga kunder, det totala engagemanget och organisationstrender samt en lista över kontona. Du kan även skapa nya namngivna konton där.
 
 **Med** omdirigering av webbplatser kan ni marknadsföra till segmenterade målgrupper. Du kan ange segment, men inte använda namngivna konton i filtret.
 
-**Innehåll`<sup>AI</sup>`** är den plats där innehållsrekommendationer ska ges. Du kan enkelt lägga till innehåll på Recommendations-sidan Innehåll.
+**** ContentAI är platsen där innehållsrekommendationer ska ges. Du kan enkelt lägga till innehåll på Recommendations-sidan Innehåll.
 
 >[!NOTE]
 >
@@ -61,9 +61,6 @@ På fliken Organisationer visas all information (namn, plats, aktivitet och tids
 >* Mest aktiva: de mest aktiva organisationerna i tabellen, baserat på antalet sidvisningar
 >* Senaste: de senaste organisationerna i tabellen (standard)
 >* Om du vill ha värdefulla insikter kan du filtrera enligt de mest aktiva
-
->
-
 
 
 **Organisationer - högerpanel**
@@ -115,7 +112,7 @@ Den högra panelen på sidan Besökare ger följande insikter:
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Ange kampanj</strong></td> 
-   <td colspan="1" rowspan="1">Gör att du kan ställa in en CTA för kampanj som är associerad med den valda besökaren</td> 
+   <td colspan="1" rowspan="1">Gör att du kan ställa in en kampanjCTA som är associerad med den valda besökaren</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Plats</strong></td> 
@@ -172,4 +169,3 @@ Realtidssidan delas upp i sex informativa tabeller över besöksinformation på 
   </tr> 
  </tbody> 
 </table>
-
