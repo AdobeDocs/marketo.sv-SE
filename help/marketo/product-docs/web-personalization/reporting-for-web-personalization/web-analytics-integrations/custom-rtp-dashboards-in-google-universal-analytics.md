@@ -3,9 +3,9 @@ unique-page-id: 7504238
 description: Anpassade RTP-instrumentpaneler i Google Universal Analytics - Marketo Docs - Produktdokumentation
 title: Anpassade RTP-instrumentpaneler i Google Universal Analytics
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '748'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,23 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Integrera RTP med Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+>[Integrera RTP med Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
-I det här inlägget beskrivs hur du konfigurerar RTP-instrumentpaneler i Google Universal Analytics (GUA).  Data som skickas från RTP till GUA kan konfigureras som två separata anpassade kontrollpaneler som kallas:
+I det här inlägget beskrivs hur du konfigurerar RTP-instrumentpaneler i Google Universal Analytics (GUA). Data som skickas från RTP till GUA kan konfigureras som två separata anpassade kontrollpaneler som kallas:
 
 * RTP B2B
 * RTP-engagemang
 
 ## Konfigurera en anpassad kontrollpanel {#setting-up-a-custom-dashboard}
 
-1. Logga in på Google Analytics. Klicka på **Reporting **på den översta menyn. Klicka på **Kontrollpaneler **och **+Ny anpassad kontrollpanel.**
+1. Logga in på Google Analytics. Klicka på **Rapportering** på den översta menyn. Klicka på **Kontrollpaneler** och **+Ny anpassad kontrollpanel**.
 
    ![](assets/image2015-3-22-16-3a41-3a29.png)
 
 1. Välj **Tom arbetsyta**, lägg till ett **instrumentpanelsnamn** och klicka på **Skapa instrumentpanel**.
 
-1. Klicka på **Lägg till widget** för att skapa en ny widget.\
+1. Klicka på **Lägg till widget** för att skapa en ny widget.
+
    ![](assets/image2015-3-22-16-3a46-3a48.png)
 
 ## RTP B2B-instrumentpanel {#rtp-b-b-dashboard}
@@ -45,7 +46,7 @@ Kontrollpanelen består av tre kolumner
 * Segmentering
 * Firmografisk detaljnivå
 
-1. Skapa en ny instrumentpanel med namnet **RTP B2B Dashboard **och definiera följande widgetar:
+1. Skapa en ny instrumentpanel med namnet **RTP B2B Dashboard** och definiera följande widgetar:
 
 ![](assets/image2015-3-22-16-3a50-3a3.png)
 
@@ -54,7 +55,7 @@ Kontrollpanelen består av tre kolumner
   <tr> 
    <th> 
     <div>
-      Kolumn 1 - Trafikkällor 
+      Kolumn 1 - Trafikkällor
     </div></th> 
    <th> 
     <div> <strong>Kolumn 2 - Segmentering</strong> 
@@ -151,11 +152,9 @@ Kontrollpanelen består av tre kolumner
 
 På den här kontrollpanelen kan användare analysera sina RTP-kampanjer och rekommendationer. Den ger en jämförelse av genomskinlighet. sessionens längd och antal sidor per session mellan:
 
-* 
-
-   * Olåst
-   * Engagerade (visningar och klickningar på en personaliserad kampanj)
-   * Klicka på rekommendationsmotorn och det rekommenderade innehållet
+* Olåst
+* Engagerade (visningar och klickningar på en personaliserad kampanj)
+* Klicka på rekommendationsmotorn och det rekommenderade innehållet
 
 Skapa en ny instrumentpanel med namnet **RTP Engagement Dashboard** och definiera följande widgetar:
 
@@ -265,7 +264,6 @@ Skapa en ny instrumentpanel med namnet **RTP Engagement Dashboard** och definier
 
 >[!MORELIKETHIS]
 >
->[Integrera RTP med Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+>[Integrera RTP med Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
 >
->[Anpassade RTP-rapporter i Google Universal Analytics](custom-rtp-reports-in-google-universal-analytics.md)
-
+>[Anpassade RTP-rapporter i Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
