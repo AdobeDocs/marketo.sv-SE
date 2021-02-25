@@ -3,9 +3,9 @@ unique-page-id: 4719332
 description: Distribuera RTP JavaScript - Marketo Docs - Produktdokumentation
 title: Distribuera RTP JavaScript
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Följ installationsanvisningarna nedan för att skapa och konfigurera RTP-taggen
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. I **Domän** och **Domänkonfiguration** letar du reda på den relevanta domänen och klickar på **Generera tagg.**
+1. I **Domän** och **Domänkonfiguration** letar du reda på den relevanta domänen och klickar på **Generera tagg**.
 
    ![](assets/image2014-12-1-23-3a5-3a35.png)
 
@@ -42,8 +42,3 @@ Följ installationsanvisningarna nedan för att skapa och konfigurera RTP-taggen
    Du är nu konfigurerad med RTP-taggen och redo att börja [skapa segment](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) och realtidskampanjer!
 
 1. Kontrollera att taggen finns på alla sidor.
-
->[!MORELIKETHIS]
->
->* [Implementering av RTP-tagg](https://docs.marketo.com/display/docs/rtp+tag+implementation)
-
