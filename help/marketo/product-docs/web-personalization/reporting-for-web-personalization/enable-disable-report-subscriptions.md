@@ -3,7 +3,7 @@ unique-page-id: 2949162
 description: Aktivera/inaktivera rapportprenumerationer - Marketo Docs - Produktdokumentation
 title: Aktivera/inaktivera rapportprenumerationer
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
@@ -24,4 +24,3 @@ Webbpersonalisering har flera användbara rapporter som skickas via e-post. Så 
    ![](assets/email-settings.png)
 
    Så ja! Avmarkera och klicka på **Spara** om du vill avbryta prenumerationen på rapporten.
-
