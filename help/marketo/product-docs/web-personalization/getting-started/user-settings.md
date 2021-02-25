@@ -3,7 +3,7 @@ unique-page-id: 4719336
 description: Användarinställningar - Marketo Docs - Produktdokumentation
 title: Användarinställningar
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Användarprofil / Lösenord / Tidszoner {#user-profile-passwords-time-zones}
 
-1. Klicka på ditt namn och välj **Användarinställningar.**
+1. Klicka på ditt namn och välj **Användarinställningar**.
 
    ![](assets/one.png)
 
@@ -27,15 +27,13 @@ ht-degree: 0%
 
    På sidan Användarinställningar kan du:
 
-   * 
-
-      * Ändra din e-postadress
-      * Lägg till personlig information (för- och efternamn, mobilnummer och tidszon)
-      * Välj det antal rader som du vill exportera när du exporterar tabeller på plattformen. Se fält: &quot;Max antal rader i Excel-export (max 10 000)&quot;
-      * Välj mobilaviseringar för en ny person eller bevakningslista för mobilprogrammet
-      * Justera inställningar för personlig region genom att klicka på **Redigera områden**.
-      * Ändra ditt lösenord
-      * Välj e-postrapportens meddelandeinställningar för e-postrapporter om organisationer, personer, kampanjer och tillgångsprestanda
+   * Ändra din e-postadress
+   * Lägg till personlig information (för- och efternamn, mobilnummer och tidszon)
+   * Välj det antal rader som du vill exportera när du exporterar tabeller på plattformen. Se fält: &quot;Max antal rader i Excel-export (max 10 000)&quot;
+   * Välj mobilaviseringar för en ny person eller bevakningslista för mobilprogrammet
+   * Justera inställningar för personlig region genom att klicka på **Redigera områden**.
+   * Ändra ditt lösenord
+   * Välj e-postrapportens meddelandeinställningar för e-postrapporter om organisationer, personer, kampanjer och tillgångsprestanda
 
    Klicka på **Spara** när du har gjort några ändringar.
 
@@ -45,7 +43,7 @@ ht-degree: 0%
 
 ## Välj e-postrapporter {#select-email-reports}
 
-Välj vilken [e-postrapport](../../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) som ska kopplas till användaren och hur ofta (varje dag, varje vecka eller varje kvartal) rapporten ska skickas.
+Välj vilken [e-postrapport](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) som ska kopplas till användaren och hur ofta (varje dag, varje vecka eller varje kvartal) rapporten ska skickas.
 
 ![](assets/three.png)
 
@@ -55,9 +53,4 @@ Välj vilken [e-postrapport](../../../product-docs/web-personalization/reporting
 
 >[!MORELIKETHIS]
 >
->* [Redigera områden](edit-regions.md)
-
->
-
-
-
+>[Redigera områden](/help/marketo/product-docs/web-personalization/getting-started/edit-regions.md)
