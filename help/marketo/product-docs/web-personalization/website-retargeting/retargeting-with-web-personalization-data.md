@@ -3,9 +3,9 @@ unique-page-id: 4720796
 description: Återannonsering med webbpersonaliseringsdata - Marketo Docs - Produktdokumentation
 title: Återannonsering med webbpersonaliseringsdata
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,14 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->
 >Omdirigering av webbplatser ingår nu i panelen Webbanpassning. Om du bara har köpt återmarknadsföring visas den här rutan och du får tillgång till produkten för webbanpassning med **endast** återmarknadsföringsfunktioner aktiverade. Detta ger dig tillgång till kontoinställningar, sidan Återmarknadsföring, segment och ytterligare spårningssidor.
 
 Återmarknadsföring riktar sig till potentiella kunder som tidigare har besökt er webbplats med webbannonsering baserat på vem de är och vad de gjorde. Personaliserad återmarknadsföring riktar sig till specifika målgrupper med relevanta annonser baserade på bransch, namngivna konton och kända persondata.
 
 Webbpersonalisering lägger för närvarande till data på följande återmarknadsföringsplattformar:
 
-* [Google](personalized-remarketing-in-google.md)
-* [Facebook](personalized-remarketing-in-facebook.md)
+* [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
+* [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
 
 Webbpersonalisering skickar följande data till återmarknadsföringsplattformarna för att skapa målgrupper och köra återmarknadsföringskampanjer:
 
@@ -69,12 +68,11 @@ Webbpersonalisering skickar följande data till återmarknadsföringsplattformar
    >
    >Google Retargeting Tag måste implementeras på din webbplats.
    >
-   >
    >Om du redan har konfigurerat integreringen med Webbanpassning och Google Analytics behöver du inte redigera den här delen eftersom den är samma konfiguration under Kontoinställningar.
 
    ![](assets/two.png)
 
-1. Aktivera konfigurationen för Facebook. Klicka på och expandera Facebook-dragspelet, klicka på **On **för att skicka respektive händelse och data till Facebook Audience Manager. Klicka på **Spara**.
+1. Aktivera konfigurationen för Facebook. Klicka på och expandera Facebook-dragspelet och klicka på **On** för att skicka respektive händelse och data till Facebook Audience Manager. Klicka på **Spara**.
 
    >[!NOTE]
    >
@@ -98,12 +96,6 @@ Med en segmenterad publik kan ni välja ett befintligt segment som målgrupp fö
 
    ![](assets/image2015-1-15-16-3a40-3a17.png)
 
-1. Klicka på **SPARA**.
+1. Klicka på **Spara**.
 
    Du har nu slutfört konfigurationen av återmarknadsföring i webbpersonalisering, loggat in på era återmarknadsföringsplattformar och skapat era målgrupper baserat på dessa data och ställt in era återannonskampanjer.
-
->[!MORELIKETHIS]
->
->* [Personaliserad marknadsföring i Google](personalized-remarketing-in-google.md)
->* [Personaliserad marknadsföring på Facebook](personalized-remarketing-in-facebook.md)
-
