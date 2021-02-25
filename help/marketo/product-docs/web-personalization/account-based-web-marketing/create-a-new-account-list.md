@@ -3,9 +3,9 @@ unique-page-id: 4720232
 description: Skapa en ny kontolista - Marketo Docs - Produktdokumentation
 title: Skapa en ny kontolista
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,6 @@ Skapa och överför en lista över organisations- och domännamn för att rikta 
    >
    >**Vilket format har CSV-filen?**
    >
-   >
    >Kontrollera att CSV-filen för det namngivna kontot uppfyller följande krav:
    >
    >* Sparat som CSV-format
@@ -50,8 +49,6 @@ Skapa och överför en lista över organisations- och domännamn för att rikta 
 
    >[!NOTE]
    >
-   >**Exempel**
-   >
    >**Exempel på CSV-fil**
    >
    >* Rad 1 kolumn A värde = Organisation
@@ -62,16 +59,16 @@ Skapa och överför en lista över organisations- och domännamn för att rikta 
    >* Land och stat är valfria värden.
 
       >
-      >  
-   * Använd det fullständiga landsnamnet eller förkortningskoden för landsnamnet. Exempel: USA eller USA.
-   >  * För delstat i USA använder du förkortningskoden med två bokstäver, dvs. CA. Endast delstater i USA känns igen.
+      >   
+      * Använd det fullständiga landsnamnet eller förkortningskoden för landsnamnet. Exempel: USA eller USA.
+      >   * För delstat i USA använder du förkortningskoden med två bokstäver, dvs. CA. Endast delstater i USA känns igen.
 
-   >    
+   >
    >![](assets/image2015-2-25-12-3a19-3a10.png)
 
 ## Redigera en kontolista {#edit-an-account-list}
 
-På sidan **Kontolistor** klickar du på ikonen **Redigera **i listan.
+På sidan **Kontolistor** klickar du på ikonen **Redigera** i listan.
 
 ![](assets/create-new-account-list-edit.jpg)
 
@@ -83,7 +80,7 @@ CSV-filen ersätter den befintliga filen. Den befintliga listan förblir aktiv t
 
 ## Ta bort en namngiven kontolista {#delete-a-named-account-list}
 
-1. På sidan **Kontolistor **klickar du på ikonen **Ta bort **i listan som du vill ta bort.
+1. På sidan **Kontolistor** klickar du på ikonen Ta bort för den lista du vill ta bort.
 
    ![](assets/create-new-account-list-delete.jpg)
 
@@ -93,6 +90,4 @@ CSV-filen ersätter den befintliga filen. Den befintliga listan förblir aktiv t
 
 >[!MORELIKETHIS]
 >
->* [Skapa ett segment med hjälp av en kontolista](create-a-segment-using-an-account-list.md)
->* [Visa en lista med namngivna konton](https://docs.marketo.com/pages/viewpage.action?pageid=4720244)
-
+>[Skapa ett segment med hjälp av en kontolista](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
