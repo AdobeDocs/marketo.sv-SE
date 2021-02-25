@@ -3,9 +3,9 @@ unique-page-id: 2949158
 description: Integrera RTP med Google Analytics - Marketo Docs - Produktdokumentation
 title: Integrera RTP med Google Analytics
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '608'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 >
 >
-Se hur du kan integrera [webbpersonalisering med Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+Se hur du kan integrera [webbpersonalisering med Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
 ## Introduktion {#introduction}
 
@@ -66,19 +66,23 @@ Mät era RTP-kampanjer och korrelera dem med det övergripande genomsnittliga an
 
 ## Konfigurera RTP med Google Analytics {#setting-up-rtp-with-google-analytics}
 
-1. Lägg till e-postadressen [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b) som en Läs och analysera-användare till ditt GA-konto. Mer information finns i [här](https://support.google.com/analytics/answer/2884495?hl=en).
+1. Lägg till e-postadressen rtp.ga2@gmail.com som en Läs och analysera-användare på ditt GA-konto. Mer information finns i [här](https://support.google.com/analytics/answer/2884495?hl=en).
+
 1. I ditt RTP-konto. Gå till **Kontoinställningar**.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
-1. Under **Kontoinställningar**, **Domän** och **Analytics**
-1. Klicka på** Google Analytics.**
+1. Under **Kontoinställningar**, **Domän** och **Analytics**.
+
+1. Klicka på **Google Analytics**.
+
 1. Aktivera relevanta **anpassade variabler** och **händelser** för att lägga till data från RTP till Google Analytics.
+
 1. Ange **kortplatsen** för att skicka anpassade variabeldata (standard är 1,2).
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
-Klicka på **SPARA**.
+1. Klicka på **Spara**.
 
 >[!NOTE]
 >
