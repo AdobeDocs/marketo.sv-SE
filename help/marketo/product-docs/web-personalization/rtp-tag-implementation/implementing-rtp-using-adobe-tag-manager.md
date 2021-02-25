@@ -3,9 +3,9 @@ unique-page-id: 4720218
 description: Implementera RTP med Adobe Tag Manager - Marketo Docs - produktdokumentation
 title: Implementera RTP med Adobe Tag Manager
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,10 @@ ht-degree: 0%
 Följ installationsanvisningarna nedan för att implementera RTP-taggen:
 
 1. Logga in på ditt RTP-konto.
-1. Gå till **Kontoinställningar.**
 
-   Om du redan har fått din JavaScript-tagg från Support fortsätter du till steg 4.
+1. Gå till **Kontoinställningar**.
+
+   a. Om du redan har fått din JavaScript-tagg från Support fortsätter du till steg 4.
 
    ![](assets/image2014-11-30-15-3a19-3a21-4.png)
 
@@ -27,11 +28,12 @@ Följ installationsanvisningarna nedan för att implementera RTP-taggen:
    ![](assets/image2014-11-30-15-3a20-3a17-4.png)
 
 1. Logga in på ditt Dynamic Tag Manager-konto ([https://dtm.adobe.com/sign_in](https://dtm.adobe.com/sign_in)).
+
 1. Gå till **Kontrollpanelen.** Klicka på den relevanta webbegenskapen.
 
    ![](assets/image2014-12-3-17-3a58-3a17.png)
 
-1. Gå till **Regler,** klicka på **Skapa ny regel.**
+1. Gå till **Regler**, klicka på **Skapa ny regel**.
 
 1. Fyll i följande
 
@@ -42,6 +44,7 @@ Följ installationsanvisningarna nedan för att implementera RTP-taggen:
    ![](assets/image2014-12-3-17-3a59-3a40.png)
 
 1. Anropa den nya taggen: **Marketo RTP-tagg**
+
 1. Ta bort följande kod från RTP-taggen
 
    * `<script type='text/javascript'>`
@@ -63,4 +66,4 @@ Följ installationsanvisningarna nedan för att implementera RTP-taggen:
 
 1. **Kontrollera** att den visas på alla sidor, inklusive landningssidor och underdomäner.
 
-   Du kan göra det genom att högerklicka på webbplatsens sidor. Gå till **Inspect Element**, klicka på **Nätverk, **Sök: **RTP**.
+   Du kan göra det genom att högerklicka på webbplatsens sidor. Gå till **Inspect Element**, klicka på **Nätverk**, Sök: **RTP**.
