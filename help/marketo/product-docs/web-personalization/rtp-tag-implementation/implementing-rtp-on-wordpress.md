@@ -3,9 +3,9 @@ unique-page-id: 4720149
 description: Implementera RTP i Wordpress - Marketo Docs - produktdokumentation
 title: Implementera RTP i Wordpress
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,10 @@ Följ installationsanvisningarna nedan för att implementera RTP-taggen:
    ![](assets/image2014-11-30-15-3a35-3a30.png)
 
 1. I listan med mallfiler till höger om textredigeraren söker du efter **header.php** och öppnar den.
-1. Gå till **Kontoinställningar.**
 
-   Om du redan har fått din JavaScript-tagg från Support fortsätter du till steg 5.
+1. Gå till **Kontoinställningar**.
+
+   a. Om du redan har fått din JavaScript-tagg från Support fortsätter du till steg 5.
 
    ![](assets/image2014-11-30-15-3a19-3a21-1.png)
 
@@ -34,11 +35,12 @@ Följ installationsanvisningarna nedan för att implementera RTP-taggen:
 
 1. Kopiera JavaScript-taggen RTP och klistra in den i webbplatsmallarna.
 
-   Kontrollera att det är det första skriptet i sidhuvudet - mellan **`<head> </head>`**-taggarna.
+   a. Kontrollera att det är det första skriptet i sidhuvudet - mellan **`<head> </head>`**-taggarna.
 
    ![](assets/image2014-11-30-15-3a36-3a31.png)
 
 1. Klicka på **Uppdatera fil** för header.php-filen.
-1. Kontrollera att den visas på alla `pages including` landningssidor och underdomäner.
 
-   Du kan göra detta genom att högerklicka på sidan `website’s`. Gå till **Visa sidkälla.** Sök efter  **** RTP för att hitta taggen.
+1. Kontrollera att den visas på alla sidor, inklusive landningssidor och underdomäner.
+
+   a. Du kan göra detta genom att högerklicka på webbplatsens sida. Gå till **Visa sidkälla.** Sök efter  **** RTP för att hitta taggen.
