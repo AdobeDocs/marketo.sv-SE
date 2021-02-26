@@ -3,9 +3,9 @@ unique-page-id: 10095554
 description: Bädda in ett formulär i en webbkampanj - Marketo Docs - produktdokumentation
 title: Bädda in ett formulär i en webbkampanj
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Se hur du kan bädda in ett Marketo-formulär i en webbkampanj (Dialog, In Zone 
 
 1. Högerklicka på ett godkänt formulär. Välj **Bädda in kod**.
 
-   ** ![](assets/image2015-12-16-10-3a58-3a39.png)
-
-   **
+   ![](assets/image2015-12-16-10-3a58-3a39.png)
 
 1. Kopiera koden.
 
@@ -31,9 +29,7 @@ Se hur du kan bädda in ett Marketo-formulär i en webbkampanj (Dialog, In Zone 
 
 1. Klicka på **Skapa ny kampanj**.
 
-   ** ![](assets/create-new-web-campaign-hand-1.jpg)
-
-   **
+   ![](assets/create-new-web-campaign-hand-1.jpg)
 
 1. Klicka på HTML-ikonen i RTF-redigeraren.
 
@@ -44,6 +40,7 @@ Se hur du kan bädda in ett Marketo-formulär i en webbkampanj (Dialog, In Zone 
    ![](assets/six-1.png)
 
 1. Formuläret visas inte i redigeringsvyn, men du kan förhandsgranska det för att se hur det kommer att visas i en kampanj.
+
 1. Klicka på **Starta** för att starta kampanjen.
 
    >[!NOTE]
@@ -58,7 +55,7 @@ Om du vill lägga till en bakgrundsbild i formuläret kan du:
 * Ändra dialogrute- eller widgetfärger i Ange kampanj
 * Lägg till CSS-kod i skriptet
 
-Mer information om hur du redigerar CSS för ett formulärtema finns i [den här artikeln](../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
+Mer information om hur du redigerar CSS för ett formulärtema finns i [den här artikeln](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
 Så här ändrar du dialogrute- eller widgetfärger i Ange kampanj:
 
@@ -86,11 +83,7 @@ Så här lägger du till CSS-kod i skriptet:
 
 >[!MORELIKETHIS]
 >
->* [Redigera CSS för ett formulärtema](https://docs.marketo.com/display/public/DOCS/Edit+the+CSS+of+a+Form+Theme)
+>* [Redigera CSS för ett formulärtema](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [Visa tackmeddelande utan en uppföljningsstartsida](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
 >* [Forms 2.0](https://developers.marketo.com/documentation/websites/forms-2-0/)
-
->
-
-
 
