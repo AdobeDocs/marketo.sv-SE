@@ -3,9 +3,9 @@ unique-page-id: 10092925
 description: Förhandsgranska och testa en webbkampanj - Marketo Docs - Produktdokumentation
 title: Förhandsgranska och testa en webbkampanj
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ I den här artikeln visas olika sätt att förhandsgranska en webbkampanj och ä
 
 ## Förhandsgranska en webbkampanj på sidan Skapa {#preview-a-web-campaign-on-the-creation-page}
 
-1. Gå till **Webben** **Kampanjer**.
+1. Gå till **Webbkampanjer**.
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
-1. Klicka på** Skapa ny webbkampanj**** **eller ikonen för att redigera en befintlig kampanj.
+1. Klicka på **Skapa ny webbkampanj** eller ikonen om du vill redigera en befintlig kampanj.
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
@@ -35,11 +35,12 @@ I den här artikeln visas olika sätt att förhandsgranska en webbkampanj och ä
 
    >[!NOTE]
    >
-   >Du kan också installera ett webbläsarplugin-program (antingen [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) eller [Firefox](https://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)) för att få den bästa upplevelsen när du förhandsgranskar kampanjen. Se avsnittet nedan.
+   >Du kan också installera ett webbläsarplugin-program (antingen [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) eller [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) för att få den bästa upplevelsen när du förhandsgranskar kampanjen. Se avsnittet nedan.
 
 ## Förhandsgranska en webbkampanj på sidan Skapa med plugin-programmet för webbläsare {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
-1. Följ steg 1 och 2 från `section above`.
+1. Följ steg 1 och 2 i avsnittet ovan.
+
 1. Klicka på länken till webbläsarplugin-programmet (i det här fallet använder vi Chrome).
 
    ![](assets/4-1.png)
@@ -81,7 +82,8 @@ Skapa ett sandlådesegment och en kampanj.
    ![](assets/image2015-9-10-10-3a42-3a39.png)
 
 1. Namnge segmentet.
-1. Under Beteende drar du Inkludera sidor till arbetsytan. Lägg till värdet *sandbox=1*. Klicka på Spara och definiera kampanj.
+
+1. Under Beteende drar du Inkludera sidor till arbetsytan. Lägg till värdet *sandbox=1*. Klicka på **Spara och definiera kampanj**.
 
    ![](assets/segment.png)
 
@@ -89,10 +91,12 @@ Skapa ett sandlådesegment och en kampanj.
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
-1. Slutför kampanjkreativiteten och klicka på **Starta**.\
+1. Slutför kampanjkreativiteten och klicka på **Starta**.
+
    ![](assets/click-launch.jpg)
 
-1. Gå till webbplatsen och lägg till URL-parametern&quot;?sandbox=1&quot; i slutet av URL:en. Exempel: [www.marketo.com?sandbox=1](https://www.marketo.com/?sandbox=1)
+1. Gå till webbplatsen och lägg till URL-parametern&quot;?sandbox=1&quot; i slutet av URL:en. Exempel: `www.marketo.com?sandbox=1`.
+
 1. Se kampanjens respons på er webbplats.
 
 >[!NOTE]
@@ -101,5 +105,4 @@ Skapa ett sandlådesegment och en kampanj.
 
 >[!NOTE]
 >
->Omdirigeringskampanjer kan inte förhandsgranskas. Det enda sättet att testa dem är att använda ett sandlådesegment (som har specifika sidor som mål - *sandbox=redirect*)
-
+>Omdirigeringskampanjer kan inte förhandsgranskas. Det enda sättet att testa dem är genom att använda ett sandlådesegment (som har specifika sidor som mål - *sandbox=redirect*)
