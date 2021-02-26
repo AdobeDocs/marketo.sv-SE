@@ -3,7 +3,7 @@ unique-page-id: 2949154
 description: Märk era webbkampanjer - Marketo Docs - Produktdokumentation
 title: Märka webbkampanjer
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Har ni så många kampanjer att rullningen blir krånglig? Använd etiketter fö
 
    >[!NOTE]
    >
-   >Använd filterfunktionen [](filter-web-campaigns.md) för att göra det enklare att hitta kampanjen du vill ha.
+   >Använd filterfunktionen [](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md) för att göra det enklare att hitta kampanjen du vill ha.
 
 1. Välj de kampanjer du vill tagga med en etikett.
 
@@ -31,11 +31,11 @@ Har ni så många kampanjer att rullningen blir krånglig? Använd etiketter fö
 
 1. Ange önskat etikettnamn och klicka på Skapa ny.
 
->[!TIP]
->
->Om etiketten redan finns markerar du den och skapar inte en ny.
+   >[!TIP]
+   >
+   >Om etiketten redan finns markerar du den och skapar inte en ny.
 
-![](assets/web-campaigns-set-label.jpg)
+   ![](assets/web-campaigns-set-label.jpg)
 
 Häftig! Nu vet ni hur ni skapar etiketter och tilldelar dem till kampanjer.
 
@@ -51,9 +51,4 @@ Häftig! Nu vet ni hur ni skapar etiketter och tilldelar dem till kampanjer.
 
 >[!MORELIKETHIS]
 >
->* [Märk ](create-a-new-in-zone-web-campaign.md) [upp ett segment](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
-
->
-
-
-
+>[Märk upp ett segment](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
