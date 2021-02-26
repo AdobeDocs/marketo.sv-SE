@@ -3,9 +3,9 @@ unique-page-id: 4719402
 description: Skapa en ny webbkampanj för widget - Marketo Docs - Produktdokumentation
 title: Skapa en ny webbkampanj för widget
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '642'
+source-wordcount: '632'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Skapa en ny webbkampanj för widget {#create-a-new-widget-web-campaign}
 
-En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment och kan vara en [dialogruta](create-a-new-dialog-web-campaign.md) på din webbplats, en [zonersättning](create-a-new-in-zone-web-campaign.md), en widgetfunktion eller en e-postavisering. Widgetens webbkampanj är en text eller en banderoll som visas på den lodräta sidan av webbsidan med möjlighet att expandera och dra samman, samtidigt som den är fast på webbplatsens sida under hela besöket.
+En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment och kan vara en [dialogruta](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) på din webbplats, en [zonersättning](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), en widgetfunktion eller en e-postavisering. Widgetens webbkampanj är en text eller en banderoll som visas på den lodräta sidan av webbsidan med möjlighet att expandera och dra samman, samtidigt som den är fast på webbplatsens sida under hela besöket.
 
 ## Skapa en webbkampanj för widget {#create-a-widget-web-campaign}
 
@@ -33,9 +33,9 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment o
 
    ![](assets/4.png)
 
-1. Klicka på **Förhandsgranska **för att se hur webbkampanjen kommer att reagera på webbplatsen.
+1. Klicka på **Förhandsgranska** för att se hur webbkampanjen kommer att reagera på din webbplats.
 
-![](assets/preview.png)
+   ![](assets/preview.png)
 
 <table> 
  <thead> 
@@ -51,7 +51,7 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment o
   </tr> 
   <tr> 
    <td colspan="1"><strong>Visa på</strong></td> 
-   <td colspan="1">Gör att du kan <a href="https://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">anpassa när och hur</a> webbkampanjen visas.</td> 
+   <td colspan="1">Gör att du kan <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">anpassa när och hur</a> webbkampanjen visas.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Animera in/ut</strong></td> 
@@ -95,7 +95,7 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment o
 
 >[!NOTE]
 >
->**Vill du A/B-testa webbkampanjer?** En eller flera webbkampanjer kan  [A/B-testas för optimala resultat](ab-test-your-web-campaign.md). Med funktionen Automatisk justering känner plattformen automatiskt igen de kampanjer som presterar bättre, fortsätter med de mest konverterande kampanjerna och pausar de andra.
+>**Vill du A/B-testa webbkampanjer?** En eller flera webbkampanjer kan  [A/B-testas för optimala resultat](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Med funktionen Automatisk justering känner plattformen automatiskt igen de kampanjer som presterar bättre, fortsätter med de mest konverterande kampanjerna och pausar de andra.
 
 ## Redigera en webbkampanj {#edit-a-web-campaign}
 
@@ -105,11 +105,11 @@ På sidan Webbkampanjer klickar du på **Redigera** i Campaign.
 
 >[!NOTE]
 >
->Använd filterfunktionen [](filter-web-campaigns.md) för att göra det enklare att hitta kampanjen du vill ha.
+>Använd filterfunktionen [](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md) för att göra det enklare att hitta kampanjen du vill ha.
 
 ## Klona en webbkampanj {#clone-a-web-campaign}
 
-Se [Klona en webbkampanj](clone-a-web-campaign.md).
+Se [Klona en webbkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
 
 ## Förhandsgranska en webbkampanj {#preview-a-web-campaign}
 
@@ -119,7 +119,7 @@ Klicka på **Förhandsgranska** på webbkampanjen som du vill förhandsgranska p
 
 ## Ta bort en webbkampanj {#delete-a-web-campaign}
 
-1. Klicka på **Ta bort **på webbkampanjen som du vill ta bort på sidan Webbkampanjer.
+1. Klicka på **Ta bort** på webbkampanjen som du vill ta bort på sidan Webbkampanjer.
 
    ![](assets/widget-campaign-delete-hand.png)
 
@@ -127,6 +127,6 @@ Klicka på **Förhandsgranska** på webbkampanjen som du vill förhandsgranska p
 
 >[!MORELIKETHIS]
 >
->* [Skapa en ny webbkampanj i zonen](create-a-new-in-zone-web-campaign.md)
->* [Skapa en ny webbkampanj för dialog](create-a-new-dialog-web-campaign.md)
+>* [Skapa en ny webbkampanj i zonen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Skapa en ny webbkampanj för dialog](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 
