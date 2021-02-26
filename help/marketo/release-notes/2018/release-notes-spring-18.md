@@ -3,9 +3,9 @@ unique-page-id: 14745959
 description: Versionsinformation -Spring '18 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - våren 18
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion
 
 ## Marketo Sky Open Beta {#marketo-sky-open-beta}
 
-[Marketo Sky Open Beta](https://help.marketo.com/hc/en-us)
+[Marketo Sky Open Beta](https://help.marketo.com/)
 
 Gå med i den öppna betaversionen av Marketo Skyn och få tillgång till över 100 nya produktivitetshöjande funktioner, bland annat:
 
@@ -69,11 +69,11 @@ Dela enkelt dina snabbdiagram med andra Performance Insights-användare.
 
 Optimerad navigering och förbättrade arbetsflöden ger er insyn i kriterier för att lyckas med programmet och tillgång till programinformation.
 
-## Innehåll<sup>AI</sup> {#contentai}
+## ContentAI {#contentai}
 
 [Målinställning](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 
-Ange målet för optimeringsalgoritmen för innehåll<sup>AI</sup> om du vill skapa fler vyer, klick eller konverteringar.
+Ange målet för optimeringsalgoritmen ContentAI för att få fler vyer, klick eller konverteringar.
 
 ## Integrering och API:er {#integration-and-apis}
 
