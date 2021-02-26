@@ -3,9 +3,9 @@ unique-page-id: 4719400
 description: Skapa en ny webbkampanj i zonen - Marketo Docs - Produktdokumentation
 title: Skapa en ny webbkampanj i zonen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: '693'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Skapa en ny webbkampanj i zonen {#create-a-new-in-zone-web-campaign}
 
-En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment och kan vara en [dialogruta](create-a-new-dialog-web-campaign.md) på din webbplats, en in zone-ersättning, en [widgetfunktion](create-a-new-widget-web-campaign.md) eller en e-postavisering. En In Zone-webbkampanj ersätter ett element på din webbplats baserat på Zone-id med innehåll eller grafiska banners.
+En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment och kan vara en [dialogruta](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) på din webbplats, en in zone-ersättning, en [widgetfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) eller en e-postavisering. En In Zone-webbkampanj ersätter ett element på din webbplats baserat på Zone-id med innehåll eller grafiska banners.
 
 ## Skapa en webbkampanj i zonen {#create-an-in-zone-web-campaign}
 
@@ -31,14 +31,9 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment o
 
    >[!NOTE]
    >
-   >**Definition**
-   >
-   >
    >**Vad är ett zon-ID?**
    >
-   >
    >Ett zon-ID är där du vill att webbkampanjen In Zone ska placeras på plats. Om du vill hitta ett &quot;zon-ID&quot; går du till webbplatsen och väljer det område som du vill ersätta med en webbkampanj och högerklickar. I Chrome är alternativet&quot;Inspect Element&quot;, vilket kan variera i andra webbläsare.
-   >
    >
    >Sedan söker du efter det ID som är kopplat till det här avsnittet på webbplatsen, som är markerat eftersom du undersöker elementet. Om du t.ex. högerklickar i Chrome i den markerade texten `<div id="featured-slider">` är &quot;featured-slider&quot; det som du bör skriva i &quot;zone id&quot;-avsnittet. Vanligtvis används &quot;div id&quot;, men alla ID:n kan också användas, till exempel h1 id, p id osv.
 
@@ -68,7 +63,7 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment o
   </tr> 
   <tr> 
    <td colspan="1"><strong> RTF-redigerare  </strong></td> 
-   <td colspan="1">Med RTF-redigeraren kan du formatera, länka och infoga bilder. <a href="using-the-web-personalization-rich-text-editor.md">Läs mer här</a> .</td> 
+   <td colspan="1">Med RTF-redigeraren kan du formatera, länka och infoga bilder. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">Läs mer här</a> .</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong> Förhandsgranska på plats   </strong></td> 
@@ -85,11 +80,11 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment o
 
 >[!TIP]
 >
->Snabba upp och förenkla framtagningen av kampanjer genom att använda våra [inbyggda mallar](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) eller genom att [spara din befintliga kampanj](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) som en mall för återanvändning.
+>Snabba upp och förenkla framtagningen av kampanjer genom att använda våra [inbyggda mallar](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) eller genom att [spara din befintliga kampanj](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) som en mall för återanvändning.
 
 >[!NOTE]
 >
->**Vill du testa webbkampanjer?** En eller flera webbkampanjer kan  [A/B-testas för optimala resultat](ab-test-your-web-campaign.md). Med funktionen Automatisk justering känner plattformen automatiskt igen de kampanjer som presterar bättre, fortsätter med de mest konverterande kampanjerna och pausar de andra.
+>**Vill du testa webbkampanjer?** En eller flera webbkampanjer kan  [A/B-testas för optimala resultat](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Med funktionen Automatisk justering känner plattformen automatiskt igen de kampanjer som presterar bättre, fortsätter med de mest konverterande kampanjerna och pausar de andra.
 
 ## Redigera en webbkampanj {#edit-a-web-campaign}
 
@@ -99,21 +94,21 @@ På sidan **Webbkampanjer** klickar du på **Redigera** i Campaign.
 
 >[!NOTE]
 >
->Använd filterfunktionen [](filter-web-campaigns.md) för att göra det enklare att hitta kampanjen du vill ha.
+>Använd filterfunktionen [](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md) för att göra det enklare att hitta kampanjen du vill ha.
 
 ## Förhandsgranska en webbkampanj {#preview-a-web-campaign}
 
-1. Klicka på **Preview **på webbkampanjen som du vill visa på webbkampanjsidan.
+1. Klicka på **Förhandsgranska** på webbkampanjen som du vill visa på sidan Webbkampanjer.
 
    ![](assets/in-zone-web-campaign-preview.png)
 
 ## Klona en webbkampanj {#clone-a-web-campaign}
 
-Se [Klona en webbkampanj](clone-a-web-campaign.md).
+Se [Klona en webbkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
 
 ## Ta bort en webbkampanj {#delete-a-web-campaign}
 
-1. Klicka på **Delete **på den kampanj du vill ta bort på webbkampanjsidan.
+1. Klicka på **Ta bort** på den kampanj du vill ta bort på sidan Webbkampanjer.
 
    ![](assets/in-zone-web-campaign-delete.png)
 
@@ -121,6 +116,6 @@ Se [Klona en webbkampanj](clone-a-web-campaign.md).
 
 >[!MORELIKETHIS]
 >
->* [Skapa en ny webbkampanj för widget](create-a-new-widget-web-campaign.md)
->* [Skapa en ny webbkampanj för dialog](create-a-new-dialog-web-campaign.md)
+>* [Skapa en ny webbkampanj för widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [Skapa en ny webbkampanj för dialog](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 
