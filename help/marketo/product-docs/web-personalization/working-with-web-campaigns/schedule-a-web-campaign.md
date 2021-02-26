@@ -3,7 +3,7 @@ unique-page-id: 10097100
 description: Boka en webbkampanj - Marketo Docs - Produktdokumentation
 title: Schemalägg en webbkampanj
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Du kan schemalägga webbkampanjen baserat på besökarens tid eller en vald tids
 
    >[!NOTE]
    >
-   >Använd filterfunktionen [](filter-web-campaigns.md) för att göra det enklare att hitta kampanjen du vill ha.
+   >Använd filterfunktionen [](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md) för att göra det enklare att hitta kampanjen du vill ha.
 
 1. Öppna menyn Campaign Status och välj **Schedule**.
 
@@ -59,11 +59,10 @@ Du kan schemalägga webbkampanjen baserat på besökarens tid eller en vald tids
 
    ![](assets/image2016-1-14-8-3a27-3a55.png)
 
-1. Statusen för kampanjen på kampanjsidan ändras till **Schemalagd **och klockan/kalenderikonen visas. Klicka på den här ikonen om du vill redigera kampanjschemat.
+1. Statusen för kampanjen på kampanjsidan ändras till **Schemalagd** och klockan/kalenderikonen visas. Klicka på den här ikonen om du vill redigera kampanjschemat.
 
    ![](assets/image2016-1-14-8-3a27-3a32.png)
 
    >[!NOTE]
    >
    >Kampanjstatusen förblir **Schemalagd** även när kampanjen körs under de valda schemalagda tiderna. När ett schemalagt slutdatum har passerat ändras kampanjstatusen till **Pausad**.
-
