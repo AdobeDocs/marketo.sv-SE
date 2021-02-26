@@ -3,9 +3,9 @@ unique-page-id: 4719406
 description: Starta/pausa en webbkampanj - Marketo Docs - Produktdokumentation
 title: Starta/pausa en webbkampanj
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Starta/pausa en webbkampanj {#launch-pause-a-web-campaign}
 
-En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment och kan vara en [dialogruta](create-a-new-dialog-web-campaign.md) på din webbplats, en [zonersättning](create-a-new-in-zone-web-campaign.md), en widgetfunktion eller en e-postavisering.
+En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment och kan vara en [dialogruta](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) på din webbplats, en [zonersättning](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), en widgetfunktion eller en e-postavisering.
 
 Du kan starta eller pausa en webbkampanj på två sätt från sidan Webbkampanjer eller sidan Ange webbkampanjer.
 
@@ -25,7 +25,7 @@ Du kan starta eller pausa en webbkampanj på två sätt från sidan Webbkampanje
 
    ![](assets/two-1.png)
 
-1. Om kampanjen startas klickar du på **Starta** för att ändra kampanjens status till **Pausad, **för att pausa kampanjen.
+1. Om kampanjen startas klickar du på **Starta** för att ändra kampanjens status till **Pausad** för att pausa kampanjen.
 
    ![](assets/image2014-11-26-17-3a26-3a38.png)
 
@@ -47,11 +47,7 @@ Du kan starta eller pausa en webbkampanj på två sätt från sidan Webbkampanje
 
 >[!MORELIKETHIS]
 >
->* [Skapa en ny webbkampanj för dialog](create-a-new-dialog-web-campaign.md)
->* [Skapa en ny webbkampanj i zonen](create-a-new-in-zone-web-campaign.md)
->* [Skapa en webbkampanj för widget](create-a-new-widget-web-campaign.md)
-
->
-
-
+>* [Skapa en dialogkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Skapa en RTP i zonkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Skapa en RTP-widgetkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
