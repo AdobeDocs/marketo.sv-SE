@@ -3,7 +3,7 @@ unique-page-id: 15695939
 description: Versionsinformation -höst '18 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - höst 18
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '850'
 ht-degree: 0%
@@ -74,7 +74,7 @@ Mer information och uppdateringar finns i [Sky Release Notes](https://help.marke
 
    * Kunder kan nu logga in på Bizible-webbprogrammet med företagets identitetsleverantör och autentiseringsuppgifter, som uppfyller företagets säkerhetskrav.
 
-**[Marketo Performance Insights Förbättringar](../../product-docs/reporting/performance-insights/performance-insights-overview.md)**
+**[Marketo Performance Insights Förbättringar](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
 
 * **Användbarhetsförbättringar**
 
@@ -88,7 +88,7 @@ Mer information och uppdateringar finns i [Sky Release Notes](https://help.marke
 
 ## Annonsnätverk {#ad-networks}
 
-**[Uppdatera token](../../product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
+**[Uppdatera token](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
 
 Vi har implementerat en uppdateringstoken i våra lösningar för återannonsering och LinkedIn Lead Gen Form som förlänger åtkomsttiden till ett år innan omautentisering krävs.
 
