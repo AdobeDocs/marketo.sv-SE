@@ -3,9 +3,9 @@ unique-page-id: 18874822
 description: Versionsinformation -juni 19 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -juni 19
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '651'
 ht-degree: 0%
 
 ---
@@ -15,14 +15,14 @@ ht-degree: 0%
 
 Följande funktioner finns i juniversionen 19. Se om din Marketo-utgåva har funktioner tillgängliga.
 
-***Kvartalsvisa releaser***
+**_Kvartalsvisa releaser_**
 
 Följande funktioner släpptes 14 juni 2019.
 
 ## Marketo Core Services {#marketo-core-services}
 
 * **Kontrollsumma för** gruppextrahering: Kontrollera att en fullständig fil har hämtats genom att jämföra filens hash med kontrollsummesträngen för de slutförda extraheringsjobben.
-* **Automatisk migrering från e-post 1.0 till e-post 2.0:** e-post 2.0 är helt kompatibelt med e-post 1.0 och mallar. Dra nytta av nya funktioner som möjligheten att gruppera innehållselement (bilder, text osv.) i moduler, definiera variabler som String, Color, Image, etc. i mallar och utnyttja fullt responsiva startmallar. Innehåller även en visuell väljare för e-postmallar.
+* **Automatisk migrering från e-post 1.0 till e-post 2.0**: Email 2.0 är helt kompatibelt med e-post 1.0 och mallar. Dra nytta av nya funktioner som möjligheten att gruppera innehållselement (bilder, text osv.) i moduler, definiera variabler som String, Color, Image, etc. i mallar och utnyttja fullt responsiva startmallar. Innehåller även en visuell väljare för e-postmallar.
 
 >[!CAUTION]
 >
@@ -30,11 +30,11 @@ Följande funktioner släpptes 14 juni 2019.
 
 ## Kontobaserad marknadsföring {#account-based-marketing}
 
-* **Matchning`<sup>BETA</sup>`**  av LinkedIn-konto: Det finns nu en ny ABM-funktion i betaversionen som gör att du kan skicka listor med kända konton och konton med tomt utrymme direkt från Marketo till LinkedIn. Den här funktionen ingår automatiskt för alla Marketo ABM-kunder.
+* **Matchning av LinkedIn-konto (BETA)** : Det finns nu en ny ABM-funktion i betaversionen som gör att du kan skicka listor med kända konton och konton med tomt utrymme direkt från Marketo till LinkedIn. Den här funktionen ingår automatiskt för alla Marketo ABM-kunder.
 
 <br> 
 
-***Frigör under hela kvartalet***
+**_Frigör under hela kvartalet_**
 
 Följande funktioner förväntas släppas under det andra kalenderkvartalet och i början av det tredje kvartalet 2019.
 
@@ -47,13 +47,13 @@ Följande funktioner förväntas släppas under det andra kalenderkvartalet och 
 
 * **Fullständiga navigeringslänkar**: Vi har aktiverat navigering till alla behöriga program, som Hootsuite, Calendar med flera.
 * **E-post, landningssida, kodfragment, formulär-, bild- och fillistvyer**: Visa, sök och utför massåtgärder på allt material i Design Studio.
-* **Information om bild, fil och kodfragment**: Få snabb information om dina resurser med metadata som  *skapas vid/* vid och åtgärder som  ** att ta bort och  *godkänna*.
+* **Information om bild, fil och kodfragment**: Få snabb information om dina resurser med metadata som  _skapas vid/_ vid och åtgärder som  __ att ta bort och  _godkänna_.
 * **Widgeten** Community-blogginlägg: Tillgång till nyligen gjorda inlägg från gemenskapen på My Marketo.
 * **Förfaller snart widget**: Lägg till widgeten&quot;Förfallodatum snart&quot; på instrumentpanelen för Min markering för att se vilka kampanjer och landningssidor som ska förfalla härnäst.
 * **Fler smarta listkort**: Segmentera och målinrikta på rätt sätt med ytterligare smarta listkort, inklusive flödessteget&quot;Skapa uppgift&quot;, smarta CRM-listregler med mera.
 * **E-postkampanj/kundinformationssida**: Se data som vinnande kriterier, skapade på osv. från e-postkampanjen/utmanartesterna.
 
-Marketo Sales Connect
+## Marketo Sales Connect {#marketo-sales-connect}
 
 * **Massåtgärder i Salesforce-anpassning**: Maximera produktiviteten genom att skicka e-postmeddelanden och lägga till kontakter till kampanjer i grupp med Salesforce-anpassning.
 * **Markera, dra och släpp**: Ordna enkelt din Sales Connect-instans med möjlighet att dra och släppa mallar i intuitiva kategorier.
