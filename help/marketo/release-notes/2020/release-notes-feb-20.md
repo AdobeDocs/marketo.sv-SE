@@ -3,7 +3,7 @@ unique-page-id: 37355826
 description: Versionsinformation -feb '20 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -feb '20
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -17,29 +17,27 @@ Följande funktioner finns i utgåvan från 20 februari. Se om din Marketo-utgå
 
 >[!AVAILABILITY]
 >
->
 >Funktioner som anges av en stjärna ( ![(stjärna)](assets/star-yellow.svg)) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
 
-***Kvartalsvisa*** utgåvorFöljande funktioner släpptes den 21  **februari 2020**.
+**_Kvartalsvisa_** utgåvorFöljande funktioner släpptes den 21  **februari 2020**.
 
 ## Core Marketo Engage {#core-marketo-engage}
 
 * **Microsoft Dynamics &quot;Change Owner in Microsoft&quot; Flow Action**: Behåll kontrollen över dina Microsoft Dynamics CRM-data med möjlighet att ändra en lead-/kontaktägare direkt från Marketo Engage. Detta är en förbättring av vår interna CRM-integreringsfunktion.
-* **API:er för användarhantering: **Automatisera användar- och rollhanteringen via externa system för identitets- och organisationshantering. Detta är en förbättring av vår API-anropsfunktion.
-* **API:er för anpassat objektschema: **Hantera och distribuera automatiskt anpassade objektscheman i olika instanser i Marketo Engage för att säkerställa att datamodeller är enhetliga i alla sälj- och marknadsföringsverktyg. Med detta API kan du definiera och testa anpassade objekt i en sandlåda eller i ett center av hög kvalitet och tillhandahålla så många instanser som behövs. Detta är en förbättring av vår API:s anropsfunktion. Kontakta din Marketo Engage-representant om du vill veta hur du får tillgång till den här förbättringen.
+* **API:er för** användarhantering: Automatisera hanteringen av användare och roller via externa system för identitets- och organisationshantering. Detta är en förbättring av vår API-anropsfunktion.
+* **API:er för anpassat objektschema**: Hantera och distribuera automatiskt anpassade objektscheman över instanser i Marketo Engage för att säkerställa att datamodeller är enhetliga i alla sälj- och marknadsföringsverktyg. Med detta API kan du definiera och testa anpassade objekt i en sandlåda eller i ett center av hög kvalitet och tillhandahålla så många instanser som behövs. Detta är en förbättring av vår API:s anropsfunktion. Kontakta din Marketo Engage-representant om du vill veta hur du får tillgång till den här förbättringen.
 * **API:er för omdirigeringsregler för landningssidor**: Automatisera hanteringen av omdirigeringsregler för landningssidor. Detta är en förbättring av vår API-anropsfunktion.
 * **Cachelagring** av formulärbeskrivare: Vi minskar inläsningstiden för inbäddade formulär och förbättrar den övergripande programstabiliteten genom att cachelagra formulär som resurser. Observera att det kan ta upp till fyra minuter att godkänna inbäddade formulär för att de ska visas på webben. Detta är en förbättring av vår förmåga till landningssidor och Forms.
 
 <br> 
 
-**
-
-***Frigör under hela kvartalet***
+**_Frigör under hela kvartalet_**
 
 Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas under de kommande månaderna.
-**Bizible ![(star)](assets/star-yellow.svg)
 
-**
+## Bizible {#bizible}
+
+![(stjärna)](assets/star-yellow.svg)
 
 * **Kontobaserad segmentering**: Analysera attribuering på kontonivå med möjlighet att skapa segment och filter för Discover boards baserat på kontoattribut. Använd dessa segment för att fördjupa er i er kontobaserade marknadsföring.
 * **Sparar filter**: Spara specifika kontrollpanelsfilter som är unika för varje användare för att analysera dem snabbt och konsekvent.
@@ -61,4 +59,4 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 * **Resurs-API &quot;_method&quot;-parameter**: Efter september 2020 kommer Resurs-API-slutpunkter inte längre att acceptera &quot;_method&quot; för att skicka Query Parameters i en POST för att kringgå URI-längdbegränsningar. För att tillgodose begäranden som kräver den här parametern ökas URI-gränsen för tillgångs-API:er från 6KiB till 65KiB, så att långa URI:er för begäran kan skickas.
 * **Undertryckt stöd för Internet Explorer**: Från och med version 31 juli 2020 stöds inte längre användargränssnittet i Marketo Engage i Internet Explorer.
 
-***Product Release*** [WebinarGå ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) till den 3 mars 23:00 PT / 2:00 ET för ett live webbinarium som leds av vårt produktteam och läs mer om funktionerna i den här versionen.
+**_Product Release_** [WebinarGå ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) till den 3 mars 23:00 PT / 2:00 ET för ett live webbinarium som leds av vårt produktteam och läs mer om funktionerna i den här versionen.
