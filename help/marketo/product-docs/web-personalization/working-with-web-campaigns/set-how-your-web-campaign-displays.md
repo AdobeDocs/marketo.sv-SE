@@ -3,7 +3,7 @@ unique-page-id: 12978906
 description: Ange hur webbkampanjen visas - Marketo Docs - Produktdokumentation
 title: Ange hur webbkampanjen ska visas
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
@@ -74,5 +74,4 @@ När muspekaren stängs visas webbkampanjen när användaren avslutar webbläsar
 
 >[!TIP]
 >
->Vill du se hur de valda effekterna kommer att se ut i förväg? Kolla in dem via en [förhandsgranskning av webbkampanj](preview-and-test-a-web-campaign.md).
-
+>Vill du se hur de valda effekterna kommer att se ut i förväg? Kolla in dem via en [förhandsgranskning av webbkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).
