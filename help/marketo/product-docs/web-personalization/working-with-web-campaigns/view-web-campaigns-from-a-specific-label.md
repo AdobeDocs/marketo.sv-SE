@@ -3,7 +3,7 @@ unique-page-id: 4720075
 description: Visa webbkampanjer från en viss etikett - Marketo Docs - Produktdokumentation
 title: Visa webbkampanjer från en viss etikett
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Vill du visa och filtrera kampanjer efter en viss etikett?
 
 ## Filtrera efter befintliga etiketter {#filter-by-existing-labels}
 
-1. Gå till **Webben** **Kampanjer**.
+1. Gå till **Webbkampanjer**.
 
    ![](assets/web-campaigns-hand-4.jpg)
 
@@ -31,11 +31,7 @@ Vill du visa och filtrera kampanjer efter en viss etikett?
 
 >[!MORELIKETHIS]
 >
->* [Märka webbkampanjer](label-your-web-campaigns.md)
->* [Visa segment från en viss etikett](../../../product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
->* [Märk upp dina segment](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
-
->
-
-
+>* [Märka webbkampanjer](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
+>* [Visa segment från en viss etikett](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
+>* [Märk upp dina segment](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
