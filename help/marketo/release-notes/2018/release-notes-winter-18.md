@@ -3,7 +3,7 @@ unique-page-id: 13795395
 description: Versionsinformation -vinter '18 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -vinter '18
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -25,46 +25,47 @@ Marketo utnyttjar vår big data-arkitektur för att öka kampanjens genomströmn
 
 Vi har två förbättringar av vår integrering med Salesforce CRM:
 
-* [Marketo Admin-](../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) meddelanden om vissa CRM-synkroniseringsfel (inloggningsuppgifterna har gått ut, API-gränser har uppnåtts osv.)
+* [Marketo Admin-](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) meddelanden om vissa CRM-synkroniseringsfel (inloggningsuppgifterna har gått ut, API-gränser har uppnåtts osv.)
 
-* [Möjlighet att stänga av e-](../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) postmeddelanden till lead-ägare vid leadtilldelning
+* [Möjlighet att stänga av e-](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) postmeddelanden till lead-ägare vid leadtilldelning
 
 Dessa förbättringar kommer att öka under 2018.
 
-## [Marketo Performance Insights](../../product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
+## [Marketo Performance Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
 
 >[!AVAILABILITY]
 >
->
 >Performance Insights är en tilläggsprodukt. Kontakta er Marketto Customer Success Manager eller Account Executive för en offert.
 
-Se hur era kampanjer och kanaler påverkar affärsresultaten med attribueringsanalys, interaktiva visualiseringar och en detaljerad datatabell.   ![](assets/image2018-2-5-7-3a55-3a46.png)
+Se hur era kampanjer och kanaler påverkar affärsresultaten med attribueringsanalys, interaktiva visualiseringar och en detaljerad datatabell.
+
+![](assets/image2018-2-5-7-3a55-3a46.png)
 
 ## Kontobaserade marknadsföringsförbättringar {#account-based-marketing-enhancements}
 
-** [ABM Hierarkier](../../product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)**
+**[ABM Hierarkier](/help/marketo/product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)**
 
 För ABM-kunder med Salesforce eller Microsoft Dynamics ärver nu ABM automatiskt (och visar) de överordnade och underordnade relationer som skapats i CRM. Du kommer att kunna använda dessa relationer i både sammanslagningsrapportering och kampanjkörning.
 
 ## E-postmarknadsföring {#email-marketing}
 
-** [Dynamiskt e-postskript](../../product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)**
+**[Dynamiskt e-postskript](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)**
 
 Snabb skriptning stöds nu i e-postmeddelanden med dynamiskt innehåll. Kombinera snabbt och segmenteringsbaserat dynamiskt innehåll för att skapa personaliserade e-postmeddelanden.
 
 **Mottagarens tidszon**
 
-* ** [Månadsvis sjuksköterska ](../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**:** **Vi har lagt till möjligheten att schemalägga vårdprogram på en månadskurs.
+* **[Månatlig sjuktid](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**: Vi har lagt till möjligheten att planera vårdsprogram på en månadskurs.
 
-* ** [Stoppa leverans](../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**: Nu kan du stoppa alla återstående meddelanden som skickas mitt i körningen.
+* **[Stoppa leverans](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**: Nu kan du stoppa alla återstående meddelanden som skickas mitt i körningen.
 
 ## Lägg till nätverksintegreringar {#ad-network-integrations}
 
-** [Google Customer Match Integration](../../product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
+**[Google Customer Match Integration](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
 Med den här integreringen kan ni skicka en Marketo-målgrupp till Google för målgruppsanpassning med Google AdWords, liksom för målgruppsanpassning mellan YouTube, Search och Gmail.
 
-** [API-förbättring för LinkedIn Matched Audiences](../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
+**[API-förbättring för matchade målgrupper i LinkedIn](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
 Med vårt nya LinkedIn API kan ni nu rikta om personer i er Marketo-databas till flera LinkedIn Campaign Manager-konton.
 
@@ -74,19 +75,19 @@ Med vårt nya LinkedIn API kan ni nu rikta om personer i er Marketo-databas till
 
 Marketo lägger till ytterligare en japansk datakälla för webbpersonalisering för att förbättra identifieringen (omvänd IP-sökning) och personaliseringen för besökare som kommer från Japan. Organisationsnamn visas på japanska.
 
-** [Skapa ett webbsegment med hjälp av statiska listor](../../product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
+**[Skapa ett webbsegment med hjälp av statiska listor](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
 Webbpersonalisering kan nu personalisera innehåll för en känd webbbesökare som ingår i en statisk lista som definieras i marknadsföringsaktiviteter (MLM). Med den här förbättringen kan ni nu marknadsföra statiska listor över alla kanaler och rikta in er på personer på dessa listor med personaliserat innehåll på er webbplats.
 
-## Innehåll`<sup>AI</sup>` {#contentai}
+## ContentAI {#contentai}
 
 **Förbättring av prediktiv algoritm**
 
-Innehåll som rekommenderas via Marketos optimerade innehåll`<sup>AI </sup>`algoritmer genererar upp till dubbelt så många klick som slumpmässigt innehåll.
+Innehåll som rekommenderas via Marketos optimerade ContentAI-algoritmer genererar upp till dubbelt så många klick som slumpmässigt innehåll.
 
 ## Integrering {#integration}
 
-** [Aktivera/inaktivera kampanj-API](https://developers.marketo.com/rest-api/assets/campaigns/)**
+**[Aktivera/inaktivera kampanj-API](https://developers.marketo.com/rest-api/assets/campaigns/)**
 
 Detta nya API gör att ni kan aktivera och inaktivera utlösarkampanjer via fjärranslutning, så att ni nu kan skapa helt automatiserade programmallar. Skapa en programmall en gång, automatisera kloningen, uppdatera marknadsföringsmaterialet och nu aktivera/schemalägga smarta kampanjer.
 
