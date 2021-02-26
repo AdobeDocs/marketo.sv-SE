@@ -3,7 +3,7 @@ unique-page-id: 27656786
 description: Versionsinformation -August 19 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - augusti 19
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 0%
@@ -15,34 +15,33 @@ ht-degree: 0%
 
 Följande funktioner finns i augusti 19. Se om din Marketo-utgåva har funktioner tillgängliga.
 
-***Kvartalsvisa releaser***
+**_Kvartalsvisa releaser_**
 
 Följande funktioner släpptes 16 augusti 2019.
 
 ## Core Marketo Engage {#core-marketo-engage}
 
-* **Extensible Webinar Framework:** Spara tid med Marketos nya färdiga webbinariramverk (som introducerades i  [Winter&quot;19 versionsinformation](release-notes-winter-19.md)) som smidigt överför data från webbinarier till Marketo och vice versa. Event och Zoom finns nu i det nya ramverket.
-* **API-uppdatering för smarta kampanjer:** Hantera livscykelfunktioner för smarta kampanjer när vi sluter CRUD-gränssnittet (skapa, läsa, uppdatera, ta bort).
-* **Uppdatera API-ändring för e-postrubriker:** API:t för uppdatering av e-posthuvud kräver inte längre ett e-postmeddelande med en bifogad mall för uppdatering av rubrikfält, t.ex. ämnesrad.
+* **Extensible Webinar Framework**: Spara tid med Marketos nya färdiga webbinarium (som introducerades i  [Winter 19-versionsinformationen ](/help/marketo/release-notes/2019/release-notes-winter-19.md) som smidigt överför data från webbinarier till Marketo och vice versa. Event och Zoom finns nu i det nya ramverket.
+* **API-uppdatering** för smarta kampanjer: Hantera livscykelfunktioner för smarta kampanjer när vi bygger ut CRUD-gränssnittet (skapa, läsa, uppdatera, ta bort).
+* **Uppdatera API-ändring** för e-posthuvuden: API:t Uppdatera e-posthuvud kräver inte längre något e-postmeddelande för att ha en bifogad mall för att uppdatera rubrikfält, som ämnesraden.
 
 **Kontobaserad marknadsföring** ![ (stjärna)](assets/star-yellow.svg)
 
 * **Matchning** av LinkedIn-konto, som tidigare fanns i betaversionen, är nu allmänt tillgängligt.
-* **Konton`<sup>AI</sup>`** som officiellt omdöps till  **kontoprofilering**.
+* **AccountAI** omklassificeras officiellt som  **kontoprofilering**.
 
 <br> 
 
-***Frigör under hela kvartalet***
+**_Frigör under hela kvartalet_**
 
 Följande funktioner är icke-kvartalsvisa och kommer att släppas under det tredje kvartalet och i början av det fjärde kvartalet 2019.
 
-**Marketo Sales Connect**  ![ (stjärna)](assets/star-yellow.svg)
+**Marketo Sales Connect** ![ (stjärna)](assets/star-yellow.svg)
 
-* **Introduktion:** Stegvis genomgång gör introduktionen enklare och effektivare genom att vägleda nya användare via instanskonfiguration.
+* **Onboarding**: Stegvis genomgång gör introduktionen enklare och effektivare genom att vägleda nya användare genom instanskonfiguration.
 * **Förbättring av sidlayout för personer:** Hantera personer och grupper genom att lista importer och gruppåtgärder i den nya sidlayouten för personer.
 
 >[!AVAILABILITY]
->
 >
 >Funktioner som anges av en stjärna ( ![(stjärna)](assets/star-yellow.svg)) är betalda tillägg. Kontakta er Marketo om du vill veta mer.
 
@@ -52,4 +51,4 @@ Följande funktioner är icke-kvartalsvisa och kommer att släppas under det tre
 >
 >**Se till att alla klientsystem är kompatibla med TLS 1.2 före den 13 december 2019** för att upprätthålla din Marketo Engage-åtkomst. Mer detaljerad information finns [här](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 
-***Product Release*** [WebinarGå med i ett webbinarium ](https://engage.marketo.com/August_19_Release_Webinar.html) som våra produktteam är värd för den 28 augusti kl. 13:00 PT/17:00 ET och läs mer om funktionerna i den här versionen.
+**_Product Release_** [WebinarGå med i ett webbinarium ](https://engage.marketo.com/August_19_Release_Webinar.html) som våra produktteam är värd för den 28 augusti kl. 13:00 PT/17:00 ET och läs mer om funktionerna i den här versionen.
