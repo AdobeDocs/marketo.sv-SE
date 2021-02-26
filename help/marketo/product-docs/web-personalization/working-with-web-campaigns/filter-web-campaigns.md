@@ -3,7 +3,7 @@ unique-page-id: 10098884
 description: Filtrera webbkampanjer - Marketo Docs - Produktdokumentation
 title: Filtrera webbkampanjer
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 När du har skapat hundratals webbpersonaliseringskampanjer är det verkligen bra att kunna använda filter för att visa endast de du är intresserad av.
 
-1. Gå till **Webbkampanjer.**
+1. Gå till **Webbkampanjer**.
 
    ![](assets/web-campaigns-hand-8.jpg)
 
@@ -36,4 +36,3 @@ När du har skapat hundratals webbpersonaliseringskampanjer är det verkligen br
    ![](assets/web-campaigns-filter-only-paused.jpg)
 
    Kakbit!
-
