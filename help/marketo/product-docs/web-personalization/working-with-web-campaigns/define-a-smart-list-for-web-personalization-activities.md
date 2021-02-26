@@ -3,9 +3,9 @@ unique-page-id: 10097867
 description: Definiera en smart lista för webbpersonaliseringsaktiviteter - Marketo Docs - Produktdokumentation
 title: Definiera en smart lista för webbpersonaliseringsaktiviteter
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
@@ -23,10 +23,7 @@ Använd en utlösare för att skicka ett e-postmeddelande eller en varning, elle
 
    >[!NOTE]
    >
-   >**Djupdykning**
-   >
-   >
-   >Smarta listor kan göra fantastiska saker. Läs mer i [Djupdykning för smart lista](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+   >Smarta listor kan göra fantastiska saker. Läs mer i [Djupdykning för smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Sök efter utlösaren och dra och släpp sedan utlösaren på arbetsytan.
 
@@ -60,16 +57,11 @@ Använd en utlösare för att skicka ett e-postmeddelande eller en varning, elle
    >
    >Med flera utlösare går en person igenom flödet om någon av utlösarna aktiveras.
 
-   [Definiera smart lista för smart kampanj | Grupp](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   Om du vill köra kampanjen på en uppsättning personer samtidigt ska du lära dig hur du [Definiera smart lista för smart kampanj | Grupp](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Definiera smart lista för smart kampanj | Grupp](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
-   >    * [Lägg till ett flödessteg i en smart kampanj](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-   >    * [Definiera en smart lista för aktiviteter med prediktivt innehåll](../../../product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
+   >* [Definiera smart lista för smart kampanj | Grupp](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [Lägg till ett flödessteg i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+   >* [Definiera en smart lista för aktiviteter med prediktivt innehåll](/help/marketo/product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
 
-
-Om du vill köra kampanjen på en uppsättning personer samtidigt ska du lära dig hur du gör .
