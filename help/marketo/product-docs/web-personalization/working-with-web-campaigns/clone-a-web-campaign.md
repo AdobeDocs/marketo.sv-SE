@@ -3,9 +3,9 @@ unique-page-id: 10093157
 description: Klona en webbkampanj - Marketo Docs - Produktdokumentation
 title: Klona en webbkampanj
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Använd klonfunktionen på webbkampanjsidan för att kopiera kampanjinställning
 
    >[!NOTE]
    >
-   >Använd filterfunktionen [](filter-web-campaigns.md) för att göra det enklare att hitta den webbkampanj du vill ha.
+   >Använd filterfunktionen [](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md) för att göra det enklare att hitta den webbkampanj du vill ha.
 
 1. Klicka på **Klona** för webbkampanjen.
 
@@ -39,11 +39,7 @@ Använd klonfunktionen på webbkampanjsidan för att kopiera kampanjinställning
 
 >[!MORELIKETHIS]
 >
->* [Skapa en ny webbkampanj i zonen](create-a-new-in-zone-web-campaign.md)
->* [Skapa en ny webbkampanj för widget](create-a-new-widget-web-campaign.md)
->* [Skapa en ny webbkampanj för dialog](create-a-new-dialog-web-campaign.md)
-
->
-
-
+>* [Skapa en dialogkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Skapa en RTP i zonkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Skapa en RTP-widgetkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
