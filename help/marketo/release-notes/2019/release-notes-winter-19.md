@@ -3,9 +3,9 @@ unique-page-id: 17727823
 description: Versionsinformation -vinter '19 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -vinter '19
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '1112'
+source-wordcount: '1109'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion
 
 >[!NOTE]
 >
->Microsoft uppmanar alla onlinekunder att uppgradera till den senaste versionen av Microsoft Dynamics. Om du integrerar din Marketo-instans med Dynamics Online måste du [uppgradera till den senaste versionen av Marketo Solution](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md) före den 31 januari 2019 **för att säkerställa att integreringen fortsätter att fungera.**
+>Microsoft uppmanar alla onlinekunder att uppgradera till den senaste versionen av Microsoft Dynamics. Om du integrerar din Marketo-instans med Dynamics Online måste du [uppgradera till den senaste versionen av Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md) före den 31 januari 2019 **för att säkerställa att integreringen fortsätter att fungera.**
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion
 
 ## Förbättringar av kärnplattformen {#core-platform-enhancements}
 
-** [Email CC for Marketo Emails](../../product-docs/email-marketing/general/email-cc.md)**
+**[Email CC for Marketo Emails](/help/marketo/product-docs/email-marketing/general/email-cc.md)**
 
 Inkludera upp till fem CC-adresser per mottagare i e-postmeddelanden som skickas via Marketo.
 
@@ -40,7 +40,7 @@ Inkludera upp till fem CC-adresser per mottagare i e-postmeddelanden som skickas
 * **Stöd för flera domäner för resurs-API:** Godkännande och kloning av resurser ger samma resultat i API:t och användargränssnittet.
 * **Stöd för e-post-CC för resurs-API**: Användare som klonar, godkänner och bearbetar e-postmeddelanden via API:t behåller pariteten med gränssnittsinställningarna.
 
-** [Munchkin v155 (beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
+**[Munchkin v155 (beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
 * **Endast API-läge**: Användarna kan nu bestämma när och hur de ska spåra medlemmar i sina databaser genom att tillåta att enkelsidiga webbappar uttryckligen anropar när de vill spela in en webbsida, istället för att förlita sig på Marketos automatiska spårning.
 * **Hantering** av avanmälan: Hantera enkelt avanmälningar genom att matcha avanmälningsdomänen med Munchkins cookie-domän för spårning.
@@ -54,8 +54,8 @@ Inkludera upp till fem CC-adresser per mottagare i e-postmeddelanden som skickas
 * **E-posttjänst**: Få bättre levererbarhet och förbättrad svarsspårning, funktioner för schemalagd e-post och massutskick genom att ansluta till Microsoft Outlook (antingen via Office365 eller On-Prem via fliken E-postanslutning).
 * **Nya administratörsinställningar**: Två administratörssidor har lagts till för att optimera din instans av Sales Engage
 
-   * *Team* Management stöder en smidig process för kontokonfiguration genom att tillåta administratörer att redigera prenumerationer och team.
-   * *Salesforce Admin* SettingShelps-team konfigurerar sin SFDC-synkronisering snabbare och enklare än någonsin.
+   * _Team_ Management stöder en smidig process för kontokonfiguration genom att tillåta administratörer att redigera prenumerationer och team.
+   * _Salesforce Admin_ SettingShelps-team konfigurerar sin SFDC-synkronisering snabbare och enklare än någonsin.
 
 * **OWA-plugin för Windows**: Med ett enda tillägg stöds alla Windows Office365-klienter i Sales Engage, vilket ger möjlighet att använda Live Feed i Outlook. Det nya plugin-programmet kommer att vara tillgängligt i Microsoft Store.
 * **Aktivitetspublicering**: Synkronisera säljengagemanget med kärnplattformen Marketo för att utnyttja marknadsföringsinsikter i realtid.
@@ -64,7 +64,7 @@ Inkludera upp till fem CC-adresser per mottagare i e-postmeddelanden som skickas
 
 >[!NOTE]
 >
->Marketo Skyar släpps oftare. Följande funktioner och förbättringar förväntas släppas under det sista kvartalet/början av första kvartalet. Mer information och uppdateringar finns i [Sky-dokumentationen](https://help.marketo.com/hc/en-us/articles/360012858573).
+>Marketo Skyar släpps oftare. Följande funktioner och förbättringar förväntas släppas under det sista kvartalet/början av första kvartalet. Mer information och uppdateringar finns i [Sky-dokumentationen](https://help.marketo.com/).
 
 * **Valfri standardupplevelse**: Marketo-användare kan ange Marketo Sky som standardupplevelse om de har fått åtkomst av en administratör.
 
@@ -81,7 +81,7 @@ Inkludera upp till fem CC-adresser per mottagare i e-postmeddelanden som skickas
 
 ## Kontobaserad marknadsföring {#account-based-marketing}
 
-** [ABM Personabaserad segmentering och filtrering](../../product-docs/account-based-marketing/using-personas.md)**
+**[ABM Personabaserad segmentering och filtrering](/help/marketo/product-docs/account-based-marketing/using-personas.md)**
 
 Anpassa era ABM-kampanjer för specifika personer i namngivna konton. Funktionen ABM Persona skapar en standardjobbtitel baserad på leadsegmentering och tillåter konfiguration av ytterligare persona segmenteringar.
 
