@@ -3,9 +3,9 @@ unique-page-id: 5472490
 description: Releaschema - Marketo Docs - Produktdokumentation
 title: Versionsschema
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -38,40 +38,24 @@ Releasedatum kan komma att ändras.
    <th width="250px">Förlopp</th> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-jan-20.md">Januari 20</a></td> 
-   <td colspan="1">17 januari 2020</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">21 januari</td> 
+   <td colspan="1">15 januari 2021</td> 
+   <td colspan="1">Levererat</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-feb-20.md">20 februari</a></td> 
-   <td colspan="1">21 februari 2020</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">21 maj</td> 
+   <td colspan="1">7 maj 2021</td> 
+   <td colspan="1">Pågår</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-june-20.md">Juni 20</a></td> 
-   <td colspan="1">5 juni 2020</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">21 augusti</td> 
+   <td colspan="1">13 augusti 2021</td> 
+   <td colspan="1">Vid schema</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-july-20.md">Juli 20</a></td> 
-   <td colspan="1">31 juli 2020</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">20 oktober</td> 
-   <td colspan="1">16 oktober 2020</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">21 oktober</td> 
+   <td colspan="1">15 oktober 2021</td> 
+   <td colspan="1">Vid schema</td> 
   </tr> 
  </tbody> 
 </table>
-
