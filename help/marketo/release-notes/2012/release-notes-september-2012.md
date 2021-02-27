@@ -3,7 +3,7 @@ unique-page-id: 2951111
 description: Versionsinformation -september 2012 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -september 2012
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -60,4 +60,3 @@ Vi har lagt till nya filtreringsvillkor i API-anropet getMultipleLeads. Förutom
 * Datumintervall
 * Statiska listnamn
 * Matriser med lead-nycklar
-
