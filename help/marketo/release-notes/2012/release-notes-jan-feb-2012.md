@@ -3,9 +3,9 @@ unique-page-id: 2951124
 description: Versionsinformation -jan/feb 2012 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - jan/feb 2012
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,9 @@ ht-degree: 0%
 
 Följande funktioner ingår i Jan/Feb-versionen. Se om din Marketo-utgåva har funktioner tillgängliga. Efter releasen finns länkar till detaljerad funktionsdokumentation.
 
->[!NOTE]
->
->**Djupdykning**
->
->Andra versioner finns i [versionsinformationen](https://docs.marketo.com/display/docs/release+notes) djupdykning.
-
 ## Avancerat dynamiskt innehåll {#advanced-dynamic-content}
 
-*Finns för Pro- och Enterprise-versioner*
+_Finns för Pro- och Enterprise-versioner_
 
 Med avancerat dynamiskt innehåll kan ni skapa engagerande e-postmeddelanden och landningssidor som är relevanta för er målgrupp utan att behöva skapa flera resurser för samma budskap. Uppgraderade förhandsgranskare gör att du kan visa varje unik version på en enda skärm.
 
@@ -31,7 +25,7 @@ Med avancerat dynamiskt innehåll kan ni skapa engagerande e-postmeddelanden och
 
 ## Segmentering {#segmentation}
 
-*Finns för Pro- och Enterprise-versioner*
+_Finns för Pro- och Enterprise-versioner_
 
 Segmentering är en grupp segment, som är en riktad grupp av individer som ni marknadsför. Segment definieras av regler som styrs av filtervillkor som liknar smarta listor. Dina segment kan baseras på demografiska data, t.ex. befattning eller bransch, eller på beteenden som besökta webbsidor eller klickade länkar.
 
@@ -39,7 +33,7 @@ Segmentering är en grupp segment, som är en riktad grupp av individer som ni m
 
 ## Kodavsnitt {#snippets}
 
-*Finns för Pro- och Enterprise-versioner*
+_Finns för Pro- och Enterprise-versioner_
 
 Lagra multimediematerial som kan användas om och om igen för att skapa statiska eller dynamiska e-postmeddelanden och landningssidor.
 
@@ -47,7 +41,7 @@ Lagra multimediematerial som kan användas om och om igen för att skapa statisk
 
 ## PURL:er {#purls}
 
-*Finns för Pro- och Enterprise-versioner*
+_Finns för Pro- och Enterprise-versioner_
 
 Med personaliserade URL:er kan marknadsförarna nu skapa kontaktspecifika URL:er för att driva personalisering, mätbarhet och lyfta svaren i flerberöringsmarknadsföringsprogram för både direktreklam och e-postkampanjer.
 
@@ -105,4 +99,3 @@ Förstå marknadsföringsbidrag till enskilda affärsmöjligheter
 Få insikt i programmets hastighet genom att förstå vilka program som förvärvat de snabba framstegen
 
 ![](assets/image2014-9-23-9-3a52-3a47.png)
-
