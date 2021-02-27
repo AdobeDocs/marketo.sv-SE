@@ -3,7 +3,7 @@ unique-page-id: 2951103
 description: Versionsinformation -februari 2013 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - februari 2013
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -33,4 +33,4 @@ Facebook-flikar som publiceras från Marketo upptäcker mobila enheter och dirig
 
 ## Kommer snart: Stöd för flera modeller {#coming-soon-support-for-multiple-models}
 
-Vi lägger grunden för att stödja flera olika intäktscykelmodeller, som vi röstade på bästis för RCA i gemenskapen, i en framtida release. I den här versionen kommer du att märka några ändringar, bland annat [Smart List-filter och Lägg till alternativ i Flow Steps](../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md), som stöder valet av modell och scen. Vi flyttar även fälten Leadintäktsstadium och Leadintäktscykelmodell från fliken Smart List Lead grid.
+Vi lägger grunden för att stödja flera olika intäktscykelmodeller, som vi röstade på bästis för RCA i gemenskapen, i en framtida release. I den här versionen kommer du att märka några ändringar, bland annat [Smart List-filter och Lägg till alternativ i Flow Steps](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md), som stöder valet av modell och scen. Vi flyttar även fälten Leadintäktsstadium och Leadintäktscykelmodell från fliken Smart List Lead grid.
