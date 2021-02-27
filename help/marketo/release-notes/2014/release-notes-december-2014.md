@@ -3,7 +3,7 @@ unique-page-id: 4720253
 description: Versionsinformation -december 2014 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - december 2014
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Följande funktioner ingår i december 2014-versionen. Kontrollera om din Market
 
 ## Sales Insight Reports {#sales-insight-reports}
 
-Med [E-postresultatrapporten från Sales Insight](../../product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) kan du visa e-poststatistik per e-post och säljare. Det har stöd för e-postmeddelanden som skickas via Salesforce, Microsoft Dynamics, Outlook-plugin och Gmail.
+Med [E-postresultatrapporten från Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) kan du visa e-poststatistik per e-post och säljare. Det har stöd för e-postmeddelanden som skickas via Salesforce, Microsoft Dynamics, Outlook-plugin och Gmail.
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
@@ -25,13 +25,13 @@ Med [E-postresultatrapporten från Sales Insight](../../product-docs/marketo-sal
 
 ## Anpassade målgrupper för Facebook {#facebook-custom-audiences}
 
-När Marketo-administratören har lagt till [Facebook via Admin > Startpunkt](../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) kan du enkelt skapa, uppdatera eller [ersätta en anpassad Facebook-målgrupp med leads från en statisk eller smart lista från Marketo](../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Leta efter den nya Facebook-ikonen längst ned i huvudstödrastret i statiska eller smarta listor.
+När Marketo-administratören har lagt till [Facebook via Admin > Startpunkt](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) kan du enkelt skapa, uppdatera eller [ersätta en anpassad Facebook-målgrupp med leads från en statisk eller smart lista från Marketo](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Leta efter den nya Facebook-ikonen längst ned i huvudstödrastret i statiska eller smarta listor.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
 ## Förbättrad kloning över arbetsytor {#improved-cloning-across-workspaces}
 
-[Det har aldrig varit enklare att klona ett ](../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) program till en annan arbetsyta! När du klickar på klona väljer du målarbetsytan. Nu behöver du inte längre klona till en mapp och sedan flytta mappen!
+[Det har aldrig varit enklare att klona ett ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) program till en annan arbetsyta! När du klickar på klona väljer du målarbetsytan. Nu behöver du inte längre klona till en mapp och sedan flytta mappen!
 
 >[!NOTE]
 >
@@ -41,11 +41,11 @@ När Marketo-administratören har lagt till [Facebook via Admin > Startpunkt](..
 
 ## Referera till smart lista {#reference-smart-list}
 
-[Smarta listor som delas med en annan arbetsyta kan ](../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)refereras när du skapar en smart lista eller ett smart flöde.
+[Smarta listor som delas med en annan arbetsyta kan ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) refereras när du skapar en smart lista eller ett smart flöde.
 
 ## Förbättringar av listimport {#list-import-improvements}
 
-[Importera ](../../getting-started/quick-wins/import-a-list-of-people.md) filer som är kodade i UTF-16, Shift-JIS eller EUC-JP. Vi har fortsatt stöd för UTF-8-kodade filer.
+[Importera ](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) filer som är kodade i UTF-16, Shift-JIS eller EUC-JP. Vi har fortsatt stöd för UTF-8-kodade filer.
 
 ## Länkspårning i e-postskript {#link-tracking-in-email-scripting}
 
@@ -94,4 +94,3 @@ Hantera och övervaka dina viktigaste konton med hög kapacitet på den nya sida
 Vi har lagt till en ny Sliding-effekt för InZone-kampanjer som gör att ditt personaliserade innehåll kan glida in på plats när sidan läses in.
 
 ![](assets/image2014-12-5-11-3a9-3a34.png)
-
