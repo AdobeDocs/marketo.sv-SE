@@ -3,9 +3,9 @@ unique-page-id: 2951093
 description: Versionsinformation -juli 2013 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -juli 2013
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Versionsinformation: Juli 2013 {#release-notes-july}
 
-Följande funktioner finns i juliversionen som är planerad att lanseras på fredag den 26 juli.  Kontrollera din [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php) för att se om det finns funktioner.
-
-Efter releasen ska du kontrollera fliken [New Release](release-notes-december-2013.md) i communityn för detaljerade hjälpartiklar för varje funktion!
+Följande funktioner finns i juliversionen som är planerad att lanseras på fredag den 26 juli.
 
 ## Widgeten Utfyllt innehåll på instrumentpanelen {#exhausted-content-widget-on-the-dashboard}
 
@@ -44,4 +42,3 @@ Visa och sortera medlemsrutnätet efter det datum då leadet lades till.
 ## Ändringar i stavningskontrollen i WYSIWYG Editor {#changes-to-spell-check-in-wysiwyg-editor}
 
 Tjänsten som används av WYSIWYG-redigeraren för stavningskontroll har avbrutits. Vi har tagit bort stavningskontrollen från redigeraren tills vi hittar en ersättning.
-
