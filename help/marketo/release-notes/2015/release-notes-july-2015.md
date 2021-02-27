@@ -3,9 +3,9 @@ unique-page-id: 8783189
 description: Versionsinformation -juli 2015 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -juli 2015
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Ska vi gå ut på lunch men behöver boka om ett mejl? Appen Marketo Moments, so
 ## Uppdatering för RTF-redigeraren {#rich-text-editor-update}
 
 Uppdaterad textredigerare med modern stil och känsla, inklusive smidig textformatering, bildredigering, länkinfogning och HTML-redigering. HTML-redigeraren har nu minimal validering, vilket ger mindre begränsande kodredigering.
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Uppdateringen lanseras automatiskt inom några dagar efter juliversionen. Efteråt kan du växla mellan de nya och äldre versionerna av redigeraren från **Admin > E-post > Redigera redigeringsinställningar**. Vi vill veta om du har problem med den nya versionen av textredigeraren! Skicka en kort beskrivning till [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#d0bab3bfbfa0b5a2bdb1be90bdb1a2bbb5a4bffeb3bfbd).
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Uppdateringen lanseras automatiskt inom några dagar efter juliversionen. Efteråt kan du växla mellan de nya och äldre versionerna av redigeraren från **Admin > E-post > Redigera redigeringsinställningar**.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -54,4 +54,4 @@ Läs [mer](https://developers.marketo.com/documentation/company-api/) i vår ref
 
 ## Åtkomst till e-postleverans {#access-email-deliverability}
 
-**Access Email Deliverability Tool: **Med den här nya behörigheten kan administratörer ge användare åtkomst till e-postleveransverktyget.
+**E-postleverans**: Den här nya behörigheten ger administratörer möjlighet att ge användare åtkomst till e-postleveransverktyget.
