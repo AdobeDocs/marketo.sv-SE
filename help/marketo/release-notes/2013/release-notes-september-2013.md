@@ -3,9 +3,9 @@ unique-page-id: 2951056
 description: Versionsinformation -september 2013 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -september 2013
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '498'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Versionsinformation: September 2013 {#release-notes-september}
 
-Följande funktioner ingår i versionen från september. Kontrollera din [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php) för att se om det finns funktioner.
-
-Efter releasen ska du kontrollera fliken [New Release](release-notes-december-2013.md) i communityn för detaljerade kunskapsbasartiklar för varje funktion!
+Följande funktioner ingår i versionen från september.
 
 ## Kortare URL:er {#shorter-urls}
 
