@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2951107
-description: Versionsinformation -december 2012 - Marketo Docs - Produktdokumentation
+description: Versionsinformation - december 2012 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - december 2012
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
@@ -70,7 +70,6 @@ Lägg till anpassade affärsmöjlighetsfält för att berika dina rapporter om a
 
 Har du någonsin undrat vilka kampanjer som använder en specifik flödesåtgärd, som Change Score eller Request Campaign? Eller var används ett visst filter? Med den nya Campaign Inspector (som finns i The Treasure Chest) kan ni identifiera dessa kampanjer samt aktiva kampanjer och kampanjer med fel.
 
-Gå till **Admin** > **Skattekontroll** och aktivera* kampanjkontrollen**.
+Gå till **Admin** > **Resursschema** för att aktivera **kampanjkontrollen**.
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)
-
