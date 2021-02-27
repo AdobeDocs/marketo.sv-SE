@@ -3,9 +3,9 @@ unique-page-id: 2951097
 description: Versionsinformation -maj 2013 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -maj 2013
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Versionsinformation: Maj 2013 {#release-notes-may}
 
-Följande funktioner finns i majversionen. Kontrollera om din [Marketo](https://docs.marketo.com/display/docs/assets/pricing.php) [Edition](https://docs.marketo.com/display/docs/assets/pricing.php) är tillgänglig.
-
-Efter releasen ska du kontrollera fliken [New Release](release-notes-december-2013.md) i communityn för detaljerade kunskapsbasartiklar för varje funktion!
+Följande funktioner finns i majversionen.
 
 ## Kalenderfiler för landningssidor {#calendar-files-for-landing-pages}
 
@@ -40,4 +38,3 @@ Hitta flödesåtgärder snabbare med det omorganiserade flödesträdet.
 Ändra status för progression är nu Ändra programstatus. Ändringsprogramdata har nu ändrats
 
 ![](assets/image2014-9-22-16-3a4-3a17.png)
-
