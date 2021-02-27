@@ -3,7 +3,7 @@ unique-page-id: 12977326
 description: Versionsinformation -April '17 ABM Enhancements - Marketo Docs - Produktdokumentation
 title: Versionsinformation -April '17 ABM-förbättringar
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Nu kan du lägga till anpassade fält till konton, mappa dem till CRM och använ
 Nu kan du enkelt filtrera dina namngivna konton baserat på en kontolista.
 
 ![](assets/named-account-filters.png)
-
