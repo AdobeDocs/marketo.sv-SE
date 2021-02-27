@@ -3,9 +3,9 @@ unique-page-id: 2951119
 description: Versionsinformation -April 2012 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -april 2012
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Versionsinformation: April 2012 {#release-notes-april}
 
 ## Segmenteringsfilter och utlösare {#segmentation-filters-and-triggers}
-
->[!NOTE]
->
->**Djupdykning**
->
->Andra versioner finns i [versionsinformationen](https://docs.marketo.com/display/docs/release+notes) djupdykning.
 
 Målgruppsanpassar ni samma grupp av leads konsekvent? Om så är fallet, använd segmentering i era smarta listor för riktade leads. Med segmentering segmenteras hela din lead-databas alltid och kan återanvändas i alla program för att vara konsekvent. Segmenteringsresultaten hämtas snabbt eftersom de inte kräver att den smarta listan ska köras när begäran görs.
 
@@ -63,4 +57,3 @@ Om du inte synkroniserar din prenumeration med Salesforce kommer du att märka a
 Tillåter användare att definiera en ordning för sina övergångsregler.
 
 ![](assets/image2014-9-23-10-3a5-3a17.png)
-
