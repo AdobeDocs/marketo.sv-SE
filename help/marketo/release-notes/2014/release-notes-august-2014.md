@@ -3,7 +3,7 @@ unique-page-id: 2950212
 description: Versionsinformation -augusti 2014 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - augusti 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '396'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Följande funktioner finns i augusti 2014-versionen. Se om din Marketo-utgåva h
 
 ## Licenser för marknadsföringskalender {#marketing-calendar-licenses}
 
-Efter 5 september 2014 kan bara fem användare ha kostnadsfri tillgång till marknadsföringskalendern. Var noga med att [utfärda/återkalla en licens för en marknadsföringskalender](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) till valfria användare innan dess för oavbruten åtkomst.
+Efter 5 september 2014 kan bara fem användare ha kostnadsfri tillgång till marknadsföringskalendern. Var noga med att [utfärda/återkalla en licens för en marknadsföringskalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) till valfria användare innan dess för oavbruten åtkomst.
 
 ![—](assets/image2014-9-16-9-3a45-3a52.png)
 
@@ -35,7 +35,7 @@ Följande nya användarbehörigheter har lagts till:
 
 ## Exportera användare och roller från administratör {#export-users-and-roles-from-admin}
 
-Du kan nu [exportera en lista över användare och roller](../../product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) från Marketo. Du kan även inkludera en tidsstämpel för senaste inloggning som ska inkluderas i exporten.
+Du kan nu [exportera en lista över användare och roller](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) från Marketo. Du kan även inkludera en tidsstämpel för senaste inloggning som ska inkluderas i exporten.
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
@@ -96,4 +96,3 @@ Administratörsanvändare kan nu låsa användare på grund av flera misslyckade
 Du kan nu utesluta specifika IP-adresser från all spårning och rapportering i realtidspersonalisering.
 
 ![](assets/image2014-9-16-12-3a24-3a55.png)
-
