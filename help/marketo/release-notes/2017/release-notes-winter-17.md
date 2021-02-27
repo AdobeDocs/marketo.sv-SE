@@ -3,15 +3,15 @@ unique-page-id: 12255606
 description: Versionsinformation -vinter '17 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -vinter '17
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
 
 
-# Versionsinformation: Vinter &#39;17 {#release-notes-winter}
+# Versionsinformation: Vinter &#39;16 {#release-notes-winter}
 
 Följande funktioner finns i vinterversionen 17. Se om din Marketo-utgåva har funktioner tillgängliga.
 
@@ -37,7 +37,7 @@ Exportera all information och alla analyser i webbkampanjen i ett CSV-format. Se
 
 ![](assets/web-personalization-csv-download-hand.png)
 
-## [Lokalisering](https://docs.marketo.com/display/docs/web+personalization) {#localization}
+## Lokalisering {#localization}
 
 Apparna Webbpersonalisering, Predictive Content och Email Insights finns nu på japanska, tyska och spanska. Du [väljer språk och språk](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) för att visa ditt innehåll på dessa språk.
 
@@ -71,7 +71,7 @@ Analys av filterprediktivt innehåll för specifika källor - e-post, multimedia
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**[Predictive Content Editor](https://docs.marketo.com/display/docs/edit+predictive+content)**
+**Predictive Content Editor**
 
 Det finns en förbättrad redigeringsupplevelse och layout som delar upp innehållsförberedelser efter källa - e-post, multimedia eller rekommendationsfält.
 
