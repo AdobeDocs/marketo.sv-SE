@@ -3,9 +3,9 @@ unique-page-id: 2951058
 description: Versionsinformation -augusti 2013 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - augusti 2013
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,11 @@ ht-degree: 0%
 
 # Versionsinformation: Augusti 2013 {#release-notes-august}
 
-Följande funktioner finns i augusti 2013-versionen. Kontrollera din [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing-1.php) för att se om det finns funktioner.
+Följande funktioner finns i augusti 2013-versionen.
 
-Efter releasen ska du kontrollera fliken [New Release](release-notes-december-2013.md) i communityn för detaljerade kunskapsbasartiklar för varje ny funktion!
+**Endast e-post med text**
 
-Endast e-post med text
-
-Nu kan du skicka [endast textversionen](../../product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) av ett e-postmeddelande. Kom ihåg att länkar inte dekoreras när du använder det här alternativet.
+Nu kan du skicka [endast textversionen](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) av ett e-postmeddelande. Kom ihåg att länkar inte dekoreras när du använder det här alternativet.
 
 ![](assets/image2014-9-22-16-3a34-3a15.png)
 
@@ -27,13 +25,13 @@ Nu kan du skicka [endast textversionen](../../product-docs/email-marketing/gener
 
 ### Ignorera utfyllt innehåll {#ignore-exhausted-content}
 
-Konfigurera engagemangsprogrammet till [ignorera slutförande](../../product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md), inklusive inaktivering av aviseringar.
+Konfigurera engagemangsprogrammet till [ignorera slutförande](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md), inklusive inaktivering av aviseringar.
 
 ![](assets/image2014-9-22-16-3a34-3a37.png)
 
 ## Testning av engagemangsström {#engagement-stream-testing}
 
-Använd den [nya testfunktionen](../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md) för att simulera en sändning och testa nyligen tillagt innehåll i en liveström.
+Använd den [nya testfunktionen](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md) för att simulera en sändning och testa nyligen tillagt innehåll i en liveström.
 
 ![](assets/image2014-9-22-16-3a34-3a56.png)
 
@@ -45,13 +43,13 @@ När du skickar ett e-posttest kan du välja namnet på ett lead för att anpass
 
 ## &quot;Visa e-post som webbsida&quot; och &quot;Avsluta prenumeration&quot; systemtoken {#view-email-as-web-page-and-unsubscribe-system-tokens}
 
-Använd dessa [nya variabler](../../product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md) för att få bättre kontroll över placeringen i e-postmeddelanden.
+Använd dessa [nya variabler](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md) för att få bättre kontroll över placeringen i e-postmeddelanden.
 
 ![](assets/image2014-9-22-16-3a35-3a38.png)
 
 ## Automatisk rensning av utlösarkampanj {#automatic-trigger-campaign-cleanup}
 
-Marketo meddelar dig nu regelbundet och [inaktiverar automatiskt utlösarkampanjer](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) som inte har körts de senaste sex månaderna.
+Marketo meddelar dig nu regelbundet och [inaktiverar automatiskt utlösarkampanjer](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) som inte har körts de senaste sex månaderna.
 
 ![](assets/image2014-9-22-16-3a36-3a2.png)
 
