@@ -3,9 +3,9 @@ unique-page-id: 12977439
 description: Versionsinformation -Spring '17 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - våren 17
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '707'
+source-wordcount: '671'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Följande funktioner finns i vårutgåvan 17. Se om din Marketo-utgåva har funk
 
 Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion. **Obs**: Om ett ämne har flera underrubriker placeras länkarna där.
 
-## [LinkedIn Lead Gen Forms](https://docs.marketo.com/x/ngLG) {#linkedin-lead-gen-forms}
+## [LinkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
 [LinkedIn Lead Gen ](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) Forms är ett mer direkt sätt för ett företag att köra leadgenereringskampanjer på LinkedIn. Man kan fylla i blanketter för att uttrycka sitt intresse för en produkt eller tjänst, vilket gör det möjligt för företaget att samla in personuppgifterna och synka dem till Marketo, där automatiserade uppföljningsprocesser och leadhanteringsaktiviteter kan förekomma.
 
@@ -25,7 +25,7 @@ Marketo-integreringen med LinkedIn Lead Gen Forms hämtar automatiskt informatio
 
 ![](assets/release-notes-image.png)
 
-## [Förfaller MSI-mall](https://docs.marketo.com/x/VgIt) {#expire-msi-template}
+## [Förfaller MSI-mall](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) {#expire-msi-template}
 
 Nu är det dags att rensa upp gamla mallar i Sales Insight. Ange ett förfallodatum när du publicerar ditt e-postmeddelande så tar vi hand om att avpublicera det åt dig när utgångsdatumet ändras.
 
@@ -41,15 +41,15 @@ Nu är det dags att rensa upp gamla mallar i Sales Insight. Ange ett förfalloda
 
 ## ABM-förbättringar {#abm-enhancements}
 
-** [Anpassade fält på ABM-namngivna konton](https://docs.marketo.com/x/1wnG)**
+**[Anpassade fält på namngivna ABM-konton](https://docs.marketo.com/x/1wnG)**
 
 Med Marketo ABM kan du nu skapa upp till 10 anpassade fält på dina namngivna konton. Du kan mappa dessa anpassade fält till fält i CRM-kontoobjektet och Marketo ABM synkroniserar data, så att du kan utöka dina namngivna ABM-konton och hjälpa till att driva marknadsföringen framåt.
 
-** [Percentiell poängsättning på namngivna ABM-konton](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
+**[Percentiell poängsättning på namngivna ABM-konton](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
 Poängen för namngivna konton kan variera mycket. Marketo ABM beräknar nu automatiskt en percentil för var och en av dina poäng, så att du snabbt kan se var varje namngivet konto finns bland dina andra namngivna konton.
 
-** [API:er för kontolista för ABM](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
+**[API:er för kontolista för ABM](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
 
 Utnyttja de omfattande och robusta integreringarna med ABM-partners med förbättrat API-stöd för namngivna kontolistor.
 
@@ -57,7 +57,7 @@ Utnyttja de omfattande och robusta integreringarna med ABM-partners med förbät
 
 ![](assets/dialogoptions.png)
 
-** [Webbkampanj vid rullning](https://docs.marketo.com/x/2grG)**
+**[Webbkampanj vid rullning](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
 Nya Web Campaign-effekter ger webbbesökarna en mer personaliserad upplevelse. Ange att anpassade webbkampanjer endast ska visas när en webbbesökare rullar ned på webbsidan. Du kan ange att webbkampanjer i dialogrutan ska visas vid rullning baserat på:
 
@@ -65,35 +65,35 @@ Nya Web Campaign-effekter ger webbbesökarna en mer personaliserad upplevelse. A
 * pixeln har nåtts
 * bläddra nedanför sidans vikning
 
-** [Webbkampanj vid avslutningsmetod](https://docs.marketo.com/x/2grG)**
+**[Webbkampanj vid avslutningsmetod](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
 Fånga besökarens uppmärksamhet innan de stänger sidan. Ange att anpassade webbkampanjer endast ska visas när en musgest indikerar att besökaren lämnar sidan.
 
-** [Animeringseffekter för webbkampanjer](https://docs.marketo.com/x/JgNI)**
+**[Animeringseffekter för webbkampanjer](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
 Ställ in animeringseffekterna för Dialog Web Campaign för att anpassa hur en kampanj visas när du öppnar eller avslutar webbsidan. Du kan välja mellan sex olika effekter och styra timing och riktning för dialogrutan.
 
 ![](assets/animationoptins.png)
 
-** [Anpassa dialogrutans stängningsknapp](https://docs.marketo.com/x/JgNI)**
+**[Dialogrutan Stäng knappanpassning](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
 Anpassa stängningsknappen för dialogrutor. Välj bland en rad alternativ som används i webbkampanjer i formatet Genomskinlig dialogruta. Markera ikonen, färgen och placeringen för knappen Stäng. Du kan också lägga till en egen knappbild.
 
 ![](assets/dialog-button-fill-5b1-5d.png)
 
-** [Arkivera webbkampanjer](https://docs.marketo.com/x/_grG)**
+**[Arkivera webbkampanjer](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/archive-a-web-campaign.md)**
 
 Arkiv är en ny Web Campaign-status som gör att du kan arkivera webbkampanjer och dölja dem från standardvyn för webbkampanjer. På så sätt kan ni fokusera på era mest relevanta, aktiva kampanjer och hämta äldre arkiverade kampanjer på begäran.
 
 ![](assets/archive-campaign-5b2-5d.png)
 
-** [Lokalisering](https://docs.marketo.com/x/YAIk)**
+**[Lokalisering](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
 
 Webbpersonalisering finns nu på alla språk som stöds av Marketo (engelska, japanska, tyska, spanska, franska och portugisiska).
 
 ## Prediktiva förbättringar {#predictive-enhancements}
 
-** [Lokalisering](https://docs.marketo.com/x/YAIk)**
+**[Lokalisering](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
 
 Prediktivt innehåll finns nu på alla språk som stöds av Marketo (engelska, japanska, tyska, spanska, franska och portugisiska).
 
