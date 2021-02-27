@@ -3,9 +3,9 @@ unique-page-id: 7511815
 description: Versionsinformation -April 2015 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -april 2015
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '322'
 ht-degree: 0%
 
 ---
@@ -17,29 +17,31 @@ Följande funktioner ingår i aprilversionen 2015. Kontrollera om din Marketo Ed
 
 ## Hemmaredesign för analyser
 
-[Hemmaredesign för analyser](../../product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md)
+[Hemmaredesign för analyser](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md)
 
 >[!NOTE]
 >
 >Den här funktionen kommer att släppas tisdagen den 28 april.
 
-Den nya [startsidan för analyser](../../product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) ger snabb åtkomst för att köra ad hoc-rapporter över tillgängliga rapporttyper.   ![](assets/image2015-4-20-11-3a18-3a8.png)
+Den nya [startsidan för analyser](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) ger snabb åtkomst för att köra ad hoc-rapporter över tillgängliga rapporttyper.
+
+![](assets/image2015-4-20-11-3a18-3a8.png)
 
 Dessutom finns nu både privat och delad rapportorganisation tillgänglig. Skapa eller dra rapporter till mappen Mina rapporter för att låsa dem så att de inte kan visas, redigeras eller tas bort av andra användare. Grupprapporter delas av alla användare.
 
 ## Marketo Mobile Engagement {#marketo-mobile-engagement}
 
-[Marketo Mobile Engagement](https://docs.marketo.com/display/docs/mobile+marketing)
+**Marketo Mobile Engagement**
 
-Med [Marketo Mobile Engagement](https://docs.marketo.com/display/docs/mobile+marketing) är det enkelt att leverera övertygande mobilupplevelser. Skapa personaliserade kampanjer som levererar övertygande innehåll utan att någonsin behöva förlita sig på ett apputvecklingsteam. Med nya filter och utlösare kan du lyssna och svara på mobilkanalen via push-meddelanden.
+Med Marketo Mobile Engagement är det enkelt att leverera övertygande mobilupplevelser. Skapa personaliserade kampanjer som levererar övertygande innehåll utan att någonsin behöva förlita sig på ett apputvecklingsteam. Med nya filter och utlösare kan du lyssna och svara på mobilkanalen via push-meddelanden.
 
 ![](assets/image2015-4-20-11-3a16-3a55.png)
 
 ## LinkedIn Lead Accelerator-integrering
 
-[LinkedIn Lead Accelerator-integrering](../../product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+[LinkedIn Lead Accelerator-integrering](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-Utvidga er strategi för huvudnäring till betalannonsering och social annonsering. Med [annonsens nätverksintegrering](../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) med LinkedIn Lead Accelerator kan du på ett säkert sätt skapa ett målgruppssegment i LinkedIn baserat på medlemmarna i en smart eller statisk lista. Medlemmar i ett LinkedIn-målgruppssegment kan sedan hanteras med en sekvens av relevanta annonser.
+Utvidga er strategi för huvudnäring till betalannonsering och social annonsering. Med [annonsens nätverksintegrering](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) med LinkedIn Lead Accelerator kan du på ett säkert sätt skapa ett målgruppssegment i LinkedIn baserat på medlemmarna i en smart eller statisk lista. Medlemmar i ett LinkedIn-målgruppssegment kan sedan hanteras med en sekvens av relevanta annonser.
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 
@@ -51,8 +53,6 @@ Dina favoritfunktioner i Sales Insight - lead feed, best bets, intressanta stund
 
 ## RTP - kontobaserad marknadsanalys {#rtp-account-based-marketing-analytics}
 
-RTP - [Kontobaserad marknadsanalys](https://docs.marketo.com/pages/viewpage.action?pageid=7511515)
+**RTP - kontobaserad marknadsanalys**
 
-Få omedelbar synlighet av [prestandan för dina huvudlistor med namngivna konton](https://docs.marketo.com/pages/viewpage.action?pageid=7511515) baserat på varje fas i köpcykeln, med det nya prestandagrafen för listorna med namngivna konton. I diagrammet visas hur långt besöket från nyckelorganisationen har kommit, från medvetenhet till handling, baserat på antalet besök och besökarens status.
-
-![](https://lh3.googleusercontent.com/ZipQutmNTRxkWdr_zzdatg31w7xmQ0xkniez-qf2X784MO-0AoHfKE0ltYSeaHU73KxyZc3s0Oklfig_v6bpN7tKnrrX6hHcMs44RFgtUb1qOf_Y5uhKedyHi6tQv3KhUHaCmIc)
+Få direkt insyn i prestanda för dina huvudlistor med namngivna konton baserat på varje fas i köpcykeln, med den nya prestandagrafen för dina listor med namngivna konton. I diagrammet visas hur långt besöket från nyckelorganisationen har kommit, från medvetenhet till handling, baserat på antalet besök och besökarens status.
