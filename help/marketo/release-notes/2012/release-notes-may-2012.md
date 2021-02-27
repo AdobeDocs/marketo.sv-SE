@@ -3,21 +3,15 @@ unique-page-id: 2951117
 description: Versionsinformation -maj 2012 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -maj 2012
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '641'
 ht-degree: 0%
 
 ---
 
 
 # Versionsinformation: Maj 2012 {#release-notes-may}
-
->[!NOTE]
->
->**Djupdykning**
->
->Andra versioner finns i [versionsinformationen](https://docs.marketo.com/display/docs/release+notes) djupdykning.
 
 ## E-postprestandarapport, omdesign {#email-performance-report-redesign}
 
@@ -47,7 +41,9 @@ Förenkla incheckningen av event med vår nya iPad-app! Appen Event Check-in syn
 
 Kräver iOS 5.1 eller senare. Endast iPad.
 
-![](assets/image2014-9-23-10-3a14-3a46.png)Figur 3. Hemsida för incheckning av händelser
+![](assets/image2014-9-23-10-3a14-3a46.png)
+
+Figur 3. Hemsida för incheckning av händelser
 
 ![](assets/image2014-9-23-10-3a15-3a6.png)
 
@@ -142,4 +138,3 @@ Figur 15. Se anonym webbaktivitet
 ## Utökat lead och kontaktprenumeration {#enhanced-lead-and-contact-subscribe}
 
 Följ en lead eller kontakta när som helst med den nya prenumerationsknappen på postinformationssidan.
-
