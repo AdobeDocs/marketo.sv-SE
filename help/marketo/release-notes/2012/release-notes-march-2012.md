@@ -3,9 +3,9 @@ unique-page-id: 2951122
 description: Versionsinformation -mars 2012 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - mars 2012
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,7 @@ ht-degree: 0%
 
 # Versionsinformation: Mars 2012 {#release-notes-march}
 
->[!NOTE]
->
->**Djupdykning**
->
->Andra versioner finns i [versionsinformationen](https://docs.marketo.com/display/docs/release+notes) djupdykning.
->
->## Lös mina token {#resolve-my-tokens}>
+## Lös mina token {#resolve-my-tokens}
 
 Mina token (programtoken) kommer att matchas när du förhandsgranskar ett e-postmeddelande, när du skickar ett testmeddelande och när du skickar ett lokalt e-postmeddelande via en enda flödesåtgärd. Du behöver inte längre skapa en smart kampanj i programmet för att testa dina Mina token!
 
