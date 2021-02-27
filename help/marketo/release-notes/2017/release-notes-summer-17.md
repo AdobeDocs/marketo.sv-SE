@@ -3,9 +3,9 @@ unique-page-id: 12980993
 description: Versionsinformation -Sommaren 17 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - Sommaren 17
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Följande funktioner ingår i sommarversionen 17. Se om din Marketo-utgåva har 
 
 Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion. Obs! Vissa av funktionerna i den här versionen har inte associerade artiklar. Om ett ämne har flera underrubriker placeras länkarna där.
 
-## [Ytterligare offlinekonverteringssteg för Facebook](https://docs.marketo.com/x/kbSt) {#additional-facebook-offline-conversion-stages}
+## [Ytterligare offlinekonverteringssteg för Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
 
 Välj ytterligare upp till sju offlinekonverteringsfaser för att kartlägga era marknads- och livscykelfaser (utöver de tre som finns idag). Optimera era utgifter för Facebook-annonser baserat på konverteringar under hela kundresan för att få bättre avkastning.
 
 ![](assets/image2017-8-24-15-3a23-3a31.png)
 
-## [Lås mall för försäljningsinsikter](https://docs.marketo.com/x/OhPG) {#lock-sales-insight-template}
+## [Lås mall för försäljningsinsikter](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md) {#lock-sales-insight-template}
 
 Se till att meddelanden och innehåll är konsekventa genom att förhindra redigering av dina säljmallar. Det gör att mallar standardiseras och att man kan upprätthålla professionell kommunikation.
 
@@ -35,17 +35,17 @@ Se till att meddelanden och innehåll är konsekventa genom att förhindra redig
 
 Matcha personer mot japanska företagsnamn på det lokala språket.
 
-** [Integrering av ABM och LeanData](https://docs.marketo.com/x/pKmt)**
+**[Integrering av ABM och LeanData](https://docs.marketo.com/x/pKmt)**
 
 LeanData-integrering tillåter nu matchning från lead till konto i Marketo. Håll marknadsföringen och försäljningen i linje med varandra genom att ha samma leads kopplade till konton inom sälj- och marknadsföringssystemen. Flexiblare alternativ ger marknadsförings- och säljåtgärder större kontroll över lead-to-account-matchningsregler, så att de kan uppnå önskad precisionsnivå.
 
 ## Förbättringar av webbanpassning {#web-personalization-enhancements}
 
-** [Förbättringar av förhandsgranskning av kampanj](https://docs.marketo.com/x/fQGa)**
+**[Förbättringar av förhandsgranskning av kampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
 
 Marknadsförare kan nu se till att deras webbkampanjer ser bra ut på alla enheter *innan* startar dem. Med de här förbättringarna kan du se hur webbkampanjer kommer att se ut på både dator, mobila enheter och surfplattor. Den nya pluginen för Chrome ger också enhetligare och exaktare förhandsgranskningar.
 
-** [Förbättringar av widgetkampanjer](https://docs.marketo.com/x/KgNI)**
+**[Förbättringar av widgetkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)**
 
 Nu finns nya alternativ för widgetkampanjer:
 
@@ -53,11 +53,11 @@ Nu finns nya alternativ för widgetkampanjer:
 * Visa kampanjer (alla positioner på skärmen)
 * Ändra expandera/minimera pilen till valfri CTA-text
 
-## Innehåll`<sup>AI</sup>` {#contentai}
+## ContentAI {#contentai}
 
-** [Innehåll`<sup>AI </sup>`Analys och förslag](https://docs.marketo.com/x/1BPG)**
+**[ContentAI Analytics and Suggquestions](/help/marketo/product-docs/predictive-content/predictive-content-analytics-overview.md)**
 
-Öka avkastningen på er innehållsmarknadsföring med djupare analyser och AI-baserade innehållsförslag för att öka engagemanget.** **Kraftfull analys visar hur rekommenderat innehåll fungerar, inklusive populära, trendbaserade och målgruppsbaserade vyer. Du kommer också att se förslag på ytterligare innehåll som ska inkluderas.
+Öka avkastningen på er innehållsmarknadsföring med djupare analyser och AI-baserade innehållsförslag för att öka engagemanget. Kraftfulla analyser visar hur rekommenderat innehåll fungerar, inklusive populära, trendbaserade och målgruppsbaserade vyer. Du kommer också att se förslag på ytterligare innehåll som ska inkluderas.
 
 ## Analyser {#analytics}
 
@@ -65,6 +65,6 @@ Nu finns nya alternativ för widgetkampanjer:
 
 Få ut ännu mer av er upplevelse av e-postinsikter med nya sätt att förbereda och dela data. Du kan nu hämta dina e-postinsikter-resultat till Microsoft Excel och PowerPoint för att arbeta med data utanför Marketo.
 
-## [Stöd för konfiguration av federerade identiteter](https://docs.marketo.com/x/XhzG) {#federated-identity-configuration-support}
+## Stöd för konfiguration av federerade identiteter {#federated-identity-configuration-support}
 
 Håll autentiseringen (Active Directory) bakom brandväggen lokalt medan du fortsätter använda Microsoft Dynamics CRM i molnet.
