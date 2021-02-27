@@ -3,9 +3,9 @@ unique-page-id: 4720758
 description: Versionsinformation -januari 2015 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - januari 2015
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,13 @@ Följande funktioner ingår i januari 2015-versionen. Kontrollera om din Marketo
 
 ## Automatiseringsuppdateringar {#marketing-automation-updates}
 
-**Nya foton av Rick DeCosta!**
-
-Rick är Marketo-kund hos SmartBear och har [en fantastisk samling foton](https://www.flickr.com/photos/rickdecosta). Kolla in dem!
-
-## Mobilanpassade landningssidor {#mobile-friendly-landing-pages}
+**Mobilanpassade landningssidor**
 
 Du kan nu [skapa mobilvyer för landningssidor](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) inifrån startsidans redigerare. Leverera ert budskap effektivt oavsett enhet och öka engagemanget genom att skräddarsy ert innehåll för enkel användning oavsett var ni är. Den här funktionen lanseras gradvis under veckan efter releasen.
 
-`<iframe width="420" height="315" src="//www.youtube-nocookie.com/embed/aPQHlG2X6c0" frameborder="0" allowfullscreen></iframe>`
+[-Landing Page Walkthrough Video-](https://youtu.be/aPQHlG2X6c0)
 
-**Nya ReST API-anrop**
+**Nya återstående API-anrop**
 
 Tre nya anrop till API:t Lead &amp; Activity ReST:
 
@@ -57,9 +53,9 @@ Förbättringar av modulen Namngivna konton förbättrar matchningsfrekvenserna 
 
 ![](assets/image2015-1-14-11-3a12-3a16.png)
 
-Uppdaterade alternativ för RTP-tagg
+**Uppdaterade alternativ för RTP-tagg**
 
-[RTP-](https://docs.marketo.com/display/docs/rtp+tag+implementation) taggalternativen under Kontoinställningar har uppdaterats till att omfatta:
+Alternativen för RTP-tagg under Kontoinställningar har uppdaterats till att omfatta:
 
 1. CDN och asynkron (rekommenderad tagg)
 1. CDN och synkron (hög hastighet)
