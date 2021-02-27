@@ -3,7 +3,7 @@ unique-page-id: 2951105
 description: Versionsinformation -januari 2013 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - januari 2013
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 0%
@@ -62,4 +62,3 @@ Fältvisningsnamn kan visa text på olika språk (t.ex. tecken med flera byte st
 I steget Ändra programdataflöde kan du ändra en programmedlems status Slutfört och Slutfört-datum manuellt via en kampanj. Du kan använda det här flödessteget för att korrigera ett misstag eller för att manuellt ändra en medlem som inte har deltagit i programmet som det är tänkt.
 
 ![](assets/image2014-9-22-15-3a23-3a23.png)
-
