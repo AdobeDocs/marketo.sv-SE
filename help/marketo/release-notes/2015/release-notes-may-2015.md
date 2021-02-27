@@ -1,11 +1,11 @@
 ---
 unique-page-id: 7514821
-description: Versionsinformation -maj 2015 - Marketo Docs - Produktdokumentation
-title: Versionsinformation -maj 2015
+description: Versionsinformation - maj 2015 - Marketo Docs - Produktdokumentation
+title: Versionsinformation - maj 2015
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Följande funktioner ingår i majversionen 2015. Kontrollera om din Marketo Edit
 
 ## Helt responsiva landningssidor
 
-[Helt responsiva landningssidor](../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
+[Helt responsiva landningssidor](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
 Vi lanserar ett nytt redigeringsläge för landningssidor och mallsyntax. Till skillnad från vår&quot;friformsredigerare&quot; för landningssidan kommer den nya&quot;guidade&quot; redigeraren för landningssidan att ge en strukturerad redigeringsupplevelse för fullt responsiva landningssidor.
 
@@ -25,7 +25,7 @@ Vi lanserar ett nytt redigeringsläge för landningssidor och mallsyntax. Till s
 
 ## Avbryt e-postprogram
 
-[Avbryt e-postprogram](../../product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
+[Avbryt e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
 
 Träffade du skicka innan ett e-postprogram var klart att skickas? Bromsa med den nya knappen för avbrutet e-postprogram. Detta stoppar e-postprogram direkt i sina spår.
 
@@ -39,15 +39,12 @@ Från och med den här versionen är giltiga HTML-kommentarer nu tillåtna och t
 
 ## RTP: Dra och släpp segmentredigeraren {#rtp-drag-and-drop-segment-editor}
 
-RTP: [Dra och släpp segmentredigerare](https://docs.marketo.com/display/public/DOCS/RTP+Segments)
+RTP: [Dra och släpp segmentredigerare](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
 
 Dra och släpp villkoren i segmentbyggaren, definiera värdet och du är bra på att skapa ett realtidssegment.
 
 ## RTP: Predictive Content Recommendations {#rtp-predictive-content-recommendations}
 
-[Prediktiv text Recommendations](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine)
+[Prediktiv text Recommendations](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
 
 Använd RTP:s algoritmer för maskininlärning och prediktiv analys för att rekommendera rätt innehåll till rätt potentiell kund. Förbättra ert innehåll visuellt med bilder och textbeskrivningar och rekommendera mer än en innehållsresurs.
-
-![](https://lh6.googleusercontent.com/yZhSkWzW3BES9hSTUirKxM5BENG6c1kuYoclQaSY49UZpjF0s4llnshW4DV-vp4myucgOH9IJ3SqyNdy-nc38Xgy-43IY3QblAS1jY5N8GcP4xgTD1Nbp7ibfZV4yc4PM6AHqt4)
-
