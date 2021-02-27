@@ -3,9 +3,9 @@ unique-page-id: 2951099
 description: Versionsinformation -April 2013 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -april 2013
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Versionsinformation: April 2013 {#release-notes-april}
 
-Följande funktioner finns i aprilversionen. Kontrollera din [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php) för att se om det finns funktioner.
-
-Efter releasen ska du kontrollera fliken [New Release](release-notes-december-2013.md) i communityn för detaljerade kunskapsbasartiklar för varje funktion!
+Följande funktioner finns i aprilversionen.
 
 ## Box-integrering {#box-integration}
 
