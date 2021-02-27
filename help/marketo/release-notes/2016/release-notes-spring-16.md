@@ -3,9 +3,9 @@ unique-page-id: 11370952
 description: Versionsinformation -Spring '16 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - våren 16
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 9dd108de97be01acf00d42be90b2661d153a4265
 workflow-type: tm+mt
-source-wordcount: '837'
+source-wordcount: '799'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Följande funktioner finns i vårutgåvan 16. Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion.
 
-## [E-postinsikter](https://docs.marketo.com/display/docs/email+insights) {#email-insights}
+## [E-postinsikter](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md) {#email-insights}
 
 E-postinsikter är en helt ny historik över e-postanalyser av sammanställda data - helt omdesignade för blixtsnabba prestanda som en del av Project Orion. Den har ett helt nytt användargränssnitt som är optimerat för att passa e-postmarknadsförarnas behov och arbetsflöde.
 
@@ -31,7 +31,7 @@ Skapa vackra e-postmeddelanden med våra nya startmallar! Du kan också snabbt h
 
 >[!NOTE]
 >
->E-postredigeraren 2.0 (med mallväljaren) kommer gradvis att lanseras från och med den 3 juni. Vi kommer att vara klara den 30 juni. Till skillnad från e-postinsikter meddelas du inte när du har åtkomst. Om du vill se om du gör det följer du stegen i [den här artikeln](https://docs.marketo.com/pages/viewpage.action?pageId=11373011).
+>E-postredigeraren 2.0 (med mallväljaren) kommer gradvis att lanseras från och med den 3 juni. Vi kommer att vara klara den 30 juni. Till skillnad från e-postinsikter meddelas du inte när du har åtkomst. Om du vill se om du gör det följer du stegen i [den här artikeln](/help/marketo/product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md).
 
 ![](assets/5-29-home-starter-templates.png)
 
@@ -53,17 +53,13 @@ Nu är det dags att omgodkänna allt varje gång ett textutdrag uppdateras! Med 
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 
-## [Anpassade aktiviteter](https://docs.marketo.com/display/docs/marketo+custom+activities) {#custom-activities}
-
-Marketo-administratörer kan nu definiera och hantera sina anpassade aktivitetstyper via Marketo Custom Activity Definition-modelleraren. På samma sätt som (och i kombination med) Marketo Custom Object Modeler kan administratörer nu utöka datamodellen för att passa just deras affärsbehov. Information om hur du använder den här funktionen finns på webbplatsen [Marketo documentation](https://docs.marketo.com/display/public/DOCS/Marketo+Custom+Activities).
-
 ## [Landningssida, landningssidmall och formulär-API:er](https://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
 
 Marketo REST API:er har nu stöd för kontroll över Marketo-landningssidor, landningssidmallar och formulär. Användarna kan nu skapa, uppdatera, godkänna och ta bort dessa resurser direkt via Marketo REST API.
 
 ## [IP-Tillåtelselistning för API-åtkomst](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-På samma sätt som funktionen för IP-tillåtelselistning för Marketo-användarinloggningar kan Marketo-administratörer nu ställa in ett tillåtelselista med IP-adresser som kan komma åt Marketo SOAP- och REST-API:er, vilket blockerar åtkomst från icke-auktoriserade IP-adresser. Detta lägger till ett extra säkerhetsskikt till din Marketo-instans och ser till att API-åtkomst bara kan ske inifrån organisationens nätverk. Information om hur du konfigurerar detta finns på webbplatsen [Marketo documentation](https://docs.marketo.com/display/public/DOCS/Create+a+Whitelist+for+IP-Based+API+Access).
+På samma sätt som funktionen för IP-tillåtelselistning för Marketo-användarinloggningar kan Marketo-administratörer nu ställa in ett tillåtelselista med IP-adresser som kan komma åt Marketo SOAP- och REST-API:er, vilket blockerar åtkomst från icke-auktoriserade IP-adresser. Detta lägger till ett extra säkerhetsskikt till din Marketo-instans och ser till att API-åtkomst bara kan ske inifrån organisationens nätverk. Information om hur du konfigurerar detta finns på webbplatsen [Marketo documentation](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 
 ## [Ny Microsoft Dynamics Sync Connector med hög hastighet](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
@@ -100,3 +96,7 @@ Idag bjuds användare in till Marketo-prenumeration för en obegränsad tidsperi
 Nu kan du visa antalet poster och fält för alla publicerade anpassade objekt.
 
 ![](assets/custom-objects-grid.png)
+
+## Anpassade aktiviteter {#custom-activities}
+
+Marketo-administratörer kan nu definiera och hantera sina anpassade aktivitetstyper via Marketo Custom Activity Definition-modelleraren. På samma sätt som (och i kombination med) Marketo Custom Object Modeler kan administratörer nu utöka datamodellen för att passa just deras affärsbehov. Information om hur du använder den här funktionen finns på webbplatsen [Marketo documentation](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md).
