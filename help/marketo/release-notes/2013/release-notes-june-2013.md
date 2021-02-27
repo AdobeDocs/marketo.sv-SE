@@ -3,9 +3,9 @@ unique-page-id: 2951095
 description: Versionsinformation -juni 2013 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -juni 2013
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Versionsinformation: Juni 2013 {#release-notes-june}
 
-Följande funktioner finns i juniversionen. Kontrollera din [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php) för att se om det finns funktioner.
-
-Efter releasen ska du kontrollera fliken [New Release](release-notes-december-2013.md) i communityn för detaljerade kunskapsbasartiklar för varje funktion!
+Följande funktioner finns i juniversionen.
 
 ## Ytterligare användarspråk {#additional-user-languages}
 
@@ -42,4 +40,3 @@ Den här funktionen är en bra idé för RCA (Revenue Cycle Analytics) i communi
 Som standard finns det två modeller för Select SMB Edition och femton för Enterprise Edition. Du kan också köpa ytterligare modeller.
 
 ![](assets/image2014-9-22-16-3a26-3a59.png)
-
