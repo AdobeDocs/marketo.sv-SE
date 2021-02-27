@@ -3,9 +3,9 @@ unique-page-id: 2951050
 description: Versionsinformation -januari 2014 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - januari 2014
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Följande funktioner ingår i januari 2014-versionen. Kontrollera din [Marketo E
 
 ## Forms 2.0 {#forms}
 
-HUD: Dokumentation för Forms 2.0 kommer snart. Under tiden kan du läsa mer nedan och i videon [intro](https://docs.marketo.com/display/docs/forms)!
+HUD: Dokumentation för Forms 2.0 kommer snart!
 
-Ta kontroll över hur blanketterna skapas och ge webbutvecklarna en chans. [Forms](https://docs.marketo.com/display/docs/forms) 2.0 är utformat för att ge marknadsförarna möjlighet att skapa både visuellt och funktionellt robusta formulär utan att behöva programmeringskunskaper.
+Ta kontroll över hur blanketterna skapas och ge webbutvecklarna en chans. Forms 2.0 är utformat för att ge marknadsförare möjlighet att skapa både visuellt och funktionellt robusta formulär utan att behöva ha programmeringskunskaper.
 
 **Ge din Forms den visuella makeover de förtjänar:**
 
@@ -27,7 +27,8 @@ Temamodesigner, knappanpassning och flexibla layouter gör att du kan skapa mode
 
 **Logik för villkorlig synlighet och uppföljningssida:**
 
-![](assets/image2014-9-22-10-3a30-3a52.png)\
+![](assets/image2014-9-22-10-3a30-3a52.png)
+
 Vill du att &quot;State&quot; bara ska visas om en användare väljer USA som &quot;Country&quot;? Vad sägs om att presentera olika rapporter för kunderna baserat på hur de besvarar frågor i formuläret? Bygg in villkorlig logik i formulären direkt från redigeraren. Inget javascript krävs!
 
 ![](assets/image2014-9-22-10-3a31-3a54.png)
@@ -38,17 +39,14 @@ Nu är det dags att lyfta HTML-kod från formulär som placerats på Marketo-lan
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 
-Läs mer i [Forms 2.0 intro video](https://docs.marketo.com/display/docs/forms). (Dokumentationen kommer till djupdykningen [Forms](https://docs.marketo.com/display/docs/forms) snart!)
-
 ## Kommunikationsbegränsningar för e-postprogram {#communication-limits-for-email-program}
 
-[Ange kommunikationsgränser för e-](../../product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) postprogram för att vara säker på att du inte överkommunicerar med databasen. Om en person överskrider gränsen får hon inte något e-postmeddelande.
+[Ange kommunikationsgränser för e-](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) postprogram för att vara säker på att du inte överkommunicerar med databasen. Om en person överskrider gränsen får hon inte något e-postmeddelande.
 
 ![](assets/image2014-9-22-10-3a38-3a31.png)
 
 ## Ytterligare fält i programmedlemskapsanalys {#additional-fields-in-program-membership-analysis}
 
-Nu kan du lägga till och gruppera dina [analyser av programmedlemskap](../../product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) per lead- och företagsattribut. Du kan till exempel lägga till fältet Bransch för att se hur programmedlemmarna och framgångarna har delats upp.
+Nu kan du lägga till och gruppera dina [analyser av programmedlemskap](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) per lead- och företagsattribut. Du kan till exempel lägga till fältet Bransch för att se hur programmedlemmarna och framgångarna har delats upp.
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)
-
