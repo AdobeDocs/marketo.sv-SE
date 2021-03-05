@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketos produktdokumentation
 translation-type: tm+mt
-source-git-commit: 8bde41ab77661487bc220c3c4ec52c9be3b09fd0
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '7833'
+source-wordcount: '7857'
 ht-degree: 0%
 
 ---
@@ -210,6 +210,7 @@ ht-degree: 0%
          + [Redigera och ta bort markering i anpassade objektfält](product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
          + [Importera anpassade objektdata](product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
          + [Utlös ändringar av anpassade objekt](product-docs/administration/marketo-custom-objects/trigger-off-custom-object-changes.md)
+         + [Exportera metadata för anpassat objekt](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
       + Inställningar {#settings}
          + [Ändra attributinställningar för analys](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
          + [Ändra ditt Marketo-lösenord](product-docs/administration/settings/change-your-marketo-password.md)
@@ -325,6 +326,7 @@ ht-degree: 0%
             + [Ändra programstatus](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
             + [Programmet har ändrats](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-success.md)
          + Microsoft Dynamics Flow-åtgärder {#microsoft-dynamics-flow-actions}
+            + [Lägg till eller ta bort personer från Dynamics-kampanjen](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
             + [Ändra ägare i Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/change-owner-in-microsoft.md)
             + [Skapa uppgift i Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/create-task-in-microsoft.md)
             + [Synkronisera person till Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md)
@@ -529,6 +531,8 @@ ht-degree: 0%
             + [Microsoft Dynamics Sync: Synkronisering av affärsmöjlighet](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
             + [Microsoft Dynamics Sync: Användarsynkronisering](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
             + [Synkroniseringsstatus](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)
+            + [Kampanjsynkronisering - översikt](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/campaign-sync-overview.md)
+            + [Aktivera kampanjsynkronisering](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
          + Information om synkroniseringsfilter för anpassad Dynamics {#custom-dynmaics-sync-filter-details}
             + [Skapa ett anpassat Dynamics-synkroniseringsfilter](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)
             + [Anpassade synkroniseringsfilterregler för en e-postadress](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
@@ -580,6 +584,7 @@ ht-degree: 0%
          + [Lägg till/ta bort värden för plocklistor](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
          + [Aktivera/inaktivera Salesforce-synkronisering](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
          + [Underförstådda Salesforce-åtgärder](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
+         + [Status för Salesforce-synkronisering](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
    + Efterfrågegenerering {#demand-generation}
       + Lägg till nätverksintegreringar {#ad-network-integrations}
          + [Lägg till anpassade Facebook-målgrupper som en LaunchPoint-tjänst](product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
@@ -784,7 +789,7 @@ ht-degree: 0%
                + [Mall 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [Mall 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Mall 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Mall 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Mall 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Mall 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Mall 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Mall 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1645,10 +1650,11 @@ ht-degree: 0%
 + Versionsinformation {#release-notes}
    + [Versionsschema](release-notes/release-schedule.md)
    + 2020 {#2020}
-      + [Versionsinformation: 20 feb](release-notes/2020/release-notes-feb-20.md)
       + [Versionsinformation: 20 januari](release-notes/2020/release-notes-jan-20.md)
-      + [Versionsinformation: Juli 20](release-notes/2020/release-notes-july-20.md)
+      + [Versionsinformation: 20 feb](release-notes/2020/release-notes-feb-20.md)
       + [Versionsinformation: Juni 20](release-notes/2020/release-notes-june-20.md)
+      + [Versionsinformation: Juli 20](release-notes/2020/release-notes-july-20.md)
+      + [Versionsinformation: 20 okt](release-notes/2020/release-notes-oct-20.md)
    + 2019 {#2019}
       + [Versionsinformation: 19 augusti](release-notes/2019/release-notes-august-19.md)
       + [Versionsinformation: Juni 19](release-notes/2019/release-notes-june-19.md)
