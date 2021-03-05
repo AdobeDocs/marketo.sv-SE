@@ -3,9 +3,9 @@ unique-page-id: 14746177
 description: Prenumerera på ett abonnemang - Marketo Docs - produktdokumentation
 title: Prenumerera på och avbryta prenumeration
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -40,3 +40,7 @@ Ibland vill man avanmäla sig från att ta emot e-post. Så här gör du för at
 1. Välj orsaken till varför personen har valts in igen för att få e-post och klicka sedan på **Ta bort avanmälan**.
 
    ![](assets/four.png)
+
+>[!NOTE]
+>
+>Om du har aktiverat synkronisering av avanmälan måste du avmarkera avmarkera avvalsrutan för posten i Salesforce, annars kommer personen i Sales Connect att avbeställas igen om synkroniseringen görs, eftersom den person som är avanmäld i Salesforce upptäcks. Om någon av posterna avanmäls/avanmäls markerar synkroniseringen den länkade posten som sådan.
