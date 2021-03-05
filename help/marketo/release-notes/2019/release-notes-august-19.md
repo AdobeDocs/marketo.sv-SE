@@ -3,9 +3,9 @@ unique-page-id: 27656786
 description: Versionsinformation -August 19 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - augusti 19
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,6 @@ Följande funktioner är icke-kvartalsvisa och kommer att släppas under det tre
 
 **Marketo Sales Connect** ![ (stjärna)](assets/star-yellow.svg)
 
-* **Onboarding**: Stegvis genomgång gör introduktionen enklare och effektivare genom att vägleda nya användare genom instanskonfiguration.
 * **Förbättring av sidlayout för personer:** Hantera personer och grupper genom att lista importer och gruppåtgärder i den nya sidlayouten för personer.
 
 >[!AVAILABILITY]
