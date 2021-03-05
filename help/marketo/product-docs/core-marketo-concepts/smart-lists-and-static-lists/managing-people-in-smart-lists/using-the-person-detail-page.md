@@ -3,9 +3,9 @@ unique-page-id: 2953415
 description: Använda personinformationssidan - Marketo Docs - Produktdokumentation
 title: Använda personinformationssidan
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---
@@ -59,6 +59,10 @@ Personinformation kategoriseras på följande flikar:
 | Microsoft Lead-fält | Inbyggda Microsoft-fält. |
 | Aktivitetslogg | Alla aktiviteter som rör personen. |
 
+>[!NOTE]
+>
+>Du kan även se säljprojektsinformation [infogad via API](http://developers.marketo.com/rest-api/lead-database/opportunities/) för instanser som inte synkroniseras med en CRM.
+
 ## Redigera ett fält {#editing-a-field}
 
 Många fält kan redigeras. Om du vill uppdatera en persons information skriver du in ett nytt värde och klickar utanför fältet för att spara.
@@ -92,10 +96,10 @@ Många fält kan redigeras. Om du vill uppdatera en persons information skriver 
 >
 >Vissa fält är _inte_ redigerbara:
 >
+>* Aktivitetslogg
 >* Företagsinformation
 >* Möjligheter för SFDC-kontakter
 >* Vissa Marketinspecifika fält, t.ex. Skapad och Ursprunglig källtyp.
->* Aktivitetslogg
 
 >
 >
