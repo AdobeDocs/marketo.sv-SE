@@ -3,7 +3,7 @@ unique-page-id: 6848747
 description: Beskrivningar av rollbehörigheter - Marketo Docs - Produktdokumentation
 title: Beskrivningar av rollbehörigheter
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
 source-wordcount: '1144'
 ht-degree: 0%
@@ -86,7 +86,7 @@ Ger användare med **API Endast** **rollen** åtkomst till de enskilda API:erna 
 * Möjligheter att läsa och skriva
 * Skrivskyddad säljare
 
-Åtkomstanalys
+## Åtkomstanalys {#access-analytics}
 
 Ger användarna åtkomst till Analytics-flikarna, e-postinsikter, rapporter och de tre objekten nedan, om de inte är avmarkerade.
 
@@ -96,7 +96,7 @@ Ger användarna åtkomst till Analytics-flikarna, e-postinsikter, rapporter och 
 
 ## Öppna kalendern Presentations {#access-calendar-presentations}
 
-Ger användare åtkomst till kalenderpresentationer ??- aktiverar visning av Presentations-knappen längst ned?
+Ger användare åtkomst till kalenderpresentationer - aktiverar visning av Presentations-knappen längst ned.
 
 * Redigera kalender i Presentations - Gör att användare kan redigera presentationer i kalendern
 
