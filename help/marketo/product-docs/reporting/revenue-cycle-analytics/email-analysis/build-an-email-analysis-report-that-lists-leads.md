@@ -3,9 +3,9 @@ unique-page-id: 2360407
 description: Skapa en e-postanalysrapport som listar leads - Marketo Docs - produktdokumentation
 title: Skapa en e-postanalysrapport som listar leads
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -17,48 +17,46 @@ ht-degree: 0%
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
-Följ de här stegen för att skapa en e-postanalysrapport som visar alla leads som har skickats ett visst e-postmeddelande. Rapporten innehåller även Klicka- och Öppna-statistik. 1. Starta Intresseutforskaren.
+Följ de här stegen för att skapa en e-postanalysrapport som visar alla leads som har skickats ett visst e-postmeddelande. Rapporten innehåller även Klicka- och Öppna-statistik.
 
-![](assets/image2014-9-17-19-3a12-3a54.png)
+1. Starta **Intresseutforskaren**.
 
-1. Klicka på **Ny rapport**.
+   ![](assets/report-that-lists-leads-1.png)
 
-   ![](assets/image2014-9-17-19-3a13-3a1.png)
+1. Klicka på **Skapa ny** och **Rapport**.
 
-1. Markera området för e-postanalys och klicka på **OK**.
+   ![](assets/report-that-lists-leads-2.png)
 
-   ![](assets/image2014-9-17-19-3a14-3a0.png)
+1. Välj E-postanalys och klicka på **OK**.
+
+   ![](assets/report-that-lists-leads-3.png)
 
 1. Leta reda på den gula punkten för e-postnamnet, högerklicka på den och välj **Filter**.
 
-   ![](assets/image2014-9-17-19-3a14-3a6.png)
+   ![](assets/report-that-lists-leads-4.png)
 
 1. Dubbelklicka på den e-postadress du vill använda i listan och klicka på **OK**.
 
-   ![](assets/image2014-9-17-19-3a14-3a11.png)
+   ![](assets/report-that-lists-leads-5.png)
 
-1. Dra den gula punkten för e-postnamnet till Kolumner.
+1. Dra den gula punkten **E-postnamnet** till **Kolumner**.
 
-   ![](assets/image2014-9-17-19-3a15-3a0.png)
+   ![](assets/report-that-lists-leads-6.png)
 
    >[!TIP]
    >
    >Det finns många lead-/företagsattribut som du kan lägga till som kolumner, checka ut dem!
 
-1. Hitta den gula punkten med fullständigt namn och dra den till Rader.
+1. Hitta den gula punkten **Fullständigt namn** och dra den till **Rader**.
 
-   ![](assets/image2014-9-17-19-3a15-3a32.png)
+   ![](assets/report-that-lists-leads-7.png)
 
-1. Lägg till de mått du är intresserad av genom att dubbelklicka på dem.
+1. Lägg till **Mått** som du är intresserad av genom att dubbelklicka på dem.
 
-   ![](assets/image2014-9-17-19-3a15-3a47.png)
+   ![](assets/report-that-lists-leads-8.png)
 
 >[!NOTE]
 >
 >Beroende på hur mycket data du har kan det ta en stund att uppdatera rapporten.
-
-Nu när du är klar bör din rapport se ut ungefär så här:
-
-![](assets/image2014-9-17-19-3a16-3a39.png)
 
 Uppdraget är klart!
