@@ -3,9 +3,9 @@ unique-page-id: 18874822
 description: Versionsinformation -juni 19 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -juni 19
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '651'
+source-wordcount: '631'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,6 @@ Följande funktioner förväntas släppas under det andra kalenderkvartalet och 
 ## Marketo Sales Connect {#marketo-sales-connect}
 
 * **Massåtgärder i Salesforce-anpassning**: Maximera produktiviteten genom att skicka e-postmeddelanden och lägga till kontakter till kampanjer i grupp med Salesforce-anpassning.
-* **Markera, dra och släpp**: Ordna enkelt din Sales Connect-instans med möjlighet att dra och släppa mallar i intuitiva kategorier.
 * **Inställningar - Salesforce-sida för administratör och annan administratör**: Hantera din Sales Connect-instans med en tydlig vy av Salesforce-instansen som är ansluten till Sales Connect samt Mina e-postmeddelanden till Salesforce-uppdateringar. Förbättrade synkroniseringsinställningar för administratörer, icke-administratörer och Team Wide Sync kommer att släppas under de kommande månaderna.
 * **Inställningar - integreringssida**: En heltäckande butik för alla era integreringar, så att ni får ut maximalt av vårt öppna ekosystem.
 * **Inställningar - profilsida**: Visa och uppdatera din kontoinformation, ändra ditt lösenord och kontrollera status för instansens implementering på den nya profilsidan.
