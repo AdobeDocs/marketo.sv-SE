@@ -3,7 +3,7 @@ unique-page-id: 2360237
 description: Berätta för marknadsföringsberättelsen med en säljprojektsanalys - Marketo Docs - produktdokumentation
 title: Berätta för marknadsföringsberättelsen med en analys av säljprojektspåverkan
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Använd en påverkansanalys för säljprojekt för att illustrera marknadsförin
 
    Affärsmöjlighetsanalysen är en visuell representation av de interaktioner, program och händelseframgångar som är involverade i den affärsmöjligheten. Låt oss titta på diagrammet:
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Orange-** punkter utgör  [en intressant ](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md) drivkraft i affärsmöjligheten (öppnade e-postmeddelanden, direktreklam för både besök, nedladdningar av whitepaper-rapporter osv.). Större punkter indikerar fler interaktioner.
+   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Orange** utgör intressanta ögonblick i affärsmöjligheten (öppnade e-postmeddelanden, besök i butiker, nedladdningar av whitepaper-rapporter osv.). Större punkter indikerar fler interaktioner.
 
    * ![—](assets/image2014-10-3-13-3a44-3a9.png) **Binder** iconsindicate program success.
 
