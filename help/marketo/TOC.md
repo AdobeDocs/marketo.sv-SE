@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketos produktdokumentation
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
 workflow-type: tm+mt
-source-wordcount: '7857'
+source-wordcount: '7875'
 ht-degree: 0%
 
 ---
@@ -187,6 +187,7 @@ ht-degree: 0%
          + [Ordlista för anpassad fälttyp](product-docs/administration/field-management/custom-field-type-glossary.md)
          + [Ta bort ett anpassat fält i Marketto](product-docs/administration/field-management/delete-a-custom-field-in-marketo.md)
          + [Redigera fältalias för listimport](product-docs/administration/field-management/edit-field-aliases-for-list-import.md)
+         + [Exportera alla objektmetadata](product-docs/administration/field-management/export-all-object-metadata.md)
          + [Exportera en lista med alla Marketo API-fältnamn](product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md)
          + [Exportera som används av data för ett fält](product-docs/administration/field-management/export-used-by-data-for-a-field.md)
          + [Dölja och visa ett fält](product-docs/administration/field-management/hide-and-unhide-a-field.md)
@@ -246,6 +247,7 @@ ht-degree: 0%
          + [Exportera en lista med användare och roller](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Hantera Marketo-användare](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Hantera användarroller och behörigheter](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
+         + [Exportera roller och behörigheter](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Beskrivningar av rollbehörigheter](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md)
          + [Aktivera No-draft för kodfragment](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
       + Arbetsytor och personpartitioner {#workspaces-and-person-partitions}
@@ -434,6 +436,7 @@ ht-degree: 0%
          + Tokens {#tokens}
             + [Hantera mina token](product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
             + [Förstå mina token i ett program](product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
+            + [Anpassade fälttoken för programmedlem](product-docs/core-marketo-concepts/programs/tokens/program-member-custom-field-tokens.md)
       + Marknadskalender {#marketing-calendar}
          + Kalendern {#understanding-the-calendar}
             + [Utfärda/återkalla en licens för en marknadsföringskalender](product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)
@@ -1027,6 +1030,7 @@ ht-degree: 0%
          + [Översikt över Sales Connect](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
          + [Komma igång med Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
          + [Snabbstartsvideor och Tutorials](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
+         + [Ändra lösenordet för Säljanslutning](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
          + E-postinställningar {#email-settings}
             + [Lägg till identitet](product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md)
             + [Lägg till din e-postsignatur](product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md)
