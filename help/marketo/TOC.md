@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketos produktdokumentation
 translation-type: tm+mt
-source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
+source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
 workflow-type: tm+mt
-source-wordcount: '7875'
+source-wordcount: '7885'
 ht-degree: 0%
 
 ---
@@ -491,7 +491,8 @@ ht-degree: 0%
             + [Ordlista för kortkommandon](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
             + [Marketo Sandbox](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
             + [Byta namn på en markeringsresurs](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-            + [Konfigurera Adobe Experience Cloud målgruppsdelning](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+            + [Konfigurera Adobe Experience Cloud målgruppsdelning](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
+            + [Synkronisera en publik från Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
             + [Om mappar](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
             + [Om meddelanden](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
             + [Meddelandetyper](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
@@ -792,7 +793,7 @@ ht-degree: 0%
                + [Mall 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [Mall 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Mall 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Mall 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Mall 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Mall 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Mall 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Mall 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1028,7 +1029,8 @@ ht-degree: 0%
    + Marketo Sales Connect {#marketo-sales-connect}
       + Komma igång {#getting-started}
          + [Översikt över Sales Connect](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-         + [Komma igång med Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+         + [Komma igång med Sales Connect](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
+         + [Min profilsida](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
          + [Snabbstartsvideor och Tutorials](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
          + [Ändra lösenordet för Säljanslutning](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
          + E-postinställningar {#email-settings}
