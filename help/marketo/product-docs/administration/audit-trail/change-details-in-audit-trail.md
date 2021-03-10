@@ -3,9 +3,9 @@ unique-page-id: 11379928
 description: Ändra detaljer i granskningsspår - Marketo Docs - Produktdokumentation
 title: Ändra detaljer i granskningsspår
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
 workflow-type: tm+mt
-source-wordcount: '1889'
+source-wordcount: '1913'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Granskningsspår ger en hel del insikt i vem som gör vad i er Marketo-prenumera
    <th colspan="1">Ändra information</th> 
   </tr> 
   <tr> 
-   <td rowspan="15">Standardprogram<br><br><br><br><br><br><br><br><br><br><br></td> 
+   <td rowspan="15"><strong>Standardprogram</strong><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Skapa</td> 
    <td>Kanaltypen "kanaltyp"<br>eller<br>Klonad från "programnamn"</td> 
   </tr> 
@@ -91,7 +91,7 @@ Granskningsspår ger en hel del insikt i vem som gör vad i er Marketo-prenumera
    <td>Ej tillämpligt</td> 
   </tr> 
   <tr> 
-   <td rowspan="18">E-post<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
+   <td rowspan="19"><strong>E-post</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Skapa</td> 
    <td>Skapad med mallen "mallnamn" <br>eller <br>Klonad från "resursnamn"</td> 
   </tr> 
@@ -132,16 +132,20 @@ Granskningsspår ger en hel del insikt i vem som gör vad i er Marketo-prenumera
    <td>Redigerar skadat e-postmeddelande från mallen "template_name" (OBS: detta händer idag om du redigerar koden direkt)</td> 
   </tr> 
   <tr> 
+   <td>Redigera</td> 
+   <td>Ny beskrivning,"ny beskrivning" Gammal beskrivning,"gammal beskrivning"</td> 
+  </tr> 
+  <tr> 
+   <td>Redigera</td> 
+   <td>Redigera modul <module name><attribute> till "value"</td> 
+  </tr> 
+  <tr> 
    <td>Ta bort</td> 
    <td>Ej tillämpligt</td> 
   </tr> 
   <tr> 
    <td>Byt namn</td> 
    <td>Nytt namn, tidigare namn</td> 
-  </tr> 
-  <tr> 
-   <td>Redigera</td> 
-   <td>Ny beskrivning,"ny beskrivning" Gammal beskrivning,"gammal beskrivning"</td> 
   </tr> 
   <tr> 
    <td>Klona</td> 
@@ -163,7 +167,6 @@ Granskningsspår ger en hel del insikt i vem som gör vad i er Marketo-prenumera
    <td>Utkast</td> 
    <td>E-postmeddelandet har skrivits ut eftersom fragmentets"kodavsnittsnamn" godkändes<br>eller<br>E-postmeddelandet skapades eftersom mallens"mallnamn" godkändes</td> 
   </tr> 
-  <tr> 
    <td rowspan="17">E-postprogram</td> 
    <td>Skapa</td> 
    <td>Kanaltypen "kanaltyp"<br>eller<br>Klonad från "programnamn"</td> 
@@ -506,6 +509,14 @@ Granskningsspår ger en hel del insikt i vem som gör vad i er Marketo-prenumera
   <tr> 
    <td>Redigera</td> 
    <td>Ny beskrivning,"ny beskrivning" Föregående"föregående beskrivning"</td> 
+  </tr> 
+  <tr> 
+   <td>Redigera</td> 
+   <td>Lagt till "Image", borttagen "Image", redigerad bildkomponent</td> 
+  </tr> 
+  <tr> 
+   <td>Redigera</td> 
+   <td>Lagt till "RTF", borttagen "RTF", redigerad RTF-komponent</td> 
   </tr> 
   <tr> 
    <td>Klona</td> 
