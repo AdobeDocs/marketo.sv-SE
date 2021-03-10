@@ -3,9 +3,9 @@ unique-page-id: 2360337
 description: Skapa och använda ett sammanfogat strängfält (formel) - Marketo Docs - Produktdokumentation
 title: Skapa och använda ett sammanfogat strängfält (formel)
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 7b18fee7e376d6101cbeec45a3fcbaf1104c1bd0
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -39,14 +39,16 @@ Du kan kombinera värden från flera fält eller skapa ett villkorsstyrt värde 
 
    ![](assets/image2014-9-19-9-3a46-3a25.png)
 
-   Läs mer om [token för flödessteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
+   >[!TIP]
+   >
+   >Läs mer om [token för flödessteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
 
 1. Nu kan du lägga till formelfältet som en token i ett e-postmeddelande.
 
    ![](assets/seven.png)
 
-Bra jobbat! Nu har du ett smart fält som vet vilken hälsningsfras som ska inkluderas baserat på kön. Ha så kul och bli kreativ.
-
 >[!NOTE]
 >
->Formelfält kan användas på landningssidor, i e-postmeddelanden och i kolumner för smarta listor. de inte exporteras. E-postmeddelanden med formelfält kan inte skickas via batchkampanjer
+>Formelfält kan användas på landningssidor, e-postmeddelanden och kolumner för smarta listor (de exporteras inte). E-postmeddelanden med formelfält kan **inte** skickas med en gruppkampanj. Använd en [e-postskripttoken](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) i det här scenariot.
+
+Bra jobbat! Nu har du ett smart fält som vet vilken hälsningsfras som ska inkluderas baserat på kön. Ha så kul och bli kreativ.
