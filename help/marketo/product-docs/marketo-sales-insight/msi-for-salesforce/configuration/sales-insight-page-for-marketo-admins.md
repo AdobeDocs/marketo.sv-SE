@@ -3,9 +3,9 @@ unique-page-id: 42762409
 description: Sales Insight Page for Marketo Admins - Marketo Docs - produktdokumentation
 title: Sales Insight Page for Marketo Admins
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -85,4 +85,14 @@ När det här alternativet är aktiverat kan MSI-användare inte redigera mallar
 
 **Aktivera RSS-feed:**
 
-När det här alternativet är aktiverat kan MSI-användare visa sin lead-feed i en RSS-feed (utöver lead-feed i Salesforce).
+När det här alternativet är aktiverat kan MSI-användare visa sin lead-feed i en RSS-feed (utöver lead-feed i Salesforce). RSS-feed fungerar bara om funktionen &quot;Token Expiration&quot; är inaktiverad.
+
+**Giltighetstid för token:**
+
+Förfallotid för token styrs i Funktionshanteraren. Om du vill aktivera/inaktivera den kan du kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support). När det här alternativet är aktiverat upphör alla Marketo-tokens att gälla inom 10 minuter. När Marketo-token är inaktiverad upphör den inte att gälla.
+
+Token som genererats innan Token Expiration aktiverades har ingen förfallotid att validera mot, så de upphör inte att gälla även om funktionen är aktiverad.
+
+Token som genereras efter att Token Expiration aktiverats har en förfallotid på 10 minuter, så de går fortfarande ut om 10 minuter även efter att funktionen har inaktiverats.
+
+Tokenbeteendet baseras på när det genererades (när funktionen för förfallodatum för token aktiverades/inaktiverades, i stället för på dess nuvarande funktionsstatus).
