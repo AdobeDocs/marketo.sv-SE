@@ -3,7 +3,7 @@ unique-page-id: 2360331
 description: Ändra typ av ett Marketo-anpassat fält - Marketo-dokument - Produktdokumentation
 title: Ändra typ av markering till anpassat fält
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Så här ändrar du fälttypen för ett anpassat fält.
    >
    >Poängfält och formelfält kan inte ändras.
 
-   ![](assets/image2015-4-22-9-3a39-3a3.png)
+   ![](assets/change-the-type-of-a-marketo-custom-field-4.png)
 
 1. Läs varningen och klicka sedan på **Ändra** för att bekräfta.
 
