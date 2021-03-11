@@ -3,9 +3,9 @@ unique-page-id: 10100311
 description: Använda ett universellt ID för prenumerationsinloggning - Marketo Docs - produktdokumentation
 title: Använda ett universellt ID för prenumerationsinloggning
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '628'
 ht-degree: 0%
 
 ---
@@ -66,3 +66,10 @@ Om du har flera prenumerationer kan du ha flera communityprofiler. Vi rekommende
 ## Mobile Platform {#mobile-platform}
 
 Användare med ett universellt ID kan se sina data på Marketo Moments och iPad-händelseincheckningsprogrammet från den prenumeration de senast loggat in på. Du kan inte ändra prenumerationer från själva mobilplattformen.
+
+>[!MORELIKETHIS]
+>
+>* [Lägg till enkel inloggning på en portal](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
+>* [Begränsa användarinloggning till enbart enkel inloggning](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
+>* [Bjud in Marketo-användare till två instanser med Universal ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+
