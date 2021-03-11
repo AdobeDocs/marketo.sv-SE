@@ -3,9 +3,9 @@ unique-page-id: 45416698
 description: Versionsinformation -juli 20 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -juli 20
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,11 @@ Följande funktioner finns i versionen från 20 juli. Se om din Marketo-utgåva 
 Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas under de kommande månaderna.
 
 * **Forms-tjänst**: Vi introducerar starkare syntaxvalidering av formulärfält och möjlighet att blockera vanliga robotmönster med nya funktioner för säkra domäner för landningssidor. Genom att blockera robotmönster kan du minska antalet inskickade skräppostformulär och förbättra databaskvaliteten.
+
+>[!NOTE]
+>
+>Fullständig utrullning av förbättrad syntaxvalidering av formulärfält har skjutits upp till efter vår Jan 2021-utgåva.
+
 * **URI-storleksgräns** för utökat tillgångs-API: Storleksgränsen för URI ökas från 8 kB till 65 kB innan parametern &quot;_method&quot; tas bort. När du utför långa frågesträngar kommer den här storleksökningen att göra det enklare att skicka data. Borttagningen av parametern&quot;_method&quot; ingår i en kommande säkerhetsuppgradering.
 
 ## Sales Insight {#sales-insight}
