@@ -3,9 +3,9 @@ unique-page-id: 7504770
 description: Visa organisationstjänstens URL - Marketo Docs - Produktdokumentation
 title: Visa URL för organisationstjänsten
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Visa URL:en för organisationstjänsten {#view-the-organization-service-url}
 
-Marketo behöver organisationstjänstens URL för att kunna synkronisera med Dynamics On-Premises-instanser. Så här hittar du det i Dynamics.
+Marketo behöver organisationstjänstens URL för att kunna synkronisera med Dynamics-instanser. Så här hittar du det i Dynamics.
 
 1. Logga in i Dynamics. Klicka på ikonen Inställningar och välj **Avancerade inställningar**.
 
@@ -31,4 +31,4 @@ Marketo behöver organisationstjänstens URL för att kunna synkronisera med Dyn
 
    ![](assets/four.png)
 
-1. Kopiera och klistra in den här URL:en på Marketo och njut av resten av synkroniseringen.
+1. Kopiera och klistra in den URL-adressen på Marketo och se resten av synkroniseringen.
