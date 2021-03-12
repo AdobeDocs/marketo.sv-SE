@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketos produktdokumentation
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
 workflow-type: tm+mt
-source-wordcount: '7889'
+source-wordcount: '7923'
 ht-degree: 0%
 
 ---
@@ -171,6 +171,7 @@ ht-degree: 0%
             + [Redigera din standardprofileringsdomän med arbetsytor](product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md)
             + [Redigera din standardvarumärkesdomän](product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)
             + [Skriv över primär domän för e-postmeddelanden](product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md)
+         + [Ändra hämtningsgränser för anpassade objekt i snabbskriptning](product-docs/administration/email-setup/change-custom-object-retrieval-limits-in-velocity-scripting.md)
          + [Ändra standard från e-post och från etikett](product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md)
          + [Redigera avbeställningsmeddelandet](product-docs/administration/email-setup/edit-the-unsubscribe-message.md)
          + [Gör ditt avbeställningsmeddelande dynamiskt för språk](product-docs/administration/email-setup/edit-the-unsubscribe-message/make-your-unsubscribe-message-dynamic-for-languages.md)
@@ -327,6 +328,7 @@ ht-degree: 0%
             + [Change Engagement Program Stream](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md)
             + [Ändra programstatus](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
             + [Programmet har ändrats](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-success.md)
+            + [Ändra medlemsuppgifter för program](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md)
          + Microsoft Dynamics Flow-åtgärder {#microsoft-dynamics-flow-actions}
             + [Lägg till eller ta bort personer från Dynamics-kampanjen](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
             + [Ändra ägare i Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/change-owner-in-microsoft.md)
@@ -523,6 +525,9 @@ ht-degree: 0%
                + [Steg 1 av 3: Installera Marketo-lösningen (online)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
                + [Steg 2 av 3: Konfigurera Marketo Sync User i Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
                + [Steg 3 av 3: Anslut Microsoft Dynamics med Marketo (online)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
+            + Konfigurera OAuth-autentisering för Dynamics {#set-up-oauth-authentication-for-dynamics}
+               + [Bevilja samtycke för klient-ID och appregistrering](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md)
+               + [Konfigurera Microsoft Dynamics CRM-appen för lokal installation](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
          + Synkroniseringsinformation för Microsoft Dynamics {#microsoft-dynamics-sync-details}
             + [Fältmappning för standardDynamics](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/default-dynamics-field-mapping.md)
             + [Microsoft Dynamics Sync: Kontosynkronisering](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
@@ -792,7 +797,7 @@ ht-degree: 0%
                + [Mall 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Mall 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Mall 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Mall 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Mall 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Mall 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [Mall 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Mall 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
