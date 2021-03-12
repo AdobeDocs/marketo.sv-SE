@@ -3,9 +3,9 @@ unique-page-id: 2952636
 description: Hitta duplicerade personer med anpassad logik - Marketo Docs - produktdokumentation
 title: Sök efter duplicerade personer med anpassad logik
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,10 @@ Marketo har en systemsmart lista som söker efter duplicerade personer genom att
    * Fullständigt namn
    * Efternamn
    * Uppdaterat den
+
+   >[!NOTE]
+   >
+   >Alla fält, med undantag för E-postadress, är skiftlägeskänsliga. Om du använder &quot;john do&quot; i fältet Fullständigt namn skulle _inte_ returnera resultatet för John Doe.
 
    ![](assets/four-2.png)
 
