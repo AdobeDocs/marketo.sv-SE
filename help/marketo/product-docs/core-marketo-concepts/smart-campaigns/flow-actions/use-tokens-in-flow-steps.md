@@ -3,9 +3,9 @@ unique-page-id: 1146995
 description: Använd token i flödessteg - Marketo Docs - Produktdokumentation
 title: Använd token i flödessteg
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -19,12 +19,12 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Lägg till ett flödessteg i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-
+>[Lägg till ett flödessteg i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
 En variabel är en variabel. Ni använder det i e-postmeddelanden, landningssidor och smarta kampanjer för att göra livet enklare. Du kan använda [Mina token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (anpassade tokens) i flödessteg, webbhooks, e-post och landningssidor. Du kan använda variabler för att inkludera variabelt innehåll i dessa flödessteg:
 
 * Ändra datavärde
+* Ändra medlemsuppgifter för program
 * Intressant stund
 * Salesforce-kampanjsteg (lägg till, ta bort, ändra status)
 * Skapa uppgift
@@ -43,6 +43,10 @@ En variabel är en variabel. Ni använder det i e-postmeddelanden, landningssido
    >[!TIP]
    >
    >Flera variabler kan användas i stegen Intressant stund, Skapa uppgift och Skicka avisering.
+
+   >[!NOTE]
+   >
+   >Anpassade fälttoken för programmedlem kan användas i: Skapa aktivitet, Skapa aktivitet i Microsoft, Intressanta ögonblick, Ändra datavärdesåtgärder och Webhooks.
 
    Häftig! Data hämtas från token när den smarta kampanjen körs.
 
