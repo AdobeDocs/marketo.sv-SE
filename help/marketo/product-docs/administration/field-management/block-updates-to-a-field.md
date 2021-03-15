@@ -3,9 +3,9 @@ unique-page-id: 2360291
 description: Blockera uppdateringar till ett fält - Marketo Docs - Produktdokumentation
 title: Blockera uppdateringar till ett fält
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,10 @@ Genom att blockera uppdateringar av ett fält kan du skriva till fältet en gån
 1. Leta reda på fältet, markera det och klicka sedan på **Blockera fältuppdateringar** under **Fältåtgärder**.
 
    ![](assets/two-1.png)
+
+   >[!NOTE]
+   >
+   >Du kan även blockera uppdateringar av [anpassade fält för programmedlemmar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md).
 
 1. Markera **de indatakällor** som du vill blockera och klicka på **Använd**.
 
