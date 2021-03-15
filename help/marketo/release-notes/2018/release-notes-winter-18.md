@@ -3,7 +3,7 @@ unique-page-id: 13795395
 description: Versionsinformation -vinter '18 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -vinter '18
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Se hur era kampanjer och kanaler påverkar affärsresultaten med attribueringsan
 
 ## Kontobaserade marknadsföringsförbättringar {#account-based-marketing-enhancements}
 
-**[ABM Hierarkier](/help/marketo/product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)**
+**[ABM Hierarkier](/help/marketo/product-docs/target-account-management/target/named-accounts/abm-hierarchies.md)**
 
 För ABM-kunder med Salesforce eller Microsoft Dynamics ärver nu ABM automatiskt (och visar) de överordnade och underordnade relationer som skapats i CRM. Du kommer att kunna använda dessa relationer i både sammanslagningsrapportering och kampanjkörning.
 
