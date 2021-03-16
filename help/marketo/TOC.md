@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketos produktdokumentation
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '7923'
+source-wordcount: '7949'
 ht-degree: 0%
 
 ---
@@ -44,48 +44,48 @@ ht-degree: 0%
       + [Saker att granska: Kärnfärdigheter](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [Sätt att få hjälp](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
 + Produktdokument {#product-docs}
-   + Kontobaserad marknadsföring {#account-based-marketing}
+   + Hantering av målkonto {#target-account-management}
       + Konfigurera {#setup}
-         + [Kontobaserad marknadsföring - översikt](product-docs/account-based-marketing/setup-abm/account-based-marketing-overview.md)
-         + [Komma igång med ABM](product-docs/account-based-marketing/setup-abm/getting-started-with-abm.md)
-         + [Utfärda en licens](product-docs/account-based-marketing/setup-abm/issue-a-license.md)
-         + [Behörigheter](product-docs/account-based-marketing/setup-abm/permissions.md)
-         + [Kontopoäng](product-docs/account-based-marketing/setup-abm/account-score.md)
-         + [Kontouppsättning](product-docs/account-based-marketing/setup-abm/account-team-setup.md)
-         + [Skapa ett anpassat fält för CRM-identifiering](product-docs/account-based-marketing/setup-abm/create-a-custom-field-for-crm-discovery.md)
-         + [Ställ in kontoinsikter](product-docs/account-based-marketing/setup-abm/set-up-account-insight.md)
-         + [Översikt över plugin-programmet Account Insight](product-docs/account-based-marketing/setup-abm/account-insight-plug-in-overview.md)
-         + [Bjud in användare att få åtkomst till kontoinsikter](product-docs/account-based-marketing/setup-abm/invite-users-to-access-account-insight.md)
+         + [Kontobaserad marknadsföring - översikt](product-docs/target-account-management/setup-tam/account-based-marketing-overview.md)
+         + [Komma igång med ABM](product-docs/target-account-management/setup-tam/getting-started-with-abm.md)
+         + [Utfärda en licens](product-docs/target-account-management/setup-tam/issue-a-license.md)
+         + [Behörigheter](product-docs/target-account-management/setup-tam/permissions.md)
+         + [Kontopoäng](product-docs/target-account-management/setup-tam/account-score.md)
+         + [Kontouppsättning](product-docs/target-account-management/setup-tam/account-team-setup.md)
+         + [Skapa ett anpassat fält för CRM-identifiering](product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md)
+         + [Ställ in kontoinsikter](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
+         + [Översikt över plugin-programmet Account Insight](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
+         + [Bjud in användare att få åtkomst till kontoinsikter](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
       + Mål {#target}
          + Namngivna konton {#named-accounts}
-            + [Översikt över namngivet konto](product-docs/account-based-marketing/target/named-accounts/named-account-overview.md)
-            + [Importera namngivna konton](product-docs/account-based-marketing/target/named-accounts/import-named-accounts.md)
-            + [Lägg till ett befintligt namngivet konto i en kontolista](product-docs/account-based-marketing/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
-            + [Skapa ett namngivet konto](product-docs/account-based-marketing/target/named-accounts/create-a-named-account.md)
-            + [Lägg till personer till ett namngivet konto](product-docs/account-based-marketing/target/named-accounts/add-people-to-a-named-account.md)
-            + [Identifiera konton](product-docs/account-based-marketing/target/named-accounts/discover-accounts.md)
-            + [Lead till kontomatchning](product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)
-            + [Filtrera i namngivna konton](product-docs/account-based-marketing/target/named-accounts/filtering-in-named-accounts.md)
-            + [Ta bort ett namngivet konto](product-docs/account-based-marketing/target/named-accounts/delete-a-named-account.md)
-            + [ABM Hierarkier](product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)
-            + [Skapa en hierarki](product-docs/account-based-marketing/target/named-accounts/create-a-hierarchy.md)
-         + [Kontolistor](product-docs/account-based-marketing/target/account-lists.md)
-         + [Skapa en matchad publik på LinkedIn](product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md)
+            + [Översikt över namngivet konto](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
+            + [Importera namngivna konton](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
+            + [Lägg till ett befintligt namngivet konto i en kontolista](product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+            + [Skapa ett namngivet konto](product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
+            + [Lägg till personer till ett namngivet konto](product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
+            + [Identifiera konton](product-docs/target-account-management/target/named-accounts/discover-accounts.md)
+            + [Lead till kontomatchning](product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
+            + [Filtrera i namngivna konton](product-docs/target-account-management/target/named-accounts/filtering-in-named-accounts.md)
+            + [Ta bort ett namngivet konto](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
+            + [ABM Hierarkier](product-docs/target-account-management/target/named-accounts/abm-hierarchies.md)
+            + [Skapa en hierarki](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
+         + [Kontolistor](product-docs/target-account-management/target/account-lists.md)
+         + [Skapa en matchad publik på LinkedIn](product-docs/target-account-management/target/create-a-matched-audience-on-linkedin.md)
       + Aktivera {#engage}
-         + [Kontofilter](product-docs/account-based-marketing/engage/account-filters.md)
-         + [Kontoutlösare](product-docs/account-based-marketing/engage/account-triggers.md)
+         + [Kontofilter](product-docs/target-account-management/engage/account-filters.md)
+         + [Kontoutlösare](product-docs/target-account-management/engage/account-triggers.md)
       + Mått {#measure}
-         + [ABM Main Dashboard](product-docs/account-based-marketing/measure/abm-main-dashboard.md)
-         + [ABM-rapportinställningar](product-docs/account-based-marketing/measure/abm-report-setup.md)
-         + [ABM-försäljningsrapport](product-docs/account-based-marketing/measure/abm-sales-report.md)
-         + [Kontolisteinsikter](product-docs/account-based-marketing/measure/account-list-insights.md)
-         + [Dimension för namngivet konto i RCA](product-docs/account-based-marketing/measure/named-account-dimension-in-rca.md)
-         + [Insikter om namngivna konton](product-docs/account-based-marketing/measure/named-account-insights.md)
-         + [Använda persona](product-docs/account-based-marketing/using-personas.md)
+         + [ABM Main Dashboard](product-docs/target-account-management/measure/abm-main-dashboard.md)
+         + [ABM-rapportinställningar](product-docs/target-account-management/measure/abm-report-setup.md)
+         + [ABM-försäljningsrapport](product-docs/target-account-management/measure/abm-sales-report.md)
+         + [Kontolisteinsikter](product-docs/target-account-management/measure/account-list-insights.md)
+         + [Dimension för namngivet konto i RCA](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
+         + [Insikter om namngivna konton](product-docs/target-account-management/measure/named-account-insights.md)
+         + [Använda persona](product-docs/target-account-management/using-personas.md)
    + Kontoprofilering {#account-profiling}
-      + [Konfigurera kontoprofilering](product-docs/account-based-marketing/account-profiling/setting-up-account-profiling.md)
-      + [Rankning och justering av kontoprofilering](product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)
-      + [Ny kontoidentifiering](product-docs/account-based-marketing/account-profiling/new-account-discovery.md)
+      + [Konfigurera kontoprofilering](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
+      + [Rankning och justering av kontoprofilering](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
+      + [Ny kontoidentifiering](product-docs/target-account-management/account-profiling/new-account-discovery.md)
    + Ytterligare program {#additional-apps}
       + SEO {#seo}
          + Om SEO {#understanding-seo}
@@ -527,7 +527,9 @@ ht-degree: 0%
                + [Steg 3 av 3: Anslut Microsoft Dynamics med Marketo (online)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
             + Konfigurera OAuth-autentisering för Dynamics {#set-up-oauth-authentication-for-dynamics}
                + [Bevilja samtycke för klient-ID och appregistrering](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md)
+               + [Konfigurera Microsoft Dynamics CRM-appen för Online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
                + [Konfigurera Microsoft Dynamics CRM-appen för lokal installation](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
+               + [Konfigurera MSD för Azure AD Federated med AD FS On-prem, Tenant och Microsoft Online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online.md)
          + Synkroniseringsinformation för Microsoft Dynamics {#microsoft-dynamics-sync-details}
             + [Fältmappning för standardDynamics](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/default-dynamics-field-mapping.md)
             + [Microsoft Dynamics Sync: Kontosynkronisering](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
@@ -594,6 +596,7 @@ ht-degree: 0%
          + [Lägg till/ta bort värden för plocklistor](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
          + [Aktivera/inaktivera Salesforce-synkronisering](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
          + [Underförstådda Salesforce-åtgärder](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
+         + [Salesforce-synkroniseringsfel](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
          + [Status för Salesforce-synkronisering](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
    + Efterfrågegenerering {#demand-generation}
       + Lägg till nätverksintegreringar {#ad-network-integrations}
