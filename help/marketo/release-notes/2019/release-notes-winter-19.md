@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: Versionsinformation -vinter '19 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -vinter '19
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '1109'
 ht-degree: 0%
@@ -81,7 +81,7 @@ Inkludera upp till fem CC-adresser per mottagare i e-postmeddelanden som skickas
 
 ## Kontobaserad marknadsföring {#account-based-marketing}
 
-**[ABM Personabaserad segmentering och filtrering](/help/marketo/product-docs/account-based-marketing/using-personas.md)**
+**[ABM Personabaserad segmentering och filtrering](/help/marketo/product-docs/target-account-management/using-personas.md)**
 
 Anpassa era ABM-kampanjer för specifika personer i namngivna konton. Funktionen ABM Persona skapar en standardjobbtitel baserad på leadsegmentering och tillåter konfiguration av ytterligare persona segmenteringar.
 
