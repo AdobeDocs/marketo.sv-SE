@@ -3,7 +3,7 @@ unique-page-id: 4720236
 description: Skapa ett segment med hjälp av en kontolista - Marketo Docs - Produktdokumentation
 title: Skapa ett segment med hjälp av en kontolista
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Så här skapar du ett segment med hjälp av en kontolista.
 
 >[!PREREQUISITES]
 >
->[Skapa en ny kontolista](/help/marketo/product-docs/account-based-marketing/target/account-lists.md)
+>[Skapa en ny kontolista](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
 1. Gå till **Segment**.
 
