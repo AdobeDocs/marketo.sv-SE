@@ -3,7 +3,7 @@ unique-page-id: 12255606
 description: Versionsinformation -vinter '17 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -vinter '17
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Versionsinformation: Vinter &#39;16 {#release-notes-winter}
+# Versionsinformation: Vinter &#39;17 {#release-notes-winter}
 
 Följande funktioner finns i vinterversionen 17. Se om din Marketo-utgåva har funktioner tillgängliga.
 
@@ -45,7 +45,7 @@ Apparna Webbpersonalisering, Predictive Content och Email Insights finns nu på 
 
 ## Kontobaserade marknadsföringsförbättringar {#account-based-marketing-enhancements}
 
-**[Importera namngivna konton](/help/marketo/product-docs/account-based-marketing/target/named-accounts/import-named-accounts.md)**
+**[Importera namngivna konton](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)**
 
 Med alternativet Importera namngivet konto kan du skapa eller uppdatera flera poster samtidigt via CSV-överföring.
 
