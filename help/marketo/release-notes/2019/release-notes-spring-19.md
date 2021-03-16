@@ -3,7 +3,7 @@ unique-page-id: 17728380
 description: Versionsinformation - våren 2019 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - våren 2019
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Följande funktioner släpptes 15 mars 2019.
 
 Kontobaserad marknadsföring
 
-**[AccountAIN](/help/marketo/product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)** är vanligtvis tillgängligt. AccountAI använder artificiell intelligens för att identifiera de konton ni bör inrikta er på för er ABM-strategi.
+**[AccountAIN](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)** är vanligtvis tillgängligt. AccountAI använder artificiell intelligens för att identifiera de konton ni bör inrikta er på för er ABM-strategi.
 
 <br> 
 
