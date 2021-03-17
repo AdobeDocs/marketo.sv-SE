@@ -3,9 +3,9 @@ unique-page-id: 11380732
 description: Kontofilter - Marketo Docs - Produktdokumentation
 title: Kontofilter
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Identifiera och engagera namngivna konton och personer i dem med nya kontobaserade filter.
 
-## ABM-filter {#abm-filters}
+## TAM-filter {#tam-filters}
 
 1. Välj en smart kampanj och klicka på **Smart lista**.
 
@@ -45,25 +45,25 @@ Om du vill använda det här filtret klickar du på listrutan med kontolistan...
 
 ## Medlem i namngivet konto {#member-of-named-account}
 
-1. Välj en kvalificerare. Är för ett specifikt namngivet konto eller är något för ett namngivet konto.
+Välj först en kvalificerare. **Har** ett specifikt namngivet konto eller  **är** valfritt för ett namngivet konto.
 
-   ![](assets/six.png)
+![](assets/six.png)
 
-1. Klicka på listrutan med namngivna konton.
+Klicka på listrutan med namngivna konton...
 
-   ![](assets/seven.png)
+![](assets/seven.png)
 
-1. Välj ett eller flera namngivna konton.
+...och välj ett eller flera namngivna konton.
 
-   ![](assets/eight.png)
+![](assets/eight.png)
 
-1. Om du använder kvalificeraren &quot;is any&quot; kan du använda [begränsningar](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) för att begränsa sökresultaten. Lägg till så många du vill!
+Om du använder kvalificeraren &quot;is any&quot; kan du använda [begränsningar](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) för att begränsa sökresultaten. Lägg till så många du vill!
 
-   ![](assets/nine.png)
+![](assets/nine.png)
 
-1. Ange &quot;Inkludera underordnade&quot; till &quot;false&quot; om du bara vill att medlemmar från det enskilda kontot på den översta nivån ska vara med. Välj true om du vill ha medlemmar från alla underordnade konton.
+Ange &quot;Inkludera underordnade&quot; till &quot;false&quot; om du bara vill att medlemmar från det enskilda kontot på den översta nivån ska vara med. Välj true om du vill ha medlemmar från alla underordnade konton.
 
-   ![](assets/ten.png)
+![](assets/ten.png)
 
 >[!MORELIKETHIS]
 >
