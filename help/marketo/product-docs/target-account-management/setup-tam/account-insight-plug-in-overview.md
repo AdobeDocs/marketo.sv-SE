@@ -3,7 +3,7 @@ unique-page-id: 12979282
 description: Översikt över plugin-programmet Account Insight - Marketo Docs - Produktdokumentation
 title: Översikt över plugin-programmet Account Insight
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Översikt över plugin-programmet Account Insight {#account-insight-plug-in-overview}
 
-Account Insight är en Chrome-plugin som ger er åtgärdbara ABM-resurser och kontoinsikter till era säljteam, vilket gör att de kan skapa mer effektiva konton.
+Account Insight är en Chrome-plugin som ger er åtgärdbara TAM-resurser och kontoinsikter till era säljteam, vilket gör att de kan ta kontakt med konton på ett mer effektivt sätt.
 
 >[!AVAILABILITY]
 >
->Account Insight ingår för alla kunder som har både ABM och Marketo Sales Insight. För kunder som bara har ABM är Account Insight tillgängligt som ett köpt tillägg. Varje kund är begränsad till 250 licenser för kontoinsikt. Kontakta din säljare för mer information. Det är inte tillgängligt för kunder som inte har ABM.
+>Account Insight ingår för alla kunder som har både TAM och Marketo Sales Insight. För kunder som bara har TAM är Account Insight tillgängligt som ett köpt tillägg. Varje kund är begränsad till 250 licenser för kontoinsikt. Kontakta din säljare för mer information. Det är inte tillgängligt för kunder som inte har TAM.
 
 >[!CAUTION]
 >
