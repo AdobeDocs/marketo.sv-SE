@@ -3,9 +3,9 @@ unique-page-id: 37356194
 description: Skicka en lista till Adobe Experience Cloud - Marketo Docs - Produktdokumentation
 title: Skicka en lista till Adobe Experience Cloud
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '584'
+source-wordcount: '787'
 ht-degree: 0%
 
 ---
@@ -30,31 +30,77 @@ ht-degree: 0%
 * Adobe Real-Time Customer Data Platform
 * Adobe Target
 
-## Så här exporterar du en lista {#how-to-export-a-list}
+## Skicka en statisk lista {#how-to-send-a-static-list}
+
+En statisk lista är bara det, statiskt. Listan i Adobe Experience Cloud ändras inte om du inte gör det manuellt.
 
 1. I Marketo söker du efter och markerar den lista som du vill exportera.
 
-   ![](assets/one.png)
+   ![](assets/send-a-list-to-adobe-experience-cloud-1.png)
 
 1. Klicka på listrutan **Liståtgärder** och välj **Skicka till Experience Cloud**.
 
-   ![](assets/two-1.png)
+   ![](assets/send-a-list-to-adobe-experience-cloud-2.png)
 
 1. Klicka på listrutan **Audience Manager-mapp** och välj önskad målmapp i Experience Cloud.
 
-   ![](assets/three-1.png)
+   ![](assets/send-a-list-to-adobe-experience-cloud-3.png)
 
 1. Välj om du vill skapa en ny målgrupp eller skriva över en befintlig (i det här exemplet skapar vi en ny). Ange det nya målgruppsnamnet och klicka på **Skicka**.
 
-   ![](assets/four.png)
+   ![](assets/send-a-list-to-adobe-experience-cloud-4.png)
 
 1. Klicka på **OK**.
 
-   ![](assets/five.png)
+   ![](assets/send-a-list-to-adobe-experience-cloud-5.png)
 
    >[!NOTE]
    >
    >Det kan ta upp till 6-8 timmar för publiken att bli fullt utnyttjad i Adobe.
+
+## Skicka en synkroniserad lista {#how-to-send-a-synced-list}
+
+Synkronisering av en lista innebär när du uppdaterar en lista i Marketo, som automatiskt synkroniseras med målgruppen i Adobe Experience Cloud.
+
+1. I Marketo söker du efter och markerar den lista som du vill synkronisera.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-6.png)
+
+1. Klicka på listrutan **Liståtgärder** och välj **Skicka till Experience Cloud**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-7.png)
+
+1. Klicka på listrutan **Målbiblioteksmapp** och välj önskad målmapp i Experience Cloud.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-8.png)
+
+1. Välj om du vill skapa en ny målgrupp eller skriva över en befintlig (i det här exemplet skapar vi en ny). Ange det nya målgruppsnamnet, markera rutan **Behåll målgruppsmedlemskap i Synkronisera** och klicka på **Skicka**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-9.png)
+
+1. Klicka på **OK**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-10.png)
+
+## Stoppa listsynkronisering {#how-to-stop-a-list-sync}
+
+Du kan när som helst stoppa synkroniseringen av listan.
+
+1. I Marketo söker du efter och markerar den lista som du vill sluta synkronisera.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-11.png)
+
+1. Klicka på listrutan **Liståtgärder** och välj **Synkronisera stopplista**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-12.png)
+
+1. Markera de målgrupper som du vill sluta synkronisera och klicka på **Stopp**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-13.png)
+
+1. Bekräfta genom att klicka på **Stoppa**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-14.png)
 
 ## Saker att notera {#things-to-note}
 
@@ -80,4 +126,8 @@ Under huven fungerar målgruppsintegreringen genom att synkronisera Marketo Munc
 
 När cookie-synkroniseringen är aktiverad för din Marketo-prenumeration försöker Marketos munchkin.js att hämta och lagra ECID:n för Adobe för den Adobe IMS-organisation som du angav under integreringsinställningen och matcha dessa ECID:n med motsvarande Marketo-cookie-identifierare. Detta gör att Marketos anonyma användarprofiler kan berikas med Adobe ECID:n.
 
-Ytterligare ett steg krävs för att koppla den anonyma användarprofilen till en lead-profil, som identifieras med ett enkelt textmeddelande. Exakt hur detta fungerar beskrivs här: [https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People).
+Ytterligare ett steg krävs för att koppla den anonyma användarprofilen till en lead-profil, som identifieras med ett enkelt textmeddelande. Exakt hur detta fungerar är [beskrivet här](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
+
+**Vilken information delas?**
+
+Den här integreringen delar bara information om medlemskap från Marketo till Adobe (t.ex. kännedom om att Lead X är medlem i List Y). Inga ytterligare leadattribut delas till Adobe via den här integreringen.
