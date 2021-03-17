@@ -3,9 +3,9 @@ unique-page-id: 37355609
 description: Ny kontoidentifiering - Marketo Docs - Produktdokumentation
 title: Ny kontoidentifiering
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ Ny kontoidentifiering kan hjälpa dig att hitta nya konton att rikta in dig på 
 >
 >Vi rekommenderar att du trycker på **Uppdatera befintliga konton** innan du gör en ny kontosökning för att vara säker på att du tittar på de senaste data. Uppdateringen kan ta upp till 24 timmar.
 
-1. Klicka på **ABM** på My Marketo.
+1. Klicka på **Hantering av målkonto** på My Marketo.
 
-   ![](assets/one-1.png)
+   ![](assets/new-account-discovery-1.png)
 
 1. Klicka på fliken **Kontoprofilering**.
 
@@ -37,7 +37,7 @@ Ny kontoidentifiering kan hjälpa dig att hitta nya konton att rikta in dig på 
 
    >[!NOTE]
    >
-   >Nya konton visar en lista över konton som ännu inte är dina i ABM. De är konton som kan vara nya för dig baserat på de filter du väljer.
+   >Nya konton visar en lista över konton som ännu inte är dina i TAM. De är konton som kan vara nya för dig baserat på de filter du väljer.
 
 1. Välj alla tillämpliga filter (den här delen är mycket anpassningsbar, följande är bara ett exempel för att demonstrera filtrering).
 
