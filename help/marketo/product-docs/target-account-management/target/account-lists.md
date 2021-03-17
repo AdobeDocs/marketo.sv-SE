@@ -3,7 +3,7 @@ unique-page-id: 11378814
 description: Kontolistor - Marketo Docs - Produktdokumentation
 title: Kontolistor
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Förutom kontolistor kan du även skapa dynamiska kontolistor som genereras frå
 
 >[!NOTE]
 >
->Kontolistor som skapats i Marketo Account Based Marketing är automatiskt tillgängliga när du skapar smarta listor och webbkampanjer i [Webbpersonalisering](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
+>Kontolistor som har skapats i Marketo Target Account Management är automatiskt tillgängliga när du skapar smarta listor och webbkampanjer i [Webbpersonalisering](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
 
 ## Skapa en ny kontolista {#create-a-new-account-list}
 
