@@ -3,7 +3,7 @@ unique-page-id: 11380787
 description: Kontolisteinsikter - Marketo Docs - Produktdokumentation
 title: Kontolisteinsikter
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Kontrollpanelen Kontolista ger en översikt över sammanställda insikter från 
 
 >[!NOTE]
 >
->Marketo ABM bestämmer automatiskt vilka konton i en kontolista som är högst, baserat på pipeline-genererade poäng eller poäng för kontoengagemang.
+>Marketo TAM bestämmer automatiskt de högst namngivna kontona i en kontolista baserat på pipeline som genereras eller kontointeraktionspoäng.
 
 ## Kontrollpanel för kontolista {#account-list-dashboard}
 
