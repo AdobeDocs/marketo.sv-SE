@@ -3,7 +3,7 @@ unique-page-id: 11380789
 description: Dimension för namngivet konto i RCA - Marketo Docs - Produktdokumentation
 title: Dimension för namngivet konto i RCA
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Dimension för namngivet konto i RCA {#named-account-dimension-in-rca}
 
-Skapa intäktsbaserade rapporter med hjälp av den ABM-specifika dimensionen Named Account i Revenue Cycle Analytics.
+Bygg intäktsbaserade rapporter med hjälp av den TAM-specifika dimensionen Named Account i Revenue Cycle Analytics.
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ Följande rapporter har åtkomst till dimensionen Namngivet konto:
 
 >[!NOTE]
 >
->Nedan finns några exempel på Marketo ABM i Revenue Cycle Analytics.
+>Nedan finns några exempel på Marketo TAM i Revenue Cycle Analytics.
 
 Pipeline-acceleration inom namngivna konton
 
