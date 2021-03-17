@@ -3,7 +3,7 @@ unique-page-id: 11381917
 description: Kontobaserad marknadsöversikt - Marketo Docs - Produktdokumentation
 title: Kontobaserad marknadsföring - översikt
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: d68eba976d0b71339fc5b70b3c035641d9e81d44
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -55,7 +55,7 @@ Marketo Account Based Marketing erbjuder också olika verktyg för att personali
 
 Jag är inne! Hur kommer jag igång?
 
-Vi trodde aldrig att du skulle fråga! ABM finns som tillägg till din Marketto-prenumeration, så kontakta din säljare för att få det implementerat. När du har fått den kan du kolla in den här artikeln: [Komma igång med ABM](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-abm.md).
+Vi trodde aldrig att du skulle fråga! ABM finns som tillägg till din Marketto-prenumeration, så kontakta din säljare för att få det implementerat. När du har fått den kan du kolla in den här artikeln: [Komma igång med ABM](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-tam.md).
 
 >[!NOTE]
 >
