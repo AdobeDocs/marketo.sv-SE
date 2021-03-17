@@ -3,7 +3,7 @@ unique-page-id: 11378816
 description: Lägg till personer i ett namngivet konto - Marketo Docs - Produktdokumentation
 title: Lägg till personer till ett namngivet konto
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Lägg till personer i ett namngivet konto {#add-people-to-a-named-account}
 
-Det finns tre olika sätt att manuellt lägga till personer i ett namngivet konto i ABM.
+Det finns tre olika sätt att manuellt lägga till personer i ett namngivet konto i TAM.
 
 ## Enkel flödesåtgärd {#single-flow-action}
 
