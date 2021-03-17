@@ -3,9 +3,9 @@ unique-page-id: 11384433
 description: Kontonaminställningar - Marketo Docs - Produktdokumentation
 title: Kontouppsättning
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ Ett kontoteam är en grupp intressenter som arbetar tillsammans med ett namngive
 
    ![](assets/one-3.png)
 
-1. Klicka på **ABM**.
+1. Klicka på **Hantering av målkonto**.
 
-   ![](assets/two-3.png)
+   ![](assets/account-team-setup-2.png)
 
 1. Klicka på **Redigera** under Kontoteammedlemmar.
 
@@ -45,10 +45,12 @@ Ett kontoteam är en grupp intressenter som arbetar tillsammans med ett namngive
 
    >[!CAUTION]
    >
-   >Om du gör en uppdatering kan det ta lite tid innan ändringarna återspeglas i ABM.
+   >Om du gör en uppdatering kan det ta lite tid innan ändringarna återspeglas i TAM.
 
    >[!NOTE]
    >
-   >När flera CRM-konton med olika kontoägare sammanfogas till ett namngivet konto väljer Marketo en kontoägare och lägger till andra kontoägare som&quot;Kontomedägare&quot;
-   >
-   >Om ett CRM-rollfält senare byter namn eller tas bort kommer Marketo ABM att avbryta synkroniseringen av de uppdaterade värdena tills användaren uppdaterar inställningarna i ABM manuellt
+   >* När flera CRM-konton med olika kontoägare sammanfogas till ett namngivet konto väljer Marketo en kontoägare och lägger till andra kontoägare som&quot;Kontomedägare&quot;
+      >
+      >
+   * Om CRM-fältet Role senare byter namn eller tas bort kommer Marketo TAM att avbryta synkroniseringen av de uppdaterade värdena tills användaren uppdaterar inställningarna i TAM manuellt
+
