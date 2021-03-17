@@ -3,7 +3,7 @@ unique-page-id: 12615802
 description: Ta bort ett namngivet konto - Marketo Docs - Produktdokumentation
 title: Ta bort ett namngivet konto
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -33,4 +33,4 @@ Följ de här snabbstegen för att ta bort ett namngivet konto.
 
    >[!NOTE]
    >
-   >Konton som har synkroniserats med CRM kan inte tas bort i ABM. Om raderingsalternativet inte är tillgängligt, eller om du får meddelandet&quot;Dessa konton kan inte tas bort eftersom ett eller flera CRM-konton har valts&quot;, måste de tas bort direkt i CRM.
+   >Konton som har synkroniserats med CRM kan inte tas bort i TAM. Om raderingsalternativet inte är tillgängligt, eller om du får meddelandet&quot;Dessa konton kan inte tas bort eftersom ett eller flera CRM-konton har valts&quot;, måste de tas bort direkt i CRM.
