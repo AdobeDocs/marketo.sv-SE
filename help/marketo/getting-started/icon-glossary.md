@@ -3,15 +3,17 @@ unique-page-id: 4720476
 description: Ikonordlista - Marketo Docs - Produktdokumentation
 title: Ikonordlista
 translation-type: tm+mt
-source-git-commit: 0ec525defbefe610f0bd1227b1c8f8e125d8e362
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '568'
 ht-degree: 0%
 
 ---
 
 
 # Ikonordlista {#icon-glossary}
+
+Nedan visas ikonerna för Marketo Classic. Om du har växlat till det nya Marketo Engage-gränssnittet hittar du ikonordlistan [här](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md).
 
 **Allmänna ikoner**
 
