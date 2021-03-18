@@ -3,9 +3,9 @@ unique-page-id: 11378869
 description: Skapa ett Vibes SMS-meddelande - Marketo Docs - Produktdokumentation
 title: Skapa ett Vibes SMS-meddelande
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,14 @@ ht-degree: 0%
 # Skapa ett Vibes SMS-meddelande {#create-a-vibes-sms-message}
 
 Så här skapar du ett Vibes SMS-meddelande.
+
+>[!AVAILABILITY]
+>
+>Den här funktionen är tillgänglig som tillägg för ditt Marketo Engage-konto. För att den ska kunna tillhandahållas på rätt sätt måste den köpas via Adobe. Kontakta din kundansvarige på Adobe för mer information.
+
+>[!NOTE]
+>
+>SMS-textmeddelanden är inte HIPAA-kompatibla.
 
 1. Gå till **Marknadsföringsaktiviteter** och högerklicka på ett program.
 
