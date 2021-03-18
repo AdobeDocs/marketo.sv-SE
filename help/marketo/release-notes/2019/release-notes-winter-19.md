@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: Versionsinformation -vinter '19 - Marketo Docs - Produktdokumentation
 title: Versionsinformation -vinter '19
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
 workflow-type: tm+mt
 source-wordcount: '1109'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion
 
 >[!NOTE]
 >
->Microsoft uppmanar alla onlinekunder att uppgradera till den senaste versionen av Microsoft Dynamics. Om du integrerar din Marketo-instans med Dynamics Online måste du [uppgradera till den senaste versionen av Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md) före den 31 januari 2019 **för att säkerställa att integreringen fortsätter att fungera.**
+>Microsoft uppmanar alla onlinekunder att uppgradera till den senaste versionen av Microsoft Dynamics. Om du integrerar din Marketo-instans med Dynamics Online måste du [uppgradera till den senaste versionen av Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) före den 31 januari 2019 **för att säkerställa att integreringen fortsätter att fungera.**
 
 >[!NOTE]
 >
