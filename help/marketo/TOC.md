@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketos produktdokumentation
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '7952'
+source-wordcount: '7967'
 ht-degree: 0%
 
 ---
@@ -507,7 +507,7 @@ ht-degree: 0%
          + [Åtgärda problem med synkronisering av Dynamics-validering](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
          + Synkronisera inställningar {#sync-setup}
             + [Ladda ned Marketo Lead Management Solution](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
-            + [Uppgradera Marketo-lösningen för Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)
+            + [Uppdatera Marketo-lösningen för Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
             + [Verifiera Microsoft Dynamics Sync](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [Visa URL för organisationstjänsten](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
             + Microsoft Dynamics 2011 On-Premises {#microsoft-dynamics-2011-on-premises}
@@ -1036,6 +1036,11 @@ ht-degree: 0%
             + [Använda Skicka aviseringsinformationstoken](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
             + [Använda URL:er i Mina token](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
          + [Email CC](product-docs/email-marketing/general/email-cc.md)
+   + Marketo Engage nästa generation av upplevelse {#marketo-engage-next-generation-experience}
+      + [Översikt](product-docs/marketo-engage-next-generation-experience/overview.md)
+      + [Ny ikonordlista](product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)
+      + [Flytta resurser](product-docs/marketo-engage-next-generation-experience/moving-assets.md)
+      + [Använda den globala sökningen](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
    + Marketo Sales Connect {#marketo-sales-connect}
       + Komma igång {#getting-started}
          + [Översikt över Sales Connect](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
@@ -1292,7 +1297,7 @@ ht-degree: 0%
             + [Inaktivera global MS Dynamics-synkronisering](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
             + [Avinstallera MSI från din MS Dynamics-instans](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/uninstall-msi-from-your-ms-dynamics-instance.md)
          + Uppdaterar {#updating}
-            + [Uppdatera Marketo Sales Insight Solution för Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/update-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
+            + [Uppgradera Marketo Sales Insight Solution för Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
       + MSI för Salesforce {#msi-for-salesforce}
          + Installation {#installation}
             + [Installera Marketo Sales Insight-paket i Salesforce AppExchange](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
@@ -1392,8 +1397,8 @@ ht-degree: 0%
          + [Förstå push-meddelanden](product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
          + [Visa kontrollpanelen för push-meddelanden](product-docs/mobile-marketing/push-notifications/view-the-push-notification-dashboard.md)
       + Vibes SMS Messages {#vibes-sms-messages}
-         + [Lägg till ett flödessteg för SMS](product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)
          + [Skapa ett Vibes SMS-meddelande](product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
+         + [Lägg till ett flödessteg för SMS](product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)
          + [Kontrollpanelen för SMS-meddelanden](product-docs/mobile-marketing/vibes-sms-messages/the-sms-message-dashboard.md)
          + [Använd Vibes SMS-meddelanden i Smart List-utlösare och -filter](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
    + Personalisering {#personalization}
