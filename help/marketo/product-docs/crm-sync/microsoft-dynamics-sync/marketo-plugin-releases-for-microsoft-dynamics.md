@@ -3,10 +3,10 @@ unique-page-id: 10099389
 description: Marketo Plugin Releases for Microsoft Dynamics - Marketo Docs - Produktdokumentation
 title: Marketo Plugin Releases for Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: 3deb7e1c435368533222ddedf064d2d87fa75c5f
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 7%
+source-wordcount: '401'
+ht-degree: 6%
 
 ---
 
@@ -19,7 +19,15 @@ När du först synkroniserar med Microsoft Dynamics hämtar du den senaste versi
 
 ![](assets/lead-management-solution.png)
 
-Tabellen nedan visar de senaste versionerna.
+## Uppdaterar din Dynamics-lösning {#updating-your-dynamics-solution}
+
+1. Importera den senaste versionen av lösningen över den befintliga versionen av Dynamics CRM (t.ex.: om Dynamics CRM har version 1.4 och den senaste versionen är 1.5, importerar du _över_ version 1.4).
+
+1. Följande popup-fönster visas. Välj **Uppdatera** och **Behåll anpassningar** och klicka sedan på **Importera**.
+
+![](assets/marketo-plugin-releases-for-microsoft-dynamics-2.png)
+
+## Senaste versioner {#latest-versions}
 
 >[!NOTE]
 >
@@ -31,6 +39,11 @@ Tabellen nedan visar de senaste versionerna.
    <th colspan="1">Version</th> 
    <th colspan="1">Releasedatum</th> 
    <th>Anteckningar</th> 
+  </tr> 
+  <tr> 
+   <td colspan="1">4.0.0.0</td> 
+   <td colspan="1">10/16/20</td> 
+   <td colspan="1">Stöd för kampanjsynkronisering med MS Dynamics har lagts till.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.24</td> 
@@ -73,7 +86,7 @@ Tabellen nedan visar de senaste versionerna.
    <td colspan="1">Felkorrigering: När leadet hade ett synkroniseringsfilter inställt på NO, och affärsmöjligheten och kontakten inte hade något synkroniseringsfilter, genererades inte Skapa logg för kontakten och affärsmöjligheten när leadet kvalificerades.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.16</td> 
+   <td colspan="1">2.0.0.16</td> 
    <td colspan="1">3/29/16</td> 
    <td>Felkorrigering: En Tilldelningshändelse loggades när synkroniseringsfiltret stängdes av.</td> 
   </tr> 
