@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo Glossary - Marketo Docs - Produktdokumentation
 title: Marketo-ordlista
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 26453778ee3988b52e57fdf16205b93edbbaa771
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
    <td colspan="1">Den här termen kan ha olika betydelser:<br>-Din Marketo-instans kan kallas ditt Marketo-konto.<br>-I  <strong>ABM</strong> är ett  <strong>namngivet </strong> konto ett konto som användaren har bestämt ett målkonto som han/hon vill köra.<br>-I ABM är ett CRM-konto mappat från ditt länkade  <strong>CRM</strong>  (konto i  <strong>Salesforce</strong>,  <strong>MS </strong> Dynamicsor  <strong>API</strong>).<br>-I CRM är konton det företag som leder och kontakter är kopplade till.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-based-marketing-overview.md" rel="nofollow">Kontobaserad marknadsföring</a>  (ABM)</strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">Kontobaserad marknadsföring</a>  (ABM)</strong></td> 
    <td colspan="1">En tilläggsfunktion som gör att ni kan rikta in och engagera nyckelkonton på ett mycket samordnat sätt.</td> 
   </tr> 
   <tr> 
