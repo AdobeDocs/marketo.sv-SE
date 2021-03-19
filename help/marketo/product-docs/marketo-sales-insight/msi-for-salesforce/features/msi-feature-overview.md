@@ -3,7 +3,7 @@ unique-page-id: 37356893
 description: MSI Feature Overview - Marketo Docs - Produktdokumentation
 title: Översikt över MSI-funktioner
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: ad69776dc366f3b1feba550158bea834bb755beb
 workflow-type: tm+mt
 source-wordcount: '908'
 ht-degree: 0%
@@ -97,9 +97,14 @@ Fält:
 
 * Sales Insight - Öppnar hela kontaktlistsidan
 
+Funktionsmakron:
+
+* Lägg till i Marketo Campaign
+* Skicka Marketo-e-post
+* Lägg till/ta bort från bevakad lista
+
 Följande funktioner är **inte tillgängliga** på sidan Kontolayout:
 
-* Funktionsmakron: Lägg till i Marketo Campaign, Skicka Marketo-e-post, Lägg till/ta bort från bevakad lista
 * Stjärnor och flamman
 
 ## Affärsmöjlighetslayout {#opportunity-layout}
@@ -115,9 +120,14 @@ Fält:
 * Sales Insight - Öppnar hela kontaktlistsidan
 * Marketo Opportunity Analysis - Öppnar analys av affärsmöjlighet i Marketo
 
+Funktionsmakron:
+
+* Lägg till i Marketo Campaign
+* Skicka Marketo-e-post
+* Lägg till/ta bort från bevakad lista
+
 Följande funktioner är **inte tillgängliga** på sidan för säljprojektslayout:
 
-* Funktionsmakron: Lägg till i Marketo Campaign, Skicka Marketo-e-post, Lägg till/ta bort från bevakad lista
 * Stjärnor och flamman
 
 ## Vyn Lead- och kontaktlista (gruppåtgärder) {#lead-and-contact-list-view-bulk-actions}
