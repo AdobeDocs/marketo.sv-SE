@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketos produktdokumentation
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 26453778ee3988b52e57fdf16205b93edbbaa771
 workflow-type: tm+mt
-source-wordcount: '7967'
+source-wordcount: '7971'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 0%
 + Produktdokument {#product-docs}
    + Hantering av målkonto {#target-account-management}
       + Konfigurera {#setup}
-         + [Kontobaserad marknadsföring - översikt](product-docs/target-account-management/setup-tam/account-based-marketing-overview.md)
+         + [Översikt över kontohantering för mål](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
          + [Komma igång med TAM](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
          + [Utfärda en licens](product-docs/target-account-management/setup-tam/issue-a-license.md)
          + [Behörigheter](product-docs/target-account-management/setup-tam/permissions.md)
@@ -1322,6 +1322,7 @@ ht-degree: 0%
             + Språkstöd {#language-support}
                + [Förbered Sales Insight för flerspråkig support i Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
             + Marketo Tab {#marketo-tab}
+               + [Bästa val](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)
                + [Använda lead-feed](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/using-the-lead-feed.md)
             + Konfigurationsfliken för MSI {#msi-configuration-tab}
                + [Aktivera RSS för Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)
@@ -1332,6 +1333,7 @@ ht-degree: 0%
                + [Prioritet, Urklipp, Relativa poäng och Bästa val](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
                + [Ange poängfält som ska användas för staplar och flamma i Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight.md)
             + Flikar på MSI-panelen {#tabs-in-the-msi-panel}
+               + [Fliken E-post](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)
                + Intressanta stunder {#interesting-moments}
                   + [Översikt över intressanta stunder](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)
                   + [Token för intressanta ögonblick](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
@@ -1594,7 +1596,7 @@ ht-degree: 0%
                + [Skapa anpassade fältgrupper med fältorganiseraren](product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
    + Webbanpassning {#web-personalization}
       + Kontobaserad webbmarknadsföring {#account-based-web-marketing}
-         + [Kontobaserad webbmarknadsföring med ABM](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-abm.md)
+         + [Kontobaserad webbmarknadsföring med TAM](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
          + [Skapa en ny kontolista](product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
          + [Skapa ett segment med hjälp av en kontolista](product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
       + Komma igång {#getting-started}
