@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketos produktdokumentation
 translation-type: tm+mt
-source-git-commit: 26453778ee3988b52e57fdf16205b93edbbaa771
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
-source-wordcount: '7971'
+source-wordcount: '7986'
 ht-degree: 0%
 
 ---
@@ -599,12 +599,14 @@ ht-degree: 0%
          + [Underförstådda Salesforce-åtgärder](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
          + [Salesforce-synkroniseringsfel](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
          + [Status för Salesforce-synkronisering](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
+         + [Konfigurera OAuth 2.0](product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md)
    + Efterfrågegenerering {#demand-generation}
       + Lägg till nätverksintegreringar {#ad-network-integrations}
+         + [Förstå annonsnätverksintegreringar](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
          + [Lägg till anpassade Facebook-målgrupper som en LaunchPoint-tjänst](product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
          + [Lägg till Google Customer Match som en LaunchPoint-tjänst](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [Lägg till LinkedIn-matchade målgrupper som en LaunchPoint-tjänst](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
-         + [Förstå annonsnätverksintegreringar](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
+         + [Skicka en lista till ett annonsnätverk](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Händelser {#events}
          + Förstå händelser {#understanding-events}
             + [Lägga till medlemmar i ett händelseprogram](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
@@ -801,7 +803,7 @@ ht-degree: 0%
                + [Mall 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Mall 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Mall 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Mall 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Mall 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Mall 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [Mall 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Mall 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
@@ -1112,7 +1114,7 @@ ht-degree: 0%
             + [Lägg till e-post i Salesforce](product-docs/marketo-sales-connect/email-plugins/gmail/add-email-to-salesforce.md)
             + [Bifoga en innehållsdel](product-docs/marketo-sales-connect/email-plugins/gmail/attaching-a-piece-of-content.md)
             + [Kalenderfunktioner](product-docs/marketo-sales-connect/email-plugins/gmail/calendar-functionality.md)
-            + [Fliken E-postanslutning för Gmail-användare](product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md)
+            + [E-postanslutning för Gmail-användare](product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
             + [Gmail hämtar inte in Sales Connect-signatur](product-docs/marketo-sales-connect/email-plugins/gmail/gmail-not-pulling-in-sales-connect-signature.md)
             + [Så här lägger du till en mall](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-add-a-template.md)
             + [Installera ToutApp Browser Extension](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-install-the-toutapp-browser-extension.md)
@@ -1124,7 +1126,7 @@ ht-degree: 0%
             + [Verktygsfältet Sales Connect](product-docs/marketo-sales-connect/email-plugins/gmail/the-sales-connect-tool-bar.md)
             + [Oväntat fel i Gmail](product-docs/marketo-sales-connect/email-plugins/gmail/unexpected-error-in-gmail.md)
          + MSC för Outlook {#msc-for-outlook}
-            + [Fliken E-postanslutning för Outlook-användare](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-tab-for-outlook-users.md)
+            + [E-postanslutning för Outlook-användare](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
             + .NET Legacy Add-in {#net-legacy-add-in}
                + [Översikt över .NET-tillägg](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/net-add-in-overview.md)
                + [Så här avinstallerar du Sales Connect från Outlook](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/how-to-uninstall-sales-connect-from-outlook.md)
@@ -1147,8 +1149,8 @@ ht-degree: 0%
             + [Testa e-postmeddelandet visas inte som det visats](product-docs/marketo-sales-connect/email/common-tracking-questions/test-email-not-showed-as-viewed.md)
          + E-postleverans {#email-delivery}
             + [Översikt över leveranskanalen](product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
-            + [Konfigurera en SMTP-server](product-docs/marketo-sales-connect/email/email-delivery/setting-up-an-smtp-server.md)
-            + [Konfigurera leveranskanalen](product-docs/marketo-sales-connect/email/email-delivery/setting-up-your-delivery-channel.md)
+            + [Begränsning för e-postanslutning](product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
+            + [Konfigurera en anpassad leveranskanal](product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
          + Skicka ett e-postmeddelande {#send-a-sales-email}
             + [Lägg till en mall eller kampanj](product-docs/marketo-sales-connect/email/send-a-sales-email/add-a-template-or-campaign.md)
             + [Lägg till e-post i Salesforce från Gmail](product-docs/marketo-sales-connect/email/send-a-sales-email/add-email-to-salesforce-from-gmail.md)
@@ -1313,6 +1315,7 @@ ht-degree: 0%
                + [Konfigurera Unsubscribe Footers in Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
                + [Lås försäljningsmall](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
                + [Publicera ett e-postmeddelande till Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
+               + [Skicka ett test-e-postmeddelande](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
             + Massåtgärder {#bulk-actions}
                + [Lägg till Marketo Sales Insight-flik och knappar i Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
                + [Massåtgärder i Salesforce Lightning](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/bulk-actions-in-salesforce-lightning.md)
@@ -1672,6 +1675,8 @@ ht-degree: 0%
          + [Visa webbkampanjer från en viss etikett](product-docs/web-personalization/working-with-web-campaigns/view-web-campaigns-from-a-specific-label.md)
 + Versionsinformation {#release-notes}
    + [Versionsschema](release-notes/release-schedule.md)
+   + 2021 {#2021}
+      + [Versionsinformation: 21 jan](release-notes/2021/release-notes-jan-21.md)
    + 2020 {#2020}
       + [Versionsinformation: 20 januari](release-notes/2020/release-notes-jan-20.md)
       + [Versionsinformation: 20 feb](release-notes/2020/release-notes-feb-20.md)
