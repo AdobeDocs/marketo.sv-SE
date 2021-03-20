@@ -3,9 +3,9 @@ unique-page-id: 2949469
 description: Installationssteg - Marketo Docs - Produktdokumentation
 title: Installationssteg
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
-source-wordcount: '2143'
+source-wordcount: '2004'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Vissa steg kräver hjälp från IT-avdelningen.
 >
 >Om du [skriver ut den här checklistan](/help/marketo/getting-started/setup-steps/setup-checklist.md) kan du checka av objekt när du slutför dem.
 
-1. Logga in och skapa ytterligare marknadsföringsanvändare
+## Logga in och skapa ytterligare marknadsföringsanvändare {#log-in-and-create-additional-marketo-users}
 
 1. Logga in på Marketo [här](https://app.marketo.com/) med de inloggningsuppgifter du fått via e-post.
 
@@ -98,122 +98,122 @@ Den nya användaren visas nu på fliken Användare och bör få ett e-postmeddel
 
 ![](assets/image2016-5-24-10-3a23-3a10.png)
 
-1. Konfigurera dina auktoriserade supportkontakter
+## Konfigurera dina auktoriserade supportkontakter {#set-up-your-authorized-support-contacts}
 
-   Du kan ha fått ett e-postmeddelande från Marketo Support om att du är Marketo kundsupportadministratör för ditt företag. I så fall kan du konfigurera **auktoriserade supportkontakter** för ditt team. Endast behöriga supportkontakter kan kontakta Marketo Customer Support direkt via [Marketo Support Portal](https://support.marketo.com).
+Du kan ha fått ett e-postmeddelande från Marketo Support om att du är Marketo kundsupportadministratör för ditt företag. I så fall kan du konfigurera **auktoriserade supportkontakter** för ditt team. Endast behöriga supportkontakter kan kontakta Marketo Customer Support direkt via [Marketo Support Portal](https://support.marketo.com).
 
-   >[!NOTE]
-   >
-   >Antalet supportkontakter som du kan skapa beror på vilket paket du har köpt. Den här gränsen anges i ditt e-postmeddelande från Marketo Support.
+>[!NOTE]
+>
+>Antalet supportkontakter som du kan skapa beror på vilket paket du har köpt. Den här gränsen anges i ditt e-postmeddelande från Marketo Support.
 
-   Authorized Support Contact docs has move to the Marketo Community. Se [den här artikeln](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341).
+Authorized Support Contact docs has move to the Marketo Community. Se [den här artikeln](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341).
 
-   >[!NOTE]
-   >
-   >Endast personer som har loggat in på Marketo Community visas i listan. Om du inte kan hitta personen måste du först logga in på Community.
+>[!NOTE]
+>
+>Endast personer som har loggat in på Marketo Community visas i listan. Om du inte kan hitta personen måste du först logga in på Community.
 
-1. Anpassa URL:er för landningssidor med en CNAME
+## Anpassa URL:er för landningssidor med en CNAME {#customize-your-landing-page-urls-with-a-cname}
 
-   >[!NOTE]
-   >
-   >Är du kund i Launch Pack? Du kan hoppa över det här steget. Din konsult kommer att ge dig ett dokument med instruktioner för IT-konfiguration under samtalet.
+>[!NOTE]
+>
+>Är du kund i Launch Pack? Du kan hoppa över det här steget. Din konsult kommer att ge dig ett dokument med instruktioner för IT-konfiguration under samtalet.
 
-   >[!NOTE]
-   >
-   >**Administratörsbehörigheter krävs**
+>[!NOTE]
+>
+>**Administratörsbehörigheter krävs**
 
-   Välj en CNAME för dina landningssidor. Några exempel:
+Välj en CNAME för dina landningssidor. Några exempel:
 
-   * **gå**.[CompanyDomain].com
-   * **www2**.[CompanyDomain].com
-   * **lp**.[CompanyDomain].com
+    * **go**.[CompanyDomain].com
+    * **www2**.[CompanyDomain].com
+    * **lp**.[CompanyDomain].com
 
-   >[!TIP]
-   >
-   >Håll det kort! Kortare URL:er är enklare att komma ihåg. Vi föreslår &quot;gå&quot; som domän.
+>[!TIP]
+>
+>Håll det kort! Kortare URL:er är enklare att komma ihåg. Vi föreslår &quot;gå&quot; som domän.
 
-   Den första delen (i fet stil) är `[LandingPageCNAME]`. Du behöver den i steg 5.
+Den första delen (i fet stil) är `[LandingPageCNAME]`. Du behöver den i steg 5.
 
-   Om du vill hämta kontosträngen som du ska ersätta med landningssidan CNAME går du till området Admin.
+Om du vill hämta kontosträngen som du ska ersätta med landningssidan CNAME går du till området Admin.
 
-   ![](assets/admin.png)
+![](assets/admin.png)
 
-   Klicka på **Startsidor**.
+Klicka på **Startsidor**.
 
-   ![](assets/image2015-1-6-13-3a52-3a6.png)
+![](assets/image2015-1-6-13-3a52-3a6.png)
 
-   Kopiera kontosträngen från inställningarna för landningssidan.
+Kopiera kontosträngen från inställningarna för landningssidan.
 
-   ![](assets/image2015-1-6-13-3a53-3a19.png)
+![](assets/image2015-1-6-13-3a53-3a19.png)
 
-   Det här är `[AccountString]`. Spara den. Du måste ge den till IT i steg 5.
+Det här är `[AccountString]`. Spara den. Du måste ge den till IT i steg 5.
 
 Konfigurera domäninställningarna så att landningssidorna använder företagets domän i stället för Marketos (där de finns).
 
-1. Säkerställ e-postleverans
+## Säkerställ e-postleverans {#ensure-email-deliverability}
 
-   >[!NOTE]
-   >
-   >Är du kund i Launch Pack? Du kan hoppa över det här steget. Din konsult kommer att ge dig ett dokument med instruktioner för IT-konfiguration under samtalet.
+>[!NOTE]
+>
+>Är du kund i Launch Pack? Du kan hoppa över det här steget. Din konsult kommer att ge dig ett dokument med instruktioner för IT-konfiguration under samtalet.
 
-   Du kan vidta flera åtgärder för att se till att e-postmeddelandena når så många av dina medarbetare som möjligt.
+Du kan vidta flera åtgärder för att se till att e-postmeddelandena når så många av dina medarbetare som möjligt.
 
-   1. **Lägg in spårningslänkarna**. Du kan välja en CNAME att använda din egen domän (i stället för Marketos) i de länkar som du inkluderar i e-postmeddelanden från Marketo. Detta stärker er domänprofilering och ökar förtroendet och leveransförmågan hos era mottagare.
-   1. **Lägg till Marketo i företagets e-post tillåtelselista.** Det är en vanlig god praxis att skicka testmeddelanden till testkonton innan e-post skickas till verkliga personer. Genom att tillåtslista Marketo kan du förhindra att testmeddelanden blockeras eller flaggas som skräppost.
-   1. **Konfigurera SPF och DKIM.** Dessa tekniker garanterar mottagarna att era Marketo-e-postmeddelanden inte är skräppost. Följ de här stegen för att [konfigurera en SPF och DKIM för din e-postleverans](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md) för att förhindra att mottagarnas skräppostfilter avvisar dina Marketo-e-postmeddelanden.
-   1. **Konfigurera en MX-post för din domän.** Med en MX-post kan du ta emot e-post till domänen som du skickar e-post från för att bearbeta svar och automatiska svar. Om du skickar från din företagsdomän har du förmodligen redan detta konfigurerat. Annars kan du vanligtvis konfigurera så att den mappar till företagets domäns MX-post.
-   1. **Rekommenderade inställningar för Från-adressen.** Du måste använda en giltig, befintlig och fungerande e-postdomän i Från adress i alla e-postkampanjer. Det kan vara bra att konfigurera en underdomän till din företagsdomän i stället för att skicka från din företagsdomän. Detta säkerställer att problem från företagets e-postström inte påverkar Marketo-e-postströmmen och vice versa. Om du skickar e-post från something@nonexistentdomain.com kommer e-postmeddelandet att filtreras eller blockeras. Alla domäner som används i avsändarens Från-adress måste ha ett giltigt och fungerande postmaster@- och missbruk@-konto.
-Om du använder Google Apps som värd för din företagsmejl kan du inte skapa missbruk@- eller postmaster@-e-post under din domän. För att komma runt detta måste du skapa grupper som heter &quot;missbruk&quot; och &quot;postmaster&quot;. Användare som är medlemmar i dessa grupper får e-postmeddelanden som skickas till dessa adresser (t.ex. postmaster@domain.com). Detaljerade instruktioner om hur du skapar grupper finns [här](https://support.google.com/a/answer/33343#adminconsole).
+    1. **Lägg in spårningslänkar**. Du kan välja en CNAME att använda din egen domän (i stället för Marketos) i de länkar som du inkluderar i e-postmeddelanden från Marketo. Detta stärker er domänprofilering och ökar förtroendet och leveransförmågan hos era mottagare.
+    1. **Lägg till Marketo i företagets e-post tillåtelselista.** Det är en vanlig god praxis att skicka testmeddelanden till testkonton innan de skickas med e-post till verkliga personer. Genom att tillåtslista Marketo kan du förhindra att testmeddelanden blockeras eller flaggas som skräppost.
+    1. **Konfigurera SPF och DKIM.** Dessa tekniker försäkrar mottagarna om att dina Marketo-e-postmeddelanden inte är skräppost. Följ de här stegen för att [Konfigurera en SPF och DKIM för din e-postleverans] (/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md) för att förhindra att mottagarnas skräppostfilter avvisar dina Marketo-e-postmeddelanden.
+    1. **Konfigurera en MX-post för din domän.** Med en MX-post kan du ta emot e-post till den domän som du skickar e-post från för att bearbeta svar och automatiska svar. Om du skickar från din företagsdomän har du förmodligen redan detta konfigurerat. Annars kan du vanligtvis konfigurera så att den mappar till företagets domäns MX-post.
+    1. **Rekommenderade inställningar för Från adress.** Du måste använda en giltig, befintlig och fungerande e-postdomän i Från adress i alla e-postkampanjer. Det kan vara bra att konfigurera en underdomän till din företagsdomän i stället för att skicka från din företagsdomän. Detta säkerställer att problem från företagets e-postström inte påverkar Marketo-e-postströmmen och vice versa. Om du skickar e-post från something@nonexistentdomain.com kommer e-postmeddelandet att filtreras eller blockeras. Alla domäner som används i avsändarens Från-adress måste ha ett giltigt och fungerande postmaster@- och missbruk@-konto.
+    Om du använder Google Apps som värd för din företagsmejl kan du inte skapa missbruk@- eller postmaster@-e-post under din domän. För att komma runt detta måste du skapa grupper som heter &quot;missbruk&quot; och &quot;postmaster&quot;. Användare som är medlemmar i dessa grupper får e-postmeddelanden som skickas till dessa adresser (t.ex. postmaster@domain.com). Detaljerade instruktioner för hur du skapar grupper finns [här](https://support.google.com/a/answer/33343#adminconsole).
 
-   Välj en CNAME för e-postspårningslänkar (välj en som är _annorlunda_ från landningssidan CNAME som du valde i steg 3). Några exempel:
+Välj en CNAME för e-postspårningslänkar (välj en som är _annorlunda_ från landningssidan CNAME som du valde i steg 3). Några exempel:
 
-   * go2.[CompanyDomain].com
-   * Jag.[CompanyDomain].com
-   * wow.[CompanyDomain].com
+    * go2.[CompanyDomain].com
+    * em.[CompanyDomain].com
+    * wow.[CompanyDomain].com
 
-   Den första delen är e-postspårningen CNAME, `[EmailTrackingCNAME]`. Du måste ge den till IT i steg 5.
+Den första delen är e-postspårningen CNAME, `[EmailTrackingCNAME]`. Du måste ge den till IT i steg 5.
 
-   >[!CAUTION]
-   >
-   >CNAME-filer för e-post och landningssida måste vara olika. Undvik också CNAME som&quot;track&quot; eller&quot;link&quot;. Den flaggas ofta som skräppost
+>[!CAUTION]
+>
+>CNAME-filer för e-post och landningssida måste vara olika. Undvik också CNAME som&quot;track&quot; eller&quot;link&quot;. Den flaggas ofta som skräppost
 
-   Gå till området **Admin** om du vill hitta länken för spårning av din Marketo.
+Gå till området **Admin** om du vill hitta länken för spårning av din Marketo.
 
-   ![](assets/admin.png)
+![](assets/admin.png)
 
-   Klicka på **E-post**.
+Klicka på **E-post**.
 
-   ![](assets/image2015-1-6-13-3a55-3a32.png)
+![](assets/image2015-1-6-13-3a55-3a32.png)
 
-   Kopiera spårningslänken från e-postinställningarna.
+Kopiera spårningslänken från e-postinställningarna.
 
-   Spårningslänken har följande format: `mkto-[a-z][4 digits].com`.
+Spårningslänken har följande format: `mkto-[a-z][4 digits].com`.
 
-   ![](assets/email-tracking-link-hand.jpg)
+![](assets/email-tracking-link-hand.jpg)
 
-   Detta är din `[MktoTrackingLink]`. Spara den. Du måste ge den till IT i steg 5.
+Detta är din `[MktoTrackingLink]`. Spara den. Du måste ge den till IT i steg 5.
 
-   Samla in Från-domäner. Gör en lista över alla Från-domäner (som i `[Sender]@[FromDomain].com`) som du tänker använda för att skicka e-post från Marketo. För de flesta finns det bara en.
+Samla in Från-domäner. Gör en lista över alla Från-domäner (som i `[Sender]@[FromDomain].com`) som du tänker använda för att skicka e-post från Marketo. För de flesta finns det bara en.
 
-   Till exempel &#39;marketo.com,&#39; &#39;info.marketo.com,&#39;. Dessa är `[FromDomain1]`,`[FromDomain2]` osv. Spara dem. Du måste ge dem till IT i steg 5.
+Till exempel &#39;marketo.com,&#39; &#39;info.marketo.com,&#39;. Dessa är `[FromDomain1]`,`[FromDomain2]` osv. Spara dem. Du måste ge dem till IT i steg 5.
 
-   Nu har du all information du behöver för att skicka din förfrågan till IT!
+Nu har du all information du behöver för att skicka din förfrågan till IT!
 
-1. Be IT att konfigurera protokoll
+## Be IT att konfigurera protokoll {#ask-it-to-configure-protocols}
 
-   >[!NOTE]
-   >
-   >Är du kund i Launch Pack? Du kan hoppa över det här steget. Din konsult kommer att ge dig ett dokument med instruktioner för IT-konfiguration under samtalet.
+>[!NOTE]
+>
+>Är du kund i Launch Pack? Du kan hoppa över det här steget. Din konsult kommer att ge dig ett dokument med instruktioner för IT-konfiguration under samtalet.
 
-   När du har samlat in all nödvändig information är du redo att skicka en förfrågan till IT. Du kan använda texten nedan som mall och ersätta den feta texten med din egen information.
+När du har samlat in all nödvändig information är du redo att skicka en förfrågan till IT. Du kan använda texten nedan som mall och ersätta den feta texten med din egen information.
 
-   [Ta med en länk till den här artikeln](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md).
+[Ta med en länk till den här artikeln](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md).
 
-   Klistra in den här texten i e-postmeddelandet och ersätt platshållarna med formatinformation:
+Klistra in den här texten i e-postmeddelandet och ersätt platshållarna med formatinformation:
 
-   >[!NOTE]
-   >
-   >Se steg 3 och 4 ovan för att bestämma vilken text som ska ersätta platshållarna. Kom ihåg att `[LandingPageCNAME]` och `[EmailTrackingCNAME]` måste vara olika.
+>[!NOTE]
+>
+>Se steg 3 och 4 ovan för att bestämma vilken text som ska ersätta platshållarna. Kom ihåg att `[LandingPageCNAME]` och `[EmailTrackingCNAME]` måste vara olika.
 
 `---------------------------------------------`
 
@@ -286,82 +286,56 @@ Kärlek,
 
 Skicka e-postmeddelandet till IT. Vi förstår att det kan ta lite tid för IT-avdelningen att utföra dessa uppgifter. Du kan fortsätta till steg 7, men kom ihåg att du måste gå tillbaka till steg 6 för att slutföra konfigurationen av Marketo.
 
-1. Slutför installationen av din marknadsföring när IT-avdelningen är klar
+## Slutför installationen av din marknadsföring när den är klar {#complete-your-marketo-setup-after-it-finishes}
 
-   När IT-avdelningen har slutfört sina uppgifter följer du de här stegen för att lägga till landningssidan och e-posta CNAME:er samt för att aktivera DKIM-signering.
+När IT-avdelningen har slutfört sina uppgifter följer du de här stegen för att lägga till landningssidan och e-posta CNAME:er samt för att aktivera DKIM-signering.
 
-   Gå till området **Admin** och lägg till CNAME för landningssidan
+Gå till området **Admin** och lägg till CNAME för landningssidan
 
-   ![](assets/admin.png)
+![](assets/admin.png)
 
-   Välj Landningssidor och klicka på **Redigera** i området Inställningar.
+Välj Landningssidor och klicka på **Redigera** i området Inställningar.
 
-   ![](assets/image2015-1-6-13-3a59-3a15.png)
+![](assets/image2015-1-6-13-3a59-3a15.png)
 
-   Ange ditt nya domännamn i fältet Domännamn för landningssidor. Den ska ha följande format:
+Ange ditt nya domännamn i fältet Domännamn för landningssidor. Den ska ha följande format:
 
-   `[LandingPageCNAME].[CompanyDomain].com`
+`[LandingPageCNAME].[CompanyDomain].com`
 
-   ![](assets/image2015-1-6-14-3a3-3a6.png)
+![](assets/image2015-1-6-14-3a3-3a6.png)
 
-   Ange den URL som du vill att personer ska gå till i fältet Sidåterställning om det inte finns någon startsida. Du kan använda företagets hemsida om du inte har någon reservsida. Ange din företagswebbplats i fältet Hemsida.
+Ange den URL som du vill att personer ska gå till i fältet Sidåterställning om det inte finns någon startsida. Du kan använda företagets hemsida om du inte har någon reservsida. Ange din företagswebbplats i fältet Hemsida.
 
-   ![](assets/image2015-1-6-14-3a2-3a46.png)
+![](assets/image2015-1-6-14-3a2-3a46.png)
 
-   I området Admin väljer du E-post för att lägga till din e-post-CNAME
+I området Admin väljer du E-post för att lägga till din e-post-CNAME
 
-   ![](assets/image2015-1-6-14-3a5-3a3.png)
+![](assets/image2015-1-6-14-3a5-3a3.png)
 
-   Bläddra nedåt och klicka på **Redigera**.
+Bläddra nedåt och klicka på **Redigera**.
 
-   ![](assets/edit-branding-domain.png)
+![](assets/edit-branding-domain.png)
 
-   Ange din e-postspårningsdomän i fältet Domän. Den ska ha följande format:
+Ange din e-postspårningsdomän i fältet Domän. Den ska ha följande format:
 
-   `[EmailTrackingCNAME].[CompanyDomain].com`. Klicka på **Spara**.
+`[EmailTrackingCNAME].[CompanyDomain].com`. Klicka på **Spara**.
 
-   ![](assets/new-branding-domain-9-1.png)
+![](assets/new-branding-domain-9-1.png)
 
-1. Skicka en URL för landningssida och e-postmallar
+## Integrera din CRM {#integrate-your-crm}
 
-   Våra designers kan förse dig med anpassade mallar för e-post och landningssidor som gör det snabbt och enkelt att starta marknadsföringsprogram. Du måste förse dem med viss information så att de kan matcha mallarna mot företagets webbplats och logotyp.
+Detta är förmodligen det mest spännande steget i er konfiguration - det är dags att fylla i Marketo med alla leads och kontakter som ni har lagrat i CRM!
 
-   >[!NOTE]
-   >
-   >Dessa anpassade mallar är endast tillgängliga för kunder som har Launch Pack.
+Välj något av följande, beroende på vilken CRM ditt företag använder.
 
-   Gå till formuläret [Marketo Template Design and Build](https://pages2.marketo.com/CESubmit-URL-ForTemplates.html). Fyll i företagsinformation.
+    * [Integrera Marketo med Salesforce.com](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+    * [Integrera Marketo med Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
-   ![](assets/image2014-9-12-11-3a4-3a55.png)
+>[!NOTE]
+>
+>Du behöver hjälp av företagets CRM-administratör för att kunna utföra dessa steg.
 
-   Ange ett exempel-URL för din landningssida från företagets webbplats som visar företagets färger, logotyp och stil. De flesta kunder använder en kontaktsida som innehåller ett formulär.
-
-   ![](assets/image2014-9-12-11-3a5-3a7.png)
-
-   För CNAME anger du landningssidan CNAME som du valde i steg 3 (`[LandingPageCNAME]`). Skicka din begäran.
-
-   ![](assets/image2014-9-12-11-3a5-3a17.png)
-
-   >[!NOTE]
-   >
-   >Mallarna kan inte slutföras förrän IT-avdelningen skapar en DNS-post för landningssidan CNAME.
-
-   Nu räcker det! Du bör se dina nya mallar i Marketo Design Studio på 3-5 arbetsdagar.
-
-1. Integrera CRM
-
-   Detta är förmodligen det mest spännande steget i er konfiguration - det är dags att fylla i Marketo med alla leads och kontakter som ni har lagrat i CRM!
-
-   Välj något av följande, beroende på vilken CRM ditt företag använder.
-
-   * [Integrera Marketo med Salesforce.com](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
-   * [Integrera Marketo med Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
-
-   >[!NOTE]
-   >
-   >Du behöver hjälp av företagets CRM-administratör för att kunna utföra dessa steg.
-
-## 9. Lägg till spårningskod på din webbplats {#add-tracking-code-to-your-website}
+## Lägg till spårningskod på din webbplats {#add-tracking-code-to-your-website}
 
 >[!NOTE]
 >
