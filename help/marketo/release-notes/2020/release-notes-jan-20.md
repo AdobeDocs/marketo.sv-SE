@@ -3,7 +3,7 @@ unique-page-id: 37355534
 description: Versionsinformation - jan 2020 - Marketo Docs - produktdokumentation
 title: Versionsinformation - jan 2020
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 0%
@@ -19,7 +19,9 @@ Följande funktioner finns i jan 20. Se om din Marketo-utgåva har funktioner ti
 >
 >Funktioner som anges av en stjärna ( ![(stjärna)](assets/star-yellow.svg)) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
 
-**_Kvartalsvisa_** utgåvorFöljande funktioner kommer att släppas den 17  **januari 2020**.
+**_Kvartalsvisa releaser_**
+
+Följande funktioner kommer att släppas den 17 januari 2020 **.**
 
 ## Core Marketo Engage Adobe-program {#core-marketo-engage-adobe-application}
 
