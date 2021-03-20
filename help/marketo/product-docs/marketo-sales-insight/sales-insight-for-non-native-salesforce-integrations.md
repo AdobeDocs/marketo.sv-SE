@@ -3,9 +3,9 @@ unique-page-id: 45417125
 description: Sales Insight for Non-Native Salesforce Integrations - Marketo Docs - Produktdokumentation
 title: Sales Insight for Non-Native Salesforce Integrations
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1277'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ Om ditt Marketo-konto är anslutet till Salesforce via en anpassad eller icke-in
 
 >[!PREREQUISITES]
 >
->* Kontakta er Customer Success Manager för att aktivera funktionen&quot;MSI Non-Native&quot; för er Marketo-instans.
->* Ett Salesforce-konto med konfiguration av MSI-paket.
+>* Funktionsflaggan&quot;MSI Non-Native&quot; aktiverad för din Marketo-instans innan du börjar konfigurera MSI (om den inte är det kontaktar du din Customer Success Manager).
+>* Ett Salesforce-konto med [MSI-paket konfigurerat](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md).
 >* Marketo REST API [har konfigurerats](https://developers.marketo.com/rest-api/). De exponerade CRUD-API:erna kommer att utgöra grunden för den icke-ursprungliga synkroniseringen.
 >* Läs [det här blogginlägget](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/) för att få en förståelse för objektet och relationerna.
 >* Ställ in Salesforce-objekt för att visa den globalt unika identifieraren som inte är skiftlägeskänslig för 18 tecken i stället för den globalt unika identifieraren för 15 tecken.
