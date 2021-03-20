@@ -431,7 +431,7 @@ Nedan finns definitioner för många av de termer som du kan stöta på när du 
  </tbody> 
 </table>
 
-## I {#i}
+## K {#i}
 
 <table> 
  <colgroup> 
