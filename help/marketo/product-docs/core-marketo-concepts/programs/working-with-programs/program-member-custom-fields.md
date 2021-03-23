@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: Anpassade fält för programmedlemmar - Marketo Docs - Produktdokumentation
 title: Anpassade fält för programmedlem
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Anpassade fält för programmedlem {#program-member-custom-fields}
 
 Med anpassade fält för programmedlemmar kan du samla in programspecifika data för varje medlem. De kan användas i: Marketo-formulär, Smart List-filter och -utlösare samt åtgärder för Smart Campaign-flödet. Data kan visas på fliken Medlemmar i programmet.
+
+>[!NOTE]
+>
+>Anpassade fält för programmedlem har för närvarande ingen integrering med Salesforce Campaign-medlemsfält.
 
 ## Skapa ett anpassat fält för programmedlem {#create-a-program-member-custom-field}
 
@@ -64,11 +68,10 @@ Du kan utnyttja dessa programspecifika data i smarta listor via [utlösare](/hel
 
 * Anpassade fält för programmedlemmar är endast tillgängliga i lokala resurser. De stöds inte i Design Studio eftersom det inte finns något sätt att knyta dem till ett specifikt program.
 * Du kan inte klona/flytta ett formulär (eller en landningssida med ett formulär) som innehåller anpassade fält för programmedlem till Design Studio.
-* Anpassade fält för programmedlem kan inte användas som token.
 * Objektet Program Member kan ha upp till 20 anpassade fält. Dessa fält är tillgängliga för alla program.
 * När du tar bort en medlem i ett program och har data i det anpassade fältet Programmedlem, rensas data från det fältet.
 * Om du vill visa data klickar du på fliken Medlemmar i programmet och skapar en anpassad vy som innehåller dessa fält.
-* Import och export via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)och [API](https://developers.marketo.com/) stöds.
+* Import och export via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) och [API](https://developers.marketo.com/) stöds.
 * När du sammanfogar två personer används vinnarens anpassade fältdata för programmedlemmen. Men om vinnaren inte har något värde kommer förlorarens värde att användas.
 
 >[!MORELIKETHIS]
