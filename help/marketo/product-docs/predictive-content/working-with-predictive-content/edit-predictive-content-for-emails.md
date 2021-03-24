@@ -3,9 +3,9 @@ unique-page-id: 11385938
 description: Redigera prediktivt innehåll för e-post - Marketo Docs - Produktdokumentation
 title: Redigera prediktivt innehåll för e-postmeddelanden
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -42,6 +42,10 @@ Så här konfigurerar du ditt prediktiva innehåll för e-postmeddelanden.
 1. Om du vill lägga till eller redigera bild-URL:en klickar du på **Redigera bild**.
 
    ![](assets/image2017-10-3-9-3a33-3a11.png)
+
+   >[!CAUTION]
+   >
+   >För att få bästa möjliga kvalitet måste bilden vara 400 × 400 pixlar eller mindre.
 
 1. Infoga bildens URL och klicka på **Lägg till**.
 
