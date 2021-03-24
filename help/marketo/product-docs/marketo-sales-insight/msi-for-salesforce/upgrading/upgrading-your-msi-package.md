@@ -3,9 +3,9 @@ unique-page-id: 37357050
 description: Uppgraderar ditt MSI-paket - Marketo Docs - produktdokumentation
 title: Uppgraderar ditt MSI-paket
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -26,3 +26,7 @@ ht-degree: 0%
 1. Du kan uppgradera paketet genom att välja Installera endast för administratörer (och ge MSI-åtkomst till specifika profiler senare), Installera för alla användare eller Installera för specifika profiler. I det här exemplet väljer vi Endast administratörer. När du har valt något klickar du på **Uppgradera**.
 
    ![](assets/four.png)
+
+>[!NOTE]
+>
+>Vi rekommenderar att du bara uppdaterar paketet för administratörer och sedan [ger åtkomst till specifika användare](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md) baserat på antalet MSI-licenser som köpts. Du kan också skapa en specifik Salesforce-profil för MSI-användare och installera eller uppgradera paketet endast för dessa användare.
