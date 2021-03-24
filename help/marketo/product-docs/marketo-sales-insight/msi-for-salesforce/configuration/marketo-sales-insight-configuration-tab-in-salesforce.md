@@ -3,9 +3,9 @@ unique-page-id: 42762322
 description: Marketo Sales Insight Configuration tab in Salesforce - Marketo Docs - Product Documentation
 title: Marketo Sales Insight Configuration tab in Salesforce
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
@@ -44,6 +44,7 @@ Konfigurationer gäller för alla MSI-användare och är inte specifika för pro
 
 * Kommande event: Möjlighet att visa inbjudna händelser, alla händelser till användare eller helt dölja den här fliken
 * Kommande kampanjer: Möjlighet att visa alla e-postkampanjer eller dölja den här fliken helt
+* Läs in kommande kampanjer och evenemang: Möjlighet att minska antalet Rest API-anrop som görs av användare genom att placera händelser och kampanjer på en flik bakom knappen Läs in kommande objekt på begäran
 * Flikinställningar - Alla fem flikarna är tillgängliga som standard. Alla fem flikarna är som standard tillgängliga. Du kan välja tabbordning på panelen Försäljningsinsikter. Samma order gäller för all layout (Lead, Contact, Account, Opportunity)
 
 ![](assets/two.png)
@@ -58,3 +59,7 @@ Konfigurationer gäller för alla MSI-användare och är inte specifika för pro
 Om du väljer att göra det raderas alla konfigurationer i SFDC och de kan inte återställas. Du måste konfigurera om allt igen.
 
 ![](assets/three.png)
+
+>[!MORELIKETHIS]
+>
+>[Konfigurera Sales Insight för ditt team](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
