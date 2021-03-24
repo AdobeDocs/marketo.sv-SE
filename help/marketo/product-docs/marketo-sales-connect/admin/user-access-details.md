@@ -3,7 +3,7 @@ unique-page-id: 14352623
 description: Information om användaråtkomst - Marketo Docs - Produktdokumentation
 title: Information om användaråtkomst
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Administratörer kan [visa alla kampanjer](/help/marketo/product-docs/marketo-sa
 
 Administratörer kan visa all e-postaktivitet.
 
-![](assets/email-activity.png)
+![](assets/user-access-details-3.png)
 
 Administratörer kan se alla personer i en pågående kampanj.
 
