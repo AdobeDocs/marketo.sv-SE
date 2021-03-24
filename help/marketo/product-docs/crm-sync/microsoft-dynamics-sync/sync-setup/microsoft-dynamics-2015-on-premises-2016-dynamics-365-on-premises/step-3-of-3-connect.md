@@ -3,9 +3,9 @@ unique-page-id: 7504744
 description: Installera Marketo för Dynamics 2015 On-Prem och 2016 365 On-Prem Step 3 of 3 - Marketo Docs - produktdokumentation
 title: Installera Marketo för Dynamics 2015 On-Prem och 2016 365 On-Prem Step 3 of 3
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
@@ -45,13 +45,16 @@ ht-degree: 0%
    >
    >Kontrollera att dina autentiseringsuppgifter är korrekta eftersom det inte går att återställa efterföljande schemaändringar efter överföringen. Om felaktiga inloggningsuppgifter sparas måste du skaffa en ny Marketo-prenumeration.
 
-1. Ange **användarnamn**, **lösenord** en Microsoft Dynamics **URL** och ett valfritt **klient-ID**. Klicka på **Spara** när du är klar.
+1. Ange **användarnamn**, **lösenord** en Microsoft Dynamics **URL** och ett **klient-ID/hemlighet**. Klicka på **Spara** när du är klar.
 
-   ![](assets/client-id.png)
+   ![](assets/step-3-of-3-5.png)
 
    >[!NOTE]
    >
-   >Användarnamnet i Marketo måste matcha användarnamnet för synkroniseringsanvändaren i CRM. Formatet kan vara user@domain.com eller DOMÄN\användare.
+   >* Om din Marketo etablerades före oktober 2020 är klient-ID och hemlighet valfria fält. Annars är de obligatoriska. Hur du får den här informationen beror på vilken version av MSD du använder.
+   >* Användarnamnet i Marketo måste matcha användarnamnet för synkroniseringsanvändaren i CRM. Formatet kan vara `user@domain.com` eller DOMAIN\user.
+   >* Om du inte känner till URL:en [kan du lära dig hur du hittar den här](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
+
 
    >[!TIP]
    >
@@ -66,6 +69,10 @@ ht-degree: 0%
 1. Markera de fält som du vill synkronisera med Marketo så att de är förmarkerade. Klicka på **Spara**.
 
    ![](assets/image2016-8-25-15-3a14-3a28.png)
+
+>[!NOTE]
+>
+>Marketo lagrar en referens till de fält som ska synkroniseras. Om du tar bort ett fält i Dynamics rekommenderar vi att du gör det med [synkroniseringen inaktiverad](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Uppdatera sedan schemat i Marketo genom att redigera och spara [Välj fält att synkronisera](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
 
 ## Synkronisera fält för ett anpassat filter {#sync-fields-for-a-custom-filter}
 
