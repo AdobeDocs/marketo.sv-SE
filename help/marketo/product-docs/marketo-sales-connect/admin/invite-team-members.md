@@ -3,9 +3,9 @@ unique-page-id: 14352402
 description: Bjud in teammedlemmar - Marketo Docs - Produktdokumentation
 title: Bjud in teammedlemmar
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ Det går snabbt och enkelt att lägga till teammedlemmar!
 
    ![](assets/one.png)
 
-1. Välj **Teamhantering** under Administrationsinställningar.
+1. Välj **Användarhantering** under Administratörsinställningar.
 
-   ![](assets/two.png)
+   ![](assets/invite-team-members-2.png)
 
-1. Klicka på **Bjud in ny användare**.
+1. Klicka på **Bjud in användare**.
 
-   ![](assets/three.png)
+   ![](assets/invite-team-members-3.png)
 
 1. Ange e-postadresserna till de personer som du vill lägga till och klicka på **Nästa**.
 
