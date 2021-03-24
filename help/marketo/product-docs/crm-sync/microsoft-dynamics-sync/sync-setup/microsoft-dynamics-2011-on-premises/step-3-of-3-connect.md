@@ -3,9 +3,9 @@ unique-page-id: 3571809
 description: Steg 3 av 3 - Ansluta Microsoft Dynamics med Marketo (2011 On-Premises) - Marketo Docs - Produktdokumentation
 title: Steg 3 av 3 - Anslut Microsoft Dynamics med Marketo (On-Premises 2011)
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 20eb3389b267101fb277152f150c2119a5be65a8
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -53,11 +53,9 @@ Okej! Vi installerade lösningen och konfigurerade synkroniseringsanvändaren. D
 
    >[!NOTE]
    >
-   >Användarnamnet i Marketo måste matcha användarnamnet för synkroniseringsanvändaren i CRM. Formatet kan vara user@domain.com eller DOMÄN\användare.
+   >* Användarnamnet i Marketo måste matcha användarnamnet för synkroniseringsanvändaren i CRM. Formatet kan vara `user@domain.com` eller DOMAIN\user.
+   >* Om du inte känner till URL:en [kan du lära dig hur du hittar den här](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
-   >[!TIP]
-   >
-   >Vet du inte URL:en? Vi visar hur du hittar URL:en för Dynamics-organisationstjänsten](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) här.[
 
 ## Välj fält att synkronisera {#select-fields-to-sync}
 
@@ -70,6 +68,10 @@ Nu måste vi markera de fält vi vill synkronisera.
 1. Det finns förmarkerade fält som kommer att synkroniseras. Lägg till mer om du vill och klicka på **Spara**.
 
    ![](assets/image2016-8-25-13-3a26-3a14.png)
+
+   >[!NOTE]
+   >
+   >Marketo lagrar en referens till de fält som ska synkroniseras. Om du tar bort ett fält i Dynamics rekommenderar vi att du gör det med [synkroniseringen inaktiverad](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Uppdatera sedan schemat i Marketo genom att redigera och spara [Välj fält att synkronisera](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
 
 ## Synkronisera fält för ett anpassat filter {#sync-fields-for-a-custom-filter}
 
