@@ -3,7 +3,7 @@ unique-page-id: 5472490
 description: Releaschema - Marketo Docs - Produktdokumentation
 title: Versionsschema
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 * Pågår - Vi utvecklar och dokumenterar innehållet nu för release det angivna datumet
 * Levererat - Versionen är klar
 
-Releasedatum kan komma att ändras.
+_Releasedatum kan komma att ändras_
 
 <table> 
  <colgroup> 
