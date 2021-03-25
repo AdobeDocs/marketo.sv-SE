@@ -3,9 +3,9 @@ unique-page-id: 17727591
 description: E-postanslutning för Outlook-användare - Marketo Docs - Produktdokumentation
 title: E-postanslutning för Outlook-användare
 translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,22 @@ Att ansluta till Outlook innebär att du får svarsspårning, åtkomst till leve
 
    ![](assets/six-a.png)
 
-   | **Outlook Online** | Kallas även Office Online |
-   |---|---|
-   | **Lokal Exchange** | Inkluderar Exchange 2013 och 2016 |
+   <table> 
+    <tbody>
+     <tr>
+      <td><strong>Outlook Online</strong></td> 
+      <td>Kallas även Exchange Online</td> 
+     </tr>
+     <tr>
+      <td><strong>Lokal Exchange</strong></td> 
+      <td>Inkluderar Exchange 2013 och 2016</td> 
+     </tr>
+    </tbody>
+   </table>
+
+   >[!NOTE]
+   >
+   >Marketo stöder för närvarande inte Hybrid-konton i Exchange.
 
 1. Klicka på **OK**.
 
@@ -67,7 +80,7 @@ Att ansluta till Outlook innebär att du får svarsspårning, åtkomst till leve
 
    >[!NOTE]
    >
-   >När du använder Outlook som leveranskanal kan du inte skicka mer än 300 massutskick åt gången.
+   >Outlook Online (Office365) tillämpar sina egna sändningsbegränsningar. [Läs mer här](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
 
 ## Ansluter till Exchange On-Premise {#connecting-to-exchange-on-premise}
 
@@ -97,10 +110,18 @@ Att ansluta till Exchange On-Premise innebär att du får svarsspårning, åtkom
 
    ![](assets/six-b.png)
 
-   | Version | Beskrivning |
-   |---|---|
-   | **Outlook Online** | Kallas även Office Online |
-   | **Lokal Exchange** | Inkluderar Exchange 2013 och 2016 |
+   <table> 
+    <tbody>
+     <tr>
+      <td><strong>Outlook Online</strong></td> 
+      <td>Kallas även Exchange Online</td> 
+     </tr>
+     <tr>
+      <td><strong>Lokal Exchange</strong></td> 
+      <td>Inkluderar Exchange 2013 och 2016</td> 
+     </tr>
+    </tbody>
+   </table>
 
 1. Ange dina autentiseringsuppgifter och klicka på **Anslut**.
 
@@ -114,4 +135,4 @@ Att ansluta till Exchange On-Premise innebär att du får svarsspårning, åtkom
 
    >[!NOTE]
    >
-   >När du använder Outlook som leveranskanal kan du inte skicka mer än 300 massutskick åt gången.
+   >När du använder Exchange On-prem fastställer IT-teamet din sändningsgräns för e-post.
