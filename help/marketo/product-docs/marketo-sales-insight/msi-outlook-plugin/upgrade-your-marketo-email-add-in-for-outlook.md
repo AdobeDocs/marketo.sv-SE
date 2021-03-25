@@ -3,9 +3,9 @@ unique-page-id: 2949279
 description: Uppgradera ditt Marketo-tillägg via e-post för Outlook - Marketo Docs - Produktdokumentation
 title: Uppgradera ditt Marketo-e-posttillägg för Outlook
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Uppgradera ditt Marketo-e-posttillägg för Outlook {#upgrade-your-marketo-email-add-in-for-outlook}
 
 När det finns en ny version av Marketo Email-tillägget för Outlook följer du dessa anvisningar för att uppgradera.
+
+>[!NOTE]
+>
+>Från och med 10/1/20 har den senaste versionen av Outlook-plugin inte längre stöd för offlineläge. Detta börjar gälla efter installation/uppgradering på eller efter 10/1.
 
 ## Hämta installationsprogrammet {#download-installer}
 
@@ -90,13 +94,6 @@ Hämta det installationsprogram som är lämpligt för din version av Microsoft 
    <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Hämta</a></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Outlook O365 (endast Windows)</td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Hämta</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Hämta</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Hämta</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Hämta</a></td> 
-  </tr> 
-  <tr> 
    <td>Outlook för Mac</td> 
    <td>Stöds inte</td> 
    <td>Stöds inte</td> 
@@ -110,10 +107,23 @@ Hämta det installationsprogram som är lämpligt för din version av Microsoft 
    <td colspan="1">Stöds inte</td> 
    <td colspan="1">Stöds inte</td> 
   </tr> 
+  <tr> 
+   <td colspan="1">Office 365*</td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Hämta</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Hämta</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Hämta</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Hämta</a></td> 
+  </tr> 
  </tbody> 
 </table>
 
+*Office 365-version: Endast Windows-klient (i Windows 10, Enterprise eller Pro).
+
 ## Uppgradera {#upgrade}
+
+1. Identifiera din [Microsoft Outlook-version](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us).
+
+1. Välj version i listan ovan.
 
 1. Kör installationsprogrammet.
 
