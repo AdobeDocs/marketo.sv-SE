@@ -2,9 +2,9 @@
 description: Översikt - Marketo Docs - Produktdokumentation
 title: Översikt
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '470'
 ht-degree: 1%
 
 ---
@@ -45,7 +45,7 @@ Det nya gränssnittet har förbättrad och utökad ikonografi. Läs om dem här:
 
 **Träd**
 
-Trädet har också uppgraderats. Men för närvarande går det inte att dra och släppa. Du kan dock fortfarande flytta resurser. Lär dig mer: [Flytta resurser](/help/marketo/product-docs/marketo-engage-next-generation-experience/moving-assets.md).
+Trädet har också uppgraderats.
 
 ![](assets/overview-4.png)
 
@@ -97,12 +97,12 @@ Det finns massor av nya trädfunktioner.
   <tr>
    <td>Dra och släpp från träd till engagemangsström</td> 
    <td><strong>X</strong></td> 
-   <td>hhhhhhh</td> 
+   <td></td> 
   </tr>
   <tr>
    <td>Dra och släpp inuti trädet</td> 
    <td><strong>X</strong></td> 
-   <td></td> 
+   <td><strong>X</strong></td> 
   </tr>
   <tr>
    <td>Filtrera efter resurstyp och lägen</td> 
