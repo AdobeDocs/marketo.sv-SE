@@ -1,14 +1,14 @@
 ---
 title: save-smart-list-rules
 description: Spara regler för smarta listor
+exl-id: dabfcba3-a3fb-4d25-8ace-b569c4952eab
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '170'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Spara regler för smarta listor
 
@@ -22,7 +22,7 @@ Att spara smarta listregler är ett bra sätt att spara värdefull tid.
 
    ![Bild ett](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-1.png)
 
-1. Klicka på **[!UICONTROL Smart List]**.
+1. Klicka **[!UICONTROL Smart List]**.
 
    ![Bild två](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-2.png)
 
@@ -48,7 +48,7 @@ Och det är allt! Nästa gång du skapar en smart kampanj får du tillgång till
 
    ![Bild sju](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-7.png)
 
-1. Klicka på **[!UICONTROL Smart List]**.
+1. Klicka **[!UICONTROL Smart List]**.
 
    ![Bild åtta](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-8.png)
 
