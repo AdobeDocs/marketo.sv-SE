@@ -1,14 +1,14 @@
 ---
 title: local-assets-masactions
 description: Massåtgärder för lokala resurser
+exl-id: e11d4019-56d6-47e0-bdd5-d61f558158f5
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
 
 ---
-
 
 # Lokala resurser: Massåtgärder
 
@@ -52,7 +52,7 @@ Du hittar statusen för dina massåtgärder i **[!UICONTROL Recent Notifications
 
 ## Massåtgärdsfel
 
-Om den åtgärd du har valt inte kan användas på grund av att resursen kräver korrigering får du ett meddelande om ett partiellt fel (med en gul varningssymbol). Om åtgärden inte har tillämpats på _alla_ av dina valda resurser får meddelandet en röd varningssymbol. Klicka på **[!UICONTROL View Failures]** om du vill ha mer information.
+Om den åtgärd du har valt inte kan användas på grund av att resursen kräver korrigering får du ett meddelande om ett partiellt fel (med en gul varningssymbol). Om åtgärden inte har tillämpats på _alla_ av de valda resurserna får meddelandet en röd varningssymbol. Klicka på **[!UICONTROL View Failures]** om du vill ha mer information.
 
 ![Bild sex](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-6.png)
 
