@@ -1,18 +1,18 @@
 ---
 title: apply-communication-limits-to-a-smart-campaign
 description: Använd kommunikationsbegränsningar för en smart kampanj
+exl-id: 8fef2150-c1bd-4411-9968-07c71e191784
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
-
 # Använd kommunikationsbegränsningar för en smart kampanj
 
-Det är ingen bra idé att mejla någon flera gånger om dagen, eller för många gånger om veckan. Som tur är har Marketo kommunikationsgränser som kan hjälpa till.
+Det är ingen bra idé att mejla någon flera gånger om dagen, eller för många gånger om veckan. Som tur är har Marketo kommunikationsmöjligheter att hjälpa till.
 
 >[!IMPORTANT]
 >
