@@ -1,14 +1,14 @@
 ---
 title: my-token-crm-campaign
 description: Min token CRM-kampanj
+exl-id: 1763700c-3de0-41bf-8fef-906b4ba82414
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Min token: CRM-kampanj
 
@@ -24,7 +24,7 @@ Så här konfigurerar du en CRM Campaign-token som ska användas i dina program 
 
    ![Bild ett](/help/sky/assets/my-tokens/my-token-crm-campaign/my-token-crm-campaign-1.png)
 
-2. Ange ett namn för din nya token och välj sedan en CRM-kampanj i listrutan. Klicka på **[!UICONTROL Save]**.
+2. Ange ett namn för din nya token och välj sedan en CRM-kampanj i listrutan. Klicka **[!UICONTROL Save]**.
 
    ![Bild två](/help/sky/assets/my-tokens/my-token-crm-campaign/my-token-crm-campaign-2.png)
 
