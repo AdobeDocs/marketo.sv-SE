@@ -1,14 +1,14 @@
 ---
 title: using-the-program-setup-tab
 description: Använda fliken Programinställningar
+exl-id: fe3c092f-aeb1-4450-9827-b4b8f6163196
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 0%
 
 ---
-
 
 # Använda fliken Programinställningar
 
@@ -34,7 +34,7 @@ Om du vill ändra programkanal väljer du en annan i listrutan högst upp på si
 
    ![Bild tre](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-3.png)
 
-1. Klicka på listrutan **[!UICONTROL Value]** och välj ett taggvärde bland de tillgängliga alternativen. Klicka på **[!UICONTROL Add]**.
+1. Klicka på listrutan **[!UICONTROL Value]** och välj ett taggvärde bland de tillgängliga alternativen. Klicka **[!UICONTROL Add]**.
 
    ![Bild fyra](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-4.png)
 
@@ -48,7 +48,7 @@ Om du vill ändra programkanal väljer du en annan i listrutan högst upp på si
 
 ## Lägg till periodkostnader
 
-1. Under [!UICONTROL Period Costs] väljer du en månad, anger en kostnad och lägger till ett kort namn eller en beskrivning. Klicka på **[!UICONTROL Add]**.
+1. Under [!UICONTROL Period Costs] väljer du en månad, anger en kostnad och lägger till ett kort namn eller en beskrivning. Klicka **[!UICONTROL Add]**.
 
    ![Bild sex](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-6.png)
 
