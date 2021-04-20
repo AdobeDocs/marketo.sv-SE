@@ -1,14 +1,14 @@
 ---
 title: using-the-program-overview-tab
 description: Använda fliken Programöversikt
+exl-id: 85193e27-5f49-4db9-88f5-99ec5f8bbec8
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
 
 ---
-
 
 # Använda fliken Programöversikt
 
@@ -22,7 +22,7 @@ På sidan med huvudinformation visas allmän information om programmet.
 
 ![Bild ett](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-1.png)
 
-Längst ned på sidan finns två avsnitt: **[!UICONTROL Program Stats]** och **[!UICONTROL Used By]**. **[!UICONTROL Program Stats]** visar nyckeltal om programprestanda och  **[!UICONTROL Used By]** är ett enkelt sätt att se var ditt program används i Marketo.
+Längst ned på sidan finns två avsnitt: **[!UICONTROL Program Stats]** och **[!UICONTROL Used By]**. **[!UICONTROL Program Stats]** visar nyckeltal om programprestanda och  **[!UICONTROL Used By]** är ett enkelt sätt att se var programmet används i Marketo.
 
 ![Bild två](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-2.png)
 
