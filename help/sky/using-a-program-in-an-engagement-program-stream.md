@@ -1,14 +1,14 @@
 ---
 title: using-a-program-in-an-engagement-program-stream
 description: Använda ett program i en Engagement Program Stream
+exl-id: b75c926d-d545-4557-970f-c893818d9566
 translation-type: tm+mt
-source-git-commit: 73df78512226c6c57625a73f14ba8b00bea195bd
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 0%
 
 ---
-
 
 # Använda ett program i en Engagement Program Stream
 
