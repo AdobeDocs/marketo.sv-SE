@@ -1,14 +1,14 @@
 ---
 title: mitt-token-datum
 description: Mitt tokendatum
+exl-id: 16199845-79ee-40bd-a81d-d43b5236e7df
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Min token: Datum
 
@@ -20,6 +20,6 @@ Så här ställer du in en Date-token som ska användas i program- och kampanjma
 
    ![Bild ett](/help/sky/assets/my-tokens/my-token-date/my-token-date-1.jpg)
 
-1. Ange ett namn för din datumtoken och välj ett datum i kalendern. Klicka på **[!UICONTROL Save]**.
+1. Ange ett namn för din datumtoken och välj ett datum i kalendern. Klicka **[!UICONTROL Save]**.
 
    ![Bild två](/help/sky/assets/my-tokens/my-token-date/my-token-date-2.jpg)
