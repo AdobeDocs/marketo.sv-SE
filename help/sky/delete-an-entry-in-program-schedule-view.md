@@ -1,14 +1,14 @@
 ---
 title: delete-an-entry-in-program-schedule-view
 description: Ta bort ett inlägg i programschemavy
+exl-id: edae7223-7add-41cd-b059-4cadbb27c86d
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
 
 ---
-
 
 # Ta bort ett inlägg i programschemavy
 
