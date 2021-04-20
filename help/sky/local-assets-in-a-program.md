@@ -1,14 +1,14 @@
 ---
 title: local-assets-in-a-program
 description: Lokalt material i ett program
+exl-id: ea7326a8-3892-4bab-95e3-2ad9e1054e41
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
-
 
 # Lokalt material i ett program
 
