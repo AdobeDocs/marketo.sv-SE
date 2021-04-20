@@ -1,20 +1,20 @@
 ---
 title: save-flow-actions
 description: Spara flödesåtgärder
+exl-id: a359466a-2484-4538-a0d7-29d9a5606786
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
 
 ---
 
-
 # Spara flödesåtgärder
 
 <br> 
 
-Flödesstegen talar om för Marketo vad du vill ska hända med en grupp personer som är kvalificerade (de personer du valde i den smarta listan). Om du sparar ett visst flöde sparar du tid.
+Flödesstegen talar om för Marketo vad du vill ska hända med en grupp personer som är kvalificerade (de personer som du har valt i den smarta listan). Om du sparar ett visst flöde sparar du tid.
 
 ## Spara flödesåtgärder
 
@@ -48,7 +48,7 @@ Och du är klar. Nästa gång du skapar en smart kampanj får du tillgång till 
 
    ![Bild sju](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-7.png)
 
-1. Klicka på **[!UICONTROL Flow]**.
+1. Klicka **[!UICONTROL Flow]**.
 
    ![Bild åtta](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-8.png)
 
