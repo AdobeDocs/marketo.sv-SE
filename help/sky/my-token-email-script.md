@@ -1,14 +1,14 @@
 ---
 title: my-token-email-script
 description: E-postskript för min token
+exl-id: 8dd28274-578a-4184-b7bb-b46b59ebe410
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
-
 
 # Min token: E-postskript
 
@@ -34,7 +34,7 @@ För avancerade utvecklare kan du använda [snabbskript](https://velocity.apache
 
 1. Skriv ditt skript i Snabbhet. Här är några användbara resurser som kan hjälpa dig:
 
-   * [Marketo-utvecklare e-postskriptdokumentation](https://developers.marketo.com/email-scripting/)
+   * [Marketo Developers Email Scripting Documentation](https://developers.marketo.com/email-scripting/)
    * [Användarhandbok för snabbhet](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Referenshandbok för hastighet](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [VelocityTools 2.0 - dokumentation](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
