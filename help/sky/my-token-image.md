@@ -1,14 +1,14 @@
 ---
 title: my-token-image
 description: Min tokenbild
+exl-id: d939db6f-224e-47af-96b2-6bcaf243d51f
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '67'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Min token: Bild
 
@@ -20,10 +20,10 @@ Så här konfigurerar du en Image-token som ska användas i program- och kampanj
 
    ![Bild ett](/help/sky/assets/my-tokens/my-token-image/my-token-image-1.png)
 
-1. Ange ett namn för din bildtoken och ange sedan bildens URL. Klicka på **[!UICONTROL Save]**.
+1. Ange ett namn för din bildtoken och ange sedan bildens URL. Klicka **[!UICONTROL Save]**.
 
    ![Bild två](/help/sky/assets/my-tokens/my-token-image/my-token-image-2.png)
 
-Du kan också välja en befintlig bild från [!UICONTROL Design Studio]. Klicka på **[!UICONTROL Save]**.
+Du kan också välja en befintlig bild från [!UICONTROL Design Studio]. Klicka **[!UICONTROL Save]**.
 
 ![Bild tre](/help/sky/assets/my-tokens/my-token-image/my-token-image-3.png)
