@@ -1,14 +1,14 @@
 ---
 title: archive-a-program
 description: Arkivera ett program
+exl-id: 35e456d1-4a0a-4526-828f-bad434c5137c
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
 
 ---
-
 
 # Arkivera ett program
 
@@ -18,7 +18,7 @@ Om du vill arkivera ett program måste du flytta det till en separat arkivmapp.
 
    ![Bild ett](/help/sky/assets/programs/archive-a-program/archive-a-program-1.png)
 
-1. Ange ett namn för den nya mappen och lägg sedan till en valfri beskrivning. Klicka på **[!UICONTROL Create]**.
+1. Ange ett namn för den nya mappen och lägg sedan till en valfri beskrivning. Klicka **[!UICONTROL Create]**.
 
    ![Bild två](/help/sky/assets/programs/archive-a-program/archive-a-program-2.png)
 
@@ -26,7 +26,7 @@ Om du vill arkivera ett program måste du flytta det till en separat arkivmapp.
 
    ![Bild tre](/help/sky/assets/programs/archive-a-program/archive-a-program-3.png)
 
-1. Skriv för att söka efter den nya mappen och välj den i listrutan. Klicka på **[!UICONTROL Move]**.
+1. Skriv för att söka efter den nya mappen och välj den i listrutan. Klicka **[!UICONTROL Move]**.
 
    ![Bild fyra](/help/sky/assets/programs/archive-a-program/archive-a-program-4.png)
 
