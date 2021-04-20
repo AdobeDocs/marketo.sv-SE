@@ -1,14 +1,14 @@
 ---
 title: delete-a-program
 description: Ta bort ett program
+exl-id: 1ef0b6d8-5a3e-4dff-a3ad-26874906e2bf
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
-
 
 # Ta bort ett program
 
@@ -20,7 +20,7 @@ Så här tar du bort ett program.
 
    ![Bild ett](/help/sky/assets/programs/delete-a-program/delete-a-program-1.png)
 
-1. Granska biverkningarna av borttagningen av programmet och kontrollera sedan **[!UICONTROL Delete all the items listed above]**. Klicka på **[!UICONTROL Submit]**.
+1. Granska biverkningarna av borttagningen av programmet och kontrollera sedan **[!UICONTROL Delete all the items listed above]**. Klicka **[!UICONTROL Submit]**.
 
    ![Bild två](/help/sky/assets/programs/delete-a-program/delete-a-program-2.png)
 
@@ -30,4 +30,4 @@ Så här tar du bort ett program.
 
 >[!CAUTION]
 >
->Om du tar bort ett program tas alla associerade data bort. Om du vill bevara data kan du i stället placera programmet i en arkivmapp[.](/help/sky/archive-a-program.md)
+>Om du tar bort ett program tas alla associerade data bort. Om du vill bevara data kan du i stället placera programmet i en arkivmapp](/help/sky/archive-a-program.md).[
