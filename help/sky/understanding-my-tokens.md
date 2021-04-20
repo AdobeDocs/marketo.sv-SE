@@ -1,14 +1,14 @@
 ---
 title: understanding-my-tokens
 description: Förstå mina token
+exl-id: d56748e2-d742-45dd-96a8-dd80e30d9d8b
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
 
 ---
-
 
 # Förstå mina token
 
@@ -72,7 +72,7 @@ Läs mer om alla Mina token:
 * [Kalenderfil](/help/sky/my-token-calendar-file.md)
 * [Bild](/help/sky/my-token-image.md)
 * [Länk](/help/sky/my-token-link.md)
-* [Nummer](/help/sky/my-token-number.md)
+* [Antal](/help/sky/my-token-number.md)
 * [RTF](/help/sky/my-token-rich-text.md)
 * [Poäng](/help/sky/my-token-score.md)
 * [E-postskript](/help/sky/my-token-email-script.md)
