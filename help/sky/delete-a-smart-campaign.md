@@ -1,14 +1,14 @@
 ---
 title: delete-a-smart-campaign
 description: Ta bort en smart kampanj
+exl-id: f4647927-5542-439b-984e-4bce43c990e9
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Ta bort en smart kampanj
 
@@ -30,8 +30,8 @@ Om du har en gammal smart kampanj som du inte längre behöver kan du ta bort de
 
    >[!TIP]
    >
-   >Om du vill avbryta bearbetningen av en aktiv smart kampanj utan att ta bort den, ska du lära dig hur du avbryter en smart kampanj[.](https://docs.marketo.com/display/DOCS/Abort+a+Smart+Campaign)
+   >Om du vill avbryta bearbetningen av en aktiv smart kampanj utan att ta bort den, ska du lära dig hur du avbryter en smart kampanj](https://docs.marketo.com/display/DOCS/Abort+a+Smart+Campaign).[
 
-1. Klicka på **[!UICONTROL Confirm]**.
+1. Klicka **[!UICONTROL Confirm]**.
 
    ![Bild tre](/help/sky/assets/smart-campaigns/delete-a-smart-campaign/delete-a-smart-campaign-3.png)
