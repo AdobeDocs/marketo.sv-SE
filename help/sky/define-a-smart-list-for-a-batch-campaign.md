@@ -1,20 +1,20 @@
 ---
 title: define-a-smart-list-for-a-batch-campaign
 description: Definiera en smart lista för en batchkampanj
+exl-id: 35130f40-cce5-4677-8eaf-f9d73c995ba3
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
 
 ---
 
-
 # Definiera en smart lista för en batchkampanj
 
 <br> 
 
-Smarta listor är en mekanism i hela Marketo för att definiera&quot;vem&quot; (vilka personer) som ska inkluderas, oavsett om det är en rapport, en lista eller en smart kampanj. Så här definierar du en smart lista för en batchkampanj.
+Smarta listor är en mekanism i hela Marketo som definierar vem (vilka personer) som ska inkluderas, oavsett om det är en rapport, en lista eller en smart kampanj. Så här definierar du en smart lista för en batchkampanj.
 
 1. Välj en smart kampanj och klicka sedan på **[!UICONTROL Smart List]**.
 
@@ -49,4 +49,4 @@ Smarta listor är en mekanism i hela Marketo för att definiera&quot;vem&quot; (
 >Som standard är personer som uppfyller alla smarta listregler
 >kvalificerade. Detta kan ändras för att passa era kampanjbehov. Läs [Smart List Rules for Complex Logic](https://docs.marketo.com/display/DOCS/Using+Advanced+Smart+List+Rule+Logic) om du vill veta mer.
 >
->Lär dig hur du definierar en smart lista för Smart Campaign om du vill aktivera en person i taget för live-händelser | Utlösare[.](https://docs.marketo.com/display/DOCS/Define+Smart+List+for+Smart+Campaign+%7C+Trigger)
+>Lär dig hur du definierar en smart lista för Smart Campaign om du vill aktivera en person i taget för live-händelser | Utlösare](https://docs.marketo.com/display/DOCS/Define+Smart+List+for+Smart+Campaign+%7C+Trigger).[
