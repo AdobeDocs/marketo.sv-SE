@@ -1,20 +1,20 @@
 ---
 title: priority-override-for-trigger-campaign
 description: Åsidosättning av prioritet för utlösarkampanjer
+exl-id: 4468868c-33d7-4b5e-b524-bfcc2785c8ce
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 0%
 
 ---
 
-
 # Åsidosättning av prioritet för utlösarkampanjer
 
 <br> 
 
-Administratörer kan åsidosätta Marketos fasta prioritet för utlösarkampanjer för att ange prioriteringar som bättre överensstämmer med affärsmålen.
+Administratörer kan åsidosätta Marketo fastställda prioritet för utlösarkampanjer för att ange prioriteringar som bättre motsvarar affärsmålen.
 
 >[!NOTE]
 >
@@ -30,7 +30,7 @@ Administratörer kan åsidosätta Marketos fasta prioritet för utlösarkampanje
 
    ![Bild ett](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-1.png)
 
-1. Välj en ny prioritetsnivå i listrutan. Klicka på **[!UICONTROL Confirm]**.
+1. Välj en ny prioritetsnivå i listrutan. Klicka **[!UICONTROL Confirm]**.
 
    ![Bild två](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-2.png)
 
@@ -70,7 +70,7 @@ Administratörer kan åsidosätta Marketos fasta prioritet för utlösarkampanje
 
    ![Bild sju](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-7.png)
 
-1. Markera **[!UICONTROL Edit Trigger Campaign Priority]** under [!UICONTROL Access Marketing Activities]. Klicka på **[!UICONTROL Save]**.
+1. Markera **[!UICONTROL Edit Trigger Campaign Priority]** under [!UICONTROL Access Marketing Activities]. Klicka **[!UICONTROL Save]**.
 
    ![Bild åtta](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-8.png)
 
