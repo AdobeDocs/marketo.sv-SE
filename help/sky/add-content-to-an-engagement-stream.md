@@ -1,14 +1,14 @@
 ---
 title: add-content-to-an-engagement-stream
 description: Lägg till innehåll i en engagemangsström
+exl-id: c3e5fcf9-bdbd-4a24-8d70-b12c3246c348
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Lägg till innehåll i en engagemangsström
 
@@ -24,7 +24,7 @@ När ni väl har skapat ert engagemangsprogram måste ni lägga till innehåll i
 
    ![Bild två](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-2.png)
 
-1. Klicka på **[!UICONTROL Add Content]**.
+1. Klicka **[!UICONTROL Add Content]**.
 
    ![Bild tre](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-3.png)
 
@@ -46,7 +46,7 @@ När ni väl har skapat ert engagemangsprogram måste ni lägga till innehåll i
 
    ![Bild sex](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-6.png)
 
-1. Klicka på **[!UICONTROL Add Content]**.
+1. Klicka **[!UICONTROL Add Content]**.
 
    ![Bild sju](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-7.png)
 
