@@ -1,14 +1,14 @@
 ---
 title: move-a-smart-campaign
 description: Flytta en smart kampanj
+exl-id: e06f188d-1b65-4167-868f-d33fbffb6b74
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '46'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Flytta en smart kampanj
 
@@ -28,6 +28,6 @@ Flytta en smart kampanj till ett annat program eller en annan mapp.
 
    ![Bild tre](/help/sky/assets/smart-campaigns/move-a-smart-campaign/move-a-smart-campaign-3.png)
 
-1. Klicka på **[!UICONTROL Move]**.
+1. Klicka **[!UICONTROL Move]**.
 
    ![Bild fyra](/help/sky/assets/smart-campaigns/move-a-smart-campaign/move-a-smart-campaign-4.png)
