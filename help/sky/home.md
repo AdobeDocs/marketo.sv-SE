@@ -1,14 +1,14 @@
 ---
 title: Översikt
 description: Översikt
+exl-id: 26684ca6-ea77-423f-9434-3fbfaf7ea3ab
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
 
 ---
-
 
 # Produktdokumentation för Marketo Sky
 
