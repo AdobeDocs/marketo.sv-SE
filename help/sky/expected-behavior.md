@@ -1,14 +1,14 @@
 ---
 title: förväntat beteende
 description: Förväntat beteende
+exl-id: 8f6d12e4-851c-43d8-a5cf-053887517aaa
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
 
 ---
-
 
 # Förväntat beteende
 
@@ -23,7 +23,7 @@ I den här artikeln hittar du information om förväntat beteende som är koppla
 
 ## För prediktiva målgrupper kan du förvänta dig följande beteende:
 
-* PA är tillgängligt både i Marketo Sky och i Marketo Classic. Följande specifika funktioner är tillgängliga:
+* PA är tillgängligt både i Marketo Skyn och i Marketo Classic. Följande specifika funktioner är tillgängliga:
    * Prediktiva filter - [!DNL Sky/Classic]
    * Planerade registreringar - [!DNL Sky/Classic]
    * Sannolikhetsprognoser på ledarnivå - [!DNL Sky/Classic]
