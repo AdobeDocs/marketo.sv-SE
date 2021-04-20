@@ -1,20 +1,20 @@
 ---
 title: my-token-calendar-file
 description: Min tokenkalenderfil
+exl-id: af3c1419-65ab-462d-be04-2193b76f3982
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
-
 # Min token: Kalenderfil
 
 <br> 
 
-Med en [!UICONTROL Calendar File]-token kan du lägga till en kalender (.ics)-länk till dina Marketo-e-postmeddelanden och landningssidor. Så här konfigurerar du en för användning i program- och kampanjmappar.
+Med en [!UICONTROL Calendar File]-token kan du lägga till en kalendringshändelselänk (.ics) till dina Marketo-e-postmeddelanden och landningssidor. Så här konfigurerar du en för användning i program- och kampanjmappar.
 
 1. Dra en **[!UICONTROL Calendar File]**-token till arbetsytan [!UICONTROL Local Tokens] på fliken [!UICONTROL My Tokens] i programmet eller mappen.
 
@@ -28,6 +28,6 @@ Med en [!UICONTROL Calendar File]-token kan du lägga till en kalender (.ics)-l�
 
    ![Bild tre](/help/sky/assets/my-tokens/my-token-calendar-file/my-token-calendar-file-3.jpg)
 
-1. Ange den associerade länken och välj när du vill skicka händelsemeddelandet. Du kan också ange en valfri beskrivning. Klicka på **[!UICONTROL Save]**.
+1. Ange den associerade länken och välj när du vill skicka händelsemeddelandet. Du kan också ange en valfri beskrivning. Klicka **[!UICONTROL Save]**.
 
    ![Bild fyra](/help/sky/assets/my-tokens/my-token-calendar-file/my-token-calendar-file-4.jpg)
