@@ -1,14 +1,14 @@
 ---
 title: create-an-email-program-in-program-schedule-view
 description: Skapa ett e-postprogram i programschemavy
+exl-id: f3538412-8ece-411c-a1ac-6c082088190a
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
 
 ---
-
 
 # Skapa ett e-postprogram i programschemavy
 
@@ -28,7 +28,7 @@ Du kan skapa nya e-postprogram direkt i programschemavyn.
    >
    >Du kan också följa liknande steg för att skapa ett e-postprogram från vyerna Dag, Vecka eller Dagordning.
 
-1. Ange ett namn för den nya smarta kampanjen och ändra sedan **[!UICONTROL Type]** till [!UICONTROL Email Program]. Du kan också ändra **[!UICONTROL Start Date]** och avmarkera **[!UICONTROL Open In Agenda View]** om du vill stanna i kalendern när du har skapat posten. Klicka på **[!UICONTROL Save]**.
+1. Ange ett namn för den nya smarta kampanjen och ändra sedan **[!UICONTROL Type]** till [!UICONTROL Email Program]. Du kan också ändra **[!UICONTROL Start Date]** och avmarkera **[!UICONTROL Open In Agenda View]** om du vill stanna i kalendern när du har skapat posten. Klicka **[!UICONTROL Save]**.
 
    ![Bild tre](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-3.png)
 
