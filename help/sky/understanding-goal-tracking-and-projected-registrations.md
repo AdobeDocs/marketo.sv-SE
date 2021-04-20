@@ -1,20 +1,20 @@
 ---
 title: understanding-target-tracking-and-projicerad-registreringar
 description: Förstå målspårning och projekterade registreringar
+exl-id: 65064cbd-2ed7-45d5-aab9-4fc865e2bed6
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '969'
 ht-degree: 0%
 
 ---
 
-
 # Förstå målspårning och projekterade registreringar
 
 <br> 
 
-När [du har ställt in händelsemål](/help/sky/setting-event-goals.md) och skickat ut inbjudningar via en [smart kampanj](/help/sky/create-a-smart-campaign.md), ska du följa upp målförloppet och förstå Marketos prognoser.
+När [du har ställt in händelsemål](/help/sky/setting-event-goals.md) och skickat ut inbjudningar via en [smart kampanj](/help/sky/create-a-smart-campaign.md) kan du följa upp dina målframsteg och förstå Marketo prognoser.
 
 >[!NOTE]
 >
