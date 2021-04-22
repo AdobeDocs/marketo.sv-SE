@@ -1,19 +1,19 @@
 ---
 unique-page-id: 12255606
-description: Versionsinformation -vinter '17 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -vinter '17 - Marketo Docs - produktdokumentation
 title: Versionsinformation -vinter '17
+exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: Vinter &#39;17 {#release-notes-winter}
 
-Följande funktioner finns i vinterversionen 17. Se om din Marketo-utgåva har funktioner tillgängliga.
+Följande funktioner finns i vinterversionen 17. Se om det finns funktioner i din Marketo-utgåva.
 
 Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion.
 
@@ -21,7 +21,7 @@ Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion
 >
 >Om ett ämne har flera underrubriker placeras länkarna där.
 
-## [Avancerad matchning för anpassade målgrupper på Facebook](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
+## [Avancerad matchning för Facebook anpassade målgrupper](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
 
 Grundläggande matchning använder endast e-postadresser, men i ny avancerad matchning används ytterligare sju fält, vilket ökar matchningsfrekvensen för ytterligare konvertering.
 
@@ -95,4 +95,4 @@ Från och med den 1 augusti 2017 kommer kunder som fortfarande använder den gam
 
 ## [Marketo Activity APIs](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
 
-En viktig ändring kommer till Marketos aktivitets-API:er. Är du redo?
+En viktig förändring kommer att göras i Marketo aktivitets-API:er. Är du redo?
