@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10093688
-description: Lägg till Marketo-anpassade objektfält - Marketo-dokument - Produktdokumentation
-title: Lägg till markering i anpassade objektfält
+description: Lägg till anpassade Marketo-objektfält - Marketo Docs - produktdokumentation
+title: Lägg till anpassade Marketo-objektfält
 translation-type: tm+mt
 source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
 workflow-type: tm+mt
@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Lägg till markering i anpassade objektfält {#add-marketo-custom-object-fields}
+# Lägg till anpassade Marketo-objektfält {#add-marketo-custom-object-fields}
 
 När du har skapat ett anpassat objekt måste du lägga till fält för att uppfylla dina affärsbehov.
 
 Fält definierar den specifika information som används av ett anpassat objekt. Länkfält har ett särskilt jobb för att ansluta anpassade objekt och beskrivs i en [separat artikel](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
-1. Klicka på **Admin** och välj **Marketo-anpassade objekt** i **Databashantering**.
+1. Klicka på **Admin** och välj **Marketo anpassade objekt** i **Databashantering**.
 
    ![](assets/image2016-1-18-9-3a2-3a6.png)
 
@@ -31,7 +31,7 @@ Fält definierar den specifika information som används av ett anpassat objekt. 
 
    >[!NOTE]
    >
-   >De tre fälten som visas ovan skapas automatiskt av Marketo när du skapar ett anpassat objekt. Marketo hanterar dessa fält automatiskt och du kan inte redigera eller ta bort dem.
+   >De tre fälten ovan skapas automatiskt av Marketo när du skapar ett anpassat objekt. Marketo hanterar dessa fält automatiskt och du kan inte redigera eller ta bort dem.
 
 1. Ange ett visningsnamn och en beskrivning.
 
@@ -57,12 +57,12 @@ Fält definierar den specifika information som används av ett anpassat objekt. 
 
    >[!NOTE]
    >
-   >Om du skapar en en en-till-många-struktur måste du lägga till ett länkfält i det anpassade objektet. För en många-till-många-struktur behöver du inte ha något länkfält i det anpassade objektet, men du måste lägga till två länkfält i det mellanliggande objektet. Mer information om olika typer av anpassade objekt finns i [Lägg till markering i anpassade objektlänkfält](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) för att skapa länkfälten och [Förstå anpassade objekt](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md).
+   >Om du skapar en en en-till-många-struktur måste du lägga till ett länkfält i det anpassade objektet. För en många-till-många-struktur behöver du inte ha något länkfält i det anpassade objektet, men du måste lägga till två länkfält i det mellanliggande objektet. Se [Lägg till Marketo anpassade objektlänkfält](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) för att skapa länkfälten och [Förstå Marketo anpassade objekt](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) för mer information om typer av anpassade objekt.
 
 >[!MORELIKETHIS]
 >
->* [Lägg till markering i anpassade objektlänkfält](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
->* [Redigera och ta bort ett markeringsobjekt till anpassat objekt](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
->* [Redigera och ta bort markering i anpassade objektfält](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
->* [Förstå anpassade objekt i Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>* [Lägg till Marketo anpassade objektlänkfält](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
+>* [Redigera och ta bort ett anpassat Marketo-objekt](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [Redigera och ta bort anpassade Marketo-objektfält](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
+>* [Förstå anpassade Marketo-objekt](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
