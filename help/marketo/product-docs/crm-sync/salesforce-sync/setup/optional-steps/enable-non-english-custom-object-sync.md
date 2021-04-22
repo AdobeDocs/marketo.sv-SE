@@ -2,18 +2,18 @@
 unique-page-id: 4719302
 description: Aktivera icke-engelsk anpassad objektsynkronisering - Marketo Docs - produktdokumentation
 title: Aktivera icke-engelsk anpassad objektsynkronisering
+exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
 
 ---
 
-
 # Aktivera icke-engelsk anpassad objektsynkronisering {#enable-non-english-custom-object-sync}
 
-Om Marketo-synkroniseringsanvändaren är inställd på ett annat språk än engelska kan du råka ut för ett fel när du försöker aktivera en anpassad objektsynkronisering.
+Om din Marketo-synkroniseringsanvändare är inställd på ett annat språk än engelska kan du råka ut för ett fel när du försöker aktivera en anpassad objektsynkronisering.
 
 ## Felet {#the-error}
 
@@ -45,7 +45,7 @@ Om Marketo-synkroniseringsanvändaren är inställd på ett annat språk än eng
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. Tillbaka till Marketo, under **Admin > Salesforce > Objekt** klickar du på **Uppdatera schema**.
+1. I Marketo, under **Admin > Salesforce > Objekt**, klickar du på **Uppdatera schema**.
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 
