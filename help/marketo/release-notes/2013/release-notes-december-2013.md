@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951052
-description: Versionsinformation -december 2013 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -december 2013 - Marketo Docs - produktdokumentation
 title: Versionsinformation - december 2013
+exl-id: 145e2706-c770-4f39-a1ef-77b7912b1b70
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
 
 ---
-
 
 # Versionsinformation: December 2013 {#release-notes-december}
 
@@ -45,4 +45,4 @@ Vi introducerade ytterligare lead- och företagsattribut i e-postanalys. Nu kan 
 
 ## Förbättrat BrightStor Event Adapter {#enhanced-brighttalk-event-adapter}
 
-Nu kan du dra in registranter i Marketo från din BrightTALK-kanal och händelse. Du kan använda den här informationen för att informera andra marknadsföringskampanjer!
+Nu kan du hämta registranter till Marketo från din BrightTALK-kanal och händelse. Du kan använda den här informationen för att informera andra marknadsföringskampanjer!
