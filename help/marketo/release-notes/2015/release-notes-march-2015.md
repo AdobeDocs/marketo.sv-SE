@@ -1,19 +1,19 @@
 ---
 unique-page-id: 6095037
-description: Versionsinformation -mars 2015 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -mars 2015 - Marketo Docs - produktdokumentation
 title: Versionsinformation -mars 2015
+exl-id: aa3c738a-2e5c-41c3-b1d7-95869dd10b02
 translation-type: tm+mt
-source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: Mars 2015 {#release-notes-march}
 
-Följande funktioner ingår i mars 2015-utgåvan. Kontrollera om din Marketo Edition innehåller funktioner. Efter releasen måste du komma tillbaka för att hitta länkar till detaljerade artiklar för varje funktion.
+Följande funktioner ingår i mars 2015-utgåvan. Kontrollera om det finns funktioner i Marketo Edition. Efter releasen måste du komma tillbaka för att hitta länkar till detaljerade artiklar för varje funktion.
 
 ## Kalender-HD {#calendar-hd}
 
@@ -49,8 +49,8 @@ Stöds med det senaste installationsprogrammet [som nu är tillgängligt via app
 
 ## RTP - Personaliserat webbengagemang med leddata {#rtp-personalized-web-engagement-with-lead-data}
 
-Utnyttja de [lead-datafält](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) ni har i er Markering för att skapa segmentering i realtid och personaliserade innehållskampanjer. Hantera dina lead-datafält i RTP och lägg till/ta bort relevanta lead-fält.
+Utnyttja de [lead-datafält](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) du har i din Marketo lead-databas för att skapa segmentering i realtid och personaliserade innehållskampanjer. Hantera dina lead-datafält i RTP och lägg till/ta bort relevanta lead-fält.
 
 ## RTP - Anpassa webbinnehåll efter e-post eller namn på programkampanj {#rtp-personalize-web-content-by-email-or-program-campaign-name}
 
-Fortsätt konversationen med ditt lead i alla kanaler, från e-post till webben. [Anpassa inkommande innehåll baserat på e-postkampanjer eller ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) programnamn som används i Marketos marknadsföringsaktiviteter.
+Fortsätt konversationen med ditt lead i alla kanaler, från e-post till webben. [Anpassa inkommande innehåll baserat på e-postkampanjer eller ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) programnamn som används i Marketo marknadsföringsaktiviteter.
