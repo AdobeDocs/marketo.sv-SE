@@ -2,14 +2,14 @@
 unique-page-id: 2953120
 description: Understanding Smart Campaigns - Marketo Docs - Product Documentation
 title: Om smarta kampanjer
+exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
-
 
 # Smarta kampanjer {#understanding-smart-campaigns}
 
@@ -53,7 +53,7 @@ Flödet innehåller de steg som du vill att den smarta kampanjen ska utföra, in
 
 Slutligen styr detta när ni kör er smarta kampanj. Du kan till och med ställa in upprepning så att den körs enligt ett upprepande schema.
 
-Det finns en enorm mängd saker som den smarta kampanjen kan göra. Häng med så hittar du allt i Marketo som blir enklare att förstå.
+Det finns en enorm mängd saker som den smarta kampanjen kan göra. Gör det så hittar du allt i Marketo som blir enklare att förstå.
 
 >[!MORELIKETHIS]
 >
