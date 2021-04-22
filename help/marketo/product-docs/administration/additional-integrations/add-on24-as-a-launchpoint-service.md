@@ -2,18 +2,18 @@
 unique-page-id: 7512276
 description: Lägg till ON24 som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
 title: Lägg till ON24 som en LaunchPoint-tjänst
+exl-id: 562d6091-8a24-4625-b728-ada52d869f0c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
-
 # Lägg till ON24 som en LaunchPoint-tjänst {#add-on-as-a-launchpoint-service}
 
-Marketo hanterar registrering och närvaro av ditt ON24-webbinarium.
+Marketo hanterar din registrering och närvaro av ON24-webbinarium.
 
 >[!NOTE]
 >
