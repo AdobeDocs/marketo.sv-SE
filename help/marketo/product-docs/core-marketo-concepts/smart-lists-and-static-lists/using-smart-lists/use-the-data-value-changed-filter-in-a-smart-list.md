@@ -2,18 +2,18 @@
 unique-page-id: 557324
 description: Använd filtret Datavärdet ändrat i en smart lista - Marketo Docs - Produktdokumentation
 title: Använd det datavärde som har ändrats i en smart lista
+exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
-
 # Använd filtret Datavärdet ändrat i en smart lista {#use-the-data-value-changed-filter-in-a-smart-list}
 
-Värdena ändras ständigt och uppdateras i Marketo-databasen. I stället för att leta efter ett specifikt värde vill du ibland leta efter personer som har ändrat värde. Så här gör du.
+Värdena ändras ständigt och uppdateras i din Marketo-databas. I stället för att leta efter ett specifikt värde vill du ibland leta efter personer som har ändrat värde. Så här gör du.
 
 >[!PREREQUISITES]
 >
