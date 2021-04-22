@@ -2,14 +2,14 @@
 unique-page-id: 2952636
 description: Hitta duplicerade personer med anpassad logik - Marketo Docs - produktdokumentation
 title: Sök efter duplicerade personer med anpassad logik
+exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
-
 
 # Sök efter duplicerade personer med anpassad logik {#find-duplicate-people-with-custom-logic}
 
@@ -44,4 +44,4 @@ Marketo har en systemsmart lista som söker efter duplicerade personer genom att
 
    ![](assets/four-2.png)
 
-   Klart! Kör den smarta listan för att hitta personer med samma värde i det tidigare markerade fältet.
+   Klar! Kör den smarta listan för att hitta personer med samma värde i det tidigare markerade fältet.
