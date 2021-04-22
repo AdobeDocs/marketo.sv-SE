@@ -2,14 +2,14 @@
 unique-page-id: 8781911
 description: Understanding Email Program Cards - Marketo Docs - Product Documentation
 title: Understanding Email Program Cards
+exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
 
 ---
-
 
 # Om e-postprogramkort {#understanding-email-program-cards}
 
@@ -115,7 +115,7 @@ Och det är toppen med att visa era e-postkampanjer. Nu är du proffs!
 
 >[!MORELIKETHIS]
 >
->* [Om Marketo-stunder](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Om Marketo Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 >* [Om händelsekort](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
 >* [Analyskort](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
 
