@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10098625
-description: Förstå Microsoft Dynamics Sync - Marketo Docs - Produktdokumentation
+description: Förstå Microsoft Dynamics Sync - Marketo Docs - produktdokumentation
 title: Förstå Microsoft Dynamics Sync
+exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 translation-type: tm+mt
-source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
 
 ---
-
 
 # Förstå Microsoft Dynamics-synkronisering {#understanding-the-microsoft-dynamics-sync}
 
@@ -17,7 +17,7 @@ Marketo och Microsoft Dynamics går ihop. Vi synkroniserar era sälj- och markna
 
 >[!NOTE]
 >
->Marketo stöder endast SSL-certifikat som är kompatibla med Java 7 just nu.
+>Marketo stöder endast SSL-certifikat som för närvarande är kompatibla med Java 7.
 
 ## Så här fungerar Synkronisera {#how-sync-works}
 
@@ -27,7 +27,7 @@ Marketo synkroniserar kontinuerligt data med Microsoft Dynamics hela dagen, varj
 >
 >Den allra första synkroniseringen i prenumerationen tar minuter till timmar, beroende på databasens storlek. Marketo kopierar hela databasen från Dynamics. Efter det tar varje synkronisering vanligtvis några sekunder eller minuter och synkroniserar bara data som har ändrats.
 
-Synkroniseringen mellan Marketo och Dynamics är dubbelriktad för leads och kontakter. Om du ändrar något i Marketo eller Dynamics återspeglas dina uppdateringar i båda systemen. Alla andra fält, som konton och affärsmöjligheter, synkroniseras på ett sätt, från Dynamics till Marketo.
+Synkroniseringen mellan Marketo och Dynamics är dubbelriktad för leads och kontakter. Om du gör ändringar i antingen Marketo eller Dynamics återspeglas dina uppdateringar i båda systemen. Alla andra fält, som konton och affärsmöjligheter, synkroniseras på ett sätt, från Dynamics till Marketo.
 
 ## Vad synkroniseras mellan Marketo och Microsoft Dynamics? {#what-is-synced-between-marketo-and-microsoft-dynamics}
 
