@@ -1,15 +1,15 @@
 ---
 unique-page-id: 6095047
-description: Redigera "Do Not Track" Browser Support Settings - Marketo Docs - Produktdokumentation
+description: Redigera "Do Not Track" Browser Support Settings - Marketo Docs - Product Documentation
 title: Redigera inställningar för stöd för Do Not Track-webbläsare
+exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
-
 
 # Redigera inställningarna för stöd för Do Not Track i webbläsaren {#edit-do-not-track-browser-support-settings}
 
