@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359414
-description: Enkel poängsättning - Marketo Docs - Produktdokumentation
+description: Enkel poängsättning - Marketo Docs - produktdokumentation
 title: Enkel poängsättning
+exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 0%
 
 ---
-
 
 # Enkel poängsättning {#simple-scoring}
 
