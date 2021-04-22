@@ -2,14 +2,14 @@
 unique-page-id: 17728028
 description: Lägg till zoom som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
 title: Lägg till zoom som en LaunchPoint-tjänst
+exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
 
 ---
-
 
 # Lägg till zoom som en LaunchPoint-tjänst {#add-zoom-as-a-launchpoint-service}
 
@@ -51,7 +51,7 @@ Marketo hanterar din zoomregistrering och närvaro.
 
 >[!CAUTION]
 >
->När du uppdaterar lösenordet i Zoom måste du även uppdatera lösenordet i Marketo.
+>När du uppdaterar ditt lösenord i Zoom måste du även uppdatera ditt lösenord i Marketo.
 
 >[!MORELIKETHIS]
 >
