@@ -2,24 +2,24 @@
 unique-page-id: 12980993
 description: Versionsinformation -Sommaren 17 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - Sommaren 17
+exl-id: 81b18ecb-5870-4d16-8b7c-24ce362be62f
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: Sommaren &#39;17 {#release-notes-summer}
 
-Följande funktioner ingår i sommarversionen 17. Se om din Marketo-utgåva har funktioner tillgängliga.
+Följande funktioner ingår i sommarversionen 17. Se om det finns funktioner i din Marketo-utgåva.
 
 Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion. Obs! Vissa av funktionerna i den här versionen har inte associerade artiklar. Om ett ämne har flera underrubriker placeras länkarna där.
 
-## [Ytterligare offlinekonverteringssteg för Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
+## [Ytterligare konverteringssteg offline för Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
 
-Välj ytterligare upp till sju offlinekonverteringsfaser för att kartlägga era marknads- och livscykelfaser (utöver de tre som finns idag). Optimera era utgifter för Facebook-annonser baserat på konverteringar under hela kundresan för att få bättre avkastning.
+Välj ytterligare upp till sju offlinekonverteringsfaser för att kartlägga Marketo livscykel (utöver de tre som finns idag). Optimera era annonskostnader för Facebook baserat på konverteringar under hela kundresan för att få bättre avkastning.
 
 ![](assets/image2017-8-24-15-3a23-3a31.png)
 
