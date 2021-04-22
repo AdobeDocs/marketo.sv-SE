@@ -1,29 +1,29 @@
 ---
 unique-page-id: 17727823
-description: Versionsinformation -vinter '19 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -vinter '19 - Marketo Docs - produktdokumentation
 title: Versionsinformation -vinter '19
+exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
 translation-type: tm+mt
-source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1109'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: Vinter &#39;19 {#release-notes-winter}
 
-Följande funktioner finns i vinterversionen 19. Se om din Marketo-utgåva har funktioner tillgängliga.
+Följande funktioner finns i vinterversionen 19. Se om det finns funktioner i din Marketo-utgåva.
 
 Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion, om sådana finns.
 
 >[!NOTE]
 >
->Facebook behöver nu ett Business Manager-konto för att kunna utnyttja din anpassade målgruppsintegrering. Din Facebook LaunchPoint-tjänst *måste* vara associerad med ett Business Manager-konto eller **din integrering kommer inte att fungera efter 14 januari 2019**. Information om hur du konfigurerar ett Business Manager-konto finns i [Facebook-hjälpen](https://www.facebook.com/business/help/1710077379203657).
+>Facebook behöver nu ett Business Manager-konto för att kunna utnyttja er anpassade målgruppsintegrering. Facebook LaunchPoint-tjänsten *måste* vara kopplad till ett Business Manager-konto eller **integreringen kommer inte att fungera efter 14 januari 2019**. Information om hur du konfigurerar ett Business Manager-konto finns i [Facebook Hjälp](https://www.facebook.com/business/help/1710077379203657).
 
 >[!NOTE]
 >
->Microsoft uppmanar alla onlinekunder att uppgradera till den senaste versionen av Microsoft Dynamics. Om du integrerar din Marketo-instans med Dynamics Online måste du [uppgradera till den senaste versionen av Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) före den 31 januari 2019 **för att säkerställa att integreringen fortsätter att fungera.**
+>Microsoft uppmanar alla onlinekunder att uppgradera till den senaste versionen av Microsoft Dynamics. Om du integrerar din Marketo-instans med Dynamics Online måste du [uppgradera till den senaste versionen av Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) före den 31 januari 2019 **för att se till att integreringen fortsätter att fungera.**
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion
 
 ## Förbättringar av kärnplattformen {#core-platform-enhancements}
 
-**[Email CC for Marketo Emails](/help/marketo/product-docs/email-marketing/general/email-cc.md)**
+**[Email CC for Marketo e-mail](/help/marketo/product-docs/email-marketing/general/email-cc.md)**
 
 Inkludera upp till fem CC-adresser per mottagare i e-postmeddelanden som skickas via Marketo.
 
@@ -42,7 +42,7 @@ Inkludera upp till fem CC-adresser per mottagare i e-postmeddelanden som skickas
 
 **[Munchkin v155 (beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
-* **Endast API-läge**: Användarna kan nu bestämma när och hur de ska spåra medlemmar i sina databaser genom att tillåta att enkelsidiga webbappar uttryckligen anropar när de vill spela in en webbsida, istället för att förlita sig på Marketos automatiska spårning.
+* **Endast API-läge**: Användarna kan nu bestämma när och hur de ska spåra medlemmar i sina databaser genom att tillåta att enkelsidiga webbappar uttryckligen anropar när de vill spela in en webbsida, istället för att förlita sig på Marketo automatiska spårning.
 * **Hantering** av avanmälan: Hantera enkelt avanmälningar genom att matcha avanmälningsdomänen med Munchkins cookie-domän för spårning.
 * **Domännivåbestämningsparameter**: Domäner med två bokstäver (dvs. &quot;  [website.io](https://website.io)&quot;) spåras automatiskt i Marketo utan ytterligare installationskrav.
 
@@ -58,7 +58,7 @@ Inkludera upp till fem CC-adresser per mottagare i e-postmeddelanden som skickas
    * _Salesforce Admin_ SettingShelps-team konfigurerar sin SFDC-synkronisering snabbare och enklare än någonsin.
 
 * **OWA-plugin för Windows**: Med ett enda tillägg stöds alla Windows Office365-klienter i Sales Engage, vilket ger möjlighet att använda Live Feed i Outlook. Det nya plugin-programmet kommer att vara tillgängligt i Microsoft Store.
-* **Aktivitetspublicering**: Synkronisera säljengagemanget med kärnplattformen Marketo för att utnyttja marknadsföringsinsikter i realtid.
+* **Aktivitetspublicering**: Synkronisera säljengagemanget med Marketo kärnplattform för att utnyttja marknadsföringsinsikter i realtid.
 
 ## Marketo Sky {#marketo-sky}
 
@@ -68,7 +68,7 @@ Inkludera upp till fem CC-adresser per mottagare i e-postmeddelanden som skickas
 
 * **Valfri standardupplevelse**: Marketo-användare kan ange Marketo Sky som standardupplevelse om de har fått åtkomst av en administratör.
 
-* **Omdesignad My Marketo**: Anpassa upplevelsen genom att lägga till widgetar som ger viktig information, meddelanden och länkar till de områden du besöker mest.
+* **Omdesignat min Marketo**: Anpassa upplevelsen genom att lägga till widgetar som ger viktig information, meddelanden och länkar till de områden du besöker mest.
 
 * **Design Studio - listvyer och detaljsidor**: Få bättre ordning och precision med filterbara och sökbara listvyer av mejl, landningssidor och formulär. På tillgångsinformationssidor finns viktig information om varje resurs, inklusive vilka program resursen används av, antalet utdrag som används och mycket annat.
 
@@ -118,4 +118,4 @@ Vi har uppdaterat vårt SDK för Android till ett modernare, stabilare och skalb
 
 Förutom vår produktrelease arbetar vårt partnerteam på ett nytt ramverk som gör det möjligt för webbinarier-leverantörer att bygga och underhålla sina egna integreringar med Marketo, vilket ger större flexibilitet när det gäller att uppdatera och förbättra sina lösningar samtidigt som marknadsförarna får ut så mycket som möjligt av de integreringar de valt.
 
-Vi planerar att lansera vår nya plattform med leverantörer från fall till fall. Mer information finns i vår [programinformation](https://www.marketo.com/why-marketo/partners/technology/) eller kontakta din Marketinkontakt.
+Vi planerar att lansera vår nya plattform med leverantörer från fall till fall. Mer information finns i vår [programinformation](https://www.marketo.com/why-marketo/partners/technology/) eller kontakta din Marketo-kontakt.
