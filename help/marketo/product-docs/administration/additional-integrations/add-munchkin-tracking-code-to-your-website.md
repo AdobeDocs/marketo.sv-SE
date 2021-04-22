@@ -1,29 +1,29 @@
 ---
 unique-page-id: 2360354
-description: Lägg till Munchkin-spårningskod på din webbplats - Marketo Docs - Produktdokumentation
+description: Lägg till Munchkin-spårningskod på din webbplats - Marketo Docs - produktdokumentation
 title: Lägg till Munchkin-spårningskod på din webbplats
+exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '673'
 ht-degree: 0%
 
 ---
 
-
 # Lägg till Munchkin-spårningskod på din webbplats {#add-munchkin-tracking-code-to-your-website}
 
-Marketos skräddarsydda JavaScript-spårningskod, som kallas Munchkin, spårar alla personer som besöker er webbplats så att ni kan reagera på deras besök med automatiserade marknadsföringskampanjer. Även anonyma besökare spåras tillsammans med sina IP-adresser och annan information. **Utan den här spårningskoden kan du inte spåra besök eller annan aktivitet på webbplatsen**!
+Marketo anpassade JavaScript-spårningskod, som kallas Munchkin, spårar alla personer som besöker er webbplats så att ni kan reagera på besöken med automatiserade marknadsföringskampanjer. Även anonyma besökare spåras tillsammans med sina IP-adresser och annan information. **Utan den här spårningskoden kan du inte spåra besök eller annan aktivitet på webbplatsen**!
 
 >[!PREREQUISITES]
 >
->Kontrollera att du har tillgång till en erfaren JavaScript-utvecklare. Marketo Technical Support har inte konfigurerats för att hjälpa till med felsökning av anpassad JavaScript.
+>Kontrollera att du har tillgång till en erfaren JavaScript-utvecklare. Marketo tekniska support är inte konfigurerad för att hjälpa till med felsökning av anpassad JavaScript.
 
 ## Lägg till spårningskod på din webbplats {#add-tracking-code-to-your-website}
 
 >[!NOTE]
 >
->Adobe Experience Cloud-kunder kan också använda Marketos integrering i Adobe Launch för att inkludera Munchkin-skript på sina webbsidor. Hämta appen [här](https://www.adobeexchange.com/experiencecloud.details.101054.html).
+>Adobe Experience Cloud-kunder kan också använda Marketo integrering i Adobe Launch för att inkludera Munchkin-skript på sina webbsidor. Hämta appen [här](https://www.adobeexchange.com/experiencecloud.details.101054.html).
 
 1. Gå till **Admin** och klicka på **Munchkin** i trädet till vänster.
 
@@ -70,7 +70,7 @@ Om du använder Arbetsytor i ditt Marketo-konto har du förmodligen också separ
 
 >[!NOTE]
 >
->Om du inte använder den speciella arbetsytan Munchkin-koden tilldelas personerna standardpartitionen som skapades när ditt konto konfigurerades. Det heter till att börja med&quot;Standard&quot;, men du kan ha ändrat det i ditt eget Marketo-konto.
+>Om du inte använder den speciella arbetsytan Munchkin-koden tilldelas personerna standardpartitionen som skapades när ditt konto konfigurerades. Det heter till att börja med&quot;Standard&quot;, men du kan ha ändrat det på ditt Marketo-konto.
 
 1. Välj **Asynkron** som spårningskodtyp.
 
