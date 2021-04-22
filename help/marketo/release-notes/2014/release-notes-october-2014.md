@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953334
-description: Versionsinformation -oktober 2014 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -oktober 2014 - Marketo Docs - produktdokumentation
 title: Versionsinformation -oktober 2014
+exl-id: 698b4efd-ee14-459e-83a9-d06652099040
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: Oktober 2014 {#release-notes-october}
 
-Se om din Marketo-utgåva har funktioner tillgängliga. Dokumentationen kommer när den släpps.
+Se om det finns funktioner i din Marketo-utgåva. Dokumentationen kommer när den släpps.
 
 ## Programfokus i marknadsföringskalendern {#program-focus-in-marketing-calendar}
 
@@ -38,9 +38,9 @@ Fullständig information finns tillgänglig efter releasen på [developers.marke
 
 ![](assets/image2014-10-20-11-3a49-3a25.png)
 
-## MSI - Lägg till i Marketo-kampanjer för Microsoft Dynamics {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
+## MSI - Lägg till i Marketo Campaigns för Microsoft Dynamics {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
 
-[Lägg till leads och kontakter i Marketos smarta ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) kampanjer direkt från Microsoft Dynamics. Marknadsföringen kan välja vilka marknadsföringskampanjer som är tillgängliga för försäljning.
+[Lägg till leads och kontakter i smarta Marketo-](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) kampanjer direkt från Microsoft Dynamics. Marknadsförare kan välja vilka Marketo-kampanjer som är tillgängliga för försäljning.
 
 ## Stöd för anpassade entiteter för Microsoft Dynamics Sync {#custom-entity-support-for-microsoft-dynamics-sync}
 
