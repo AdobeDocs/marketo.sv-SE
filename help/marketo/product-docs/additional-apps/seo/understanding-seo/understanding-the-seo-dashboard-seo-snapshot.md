@@ -2,14 +2,14 @@
 unique-page-id: 2949178
 description: Förstå SEO Dashboard -SEO Snapshot - Marketo Docs - produktdokumentation
 title: Förstå SEO-instrumentpanelen - SEO-ögonblicksbild
+exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
 
 ---
-
 
 # Förstå SEO-kontrollpanelen: SEO-ögonblicksbild {#understanding-the-seo-dashboard-seo-snapshot}
 
@@ -39,7 +39,7 @@ Kom igen! Vi fortsätter.
 
 ## Genomsnittligt resultat för sidoptimering {#average-page-optimization-score}
 
-Poängen för genomsnittlig sidoptimering är en marknadspoäng som mäter alla sidor på webbplatsen på en skala från 1 till 100.
+Jämn sidoptimering är en Marketo-poäng som mäter alla sidor på er webbplats på en skala från 1 till 100.
 
 Det bygger på en sammanställning av dussintals bästa metoder. En poäng på 70 eller högre anger att sajten är optimerad.
 
