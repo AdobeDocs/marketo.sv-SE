@@ -1,15 +1,15 @@
 ---
 unique-page-id: 557312
-description: Operatorordlista för smarta listfilter - Marketo Docs - Produktdokumentation
+description: Operatorordlista för smarta listfilter - Marketo Docs - produktdokumentation
 title: Ordlista för operatorer för smarta listfilter
+exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '602'
 ht-degree: 0%
 
 ---
-
 
 # Ordlista för operatorer för smarta listfilter {#smart-list-filter-operators-glossary}
 
@@ -146,4 +146,4 @@ Använd följande diagram för att förstå skillnaden mellan datumoperatorerna.
  </tbody> 
 </table>
 
-Som du ser gör de här operatorerna det enkelt att tala Marketo-ese flytande!
+Som du ser gör de här operatorerna det enkelt att tala Marketo-esiska flytande!
