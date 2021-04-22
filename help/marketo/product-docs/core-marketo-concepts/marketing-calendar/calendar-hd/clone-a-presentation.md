@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504058
-description: Klona en presentation - Marketo Docs - Produktdokumentation
+description: Clone a Presentation - Marketo Docs - produktdokumentation
 title: Klona en presentation
+exl-id: be013e38-734c-41d7-8623-e8f267b2799c
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%
 
 ---
-
 
 # Klona en presentation {#clone-a-presentation}
 
