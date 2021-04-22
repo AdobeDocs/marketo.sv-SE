@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11377958
-description: Användarinloggningshistorik - Marketo Docs - Produktdokumentation
+description: Användarinloggningshistorik - Marketo Docs - produktdokumentation
 title: Historik för användarinloggning
+exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
 
 ---
-
 
 # Användarinloggningshistorik {#user-login-history}
 
