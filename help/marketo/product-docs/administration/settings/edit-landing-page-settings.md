@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359918
-description: Redigera inställningar för landningssida - Marketo Docs - Produktdokumentation
+description: Redigera inställningar för landningssida - Marketo Docs - produktdokumentation
 title: Redigera inställningar för landningssida
+exl-id: 019b4651-3a66-46f9-8722-66af30194380
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
 
 ---
-
 
 # Redigera inställningar för landningssida {#edit-landing-page-settings}
 
@@ -49,7 +49,7 @@ Du kan redigera ditt domännamn och din reservsida, aktivera eller inaktivera f�
    >
    >Om du vill att förifyllningstaggen `<script>` ska visas i slutet av taggen `<head>` i koden markerar du rutan **Inmatningsskript i slutet av HEAD**. Låt alternativet vara avmarkerat om du vill att det ska visas i början.
    >
-   >Markera **Ta bort standardfavoritikonlänkar** om du inte vill att Marketo ska infoga favoritikonlänkar i koden.
+   >Markera **Ta bort standardfavoritikonlänkar** för att förhindra att Marketo infogar några favoritikonlänkar i koden.
 
 1. När du har gjort dina val klickar du på **Spara.**
 
