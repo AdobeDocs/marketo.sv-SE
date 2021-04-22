@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7514821
-description: Versionsinformation - maj 2015 - Marketo Docs - Produktdokumentation
+description: Versionsinformation - maj 2015 - Marketo Docs - produktdokumentation
 title: Versionsinformation - maj 2015
+exl-id: 29f42b17-58e3-4e45-a871-79d91a47fb9f
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: Maj 2015 {#release-notes-may}
 
-Följande funktioner ingår i majversionen 2015. Kontrollera om din Marketo Edition innehåller funktioner. Efter releasen måste du komma tillbaka för att hitta länkar till detaljerade artiklar för varje funktion!
+Följande funktioner ingår i majversionen 2015. Kontrollera om det finns funktioner i Marketo Edition. Efter releasen måste du komma tillbaka för att hitta länkar till detaljerade artiklar för varje funktion!
 
 ## Helt responsiva landningssidor
 
