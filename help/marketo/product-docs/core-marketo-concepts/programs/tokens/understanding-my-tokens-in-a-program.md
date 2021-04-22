@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147114
-description: Understanding My Tokens in a Program - Marketo Docs - Product Documentation
+description: Förstå mina token i ett program - Marketo Docs - produktdokumentation
 title: Förstå mina token i ett program
+exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
 
 ---
-
 
 # Förstå Mina token i ett program {#understanding-my-tokens-in-a-program}
 
@@ -49,7 +49,7 @@ Exempel:
    <td>Använd denna token för att köra ett Velocity-skript i dina e-postmeddelanden. Läs mer <a href="https://developers.marketo.com/documentation/email-scripting/" title="Följ länk" rel="nofollow">här</a>. </td> 
   </tr> 
   <tr> 
-   <td>Number<span> <img alt="—" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
+   <td>Antal<span> <img alt="—" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
    <td>Ett heltal. Den kan till och med vara negativ.</td> 
   </tr> 
   <tr> 
