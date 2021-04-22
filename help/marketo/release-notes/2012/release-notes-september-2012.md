@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951111
-description: Versionsinformation -september 2012 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -september 2012 - Marketo Docs - produktdokumentation
 title: Versionsinformation -september 2012
+exl-id: c81da5ef-11ec-4015-a820-691fa314f369
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
 
 ---
-
 
 # Versionsinformation: September 2012 {#release-notes-september}
 
@@ -35,7 +35,7 @@ Få insikter och minska friktionen genom att möjliggöra förifyllda formulär 
 
 ## Publicera landningssidor på Facebook {#publish-landing-pages-to-facebook}
 
-Nå ut bättre med era landningssidor genom att publicera dem direkt på Facebook, med sociala appar, formulär och alla funktioner som finns på Marketos landningssidor.
+Nå ut bättre med era landningssidor genom att publicera dem direkt i Facebook, med sociala appar, blanketter och alla funktioner på Marketo landningssidor.
 
 ## ReadyTalk-händelseadapter {#readytalk-event-adapter}
 
@@ -49,7 +49,7 @@ Nu har vi stöd för Microsoft Dynamics 2011 lokalt med en installation mot Inte
 
 ## Webhooks (Treasure Chest) {#webhooks-treasure-chest}
 
-En webkrok är ett användardefinierat HTTP-återanrop. Det är ett bra sätt att överföra data från Marketto till vilken annan tjänst som helst. Den här funktionen är för närvarande tillgänglig i skatteglippet och stöds för närvarande endast i utlösarkampanjer.
+En webkrok är ett användardefinierat HTTP-återanrop. Det är ett bra sätt att överföra data från Marketo till andra tjänster. Den här funktionen är för närvarande tillgänglig i skatteglippet och stöds för närvarande endast i utlösarkampanjer.
 
 Exempel på hur du kan använda Webhooks är: publicera användarnamn och lösenord till ett annat system för att skapa ett provkonto, skicka ett SMS-textmeddelande när du får ett nytt lead.
 
