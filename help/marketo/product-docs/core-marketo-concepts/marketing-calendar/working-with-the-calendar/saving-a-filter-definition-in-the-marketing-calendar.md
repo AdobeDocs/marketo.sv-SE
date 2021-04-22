@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147296
-description: Spara en filterdefinition i marknadsföringskalendern - Marketo Docs - Produktdokumentation
+description: Spara en filterdefinition i marknadsföringskalendern - Marketo Docs - produktdokumentation
 title: Spara en filterdefinition i marknadsföringskalendern
+exl-id: 66346207-6e8d-472d-971c-31417bd5210b
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
-
 
 # Spara en filterdefinition i marknadsföringskalendern {#saving-a-filter-definition-in-the-marketing-calendar}
 
@@ -35,7 +35,7 @@ När du sparar ett filter kan du växla fram och tillbaka mellan olika filterdef
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   Om du vill kan du [skicka en kopia](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md) av definitionen till andra Marketo-användare.
+   Om du vill kan du [skicka en kopia av definitionen till andra Marketo-användare.](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md)
 
    >[!NOTE]
    >
