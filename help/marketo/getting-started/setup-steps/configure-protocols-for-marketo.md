@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4720433
-description: Konfigurera protokoll för Marketo - Marketo Docs - Produktdokumentation
+description: Konfigurera protokoll för Marketo - Marketo Docs - produktdokumentation
 title: Konfigurera protokoll för Marketo
+exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 translation-type: tm+mt
-source-git-commit: 0ec525defbefe610f0bd1227b1c8f8e125d8e362
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '712'
 ht-degree: 1%
 
 ---
-
 
 # Konfigurera protokoll för Marketo {#configure-protocols-for-marketo}
 
@@ -19,7 +19,7 @@ Den här artikeln bör delas med IT-avdelningen på det företag som vill implem
 
 >[!NOTE]
 >
->Om IT-teamet begränsar webbåtkomsten via en tillåtelselista ber du dem lägga till följande domäner (inklusive asterisken) för att tillåta alla Marketo-resurser och webbsocketar:
+>Om IT-teamet begränsar webbåtkomsten via ett tillåtelselista ber du dem lägga till följande domäner (inklusive asterisken) för att tillåta alla Marketo resurser och webbsocketar:
 
 * `*.marketo.com`
 
@@ -35,7 +35,7 @@ Marknadsföringsteamet bör ha skickat två förfrågningar till dig om nya CNAM
 
 `1` **Lägg till CNAME för landningssidor**
 
-Lägg till landningssidan CNAME som de skickade dig till din DNS-post, så att `[YourLandingPageCNAME]` pekar på den unika kontosträng som tilldelas till dina Marketo-landningssidor. Logga in på din domänregistrators webbplats och ange landningssidan CNAME och kontosträng. Vanligtvis omfattar detta tre fält:
+Lägg till landningssidan CNAME som de skickade dig till din DNS-post, så att `[YourLandingPageCNAME]` pekar på den unika kontosträng som tilldelas till Marketo landningssidor. Logga in på din domänregistrators webbplats och ange landningssidan CNAME och kontosträng. Vanligtvis omfattar detta tre fält:
 
 * Alias: Ange `[YourLandingPageCNAME]` (tillhandahålls via marknadsföring)
 * Typ: CNAME
@@ -43,7 +43,7 @@ Lägg till landningssidan CNAME som de skickade dig till din DNS-post, så att `
 
 `2` **Lägg till CNAME för länkar för e-postspårning**
 
-Lägg till e-postmarknadsföringen för CNAME som skickade dig, så att `[YourEmailCNAME]` pekar på [MktoTrackingLink], standardspårningslänken som Marketo tilldelade dig, i formatet:\
+Lägg till e-postmarknadsföringen CNAME skickade dig så att `[YourEmailCNAME]` pekar på [MktoTrackingLink], standardspårningslänken som Marketo tilldelade, i formatet:\
 `[YourEmailCNAME].[YourDomain].com` I CNAME  `[MktoTrackingLink]`
 
 Till exempel:
@@ -56,7 +56,7 @@ Meddela marknadsföringsteamet när du har slutfört den här processen.
 
 ## Steg 2: IP-adresser för Tillåtelselista Marketo {#step-allowlist-marketo-ips}
 
-När er marknadsföringsgrupp använder Marketo för att skicka testmeddelanden (en god vana innan de skickar ut e-postmeddelanden) blockeras ibland testmeddelandena av skräppostskyddssystem som förlitar sig på avsändarens IP-adresser för att bekräfta att e-postmeddelandet är giltigt. Lägg till Marketo på tillåtelselista för att försäkra dig om att dessa testmeddelanden kommer fram.
+När marknadsföringsgruppen använder Marketo för att skicka testmeddelanden (en bra metod innan de skickar ut e-postmeddelanden) blockeras ibland testmeddelandena av skräppostskydd som förlitar sig på avsändarens IP-adresser för att bekräfta att e-postmeddelandet är giltigt. Lägg till Marketo i tillåtelselista för att försäkra dig om att dessa testmeddelanden kommer fram.
 
 Lägg till de här IP-adresserna till ditt företag i tillåtelselista:
 
