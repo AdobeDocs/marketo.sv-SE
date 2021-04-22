@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2951101
-description: Versionsinformation - mars 2013 - Marketo Docs - Produktdokumentation
+description: Versionsinformation - mars 2013 - Marketo Docs - produktdokumentation
 title: Versionsinformation - mars 2013
+exl-id: 4036380a-c4a1-44be-8bf3-87253181e5c8
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: Mars 2013 {#release-notes-march}
 
 Följande funktioner ingår i mars-versionen.
 
-## Marketo-kalenderfiler {#marketo-calendar-files}
+## Marketo Calendar-filer {#marketo-calendar-files}
 
 Skapa en kalenderfil som en **Min token** som ska användas i din händelsemeddelande och dina påminnelser via e-post. Den här integrerade kalenderfilen (t.ex. ICS-filen) återger alla token, inklusive Mina token och `{{member.webinar URL}}`-token.
 
@@ -43,4 +43,4 @@ Mer än ett dussin språk har lagts till i felmeddelandena.
 
 ## Support News and Alerts {#support-news-and-alerts}
 
-Håll kontakten med Marketo Customer Support genom att prenumerera på Support News and Alerts för P1 Alerts, Kända fel, tips och tips från våra supportexperter samt uppdateringar från Marketo Customer Support.
+Håll dig ansluten till Marketo kundsupport genom att prenumerera på supportnyheter och -aviseringar för P1-aviseringar, kända problem, tips och tips från våra supportexperter samt uppdateringar från Marketo kundsupport.
