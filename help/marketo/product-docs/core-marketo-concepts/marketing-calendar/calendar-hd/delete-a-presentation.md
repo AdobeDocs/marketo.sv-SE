@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504060
-description: Ta bort en presentation - Marketo Docs - Produktdokumentation
+description: Ta bort en presentation - Marketo Docs - produktdokumentation
 title: Ta bort en presentation
+exl-id: 027d6d68-c2b6-4424-bc69-77d047d62359
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
 
 ---
-
 
 # Ta bort en presentation {#delete-a-presentation}
 
