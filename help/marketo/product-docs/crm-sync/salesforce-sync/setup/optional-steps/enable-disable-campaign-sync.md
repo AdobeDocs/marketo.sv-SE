@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719289
-description: Aktivera/inaktivera kampanjsynkronisering - Marketo-dokument - Produktdokumentation
+description: Aktivera/inaktivera kampanjsynkronisering - Marketo Docs - produktdokumentation
 title: Aktivera/inaktivera kampanjsynkronisering
+exl-id: a8d53268-75b9-479d-8ffc-b3f19eb77483
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
 
 ---
-
 
 # Aktivera/inaktivera kampanjsynkronisering {#enable-disable-campaign-sync}
 
