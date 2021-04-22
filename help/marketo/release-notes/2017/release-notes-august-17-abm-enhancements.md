@@ -2,18 +2,18 @@
 unique-page-id: 12980785
 description: Versionsinformation -August '17 ABM Enhancements - Marketo Docs - Produktdokumentation
 title: Versionsinformation -August '17 ABM Enhancements
+exl-id: 3ba6319a-c5a3-4623-8d8e-0b246b29f17e
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: 17 augusti - förbättringar av ABM {#release-notes-august-abm-enhancements}
 
-Följande funktioner finns i den förbättrade versionen från augusti 2017. Se om din Marketo-utgåva har funktioner tillgängliga.
+Följande funktioner finns i den förbättrade versionen från augusti 2017. Se om det finns funktioner i din Marketo-utgåva.
 
 Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion.
 
