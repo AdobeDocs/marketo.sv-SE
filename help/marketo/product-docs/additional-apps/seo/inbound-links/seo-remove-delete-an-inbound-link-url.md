@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949253
-description: SEO - Ta bort en inkommande länk-URL - Marketo Docs - Produktdokumentation
+description: SEO - Ta bort en inkommande länk-URL - Marketo Docs - produktdokumentation
 title: SEO - Ta bort/ta bort en URL för inkommande länk
+exl-id: 102a483f-0bbd-4bac-8e63-278024d32cbf
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Ta bort/ta bort en URL för inkommande länk {#seo-remove-delete-an-inbound-link-url}
 
