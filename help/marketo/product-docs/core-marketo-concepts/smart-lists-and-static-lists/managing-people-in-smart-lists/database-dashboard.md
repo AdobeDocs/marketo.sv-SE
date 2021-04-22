@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10097447
-description: Databaskontrollpanel - Marketo Docs - Produktdokumentation
+description: Databaskontrollpanel - Marketo Docs - produktdokumentation
 title: Kontrollpanel för databas
+exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # Kontrollpanel för databas {#database-dashboard}
 
@@ -23,7 +23,7 @@ Om du vill komma dit kan du klicka på plattan **Database** på hemskärmen...
 
 ![](assets/db-3.png)
 
-Eller klicka på Marketo-logotypen och välj **Database**.
+Eller klicka på Marketo logotyp och välj **Database**.
 
 ![](assets/db2.png)
 
