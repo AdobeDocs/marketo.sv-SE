@@ -2,14 +2,14 @@
 unique-page-id: 7516605
 description: Objekt som ska checkas ut - Marketo Docs - produktdokumentation
 title: Objekt som ska checkas ut
+exl-id: fd20fbcf-3690-41da-94fa-b40f32a0b251
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
 
 ---
-
 
 # Objekt som ska checkas ut {#items-to-check-off}
 
