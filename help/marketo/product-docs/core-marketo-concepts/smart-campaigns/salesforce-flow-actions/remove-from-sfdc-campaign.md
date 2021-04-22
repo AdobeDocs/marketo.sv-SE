@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147036
-description: Ta bort från SFDC Campaign - Marketo Docs - Produktdokumentation
+description: Ta bort från SFDC Campaign - Marketo Docs - produktdokumentation
 title: Ta bort från SFDC-kampanj
+exl-id: d19e7847-2287-4926-b0bb-635e7700668f
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
-
 
 # Ta bort från SFDC-kampanj {#remove-from-sfdc-campaign}
 
