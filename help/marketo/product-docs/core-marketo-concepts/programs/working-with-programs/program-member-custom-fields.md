@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37355569
-description: Anpassade fält för programmedlemmar - Marketo Docs - Produktdokumentation
+description: Anpassade fält för programmedlemmar - Marketo Docs - produktdokumentation
 title: Anpassade fält för programmedlem
+exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 translation-type: tm+mt
-source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '382'
 ht-degree: 0%
 
 ---
 
-
 # Anpassade fält för programmedlem {#program-member-custom-fields}
 
-Med anpassade fält för programmedlemmar kan du samla in programspecifika data för varje medlem. De kan användas i: Marketo-formulär, Smart List-filter och -utlösare samt åtgärder för Smart Campaign-flödet. Data kan visas på fliken Medlemmar i programmet.
+Med anpassade fält för programmedlemmar kan du samla in programspecifika data för varje medlem. De kan användas i: Marketo-formulär, Smart List-filter och -utlösare samt Flödesåtgärder för smarta kampanjer. Data kan visas på fliken Medlemmar i programmet.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Med anpassade fält för programmedlemmar kan du samla in programspecifika data 
 
 ## Skapa ett anpassat fält för programmedlem {#create-a-program-member-custom-field}
 
-1. I Marketo klickar du på **Admin**.
+1. Klicka på **Admin** i Marketo.
 
    ![](assets/one.png)
 
@@ -54,8 +54,8 @@ Med anpassade fält för programmedlemmar kan du samla in programspecifika data 
 | Objekt | Beskrivning |
 |---|---|
 | Företag | Namnet på det företag som är associerat med personen. |
-| Möjligheter | En affärsmöjlighet kan kopplas till en person eller ett konto som en potentiell framtida försäljning. De går vanligtvis in på Marketo via en CRM eller via API. |
-| Person | En individ i er Marketo-databas som ni engagerar med hjälp av marknadsföringskampanjer. |
+| Möjligheter | En affärsmöjlighet kan kopplas till en person eller ett konto som en potentiell framtida försäljning. De går vanligtvis in i Marketo via en CRM eller via API. |
+| Person | En individ i er Marketo-databas som ni interagerar med via marknadsföringskampanjer. |
 | Programmedlem | Person som även är medlem i ett program |
 
 ## Utlösare och filter {#triggers-and-filters}
