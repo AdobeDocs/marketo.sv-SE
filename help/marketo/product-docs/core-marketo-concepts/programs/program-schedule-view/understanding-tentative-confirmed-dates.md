@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147140
-description: Understanding tentative/Confirmated Dates - Marketo Docs - Product Documentation
+description: Introduktion till preliminära/bekräftade datum - Marketo Docs - produktdokumentation
 title: Förstå preliminära/bekräftade datum
+exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
 
 ---
-
 
 # Tentativa/bekräftade datum {#understanding-tentative-confirmed-dates}
 
@@ -27,7 +27,7 @@ Preliminära datum förmedlar avsikter. Tänk på detta som _penciling_ något i
 
 ## Bekräfta inmatningar {#confirming-entries}
 
-Det är som att godkänna en resurs, så posterna måste vara helt konfigurerade innan du kan bekräfta dem. När alla ankor är i rad kan du bekräfta inmatningar genom att dra den preliminära fliken åt höger.
+Det är precis som att godkänna en resurs, så posterna måste vara helt konfigurerade innan du kan bekräfta dem. När alla ankor är i rad kan du bekräfta inmatningar genom att dra den preliminära fliken åt höger.
 
 ![](assets/image2014-9-23-15-3a23-3a2.png)
 
