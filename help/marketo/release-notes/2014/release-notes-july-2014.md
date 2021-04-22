@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2951040
-description: Versionsinformation -juli 2014 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -juli 2014 - Marketo Docs - produktdokumentation
 title: Versionsinformation -juli 2014
+exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: Juli 2014 {#release-notes-july}
 
-Följande funktioner ingår i juliversionen 2014. Kontrollera om din Marketo Edition innehåller funktioner. Efter releasen finns länkar till detaljerad funktionsdokumentation.
+Följande funktioner ingår i juliversionen 2014. Kontrollera om det finns funktioner i Marketo Edition. Efter releasen finns länkar till detaljerad funktionsdokumentation.
 
 ## Marknadskalender {#marketing-calendar}
 
@@ -27,7 +27,7 @@ Dokumentation om marknadsföringskalendern kommer att finnas tillgänglig vid la
 
 ![](assets/image2014-9-22-14-3a22-3a47.png)
 
-Marketo Lead Management kommer att uppdateras med ett nytt utseende som är modernt och slimmat och som innehåller en uppdaterad navigeringsfunktion.
+Marketo Lead Management uppdateras med ett nytt utseende som är modernt och smidigt och som innehåller en uppdaterad navigeringsfunktion.
 
 ## Datumoperatorer {#date-operators}
 
@@ -56,7 +56,7 @@ Vi har lagt till anropen nedan som rör liståtgärder i ReST. Mer information f
 
 ## Snabb listimport {#fast-list-import}
 
-Över **50x snabbare** zoomar filerna in på Marketo! De gamla importalternativen &quot;Normal&quot; och &quot;Optimerad för nya leads&quot; har ersatts med &quot;Standard (snabb import)&quot;.
+Över **50x snabbare** zoomar filerna in i Marketo! De gamla importalternativen &quot;Normal&quot; och &quot;Optimerad för nya leads&quot; har ersatts med &quot;Standard (snabb import)&quot;.
 
 Alternativet Hoppa över nya leads och uppdateringar ändras inte.
 
