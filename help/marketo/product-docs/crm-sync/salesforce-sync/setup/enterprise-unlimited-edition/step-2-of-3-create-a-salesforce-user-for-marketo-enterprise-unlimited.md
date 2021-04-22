@@ -2,14 +2,14 @@
 unique-page-id: 2360364
 description: Steg 2 av 3 - Skapa en Salesforce-användare för Marketo (Enterprise/Unlimited) - Marketo Docs - Produktdokumentation
 title: Steg 2 av 3 - Skapa en Salesforce-användare för Marketo (Enterprise/Unlimited)
+exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 0%
 
 ---
-
 
 # Steg 2 av 3: Skapa en Salesforce-användare för Marketo (Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
@@ -37,7 +37,7 @@ I den här artikeln ställer du in användarbehörigheter i Salesforce-profilen 
 
    ![](assets/image2014-12-9-9-3a19-3a15.png)
 
-1. Välj **Standardanvändare**, ge profilen namnet Marketo-Salesforce Sync och klicka på **Spara**.
+1. Välj **Standardanvändare**, ge profilen namnet&quot;Marketo-Salesforce Sync&quot; och klicka på **Spara**.
 
    ![](assets/image2014-12-9-9-3a19-3a22.png)
 
@@ -92,7 +92,7 @@ I den här artikeln ställer du in användarbehörigheter i Salesforce-profilen 
 
    >[!NOTE]
    >
-   >Det här steget förhindrar att fält som du inte behöver visas i Marketo, vilket minskar störande detaljer och snabbar upp synkroniseringen.
+   >Det här steget förhindrar att fält som du inte behöver visas i Marketo, vilket gör att det blir rörigt och snabbar upp synkroniseringen.
 
 1. Gå till avsnittet **Fältnivåsäkerhet** på profilinformationssidan. Klicka på **Visa** om du vill redigera tillgängligheten för objekten:
 
@@ -148,7 +148,7 @@ I den här artikeln ställer du in användarbehörigheter i Salesforce-profilen 
 
 >[!TIP]
 >
->Skapa ett dedikerat Salesforce-konto (t.ex. marketo@yourcompany.com) för att skilja de ändringar som gjorts av Marketo från andra Salesforce-användare.
+>Skapa ett dedikerat Salesforce-konto (t.ex. marketo@yourcompany.com) för att skilja mellan de ändringar som gjorts av Marketo och andra Salesforce-användare.
 
 1. Skriv&quot;Hantera användare&quot; i navigeringsfältet och klicka sedan på **Användare**. Klicka på **Ny användare**.
 
