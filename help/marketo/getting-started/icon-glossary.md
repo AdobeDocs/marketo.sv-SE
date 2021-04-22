@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4720476
-description: Ikonordlista - Marketo Docs - Produktdokumentation
+description: Ikonordlista - Marketo Docs - produktdokumentation
 title: Ikonordlista
+exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '568'
 ht-degree: 0%
 
 ---
-
 
 # Ikonordlista {#icon-glossary}
 
@@ -723,7 +723,7 @@ Nedan visas ikonerna för Marketo Classic. Om du har växlat till det nya Market
     <div> 
      <img src="assets/image2015-1-12-10-3a59-3a48.png"> 
     </div></td> 
-   <td>Publicera på Facebook</td> 
+   <td>Publicera till Facebook</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1004,7 +1004,7 @@ Nedan visas ikonerna för Marketo Classic. Om du har växlat till det nya Market
     <div> 
      <img src="assets/image2015-1-5-14-3a27-3a2.png"> 
     </div></td> 
-   <td>Nummer</td> 
+   <td>Antal</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1205,4 +1205,3 @@ Nedan visas ikonerna för Marketo Classic. Om du har växlat till det nya Market
   </tr> 
  </tbody> 
 </table>
-
