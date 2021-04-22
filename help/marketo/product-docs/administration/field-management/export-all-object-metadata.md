@@ -1,14 +1,14 @@
 ---
-description: Exportera alla objektmetadata - Marketo Docs - Produktdokumentation
+description: Exportera alla objektmetadata - Marketo Docs - produktdokumentation
 title: Exportera alla objektmetadata
+exl-id: 93ddf737-98db-4791-b526-d399c59147ee
 translation-type: tm+mt
-source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
 
 ---
-
 
 # Exportera alla objektmetadata {#export-all-object-metadata}
 
@@ -21,7 +21,7 @@ Med den här funktionen kan du exportera alla objekt och deras metadata.
 ## Objekt {#objects}
 
 * Leadfält (person/företag)
-* Marketo-anpassade objekt
+* Anpassade Marketo-objekt
 * Standardaktiviteter
 * Anpassade aktiviteter
 * Kanaler
@@ -29,7 +29,7 @@ Med den här funktionen kan du exportera alla objekt och deras metadata.
 
 ## Exportera objektmetadata {#export-object-metadata}
 
-1. Klicka på **Admin** på My Marketo.
+1. I My Marketo klickar du på **Admin**.
 
    ![](assets/export-all-object-metadata-1.png)
 
