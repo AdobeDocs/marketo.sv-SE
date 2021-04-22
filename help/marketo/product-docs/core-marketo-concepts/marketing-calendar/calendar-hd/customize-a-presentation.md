@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7503973
-description: Anpassa en presentation - Marketo Docs - Produktdokumentation
+description: Anpassa en presentation - Marketo Docs - produktdokumentation
 title: Anpassa en presentation
+exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 0%
 
 ---
-
 
 # Anpassa en presentation {#customize-a-presentation}
 
@@ -38,7 +38,7 @@ Presentations bläddrar igenom olika [filterdefinitioner](/help/marketo/product-
 
 ## Lägg till ett mål {#add-a-goal}
 
-Presentations är den grym när de visar upp era teammål. Dra bara över olika [anpassade mål](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md) eller [mål för smart lista](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md). Du kan använda upp till 10.
+Presentations är den grym när de visar upp era teammål. Bara dra över olika [anpassade mål](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md) eller [mål för smart lista](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md). Du kan använda upp till 10.
 
 1. Dra från det högra trädet in olika mål som du vill ska visas i presentationen.
 
