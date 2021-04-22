@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10099363
-description: Konfigurera iPad- eller Android-surfplattan - Marketo Docs - Produktdokumentation
+description: Konfigurera iPad- eller Android-surfplattan - Marketo Docs - produktdokumentation
 title: Konfigurera iPad- eller Android-surfplattan
+exl-id: ccfd48dc-ca8d-442f-87fd-f16b34d1a76c
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
 
 ---
 
-
 # Konfigurera iPad- eller Android-surfplattan {#set-up-the-ipad-or-android-tablet}
 
-Om du vill ha en smidig upplevelse på en händelsedag förbereder du din iPad eller Android-surfplatta och testar appen Marketo Events före händelsen.
+Om du vill ha en smidig upplevelse på en händelsedag förbereder du din iPad eller Android-surfplatta och testar Marketo Events-appen före eventet.
 
-När du har skapat händelsen i Marketo läses den in till iPad- eller Android-appen Marketo när du loggar in, om:
+När du har skapat händelsen i Marketo läses den in till iPad- eller Android-appen för Marketo Events när du loggar in, om:
 
 * Kontot har åtkomst till din databas
 * Händelsen är schemalagd för ett datum i tidsperioden som börjar en vecka före och slutar en vecka efter det aktuella datumet
@@ -33,19 +33,19 @@ Om din iPad inte redan har Marketo Events-appen installerad gör du så här.
 
    ![](assets/image2016-4-14-15-3a52-3a19.png)
 
-1. I sökrutan anger du **Marketo** och trycker på **Marketo-händelser** i Förslag.
+1. Ange **Marketo** i sökrutan och tryck på **markör för händelser** i Förslag.
 
    ![](assets/image2016-4-14-16-3a0-3a3.png)
 
 1. Följ anvisningarna för att hämta och installera appen på din iPad.
 
-## Hämta och installera Marketo Events Android-appen {#download-and-install-the-marketo-events-android-app}
+## Hämta och installera Android-appen för Marketo Events {#download-and-install-the-marketo-events-android-app}
 
-Om din Android-surfplatta inte har något Marketo Events-program installerat ännu, så här skaffar du det.
+Om din Android-surfplatta inte har Marketo Events-appen installerad än gör du så här.
 
 1. Öppna din surfplatta och tryck på appen **Google Play Store**.
 1. I sökrutan anger du **Marketo** och trycker på **Return**.
-1. I sökresultaten trycker du på **Marketo Events**-appen.
+1. Tryck på **Marketo Events**-appen i sökresultaten.
 
    ![](assets/image2016-4-15-14-3a42-3a11.png)
 
@@ -85,7 +85,7 @@ Kontrollera att incheckningar fungerar från iPad eller surfplatta före händel
 
 1. I appen [kontrollerar du en testlead i](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 1. Tryck på ikonen **Synkronisera** för att synkronisera appen.
-1. Öppna din händelse i Marketo och klicka på **Medlemmar**.
+1. Öppna din aktivitet i Marketo och klicka på **Medlemmar**.
 
    ![](assets/image2016-4-15-15-3a32-3a42.png)
 
