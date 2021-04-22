@@ -2,14 +2,14 @@
 unique-page-id: 2360350
 description: Skapa en anpassad tjänst för användning med ReST API - Marketo Docs - produktdokumentation
 title: Skapa en anpassad tjänst för användning med ReST API
+exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
 
 ---
-
 
 # Skapa en anpassad tjänst för användning med ReST API {#create-a-custom-service-for-use-with-rest-api}
 
@@ -34,7 +34,7 @@ Om du vill integrera med Marketo via ReST API:t måste du skapa en anpassad tjä
 
 >[!NOTE]
 >
->Du kan inte skapa en anpassad tjänst om du har Spark-nivån Marketo.
+>Du kan inte skapa en anpassad tjänst om du har Spark-nivån i Marketo.
 
 ## Skapa anpassad tjänst {#create-custom-service}
 
