@@ -2,14 +2,14 @@
 unique-page-id: 2360213
 description: Redigera förfallodatum för länk i rapporter och aviseringar - Marketo Docs - produktdokumentation
 title: Redigera förfallodatum för länk i rapporter och aviseringar
+exl-id: 9be08798-c413-451b-9b67-893042668061
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
 
 ---
-
 
 # Redigera förfallodatum för länk i rapporter och aviseringar {#edit-link-expiration-in-reports-and-alerts}
 
