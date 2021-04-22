@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147031
-description: Ta bort person från SFDC - Marketo Docs - Produktdokumentation
+description: Ta bort person från SFDC - Marketo Docs - produktdokumentation
 title: Ta bort person från SFDC
+exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-
 # Ta bort person från SFDC {#delete-person-from-sfdc}
 
-Om du behöver ta bort en viss uppsättning leads från Salesforce men låta dem vara personer i Marketo, kan du använda åtgärden Ta bort person från SFDC-flöde.
+Om du behöver ta bort en viss uppsättning leads från Salesforce men låta dem vara personer i Marketo kan du använda åtgärden Ta bort person från SFDC-flöde.
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Om du behöver ta bort en viss uppsättning leads från Salesforce men låta dem
 
    ![](assets/run-action-delete-lead-from-sfdc.png)
 
-   När flödessteget har körts blir din person inte längre en lead i Salesforce, men den blir kvar i Marketo.
+   När flödessteget har körts är din person inte längre en lead i Salesforce, men den stannar kvar i Marketo.
 
    >[!CAUTION]
    >
