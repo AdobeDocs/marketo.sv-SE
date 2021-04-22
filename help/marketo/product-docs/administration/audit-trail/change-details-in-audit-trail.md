@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11379928
-description: Ändra detaljer i granskningsspår - Marketo Docs - Produktdokumentation
+description: Ändra detaljer i granskningsspår - Marketo Docs - produktdokumentation
 title: Ändra detaljer i granskningsspår
+exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1913'
 ht-degree: 0%
 
 ---
 
-
 # Ändra detaljer i granskningsspår {#change-details-in-audit-trail}
 
-Granskningsspår ger en hel del insikt i vem som gör vad i er Marketo-prenumeration. Här är detaljerna.
+Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-prenumeration. Här är detaljerna.
 
 ## Resursgranskningsspår {#asset-audit-trail}
 
@@ -137,7 +137,7 @@ Granskningsspår ger en hel del insikt i vem som gör vad i er Marketo-prenumera
   </tr> 
   <tr> 
    <td>Redigera</td> 
-   <td>Redigera modul <code>"<module name>" <attribute></code> till "value"</td> 
+   <td>Redigera modul <module name><attribute> till "value"</td> 
   </tr> 
   <tr> 
    <td>Ta bort</td> 
@@ -813,4 +813,3 @@ Granskningsspår ger en hel del insikt i vem som gör vad i er Marketo-prenumera
 >[!MORELIKETHIS]
 >
 >[Filtrera i granskningsspår](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)
-
