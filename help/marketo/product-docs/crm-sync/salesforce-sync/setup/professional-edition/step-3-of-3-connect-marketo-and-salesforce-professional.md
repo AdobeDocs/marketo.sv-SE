@@ -1,17 +1,17 @@
 ---
 unique-page-id: 3571800
-description: Steg 3 av 3 - Connect Marketo och Salesforce (Professional) - Marketo Docs - Produktdokumentation
+description: Steg 3 av 3 -Connect Marketo and Salesforce (Professional) - Marketo Docs - produktdokumentation
 title: Steg 3 av 3 - Connect Marketo och Salesforce (Professional)
+exl-id: a35e22ef-6378-45e0-be7e-687b0832ecf3
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '382'
 ht-degree: 0%
 
 ---
 
-
-# Steg 3 av 3: Connect Marketo och Salesforce (Professional) {#step-of-connect-marketo-and-salesforce-professional}
+# Steg 3 av 3: Anslut Marketo och Salesforce (Professional) {#step-of-connect-marketo-and-salesforce-professional}
 
 I den här artikeln konfigurerar du Marketo att synkronisera med din konfigurerade Salesforce-instans.
 
@@ -49,7 +49,7 @@ I den här artikeln konfigurerar du Marketo att synkronisera med din konfigurera
 
    >[!NOTE]
    >
-   >Var noga med att [dölja alla fält som du inte behöver](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md) i Marketo för synkroniseringsanvändaren innan du klickar på **Synkronisera fält**. När du klickar på Synkronisera fält skapas alla fält som användaren kan se i Marketo permanent och kan inte tas bort.
+   >Var noga med att [dölja alla fält som du inte behöver](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md) i Marketo från synkroniseringsanvändaren innan du klickar på **Synkronisera fält**. När du klickar på Synkronisera fält skapas alla fält som användaren kan se i Marketo permanent och kan inte tas bort.
 
 1. Ange inloggningsuppgifterna för Salesforce Sync User som skapades i del 2 av Salesforce-konfigurationen ([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md), [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) och klicka på **Synkronisera fält**.
 
@@ -87,7 +87,7 @@ I den här artikeln konfigurerar du Marketo att synkronisera med din konfigurera
 
 ## Verifiera synkronisering {#verify-sync}
 
-Marketo tillhandahåller statusmeddelanden för Salesforce-synkronisering i administrationsområdet. Du kan kontrollera att synkroniseringen fungerar som den ska genom att följa de här stegen.
+Marketo tillhandahåller statusmeddelanden för Salesforce-synkronisering i administrationsområdet. Du kan kontrollera att synkroniseringen fungerar som den ska genom att följa dessa steg.
 
 1. I Marketo klickar du på **Admin** och sedan **Salesforce**.
 
@@ -101,7 +101,7 @@ Marketo tillhandahåller statusmeddelanden för Salesforce-synkronisering i admi
 
    ![](assets/image2014-12-9-9-3a54-3a35.png)
 
-Wow, du har precis konfigurerat en av de kraftfullaste funktionerna i Marketo, tack!
+Nu är du klar med att konfigurera en av de kraftfullaste funktionerna i Marketo!
 
 >[!MORELIKETHIS]
 >
