@@ -1,19 +1,19 @@
 ---
 unique-page-id: 30081815
-description: Konfigurera Adobe Experience Manager-integrering - Marketo Docs - Produktdokumentation
+description: Konfigurera Adobe Experience Manager-integrering - Marketo Docs - produktdokumentation
 title: Konfigurera Adobe Experience Manager Integration
+exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
-
 # Konfigurerar Adobe Experience Manager-integrering {#configuring-adobe-experience-manager-integration}
 
-Konfigurera AEM så att du kan komma åt, välja och importera AEM till Marketos Design Studio.
+Konfigurera AEM så att du kan komma åt, välja och importera AEM till Marketo Design Studio.
 
 >[!NOTE]
 >
@@ -59,7 +59,7 @@ Konfigurera AEM så att du kan komma åt, välja och importera AEM till Marketos
 
    ![](assets/eight.png)
 
-1. I Marketo Classic klickar du på **Admin**.
+1. Klicka på **Admin** i Marketo Classic.
 
    ![](assets/nine.png)
 
