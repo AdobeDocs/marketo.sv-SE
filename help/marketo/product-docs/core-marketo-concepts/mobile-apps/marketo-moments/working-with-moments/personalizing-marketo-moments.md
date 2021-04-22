@@ -1,17 +1,17 @@
 ---
 unique-page-id: 8782021
-description: Personalisera marknadstidpunkter - Marketo Docs - produktdokumentation
-title: Anpassa Marketo-stunder
+description: Anpassa Marketo Moments - Marketo Docs - produktdokumentation
+title: Anpassa Marketo Moments
+exl-id: f92c9215-0ee3-4918-8194-e6d1684a71c6
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-
-# Anpassa Marketo-stunder {#personalizing-marketo-moments}
+# Anpassa Marketo Moments {#personalizing-marketo-moments}
 
 När ni har massor av marknadsföringsprogram och smarta kampanjer på gång är det bra att se allt, men ni kanske bara vill fokusera på ert eget arbete.
 
