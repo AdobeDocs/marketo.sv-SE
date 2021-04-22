@@ -2,18 +2,18 @@
 unique-page-id: 1146940
 description: Definiera smart lista för smart kampanj | Batch - Marketo Docs - produktdokumentation
 title: Definiera smart lista för smart kampanj | Grupp
+exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
 
 ---
 
-
 # Definiera smart lista för smart kampanj | Grupp {#define-smart-list-for-smart-campaign-batch}
 
-Smarta listor är en mekanism i hela Marketo för att definiera&quot;vem&quot; (vilka personer) som ska inkluderas, oavsett om det är en rapport, en lista eller en smart kampanj. Så här definierar du en smart lista för en batchkampanj.
+Smarta listor är en mekanism i hela Marketo som definierar vem (vilka personer) som ska inkluderas, oavsett om det är en rapport, en lista eller en smart kampanj. Så här definierar du en smart lista för en batchkampanj.
 
 1. Välj en smart kampanj och klicka sedan på **Smart lista**.
 
