@@ -2,14 +2,14 @@
 unique-page-id: 2949180
 description: Förstå SEO Dashboard -SEO Recommendations - Marketo Docs - produktdokumentation
 title: Förstå SEO Dashboard -SEO Recommendations
+exl-id: 44239e48-4aa1-450b-957a-cd3a13787cca
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
 
 ---
-
 
 # Förstå SEO-kontrollpanelen: SEO Recommendations {#understanding-the-seo-dashboard-seo-recommendations}
 
