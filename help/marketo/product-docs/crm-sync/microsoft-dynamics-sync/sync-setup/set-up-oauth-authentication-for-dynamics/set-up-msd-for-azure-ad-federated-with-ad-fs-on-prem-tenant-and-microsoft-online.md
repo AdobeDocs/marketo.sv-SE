@@ -1,14 +1,14 @@
 ---
-description: Konfigurera MSD för Azure AD Federated med AD FS On-prem, Tenant och Microsoft Online - Marketo Docs - Produktdokumentation
+description: Konfigurera MSD för Azure AD Federated med AD FS On-prem, Tenant och Microsoft Online - Marketo Docs - produktdokumentation
 title: Konfigurera MSD för Azure AD Federated med AD FS On-prem, Tenant och Microsoft Online
+exl-id: b6c10048-d27e-4135-beef-232deddc2984
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '388'
 ht-degree: 0%
 
 ---
-
 
 # Konfigurera MSD för Azure AD Federated med AD FS On-prem, Tenant och Microsoft Online {#set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online}
 
@@ -46,9 +46,9 @@ Ytterligare referenser [finns här](https://docs.microsoft.com/en-us/azure/activ
 
 När du är klar är det dags att **ange det Dynamics CRM-genererade klient-ID:t och hemligheten i Marketo**.
 
-## Ange det Dynamics CRM-genererade klient-ID:t och hemligheten i Marketo {#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}
+## Ange det Dynamics CRM-genererade klient-ID och hemlighet i Marketo {#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}
 
-1. I Marketo klickar du på **Admin**.
+1. Klicka på **Admin** i Marketo.
 
    ![](assets/set-up-msd-for-azure-ad-federated-5.png)
 
