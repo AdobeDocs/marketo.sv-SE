@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2951114
-description: Versionsinformation -juni 2012 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -juni 2012 - Marketo Docs - produktdokumentation
 title: Versionsinformation -juni 2012
+exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '667'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: Juni 2012 {#release-notes-june}
 
-## Marketo Lead Management Förbättringar {#marketo-lead-management-enhancements}
+## Förbättringar av Marketo Lead Management {#marketo-lead-management-enhancements}
 
 ### Byt namn på {#rename}
 
