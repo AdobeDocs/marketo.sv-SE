@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147078
-description: Change Person Partition - Marketo Docs - Produktdokumentation
+description: Change Person Partition - Marketo Docs - Product Documentation
 title: Ändra personpartition
+exl-id: 7b2e0de0-2b49-4f7c-b4d5-47e1a16eb98d
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
 
 ---
-
 
 # Ändra personpartition {#change-person-partition}
 
