@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359424
-description: Avisera säljaren - Marketo Docs - Produktdokumentation
+description: Meddela säljaren - Marketo Docs - produktdokumentation
 title: Meddela säljaren
+exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 0%
 
 ---
-
 
 # Avisera säljaren {#alert-the-sales-rep}
 
@@ -77,7 +77,7 @@ Om du automatiskt vill skicka varningsmeddelanden till säljarna behöver du bar
 
 ## Steg 2: Skapa en varningsutlösarkampanj {#step-create-an-alert-trigger-campaign}
 
-1. Välj **Mitt program** som har skapats tidigare och klicka sedan på **Ny smart kampanj** under &lt;a2/>Ny **på &lt;a4/>Ny smart kampanj**.
+1. Välj **Mitt program** som har skapats tidigare och klicka sedan på **Ny smart kampanj** under Ny **på Ny smart kampanj**.
 
    ![](assets/image2014-9-24-13-3a14-3a17.png)
 
@@ -135,7 +135,7 @@ Om du automatiskt vill skicka varningsmeddelanden till säljarna behöver du bar
 
    >[!NOTE]
    >
-   >Klicka på fliken **Personinformation** i Markför att se kontaktinformationen.
+   >Klicka på fliken **Personinformation** i Marketo för att se kontaktinformationen.
 
 ## Uppdraget är klart! {#mission-complete}
 
