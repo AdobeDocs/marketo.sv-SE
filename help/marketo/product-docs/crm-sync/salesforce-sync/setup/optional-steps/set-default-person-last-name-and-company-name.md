@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719291
-description: Ange standardperson, efternamn och företagsnamn - Marketo-dokument - produktdokumentation
+description: Ange standardperson, efternamn och företagsnamn - Marketo Docs - produktdokumentation
 title: Ange standardpersonens efternamn och företagsnamn
+exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
 
 ---
-
 
 # Ange standardpersonens efternamn och företagsnamn {#set-default-person-last-name-and-company-name}
 
