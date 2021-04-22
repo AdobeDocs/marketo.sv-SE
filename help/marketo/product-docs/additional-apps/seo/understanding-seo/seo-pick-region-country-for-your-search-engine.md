@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949190
-description: SEO - Välj region/land för sökmotorn - Marketo Docs - Produktdokumentation
+description: SEO - Välj region/land för sökmotorn - Marketo Docs - produktdokumentation
 title: SEO - Välj region/land för sökmotorn
+exl-id: dc53415c-eb11-41f9-b992-172a32359cef
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Välj region/land för sökmotorn {#seo-pick-region-country-for-your-search-engine}
 
