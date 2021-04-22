@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359351
-description: Kom igång och lägg till en person - Marketo Docs - Produktdokumentation
+description: Konfigurera och lägg till en person - Marketo Docs - produktdokumentation
 title: Konfigurera och lägga till en person
+exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
 
 ---
-
 
 # Hämta konfiguration och lägg till en person {#get-set-up-and-add-a-person}
 
