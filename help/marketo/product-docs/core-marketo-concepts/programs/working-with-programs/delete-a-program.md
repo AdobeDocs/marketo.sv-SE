@@ -2,18 +2,18 @@
 unique-page-id: 1147148
 description: Ta bort ett program - Marketo Docs - produktdokumentation
 title: Ta bort ett program
+exl-id: c13dbb4a-36ea-49ee-aee2-a4af28750b0f
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
 
 ---
 
-
 # Ta bort ett program {#delete-a-program}
 
-Du kan arkivera ett program, men ibland vill du bara göra dig av med det permanent. Så här gör du.
+Du kan arkivera ett program, men ibland vill du bara bli av med det permanent. Så här gör du.
 
 1. Välj det program som du vill ta bort.
 
@@ -31,7 +31,7 @@ Du kan arkivera ett program, men ibland vill du bara göra dig av med det perman
 
 ![](assets/2017-05-05-15-04-15.png)
 
-Klart. Det är som om programmet aldrig funnits.
+Klar. Det är som om programmet aldrig funnits.
 
 ## Varför kan jag inte ta bort mitt program? {#why-cant-i-delete-my-program}
 
