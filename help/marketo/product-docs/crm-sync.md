@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2953432
-description: CRM Sync - Marketo Docs - Produktdokumentation
+description: CRM Sync - Marketo Docs - produktdokumentation
 title: CRM-synkronisering
 translation-type: tm+mt
 source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
