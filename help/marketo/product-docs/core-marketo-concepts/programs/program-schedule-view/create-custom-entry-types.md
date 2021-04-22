@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147245
-description: Skapa anpassade posttyper - Marketo Docs - produktdokumentation
+description: Skapa anpassade anmälningstyper - Marketo Docs - produktdokumentation
 title: Skapa anpassade posttyper
+exl-id: 75a0fb0d-a0d4-472d-9ac1-53e2f2831221
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
-
 # Skapa anpassade posttyper {#create-custom-entry-types}
 
-Du kan skapa anpassade anmälningstyper som ska användas i programschemavy. På så sätt kan du hålla reda på alla objekt på dagordningen som inte är Marketo och som påverkar programmet.
+Du kan skapa anpassade anmälningstyper som ska användas i programschemavy. På så sätt kan du hålla reda på alla punkter på dagordningen som inte kommer från Marketo och som påverkar programmet.
 
 1. Gå till avsnittet **Admin** och klicka på **Taggar**.
 
