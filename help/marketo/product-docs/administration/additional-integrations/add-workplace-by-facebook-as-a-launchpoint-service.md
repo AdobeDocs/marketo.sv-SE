@@ -1,21 +1,21 @@
 ---
 unique-page-id: 14745982
-description: Lägg till arbetsyta via Facebook som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
-title: Lägg till arbetsyta efter Facebook som en LaunchPoint-tjänst
+description: Lägg till Workplace av Facebook som en LaunchPoint-tjänst - Marketo Docs - produktdokumentation
+title: Lägg till Workplace av Facebook som en LaunchPoint-tjänst
+exl-id: afcc1eca-8927-4a25-af9b-c18cef24b0ae
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
 
 ---
 
-
-# Lägg till arbetsyta efter Facebook som en LaunchPoint-tjänst {#add-workplace-by-facebook-as-a-launchpoint-service}
+# Lägg till arbetsyta av Facebook som en LaunchPoint-tjänst {#add-workplace-by-facebook-as-a-launchpoint-service}
 
 Det finns två meddelandetyper i Workplace-integreringen:
 
-* **Systemmeddelanden**: Få Workplace-meddelanden om viktiga händelser i Marketo-instansen, som aviseringar om aktuella kampanjstatusar och eventuella problem som kräver omedelbar åtgärd (CRM-fel och API-gränser).
+* **Systemmeddelanden**: Få Workplace-meddelanden om viktiga händelser i din Marketo-instans, som aviseringar om aktuella kampanjstatus och eventuella problem som kräver omedelbar åtgärd (CRM-fel och API-gränser).
 * **Intressanta stunder**: När en Marketo Insight har utlösts av en känd person från ett försäljningskonto kan leadägare meddelas via Workplace. Meddelanden innehåller information om lead samt detaljer om försäljningskontot.
 
 >[!NOTE]
@@ -24,9 +24,9 @@ Det finns två meddelandetyper i Workplace-integreringen:
 
 >[!PREREQUISITES]
 >
->Om du inte redan har aktiverat Workplace Notifications kontaktar du [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Om du inte har Workplace Notifications aktiverat kan du kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-1. Gå till **LaunchPoint** och klicka sedan på **Ny tjänst** under &lt;a2/>Nytt **.**
+1. Gå till **LaunchPoint** och klicka sedan på **Ny tjänst** under **Nytt**.
 
    ![](assets/image2017-11-27-14-3a13-3a18-1.png)
 
@@ -38,7 +38,7 @@ Det finns två meddelandetyper i Workplace-integreringen:
 
    ![](assets/create.png)
 
-1. Klicka på **Auktorisera**. Då öppnas Workplace på en ny flik, där du slutför behörigheten och ger Markering behörighet att hämta information från Workplace.
+1. Klicka på **Auktorisera**. Då öppnas Workplace på en ny flik, där du slutför behörigheten och ger Marketo behörighet att hämta information från Workplace.
 
    ![](assets/authorize.png)
 
@@ -50,7 +50,7 @@ Det finns två meddelandetyper i Workplace-integreringen:
 
    ![](assets/workplacelogininfo.png)
 
-1. I popup-fönstret Arbetsplats väljer du en Facebook-grupp där du vill att meddelanden från Marknad ska publiceras (t.ex. partnerintegreringar). Klicka på **Installera**.
+1. I popup-fönstret Workplace väljer du en Facebook-grupp där du vill att meddelanden från Marketo ska publiceras (t.ex. partnerintegreringar). Klicka på **Installera**.
 
    ![](assets/installmarketo.png)
 
@@ -58,10 +58,10 @@ Det finns två meddelandetyper i Workplace-integreringen:
 
    ![](assets/success.png)
 
-1. Uppdatera fliken Marketto och bekräfta att Workplace nu visas som en aktiv tjänst i LaunchPoint.
+1. Uppdatera fliken Marketo och bekräfta att Workplace nu visas som en aktiv tjänst i LaunchPoint.
 
    ![](assets/confirm.png)
 
-   Meddelanden kommer nu att börja publicera till den Facebook-grupp du valde i steg 7. De kommer att se ut ungefär så här:
+   Meddelanden kommer nu att börja bokföras i den Facebook-grupp du valde i steg 7. De kommer att se ut ungefär så här:
 
    ![](assets/example.png)
