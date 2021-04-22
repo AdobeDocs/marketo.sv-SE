@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359420
-description: Drip, Drip, Nurture - Marketo Docs - Produktdokumentation
+description: Drip, Drip, Naturvård - Marketo Docs - Produktdokumentation
 title: Drip, Drift, Struktur
+exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '458'
 ht-degree: 0%
 
 ---
-
 
 # Drip, Drip, Struktur {#drip-drip-nurture}
 
