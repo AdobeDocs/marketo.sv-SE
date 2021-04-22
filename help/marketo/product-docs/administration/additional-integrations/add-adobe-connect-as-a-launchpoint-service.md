@@ -2,18 +2,18 @@
 unique-page-id: 7512270
 description: Lägg till Adobe Connect som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
 title: Lägg till Adobe Connect som en LaunchPoint-tjänst
+exl-id: 21beb156-6674-46a8-bdc5-345fcb4bb272
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
 
 ---
 
-
 # Lägg till Adobe Connect som en LaunchPoint-tjänst {#add-adobe-connect-as-a-launchpoint-service}
 
-Marketo hanterar registrering och närvaro av Adobe Connect webbinarium.
+Marketo hanterar registreringen och närvaron av Adobe Connect webbinarium.
 
 >[!NOTE]
 >
@@ -55,7 +55,7 @@ Marketo hanterar registrering och närvaro av Adobe Connect webbinarium.
    >
    >När du har loggat in på ditt Adobe Connect-konto väljer du fliken **Seminarier**. Om du inte behöver gå in i något specifikt seminarium kopierar du URL:en från webbläsarfältet till URL:en för mötesmappen **.**
 
-Din Adobe Connect-tjänst är nu synkroniserad med Marketo!
+Din Adobe Connect-tjänst synkroniseras nu med Marketo!
 
 ![](assets/adobe-connect-service.png)
 
