@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360215
-description: Aktivera anpassade URL:er för ditt konto (administration) - Marketo Docs - Produktdokumentation
+description: Aktivera anpassade URL:er för ditt konto (administration) - Marketo Docs - produktdokumentation
 title: Aktivera anpassade URL:er för ditt konto (administration)
+exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
-
 
 # Aktivera anpassade URL:er för ditt konto (administration) {#enable-personalized-urls-for-your-account-administration}
 
