@@ -1,55 +1,55 @@
 ---
 unique-page-id: 10094114
-description: Versionsinformation - hösten 2015 - Marketo Docs - Produktdokumentation
+description: Versionsinformation - hösten 2015 - Marketo Docs - produktdokumentation
 title: Versionsinformation - hösten 2015
+exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '995'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: Hösten 2015 {#release-notes-fall}
 
-Följande funktioner finns i höstutgåvan 15. Kontrollera om din Marketo Edition innehåller funktioner.
+Följande funktioner finns i höstutgåvan 15. Kontrollera om det finns funktioner i Marketo Edition.
 
 ## Prenumerera på en smart lista {#subscribe-to-a-smart-list}
 
 [Prenumerera på en smart lista](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
 
-Genom att prenumerera på Smart List kan marknadsförare exportera en smart lista och skicka den med e-post till intressenter som inte använder Marketo, till exempel försäljnings- eller telemarketingsteam.
+Genom att prenumerera på Smart List kan marknadsförare exportera en smart lista och skicka den med e-post till intressenter som inte använder Marketo, till exempel säljteam eller telemarketingsteam.
 
 Exporten kan schemaläggas varje dag, vecka eller månad och kan ha slutleveransdatum och kan anpassas så att ett begränsat antal kolumner delas.
 
 ![](assets/image2015-10-1-17-3a12-3a50.png)
 
-Flera prenumerationer kan skapas i en smart lista. Det finns en begränsning på 100 prenumerationer med 100 000 leads per prenumeration, över arbetsytor, per Marketo-instans.
+Flera prenumerationer kan skapas i en smart lista. Det finns en begränsning på 100 prenumerationer med 100 000 leads per prenumeration, över arbetsytor och i Marketo-instanser.
 
 ![](assets/image2015-10-1-17-3a11-3a50.png)
 
-## Marketo-anpassade objekt {#marketo-custom-objects}
+## Marketo anpassade objekt {#marketo-custom-objects}
 
-[Marketo-anpassade objekt](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+[Anpassade Marketo-objekt](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
 Skapa enkelt anpassade objekt från administratörsgränssnittet. Vi stöder för närvarande möjligheten att skapa ett anpassat 1:N-objekt i Marketo och koppla det till en lead eller ett företag.
 
 >[!NOTE]
 >
->Marketo-anpassade objekt är inte tillgängliga för Spark.
+>Marketo Custom Objects are not available for Spark.
 
 ![](assets/image2015-10-1-13-3a55-3a21.png)
 
 ## Marketo Insights for Google Chrome {#marketo-insights-for-google-chrome}
 
-[Marketo Insights för Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[Marketo Insights for Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
 Vi är glada över att kunna meddela att en uppdatering av vårt Google Mail Sales Insight-tillägg har släppts! Visa den i [Chrome Store](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
 
 Den här uppdateringen innehåller många nya funktioner:
 
-* Innan säljarna engagerar kan de se relevant information om sina prospects direkt i Google Mail, bland annat jobbtitlar, twitterprofiler, företagsinformation, foton med mera.
+* Innan säljarna engagerar sig kan de se relevant information om sina prospects direkt i Google Mail, bland annat jobbtitlar, twitter-profiler, företagsinformation, foton med mera.
 * Säljarna kan i realtid se vilket innehåll som presumtiva kunder interagerar med över olika kanaler, som e-post som öppnats eller klickats, online- eller personliga event som besökts, webbsidor som besökts, e-böcker som laddats ned och mycket annat.
 * E-postmeddelanden som skickas via Google Mail loggas i Marketo och spåras i realtid. På så sätt kan säljarna se när potentiella kunder tittar på sina e-postmeddelanden så att de kan följa upp vid precis rätt tidpunkt. Marketo Sales Insight för Google Mail gör det också enkelt för säljarna att utnyttja mallar som skapats av marknadsföring för att skicka vackra inbjudningar, erbjudanden och andra typer av innehåll.
 
@@ -174,4 +174,4 @@ Det nya plugin-programmet kör olika åtgärder i asynkront läge för att öka 
 
 ## Sök på URL för landningssida i Design Studio {#search-by-url-of-landing-page-in-design-studio}
 
-I sidstödrastret Design Studio Landing kan du nu söka efter landningssidor via sid-URL. Detta kan också exporteras.
+I sidstödrastret Design Studio Landing kan du nu söka efter landningssidor via sid-URL:en. Detta kan också exporteras.
