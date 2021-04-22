@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10099680
-description: Importera anpassade objektdata - Marketo Docs - Produktdokumentation
+description: Importera anpassade objektdata - Marketo Docs - produktdokumentation
 title: Importera anpassade objektdata
+exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
-
 # Importera anpassade objektdata {#import-custom-object-data}
 
 Det är enkelt att importera anpassade objektdata till databasen. Om du använder anpassade objekt med företag finns mer information i [Använda anpassade objekt med företag](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies).
 
-1. Gå till **Database** på My Marketo.
+1. Gå till **Database** i My Marketo.
 
    ![](assets/db-1.png)
 
@@ -39,7 +39,7 @@ Det är enkelt att importera anpassade objektdata till databasen. Om du använde
    >
    >Använd Dedupe-fält som unika identifierare när du skapar eller uppdaterar anpassade objektposter. I det här exemplet används dedupliceringsfältet för det anpassade objektet **car** - vin (fordons-ID-nummer). Om du bara uppdaterar anpassade objektposter kan du välja Marketo Guid som borttagningsläge.
 
-1. Koppla varje kolumn till ett Marketo-fält och välj den i listrutan.
+1. Mappa varje kolumn till ett Marketo-fält och välj den i listrutan.
 
    ![](assets/image2016-4-13-14-3a36-3a57.png)
 
@@ -61,7 +61,7 @@ Det är enkelt att importera anpassade objektdata till databasen. Om du använde
 
    >[!TIP]
    >
-   >Ange din e-postadress i fältet **Skicka avisering till:** så mejlar Marketo dig när importen är klar!
+   >Ange din e-postadress i fältet **Skicka avisering till:** så skickar Marketo ett e-postmeddelande till dig när importen är klar!
 
 1. I skärmens övre högra hörn visas ett meddelande när importen körs och det slutliga resultatet när den är klar.
 
@@ -71,4 +71,4 @@ Det är enkelt att importera anpassade objektdata till databasen. Om du använde
 
 >[!MORELIKETHIS]
 >
->[Förstå anpassade objekt i Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>[Förstå anpassade Marketo-objekt](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
