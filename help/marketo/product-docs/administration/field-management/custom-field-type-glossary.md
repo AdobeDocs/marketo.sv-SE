@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2951259
-description: Anpassad fälttypsordlista - Marketo Docs - Produktdokumentation
+description: Anpassad fälttypsordlista - Marketo Docs - produktdokumentation
 title: Ordlista för anpassad fälttyp
+exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '583'
 ht-degree: 0%
 
 ---
 
-
 # Ordlista för anpassad fälttyp {#custom-field-type-glossary}
 
-När du skapar ett anpassat fält i Marketo finns det en lista med typer att välja mellan.
+När du skapar ett anpassat fält i Marketo har du en lista med typer att välja mellan.
 
 >[!PREREQUISITES]
 >
@@ -97,7 +97,7 @@ När du skapar ett anpassat fält i Marketo finns det en lista med typer att vä
 
 **Operatorer**: är, inte, mellan, större än, mindre än, åtminstone, är tom, är inte tom
 
-## Telefon {#phone}
+## Tel.{#phone}
 
 **Exempelnamn:** Alternativ telefon - lagra ytterligare ett telefonnummer för dina personer
 
