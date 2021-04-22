@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953461
-description: SFDC-synkronisering - fältsynkronisering - Marketo Docs - Produktdokumentation
+description: SFDC-synkronisering - fältsynkronisering - Marketo Docs - produktdokumentation
 title: SFDC-synkronisering - fältsynkronisering
+exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '413'
 ht-degree: 0%
 
 ---
-
 
 # SFDC-synkronisering: Fältsynkronisering {#sfdc-sync-field-sync}
 
@@ -21,19 +21,19 @@ Vi synkroniserar de flesta standardfält i SFDC och alla anpassade fält som syn
 
 ## Hur avgör du om en post i Marketo är en lead eller en kontakt i Salesforce? {#how-do-you-determine-if-a-record-in-marketo-is-a-lead-or-a-contact-in-salesforce}
 
-Vi har ett fält i Marketo som kallas SFDC-typ. Den har tre möjliga värden: lead, contact, or it is empty. Om den är tom betyder det att denna Marketo-lead inte finns i SFDC.
+Vi har ett fält i Marketo som kallas SFDC-typ. Den har tre möjliga värden: lead, contact, or it is empty. Om den är tom innebär det att denna Marketo-lead inte finns i SFDC.
 
 ## Hur avgör du om en lead eller kontakt tas bort i SFDC? {#how-do-you-determine-if-a-lead-or-contact-is-deleted-in-sfdc}
 
-Vi har ett fält i Marketo som kallas SFDC isDeleted. Om värdet är true togs leadet bort i SFDC.
+Vi har ett fält i Marketo som heter SFDC isDeleted. Om värdet är true togs leadet bort i SFDC.
 
 ## Hur ser jag till att ett nytt fält som jag lägger till i SFDC också läggs till i Marketo? {#how-do-i-make-sure-a-new-field-i-add-in-sfdc-also-gets-added-to-marketo}
 
 >[!TIP]
 >
->Om du vill ha ett fält i båda systemen skapar du det först i SFDC och synkroniserar automatiskt ned till Marketo.
+>Om du vill ha ett fält i båda systemen skapar du det i SFDC först så synkroniseras det automatiskt till Marketo.
 
-Om du lägger till ett nytt fält i SFDC och synkroniseringsanvändaren har behörighet att se det, läggs det automatiskt till i Marketo.
+Om du lägger till ett nytt fält i SFDC och synkroniseringsanvändaren har behörighet att visa det, läggs det automatiskt till i Marketo.
 
 ## Vad händer om jag ändrar en fältetikett i SFDC? {#what-if-i-change-a-field-label-in-sfdc}
 
@@ -41,7 +41,7 @@ Om du ändrar fältetiketten i SFDC påverkas inte fältetiketten i Marketo.
 
 ## Vad händer om jag ändrar en fälttyp i SFDC? {#what-if-i-change-a-field-type-in-sfdc}
 
-När du ändrar en fälttyp tas data i fälten bort om de inte matchar (men först visas en varning). Om du vill bevara data måste du exportera dem och importera dem igen när du har ändrat fälttypen.
+När du ändrar en fälttyp tar Marketo bort data i fälten om de inte matchar (men först visas en varning). Om du vill bevara data måste du exportera dem och importera dem igen när du har ändrat fälttypen.
 
 ## Vad händer om jag ändrar ett API-namn i SFDC? {#what-if-i-change-an-api-name-in-sfdc}
 
