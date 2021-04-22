@@ -2,18 +2,18 @@
 unique-page-id: 2360297
 description: Begränsa Marketo-inloggningar baserat på IP - Marketo Docs - produktdokumentation
 title: Begränsa Marketo-inloggningar baserat på IP
+exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
-
 # Begränsa Marketo-inloggningar baserat på IP {#restrict-marketo-logins-based-on-ip}
 
-Du kan begränsa eller göra det möjligt för användare att komma åt Marketo baserat på deras IP-adresser. Så här gör du.
+Du kan begränsa eller göra det möjligt för användare att få åtkomst till Marketo baserat på deras IP-adresser. Så här gör du.
 
 >[!NOTE]
 >
@@ -38,7 +38,7 @@ Du kan begränsa eller göra det möjligt för användare att komma åt Marketo 
    >**Definition**
    >
    >* **Tillåtna IP-adresser**: Tillåtna IP-adresser läggs till. Den kommer att innehålla alla angivna IP-adresser och utesluta allt annat.
-   >* **Blockera IP-adresser**: Förhindrar att specifika IP-adresser kommer åt Marketo.
+   >* **Blockera IP-adresser**: Förhindrar att specifika IP-adresser får åtkomst till Marketo.
    >* **Inaktivera IP-begränsningar**: Om du kontrollerar detta kommer eventuella begränsningsregler att sluta fungera. Använd detta för testning.
 
 
