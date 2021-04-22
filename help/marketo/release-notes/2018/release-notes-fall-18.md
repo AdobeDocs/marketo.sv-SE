@@ -1,19 +1,19 @@
 ---
 unique-page-id: 15695939
-description: Versionsinformation -höst '18 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -höst 18 - Marketo Docs - produktdokumentation
 title: Versionsinformation - höst 18
+exl-id: a3cc4cc5-38a6-4648-91f2-092daa9b0113
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '850'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: Hög &#39;18 {#release-notes-fall}
 
-Följande funktioner finns i höstutgåvan 18. Se om din Marketo-utgåva har funktioner tillgängliga.
+Följande funktioner finns i höstutgåvan 18. Se om det finns funktioner i din Marketo-utgåva.
 
 Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion, om sådana finns.
 
@@ -74,7 +74,7 @@ Mer information och uppdateringar finns i [Sky Release Notes](https://help.marke
 
    * Kunder kan nu logga in på Bizible-webbprogrammet med företagets identitetsleverantör och autentiseringsuppgifter, som uppfyller företagets säkerhetskrav.
 
-**[Marketo Performance Insights Förbättringar](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
+**[Marketo Performance Insights - förbättringar](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
 
 * **Användbarhetsförbättringar**
 
@@ -90,13 +90,13 @@ Mer information och uppdateringar finns i [Sky Release Notes](https://help.marke
 
 **[Uppdatera token](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
 
-Vi har implementerat en uppdateringstoken i våra lösningar för återannonsering och LinkedIn Lead Gen Form som förlänger åtkomsttiden till ett år innan omautentisering krävs.
+Vi har implementerat en uppdateringstoken i våra lösningar för återmarknadsföring och LinkedIn Lead Gen Form som förlänger åtkomsttiden till ett år innan omautentisering krävs.
 
 ## API {#api}
 
 **Leadkarta REST API**
 
-Marketo har nu stöd för e-postdispositionsfält över lead-API:erna (inklusive Black Listed, Marketing Suspended, Email Suspended och Relative Urgent).
+Marketo stöder nu användning av e-postdispositionsfält via Lead-API:erna (inklusive Black Listed, Marketing Suspended, Email Suspended och Relative Emergency).
 
 >[!NOTE]
 >
@@ -104,4 +104,4 @@ Marketo har nu stöd för e-postdispositionsfält över lead-API:erna (inklusive
 
 >[!NOTE]
 >
->Marketo uppgraderar också bibliotek som är relaterade till identitet och autentisering. När uppgraderingen pågår kan det hända att du märker återkommande fel om du har en aktiv session öppen. Om du får problem kan du logga ut och sedan logga in på din prenumeration igen.
+>Marketo uppgraderar också bibliotek som rör identitet och autentisering. När uppgraderingen pågår kan det hända att du märker återkommande fel om du har en aktiv session öppen. Om du får problem kan du logga ut och sedan logga in på din prenumeration igen.
