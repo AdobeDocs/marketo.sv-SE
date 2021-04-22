@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360293
-description: Byt namn på ett fält - Marketo Docs - Produktdokumentation
+description: Byt namn på ett fält - Marketo Docs - produktdokumentation
 title: Byta namn på ett fält
+exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
 
 ---
-
 
 # Byta namn på ett fält {#rename-a-field}
 
@@ -41,4 +41,4 @@ Snyggt jobb! Nu vet du hur du byter namn på fält i Marketo.
 
 >[!CAUTION]
 >
->Om du byter namn på API-namnet i Salesforce skapar Marketo ett helt nytt fält och lämnar det gamla bakom sig!
+>Om du byter namn på API-namnet i Salesforce skapar Marketo ett helt nytt fält och lämnar det gamla kvar!
