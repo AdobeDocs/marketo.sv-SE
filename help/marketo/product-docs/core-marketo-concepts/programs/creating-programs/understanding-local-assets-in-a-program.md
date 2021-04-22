@@ -2,14 +2,14 @@
 unique-page-id: 1147093
 description: Understanding Local Assets in a Program - Marketo Docs - Product Documentation
 title: Förstå lokala resurser i ett program
+exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # Förstå lokala resurser i ett program {#understanding-local-assets-in-a-program}
 
@@ -33,7 +33,7 @@ Lokala resurser är det innehåll som utgör programmet. Resurserna är anpassni
 * [Testgrupp](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md)
 * [Knappen Socialt](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)
 * [YouTube-video](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-video.md)
-* [Omröstning](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)
-* [Referenserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
-* [Lotteriet](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
+* [Röstning](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)
+* [Värvningserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
+* [Dragningar](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
 * [Vibes SMS Messages](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
