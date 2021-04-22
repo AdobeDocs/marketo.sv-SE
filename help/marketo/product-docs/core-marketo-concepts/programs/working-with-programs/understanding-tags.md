@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147112
-description: Taggar - Marketo Docs - Produktdokumentation
+description: Taggar - Marketo Docs - produktdokumentation
 title: Taggar
+exl-id: af74aec2-096f-489f-adf8-388da3867fae
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
-
 # Taggar {#understanding-tags}
 
-Nu vet ni säkert att program är som byggstenar i Marketo. Genom att använda taggar och kanaler blir det lättare att filtrera data för rapportering.
+Nu vet du antagligen att program är som byggstenar i Marketo. Genom att använda taggar och kanaler blir det lättare att filtrera data för rapportering.
 
 Taggar används för att beskriva program. Ni kan skapa så många ni behöver, var och en med unika värden. Kanaler identifierar leveransmekanismen i ett program, som webbinarium, sponsring eller online-annonsering.
 
@@ -23,7 +23,7 @@ Märkordstyper identifierar den typ av information som du vill sortera efter.
 
 >[!TIP]
 >
->Tala med din [Marketo Admin](/help/marketo/product-docs/administration/tags/create-custom-tags.md) om du vill skapa egna taggar.
+>Tala med din [Marketo-administratör](/help/marketo/product-docs/administration/tags/create-custom-tags.md) om du vill skapa anpassade taggar.
 
 >[!NOTE]
 >
