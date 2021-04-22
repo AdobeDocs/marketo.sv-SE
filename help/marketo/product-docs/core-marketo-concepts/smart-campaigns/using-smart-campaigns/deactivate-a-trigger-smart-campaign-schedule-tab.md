@@ -2,14 +2,14 @@
 unique-page-id: 1146991
 description: Inaktivera en utlösare för smart kampanj | Fliken Schema - Marketo Docs - produktdokumentation
 title: Inaktivera en utlösare för smart kampanj | Fliken Schema
+exl-id: 59138811-c963-4c4d-9513-b3e12e8e9e38
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
 
 ---
-
 
 # Inaktivera en utlösare för smart kampanj | Fliken Schema {#deactivate-a-trigger-smart-campaign-schedule-tab}
 
