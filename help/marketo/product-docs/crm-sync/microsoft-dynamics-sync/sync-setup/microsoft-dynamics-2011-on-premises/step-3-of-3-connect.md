@@ -1,15 +1,15 @@
 ---
 unique-page-id: 3571809
-description: Steg 3 av 3 - Ansluta Microsoft Dynamics med Marketo (2011 On-Premises) - Marketo Docs - Produktdokumentation
-title: Steg 3 av 3 - Anslut Microsoft Dynamics med Marketo (On-Premises 2011)
+description: Steg 3 av 3 - Ansluta Microsoft Dynamics med Marketo (On-Premises 2011) - Marketo Docs - Produktdokumentation
+title: Steg 3 av 3 - Anslut Microsoft Dynamics med Marketo (lokal version 2011)
+exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 translation-type: tm+mt
-source-git-commit: 20eb3389b267101fb277152f150c2119a5be65a8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '364'
 ht-degree: 0%
 
 ---
-
 
 # Steg 3 av 3: Anslut Microsoft Dynamics med Marketo (On-Premises 2011) {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
 
@@ -17,8 +17,8 @@ Okej! Vi installerade lösningen och konfigurerade synkroniseringsanvändaren. D
 
 >[!PREREQUISITES]
 >
->* [Steg 1 av 3: Installera Marketo-lösningen (2011 On-Premises)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
->* [Steg 2 av 3: Konfigurera Marketo-synkronisering av användare i Dynamics (lokal 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
+>* [Steg 1 av 3: Installera Marketo Solution (2011 On-Premises)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
+>* [Steg 2 av 3: Konfigurera Marketo Sync-användare i Dynamics (lokal 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -45,7 +45,7 @@ Okej! Vi installerade lösningen och konfigurerade synkroniseringsanvändaren. D
 
    >[!CAUTION]
    >
-   >Kontrollera att dina autentiseringsuppgifter är korrekta eftersom det inte går att återställa efterföljande schemaändringar efter överföringen. Om felaktiga inloggningsuppgifter sparas måste du skaffa en ny Marketo-prenumeration.
+   >Kontrollera att dina autentiseringsuppgifter är korrekta eftersom det inte går att återställa efterföljande schemaändringar efter överföringen. Om felaktiga uppgifter sparas måste du skaffa en ny Marketo-prenumeration.
 
 1. Ange **användarnamn**, **lösenord** och CRM **URL** och klicka sedan på **Spara**.
 
