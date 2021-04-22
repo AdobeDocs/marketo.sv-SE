@@ -1,14 +1,14 @@
 ---
-description: Ändra hämtningsgränser för anpassade objekt i snabbskriptning - Marketo Docs - Produktdokumentation
+description: Ändra hämtningsgränser för anpassade objekt i Snabb skriptning - Marketo Docs - Produktdokumentation
 title: Ändra hämtningsgränser för anpassade objekt i snabbskriptning
+exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 0%
 
 ---
-
 
 # Ändra hämtningsgränser för anpassade objekt i snabbskriptning {#change-custom-object-retrieval-limits-in-velocity-scripting}
 
