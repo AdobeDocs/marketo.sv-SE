@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10095429
-description: Åtgärda problem med synkronisering av Dynamics-validering - Marketo Docs - Produktdokumentation
+description: Åtgärda problem med synkronisering av Dynamics-validering - Marketo Docs - produktdokumentation
 title: Åtgärda problem med synkronisering av Dynamics-validering
+exl-id: 1a300249-65b7-49b1-bf50-82236916298f
 translation-type: tm+mt
-source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '407'
 ht-degree: 0%
 
 ---
-
 
 # Åtgärda problem med synkronisering av Dynamics-validering {#fix-dynamics-validation-sync-issues}
 
@@ -43,9 +43,9 @@ Om du har ![delete](assets/delete.png) här kontrollerar du att URL:en är gilti
 
 Om du har ![—](assets/delete.png) här kontrollerar du att ditt Microsoft Dynamics-användarnamn och lösenord är giltiga.
 
-## Synkroniseringsanvändaren har tilldelats rollen Marketo Sync User {#sync-user-is-assigned-to-the-marketo-sync-user-role}
+## Synkroniseringsanvändaren har tilldelats användarrollen Marketo Sync {#sync-user-is-assigned-to-the-marketo-sync-user-role}
 
-Om du har ![—](assets/delete.png) här måste du verifiera att rollen Marketo Sync User är markerad i Microsoft Dynamics. Se steg 2 i installationsdokumentationen för Microsoft Dynamics.
+Om du har ![—](assets/delete.png) här måste du verifiera att Marketo Sync-användarrollen är markerad i Microsoft Dynamics. Se steg 2 i installationsdokumentationen för Microsoft Dynamics.
 
 1. Klicka på ikonen Inställningar i Dynamics och välj **Avancerade inställningar**.
 
@@ -91,9 +91,9 @@ Om du har en ![—](assets/delete.png) här, gå till Microsoft Dynamics för at
 
 Om du har ![—](assets/delete.png) här kontrollerar du att inga av standardstegen har inaktiverats. Alla steg aktiveras automatiskt vid installationen, men de kan inaktiveras under en anpassning.
 
-## Synkroniseringsanvändaren är tilldelad Marketo-lösningen {#sync-user-is-assigned-to-the-marketo-solution}
+## Synkroniseringsanvändaren har tilldelats Marketo-lösningen {#sync-user-is-assigned-to-the-marketo-solution}
 
-Om du har en ![—](assets/delete.png) här kontrollerar du att Synkronisera-användaren är tilldelad till Marketo-standardsidan i Microsoft Dynamics.
+Om du har en ![—](assets/delete.png) här kontrollerar du att Sync-användaren är tilldelad till Marketo-standardsidan i Microsoft Dynamics.
 
 1. Klicka på ikonen Inställningar i Dynamics och välj **Avancerade inställningar**.
 
@@ -109,7 +109,7 @@ Om du har en ![—](assets/delete.png) här kontrollerar du att Synkronisera-anv
 
 ## Synkroniseringsanvändaren matchar användarnamn och lösenord {#sync-user-matches-username-and-password}
 
-Om du har en ![—](assets/delete.png) här ska du tilldela rätt synkroniseringsanvändare i fältet Marketo-användare i konfigurationssteget Marketo i Microsoft Dynamics.
+Om du har en ![—](assets/delete.png) här ska du tilldela rätt synkroniseringsanvändare i fältet Marketo-användare i konfigurationssteget för Marketo i Microsoft Dynamics.
 
 >[!MORELIKETHIS]
 >
