@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360317
-description: Tilldela personpartitioner till arbetsytor - Marketo Docs - Produktdokumentation
+description: Tilldela personpartitioner till arbetsytor - Marketo Docs - produktdokumentation
 title: Tilldela personpartitioner till arbetsytor
+exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
-
 
 # Tilldela personpartitioner till arbetsytor {#assign-person-partitions-to-workspaces}
 
