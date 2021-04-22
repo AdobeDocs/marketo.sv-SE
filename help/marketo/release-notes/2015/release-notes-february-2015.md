@@ -1,19 +1,19 @@
 ---
 unique-page-id: 6094890
-description: Versionsinformation -februari 2015 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -februari 2015 - Marketo Docs - produktdokumentation
 title: Versionsinformation - februari 2015
+exl-id: a7ce88dc-a4d2-4ccb-9fe5-61130334d24d
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: Februari 2015 {#release-notes-february}
 
-Följande funktioner finns i februari 2015-versionen. Kontrollera om din Marketo Edition innehåller funktioner. Efter releasen måste du komma tillbaka för att hitta länkar till detaljerade artiklar för varje funktion. Trumrulle...
+Följande funktioner finns i februari 2015-versionen. Kontrollera om det finns funktioner i Marketo Edition. Efter releasen måste du komma tillbaka för att hitta länkar till detaljerade artiklar för varje funktion. Trumrulle...
 
 ## Förbättringar av marknadsföringsautomatisering {#marketing-automation-enhancements}
 
@@ -25,7 +25,7 @@ Rejöst! Nu kan du flytta smarta kampanjer in och ut ur programmen genom att dra
 
 **Ändringar av HTTPS-certifikat**
 
-För att skydda sekretess och integritet för kunddata och SaaS-tjänster följer Marketo Saas branschstandarder
+För att skydda sekretess och integritet för kunddata och SaaS-tjänster följer Marketo SaaS branschstandarder
 
 och kommer att ersätta de säkerhetsprotokoll som för närvarande används (SHA-1 och SSL) med säkrare versioner (SHA-2 (alias). SHA-256) och TLS) för följande domäner:
 
