@@ -1,24 +1,24 @@
 ---
 unique-page-id: 8781845
-description: Understanding Marketo Moments - Marketo Docs - produktdokumentation
-title: Om Marketo-stunder
+description: Understanding Marketo Moments - Marketo Docs - Product Documentation
+title: Om Marketo Moments
+exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '544'
 ht-degree: 0%
 
 ---
 
-
 # Om Marketo Moments {#understanding-marketo-moments}
 
-Marketos styrka ligger nu i dina händer, bokstavligen! Förhandsgranska och schemalägg om e-post direkt från telefonen eller iPad.
+Nu ligger kraften i Marketo i dina händer, bokstavligen! Förhandsgranska och schemalägg om e-post direkt från telefonen eller iPad.
 
 >[!AVAILABILITY]
 >
 >
->Åtkomst till mobilappar krävs. Kontakta Marketo Admin för att [uppdatera din roll](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>Åtkomst till mobilappar krävs. Kontakta din Marketo-administratör för att [uppdatera din roll](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## Strömmar {#streams}
 
@@ -81,7 +81,7 @@ Bra! Nu kan du få något att hända genom att trycka på:
 >**Definition**
 >
 >* Favorit: Det är enkelt att lägga märke till de saker som kommer i rätt tid och som är viktigast om du gör dem till favoriter.
->* Klart: Med Klar utesluts den från vyn Marketo Moments (men lämnas kvar i Marketo, samt ljud och tryggt).
+>* Klart: Klart tar bort det från vyn Marketo Moments (men lämnar det i Marketo, säkert och ljudformat).
 >* Dela: Skicka en bild för att motivera eller gratulera ert team.
 >* Skicka exempel (endast e-post): Använd detta för att låta andra se hur dina e-postmeddelanden ser ut innan du skickar ut dem.
 >* Förhandsgranska e-post (endast e-post): Det är alltid en bra idé att checka ut dina e-postmeddelanden i förväg.
