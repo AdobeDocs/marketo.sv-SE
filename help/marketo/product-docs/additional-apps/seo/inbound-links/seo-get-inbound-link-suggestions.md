@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949228
-description: SEO - Hämta förslag på inkommande länkar - Marketo Docs - Produktdokumentation
+description: SEO - få förslag på inkommande länkar - Marketo Docs - produktdokumentation
 title: SEO - Hämta förslag på inkommande länk
+exl-id: 6de60d4b-1e34-4394-97aa-4294b9787025
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Hämta förslag på inkommande länk {#seo-get-inbound-link-suggestions}
 
