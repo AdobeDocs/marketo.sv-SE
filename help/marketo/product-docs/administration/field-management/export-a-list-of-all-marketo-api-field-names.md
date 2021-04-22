@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360295
-description: Exportera en lista med alla Marketo API-fältnamn - Marketo Docs - Produktdokumentation
+description: Exportera en lista med alla Marketo API-fältnamn - Marketo Docs - produktdokumentation
 title: Exportera en lista med alla Marketo API-fältnamn
+exl-id: 7720c3fe-85e3-4de2-ad04-503c430562f0
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
-
 
 # Exportera en lista med alla Marketo API-fältnamn {#export-a-list-of-all-marketo-api-field-names}
 
