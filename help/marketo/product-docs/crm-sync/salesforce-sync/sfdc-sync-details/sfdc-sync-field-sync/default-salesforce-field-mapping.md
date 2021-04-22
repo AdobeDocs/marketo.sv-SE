@@ -1,27 +1,27 @@
 ---
 unique-page-id: 4719314
-description: Standardfältmappning i Salesforce - Marketo Docs - Produktdokumentation
+description: Standardfältmappning för Salesforce - Marketo Docs - produktdokumentation
 title: Standardfältmappning för Salesforce
+exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '362'
-ht-degree: 0%
+ht-degree: 34%
 
 ---
 
-
 # Standardfältmappning för Salesforce {#default-salesforce-field-mapping}
 
-När du först synkroniserar ditt Marketto-konto med Salesforce skapar Marketo automatiskt dessa associationer mellan dina inbyggda Salesforce- och Marketo-fält. Marketo synkroniserar även dina anpassade fält på leads, konton, säljprojekt och kontakter.
+När du först synkroniserar ditt Marketo-konto med Salesforce skapar Marketo automatiskt dessa associationer mellan dina inbyggda Salesforce- och Marketo-fält. Marketo synkroniserar även dina anpassade fält på leads, konton, säljprojekt och kontakter.
 
 ## Leadfält {#lead-fields}
 
-| SFDC-fält | Marketo-fält |
+| SFDC-fält | Marketo Field |
 |---|---|
-| Årsintäkt | Årsintäkt |
+| Årlig intäkt | Årlig intäkt |
 | Ort | Ort |
-| Företag | Företag |
+| Företag | Företagets namn |
 | Konverterat den | SFDC-konverteringsdatum |
 | Land | Land |
 | Skapad den | Skapad SFDC |
@@ -29,20 +29,20 @@ När du först synkroniserar ditt Marketto-konto med Salesforce skapar Marketo a
 | E-post | E-postadress |
 | Fax | Faxnummer |
 | Förnamn | Förnamn |
-| Avanmäl dig via e-post | Avbeställ |
+| Avanmäl dig via e-post | Avprenumererad |
 | Bransch | Bransch |
 | Konverterad | SFDC är konverterat |
 | Borttagen | SFDC tas bort |
 | Efternamn | Efternamn |
 | Leadkälla | Källa |
 | Leadpoäng | Poäng |
-| Mobiltelefon | Mobiltelefonnummer |
+| Mobiltelefon | Mobiltelefon |
 | Anställda | Antal anställda |
-| Telefon | Telefonnummer |
+| Tel. | Telefonnummer |
 | Postnummer | Postnummer |
 | Klassificering | Klassificering |
-| Hälsning | Hälsning |
-| Stat/provins | Läge |
+| Titel | Titel |
+| Stat/provins | Stat |
 | Status | Status |
 | Gata | Adress |
 | Titel | Befattning |
@@ -50,15 +50,15 @@ När du först synkroniserar ditt Marketto-konto med Salesforce skapar Marketo a
 
 ## Kontaktfält {#contact-fields}
 
-| SFDC-fält | Marketo-fält |
+| SFDC-fält | Marketo |
 |---|---|
-| Födelsedatum | Födelsedatum |
+| Födelsadatum | Födelsedatum |
 | Skapad den | Skapad SFDC |
 | Kontaktbeskrivning | Personanteckningar |
 | E-post | E-postadress |
 | Fax, arbete | Faxnummer |
 | Förnamn | Förnamn |
-| Avanmäl dig via e-post | Avbeställ |
+| Avanmäl dig via e-post | Avprenumererad |
 | Borttagen | SFDC tas bort |
 | Efternamn | Efternamn |
 | Leadkälla | Källa |
@@ -66,30 +66,30 @@ När du först synkroniserar ditt Marketto-konto med Salesforce skapar Marketo a
 | MailingCity | Ort |
 | MailingCountry | Land |
 | MailingPostalCode | Postnummer |
-| MailingState | Läge |
+| MailingState | Stat |
 | MailingStreet | Adress |
-| Mobiltelefon | Mobiltelefonnummer |
+| Mobiltelefon | Mobiltelefon |
 | Telefon, arbete | Telefonnummer |
-| Hälsning | Hälsning |
+| Titel | Titel |
 | Titel | Befattning |
 
 ## Kontofält {#account-fields}
 
-| SFDC-fält | Marketo-fält |
+| SFDC-fält | Marketo Field |
 |---|---|
-| Årsintäkt | Årsintäkt |
+| Årlig intäkt | Årlig intäkt |
 | Faktureringsort | Faktureringsort |
 | Faktureringsland | Faktureringsland |
-| Postnummer för fakturering | Postnummer för fakturering |
-| Faktureringsstat/provins | Faktureringsläge |
+| Postnummer för fakturering | Faktureringspostnummer |
+| Faktureringsstat/provins | Faktureringsstat |
 | Faktureringsgatan | Faktureringsadress |
 | Kontobeskrivning | Företagsanteckningar |
 | Bransch | Bransch |
 | Borttagen | SFDC tas bort |
-| Kontonamn | Företag |
+| Kontonamn | Företagets namn |
 | Anställda | Antal anställda |
-| Telefon till konto | Huvudtelefon |
-| SIC-kod | SIC-kod |
+| Telefon till konto | Telefon |
+| SNI-kod | SNI-kod |
 | Kontowebbplats | Plats |
 | Kontotyp | SFDC-typ |
 | Webbplats | Webbplats |
@@ -103,4 +103,4 @@ Dessa fält skapas i Marketo men kan inte justeras av kunder.
 | SFDC-ID | Salesforce-ID med 18 tecken |
 | SFDC-typ | Lead eller kontakt. Om det är tomt finns leadet bara som en person i Marketo |
 | Skapad SFDC | Skapad i SFDC (kan vara ett annat datum än Skapad i Marketo) |
-| SFDC tas bort | Personen brukade vara i SFDC men togs bort och bor nu bara i Marketo |
+| SFDC tas bort | Personen brukade befinna sig i SFDC men togs bort och bor nu bara i Marketo |
