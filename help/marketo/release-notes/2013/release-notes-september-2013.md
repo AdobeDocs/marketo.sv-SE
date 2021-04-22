@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951056
-description: Versionsinformation -september 2013 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -september 2013 - Marketo Docs - produktdokumentation
 title: Versionsinformation -september 2013
+exl-id: 43428813-0405-4c35-9165-f189fbb5ffb7
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '498'
 ht-degree: 0%
 
 ---
-
 
 # Versionsinformation: September 2013 {#release-notes-september}
 
@@ -23,7 +23,7 @@ E-post-URL:er har fått en trim så att de är klickvänliga för mottagaren, sa
 >
 >När vi går över till korta URL:er kommer länkar i e-postmeddelanden som skickats ut före september-versionen att upphöra att gälla 90 dagar efter den här versionen.
 
-Använd data från Marketför anpassade objekt eller lägg till villkorsstyrd logik i e-postinnehållet med hjälp av mallspråket Snabb.
+Använd data från anpassade Marketo-objekt eller lägg till villkorsstyrd logik i e-postinnehållet med hjälp av mallspråket Snabb.
 
 ![](assets/image2014-9-22-17-3a10-3a56.png)
 
@@ -39,7 +39,7 @@ När du skickar ett e-postexempel kan du välja namnet på ett lead för att anp
 
 ## Ytterligare fältsynkronisering för GoToWebinar {#additional-field-sync-for-gotowebinar}
 
-Du kan synkronisera företagsnamn och befattning från Marketto-formuläret till GoToWebinar. Om du vill aktivera dessa ytterligare fält går du till Event Partners och markerar&quot;Enable Additional Fields&quot; (Aktivera ytterligare fält).
+Du kan synkronisera företagsnamn och befattning från ditt Marketo-formulär till GoToWebinar. Om du vill aktivera dessa ytterligare fält går du till Event Partners och markerar&quot;Enable Additional Fields&quot; (Aktivera ytterligare fält).
 
 ![](assets/image2014-9-22-17-3a11-3a53.png)
 
@@ -59,7 +59,7 @@ Du kan nu exportera data i säljprojektsanalysen till Excel. Varje exporterad Ex
 
 ## Programattributsinställningar {#program-attribution-settings}
 
-Ni kan ändra det sätt Marketo knyter kontakter och möjligheter till första och multitouch-attribueringsstatistik, inklusive möjligheten att göra kontobaserad attribuering. De här inställningarna påverkar attribueringsvärden i Intresseutforskarrapporter under området för analys av affärsmöjlighet och säljprojektsanalysen. Detta påverkar också attribueringsvärdena i Program Analyzer.
+Ni kan ändra det sätt på vilket Marketo knyter kontakter och möjligheter till första och multitouch-attribueringsstatistik, inklusive möjligheten att göra kontobaserad attribuering. De här inställningarna påverkar attribueringsvärden i Intresseutforskarrapporter under området för analys av affärsmöjlighet och säljprojektsanalysen. Detta påverkar också attribueringsvärdena i Program Analyzer.
 
 Du kan ändra inställningarna för programattribuering till ett av tre alternativ. Om du ändrar den här inställningen ändras inga Marketo- eller CRM-data. det ändrar helt enkelt hur dina rapporter fungerar och kan återställas när som helst.
 
