@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11387513
-description: Skapa en statisk lista - Marketo Docs - Produktdokumentation
+description: Skapa en statisk lista - Marketo Docs - produktdokumentation
 title: Skapa en statisk lista
+exl-id: 93560d2a-6b36-4660-99b3-dd6209032fb0
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
 
 ---
-
 
 # Skapa en statisk lista {#create-a-static-list}
 
