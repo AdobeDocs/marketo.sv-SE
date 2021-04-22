@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504744
-description: Installera Marketo för Dynamics 2015 On-Prem och 2016 365 On-Prem Step 3 of 3 - Marketo Docs - produktdokumentation
+description: Installera Marketo för Dynamics 2015 On-Prem och 2016 365 On-Prem Step 3 of 3 - Marketo Docs - Product Documentation
 title: Installera Marketo för Dynamics 2015 On-Prem och 2016 365 On-Prem Step 3 of 3
+exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
 
 ---
-
 
 # Steg 3 av 3: Connect Marketo Dynamics (2015 On-Prem och 2016 365 On-Prem) {#step-of-connect-marketo-dynamics-on-premises-and-365}
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Kontrollera att dina autentiseringsuppgifter är korrekta eftersom det inte går att återställa efterföljande schemaändringar efter överföringen. Om felaktiga inloggningsuppgifter sparas måste du skaffa en ny Marketo-prenumeration.
+   >Kontrollera att dina autentiseringsuppgifter är korrekta eftersom det inte går att återställa efterföljande schemaändringar efter överföringen. Om felaktiga uppgifter sparas måste du skaffa en ny Marketo-prenumeration.
 
 1. Ange **användarnamn**, **lösenord** en Microsoft Dynamics **URL** och ett **klient-ID/hemlighet**. Klicka på **Spara** när du är klar.
 
@@ -66,7 +66,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-16-9-51-28.png)
 
-1. Markera de fält som du vill synkronisera med Marketo så att de är förmarkerade. Klicka på **Spara**.
+1. Markera de fält som du vill synkronisera till Marketo så att de är förmarkerade. Klicka på **Spara**.
 
    ![](assets/image2016-8-25-15-3a14-3a28.png)
 
