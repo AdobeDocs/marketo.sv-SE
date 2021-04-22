@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949184
-description: SEO - Förstå sidor - Marketo Docs - Produktdokumentation
+description: SEO - Förstå sidor - Marketo Docs - produktdokumentation
 title: SEO - Förstå sidor
+exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Förstå sidor {#seo-understanding-pages}
 
