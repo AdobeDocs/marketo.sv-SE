@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360327
-description: Tilldela personpartitioner med tilldelningsregler - Marketo-dokument - Produktdokumentation
+description: Tilldela personpartitioner med tilldelningsregler - Marketo Docs - produktdokumentation
 title: Tilldela personpartitioner med tilldelningsregler
+exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
-
 
 # Tilldela personpartitioner med tilldelningsregler {#assigning-person-partitions-with-assignment-rules}
 
@@ -25,7 +25,7 @@ När du använder personpartitioner ska du ställa in tilldelningsregler för at
 
 >[!NOTE]
 >
->Endast personer som har skapats i Marketo från din CRM och via SOAP API kommer att ha tilldelningsregler tillämpade på dem.
+>Endast personer som har skapats i Marketo från din CRM och via SOAP API:t kommer att ha tilldelningsregler tillämpade på dem.
 
 1. Klicka på Arbetsytor och partitioner under Admin.
 
