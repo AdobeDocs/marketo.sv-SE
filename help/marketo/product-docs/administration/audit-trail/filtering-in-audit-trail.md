@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11378468
-description: Filtrera i granskningsspår - Marketo Docs - Produktdokumentation
+description: Filtrering i granskningsspår - Marketo Docs - produktdokumentation
 title: Filtrera i granskningsspår
+exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # Filtrerar i granskningsspår {#filtering-in-audit-trail}
 
@@ -55,7 +55,7 @@ Filtrera efter tidsram, resurstyp, användare, åtgärd med mera.
 
    >[!NOTE]
    >
-   >Om du har aktiverat arbetsytor visas granskningsdata för alla arbetsytor. Om du använder ett arbetsytefilter kommer Markering ihåg det tidigare arbetsytevärdet varje gång du använder granskningsspår. Arbetsytebehörigheter på resursnivå används.
+   >Om du har aktiverat arbetsytor visas granskningsdata för alla arbetsytor. Om du använder ett arbetsytefilter kommer Marketo ihåg det tidigare arbetsytevärdet varje gång du använder granskningsspår. Arbetsytebehörigheter på resursnivå används.
 
    >[!MORELIKETHIS]
    >
