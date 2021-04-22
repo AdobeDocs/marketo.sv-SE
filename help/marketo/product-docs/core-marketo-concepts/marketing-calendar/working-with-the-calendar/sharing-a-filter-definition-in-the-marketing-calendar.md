@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147304
-description: Dela en filterdefinition i marknadsföringskalendern - Marketo Docs - Produktdokumentation
+description: Dela en filterdefinition i marknadsföringskalendern - Marketo Docs - produktdokumentation
 title: Dela en filterdefinition i marknadsföringskalendern
+exl-id: 3429edba-fdb1-43e9-82ff-01b952036526
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
-
 
 # Dela en filterdefinition i marknadsföringskalendern {#sharing-a-filter-definition-in-the-marketing-calendar}
 
@@ -33,7 +33,7 @@ Filter kan delas mellan olika användare.
 
    ![](assets/image2014-9-24-11-3a31-3a24.png)
 
-1. Kopiera URL-adressen och dela den med andra Marketo-användare.
+1. Kopiera webbadressen och dela den med andra Marketo-användare.
 
    ![](assets/image2014-9-24-11-3a31-3a29.png)
 
