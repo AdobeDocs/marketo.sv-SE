@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951107
-description: Versionsinformation - december 2012 - Marketo Docs - Produktdokumentation
+description: Versionsinformation - december 2012 - Marketo Docs - produktdokumentation
 title: Versionsinformation - december 2012
+exl-id: d9d09c4b-6764-4638-9cb1-2882fb0947cc
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
 
 ---
-
 
 # Versionsinformation: December 2012 {#release-notes-december}
 
@@ -29,7 +29,7 @@ Använd motsvarande utlösare och filter för att identifiera användare som anv
 
 ## Detaljerade administratörsbehörigheter {#granular-admin-permissions}
 
-Vår senaste release ger dig bättre åtkomst och kontroll över administratörsroller genom att styra åtkomsten till olika funktioner i Marketo Admin-området för varje roll. När du skapar en ny roll kan du tilldela specifika administratörsfunktioner som rollen kan komma åt.
+Vår senaste version ger dig bättre åtkomst och kontroll över administratörsroller genom att styra åtkomsten till olika funktioner i Marketo Admin för varje roll. När du skapar en ny roll kan du tilldela specifika administratörsfunktioner som rollen kan komma åt.
 
 ![](assets/image2014-9-23-10-3a51-3a18.png)
 
