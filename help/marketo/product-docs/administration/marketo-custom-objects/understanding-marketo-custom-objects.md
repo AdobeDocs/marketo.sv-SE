@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093188
-description: Understanding Marketo Custom Objects - Marketo Docs - produktdokumentation
-title: Förstå anpassade objekt i Marketo
+description: Förstå anpassade Marketo-objekt - Marketo Docs - produktdokumentation
+title: Förstå anpassade Marketo-objekt
+exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '679'
 ht-degree: 0%
 
 ---
 
-
-# Om Marketo-anpassade objekt {#understanding-marketo-custom-objects}
+# Förstå anpassade Marketo-objekt {#understanding-marketo-custom-objects}
 
 Använd anpassade objekt för att spåra mätvärden som är specifika för din verksamhet.
 
@@ -43,11 +43,11 @@ Många-till-många anpassade objekt använder två länkfält, som ingår i ett 
 
 ## Åtkomst till anpassade Marketo-objekt {#accessing-marketo-custom-objects}
 
-1. Om du vill skapa eller redigera markering för anpassade objekt klickar du på **Admin** och sedan på länken **Marketo Custom Objects**.
+1. Om du vill skapa eller redigera anpassade Marketo-objekt klickar du på **Admin** och sedan på länken **Anpassade Marketo-objekt**.
 
    ![](assets/image2016-5-18-16-3a59-3a30.png)
 
-1. Marketo-anpassade objekt visar alla dina anpassade objekt till höger, men bara de godkända objekten i huvudstödrastret.
+1. I Marketo anpassade objekt visas alla dina anpassade objekt till höger, men bara de godkända objekten i huvudstödrastret.
 
    ![](assets/image2016-6-10-15-3a14-3a18.png)
 
@@ -85,9 +85,9 @@ När du har skapat den anpassade objektstrukturen kopplas de anpassade objekten 
 
 Ett anpassat objekt som är länkat till företaget fungerar bäst om du synkroniserar företag från CRM eller om du uttryckligen skapar företag med API:t. Vi rekommenderar även att du använder företags-ID som länkfält.
 
-Om du har flera personer i Marketo som är poster i CRM- eller Marketo-posterna, kopplas inte ett anpassat objekt som är länkat till ett företag till mer än en enskild post. Detta beror på att ett företag som har flera personer under det bara stöds när företag synkroniseras från CRM eller om du använder ett API för att skapa företag.
+Om du har flera personer i Marketo som är poster i CRM- eller Marketo-poster kopplas inte ett anpassat objekt som är länkat till ett företag till mer än en enskild post. Detta beror på att ett företag som har flera personer under det bara stöds när företag synkroniseras från CRM eller om du använder ett API för att skapa företag.
 
-Anpassade objekt kan bara länka direkt till en enskild post. Det innebär att när din anpassade objekttyp är länkad efter företagsfält bör du se till att dina personposter är kopplade till ett företag antingen med hjälp av kontaktkonvertering i CRM eller med hjälp av fältet externalCompanyId om du hanterar företag med hjälp av Marketos REST API:er. För personposter som inte är uttryckligen länkade till företagsposter, kommer anpassade objekt som är länkade med hjälp av företag att slumpmässigt länkas till en enda post, även om värdet i företagsfältet delas av många personer.
+Anpassade objekt kan bara länka direkt till en enskild post. Det innebär att när din anpassade objekttyp är länkad efter företagsfält bör du se till att dina personposter är kopplade till ett företag antingen med hjälp av kontaktkonvertering i CRM, eller med hjälp av fältet externalCompanyId, om du hanterar företag med hjälp av Marketo REST API:er. För personposter som inte är uttryckligen länkade till företagsposter, kommer anpassade objekt som är länkade med hjälp av företag att slumpmässigt länkas till en enda post, även om värdet i företagsfältet delas av många personer.
 
 Mer information finns i [Importera anpassade objektdata](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md).
 
@@ -95,8 +95,8 @@ Mer information finns i [Importera anpassade objektdata](/help/marketo/product-d
 >
 >* [Skapa anpassade Marketo-objekt](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
 >* [Godkänn ett anpassat objekt](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
->* [Redigera och ta bort ett markeringsobjekt till anpassat objekt](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
->* [Lägg till markering i anpassade objektfält](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
->* [Redigera och ta bort markering i anpassade objektfält](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
+>* [Redigera och ta bort ett anpassat Marketo-objekt](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [Lägg till anpassade Marketo-objektfält](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [Redigera och ta bort anpassade Marketo-objektfält](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
 >* [Importera anpassade objektdata](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
 
