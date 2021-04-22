@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7515767
-description: Dela segment mellan arbetsytor och partitioner - Marketo Docs - Produktdokumentation
+description: Dela segment mellan arbetsytor och partitioner - Marketo Docs - produktdokumentation
 title: Dela segment mellan arbetsytor och partitioner
+exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 0%
 
 ---
-
 
 # Dela segment över arbetsytor och partitioner {#share-segmentations-across-workspaces-and-partitions}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## Vad är en segmentering? {#whats-a-segmentation}
 
-Marketo är bra på att välja ut rätt personer för ett program eller en smart kampanj. För mer permanenta personligheter bör du dock använda segmenteringar. De behövs för att använda avancerat dynamiskt innehåll i Marketo.
+Marketo är bra på att välja rätt personer för ett program eller en smart kampanj. För mer permanenta personligheter bör du dock använda segmenteringar. De behövs för att använda avancerat dynamiskt innehåll i Marketo.
 
 >[!NOTE]
 >
@@ -82,6 +82,6 @@ När du har konfigurerat de här personerna (_och_ du använder arbetsytor) vill
 
    >[!NOTE]
    >
-   >I dialogrutan visas de arbetsytor som du har behörighet att visa. Det är därför Marketo rekommenderar att du skapar och delar segment från standardarbetsytan som har synlighet i alla arbetsytor och partitioner.
+   >I dialogrutan visas de arbetsytor som du har behörighet att visa. Därför rekommenderar Marketo att du skapar och delar segment från standardarbetsytan som har synlighet i alla arbetsytor och partitioner.
 
 Ursprungsmappen visas i databasträdet med en pil som anger att den delas med andra arbetsytor. I den delade arbetsytan visas mappen med ett lås som anger att innehållet i mappen har delats från en annan arbetsyta och är skrivskyddat.
