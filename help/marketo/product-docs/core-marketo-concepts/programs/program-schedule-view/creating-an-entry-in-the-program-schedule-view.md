@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147102
-description: Skapa ett inlägg i programschemavy - Marketo Docs - Produktdokumentation
+description: Skapa ett bidrag i programschemavy - Marketo Docs - produktdokumentation
 title: Skapa ett inlägg i programschemavy
+exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
 
 ---
-
 
 # Skapa en post i programschemavy {#creating-an-entry-in-the-program-schedule-view}
 
@@ -59,7 +59,7 @@ Du kan skapa poster i programschemavyn för att komplettera ett befintligt progr
 
    >[!NOTE]
    >
-   >Att göra är en [anpassad post](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md). Du kan göra en att göra-uppgift och andra anpassade poster för att hålla reda på objekt som inte finns på Marketo-dagordning.
+   >Att göra är en [anpassad post](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md). Du kan göra en att göra-uppgift och andra anpassade poster för att hålla reda på saker som inte finns i Marketo dagordning.
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
