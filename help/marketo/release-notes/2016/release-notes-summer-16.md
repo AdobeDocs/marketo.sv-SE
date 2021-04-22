@@ -2,22 +2,22 @@
 unique-page-id: 11380218
 description: Versionsinformation -Sommaren 16 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - Sommaren 16
+exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '783'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: Sommaren &#39;16 {#release-notes-summer}
 
-Följande funktioner ingår i sommarversionen 16. Se om din Marketo-utgåva har funktioner tillgängliga. Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion.
+Följande funktioner ingår i sommarversionen 16. Se om det finns funktioner i din Marketo-utgåva. Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion.
 
 ## [Kontobaserad marknadsföring](https://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
 
-Marketo Account Based Marketing tillhandahåller allt i en och samma plattform:
+Marketo Account Based Marketing innehåller allt i en och samma plattform:
 
 * **Mål**  - Kontoidentifiering, Lead till konto-matchning och Named Account Lists
 * **Engagemang**  - kontobaserad personalisering, flerkanalsengagemang och kontospecifika arbetsflöden
@@ -27,7 +27,7 @@ Marketo Account Based Marketing tillhandahåller allt i en och samma plattform:
 
 >[!NOTE]
 >
->ABM finns som tillägg till din Marketto-prenumeration, så kontakta din säljare för att få det implementerat.
+>ABM finns som tillägg till din Marketo-prenumeration, så kontakta din säljare för att få det implementerat.
 
 ## [Granskningsspår](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md) {#audit-trail}
 
@@ -39,9 +39,9 @@ Granskningsspårning ger en omfattande historik över de ändringar som gjorts i
 
 ![](assets/audit-trail.png)
 
-## [Marketo-Vibes SMS LaunchPoint Integration](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
+## [Marketo-Vibes SMS LaunchPoint-integrering](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
 
-Skapa enkelt SMS-meddelanden direkt inifrån Marketo. Anpassa och inrikta ert budskap med hjälp av era omfattande Marketo-data och övervaka enkelt hur det fungerar med SMS-meddelandeinstrumentpanelen.
+Skapa enkelt SMS-meddelanden direkt i Marketo. Anpassa och anpassa ert budskap med hjälp av era omfattande Marketo-data och övervaka enkelt hur det fungerar med SMS-meddelandeinstrumentpanelen.
 
 >[!NOTE]
 >
@@ -104,12 +104,12 @@ Visa innehållsanalyser och rekommendationer offline.
 
 Redan befintliga resurs-API:er, som tidigare bara var kompatibla med e-post och mallar i version 1.0, är nu aktiverade för e-postresurser i version 2.0.
 
-## [Marketo Developers Site](https://developers.marketo.com/) {#marketo-developers-site}
+## [Marketo Developer Site](https://developers.marketo.com/) {#marketo-developers-site}
 
 Nytt och förbättrat!
 
 ## [Sekretessinställningar](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
-Marknadsförarna kan använda integritetsinställningar för att bestämma om de ska spåra besökare med hjälp av Munchkin- och webbpersonaliseringsfunktionerna. Spårningsnivån styrs av webbläsarens inställningen Spåra inte, en cookie för avanmälan eller en icke-specifik IP-adress. Dessa metoder kan påverka Marketos värde och funktioner i specifika områden, men om marknadsföraren inte ändrar någonting ändras inte Marketos funktion.
+Marknadsförarna kan använda integritetsinställningar för att bestämma om de ska spåra besökare med hjälp av Munchkin- och webbpersonaliseringsfunktionerna. Spårningsnivån styrs av webbläsarens inställningen Spåra inte, en cookie för avanmälan eller en icke-specifik IP-adress. Dessa metoder kan påverka Marketo värde och funktionalitet inom specifika områden, men om marknadsföraren inte ändrar någonting ändras inte funktionen i Marketo.
 
 Den här funktionen kommer gradvis att lanseras för kunderna under en period av sex veckor. Kontakta Marketo Support om du behöver det direkt.
