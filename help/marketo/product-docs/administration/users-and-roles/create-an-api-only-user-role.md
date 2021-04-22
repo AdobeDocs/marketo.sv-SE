@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360203
-description: Skapa en användarroll endast för API - Marketo Docs - Produktdokumentation
+description: Skapa en användarroll endast för API - Marketo Docs - produktdokumentation
 title: Skapa en användarroll endast för API
 translation-type: tm+mt
 source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
@@ -19,7 +19,7 @@ Om du vill integrera med Marketo via [REST API](https://developers.marketo.com/d
 >
 >**Administratörsbehörigheter krävs**
 
-1. Klicka på **Admin** på Min marknad.
+1. I Min Marketo klickar du på **Admin**.
 
    ![](assets/adminhand-1.png)
 
