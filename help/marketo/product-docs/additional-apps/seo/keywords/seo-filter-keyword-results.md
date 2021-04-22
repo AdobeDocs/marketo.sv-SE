@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949208
-description: SEO - Filtrera nyckelordsresultat - Marketo Docs - Produktdokumentation
+description: SEO - filtrera nyckelordsresultat - Marketo Docs - produktdokumentation
 title: SEO - filtrera nyckelordsresultat
+exl-id: 8f237814-09b7-4041-9fe7-bb9a6ce016ca
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Filtrera nyckelordsresultat {#seo-filter-keyword-results}
 
