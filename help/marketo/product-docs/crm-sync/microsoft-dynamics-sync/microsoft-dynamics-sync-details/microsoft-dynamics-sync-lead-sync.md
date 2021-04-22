@@ -2,22 +2,22 @@
 unique-page-id: 3571848
 description: Microsoft Dynamics Sync -Lead Sync - Marketo Docs - Produktdokumentation
 title: Microsoft Dynamics Sync - Lead Sync
+exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
 
 ---
 
-
 # Microsoft Dynamics Sync: Leadsynkronisering {#microsoft-dynamics-sync-lead-sync}
 
-Marketo to Dynamics sync är superkraftfull. Här är detaljerna:
+Synkroniseringen mellan Marketo och Dynamics är superkraftfull. Här är detaljerna:
 
 ## Hur synkroniseras informationen mellan de två systemen? {#how-are-details-kept-in-sync-between-the-two-systems}
 
-Synkroniseringen är dubbelriktad. Om du ändrar något av lead i Dynamics eller en person i Marketo återspeglas uppdateringen i båda systemen.
+Synkroniseringen är dubbelriktad. Om du ändrar något i ett lead i Dynamics eller en person i Marketo återspeglas uppdateringen i båda systemen.
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ Synkroniseringen är dubbelriktad. Om du ändrar något av lead i Dynamics eller
 
 ## Vad händer om samma fält ändras i båda systemen samtidigt? (datakollision) {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
-Trots att detta är sällsynt kommer Marketo att vinna för människor (leads) och Dynamics kommer att vinna för kontakter. Detta beror på att vi anser att marknadsföringsavdelningen är auktoritativ för människor, medan det officiella systemet för kontakter finns på försäljningsavdelningen (CRM).
+Även om detta är sällsynt kommer Marketo att vinna för människor (leads) och Dynamics kommer att vinna för kontakter. Detta beror på att vi anser att marknadsföringsavdelningen är auktoritativ för människor, medan det officiella systemet för kontakter finns på försäljningsavdelningen (CRM).
 
 ## Kan jag skapa en lead i Dynamics med Marketo? {#can-i-create-a-lead-in-dynamics-using-marketo}
 
