@@ -1,18 +1,18 @@
 ---
-description: Standardfältmappning för Dynamics - Marketo Docs - Produktdokumentation
+description: Standardfältmappning för Dynamics - Marketo Docs - produktdokumentation
 title: Fältmappning för standardDynamics
+exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '528'
-ht-degree: 1%
+ht-degree: 16%
 
 ---
 
-
 # Standardfältmappning för Dynamics {#default-dynamics-field-mapping}
 
-När du först synkroniserar ditt Markto-konto med Microsoft skapar Marketo automatiskt dessa associationer mellan dina inbyggda Dynamics- och Marketo-fält.  Marketo synkroniserar även dina anpassade fält på leads, konton, säljprojekt och kontakter.
+När du först synkroniserar ditt Marketo-konto med Microsoft skapar Marketo automatiskt dessa associationer mellan de inbyggda fälten i Dynamics och Marketo.  Marketo synkroniserar även dina anpassade fält på leads, konton, säljprojekt och kontakter.
 
 ## Leadfält {#lead-fields}
 
@@ -24,7 +24,7 @@ När du först synkroniserar ditt Markto-konto med Microsoft skapar Marketo auto
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Marketo-fält</th> 
+   <th>Marketo Field</th> 
    <th>MS Dynamics-fält</th> 
    <th>API-namn för MS Dynamics</th> 
   </tr> 
@@ -34,8 +34,8 @@ När du först synkroniserar ditt Markto-konto med Microsoft skapar Marketo auto
    <td>skapad</td> 
   </tr> 
   <tr> 
-   <td>Hälsning</td> 
-   <td>Hälsning</td> 
+   <td>Titel</td> 
+   <td>Titel</td> 
    <td>hälsning</td> 
   </tr> 
   <tr> 
@@ -64,7 +64,7 @@ När du först synkroniserar ditt Markto-konto med Microsoft skapar Marketo auto
    <td>jobtitle</td> 
   </tr> 
   <tr> 
-   <td>Telefon</td> 
+   <td>Tel.</td> 
    <td>Telefon, arbete</td> 
    <td>telefon1</td> 
   </tr> 
@@ -89,7 +89,7 @@ När du först synkroniserar ditt Markto-konto med Microsoft skapar Marketo auto
    <td>address1_city</td> 
   </tr> 
   <tr> 
-   <td>Läge</td> 
+   <td>Stat</td> 
    <td>Stat/provins</td> 
    <td>address1_stateorregion</td> 
   </tr> 
@@ -129,7 +129,7 @@ När du först synkroniserar ditt Markto-konto med Microsoft skapar Marketo auto
    <td>donotphone</td> 
   </tr> 
   <tr> 
-   <td>Avbeställ</td> 
+   <td>Avprenumererad</td> 
    <td>Massinte e-post</td> 
    <td>donotbulkemi</td> 
   </tr> 
@@ -191,7 +191,7 @@ När du först synkroniserar ditt Markto-konto med Microsoft skapar Marketo auto
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Marketo-fält</th> 
+   <th>Marketo Field</th> 
    <th>MS Dynamics-fält</th> 
    <th>API-namn för MS Dynamics</th> 
   </tr> 
@@ -201,8 +201,8 @@ När du först synkroniserar ditt Markto-konto med Microsoft skapar Marketo auto
    <td>skapad</td> 
   </tr> 
   <tr> 
-   <td>Hälsning</td> 
-   <td>Hälsning</td> 
+   <td>Titel</td> 
+   <td>Titel</td> 
    <td>hälsning</td> 
   </tr> 
   <tr> 
@@ -231,7 +231,7 @@ När du först synkroniserar ditt Markto-konto med Microsoft skapar Marketo auto
    <td>jobtitle</td> 
   </tr> 
   <tr> 
-   <td>Telefon</td> 
+   <td>Tel.</td> 
    <td>Telefon, arbete</td> 
    <td>telefon1</td> 
   </tr> 
@@ -250,7 +250,7 @@ När du först synkroniserar ditt Markto-konto med Microsoft skapar Marketo auto
    <td>address1_city</td> 
   </tr> 
   <tr> 
-   <td>Läge</td> 
+   <td>Stat</td> 
    <td>Adress 1: Stat/provins</td> 
    <td>address1_stateorregion</td> 
   </tr> 
@@ -279,7 +279,7 @@ När du först synkroniserar ditt Markto-konto med Microsoft skapar Marketo auto
    <td>donotphone</td> 
   </tr> 
   <tr> 
-   <td>Avbeställ</td> 
+   <td>Avprenumererad</td> 
    <td>Massinte e-post</td> 
    <td>donotbulkemi</td> 
   </tr> 
@@ -321,7 +321,7 @@ När du först synkroniserar ditt Markto-konto med Microsoft skapar Marketo auto
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Marketo-fält</th> 
+   <th>Marketo Field</th> 
    <th>MS Dynamics-fält</th> 
    <th>API-namn för MS Dynamics</th> 
   </tr> 
@@ -346,7 +346,7 @@ När du först synkroniserar ditt Markto-konto med Microsoft skapar Marketo auto
    <td>address1_country</td> 
   </tr> 
   <tr> 
-   <td>Postnummer för fakturering</td> 
+   <td>Faktureringspostnummer</td> 
    <td>Adress 1: Postnummer</td> 
    <td>address1_postalcode</td> 
   </tr> 
@@ -361,8 +361,8 @@ När du först synkroniserar ditt Markto-konto med Microsoft skapar Marketo auto
    <td>address1_line3</td> 
   </tr> 
   <tr> 
-   <td>Huvudtelefon</td> 
-   <td>Huvudtelefon</td> 
+   <td>Telefon</td> 
+   <td>Telefon</td> 
    <td>telefon1</td> 
   </tr> 
   <tr> 
@@ -381,8 +381,8 @@ När du först synkroniserar ditt Markto-konto med Microsoft skapar Marketo auto
    <td>statcode</td> 
   </tr> 
   <tr> 
-   <td>Årsintäkt</td> 
-   <td>Årsintäkt</td> 
+   <td>Årlig intäkt</td> 
+   <td>Årlig intäkt</td> 
    <td>omsättning</td> 
   </tr> 
   <tr> 
@@ -396,8 +396,8 @@ När du först synkroniserar ditt Markto-konto med Microsoft skapar Marketo auto
    <td>industrycode</td> 
   </tr> 
   <tr> 
-   <td>SIC-kod</td> 
-   <td>SIC-kod</td> 
+   <td>SNI-kod</td> 
+   <td>SNI-kod</td> 
    <td>sic</td> 
   </tr> 
   <tr> 
@@ -419,7 +419,7 @@ Dessa fält skapas i Marketo men kan inte justeras av kunder.
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Marketo-fält</th> 
+   <th>Marketo Field</th> 
    <th>Beskrivning</th> 
   </tr> 
   <tr> 
