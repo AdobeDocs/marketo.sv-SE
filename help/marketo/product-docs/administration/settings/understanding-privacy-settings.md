@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10617187
-description: Understanding Privacy Settings - Marketo Docs - Product Documentation
+description: Sekretessinställningar - Marketo Docs - produktdokumentation
 title: Sekretessinställningar
+exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
 
 ---
-
 
 # Sekretessinställningar {#understanding-privacy-settings}
 
@@ -22,7 +22,7 @@ Marketo ger marknadsförarna ett sätt att få webbbesökarnas samtycke att spå
 
 Marknadsföraren kan också spåra användare, men använda en anonym IP-adress.
 
-Dessa metoder kan påverka Marketos värde och funktionalitet inom specifika områden. Om marknadsföraren *inte* ändrar något i Marketos konfiguration ändras inte Marketo-funktionen.
+Dessa metoder kan påverka Marketo värde och funktionalitet inom vissa områden. Om marknadsföraren *inte* ändrar något i Marketo-konfigurationen är dock Marketo-funktionen densamma.
 
 ## Webbläsarinställningar för Do Not Track {#browser-settings-for-do-not-track}
 
@@ -62,7 +62,7 @@ Verifiera att du är en cookie och klicka på länken för att bekräfta att coo
 
 ## Anmäl dig till {#opt-in}
 
-Marknadsförarna kan göra det möjligt för användare att anmäla sig genom att använda Marketos funktioner för e-post, formulär, landningssidor och andra metoder.
+Marknadsförarna kan ge användare möjlighet att anmäla sig genom att använda Marketo funktioner för e-post, formulär, landningssidor och andra metoder.
 
 ## Spåra med hjälp av en anonym IP {#tracking-using-an-anonymized-ip}
 
