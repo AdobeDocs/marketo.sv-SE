@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147074
-description: Automatisk rensning av kampanjrensning - Marketo Docs - Produktdokumentation
+description: Automatisk rensning av kampanjrensning - Marketo Docs - produktdokumentation
 title: Automatisk rensning av utlösarkampanj
+exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 0%
 
 ---
-
 
 # Automatisk rensning av utlösarkampanj {#automatic-trigger-campaign-cleanup}
 
@@ -17,7 +17,7 @@ Marketo har en trevlig/kostnadsfri tjänst för att inaktivera utlösta smarta k
 
 ## Vad händer? {#what-happens}
 
-En gång i kvartalet kommer Marketo att hitta smarta kampanjer som har stannat (inga personer) i sex månader eller mer och inaktivera dem.
+En gång i kvartalet kommer Marketo att hitta smarta kampanjer som har stannat (inga personer) i minst sex månader och inaktivera dem.
 
 ## Kan du meddela mig först? {#will-you-notify-me-first}
 
