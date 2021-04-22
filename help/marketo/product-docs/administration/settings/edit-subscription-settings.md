@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10099785
-description: Redigera prenumerationsinställningar - Marketo Docs - Produktdokumentation
+description: Redigera prenumerationsinställningar - Marketo Docs - produktdokumentation
 title: Redigera prenumerationsinställningar
+exl-id: 005eaf79-60f5-45d5-bf73-e55f93553d64
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
-
 # Redigera prenumerationsinställningar {#edit-subscription-settings}
 
-Om du har tillgång till flera Marketo-prenumerationer och vill vara säker på vilken du använder kan du prova att ge var och en ett unikt namn. Namnet visas sedan högst upp på prenumerationssidan.
+Om du har tillgång till flera Marketo-prenumerationer och vill vara säker på vilken du använder kan du prova att ge var och en av dem ett unikt namn. Namnet visas sedan högst upp på prenumerationssidan.
 
-Om du till exempel arbetar i både produktion och sandlådeinstanser kan du namnge en prenumeration **Marketo Production** och den andra **Marketo Sandbox**.
+Om du till exempel arbetar i både produktions- och sandlådeinstanser kan du namnge en prenumeration **Marketo Production** och den andra **Marketo Sandbox**.
 
 ![](assets/image2016-4-8-14-3a34-3a28.png)
 
