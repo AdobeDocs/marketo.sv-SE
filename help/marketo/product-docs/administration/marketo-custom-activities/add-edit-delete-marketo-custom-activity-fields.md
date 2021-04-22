@@ -1,23 +1,23 @@
 ---
 unique-page-id: 10100275
-description: Lägg till/redigera/ta bort markering i anpassade aktivitetsfält - Marketo-dokument - produktdokumentation
-title: Lägg till/redigera/ta bort markering i anpassade aktivitetsfält
+description: Lägg till/redigera/ta bort anpassade aktivitetsfält för Marketo - Marketo Docs - produktdokumentation
+title: Lägg till/redigera/ta bort anpassade aktivitetsfält för Marketo
+exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
 
 ---
 
-
-# Lägg till/redigera/ta bort markering i anpassade aktivitetsfält {#add-edit-delete-marketo-custom-activity-fields}
+# Lägg till/redigera/ta bort anpassade aktivitetsfält för Marketo {#add-edit-delete-marketo-custom-activity-fields}
 
 Du kan behöva lägga till, ändra eller ta bort ett anpassat aktivitetsfält. Så här gör du.
 
 ## Lägg till ett anpassat aktivitetsfält {#add-a-custom-activity-field}
 
-1. Klicka på **Fält** i Anpassade aktiviteter i Marketo.
+1. Klicka på **Fält** i Anpassade aktiviteter för Marketo.
 
    ![](assets/one-3.png)
 
@@ -45,7 +45,7 @@ Du kan behöva lägga till, ändra eller ta bort ett anpassat aktivitetsfält. S
 
 ## Redigera ett anpassat aktivitetsfält {#edit-a-custom-activity-field}
 
-1. Klicka på **Fält** i Anpassade aktiviteter i Marketo.
+1. Klicka på **Fält** i Anpassade aktiviteter för Marketo.
 
    ![](assets/one-3.png)
 
@@ -81,7 +81,7 @@ Fältet är nu redigerat!
 
 ## Ta bort ett anpassat aktivitetsfält {#delete-a-custom-activity-field}
 
-1. Klicka på **Fält** i Anpassade aktiviteter i Marketo.
+1. Klicka på **Fält** i Anpassade aktiviteter för Marketo.
 
    ![](assets/one-3.png)
 
