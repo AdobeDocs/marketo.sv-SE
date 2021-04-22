@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147091
-description: Understanding Program Membership - Marketo Docs - produktdokumentation
+description: Understanding Program Membership - Marketo Docs - Product Documentation
 title: Förstå programmedlemskap
+exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 translation-type: tm+mt
-source-git-commit: d78ecbec87d69cde66b583d21d7e0c95539bb6ec
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
 
 ---
-
 
 # Om programmedlemskap {#understanding-program-membership}
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 1. Du använder flödessteget [Ändra programstatus](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md).
 1. En person registrerar eller deltar i ett [webbinarium som är synkroniserat med ett händelseprogram](/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md).
-1. En person [skapas med Marketo iPad-incheckningsprogrammet](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
+1. En person [skapas med Marketo iPad-incheckningsprogram](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 1. En person läggs till i en SFDC-kampanj som är [synkroniserad med programmet](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md).
 
 >[!NOTE]
@@ -60,7 +60,7 @@ Syftet med ett program är att skapa en meningsfull interaktion med personen ell
 
 ## Anskaffningsprogram {#acquisition-program}
 
-När ett nytt namn kommer in i systemet som programmedlem, anger Marketo automatiskt det programmet som&quot;förvärv&quot;. Detta skapar kredit för [First Touch-attribuering](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+När ett nytt namn kommer in i systemet som programmedlem anger Marketo automatiskt det programmet som&quot;förvärv&quot;. Detta skapar kredit för [First Touch-attribuering](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 >[!MORELIKETHIS]
 >
