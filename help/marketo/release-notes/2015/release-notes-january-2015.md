@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4720758
-description: Versionsinformation -januari 2015 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -januari 2015 - Marketo Docs - produktdokumentation
 title: Versionsinformation - januari 2015
+exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '361'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: Januari 2015 {#release-notes-january}
 
-Följande funktioner ingår i januari 2015-versionen. Kontrollera om din Marketo Edition innehåller funktioner. Efter releasen måste du komma tillbaka för att hitta länkar till detaljerade artiklar för varje funktion!
+Följande funktioner ingår i januari 2015-versionen. Kontrollera om det finns funktioner i Marketo Edition. Efter releasen måste du komma tillbaka för att hitta länkar till detaljerade artiklar för varje funktion!
 
 ## Automatiseringsuppdateringar {#marketing-automation-updates}
 
@@ -39,7 +39,7 @@ Nu kan du komma åt anpassade objekt som är kopplade till kontoobjektet inifrå
 
 ## Realtidspersonalisering {#real-time-personalization}
 
-**Personaliserad Remarketing för Google och Facebook**
+**Personaliserad marknadsföring för Google och Facebook**
 
 Marknadsföring visar annonser för personer som har besökt din webbplats. Nu kan du personalisera dina återmarknadsföringskampanjer på [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) och [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) med data från Real-Time Personalization. Marknadsför till målgrupper från olika branscher, namngivna kontolistor, företagsstorlekar eller data från kända leads.
 
