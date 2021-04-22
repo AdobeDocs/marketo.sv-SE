@@ -1,14 +1,14 @@
 ---
-description: Konfigurera Microsoft Dynamics CRM App för Online - Marketo Docs - Produktdokumentation
+description: Konfigurera Microsoft Dynamics CRM-appen för Online - Marketo Docs - Produktdokumentation
 title: Konfigurera Microsoft Dynamics CRM-appen för Online
+exl-id: ec3123c9-e484-4736-9831-9559cc393bd9
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 0%
 
 ---
-
 
 # Konfigurera Microsoft Dynamics CRM-appen för Online {#set-up-microsoft-dynamics-crm-app-for-online}
 
@@ -46,11 +46,11 @@ Ytterligare referenser [finns här](https://docs.microsoft.com/en-us/azure/activ
 
 När du är klar är det dags att **ange det Dynamics CRM-genererade klient-ID:t och hemligheten i Marketo**.
 
-## Ange det Dynamics CRM-genererade klient-ID:t och hemligheten i Marketo {#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}
+## Ange det Dynamics CRM-genererade klient-ID och hemlighet i Marketo {#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}
 
 Följande steg gäller för online-versionerna _och_ On-prem.
 
-1. I Marketo klickar du på **Admin**.
+1. Klicka på **Admin** i Marketo.
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-5.png)
 
