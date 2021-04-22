@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951095
-description: Versionsinformation -juni 2013 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -juni 2013 - Marketo Docs - produktdokumentation
 title: Versionsinformation -juni 2013
+exl-id: c4f022f2-e579-42ed-9e47-00dcd96d0e6f
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
-
 
 # Versionsinformation: Juni 2013 {#release-notes-june}
 
@@ -17,7 +17,7 @@ Följande funktioner finns i juniversionen.
 
 ## Ytterligare användarspråk {#additional-user-languages}
 
-Se gränssnittet Marketo Lead Management på ditt språk - som nu stöder spanska och portugisiska.
+Se Marketo Lead Management-gränssnittet på ditt språk - som nu stöder spanska och portugisiska.
 
 ![](assets/image2014-9-22-16-3a25-3a54.png)
 
