@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949471
-description: Checklista för installation - Marketo Docs - Produktdokumentation
+description: Checklista för installation - Marketo Docs - produktdokumentation
 title: Konfigurera checklista
+exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
 translation-type: tm+mt
-source-git-commit: aff16097f274ade1aa3877c9bba6080a87d22bc0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
 
 ---
-
 
 # Konfigurera checklista {#setup-checklist}
 
@@ -26,7 +26,7 @@ Välkommen till Marketo! Du kan använda följande checklista som en visuell att
 1. Anpassa URL:er för landningssidor
 1. Välj en CNAME för landningssida
 1. Be IT-avdelningen att skapa en DNS-post för Landing Page CNAME
-1. När det är klart anger du domännamnet för landningssidan i Marketo
+1. När det är klart konfigurerar du landningssidans domännamn i Marketo
 
 ## Säkerställ e-postleverans {#ensure-email-deliverability}
 
