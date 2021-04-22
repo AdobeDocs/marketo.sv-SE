@@ -2,18 +2,18 @@
 unique-page-id: 2360370
 description: Matcha programstatus och Salesforce-kampanjstatus före synkronisering - Marketo Docs - produktdokumentation
 title: Matcha programstatus och Salesforce-kampanjstatus före synkronisering
+exl-id: 623676ff-ce63-484f-8467-71127fa40fe0
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
 
 ---
 
-
 # Matcha programstatus och Salesforce-kampanjstatus före synkronisering {#how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync}
 
-I den här artikeln beskrivs hur du åtgärdar ett inkompatibelt statusfel och mappar statusvärden före synkroniseringen av Marketo Program och Salesforce Campaign.
+I den här artikeln beskrivs hur du åtgärdar ett inkompatibelt statusfel och mappar statusvärden innan du synkroniserar Marketo Program och Salesforce Campaign.
 
 ## Vad gör du om du fick ett felmeddelande {#what-do-you-do-if-you-received-an-error-message}?
 
@@ -26,5 +26,5 @@ I det här felmeddelandet kan du välja att:
 1. Välj en annan kampanj att synkronisera med i listrutan, ELLER
 1. Du kan avbryta, åtgärda statusfelen och försöka synkronisera när felen har reparerats. Gör något av följande om du vill åtgärda statusfelen:
 
-   * Logga in i Salesforce och ta bort eller byt namn på de inkompatibla Campaign-medlemsstaterna för att mappa till Marketo-programstatusarna som används för den kanaltyp som är associerad med Marketo-programmet.
-   * Ändra programstatus i Marknad för att mappa till de Salesforce Campaign-medlemsstater du har. Det här är en Marketo Admin-funktion. Mer information finns i [Skapa en programkanal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+   * Logga in i Salesforce och ta bort eller byt namn på de inkompatibla kampanjmedlemsstaterna för att mappa till de Marketo-programstatusar som används för den kanaltyp som är kopplad till ditt Marketo-program.
+   * Ändra programstatusvärdena i Marketo för att mappa till de Salesforce Campaign-medlemsstater ni har på plats. Det här är en Marketo Admin-funktion. Mer information finns i [Skapa en programkanal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
