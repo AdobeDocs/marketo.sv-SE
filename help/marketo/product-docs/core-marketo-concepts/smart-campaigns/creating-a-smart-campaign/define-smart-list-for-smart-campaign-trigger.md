@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146942
-description: Definiera smart lista för smart kampanj | Utlösare - Marketo Docs - Produktdokumentation
+description: Definiera smart lista för smart kampanj | Utlösare - Marketo Docs - produktdokumentation
 title: Definiera smart lista för smart kampanj | Utlösare
+exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
 
 ---
-
 
 # Definiera smart lista för smart kampanj | Utlösare {#define-smart-list-for-smart-campaign-trigger}
 
