@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360358
-description: Begränsa användarinloggning till enbart SSO - Marketo Docs - Produktdokumentation
+description: Begränsa användarinloggning till enbart enkel inloggning - Marketo Docs - produktdokumentation
 title: Begränsa användarinloggning till enbart enkel inloggning
+exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%
 
 ---
-
 
 # Begränsa användarinloggning till enbart enkel inloggning {#restrict-user-login-to-sso-only}
 
