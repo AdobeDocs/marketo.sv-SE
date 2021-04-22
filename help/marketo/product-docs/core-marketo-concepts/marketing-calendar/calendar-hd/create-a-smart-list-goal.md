@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7504128
-description: Skapa ett smart listmål - Marketo Docs - Produktdokumentation
+description: Skapa ett smart listmål - Marketo Docs - produktdokumentation
 title: Skapa ett mål för en smart lista
+exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
 
 ---
 
-
 # Skapa ett mål för en smart lista {#create-a-smart-list-goal}
 
-Målen är sätt att följa utvecklingen och motivera ert team. De kan kombineras med smarta listor för att spåra alla typer av saker i Marketo. När du har skapat ett mål för en smart lista uppdateras den automatiskt varannan timme när den används i en presentation.
+Målen är sätt att följa utvecklingen och motivera ert team. De kan kombineras med smarta listor för att spåra olika sorters saker i Marketo. När du har skapat ett mål för en smart lista uppdateras den automatiskt varannan timme när den används i en presentation.
 
 Precis som för presentationer är målen [arbetsyta](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)-specifika.
 
