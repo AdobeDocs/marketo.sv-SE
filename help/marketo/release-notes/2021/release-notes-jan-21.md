@@ -1,18 +1,18 @@
 ---
 description: Versionsinformation - jan 2021 - Marketo Docs - produktdokumentation
 title: Versionsinformation - jan 2021
+exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: 073b73255d49f859c32c8b4793e6798f02f7a5c4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: Jan 2021 {#release-notes-jan-21}
 
-Följande funktioner finns i jan 21. Se om din Marketo-utgåva har funktioner tillgängliga.
+Följande funktioner finns i jan 21. Se om det finns funktioner i din Marketo-utgåva.
 
 >[!AVAILABILITY]
 >
@@ -34,7 +34,7 @@ Följande funktioner kommer att släppas den 15 januari 2021 **.**
 
 ## Landningssidor och Forms {#landing-pages-and-forms}
 
-* **Formulär-API**: Hämta in leadinformation eller aktivera närliggande kampanjer och hämta data från icke-marknadsföringsformulär. Formulär som inte är marknadsbaserade kan integreras med Marketo Engage via REST API. Det nya API:t gör det möjligt att efterlikna Marketo Engage-formulärinlämning med alla tillhörande funktioner.
+* **Formulär-API**: Hämta in leadinformation eller aktivera närliggande kampanjer och hämta data från andra formulär än Marketo. Formulär från andra företag än Marketo kan integreras med Marketo Engage via REST API. Det nya API:t gör det möjligt att efterlikna Marketo Engage-formulärinlämning med alla tillhörande funktioner.
 * **API** för landningssidor: Effektivisera redigerings- och översättningsarbetsflödena i integrerade program med det nya programmeringsgränssnittet Landing Page Preview. Tredjepartsleverantörer kan nu återge helt personliga förhandsvisningar av landningssidor utan att logga in på Marketo Engage.  API:t för landningssidförhandsvisning möjliggör kompletta redigerings- och lokaliseringsarbetsflöden i tredjepartsintegrerade program.
 
 ## E-postmarknadsföring {#email-marketing}
@@ -43,7 +43,7 @@ Följande funktioner kommer att släppas den 15 januari 2021 **.**
 
 ## Salesforce CRM-integrering {#salesforce-crm-integration}
 
-* [Salesforce CRM-autentisering](/help/marketo/product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md): Protokollet OAuth 2.0 är tillgängligt för synkroniseringsåtgärder mellan Marketo Engage och Salesforce CRM. För nya prenumeranter är det här alternativet aktiverat som standard. Aktuella prenumeranter kan begära den här funktionen genom att kontakta Marketo Support.
+* [Salesforce CRM-autentisering](/help/marketo/product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md): Protokollet OAuth 2.0 är tillgängligt för synkroniseringsåtgärder mellan Marketo Engage och Salesforce CRM. För nya prenumeranter är det här alternativet aktiverat som standard. Prenumeranter kan begära den här funktionen genom att kontakta Marketo Support.
 * [Salesforce CRM Syncing Dashboard](/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md): Administratörer kan snabbt granska Salesforce CRM-synkroniseringsstatus från kontrollpanelen. Tidsrymden för synkroniseringsrapporten har ökat från 2 timmar till 5 dagar.
 * **Export** av metadata: Förbättrat för att stödja attribut för affärsmöjlighetsobjekt, namngivna konton, programmedlemmens standardfält och anpassade fält.
 
