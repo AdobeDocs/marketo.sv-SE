@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146958
-description: Skicka varning - Marketo Docs - Produktdokumentation
+description: Skicka avisering - Marketo Docs - produktdokumentation
 title: Skicka avisering
+exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
-
 
 # Skicka avisering {#send-alert}
 
