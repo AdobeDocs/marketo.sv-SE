@@ -1,15 +1,15 @@
 ---
 unique-page-id: 37356429
-description: Skapa aktivitet i Microsoft - Marketo Docs - Produktdokumentation
+description: Skapa uppgift i Microsoft - Marketo Docs - produktdokumentation
 title: Skapa uppgift i Microsoft
+exl-id: b9ae425b-edf1-4aae-92f4-e7c6cf647cdc
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
-
 
 # Skapa aktivitet i Microsoft {#create-task-in-microsoft}
 
