@@ -2,18 +2,18 @@
 unique-page-id: 10099389
 description: Marketo Plugin Releases for Microsoft Dynamics - Marketo Docs - Produktdokumentation
 title: Marketo Plugin Releases for Microsoft Dynamics
+exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 6%
 
 ---
 
-
 # Marketo Plugin Releases for Microsoft Dynamics {#marketo-plugin-releases-for-microsoft-dynamics}
 
-När du först synkroniserar med Microsoft Dynamics hämtar du den senaste versionen av plugin-programmen för Marketo. Marketo uppdaterar dessa plugin-program regelbundet så att du kan gå tillbaka till samma ställe och ladda ned den nya versionen.
+När du först synkroniserar med Microsoft Dynamics hämtar du den senaste versionen av plugin-programmen för Marketo. Marketo uppdaterar regelbundet dessa plugin-program så att du kan gå tillbaka till samma ställe och ladda ned den nya versionen.
 
 [Hämta den senaste ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) pluginmodulen som motsvarar din Dynamics-release.
 
@@ -86,14 +86,14 @@ När du först synkroniserar med Microsoft Dynamics hämtar du den senaste versi
    <td colspan="1">Felkorrigering: När leadet hade ett synkroniseringsfilter inställt på NO, och affärsmöjligheten och kontakten inte hade något synkroniseringsfilter, genererades inte Skapa logg för kontakten och affärsmöjligheten när leadet kvalificerades.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">2.0.0.16</td> 
+   <td colspan="1">4.0.0.16</td> 
    <td colspan="1">3/29/16</td> 
    <td>Felkorrigering: En Tilldelningshändelse loggades när synkroniseringsfiltret stängdes av.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.15</td> 
    <td colspan="1">3/3/16</td> 
-   <td colspan="1">Felkorrigering: Kunden kunde inte skapa ett lead i CRM eftersom inloggningsanvändaren inte har behörighet för Marketo Config.</td> 
+   <td colspan="1">Felkorrigering: Kunden kunde inte skapa ett lead i CRM eftersom inloggningsanvändaren inte har Marketo Config-behörighet.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.14</td> 
