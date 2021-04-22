@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949182
-description: SEO - Förstå nyckelord - Marketo Docs - Produktdokumentation
+description: SEO - Förstå nyckelord - Marketo Docs - produktdokumentation
 title: SEO - Förstå nyckelord
+exl-id: 33a350c9-7b57-4031-b916-58d2b12c1927
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Förstå nyckelord {#seo-understanding-keywords}
 
