@@ -2,22 +2,22 @@
 unique-page-id: 12977326
 description: Versionsinformation -April '17 ABM Enhancements - Marketo Docs - Produktdokumentation
 title: Versionsinformation -April '17 ABM-förbättringar
+exl-id: 2b8b1ed2-de57-42c2-a3f5-3b49895d7595
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: 17 april-förbättringar av ABM {#release-notes-april-abm-enhancements}
 
-Följande funktioner ingår i den förbättrade versionen från april 2017 av ABM. Se om din Marketo-utgåva har funktioner tillgängliga.
+Följande funktioner ingår i den förbättrade versionen från april 2017 av ABM. Se om det finns funktioner i din Marketo-utgåva.
 
 ## Synkronisering av CRM-mappade standardfält {#synching-of-crm-mapped-standard-fields}
 
-Marketo ABM ändrar beteende för CRM. Framöver upprättar och underhåller Marketo ABM en 1:1-relation mellan ABM-konton och konton i CRM. Detta gör att Marketo kan synkronisera mappade kontofält med CRM.
+Marketo ABM ändrar beteende för CRM. Framöver upprättar och underhåller Marketo ABM en 1:1-relation mellan ABM-konton och konton i CRM. På så sätt kan Marketo synkronisera mappade kontofält med CRM.
 
 ## Anpassade fält för CRM-identifiering {#custom-fields-for-crm-discovery}
 
