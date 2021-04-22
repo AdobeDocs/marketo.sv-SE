@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949216
-description: SEO - Lägg till sidor - Marketo-dokument - Produktdokumentation
+description: SEO - Lägg till sidor - Marketo Docs - produktdokumentation
 title: SEO - lägg till sidor
+exl-id: dfb51308-7ee7-43b6-9e56-e820080a6b42
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
-
 
 # SEO - lägg till sidor {#seo-add-pages}
 
