@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953384
-description: Aktivera synkronisering för en anpassad enhet - Marketo Docs - Produktdokumentation
+description: Aktivera synkronisering för en anpassad enhet - Marketo Docs - produktdokumentation
 title: Aktivera synkronisering för en anpassad entitet
+exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
-
 
 # Aktivera synkronisering för en anpassad entitet {#enable-sync-for-a-custom-entity}
 
