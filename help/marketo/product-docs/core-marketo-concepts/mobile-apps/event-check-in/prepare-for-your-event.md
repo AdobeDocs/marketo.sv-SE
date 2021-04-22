@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10099360
-description: Förbered dig för ditt event - Marketo Docs - Produktdokumentation
+description: Förbered dig för ditt event - Marketo Docs - produktdokumentation
 title: Förbered dig för ditt evenemang
+exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
 
 ---
-
 
 # Förbered dig för händelsen {#prepare-for-your-event}
 
@@ -17,7 +17,7 @@ Det finns flera saker du måste göra för att göra dig redo för evenemanget.
 
 ## Skapa en ny Marketo-roll {#create-a-new-marketo-role}
 
-Marketo har en speciell användarroll för incheckningsappen för händelser. [Skapa en ny Marketo-](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) roll för iPad- eller Android-användare med behörighet att komma åt mobilappen.
+Marketo har en särskild användarroll för incheckningsappen för händelser. [Skapa en ny Marketo-](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) roll för iPad- eller Android-användare med behörighet att komma åt mobilprogrammet.
 
 ## Bjud in nya användare på surfplattan till händelsen {#invite-new-tablet-users-to-the-event}
 
@@ -25,7 +25,7 @@ Marketo har en speciell användarroll för incheckningsappen för händelser. [S
 
 ## Skapa ett nytt Marketo Event Program {#create-a-new-marketo-event-program}
 
-[Skapa ett nytt Marketo-](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) händelseprogram som fångar upp personernas status när de går igenom olika faser och får korrekta mått på avkastningen för era marknadsföringssatsningar.
+[Skapa ett nytt Marketo-](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) evenemangsprogram för att fånga upp personernas status när de går igenom olika faser och få korrekta mått på avkastningen för era marknadsföringssatsningar.
 
 ## Ange händelsedatum {#specify-the-event-dates}
 
@@ -47,7 +47,7 @@ Det går snabbt att ställa in dina händelsedatum.
 
 Nu när du känner till *när* är det dags att lägga till *vem*.
 
-1. Om du redan har en lista över personer klickar du på panelen **Databas** i Min Marketto.
+1. Om du redan har en lista över personer klickar du i Min Marketo på **Databas**-rutan.
 
    ![](assets/db.png)
 
