@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949891
-description: Statiska listor - Marketo Docs - Produktdokumentation
+description: Statiska listor - Marketo Docs - produktdokumentation
 title: Statiska listor
+exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%
 
 ---
-
 
 # Statiska listor {#understanding-static-lists}
 
