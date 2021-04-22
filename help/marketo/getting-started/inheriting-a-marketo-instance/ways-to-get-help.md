@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7516931
-description: Sätt att få hjälp - Marketo Docs - Produktdokumentation
+description: Sätt att få hjälp - Marketo Docs - produktdokumentation
 title: Sätt att få hjälp
+exl-id: 4ad05a40-55d5-415b-b5e3-7766eb8c3e1c
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
-
 
 # Sätt att få hjälp {#ways-to-get-help}
 
@@ -21,4 +21,4 @@ Hittar du fortfarande inte det du behöver? Vet du inte vad du inte vet? Kontakt
 
 ![—](assets/seo-30.png) Om du vill få kontakt med vårt team kan du kontakta  **marketoservices@adobe.com**.
 
-![—](assets/education-science-08.png) Gå till  [**Marketo University**](https://learn.marketo.com) för att bygga upp dina färdigheter inom Marketo.
+![—](assets/education-science-08.png) Gå till  [**Marketo University**](https://learn.marketo.com) för att lära dig mer om Marketo.
