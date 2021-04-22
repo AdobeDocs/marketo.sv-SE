@@ -2,14 +2,14 @@
 unique-page-id: 557329
 description: Exportera personer till Excel från en lista eller smart lista - Marketo Docs - produktdokumentation
 title: Exportera personer till Excel från en lista eller smart lista
+exl-id: d2a184e2-fb22-47f7-8368-747fa803233e
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
 
 ---
-
 
 # Exportera personer till Excel från en lista eller smart lista {#export-people-to-excel-from-a-list-or-smart-list}
 
