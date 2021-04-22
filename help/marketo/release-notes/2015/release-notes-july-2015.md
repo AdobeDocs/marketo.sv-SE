@@ -1,21 +1,21 @@
 ---
 unique-page-id: 8783189
-description: Versionsinformation -juli 2015 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -juli 2015 - Marketo Docs - produktdokumentation
 title: Versionsinformation -juli 2015
+exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: Juli 2015 {#release-notes-july}
 
 ## Marketo Moments {#marketo-moments}
 
-Ska vi gå ut på lunch men behöver boka om ett mejl? Appen Marketo Moments, som finns i App Store eller Google Play, ger dig möjlighet att se hur era e-post- och händelsekampanjer fungerar i realtid, samt vad som kommer i framtiden, från din iPhone, iPad eller Android-telefon.
+Ska vi gå ut på lunch men behöver boka om ett mejl? Appen Marketo Moments, som finns i App Store eller Google Play, ger dig möjlighet att se hur e-post- och händelsekampanjer fungerar i realtid, samt vad som kommer i framtiden, från din iPhone, iPad eller Android-telefon.
 
 ![](assets/image2015-7-10-9-3a42-3a29.png)
 
@@ -48,7 +48,7 @@ Har du skapat flera personaliserade RTP-kampanjer och märkt att vissa av dem ka
 
 ## Företags-API {#company-api}
 
-**Åtkomst till företagsobjekt via REST API**: REST API ger nu åtkomst till Marketo Company (alias). Konto). Det innebär att du kan läsa, uppdatera och ta bort företagsobjekt som du har skapat i Marketo och associera leads med sådana företag med hjälp av det uppdaterade lead-API:t.
+**Åtkomst till företagsobjekt via REST API**: REST API ger nu åtkomst till Marketo Company (alias. Konto). Det innebär att du kan läsa, uppdatera och ta bort företagsobjekt som du har skapat i Marketo och associera leads med sådana företag med hjälp av det uppdaterade lead-API:t.
 
 Läs [mer](https://developers.marketo.com/documentation/company-api/) i vår referenshandbok för företags-API:t.
 
