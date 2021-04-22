@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359418
-description: Importera en lista med människor - Marketo Docs - Produktdokumentation
+description: Importera en lista med människor - Marketo Docs - produktdokumentation
 title: Importera en lista med personer
+exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%
 
 ---
-
 
 # Importera en lista med personer {#import-a-list-of-people}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >[Konfigurera och lägga till en person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
-I den här självstudiekursen får du lära dig att importera personer från en kalkylbladsfil till Marketo.
+I den här självstudiekursen får du lära dig hur du importerar personer från en kalkylbladsfil till Marketo.
 
 ## Steg 1: Hämta och redigera ett kalkylblad {#step-download-and-edit-a-spreadsheet}
 
@@ -65,7 +65,7 @@ I den här självstudiekursen får du lära dig att importera personer från en 
 >
 >Händelseprogram inträffar vid specifika datum. Läs mer om [**Händelser**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md).
 
-## Steg 3: Importera ditt kalkylblad till Marketo {#step-import-your-spreadsheet-into-marketo}
+## Steg 3: Importera kalkylbladet till Marketo {#step-import-your-spreadsheet-into-marketo}
 
 1. I **My Tradeshow Program** klickar du på **Nytt** och väljer **Ny lokal resurs**.
 
@@ -104,7 +104,7 @@ I den här självstudiekursen får du lära dig att importera personer från en 
    > * Hoppa över aktivitetsloggning
 
 
-1. Koppla listkolumnsfälten till deras respektive Marketo-fält och klicka på **Nästa**.
+1. Mappa listkolumnfälten till deras respektive Marketo-fält och klicka på **Nästa**.
 
    ![](assets/image2014-9-24-12-3a24-3a49.png)
 
@@ -114,7 +114,7 @@ I den här självstudiekursen får du lära dig att importera personer från en 
 
    >[!NOTE]
    >
-   >Om det finns fält som du inte vill importera väljer du **Ignorera** i listrutan Marketfält.
+   >Om det finns fält som du inte vill importera väljer du **Ignorera** i listrutan Marketo-fält.
 
 1. Välj **My Tradeshow Program** för **förvärvsprogrammet** och klicka sedan på **Importera**.
 
@@ -134,7 +134,7 @@ I den här självstudiekursen får du lära dig att importera personer från en 
 
 ## Uppdraget är klart {#mission-complete}
 
-Nu är deltagarna i ditt varumärke medlemmar i ditt Marketo-program!
+Deltagarna i ditt varumärke är nu medlemmar i ditt Marketo-program!
 
 <br> 
 
