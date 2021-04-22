@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11372975
-description: Steg 1 av 3 -Lägg till Marketto-fält i Salesforce (Professional) - Marketo-dokument - Produktdokumentation
-title: Steg 1 av 3 -Lägg till Marketto-fält i Salesforce (Professional)
+description: Steg 1 av 3 -Lägg till Marketo-fält i Salesforce (Professional) - Marketo Docs - Produktdokumentation
+title: Steg 1 av 3 -Lägg till Marketo-fält i Salesforce (Professional)
+exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '745'
 ht-degree: 0%
 
 ---
-
 
 # Steg 1 av 3: Lägg till Marketo-fält i Salesforce (Professional) {#step-of-add-marketo-fields-to-salesforce-professional}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >Salesforce-instansen måste ha tillgång till Salesforce API:er för att kunna synkronisera data mellan Marketo och Salesforce.
 
-Marketo använder en uppsättning fält för att hämta in viss typ av marknadsföringsrelaterad information. Om du vill ha dessa data i Salesforce följer du instruktionerna nedan.
+Marketo använder en uppsättning fält för att samla in viss typ av marknadsföringsrelaterad information. Om du vill ha dessa data i Salesforce följer du instruktionerna nedan.
 
 1. Skapa tre anpassade fält i Salesforce för lead- och kontaktobjekten: Poäng, förvärvsprogram och förvärvstidpunkt.
 1. Mappa dessa anpassade fält mellan leads och kontakter så att värdena överförs vid konvertering i Salesforce.
@@ -78,7 +78,7 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
   <tr> 
    <td>Poäng</td> 
    <td>mkto71_Lead_Score</td> 
-   <td>Nummer</td> 
+   <td>Antal</td> 
    <td>Längd 10<br>Decimaltecken 0 </td> 
   </tr> 
   <tr> 
@@ -145,7 +145,7 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
   <tr> 
    <td>ID för förvärvsprogram</td> 
    <td>mkto71_Acquisition_Program_Id</td> 
-   <td>Nummer</td> 
+   <td>Antal</td> 
    <td>Längd 18<br>Decimaltecken 0 </td> 
   </tr> 
   <tr> 
@@ -185,13 +185,13 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
    <td>Längd 255</td> 
   </tr> 
   <tr> 
-   <td>Infört företag</td> 
+   <td>Berört företag</td> 
    <td>mkto71_Insted_Company</td> 
    <td>Text</td> 
    <td>Längd 255</td> 
   </tr> 
   <tr> 
-   <td>Infört land</td> 
+   <td>Berört land</td> 
    <td>mkto71_Insted_Country</td> 
    <td>Text</td> 
    <td>Längd 255</td> 
