@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147154
-description: Synkronisera en SFDC-kampanj med ett program - Marketo Docs - Produktdokumentation
+description: Synkronisera en SFDC-kampanj med ett program - Marketo Docs - produktdokumentation
 title: Synkronisera en SFDC-kampanj med ett program
+exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
 
 ---
 
-
 # Synkronisera en SFDC-kampanj med ett program {#sync-an-sfdc-campaign-with-a-program}
 
-Med Marketo kan ni synkronisera program med Salesforce-kampanjer för att behålla samma lista över personer i båda systemen, inklusive deras status. Kom så börjar vi!
+Med Marketo kan ni synkronisera era program med Salesforce-kampanjer för att behålla samma lista över personer i båda systemen, inklusive deras status. Kom så börjar vi!
 
 >[!PREREQUISITES]
 >
@@ -21,7 +21,7 @@ Med Marketo kan ni synkronisera program med Salesforce-kampanjer för att behål
 
 >[!CAUTION]
 >
->När en SFDC-kampanj synkroniseras med ett Marketo-program inaktiveras de implicita SFDC-åtgärderna (t.ex. lägg till i SFDC Campaign, Synkronisera till SFDC) för underordnade kampanjer i programmet.
+>När en SFDC-kampanj synkroniseras med ett Marketo-program inaktiveras de underliggande SFDC-åtgärderna (t.ex. lägg till i SFDC Campaign, Synkronisera till SFDC) för programmets underordnade kampanjer.
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
@@ -49,4 +49,4 @@ Med Marketo kan ni synkronisera program med Salesforce-kampanjer för att behål
 
    ![](assets/image2015-7-22-8-3a59-3a33.png)
 
-   Underbar! Nu synkroniseras alla ändringar av programstatus i Marketo till SFDC-kampanjen och vice versa.
+   Underbar! Nu synkroniseras alla programstatusändringar i Marketo till SFDC-kampanjen och vice versa.
