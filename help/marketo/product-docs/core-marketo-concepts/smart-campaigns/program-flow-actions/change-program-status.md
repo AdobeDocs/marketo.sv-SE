@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147007
-description: Ändra programstatus - Marketo Docs - Produktdokumentation
+description: Ändra programstatus - Marketo Docs - produktdokumentation
 title: Ändra programstatus
+exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
-
 
 # Ändra programstatus {#change-program-status}
 
