@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360198
-description: Skapa, ta bort, redigera och ändra en användarroll - Marketo Docs - Produktdokumentation
+description: Skapa, ta bort, redigera och ändra en användarroll - Marketo Docs - produktdokumentation
 title: Skapa, ta bort, redigera och ändra en användarroll
+exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
 
 ---
 
-
 # Skapa, ta bort, redigera och ändra en användarroll {#create-delete-edit-and-change-a-user-role}
 
-**Rolesk** grupperar en massa behörigheter. **Med** tillstånd kan du göra saker i Marketo. Du tilldelar en **roll** till en användare. Enkelt som paj.
+**Rolesk** grupperar en massa behörigheter. **Med** behörighet kan du göra saker i Marketo. Du tilldelar en **roll** till en användare. Enkelt som paj.
 
 >[!NOTE]
 >
@@ -97,4 +97,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Om du låter flera roller vara markerade, används Marketo som standard för den mest restriktiva behörigheten.
+>Om du låter flera roller vara markerade får Marketo den mest restriktiva behörigheten som standard.
