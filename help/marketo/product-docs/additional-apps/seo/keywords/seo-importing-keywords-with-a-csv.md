@@ -2,14 +2,14 @@
 unique-page-id: 2949206
 description: SEO - Importera nyckelord med en CSV - Marketo Docs - Produktdokumentation
 title: SEO - Importera nyckelord med en CSV-fil
+exl-id: 13957db8-3fbf-4267-a3ab-65a4978d8633
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Importera nyckelord med en CSV {#seo-importing-keywords-with-a-csv}
 
