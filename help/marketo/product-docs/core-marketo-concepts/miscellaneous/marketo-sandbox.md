@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11386358
-description: Marketo Sandbox - Marketo Docs - Produktdokumentation
+description: Marketo Sandbox - Marketo Docs - produktdokumentation
 title: Marketo Sandbox
+exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
 
 ---
-
 
 # Marketo Sandbox {#marketo-sandbox}
 
@@ -40,5 +40,5 @@ Du kan skicka ett supportärende och begära en engångsinstanskopia för att fy
 >[!NOTE]
 >
 >* Instanskopian **stöds inte** om källinstansen är integrerad med Microsoft Dynamics.
->* Om du ändrar ditt ursprungliga CRM-system behövs en ny Marketo-instans och det går inte att skapa en instanskopia till den nya Marketo-instansen. Kontakta i stället Marketo Support för att utforska funktionerna i Importera program.
+>* Om du ändrar ditt ursprungliga CRM-system behövs en ny Marketo-instans och det går inte att skapa en instanskopia till den nya Marketo-instansen. Kontakta Marketo Support och utforska i stället funktionerna i Importera program.
 
