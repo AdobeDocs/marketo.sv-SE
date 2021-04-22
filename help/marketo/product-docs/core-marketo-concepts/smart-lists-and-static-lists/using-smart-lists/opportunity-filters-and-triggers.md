@@ -1,15 +1,15 @@
 ---
 unique-page-id: 8159286
-description: Filter och utlösare för affärsmöjligheter - Marketo Docs - Produktdokumentation
+description: Filter och utlösare för affärsmöjligheter - Marketo Docs - produktdokumentation
 title: Filter och utlösare för affärsmöjligheter
+exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '471'
 ht-degree: 0%
 
 ---
-
 
 # Filter och utlösare för affärsmöjlighet {#opportunity-filters-and-triggers}
 
