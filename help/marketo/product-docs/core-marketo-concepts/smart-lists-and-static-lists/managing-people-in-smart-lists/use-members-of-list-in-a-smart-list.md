@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953173
-description: Använd listmedlemmar i en smart lista - Marketo Docs - Produktdokumentation
+description: Använd listmedlemmar i en smart lista - Marketo Docs - produktdokumentation
 title: Använda listmedlemmar i en smart lista
+exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
 
 ---
-
 
 # Använd listmedlemmar i en smart lista {#use-members-of-list-in-a-smart-list}
 
@@ -31,4 +31,4 @@ Med det här filtret kan du hämta medlemmar från en annan lista genom att refe
 
    ![](assets/memberoflist.png)
 
-   Klart! I det här exemplet kommer den smarta listan nu endast att rikta sig till medlemmar i den listan och utvärdera dem baserat på andra regler som du inkluderar.
+   Klar! I det här exemplet kommer den smarta listan nu endast att rikta sig till medlemmar i den listan och utvärdera dem baserat på andra regler som du inkluderar.
