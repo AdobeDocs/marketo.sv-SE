@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11377395
-description: Lägg till en extra varumärkesdomän - Marketo Docs - Produktdokumentation
+description: Lägg till en extra varumärkesdomän - Marketo Docs - produktdokumentation
 title: Lägg till en extra varumärkesdomän
+exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-
 # Lägg till en extra varumärkesdomän {#add-an-additional-branding-domain}
 
-Lägg till ytterligare en varumärkesdomän när du kör flera varumärken från en enda Marketto-instans och vill att de ska ha sina egna varumärkesspårningslänkar.
+Lägg till en extra varumärkesdomän när du kör flera varumärken från en enda Marketo-instans och vill att de ska ha sina egna varumärkesspårningslänkar.
 
 >[!PREREQUISITES]
 >
@@ -33,7 +33,7 @@ Lägg till ytterligare en varumärkesdomän när du kör flera varumärken från
 
 >[!NOTE]
 >
->Du kan välja att göra den här domänen till primär domän, och alla befintliga e-postmeddelanden som inte har skickats anges som &quot;Standard&quot; och alla nyligen skapade e-postmeddelanden blir som standard till den primära domänen. Du kan [skriva över detta per e-post](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md).
+>Du kan välja att göra den här domänen till primär domän, och alla befintliga e-postmeddelanden som inte har skickats anges som standard, och alla nya e-postmeddelanden som skapas kommer att vara standard i den primära domänen. Du kan [skriva över detta per e-post](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md).
 
 >[!MORELIKETHIS]
 >
