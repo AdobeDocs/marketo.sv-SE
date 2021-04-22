@@ -2,20 +2,20 @@
 unique-page-id: 12983619
 description: Lägg till Slack som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
 title: Lägg till Slack som en LaunchPoint-tjänst
+exl-id: 38c1501d-27ac-4c6c-967d-4decd10e0cb3
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 0%
 
 ---
 
-
 # Lägg till Slack som en LaunchPoint-tjänst {#add-slack-as-a-launchpoint-service}
 
 Det finns två meddelandetyper i integreringen med Slack:
 
-* **Systemmeddelanden**: Få Slack-meddelanden om viktiga händelser i Marketo-instansen, som aviseringar om aktuella kampanjstatus och eventuella problem som kräver omedelbar åtgärd (CRM-fel och API-gränser).
+* **Systemmeddelanden**: Få Slack-meddelanden om viktiga händelser i din Marketo-instans, som aviseringar om aktuella kampanjstatus och eventuella problem som kräver omedelbar åtgärd (CRM-fel och API-begränsningar).
 * **Intressanta stunder**: När en Marketo Insight har utlösts av en känd person från ett försäljningskonto kan ledande ägare meddelas via Slack. Meddelanden innehåller information om lead samt detaljer om försäljningskontot.
 
 >[!NOTE]
@@ -24,9 +24,9 @@ Det finns två meddelandetyper i integreringen med Slack:
 
 >[!PREREQUISITES]
 >
->Om du inte har Slack System Notifications aktiverat kan du kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Om du inte har Slack systemmeddelanden aktiverat kan du kontakta [Marketo support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-1. Gå till **LaunchPoint** och klicka sedan på **Ny tjänst** under &lt;a2/>Nytt **.**
+1. Gå till **LaunchPoint** och klicka sedan på **Ny tjänst** under **Nytt**.
 
    ![](assets/image2017-11-27-14-3a13-3a18.png)
 
@@ -46,7 +46,7 @@ Det finns två meddelandetyper i integreringen med Slack:
 
    ![](assets/image2017-11-27-15-3a1-3a3.png)
 
-1. I listrutan **Skicka till** väljer du den kanal där du vill att meddelanden från Marketska ska bokföras. Granska de begärda behörigheterna och klicka sedan på **Auktorisera**.
+1. I listrutan **Skicka till** väljer du den kanal där du vill att meddelanden från Marketo ska skickas. Granska de begärda behörigheterna och klicka sedan på **Auktorisera**.
 
    ![](assets/image2018-1-9-13-3a21-3a50.png)
 
