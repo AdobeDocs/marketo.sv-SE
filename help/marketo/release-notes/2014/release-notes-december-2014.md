@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4720253
-description: Versionsinformation -december 2014 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -december 2014 - Marketo Docs - produktdokumentation
 title: Versionsinformation - december 2014
+exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: December 2014 {#release-notes-december}
 
-Följande funktioner ingår i december 2014-versionen. Kontrollera om din Marketo Edition innehåller funktioner. Efter releasen måste du komma tillbaka för att hitta länkar till detaljerade artiklar för varje funktion!
+Följande funktioner ingår i december 2014-versionen. Kontrollera om det finns funktioner i Marketo Edition. Efter releasen måste du komma tillbaka för att hitta länkar till detaljerade artiklar för varje funktion!
 
 ## Sales Insight Reports {#sales-insight-reports}
 
@@ -23,9 +23,9 @@ Med [E-postresultatrapporten från Sales Insight](/help/marketo/product-docs/mar
 
 ![](assets/image2014-12-5-11-3a5-3a55.png)
 
-## Anpassade målgrupper för Facebook {#facebook-custom-audiences}
+## Facebook anpassade målgrupper {#facebook-custom-audiences}
 
-När Marketo-administratören har lagt till [Facebook via Admin > Startpunkt](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) kan du enkelt skapa, uppdatera eller [ersätta en anpassad Facebook-målgrupp med leads från en statisk eller smart lista från Marketo](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Leta efter den nya Facebook-ikonen längst ned i huvudstödrastret i statiska eller smarta listor.
+När din Marketo-administratör har lagt till [Facebook via Admin > Startpunkt](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) kan du enkelt skapa, uppdatera eller [ersätta en anpassad Facebook-målgrupp med leads från en statisk eller smart lista från Marketo](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Leta efter den nya Facebook-ikonen längst ned i huvudstödrastret i statiska eller smarta listor.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
