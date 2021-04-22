@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7516639
-description: Ge användarna åtkomst till incheckningsprogrammet - Marketo Docs - Produktdokumentation
+description: Ge användare åtkomst till incheckningsprogrammet - Marketo Docs - produktdokumentation
 title: Ge användare åtkomst till incheckningsappen
+exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
 
 ---
 
-
 # Ge användare åtkomst till incheckningsappen {#grant-users-access-to-the-check-in-app}
 
-Marketo har en speciell användarroll för incheckningsappen för händelser. Så här skapar du en ny roll med behörighet att använda programmet.
+Marketo har en särskild användarroll för incheckningsappen för händelser. Så här skapar du en ny roll med behörighet att använda programmet.
 
 ## Skapa en ny användarroll för mobilen {#create-a-new-user-role-for-mobile}
 
