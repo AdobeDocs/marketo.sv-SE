@@ -2,14 +2,14 @@
 unique-page-id: 1146897
 description: Ta bort personer i en smart lista eller lista - Marketo Docs - produktdokumentation
 title: Ta bort personer i en smart lista eller lista
+exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
 
 ---
-
 
 # Ta bort personer i en smart lista eller lista {#delete-people-in-a-smart-list-or-list}
 
@@ -39,7 +39,7 @@ Du kan snabbt och enkelt ta bort vissa/alla personer i en lista eller smart list
    >
    >Om resultatet sträcker sig över flera sidor och du klickar på **Markera alla** markeras alla personer på alla sidor.
 
-1. Klicka på **Ta bort person** om du vill ta bort personer från Marketo helt.
+1. Klicka på **Ta bort person** om du vill ta bort personer helt från Marketo.
 
    ![](assets/four-1.png)
 
@@ -49,11 +49,11 @@ Du kan snabbt och enkelt ta bort vissa/alla personer i en lista eller smart list
 
    >[!CAUTION]
    >
-   >Om du tar bort från Marketo och CRM kan du aldrig återskapa i något av systemen. Människan och deras historia kommer att vara borta för evigt. Om du lägger till dem senare behandlas de som helt nya poster.
+   >Om du tar bort från Marketo och CRM kommer du aldrig att kunna återställas i något av systemen. Människan och deras historia kommer att vara borta för evigt. Om du lägger till dem senare behandlas de som helt nya poster.
 
    >[!NOTE]
    >
-   >Om din Marketo inte är knuten till din CRM är alternativet nedtonat som på skärmbilden.
+   >Om din Marketo inte är knuten till din CRM är alternativet nedtonat, som i skärmbilden.
 
 1. Klicka på **Kör nu**.
 
