@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11378041
-description: Ta bort en varumärkesdomän - Marketo Docs - produktdokumentation
+description: Ta bort en profileringsdomän - Marketo Docs - produktdokumentation
 title: Ta bort en profileringsdomän
+exl-id: 12cbb8c0-4846-46cb-ba5a-d54a69523585
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
 
 ---
-
 
 # Ta bort en profileringsdomän {#delete-a-branding-domain}
 
