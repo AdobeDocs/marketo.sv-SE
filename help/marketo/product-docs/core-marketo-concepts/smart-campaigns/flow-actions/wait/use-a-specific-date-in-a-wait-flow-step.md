@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146976
-description: Använd ett specifikt datum i ett vänteflödessteg - Marketo Docs - Produktdokumentation
+description: Använd ett specifikt datum i ett vänteflödessteg - Marketo Docs - produktdokumentation
 title: Använd ett specifikt datum i ett vänteflödessteg
+exl-id: d6ef26a4-8c9a-4f40-9e80-dcb3921a427f
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
-
 
 # Använd ett specifikt datum i ett vänteflödessteg {#use-a-specific-date-in-a-wait-flow-step}
 
