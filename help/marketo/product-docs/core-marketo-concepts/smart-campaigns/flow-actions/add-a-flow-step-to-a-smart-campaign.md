@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146944
-description: Lägg till ett flödessteg i en smart kampanj - Marketo Docs - Produktdokumentation
+description: Lägg till ett flödessteg i en smart kampanj - Marketo Docs - produktdokumentation
 title: Lägg till ett flödessteg i en smart kampanj
+exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
 
 ---
-
 
 # Lägg till ett flödessteg i en smart kampanj {#add-a-flow-step-to-a-smart-campaign}
 
