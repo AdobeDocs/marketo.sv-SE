@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719306
-description: Dölj ett Salesforce-fält från Marketo Sync - Marketo Docs - Produktdokumentation
-title: Dölj ett Salesforce-fält från markeringssynkroniseringen
+description: Dölj ett Salesforce-fält från Marketo Sync - Marketo Docs - produktdokumentation
+title: Dölj ett Salesforce-fält från Marketo Sync
+exl-id: 5d7229f0-43b0-4232-93ed-a9ca52ace401
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
-
-# Dölj ett Salesforce-fält från Marketo-synkronisering {#hide-a-salesforce-field-from-the-marketo-sync}
+# Dölj ett Salesforce-fält från Marketo Sync {#hide-a-salesforce-field-from-the-marketo-sync}
 
 >[!NOTE]
 >
