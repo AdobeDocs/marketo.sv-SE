@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7514898
-description: Konfigurera en utlösare smart kampanj för försäljning med"Campaign is Requested" - Marketo Docs - Produktdokumentation
+description: Konfigurera en utlösare smart kampanj för försäljning med"Campaign is Requested" - Marketo Docs - Product Documentation
 title: Konfigurera en utlösare smart kampanj för försäljning med"Campaign is Requested"
+exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
 
 ---
-
 
 # Konfigurera en utlösande smart kampanj för försäljning med hjälp av&quot;Campaign is Requested&quot; {#setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested}
 
