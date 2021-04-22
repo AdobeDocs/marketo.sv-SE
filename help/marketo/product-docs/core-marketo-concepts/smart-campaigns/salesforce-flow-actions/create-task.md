@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147017
-description: Skapa aktivitet - Marketo Docs - Produktdokumentation
+description: Skapa aktivitet - Marketo Docs - produktdokumentation
 title: Skapa uppgift
+exl-id: c484d913-1fd8-4716-8caa-0bf318218ca1
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
-
 
 # Skapa aktivitet {#create-task}
 
