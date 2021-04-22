@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951058
-description: Versionsinformation -augusti 2013 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -augusti 2013 - Marketo Docs - produktdokumentation
 title: Versionsinformation - augusti 2013
+exl-id: c7af3af8-c51e-49dd-8ebf-803cb4350024
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
 
 ---
-
 
 # Versionsinformation: Augusti 2013 {#release-notes-august}
 
@@ -49,7 +49,7 @@ Använd dessa [nya variabler](/help/marketo/product-docs/email-marketing/general
 
 ## Automatisk rensning av utlösarkampanj {#automatic-trigger-campaign-cleanup}
 
-Marketo meddelar dig nu regelbundet och [inaktiverar automatiskt utlösarkampanjer](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) som inte har körts de senaste sex månaderna.
+Marketo kommer nu att meddela dig regelbundet och [automatiskt inaktivera utlösarkampanjer](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) som inte har körts de senaste sex månaderna.
 
 ![](assets/image2014-9-22-16-3a36-3a2.png)
 
@@ -61,4 +61,4 @@ Programkostnadssynkning gör det möjligt att hålla reda på programkostnaderna
 
 ### Kobolt användargränssnitt {#cobalt-user-interface}
 
-Vi fortsätter lanseringen av vårt nya Cobalt-gränssnitt. Det här projektet kommer att göra allt i Marketo supergnätt! Uppgraderingen pågår resten av året.
+Vi fortsätter lanseringen av vårt nya Cobalt-gränssnitt. Det här projektet kommer att göra allt i Marketo supergnäll! Uppgraderingen pågår resten av året.
