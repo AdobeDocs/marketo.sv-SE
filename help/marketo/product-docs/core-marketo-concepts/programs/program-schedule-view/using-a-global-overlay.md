@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147249
-description: Använda en global övertäckning - Marketo Docs - Produktdokumentation
+description: Använda en global övertäckning - Marketo Docs - produktdokumentation
 title: Använda en global övertäckning
+exl-id: b4e69f20-f1a7-43c4-92f7-e8802b4ce322
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
 
 ---
-
 
 # Använda en global övertäckning {#using-a-global-overlay}
 
