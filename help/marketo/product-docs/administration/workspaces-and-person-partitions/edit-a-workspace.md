@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11380986
-description: Redigera en arbetsyta - Marketo Docs - Produktdokumentation
+description: Redigera en arbetsyta - Marketo Docs - produktdokumentation
 title: Redigera en arbetsyta
+exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
 
 ---
-
 
 # Redigera en arbetsyta {#edit-a-workspace}
 
