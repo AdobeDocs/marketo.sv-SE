@@ -2,14 +2,14 @@
 unique-page-id: 7512524
 description: Best Practices for Smart Lists - Marketo Docs - produktdokumentation
 title: Bästa praxis för smarta listor
+exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
-
 
 # Bästa praxis för smarta listor {#best-practices-for-smart-lists}
 
@@ -31,9 +31,9 @@ För att göra dem enkla att arbeta med och optimera prestanda har vi skapat en 
 1. **Var livskraftig med inaktivitetsfilter -** Filter som &quot;Inte ifyllt formulär&quot; kan vara mycket användbara, men kräver mycket mer processorkraft.
 1. **Klistra in med olika värden -** Flera markeringar är utformade för att klistras in i dussintals eller eventuellt hundratals värden. Men om man lägger in för många så kommer det att sakta ner.
 1. **Var kraftfull när du lägger till begränsningar -** Detta är de små detaljerna i en regel och relaterade värden. Ju fler begränsningar du lägger till, desto långsammare bearbetningstid.
-1. **Förenkla era kampanjer -** över 100 oberoende regler (vi har sett det!) kommer naturligtvis att ta lite tid att behandla. Håll det enkelt så märker du hastighetsökningarna - och det blir lättare för dig att förstå.
+1. **Förenkla era kampanjer -** över 100 oberoende regler (vi har sett det!) kommer naturligtvis att ta lite tid att behandla. Gör det enkelt så märker du hastighetsökningarna - och det blir lättare för dig att förstå.
 1. **Inkludera @-symbolen före domännamnet när du använder e-postadressfiltret** **-** Detta gör att en snabbare fråga används. Exempel: I stället för att använda _e-post innehåller &quot;somedomain.com&quot;_, använder du _e-postadressen innehåller &#39;@somedomain.com_.&#39; Om du använder flera e-postadresser med &quot;contains&quot; måste ALLA börja med &quot;@&quot;.
 
 >[!TIP]
 >
->Marketo kan användas på många sätt och vissa tekniker är bättre för dig och ditt företag. Överväg att [Marknadsföringstjänster](https://pages2.marketo.com/72-hour-survival-guide.html) för att få din investering att se bra ut.
+>Marketo kan användas på många sätt och vissa tekniker är bättre för dig och ditt företag. Överväg [Marketo professionella tjänster](https://pages2.marketo.com/72-hour-survival-guide.html) för att få din investering att se bra ut.
