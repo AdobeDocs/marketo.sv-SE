@@ -2,22 +2,22 @@
 unique-page-id: 2953473
 description: SFDC Sync -Activity Sync - Marketo Docs - Produktdokumentation
 title: SFDC-synkronisering - Aktivitetssynkronisering
+exl-id: 780e9cb7-b8b2-4a79-a0b8-d9d34a655330
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
-
 # SFDC-synkronisering: Aktivitetssynkronisering {#sfdc-sync-activity-sync}
 
-Marketo synkroniserar även över Salesforce-aktivitetsdata. Här är några frågor och svar.
+Marketo synkroniserar också över Salesforce-aktivitetsdata. Här är några frågor och svar.
 
-## Vilka typer av aktivitetsdata synkroniserar Markto över? {#what-types-of-activity-data-does-marketo-sync-over}
+## Vilka typer av aktivitetsdata synkroniseras Marketo över? {#what-types-of-activity-data-does-marketo-sync-over}
 
-Marketo synkroniserar över både händelser och uppgifter som är kopplade till en lead eller kontakt.
+Marketo synkroniserar över både händelser och uppgifter som är kopplade till ett lead eller en kontakt.
 
 ## Hur synkroniseras aktivitetsinformationen mellan de två systemen? {#how-are-activity-details-kept-in-sync-between-the-two-systems}
 
