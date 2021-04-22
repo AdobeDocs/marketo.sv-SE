@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11377945
-description: Översikt över granskningsspår - Marketo Docs - Produktdokumentation
+description: Översikt över granskningsspår - Marketo Docs - produktdokumentation
 title: Översikt över granskningsspår
+exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
 
 ---
-
 
 # Översikt över granskningsspår {#audit-trail-overview}
 
@@ -23,7 +23,7 @@ Granskningsspår ger dig möjlighet att få en komplett historik (värd sex mån
 
 ## Vad är granskningsspår {#what-is-audit-trail}?
 
-Granskningsspår innehåller i realtid en omfattande lista över åtgärder och händelser som inträffar inom en Marketo-prenumeration. Det innehåller ett självbetjäningssätt att få tillgång till en sexmånadershistorik med data som kan hjälpa dig att svara på frågor som:
+Granskningsspår innehåller i realtid en omfattande lista över åtgärder och händelser som inträffar i en Marketo-prenumeration. Det innehåller ett självbetjäningssätt att få tillgång till en sexmånadershistorik med data som kan hjälpa dig att svara på frågor som:
 
 Vad hände med den här resursen eller inställningen och vem uppdaterade den senast?
 
@@ -33,7 +33,7 @@ Vem loggar in på vårt konto?
 
 ## Vad vi granskar {#what-we-audit}
 
-Marketo granskar [skapa, redigera och ta bort](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)-åtgärder för:
+Marketo granskar [åtgärderna för att skapa, redigera och ta bort](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) för:
 
 * Designstudiematerial
 * Alla Marketo-program
@@ -46,7 +46,7 @@ Marketo granskar [skapa, redigera och ta bort](/help/marketo/product-docs/admini
 
 >[!NOTE]
 >
->Marketo är _inte_ granskar ändringar som gjorts i Webbpersonalisering, Predictive Content eller Sales Insight just nu.
+>Marketo _granskar inte_ ändringar som gjorts i Webbpersonalisering, Predictive Content eller Sales Insight just nu.
 
 ## Granskningsspårskomponenter {#audit-trail-components}
 
