@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719297
-description: Aktivera/inaktivera anpassad objektsynkronisering - Marketo-dokument - Produktdokumentation
+description: Aktivera/inaktivera anpassad objektsynkronisering - Marketo Docs - produktdokumentation
 title: Aktivera/inaktivera synkronisering av anpassat objekt
+exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
 
 ---
-
 
 # Aktivera/inaktivera synkronisering av anpassat objekt {#enable-disable-custom-object-sync}
 
