@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949204
-description: SEO - Lägg till nyckelord - Marketo Docs - Produktdokumentation
+description: SEO - Lägg till nyckelord - Marketo Docs - produktdokumentation
 title: SEO - Lägg till nyckelord
+exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Lägg till nyckelord {#seo-add-keywords}
 
