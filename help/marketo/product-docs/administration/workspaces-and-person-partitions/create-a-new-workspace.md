@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360311
-description: Skapa en ny arbetsyta - Marketo Docs - Produktdokumentation
+description: Skapa en ny arbetsyta - Marketo Docs - produktdokumentation
 title: Skapa en ny arbetsyta
+exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
 
 ---
-
 
 # Skapa en ny arbetsyta {#create-a-new-workspace}
 
@@ -62,7 +62,7 @@ Så här skapar du en ny arbetsyta.
 
    >[!NOTE]
    >
-   >När Marketo har skapats kommer det att leda till att exempelresurser i arbetsytan kommer att placeras på första plats. Språket gör att dessa dirigerade objekt kan vara på ett icke-engelskt språk.
+   >När Marketo har skapat exempelmaterialet kommer det att flöda ut från arbetsytan. Språket gör att dessa dirigerade objekt kan vara på ett icke-engelskt språk.
 
    ![](assets/five.png)
 
