@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360278
-description: Ta bort en programstatus från en programkanal - Marketo Docs - Produktdokumentation
+description: Ta bort en programstatus från en programkanal - Marketo Docs - produktdokumentation
 title: Ta bort en programstatus från en programkanal
+exl-id: 01bda910-cd6d-49df-a300-8163701482cd
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
 
 ---
-
 
 # Ta bort en programstatus från en programkanal {#delete-a-program-status-from-a-program-channel}
 
