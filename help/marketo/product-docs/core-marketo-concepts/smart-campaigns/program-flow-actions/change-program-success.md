@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147009
-description: Change Program Success - Marketo Docs - Product Documentation
+description: Ändringsprogrammet lyckades - Marketo Docs - produktdokumentation
 title: Programmet har ändrats
+exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
-
 
 # Ändringsprogrammet lyckades {#change-program-success}
 
