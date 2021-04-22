@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2951042
-description: Versionsinformation -juni 2014 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -juni 2014 - Marketo Docs - produktdokumentation
 title: Versionsinformation -juni 2014
+exl-id: 690c4e41-831b-47b4-a0c6-d29cf607b179
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: Juni 2014 {#release-notes-june}
 
-Följande funktioner ingår i versionen från juni 2014. Kontrollera om din Marketo Edition innehåller funktioner.
+Följande funktioner ingår i versionen från juni 2014. Kontrollera om det finns funktioner i Marketo Edition.
 
 ## Uppdaterat användargränssnitt - kommer snart! {#updated-ui-coming-soon}
 
-En ny look och känsla, inklusive navigering för Marketo Lead Management kommer snart i en senare version!
+En ny look och känsla, inklusive navigering för Marketo Lead Management, kommer snart i en senare version!
 
 ## Sales Insight plugin for Outlook 2013 {#sales-insight-plugin-for-outlook}
 
