@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953415
-description: Använda personinformationssidan - Marketo Docs - Produktdokumentation
+description: Använda personinformationssidan - Marketo Docs - produktdokumentation
 title: Använda personinformationssidan
+exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '550'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
-
 
 # Använda personinformationssidan {#using-the-person-detail-page}
 
@@ -73,23 +73,23 @@ Många fält kan redigeras. Om du vill uppdatera en persons information skriver 
 
 |  |  |  |  |  |
 |---|---|---|---|---|
-| Adress | Årsintäkt | Anonym IP | Faktureringsadress | Faktureringsort |
-| Faktureringsland | Postnummer för fakturering | Faktureringsläge | Ort | Företag |
+| Adress | Årlig intäkt | Anonym IP | Faktureringsadress | Faktureringsort |
+| Faktureringsland | Faktureringspostnummer | Faktureringsstat | Ort | Företagets namn |
 | Land | Skapad den | Födelsedatum | Avdelning | Ring inte |
-| Anropa inte orsak | Anropa inte orsak | E-postadress | Ogiltig e-postadress | Ogiltig e-postorsak |
+| Anropa inte orsak | Orsak till ring inte | E-postadress | Ogiltig e-postadress | Ogiltig e-postorsak |
 | ID för externt företag | ID för extern säljare | Faxnummer | Förnamn | Fullständigt namn |
-| Bransch | Inaktuell ort | Infört företag | Infört land | Ingående metropolitområde |
+| Bransch | Inaktuell ort | Berört företag | Berört land | Ingående metropolitområde |
 | Riktnummer för inkommande telefon | Infört postnummer | Ingångsregion | Är anonym | Är kund |
 | Är partner | Befattning | Efternamn | Klassificering | Poäng |
-| Personkälla | Status | Huvudtelefon | Marketo - socialt Facebook-visningsnamn | Marketo Social Facebook-ID |
-| Marketo Social Facebook Photo URL | Marketo Social Facebook-profils-URL | Marketo Social Facebook Reach | Marketo Social Facebook - refererade registreringar | Marketo Social Facebook Refererade besök |
-| Marketo Social Genus | Marketo - senaste refererad registrering | Marketo Social, senaste refererade besök | Marketo socialt LinkedIn-visningsnamn | Marketo social LinkedIn-ID |
-| Marketo social LinkedIn Photo URL | Marketo social LinkedIn Profile URL | Marketo Social LinkedIn Reach | Marketo Social LinkedIn Refererade registreringar | Marketo social LinkedIn refererade besök |
-| Marketo Social Syndication ID | Marketo - totalt antal refererade registreringar | Marketo - totalt antal refererade besök | Marketo - socialt Twitter-visningsnamn | Marketo Social Twitter-ID |
-| Marketo Social Twitter Photo URL | Marketo social Twitter-profils-URL | Marketo Social Twitter Reach | Marketo Social Twitter - refererade registreringar | Marketo Social Twitter refererade besök |
-| Mellannamn | Mobiltelefonnummer | Antal anställda | Telefonnummer | Postnummer |
-| Prioritet | Relativa poäng | Roll | Hälsning | SIC-kod |
-| Plats | Läge | Avbeställ | Orsak till avbeställning | Uppdaterat den |
+| Personkälla | Status | Telefon | Marketo Social Facebook Display Name | Marketo Social Facebook ID |
+| Marketo Social Facebook Photo URL | Marketo Social Facebook Profile URL | Marketo Social Facebook Reach | Refererade registreringar från Marketo Social Facebook | Refererade Marketo Social Facebook-besök |
+| Marketo Social Genus | Marketo Social, senast refererad registrering | Marketo Social, senaste refererat besök | Marketo Social LinkedIn Display Name | Marketo Social LinkedIn ID |
+| Marketo Social LinkedIn Photo URL | Marketo Social LinkedIn Profile URL | Marketo Social LinkedIn Reach | Refererade registreringar från Marketo Social LinkedIn | Refererade Marketo Social LinkedIn-besök |
+| Marketo Social Syndication ID | Marketo Social, totalt antal refererade registreringar | Marketo Social, totalt antal refererade besök | Marketo Social Twitter Display Name | Marketo Social Twitter ID |
+| Marketo Social Twitter Photo URL | Marketo Social Twitter Profile URL | Marketo Social Twitter Reach | Refererade registreringar från Marketo Social Twitter | Refererade Marketo Social Twitter-besök |
+| Mellannamn | Mobiltelefon | Antal anställda | Telefonnummer | Postnummer |
+| Prioritet | Relativa poäng | Roll | Titel | SNI-kod |
+| Plats | Stat | Avprenumererad | Orsak till avprenumeration | Uppdaterat den |
 | Akut | Webbplats |  |  |  |
 
 >[!NOTE]
@@ -99,7 +99,7 @@ Många fält kan redigeras. Om du vill uppdatera en persons information skriver 
 >* Aktivitetslogg
 >* Företagsinformation
 >* Möjligheter för SFDC-kontakter
->* Vissa Marketinspecifika fält, t.ex. Skapad och Ursprunglig källtyp.
+>* Vissa Marketo-specifika fält, t.ex. Skapad och Ursprunglig källtyp.
 
 >
 >
