@@ -2,14 +2,14 @@
 unique-page-id: 7514027
 description: Synkronisera person till Microsoft - Marketo Docs - Produktdokumentation
 title: Synkronisera person till Microsoft
+exl-id: cc6f1c03-ba74-418c-95d5-fb073a248379
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
-
 
 # Synkronisera person till Microsoft {#sync-person-to-microsoft}
 
@@ -17,7 +17,7 @@ Den här funktionen är endast avsedd för dem som integrerar Marketo med Micros
 
 ## Översikt {#overview}
 
-I det här flödessteget infogas Marketo-skapade personer i Dynamics CRM.
+Det här flödessteget infogar personer som skapats av Marketo i Dynamics CRM.
 
 ![](assets/one.png)
 
