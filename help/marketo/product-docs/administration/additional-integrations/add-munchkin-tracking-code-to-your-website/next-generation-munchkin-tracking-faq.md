@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10096583
-description: Nästa generations Munchkin Tracking FAQ - Marketo Docs - Produktdokumentation
+description: Nästa generations Munchkin Tracking - frågor och svar - Marketo Docs - produktdokumentation
 title: Nästa generations Munchkin Tracking - frågor och svar
+exl-id: 283189ac-c817-479a-b896-91233980608c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '733'
 ht-degree: 0%
 
 ---
-
 
 # Nästa generation Munchkin Tracking - frågor och svar {#next-generation-munchkin-tracking-faq}
 
@@ -21,7 +21,7 @@ Här är det viktigaste att veta:
 * Vi ökar antalet webbhändelser (Besök webbsida, Klickad länk på webbsida) som kan importeras
 * Din Munchkin-kod ändras inte, så det krävs inga uppdateringar på webbplatsen
 
-## När kommer min Marketo-prenumeration att vara på Munchkin V2? {#when-will-my-marketo-subscription-be-on-munchkin-v}
+## När får jag min Marketo-prenumeration på Munchkin V2? {#when-will-my-marketo-subscription-be-on-munchkin-v}
 
 Vi har inget exakt datum än, men kom tillbaka hit för att få uppdateringar.
 
@@ -37,7 +37,7 @@ Nej. Munchkins spårningskod är densamma. Inga ändringar behöver göras på w
 
 Vi ändrade hur anonyma människor interagerar med smarta kampanjer. Förut gick de igenom en smart kampanj, precis som kända människor. Filtret &quot;Är anonym&quot; användes för att ange att bara kända eller bara anonyma personer flödar genom kampanjen.
 
-Med Munchkin V2 kommer vi att fortsätta att spåra alla anonyma aktiviteter; Du kan dock inte längre använda filter på anonyma personer. Vid konverteringstillfället (när personen blir känd i Marketo) läggs alla aktiviteter som inträffade när personen var anonym till i personaktivitetsloggen och som vid den här tidpunkten följer med genom de kampanjer personen är berättigad till.
+Med Munchkin V2 kommer vi att fortsätta att spåra alla anonyma aktiviteter; Du kan dock inte längre använda filter på anonyma personer. Vid konverteringen (när personen blir känd i Marketo) läggs alla aktiviteter som inträffade när personen var anonym till i personaktivitetsloggen och i nuläget flödar de genom de kampanjer personen är berättigad till.
 
 Om du redan använder det här filtret i en smart lista (till exempel i en smart kampanj eller en rapport) tas det inte automatiskt bort från den smarta listan. Mer information finns nedan.
 
@@ -80,7 +80,7 @@ Kolla in länkarna:
 
 [Översikt över anonyma leaduppgraderingar](https://nation.marketo.com/docs/DOC-2937)
 
-[Anonyma leaduppgraderingar - ändringar i Marketo-gränssnittet](https://nation.marketo.com/docs/DOC-2938)
+[Anonyma leaduppgraderingar - ändringar i Marketo användargränssnitt](https://nation.marketo.com/docs/DOC-2938)
 
 [Anonyma leaduppgraderingar - kundåtgärd krävs](https://nation.marketo.com/docs/DOC-2939)
 
@@ -88,10 +88,10 @@ Kolla in länkarna:
 
 [Anonyma leaduppgraderingar - versionsschema](https://nation.marketo.com/docs/DOC-2961)
 
-[Anonyma leaduppgraderingar - under hoodet](https://nation.marketo.com/docs/DOC-2962)
+[Anonyma leaduppgraderingar - under molnet](https://nation.marketo.com/docs/DOC-2962)
 
 [Anonym leadmarknadsföring till känd ledare - Munchkin V2-beteende](https://nation.marketo.com/docs/DOC-2963)
 
 ## Jag har fler frågor! Hur får jag svar på dem? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Kontakta dig på [communityn](https://nation.marketo.com/welcome). Du kan också kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support). De kommer gärna att besvara dina frågor.
+Kontakta dig på [communityn](https://nation.marketo.com/welcome). Du kan även kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support). De kommer gärna att besvara dina frågor.
