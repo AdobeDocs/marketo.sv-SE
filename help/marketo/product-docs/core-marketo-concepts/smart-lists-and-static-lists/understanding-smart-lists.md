@@ -2,18 +2,18 @@
 unique-page-id: 557130
 description: Understanding Smart Lists - Marketo Docs - Product Documentation
 title: Smarta listor
+exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 translation-type: tm+mt
-source-git-commit: 23339f1ffbe09e68143f3da963852b1347d5088a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
-
 # Smarta listor {#understanding-smart-lists}
 
-Med smarta listor kan du söka efter särskilda grupper med personer med hjälp av enkla filter. De används över hela Marketo, t.ex. i smarta kampanjer, program, rapporter, segmenteringar, affärsmodeller, engagemangsprogram, dynamiskt innehåll med mera. Beroende på dina behov kan smarta listor skapas på två platser i Marketo:
+Med smarta listor kan du söka efter särskilda grupper med personer med hjälp av enkla filter. De används i hela Marketo, t.ex. i smarta kampanjer, program, rapporter, segmenteringar, affärsmodeller, engagemangsprogram, dynamiskt innehåll med mera. Beroende på dina behov kan smarta listor skapas på två platser i Marketo:
 
 1. I **Database**, där de är tillgängliga för delad/global användning (t.ex. &quot;All Unsubscribed People&quot;).
 1. I **program** som lokala resurser, där de hittar en grupp personer som är relevanta för det specifika programmet (t.ex. &quot;Attended Tradeshow&quot;).
