@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2360356
-description: Lägg till enkel inloggning i en portal - Marketo Docs - Produktdokumentation
+description: Lägg till enkel inloggning på en portal - Marketo Docs - produktdokumentation
 title: Lägg till enkel inloggning på en portal
+exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '530'
 ht-degree: 0%
 
 ---
 
-
 # Lägg till enkel inloggning på en portal {#add-single-sign-on-to-a-portal}
 
 Om du har en katalogtjänst som autentiserar användare kan du tillåta enkel inloggning (SSO) i Marketo. Vi stöder den här funktionen med SAML (Security Assertion Markup Language) version 2.0 och senare.
 
-Marketo fungerar som en SAML Service Provider (SP) och är beroende av en extern identitetsleverantör (IdP) för att autentisera användare.
+Marketo fungerar som en SAML-tjänsteleverantör (SP) och är beroende av en extern identitetsleverantör (IdP) för att autentisera användare.
 
-När enkel inloggning är aktiverad kan IdP validera användarens inloggningsuppgifter. När en användare vill använda Marketo skickar IdP sedan ett signerat SAML-meddelande till Marketo, som fungerar som SP. Det här meddelandet bekräftar för Marketo att användaren har behörighet att använda Marketo.
+När enkel inloggning är aktiverad kan IdP validera användarens inloggningsuppgifter. När en användare vill använda Marketo-programvara skickar IdP sedan ett signerat SAML-meddelande till Marketo, som fungerar som SP. Det här meddelandet garanterar Marketo att användaren har behörighet att använda Marketo.
 
 >[!NOTE]
 >
@@ -36,7 +36,7 @@ När enkel inloggning är aktiverad kan IdP validera användarens inloggningsupp
 
 >[!NOTE]
 >
->Marketo stöder endast Identity Provider-initierad (kallas även IdP-initierad) där användaren först startar Idp-inloggningssidan, autentiserar och sedan navigerar till My Marketo.
+>Marketo stöder endast Identity Provider-initierad (kallas även IdP-initierad), där användaren först startar Idp-inloggningssidan, autentiserar och sedan navigerar till Min Marketo.
 
 ## Ytterligare information {#additional-notes}
 
@@ -44,7 +44,7 @@ När enkel inloggning är aktiverad kan IdP validera användarens inloggningsupp
 * **Användaretablering**  - Användare etableras manuellt av Marketo.
 * **Behörighet**  - Användarbehörigheter finns i Marketo.
 * **Stöd**  för OAuth - Marketo stöder för närvarande inte OAuth.
-* **Automatisk användarspridning**  - Kallas även&quot;Just in Time Provisioning&quot;, det här är när en användares första SAML-inloggning kan skapa användaren i något webbprogram som han/hon använder (t.ex. Marketo) och ingen manuell administratörsåtgärd krävs. Detta stöds inte av Marketo just nu.
+* **Automatisk användarspridning**  - Kallas även&quot;Just in Time Provisioning&quot;, det här är när en användares första SAML-inloggning kan skapa användaren i något webbprogram som han/hon använder (t.ex. Marketo) och ingen manuell administratörsåtgärd krävs. Detta stöds för närvarande inte av Marketo.
 * **Kryptering**  - Marketo stöder för närvarande inte kryptering.
 
 >[!NOTE]
@@ -61,7 +61,7 @@ SSO är inaktiverat som standard. Följ de här stegen för att aktivera SAML oc
 
    >[!NOTE]
    >
-   >Om du inte ser **enkel inloggning** under **Admin**, kontaktar du [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Om du inte ser **enkel inloggning** under **Admin**, kontaktar du [Marketo support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Klicka på **Redigera** under **SAML-inställningar**.
 
@@ -97,7 +97,7 @@ SSO är inaktiverat som standard. Följ de här stegen för att aktivera SAML oc
 
    ![](assets/eight.png)
 
-1. Ange en **fel-URL**. Det här är den URL som du vill att användaren ska dirigeras till om det inte går att logga in på Marketo. Klicka på **Spara**.
+1. Ange en **fel-URL**. Det här är den URL som du vill att användaren ska dirigeras till om inloggningen till Marketo misslyckas. Klicka på **Spara**.
 
    ![](assets/nine.png)
 
