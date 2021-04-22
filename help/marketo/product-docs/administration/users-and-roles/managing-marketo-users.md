@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359906
-description: Hantera Marketo-användare - Marketo Docs - Produktdokumentation
+description: Hantera Marketo-användare - Marketo Docs - produktdokumentation
 title: Hantera Marketo-användare
+exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
 
 ---
-
 
 # Hantera Marketo-användare {#managing-marketo-users}
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Ett förfallodatum passar bra för kortsiktiga externa intressenter eller konsulter som behöver Marketto bara för en kort tid.
+   >Ett förfallodatum passar bra för kortsiktiga externa intressenter eller konsulter som bara behöver tillgång till Marketo under en kort tid.
 
    >[!NOTE]
    >
