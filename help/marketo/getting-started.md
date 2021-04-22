@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147226
-description: Komma igång - Marketo Docs - Produktdokumentation
+description: Komma igång - Marketo Docs - produktdokumentation
 title: Komma igång
+exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 7%
 
 ---
-
 
 # Komma igång {#getting-started}
 
@@ -17,7 +17,7 @@ ht-degree: 7%
 
 Vad är Marketo du frågar? Bra fråga!
 
-[Learn Marketo](/help/marketo/getting-started/what-is-marketo.md)
+[Lär dig Marketo](/help/marketo/getting-started/what-is-marketo.md)
 
 ## STEG 2 Konfigurera {#get-set-up}
 
@@ -27,7 +27,7 @@ Med lite hjälp från IT-avdelningen kan du få det gjort på nolltid.
 
 ## STEG 3 Hämta några snabbvinner {#get-some-quick-wins}
 
-Utför dessa uppdrag och lär dig grunderna i Marketo.
+Utför dessa uppdrag för att lära dig grunderna i Marketo.
 
 [![](/help/marketo/getting-started/assets/getting-started-1.png) 1. Hämta konfiguration och lägg till en person](https://docs.marketo.com/pages/viewpage.action?pageId=2359351)
 
