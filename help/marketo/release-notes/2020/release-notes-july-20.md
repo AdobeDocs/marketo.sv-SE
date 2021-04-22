@@ -1,19 +1,19 @@
 ---
 unique-page-id: 45416698
-description: Versionsinformation -juli 20 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -juli 20 - Marketo Docs - produktdokumentation
 title: Versionsinformation -juli 20
+exl-id: 3c9b1f1d-961c-4bf8-8b99-37b483230506
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: 20 juli {#release-notes-july}
 
-Följande funktioner finns i versionen från 20 juli. Se om din Marketo-utgåva har funktioner tillgängliga.
+Följande funktioner finns i versionen från 20 juli. Se om det finns funktioner i din Marketo-utgåva.
 
 >[!AVAILABILITY]
 >
