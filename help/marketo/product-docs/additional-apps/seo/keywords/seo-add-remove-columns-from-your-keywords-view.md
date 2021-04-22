@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949243
-description: SEO - Lägg till/ta bort kolumner från nyckelordsvyn - Marketo-dokument - Produktdokumentation
+description: SEO - Lägg till/ta bort kolumner från nyckelordsvyn - Marketo Docs - produktdokumentation
 title: SEO - Lägg till/ta bort kolumner från nyckelordsvyn
+exl-id: e1a360da-cfe1-41b2-82ab-d2d7a1c0e410
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Lägg till/ta bort kolumner från nyckelordsvyn {#seo-add-remove-columns-from-your-keywords-view}
 
