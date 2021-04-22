@@ -2,14 +2,14 @@
 unique-page-id: 2949839
 description: Checka in personer i ditt event från din surfplatta - Marketo Docs - produktdokumentation
 title: Checka in personer i din aktivitet från surfplattan
+exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
 
 ---
-
 
 # Checka in personer i din händelse från din surfplatta {#check-people-into-your-event-from-your-tablet}
 
@@ -19,7 +19,7 @@ Appen fungerar likadant på både iPad och Android, förutom små skillnader i l
 
 >[!PREREQUISITES]
 >
->* Skapa en händelse i Marketo och fyll i den med Inbjudna och registrerade personer.
+>* Skapa en händelse i Marketo och fyll i den med Inbjuden och registrerad person.
 >* Hämta appen för surfplattan för [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) eller [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
 
 
@@ -31,7 +31,7 @@ Appen fungerar likadant på både iPad och Android, förutom små skillnader i l
 
    ![](assets/1.jpg)
 
-1. Ange ditt Marketo-användarnamn och lösenord och klicka på **Logga in**.
+1. Ange ditt användarnamn och lösenord för Marketo och klicka på **Logga in**.
 
    >[!NOTE]
    >
@@ -107,7 +107,7 @@ Du kan lägga till gäster som inte finns i din Marketo-databas manuellt. De che
    >
    >Dubbelkontrollera e-postadressen. Andra fält kan korrigeras senare, men e-postadressen är den primära metoden för att kontakta gästen.
 
-Den nya personen registreras som incheckad till din händelse och läggs till i Marketo-databasen med statusen Attended när du synkroniserar till Marketo.
+Den nya personen registreras som incheckad till din händelse och läggs till i Marketo-databasen med statusen Attended (Bifogad) när du synkroniserar till Marketo.
 
 ## Invertera en incheckning {#reverse-a-check-in}
 
@@ -139,7 +139,7 @@ Informationen uppdateras när du synkroniserar appen med Marketo.
 
 ## Synkronisera appen med Marketo {#sync-the-app-with-marketo}
 
-Appen Marketo Events fungerar oberoende tills du synkroniserar din aktivitet tillbaka till Marketo-databasen. Det är bäst att synkronisera så snart som möjligt efter den sista incheckningen. Din surfplatta måste vara ansluten till Internet.
+Appen Marketo Events fungerar oberoende tills du synkroniserar din aktivitet med Marketo Database igen. Det är bäst att synkronisera så snart som möjligt efter den sista incheckningen. Din surfplatta måste vara ansluten till Internet.
 
 >[!CAUTION]
 >
@@ -162,7 +162,7 @@ Vissa platser har dålig internetuppkoppling. Du behöver en bra anslutning till
 * Välj en händelse
 * Synkronisera appen med Marketo
 
-Om du är oroad över internetåtkomst på platsen kanske du vill logga in på Marketo Events-appen och välja evenemanget i förväg, på en plats med stark internetåtkomst. På så sätt kan du fortfarande använda appen offline. När du sedan återfår en internetanslutning kan du synkronisera direkt till Marketo-databasen.
+Om du är oroad över internetuppkoppling kan du logga in på Marketo Events-appen och välja ett evenemang i förväg på en plats med stark internetuppkoppling. På så sätt kan du fortfarande använda appen offline. När du sedan återfår en internetanslutning kan du synkronisera direkt till Marketo-databasen.
 
 >[!TIP]
 >
