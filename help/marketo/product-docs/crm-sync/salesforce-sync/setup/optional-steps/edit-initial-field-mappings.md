@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719287
-description: Redigera ursprungliga fältmappningar - Marketo Docs - Produktdokumentation
+description: Redigera ursprungliga fältmappningar - Marketo Docs - produktdokumentation
 title: Redigera ursprungliga fältmappningar
+exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
 
 ---
-
 
 # Redigera ursprungliga fältmappningar {#edit-initial-field-mappings}
 
@@ -45,7 +45,7 @@ När du ser ett fält i mappen Omappade fält betyder det att det inte är mappa
 
 ## Bryt befintlig mappning {#break-existing-mapping}
 
-Om du har fält med liknande namn på leadet och kontaktobjektet Marketo mappas de automatiskt. Du kan anse att de är olika och att de har olika data. Bryt mappningen så här.
+Om du har fält med liknande namn på lead- och kontaktobjektet mappas de automatiskt av Marketo. Du kan anse att de är olika och att de har olika data. Bryt mappningen så här.
 
 1. Klicka på **Redigera mappningar**.
 
