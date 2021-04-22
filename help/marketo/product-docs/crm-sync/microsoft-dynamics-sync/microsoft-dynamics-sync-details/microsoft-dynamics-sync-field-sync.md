@@ -2,28 +2,28 @@
 unique-page-id: 3571838
 description: Microsoft Dynamics Sync -Field Sync - Marketo Docs - Produktdokumentation
 title: Microsoft Dynamics Sync - fältsynkronisering
+exl-id: 78eef0eb-4086-45c5-bce3-a3399016f228
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
 
 ---
 
-
 # Microsoft Dynamics Sync: Fältsynkronisering {#microsoft-dynamics-sync-field-sync}
 
-Marketo to Dynamics sync är superkraftfull. Här är detaljerna.
+Synkroniseringen mellan Marketo och Dynamics är superkraftfull. Här är detaljerna.
 
 ## Hur synkroniseras fältinformation mellan de två systemen? {#how-are-field-details-kept-in-sync-between-the-two-systems}
 
-Synkroniseringen är dubbelriktad för lead- och kontaktentiteter. Om du ändrar ett lead eller en kontakt i Dynamics eller en person i Marketo återspeglas dina uppdateringar i båda systemen.
+Synkroniseringen är dubbelriktad för lead- och kontaktentiteter. Om du ändrar ett lead eller en kontakt i Dynamics eller en person i Marketo återspeglas uppdateringarna i båda systemen.
 
-Synkroniseringen är envägs för konton, användare, affärstillfällen, team och anpassade entiteter: Dynamics till Marketo. Om du gör ändringar i de här enheterna i Dynamics återspeglas dina uppdateringar i Marketo.
+Synkroniseringen är envägs för konton, användare, affärstillfällen, team och anpassade entiteter: Dynamics till Marketo. Om du ändrar något i de här enheterna i Dynamics återspeglas dina uppdateringar i Marketo.
 
 ## Vad händer om samma fält ändras i båda systemen samtidigt? (datakollision) {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
-Trots att detta är sällsynt kommer Marketo att vinna för människor (leads) och Dynamics kommer att vinna för kontakter. Detta beror på att vi anser att marknadsföringsavdelningen är auktoritativ för människor, medan det officiella systemet för kontakter finns på försäljningsavdelningen (CRM). För enkelriktade synkroniseringsenheter vinner Dynamics alltid.
+Även om detta är sällsynt kommer Marketo att vinna för människor (leads) och Dynamics kommer att vinna för kontakter. Detta beror på att vi anser att marknadsföringsavdelningen är auktoritativ för människor, medan det officiella systemet för kontakter finns på försäljningsavdelningen (CRM). För enkelriktade synkroniseringsenheter vinner Dynamics alltid.
 
 ## Kan jag skapa ett fält i Dynamics med Marketo? {#can-i-create-a-field-in-dynamics-using-marketo}
 
