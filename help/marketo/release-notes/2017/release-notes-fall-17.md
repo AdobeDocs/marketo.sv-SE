@@ -1,33 +1,33 @@
 ---
 unique-page-id: 12983280
-description: Versionsinformation -höst '17 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -höst 17 - Marketo Docs - produktdokumentation
 title: Versionsinformation - höst 17
+exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '597'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: Hög &#39;17 {#release-notes-fall}
 
-Följande funktioner finns i höstutgåvan 17. Se om din Marketo-utgåva har funktioner tillgängliga.
+Följande funktioner finns i höstutgåvan 17. Se om det finns funktioner i din Marketo-utgåva.
 
 Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion. Obs! Vissa av funktionerna i den här versionen har inte associerade artiklar. Om ett ämne har flera underrubriker placeras länkarna där.
 
 ## Systemtillförlitlighet {#system-reliability}
 
-Vi har gjort ytterligare förbättringar av kärninfrastrukturen på Marketo, bland annat bättre sekvensering, färre avvikelser och förbättrad Munchkin-stabilitet.
+Vi har gjort ytterligare förbättringar av Marketo kärninfrastruktur, bland annat bättre sekvensering, färre avvikelser och förbättrad Munchkin-stabilitet.
 
 ## SFDC-synkroniseringsprestanda {#sfdc-sync-performance}
 
-Dra nytta av en djupare och snabbare synkronisering mellan Marketo och Salesforce. Dataändringar som kräver satsvis uppdatering av konton eller leads kan delas upp i parallella köer för att undvika eftersläpningar. Händelser och uppgifter synkroniseras nu också upp till 50 % snabbare.
+Utnyttja den djupare och snabbare synkroniseringen i Marketo och Salesforce. Dataändringar som kräver satsvis uppdatering av konton eller leads kan delas upp i parallella köer för att undvika eftersläpningar. Händelser och uppgifter synkroniseras nu också upp till 50 % snabbare.
 
 ## Prestandaförbättringar för analys {#analytics-performance-improvements}
 
-De senaste infrastrukturförbättringarna erbjuder ökad drifttid och stabilitet i Marketos rapporterings- och analysverktyg, vilket gör att ni kan skapa ad hoc-rapporter snabbare.
+De senaste infrastrukturförbättringarna ger ökad drifttid och stabilitet i Marketo rapporterings- och analysverktyg, vilket gör att du kan skapa ad hoc-rapporter snabbare.
 
 ## [Mottagarens tidszon](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md) {#recipient-time-zone}
 
@@ -43,15 +43,15 @@ Med den här nya funktionen kan du nu lagra och leverera e-post enligt lokala ti
 
 Marketo har ett nytt alternativ för att välja ett segment när exempelmeddelanden skickas för granskning. Du behöver inte längre manuellt avgöra vilket segment ett lead tillhör, vilket gör det enklare att skicka e-postmeddelanden med dynamiskt innehåll till olika segment.
 
-## [Anpassade frågor för LinkedIn-lead-generering](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
+## [linkedIn Lead Gen - anpassade frågor](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
 
-Anpassa dina LinkedIn Lead Gen-formulär för att samla in anpassade lead-attribut. Du kan nu ställa upp till tre anpassade frågor per formulär, välja mellan enradstextinmatning eller flervalsfrågor och mappa tillbaka till Marketo-lead-fält.
+Anpassa era LinkedIn Lead Gen-formulär för att samla in anpassade lead-attribut. Du kan nu ställa upp till tre anpassade frågor per formulär, välja mellan enradstext eller flervalsfrågor och mappa tillbaka till Marketo lead-fält.
 
 ## [Integrering med Slack](/help/marketo/product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md) {#slack-integration}
 
 Vi har släppt två funktioner som en del av vår nya integrering med Slack:
 
-* Systemmeddelanden: Få Slack-meddelanden om viktiga händelser i Marketo-instansen, som aviseringar om aktuella kampanjstatus och eventuella problem som kräver omedelbar åtgärd.
+* Systemmeddelanden: Få Slack-meddelanden om viktiga händelser i din Marketo-instans, som aviseringar om aktuella kampanjstatus och eventuella problem som kräver omedelbar åtgärd.
 * Intressanta stunder: När en Marketo Insight har utlösts av en känd person från ett försäljningskonto kan ledande ägare meddelas via Slack. Meddelanden innehåller information om lead samt detaljer om försäljningskontot.
 
 ## ABM-förbättringar {#abm-enhancements}
@@ -88,7 +88,7 @@ Spara tid genom att återanvända kreativa resurser och bilder i flera kanaler i
 
 **[API för e-postförhandsgranskning](https://developers.marketo.com/rest-api/assets/emails/)**
 
-Nu kan du fjärrförhandsgranska e-post utanför Marketo, vilket förenklar processen för lokalisering av e-postinnehåll och minskar antalet fel.
+Nu kan du förgranska e-post utanför Marketo via fjärranslutning, vilket förenklar processen för lokalisering av e-postinnehåll och minskar antalet fel.
 
 **[Ersätt HTML-API](https://developers.marketo.com/rest-api/assets/emails/)**
 
