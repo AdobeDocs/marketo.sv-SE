@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147021
-description: Ändra ägare - Marketo Docs - Produktdokumentation
+description: Ändra ägare - Marketo Docs - produktdokumentation
 title: Ändra ägare
+exl-id: b22c5cd8-1b53-4802-8b49-7f607c8a601b
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
-
 
 # Ändra ägare {#change-owner}
 
