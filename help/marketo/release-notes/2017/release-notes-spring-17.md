@@ -2,26 +2,26 @@
 unique-page-id: 12977439
 description: Versionsinformation -Spring '17 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - våren 17
+exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '671'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: Spring &#39;17 {#release-notes-spring}
 
-Följande funktioner finns i vårutgåvan 17. Se om din Marketo-utgåva har funktioner tillgängliga.
+Följande funktioner finns i vårutgåvan 17. Se om det finns funktioner i din Marketo-utgåva.
 
 Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion. **Obs**: Om ett ämne har flera underrubriker placeras länkarna där.
 
-## [LinkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
+## [linkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[LinkedIn Lead Gen ](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) Forms är ett mer direkt sätt för ett företag att köra leadgenereringskampanjer på LinkedIn. Man kan fylla i blanketter för att uttrycka sitt intresse för en produkt eller tjänst, vilket gör det möjligt för företaget att samla in personuppgifterna och synka dem till Marketo, där automatiserade uppföljningsprocesser och leadhanteringsaktiviteter kan förekomma.
+[linkedIn Lead Gen ](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) Forms är ett mer direkt sätt för ett företag att köra leadgenereringskampanjer på LinkedIn. Man kan fylla i blanketter för att uttrycka sitt intresse för en produkt eller tjänst, vilket gör det möjligt för företaget att samla in personuppgifterna och synka dem till Marketo, där automatiserade uppföljningsprocesser och leadhanteringsaktiviteter kan förekomma.
 
-Marketo-integreringen med LinkedIn Lead Gen Forms hämtar automatiskt information som ett lead tillhandahåller i formuläret Lead Gen. Uppföljningsåtgärder och meddelanden kan sedan automatiseras med den nya utlösaren och filtret **Fyll i LinkedIn Lead Gen Form**.
+Marketo-integreringen med LinkedIn Lead Gen Forms hämtar automatiskt information som ett lead tillhandahåller i formuläret Lead Gen. Uppföljningsåtgärder och meddelanden kan sedan automatiseras med den nya **Fyll i LinkedIn Lead Gen Form**-utlösaren och -filtret.
 
 ![](assets/release-notes-image.png)
 
@@ -37,17 +37,17 @@ Nu är det dags att rensa upp gamla mallar i Sales Insight. Ange ett förfalloda
 
 ## [Massextrahera API:er för personer och aktiviteter](https://developers.marketo.com/rest-api/bulk-extract/) {#bulk-extract-apis-for-people-and-activities}
 
-Överför enkelt stora mängder person- och aktivitetsdata från Markering till era externa system.
+Överför enkelt stora mängder person- och aktivitetsdata från Marketo till era externa system.
 
 ## ABM-förbättringar {#abm-enhancements}
 
 **[Anpassade fält på namngivna ABM-konton](https://docs.marketo.com/x/1wnG)**
 
-Med Marketo ABM kan du nu skapa upp till 10 anpassade fält på dina namngivna konton. Du kan mappa dessa anpassade fält till fält i CRM-kontoobjektet och Marketo ABM synkroniserar data, så att du kan utöka dina namngivna ABM-konton och hjälpa till att driva marknadsföringen framåt.
+Med Marketo ABM kan du nu skapa upp till 10 anpassade fält på dina namngivna konton. Du kan mappa dessa anpassade fält till fält i CRM-kontoobjektet, så synkroniserar Marketo ABM data så att du kan utöka dina namngivna ABM-konton och hjälpa till att driva marknadsföringen framåt.
 
 **[Percentiell poängsättning på namngivna ABM-konton](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
-Poängen för namngivna konton kan variera mycket. Marketo ABM beräknar nu automatiskt en percentil för var och en av dina poäng, så att du snabbt kan se var varje namngivet konto finns bland dina andra namngivna konton.
+Poängen för namngivna konton kan variera mycket. Marketo ABM beräknar nu automatiskt en percentil för var och en av poängen så att du snabbt kan se var varje namngivet konto finns bland dina andra namngivna konton.
 
 **[API:er för kontolista för ABM](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
 
@@ -89,7 +89,7 @@ Arkiv är en ny Web Campaign-status som gör att du kan arkivera webbkampanjer o
 
 **[Lokalisering](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
 
-Webbpersonalisering finns nu på alla språk som stöds av Marketo (engelska, japanska, tyska, spanska, franska och portugisiska).
+Webbanpassning finns nu på alla språk som stöds av Marketo (engelska, japanska, tyska, spanska, franska och portugisiska).
 
 ## Prediktiva förbättringar {#predictive-enhancements}
 
