@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7516607
-description: Saker att granska - kärnfärdigheter - Marketo Docs - Produktdokumentation
+description: Saker att granska - kärnfärdigheter - Marketo Docs - produktdokumentation
 title: Saker att granska - kärnfärdigheter
+exl-id: 37dfb6e7-b850-45fe-bbf4-15eb58a7bc1d
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
 
 ---
-
 
 # Saker att granska: Kärnfärdigheter {#things-to-review-core-skills}
 
