@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4720461
-description: HTML-kodningstoken i e-post - Marketo Docs - Produktdokumentation
+description: HTML-kodningstoken i e-post - Marketo Docs - produktdokumentation
 title: HTML-kodningstoken i e-post
+exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
 
 ---
-
 
 # HTML-kodningstoken i e-post {#html-encode-tokens-in-emails}
 
