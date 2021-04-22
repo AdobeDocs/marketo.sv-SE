@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951109
-description: Versionsinformation - oktober 2012 - Marketo Docs - Produktdokumentation
+description: Versionsinformation - oktober 2012 - Marketo Docs - produktdokumentation
 title: Versionsinformation - oktober 2012
+exl-id: 60ad7d45-ddf6-4f0c-a0c6-5f5a9bdc2998
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '353'
 ht-degree: 0%
 
 ---
-
 
 # Versionsinformation: Oktober 2012 {#release-notes-october}
 
@@ -23,9 +23,9 @@ Ett program kan importeras från en Marketo-prenumeration till en annan. Du kan 
 
 >[!NOTE]
 >
->Endast Marketo-användare som har fått tillstånd av en Marketo-administratörsanvändare kan importera program.
+>Endast Marketo-användare som har beviljats tillstånd av en Marketo-administratörsanvändare kan importera program.
 >
->Kontakta Marketo Support om du vill ansluta ett sandlådekonto till din liveprenumeration.
+>Kontakta Marketo Support för att ansluta ett sandlådekonto till din liveprenumeration.
 
 ## Meddelanden {#notifications}
 
@@ -47,11 +47,11 @@ Ta reda på vilka som har delat ert innehåll och rösträtt i era omröstningar
 
 ## Sociala profiler {#social-profiles}
 
-Nu kan ni samla in information om era leads när de delar innehåll eller fyller i formulär med hjälp av deras sociala profiler. Detta inkluderar Facebook-, LinkedIn- och Twitter-handtag, antalet vänner de har med mera.
+Nu kan ni samla in information om era leads när de delar innehåll eller fyller i formulär med hjälp av deras sociala profiler. Detta omfattar handtag för Facebook, LinkedIn och Twitter, hur många vänner de har, med mera.
 
 ## Rapportprenumerationer {#revenue-explorer-report-subscriptions} för Intäktsutforskaren
 
-Skapa prenumerationer på rapporter och skicka rapporter från Intresseutforskaren regelbundet till era huvudintressenter, inklusive andra användare än Marketo. E-postmeddelandet innehåller en förhandsgranskning av rapportens datatabell eller diagram och ett Excel-kalkylblad med alla rapportdata.
+Skapa prenumerationer på rapporter och skicka rapporter från Intresseutforskaren regelbundet till viktiga intressenter, inklusive användare utanför Marketo. E-postmeddelandet innehåller en förhandsgranskning av rapportens datatabell eller diagram och ett Excel-kalkylblad med alla rapportdata.
 
 ![](assets/image2014-9-23-10-3a47-3a33.png)
 
