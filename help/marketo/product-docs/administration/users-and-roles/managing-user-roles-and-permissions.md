@@ -2,20 +2,20 @@
 unique-page-id: 2359909
 description: Hantera användarroller och behörigheter - Marketo Docs - Produktdokumentation
 title: Hantera användarroller och behörigheter
+exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '473'
 ht-degree: 0%
 
 ---
 
-
 # Hantera användarroller och behörigheter {#managing-user-roles-and-permissions}
 
 Ange, skapa och redigera användarroller och tilldela dem till användare. På så sätt kan du styra vilka områden och funktioner som varje Marketo-användare har tillgång till.
 
-En marknadsföringsanvändare behöver till exempel vanligtvis bred åtkomst i hela programmet för att kunna skapa, ändra och distribuera e-post, landningssidor och program. En webbdesigner däremot spenderar nästan hela sin tid på Design Studio och skapar material för e-post och landningssidor. Och även om företagsledare i stor utsträckning använder sig av Marketos rapporter i Analytics-området kanske de inte behöver skapa eller driva tillgångarna eller programmen själva.
+En marknadsföringsanvändare behöver till exempel vanligtvis bred åtkomst i hela programmet för att kunna skapa, ändra och distribuera e-post, landningssidor och program. En webbdesigner däremot spenderar nästan hela sin tid på Design Studio och skapar material för e-post och landningssidor. Och även om företagsledare i stor utsträckning använder Marketo rapporter i Analytics-området kanske de inte behöver skapa eller driva tillgångarna eller programmen själva.
 
 >[!NOTE]
 >
