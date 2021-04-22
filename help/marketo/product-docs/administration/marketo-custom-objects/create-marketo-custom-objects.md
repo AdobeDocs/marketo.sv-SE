@@ -1,23 +1,23 @@
 ---
 unique-page-id: 10093192
-description: Skapa anpassade Marketo-objekt - Marketo Docs - Produktdokumentation
+description: Skapa anpassade Marketo-objekt - Marketo Docs - produktdokumentation
 title: Skapa anpassade Marketo-objekt
+exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '710'
 ht-degree: 0%
 
 ---
 
+# Skapa anpassade Marketo-objekt {#create-marketo-custom-objects}
 
-# Skapa Marketo-anpassade objekt {#create-marketo-custom-objects}
-
-Använd anpassade objekt i Marketo för att spåra mätvärden som är specifika för din verksamhet. Det kan vara allt från bilar till kurser - allt du vill modellera i Marketo för att köra era kampanjer.
+Använd anpassade objekt i Marketo för att spåra mätvärden som är specifika för ditt företag. Det kan vara allt från bilar till kurser - allt du vill göra i Marketo för att genomföra kampanjer.
 
 >[!NOTE]
 >
->Du kan ställa in anpassade objekt så att de fungerar på en-till-många- eller många-till-många-basis. Du skapar det ursprungliga objektet på samma sätt, men stegen är olika när du börjar lägga till fält till objektet. Mer information finns i [Förstå Marketo-anpassade objekt](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md).
+>Du kan ställa in anpassade objekt så att de fungerar på en-till-många- eller många-till-många-basis. Du skapar det ursprungliga objektet på samma sätt, men stegen är olika när du börjar lägga till fält till objektet. Mer information finns i [Förstå anpassade Marketo-objekt](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md).
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Använd anpassade objekt i Marketo för att spåra mätvärden som är specifika
 
 I det här exemplet visas ett anpassat bildobjekt som kan användas i en en-till-många-struktur. Senare skapar du ett kursanpassat objekt och ett mellanliggande objekt som du kan använda i en många-till-många-struktur.
 
-1. Klicka på **Admin** och välj **Marketo-anpassade objekt** i **Databashantering**.
+1. Klicka på **Admin** och välj **Marketo anpassade objekt** i **Databashantering**.
 
    ![](assets/image2016-1-18-13-3a12-3a19.png)
 
@@ -37,7 +37,7 @@ I det här exemplet visas ett anpassat bildobjekt som kan användas i en en-till
 
    >[!NOTE]
    >
-   >På fliken Anpassade objekt i Marketo visas alla anpassade objekt till höger och information om godkända objekt, inklusive antal poster och fält vid den senaste uppdateringen.
+   >På fliken Anpassade objekt i Marketo visas alla anpassade objekt till höger och information om godkända objekt, inklusive antalet poster och fält vid den senaste uppdateringen.
 
 1. Ange ett visningsnamn. API-namnet och pluronamnet fylls i automatiskt. Ange en beskrivning (valfritt).
 
@@ -59,7 +59,7 @@ I det här exemplet visas ett anpassat bildobjekt som kan användas i en en-till
 
    >[!NOTE]
    >
-   >Du kan bara fylla i Marketo-anpassade objekt via en listimport eller [API](https://developers.marketo.com/documentation/rest/).
+   >Du kan bara fylla i anpassade Marketo-objekt via en listimport eller [API](https://developers.marketo.com/documentation/rest/).
 
 ## Skapa ett anpassat objekt för en många-till-många-struktur {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -69,7 +69,7 @@ I det här exemplet visas ett anpassat kursobjekt som du använder för att skap
 >
 >För många-till-många-relationer behöver du inte skapa någon länk i det anpassade objektet. I stället lägger du till två länkar till mellanliggande objekt (se nedan).
 
-1. Klicka på **Admin** och välj **Marketo-anpassade objekt** i **Databashantering**.
+1. Klicka på **Admin** och välj **Marketo anpassade objekt** i **Databashantering**.
 
    ![](assets/image2016-1-18-13-3a16-3a25.png)
 
@@ -95,7 +95,7 @@ I det här exemplet visas ett anpassat kursobjekt som du använder för att skap
 
    >[!NOTE]
    >
-   >Du kan bara fylla i Marketo-anpassade objekt via en listimport eller [API](https://developers.marketo.com/documentation/rest/).
+   >Du kan bara fylla i anpassade Marketo-objekt via en listimport eller [API](https://developers.marketo.com/documentation/rest/).
 
 Nästa steg är att skapa ett mellanliggande objekt (se nedan). Innan dess måste du skapa ett fält som du kan länka till.
 
@@ -107,7 +107,7 @@ Använd ett mellanliggande objekt för att koppla ett anpassat objekt till perso
 >
 >Du behöver inte skapa ett mellanliggande objekt för en anpassad objektstruktur med en-till-många.
 
-1. Klicka på **Admin** och välj **Marketo-anpassade objekt** i **Databashantering**.
+1. Klicka på **Admin** och välj **Marketo anpassade objekt** i **Databashantering**.
 
    ![](assets/image2016-1-18-13-3a17-3a40.png)
 
@@ -133,7 +133,7 @@ Använd ett mellanliggande objekt för att koppla ett anpassat objekt till perso
 
 >[!MORELIKETHIS]
 >
->* [Lägg till markering i anpassade objektfält](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
->* [Lägg till markering i anpassade objektlänkfält](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
->* [Förstå anpassade objekt i Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>* [Lägg till anpassade Marketo-objektfält](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [Lägg till Marketo anpassade objektlänkfält](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
+>* [Förstå anpassade Marketo-objekt](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
