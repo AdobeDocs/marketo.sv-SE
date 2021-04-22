@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147136
-description: Redigera poster i programschemavy - Marketo Docs - Produktdokumentation
+description: Redigera poster i programschemavy - Marketo Docs - produktdokumentation
 title: Redigera poster i programschemavy
+exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
 
 ---
-
 
 # Redigera poster i programschemavy {#editing-entries-in-the-program-schedule-view}
 
