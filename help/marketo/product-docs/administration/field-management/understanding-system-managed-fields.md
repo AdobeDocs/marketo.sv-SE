@@ -2,14 +2,14 @@
 unique-page-id: 5472615
 description: Understanding System Managed Fields - Marketo Docs - Product Documentation
 title: Förstå systemhanterade fält
+exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '522'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Om systemhanterade fält {#understanding-system-managed-fields}
 
@@ -27,13 +27,13 @@ Du kan ha lagt märke till att sidan [personinformation](/help/marketo/product-d
 | Typ av registreringskälla | Den plats där en aktivitet först blev en person (Exempel: List Import, Web Page Visit) |
 | Information om registreringskälla | Specifikationer om den platsen (Exempel: Namn på listan, webbsidans URL) |
 | Anonym IP | Anger en persons IP-adress |
-| Infört företag | Marketos bästa gissning (baserat på IP) för personens företag |
-| Inaktuell ort | Marketos bästa gissning (baserat på IP) för personens ort |
-| Ingångsregion | Marketos bästa gissning (baserat på IP) för personens stat eller region |
-| Infört postnummer | Marketos bästa gissning (baserat på IP) av personens postnummer |
-| Infört land | Marketos bästa gissning (baserat på IP) för personens land |
-| Ingående metropolitområde | Marketos bästa gissning (baserat på IP) i personens storstadsområde |
-| Riktnummer för inkommande telefon | Marketos bästa gissning (baserat på IP) för personens riktnummer |
+| Berört företag | Marketo bästa gissning (baserat på IP) för personens företag |
+| Inaktuell ort | Marketo bästa gissning (baserat på IP) för personens ort |
+| Ingångsregion | Marketo bästa gissning (baserat på IP) för personens stat eller region |
+| Infört postnummer | Marketo bästa gissning (baserat på IP) för personens postnummer |
+| Berört land | Marketo bästa gissning (baserat på IP) för personens land |
+| Ingående metropolitområde | Marketo bästa gissning (baserat på IP) för personens storstadsområde |
+| Riktnummer för inkommande telefon | Marketo bästa gissning (baserat på IP) för personens riktnummer |
 
 ## Möjliga värden för ursprunglig och registreringskälltyp {#possible-values-for-original-and-registration-source-type}
 
@@ -50,7 +50,7 @@ Nedan finns några möjliga värden och vad de betyder.
 | E-postadress | Personen fick ett e-postmeddelande via e-posttillägget Sales Insight |
 | Person | Personen synkroniserades från Salesforce som en person |
 | Kontakt | Personen synkroniserades från Salesforce som en kontakt |
-| Munchkin API | Personen upptäcktes av Marketos Munchkin API |
+| Munchkin API | En person upptäcktes av Marketo Munchkin API |
 | Social app | Personen upptäcktes av en social widget |
 | Webbtjänstens API | Personen upptäcktes av ett webbtjänste-API |
 | Evenemangspartner | Personen upptäcktes via en synkroniserad webbinatjänst |
@@ -64,6 +64,6 @@ Nedan finns några möjliga värden och vad de betyder.
 | E-postadress | Personen fick ett e-postmeddelande via e-posttillägget Sales Insight |
 | Webbtjänstens API | Personen skapades via SOAP/REST API |
 | Ny person | Personen har angetts manuellt i databasen |
-| Munchkin API | Bli en person via Marketos Munchkin API |
+| Munchkin API | Bli en person med Marketo Munchkins API |
 | Social app | Bli en person via en social widget |
 | Evenemangspartner | Bli en person via en länkad webbinärtjänst |
