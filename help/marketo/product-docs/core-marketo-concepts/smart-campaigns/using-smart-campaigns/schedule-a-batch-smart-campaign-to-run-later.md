@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146970
-description: Schemalägg en batchvis smart kampanj att köras senare - Marketo Docs - produktdokumentation
+description: Boka en batchvis smart kampanj att köra senare - Marketo Docs - produktdokumentation
 title: Schemalägg en batchsmart kampanj att köras senare
+exl-id: b78ffed2-cf91-4860-8a94-65b35d2927e2
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
 
 ---
-
 
 # Schemalägg en batchsmart kampanj att köras senare {#schedule-a-batch-smart-campaign-to-run-later}
 
