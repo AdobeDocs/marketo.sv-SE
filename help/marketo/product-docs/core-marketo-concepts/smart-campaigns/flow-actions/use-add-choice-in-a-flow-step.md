@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146980
-description: Använd Lägg till val i ett flödessteg - Marketo Docs - Produktdokumentation
+description: Använd Lägg till val i ett flödessteg - Marketo Docs - produktdokumentation
 title: Använd Lägg till alternativ i ett flödessteg
+exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
-
 
 # Använd Lägg till alternativ i ett flödessteg {#use-add-choice-in-a-flow-step}
 
