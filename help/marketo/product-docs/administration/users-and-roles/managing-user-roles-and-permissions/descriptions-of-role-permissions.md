@@ -1,15 +1,15 @@
 ---
 unique-page-id: 6848747
-description: Beskrivningar av rollbehörigheter - Marketo Docs - Produktdokumentation
+description: Beskrivningar av rollbehörigheter - Marketo Docs - produktdokumentation
 title: Beskrivningar av rollbehörigheter
+exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1144'
 ht-degree: 0%
 
 ---
-
 
 # Beskrivningar av rollbehörigheter {#descriptions-of-role-permissions}
 
@@ -44,8 +44,8 @@ Visa och gör ändringar i inställningarna under Mitt konto i Admin.
 * Åtkomstplats - Ger användare åtkomst till plats i Admin för att ange standardspråk, nationella inställningar, tidszon och valuta
 * Åtkomst till inloggningshistorik - Ger användare åtkomst till användarens inloggningshistorik i granskningsspår
 * Åtkomst till inloggningsinställningar - Ger användarna åtkomst till inloggningsinställningar i Admin för inställningar av säkerhet, IP-begränsningar och Smart List-rapporter
-* Access Marketo Custom Activity (Anpassad aktivitet för Access Marketo) - ger användarna åtkomst till anpassade aktiviteter i Admin
-* Anpassat objekt för Access Marketo - Ger användare åtkomst till anpassade objekt i Marketo i Admin
+* Åtkomst till anpassad aktivitet för Marketo - Ger användare åtkomst till anpassade aktiviteter för Marketo i Admin
+* Åtkomst till anpassat Marketo-objekt - Ger användare åtkomst till anpassade Marketo-objekt i administratören
 * Access Munchkin - glittrar användare tillgång till Munchkin i Admin för att ställa in spårningskod, personspårning och aktivera API-konfiguration
 * Access Revenue Cycle Analytics (Åtkomstcykelanalys) - Ger användarna tillgång till Intäktscykelanalys i Admin, för inställning av Synkroniseringssammanfattning och Attribution
 * Åtkomstroller - Ger användare åtkomst till att hantera och redigera roller, men inte användare
