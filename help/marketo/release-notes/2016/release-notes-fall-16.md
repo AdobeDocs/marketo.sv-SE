@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11384018
-description: Versionsinformation -höst '16 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -höst 16 - Marketo Docs - produktdokumentation
 title: Versionsinformation - höst 16
+exl-id: da935951-162e-426c-acf2-12c55ff706b4
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '683'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: Hög &#39;16 {#release-notes-fall}
 
-Följande funktioner finns i höstutgåvan 16. Se om din Marketo-utgåva har funktioner tillgängliga. Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion.
+Följande funktioner finns i höstutgåvan 16. Se om det finns funktioner i din Marketo-utgåva. Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion.
 
 ## Prediktivt innehåll i e-post {#predictive-content-in-email}
 
@@ -29,7 +29,7 @@ Nu kan du lägga till prediktivt innehåll i e-postmeddelandet. När e-postmedde
 
 ![](assets/predictive.png)
 
-## [Konverteringar offline för Facebook](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
+## [Facebook Offline-konverteringar](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
 
 Tack vare integreringen med Facebook Offline Conversions skickas konverteringsdata i Marketo (för leads) automatiskt tillbaka till Facebook så att ert annonsteam bättre kan optimera annonskostnaderna. I den här Facebook Ad Manager-rapporten markeras offlinekonverteringarna.
 
@@ -43,9 +43,9 @@ Med ett universellt ID kan du komma åt flera Marketo-prenumerationer med en end
 
 >[!NOTE]
 >
->Kontakta Marketo Support om du vill aktivera den här funktionen.
+>Kontakta Marketo Support för att aktivera den här funktionen.
 
-## Marketo-kontobaserade marknadsföringsförbättringar {#marketo-account-based-marketing-enhancements}
+## Förbättringar av kontobaserad marknadsföring för Marketo {#marketo-account-based-marketing-enhancements}
 
 Nu kan ni tilldela kontoteam till namngivna konton i kontobaserad marknadsföring (ABM), till exempel kontoägare, säljutvecklingsrepresentant, affärsutvecklingsrepresentant och kundframgångsansvarig. Du kan också skapa kontoägarspecifika kontolistor och skicka personliga ABM-rapporter varje vecka till kontoteamet.
 
@@ -93,6 +93,6 @@ I den här versionen kan Marketo ABM-användare hantera namngivna konton via API
 
 Hantera variabler och moduler för e-post i v2.0-format med Marketo REST API.
 
-## [Ändringar i Marketo Salesforce-synkronisering](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
+## [Ändringar i Marketo Salesforce Sync](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
-Marketos Salesforce-integrering utvecklas för att förbättra det sätt på vilket Marketo-fält synkroniseras med Salesforce. I stället för att behöva synkronisera en stor grupp fält som du kanske behöver kan du nu välja vilka fält du vill inkludera och välja vilka. Läs vår dokumentation här för mer information: [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
+Marketo Salesforce-integrering utvecklas för att förbättra det sätt på vilket Marketo-fält synkroniseras med Salesforce. I stället för att behöva synkronisera en stor grupp fält som du kanske behöver kan du nu välja vilka fält du vill inkludera och välja vilka. Läs vår dokumentation här för mer information: [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
