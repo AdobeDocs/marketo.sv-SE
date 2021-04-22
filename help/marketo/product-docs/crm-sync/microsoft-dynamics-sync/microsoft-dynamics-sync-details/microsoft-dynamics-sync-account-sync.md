@@ -2,14 +2,14 @@
 unique-page-id: 3571836
 description: Microsoft Dynamics Sync -Account Sync - Marketo Docs - Produktdokumentation
 title: Microsoft Dynamics Sync - kontosynkronisering
+exl-id: 86249d33-60dd-47e1-a7c8-3996c9444084
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
 
 ---
-
 
 # Microsoft Dynamics Sync: Kontosynkronisering {#microsoft-dynamics-sync-account-sync}
 
@@ -21,7 +21,7 @@ Bara ett sätt: från Dynamics till Marketo.
 
 ## Hur fungerar uppdateringarna? {#how-do-the-updates-work}
 
-Om du uppdaterar ett kontofält för en kontakt i Marketo, ändras värdena för alla kontakter som tillhör det kontot i Marketo. Den synkroniseras inte med Dynamics. Nästa gång som kontot uppdateras i Dynamics kommer dock ändringarna att åsidosätta all kontoinformation i Marketo.
+Om du uppdaterar ett kontofält för en kontakt i Marketo ändras värdena för alla kontakter som hör till det kontot i Marketo. Den synkroniseras inte med Dynamics. Nästa gång som kontot uppdateras i Dynamics kommer dock ändringarna att åsidosätta all kontoinformation i Marketo.
 
 ## Kan jag skapa ett konto med Marketo? {#can-i-create-an-account-using-marketo}
 
@@ -29,7 +29,7 @@ Nej. Marketo kan inte skapa konton i Dynamics.
 
 ## Vilka fält synkroniseras med Marketo? {#which-fields-will-sync-to-marketo}
 
-Du kan [välja fält att synkronisera](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync) under installationen. Marketo synkroniserar bara de fält som din Dynamics-synkroniseringsanvändare har åtkomst till.
+Du kan [välja fält att synkronisera](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync) under installationen. Men Marketo synkroniserar bara de fält som din Dynamics-synkroniseringsanvändare har åtkomst till.
 
 ## Blir en ändring i ett kontofält i Dynamics en aktivitetslogg för att ändra datavärde för varje kontakt?  {#does-a-change-in-an-account-field-in-dynamics-results-in-a-change-data-value-activity-log-for-each-contact}
 
