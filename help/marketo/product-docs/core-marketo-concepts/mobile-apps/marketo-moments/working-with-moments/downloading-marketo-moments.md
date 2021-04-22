@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8782024
-description: Laddar ned Marketo Moments - Marketo Docs - produktdokumentation
+description: Ladda ned Marketo Moments - Marketo Docs - produktdokumentation
 title: Hämtar Marketo Moments
+exl-id: ccd8cb58-f2ae-478d-a3c4-fbc713e3c22a
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
-
 # Hämtar Marketo Moments {#downloading-marketo-moments}
 
-Hämta Marketo Moments från App Store eller Google Play och voila! Marketo magi i din hand.
+Ladda ned Marketo Moments från App Store eller Google Play och voila! Marketo magi i din hand.
 
 ## För iPhone {#for-iphone}
 
@@ -49,10 +49,10 @@ Mycket nöje!
 
 >[!NOTE]
 >
->Logga in med din vanliga Marketto-inloggning och lösenord.
+>Logga in med ditt vanliga Marketo-lösenord.
 >
 >Enkel inloggning med SAML (Security Assertion Markup Language) stöds inte för Marketo Moments.
 
 >[!MORELIKETHIS]
 >
->[Om Marketo-stunder](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>[Om Marketo Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
