@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11378713
-description: Utlös anpassade objektändringar - Marketo Docs - Produktdokumentation
+description: Utlös anpassade objektändringar - Marketo Docs - produktdokumentation
 title: Utlös ändringar av anpassade objekt
+exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
-
 
 # Utlös ändringar av anpassade objekt {#trigger-off-custom-object-changes}
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 >Den här funktionen är endast tillgänglig:
 >
 >* För kunder med Orion-infrastrukturen
->* Används endast med anpassade objekt från Marketo, inte anpassade objekt som synkroniseras via den inbyggda Salesforce- eller Microsoft Dynamics-integreringen
+>* Kan endast användas med anpassade Marketo-objekt, inte anpassade objekt som synkroniseras via den inbyggda Salesforce- eller Microsoft Dynamics-integreringen
 >* Som utlösare, inte ett filter
 
 >
@@ -58,5 +58,5 @@ I den smarta kampanjens lista kan du utlösa en flödesåtgärd när ett anpassa
    >[!NOTE]
    >
    >* [Skapa en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-   >* [Förstå anpassade objekt i Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+   >* [Förstå anpassade Marketo-objekt](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
