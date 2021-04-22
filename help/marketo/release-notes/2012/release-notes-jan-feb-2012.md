@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2951124
-description: Versionsinformation -jan/feb 2012 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -jan/feb 2012 - Marketo Docs - produktdokumentation
 title: Versionsinformation - jan/feb 2012
+exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: Jan/Feb 2012 {#release-notes-jan-feb}
 
-Följande funktioner ingår i Jan/Feb-versionen. Se om din Marketo-utgåva har funktioner tillgängliga. Efter releasen finns länkar till detaljerad funktionsdokumentation.
+Följande funktioner ingår i Jan/Feb-versionen. Se om det finns funktioner i din Marketo-utgåva. Efter releasen finns länkar till detaljerad funktionsdokumentation.
 
 ## Avancerat dynamiskt innehåll {#advanced-dynamic-content}
 
