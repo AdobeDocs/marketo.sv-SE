@@ -2,14 +2,14 @@
 unique-page-id: 6848705
 description: Bästa praxis -Hur du organiserar program - Marketo Docs - Produktdokumentation
 title: Bästa praxis -Så här organiserar du dina program
+exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '843'
 ht-degree: 0%
 
 ---
-
 
 # God praxis: Organisera dina program {#best-practice-how-to-organize-your-programs}
 
@@ -62,7 +62,7 @@ Du kan lägga till fler mappar när du vill. Tänk bara på att framtida generat
 
 ## Namngivningsscheman {#naming-schemes}
 
-Namngivning är viktigt eftersom alla Marketos funktioner använder ett gemensamt språk för att kommunicera. För program bör du ge dem ett unikt namn. **Två program får inte ha samma namn**. Det bästa sättet är att använda följande format:
+Namngivning är viktigt eftersom Marketo funktioner alla använder ett gemensamt språk för att kommunicera. För program bör du ge dem ett unikt namn. **Två program får inte ha samma namn**. Det bästa sättet är att använda följande format:
 
 [Förkortning av programtyp ] [YYYY]-[MM]-[Optional ] [DDBrief - beskrivning]
 
@@ -123,4 +123,4 @@ En del människor kan till och med abstrahera större delen av texten i e-postme
 
 ## Sammanfattning {#summary}
 
-Som du ser finns det mycket kraft i Marketo. Grunderna har beskrivits här, men tänk på ytterligare [tjänster från Marketo Experts](https://www.marketo.com/services/) för att finjustera och konfigurera dig själv för att lyckas.
+Som du ser finns det mycket kraft i Marketo. Vi gick igenom grunderna här, men överväg några [extratjänster från Marketo Experts](https://www.marketo.com/services/) för att finjustera och konfigurera dig själv för att lyckas.
