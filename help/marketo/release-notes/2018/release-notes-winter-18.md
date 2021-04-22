@@ -1,31 +1,31 @@
 ---
 unique-page-id: 13795395
-description: Versionsinformation -vinter '18 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -vinter '18 - Marketo Docs - produktdokumentation
 title: Versionsinformation -vinter '18
+exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
 translation-type: tm+mt
-source-git-commit: d68eba976d0b71339fc5b70b3c035641d9e81d44
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: Vinter &#39;18 {#release-notes-winter}
 
-Följande funktioner finns i vinterversionen 18. Se om din Marketo-utgåva har funktioner tillgängliga.
+Följande funktioner finns i vinterversionen 18. Se om det finns funktioner i din Marketo-utgåva.
 
 Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion. **Obs**: Vissa av funktionerna i den här versionen har inte associerade artiklar. Om ett ämne har flera underrubriker placeras länkarna där.
 
 ## Förbättringar av kampanjprestanda och genomströmning {#campaign-performance-and-throughput-enhancements}
 
-Marketo utnyttjar vår big data-arkitektur för att öka kampanjens genomströmning och förbättra bearbetningen av webbaktiviteter, så att ni kan reagera snabbare på målgruppens handlingar.
+Marketo utnyttjar vår big data-arkitektur för att öka kampanjens genomströmning och förbättra webbaktivitetsbearbetningen, så att ni kan reagera snabbare på målgruppens handlingar.
 
-## Förbättringar av Marketos Salesforce CRM-integrering {#enhancements-to-marketo-s-salesforce-crm-integration}
+## Förbättringar av Marketo Salesforce CRM-integrering {#enhancements-to-marketo-s-salesforce-crm-integration}
 
 Vi har två förbättringar av vår integrering med Salesforce CRM:
 
-* [Marketo Admin-](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) meddelanden om vissa CRM-synkroniseringsfel (inloggningsuppgifterna har gått ut, API-gränser har uppnåtts osv.)
+* [Marketo Admin-](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) meddelanden om vissa CRM-synkroniseringsfel (inloggningsuppgifterna har upphört att gälla, API-gränser har uppnåtts osv.)
 
 * [Möjlighet att stänga av e-](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) postmeddelanden till lead-ägare vid leadtilldelning
 
@@ -35,7 +35,7 @@ Dessa förbättringar kommer att öka under 2018.
 
 >[!AVAILABILITY]
 >
->Performance Insights är en tilläggsprodukt. Kontakta er Marketto Customer Success Manager eller Account Executive för en offert.
+>Performance Insights är en tilläggsprodukt. Kontakta din Marketo Customer Success Manager eller kontoansvarige för en offert.
 
 Se hur era kampanjer och kanaler påverkar affärsresultaten med attribueringsanalys, interaktiva visualiseringar och en detaljerad datatabell.
 
@@ -63,11 +63,11 @@ Snabb skriptning stöds nu i e-postmeddelanden med dynamiskt innehåll. Kombiner
 
 **[Google Customer Match Integration](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
-Med den här integreringen kan ni skicka en Marketo-målgrupp till Google för målgruppsanpassning med Google AdWords, liksom för målgruppsanpassning mellan YouTube, Search och Gmail.
+Med den här integreringen kan ni skicka en Marketo-målgrupp till Google för målgruppsanpassning med Google AdWords, samt rikta om målgrupper i hela YouTube, Search och Gmail.
 
-**[API-förbättring för matchade målgrupper i LinkedIn](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
+**[API-förbättring för linkedIn Matched Audiences](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
-Med vårt nya LinkedIn API kan ni nu rikta om personer i er Marketo-databas till flera LinkedIn Campaign Manager-konton.
+Med vårt nya LinkedIn-API kan ni nu rikta om personer i er Marketo-databas till flera LinkedIn Campaign Manager-konton.
 
 ## Webbanpassning {#web-personalization}
 
@@ -83,7 +83,7 @@ Webbpersonalisering kan nu personalisera innehåll för en känd webbbesökare s
 
 **Förbättring av prediktiv algoritm**
 
-Innehåll som rekommenderas via Marketos optimerade ContentAI-algoritmer genererar upp till dubbelt så många klick som slumpmässigt innehåll.
+Innehåll som rekommenderas via Marketo optimerade ContentAI-algoritmer genererar upp till dubbelt så många klick som slumpmässigt innehåll.
 
 ## Integrering {#integration}
 
