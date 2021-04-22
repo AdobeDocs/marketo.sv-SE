@@ -1,25 +1,25 @@
 ---
 unique-page-id: 18874822
-description: Versionsinformation -juni 19 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -juni 19 - Marketo Docs - produktdokumentation
 title: Versionsinformation -juni 19
+exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '631'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: 19 juni {#release-notes-june}
 
-Följande funktioner finns i juniversionen 19. Se om din Marketo-utgåva har funktioner tillgängliga.
+Följande funktioner finns i juniversionen 19. Se om det finns funktioner i din Marketo-utgåva.
 
 **_Kvartalsvisa releaser_**
 
 Följande funktioner släpptes 14 juni 2019.
 
-## Marketo Core Services {#marketo-core-services}
+## Marketo bastjänster {#marketo-core-services}
 
 * **Kontrollsumma för** gruppextrahering: Kontrollera att en fullständig fil har hämtats genom att jämföra filens hash med kontrollsummesträngen för de slutförda extraheringsjobben.
 * **Automatisk migrering från e-post 1.0 till e-post 2.0**: Email 2.0 är helt kompatibelt med e-post 1.0 och mallar. Dra nytta av nya funktioner som möjligheten att gruppera innehållselement (bilder, text osv.) i moduler, definiera variabler som String, Color, Image, etc. i mallar och utnyttja fullt responsiva startmallar. Innehåller även en visuell väljare för e-postmallar.
@@ -30,7 +30,7 @@ Följande funktioner släpptes 14 juni 2019.
 
 ## Kontobaserad marknadsföring {#account-based-marketing}
 
-* **Matchning av LinkedIn-konto (BETA)** : Det finns nu en ny ABM-funktion i betaversionen som gör att du kan skicka listor med kända konton och konton med tomt utrymme direkt från Marketo till LinkedIn. Den här funktionen ingår automatiskt för alla Marketo ABM-kunder.
+* **linkedIn Kontomatchning (BETA)** : Det finns nu en ny ABM-funktion i betaversionen som gör att du kan skicka listor med kända konton och blankstegskonton direkt från Marketo till LinkedIn. Den här funktionen ingår automatiskt för alla Marketo ABM-kunder.
 
 <br> 
 
@@ -48,8 +48,8 @@ Följande funktioner förväntas släppas under det andra kalenderkvartalet och 
 * **Fullständiga navigeringslänkar**: Vi har aktiverat navigering till alla behöriga program, som Hootsuite, Calendar med flera.
 * **E-post, landningssida, kodfragment, formulär-, bild- och fillistvyer**: Visa, sök och utför massåtgärder på allt material i Design Studio.
 * **Information om bild, fil och kodfragment**: Få snabb information om dina resurser med metadata som  _skapas vid/_ vid och åtgärder som  __ att ta bort och  _godkänna_.
-* **Widgeten** Community-blogginlägg: Tillgång till nyligen gjorda inlägg från gemenskapen på My Marketo.
-* **Förfaller snart widget**: Lägg till widgeten&quot;Förfallodatum snart&quot; på instrumentpanelen för Min markering för att se vilka kampanjer och landningssidor som ska förfalla härnäst.
+* **Widgeten** Community-blogginlägg: Tillgång till nyligen tillagda tjänster från gemenskapen i Min Marketo.
+* **Förfaller snart widget**: Lägg till widgeten&quot;Förfallodatum snart&quot; på din Min Marketo-instrumentpanel för att se vilka kampanjer och landningssidor som ska förfalla härnäst.
 * **Fler smarta listkort**: Segmentera och målinrikta på rätt sätt med ytterligare smarta listkort, inklusive flödessteget&quot;Skapa uppgift&quot;, smarta CRM-listregler med mera.
 * **E-postkampanj/kundinformationssida**: Se data som vinnande kriterier, skapade på osv. från e-postkampanjen/utmanartesterna.
 
