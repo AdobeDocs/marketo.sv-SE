@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147019
-description: Konvertera person - Marketo Docs - Produktdokumentation
+description: Convert Person - Marketo Docs - produktdokumentation
 title: Konvertera person
+exl-id: b0ff0b63-a6a3-48c5-92ef-7ece5c182d28
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
-
 
 # Konvertera person {#convert-person}
 
@@ -31,7 +31,7 @@ Använd det här flödessteget om du vill konvertera en person till en kontakt i
 
    >[!CAUTION]
    >
-   >Konvertering av en person i Marketo resulterar i ett nytt konto och en ny affärsmöjlighet i Salesforce. Om du inte vill ha dubblettkonton använder du Salesforce för att konvertera.
+   >Om du konverterar en person i Marketo skapas ett nytt konto och en ny affärsmöjlighet i Salesforce. Om du inte vill ha dubblettkonton använder du Salesforce för att konvertera.
 
 1. Välj om du vill att ett **meddelande** ska skickas till ägaren eller inte.
 
