@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147040
-description: Ge kredit till referent - Marketo Docs - produktdokumentation
+description: Ge kredit till referenten - Marketo Docs - produktdokumentation
 title: Ge kredit till referent
+exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Ge kredit till referenten {#give-credit-to-referrer}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 När du kör ett [hänvisningserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) eller en [utlottning](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) kan du tillskriva referenten på olika sätt:
 
-* Refererade besök
+* Genererade besök
 * Refererade signeringsprogram
 * **Smart List-utlösare**
 * Anpassad JavaScript-händelse
