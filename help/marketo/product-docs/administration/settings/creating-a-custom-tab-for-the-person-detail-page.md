@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360305
-description: Skapa en anpassad flik för personinformationssidan - Marketo Docs - Produktdokumentation
+description: Skapa en anpassad flik för personinformationssidan - Marketo Docs - produktdokumentation
 title: Skapa en anpassad flik för personinformationssidan
+exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
 
 ---
-
 
 # Skapa en anpassad flik för personinformationssidan {#creating-a-custom-tab-for-the-person-detail-page}
 
