@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360331
-description: Ändra typ av ett Marketo-anpassat fält - Marketo-dokument - Produktdokumentation
-title: Ändra typ av markering till anpassat fält
+description: Ändra typ av anpassat Marketo-fält - Marketo Docs - produktdokumentation
+title: Ändra typ av anpassat Marketo-fält
+exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
-
-# Ändra typ av markering till anpassat fält {#change-the-type-of-a-marketo-custom-field}
+# Ändra typ av anpassat Marketo-fält {#change-the-type-of-a-marketo-custom-field}
 
 Så här ändrar du fälttypen för ett anpassat fält.
 
