@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504770
-description: Visa organisationstjänstens URL - Marketo Docs - Produktdokumentation
+description: Visa URL för organisationstjänsten - Marketo Docs - produktdokumentation
 title: Visa URL för organisationstjänsten
+exl-id: 37c6afa3-ae82-4134-8a00-b4dc08064f5d
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
-
 
 # Visa URL:en för organisationstjänsten {#view-the-organization-service-url}
 
@@ -31,4 +31,4 @@ Marketo behöver organisationstjänstens URL för att kunna synkronisera med Dyn
 
    ![](assets/four.png)
 
-1. Kopiera och klistra in den URL-adressen på Marketo och se resten av synkroniseringen.
+1. Kopiera och klistra in den URL-adressen i Marketo och se resten av synkroniseringen.
