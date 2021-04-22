@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719300
-description: Lägg till/ta bort anpassat objektfält som smart lista/utlösarbegränsningar - Marketo-dokument - Produktdokumentation
+description: Lägg till/ta bort anpassat objektfält som smart lista/utlösarbegränsningar - Marketo Docs - produktdokumentation
 title: Lägg till/ta bort anpassat objektfält som smart lista/utlösarbegränsningar
+exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
 
 ---
-
 
 # Lägg till/ta bort anpassat objektfält som smart lista/utlösarbegränsningar {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
