@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093690
-description: Redigera och ta bort ett Marketo-anpassat objekt - Marketo-dokument - Produktdokumentation
-title: Redigera och ta bort ett markeringsobjekt till anpassat objekt
+description: Redigera och ta bort ett anpassat Marketo-objekt - Marketo Docs - produktdokumentation
+title: Redigera och ta bort ett anpassat Marketo-objekt
+exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
-
-# Redigera och ta bort ett markerings-till-anpassat objekt {#edit-and-delete-a-marketo-custom-object}
+# Redigera och ta bort ett anpassat Marketo-objekt {#edit-and-delete-a-marketo-custom-object}
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Använd menyn Anpassade objektåtgärder för att redigera eller ta bort ett anpassat objekt.
 
-1. Klicka på **Admin** och välj **Marketo-anpassade objekt** i **Databashantering**.
+1. Klicka på **Admin** och välj **Marketo anpassade objekt** i **Databashantering**.
 
    ![](assets/image2016-1-18-13-3a31-3a51.png)
 
@@ -45,13 +45,13 @@ Använd menyn Anpassade objektåtgärder för att redigera eller ta bort ett anp
 
 ## Ta bort ett anpassat objekt {#delete-a-custom-object}
 
-Det är enkelt att ta bort ett anpassat objekt, men du måste vara försiktig. Anpassade objekt kan anslutas till andra objekt eller till smarta listor. Marketo varnar dig därför innan du kan klicka på **Ta bort**.
+Det är enkelt att ta bort ett anpassat objekt, men du måste vara försiktig. Anpassade objekt kan anslutas till andra objekt eller till smarta listor. Marketo varnar dig innan du kan klicka på **Ta bort**.
 
 >[!CAUTION]
 >
 >Du kan inte återställa ett anpassat objekt när du har tagit bort det.
 
-1. Klicka på **Admin** och välj **Marketo-anpassade objekt** i **Databashantering**.
+1. Klicka på **Admin** och välj **Marketo anpassade objekt** i **Databashantering**.
 
    ![](assets/image2016-1-18-13-3a36-3a0.png)
 
