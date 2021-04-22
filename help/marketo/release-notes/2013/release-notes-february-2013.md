@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951103
-description: Versionsinformation -februari 2013 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -februari 2013 - Marketo Docs - produktdokumentation
 title: Versionsinformation - februari 2013
+exl-id: 9adfa676-09ea-497a-bcce-42300848b9d8
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
 
 ---
-
 
 # Versionsinformation: Februari 2013 {#release-notes-february}
 
@@ -21,15 +21,15 @@ De senaste versionerna av Apple Safari för Mac och Windows stöds fullt ut för
 
 ## Förbättringar av webbhooks {#webhooks-enhancements}
 
-Webhooks har förbättrats så att tokens i URL/nyttolast kan undvikas och Marketos lead-fält kan uppdateras genom att XML/JSON-svar från tredjepartssystem analyseras (ej tillgängligt i Spark SMB Edition).
+Webhooks har förbättrats så att tokens i URL/nyttolast kan undvikas och Marketo lead-fält kan också uppdateras genom att XML/JSON-svar från tredjepartssystem analyseras (ej tillgängligt i Spark SMB Edition).
 
 ## SOAP API-slutpunkt {#updated-soap-api-endpoint} har uppdaterats
 
 Den önskade SOAP API-slutpunkten har uppdaterats, vilket visas i Admin -> SOAP API. Uppdatera dina samtal för att använda den nya slutpunkten. API-anrop till den gamla slutpunkten är inaktuella, men kommer att fortsätta att fungera. (SOAP API är inte tillgängligt i Spark SMB Edition)
 
-## Mobilstöd för Facebook-flikar {#mobile-support-for-facebook-tabs}
+## Mobilstöd för Facebook Tabs {#mobile-support-for-facebook-tabs}
 
-Facebook-flikar som publiceras från Marketo upptäcker mobila enheter och dirigerar dem till en landningssida. Detta säkerställer att användaren får rätt innehåll på mobila enheter där Facebook-flikar inte stöds (tillgängliga i Spark, Standard, Select SMB Editions och Marketo Social Marketing).
+Facebook-flikar som publiceras från Marketo upptäcker mobila enheter och dirigerar dem till en landningssida. Detta säkerställer att användaren får rätt innehåll på mobila enheter där Facebook-flikar inte stöds (finns i Spark, Standard, Select SMB Editions och Marketo Social Marketing).
 
 ## Kommer snart: Stöd för flera modeller {#coming-soon-support-for-multiple-models}
 
