@@ -1,23 +1,23 @@
 ---
 unique-page-id: 557339
-description: Sök och sammanfoga duplicerade personer - Marketo Docs - Produktdokumentation
+description: Sök och sammanfoga duplicerade personer - Marketo Docs - produktdokumentation
 title: Sök och sammanfoga duplicerade personer
+exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '429'
 ht-degree: 0%
 
 ---
 
-
 # Sök och sammanfoga duplicerade personer {#find-and-merge-duplicate-people}
 
-Marketo tar automatiskt bort dubbletter när nya personer kommer in i systemet. CRM kan dock ha skickat dubbletter till Marketo från början. Så här sammanfogar du dem.
+Marketo deduplicerar automatiskt när nya personer kommer in i systemet. CRM kan dock ha skickat dubbletter till Marketo. Så här sammanfogar du dem.
 
 >[!NOTE]
 >
->Marketo avduplicerar inte automatiskt mot en Salesforce- eller Microsoft Dynamics-synkronisering eller när du anger personer manuellt.
+>Marketo avlastar inte automatiskt från en Salesforce- eller Microsoft Dynamics-synkronisering, och inte heller när du anger personer manuellt.
 
 >[!PREREQUISITES]
 >
