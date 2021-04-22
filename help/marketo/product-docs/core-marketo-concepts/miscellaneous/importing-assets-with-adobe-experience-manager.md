@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37355768
-description: Importera resurser med Adobe Experience Manager - Marketo Docs - Produktdokumentation
+description: Importera resurser med Adobe Experience Manager - Marketo Docs - produktdokumentation
 title: Importera resurser med Adobe Experience Manager
+exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%
 
 ---
 
-
 # Importera resurser med Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}
 
-Med Resursväljaren kan Marketo-kunder komma åt, välja och importera AEM till Marketos Design Studio. **Administratörsbehörighet krävs**.
+Med Resursväljaren kan Marketo-kunder komma åt, välja och importera AEM till Marketo Design Studio. **Administratörsbehörighet krävs**.
 
 >[!AVAILABILITY]
 >
