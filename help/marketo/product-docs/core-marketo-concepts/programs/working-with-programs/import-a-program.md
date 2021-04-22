@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147108
-description: Importera ett program - Marketo Docs - Produktdokumentation
+description: Importera ett program - Marketo Docs - produktdokumentation
 title: Importera ett program
+exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '896'
 ht-degree: 0%
 
 ---
-
 
 # Importera ett program {#import-a-program}
 
@@ -31,7 +31,7 @@ Ett program kan importeras från en Marketo-prenumeration till en annan. Du kan 
    >
    >Om du vill ansluta ett sandlådekonto till din liveprenumeration kontaktar du [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-1. Välj en Marketo **Prenumeration** och ett program som ska importeras. Klicka på **Nästa**.
+1. Välj en Marketo **prenumeration** och ett program som ska importeras. Klicka på **Nästa**.
 
    ![](assets/image2014-9-17-12-3a20-3a13.png)
 
@@ -57,9 +57,9 @@ Du får en bekräftelse via e-post när importen är klar.
 >
 >Ni måste planera om importerade batchkampanjer och aktivera utlösarkampanjer. Systemet inaktiverar automatiskt kampanjscheman och utlöser kampanjer i det importerade programmet.
 
-## Identifiera fördefinierade program i Marketo Program Library {#identify-pre-built-programs-in-the-marketo-program-library}
+## Identifiera fördefinierade program i Marketo programbibliotek {#identify-pre-built-programs-in-the-marketo-program-library}
 
-Marketo Program Library innehåller färdiga testade program som du kan importera till din prenumeration. Tillgängliga program:
+Marketo programbibliotek innehåller färdiga, testade program som du kan importera till din prenumeration. Tillgängliga program:
 
 1. **Grundläggande droppstruktur.** Skickar en serie e-postmeddelanden avgränsade med väntesteg.
 1. **Datahantering.** Bevarar dataintegriteten med smarta kampanjer.
@@ -70,7 +70,7 @@ Marketo Program Library innehåller färdiga testade program som du kan importer
 1. **Livscykel 2.** Använder poängsättning för att flytta en person från ny till kvalificerad marknadsföring.
 1. **Mall för mobil e-post.** En responsiv e-postmall testad mot iPhone och Android. Vissa versioner av Android, MS Outlook, Exchange och tredjepartsprogram som Gmail och Yahoo! Mobilappar för e-post stöder inte den CSS som krävs för responsiva mallar. Vi rekommenderar att du testar innan du skickar ut e-post.
 1. **Program Import Sweepstakes.** Lotteriprogram för dem som testar programbiblioteket! Godkänn e-postmeddelanden och landningssidan och aktivera den smarta kampanjen. Visa sedan den godkända landningssidan, fyll i formuläret så anges du!
-1. **Tillgängliga säljkampanjer.** Ger säljarna ett sätt att köra Marketo smarta kampanjer från en Dashboard i CRM.
+1. **Tillgängliga säljkampanjer.** Ger säljarna ett sätt att köra smarta Marketo-kampanjer från en Dashboard i CRM.
 1. **Poäng - Spark Edition.** Demografisk och beteendebaserad poängsättning i ett enda poängfält. Innehåller mer än två dussin poängrelaterade kampanjer.
 1. **Poäng - Standard och Select Editions.** Demografisk bedömning och beteendebedömning som tagits i olika poängsättningsfält. Innehåller mer än två dussin poängrelaterade kampanjer.
 1. **Synkronisera nya personer till CRM.** Kampanjen som synkroniserar nya personer med CRM-systemet. Den tilldelar en personstatus så att den inte är försäljningsklar.
@@ -86,7 +86,7 @@ Marketo Program Library innehåller färdiga testade program som du kan importer
 
 Program använder externa resurser som e-postmallar, mallar för landningssidor, bilder, formulär, tokens och programtaggar. Du kan konfigurera hur landningssidmallar och programtaggar hanteras, och Marketo hanterar automatiskt resten.
 
-**E-postmallar:** E-postmallar importeras och skapas automatiskt om det inte finns någon med samma namn.
+**E-postmallar:E-** postmallar importeras och skapas automatiskt om det inte finns någon med samma namn.
 
 **Mallar för landningssidor:** Mallar för landningssidor importeras till designstudion. Du kan använda konfliktregler för att konfigurera beteendet när det finns en mall med samma namn. Med standardregeln läggs ett nummer till i en landningssidmall om det finns en med samma namn. En landningssidmall med namnet Standardmall 1 skapas till exempel om det finns en mall med namnet Standardmall.
 
