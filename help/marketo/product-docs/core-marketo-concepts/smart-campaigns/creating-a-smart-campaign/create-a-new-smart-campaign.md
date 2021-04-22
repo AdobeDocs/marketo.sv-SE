@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146931
-description: Skapa en ny smart kampanj - Marketo Docs - Produktdokumentation
+description: Skapa en ny smart kampanj - Marketo Docs - produktdokumentation
 title: Skapa en ny smart kampanj
+exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
 
 ---
-
 
 # Skapa en ny smart kampanj {#create-a-new-smart-campaign}
 
