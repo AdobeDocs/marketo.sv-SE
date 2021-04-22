@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360309
-description: Förstå arbetsytor och personpartitioner - Marketo Docs - Produktdokumentation
+description: Förstå arbetsytor och personpartitioner - Marketo Docs - produktdokumentation
 title: Arbetsytor och personpartitioner
+exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '514'
 ht-degree: 0%
 
 ---
-
 
 # Arbetsytor och personpartitioner {#understanding-workspaces-and-person-partitions}
 
