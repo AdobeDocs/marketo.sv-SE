@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949202
-description: SEO - Hämta föreslagna nyckelord - Marketo Docs - Produktdokumentation
+description: SEO - Hämta föreslagna nyckelord - Marketo Docs - produktdokumentation
 title: SEO - Hämta föreslagna nyckelord
+exl-id: 6631b389-039a-40f1-8445-3971576e9f65
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Hämta föreslagna nyckelord {#seo-get-suggested-keywords}
 
