@@ -2,14 +2,14 @@
 unique-page-id: 7515133
 description: SFDC-synkronisering - Sammanfoga en lead/kontakt/person - Marketo Docs - produktdokumentation
 title: SFDC-synkronisering - Sammanfoga en lead/kontakt/person
+exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
 
 ---
-
 
 # SFDC-synkronisering: Sammanfoga en lead/kontakt/person {#sfdc-sync-merging-a-lead-contact-person}
 
@@ -30,4 +30,4 @@ Ibland är det bäst att bara lista reglerna. Här är vi:
 
 >[!NOTE]
 >
->Djupdykning om du vill ha mer information om [att sammanfoga personer i Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
+>Djupdykning om du vill ha mer information om [att slå samman personer i Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
