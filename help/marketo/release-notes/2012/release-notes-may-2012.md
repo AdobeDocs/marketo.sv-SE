@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951117
-description: Versionsinformation -maj 2012 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -maj 2012 - Marketo Docs - produktdokumentation
 title: Versionsinformation -maj 2012
+exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '641'
 ht-degree: 0%
 
 ---
-
 
 # Versionsinformation: Maj 2012 {#release-notes-may}
 
@@ -37,7 +37,7 @@ Figur 2. Exempel på det arkiverade e-postfiltret
 
 ## Ny incheckningsapp för händelser för iPad {#new-event-check-in-app-for-ipad}
 
-Förenkla incheckningen av event med vår nya iPad-app! Appen Event Check-in synkroniseras med Marketo Program så att du enkelt kan söka efter deltagare i en händelse och lägga till nya leads direkt.
+Förenkla incheckningen av event med vår nya iPad-app! Appen Event Check-in synkroniseras med ditt Marketo-program så att du enkelt kan söka efter deltagare i en händelse och lägga till nya leads direkt.
 
 Kräver iOS 5.1 eller senare. Endast iPad.
 
@@ -117,7 +117,7 @@ Figur 13. Välj en mapp för dina e-postmeddelanden
 
 ## Få åtkomst till säljprojektsanalysen från Sales Insight {#access-opportunity-analyzer-from-sales-insight}
 
-Ge säljarna insikt i vilka marknadsföringsaktiviteter som skapar engagemang med hjälp av direktåtkomst till säljprojektsanalysen från Marketo Sales Insight. Obs! Kräver licens för intäktscykelanalys.
+Ge säljarna insikt i vilka marknadsföringsaktiviteter som skapar engagemang med hjälp av direktåtkomst till säljprojektsanalysen från Marketo Sales Insight. OBS. Kräver licens för intäktscykelanalys.
 
 ## Anpassat fält för kontaktstatus {#custom-field-for-contact-status}
 
