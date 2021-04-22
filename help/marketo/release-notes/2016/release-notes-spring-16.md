@@ -2,14 +2,14 @@
 unique-page-id: 11370952
 description: Versionsinformation -Spring '16 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - våren 16
+exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 translation-type: tm+mt
-source-git-commit: 9dd108de97be01acf00d42be90b2661d153a4265
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '799'
 ht-degree: 0%
 
 ---
-
 
 # Versionsinformation: Spring &#39;16 {#release-notes-spring}
 
@@ -43,7 +43,7 @@ Det stämmer, en helt ny e-postredigerare! Använd lättanvända dra-och-släpp-
 
 ## [Meddelanden i appar för mobiler](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md) {#mobile-in-app-messages}
 
-Skapa fantastiska meddelanden i appen för er app direkt inifrån Marketo. Definiera exakt vem som ska se det och när med meddelandeprogrammet i appen. Övervaka enkelt programmets prestanda med kontrollpanelen.
+Skapa fantastiska meddelanden i appen direkt inifrån Marketo. Definiera exakt vem som ska se det och när med meddelandeprogrammet i appen. Övervaka enkelt programmets prestanda med kontrollpanelen.
 
 ![](assets/pasted-image-at-2016-05-24-09-45-am.png)
 
@@ -55,11 +55,11 @@ Nu är det dags att omgodkänna allt varje gång ett textutdrag uppdateras! Med 
 
 ## [Landningssida, landningssidmall och formulär-API:er](https://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
 
-Marketo REST API:er har nu stöd för kontroll över Marketo-landningssidor, landningssidmallar och formulär. Användarna kan nu skapa, uppdatera, godkänna och ta bort dessa resurser direkt via Marketo REST API.
+Marketo REST API:er har nu stöd för kontroll över Marketo landningssidor, landningssidmallar och formulär. Användarna kan nu skapa, uppdatera, godkänna och ta bort dessa resurser direkt via Marketo REST API.
 
 ## [IP-Tillåtelselistning för API-åtkomst](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-På samma sätt som funktionen för IP-tillåtelselistning för Marketo-användarinloggningar kan Marketo-administratörer nu ställa in ett tillåtelselista med IP-adresser som kan komma åt Marketo SOAP- och REST-API:er, vilket blockerar åtkomst från icke-auktoriserade IP-adresser. Detta lägger till ett extra säkerhetsskikt till din Marketo-instans och ser till att API-åtkomst bara kan ske inifrån organisationens nätverk. Information om hur du konfigurerar detta finns på webbplatsen [Marketo documentation](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
+På samma sätt som funktionen för IP-tillåtelselistning för Marketo-användarinloggningar kan Marketo-administratörer nu konfigurera en tillåtelselista med IP-adresser som kan komma åt Marketo SOAP- och REST-API:er, vilket blockerar åtkomst från icke-auktoriserade IP-adresser. Detta lägger till ett extra säkerhetsskikt till din Marketo-instans och ser till att API-åtkomst bara kan ske inifrån din organisations nätverk. Information om hur du konfigurerar detta finns på webbplatsen [Marketo documentation](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 
 ## [Ny Microsoft Dynamics Sync Connector med hög hastighet](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
@@ -81,13 +81,13 @@ Bygg på Orion-arkitekturen - den nya höghastighetsanslutningen för dynamik ge
 
 ## [Eget instansnamn](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
 
-Idag är det svårt att skilja mellan Marketo-instanser, till exempel sandbox- och produktionsinstanser. Med den här funktionen kan du ta reda på vilka instanser du arbetar med just nu.
+Idag är det svårt att skilja mellan Marketo-instanser, till exempel sandlådor och produktionsinstanser. Med den här funktionen kan du ta reda på vilka instanser du arbetar med just nu.
 
 ![](assets/image2016-5-16-15-3a57-3a14.png)
 
 ## [Tidsbegränsad åtkomst för prenumerationer](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) {#limited-time-access-for-subscriptions}
 
-Idag bjuds användare in till Marketo-prenumeration för en obegränsad tidsperiod. Med den här funktionen kan administratörer bjuda in användare till prenumerationer under en begränsad tidsperiod, till exempel två veckor eller en månad.
+Idag är användare inbjudna att prenumerera på Marketo för en obegränsad tidsperiod. Med den här funktionen kan administratörer bjuda in användare till prenumerationer under en begränsad tidsperiod, till exempel två veckor eller en månad.
 
 ![](assets/image2016-5-16-15-3a59-3a52.png)
 
@@ -99,4 +99,4 @@ Nu kan du visa antalet poster och fält för alla publicerade anpassade objekt.
 
 ## Anpassade aktiviteter {#custom-activities}
 
-Marketo-administratörer kan nu definiera och hantera sina anpassade aktivitetstyper via Marketo Custom Activity Definition-modelleraren. På samma sätt som (och i kombination med) Marketo Custom Object Modeler kan administratörer nu utöka datamodellen för att passa just deras affärsbehov. Information om hur du använder den här funktionen finns på webbplatsen [Marketo documentation](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md).
+Marketo-administratörer kan nu definiera och hantera sina anpassade aktivitetstyper via Marketo Custom Activity Definition Model. På samma sätt som (och i kombination med) Marketo Custom Object Modeler kan administratörer nu utöka datamodellen för att passa just deras affärsbehov. Information om hur du använder den här funktionen finns på [Marketo dokumentationswebbplats](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md).
