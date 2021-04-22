@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504736
-description: Installera Marketo för Dynamics 2015 On-Prem och 2016 365 On-Prem Step 1 of 3 - Marketo Docs - produktdokumentation
+description: Installera Marketo för Dynamics 2015 On-Prem och 2016 365 On-Prem Step 1 of 3 - Marketo Docs - Product Documentation
 title: Installera Marketo för Dynamics 2015 On-Prem och 2016 365 On-Prem Step 1 of 3
+exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 0%
 
 ---
 
-
-# Steg 1 av 3: Konfigurera Synkronisera användare för Marketo (On-Prem 2015 och 2016 365 On-Prem) {#step-of-configure-sync-user-for-marketo-on-premises-and-365}
+# Steg 1 av 3: Konfigurera Synkronisera användare för Marketo (lokal version 2015 och lokal version 2016 365) {#step-of-configure-sync-user-for-marketo-on-premises-and-365}
 
 Innan du kan synkronisera Microsoft Dynamics 2015 On-Premises eller 2016 (Dynamics 365) med Marketo måste du först installera Marketo-lösningen i Dynamics.
 
@@ -75,7 +75,7 @@ Innan du kan synkronisera Microsoft Dynamics 2015 On-Premises eller 2016 (Dynami
 
    >[!NOTE]
    >
-   >Du kan se ett meddelande med texten&quot;Marketo Lead Management klar med varning&quot;. Detta är helt förväntat.
+   >Du kan se ett meddelande med texten&quot;Marketo Lead Management har slutförts med varning&quot;. Detta är helt förväntat.
 
    ![](assets/image2015-3-13-9-54-39.png)
 
@@ -91,7 +91,7 @@ Innan du kan synkronisera Microsoft Dynamics 2015 On-Premises eller 2016 (Dynami
 
    >[!CAUTION]
    >
-   >Om du inaktiverar någon av Marketo SDK-meddelandeprocesserna avbryts installationen!
+   >Om du inaktiverar någon av meddelandeprocesserna i Marketo SDK avbryts installationen!
 
    >[!MORELIKETHIS]
    >
