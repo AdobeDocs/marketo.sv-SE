@@ -1,6 +1,6 @@
 ---
 unique-page-id: 557070
-description: Välkommen till Marketo Docs - Marketo Docs - Produktdokumentation
+description: Välkommen till Marketo Docs - Marketo Docs - produktdokumentation
 title: Välkommen till Marketo Docs
 translation-type: tm+mt
 source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Välkommen till Marketo Docs {#welcome-to-marketo-docs}
 
-Marketo - produktdokumentation
+Marketo produktdokumentation
 
 [Juli 20](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+July+%2720)
 
