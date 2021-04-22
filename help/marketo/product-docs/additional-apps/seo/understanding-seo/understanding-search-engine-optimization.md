@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949176
-description: Understanding Search Engine Optimization - Marketo Docs - produktdokumentation
+description: Understanding Search Engine Optimization - Marketo Docs - Product Documentation
 title: Om sökmotoroptimering
+exl-id: f5036487-e18e-495e-84ba-235f21e99fb2
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 0%
 
 ---
 
-
 # Om sökmotoroptimering {#understanding-search-engine-optimization}
 
-SEO (Search Engine Optimization) är en samling metodtips som hjälper dig att visa dina sidor för personer som använder sökmotorer. Marketos SEO-app hjälper er att förbättra.
+SEO (Search Engine Optimization) är en samling metodtips som hjälper dig att visa dina sidor för personer som använder sökmotorer. Marketo SEO-app hjälper dig att förbättra.
 
 Först och främst bör du lära dig grunderna med den här praktiska ordlistan.
 
@@ -41,7 +41,7 @@ Först och främst bör du lära dig grunderna med den här praktiska ordlistan.
 
 (Exempel: Minimalistkvinnor med skor i storlek 9)
 
-**Optimeringsresultat**: Optimeringsresultat är en marknadspoäng som mäter alla sidor på webbplatsen på en skala från 1 till 100. Det bygger på en sammanställning av dussintals bästa metoder. En bakgrundsmusik på 70 eller högre anger att sajten är ganska optimerad.
+**Optimeringsresultat**: Optimeringsresultat är en Marketo-poäng som mäter alla sidor på sajten på en skala från 1 till 100. Det bygger på en sammanställning av dussintals bästa metoder. En bakgrundsmusik på 70 eller högre anger att sajten är ganska optimerad.
 
 **On-Page Optimization**: Åtgärder som kan vidtas direkt på själva webbplatsen för att förbättra dess position på sökmotorns resultatsidor.
 
