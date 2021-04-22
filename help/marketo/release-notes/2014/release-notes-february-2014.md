@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2951048
-description: Versionsinformation -februari 2014 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -februari 2014 - Marketo Docs - produktdokumentation
 title: Versionsinformation - februari 2014
+exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 0%
 
 ---
 
+# Versionsinformation: Februari 2014 {#release-notes-february}
 
-# Versionsinformation: Februari 2015 {#release-notes-february}
-
-Följande funktioner ingår i februari 2014-versionen. Kontrollera om din Marketo Edition innehåller funktioner. Kom tillbaka efter releasen och hitta länkar till detaljerade kunskapsbasartiklar för varje funktion!
+Följande funktioner ingår i februari 2014-versionen. Kontrollera om det finns funktioner i Marketo Edition. Kom tillbaka efter releasen och hitta länkar till detaljerade kunskapsbasartiklar för varje funktion!
 
 ## Förlovningspoäng som vinnningsvillkor {#engagement-score-as-winning-criteria}
 
