@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951054
-description: Versionsinformation - oktober 2013 - Marketo Docs - Produktdokumentation
+description: Versionsinformation - oktober 2013 - Marketo Docs - produktdokumentation
 title: Versionsinformation - oktober 2013
+exl-id: f392521e-a5bd-47cd-af5c-d801718ca4e0
 translation-type: tm+mt
-source-git-commit: 4124b2b8a41de486f35cb046ae883b301d20c36c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
 
 ---
-
 
 # Versionsinformation: Oktober 2013 {#release-notes-october}
 
@@ -17,7 +17,7 @@ Följande funktioner ingår i oktober 2013-versionen.
 
 ## templates.marketo.com {#templates-marketo-com}
 
-[Templates.marketo.](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md) comshowcase, mallar för e-post- och landningssidor (inklusive responsiva mallar för mobil e-post) som du kan hämta från Marketo Program Library. Vi lägger till mallar en gång i månaden. Kom tillbaka ofta!
+[Templates.marketo.](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md) comshowcase, mallar för e-post och landningssidor (inklusive responsiva mallar för mobil e-post) som du kan hämta från Marketo programbibliotek. Vi lägger till mallar en gång i månaden. Kom tillbaka ofta!
 
 ## developers.marketo.com {#developers-marketo-com}
 
