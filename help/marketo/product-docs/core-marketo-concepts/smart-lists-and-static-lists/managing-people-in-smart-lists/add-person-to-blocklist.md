@@ -1,15 +1,15 @@
 ---
 unique-page-id: 9438139
-description: Lägg till person i Blockeringslista - Marketo Docs - Produktdokumentation
+description: Lägg till person i Blockeringslista - Marketo Docs - produktdokumentation
 title: Lägg till person i Blockeringslista
+exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
 
 ---
-
 
 # Lägg till person i Blockeringslista {#add-person-to-blocklist}
 
