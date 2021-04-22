@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949194
-description: SEO - Lägg till en webbplats/ta bort en webbplats - Marketo Docs - Produktdokumentation
+description: SEO - Lägg till en webbplats/ta bort en webbplats - Marketo Docs - produktdokumentation
 title: SEO - Lägg till en plats/ta bort en plats
+exl-id: 1005f5a8-8744-4fb3-9a07-83bc72810820
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Lägg till en plats/ta bort en plats {#seo-add-a-site-delete-a-site}
 
