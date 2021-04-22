@@ -1,15 +1,15 @@
 ---
 unique-page-id: 6848782
-description: Gör ditt avbeställningsmeddelande dynamiskt för språk - Marketo Docs - Produktdokumentation
+description: Gör ditt avbeställningsmeddelande dynamiskt för språk - Marketo Docs - produktdokumentation
 title: Gör ditt avbeställningsmeddelande dynamiskt för språk
+exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '495'
 ht-degree: 0%
 
 ---
-
 
 # Gör ditt meddelande om att avbryta prenumerationen dynamiskt för språk {#make-your-unsubscribe-message-dynamic-for-languages}
 
