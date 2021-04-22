@@ -1,23 +1,23 @@
 ---
 unique-page-id: 3571805
-description: Steg 1 av 3 - Installera Marketo Solution (2011 On-Premises) - Marketo Docs - Produktdokumentation
-title: Steg 1 av 3 - Installera Marketo Solution (2011 On-Premises)
+description: Steg 1 av 3 - Installera Marketo Solution (2011 On-Premises) - Marketo Docs - produktdokumentation
+title: Steg 1 av 3 - Installera Marketo Solution (On-Premises 2011)
+exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
 
 ---
 
-
-# Steg 1 av 3: Installera Marketo-lösningen (2011 On-Premises) {#step-of-install-the-marketo-solution-on-premises}
+# Steg 1 av 3: Installera Marketo Solution (2011 On-Premises) {#step-of-install-the-marketo-solution-on-premises}
 
 Innan du kan synkronisera Microsoft Dynamics On-Premises och Marketo måste du först installera Marketo-lösningen i Dynamics.
 
 >[!NOTE]
 >
->När du har synkroniserat Markto till en CRM kan du inte utföra en ny synkronisering utan att ersätta instansen.
+>När du har synkroniserat Marketo till en CRM kan du inte utföra en ny synkronisering utan att ersätta instansen.
 
 >[!PREREQUISITES]
 >
@@ -43,7 +43,7 @@ Innan du kan synkronisera Microsoft Dynamics On-Premises och Marketo måste du f
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. Klicka på **Bläddra**. Välj den Marketo Lead Management-lösning som du [har hämtat](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klicka på **Nästa**.
+1. Klicka på **Bläddra**. Välj den Marketo Lead Management-lösning som du [hämtade](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klicka på **Nästa**.
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 
@@ -75,7 +75,7 @@ Innan du kan synkronisera Microsoft Dynamics On-Premises och Marketo måste du f
 
    >[!NOTE]
    >
-   >Du kan se ett meddelande med texten&quot;Marketo Lead Management klar med varning&quot;. Detta är helt förväntat.
+   >Du kan se ett meddelande med texten&quot;Marketo Lead Management har slutförts med varning&quot;. Detta är helt förväntat.
 
    ![](assets/image2015-4-2-11-3a44-3a44.png)
 
@@ -91,8 +91,8 @@ Det var väl inte så illa? Kom igen, jag fortsätter gå dig genom resten.
 
 >[!CAUTION]
 >
->Om du inaktiverar någon av Marketo SDK-meddelandeprocesserna avbryts installationen!
+>Om du inaktiverar någon av meddelandeprocesserna i Marketo SDK avbryts installationen!
 
 >[!MORELIKETHIS]
 >
->[Steg 2 av 3: Konfigurera Marketo-synkronisering av användare i Dynamics (lokal 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
+>[Steg 2 av 3: Konfigurera Marketo Sync-användare i Dynamics (lokal 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
