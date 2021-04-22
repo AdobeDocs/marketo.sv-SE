@@ -1,24 +1,24 @@
 ---
 unique-page-id: 3571819
-description: Steg 3 av 3 - Connect Marketo och Dynamics (2013 On-Premises) - Marketo Docs - Produktdokumentation
-title: Steg 3 av 3 - Connect Marketo och Dynamics (2013 On-Premises)
+description: Steg 3 av 3 - Connect Marketo and Dynamics (2013 On-Premises) - Marketo Docs - produktdokumentation
+title: Steg 3 av 3 - Connect Marketo and Dynamics (2013 On-Premises)
+exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%
 
 ---
 
-
-# Steg 3 av 3: Connect Marketo och Dynamics (2013 On-Premises) {#step-of-connect-marketo-and-dynamics-on-premises}
+# Steg 3 av 3: Connect Marketo and Dynamics (2013 On-Premises) {#step-of-connect-marketo-and-dynamics-on-premises}
 
 Okej! Vi installerade lösningen och konfigurerade synkroniseringsanvändaren. Därefter måste vi koppla Marketo och Dynamics.
 
 >[!PREREQUISITES]
 >
->* [Steg 1 av 3: Installera Marketo-lösningen i Dynamics (On-Premises 2013)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
->* [Steg 2 av 3: Konfigurera Synkronisera användare för Marketo (lokal 2013)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
+>* [Steg 1 av 3: Installera Marketo Solution i Dynamics (2013 On-Premises)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
+>* [Steg 2 av 3: Konfigurera Synkronisera användare för Marketo (lokal version 2013)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
 
 
 >[!NOTE]
@@ -45,7 +45,7 @@ Okej! Vi installerade lösningen och konfigurerade synkroniseringsanvändaren. D
 
    >[!CAUTION]
    >
-   >Kontrollera att dina autentiseringsuppgifter är korrekta eftersom det inte går att återställa efterföljande schemaändringar efter överföringen. Om felaktiga inloggningsuppgifter sparas måste du skaffa en ny Marketo-prenumeration.
+   >Kontrollera att dina autentiseringsuppgifter är korrekta eftersom det inte går att återställa efterföljande schemaändringar efter överföringen. Om felaktiga uppgifter sparas måste du skaffa en ny Marketo-prenumeration.
 
 1. Ange **användarnamn**, **lösenord** och Microsoft Dynamics **URL** och klicka sedan på **Spara**.
 
@@ -65,7 +65,7 @@ Nu måste vi markera de fält vi vill synkronisera.
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
-1. Markera de fält som du vill synkronisera med Marketo så att de är förmarkerade. Klicka på **Spara**.
+1. Markera de fält som du vill synkronisera till Marketo så att de är förmarkerade. Klicka på **Spara**.
 
    ![](assets/image2016-8-25-15-3a10-3a17.png)
 
@@ -107,7 +107,7 @@ Om du har skapat ett eget filter måste du gå in och välja de nya fält som sk
 
    ![](assets/image2014-12-11-11-3a55-3a15.png)
 
-Utmärkt arbete! Du har just frigjort kraften i den dubbelriktade synkroniseringen mellan Marketo och Microsoft Dynamics. Om du har köpt Marketo Sales Insight är det roligare att få:
+Utmärkt arbete! Du har just frigjort kraften i dubbelriktad synkronisering mellan Marketo och Microsoft Dynamics. Om du har köpt Marketo Sales Insight har du mer kul:
 
 >[!MORELIKETHIS]
 >
