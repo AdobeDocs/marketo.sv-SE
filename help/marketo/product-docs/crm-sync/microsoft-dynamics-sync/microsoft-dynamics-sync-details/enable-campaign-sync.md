@@ -1,28 +1,28 @@
 ---
-description: Aktivera kampanjsynkronisering - Marketo Docs - Produktdokumentation
+description: Aktivera kampanjsynkronisering - Marketo Docs - produktdokumentation
 title: Aktivera kampanjsynkronisering
+exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
-
 # Aktivera kampanjsynkronisering {#enable-campaign-sync}
 
-Med det här alternativet kan Marketto lägga till och ta bort medlemmar från MS Dynamics Campaign.
+Med det här alternativet kan Marketo lägga till och ta bort medlemmar från MS Dynamics Campaign.
 
 >[!PREREQUISITES]
 >
->Uppdatera till den senaste versionen av Dynamics-pluginprogrammet för Marketo.
+>Uppdatera till den senaste versionen av Dynamics-plugin för Marketo.
 
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
 
-1. Klicka på **Admin** på My Marketo.
+1. I My Marketo klickar du på **Admin**.
 
    ![](assets/enable-campaign-sync-1.png)
 
