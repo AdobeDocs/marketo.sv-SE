@@ -1,17 +1,17 @@
 ---
 unique-page-id: 6849029
-description: Uppgradera Marketo Solution för Microsoft Dynamics - Marketo Docs - Produktdokumentation
-title: Uppgradera Marketo-lösningen för Microsoft Dynamics
+description: Uppgradera Marketo Solution for Microsoft Dynamics - Marketo Docs - produktdokumentation
+title: Uppgradera Marketo Solution för Microsoft Dynamics
+exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
-
-# Uppdatera Marketo-lösningen för Microsoft Dynamics {#update-the-marketo-solution-for-microsoft-dynamics}
+# Uppdatera Marketo Solution för Microsoft Dynamics {#update-the-marketo-solution-for-microsoft-dynamics}
 
 När en ny Microsoft Dynamics-lösning släpps kan du hämta uppgraderingen från administratörsområdet på ditt konto.
 
@@ -31,7 +31,7 @@ När en ny Microsoft Dynamics-lösning släpps kan du hämta uppgraderingen frå
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. Välj **Hämta Marketo-lösning**.
+1. Välj **Hämta Marketo Solution**.
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
