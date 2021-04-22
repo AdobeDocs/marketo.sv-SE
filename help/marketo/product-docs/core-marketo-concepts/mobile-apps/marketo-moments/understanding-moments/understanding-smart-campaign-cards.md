@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10093348
-description: Understanding Smart Campaign Cards - Marketo Docs - produktdokumentation
+description: Understanding Smart Campaign Cards - Marketo Docs - Product Documentation
 title: Förstå smarta kampanjkort
+exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '514'
 ht-degree: 0%
 
 ---
 
-
 # Smarta kampanjkort {#understanding-smart-campaign-cards}
 
-Använd Marketo Moments för att visa varje körning av smarta kampanjer från smarttelefonen eller iPad. Marketo Moments smarta kampanjkort representerar en enda kampanjserie. ett nytt kort visas varje gång den smarta kampanjen körs. Smarta kampanjkort är märkta med en glödlampa längst upp till vänster.
+Använd Marketo Moments för att visa varje körning av smarta kampanjer från smarttelefonen eller iPad. Smart Campaign-kortet för Marketo Moments representerar en enda kampanj. ett nytt kort visas varje gång den smarta kampanjen körs. Smarta kampanjkort är märkta med en glödlampa längst upp till vänster.
 
-För framtida smarta kampanjer som är schemalagda men ännu inte har körts visas ingen kampanjstatistik på Marketo Moments-kortet. De visas i en framtida release.
+För framtida smarta kampanjer som är schemalagda men ännu inte har körts visas ingen kampanjstatus på Marketo Moments-kortet. De visas i en framtida release.
 
 ![](assets/image2015-9-23-10-3a1-3a5.png)
 
