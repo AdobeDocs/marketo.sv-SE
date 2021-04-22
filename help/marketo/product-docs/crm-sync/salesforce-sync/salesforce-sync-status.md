@@ -1,14 +1,14 @@
 ---
 description: Salesforce Sync Status - Marketo Docs - Produktdokumentation
 title: Status för Salesforce-synkronisering
+exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 translation-type: tm+mt
-source-git-commit: 98af67caaf485535ba2177aa661a503990e8698d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '552'
 ht-degree: 0%
 
 ---
-
 
 # Salesforce-synkroniseringsstatus {#salesforce-sync-status}
 
@@ -231,7 +231,7 @@ Statistik sorteras som standard efter den senast startade. Du kan sortera efter 
   <tr> 
    <td colspan="1">Synkronisera med program</td> 
    <td colspan="1">Kampanjer</td> 
-   <td colspan="1">Syncs Marketo-program med SFDC-kampanjer</td> 
+   <td colspan="1">Synkroniserar Marketo-program med SFDC-kampanjer</td> 
    <td colspan="1">Nytt, Uppdateringar, Misslyckades eller Överhoppat</td>
   </tr> 
   <tr> 
