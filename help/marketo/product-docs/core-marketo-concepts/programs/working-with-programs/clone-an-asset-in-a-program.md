@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147152
-description: Klona en resurs i ett program - Marketo Docs - Produktdokumentation
+description: Clone an Asset in a Program - Marketo Docs - Product Documentation
 title: Klona en resurs i ett program
+exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
 
 ---
-
 
 # Klona en resurs i ett program {#clone-an-asset-in-a-program}
 
