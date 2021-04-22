@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147116
-description: Hantera mina token - Marketo Docs - Produktdokumentation
+description: Hantera mina token - Marketo Docs - produktdokumentation
 title: Hantera mina token
+exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 
 ---
-
 
 # Hantera mina token {#managing-my-tokens}
 
