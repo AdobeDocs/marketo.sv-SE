@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147062
-description: Visa blockerade personer i en smart kampanj - Marketo Docs - Produktdokumentation
+description: Visa blockerade personer i en smart kampanj - Marketo Docs - produktdokumentation
 title: Visa blockerade personer i en smart kampanj
+exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
-
 
 # Visa blockerade personer i en smart kampanj {#view-blocked-people-in-a-smart-campaign}
 
