@@ -2,14 +2,14 @@
 unique-page-id: 3571797
 description: Steg 2 av 3 - Skapa en Salesforce-användare för Marketo (Professional) - Marketo Docs - Produktdokumentation
 title: Steg 2 av 3 - Skapa en Salesforce-användare för Marketo (Professional)
+exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '423'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Steg 2 av 3: Skapa en Salesforce-användare för Marketo (Professional) {#step-of-create-a-salesforce-user-for-marketo-professional}
 
@@ -25,7 +25,7 @@ I den här artikeln ska du anpassa fältbehörigheter med en Salesforce-sidlayou
 
 ## Ange sidlayout {#set-page-layouts}
 
-Salesforce Professional anger tillgänglighet på fältnivå med sidlayouter, i motsats till Salesforce Enterprise/Unlimited&#39;s Profiles. Med de här stegen kan Marketto synkronisera användaren för att uppdatera anpassade fält.
+Salesforce Professional anger tillgänglighet på fältnivå med sidlayouter, i motsats till Salesforce Enterprise/Unlimited&#39;s Profiles. Om du följer de här stegen kan Marketo synkroniseringsanvändare uppdatera anpassade fält.
 
 1. Skriv **sidlayouter** i navigeringsfältet utan att trycka på **Enter** och klicka på **Sidlayout** under **Leads**.
 
@@ -39,7 +39,7 @@ Salesforce Professional anger tillgänglighet på fältnivå med sidlayouter, i 
 
    ![](assets/image2014-12-9-12-3a56-3a40.png)
 
-1. Ange Marketo för **Avsnittsnamn** och klicka på **OK**.
+1. Ange &quot;Marketo&quot; för **Avsnittsnamn** och klicka på **OK**.
 
    ![](assets/image2014-12-9-12-3a56-3a52.png)
 
@@ -53,8 +53,8 @@ Salesforce Professional anger tillgänglighet på fältnivå med sidlayouter, i 
    * ID för förvärvsprogram
    * Avanmäl dig via e-post
    * Inaktuell ort
-   * Infört företag
-   * Infört land
+   * Berört företag
+   * Berört land
    * Ingående metropolitområde
    * Riktnummer för inkommande telefon
    * Infört postnummer
