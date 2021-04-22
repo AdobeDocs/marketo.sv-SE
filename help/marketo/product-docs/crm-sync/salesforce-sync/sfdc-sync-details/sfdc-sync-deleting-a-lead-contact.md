@@ -2,14 +2,14 @@
 unique-page-id: 7515131
 description: SFDC-synkronisering -Tar bort en lead/kontakt - Marketo Docs - produktdokumentation
 title: SFDC-synkronisering - Ta bort en lead/kontakt
+exl-id: b859357e-09c5-48e5-940e-f5b4e955e374
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
-
 
 # SFDC-synkronisering: Ta bort en lead/kontakt {#sfdc-sync-deleting-a-lead-contact}
 
