@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719312
-description: Lägg till/ta bort plocklistevärden - Marketo-dokument - Produktdokumentation
+description: Lägg till/ta bort värden för plocklistor - Marketo Docs - Produktdokumentation
 title: Lägg till/ta bort värden för plocklistor
+exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%
 
 ---
-
 
 # Lägg till/ta bort värden för plocklistor {#add-remove-picklist-values}
 
