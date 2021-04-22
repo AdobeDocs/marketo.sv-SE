@@ -2,18 +2,18 @@
 unique-page-id: 14745959
 description: Versionsinformation -Spring '18 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - våren 18
+exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: Spring &#39;18 {#release-notes-spring}
 
-Följande funktioner finns i vårutgåvan 18. Se om din Marketo-utgåva har funktioner tillgängliga.
+Följande funktioner finns i vårutgåvan 18. Se om det finns funktioner i din Marketo-utgåva.
 
 Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion. Obs! Vissa av funktionerna i den här versionen har inte associerade artiklar. Om ett ämne har flera underrubriker placeras länkarna där.
 
@@ -25,7 +25,7 @@ Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion
 
 >[!AVAILABILITY]
 >
->Sales Engage är en tilläggsprodukt. Kontakta er Marketto Customer Success Manager eller Account Executive för en offert.
+>Sales Engage är en tilläggsprodukt. Kontakta din Marketo Customer Success Manager eller kontoansvarige för en offert.
 
 Öka intäkterna och produktionsmöjligheterna genom att möjliggöra försäljning med intelligens, innehåll, spelböcker och analyser för att omvandla fler leads till säljmöjligheter. Sales Engage ger försäljning och marknadsföring en enhetlig plattform för engagemang under hela kundresan och möjliggör bättre samordning genom en delad vy av kundkontaktytor.
 
@@ -77,13 +77,13 @@ Ange målet för optimeringsalgoritmen ContentAI för att få fler vyer, klick e
 
 ## Integrering och API:er {#integration-and-apis}
 
-[Integrering av Facebook Workplace](/help/marketo/product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
+[Integrering av facebook Workplace](/help/marketo/product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
 
 Skicka systemmeddelanden och intressanta ögonblick till Facebook Workplace.
 
 [Statiska list-API:er](https://developers.marketo.com/rest-api/assets/static-lists/)
 
-Hantera listor mellan Marketo och andra system enklare med nya dubbelriktade API:er för att skapa, läsa, uppdatera och ta bort statiska listor på fjärrbasis utan att vidta några åtgärder i Marketo-gränssnittet.
+Hantera listor mellan Marketo och andra system enklare med nya dubbelriktade API:er för att skapa, läsa, uppdatera och ta bort statiska listor på distans utan att vidta några åtgärder i Marketo användargränssnitt.
 
 ## Sekretessförbättringar {#privacy-enhancements}
 
