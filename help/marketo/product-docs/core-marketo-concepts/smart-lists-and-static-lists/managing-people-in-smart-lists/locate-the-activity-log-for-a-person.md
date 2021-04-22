@@ -1,15 +1,15 @@
 ---
 unique-page-id: 5472404
-description: Leta reda på aktivitetsloggen för en person - Marketo Docs - produktdokumentation
+description: Leta upp aktivitetsloggen för en person - Marketo Docs - produktdokumentation
 title: Leta reda på aktivitetsloggen för en person
+exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
-
 
 # Leta reda på aktivitetsloggen för en person {#locate-the-activity-log-for-a-person}
 
