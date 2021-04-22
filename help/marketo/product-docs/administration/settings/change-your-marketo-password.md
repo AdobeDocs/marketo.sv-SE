@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359916
-description: Ändra ditt Marketo-lösenord - Marketo-dokument - Produktdokumentation
+description: Ändra ditt Marketo-lösenord - Marketo Docs - produktdokumentation
 title: Ändra ditt Marketo-lösenord
+exl-id: 06527ecf-b437-4d12-9254-ae0c95485d58
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
 
 ---
-
 
 # Ändra ditt Marketo-lösenord {#change-your-marketo-password}
 
