@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37355826
-description: Versionsinformation -feb '20 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -feb '20 - Marketo Docs - produktdokumentation
 title: Versionsinformation -feb '20
+exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: Feb &#39;20 {#release-notes-feb}
 
-Följande funktioner finns i utgåvan från 20 februari. Se om din Marketo-utgåva har funktioner tillgängliga.
+Följande funktioner finns i utgåvan från 20 februari. Se om det finns funktioner i din Marketo-utgåva.
 
 >[!AVAILABILITY]
 >
@@ -52,7 +52,7 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 
 ## Meddelanden {#announcements}
 
-* **Marketo Engage Success Center**: Vi lanserar Marketo Success Center i februari 2020. Success Center är ett produkthjälpcenter där du kan söka efter produktdokument och communityn, starta guider, få tillgång till innehåll som Marketo University och videor om bästa praxis från andra Marketo Engage. **Obs**: Den här funktionen lanseras som en betaversion i ANZ och kommer att lanseras i Nordamerika senare under kvartalet.
+* **Marketo Engage Success Center**: Vi lanserar Marketo Success Center i februari 2020. Success Center är ett produkthjälpcenter där du kan söka efter produktdokument och communityn, starta guider, få tillgång till hjälpavsnitt som Marketo University och videor med bästa praxis från andra Marketo Engage. **Obs**: Den här funktionen lanseras som en betaversion i ANZ och kommer att lanseras i Nordamerika senare under kvartalet.
 
 ## Föråldringar {#deprecations}
 
