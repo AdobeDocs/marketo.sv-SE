@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953348
-description: Skapa tävlingsbidrag direkt i marknadsföringskalendern - Marketo Docs - Produktdokumentation
+description: Skapa tävlingsbidrag direkt i marknadsföringskalendern - Marketo Docs - produktdokumentation
 title: Skapa transaktioner direkt i marknadsföringskalendern
+exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
 
 ---
-
 
 # Skapa poster direkt i marknadsföringskalendern {#create-entries-directly-in-the-marketing-calendar}
 
