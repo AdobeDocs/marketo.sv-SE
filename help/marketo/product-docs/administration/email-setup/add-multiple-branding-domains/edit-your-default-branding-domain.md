@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11377392
-description: Redigera din standardvarumärkesdomän - Marketo Docs - Produktdokumentation
+description: Redigera din standardprofileringsdomän - Marketo Docs - produktdokumentation
 title: Redigera din standardvarumärkesdomän
+exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
-
 
 # Redigera din standardvarumärkesdomän {#edit-your-default-branding-domain}
 
