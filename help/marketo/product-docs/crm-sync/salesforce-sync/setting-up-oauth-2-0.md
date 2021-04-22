@@ -1,14 +1,14 @@
 ---
 description: Setting up OAuth 2.0 - Marketo Docs - Product Documentation
 title: Konfigurera OAuth 2.0
+exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 translation-type: tm+mt
-source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
 
 ---
-
 
 # Konfigurerar OAuth 2.0 {#setting-up-oauth-2-0}
 
@@ -44,7 +44,7 @@ Salesforce använder OAuth-protokollet för att tillåta användare av program a
 >
 >Spara informationen om konsumentnyckel och hemlighet för senare användning i Marketo.
 
-## Ställ in Marketo {#set-up-marketo}
+## Konfigurera Marketo {#set-up-marketo}
 
 >[!PREREQUISITES]
 >
@@ -55,7 +55,7 @@ Salesforce använder OAuth-protokollet för att tillåta användare av program a
 >* Ansluten app skapas och vi har konsumentnyckeln och konsumenthemligheten tillgängliga för användning.
 
 
-1. I avsnittet Marketo Admin klickar du på **CRM** och sedan **Synkronisera med Salesforce**.
+1. I avsnittet Marketo Admin klickar du på **CRM** och sedan på **Synkronisera med Salesforce**.
 
    ![](assets/setting-up-oauth-2-7.png)
 
@@ -63,11 +63,11 @@ Salesforce använder OAuth-protokollet för att tillåta användare av program a
 
    ![](assets/setting-up-oauth-2-8.png)
 
-1. På sidan Marketo Salesforce-synkronisering klickar du på knappen **Logga in med Salesforce**.
+1. Klicka på knappen **Logga in med Salesforce** på synkroniseringssidan för Marketo Salesforce.
 
    ![](assets/setting-up-oauth-2-9.png)
 
-1. Ett popup-fönster med inloggningssidan för Salesforce visas. Nyckel i inloggningsuppgifterna för Synkronisera användare och logga in.
+1. Ett popup-fönster med inloggningssidan för Salesforce visas. Ange dina Marketo Sync-användaruppgifter och logga in.
 
    ![](assets/setting-up-oauth-2-10.png)
 
@@ -91,6 +91,6 @@ Salesforce använder OAuth-protokollet för att tillåta användare av program a
 
    ![](assets/setting-up-oauth-2-15.png)
 
-Din synkronisering mellan Marketo och Salesforce pågår.
+Din synkronisering mellan Marketo och Salesforce pågår nu.
 
 ![](assets/setting-up-oauth-2-16.png)
