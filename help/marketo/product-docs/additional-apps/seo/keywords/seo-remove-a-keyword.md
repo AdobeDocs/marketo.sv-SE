@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949240
-description: SEO - Ta bort ett nyckelord - Marketo Docs - Produktdokumentation
+description: SEO - Ta bort ett nyckelord - Marketo Docs - produktdokumentation
 title: SEO - Ta bort ett nyckelord
+exl-id: 4eba33aa-a397-4a02-8d24-3dbd945f9ac4
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Ta bort ett nyckelord {#seo-remove-a-keyword}
 
