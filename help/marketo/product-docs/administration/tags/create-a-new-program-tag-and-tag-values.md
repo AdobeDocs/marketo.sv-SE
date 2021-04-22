@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360272
-description: Skapa en ny programkod och taggvärden - Marketo Docs - Produktdokumentation
+description: Skapa ett nytt programmärke och taggvärden - Marketo Docs - Produktdokumentation
 title: Skapa en ny programtagg och taggvärden
+exl-id: 67300761-df6d-45ce-850f-4443789a3be9
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
 
 ---
-
 
 # Skapa en ny programtagg och taggvärden {#create-a-new-program-tag-and-tag-values}
 
