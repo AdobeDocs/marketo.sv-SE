@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359426
-description: Uppdatera persondata - Marketo Docs - Produktdokumentation
+description: Uppdatera persondata - Marketo Docs - produktdokumentation
 title: Uppdatera persondata
+exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
 
 ---
-
 
 # Uppdatera persondata {#update-person-data}
 
