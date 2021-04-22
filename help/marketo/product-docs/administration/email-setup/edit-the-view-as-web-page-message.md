@@ -2,14 +2,14 @@
 unique-page-id: 2360253
 description: Redigera meddelandet"Visa som webbsida" - Marketo Docs - Produktdokumentation
 title: Redigera meddelandet"Visa som webbsida"
+exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
 
 ---
-
 
 # Redigera meddelandet &quot;Visa som webbsida&quot; {#edit-the-view-as-web-page-message}
 
