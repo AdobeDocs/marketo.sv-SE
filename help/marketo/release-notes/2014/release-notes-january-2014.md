@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2951050
-description: Versionsinformation -januari 2014 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -januari 2014 - Marketo Docs - produktdokumentation
 title: Versionsinformation - januari 2014
+exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: Januari 2014 {#release-notes-january}
 
-Följande funktioner ingår i januari 2014-versionen. Kontrollera din [Marketo Edition](https://www.marketo.com/pricing/) för att se om det finns funktioner.
+Följande funktioner ingår i januari 2014-versionen. Kontrollera om din [Marketo Edition](https://www.marketo.com/pricing/) innehåller funktioner.
 
 ## Forms 2.0 {#forms}
 
@@ -35,7 +35,7 @@ Vill du att &quot;State&quot; bara ska visas om en användare väljer USA som &q
 
 **Lägg enkelt in Forms på era egna landningssidor:**
 
-Nu är det dags att lyfta HTML-kod från formulär som placerats på Marketo-landningssidor och släppa dem i en iFrame. Hämta bara inbäddningskoden och placera den på landningssidan där du vill att formuläret ska återges. Två lägen - normal och ljuslåda - ger dig ännu större flexibilitet med Marketo-formulär på din webbplats.
+Nu är det dags att lyfta HTML-kod från formulär som placerats på Marketo landningssidor och släppa dem i en iFrame. Hämta bara inbäddningskoden och placera den på landningssidan där du vill att formuläret ska återges. Två lägen - normal och ljuslåda - ger dig ännu större flexibilitet med Marketo-formulär på din webbplats.
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 
