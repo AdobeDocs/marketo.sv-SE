@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360315
-description: Skapa en personpartition - Marketo Docs - Produktdokumentation
+description: Skapa en personpartition - Marketo Docs - produktdokumentation
 title: Skapa en personpartition
+exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
-
 
 # Skapa en personpartition {#create-a-person-partition}
 
@@ -43,4 +43,4 @@ Skapa en ny personpartition enligt dessa steg.
 
    ![](assets/four-2.png)
 
-   Där har du den! Nu vet du hur man skapar en personpartition.
+   Där har du den! Nu vet du hur du skapar en personpartition.
