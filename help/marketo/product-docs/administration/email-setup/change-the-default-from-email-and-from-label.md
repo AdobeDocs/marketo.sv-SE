@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360247
-description: Ändra standard från e-post och från etikett - Marketo-dokument - produktdokumentation
+description: Ändra standardvärdet från e-post och från etikett - Marketo Docs - produktdokumentation
 title: Ändra standard från e-post och från etikett
+exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
-
 
 # Ändra standard från e-post och från etikett {#change-the-default-from-email-and-from-label}
 
