@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949678
-description: SEO - Lägg till/ta bort nyckelord från en lista - Marketo-dokument - Produktdokumentation
+description: SEO - Lägg till/ta bort nyckelord från en lista - Marketo Docs - produktdokumentation
 title: SEO - Lägg till/ta bort nyckelord från en lista
+exl-id: c03416b6-796b-4255-8f19-2087b215be05
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Lägg till/ta bort nyckelord från en lista {#seo-add-remove-keywords-from-a-list}
 
