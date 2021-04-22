@@ -2,14 +2,14 @@
 unique-page-id: 1147025
 description: Använda en webkrok i en smart kampanj - Marketo Docs - produktdokumentation
 title: Använda en webkrok i en smart kampanj
+exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
 
 ---
-
 
 # Använda en webbkrok i en smart kampanj {#use-a-webhook-in-a-smart-campaign}
 
