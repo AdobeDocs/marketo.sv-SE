@@ -2,14 +2,14 @@
 unique-page-id: 2949251
 description: SEO - Lägg till/ta bort en URL för inkommande länk från en lista - Marketo Docs - Produktdokumentation
 title: SEO - Lägg till/ta bort en URL för inkommande länk från en lista
+exl-id: 8079387f-633b-4982-a31d-837dcc374601
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Lägg till/ta bort en URL för inkommande länk från en lista {#seo-add-remove-an-inbound-link-url-from-a-list}
 
