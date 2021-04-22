@@ -2,14 +2,14 @@
 unique-page-id: 1146935
 description: Aktivera en utlösare för smart kampanj | Fliken Schema - Marketo Docs - produktdokumentation
 title: Aktivera en utlösare för smart kampanj | Fliken Schema
+exl-id: f9232c91-aa39-4033-bd11-865d1cbc5eb2
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
-
 
 # Aktivera en utlösare för smart kampanj | Fliken Schema {#activate-a-trigger-smart-campaign-schedule-tab}
 
