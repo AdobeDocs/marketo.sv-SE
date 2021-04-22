@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147247
-description: Dölja och dölja anpassade posttyper - Marketo Docs - produktdokumentation
+description: Dölja och ta bort anpassade posttyper - Marketo Docs - produktdokumentation
 title: Dölja och dölja anpassade posttyper
+exl-id: 3e41b47d-86dd-4fb3-ab87-0be0b534fc0a
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
-
 
 # Dölja och dölja anpassade posttyper {#hiding-and-unhiding-custom-entry-types}
 
