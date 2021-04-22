@@ -1,7 +1,7 @@
 ---
 unique-page-id: 11387674
-description: Uppdateringar av Marketo Terminology - Marketo Docs - Produktdokumentation
-title: Uppdateringar av Marketets terminologi
+description: Uppdateringar av Marketo Terminology - Marketo Docs - produktdokumentation
+title: Uppdateringar av Marketo Terminologi
 translation-type: tm+mt
 source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vi gör några ändringar i vår plattform, vilket kommer att påverka vad vissa saker kallas. Om du har en ny Marketo-instans från mars 2016, eller om ditt företag förnyades efter juli 2016, kanske du ser den nya terminologin nu.
 
-Även om du kanske ser olika terminologi i Marketo-dokumentationen, kan du vara säker på att alla artiklar snart uppdateras för att återspegla dessa ändringar. Alla instruktioner är desamma.
+Även om du kan se olika terminologi i Marketo-dokumentationen, kan du vara säker på att alla artiklar snart kommer att uppdateras för att återspegla dessa ändringar. Alla instruktioner är desamma.
 
 Så vad har ändrats?
 
