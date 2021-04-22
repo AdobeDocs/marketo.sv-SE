@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147257
-description: Navigera i marknadsföringskalendern - Marketo Docs - Produktdokumentation
+description: Navigera i marknadsföringskalendern - Marketo Docs - produktdokumentation
 title: Navigera i marknadsföringskalendern
+exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
-
 
 # Navigera i marknadsföringskalendern {#navigating-the-marketing-calendar}
 
@@ -17,7 +17,7 @@ Det är enkelt att navigera runt i marknadsföringskalendern som en, två, tre!
 
 >[!PREREQUISITES]
 >
->Kontrollera att du har en [licens för marknadsföringskalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) - annars visas inte rutan för marknadsföringskalender i Min marknadsföring.
+>Kontrollera att du har en [licens för marknadsföringskalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) - annars visas inte rutan för marknadsföringskalender i Min Marketo.
 
 1. Gå till **marknadsföringskalendern**.
 
