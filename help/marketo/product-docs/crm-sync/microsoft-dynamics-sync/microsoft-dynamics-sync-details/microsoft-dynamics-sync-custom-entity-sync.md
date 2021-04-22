@@ -2,14 +2,14 @@
 unique-page-id: 3571846
 description: Microsoft Dynamics Sync -Anpassad entitetssynkronisering - Marketo Docs - Produktdokumentation
 title: Microsoft Dynamics Sync - anpassad entitetssynkronisering
+exl-id: 1e175bd4-509f-4c1f-a41d-456629e4a8fb
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
 
 ---
-
 
 # Microsoft Dynamics Sync: Synkronisering av anpassad entitet {#microsoft-dynamics-sync-custom-entity-sync}
 
@@ -37,7 +37,7 @@ Om du behöver aktivera den första anpassade entitetssynkroniseringen för att 
 
 1. Installera en version av Microsoft Dynamics som har stöd för anpassad entitetssynkronisering (efter 2_0_0_2). Se [Marketo Plugin Releases for MIcrosoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
 
-1. Ge Marketo Sync User läsåtkomst till alla enheter du tänker synkronisera.
+1. Ge Marketo Sync-användare läsåtkomst till alla enheter du tänker synkronisera.
 
 1. Klicka på länken **Synkronisera Dynamics-entiteter** under Databashantering.
 
@@ -57,7 +57,7 @@ Om du behöver aktivera den första anpassade entitetssynkroniseringen för att 
 
    >[!NOTE]
    >
-   >Marketo stöder bara anpassade entiteter som är länkade till standardenheter på en eller två nivåer djupt.
+   >Marketo stöder bara anpassade entiteter som är länkade till standardenheter på en eller två nivåer.
 
    >[!NOTE]
    >
