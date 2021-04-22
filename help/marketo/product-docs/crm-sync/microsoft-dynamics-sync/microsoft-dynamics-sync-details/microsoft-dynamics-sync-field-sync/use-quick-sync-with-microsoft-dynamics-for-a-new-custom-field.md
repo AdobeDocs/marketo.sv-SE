@@ -2,14 +2,14 @@
 unique-page-id: 10098379
 description: Använd snabbsynkronisering med Microsoft Dynamics för ett nytt anpassat fält - Marketo Docs - produktdokumentation
 title: Använd snabbsynkronisering med Microsoft Dynamics för ett nytt anpassat fält
+exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 0%
 
 ---
-
 
 # Använd snabbsynkronisering med Microsoft Dynamics för ett nytt anpassat fält {#use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field}
 
@@ -23,7 +23,7 @@ Snabbsynkronisering kan synkronisera null-värden. Om du till exempel använder 
 
 Så här använder du snabbsynkronisering för att synkronisera om nya fält.
 
-1. I Marketo klickar du på **Admin**.
+1. Klicka på **Admin** i Marketo.
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
@@ -75,7 +75,7 @@ Vad händer om du vill synkronisera ett befintligt fält, men bara vill göra de
 
 ## Korrigerar ej synkroniserade fält {#fixing-out-of-sync-fields}
 
-I det sällsynta fall där ett Dynamics- och Marketo-fält inte är synkroniserat finns det ett snabbt och enkelt sätt att synkronisera om dem.
+Om ett Dynamics- och Marketo-fält inte är synkroniserat går det snabbt och enkelt att synkronisera om dem.
 
 1. Avmarkera fältet och klicka på **Spara**.
 
