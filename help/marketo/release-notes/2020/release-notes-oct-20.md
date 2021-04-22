@@ -1,19 +1,19 @@
 ---
 unique-page-id: 45416698
-description: Versionsinformation - okt 20 - Marketo Docs - Produktdokumentation
+description: Versionsinformation - okt 20 - Marketo Docs - produktdokumentation
 title: Versionsinformation - 20 okt
+exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '959'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: Okt &#39;20 {#release-notes-oct}
 
-Följande funktioner ingår i versionen från 20 oktober. Se om din Marketo-utgåva har funktioner tillgängliga.
+Följande funktioner ingår i versionen från 20 oktober. Se om det finns funktioner i din Marketo-utgåva.
 
 >[!AVAILABILITY]
 >
@@ -47,7 +47,7 @@ Följande funktioner ingår i versionen från 20 oktober. Se om din Marketo-utg�
 
 ## Betalande mediemål {#paid-media-targeting}
 
-* **Integrering av Facebook-annonser**: Spårningsparametrar för Facebook-formulär kan nu hämtas via LaunchPoint-tjänsten för Facebook-annonser. Dessa dolda fält kan nu mappas till Marketo-fält så att marknadsförarna kan lagra och agera på värdefulla kampanjspårningsdata.
+* **Integrering av facebook Lead Ads**: Facebook parametrar för formulärspårning kan nu hämtas via LaunchPoint-tjänsten för Facebook lead-annonser. Dessa dolda fält kan nu mappas till Marketo-fält så att marknadsförarna kan lagra och agera på värdefulla kampanjspårningsdata.
 
 ## Administration {#administration}
 
