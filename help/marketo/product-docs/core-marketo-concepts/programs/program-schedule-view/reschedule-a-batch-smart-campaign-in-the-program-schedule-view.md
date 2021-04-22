@@ -2,14 +2,14 @@
 unique-page-id: 7514985
 description: Schemalägg om en batchvis smart kampanj i programschemavy - Marketo Docs - produktdokumentation
 title: Schemalägg om en batchvis smart kampanj i programschemavy
+exl-id: accae56e-36c5-4093-a72e-0882ce8e50b2
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
-
 
 # Schemalägg om en batchvis smart kampanj i programtidsvyn {#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}
 
