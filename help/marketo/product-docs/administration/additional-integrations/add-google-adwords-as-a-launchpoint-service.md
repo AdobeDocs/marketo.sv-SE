@@ -2,18 +2,18 @@
 unique-page-id: 6095008
 description: Lägg till Google AdWords som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
 title: Lägg till Google AdWords som en LaunchPoint-tjänst
+exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
 
 ---
 
-
 # Lägg till Google AdWords som en LaunchPoint-tjänst {#add-google-adwords-as-a-launchpoint-service}
 
-Länka ditt Google AdWords-konto till Marketo för att automatiskt överföra konverteringsdata offline från Marketo till Google AdWords. Från gränssnittet för AdWords kan du sedan enkelt se vilka klick som resulterat i kvalificerade leads, affärsmöjligheter och nya kunder (eller vilka intäktssteg du vill spåra) efter att du har [lagt till anpassade kolumner](https://support.google.com/adwords/answer/3073556) i AdWords. Den här informationen visas inte i Marketo-gränssnittet.
+Länka ditt Google AdWords-konto till Marketo för att automatiskt överföra konverteringsdata offline från Marketo till Google AdWords. Från gränssnittet för AdWords kan du sedan enkelt se vilka klick som resulterat i kvalificerade leads, affärsmöjligheter och nya kunder (eller vilka intäktssteg du vill spåra) efter att du har [lagt till anpassade kolumner](https://support.google.com/adwords/answer/3073556) i AdWords. Den här informationen visas inte i användargränssnittet för Marketo.
 
 Läs mer om [Googles importfunktion för offlinekonvertering](https://support.google.com/adwords/answer/2998031?hl=en).
 
@@ -41,7 +41,7 @@ Läs mer om [Googles importfunktion för offlinekonvertering](https://support.go
 
    ![](assets/new-service-google.png)
 
-1. Välj **Authorize Marketo**.
+1. Välj **Auktorisera Marketo**.
 
    >[!NOTE]
    >
@@ -61,7 +61,7 @@ Läs mer om [Googles importfunktion för offlinekonvertering](https://support.go
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. Överför dina offlinekonverteringar från Marketo till Google AdWords **Varje vecka** eller **Daily**.
+1. Ladda upp dina offlinekonverteringar från Marketo till Google AdWords **Veckovis** eller **Daily**.
 
    ![](assets/image2015-2-23-16-3a53-3a4.png)
 
