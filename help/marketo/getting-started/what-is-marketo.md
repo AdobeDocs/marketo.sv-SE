@@ -2,14 +2,14 @@
 unique-page-id: 2949467
 description: Vad är Marketo? - Marketo Docs - produktdokumentation
 title: Vad är Marketo?
+exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
 
 ---
-
 
 # Vad är Marketo? {#what-is-marketo}
 
@@ -39,7 +39,7 @@ Det kan man göra i Marketo. Men det finns så mycket mer.
 
 ## Heliga kon! Behöver jag lära mig allt det där? {#holy-cow-do-i-need-to-learn-all-that}
 
-Nej, inte alls. Marketo är lätt att komma igång och kommer att utvecklas med dig. Du kan lägga till delar över tiden.
+Nej, inte alls. Marketo är enkelt att komma igång och utvecklas tillsammans med dig. Du kan lägga till delar över tiden.
 
 ## Måste jag göra någon konfiguration? {#do-i-need-to-do-any-setup}
 
