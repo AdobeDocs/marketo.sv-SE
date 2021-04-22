@@ -2,14 +2,14 @@
 unique-page-id: 2952292
 description: Understanding Notifications - Marketo Docs - Product Documentation
 title: Om meddelanden
+exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
 
 ---
-
 
 # Förstå meddelanden {#understanding-notifications}
 
@@ -17,7 +17,7 @@ Med meddelanden håller du dig uppdaterad om systemhändelser som inträffar i d
 
 ## Översikt {#overview}
 
-1. Nya meddelanden visas längst upp till höger på Marketo.
+1. Nya meddelanden visas längst upp till höger i Marketo.
 
    ![](assets/image2014-10-10-11-3a32-3a48.png)
 
