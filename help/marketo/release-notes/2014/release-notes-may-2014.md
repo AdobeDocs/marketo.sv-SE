@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2951044
-description: Versionsinformation -maj 2014 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -maj 2014 - Marketo Docs - produktdokumentation
 title: Versionsinformation -maj 2014
+exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '460'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: Maj 2014 {#release-notes-may}
 
-Följande funktioner ingår i majversionen 2014. Kontrollera om din Marketo Edition innehåller funktioner. Kom tillbaka efter releasen och hitta länkar till detaljerade kunskapsbasartiklar för varje funktion!
+Följande funktioner ingår i majversionen 2014. Kontrollera om det finns funktioner i Marketo Edition. Kom tillbaka efter releasen och hitta länkar till detaljerade kunskapsbasartiklar för varje funktion!
 
 ## Ta bort arbetsyta {#delete-workspace}
 
