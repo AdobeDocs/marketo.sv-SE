@@ -1,15 +1,15 @@
 ---
 unique-page-id: 3571830
-description: Steg 3 av 3 - Anslut Microsoft Dynamics med Marketo (Online) - Marketo Docs - Produktdokumentation
+description: Steg 3 av 3 -Anslut Microsoft Dynamics med Marketo (online) - Marketo Docs - Produktdokumentation
 title: Steg 3 av 3 -Anslut Microsoft Dynamics med Marketo (online)
+exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
 
 ---
-
 
 # Steg 3 av 3: Anslut Microsoft Dynamics med Marketo (Online) {#step-of-connect-microsoft-dynamics-with-marketo-online}
 
@@ -18,7 +18,7 @@ Detta är det sista steget i synkroniseringen. Vi är nästan framme!
 >[!PREREQUISITES]
 >
 >* [Steg 1 av 3: Installera Marketo-lösningen (online)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
->* [Steg 2 av 3: Konfigurera Marketo Sync User i Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
+>* [Steg 2 av 3: Konfigurera Marketo Sync-användare i Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -45,7 +45,7 @@ Detta är det sista steget i synkroniseringen. Vi är nästan framme!
 
    >[!CAUTION]
    >
-   >Kontrollera att dina autentiseringsuppgifter är korrekta eftersom det inte går att återställa efterföljande schemaändringar efter överföringen. Om felaktiga inloggningsuppgifter sparas måste du skaffa en ny Marketo-prenumeration.
+   >Kontrollera att dina autentiseringsuppgifter är korrekta eftersom det inte går att återställa efterföljande schemaändringar efter överföringen. Om felaktiga uppgifter sparas måste du skaffa en ny Marketo-prenumeration.
 
 1. Ange **användarnamn**, **lösenord** och Microsoft Dynamics **URL**. Klicka på **Spara** när du är klar.
 
@@ -64,7 +64,7 @@ Detta är det sista steget i synkroniseringen. Vi är nästan framme!
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
-1. Markera de fält som du vill synkronisera med Marketo så att de är förmarkerade. Klicka på **Spara**.
+1. Markera de fält som du vill synkronisera till Marketo så att de är förmarkerade. Klicka på **Spara**.
 
    ![](assets/image2016-8-25-15-3a6-3a11.png)
 
