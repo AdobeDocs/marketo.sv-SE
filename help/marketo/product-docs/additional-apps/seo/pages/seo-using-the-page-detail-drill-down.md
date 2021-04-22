@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949186
-description: SEO - Använda detaljgranskning - Marketo Docs - Produktdokumentation
+description: SEO - Använda detaljgranskning - Marketo Docs - produktdokumentation
 title: SEO - Använda detaljnivå för sidan nedåt
+exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Använda detaljnivån {#seo-using-the-page-detail-drill-down}
 
@@ -40,9 +40,9 @@ Du kan se mycket information om dina sidor med detaljnivån nedåt.
 | Totalt antal inkommande länkar | Det totala antalet inkommande länkar till din webbplats. |
 | Inkommande länkar (unika domäner) | Antalet andra webbplatser med minst en inkommande länk till din webbplats. |
 | Utgående länkar | Antalet länkar som går ut till andra webbplatser från den här sidan. |
-| Facebook-resurser | Antal gånger som den här sidan delades på Facebook. |
-| Facebook gillar | Antal gånger som den här sidresursen gillades på Facebook. |
-| Facebook-klick | Antal klick från Facebook-resursen. |
+| Facebook Shares | Antal gånger som den här sidan delats på Facebook. |
+| Facebook gillar | Antal gånger som den här siddelningen har gillats på Facebook. |
+| Facebook Clicks | Antal klickningar från Facebook. |
 
 ## Nyckelord som sidan är optimerad för {#keyword-s-that-page-is-optimized-for}
 
