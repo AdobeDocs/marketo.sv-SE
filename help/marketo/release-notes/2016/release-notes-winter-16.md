@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097199
-description: Versionsinformation -vinter '16 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -vinter '16 - Marketo Docs - produktdokumentation
 title: Versionsinformation -vinter '16
+exl-id: 1e3b9207-27fe-47b1-b709-1306ac57b93b
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '505'
 ht-degree: 0%
 
 ---
 
-
-# Versionsinformation: Vinter &#39;16 {#release-notes-winter}
+# Versionsinformation: Vinter &#39;17 {#release-notes-winter}
 
 Följande funktioner ingår i vinterversionen 16. Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion.
 
@@ -75,9 +75,9 @@ Nu kan du skapa många-till-många-relationer mellan leads/konton och ett anpass
 
 ![](assets/image2016-1-11-12-3a59-3a59.png)
 
-## [Leadannonser för Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
+## [Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Facebook Lead ](https://www.facebook.com/business/a/lead-ads) är ett mer direkt sätt för ett företag att köra leadgenereringskampanjer på Facebook. Användarna fyller i en blankett för att uttrycka sitt intresse för en produkt eller tjänst, så att företaget kan följa upp med dem. Marketointegreringen med Facebook Lead Ads hämtar automatiskt information som ett lead tillhandahåller i formuläret Lead Ad. Uppföljningsåtgärder och meddelanden kan sedan automatiseras med den nya utlösaren för Facebook-annonser.
+[Facebook Lead ](https://www.facebook.com/business/a/lead-ads) är ett mer direkt sätt för ett företag att köra leadgenereringskampanjer på Facebook. Användarna fyller i en blankett för att uttrycka sitt intresse för en produkt eller tjänst, så att företaget kan följa upp med dem. Marketo-integrationen med Facebook Lead Ads hämtar automatiskt information som ett lead tillhandahåller i formuläret Lead Ad. Uppföljningsåtgärder och meddelanden kan sedan automatiseras med den nya utlösaren för utfyllnad av Facebook Lead Ads.
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 
