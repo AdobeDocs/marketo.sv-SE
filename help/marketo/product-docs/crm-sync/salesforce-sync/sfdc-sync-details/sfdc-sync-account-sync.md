@@ -2,14 +2,14 @@
 unique-page-id: 2953459
 description: SFDC Sync -Account Sync - Marketo Docs - Produktdokumentation
 title: SFDC-synkronisering - kontosynkronisering
+exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
 
 ---
-
 
 # SFDC-synkronisering: Kontosynkronisering {#sfdc-sync-account-sync}
 
@@ -21,7 +21,7 @@ Bara ett sätt: från SFDC till Marketo.
 
 ## Hur fungerar uppdateringarna? {#how-do-the-updates-work}
 
-Om du uppdaterar ett kontofält för en kontakt i Marketo, ändras värdena för alla kontakter som tillhör det kontot i Marketo. Den synkroniseras inte till SFDC. Nästa gång som kontot uppdateras i SFDC kommer dock ändringarna att åsidosätta all kontoinformation i Marketo.
+Om du uppdaterar ett kontofält för en kontakt i Marketo ändras värdena för alla kontakter som hör till det kontot i Marketo. Den synkroniseras inte till SFDC. Nästa gång som kontot uppdateras i SFDC kommer dock ändringarna att åsidosätta all kontoinformation i Marketo.
 
 ## Kan en kontakt tillhöra flera konton?  {#can-a-contact-belong-to-multiple-accounts}
 
