@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147129
-description: Skapa en rapport om programprestanda - Marketo Docs - Produktdokumentation
+description: Skapa en prestandarapport för program - Marketo Docs - produktdokumentation
 title: Skapa en rapport om programprestanda
+exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
 
 ---
-
 
 # Skapa en rapport om programprestanda {#create-a-program-performance-report}
 
