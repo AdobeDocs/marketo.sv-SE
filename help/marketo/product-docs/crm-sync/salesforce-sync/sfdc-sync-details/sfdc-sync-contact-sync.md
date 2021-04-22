@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953457
-description: SFDC Sync -Contact Sync - Marketo Docs - Produktdokumentation
+description: SFDC Sync -Contact Sync - Marketo Docs - produktdokumentation
 title: SFDC-synkronisering - kontaktsynkronisering
+exl-id: 537bbc95-9233-4454-892e-81f962cf729d
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
 
 ---
-
 
 # SFDC-synkronisering: Kontaktsynkronisering {#sfdc-sync-contact-sync}
 
@@ -29,7 +29,7 @@ Ja, använd flödesåtgärden **[Konvertera person](/help/marketo/product-docs/c
 
 >[!CAUTION]
 >
->Konvertering av en person i Marketo resulterar i ett nytt konto och en ny affärsmöjlighet i Salesforce. Om du inte vill ha dubblettkonton använder du Salesforce för att konvertera.
+>Om du konverterar en person i Marketo skapas ett nytt konto och en ny affärsmöjlighet i Salesforce. Om du inte vill ha dubblettkonton använder du Salesforce för att konvertera.
 
 ## Kan jag framtvinga en synkronisering av en kontakt manuellt? {#can-i-manually-force-a-sync-of-a-contact}
 
@@ -41,7 +41,7 @@ Nej, alla standardfält är inte användbara. Alla anpassade fält kan ingå i s
 
 >[!NOTE]
 >
->Marketo synkroniserar bara de fält som Marketo Sync-användaren har åtkomst till.
+>Marketo synkroniserar bara de fält som din Marketo Sync-användare har åtkomst till.
 
 ## Kommer Marketo att respektera Salesforce-valideringsreglerna? {#will-marketo-respect-the-salesforce-validation-rules}
 
