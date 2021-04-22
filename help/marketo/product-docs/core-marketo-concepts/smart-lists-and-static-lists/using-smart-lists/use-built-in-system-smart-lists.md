@@ -1,19 +1,19 @@
 ---
 unique-page-id: 557275
-description: Använd inbyggda/systemsmarta listor - Marketo Docs - Produktdokumentation
+description: Använd inbyggda/systemsmarta listor - Marketo Docs - produktdokumentation
 title: Använd inbyggda/systemsmarta listor
+exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
 
-
 # Använd inbyggda/systemsmarta listor {#use-built-in-system-smart-lists}
 
-Marketo har några mycket användbara inbyggda smarta listor. Vi kollar dem!
+Marketo har några användbara smarta listor. Vi kollar dem!
 
 >[!NOTE]
 >
@@ -39,7 +39,7 @@ Här följer en sammanfattning av vad de inbyggda smarta listorna gör:
 
 | Listnamn | Beskrivning |
 |---|---|
-| Alla personer | Alla personer i Marketo-databasen |
+| Alla personer | Alla personer i din Marketo-databas |
 | Avbeställ | Dessa personer kan endast få operativa e-postmeddelanden; Detta kontrolleras vanligtvis av personen själv. |
 | Marknadsföring har pausats | Dessa personer kan endast få operativa e-postmeddelanden; Detta kontrolleras vanligtvis av dig, marknadsföraren. |
 | Blockeringslista | De här personerna kommer inte att få något e-postmeddelande alls. |
