@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359410
-description: Skicka ett e-postmeddelande - Marketo Docs - Produktdokumentation
+description: Skicka ett e-postmeddelande - Marketo Docs - produktdokumentation
 title: Skicka ett e-postmeddelande
+exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
 
 ---
 
-
 # Skicka ett e-postmeddelande {#send-an-email}
 
-Det är det första alla vill göra. Låt oss skicka ett e-postmeddelande från Marketo!
+Det är det första alla vill göra. Vi skickar ett mejl från Marketo!
 
 >[!PREREQUISITES]
 >
