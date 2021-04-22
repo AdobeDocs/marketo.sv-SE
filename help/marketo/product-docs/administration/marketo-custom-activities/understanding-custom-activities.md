@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10100266
-description: Förstå anpassade aktiviteter - Marketo Docs - Produktdokumentation
+description: Så här fungerar anpassade aktiviteter - Marketo Docs - produktdokumentation
 title: Om anpassade aktiviteter
+exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
 
 ---
-
 
 # Om anpassade aktiviteter {#understanding-custom-activities}
 
@@ -17,11 +17,11 @@ Spåra en åtgärd som en person har vidtagit specifikt för din verksamhet med 
 
 **Vad är aktiviteter?**
 
-Det finns flera sätt som en person kan interagera med din organisation. De kan besöka företagets webbplats, delta i ett av dina bildspel eller klicka på en länk i ett e-postmeddelande som du har skickat till dem. Dessa åtgärder är aktiviteter, och oavsett vilka åtgärder de vidtar, fångar Marketo in dem så att ert marknadsföringsteam bättre kan förstå hur de kan skicka dem i rätt tid och relevant kommunikation.
+Det finns flera sätt som en person kan interagera med din organisation. De kan besöka företagets webbplats, delta i ett av dina bildspel eller klicka på en länk i ett e-postmeddelande som du har skickat till dem. Dessa åtgärder är aktiviteter, och oavsett vilka åtgärder de vidtar, samlar Marketo in dem så att marknadsföringsteamet bättre kan förstå hur de kan skicka dem aktuell och relevant kommunikation.
 
 **Anpassade aktiviteter**
 
-Med anpassade aktiviteter kan du spåra en aktivitet som inte är relaterad till ett Marketo-formulär, ett e-postmeddelande eller en landningssida. Vill du spåra när någon sätter in en check? Använd en anpassad aktivitet. Vill du hålla reda på när någon deltar i ett webbinarium? Använd en anpassad aktivitet.
+Med anpassade aktiviteter kan du spåra en aktivitet som inte är relaterad till ett Marketo-formulär, e-postmeddelande eller en landningssida. Vill du spåra när någon sätter in en check? Använd en anpassad aktivitet. Vill du hålla reda på när någon deltar i ett webbinarium? Använd en anpassad aktivitet.
 
 >[!NOTE]
 >
