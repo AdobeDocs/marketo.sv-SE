@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512292
-description: Lägg till Level 3 Web Meeting som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
+description: Lägg till webbmöte på nivå 3 som en startpunktstjänst - Marketo Docs - Produktdokumentation
 title: Lägg till webbmöte på nivå 3 som en startpunktstjänst
+exl-id: f419b019-33bb-446d-baf5-55393770a703
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
-
 # Lägg till webbmöte på nivå 3 som en startpunktstjänst {#add-level-web-meeting-as-a-launchpoint-service}
 
-Marketo hanterar registrering och närvaro i Level 3 Web Meeting.
+Marketo hanterar registrering och närvaro av webbmöten på nivå 3.
 
 >[!NOTE]
 >
