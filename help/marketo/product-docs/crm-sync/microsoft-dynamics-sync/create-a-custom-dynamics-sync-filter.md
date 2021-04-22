@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437903
-description: Skapa ett anpassat Dynamics Sync-filter - Marketo Docs - Produktdokumentation
+description: Skapa ett anpassat Dynamics Sync-filter - Marketo Docs - produktdokumentation
 title: Skapa ett anpassat Dynamics-synkroniseringsfilter
+exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '785'
 ht-degree: 0%
 
 ---
 
-
 # Skapa ett synkroniseringsfilter för anpassad Dynamics {#create-a-custom-dynamics-sync-filter}
 
-Vill du inte synkronisera allt i Dynamics CRM till Marketo? Oroa dig inte! Marketo låter dig konfigurera ett synkroniseringsfilter och synkronisera endast en del av dina poster.
+Vill du inte synkronisera allt i Dynamics CRM till Marketo? Oroa dig inte! Med Marketo kan du konfigurera ett synkroniseringsfilter och bara synkronisera en del av dina poster.
 
 ## Översikt {#overview}
 
@@ -37,7 +37,7 @@ Marketo letar efter det här fältet under den automatiska bakgrundssynkroniseri
 
 >[!CAUTION]
 >
->Det enda sättet att tala om för Marketo att hoppa över en post är att explicit ange fältvärdet till **Nej**. Marketo synkroniserar fortfarande poster över även om fältvärdena är tomma.
+>Det enda sättet att tala om för Marketo att hoppa över en post är att explicit ange fältvärdet till **No**. Marketo synkroniserar fortfarande poster över även om fältvärdena är tomma.
 
 >[!PREREQUISITES]
 >
@@ -77,7 +77,7 @@ Marketo letar efter det här fältet under den automatiska bakgrundssynkroniseri
 
 ## Markera filtret i Marketo {#select-the-filter-in-marketo}
 
-Även om du redan har gjort din första synkronisering går du in och väljer fälten som ska synkroniseras med Marketo.
+Även om du redan har gjort den första synkroniseringen går du in och väljer fälten som ska synkroniseras med Marketo.
 
 1. Gå till Admin och välj **Microsoft Dynamics**.
 
@@ -145,7 +145,7 @@ Här är några implementeringsdetaljer vi trodde att du borde veta:
 
 1. Stoppa en synkroniseringsåtgärd
 
-   När en post ändrar sitt SyncToMkto-värde från Yes till No, meddelas Marketo om att den här posten ska sluta synkroniseras. Posten tas dock inte bort, utan den slutar att hämta uppdateringar och blir föråldrad.
+   När en post ändrar sitt SyncToMkto-värde från Ja till Nej, meddelas Marketo om att den här posten inte ska synkroniseras. Posten tas dock inte bort, utan den slutar att hämta uppdateringar och blir föråldrad.
 
 >[!MORELIKETHIS]
 >
