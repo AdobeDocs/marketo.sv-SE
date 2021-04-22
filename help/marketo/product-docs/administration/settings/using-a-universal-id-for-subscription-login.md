@@ -2,14 +2,14 @@
 unique-page-id: 10100311
 description: Använda ett universellt ID för prenumerationsinloggning - Marketo Docs - produktdokumentation
 title: Använda ett universellt ID för prenumerationsinloggning
+exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '628'
 ht-degree: 0%
 
 ---
-
 
 # Använda ett universellt ID för prenumerationsinloggning {#using-a-universal-id-for-subscription-login}
 
@@ -21,7 +21,7 @@ Prenumerationsnivåinställningarna gäller för användare som använder Univer
 
 ## Konfigurera ett universellt ID {#setting-up-a-universal-id}
 
-Från varje enskild instans måste Marketo-administratören bjuda in dig till de olika prenumerationerna med samma inloggning. Marketo kan inte sammanfoga dina befintliga inloggningar automatiskt. När du har aktiverat Universellt ID är **Marketo-instansen inte tillgänglig** i upp till 30 minuter. Om du har en större användarbas kan det ta lite längre tid.
+Från varje enskild instans måste din Marketo-administratör bjuda in dig till alla dina olika prenumerationer med samma inloggning. Marketo kan inte sammanfoga dina befintliga inloggningar automatiskt. När du har aktiverat Universellt ID är **din Marketo-instans inte tillgänglig** i upp till 30 minuter. Om du har en större användarbas kan det ta lite längre tid.
 
 >[!CAUTION]
 >
@@ -33,7 +33,7 @@ Från varje enskild instans måste Marketo-administratören bjuda in dig till de
 
 ## Loggar in {#logging-in}
 
-När du loggar in för att acceptera en inbjudan till en andra prenumeration med ett universellt ID visas inloggningssidan för anmälan. Här måste du markera en kryssruta för att godkänna villkoren. När du har accepterat visas sidan för normal återställning, inte den här, för alla efterföljande inloggningar. Genom att acceptera villkoren tillåter du att Marketto distribuerar dina grundläggande profildata (som förnamn, efternamn och e-postadress) till datacentralerna på olika platser där din prenumeration finns.
+När du loggar in för att acceptera en inbjudan till en andra prenumeration med ett universellt ID visas inloggningssidan för anmälan. Här måste du markera en kryssruta för att godkänna villkoren. När du har accepterat visas sidan för normal återställning, inte den här, för alla efterföljande inloggningar. Genom att acceptera villkoren tillåter du att Marketo distribuerar dina grundläggande profildata (som förnamn, efternamn och e-postadress) till datacentralerna på olika platser där din prenumeration finns.
 
 ![](assets/new-login-reduced-hands-name.png)
 
@@ -49,7 +49,7 @@ Med ett universellt ID för flera prenumerationer kan bara du ändra lösenordet
 
 >[!NOTE]
 >
->Marketo frågar användare som vill använda Universal ID att återställa sitt lösenord om den aktuella prenumerationens lösenord inte uppfyller lösenordsprincipen för den andra prenumerationen som de bjuds in till.
+>Marketo ber användare som vill använda ett universellt ID att återställa sitt lösenord om den aktuella prenumerationens lösenord inte uppfyller lösenordsprincipen för den andra prenumerationen som de bjuds in till.
 
 ## Växla mellan prenumerationer {#switching-between-subscriptions}
 
@@ -57,7 +57,7 @@ Med ett universellt ID kan du se den prenumeration du är inloggad på och välj
 
 ![](assets/image2016-11-3-15-3a10-3a16.png)
 
-När du loggar ut och in igen loggar Marketo automatiskt in dig på den prenumeration du senast loggade in på. Du kan sedan byta till en annan prenumeration om det behövs.
+När du loggar ut och in igen loggar Marketo automatiskt in dig på den prenumeration du senast var inloggad på. Du kan sedan byta till en annan prenumeration om det behövs.
 
 ## Community-profiler {#community-profiles}
 
