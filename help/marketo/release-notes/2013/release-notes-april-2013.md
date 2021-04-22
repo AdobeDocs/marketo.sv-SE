@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951099
-description: Versionsinformation -April 2013 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -April 2013 - Marketo Docs - produktdokumentation
 title: Versionsinformation -april 2013
+exl-id: 5b202877-b501-4cd2-9fe2-e8663dd5792f
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
 
 ---
-
 
 # Versionsinformation: April 2013 {#release-notes-april}
 
@@ -23,7 +23,7 @@ Anslut Marketo till ditt Box-konto för att enkelt kopiera filer till designstud
 
 ## Gmail Plugin {#gmail-plugin}
 
-Om du använder Marketo Sales Insight, och Gmail, kan du installera vårt nya Gmail-plugin-program via Chrome Store. Med plugin-programmet kan du logga meddelanden med Marketo, läsa in e-postmallar från Marketo och skicka meddelanden med spårningsfunktionerna i Marketo.
+Om du använder både Marketo Sales Insight och Gmail kan du installera vårt nya Gmail-plugin-program via Chrome Store. Med plugin-programmet kan du logga meddelanden med Marketo, läsa in Marketo e-postmallar och skicka meddelanden med Marketo spårningsfunktioner.
 
 ![](assets/image2014-9-22-15-3a48-3a57.png)
 
@@ -41,4 +41,4 @@ Stöd för program i SOAP API-anropet, inklusive skrivskyddad åtkomst till prog
 
 ## ON24-förbättring {#on-enhancement}
 
-Jobbtitel och företagsnamn synkroniseras till ON24 från Marketo-registreringsformuläret.
+Jobbtitel och företagsnamn synkroniseras till ON24 från registreringsformuläret för Marketo.
