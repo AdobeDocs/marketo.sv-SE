@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2951105
-description: Versionsinformation -januari 2013 - Marketo Docs - Produktdokumentation
+description: Versionsinformation -januari 2013 - Marketo Docs - produktdokumentation
 title: Versionsinformation - januari 2013
+exl-id: 1bdc15f4-eb86-4e29-948a-0823a583ee86
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: Januari 2013 {#release-notes-january}
 
-Januariversionen utökar vårt sociala erbjudande med **Referenserbjudanden**. Dessutom kan Marketo Lead Management-användare ange inställningar för tidszon, språk och språkområde. Observera att funktioner som är markerade med * endast är tillgängliga i Select Edition.
+Januariversionen utökar vårt sociala erbjudande med **Referenserbjudanden**. Dessutom kan användare av Marketo Lead Management ange inställningar för tidszon, språk och språkområde. Observera att funktioner som är markerade med * endast är tillgängliga i Select Edition.
 
 ## Referenserbjudanden {#referral-offers}
 
@@ -31,7 +31,7 @@ Du kan ändra standardtidszonen för ditt personliga Marketo-konto. Även om sta
 
 ## Välj Marketo Lead Management Language {#select-your-marketo-lead-management-language}
 
-Du kan ändra standardspråket för ditt Marketo-användarkonto. Även om standardinställningen för prenumerationen är på engelska kan du ändra den till tyska eller franska för egen användning.
+Du kan ändra standardspråk för ditt Marketo-användarkonto. Även om standardinställningen för prenumerationen är på engelska kan du ändra den till tyska eller franska för egen användning.
 
 ![](assets/image2014-9-22-15-3a21-3a18.png)
 
@@ -47,7 +47,7 @@ Ett exempel på ett franskt formulär:
 
 ## Välj ditt Sales Insight-språk (endast Salesforce) {#select-your-sales-insight-language-salesforce-only}
 
-Om din Salesforce-språkinställning är inställd på franska eller tyska kommer Marketo Sales Insight att iaktta den här inställningen. Hämta det senaste MSI-paketet för att få tillgång till den här funktionen (tillgänglig veckan efter 14 januari).
+Om du har angett språkinställningen för Salesforce till antingen franska eller tyska kommer Marketo Sales Insight att respektera den här inställningen. Hämta det senaste MSI-paketet för att få tillgång till den här funktionen (tillgänglig veckan efter 14 januari).
 
 ![](assets/image2014-9-22-15-3a22-3a31.png)
 
