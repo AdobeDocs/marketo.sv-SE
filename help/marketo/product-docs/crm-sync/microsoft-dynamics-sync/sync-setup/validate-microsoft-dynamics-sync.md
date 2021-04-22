@@ -1,15 +1,15 @@
 ---
 unique-page-id: 8783322
-description: Validera Microsoft Dynamics Sync - Marketo Docs - Produktdokumentation
+description: Validera Microsoft Dynamics Sync - Marketo Docs - produktdokumentation
 title: Verifiera Microsoft Dynamics Sync
+exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 translation-type: tm+mt
-source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 0%
 
 ---
-
 
 # Verifiera Microsoft Dynamics Sync {#validate-microsoft-dynamics-sync}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## Kör Verifiera synkronisering i Marketo {#run-validate-sync-in-marketo}
 
-Det är viktigt att du kör verktyget Validera synkronisering för att kontrollera att Microsoft Dynamics Sync with Marketo är korrekt konfigurerat innan du skapar den slutliga anslutningen mellan dem. Processen genererar en checklista med sju konfigurationssteg som identifierar var det finns problem. Om du kontrollerar att detta var korrekt kan du spara mycket tid senare.
+Det är viktigt att du kör verktyget Validera synkronisering för att kontrollera att Microsoft Dynamics Sync med Marketo är korrekt konfigurerat innan du skapar den slutliga anslutningen mellan dem. Processen genererar en checklista med sju konfigurationssteg som identifierar var det finns problem. Om du kontrollerar att detta var korrekt kan du spara mycket tid senare.
 
 1. Klicka på fliken **Admin** och sedan på länken **Microsoft Dynamics** i integrationsområdet.
 
