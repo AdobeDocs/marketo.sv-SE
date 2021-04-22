@@ -2,14 +2,14 @@
 unique-page-id: 7512289
 description: Lägg till GoToWebinar som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
 title: Lägg till GoToWebinar som en LaunchPoint-tjänst
+exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
-
 
 # Lägg till GoToWebinar som en LaunchPoint-tjänst {#add-gotowebinar-as-a-launchpoint-service}
 
@@ -45,7 +45,7 @@ Marketo hanterar registrering och närvaro av GoToWebinar.
 
    >[!NOTE]
    >
-   >Om du vill synkronisera företagsnamn och jobbtitel från Marketto-formuläret till GoToWebinar markerar du rutan **Aktivera ytterligare fält**.
+   >Om du vill synkronisera företagsnamn och jobbtitel från ditt Marketo-formulär till GoToWebinar markerar du rutan **Aktivera ytterligare fält**.
 
 1. I popup-fönstret GoToWebinar Logga in anger du ditt **GoToWebinar**-e-postadress och lösenord och klickar på **Logga in**.
 
