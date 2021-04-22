@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146901
-description: Använda logik för avancerad smart listregel - Marketo Docs - Produktdokumentation
+description: Använda avancerad logik för smarta listregler - Marketo Docs - produktdokumentation
 title: Använda avancerad logik för smarta listregler
+exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
-
 
 # Använda avancerad logik för smart listregel {#using-advanced-smart-list-rule-logic}
 
