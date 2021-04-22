@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147013
-description: Change Engagement Program Cadence - Marketo Docs - Produktdokumentation
+description: Change Engagement Program Cadence - Marketo Docs - produktdokumentation
 title: Change Engagement Program Cadence
+exl-id: ce087a0d-43e1-467c-b7f0-3df072048f0e
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
-
 
 # Ändra aktivitetsprogrammets avslutande {#change-engagement-program-cadence}
 
