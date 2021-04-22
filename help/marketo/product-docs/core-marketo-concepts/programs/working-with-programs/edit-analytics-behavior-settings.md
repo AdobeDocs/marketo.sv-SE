@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953405
-description: Redigera inställningar för analysbeteende - Marketo Docs - Produktdokumentation
+description: Redigera inställningar för analysbeteende - Marketo Docs - produktdokumentation
 title: Redigera inställningar för analysbeteende
+exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
 
 ---
-
 
 # Redigera inställningar för analysbeteende {#edit-analytics-behavior-settings}
 
