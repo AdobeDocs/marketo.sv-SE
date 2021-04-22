@@ -2,14 +2,14 @@
 unique-page-id: 2953243
 description: Meddelandetyper - Marketo Docs - produktdokumentation
 title: Meddelandetyper
+exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
 
 ---
-
 
 # Meddelandetyper {#notification-types}
 
@@ -43,7 +43,7 @@ När leads blir utmattade i en ström skickar vi ett meddelande.  Anmälan inneh
 
 Facebook
 
-Om du försöker skicka leads till Facebook utan att godkänna användarvillkoren eller om du försöker skicka leads till Facebook efter att du har tagit bort Marketetos app.
+Om du försöker skicka leads till Facebook utan att godkänna användarvillkoren eller om du försöker skicka leads till Facebook efter att ha tagit bort Marketo-appen.
 
 Rensa inaktiv utlösarkampanj
 
@@ -51,7 +51,7 @@ Inaktivera utlösta smarta kampanjer som inte längre får någon aktivitet. Lä
 
 LinkedIn
 
-När Marketo inte kan skapa en ny målgrupp, logga in eller skicka e-postmeddelanden till LinkedIn efter tre försök.
+När Marketo inte kan skapa en ny publik, logga in eller skicka e-post till LinkedIn efter tre försök.
 
 ![](assets/linkedin.png)
 
