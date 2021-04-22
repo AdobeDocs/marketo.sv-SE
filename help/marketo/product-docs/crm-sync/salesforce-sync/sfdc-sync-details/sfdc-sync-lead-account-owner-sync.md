@@ -2,14 +2,14 @@
 unique-page-id: 2953463
 description: SFDC Sync -Lead/Account Owner Sync - Marketo Docs - Produktdokumentation
 title: SFDC-synkronisering - Synkronisering av lead-/kontoägare
+exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
 
 ---
-
 
 # SFDC-synkronisering: Lead-/kontoägarsynkronisering {#sfdc-sync-lead-account-owner-sync}
 
@@ -17,7 +17,7 @@ Dessa synkroniserar tekniskt tabellen &quot;användare&quot; i Salesforce, men v
 
 ## Vilka fält synkroniseras med Marketo? {#which-fields-will-sync-to-marketo}
 
-För varje person som synkroniseras till Marketo synkroniserar vi även följande ägarfält:
+För varje person som synkroniseras till Marketo synkroniseras även följande ägarfält:
 
 * Förnamn för försäljningsägare
 * Förs.ägare efternamn
@@ -25,13 +25,13 @@ För varje person som synkroniseras till Marketo synkroniserar vi även följand
 * Försäljningsägarens telefonnummer
 * E-postadress för säljare
 
-För varje kontakt synkroniserar vi de fem ovanstående fälten för lead-ägare samt de här fälten för kontoägare:
+För varje kontakt synkroniseras de fem ovanstående fälten för lead-ägare samt de här fälten för kontoägare:
 
 * Förnamn för kontoägare
 * Kontoägarens efternamn
 * E-postadress för kontoägare
 
-## Kan jag ändra huvudägaren i Marketo? {#can-i-change-the-lead-owner-in-marketo}
+## Kan jag byta huvudägare i Marketo? {#can-i-change-the-lead-owner-in-marketo}
 
 Absolut, använd bara flödesåtgärden [Ändra ägare](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md).
 
@@ -45,7 +45,7 @@ Det finns många skäl att använda dessa data, till exempel
 
 * Skicka ett personligt e-postmeddelande med signatur från säljaren
 * Filtrera på specifika säljare för marknadsföring eller till och med för att analysera effektiviteten
-* Tilldelningsregler (och omtilldelningsregler) i Marketo
+* Uppdragsregler (och omtilldelning) i Marketo
 * Använd dem i flödesuppgifterna [Ändra ägare](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md), [Synkronisera person till SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) och [Skapa aktivitet](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)
 
-Marketo har en fantastisk Salesforce-synkronisering. Ingen annan gör det så bra!
+Marketo har verkligen en fantastisk Salesforce-synkronisering. Ingen annan gör det så bra!
