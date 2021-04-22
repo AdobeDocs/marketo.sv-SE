@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360251
-description: Redigera avbeställningsmeddelandet - Marketo Docs - Produktdokumentation
+description: Redigera avbeställningsmeddelandet - Marketo Docs - produktdokumentation
 title: Redigera avbeställningsmeddelandet
+exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
 
 ---
-
 
 # Redigera avbeställningsmeddelandet {#edit-the-unsubscribe-message}
 
