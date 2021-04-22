@@ -1,21 +1,21 @@
 ---
 unique-page-id: 7504893
-description: Lägg till Google AdWords som en startpunktstjänst med ett Manager-konto - Marketo Docs - Produktdokumentation
+description: Lägg till Google AdWords som en startpunktstjänst med ett hanterarkonto - Marketo Docs - produktdokumentation
 title: Lägg till Google AdWords som en startpunktstjänst med ett hanterarkonto
+exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '338'
 ht-degree: 0%
 
 ---
 
-
 # Lägg till Google AdWords som en startpunktstjänst med ett hanterarkonto {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-Länka ditt Google AdWords-konto till Marketo för att automatiskt överföra konverteringsdata offline från Marketo till Google AdWords. Sedan kan du från gränssnittet för AdWords enkelt se vilka klick som resulterat i kvalificerade leads, affärsmöjligheter och nya kunder (eller vilka intäktssteg du vill spåra) efter att du har [lagt till anpassade kolumner](https://support.google.com/adwords/answer/3073556) i AdWords. Den här informationen visas inte i Marketo-gränssnittet.
+Länka ditt Google AdWords-konto till Marketo för att automatiskt överföra konverteringsdata offline från Marketo till Google AdWords. Sedan kan du från gränssnittet för AdWords enkelt se vilka klick som resulterat i kvalificerade leads, affärsmöjligheter och nya kunder (eller vilka intäktssteg du vill spåra) efter att du har [lagt till anpassade kolumner](https://support.google.com/adwords/answer/3073556) i AdWords. Den här informationen visas inte i användargränssnittet för Marketo.
 
-Om du har flera Google Adwords-konton kan du använda ett [Google AdWords Manager-konto](https://www.google.com/adwords/manager-accounts/) (tidigare Mitt klientcenter) för att integrera dem med Marketo.
+Om du har flera Google Adwords-konton kan du använda ett [Google AdWords Manager-konto](https://www.google.com/adwords/manager-accounts/) (tidigare My Client Center) för att integrera dem med Marketo.
 
 Läs mer om [Googles importfunktion för offlinekonvertering](https://support.google.com/adwords/answer/2998031?hl=en).
 
@@ -43,7 +43,7 @@ Läs mer om [Googles importfunktion för offlinekonvertering](https://support.go
 
    ![](assets/new-service-google-1.png)
 
-1. Välj **Authorize Marketo**.
+1. Välj **Auktorisera Marketo**.
 
    >[!NOTE]
    >
@@ -63,7 +63,7 @@ Läs mer om [Googles importfunktion för offlinekonvertering](https://support.go
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. Överför dina offlinekonverteringar från Marketo till Google AdWords **Varje vecka** eller **Daily**.
+1. Ladda upp dina offlinekonverteringar från Marketo till Google AdWords **Veckovis** eller **Daily**.
 
    ![](assets/image2015-3-27-14-3a7-3a45.png)
 
