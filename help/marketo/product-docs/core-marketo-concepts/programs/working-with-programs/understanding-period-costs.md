@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504676
-description: Förstå periodkostnader - Marketo Docs - Produktdokumentation
+description: Förstå periodkostnader - Marketo Docs - produktdokumentation
 title: Förstå periodkostnader
+exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
 
 ---
-
 
 # Förstå periodkostnader {#understanding-period-costs}
 
