@@ -2,18 +2,18 @@
 unique-page-id: 37355534
 description: Versionsinformation - jan 2020 - Marketo Docs - produktdokumentation
 title: Versionsinformation - jan 2020
+exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 0%
 
 ---
 
-
 # Versionsinformation: Jan 2020 {#release-notes-jan}
 
-Följande funktioner finns i jan 20. Se om din Marketo-utgåva har funktioner tillgängliga.
+Följande funktioner finns i jan 20. Se om det finns funktioner i din Marketo-utgåva.
 
 >[!AVAILABILITY]
 >
@@ -32,7 +32,7 @@ Följande funktioner kommer att släppas den 17 januari 2020 **.**
 >För närvarande stöds AEM resursväljare bara fullt ut i Firefox. Det stöds inte i Safari och kanske inte fungerar i den senaste versionen av Chrome (version 80), beroende på inställningarna för cookie-filen för samma plats.
 
 * **Microsoft Dynamics - Synkronisera lead till CRM i realtid**: Synkronisering i realtid av leads och kontakter mellan Marketo Engage och Microsoft Dynamics. Skapa leads eller kontakter och se dem i Microsoft Dynamics direkt med flödesåtgärden Synkronisera person till Microsoft.
-* **LinkedIn Lead Gen Forms Additional Field Mapping**: Hämta in lead-data från LinkedIn Lead Gen Forms för att skapa mer relevanta upplevelser för både sälj- och marknadsföringskontaktytor. Dra in dolda fält, medgivandefält och testleads-fältet i Marketo Engage.
+* **linkedIn Lead Gen Forms Additional Field Mapping**: Hämta in lead-data från LinkedIn Lead Gen Forms för att skapa mer relevanta upplevelser för både sälj- och marknadsföringskontaktytor. Dra in dolda fält, medgivandefält och testleads-fältet i Marketo Engage.
 * **API** för e-postmallsberoenden: Få en lista över resurser som är beroende av en e-postmall för att förstå omfattningen av eventuella ändringar och hantera beroenden till mallar som kan ändras och tas bort snabbare.
 * **Förbättringar** för hantering av flera instanser: Navigera till den instans du behöver snabbt med en rullningsbar och alfabetisk listruta med dina prenumerationer.
 
