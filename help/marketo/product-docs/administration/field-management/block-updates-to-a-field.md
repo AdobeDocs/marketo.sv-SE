@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360291
-description: Blockera uppdateringar till ett fält - Marketo Docs - Produktdokumentation
+description: Blockera uppdateringar till ett fält - Marketo Docs - produktdokumentation
 title: Blockera uppdateringar till ett fält
+exl-id: 763097a3-cfa0-4df7-bfd1-40332b8dda1e
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
-
 
 # Blockera uppdateringar till ett fält {#block-updates-to-a-field}
 
@@ -37,4 +37,4 @@ Genom att blockera uppdateringar av ett fält kan du skriva till fältet en gån
 
    >[!CAUTION]
    >
-   >När du utför en listimport visas statusen för ett fält som blockeras i importförhandsvisningen endast om fältet identifieras automatiskt av Marketo baserat på namnet på fältet som matchar _exakt_ (eller om alias har upprättats). Om fältet väljs manuellt från listrutan Marketfält visas inte spärrstatusen i importförhandsvisningen, men uppdateringsblockering för det fältet kommer fortfarande att implementeras.
+   >När du utför en listimport visas statusen för ett fält som blockeras i importförhandsvisningen endast om fältet identifieras automatiskt av Marketo baserat på namnet på fältet som matchar _exakt_ (eller om alias har upprättats). Om fältet väljs manuellt från listrutan Marketo-fält visas inte spärrstatusen i importförhandsvisningen, men uppdateringsblockering för det fältet kommer fortfarande att implementeras.
