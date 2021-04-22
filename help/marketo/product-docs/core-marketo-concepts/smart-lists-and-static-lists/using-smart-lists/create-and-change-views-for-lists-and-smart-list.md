@@ -1,15 +1,15 @@
 ---
 unique-page-id: 557337
-description: Skapa och ändra vyer för listor och smarta listor - Marketo Docs - Produktdokumentation
+description: Skapa och ändra vyer för listor och smarta listor - Marketo Docs - produktdokumentation
 title: Skapa och ändra vyer för listor och smarta listor
+exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
-
 
 # Skapa och ändra vyer för listor och smarta listor {#create-and-change-views-for-lists-and-smart-list}
 
