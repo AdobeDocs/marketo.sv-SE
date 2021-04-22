@@ -2,14 +2,14 @@
 unique-page-id: 2360189
 description: Anpassa dina URL:er för landningssidor med en CNAME (Administration) - Marketo Docs - Produktdokumentation
 title: Anpassa URL:er för landningssidor med en CNAME (administration)
+exl-id: a5aa1c76-15f7-4e8c-a736-77c79f65c368
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%
 
 ---
-
 
 # Anpassa URL:er för landningssidor med en CNAME (administration) {#customize-your-landing-page-urls-with-a-cname-administration}
 
@@ -55,7 +55,7 @@ Kom så sätter vi igång!
 
 1. Skicka förfrågan till IT.
 
-1. Be din IT-personal att installera följande CNAME (ersätt ordet [CNAME] och [KONTOSTRING] med texten från föregående steg):
+1. Be din IT-personal installera följande CNAME (ersätt ordet [CNAME] och [KONTOSTRING] med texten från föregående steg):
 
    [CNAME].YourCompany.com >  [ACCOUNT STRING].mktoweb.com
 
