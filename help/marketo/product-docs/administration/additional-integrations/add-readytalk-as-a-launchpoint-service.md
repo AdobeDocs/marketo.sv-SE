@@ -2,14 +2,14 @@
 unique-page-id: 7512278
 description: Lägg till ReadyTalk som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
 title: Lägg till ReadyTalk som en LaunchPoint-tjänst
+exl-id: 936735b5-913e-43ee-bdc2-d65ef37d93a3
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
-
 
 # Lägg till ReadyTalk som en LaunchPoint-tjänst {#add-readytalk-as-a-launchpoint-service}
 
