@@ -4,9 +4,9 @@ description: Steg 3 av 3 - Anslut Marketo och Salesforce (Enterprise/Unlimited) 
 title: Steg 3 av 3 - Connect Marketo och Salesforce (Enterprise/Unlimited)
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
@@ -51,13 +51,13 @@ I den här artikeln konfigurerar du Marketo att synkronisera med din konfigurera
    >
    >Var noga med att [dölja alla fält som du inte behöver](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md) i Marketo från synkroniseringsanvändaren innan du klickar på **Synkronisera fält**. När du klickar på Synkronisera fält skapas alla fält som användaren kan se i Marketo permanent och kan inte tas bort.
 
-1. Ange inloggningsuppgifterna för Salesforce Sync User som skapades i del 2 av Salesforce-konfigurationen ([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md), [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) och klicka på **Synkronisera fält**.
+1. Ange inloggningsuppgifterna för Salesforce Sync User som skapades i del 2 av Salesforce-konfigurationen ([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) eller [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) och klicka på **Synkronisera fält** (markera **Sandbox** endast om du synkroniserar en Marketo-sandlåda till en Salesforce-sandlåda).
 
    ![](assets/image2014-12-9-9-3a53-3a8.png)
 
-   >[!NOTE]
+   >[!CAUTION]
    >
-   >Markera **Sandbox** om du synkroniserar en Marketo-sandlåda till en Salesforce-sandlåda.
+   >Om du ser knappen Logga in i Salesforce i stället för fälten Användarnamn/Lösenord/Token aktiveras din Marketo-prenumeration för OAuth. [se den här artikeln](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). När synkroniseringen börjar med en uppsättning autentiseringsuppgifter är det **ingen växling av Salesforce-autentiseringsuppgifter eller prenumeration**. Om du vill använda grundläggande autentisering kontaktar du din Customer Success Manager.
 
 1. Läs varningen och klicka sedan på **Bekräfta inloggningsuppgifter**.
 
