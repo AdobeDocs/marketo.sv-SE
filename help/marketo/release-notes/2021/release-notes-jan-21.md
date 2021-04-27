@@ -3,7 +3,7 @@ description: Versionsinformation - jan 2021 - Marketo Docs - produktdokumentatio
 title: Versionsinformation - jan 2021
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 7566581555eb95564b9f69884190dd987e123dbe
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Följande funktioner kommer att släppas den 15 januari 2021 **.**
 
 ## Salesforce CRM-integrering {#salesforce-crm-integration}
 
-* [Salesforce CRM-autentisering](/help/marketo/product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md): Protokollet OAuth 2.0 är tillgängligt för synkroniseringsåtgärder mellan Marketo Engage och Salesforce CRM. För nya prenumeranter är det här alternativet aktiverat som standard. Prenumeranter kan begära den här funktionen genom att kontakta Marketo Support.
+* [Salesforce CRM-autentisering](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md): Protokollet OAuth 2.0 är tillgängligt för synkroniseringsåtgärder mellan Marketo Engage och Salesforce CRM. För nya prenumeranter är det här alternativet aktiverat som standard. Prenumeranter kan begära den här funktionen genom att kontakta Marketo Support.
 * [Salesforce CRM Syncing Dashboard](/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md): Administratörer kan snabbt granska Salesforce CRM-synkroniseringsstatus från kontrollpanelen. Tidsrymden för synkroniseringsrapporten har ökat från 2 timmar till 5 dagar.
 * **Export** av metadata: Förbättrat för att stödja attribut för affärsmöjlighetsobjekt, namngivna konton, programmedlemmens standardfält och anpassade fält.
 
