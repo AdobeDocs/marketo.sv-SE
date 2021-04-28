@@ -1,22 +1,22 @@
 ---
-description: Översikt - Marketo Docs - Produktdokumentation
+description: Översikt - Marketo Docs - produktdokumentation
 title: Översikt
+exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 translation-type: tm+mt
-source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
+source-git-commit: b5d5e5895ca315976650123875777fe43854ea60
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '463'
 ht-degree: 1%
 
 ---
 
-
 # Översikt {#overview}
 
-Välkommen till nästa generations Marketo Engage-upplevelse, ett nytt gränssnitt som ger förbättrad användbarhet och ett nytt utseende på Marketo-plattformen.
+Välkommen till nästa generations Marketo Engage-upplevelse, ett nytt gränssnitt som ger förbättrad användbarhet och ett nytt utseende på hela Marketo-plattformen.
 
 >[!PREREQUISITES]
 >
->Om IT-teamet begränsar webbåtkomsten via en tillåtelselista ber du dem lägga till följande domäner (inklusive asterisken) för att tillåta alla Marketo-resurser och webbsocketar:
+>Om IT-teamet begränsar webbåtkomsten via ett tillåtelselista ber du dem lägga till följande domäner (inklusive asterisken) för att tillåta alla Marketo resurser och webbsocketar:
 >
 >* *.marketo.com
 >* *.marketodesigner.com
@@ -41,17 +41,11 @@ Det finns många nya funktioner i den här nästa generationens upplevelse, som 
 
 Det nya gränssnittet har förbättrad och utökad ikonografi. Läs om dem här: [Ny ikonordlista](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md).
 
-![](assets/overview-3.png)
-
-**Träd**
-
-Trädet har också uppgraderats.
-
-![](assets/overview-4.png)
+![](assets/overview-new-icons.png)
 
 **Global navigering**
 
-Farväl superboll. Du har nu snabb åtkomst till alla viktiga Marketo-avsnitt.
+Farväl superboll. Nu har du snabb tillgång till alla Marketo huvudavsnitt.
 
 ![](assets/overview-5.png)
 
@@ -65,7 +59,7 @@ Du har också snabb åtkomst till ditt munchkin-ID, som nu återspeglas i instan
 
 Det finns massor av nya trädfunktioner.
 
-**Marketo Classic jämfört med New Marketo**
+**Marketo Classic jämfört med nya Marketo**
 
 <table> 
  <tbody>
@@ -210,7 +204,7 @@ Ta en titt på nya Global Nav.
 
 >[!NOTE]
 >
->Allt som brukade finnas i den superkula-listrutan är fortfarande tillgängligt som en platta i My Marketo.
+>Allt som brukade finnas i den superkula-listrutan är fortfarande tillgängligt som en platta i din My Marketo.
 
 >[!TIP]
 >
