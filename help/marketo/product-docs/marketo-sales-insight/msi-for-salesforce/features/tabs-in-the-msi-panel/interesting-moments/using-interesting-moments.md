@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2951640
-description: Använda intressanta stunder - Marketo Docs - Produktdokumentation
+description: Använda intressanta stunder - Marketo Docs - produktdokumentation
 title: Använda intressanta stunder
+exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
 
-
 # Använda intressanta stunder {#using-interesting-moments}
 
-Intressanta ögonblick är nyckeln till att kommunicera med säljarna via Marketo Sales Insight-appen.
+Intressanta ögonblick är nyckeln till att kommunicera med säljarna via appen Marketo Sales Insight.
 
 >[!AVAILABILITY]
 >
@@ -51,7 +51,7 @@ Det är upp till dig! Du bestämmer själv vilken information som är relevant f
 
 ## Hur kan det här bli ännu intressantare?  {#how-can-this-get-even-more-interesting}
 
-Tokens! Lägg till dem i beskrivningsfältet för att ge säljteamet mer specifik information, som ämnesraden i det e-postmeddelande som leadet öppnade eller vem som skickade det. Ta reda på vilka tokens som är tillgängliga för användning i [Token for Intressant stund](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)-ordlistan.
+Tokens! Lägg till dem i beskrivningsfältet för att ge säljteamet mer specifik information, som ämnesraden i det e-postmeddelande som leadet öppnade eller vem som skickade det. Ta reda på vilka tokens som är tillgängliga för användning i [Token for Intressant stund](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)-ordlistan.
 
 >[!TIP]
 >
@@ -71,6 +71,6 @@ När du har [installerat Marketo Sales Insight App](/help/marketo/product-docs/m
 
 ## Hur ser ett intressant ögonblick ut i Salesforce1? {#what-does-an-interesting-moment-look-like-in-salesforce-1}
 
-När du har installerat eller uppdaterat Marketo Sales Insight för Salesforce1 visas intressanta stunder under leadets relaterade länkar.
+När du har installerat eller uppdaterat Marketo Sales Insight för Salesforce1 visas intressanta ögonblick under leadets relaterade länkar.
 
 ![](assets/seven.png)
