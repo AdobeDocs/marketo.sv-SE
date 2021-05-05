@@ -4,7 +4,7 @@ description: Intressant stund - Marketo Docs - produktdokumentation
 title: Intressant stund
 exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
@@ -33,10 +33,10 @@ Om du har Marketo Sales Insight kan du använda flödessteget **Intressant stund
    >
    >**Mindre är mer**. Samarbeta med säljarna för att se till att intressanta ögonblick faktiskt blir intressanta.
 
-Du kan också använda [variabler i intressanta stunder](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) för att göra verkligt användbara dynamiska beskrivningar.
+Du kan också använda [variabler i intressanta stunder](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) för att göra verkligt användbara dynamiska beskrivningar.
 
 >[!MORELIKETHIS]
 >
 >* [Använda intressanta stunder](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
->* [Token för intressanta ögonblick](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
+>* [Token för intressanta ögonblick](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
 
