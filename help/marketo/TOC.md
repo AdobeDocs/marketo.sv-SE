@@ -5,9 +5,9 @@ user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
 hide: true
 translation-type: tm+mt
-source-git-commit: 21934ae633cf3d81ab763decfcaa353deabb8c18
+source-git-commit: 35ab8d353a2518a1603cb508a6f8c0ea650483e4
 workflow-type: tm+mt
-source-wordcount: '8009'
+source-wordcount: '8024'
 ht-degree: 0%
 
 ---
@@ -179,6 +179,7 @@ ht-degree: 0%
          + [Redigera meddelandet&quot;Visa som webbsida&quot;](product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
          + [Aktivera kommunikationsgränser](product-docs/administration/email-setup/enable-communication-limits.md)
          + [Aktivera personbegränsningar för smarta kampanjer](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
+         + [Filtrerar e-postsatsaktivitet](product-docs/administration/email-setup/filtering-email-bot-activity.md)
          + [Ta bort Avbeställ text från avsnittet &quot;Admin -> E-post&quot;](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
       + Fälthantering {#field-management}
          + [Blockera fältuppdateringar vid listimport från otillförlitliga källor](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)
@@ -194,6 +195,7 @@ ht-degree: 0%
          + [Exportera som används av data för ett fält](product-docs/administration/field-management/export-used-by-data-for-a-field.md)
          + [Dölja och visa ett fält](product-docs/administration/field-management/hide-and-unhide-a-field.md)
          + [HTML-kodningstoken i e-post](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
+         + [Markera ett fält som känsligt](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
          + [Byta namn på ett fält](product-docs/administration/field-management/rename-a-field.md)
          + [Förstå systemhanterade fält](product-docs/administration/field-management/understanding-system-managed-fields.md)
          + [Visa fältmappningar mellan Marketo och Salesforce](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
@@ -227,6 +229,7 @@ ht-degree: 0%
          + [Redigera prenumerationsinställningar](product-docs/administration/settings/edit-subscription-settings.md)
          + [Aktivera eller inaktivera funktioner för skatteschest](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [Aktivera anpassade URL:er för ditt konto (administration)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
+         + [Blockera inskickning av skräppostformulär](product-docs/administration/settings/how-to-block-spam-form-submissions.md)
          + [Begränsa Marketo-inloggningar baserat på IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [Välj språk, språk och tidszon](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
          + [Ange en återställningssida](product-docs/administration/settings/set-a-fallback-page.md)
@@ -807,7 +810,7 @@ ht-degree: 0%
                + [Mall 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [Mall 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Mall 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Mall 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Mall 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Mall 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Mall 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Mall 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
