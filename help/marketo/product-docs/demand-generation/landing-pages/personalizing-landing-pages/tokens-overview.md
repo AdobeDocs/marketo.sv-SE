@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2950799
-description: Översikt över token - Marketo Docs - Produktdokumentation
+description: Översikt över token - Marketo Docs - produktdokumentation
 title: Översikt över token
+exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
 
 ---
 
-
 # Översikt över token {#tokens-overview}
 
-En variabel är en variabel som kan användas i Marketos smarta kampanjflödessteg, e-post, landningssidor, kodfragment och webbkampanjer.
+En variabel är en variabel som kan användas i Marketo smarta kampanjflödessteg, e-post, landningssidor, kodfragment och webbkampanjer.
 
 ## Standardvärden {#understanding-default-values}
 
@@ -27,11 +27,11 @@ I det här exemplet kommer e-postmeddelandet att stå &quot;Greetings, (förnamn
 
 >[!CAUTION]
 >
->Token fungerar inte i förrubriken när Marketos e-postredigerare används. Om du vill använda en variabel i förrubriken måste den vara via din egen HTML-kod i en e-postmall.
+>Token fungerar inte i förrubriken när Marketo e-postredigerare används. Om du vill använda en variabel i förrubriken måste den vara via din egen HTML-kod i en e-postmall.
 
 >[!NOTE]
 >
->Denna lista är inte uttömmande. Token skapas också för varje anpassat fält som du har i Marketo.
+>Denna lista är inte uttömmande. Token skapas också för alla anpassade fält som du har i Marketo.
 
 ## Persontoken {#person-tokens}
 
@@ -149,7 +149,7 @@ I det här exemplet kommer e-postmeddelandet att stå &quot;Greetings, (förnamn
 
 >[!NOTE]
 >
->Läs mer om [token för intressanta stunder](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) baserat på utlösare som används i en smart kampanj.
+>Läs mer om [token för intressanta stunder](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) baserat på utlösare som används i en smart kampanj.
 
 ## Programtoken {#program-tokens}
 
