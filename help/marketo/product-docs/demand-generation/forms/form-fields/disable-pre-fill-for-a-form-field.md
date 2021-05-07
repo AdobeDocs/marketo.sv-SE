@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359675
-description: Inaktivera förifyllning för ett formulärfält - Marketo Docs - Produktdokumentation
+description: Inaktivera förifyllning för ett formulärfält - Marketo Docs - produktdokumentation
 title: Inaktivera förifyllning för ett formulärfält
+exl-id: c600e0ce-1b94-4f7b-b75d-f550a2904799
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
-
 
 # Inaktivera förifyllning för ett formulärfält {#disable-pre-fill-for-a-form-field}
 
@@ -20,6 +20,8 @@ När en webbbesökare är känd (kodad) kommer Marketo-formulär att förifylla 
 >**Formulärets** förifyllning är aktiverat som standard. Inställningarna för förifyllning på landningssidnivå och förifyllning på administratörsnivå trumpar inställningen för formulärnivå:
 >
 >Form > Landing Page > Admin
+
+## Inaktivera förifyllning {#how-to-disable-pre-fill}
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
@@ -49,4 +51,8 @@ När en webbbesökare är känd (kodad) kommer Marketo-formulär att förifylla 
 
    ![](assets/image2014-9-15-14-3a27-3a6.png)
 
-Snyggt jobb!
+## Känsliga fält {#sensitive-fields}
+
+När du [markerar ett fält som känsligt](/help/marketo/product-docs/administration/field-management/mark-a-field-as-sensitive.md) och förhindrar att dess värden fylls i i formulär i förväg, visas detta i alternativet Förifyll.
+
+![](assets/disable-pre-fill.png)
