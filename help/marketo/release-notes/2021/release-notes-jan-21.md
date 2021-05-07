@@ -3,7 +3,7 @@ description: Versionsinformation - jan 2021 - Marketo Docs - produktdokumentatio
 title: Versionsinformation - jan 2021
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: 7566581555eb95564b9f69884190dd987e123dbe
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Följande funktioner finns i jan 21. Se om det finns funktioner i din Marketo-ut
 
 >[!AVAILABILITY]
 >
->Funktioner som anges av en stjärna ( ![(stjärna)](assets/star-yellow.svg)) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
+>Funktioner som anges av en stjärna ( ![(stjärna)](assets/yellow-star.png)) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
 
 **_Kvartalsvisa releaser_**
 
@@ -57,7 +57,7 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 
 ## Sales Insight {#sales-insight}
 
-![(stjärna)](assets/star-yellow.svg)
+![(stjärna)](assets/yellow-star.png)
 
 * **[Förbättrade arbetsflöden för testning av e-post (Salesforce CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)**: Öka säljteamets effektivitet med förbättrade e-postflöden för Sales Insight-tester. Säljarna kan skicka testmeddelanden till utvalda e-postadresser innan de skickar massutskick till upp till 200 mottagare.
 * **[Insikter i e-poststatus (Salesforce CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)**: Användarna ser ett varningsmeddelande när de försöker skicka ett e-postmeddelande till ett ogiltigt e-post-ID eller en e-postadress som inte längre är prenumererad innan de skickar ett e-postmeddelande.  Leveransstatus för e-postmeddelanden kan granskas på e-postfliken i Sales Insight.
@@ -67,7 +67,7 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 
 ## Säljanslutning {#sales-connect}
 
-![(stjärna)](assets/star-yellow.svg)
+![(stjärna)](assets/yellow-star.png)
 
 * **BETA (Email Connection Throttling)**: Förbättra e-postleveransen och skala din personliga säljkommunikation med e-postanslutningsbegränsning för Sales Connect. Vår nya begränsningsteknik hanterar automatiskt e-posttajmning för att skapa sömlösa upplevelser för Exchange- och Gmail-användare. Minska eller eliminera användningen av e-postprogram från tredje part som massutskick.
 * **Spårning** av e-postanslutning: Få insikt i hur leads och e-postmallar fungerar med den nya e-poststudsrapporten. Exchange- och Gmail-användare kan välja att ta emot studsmeddelanden som ska samlas i Live-feed, e-postmappar, mallanalys och Campaign Analytics.
