@@ -4,9 +4,9 @@ description: Marketo-ordlista - Marketo Docs - produktdokumentation
 title: Marketo-ordlista
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '4225'
+source-wordcount: '4231'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ Nedan finns definitioner för många av de termer du kan stöta på när du anv�
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">Kontopoäng</a></strong></td> 
-   <td colspan="1">I <strong>ABM</strong> är det en poäng som tilldelats ett konto för att hjälpa dig att fastställa dess nivå av engagemang.</td> 
+   <td colspan="1">I <strong>TAM</strong> är det en poäng som tilldelats ett konto för att hjälpa dig att fastställa dess nivå av engagemang.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Anskaffningsdatum</strong></td> 
@@ -62,6 +62,10 @@ Nedan finns definitioner för många av de termer du kan stöta på när du anv�
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md" rel="nofollow"><strong>Annonsnätverksintegrering </strong></a></td> 
    <td colspan="1">(tidigare Ad Bridge) Ett sätt att koppla samman Marketo unika målgruppsdata med betalmediesystem så att ni kan köra mer målinriktade, personaliserade digitala annonskampanjer.</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1"><strong>Adobe Marketo Engage</strong></td> 
+   <td colspan="1">Det officiella märkesnamnet för sammanställningen av alla Marketo produkterbjudanden inom Adobe Experience Cloud.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" rel="nofollow">Varning</a></strong></td> 
@@ -242,7 +246,7 @@ Nedan finns definitioner för många av de termer du kan stöta på när du anv�
     <div> 
      <p><strong> Databas</strong></p> 
     </div></td> 
-   <td>En av kärnavsnitten i <strong>Marketo Engage</strong>. Databasen är hemlig för alla dina <strong>person</strong>-poster.</td> 
+   <td>En av kärnavsnitten i <strong>Adobe Marketo Engage</strong>. Databasen är hemlig för alla dina <strong>person</strong>-poster.</td> 
   </tr> 
   <tr> 
    <td><strong>Deduplicera</strong></td> 
@@ -269,7 +273,7 @@ Nedan finns definitioner för många av de termer du kan stöta på när du anv�
   </tr> 
   <tr> 
    <td colspan="1"><strong>Design Studio</strong></td> 
-   <td colspan="1">En av kärnavsnitten i <strong>Marketo Engage</strong>. Design Studio är startsida för dina <strong>resurser</strong>, till exempel: <strong>landningssidor</strong>, formulär, <strong>e-post</strong>, <strong>fragment</strong> och bilder/filer.</td> 
+   <td colspan="1">En av kärnavsnitten i <strong>Adobe Marketo Engage</strong>. Design Studio är startsida för dina <strong>resurser</strong>, till exempel: <strong>landningssidor</strong>, formulär, <strong>e-post</strong>, <strong>fragment</strong> och bilder/filer.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Dokument</strong></td> 
@@ -482,7 +486,7 @@ Nedan finns definitioner för många av de termer du kan stöta på när du anv�
   </tr> 
   <tr> 
    <td><strong>Lead</strong></td> 
-   <td>I <strong>Marketo Engage</strong> är lead den föregående termen (ersätts av <strong>person</strong>) som används för att beskriva en individ i din Marketo <strong>databas</strong> som du engagerar i genom dina marknadsföringskampanjer. I din <strong>CRM</strong> kan ett lead representera ett annat koncept (d.v.s. en individ som är associerad med en <strong>möjlighet</strong>) oberoende av Marketo funktioner.</td> 
+   <td>I <strong>Adobe Marketo Engage</strong> är lead den föregående termen (ersätts av <strong>person</strong>) som används för att beskriva en individ i din Marketo <strong>databas</strong> som du engagerar med hjälp av dina marknadsföringskampanjer. I din <strong>CRM</strong> kan ett lead representera ett annat koncept (d.v.s. en individ som är associerad med en <strong>möjlighet</strong>) oberoende av Marketo funktioner.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Lead-databas</strong></td> 
@@ -512,7 +516,7 @@ Nedan finns definitioner för många av de termer du kan stöta på när du anv�
  <tbody> 
   <tr> 
    <td><strong>Marknadsföringsaktiviteter</strong></td> 
-   <td><p>En av kärnavsnitten i Marketo Engage. Det är här din <strong>kampanj</strong>-samordning inträffar. Alla dina <strong>program</strong>, kampanjer och <strong>kampanjmappar</strong> (samt deras <strong>lokala resurser</strong>) finns här.</p></td> 
+   <td><p>En av kärnavsnitten i Adobe Marketo Engage. Det är här din <strong>kampanj</strong>-samordning inträffar. Alla dina <strong>program</strong>, kampanjer och <strong>kampanjmappar</strong> (samt deras <strong>lokala resurser</strong>) finns här.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="https://www.marketo.com/marketing-automation/" rel="nofollow"><strong>Marknadsföringsautomatisering</strong></a></td> 
@@ -525,10 +529,6 @@ Nedan finns definitioner för många av de termer du kan stöta på när du anv�
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" rel="nofollow"><strong>Marknadsföring har pausats</strong></a></td> 
    <td colspan="1">Det här fältet ställs in manuellt av <strong>användaren</strong> för att göra någon i användarens Marketo <strong>databas</strong> tillfälligt opostbar.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Marketo Engage</strong></td> 
-   <td colspan="1">Det officiella märkesnamnet för sammanställningen av alla Marketo produkterbjudanden inom Adobe Experience Cloud.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Marketo Lead Management (MLM)</strong></td> 
@@ -560,7 +560,7 @@ Nedan finns definitioner för många av de termer du kan stöta på när du anv�
   </tr> 
   <tr> 
    <td colspan="1"><strong>Mina Marketo</strong></td> 
-   <td colspan="1">En av standardavsnitten i Marketo Engage. Fungerar som din Marketo-hemsida och visar rutor för alla avsnitt av Marketo som du har tillgång till.</td> 
+   <td colspan="1">En av standardavsnitten i Adobe Marketo Engage. Fungerar som din Marketo-hemsida och visar rutor för alla avsnitt av Marketo som du har tillgång till.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" rel="nofollow"><strong>Mina token</strong></a></td> 
