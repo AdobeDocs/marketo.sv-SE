@@ -2,14 +2,14 @@
 unique-page-id: 11378869
 description: Skapa ett Vibes SMS-meddelande - Marketo Docs - Produktdokumentation
 title: Skapa ett Vibes SMS-meddelande
+exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
-
 
 # Skapa ett Vibes SMS-meddelande {#create-a-vibes-sms-message}
 
@@ -17,7 +17,7 @@ Så här skapar du ett Vibes SMS-meddelande.
 
 >[!AVAILABILITY]
 >
->Den här funktionen är tillgänglig som tillägg för ditt Marketo Engage-konto. För att den ska kunna tillhandahållas på rätt sätt måste den köpas via Adobe. Kontakta din kundansvarige på Adobe för mer information.
+>Den här funktionen är tillgänglig som ett tillägg för ditt Adobe Marketo Engage-konto. För att den ska kunna tillhandahållas på rätt sätt måste den köpas via Adobe. Kontakta din kundansvarige på Adobe för mer information.
 
 >[!NOTE]
 >
@@ -67,7 +67,7 @@ Så här skapar du ett Vibes SMS-meddelande.
 
    ![](assets/full-message-link-hand.jpg)
 
-1. Välj en länktyp. Marketo Landing Page är standard. Om du väljer det måste du välja landningssidan i listrutan och klicka på **Infoga**.
+1. Välj en länktyp. Marketo landningssida är standard. Om du väljer det måste du välja landningssidan i listrutan och klicka på **Infoga**.
 
    ![](assets/insert-link-real-hands.jpg)
 
