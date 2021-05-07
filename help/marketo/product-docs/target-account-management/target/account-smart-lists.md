@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11378814
-description: Smarta kontolistor - Marketo Docs - Produktdokumentation
+description: Smarta kontolistor - Marketo Docs - produktdokumentation
 title: Smarta kontouppsättningar
+exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
 source-wordcount: '483'
 ht-degree: 0%
 
 ---
-
 
 # Smarta kontolistor {#account-smart-lists}
 
@@ -17,7 +17,11 @@ Så här identifierar du snabbt och korrekt dina värdefulla konton.
 
 >[!NOTE]
 >
->Den här funktionen finns i en Open Beta och är tillgänglig för alla som har både TAM och Marketo Next-Gen aktiverat. Kontakta din CSM om du vill delta i betaversionen.
+>Den här funktionen aktiveras för alla berättigade Marketo-förekomster tisdagen den 11 maj.
+
+>[!NOTE]
+>
+>Den här funktionen är bara tillgänglig för användare med både TAM och Next-Gen i Adobe.
 
 ## Skapa en smart kontolista {#create-an-account-smart-list}
 
@@ -61,7 +65,7 @@ Smarta kontolistor fungerar på liknande sätt som vanliga smarta listor, med et
 
    ![](assets/account-smart-lists-9.png)
 
-**Valfritt steg**: Här kommer containrar in. Om du väljer ytterligare ett Matchat personfilter kan du släppa det under det första, eller _i_, och skapa en behållare. I det här exemplet skapar vi en behållare genom att lägga till _Jobbtitel är CFO_.
+**Valfritt steg**: Här kommer behållare in. Om du väljer ytterligare ett Matchat personfilter kan du släppa det under det första, eller _i_ det, och skapa en behållare. I det här exemplet skapar vi en behållare genom att lägga till _Jobbtiteln är CFO_.
 
 ![](assets/account-smart-lists-10.png)
 
@@ -71,34 +75,34 @@ Så här ser behållaren ut.
 
 >[!NOTE]
 >
->När du skapar en behållare med filter skapas en&quot;och&quot;-regel, vilket innebär att den bara returnerar alla resultat som kombineras. I det här exemplet står för en vårdbransch och finns i Kalifornien _och_ med någon som är listad som CFO. Om du inte vill använda behållare släpper du bara filtret nedanför/ovanför det befintliga.
+>Om du skapar en behållare med filter skapas en&quot;och&quot;-regel, vilket innebär att den bara returnerar alla resultat som kombineras. I det här exemplet finns en vårdbransch tillsammans med en i Kalifornien _och_ med någon som är listad som CFO. Om du inte vill använda behållare släpper du bara filtret nedanför/ovanför det befintliga.
 
-Och det är allt! Läs igenom avsnittet nedan för att se hur du kan använda Smart lista för ditt konto.
+Och det är allt! Se avsnittet nedan för att se hur du kan använda din smarta kontolista.
 
 >[!TIP]
 >
->Precis som med vanliga smarta listor kan du använda avancerad logik för att förfina dina resultat ytterligare. Du behöver minst tre filter för att göra det, och i Smarta listor för konto är en behållare (oavsett hur många filter den innehåller) lika med ett filter.
+>Precis som med vanliga smarta listor kan du använda avancerad logik för att förfina resultaten ytterligare. Du behöver minst tre filter för att göra det, och i Smarta listor för konto är en behållare (oavsett hur många filter den innehåller) lika med ett filter.
 
-## Åtgärder för smart lista för konto {#account-smart-list-actions}
+## Åtgärder för smarta listor för konto {#account-smart-list-actions}
 
-På fliken Översikt i din smarta kontolista finns några åtgärdsalternativ.
+På fliken Översikt i den smarta kontolistan finns några åtgärdsalternativ.
 
-**Exportera**: Resultatet av din smarta lista över konton exporteras som en CSV-fil.
+**Exportera**: Resultatet av din smarta kontolista exporteras som en CSV-fil.
 
 **Klona**: Skapar en kopia av din smarta kontolista.
 
 **Skicka till annonsnätverk**: Skickar listan till LinkedIn som en ny Matchad målgrupp.
 
-Du kan också referera till din smarta kontolista i en standardlista för smarta kampanjer/listor genom att använda filtret _Personer som är medlem i den smarta kontolistan_.
+Du kan också referera till din kontos smarta lista i en standardsmart kampanj/lista genom att använda filtret _Personmedlem i kontots smarta lista_.
 
 ![](assets/account-smart-lists-12.png)
 
 >[!NOTE]
 >
->Resultaten av Smart lista över personmedlemmar för konto visar alla personer i de identifierade kontona, inte bara personer som hittas via filtrering av matchad person i den smarta listan över konton.
+>Resultaten från Smart lista över personmedlemmar för konto visar alla personer i det/de identifierade kontot/kontona, inte bara personer som hittas via filter för matchad person i den smarta listan över konton.
 
 >[!NOTE]
 >
 >**Definition**
 >
->**Smart lista över** personmedlemmar för konto: I det här fallet avser ordet&quot;medlem&quot; själva kontot, så&quot;personmedlem&quot; avser de faktiska personerna (Marketo-posterna) i dessa konton.
+>**Personmedlem i Smart lista** för konto: I det här fallet avser ordet&quot;medlem&quot; själva kontot, så&quot;personmedlem&quot; betyder de faktiska personerna (Marketo-poster) på dessa konton.
