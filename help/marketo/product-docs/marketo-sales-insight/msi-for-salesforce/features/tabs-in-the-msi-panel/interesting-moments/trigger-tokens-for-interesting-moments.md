@@ -4,9 +4,9 @@ description: Utlösartoken för intressanta ögonblick - Marketo Docs - produktd
 title: Utlösartoken för intressanta ögonblick
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 translation-type: tm+mt
-source-git-commit: 20a3bee9973340d7b772532d1be31fe745e5ffd7
+source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '436'
 ht-degree: 0%
 
 ---
@@ -68,10 +68,10 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
   <tr> 
    <td>Klicka på Länk i e-post</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -85,12 +85,12 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
   <tr> 
    <td>E-poststudsar hårt</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -102,12 +102,12 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
   <tr> 
    <td>E-poststudsar mjuka</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -119,10 +119,10 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
   <tr> 
    <td>E-post levereras</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -136,10 +136,10 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
   <tr> 
    <td>Öppnar e-post</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -153,8 +153,8 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
     <tr> 
    <td>Vidarebefordrad till väns-e-post</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -170,8 +170,8 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
     <tr> 
    <td>Vidarebefordra till väns-e-post</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -180,21 +180,21 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td>
+   <td><img src="assets/check.png" alt="check"></td>
   </tr> 
   <tr> 
    <td>Avbeställ e-post</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -244,16 +244,16 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
   <tr> 
    <td>Klicka på Länk i e-postadress för försäljning</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -261,16 +261,16 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
   <tr> 
    <td>Har skickats e-post</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -278,16 +278,16 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
   <tr> 
    <td>Öppnar e-postadress för försäljning</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -295,8 +295,8 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
   <tr> 
    <td>Försäljnings-e-poststudsar</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -312,16 +312,16 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
   <tr> 
    <td>E-postadress för försäljning har tagits emot</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -329,8 +329,8 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
     <tr> 
    <td>Affärsmöjligheten har uppdaterats</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -346,8 +346,8 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
     <tr> 
    <td>Ägarändringar</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -363,8 +363,8 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
   <tr> 
    <td>Personen är konverterad</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -380,8 +380,8 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
   <tr> 
    <td>Personen tas bort från SFDC</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -397,8 +397,8 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
   <tr> 
    <td>Personen synkroniseras till SFDC</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -414,8 +414,8 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
   <tr> 
    <td>Borttagen från affärsmöjlighet</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -431,8 +431,8 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
   <tr> 
    <td>Borttagen från SFDC-kampanj</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -448,8 +448,8 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
   <tr> 
    <td>Aktiviteten är loggad</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -465,8 +465,8 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
   <tr> 
    <td>Aktiviteten har uppdaterats</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -482,8 +482,8 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
   <tr> 
    <td>Tillagt i affärsmöjlighet</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -499,8 +499,8 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
   <tr> 
    <td>Tillagd i SFDC-kampanj</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -573,16 +573,16 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
   <tr> 
    <td>Klicka på Länk i e-postadress för försäljning</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -590,16 +590,16 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
   <tr> 
    <td>Har skickats e-post</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -607,16 +607,16 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
   <tr> 
    <td>Öppnar e-postadress för försäljning</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -624,8 +624,8 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
   <tr> 
    <td>Försäljnings-e-poststudsar</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -641,16 +641,16 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
   <tr> 
    <td>E-postadress för försäljning har tagits emot</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -658,8 +658,8 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
   <tr> 
    <td>Har lagts till i säljkampanj</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -676,8 +676,8 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   <tr>
    <td>Ägarändringar</td> 
    <td>Har tagits bort från försäljningskampanj</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -693,8 +693,8 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
   <tr> 
    <td>Mottaget försäljningssamtal</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -750,14 +750,14 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
   <tr> 
    <td>Fyller i formulär</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -767,34 +767,34 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
   </tr> 
   <tr> 
    <td>Besök webbsida</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
   </tr> 
   <tr> 
    <td>Klicka på Länk på webbsida</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td>
@@ -804,7 +804,7 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
 
 >[!NOTE]
 >
->Om den inte har en kontroll ![(tick)](assets/check.svg) returnerar den en tom sträng (ingenting) i den intressanta stunden.
+>Om den inte har en kontroll ![(tick)](assets/) returnerar den en tom sträng (ingenting) i den intressanta stunden.
 
 *Utlösaren **Besök webbsidan** har några ytterligare tokens:
 
@@ -816,4 +816,4 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
 >
 >Testa alltid intressanta ögonblick för att säkerställa att de återges som du tänkt dig.
 >
->Se även till att det är intressant för säljaren, inte bara för dig. ![(blinka)](assets/wink.svg)>
+>Se även till att det är intressant för säljaren, inte bara för dig!
