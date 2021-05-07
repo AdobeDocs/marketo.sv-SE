@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360423
-description: Hitta alla leads i en intäktscykelmodell - Marketo Docs - Produktdokumentation
+description: Hitta alla leads i en intäktscykelmodell - Marketo Docs - produktdokumentation
 title: Hitta alla leads i en intäktscykelmodell
+exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
-
 
 # Sök efter alla leads i en intäktscykelmodell {#find-all-leads-in-a-revenue-cycle-model}
 
@@ -47,7 +47,7 @@ Genom att använda smarta listor kan du enkelt hitta alla medlemmar i intäktscy
 
    >[!TIP]
    >
-   >Du behöver inte båda filtren, bara välja det du behöver. Vi visar er båda för att vara noggranna. ![(leende)](assets/smile.svg)
+   >Du behöver inte båda filtren, bara välja det du behöver. Vi visar er båda för att vara noggranna.
 
    >[!CAUTION]
    >
