@@ -4,7 +4,7 @@ description: Versionsinformation -feb '20 - Marketo Docs - produktdokumentation
 title: Versionsinformation -feb '20
 exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Följande funktioner finns i utgåvan från 20 februari. Se om det finns funktio
 
 >[!AVAILABILITY]
 >
->Funktioner som anges av en stjärna ( ![(stjärna)](assets/star-yellow.svg)) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
+>Funktioner som anges av en stjärna ( ![(stjärna)](assets/yellow-star.png)) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
 
 **_Kvartalsvisa_** utgåvorFöljande funktioner släpptes den 21  **februari 2020**.
 
@@ -37,7 +37,7 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 
 ## Bizible {#bizible}
 
-![(stjärna)](assets/star-yellow.svg)
+![(stjärna)](assets/yellow-star.png)
 
 * **Kontobaserad segmentering**: Analysera attribuering på kontonivå med möjlighet att skapa segment och filter för Discover boards baserat på kontoattribut. Använd dessa segment för att fördjupa er i er kontobaserade marknadsföring.
 * **Sparar filter**: Spara specifika kontrollpanelsfilter som är unika för varje användare för att analysera dem snabbt och konsekvent.
