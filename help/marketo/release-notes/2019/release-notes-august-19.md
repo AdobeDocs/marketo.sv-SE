@@ -4,7 +4,7 @@ description: Versionsinformation -August 19 - Marketo Docs - Produktdokumentatio
 title: Versionsinformation - augusti 19
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Följande funktioner släpptes 16 augusti 2019.
 * **API-uppdatering** för smarta kampanjer: Hantera livscykelfunktioner för smarta kampanjer när vi bygger ut CRUD-gränssnittet (skapa, läsa, uppdatera, ta bort).
 * **Uppdatera API-ändring** för e-posthuvuden: API:t Uppdatera e-posthuvud kräver inte längre något e-postmeddelande för att ha en bifogad mall för att uppdatera rubrikfält, som ämnesraden.
 
-**Kontobaserad marknadsföring** ![ (stjärna)](assets/star-yellow.svg)
+**Kontobaserad marknadsföring** ![ (stjärna)](assets/yellow-star.png)
 
 * **linkedIn Kontomatchning**, som tidigare fanns i betaversion, är nu allmänt tillgängligt.
 * **AccountAI** omklassificeras officiellt som  **kontoprofilering**.
@@ -36,13 +36,13 @@ Följande funktioner släpptes 16 augusti 2019.
 
 Följande funktioner är icke-kvartalsvisa och kommer att släppas under det tredje kvartalet och i början av det fjärde kvartalet 2019.
 
-**Marketo Sales Connect** ![ (stjärna)](assets/star-yellow.svg)
+**Marketo Sales Connect** ![ (stjärna)](assets/yellow-star.png)
 
 * **Förbättring av sidlayout för personer:** Hantera personer och grupper genom att lista importer och gruppåtgärder i den nya sidlayouten för personer.
 
 >[!AVAILABILITY]
 >
->Funktioner som anges av en stjärna ( ![(stjärna)](assets/star-yellow.svg)) är betalda tillägg. Kontakta Marketo om du vill veta mer.
+>Funktioner som anges av en stjärna ( ![(stjärna)](assets/yellow-star.png)) är betalda tillägg. Kontakta Marketo om du vill veta mer.
 
 >[!NOTE]
 >
