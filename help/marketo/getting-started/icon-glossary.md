@@ -4,16 +4,16 @@ description: Ikonordlista - Marketo Docs - produktdokumentation
 title: Ikonordlista
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 translation-type: tm+mt
-source-git-commit: 609e0d95820fc84eca341916f0767d0d94c4e2ef
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '568'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
 
 # Ikonordlista {#icon-glossary}
 
-Nedan visas ikonerna för Marketo Classic. Om du har växlat till det nya Marketo Engage-gränssnittet hittar du ikonordlistan [här](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md).
+Nedan visas ikonerna för Marketo Classic. Om du har växlat till det nya gränssnittet Adobe Marketo Engage finns ikonordlistan [här](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md).
 
 **Allmänna ikoner**
 
