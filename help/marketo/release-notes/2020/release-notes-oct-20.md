@@ -4,9 +4,9 @@ description: Versionsinformation - okt 20 - Marketo Docs - produktdokumentation
 title: Versionsinformation - 20 okt
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
-source-wordcount: '959'
+source-wordcount: '957'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,19 @@ Följande funktioner ingår i versionen från 20 oktober. Se om det finns funkti
 
 >[!AVAILABILITY]
 >
->Funktioner som anges av en stjärna ( ![(stjärna)](assets/star-yellow.svg)) kan vara avgiftsbelagda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
+>Funktioner som anges av en stjärna (![](assets/yellow-star.png)) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
 
 **_Kvartalsvisa_** utgåvorFöljande funktioner kommer att släppas den 16  **oktober 2020**.
 
 ## Hantering av målkonto {#target-account-management}
 
-![(stjärna)](assets/star-yellow.svg)
+![(stjärna)](assets/yellow-star.png)
 
 * **Smart kontolista (beta)**: Utnyttja er ABM-strategi bättre med den nya funktionen Smart List för konton. Identifiera konton dynamiskt med önskade konto- och personattribut för att köra flerkanalskampanjer och skicka aviseringar i god tid till försäljningen för att sluta avtal snabbare. Obs! detta är endast tillgängligt för kunder med Target Account Management som har gått med i [nästa generations användarupplevelse](https://nation.marketo.com/t5/Employee-Blogs/The-Next-Generation-Marketo-Engage-Experience/ba-p/304205).
 
 ## E-postmarknadsföring {#email-marketing}
 
-* **Batch Email Boost  ![(stjärna)](assets/star-yellow.svg)**: Skicka fler e-postmeddelanden med en ökad genomströmning på upp till 5 miljoner gruppmeddelanden per timme. Omfattande alternativ för e-postleverans eliminerar behovet av att vänta mellan e-postbatchar - skicka alla e-postmeddelanden i tid och enligt ditt schema.
+* **Batch Email Boost  ![(stjärna)](assets/yellow-star.png)**: Skicka fler e-postmeddelanden med en ökad genomströmning på upp till 5 miljoner gruppmeddelanden per timme. Omfattande alternativ för e-postleverans eliminerar behovet av att vänta mellan e-postbatchar - skicka alla e-postmeddelanden i tid och enligt ditt schema.
 
 ## Webbplatsmarknadsföring {#website-marketing}
 
@@ -67,7 +67,7 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 
 ## Sales Insight {#sales-insight}
 
-![(stjärna)](assets/star-yellow.svg)
+![(stjärna)](assets/yellow-star.png)
 
 * **API-optimering och nya konfigurationsalternativ** för styrning: Förbättra användarupplevelsen i Sales Insight genom förbättrade API-optimeringsfunktioner och tillagda styrningsfunktioner. Med konfigurationsinställningarna kan administratörer definiera hur kampanjer och händelser läses in till kontrollpanelen Sales Insight. Visningsalternativen för flexibla kalenderaktiviteter minskar API-användningen och förbättrar den övergripande upplevelsen.
 
