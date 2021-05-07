@@ -4,7 +4,7 @@ description: Versionsinformation - jan 2020 - Marketo Docs - produktdokumentatio
 title: Versionsinformation - jan 2020
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Följande funktioner finns i jan 20. Se om det finns funktioner i din Marketo-ut
 
 >[!AVAILABILITY]
 >
->Funktioner som anges av en stjärna ( ![(stjärna)](assets/star-yellow.svg)) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
+>Funktioner som anges av en stjärna ( ![(stjärna)](assets/yellow-star.png)) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
 
 **_Kvartalsvisa releaser_**
 
@@ -38,9 +38,9 @@ Följande funktioner kommer att släppas den 17 januari 2020 **.**
 
 ## Kontobaserad marknadsföring {#account-based-marketing}
 
-![(stjärna)](assets/star-yellow.svg)
+![(stjärna)](assets/yellow-star.png)
 
-* **[Ny kontoidentifiering (BETA)](https://docs.marketo.com/x/WQA6Ag) ![(stjärna)](assets/star-yellow.svg)**: Använd kontoprofilering för att identifiera nya målkonton för er ABM-strategi baserat på er AI-drivna idealiska kundprofilmodell. Visa, markera och importera rekommenderade nya konton, tillsammans med deras AI-baserade indikator för anpassning och avsiktsdata, som inte redan finns i Marketo Engage lead- och kontodatabasen för ABM-anpassning. Omedelbart tillgängligt för kvalificerade kunder inom kontoprofilering.
+* **[Ny kontoidentifiering (BETA)](https://docs.marketo.com/x/WQA6Ag) ![(stjärna)](assets/yellow-star.png)**: Använd kontoprofilering för att identifiera nya målkonton för er ABM-strategi baserat på er AI-drivna idealiska kundprofilmodell. Visa, markera och importera rekommenderade nya konton, tillsammans med deras AI-baserade indikator för anpassning och avsiktsdata, som inte redan finns i Marketo Engage lead- och kontodatabasen för ABM-anpassning. Omedelbart tillgängligt för kvalificerade kunder inom kontoprofilering.
 
 <br> 
 
@@ -50,7 +50,7 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 
 ## Bizible {#bizible}
 
-![(stjärna)](assets/star-yellow.svg)
+![(stjärna)](assets/yellow-star.png)
 
 * **Integrering** av leads i Marketo Engage: Samla försäljning och marknadsföring med en enhetlig vy av leads över Bizible och Marketo Engage. Med den här uppdateringen kan Marketo Engage nu användas som en extra lead-datakälla, så du behöver inte längre vänta på leads för synkronisering med CRM för att rapportera om lead-generering.
 * **Upptäck förbättringar**: Få ut mer av våra Discover Boards i Bizible med förbättringar som har utvecklats utifrån kundens feedback, som möjligheten att gå ned till transaktionsregister från paneler och attribut, lägga till viktiga posträknare och motsvarande kostnads-per-statistik samt lägga till/ta bort kontrollpanelsfilter för flera kontrollpaneler. Du dirigeras också direkt till standardinstrumentpanelen vid inloggning.
