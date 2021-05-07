@@ -4,9 +4,9 @@ description: Versionsinformation -juni 20 - Marketo Docs - produktdokumentation
 title: Versionsinformation -juni 20
 exl-id: ffc39c9f-8c0c-45af-8ee6-f58971e230b9
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
-source-wordcount: '1073'
+source-wordcount: '1071'
 ht-degree: 0%
 
 ---
@@ -17,14 +17,14 @@ Följande funktioner finns i versionen från 20 juni. Se om det finns funktioner
 
 >[!AVAILABILITY]
 >
->Funktioner som anges av en stjärna ( ![(stjärna)](assets/star-yellow.svg)) kan vara avgiftsbelagda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
+>Funktioner som anges av en stjärna (![](assets/yellow-star.png)) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
 
 **_Kvartalsvisa_** utgåvorFöljande funktioner kommer att släppas  **den 5 juni 2020**.
 
 ## Core Marketo Engage {#core-marketo-engage}
 
-* **[Predictive Audiences](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![(star)](assets/star-yellow.svg): Med nya Smart List- och Smart Campaign-filter från Adobe Sensei kan ni skapa AI-baserade målgruppssegment för e-post, event och webbinära marknadsföringsprogram. Använd AI för att hjälpa er att segmentera målgrupper baserat på leads för att registrera ett event, delta i ett evenemang eller avbeställa ett abonnemang. Bygg lookalike-målgrupper baserat på tidigare program för att effektivt återge tidigare framgångar. Uppnå konverteringsmålen med prediktiv målspårning och få rekommendationer för hur ni kan förfina era målgruppssegment för händelseprogram.
-* **Batch Email Boost** ![(stjärna)](assets/star-yellow.svg): Förbättring av vår e-postmarknadsföringsfunktion som gör att ni kan skicka upp till 3 miljoner gruppmeddelanden per timme. Vi har omkonstruerat vår batchkampanj och e-postrapportbearbetning för att förbättra prestanda för e-postprogram och batche-postkampanjer. Detta ger kortare ledtider att skicka och kortare slutförandetid. Konfigurera e-postutskick på det sätt du brukar, så blir det ingen extra komplexitet. Den här förbättringen finns som ett produkttillägg som även innehåller ett lanseringspaket för Delivery Services, verktyg för e-postleverans och flera dedikerade IP-adresser.
+* **[Predictive Audiences](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![(star)](assets/yellow-star.png): Med nya Smart List- och Smart Campaign-filter från Adobe Sensei kan ni skapa AI-baserade målgruppssegment för e-post, event och webbinära marknadsföringsprogram. Använd AI för att hjälpa er att segmentera målgrupper baserat på leads för att registrera ett event, delta i ett evenemang eller avbeställa ett abonnemang. Bygg lookalike-målgrupper baserat på tidigare program för att effektivt återge tidigare framgångar. Uppnå konverteringsmålen med prediktiv målspårning och få rekommendationer för hur ni kan förfina era målgruppssegment för händelseprogram.
+* **Batch Email Boost** ![(stjärna)](assets/yellow-star.png): Förbättring av vår e-postmarknadsföringsfunktion som gör att ni kan skicka upp till 3 miljoner gruppmeddelanden per timme. Vi har omkonstruerat vår batchkampanj och e-postrapportbearbetning för att förbättra prestanda för e-postprogram och batche-postkampanjer. Detta ger kortare ledtider att skicka och kortare slutförandetid. Konfigurera e-postutskick på det sätt du brukar, så blir det ingen extra komplexitet. Den här förbättringen finns som ett produkttillägg som även innehåller ett lanseringspaket för Delivery Services, verktyg för e-postleverans och flera dedikerade IP-adresser.
 * **[Målgruppsintegrering med Adobe Experience Cloud (AEC)](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**: Tack vare den nya integrationen med Adobe Experience Cloud (AEC) kan du synkronisera statiska listor med kända leads från Marketo Engage med flera AEC-program för att förbättra befintliga program, låsa upp nya användningsfall och samordna flerkanalskampanjer. Integrationen omfattar Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager och Adobe Advertising Cloud.
 * **[Anpassade fält](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)** för programmedlem: Hämta in och använda anpassade fält om en programmedlem. Använd dessa nya fält i era Marketo Engage-formulär, visa dem i programmets medlemslista, utnyttja dem i Smart List-filter och -utlösare och inkludera dem i en ny Smart Campaign Flow Action för förbättrad automatisering och mer detaljerad personalisering. Dessa kan också importeras och exporteras via användargränssnittet och API:erna. Förbättring av våra anpassade dataobjekt och fält.
 * **Beskriv programmedlem**: Hämta metadata för programmedlemmar, så att du kan importera och exportera data för anpassade fält för programmedlemmar med hjälp av REST API. Förbättring av vårt API.
@@ -35,7 +35,7 @@ Följande funktioner finns i versionen från 20 juni. Se om det finns funktioner
 
 ## Kontobaserad marknadsföring {#account-based-marketing}
 
-![(stjärna)](assets/star-yellow.svg)
+![(stjärna)](assets/yellow-star.png)
 
 * **Ny kontoidentifiering, allmänt tillgänglig**
 
@@ -49,7 +49,7 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 
 ## Bizible {#bizible}
 
-![(stjärna)](assets/star-yellow.svg)
+![(stjärna)](assets/yellow-star.png)
 
 * **Integrering** av Marketo Engage-program: Hämta in programdata direkt från Marketo Engage för att skapa kontaktytor längs attribueringsresan i Bizible för att få lämplig kredit för e-post och engagemangsprogram. Bättre integrering med Marketo Engage.
 * **Integrering av Marketo Engage-aktiviteter (BETA)**: Använd data från Marketo Engage-aktivitet direkt i Bizible för att skapa kontaktytor över hela kundresan och alla attribueringsmodeller. Exempel är förändringar av lead-poäng, intressanta stunder, e-postklick eller andra anpassade aktiviteter. Bättre integrering med Marketo Engage.
@@ -59,7 +59,7 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 
 ## Sales Insight {#sales-insight}
 
-![(stjärna)](assets/star-yellow.svg)
+![(stjärna)](assets/yellow-star.png)
 
 * **[Insikter för kontrollpanel för Salesforce CRM](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)**: Vi förnyar vår säljinsiktsförmåga med ny synlighet i kommande marknadsföringsevenemang och kampanjer för att ge säljarna möjlighet att göra rekommendationer mer relevanta för kunder och potentiella kunder baserat på deras behov och intressen. Säljarna kan även se både kontakt- och kontoaktivitet på tidslinjen och enkelt få tillgång till ytterligare aktivitetsinformation. Mer information om hur du uppgraderar ditt paket [här](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md).
 
