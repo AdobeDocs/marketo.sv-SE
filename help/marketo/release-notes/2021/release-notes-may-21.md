@@ -2,9 +2,9 @@
 description: Versionsinformation - maj 2021 - Marketo Docs - produktdokumentation
 title: Versionsinformation - maj 2021
 translation-type: tm+mt
-source-git-commit: b5d5e5895ca315976650123875777fe43854ea60
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '1490'
+source-wordcount: '1510'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,23 @@ Följande funktioner finns i majversionen från 21. Se om det finns funktioner i
 
 >[!AVAILABILITY]
 >
->Funktioner som anges av en stjärna (![(stjärna)](assets/star-yellow.svg)) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
+>Funktioner som anges av en stjärna ![](assets/star.png) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
 
 **_Kvartalsvisa releaser_**
 
 Följande funktioner kommer att släppas den 7 maj 2021 **.**
 
+>[!NOTE]
+>
+>Dessa tre funktioner kommer att vara tillgängliga tisdagen den 11 maj:
+
+* **Smarta kontouppsättningar**
+* **Kör steg för kampanjflöde**
+* **Aktivitet för att filtrera bort e-poststarter**
+
 ## Kontobaserade upplevelser {#Account-based-eaperiences}
 
-* **Smarta kontolistor (allmän tillgänglighet)** (![(stjärna)](assets/star-yellow.svg)): Identifiera och kvalificera konton dynamiskt med önskade konto- och personattribut för att nå ut till flerkanaliga marknadsföringskampanjer och skicka aviseringar i god tid till försäljningen för att slutföra avtal snabbare. Denna nya funktion möjliggör robust automatisering av kontobaserade marknadsföringsstrategier. Smarta kontolistor är tillgängliga för kunder med Target Account Management som är med i nästa generations användarupplevelser.
+* **Smarta kontolistor (allmän tillgänglighet)** ![](assets/star.png): Identifiera och kvalificera konton dynamiskt med önskade konto- och personattribut för att nå ut till flerkanaliga marknadsföringskampanjer och skicka aviseringar i god tid till försäljningen för att slutföra avtal snabbare. Denna nya funktion möjliggör robust automatisering av kontobaserade marknadsföringsstrategier. Smarta kontolistor är tillgängliga för kunder med Target Account Management som är med i nästa generations användarupplevelser.
 
 ## Nästa generations användarupplevelse {#next-generation-user-experience}
 
@@ -75,7 +83,7 @@ Flera viktiga uppdateringar av API:er för Bulk och Lead, bland annat möjlighet
 
 ## Bizible {#bizible}
 
-(![(stjärna)](assets/star-yellow.svg))
+![](assets/star.png)
 
 * **Integrering med LinkedIn Lead Gen Forms (beta)**: Få djupare insyn i era LinkedIn-kanalinvesteringar och avkastning med Bizible Premium-attribueringslösningen. Genom den senaste integreringen med LinkedIn Lead Gen Forms får Bizible insikt i de blanketter som har skickats in inom LinkedIn. Dessa formulärfyllningar matchas mot leads från CRM-instansen (Customer Relationship Management) eller Adobe-instansen så att de är berättigade till attribuering och kan spåras mot dina övriga marknadsföringsåtaganden.
 
