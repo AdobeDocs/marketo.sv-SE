@@ -4,7 +4,7 @@ description: Versionsinformation -juli 20 - Marketo Docs - produktdokumentation
 title: Versionsinformation -juli 20
 exl-id: 3c9b1f1d-961c-4bf8-8b99-37b483230506
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Följande funktioner finns i versionen från 20 juli. Se om det finns funktioner
 
 >[!AVAILABILITY]
 >
->Observera att objekt med en stjärna ( ![(stjärna)](assets/star-yellow.svg)) kan behöva köpa ett värdetillägg beroende på vilket paket du använder. Kontakta din Marketo Engage-representant om du vill veta mer.
+>Observera att objekt med en stjärna ( ![(stjärna)](assets/yellow-star.png)) kan behöva köpa ett värdetillägg beroende på vilket paket du använder. Kontakta din Marketo Engage-representant om du vill veta mer.
 
 **_Kvartalsvisa_** utgåvorFöljande funktioner kommer att släppas den 31  **juli 2020**.
 
@@ -27,7 +27,7 @@ Följande funktioner finns i versionen från 20 juli. Se om det finns funktioner
 
 ## Kontobaserad marknadsföring {#account-based-marketing}
 
-![(stjärna)](assets/star-yellow.svg)
+![(stjärna)](assets/yellow-star.png)
 
 * **Uppdaterat användargränssnitt för kontoprofilering**: Förenkla framtagningen av din kontolista i kontoprofilering med smidiga steg på en enda skärm.
 
@@ -47,13 +47,13 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 
 ## Sales Insight {#sales-insight}
 
-![(stjärna)](assets/star-yellow.svg)
+![(stjärna)](assets/yellow-star.png)
 
 * **[Säljannonsering aktiverad för kunder med icke-inbyggd Salesforce CRM Integration](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)  (beta)**: Marketo Engage-kunder med icke-ursprungliga Salesforce CRM-integreringar kan nu använda Sales Insight för att hjälpa sina säljteam att förstå, prioritera och interagera med de mest engagerade leads och möjligheter som möjliggör smart försäljning och snabbare avtal.
 
 ## Säljanslutning {#sales-connect}
 
-![(stjärna)](assets/star-yellow.svg)
+![(stjärna)](assets/yellow-star.png)
 
 * **[Förbättrat tvåpartsmedgivande för försäljningssamtal:](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)** Administratörer har nu större kontroll över konfigurationen för samtalsinspelning. [Aktivera ](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md) inspelning av samtal utan att äventyra efterlevnaden av tvåpartslagen. Automatisera meddelandet om det samtal som spelas in och aktivera ljudklipp som ska spelas upp före samtalet.
 
