@@ -3,7 +3,7 @@ description: Versionsinformation - jan 2021 - Marketo Docs - produktdokumentatio
 title: Versionsinformation - jan 2021
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
+source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Följande funktioner finns i jan 21. Se om det finns funktioner i din Marketo-ut
 
 >[!AVAILABILITY]
 >
->Funktioner som anges av en stjärna ( ![(stjärna)](assets/yellow-star.png)) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
+>Funktioner som anges av en stjärna (![(stjärna)](assets/yellow-star.png)) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
 
 **_Kvartalsvisa releaser_**
 
