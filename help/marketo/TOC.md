@@ -4,7 +4,7 @@ user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
 translation-type: tm+mt
-source-git-commit: 77c1a3ddf700fd86da0f439c4a67ae4ed33a49df
+source-git-commit: ab9d2cbb58c32335d70d3c1fc6a75db37426018c
 workflow-type: tm+mt
 source-wordcount: '8024'
 ht-degree: 0%
@@ -809,7 +809,7 @@ ht-degree: 0%
                + [Mall 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [Mall 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Mall 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Mall 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Mall 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Mall 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Mall 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Mall 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1050,8 +1050,8 @@ ht-degree: 0%
    + Marketo Sales Connect {#marketo-sales-connect}
       + Komma igång {#getting-started}
          + [Översikt över Sales Connect](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-         + [Komma igång med Sales Connect](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
-         + [Min profilsida](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+         + [Komma igång med Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+         + [Min profilsida](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
          + [Snabbstartsvideor och Tutorials](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
          + [Ändra lösenordet för Säljanslutning](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
          + E-postinställningar {#email-settings}
