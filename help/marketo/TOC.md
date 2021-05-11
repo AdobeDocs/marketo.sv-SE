@@ -4,9 +4,9 @@ user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
 translation-type: tm+mt
-source-git-commit: ab9d2cbb58c32335d70d3c1fc6a75db37426018c
+source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
 workflow-type: tm+mt
-source-wordcount: '8024'
+source-wordcount: '8023'
 ht-degree: 0%
 
 ---
@@ -809,7 +809,7 @@ ht-degree: 0%
                + [Mall 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [Mall 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Mall 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Mall 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Mall 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Mall 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Mall 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Mall 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1065,7 +1065,7 @@ ht-degree: 0%
          + [Blockerade domäner](product-docs/marketo-sales-connect/admin/blocked-domains.md)
          + [Låsning av innehåll](product-docs/marketo-sales-connect/admin/content-lockdown.md)
          + [Skapa ett underteam](product-docs/marketo-sales-connect/admin/create-a-sub-team.md)
-         + [Bjud in teammedlemmar](product-docs/marketo-sales-connect/admin/invite-team-members.md)
+         + [Bjud in användare](product-docs/marketo-sales-connect/admin/invite-users.md)
          + [Konfigurera enkel inloggning via SAML 2.0 i Sales Connect](product-docs/marketo-sales-connect/admin/setting-up-sso-through-saml-2-0-in-sales-connect.md)
          + [Delningsinställningar](product-docs/marketo-sales-connect/admin/sharing-settings.md)
          + [Information om användaråtkomst](product-docs/marketo-sales-connect/admin/user-access-details.md)
