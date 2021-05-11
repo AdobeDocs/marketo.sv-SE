@@ -2,9 +2,9 @@
 description: Versionsinformation - maj 2021 - Marketo Docs - produktdokumentation
 title: Versionsinformation - maj 2021
 translation-type: tm+mt
-source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
+source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
 workflow-type: tm+mt
-source-wordcount: '1510'
+source-wordcount: '1557'
 ht-degree: 0%
 
 ---
@@ -90,6 +90,10 @@ Flera viktiga uppdateringar av API:er för Bulk och Lead, bland annat möjlighet
 
 ## Meddelanden {#announcements}
 
-* **Marketo Product Docs Switching Platforms**: Vi är glada över att kunna meddela att Marketo Product Docs kommer att bli medlem i Adobe Experience League fredagen den 7 maj. Du kan fortfarande använda URL:en: docs.marketo.com, och om du har befintliga artiklar som bokmärkts omdirigeras du. Alla aktuella produktdokument kommer att finnas tillgängliga på den nya plattformen, med förbättringar som planeras senare i år.
+* **Marketo Product Docs Switching Platforms**: Vi är glada över att kunna meddela att Marketo Product Docs går med i Adobe Experience League fr.o.m. fredag 7 maj. Du kan fortfarande använda URL:en: docs.marketo.com, och om du har befintliga artiklar som bokmärkts omdirigeras du. Alla produktdokument är tillgängliga på den nya plattformen, med förbättringar som planeras för senare i år.
 
 * **Effektiv användaradministration och enkel inloggning via Adobe Identity System**: Från och med juli 2021 kommer de nya Adobe-Marketo Engage-kunderna att anställas med användaruppgifter för Adobe. Migrering av befintliga kunder till det integrerade identitetssystemet kommer inte att ske förrän i mitten av 2022 och inga kundåtgärder krävs förrän ytterligare varningar om detta. Med enkel inloggning kan IT-/säkerhetsadministratörer hantera flera produktinstanser från Adobe Marketo Engage tillsammans med andra Experience Cloud-lösningar samt konfigurera enkel inloggning (Shared Services Organization) via en gemensam konsol. Administratörer kan enkelt hantera användargrupper och användarrättigheter via en gemensam Admin Console.
+
+**_Product Release Webinar_**
+
+Vill du veta mer om de här funktionerna och förbättringarna? Var noga med att [registrera dig nu](https://engage.marketo.com/May_21_Release_webinar_RegistrationPage.html) så kan du komma till oss den 13 maj klockan 9:00 PT/12:00 ET för ett live webbinarium med vårt produktteam för att fördjupa dig i dessa innovationer.
