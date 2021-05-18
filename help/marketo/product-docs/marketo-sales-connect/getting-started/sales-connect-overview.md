@@ -2,18 +2,17 @@
 unique-page-id: 13796464
 description: Sales Connect Overview - Marketo Docs - produktdokumentation
 title: Översikt över Sales Connect
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
+source-git-commit: b52765f3549615aa68789dfbd8376044bcd02b3f
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
-
 # Översikt över Säljanslutning {#sales-connect-overview}
 
-Marketo Sales Connect är en mångfacetterad säljsupport med många olika funktioner som hjälper er att öka engagemanget under hela säljcykeln.
+Marketo Sales Connect är en mångfacetterad säljsupportlösning med många olika funktioner som hjälper er att öka engagemanget genom hela säljcykeln.
 
 >[!AVAILABILITY]
 >
@@ -31,7 +30,7 @@ Få åtkomst till [detaljerad personstatistik](/help/marketo/product-docs/market
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
-## Se resultaten i din Marketo-aktivitetslogg {#see-results-in-your-marketo-activity-log}
+## Se resultaten i din Marketo aktivitetslogg {#see-results-in-your-marketo-activity-log}
 
 Se hur era prospects engagerar sig i era säljsatsningar.
 
@@ -80,12 +79,12 @@ Se hur era prospects engagerar sig i era säljsatsningar.
 
 ## Dela marknadsföringskampanjer {#share-marketing-campaigns}
 
-Skapa en enkel smart kampanj som ger dina säljanvändare åtkomst till [Marketo-kampanjdata](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
+Skapa en enkel smart kampanj som ger dina säljanvändare åtkomst till [Marketo kampanjdata](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
 
 ![](assets/campaign-is-requested.jpg)
 
 Vill du komma igång? Klicka på länken nedan om du vill se installationsanvisningar.
 
 >[!MORELIKETHIS]
+[Ställ in Sales Connect](/help/marketo/product-docs/marketo-sales-connect/getting-started/set-up-sales-connect.md)>
 >
->[Komma igång med Sales Connect](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
