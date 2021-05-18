@@ -3,10 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-translation-type: tm+mt
-source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '8023'
+source-wordcount: '8038'
 ht-degree: 0%
 
 ---
@@ -807,9 +806,9 @@ ht-degree: 0%
                + [Mall 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Mall 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Mall 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Mall 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Mall 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Mall 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Mall 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Mall 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Mall 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Mall 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Mall 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1050,7 +1049,8 @@ ht-degree: 0%
    + Marketo Sales Connect {#marketo-sales-connect}
       + Komma igång {#getting-started}
          + [Översikt över Sales Connect](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-         + [Komma igång med Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+         + [Åtkomst till din nya Sales Connect-instans](product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md)
+         + [Ställ in Sales Connect](product-docs/marketo-sales-connect/getting-started/set-up-sales-connect.md)
          + [Min profilsida](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
          + [Snabbstartsvideor och Tutorials](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
          + [Ändra lösenordet för Säljanslutning](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
@@ -1203,7 +1203,7 @@ ht-degree: 0%
          + [Vanliga frågor om innehåll och bifogad fil](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
          + [Har Sales Connect en iPhone- eller Android-app?](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
          + [Hur Tillåtslista jag Sales Connect på min server?](product-docs/marketo-sales-connect/faq/how-can-i-allowlist-sales-connect-on-my-server.md)
-         + [Jag har låst ut mitt konto. Vad gör jag?](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
+         + [Jag har låst ut mitt konto. Vad ska jag göra?](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
          + [Är Sales Connect kompatibelt med Salesforce Lightning?](product-docs/marketo-sales-connect/faq/is-sales-connect-compatible-with-salesforce-lightning.md)
          + [Vilka är de senaste klientversionerna?](product-docs/marketo-sales-connect/faq/what-are-the-latest-client-versions.md)
          + [Vilka är villkoren för tjänsten Sales Connect?](product-docs/marketo-sales-connect/faq/what-are-the-sales-connect-terms-of-service.md)
@@ -1214,6 +1214,8 @@ ht-degree: 0%
       + Integreringar {#integrations}
          + [Så här loggar du e-postmeddelanden till andra CRM-system](product-docs/marketo-sales-connect/integrations/how-to-log-emails-to-other-crms.md)
       + Marketo {#marketo}
+         + [Konfigurera din Marketo-anslutning manuellt](product-docs/marketo-sales-connect/marketo/manually-set-up-your-marketo-connection.md)
+         + [Bevilja åtkomst för användare](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Intressanta stunder i MSC](product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)
          + [Gör en kampanj synlig för användare av Sales Connect](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
       + Personer {#people}
