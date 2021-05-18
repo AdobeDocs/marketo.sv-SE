@@ -1,10 +1,9 @@
 ---
 description: Filtrering av e-postsatsaktivitet - Marketo Docs - produktdokumentation
 title: Filtrerar e-postsatsaktivitet
-translation-type: tm+mt
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -12,10 +11,6 @@ ht-degree: 0%
 # Filtrerar e-poststartaktivitet {#filtering-email-bot-activity}
 
 Ibland kan aktiviteten för e-postrobot felaktigt blåsa upp e-postöppningen och klicka på data. Så här löser du det.
-
->[!NOTE]
->
->Den här funktionen aktiveras för alla Marketo-förekomster tisdagen den 11 maj.
 
 >[!NOTE]
 >
