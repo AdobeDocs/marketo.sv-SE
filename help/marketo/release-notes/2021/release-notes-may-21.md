@@ -1,10 +1,9 @@
 ---
 description: Versionsinformation - maj 2021 - Marketo Docs - produktdokumentation
 title: Versionsinformation - maj 2021
-translation-type: tm+mt
-source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '1557'
+source-wordcount: '1534'
 ht-degree: 0%
 
 ---
@@ -20,15 +19,6 @@ Följande funktioner finns i majversionen från 21. Se om det finns funktioner i
 **_Kvartalsvisa releaser_**
 
 Följande funktioner kommer att släppas den 7 maj 2021 **.**
-
->[!NOTE]
->
->Dessa tre funktioner kommer att vara tillgängliga tisdagen den 11 maj:
->
->* **Smarta kontouppsättningar**
->* **Kör steg för kampanjflöde**
->* **Aktivitet för att filtrera bort e-poststarter**
-
 
 ## Kontobaserade upplevelser {#Account-based-eaperiences}
 
