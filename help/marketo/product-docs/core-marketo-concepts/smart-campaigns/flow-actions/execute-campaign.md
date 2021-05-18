@@ -1,10 +1,9 @@
 ---
 description: Kör kampanj - Marketo Docs - produktdokumentation
 title: Kör kampanj
-translation-type: tm+mt
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '726'
+source-wordcount: '711'
 ht-degree: 0%
 
 ---
@@ -12,10 +11,6 @@ ht-degree: 0%
 # Kör kampanj {#execute-campaign}
 
 En körbar kampanj innehåller, precis som andra kampanjer, en smart lista, ett flöde och ett schema. Till skillnad från andra kampanjer schemalägger eller aktiverar ni dem egentligen inte. Den kan bara anropas av en annan kampanj via flödessteget Kör kampanj. Flödesstegen i den körbara kampanjen körs i serie med den överordnade kampanjen (till skillnad från Request Campaign, som körs parallellt i en separat utlösarkampanj).
-
->[!NOTE]
->
->Den här funktionen aktiveras för alla Marketo-förekomster tisdagen den 11 maj.
 
 >[!NOTE]
 >
