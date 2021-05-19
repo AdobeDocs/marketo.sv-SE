@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 89d46ccadabec8c4dbc2db3cd9cde705c95b3978
 workflow-type: tm+mt
-source-wordcount: '8038'
+source-wordcount: '8037'
 ht-degree: 0%
 
 ---
@@ -1214,7 +1214,7 @@ ht-degree: 0%
       + Integreringar {#integrations}
          + [Så här loggar du e-postmeddelanden till andra CRM-system](product-docs/marketo-sales-connect/integrations/how-to-log-emails-to-other-crms.md)
       + Marketo {#marketo}
-         + [Konfigurera din Marketo-anslutning manuellt](product-docs/marketo-sales-connect/marketo/manually-set-up-your-marketo-connection.md)
+         + [Konfigurera din Marketo-anslutning](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
          + [Bevilja åtkomst för användare](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Intressanta stunder i MSC](product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)
          + [Gör en kampanj synlig för användare av Sales Connect](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
