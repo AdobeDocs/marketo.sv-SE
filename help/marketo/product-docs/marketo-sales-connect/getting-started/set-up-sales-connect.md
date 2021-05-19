@@ -1,9 +1,9 @@
 ---
 description: Konfigurera Sales Connect - Marketo Docs - produktdokumentation
 title: Ställ in Sales Connect
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 89d46ccadabec8c4dbc2db3cd9cde705c95b3978
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -12,9 +12,13 @@ ht-degree: 0%
 
 Det här dokumentet tar dig igenom de inledande stegen för att konfigurera din nya Sales Connect-instans. Vissa av dessa steg kräver åtkomst som Marketo-administratör, Salesforce-administratör och Sales Connect-administratör. Följ våra guider nedan för att slutföra instanskonfigurationen.
 
+>[!NOTE]
+>
+>**Administratörsbehörighet krävs.**
+
 ## Gå till ditt nya Marketo Sales Connect-konto {#accessing-your-new-marketo-sales-connect-account}
 
-Om du har köpt Marketo Sales Connect får du tillgång till din instans via Marketo administratörssektion. Klicka här för att se hur en Marketo-administratör kan ge åtkomst till din nya instans.
+Om du har köpt Marketo Sales Connect får du tillgång till din instans via Marketo administratörssektion. [Klicka ](/help/marketo/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md) här för att se hur en Marketo-administratör kan ge åtkomst till din nya instans.
 
 ![](assets/set-up-sales-connect-1.png)
 
