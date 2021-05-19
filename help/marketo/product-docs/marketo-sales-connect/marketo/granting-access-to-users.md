@@ -1,9 +1,9 @@
 ---
 description: Bevilja åtkomst till användare - Marketo Docs - produktdokumentation
 title: Bevilja åtkomst för användare
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 89d46ccadabec8c4dbc2db3cd9cde705c95b3978
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 Följ stegen i den här artikeln för att ge dina Sales Connect-användare åtkomst till Marketo-anslutningen. Detta kommer att låsa upp funktioner som intressanta ögonblick i liveflödet och tillgång till marknadsföringskampanjer.
 
-Du måste bjuda in användare till Sales Connect här innan de visas på Marketo - Team Access-sidan, där åtkomst till Marketo-anslutningen beviljas.
+Du måste bjuda in användare till Sales Connect [här](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) innan de visas på Marketo > Team Access-sidan (i Sales Connect), där åtkomst till Marketo-anslutningen beviljas.
 
 >[!CAUTION]
 >
@@ -22,7 +22,7 @@ Du måste bjuda in användare till Sales Connect här innan de visas på Marketo
 
    >[!NOTE]
    >
-   >Du kan bara utföra arbetsytetilldelningen en gång när du bjuder in användare. När den är inställd måste du koppla från användaren för att kunna ändra den.
+   >Du kan bara utföra arbetsytetilldelningen en gång när du beviljar åtkomst till användare. När den är inställd måste du koppla från användaren för att kunna ändra den.
 
    ![](assets/granting-access-to-users-1.png)
 
@@ -33,9 +33,5 @@ Du måste bjuda in användare till Sales Connect här innan de visas på Marketo
 1. Klicka på listrutan Arbetsyta, välj önskad arbetsyta och klicka på **Anslut**.
 
    ![](assets/granting-access-to-users-3.png)
-
-   >[!NOTE]
-   >
-   >Om du vill lägga till nya användare går du till avsnittet Teamhantering i Administrationsinställningar och klickar på knappen **Bjud in användare**.
 
 Du kan få fler användare från sidan Teamhantering och följa stegen ovan för att få dem anslutna.
