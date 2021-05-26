@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: Konfigurera Adobe Experience Cloud Audience Sharing - Marketo Docs - produktdokumentation
 title: Konfigurera Adobe Experience Cloud målgruppsdelning
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: 760e39e662f361831eed63d424b74dc90bbfd2e2
+source-git-commit: c225facfb3fce2d9e03ca1db5aa1ce0fee4f686c
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Om du vill dela målgruppsdata med dina Adobe-program måste du först ange dina
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Ange ditt Adobe IMS-organisations-ID (läs om hur du hittar [här](https://docs.adobe.com/content/help/en/control-panel/using/faq.html)) och klicka på **OK**.
+1. Ange ditt Adobe IMS-organisations-ID (läs om hur du hittar [här](https://experienceleague.adobe.com/docs/control-panel/using/faq.html)) och klicka på **OK**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 
