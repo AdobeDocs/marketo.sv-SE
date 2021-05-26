@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 355c56a22f5eebaf7216de6288a97dba00bef72e
+source-git-commit: 08afc55a09ac6577b4f8c0a64a1c0150b7d09a49
 workflow-type: tm+mt
 source-wordcount: '8040'
 ht-degree: 0%
@@ -81,10 +81,10 @@ ht-degree: 0%
          + [Dimension för namngivet konto i RCA](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
          + [Insikter om namngivna konton](product-docs/target-account-management/measure/named-account-insights.md)
          + [Använda persona](product-docs/target-account-management/using-personas.md)
-   + Kontoprofilering {#account-profiling}
-      + [Konfigurera kontoprofilering](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
-      + [Rankning och justering av kontoprofilering](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
-      + [Ny kontoidentifiering](product-docs/target-account-management/account-profiling/new-account-discovery.md)
+      + Kontoprofilering {#account-profiling}
+         + [Konfigurera kontoprofilering](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
+         + [Rankning och justering av kontoprofilering](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
+         + [Ny kontoidentifiering](product-docs/target-account-management/account-profiling/new-account-discovery.md)
    + Ytterligare program {#additional-apps}
       + SEO {#seo}
          + Om SEO {#understanding-seo}
