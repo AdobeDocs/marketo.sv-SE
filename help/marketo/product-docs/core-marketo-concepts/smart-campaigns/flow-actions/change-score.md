@@ -3,8 +3,7 @@ unique-page-id: 1146962
 description: Change Score - Marketo Docs - Product Documentation
 title: Ändra poäng
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0b1c7c7f7cd0becc17ec7636977f34a7d23ca448
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -39,4 +38,5 @@ Det är enkelt och kraftfullt att betygsätta personer så att säljteamet kan p
    * **-5** kommer att minska (negativa tal tillåts)
    * **=5** kommer att göra det exakta talet
    * **=-5** kommer att göra poängen exakt negativt tal
-   Få lite grundläggande poängsättning på plats snabbt och finjustera sedan resultatet över tid. Det var det vi gjorde!
+
+Få lite grundläggande poängsättning på plats snabbt och finjustera sedan resultatet över tid. Det var det vi gjorde!
