@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 394ababd11b39abc23f7761f3c91f03ca3778435
+source-git-commit: 1c08cbd1bb7f7b3b7b6b12bb21a6eb35ee43c0e1
 workflow-type: tm+mt
-source-wordcount: '8030'
+source-wordcount: '8028'
 ht-degree: 0%
 
 ---
@@ -806,9 +806,9 @@ ht-degree: 0%
                + [Mall 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Mall 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Mall 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Mall 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Mall 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Mall 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Mall 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Mall 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Mall 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Mall 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Mall 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1044,7 +1044,6 @@ ht-degree: 0%
    + Marketo Engage nästa generation av upplevelse {#marketo-engage-next-generation-experience}
       + [Översikt](product-docs/marketo-engage-next-generation-experience/overview.md)
       + [Ny ikonordlista](product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)
-      + [Flytta resurser](product-docs/marketo-engage-next-generation-experience/moving-assets.md)
       + [Använda den globala sökningen](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
    + Marketo Sales Connect {#marketo-sales-connect}
       + Komma igång {#getting-started}
