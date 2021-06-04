@@ -1,9 +1,9 @@
 ---
 description: Versionsinformation - maj 2021 - Marketo Docs - produktdokumentation
 title: Versionsinformation - maj 2021
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 813f06e6b54c8fb2f3029f92d642d25e39424b5e
 workflow-type: tm+mt
-source-wordcount: '1534'
+source-wordcount: '1481'
 ht-degree: 0%
 
 ---
@@ -39,8 +39,6 @@ Med en global förhandsgranskning kan marknadsförarna snabbt se var det finns e
 * **Blockera inskickning av skräppostformulär**: Protect databasen Adobe Marketo Engage från skräppostdata som kan orsaka ogiltiga aviseringar, utlösa kampanjeftersläpningar och skapa oönskade aktiviteter. Den nya valideringsfunktionen avvisar ogiltiga formulärinskickningar och stoppar robotattacker. Era data är renare och era marknadsföringskampanjer fungerar som de ska, vilket minimerar risken för att skicka okvalificerade leads till försäljning.
 
 * **Varning** om godkännande av e-postprogram: Förhindra att felaktiga e-postmeddelanden skickas när de nya ändringarna görs i ett tidigare godkänt program.  Varningen fungerar som en garanti när en marknadsförare gör ändringar i ett e-postmeddelande som redan har godkänts, men sedan glömmer att godkänna de senaste ändringarna och skickar e-postmeddelandet till en stor publik utan innehåll, dåligt innehåll eller gammalt innehåll.
-
-* **Åtgärd för enstaka flöde på Lead-informationssidan**: Tillåt användare att utföra flödesåtgärder som att skicka e-post, ändra lead-ägare eller andra smarta kampanjåtgärder för enskilda leads från leaddetaljsidan med hjälp av flödesåtgärdsmenyn. Marknadsförarna kan utföra flödesåtgärder på leads utan att växla till den inledande databasens rutnätsvy.
 
 * **Filtrera ut e-poststartaktivitet**: Förhindra oönskade säljvarningar och felaktig e-postrapportering med den nya funktionen för filtrering av e-postrobotar. Identifiera och filtrera bort öppningar och klick som kan kopplas till e-postbots inspektera länkar som leder till falska utlösare och försäljningsvarningar, eller felaktig rapportering.
 
