@@ -1,14 +1,13 @@
 ---
-description: Konfigurera Sales Insight för ditt team - Marketo Docs - Produktdokumentation
+description: Konfigurera Sales Insight för ditt team - Marketo Docs - produktdokumentation
 title: Konfigurera Sales Insight för ditt team
-translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
+source-git-commit: ecceb1a3aff3a2088379f8f4f2ac33e566f90e21
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
-
 
 # Konfigurera Sales Insight för ditt team {#setting-up-sales-insight-for-your-team}
 
@@ -38,15 +37,13 @@ Om du har en dedikerad profil för dina Sales Insight-användare kan du hoppa ö
 
    **För profiler som har åtkomst till Sales Insight**:
 
-   * Markera Markering i Anpassade appinställningar för att göra Marketo-appen synlig
-   * Ändra markeringsflikarna till Standard på flikinställningar
+   * Ändra Marketo-flikarna till Standard på i flikinställningarna
    * I Anpassade objektbehörigheter markerar du Läs, Skapa, Redigera och Ta bort på Marketo Sales Insight Config (om användaren ska ha tillgång till konfigurationsinställningarna, som vanligtvis används för administratörer)
 
    **För profiler som inte tillåts åtkomst till Sales Insight**:
 
-   * Avmarkera Markto i Anpassade appinställningar om du vill dölja Marketo-appen
-   * Ändra markeringsflikarna till Dold flik i Tabbinställningar
-   * Avmarkera Läs, Skapa, Redigera och Ta bort på Marketo Sales Insight Config i Anpassade objektbehörigheter
+   * Ändra Marketo-flikarna till Dold flik i Tabbinställningar
+   * Avmarkera Läs, Skapa, Redigera och Ta bort i konfigurationen för Marketo Sales Insight i Anpassade objektbehörigheter
 
 
 1. Klicka på **Spara** när du är klar.
