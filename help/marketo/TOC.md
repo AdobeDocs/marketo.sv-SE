@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 26fb0bad4bf6c3bc6925de3fe985a30927b5e30a
+source-git-commit: bff000b6e65b3cd92db1e90aa3a7b594cf0dd6a5
 workflow-type: tm+mt
-source-wordcount: '8023'
+source-wordcount: '8033'
 ht-degree: 0%
 
 ---
@@ -622,7 +622,8 @@ ht-degree: 0%
             + [Skapa en händelse med GotoWebinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
             + [Skapa en händelse med webbmöte på nivå 3](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
             + [Skapa en händelse med ReadyTalk](product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
-            + [Skapa en händelse med Marketo ON24-adaptern](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
+            + Skapa en händelse med Marketo ON24-adaptern(#create-an-event-with-the-marketo-on24-adapter)
+               + [Skapa en händelse med Marketo ON24-adaptern](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
                + [Konfigurera händelseinställningar och synkronisera Marketo med ditt webbinarium](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
                + [Skapa en händelse i Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)
                + [Skapa underordnade kampanjer och lokala resurser](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
@@ -806,7 +807,7 @@ ht-degree: 0%
                + [Mall 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Mall 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Mall 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Mall 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Mall 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Mall 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [Mall 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Mall 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
