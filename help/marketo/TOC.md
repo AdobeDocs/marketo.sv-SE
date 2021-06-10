@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: bff000b6e65b3cd92db1e90aa3a7b594cf0dd6a5
+source-git-commit: bcb477061434bbd8f80bde108ba1a13e7764113a
 workflow-type: tm+mt
-source-wordcount: '8033'
+source-wordcount: '8031'
 ht-degree: 0%
 
 ---
@@ -622,7 +622,7 @@ ht-degree: 0%
             + [Skapa en händelse med GotoWebinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
             + [Skapa en händelse med webbmöte på nivå 3](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
             + [Skapa en händelse med ReadyTalk](product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
-            + Skapa en händelse med Marketo ON24-adaptern(#create-an-event-with-the-marketo-on24-adapter)
+            + Skapa en händelse med Marketo ON24-adaptern {#create-an-event-with-the-marketo-on24-adapter}
                + [Skapa en händelse med Marketo ON24-adaptern](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
                + [Konfigurera händelseinställningar och synkronisera Marketo med ditt webbinarium](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
                + [Skapa en händelse i Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)
