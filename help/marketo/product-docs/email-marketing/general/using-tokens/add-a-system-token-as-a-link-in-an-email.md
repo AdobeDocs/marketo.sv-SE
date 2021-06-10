@@ -2,14 +2,13 @@
 unique-page-id: 1900573
 description: Lägg till en systemtoken som en länk i ett e-postmeddelande - Marketo Docs - Produktdokumentation
 title: Lägg till en systemtoken som en länk i ett e-postmeddelande
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
+source-git-commit: 65caed388ac33fc9f3142102343fe43ebc186e6e
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
-
 
 # Lägg till en systemtoken som en länk i ett e-postmeddelande {#add-a-system-token-as-a-link-in-an-email}
 
@@ -50,6 +49,10 @@ Så här lägger du till dem i ett e-postmeddelande:
 1. Klicka på **Spara**.
 
    ![](assets/image2014-9-17-22-3a12-3a17.png)
+
+>[!IMPORTANT]
+>
+>Om du använder den här metoden för att lägga till systemtoken &quot;viewAsWebpageLink&quot; kan du **inte** åsidosätta den med hjälp av tokens. Använd i stället [Lägg till en Visa som webbsideslänk i en e-postadress](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)-metod som gör att du kan åsidosätta viewAsWebPageLink med hjälp av variabler.
 
 >[!NOTE]
 >
