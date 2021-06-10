@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 3c4300d1d574ab779b32f7550dc2df2e5d3afe07
+source-git-commit: 26fb0bad4bf6c3bc6925de3fe985a30927b5e30a
 workflow-type: tm+mt
 source-wordcount: '8023'
 ht-degree: 0%
@@ -623,16 +623,16 @@ ht-degree: 0%
             + [Skapa en händelse med webbmöte på nivå 3](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
             + [Skapa en händelse med ReadyTalk](product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
             + [Skapa en händelse med Marketo ON24-adaptern](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
-            + [Konfigurera händelseinställningar och synkronisera Marketo med ditt webbinarium](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
-            + [Skapa en händelse i Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)
-            + [Skapa underordnade kampanjer och lokala resurser](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
-            + [Skapa ett webbinarium i ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
-            + [Ange dina ON24-autentiseringsuppgifter i Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/enter-your-on24-credentials-in-marketo.md)
-            + [Exempel på händelseintegrering ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
-            + [ON24 - Händelseregistreringsuppdateringar](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
-            + [Testa din ON24-händelseintegrering](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)
-            + [Om Marketo On24-nätverkskortshändelser](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
-            + [Om status för webbinarium](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
+               + [Konfigurera händelseinställningar och synkronisera Marketo med ditt webbinarium](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
+               + [Skapa en händelse i Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)
+               + [Skapa underordnade kampanjer och lokala resurser](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
+               + [Skapa ett webbinarium i ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
+               + [Ange dina ON24-autentiseringsuppgifter i Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/enter-your-on24-credentials-in-marketo.md)
+               + [Exempel på händelseintegrering ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
+               + [ON24 - Händelseregistreringsuppdateringar](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
+               + [Testa din ON24-händelseintegrering](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)
+               + [Om Marketo On24-nätverkskortshändelser](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+               + [Om status för webbinarium](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
             + [Skapa en händelse med WebEx](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
             + [Skapa en händelse med zoom](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
       + Facebook {#facebook}
