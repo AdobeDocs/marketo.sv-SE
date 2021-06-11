@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: bcb477061434bbd8f80bde108ba1a13e7764113a
+source-git-commit: 2c4291548a19df230fa347f1a93f49ea02360419
 workflow-type: tm+mt
 source-wordcount: '8031'
 ht-degree: 0%
@@ -622,6 +622,8 @@ ht-degree: 0%
             + [Skapa en händelse med GotoWebinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
             + [Skapa en händelse med webbmöte på nivå 3](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
             + [Skapa en händelse med ReadyTalk](product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
+            + [Skapa en händelse med WebEx](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
+            + [Skapa en händelse med zoom](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
             + Skapa en händelse med Marketo ON24-adaptern {#create-an-event-with-the-marketo-on24-adapter}
                + [Skapa en händelse med Marketo ON24-adaptern](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
                + [Konfigurera händelseinställningar och synkronisera Marketo med ditt webbinarium](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
@@ -634,8 +636,6 @@ ht-degree: 0%
                + [Testa din ON24-händelseintegrering](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)
                + [Om Marketo On24-nätverkskortshändelser](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
                + [Om status för webbinarium](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
-            + [Skapa en händelse med WebEx](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
-            + [Skapa en händelse med zoom](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
       + Facebook {#facebook}
          + [Lägga till leads till en anpassad målgrupp i Facebook](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [Skapa en anpassad målgrupp i Facebook](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
