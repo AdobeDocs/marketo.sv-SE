@@ -1,10 +1,9 @@
 ---
-archetype: end-user
+solution: Marketo, Marketo Engage, Marketo Sky
 user-guide-title: '[!DNL Sky] Produktdokumentation'
 feature-set: Marketo Sky
 index: y
-translation-type: tm+mt
-source-git-commit: e51d81dbf27bea8667ffafdcc356cf3f6b70c2b1
+source-git-commit: 09a443005369aafda4181bd6875b3c61067e504b
 workflow-type: tm+mt
 source-wordcount: '482'
 ht-degree: 0%
