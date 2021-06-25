@@ -1,15 +1,14 @@
 ---
 unique-page-id: 12979282
-description: Översikt över plugin-programmet Account Insight - Marketo Docs - Produktdokumentation
+description: Översikt över plugin-programmet Account Insight - Marketo Docs - produktdokumentation
 title: Översikt över plugin-programmet Account Insight
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
+source-git-commit: 90b2f0f251f0c5805188731d0a2e4deedf720d70
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
 
 ---
-
 
 # Översikt över plugin-programmet Account Insight {#account-insight-plug-in-overview}
 
@@ -22,6 +21,8 @@ Account Insight är en Chrome-plugin som ger er åtgärdbara TAM-resurser och ko
 >[!CAUTION]
 >
 >Plugin-programmet Account Insight fungerar inte i prenumerationer där [SSO-only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (enkel inloggning) är aktiverat.
+
+>[!CAUTION]
 >
 >CRM-kontext fungerar för Salesforce när plugin-programmet startas från ett konto, en lead eller en kontakt. CRM-kontext fungerar inte för Dynamics när plugin-programmet startas från ett konto, en lead eller en kontakt. För Dynamics-användare rekommenderar vi att du använder plugin-programmet Account Insight.
 
@@ -80,5 +81,5 @@ Det går att klicka på flera objekt. Klicka på det namngivna kontot för att s
 Snygga grejer!
 
 >[!MORELIKETHIS]
+[Ställ in kontoinsikter](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)>
 >
->[Ställ in kontoinsikter](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)
