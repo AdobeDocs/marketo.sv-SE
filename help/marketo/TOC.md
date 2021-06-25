@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 2c4291548a19df230fa347f1a93f49ea02360419
+source-git-commit: abdbe8a7bd48af62b68ff51c24ffcf9d19469a80
 workflow-type: tm+mt
-source-wordcount: '8031'
+source-wordcount: '8043'
 ht-degree: 0%
 
 ---
@@ -69,7 +69,7 @@ ht-degree: 0%
             + [Skapa en hierarki](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
          + [Kontolistor](product-docs/target-account-management/target/account-lists.md)
          + [Smarta kontouppsättningar](product-docs/target-account-management/target/account-smart-lists.md)
-         + [Skapa en matchad publik på LinkedIn](product-docs/target-account-management/target/create-a-matched-audience-on-linkedin.md)
+         + [Skapa en kontomatchad målgrupp på LinkedIn](product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)
       + Aktivera {#engage}
          + [Kontofilter](product-docs/target-account-management/engage/account-filters.md)
          + [Kontoutlösare](product-docs/target-account-management/engage/account-triggers.md)
@@ -392,6 +392,7 @@ ht-degree: 0%
          + Statiska listor {#static-lists}
             + [Skapa en statisk lista](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
             + [Skicka en lista till Adobe Experience Cloud](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)
+            + [Överför ett Adobe Experience Cloud-segment till en Marketo Static List](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list.md)
             + [Statiska listor](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)
       + Program {#programs}
          + Skapar program {#creating-programs}
@@ -807,7 +808,7 @@ ht-degree: 0%
                + [Mall 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Mall 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Mall 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Mall 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Mall 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Mall 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [Mall 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Mall 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
@@ -1310,6 +1311,7 @@ ht-degree: 0%
          + Konfiguration {#configuration}
             + [Konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [Konfigurera Marketo Sales Insight i Salesforce Professional Edition](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+            + [Konfiguration för befintliga kunder](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
             + [Marketo Sales Insight Configuration tab in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
             + [Sales Insight Page for Marketo Admins](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
             + [Konfigurera Sales Insight för ditt team](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
@@ -1325,7 +1327,6 @@ ht-degree: 0%
                + [Lägg till fliken och knapparna för Marketo Sales Insight i Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
                + [Massåtgärder i Salesforce Lightning](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/bulk-actions-in-salesforce-lightning.md)
                + [Skicka ett e-postmeddelande till flera poster i Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
-               + [Konfiguration för befintliga kunder](product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md)
                + [Översikt över funktionen Insikt i instrumentpanelen](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
             + Språkstöd {#language-support}
                + [Förbered Sales Insight för flerspråkig support i Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
