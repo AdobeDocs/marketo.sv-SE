@@ -1,13 +1,12 @@
 ---
 cloud: Experience Cloud
-solution: Marketo Engage,Marketo
+solution: Marketo, Marketo Engage
 product: marketo
 type: Documentation
 mini-toc-levels: 2
 git-repo: https://git.corp.adobe.com/AdobeDocs/marketo.sv-SE
 index: true
-translation-type: tm+mt
-source-git-commit: ba649b4ca33d5fe7e4c48c626a0e06c1505fbc3c
+source-git-commit: 09a443005369aafda4181bd6875b3c61067e504b
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
