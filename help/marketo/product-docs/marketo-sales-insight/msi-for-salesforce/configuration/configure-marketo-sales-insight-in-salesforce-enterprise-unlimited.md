@@ -1,33 +1,30 @@
 ---
 unique-page-id: 2360368
-description: Konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited - Marketo Docs - Produktdokumentation
+description: Konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited - Marketo Docs - produktdokumentation
 title: Konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited
-translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
+source-git-commit: fbd8640d55a9a38936d060086f361b2281add47f
 workflow-type: tm+mt
-source-wordcount: '913'
+source-wordcount: '898'
 ht-degree: 0%
 
 ---
 
-
 # Konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited {#configure-marketo-sales-insight-in-salesforce-enterprise-unlimited}
 
-Här är de steg du måste ta för att konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited Editions. Kom så sätter vi igång.
+Här är de steg du måste utföra för att konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited Editions. Kom så sätter vi igång.
 
 >[!PREREQUISITES]
 >
->* [Konfigurera Marketo-fältsynkronisering i din Salesforce Enterprise/Unlimited Edition](https://docs.marketo.com/pages/viewpage.action?pageid=2360372)
 >* [Installera Marketo Sales Insight-paket i Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
 
 >[!NOTE]
->
->**Administratörsbehörigheter krävs**
+**Administratörsbehörigheter krävs**
 
 ## Konfigurera Sales Insight i Marketo {#configure-sales-insight-in-marketo}
 
-1. Öppna ett nytt webbläsarfönster för att hämta Marketo Sales Insight-inloggningsuppgifterna från ditt Marketo-konto.
+1. Öppna ett nytt webbläsarfönster för att hämta inloggningsuppgifterna för Marketo Sales Insight från ditt Marketo-konto.
 
 1. Gå till området Admin och välj **Sales Insight**.
 
@@ -42,8 +39,7 @@ Här är de steg du måste ta för att konfigurera Marketo Sales Insight i Sales
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-3.png)
 
    >[!NOTE]
-   >
-   >Din API-hemliga nyckel är som ett lösenord för din organisation och bör vara säker.
+   Din API-hemliga nyckel är som ett lösenord för din organisation och bör vara säker.
 
 1. Klicka på **Visa** i konfigurationspanelen för det virtuella minnet för det virtuella minnet för att fylla i inloggningsuppgifterna.
 
@@ -67,7 +63,7 @@ Här är de steg du måste ta för att konfigurera Marketo Sales Insight i Sales
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8.png)
 
-1. Ange namnet på fjärrplatsen (det kan vara något som &quot;MarketoSoapAPI&quot;). Ange URL för fjärrplats, som är din Marketo-värd-URL från panelen Konfiguration av Soap API i Marketo. Klicka på **Spara**. Du har nu skapat fjärrplatsinställningar för Soap API.
+1. Ange namnet på fjärrplatsen (det kan vara något som &quot;MarketoSoapAPI&quot;). Ange URL för fjärrplatsen, som är din Marketo-värd-URL från panelen Konfigurera Soap API i Marketo. Klicka på **Spara**. Du har nu skapat fjärrplatsinställningar för Soap API.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9.png)
 
@@ -75,7 +71,7 @@ Här är de steg du måste ta för att konfigurera Marketo Sales Insight i Sales
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10.png)
 
-1. Ange namnet på fjärrplatsen (det kan vara något som &quot;MarketoRestAPI&quot;). Ange URL för fjärrplats, som är din API-URL från panelen för konfiguration av återställnings-API i Marketo. Klicka på **Spara**. Du har nu skapat fjärrplatsinställningar för Rest API.
+1. Ange namnet på fjärrplatsen (det kan vara något som &quot;MarketoRestAPI&quot;). Ange URL för fjärrplats, som är din API-URL från konfigurationspanelen för Rest API i Marketo. Klicka på **Spara**. Du har nu skapat fjärrplatsinställningar för Rest API.
 
 ## Ställ in Marketo Sales Insight {#set-up-marketo-sales-insight}
 
@@ -94,14 +90,12 @@ Här är de steg du måste ta för att konfigurera Marketo Sales Insight i Sales
 1. Ange en **API-hemlig nyckel** och klicka på **Spara**.
 
    >[!CAUTION]
-   >
-   >Använd inte ett et-tecken (&amp;) i API-hemlig nyckel.
+   Använd inte ett et-tecken (&amp;) i API-hemlig nyckel.
 
    ![](assets/image2015-5-27-16-3a36-3a56.png)
 
    >[!TIP]
-   >
-   >Låt det här fönstret vara öppet. Du behöver den här informationen senare i Salesforce.
+   Låt det här fönstret vara öppet. Du behöver den här informationen senare i Salesforce.
 
 1. Gå tillbaka till Salesforce och klicka på **Inställningar**.
 
@@ -120,8 +114,7 @@ Här är de steg du måste ta för att konfigurera Marketo Sales Insight i Sales
    ![](assets/remote-site.png)
 
    >[!NOTE]
-   >
-   >Du väljer ditt **fjärrwebbplatsnamn** (MarketoAPI används här). URL:en för **fjärrplatsen** finns i fältet Marketo Host i dialogrutan Redigera API-konfiguration från steg 4.
+   Du väljer ditt **fjärrwebbplatsnamn** (MarketoAPI används här). URL:en för **fjärrplatsen** finns i fältet Marketo-värd i dialogrutan Redigera API-konfiguration från steg 4.
 
 ## Anpassa sidlayouter {#customize-page-layouts}
 
@@ -146,8 +139,7 @@ Här är de steg du måste ta för att konfigurera Marketo Sales Insight i Sales
    ![](assets/image2014-9-24-17-3a33-3a45.png)
 
    >[!TIP]
-   >
-   >Namnet på den här rutan ändras beroende på objekttypen. Om du till exempel ändrar sidlayouten för Kontakter står Kontakt.
+   Namnet på den här rutan ändras beroende på objekttypen. Om du till exempel ändrar sidlayouten för Kontakter står Kontakt.
 
 1. Dubbelklicka på **Lead**-blocket som du nyss lade till.
 
@@ -158,8 +150,7 @@ Här är de steg du måste ta för att konfigurera Marketo Sales Insight i Sales
    ![](assets/image2014-9-24-17-3a34-3a26.png)
 
    >[!TIP]
-   >
-   >Vi rekommenderar en höjd på 410 pixlar för objekten Konton och Affärsmöjligheter.
+   Vi rekommenderar en höjd på 410 pixlar för objekten Konton och Affärsmöjligheter.
 
 1. Klicka på **Fält** till vänster. Sök och dra sedan etiketten **Engagement** till layouten **Marketo Sales Insight**.
 
@@ -167,31 +158,31 @@ Här är de steg du måste ta för att konfigurera Marketo Sales Insight i Sales
 
 1. Upprepa även ovanstående steg för dessa fält.
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1">Engagemang</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Relativt poängvärde</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Värde för nödsituationer</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Senaste intressanta datum</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Senaste intressanta tillfälle</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Källa för senaste intressanta stund</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Typ av senaste intressanta stund</p></td> 
-  </tr> 
- </tbody> 
-</table>
+   <table> 
+    <tbody> 
+     <tr> 
+      <td colspan="1">Engagemang</td> 
+     </tr> 
+     <tr> 
+      <td colspan="1" rowspan="1"><p>Relativt poängvärde</p></td> 
+     </tr> 
+     <tr> 
+      <td colspan="1" rowspan="1"><p>Värde för nödsituationer</p></td> 
+     </tr> 
+     <tr> 
+      <td colspan="1" rowspan="1"><p>Senaste intressanta datum</p></td> 
+     </tr> 
+     <tr> 
+      <td colspan="1" rowspan="1"><p>Senaste intressanta tillfälle</p></td> 
+     </tr> 
+     <tr> 
+      <td colspan="1" rowspan="1"><p>Källa för senaste intressanta stund</p></td> 
+     </tr> 
+     <tr> 
+      <td colspan="1" rowspan="1"><p>Typ av senaste intressanta stund</p></td> 
+     </tr> 
+    </tbody> 
+   </table>
 
 1. Klicka på **Spara** när du är klar.
 
@@ -203,7 +194,7 @@ Här är de steg du måste ta för att konfigurera Marketo Sales Insight i Sales
 
 ## Mappa anpassade personfält {#map-custom-person-fields}
 
-Marketo-personfält måste mappas till Salesforce-kontaktfält för att konverteringen ska fungera korrekt. Så här gör du.
+Marketo personfält måste mappas till Salesforce-kontaktfält för att säkerställa att konverteringen fungerar som den ska. Så här gör du.
 
 1. Klicka på **Inställningar**.
 
@@ -227,42 +218,42 @@ Marketo-personfält måste mappas till Salesforce-kontaktfält för att konverte
 
 1. Upprepa och mappa även dessa fält.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th colspan="1" rowspan="1">Marketo Person, anpassat fält</th> 
-   <th colspan="1" rowspan="1">Anpassat fält för Salesforce-kontakt</th> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Engagemang</p></td> 
-   <td colspan="1" rowspan="1"><p>Contact.Engagement</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Relativt poängvärde</p></td> 
-   <td colspan="1" rowspan="1"><p>Kontakt.Relativt poängvärde</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Värde för nödsituationer</p></td> 
-   <td colspan="1" rowspan="1"><p>Contact.Emergency Value</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Senaste intressanta datum</p></td> 
-   <td colspan="1" rowspan="1"><p>Kontakt.Senaste intressanta datum</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Senaste intressanta tillfälle</p></td> 
-   <td colspan="1" rowspan="1"><p>Kontakt.Senaste intressanta tillfälle</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Källa för senaste intressanta stund</p></td> 
-   <td colspan="1" rowspan="1"><p>Kontakt.Senaste intressanta tidskälla</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Typ av senaste intressanta stund</p></td> 
-   <td colspan="1" rowspan="1"><p>Kontakt.Senaste intressanta stund</p></td> 
-  </tr> 
- </tbody> 
-</table>
+   <table> 
+    <tbody> 
+     <tr> 
+      <th colspan="1" rowspan="1">Anpassat fält för Marketo-person</th> 
+      <th colspan="1" rowspan="1">Anpassat fält för Salesforce-kontakt</th> 
+     </tr> 
+     <tr> 
+      <td colspan="1" rowspan="1"><p>Engagemang</p></td> 
+      <td colspan="1" rowspan="1"><p>Contact.Engagement</p></td> 
+     </tr> 
+     <tr> 
+      <td colspan="1" rowspan="1"><p>Relativt poängvärde</p></td> 
+      <td colspan="1" rowspan="1"><p>Kontakt.Relativt poängvärde</p></td> 
+     </tr> 
+     <tr> 
+      <td colspan="1" rowspan="1"><p>Värde för nödsituationer</p></td> 
+      <td colspan="1" rowspan="1"><p>Contact.Emergency Value</p></td> 
+     </tr> 
+     <tr> 
+      <td colspan="1" rowspan="1"><p>Senaste intressanta datum</p></td> 
+      <td colspan="1" rowspan="1"><p>Kontakt.Senaste intressanta datum</p></td> 
+     </tr> 
+     <tr> 
+      <td colspan="1" rowspan="1"><p>Senaste intressanta tillfälle</p></td> 
+      <td colspan="1" rowspan="1"><p>Kontakt.Senaste intressanta tillfälle</p></td> 
+     </tr> 
+     <tr> 
+      <td colspan="1" rowspan="1"><p>Källa för senaste intressanta stund</p></td> 
+      <td colspan="1" rowspan="1"><p>Kontakt.Senaste intressanta tidskälla</p></td> 
+     </tr> 
+     <tr> 
+      <td colspan="1" rowspan="1"><p>Typ av senaste intressanta stund</p></td> 
+      <td colspan="1" rowspan="1"><p>Kontakt.Senaste intressanta stund</p></td> 
+     </tr> 
+    </tbody> 
+   </table>
 
 1. Klicka på **Spara** när du är klar.
 
@@ -277,32 +268,29 @@ Marketo-personfält måste mappas till Salesforce-kontaktfält för att konverte
    ![](assets/image2014-9-24-17-3a38-3a0.png)
 
    >[!NOTE]
-   >
-   >Om diagnostiktestet misslyckas kan du behöva [lägga till fler fält i sidlayouten](https://nation.marketo.com/docs/DOC-1115).
+   Om diagnostiktestet misslyckas kan du behöva [lägga till fler fält i sidlayouten](https://nation.marketo.com/docs/DOC-1115).
 
 Och det är allt! Du bör kunna se fälten Marketo Sales Insight för Leads, Contacts, Accounts och Opportunity.
 
 ![](assets/twenty-six.png)
 
 >[!NOTE]
->
->För konton kommer Sales Insight att inkludera alla e-postmeddelanden, men bara de senaste intressanta stunderna, webbaktiviteten och poängändringarna.
+För konton kommer Sales Insight att inkludera alla e-postmeddelanden, men bara de senaste intressanta stunderna, webbaktiviteten och poängändringarna.
 
-## Access Marketo Sales Insight {#access-marketo-sales-insight}
+## Öppna Marketo Sales Insight {#access-marketo-sales-insight}
 
-1. I Salesforce klickar du på **+** i slutet av flikfältet och klickar på **Marketo Sales Insight Config**.
+1. Klicka på **+** i slutet av flikfältet i Salesforce och klicka på **Marketo Sales Insight Config**.
 
 1. Markera kryssrutan **Aktivera Marketo API**.
 
-1. Kopiera inloggningsuppgifterna från Soap API-panelen på Marketos Sales Insight Admin-sida och klistra in dem i Soap API-avsnittet på Salesforce Sales Insight Configuration-sidan.
+1. Kopiera inloggningsuppgifterna från Soap API-panelen på Marketo Sales Insight Admin-sida och klistra in dem i Soap API-avsnittet på Salesforce Sales Insight Configuration-sidan.
 
-1. Kopiera inloggningsuppgifterna från panelen Rest API på Marketos Sales Insight Admin-sida och klistra in dem i delen Rest API på sidan Konfiguration av Salesforce Sales Insight.
+1. Kopiera inloggningsuppgifterna från panelen Rest API på Marketo Sales Insight Admin-sida och klistra in dem i delen Rest API på konfigurationssidan för Salesforce Sales Insight.
 
    ![](assets/access-msi.png)
 
 >[!MORELIKETHIS]
->
->* [Prioritet, Urklipp, Relativa poäng och Bästa val](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
->* [Lägg till Marketo Sales Insight-flik och knappar i Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
->* [Konfigurera Sales Insight för ditt team](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
+* [Prioritet, Urklipp, Relativa poäng och Bästa val](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
+* [Lägg till fliken och knapparna för Marketo Sales Insight i Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
+* [Konfigurera Sales Insight för ditt team](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
 
