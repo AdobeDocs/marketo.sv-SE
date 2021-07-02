@@ -2,9 +2,9 @@
 description: Överför ett Adobe Experience Cloud-segment till en Marketo Static List - Marketo Docs - Product Documentation
 title: Överför ett Adobe Experience Cloud-segment till en Marketo Static List
 hidefromtoc: true
-source-git-commit: f437495fbe004177f01c57729d97d2fec1f79509
+source-git-commit: 48ae62b56cf44f9e7874ed9134325e77c08bcaaf
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -79,12 +79,19 @@ Med den här funktionen kan du överföra segment som finns i din Adobe Experien
 
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-12.png)
 
-1. Välj det relevanta fält som innehåller den e-postadress som identifierar användaren. Klicka på **Välj** när du är klar.
+1. Välj antingen alternativknappen **Välj attribut** eller **Markera identitetsnamnområde** (i det här exemplet väljer vi Attribut).
 
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-13.png)
 
+   >[!NOTE]
+   >
+   >Om du valde **Välj identitetsnamnområde** går du vidare till steg 15 när du har gjort ditt val.
+
+1. Välj det relevanta fält som innehåller den e-postadress som identifierar användaren. Klicka på **Välj** när du är klar.
+
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-14.png)
 
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-15.png)
 
    >[!NOTE]
    >
@@ -92,19 +99,19 @@ Med den här funktionen kan du överföra segment som finns i din Adobe Experien
 
 1. Klicka på mappningsikonen.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-15.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-16.png)
 
 1. Välj målfält och klicka på **Välj**.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-16.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-17.png)
 
 1. Klicka på **Nästa**.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-17.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-18.png)
 
 1. _Skapa en statisk lista i Marketo_ eller sök efter och välj en som du redan har skapat. Kopiera mappnings-ID:t från slutet av URL:en.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-18.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-19.png)
 
    >[!NOTE]
    >
@@ -112,8 +119,8 @@ Med den här funktionen kan du överföra segment som finns i din Adobe Experien
 
 1. I Adobe Experience Platform anger du det ID du just kopierade. Välj startdatum. Människor synkroniseras kontinuerligt till det valda slutdatumet. Lämna slutdatumet tomt om du vill synkronisera oändligt. Klicka på **Nästa** när du är klar.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-19.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-20.png)
 
 1. Bekräfta ändringarna och klicka på **Slutför**.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-20.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-21.png)
