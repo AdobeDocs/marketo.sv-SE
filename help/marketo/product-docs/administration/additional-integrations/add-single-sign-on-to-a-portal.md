@@ -3,10 +3,9 @@ unique-page-id: 2360356
 description: Lägg till enkel inloggning på en portal - Marketo Docs - produktdokumentation
 title: Lägg till enkel inloggning på en portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
 workflow-type: tm+mt
-source-wordcount: '530'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -27,12 +26,12 @@ När enkel inloggning är aktiverad kan IdP validera användarens inloggningsupp
 >
 >Är du en Microsoft Azure-användare? Ta en titt på deras [självstudiekurs om integrering](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/).
 
-## Skicka begäran {#how-to-send-the-request}
+## Skicka förfrågan {#how-to-send-the-request}
 
 * Skicka SSO-begäran, som är ett SAML-svar, till `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
-* Som SP:s målgrupps-URL. Använd `https://saml.marketo.com/sp`
-* Om du använder SPNameQualifier-attributet anger du `https://saml.marketo.com/sp` för NameID-elementet för Subject
-* Om du federerar flera Marketo-prenumerationer till samma SSO-leverantör kan du använda unika SP-URL:er för varje Marketo-underordnad med formatet `https://saml.marketo.com/sp/<munchkin_id>`
+* Som SP:s målgrupps-URL. Använd `http://saml.marketo.com/sp`
+* Om du använder SPNameQualifier-attributet anger du `http://saml.marketo.com/sp` för NameID-elementet för Subject
+* Om du federerar flera Marketo-prenumerationer till samma SSO-leverantör kan du använda unika SP-URL:er för varje Marketo-underordnad med formatet `http://saml.marketo.com/sp/<munchkin_id>`
 
 >[!NOTE]
 >
@@ -108,6 +107,6 @@ SSO är inaktiverat som standard. Följ de här stegen för att aktivera SAML oc
 >[!MORELIKETHIS]
 >
 >* [Använda ett universellt ID för prenumerationsinloggning](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
->* [Begränsa användarinloggning till enbart enkel inloggning](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
->* [Bjud in Marketo-användare till två instanser med Universal ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+* [Begränsa användarinloggning till enbart enkel inloggning](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
+* [Bjud in Marketo-användare till två instanser med Universal ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
 
