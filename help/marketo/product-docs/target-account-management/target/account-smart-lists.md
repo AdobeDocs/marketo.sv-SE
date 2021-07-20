@@ -3,20 +3,20 @@ unique-page-id: 11378814
 description: Smarta kontolistor - Marketo Docs - produktdokumentation
 title: Smarta kontouppsättningar
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Smarta kontolistor {#account-smart-lists}
+# Smarta kontouppsättningar {#account-smart-lists}
 
 Så här identifierar du snabbt och korrekt dina värdefulla konton.
 
 >[!NOTE]
 >
->Den här funktionen är bara tillgänglig för användare med både TAM och Next-Gen i Adobe.
+>Den här funktionen är bara tillgänglig för dem som har både tillägget för målkontohantering och en licensierad TAM.
 
 ## Skapa en smart kontolista {#create-an-account-smart-list}
 
@@ -78,7 +78,7 @@ Och det är allt! Se avsnittet nedan för att se hur du kan använda din smarta 
 >
 >Precis som med vanliga smarta listor kan du använda avancerad logik för att förfina resultaten ytterligare. Du behöver minst tre filter för att göra det, och i Smarta listor för konto är en behållare (oavsett hur många filter den innehåller) lika med ett filter.
 
-## Åtgärder för smarta listor för konto {#account-smart-list-actions}
+## Åtgärder för smart lista för konto {#account-smart-list-actions}
 
 På fliken Översikt i den smarta kontolistan finns några åtgärdsalternativ.
 
