@@ -3,14 +3,14 @@ unique-page-id: 5472490
 description: Versionsschema - Marketo Docs - produktdokumentation
 title: Versionsschema
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 05a174096a6ecab0791799db0af9291e1aa61c08
+source-git-commit: 3ccba65f76fa658dabb179d2ccc090ba71a948dd
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
-# Frigör schema {#release-schedule}
+# Versionsschema {#release-schedule}
 
 **Version**: Marketo använder ett större kvartalsvis utgivningsschema. När versionsinformationen är tillgänglig länkas den till tabellen nedan.
 
@@ -48,7 +48,7 @@ _Releasedatum kan komma att ändras_
   </tr> 
   <tr> 
    <td colspan="1">21 augusti</td> 
-   <td colspan="1">13 augusti 2021</td> 
+   <td colspan="1">20 augusti 2021</td> 
    <td colspan="1">Pågår</td> 
   </tr> 
   <tr> 
