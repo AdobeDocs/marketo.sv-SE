@@ -1,16 +1,16 @@
 ---
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
-source-git-commit: f7750809ede818f9ce9562b161327d9b6c7b4973
+source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
 workflow-type: tm+mt
-source-wordcount: '1064'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Versionsinformation: Augusti 2021 {#release-notes-aug-21}
 
-Följande funktioner finns i versionen från 21 augusti. Se om det finns funktioner i din Marketo-utgåva.
+Följande funktioner finns i versionen från 21 augusti. Se om det finns funktioner i Marketo Engage.
 
 >[!AVAILABILITY]
 >
