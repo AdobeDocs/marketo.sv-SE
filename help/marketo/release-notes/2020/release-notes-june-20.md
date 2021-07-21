@@ -3,15 +3,14 @@ unique-page-id: 37357276
 description: Versionsinformation -juni 20 - Marketo Docs - produktdokumentation
 title: Versionsinformation -juni 20
 exl-id: ffc39c9f-8c0c-45af-8ee6-f58971e230b9
-translation-type: tm+mt
-source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
+source-git-commit: 6679e1e0bdb53d3f330c15415a5fbe38f61d28d2
 workflow-type: tm+mt
 source-wordcount: '1071'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: 20 juni {#release-notes-june}
+# Versionsinformation: Juni 20 {#release-notes-june}
 
 Följande funktioner finns i versionen från 20 juni. Se om det finns funktioner i din Marketo-utgåva.
 
@@ -57,11 +56,11 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 * **Filter och förbättringar** för bizible Discover: Analysera era data med kanal-, delkanal-, kampanj- och segmentfilter i olika paneler. Förstärk datainsynen med fler fördjupningsattribut. Detta är en förbättring av våra Discover Boards.
 * **Synkronisering av aktiviteter för Microsoft Dynamics**: Attribuera säljinteraktioner genom att föra in Microsoft Dynamics CRM-aktiviteter till kontaktpunktsresan och spåra händelser som samtal, avtalade tider eller uppgifter som är kopplade till dina leads eller kontakter. Förbättring av vår Microsoft Dynamics CRM-integrering.
 
-## Sales Insight {#sales-insight}
+## Försäljningsinsikter {#sales-insight}
 
 ![(stjärna)](assets/yellow-star.png)
 
-* **[Insikter för kontrollpanel för Salesforce CRM](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)**: Vi förnyar vår säljinsiktsförmåga med ny synlighet i kommande marknadsföringsevenemang och kampanjer för att ge säljarna möjlighet att göra rekommendationer mer relevanta för kunder och potentiella kunder baserat på deras behov och intressen. Säljarna kan även se både kontakt- och kontoaktivitet på tidslinjen och enkelt få tillgång till ytterligare aktivitetsinformation. Mer information om hur du uppgraderar ditt paket [här](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md).
+* **[Insikter för kontrollpanel för Salesforce CRM](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)**: Vi förnyar vår säljinsiktsförmåga med ny synlighet i kommande marknadsföringsevenemang och kampanjer för att ge säljarna möjlighet att göra rekommendationer mer relevanta för kunder och potentiella kunder baserat på deras behov och intressen. Säljarna kan även se både kontakt- och kontoaktivitet på tidslinjen och enkelt få tillgång till ytterligare aktivitetsinformation. Mer information om hur du uppgraderar ditt paket [här](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
 <br> 
 
