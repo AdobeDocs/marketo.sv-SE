@@ -1,20 +1,19 @@
 ---
 description: Använda Global Search - Marketo Docs - produktdokumentation
 title: Använda den globala sökningen
-translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
+source-git-commit: 0c02488adc6b79adff75650a9ffe11c1e596941c
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '257'
 ht-degree: 1%
 
 ---
 
-
 # Använda den globala sökningen {#using-the-global-search}
 
-Den kraftfulla globala sökningen ger dig många alternativ. Vi går igenom dem.
+Den kraftfulla globala sökningen ger dig många alternativ utan någon begränsning av hur resultatet visas.
 
-## Slutföra resultat automatiskt {#autocomplete-results}
+## Fyll i resultat automatiskt {#autocomplete-results}
 
 Ibland kan du snabbt se exakt vad du söker efter när du fyller i automatiskt.
 
@@ -38,7 +37,7 @@ Du dirigeras direkt till önskad lista.
 
 ![](assets/using-the-global-search-5.png)
 
-## Globala sökresultat {#global-search-results}
+## Resultat av global sökning {#global-search-results}
 
 Använd den fullständiga sökningen om resultaten från den automatiska sökningen inte visar vad du söker.
 
@@ -57,7 +56,7 @@ Använd den fullständiga sökningen om resultaten från den automatiska söknin
 <table> 
  <tbody>
   <tr>
-   <td>1</td> 
+   <td>3</td> 
    <td>Första (eller enda) sidan av alla sökresultat klickar du var som helst i någon av de vägbeskrivningar som ska tas rakt till det området</td> 
   </tr>
   <tr>
@@ -65,8 +64,8 @@ Använd den fullständiga sökningen om resultaten från den automatiska söknin
    <td>Datum/gånger som objektet skapades/senast ändrades</td> 
   </tr>
   <tr>
-   <td>3</td> 
-   <td>Välj ett särskilt Marketto-avsnitt som du vill söka i eller söka i alla samtidigt</td> 
+   <td>1</td> 
+   <td>Välj ett särskilt Marketo-huvudavsnitt att söka i eller söka i alla samtidigt</td> 
   </tr>
   <tr>
    <td>4</td> 
