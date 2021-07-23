@@ -2,10 +2,9 @@
 description: Översikt - Marketo Docs - produktdokumentation
 title: Översikt
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-translation-type: tm+mt
-source-git-commit: b5d5e5895ca315976650123875777fe43854ea60
+source-git-commit: 0c02488adc6b79adff75650a9ffe11c1e596941c
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '492'
 ht-degree: 1%
 
 ---
@@ -58,6 +57,10 @@ Du har också snabb åtkomst till ditt munchkin-ID, som nu återspeglas i instan
 ## Alternativ för nytt träd {#new-tree-options}
 
 Det finns massor av nya trädfunktioner.
+
+>[!NOTE]
+>
+>Om du gör en sökning i trädet visas bara de första 250 resultaten. Om du inte kan hitta resursen efter en sökning använder du funktionen [Global sökning](/help/marketo/product-docs/marketo-engage-next-generation-experience/using-the-global-search.md).
 
 **Marketo Classic jämfört med nya Marketo**
 
