@@ -3,21 +3,24 @@ unique-page-id: 10098625
 description: Förstå Microsoft Dynamics Sync - Marketo Docs - produktdokumentation
 title: Förstå Microsoft Dynamics Sync
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 80651a7d3d416f27ef13184b11757943c98bd781
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
 
-# Förstå Microsoft Dynamics-synkronisering {#understanding-the-microsoft-dynamics-sync}
+# Förstå Microsoft Dynamics Sync {#understanding-the-microsoft-dynamics-sync}
 
 Marketo och Microsoft Dynamics går ihop. Vi synkroniserar era sälj- och marknadsföringsdata.
 
 >[!NOTE]
 >
 >Marketo stöder endast SSL-certifikat som för närvarande är kompatibla med Java 7.
+
+>[!CAUTION]
+>
+>Vi stöder för närvarande inte uppdatering av sandlådan för Marketo Dynamics Sync. Om du behöver uppdatera din Dynamics CRM-sandlåda krävs en ny Marketo-sandlåda. Kontakta din Customer Success Manager om du vill ha mer information.
 
 ## Så här fungerar Synkronisera {#how-sync-works}
 
@@ -39,10 +42,8 @@ Synkroniseringen mellan Marketo och Dynamics är dubbelriktad för leads och kon
 * [Möjligheter](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
 * [Anpassade entiteter](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)
 
+De [autentiseringsuppgifter du anger i Marketo för Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) används för att synkronisera data.
+
 >[!NOTE]
 >
->De [autentiseringsuppgifter du anger i Marketo för Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) används för att synkronisera data.
-
->[!CAUTION]
->
->Vi stöder för närvarande inte uppdatering av sandlådan för Marketo Dynamics Sync. Om du behöver uppdatera din Dynamics CRM-sandlåda krävs en ny Marketo-sandlåda. Kontakta din Customer Success Manager om du vill ha mer information.
+>Instanskopiering stöds inte om källinstansen är integrerad med Microsoft Dynamics.
