@@ -3,17 +3,16 @@ unique-page-id: 1147114
 description: Anpassade fälttoken för programmedlem - Marketo Docs - produktdokumentation
 title: Anpassade fälttoken för programmedlem
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 30f56d93dfd5a600ef3ea75d352ede12c6104940
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
 
 # Anpassade fälttoken för programmedlem {#program-member-custom-field-tokens}
 
-## Token Support för anpassade fält för programmedlemmar {#token-support-for-program-member-custom-fields}
+## Token Support för anpassade programmedlemsfält {#token-support-for-program-member-custom-fields}
 
 På baksidan av funktionerna för anpassade fält för programmedlemmar utökas stödet för anpassade fält för programmedlemmar i tokenramverk.
 
@@ -24,7 +23,7 @@ Medlemstoken används för fält som omfattas av programmedlemmens tillämpnings
 >[!NOTE]
 >
 >* Anpassade fält för programmedlemmar kan bara användas i ett program.
->* Det går inte att använda token för anpassade fält för programmedlemmar i: e-postskript, förrubrik för e-post, datumtoken i väntesteg eller kodfragment.
+>* Det går inte att använda token för anpassade fält för programmedlemmar i: e-postförhuvud, datumtoken i väntesteg eller kodfragment.
 >* Programmedlemmens status stöds inte i medlemstoken.
 
 
