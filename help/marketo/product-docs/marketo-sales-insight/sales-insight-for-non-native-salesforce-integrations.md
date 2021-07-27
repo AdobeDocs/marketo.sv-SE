@@ -1,15 +1,14 @@
 ---
 unique-page-id: 45417125
-description: Sales Insight for Non-Native Salesforce Integrations - Marketo Docs - Produktdokumentation
+description: Sales Insight for Non-Native Salesforce Integrations - Marketo Docs - Product Documentation
 title: Sales Insight for Non-Native Salesforce Integrations
-translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+exl-id: a771ecdf-c610-44e4-9e93-7fdcc9d79f4b
+source-git-commit: 73c5375c6e2ec3b2dce09595be1f61f302ff4c25
 workflow-type: tm+mt
-source-wordcount: '1277'
+source-wordcount: '1300'
 ht-degree: 0%
 
 ---
-
 
 # Sales Insight for Non-Native Salesforce Integrations {#sales-insight-for-non-native-salesforce-integrations}
 
@@ -17,7 +16,7 @@ Om ditt Marketo-konto är anslutet till Salesforce via en anpassad eller icke-in
 
 >[!PREREQUISITES]
 >
->* Funktionsflaggan&quot;MSI Non-Native&quot; aktiverad för din Marketo-instans innan du börjar konfigurera MSI (om den inte är det kontaktar du din Customer Success Manager).
+>* Funktionen &quot;MSI Non-Native&quot; (för icke-inbyggd) aktiverad för din Marketo-instans innan du börjar konfigurera MSI (om den inte redan är aktiverad och du redan har köpt funktionen kontaktar du [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support) - om du ännu inte har köpt den här funktionen kontaktar du din Customer Success Manager).
 >* Ett Salesforce-konto med [MSI-paket konfigurerat](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md).
 >* Marketo REST API [har konfigurerats](https://developers.marketo.com/rest-api/). De exponerade CRUD-API:erna kommer att utgöra grunden för den icke-ursprungliga synkroniseringen.
 >* Läs [det här blogginlägget](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/) för att få en förståelse för objektet och relationerna.
@@ -26,7 +25,7 @@ Om ditt Marketo-konto är anslutet till Salesforce via en anpassad eller icke-in
 
 >[!NOTE]
 >
->Det går inte att använda REST API-konfigurationen i Marketo MSI Admin Panel för icke-inbyggd synkronisering.
+>Det går inte att använda REST API-konfigurationen i administratörspanelen för Marketo MSI för icke-inbyggd synkronisering.
 
 ## Lyckad icke-inbyggd synkronisering för MSI kräver följande {#successful-non-native-sync-for-msi-requires-the-following}
 
@@ -42,14 +41,14 @@ Om ditt Marketo-konto är anslutet till Salesforce via en anpassad eller icke-in
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Marketo Sales Person Field</strong></td> 
+   <td><strong>Fält för Marketo-säljare</strong></td> 
    <td><strong>Användarfält för Salesforce-försäljning</strong></td> 
    <td><strong>Beskrivning</strong></td> 
   </tr> 
   <tr> 
    <td>externalSalesPersonId</td> 
    <td>Salesforce Sales User case-insensitive global unique identifier</td> 
-   <td><p>Identifierar Marketo-säljpersonsposten till ett externt Salesforce-försäljningsanvändarobjekt.</p><p>Försäljaren måste synkroniseras först innan de andra objekten synkroniseras så att rätt relationer skapas.</p></td> 
+   <td><p>Identifierar posten för Marketo-säljare till ett externt Salesforce-försäljningsanvändarobjekt.</p><p>Försäljaren måste synkroniseras först innan de andra objekten synkroniseras så att rätt relationer skapas.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -81,7 +80,7 @@ API-dokumentation för synkronisering av säljaren: [https://developers.marketo.
   <tr> 
    <td>externalSalesPersonId</td> 
    <td>Salesforce Sales User case-insensitive global unique identifier</td> 
-   <td>Identifierar en Marketo-företagspost till ett externt Salesforce-användarobjekt som är kontoägare.<br><br>Används även inom Marketo för att associera företaget med den säljare som äger företagsposten. Säljaren måste synkroniseras först innan du anger det här fältet.</td> 
+   <td>Identifierar en företagspost för Marketo till ett externt Salesforce-användarobjekt som är kontoägare.<br><br>Används också inom Marketo för att associera företaget med den säljare som äger företagsposten. Säljaren måste synkroniseras först innan du anger det här fältet.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -91,7 +90,7 @@ API-dokumentation för företag: [https://developers.marketo.com/rest-api/lead-d
 
 1. Synkronisera Salesforce-leads/kontakter till Marketo.
 
-   Du måste infoga en Marketo Lead för Salesforce Lead/Contact. Fälten _externalPersonId_, _externalSalesPersonId_ och _externalCompanyId_ måste anges för att leadet ska kunna skickas.
+   Du måste ange en Marketo-lead för Salesforce-lead/kontakt. Fälten _externalPersonId_, _externalSalesPersonId_ och _externalCompanyId_ måste anges för att leadet ska kunna skickas.
 
 <table> 
  <colgroup> 
@@ -101,7 +100,7 @@ API-dokumentation för företag: [https://developers.marketo.com/rest-api/lead-d
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Marketo Lead-fält</strong></td> 
+   <td><strong>Marketo Lead Field</strong></td> 
    <td><strong>Lead-/kontaktfält för Salesforce</strong></td> 
    <td><strong>Beskrivning</strong></td> 
   </tr> 
@@ -113,12 +112,12 @@ API-dokumentation för företag: [https://developers.marketo.com/rest-api/lead-d
   <tr> 
    <td>externalSalesPersonId</td> 
    <td>Salesforce Sales User case-insensitive global unique identifier</td> 
-   <td>Identifierar det externa Salesforce-objektet Försäljningsanvändare som äger denna lead/kontakt.<br><br>Relaterar även leadet till säljaren i Marketo. Säljaren måste synkroniseras korrekt först.</td> 
+   <td>Identifierar det externa Salesforce-objektet Försäljningsanvändare som äger denna lead/kontakt.<br><br>Kopplar även lead till säljaren i Marketo. Säljaren måste synkroniseras korrekt först.</td> 
   </tr> 
   <tr> 
    <td>externalCompanyId</td> 
    <td>Salesforce-kontots skiftlägeskänsliga globalt unika identifierare</td> 
-   <td>Identifierar det externa Salesforce-kontoobjektet som lead/kontakt tillhör.<br><br>Relaterar även lead-posten till ett företag i Marketo. Salesforce-kontot måste först synkroniseras korrekt.</td> 
+   <td>Identifierar det externa Salesforce-kontoobjektet som lead/kontakt tillhör.<br><br>Även relaterar lead-posten till ett företag i Marketo. Salesforce-kontot måste först synkroniseras korrekt.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -128,7 +127,7 @@ API-dokumentation för synkronisering av leads:  [https://developers.marketo.com
 
 1. Synkronisera Salesforce-affärsmöjligheter med Marketo.
 
-   Du måste infoga en marknadsföringsmöjlighet för Salesforce-affärsmöjligheten. Fälten _externalOpportunityId_, _externalCompanyId_ och _externalSalesPersonId_ är obligatoriska för att bekräfta säljprojektet.
+   Du måste bekräfta en Marketo-möjlighet för Salesforce-säljprojektet. Fälten _externalOpportunityId_, _externalCompanyId_ och _externalSalesPersonId_ är obligatoriska för att bekräfta säljprojektet.
 
 <table> 
  <colgroup> 
@@ -138,14 +137,14 @@ API-dokumentation för synkronisering av leads:  [https://developers.marketo.com
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Marketo-säljprojektsobjektfält</strong></td> 
+   <td><strong>Marketo Opportunity Object Field</strong></td> 
    <td><strong>Salesforce-objektfält för affärsmöjlighet</strong></td> 
    <td><strong>Beskrivning</strong></td> 
   </tr> 
   <tr> 
    <td>externalOpportunityId</td> 
    <td>Salesforce Lead/Contact case-insensitive global unique identifier</td> 
-   <td>Identifierar Marketo-säljprojektsposten till ett externt Salesforce-säljprojektsobjekt.</td> 
+   <td>Identifierar posten för Marketo-säljprojekt till ett externt Salesforce-objekt för säljprojekt.</td> 
   </tr> 
   <tr> 
    <td>externalCompanyId</td> 
@@ -175,19 +174,19 @@ API-dokumentation för säljprojekt: [`https://developers.marketo.com/rest-api/l
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Marketo-säljprojektsrollfält</strong></td> 
+   <td><strong>Rollfält för Marketo-säljprojekt</strong></td> 
    <td><strong>Salesforce-kontaktrollfält</strong></td> 
    <td><strong>Beskrivning</strong></td> 
   </tr> 
   <tr> 
    <td>externalOpportunityId</td> 
    <td>Salesforce-ärendeokänslig global unik identifierare</td> 
-   <td>Identifierar Marketo-säljprojektsrollen till ett externt Salesforce-säljprojektsobjekt.<br><br>Salesforce-säljprojektet måste synkroniseras korrekt först.</td> 
+   <td>Identifierar Marketo-säljprojektsrollen för ett externt Salesforce-säljprojektsobjekt.<br><br>Salesforce-säljprojektet måste synkroniseras korrekt först.</td> 
   </tr> 
   <tr> 
    <td>leadId</td> 
-   <td>Ej tillämpligt, detta skulle vara ett Marketo Lead ID</td> 
-   <td>Detta är Marketo Lead ID för den synkroniserade Salesforce-kontakten.<br><br>När kontakten har synkroniserats i Marketo kan du använda den globalt unika identifieraren, som inte är skiftlägeskänslig för Salesforce, som externalPersonId och frågan för Marketo Lead med hjälp av Marketo REST API.</td> 
+   <td>Ej tillämpligt, det här skulle vara ett Marketo lead-ID</td> 
+   <td>Detta är Marketo lead-ID för den synkroniserade Salesforce-kontakten.<br><br>När kontakten har synkroniserats i Marketo kan du använda den globalt unika identifieraren, som inte är skiftlägeskänslig för Salesforce, som externalPersonId och fråga för Marketo Lead med hjälp av Marketo REST API.</td> 
   </tr> 
   <tr> 
    <td>roll</td> 
@@ -202,9 +201,9 @@ API-dokumentation för säljprojekt: [`https://developers.marketo.com/rest-api/l
 
 1. Synkronisera senast intressanta stund-/MSI-bedömningsfält till SFDC.
 
-   När Salesforce-objekten har synkroniserats korrekt till Marketo kan du sedan utnyttja MSI-funktionerna. Fälten Senaste intressanta MSI-stund/poäng visas i REST API för leads. Dessa fält beräknas av MSI och är skrivskyddade.
+   När dina Salesforce-objekt har synkroniserats korrekt till Marketo kan du dra nytta av MSI-funktionerna. Fälten Senaste intressanta MSI-stund/poäng visas i REST API för leads. Dessa fält beräknas av MSI och är skrivskyddade.
 
-   Fälten Senaste intressanta stund/poäng i en Marketo Lead måste synkroniseras regelbundet till Salesforce med REST API Lead-slutpunkten. Fråga den här slutpunkten efter en Marketo Lead med hjälp av _externalPersonId_ som filterType och som skickas i Salesforce Lead GUID som filterValue.
+   Fälten Senaste intressanta stund/poäng i en Marketo Lead måste synkroniseras regelbundet till Salesforce med REST API Lead-slutpunkten. Fråga den här slutpunkten efter en Marketo Lead med _externalPersonId_ som filterType och skicka som filterValue i Salesforce Lead GUID.
 
    | GET /rest/v1/leads.json?filterType=externalPersonId&amp;filterValues=salesforceLeadId1,salesforceLeadId2 |
    |---|
@@ -219,7 +218,7 @@ API-dokumentation för säljprojekt: [`https://developers.marketo.com/rest-api/l
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Marketo Lead-fält</strong></td> 
+   <td><strong>Marketo Lead Field</strong></td> 
    <td><strong>Lead-/kontaktfält för Salesforce</strong></td> 
    <td><strong>Beskrivning</strong></td> 
   </tr> 
@@ -263,4 +262,4 @@ API-dokumentation för säljprojekt: [`https://developers.marketo.com/rest-api/l
 
 Dokumentation för Lead REST API: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET).
 
-Korrekt användning av de externa fälten är avgörande för en lyckad icke-inbyggd synkronisering. Om du inte ser data i vissa vyer är det troligt att ett visst fält inte synkroniserades korrekt. Om t.ex. en leads aktiviteter och intressanta stunder inte visas när du tittar i MSI-widgeten under deras konto, är det troligt att antingen lead-företagets företag eller kontot inte synkroniserades korrekt. Om du utför en GET-begäran för denna lead samtidigt som du anger externa fält kan du kontrollera om leadet synkroniserades korrekt. E-postmeddelandet för den externa säljaren i Marketo måste dessutom matcha e-postmeddelandet för den användaren i Salesforce. Data kanske inte visas på Marketo-fliken i Salesforce om e-postmeddelandena inte matchar.
+Korrekt användning av de externa fälten är avgörande för en lyckad icke-inbyggd synkronisering. Om du inte ser data i vissa vyer är det troligt att ett visst fält inte synkroniserades korrekt. Om t.ex. en leads aktiviteter och intressanta stunder inte visas när du tittar i MSI-widgeten under deras konto, är det troligt att antingen lead-företagets företag eller kontot inte synkroniserades korrekt. Om du utför en GET-begäran för denna lead samtidigt som du anger externa fält kan du kontrollera om leadet synkroniserades korrekt. E-postmeddelandet för den externa säljaren i Marketo måste dessutom matcha e-postmeddelandet för den användaren i Salesforce. Data kanske inte visas på fliken Marketo i Salesforce om e-postmeddelandena inte matchar.
