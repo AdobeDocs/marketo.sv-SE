@@ -1,9 +1,9 @@
 ---
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
-source-git-commit: c98e265e0a4548821ffb291b4f4918f3c49f458d
+source-git-commit: 97f6aeeb5c808df780b9b7bafd1bea5b1b805e5a
 workflow-type: tm+mt
-source-wordcount: '1067'
+source-wordcount: '974'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,6 @@ Följande funktioner finns i versionen från 21 augusti. Se om det finns funktio
 Följande funktioner kommer att släppas den **20 augusti 2021**.
 
 ## Adobe Experience Platform Integration {#adobe-experience-platform-integration}
-
-* **Adobe Experience Platform Connector för att dela målgrupper med Marketo Engage**: Möjliggör flerkanalskampanjsamordning i Marketo Engage för målgruppssegment som skapats i Adobe Experience Cloud via inbyggd målanslutning. Kopplingen använder e-postadresser för att matcha Adobe Experience Platform-profiler mot ledprofiler i Marketo Engage, vilket ger en mycket korrekt segmentdelning mellan program. Statiska Marketo Engage-listor skapas automatiskt och gör det möjligt för marknadsförare att nå målgrupper med personaliserade meddelanden eller starta arbetsflöden. Aktivera målgrupper genom att utnyttja sitt konto och sin säljsituation och mer kompletta realtidsdata i Experience Platform.
 
 * **Autentisering av Marketo Engage via Adobe-identitet**: Från och med september 2021 kommer nya användare i Marketo Engage med Enterprise-paket att introduceras med Adobe ID inloggningsuppgifter. Migrering av nuvarande användare till det integrerade identitetssystemet kommer inte att ske förrän i mitten av 2022 och inga åtgärder krävs förrän ytterligare varningar skickas. Autentisering av användare med Adobe-identitet gör det möjligt för IT-/säkerhetsadministratörer att hantera flera produktinstanser av Marketo Engage tillsammans med andra Experience Cloud-lösningar samt konfigurera enkel inloggning via en gemensam konsol. Administratörer kan enkelt hantera användargrupper och användarrättigheter på ett och samma ställe.
 
