@@ -1,9 +1,9 @@
 ---
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
-source-git-commit: 97f6aeeb5c808df780b9b7bafd1bea5b1b805e5a
+source-git-commit: c4dcf9a69dfb25a689175be6f1ff01d9dc21ad27
 workflow-type: tm+mt
-source-wordcount: '974'
+source-wordcount: '983'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,11 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 
 ![(stjärna)](assets/yellow-star.png)
 
-* **GGA (Email Connection Throttling)**: Förbättra e-postleveransen och skräddarsy skräddarsydd säljkommunikation med e-postanslutningsbegränsning för Sales Connect. Den nya tekniken hanterar automatiskt e-posttajmning för att skapa sömlösa upplevelser för Exchange- och Gmail-användare. Minska eller eliminera användningen av massutskick av e-postprogram från tredje part och skicka alla e-postmeddelanden från Sales Connect utan problem.
+* **Begränsning av e-postanslutning (beta)**: Förbättra e-postleveransen och skräddarsy skräddarsydd säljkommunikation med e-postanslutningsbegränsning för Sales Connect. Den nya tekniken hanterar automatiskt e-posttajmning för att skapa sömlösa upplevelser för Exchange- och Gmail-användare. Minska eller eliminera användningen av massutskick av e-postprogram från tredje part och skicka alla e-postmeddelanden från Sales Connect utan problem.
+
+>[!NOTE]
+>
+>E-postbegränsning finns nu i Beta. [Läs mer](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
 * **Förbättrade insikter** om försäljningsaktivitet: Hämta in och aktivera personaliserat engagemang baserat på säljteamets tidigare aktiviteter. Nya attribut som länken Försäljningssamtalsinspelning, Försäljningskampanjnamn och E-postärende kan användas i smarta listor i Marketo Engage.  Dessa aktiviteter kan exporteras och rapporteras via Marketo Engage REST API eller gruppexport och är tillgängliga för filter och utlösare som ytterligare begränsningar för smarta listor.
 
