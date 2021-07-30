@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: a8f212ba7389837f3299dad5aed6b085e9ffef76
+source-git-commit: 99d30f70d83df16a14c874f6ed5cc215a9e76705
 workflow-type: tm+mt
 source-wordcount: '8047'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 + [Startsida](home.md)
 + Komma igång med Marketo {#getting-started-with-marketo}
-   + [Komma igång](getting-started/getting-started.md)
+   + [Komma igång](getting-started.md)
    + [Vad är Adobe Marketo Engage?](getting-started/what-is-adobe-marketo-engage.md)
    + [Marketo-ordlista](getting-started/marketo-glossary.md)
    + [Ikonordlista](getting-started/icon-glossary.md)
@@ -810,7 +810,7 @@ ht-degree: 0%
                + [Mall 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [Mall 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Mall 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Mall 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Mall 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Mall 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Mall 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Mall 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
