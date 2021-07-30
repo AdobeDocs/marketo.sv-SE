@@ -1,7 +1,7 @@
 ---
 description: Guiden Komma igång för Sales Connect Admins - Marketo Docs - produktdokumentation
 title: Starthandbok för Sales Connect-administratörer
-source-git-commit: 355c56a22f5eebaf7216de6288a97dba00bef72e
+source-git-commit: b18b2172e2c20cdb740854924a48fc996caf59f9
 workflow-type: tm+mt
 source-wordcount: '479'
 ht-degree: 0%
@@ -36,23 +36,23 @@ Följ stegen i [den här artikeln](/help/marketo/product-docs/marketo-sales-conn
 
 ![](assets/getting-started-guide-for-sales-connect-admins-3.png)
 
-## Ansluter till Marketo {#connecting-to-marketo}
+## Ansluta till Marketo {#connecting-to-marketo}
 
 Om ni ansluter till Marketo kan era säljare utnyttja kraften i marknadsföringsautomatisering och marknadsföringsinsikter i sina prospekteringsinsatser. Följande funktioner kräver att du konfigurerar en integrering med Marketo.
 
 * Dela [marknadsföringskampanjer](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md) med säljare
-* Skjut [Intressanta stunder](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md) till Live-feed
+* Skjut [Intressanta stunder](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) till Live-feed
 * Loggar säljaktiviteter till Marketo
 
 Klicka här om du vill veta mer om hur du ansluter till Marketo och ger säljarna åtkomst till anslutningen.
 
-## Installerar Salesforce-anpassningspaketet {#installing-salesforce-customization-package}
+## Installerar Salesforce-anpassningspaket {#installing-salesforce-customization-package}
 
 En del av att säkerställa att försäljningen är aktiverad för framgång är att ha rätt funktioner på sin primära arbetsyta. Anpassningspaketet Sales Connect gör att engagemangsfunktioner och viktiga attribut för försäljningsaktivitet kan nås från Salesforce.
 
 Om du vill veta mer om hur du installerar Sales Connect Customization [klickar du här](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
 
-## Testar i sandlådan {#testing-in-sandbox}
+## Testning i sandlådan {#testing-in-sandbox}
 
 För team som vill testa Marketo Sales Connect med sin Marketo Sandbox kan ytterligare ett Sales Connect-konto etableras på begäran. Detta gäller endast kunder som har köpt en Marketo Sandbox, eller kunder som har den som en del av deras Marketo-paket. Kontakta din kontoansvarige på Marketo om du är intresserad av att köpa en sandlåda.
 
