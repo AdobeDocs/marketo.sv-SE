@@ -1,9 +1,9 @@
 ---
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
-source-git-commit: 47b1a8fe0adfd3b26b3fad7821b45e9a0b6f61bf
+source-git-commit: 45d489ed52f6a114514c79c234ff30567f4aff96
 workflow-type: tm+mt
-source-wordcount: '957'
+source-wordcount: '942'
 ht-degree: 0%
 
 ---
@@ -36,11 +36,9 @@ Följande funktioner kommer att släppas den **20 augusti 2021**.
 
 * **API** för metadata för anpassade fält: Effektivisera framtagning och hantering av anpassade fält i Marketo Engage för partnerintegreringar. Skapa nya fält på ett lead-objekt automatiskt och gör fältuppdateringar i flera Marketo Engage-instanser omedelbart och samtidigt.
 
-* **Förbättrad filtrering**: Flera API:er har nu stöd för mer filtrering, som att lägga till ett datumintervallfilter i e-postresurser och programmedlemsfält.
-
 * **Skicka formulär-API**: När en e-postadress dupliceras i två eller flera Lead-poster uppdaterar vi posten&quot;senast uppdaterad&quot; i stället för att hoppa över helt. Ger paritet med Forms 2.0 API.
 
-* **E-post-API**: Hämta e-postresurser för mästare eller utmanare.
+* **E-post-API**: Hämta e-postresurser för mästare eller utmanare. Hämta e-postresurser med datumintervallfilter.
 
 **_Frigör under hela kvartalet_**
 
