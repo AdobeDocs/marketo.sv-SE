@@ -3,10 +3,10 @@ description: Säljaktivitetsordlista - Marketo Docs - produktdokumentation
 title: Ordlista för försäljningsaktivitet
 hide: true
 hidefromtoc: true
-source-git-commit: 70f17106efe52ee742c8e31013e533fc36ce9835
+source-git-commit: 665e7985970734ee17a2fee5974bafa59ecd4aa3
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 3%
+source-wordcount: '416'
+ht-degree: 2%
 
 ---
 
@@ -60,7 +60,7 @@ Aktiviteterna nedan loggas till Marketo från Sales Connect.
  <tr>
   <td>Mall-ID</td>
  </tr>
- <tr>
+<tr>
   <th rowspan="2">Mottaget e-postmeddelande</th>
   <td>Mottaget av</td>
  </tr>
@@ -150,6 +150,74 @@ Aktiviteterna nedan loggas till Marketo från Sales Connect.
   <th>Beskrivning</th>
  </tr>
  <tbody> 
+ <tr> 
+   <td><strong>Detaljer</strong></td> 
+   <td>Information om studsfelmeddelande.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>E-post</strong></td> 
+   <td>E-postadress som studsade.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Länk</strong></td> 
+   <td>URL som användaren klickade på.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Mottaget av</strong></td> 
+   <td>E-postadress till den person som skickade e-postmeddelandet.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Försäljningssamtal besvarat av</strong></td> 
+   <td>Namn på den person som besvarade samtalet.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Försäljningssamtalets längd</strong></td> 
+   <td>Anropets längd i sekunder.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Försäljningssamtal gjort av</strong></td> 
+   <td>E-postadress till den säljare som ringde samtalet.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Inspelnings-URL för försäljningssamtal</strong></td> 
+   <td>URL för samtalsinspelning.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Försäljningssamtalsstatus</strong></td> 
+   <td>Sparar samtalets slutliga samtalsstatus, som omfattar: slutförd, inget svar, avbruten, misslyckades.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Försäljningssamtalets ämne</strong></td> 
+   <td>Samtalsresultat som valts av en säljare i återförsäljaren.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Försäljningskampanj-ID</strong></td> 
+   <td>Unikt ID för försäljningskampanjtillgång i Sales Connect.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Namn på försäljningskampanj</strong></td> 
+   <td>Namn på försäljningskampanj.</td> 
+  </tr>
+  <tr> 
+   <td><strong>URL för försäljningskampanj</strong></td> 
+   <td>Sales Connect URL för Sales Campaign.</td> 
+  </tr>
+  <tr> 
+   <td><strong>E-postämne för försäljning</strong></td> 
+   <td>Ämnesrad för e-post.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Telefonnummer till försäljning har anropats</strong></td> 
+   <td>Telefonnummer som anropas av Försäljning.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Namn på försäljningsmall</strong></td> 
+   <td>Namn på e-postmall i Sales Connect.</td> 
+  </tr>
+  <tr> 
+   <td><strong>URL för försäljningsmall</strong></td> 
+   <td>Sales Connect URL för e-postmall.</td> 
+  </tr>
   <tr> 
    <td><strong>Skickat av</strong></td>
    <td>E-postadress till den person som skickade e-postmeddelandet.</td> 
@@ -162,18 +230,6 @@ Aktiviteterna nedan loggas till Marketo från Sales Connect.
    <td><strong>Mall-ID</strong></td> 
    <td>När källan är Tout blir mall-ID:t Marketo Sales Connect Template ID. Använd det här alternativet om du vill ha en specifik mall i stället för en ämnesrad, som kan finnas i flera mallar.
 </td> 
-  </tr> 
-  <tr> 
-   <td><strong>Mottaget av</strong></td> 
-   <td>E-postadress till den person som skickade e-postmeddelandet.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Detaljer</strong></td> 
-   <td>Information om studsfelmeddelande.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>E-post</strong></td> 
-   <td>E-postadress som studsade.</td> 
   </tr> 
  </tbody> 
 </table>
