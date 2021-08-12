@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: bc62f6e43259791fff47f2dbb32cb22a665db1a8
+source-git-commit: 7800d1601d4594d4afe2fa16602723319fbfc118
 workflow-type: tm+mt
-source-wordcount: '8052'
+source-wordcount: '8064'
 ht-degree: 0%
 
 ---
@@ -204,6 +204,7 @@ ht-degree: 0%
          + [Skapa en anpassad aktivitet](product-docs/administration/marketo-custom-activities/create-a-custom-activity.md)
          + [Redigera en anpassad aktivitet](product-docs/administration/marketo-custom-activities/edit-a-custom-activity.md)
          + [Publicera en anpassad aktivitet](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
+         + [Export av metadata för anpassad aktivitet](product-docs/administration/marketo-custom-objects/custom-activity-metadata-export.md)
       + Marketo anpassade objekt {#marketo-custom-objects}
          + [Förstå anpassade Marketo-objekt](product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
          + [Lägg till anpassade Marketo-objektfält](product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
@@ -809,7 +810,7 @@ ht-degree: 0%
                + [Mall 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Mall 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Mall 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Mall 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Mall 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Mall 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [Mall 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Mall 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
@@ -1219,6 +1220,8 @@ ht-degree: 0%
          + [Bevilja åtkomst för användare](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Intressanta stunder i Sales Connect](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
          + [Gör en kampanj synlig för användare av Sales Connect](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+         + [Ordlista för försäljningsaktivitet](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
+         + [Utlösare och filter för försäljningsaktivitet](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
       + Personer {#people}
          + [Persondetaljvy](product-docs/marketo-sales-connect/people/person-detail-view.md)
          + [Efterlevnad av Sales Connect och GDPR](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
