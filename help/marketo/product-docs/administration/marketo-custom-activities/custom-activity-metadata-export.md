@@ -3,16 +3,16 @@ description: Export av metadata för anpassad aktivitet - Marketo Docs - produkt
 title: Export av metadata för anpassad aktivitet
 hide: true
 hidefromtoc: true
-source-git-commit: 70f17106efe52ee742c8e31013e533fc36ce9835
+source-git-commit: 665e7985970734ee17a2fee5974bafa59ecd4aa3
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
 # Export av metadata för anpassad aktivitet {#custom-activity-metadata-export}
 
-Om du använder vårt SOAP API eller Munchkin API kan du exportera det anpassade aktivitetsmetadataschemat. Så här hämtar du den.
+Följ stegen nedan för att exportera ditt anpassade metadataschema för aktivitet.
 
 1. I My Marketo klickar du på **Admin**.
 
