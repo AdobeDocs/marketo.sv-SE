@@ -3,10 +3,9 @@ unique-page-id: 12980733
 description: Marketo-ordlista - Marketo Docs - produktdokumentation
 title: Marketo-ordlista
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-translation-type: tm+mt
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+source-git-commit: 88e26a5b4b37068955e5612153eee2d4d21588d1
 workflow-type: tm+mt
-source-wordcount: '4231'
+source-wordcount: '4205'
 ht-degree: 0%
 
 ---
@@ -14,10 +13,6 @@ ht-degree: 0%
 # Marketo-ordlista {#marketo-glossary}
 
 Nedan finns definitioner för många av de termer du kan stöta på när du använder Marketo. [Skicka ett e-postmeddelande](mailto:GRP-Marketo-articlefeedback@adobe.com) om du vill begära att en term ska läggas till.
-
-| **[A](#A)** | **[B](#B)** | **[C](#C)** | **[D](#D)** | **[E](#E)** | **[F](#F)** | **[G](#G)** | **[H](#H)** | **[I](#I)** | **J** | **[k](#K)** | **[L](#L)** | **[m](#M)** |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| **[N](#N)** | **[O](#O)** | **[P](#P)** | **[Q](#Q)** | **[R](#R)** | **[S](#S)** | **[T](#T)** | **[U](#U)** | **V** | **[B](#W)** | **X** | **Y** | **Z** |
 
 ## A {#a}
 
