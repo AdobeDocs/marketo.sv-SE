@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 9b4a562488cfe44da7140b7ff209dc1d4ea28441
+source-git-commit: 88e26a5b4b37068955e5612153eee2d4d21588d1
 workflow-type: tm+mt
-source-wordcount: '8064'
+source-wordcount: '8071'
 ht-degree: 0%
 
 ---
@@ -318,6 +318,7 @@ ht-degree: 0%
             + [Begär kampanj](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)
             + [Skicka avisering](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)
             + [Skicka e-post](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md)
+            + [Enstaka flödesåtgärder från personinformationssidan](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/single-flow-actions-from-person-detail-page.md)
             + [Utlösare och filter för smarta mobilkampanjer](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/triggers-and-filters-for-mobile-smart-campaigns.md)
             + [Använda en webkrok i en smart kampanj](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
             + [Använd Lägg till alternativ i ett flödessteg](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)
