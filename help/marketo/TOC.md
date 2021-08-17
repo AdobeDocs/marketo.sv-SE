@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 88e26a5b4b37068955e5612153eee2d4d21588d1
+source-git-commit: 280b4b7205351c16b1e13c3b4dce0dfcf0f16ae9
 workflow-type: tm+mt
 source-wordcount: '8071'
 ht-degree: 0%
@@ -493,18 +493,18 @@ ht-degree: 0%
                + [Förhandsgranska ett e-postmeddelande](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md)
                + [Skicka ett exempel](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)
                + [Dela en stund](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
-         + Diverse {#miscellaneous}
-            + [Konfigurera Adobe Experience Manager Integration](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
-            + [Skapa ny kampanjmapp](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
-            + [Importera resurser med Adobe Experience Manager](product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md)
-            + [Ordlista för kortkommandon](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
-            + [Marketo Sandbox](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
-            + [Byta namn på en Marketo-resurs](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-            + [Konfigurera Adobe Experience Cloud målgruppsdelning](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
-            + [Synkronisera en publik från Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
-            + [Om mappar](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
-            + [Om meddelanden](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
-            + [Meddelandetyper](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
+      + Diverse {#miscellaneous}
+         + [Konfigurera Adobe Experience Manager Integration](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
+         + [Skapa ny kampanjmapp](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
+         + [Importera resurser med Adobe Experience Manager](product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md)
+         + [Ordlista för kortkommandon](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
+         + [Marketo Sandbox](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
+         + [Byta namn på en Marketo-resurs](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
+         + [Konfigurera Adobe Experience Cloud målgruppsdelning](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
+         + [Synkronisera en publik från Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+         + [Om mappar](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
+         + [Om meddelanden](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
+         + [Meddelandetyper](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
    + CRM-synkronisering {#crm-sync}
       + Microsoft Dynamics Sync {#microsoft-dynamics}
          + [Förstå Microsoft Dynamics Sync](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
@@ -811,9 +811,9 @@ ht-degree: 0%
                + [Mall 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Mall 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Mall 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Mall 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Mall 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Mall 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Mall 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Mall 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Mall 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Mall 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Mall 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
