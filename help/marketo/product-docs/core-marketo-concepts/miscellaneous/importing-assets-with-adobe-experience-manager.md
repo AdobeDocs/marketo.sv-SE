@@ -3,20 +3,18 @@ unique-page-id: 37355768
 description: Importera resurser med Adobe Experience Manager - Marketo Docs - produktdokumentation
 title: Importera resurser med Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 280b4b7205351c16b1e13c3b4dce0dfcf0f16ae9
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
 # Importera resurser med Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}
 
-Med Resursväljaren kan Marketo-kunder komma åt, välja och importera AEM till Marketo Design Studio. **Administratörsbehörighet krävs**.
+Med resursväljaren kan Marketo-kunder komma åt, välja och importera AEM till Marketo Design Studio. **Administratörsbehörighet krävs**.
 
 >[!AVAILABILITY]
->
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din Customer Success Manager för mer information.
 
@@ -24,9 +22,9 @@ Med Resursväljaren kan Marketo-kunder komma åt, välja och importera AEM till 
 >
 >Kontrollera att du redan har utfört [AEM Configuration](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
 
->[!CAUTION]
+>[!IMPORTANT]
 >
->För närvarande stöds den här funktionen endast fullt ut i Firefox. Det stöds inte i Safari och kanske inte fungerar i den senaste versionen av Chrome (version 80), beroende på inställningarna för cookie-filen för samma plats.
+>Den här funktionen stöds till fullo i de aktuella versionerna av Firefox, Chrome och Edge. Det stöds inte i Safari.
 
 1. Klicka på **Design Studio**.
 
