@@ -1,9 +1,7 @@
 ---
 description: Säljaktivitetsordlista - Marketo Docs - produktdokumentation
 title: Ordlista för försäljningsaktivitet
-hide: true
-hidefromtoc: true
-source-git-commit: 665e7985970734ee17a2fee5974bafa59ecd4aa3
+source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 2%
