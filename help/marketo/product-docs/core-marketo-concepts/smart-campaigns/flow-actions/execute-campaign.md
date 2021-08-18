@@ -1,7 +1,7 @@
 ---
 description: Kör kampanj - Marketo Docs - produktdokumentation
 title: Kör kampanj
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
 workflow-type: tm+mt
 source-wordcount: '711'
 ht-degree: 0%
@@ -16,7 +16,7 @@ En körbar kampanj innehåller, precis som andra kampanjer, en smart lista, ett 
 >
 >Körbara kampanjer är alltid underordnade den (överordnade) kampanj som anropar dem.
 
-## När ska Kör kampanj {#when-to-use-execute-campaign} användas
+## När ska Kör kampanj användas {#when-to-use-execute-campaign}
 
 Det finns mycket du kan göra med en körbar kampanj. De är utformade för att underlätta vanliga operativa uppgifter, som leaddirigering, livscykelhantering och poängsättning (bland annat), och kan användas för att köra samma arbetsflöde inifrån Batch eller Triggered Campaigns.
 
@@ -67,7 +67,7 @@ När du använder Schedule eller Request Campaign [i API](https://developers.mar
 * Körbara kampanjer kan inte anropas mellan arbetsytor
 * Om du använder flödesåtgärden [Ta bort från flöde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) för en körbar kampanj kommer den att ha både det underordnade och det överordnade målet
 * Utnyttja fördelarna med tokenarv - Om du till exempel har ett enda gemensamt poängflöde som aktiveras av flera olika resurser kan du definiera standardvärdet för Min token i den underordnade kampanjen och i den överordnade kampanjen så att du kan åsidosätta kampanjvärdet för det underordnade poängvärdet för dina överordnade kampanjer (se nedan som visuellt exempel)
-* Kapsling av körbara kampanjer är inte tillgängligt just nu, men kommer att finnas i en kommande version
+* Körbara kampanjer kan anropas på upp till tre nivåer djupa (t.ex. Överordnad kampanj > Underordnad > Underordnad > Underordnad)
 
 >[!CAUTION]
 >
