@@ -1,9 +1,9 @@
 ---
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
-source-git-commit: e1dd2fe2300e1350e616c46dcaf53ced12c6581a
+source-git-commit: c2acfbe3770a74e4c1e7acc3893dbe57af01d621
 workflow-type: tm+mt
-source-wordcount: '945'
+source-wordcount: '908'
 ht-degree: 0%
 
 ---
@@ -30,11 +30,9 @@ Följande funktioner kommer att släppas den **20 augusti 2021**.
 
 * **Enskilt flöde på personinformationssidan**  (tillgänglig senast 30 augusti): Kör flödesåtgärder som att skicka e-post, ändra ägare eller någon annan smart kampanjåtgärd för enskilda personer från sidan med personinformation med hjälp av flödesåtgärdsmenyn utan att växla till databasrutnätsvyn.
 
-* **Exportera** anpassade aktiviteter: Export av metadata har nu stöd för alla objekt och metadata som kan användas för att dela, analysera och utforma din prenumerationsdatamodell.
+* **[Exportera](/help/marketo/product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)** anpassade aktiviteter: Export av metadata har nu stöd för alla objekt och metadata som kan användas för att dela, analysera och utforma din prenumerationsdatamodell.
 
 ## API-förbättringar {#api-enhancements}
-
-* **API** för metadata för anpassade fält: Effektivisera framtagning och hantering av anpassade fält i Marketo Engage för partnerintegreringar. Skapa nya fält på ett lead-objekt automatiskt och gör fältuppdateringar i flera Marketo Engage-instanser omedelbart och samtidigt.
 
 * **Skicka formulär-API**: När en e-postadress dupliceras i två eller flera Lead-poster uppdaterar vi posten&quot;senast uppdaterad&quot; i stället för att hoppa över helt. Ger paritet med Forms 2.0 API.
 
