@@ -3,10 +3,9 @@ unique-page-id: 557329
 description: Exportera personer till Excel från en lista eller smart lista - Marketo Docs - produktdokumentation
 title: Exportera personer till Excel från en lista eller smart lista
 exl-id: d2a184e2-fb22-47f7-8368-747fa803233e
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d30816e6f2e0ccac3e62d4f226dc5f349a6be25e
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -46,11 +45,3 @@ Om du behöver listresultat eller smarta listresultat utanför Marketo kan du en
    >[!TIP]
    >
    >Om det tar ett tag att exportera kan du alltid logga ut och komma tillbaka till den senare. Du kommer åt länken **Hämta nu** genom att välja **Visa exportstatus** på menyn **Liståtgärder** och den gäller i en vecka.
-
-   När du har exporterat en smart lista till Excel cachelagras listan automatiskt i Marketo. Du kommer att lägga märke till lite papper och anteckning på ikonen för den smarta listan nästa gång du loggar in eller uppdaterar webbläsaren.
-
-   ![](assets/cached.png)
-
-   >[!TIP]
-   >
-   >Du kan ångra cachning av listan genom att trycka på listans uppdateringsknapp.
