@@ -1,7 +1,7 @@
 ---
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
-source-git-commit: 256e089a418f67ab46249a18fe82e1e1f6d7bfb9
+source-git-commit: 6f9b5a591a315fd6ff036cd5d51dbb432bd31733
 workflow-type: tm+mt
 source-wordcount: '904'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Följande funktioner kommer att släppas den **20 augusti 2021**.
 
 * **Körbart kampanjkapsling**: Körbara kampanjer kan nu även anropa andra körbara kampanjer så att ni kan kapsla dem på upp till tre nivåer. Detta möjliggör ytterligare konsolidering av vanliga driftsflöden och förbättrar hanteringen av smarta kampanjer.
 
-* **Enskilt flöde på personinformationssidan**  (tillgänglig senast 30 augusti): Kör flödesåtgärder som att skicka e-post, ändra ägare eller någon annan smart kampanjåtgärd för enskilda personer från sidan med personinformation med hjälp av flödesåtgärdsmenyn utan att växla till databasrutnätsvyn.
+* **Åtgärd för enstaka flöde på personinformationssidan**  (tillgänglig senast 9 september): Kör flödesåtgärder som att skicka e-post, ändra ägare eller någon annan smart kampanjåtgärd för enskilda personer från sidan med personinformation med hjälp av flödesåtgärdsmenyn utan att växla till databasrutnätsvyn.
 
 * **[Exportera](/help/marketo/product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)** anpassade aktiviteter: Export av metadata har nu stöd för alla objekt och metadata som kan användas för att dela, analysera och utforma din prenumerationsdatamodell.
 
