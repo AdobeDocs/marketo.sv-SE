@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 87bb4a2945dad03f3f041286b89efe80a577f79f
+source-git-commit: d5a4178567b4ab8814158e655fed8e60e2af98cb
 workflow-type: tm+mt
 source-wordcount: '8071'
 ht-degree: 0%
@@ -500,8 +500,8 @@ ht-degree: 0%
          + [Ordlista för kortkommandon](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
          + [Marketo Sandbox](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
          + [Byta namn på en Marketo-resurs](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-         + [Konfigurera Adobe Experience Cloud målgruppsdelning](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
-         + [Synkronisera en publik från Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+         + [Konfigurera Adobe Experience Cloud målgruppsdelning](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+         + [Synkronisera en publik från Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
          + [Om mappar](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [Om meddelanden](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [Meddelandetyper](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
