@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: f6d0d38b777e07f0a5139b22c3da38aaebc699fc
+source-git-commit: 7376804bda915d7ff25cdc50cb78a6686bd36882
 workflow-type: tm+mt
 source-wordcount: '8071'
 ht-degree: 0%
@@ -582,31 +582,31 @@ ht-degree: 0%
                + [Aktivera icke-engelsk anpassad objektsynkronisering](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-non-english-custom-object-sync.md)
                + [Ange standardpersonens efternamn och företagsnamn](product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md)
                + [Inaktivera e-postmeddelanden till leadägaren](product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md)
-            + SFDC-synkroniseringsinformation {#sfdc-sync-details}
-               + [Matcha programstatus och Salesforce-kampanjstatus före synkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)
-               + [SFDC-synkronisering: Kontosynkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
-               + [Använda personkonton](product-docs/crm-sync/salesforce-sync/setup/sfdc-sync-details/sfdc-sync-account-sync/using-person-accounts.md)
-               + [SFDC-synkronisering: Aktivitetssynkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
-               + [SFDC-synkronisering: Kampanjsynkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
-               + [SFDC-synkronisering: Kontaktsynkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
-               + [SFDC-synkronisering: Konvertera en lead till en kontakt i Salesforce](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-converting-a-lead-into-a-contact-in-salesforce.md)
-               + [SFDC-synkronisering: Synkronisering av anpassat objekt](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
-               + [SFDC-synkronisering: Ta bort en lead/kontakt](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-deleting-a-lead-contact.md)
-               + [SFDC-synkronisering: Fältsynkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)
-               + [Lägg till ett befintligt Salesforce-fält i Marketo Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/add-an-existing-salesforce-field-to-the-marketo-sync.md)
-               + [Standardfältmappning för Salesforce](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/default-salesforce-field-mapping.md)
-               + [Dölj ett Salesforce-fält från Marketo Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md)
-               + [SFDC-synkronisering: Synkronisering av lead-/kontoägare](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
-               + [SFDC-synkronisering: Leadkö](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-queue.md)
-               + [SFDC-synkronisering: Leadsynkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
-               + [SFDC-synkronisering: Sammanfoga en lead/kontakt/person](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md)
-               + [SFDC-synkronisering: Synkronisering av affärsmöjlighet](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
-            + [Lägg till/ta bort värden för plocklistor](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
-            + [Aktivera/inaktivera Salesforce-synkronisering](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
-            + [Underförstådda Salesforce-åtgärder](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
-            + [Salesforce-synkroniseringsfel](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
-            + [Status för Salesforce-synkronisering](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
-            + [Logga in med OAuth 2.0](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
+         + SFDC-synkroniseringsinformation {#sfdc-sync-details}
+            + [Lägg till ett befintligt Salesforce-fält i Marketo Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md)
+            + [Standardfältmappning för Salesforce](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/default-salesforce-field-mapping.md)
+            + [Dölj ett Salesforce-fält från Marketo Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md)
+            + [Matcha programstatus och Salesforce-kampanjstatus före synkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)
+            + [SFDC-synkronisering: Kontosynkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
+            + [SFDC-synkronisering: Aktivitetssynkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
+            + [SFDC-synkronisering: Kampanjsynkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
+            + [SFDC-synkronisering: Kontaktsynkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
+            + [SFDC-synkronisering: Konvertera en lead till en kontakt i Salesforce](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-converting-a-lead-into-a-contact-in-salesforce.md)
+            + [SFDC-synkronisering: Synkronisering av anpassat objekt](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
+            + [SFDC-synkronisering: Ta bort en lead/kontakt](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-deleting-a-lead-contact.md)
+            + [SFDC-synkronisering: Fältsynkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)
+            + [SFDC-synkronisering: Synkronisering av lead-/kontoägare](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
+            + [SFDC-synkronisering: Leadkö](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-queue.md)
+            + [SFDC-synkronisering: Leadsynkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
+            + [SFDC-synkronisering: Sammanfoga en lead/kontakt/person](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md)
+            + [SFDC-synkronisering: Synkronisering av affärsmöjlighet](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
+         + [Lägg till/ta bort värden för plocklistor](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
+         + [Aktivera/inaktivera Salesforce-synkronisering](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
+         + [Underförstådda Salesforce-åtgärder](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
+         + [Logga in med OAuth 2.0](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
+         + [Salesforce-synkroniseringsfel](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
+         + [Status för Salesforce-synkronisering](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
+         + [Använda personkonton](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
    + Efterfrågegenerering {#demand-generation}
       + Lägg till nätverksintegreringar {#ad-network-integrations}
          + [Förstå annonsnätverksintegreringar](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
@@ -811,7 +811,7 @@ ht-degree: 0%
                + [Mall 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Mall 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Mall 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Mall 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Mall 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Mall 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [Mall 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Mall 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
