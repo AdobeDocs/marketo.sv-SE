@@ -1,15 +1,16 @@
 ---
 unique-page-id: 7515616
-description: Guided Landing Page Template List - Marketo Docs - Produktdokumentation
+description: Guided Landing Page Template List - Marketo Docs - Product Documentation
 title: Lista med guidade landningssidmallar
-translation-type: tm+mt
-source-git-commit: 4124b2b8a41de486f35cb046ae883b301d20c36c
+exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
+hide: true
+hidefromtoc: true
+source-git-commit: d3a8aedba3c2b3403f6e7f206a51495ccab9ecd8
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
 
 ---
-
 
 # Lista med guidade landningssidmallar {#guided-landing-page-template-list}
 
@@ -17,7 +18,7 @@ Bläddra i vår samling med exempelmallar, som du kan använda med [redigeraren 
 
 >[!NOTE]
 >
->Marketo Support har inte konfigurerats för att underlätta felsökning av HTML. Om du behöver hjälp med att ändra någon av dessa mallar bör du kontakta en webbutvecklare.
+>Marketo Support har inte konfigurerats för att hjälpa till med felsökning av HTML. Om du behöver hjälp med att ändra någon av dessa mallar bör du kontakta en webbutvecklare.
 
 Så här importerar du en mall till Marketo:
 
@@ -73,9 +74,9 @@ Så här importerar du en mall till Marketo:
 | ![](assets/11f.jpg) | ![](assets/12a.jpg) | ![](assets/12b.jpg) |
 | [Mall 12-C](guided-landing-page-templates/template-12-c.md) | [Mall 12-D](guided-landing-page-templates/template-12-d.md) | [Mall 12-E](guided-landing-page-templates/template-12-e.md) |
 | ![](assets/12c.jpg) | ![](assets/12d.jpg) | ![](assets/12e.jpg) |
-| [Mall 12-F](guided-landing-page-templates/template-12-f.md) | [Mall 13-A](guided-landing-page-templates/template-13-a.md) | [Mall 13-B](guided-landing-page-templates/template-13-b.md) |
+| [Mall 12-F](guided-landing-page-templates/template-12-f.md) | [Mall 13-C](guided-landing-page-templates/template-13-a.md) | [Mall 13-B](guided-landing-page-templates/template-13-b.md) |
 | ![](assets/12f.jpg) | ![](assets/13a.jpg) | ![](assets/13b.jpg) |
-| [Mall 13-C](guided-landing-page-templates/template-13-c.md) | [Mall 13-D](guided-landing-page-templates/template-13-d.md) | [Mall 13-E](guided-landing-page-templates/template-13-e.md) |
+| [Mall 13-A](guided-landing-page-templates/template-13-c.md) | [Mall 13-D](guided-landing-page-templates/template-13-d.md) | [Mall 13-E](guided-landing-page-templates/template-13-e.md) |
 | ![](assets/13c.jpg) | ![](assets/13d.jpg) | ![](assets/13e.jpg) |
 | [Mall 14-A](guided-landing-page-templates/template-14-a.md) | [Mall 14-B](guided-landing-page-templates/template-14-b.md) | [Mall 14-C](guided-landing-page-templates/template-14-c.md) |
 | ![](assets/14a.jpg) | ![](assets/14b.jpg) | ![](assets/14c.jpg) |
