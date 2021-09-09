@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 7376804bda915d7ff25cdc50cb78a6686bd36882
+source-git-commit: 24aa698604c4480bd4c588bd7156e0d70556143b
 workflow-type: tm+mt
-source-wordcount: '8071'
+source-wordcount: '8076'
 ht-degree: 0%
 
 ---
@@ -216,6 +216,8 @@ ht-degree: 0%
          + [Importera anpassade objektdata](product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
          + [Utlös ändringar av anpassade objekt](product-docs/administration/marketo-custom-objects/trigger-off-custom-object-changes.md)
          + [Exportera metadata för anpassat objekt](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
+      + Marketo med Adobe-identitet {#marketo-with-adobe-identity}
+         + [Översikt](product-docs/administration/marketo-with-adobe-identity/overview.md)
       + Inställningar {#settings}
          + [Ändra attributinställningar för analys](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
          + [Ändra ditt Marketo-lösenord](product-docs/administration/settings/change-your-marketo-password.md)
@@ -813,7 +815,7 @@ ht-degree: 0%
                + [Mall 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [Mall 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Mall 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Mall 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Mall 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Mall 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Mall 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Mall 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
