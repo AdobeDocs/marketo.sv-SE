@@ -3,9 +3,9 @@ description: Översikt - Marketo Docs - produktdokumentation
 title: Översikt
 hide: true
 hidefromtoc: true
-source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
+source-git-commit: 306e08b08bf63fe51778dc51ccb9cb971fed2f4b
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '658'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,7 @@ Det kommer att finnas ett produktkort i AC för Sales Connect, men AC bör inte 
 
 **Går jag fortfarande till administratörsavsnittet i Marketo för att göra kontoändringar?**
 
-Nej, du måste navigera till [account.adobe.com](account.adobe.com).
+Nej, du måste navigera till [account.adobe.com](https://account.adobe.com).
 
 **Hur fungerar detta med Marketo Universal ID?**
 
