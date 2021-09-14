@@ -3,9 +3,9 @@ unique-page-id: 5472490
 description: Versionsschema - Marketo Docs - produktdokumentation
 title: Versionsschema
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 7ee95e3511f42f6c6ecf24b95fb3bbb3e9f55752
+source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 **Version**: Marketo använder ett större kvartalsvis utgivningsschema. När versionsinformationen är tillgänglig länkas den till tabellen nedan.
 
-**Releasedatum**: Lanseringen börjar oftast på onsdagen i versionsveckan, och större delen av uppgraderingen sker på fredag kväll. Ett e-postmeddelande med specifika datum och versionsinformation skickas ut. Det listade datumet gäller uppdateringen på fredag.
+**Releasedatum**: Lanseringen börjar oftast på tisdagen i releaseminarien, och större delen av uppgraderingen sker på fredag kväll. Ett e-postmeddelande med specifika datum och versionsinformation skickas ut. Det listade datumet gäller uppdateringen på fredag.
 
 **Förlopp**:
 

@@ -1,117 +1,54 @@
 ---
 unique-page-id: 2359659
-description: Lägg till innehåll i en ström - Marketo Docs - Produktdokumentation
+description: Lägg till innehåll i en ström - Marketo Docs - produktdokumentation
 title: Lägg till innehåll i en ström
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: b2db9f49-2baa-4d42-9755-480390a91041
+source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
-
 
 # Lägg till innehåll i en ström {#add-content-to-a-stream}
 
 När ni väl har skapat ert engagemangsprogram måste ni lägga till innehåll i strömmarna. Du kan lägga till e-post eller program i en ström.
 
-## Lägg till en e-postadress i en ström {#add-an-email-to-a-stream}
-
 1. Gå till **Marknadsföringsaktiviteter**.
 
-   ![](assets/login-marketing-activities-1.png)
+   ![](assets/add-content-to-a-stream-1.png)
 
 1. Välj ditt engagemangsprogram och gå till fliken **Streams**.
 
-   ![](assets/streamstab.jpg)
+   ![](assets/add-content-to-a-stream-2.png)
 
-   Du kan lägga till det första e-postmeddelandet på tre olika sätt:
+   Du kan lägga till innehåll på två olika sätt:
 
 **Knappen Lägg till innehåll**
 
 1. Klicka på knappen **Lägg till innehåll**.
 
-   ![](assets/addcontentbutton.jpg)
+   ![](assets/add-content-to-a-stream-3.png)
 
-1. Lämna **Type** inställd på **Email** och välj sedan det e-postmeddelande som du vill lägga till.
+1. Välj **E-post** _eller_ **Program** och välj sedan e-postmeddelandet eller programmet/smarta kampanjen som du vill lägga till.
 
-   ![](assets/image2014-9-15-15-3a44-3a58.png)
+   ![](assets/add-content-to-a-stream-4.png)
 
    >[!TIP]
    >
    >E-postmeddelanden som är lokala för det här engagemangsprogrammet sorteras överst.
 
-**Strömma + ikon**
+**+ ikon**
 
-1. Klicka på ikonen för strömmarna **+**, lämna **Type** som **Email** och välj det e-postmeddelande som du vill lägga till.
+1. Klicka på ikonen **+**, välj **E-post** _eller_ **Program** och välj sedan det e-postprogram eller den smarta kampanj som du vill lägga till.
 
-   ![](assets/image2014-9-15-15-3a45-3a25.png)
-
-**Dra och släpp**
-
-1. Bara dra e-postmeddelandet från trädet till strömmen.
-
-   ![](assets/dragstreamcontent.jpg)
-
-## Lägg till ett program i en ström {#add-a-program-to-a-stream}
-
-1. Gå till **Marknadsföringsaktiviteter**.
-
-   ![](assets/login-marketing-activities-1.png)
-
-1. Välj ditt engagemangsprogram och gå till fliken **Streams**.
-
-   ![](assets/streamstab.jpg)
-
-   Du kan lägga till ett program i strömmen på tre olika sätt:
-
-**Knappen Lägg till innehåll**
-
-1. Klicka på **Lägg till innehåll**.
-
-   ![](assets/image2014-9-15-15-3a45-3a51.png)
-
-1. Ändra **typ** till Program.
-
-   ![](assets/image2014-9-15-15-3a46-3a0.png)
-
-1. Hitta och välj programmet.
-
-   ![](assets/image2014-9-15-15-3a46-3a11.png)
-
-1. Välj nu den smarta kampanjen i programmet som du vill att folk ska gå igenom.
-
-   ![](assets/image2014-9-15-15-3a46-3a17.png)
+   ![](assets/add-content-to-a-stream-5.png)
 
    >[!NOTE]
    >
-   >Den smarta kampanjen måste ha filtret **Member of Engagement Program** för att den ska fungera korrekt.
+   >En smart kampanj måste innehålla filtret **Member of Engagement Program** för att den ska fungera korrekt.
 
-**Strömma + ikon**
-
-1. Klicka på ikonen för direktuppspelningen **+** och ändra sedan **typ** till Program.
-
-   ![](assets/image2014-9-15-15-3a46-3a43.png)
-
-1. Hitta och välj program.
-
-   ![](assets/image2014-9-15-15-3a46-3a49.png)
-
-1. Välj den smarta kampanj som du vill att personerna ska behandlas i.
-
-   ![](assets/image2014-9-15-15-3a46-3a54.png)
-
-**Dra och släpp**
-
-1. Dra och släpp önskat program från trädet i strömmen.
-
-   ![](assets/streamcadence.jpg)
-
-1. Välj nu bara den smarta kampanj ni vill att folk ska flöda igenom.
-
-   ![](assets/image2014-9-15-15-3a47-3a8.png)
-
-Bra jobbat! Nu kan du lägga till innehåll i programströmmar på olika sätt. Lägg till så många du behöver för din näring. Mer information finns i den relaterade artikeln nedan.
+Bra jobbat! Nu vet ni hur ni lägger till innehåll i era programströmmar. Lägg till så mycket du behöver för din näring. Mer information finns i den relaterade artikeln nedan.
 
 >[!MORELIKETHIS]
 >
