@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8162237
-description: Mall 4A - Marketo Docs - produktdokumentation
-title: Mall 4A
+description: Mall 4-A - Marketo Docs - produktdokumentation
+title: Mall 4-A
 exl-id: a20817e4-dbdd-4f08-9b4e-602da6b75d70
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
-# Mall 4A {#template-4a}
+# Mall 4-A {#template-a}
 
-[Ladda ned mall 4A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html)
+[Ladda ned mall 4-A](https://docs.marketo.com/download/attachments/8162237/template-4a.html?version=1&amp;modificationdate=1435255108000&amp;api=v2)
 
 ![](assets/image2015-6-29-16-3a2-3a6.png)
 
@@ -28,4 +28,4 @@ Den här mallen innehåller följande innehåll:
 
 **Klicka nedan om du vill hämta den här mallen:**
 
-[Template 4A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html)
+[Template4-A.html](https://docs.marketo.com/download/attachments/8162237/template-4a.html?version=1&amp;modificationdate=1435255108000&amp;api=v2)

@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783944
-description: Mall 7B - Marketo Docs - produktdokumentation
-title: Mall 7B
+description: Mall 7-B - Marketo Docs - produktdokumentation
+title: Mall 7-B
 exl-id: 80df3bd3-878a-4de1-a804-98ec062c533c
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
 
-# Mall 7B {#template-7b}
+# Mall 7-B {#template-b}
 
-[Ladda ned mall 7B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7b.html)
+[Ladda ned mall 7-B](https://docs.marketo.com/download/attachments/8783944/template-7b.html?version=1&amp;modificationdate=1437693320000&amp;api=v2)
 
 ![](assets/image2015-7-29-15-3a13-3a3.png)
 
@@ -28,4 +28,4 @@ Den här mallen innehåller följande innehåll:
 
 **Klicka nedan om du vill hämta den här mallen:**
 
-[Template 7B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7b.html)
+[Template7-B.html](https://docs.marketo.com/download/attachments/8783944/template-7b.html?version=1&amp;modificationdate=1437693320000&amp;api=v2)
