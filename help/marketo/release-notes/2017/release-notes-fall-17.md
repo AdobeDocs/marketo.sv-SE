@@ -3,15 +3,14 @@ unique-page-id: 12983280
 description: Versionsinformation -höst 17 - Marketo Docs - produktdokumentation
 title: Versionsinformation - höst 17
 exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: cbfa6110e85c185a5b65342052f168d9715f2f6a
 workflow-type: tm+mt
 source-wordcount: '597'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: Hög &#39;17 {#release-notes-fall}
+# Versionsinformation: Hösten 17 {#release-notes-fall}
 
 Följande funktioner finns i höstutgåvan 17. Se om det finns funktioner i din Marketo-utgåva.
 
@@ -25,7 +24,7 @@ Vi har gjort ytterligare förbättringar av Marketo kärninfrastruktur, bland an
 
 Utnyttja den djupare och snabbare synkroniseringen i Marketo och Salesforce. Dataändringar som kräver satsvis uppdatering av konton eller leads kan delas upp i parallella köer för att undvika eftersläpningar. Händelser och uppgifter synkroniseras nu också upp till 50 % snabbare.
 
-## Prestandaförbättringar för analys {#analytics-performance-improvements}
+## Prestandaförbättringar för analyser {#analytics-performance-improvements}
 
 De senaste infrastrukturförbättringarna ger ökad drifttid och stabilitet i Marketo rapporterings- och analysverktyg, vilket gör att du kan skapa ad hoc-rapporter snabbare.
 
@@ -47,7 +46,7 @@ Marketo har ett nytt alternativ för att välja ett segment när exempelmeddelan
 
 Anpassa era LinkedIn Lead Gen-formulär för att samla in anpassade lead-attribut. Du kan nu ställa upp till tre anpassade frågor per formulär, välja mellan enradstext eller flervalsfrågor och mappa tillbaka till Marketo lead-fält.
 
-## [Integrering med Slack](/help/marketo/product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md) {#slack-integration}
+## Integrering med Slack {#slack-integration}
 
 Vi har släppt två funktioner som en del av vår nya integrering med Slack:
 
@@ -70,7 +69,7 @@ Visa och jämför innehållsprestanda i kontolistor för ABM för att optimera b
 * toppkonverterat innehåll
 * AI-baserat föreslaget innehåll för marknadsföringsaktiviteter
 
-## Förbättringar av webbanpassning {#web-personalization-enhancements}
+## Förbättringar av webbpersonalisering {#web-personalization-enhancements}
 
 **[Token för webbkampanjer](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
@@ -84,7 +83,7 @@ Spara tid genom att återanvända kreativa resurser och bilder i flera kanaler i
 
 ![](assets/image2017-11-16-11-3a26-3a10.png)
 
-## Integrering {#integration}
+## Integrering  {#integration}
 
 **[API för e-postförhandsgranskning](https://developers.marketo.com/rest-api/assets/emails/)**
 
