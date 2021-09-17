@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
+source-git-commit: abb4d95da5ba9d9a342b482287c89a4987eb4251
 workflow-type: tm+mt
-source-wordcount: '8096'
+source-wordcount: '8090'
 ht-degree: 0%
 
 ---
@@ -146,7 +146,6 @@ ht-degree: 0%
          + [Lägg till ON24 som en LaunchPoint-tjänst](product-docs/administration/additional-integrations/add-on24-as-a-launchpoint-service.md)
          + [Lägg till ReadyTalk som en LaunchPoint-tjänst](product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
          + [Lägg till enkel inloggning på en portal](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
-         + [Lägg till Slack som en LaunchPoint-tjänst](product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md)
          + [Lägg till WebEx som en LaunchPoint-tjänst](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
          + [Lägg till Workplace av Facebook som en LaunchPoint-tjänst](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
          + [Lägg till zoom som en LaunchPoint-tjänst](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
