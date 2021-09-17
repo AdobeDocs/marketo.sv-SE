@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 296dce8edf65115f9c10a79c4f1981b57739f713
+source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
 workflow-type: tm+mt
-source-wordcount: '8089'
+source-wordcount: '8096'
 ht-degree: 0%
 
 ---
@@ -619,6 +619,10 @@ ht-degree: 0%
          + [Lägg till Google Customer Match som en LaunchPoint-tjänst](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [Lägg till LinkedIn Matched Audiences som en LaunchPoint-tjänst](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Skicka en lista till ett annonsnätverk](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
+      + Dynamisk chatt {#dynamic-chat}
+         + [Dynamisk chattöversikt](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
+         + [Dialogrutor](product-docs/demand-generation/dynamic-chat/dialogues.md)
+         + [Konfiguration](product-docs/demand-generation/dynamic-chat/configuration.md)
       + Händelser {#events}
          + Förstå händelser {#understanding-events}
             + [Lägga till medlemmar i ett händelseprogram](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
