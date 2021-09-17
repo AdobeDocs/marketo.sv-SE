@@ -3,9 +3,9 @@ description: Konfiguration - Marketo Docs - produktdokumentation
 title: Konfiguration
 hide: true
 hidefromtoc: true
-source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
+source-git-commit: ab594ddb7c416f7b6c98e2b4d3640a2db6208e69
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Det finns flera olika anpassningsalternativ.
 
 PICC (för hela chatbox)
 
-## Formatflik {#style tab}
+## Fliken Format {#style-tab}
 
 **Stil**
 
