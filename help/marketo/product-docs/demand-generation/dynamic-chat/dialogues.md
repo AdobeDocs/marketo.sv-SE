@@ -3,9 +3,9 @@ description: Dialogrutor - Marketo Docs - produktdokumentation
 title: Dialogrutor
 hide: true
 hidefromtoc: true
-source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
+source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '473'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ PICC
 
 På samma sätt som med Marketo smarta listor kan du definiera målgruppen med hjälp av attribut för målgruppskriterier.
 
-Det finns flera attribut att välja bland. I det här exemplet väljer vi Lead State _is_ California and Company Size _is greater than_ 50.
+Det finns flera attribut att välja bland. I det här exemplet riktar vi oss mot alla kända leads i Kalifornien som arbetar på ett företag med över 50 anställda.
 
 1. Hämta leadlägesattributet och dra det åt höger.
 
@@ -58,6 +58,10 @@ PICC
 
 PICC
 
+HÄMTA ANON LEADS
+
+Obs! Ange kanske hur inkommande arbete/visning av anon-användning är, lead-e-post är tom
+
 ## Lägg till grupper {#add-groups}
 
 Du kan också gruppera attribut om du vill ha alla attribut tillsammans med &quot;något&quot; av andra.
@@ -77,4 +81,24 @@ Godtagbara format:
 
 >[!NOTE]
 >
->Om du använder en asterisk fungerar det som ett jokertecken för&quot;catch all&quot;. `https://*.website.com` placerar dialogrutan på alla sidor på webbplatsen, inklusive underdomäner (t.ex.: support.website.com). Och `https://website.com/folder/*` placerar dialogrutan på alla HTML-sidor i efterföljande mapp (t.ex.: Låt oss i det här fallet säga att mappen är &quot;sport&quot;, så: website.com/sports/baseball.html, website.com/sports/football.html osv.).
+>Om du använder en asterisk fungerar det som ett jokertecken för&quot;catch all&quot;. På så sätt placerar `https://*.website.com` dialogrutan på alla sidor på webbplatsen, inklusive underdomäner (t.ex.: `support.website.com`). Och `https://website.com/folder/*` placerar dialogrutan på alla HTML-sidor i efterföljande mapp (t.ex.: Låt oss i det här fallet säga att mappen är &quot;sport&quot;, så: website.com/sports/baseball.html, website.com/sports/football.html osv.).
+
+## Stream Designer {#stream-designer}
+
+Strömdesignern innehåller olika kort som du kan lägga till för att forma chattkonversationen.
+
+TABELL
+
+Meddelande: Använd när du vill göra en -programsats utan något svar (t.ex.: &quot;Hej! Alla artiklar ger 25 % rabatt idag med kod SAVE25.&quot;)
+
+Fråga: Använd det här alternativet om du vill ställa en flervalsfråga, där du anger tillgängliga svar (t.ex.: Vilken typ av fordon är du intresserad av? Svar = SUV, Compact, Truck osv.)
+
+Information Capture: Använd när du vill samla in information. De tre fälten som ska väljas är E-postadress, Telefonnummer och Text (som gör att besökaren kan skriva sitt eget meddelande).
+
+Schemaläggare för avtalad tid: Ger besökaren en kalender med tillgängliga datum för att schemalägga en uppföljning. Kalendertillgängligheten återspeglar [nästa agent på rad](help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).
+
+Mål: Det här är det enda kortet som besökarna inte ser. Det är upp till dig att avgöra vid vilken punkt ett mål uppnås i den specifika chatten (t.ex.: om du vill samla in besökarens e-postadress placerar du målkortet efter Info Capture i Stream.)
+
+EVENTUELLT EGET AVSNITT
+
+VISA EXEMPEL NEDAN

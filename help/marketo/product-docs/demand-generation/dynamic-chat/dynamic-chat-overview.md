@@ -3,9 +3,9 @@ description: Dynamic Chat Overview - Marketo Docs - produktdokumentation
 title: Dynamisk chattöversikt
 hide: true
 hidefromtoc: true
-source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
+source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,13 @@ ht-degree: 0%
 
 intro-text
 
+>[!NOTE]
+>
+>Dynamic Chat håller på att lanseras och alla prenumerationer har åtkomst via DATE.
+
 ## Konfigurera dynamisk chatt {#access-dynamic-chat}
 
-text
+Följ de här stegen för den första konfigurationen.
 
 1. Klicka på panelen **Dynamiskt chatt** i My Marketo.
 
@@ -24,7 +28,7 @@ text
 
    >[!NOTE]
    >
-   >Om Marketo Admin inte har aktiverat rutan ännu kan du även [komma åt Dynamic Chat här](https://experience.adobe.com/dynamic-chat/).
+   >Om du inte ser..kontakta din Marketo-administratör).
 
 1. Om du tidigare har använt ett program med en Adobe ID kommer du direkt till Dynamic Chat. Om inte, [konfigurera din Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
 
@@ -32,19 +36,19 @@ text
 
 1. Om du vill ansluta din Marketo-instans väljer du **Integrationer**.
 
-PICC
+   PICC
 
 1. Klicka på INFOGA TEXT HÄR?
 
-PICC
+   PICC
 
->[!NOTE]
->
->Det kan ta mellan 5 minuter och 8 timmar innan synkroniseringen är klar, beroende på databasens storlek. Den genomsnittliga synkroniseringstiden är 60 minuter.
+   >[!NOTE]
+   >
+   >Det kan ta mellan 5 minuter och 8 timmar innan synkroniseringen är klar, beroende på databasens storlek. Den genomsnittliga synkroniseringstiden är 60 minuter.
 
 ## Integreringar {#integrations}
 
-Integrationer är den första fliken som du kommer att besöka när du öppnar Dynamic Chat. Det är där du synkroniserar dina Marketo-prenumerationer, så att du kan använda dina databasdata för att identifiera webbplats-/chattbesökare ([se steg 3 ovan](#access-dynamic-chat)).
+Integrationer är den första fliken som du kommer att besöka när du öppnar Dynamic Chat. Det är där du synkroniserar dina Marketo-prenumerationer, så att du kan använda dina Marketo-databasdata för att identifiera webbplats-/chattbesökare ([se steg 3 ovan](#access-dynamic-chat)).
 
 ## Dialogrutor {#dialogues}
 

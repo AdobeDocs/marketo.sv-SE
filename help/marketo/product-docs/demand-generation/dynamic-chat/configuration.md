@@ -3,9 +3,9 @@ description: Konfiguration - Marketo Docs - produktdokumentation
 title: Konfiguration
 hide: true
 hidefromtoc: true
-source-git-commit: ab594ddb7c416f7b6c98e2b4d3640a2db6208e69
+source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ PICC för utfyllnad
 
 **Agentinställningar**
 
-I Agentinställningar tilldelar du ett namn som är specifikt för chattbot (det visas längst upp). Du kan också fastställa fördröjningen för svar (i sekunder) och ändra din chattavatar.
+I Agentinställningar kan du lägga till en etikett i din chatbox (t.ex.: &quot;Adobe Bot&quot;) som visas högst upp. Du kan också fastställa fördröjningen för svar (i sekunder) och ändra din chattavatar.
 
 PICC för inställningsnamn
 
