@@ -3,10 +3,10 @@ unique-page-id: 1147226
 description: Komma igång - Marketo Docs - produktdokumentation
 title: Komma igång
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: 3d9c75a343ba2d78b1d5451ebe4344e71c2e53fb
+source-git-commit: 5d7c30fe818e37ba86152953d19937e39c7426f5
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '135'
+ht-degree: 9%
 
 ---
 
@@ -56,8 +56,6 @@ Utför dessa uppdrag för att lära dig grunderna i Marketo.
     </div>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="getting-started/quick-wins/simple-scoring.md">
       <img alt="Anslut" src="getting-started/assets/getting-started-4.png"/>
@@ -75,6 +73,8 @@ Utför dessa uppdrag för att lära dig grunderna i Marketo.
     </div>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="getting-started/quick-wins/import-a-list-of-people.md">
       <img alt="E-post" src="getting-started/assets/getting-started-6.png" />
@@ -84,8 +84,6 @@ Utför dessa uppdrag för att lära dig grunderna i Marketo.
     </div>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="getting-started/quick-wins/drip-drip-nurture.md">
       <img alt="Anslut" src="getting-started/assets/getting-started-7.png"/>
@@ -112,8 +110,6 @@ Utför dessa uppdrag för att lära dig grunderna i Marketo.
     </div>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="getting-started/quick-wins/update-person-data.md">
       <img alt="Anslut" src="getting-started/assets/getting-started-10.png"/>
@@ -122,9 +118,6 @@ Utför dessa uppdrag för att lära dig grunderna i Marketo.
     <a href="getting-started/quick-wins/update-person-data.md">10. Uppdatera persondata</a>
     </div>
     <br>
-  </td>
-  <td>  </td>
-  <td>
   </td>
 </tr>
 </table>
