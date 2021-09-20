@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437586
-description: Mall 12-E - Marketo Docs - produktdokumentation
-title: Mall 12-E
+description: Mall 12E - Marketo Docs - produktdokumentation
+title: Mall 12E
 exl-id: fc330e23-9247-4565-a607-0c10d3ef89c6
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# Mall 12-E {#template-e}
+# Mall 12E {#template-12e}
 
-[Ladda ned mall 12-E](https://docs.marketo.com/download/attachments/9437586/template-12e.html?version=1&amp;modificationdate=1438211652000&amp;api=v2)
+[Ladda ned mall 12E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html)
 
 ![](assets/image2015-8-4-14-3a45-3a47.png)
 
@@ -28,4 +28,4 @@ Den här mallen innehåller följande innehåll:
 
 **Klicka nedan om du vill hämta den här mallen:**
 
-[Template12-E.html](https://docs.marketo.com/download/attachments/9437586/template-12e.html?version=1&amp;modificationdate=1438211652000&amp;api=v2)
+[Template 12E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html)

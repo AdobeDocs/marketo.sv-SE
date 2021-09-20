@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8784011
-description: Mall 10-E - Marketo Docs - produktdokumentation
-title: Mall 10-E
+description: Mall 10E - Marketo Docs - produktdokumentation
+title: Mall 10E
 exl-id: 81a61057-fe24-4dcb-9a9c-73eca9528b4b
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-# Mall 10-E {#template-e}
+# Mall 10E {#template-10e}
 
-[Ladda ned mall 10-E](https://docs.marketo.com/download/attachments/8784011/template-10e.html?version=2&amp;modificationdate=1438210974000&amp;api=v2)
+[Ladda ned mall 10E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html)
 
 ![](assets/image2015-7-27-11-3a6-3a25.png)
 
@@ -27,4 +27,4 @@ Den här mallen innehåller följande innehåll:
 
 **Klicka nedan om du vill hämta den här mallen:**
 
-[Template10-E.html](https://docs.marketo.com/download/attachments/8784011/template-10e.html?version=2&amp;modificationdate=1438210974000&amp;api=v2)
+[Template 10E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html)

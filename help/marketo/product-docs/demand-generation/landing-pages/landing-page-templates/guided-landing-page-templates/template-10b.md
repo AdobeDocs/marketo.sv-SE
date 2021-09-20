@@ -5,7 +5,7 @@ title: Mall 10B
 exl-id: 6c99a6cd-6c6f-45a3-aed0-b7a0c198dffe
 source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---

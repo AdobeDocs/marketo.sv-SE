@@ -5,7 +5,7 @@ title: Mall 5A
 exl-id: 85f9732c-0968-44bc-b59f-d39207f12dd7
 source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
@@ -28,4 +28,4 @@ Den här mallen innehåller följande innehåll:
 
 **Klicka nedan om du vill hämta den här mallen:**
 
-[Template 6A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html)
+[Template 5A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html)

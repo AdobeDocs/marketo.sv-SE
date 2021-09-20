@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437834
-description: Mall 16-A - Marketo Docs - produktdokumentation
-title: Mall 16-A
+description: Mall 16A - Marketo Docs - produktdokumentation
+title: Mall 16A
 exl-id: c55e4f9c-7aca-4cb6-b79a-5b25fd70ac3e
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
-# Mall 16-A {#template-a}
+# Mall 16A {#template-16a}
 
-[Ladda ned mall 16-A](https://docs.marketo.com/download/attachments/9437834/template-16a.html?version=1&amp;modificationdate=1438980648000&amp;api=v2)
+[Ladda ned mall 16A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16a.html)
 
 ![](assets/image2015-8-14-10-3a19-3a21.png)
 
@@ -28,4 +28,4 @@ Den här mallen innehåller följande innehåll:
 
 **Klicka nedan om du vill hämta den här mallen:**
 
-[Template16-A.html](https://docs.marketo.com/download/attachments/9437834/template-16a.html?version=1&amp;modificationdate=1438980648000&amp;api=v2)
+[Mall 16A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16a.html)
