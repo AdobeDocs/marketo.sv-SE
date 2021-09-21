@@ -3,10 +3,9 @@ unique-page-id: 11372975
 description: Steg 1 av 3 -Lägg till Marketo-fält i Salesforce (Professional) - Marketo Docs - Produktdokumentation
 title: Steg 1 av 3 -Lägg till Marketo-fält i Salesforce (Professional)
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 7de9b708626172aa6fa0a2fcb87c8aa534d5e9f7
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '798'
 ht-degree: 0%
 
 ---
@@ -223,7 +222,11 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
  </tbody> 
 </table>
 
-## Mappa anpassade fält för konverteringar {#map-custom-fields-for-conversions}
+>[!NOTE]
+>
+>Värden i fält som automatiskt tilldelats av Marketo är inte omedelbart tillgängliga i Salesforce när det nya fältet har skapats. Marketo synkroniserar data till Salesforce vid nästa uppdatering till posten i något av systemen (dvs. en uppdatering till något av de synkroniserade fälten mellan Marketo och Salesforce).
+
+## Mappa anpassade fält för konverteringar  {#map-custom-fields-for-conversions}
 
 Ett anpassat fält på lead-objektet i Salesforce bör mappas till ett kontaktfält på kontaktobjektet så att data överförs när en konvertering inträffar.
 

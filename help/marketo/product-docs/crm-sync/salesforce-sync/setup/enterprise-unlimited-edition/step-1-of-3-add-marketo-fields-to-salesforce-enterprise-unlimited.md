@@ -3,10 +3,9 @@ unique-page-id: 2360362
 description: Steg 1 av 3 -Lägg till Marketo-fält i Salesforce (Enterprise/Unlimited) - Marketo Docs - Produktdokumentation
 title: Steg 1 av 3 -Lägg till Marketo-fält i Salesforce (Enterprise/Unlimited)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 7de9b708626172aa6fa0a2fcb87c8aa534d5e9f7
 workflow-type: tm+mt
-source-wordcount: '731'
+source-wordcount: '784'
 ht-degree: 0%
 
 ---
@@ -235,6 +234,10 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
   </tr> 
  </tbody> 
 </table>
+
+>[!NOTE]
+>
+>Värden i fält som automatiskt tilldelats av Marketo är inte omedelbart tillgängliga i Salesforce när det nya fältet har skapats. Marketo synkroniserar data till Salesforce vid nästa uppdatering till posten i något av systemen (dvs. en uppdatering till något av de synkroniserade fälten mellan Marketo och Salesforce).
 
 ## Mappa anpassade fält för konverteringar {#map-custom-fields-for-conversions}
 
