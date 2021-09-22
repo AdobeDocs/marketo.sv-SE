@@ -3,9 +3,9 @@ description: Inledande installation - Marketo Docs - produktdokumentation
 title: Inledande konfiguration
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: d427bc129939dd15ce33797d1ef5ea56992bcb40
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ intro-text
 
 1. När Dynamic Chat är aktiverat för din Marketo-instans får den utsedda systemadministratören ett välkomstmeddelande. Klicka på **Kom igång** i det e-postmeddelandet.
 
-   ![](assets/picture.png)
+   PICC
 
 1. Om du tidigare har använt ett program med en Adobe ID kommer du direkt till Adobe Admin Console. Om inte, [konfigurera din Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
 
-   ![](assets/picture.png)
+   PICC
 
 1. Lägga till användare (steg att följa)
 

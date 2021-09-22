@@ -3,9 +3,9 @@ description: Lägg till eller ta bort chattanvändare - Marketo Docs - produktdo
 title: Lägg till eller ta bort chattanvändare
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: d427bc129939dd15ce33797d1ef5ea56992bcb40
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,35 +18,35 @@ Följ stegen nedan för att lägga till eller ta bort chattanvändare.
 
 1. Logga in på [Adobe Admin Console](https://adminconsole.adobe.com/).
 
-   ![](assets/add-or-remove-a-user-1.png)
+   PICC
 
 1. Klicka på **Dynamiskt chatt**.
 
-   ![](assets/add-or-remove-a-user-2.png)
+   PICC
 
 1. Välj önskad prenumeration (om du har fler än en).
 
-   ![](assets/add-or-remove-a-user-3.png)
+   PICC
 
 1. Klicka på fliken **Användare**.
 
-   ![](assets/add-or-remove-a-user-4.png)
+   PICC
 
 1. Klicka på knappen **Lägg till användare**.
 
-   ![](assets/add-or-remove-a-user-5.png)
+   PICC
 
 1. Ange namn, användargrupp eller e-postadress för den användare som du vill lägga till. Förnamn och efternamn är valfria.
 
-   ![](assets/add-or-remove-a-user-6.png)
+   PICC
 
 1. Klicka på ikonen **+** och välj önskad produktprofil.
 
-   ![](assets/add-or-remove-a-user-7.png)
+   PICC
 
 1. Klicka på **Spara**.
 
-   ![](assets/add-or-remove-a-user-8.png)
+   PICC
 
 Användaren får sedan ett e-postmeddelande om att logga in på Marketo.
 
@@ -54,27 +54,27 @@ Användaren får sedan ett e-postmeddelande om att logga in på Marketo.
 
 1. Logga in på [Adobe Admin Console](https://adminconsole.adobe.com/).
 
-   ![](assets/add-or-remove-a-user-9.png)
+   PICC
 
 1. Klicka på **Marketo Engage**.
 
-   ![](assets/add-or-remove-a-user-10.png)
+   PICC
 
 1. Välj önskad prenumeration (om du har fler än en).
 
-   ![](assets/add-or-remove-a-user-11.png)
+   PICC
 
 1. Klicka på fliken **Användare**.
 
-   ![](assets/add-or-remove-a-user-12.png)
+   PICC
 
 1. Markera den användare som du vill ta bort och klicka på knappen **Ta bort**.
 
-   ![](assets/add-or-remove-a-user-13.png)
+   PICC
 
 1. Bekräfta genom att klicka på **Ta bort användare**.
 
-   ![](assets/add-or-remove-a-user-14.png)
+   PICC
 
 >[!MORELIKETHIS]
 >
