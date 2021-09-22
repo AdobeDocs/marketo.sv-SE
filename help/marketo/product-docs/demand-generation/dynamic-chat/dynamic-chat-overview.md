@@ -3,24 +3,24 @@ description: Dynamic Chat Overview - Marketo Docs - produktdokumentation
 title: Dynamisk chattöversikt
 hide: true
 hidefromtoc: true
-source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '606'
 ht-degree: 0%
 
 ---
 
 # Dynamisk chattöversikt {#dynamic-chat-overview}
 
-intro-text
+Med Dynamic Chat kan du utnyttja ett lättanvänt gränssnitt för att rikta in dig på båda leads (PEOPLE?) och har sina konton (BESÖKER DITT?) webbplats. Samla in relevant innehåll som namn, kontaktinformation och fritext. Besökarna kan även boka möten med säljteamet. Dynamic Chat-aktivitet och engagemangsdata kan användas för att lägga till medlemmar i Marketo-program och aktivera flerkanalsaktiviteter.
 
 >[!NOTE]
 >
->Dynamic Chat håller på att lanseras och alla prenumerationer har åtkomst via DATE.
+>Dynamic Chat håller på att lanseras och alla prenumerationer ska ha åtkomst via DATE.
 
 ## Konfigurera dynamisk chatt {#access-dynamic-chat}
 
-Följ de här stegen för den första konfigurationen.
+NÄR RUTAN HAR LAGTS TILL.. Följ de här stegen för att komma igång.
 
 1. Klicka på panelen **Dynamiskt chatt** i My Marketo.
 
@@ -52,7 +52,7 @@ Integrationer är den första fliken som du kommer att besöka när du öppnar D
 
 ## Dialogrutor {#dialogues}
 
-Dialogrutor är de enskilda chattkonversationer du kommer att skapa. Du kan ange vem som ska se vad för kända eller till och med anonyma besökare. [Läs mer om dialogrutor](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md).
+Dialoger representerar ett enda chattengagemang. Se det som en behållare med allt du behöver för att få en engagerande chattdialog till webbplatsens besökare. I varje dialogruta kan du ange vilka sidor du vill att dialogrutan ska visas på, till vilka du vill att den ska visas samt innehållet och flödet för själva dialogrutan. Dessutom kan du hitta mätvärden för att se hur bra din dialog fungerar. [Läs mer om dialogrutor](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md).
 
 ## Konfiguration {#configuration}
 
@@ -60,14 +60,40 @@ Anpassa utseendet på dina olika dialogrutor på fliken Konfiguration. Ändra ty
 
 ## Kalender {#calendar}
 
-Anslut din (Outlook eller Gmail) kalender till Dynamiskt chatt på fliken Kalender så att besökarna kan schemalägga avtalade tider med agenterna.
+Anslut din (Outlook eller Gmail) kalender på fliken Kalender för användning vid schemaläggning av möten i chattbot. När en användares kalender är ansluten till Dynamiskt chatt läggs den användaren till i kön och hans/hennes kalender blir tillgänglig för webbplatsbesökare att schemalägga avtalade tider på.
+
+Du kan också anpassa innehållet i inbjudan via e-post? som skickas till besökaren när de schemalägger en avtalad tid i användarens kalender.
 
 ## Möten {#meetings}
 
-På fliken Möten kan du se status för alla möten som dina agenter har schemalagt via Dynamic Chat, samt annan relaterad information.
+Här ser du alla avtalade tider som har schemalagts av webbplatsbesökare via olika dialogrutor. Här hittar du e-postadressen till den lead som bokade den avtalade tiden, vilken agent de bokade den avtalade tiden med, när den avtalade tiden ska äga rum och om mötet har ägt rum eller inte.
 
 PICC?
 
 ## Routning {#routing}
 
-Routning visar den ordning i vilken agenter tilldelas möten samt det totala antalet möten hittills (per agent). Möten blir till rån, så om du har fem agenter och agent tre tog det senaste mötet får agent 4 nästa, följt av fem, sedan tillbaka till agent ett.
+Här kan du se en lista över alla agenter som har kopplat samman sina kalendrar samt i vilken ordning de kommer att presenteras för webbplatsbesökare. Om du har fem agenter och agent tre som deltog i det senaste mötet får agent 4 nästa, följt av fem, och sedan tillbaka till agent ett.
+
+## Vanliga frågor {#faq}
+
+—EVENTUELLA JÄSTER? LOL—
+
+**Kan chatbot formateras med CSS?**
+
+Chatbot kan för närvarande inte formateras med CSS.
+
+**Kan jag använda anpassade teckensnittsalternativ?**
+
+Endast de förinställda teckensnittsalternativen är tillgängliga just nu.
+
+**Tillåter Dynamic Chat live-chatt?**
+
+Nej, bara förutbestämda svar.
+
+**Stöder du AI/NLP-funktioner?**
+
+Vi stöder inte AI/NLP-funktioner.
+
+**Finns det några andra språk än engelska i Dynamic Chat?**
+
+Inte just nu.

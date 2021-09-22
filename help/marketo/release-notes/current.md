@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '903'
+source-wordcount: '909'
 ht-degree: 0%
 
 ---
@@ -81,4 +81,4 @@ Det här avsnittet innehåller nya funktioner för användare av Bizible som har
 
 ## Meddelanden {#announcements}
 
-* **Uppdatera till Subscription Universal ID Settings**: För att ge stöd åt integreringen av Marketo Engage och Adobe-identitet för befintliga användare kommer alla Marketo Engage-prenumerationer att vara enhetliga i aktiveringen av stöd för universella ID.
+* **Uppdatera till Subscription Universal ID Settings**: För att ge stöd åt integreringen av Marketo Engage och Adobe-identitet för befintliga användare kommer alla Marketo Engage-prenumerationer att vara enhetliga i aktiveringen av stöd för universella ID. Mer information [finns här](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md).

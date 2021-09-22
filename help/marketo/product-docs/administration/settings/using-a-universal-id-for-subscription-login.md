@@ -3,9 +3,9 @@ unique-page-id: 10100311
 description: Använda ett universellt ID för prenumerationsinloggning - Marketo Docs - produktdokumentation
 title: Använda ett universellt ID för prenumerationsinloggning
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
-source-git-commit: 591279dfb573853eb8781d7984c65716804120b0
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '586'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Prenumerationsnivåinställningarna gäller för användare som använder Univer
 
 ## Konfigurera ett universellt ID {#setting-up-a-universal-id}
 
-Från varje enskild instans måste din Marketo-administratör bjuda in dig till alla dina olika prenumerationer med samma inloggning. Marketo kan inte sammanfoga dina befintliga inloggningar automatiskt. När du har aktiverat Universellt ID är **din Marketo-instans inte tillgänglig** i upp till 30 minuter. Om du har en större användarbas kan det ta lite längre tid.
+Alla Marketo-prenumerationer har den valfria funktionen Universal ID. Från varje enskild instans måste din Marketo-administratör bjuda in dig till alla dina olika prenumerationer med samma inloggning. Marketo kan inte sammanfoga dina befintliga inloggningar automatiskt.
 
 >[!NOTE]
 >

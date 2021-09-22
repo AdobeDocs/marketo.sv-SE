@@ -3,9 +3,9 @@ description: Konfiguration - Marketo Docs - produktdokumentation
 title: Konfiguration
 hide: true
 hidefromtoc: true
-source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ PICC (för hela chatbox)
 
 **Stil**
 
-Med Stil kan du välja önskade färger, placering/utfyllnad för chatbox-fästpunkter och teckensnittstyp/storlek.
+Här definierar du utseendet på chatbot där dina dialogrutor ska visas: färger, teckensnitt, placering av robotwidgeten och chatbot-ens namn/avatar.
 
 Färgen i varje kategori bestäms av ett [hexadecimalt färgvärde](https://color.adobe.com/create/color-wheel) (t.ex. vitt = #ffffff, rött = #bf1932, osv.).
 
@@ -50,13 +50,13 @@ PICC av val av avatar
 
 ## Sekretessflik {#privacy-tab}
 
-Klicka på fliken **Sekretess** för att lägga till/redigera URL:en för webbplatsens sekretesspolicy.
+Klicka på fliken **Sekretess** för att lägga till/redigera URL:en för webbplatsens sekretesspolicy (valfritt).
 
 PICC
 
 ## Installationsflik {#installation-tab}
 
-Klicka på fliken **Installation** för att ta reda på vilket skript ditt Web Dev-team behöver placera på din webbplats.
+För att chattbot ska visas på webbplatsen måste du först installera JavaScript-fragmentet Dynamic Chat. Klicka på den här fliken om du vill söka efter/kopiera den nödvändiga koden. Om du inte känner till den här åtgärden kan du kontakta ditt webbteam eller din IT-avdelning för att få hjälp.
 
 PICC
 
