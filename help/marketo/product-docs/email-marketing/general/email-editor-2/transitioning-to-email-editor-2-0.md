@@ -2,18 +2,17 @@
 unique-page-id: 11373011
 description: Övergång till e-postredigeraren 2.0 - Marketo Docs - produktdokumentation
 title: Övergår till Email Editor 2.0
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
+source-git-commit: 64ff6900a761b9df796a9a7f417cca1ddc628cce
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
+# Övergår till Email Editor 2.0 {#transitioning-to-email-editor}
 
-# Övergår till e-postredigeraren 2.0 {#transitioning-to-email-editor}
-
-Från och med den [19 juni](/help/marketo/release-notes/2016/release-notes-spring-16.md) har alla Marketo-prenumerationer övergått till Email Editor 2.0. [Läs mer om borttagning av e-postredigerare 1.0.](https://nation.marketo.com/docs/DOC-7038)
+Från och med versionen från juni 19 har alla Marketo-prenumerationer övergått till Email Editor 2.0. [Läs mer](https://nation.marketo.com/docs/DOC-7038) om borttagning av e-postredigerare 1.0.
 
 E-post och e-postmallar i din prenumeration ska ha ett versionsnummer. Versionen finns på resurssammanfattningssidan.
 
