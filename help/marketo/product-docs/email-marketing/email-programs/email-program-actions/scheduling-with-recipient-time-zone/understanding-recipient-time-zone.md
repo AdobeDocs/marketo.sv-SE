@@ -1,19 +1,18 @@
 ---
 unique-page-id: 12983291
-description: Förstå mottagarens tidszon - Marketo Docs - Produktdokumentation
+description: Understanding Recipient Time Zone - Marketo Docs - Product Documentation
 title: Förstå mottagartidszon
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
+source-git-commit: 46812deb41ed56328a4a64fbd36340d13c50dde4
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '391'
 ht-degree: 0%
 
 ---
 
+# Förstå mottagartidszon {#understanding-recipient-time-zone}
 
-# Om mottagarens tidszon {#understanding-recipient-time-zone}
-
-E-post- och engagemangsprogram kan konfigureras så att de levereras enligt mottagarnas tidszoner, vilket eliminerar behovet av att skapa flera program - skicka en gång och Marketo lagrar e-postmeddelandet automatiskt tills rätt lokal tid.
+E-post- och engagemangsprogram kan konfigureras så att de levereras enligt mottagarnas tidszoner, vilket eliminerar behovet av att skapa flera program - skicka en gång och Marketo lagrar automatiskt e-postmeddelandet till rätt lokal tid.
 
 >[!NOTE]
 >
@@ -28,9 +27,9 @@ Det finns två primära scenarier när [schemalägga ett e-postprogram](/help/ma
 
 För att varje tidszon ska få plats börjar e-postprogram som schemalagts med mottagartidszon att köras vid midnatt i tidszonen **först/tidigast** i världen (UTC +14:00).
 
-## Åtagandeprogram {#engagement-programs}
+## Engagement Programs {#engagement-programs}
 
-När du [schemalägger en engagemangsprogramström](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) och Mottagarens tidszon är aktiv, kommer programsändningen att börja köras vid midnatt i UTC +14:00. Vi kräver att du schemalägger den första omgången minst 25 timmar i framtiden (24 timmar + lite tid för att komma igång med kampanjen) eftersom folk kan kvalificera sig för omsändningen i varje tidszon över hela världen. Bearbetningen påbörjas nu i UTC +14:00 garanterar att vi skickar e-postmeddelandet på schemalagt datum och tid för alla som är kvalificerade för den här sändningen.
+När du [schemalägger en engagemangsprogramström](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) och Mottagarens tidszon är aktiv, kommer programsändningen att börja köras vid midnatt i UTC +14:00. Vi kräver att du schemalägger den första omgången minst 25 timmar i framtiden (24 timmar + lite tid för att komma igång med kampanjen) eftersom folk kan kvalificera sig för omsändningen i varje tidszon över hela världen. Bearbetningen påbörjas nu i UTC +14:00 garanterar att vi skickar e-postmeddelandet på schemalagt datum och tid för alla som kvalificerar sig för den här sändningen.
 
 ## Beräknar tidszon {#calculating-time-zone}
 
@@ -41,7 +40,7 @@ Om vi bara har **ett** land eller **bara** delstat tillgänglig:
 * För länder med tre eller färre tidszoner väljer vi den mellersta tidszonen.
 * För lägen med två tidszoner väljer vi det tidigare av de två.
 
-Om vi fortfarande inte kan fastställa någons tidszon från någon kombination av dessa fält kommer vi att **inte** tilldela en tidszon och e-postmeddelandet kommer att skickas baserat på din Marketo-prenumerationstidszon. Om ditt program är schemalagt till 9:00 PDT får personer utan tidszon e-postmeddelandet kl. 9:00 PDT.
+Om vi fortfarande inte kan fastställa någons tidszon från någon kombination av dessa fält, kommer vi att **inte** tilldela en tidszon och e-postmeddelandet skickas baserat på din Marketo-prenumerationstidszon. Om ditt program är schemalagt till klockan 9:00 PDT, kommer personer utan tidszon att få e-postmeddelandet kl. 9:00 PDT.
 
 >[!NOTE]
 >
@@ -51,8 +50,6 @@ Om vi fortfarande inte kan fastställa någons tidszon från någon kombination 
 >
 >* [Schemalägg e-postprogram med mottagartidszon](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
 >* [Head Start for Email Programs](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
-
-   >
-   >
-* [Schemalägg engagemangsprogram med mottagartidszon](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
+>
+>* [Schemalägg engagemangsprogram med mottagartidszon](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
 

@@ -3,19 +3,14 @@ unique-page-id: 1146995
 description: Använd token i flödessteg - Marketo Docs - produktdokumentation
 title: Använd token i flödessteg
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 46812deb41ed56328a4a64fbd36340d13c50dde4
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
 
 # Använd token i flödessteg {#use-tokens-in-flow-steps}
-
->[!AVAILABILITY]
->
->Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
 >[!PREREQUISITES]
 >
@@ -30,7 +25,9 @@ En variabel är en variabel. Ni använder det i e-postmeddelanden, landningssido
 * Skapa uppgift
 * Skicka avisering (endast i utlösarkampanjer)
 
-1. I flödessteget börjar du skriva `{{` för att hämta tokategorier. ![](assets/image2014-9-22-14-3a3-3a17.png)
+1. I flödessteget börjar du skriva `{{` för att hämta tokategorier.
+
+   ![](assets/image2014-9-22-14-3a3-3a17.png)
 
    >[!NOTE]
    >

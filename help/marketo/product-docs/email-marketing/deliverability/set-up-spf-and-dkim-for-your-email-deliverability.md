@@ -2,18 +2,17 @@
 unique-page-id: 4720710
 description: Konfigurera SPF och DKIM för din e-postleverans - Marketo Docs - Produktdokumentation
 title: Konfigurera SPF och DKIM för e-postleveransen
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
+source-git-commit: 46812deb41ed56328a4a64fbd36340d13c50dde4
 workflow-type: tm+mt
 source-wordcount: '443'
 ht-degree: 0%
 
 ---
 
+# Konfigurera SPF och DKIM för e-postleveransen {#set-up-spf-and-dkim-for-your-email-deliverability}
 
-# Konfigurera SPF och DKIM för din e-postslutbarhet {#set-up-spf-and-dkim-for-your-email-deliverability}
-
-Ett snabbt sätt att förbättra e-postleveranshastigheten är att införliva **SPF** (Sender Policy Framework) och **DKIM** (Domain Keys Identified Mail) i dina DNS-inställningar. Med det här tillägget i dina DNS-poster talar du om för mottagarna att du har auktoriserat Marketatt att skicka e-post för din räkning. Utan den här ändringen har din e-postadress större chans att markeras som skräppost eftersom e-postadressen adresserades från din domän, men skickas från en IP-adress med en Marketo-domän.
+Ett snabbt sätt att förbättra e-postleveranshastigheten är att införliva **SPF** (Sender Policy Framework) och **DKIM** (Domain Keys Identified Mail) i dina DNS-inställningar. Med det här tillägget i dina DNS-poster talar du om för mottagarna att du har auktoriserat Marketo att skicka e-post för din räkning. Utan den här ändringen har din e-postadress större chans att markeras som skräppost eftersom e-postadressen adresserades från din domän, men skickas från en IP-adress med en Marketo-domän.
 
 >[!CAUTION]
 >
@@ -41,7 +40,7 @@ DKIM är ett autentiseringsprotokoll som används av e-postmottagare för att av
 
 **Hur fungerar DKIM?**
 
-När du har konfigurerat den offentliga nyckeln i din DNS-post och aktiverat den sändande domänen i avsnittet Admin (A), aktiverar vi anpassad DKIM-signering för dina utgående meddelanden, som kommer att innehålla en krypterad digital signatur med varje e-postmeddelande som vi skickar till dig (B). Mottagarna kan dekryptera den digitala signaturen genom att leta upp den&quot;offentliga nyckeln&quot; i den sändande domänens DNS (C). Om nyckeln i e-postmeddelandet motsvarar nyckeln i din DNS-post, är det troligare att den mottagande e-postservern accepterar e-postmarkeringen som skickas för din räkning.
+När du har konfigurerat den offentliga nyckeln i din DNS-post och aktiverat den sändande domänen i avsnittet Admin (A), aktiverar vi anpassad DKIM-signering för dina utgående meddelanden, som kommer att innehålla en krypterad digital signatur med varje e-postmeddelande som vi skickar till dig (B). Mottagarna kan dekryptera den digitala signaturen genom att leta upp den&quot;offentliga nyckeln&quot; i den sändande domänens DNS (C). Om nyckeln i e-postmeddelandet motsvarar nyckeln i din DNS-post, är det troligare att den mottagande e-postservern accepterar e-postmeddelandet som skickas för din räkning.
 
 ![](assets/image2015-1-12-13-3a56-3a55.png)
 
@@ -51,8 +50,8 @@ Se [Konfigurera en anpassad DKIM-signatur](/help/marketo/product-docs/email-mark
 
 >[!MORELIKETHIS]
 >
->* [Läs mer om SPF och hur det fungerar](https://www.open-spf.org/Introduction/)
->* [Marketos verktyg för e-postleverans](https://www.marketo.com/software/email-marketing/email-deliverability/)
+>* [Läs mer om SPF och hur det fungerar](http://www.open-spf.org/Introduction/)
+>* [Marketo verktyg för e-postleverans](https://www.marketo.com/software/email-marketing/email-deliverability/)
 >* [Är min SPF korrekt konfigurerad?](https://www.kitterman.com/spf/validate.html)
 >* [Använde jag rätt syntax?](https://www.open-spf.org/SPF_Record_Syntax/)
 
