@@ -5,7 +5,7 @@ title: Övergår till Email Editor 2.0
 exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
 source-git-commit: 64ff6900a761b9df796a9a7f417cca1ddc628cce
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '631'
 ht-degree: 0%
 
 ---

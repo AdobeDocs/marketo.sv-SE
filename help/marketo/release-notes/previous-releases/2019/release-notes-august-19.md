@@ -3,7 +3,7 @@ unique-page-id: 27656786
 description: Versionsinformation -August 19 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - augusti 19
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 76cea113ddff730e1ad30d0e1fea801053ba4d98
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Följande funktioner släpptes 16 augusti 2019.
 
 ## Core Marketo Engage {#core-marketo-engage}
 
-* **Extensible Webinar Framework**: Spara tid med Marketo nya färdiga webbinarium (som introducerades i  [Winter 19-versionsinformationen ](/help/marketo/release-notes/2019/release-notes-winter-19.md) som smidigt skickar data från webbinarier till Marketo och vice versa. Event och Zoom finns nu i det nya ramverket.
+* **Extensible Webinar Framework**: Spara tid med Marketo nya färdiga webbinarium (som introducerades i versionsinformationen för Winter 19) som smidigt överför data från webbinarier till Marketo och vice versa. Event och Zoom finns nu i det nya ramverket.
 * **API-uppdatering** för smarta kampanjer: Hantera livscykelfunktioner för smarta kampanjer när vi bygger ut CRUD-gränssnittet (skapa, läsa, uppdatera, ta bort).
 * **Uppdatera API-ändring** för e-posthuvuden: API:t Uppdatera e-posthuvud kräver inte längre något e-postmeddelande för att ha en bifogad mall för att uppdatera rubrikfält, som ämnesraden.
 
