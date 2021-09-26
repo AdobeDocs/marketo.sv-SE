@@ -3,9 +3,9 @@ description: Dynamic Chat Overview - Marketo Docs - produktdokumentation
 title: Dynamisk chattöversikt
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: ff69a50bc725e5092ba1162a3981b129fefd0c8a
 workflow-type: tm+mt
-source-wordcount: '606'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
@@ -78,17 +78,9 @@ Här kan du se en lista över alla agenter som har kopplat samman sina kalendrar
 
 —EVENTUELLA JÄSTER? LOL—
 
-**Kan chatbot formateras med CSS?**
-
-Chatbot kan för närvarande inte formateras med CSS.
-
-**Kan jag använda anpassade teckensnittsalternativ?**
-
-Endast de förinställda teckensnittsalternativen är tillgängliga just nu.
-
 **Tillåter Dynamic Chat live-chatt?**
 
-Nej, bara förutbestämda svar.
+Nej, det använder bara förbestämda svar.
 
 **Stöder du AI/NLP-funktioner?**
 
