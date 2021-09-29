@@ -3,9 +3,9 @@ description: Lägg till eller ta bort chattanvändare - Marketo Docs - produktdo
 title: Lägg till eller ta bort chattanvändare
 hide: true
 hidefromtoc: true
-source-git-commit: d427bc129939dd15ce33797d1ef5ea56992bcb40
+source-git-commit: 4984b82ed9de2684d1be3f9444d5685b8b1a03d1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -18,35 +18,35 @@ Följ stegen nedan för att lägga till eller ta bort chattanvändare.
 
 1. Logga in på [Adobe Admin Console](https://adminconsole.adobe.com/).
 
-   PICC
+   ![](assets/add-or-remove-chat-users-1.png)
 
 1. Klicka på **Dynamiskt chatt**.
 
-   PICC
+   ![](assets/add-or-remove-chat-users-2.png)
 
-1. Välj önskad prenumeration (om du har fler än en).
-
-   PICC
+   >[!NOTE]
+   >
+   >Om du har fler än en Marketo-prenumeration väljer du en före nästa steg).
 
 1. Klicka på fliken **Användare**.
 
-   PICC
+   ![](assets/add-or-remove-chat-users-3.png)
 
 1. Klicka på knappen **Lägg till användare**.
 
-   PICC
+   ![](assets/add-or-remove-chat-users-4.png)
 
 1. Ange namn, användargrupp eller e-postadress för den användare som du vill lägga till. Förnamn och efternamn är valfria.
 
-   PICC
+   ![](assets/add-or-remove-chat-users-5.png)
 
 1. Klicka på ikonen **+** och välj önskad produktprofil.
 
-   PICC
+   ![](assets/add-or-remove-chat-users-6.png)
 
 1. Klicka på **Spara**.
 
-   PICC
+   ![](assets/add-or-remove-chat-users-7.png)
 
 Användaren får sedan ett e-postmeddelande om att logga in på Marketo.
 
@@ -54,27 +54,31 @@ Användaren får sedan ett e-postmeddelande om att logga in på Marketo.
 
 1. Logga in på [Adobe Admin Console](https://adminconsole.adobe.com/).
 
-   PICC
+   ![](assets/add-or-remove-chat-users-8.png)
 
-1. Klicka på **Marketo Engage**.
+1. Klicka på **Dynamiskt chatt**.
 
-   PICC
+   ![](assets/add-or-remove-chat-users-9.png)
 
-1. Välj önskad prenumeration (om du har fler än en).
-
-   PICC
+   >[!NOTE]
+   >
+   >Om du har fler än en Marketo-prenumeration väljer du en före nästa steg).
 
 1. Klicka på fliken **Användare**.
 
-   PICC
+   ![](assets/add-or-remove-chat-users-10.png)
 
-1. Markera den användare som du vill ta bort och klicka på knappen **Ta bort**.
+1. Markera den användare som du vill ta bort.
 
-   PICC
+   ![](assets/add-or-remove-chat-users-11.png)
+
+1. Klicka på knappen **Ta bort användare**.
+
+   ![](assets/add-or-remove-chat-users-12.png)
 
 1. Bekräfta genom att klicka på **Ta bort användare**.
 
-   PICC
+   ![](assets/add-or-remove-chat-users-13.png)
 
 >[!MORELIKETHIS]
 >

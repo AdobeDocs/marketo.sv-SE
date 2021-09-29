@@ -3,9 +3,9 @@ description: Dialogrutor - Marketo Docs - produktdokumentation
 title: Dialogrutor
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '523'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ PICC
 
 >[!NOTE]
 >
->FÖRKLARA PRIORITETSNIVÅ
+>Prioritetsnivån avgör var dialogrutan visas i listan (t.ex.: prioritet = 1 betyder att den kommer att vara högst upp).
 
 ## Målgruppskriterier {#audience-criteria}
 
@@ -114,3 +114,7 @@ Strömdesignern innehåller olika kort som du kan lägga till för att forma cha
 EVENTUELLT EGET AVSNITT
 
 VISA EXEMPEL NEDAN
+
+## Rapporter {#reports}
+
+Text

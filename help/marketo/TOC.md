@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: ff69a50bc725e5092ba1162a3981b129fefd0c8a
+source-git-commit: 3a3002c7669ea084ea1a953d182bbaa4fcf93167
 workflow-type: tm+mt
-source-wordcount: '8099'
+source-wordcount: '8102'
 ht-degree: 0%
 
 ---
@@ -620,10 +620,11 @@ ht-degree: 0%
          + [Skicka en lista till ett annonsnätverk](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Dynamisk chatt {#dynamic-chat}
          + [Dynamisk chattöversikt](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
-         + [Dialogrutor](product-docs/demand-generation/dynamic-chat/dialogues.md)
-         + [Konfiguration](product-docs/demand-generation/dynamic-chat/configuration.md)
-         + [Lägg till eller ta bort chattanvändare](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [Inledande konfiguration](product-docs/demand-generation/dynamic-chat/initial-setup.md)
+         + [Åtkomst till dynamiskt chatt](product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md)
+         + [Lägg till eller ta bort chattanvändare](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
+         + [Konfiguration](product-docs/demand-generation/dynamic-chat/configuration.md)
+         + [Dialogrutor](product-docs/demand-generation/dynamic-chat/dialogues.md)
       + Händelser {#events}
          + Förstå händelser {#understanding-events}
             + [Lägga till medlemmar i ett händelseprogram](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)

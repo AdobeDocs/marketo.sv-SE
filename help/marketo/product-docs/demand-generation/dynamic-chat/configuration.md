@@ -3,9 +3,9 @@ description: Konfiguration - Marketo Docs - produktdokumentation
 title: Konfiguration
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: 4984b82ed9de2684d1be3f9444d5685b8b1a03d1
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,11 @@ Lär dig hur du anpassar utseendet på chatbot-dialogrutan.
 
 Klicka på **Konfiguration** för att komma igång.
 
-PICC
+![](assets/configuration-1.png)
 
 Det finns flera olika anpassningsalternativ.
 
-PICC (för hela chatbox)
+![](assets/configuration-2.png)
 
 ## Fliken Format {#style-tab}
 
@@ -30,35 +30,33 @@ Här definierar du utseendet på chatbot där dina dialogrutor ska visas: färge
 
 Färgen i varje kategori bestäms av ett [hexadecimalt färgvärde](https://color.adobe.com/create/color-wheel) (t.ex. vitt = #ffffff, rött = #bf1932, osv.).
 
-PICC
+![](assets/configuration-3.png)
 
-Med ankarpunkten kan besökaren öppna/stänga chatbox. Du kan välja om ikonen ska visas längst ned till höger eller längst ned till vänster. Du kan också öka/minska utfyllnaden (mängden utrymme mellan chatbox och ikonen).
+Med ankarpunkten kan besökaren öppna/stänga chatbox. Du kan välja om ikonen ska visas längst ned till höger eller längst ned till vänster. Du kan också öka/minska utfyllnaden (mängden utrymme mellan ikonen och webbsidans nederkant).
 
-PICC för ankarpunkter
-
-PICC för utfyllnad
+![](assets/configuration-4.png)
 
 **Agentinställningar**
 
 I Agentinställningar kan du lägga till en etikett i din chatbox (t.ex.: &quot;Adobe Bot&quot;) som visas högst upp. Du kan också fastställa fördröjningen för svar (i sekunder) och ändra din chattavatar.
 
-PICC för inställningsnamn
+![](assets/configuration-5.png)
 
-PICC för inställning av fördröjning
+Kom ihåg att klicka på **Spara** när du är klar med ändringarna.
 
-PICC av val av avatar
+![](assets/configuration-6.png)
 
 ## Sekretessflik {#privacy-tab}
 
 Klicka på fliken **Sekretess** för att lägga till/redigera URL:en för webbplatsens sekretesspolicy (valfritt).
 
-PICC
+![](assets/configuration-7.png)
 
 ## Installationsflik {#installation-tab}
 
 För att chattbot ska visas på webbplatsen måste du först installera JavaScript-fragmentet Dynamic Chat. Klicka på den här fliken om du vill söka efter/kopiera den nödvändiga koden. Om du inte känner till den här åtgärden kan du kontakta ditt webbteam eller din IT-avdelning för att få hjälp.
 
-PICC
+![](assets/configuration-8.png)
 
 >[!NOTE]
 >

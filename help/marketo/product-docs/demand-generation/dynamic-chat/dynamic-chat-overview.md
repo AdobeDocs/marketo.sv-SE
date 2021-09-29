@@ -3,9 +3,9 @@ description: Dynamic Chat Overview - Marketo Docs - produktdokumentation
 title: Dynamisk chattöversikt
 hide: true
 hidefromtoc: true
-source-git-commit: ff69a50bc725e5092ba1162a3981b129fefd0c8a
+source-git-commit: 8ef7611e9a6b9756d35a9c8fbd439f25f5c714be
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '509'
 ht-degree: 0%
 
 ---
@@ -18,37 +18,9 @@ Med Dynamic Chat kan du utnyttja ett lättanvänt gränssnitt för att rikta in 
 >
 >Dynamic Chat håller på att lanseras och alla prenumerationer ska ha åtkomst via DATE.
 
-## Konfigurera dynamisk chatt {#access-dynamic-chat}
-
-NÄR RUTAN HAR LAGTS TILL.. Följ de här stegen för att komma igång.
-
-1. Klicka på panelen **Dynamiskt chatt** i My Marketo.
-
-   PICC
-
-   >[!NOTE]
-   >
-   >Om du inte ser..kontakta din Marketo-administratör).
-
-1. Om du tidigare har använt ett program med en Adobe ID kommer du direkt till Dynamic Chat. Om inte, [konfigurera din Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
-
-   PICC
-
-1. Om du vill ansluta din Marketo-instans väljer du **Integrationer**.
-
-   PICC
-
-1. Klicka på INFOGA TEXT HÄR?
-
-   PICC
-
-   >[!NOTE]
-   >
-   >Det kan ta mellan 5 minuter och 8 timmar innan synkroniseringen är klar, beroende på databasens storlek. Den genomsnittliga synkroniseringstiden är 60 minuter.
-
 ## Integreringar {#integrations}
 
-Integrationer är den första fliken som du kommer att besöka när du öppnar Dynamic Chat. Det är där du synkroniserar dina Marketo-prenumerationer, så att du kan använda dina Marketo-databasdata för att identifiera webbplats-/chattbesökare ([se steg 3 ovan](#access-dynamic-chat)).
+En viktig komponent i Dynamic Chat är möjligheten att kunna interagera direkt med din Marketo-prenumeration. För att kunna utnyttja den här integreringens fulla kapacitet måste du först initiera datasynkroniseringen. Det kan ta upp till 24 timmar innan den initiala [engångssynkroniseringen](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md) är klar.
 
 ## Dialogrutor {#dialogues}
 
@@ -68,23 +40,27 @@ Du kan också anpassa innehållet i inbjudan via e-post? som skickas till besök
 
 Här ser du alla avtalade tider som har schemalagts av webbplatsbesökare via olika dialogrutor. Här hittar du e-postadressen till den lead som bokade den avtalade tiden, vilken agent de bokade den avtalade tiden med, när den avtalade tiden ska äga rum och om mötet har ägt rum eller inte.
 
-PICC?
-
 ## Routning {#routing}
 
 Här kan du se en lista över alla agenter som har kopplat samman sina kalendrar samt i vilken ordning de kommer att presenteras för webbplatsbesökare. Om du har fem agenter och agent tre som deltog i det senaste mötet får agent 4 nästa, följt av fem, och sedan tillbaka till agent ett.
 
 ## Vanliga frågor {#faq}
 
-—EVENTUELLA JÄSTER? LOL—
-
 **Tillåter Dynamic Chat live-chatt?**
 
 Nej, det använder bara förbestämda svar.
 
+**Hur kan jag rikta mig mot anonyma leads?**
+
+I dialogrutan måste du använda attributet _Lead Email är Empty_.
+
 **Stöder du AI/NLP-funktioner?**
 
 Vi stöder inte AI/NLP-funktioner.
+
+**Hur länge lagras data för rapportering?**
+
+90 dagar.
 
 **Finns det några andra språk än engelska i Dynamic Chat?**
 
