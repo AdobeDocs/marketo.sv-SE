@@ -3,16 +3,16 @@ description: Dialogrutor - Marketo Docs - produktdokumentation
 title: Dialogrutor
 hide: true
 hidefromtoc: true
-source-git-commit: bea169db9e2dd12f95b2a19aa9f922819770fc95
+source-git-commit: d915a51337f9dbbccc924fd8f7e69257be39f4ef
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: '745'
 ht-degree: 0%
 
 ---
 
 # Dialogrutor {#dialogues}
 
-Dialogrutor är de enskilda chattkonversationer du kommer att skapa. Lär dig hur du anpassar dem visuellt, avgör vilka sidor de visas på och avgör vad som sägs samt vem som ser dem.
+Dialogrutor är individuella chattsamtal. Lär dig hur du anpassar dem visuellt, avgör vilka sidor de visas på och avgör vad som sägs samt vem som ser dem.
 
 ## Skapa en ny dialogruta {#create-a-new-dialogue}
 
@@ -30,7 +30,7 @@ Dialogrutor är de enskilda chattkonversationer du kommer att skapa. Lär dig hu
 
 >[!NOTE]
 >
->Prioritetsnivån avgör var dialogrutan visas i listan (t.ex.: prioritet = 1 betyder att den kommer att vara högst upp).
+>Prioritetsnivån avgör var dialogrutan visas i listan (t.ex.: prioritet 1 innebär att den kommer att vara högst upp).
 
 ## Målgruppskriterier {#audience-criteria}
 
@@ -82,7 +82,7 @@ Det finns ett enkelt sätt att specifikt rikta in leads som ännu inte finns i d
 
    >[!NOTE]
    >
-   >FÖRKLARA INFERERAT.
+   >När någon besöker din webbplats, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) cookies dem och placerar dem i systemet. Vi slår upp deras IP-adresser i en speciell databas och drar nytta av all slags bra information.
 
 1. __ Isis är inställd som standard. I fältet Välj värden skriver du NY (du kan också klicka på listrutan och välja från listan).
 
@@ -137,8 +137,38 @@ Strömdesignern innehåller olika kort som du kan lägga till för att forma cha
  </tr>
 </table>
 
-VISA EXEMPEL NEDAN
+**Skapa en ström**
+
+Det finns _många_ strömkombinationer att skapa. I det här exemplet ställer vi en fråga och förbereder .
 
 ## Rapporter {#reports}
 
-Text
+Visa data från de senaste 90 dagarna på fliken Rapporter. Varje kategori definieras nedan.
+
+<table>
+ <tr>
+  <td><strong>Totalt utlöst</strong></td>
+  <td>Ökningar varje gång en besökare kvalificerar sig för/visas som en dialogruta.
+</td>
+ </tr>
+ <tr>
+  <td><strong>Engagerad</strong></td>
+  <td>Ökningar varje gång en besökare klickar på chattbot-ankarpunkten för att öppna dialogrutan.</td>
+ </tr>
+ <tr>
+  <td><strong>Slutförd</strong></td>
+  <td>Ökningar varje gång en besökare kommer till slutet av en gren i en dialogruta.</td>
+ </tr>
+ <tr>
+  <td><strong>Infångade leads</strong></td>
+  <td>Ökningar varje gång en besökare anger en giltig e-postadress i ett dialogflöde.</td>
+ </tr>
+ <tr>
+  <td><strong>Möten bokade</strong></td>
+  <td>Ökningar varje gång en besökare kan schemalägga ett möte via chattbot.</td>
+ </tr>
+ <tr>
+  <td><strong>Målen har uppnåtts</strong></td>
+  <td>Ökningar varje gång en besökare når ett mål i ett dialogflöde.</td>
+ </tr>
+</table>
