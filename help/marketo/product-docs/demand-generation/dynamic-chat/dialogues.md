@@ -3,9 +3,9 @@ description: Dialogrutor - Marketo Docs - produktdokumentation
 title: Dialogrutor
 hide: true
 hidefromtoc: true
-source-git-commit: 8252a1a7cb32227eeae754e37386d975c4ed8884
+source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '749'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Dialogrutor är individuella chattsamtal. Lär dig hur du anpassar dem visuellt,
 
 >[!NOTE]
 >
->Prioritetsnivån avgör var dialogrutan visas i listan (t.ex.: prioritet 1 innebär att den kommer att vara högst upp).
+>Prioritet avgör vilken dialogruta som visas för en besökare när de kvalificerar sig för flera dialogrutor samtidigt.
 
 ## Målgruppskriterier {#audience-criteria}
 

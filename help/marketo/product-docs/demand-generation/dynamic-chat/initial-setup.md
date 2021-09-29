@@ -3,9 +3,9 @@ description: Inledande installation - Marketo Docs - produktdokumentation
 title: Inledande konfiguration
 hide: true
 hidefromtoc: true
-source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
+source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Följ stegen nedan för att konfigurera Dynamic Chat.
 
 ## Lägg till behörigheter i Marketo {#add-permissions-in-marketo}
 
-När du har lagt till användare i Admin Console måste du bevilja behörigheter i Marketo.
+När du har lagt till användare i Admin Console måste du tilldela behörigheter i Marketo för att de ska kunna få åtkomst till kortkommandot Dynamiskt chatt från Marketo.
 
 1. Klicka på **Admin** i Marketo.
 
@@ -46,4 +46,4 @@ När du har lagt till användare i Admin Console måste du bevilja behörigheter
 >
 >Följ stegen i den ordning som anges ovan. Om någon beviljas behörighet i Marketo först, kommer de att se panelen Dynamiskt chatt, men har ingen användaråtkomst.
 
-Nästa steg är att [få åtkomst till Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md).
+Nästa steg är att [ansluta dynamiskt chatt till Marketo](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md).
