@@ -3,9 +3,9 @@ description: Dialogrutor - Marketo Docs - produktdokumentation
 title: Dialogrutor
 hide: true
 hidefromtoc: true
-source-git-commit: d915a51337f9dbbccc924fd8f7e69257be39f4ef
+source-git-commit: 8252a1a7cb32227eeae754e37386d975c4ed8884
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -139,7 +139,9 @@ Strömdesignern innehåller olika kort som du kan lägga till för att forma cha
 
 **Skapa en ström**
 
-Det finns _många_ strömkombinationer att skapa. I det här exemplet ställer vi en fråga och förbereder .
+Det finns _många_ strömkombinationer att skapa. I det här exemplet frågar vi ja eller nej och förbereder några svar.
+
+EXEMPEL
 
 ## Rapporter {#reports}
 
