@@ -3,7 +3,7 @@ description: Dynamic Chat Overview - Marketo Docs - produktdokumentation
 title: Dynamisk chattöversikt
 hide: true
 hidefromtoc: true
-source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
+source-git-commit: afc7c8352b4470bfc367f3d16836fb14d55b8821
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Med Dynamic Chat kan du utnyttja ett lättanvänt gränssnitt för att rikta in 
 
 ## Integreringar {#integrations}
 
-En viktig komponent i Dynamic Chat är möjligheten att kunna interagera direkt med din Marketo-prenumeration. För att kunna utnyttja den här integreringens fulla kapacitet måste du först initiera datasynkroniseringen. Beroende på storleken på din Marketo-databas kan det ta upp till 24 timmar innan den initiala [engångssynkroniseringen](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md) har slutförts. Den genomsnittliga synkroniseringstiden är mindre än två timmar.
+En viktig komponent i Dynamic Chat är möjligheten att kunna interagera direkt med din Marketo-prenumeration. För att kunna utnyttja den här integreringens fulla kapacitet måste du först initiera datasynkroniseringen. Beroende på storleken på din Marketo-databas kan det ta upp till 24 timmar innan den initiala [engångssynkroniseringen](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md) har slutförts. Den genomsnittliga synkroniseringstiden är mindre än två timmar.
 
 Följande synkroniseras:
 
