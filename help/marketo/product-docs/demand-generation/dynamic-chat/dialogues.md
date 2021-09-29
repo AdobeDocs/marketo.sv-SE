@@ -3,9 +3,9 @@ description: Dialogrutor - Marketo Docs - produktdokumentation
 title: Dialogrutor
 hide: true
 hidefromtoc: true
-source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
+source-git-commit: bea169db9e2dd12f95b2a19aa9f922819770fc95
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '605'
 ht-degree: 0%
 
 ---
@@ -18,15 +18,15 @@ Dialogrutor är de enskilda chattkonversationer du kommer att skapa. Lär dig hu
 
 1. Klicka på **Dialogrutor**.
 
-PICC
+   ![](assets/dialogues-1.png)
 
 1. Klicka på knappen **Skapa ny**.
 
-PICC
+   ![](assets/dialogues-2.png)
 
 1. Ange ett namn (beskrivningen är valfri), ange prioritetsnivå och klicka på **Spara**.
 
-PICC
+   ![](assets/dialogues-3.png)
 
 >[!NOTE]
 >
@@ -36,31 +36,57 @@ PICC
 
 På samma sätt som med Marketo smarta listor kan du definiera målgruppen med hjälp av attribut för målgruppskriterier. Du kan rikta kända eller okända leads med hjälp av attribut för härledning, lead eller företag (eller en kombination av dessa).
 
-Det finns _många_-attributkombinationer att välja mellan. I det här exemplet riktar vi oss mot alla kända leads i Kalifornien som arbetar på ett företag med över 50 anställda.
+**Kända leads**
 
-1. Hämta leadlägesattributet och dra det åt höger.
+Det finns _många_-attributkombinationer att välja mellan. I det här exemplet riktar vi oss till alla **kända leads** i Kalifornien som arbetar på ett företag med mer än 50 anställda.
 
-PICC
+1. Ta bort attributet **Leadtillstånd** och dra det åt höger.
+
+   ![](assets/dialogues-4.png)
 
 1. __ Isis är inställd som standard. I fältet Välj värden skriver du in CA (du kan också klicka på listrutan och välja från listan).
 
-PICC
+   ![](assets/dialogues-5.png)
 
-1. Ta attributet Företagsstorlek och dra det åt höger.
+1. Ta attributet **Företagsstorlek** och dra det till den plats där det står _dra och släpp ett attribut här_.
 
-PICC
+   ![](assets/dialogues-6.png)
 
-1. Klicka på operatorlistrutan och välj Större än.
+   >[!NOTE]
+   >
+   >Du kan också välja ett attribut genom att klicka på dess **+**-ikon.
 
-PICC
+1. Klicka på operatorlistrutan och välj **Större än**.
+
+   ![](assets/dialogues-7.png)
 
 1. Skriv 50 och klicka någon annanstans på skärmen för att spara.
 
-PICC
+   ![](assets/dialogues-8.png)
 
-HÄMTA ANON LEADS
+**Anonyma leads**
 
-Obs! Ange kanske hur inkommande arbete/visning av anon-användning är, lead-e-post är tom
+Det finns ett enkelt sätt att specifikt rikta in leads som ännu inte finns i din databas. I det här exemplet riktar vi oss mot alla **anonyma leads** som finns i New York-området.
+
+1. Ta tag i attributet **Lead Email** och dra det åt höger.
+
+   ![](assets/dialogues-9.png)
+
+1. Klicka på operatorlistrutan och välj **Är tom**.
+
+   ![](assets/dialogues-10.png)
+
+1. Ta attributet **Inced State** och dra det till den plats där det står _dra och släpp ett attribut här_.
+
+   ![](assets/dialogues-11.png)
+
+   >[!NOTE]
+   >
+   >FÖRKLARA INFERERAT.
+
+1. __ Isis är inställd som standard. I fältet Välj värden skriver du NY (du kan också klicka på listrutan och välja från listan).
+
+   ![](assets/dialogues-12.png)
 
 ## Lägg till grupper {#add-groups}
 
@@ -70,7 +96,7 @@ SLUTFÖR DETTA
 
 ## Mål {#target}
 
-Här anger du den eller de URL:er som du vill att en viss dialogruta ska visas på.
+Här anger du de URL:er som du vill att en viss dialogruta ska visas på.
 
 Godtagbara format:
 
@@ -110,8 +136,6 @@ Strömdesignern innehåller olika kort som du kan lägga till för att forma cha
   <td>Det här är det enda kortet som besökarna inte ser. Det är upp till dig att avgöra vid vilken punkt ett mål uppnås i den specifika chatten (t.ex.: om du vill samla in besökarens e-post, placerar du målkortet efter Info Capture i Stream).</td>
  </tr>
 </table>
-
-EVENTUELLT EGET AVSNITT
 
 VISA EXEMPEL NEDAN
 
