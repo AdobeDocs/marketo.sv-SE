@@ -3,9 +3,9 @@ description: Dynamic Chat Overview - Marketo Docs - produktdokumentation
 title: Dynamisk chattöversikt
 hide: true
 hidefromtoc: true
-source-git-commit: afc7c8352b4470bfc367f3d16836fb14d55b8821
+source-git-commit: b6f0b24ef1e9cece06f44ae11d432291b8ac0425
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Med Dynamic Chat kan du utnyttja ett lättanvänt gränssnitt för att rikta in 
 
 >[!NOTE]
 >
->Dynamic Chat håller på att lanseras gradvis, och alla prenumerationer ska ha tillgång till dem våren 2022. Kontakta din Customer Success Manager om du vill ha mer information.
+>Dynamic Chat håller på att lanseras gradvis och har för närvarande begränsad tillgänglighet. Den här sidan uppdateras med allmän tillgänglighetsinformation (GA) allt eftersom de blir tillgängliga.
 
 ## Integreringar {#integrations}
 
