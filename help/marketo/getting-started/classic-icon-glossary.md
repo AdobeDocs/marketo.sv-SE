@@ -3,7 +3,7 @@ unique-page-id: 4720476
 description: Klassisk ikon - ordlista - Marketo Docs - produktdokumentation
 title: Klassisk ikon - ordlista
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
-source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
+source-git-commit: b76fbbafb96fc0d946dfd88d3dada9a0dccffbc4
 workflow-type: tm+mt
 source-wordcount: '562'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Klassisk ikon - ordlista {#classic-icon-glossary}
 
-Nedan finns de gamla ikonerna från Marketo Classic. Den nya ikonordlistan finns här[](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md).
+Nedan finns de gamla ikonerna från Marketo Classic. Den nya ikonordlistan finns här[](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md).
 
 **Allmänna ikoner**
 
