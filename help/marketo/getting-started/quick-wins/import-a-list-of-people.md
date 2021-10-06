@@ -3,17 +3,16 @@ unique-page-id: 2359418
 description: Importera en lista med människor - Marketo Docs - produktdokumentation
 title: Importera en lista med personer
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 1b37a750c5e609b9e43e942df752305d85153989
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Importera en lista med personer {#import-a-list-of-people}
 
-## Uppdrag: Importera en kalkylbladslista med deltagande i affärsprogram till din databas {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
+## Uppdrag: Importera en kalkylbladslista med deltagande i affärsprogram till databasen {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
 
 >[!PREREQUISITES]
 >
@@ -23,7 +22,7 @@ I den här självstudiekursen får du lära dig hur du importerar personer från
 
 ## Steg 1: Hämta och redigera ett kalkylblad {#step-download-and-edit-a-spreadsheet}
 
-1. Börja med att ladda ned vår övningskalkylbladsfil ([**tradeshow-Attendees.csv**](https://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv)) till datorn.
+1. Börja med att ladda ned vår övningskalkylbladsfil ([**tradeshow-Attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv)) till datorn.
 
    ![](assets/image2014-9-24-12-3a5-3a0.png)
 
@@ -53,7 +52,7 @@ I den här självstudiekursen får du lära dig hur du importerar personer från
 
    ![](assets/image2014-9-24-12-3a21-3a13.png)
 
-1. **Ge** programmet namnet&quot;My Tradeshow Program&quot; och välj&quot;Event&quot; som  **programtyp**.
+1. **** Ge programmet namnet&quot;My Tradeshow Program&quot; och välj&quot;Event&quot; som  **programtyp**.
 
    ![](assets/image2014-9-24-12-3a21-3a25.png)
 
@@ -65,7 +64,7 @@ I den här självstudiekursen får du lära dig hur du importerar personer från
 >
 >Händelseprogram inträffar vid specifika datum. Läs mer om [**Händelser**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md).
 
-## Steg 3: Importera kalkylbladet till Marketo {#step-import-your-spreadsheet-into-marketo}
+## Steg 3: Importera kalkylblad till Marketo {#step-import-your-spreadsheet-into-marketo}
 
 1. I **My Tradeshow Program** klickar du på **Nytt** och väljer **Ny lokal resurs**.
 
@@ -75,7 +74,7 @@ I den här självstudiekursen får du lära dig hur du importerar personer från
 
    ![](assets/image2014-9-24-12-3a22-3a56.png)
 
-1. **Ge** listan namnet&quot;Deltagare i mässa&quot; och klicka på  **Skapa**.
+1. **** Skriv namnet på listan&quot;Deltagare i mässor&quot; och klicka på  **Skapa**.
 
    ![](assets/image2014-9-24-12-3a23-3a9.png)
 
@@ -91,7 +90,7 @@ I den här självstudiekursen får du lära dig hur du importerar personer från
    >
    >Storleksgränsen för CSV-filer är 100 MB.
 
-1. **Bläddra** till  **filen tradeshow-Attendees.** csvkalkylblad på datorn och klicka på  **Nästa**.
+1. **** Bläddra till  **filen tradeshow-Attendees.** csvkalkylsheet på datorn och klicka på  **Nästa**.
 
    ![](assets/eleven-2.png)
 
@@ -132,7 +131,7 @@ I den här självstudiekursen får du lära dig hur du importerar personer från
 >
 >Du kan analysera hur ditt program fungerar genom att spåra programmedlemskap. Läs mer om [**Program**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
 
-## Uppdraget är klart {#mission-complete}
+## Uppdraget är slutfört {#mission-complete}
 
 Deltagarna i ditt varumärke är nu medlemmar i ditt Marketo-program!
 

@@ -3,10 +3,9 @@ unique-page-id: 1147108
 description: Importera ett program - Marketo Docs - produktdokumentation
 title: Importera ett program
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 1b37a750c5e609b9e43e942df752305d85153989
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -57,7 +56,7 @@ Du får en bekräftelse via e-post när importen är klar.
 >
 >Ni måste planera om importerade batchkampanjer och aktivera utlösarkampanjer. Systemet inaktiverar automatiskt kampanjscheman och utlöser kampanjer i det importerade programmet.
 
-## Identifiera fördefinierade program i Marketo programbibliotek {#identify-pre-built-programs-in-the-marketo-program-library}
+## Identifiera färdiga program i Marketo programbibliotek {#identify-pre-built-programs-in-the-marketo-program-library}
 
 Marketo programbibliotek innehåller färdiga, testade program som du kan importera till din prenumeration. Tillgängliga program:
 
@@ -82,7 +81,7 @@ Marketo programbibliotek innehåller färdiga, testade program som du kan import
 >
 >Du måste skapa två anpassade fält (&quot;Demografisk bakgrundsmusik&quot; och&quot;Beteendepoäng&quot;) innan du importerar poängsättningsprogrammet - Standard och Select Editions.
 
-## Inverkan på externa resurser vid programimport {#impact-on-external-assets-during-program-imports}
+## Inverkan på externa resurser under programimporten {#impact-on-external-assets-during-program-imports}
 
 Program använder externa resurser som e-postmallar, mallar för landningssidor, bilder, formulär, tokens och programtaggar. Du kan konfigurera hur landningssidmallar och programtaggar hanteras, och Marketo hanterar automatiskt resten.
 
@@ -98,7 +97,9 @@ Program använder externa resurser som e-postmallar, mallar för landningssidor,
 >
 >Bildtypen mina tokens stöds inte för programimporter. Om ett program som har bildtypen mina tokens importeras, kommer **no**-tokens att aktiveras.
 
-**Programtaggar:** Du kan använda konfliktregler för att styra hur programtaggar som inte finns i målkontot ska hanteras. Om du använder standardregeln skapas programtaggarna, eller så kan du välja att ignorera taggarna. **Forms:** Externa formulär importeras automatiskt till designstudion om det inte finns ett med samma namn.
+**Programtaggar:** Du kan använda konfliktregler för att styra hur programtaggar som inte finns i målkontot ska hanteras. Om du använder standardregeln skapas programtaggarna, eller så kan du välja att ignorera taggarna.
+
+**Forms:** Externa formulär importeras automatiskt till designstudion om det inte finns ett med samma namn.
 
 >[!CAUTION]
 >
