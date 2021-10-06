@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
+source-git-commit: c8da1162177e91313e9a1cd67e78caf79dd991ef
 workflow-type: tm+mt
-source-wordcount: '8101'
+source-wordcount: '8029'
 ht-degree: 0%
 
 ---
@@ -1169,23 +1169,9 @@ ht-degree: 0%
             + [Begränsning för e-postanslutning](product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
             + [Konfigurera en anpassad leveranskanal](product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
          + Skicka ett e-postmeddelande {#send-a-sales-email}
-            + [Lägg till en mall eller kampanj](product-docs/marketo-sales-connect/email/send-a-sales-email/add-a-template-or-campaign.md)
-            + [Lägg till e-post i Salesforce från Gmail](product-docs/marketo-sales-connect/email/send-a-sales-email/add-email-to-salesforce-from-gmail.md)
-            + [Lägg till e-post i Salesforce i e-postklient](product-docs/marketo-sales-connect/email/send-a-sales-email/add-email-to-salesforce-in-email-client.md)
-            + [Lägga till innehåll](product-docs/marketo-sales-connect/email/send-a-sales-email/adding-content.md)
-            + [Autentiseringen misslyckades](product-docs/marketo-sales-connect/email/send-a-sales-email/authentication-unsuccessful-error.md)
             + [Kampanjen har avslutats](product-docs/marketo-sales-connect/email/send-a-sales-email/campaign-has-ended.md)
             + [CC eller Hemlig kopia i e-postmeddelanden](product-docs/marketo-sales-connect/email/send-a-sales-email/cc-or-bcc-in-emails.md)
             + [E-post markerad som skräppost](product-docs/marketo-sales-connect/email/send-a-sales-email/email-marked-as-spam.md)
-            + [E-post vald och e-postgrupp](product-docs/marketo-sales-connect/email/send-a-sales-email/email-selected-and-email-group.md)
-            + [E-postmeddelanden som kommer till skräppost](product-docs/marketo-sales-connect/email/send-a-sales-email/emails-going-to-spam.md)
-            + [Fel vid sändning från Gmail eller Outlook](product-docs/marketo-sales-connect/email/send-a-sales-email/error-when-sending-from-gmail-or-outlook.md)
-            + [Fel vid sändning från webbprogrammet](product-docs/marketo-sales-connect/email/send-a-sales-email/error-when-sending-from-the-web-application.md)
-            + [Hårda studsar](product-docs/marketo-sales-connect/email/send-a-sales-email/hard-bounces.md)
-            + [Schemalägg ett e-postmeddelande](product-docs/marketo-sales-connect/email/send-a-sales-email/how-to-schedule-an-email.md)
-            + [Skicka en gruppe-post](product-docs/marketo-sales-connect/email/send-a-sales-email/how-to-send-a-group-email.md)
-            + [Skicka ett e-postmeddelande från säljare](product-docs/marketo-sales-connect/email/send-a-sales-email/how-to-send-an-email-from-sales-engage.md)
-            + [Schemalagda e-postmeddelanden kommer till utkast](product-docs/marketo-sales-connect/email/send-a-sales-email/scheduled-emails-going-to-drafts.md)
             + [Skicka bifogade filer i ditt e-postmeddelande](product-docs/marketo-sales-connect/email/send-a-sales-email/sending-file-attachments-in-your-email.md)
             + [Begränsningsfelmeddelande i en misslyckad leverans](product-docs/marketo-sales-connect/email/send-a-sales-email/throttling-error-message-in-a-failed-delivery.md)
             + [Begränsningsfel](product-docs/marketo-sales-connect/email/send-a-sales-email/throttling-errors.md)
