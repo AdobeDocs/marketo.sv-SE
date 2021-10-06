@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
+source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
 workflow-type: tm+mt
-source-wordcount: '8104'
+source-wordcount: '8101'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
    + [Komma igång](getting-started.md)
    + [Vad är Adobe Marketo Engage?](getting-started/what-is-adobe-marketo-engage.md)
    + [Marketo-ordlista](getting-started/marketo-glossary.md)
-   + [Ikonordlista](getting-started/icon-glossary.md)
+   + [Klassisk ikon - ordlista](getting-started/classic-icon-glossary.md)
    + Konfigurera {#setup}
       + [Installationssteg](getting-started/setup-steps.md)
       + [Konfigurera checklista](getting-started/setup-steps/setup-checklist.md)
@@ -192,7 +192,7 @@ ht-degree: 0%
          + [Exportera en lista med alla Marketo API-fältnamn](product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md)
          + [Exportera som används av data för ett fält](product-docs/administration/field-management/export-used-by-data-for-a-field.md)
          + [Dölja och visa ett fält](product-docs/administration/field-management/hide-and-unhide-a-field.md)
-         + [HTML-kodningstoken i e-post](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
+         + [HTML-kodning av token i e-postmeddelanden](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
          + [Markera ett fält som känsligt](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
          + [Byta namn på ett fält](product-docs/administration/field-management/rename-a-field.md)
          + [Förstå systemhanterade fält](product-docs/administration/field-management/understanding-system-managed-fields.md)
@@ -339,7 +339,7 @@ ht-degree: 0%
             + [Ändra programstatus](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
             + [Programmet har ändrats](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-success.md)
             + [Ändra medlemsuppgifter för program](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md)
-         + Microsoft Dynamics Flow-åtgärder {#microsoft-dynamics-flow-actions}
+         + Microsoft Dynamics Flow Actions {#microsoft-dynamics-flow-actions}
             + [Lägg till eller ta bort personer från Dynamics-kampanjen](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
             + [Ändra ägare i Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/change-owner-in-microsoft.md)
             + [Skapa uppgift i Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/create-task-in-microsoft.md)
@@ -513,12 +513,12 @@ ht-degree: 0%
       + Microsoft Dynamics Sync {#microsoft-dynamics}
          + [Förstå Microsoft Dynamics Sync](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
          + [Marketo Plugin Releases for Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)
-         + [Plug-in-versioner för Microsoft Dynamics MSI](product-docs/crm-sync/microsoft-dynamics-sync/plug-in-releases-for-microsoft-dynamics-msi.md)
+         + [Plugin-versioner för Microsoft Dynamics MSI](product-docs/crm-sync/microsoft-dynamics-sync/plug-in-releases-for-microsoft-dynamics-msi.md)
          + [Åtgärda problem med synkronisering av Dynamics-validering](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
          + Synkronisera inställningar {#sync-setup}
             + [Ladda ned Marketo Lead Management Solution](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
             + [Uppdatera Marketo Solution för Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
-            + [Verifiera Microsoft Dynamics Sync](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
+            + [Validera Microsoft Dynamics Sync](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [Visa URL för organisationstjänsten](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
             + Microsoft Dynamics 2011 On-Premises {#microsoft-dynamics-2011-on-premises}
                + [Steg 1 av 3: Installera Marketo Solution (2011 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
@@ -560,8 +560,8 @@ ht-degree: 0%
          + Information om synkroniseringsfilter för anpassad Dynamics {#custom-dynmaics-sync-filter-details}
             + [Skapa ett anpassat Dynamics-synkroniseringsfilter](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)
             + [Anpassade synkroniseringsfilterregler för en e-postadress](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
-            + [Synkroniseringsfilter för Microsoft Dynamics: Sammanfoga](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
-            + [Synkroniseringsfilter för Microsoft Dynamics: Kvalificera](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
+            + [Microsoft Dynamics Sync-filter: Sammanfoga](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
+            + [Microsoft Dynamics Sync-filter: Kvalificera](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
             + [Ange ett standardprefix för anpassat fält](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md)
          + [Registrera en app med Azure för att hämta ditt klient-ID/program-ID](product-docs/crm-sync/microsoft-dynamics-sync/register-an-app-with-azure-to-acquire-your-client-id-app-id.md)
          + [Ta bort en lead eller kontakt](product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md)
@@ -615,7 +615,7 @@ ht-degree: 0%
       + Lägg till nätverksintegreringar {#ad-network-integrations}
          + [Förstå annonsnätverksintegreringar](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
          + [Lägg till anpassade Facebook-målgrupper som en LaunchPoint-tjänst](product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
-         + [Lägg till Google Customer Match som en LaunchPoint-tjänst](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
+         + [Lägg till Google kundmatchning som en LaunchPoint-tjänst](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [Lägg till LinkedIn Matched Audiences som en LaunchPoint-tjänst](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Skicka en lista till ett annonsnätverk](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Dynamisk chatt {#dynamic-chat}
@@ -731,7 +731,7 @@ ht-degree: 0%
             + [Lägga till en video på en startsida i frihandsformat](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)
             + [Lägga till en bild på en landningssida med valfri form](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
             + [Lägga till en rektangel på en landningssida med valfri form](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-a-rectangle-to-a-free-form-landing-page.md)
-            + [Lägga till anpassad HTML till en landningssida med valfri form](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-custom-html-to-a-free-form-landing-page.md)
+            + [Lägga till anpassad HTML på en landningssida med valfri form](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-custom-html-to-a-free-form-landing-page.md)
             + [Skapa en landningssida med valfri form](product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
             + [Anpassa mobilvyn för din startsida med kostnadsfria formulär](product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
             + [Använd dynamiskt innehåll på en landningssida i fri form](product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
@@ -1036,7 +1036,7 @@ ht-degree: 0%
             + [Lägg till spårade länkar i ett e-postmeddelande](product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md)
             + [Skapa en kalenderhändelsefil (.ics)](product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
             + [Inaktivera spårning för en e-postlänk](product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md)
-            + [Ladda ned HTML för ett e-postmeddelande](product-docs/email-marketing/general/functions-in-the-editor/download-an-emails-html.md)
+            + [Ladda ned en e-postadress HTML](product-docs/email-marketing/general/functions-in-the-editor/download-an-emails-html.md)
             + [Redigera HTML för ett e-postmeddelande](product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md)
             + E-posttester - Champion-Challenger {#email-tests-champion-challenger}
                + [Lägg till en e-postkampanj/kanal](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
@@ -1059,7 +1059,7 @@ ht-degree: 0%
          + [Email CC](product-docs/email-marketing/general/email-cc.md)
    + Marketo Engage nästa generation av upplevelse {#marketo-engage-next-generation-experience}
       + [Översikt](product-docs/marketo-engage-next-generation-experience/overview.md)
-      + [Ny ikonordlista](product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)
+      + [Ikonordlista](product-docs/marketo-engage-next-generation-experience/icon-glossary.md)
       + [Använda den globala sökningen](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
    + Marketo Sales Connect {#marketo-sales-connect}
       + Komma igång {#getting-started}
@@ -1075,7 +1075,6 @@ ht-degree: 0%
             + [Verifiera din e-postadress](product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
       + Admin {#admin}
          + [Ytterligare administratörer](product-docs/marketo-sales-connect/admin/additional-admins.md)
-         + [Fliken Administratörsinställningar](product-docs/marketo-sales-connect/admin/admin-settings-tab.md)
          + [Blockerade domäner](product-docs/marketo-sales-connect/admin/blocked-domains.md)
          + [Låsning av innehåll](product-docs/marketo-sales-connect/admin/content-lockdown.md)
          + [Skapa ett underteam](product-docs/marketo-sales-connect/admin/create-a-sub-team.md)
@@ -1150,7 +1149,7 @@ ht-degree: 0%
                + [Så här avinstallerar du Sales Connect från Outlook](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/how-to-uninstall-sales-connect-from-outlook.md)
             + Office 365-tillägg {#office-365-add-in}
                + [Lägg till e-post i Salesforce (Office 365)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/add-email-to-salesforce-office-365.md)
-               + [Installera Sales Connect för Office 365 Mac OS, Windows och Online](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/installing-sales-connect-for-office365-mac-os-windows-and-online.md)
+               + [Installera Sales Connect för Office365 Mac OS, Windows och Online](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/installing-sales-connect-for-office365-mac-os-windows-and-online.md)
       + E-post {#email}
          + Kommandocentral {#command-center}
             + [Översikt över kommandocentralen](product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
@@ -1314,7 +1313,7 @@ ht-degree: 0%
          + Konfigurera och använda {#setting-up-and-using}
             + [Lägg till en lead/kontakt i en Marketo-kampanj från Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
             + [Obligatoriska fält för synkronisering av Marketo med Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)
-            + [Skicka ett e-postmeddelande från Marketo till Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)
+            + [Skicka ett e-postmeddelande från Marketo från Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)
             + [Stjärnor och flamma för lead-/kontaktposter](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
          + Avinstallerar {#uninstalling}
             + [Inaktivera global MS Dynamics-synkronisering](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
@@ -1392,7 +1391,7 @@ ht-degree: 0%
          + [Autentisera säkerhet för mobil åtkomst](product-docs/mobile-marketing/admin/authenticate-mobile-access-security.md)
          + [Innan du skapar push-meddelanden och meddelanden i appen](product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)
          + [Konfigurera Android-åtkomst för mobilapp](product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
-         + [Konfigurera push-åtkomst för iOS-mobilappar](product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
+         + [Konfigurera iOS Push Access för mobilappar](product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
          + [Ta bort mobilapp](product-docs/mobile-marketing/admin/delete-mobile-app.md)
          + [Skicka SDK-kod till en utvecklare](product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md)
          + [Verifiera push-konfiguration](product-docs/mobile-marketing/admin/verify-push-configuration.md)
