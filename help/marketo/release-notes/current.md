@@ -2,7 +2,7 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 366f1cac07c30b5f928d3d1b6a1c530011ca83d0
+source-git-commit: e4d7fb7afac79b706fac754adc8f932ce96a2398
 workflow-type: tm+mt
 source-wordcount: '962'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 
 **Ny e-post, webbaktivitet, anonyma webbaktivitetspaneler**: Vi har lagt till de nya kontrollpanelerna för försäljning för att informera säljarna om deras leads och kontakter i de senaste e-post- och webbaktiviteterna. Med nya filtreringsfunktioner ger kontrollpanelerna nu insikt i öppning av e-post, klickningar och besök på webbsidor för en fullständig lista över konton eller ett specifikt konto. Marketo Engage spårar all webbaktivitet och säljer viktig information, vilket gör anonym trafik till leads. Säljarna kan personalisera engagemanget och konvertera leads till försäljning snabbare eftersom de får bättre information om ledande beteenden och agerar utifrån alla kontaktytor.
 
-**Försäljningsinsikter för Salesforce CRM**
+**Försäljningsinsikter för Salesforce**
 
 **Bästa val på konto- och säljprojektsnivå**: Sales Insight erbjuder nu säljarna möjlighet att granska Bästa val för alla kontakter på det konto eller den affärsmöjlighet de äger, även när kontakten tilldelas en annan teammedlem. Detta ger konto- och affärsmöjlighetsägare fullständig insyn i relevanta kontakters aktiviteter och hjälper dem att agera utifrån en mer holistisk bild av kontot eller affärsmöjligheten.
 
@@ -71,4 +71,4 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 
 ## Meddelanden {#announcements}
 
-**Associate Lead Deprecation/Munchkin Beta 161 Update**: Den 7 september 2021 började version 161 av Munchkin lansera till 10 % av prenumerationerna med Munchkin Beta aktiverat, följt av 50 % den 16 september och 100 % den 30 september. Ändringen påverkar landningssidor på Marketo Engage och vilken version av filen munchkin-beta.js som används på externa landningssidor som läses in från prenumerationer som den senaste versionen har lanserats på. Den här versionen är helt inaktuell för metoden Munchkin Associate Lead, som är en funktion som tillåter att en persons data skickas till en Marketo Engage-prenumeration och tillhörande webbläsarhistorik med en känd personpost. Associate Lead tas bort till förmån för mer moderna och säkra alternativ, som Forms JS API, API:t för formulärsändning och Associate Lead REST API. [Läs mer om den här borttagningen](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
+**Associate Lead Deprecation/Munchkin Beta 161 Update**: Den 7 september 2021 började version 161 av Munchkin lansera till 10 % av prenumerationerna med Munchkin Beta aktiverat, följt av 50 % den 16 september och 100 % den 30 september. Ändringen påverkar landningssidor på Marketo Engage och vilken version av filen munchkin-beta.js som används på externa landningssidor som läses in från prenumerationer som den senaste versionen har lanserats på. Den här versionen är helt inaktuell för metoden Munchkin Associate Lead, som är en funktion som tillåter att en persons data skickas till en Marketo Engage-prenumeration och tillhörande webbläsarhistorik med en känd personpost. Associate Lead tas bort till förmån för mer moderna och säkra alternativ, som Forms JS API, API:t för formulärsändning och Associate Lead REST API. [Läs mer om den här](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/) borttagningen.

@@ -3,15 +3,14 @@ unique-page-id: 2952292
 description: Understanding Notifications - Marketo Docs - Product Documentation
 title: Om meddelanden
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: e4d7fb7afac79b706fac754adc8f932ce96a2398
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
-# Förstå meddelanden {#understanding-notifications}
+# Om meddelanden {#understanding-notifications}
 
 Med meddelanden håller du dig uppdaterad om systemhändelser som inträffar i din Marketo-prenumeration. Kampanjfelmeddelanden informerar dig om fel i smarta kampanjer, och CRM-synkroniseringsmeddelanden varnar dig om allvarliga problem som kan uppstå med CRM-synkroniseringen, till exempel felaktiga behörigheter eller om synkroniseringen inte fungerar.
 
@@ -19,27 +18,29 @@ Med meddelanden håller du dig uppdaterad om systemhändelser som inträffar i d
 
 1. Nya meddelanden visas längst upp till höger i Marketo.
 
-   ![](assets/image2014-10-10-11-3a32-3a48.png)
+   ![](assets/understanding-notifications-1.png)
 
 1. Klicka på Notifications (Meddelanden) för att visa alla meddelanden.
 
-   ![](assets/image2014-10-10-11-3a55-3a44.png)
+   ![](assets/understanding-notifications-2.png)
 
 ## Prenumerera på meddelanden {#subscribe-to-notifications}
 
 Du kan prenumerera på meddelanden om du vill få dem via e-post.
 
-1. Gå till Meddelanden och klicka på Prenumerera.
+1. Gå till Meddelanden och klicka på **Prenumerera**.
 
-![](assets/image2014-10-10-12-3a3-3a29.png)
+   ![](assets/understanding-notifications-3.png)
 
-1. Markera meddelandetypen och ange den eller de e-postadresser som du vill att meddelanden ska skickas till.
+1. Markera meddelandetypen och ange den eller de e-postadresser som du vill att meddelanden ska skickas till (avgränsade med kommatecken). Klicka på **Prenumerera** när du är klar.
 
-   ![](assets/image2014-10-10-13-3a0-3a37.png)
+   ![](assets/understanding-notifications-4.png)
 
 >[!NOTE]
 >
->I vissa fall visas ett meddelande med länken&quot;Se hela listan&quot; för att hämta en kommaavgränsad fil (CSV), t.ex. filen Synkroniseringsfel i Microsoft Dynamics. Marketo sparar dessa CSV-filer i 30 dagar. Om du försöker hämta filen efter 30 dagar får du ett 404-fel.
+>Området **Skicka till** är bara till för att du ska kunna ange din e-postadress, det visar inte en lista över befintliga prenumeranter.
+
+I vissa fall visas ett meddelande med länken&quot;Se hela listan&quot; för att hämta en kommaavgränsad fil (CSV), t.ex. filen Microsoft Dynamics Sync Errors. Marketo sparar dessa CSV-filer i 30 dagar. Om du försöker hämta filen efter 30 dagar får du ett 404-fel.
 
 >[!TIP]
 >
