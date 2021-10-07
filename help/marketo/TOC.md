@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: c8da1162177e91313e9a1cd67e78caf79dd991ef
+source-git-commit: 52f98ebf45079263a6fb0751fed47755d757a6f4
 workflow-type: tm+mt
-source-wordcount: '8029'
+source-wordcount: '8001'
 ht-degree: 0%
 
 ---
@@ -1173,11 +1173,8 @@ ht-degree: 0%
             + [CC eller Hemlig kopia i e-postmeddelanden](product-docs/marketo-sales-connect/email/send-a-sales-email/cc-or-bcc-in-emails.md)
             + [E-post markerad som skräppost](product-docs/marketo-sales-connect/email/send-a-sales-email/email-marked-as-spam.md)
             + [Skicka bifogade filer i ditt e-postmeddelande](product-docs/marketo-sales-connect/email/send-a-sales-email/sending-file-attachments-in-your-email.md)
-            + [Begränsningsfelmeddelande i en misslyckad leverans](product-docs/marketo-sales-connect/email/send-a-sales-email/throttling-error-message-in-a-failed-delivery.md)
-            + [Begränsningsfel](product-docs/marketo-sales-connect/email/send-a-sales-email/throttling-errors.md)
          + Direktmatningen {#the-live-feed}
             + [Felaktig mottagarplats](product-docs/marketo-sales-connect/email/the-live-feed/incorrect-recipient-location.md)
-            + [Livefelikon - ordlista](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-icon-glossary.md)
             + [Översikt över Live-feed](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)
          + Avbeställ {#unsubscribes}
             + [Anpassa meddelande om att avbryta prenumeration på länk](product-docs/marketo-sales-connect/email/unsubscribes/customize-unsubscribe-link-message.md)
@@ -1224,10 +1221,7 @@ ht-degree: 0%
          + [Efterlevnad av Sales Connect och GDPR](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
          + Hantera kontakter {#managing-contacts}
             + [Massåtgärder för personer](product-docs/marketo-sales-connect/people/managing-contacts/bulk-actions-on-people.md)
-            + [Koppla samman era Marketo-leads med säljtips](product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md)
-            + [Ansluta till en grupp](product-docs/marketo-sales-connect/people/managing-contacts/connecting-with-a-group.md)
             + [Skapa och ta bort kontakter](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
-            + [Ta bort en grupp](product-docs/marketo-sales-connect/people/managing-contacts/delete-a-group.md)
             + [Grupptyper](product-docs/marketo-sales-connect/people/managing-contacts/group-types.md)
             + [Hur Sales Connect hanterar borttagning av dubbletter av e-post](product-docs/marketo-sales-connect/people/managing-contacts/how-sales-connect-handles-email-de-duping.md)
             + [Så här skapar du en kontaktgrupp](product-docs/marketo-sales-connect/people/managing-contacts/how-to-create-a-contact-group.md)
