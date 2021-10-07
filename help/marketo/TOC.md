@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 366f1cac07c30b5f928d3d1b6a1c530011ca83d0
+source-git-commit: aabb8de6ed67334e853221be623f649d0698edc0
 workflow-type: tm+mt
-source-wordcount: '8004'
+source-wordcount: '7956'
 ht-degree: 0%
 
 ---
@@ -1224,11 +1224,6 @@ ht-degree: 0%
             + [Skapa och ta bort kontakter](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
             + [Grupptyper](product-docs/marketo-sales-connect/people/managing-contacts/group-types.md)
             + [Hur Sales Connect hanterar borttagning av dubbletter av e-post](product-docs/marketo-sales-connect/people/managing-contacts/how-sales-connect-handles-email-de-duping.md)
-            + [Så här skapar du en kontaktgrupp](product-docs/marketo-sales-connect/people/managing-contacts/how-to-create-a-contact-group.md)
-            + [Så här formaterar du automatisk uppsägning av prenumerationer](product-docs/marketo-sales-connect/people/managing-contacts/how-to-format-auto-unsubscribes.md)
-            + [Importera kontakter från Salesforce](product-docs/marketo-sales-connect/people/managing-contacts/how-to-import-contacts-from-salesforce.md)
-            + [Sammanfoga två grupper](product-docs/marketo-sales-connect/people/managing-contacts/how-to-merge-two-groups-together.md)
-            + [Dela en grupp](product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md)
             + [Importera kontakter via CSV](product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)
             + [Hantera grupper](product-docs/marketo-sales-connect/people/managing-contacts/manage-groups.md)
             + [Sidkolumner för personer](product-docs/marketo-sales-connect/people/managing-contacts/people-page-columns.md)
@@ -1246,21 +1241,15 @@ ht-degree: 0%
       + Uppgifter {#tasks}
          + [Synkroniserar Sales Connect-aktiviteter med Salesforce för första gången](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
       + Mallar {#templates}
-         + [Lägg till en bifogad fil](product-docs/marketo-sales-connect/templates/add-an-attachment.md)
-         + [Lägg till en bild](product-docs/marketo-sales-connect/templates/add-an-image.md)
          + [Lägga till automatisk uppsägning av prenumerationer i en mall](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)
          + [Lägg till hyperlänkad text](product-docs/marketo-sales-connect/templates/add-hyperlinked-text.md)
-         + [Lägg till videoinnehåll](product-docs/marketo-sales-connect/templates/add-video-content.md)
          + [Arkivmallar](product-docs/marketo-sales-connect/templates/archive-templates.md)
-         + [Skapa ett uppföljnings-e-postmeddelande](product-docs/marketo-sales-connect/templates/create-a-follow-up-email.md)
-         + [Skapa en uppföljningsmall](product-docs/marketo-sales-connect/templates/create-a-follow-up-template.md)
          + [Skapa en ny kategori](product-docs/marketo-sales-connect/templates/create-a-new-category.md)
          + [Skapa en ny mall](product-docs/marketo-sales-connect/templates/create-a-new-template.md)
          + [Anpassa mallvy](product-docs/marketo-sales-connect/templates/customize-template-view.md)
          + [Ta bort en mallkategori](product-docs/marketo-sales-connect/templates/delete-a-template-category.md)
          + [Ta bort en mall](product-docs/marketo-sales-connect/templates/delete-a-template.md)
          + [Redigera en mallkategori](product-docs/marketo-sales-connect/templates/edit-a-template-category.md)
-         + [Aktivera kategoridelning](product-docs/marketo-sales-connect/templates/enable-category-sharing.md)
          + [Favorera en mall](product-docs/marketo-sales-connect/templates/favorite-a-template.md)
          + [Sammanfoga och ta bort dubbletter av kategorier](product-docs/marketo-sales-connect/templates/merge-and-de-duplicate-categories.md)
          + [Rekommenderade mallar](product-docs/marketo-sales-connect/templates/recommended-templates.md)
