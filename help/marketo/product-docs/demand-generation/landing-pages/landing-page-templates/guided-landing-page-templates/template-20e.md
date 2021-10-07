@@ -3,16 +3,16 @@ unique-page-id: 10092922
 description: Mall 20E - Marketo Docs - produktdokumentation
 title: Mall 20E
 exl-id: 37da2ba9-446b-4dee-8b15-a55b2636dd63
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
 # Mall 20E {#template-20e}
 
-[Ladda ned mall 20E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html)
+Högerklicka för att [hämta mall 20E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html)
 
 ![](assets/template-20e.png)
 
@@ -25,6 +25,6 @@ Den här mallen innehåller följande innehåll:
 * Fyra kroppsdelar (valfritt)
 * Sidfot (valfritt)
 
-**Klicka nedan om du vill hämta den här mallen:**
+**Högerklicka nedan om du vill hämta den här mallen:**
 
 [Template 20E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html)

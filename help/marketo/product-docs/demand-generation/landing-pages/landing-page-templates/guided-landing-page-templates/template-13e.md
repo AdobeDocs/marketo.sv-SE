@@ -3,16 +3,16 @@ unique-page-id: 9437798
 description: Mall 13E - Marketo Docs - Produktdokumentation
 title: Mall 13E
 exl-id: ef1a78ac-1422-4f48-9686-b1d77081787c
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
 # Mall 13E {#template-13e}
 
-[Ladda ned mall 13E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html)
+Högerklicka för att [hämta mall 13E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html)
 
 ![](assets/image2015-8-11-14-3a33-3a18.png)
 
@@ -25,6 +25,6 @@ Den här mallen innehåller följande innehåll:
 * Fem karosserisektioner (valfritt)
 * Sidfot (valfritt)
 
-**Klicka nedan om du vill hämta den här mallen:**
+**Högerklicka nedan om du vill hämta den här mallen:**
 
 [Template 13E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html)

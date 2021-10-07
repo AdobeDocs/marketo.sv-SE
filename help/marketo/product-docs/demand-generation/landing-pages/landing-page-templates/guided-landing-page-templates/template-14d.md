@@ -3,16 +3,16 @@ unique-page-id: 9437810
 description: Mall 14D - Marketo Docs - produktdokumentation
 title: Mall 14D
 exl-id: e8ef7eb9-c3a5-4c19-9022-d93bb4d07e89
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
 # Mall 14D {#template-14d}
 
-[Ladda ned mall 14D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14d.html)
+Högerklicka för att [hämta mall 14D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14d.html)
 
 ![](assets/image2015-8-13-10-3a36-3a45.png)
 
@@ -26,6 +26,6 @@ Den här mallen innehåller följande innehåll:
 * Fem karosserisektioner (valfritt)
 * Sidfot (valfritt)
 
-**Klicka nedan om du vill hämta den här mallen:**
+**Högerklicka nedan om du vill hämta den här mallen:**
 
 [Template 14D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14d.html)
