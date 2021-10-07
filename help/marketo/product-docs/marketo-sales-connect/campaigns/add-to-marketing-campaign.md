@@ -1,15 +1,14 @@
 ---
 unique-page-id: 14745611
-description: Lägg till i marknadsföringskampanj - Marketo Docs - Produktdokumentation
+description: Lägg till i marknadsföringskampanj - Marketo Docs - produktdokumentation
 title: Lägg till i marknadsföringskampanj
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: d520d681-8415-4d48-896f-f213a8fabd11
+source-git-commit: 3fb9b16f83a6b4662e867c1fdbeda275dfdc1e13
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '313'
 ht-degree: 0%
 
 ---
-
 
 # Lägg till i marknadsföringskampanj {#add-to-marketing-campaign}
 
@@ -17,11 +16,11 @@ ht-degree: 0%
 >
 >[Gör en kampanj synlig för säljare](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
 
-## Lägg till enskilda i en kampanj {#add-individuals-to-a-campaign}
+## Lägg till enskilda personer i en kampanj {#add-individuals-to-a-campaign}
 
 >[!NOTE]
 >
->Om du vill lägga till en person i en Marketo Campaign från Sales Connect måste Sales Connect ha personens Marketo lead-ID. [Lär dig hur du hämtar Marketo ID:n här](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md).
+>Om du vill lägga till en person i en Marketo Campaign från Sales Connect måste Sales Connect ha personens lead-ID för Marketo.
 
 1. Klicka på fliken **Personer**.
 
@@ -53,7 +52,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Om du inte ser den arbetsyta du vill ha kontrollerar du att din administratör har tillgång till den via din Marketo Team Access-sida.
+   >Om du inte ser den arbetsyta du vill använda kontrollerar du att din administratör har tillgång till den via din Marketo Team Access-sida.
 
 1. Välj önskad kampanj och klicka på **Nästa**.
 
@@ -87,7 +86,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Om du vill lägga till en person i en Marketo Campaign från Sales Connect måste Sales Connect ha personens Marketo lead-ID. [Lär dig hur du hämtar Marketo ID:n här](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md).
+   >Om du vill lägga till en person i en Marketo Campaign från Sales Connect måste Sales Connect ha personens lead-ID för Marketo.
 
 1. Klicka på listrutan Arbetsytor och välj den arbetsyta som innehåller kampanjen som du vill lägga till gruppen i.
 
@@ -95,7 +94,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Om du inte ser den arbetsyta du vill ha kontrollerar du att din administratör har tillgång till den via din Marketo Team Access-sida.
+   >Om du inte ser den arbetsyta du vill använda kontrollerar du att din administratör har tillgång till den via din Marketo Team Access-sida.
 
 1. Välj önskad kampanj och klicka på **Nästa**.
 
