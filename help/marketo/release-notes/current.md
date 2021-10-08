@@ -2,24 +2,24 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e4d7fb7afac79b706fac754adc8f932ce96a2398
+source-git-commit: 407df519413a39b723dc6f90f028f23527b4f0e9
 workflow-type: tm+mt
-source-wordcount: '962'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Versionsinformation: Oktober 2021 {#release-notes-oct-21}
 
-Följande funktioner ingår i versionen från 21 oktober. Se om det finns funktioner i Marketo Engage.
+Följande funktioner ingår i versionen från 21 oktober. Se om det finns funktioner i Adobe Marketo Engage Edition.
 
 >[!AVAILABILITY]
 >
->Funktioner som anges av en stjärna (![](assets/yellow-star.png)) är betalda tillägg. Kontakta din representant för Adobe Marketo Engage för mer information.
+>Funktioner som anges av en stjärna (![](assets/yellow-star.png)) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
 
 **_Kvartalsvisa releaser_**
 
-Följande funktioner kommer att släppas den **22 oktober 2021**.
+Följande funktioner kommer att börja släppas den **22 oktober 2021**, med en fasad utrullning av alla funktioner under följande vecka (om inget annat anges).
 
 ## AI-driven innovation {#ai-driven-innovation}
 
@@ -29,7 +29,9 @@ Följande funktioner kommer att släppas den **22 oktober 2021**.
 
 **Välj egen upplevelse**: Växla enkelt till den upplevelse du föredrar med den nya växlingsknappen när du arbetar med formulärinformation från Marketo Engage eller landningssidans listvy utan att tappa kontext, ändringar av resurser eller inställningar. Dessutom förbättrar den nya listvyn på landningssidor din upplevelse med nya filter och möjligheten att utföra massåtgärder.
 
-**Sök effektivt**: Hjälpmedelsförbättringar för global sökning omfattar uppdaterad tangentbordsnavigering och etikettbeskrivningar, en ny rullningsfunktion för resultat och mer synliga använda filter. Modalerna för flyttning har förbättrats med stöd för kortkommandon. Övervaka status för aktiviteter som körs i bakgrunden av den nya upplevelsen via det nya aktivitetsmeddelandefältet i det globala navigeringsfältet. Facket innehåller meddelanden om uppgifter som har initierats från den nya upplevelsevyn av formulärdetaljer och listor över landningssidor, inklusive ändringar av status på landningssidor och allmänna massåtgärder med hjälp av den nya upplevelsen.
+**Sök effektivt**: Hjälpmedelsförbättringar för global sökning omfattar uppdaterad tangentbordsnavigering och etikettbeskrivningar, en ny rullningsfunktion för resultat och mer synliga använda filter.
+
+**Övervakningsuppgifter**: Övervaka status för aktiviteter som körs i bakgrunden av den nya upplevelsen via det nya aktivitetsmeddelandefältet i det globala navigeringsfältet. Facket innehåller meddelanden om uppgifter som har initierats från den nya upplevelsevyn av formulärdetaljer och landningssidans lista, inklusive ändringar av status på landningssidor och allmänna massåtgärder med hjälp av den nya upplevelsen.
 
 ## Experience Automation {#experience-automation}
 
