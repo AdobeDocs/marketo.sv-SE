@@ -1,10 +1,11 @@
 ---
 description: Säljaktivitetsordlista - Marketo Docs - produktdokumentation
 title: Ordlista för försäljningsaktivitet
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
+source-git-commit: 9677c26004a567bb53fef452304665eb73855568
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 2%
+source-wordcount: '480'
+ht-degree: 1%
 
 ---
 
@@ -26,7 +27,7 @@ Aktiviteterna nedan loggas till Marketo från Sales Connect.
   <th>Attribut</th>
  </tr>
  <tr>
-  <th rowspan="3">Skicka e-postmeddelande</th>
+  <th rowspan="9">Skicka e-postmeddelande</th>
   <td>Skickat av</td>
  </tr>
  <tr>
@@ -36,7 +37,25 @@ Aktiviteterna nedan loggas till Marketo från Sales Connect.
   <td>Mall-ID</td>
  </tr>
  <tr>
-  <th rowspan="3">Open Sales Email</th>
+  <td>URL för försäljningsmall</td>
+ </tr>
+ <tr>
+  <td>URL för försäljningskampanj</td>
+ </tr>
+ <tr>
+  <td>Namn på försäljningsmall</td>
+ </tr>
+ <tr>
+  <td>E-postämne</td>
+ </tr>
+ <tr>
+  <td>Namn på försäljningskampanj</td>
+ </tr>
+ <tr>
+  <td>Marketo-säljarens ID</td>
+ </tr>
+ <tr>
+  <th rowspan="9">Open Sales Email</th>
   <td>Skickat av</td>
  </tr>
  <tr>
@@ -46,7 +65,25 @@ Aktiviteterna nedan loggas till Marketo från Sales Connect.
   <td>Mall-ID</td>
  </tr>
  <tr>
-  <th rowspan="4">Klicka på E-postadress för försäljning</th>
+  <td>URL för försäljningsmall</td>
+ </tr>
+ <tr>
+  <td>URL för försäljningskampanj</td>
+ </tr>
+ <tr>
+  <td>Namn på försäljningsmall</td>
+ </tr>
+ <tr>
+  <td>E-postämne</td>
+ </tr>
+ <tr>
+  <td>Namn på försäljningskampanj</td>
+ </tr>
+ <tr>
+  <td>Marketo-säljarens ID</td>
+ </tr>
+ <tr>
+  <th rowspan="10">Klicka på E-postadress för försäljning</th>
   <td>Länk</td>
  </tr>
  <tr>
@@ -58,28 +95,36 @@ Aktiviteterna nedan loggas till Marketo från Sales Connect.
  <tr>
   <td>Mall-ID</td>
  </tr>
+ <tr>
+  <td>URL för försäljningsmall</td>
+ </tr>
+ <tr>
+  <td>URL för försäljningskampanj</td>
+ </tr>
+ <tr>
+  <td>Namn på försäljningsmall</td>
+ </tr>
+ <tr>
+  <td>E-postämne</td>
+ </tr>
+ <tr>
+  <td>Namn på försäljningskampanj</td>
+ </tr>
+ <tr>
+  <td>Marketo-säljarens ID</td>
+ </tr>
 <tr>
-  <th rowspan="2">Mottaget e-postmeddelande</th>
+  <th rowspan="3">Mottaget e-postmeddelande</th>
   <td>Mottaget av</td>
  </tr>
  <tr>
   <td>Källa</td>
  </tr>
  <tr>
-  <th rowspan="4">E-postförsäljning studsade</th>
-  <td>Detaljer</td>
+  <td>Person-ID (MSC)</td>
  </tr>
  <tr>
-  <td>Mall-ID</td>
- </tr>
- <tr>
-  <td>E-post</td>
- </tr>
- <tr>
-  <td>Skickat av</td>
- </tr>
- <tr>
-  <th rowspan="7">Mottaget försäljningssamtal</th>
+  <th rowspan="11">Mottaget försäljningssamtal</th>
   <td>Försäljningssamtal gjort av</td>
  </tr>
  <tr>
@@ -99,6 +144,18 @@ Aktiviteterna nedan loggas till Marketo från Sales Connect.
  </tr>
  <tr>
   <td>Källa</td>
+ </tr>
+ <tr>
+  <td>Försäljningssamtalets längd</td>
+ </tr>
+ <tr>
+  <td>Inspelnings-URL för försäljningssamtal</td>
+ </tr>
+  <tr>
+  <td>Försäljningssamtal besvarat av</td>
+ </tr>
+ <tr>
+  <td>Marketo Sales Person ID (MSC)</td>
  </tr>
  <tr>
   <th rowspan="6">Lägg till i försäljningskampanj</th>
