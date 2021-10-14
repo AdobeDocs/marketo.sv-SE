@@ -2,9 +2,9 @@
 description: Säljaktivitetsordlista - Marketo Docs - produktdokumentation
 title: Ordlista för försäljningsaktivitet
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 9677c26004a567bb53fef452304665eb73855568
+source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '492'
 ht-degree: 1%
 
 ---
@@ -121,7 +121,7 @@ Aktiviteterna nedan loggas till Marketo från Sales Connect.
   <td>Källa</td>
  </tr>
  <tr>
-  <td>Person-ID (MSC)</td>
+  <td>Marketo-säljarens ID</td>
  </tr>
  <tr>
   <th rowspan="11">Mottaget försäljningssamtal</th>
@@ -155,7 +155,7 @@ Aktiviteterna nedan loggas till Marketo från Sales Connect.
   <td>Försäljningssamtal besvarat av</td>
  </tr>
  <tr>
-  <td>Marketo Sales Person ID (MSC)</td>
+  <td>Marketo-säljarens ID</td>
  </tr>
  <tr>
   <th rowspan="6">Lägg till i försäljningskampanj</th>
@@ -216,6 +216,10 @@ Aktiviteterna nedan loggas till Marketo från Sales Connect.
   <tr> 
    <td><strong>Länk</strong></td> 
    <td>URL som användaren klickade på.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Marketo-säljarens ID</strong></td> 
+   <td>Unikt ID för personpost i Sales Connect.</td> 
   </tr> 
   <tr> 
    <td><strong>Mottaget av</strong></td> 

@@ -1,19 +1,22 @@
 ---
 unique-page-id: 10092925
-description: Förhandsgranska och testa en webbkampanj - Marketo Docs - Produktdokumentation
+description: Förhandsgranska och testa en webbkampanj - Marketo Docs - produktdokumentation
 title: Förhandsgranska och testa en webbkampanj
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
+source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '402'
 ht-degree: 0%
 
 ---
 
-
 # Förhandsgranska och testa en webbkampanj {#preview-and-test-a-web-campaign}
 
 I den här artikeln visas olika sätt att förhandsgranska en webbkampanj och även hur du testar den med ett sandlådesegment direkt på webbplatsen.
+
+>[!NOTE]
+>
+>Förhandsgranskningen visar bara hur kampanjen kommer att se ut på den valda webbplatsen. Länkar och widgetar fungerar inte så att felaktiga klick/vyer i analysen undviks.
 
 ## Förhandsgranska en webbkampanj på sidan Skapa {#preview-a-web-campaign-on-the-creation-page}
 
@@ -61,7 +64,7 @@ I den här artikeln visas olika sätt att förhandsgranska en webbkampanj och ä
 
    ![](assets/campaign-preview.png)
 
-## Förhandsgranska en webbkampanj på webbkampanjsidan {#preview-a-web-campaign-on-the-web-campaigns-page}
+## Förhandsgranska en webbkampanj på sidan Webbkampanjer {#preview-a-web-campaign-on-the-web-campaigns-page}
 
 1. När du tittar på listan över dina webbkampanjer väljer du bara en kampanj och klickar på ikonen **Förhandsgranska**.
 
