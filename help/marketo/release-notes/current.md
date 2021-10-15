@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: 376b9e69e117bfca269719483e79c45e33a2ed42
 workflow-type: tm+mt
-source-wordcount: '1178'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -62,8 +62,6 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 ## Sales Connect {#sales-connect}
 
 ![(stjärna)](assets/yellow-star.png)
-
-**GGA (Email Connection Throttling)**: Förbättra e-postleveransen och skräddarsy skräddarsydd säljkommunikation med e-postanslutningsbegränsning för Sales Connect. Denna innovativa teknik hanterar automatiskt e-posttajmingen för att skapa en sömlös upplevelse för Exchange- och Gmail-användare. Minska eller eliminera användningen av massutskick av e-postprogram från tredje part och skicka alla e-postmeddelanden från Sales Connect utan problem.
 
 **Förbättrade insikter** om försäljningsaktivitet: En ny spårningsaktivitet för e-postsvar, Sälje-post besvarad, spårar mottagarnas interaktioner med ett e-postmeddelande som automatiskt synkroniseras med Marketo Engage. Dessutom har källattributet uppdaterats från &quot;Tout&quot; till &quot;Sales App&quot;. Den här aktiviteten kan exporteras och rapporteras via Marketo Engage REST API eller massexport och är tillgänglig för filter och utlösare som ytterligare begränsningar för smarta listor, vilket utökar personaliseringsalternativen i smarta kampanjer.
 
