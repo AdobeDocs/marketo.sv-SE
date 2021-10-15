@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 669c86e2df2fbf061aa3db15c5c484a331a2b099
+source-git-commit: e304666be903373ecc9821d1ef328141e023400a
 workflow-type: tm+mt
-source-wordcount: '1016'
+source-wordcount: '1178'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,10 @@ Följande funktioner kommer att börja släppas den **22 oktober 2021**, med en 
 
 Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas under de kommande månaderna.
 
+**Adobe Experience Platform Connector för att dela målgrupper med Marketo Engage**: Möjliggör flerkanalskampanjsamordning i Marketo Engage för målgruppssegment som skapats i Adobe Experience Platform via en intern målanslutning. Kopplingen använder e-postadresser eller ECID för att matcha Adobe Experience Platform-profiler mot personposter i Marketo Engage, vilket resulterar i segmentdelning mellan program. Statiska Marketo Engage-listor fylls i automatiskt så att marknadsförarna kan nå målgrupper med personaliserade meddelanden eller initierade arbetsflöden. Aktivera målgrupper genom att utnyttja sitt konto och sin säljprojektskontext och en mer komplett, enhetlig realtidsprofil i Experience Platform.
+
+**Adobe Experience Platform Marketo Data Source Connector**: Användare av både Adobe Experience Platform och Marketo Engage kan använda Marketo Source Connector för att hämta data från Marketo till AEP. Du kan strömma data (och ändringar av dessa) från Marketo i AEP för att hålla data konsekventa mellan de två produkterna. Marketo Connector visas via katalogen Sources, som listas under &quot;Adobe Applications&quot;.
+
 ## Försäljningsinsikter {#sales-insight}
 
 ![(stjärna)](assets/yellow-star.png)
@@ -73,6 +77,6 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 
 ## Meddelanden {#announcements}
 
-**Associate Lead Deprecation/Munchkin Beta 161 Update**: Den 7 september 2021 började version 161 av Munchkin lansera till 10 % av prenumerationerna med Munchkin Beta aktiverat, följt av 50 % den 16 september och 100 % den 30 september. Ändringen påverkar landningssidor på Marketo Engage och vilken version av filen munchkin-beta.js som används på externa landningssidor som läses in från prenumerationer som den senaste versionen har lanserats på. Den här versionen är helt inaktuell för metoden Munchkin Associate Lead, som är en funktion som tillåter att en persons data skickas till en Marketo Engage-prenumeration och tillhörande webbläsarhistorik med en känd personpost. Associate Lead tas bort med stöd för mer moderna och säkra alternativ, som Forms JS API, API:t för formulärsändning och Associate Lead REST API. [Läs mer om den här](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/) borttagningen.
+**Associate Lead Deprecation/Munchkin Beta 161 Update**: Den 7 september 2021 började version 161 av Munchkin lansera till 10 % av prenumerationerna med Munchkin Beta aktiverat, följt av 50 % den 16 september och 100 % den 30 september. Ändringen påverkar landningssidor på Marketo Engage och vilken version av filen munchkin-beta.js som används på externa landningssidor som läses in från prenumerationer som den senaste versionen har lanserats på. Den här versionen är helt inaktuell för metoden Munchkin Associate Lead, som är en funktion som tillåter att en persons data skickas till en Marketo Engage-prenumeration och tillhörande webbläsarhistorik med en känd personpost. Associate Lead tas bort till förmån för mer moderna och säkra alternativ, som Forms JS API, API:t för formulärsändning och Associate Lead REST API. [Läs mer om den här](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/) borttagningen.
 
 Vill du veta mer om de här funktionerna och förbättringarna? Var noga med att [registrera dig nu](https://engage.marketo.com/October_Release_RegistrationPage.html) för att komma med oss den 28 oktober 2021, klockan 9:00 PT/12:00 ET för ett live webbinarium med vårt produktteam för att fördjupa dig i dessa innovationer.

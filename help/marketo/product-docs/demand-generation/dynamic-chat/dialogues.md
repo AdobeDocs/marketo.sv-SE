@@ -3,9 +3,9 @@ description: Dialogrutor - Marketo Docs - produktdokumentation
 title: Dialogrutor
 hide: true
 hidefromtoc: true
-source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
+source-git-commit: e304666be903373ecc9821d1ef328141e023400a
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '747'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Det finns _många_-attributkombinationer att välja mellan. I det här exemplet 
 
    ![](assets/dialogues-4.png)
 
-1. __ Isis är inställd som standard. I fältet Välj värden skriver du in CA (du kan också klicka på listrutan och välja från listan).
+1. __ Den är inställd som standard. I fältet Välj värden skriver du in CA (du kan också klicka på listrutan och välja från listan).
 
    ![](assets/dialogues-5.png)
 
@@ -82,17 +82,19 @@ Det finns ett enkelt sätt att specifikt rikta in leads som ännu inte finns i d
 
    >[!NOTE]
    >
-   >När någon besöker din webbplats, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) cookies dem och placerar dem i systemet. Vi slår upp deras IP-adresser i en speciell databas och drar nytta av all slags bra information.
+   >När någon besöker din webbplats, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) cookies dem och placerar dem i systemet. Vi slår upp deras IP-adresser i en särskild databas och drar nytta av all slags bra information.
 
-1. __ Isis är inställd som standard. I fältet Välj värden skriver du NY (du kan också klicka på listrutan och välja från listan).
+1. __ Den är inställd som standard. I fältet Välj värden skriver du NY (du kan också klicka på listrutan och välja från listan).
 
    ![](assets/dialogues-12.png)
 
 ## Lägg till grupper {#add-groups}
 
-Du kan också gruppera attribut om du vill ha alla attribut tillsammans med &quot;något&quot; av andra.
+Du kan också gruppera attribut om du vill ha alla attribut tillsammans med&quot;all eller något&quot; av andra. Du kan lägga till flera grupper.
 
-SLUTFÖR DETTA
+![](assets/dialogues-13.png)
+
+![](assets/dialogues-14.png)
 
 ## Mål {#target}
 
@@ -107,7 +109,7 @@ Godtagbara format:
 
 >[!NOTE]
 >
->Om du använder en asterisk fungerar det som ett jokertecken för&quot;catch all&quot;. På så sätt placerar `https://*.website.com` dialogrutan på alla sidor på webbplatsen, inklusive underdomäner (t.ex.: `support.website.com`). Och `https://website.com/folder/*` placerar dialogrutan på alla HTML-sidor i efterföljande mapp (t.ex.: Låt oss i det här fallet säga att mappen är &quot;sport&quot;, så: website.com/sports/baseball.html, website.com/sports/football.html osv.).
+>Om du använder en asterisk fungerar det som ett jokertecken för&quot;catch all&quot;. På så sätt placerar `https://*.website.com` dialogrutan på alla sidor på webbplatsen, inklusive underdomäner (t.ex.: `support.website.com`). Och `https://website.com/folder/*` placerar dialogrutan på varje HTML-sida i efterföljande mapp (t.ex.: Låt oss i det här fallet säga att mappen är &quot;sport&quot;, så: website.com/sports/baseball.html, website.com/sports/football.html osv.).
 
 ## Stream Designer {#stream-designer}
 
@@ -139,9 +141,7 @@ Strömdesignern innehåller olika kort som du kan lägga till för att forma cha
 
 **Skapa en ström**
 
-Det finns _många_ strömkombinationer att skapa. I det här exemplet frågar vi ja eller nej och förbereder några svar.
-
-EXEMPEL
+Det finns _många_ strömkombinationer att skapa. Vi tittar bara på ett exempel [i den här artikeln](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
 
 ## Rapporter {#reports}
 

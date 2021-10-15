@@ -3,9 +3,9 @@ description: Ansluta Dynamic Chat till Marketo - Marketo Docs - produktdokumenta
 title: Ansluta Dynamic Chat till Marketo
 hide: true
 hidefromtoc: true
-source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
+source-git-commit: e304666be903373ecc9821d1ef328141e023400a
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,9 @@ När du har slutfört [den första konfigurationen](/help/marketo/product-docs/d
 
 1. Om du tidigare har använt ett program med en Adobe ID kommer du direkt till Dynamic Chat. Om inte, [konfigurera din Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
 
-   PICC (skärmbild när vänster navigering är fast)
-
 1. Om du vill ansluta din Marketo-instans väljer du **Integrationer**.
 
-   ![](assets/connect-dynamic-chat-to-marketo-3.png)
+   ![](assets/connect-dynamic-chat-to-marketo-2.png)
 
 1. På Marketo-kortet klickar du på **Starta synkronisering**.
 
