@@ -3,16 +3,16 @@ description: Dynamic Chat Overview - Marketo Docs - produktdokumentation
 title: Dynamisk chattöversikt
 hide: true
 hidefromtoc: true
-source-git-commit: b6f0b24ef1e9cece06f44ae11d432291b8ac0425
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
 
 # Dynamisk chattöversikt {#dynamic-chat-overview}
 
-Med Dynamic Chat kan du utnyttja ett lättanvänt gränssnitt för att rikta in dig på båda leads (PEOPLE?) och har sina konton (BESÖKER DITT?) webbplats. Samla in relevant innehåll som namn, kontaktinformation och fritext. Besökarna kan även boka möten med säljteamet. Dynamic Chat-aktivitet och engagemangsdata kan användas för att lägga till medlemmar i Marketo-program och aktivera flerkanalsaktiviteter.
+Med Dynamic Chat kan ni utnyttja ett lättanvänt gränssnitt för att nå ut till både personer och konton på er webbplats. Samla in relevant innehåll som namn, kontaktinformation och fritext. Besökarna kan även boka möten med säljteamet. Dynamic Chat-aktivitet och engagemangsdata kan användas för att lägga till medlemmar i Marketo-program och aktivera flerkanalsaktiviteter.
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ En viktig komponent i Dynamic Chat är möjligheten att kunna interagera direkt 
 
 Följande synkroniseras:
 
-* Fältdata för lead
+* Personfältdata
 * Företagsfältdata
 * Aktivitetsdata
 
@@ -40,15 +40,15 @@ Anpassa utseendet på dina olika dialogrutor på fliken Konfiguration. Ändra ty
 
 Anslut din (Outlook eller Gmail) kalender på fliken Kalender för användning vid schemaläggning av möten i chattbot. När en användares kalender är ansluten till Dynamiskt chatt läggs den användaren till i kön och hans/hennes kalender blir tillgänglig för webbplatsbesökare att schemalägga avtalade tider på.
 
-Du kan också anpassa innehållet i inbjudan via e-post? som skickas till besökaren när de schemalägger en avtalad tid i användarens kalender.
+Du kan också anpassa innehållet i den inbjudan som skickas till besökaren när de schemalägger en avtalad tid i användarens kalender.
 
 ## Möten {#meetings}
 
-Här ser du alla avtalade tider som har schemalagts av webbplatsbesökare via olika dialogrutor. Här hittar du e-postadressen till den lead som bokade den avtalade tiden, vilken agent de bokade den avtalade tiden med, när den avtalade tiden ska äga rum och om mötet har ägt rum eller inte.
+Här ser du alla avtalade tider som har schemalagts av webbplatsbesökare via olika dialogrutor. Här hittar du e-postadressen till personen som bokade den avtalade tiden, vilken agent de bokade den avtalade tiden med, när den avtalade tiden ska äga rum och om mötet har ägt rum eller inte.
 
 ## Routning {#routing}
 
-Här kan du se en lista över alla agenter som har kopplat samman sina kalendrar samt i vilken ordning de kommer att presenteras för webbplatsbesökare. Om du har fem agenter och agent tre som deltog i det senaste mötet får agent 4 nästa, följt av fem, och sedan tillbaka till agent ett.
+Här kan du se en lista över alla agenter som har kopplat samman sina kalendrar samt i vilken ordning de kommer att presenteras för webbplatsens besökare. Möten blir till rån, så om du har fem agenter och agent tre tog det senaste mötet får agent 4 nästa, följt av agent fem och sedan tillbaka till agent ett.
 
 ## Vanliga frågor {#faq}
 
@@ -56,9 +56,9 @@ Här kan du se en lista över alla agenter som har kopplat samman sina kalendrar
 
 Nej, det använder bara förbestämda svar.
 
-**Hur kan jag rikta mig mot anonyma leads?**
+**Hur kan jag rikta mig till anonyma människor?**
 
-I dialogrutan måste du använda attributet _Lead Email är Empty_.
+I dialogrutan måste du använda attributet _Person Email är Empty_.
 
 **Stöder du AI/NLP-funktioner?**
 

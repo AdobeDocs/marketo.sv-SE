@@ -3,9 +3,9 @@ description: Dialogrutor - Marketo Docs - produktdokumentation
 title: Dialogrutor
 hide: true
 hidefromtoc: true
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
@@ -34,13 +34,13 @@ Dialogrutor är individuella chattsamtal. Lär dig hur du anpassar dem visuellt,
 
 ## Målgruppskriterier {#audience-criteria}
 
-På samma sätt som med Marketo smarta listor kan du definiera målgruppen med hjälp av attribut för målgruppskriterier. Du kan rikta kända eller okända leads med hjälp av attribut för härledning, lead eller företag (eller en kombination av dessa).
+På samma sätt som med Marketo smarta listor kan du definiera målgruppen med hjälp av attribut för målgruppskriterier. Du kan rikta in dig på kända eller okända personer med hjälp av attribut för härkomst, person eller företag (eller en kombination av dessa).
 
-**Kända leads**
+**Kända personer**
 
-Det finns _många_-attributkombinationer att välja mellan. I det här exemplet riktar vi oss till alla **kända leads** i Kalifornien som arbetar på ett företag med mer än 50 anställda.
+Det finns _många_-attributkombinationer att välja mellan. I det här exemplet riktar vi oss till alla **kända personer** i Kalifornien som arbetar på ett företag med mer än 50 anställda.
 
-1. Ta bort attributet **Leadtillstånd** och dra det åt höger.
+1. Ta attributet **Persontillstånd** och dra det åt höger.
 
    ![](assets/dialogues-4.png)
 
@@ -64,11 +64,11 @@ Det finns _många_-attributkombinationer att välja mellan. I det här exemplet 
 
    ![](assets/dialogues-8.png)
 
-**Anonyma leads**
+**Anonyma personer**
 
-Det finns ett enkelt sätt att specifikt rikta in leads som ännu inte finns i din databas. I det här exemplet riktar vi oss mot alla **anonyma leads** som finns i New York-området.
+Det finns ett enkelt sätt att specifikt rikta in sig på personer som inte finns i din databas än. I det här exemplet riktar vi oss till alla **anonyma personer** i New York-området.
 
-1. Ta tag i attributet **Lead Email** och dra det åt höger.
+1. Hämta attributet **Person Email** och dra det åt höger.
 
    ![](assets/dialogues-9.png)
 
@@ -131,17 +131,17 @@ Strömdesignern innehåller olika kort som du kan lägga till för att forma cha
  </tr>
  <tr>
   <td><strong>Schemaläggare för avtalad tid</strong></td>
-  <td>Ger besökaren en kalender med tillgängliga datum för att schemalägga en uppföljning. Kalendertillgängligheten återspeglar [nästa agent på rad](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).</td>
+  <td>Ger besökaren en kalender med tillgängliga datum för att schemalägga en uppföljning. Kalendertillgängligheten återspeglar <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">nästa agent på rad</a>.</td>
  </tr>
  <tr>
   <td><strong>Mål</strong></td>
-  <td>Det här är det enda kortet som besökarna inte ser. Det är upp till dig att avgöra vid vilken punkt ett mål uppnås i den specifika chatten (t.ex.: om du vill samla in besökarens e-post, placerar du målkortet efter Info Capture i Stream).</td>
+  <td>Det här är det enda kortet som besökarna inte ser. Det är upp till dig att avgöra vid vilken punkt ett mål uppnås i den specifika chatten (t.ex.: om du vill samla in besökarens e-postadress placerar du målkortet omedelbart efter Info Capture i strömmen).</td>
  </tr>
 </table>
 
 **Skapa en ström**
 
-Det finns _många_ strömkombinationer att skapa. Vi tittar bara på ett exempel [i den här artikeln](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
+Det finns _många_ möjliga strömkombinationer. Låt oss titta på ett exempel [i den här artikeln](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
 
 ## Rapporter {#reports}
 
@@ -162,7 +162,7 @@ Visa data från de senaste 90 dagarna på fliken Rapporter. Varje kategori defin
   <td>Ökningar varje gång en besökare kommer till slutet av en gren i en dialogruta.</td>
  </tr>
  <tr>
-  <td><strong>Infångade leads</strong></td>
+  <td><strong>Infångade personer</strong></td>
   <td>Ökningar varje gång en besökare anger en giltig e-postadress i ett dialogflöde.</td>
  </tr>
  <tr>
@@ -174,3 +174,7 @@ Visa data från de senaste 90 dagarna på fliken Rapporter. Varje kategori defin
   <td>Ökningar varje gång en besökare når ett mål i ett dialogflöde.</td>
  </tr>
 </table>
+
+>[!MORELIKETHIS]
+>
+>[Skapa en ström](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md)

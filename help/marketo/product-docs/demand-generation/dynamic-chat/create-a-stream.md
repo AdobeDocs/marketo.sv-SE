@@ -3,18 +3,18 @@ description: Skapa en ström - Marketo Docs - produktdokumentation
 title: Skapa en ström
 hide: true
 hidefromtoc: true
-source-git-commit: d6eac90310a86082361196067a4a835d10b75f24
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
 
 # Skapa en ström {#create-a-stream}
 
-Det finns _många_ strömkombinationer att skapa. Nedan visas ett exempel där marknadsföraren frågar besökaren om han eller hon har några frågor. Om ja, kan besökaren boka ett möte. Om nej, ges besökaren möjlighet att ansluta sig till en sändlista för framtida korrespondens. Målet är antingen att schemalägga en avtalad tid eller att samla in besökarens e-post.
+Det finns _många_ strömkombinationer som du kan skapa. Nedan visas ett exempel där marknadsföraren frågar besökaren om han eller hon har några produktfrågor. Om ja, kan besökaren boka ett möte. Om nej, ges besökaren möjlighet att ansluta sig till en sändlista för framtida korrespondens. Målet är antingen att schemalägga en avtalad tid eller att samla in besökarens e-post.
 
-1. När du har [skapat din dialogruta](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue) klickar du på fliken Stream Designer.
+1. När du har [skapat dialogrutan](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue) klickar du på fliken **Stream Designer**.
 
    ![](assets/create-a-stream-1.png)
 
@@ -84,8 +84,8 @@ Det finns _många_ strömkombinationer att skapa. Nedan visas ett exempel där m
      <td>Det meddelande besökaren ser där han/hon uppmanas att ange informationen.</td>
     </tr>
     <tr>
-     <td><strong>Exempeltext som hjälper besökaren att se vad han/hon ska ange.</strong></td>
-     <td>text</td>
+     <td><strong>Platshållare</strong></td>
+     <td>Exempeltext som hjälper besökaren att se vad han/hon ska ange.</td>
     </tr>
     <tr>
      <td><strong>Mappa svar till attribut</strong></td>
@@ -116,3 +116,7 @@ Det finns _många_ strömkombinationer att skapa. Nedan visas ett exempel där m
 >[!NOTE]
 >
 >Innan du klickar på Publicera måste du kontrollera att du [har angett mål-URL:er](help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
+
+>[!MORELIKETHIS]
+>
+>[Dialogrutor](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md)

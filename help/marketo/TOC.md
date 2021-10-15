@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 78fc4dd6325abbebcad8446672159c9b75bf8470
+source-git-commit: 7bac8a520bb1b8a2cc353c229e2f456476f67384
 workflow-type: tm+mt
-source-wordcount: '7959'
+source-wordcount: '7968'
 ht-degree: 0%
 
 ---
@@ -1272,7 +1272,12 @@ ht-degree: 0%
          + [Använda Marketo Insights för Google Chrome](product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
          + [Visa person- och kontoinformation och aktiviteter i Google Mail](product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
       + MSI för Microsoft Dynamics {#msi-for-microsoft-dynamics}
-         + [Funktionsöversikt](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/feature-overview.md)
+         + Funktioner {#features}
+            + [Funktionsöversikt](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/feature-overview.md)
+            + Marketo Tab {#marketo-tab}
+               + [Bästa val](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/best-bets.md)
+               + [E-postaktiviteter](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/email-activities.md)
+               + [Webbaktiviteter](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/web-activities.md)
          + Installerar {#installing}
             + [Ladda ned Marketo Sales Insight Solution för Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
             + [Installera och konfigurera Marketo Sales Insight i Microsoft Dynamics 2011](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)
