@@ -3,9 +3,9 @@ description: Dialogrutor - Marketo Docs - produktdokumentation
 title: Dialogrutor
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+source-git-commit: de2c73003aa1d817fbaf1d6ed5e180e68fc64b72
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -63,6 +63,8 @@ Det finns _många_-attributkombinationer att välja mellan. I det här exemplet 
 1. Skriv 50 och klicka någon annanstans på skärmen för att spara.
 
    ![](assets/dialogues-8.png)
+
+Och det är allt!
 
 **Anonyma personer**
 
