@@ -1,23 +1,22 @@
 ---
 unique-page-id: 10098812
-description: Ställ in intäktsattribuering för digitala annonskampanjer - Marketo Docs - Produktdokumentation
+description: Ställ in intäktsattribuering för digitala annonskampanjer - Marketo Docs - produktdokumentation
 title: Ställ in intäktsattribuering för digitala annonskampanjer
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 7fb16c5f-7e76-429b-8b01-b5a1dd898158
+source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
 workflow-type: tm+mt
 source-wordcount: '835'
 ht-degree: 0%
 
 ---
 
-
 # Ställ in intäktsattribuering för digitala annonskampanjer {#set-up-revenue-attribution-for-digital-advertising-campaigns}
 
-Så här skapar du intäktsattribuering för digitala annonskanaler och kampanjer. När ni har skapat det kan ni attribuera intäkter från första kontakten och multitouch för digitala annonser på samma sätt som i andra Marketo-program.
+Så här skapar du intäktsattribuering för digitala annonskanaler och kampanjer. När ni har skapat det kan ni attribuera intäkter från första beröringen och multitouch för digitala annonser på samma sätt som i andra Marketo-program.
 
 När du har konfigurerat ditt första annonseringsprogram i Marketo kan du klona och uppdatera det för andra kanaler. Du kan till exempel klona ett LinkedIn-program till ett Facebook-program.
 
-Med separata program kan ni sedan spåra antalet konverteringar från var och en och se era program i Program Analyzer, Opportunity Influence Analyzer och andra funktioner i Marketo Analytics.
+Med separata program kan ni sedan spåra antalet konverteringar från var och en och se era program i Program Analyzer, Opportunity Influence Analyzer och andra Marketo Analytics-funktioner.
 
 >[!PREREQUISITES]
 >
@@ -34,11 +33,11 @@ Till skillnad från vissa program (till exempel e-post) som kan köras regelbund
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Klicka på **Nytt** och välj **Nytt program**.
+1. Klicka **Nytt** och markera **Nytt program**.
 
    ![](assets/image2016-3-14-15-52-0.png)
 
-1. Om du redan har ett program kan du [klona det](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
+1. Om du redan har ett program kan du [klona den](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
 
    >[!TIP]
    >
@@ -50,11 +49,11 @@ Till skillnad från vissa program (till exempel e-post) som kan köras regelbund
    >
    >**Exempel**
    >
-   >En frågesträng som skickas via URL:en hjälper Marketo att veta vilken annonskampanj någon klickade på när de blev en person i Marketo.
+   >En frågesträng som skickas via webbadressen hjälper Marketo att veta vilken annonskampanj någon klickade på när de blev en person i Marketo.
    >
-   >Du kan skapa en frågesträngsmetod som innehåller alla variabler som du vill mäta. Marketo använder dessa variabler för att lägga till personer i olika program.
+   >Du kan skapa en frågesträngsmetod som innehåller alla variabler som du vill mäta. Marketo använder dessa variabler för att lägga till personer i dina olika program.
    >
-   >Du kan till exempel använda kanaltypen Kanal_Kanal_Resurs_Region. Det kan se ut så här: SP_FB_NewGuide_US. **Obs**: förkortningar sparar utrymme.
+   >Du kan till exempel använda kanaltypen Kanal_Kanal_Resurs_Region. Det kan se ut så här: SP_FB_NewGuide_US. **Anteckning**: förkortningar sparar utrymme.
    >
    >Du kan också ange det som Channel_Adsource_AssetName_Region_UniqueIdNumber. Det kan se ut så här: Social-Paid_Facebook_NewGuide_NA_123.
 
@@ -66,19 +65,19 @@ Till skillnad från vissa program (till exempel e-post) som kan köras regelbund
 
    >[!NOTE]
    >
-   >Frågesträngen som används i de två utlösarna och filtret **Program som har hämtat namn** är unik för dig. Frågesträngarna som visas här är till exempel bara. Om du klonade fältet ersätter du dessa fält.
+   >Frågesträngen som används i de två utlösarna och **Program som hämtade namn** filtret är unikt för dig. Frågesträngarna som visas här är till exempel bara. Om du klonade fältet ersätter du dessa fält.
 
-1. Skapa ett flödessteg om du vill ändra attributet till **förvärvsprogram** och ange det nya värdet till det värde du har definierat för betalda sociala kampanjer.
+1. Skapa ett flödessteg för att ändra attributet till **Anskaffningsprogram** och ange New Value till det värde du har definierat för betalda sociala kampanjer.
 
    ![](assets/image2016-3-14-14-3a58-3a6.png)
 
 1. Schemalägg och aktivera kampanjen.
 
-## Skapa en smart kampanj för status/slutfört program {#create-a-smart-campaign-for-status-program-success}
+## Skapa en smart kampanj för status/lyckat program {#create-a-smart-campaign-for-status-program-success}
 
 Ni behöver en andra smart kampanj för att ändra personernas status, så att de kan uppnå programframgångar och inkluderas i intäktsattribueringsberäkningarna.
 
-1. I utlösaren **Fyller i formulär** anger du programnamnet i frågesträngen. Om du klonar programmet ersätter du bara det gamla frågesträngnamnet med det nya.
+1. I **Fyller i formulär** anger du programnamnet i frågesträngen. Om du klonar programmet ersätter du bara det gamla frågesträngnamnet med det nya.
 
    ![](assets/image2016-3-23-14-3a7-3a20.png)
 
@@ -88,7 +87,7 @@ Ni behöver en andra smart kampanj för att ändra personernas status, så att d
 
    >[!NOTE]
    >
-   >I exemplet ovan visas **Konverterad**, men detta beror på dina status/framgångsvärden.
+   >Exemplet ovan visar **Konverterad**, men detta beror på din status/dina framgångsvärden.
 
 1. Schemalägg och aktivera kampanjen.
 
@@ -109,10 +108,10 @@ Skapa den nya annonsen när du har konfigurerat programmet och kampanjerna.
    >
    >`www.marketo.com?**source**=Social-Paid&**comment**=Social-Paid_Facebook_NewGuide_NA&**camp**=abc&**kk=**xyz`
    >
-   >* **källa är den** personkälla som används som kanalidentifierare
-   >* **kommenterar den unika** identifieraren som skapas för varje program
-   >* **Campis** the campaign in Facebook, LinkedIn, or Google
-   >* **är** nyckelordet eller resursnamnet som du vill hämta
+   >* **källa** är personkällan som används som kanalidentifierare
+   >* **kommentar** är den unika identifieraren som skapas för varje program
+   >* **läger** är kampanjen i Facebook, LinkedIn eller Google
+   >* **kk** är nyckelordet eller resursnamnet som du vill hämta
 
    >
    >**De här fyra termerna måste vara gemena och det får inte finnas några blanksteg i URL:en för att informationen ska kunna hämtas.**

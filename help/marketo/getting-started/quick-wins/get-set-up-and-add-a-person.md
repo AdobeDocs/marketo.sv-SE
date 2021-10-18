@@ -1,23 +1,22 @@
 ---
 unique-page-id: 2359351
 description: Konfigurera och lägg till en person - Marketo Docs - produktdokumentation
-title: Konfigurera och lägga till en person
+title: Konfigurera och lägg till en person
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
-# Hämta konfiguration och lägg till en person {#get-set-up-and-add-a-person}
+# Konfigurera och lägg till en person {#get-set-up-and-add-a-person}
 
 Det finns några saker att göra innan du börjar uppdraget.
 
 ## Steg 1: Logga in på Marketo {#step-log-in-to-marketo}
 
-1. [Logga in på ](https://app.marketo.com) Marketousing the credentials you receive by email.
+1. [Logga in på Marketo](https://app.marketo.com) med de inloggningsuppgifter du fått via e-post.
 
    ![](assets/one.png)
 
@@ -25,15 +24,15 @@ Det finns några saker att göra innan du börjar uppdraget.
 
 Låt oss skapa en mapp som innehåller allt du kommer att göra i uppdragen.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter** område.
 
    ![](assets/two.png)
 
-1. Klicka på listrutan **Ny** och välj **Ny kampanjmapp**.
+1. Klicka på **Nytt** nedrullningsbar meny och välj **Ny kampanjmapp**.
 
    ![](assets/image2014-9-24-10-3a53-3a38.png)
 
-1. Namnge mappen &quot;Learning&quot; och klicka på **Create**.
+1. Namnge mappen &quot;Learning&quot; och klicka på **Skapa**.
 
    ![](assets/image2014-9-24-10-3a53-3a55.png)
 
@@ -45,11 +44,11 @@ Låt oss skapa en mapp som innehåller allt du kommer att göra i uppdragen.
 
 Lägg till dig själv som person i Marketo så att du kan skicka ut testmeddelanden till dig själv senare.
 
-1. Gå till området **Databas**.
+1. Gå till **Databas** område.
 
    ![](assets/db.png)
 
-1. Klicka på listrutan **Ny** och välj **Ny person**.
+1. Klicka på **Nytt** nedrullningsbar meny och välj **Ny person**.
 
    ![](assets/seven.png)
 
@@ -61,11 +60,11 @@ Lägg till dig själv som person i Marketo så att du kan skicka ut testmeddelan
 
    ![](assets/nine.png)
 
-1. Klicka på fliken **Personer**. Du borde se dig själv i databasen.
+1. Klicka på **Folk** -fliken. Du borde se dig själv i databasen.
 
    ![](assets/ten.png)
 
-## Konfigurera Slutförd {#set-up-complete}
+## Konfigurationen är klar {#set-up-complete}
 
 Du är redo att börja ditt första uppdrag!
 

@@ -3,9 +3,9 @@ description: Webbaktiviteter - Marketo Docs - produktdokumentation
 title: Webbaktiviteter
 hide: true
 hidefromtoc: true
-source-git-commit: 7bac8a520bb1b8a2cc353c229e2f456476f67384
+source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 På fliken Webbaktiviteter visas dina leads/kontakters webbaktiviteter.
 Granska de senaste webbaktiviteterna för ditt lead och ange antal besökssidor och respektive konton. Du kan filtrera resultaten för att begränsa antalet sidor.
 
-PICC
+![](assets/web-activities-1.png)
 
 ## Anonyma webbaktiviteter {#anonymous-web-activities}
 
-På fliken Anonyma webbaktiviteter visas alla **anonyma** webbsidesbesökares aktiviteter. Granska de senaste webbaktiviteterna och se hur många besökare sidorna har.
+Fliken Anonyma webbaktiviteter visar alla **anonym** webbaktiviteter för besökare på webbsidor. Granska de senaste webbaktiviteterna och se hur många besökare sidorna har.

@@ -3,11 +3,15 @@ description: E-postaktiviteter - Marketo Docs - produktdokumentation
 title: E-postaktiviteter
 hide: true
 hidefromtoc: true
-source-git-commit: 7bac8a520bb1b8a2cc353c229e2f456476f67384
+source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
 workflow-type: tm+mt
-source-wordcount: '10'
+source-wordcount: '43'
 ht-degree: 0%
 
 ---
 
 # E-postaktiviteter {#email-activities}
+
+På fliken E-postaktiviteter visas alla e-postmeddelanden som har skickats av Försäljning till leads och kontakter under Säljaren. Granska skickat datum och om e-postmeddelandet öppnades eller klickades av mottagaren.
+
+![](assets/email-activities-1.png)

@@ -3,7 +3,7 @@ unique-page-id: 11379622
 description: Konfigurera Facebook Lead Ads - Marketo Docs - produktdokumentation
 title: Konfigurera Facebook Lead Ads
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
-source-git-commit: eec4b6fb94ad7dd3b10376bdcdc2b558d1b90aed
+source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%
@@ -22,15 +22,15 @@ Använd [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) för a
 >
 >Kontakta din Customer Success Manager om du vill lägga till Facebook Lead Ads i din instans.
 
-1. Gå till Marketo **Admin**.
+1. Gå till Marketo **Administratör**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Gå till **LaunchPoint**, klicka på **Nytt,** och välj **Ny tjänst**.
+1. Gå till **LaunchPoint**, klicka på **Nytt,** och markera **Ny tjänst**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Ange ett **visningsnamn** för tjänsten, välj tjänsten **Facebook Lead Ads** i listrutan och klicka på **Skapa**.
+1. Ange **Visningsnamn** för tjänsten väljer du **Facebook Lead Ads** i listrutan och klicka på **Skapa**.
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
@@ -46,15 +46,15 @@ Använd [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) för a
 
    ![](assets/image2016-11-29-10-3a52-3a51.png)
 
-1. Om du uppmanas till det klickar du på **OK** för att godkänna Marketo-programinstallationen i Facebook.
+1. Om du uppmanas till det klickar du på **OK** för att acceptera Marketo-appinstallationen i Facebook.
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
-1. Du kommer att märka att du nu är auktoriserad. Klicka på **Nästa**.
+1. Du kommer att märka att du nu är auktoriserad. Klicka **Nästa**.
 
    ![](assets/image2016-11-29-10-3a56-3a28.png)
 
-1. Markera den eller de sidor du vill att Marketo ska hämta Facebook Lead Ads från och klicka på **Next**.
+1. Markera de sidor du vill att Marketo ska hämta Facebook Lead Ads från och klicka på **Nästa**.
 
    >[!TIP]
    >
@@ -66,7 +66,7 @@ Använd [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) för a
 
    >[!TIP]
    >
-   >Genom att ändra mappningarna kan du anpassa var informationen om annonser för leads lagras i Marketo. Du kan även [hämta data från anpassade frågor för Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
+   >Genom att ändra mappningarna kan du anpassa var informationen om annonser för leads lagras i Marketo. Du kan också [hämta in data från Lead Ads - anpassade frågor](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
 
    >[!CAUTION]
    >

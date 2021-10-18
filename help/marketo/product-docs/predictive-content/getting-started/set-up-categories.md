@@ -1,23 +1,22 @@
 ---
 unique-page-id: 11385057
-description: Ställ in kategorier - Marketo Docs - Produktdokumentation
+description: Ställ in kategorier - Marketo Docs - produktdokumentation
 title: Ställ in kategorier
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 4756e821-d90d-4148-b9c4-4912a48d26b4
+source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
-
-# Konfigurera kategorier {#set-up-categories}
+# Ställ in kategorier {#set-up-categories}
 
 Skapa kategorier i Predictive Content för att gruppera prediktiva resultat på webben eller i e-post. Du kan till exempel bara arbeta med bloggar eller med innehåll på ett visst språk. Du kan även söka efter och filtrera sidvyn.  Kategorier visas på sidorna Allt innehåll och Predictive Content för enkel referens.
 
 ![](assets/image2017-10-3-9-3a3-3a44.png)
 
-När du redigerar identifierat innehåll lägger du till kategorier på redigeringsskärmen. Klicka på fältet **Kategorier** och välj dem i listrutan.
+När du redigerar identifierat innehåll lägger du till kategorier på redigeringsskärmen. Klicka på **Kategorier** och välj dem i listrutan.
 
 ![](assets/two.png)
 
@@ -33,11 +32,11 @@ Så här skapar du kategoritaggar.
 
    ![](assets/settings-dropdown-hand-1.png)
 
-1. Klicka på **Kategorier**.
+1. Klicka **Kategorier**.
 
    ![](assets/content-discovery-categories-hand.png)
 
-1. Befintliga kategoritaggar visas. Ange en ny kategoritagg och klicka på **Skapa ny**.
+1. Befintliga kategoritaggar visas. Ange en ny kategoritagg och klicka på **Skapa nytt**.
 
    ![](assets/content-settings-create-cat-tags-hand.png)
 
@@ -45,7 +44,7 @@ Så här skapar du kategoritaggar.
 
    ![](assets/remove-category-tag-updated.png)
 
-1. Klicka på **Spara** när du är klar.
+1. Klicka **Spara** när du är klar.
 
    ![](assets/save-new.png)
 
