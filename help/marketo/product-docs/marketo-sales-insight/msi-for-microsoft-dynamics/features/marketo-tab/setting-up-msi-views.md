@@ -3,9 +3,9 @@ description: Konfigurera MSI-vyer - Marketo Docs - produktdokumentation
 title: Konfigurera MSI-vyer
 hide: true
 hidefromtoc: true
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+source-git-commit: f4930d1747f1ca893d7494afc3dcbeb8c6398e93
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -14,30 +14,44 @@ ht-degree: 0%
 
 När du installerar plugin-programmet Sales Insight i Dynamics läggs de bästa valen och tillhörande instrumentpaneler automatiskt till på webbplatskartan. Om kontrollpanelerna av någon anledning inte läggs till gör du så här för att lägga till dem manuellt.
 
-1. Gå till Avancerade inställningar > Inställningar > Anpassningar > Anpassa systemet.
+1. Klicka på kugghjulsikonen i Dynamics och välj **Avancerade inställningar** i listrutan.
 
-1. Välj Klienttillägg och klicka sedan på Webbplatskarta.
+1. Klicka på längst upp till vänster på skärmen **Inställningar**. Välj Anpassningar under Anpassning.
 
-1. Flytta åt höger. Välj Marketo och Lägg till underområde.
+1. Klicka **Anpassa systemet**.
 
-1. Ange sedan värdena i fälten enligt följande och klicka på Spara.
+1. Klicka i trädet till vänster på **Klienttillägg** och dubbelklicka **Webbplatskarta**.
 
-Best Bets - marketo_bestbets URL : MainviewBestbets.html-ikon: /WebResources/mkt_/_MainView/_imgs/icons/bestbets.svg ID: marketo_bestbets Title : Bästa val
+1. Klicka på högerpilen för att gå till nästa sida. Under Försäljning hittar du Marketo. Om du inte gör det kontrollerar du att du har importerat paketet korrekt.
 
-## Min e-postinstrumentpanel {#my-email-dashboard}
+   >[!NOTE]
+   >
+   >Under Marketo bör du ha: Bästa val, Min e-post, Webbaktivitet och anonym webbaktivitet. Om någon av dessa instrumentpaneler saknas klickar du på plustecknet ovanför Försäljning och lägger till dem som ett delområde.
 
-Följ samma instruktioner för att nå webbplatskartor och Marketo Group, som beskrivs ovan för Bästa val.  I ett nytt delområde för Min e-post ska följande anges.
+1. Klicka på en kontrollpanel för att markera den. I kolumnen till höger anger du respektive information nedan för var och en av dem. Du kan ignorera alla kategorier som inte finns med i listan.
 
-URL: mkt_/MainViewMyEmail.html: /WebResources/mkt_/_MainView/_imgs/icons/email.svg ID: marketo_myemail Title:My Email
+   **Bästa val**</br>
+URL: MainviewBestbets.html</br>
+Ikon: /WebResources/mkt_/_MainView/_imgs/icons/bestbets.svg</br>
+ID: marketo_bestbets</br>
+Titel: Bästa val
 
-## Kontrollpanel för webbaktivitet {#web-activity-dashboard}
+   **Min e-postadress**</br>
+URL: mkt_/MainViewMyEmail.html</br>
+Ikon: /WebResources/mkt_/_MainView/_imgs/icons/email.svg</br>
+ID: marketo_myemail</br>
+Titel: Min e-postadress
 
-Följ samma instruktioner för att nå webbplatskartor och Marketo Group, som beskrivs ovan för Bästa val.  I ett nytt delområde för webbaktivitet ska följande anges.
+   **Webbaktivitet**</br>
+URL: mkt_/MainViewWebActivity.html</br>
+Ikon: /WebResources/mkt_/_MainView/_imgs/icons/web_activity.svg</br>
+ID: marketo_webactivity</br>
+Titel: Webbaktivitet
 
-URL: mkt_/MainViewWebActivity.html: /WebResources/mkt_/_MainView/_imgs/icons/web_activity.svg ID: marketo_webactivity Title: Webbaktivitet
+   **Anonym webbaktivitet**</br>
+URL: mkt_/MainViewWebActivity.html</br>
+Ikon: /WebResources/mkt_/_MainView/_imgs/icons/anonymous_web_activity.svg</br>
+ID: marketo_anonymous_webactivity</br>
+Titel: Anonym webbaktivitet
 
-## Instrumentpanel för anonym webbaktivitet {#anonymous-web-activity-dashboard}
-
-Följ samma instruktioner för att nå webbplatskartor och Marketo Group, som beskrivs ovan för Bästa val.  I ett nytt delområde för webbaktivitet ska följande anges.
-
-URL: mkt_/MainViewWebActivity.html: /WebResources/mkt_/_MainView/_imgs/icons/anonymous_web_activity.svg ID: marketo_anonymous_webactivity Title: Anonym webbaktivitet
+1. Klicka **Spara** när det är klart.
