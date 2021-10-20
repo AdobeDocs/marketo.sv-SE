@@ -1,9 +1,10 @@
 ---
 description: Utlösare och filter för försäljningsaktivitet - Marketo Docs - produktdokumentation
 title: Utlösare och filter för försäljningsaktivitet
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+exl-id: 750abb73-8217-4739-8a08-1eb0f6e2976c
+source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,11 +19,11 @@ Följ stegen nedan för att lära dig hur du använder filter för försäljning
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. På fliken **Smart List** söker du efter &quot;Sales Connect&quot;.
+1. I **Smart List** sök i&quot;Sales Apps&quot;.
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 
-1. Välj önskat filter eller önskad utlösare.
+1. Markera och dra över önskat filter eller utlösare.
 
    ![](assets/sales-activity-triggers-and-filters-3.png)
 
@@ -32,4 +33,4 @@ Följ stegen nedan för att lära dig hur du använder filter för försäljning
 
 >[!NOTE]
 >
->En fullständig lista över aktiviteter, begränsningar och definitioner finns i vår [Sales Activity Glossary](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md).
+>En fullständig lista över aktiviteter, begränsningar och definitioner finns i [Ordlista för försäljningsaktivitet](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md).

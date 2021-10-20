@@ -3,9 +3,9 @@ description: Konfigurera MSI-vyer - Marketo Docs - produktdokumentation
 title: Konfigurera MSI-vyer
 hide: true
 hidefromtoc: true
-source-git-commit: f4930d1747f1ca893d7494afc3dcbeb8c6398e93
+source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ När du installerar plugin-programmet Sales Insight i Dynamics läggs de bästa 
 
 1. Klicka på kugghjulsikonen i Dynamics och välj **Avancerade inställningar** i listrutan.
 
-1. Klicka på längst upp till vänster på skärmen **Inställningar**. Välj Anpassningar under Anpassning.
+1. Klicka på längst upp till vänster på skärmen **Inställningar**. Under Anpassning väljer du **Anpassningar**.
 
 1. Klicka **Anpassa systemet**.
 

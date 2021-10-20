@@ -2,31 +2,32 @@
 title: prediktiva filter
 description: Prediktiva filter
 exl-id: cbfc2d5f-181d-4f07-b2c6-74c848708ef0
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Prediktiva filter
 
-<br> 
-
 Som en del av Predictive Audiences erbjuder Marketo en grupp AI/ML-baserade filter i smarta listor.
 
 ![Bild ett](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-1.png)
 
+>[!NOTE]
+>
+>Filtren&quot;Sannolikt att delta&quot; och&quot;Sannolikt att registrera&quot; kan bara användas i händelse- eller e-postprogram. &quot;Sannolikhet för att säga upp prenumerationen&quot;, &quot;Lookalike of Program Members&quot; och &quot;Lookalike of Smart List Members&quot; kan användas i alla programtyper.
+
 ## Sannolikhet att delta
 
-Det här filtret används för att effektivt begränsa er målgrupp. Detta hjälper dig att rikta och bjuda in leads som har större sannolikhet att **delta** ditt webbinarium eller din händelse. Observera att &quot;[!UICONTROL Likelihood to attend program]&quot; kommer att vara ditt aktuella händelseprogram.
+Det här filtret används för att effektivt begränsa er målgrupp. Detta hjälper er att rikta in och bjuda in leads som har större sannolikhet att **deltar** ditt webbinarium eller event. Observera att[!UICONTROL Likelihood to attend program]&quot; kommer att vara ditt nuvarande eventprogram.
 
 ![Bild två](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-2.png)
 
 ## Sannolikhet för registrering
 
-På samma sätt som för filtret [!UICONTROL _Sannolikhet att delta_] använder du det här filtret för att begränsa antalet användare och målleads som har en större sannolikhet för **registrering** för webbinariet eller händelsen.
+Liknar [!UICONTROL _Sannolikhet att delta_] filtrera, använd det här filtret för att begränsa målgrupper och målleads som har större sannolikhet att **registrering** för webbinariet eller evenemanget.
 
 ![Bild tre](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-3.png)
 
@@ -44,7 +45,7 @@ Detta filtrerar publiken efter om de har en hög eller låg sannolikhet för att
 
 Dessa två filter hjälper er att utöka er nuvarande målgrupp genom att rikta in er på fler leads som liknar medlemmar i andra program eller Smart List. Filtren Lookalike tar hänsyn till fler än 50 faktorer, inklusive leadattribut, e-postaktivitet, webbaktivitet och engagemang.
 
-Klicka på **[!UICONTROL Add Constraint]** om du vill välja ett villkor för slutförande för medlemmarna i de valda programmen.
+Klicka **[!UICONTROL Add Constraint]** om du vill välja villkor för att medlemmarna i de valda programmen ska lyckas.
 
 Klicka på ikonen + bredvid listrutan för att enkelt lägga till flera program/smarta listor till ett filter.
 

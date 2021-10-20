@@ -2,10 +2,10 @@
 description: Säljaktivitetsordlista - Marketo Docs - produktdokumentation
 title: Ordlista för försäljningsaktivitet
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
+source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
 workflow-type: tm+mt
-source-wordcount: '492'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -114,7 +114,7 @@ Aktiviteterna nedan loggas till Marketo från Sales Connect.
   <td>Marketo-säljarens ID</td>
  </tr>
 <tr>
-  <th rowspan="3">Mottaget e-postmeddelande</th>
+  <th rowspan="3">Svar på e-postadress</th>
   <td>Mottaget av</td>
  </tr>
  <tr>
