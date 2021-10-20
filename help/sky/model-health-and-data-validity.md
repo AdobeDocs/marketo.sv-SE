@@ -2,9 +2,9 @@
 title: model-health-and-data-validity
 description: Modellens hälsa och datavalidering
 exl-id: b14ec648-be1c-467b-b41d-2c53d74e25ea
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 41a51afde7942d6973a01636810bc5862d023e99
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ Modellernas prestanda beror på kvaliteten och fullständigheten hos indata. Se 
 
 >[!NOTE]
 >
->Beteenden som markerats som (+) påverkar förutsägelserna positivt (och vice versa).
+>Beteenden markerade med (+) påverkar prediktionerna positivt (och vice versa).
 
 Så här bedömer du modellens hälsa.
 

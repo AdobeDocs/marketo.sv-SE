@@ -2,9 +2,9 @@
 title: prediktiva filter
 description: Prediktiva filter
 exl-id: cbfc2d5f-181d-4f07-b2c6-74c848708ef0
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 41a51afde7942d6973a01636810bc5862d023e99
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ Som en del av Predictive Audiences erbjuder Marketo en grupp AI/ML-baserade filt
 
 ## Sannolikhet att delta
 
-Det här filtret används för att effektivt begränsa er målgrupp. Detta hjälper er att rikta in och bjuda in leads som har större sannolikhet att **deltar** ditt webbinarium eller event. Observera att[!UICONTROL Likelihood to attend program]&quot; kommer att vara ditt nuvarande eventprogram.
+Det här filtret används för att effektivt begränsa er målgrupp. Detta hjälper er att rikta in och bjuda in leads som har större sannolikhet att **deltar** ditt webbinarium eller event. Observera att&quot;Sannolikhet att delta&quot; kommer att vara ditt nuvarande eventprogram.
 
 ![Bild två](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-2.png)
 
 ## Sannolikhet för registrering
 
-Liknar [!UICONTROL _Sannolikhet att delta_] filtrera, använd det här filtret för att begränsa målgrupper och målleads som har större sannolikhet att **registrering** för webbinariet eller evenemanget.
+Liknar _Sannolikhet att delta_ filtrera, använd det här filtret för att begränsa målgrupper och målleads som har större sannolikhet att **registrering** för webbinariet eller evenemanget.
 
 ![Bild tre](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-3.png)
 
