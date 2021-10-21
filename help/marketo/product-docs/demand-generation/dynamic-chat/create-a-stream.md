@@ -3,9 +3,9 @@ description: Skapa en ström - Marketo Docs - produktdokumentation
 title: Skapa en ström
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+source-git-commit: 1022d3eaf4ee4a1686c5d8ae3168ee0197776289
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Det finns _många_ strömkombinationer som du kan skapa. Nedan visas ett exempel där marknadsföraren frågar besökaren om han eller hon har några produktfrågor. Om ja, kan besökaren boka ett möte. Om nej, ges besökaren möjlighet att ansluta sig till en sändlista för framtida korrespondens. Målet är antingen att schemalägga en avtalad tid eller att samla in besökarens e-post.
 
-1. När du har [skapat dialogrutan](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue) klickar du på fliken **Stream Designer**.
+1. Efter [skapa en dialogruta](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue)klickar du på **Stream Designer** -fliken.
 
    ![](assets/create-a-stream-1.png)
 
@@ -38,7 +38,7 @@ Det finns _många_ strömkombinationer som du kan skapa. Nedan visas ett exempel
 
    ![](assets/create-a-stream-5.png)
 
-1. Klicka på **Spara** i kolumnen till höger.
+1. Klicka på i kolumnen till höger **Spara**.
 
    ![](assets/create-a-stream-6.png)
 
@@ -54,7 +54,7 @@ Det finns _många_ strömkombinationer som du kan skapa. Nedan visas ett exempel
 
    ![](assets/create-a-stream-9.png)
 
-1. Ange ditt svar och lägg till svarsalternativ för besökaren. Klicka på **Spara** när du är klar.
+1. Ange ditt svar och lägg till svarsalternativ för besökaren. Klicka **Spara** när det är klart.
 
    ![](assets/create-a-stream-10.png)
 
@@ -66,7 +66,7 @@ Det finns _många_ strömkombinationer som du kan skapa. Nedan visas ett exempel
 
    ![](assets/create-a-stream-11.png)
 
-1. Klicka på listrutan **Typ** och välj **E-post**.
+1. Klicka på **Typ** nedrullningsbar meny och välj **E-post**.
 
    ![](assets/create-a-stream-12.png)
 
@@ -115,7 +115,7 @@ Det finns _många_ strömkombinationer som du kan skapa. Nedan visas ett exempel
 
 >[!NOTE]
 >
->Innan du klickar på Publicera måste du kontrollera att du [har angett mål-URL:er](help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
+>Innan du klickar på Publicera bör du kontrollera att [angett mål-URL:er](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
 
 >[!MORELIKETHIS]
 >
