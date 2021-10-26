@@ -3,9 +3,9 @@ unique-page-id: 42762514
 description: Instrumentpanelsfunktion - översikt - Marketo Docs - produktdokumentation
 title: Översikt över funktionen Insikt i instrumentpanelen
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
-source-git-commit: 6679e1e0bdb53d3f330c15415a5fbe38f61d28d2
+source-git-commit: 7c4edcd35b71846cc7bfea80906c0f9cbccea736
 workflow-type: tm+mt
-source-wordcount: '1460'
+source-wordcount: '1503'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Läs mer om de funktioner som finns på kontrollpanelen för försäljningsinsik
 
 >[!PREREQUISITES]
 >
->Du måste ha det senaste MSI SFDC-paketet och [konfigurationen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
+>Du måste ha det senaste MSI SFDC-paketet och [konfiguration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
 ![](assets/one.png)
 
@@ -155,7 +155,7 @@ Fliken Händelse:
 * Veckosammanfattningsfältet visar Intressanta tider, e-post och webbaktivitet för den veckan. Varje ikon går att klicka på och kan användas som filter för att visa specifik aktivitet
 * Standardvy: Det här är en lista över aktiviteter i den aktuella vyn
 
-**Kommande fliken E-postkampanjer och** evenemangE-postkampanjer:
+**Kommande e-postkampanjer och evenemang** Fliken E-postkampanjer:
 
 * Inkluderar kampanjer som är en del av e-postprogram eller standardprogram som planeras inom de kommande 90 dagarna
 * Inte specifikt för kontakten/leadet (dvs. listan över kampanjer är en allmän lista över alla e-postkampanjer som är schemalagda i Marketo-instansen). Listan över kampanjer för alla lead-, kontakt-, konto- och affärsmöjlighetspaneler blir densamma
@@ -171,3 +171,7 @@ Fliken Händelse:
 * Om du väljer alla händelser visas en lista över händelser som schemalagts inom de kommande 90 dagarna
 * Kortet för aktivitetsinformation i det här avsnittet har förhandsvisningsalternativ
 * Filtret innehåller&quot;Sök&quot;,&quot;Visa endast inbjudna händelser&quot; och&quot;Datumintervall&quot;
+
+>[!NOTE]
+>
+>Om kontot eller säljprojektet har fler än 800 kontakter visas inga data på instrumentpanelen. Men ni kan gå till enskilda kontakter för att se deras insikter och engagemang. Om ditt konto har fler än 800 kontakter inaktiveras Visa kontonivåaktivitet.

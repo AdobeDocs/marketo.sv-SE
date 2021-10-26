@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+source-git-commit: 7c4edcd35b71846cc7bfea80906c0f9cbccea736
 workflow-type: tm+mt
 source-wordcount: '7972'
 ht-degree: 0%
@@ -1308,6 +1308,7 @@ ht-degree: 0%
             + [Konfigurera Sales Insight för ditt team](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
          + Funktioner {#features}
             + [Översikt över MSI-funktioner](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
+            + [Översikt över funktionen Insikt i instrumentpanelen](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
             + Åtgärder på MSI-panelen {#actions-in-the-msi-panel}
                + [Lägg till en lead/kontakt i en Marketo-kampanj från Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/add-to-marketo-campaign/add-a-lead-contact-to-a-marketo-campaign-from-salesforce.md)
                + [Konfigurera sidfot för avanmälan i Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
@@ -1318,7 +1319,6 @@ ht-degree: 0%
                + [Lägg till fliken och knapparna för Marketo Sales Insight i Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
                + [Massåtgärder i Salesforce Lightning](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/bulk-actions-in-salesforce-lightning.md)
                + [Skicka ett e-postmeddelande till flera poster i Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
-               + [Översikt över funktionen Insikt i instrumentpanelen](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
             + Språkstöd {#language-support}
                + [Förbered Sales Insight för flerspråkig support i Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
             + Marketo Tab {#marketo-tab}
