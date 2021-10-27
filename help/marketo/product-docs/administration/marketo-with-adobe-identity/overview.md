@@ -3,7 +3,7 @@ description: Översikt - Marketo Docs - produktdokumentation
 title: Översikt
 hide: true
 hidefromtoc: true
-source-git-commit: 8ef7611e9a6b9756d35a9c8fbd439f25f5c714be
+source-git-commit: 6047665cf94a4b212734667feeb5fce911ffdebb
 workflow-type: tm+mt
 source-wordcount: '671'
 ht-degree: 0%
@@ -53,11 +53,11 @@ Adobe Identity Management System består av tre komponenter.
 
 **Har stödet för API-klienter förändrats?**
 
-Ja. De som har anslutit sig till Adobe IMS kan inte utnyttja Marketo befintliga API:er för användarhantering. De använder API:erna [IMS](https://www.adobe.io/apis/experienceplatform/umapi-new.html).
+Ja. De som har anslutit sig till Adobe IMS kan inte utnyttja Marketo befintliga API:er för användarhantering. De använder [IMS API:er](https://www.adobe.io/apis/experienceplatform/umapi-new.html).
 
 **Vem kontaktar vi för support?**
 
-Du följer standardproceduren för att kontakta [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
+Du följer då standardproceduren för att kontakta [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 **Hanteras Marketo användarroller (i arbetsytor) i Adobe Admin Console?**
 
@@ -65,7 +65,7 @@ Nej. Hantering av användarroller (i arbetsytor) har slutförts i Marketo.
 
 **Jag är Marketo-administratör och har inte tillgång till Admin Console. Hur får jag åtkomst?**
 
-Alla system- och produktadministratörer som har tillgång till din organisations Admin Console kan ge dig åtkomst. Om du är osäker på vem i din organisation som har administratörsbehörighet i konsolen kan du kontakta [Adobe kundtjänst](https://helpx.adobe.com/contact.html).
+Alla system- och produktadministratörer som har tillgång till din organisations Admin Console kan ge dig åtkomst. Om du är osäker på vem i organisationen som har administratörsbehörighet i konsolen kontaktar du [Adobe kundtjänst](https://helpx.adobe.com/contact.html).
 
 **Hur lägger en administratör till användare i Marketo Sales Connect?**
 
@@ -97,10 +97,11 @@ Nej. Arbetsflödet för användarinbjudan är inte längre aktivt när en prenum
 
 **För Adobe IMS, har vi möjlighet att använda Adobe ID, Enterprise ID eller Federated ID?**
 
-Ja, du bestämmer vilken typ av identitet som din organisation ska stödja. Mer information [här](https://helpx.adobe.com/enterprise/using/identity.html) och [här](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
+Ja, du bestämmer vilken typ av identitet som din organisation ska stödja. Mer info [här](https://helpx.adobe.com/enterprise/using/identity.html) och [här](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
 
 >[!MORELIKETHIS]
 >
 >* [Administratörsinställningar](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
 >* [Lägg till eller ta bort en produktadministratör](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
 >* [Lägg till eller ta bort en användare](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
+
