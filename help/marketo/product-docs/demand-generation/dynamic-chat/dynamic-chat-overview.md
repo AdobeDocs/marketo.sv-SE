@@ -3,9 +3,9 @@ description: Dynamic Chat Overview - Marketo Docs - produktdokumentation
 title: Dynamisk chattöversikt
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+source-git-commit: 121b2f1dd3bc807feaf8e8682307074bac43e12e
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '535'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Med Dynamic Chat kan ni utnyttja ett lättanvänt gränssnitt för att nå ut ti
 
 ## Integreringar {#integrations}
 
-En viktig komponent i Dynamic Chat är möjligheten att kunna interagera direkt med din Marketo-prenumeration. För att kunna utnyttja den här integreringens fulla kapacitet måste du först initiera datasynkroniseringen. Beroende på storleken på din Marketo-databas kan det ta upp till 24 timmar innan den initiala [engångssynkroniseringen](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md) har slutförts. Den genomsnittliga synkroniseringstiden är mindre än två timmar.
+En viktig komponent i Dynamic Chat är möjligheten att kunna interagera direkt med din Marketo-prenumeration. För att kunna utnyttja den här integreringens fulla kapacitet måste du först initiera datasynkroniseringen. Beroende på storleken på din Marketo-databas kan det ta upp till 24 timmar för data för den första, [engångssynkronisering](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md) för att slutföra.
 
 Följande synkroniseras:
 
@@ -58,7 +58,7 @@ Nej, det använder bara förbestämda svar.
 
 **Hur kan jag rikta mig till anonyma människor?**
 
-I dialogrutan måste du använda attributet _Person Email är Empty_.
+I dialogrutan måste du använda _Personens e-postadress är tom_ -attribut.
 
 **Stöder du AI/NLP-funktioner?**
 

@@ -3,9 +3,9 @@ description: Inledande installation - Marketo Docs - produktdokumentation
 title: Inledande konfiguration
 hide: true
 hidefromtoc: true
-source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
+source-git-commit: 121b2f1dd3bc807feaf8e8682307074bac43e12e
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Följ stegen nedan för att konfigurera Dynamic Chat.
 >
 >**Administratörsbehörighet krävs.**
 
-1. När Dynamic Chat är aktiverat för din Marketo-instans får den utsedda systemadministratören ett välkomstmeddelande. Klicka på **Kom igång** i det e-postmeddelandet.
+1. När Dynamic Chat är aktiverat för din Marketo-instans får den utsedda systemadministratören ett välkomstmeddelande. Klicka på **Kom igång**.
 
    ![](assets/initial-setup-1.png)
 
@@ -30,20 +30,6 @@ Följ stegen nedan för att konfigurera Dynamic Chat.
 
 ## Lägg till användare {#add-users}
 
-1. När du har loggat in på Admin Console är nästa sak att göra att lägga till användare. Vi har den processen [dokumenterad här](/help/marketo/product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md#add-a-chat-user).
+1. När du har loggat in på Admin Console är nästa sak att göra att lägga till användare. Vi har den processen [dokumenteras här](/help/marketo/product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md#add-a-chat-user).
 
-## Lägg till behörigheter i Marketo {#add-permissions-in-marketo}
-
-När du har lagt till användare i Admin Console måste du tilldela behörigheter i Marketo för att de ska kunna få åtkomst till kortkommandot Dynamiskt chatt från Marketo.
-
-1. Klicka på **Admin** i Marketo.
-
-1. Sök efter och dubbelklicka på önskad användare.
-
-1. Lägg till **Gå till dynamisk chatt** och klicka på **Spara**.
-
->[!IMPORTANT]
->
->Följ stegen i den ordning som anges ovan. Om någon beviljas behörighet i Marketo först, kommer de att se panelen Dynamiskt chatt, men har ingen användaråtkomst.
-
-Nästa steg är att [ansluta dynamiskt chatt till Marketo](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md).
+Nu är det dags att [ansluta Dynamic Chat till Marketo](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md).
