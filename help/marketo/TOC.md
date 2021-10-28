@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 7c4edcd35b71846cc7bfea80906c0f9cbccea736
+source-git-commit: d261da2a2784ab322ef78fe22ef3d6b4321fc806
 workflow-type: tm+mt
-source-wordcount: '7972'
+source-wordcount: '7974'
 ht-degree: 0%
 
 ---
@@ -1062,6 +1062,7 @@ ht-degree: 0%
       + [Översikt](product-docs/marketo-engage-next-generation-experience/overview.md)
       + [Ikonordlista](product-docs/marketo-engage-next-generation-experience/icon-glossary.md)
       + [Använda den globala sökningen](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
+      + [Växla av/på](product-docs/marketo-engage-next-generation-experience/toggle-switch.md)
    + Marketo Sales Connect {#marketo-sales-connect}
       + Komma igång {#getting-started}
          + [Översikt över Sales Connect](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)

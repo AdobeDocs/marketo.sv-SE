@@ -2,9 +2,9 @@
 description: Säljaktivitetsordlista - Marketo Docs - produktdokumentation
 title: Ordlista för försäljningsaktivitet
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 0a1e913fd03415d3668c8a9d2200e2211bad5980
+source-git-commit: d261da2a2784ab322ef78fe22ef3d6b4321fc806
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '520'
 ht-degree: 1%
 
 ---
@@ -263,7 +263,7 @@ Aktiviteterna nedan loggas till Marketo från Sales Connect.
   </tr>
   <tr> 
    <td><strong>E-postämne för försäljning</strong></td> 
-   <td>Ämnesrad för e-post.</td> 
+   <td>Ärenderad e-postadress följd av ett unikt ID (t.ex.: Min ämnesrad (MSC-12345678)</td> 
   </tr>
   <tr> 
    <td><strong>Telefonnummer till försäljning har anropats</strong></td> 
@@ -283,7 +283,7 @@ Aktiviteterna nedan loggas till Marketo från Sales Connect.
   </tr> 
   <tr> 
    <td><strong>Källa</strong></td> 
-   <td>Aktivitetens källa. Anges som "Tout" för Sales Connect-aktiviteter före Jan 22-utgåvan. Kommer att bli "Sales App" för Sales Connect-aktiviteter efter Jan 22-utgåvan.</td>
+   <td>Aktivitetens källa. Anger som "Tout" för Sales Connect-aktiviteter före oktot 21-versionen. Kommer att bli "Sales App" för Sales Connect-aktiviteter efter okt. 21-versionen.</td>
   </tr> 
   <tr> 
    <td><strong>Mall-ID</strong></td> 
