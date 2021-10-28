@@ -3,10 +3,9 @@ unique-page-id: 1147316
 description: Skapa en person manuellt - Marketo Docs - produktdokumentation
 title: Skapa en person manuellt
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -15,11 +14,15 @@ ht-degree: 0%
 
 Det finns många sätt att få in en person i Marketo. Så här skapar du en manuellt.
 
-1. Gå till **databasen**.
+>[!CAUTION]
+>
+>Marketo gör det **not** har stöd för e-postadresser som innehåller känslolägesikoner.
+
+1. Gå till **Databas**.
 
    ![](assets/db-1.png)
 
-1. Under **Ny** klickar du på **Ny person**.
+1. Under **Nytt**, klicka **Ny person**.
 
    ![](assets/two-2.png)
 

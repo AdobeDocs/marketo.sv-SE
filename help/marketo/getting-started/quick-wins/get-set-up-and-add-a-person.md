@@ -3,9 +3,9 @@ unique-page-id: 2359351
 description: Konfigurera och lägg till en person - Marketo Docs - produktdokumentation
 title: Konfigurera och lägg till en person
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,10 @@ Lägg till dig själv som person i Marketo så att du kan skicka ut testmeddelan
 1. Ange för- och efternamn, e-postadress och företagsnamn och klicka sedan på **Skapa** för att lägga till dig själv som person.
 
    ![](assets/eight.png)
+
+   >[!CAUTION]
+   >
+   >Marketo gör det **not** har stöd för e-postadresser som innehåller känslolägesikoner.
 
 1. Om du vill visa personer öppnar du Smarta listor för system i den vänstra menyn och klickar sedan på Alla personer.
 

@@ -3,9 +3,9 @@ unique-page-id: 2359418
 description: Importera en lista med människor - Marketo Docs - produktdokumentation
 title: Importera en lista med personer
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-source-git-commit: 1b37a750c5e609b9e43e942df752305d85153989
+source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ I den här självstudiekursen får du lära dig hur du importerar personer från
 
 ## Steg 1: Hämta och redigera ett kalkylblad {#step-download-and-edit-a-spreadsheet}
 
-1. Börja med att ladda ned vår övningskalkylbladsfil ([**tradeshow-Attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv)) till datorn.
+1. Börja med att ladda ned en övningsfil ([**tradeshow-Attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv)) till datorn.
 
    ![](assets/image2014-9-24-12-3a5-3a0.png)
 
@@ -34,29 +34,29 @@ I den här självstudiekursen får du lära dig hur du importerar personer från
    >
    >Alla datum-/tidfält som importeras behandlas som centraltid. Om du har datum-/tidsfält i en annan tidszon kan du använda en Excel-formel för att omvandla den till Central Time (USA/Chicago).
 
-1. Lägg till ditt eget förnamn, efternamn, e-postadress och jobbtitel och spara sedan filen på datorn.
+1. Lägg till ditt eget förnamn, efternamn, faktisk e-postadress (så att du kan ta emot de närliggande e-postmeddelanden du skickar i nästa uppdrag) och befattning. Spara filen på datorn.
 
    ![](assets/image2014-9-24-12-3a5-3a30.png)
 
->[!NOTE]
->
->Ange din riktiga e-postadress i CSV-filen så att du kan ta emot de närliggande e-postmeddelanden du skickar i nästa uppdrag.
+   >[!CAUTION]
+   >
+   >Marketo gör det **not** har stöd för e-postadresser som innehåller känslolägesikoner.
 
 ## Steg 2: Skapa ett program {#step-create-a-program}
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter** område.
 
    ![](assets/ma-2.png)
 
-1. Välj mappen **Learning** och klicka sedan på **Nytt program** under **Nytt**.
+1. Välj **Utbildning** mapp, sedan under **Nytt** klicka **Nytt program**.
 
    ![](assets/image2014-9-24-12-3a21-3a13.png)
 
-1. **** Ge programmet namnet&quot;My Tradeshow Program&quot; och välj&quot;Event&quot; som  **programtyp**.
+1. **Namn** Programmet&quot;My Tradeshow Program&quot; och välj&quot;Event&quot; för **Programtyp**.
 
    ![](assets/image2014-9-24-12-3a21-3a25.png)
 
-1. Välj **Tradeshow** för **Channel** och klicka på **Create**.
+1. Välj **Varumärke** för **Kanal** och klicka **Skapa**.
 
    ![](assets/image2014-9-24-12-3a21-3a39.png)
 
@@ -66,19 +66,19 @@ I den här självstudiekursen får du lära dig hur du importerar personer från
 
 ## Steg 3: Importera kalkylblad till Marketo {#step-import-your-spreadsheet-into-marketo}
 
-1. I **My Tradeshow Program** klickar du på **Nytt** och väljer **Ny lokal resurs**.
+1. I **Mitt Tradeshow Program**, klicka **Nytt** och markera **Ny lokal resurs**.
 
    ![](assets/seven-3.png)
 
-1. Klicka på **Lista**.
+1. Klicka **Lista**.
 
    ![](assets/image2014-9-24-12-3a22-3a56.png)
 
-1. **** Skriv namnet på listan&quot;Deltagare i mässor&quot; och klicka på  **Skapa**.
+1. **Namn** i listan&quot;Tradeshow Attendees&quot; och klickar på **Skapa**.
 
    ![](assets/image2014-9-24-12-3a23-3a9.png)
 
-1. Klicka på **Visa åtgärder** och välj **Importera lista** i listan **Deltagare**.
+1. I **Deltagare i mässor** lista, klicka på **Liståtgärder** och markera **Importera lista**.
 
    ![](assets/ten-2.png)
 
@@ -90,13 +90,13 @@ I den här självstudiekursen får du lära dig hur du importerar personer från
    >
    >Storleksgränsen för CSV-filer är 100 MB.
 
-1. **** Bläddra till  **filen tradeshow-Attendees.** csvkalkylsheet på datorn och klicka på  **Nästa**.
+1. **Bläddra** till **tradeshow-Attendees.csv** kalkylbladsfil på datorn och klicka på **Nästa**.
 
    ![](assets/eleven-2.png)
 
    >[!NOTE]
    >
-   >Om du väljer **Hoppa över nya personer och uppdateringar** i listimportläget påverkas inte befintliga personposter och du loggar inga aktiviteter. Använd det här läget om du vill ha en snabb, förfiltrerad statisk lista över befintliga personer som kan användas i dina marknadsföringsaktiviteter. Om du väljer det här läget:
+   >I listimportläge väljer du **Hoppa över nya personer och uppdateringar** innebär att du inte kommer att påverka befintliga personposter eller logga några aktiviteter. Använd det här läget om du vill ha en snabb, förfiltrerad statisk lista över befintliga personer som kan användas i dina marknadsföringsaktiviteter. Om du väljer det här läget:
    >
    > * Hoppa över skapande av ny person
    > * Hoppa över uppdateringar av personfält
@@ -109,13 +109,13 @@ I den här självstudiekursen får du lära dig hur du importerar personer från
 
    >[!TIP]
    >
-   >Kolumnrubrikerna ska alltid matcha fältet exakt (skiftlägeskänsligt) för att uppnå bästa resultat för automatisk mappning. Om du använder anpassade fält och inte ser dem i listrutan går du tillbaka och [skapar dem](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) så att de kan bli alternativ.
+   >Kolumnrubrikerna ska alltid matcha fältet exakt (skiftlägeskänsligt) för att uppnå bästa resultat för automatisk mappning. Om du använder anpassade fält och inte ser dem i listrutan går du tillbaka och [skapa dem](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) så att de kan bli alternativ.
 
    >[!NOTE]
    >
-   >Om det finns fält som du inte vill importera väljer du **Ignorera** i listrutan Marketo-fält.
+   >Om det finns fält som du inte vill importera väljer du **Ignorera** i listrutan Marketo Field.
 
-1. Välj **My Tradeshow Program** för **förvärvsprogrammet** och klicka sedan på **Importera**.
+1. Välj **Mitt Tradeshow Program** för **Anskaffningsprogram** och sedan klicka **Importera**.
 
    ![](assets/image2014-9-24-12-3a25-3a1.png)
 
@@ -123,7 +123,7 @@ I den här självstudiekursen får du lära dig hur du importerar personer från
 
    ![](assets/image2014-9-24-12-3a25-3a13.png)
 
-1. Gå tillbaka i **Mitt utbildningsprogram** och klicka på fliken **Medlemmar**. Du kommer att se alla de personer du just importerat.
+1. Tillbaka in **Mitt Tradeshow Program** klickar du på **Medlemmar** -fliken. Du kommer att se alla de personer du just importerat.
 
    ![](assets/fifteen-1.png)
 
