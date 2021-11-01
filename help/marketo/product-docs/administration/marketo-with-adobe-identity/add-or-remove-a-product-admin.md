@@ -3,9 +3,9 @@ description: Lägg till eller ta bort en produktadministratör - Marketo Docs - 
 title: Lägg till eller ta bort en produktadministratör
 hide: true
 hidefromtoc: true
-source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
+source-git-commit: 1161d193261af10aaa7658e747ff6500ad4179d0
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**** SystemAdmins skapas bara på Org-nivån Adobe. Om du tror att du behöver mer än en kontaktar du [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
+>**System** Administratörer skapas endast på organisationsnivå i Adobe. Om du tror att du behöver mer än ett, vänligen kontakta [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Lägg till en produktadministratör {#add-a-product-admin}
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-1.png)
 
-1. Klicka på **Marketo Engage**.
+1. Klicka **Marketo Engage**.
 
    ![](assets/add-or-remove-a-product-admin-2.png)
 
@@ -30,15 +30,15 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-3.png)
 
-1. Klicka på fliken **Administratörer**.
+1. Klicka på **Administratörer** -fliken.
 
    ![](assets/add-or-remove-a-product-admin-4.png)
 
-1. Klicka på knappen **Lägg till administratör**.
+1. Klicka på **Lägg till administratör** -knappen.
 
    ![](assets/add-or-remove-a-product-admin-5.png)
 
-1. Ange e-postadressen eller användarnamnet för den administratör du vill lägga till. Förnamn och efternamn är valfria. Klicka på **Spara**.
+1. Ange e-postadressen eller användarnamnet för den administratör du vill lägga till. Förnamn och efternamn är valfria. Klicka **Spara**.
 
    ![](assets/add-or-remove-a-product-admin-6.png)
 
@@ -46,17 +46,23 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-7.png)
 
-1. Klicka på menyn med tre punkter under Produkter och välj **Redigera**.
+1. Klicka på menyn tre punkter under Produkter och välj **Redigera**.
 
    ![](assets/add-or-remove-a-product-admin-8.png)
 
-1. Klicka på **+**-tecknet. Klicka på nedtryckningen bredvid den önskade Marketo Engage-prenumerationen (om det finns fler än en) och välj önskad produktprofil.
+1. Klicka på **+** signera. Klicka på nedtryckningen bredvid den önskade Marketo Engage-prenumerationen (om det finns fler än en) och välj önskad produktprofil.
 
    ![](assets/add-or-remove-a-product-admin-9.png)
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/add-or-remove-a-product-admin-10.png)
+
+Användaren får sedan två e-postmeddelanden. Det första e-postmeddelandet meddelar dem att de har tilldelats produktadministratörsrättigheter till Marketo Engage. Det andra e-postmeddelandet bjuder in dem att logga in på Marketo Engage.
+
+>[!NOTE]
+>
+>När produktadministratörsanvändaren läggs till i Marketo Engage via Adobe Admin Console får användaren rollen produktadministratör för Adobe i prenumerationen.
 
 ## Ta bort en administratör {#remove-a-user}
 
@@ -64,7 +70,7 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-11.png)
 
-1. Klicka på **Marketo Engage**.
+1. Klicka **Marketo Engage**.
 
    ![](assets/add-or-remove-a-product-admin-12.png)
 
@@ -72,14 +78,16 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-13.png)
 
-1. Klicka på fliken **Administratörer**.
+1. Klicka på **Administratörer** -fliken.
 
    ![](assets/add-or-remove-a-product-admin-14.png)
 
-1. Markera den administratör som du vill ta bort och klicka på knappen **Ta bort administratör**.
+1. Välj den administratör som du vill ta bort och klicka på **Ta bort administratör** -knappen.
 
    ![](assets/add-or-remove-a-product-admin-15.png)
 
-1. Bekräfta genom att klicka på **Ta bort administratör**.
+1. Klicka **Ta bort administratör** för att bekräfta.
 
    ![](assets/add-or-remove-a-product-admin-16.png)
+
+Användaren får sedan ett e-postmeddelande som meddelar att de inte längre har produktadministratörsåtkomst till Marketo Engage.

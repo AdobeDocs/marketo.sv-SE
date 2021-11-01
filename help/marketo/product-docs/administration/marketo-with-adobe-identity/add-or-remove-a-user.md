@@ -3,9 +3,9 @@ description: Lägg till eller ta bort en användare - Marketo Docs - produktdoku
 title: Lägg till eller ta bort en användare
 hide: true
 hidefromtoc: true
-source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
+source-git-commit: 1161d193261af10aaa7658e747ff6500ad4179d0
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-1.png)
 
-1. Klicka på **Marketo Engage**.
+1. Klicka **Marketo Engage**.
 
    ![](assets/add-or-remove-a-user-2.png)
 
@@ -26,11 +26,11 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-3.png)
 
-1. Klicka på fliken **Användare**.
+1. Klicka på **Användare** -fliken.
 
    ![](assets/add-or-remove-a-user-4.png)
 
-1. Klicka på knappen **Lägg till användare**.
+1. Klicka på **Lägg till användare** -knappen.
 
    ![](assets/add-or-remove-a-user-5.png)
 
@@ -38,15 +38,19 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-6.png)
 
-1. Klicka på ikonen **+** och välj önskad produktprofil.
+1. Klicka på **+** och välj önskad produktprofil.
 
    ![](assets/add-or-remove-a-user-7.png)
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/add-or-remove-a-user-8.png)
 
 Användaren får sedan ett e-postmeddelande om att logga in på Marketo.
+
+>[!NOTE]
+>
+>När användaren läggs till Marketo Engage via Adobe Admin Console får användaren rollen&quot;Standardanvändare&quot; i standardarbetsytan för prenumerationen. Om användarens roll på arbetsytan behöver justeras, d.v.s. i Marketo Engage, [enligt beskrivning här](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## Ta bort en användare {#remove-a-user}
 
@@ -54,7 +58,7 @@ Användaren får sedan ett e-postmeddelande om att logga in på Marketo.
 
    ![](assets/add-or-remove-a-user-9.png)
 
-1. Klicka på **Marketo Engage**.
+1. Klicka **Marketo Engage**.
 
    ![](assets/add-or-remove-a-user-10.png)
 
@@ -62,17 +66,19 @@ Användaren får sedan ett e-postmeddelande om att logga in på Marketo.
 
    ![](assets/add-or-remove-a-user-11.png)
 
-1. Klicka på fliken **Användare**.
+1. Klicka på **Användare** -fliken.
 
    ![](assets/add-or-remove-a-user-12.png)
 
-1. Markera den användare som du vill ta bort och klicka på knappen **Ta bort**.
+1. Markera den användare som du vill ta bort och klicka på **Ta bort** -knappen.
 
    ![](assets/add-or-remove-a-user-13.png)
 
-1. Bekräfta genom att klicka på **Ta bort användare**.
+1. Klicka **Ta bort användare** för att bekräfta.
 
    ![](assets/add-or-remove-a-user-14.png)
+
+Användaren får sedan ett e-postmeddelande som meddelar att de inte längre har produktadministratörsåtkomst till Marketo Engage.
 
 >[!MORELIKETHIS]
 >

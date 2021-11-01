@@ -3,20 +3,20 @@ description: Administratörsinstallation - Marketo Docs - produktdokumentation
 title: Administratörsinställningar
 hide: true
 hidefromtoc: true
-source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
+source-git-commit: 1161d193261af10aaa7658e747ff6500ad4179d0
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
 
 # Administratörsinställningar {#admin-setup}
 
-När du har lagts till som systemadministratör för Marketo i en Adobe-organisation behöver du utföra den första konfigurationen i några steg.
+När du har lagts till som systemadministratör för Adobe till Marketo Engage i en Adobe organisation behöver du utföra den första konfigurationen i några få steg.
 
 ## Installation av systemadministratör {#system-admin-setup}
 
-1. När din Adobe-organisation har etablerats får den utsedda systemadministratören ett välkomstmeddelande via e-post. Klicka på **Kom igång** i det e-postmeddelandet.
+1. När du har lagts till som systemadministratör för Marketo Engage (i en ny eller etablerad organisation) får du ett välkomstmeddelande. Klicka på **Kom igång**.
 
    ![](assets/admin-setup-1.png)
 
@@ -26,9 +26,9 @@ När du har lagts till som systemadministratör för Marketo i en Adobe-organisa
 
 ## Skapa en produktprofil {#create-a-product-profile}
 
-När systemadministratören har öppnat Admin Console är det dags att skapa en produktprofil.
+När systemadministratören har öppnat Admin Console är det dags att skapa en produktprofil. Så här får dina användare/administratörer åtkomst till Marketo Engage.
 
-1. Klicka på **Marketo Engage** under Produkter och tjänster.
+1. Under Produkter och tjänster klickar du på **Marketo Engage**.
 
    ![](assets/admin-setup-3.png)
 
@@ -40,7 +40,7 @@ När systemadministratören har öppnat Admin Console är det dags att skapa en 
    >
    >Om du har flera prenumerationer måste du följa dessa steg för var och en av dem.
 
-1. Klicka på knappen **Ny profil**.
+1. Klicka på **Ny profil** -knappen.
 
    ![](assets/admin-setup-5.png)
 
@@ -51,18 +51,6 @@ När systemadministratören har öppnat Admin Console är det dags att skapa en 
 >[!NOTE]
 >
 >Om du konfigurerar flera produktprofiler får användarna samma tillgång till Marketo, oavsett vilken profil de läggs till i.
-
-## Produktadministratörsinställningar {#product-admin-setup}
-
-1. När du har bjudits in av en systemadministratör får du ett välkomstmeddelande. Klicka på **Kom igång** i det e-postmeddelandet.
-
-   ![](assets/admin-setup-7.png)
-
-1. Om du tidigare har använt ett program med en Adobe ID kommer du direkt till Adobe Admin Console. Om inte, [konfigurera din Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
-
-   ![](assets/admin-setup-8.png)
-
-Så enkelt är det! Produktadministratörer ansvarar i första hand för att lägga till användare. [Lär dig hur du gör det här](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#add-a-user).
 
 >[!MORELIKETHIS]
 >

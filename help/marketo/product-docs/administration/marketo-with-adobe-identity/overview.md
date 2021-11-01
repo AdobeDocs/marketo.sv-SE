@@ -3,32 +3,36 @@ description: Översikt - Marketo Docs - produktdokumentation
 title: Översikt
 hide: true
 hidefromtoc: true
-source-git-commit: 6047665cf94a4b212734667feeb5fce911ffdebb
+source-git-commit: 1161d193261af10aaa7658e747ff6500ad4179d0
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '809'
 ht-degree: 0%
 
 ---
 
 # Översikt {#overview}
 
-Om din prenumeration på Adobe Marketo Engage gjordes den 21/10-04 kommer den att integreras med Adobe Identity Management System. Med AIMS kan användare logga in på Marketo Engage och andra Experience Cloud-program med en gemensam Adobe-identitet.
+Om din prenumeration på Adobe Marketo Engage gjordes den 21/10-04 kommer den att integreras med Adobe Identity Management System. Tack vare den här integreringen kan användare logga in på Marketo Engage och andra Experience Cloud-program med en gemensam Adobe-identitet.
 
 ## Profilnivåer
 
-Det finns tre profilnivåer.
+Prenumerationer på Adobe Marketo Engage som är kopplade till Adobe Identity Management System har stöd för olika profiler. Följande typer av användarprofiler är relevanta för den här integreringen.
 
 <table>
  <tr>
-  <td><strong>Systemadministratör</strong></td>
-  <td>Ansvarig för att skapa identitetskoncept för Adobe och Marketo Engage i Adobe Admin Console.</td>
+  <td><strong>Adobe Admin Console systemadministratör</strong></td>
+  <td>Ansvarig för att skapa identitetskoncept för Adobe och Marketo Engage i Adobe Admin Console. Beviljad roll vid konfigurationen av Adobe-organisationen.</td>
  </tr>
  <tr>
-  <td><strong>Produktadministratör</strong></td>
-  <td>Ansvarig för att ge användare rätt till Marketo Engage-produkten i Adobe Admin Console.</td>
+  <td><strong>Adobe Admin Console produktadministratör</strong></td>
+  <td>Ansvarig för att ge användare rätt till Marketo Engage-produkten i Adobe Admin Console. Beviljad roll i Adobe Admin Console.</td>
  </tr>
  <tr>
-  <td><strong>Användare</strong></td>
+  <td><strong>Marketo Engage produktadministratör</strong></td>
+  <td>En person som har beviljats tillträde till Marketo Engage med administrativ behörighet. Beviljad roll i Marketo Engage, inte i Adobe Admin Console.</td>
+ </tr>
+ <tr>
+  <td><strong>Marketo Engage-användare</strong></td>
   <td>En person som har fått tillträde till Marketo Engage. Inga administrativa behörigheter.</td>
  </tr>
 </table>
@@ -48,12 +52,14 @@ Adobe Identity Management System består av tre komponenter.
 **Vad är skillnaden mellan en produktadministratör för Adobe och en Marketo Engage-administratör?**
 
 * Adobe produktadministratör är en ny roll för Marketo.
-* Det är en skrivskyddad roll som inte kan redigeras eller tas bort från Marketo.
-* Den har samma rättigheter och privilegier som Marketo-administratören.
+* Adobe produktadministratörsroll ges till användare som lagts till som produktadministratör i Adobe Admin Console
+* Adobe produktadministratör är skrivskyddad och kan inte redigeras eller tas bort från Marketo Engage.
+* Adobe produktadministratör har samma rättigheter och behörigheter som en vanlig Marketo-administratör.
+* Marketo Engage Admins roll är fortfarande en administratör och beviljas en användare i Marketo Engage.
 
 **Har stödet för API-klienter förändrats?**
 
-Ja. De som har anslutit sig till Adobe IMS kan inte utnyttja Marketo befintliga API:er för användarhantering. De använder [IMS API:er](https://www.adobe.io/apis/experienceplatform/umapi-new.html).
+Ja. De som har anslutit sig till Adobe IMS kan inte utnyttja alla befintliga API:er för Marketo användarhantering. När det gäller åtgärder för att bjuda in, uppdatera och ta bort användare [IMS API:er](https://www.adobe.io/apis/experienceplatform/umapi-new.html) ska användas. För rollhantering gäller fortfarande Marketo API:er för användarhantering.
 
 **Vem kontaktar vi för support?**
 
@@ -61,15 +67,15 @@ Du följer då standardproceduren för att kontakta [Marketo Support](https://na
 
 **Hanteras Marketo användarroller (i arbetsytor) i Adobe Admin Console?**
 
-Nej. Hantering av användarroller (i arbetsytor) har slutförts i Marketo.
+Nej. Hanteringen av användarroller (i arbetsytor) slutförs i Marketo Engage.
 
 **Jag är Marketo-administratör och har inte tillgång till Admin Console. Hur får jag åtkomst?**
 
-Alla system- och produktadministratörer som har tillgång till din organisations Admin Console kan ge dig åtkomst. Om du är osäker på vem i organisationen som har administratörsbehörighet i konsolen kontaktar du [Adobe kundtjänst](https://helpx.adobe.com/contact.html).
+Alla Adobe-system eller produktadministratörer som har tillgång till din organisations Admin Console kan ge dig åtkomst. Om du är osäker på vem i organisationen som har administratörsbehörighet i konsolen kontaktar du [Adobe kundtjänst](https://helpx.adobe.com/contact.html).
 
 **Hur lägger en administratör till användare i Marketo Sales Connect?**
 
-Det kommer att finnas ett produktkort i AC för Sales Connect, men AC bör inte användas för att lägga till/hantera användare. Med följande länk kan administratörer hantera användare via Marketo Sales Connect: [https://toutapp.com/next#settings/admin/user-management](https://toutapp.com/next#settings/admin/user-management).
+Även om det kommer att finnas ett produktkort i Admin Console för Sales Connect, bör Admin Console inte användas för att lägga till/hantera användare. Med följande länk kan administratörer hantera användare via Marketo Sales Connect: [https://toutapp.com/next#settings/admin/user-management](https://toutapp.com/next#settings/admin/user-management).
 
 **Var kan jag läsa mer om Adobe Admin Console?**
 
@@ -97,7 +103,7 @@ Nej. Arbetsflödet för användarinbjudan är inte längre aktivt när en prenum
 
 **För Adobe IMS, har vi möjlighet att använda Adobe ID, Enterprise ID eller Federated ID?**
 
-Ja, du bestämmer vilken typ av identitet som din organisation ska stödja. Mer info [här](https://helpx.adobe.com/enterprise/using/identity.html) och [här](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
+Ja, du bestämmer vilken typ av identitet som din organisation ska stödja. Mer information finns här: [Identitetsöversikt](https://helpx.adobe.com/enterprise/using/identity.html) och här: [Ställ in identitet](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
 
 >[!MORELIKETHIS]
 >

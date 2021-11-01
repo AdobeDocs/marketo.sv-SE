@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: d261da2a2784ab322ef78fe22ef3d6b4321fc806
+source-git-commit: 1161d193261af10aaa7658e747ff6500ad4179d0
 workflow-type: tm+mt
-source-wordcount: '7974'
+source-wordcount: '7977'
 ht-degree: 0%
 
 ---
@@ -218,6 +218,7 @@ ht-degree: 0%
       + Marketo med Adobe Identity {#marketo-with-adobe-identity}
          + [Översikt](product-docs/administration/marketo-with-adobe-identity/overview.md)
          + [Administratörsinställningar](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
+         + [Produktadministratörsinställningar](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
          + [Lägg till eller ta bort en produktadministratör](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
          + [Lägg till eller ta bort en användare](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
       + Inställningar {#settings}
