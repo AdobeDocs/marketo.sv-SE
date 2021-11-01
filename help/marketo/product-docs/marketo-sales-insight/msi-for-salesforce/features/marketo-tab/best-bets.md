@@ -2,9 +2,9 @@
 description: Bästa val - Marketo Docs - produktdokumentation
 title: Bästa val
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 7a6108b3c68c5845fcf0169b111e058596e3d4a6
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -46,3 +46,7 @@ Du kan välja en eller flera leads eller kontakter från sidan Bästa val med hj
 * Lägg till i bevakningslista
 
 ![](assets/best-bets-1.png)
+
+>[!NOTE]
+>
+>En kontakt/lead måste finnas i standardpartitionen för att kunna läggas till i bevakningslistan.

@@ -1,21 +1,20 @@
 ---
 unique-page-id: 37356893
-description: MSI Feature Overview - Marketo Docs - Produktdokumentation
+description: MSI Feature Overview - Marketo Docs - produktdokumentation
 title: Översikt över MSI-funktioner
-translation-type: tm+mt
-source-git-commit: ad69776dc366f3b1feba550158bea834bb755beb
+exl-id: e6cd988c-afba-44e3-b240-68258236f344
+source-git-commit: 7a6108b3c68c5845fcf0169b111e058596e3d4a6
 workflow-type: tm+mt
-source-wordcount: '908'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
-# MSI-funktionsöversikt {#msi-feature-overview}
+# Översikt över MSI-funktioner {#msi-feature-overview}
 
 MSI har följande funktioner i Salesforce Lightning och Classic.
 
-## Visualforce-panelen {#visualforce-panel}
+## Visualforce-panel {#visualforce-panel}
 
 MSI Visualforce-panelen innehåller följande funktioner:
 
@@ -30,7 +29,7 @@ MSI Visualforce-panelen innehåller följande funktioner:
 * Åtgärder
 
    * Lägg till i Marketo Campaign
-   * Skicka Marketo-e-post
+   * Skicka e-post till Marketo
    * Lägg till/ta bort från bevakad lista
 
 * Stjärnor och flamman
@@ -51,8 +50,8 @@ Fält:
 * Senaste intressanta tillfälle
 * Källa för senaste intressanta stund
 * Typ av senaste intressanta stund
-* Senaste marknadsföringsaktivitet efter försäljning
-* Senaste marknadsföringsåtagande av försäljning
+* Senaste Marketo-aktivitet per försäljning
+* Senaste Marketo-engagemang från försäljning
 * Relativa poäng
 * Relativt poängvärde
 * Akut
@@ -67,7 +66,7 @@ Visualforce-sidor:
 * Kontakt - innehåller alternativ för att klicka på&quot;Gå till fullständig lista&quot;, du kommer att få en ny flik i Salesforce där MSI-panelen visas i en helsideslayout
 * Fullständig kontaktlista - innehåller inte alternativet Gå till fullständig lista
 * Kontakt Mobile - synlig i Salesforce-mobilprogram
-* Lägg till i Marketo Campaign ContactPage - funktionen Lägg till i Marketo Campaign är tillgänglig i den här panelen
+* Lägg till på kontaktsidan för Marketo Campaign - Funktionen Lägg till i Marketo Campaign är tillgänglig på den här panelen
 
 Fält:
 
@@ -76,7 +75,7 @@ Fält:
 * Senaste intressanta tillfälle
 * Källa för senaste intressanta stund
 * Typ av senaste intressanta stund
-* Senaste marknadsföringsaktivitet efter försäljning
+* Senaste Marketo-aktivitet per försäljning
 * Relativa poäng
 * Relativt poängvärde
 * Akut
@@ -100,14 +99,14 @@ Fält:
 Funktionsmakron:
 
 * Lägg till i Marketo Campaign
-* Skicka Marketo-e-post
+* Skicka e-post till Marketo
 * Lägg till/ta bort från bevakad lista
 
-Följande funktioner är **inte tillgängliga** på sidan Kontolayout:
+Följande funktioner är **inte tillgängligt** på sidan Kontolayout:
 
 * Stjärnor och flamman
 
-## Affärsmöjlighetslayout {#opportunity-layout}
+## Affärsmöjlighet {#opportunity-layout}
 
 Visualforce-sidor:
 
@@ -118,29 +117,29 @@ Visualforce-sidor:
 Fält:
 
 * Sales Insight - Öppnar hela kontaktlistsidan
-* Marketo Opportunity Analysis - Öppnar analys av affärsmöjlighet i Marketo
+* Marketo säljprojektsanalys - Öppnar analys av säljprojektspåverkan i Marketo
 
 Funktionsmakron:
 
 * Lägg till i Marketo Campaign
-* Skicka Marketo-e-post
+* Skicka e-post till Marketo
 * Lägg till/ta bort från bevakad lista
 
-Följande funktioner är **inte tillgängliga** på sidan för säljprojektslayout:
+Följande funktioner är **inte tillgängligt** på sidan för säljprojektslayout:
 
 * Stjärnor och flamman
 
-## Vyn Lead- och kontaktlista (gruppåtgärder) {#lead-and-contact-list-view-bulk-actions}
+## Lead- och kontaktlistevy (massåtgärder) {#lead-and-contact-list-view-bulk-actions}
 
-Salesforce Lightning: Lägg till åtgärdsknapparna Lägg till i Marketo Campaign och Skicka till e-postmarknadsföring i grupplistan i Lead- och Kontaktlistvyn.
+Salesforce Lightning: Lägg till i bevakningslistan, Lägg till i Marketo Campaign och Skicka Marketo e-post som gruppåtgärdsknappar i listvyn Lead och Kontakt.
 
-Salesforce Classic: Lägg till åtgärdsknapparna Lägg till i Marketo Campaign och Skicka till e-post i Bulklistan i Lead- och Kontaktlistvyn.
+Salesforce Classic: Lägg till i bevakningslistan, Lägg till i Marketo Campaign och Skicka Marketo e-post som gruppåtgärdsknappar i listvyn Lead och Kontakt.
 
 ## Marketo Tab {#marketo-tab}
 
 * Bästa val
 
-   * Innehåller möjlighet att skapa och redigera vyer. Möjlighet att dölja bästa val beroende på konfigurationen av alternativet &quot;Default Hide&quot; på sidan Marketo Configuration
+   * Innehåller möjlighet att skapa och redigera vyer. Möjlighet att dölja bästa val beroende på konfigurationen av alternativet &quot;Dölj som standard&quot; på Marketo konfigurationssida
    * Kolumner - Namn, Konto, Senaste intressanta stund, Statusrubrik, Engagement (Stars &amp; Flames), Dölj
 
 * Min bevakningslista
@@ -156,7 +155,7 @@ Salesforce Classic: Lägg till åtgärdsknapparna Lägg till i Marketo Campaign 
 * Anonym webbaktivitet
 
    * Innehåller funktioner för att skapa och redigera vyer, tidsramfilter
-   * Kolumner - sidvy, företag, senaste besök, forskning (öppnar företagets LinkedIn-sida)
+   * Kolumner - Sidvy, Företag, Senaste besök, Forskning (öppnar LinkedIn-sidan för företaget)
 
 * Min e-postadress
 
@@ -172,24 +171,28 @@ Salesforce Classic: Lägg till åtgärdsknapparna Lägg till i Marketo Campaign 
    * Prenumerationsalternativ för att få e-postmeddelanden för den här typen av händelse
    * Ikonen med hög prioritet för att visa den här personen är ett Bästa val
 
-## Marketo Sales Insight Configuration Tab {#marketo-sales-insight-configuration-tab}
+## Marketo Sales Insight Configuration tab {#marketo-sales-insight-configuration-tab}
 
 * Driftsinställningar: Inkluderar de Soap &amp; Rest API-autentiseringsuppgifter som krävs för att konfigurera MSI i SFDC
-* MSI-konfiguration: Inkluderar konfiguration av Marketo-fliken och MSI visualforce-panelen
+* MSI-konfiguration: Innehåller konfiguration av fliken Marketo och MSI visualforce-panelen
 * Återställ Marketo Sales Insight: Innehåller möjlighet att rensa bort alla konfigurationer
 
 >[!MORELIKETHIS]
 >
 >[Marketo Sales Insight Configuration tab in Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
 
-## Prestandarapporter för Sales Insight {#sales-insight-performance-reports}
+## Resultatrapporter för Sales Insight {#sales-insight-performance-reports}
 
 Visa prestanda för e-postmeddelanden som skickas via Salesforce, Microsoft Dynamics eller ett Gmail- eller Outlook-plugin-program
 
-## MSI för mobilen {#msi-for-mobile}
+## MSI för mobiler {#msi-for-mobile}
 
 MSI-funktioner stöds i Salesforce-mobilprogram
 
 ## Språkstöd {#language-support}
 
 Marketo Sales Insight lagras på språk. Om du vill att det ska fungera för mer än ett språk måste du ange inloggningsuppgifterna separat för varje språk.
+
+>[!NOTE]
+>
+>En kontakt/lead måste finnas i standardpartitionen för att kunna läggas till i bevakningslistan.
