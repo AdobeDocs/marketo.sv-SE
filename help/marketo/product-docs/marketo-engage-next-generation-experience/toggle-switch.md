@@ -1,11 +1,9 @@
 ---
 description: Växla - Marketo Docs - produktdokumentation
 title: Växla av/på
-hide: true
-hidefromtoc: true
-source-git-commit: ff492d23f2660a66adfa392cf4fdfd8cb19d126a
+source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -20,35 +18,33 @@ Med växeln Växla kan du växla mellan Marketo klassiska gränssnitt och nästa
 
 ## Visa lista över landningssidor {#landing-page-list-view}
 
-I Marketo väljer du **Design Studio**.
+I listvyn för nästa generations landningssida finns sökfilter och möjlighet att utföra åtgärder för en landningssida.
 
-![](assets/toggle-switch-1.png)
+1. I Marketo väljer du **Design Studio**.
 
-Välj **Landningssidor**.
+   ![](assets/toggle-switch-1.png)
 
-![](assets/toggle-switch-2.png)
+1. Välj **Landningssidor**.
 
-Klicka på knappen längst ned till höger på sidan **Ny upplevelse** växla.
+   ![](assets/toggle-switch-2.png)
 
-![](assets/toggle-switch-3.png)
+1. Klicka på knappen längst ned till höger på sidan **Ny upplevelse** växla.
+
+   ![](assets/toggle-switch-3.png)
 
 Den nya upplevelsen läses in.
 
 ![](assets/toggle-switch-4.png)
 
->[!NOTE]
->
->I den nya listvyn Landing Page finns sökfilter och möjlighet att utföra åtgärder för en landningssida.
-
 ## Formulärinformationssida {#form-details-page}
 
-I Marketo söker du efter och markerar ditt formulär.
+1. I Marketo söker du efter och markerar ditt formulär.
 
-![](assets/toggle-switch-5.png)
+   ![](assets/toggle-switch-5.png)
 
-Klicka på knappen längst ned till höger på sidan **Ny upplevelse** växla.
+1. Klicka på knappen längst ned till höger på sidan **Ny upplevelse** växla.
 
-![](assets/toggle-switch-6.png)
+   ![](assets/toggle-switch-6.png)
 
 Den nya upplevelsen läses in.
 
@@ -58,10 +54,10 @@ Den nya upplevelsen läses in.
 
 Du kan välja att aktivera Marketo nästa generations gränssnitt för alla tillgängliga funktioner, aktuella och kommande.
 
-I ett område som för närvarande har växeln Växla (i det här exemplet är vi i [Formulärinformationssida](#form-details-page)) klickar du på kugghjulsikonen längst ned till höger på sidan.
+1. I ett område som för närvarande har växeln Växla (i det här exemplet är vi i [Formulärinformationssida](#form-details-page)) klickar du på kugghjulsikonen längst ned till höger på sidan.
 
-![](assets/toggle-switch-8.png)
+   ![](assets/toggle-switch-8.png)
 
-Välj **Aktivera för alla tillgängliga funktioner** och klicka **OK**.
+1. Välj **Aktivera för alla tillgängliga funktioner** och klicka **OK**.
 
-![](assets/toggle-switch-9.png)
+   ![](assets/toggle-switch-9.png)
