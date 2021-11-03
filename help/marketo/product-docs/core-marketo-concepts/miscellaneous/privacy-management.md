@@ -1,9 +1,9 @@
 ---
 description: Integritetshantering - Marketo Docs - produktdokumentation
 title: Integritetshantering
-source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
+source-git-commit: 9285b1545c1cf27fb1c8579981bdf93d0cc4ff09
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -35,4 +35,4 @@ För att underlätta beredskapen för din integritet kan du med Marketo Engage h
 * The **Rätt till åtkomst** Den registrerade har rätt att från den registrerade erhålla en bekräftelse om huruvida personuppgifter som rör dem behandlas, var och i vilket syfte. Den personuppgiftsansvarige ska tillhandahålla en kostnadsfri kopia av personuppgifterna i elektroniskt format.
 * Kallas även datautsuddgummi, **Rätt att glömma** (framställan om radering) ger den registrerade rätt att låta den registrerade radera sina personuppgifter, upphöra med vidare spridning av uppgifterna och eventuellt låta tredje part stoppa behandlingen av uppgifterna.
 
-Om du vill veta mer om hur du kan skapa en begäran om åtkomst och borttagning och hur vi bearbetar den kan du läsa [implementeringssteg](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).
+Om du vill veta hur du kan skapa begäran om åtkomst/borttagning och hur vi bearbetar den kan du läsa [den här artikeln](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).
