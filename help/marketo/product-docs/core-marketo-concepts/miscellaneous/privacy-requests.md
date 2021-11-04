@@ -1,7 +1,7 @@
 ---
 description: Sekretessförfrågningar - Marketo Docs - produktdokumentation
 title: Sekretessförfrågningar
-source-git-commit: 9285b1545c1cf27fb1c8579981bdf93d0cc4ff09
+source-git-commit: 9d7fd72f4db90ad41cf24011960b2a5a3af7e456
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -12,6 +12,10 @@ ht-degree: 0%
 
 I det här dokumentet finns en översikt över hur du hanterar enskilda dataskyddsförfrågningar som du kan skicka till Marketo Engage via Privacy Servicens användargränssnitt och **Privacy Services-API**.
 
+>[!NOTE]
+>
+>Sekretessförfrågningar som skickas via Privacy Servicens gränssnitt eller API för Marketo Engage gäller endast dem som har Marketo Engage + RT-CDP, B2B och B2P-utgåvor.
+
 Du kan skicka enskilda förfrågningar om åtkomst till och radering av konsumentdata från Marketo Engage på två sätt:
 
 * Via [Privacy Servicens användargränssnitt](https://privacyui.cloud.adobe.io/). Läs dokumentationen [här](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html#!api-specification/markdown/narrative/tutorials/privacy_service_tutorial/privacy_service_ui_tutorial.md).
@@ -19,13 +23,11 @@ Du kan skicka enskilda förfrågningar om åtkomst till och radering av konsumen
 
 The [Privacy Service](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html) har stöd för två typer av begäranden: dataåtkomst och borttagning av data.
 
-Obs! Begäran om sekretess som skickas via Privacy Servicens gränssnitt eller API för Marketo Engage gäller endast för kunder som har Marketo Engage + RT-CDP, B2B och B2P-utgåvor.
-
 Låt oss se hur du kan skapa förfrågningar om åtkomst och borttagning.
 
 ## Nödvändig konfiguration för att skicka begäranden för Marketo Engage {#required-setup-to-send-requests-for-marketo-engage}
 
-För att begära åtkomst till och radering av data för Marketo Engage måste du:
+Om du vill göra en begäran om åtkomst- och borttagningsdata för Marketo Engage måste du:
 
 1. Identifiera följande:
 
@@ -45,7 +47,6 @@ b. E-postadress till den person du vill agera på
 
 &quot;användare&quot;:
 
-* &quot;key&quot;: `<Your Request Tracking Key>`   (valfritt)
 * &quot;action&quot;: antingen **åtkomst** eller **delete**
 * &quot;användar-ID&quot;:
    * &quot;namespace&quot;: **e-post**
@@ -58,7 +59,7 @@ b. E-postadress till den person du vill agera på
 
 reglering:
 
-* **gdpr**, **ccpa**, **pdpa**, **lgpd**, eller **nzpa**  (som är den sekretessregel som gäller för begäran)
+* **gdpr**, **ccpa**, **pdpa**, **lgpd_bra**, eller **nzpa_nzl**  (som är den sekretessregel som gäller för begäran)
 
 ## Exempel ett: Borttagningsbegäran för GDPR {#gdpr-delete-request}
 
@@ -74,7 +75,6 @@ JSON-begäran
   ],
   "users": [
     {
-      "key": "AAGDPRO1", 
       "action": [
         "delete"
       ],
@@ -105,7 +105,6 @@ JSON-svar
       "jobId": "997b01e3-9568-402c-904b-b4e60a437875",
       "customer": {
         "user": {
-          "key": "AAGDPRO1",
           "action": [
             "delete"
           ],
@@ -139,7 +138,6 @@ JSON-begäran
   ],
   "users": [
     {
-      "key": "AAGDPRO1",
       "action": [
         "access"
       ],
@@ -170,7 +168,6 @@ JSON-svar
       "jobId": " 3115e42d-011b-47ab-a2b0-ed4356af4d3e",
       "customer": {
         "user": {
-          "key": "AAGDPRO1",
           "action": [
             "access"
           ],
