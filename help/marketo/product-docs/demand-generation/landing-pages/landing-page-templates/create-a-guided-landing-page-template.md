@@ -1,21 +1,16 @@
 ---
 unique-page-id: 7515401
-description: Skapa en guidad landningssidmall - Marketo Docs - Produktdokumentation
+description: Skapa en guidad landningssidmall - Marketo Docs - produktdokumentation
 title: Skapa en mall för guidad landningssida
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: 7d097162-d862-4d09-9440-aba1628450c2
+source-git-commit: c309b69198c6f61d7475c6d3a6b1672e045b9b4a
 workflow-type: tm+mt
-source-wordcount: '1269'
+source-wordcount: '1254'
 ht-degree: 0%
 
 ---
 
-
 # Skapa en mall för guidad landningssida {#create-a-guided-landing-page-template}
-
->[!NOTE]
->
->Trött på att läsa? [Titta på den här coola ](https://youtu.be/3O7e4GdZKsM) videon med steg-för-steg-instruktioner.
 
 Mallar för guidade landningssidor har en speciell syntax. Använd den här syntaxen för att ange vad som kan anpassas och var innehållet ska hamna på varje landningssida som skapats utifrån din mall. Endast de regioner eller variabler som du anger som redigerbara kommer att vara tillgängliga för anpassning i den guidade redigeraren för landningssidor.
 
@@ -25,19 +20,19 @@ Mallar för guidade landningssidor har en speciell syntax. Använd den här synt
 
 Det finns två sätt att deklarera att något på sidan ska kunna redigeras:
 
-* Deklarera ett objekt som ett &quot;element&quot;. Den som skapar landningssidan kan lägga till bilder, text eller Marketo-resurser i de angivna områdena.
+* Deklarera ett objekt som ett &quot;element&quot;. Den som skapar landningssidan kan lägga till bilder, text eller Marketo-resurser i dessa angivna områden.
 * Deklarera en sträng som en&quot;variabel&quot;. Den som skapar landningssidan kan ersätta variabeln med en sträng, färg eller booleskt läge från en true/false-spak.
 
 ## Redigerbara element {#editable-elements}
 
-Elementen deklareras genom att ett vanligt DOM-element läggs till i mallen och elementet dekoreras med ett Marketinspecifikt klassnamn.
+Elementen deklareras genom att ett vanligt DOM-element läggs till i mallen och elementet dekoreras med ett Marketo-specifikt klassnamn.
 
 ## Text {#text}
 
-Om du definierar ett område som RTF kan användarna redigera innehållet [med Marketos RTF-redigerare](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+Om du definierar ett område som RTF kan användarna redigera innehållet i det [med Marketo RTF-redigerare](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
 Attribut som krävs:\
-**klass**: &quot;mktoText&quot;\
+**class**: &quot;mktoText&quot;\
 **id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.\
 **mktoName** : Sträng. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
 
@@ -48,11 +43,11 @@ Exempel:
 
 `<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div></pre>`
 
-### Bild {#image}
+## Bild {#image}
 
-Det finns två alternativ för att definiera redigerbara bildelement. Du kan antingen använda en `<div>`, som anger en behållare som bilden ska infogas i, eller en `<img>`-tagg.
+Det finns två alternativ för att definiera redigerbara bildelement. Du kan använda antingen en `<div>`, som anger en behållare som bilden infogas i, eller en `<img>` -tagg.
 
-## Alternativ 1 - Använd en `<div>` {#option-use-a-div}
+## Alternativ 1 - Använd `<div>` {#option-use-a-div}
 
 Attribut som krävs:
 
@@ -61,13 +56,13 @@ id: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot
 mktoName : Sträng. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
 
 Valfritt:\
-mktoImgClass: Sträng. Värdet här läggs till i klassattributet för `<img>`-elementet inuti div-elementet.
+mktoImgClass: Sträng. Värdet här läggs till i klassattributet för `<img>` -element inuti div.
 
 Exempel:
 
 `<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image"></div></pre>`
 
-## Alternativ 2 - Använd en `<img>` {#option-use-a-img}
+## Alternativ 2 - Använd `<img>` {#option-use-a-img}
 
 Attribut som krävs:\
 klass: &quot;mktoImg&quot;\
@@ -83,12 +78,12 @@ Exempel:
 
 >[!NOTE]
 >
->När du använder versionen `<img>` innehåller den återgivna HTML-koden en genererad div-wrapper runt taggen `<img>`. Den ställs in på klassen .&quot;mktoImg.mktoGen&quot;, och kommer att visas:inline-block.
+>När du använder `<img>` den återgivna HTML innehåller en genererad div-wrapper runt `<img>` -tagg. Den ställs in på klassen .&quot;mktoImg.mktoGen&quot;, och kommer att visas:inline-block.
 
 ## Formulär {#form}
 
 Exempel:Attribut som krävs:\
-**klass**: &quot;mktoForm&quot;\
+**class**: &quot;mktoForm&quot;\
 **id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.\
 **mktoName** : Sträng. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
 
@@ -97,7 +92,7 @@ Exempel:Attribut som krävs:\
 ## Fragment {#snippet}
 
 Attribut som krävs:\
-**klass**: &quot;mktoSnippet&quot;\
+**class**: &quot;mktoSnippet&quot;\
 **id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.\
 **mktoName** : Sträng. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
 
@@ -105,10 +100,10 @@ Exempel:
 
 `<pre data-theme="Confluence"><div class="mktoSnippet" id="exampleSnippet" mktoName="Example Snippet"></div></pre>`
 
-## Delningsknapp {#share-button}
+## Knappen Dela {#share-button}
 
 Attribut som krävs:\
-**klass**: &quot;mktoShareButton&quot;\
+**class**: &quot;mktoShareButton&quot;\
 **id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.\
 **mktoName** : Sträng. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
 
@@ -123,7 +118,7 @@ Exempel:
 >När du använder videoelementet på en landningssida stöder Marketo endast videor från YouTube. Om du använder en annan tjänst rekommenderar vi att du använder en RTF-ruta och klistrar in videons inbäddningskod.
 
 Attribut som krävs:
-**klass**: &quot;mktoVideo&quot;
+**class**: &quot;mktoVideo&quot;
 **id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.
 **mktoName** : Sträng. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
 
@@ -131,10 +126,10 @@ Exempel:
 
 `<pre data-theme="Confluence"><div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div></pre>`
 
-## Avsökning {#poll}
+## Röstning {#poll}
 
 Attribut som krävs:\
-**klass**: &quot;mktoPoll&quot;\
+**class**: &quot;mktoPoll&quot;\
 **id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.\
 **mktoName** : Sträng. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
 
@@ -142,10 +137,10 @@ Exempel:
 
 `<pre data-theme="Confluence"><div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div></pre>`
 
-## Referens {#referral}
+## Hänvisning {#referral}
 
 Attribut som krävs:\
-**klass**: &quot;mktoReferral&quot;\
+**class**: &quot;mktoReferral&quot;\
 **id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.\
 **mktoName** : Sträng. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
 
@@ -153,10 +148,10 @@ Exempel:
 
 `<pre data-theme="Confluence"><div class="mktoReferral" id="exampleReferral" mktoName="Example Referral"></div></pre>`
 
-## Lotteriet {#sweepstakes}
+## Dragningar {#sweepstakes}
 
 Attribut som krävs:\
-**klass**: &quot;mktoSweepstakes&quot;\
+**class**: &quot;mktoSweepstakes&quot;\
 **id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.\
 **mktoName** : Sträng. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
 
@@ -174,18 +169,18 @@ Exempel:
 
 **Deklaration:**
 
-Variabler deklareras som metataggar inuti elementet `<head>` i mallen. Det finns tre typer av variabler som kan användas: Sträng, Färg och Boolean.
+Variabler deklareras som metataggar inuti `<head>` -element i mallen. Det finns tre typer av variabler som kan användas: Sträng, Färg och Boolean.
 
 ## Sträng {#string}
 
 Attribut som krävs:\
-**klass** : &quot;mktoString&quot;,\
+**class** : &quot;mktoString&quot;,\
 **id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.\
 **mktoName** : Sträng. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
 
 Valfritt:\
 **standard**: Strängvärde för attributet. Tomt om inget anges.\
-**allowHTML**: &quot;true&quot; eller &quot;false&quot;. Kontrollerar om värdet skrivs ut utan att HTML-koden behöver föregås av ett undantag. Standardvärdet är &quot;false&quot; om det tas bort.
+**allowHtml**: &quot;true&quot; eller &quot;false&quot;. Styr om värdet skrivs ut utan att HTML escape-konverteras. Standardvärdet är &quot;false&quot; om det tas bort.
 
 Grundläggande exempel:
 
@@ -198,7 +193,7 @@ Exempel med alla attribut:
 ## Färg {#color}
 
 Attribut som krävs:\
-**klass** : &quot;mktoColor&quot;,\
+**class** : &quot;mktoColor&quot;,\
 **id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.\
 **mktoName** : Sträng. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
 
@@ -216,7 +211,7 @@ Exempel med alla attribut:
 ## Boolean {#boolean}
 
 Attribut som krävs:\
-**klass** : &quot;mktoBoolean&quot;,\
+**class** : &quot;mktoBoolean&quot;,\
 **id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.\
 **mktoName** : Sträng. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
 
