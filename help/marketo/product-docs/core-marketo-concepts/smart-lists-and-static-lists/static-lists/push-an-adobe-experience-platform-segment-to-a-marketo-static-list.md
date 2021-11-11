@@ -1,11 +1,10 @@
 ---
 description: Överför ett Adobe Experience Platform-segment till en Marketo Static List - Marketo Docs - Product Documentation
 title: Överför ett Adobe Experience Platform-segment till en Marketo Static List
-hidefromtoc: true
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 8789ed464f532bbe76c2cb456374d9c0f505ece0
+source-git-commit: 5d26aff392d5749941ad93e351c454249662cd72
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
@@ -42,7 +41,6 @@ Med den här funktionen kan du överföra segment som finns i din Adobe Experien
 
 1. Klicka **Konfigurera nytt mål**.
 
-   PICC
 
 1. Klicka på **Nytt konto** alternativknapp. Ange dina Marketo-uppgifter och klicka på **Anslut till mål**.
 
