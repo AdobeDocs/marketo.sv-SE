@@ -1,15 +1,14 @@
 ---
 unique-page-id: 14745793
-description: Sales Connect-anpassningar för CRM - Marketo Docs - Produktdokumentation
+description: Sales Connect-anpassningar för CRM - Marketo Docs - produktdokumentation
 title: Anpassningar av Sales Connect för CRM
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
+source-git-commit: 2712a21b7457ef51a9112074465c54e8f7954fa9
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: '726'
 ht-degree: 0%
 
 ---
-
 
 # Anpassningar av Sales Connect för CRM {#sales-connect-customizations-for-crm}
 
@@ -25,15 +24,15 @@ Fälten och knapparna nedan skapas av Metadata API i Salesforce CRM. När fälte
 
    ![](assets/one.png)
 
-1. Välj **Salesforce** under Administratörsinställningar.
+1. Under Administratörsinställningar väljer du **Salesforce**.
 
    ![](assets/two.png)
 
-1. Klicka på **Marketo Sales Connect Customizations**.
+1. Klicka **Marketo Sales Connect-anpassningar**.
 
    ![](assets/three.png)
 
-1. Klicka på **Anslut till Salesforce**.
+1. Klicka **Anslut till Salesforce**.
 
    ![](assets/four.png)
 
@@ -41,9 +40,41 @@ Fälten och knapparna nedan skapas av Metadata API i Salesforce CRM. När fälte
 
    ![](assets/five.png)
 
+## Uppdatera Salesforce-anpassning {#update-salesforce-customization}
+
+Uppdateringar av Salesforce-anpassningspaketet kommer att innehålla förbättringar och felkorrigeringar. Följ stegen nedan för att kontrollera om det finns uppdateringar eller för att utföra en uppdatering.
+
+>[!NOTE]
+>
+>**Administratörsbehörighet krävs.**
+
+1. I [webbprogram](https://www.toutapp.com), klicka på kugghjulsikonen och välj **Inställningar**.
+
+   ![](assets/sales-connect-customizations-for-crm-6.png)
+
+1. Under Administratörsinställningar klickar du på **Salesforce**.
+
+   ![](assets/sales-connect-customizations-for-crm-7.png)
+
+1. Kortet Sales Connect Customization visar om det finns uppdateringar. Klicka **Uppdatera anpassningar**.
+
+   ![](assets/sales-connect-customizations-for-crm-8.png)
+
+1. Klicka **Uppgradera**.
+
+   ![](assets/sales-connect-customizations-for-crm-9.png)
+
+1. Vänta tills uppdateringarna har installerats. Installationstiden varierar beroende på hur många versionsnummer du behöver.
+
+   ![](assets/sales-connect-customizations-for-crm-10.png)
+
+När kortet är klart visas&quot;Säljarens anpassningar av Connect är uppdaterade.&quot;
+
+![](assets/sales-connect-customizations-for-crm-11.png)
+
 ## Anpassade aktivitetsfält {#custom-activity-fields}
 
-Marketo identifierar skapandet av de nya fälten och gör sedan en engångsefterfyllning av data, en ommappning och en pågående synkronisering av värden endast i de **nya** fälten. Gamla fält uppdateras inte.
+Marketo kommer att upptäcka att de nya fälten har skapats och sedan göra en engångsefterfyllning av data, en ommappning och en pågående synkronisering av värden till **new** endast fält. Gamla fält uppdateras inte.
 
 | **Fältnamn** | **Beskrivning** |
 |---|---|
@@ -61,7 +92,7 @@ Marketo identifierar skapandet av de nya fälten och gör sedan en engångsefter
 | MSE-e-post-URL | Om du klickar på den här URL:en öppnas Kommando Center i MSE och fliken Historik för personinformationsvyn öppnas där du kan se det skickade e-postmeddelandet. |
 | MSE-e-post visad | Loggar en bock när mottagaren visar ett e-postmeddelande. |
 
-## Sammanslagning av loggningsfält {#roll-up-logging-fields}
+## Samla in loggningsfält {#roll-up-logging-fields}
 
 <table> 
  <colgroup> 
