@@ -2,9 +2,9 @@
 description: Versionsinformation - maj 2021 - Marketo Docs - produktdokumentation
 title: Versionsinformation - maj 2021
 exl-id: e3de60a2-17bd-4760-848e-6e931ad85b3c
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
 workflow-type: tm+mt
-source-wordcount: '1481'
+source-wordcount: '1446'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Följande funktioner finns i majversionen från 21. Se om det finns funktioner i
 
 **_Kvartalsvisa releaser_**
 
-Följande funktioner kommer att släppas den 7 maj 2021 **.**
+Följande funktioner kommer att släppas den **7 maj 2021**.
 
 ## Kontobaserade upplevelser {#Account-based-eaperiences}
 
@@ -31,7 +31,7 @@ Med en global förhandsgranskning kan marknadsförarna snabbt se var det finns e
 
 ## Experience Automation {#experience-automation}
 
-* **Utför steg** för kampanjflöde: Effektivisera arbetsflödena för att skapa kampanjer och förbättra kampanjresultaten med ett nytt flödessteg för smarta kampanjer. Skapa och spara centraliserade, mallkampanjer för repetitiva uppgifter på arbetsytan, till exempel normalisering av landskoder, som ska anropas och köras från alla smarta kampanjer via det nya flödessteget Kör kampanj. Länkade kampanjer körs i den angivna ordningen och säkerställer att uppgiften är slutförd innan du går vidare till nästa flödessteg. Redigera snabbt flödet i en enda centraliserad kampanj för att uppdatera alla smarta kampanjer som använder den för att effektivisera datahanteringen, poängsättningen för leads och flödena för routning.
+* **Kör steg för kampanjflöde**: Effektivisera arbetsflödena för att skapa kampanjer och förbättra kampanjresultaten med ett nytt flödessteg för smarta kampanjer. Skapa och spara centraliserade, mallkampanjer för repetitiva uppgifter på arbetsytan, till exempel normalisering av landskoder, som ska anropas och köras från alla smarta kampanjer via det nya flödessteget Kör kampanj. Länkade kampanjer körs i den angivna ordningen och säkerställer att uppgiften är slutförd innan du går vidare till nästa flödessteg. Redigera snabbt flödet i en enda centraliserad kampanj för att uppdatera alla smarta kampanjer som använder den för att effektivisera datahanteringen, poängsättningen för leads och flödena för routning.
 
 ## Flerkanalsmarknadsföring {#cross-channel-orchestration}
 
@@ -39,9 +39,9 @@ Med en global förhandsgranskning kan marknadsförarna snabbt se var det finns e
 
 * **Blockera inskickning av skräppostformulär**: Protect databasen Adobe Marketo Engage från skräppostdata som kan orsaka ogiltiga aviseringar, utlösa kampanjeftersläpningar och skapa oönskade aktiviteter. Den nya valideringsfunktionen avvisar ogiltiga formulärinskickningar och stoppar robotattacker. Era data är renare och era marknadsföringskampanjer fungerar som de ska, vilket minimerar risken för att skicka okvalificerade leads till försäljning.
 
-* **Varning** om godkännande av e-postprogram: Förhindra att felaktiga e-postmeddelanden skickas när de nya ändringarna görs i ett tidigare godkänt program.  Varningen fungerar som en garanti när en marknadsförare gör ändringar i ett e-postmeddelande som redan har godkänts, men sedan glömmer att godkänna de senaste ändringarna och skickar e-postmeddelandet till en stor publik utan innehåll, dåligt innehåll eller gammalt innehåll.
+* **Varning om godkännande av e-postprogram**: Förhindra att felaktiga e-postmeddelanden skickas när de nya ändringarna görs i ett tidigare godkänt program.  Varningen fungerar som en garanti när en marknadsförare gör ändringar i ett e-postmeddelande som redan har godkänts, men sedan glömmer att godkänna de senaste ändringarna och skickar e-postmeddelandet till en stor publik utan innehåll, dåligt innehåll eller gammalt innehåll.
 
-* **Filtrera ut e-poststartaktivitet**: Förhindra oönskade säljvarningar och felaktig e-postrapportering med den nya funktionen för filtrering av e-postrobotar. Identifiera och filtrera bort öppningar och klick som kan kopplas till e-postbots inspektera länkar som leder till falska utlösare och försäljningsvarningar, eller felaktig rapportering.
+* **Aktivitet för att filtrera bort e-poststarter**: Förhindra oönskade säljvarningar och felaktig e-postrapportering med den nya funktionen för filtrering av e-postrobotar. Identifiera och filtrera bort öppningar och klick som kan kopplas till e-postbots inspektera länkar som leder till falska utlösare och försäljningsvarningar, eller felaktig rapportering.
 
 ## API-förbättringar {#api-enhancements}
 
@@ -49,19 +49,19 @@ Flera viktiga uppdateringar av API:er för Bulk och Lead, bland annat möjlighet
 
 * **Kapsla händelseprogram**: I Adobe Marketo Engage kan du skapa, klona eller flytta händelseprogram under andra programtyper. Den här funktionen är nu tillåten i resurs-API:t.
 
-* **Förbättrat Delete Program API**: Tillåter att integrerade program tar bort program som innehåller ytterligare typer av resurser, utan att användare behöver göra det manuellt från Adobe Marketo Engage.
+* **Förbättrat API för att ta bort program**: Tillåter att integrerade program tar bort program som innehåller ytterligare typer av resurser, utan att användare behöver göra det manuellt från Adobe Marketo Engage.
 
 * **Programmedlemskap**: Marknadsförarna kan fråga alla programmedlemsposter om ett visst program med olika villkor, t.ex. programmedlemmens status. Dela informationen med ett externt program, verktyg för affärsinformation eller Adobe Experience Cloud för att förbättra segmenteringen och skapa mer målinriktat engagemang.
 
-* **Extrahera** anpassat objekt gruppvis: Export av massdata kompletterar de importfunktioner som dataanalytiker redan använder i Adobe Marketo Engage. Nu kan de extrahera data som lagras på det anpassade objektet Adobe på första nivån, och läsa in dessa data i ett annat program, data warehouse eller BI (Business Intelligence) för att få bättre insikt i data i instansen Adobe Marketo Engage.  Anpassad massdataförflyttning av objekt är dubbelriktad och kan schemaläggas vid en lämplig tidpunkt.
+* **Extrahera anpassat objekt gruppvis**: Export av massdata kompletterar de importfunktioner som dataanalytiker redan använder i Adobe Marketo Engage. Nu kan de extrahera data som lagras på det anpassade objektet Adobe på första nivån, och läsa in dessa data i ett annat program, data warehouse eller BI (Business Intelligence) för att få bättre insikt i data i instansen Adobe Marketo Engage.  Anpassad massdataförflyttning av objekt är dubbelriktad och kan schemaläggas vid en lämplig tidpunkt.
 
-* **API** för metadata för anpassade fält: Spara tid genom att automatisera skapandet av anpassade fält och samtidigt skapa integreringar mellan Adobe Marketo Engage och ett program från tredje part. Den här automatiseringen är särskilt användbar för kunder med flera instanser av Adobe Marketo Engage som nu kan effektivisera arbetet med anpassade fält som tidigare krävde manuellt arbete. Effektivisera skapandet av anpassade fält och spara tid på den här resurskrävande aktiviteten.
+* **API för metadata för anpassade fält**: Spara tid genom att automatisera skapandet av anpassade fält och samtidigt skapa integreringar mellan Adobe Marketo Engage och ett program från tredje part. Den här automatiseringen är särskilt användbar för kunder med flera instanser av Adobe Marketo Engage som nu kan effektivisera arbetet med anpassade fält som tidigare krävde manuellt arbete. Effektivisera skapandet av anpassade fält och spara tid på den här resurskrävande aktiviteten.
 
-* **API** för extrahering av gruppaktivitet: Få kontroll över mängden och typen av data när du utför massextraheringar. Filtrera bort onödiga datapunkter och kontrollera antalet API-anrop som krävs för att extrahera aktivitetsdata i grupp.  Du kan till exempel välja öppna e-postmeddelanden, besöka en webbsida eller ändra ledspår och låta andra värdeförändringar som du inte vill analysera ligga bakom. Effektivisera processen för att minska antalet API-anrop och datarensning.
+* **API för extrahering av gruppaktivitet**: Få kontroll över mängden och typen av data när du utför massextraheringar. Filtrera bort onödiga datapunkter och kontrollera antalet API-anrop som krävs för att extrahera aktivitetsdata i grupp.  Du kan till exempel välja öppna e-postmeddelanden, besöka en webbsida eller ändra ledspår och låta andra värdeförändringar som du inte vill analysera ligga bakom. Effektivisera processen för att minska antalet API-anrop och datarensning.
 
 * **Lead-API**: Identifiera leads i Adobe Marketo Engage som är associerade med Adobe ECID (Experience Cloud ID).  Adobe Marketo Engage-kunder kan skapa en lista med leads från en viss kampanj och använda ECID:n (Experience Cloud ID) för att skapa rapporter i Adobe Analytics för den specifika listan. Integrationen mellan Adobe Marketo Engage och Adobe Experience Cloud ger obegränsade möjligheter till segmentering, målinriktning och rapportering.
 
-* **API** för massradsimport: Styr import av bulkleads och resurser som krävs. Den här förbättringen skapar associationer mellan lead och företag under bulklead-importprocessen. Öka effektiviteten och arbeta med data och minska användningen om API anropar.
+* **API för massutaimport**: Styr import av bulkleads och resurser som krävs. Den här förbättringen skapar associationer mellan lead och företag under bulklead-importprocessen. Öka effektiviteten och arbeta med data och minska användningen om API anropar.
 
 * **Webb-API-baserad integrering för Microsoft Dynamics Online-kunder**: MS Dynamics Web API introducerades med version 8.0 REST-protokoll och implementerar OData (Open Data Protocol) v4. OData är en OASIS-standard (Organization for the Advanced of Structured Information Standards) för att bygga upp och använda RESTful-tjänster framför omfattande data. Kunder i Adobe Marketo Engage som behöver integreras med Microsoft Dynamics med den här metoden migreras för närvarande till en webb-API-baserad anslutning från SOAP (Simple Object Access Protocol).
 
@@ -69,7 +69,7 @@ Flera viktiga uppdateringar av API:er för Bulk och Lead, bland annat möjlighet
 
 * **XLSX-export**: Vi uppgraderade exportfunktionerna i hela produkten för att stödja XLSX istället för XLS. Det innebär att var som helst i produkten där det finns stöd för XLS-export ersätts det här alternativet med ett alternativ för att exportera till XLSX i stället. Den här ändringen påverkar filnamnen för all Excel-export av rapporter och andra data från Adobe Marketo Engage.
 
-* **Sök efter lead-ID**: Få snabbt åtkomst till leadpostsökning med lead-ID för Adobe Marketo Engage i lead-databasen eller den statiska listan. I fönstret Snabbsökning skriver du `[id]` med motsvarande nummer så visas leadinformationen. Användarna kan snabbt granska information om lead, företag och affärsmöjligheter.
+* **Sök efter lead-ID**: Få snabb åtkomst till leadpostsökning med lead-ID för Adobe Marketo Engage i lead-databasen eller den statiska listan. I fönstret Snabbsökning skriver du `[id]` med motsvarande nummer visas leadinformationen. Användarna kan snabbt granska information om lead, företag och affärsmöjligheter.
 
 ## Bizible {#bizible}
 
@@ -85,4 +85,4 @@ Flera viktiga uppdateringar av API:er för Bulk och Lead, bland annat möjlighet
 
 **_Product Release Webinar_**
 
-Vill du veta mer om de här funktionerna och förbättringarna? Var noga med att [registrera dig nu](https://engage.marketo.com/May_21_Release_webinar_RegistrationPage.html) så kan du komma till oss den 13 maj klockan 9:00 PT/12:00 ET för ett live webbinarium med vårt produktteam för att fördjupa dig i dessa innovationer.
+[Webbinariet Marketo Engage från maj 2021](https://engage.marketo.com/May_21_Release_webinar_RegistrationPage.html)

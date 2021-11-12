@@ -3,7 +3,7 @@ unique-page-id: 7515401
 description: Skapa en guidad landningssidmall - Marketo Docs - produktdokumentation
 title: Skapa en mall för guidad landningssida
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
-source-git-commit: c309b69198c6f61d7475c6d3a6b1672e045b9b4a
+source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
 workflow-type: tm+mt
 source-wordcount: '1254'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Innehållet i ett element med klassen mktoText (om sådan finns) används som st
 
 Exempel:
 
-`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div></pre>`
+`<div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div>`
 
 ## Bild {#image}
 
@@ -60,7 +60,7 @@ mktoImgClass: Sträng. Värdet här läggs till i klassattributet för `<img>` -
 
 Exempel:
 
-`<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image"></div></pre>`
+`<div class="mktoImg" id="exampleImg" mktoName="Example Image"></div>`
 
 ## Alternativ 2 - Använd `<img>` {#option-use-a-img}
 
@@ -74,7 +74,7 @@ src: Sträng-URL. Detta används som standardvärde för bilden.
 
 Exempel:
 
-`<pre data-theme="Confluence"><img class="mktoImg" id="exampleImg" mktoName="Example Image"></pre>`
+`<img class="mktoImg" id="exampleImg" mktoName="Example Image">`
 
 >[!NOTE]
 >
@@ -87,7 +87,7 @@ Exempel:Attribut som krävs:\
 **id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.\
 **mktoName** : Sträng. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
 
-`<pre data-theme="Confluence"><div class="mktoForm" id="exampleForm" mktoName="Example Form"></div></pre>`
+`<div class="mktoForm" id="exampleForm" mktoName="Example Form"></div>`
 
 ## Fragment {#snippet}
 
@@ -98,7 +98,7 @@ Attribut som krävs:\
 
 Exempel:
 
-`<pre data-theme="Confluence"><div class="mktoSnippet" id="exampleSnippet" mktoName="Example Snippet"></div></pre>`
+`<div class="mktoSnippet" id="exampleSnippet" mktoName="Example Snippet"></div>`
 
 ## Knappen Dela {#share-button}
 
@@ -109,7 +109,7 @@ Attribut som krävs:\
 
 Exempel:
 
-`<pre data-theme="Confluence"><div class="mktoShareButton" id="exampleShareButton" mktoName="Example Share Button"></div></pre>`
+`<div class="mktoShareButton" id="exampleShareButton" mktoName="Example Share Button"></div>`
 
 ## Video {#video}
 
@@ -124,7 +124,7 @@ Attribut som krävs:
 
 Exempel:
 
-`<pre data-theme="Confluence"><div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div></pre>`
+`<div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div>`
 
 ## Röstning {#poll}
 
@@ -135,7 +135,7 @@ Attribut som krävs:\
 
 Exempel:
 
-`<pre data-theme="Confluence"><div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div></pre>`
+`<div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div>`
 
 ## Hänvisning {#referral}
 
@@ -146,7 +146,7 @@ Attribut som krävs:\
 
 Exempel:
 
-`<pre data-theme="Confluence"><div class="mktoReferral" id="exampleReferral" mktoName="Example Referral"></div></pre>`
+`<div class="mktoReferral" id="exampleReferral" mktoName="Example Referral"></div>`
 
 ## Dragningar {#sweepstakes}
 
@@ -157,7 +157,7 @@ Attribut som krävs:\
 
 Exempel:
 
-`<pre data-theme="Confluence"><div class="mktoSweepstakes" id="exampleSweepstakes" mktoName="Example Sweepstakes"></div></pre>`
+`<div class="mktoSweepstakes" id="exampleSweepstakes" mktoName="Example Sweepstakes"></div>`
 
 ## Redigerbara variabler {#editable-variables}
 
@@ -165,7 +165,7 @@ Alla variabeltyper används genom att referera till värdet för deras id-attrib
 
 Exempel:
 
-`<pre data-theme="Confluence">${var1}</pre>`
+`${var1}`
 
 **Deklaration:**
 
@@ -184,11 +184,11 @@ Valfritt:\
 
 Grundläggande exempel:
 
-`<pre data-theme="Confluence"><meta class="mktoString" id="var1" mktoName="My Variable"></pre>`
+`<meta class="mktoString" id="var1" mktoName="My Variable">`
 
 Exempel med alla attribut:
 
-`<pre data-theme="Confluence"><meta class="mktoString" id="var1" mktoName="My Variable" default="This is my default value" allowHtml="true"></pre>`
+`<meta class="mktoString" id="var1" mktoName="My Variable" default="This is my default value" allowHtml="true">`
 
 ## Färg {#color}
 
@@ -202,11 +202,11 @@ Valfritt:\
 
 Grundläggande exempel:
 
-`<pre data-theme="Confluence"><meta class="mktoColor" id="color1" mktoName="My Color Variable"></pre>`
+`<meta class="mktoColor" id="color1" mktoName="My Color Variable">`
 
 Exempel med alla attribut:
 
-`<pre data-theme="Confluence"><meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699"></pre>`
+`<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
 
 ## Boolean {#boolean}
 
@@ -224,15 +224,15 @@ Valfritt:\
 
 Grundläggande exempel:
 
-`<pre data-theme="Confluence"><meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699"></pre>`
+`<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
 
-`<pre data-theme="Confluence"><meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable"></pre>`
+`<meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable">`
 
 Exempel med alla attribut:
 
 I det här exemplet visas ett vanligt användningsfall där en boolesk variabel styr synligheten för ett CSS-element genom att ange värdet för CSS-visningsegenskapen till antingen &quot;block&quot; eller &quot;none&quot; för att visa/dölja ett element med id:t med CSS. Landningssidans redigerare använder visningsnamnet Visa/Dölj i stället för AV/ON.
 
-`<pre data-theme="Confluence"><meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable" default="true" true_value="block" false_value="none" false_value_name="Hide" true_value_name="Show"> <style> #myConditionalDisplayArea { display: ${boolean1}; } </style></pre>`
+`<meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable" default="true" true_value="block" false_value="none" false_value_name="Hide" true_value_name="Show"> <style> #myConditionalDisplayArea { display: ${boolean1}; } </style>`
 
 >[!NOTE]
 >

@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
+source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
 workflow-type: tm+mt
-source-wordcount: '7981'
+source-wordcount: '8041'
 ht-degree: 0%
 
 ---
@@ -1269,6 +1269,25 @@ ht-degree: 0%
             + [Mina dynamiska fält fylls inte ut](product-docs/marketo-sales-connect/templates/dynamic-fields/my-dynamic-fields-arent-filling-out.md)
             + [Referera dig själv i ett dynamiskt fält](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo Sales Insight {#marketo-sales-insight}
+      + Åtgärder {#actions}
+         + Administratör {#admin}
+            + [Blockerade domäner](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
+            + [Låsning av innehåll](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
+            + [Skapa ett team](product-docs/marketo-sales-insight/actions/admin/create-a-team.md)
+            + [Konfigurera anpassad domänspårning](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
+            + [Bjud in användare och administratörer](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
+            + [Delningsinställningar](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
+         + E-post {#email}
+            + Kommandocentral {#command-center}
+               + [Översikt över avancerad sökning](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
+               + [Tilldela uppgifter till teammedlemmar](product-docs/marketo-sales-insight/actions/email/command-center/assigning-tasks-to-team-members.md)
+               + [Översikt över kommandocentralen](product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)
+               + [E-postkolumner och sidlayout för e-post](product-docs/marketo-sales-insight/actions/email/command-center/email-columns-and-email-page-layout.md)
+               + [Snabbåtgärder i kommandocentralen](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
+         + E-postinställningar {#email-settings}
+            + [Verifiera din e-postadress](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
+         + Skicka ett e-postmeddelande {#send-a-sales-email}
+            + [Översikt över e-postspårning](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
       + Använda MSI {#using-msi}
          + [Logga inkommande e-post från dina leads i Marketo](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
       + MSI Chrome-plugin {#msi-chrome-plugin}
