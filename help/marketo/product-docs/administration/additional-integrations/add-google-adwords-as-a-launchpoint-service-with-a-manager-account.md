@@ -3,21 +3,24 @@ unique-page-id: 7504893
 description: Lägg till Google AdWords som en startpunktstjänst med ett hanterarkonto - Marketo Docs - produktdokumentation
 title: Lägg till Google AdWords som en startpunktstjänst med ett hanterarkonto
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: ab8eb044b89c925accc3b6a4ac4def53e3927321
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---
 
 # Lägg till Google AdWords som en startpunktstjänst med ett hanterarkonto {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-Länka ditt Google AdWords-konto till Marketo för att automatiskt överföra konverteringsdata offline från Marketo till Google AdWords. Sedan kan du från gränssnittet för AdWords enkelt se vilka klick som resulterat i kvalificerade leads, affärsmöjligheter och nya kunder (eller vilka intäktssteg du vill spåra) efter att du har [lagt till anpassade kolumner](https://support.google.com/adwords/answer/3073556) i AdWords. Den här informationen visas inte i användargränssnittet för Marketo.
+Länka ditt Google AdWords-konto till Marketo för att automatiskt överföra offlinekonverteringsdata från Marketo till Google AdWords. Sedan kan ni utifrån AdWords-gränssnittet enkelt se vilka klick som resulterat i kvalificerade leads, möjligheter och nya kunder (eller vilka intäktssteg ni vill spåra) efter er  [lägga till egna kolumner](https://support.google.com/adwords/answer/3073556) i AdWords. Den här informationen visas inte i användargränssnittet för Marketo.
 
-Om du har flera Google Adwords-konton kan du använda ett [Google AdWords Manager-konto](https://www.google.com/adwords/manager-accounts/) (tidigare My Client Center) för att integrera dem med Marketo.
+Om du har flera Google Adwords-konton kan du använda en [Google AdWords Manager-konto](https://www.google.com/adwords/manager-accounts/) (tidigare kallat My Client Center) för att integrera dem med Marketo.
 
-Läs mer om [Googles importfunktion för offlinekonvertering](https://support.google.com/adwords/answer/2998031?hl=en).
+Läs mer om [Google importfunktion för offlinekonvertering](https://support.google.com/adwords/answer/2998031?hl=en).
+
+>[!AVAILABILITY]
+>
+>Alla kunder har inte köpt den här funktionen. Kontakta din Customer Success Manager för mer information.
 
 >[!NOTE]
 >
@@ -25,9 +28,9 @@ Läs mer om [Googles importfunktion för offlinekonvertering](https://support.go
 
 >[!NOTE]
 >
->Du kan även integrera ett [fristående Google AdWords-konto som en startpunktstjänst](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md).
+>Du kan även integrera en [fristående Google AdWords-konto som startpunktstjänst](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md).
 
-1. Gå till avsnittet **Admin**.
+1. Gå till **Administratör** -avsnitt.
 
    ![](assets/login-admin-1.png)
 
@@ -35,7 +38,7 @@ Läs mer om [Googles importfunktion för offlinekonvertering](https://support.go
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Välj **Ny** och **Ny tjänst**.
+1. Välj **Nytt** och **Ny tjänst**.
 
    ![](assets/image2015-2-23-14-3a54-3a50.png)
 
@@ -51,7 +54,7 @@ Läs mer om [Googles importfunktion för offlinekonvertering](https://support.go
 
    ![](assets/image2015-2-26-20-3a54-3a1.png)
 
-1. Välj det konto som är associerat med **Google AdWords**.
+1. Välj det konto som är kopplat till **Google AdWords**.
 
    ![](assets/image2015-2-23-15-3a31-3a16.png)
 
@@ -63,11 +66,11 @@ Läs mer om [Googles importfunktion för offlinekonvertering](https://support.go
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. Ladda upp dina offlinekonverteringar från Marketo till Google AdWords **Veckovis** eller **Daily**.
+1. Ladda upp offlinekonverteringar från Marketo till Google AdWords **Vecka** eller **Dagligen**.
 
    ![](assets/image2015-3-27-14-3a7-3a45.png)
 
-1. Attributkonvertering till **Första klicket** eller **Sista klicket**.
+1. Attributkonvertering till **Första klickningen** eller **Sista klickningen**.
 
    | Typ | Definition |
    |---|---|
@@ -78,13 +81,13 @@ Läs mer om [Googles importfunktion för offlinekonvertering](https://support.go
 
    >[!NOTE]
    >
-   >[Automatisk ](https://support.google.com/adwords/answer/1752125?hl=en) taggning måste vara markerat för att den här funktionen ska fungera. Den måste aktiveras inuti AdWords.
+   >[Automatisk taggning](https://support.google.com/adwords/answer/1752125?hl=en) måste väljas för att den här funktionen ska fungera. Den måste aktiveras inuti AdWords.
 
-1. Klicka på **Nästa**.
+1. Klicka **Nästa**.
 
    ![](assets/image2015-3-27-14-3a11-3a31.png)
 
-1. Avmarkera konton som du inte vill uppdatera. Klicka på **Skapa**.
+1. Avmarkera konton som du inte vill uppdatera. Klicka **Skapa**.
 
    ![](assets/image2015-3-27-14-3a12-3a51.png)
 

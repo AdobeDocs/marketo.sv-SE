@@ -3,19 +3,22 @@ unique-page-id: 6095008
 description: Lägg till Google AdWords som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
 title: Lägg till Google AdWords som en LaunchPoint-tjänst
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: ab8eb044b89c925accc3b6a4ac4def53e3927321
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
 
 # Lägg till Google AdWords som en LaunchPoint-tjänst {#add-google-adwords-as-a-launchpoint-service}
 
-Länka ditt Google AdWords-konto till Marketo för att automatiskt överföra konverteringsdata offline från Marketo till Google AdWords. Från gränssnittet för AdWords kan du sedan enkelt se vilka klick som resulterat i kvalificerade leads, affärsmöjligheter och nya kunder (eller vilka intäktssteg du vill spåra) efter att du har [lagt till anpassade kolumner](https://support.google.com/adwords/answer/3073556) i AdWords. Den här informationen visas inte i användargränssnittet för Marketo.
+Länka ditt Google AdWords-konto till Marketo för att automatiskt överföra offlinekonverteringsdata från Marketo till Google AdWords. Sedan kan ni utifrån AdWords-gränssnittet enkelt se vilka klick som resulterat i kvalificerade leads, affärsmöjligheter och nya kunder (eller vilka intäktssteg ni vill spåra) efter att ni gjort det [lägga till egna kolumner](https://support.google.com/adwords/answer/3073556) i AdWords. Den här informationen visas inte i användargränssnittet för Marketo.
 
-Läs mer om [Googles importfunktion för offlinekonvertering](https://support.google.com/adwords/answer/2998031?hl=en).
+Läs mer om [Google importfunktion för offlinekonvertering](https://support.google.com/adwords/answer/2998031?hl=en).
+
+>[!AVAILABILITY]
+>
+>Alla kunder har inte köpt den här funktionen. Kontakta din Customer Success Manager för mer information.
 
 >[!NOTE]
 >
@@ -23,9 +26,9 @@ Läs mer om [Googles importfunktion för offlinekonvertering](https://support.go
 
 >[!NOTE]
 >
->Du kan även integrera en [Google AdWords som en startpunktstjänst med ett hanterarkonto](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md).
+>Du kan även integrera en [Google AdWords as a Launchpoint service with a manager account](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md).
 
-1. Gå till avsnittet **Admin**.
+1. Gå till **Administratör** -avsnitt.
 
    ![](assets/login-admin.png)
 
@@ -33,7 +36,7 @@ Läs mer om [Googles importfunktion för offlinekonvertering](https://support.go
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Välj **Ny** och **Ny tjänst**.
+1. Välj **Nytt** och **Ny tjänst**.
 
    ![](assets/image2015-2-23-14-3a54-3a50.png)
 
@@ -61,11 +64,11 @@ Läs mer om [Googles importfunktion för offlinekonvertering](https://support.go
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. Ladda upp dina offlinekonverteringar från Marketo till Google AdWords **Veckovis** eller **Daily**.
+1. Ladda upp offlinekonverteringar från Marketo till Google AdWords **Vecka** eller **Dagligen**.
 
    ![](assets/image2015-2-23-16-3a53-3a4.png)
 
-1. Attributkonvertering till **Första klicket** eller **Sista klicket**.
+1. Attributkonvertering till **Första klickningen** eller **Sista klickningen**.
 
    | Typ | Definition |
    |---|---|
@@ -78,13 +81,13 @@ Läs mer om [Googles importfunktion för offlinekonvertering](https://support.go
 
    ![](assets/image2015-2-23-16-3a57-3a49.png)
 
-1. Klicka på **Skapa**.
+1. Klicka **Skapa**.
 
    ![](assets/image2015-2-23-17-3a50-3a9.png)
 
    >[!NOTE]
    >
-   >[Automatisk ](https://support.google.com/adwords/answer/1752125?hl=en) taggning måste vara markerat för att den här funktionen ska fungera. Inaktiveringen måste göras i AdWords.
+   >[Automatisk taggning](https://support.google.com/adwords/answer/1752125?hl=en) måste väljas för att den här funktionen ska fungera. Inaktiveringen måste göras i AdWords.
 
 Bra! Se den relaterade artikeln nedan för att lära dig hur du mappar AdWords-offlinekonverteringar i din intäktsmodell.
 
