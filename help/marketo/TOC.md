@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: fbdcd6c777778137d0d37ccf27857e3a7655f501
+source-git-commit: 07984499064e42b9b4f1cb21881a78dd687d9858
 workflow-type: tm+mt
-source-wordcount: '8050'
+source-wordcount: '8057'
 ht-degree: 0%
 
 ---
@@ -1285,6 +1285,9 @@ ht-degree: 0%
                + [Översikt över kommandocentralen](product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)
                + [E-postkolumner och sidlayout för e-post](product-docs/marketo-sales-insight/actions/email/command-center/email-columns-and-email-page-layout.md)
                + [Snabbåtgärder i kommandocentralen](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
+            + Avbeställ {#unsubscribes}
+               + [Avbeställ prenumeration - översikt](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
+               + [Anpassa meddelande om att avbryta prenumeration på länk](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
          + E-postinställningar {#email-settings}
             + [Verifiera din e-postadress](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
          + Marketo {#marketo}
