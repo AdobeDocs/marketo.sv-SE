@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 179e1ff62f5f76de1d3c9b47687956dc50ee66e4
+source-git-commit: fbdcd6c777778137d0d37ccf27857e3a7655f501
 workflow-type: tm+mt
-source-wordcount: '8047'
+source-wordcount: '8050'
 ht-degree: 0%
 
 ---
@@ -1277,6 +1277,7 @@ ht-degree: 0%
             + [Konfigurera anpassad domänspårning](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [Bjud in användare och administratörer](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [Delningsinställningar](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
+            + [Information om användaråtkomst](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + E-post {#email}
             + Kommandocentral {#command-center}
                + [Översikt över avancerad sökning](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
