@@ -1,10 +1,9 @@
 ---
 unique-page-id: 6849029
-description: Uppgradera Marketo Solution for Microsoft Dynamics - Marketo Docs - produktdokumentation
-title: Uppgradera Marketo Solution för Microsoft Dynamics
+description: Uppdatera Marketo Solution for Microsoft Dynamics - Marketo Docs - produktdokumentation
+title: Uppdatera Marketo Solution för Microsoft Dynamics
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 179e1ff62f5f76de1d3c9b47687956dc50ee66e4
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
@@ -13,7 +12,7 @@ ht-degree: 0%
 
 # Uppdatera Marketo Solution för Microsoft Dynamics {#update-the-marketo-solution-for-microsoft-dynamics}
 
-När en ny Microsoft Dynamics-lösning släpps kan du hämta uppgraderingen från administratörsområdet på ditt konto.
+När en ny Microsoft Dynamics-lösning släpps kan du hämta uppdateringen från administratörsområdet på ditt konto.
 
 >[!NOTE]
 >
@@ -21,34 +20,34 @@ När en ny Microsoft Dynamics-lösning släpps kan du hämta uppgraderingen frå
 
 >[!CAUTION]
 >
->Du måste ladda ned den senaste Marketo-lösningen _innan du utför en uppgradering._
+>Du måste ladda ned den senaste Marketo-lösningen _före_ utföra uppdateringar.
 
-1. Gå till området **Admin**.
+1. Gå till **Administratör** område.
 
    ![](assets/admin.png)
 
-1. Klicka på **Microsoft Dynamics**.
+1. Klicka **Microsoft Dynamics**.
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. Välj **Hämta Marketo Solution**.
+1. Välj **Ladda ned Marketo Solution**.
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
-1. Välj lämplig lösning för din Microsoft Dynamics-version.
+1. Välj lämplig lösning för din version av Microsoft Dynamics.
 
    ![](assets/msd-online.png)
 
    Häftig! En ZIP-fil med lösningen kommer nu att laddas ned till din enhet. Kontakta Dynamics-administratören om du inte känner till installationsstegen.
 
-## Utför uppdateringen {#performing-the-update}
+## Uppdatera {#performing-the-update}
 
-1. Importera den senaste versionen av lösningen över den befintliga versionen av Dynamics CRM (t.ex.: om Dynamics CRM har version 1.4 och den senaste versionen är 1.5, importerar du _över_ version 1.4).
+1. Importera den senaste versionen av lösningen över den befintliga versionen av Dynamics CRM (t.ex.: om Dynamics CRM har version 1.4 och den senaste versionen är 1.5, ska du importera _över_ version 1.4).
 
-1. Följande popup-fönster visas. Välj **Uppdatera** och **Behåll anpassningar** och klicka sedan på **Importera**.
+1. Följande popup-fönster visas. Välj **Uppdatera** och **Underhåll anpassningar** och sedan klicka **Importera**.
 
    ![](assets/update-the-marketo-solution-for-microsoft-dynamics-5.png)
 
 >[!CAUTION]
 >
->Om du väljer Uppgradera i stället för Uppdatera kan det leda till att data skadas i Dynamics-miljön. **Var noga med att välja** Uppdatera under Importalternativ.
+>Om du väljer Uppgradera i stället för Uppdatera kan det leda till att data skadas i Dynamics-miljön. **Var noga med att välja Uppdatera** under Importalternativ.
