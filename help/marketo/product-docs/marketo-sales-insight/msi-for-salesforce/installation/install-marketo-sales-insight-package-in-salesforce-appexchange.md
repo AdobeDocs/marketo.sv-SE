@@ -1,15 +1,14 @@
 ---
 unique-page-id: 7516390
-description: Installera Marketo Sales Insight-paket i Salesforce AppExchange - Marketo Docs - produktdokumentation
+description: Installera Marketo Sales Insight-paketet i Salesforce AppExchange - Marketo Docs - produktdokumentation
 title: Installera Marketo Sales Insight-paket i Salesforce AppExchange
-translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+exl-id: d0c54d6a-e9d5-4ddb-8679-873b61375a82
+source-git-commit: 4699b17a670655820946cd277adf28f2233f04d3
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
 
 ---
-
 
 # Installera Marketo Sales Insight-paket i Salesforce AppExchange {#install-marketo-sales-insight-package-in-salesforce-appexchange}
 
@@ -23,19 +22,19 @@ Du måste installera Marketo Sales Insight-appen i din Salesforce-prenumeration 
 >
 >Marketo Sales Insight är kompatibelt med Salesforce Platform (Shield) Encryption.
 
-1. Gå till sidan [AppExchange för Marketo Sales Insight](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) och klicka på **Hämta nu**.
+1. Gå till [AppExchange page for Marketo Sales Insight](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) och klicka **Hämta nu**.
 
-   ![](assets/one.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-1.png)
 
-1. Klicka på **Logga in på AppExchange**-knappen och logga in med dina Salesforce-inloggningsuppgifter.
+1. Klicka **Logga in på AppExchange** och logga in med dina Salesforce-inloggningsuppgifter.
 
-1. Ange ditt anslutna Salesforce-kontoinloggning och klicka på **Installera i Production**.
+1. Ange ditt anslutna Salesforce-kontoinloggning och klicka på **Installera i produktion**.
 
    ![](assets/three.png)
 
    >[!TIP]
    >
-   >Om du vill testa den i sandlådan först väljer du **Installera i sandlådan**.
+   >Om du först vill testa den i din sandlåda väljer du **Installera i sandlåda**.
 
 1. Läs och godkänn villkoren och klicka sedan på **Bekräfta och installera**.
 
@@ -45,15 +44,15 @@ Du måste installera Marketo Sales Insight-appen i din Salesforce-prenumeration 
 
    ![](assets/five.png)
 
-1. Du kan se följande meddelande när du har startat installationsprocessen. Du får ett mejl när installationen är klar. Klicka på **Klar** för att stänga.
+1. Du kan se följande meddelande när du har startat installationsprocessen. Du får ett mejl när installationen är klar. Klicka **Klar** för att stänga.
 
    ![](assets/six.png)
 
-1. Kontrollera att **Marketo Sales Insight** finns i de installerade paketen.
+1. Verifiera att **Marketo Sales Insight** finns i installerade paket.
 
    ![](assets/seven.png)
 
-1. Klicka på **Setup** bredvid ditt namn.
+1. Klicka **Inställningar** bredvid ditt namn.
 
    ![](assets/image2015-5-22-14-3a40-3a39.png)
 
@@ -61,15 +60,15 @@ Du måste installera Marketo Sales Insight-appen i din Salesforce-prenumeration 
 
    ![](assets/image2015-5-22-14-3a42-3a7.png)
 
-1. Dubbelkontrollera att **Distribuerad** har kontrollerats för alla Marketo Sales Insight-objekt.
+1. Dubbelkontrollera det **Distribuerad** är markerad för alla Marketo Sales Insight-artiklar.
 
    ![](assets/image2015-5-27-16-3a15-3a58.png)
 
-1. Om ett objekt inte har distribuerats klickar du på **Redigera** bredvid objektet.
+1. Om ett objekt inte distribueras klickar du på **Redigera** bredvid objektet.
 
    ![](assets/image2014-9-24-17-3a23-3a45.png)
 
-1. Under **Distributionsstatus** väljer du **Distribuerad** och klickar på **Spara**.
+1. Under **Distributionsstatus** avsnitt, markera **Distribuerad** och klicka **Spara**.
 
    ![](assets/image2014-9-24-17-3a24-3a0.png)
 
