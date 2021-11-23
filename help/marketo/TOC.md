@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: a4a92f2d557581d6685342f45c11c260cf9cad3b
+source-git-commit: d3e8e85bd8b428b2490a44e44fdab9d58784843d
 workflow-type: tm+mt
-source-wordcount: '8068'
+source-wordcount: '8083'
 ht-degree: 0%
 
 ---
@@ -1278,6 +1278,10 @@ ht-degree: 0%
             + [Bjud in användare och administratörer](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [Delningsinställningar](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [Information om användaråtkomst](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
+         + CRM {#crm}
+            + Salesforce-integrering {#salesforce-integration}
+               + [Anslut ditt Marketo-försäljningskonto till Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
+               + [Synkroniseringsinställningar för Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
          + E-post {#email}
             + Kommandocentral {#command-center}
                + [Översikt över avancerad sökning](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
@@ -1297,6 +1301,7 @@ ht-degree: 0%
          + Skicka ett e-postmeddelande {#send-a-sales-email}
             + [Översikt över e-postspårning](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
          + Mallar {#templates}
+            + [Hantera mallar](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
             + [Hantera mallkategorier](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
       + Använda MSI {#using-msi}
          + [Logga inkommande e-post från dina leads i Marketo](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)

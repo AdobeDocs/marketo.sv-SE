@@ -3,9 +3,9 @@ description: Hantera mallar - Marketo Docs - produktdokumentation
 title: 'Hantera mallar '
 hide: true
 hidefromtoc: true
-source-git-commit: 4699b17a670655820946cd277adf28f2233f04d3
+source-git-commit: d3e8e85bd8b428b2490a44e44fdab9d58784843d
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '523'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,31 @@ ht-degree: 0%
 >[!TIP]
 >
 >Skriv alltid text direkt i mallen eller kopiera från en vanlig textredigerare (t.ex. Anteckningar eller TextEdit). Om du kopierar och klistrar in från en RTF-redigerare (t.ex. MS Word) kan det leda till formateringsfel.
+
+## Visa mallinformation {#view-template-details}
+
+Området Mallinformation innehåller flera flikar.
+
+![](assets/manage-templates-4a.png)
+
+<table>
+ <tr>
+  <td><strong>Mall</strong></td>
+  <td>Granska och redigera, ange villkor för att göra mallen till en rekommenderad mall, lägg till anteckningar</td>
+ </tr>
+ <tr>
+  <td><strong>Analyser</strong></td>
+  <td>Granska engagemangsanalyser för mallen. Utför en filtrerad sökning.</td>
+ </tr>
+ <tr>
+  <td><strong>E-post</strong></td>
+  <td>Visa alla e-postmeddelanden som har skickats med den här mallen. Utför en filtrerad sökning.</td>
+ </tr>
+ <tr>
+  <td><strong>Kampanjer</strong></td>
+  <td>Se vilka kampanjer mallen används i.</td>
+ </tr>
+</table>
 
 ## Dela en mall {#share-a-template}
 
@@ -92,9 +117,17 @@ Från **Visa** kan du se: alla mallar, dina mallar, favoritmallar, delade mallar
 
 Arkivera mallar för att hålla ert säljmaterial välorganiserat och fokuserat utan att förlora några malldata.
 
-Markera rutan bredvid en mall och klicka på **Arkiv**.
+1. Markera rutan bredvid mallen som du vill arkivera.
 
-PICC
+   ![](assets/manage-templates-14.png)
+
+1. Klicka **Arkiv**.
+
+   ![](assets/manage-templates-15.png)
+
+1. Klicka **Arkiv** för att bekräfta.
+
+   ![](assets/manage-templates-16.png)
 
 >[!NOTE]
 >
@@ -110,14 +143,14 @@ Följ stegen nedan för att ta bort en mall.
 >
 >Om du tar bort en mall tas även ALL-spårning och analys som är kopplade till den bort.
 
-1. Markera den mall som du vill ta bort.
+1. Markera rutan bredvid mallen som du vill ta bort.
 
-PICC
+   ![](assets/manage-templates-17.png)
 
-1. Klicka på listrutan i det övre högra hörnet och klicka sedan på **Ta bort**.
+1. Klicka **Ta bort**.
 
-PICC
+   ![](assets/manage-templates-18.png)
 
 1. Klicka **Ta bort** för att bekräfta.
 
-PICC
+   ![](assets/manage-templates-19.png)
