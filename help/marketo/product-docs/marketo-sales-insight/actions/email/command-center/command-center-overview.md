@@ -3,9 +3,9 @@ description: Command Center Overview - Marketo Docs - produktdokumentation
 title: Översikt över kommandocentralen
 hide: true
 hidefromtoc: true
-source-git-commit: c65b641eeb6fad4e3722e2e50eb36bc6d0a9bd4d
+source-git-commit: 5f2967fb56daa8c3f86f6d9577626928f1e5bbd6
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '488'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Kommandocentralen är en enhetlig vy som hjälper dig att komma på nästa steg,
 
 I e-postavsnittet i kommandocentralen kan du hantera all e-postaktivitet. Tänk på det som din e-postutkorg för att granska e-postmeddelanden som har skickats från Sales Connect. Hantera dina schemalagda e-postmeddelanden, se vilka som har interagerat med dina e-postmeddelanden, kontrollera om det har uppstått några problem med dina e-postmeddelanden och mycket mer.
 
-PICC
+![](assets/command-center-overview-1.png)
 
 I e-postavsnittet får du en fågelöversikt över alla dina e-postmeddelanden och förenklar deras organisation med primära flikar och underflikar som fungerar som mappar där dina e-postmeddelanden lagras automatiskt baserat på deras status.
 
@@ -73,7 +73,7 @@ I e-postavsnittet får du en fågelöversikt över alla dina e-postmeddelanden o
 
 Uppgiftsavsnittet är en heltäckande lösning för att hantera och slutföra uppgifter. Här kan du smidigt hantera dina uppgifter och öka produktiviteten och fokusera på de mest relevanta objekten.
 
-PICC
+![](assets/command-center-overview-2.png)
 
 ## Uppföljning med engagerade potentiella kunder {#follow-up-with-engaged-prospects}
 

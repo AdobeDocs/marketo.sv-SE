@@ -3,9 +3,9 @@ unique-page-id: 37356893
 description: MSI Feature Overview - Marketo Docs - produktdokumentation
 title: Översikt över MSI-funktioner
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
-source-git-commit: 7a6108b3c68c5845fcf0169b111e058596e3d4a6
+source-git-commit: 5f2967fb56daa8c3f86f6d9577626928f1e5bbd6
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '937'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ MSI Visualforce-panelen innehåller följande funktioner:
 * Tabbar
 
    * [Instrumentpanel för insikter](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-   * Intressant stund
+   * Intressanta ögonblick
    * Webbaktivitet
    * E-post
    * Poäng
@@ -63,7 +63,7 @@ Fält:
 
 Visualforce-sidor:
 
-* Kontakt - innehåller alternativ för att klicka på&quot;Gå till fullständig lista&quot;, du kommer att få en ny flik i Salesforce där MSI-panelen visas i en helsideslayout
+* Kontakt - Inkluderar alternativ för att klicka på&quot;Gå till fullständig lista&quot;, du kommer att skickas till en ny flik i Salesforce där MSI-panelen visas i en helsideslayout
 * Fullständig kontaktlista - innehåller inte alternativet Gå till fullständig lista
 * Kontakt Mobile - synlig i Salesforce-mobilprogram
 * Lägg till på kontaktsidan för Marketo Campaign - Funktionen Lägg till i Marketo Campaign är tillgänglig på den här panelen
@@ -195,4 +195,7 @@ Marketo Sales Insight lagras på språk. Om du vill att det ska fungera för mer
 
 >[!NOTE]
 >
->En kontakt/lead måste finnas i standardpartitionen för att kunna läggas till i bevakningslistan.
+>* En kontakt/lead måste finnas i standardpartitionen för att kunna läggas till i bevakningslistan.
+>
+>* MSI Salesforce-paketet stöder inte anpassad vy med beroende fält.
+
