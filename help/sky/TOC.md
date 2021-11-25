@@ -2,8 +2,7 @@
 solution: Marketo, Marketo Engage, Marketo Sky
 user-guide-title: '[!DNL Sky] Produktdokumentation'
 feature-set: Marketo Sky
-index: y
-source-git-commit: 09a443005369aafda4181bd6875b3c61067e504b
+source-git-commit: 80b7b10c6ecce02b5b3a532702076c19e7d2a61d
 workflow-type: tm+mt
 source-wordcount: '482'
 ht-degree: 0%
@@ -29,7 +28,7 @@ ht-degree: 0%
 + Design Studio {#design-studio}
    + [Importera resurser med Adobe Experience Manager](importing-assets-with-adobe-experience-manager.md)
    + [Marketo Image Editor](marketo-image-editor.md)
-+ Åtagandeprogram {#engagement-programs}
++ Engagement Programs {#engagement-programs}
    + [Aktivera och inaktivera ströminnehåll](activate-and-deactivate-stream-content.md)
    + [Lägga till en ström i ett engagemangsprogram](add-a-stream-to-an-engagement-program.md)
    + [Lägg till innehåll i en engagemangsström](add-content-to-an-engagement-stream.md)
@@ -84,7 +83,7 @@ ht-degree: 0%
    + [Lokala resurser: Massåtgärder](local-assets-mass-actions.md)
    + [Använda fliken Programöversikt](using-the-program-overview-tab.md)
    + [Använda fliken Programinställningar](using-the-program-setup-tab.md)
-+ Programschemavy {#program-schedule-view}
++ Programplaneringsvy {#program-schedule-view}
    + [Skapa en grundläggande post i programschemavy](create-a-basic-entry-in-program-schedule-view.md)
    + [Skapa en batchvis smart kampanj i programschemavy](create-a-batch-smart-campaign-in-program-schedule-view.md)
    + [Skapa ett e-postprogram i programschemavy](create-an-email-program-in-program-schedule-view.md)
