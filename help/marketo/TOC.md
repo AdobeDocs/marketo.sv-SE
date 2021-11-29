@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 74b5928ab8e8b7cb39261fdedce51f6aad7c400f
+source-git-commit: 972ff493506538fa7b36e91a608a6000adb06f42
 workflow-type: tm+mt
 source-wordcount: '8097'
 ht-degree: 0%
@@ -1296,7 +1296,7 @@ ht-degree: 0%
                + [Synkronisera avbeställningar med Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
          + E-postleverans {#email-delivery}
             + [Översikt över leveranskanalen](product-docs/marketo-sales-insight/actions/email-delivery/delivery-channel-overview.md)
-            + [Begränsning för e-postanslutning](product-docs/marketo-sales-insight/actions/email-delivery/delivery-channel-overview.md)
+            + [Begränsning för e-postanslutning](product-docs/marketo-sales-insight/actions/email-delivery/email-connection-throttling.md)
             + [Konfigurera en anpassad leveranskanal](product-docs/marketo-sales-insight/actions/email-delivery/setting-up-a-custom-delivery-channel.md)
          + E-postinställningar {#email-settings}
             + [Verifiera din e-postadress](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
