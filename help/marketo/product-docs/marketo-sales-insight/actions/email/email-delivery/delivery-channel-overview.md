@@ -3,9 +3,9 @@ description: Översikt över leveranskanalen - Marketo Docs - produktdokumentati
 title: Översikt över leveranskanalen
 hide: true
 hidefromtoc: true
-source-git-commit: 3b7cc0c855221f6fd0fba6dca08ccbe361ca9758
+source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '668'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,12 @@ Dessutom erbjuder tredjepartsleverantörer av SMTP en mängd funktioner som hjä
 Marketo försäljningsservrar är bara tillgängliga för vissa äldre ToutApp-kunder. Dessa kunder kommer att se Marketo försäljningsservrar tillgängliga i sina e-postinställningar. Alla icke-äldre kunder ser inte Marketo Sales som ett alternativ och bör ansluta sitt Gmail- eller Outlook-konto till Marketo Sales för att låsa upp en leveranskanal.
 
 Marketo försäljningsservrar stöder inte DKIM- och SPF-autentiseringsmetoder, vilket kan sänka leveransgraden. Därför rekommenderar vi att alla kunder ansluter till Gmail eller Outlook för bästa slutprodukt.
+
+## MSC-servrar (äldre) {#msc-servers-legacy}
+
+MSC-servrar är bara tillgängliga för vissa äldre ToutApp-kunder. Dessa kunder kommer att se vilka MSC-servrar som är tillgängliga i deras e-postinställningar. Alla icke-äldre kunder ser inte MSC som ett alternativ och bör ansluta sitt Gmail- eller Outlook-konto till Sales Connect för att låsa upp en leveranskanal.
+
+MSC-servrar saknar stöd för DKIM- och SPF-autentiseringsmetoder, vilket kan sänka leveransgraden. Därför rekommenderar vi att alla kunder ansluter till Gmail eller Outlook för bästa slutprodukt.
 
 ## Marketo-servrar {#marketo-servers}
 

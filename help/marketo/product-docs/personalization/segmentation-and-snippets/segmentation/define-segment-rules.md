@@ -3,9 +3,9 @@ unique-page-id: 2359449
 description: Definiera segmentregler - Marketo Docs - produktdokumentation
 title: Definiera segmentregler
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
-source-git-commit: 4699b17a670655820946cd277adf28f2233f04d3
+source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Genom att definiera segmentregler kan du kategorisera dina personer i olika grup
 
    >[!CAUTION]
    >
-   >Vi rekommenderar _mot_ Användning av kontofält när segmentregler definieras, eftersom det kan orsaka aktivitetsloggningsproblem.
+   >Aktivitetsloggning för kontofält kan påverka kvalificeringen. Därför rekommenderar vi att du inte använder kontofält när du definierar segmentregler.
 
 1. Klicka på **Personer (utkast)** om du vill visa de personer som kan vara kvalificerade att vara medlemmar i det här segmentet.
 
