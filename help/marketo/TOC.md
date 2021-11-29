@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
+source-git-commit: 74b5928ab8e8b7cb39261fdedce51f6aad7c400f
 workflow-type: tm+mt
 source-wordcount: '8097'
 ht-degree: 0%
@@ -1295,9 +1295,9 @@ ht-degree: 0%
                + [Avbeställ Marketo](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [Synkronisera avbeställningar med Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
          + E-postleverans {#email-delivery}
-            + [Översikt över leveranskanalen](product-docs/marketo-sales-insight/actions/email-settings/delivery-channel-overview.md)
-            + [Begränsning för e-postanslutning](product-docs/marketo-sales-insight/actions/email-settings/delivery-channel-overview.md)
-            + [Konfigurera en anpassad leveranskanal](product-docs/marketo-sales-insight/actions/email-settings/setting-up-a-custom-delivery-channel.md)
+            + [Översikt över leveranskanalen](product-docs/marketo-sales-insight/actions/email-delivery/delivery-channel-overview.md)
+            + [Begränsning för e-postanslutning](product-docs/marketo-sales-insight/actions/email-delivery/delivery-channel-overview.md)
+            + [Konfigurera en anpassad leveranskanal](product-docs/marketo-sales-insight/actions/email-delivery/setting-up-a-custom-delivery-channel.md)
          + E-postinställningar {#email-settings}
             + [Verifiera din e-postadress](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
          + Marketo {#marketo}
