@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 972ff493506538fa7b36e91a608a6000adb06f42
+source-git-commit: fdc494a8b3002e851bbe76dcd69c58e6d5a00ee6
 workflow-type: tm+mt
-source-wordcount: '8097'
+source-wordcount: '8101'
 ht-degree: 0%
 
 ---
@@ -1270,6 +1270,10 @@ ht-degree: 0%
             + [Referera dig själv i ett dynamiskt fält](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo Sales Insight {#marketo-sales-insight}
       + Åtgärder {#actions}
+         + Komma igång {#getting-started}
+            + E-postinställningar {#email-settings}
+               + [Verifiera din e-postadress](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
+            + [Blockerade domäner](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
          + Administratör {#admin}
             + [Blockerade domäner](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [Låsning av innehåll](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
@@ -1294,12 +1298,10 @@ ht-degree: 0%
                + [Anpassa meddelande om att avbryta prenumeration på länk](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
                + [Avbeställ Marketo](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [Synkronisera avbeställningar med Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
-         + E-postleverans {#email-delivery}
-            + [Översikt över leveranskanalen](product-docs/marketo-sales-insight/actions/email-delivery/delivery-channel-overview.md)
-            + [Begränsning för e-postanslutning](product-docs/marketo-sales-insight/actions/email-delivery/email-connection-throttling.md)
-            + [Konfigurera en anpassad leveranskanal](product-docs/marketo-sales-insight/actions/email-delivery/setting-up-a-custom-delivery-channel.md)
-         + E-postinställningar {#email-settings}
-            + [Verifiera din e-postadress](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
+            + E-postleverans {#email-delivery}
+               + [Översikt över leveranskanalen](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
+               + [Begränsning för e-postanslutning](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
+               + [Konfigurera en anpassad leveranskanal](product-docs/marketo-sales-insight/actions/email/email-delivery/setting-up-a-custom-delivery-channel.md)
          + Marketo {#marketo}
             + [Ge Marketo åtkomst till användare](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + Skicka ett e-postmeddelande {#send-a-sales-email}
