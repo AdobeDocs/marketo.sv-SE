@@ -3,17 +3,39 @@ description: Konfigurera anpassad domänspårning - Marketo Docs - produktdokume
 title: Konfigurera anpassad domänspårning
 hide: true
 hidefromtoc: true
-source-git-commit: 07984499064e42b9b4f1cb21881a78dd687d9858
+source-git-commit: ec78e047c9dc126553fe8a4b6a4c21b0d11aea5c
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
 
 # Konfigurera anpassad domänspårning {#how-to-set-up-custom-domain-tracking}
 
-Vi ger dig möjlighet att konfigurera anpassad domänspårning för dina länkar, så att när någon hovrar över en länk läses den `go.yourcompany.com` i stället för `go.toutapp.com`.
+Med anpassad domänspårning kan ditt team använda ditt eget företagsnamn i alla spårbara länkar som läggs till i dina säljmeddelanden. När du har konfigurerat det här tillåtslista vi alla länkar du har i ditt e-postmeddelande så att de visas som go.yourcompany.com, så att när någon hovrar över en länk läses de som go.yourcompany.com i stället för go.toutapp.com.
 
-För att konfigurera detta måste din IT-administratör följa stegen som anges i [inställningssida](https://toutapp.com/next#settings/admin/tracking).
+Du behöver hjälp av IT-teamet för att konfigurera en CNAME-post för din domän som pekar på go.toutapp.com. Den här CNAME-filen visas på alla spårningslänkar (t.ex. go.yourcompany.com).
 
-När du har konfigurerat den här inställningen tillåtslista vi alla länkar i e-postmeddelandet som visas som `go.yourcompany.com`.
+När du har bekräftat för IT-teamet att CNAME är korrekt konfigurerat kan du lägga till det på sidan Anpassad domänspårning i Åtgärder.
+
+>[!NOTE]
+>
+>Om CNAME inte är korrekt konfigurerat och du aktiverar det som din anpassade domän i Åtgärder kan det bryta spårningslänkar och pixlar.
+
+## Aktivera anpassad domänspårning {#enable-custom-domain-tracking}
+
+>[!NOTE]
+>
+>**Administratörsprivilegier krävs.**
+
+1. Klicka på kugghjulsikonen och välj **Inställningar**.
+
+   ![](assets/how-to-set-up-custom-domain-tracking-1.png)
+
+1. Under Administratörsinställningar väljer du **Spårning**.
+
+   ![](assets/how-to-set-up-custom-domain-tracking-2.png)
+
+1. Ange ditt CNAME-namn på fliken Anpassad domänspårning och klicka på **Anslut**.
+
+   ![](assets/how-to-set-up-custom-domain-tracking-3.png)

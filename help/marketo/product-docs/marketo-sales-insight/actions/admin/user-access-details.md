@@ -3,9 +3,9 @@ description: Information om användaråtkomst - Marketo Docs - produktdokumentat
 title: Information om användaråtkomst
 hide: true
 hidefromtoc: true
-source-git-commit: fbdcd6c777778137d0d37ccf27857e3a7655f501
+source-git-commit: ec78e047c9dc126553fe8a4b6a4c21b0d11aea5c
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Administratörer kan se alla personer i en pågående kampanj.
 
 ![](assets/user-access-details-4.png)
 
-Alla personposter är tillgängliga i gruppen Alla.
+Administratörer kan se användarkampanjer och kampanjkategorier med listrutan Visa som.
 
 ![](assets/user-access-details-5.png)
 
@@ -46,18 +46,12 @@ Administratörer kan stoppa kampanjer för användarnas räkning.
    * Användarna kan fördjupa sig i just de team de tillhör
    * Användarna kan se sina egna analyser
 
-* Relationssida:
+* Personsida:
 
    * Användare kan dela grupper med alla
    * Användare kan dela grupper med endast de team de tillhör
+   * Användarna kommer att ha synlighet för alla personer i din åtgärdsdatabas
    * När en användare tas bort överför deras delade kontakter ägarskap till den Överordnad administratören som tog bort användaren
-
-* Säljslag - nästa och direktfeed:
-
-   * Användarna kan se vyn&quot;alla&quot;
-   * Användarna kan filtrera efter det team de tillhör
-   * Användaren kan dela inlägg med alla
-   * Användarna kan dela inlägg med endast de team de tillhör
 
 * Teamhanteringssida:
 

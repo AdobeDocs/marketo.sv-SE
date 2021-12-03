@@ -3,7 +3,7 @@ description: Kan jag spåra flera mottagare med CC/BCC - Marketo Docs - produktd
 title: Kan jag spåra flera mottagare med CC/BCC?
 hide: true
 hidefromtoc: true
-source-git-commit: b7766e9a1a0799280050a0c2b2cfa6bee71e8de7
+source-git-commit: ec78e047c9dc126553fe8a4b6a4c21b0d11aea5c
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
