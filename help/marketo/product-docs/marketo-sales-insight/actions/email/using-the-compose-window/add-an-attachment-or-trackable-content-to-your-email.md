@@ -1,18 +1,18 @@
 ---
-unique-page-id: 37356587
 description: Lägg till en bifogad fil eller spårbart innehåll i din e-post - Marketo Docs - produktdokumentation
 title: Lägg till en bifogad fil eller spårbart innehåll i din e-post
-exl-id: 06a80676-00bd-46d3-a989-ae503f7e76a6
+hide: true
+hidefromtoc: true
 source-git-commit: 765ce4de418a5565ae7528a49a6947c1e1bb1f3f
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
 
 # Lägg till en bifogad fil eller spårbart innehåll i din e-post {#add-an-attachment-or-trackable-content-to-your-email}
 
-När du skickar ett e-postmeddelande via Sales Connect kan du lägga till en fil som en bifogad fil eller göra en fil till en hämtningsbar (och spårbar) länk.
+När du skickar ett e-postmeddelande via Marketo direktförsäljning kan du lägga till en fil som en bifogad fil eller göra en fil till en hämtningsbar (och spårbar) länk.
 
 >[!NOTE]
 >
@@ -22,45 +22,45 @@ När du skickar ett e-postmeddelande via Sales Connect kan du lägga till en fil
 
 1. Skapa ditt e-postutkast (det finns flera sätt att göra detta, i det här exemplet väljer vi **Disponera** i sidhuvudet).
 
-   ![](assets/one-4.png)
+   ![](assets/add-an-attachment-or-trackable-content-1.png)
 
 1. Fyll i fältet Till och ange ett ämne.
 
-   ![](assets/attach-two.png)
+   ![](assets/add-an-attachment-or-trackable-content-2.png)
 
 1. Klicka på ikonen för bifogade filer.
 
-   ![](assets/attach-three.png)
+   ![](assets/add-an-attachment-or-trackable-content-3.png)
 
 1. Markera filen som du vill bifoga och klicka på **Infoga**.
 
-   ![](assets/attach-four.png)
+   ![](assets/add-an-attachment-or-trackable-content-4.png)
 
    >[!NOTE]
    >
    >Om du behöver överföra en fil klickar du på **Överför innehåll** i fönstrets övre högra hörn.
 
-   ![](assets/attach-five.png)
+   Den bifogade filen visas längst ned i e-postmeddelandet.
 
-Den bifogade filen visas längst ned i e-postmeddelandet.
+   ![](assets/add-an-attachment-or-trackable-content-5.png)
 
 ## Lägg till spårbart innehåll {#add-trackable-content}
 
 1. Skapa e-postutkast (det finns flera sätt att göra detta, i det här exemplet väljer vi fönstret Disponera).
 
-   ![](assets/one-4.png)
+   ![](assets/add-an-attachment-or-trackable-content-6.png)
 
 1. Fyll i fältet Till och ange ett ämne.
 
-   ![](assets/two-4.png)
+   ![](assets/add-an-attachment-or-trackable-content-7.png)
 
 1. Klicka på den plats i e-postmeddelandet där du vill att det spårbara innehållet ska visas och klicka på bilageikonen.
 
-   ![](assets/three-4.png)
+   ![](assets/add-an-attachment-or-trackable-content-8.png)
 
 1. Markera det innehåll du vill lägga till och klicka på **Innehållet spåras** och klicka **Infoga**.
 
-   ![](assets/four-4.png)
+   ![](assets/add-an-attachment-or-trackable-content-9.png)
 
    >[!NOTE]
    >
@@ -68,8 +68,38 @@ Den bifogade filen visas längst ned i e-postmeddelandet.
 
    Innehållet visas som en länk i ditt e-postmeddelande. Mottagaren kan klicka på länken för att hämta innehållet.
 
-   ![](assets/five-2.png)
+   ![](assets/add-an-attachment-or-trackable-content-10.png)
 
    >[!NOTE]
    >
    >Användarna meddelas i Live Feed när de visar sitt spårade innehåll. Användarna kan även se det innehåll som har högst prestanda i innehållsavsnittet på sidan Analytics.
+
+## Uppdateringar av spårbart innehåll {#trackable-content-updates}
+
+**Spårbar Content Viewer**
+
+När en lead klickar på spårbart innehåll i ditt e-postmeddelande öppnas en Content Viewer.
+
+![](assets/add-an-attachment-or-trackable-content-11.png)
+
+I Content Viewer kan leads göra följande saker.
+
+* Ladda ned dokumentet
+
+![](assets/add-an-attachment-or-trackable-content-12.png)
+
+* Bläddra igenom dokumentet
+
+![](assets/add-an-attachment-or-trackable-content-13.png)
+
+* Visa avsändarens kontaktinformation
+
+![](assets/add-an-attachment-or-trackable-content-14.png)
+
+**Spårbara innehållshändelser i Live-feed**
+
+När en lead klickar på länken till vårt dokument visas en klickningshändelse. Du kan klicka på den länken för att visa innehållet. Så länge du är inloggad på ditt åtgärdskonto i webbläsaren räknas inte dessa klickningar som händelser.
+
+![](assets/add-an-attachment-or-trackable-content-15.png)
+
+Varje gång leadet går till en annan sida i dokumentet får du en visad händelse i Live Feed som visar namnet på dokumentet.
