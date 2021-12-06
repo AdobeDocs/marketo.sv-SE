@@ -3,9 +3,9 @@ description: Skicka e-post via e-post i grupp - Marketo Docs - produktdokumentat
 title: Skicka e-post via gruppe-post
 hide: true
 hidefromtoc: true
-source-git-commit: 765ce4de418a5565ae7528a49a6947c1e1bb1f3f
+source-git-commit: 7462371066d983d9d7f483e8bf26bd3e666e495e
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -18,19 +18,19 @@ Så här skickar/redigerar du e-post med alternativet Gruppera e-post.
 
 1. Klicka på **Folk** -fliken.
 
-   ![](assets/one-3.png)
+   PICC
 
 1. Markera gruppen som du vill skicka e-post till.
 
-   ![](assets/two-3.png)
+   PICC
 
 1. Klicka på knappen Gruppera åtgärder och välj **E-postgrupp**.
 
-   ![](assets/three-3.png)
+   PICC
 
 1. Fyll i e-postmeddelandet (eller välj en mall) och skicka (eller schemalägg) det.
 
-   ![](assets/four-3.png)
+   PICC
 
 ## Redigera en gruppe-postadress {#editing-a-group-email}
 
@@ -38,19 +38,19 @@ Så här skickar/redigerar du e-post med alternativet Gruppera e-post.
 
 1. Välj en mall eller fyll i e-postmeddelandet.
 
-   ![](assets/edit-two.png)
+   PICC
 
 1. När e-postmeddelandet är klart kan du nu förhandsgranska varje e-postmeddelande i listan för att se om de dynamiska fälten fylls i korrekt.
 
-   ![](assets/edit-three.png)
+   PICC
 
 1. Välj önskad mottagare.
 
-   ![](assets/edit-four.png)
+   PICC
 
 1. Klicka **Förhandsgranska dynamiska fält** och förhandsgranska till höger.
 
-   ![](assets/edit-five.png)
+   PICC
 
    >[!NOTE]
    >
