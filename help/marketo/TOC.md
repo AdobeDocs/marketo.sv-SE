@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 765ce4de418a5565ae7528a49a6947c1e1bb1f3f
+source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
 workflow-type: tm+mt
-source-wordcount: '8147'
+source-wordcount: '8159'
 ht-degree: 0%
 
 ---
@@ -1233,10 +1233,13 @@ ht-degree: 0%
             + [Sidkolumner för personer](product-docs/marketo-sales-connect/people/managing-contacts/people-page-columns.md)
       + Tel.{#phone}
          + [Samtal loggar inte till Salesforce](product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)
+         + [Utfall för samtal](product-docs/marketo-sales-connect/phone/call-outcomes.md)
+         + [Samtalsorsaker](product-docs/marketo-sales-connect/phone/call-reasons.md)
          + [Loggade inte till aktivitetshistorik](product-docs/marketo-sales-connect/phone/didnt-log-to-activity-history.md)
          + [Loggade inte till Salesforce](product-docs/marketo-sales-connect/phone/didnt-log-to-salesforce.md)
          + [Aktivera samtalsinspelning](product-docs/marketo-sales-connect/phone/enable-call-recording.md)
          + [Anpassa samtalsutdata i telefonförsäljning](product-docs/marketo-sales-connect/phone/how-to-customize-the-call-outcome-in-sales-phone.md)
+         + [Logga samtalsorsaker och samtalsresultat till Salesforce](product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
          + [Internationellt telefonsamtal för försäljning](product-docs/marketo-sales-connect/phone/sales-phone-international-calling.md)
          + [Lokal telefonnärvaro](product-docs/marketo-sales-connect/phone/sales-phone-local-presence.md)
          + [Översikt över telefonförsäljning](product-docs/marketo-sales-connect/phone/sales-phone-overview.md)

@@ -3,9 +3,9 @@ unique-page-id: 2951640
 description: Använda intressanta stunder - Marketo Docs - produktdokumentation
 title: Använda intressanta stunder
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
-source-git-commit: b18b2172e2c20cdb740854924a48fc996caf59f9
+source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Intressanta ögonblick är nyckeln till att kommunicera med säljarna via appen 
 
 >[!AVAILABILITY]
 >
->Dessa är endast tillgängliga för Marketo Sales Insight- och [Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)-kunder.
+>Dessa finns för Marketo Sales Insight och [Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) endast kunder.
 
 ## Vad är ett intressant ögonblick? {#what-is-an-interesting-moment}
 
@@ -28,21 +28,21 @@ Det är upp till dig! Du bestämmer själv vilken information som är relevant f
 
 ## Hur skapar jag ett intressant ögonblick?  {#how-do-i-create-an-interesting-moment}
 
-1. Välj en [smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), helst en som ditt säljteam tycker är intressant om den utlöses.
+1. Välj en [smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), helst en som ditt säljteam tycker är intressant om det utlöses.
 
-   ![](assets/image2015-1-8-18-3a8-3a54.png)
+   ![](assets/using-interesting-moments-1.png)
 
-1. Dra över flödessteget **Intressanta stunder**.
+1. Dra över **Intressanta ögonblick** flödessteg.
 
-   ![](assets/image2015-1-8-18-3a15-3a20.png)
+   ![](assets/using-interesting-moments-2.png)
 
-1. Välj en **typ** (E-post, Milstolpe eller Webb).
+1. Välj en **type** (E-post, Milstolpe eller Webb).
 
-   ![](assets/image2015-1-8-18-3a17-3a16.png)
+   ![](assets/using-interesting-moments-3.png)
 
-1. Skriv ett meddelande till ditt säljteam i fältet **Beskrivning** som förklarar varför den här åtgärden är viktig.
+1. Skriv ett meddelande till ditt säljteam i **Beskrivning** fält som förklarar varför den här åtgärden är viktig.
 
-   ![](assets/image2015-1-8-18-3a18-3a23.png)
+   ![](assets/using-interesting-moments-4.png)
 
    >[!NOTE]
    >
@@ -50,7 +50,7 @@ Det är upp till dig! Du bestämmer själv vilken information som är relevant f
 
 ## Hur kan det här bli ännu intressantare?  {#how-can-this-get-even-more-interesting}
 
-Tokens! Lägg till dem i beskrivningsfältet för att ge säljteamet mer specifik information, som ämnesraden i det e-postmeddelande som leadet öppnade eller vem som skickade det. Ta reda på vilka tokens som är tillgängliga för användning i [Token for Intressant stund](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)-ordlistan.
+Tokens! Lägg till dem i beskrivningsfältet för att ge säljteamet mer specifik information, som ämnesraden i det e-postmeddelande som leadet öppnade eller vem det skickades av. Kontrollera vilka variabler som är tillgängliga för användning i [Token för intressanta ögonblick](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) ordlista.
 
 >[!TIP]
 >
@@ -58,18 +58,32 @@ Tokens! Lägg till dem i beskrivningsfältet för att ge säljteamet mer specifi
 
 ## Hur ser ett intressant ögonblick ut i Marketo?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Intressanta stunder visas i en [lead-aktivitetslogg](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
+Intressanta stunder visas i en [Lead-aktivitetsloggen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
-![](assets/image2015-1-14-18-3a45-3a58.png)
+![](assets/using-interesting-moments-5.png)
 
 ## Hur ser ett intressant ögonblick ut i Salesforce?  {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-När du har [installerat Marketo Sales Insight App](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) visas intressanta stunder på lead-, kontakt-, konto- eller affärsmöjlighetssidorna. De visas också på kontrollpanelen Sales Insight i Lead Feed, Best Bets och Watch List.
+När du har [installerade Marketo Sales Insight App](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)visas intressanta stunder på lead-, kontakt-, konto- eller affärsmöjlighetssidorna. De visas också på kontrollpanelen Sales Insight i Lead Feed, Best Bets och Watch List.
 
-![](assets/six.png)
+![](assets/using-interesting-moments-6.png)
 
 ## Hur ser ett intressant ögonblick ut i Salesforce1? {#what-does-an-interesting-moment-look-like-in-salesforce-1}
 
 När du har installerat eller uppdaterat Marketo Sales Insight för Salesforce1 visas intressanta ögonblick under leadets relaterade länkar.
 
-![](assets/seven.png)
+![](assets/using-interesting-moments-7.png)
+
+## Prenumerera på intressanta ögonblick {#subscribe-to-interesting-moments}
+
+Du kan prenumerera på ett intressant tillfälle genom att klicka på prenumerationsknappen på fliken Intressant stund eller i lead-flödet. Stegen nedan är desamma för båda.
+
+1. Klicka på prenumerationsikonen. Du kommer sedan till fliken E-postprenumeration.
+
+1. Du kan välja vilken typ av e-postavisering du vill få baserat på namn, konto, typ eller beskrivning.
+
+1. Välj vilken eller vilka e-postadresser du vill skicka aviseringarna till (dig själv/teammedlemmar)
+
+1. Klicka **Prenumerera**.
+
+![](assets/using-interesting-moments-8.png)
