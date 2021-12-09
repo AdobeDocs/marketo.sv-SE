@@ -3,7 +3,8 @@ description: Synkronisera avbeställningar med Salesforce - Marketo Docs - produ
 title: Synkronisera avbeställningar med Salesforce
 hide: true
 hidefromtoc: true
-source-git-commit: a4a92f2d557581d6685342f45c11c260cf9cad3b
+exl-id: b5b0f625-e38c-4a03-81e7-010082001636
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 0%

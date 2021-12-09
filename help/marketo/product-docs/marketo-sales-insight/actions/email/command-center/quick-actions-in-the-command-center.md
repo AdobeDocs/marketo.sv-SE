@@ -3,7 +3,8 @@ description: Snabbåtgärder i kommandocentralen - Marketo Docs - produktdokumen
 title: Snabbåtgärder i kommandocentralen
 hide: true
 hidefromtoc: true
-source-git-commit: f098742d384770983206b47cd9b5535fd6ab056f
+exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%

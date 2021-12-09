@@ -3,9 +3,10 @@ description: Disponera massutskick med Select and Send - Marketo Docs - produktd
 title: Disponera massutskick med Markera och skicka
 hide: true
 hidefromtoc: true
-source-git-commit: 765ce4de418a5565ae7528a49a6947c1e1bb1f3f
+exl-id: 8d9d0c78-1f01-48ad-93ac-5c353173c4f3
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

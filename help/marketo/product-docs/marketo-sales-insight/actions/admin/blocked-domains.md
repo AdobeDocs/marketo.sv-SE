@@ -3,9 +3,10 @@ description: Blockerade domäner - Marketo Docs - produktdokumentation
 title: Blockerade domäner
 hide: true
 hidefromtoc: true
-source-git-commit: 2501fe0c168219379c7d9429a5ff4505ea61d267
+exl-id: 004ba212-485e-4412-be75-7de13505d9b0
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -22,7 +23,7 @@ Hjälp säljteamet att nå framgång genom att förhindra dem från att oavsiktl
 
    ![](assets/blocked-domains-1.png)
 
-1. Klicka på **Allmänt** under Administratörsinställningar.
+1. Under Administratörsinställningar klickar du på **Allmänt**.
 
    ![](assets/blocked-domains-2.png)
 

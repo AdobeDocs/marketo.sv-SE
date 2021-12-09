@@ -3,9 +3,10 @@ description: Dialogrutor - Marketo Docs - produktdokumentation
 title: Dialogrutor
 hide: true
 hidefromtoc: true
-source-git-commit: de2c73003aa1d817fbaf1d6ed5e180e68fc64b72
+exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '745'
 ht-degree: 0%
 
 ---
@@ -16,11 +17,11 @@ Dialogrutor är individuella chattsamtal. Lär dig hur du anpassar dem visuellt,
 
 ## Skapa en ny dialogruta {#create-a-new-dialogue}
 
-1. Klicka på **Dialogrutor**.
+1. Klicka **Dialogrutor**.
 
    ![](assets/dialogues-1.png)
 
-1. Klicka på knappen **Skapa ny**.
+1. Klicka på **Skapa nytt** -knappen.
 
    ![](assets/dialogues-2.png)
 
@@ -38,23 +39,23 @@ På samma sätt som med Marketo smarta listor kan du definiera målgruppen med h
 
 **Kända personer**
 
-Det finns _många_-attributkombinationer att välja mellan. I det här exemplet riktar vi oss till alla **kända personer** i Kalifornien som arbetar på ett företag med mer än 50 anställda.
+Det finns _många_ attributkombinationer att välja mellan. I det här exemplet riktar vi oss mot alla **kända personer** i Kalifornien som arbetar på ett företag med över 50 anställda.
 
-1. Ta attributet **Persontillstånd** och dra det åt höger.
+1. Ta tag i **Persontillstånd** och dra den åt höger.
 
    ![](assets/dialogues-4.png)
 
-1. __ Den är inställd som standard. I fältet Välj värden skriver du in CA (du kan också klicka på listrutan och välja från listan).
+1. _Är_ är inställt som standard. I fältet Välj värden skriver du in CA (du kan också klicka på listrutan och välja från listan).
 
    ![](assets/dialogues-5.png)
 
-1. Ta attributet **Företagsstorlek** och dra det till den plats där det står _dra och släpp ett attribut här_.
+1. Ta tag i **Företagsstorlek** och dra det dit det ska _dra och släpp ett attribut här_.
 
    ![](assets/dialogues-6.png)
 
    >[!NOTE]
    >
-   >Du kan också välja ett attribut genom att klicka på dess **+**-ikon.
+   >Du kan också välja ett attribut genom att klicka på dess **+** ikon.
 
 1. Klicka på operatorlistrutan och välj **Större än**.
 
@@ -68,9 +69,9 @@ Och det är allt!
 
 **Anonyma personer**
 
-Det finns ett enkelt sätt att specifikt rikta in sig på personer som inte finns i din databas än. I det här exemplet riktar vi oss till alla **anonyma personer** i New York-området.
+Det finns ett enkelt sätt att specifikt rikta in sig på personer som inte finns i din databas än. I det här exemplet riktar vi oss mot alla **anonyma personer** i New York.
 
-1. Hämta attributet **Person Email** och dra det åt höger.
+1. Ta tag i **Personens e-postadress** och dra den åt höger.
 
    ![](assets/dialogues-9.png)
 
@@ -78,15 +79,15 @@ Det finns ett enkelt sätt att specifikt rikta in sig på personer som inte finn
 
    ![](assets/dialogues-10.png)
 
-1. Ta attributet **Inced State** och dra det till den plats där det står _dra och släpp ett attribut här_.
+1. Ta tag i **Inledningstillstånd** och dra det dit det ska _dra och släpp ett attribut här_.
 
    ![](assets/dialogues-11.png)
 
    >[!NOTE]
    >
-   >När någon besöker din webbplats, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) cookies dem och placerar dem i systemet. Vi slår upp deras IP-adresser i en särskild databas och drar nytta av all slags bra information.
+   >När någon besöker er webbplats [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) cookies och placerar dem i systemet. Vi slår upp deras IP-adresser i en särskild databas och drar nytta av all slags bra information.
 
-1. __ Den är inställd som standard. I fältet Välj värden skriver du NY (du kan också klicka på listrutan och välja från listan).
+1. _Är_ är inställt som standard. I fältet Välj värden skriver du NY (du kan också klicka på listrutan och välja från listan).
 
    ![](assets/dialogues-12.png)
 
@@ -111,7 +112,7 @@ Godtagbara format:
 
 >[!NOTE]
 >
->Om du använder en asterisk fungerar det som ett jokertecken för&quot;catch all&quot;. På så sätt placerar `https://*.website.com` dialogrutan på alla sidor på webbplatsen, inklusive underdomäner (t.ex.: `support.website.com`). Och `https://website.com/folder/*` placerar dialogrutan på varje HTML-sida i efterföljande mapp (t.ex.: Låt oss i det här fallet säga att mappen är &quot;sport&quot;, så: website.com/sports/baseball.html, website.com/sports/football.html osv.).
+>Om du använder en asterisk fungerar det som ett jokertecken för&quot;catch all&quot;. Så `https://*.website.com` skulle lägga dialogrutan på alla sidor på webbplatsen, inklusive underdomäner (t.ex.: `support.website.com`). Och `https://website.com/folder/*` placerar dialogrutan på varje HTML-sida i efterföljande mapp (t.ex.: Låt oss i det här fallet säga att mappen är &quot;sport&quot;, så: website.com/sports/baseball.html, website.com/sports/football.html osv.).
 
 ## Stream Designer {#stream-designer}
 
@@ -133,7 +134,7 @@ Strömdesignern innehåller olika kort som du kan lägga till för att forma cha
  </tr>
  <tr>
   <td><strong>Schemaläggare för avtalad tid</strong></td>
-  <td>Ger besökaren en kalender med tillgängliga datum för att schemalägga en uppföljning. Kalendertillgängligheten återspeglar <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">nästa agent på rad</a>.</td>
+  <td>Ger besökaren en kalender med tillgängliga datum för att schemalägga en uppföljning. Kalendertillgängligheten återspeglar <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">nästa anställd i rad</a>.</td>
  </tr>
  <tr>
   <td><strong>Mål</strong></td>
@@ -143,7 +144,7 @@ Strömdesignern innehåller olika kort som du kan lägga till för att forma cha
 
 **Skapa en ström**
 
-Det finns _många_ möjliga strömkombinationer. Låt oss titta på ett exempel [i den här artikeln](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
+Det finns _många_ möjliga kombinationer av strömmar. Låt oss titta på ett exempel [i den här artikeln](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
 
 ## Rapporter {#reports}
 

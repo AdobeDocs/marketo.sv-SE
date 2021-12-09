@@ -3,9 +3,10 @@ description: Bjud in användare och administratörer - Marketo Docs - produktdok
 title: Bjud in användare och administratörer
 hide: true
 hidefromtoc: true
-source-git-commit: 2501fe0c168219379c7d9429a5ff4505ea61d267
+exl-id: 00a6ea00-f8ba-4079-86dc-def44599b3ea
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -20,17 +21,17 @@ Det går snabbt och enkelt att lägga till användare eller administratörer!
 
    ![](assets/invite-users-and-admins-1.png)
 
-1. Välj **Användarhantering** under Administratörsinställningar.
+1. Under Administratörsinställningar väljer du **Användarhantering**.
 
    ![](assets/invite-users-and-admins-2.png)
 
-1. Klicka på knappen **Åtgärder** och välj **Bjud in användare**.
+1. Klicka på **Åtgärder** och markera **Bjud in användare**.
 
    ![](assets/invite-users-and-admins-3.png)
 
    >[!NOTE]
    >
-   >Du kan också välja **Bjud in användare via CSV** om du har alla i ett kalkylblad.
+   >Du kan också välja **Bjud in användare via CSV** om du har alla i listan i ett kalkylblad.
 
 1. Ange e-postadresserna till de personer du vill lägga till och klicka på **Bjud in** (det är valfritt att välja ett team att lägga till dem i).
 
@@ -40,7 +41,7 @@ Det går snabbt och enkelt att lägga till användare eller administratörer!
    >
    >Som standard läggs alla nya medlemmar till i gruppen Alla.
 
-1. Klicka på **OK**.
+1. Klicka **OK**.
 
    ![](assets/invite-users-and-admins-5.png)
 
@@ -56,11 +57,11 @@ Följ de här stegen för att göra en befintlig användare till administratör.
 
    ![](assets/invite-users-and-admins-6.png)
 
-1. Välj **Användarhantering** under Administratörsinställningar.
+1. Under Administratörsinställningar väljer du **Användarhantering**.
 
    ![](assets/invite-users-and-admins-7.png)
 
-1. Leta reda på den användare du vill ska vara administratör, klicka på listrutan Roll och välj **Admin**.
+1. Hitta den användare du vill göra till administratör, klicka på listrutan Roll och välj **Administratör**.
 
    ![](assets/invite-users-and-admins-8.png)
 

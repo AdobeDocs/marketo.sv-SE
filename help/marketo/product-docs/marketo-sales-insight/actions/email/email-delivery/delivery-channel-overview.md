@@ -3,7 +3,8 @@ description: Översikt över leveranskanalen - Marketo Docs - produktdokumentati
 title: Översikt över leveranskanalen
 hide: true
 hidefromtoc: true
-source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
+exl-id: 8dd6fe3e-86ae-4361-bc0a-6488dc1df9fa
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '668'
 ht-degree: 0%

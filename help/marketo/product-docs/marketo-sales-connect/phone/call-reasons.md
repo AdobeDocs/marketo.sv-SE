@@ -3,9 +3,10 @@ description: Samtalsorsaker - Marketo Docs - produktdokumentation
 title: Samtalsorsaker
 hide: true
 hidefromtoc: true
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
+source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -22,41 +23,37 @@ Låt säljteamen välja samtalsorsaker när de ringer samtal så att teamet kan 
 
 1. Klicka på kugghjulsikonen och välj **Inställningar**.
 
-PICC
+   ![](assets/call-reasons-1.png)
 
 1. Under Administratörsinställningar väljer du **Dialer**.
 
-PICC
+   ![](assets/call-reasons-2.png)
 
 1. Välj **Aktivera samtalsorsaker**.
 
-PICC
+   ![](assets/call-reasons-3.png)
 
-1. Välj TOMT
+1. Välj önskat behov av samtalsorsak.
 
-Välj&quot;Tillåt användare att ringa samtal utan att välja Anropsorsaker&quot; om du vill tillåta användare att slutföra ett samtal utan att behöva logga ett samtal eller välj&quot;Kräv att användare väljer Anropsorsaker innan de loggar samtal&quot; för att kräva
+   ![](assets/call-reasons-4.png)
 
 ## Skapa samtalsorsak {#create-call}
 
 1. Klicka på kugghjulsikonen och välj **Inställningar**.
 
-PICC
+   ![](assets/call-reasons-5.png)
 
 1. Under Administratörsinställningar väljer du **Dialer**.
 
-PICC
+   ![](assets/call-reasons-6.png)
 
 1. Klicka **Hantera samtalsorsaker**.
 
-PICC
+   ![](assets/call-reasons-7.png)
 
-1. Ange det önskade orsaksnamnet i textfältet.
+1. Ange det önskade namnet på samtalsorsaken i textfältet och klicka på **Lägg till**.
 
-PICC
-
-1. Klicka **Lägg till**.
-
-PICC
+   ![](assets/call-reasons-8.png)
 
 ## Välj en samtalsorsak {#select-a-call-reason}
 
@@ -64,27 +61,27 @@ När samtalsortimenten har aktiverats. Användarna kan välja ett när de ringer
 
 1. Klicka på samtalsknappen för att starta uppringaren.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Ange samtalsinformationen i telefonsvararen.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Klicka på ring.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Välj den anropsorsak som bäst beskriver samtalet.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Avsluta samtalet.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Logga samtalet.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 >[!MORELIKETHIS]
 >

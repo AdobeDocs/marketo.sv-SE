@@ -3,7 +3,8 @@ description: Konfiguration - Marketo Docs - produktdokumentation
 title: Konfiguration
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 Lär dig hur du anpassar utseendet på chatbot-dialogrutan.
 
-Klicka på **Konfiguration** för att komma igång.
+Kom igång genom att klicka **Konfiguration**.
 
 ![](assets/configuration-1.png)
 
@@ -28,7 +29,7 @@ Det finns flera olika anpassningsalternativ.
 
 Här definierar du utseendet på chatbot där dina dialogrutor ska visas: färger, teckensnitt, placering av robotwidgeten och chatbot-ens namn/avatar.
 
-Färgen i varje kategori bestäms av ett [hexadecimalt färgvärde](https://color.adobe.com/create/color-wheel) (t.ex. vitt = #ffffff, rött = #bf1932, osv.).
+Färgen för varje kategori bestäms av en [hexadecimalt färgvärde](https://color.adobe.com/create/color-wheel) (t.ex. vit = #ffffff, röd = #bf1932 osv.)
 
 ![](assets/configuration-3.png)
 
@@ -42,13 +43,13 @@ I Agentinställningar kan du lägga till en etikett i din chatbox (t.ex.: &quot;
 
 ![](assets/configuration-5.png)
 
-Kom ihåg att klicka på **Spara** när du är klar med ändringarna.
+Kom ihåg att klicka när du är klar med ändringarna **Spara**.
 
 ![](assets/configuration-6.png)
 
 ## Sekretessflik {#privacy-tab}
 
-Klicka på fliken **Sekretess** för att lägga till/redigera URL:en för webbplatsens sekretesspolicy (valfritt).
+Klicka på **Integritet** för att lägga till/redigera URL:en för webbplatsens sekretesspolicy (valfritt).
 
 ![](assets/configuration-7.png)
 

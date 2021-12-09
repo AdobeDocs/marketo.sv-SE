@@ -3,9 +3,10 @@ description: Alternativ för massutskick - Marketo Docs - produktdokumentation
 title: Alternativ för massutskick
 hide: true
 hidefromtoc: true
-source-git-commit: 765ce4de418a5565ae7528a49a6947c1e1bb1f3f
+exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

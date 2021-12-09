@@ -2,22 +2,21 @@
 unique-page-id: 10093688
 description: Lägg till anpassade Marketo-objektfält - Marketo Docs - produktdokumentation
 title: Lägg till anpassade Marketo-objektfält
-translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Lägg till anpassade Marketo-objektfält {#add-marketo-custom-object-fields}
 
 När du har skapat ett anpassat objekt måste du lägga till fält för att uppfylla dina affärsbehov.
 
-Fält definierar den specifika information som används av ett anpassat objekt. Länkfält har ett särskilt jobb för att ansluta anpassade objekt och beskrivs i en [separat artikel](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
+Fält definierar den specifika information som används av ett anpassat objekt. Länkfält har ett särskilt jobb för att ansluta anpassade objekt och täcks av en [separat artikel](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
-1. Klicka på **Admin** och välj **Marketo anpassade objekt** i **Databashantering**.
+1. Klicka **Administratör** och in **Databashantering**, markera **Anpassade Marketo-objekt**.
 
    ![](assets/image2016-1-18-9-3a2-3a6.png)
 
@@ -25,7 +24,7 @@ Fält definierar den specifika information som används av ett anpassat objekt. 
 
    ![](assets/image2016-1-18-9-3a5-3a3.png)
 
-1. Klicka på **Nytt fält** på fliken **Fält**.
+1. I **Fält** flik, klicka **Nytt fält**.
 
    ![](assets/image2015-9-15-16-3a53-3a40.png)
 
@@ -45,7 +44,7 @@ Fält definierar den specifika information som används av ett anpassat objekt. 
 
    ![](assets/image2015-10-5-11-3a37-3a24.png)
 
-1. Dra skjutreglaget för borttagning om du vill använda det nya fältet som en unik identifierare. Klicka på **Spara** för att slutföra.
+1. Dra skjutreglaget för borttagning om du vill använda det nya fältet som en unik identifierare. Klicka **Spara** till slut.
 
    ![](assets/image2015-10-5-11-3a40-3a12.png)
 
@@ -57,7 +56,7 @@ Fält definierar den specifika information som används av ett anpassat objekt. 
 
    >[!NOTE]
    >
-   >Om du skapar en en en-till-många-struktur måste du lägga till ett länkfält i det anpassade objektet. För en många-till-många-struktur behöver du inte ha något länkfält i det anpassade objektet, men du måste lägga till två länkfält i det mellanliggande objektet. Se [Lägg till Marketo anpassade objektlänkfält](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) för att skapa länkfälten och [Förstå Marketo anpassade objekt](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) för mer information om typer av anpassade objekt.
+   >Om du skapar en en en-till-många-struktur måste du lägga till ett länkfält i det anpassade objektet. För en många-till-många-struktur behöver du inte ha något länkfält i det anpassade objektet, men du måste lägga till två länkfält i det mellanliggande objektet. Se [Lägg till Marketo anpassade objektlänkfält](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) för att skapa länkfälten, och [Förstå anpassade Marketo-objekt](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) om du vill ha mer information om olika typer av anpassade objekt.
 
 >[!MORELIKETHIS]
 >

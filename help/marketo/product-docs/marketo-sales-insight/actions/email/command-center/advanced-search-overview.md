@@ -3,7 +3,8 @@ description: Advanced Search Overview - Marketo Docs - Product Documentation
 title: Översikt över avancerad sökning
 hide: true
 hidefromtoc: true
-source-git-commit: 1ec63edfb86f32a0d24f32330d76489b5f90e1cb
+exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 0%

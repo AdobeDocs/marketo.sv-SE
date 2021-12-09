@@ -3,9 +3,10 @@ description: Lägg till eller uppdatera din e-postsignatur - Marketo Docs - prod
 title: Lägg till eller uppdatera din e-postsignatur
 hide: true
 hidefromtoc: true
-source-git-commit: b7766e9a1a0799280050a0c2b2cfa6bee71e8de7
+exl-id: 5a8c2ca2-2f27-4478-984b-f6b7c62b178d
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

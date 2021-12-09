@@ -1,7 +1,8 @@
 ---
 description: Versionsinformation - augusti 2021 - Marketo Docs - produktdokumentation
 title: Versionsinformation - augusti 2021
-source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
+exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '922'
 ht-degree: 0%
@@ -75,7 +76,7 @@ Det här avsnittet innehåller nya funktioner för användare av Bizible som har
 
 * **Bizible on Adobe Unified Shell**: Bizibelns användning av Adobe Unified Shell ger användarna nya funktioner som kommer att visas i det Bizible-baserade programrubrikfältet och ger bättre åtkomst till supportresurser och programväxling. Adobe Unified Shell hjälper till att skapa en enhetlig upplevelse mellan Bizible-programmen och andra Adobe Experience Cloud-program.
 
-* **Bizible Domain Ownership and Self Management**: Bizibla användare kan använda Adobe Admin Console för att hantera de domäner de vill att Bizible ska spåra. Detta ger självbetjäning till en tidigare manuell process och ger en konsekvent upplevelse av hur domänägarskap och spårning hanteras i olika Adobe Experience Cloud-program.
+* **Bizible Domain Ownership and Self Management**: Bizibla användare kan använda Adobe Admin Console för att hantera de domäner de vill att Bizible ska spåra. Detta ger självbetjäning till en tidigare manuell process och ger en konsekvent upplevelse av hur domänägarskap och spårning hanteras i Adobe Experience Cloud-program.
 
 ## Meddelanden {#announcements}
 

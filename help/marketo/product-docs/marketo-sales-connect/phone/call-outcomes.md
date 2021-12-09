@@ -3,9 +3,10 @@ description: Resultat av samtal - Marketo Docs - produktdokumentation
 title: Utfall för samtal
 hide: true
 hidefromtoc: true
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
+source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -22,41 +23,41 @@ Låt säljteamen välja samtalsresultat när de ringer samtal så att teamet kan
 
 1. Klicka på kugghjulsikonen och välj **Inställningar**.
 
-PICC
+   ![](assets/call-outcomes-1.png)
 
 1. Under Administratörsinställningar väljer du **Dialer**.
 
-PICC
+   ![](assets/call-outcomes-2.png)
 
 1. Välj **Aktivera samtalsutfall**.
 
-PICC
+   ![](assets/call-outcomes-3.png)
 
 1. Välj önskat behov av samtalsresultat.
 
-PICC
+   ![](assets/call-outcomes-4.png)
 
 ## Skapa samtalsutfall {#create-call-outcomes}
 
 1. Klicka på kugghjulsikonen och välj **Inställningar**.
 
-PICC
+   ![](assets/call-outcomes-5.png)
 
 1. Under Administratörsinställningar väljer du **Dialer**.
 
-PICC
+   ![](assets/call-outcomes-6.png)
 
 1. Klicka **Hantera samtalsutfall**.
 
-PICC
+   ![](assets/call-outcomes-7.png)
 
 1. Ange det önskade namnet på samtalsresultatet i textfältet.
 
-PICC
+   ![](assets/call-outcomes-8.png)
 
 1. Klicka på listrutan Svarat och välj resultattyp (i det här exemplet väljer vi Svaret). Klicka sedan på **Lägg till**.
 
-PICC
+   ![](assets/call-outcomes-9.png)
 
 ## Välj ett samtalsutfall {#choose-a-call-outcome}
 
@@ -90,3 +91,4 @@ PICC
 >
 >* [Logga samtalsorsaker och samtalsresultat till Salesforce](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
 >* [Samtalsorsaker](/help/marketo/product-docs/marketo-sales-connect/phone/call-reasons.md)
+

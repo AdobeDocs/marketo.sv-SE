@@ -3,9 +3,10 @@ description: E-postkolumner och e-postsidlayout - Marketo Docs - Produktdokument
 title: E-postkolumner och sidlayout för e-post
 hide: true
 hidefromtoc: true
-source-git-commit: 8dccd250f5006b70f07b8179134b1db688380260
+exl-id: 004c9cdf-7ab1-4476-ba72-9074d978b887
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '513'
 ht-degree: 0%
 
 ---

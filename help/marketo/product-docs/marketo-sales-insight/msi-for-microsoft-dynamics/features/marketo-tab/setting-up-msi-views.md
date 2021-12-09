@@ -1,9 +1,10 @@
 ---
 description: Konfigurera MSI-vyer - Marketo Docs - produktdokumentation
 title: Konfigurera MSI-vyer
-source-git-commit: 8227648ce67bf0f9f8b3b2fea7445850d8e154d5
+exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ När du installerar plugin-programmet Sales Insight i Dynamics läggs de bästa 
 
 1. Klicka i trädet till vänster på **Klienttillägg** och dubbelklicka **Webbplatskarta**.
 
-1. Klicka på högerpilen för att gå till nästa sida. Under Försäljning hittar du Marketo. Om du inte gör det måste du kontrollera att du har importerat paketet korrekt.
+1. Klicka på högerpilen för att gå till nästa sida. Under Försäljning hittar du Marketo. Om du inte gör det kontrollerar du att du har importerat paketet korrekt.
 
    >[!NOTE]
    >
