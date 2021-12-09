@@ -4,9 +4,9 @@ title: Samtalsorsaker
 hide: true
 hidefromtoc: true
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
-source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
+source-git-commit: b8fcbc13925e3a292add3e9148ddefcfca3344b4
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -61,27 +61,27 @@ När samtalsortimenten har aktiverats. Användarna kan välja ett när de ringer
 
 1. Klicka på samtalsknappen för att starta uppringaren.
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. Ange samtalsinformationen i telefonsvararen.
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. Klicka på ring.
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. Välj den anropsorsak som bäst beskriver samtalet.
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. Avsluta samtalet.
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. Logga samtalet.
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 >[!MORELIKETHIS]
 >
