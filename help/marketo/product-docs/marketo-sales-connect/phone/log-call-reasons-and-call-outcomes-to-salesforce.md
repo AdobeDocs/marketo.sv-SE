@@ -4,9 +4,9 @@ title: Logga samtalsorsaker och samtalsresultat till Salesforce
 hide: true
 hidefromtoc: true
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
-source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
+source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---
@@ -66,6 +66,10 @@ Om du vill använda dessa fält måste du först skapa fältet som ett anpassat 
 
 ### Lägg till anpassat aktivitetsfält till aktivitetssidlayout i Salesforce Classic {#add-custom-activity-field-to-task-page-layout-in-salesforce-classic}
 
+>[!NOTE]
+>
+>Du behöver bara följa dessa steg om du inte har valt önskad sidlayout i steg 9 ovan.
+
 1. I Salesforce klickar du på **Inställningar**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-10.png)
@@ -82,79 +86,75 @@ Om du vill använda dessa fält måste du först skapa fältet som ett anpassat 
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-13.png)
 
-1. Dra och släpp fältet till sidlayouten Uppgift.
+1. Dra och släpp fältet till önskat avsnitt på sidan Uppgift.
 
-   PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-14.png)
 
 1. Klicka **Spara**.
 
-   PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-15.png)
 
 ## Salesforce Lightning {#salesforce-lightning}
 
 ### Skapa anpassat aktivitetsfält i Salesforce Lightning {#create-custom-activity-field-in-salesforce-lightning}
 
-1. I Salesforce klickar du på kugghjulsikonen längst upp till höger.
+1. Klicka på kugghjulsikonen uppe till höger i Salesforce och välj **Inställningar**.
 
-PICC
-
-1. Klicka **Inställningar**.
-
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-16.png)
 
 1. Klicka **Objektshanteraren**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-17.png)
 
-1. Ange Aktivitet i rutan Snabbsökning och klicka på aktivitetsetiketten för att öppna objektets inställningar.
+1. Skriv&quot;Aktivitet&quot; i rutan Snabbsökning.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 
-1. Klicka på till vänster **Fält och relationer**.
+1. Klicka på **Aktivitet** label.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-19.png)
+
+1. Klicka **Fält och relationer**.
+
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
 1. Klicka **Nytt**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
 ## Lägg till anpassat aktivitetsfält i aktivitetssidlayout i Salesforce Lightning {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
 
-1. I Salesforce klickar du på kugghjulsikonen längst upp till höger.
+1. Klicka på kugghjulsikonen uppe till höger i Salesforce och välj **Inställningar**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-22.png)
 
-1. Klicka **Inställningar**.
+1. Klicka **Objektshanteraren**.
 
-PICC
-
-1. Gå till Konfigurera????????????
-
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-23.png)
 
 1. Skriv &quot;Aktivitet&quot; i rutan Snabbsökning.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-24.png)
 
-1. Klicka på Aktivitet.
+1. Klicka på **Uppgift** label.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-25.png)
 
-1. Klicka på Sidlayouter.
+1. Klicka **Sidlayouter**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-26.png)
 
 1. Klicka på Öppna den uppgiftssidlayout som du vill lägga till det här fältet i.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-27.png)
 
-1. Dra och släpp fältet till sidlayouten Uppgift.
+1. Dra och släpp fältet till önskat avsnitt på sidan Uppgift.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-28.png)
 
-1. Klicka på Spara.
+1. Klicka **Spara**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-29.png)
 
 >[!MORELIKETHIS]
 >
