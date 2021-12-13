@@ -1,17 +1,16 @@
 ---
 unique-page-id: 2359652
-description: Skapa ett engagemangsprogram - Marketo Docs - Produktdokumentation
+description: Skapa ett engagemangsprogram - Marketo Docs - produktdokumentation
 title: Skapa ett engagerande program
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 90f76d04-79cf-4fa1-999b-54d4ae34223f
+source-git-commit: 56db82ef98d774f8ac56c1401ef7ef275862d1dc
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
-
-# Skapa ett engagemangsprogram {#create-an-engagement-program}
+# Skapa ett engagerande program {#create-an-engagement-program}
 
 Ni kan använda engagemangsprogram i Marketo för att enkelt skapa e-postnäring.
 
@@ -23,7 +22,7 @@ Ni kan använda engagemangsprogram i Marketo för att enkelt skapa e-postnäring
 
    ![](assets/newprogramlifecycle.jpg)
 
-1. Ange ett **namn**, välj **Förlovning** för **Programtyp** och klicka på **Skapa**.
+1. Ange **Namn**, markera **Engagemang** for **Programtyp** och klicka **Skapa**.
 
    ![](assets/image2014-9-15-15-3a35-3a32.png)
 
@@ -33,6 +32,6 @@ Ni kan använda engagemangsprogram i Marketo för att enkelt skapa e-postnäring
 
    >[!MORELIKETHIS]
    >
-   >* [Lägg till innehåll i en ström](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
+   >* [Lägg till innehåll i en ström](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
    >* [Ange strömavslut](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
 

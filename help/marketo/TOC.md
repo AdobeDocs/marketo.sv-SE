@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+source-git-commit: 56db82ef98d774f8ac56c1401ef7ef275862d1dc
 workflow-type: tm+mt
-source-wordcount: '8159'
+source-wordcount: '8174'
 ht-degree: 0%
 
 ---
@@ -1124,6 +1124,7 @@ ht-degree: 0%
             + [Använda gruppåtgärder i Salesforce Classic](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-classic.md)
             + [Använda gruppåtgärder i Salesforce Lightning](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-lightning.md)
          + Salesforce-integrering {#salesforce-integration}
+            + [Konfigurera detaljanpassning av Salesforce-aktivitet](product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
             + [Anslut ditt Sales Connect-konto till Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
             + [Koppla från Salesforce från ditt Sales Connect-konto](product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)
             + [Så här åtgärdar du&quot;Vi kunde inte autentisera din begäran&quot; vid anslutning till Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
@@ -1246,6 +1247,8 @@ ht-degree: 0%
          + [Dela samtalsinspelningar med ditt team](product-docs/marketo-sales-connect/phone/share-call-recordings-with-your-team.md)
          + [Inställningar för dubbelpartsgodkännande](product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
       + Uppgifter {#tasks}
+         + [Skapa och tilldela påminnelseuppgifter](product-docs/marketo-sales-connect/tasks/create-and-assign-reminder-tasks.md)
+         + [Synkronisering av påminnelseaktivitet med Salesforce](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
          + [Synkroniserar Sales Connect-aktiviteter med Salesforce för första gången](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
       + Mallar {#templates}
          + [Lägga till automatisk uppsägning av prenumerationer i en mall](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)
