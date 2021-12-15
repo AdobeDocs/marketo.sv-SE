@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 56db82ef98d774f8ac56c1401ef7ef275862d1dc
+source-git-commit: 49b1bd707b8394ceeea0984c4c11d3ac88ab81b6
 workflow-type: tm+mt
-source-wordcount: '8174'
+source-wordcount: '8189'
 ht-degree: 0%
 
 ---
@@ -1306,6 +1306,9 @@ ht-degree: 0%
                + [Översikt över leveranskanalen](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
                + [Begränsning för e-postanslutning](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
                + [Konfigurera en anpassad leveranskanal för ditt team](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
+            + Salesforce-konfiguration {#email-delivery}
+               + [Avinstallera Salesforce Classic Customization Package](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
+               + [Avinstallera Salesforce Lightning Customization Package](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
             + Avbeställ {#unsubscribes}
                + [Avbeställ prenumeration - översikt](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
                + [Anpassa meddelande om att avbryta prenumeration på länk](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
@@ -1737,6 +1740,7 @@ ht-degree: 0%
          + [Versionsinformation: 21 jan](release-notes/previous-releases/2021/release-notes-jan-21.md)
          + [Versionsinformation: 21 maj](release-notes/previous-releases/2021/release-notes-may-21.md)
          + [Versionsinformation: 21 augusti](release-notes/previous-releases/2021/release-notes-aug-21.md)
+         + [Versionsinformation: 21 oktober](release-notes/previous-releases/2021/release-notes-oct-21.md)
       + 2020 {#2020}
          + [Versionsinformation: 20 januari](release-notes/previous-releases/2020/release-notes-jan-20.md)
          + [Versionsinformation: 20 feb](release-notes/previous-releases/2020/release-notes-feb-20.md)
