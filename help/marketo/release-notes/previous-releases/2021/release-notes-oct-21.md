@@ -1,8 +1,7 @@
 ---
 description: Versionsinformation - oktober 2021 - Marketo Docs - produktdokumentation
 title: Versionsinformation - oktober 2021
-exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 49b1bd707b8394ceeea0984c4c11d3ac88ab81b6
+source-git-commit: 4c49c49ca479d176a0a268c2efc8952e9ecc866f
 workflow-type: tm+mt
 source-wordcount: '1116'
 ht-degree: 0%
