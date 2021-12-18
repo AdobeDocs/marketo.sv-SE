@@ -8,7 +8,7 @@ git-repo: https://git.corp.adobe.com/AdobeDocs/marketo.sv-SE
 index: true
 source-git-commit: 83318a6cbba230271f048efcc0ef8c13de3141c1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
