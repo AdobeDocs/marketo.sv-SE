@@ -2,24 +2,22 @@
 unique-page-id: 4720275
 description: Skapa en anpassad målgrupp i Facebook - Marketo Docs - produktdokumentation
 title: Skapa en anpassad målgrupp i Facebook
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
+source-git-commit: 68befac1804f2d6e4d42a2967577e14fef8a6ff1
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
 
 ---
 
-
 # Skapa en anpassad målgrupp i Facebook {#create-a-custom-audience-in-facebook}
 
 >[!PREREQUISITES]
 >
->* [Lägg till anpassade Facebook-målgrupper som en LaunchPoint-](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) tjänst i administratörsavsnittet.
->* [Acceptera Facebooks anpassade målgruppsvillkor ](https://www.facebook.com/ads/manage/customaudiences/tos.php) i ditt Facebook-konto.
+>* [Lägg till anpassade Facebook-målgrupper som en LaunchPoint-tjänst](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) i avsnittet Admin.
+>* [Acceptera Facebook anpassade målgruppsvillkor](https://www.facebook.com/ads/manage/customaudiences/tos.php) på ditt Facebook-konto.
 
 >
-
 
 
 >[!TIP]
@@ -28,23 +26,23 @@ ht-degree: 0%
 
 1. Hitta och välj den smarta eller statiska lista som innehåller de leads du vill skapa målgruppen från.
 
-   ![](assets/1.png)
+   ![](assets/create-a-custom-audience-in-facebook-1.png)
 
-1. Välj fliken **Leads** och klicka sedan på ikonen **Skicka via Ad Bridge** längst ned.
+1. Välj **Leads** klickar du på **Skicka via Ad Bridge** ikonen längst ned.
 
-   ![](assets/222.png)
+   ![](assets/create-a-custom-audience-in-facebook-2.png)
 
-1. Välj **Facebook** och klicka på **Nästa**.
+1. Välj **Facebook** och klicka **Nästa**.
 
-   ![](assets/two.png)
+   ![](assets/create-a-custom-audience-in-facebook-3.png)
 
-1. Klicka på listrutan **Målgrupp** och välj **+ Ny målgrupp**.
+1. Klicka på **Målgrupp** nedrullningsbar meny och välj **+ Ny publik**.
 
-   ![](assets/four.png)
+   ![](assets/create-a-custom-audience-in-facebook-4.png)
 
-1. Skriv in ett **målgruppsnamn**. Klicka på **Uppdatera**.
+1. Text i en **Målgruppsnamn**. Klicka **Uppdatera**.
 
-   ![](assets/five.png)
+   ![](assets/create-a-custom-audience-in-facebook-5.png)
 
    >[!NOTE]
    >
@@ -52,24 +50,24 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Vill du byta ut en ny publik mot en befintlig som är kopplad till en annonsuppsättning eller grupp? Markera kryssrutan **Ersätt en befintlig målgrupp**. Om du gör detta kommer **inte** att ta bort målgruppen som ersätts.
+   >Vill du byta ut en ny publik mot en befintlig som är kopplad till en annonsuppsättning eller grupp? Välj **Ersätta en befintlig målgrupp** kryssruta. Om du gör det här kommer det att **not** ta bort den målgrupp som ersätts.
 
 1. När du är klar uppdateras statusdialogrutan.
 
-   ![](assets/six.png)
+   ![](assets/create-a-custom-audience-in-facebook-6.png)
 
-   Och det är allt! På Facebook ser du den nya målgruppen i **Ads Manager > Publiker**.
+   Och det är allt! I Facebook ser du den nya publiken i **Ads Manager > Publiker**.
 
-   ![](assets/image2014-12-10-11-3a38-3a32.png)
+   ![](assets/create-a-custom-audience-in-facebook-7.png)
 
    >[!NOTE]
    >
-   >Alla listor som du flyttar över till Facebook blir statiska. Smarta listor i Marketo uppdaterar inte automatiskt målgruppslistan i Facebook så att den återspeglar ändringar som gjorts efter överföringen.
+   >Alla listor som du flyttar över till Facebook blir statiska. Smarta listor i Marketo kommer inte att automatiskt uppdatera målgruppslistan i Facebook för att återspegla ändringar som gjorts efter överföringen.
 
    >[!TIP]
    >
-   >Se [Facebook-utbildningsvägen för Marketo-kunder](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi). Det täcker allt ni behöver veta, från att skapa en Facebook-sida till att målinrikta era Facebook-annonser med hjälp av Marketos annonsnätverksintegreringar.
+   >Se [Facebook utbildningsväg för Marketo-kunder](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi). Det täcker allt ni behöver veta, från att skapa en Facebook-sida till att målinrikta era Facebook-annonser med hjälp av Marketo nätverksintegreringar för annonser.
 
    >[!NOTE]
    >
-   >[Lägg till leads till en anpassad målgrupp på Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+   >[Lägga till leads till en anpassad målgrupp i Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
