@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 82c75d52caf3a0320cd3e8534b3b0870cf12d660
+source-git-commit: b700993d0fc9a7703e8e812ca3d6adee1e1e6d9b
 workflow-type: tm+mt
-source-wordcount: '1050'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -87,6 +87,6 @@ Marketo Engage-kunder som också använder Adobe Experience Platform (AEP) kan m
 
 * **E-postverifiering**: Från och med den här versionen kommer Marketo Engage-prenumerationer att få användare som inte är API-endast att verifiera e-postadresser. Katalogtjänstautentiserade användare får automatiskt sina e-postmeddelanden verifierade när deras prenumeration aktiveras med e-postverifiering. E-postverifiering för dem som använder funktionen&quot;Inbjudan till användardialogruta&quot; eller för dem som har en prenumeration som har ett enda e-postmeddelande kopplat till flera användare i prenumerationen kommer att fördröjas och sammanfalla med den borttagna funktionen i mars.
 
-* **Logga in i dialogrutan Bjud in användare**: I mars kommer den befintliga valfria funktionen&quot;Logga in i dialogrutan Bjud in användare&quot; att bli inaktuell. Funktionen&quot;Logga in i inbjudan till användardialogruta&quot; åsidosätts av funktionen Universal ID, som krävs för den kommande systemintegrationen i Adobe Identity Management och som aktiverades i augusti 2021 för alla prenumerationer. Som ett resultat av borttagningen kommer Marketo Engage att tvinga alla användar-ID:n (inloggningar) att matcha användarens e-postadress och endast tillåta att en användare kopplas per e-postadress inom en prenumeration.
+* **Logga in i dialogrutan Bjud in användare**: I mars kommer den befintliga valfria funktionen&quot;Logga in i dialogrutan Bjud in användare&quot; att bli inaktuell. Funktionen&quot;Logga in i inbjudan till användardialogruta&quot; åsidosätts av funktionen Universal ID, som krävs för den kommande systemintegrationen i Adobe Identity Management och som aktiverades i augusti 2021 för alla prenumerationer. Som ett resultat av borttagningen tvingar Marketo Engage endast en användare att kopplas per e-postadress inom en prenumeration.
 
 **Marketo Engage-domäner - konfiguration för Sales Insight**: För Marketo Engage-domäner som inte har SSL-certifikat aktiverat och https://, misslyckas anrop med ett SSL-handskakningsfel. Därför kommer dessa domäner att upphöra. Detta innebär att användare av Sales Insight med en äldre konfiguration som pekar på någon av dessa domäner kan råka ut för bildtextsfel på sin Lead-, Contact-, Account-, Opportunity Panels- eller Marketo Global-sida. Vi rekommenderar att du uppdaterar din [Marketo Engage-konfiguration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) i Salesforce om det här felet inträffar. Du behöver bara uppdatera inloggningsuppgifterna för Marketo Engage som är markerade i avsnittet&quot;Marketo Sales Insight Config&quot; i dokumentet.
