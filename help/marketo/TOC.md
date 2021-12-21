@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 61188d96c4eeb39170166d176dce91153819c9d4
+source-git-commit: c4db281bc1b92bdd3ecc3c8b0aaf7e2f21d1f987
 workflow-type: tm+mt
-source-wordcount: '8200'
+source-wordcount: '8205'
 ht-degree: 0%
 
 ---
@@ -1276,11 +1276,12 @@ ht-degree: 0%
    + Marketo Sales Insight {#marketo-sales-insight}
       + Åtgärder {#actions}
          + Komma igång {#getting-started}
+            + [MSI Actions User Onboarding Guide](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-user-onboarding-guide.md)
+            + [Ändra ditt Marketo-lösenord](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + E-postinställningar {#email-settings}
                + [Verifiera din e-postadress](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
                + [Lägg till eller uppdatera din e-postsignatur](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
                + [Lägg till identitet](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
-            + [Ändra ditt Marketo-lösenord](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
          + Administratör {#admin}
             + [Blockerade domäner](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [Låsning av innehåll](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
@@ -1307,7 +1308,7 @@ ht-degree: 0%
                + [Översikt över leveranskanalen](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
                + [Begränsning för e-postanslutning](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
                + [Konfigurera en anpassad leveranskanal för ditt team](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
-            + Salesforce-konfiguration {#email-delivery}
+            + Salesforce-konfiguration {#salesforce-configuration}
                + [Konfigurering av MSI-åtgärder i Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
                + [Avinstallera Salesforce Classic Customization Package](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
                + [Avinstallera Salesforce Lightning Customization Package](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
