@@ -1,11 +1,11 @@
 ---
-description: MSI Actions Onboarding Guide - Marketo Docs - produktdokumentation
-title: MSI Actions Onboarding Guide
+description: MSI Actions User Onboarding Guide - Marketo Docs - produktdokumentation
+title: MSI Actions User Onboarding Guide
 hide: true
 hidefromtoc: true
-source-git-commit: aa58277a9620c5c187e9bd1e5c691b94b64b0968
+source-git-commit: 61188d96c4eeb39170166d176dce91153819c9d4
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -22,15 +22,15 @@ Nya användare måste följa stegen nedan.
 
 1. I välkomstmeddelandet klickar du på **Kom igång**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-1.png)
 
 1. Klicka **Aktivera konto med Salesforce**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-2.png)
 
 1. Om du redan är inloggad på ditt Salesforce-konto dirigeras du automatiskt till nästa skärm. Om du inte är inloggad gör du det nu.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-3.png)
 
 >[!NOTE]
 >
@@ -38,31 +38,31 @@ PICC
 
 1. Klicka **Tillåt**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-4.png)
 
 1. Klicka **Starta**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-5.png)
 
 1. Klicka **Nästa**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-6.png)
 
 1. Välj den e-postklient som du använder (Gmail eller Outlook) och klicka på **Nästa**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-7.png)
 
 1. Ange din e-postadress och klicka på **Nästa**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-8.png)
 
 1. Ange ditt lösenord och klicka på **Nästa**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-9.png)
 
 1. Klicka **Fortsätt**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-10.png)
 
 >[!NOTE]
 >
@@ -70,24 +70,24 @@ PICC
 
 1. Meddelandet Konfigurera e-postanslutning visas, och sedan skickas du till nästa skärm.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-11.png)
 
-1. Ange din anpassade signatur (du kan göra detta senare om du vill via din profilsida).
+1. Ange din egen signatur och klicka **Spara** (om du vill göra detta senare via din profilsida klickar du på **Hoppa över**).
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-12.png)
 
 1. Klicka **Slutför**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-13.png)
 
 1. Du ser ett alternativ för att visa en snabbtitt på Marketo säljåtgärder. Klicka **Nästa** för att visa, eller **Inte nu** för att spara senare.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-14.png)
 
 1. När du är klar med demon, eller om du hoppade över den, väljer du om du vill logga in direkt i webbprogrammet eller ditt Salesforce-konto där du kan komma åt alla funktioner från MSI-panelen (i det här exemplet väljer vi **Starta Salesforce**).
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-15.png)
 
 1. I Salesforce (Classic eller Lightning) kan du navigera till valfri lead, kontakt, konto eller affärsmöjlighet. Alla säljåtgärder är tillgängliga via listrutan på MSI-panelen.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-16.png)
