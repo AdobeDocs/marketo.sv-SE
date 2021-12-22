@@ -3,9 +3,9 @@ description: MSI Actions Admin Guide - Marketo Docs - produktdokumentation
 title: Administratörshandbok för MSI-åtgärder
 hide: true
 hidefromtoc: true
-source-git-commit: 9ee07611ffae25fea4bffa3124927083bf187ddd
+source-git-commit: 55a677339f03b11ac3c2bdf58fdb83fdbd1cd4b8
 workflow-type: tm+mt
-source-wordcount: '509'
+source-wordcount: '491'
 ht-degree: 0%
 
 ---
@@ -57,11 +57,11 @@ ht-degree: 0%
 
 1. I Marketo klickar du på **Administratör**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-1.png)
 
 1. Klicka **Försäljningsinsikter** sedan **Åtgärdskonfiguration**. Välj i en lista över Marketo-administratörer som du vill bjuda in och klicka på **Skicka inbjudan**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-2.png)
 
 Användaren får ett e-postmeddelande med steg för att få åtkomst till kontot.
 
@@ -73,19 +73,19 @@ Användaren får ett e-postmeddelande med steg för att få åtkomst till kontot
 
 1. Klicka på kugghjulsikonen på ditt Marketo-konto och välj **Inställningar**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-3.png)
 
 1. Under Administratörsinställningar klickar du på **Salesforce**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-4.png)
 
 1. Klicka på fliken Anslutningar och anpassningar **Anslut**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-5.png)
 
 1. Klicka **OK**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-6.png)
 
 Om du redan är inloggad i Salesforce är du ansluten. Om du inte gör det blir du ombedd att logga in.
 
@@ -93,13 +93,15 @@ Om du redan är inloggad i Salesforce är du ansluten. Om du inte gör det blir 
 
 1. Klicka på kugghjulsikonen på ditt Marketo-konto och välj **Inställningar**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-7.png)
 
 1. Under Administratörsinställningar klickar du på **Marketo**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-8.png)
 
 1. Klicka **koppla**. Ditt konto ansluts då.
+
+   ![](assets/msi-actions-admin-guide-9.png)
 
 >[!NOTE]
 >
@@ -107,21 +109,21 @@ PICC
 
 ## Initiera datasynkronisering {#initiate-data-sync}
 
-1. I Marketo klickar du på Admin.
+1. I Marketo klickar du på **Administratör**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-10.png)
 
-1. Klicka på Sales Insight och sedan på Actions Config.
+1. Klicka på Sales Insight.
 
-PICC
+   ![](assets/msi-actions-admin-guide-11.png)
 
-1. Klicka på Synkroniseringskortet för åtgärdsfält **Synkronisera**.
+1. Klicka på fliken Actions Config. Klicka på Synkroniseringskortet för åtgärdsfält **Synkronisera**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-12.png)
 
 1. En förhandsgranskning av fälten som ska synkroniseras visas. Klicka **Starta synkronisering**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-13.png)
 
 Personposter som finns i Marketo och Salesforce synkroniseras med ditt Marketo Sales Apps-konto.
 
@@ -129,17 +131,19 @@ Personposter som finns i Marketo och Salesforce synkroniseras med ditt Marketo S
 
 1. Klicka på kugghjulsikonen på ditt Marketo-konto och välj **Inställningar**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-14.png)
 
 1. Under Administratörsinställningar väljer du **Användarhantering**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-15.png)
 
 1. Klicka **Åtgärder** och markera **Bjud in användare**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-16.png)
 
 1. Ange e-postadress(er) och klicka på **Bjud in**.
+
+   ![](assets/msi-actions-admin-guide-17.png)
 
 >[!NOTE]
 >
@@ -151,23 +155,23 @@ Du får ett bekräftelsemeddelande.
 
 1. Klicka på kugghjulsikonen på ditt Marketo-konto och välj **Inställningar**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-18.png)
 
 1. Under Administratörsinställningar väljer du **Användarhantering**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-19.png)
 
 1. Klicka **Åtgärder** och markera **Bjud in användare via CSV**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-20.png)
 
 1. Bläddra efter CSV-filen på datorn, markera den och klicka på **Nästa**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-21.png)
 
 1. Bekräfta att fälten är korrekt mappade och klicka på **Bjud in**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-22.png)
 
 Du får ett bekräftelsemeddelande när inbjudningarna har skickats.
 
