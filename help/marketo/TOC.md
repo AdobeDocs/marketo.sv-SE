@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 0ed5981470998dadd5f42384cd2e9572fec94ef6
+source-git-commit: a5bc634bd3b5ec0849617a9fe366a106691ce149
 workflow-type: tm+mt
-source-wordcount: '8214'
+source-wordcount: '8208'
 ht-degree: 0%
 
 ---
@@ -548,7 +548,6 @@ ht-degree: 0%
             + [Fältmappning för standardDynamics](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/default-dynamics-field-mapping.md)
             + [Microsoft Dynamics Sync: Kontosynkronisering](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
             + [Microsoft Dynamics Sync: Kontaktsynkronisering](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
-            + [Microsoft Dynamics Sync: Synkronisering av anpassad entitet](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)
             + [Aktivera synkronisering för en anpassad entitet](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync/enable-sync-for-a-custom-entity.md)
             + [Microsoft Dynamics Sync: Fältsynkronisering](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync.md)
             + [Använd snabbsynkronisering med Microsoft Dynamics för ett nytt anpassat fält](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)
