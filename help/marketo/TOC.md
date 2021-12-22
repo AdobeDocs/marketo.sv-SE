@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 23873e440f194f75a39532d650cc3e18e3baf98c
+source-git-commit: 0ed5981470998dadd5f42384cd2e9572fec94ef6
 workflow-type: tm+mt
-source-wordcount: '8209'
+source-wordcount: '8214'
 ht-degree: 0%
 
 ---
@@ -1285,6 +1285,7 @@ ht-degree: 0%
                + [Lägg till identitet](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
          + Administratör {#admin}
             + [Blockerade domäner](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
+            + [Anslut ny administratör till Marketo](product-docs/marketo-sales-insight/actions/admin/connect-new-admin-to-marketo.md)
             + [Låsning av innehåll](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
             + [Skapa ett team](product-docs/marketo-sales-insight/actions/admin/creating-a-team.md)
             + [Konfigurera anpassad domänspårning](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
