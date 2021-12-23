@@ -3,7 +3,7 @@ unique-page-id: 3571809
 description: Steg 3 av 3 - Ansluta Microsoft Dynamics med Marketo (On-Premises 2011) - Marketo Docs - produktdokumentation
 title: Steg 3 av 3 - Ansluta Microsoft Dynamics med Marketo (lokal version 2011)
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
-source-git-commit: 2568d3414c8aaec882b79442f6312bae3b9514ab
+source-git-commit: f130fa1187ccead6573f76ff947e55d42f6962e4
 workflow-type: tm+mt
 source-wordcount: '364'
 ht-degree: 0%
@@ -16,8 +16,8 @@ Okej! Vi installerade lösningen och konfigurerade synkroniseringsanvändaren. D
 
 >[!PREREQUISITES]
 >
->* [Steg 1 av 3: Installera Marketo Solution (2011 On-Premises)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
->* [Steg 2 av 3: Konfigurera Marketo Sync-användare i Dynamics (lokal 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
+>* [Steg 1 av 3: Installera Marketo Solution (2011 On-Premises)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
+>* [Steg 2 av 3: Konfigurera Marketo Sync-användare i Dynamics (lokal 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
 
 
 >[!NOTE]
