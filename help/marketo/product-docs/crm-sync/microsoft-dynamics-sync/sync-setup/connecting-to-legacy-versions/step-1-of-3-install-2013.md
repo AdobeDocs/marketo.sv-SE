@@ -3,7 +3,7 @@ unique-page-id: 3571813
 description: Steg 1 av 3 - Installera Marketo Solution i Dynamics (2013 On-Premises) - Marketo Docs - Produktdokumentation
 title: Steg 1 av 3 - Installera Marketo Solution i Dynamics (On-Premises 2013)
 exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
-source-git-commit: 2568d3414c8aaec882b79442f6312bae3b9514ab
+source-git-commit: 64c5f03bd2320bfbffd257684d1482e995def83a
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
@@ -94,4 +94,4 @@ Det var väl inte så illa? Kom igen, jag fortsätter gå dig genom resten.
 
 >[!MORELIKETHIS]
 >
->[Steg 2 av 3: Konfigurera Synkronisera användare för Marketo (lokal version 2013)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
+>[Steg 2 av 3: Konfigurera Synkronisera användare för Marketo (lokal version 2013)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)

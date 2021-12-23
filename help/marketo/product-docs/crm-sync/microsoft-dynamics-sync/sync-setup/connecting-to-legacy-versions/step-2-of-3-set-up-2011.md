@@ -3,7 +3,7 @@ unique-page-id: 3571807
 description: Steg 2 av 3 - Konfigurera Marketo Sync User in Dynamics (On-Premises 2011) - Marketo Docs - Produktdokumentation
 title: Steg 2 av 3 - Konfigurera Marketo Sync User in Dynamics (On-Premises 2011)
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
-source-git-commit: f130fa1187ccead6573f76ff947e55d42f6962e4
+source-git-commit: 64c5f03bd2320bfbffd257684d1482e995def83a
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
@@ -52,7 +52,7 @@ Tilldela endast Marketo Sync User-rollen till Marketo sync-användaren. Du behö
 
    >[!TIP]
    >
-   >Om du inte ser rollen går du tillbaka till [steg 1 av 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md) och importera lösningen.
+   >Om du inte ser rollen går du tillbaka till [steg 1 av 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install.md) och importera lösningen.
 
    >[!NOTE]
    >
@@ -68,7 +68,7 @@ Nästan klart! Vi har bara några sista konfigurationer innan vi går vidare til
 
    >[!NOTE]
    >
-   >Om Marketo Config saknas kan du försöka uppdatera sidan. Om problemet kvarstår [publicera Marketo-lösningen igen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md) eller logga ut och in igen.
+   >Om Marketo Config saknas kan du försöka uppdatera sidan. Om problemet kvarstår [publicera Marketo-lösningen igen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install.md) eller logga ut och in igen.
 
 1. Klicka **Standard**.
 
@@ -100,4 +100,4 @@ Bra jobbat!
 
 >[!MORELIKETHIS]
 >
->[Steg 3 av 3: Anslut Microsoft Dynamics med Marketo (lokal version 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
+>[Steg 3 av 3: Anslut Microsoft Dynamics med Marketo (lokal version 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect.md)

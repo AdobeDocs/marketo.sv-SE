@@ -3,7 +3,7 @@ unique-page-id: 3571816
 description: Steg 2 av 3 - Konfigurera Sync User for Marketo (2013 On-Premises) - Marketo Docs - Produktdokumentation
 title: Steg 2 av 3 - Konfigurera Synkronisera användare för Marketo (lokal version 2013)
 exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
-source-git-commit: f130fa1187ccead6573f76ff947e55d42f6962e4
+source-git-commit: 64c5f03bd2320bfbffd257684d1482e995def83a
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 0%
@@ -52,7 +52,7 @@ Tilldela endast Marketo Sync User-rollen till Marketo sync-användaren. Du behö
 
    >[!TIP]
    >
-   >Om du inte ser rollen går du tillbaka till [steg 1 av 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md) och importera lösningen.
+   >Om du inte ser rollen går du tillbaka till [steg 1 av 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md) och importera lösningen.
 
    >[!NOTE]
    >
@@ -68,7 +68,7 @@ Nästan klart! Vi har bara några sista konfigurationer innan vi går vidare til
 
    >[!NOTE]
    >
-   >If **Marketo Config** saknas, försök att uppdatera sidan. Om problemet kvarstår [publicera Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md) igen eller försök logga ut och sedan in igen.
+   >If **Marketo Config** saknas, försök att uppdatera sidan. Om problemet kvarstår [publicera Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md) igen eller försök logga ut och sedan in igen.
 
 1. Klicka **Standard**.
 
@@ -96,4 +96,4 @@ Bra jobbat!
 
 >[!MORELIKETHIS]
 >
->[Steg 3 av 3: Connect Marketo and Dynamics (2013 On-Premises)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-3-of-3-connect.md)
+>[Steg 3 av 3: Connect Marketo and Dynamics (2013 On-Premises)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2013.md)
