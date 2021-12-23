@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 2568d3414c8aaec882b79442f6312bae3b9514ab
+source-git-commit: 1e20fdd1d3c6bba265ceabe499e0d7a4babf4ef1
 workflow-type: tm+mt
-source-wordcount: '8206'
+source-wordcount: '8230'
 ht-degree: 0%
 
 ---
@@ -523,17 +523,10 @@ ht-degree: 0%
             + [Uppdatera Marketo Solution för Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
             + [Validera Microsoft Dynamics Sync](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [Visa URL för organisationstjänsten](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
-            + Ansluta till äldre versioner {#connecting-to-legacy-versions}
-               + [Steg 1 av 3: Installera Marketo Solution (2011 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
-               + [Steg 2 av 3: Konfigurera Marketo Sync User i Dynamics (lokal 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
-               + [Steg 3 av 3: Anslut Microsoft Dynamics med Marketo (lokal version 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md)
-               + [Steg 1 av 3: Installera Marketo Solution i Dynamics (2013 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md)
-               + [Steg 2 av 3: Konfigurera Synkronisera användare för Marketo (lokal version 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)
-               + [Steg 3 av 3: Connect Marketo and Dynamics (2013 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2013.md)
-            + Microsoft Dynamics 2015 On-Premises/2016 Dynamics 365 On-Premises {#microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises}
-               + [Steg 1 av 3: Installera Marketo Solution - 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
-               + [Steg 2 av 3: Konfigurera Marketo Sync User i Dynamics 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
-               + [Steg 3 av 3: Connect Marketo and Dynamics 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
+            + Microsoft Dynamics 2016/Dynamics 365 On-Premise  {#microsoft-dynamics-2016-dynamics-365-on-premises}
+               + [Steg 1 av 3: Installera Marketo Solution - 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+               + [Steg 2 av 3: Konfigurera Marketo Sync User i Dynamics 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
+               + [Steg 3 av 3: Connect Marketo and Dynamics 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
             + Microsoft Dynamics 365 {#microsoft-dynamics-365}
                + [Steg 1 av 3: Installera Marketo-lösningen (online)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
                + [Steg 2 av 3: Konfigurera Marketo Sync-användare i Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
@@ -543,6 +536,16 @@ ht-degree: 0%
                + [Konfigurera Microsoft Dynamics CRM-appen för Online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
                + [Konfigurera Microsoft Dynamics CRM-appen för lokal installation](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
                + [Konfigurera MSD för Azure AD Federated med AD FS On-prem, Tenant och Microsoft Online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online.md)
+            + Ansluta till äldre versioner {#connecting-to-legacy-versions}
+               + [Steg 1 av 3: Installera Marketo Solution (2011 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
+               + [Steg 2 av 3: Konfigurera Marketo Sync User i Dynamics (lokal 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
+               + [Steg 3 av 3: Anslut Microsoft Dynamics med Marketo (lokal version 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md)
+               + [Steg 1 av 3: Installera Marketo Solution i Dynamics (2013 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md)
+               + [Steg 2 av 3: Konfigurera Synkronisera användare för Marketo (lokal version 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)
+               + [Steg 3 av 3: Connect Marketo and Dynamics (2013 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2013.md)
+               + [Steg 1 av 3: Installera Marketo Solution i Dynamics (2015 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md)
+               + [Steg 2 av 3: Konfigurera Synkronisera användare för Marketo (lokal version 2015)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)
+               + [Steg 3 av 3: Connect Marketo and Dynamics (2015 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2015.md)
          + Synkroniseringsinformation för Microsoft Dynamics {#microsoft-dynamics-sync-details}
             + [Fältmappning för standardDynamics](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/default-dynamics-field-mapping.md)
             + [Microsoft Dynamics Sync: Kontosynkronisering](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
