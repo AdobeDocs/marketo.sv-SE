@@ -1,9 +1,10 @@
 ---
 description: Installera Marketo för Microsoft Dynamics 2016/Dynamics 365 On-Premises Step 2 of 3 - Marketo Docs - produktdokumentation
 title: Installera Marketo för Microsoft Dynamics 2016/Dynamics 365 On-Premises Step 2 of 3
-source-git-commit: 7b1f0d0d45bbfe3d8b781282e0a4ef1884a2bf40
+exl-id: c789b977-7ada-4f5d-8488-e1b58963f7e3
+source-git-commit: 3fb93520a653109845c3b40aba20304c6163214f
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '492'
 ht-degree: 0%
 
 ---
@@ -15,6 +16,52 @@ Utmärkt jobb med att slutföra föregående steg. Vi går igenom det här.
 >[!PREREQUISITES]
 >
 >[Installera Marketo för Microsoft Dynamics 2016/Dynamics 365 On-Premises Step 1 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+
+## Skapa en ny användare {#create-a-new-user}
+
+1. Logga in i Dynamics. Klicka på ikonen Inställningar och välj Avancerade inställningar.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-1.png)
+
+1. Klicka **Inställningar** och markera **Säkerhet**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-2.png)
+
+1. Klicka **Användare**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-3.png)
+
+1. Klicka **Nytt**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-4.png)
+
+1. Klicka **Lägg till och licensiera användare**. En ny flik ska öppnas.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-5.png)
+
+1. Klicka **Administratör** överst på sidan. En annan ny flik bör öppnas.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-6.png)
+
+1. Klicka **Lägg till en användare**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-7.png)
+
+1. Ange all information. När du är klar klickar du på **Lägg till**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-8.png)
+
+   >[!NOTE]
+   >
+   >Det här namnet måste vara en dedikerad synkroniseringsanvändare och inte en befintlig CRM-användares konto. Det behöver inte vara en faktisk e-postadress.
+
+1. Ange e-postadressen som ska ta emot inloggningsuppgifterna för den nya användaren och klicka på Skicka e-post och stäng.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-9.png)
+
+## Skapa ett nytt klientprogram {#create-a-new-client-application}
+
+Följ stegen i [den här Microsoft-artikeln](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/development/enabling-oauth-confidential-clients-with-ad-fs#create-an-application-group-in-ad-fs-2016-or-later) för att skapa ett nytt klientprogram och bevilja behörigheter. Observera klient-ID/hemlighet för Dynamics-klientprogrammet.
 
 ## Tilldela synkroniseringsanvändarroll {#assign-sync-user-role}
 
