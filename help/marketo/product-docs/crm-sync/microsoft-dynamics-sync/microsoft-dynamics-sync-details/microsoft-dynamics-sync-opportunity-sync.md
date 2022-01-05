@@ -3,9 +3,9 @@ unique-page-id: 3571844
 description: Microsoft Dynamics Sync -Opportunity Sync - Marketo Docs - Produktdokumentation
 title: Microsoft Dynamics Sync - säljprojektssynkronisering
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+source-git-commit: 7fcbaeda589682fdb5a75b89a0abd8661181566e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ Nej, du måste skapa affärsmöjligheten i Dynamics och den synkroniseras automa
 
 ## Vilka fält synkroniseras med Marketo? {#what-fields-will-sync-to-marketo}
 
-Du kan [markera fält som ska synkroniseras](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync) under installationen.
+Du kan [markera fält som ska synkroniseras](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) under installationen.
