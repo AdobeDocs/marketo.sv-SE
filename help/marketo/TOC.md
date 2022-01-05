@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 1e20fdd1d3c6bba265ceabe499e0d7a4babf4ef1
+source-git-commit: 8b4d86f2dd5f19abb56451403cd2638b1a852d79
 workflow-type: tm+mt
-source-wordcount: '8230'
+source-wordcount: '8287'
 ht-degree: 0%
 
 ---
@@ -141,17 +141,17 @@ ht-degree: 0%
          + [Lägg till Google AdWords som en LaunchPoint-tjänst](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
          + [Lägg till GoToWebinar som en LaunchPoint-tjänst](product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
          + [Lägg till webbmöte på nivå 3 som en startpunktstjänst](product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
-         + [Lägg till Munchkin-spårningskod på din webbplats](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
-         + [Nästa generations Munchkin Tracking - frågor och svar](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
+         + [Add Munchkin Tracking Code to Your Website](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
+         + [Next Generation Munchkin Tracking FAQ](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
          + [Lägg till ON24 som en LaunchPoint-tjänst](product-docs/administration/additional-integrations/add-on24-as-a-launchpoint-service.md)
-         + [Lägg till ReadyTalk som en LaunchPoint-tjänst](product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
+         + [Add ReadyTalk as a LaunchPoint Service](product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
          + [Lägg till enkel inloggning på en portal](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
          + [Lägg till WebEx som en LaunchPoint-tjänst](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
          + [Lägg till Workplace av Facebook som en LaunchPoint-tjänst](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
-         + [Lägg till zoom som en LaunchPoint-tjänst](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
+         + [Add Zoom as a LaunchPoint Service](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
          + [Konfigurera dina SOAP API-inställningar](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
-         + [Anslut BrightTALK till Marketo](product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md)
-         + [Skapa en anpassad tjänst för användning med ReST API](product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
+         + [Connect BrightTALK to Marketo](product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md)
+         + [Create a Custom Service for Use with ReST API](product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
          + [Skapa en webbkrok](product-docs/administration/additional-integrations/create-a-webhook.md)
          + [Skapa ett Tillåtelselista för IP-baserad API-åtkomst](product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)
          + [Ladda ned aktivitetslogg för GoogleAdwords](product-docs/administration/additional-integrations/download-googleadwords-activity-log.md)
@@ -520,6 +520,7 @@ ht-degree: 0%
          + [Åtgärda problem med synkronisering av Dynamics-validering](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
          + Synkronisera inställningar {#sync-setup}
             + [Ladda ned Marketo Lead Management Solution](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+            + [Bevilja samtycke för klient-ID och appregistrering](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md)
             + [Uppdatera Marketo Solution för Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
             + [Validera Microsoft Dynamics Sync](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [Visa URL för organisationstjänsten](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
@@ -527,12 +528,16 @@ ht-degree: 0%
                + [Steg 1 av 3: Installera Marketo Solution - 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
                + [Steg 2 av 3: Konfigurera Marketo Sync User i Dynamics 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
                + [Steg 3 av 3: Connect Marketo and Dynamics 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
-            + Microsoft Dynamics 365 {#microsoft-dynamics-365}
-               + [Steg 1 av 3: Installera Marketo-lösningen (online)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
-               + [Steg 2 av 3: Konfigurera Marketo Sync-användare i Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
-               + [Steg 3 av 3: Anslut Microsoft Dynamics med Marketo (online)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
+            + Microsoft Dynamics 365 med ROPC Connection{#microsoft-dynamics-365-with-ropc-connection}
+               + [Steg 1 av 4: Installera Marketo Solution med ROPC Connection](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
+               + [Steg 2 av 4: Konfigurera Marketo Solution med ROPC Connection](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
+               + [Steg 3 av 4: Konfigurera klientapp för MS Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
+               + [Steg 4 av 4: Anslut Marketo Solution med ROPC Connection](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md)
+            + Microsoft Dynamics 365 med S2S-anslutning{#microsoft-dynamics-365-with-s2s-connection}
+               + [Steg 1 av 3: Installera Marketo Solution med S2S Connection](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
+               + [Steg 2 av 3: Konfigurera Marketo Solution med S2S Connection](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
+               + [Steg 3 av 3: Anslut Marketo Solution med S2S Connection](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
             + Ställ in OAuth-autentisering för Dynamics {#set-up-oauth-authentication-for-dynamics}
-               + [Bevilja samtycke för klient-ID och appregistrering](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md)
                + [Konfigurera Microsoft Dynamics CRM-appen för Online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
                + [Konfigurera Microsoft Dynamics CRM-appen för lokal installation](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
                + [Konfigurera MSD för Azure AD Federated med AD FS On-prem, Tenant och Microsoft Online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online.md)
@@ -559,14 +564,14 @@ ht-degree: 0%
             + [Microsoft Dynamics Sync: Synkronisering av affärsmöjlighet](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
             + [Microsoft Dynamics Sync: Användarsynkronisering](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
             + [Synkroniseringsstatus](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)
-            + [Kampanjsynkronisering - översikt](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/campaign-sync-overview.md)
-            + [Aktivera kampanjsynkronisering](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
-         + Information om synkroniseringsfilter för anpassad Dynamics {#custom-dynmaics-sync-filter-details}
+            + [Campaign Sync Overview](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/campaign-sync-overview.md)
+            + [Enable Campaign Sync](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
+         + Custom Dynamics Sync Filter Details {#custom-dynmaics-sync-filter-details}
             + [Skapa ett anpassat Dynamics-synkroniseringsfilter](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)
             + [Anpassade synkroniseringsfilterregler för en e-postadress](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
             + [Microsoft Dynamics Sync-filter: Sammanfoga](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
-            + [Microsoft Dynamics Sync-filter: Kvalificera](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
-            + [Ange ett standardprefix för anpassat fält](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md)
+            + [Microsoft Dynamics Sync Filter: Qualify](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
+            + [Set a Default Custom Field Prefix](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md)
          + [Registrera en app med Azure för att hämta ditt klient-ID/program-ID](product-docs/crm-sync/microsoft-dynamics-sync/register-an-app-with-azure-to-acquire-your-client-id-app-id.md)
          + [Ta bort en lead eller kontakt](product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md)
       + Salesforce-synkronisering {#salesforce-sync}
@@ -599,7 +604,7 @@ ht-degree: 0%
             + [SFDC-synkronisering: Aktivitetssynkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
             + [SFDC-synkronisering: Kampanjsynkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
             + [SFDC-synkronisering: Kontaktsynkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
-            + [SFDC-synkronisering: Konvertera en lead till en kontakt i Salesforce](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-converting-a-lead-into-a-contact-in-salesforce.md)
+            + [SFDC Sync: Converting a Lead into a Contact in Salesforce](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-converting-a-lead-into-a-contact-in-salesforce.md)
             + [SFDC-synkronisering: Synkronisering av anpassat objekt](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
             + [SFDC-synkronisering: Ta bort en lead/kontakt](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-deleting-a-lead-contact.md)
             + [SFDC-synkronisering: Fältsynkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)
@@ -795,7 +800,7 @@ ht-degree: 0%
                + [Mall 7C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7c.md)
                + [Mall 7D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7d.md)
                + [Mall 7E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7e.md)
-               + [Mall 7F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7f.md)
+               + [Template 7F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7f.md)
                + [Mall 8A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8a.md)
                + [Mall 8B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8b.md)
                + [Mall 8C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8c.md)
@@ -803,7 +808,7 @@ ht-degree: 0%
                + [Mall 8E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8e.md)
                + [Mall 8F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8f.md)
                + [Mall 8G](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8g.md)
-               + [Mall 9A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9a.md)
+               + [Template 9A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9a.md)
                + [Mall 9B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9b.md)
                + [Mall 9C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9c.md)
                + [Mall 9D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9d.md)
@@ -1038,20 +1043,20 @@ ht-degree: 0%
             + [Lägga till ett kodfragment i ett e-postmeddelande](product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
             + [Lägg till en länk för Visa som webbsida i ett e-postmeddelande](product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)
             + [Lägg till redigerbara avsnitt i e-postmallar v1.0](product-docs/email-marketing/general/functions-in-the-editor/add-editable-sections-to-email-templates-v1-0.md)
-            + [Lägg till spårade länkar i ett e-postmeddelande](product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md)
+            + [Add Tracked Links to a Text Email](product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md)
             + [Skapa en kalenderhändelsefil (.ics)](product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
             + [Inaktivera spårning för en e-postlänk](product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md)
             + [Ladda ned en e-postadress HTML](product-docs/email-marketing/general/functions-in-the-editor/download-an-emails-html.md)
             + [Redigera HTML för ett e-postmeddelande](product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md)
-            + E-posttester - Champion-Challenger {#email-tests-champion-challenger}
+            + Email Tests - Champion-Challenger {#email-tests-champion-challenger}
                + [Lägg till en e-postkampanj/kanal](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
                + [Champion/Challenger: Godkänn ditt e-posttest](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
                + [Champion/Challenger: Konfigurera rapportaviseringar](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
                + [Champion/Challenger: Deklarera en tävling](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
                + [Champion/Challenger: Definiera villkor för tävling](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
-               + [Champion/Challenger: Ignorera ett e-posttest](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)
+               + [Champion/Challenger: Discard an Email Test](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)
                + [Champion/Challenger: Från adress](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)
-               + [Champion/Challenger: Subject line](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
+               + [Champion/Challenger: Subject Line](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
                + [Champion/Challenger: Hela e-postmeddelanden](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
          + Använda token {#using-tokens}
             + [Lägg till en systemtoken som en länk i ett e-postmeddelande](product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md)
@@ -1227,7 +1232,7 @@ ht-degree: 0%
          + [Efterlevnad av Sales Connect och GDPR](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
          + Hantera kontakter {#managing-contacts}
             + [Massåtgärder för personer](product-docs/marketo-sales-connect/people/managing-contacts/bulk-actions-on-people.md)
-            + [Skapa och ta bort kontakter](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
+            + [Creating and Deleting Contacts](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
             + [Grupptyper](product-docs/marketo-sales-connect/people/managing-contacts/group-types.md)
             + [Hur Sales Connect hanterar borttagning av dubbletter av e-post](product-docs/marketo-sales-connect/people/managing-contacts/how-sales-connect-handles-email-de-duping.md)
             + [Importera kontakter via CSV](product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)
@@ -1276,6 +1281,7 @@ ht-degree: 0%
             + [Referera dig själv i ett dynamiskt fält](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo Sales Insight {#marketo-sales-insight}
       + Åtgärder {#actions}
+         + [Översikt över MSI-funktionsmakron](product-docs/marketo-sales-insight/actions/msi-actions-feature-overview.md)
          + Komma igång {#getting-started}
             + [MSI Actions User Onboarding Guide](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-user-onboarding-guide.md)
             + [Administratörshandbok för MSI-åtgärder](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md)
@@ -1311,10 +1317,6 @@ ht-degree: 0%
                + [Översikt över leveranskanalen](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
                + [Begränsning för e-postanslutning](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
                + [Konfigurera en anpassad leveranskanal för ditt team](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
-            + Salesforce-konfiguration {#salesforce-configuration}
-               + [Konfigurering av MSI-åtgärder i Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
-               + [Avinstallera Salesforce Classic Customization Package](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
-               + [Avinstallera Salesforce Lightning Customization Package](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
             + Avbeställ {#unsubscribes}
                + [Avbeställ prenumeration - översikt](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
                + [Anpassa meddelande om att avbryta prenumeration på länk](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
@@ -1326,6 +1328,10 @@ ht-degree: 0%
                + [Alternativ för massutskick](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
                + [Disponera massutskick med Markera och skicka](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [Skicka e-post via gruppe-post](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
+         + Salesforce-konfiguration {#salesforce-configuration}
+            + [Konfigurering av MSI-åtgärder i Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
+            + [Avinstallera Salesforce Classic Customization Package](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
+            + [Avinstallera Salesforce Lightning Customization Package](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
          + Marketo {#marketo}
             + [Ge Marketo åtkomst till användare](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + Skicka ett e-postmeddelande {#send-a-sales-email}
@@ -1657,7 +1663,7 @@ ht-degree: 0%
                + [Förstå attribut](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)
                + [Attribut - exempel 1](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
                + [Attribut - exempel 2](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
-               + [Attribut - exempel 3](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
+               + [Attribution Example 3](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
                + [Attribut - exempel 4](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
             + Fältorganisatörer {#field-organizers}
                + [Använda fältorganisatörer](product-docs/reporting/revenue-cycle-analytics/revenue-tools/using-field-organizers.md)
@@ -1686,7 +1692,7 @@ ht-degree: 0%
       + Rapportering för webbanpassning {#reporting-for-web-personalization}
          + [E-postrapporter](product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
          + [Aktivera/inaktivera rapportprenumerationer](product-docs/web-personalization/reporting-for-web-personalization/enable-disable-report-subscriptions.md)
-         + [Undanta specifika IP-adresser från spårning](product-docs/web-personalization/reporting-for-web-personalization/exclude-specific-ips-from-being-tracked.md)
+         + [Exclude Specific IPs from Being Tracked](product-docs/web-personalization/reporting-for-web-personalization/exclude-specific-ips-from-being-tracked.md)
          + [Försäljningsinformation](product-docs/web-personalization/reporting-for-web-personalization/sales-intelligence.md)
          + [Förstå sammanfattningsrapporten](product-docs/web-personalization/reporting-for-web-personalization/understanding-the-summary-report.md)
          + Integrering med Web Analytics {#web-analytics-integrations}
