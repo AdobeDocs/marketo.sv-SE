@@ -3,10 +3,9 @@ unique-page-id: 3571838
 description: Microsoft Dynamics Sync -Field Sync - Marketo Docs - Produktdokumentation
 title: Microsoft Dynamics Sync - fältsynkronisering
 exl-id: 78eef0eb-4086-45c5-bce3-a3399016f228
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -31,16 +30,16 @@ Nej, det stöds inte för närvarande.
 
 ## Jag skapade ett fält i Dynamics. Kan jag synkronisera den till Marketo? {#i-created-a-field-in-dynamics-can-i-sync-it-to-marketo}
 
-Ja, du kan [synkronisera fältet](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync) så länge din synkroniseringsanvändare har åtkomst till det i Dynamics.
+Ja, du kan [synka fältet](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync) så länge som synkroniseringsanvändaren har åtkomst till den i Dynamics.
 
 ## Vilka fält synkroniseras med Marketo? {#what-fields-will-sync-to-marketo}
 
-Du kan [välja fält att synkronisera](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync) under installationen.
+Du kan [markera fält som ska synkroniseras](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync) under installationen.
 
 ## Vad händer om jag behöver lägga till ett anpassat fält efter att Marketo och Dynamics har synkroniserats? {#what-if-i-need-to-add-a-custom-field-after-marketo-and-dynamics-are-synced}
 
-Du kan lägga till fält när som helst och förvänta dig att data uppdateras från Dynamics till Marketo. Mer information finns i [Använd snabbsynkronisering med Microsoft Dynamics för ett nytt anpassat fält](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md).
+Du kan lägga till fält när som helst och förvänta dig att data uppdateras från Dynamics till Marketo. Se [Använd snabbsynkronisering med Microsoft Dynamics för ett nytt anpassat fält](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md) för mer information.
 
 ## Vad händer om jag vill ta bort ett fält i Dynamics efter att fältet har lagts till för synkronisering? {#what-if-i-want-to-delete-a-field-in-dynamics-after-the-field-has-been-added-to-sync}
 
-Marketo lagrar en referens till de fält som ska synkroniseras. Om du tar bort ett fält i Dynamics rekommenderar vi att du gör det med [synkroniseringen inaktiverad](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Uppdatera sedan schemat i Marketo genom att redigera och spara [Välj fält att synkronisera](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
+Marketo lagrar en referens till de fält som ska synkroniseras. Om du tar bort ett fält i Dynamics rekommenderar vi att du gör det med [synkronisering inaktiverad](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Uppdatera sedan schemat i Marketo genom att redigera och spara [Markera fält som ska synkroniseras](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).

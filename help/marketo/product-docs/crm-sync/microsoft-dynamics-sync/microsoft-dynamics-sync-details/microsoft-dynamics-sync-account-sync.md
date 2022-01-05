@@ -3,10 +3,9 @@ unique-page-id: 3571836
 description: Microsoft Dynamics Sync -Account Sync - Marketo Docs - Produktdokumentation
 title: Microsoft Dynamics Sync - kontosynkronisering
 exl-id: 86249d33-60dd-47e1-a7c8-3996c9444084
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -29,7 +28,7 @@ Nej. Marketo kan inte skapa konton i Dynamics.
 
 ## Vilka fält synkroniseras med Marketo? {#which-fields-will-sync-to-marketo}
 
-Du kan [välja fält att synkronisera](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync) under installationen. Men Marketo synkroniserar bara de fält som din Dynamics-synkroniseringsanvändare har åtkomst till.
+Du kan [markera fält som ska synkroniseras](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) under installationen. Men Marketo synkroniserar bara de fält som din Dynamics-synkroniseringsanvändare har åtkomst till.
 
 ## Blir en ändring i ett kontofält i Dynamics en aktivitetslogg för att ändra datavärde för varje kontakt?  {#does-a-change-in-an-account-field-in-dynamics-results-in-a-change-data-value-activity-log-for-each-contact}
 

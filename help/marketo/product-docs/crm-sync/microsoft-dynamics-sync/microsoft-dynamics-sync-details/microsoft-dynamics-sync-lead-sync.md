@@ -1,12 +1,11 @@
 ---
 unique-page-id: 3571848
-description: Microsoft Dynamics Sync -Lead Sync - Marketo Docs - Produktdokumentation
+description: Microsoft Dynamics Sync - Lead Sync - Marketo Docs - Produktdokumentation
 title: Microsoft Dynamics Sync - Lead Sync
 exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -29,7 +28,7 @@ Synkroniseringen är dubbelriktad. Om du ändrar något i ett lead i Dynamics el
 
 ## Kan jag skapa en lead i Dynamics med Marketo? {#can-i-create-a-lead-in-dynamics-using-marketo}
 
-Ja, använd flödesåtgärden [Synkronisera person till Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md). Detta skapar ett lead i Dynamics om leadet inte finns. Om leadet finns utför flödessteget ingen åtgärd.
+Ja, använd [Synkronisera person till Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) flödesåtgärd. Detta skapar ett lead i Dynamics om leadet inte finns. Om leadet finns utför flödessteget ingen åtgärd.
 
 >[!NOTE]
 >
@@ -37,11 +36,11 @@ Ja, använd flödesåtgärden [Synkronisera person till Microsoft](/help/marketo
 
 ## Kan jag manuellt tvinga en synkronisering av en person från Marketo till ett lead i Dynamics? {#can-i-manually-force-a-sync-of-a-person-from-marketo-to-a-lead-in-dynamics}
 
-Nej, den automatiska bakgrundssynkroniseringen är det enda sättet att synkronisera uppdateringar mellan Marketo och Dynamics. Flödesåtgärden [Synkronisera person till Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) tvingar inte till en synkronisering av leadet.
+Nej, den automatiska bakgrundssynkroniseringen är det enda sättet att synkronisera uppdateringar mellan Marketo och Dynamics. The [Synkronisera person till Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) Flödesåtgärden tvingar inte fram en synkronisering av leadet.
 
 ## Vilka fält synkroniseras med Marketo? {#what-fields-will-sync-to-marketo}
 
-Du kan [välja fält att synkronisera](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync) under installationen.
+Du kan [markera fält som ska synkroniseras](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync) under installationen.
 
 ## Kommer Marketo att respektera Dynamics-valideringsreglerna? {#will-marketo-respect-the-dynamics-validation-rules}
 
