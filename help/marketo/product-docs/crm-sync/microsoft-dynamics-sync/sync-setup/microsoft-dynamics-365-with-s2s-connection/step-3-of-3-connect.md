@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: Steg 3 av 3 - Anslut Marketo-lösningen med S2S-anslutning - Marketo Docs - produktdokumentation
 title: Steg 3 av 3 - Anslut Marketo Solution med S2S-anslutning
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: 598390517dea96b0503fd9c0cdfd47bd7617b48a
+source-git-commit: 549282b11bcf5fd48d29680f196e4534063b30f6
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -52,7 +52,7 @@ Detta är det sista steget i synkroniseringen. Vi är nästan framme!
 
 1. Ange **Användarnamn**, **Lösenord**, **Klient-ID**, **Klienthemlighet** och Microsoft Dynamics **URL**. Klicka **Spara** när det är klart.
 
-   ![](assets/five-1.png)
+   ![](assets/step-3-of-3-s2s-5.png)
 
    >[!NOTE]
    >
