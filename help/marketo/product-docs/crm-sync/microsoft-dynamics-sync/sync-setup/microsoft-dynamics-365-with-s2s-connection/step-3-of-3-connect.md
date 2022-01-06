@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: Steg 3 av 3 - Anslut Marketo-lösningen med S2S-anslutning - Marketo Docs - produktdokumentation
 title: Steg 3 av 3 - Anslut Marketo Solution med S2S-anslutning
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: 8b4d86f2dd5f19abb56451403cd2638b1a852d79
+source-git-commit: 598390517dea96b0503fd9c0cdfd47bd7617b48a
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '375'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,10 @@ Detta är det sista steget i synkroniseringen. Vi är nästan framme!
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
+
+>[!NOTE]
+>
+>Innan du anger nya autentiseringsuppgifter kan du [validera dem här](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md).
 
 ## Ange användarinformation för Dynamics Sync {#enter-dynamics-sync-user-information}
 
@@ -44,18 +48,15 @@ Detta är det sista steget i synkroniseringen. Vi är nästan framme!
 
    >[!CAUTION]
    >
-   >Kontrollera att dina autentiseringsuppgifter är korrekta eftersom det inte går att återställa efterföljande schemaändringar efter överföringen. Om felaktiga uppgifter sparas måste du skaffa en ny Marketo-prenumeration.
+   >Kontrollera att din organisations-URL är korrekt eftersom det inte går att återställa efterföljande schemaändringar efter överföringen. Om en felaktig Org URL används måste du skaffa en ny Marketo-prenumeration. Om du inte känner till URL:en [lära dig hur du hittar det här](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
-1. Ange **Användarnamn**, **Lösenord** och Microsoft Dynamics **URL**. Klicka **Spara** när det är klart.
+1. Ange **Användarnamn**, **Lösenord**, **Klient-ID**, **Klienthemlighet** och Microsoft Dynamics **URL**. Klicka **Spara** när det är klart.
 
    ![](assets/five-1.png)
 
    >[!NOTE]
    >
-   >* Om din Marketo etablerades före oktober 2020 är klient-ID och hemlighet valfria fält. Annars är de obligatoriska. Hur du får den här informationen beror på vilken version av MSD du använder.
-   >* Användarnamnet i Marketo måste matcha användarnamnet för synkroniseringsanvändaren i CRM. Formatet kan vara `user@domain.com` eller DOMÄN\användare.
-   >* Om du inte känner till URL:en [lära dig hur du hittar det här](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
-
+   >Användarnamnet i Marketo måste matcha användarnamnet för synkroniseringsanvändaren i CRM. Formatet kan vara `user@domain.com` eller DOMÄN\användare.
 
 ## Markera fält som ska synkroniseras {#select-fields-to-sync}
 

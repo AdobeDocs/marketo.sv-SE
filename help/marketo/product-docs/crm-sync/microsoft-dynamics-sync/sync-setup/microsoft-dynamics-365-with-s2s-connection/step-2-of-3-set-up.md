@@ -3,98 +3,86 @@ unique-page-id: 3571827
 description: Steg 2 av 3 - Konfigurera Marketo Solution med S2S Connection - Marketo Docs - produktdokumentation
 title: Steg 2 av 3 - Konfigurera Marketo Solution med S2S Connection
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: 8b4d86f2dd5f19abb56451403cd2638b1a852d79
+source-git-commit: 598390517dea96b0503fd9c0cdfd47bd7617b48a
 workflow-type: tm+mt
-source-wordcount: '478'
+source-wordcount: '659'
 ht-degree: 0%
 
 ---
 
-# Steg 2 av 3: Konfigurera Marketo Sync-användare i Dynamics {#step-of-set-up-marketo-sync-user-in-dynamics}
-
-Vi börjar med att skapa ett användarkonto.
+# Steg 2 av 3: Konfigurera Marketo Sync User i Dynamics med S2S Connection{#step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s}
 
 >[!PREREQUISITES]
 >
 >[Steg 1 av 3: Installera Marketo Solution med S2S Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
 
-## Skapa en ny användare {#create-a-new-user}
+## Skapa klientprogram i Azure AD {#create-client-application-in-azure-ad}
 
-1. Logga in i Dynamics. Klicka på ikonen Inställningar och välj **Avancerade inställningar**.
+1. Navigera till [den här Microsoft-artikeln](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration).
 
-   ![](assets/one.png)
+1. Följ alla steg. I steg 3 anger du ett relevant programnamn (t.ex.&quot;Marketo Integration&quot;). Under de kontotyper som stöds väljer du **Konto endast i den här organisationskatalogen**.
 
-1. Klicka **Inställningar** och markera **Säkerhet**.
+1. Skriv ned program-ID (ClientId) och klient-ID. Du måste ange det i Marketo senare.
 
-   ![](assets/two.png)
+1. Ge administratörens samtycke genom att följa stegen [i den här artikeln](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md).
 
-1. Klicka **Användare**.
+1. Generera en klienthemlighet i Admin Center genom att klicka på **Certifikat och hemligheter**.
 
-   ![](assets/three.png)
+   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-1.png)
 
-1. Klicka **Nytt.**
+1. Klicka på **Ny klienthemlighet** -knappen.
 
-   ![](assets/four.png)
+   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-2.png)
 
-1. Klicka **Lägg till och licensiera användare** i det nya fönstret.
+1. Ange en beskrivning av klienthemligheten och klicka på **Lägg till**.
 
-   ![](assets/five.png)
+   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-3.png)
 
-1. En ny flik öppnas. Klicka **Administratör** överst på sidan.
+>[!CAUTION]
+>
+>Observera värdet för Klienthemlighet (visas i skärmbilden nedan), som du behöver det senare. Den visas bara en gång och du kommer inte att kunna hämta den igen.
 
-   ![](assets/six.png)
+![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-4.png)
 
-1. En annan ny flik öppnas. Klicka **Lägg till en användare**.
+1. Följ stegen från följande länk för att [konfigurera en programanvändare i Microsoft](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/use-single-tenant-server-server-authentication#application-user-creation). När du ger behörighet till programanvändaren tilldelar du den till&quot;Marketo Sync User Role&quot;.
 
-   ![](assets/seven.png)
+## Azure AD Federated med AD FS On-prem {#azure-ad-federated-with-ad-fs-on-prem}
 
-1. Ange all information. När du är klar klickar du på **Lägg till**.
+Federated Azure AD till ADFS OnPrem måste skapa en identifieringsprincip för hemsfär för det specifika programmet. Med den här principen dirigerar Azure AD om autentiseringsbegäran till federationstjänsten. Synkronisering av lösenordshash måste aktiveras i AD Connect för detta. Mer information finns på [OAuth med ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) och [Ange en tredje princip för ett program](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
 
-   ![](assets/eight.png)
-
-   >[!NOTE]
-   >
-   >Det här namnet måste vara en dedikerad synkroniseringsanvändare och inte en befintlig CRM-användares konto. Det behöver inte vara en faktisk e-postadress.
-
-1. Ange e-postadressen som ska ta emot inloggningsuppgifterna och klicka på **Skicka e-post och stäng**.
-
-   ![](assets/nine.png)
+Ytterligare referenser [finns här](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=Denna%20rapport%20innehåller även%20federerade%20är%20federerade%20till%20Azure%20AD.).
 
 ## Tilldela synkroniseringsanvändarroll {#assign-sync-user-role}
 
-Tilldela endast Marketo Sync User-rollen till Marketo sync-användaren. Du behöver inte tilldela den till andra användare.
+1. Tilldela endast Marketo Sync User-rollen till Marketo Sync-användare.
 
 >[!NOTE]
 >
->Detta gäller Marketo version 4.0.0.14 och senare. I tidigare versioner måste alla användare ha synkroniseringsanvändarrollen. Om du vill uppgradera Marketo går du till [Uppgradera Marketo Solution för Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
+>Detta gäller Marketo version 4.0.0.14 och senare. I tidigare versioner måste alla användare ha synkroniseringsanvändarrollen. För att uppgradera din Marketo-lösning [se den här artikeln](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
->[!IMPORTANT]
->
->Språkinställningen för Synkronisera användare [ska anges till engelska](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us).
+1. Gå tillbaka till fliken Programanvändare och uppdatera användarlistan.
 
-1. Gå tillbaka till fliken Aktiverade användare och uppdatera användarlistan.
+   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-5.png)
 
-   ![](assets/ten.png)
+1. Hovra bredvid den nyskapade programanvändaren så visas en kryssruta. Klicka för att markera den.
 
-1. Hovra bredvid den nya Marketo Sync-användaren så visas en kryssruta. Klicka för att markera den.
-
-   ![](assets/eleven.png)
+   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-6.png)
 
 1. Klicka **Hantera roller**.
 
-   ![](assets/twelve.png)
+   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-7.png)
 
 1. Kontrollera **Marketo Sync User** och klicka **OK**.
 
-   ![](assets/thirteen.png)
-
-   >[!NOTE]
-   >
-   >Alla uppdateringar som görs i CRM av Synkronisera användare kommer att **not** synkas tillbaka till Marketo.
+   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-8.png)
 
 ## Konfigurera Marketo Solution {#configure-marketo-solution}
 
 Nästan klart! Allt vi har kvar är att informera Marketo Solution om den nya användaren som har skapats.
+
+>[!IMPORTANT]
+>
+>Om du uppgraderar från grundläggande autentisering till OAuth måste du kontakta [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support) om du vill ha hjälp med att uppdatera ytterligare parametrar. Om du aktiverar den här funktionen avbryts synkroniseringen tillfälligt tills nya autentiseringsuppgifter anges och synkroniseringen aktiveras igen. Funktionen kan inaktiveras (fram till april 2022) om du vill återgå till det gamla autentiseringsläget.
 
 1. Gå tillbaka till avsnittet Avancerade inställningar och klicka på ![](assets/image2015-5-13-15-3a49-3a19.png) -ikon bredvid Inställningar och välj **Marketo Config**.
 
@@ -130,9 +118,9 @@ Nästan klart! Allt vi har kvar är att informera Marketo Solution om den nya an
 
 ## Innan du fortsätter till steg 3 {#before-proceeding-to-step}
 
-    * Om du vill begränsa antalet poster som du synkroniserar [konfigurera ett anpassat synkroniseringsfilter](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) nu.
-    * Kör processen [Validera Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md). Den verifierar att dina initiala inställningar har gjorts korrekt.
-    * Logga in i Marketo Sync User i Microsoft Dynamics CRM.
+* Om du vill begränsa antalet poster som du synkroniserar, [konfigurera ett eget synkroniseringsfilter](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) nu.
+* Kör [Validera Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) -processen. Den verifierar att dina initiala inställningar har gjorts korrekt.
+* Logga in på Marketo Sync User i Microsoft Dynamics CRM.
 
 >[!MORELIKETHIS]
 >
