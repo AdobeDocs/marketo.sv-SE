@@ -2,7 +2,7 @@
 description: Steg 4 av 4 - Anslut Marketo-lösningen med Resource Owner Password Control Connection - Marketo Docs - produktdokumentation
 title: Steg 4 av 4 - Anslut Marketo-lösningen med Resursägarens lösenordskontrollanslutning
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
-source-git-commit: 549282b11bcf5fd48d29680f196e4534063b30f6
+source-git-commit: f72f195e53d63e37ef2ed53980b9bffc59391430
 workflow-type: tm+mt
 source-wordcount: '456'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Steg 4 av 4: Anslut Marketo Solution med Resource Owner Password Control Connection {#step-4-of-4-connect-the-marketo-solution-ropc}
 
-Detta är det sista steget i synkroniseringen. Vi är nästan framme!
+Detta är det sista steget i synkroniseringen. Du är nästan framme!
 
 >[!PREREQUISITES]
 >
