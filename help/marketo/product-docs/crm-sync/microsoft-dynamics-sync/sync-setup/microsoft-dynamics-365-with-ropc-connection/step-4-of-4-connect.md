@@ -2,7 +2,7 @@
 description: Steg 4 av 4 - Anslut Marketo-lösningen med Resource Owner Password Control Connection - Marketo Docs - produktdokumentation
 title: Steg 4 av 4 - Anslut Marketo-lösningen med Resursägarens lösenordskontrollanslutning
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
-source-git-commit: f72f195e53d63e37ef2ed53980b9bffc59391430
+source-git-commit: eb200f085b41489c8d7e11bb2fd059a311e5349c
 workflow-type: tm+mt
 source-wordcount: '456'
 ht-degree: 0%
@@ -56,7 +56,7 @@ Detta är det sista steget i synkroniseringen. Du är nästan framme!
 
 1. Ange **Användarnamn**, **Lösenord**, **Klient-ID**, **Klienthemlighet** och Microsoft Dynamics **URL**. Klicka **Spara** när det är klart.
 
-   ![](assets/step-4-of-4-connect-the-marketo-solution-ropc-5.png)
+   ![](assets/step-4-of-4-connect-ropc-5.png)
 
    >[!NOTE]
    >
