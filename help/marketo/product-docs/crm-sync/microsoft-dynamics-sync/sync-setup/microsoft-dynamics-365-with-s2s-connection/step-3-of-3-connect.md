@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: Steg 3 av 3 - Anslut Marketo-lösningen med S2S-anslutning - Marketo Docs - produktdokumentation
 title: Steg 3 av 3 - Anslut Marketo Solution med S2S-anslutning
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: 549282b11bcf5fd48d29680f196e4534063b30f6
+source-git-commit: e8ba27c09165aa844ae6df175464d989b1931bad
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,10 @@ Detta är det sista steget i synkroniseringen. Vi är nästan framme!
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
+
+>[!IMPORTANT]
+>
+>Om du uppgraderar från grundläggande autentisering till OAuth måste du kontakta [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support) om du vill ha hjälp med att uppdatera ytterligare parametrar. Om du aktiverar den här funktionen avbryts synkroniseringen tillfälligt tills nya autentiseringsuppgifter anges och synkroniseringen aktiveras igen. Funktionen kan inaktiveras (fram till april 2022) om du vill återgå till det gamla autentiseringsläget.
 
 >[!NOTE]
 >

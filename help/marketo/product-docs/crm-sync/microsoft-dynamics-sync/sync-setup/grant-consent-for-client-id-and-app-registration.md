@@ -2,9 +2,9 @@
 description: Bevilja samtycke för klient-ID och appregistrering - Marketo Docs - produktdokumentation
 title: Bevilja samtycke för klient-ID och appregistrering
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
-source-git-commit: 8b4d86f2dd5f19abb56451403cd2638b1a852d79
+source-git-commit: e8ba27c09165aa844ae6df175464d989b1931bad
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -84,6 +84,3 @@ Som administratör kan du även godkänna ett programs delegerade behörigheter 
 
    ![](assets/grant-consent-for-client-id-app-registration-6.png)
 
->[!MORELIKETHIS]
->
->[Konfigurera Microsoft Dynamics CRM-appen för lokal installation](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
