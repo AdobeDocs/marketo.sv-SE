@@ -1,14 +1,15 @@
 ---
-description: Steg 1 av 3 - Installera Marketo Solution med Resource Owner Password Control Connection - Marketo Docs - Product Documentation
-title: Steg 1 av 3 - Installera Marketo Solution med Resource Owner Password Control Connection
-source-git-commit: e46673423bdb2757e8a9f97dc702d32d02200e6e
+description: Steg 1 av 4 - Installera Marketo Solution med Resource Owner Password Control Connection - Marketo Docs - Product Documentation
+title: Steg 1 av 4 - Installera Marketo Solution med Resource Owner Password Control Connection
+exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
 
-# Steg 1 av 3: Installera Marketo Solution med Resource Owner Password Control Connection {#step-1-of-3-install-the-marketo-solution-ropc}
+# Steg 1 av 4: Installera Marketo Solution med Resource Owner Password Control Connection {#step-1-of-4-install-the-marketo-solution-ropc}
 
 Innan du kan synkronisera Microsoft Dynamics 365 och Marketo måste du först installera Marketo-lösningen i Dynamics. **Administratörsbehörigheter för Dynamics krävs.**
 

@@ -1,20 +1,20 @@
 ---
 unique-page-id: 3571827
-description: Steg 2 av 3 - Konfigurera Marketo Solution med S2S Connection - Marketo Docs - produktdokumentation
-title: Steg 2 av 3 - Konfigurera Marketo Solution med S2S Connection
+description: Steg 2 av 3 - Konfigurera Marketo Solution med Server to Server Connection - Marketo Docs - Produktdokumentation
+title: Steg 2 av 3 - Konfigurera Marketo Solution med Server to Server Connection
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: 598390517dea96b0503fd9c0cdfd47bd7617b48a
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
-source-wordcount: '659'
+source-wordcount: '661'
 ht-degree: 0%
 
 ---
 
-# Steg 2 av 3: Konfigurera Marketo Sync User i Dynamics med S2S Connection{#step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s}
+# Steg 2 av 3: Konfigurera Marketo Solution med Server to Server Connection {#step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s}
 
 >[!PREREQUISITES]
 >
->[Steg 1 av 3: Installera Marketo Solution med S2S Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
+>[Steg 1 av 3: Installera Marketo Solution with Server to Server Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
 
 ## Skapa klientprogram i Azure AD {#create-client-application-in-azure-ad}
 
@@ -124,4 +124,4 @@ Nästan klart! Allt vi har kvar är att informera Marketo Solution om den nya an
 
 >[!MORELIKETHIS]
 >
->[Steg 3 av 3: Anslut Marketo Solution med S2S Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
+>[Steg 3 av 3: Ansluta Marketo-lösningen med server-till-server-anslutning](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)

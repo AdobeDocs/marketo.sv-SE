@@ -1,14 +1,15 @@
 ---
-description: Steg 1 av 3 - Installera Marketo Solution with S2S Connection - Marketo Docs - Product Documentation
-title: Steg 1 av 3 - Installera Marketo Solution med S2S-anslutning
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+description: Steg 1 av 3 - Installera Marketo Solution with Server to Server Connection - Marketo Docs - produktdokumentation
+title: Steg 1 av 3 - Installera Marketo Solution med Server to Server Connection
+exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
 
-# Steg 1 av 3: Installera Marketo Solution med S2S Connection {#step-1-of-3-install-the-marketo-solution-s2s}
+# Steg 1 av 3: Installera Marketo Solution with Server to Server Connection {#step-1-of-3-install-the-marketo-solution-s2s}
 
 Innan du kan synkronisera Microsoft Dynamics 365 och Marketo måste du först installera Marketo-lösningen i Dynamics. **Administratörsbehörigheter för Dynamics krävs.**
 

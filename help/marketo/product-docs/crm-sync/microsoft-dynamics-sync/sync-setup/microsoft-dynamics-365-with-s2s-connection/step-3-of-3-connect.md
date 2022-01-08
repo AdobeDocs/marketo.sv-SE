@@ -1,23 +1,23 @@
 ---
 unique-page-id: 3571830
-description: Steg 3 av 3 - Anslut Marketo-lösningen med S2S-anslutning - Marketo Docs - produktdokumentation
-title: Steg 3 av 3 - Anslut Marketo Solution med S2S-anslutning
+description: Steg 3 av 3 - Ansluta Marketo-lösningen med Server to Server Connection - Marketo Docs - Produktdokumentation
+title: Steg 3 av 3 - Ansluta Marketo Solution med Server to Server Connection
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: eb200f085b41489c8d7e11bb2fd059a311e5349c
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '443'
 ht-degree: 0%
 
 ---
 
-# Steg 3 av 3: Anslut Marketo Solution med S2S Connection {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
+# Steg 3 av 3: Ansluta Marketo-lösningen med server-till-server-anslutning {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
 
 Detta är det sista steget i synkroniseringen. Vi är nästan framme!
 
 >[!PREREQUISITES]
 >
->* [Steg 1 av 3: Installera Marketo Solution med S2S Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
->* [Steg 2 av 3: Konfigurera Marketo Solution med S2S Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
+>* [Steg 1 av 3: Installera Marketo Solution with Server to Server Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
+>* [Steg 2 av 3: Konfigurera Marketo Solution med Server to Server Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
