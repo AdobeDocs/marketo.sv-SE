@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
+source-git-commit: 921c3279b53bc18ac753b1e3f0672a70fe11abe7
 workflow-type: tm+mt
-source-wordcount: '8252'
+source-wordcount: '8255'
 ht-degree: 0%
 
 ---
@@ -42,49 +42,6 @@ ht-degree: 0%
       + [Saker att granska: Kärnfärdigheter](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [Sätt att få hjälp](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
 + Produktdokument {#product-docs}
-   + Hantering av målkonto {#target-account-management}
-      + Inställningar {#setup}
-         + [Översikt över kontohantering för mål](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
-         + [Komma igång med TAM](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
-         + [Utfärda en licens](product-docs/target-account-management/setup-tam/issue-a-license.md)
-         + [Behörigheter](product-docs/target-account-management/setup-tam/permissions.md)
-         + [Kontopoäng](product-docs/target-account-management/setup-tam/account-score.md)
-         + [Kontouppsättning](product-docs/target-account-management/setup-tam/account-team-setup.md)
-         + [Skapa ett anpassat fält för CRM-identifiering](product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md)
-         + [Ställ in kontoinsikter](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
-         + [Översikt över plugin-programmet Account Insight](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
-         + [Bjud in användare att få åtkomst till kontoinsikter](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
-      + Mål {#target}
-         + Namngivna konton {#named-accounts}
-            + [Översikt över namngivet konto](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
-            + [Importera namngivna konton](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
-            + [Lägg till ett befintligt namngivet konto i en kontolista](product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
-            + [Skapa ett namngivet konto](product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
-            + [Lägg till personer till ett namngivet konto](product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
-            + [Identifiera konton](product-docs/target-account-management/target/named-accounts/discover-accounts.md)
-            + [Lead till kontomatchning](product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
-            + [Filtrera i namngivna konton](product-docs/target-account-management/target/named-accounts/filtering-in-named-accounts.md)
-            + [Ta bort ett namngivet konto](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
-            + [TAM-hierarkier](product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)
-            + [Skapa en hierarki](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
-         + [Kontolistor](product-docs/target-account-management/target/account-lists.md)
-         + [Smarta kontouppsättningar](product-docs/target-account-management/target/account-smart-lists.md)
-         + [Skapa en kontomatchad målgrupp på LinkedIn](product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)
-      + Engagera {#engage}
-         + [Kontofilter](product-docs/target-account-management/engage/account-filters.md)
-         + [Kontoutlösare](product-docs/target-account-management/engage/account-triggers.md)
-      + Mät {#measure}
-         + [TAM Main Dashboard](product-docs/target-account-management/measure/tam-main-dashboard.md)
-         + [Inställningar för TAM-rapport](product-docs/target-account-management/measure/tam-report-setup.md)
-         + [TAM-försäljningsrapport](product-docs/target-account-management/measure/tam-sales-report.md)
-         + [Kontolisteinsikter](product-docs/target-account-management/measure/account-list-insights.md)
-         + [Dimension för namngivet konto i RCA](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
-         + [Insikter om namngivna konton](product-docs/target-account-management/measure/named-account-insights.md)
-         + [Använda persona](product-docs/target-account-management/using-personas.md)
-      + Kontoprofilering {#account-profiling}
-         + [Konfigurera kontoprofilering](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
-         + [Rankning och justering av kontoprofilering](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
-         + [Ny kontoidentifiering](product-docs/target-account-management/account-profiling/new-account-discovery.md)
    + Ytterligare program {#additional-apps}
       + SEO {#seo}
          + Förstå SEO {#understanding-seo}
@@ -235,6 +192,7 @@ ht-degree: 0%
          + [Aktivera eller inaktivera funktioner för skatteschest](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [Aktivera anpassade URL:er för ditt konto (administration)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
          + [Blockera inskickning av skräppostformulär](product-docs/administration/settings/how-to-block-spam-form-submissions.md)
+         + [Landningssidhuvuden](product-docs/administration/settings/landing-page-headers.md)
          + [Begränsa Marketo-inloggningar baserat på IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [Välj språk, språk och tidszon](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
          + [Ange en återställningssida](product-docs/administration/settings/set-a-fallback-page.md)
@@ -1665,6 +1623,49 @@ ht-degree: 0%
             + Fältorganisatörer {#field-organizers}
                + [Använda fältorganisatörer](product-docs/reporting/revenue-cycle-analytics/revenue-tools/using-field-organizers.md)
                + [Skapa anpassade fältgrupper med fältorganiseraren](product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
+   + Hantering av målkonto {#target-account-management}
+      + Inställningar {#setup}
+         + [Översikt över kontohantering för mål](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
+         + [Komma igång med TAM](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
+         + [Utfärda en licens](product-docs/target-account-management/setup-tam/issue-a-license.md)
+         + [Behörigheter](product-docs/target-account-management/setup-tam/permissions.md)
+         + [Kontopoäng](product-docs/target-account-management/setup-tam/account-score.md)
+         + [Kontouppsättning](product-docs/target-account-management/setup-tam/account-team-setup.md)
+         + [Skapa ett anpassat fält för CRM-identifiering](product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md)
+         + [Ställ in kontoinsikter](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
+         + [Översikt över plugin-programmet Account Insight](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
+         + [Bjud in användare att få åtkomst till kontoinsikter](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
+      + Mål {#target}
+         + Namngivna konton {#named-accounts}
+            + [Översikt över namngivet konto](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
+            + [Importera namngivna konton](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
+            + [Lägg till ett befintligt namngivet konto i en kontolista](product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+            + [Skapa ett namngivet konto](product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
+            + [Lägg till personer till ett namngivet konto](product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
+            + [Identifiera konton](product-docs/target-account-management/target/named-accounts/discover-accounts.md)
+            + [Lead till kontomatchning](product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
+            + [Filtrera i namngivna konton](product-docs/target-account-management/target/named-accounts/filtering-in-named-accounts.md)
+            + [Ta bort ett namngivet konto](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
+            + [TAM-hierarkier](product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)
+            + [Skapa en hierarki](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
+         + [Kontolistor](product-docs/target-account-management/target/account-lists.md)
+         + [Smarta kontouppsättningar](product-docs/target-account-management/target/account-smart-lists.md)
+         + [Skapa en kontomatchad målgrupp på LinkedIn](product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)
+      + Engagera {#engage}
+         + [Kontofilter](product-docs/target-account-management/engage/account-filters.md)
+         + [Kontoutlösare](product-docs/target-account-management/engage/account-triggers.md)
+      + Mät {#measure}
+         + [TAM Main Dashboard](product-docs/target-account-management/measure/tam-main-dashboard.md)
+         + [Inställningar för TAM-rapport](product-docs/target-account-management/measure/tam-report-setup.md)
+         + [TAM-försäljningsrapport](product-docs/target-account-management/measure/tam-sales-report.md)
+         + [Kontolisteinsikter](product-docs/target-account-management/measure/account-list-insights.md)
+         + [Dimension för namngivet konto i RCA](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
+         + [Insikter om namngivna konton](product-docs/target-account-management/measure/named-account-insights.md)
+         + [Använda persona](product-docs/target-account-management/using-personas.md)
+      + Kontoprofilering {#account-profiling}
+         + [Konfigurera kontoprofilering](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
+         + [Rankning och justering av kontoprofilering](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
+         + [Ny kontoidentifiering](product-docs/target-account-management/account-profiling/new-account-discovery.md)
    + Webbanpassning {#web-personalization}
       + Kontobaserad webbmarknadsföring {#account-based-web-marketing}
          + [Kontobaserad webbmarknadsföring med TAM](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
