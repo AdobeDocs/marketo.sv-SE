@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
+source-git-commit: 534fb9d253b84147fe7fc96ce15987318dcea882
 workflow-type: tm+mt
-source-wordcount: '1028'
+source-wordcount: '999'
 ht-degree: 0%
 
 ---
@@ -27,8 +27,6 @@ Följande funktioner kommer att släppas den **21 januari 2022**.
 
    * Information om landningssidans resurser i Design Studio
    * Information om landningssidans tillgångar i marknadsföringsaktiviteter
-
-* **Administratörskontroll för nästa generations växel för upplevelseväxling**: Administratörer kan välja vilka användartyper som ska kunna använda växlingsknappen för att visa skärmar i nästa generation av upplevelser.
 
 ## Integrering med Microsoft Dynamics {#microsoft-dynamics-integration}
 
