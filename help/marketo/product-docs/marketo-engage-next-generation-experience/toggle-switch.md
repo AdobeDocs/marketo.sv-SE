@@ -2,7 +2,7 @@
 description: Växla - Marketo Docs - produktdokumentation
 title: Växla av/på
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -41,15 +41,15 @@ Den nya upplevelsen läses in.
 
 1. I Marketo söker du efter och markerar ditt formulär.
 
-   ![](assets/toggle-switch-5.png)
+   ![](assets/toggle-switch-8.png)
 
 1. Klicka på knappen längst ned till höger på sidan **Ny upplevelse** växla.
 
-   ![](assets/toggle-switch-6.png)
+   ![](assets/toggle-switch-9.png)
 
 Den nya upplevelsen läses in.
 
-![](assets/toggle-switch-7.png)
+![](assets/toggle-switch-10.png)
 
 ## Aktivera för alla funktioner {#enable-for-all-features}
 
@@ -57,8 +57,8 @@ Du kan välja att aktivera Marketo nästa generations gränssnitt för alla till
 
 1. I ett område som för närvarande har växeln Växla (i det här exemplet är vi i [Formulärinformationssida](#form-details-page)) klickar du på kugghjulsikonen längst ned till höger på sidan.
 
-   ![](assets/toggle-switch-8.png)
+   ![](assets/toggle-switch-11.png)
 
 1. Välj **Aktivera för alla tillgängliga funktioner** och klicka **OK**.
 
-   ![](assets/toggle-switch-9.png)
+   ![](assets/toggle-switch-12.png)
