@@ -4,16 +4,22 @@ title: Konfigurera detaljanpassning av Salesforce-aktivitet
 hide: true
 hidefromtoc: true
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: 87f43fb58b5739c0465a1a74fb60cdf5c5f6b759
+source-git-commit: a95b889a36ae22aef6bc2ff5bc82f04751d389bd
 workflow-type: tm+mt
-source-wordcount: '573'
+source-wordcount: '589'
 ht-degree: 0%
 
 ---
 
 # Konfigurera detaljanpassning av Salesforce-aktivitet {#configure-salesforce-activity-detail-customization}
 
-Med anpassning av aktivitetsdetalj kan administratörer konfigurera den information som ska logga in i Salesforce-aktivitetsfältet - Ämne när en Sales Connect-aktivitet/påminnelseaktivitet synkroniseras med Salesforce.
+>[!PREREQUISITES]
+>
+>* Salesforce och Marketo Sales Connect [måste vara ansluten](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
+>* Logga e-postaktivitet via API [måste vara aktiverat](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
+
+
+Med anpassning av aktivitetsdetalj kan administratörer konfigurera den information som ska logga in i Salesforce-fältet Ämne när en Sales Connect-aktivitet/påminnelseaktivitet synkroniseras med Salesforce.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
