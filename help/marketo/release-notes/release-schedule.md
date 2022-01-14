@@ -3,16 +3,16 @@ unique-page-id: 5472490
 description: Versionsschema - Marketo Docs - produktdokumentation
 title: Versionsschema
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 214a968579052d93952bdbdd6e00bfe057ca7dac
+source-git-commit: f8784ea51e24dda22a42991e2806c98f1f11386a
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '137'
 ht-degree: 1%
 
 ---
 
 # Versionsschema {#release-schedule}
 
-**Version**: Marketo använder ett större kvartalsvis utgivningsschema. När versionsinformationen är tillgänglig länkas den till tabellen nedan.
+**Frigör**: Månad/år för varje release. När versionsinformationen är tillgänglig länkas den i tabellen nedan.
 
 **Releasedatum**: Lanseringen börjar oftast på tisdagen i releaseminarien, och större delen av uppgraderingen sker på fredag kväll. Ett e-postmeddelande med specifika datum och versionsinformation skickas ut. Det listade datumet gäller uppdateringen på fredag.
 
@@ -29,37 +29,42 @@ _Releasedatum kan komma att ändras_
   <col> 
   <col> 
   <col> 
- </colgroup> 
+ </colgroup>
  <tbody> 
   <tr> 
-   <th width="250px">Frigör</th> 
-   <th width="250px">Releasedatum</th> 
-   <th width="250px">Status</th> 
-  </tr> 
+   <th width="250px">Frigör</th>
+   <th width="250px">Releasedatum</th>
+   <th width="250px">Status</th>
+  </tr>
   <tr> 
-   <td colspan="1"><a href="/help/marketo/release-notes/current.md">21 oktober</a></td> 
-   <td colspan="1">22 oktober 2021</td> 
-   <td colspan="1">Pågår</td> 
-  </tr> 
+   <td><a href="/help/marketo/release-notes/current.md">22 januari</a></td>
+   <td>21 januari 2022</td>
+   <td>Pågår</td>
+  </tr>
   <tr> 
-   <td colspan="1">22 januari</td> 
-   <td colspan="1">21 januari 2022</td> 
-   <td colspan="1">Vid schema</td> 
-  </tr> 
+   <td>22 mars</td>
+   <td>11 mars 2022</td>
+   <td>Vid schema</td>
+  </tr>
   <tr> 
-   <td colspan="1">22 maj</td> 
-   <td colspan="1">6 maj 2022</td> 
-   <td colspan="1">Vid schema</td> 
-  </tr> 
+   <td>22 maj</td>
+   <td>6 maj 2022</td>
+   <td>Vid schema</td>
+  </tr>
   <tr> 
-   <td colspan="1">22 augusti</td> 
-   <td colspan="1">19 augusti 2022</td> 
-   <td colspan="1">Vid schema</td> 
-  </tr> 
+   <td>22 juni</td>
+   <td>24 juni 2022</td>
+   <td>Vid schema</td>
+  </tr>
   <tr> 
-   <td colspan="1">22 oktober</td> 
-   <td colspan="1">14 oktober 2022</td> 
-   <td colspan="1">Vid schema</td> 
-  </tr> 
- </tbody> 
+   <td>22 augusti</td>
+   <td>19 augusti 2022</td>
+   <td>Vid schema</td>
+  </tr>
+  <tr>
+   <td>22 oktober</td>
+   <td>14 oktober 2022</td>
+   <td>Vid schema</td>
+  </tr>
+ </tbody>
 </table>
