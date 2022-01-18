@@ -4,9 +4,9 @@ title: Valideringsregler för globala formulär
 hide: true
 hidefromtoc: true
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: a95b889a36ae22aef6bc2ff5bc82f04751d389bd
+source-git-commit: 95aa6cdcede973e86757b4d9c758e2c7eb4bd5e6
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -33,15 +33,15 @@ Innan du kan använda den här funktionen måste du aktivera dess behörighet pe
 
 1. Dubbelklicka på den roll du vill ge behörighet till.
 
-   PICC
+   ![](assets/global-form-validation-rules-4.png)
 
 1. Klicka på **+** -signering bredvid Access Admin.
 
-   PICC
+   ![](assets/global-form-validation-rules-5.png)
 
 1. Bläddra nedåt och markera **Få åtkomst till verifieringsregler för formulär** och klicka **Spara**.
 
-   PICC
+   ![](assets/global-form-validation-rules-6.png)
 
 ## Skapa ny valideringsregel för formulär {#create-new-form-validation-rule}
 

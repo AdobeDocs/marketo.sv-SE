@@ -3,9 +3,9 @@ unique-page-id: 37357043
 description: Funktionsöversikt - Marketo Docs - produktdokumentation
 title: Funktionsöversikt
 exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
-source-git-commit: 7bac8a520bb1b8a2cc353c229e2f456476f67384
+source-git-commit: 95aa6cdcede973e86757b4d9c758e2c7eb4bd5e6
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '195'
 ht-degree: 2%
 
 ---
@@ -64,7 +64,15 @@ Följande funktioner är tillgängliga i den nya MSI MSD-lösningen.
 * Lägg till i Marketo Campaign
 * Skicka e-post till Marketo
 
-## Marketo Best Bets page  {#marketo-best-bets-page}
+## Marketo Sales Insight panel in Account Layout {#marketo-sales-insight-panel-in-account-layout}
+
+* Stjärnor och flamman
+* Intressant stund
+* Webbaktivitet
+* Poäng
+* E-post (öppna och klicka)
+
+## Marketo Best Bets page {#marketo-best-bets-page}
 
 * Prioritet (stjärnor och flamma)
 * Namn (hyperlänk till lead-/kontaktsida)

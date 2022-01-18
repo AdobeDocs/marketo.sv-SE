@@ -4,9 +4,9 @@ title: E-postverifiering
 hide: true
 hidefromtoc: true
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: c6eb6c099104bf0dccba36a7cc8a85dc03bdc9d3
+source-git-commit: 95aa6cdcede973e86757b4d9c758e2c7eb4bd5e6
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -34,4 +34,3 @@ I kolumnen Admin > Användare &amp; roller visas verifieringsstatusen för varje
 ![](assets/email-verification-3.png)
 
 Om du vill verifiera en overifierad användare markerar du användarens post och klickar på knappen **Verifiera e-post** -knappen.
-
