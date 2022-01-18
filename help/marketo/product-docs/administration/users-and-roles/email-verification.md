@@ -4,21 +4,34 @@ title: E-postverifiering
 hide: true
 hidefromtoc: true
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
+source-git-commit: c6eb6c099104bf0dccba36a7cc8a85dc03bdc9d3
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
 # E-postverifiering {#email-verification}
 
-Jag tror att du sa att vi precis ska skapa en ny sida som omfattar e-postverifiering för användare
+Prenumerationer på Adobe Marketo Engage kräver att alla användare som inte är API bara verifierar sin e-postadress. Användare med enkel inloggning (SSO) får automatiskt sin e-post verifierad när deras prenumeration är aktiverad med e-postverifiering.
 
-Användarinbjudan När en administratör bjuder in en användare, inte ändrar användargränssnittet eller användarupplevelsen När användaren klickar på länken inbjudan verifieras användarens e-postadress automatiskt av användare med enkel inloggning
+**Användarinbjudan**
 
-På skärmen för användarkonto visas e-postadressen som verifierad När e-postadressen uppdateras, så visas i gränssnittet att kontots e-postadress inte har verifierats och att e-postadressen skickas (se bifogad e-post)
+När en administratör bjuder in en användare verifieras den användaren automatiskt när han/hon klickar på länken för inbjudan. Användare med enkel inloggning verifieras automatiskt.
 
-Admin - Sidan Användare och roller Ny kolumn som visar verifieringsstatusen för en användare Ny knapp som utlöser e-postverifieringen för användaren igen
+**Ändra en e-postadress**
 
-MyMarketo När en användare med overifierad e-post loggar in bör en banderoll visas på sidan My Marketo (ENDAST).
+När en användares e-postadress ändras blir den inte verifierad. Ett e-postmeddelande skickas till dem där de kan verifiera igen. Administratörer kan skicka om e-postmeddelandet manuellt genom att klicka på **Skicka verifiering igen**.
+
+![](assets/email-verification-1.png)
+
+![](assets/email-verification-2.png)
+
+**Användare och roller**
+
+I kolumnen Admin > Användare &amp; roller visas verifieringsstatusen för varje användare i kolumnen E-poststatus.
+
+![](assets/email-verification-3.png)
+
+Om du vill verifiera en overifierad användare markerar du användarens post och klickar på knappen **Verifiera e-post** -knappen.
+
