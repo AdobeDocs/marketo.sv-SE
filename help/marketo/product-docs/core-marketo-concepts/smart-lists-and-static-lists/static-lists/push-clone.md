@@ -3,9 +3,9 @@ description: Push Clone - Marketo Docs - produktdokumentation
 title: Skjut klon
 hide: true
 hidefromtoc: true
-source-git-commit: 8920bc525075923b32e7330da20debb7b8f47b06
+source-git-commit: 97015b31c9a20a3052526a39ed26fc9cf0097e82
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '460'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ Med den här funktionen kan du överföra segment som finns i din Adobe Experien
 >
 >* [Skapa en API-användare](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) i Marketo.
 >* Gå sedan till **Administratör** > **Startpunkt**. Sök efter namnet på den roll du just skapade och klicka på **Visa detaljer**. Kopiera och spara informationen i **Klient-ID** och **Klienthemlighet** som du behöver för den här funktionen.
+>* Skapa en statisk lista i Marketo eller sök efter och välj en som du redan har skapat. Du behöver dess ID.
 
 
 1. Logga in på [Adobe Experience Platform](https://experience.adobe.com/).
@@ -53,15 +54,13 @@ Med den här funktionen kan du överföra segment som finns i din Adobe Experien
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-Därefter måste du välja om du bara vill matcha befintliga Marketo-användare eller matcha befintliga Marketo-användare och skapa de saknade i Marketo. Nedan finns avsnitt som visar hur du gör var och en av dem.
-
-## Matcha befintliga Marketo-användare och skapa saknade personer i Marketo {#match-existing-marketo-people-create-missing-people}
-
-Efter steg 1-8 ovan..
-
-1. Ange ett mål **Namn** och en valfri beskrivning. Klicka på listrutan Skapa person och välj **Matcha befintliga Marketo-användare och skapa saknade personer i Marketo**.
+1. Ange ett mål **Namn** och en valfri beskrivning. Klicka på listrutan Skapa person och välj&quot;Matcha befintliga Marketo-personer och skapa saknade personer i Marketo&quot; _eller_ &quot;Matcha endast befintliga Marketo-användare.&quot; I det här exemplet väljer vi den första.
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
+
+   >[!NOTE]
+   >
+   >Om du väljer&quot;Matcha endast befintliga Marketo-användare&quot; behöver du bara mappa e-postmeddelandet och/eller ECID så att du kan hoppa över steg 13-16.
 
 1. Det här avsnittet är valfritt. Klicka **Skapa** att hoppa över.
 
@@ -87,7 +86,7 @@ Efter steg 1-8 ovan..
 
    ![](assets/push-an-adobe-experience-platform-segment-15.png)
 
-1. Mappa efternamn och företagsnamn genom att klicka på **Lägg till ny mappning** och upprepa steg 7 två gånger, välj lastName och sedan companyName.
+1. Mappa efternamn och företagsnamn genom att klicka på **Lägg till ny mappning** och upprepa steg 15 två gånger genom att välja **lastName** och sedan **companyName**.
 
    ![](assets/push-an-adobe-experience-platform-segment-16.png)
 
@@ -111,26 +110,34 @@ Efter steg 1-8 ovan..
 
    ![](assets/push-an-adobe-experience-platform-segment-21.png)
 
-MORREEEE
+1. Om du vill välja källfältet för företagsnamnet klickar du på markörikonen på raden.
 
-## Matcha endast befintliga Marketo-användare {#match-existing-marketo-people-only}
+   ![](assets/push-an-adobe-experience-platform-segment-22.png)
 
->[!NOTE]
->
->Identiteter används för att söka efter matchningar i Marketo. Om en matchning hittas läggs personen till i den statiska listan. Om ingen matchning hittas tas dessa personer bort (d.v.s. de skapas inte i Marketo).
+1. Låt alternativknappen Välj attribut vara markerad. Sök efter&quot;företag&quot; och välj **companyName** och sedan klicka **Välj**.
 
-1. _I Marketo_, skapar en statisk lista eller söker efter och väljer en som du redan har skapat. Kopiera mappnings-ID:t från slutet av URL:en.
+   ![](assets/push-an-adobe-experience-platform-segment-23.png)
 
-PICC
+1. Mappa källfälten för Efternamn och Förnamn genom att klicka på markörikonen för varje och upprepa steg 23 två gånger. Välj **lastName** och sedan **firstName**.
 
->[!NOTE]
->
->För bästa resultat bör du se till att den lista du refererar till i Marketo är tom.
+   ![](assets/push-an-adobe-experience-platform-segment-24.png)
 
-1. I Adobe Experience Platform anger du det ID du just kopierade. Välj startdatum. Människor synkroniseras kontinuerligt till det valda slutdatumet. Lämna slutdatumet tomt om du vill synkronisera oändligt. Klicka **Nästa** när det är klart.
+1. Klicka **Nästa**.
 
-PICC
+   ![](assets/push-an-adobe-experience-platform-segment-25.png)
 
-1. Bekräfta ändringarna och klicka på **Slutför**.
+1. Du behöver nu din listas ID. Klicka på den flik i webbläsaren där Marketo statiska lista är öppen (eller öppna en ny flik och välj önskad statisk lista).
 
-PICC
+   ![](assets/push-an-adobe-experience-platform-segment-26.png)
+
+1. Markera och kopiera list-ID:t i slutet av URL:en.
+
+   ![](assets/push-an-adobe-experience-platform-segment-27.png)
+
+1. Klistra in det ID du kopierade under Mappnings-ID och klicka på **Nästa**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-28.png)
+
+1. Klicka **Slutför**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-29.png)
