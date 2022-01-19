@@ -3,9 +3,9 @@ description: Push Clone - Marketo Docs - produktdokumentation
 title: Skjut klon
 hide: true
 hidefromtoc: true
-source-git-commit: 97015b31c9a20a3052526a39ed26fc9cf0097e82
+source-git-commit: 58b9589e5364584c3b2f41dc1a32496a18574429
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '567'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,10 @@ Med den här funktionen kan du överföra segment som finns i din Adobe Experien
 
    ![](assets/push-an-adobe-experience-platform-segment-7.png)
 
+   >[!NOTE]
+   >
+   >Om du väljer Nytt konto kan du hitta ditt Munchkin-ID genom att gå till **Administratör** > **Munchkin** (den ingår också i din Marketo-URL när du har loggat in). Klient-ID/hemlighet som du bör ha från att följa de krav som anges högst upp i den här artikeln.
+
 1. Välj målkonto och klicka på **Välj**.
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
@@ -73,6 +77,10 @@ Med den här funktionen kan du överföra segment som finns i din Adobe Experien
 1. Välj det segment som du vill skicka till Marketo och klicka på **Nästa**.
 
    ![](assets/push-an-adobe-experience-platform-segment-12.png)
+
+   >[!NOTE]
+   >
+   >Om du väljer flera segment här måste du mappa varje segment till en angiven statisk lista på fliken Segmentschema.
 
 1. Klicka **Lägg till ny mappning**.
 
@@ -102,6 +110,10 @@ Med den här funktionen kan du överföra segment som finns i din Adobe Experien
 
    ![](assets/push-an-adobe-experience-platform-segment-19.png)
 
+   >[!IMPORTANT]
+   >
+   >Mappa e-post och/eller ECID från **Identitetsnamnutrymme** -fliken är det viktigaste att göra för att säkerställa att personen matchas i Marketo. Mappning via e-post ger högsta matchningsfrekvens.
+
 1. Nu är det dags att välja källfälten. Klicka på markörikonen för e-post.
 
    ![](assets/push-an-adobe-experience-platform-segment-20.png)
@@ -129,6 +141,10 @@ Med den här funktionen kan du överföra segment som finns i din Adobe Experien
 1. Du behöver nu din listas ID. Klicka på den flik i webbläsaren där Marketo statiska lista är öppen (eller öppna en ny flik och välj önskad statisk lista).
 
    ![](assets/push-an-adobe-experience-platform-segment-26.png)
+
+   >[!NOTE]
+   >
+   >Använd en tom Marketo Engage-lista för bästa resultat.
 
 1. Markera och kopiera list-ID:t i slutet av URL:en.
 
