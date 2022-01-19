@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359685
-description: The Engagement Dashboard - Marketo Docs - produktdokumentation
+description: Engagement Dashboard - Marketo Docs - produktdokumentation
 title: Instrumentpanelen för engagemang
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
+source-git-commit: 8920bc525075923b32e7330da20debb7b8f47b06
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Instrumentpanelen för engagemang {#the-engagement-dashboard}
 
@@ -17,17 +16,17 @@ Engagement Dashboard är det enklaste sättet att se hur innehållet i ert engag
 
 >[!NOTE]
 >
->Förlovningsresultatet beräknas 72 timmar efter varje sändning. Läs mer om [engagemangspoängen](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+>Engagemangsmomentet innehåller data från de tre senaste skiftningarna. En ny beräknas 72 timmar efter varje sändning. Läs mer om [engagemangspoäng](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 ## Visa instrumentpanelen för engagemang {#view-the-engagement-dashboard}
 
-Välj ditt engagemangsprogram och klicka på **Visa** > **Kontrollpanel**.
+Välj engagemangsprogram och klicka **Visa** > **Kontrollpanel**.
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
 >[!TIP]
 >
->Mer detaljerad statistik finns i [rapporten om hur engagemangsströmmen fungerar](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md).
+>Kolla in [prestandarapport för avtalsström](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) för mer detaljerad statistik.
 
 ## Förstå utgiftswidgeten {#understand-the-exhaustion-widget}
 
@@ -37,7 +36,7 @@ Med den här widgeten kan du förutse när leads har fyllt allt innehåll. Utmat
 
 >[!NOTE]
 >
->Du måste gå till fliken Inställningar och kontrollera att meddelanden om utfyllt innehåll är **On** för att se diagrammet ovan. Om de är avaktiverade ser diagrammet annorlunda ut.
+>Du måste gå till fliken Inställningar och kontrollera att meddelanden om utökat innehåll är **På** om du vill se diagrammet ovan. Om de är avaktiverade ser diagrammet annorlunda ut.
 
 >[!CAUTION]
 >
@@ -49,7 +48,7 @@ Visar den genomsnittliga engagemangspoängen över tid och effekten av innehåll
 
 >[!AVAILABILITY]
 >
->Den här funktionen är tillgänglig som ett tillägg för kunder som använder Marketos intäktscykel Explorer. Kontakta din Customer Success Manager om du vill ha mer information.
+>Den här funktionen är tillgänglig som tillägg för kunder som använder Marketo Revenue Cycle Explorer. Kontakta din Customer Success Manager om du vill ha mer information.
 
 ![](assets/image2014-9-15-16-3a45-3a50.png)
 
@@ -67,8 +66,8 @@ Om du vill ändra sorteringen klickar du på kugghjulsikonen och väljer sedan s
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-__ Newestand  __ Oldestare baseras på tidpunkten för det senaste godkännandet.
+_Nyaste_ och _Äldsta_ baseras på tidpunkten för det senaste godkännandet.
 
 >[!NOTE]
 >
->Läs mer i [Create an Engagement Program](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) deep dive.
+>Läs mer i [Skapa ett engagerande program](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) Djupdykning.
