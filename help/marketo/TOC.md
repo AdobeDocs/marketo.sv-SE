@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 655728b5c60f0215c973b87d581fc0c45eb25c88
+source-git-commit: 879500ff3ab464ab56b4cbd779a3021706055790
 workflow-type: tm+mt
-source-wordcount: '8261'
+source-wordcount: '8255'
 ht-degree: 0%
 
 ---
@@ -91,7 +91,6 @@ ht-degree: 0%
          + [Lägsta systemkrav](product-docs/administration/setup-administration/minimum-system-requirements.md)
          + [Munchkin](product-docs/administration/setup-administration/munchkin.md)
          + [Webbläsare som stöds](product-docs/administration/setup-administration/supported-browsers.md)
-         + [Valideringsregel för globalt formulär](product-docs/administration/setup-administration/global-form-validation-rule.md)
       + Ytterligare integreringar {#additional-integrations}
          + [Lägg till Adobe Connect som en LaunchPoint-tjänst](product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
          + [Lägg till Google AdWords som en startpunktstjänst med ett hanterarkonto](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
@@ -361,7 +360,6 @@ ht-degree: 0%
             + [Skapa en statisk lista](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
             + [Skicka en lista till Adobe Experience Cloud](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)
             + [Överför ett Adobe Experience Platform-segment till en Marketo Static List](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md)
-            + [Skjut klon](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-clone.md)
             + [Statiska listor](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)
       + Program {#programs}
          + Skapa program {#creating-programs}
