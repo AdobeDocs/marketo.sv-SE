@@ -2,34 +2,29 @@
 unique-page-id: 42762409
 description: Sales Insight Page for Marketo Admins - Marketo Docs - produktdokumentation
 title: Sales Insight Page for Marketo Admins
-translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+exl-id: d98bc9d8-1a72-405f-b1d7-b71ad88c8493
+source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
-
 
 # Sales Insight Page for Marketo Admins {#sales-insight-page-for-marketo-admins}
 
 Marketo-administratörer har vissa privilegier i Sales Insight. Läs vad de är nedan.
 
-## Konfiguration för SOAP API {#soap-api-configuration}
+## Konfiguration av Soap API {#soap-api-configuration}
 
-De här inloggningsuppgifterna används för att ansluta ditt Salesforce-konto till din Marketo-instans för att använda MSI i Salesforce.
+Dessa autentiseringsuppgifter används för att ansluta ditt Salesforce-konto till din Marketo-instans för att använda MSI i Salesforce.
 
 ![](assets/one-1.png)
 
 ## Återstående API-konfiguration {#rest-api-configuration}
 
-De här inloggningsuppgifterna används för att ansluta ditt Salesforce-konto till din Marketo-instans för att använda MSI Insights Dashboard i Salesforce.
+De här inloggningsuppgifterna används för att ansluta ditt Salesforce-konto till din Marketo-instans för att kunna använda MSI Insights Dashboard i Salesforce.
 
 ![](assets/two-1.png)
-
-Du kan välja att ta bort Rest API-autentiseringsuppgifter i SFDC och endast använda Soap API:er. Detta inaktiverar Insikt-instrumentpanelen
-
-![](assets/three-1.png)
 
 ## Inställningar för personpoäng {#person-score-settings}
 
@@ -38,11 +33,11 @@ Du kan välja att ta bort Rest API-autentiseringsuppgifter i SFDC och endast anv
 
 Som standard använder Marketo Sales Insight fältet Lead Score för att beräkna stjärnor och lågor. Men om du vill välja ett annat fält, så här:
 
-1. I området **Admin** på Marketo klickar du på **Sales Insight**.
+1. I **Administratör** Marketo klickar du **Försäljningsinsikter**.
 
    ![](assets/four.png)
 
-1. Klicka på **Redigera** under Inställningar för poängsättning för lead.
+1. Klicka på under Inställningar för leadpoäng **Redigera**.
 
    ![](assets/five.png)
 
@@ -54,13 +49,13 @@ Som standard använder Marketo Sales Insight fältet Lead Score för att beräkn
 
    ![](assets/seven.png)
 
-1. Klicka på **Spara**. Försäljningsinsikter kan ta lite tid att omberäkna. Du kan kontrollera CRM senare för att se stjärnorna och lågor.
+1. Klicka **Spara**. Försäljningsinsikter kan ta lite tid att omberäkna. Du kan kontrollera CRM senare för att se stjärnorna och lågor.
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >Om du inte redan har dina anpassade poängfält gör du så här för att [skapa dem](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
+   >Så här gör du om du inte redan har dina anpassade poängfält [skapa dem](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
    >[!MORELIKETHIS]
    >
@@ -89,7 +84,7 @@ När det här alternativet är aktiverat kan MSI-användare visa sin lead-feed i
 
 **Giltighetstid för token:**
 
-Förfallotid för token styrs i Funktionshanteraren. Om du vill aktivera/inaktivera den kan du kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support). När det här alternativet är aktiverat upphör alla Marketo-tokens att gälla inom 10 minuter. När Marketo-token är inaktiverad upphör den inte att gälla.
+Förfallotid för token styrs i Funktionshanteraren. Om du vill aktivera/inaktivera den kan du kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support). När det här alternativet är aktiverat upphör alla Marketo-tokens att gälla inom 10 minuter. När funktionen är inaktiverad upphör inte Marketo-tokens att gälla.
 
 Token som genererats innan Token Expiration aktiverades har ingen förfallotid att validera mot, så de upphör inte att gälla även om funktionen är aktiverad.
 

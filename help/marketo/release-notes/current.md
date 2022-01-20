@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
+source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
 workflow-type: tm+mt
-source-wordcount: '1039'
+source-wordcount: '1055'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Följande funktioner finns i januari 22. Se om det finns funktioner i Adobe Mark
 
 **_Kvartalsvisa releaser_**
 
-Följande funktioner kommer att släppas den **21 januari 2022**.
+Följande funktioner kommer att lanseras den **21 januari 2022**, med en fasad utrullning av alla funktioner under den följande veckan (om inget annat anges).
 
 ## Nästa generations upplevelse {#next-generation-experience}
 

@@ -5,7 +5,7 @@ title: Välj en åtgärd i Sales Insight
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
 source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -27,27 +27,28 @@ Var och en av dessa funktioner kan nås från:
 * Knappen Lead-layout: En åtgärd och kan inte styras av användarprofilen
 * Kontaktlayoutsknapp: En åtgärd och kan inte styras av användarprofilen
 
-   ![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-1.png)
 
 **Sidlayout med gruppåtgärd**
 
-Panelen Kontolayout: Gruppåtgärd och kan styras av panelen för användarprofilslayout: Gruppåtgärd och kan styras av användarprofil
+* Panelen Kontolayout: Gruppåtgärd och kan styras av användarprofil
+* Panelen för säljprojektslayout: Gruppåtgärd och kan styras av användarprofil
 
-![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-2.png)
 
 **Fliken Bästa val**
 
 * Fliken Best Bets Bulk Actions: Gruppåtgärd och kan styras av användarprofil
 
-   ![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-3.png)
 
 * Fliken Best Bets In-line Actions: En åtgärd och kan styras av användarprofilen
 
-   ![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-4.png)
 
 **Listvy med gruppåtgärd**
 
 * Leadlistvy: Massåtgärd och kan inte styras av användarprofilen
 * Visa kontaktlista: Massåtgärd och kan inte styras av användarprofilen
 
-   ![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-5.png)
