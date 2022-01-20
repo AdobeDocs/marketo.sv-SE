@@ -4,9 +4,9 @@ title: Samtalsorsaker
 hide: true
 hidefromtoc: true
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
-source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
+source-git-commit: c4bee632b1099f135cd4f7f0553a1d60dd4986cc
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,10 @@ Låt säljteamen välja samtalsorsaker när de ringer samtal så att teamet kan 
    ![](assets/call-reasons-4.png)
 
 ## Skapa samtalsorsak {#create-call}
+
+>[!NOTE]
+>
+>Du kan skapa högst 15 samtalsskäl.
 
 1. Klicka på kugghjulsikonen och välj **Inställningar**.
 

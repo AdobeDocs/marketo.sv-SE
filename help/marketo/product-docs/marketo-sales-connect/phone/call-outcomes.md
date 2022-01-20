@@ -4,9 +4,9 @@ title: Utfall för samtal
 hide: true
 hidefromtoc: true
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
-source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
+source-git-commit: c4bee632b1099f135cd4f7f0553a1d60dd4986cc
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,10 @@ Låt säljteamen välja samtalsresultat när de ringer samtal så att teamet kan
    ![](assets/call-outcomes-4.png)
 
 ## Skapa samtalsutfall {#create-call-outcomes}
+
+>[!NOTE]
+>
+>Du kan skapa maximalt 15 Call Outcome.
 
 1. Klicka på kugghjulsikonen och välj **Inställningar**.
 
