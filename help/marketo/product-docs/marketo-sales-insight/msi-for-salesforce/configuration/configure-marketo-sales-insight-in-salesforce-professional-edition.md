@@ -1,15 +1,14 @@
 ---
 unique-page-id: 3571743
-description: Configure Marketo Sales Insight in Salesforce Professional Edition - Marketo Docs - produktdokumentation
+description: Konfigurera Marketo Sales Insight i Salesforce Professional Edition - Marketo Docs - produktdokumentation
 title: Konfigurera Marketo Sales Insight i Salesforce Professional Edition
-translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
+source-git-commit: 84ac037a041398bdb1a056c3ab2fcf0d516f0097
 workflow-type: tm+mt
-source-wordcount: '905'
+source-wordcount: '901'
 ht-degree: 0%
 
 ---
-
 
 # Konfigurera Marketo Sales Insight i Salesforce Professional Edition {#configure-marketo-sales-insight-in-salesforce-professional-edition}
 
@@ -18,9 +17,8 @@ Här är de steg du måste ta för att konfigurera Marketo Sales Insight i Sales
 >[!PREREQUISITES]
 >
 >* Installera Marketo i Salesforce Professional Edition.
-   >
-   >
-* [Installera Marketo Sales Insight-paket i Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+>
+>* [Installera Marketo Sales Insight-paket i Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
 
 >[!NOTE]
@@ -29,12 +27,12 @@ Här är de steg du måste ta för att konfigurera Marketo Sales Insight i Sales
 
 ## Konfigurera Sales Insight i Marketo {#configure-sales-insight-in-marketo}
 
-1. Öppna ett nytt webbläsarfönster för att hämta Marketo Sales Insight-inloggningsuppgifterna från ditt Marketo-konto.
-1. Gå till området Admin och välj **Sales Insight**.
+1. Öppna ett nytt webbläsarfönster för att hämta inloggningsuppgifterna för Marketo Sales Insight från ditt Marketo-konto.
+1. Gå till området Admin och välj **Försäljningsinsikter**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1-1.png)
 
-1. Klicka på **Redigera API-konfiguration**.
+1. Klicka **Redigera API-konfiguration**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-2-1.png)
 
@@ -46,53 +44,53 @@ Här är de steg du måste ta för att konfigurera Marketo Sales Insight i Sales
    >
    >Din API-hemliga nyckel är som ett lösenord för din organisation och bör vara säker.
 
-1. Klicka på **Visa** i konfigurationspanelen för det virtuella minnet för det virtuella minnet för att fylla i inloggningsuppgifterna.
+1. Klicka **Visa** på panelen Rest API Configuration för att fylla i autentiseringsuppgifterna.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-4-1.png)
 
-1. Ett bekräftelsemeddelande visas. Klicka på **OK**.
+1. Ett bekräftelsemeddelande visas. Klicka **OK**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5-1.png)
 
 ## Konfigurera säljinsikter i Salesforce {#configure-sales-insight-in-salesforce}
 
-1. Klicka på **Inställningar** i Salesforce.
+1. I Salesforce klickar du på **Inställningar**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-6-1.png)
 
-1. Sök efter &quot;fjärrplats&quot; och välj **Inställningar för fjärrplats**.
+1. Sök efter&quot;fjärrwebbplats&quot; och välj **Inställningar för fjärrplats**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-7-1.png)
 
-1. Klicka på **Ny fjärrplats**.
+1. Klicka **Ny fjärrplats**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8-1.png)
 
-1. Ange namnet på fjärrplatsen (det kan vara något som &quot;MarketoSoapAPI&quot;). Ange URL för fjärrplats, som är din Marketo-värd-URL från panelen Konfiguration av Soap API i Marketo. Klicka på **Spara**. Du har nu skapat fjärrplatsinställningar för Soap API.
+1. Ange namnet på fjärrplatsen (det kan vara något som &quot;MarketoSoapAPI&quot;). Ange URL för fjärrplatsen, som är din Marketo-värd-URL från panelen Konfigurera Soap API i Marketo. Klicka **Spara**. Du har nu skapat fjärrplatsinställningar för Soap API.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9-1.png)
 
-1. Klicka på **Ny fjärrplats** igen.
+1. Klicka **Ny fjärrplats** igen.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10-1.png)
 
-1. Ange namnet på fjärrplatsen (det kan vara något som &quot;MarketoRestAPI&quot;). Ange URL för fjärrplats, som är din API-URL från panelen för konfiguration av återställnings-API i Marketo. Klicka på **Spara**. Du har nu skapat fjärrplatsinställningar för Rest API.
+1. Ange namnet på fjärrplatsen (det kan vara något som &quot;MarketoRestAPI&quot;). Ange URL för fjärrplats, som är din API-URL från konfigurationspanelen för Rest API i Marketo. Klicka **Spara**. Du har nu skapat fjärrplatsinställningar för Rest API.
 
 ## Ställ in Marketo Sales Insight {#set-up-marketo-sales-insight}
 
-1. Logga in på din Marketo-instans och klicka på **Admin**.
+1. Logga in på din Marketo-instans och klicka på **Administratör**.
 
    ![](assets/login-admin-1.png)
 
-1. Klicka på **Sales Insight**.
+1. Klicka **Försäljningsinsikter**.
 
    ![](assets/image2015-5-22-15-3a12-3a33-1.png)
 
-1. Klicka på **Redigera API-konfiguration**.
+1. Klicka **Redigera API-konfiguration**.
 
    ![](assets/image2015-5-22-15-3a15-3a0-1.png)
 
-1. Ange en **API-hemlig nyckel** och klicka på **Spara**.
+1. Ange en **API-hemlig nyckel** och klicka **Spara**.
 
    >[!CAUTION]
    >
@@ -104,45 +102,45 @@ Här är de steg du måste ta för att konfigurera Marketo Sales Insight i Sales
    >
    >Låt det här fönstret vara öppet. Du behöver den här informationen senare i Salesforce.
 
-1. Gå tillbaka till Salesforce och klicka på **Inställningar**.
+1. Gå tillbaka till Salesforce, klicka **Inställningar**.
 
    ![](assets/image2015-5-22-14-3a40-3a39-1.png)
 
-1. Sök efter &quot;fjärrplats&quot; och klicka på **Fjärrplatsinställning** under **Säkerhetskontroller**.
+1. Sök efter fjärrplats och klicka på **Inställning för fjärrplats** under **Säkerhetskontroller**.
 
    ![](assets/image2014-9-24-17-3a25-3a52.png)
 
-1. Klicka på **Ny fjärrplats**.
+1. Klicka **Ny fjärrplats**.
 
    ![](assets/image2014-9-24-17-3a26-3a6.png)
 
-1. Ange **Namn på fjärrplats** och **URL för fjärrplats** och klicka sedan på **Spara**.
+1. Retur **Namn på fjärrplats** och **URL för fjärrwebbplats** och sedan klicka **Spara**.
 
    ![](assets/remote-site-1.png)
 
    >[!NOTE]
    >
-   >Du väljer ditt **fjärrwebbplatsnamn** (MarketoAPI används här). URL:en för **fjärrplatsen** finns i fältet Marketo Host i dialogrutan Redigera API-konfiguration från steg 4.
+   >Du väljer **Namn på fjärrplats** (MarketoAPI används här). The **URL för fjärrwebbplats** finns i fältet Marketo Host i dialogrutan Redigera API-konfiguration från steg 4.
 
 ## Anpassa sidlayouter {#customize-page-layouts}
 
-1. Klicka på **Inställningar**.
+1. Klicka **Inställningar**.
 
    ![](assets/image2015-5-22-14-3a40-3a39-1.png)
 
-1. Sök efter&quot;sidlayout&quot; och välj **sidlayout** under **Leads**.
+1. Sök efter&quot;sidlayout&quot; och välj **Sidlayout** under **Leads**.
 
    ![](assets/image2015-5-28-14-3a58-3a39-1.png)
 
-1. Klicka på **Visualforce-sidor** till vänster. Dra **Avsnitt** till layouten under Anpassade länkar.
+1. Klicka **Visualforce-sidor** till vänster. Dra **Avsnitt** till layouten under Anpassade länkar.
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 
-1. Ange&quot;Marketo Sales Insight&quot; som **avsnittsnamn**. Välj **1-kolumn** och klicka på **OK**.
+1. Ange&quot;Marketo Sales Insight&quot; som **Avsnittsnamn**. Välj **1 kolumn** och klicka **OK**.
 
    ![](assets/image2014-9-24-17-3a33-3a23.png)
 
-1. Dra och släpp **Lead** i det nya avsnittet.
+1. Dra och släpp **Lead** till det nya avsnittet.
 
    ![](assets/image2014-9-24-17-3a33-3a45.png)
 
@@ -150,11 +148,11 @@ Här är de steg du måste ta för att konfigurera Marketo Sales Insight i Sales
    >
    >Namnet på den här rutan ändras beroende på objekttypen. Om du till exempel ändrar sidlayouten för Kontakter står Kontakt.
 
-1. Dubbelklicka på **Lead**-blocket som du nyss lade till.
+1. Dubbelklicka på **Lead** -block som du just har lagt till.
 
    ![](assets/image2014-9-24-17-3a34-3a0.png)
 
-1. Redigera höjden till **450** pixlar och klicka på **OK**.
+1. Redigera höjd till **450** pixlar och klicka **OK**.
 
    ![](assets/image2014-9-24-17-3a34-3a26.png)
 
@@ -162,7 +160,7 @@ Här är de steg du måste ta för att konfigurera Marketo Sales Insight i Sales
    >
    >Vi rekommenderar en höjd på 410 pixlar för objekten Konton och Affärsmöjligheter.
 
-1. Klicka på **Fält** till vänster. Sök och dra sedan etiketten **Engagement** till layouten **Marketo Sales Insight**.
+1. Klicka på **Fält** till vänster. Sök och dra sedan **Engagemang** etiketten i **Marketo Sales Insight** layout.
 
    ![](assets/image2015-5-22-16-3a32-3a46-1.png)
 
@@ -194,18 +192,18 @@ Här är de steg du måste ta för att konfigurera Marketo Sales Insight i Sales
  </tbody> 
 </table>
 
-1. Klicka på **Spara** när du är klar.
+1. klicka **Spara** när du är klar.
 
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
-1. Upprepa den här processen om du vill lägga till Visualforce-sidavsnitt och Sales Insight-fält för **Kontakt**, **Konto** och **Möjlighet**.
-1. Upprepa steg 5-7 för att lägga till Visualforce-sidavsnitt för kontakt, konto och säljprojekt. Upprepa sedan steg 8-10 för att lägga till Sales Insight-fält för **kontakt**. Glöm inte att spara efter ändringarna.
+1. Upprepa den här processen för att lägga till Visualforce-sidavsnitt och Sales Insight-fält för **Kontakt**, **Konto** och **Möjligheter**.
+1. Upprepa steg 5-7 för att lägga till Visualforce-sidavsnitt för kontakt, konto och säljprojekt. Upprepa sedan steg 8-10 för att lägga till Sales Insight-fält för **Kontakt**. Glöm inte att spara efter ändringarna.
 
 ## Mappa anpassade personfält {#map-custom-person-fields}
 
-Marketo-personfält måste mappas till Salesforce-kontaktfält för att konverteringen ska fungera korrekt. Så här gör du.
+Marketo personfält måste mappas till Salesforce-kontaktfält för att säkerställa att konverteringen fungerar som den ska. Så här gör du.
 
-1. Klicka på **Inställningar**.
+1. Klicka **Inställningar**.
 
    ![](assets/image2015-5-22-14-3a40-3a39-1.png)
 
@@ -213,11 +211,11 @@ Marketo-personfält måste mappas till Salesforce-kontaktfält för att konverte
 
    ![](assets/image2015-6-1-9-3a54-3a50-1.png)
 
-1. Klicka på **Mappa lead-fält**.
+1. Klicka **Mappa leadfält**.
 
    ![](assets/image2015-6-1-9-3a58-3a48-1.png)
 
-1. Klicka på listrutan till höger för **engagemang**.
+1. Klicka på listrutan till höger för **Engagemang**.
 
    ![](assets/image2015-6-1-10-3a9-3a53-1.png)
 
@@ -230,7 +228,7 @@ Marketo-personfält måste mappas till Salesforce-kontaktfält för att konverte
 <table> 
  <tbody> 
   <tr> 
-   <th colspan="1" rowspan="1">Marketo Person, anpassat fält</th> 
+   <th colspan="1" rowspan="1">Anpassat fält för Marketo-person</th> 
    <th colspan="1" rowspan="1">Anpassat fält för Salesforce-kontakt</th> 
   </tr> 
   <tr> 
@@ -264,23 +262,23 @@ Marketo-personfält måste mappas till Salesforce-kontaktfält för att konverte
  </tbody> 
 </table>
 
-1. Klicka på **Spara** när du är klar.
+1. Klicka **Spara** när du är klar.
 
    ![](assets/image2014-9-24-17-3a37-3a17.png)
 
 ## Marketo Sales Insight Config {#marketo-sales-insight-config}
 
-1. Klicka på **+** och välj sedan **Marketo Sales Insight Config**.
+1. Klicka **+** och sedan markera **Marketo Sales Insight Config**.
 
    ![](assets/image2014-9-24-17-3a37-3a45.png)
 
-1. Markera **Aktivera Marketo API**. Fyll sedan i [API-konfigurationsinformationen i Marketo Admin](#set-up-marketo-sales-insight). Klicka på **Spara ändringar** när du är klar.
+1. Kontrollera **Aktivera Marketo API**. Fyll sedan i [API-konfigurationsinformation i Marketo Admin](#set-up-marketo-sales-insight). Klicka **Spara ändringar** när du är klar.
 
    ![](assets/image2014-9-24-17-3a38-3a0.png)
 
    >[!NOTE]
    >
-   >Om diagnostiktestet misslyckas kan du behöva [lägga till fler fält i sidlayouten](https://nation.marketo.com/docs/DOC-1115).
+   >Om diagnostiktestet misslyckades kan du behöva [lägga till fler fält i sidlayouten](https://nation.marketo.com/docs/DOC-1115).
 
 Och det är allt! Du bör kunna se fälten Marketo Sales Insight för Leads, Contacts, Accounts och Opportunity.
 
@@ -290,21 +288,21 @@ Och det är allt! Du bör kunna se fälten Marketo Sales Insight för Leads, Con
 >
 >För konton kommer Sales Insight att inkludera alla e-postmeddelanden, men bara de senaste intressanta stunderna, webbaktiviteten och poängändringarna.
 
-## Access Marketo Sales Insight {#access-marketo-sales-insight}
+## Öppna Marketo Sales Insight {#access-marketo-sales-insight}
 
-1. I Salesforce klickar du på **+** i slutet av flikfältet och klickar på **Marketo Sales Insight Config**.
+1. I Salesforce klickar du på **+** i slutet av flikfältet och klicka på **Marketo Sales Insight Config**.
 
-1. Markera kryssrutan **Aktivera Marketo API**.
+1. Välj **Aktivera Marketo API** kryssrutan.
 
-1. Kopiera inloggningsuppgifterna från Soap API-panelen på Marketos Sales Insight Admin-sida och klistra in dem i Soap API-avsnittet på Salesforce Sales Insight Configuration-sidan.
+1. Kopiera inloggningsuppgifterna från Soap API-panelen på Marketo Sales Insight Admin-sida och klistra in dem i Soap API-avsnittet på Salesforce Sales Insight Configuration-sidan.
 
-1. Kopiera inloggningsuppgifterna från panelen Rest API på Marketos Sales Insight Admin-sida och klistra in dem i delen Rest API på sidan Konfiguration av Salesforce Sales Insight.
+1. Kopiera inloggningsuppgifterna från panelen Rest API på Marketo Sales Insight Admin-sida och klistra in dem i delen Rest API på konfigurationssidan för Salesforce Sales Insight.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
 
 >[!MORELIKETHIS]
 >
 >* [Prioritet, Urklipp, Relativa poäng och Bästa val](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
->* [Lägg till Marketo Sales Insight-flik och knappar i Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
+>* [Lägg till Marketo-flik i Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
 >* [Konfigurera Sales Insight för ditt team](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
 
