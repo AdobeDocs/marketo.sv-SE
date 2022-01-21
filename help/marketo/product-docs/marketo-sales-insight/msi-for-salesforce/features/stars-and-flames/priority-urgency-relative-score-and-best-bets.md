@@ -2,20 +2,19 @@
 unique-page-id: 2950396
 description: Prioritet, Urklipp, Relativ poäng och Bästa val - Marketo Docs - Produktdokumentation
 title: Prioritet, Urklipp, Relativa poäng och Bästa val
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
+source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '452'
 ht-degree: 0%
 
 ---
-
 
 # Prioritet, Urklipp, Relativa poäng och Bästa val {#priority-urgency-relative-score-and-best-bets}
 
 Marketo Sales Insight väljer ut dina bästa leads och kontakter baserat på deras prioritet. En lead eller kontakts prioritet har två komponenter - trängsel och relativ poäng.
 
-![](assets/one.png)
+![](assets/priority-urgency-relative-score-and-best-bets-1.png)
 
 De bygger på huvudpoängen - ett mått på personens intresse för dina produkter. Ju högre poäng, desto mer troligt är det att de svarar positivt på ett samtal från säljteamet.
 
@@ -23,17 +22,17 @@ De bygger på huvudpoängen - ett mått på personens intresse för dina produkt
 >
 >Ni behöver flera poängsättningskampanjer för att få ut maximalt av prioritet, brådskande och relativ poäng.  För få eller inga poängkampanjer gör de här fälten inte användbara.
 
-## Åtgärd {#urgency}
+## Akut {#urgency}
 
 Lågorna är brådskande - hur mycket personens ledspår har ändrats nyligen. Ett mycket brådskande (mer lågornas) innebär att poängen för detta lead har ökat mycket på sistone. är det ett gott tecken på att denna lead är intresserad av ditt erbjudande. Du borde följa upp med den här personen snabbt!
 
 En lead som till exempel har begärt en demo och besökt flera webbsidor kommer förmodligen att ha en väldigt hög prioritet. En ledare som inte besökt din webbsida eller öppnade dina e-postmeddelanden kommer att ha låg brådska. Det är angeläget att prioritera vilka som ska kontaktas härnäst.
 
-![](assets/two.png)
+![](assets/priority-urgency-relative-score-and-best-bets-2.png)
 
-## Relativ poäng {#relative-score}
+## Relativa poäng {#relative-score}
 
-Stjärnorna representerar relativa poäng - ett mått på hur den här personens poäng kan jämföras med andras. En hög relativ poäng innebär att den här personen förmodligen är mer intresserad och informerad om ditt erbjudande jämfört med personer med lägre relativa poäng.
+Stjärnorna representerar relativa poäng - ett mått på hur den här personens poäng kan jämföras med alla andras. En hög relativ poäng innebär att den här personen förmodligen är mer intresserad och informerad om ditt erbjudande jämfört med personer med lägre relativa poäng.
 
 Om två leads är lika brådskande kan du använda relativa poäng för att avgöra vilken som är värd att ringa ett telefonsamtal först. Den som har den högre relativa poängen kan reagera mer positivt på ert erbjudande jämfört med den lägre.
 
@@ -43,7 +42,7 @@ Bästa valet är dina leads och kontakter med högsta prioritet och relativa po�
 
 >[!NOTE]
 >
->Om dina bästa val inte matchar de bästa leads och kontakter du äger, kan du prata med någon på ditt företag som har tillgång till Marketo om att uppdatera dina [poängregler](/help/marketo/getting-started/quick-wins/simple-scoring.md).
+>Om dina bästa val inte matchar de bästa leads och kontakter du äger, kan du prata med någon på ditt företag som har tillgång till Marketo om hur du uppdaterar dina [Poängregler](/help/marketo/getting-started/quick-wins/simple-scoring.md).
 
 ### Hur brådskande och relativ poäng beräknas
 
@@ -53,4 +52,4 @@ Efterhand som poängen ändras räknas värdena för tränglighet, prioritet och
 
 >[!NOTE]
 >
->Antalet Relative Urgent (Lågor) och Relative Score (stjärnor) är heltal i Marketo. Möjliga värden för var och en är 0-3.
+>Antalet Relativa nödlägen (lågor) och Relativa bakgrundsmusik (stjärnor) är heltal i Marketo. Möjliga värden för var och en är 0-3.

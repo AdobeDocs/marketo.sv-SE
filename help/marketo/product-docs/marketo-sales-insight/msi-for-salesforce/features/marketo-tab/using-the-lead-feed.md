@@ -2,14 +2,13 @@
 unique-page-id: 7512979
 description: Använda lead feed - Marketo Docs - produktdokumentation
 title: Använda lead-feed
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
+source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
-
 
 # Använda lead-feed {#using-the-lead-feed}
 
@@ -21,13 +20,13 @@ Ledningsmataren är en uppdaterad lista över intressanta händelser som har utf
 
 ## Vad finns i huvudmatningen? {#whats-in-the-lead-feed}
 
-![](assets/one.png)
+![](assets/using-the-lead-feed-1.png)
 
 Varje objekt i lead-flödet är ett intressant ögonblick - en viktig aktivitet eller händelse i denna leads marknadsföringshistorik.
 
 När du visar det i Salesforce har varje objekt:
 
-![](assets/two.png)
+![](assets/using-the-lead-feed-2.png)
 
 <table> 
  <colgroup> 
@@ -70,7 +69,7 @@ När du visar det i Salesforce har varje objekt:
  </tbody> 
 </table>
 
-## Hämtar RSS-uppdateringar {#getting-rss-updates}
+## Hämta RSS-uppdateringar {#getting-rss-updates}
 
 Du kan också hämta uppdateringar för lead-feed via RSS-flöde.  Med en RSS-feed kan du få uppdateringar för dina leads även om du inte är ansluten till Salesforce. Flödet har samma information som lead-matningen i Salesforce samt följande (om den är tillgänglig):
 
@@ -83,10 +82,10 @@ Du kan också hämta uppdateringar för lead-feed via RSS-flöde.  Med en RSS-fe
 
 >[!NOTE]
 >
->Företagets Marketo-administratör måste [aktivera RSS-flöden](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) för att detta ska fungera.
+>Företagets Marketo-administratör måste [aktivera RSS-flöden](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) för att det här ska fungera.
 
 För att få RSS-uppdateringar behöver du två saker: RSS-länken och en RSS-flödesläsare. Du kan få RSS-länken genom att klicka på RSS-ikonen i lead-flödet:
 
-![](assets/three.png)
+![](assets/using-the-lead-feed-3.png)
 
 RSS-flödet visas i ett nytt fönster. Du kan sedan kopiera URL:en för din RSS-feed och använda den i en RSS-läsare. De flesta webbläsare har en inbyggd RSS-läsare, eller så kan du använda en RSS-läsare som är specifik för din plattform.

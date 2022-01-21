@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: f5b755fb31aed9ddf03204502ad9bb8f79546bca
+source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
 workflow-type: tm+mt
-source-wordcount: '8254'
+source-wordcount: '8252'
 ht-degree: 0%
 
 ---
@@ -1341,14 +1341,13 @@ ht-degree: 0%
          + Funktioner {#features}
             + [Översikt över MSI-funktioner](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + [Översikt över funktionen Insikt i instrumentpanelen](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
+            + [Skicka ett e-postmeddelande till flera poster i Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + Åtgärder på MSI-panelen {#actions-in-the-msi-panel}
                + [Välj en åtgärd i Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
                + [Konfigurera sidfot för avanmälan i Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
                + [Lås försäljningsmall](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
                + [Publicera ett e-postmeddelande till Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
                + [Skicka ett test-e-postmeddelande](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
-            + Massåtgärder {#bulk-actions}
-               + [Skicka ett e-postmeddelande till flera poster i Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + Språkstöd {#language-support}
                + [Förbered Sales Insight för flerspråkig support i Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
             + Marketo Tab {#marketo-tab}

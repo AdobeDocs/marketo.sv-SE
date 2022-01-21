@@ -3,7 +3,7 @@ unique-page-id: 42762514
 description: Instrumentpanelsfunktion - översikt - Marketo Docs - produktdokumentation
 title: Översikt över funktionen Insikt i instrumentpanelen
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
-source-git-commit: 7c4edcd35b71846cc7bfea80906c0f9cbccea736
+source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
 workflow-type: tm+mt
 source-wordcount: '1503'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Läs mer om de funktioner som finns på kontrollpanelen för försäljningsinsik
 >
 >Du måste ha det senaste MSI SFDC-paketet och [konfiguration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
-![](assets/one.png)
+![](assets/insights-dashboard-feature-overview-1.png)
 
 ## Kontaktlayout {#contact-layout}
 
@@ -42,13 +42,13 @@ Läs mer om de funktioner som finns på kontrollpanelen för försäljningsinsik
 
 Fliken E-postkampanjer:
 
-* Inkluderar kampanjer som är en del av e-postprogram eller standardprogram som planeras inom de kommande 90 dagarna
+* Inkluderar kampanjer som ingår i e-postprogram eller standardprogram som är schemalagda inom de kommande 90 dagarna
 * Inte specifikt för kontakten/leadet (dvs. listan över kampanjer är en allmän lista över alla e-postkampanjer som är schemalagda i Marketo-instansen). Listan över kampanjer för alla lead-, kontakt-, konto- och affärsmöjlighetspaneler blir densamma
 * Om kampanjen upprepas mer än tre gånger under de kommande 90 dagarna visas bara de tre efterföljande omgångarna vid en given tidpunkt (liknande beteendet i Marketo)
 * Aktivitetsinformationskortet i det här avsnittet har ett förhandsvisningsalternativ. Om flödet innehåller flera skicka-e-poststeg är alla e-postmeddelanden tillgängliga för förhandsgranskning. Om det finns flera&quot;e-postalternativ&quot; i skicka-e-postflödessteget är standardalternativet tillgängligt för förhandsgranskning
 * Filtren innehåller &quot;Sök&quot; och &quot;Datumintervall&quot;
 
-![](assets/three.png)
+![](assets/insights-dashboard-feature-overview-2.png)
 
 Fliken Händelse:
 
@@ -59,7 +59,7 @@ Fliken Händelse:
 * Kortet för aktivitetsinformation i det här avsnittet har förhandsvisningsalternativ
 * Filtret innehåller&quot;Sök&quot;,&quot;Visa endast inbjudna händelser&quot; och&quot;Datumintervall&quot;
 
-![](assets/two.png)
+![](assets/insights-dashboard-feature-overview-3.png)
 
 ## Leadlayout {#lead-layout}
 
@@ -83,13 +83,13 @@ Fliken Händelse:
 
 Fliken E-postkampanjer:
 
-* Inkluderar kampanjer som är en del av e-postprogram eller standardprogram som planeras inom de kommande 90 dagarna
+* Inkluderar kampanjer som ingår i e-postprogram eller standardprogram som är schemalagda inom de kommande 90 dagarna
 * Inte specifikt för kontakten/leadet (dvs. listan över kampanjer är en allmän lista över alla e-postkampanjer som är schemalagda i Marketo-instansen). Listan över kampanjer för alla lead-, kontakt-, konto- och affärsmöjlighetspaneler blir densamma
 * Om kampanjen upprepas mer än tre gånger under de kommande 90 dagarna visas bara de tre efterföljande omgångarna vid en given tidpunkt (liknande beteendet i Marketo)
 * Aktivitetsinformationskortet i det här avsnittet har ett förhandsvisningsalternativ. Om flödet innehåller flera skicka-e-poststeg är alla e-postmeddelanden tillgängliga för förhandsgranskning. Om det finns flera&quot;e-postalternativ&quot; i skicka-e-postflödessteget är standardalternativet tillgängligt för förhandsgranskning
 * Filtren innehåller &quot;Sök&quot; och &quot;Datumintervall&quot;
 
-![](assets/five.png)
+![](assets/insights-dashboard-feature-overview-4.png)
 
 Fliken Händelse:
 
@@ -100,7 +100,7 @@ Fliken Händelse:
 * Kortet för aktivitetsinformation i det här avsnittet har förhandsvisningsalternativ
 * Filtret innehåller&quot;Sök&quot;,&quot;Visa endast inbjudna händelser&quot; och&quot;Datumintervall&quot;
 
-![](assets/four.png)
+![](assets/insights-dashboard-feature-overview-5.png)
 
 ## Kontolayout {#account-layout}
 
@@ -123,7 +123,7 @@ Fliken Händelse:
 
 Fliken E-postkampanjer:
 
-* Inkluderar kampanjer som är en del av e-postprogram eller standardprogram som planeras inom de kommande 90 dagarna
+* Inkluderar kampanjer som ingår i e-postprogram eller standardprogram som är schemalagda inom de kommande 90 dagarna
 * Inte specifikt för kontakten/leadet (dvs. listan över kampanjer är en allmän lista över alla e-postkampanjer som är schemalagda i Marketo-instansen). Listan över kampanjer för alla lead-, kontakt-, konto- och affärsmöjlighetspaneler blir densamma
 * Om kampanjen upprepas mer än tre gånger under de kommande 90 dagarna visas bara de tre efterföljande omgångarna vid en given tidpunkt (liknande beteendet i Marketo)
 * Aktivitetsinformationskortet i det här avsnittet har ett förhandsvisningsalternativ. Om flödet innehåller flera skicka-e-poststeg är alla e-postmeddelanden tillgängliga för förhandsgranskning. Om det finns flera&quot;e-postalternativ&quot; i skicka-e-postflödessteget är standardalternativet tillgängligt för förhandsgranskning
@@ -157,7 +157,7 @@ Fliken Händelse:
 
 **Kommande e-postkampanjer och evenemang** Fliken E-postkampanjer:
 
-* Inkluderar kampanjer som är en del av e-postprogram eller standardprogram som planeras inom de kommande 90 dagarna
+* Inkluderar kampanjer som ingår i e-postprogram eller standardprogram som är schemalagda inom de kommande 90 dagarna
 * Inte specifikt för kontakten/leadet (dvs. listan över kampanjer är en allmän lista över alla e-postkampanjer som är schemalagda i Marketo-instansen). Listan över kampanjer för alla lead-, kontakt-, konto- och affärsmöjlighetspaneler blir densamma
 * Om kampanjen upprepas mer än tre gånger under de kommande 90 dagarna visas bara de tre efterföljande omgångarna vid en given tidpunkt (liknande beteendet i Marketo)
 * Aktivitetsinformationskortet i det här avsnittet har ett förhandsvisningsalternativ. Om flödet innehåller flera skicka-e-poststeg är alla e-postmeddelanden tillgängliga för förhandsgranskning. Om det finns flera&quot;e-postalternativ&quot; i skicka-e-postflödessteget är standardalternativet tillgängligt för förhandsgranskning
