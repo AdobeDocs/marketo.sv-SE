@@ -4,9 +4,9 @@ title: Valideringsregler för globala formulär
 hide: true
 hidefromtoc: true
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: f48e9b24f53052d7888b56ea64de19038f69a995
+source-git-commit: 0354267afa8e11dbe7ac3b56bc8a4c2886c84676
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
@@ -71,4 +71,4 @@ Innan du kan använda den här funktionen måste du aktivera dess behörighet pe
 
 >[!NOTE]
 >
->Marketo Engage erbjuder en definierad blockeringslista av kostnadsfria e-postdomäner för konsumenter som blockeras när vår förinlästa regel&quot;Blockeringslista för e-postdomän för konsumenter&quot; används. [Visa listan här](https://experienceleague.adobe.com/docs/marketo/assets/freemaildomains.csv).
+>Marketo Engage erbjuder en definierad blockeringslista av kostnadsfria e-postdomäner för konsumenter som blockeras när vår förinlästa regel&quot;Blockeringslista för e-postdomän för konsumenter&quot; används. [Visa listan här](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
