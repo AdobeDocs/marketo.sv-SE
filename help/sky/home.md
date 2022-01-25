@@ -2,10 +2,9 @@
 title: Översikt
 description: Översikt
 exl-id: 26684ca6-ea77-423f-9434-3fbfaf7ea3ab
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f48e9b24f53052d7888b56ea64de19038f69a995
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
@@ -14,7 +13,11 @@ ht-degree: 0%
 
 ![banner](/help/sky/assets/images/alt-sky-banner.png)
 
-Gränssnittet [!DNL Marketo Sky] använder nya designer, arbetsflöden och funktioner som hjälper dig att få ut mer av [!DNL Marketo].
+The [!DNL Marketo Sky] gränssnitt använder nya designer, arbetsflöden och funktioner som hjälper dig att få ut mer av [!DNL Marketo].
+
+>[!IMPORTANT]
+>
+>Marketo Skyn kommer att bli inaktuell i mars 2022. [Läs mer här](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33).
 
 ## Komma igång
 
