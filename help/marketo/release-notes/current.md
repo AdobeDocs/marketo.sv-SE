@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
+source-git-commit: e2b050a0da8aa819a764aeb5dd905220451e2e59
 workflow-type: tm+mt
-source-wordcount: '1055'
+source-wordcount: '1067'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 
 ## AEP Marketo Engage Destination Connector - Skapa nya NetLeads {#aep-marketo-engage-destination-connector}
 
-Marketo Engage-kunder som också använder Adobe Experience Platform (AEP) kan maximera sin databas genom att överföra nästa-nya personposter till Marketo Engage från AEP via AEP-destinationsanslutningen. När du skickar målgruppssegment från AEP till Marketo Engage läggs personer i segmentet som inte redan finns i Marketo Engage-databasen automatiskt till i den.
+Marketo Engage-kunder som också använder Adobe Experience Platform (AEP) kan maximera sin databas genom att överföra nästa-nya personposter till Marketo Engage från AEP via AEP-destinationsanslutningen. När du skickar målgruppssegment från AEP till Marketo Engage, personer i segmentet som inte redan finns i din Marketo Engage-databas [kan läggas till automatiskt](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md).
 
 ## Försäljningsinsikter {#sales-insight}
 
@@ -78,7 +78,7 @@ Marketo Engage-kunder som också använder Adobe Experience Platform (AEP) kan m
 
 ## Meddelanden {#announcements}
 
-* **Marketo Sky solnedgång**: Den 11 mars kommer Marketo Sky inte längre att vara tillgänglig eftersom vi fokuserar på att leverera nästa generations användarupplevelser. I ett försök att behålla åtkomst till funktioner som är exklusiva för Marketo Skyn idag, tar vi med åsidosättande av förfallodatum och prioritet för smarta kampanjer i den vanliga upplevelsen i mars.
+* **Borttagning av Marketo Sky**: Den 11 mars kommer Marketo Sky inte längre att vara tillgänglig eftersom vi fokuserar på att leverera nästa generations användarupplevelser. I ett försök att behålla åtkomst till funktioner som är exklusiva för Marketo Skyn idag, tar vi med åsidosättande av förfallodatum och prioritet för smarta kampanjer i den vanliga upplevelsen i mars. [Klicka här](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33) om du vill veta mer.
 
 * **Borttagning av formulärslutpunkter**: POST:er för programmatiska formulär till leadCapture/save2-slutpunkten stöds inte av Marketo Engage-formulär. [Klicka här](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) om du vill veta mer.
 
