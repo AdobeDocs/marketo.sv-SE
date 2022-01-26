@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
+source-git-commit: 96ff2469edfd60436eeeb77fdaedd25311e7d0a4
 workflow-type: tm+mt
-source-wordcount: '8252'
+source-wordcount: '8246'
 ht-degree: 0%
 
 ---
@@ -191,7 +191,6 @@ ht-degree: 0%
          + [Aktivera eller inaktivera funktioner för skatteschest](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [Aktivera anpassade URL:er för ditt konto (administration)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
          + [Valideringsregler för globala formulär](product-docs/administration/settings/global-form-validation-rules.md)
-         + [Blockera inskickning av skräppostformulär](product-docs/administration/settings/how-to-block-spam-form-submissions.md)
          + [Landningssidhuvuden](product-docs/administration/settings/landing-page-headers.md)
          + [Begränsa Marketo-inloggningar baserat på IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [Välj språk, språk och tidszon](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
