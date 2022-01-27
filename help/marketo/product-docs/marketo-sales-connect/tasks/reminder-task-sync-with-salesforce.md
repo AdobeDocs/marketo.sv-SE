@@ -4,9 +4,9 @@ title: Synkronisering av påminnelseaktivitet med Salesforce
 hide: true
 hidefromtoc: true
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
-source-git-commit: 87f43fb58b5739c0465a1a74fb60cdf5c5f6b759
+source-git-commit: ee43ec3a8631ab6b9e5e345b5a273673a1dc6983
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
@@ -79,3 +79,7 @@ Det här händer när du synkroniserar Sales Connect- och SFDC-uppgifter:
 Efter den första synkroniseringen kommer alla uppgifter du skapar, redigerar, slutför eller tar bort i Sales Connect att synkroniseras med din uppgiftslista i Salesforce. Och allt som du har skapat, redigerat, slutfört eller tagit bort i Salesforce kommer att uppdatera din uppgiftslista i Sales Connect.
 
 Aktivera synkroniseringen genom att markera synkroniseringsrutan i [Sidan Inställningar](https://toutapp.com/login) i webbprogrammet.
+
+>[!NOTE]
+>
+>Ämnesfältet för en uppgift kan uppdateras i Sales Connect och uppdateringen synkroniseras i Salesforce-ämnesfältet för motsvarande synkroniserade uppgift, om du använder `{{activity_subject}}` dynamiskt fält i [Anpassning av aktivitetsdetalj](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) inställningar. Omvänt kommer alla uppdateringar som görs i ämnesfältet i Salesforce att _not_ synkronisera till ämnesfältet för påminnelseaktiviteten Sales Connect.

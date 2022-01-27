@@ -4,9 +4,9 @@ title: Konfigurera detaljanpassning av Salesforce-aktivitet
 hide: true
 hidefromtoc: true
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: 8574a4373ec778b6127905bb3f5057153bec88a5
+source-git-commit: ee43ec3a8631ab6b9e5e345b5a273673a1dc6983
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,10 @@ ht-degree: 0%
 
 
 Med anpassning av aktivitetsdetalj kan administratörer konfigurera den information som ska logga in i Salesforce-fältet Ämne när en Sales Connect-aktivitet/påminnelseaktivitet synkroniseras med Salesforce.
+
+>[!NOTE]
+>
+>Uppdateringar som görs i ämnesfältet i Sales Connect för en påminnelseuppgift återspeglas i motsvarande Salesforce-uppgifts ämnesfält, om du använder `{{activity_subject}}` dynamiskt fält i anpassning av aktivitetsdetalj.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -46,6 +50,10 @@ Funktionen kan användas för att låsa upp följande fördelar:
 * Administratörer kan tagga ämnesfältet med en unik identifierare, t.ex.&quot;Mkto_sales&quot;, så att aktiviteter från Sales Connect enkelt kan identifieras och skiljas från andra e-postaktiviteter, samtalsaktiviteter och uppgifter.
 * Minska behovet av anpassade aktivitetsfält. Salesforce tillämpar begränsningar för antalet anpassade aktivitetsfält, som kan begränsa vilka data som är tillgängliga för användning i rapporter. Genom att använda dynamiska aktivitetsfält för att lägga till nyckeldata på ämnesraden kan du minska antalet anpassade aktivitetsfält som du behöver skapa i Salesforce-instansen.
 * Ämnesfältet med aktiviteter och uppgifter följer ett konsekvent mönster som definieras av Sales Connect Admin.
+
+>[!NOTE]
+>
+>Om du loggar e-postsvar som aktiviteter till Salesforce kommer de inte att använda inställningarna för anpassning av aktivitetsinformation i Salesforce. I stället loggar de som&quot;Svara: E-postämne.&quot;
 
 ## Dynamiska aktivitetsfält som stöds {#activity-dynamic-fields-supported}
 
