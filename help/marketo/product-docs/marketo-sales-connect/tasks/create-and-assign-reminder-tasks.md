@@ -4,9 +4,9 @@ title: Skapa och tilldela påminnelseuppgifter
 hide: true
 hidefromtoc: true
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
-source-git-commit: 87f43fb58b5739c0465a1a74fb60cdf5c5f6b759
+source-git-commit: 8574a4373ec778b6127905bb3f5057153bec88a5
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,40 +17,36 @@ Påminnelseuppgifter är ett bra sätt att hålla sig à jour med kundengagemang
 
 1. Klicka **Kommandocentral**.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-1.png)
 
-1. Klicka **Uppgifter**.
+1. Aktiviteter öppnas som standard. Klicka **Lägg till uppgift**.
 
-PICC
-
-1. Klicka **Lägg till uppgift**.
-
-PICC
+   ![](assets/create-and-assign-reminder-tasks-2.png)
 
 1. Välj uppgiftstyp från E-post, Ring upp, InMail eller Anpassad uppgift.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-3.png)
 
 1. Ge aktiviteten ett namn.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-4.png)
 
 1. Välj att behålla uppgiften som tilldelats dig själv eller välj en annan användare att tilldela uppgiften till.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-5.png)
 
 1. Lägg till den person du följer med med den här påminnelseaktiviteten.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-6.png)
 
 1. Välj förfallodatum för uppgiften.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-7.png)
 
 1. Välj uppgiftens prioritet.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-8.png)
 
-1. Lägg till information om den uppgift som du vill ska vara tillgänglig när du slutför uppgiften, t.ex. samtalsanteckningar, en mall för InMail-meddelanden eller anteckningar om personen.
+1. Lägg till information om den uppgift som du vill ska vara tillgänglig när du slutför uppgiften, t.ex. samtalsanteckningar, en mall för InMail-meddelanden eller anteckningar om personen. Klicka **Skapa** när det är klart.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-9.png)

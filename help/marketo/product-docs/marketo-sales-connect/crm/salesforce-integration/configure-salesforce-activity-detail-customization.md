@@ -4,9 +4,9 @@ title: Konfigurera detaljanpassning av Salesforce-aktivitet
 hide: true
 hidefromtoc: true
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: a95b889a36ae22aef6bc2ff5bc82f04751d389bd
+source-git-commit: 8574a4373ec778b6127905bb3f5057153bec88a5
 workflow-type: tm+mt
-source-wordcount: '589'
+source-wordcount: '614'
 ht-degree: 0%
 
 ---
@@ -102,25 +102,39 @@ När du konfigurerar din aktivitetsinformation bör du tänka på vilka data som
 
 1. Klicka på kugghjulsikonen och välj **Inställningar**.
 
-PICC
+   ![](assets/configure-salesforce-activity-detail-customization-3.png)
 
 1. Klicka **Salesforce**.
 
-PICC
+   ![](assets/configure-salesforce-activity-detail-customization-4.png)
 
 1. Klicka **Synkronisera inställningar**.
 
-PICC
+   ![](assets/configure-salesforce-activity-detail-customization-5.png)
 
-1. I redigeraren Anpassa aktivitetsinformation lägger du till eventuell ledig text. Den ändras inte för ämnesfältet för alla uppgifter som synkroniseras med Salesforce.
+1. I redigeraren Anpassa aktivitetsinformation lägger du till eventuell ledig text. Den text du lägger till är icke-dynamisk och förblir oförändrad för ämnesfältet för alla uppgifter som synkroniseras med Salesforce.
 
-1. Lägg till alla dynamiska fält som du vill lägga till genom att klicka på knappen för dynamiskt fält och välja de dynamiska fält som du vill använda i listan.
+   ![](assets/configure-salesforce-activity-detail-customization-6.png)
+
+   >[!TIP]
+   >
+   >Även om det inte är obligatoriskt att radbryta tillagd text inom raka hakparenteser kan det vara lättare för en del att skilja mellan data när de fylls i i ett ämnesfält i Salesforce. Exempel: `[Sales Connect] - {{Activity_type}}`
+
+1. Lägg till ytterligare dynamiska fält genom att klicka på **Lägg till dynamiskt fält** -knappen.
+
+   ![](assets/configure-salesforce-activity-detail-customization-7.png)
+
+1. Markera önskade dynamiska fält.
+
+   ![](assets/configure-salesforce-activity-detail-customization-8.png)
 
 1. Klicka **Spara**.
 
+   ![](assets/configure-salesforce-activity-detail-customization-9.png)
+
 >[!NOTE]
 >
->Salesforce har en begränsning på 255 tecken. Om din aktivitetsinformation överstiger det, kommer den att trunkeras för att säkerställa att informationen kan lagras i Salesforce-objektfältet.
+>Salesforce har en begränsning på 255 tecken. Om din aktivitetsinformation överstiger det, kommer den att trunkeras för att säkerställa att informationen lagras i Salesforce-objektfältet.
 
 >[!MORELIKETHIS]
 >
