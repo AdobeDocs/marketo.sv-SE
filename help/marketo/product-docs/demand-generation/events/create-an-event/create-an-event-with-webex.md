@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2949863
-description: Skapa en händelse med WebEx - Marketo Docs - Produktdokumentation
+description: Skapa en händelse med WebEx - Marketo Docs - produktdokumentation
 title: Skapa en händelse med WebEx
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
+source-git-commit: ed9146f48aecd34025d61abf14d76a714726dcc9
 workflow-type: tm+mt
-source-wordcount: '927'
+source-wordcount: '957'
 ht-degree: 0%
 
 ---
-
 
 # Skapa en händelse med WebEx {#create-an-event-with-webex}
 
@@ -17,33 +16,38 @@ ht-degree: 0%
 >
 >* [Lägg till WebEx som en LaunchPoint-tjänst](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [Skapa ett nytt händelseprogram](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Ange lämpliga [flödesåtgärder](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)för att spåra engagemang
+>* Ange lämplig [flödesåtgärder](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) för att spåra engagemang
+>* Kontrollera att du använder Webex-händelser (klassiska)
 
 
-Skapa först en WebEx-händelse i WebEx Event Center. Marketo använder bara specifika inställningar och fält för din integrering, som vi kommer att gå igenom inom kort. Andra fält som du kanske vill konfigurera för WebEx beskrivs i [användarhandboken för WebEx Event Center](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
+Skapa först en WebEx-händelse i WebEx Event Center. Marketo använder bara specifika inställningar och fält för din integrering, som vi kommer att gå igenom inom kort. Andra fält som du kanske vill konfigurera för WebEx beskrivs i [Användarhandbok för WebEx Event Center](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
+
+>[!IMPORTANT]
+>
+>Marketo Engage stöder endast händelser som skapats i WebBex-händelser (klassiska). Marketo stöder för närvarande inte händelser skapade i WebBex Events (nya).
 
 ## Grundläggande information {#basic-information}
 
 * **Händelsenamn -** Det här namnet kan visas i Marketo.
 * **Kryssrutan Ej listrerad**
 
-   * Du bör **inte** lista din händelse. Detta säkerställer att alla människor registrerar sig via din Marketo-landningssida. Personer som registrerar via en annan mekanism än Marketo visas i Marketo efter att evenemanget har avslutats OCH endast om de deltog i evenemanget.
+   * Vi rekommenderar att du gör det **not** lista evenemanget. På så sätt kan alla registrera sig via Marketo landningssida. Personer som registrerar sig via en annan mekanism än Marketo visas i Marketo efter att evenemanget har avslutats OCH endast om de deltog i evenemanget.
    * Om du väljer att lista evenemanget visas det på sidan Lista över händelser för alla som besöker din Event Center-webbplats.
 
-* **Registrering -** Markera den här rutan om du vill ange &quot;required&quot;. Du använder ett Marketo-formulär/en landningssida för att samla in registreringsinformation som ska skickas till WebEx.
-* **Händelselösenord** - (valfritt) Om du använder det här fältet måste du ta med det i bekräftelsemeddelandet!
+* **Registrering -** Markera den här rutan om du vill ange &quot;required&quot;. Du använder ett formulär/en landningssida från Marketo för att samla in registreringsinformation som ska skickas till WebEx.
+* **Händelsenord**- (valfritt) Om du använder det här fältet måste du ta med det i bekräftelsemeddelandet!
 
 ![](assets/image2015-5-28-13-3a30-3a55.png)
 
 ## Datum och tid {#date-time}
 
-* **Startdatum**  - Ange startdatum. Den här visas i Marketo.
+* **Startdatum** - Ange ditt startdatum. Detta kommer att kunna visas i Marketo.
 
-* **Starttid**  - Ange starttid. Den här visas i Marketo.
+* **Starttid** - Ange din starttid. Detta kommer att kunna visas i Marketo.
 
-* **Beräknad varaktighet**  - Ange händelsens varaktighet. Den här visas i Marketo.
+* **Beräknad varaktighet** - Ange händelsens varaktighet. Detta kommer att kunna visas i Marketo.
 
-* **Tidszoner**  - Ange tillämpliga tidszoner. De kommer att kunna ses i Marketo.
+* **Tidszoner** - Ange tillämpliga tidszoner. De kommer att kunna ses i Marketo.
 
 ![](assets/image2015-5-28-13-3a37-3a39.png)
 
@@ -51,32 +55,32 @@ Skapa först en WebEx-händelse i WebEx Event Center. Marketo använder bara spe
 
 De här inställningarna finns endast i WebEx. De används inte av eller kan inte visas i Marketo, men de kan vara viktiga för ditt webbinarium, så dubbelkontrollera dem!
 
-## Händelsebeskrivning och -alternativ {#event-description-options}
+## Händelsebeskrivning och -alternativ  {#event-description-options}
 
 Följande alternativ används av eller kan visas i Marketo. Andra fält finns endast i WebEx.
 
-* **Beskrivning**  - Ange en beskrivning. Detta kan visas men inte ändras i Marketo.
-* **Undersökning**  efter evenemang - Marketo kan för närvarande inte samla in information från en WebEx-enkät.
-* **Mål-URL**  (valfritt) Du kan ange URL:en för en Marketo-landningssida som ska fungera som mål-URL:en som ska visas när sessionen är slut.
+* **Beskrivning** - Ange en beskrivning. Detta kan visas men inte ändras i Marketo.
+* **Enkät efter evenemanget** - Marketo kan för närvarande inte samla in informationen i en WebEx-enkät efter evenemanget.
+* **Mål-URL** - (valfritt) Du kan ange URL-adressen till en Marketo-landningssida som fungerar som mål-URL-adressen som ska visas när sessionen är slut.
 
 ![](assets/image2015-5-28-13-3a48-3a49.png)
 
 ## Deltagare och registrering {#attendees-registration}
 
-Du kommer att styra inbjudningslistan, registreringsformuläret och andra e-postmeddelanden med hjälp av en Marketo-händelse. Marketo stöder inte andra funktioner, bland annat:
+Du styr inbjudningslistan, registreringsformuläret och andra e-postmeddelanden med hjälp av en Marketo Event. Andra funktioner stöds inte av Marketo, bland annat:
 
-* **Maximalt antal registranter**  -  **** stöds för närvarande inte med Marketo-WebEx-integreringen.  Manuellt godkännande av registranter är tillgängligt med statusen Väntande godkännande progressivt i Marketo.
+* **Högsta antal registranter** - För närvarande **not** som stöds av integreringen mellan Marketo och WebEx.  Manuellt godkännande av registranter är tillgängligt med statusen Väntande godkännande och status i Marketo.
 
-* **Registrerings-ID krävs**  - Stöds för närvarande med integreringen Marketo-WebEx. Du kan använda Marketo för att skicka bekräftelsemeddelandet för din händelse via e-post. När personen registrerar sig får han/hon en unik URL som han/hon använder för att ange händelsen.
+* **Registrerings-ID krävs** - Stöds för närvarande med Marketo-WebEx-integrering. Du kan använda Marketo för att skicka ut bekräftelsemeddelandet för ditt event. När personen registrerar sig får han/hon en unik URL som han/hon använder för att ange händelsen.
 
    >[!TIP]
    >
    >Om du vill fylla i bekräftelsemeddelandet med den här unika URL-adressen använder du följande token i e-postmeddelandet: `{{member.webinar url}}`. När bekräftelse-URL:en skickas, tolkas denna token automatiskt till personens unika bekräftelse-URL.
    >
-   >Ange din bekräftelse via e-post till **Operational** för att säkerställa att personer som registrerar sig och kan avbeställa prenumerationen fortfarande får sin bekräftelseinformation.
+   >Ange bekräftelsemeddelandet som **Operativ** för att säkerställa att personer som registrerar sig och kan avbeställa prenumerationen fortfarande får sin bekräftelseinformation.
 
-* **Registreringslösenord**  - (valfritt) stöds för närvarande inte med Marketo-WebEx-integrering.
-* **Godkännanderegler**  - Stöds för närvarande inte med integreringen Marketo-WebEx. Men ni kan använda smarta kampanjer i Marketo för att styra godkännanden.
+* **Registreringslösenord** - (Valfritt) Stöds för närvarande inte med integreringen Marketo-WebEx.
+* **Godkännanderegler** - Stöds för närvarande inte med integreringen Marketo-WebEx. Men ni kan använda smarta kampanjer i Marketo för att styra godkännanden.
 
 ![](assets/image2015-5-28-14-3a4-3a41.png)
 
@@ -92,11 +96,11 @@ Du kommer att använda Marketo för att skicka ut e-postmeddelanden till dina re
 
 >[!NOTE]
 >
->Marketo-WebEx-integreringen har inte stöd för att skicka bekräftelsemeddelanden från WebEx. Bekräftelsen måste skickas via Marketo. När du har schemalagt händelsen måste du kopiera händelseinformationen till Marketo-bekräftelsemeddelandet och ange e-postmeddelandet som **Operational**.
+>Integreringen Marketo-WebEx stöder inte att bekräftelsemeddelanden skickas från WebEx. Bekräftelsen måste skickas via Marketo. När du har schemalagt evenemanget måste du kopiera händelseinformationen till bekräftelsemeddelandet från Marketo och ange e-postmeddelandet som **Operativ**.
 
 Nu är vi redo att börja använda Marketo!
 
-1. Markera händelsen som du skapade. Öppna listrutan **Händelseåtgärder**. Välj **Händelseinställningar.**
+1. Markera händelsen som du skapade. Öppna **Händelseåtgärder** nedrullningsbar meny. Välj **Händelseinställningar.**
 
    ![](assets/image2015-5-14-16-3a7-3a31.png)
 
@@ -104,19 +108,19 @@ Nu är vi redo att börja använda Marketo!
    >
    >Kanaltypen för den valda händelsen måste vara **webbinarium**.
 
-1. Under **Event Partner** väljer du **WebEx**.
+1. Under **Evenemangspartner**, markera **WebEx**.
 
    ![](assets/image2015-1-30-13-3a58-3a2.png)
 
-1. Under **Logga in** väljer du din WebEx-inloggning.
+1. Under **Inloggning** väljer du din WebEx-inloggning.
 
    ![](assets/image2015-5-18-12-3a2-3a26.png)
 
-1. Under **Event** väljer du den nyligen skapade WebEx-händelsen. Välj sedan en valfri säkerhetskopieringssida och klicka på **Spara**.
+1. Under **Händelse** väljer du den nyligen skapade WebEx-händelsen. Välj sedan en valfri sida för säkerhetskopiering och klicka på **Spara**.
 
    ![](assets/image2015-5-14-16-3a15-3a55.png)
 
-1. Välj en valfri säkerhetskopieringssida för WebEx-händelsen. Välj i listrutan över godkända Marketo-landningssidor eller ange webbadressen till en icke-Marketo-landningssida.
+1. Välj en valfri säkerhetskopieringssida för WebEx-händelsen. Välj i listrutan över godkända Marketo-landningssidor eller ange webbadressen till en landningssida som inte är Marketo.
 
    >[!TIP]
    >
@@ -124,7 +128,7 @@ Nu är vi redo att börja använda Marketo!
 
    >[!NOTE]
    >
-   >Fälten som Marketo skickar är: Förnamn, efternamn, e-postadress.
+   >De fält som Marketo skickar är: Förnamn, efternamn, e-postadress.
 
    ![](assets/webex.png)
 
@@ -134,11 +138,11 @@ Nu är vi redo att börja använda Marketo!
 
    >[!TIP]
    >
-   >Det kan ta upp till 48 timmar innan data visas i Marketo. Om du fortfarande inte ser något efter att ha väntat så länge väljer du **Uppdatera från webbinariet Provider** på menyn Händelseåtgärder på fliken **Sammanfattning** för din händelse.
+   >Det kan ta upp till 48 timmar innan data visas i Marketo. Om du fortfarande inte ser något efter att ha väntat så länge väljer du **Uppdatera från webbseminarieleverantör** på menyn Händelseåtgärder i **Sammanfattning** -fliken för din aktivitet.
 
 Söt! Din WebEx-händelse synkroniseras nu med din Marketo-händelse.  Personer som registrerar sig för ditt webbinarium kommer att pushas till din webbinarileverantör via flödessteget Ändra programstatus när Ny status är inställd på&quot;Registrerad&quot;. Ingen annan status kommer att föra personen över. Se även till att du följer flödessteget Ändra programstatus 1 och Skicka e-postflöde 2.
 
-## Visa schemat {#viewing-the-schedule}
+## Visa schemat  {#viewing-the-schedule}
 
 Klicka på kalenderposten för aktiviteten i programschemavyn. Schemat visas till höger på skärmen.
 
