@@ -1,12 +1,10 @@
 ---
 description: Konfigurera detaljanpassning av Salesforce-aktivitet - Marketo Docs - produktdokumentation
 title: Konfigurera detaljanpassning av Salesforce-aktivitet
-hide: true
-hidefromtoc: true
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: ee43ec3a8631ab6b9e5e345b5a273673a1dc6983
+source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '675'
 ht-degree: 0%
 
 ---
