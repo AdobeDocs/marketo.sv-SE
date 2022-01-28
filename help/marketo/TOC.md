@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 96ff2469edfd60436eeeb77fdaedd25311e7d0a4
+source-git-commit: b6360de280547ba0fa486da094c467853b442621
 workflow-type: tm+mt
-source-wordcount: '8246'
+source-wordcount: '8237'
 ht-degree: 0%
 
 ---
@@ -1199,7 +1199,6 @@ ht-degree: 0%
          + [Loggade inte till aktivitetshistorik](product-docs/marketo-sales-connect/phone/didnt-log-to-activity-history.md)
          + [Loggade inte till Salesforce](product-docs/marketo-sales-connect/phone/didnt-log-to-salesforce.md)
          + [Aktivera samtalsinspelning](product-docs/marketo-sales-connect/phone/enable-call-recording.md)
-         + [Anpassa samtalsutdata i telefonförsäljning](product-docs/marketo-sales-connect/phone/how-to-customize-the-call-outcome-in-sales-phone.md)
          + [Logga samtalsorsaker och samtalsresultat till Salesforce](product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
          + [Internationellt telefonsamtal för försäljning](product-docs/marketo-sales-connect/phone/sales-phone-international-calling.md)
          + [Lokal telefonnärvaro](product-docs/marketo-sales-connect/phone/sales-phone-local-presence.md)
