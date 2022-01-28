@@ -2,10 +2,9 @@
 description: Logga in med OAuth 2.0 - Marketo Docs - produktdokumentation
 title: Logga in med OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
-translation-type: tm+mt
-source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
+source-git-commit: c15753e0f2af199af8fd7e8bfe0924a915a39814
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -14,25 +13,29 @@ ht-degree: 0%
 
 Salesforce använder OAuth-protokollet för att tillåta användare av program att på ett säkert sätt få åtkomst till (autentisera programmet med OAuth 2.0) data utan att behöva visa inloggningsuppgifter. Nedan beskrivs de steg som ska utföras för att ansluta och synkronisera Marketo säkert med Salesforce.
 
+>[!IMPORTANT]
+>
+>Om du vill ansluta Marketo och Salesforce med OAuth loggar du in på Marketo via en privat webbläsare (incognito) för att undvika att ansluta till Salesforce med fel användarnamn.
+
 ## Konfigurera ansluten app {#set-up-connected-app}
 
-1. Gå till Appar, App Manager och klicka på **Ny ansluten app** under Konfigurera i Salesforce.
+1. Gå till Appar, App Manager och klicka på under Konfigurera i plattformsverktygen i Salesforce. **Ny ansluten app**.
 
    ![](assets/setting-up-oauth-2-1.png)
 
-1. Fyll i informationen och klicka på **Spara**.
+1. Fyll i detaljerna och klicka **Spara**.
 
    ![](assets/setting-up-oauth-2-2.png)
 
-1. Klicka i kryssrutan **Aktivera OAuth-inställningar**. Ange `https://app.marketo.com/salesforce/getSfdcOAuthTokensRedirect` för återanrops-URL. Markera alla tillgängliga OAuth-scope och klicka på **Lägg till**.
+1. Klicka på **Aktivera OAuth-inställningar** kryssrutan. Ange URL för återanrop `https://app.marketo.com/salesforce/getSfdcOAuthTokensRedirect`. Markera alla tillgängliga OAuth-scope och klicka på **Lägg till**.
 
    ![](assets/setting-up-oauth-2-3.png)
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/setting-up-oauth-2-4.png)
 
-1. Klicka på **Fortsätt**.
+1. Klicka **Fortsätt**.
 
    ![](assets/setting-up-oauth-2-5.png)
 
@@ -59,7 +62,7 @@ Salesforce använder OAuth-protokollet för att tillåta användare av program a
 >
 >Se till att du döljer alla fält som du inte behöver i Marketo för synkroniseringsanvändaren innan du klickar på **Synkronisera fält**. När du klickar på Synkronisera fält skapas alla fält som användaren kan se i SFDC permanent i Marketo och kan inte tas bort.
 
-1. I avsnittet Marketo Admin klickar du på **CRM** och sedan på **Synkronisera med Salesforce**.
+1. I avsnittet Marketo Admin klickar du på **CRM** sedan **Synkronisera med Salesforce**.
 
    ![](assets/setting-up-oauth-2-7.png)
 
@@ -67,7 +70,7 @@ Salesforce använder OAuth-protokollet för att tillåta användare av program a
 
    ![](assets/setting-up-oauth-2-8.png)
 
-1. Klicka på knappen **Logga in med Salesforce** på synkroniseringssidan för Marketo Salesforce.
+1. På Marketo Salesforce-synkroniseringssidan klickar du på **Logga in med Salesforce** -knappen.
 
    ![](assets/setting-up-oauth-2-9.png)
 
@@ -83,11 +86,11 @@ Salesforce använder OAuth-protokollet för att tillåta användare av program a
 
    ![](assets/setting-up-oauth-2-11.png)
 
-1. När verifieringen är klar visas åtkomstsidan och begär åtkomst. Klicka på **Tillåt**.
+1. När verifieringen är klar visas åtkomstsidan och begär åtkomst. Klicka **Tillåt**.
 
    ![](assets/setting-up-oauth-2-12.png)
 
-1. Om några minuter visas ett popup-fönster i Marketo. Klicka på **Bekräfta inloggningsuppgifter**.
+1. Om några minuter visas ett popup-fönster i Marketo. Klicka **Bekräfta autentiseringsuppgifter**.
 
    ![](assets/setting-up-oauth-2-13.png)
 
@@ -95,7 +98,7 @@ Salesforce använder OAuth-protokollet för att tillåta användare av program a
 
    ![](assets/setting-up-oauth-2-14.png)
 
-1. Klicka på **Starta synkronisering**.
+1. Klicka **Starta synkronisering**.
 
    ![](assets/setting-up-oauth-2-15.png)
 
