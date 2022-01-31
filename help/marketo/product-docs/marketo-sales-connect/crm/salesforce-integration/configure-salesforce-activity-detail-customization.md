@@ -2,9 +2,9 @@
 description: Konfigurera detaljanpassning av Salesforce-aktivitet - Marketo Docs - produktdokumentation
 title: Konfigurera detaljanpassning av Salesforce-aktivitet
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
+source-git-commit: 4967f6260f084c9382271aa10d15bb0f7e083e8d
 workflow-type: tm+mt
-source-wordcount: '675'
+source-wordcount: '707'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,9 @@ Med anpassning av aktivitetsdetalj kan administratörer konfigurera den informat
 
 >[!NOTE]
 >
->Uppdateringar som görs i ämnesfältet i Sales Connect för en påminnelseuppgift återspeglas i motsvarande Salesforce-uppgifts ämnesfält, om du använder `{{activity_subject}}` dynamiskt fält i anpassning av aktivitetsdetalj.
+>* Uppdateringar som görs i ämnesfältet i Sales Connect för en påminnelseuppgift återspeglas i motsvarande Salesforce-uppgifts ämnesfält, om du använder `{{activity_subject}}` dynamiskt fält i anpassning av aktivitetsdetalj.
+>* Radbrytningar stöds inte vid loggning av information till Salesforce-objektfältet. Eventuella radbrytningar i redigeraren för anpassning av aktivitetsinformation tas bort när en ny rubrik för en försäljningsuppgift uppdateras.
+
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
