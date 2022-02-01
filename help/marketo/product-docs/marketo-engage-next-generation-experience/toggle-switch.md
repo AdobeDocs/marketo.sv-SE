@@ -2,9 +2,9 @@
 description: Växla - Marketo Docs - produktdokumentation
 title: Växla av/på
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
+source-git-commit: 0a95d8ec257323332ac046ab4a92c9d3cbab8da6
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,20 @@ I listvyn för nästa generations landningssida finns sökfilter och möjlighet 
 Den nya upplevelsen läses in.
 
 ![](assets/toggle-switch-4.png)
+
+## Detaljsida för landningssida {#landing-page-details-page}
+
+1. I Marketo söker du efter och väljer din landningssida.
+
+   ![](assets/toggle-switch-5.png)
+
+1. Klicka på knappen längst ned till höger på sidan **Ny upplevelse** växla.
+
+   ![](assets/toggle-switch-6.png)
+
+Den nya upplevelsen läses in.
+
+![](assets/toggle-switch-7.png)
 
 ## Formulärinformationssida {#form-details-page}
 
