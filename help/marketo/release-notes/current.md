@@ -2,7 +2,7 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: ed9146f48aecd34025d61abf14d76a714726dcc9
+source-git-commit: 87410bcdc5f9ebb3b85765efe9fd852df4611ce6
 workflow-type: tm+mt
 source-wordcount: '1067'
 ht-degree: 0%
@@ -40,9 +40,9 @@ Följande funktioner kommer att lanseras den **21 januari 2022**, med en fasad u
 
 ## Administration {#administration}
 
-* **Formulärvalideringsregler**: Bevara databasens hälsotillstånd och blockera problematiska eller oönskade e-postdomäner från att skicka formulär i Marketo Engage. På panelen Valideringsregel för globala formulär kan administratörer definiera en blockeringslista eller aktivera en fördefinierad lista med kostnadsfria konsumentdomäner som ska blockeras från formulär.
+* **[Formulärvalideringsregler](/help/marketo/product-docs/administration/settings/global-form-validation-rules.md)**: Bevara databasens hälsotillstånd och blockera problematiska eller oönskade e-postdomäner från att skicka formulär i Marketo Engage. På panelen Valideringsregel för globala formulär kan administratörer definiera en blockeringslista eller aktivera en fördefinierad lista med kostnadsfria konsumentdomäner som ska blockeras från formulär.
 
-* **Säkerhet för landningssidhuvud**: Administratörer kan hantera rubrikerna Strict Transport Security och X-Frame Options på sina landningssiddomäner för att upprätthålla höga säkerhetskrav.
+* **[Säkerhet för landningssidhuvud](/help/marketo/product-docs/administration/settings/landing-page-headers.md)**: Administratörer kan hantera rubrikerna Strict Transport Security och X-Frame Options på sina landningssiddomäner för att upprätthålla höga säkerhetskrav.
 
 **_Frigör under hela kvartalet_**
 
