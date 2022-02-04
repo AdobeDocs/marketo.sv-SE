@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 08767d476cf89eefe7223308945733c6f813a34d
+source-git-commit: f4cab63854a9c3e461daeb28c0a09746488c5d9e
 workflow-type: tm+mt
-source-wordcount: '8240'
+source-wordcount: '8247'
 ht-degree: 0%
 
 ---
@@ -1282,6 +1282,7 @@ ht-degree: 0%
                + [Alternativ för massutskick](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
                + [Disponera massutskick med Markera och skicka](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [Skicka e-post via gruppe-post](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
+               + [Använda en mall i dispositionsfönstret](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
          + Salesforce-konfiguration {#salesforce-configuration}
             + [Konfigurering av MSI-åtgärder i Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
             + [Avinstallera Salesforce Classic Customization Package](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
