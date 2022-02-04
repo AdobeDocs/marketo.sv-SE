@@ -3,9 +3,9 @@ description: Persondetaljvy - Marketo Docs - produktdokumentation
 title: Persondetaljvy
 hide: true
 hidefromtoc: true
-source-git-commit: 08767d476cf89eefe7223308945733c6f813a34d
+source-git-commit: 9ca5128dd2a6b68e644cfe8cc781d840f9429945
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ I persondetaljvyn finns en detaljerad profil för varje person på ditt Marketo-
 
 PICC
 
-1. Klicka på önskad person.
+1. Markera önskad person.
 
 PICC
 
@@ -28,13 +28,13 @@ PICC
 >
 >I stort sett var du än ser en persons namn kan du klicka på den och gå till hans/hennes personvy.
 
-## About Tab {#about-tab}
+## Fliken Om {#about-tab}
 
-Includes all of the person&#39;s contact information.
+Innehåller all kontaktinformation för personen.
 
 PICC
 
-**Contact Card**
+**Kontaktkort**
 
 * Innehåller kontaktinformation som: e-postadress, namn, företag, titel, telefonnummer och länkar till sociala medier
 
@@ -42,9 +42,9 @@ PICC
 
 * Visar och hanterar vilka grupper den här personen är medlem i
 
-**Account Information**
+**Kontoinformation**
 
-* Can add a person to Salesforce
+* Kan lägga till en person i Salesforce
 * Hämta konto- och lead-/kontaktinformation från Salesforce
 
 **Anpassade fält**
@@ -59,7 +59,7 @@ PICC
 
 * Skapa anpassade anteckningar
 
-## Engagement Tab {#engagement-tab}
+## Fliken Engagement {#engagement-tab}
 
 Se hur den här personen engagerar sig i er utåtriktade verksamhet.
 
@@ -71,23 +71,23 @@ PICC
 
 **Marknadsföring**
 
-* See how your person is engaging with marketing campaigns
+* Se hur er person engagerar sig i marknadsföringskampanjer
 
 ## Fliken Händelser {#history-tab}
 
-Shows your outreach history. Inkluderar e-post, kampanjer och samtal.
+Visar din utdatahistorik. Inkluderar e-post, kampanjer och samtal.
 
 PICC
 
-**Sales Campaigns**
+**Försäljningskampanjer**
 
 * Se alla aktiva eller slutförda kampanjer som den här personen tillhör
 
-**Marketing Campaigns**
+**Marknadsföringskampanjer**
 
 * Se alla marknadsföringskampanjer som den här personen är medlem i
 
-**Sales Emails**
+**Försäljningsmejl**
 
 * Visa e-postmeddelanden som du har skickat till den här personen och interaktionsstatistik
 
@@ -101,9 +101,9 @@ Hantera uppgifter som är kopplade till den här personen.
 
 PICC
 
-Actions you can perform:
+Åtgärder du kan utföra:
 
 * Redigera eller ta bort en uppgift
 * Se förfallodatumet
 * Klicka på Typ för att starta Säljtelefonen om du ringer, E-posta om det är e-post, Länkad om e-post och Anpassad anteckning om det är anpassat.
-* Mark a task as complete
+* Markera en uppgift som slutförd
