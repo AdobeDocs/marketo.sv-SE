@@ -4,9 +4,9 @@ title: Skicka e-post via gruppe-post
 hide: true
 hidefromtoc: true
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 08767d476cf89eefe7223308945733c6f813a34d
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -19,46 +19,42 @@ Så här skickar/redigerar du e-post med alternativet Gruppera e-post.
 
 1. Klicka på **Folk** -fliken.
 
-   PICC
+   ![](assets/sending-emails-via-group-email-1.png)
 
 1. Markera gruppen som du vill skicka e-post till.
 
-   PICC
+   ![](assets/sending-emails-via-group-email-2.png)
 
 1. Klicka på knappen Gruppera åtgärder och välj **E-postgrupp**.
 
-   PICC
+   ![](assets/sending-emails-via-group-email-3.png)
 
-1. Fyll i e-postmeddelandet (eller välj en mall) och skicka (eller schemalägg) det.
+1. Fill out your email (or select a template) and send (or schedule) it.
 
-   PICC
+   ![](assets/sending-emails-via-group-email-4.png)
 
-## Redigera en gruppe-postadress {#editing-a-group-email}
+## Editing a Group Email {#editing-a-group-email}
 
 1. Skapa ett gruppe-postmeddelande med [Steg 1-3 ovan](#sending-a-group-email).
 
-1. Välj en mall eller fyll i e-postmeddelandet.
+1. [Välj en mall](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)eller fylla i e-postmeddelandet.
 
-   PICC
+   ![](assets/sending-emails-via-group-email-5.png)
 
 1. När e-postmeddelandet är klart kan du nu förhandsgranska varje e-postmeddelande i listan för att se om de dynamiska fälten fylls i korrekt.
 
-   PICC
+   ![](assets/sending-emails-via-group-email-6.png)
 
-1. Välj önskad mottagare.
+1. Välj önskad mottagare och klicka på **Förhandsgranska dynamiska fält**. Visa förhandsgranskningen till höger.
 
-   PICC
-
-1. Klicka **Förhandsgranska dynamiska fält** och förhandsgranska till höger.
-
-   PICC
+   ![](assets/sending-emails-via-group-email-7.png)
 
    >[!NOTE]
    >
-   >Du kan göra flera ändringar i e-postmeddelandet/mallen när du skickar ut ett gruppmeddelande, men du kan inte göra unika redigeringar för specifika mottagare i listan.
+   >You can make bulk edits to the email/template when sending a group email out, but you cannot make unique edits for specific recipients in the list.
 
 >[!MORELIKETHIS]
 >
->* [Alternativ för massutskick](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
->* [Använda en mall i dispositionsfönstret](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+>* [Alternativ för massutskick](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
+>* [Använda en mall i dispositionsfönstret](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
 
