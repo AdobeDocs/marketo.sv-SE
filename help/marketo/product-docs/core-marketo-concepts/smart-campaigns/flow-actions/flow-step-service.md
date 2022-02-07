@@ -3,7 +3,8 @@ description: Flow Step Service - Marketo Docs - produktdokumentation
 title: Flödesstegstjänst
 hide: true
 hidefromtoc: true
-source-git-commit: 08767d476cf89eefe7223308945733c6f813a34d
+exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
+source-git-commit: 99ad4c68b8ab635f6eb6f7f0f53cb67ee3efc51c
 workflow-type: tm+mt
 source-wordcount: '1325'
 ht-degree: 0%
@@ -16,37 +17,37 @@ ht-degree: 0%
 >
 >Den här förhandsversionen är för närvarande endast tillgänglig för konton som är registrerade i självbetjäningsflödesstegprogrammet.
 
-Självbetjäningsflödessteg är ett ramverk och en uppsättning funktioner för att skapa, publicera och integrera webbtjänster i smarta webbkampanjer i Adobe Marketo Engage. Handboken är avsedd för användare av Marketo Engage som vill installera och använda tjänster som redan har skapats och publicerats. For information on authoring and publishing your own service, please refer to the [GitHub repository for the Service Provider Interface](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface). A Proof-of-Concept Lookup Table implementation may be found [here](https://github.com/adobe/mkto-flow-lookup).
+Självbetjäningsflödessteg är ett ramverk och en uppsättning funktioner för att skapa, publicera och integrera webbtjänster i smarta webbkampanjer i Adobe Marketo Engage. Handboken är avsedd för användare av Marketo Engage som vill installera och använda tjänster som redan har skapats och publicerats. Information om hur du skapar och publicerar din egen tjänst finns i [GitHub-databas för Service Provider Interface](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface). En implementering av en konceptbelagd söktabell finns [här](https://github.com/adobe/mkto-flow-lookup).
 
 ## Restriktioner och varningar före lansering {#pre-release-restrictions-and-warnings}
 
 Den här funktionen är för närvarande i en sluten betaversion och har vissa användningsbegränsningar.
 
-* This feature may only be used on Sandbox instances of Marketo Engage
+* Den här funktionen kan bara användas i sandlådeinstanser av Marketo Engage
 * Anpassade och tredjepartsflödessteg är inte kompatibla med körbara kampanjer från och med Q4 2021. Detta planeras att fastställas under andra kvartalet 2022
-* Marketo Sky UI should not be used at all on instances with this feature enabled
+* Marketo Skyns användargränssnitt ska inte användas alls i instanser med den här funktionen aktiverad
 
 ## Onboarding och Managing Services {#onboarding-and-managing-services}
 
-För installation av ett anpassat flödessteg krävs administratörsbehörighet i Marketo (**Hantera webbhotell** i den 21 januari (Changing in the March 11th release). Apart from the Installation URL, all other aspects of a serviced may be edited after completing initial onboarding by drilling down into the service detail screen from the Service Providers grid.
+För installation av ett anpassat flödessteg krävs administratörsbehörighet i Marketo (**Hantera webbhotell** i den 21 januari (Changing in the March 11th release). Förutom installations-URL:en kan alla andra aspekter av en tjänst redigeras efter att den initiala introduktionen har slutförts genom att detaljnivån för tjänsten har hämtats från Service Providers-rutnätet.
 
 ## Installations-URL {#installation-url}
 
-To begin installation, you&#39;ll need to first obtain the URL of the OpenAPI document that defines your service. Din tjänsteleverantör bör kunna ge dig detta och har vanligtvis en URL som slutar på `/openapi.json`. Fullständiga URL:er ser ut ungefär som `https://www.example.com/OpenAPI.json`. När du har den här URL:en går du till menyn Tjänsteleverantörer i ditt Admin Section.
+För att kunna påbörja installationen måste du först hämta URL:en för det OpenAPI-dokument som definierar tjänsten. Din tjänsteleverantör bör kunna ge dig detta och har vanligtvis en URL som slutar på `/openapi.json`. Fullständiga URL:er ser ut ungefär som `https://www.example.com/OpenAPI.json`. När du har den här URL:en går du till menyn Tjänsteleverantörer i ditt Admin Section.
 
-Click **Next** to go to the Enter Service Credentials section.
+Klicka **Nästa** om du vill gå till sektionen Ange inloggningsuppgifter för tjänsten.
 
 ![](assets/flow-step-service-1.png)
 
-## Enter Service Credentials {#enter-service-credentials}
+## Ange autentiseringsuppgifter för tjänsten {#enter-service-credentials}
 
-Marketo måste ha giltiga API-autentiseringsuppgifter för att komma åt den tjänst som installeras. Dessa inloggningsuppgifter bör du få från din tjänsteleverantör. Services have three different authentication options, so you may see one of three different prompts for credentials: **API Key** which has only one input field, **Basic Authentication** which requires a username and password and may also require a field called Realm, and **OAuth2** using the _Client Credentials_ grant, which requires a _Client ID_ and _Client Secret_.
+Marketo måste ha giltiga API-autentiseringsuppgifter för att komma åt den tjänst som installeras. Dessa inloggningsuppgifter bör du få från din tjänsteleverantör. Tjänsterna har tre olika autentiseringsalternativ, så du kan se en av tre olika autentiseringsuppgifter: **API-nyckel** som bara har ett inmatningsfält, **Grundläggande autentisering** som kräver ett användarnamn och lösenord och som också kan kräva ett fält som heter Realm, och **OAuth2** med _Klientautentiseringsuppgifter_ bidrag, vilket kräver _Klient-ID_ och _Klienthemlighet_.
 
 >[!NOTE]
 >
 >OAuth2 kommer inte att vara tillgänglig förrän den 11 mars-utgåvan.
 
-När du sparar dina inloggningsuppgifter försöker Marketo anropa tjänstens statusslutpunkt för att verifiera att de är giltiga. If the credentials provided are invalid, you&#39;ll see an error indicating this.
+När du sparar dina inloggningsuppgifter försöker Marketo anropa tjänstens statusslutpunkt för att verifiera att de är giltiga. Om de angivna autentiseringsuppgifterna är ogiltiga visas ett felmeddelande om detta.
 
 ## Onboarding Guide (tillval) {#onboarding-guide}
 
@@ -54,29 +55,29 @@ Vissa tjänsteleverantörer kommer att inkludera ett valfritt steg i Onboarding 
 
 ## Fältmappning {#field-mapping}
 
-För att kunna ta emot eller returnera data från ett visst lead-fält måste det fältet mappas. Mappning är ett obligatoriskt steg under introduktionen, men du kan alltid gå tillbaka och ändra mappningarna senare. There are two types of mappings that are configured in separate screens: **Outgoing Fields**, which are sent to the service when Marketo invokes the flow step, and **Incoming Fields** which are fields which may receive data from the service when it returns data to Marketo.
+För att kunna ta emot eller returnera data från ett visst lead-fält måste det fältet mappas. Mappning är ett obligatoriskt steg under introduktionen, men du kan alltid gå tillbaka och ändra mappningarna senare. Det finns två typer av mappningar som är konfigurerade på olika skärmar: **Utgående fält** som skickas till tjänsten när Marketo anropar flödessteget, och **Inkommande fält** som är fält som kan ta emot data från tjänsten när den returnerar data till Marketo.
 
 >[!NOTE]
 >
 >Genom att mappa ett utgående fält ger du Marketo tillstånd att överföra data från det fältet som är relaterade till leads som bearbetas av den associerade tjänsten. Se till att du har rätt juridisk status och behörighet att överföra dessa data till din tjänsteleverantör, eftersom dessa fält kan innehålla personligt identifierbar information som omfattas av dataintegritetsskydd, skydd och innehavslagstiftning.
 
-Optional field mappings may be disabled without disruption to your service, but required mappings may not be removed or deactivated completely.
+Valfria fältmappningar kan inaktiveras utan avbrott i tjänsten, men obligatoriska mappningar kan inte tas bort eller inaktiveras helt.
 
 ## Tjänststyrda mappningar {#service-driven-mappings}
 
-Tjänster som har en fast uppsättning indata och utdata, som ett steg i händelseregistreringsflödet, använder **Tjänststyrda mappningar**. För den här typen av mappning tillhandahåller tjänsteleverantören både en datatyp och ett tips i form av ett API-namn. Om tipset matchar API-namnet för ett befintligt lead-fält fylls fältet automatiskt i i mappningsavsnittet. För fält utan matchande tips måste du fylla i mappningen manuellt från fältlistan med matchande datatyp. Mappings that are required must be populated to complete onboarding.
+Tjänster som har en fast uppsättning indata och utdata, som ett steg i händelseregistreringsflödet, använder **Tjänststyrda mappningar**. För den här typen av mappning tillhandahåller tjänsteleverantören både en datatyp och ett tips i form av ett API-namn. Om tipset matchar API-namnet för ett befintligt lead-fält fylls fältet automatiskt i i mappningsavsnittet. För fält utan matchande tips måste du fylla i mappningen manuellt från fältlistan med matchande datatyp. Mappningar som krävs måste fyllas i för att introduktionen ska kunna slutföras.
 
 ![](assets/flow-step-service-2.png)
 
-## User-Driven Mappings {#user-driven-mappings}
+## Användarstyrda mappningar {#user-driven-mappings}
 
-Services that do not have a fixed set of inputs and outputs, like a date-formatting service, use **User-Driven Mappings**. Det innebär att varje inkommande och utgående fält måste konfigureras av en administratör.
+Tjänster som inte har en fast uppsättning indata och utdata, t.ex. en datumformateringstjänst, använder **Användarstyrda mappningar**. Det innebär att varje inkommande och utgående fält måste konfigureras av en administratör.
 
 ![](assets/flow-step-service-3.png)
 
 ## Utgående fält {#outgoing-fields}
 
-Outgoing fields are those which are sent to the Flow Step Service when that flow step is used in a smart campaign.
+Utgående fält är de som skickas till tjänsten Flow Step när det flödessteget används i en smart kampanj.
 
 ## Inkommande fält {#incoming-fields}
 
@@ -84,40 +85,40 @@ Inkommande fält är de som tjänsten Flow Step kan skriva data till.
 
 ## Konfigurationsalternativ (valfritt) {#configuration-options}
 
-Vissa tjänster har antingen valfria eller obligatoriska globala konfigurationsalternativ. If any options are required, then a value must be set for all required options before saving or completing onboarding. Parametrar vars namn är i kursiv stil skickas till den anropade tjänsten som rubriker.
+Vissa tjänster har antingen valfria eller obligatoriska globala konfigurationsalternativ. Om något av alternativen krävs måste ett värde anges för alla nödvändiga alternativ innan du sparar eller slutför introduktionen. Parametrar vars namn är i kursiv stil skickas till den anropade tjänsten som rubriker.
 
 ![](assets/flow-step-service-4.png)
 
-## Retiring a Service {#retiring-a-service}
+## Återkalla en tjänst {#retiring-a-service}
 
-To facilitate transitions to new or alternative versions of a service, without disrupting active usage, services can be retired from the Service Providers menu. **Återkalla en tjänst** tar bort motsvarande flödessteg från paletten Smart Campaign-flöde, så att inga nya användningar av den kan skapas. In most cases, you should have a replacement service ready to replace the existing one when you choose to retire a service.
+För att underlätta övergången till nya eller alternativa versioner av en tjänst utan att störa den aktiva användningen kan tjänster tas bort från menyn Tjänsteleverantörer. **Återkalla en tjänst** tar bort motsvarande flödessteg från paletten Smart Campaign-flöde, så att inga nya användningar av den kan skapas. I de flesta fall bör du ha en ersättningstjänst som är klar att ersätta den befintliga när du väljer att dra in en tjänst.
 
-## Service Deprecation {#service-deprecation}
+## Borttagning av tjänst {#service-deprecation}
 
 Ibland måste tryckeriet ersätta stegvisa tjänster som en normal del av programvarans livscykel. När en tjänsteleverantör meddelar detta fylls borttagningsdatumet och meddelandet i i rutnätsvyn för tjänsteleverantörer. Om du fortsätter att använda en tjänst som har blivit inaktuell kan det leda till avbrott i tjänsten om den inte längre svarar på förväntat sätt, eller slutar ta emot begäranden från Marketo Smart Campaigns, så du bör vara uppmärksam på eventuella meddelanden om borttagning av tjänst som du får och vidta lämpliga åtgärder för att ta bort eller ersätta åtgärder från tjänsten som fortfarande används.
 
-## Using Third-Party and Custom Flow Steps {#using-third-party-and-custom-flow-steps}
+## Använda tredjeparts- och anpassade flödessteg {#using-third-party-and-custom-flow-steps}
 
 Installerade flödessteg kan i stort sett användas på samma sätt som standardflödessteg. Alla flödesparametrar som definieras av tjänsten presenteras för slutanvändarna.
 
-## Refreshing Picklists {#refreshing-picklists}
+## Uppdaterar plocklistor {#refreshing-picklists}
 
-Marketo kommer att uppdatera valmöjligheterna för tjänster varje kväll, men det finns tillfällen när du behöver nya alternativ, som att skapa kampanjer. You can refresh these easily from any instance of your flow step using the refresh button, or by going to the Admin > Service Providers menu and clicking Refresh Picklist once you have selected your service.
+Marketo kommer att uppdatera valmöjligheterna för tjänster varje kväll, men det finns tillfällen när du behöver nya alternativ, som att skapa kampanjer. Du kan enkelt uppdatera dessa från vilken instans som helst av flödessteget med uppdateringsknappen eller genom att gå till menyn Admin > Tjänsteleverantörer och klicka på Uppdatera plocklista när du har valt tjänsten.
 
-## Checking Incoming Fields {#checking-incoming-fields}
+## Kontrollerar inkommande fält {#checking-incoming-fields}
 
-Du kan kontrollera vilka inkommande fält som har konfigurerats för ett visst flödessteg genom att hålla muspekaren över verktygstipsikonen. This is useful for determining which fields might change when a lead flows through it, so you can configure choices in subsequent steps using those fields.
+Du kan kontrollera vilka inkommande fält som har konfigurerats för ett visst flödessteg genom att hålla muspekaren över verktygstipsikonen. Detta är användbart när du vill avgöra vilka fält som kan ändras när en lead flödar genom den, så att du kan konfigurera alternativ i efterföljande steg med dessa fält.
 
 ![](assets/flow-step-service-5.png)
 
 ## Inkommande fält och ändringar av datavärden {#incoming-fields-and-data-value-changes}
 
-Unlike most other flow steps, ones implemented with the SSFS framework may write data back to lead fields which are mapped by an admin and record those changes as Data Value Change activities.  När ett flödessteg skriver data på det här sättet kommer alla dessa ändringar att slutföras innan Smart Campaign går vidare till efterföljande steg, så att alla data som skrivs kan användas i efterföljande flödesstegval.
+Till skillnad från de flesta andra flödessteg kan de som implementeras med SSFS-ramverket skriva tillbaka data till huvudfält som mappas av en administratör och registrera dessa ändringar som aktiviteter för datavärdesändring.  När ett flödessteg skriver data på det här sättet kommer alla dessa ändringar att slutföras innan Smart Campaign går vidare till efterföljande steg, så att alla data som skrivs kan användas i efterföljande flödesstegval.
 
 ## Tjänstloggar och statistik {#service-logs-and-statistics}
 
 Varje tjänst för flödessteg har flera typer av loggning som är kopplade till den för att hjälpa till att övervaka hälsan och felsöka problem som rör integreringen.
 
-## Service Statistics {#service-statistics}
+## Tjänststatistik {#service-statistics}
 
 I loggen för tjänststatistik sammanställs resultaten av anrop och återanrop för varje tjänst. De grupperas efter tid, nivå (segment eller post) och kod och anger antal och det senaste loggmeddelandet för varje mottagen kod. Kontrollpanelen är främst avsedd att underlätta övervakningen av tjänsternas hälsa.
