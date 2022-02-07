@@ -1,45 +1,44 @@
 ---
 unique-page-id: 10099102
 description: Plugin-versioner för Microsoft Dynamics MSI - Marketo Docs - produktdokumentation
-title: Plug-in-versioner för Microsoft Dynamics MSI
+title: Plugin-versioner för Microsoft Dynamics MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 7b22aec56d15826c1fecd2cf026c561c4df8531c
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 4%
+source-wordcount: '306'
+ht-degree: 6%
 
 ---
 
-# Plug-in-versioner för Microsoft Dynamics MSI {#plug-in-releases-for-microsoft-dynamics-msi}
+# Plugin-versioner för Microsoft Dynamics MSI {#plug-in-releases-for-microsoft-dynamics-msi}
 
-När du först synkroniserar med Microsoft Dynamics hämtar och installerar du den senaste versionen av plugin-programmen för Marketo Sales Insight (MSI). Marketo uppdaterar regelbundet dessa plugin-program så att du kan gå tillbaka till samma ställe och ladda ned den nya versionen.
+När du först synkroniserar till Microsoft Dynamics hämtar och installerar du den senaste versionen av plugin-programmen för Marketo Sales Insight (MSI). Marketo uppdaterar regelbundet dessa plugin-program så att du kan gå tillbaka till samma ställe och ladda ned den nya versionen.
 
-[Hämta det senaste plugin-programmet](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) som motsvarar din Dynamics-release.
+Please [ladda ned det senaste plugin-programmet](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) motsvarar din Dynamics-release.
 
 >[!NOTE]
 >
 >Dessa versioner fungerar både lokalt och online för Dynamics.
 
-## Uppgraderar din MSI-lösning {#upgrading-your-msi-solution}
+## Uppgradera din MSI-lösning {#upgrading-your-msi-solution}
 
-1. Importera den senaste versionen av lösningen _över den befintliga versionen_ av Dynamics CRM genom att trycka på knappen **Importera** i Dynamics.
+1. Importera den senaste versionen av lösningen _över den befintliga versionen_ i Dynamics CRM genom att trycka på **Importera** i Dynamics.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-1.png)
 
 >[!NOTE]
 >
->Exempel: om din Dynamics CRM har version 2.0.0.20 och den senaste versionen är 2.0.0.21, importerar du _över version 2.0.0.20._
+>Exempel: om din Dynamics CRM har version 2.0.0.20 och den senaste versionen är 2.0.0.21, ska du importera _över_ version 2.0.0.20.
 
-1. Klicka på **Nästa**.
+1. Klicka **Nästa**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-2.png)
 
-1. Välj **Scen för uppgradering** och **Behåll anpassningar** och klicka sedan på **Importera**.
+1. Välj **Steg för uppgradering** och **Underhåll anpassningar** och sedan klicka **Importera**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-3.png)
 
-1. Klicka på **Nästa**.
+1. Klicka **Nästa**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
 
@@ -64,7 +63,27 @@ Och det är allt! Efter uppgraderingen visas bara en MSI-lösning.
    <th colspan="1">Anteckningar</th> 
   </tr> 
   <tr> 
-   <td colspan="1">10/1/20</td> 
+   <td colspan="1">02/03/22</td> 
+   <td colspan="1">2.0.0.27</td> 
+   <td colspan="1">Kontolayout för insikter: Intressanta ögonblick, bakgrundsmusik, webbaktiviteter, e-postaktiviteter</td> 
+  </tr>
+  <tr> 
+   <td colspan="1">01/05/22</td> 
+   <td colspan="1">2.0.0.26</td> 
+   <td colspan="1">Adobes poäng för e-post</td> 
+  </tr>
+  <tr> 
+   <td colspan="1">10/28/21</td> 
+   <td colspan="1">2.0.0.25</td> 
+   <td colspan="1">Mätvärden för produktanvändning, ny global instrumentpanel (webbaktivitet, e-post, bästa val)</td> 
+  </tr>
+  <tr> 
+   <td colspan="1">02/10/21</td> 
+   <td colspan="1">2.0.0.22</td> 
+   <td colspan="1">Ta bort automatisk granskning aktiverad och dokumentera ändringar i MSI-lösningen</td> 
+  </tr>
+  <tr> 
+   <td colspan="1">10/01/20</td> 
    <td colspan="1">2.0.0.21</td> 
    <td colspan="1">Felkorrigering: Tilldela åtkomst till MSI API-konfigurationsfält för användare med rollen Sales Insight</td> 
   </tr> 
