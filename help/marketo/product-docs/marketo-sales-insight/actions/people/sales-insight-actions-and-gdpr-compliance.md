@@ -3,10 +3,10 @@ description: Sales Insight Actions and GDPR Compliance - Marketo Docs - Product 
 title: Försäljningsåtgärder och GDPR-efterlevnad
 hide: true
 hidefromtoc: true
-source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
+source-git-commit: 95eef55e3bbf24f1511fcbb3091a5b657653d672
 workflow-type: tm+mt
-source-wordcount: '1396'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -35,17 +35,17 @@ Den allmänna dataskyddsförordningen gäller alla organisationer inom eller uta
 
 ## Konsekvenser för marknadsföring {#implications-for-marketing}
 
-Marketers aim to create customer experiences that feel personal and human, founded on trust and delivered with care. Även om den allmänna dataskyddsförordningen inte använder dessa villkor är målen desamma - att respektera kundernas rättigheter och att bygga upp deras förtroende. För att bygga upp och upprätthålla detta förtroende måste marknadsförarna ägna sig åt hur, när och varför deras kunder vill bli engagerade. Det är viktigt att kundens preferenser respekteras, inte bara som ett juridiskt krav, utan som grund för kundfokuserade engagemangsrutiner.
+Marknadsförarna vill skapa kundupplevelser som känns personliga och mänskliga, bygger på förtroende och levereras med omsorg. Även om den allmänna dataskyddsförordningen inte använder dessa villkor är målen desamma - att respektera kundernas rättigheter och att bygga upp deras förtroende. För att bygga upp och upprätthålla detta förtroende måste marknadsförarna ägna sig åt hur, när och varför deras kunder vill bli engagerade. Det är viktigt att kundens preferenser respekteras, inte bara som ett juridiskt krav, utan som grund för kundfokuserade engagemangsrutiner.
 
-How marketers address these higher expectations around the collection, use, and security of the personal data that are routinely used in the course of their work is key, and Marketo can help with meeting those expectations.
+Hur marknadsförarna tillgodoser dessa högre förväntningar när det gäller insamling, användning och säkerhet av personuppgifter som används regelbundet i arbetet är avgörande, och Marketo kan bidra till att uppfylla dessa förväntningar.
 
-There are two key aspects of the GDPR where marketers needs to review past, current, and future practices. Det första är samtycke från individen att behandla deras personuppgifter, och det andra är ansvar, nämligen att kunna visa hur principerna i den allmänna dataskyddsförordningen följs.
+Det finns två viktiga aspekter av den allmänna dataskyddsförordningen där marknadsförarna måste granska tidigare, nuvarande och framtida praxis. Det första är samtycke från individen att behandla deras personuppgifter, och det andra är ansvar, nämligen att kunna visa hur principerna i den allmänna dataskyddsförordningen följs.
 
 Vi tillhandahåller omfattande information om samtycke och ansvar inom Marketo-plattformen i vår e-bok, [GDPR och marknadsföraren](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). I den här artikeln kommer vi dock att särskilt fokusera på de nya funktionerna i Sales Insight Actions som kommer att hjälpa er organisation att följa GDPR-reglerna.
 
 ## GDPR-kompatibilitet vid försäljningsinsiktsåtgärder {#gdpr-compliance-in-marketo-sales-connect}
 
-Sales Insight Actions är en kraftfull applikation - en del av Marketo Engagement Platform - som ger ett enda arbetsflöde och en vy för försäljning och marknadsföring som tillsammans driver utvecklingen snabbare genom samarbete. New functionality in Sales Insight Actions has been created specifically with GDPR compliance in mind. We will outline all three functions and explain how they, when used properly, will help your organization’s GDPR compliance efforts.
+Sales Insight Actions är en kraftfull applikation - en del av Marketo Engagement Platform - som ger ett enda arbetsflöde och en vy för försäljning och marknadsföring som tillsammans driver utvecklingen snabbare genom samarbete. Ny funktionalitet i Sales Insight Actions har skapats specifikt med GDPR i åtanke. Vi kommer att ge en översikt över alla tre funktionerna och förklara hur de, när de används på rätt sätt, kommer att hjälpa er organisations arbete med GDPR-efterlevnad.
 
 ## Kompatibilitetskort {#compliance-card}
 
@@ -101,7 +101,7 @@ Sales Insight Actions gör det även möjligt att uppdatera en kontakts Authoriz
 
 När du väljer en eller flera kontakter på personsidan visas en punkt (tre punktmeny) till höger. Klicka på det så ser du alternativen Authorization och Source är. Du kan ange auktorisering eller källa för flera kontakter samtidigt.
 
-![](assets/sales-insight-actions-and-gdpr-compliance-5.jpg)
+![](assets/sales-insight-actions-and-gdpr-compliance-5.png)
 
 När du klickar på spärren för auktorisering visas ett popup-fönster med alternativ som matchar alternativen i efterlevnadskortet.
 
@@ -152,12 +152,12 @@ Du kan exportera kontaktinformation från persondetaljvyn. Vid export hämtas en
   </tr> 
   <tr> 
    <td>E-post-ID</td> 
-   <td>Salesforce ID</td> 
+   <td>Salesforce-ID</td> 
    <td><br></td> 
   </tr> 
   <tr> 
    <td>Telefonnummer</td> 
-   <td>Person ID</td> 
+   <td>Person-ID</td> 
    <td><br></td> 
   </tr> 
  </tbody> 
@@ -179,7 +179,7 @@ Om du vill exportera kontaktinformation klickar du på de tre lodräta prickarna
 
 Ett vanligt missförstått område i GDPR är kontakter som avslutar prenumerationen på organisationens databas. För att följa nya regler om skydd av data för dem som väljer att säga upp prenumerationen har följande funktioner inkluderats i Sales Insight Actions:
 
-**Unsubscribe Links:** Unsubscribe links will be automatically appended to all emails sent from the Sales Connect web application to ensure that contacts are given an accessible way to opt-out.\
+**Avbeställ länkar:** Länkar för att avbryta prenumerationen läggs automatiskt till i alla e-postmeddelanden som skickas från webbprogrammet Sales Connect för att säkerställa att kontakterna kan avanmäla sig.\
 **Avbeställ synkronisering:** Användare kan synkronisera avanmälan till och från sina CRM (Salesforce) för att säkerställa att avanmälningarna är aktuella.\
 **Avbeställningshistorik:** Användare kan se tidigare avanmälan och avanmälan i persondetaljvyn.\
 **Avbeställ borttagning:** Om du väljer att avbryta prenumerationen i måste användaren ha administratörsbehörighet och visa att kontakten har gett nytt medgivande för att kunna kontakta dem.
