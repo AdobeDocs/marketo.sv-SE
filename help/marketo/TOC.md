@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 338221b333ee50e6351d5ca6dcba702b48cd2185
+source-git-commit: 5df9b122cb340363a19a833b94d501cc5a766485
 workflow-type: tm+mt
-source-wordcount: '8275'
+source-wordcount: '8268'
 ht-degree: 0%
 
 ---
@@ -1284,21 +1284,19 @@ ht-degree: 0%
                + [Disponera massutskick med Markera och skicka](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [Skicka e-post via gruppe-post](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [Använda en mall i dispositionsfönstret](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+         + Marketo {#marketo}
+            + [Ge Marketo åtkomst till användare](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + Folk {#people}
+            + [Persondetaljvy](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Försäljningsåtgärder och GDPR-efterlevnad](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
-         + Uppgifter {#tasks}
-            + [Synkronisering av påminnelseaktivitet med Salesforce](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + Salesforce-konfiguration {#salesforce-configuration}
             + [Konfigurering av MSI-åtgärder i Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
             + [Avinstallera Salesforce Classic Customization Package](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
             + [Avinstallera Salesforce Lightning Customization Package](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
-         + Marketo {#marketo}
-            + [Ge Marketo åtkomst till användare](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
-         + Folk {#people}
-         + [Persondetaljvy](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
-         + [Försäljningsåtgärder och GDPR-efterlevnad](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
          + Skicka ett e-postmeddelande {#send-a-sales-email}
             + [Översikt över e-postspårning](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
+         + Uppgifter {#tasks}
+            + [Synkronisering av påminnelseaktivitet med Salesforce](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + Mallar {#templates}
             + [Hantera mallar](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
             + [Hantera mallkategorier](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
