@@ -3,16 +3,16 @@ unique-page-id: 2953384
 description: Aktivera synkronisering för en anpassad enhet - Marketo Docs - produktdokumentation
 title: Aktivera synkronisering för en anpassad entitet
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
-source-git-commit: a5bc634bd3b5ec0849617a9fe366a106691ce149
+source-git-commit: dadaf5bd8e887309d0e9ee8fc25fc58d1c4fbe97
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
 # Aktivera synkronisering för en anpassad entitet {#enable-sync-for-a-custom-entity}
 
-Om du vill att anpassade entitetsdata från Dynamics ska vara tillgängliga i Marketo, så här aktiverar du synkroniseringen:
+Om du vill att anpassade entitetsdata från Dynamics ska vara tillgängliga i Marketo gör du så här för att aktivera synkroniseringen för den.
 
 >[!NOTE]
 >
@@ -20,7 +20,9 @@ Om du vill att anpassade entitetsdata från Dynamics ska vara tillgängliga i Ma
 
 >[!NOTE]
 >
->När du aktiverar synkronisering för en anpassad enhet utför Marketo en inledande synkronisering för att hämta alla data för det anpassade objektet.
+>* När du aktiverar synkronisering för en anpassad enhet utför Marketo en inledande synkronisering för att hämta alla data för det anpassade objektet.
+>* Medlemmar i marknadsföringslista och marknadsföringslista är **stöds inte** just nu.
+
 
 1. Gå till **Administratör** -avsnitt.
 
@@ -61,4 +63,3 @@ Om du vill att anpassade entitetsdata från Dynamics ska vara tillgängliga i Ma
 1. Glöm inte att aktivera den globala synkroniseringen igen!
 
    ![](assets/enable-sync-for-a-custom-entity-8.png)
-
