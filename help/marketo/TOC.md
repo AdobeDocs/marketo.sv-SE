@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: f4cab63854a9c3e461daeb28c0a09746488c5d9e
+source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
 workflow-type: tm+mt
-source-wordcount: '8247'
+source-wordcount: '8257'
 ht-degree: 0%
 
 ---
@@ -1289,6 +1289,9 @@ ht-degree: 0%
             + [Avinstallera Salesforce Lightning Customization Package](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
          + Marketo {#marketo}
             + [Ge Marketo åtkomst till användare](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
+         + Folk {#people}
+         + [Persondetaljvy](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
+         + [Försäljningsåtgärder och GDPR-efterlevnad](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
          + Skicka ett e-postmeddelande {#send-a-sales-email}
             + [Översikt över e-postspårning](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
          + Mallar {#templates}

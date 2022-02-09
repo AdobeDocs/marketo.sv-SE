@@ -3,9 +3,9 @@ description: Persondetaljvy - Marketo Docs - produktdokumentation
 title: Persondetaljvy
 hide: true
 hidefromtoc: true
-source-git-commit: 9ca5128dd2a6b68e644cfe8cc781d840f9429945
+source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -18,21 +18,21 @@ I persondetaljvyn finns en detaljerad profil för varje person på ditt Marketo-
 
 1. Om du vill öppna personinformationsvyn klickar du på **Folk** -fliken.
 
-PICC
+   ![](assets/person-detail-view-1.png)
 
 1. Markera önskad person.
 
-PICC
+   ![](assets/person-detail-view-2.png)
 
->[!TIP]
->
->I stort sett var du än ser en persons namn kan du klicka på den och gå till hans/hennes personvy.
+   >[!TIP]
+   >
+   >I stort sett var du än ser en persons namn kan du klicka på den och gå till hans/hennes personvy.
 
 ## Fliken Om {#about-tab}
 
 Innehåller all kontaktinformation för personen.
 
-PICC
+![](assets/person-detail-view-3.png)
 
 **Kontaktkort**
 

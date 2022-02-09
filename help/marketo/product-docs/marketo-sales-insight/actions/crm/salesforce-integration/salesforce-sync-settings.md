@@ -4,9 +4,9 @@ title: Synkroniseringsinställningar för Salesforce
 hide: true
 hidefromtoc: true
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '443'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ Den här funktionen kräver att du finns i Enterprise/Unlimited Edition av Sales
 
 >[!PREREQUISITES]
 >
->Salesforce och Marketo Sales måste vara anslutna.
+>Salesforce- och Sales Insight-åtgärder måste vara kopplade.
 
-1. I Marketo Sales klickar du på kugghjulsikonen och väljer **Inställningar**.
+1. I Sales Insight Actions klickar du på kugghjulsikonen och väljer **Inställningar**.
 
    ![](assets/salesforce-sync-settings-1.png)
 
@@ -47,7 +47,7 @@ När du har aktiverat&quot;E-post till Salesforce (BCC)&quot; får du en kopia a
 
 >[!PREREQUISITES]
 >
->Salesforce och Marketo Sales måste vara anslutna.
+>Salesforce- och Sales Insight-åtgärder måste vara kopplade.
 
 **Logga dina e-postmeddelanden i Salesforce via e-post (BCC)**
 
@@ -93,9 +93,9 @@ Om du inte ser Min e-post till Salesforce under dina inställningar har administ
 1. Markera rutan bredvid&quot;Aktiv&quot;.
 1. Klicka **Spara**.
 
-## Synkronisera Marketo säljaktiviteter/påminnelser till Salesforce-aktiviteter {#sync-marketo-sales-tasks-reminders-to-salesforce-tasks}
+## Synkronisera uppgifter/påminnelser för försäljningsinsikter till Salesforce-uppgifter {#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks}
 
-1. I Marketo Sales klickar du på kugghjulsikonen och väljer **Inställningar**.
+1. I Sales Insight Actions klickar du på kugghjulsikonen och väljer **Inställningar**.
 
    ![](assets/salesforce-sync-settings-10.png)
 
