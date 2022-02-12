@@ -3,9 +3,10 @@ description: MSI Actions Admin Guide - Marketo Docs - produktdokumentation
 title: Administratörshandbok för MSI-åtgärder
 hide: true
 hidefromtoc: true
-source-git-commit: 55a677339f03b11ac3c2bdf58fdb83fdbd1cd4b8
+exl-id: 339d518d-445b-4634-ab81-92c9d5541927
+source-git-commit: e3d175d9f6131ec9798c4047ccf79858c254c745
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '492'
 ht-degree: 0%
 
 ---
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* Bekräfta med din Customer Success Manager att MSI-åtgärder har aktiverats för ditt Marketo-konto (om du inte har någon CSM, vänligen [kontakta supporten](https://nation.marketo.com/t5/support/ct-p/Support)).
+>* Bekräfta med din Customer Success Manager att MSI-åtgärder har aktiverats för ditt Marketo-konto (om du inte har någon CSM, vänligen [kontakta Marketo support](https://nation.marketo.com/t5/support/ct-p/Support)).
 >* Din Marketo/Salesforce-synkronisering måste vara konfigurerad.
 
 

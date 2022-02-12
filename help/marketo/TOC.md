@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 9136ef46cd3b3293bef605dec997f23b46fa4326
+source-git-commit: e3d175d9f6131ec9798c4047ccf79858c254c745
 workflow-type: tm+mt
-source-wordcount: '8272'
+source-wordcount: '8282'
 ht-degree: 0%
 
 ---
@@ -1245,6 +1245,8 @@ ht-degree: 0%
                + [Lägg till eller uppdatera din e-postsignatur](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
                + [Lägg till identitet](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
          + Administratör {#admin}
+            + [Vanliga frågor om synkronisering av funktionsmakron](product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md)
+            + [Automatisk inloggning från Salesforce](product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)
             + [Blockerade domäner](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [Anslut ny administratör till Marketo](product-docs/marketo-sales-insight/actions/admin/connect-new-admin-to-marketo.md)
             + [Låsning av innehåll](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
@@ -1252,6 +1254,7 @@ ht-degree: 0%
             + [Konfigurera anpassad domänspårning](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [Bjud in användare och administratörer](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [Loggningsattribut för försäljningsaktivitet till Salesforce](product-docs/marketo-sales-insight/actions/admin/logging-sales-activity-attributes-to-salesforce.md)
+            + [Inställningar för inloggningshantering](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
             + [Delningsinställningar](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [Information om användaråtkomst](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + Kampanjer {#campaigns}
