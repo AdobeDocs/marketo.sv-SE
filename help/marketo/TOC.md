@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: e3d175d9f6131ec9798c4047ccf79858c254c745
+source-git-commit: 72e5c209939f30228d4ef9f6af798265e0446456
 workflow-type: tm+mt
-source-wordcount: '8282'
+source-wordcount: '8273'
 ht-degree: 0%
 
 ---
@@ -211,7 +211,6 @@ ht-degree: 0%
          + [Skapa endast en API-användare](product-docs/administration/users-and-roles/create-an-api-only-user.md)
          + [Skapa, ta bort, redigera och ändra en användarroll](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
          + [E-postverifiering](product-docs/administration/users-and-roles/email-verification.md)
-         + [Aktivera importeringsbehörighet för avancerad lista för en roll](product-docs/administration/users-and-roles/enable-the-advanced-list-import-permission-on-a-role.md)
          + [Exportera en lista med användare och roller](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Hantera Marketo-användare](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Hantera användarroller och behörigheter](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
