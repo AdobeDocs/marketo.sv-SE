@@ -4,9 +4,9 @@ title: Vanliga frågor om synkronisering av funktionsmakron
 hide: true
 hidefromtoc: true
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
+source-git-commit: 8ded6cac96f17c81a8d37cbe51c39ad565ac828e
 workflow-type: tm+mt
-source-wordcount: '1045'
+source-wordcount: '1044'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Synkroniseringen av datafältet för Sales Insight-åtgärder gör att systemet kan hämta personinformation från din Marketo Engage-databas till din databas för Sales Insight-åtgärder.
 
-Detta ger aktuella persondata i webbappen Sales Insight Actions och gör det möjligt för systemet att samla in unika ID:n för motsvarande personposter i Marketo och lead-/kontakt-/konto-/affärsmöjlighetsposter i Salesforce, så att poster kan refereras till korrekt för loggningsdata.
+Detta tillhandahåller aktuella persondata i webbappen Sales Insight Actions och gör det möjligt för systemet att samla in unika ID:n för motsvarande personposter i Marketo och lead-/kontakt-/konto-/affärsmöjlighetsposter i Salesforce, så att poster kan refereras till korrekt för loggningsdata.
 
 Synkroniseringen kan aktiveras på fliken Sales Insight Actions Config i administratörsavsnittet i Marketo Engage. Mer information finns på [Initiera datasynkronisering](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md#initiate-data-sync).
 
