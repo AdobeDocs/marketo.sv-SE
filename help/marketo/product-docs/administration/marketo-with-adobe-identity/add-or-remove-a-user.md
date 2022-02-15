@@ -4,9 +4,9 @@ title: Lägg till eller ta bort en användare
 hide: true
 hidefromtoc: true
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 34860f7b0a94a142c3d29a225203a00c7fb3b79e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -43,15 +43,19 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-7.png)
 
+   >[!IMPORTANT]
+   >
+   >En användare **måste** läggas till i en produktprofil för att få tillgång till Marketo Engage.
+
 1. Klicka **Spara**.
 
    ![](assets/add-or-remove-a-user-8.png)
 
-Användaren får sedan ett e-postmeddelande om att logga in på Marketo.
+Användaren får sedan ett e-postmeddelande om att logga in på Marketo Engage.
 
 >[!NOTE]
 >
->När användaren läggs till Marketo Engage via Adobe Admin Console får användaren rollen&quot;Standardanvändare&quot; i standardarbetsytan för prenumerationen. Om användarens roll på arbetsytan behöver justeras, d.v.s. i Marketo Engage, [enligt beskrivning här](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>När användaren läggs till Marketo Engage via Adobe Admin Console får användaren rollen&quot;Standardanvändare&quot; i standardarbetsytan för prenumerationen. Om användarens roll på arbetsytan behöver justeras, så görs det i Marketo Engage, [enligt beskrivning här](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## Ta bort en användare {#remove-a-user}
 
@@ -79,7 +83,7 @@ Användaren får sedan ett e-postmeddelande om att logga in på Marketo.
 
    ![](assets/add-or-remove-a-user-14.png)
 
-Användaren får sedan ett e-postmeddelande som meddelar att de inte längre har produktadministratörsåtkomst till Marketo Engage.
+Användaren får sedan ett e-postmeddelande som meddelar att han/hon inte längre har åtkomst till Marketo Engage.
 
 >[!MORELIKETHIS]
 >
