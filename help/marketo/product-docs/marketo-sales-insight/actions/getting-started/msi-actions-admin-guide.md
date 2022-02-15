@@ -4,9 +4,9 @@ title: Administratörshandbok för MSI-åtgärder
 hide: true
 hidefromtoc: true
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: e3d175d9f6131ec9798c4047ccf79858c254c745
+source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '556'
 ht-degree: 0%
 
 ---
@@ -110,15 +110,17 @@ Om du redan är inloggad i Salesforce är du ansluten. Om du inte gör det blir 
 
 ## Initiera datasynkronisering {#initiate-data-sync}
 
+Synkroniseringen av datafält för Sales Insight Actions gör att systemet kan hämta personinformation från din Marketo Engage-databas till din Sales Insight Actions-databas, hålla persondata uppdaterade och se till att aktiviteter loggas till rätt poster i Marketo och Salesforce.
+
 1. I Marketo klickar du på **Administratör**.
 
    ![](assets/msi-actions-admin-guide-10.png)
 
-1. Klicka på Sales Insight.
+1. Klicka **Försäljningsinsikter**.
 
    ![](assets/msi-actions-admin-guide-11.png)
 
-1. Klicka på fliken Actions Config. Klicka på Synkroniseringskortet för åtgärdsfält **Synkronisera**.
+1. Klicka på **Åtgärdskonfiguration** -fliken. Klicka på Synkroniseringskortet för åtgärdsfält **Synkronisera**.
 
    ![](assets/msi-actions-admin-guide-12.png)
 
@@ -127,6 +129,10 @@ Om du redan är inloggad i Salesforce är du ansluten. Om du inte gör det blir 
    ![](assets/msi-actions-admin-guide-13.png)
 
 Personposter som finns i Marketo och Salesforce synkroniseras med ditt Marketo Sales Apps-konto.
+
+>[!NOTE]
+>
+>Läs mer om hur människor och aktivitetsdata synkroniseras mellan Sales Insight Actions, Marketo och Salesforce. [klicka här](/help/marketo/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md).
 
 ## Bjud in enskilda användare till MSI-åtgärder {#invite-individual-users-to-msi-actions}
 

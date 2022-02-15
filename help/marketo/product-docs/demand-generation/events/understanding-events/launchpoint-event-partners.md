@@ -1,28 +1,27 @@
 ---
 unique-page-id: 2949777
-description: LaunchPoint Event Partners - Marketo Docs - Produktdokumentation
-title: LaunchPoint Event Partners
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Event Partners - Marketo Docs - produktdokumentation
+title: Event Partners
+exl-id: 3d6c523f-a1ee-4b0c-8e3c-1724f3b7800e
+source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '83'
 ht-degree: 1%
 
 ---
 
+# Event Partners {#event-partners}
 
-# LaunchPoint Event Partners {#launchpoint-event-partners}
-
-Anslut Marketo till en LaunchPoint-händelsepartner för att automatisera dina onlineevent. När du kopplar ihop dem kan du:
+Anslut Marketo till en Event Partner för att automatisera onlineeventen. När du kopplar ihop dem kan du:
 
 * Hantera webbinarier
-* Skicka registreringsinformation som samlats in på en Marketo-landningssida till den konfigurerade LaunchPoint-händelsepartnern
-* Hämta närvaroinformation automatiskt till en Marketo-händelse
+* Skicka registreringsinformation som samlats in på en Marketo-landningssida till den konfigurerade Event Partner
+* Dra automatiskt in närvaroinformation i en Marketo-händelse
 * Fånga personernas status som medlemmar i programmet
 
-Se instruktionerna om hur du integrerar dina onlinemarknadshändelser med din LaunchPoint Event Partner:
+Se instruktionerna om hur du integrerar Marketo Events online med din Event Partner:
 
-* [WebEx](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
+* [Webex](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
 * [Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
 * [ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
 * [ReadyTalk](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
