@@ -4,9 +4,9 @@ title: Vanliga frågor om synkronisering av funktionsmakron
 hide: true
 hidefromtoc: true
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
+source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
 workflow-type: tm+mt
-source-wordcount: '1033'
+source-wordcount: '1045'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Leads och kontakter som har en försäljningsägare tilldelad till sig synkronis
 
 Du kan se om ett lead/en kontakt har en säljare i Salesforce genom att titta i det standardägarfält som finns.
 
-Säljaren behöver inte vara synkroniseringsanvändare för Marketo eller någon specifik Salesforce- eller säljanvändare. Så länge som det finns en användare i standardägarfältet inkluderas den lead/kontakt som ska synkroniseras ned till försäljningsåtgärder, och även den i eventuella uppdateringar av de synkroniserade fälten som ska göras för denna lead.
+Säljaren behöver inte vara synkroniseringsanvändare för Marketo eller någon specifik Salesforce- eller säljanvändare. Det enda vi behöver är att det finns en användare listad i fältet Lead-ägare och Kontaktägare i Salesforce, så att vi kan identifiera den som ett säljtips och synkronisera den med Sales Insight-åtgärder. Alla uppdateringar av fälten som vi synkroniserar med kommer också att identifieras och uppdateras i Sales Insight Actions.
 
 ## Var kommer aktivitetsdata som visas i Sales Insight Smart Grid ifrån? {#where-does-the-activity-data-get-sourced-from}
 
