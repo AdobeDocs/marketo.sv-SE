@@ -3,7 +3,7 @@ unique-page-id: 1147091
 description: Understanding Program Membership - Marketo Docs - Product Documentation
 title: Förstå programmedlemskap
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
-source-git-commit: 66baa78d3e32140526d8d66beba493e02937a2c2
+source-git-commit: f6212795eec123265c6b6628da9974e97f9f7caf
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
    1. Personen får automatiskt den första statusen i förloppet.
 
 1. Du använder [ändra programstatus](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) flödessteg.
-1. En person registrerar eller deltar i en [webbinarium synkroniserat med ett händelseprogram](/help/marketo/product-docs/demand-generation/events/events/event-partners.md).
+1. En person registrerar eller deltar i en [webbinarium synkroniserat med ett händelseprogram](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md).
 1. En person är [som skapats med incheckningsprogrammet för Marketo iPad](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 1. En person läggs till i en SFDC-kampanj, som är [synkad till programmet](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md).
 
