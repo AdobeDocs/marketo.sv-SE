@@ -1,9 +1,8 @@
 ---
 description: Lägg till endast API-användare för Adobe IMS-aktiverade prenumerationer - Marketo Docs - produktdokumentation
 title: Lägg till endast API-användare för Adobe IMS-aktiverade prenumerationer
-hide: true
-hidefromtoc: true
-source-git-commit: 1161d193261af10aaa7658e747ff6500ad4179d0
+exl-id: bf908a50-de2f-4ea0-8d6a-5d7ed6d39ebf
+source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
