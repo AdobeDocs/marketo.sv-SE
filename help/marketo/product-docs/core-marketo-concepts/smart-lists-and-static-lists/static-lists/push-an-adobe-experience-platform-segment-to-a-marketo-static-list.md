@@ -2,9 +2,9 @@
 description: Överför ett Adobe Experience Platform-segment till en Marketo Static List - Marketo Docs - Product Documentation
 title: Överför ett Adobe Experience Platform-segment till en Marketo Static List
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 05129f546cf2ba0df5c608485adf73c26d4b4f1e
+source-git-commit: 0dd8059a43bfb37cdcb6b36cc73d82538263245e
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '658'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,7 @@ Med den här funktionen kan du överföra segment som finns i din Adobe Experien
 
 >[!PREREQUISITES]
 >
+>* [Redigera API-rollen](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role) för att säkerställa att den har **Skrivskyddad person** behörighet (finns i listrutan Åtkomst-API).
 >* [Skapa en API-användare](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) i Marketo.
 >* Gå till **Administratör** > **Startpunkt**. Sök efter namnet på den roll du just skapade och klicka på **Visa detaljer**. Kopiera och spara informationen i **Klient-ID** och **Klienthemlighet** som du kunde behöva det för steg 7.
 >* Skapa en statisk lista i Marketo eller sök efter och välj en som du redan har skapat. Du behöver dess ID.
@@ -36,7 +37,7 @@ Med den här funktionen kan du överföra segment som finns i din Adobe Experien
 
    ![](assets/push-an-adobe-experience-platform-segment-4.png)
 
-1. Hitta plattan Marketo Engage och klicka **Aktivera segment**.
+1. Hitta plattan Marketo Engage och klicka **Aktivera**.
 
    ![](assets/push-an-adobe-experience-platform-segment-5.png)
 
@@ -79,7 +80,11 @@ Med den här funktionen kan du överföra segment som finns i din Adobe Experien
 
    >[!NOTE]
    >
-   >Om du väljer flera segment här måste du mappa varje segment till en angiven statisk lista på fliken Segmentschema.
+   >Om du väljer flera segment måste du mappa varje segment till en angiven statisk lista på fliken Segmentschema.
+
+   >[!IMPORTANT]
+   >
+   >När ett segment har aktiverats för första gången på Marketo-målet kan de bakåtfyllnadsprofiler som redan fanns i segmentet innan Marketo-målaktiveringen aktiveras **upp till 24 timmar**. Framöver kommer profiler som läggs till i segmentet att läggas till i Marketo direkt.
 
 1. Klicka **Lägg till ny mappning**.
 
