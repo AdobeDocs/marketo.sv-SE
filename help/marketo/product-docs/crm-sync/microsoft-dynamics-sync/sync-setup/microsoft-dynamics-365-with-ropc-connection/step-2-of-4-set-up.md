@@ -1,14 +1,15 @@
 ---
-description: Steg 2 av 3 - Konfigurera Marketo Solution med Resource Owner Password Control Connection - Marketo Docs - Product Documentation
-title: Steg 2 av 3 - Konfigurera Marketo Solution med Resource Owner Password Control Connection
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+description: Steg 2 av 4 - Konfigurera Marketo Solution med Resource Owner Password Control Connection - Marketo Docs - Product Documentation
+title: Steg 2 av 4 - Konfigurera Marketo Solution med Resource Owner Password Control Connection
+exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
+source-git-commit: 19c568cdc3d31d07e42e99eb7e48f10a017b44f9
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
 
-# Steg 2 av 3: Konfigurera Marketo Solution med Resource Owner Password Control Connection {#step-2-of-3-set-up-the-marketo-solution-ropc}
+# Steg 2 av 4: Konfigurera Marketo Solution med Resource Owner Password Control Connection {#step-2-of-4-set-up-the-marketo-solution-ropc}
 
 Vi börjar med att skapa ett användarkonto.
 
@@ -45,6 +46,10 @@ Vi börjar med att skapa ett användarkonto.
 1. En annan ny flik öppnas. Klicka **Lägg till en användare**.
 
    ![](assets/seven.png)
+
+   >[!IMPORTANT]
+   >
+   >Synkroniseringsanvändaren bör ha läsbehörighet för Marketo Config.
 
 1. Ange all information. När du är klar klickar du på **Lägg till**.
 
@@ -126,12 +131,6 @@ Nästan klart! Allt vi har kvar är att informera Marketo Solution om den nya an
 
    ![](assets/nineteen.png)
 
-## Innan du fortsätter till steg 3 {#before-proceeding-to-step}
-
-* Om du vill begränsa antalet poster som du synkroniserar, [konfigurera ett eget synkroniseringsfilter](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) nu.
-* Kör [Validera Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) -processen. Den verifierar att dina initiala inställningar har gjorts korrekt.
-* Logga in i Marketo Sync User i Microsoft Dynamics CRM.
-
-   >[!MORELIKETHIS]
-   >
-   >[Steg 3 av 4: Anslut Marketo Solution med Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
+>[!MORELIKETHIS]
+>
+>[Steg 3 av 4: Anslut Marketo Solution med Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
