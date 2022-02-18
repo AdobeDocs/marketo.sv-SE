@@ -3,9 +3,9 @@ unique-page-id: 2951640
 description: Använda intressanta stunder - Marketo Docs - produktdokumentation
 title: Använda intressanta stunder
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+source-git-commit: e651aa8eb79935f5c00594104c60818df9617fb6
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '450'
 ht-degree: 0%
 
 ---
@@ -85,5 +85,9 @@ Du kan prenumerera på ett intressant tillfälle genom att klicka på prenumerat
 1. Välj vilken eller vilka e-postadresser du vill skicka aviseringarna till (dig själv/teammedlemmar)
 
 1. Klicka **Prenumerera**.
+
+>[!NOTE]
+>
+>När användaren prenumererar på Intressant stund-typer eller beskrivningar får användaren e-postmeddelanden till personer (leads/kontakter) som de äger när de utlöser ett intressant tillfälle som matchar den typen eller beskrivningen.
 
 ![](assets/using-interesting-moments-8.png)
