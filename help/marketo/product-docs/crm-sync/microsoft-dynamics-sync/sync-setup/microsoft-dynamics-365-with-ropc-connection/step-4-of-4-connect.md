@@ -2,9 +2,9 @@
 description: Steg 4 av 4 - Anslut Marketo-lösningen med Resource Owner Password Control Connection - Marketo Docs - produktdokumentation
 title: Steg 4 av 4 - Anslut Marketo-lösningen med Resursägarens lösenordskontrollanslutning
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
-source-git-commit: eb200f085b41489c8d7e11bb2fd059a311e5349c
+source-git-commit: b4fafa28d9a38504a29c25700496d8376c4fe47b
 workflow-type: tm+mt
-source-wordcount: '456'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -54,7 +54,7 @@ Detta är det sista steget i synkroniseringen. Du är nästan framme!
    >
    >Innan du anger nya autentiseringsuppgifter kan du [validera dem här](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md).
 
-1. Ange **Användarnamn**, **Lösenord**, **Klient-ID**, **Klienthemlighet** och Microsoft Dynamics **URL**. Klicka **Spara** när det är klart.
+1. Ange **Användarnamn**, **Lösenord**, Microsoft Dynamics **URL**, **Klient-ID** och **Klienthemlighet**. Klicka **Spara** när det är klart.
 
    ![](assets/step-4-of-4-connect-ropc-5.png)
 
@@ -111,3 +111,7 @@ Om du har skapat ett eget filter måste du gå in och välja de nya fält som sk
    ![](assets/image2015-3-16-9-3a59-3a51.png)
 
 Utmärkt arbete!
+
+>[!MORELIKETHIS]
+>
+>[Konfigurera om Dynamics-autentiseringsmetod](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)
