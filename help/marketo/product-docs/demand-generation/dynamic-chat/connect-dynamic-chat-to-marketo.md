@@ -1,12 +1,10 @@
 ---
 description: Ansluta Dynamic Chat till Marketo - Marketo Docs - produktdokumentation
 title: Ansluta Dynamic Chat till Marketo
-hide: true
-hidefromtoc: true
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -15,7 +13,7 @@ ht-degree: 0%
 
 När du är klar med [inledande konfiguration](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md)är det dags att utföra engångsynkningen som kopplar Dynamic Chat till din Marketo-prenumeration.
 
-1. In My Marketo, click the **Dynamic Chat** tile.
+1. I Min Marketo klickar du på **Dynamiskt chatt** platta.
 
    ![](assets/connect-dynamic-chat-to-marketo-1.png)
 
@@ -23,23 +21,23 @@ När du är klar med [inledande konfiguration](/help/marketo/product-docs/demand
    >
    >Om du inte ser rutan kan du kontakta Marketo Admin.
 
-1. If you&#39;ve previously accessed an application with an Adobe ID, you&#39;ll be taken straight to Dynamic Chat. Om inte, [konfigurera din Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
+1. Om du tidigare har använt ett program med en Adobe ID kommer du direkt till Dynamic Chat. Om inte, [konfigurera din Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
 
 1. Om du vill ansluta din Marketo-instans väljer du **Integreringar**.
 
    ![](assets/connect-dynamic-chat-to-marketo-2.png)
 
-1. On the Marketo card, click **Initiate Sync**.
+1. På Marketo-kortet klickar du **Initiera synkronisering**.
 
    ![](assets/connect-dynamic-chat-to-marketo-3.png)
 
 >[!NOTE]
 >
->It can take anywhere from 2 to 24 hours for the sync to complete, depending on the size of your database.
+>Det kan ta mellan 2 och 24 timmar innan synkroniseringen är klar, beroende på databasens storlek.
 
 ## Länka din Adobe-organisation och Marketo {#link-your-adobe-org-and-marketo}
 
-Next, it&#39;s time to link Adobe and Marketo.
+Nu är det dags att länka Adobe och Marketo.
 
 1. Logga in på [experience.adobe.com](https://experience.adobe.com).
 
@@ -51,14 +49,14 @@ Next, it&#39;s time to link Adobe and Marketo.
 
    ![](assets/connect-dynamic-chat-to-marketo-5.png)
 
-1. Click **Edit**.
+1. Klicka **Redigera**.
 
    ![](assets/connect-dynamic-chat-to-marketo-6.png)
 
-1. Paste the Org ID you copied in Step 2 and click **OK**.
+1. Klistra in det Org-ID som du kopierade i steg 2 och klicka på **OK**.
 
    ![](assets/connect-dynamic-chat-to-marketo-7.png)
 
 >[!MORELIKETHIS]
 >
->[Initial Setup](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md)
+>[Inledande konfiguration](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md)

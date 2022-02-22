@@ -1,10 +1,8 @@
 ---
 description: Skapa en ström - Marketo Docs - produktdokumentation
 title: Skapa en ström
-hide: true
-hidefromtoc: true
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 0%

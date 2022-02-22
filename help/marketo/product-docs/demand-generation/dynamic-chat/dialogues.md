@@ -1,10 +1,8 @@
 ---
 description: Dialogrutor - Marketo Docs - produktdokumentation
 title: Dialogrutor
-hide: true
-hidefromtoc: true
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
 workflow-type: tm+mt
 source-wordcount: '745'
 ht-degree: 0%
