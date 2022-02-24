@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: e651aa8eb79935f5c00594104c60818df9617fb6
+source-git-commit: f2b6e0ae4759ed279d4c02ae922e9deba838b1ff
 workflow-type: tm+mt
-source-wordcount: '8285'
+source-wordcount: '8293'
 ht-degree: 0%
 
 ---
@@ -252,6 +252,7 @@ ht-degree: 0%
             + [Redigera kvalificeringsregler i en smart kampanj](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
             + [Flytta en smart kampanj](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)
             + [Åsidosätt personbegränsningar i en smart kampanj](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
+            + [Åsidosättning av prioritet för utlösarkampanjer](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/priority-override-for-trigger-campaigns.md)
             + [Byta namn på en smart kampanj](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/rename-a-smart-campaign.md)
             + [Kör en batchsmart kampanj nu | Fliken Schema](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/run-a-batch-smart-campaign-now-schedule-tab.md)
             + [Schemalägg en batchsmart kampanj att köras senare](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
@@ -377,6 +378,7 @@ ht-degree: 0%
             + [Redigera inställningar för analysbeteende](product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md)
             + [Importera ett program](product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md)
             + [Importera medlemmar från ett kalkylblad till ett program](product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md)
+            + [Förfallotid för lokal resurs](product-docs/core-marketo-concepts/programs/working-with-programs/local-asset-expiration.md)
             + [Hantera och visa medlemmar](product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
             + [Anpassade fält för programmedlem](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)
             + [Synkronisera en SFDC-kampanj med ett program](product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
