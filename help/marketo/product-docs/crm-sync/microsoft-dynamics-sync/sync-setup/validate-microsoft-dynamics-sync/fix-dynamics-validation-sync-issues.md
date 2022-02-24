@@ -3,9 +3,9 @@ unique-page-id: 10095429
 description: Åtgärda problem med synkronisering av Dynamics-validering - Marketo Docs - produktdokumentation
 title: Åtgärda problem med synkronisering av Dynamics-validering
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
-source-git-commit: b4fafa28d9a38504a29c25700496d8376c4fe47b
+source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '454'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Om du har en ![x](assets/delete.png) här kontrollerar du att ditt användarnamn
 
 ## Synkroniseringsanvändaren har tilldelats användarrollen Marketo Sync {#sync-user-is-assigned-to-the-marketo-sync-user-role}
 
-Om du har en ![x](assets/delete.png) Här kan det vara en av de två anledningarna nedan.
+Om du har en ![x](assets/delete.png) här kan det vara en av de tre frågorna nedan.
 
 **Alternativ ett - Verifiera att användarrollen Marketo Sync är markerad i Microsoft Dynamics**:
 
@@ -75,6 +75,10 @@ Om du har en ![x](assets/delete.png) Här kan det vara en av de två anledningar
 **Alternativ två - Bekräfta godkännande av beviljande**:
 
 1. Granska [Bevilja samtycke för klient-ID och appregistrering](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md) för att bekräfta att appen har administratörstillstånd att anropa API:er.
+
+**Alternativ tre - Synkronisera användare**:
+
+1. Kontrollera att Synkronisera användare har lagts till i Marketo Config.
 
 ## Marketo-lösningen är korrekt installerad {#marketo-solution-is-properly-installed}
 

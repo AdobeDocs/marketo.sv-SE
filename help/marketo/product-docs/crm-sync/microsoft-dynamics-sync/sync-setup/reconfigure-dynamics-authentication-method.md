@@ -2,9 +2,9 @@
 description: Konfigurera om Dynamics-autentiseringsmetod - Marketo Docs - produktdokumentation
 title: Konfigurera om Dynamics-autentiseringsmetod
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
-source-git-commit: d86a8699838158631f210ea2f7acdfb88061b649
+source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -64,8 +64,10 @@ Följ stegen nedan för att uppdatera din Dynamics-autentiseringsmetod.
 
 1. Klicka **Bekräfta** igen.
 
+   ![](assets/reconfigure-dynamics-authentication-method-8.png)
+
 1. Klicka **OK**.
 
    >[!IMPORTANT]
    >
-   >Kom ihåg att återaktivera synkroniseringen!
+   >Det tar 15 minuter att godkänna det nya autentiseringsläget. Vänta 15 minuter från switchtiden innan du aktiverar synkroniseringen igen.

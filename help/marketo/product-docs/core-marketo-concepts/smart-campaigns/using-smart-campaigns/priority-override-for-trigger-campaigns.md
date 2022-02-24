@@ -3,7 +3,7 @@ description: Åsidosättning av prioritet för utlösarkampanjer - Marketo Docs 
 title: Åsidosättning av prioritet för utlösarkampanjer
 hide: true
 hidefromtoc: true
-source-git-commit: f2b6e0ae4759ed279d4c02ae922e9deba838b1ff
+source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Administratörer kan åsidosätta Marketo fastställda prioritet för utlösarka
 
 ## Åsidosätt åtkomst med Bevilja prioritet {#grant-priority-override-access}
 
->[!CAUTION]
+>[!NOTE]
 >
 >Endast administratörer eller användare med administratörsansvar bör ha åtkomst till åsidosättande av kampanjprioritet.
 
