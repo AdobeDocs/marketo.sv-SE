@@ -2,7 +2,7 @@
 description: Konfigurera om Dynamics-autentiseringsmetod - Marketo Docs - produktdokumentation
 title: Konfigurera om Dynamics-autentiseringsmetod
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
-source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
+source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -16,6 +16,7 @@ Följ stegen nedan för att uppdatera din Dynamics-autentiseringsmetod.
 >[!PREREQUISITES]
 >
 >Konfigurera programmet i Microsoft Dynamics och den aktiva katalogen (Azure AD/ADFS) med önskad autentiseringsmetod från någon av följande artiklar:
+>
 >* [Steg 2 av 3: Konfigurera Marketo Solution med Server to Server Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
 >* [Steg 2 av 4: Konfigurera Marketo Solution med Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
 

@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: f2b6e0ae4759ed279d4c02ae922e9deba838b1ff
+source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
 workflow-type: tm+mt
-source-wordcount: '8293'
+source-wordcount: '8320'
 ht-degree: 0%
 
 ---
@@ -1401,6 +1401,13 @@ ht-degree: 0%
       + [Sales Insight for Non-Native Salesforce Integrations](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
    + Marketo Sky {#marketo-sky}
       + [Aktivera roller för Marketo Sky](product-docs/marketo-sky/enabling-roles-for-marketo-sky.md)
+      + [Förväntat beteende](product-docs/marketo-sky/expected-behavior.md)
+      + [Komma igång med prediktiva målgrupper](product-docs/marketo-sky/getting-started-with-predictive-audiences.md)
+      + [Modellens hälsa och datavalidering](product-docs/marketo-sky/model-health-and-data-validity.md)
+      + [Prediktiva filter](product-docs/marketo-sky/predictive-filters.md)
+      + [Ställa in en händelsekarta](product-docs/marketo-sky/setting-an-event-cap.md)
+      + [Ange händelsemål](product-docs/marketo-sky/setting-event-goals.md)
+      + [Förstå målspårning och projekterade registreringar](product-docs/marketo-sky/understanding-goal-tracking-and-projected-registrations.md)
    + Mobilmarknadsföring {#mobile-marketing}
       + Administratör {#admin}
          + [Lägg till en mobilapp](product-docs/mobile-marketing/admin/add-a-mobile-app.md)
