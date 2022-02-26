@@ -3,9 +3,9 @@ description: Förfallotid för lokala tillgångar - Marketo Docs - produktdokume
 title: Förfallotid för lokal resurs
 hide: true
 hidefromtoc: true
-source-git-commit: 4a931057a2732a645b267d82a4bacf2a85bff13a
+source-git-commit: 8baa8bc8ed897314945964deed5f867866a79f8c
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,9 @@ Innan du kan schemalägga förfallodatum för en mediefil måste din Marketo-rol
 
    ![](assets/local-asset-expiration-2.png)
 
-1. Under [!UICONTROL Access Marketing Activities], markera **[!UICONTROL Schedule Asset Expiration]**. Klicka **[!UICONTROL Save]**.
+1. Under [!UICONTROL Access Marketing Activities], markera **[!UICONTROL Schedule Local Asset Expiration]** och klicka **[!UICONTROL Save]**.
 
-PICC
+   ![](assets/local-asset-expiration-3.png)
 
 ## Ange ett förfallodatum {#set-an-expiration-date}
 
@@ -56,6 +56,7 @@ PICC
 >
 >* Om du vill redigera ett befintligt förfallodatum kontrollerar du bara tillgångarna och klickar på **[!UICONTROL Set Expiration]**.
 >* När en resurs har gått ut visas den inte längre i rutnätet Förfallodatum. Rutnätet visar bara publicerade landningssidor, aktiva utlösarkampanjer och återkommande batchkampanjer.
+>* Schemalagda förfallodatum tas bort om resursen flyttas till ett annat program.
 
 
 ## Ta bort ett förfallodatum {#remove-an-expiration-date}

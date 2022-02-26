@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Importera ett program - Marketo Docs - produktdokumentation
 title: Importera ett program
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: cb14f5c16164eb2167a13d493cd48ed0fec263a9
+source-git-commit: 8baa8bc8ed897314945964deed5f867866a79f8c
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '896'
 ht-degree: 0%
 
 ---
@@ -87,6 +87,8 @@ Program använder externa resurser som e-postmallar, mallar för landningssidor,
 
 **Mallar för e-post/landningssida:** Mallar för e-post/landningssida importeras till Design Studio. Du kan använda konfliktregler för att konfigurera beteendet när det finns en mall med samma namn. Med standardregeln läggs ett nummer till i en mall om det finns en mall med samma namn. Om du t.ex. redan har en mall med namnet &quot;Standardmall&quot; får den nya mallen namnet &quot;Standardmall 1&quot;.
 
+**Landningssidor/Forms:** Om det finns ett formulär eller en landningssida med samma namn i Design Studio importeras de fortfarande, men med en siffra efter namn (t.ex.: Landningssida 1).
+
 **Bilder:** Bilder som används av landningssidor importeras till designstudion om det inte finns någon bild med samma namn.
 
 **Tokens:** Token som finns utanför ett program konverteras till lokala tokens under importprocessen.
@@ -96,8 +98,6 @@ Program använder externa resurser som e-postmallar, mallar för landningssidor,
 >Bildtypen mina tokens stöds inte för programimporter. Om ett program som har bildtypen mina tokens importeras, **no** Token kommer fram.
 
 **Programtaggar:** Du kan använda konfliktregler för att styra hur programtaggar som inte finns i destinationskontot behandlas. Om du använder standardregeln skapas programtaggarna, eller så kan du välja att ignorera taggarna.
-
-**Forms:** Externa formulär importeras automatiskt till designstudion, såvida det inte finns något med samma namn.
 
 >[!CAUTION]
 >
