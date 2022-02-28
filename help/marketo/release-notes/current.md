@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 9136ef46cd3b3293bef605dec997f23b46fa4326
+source-git-commit: c3b03dd3662ccd470bdf6480df8e5b3a88d1ae3b
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '784'
 ht-degree: 0%
 
 ---
@@ -64,6 +64,12 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 ![(stjärna)](assets/yellow-star.png)
 
 * **BI-mallar**: Bizible kommer nu att innehålla nedladdningsbara, grundläggande rapporteringsartefakter och exempelrapporter för Tableau och Power BI för snabb utveckling av anpassade rapporter som är anpassade för just era affärsbehov.
+
+## Sales Connect {#sales-connect}
+
+![(stjärna)](assets/yellow-star.png)
+
+* **Begränsning av e-postanslutning (GA)**: Begränsning av e-postanslutning gör att Sales Connect-administratörer kan konfigurera sändningsfrekvensen för e-postmeddelanden när Gmail eller Exchange används som leveranskanal, så att den hastighet med vilken e-postmeddelanden skickas till leveranskanalleverantören inte överskrider de tvingande gränserna.
 
 ## Meddelanden {#announcements}
 
