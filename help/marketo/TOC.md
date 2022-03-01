@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+source-git-commit: 9cbf22e3cecd707641a87482b95eb3d43d3a8f78
 workflow-type: tm+mt
-source-wordcount: '8320'
+source-wordcount: '8334'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 0%
       + [Anpassa ett e-postmeddelande](getting-started/quick-wins/personalize-an-email.md)
       + [Meddela säljaren](getting-started/quick-wins/alert-the-sales-rep.md)
       + [Uppdatera persondata](getting-started/quick-wins/update-person-data.md)
-      + [Omdirigera en landningssida](getting-started/quick-wins/redirect-a-landing-page.md)
+      + [Redirect a Landing Page](getting-started/quick-wins/redirect-a-landing-page.md)
       + [Automatisera en avisering om möjliga dubbletter av personer](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
    + Ärva en Marketo-instans {#inheriting-a-marketo-instance}
       + [Hjälp mig! Jag har ärvt en befintlig Marketo-instans](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
@@ -696,9 +696,9 @@ ht-degree: 0%
             + [Lägg till en mobilvy för din startsida med kostnadsfria formulär](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
             + [Lägga till ett nytt formulär på en startsida med valfri form](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
             + [Lägga till en social knapp på en startsida i friform](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)
-            + [Lägga till en video på en startsida i frihandsformat](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)
+            + [Add a Video to a Free-form Landing Page](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)
             + [Lägga till en bild på en landningssida med valfri form](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
-            + [Lägga till en rektangel på en landningssida med valfri form](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-a-rectangle-to-a-free-form-landing-page.md)
+            + [Adding a Rectangle to a Free-Form Landing Page](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-a-rectangle-to-a-free-form-landing-page.md)
             + [Lägga till anpassad HTML på en landningssida med valfri form](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-custom-html-to-a-free-form-landing-page.md)
             + [Skapa en landningssida med valfri form](product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
             + [Anpassa mobilvyn för din startsida med kostnadsfria formulär](product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
@@ -1295,6 +1295,10 @@ ht-degree: 0%
          + Folk {#people}
             + [Persondetaljvy](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Försäljningsåtgärder och GDPR-efterlevnad](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
+               + Hantera kontakter {#managing-contacts}
+                  + [Massåtgärder för personer](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
+                  + [Skapa och ta bort kontakter](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
+                  + [Importera kontakter via CSV](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
          + Salesforce-konfiguration {#salesforce-configuration}
             + [Konfigurering av MSI-åtgärder i Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
             + [Avinstallera Salesforce Classic Customization Package](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
@@ -1790,7 +1794,7 @@ ht-degree: 0%
       + 2017 {#2017}
          + [Versionsinformation: Förbättringar av ABM i april 17](release-notes/previous-releases/2017/release-notes-april-17-abm-enhancements.md)
          + [Versionsinformation: Förbättringar av ABM 17 augusti](release-notes/previous-releases/2017/release-notes-august-17-abm-enhancements.md)
-         + [Versionsinformation: Hösten 17](release-notes/previous-releases/2017/release-notes-fall-17.md)
+         + [Release Notes: Fall &#39;17](release-notes/previous-releases/2017/release-notes-fall-17.md)
          + [Versionsinformation: Våren 17](release-notes/previous-releases/2017/release-notes-spring-17.md)
          + [Versionsinformation: Sommaren 17](release-notes/previous-releases/2017/release-notes-summer-17.md)
          + [Versionsinformation: Vintern &#39;17](release-notes/previous-releases/2017/release-notes-winter-17.md)
