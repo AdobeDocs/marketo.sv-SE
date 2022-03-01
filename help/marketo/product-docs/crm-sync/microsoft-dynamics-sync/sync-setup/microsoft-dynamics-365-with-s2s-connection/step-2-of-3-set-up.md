@@ -3,9 +3,9 @@ unique-page-id: 3571827
 description: Steg 2 av 3 - Konfigurera Marketo Solution med Server to Server Connection - Marketo Docs - Produktdokumentation
 title: Steg 2 av 3 - Konfigurera Marketo Solution med Server to Server Connection
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: b4fafa28d9a38504a29c25700496d8376c4fe47b
+source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '643'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,9 @@ ht-degree: 0%
 
    >[!IMPORTANT]
    >
-   >När du ger behörighet till programanvändaren måste du tilldela den till&quot;Marketo Sync User Role&quot;.
+   >* När du ger behörighet till programanvändaren måste du tilldela den till&quot;Marketo Sync User Role&quot;.
+   >* Anteckna programmets användares e-postadress från [visningsalternativ](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) på Power Platform. Den här e-postadressen används som användarnamn när du konfigurerar anslutningen till MS Dynamics i Marketo.
+
 
 ## Azure AD Federated med AD FS On-prem {#azure-ad-federated-with-ad-fs-on-prem}
 

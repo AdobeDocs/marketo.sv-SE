@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: Steg 3 av 3 - Ansluta Marketo-lösningen med Server to Server Connection - Marketo Docs - Produktdokumentation
 title: Steg 3 av 3 - Ansluta Marketo Solution med Server to Server Connection
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
+source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '451'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,7 @@ Detta är det sista steget i synkroniseringen. Vi är nästan framme!
 
    >[!NOTE]
    >
-   >Användarnamnet i Marketo måste matcha användarnamnet för synkroniseringsanvändaren i CRM. Formatet kan vara `user@domain.com` eller DOMÄN\användare.
+   >Användarnamnet i Marketo måste matcha [e-postadress](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) för programanvändaren i CRM. Formatet kan vara `user@domain.com` eller DOMÄN\användare.
 
 ## Markera fält som ska synkroniseras {#select-fields-to-sync}
 

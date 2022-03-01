@@ -3,9 +3,9 @@ unique-page-id: 10095429
 description: Åtgärda problem med synkronisering av Dynamics-validering - Marketo Docs - produktdokumentation
 title: Åtgärda problem med synkronisering av Dynamics-validering
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
-source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
+source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Om du har en ![x](assets/delete.png) här kontrollerar du att URL-adressen är g
 
 ## Användarnamn och lösenord är giltiga {#username-and-password-are-valid}
 
-Om du har en ![x](assets/delete.png) här kontrollerar du att ditt användarnamn och lösenord för Microsoft Dynamics är giltiga.
+Om du har en ![x](assets/delete.png) här kontrollerar du att dina Microsoft Dynamics-autentiseringsuppgifter är giltiga. För webb-API S2S-autentisering måste användarnamnet i Marketo matcha [e-postadress](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) för programanvändaren i CRM. För andra typer bör det matcha användarnamnet för Synkronisera användare.
 
 ## Synkroniseringsanvändaren har tilldelats användarrollen Marketo Sync {#sync-user-is-assigned-to-the-marketo-sync-user-role}
 
