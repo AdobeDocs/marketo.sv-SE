@@ -2,7 +2,7 @@
 description: Översikt - Marketo Docs - produktdokumentation
 title: Översikt
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
+source-git-commit: a360b46ab1cd7149f609d139590124dcfcda8dad
 workflow-type: tm+mt
 source-wordcount: '957'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Befintliga Marketo-prenumerationer kommer att migreras till Adobe Identity Manag
 >
 >Marketo Support kommer inte att kunna tillhandahålla några uppdateringar om migrering av Adobe IMS. Din Customer Success Manager kommer att nå ut med den beräknade tidslinjen de närmaste månaderna.
 
-## Profilnivåer
+## Profilnivåer {#profile-levels}
 
 Prenumerationer på Adobe Marketo Engage som är kopplade till Adobe Identity Management System har stöd för olika profiler. Följande typer av användarprofiler är relevanta för den här integreringen.
 
@@ -42,7 +42,7 @@ Prenumerationer på Adobe Marketo Engage som är kopplade till Adobe Identity Ma
  </tr>
 </table>
 
-## Vanliga frågor
+## Vanliga frågor {#faq}
 
 **Vad är Adobe Identity?**
 
