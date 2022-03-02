@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: Konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited - Marketo Docs - produktdokumentation
 title: Konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: 84ac037a041398bdb1a056c3ab2fcf0d516f0097
+source-git-commit: 6ef1ff6f417cc3118e0c573896e1d232a5b97e70
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '877'
 ht-degree: 0%
 
 ---
@@ -16,8 +16,7 @@ Här är de steg du måste utföra för att konfigurera Marketo Sales Insight i 
 
 >[!PREREQUISITES]
 >
->* [Installera Marketo Sales Insight-paket i Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
-
+>[Installera Marketo Sales Insight-paket i Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
 >[!NOTE]
 >
@@ -119,34 +118,52 @@ Här är de steg du måste utföra för att konfigurera Marketo Sales Insight i 
    >
    >Vi rekommenderar en höjd på 410 pixlar för objekten Konton och Affärsmöjligheter.
 
-1. Klicka på **Fält** till vänster. Sök och dra sedan **Engagemang** etiketten i **Marketo Sales Insight** layout.
+1. Klicka på **Fält** till vänster. Sök och dra sedan **Akut** etiketten i **Marketo Sales Insight** layout.
 
-   ![](assets/image2015-5-22-16-3a32-3a46.png)
+   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-18.png)
 
 1. Upprepa även ovanstående steg för dessa fält.
 
    <table> 
     <tbody> 
      <tr> 
-      <td colspan="1">Engagemang</td> 
+      <td>Senaste intressanta stund</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Relativt poängvärde</p></td> 
+      <td>Senaste intressanta datum</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Värde för nödsituationer</p></td> 
+      <td>Senaste intressanta tillfälle</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Senaste intressanta datum</p></td> 
+      <td>Källa för senaste intressanta stund</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Senaste intressanta tillfälle</p></td> 
+      <td>Typ av senaste intressanta stund</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Källa för senaste intressanta stund</p></td> 
+      <td>Senaste Marketo-aktivitet per försäljning</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Typ av senaste intressanta stund</p></td> 
+      <td>Senaste Marketo-engagemang från försäljning</td> 
+     </tr> 
+     <tr> 
+      <td>Kontakt-ID för MSI</td> 
+     </tr> 
+     <tr> 
+      <td>Relativa poäng</td> 
+     </tr> 
+     <tr> 
+      <td>Relativt poängvärde</td> 
+     </tr> 
+     <tr> 
+      <td>Akut</td> 
+     </tr> 
+     <tr> 
+      <td>Värde för nödsituationer</td> 
+     </tr> 
+     <tr> 
+      <td>Visa i Marketo</td> 
      </tr> 
     </tbody> 
    </table>
@@ -155,9 +172,53 @@ Här är de steg du måste utföra för att konfigurera Marketo Sales Insight i 
 
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
-1. Upprepa den här processen för att lägga till Visualforce-sidavsnitt och Sales Insight-fält för **Kontakt**, **Konto** och **Möjligheter**.
+1. Upprepa steg 5-7 för att lägga till Visualforce-sidavsnitt och Sales Insight-fält för **Kontakt**, **Konto** och **Möjligheter**.
 
-1. Upprepa steg 5-7 för att lägga till Visualforce-sidavsnitt för kontakt, konto och säljprojekt. Upprepa sedan steg 8-10 för att lägga till Sales Insight-fält för **Kontakt**. Glöm inte att spara efter ändringarna.
+1. Upprepa steg 8-10 för att lägga till fält för Sales Insight från listan nedan för **Kontakt**. Var noga med att spara ändringarna.
+
+<table> 
+    <tbody> 
+     <tr> 
+      <td>Senaste intressanta stund</td> 
+     </tr> 
+     <tr> 
+      <td>Senaste intressanta datum</td> 
+     </tr> 
+     <tr> 
+      <td>Senaste intressanta tillfälle</td> 
+     </tr> 
+     <tr> 
+      <td>Källa för senaste intressanta stund</td> 
+     </tr> 
+     <tr> 
+      <td>Typ av senaste intressanta stund</td> 
+     </tr> 
+     <tr> 
+      <td>Senaste Marketo-aktivitet per försäljning</td> 
+     </tr> 
+     <tr> 
+      <td>Senaste Marketo-engagemang från försäljning</td> 
+     </tr> 
+     <tr> 
+      <td>MKTO Lead Score</td> 
+     </tr> 
+     <tr> 
+      <td>Relativa poäng</td> 
+     </tr> 
+     <tr> 
+      <td>Relativt poängvärde</td> 
+     </tr> 
+     <tr> 
+      <td>Sales Insight - Öppnar hela kontaktlistsidan</td> 
+     </tr> 
+     <tr> 
+      <td>Akut</td> 
+     </tr> 
+     <tr> 
+      <td>Värde för nödsituationer</td> 
+     </tr> 
+    </tbody> 
+   </table>
 
 ## Mappa anpassade personfält {#map-custom-person-fields}
 
