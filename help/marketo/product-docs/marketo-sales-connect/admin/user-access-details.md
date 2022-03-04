@@ -1,15 +1,14 @@
 ---
 unique-page-id: 14352623
-description: Information om användaråtkomst - Marketo Docs - Produktdokumentation
+description: Information om användaråtkomst - Marketo Docs - produktdokumentation
 title: Information om användaråtkomst
-translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+exl-id: 6a61176c-acbd-4684-983f-1c5af0ca6187
+source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
 
 ---
-
 
 # Information om användaråtkomst {#user-access-details}
 
@@ -17,7 +16,7 @@ Vad har administratörer och icke-administratörer tillgång till?
 
 ## Administratörsanvändarbehörigheter {#admin-user-permissions}
 
-Administratörer kan [visa alla mallar](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md).
+Administratörer kan [visa alla mallar](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md).
 
 ![](assets/templates.jpg)
 

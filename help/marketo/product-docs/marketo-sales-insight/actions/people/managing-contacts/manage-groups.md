@@ -3,9 +3,9 @@ description: Hantera grupper - Marketo Docs - produktdokumentation
 title: Hantera grupper
 hide: true
 hidefromtoc: true
-source-git-commit: 6ef1ff6f417cc3118e0c573896e1d232a5b97e70
+source-git-commit: 47b0f31b410f0bf4b41740aa6440c2a0484ab835
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '362'
 ht-degree: 0%
 
 ---
@@ -14,15 +14,46 @@ ht-degree: 0%
 
 Lär dig hur du hanterar dina grupper i Sales Insight Actions.
 
+## Grupptyper {#group-types}
+
+<table> 
+ <colgroup> 
+  <col> 
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th>Grupp</th> 
+   <th>Beskrivning</th> 
+  </tr> 
+  <tr> 
+   <td>Alla personer</td> 
+   <td>Alla kontakter från alla användare som är synliga för dig.</td> 
+  </tr> 
+  <tr> 
+   <td>Dynamiska grupper</td> 
+   <td>Mina kontakter: Alla kontakter du äger.<br>Avbeställ: Kontakter som har avanmält sig från att ta emot korrespondens.</td> 
+  </tr> 
+  <tr> 
+   <td>Mina grupper</td> 
+   <td>Grupper som du har skapat. De kan innehålla dina kontakter eller kontakter som har delats med dig.</td> 
+  </tr> 
+  <tr> 
+   <td>Teamgrupper</td> 
+   <td>Grupper som har delats med och/eller av dig. De kan innehålla kontakter som dina teamkamrater äger eller kontakter som du har delat med dem.</td> 
+  </tr> 
+ </tbody> 
+</table>
+
 ## Skapa en grupp {#create-a-group}
 
 1. Klicka på **+** bredvid Grupper.
 
-   ![](assets/one-4.png)
+   ![](assets/manage-groups-1.png)
 
 1. Namnge gruppen och klicka **Skapa**.
 
-   ![](assets/two-3.png)
+   ![](assets/manage-groups-2.png)
 
    Så ja!
 
@@ -30,11 +61,11 @@ Lär dig hur du hanterar dina grupper i Sales Insight Actions.
 
 1. På sidan Personer söker du efter och väljer den grupp som du vill lägga till personer i.
 
-   ![](assets/three-3.png)
+   ![](assets/manage-groups-3.png)
 
 1. Klicka **Gruppåtgärder** och markera **Skapa kontakt och lägg till i grupp**.
 
-   ![](assets/four-3.png)
+   ![](assets/manage-groups-4.png)
 
    >[!NOTE]
    >
@@ -42,7 +73,7 @@ Lär dig hur du hanterar dina grupper i Sales Insight Actions.
 
 1. Fyll i kontaktinformationen och klicka **Skapa** (eller **Skapa och lägg till ny** för att lägga till en till).
 
-   ![](assets/five-3.png)
+   ![](assets/manage-groups-5.png)
 
    Och du är klar!
 
@@ -54,15 +85,15 @@ Lär dig hur du hanterar dina grupper i Sales Insight Actions.
 
 1. På sidan Personer letar du reda på och markerar gruppen som du vill dela.
 
-   ![](assets/six.png)
+   ![](assets/manage-groups-6.png)
 
 1. Klicka på punkten (tre lodräta punkter) och välj **Dela**.
 
-   ![](assets/seven.png)
+   ![](assets/manage-groups-7.png)
 
 1. Klicka på listrutan, välj det team som du vill dela gruppen med och klicka på **Dela**.
 
-   ![](assets/eight.png)
+   ![](assets/manage-groups-8.png)
 
    Du äger fortfarande gruppen, men den visas nu under _Teamgrupper_.
 
@@ -70,15 +101,15 @@ Lär dig hur du hanterar dina grupper i Sales Insight Actions.
 
 1. På sidan Personer letar du reda på och markerar gruppen som du vill ta bort delningen för.
 
-   ![](assets/ten.png)
+   ![](assets/manage-groups-9.png)
 
 1. Klicka på punkten (tre lodräta punkter) och välj **Dela**.
 
-   ![](assets/eleven.png)
+   ![](assets/manage-groups-10.png)
 
 1. Klicka på **X** intill teamet som du delade gruppen med och klicka sedan ut ur modalen.
 
-   ![](assets/twelve.png)
+   ![](assets/manage-groups-11.png)
 
    Gruppen delas inte.
 
@@ -86,26 +117,26 @@ Lär dig hur du hanterar dina grupper i Sales Insight Actions.
 
 1. På sidan Personer letar du reda på och markerar gruppen som du vill byta namn på.
 
-   ![](assets/six.png)
+   ![](assets/manage-groups-12.png)
 
-1. Klicka på punkten (tre lodräta punkter) och välj **Byt namn**.
+1. Klicka på punkten (tre lodräta punkter) och välj **Redigera**.
 
-   ![](assets/thirteen.png)
+   ![](assets/manage-groups-13.png)
 
-1. Skriv det nya namnet och tryck på Retur.
+1. Skriv det nya namnet och klicka på **Spara**.
 
-   ![](assets/fourteen.png)
+   ![](assets/manage-groups-14.png)
 
 ## Ta bort en grupp {#delete-a-group}
 
 1. På sidan Personer söker du efter och markerar gruppen som du vill ta bort.
 
-   ![](assets/fifteen.png)
+   ![](assets/manage-groups-15.png)
 
 1. Klicka på punkten (tre lodräta punkter) och välj **Ta bort**.
 
-   ![](assets/sixteen.png)
+   ![](assets/manage-groups-16.png)
 
 1. Klicka **Ta bort** för att bekräfta.
 
-   ![](assets/seventeen.png)
+   ![](assets/manage-groups-17.png)

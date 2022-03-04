@@ -3,15 +3,14 @@ unique-page-id: 30081815
 description: Konfigurera Adobe Experience Manager-integrering - Marketo Docs - produktdokumentation
 title: Konfigurera Adobe Experience Manager Integration
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 47b0f31b410f0bf4b41740aa6440c2a0484ab835
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
-# Konfigurerar Adobe Experience Manager-integrering {#configuring-adobe-experience-manager-integration}
+# Konfigurera Adobe Experience Manager Integration {#configuring-adobe-experience-manager-integration}
 
 Konfigurera AEM så att du kan komma åt, välja och importera AEM till Marketo Design Studio.
 
@@ -21,7 +20,7 @@ Konfigurera AEM så att du kan komma åt, välja och importera AEM till Marketo 
 
 >[!CAUTION]
 >
->För närvarande stöds den här funktionen endast fullt ut i Firefox. Det stöds inte i Safari och kanske inte fungerar i den senaste versionen av Chrome (version 80), beroende på inställningarna för cookie-filen för samma plats.
+>För närvarande stöds den här funktionen endast fullt ut i Firefox. Det stöds inte i Safari och kanske inte fungerar i den senaste versionen av Chrome, beroende på inställningarna för cookie-filen för samma plats.
 
 1. Gå till Adobe Experience Manager (URL:en är specifik för ditt företag).
 
@@ -31,7 +30,7 @@ Konfigurera AEM så att du kan komma åt, välja och importera AEM till Marketo 
 
    ![](assets/two.png)
 
-1. I **Verktyg** klickar du på **Åtgärder** och väljer **Webbkonsol**.
+1. I **verktyg**, klicka **Operationer** och markera **Webbkonsol**.
 
    ![](assets/2a.png)
 
@@ -39,27 +38,27 @@ Konfigurera AEM så att du kan komma åt, välja och importera AEM till Marketo 
 
    ![](assets/three.png)
 
-1. Klicka på **+**-tecknet till höger.
+1. Klicka på **+** till höger.
 
    ![](assets/four.png)
 
-1. I textrutan **Tillåtna original (Regexp)** skriver du `https://.*\.marketo\.com` och klickar på **Spara**.
+1. I **Tillåtna original (Regexp)** textruta, skriva in `https://.*\.marketo\.com` och klicka **Spara**.
 
    ![](assets/five-psd.png)
 
-1. Klicka på **Webbkonsol** i sidhuvudet överst på sidan och välj **Systeminformation**.
+1. Klicka på i sidhuvudet högst upp på sidan **Webbkonsol** och markera **Systeminformation**.
 
    ![](assets/six.png)
 
-1. Klicka på knappen **Starta om** under Serverinformation.
+1. Klicka på **Starta om** -knappen.
 
    ![](assets/seven.png)
 
-1. Bekräfta genom att klicka på **OK**.
+1. Klicka **OK** för att bekräfta.
 
    ![](assets/eight.png)
 
-1. Klicka på **Admin** i Marketo Classic.
+1. I Marketo Classic klickar du på **Administratör**.
 
    ![](assets/nine.png)
 
@@ -67,12 +66,12 @@ Konfigurera AEM så att du kan komma åt, välja och importera AEM till Marketo 
 
    ![](assets/ten.png)
 
-1. Klicka på **Redigera**.
+1. Klicka **Redigera**.
 
    ![](assets/eleven.png)
 
-1. Ange din AEM-URL och klicka på **OK**.
+1. Ange AEM URL och klicka på **OK**.
 
    ![](assets/twelve.png)
 
-   Du är redo! Du kan nu [importera AEM till Design Studio i Marketo Skyn](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/importing-assets-with-adobe-experience-manager.html?lang=en#design-studio).
+   Du är redo! Nu kan du [importera AEM till Design Studio i Marketo Sky](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/importing-assets-with-adobe-experience-manager.html?lang=en#design-studio).

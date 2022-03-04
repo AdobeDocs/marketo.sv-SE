@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 9a4dcb4a307928887000ce199b061d3e01192719
+source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
 workflow-type: tm+mt
-source-wordcount: '8334'
+source-wordcount: '8382'
 ht-degree: 0%
 
 ---
@@ -1229,7 +1229,7 @@ ht-degree: 0%
          + [Delade mallar](product-docs/marketo-sales-connect/templates/shared-templates.md)
          + [Mallengagemang](product-docs/marketo-sales-connect/templates/template-engagement.md)
          + [Använda HTML](product-docs/marketo-sales-connect/templates/using-html.md)
-         + [Visa malllista som en annan användare](product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md)
+         + [Visa malllista som en annan användare](product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)
          + Dynamiska fält {#dynamic-fields}
             + [Skapa anpassade dynamiska fält](product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md)
             + [Ordlista för dynamiska fält](product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md)
@@ -1260,6 +1260,8 @@ ht-degree: 0%
             + [Inställningar för inloggningshantering](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
             + [Delningsinställningar](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [Information om användaråtkomst](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
+         + Analyser {#analytics}
+            + [Mallengagemang](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
          + Kampanjer {#campaigns}
             + [Kampanjen har avslutats](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
          + CRM {#crm}
@@ -1290,6 +1292,11 @@ ht-degree: 0%
                + [Disponera massutskick med Markera och skicka](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [Skicka e-post via gruppe-post](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [Använda en mall i dispositionsfönstret](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+         + Vanliga frågor {#faq}
+            + [Kan jag spåra flera mottagare med CC/BCC?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
+            + [Hur förhindrar jag självvisningar?](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
+            + [Hur fungerar platsspårning?](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
+            + [Hur hanterar Sales Insight-åtgärder borttagning av dubbletter via e-post?](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
          + Marketo {#marketo}
             + [Ge Marketo åtkomst till användare](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + Folk {#people}
@@ -1299,6 +1306,8 @@ ht-degree: 0%
                + [Massåtgärder för personer](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
                + [Skapa och ta bort kontakter](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
                + [Importera kontakter via CSV](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
+               + [Hantera grupper](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
+               + [Sidkolumner för personer](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + Salesforce-konfiguration {#salesforce-configuration}
             + [Konfigurering av MSI-åtgärder i Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
             + [Avinstallera Salesforce Classic Customization Package](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
@@ -1308,8 +1317,12 @@ ht-degree: 0%
          + Uppgifter {#tasks}
             + [Synkronisering av påminnelseaktivitet med Salesforce](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + Mallar {#templates}
+            + [Lägg till hyperlänkad text](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
             + [Hantera mallar](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
             + [Hantera mallkategorier](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
+            + [Rekommenderade mallar](product-docs/marketo-sales-insight/actions/templates/recommended-templates.md)
+            + [Använda HTML](product-docs/marketo-sales-insight/actions/templates/using-html.md)
+            + [Visa malllista som en annan användare](product-docs/marketo-sales-insight/actions/templates/view-template-list-as-another-user.md)
       + Använda MSI {#using-msi}
          + [Logga inkommande e-post från dina leads i Marketo](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
       + MSI Chrome-plugin {#msi-chrome-plugin}
