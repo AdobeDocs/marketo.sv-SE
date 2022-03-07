@@ -2,9 +2,9 @@
 description: Steg 4 av 4 - Anslut Marketo-lösningen med Resource Owner Password Control Connection - Marketo Docs - produktdokumentation
 title: Steg 4 av 4 - Anslut Marketo-lösningen med Resursägarens lösenordskontrollanslutning
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
-source-git-commit: b4fafa28d9a38504a29c25700496d8376c4fe47b
+source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,9 @@ Detta är det sista steget i synkroniseringen. Du är nästan framme!
 >
 >**Administratörsbehörigheter krävs**
 
->[!IMPORTANT]
+>[!NOTE]
 >
->Om du uppgraderar från grundläggande autentisering till OAuth måste du kontakta [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support) om du vill ha hjälp med att uppdatera ytterligare parametrar. Om du aktiverar den här funktionen avbryts synkroniseringen tillfälligt tills nya autentiseringsuppgifter anges och synkroniseringen aktiveras igen. Funktionen kan inaktiveras (fram till april 2022) om du vill återgå till det gamla autentiseringsläget.
+>Om du uppgraderar från grundläggande autentisering till OAuth kan du använda [den här artikeln](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md) för att konfigurera om din autentisering.
 
 ## Ange användarinformation för Dynamics Sync {#enter-dynamics-sync-user-information}
 

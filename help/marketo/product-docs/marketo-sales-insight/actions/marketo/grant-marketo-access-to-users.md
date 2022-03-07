@@ -4,22 +4,22 @@ title: Ge Marketo åtkomst till användare
 hide: true
 hidefromtoc: true
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
 
 # Ge Marketo åtkomst till användare {#grant-marketo-access-to-users}
 
-Följ stegen i den här artikeln för att ge dina Marketo-säljare åtkomst till Marketo-anslutningen. Detta kommer att låsa upp funktioner som intressanta ögonblick i liveflödet och tillgång till marknadsföringskampanjer.
+Följ stegen i den här artikeln för att ge dina användare av Sales Insight Actions tillgång till Marketo-anslutningen. Detta kommer att låsa upp funktioner som intressanta ögonblick i liveflödet och tillgång till marknadsföringskampanjer.
 
-Du måste [Marketo Sales](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) innan de visas på sidan Marketo > Team Access (i Marketo Sales), där åtkomst till Marketo-anslutningen beviljas.
+Du måste bjuda in användare till [Försäljningsinsikter](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) innan de visas på sidan Marketo > Team Access (i Sales Insight Actions), där åtkomst till Marketo-anslutningen beviljas.
 
 >[!CAUTION]
 >
->Vänta tio minuter efter att du har anslutit Marketo Sales till Marketo innan du utför dessa steg.
+>Vänta tio minuter efter att du har anslutit Sales Insight Actions till Marketo innan du utför dessa steg.
 
 1. Klicka på kugghjulsikonen och välj **Inställningar**.
 

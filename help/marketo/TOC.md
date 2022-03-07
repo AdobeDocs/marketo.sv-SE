@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
+source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
 workflow-type: tm+mt
-source-wordcount: '8382'
+source-wordcount: '8394'
 ht-degree: 0%
 
 ---
@@ -1263,6 +1263,7 @@ ht-degree: 0%
          + Analyser {#analytics}
             + [Mallengagemang](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
          + Kampanjer {#campaigns}
+            + [Lägg till i marknadsföringskampanj](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
             + [Kampanjen har avslutats](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
          + CRM {#crm}
             + Salesforce-integrering {#salesforce-integration}
@@ -1299,6 +1300,7 @@ ht-degree: 0%
             + [Hur hanterar Sales Insight-åtgärder borttagning av dubbletter via e-post?](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
          + Marketo {#marketo}
             + [Ge Marketo åtkomst till användare](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
+            + [Gör en kampanj synlig för användare av Sales Connect](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + Folk {#people}
             + [Persondetaljvy](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Försäljningsåtgärder och GDPR-efterlevnad](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)

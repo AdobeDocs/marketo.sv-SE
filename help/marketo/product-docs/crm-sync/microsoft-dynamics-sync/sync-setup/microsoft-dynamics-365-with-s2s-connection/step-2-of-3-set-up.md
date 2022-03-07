@@ -3,9 +3,9 @@ unique-page-id: 3571827
 description: Steg 2 av 3 - Konfigurera Marketo Solution med Server to Server Connection - Marketo Docs - Produktdokumentation
 title: Steg 2 av 3 - Konfigurera Marketo Solution med Server to Server Connection
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
+source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
 workflow-type: tm+mt
-source-wordcount: '643'
+source-wordcount: '589'
 ht-degree: 0%
 
 ---
@@ -64,10 +64,6 @@ Ytterligare referenser [finns här](https://docs.microsoft.com/en-us/azure/activ
 
 Nästan klart! Allt vi har kvar är att informera Marketo Solution om den nya användaren som har skapats.
 
->[!IMPORTANT]
->
->Om du uppgraderar från grundläggande autentisering till OAuth måste du kontakta [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support) om du vill ha hjälp med att uppdatera ytterligare parametrar. Om du ändrar konfigurationen till standardsynkroniseringsanvändare avbryts synkroniseringen tillfälligt tills nya autentiseringsuppgifter anges och synkroniseringen aktiveras igen. På din begäran kan Marketo Support inaktivera funktionen (fram till april 2022) om du vill återgå till den gamla autentiseringsmetoden.
-
 1. Gå tillbaka till avsnittet Avancerade inställningar och klicka på ![](assets/image2015-5-13-15-3a49-3a19.png) -ikon bredvid Inställningar och välj **Marketo Config**.
 
    ![](assets/fourteen.png)
@@ -99,6 +95,10 @@ Nästan klart! Allt vi har kvar är att informera Marketo Solution om den nya an
 1. Klicka på **Publicera alla anpassningar** -knappen.
 
    ![](assets/nineteen.png)
+
+   >[!NOTE]
+   >
+   >Om du uppgraderar från grundläggande autentisering till OAuth kan du använda [den här artikeln](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md) för att konfigurera om din autentisering.
 
 ## Innan du fortsätter till steg 3 {#before-proceeding-to-step}
 
