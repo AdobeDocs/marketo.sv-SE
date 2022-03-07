@@ -3,9 +3,9 @@ description: Lägg till i marknadsföringskampanj - Marketo Docs - produktdokume
 title: Lägg till i marknadsföringskampanj
 hide: true
 hidefromtoc: true
-source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
+source-git-commit: 6b59150eaebcd4424d3e347cb2379b9111255e4f
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
@@ -24,82 +24,82 @@ ht-degree: 0%
 
 1. Klicka på **Folk** Tabb.
 
-   ![](assets/one-3.png)
+PICC
 
 1. Hitta de kontakter som du vill lägga till.
 
-   ![](assets/two-3.png)
+PICC
 
 1. Markera kontakten/kontakterna genom att klicka i kryssrutan.
 
-   ![](assets/three-3.png)
+PICC
 
 1. Klicka **Lägg till markerade i kampanj**.
 
-   ![](assets/four-3.png)
+PICC
 
 1. Eftersom du lägger till i en marknadsföringskampanj går du inte längre till en&quot;från&quot;-adress. Du kan dock välja att lägga till fler kontakter. Om du väljer att göra det klickar du på Individuella och skriver in dem. Klicka **Nästa** när det är klart.
 
-   ![](assets/five-2.png)
+PICC
 
 1. Klicka **Marknadsföringskampanj**.
 
-   ![](assets/six-1.png)
+PICC
 
 1. Klicka på listrutan Arbetsytor och välj den arbetsyta som innehåller kampanjen som du vill lägga till gruppen i.
 
-   ![](assets/seven-1.png)
+PICC
 
-   >[!NOTE]
-   >
-   >Om du inte ser den arbetsyta du vill använda kontrollerar du att din administratör har tillgång till den via din Marketo Team Access-sida.
+>[!NOTE]
+>
+>Om du inte ser den arbetsyta du vill använda kontrollerar du att din administratör har tillgång till den via din Marketo Team Access-sida.
 
 1. Välj önskad kampanj och klicka på **Nästa**.
 
-   ![](assets/eight.png)
+PICC
 
 1. Du visas de kontakter som är behöriga. Klicka **Starta** för att lägga till dem.
 
-   ![](assets/nine.png)
+PICC
 
 ## Lägg till en grupp i en kampanj {#add-a-group-to-a-campaign}
 
 1. Klicka på **Folk** Tabb.
 
-   ![](assets/one-3.png)
+PICC
 
 1. Under Mina grupper väljer du den grupp som du vill lägga till i en kampanj.
 
-   ![](assets/eleven.png)
+PICC
 
 1. Klicka **Lägg till grupp i kampanj**.
 
-   ![](assets/twelve.png)
+PICC
 
 1. Eftersom du lägger till i en marknadsföringskampanj går du inte längre till en&quot;från&quot;-adress. Du kan dock välja att lägga till fler kontakter. Om du väljer att göra det klickar du på Individuella och skriver in dem. Klicka **Nästa** när det är klart.
 
-   ![](assets/thirteen.png)
+PICC
 
 1. Välj **Marknadsföringskampanj**.
 
-   ![](assets/six-1.png)
+PICC
 
-   >[!NOTE]
-   >
-   >Om du vill lägga till en person i en Marketo Campaign från Sales Connect måste Sales Connect ha personens lead-ID för Marketo.
+>[!NOTE]
+>
+>Om du vill lägga till en person i en Marketo Campaign från Sales Connect måste Sales Connect ha personens lead-ID för Marketo.
 
 1. Klicka på listrutan Arbetsytor och välj den arbetsyta som innehåller kampanjen som du vill lägga till gruppen i.
 
-   ![](assets/seven-1.png)
+PICC
 
-   >[!NOTE]
-   >
-   >Om du inte ser den arbetsyta du vill använda kontrollerar du att din administratör har tillgång till den via din Marketo Team Access-sida.
+>[!NOTE]
+>
+>Om du inte ser den arbetsyta du vill använda kontrollerar du att din administratör har tillgång till den via din Marketo Team Access-sida.
 
 1. Välj önskad kampanj och klicka på **Nästa**.
 
-   ![](assets/eight.png)
+PICC
 
 1. Du visas de kontakter som är behöriga. Klicka **Starta** för att lägga till dem.
 
-   ![](assets/nine.png)
+PICC
