@@ -4,9 +4,9 @@ title: Vanliga frågor om synkronisering av funktionsmakron
 hide: true
 hidefromtoc: true
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 8ded6cac96f17c81a8d37cbe51c39ad565ac828e
+source-git-commit: 649bac859280bc4b83ce082684ad1e2d81dc3561
 workflow-type: tm+mt
-source-wordcount: '1044'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Synkroniseringen av datafältet för Sales Insight-åtgärder gör att systemet 
 
 Detta tillhandahåller aktuella persondata i webbappen Sales Insight Actions och gör det möjligt för systemet att samla in unika ID:n för motsvarande personposter i Marketo och lead-/kontakt-/konto-/affärsmöjlighetsposter i Salesforce, så att poster kan refereras till korrekt för loggningsdata.
 
-Synkroniseringen kan aktiveras på fliken Sales Insight Actions Config i administratörsavsnittet i Marketo Engage. Mer information finns på [Initiera datasynkronisering](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md#initiate-data-sync).
+Synkroniseringen kan aktiveras på fliken Sales Insight Actions Config i administratörsavsnittet i Marketo Engage. Mer information finns på [Initiera datasynkronisering](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-guide.md#initiate-data-sync).
 
 ![](assets/actions-data-sync-faq-1.png)
 
@@ -120,5 +120,5 @@ Diagrammet ovan visar vilken information som loggas till Salesforce. Aktiviteter
 >* [Avbeställ Marketo](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
 >* [Synkroniseringsinställningar för Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
 >* [Synkronisering av påminnelseaktivitet med Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
->* [Initiera datasynkronisering](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md#initiate-data-sync)
+>* [Initiera datasynkronisering](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-guide.md#initiate-data-sync)
 
