@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 625f4bb873f3d06a977020ca108fc8962574ceac
+source-git-commit: ba1357e6970ba4e3dc496d27272d067ac87c5e6d
 workflow-type: tm+mt
-source-wordcount: '8396'
+source-wordcount: '8397'
 ht-degree: 0%
 
 ---
@@ -1241,7 +1241,7 @@ ht-degree: 0%
          + [Funktionsöversikt för Sales Insight](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + Komma igång {#getting-started}
             + [Handbok om User Onboarding för Sales Insight Actions](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
-            + [Administratörshandbok för MSI-åtgärder](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md)
+            + [Administratörshandbok för MSI-åtgärder](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-guide.md)
             + [Ändra ditt Marketo-lösenord](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + E-postinställningar {#email-settings}
                + [Verifiera din e-postadress](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
@@ -1311,7 +1311,7 @@ ht-degree: 0%
                + [Hantera grupper](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + [Sidkolumner för personer](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + Salesforce-konfiguration {#salesforce-configuration}
-            + [Konfigurering av MSI-åtgärder i Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
+            + [Konfiguration av åtgärder för försäljningsinsikter i Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
             + [Avinstallera Salesforce Classic Customization Package](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
             + [Avinstallera Salesforce Lightning Customization Package](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
          + Skicka ett e-postmeddelande {#send-a-sales-email}
