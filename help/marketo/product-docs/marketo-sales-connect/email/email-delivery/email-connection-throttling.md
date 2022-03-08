@@ -1,24 +1,19 @@
 ---
-description: Begränsning av e-postanslutning - Marketo Docs - Produktdokumentation
+description: Begränsning av e-postanslutning - Marketo Docs - produktdokumentation
 title: Begränsning för e-postanslutning
-translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
+source-git-commit: 01748a560f41d5366862e75a3dd5349cf8b908bc
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---
 
-
 # Begränsning för e-postanslutning {#email-connection-throttling}
 
-Genom att integrera ditt Sales Connect-konto för att skicka via Exchange- eller Gmail-e-postleverantörer får du en smidig konfiguration och optimerar e-postleveransen för 1:1-säljkommunikation. Men för att skydda systemen och kontona tillämpar Gmail och Exchange e-postgränser. Dessa gränser kan ökas eller minskas efter leverantörens gottfinnande.
+Genom att integrera ditt Sales Connect-konto för att skicka via Exchange- eller Gmail-e-postleverantörer får du en smidig konfiguration och optimerar e-postleveransen för 1:1-säljkommunikation. Men för att skydda systemen och kontona tillämpar Gmail och Exchange e-postgränser. Dessa begränsningar är öppna för att ökas eller minskas efter leverantörens gottfinnande.
 
-## Begränsning för e-postanslutning (beta) {#email-connection-throttling-beta}
-
->[!AVAILABILITY]
->
->Den här funktionen är för närvarande i betaversion. Kontakta din Customer Success Manager om du vill gå med i betaversionen.
+## Begränsning av e-postanslutning (beta) {#email-connection-throttling-beta}
 
 Begränsning av e-postanslutning gör att Sales Connect-administratörer kan konfigurera sändningsfrekvensen för e-postmeddelanden när Gmail eller Exchange används som leveranskanal, så att den hastighet med vilken e-postmeddelanden skickas till leveranskanalleverantören inte överskrider de tvingande gränserna.
 
@@ -37,7 +32,7 @@ När gränserna genomgående överskrids kan detta ibland ses som misstänkt bet
 
    ![](assets/email-connection-throttling-1.png)
 
-1. Klicka på **Allmänt**.
+1. Klicka **Allmänt**.
 
    ![](assets/email-connection-throttling-2.png)
 
@@ -49,7 +44,7 @@ När gränserna genomgående överskrids kan detta ibland ses som misstänkt bet
 
    ![](assets/email-connection-throttling-4.png)
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/email-connection-throttling-5.png)
 
