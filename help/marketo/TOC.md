@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: d50176e43732a1ce827db46fa2d0fd630c129243
+source-git-commit: 625f4bb873f3d06a977020ca108fc8962574ceac
 workflow-type: tm+mt
-source-wordcount: '8395'
+source-wordcount: '8396'
 ht-degree: 0%
 
 ---
@@ -1240,7 +1240,7 @@ ht-degree: 0%
       + Åtgärder {#actions}
          + [Funktionsöversikt för Sales Insight](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + Komma igång {#getting-started}
-            + [MSI Actions User Onboarding Guide](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-user-onboarding-guide.md)
+            + [Handbok om User Onboarding för Sales Insight Actions](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
             + [Administratörshandbok för MSI-åtgärder](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md)
             + [Ändra ditt Marketo-lösenord](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + E-postinställningar {#email-settings}
