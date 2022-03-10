@@ -2,9 +2,9 @@
 description: Översikt - Marketo Docs - produktdokumentation
 title: Översikt
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: a360b46ab1cd7149f609d139590124dcfcda8dad
+source-git-commit: a21db1586166b7530bbbb18759752ef834cdc46a
 workflow-type: tm+mt
-source-wordcount: '957'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ Prenumerationer på Adobe Marketo Engage som är kopplade till Adobe Identity Ma
  <tr>
   <td><strong>Adobe Admin Console produktadministratör</strong></td>
   <td>Ansvarig för att ge användare rätt till Marketo Engage-produkten i Adobe Admin Console. Beviljad roll i Adobe Admin Console.</td>
+ </tr>
+ <tr>
+  <td><strong>Administratör för Adobe Admin Console produktprofil</strong></td>
+  <td>Administrerar beskrivningarna av produktprofiler som kopplats till den aktuella administratören och alla tillhörande administrativa funktioner.</td>
  </tr>
  <tr>
   <td><strong>Marketo Engage produktadministratör</strong></td>
