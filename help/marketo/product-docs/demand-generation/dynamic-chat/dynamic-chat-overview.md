@@ -1,76 +1,76 @@
 ---
-description: Dynamic Chat Overview - Marketo Docs - produktdokumentation
-title: Dynamisk chattöversikt
+description: Dynamic Chat Overview - Marketo Docs - Product Documentation
+title: Dynamic Chat Overview
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: 59b0946cde42a19d802c136ea25dd8c1fe4437cd
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '552'
 ht-degree: 0%
 
 ---
 
-# Dynamisk chattöversikt {#dynamic-chat-overview}
+# Dynamic Chat Overview {#dynamic-chat-overview}
 
-Med Dynamic Chat kan ni utnyttja ett lättanvänt gränssnitt för att nå ut till både personer och konton på er webbplats. Samla in relevant innehåll som namn, kontaktinformation och fritext. Besökarna kan även boka möten med säljteamet. Dynamic Chat-aktivitet och engagemangsdata kan användas för att lägga till medlemmar i Marketo-program och aktivera flerkanalsaktiviteter.
+Dynamic Chat allows you to leverage an easy-to-use interface to target both people and accounts visiting your website. Collect relevant content such as name, contact information, and free text. Site visitors can also book meetings with your Sales Team. Dynamic Chat activity and engagement data can be used to add members to Marketo programs and trigger cross-channel activities.
 
 >[!NOTE]
 >
->Dynamic Chat håller på att lanseras gradvis och har för närvarande begränsad tillgänglighet. Den här sidan uppdateras med allmän tillgänglighetsinformation (GA) allt eftersom de blir tillgängliga.
+>Dynamic Chat is in the process of being rolled out gradually and is currently in limited availability. This page will be updated with general availability (GA) details as they become available.
 
 >[!TIP]
 >
->Besök [den här sidan](https://dcweb.z20.web.core.windows.net/) för att visa självstudiekurser och en inspelad demo av Dynamic Chat.
+>[](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html)
 
-## Integreringar {#integrations}
+## Integrations {#integrations}
 
-En viktig komponent i Dynamic Chat är möjligheten att kunna interagera direkt med din Marketo-prenumeration. För att kunna utnyttja den här integreringens fulla kapacitet måste du först initiera datasynkroniseringen. Beroende på storleken på din Marketo-databas kan det ta upp till 24 timmar för data för den första, [engångssynkronisering](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md) för att slutföra.
+A key component of Dynamic Chat is its ability to natively interface with your Marketo subscription. In order to leverage the full capability of this integration, you’ll first need to initiate the data sync. [](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)
 
-Följande synkroniseras:
+The following is synced:
 
-* Personfältdata
-* Företagsfältdata
-* Aktivitetsdata
+* Person field data
+* Company field data
+* Activity data
 
-## Dialogrutor {#dialogues}
+## Dialogues {#dialogues}
 
-Dialoger representerar ett enda chattengagemang. Se det som en behållare med allt du behöver för att få en engagerande chattdialog till webbplatsens besökare. I varje dialogruta kan du ange vilka sidor du vill att dialogrutan ska visas på, till vilka du vill att den ska visas samt innehållet och flödet för själva dialogrutan. Dessutom kan du hitta mätvärden för att se hur bra din dialog fungerar. [Läs mer om dialogrutor](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md).
+Dialogues represent a single chat engagement. Think of it as a container with all the stuff you need to have an engaging chat dialogue to your website visitors. In each Dialogue, you can specify which page(s) you’d like the Dialogue to appear on, to whom you&#39;d like it to be shown to, and the content and flow of the Dialogue itself. Additionally, you can find metrics to see how well your Dialogue is performing. [](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md)
 
-## Konfiguration {#configuration}
+## Configuration {#configuration}
 
-Anpassa utseendet på dina olika dialogrutor på fliken Konfiguration. Ändra typsnitt, färger, svarstid med mera! [Läs mer om konfiguration](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md).
+In the Configuration tab, customize the look and feel of your various Dialogues. Change font, colors, response time, and more! [](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md)
 
-## Kalender {#calendar}
+## Calendar {#calendar}
 
-Anslut din (Outlook eller Gmail) kalender på fliken Kalender för användning vid schemaläggning av möten i chattbot. När en användares kalender är ansluten till Dynamiskt chatt läggs den användaren till i kön och hans/hennes kalender blir tillgänglig för webbplatsbesökare att schemalägga avtalade tider på.
+In the Calendar tab, connect your (Outlook or Gmail) calendar for use in appointment scheduling in the chatbot. Once a user’s calendar is connected to Dynamic Chat, that user will be added to the queue and their calendar will be available for website visitors to schedule appointments on.
 
-Du kan också anpassa innehållet i den inbjudan som skickas till besökaren när de schemalägger en avtalad tid i användarens kalender.
+You can also customize the body of the invite that&#39;s sent to the visitor when they schedule an appointment on the user’s calendar.
 
-## Möten {#meetings}
+## Meetings {#meetings}
 
-Här ser du alla avtalade tider som har schemalagts av webbplatsbesökare via olika dialogrutor. Här hittar du e-postadressen till personen som bokade den avtalade tiden, vilken agent de bokade den avtalade tiden med, när den avtalade tiden ska äga rum och om mötet har ägt rum eller inte.
+This is where you&#39;ll see all of the appointments that have been scheduled by website visitors through your various Dialogues. Here you’ll find the email address of the person that booked the appointment, which agent they booked the appointment with, when the appointment is scheduled to occur, and whether the meeting has happened or not.
 
-## Routning {#routing}
+## Routing {#routing}
 
-Här kan du se en lista över alla agenter som har kopplat samman sina kalendrar samt i vilken ordning de kommer att presenteras för webbplatsens besökare. Möten blir till rån, så om du har fem agenter och agent tre tog det senaste mötet får agent 4 nästa, följt av agent fem och sedan tillbaka till agent ett.
+This is where you can see a list of all the agents that have connected their calendars as well as what order they&#39;ll be presented to website visitors. Meetings go round robin style, so if you have five agents and agent three took the last meeting, agent four will get the next one, followed by agent five, then back to agent one.
 
-## Vanliga frågor {#faq}
+## FAQ {#faq}
 
-**Tillåter Dynamic Chat live-chatt?**
+****
 
-Nej, det använder bara förbestämda svar.
+No, it only utilizes pre-determined responses.
 
-**Hur kan jag rikta mig till anonyma människor?**
+****
 
-I dialogrutan måste du använda _Personens e-postadress är tom_ -attribut.
+__
 
-**Stöder du AI/NLP-funktioner?**
+****
 
-Vi stöder inte AI/NLP-funktioner.
+We do not support AI/NLP functionality.
 
-**Hur länge lagras data för rapportering?**
+****
 
-90 dagar.
+90 days.
 
-**Finns det några andra språk än engelska i Dynamic Chat?**
+****
 
-Inte just nu.
+Not at this time.
