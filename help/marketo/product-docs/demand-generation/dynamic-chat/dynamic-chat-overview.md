@@ -2,9 +2,9 @@
 description: Dynamic Chat Overview - Marketo Docs - produktdokumentation
 title: Dynamisk chattöversikt
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: c386d5ae542f4f19ba2acf6d2472a0c9d79c20a3
+source-git-commit: f08c85f59113a91d3ce020a11199b7fc4ed58857
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,10 @@ Här kan du se en lista över alla agenter som har kopplat samman sina kalendrar
 
 ## Vanliga frågor {#faq}
 
+**Hur länge lagras data för rapportering?**
+
+90 dagar (se den fullständiga listan över gränser) [nedan](#limits-in-dynamic-chat)).
+
 **Tillåter Dynamic Chat live-chatt?**
 
 Nej, det använder bara förbestämda svar.
@@ -66,10 +70,6 @@ I dialogrutan måste du använda _Personens e-postadress är tom_ -attribut.
 **Stöder du AI/NLP-funktioner?**
 
 Vi stöder inte AI/NLP-funktioner.
-
-**Hur länge lagras data för rapportering?**
-
-90 dagar.
 
 **Finns det några andra språk än engelska i Dynamic Chat?**
 
