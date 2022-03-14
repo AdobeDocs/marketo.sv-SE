@@ -1,6 +1,6 @@
 ---
-description: Understanding the Content Tab - Marketo Docs - Product Documentation
-title: Understanding the Content Tab
+description: Förstå fliken Innehåll - Marketo Docs - produktdokumentation
+title: Fliken Innehåll
 hide: true
 hidefromtoc: true
 source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
@@ -10,22 +10,22 @@ ht-degree: 0%
 
 ---
 
-# Understanding the Content Tab {#understanding-the-content-tab}
+# Fliken Innehåll {#understanding-the-content-tab}
 
-The Content Tab is all about your team&#39;s email engagement when using a template. We automatically bubble up three metrics that we believe to be important.
+Fliken Innehåll handlar om teamets e-postengagemang när man använder en mall. Vi bubblar automatiskt upp tre mätvärden som vi tror är viktiga.
 
-## Secret weapon {#secret-weapon}
+## Hemligt vapen {#secret-weapon}
 
-This is an email template that has not yet been shared with the team, but is receiving a high level of engagement. We show you the template subject line and the creator of the template. This is a great opportunity to reach out to this rep and recommend that they share the template!
+Det här är en e-postmall som ännu inte har delats med teamet, men som får ett högt engagemang. Vi visar mallens ämnesrad och mallskaparen. Detta är ett bra tillfälle att kontakta den här säljaren och rekommendera att de delar mallen!
 
-## Highest engagement {#highest-engagement}
+## Högsta engagemang {#highest-engagement}
 
-This is the shared template that is getting the highest level of engagement across the board.
+Det här är den delade mallen som får högsta nivå av engagemang på alla nivåer.
 
-## Lowest engagement {#lowest-engagement}
+## Lägsta engagemang {#lowest-engagement}
 
-Can be shared or not shared, this is the template with the least amount of engagement.
+Kan delas eller inte delas, det här är mallen med minsta engagemang.
 
-Scroll down the page to see the Templates section that shows all the templates your team has been using (in this time frame) with the most views.
+Bläddra nedåt på sidan för att se mallavsnittet som visar alla mallar som teamet har använt (i den här tidsramen) med de flesta vyer.
 
-You can also see the Top Attachments that your team has sent (getting the most views), and the Top Links (getting the most clicks).
+Du kan också se de viktigaste bifogade filerna som ditt team har skickat (med de flesta vyer) och de vanligaste länkarna (med de flesta klick).

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 14352613
-description: Add People to your Campaign - Marketo Docs - Product Documentation
-title: Add People to your Campaign
+description: Lägg till personer i din kampanj - Marketo Docs - produktdokumentation
+title: Lägg till personer i din kampanj
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
 source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
 workflow-type: tm+mt
@@ -10,80 +10,80 @@ ht-degree: 0%
 
 ---
 
-# Add People to your Campaign {#add-people-to-your-campaign}
+# Lägg till personer i din kampanj {#add-people-to-your-campaign}
 
-There are multiple ways to add someone to a Campaign.
+Det finns flera sätt att lägga till någon i en kampanj.
 
-If you&#39;re starting communication with a prospect or customer, you can use Add to Campaign from any page in our web application, or from Salesforce.
+Om du börjar kommunicera med en potentiell kund eller kund kan du använda Lägg till i kampanj från vilken sida som helst i vårt webbprogram eller från Salesforce.
 
-This flow will allow you to preview, edit, and schedule your first email in the Campaign, and if your Campaign starts with a task, these tasks will get queued for you in your Tasks list in our web application and in Salesforce.
+Det här flödet gör att du kan förhandsgranska, redigera och schemalägga ditt första e-postmeddelande i Campaign, och om din kampanj inleds med en uppgift köas dessa uppgifter åt dig i uppgiftslistan i webbprogrammet och i Salesforce.
 
-You can do this from the Campaigns tab in our web application.
+Du kan göra detta på fliken Kampanjer i webbprogrammet.
 
-You can find the Add to Campaign button on the Conversations and People pages in our web application.
+Knappen Lägg till i kampanj finns på sidorna Konversationer och Personer i webbprogrammet.
 
-If you are following up with a prospect or customer from your Gmail or Outlook inbox, you can add them to a Campaign via your compose window when you follow up with them (if the first step in the Campaign is an Email).
+Om du följer upp en potentiell kund eller kund från din Gmail- eller Outlook-inkorg kan du lägga till dem i en Campaign via dispositionsfönstret när du följer upp dem (om det första steget i Campaign är ett e-postmeddelande).
 
-Just reply to their email and choose a Campaign from our plugin.
+Svara bara på deras mejl och välj en kampanj från vårt plugin-program.
 
-## Remove People from a Campaign {#remove-people-from-a-campaign}
+## Ta bort personer från en kampanj {#remove-people-from-a-campaign}
 
-You can automatically end a Campaign when a recipient replies. And, you can choose to have that mark the Campaign as a &#39;success&#39; for that recipient.
+Du kan automatiskt avsluta en kampanj när en mottagare svarar. Och du kan välja att markera Campaign som en&quot;lyckad&quot; för den mottagaren.
 
-To set this up, after you have created your campaign, simply check the Unsubscribe boxes in the Settings portion of the Campaigns tab. Both of these options will end the campaign and your recipient will not receive any more emails from you. You must have reply tracking for this to work.
+När du har skapat kampanjen markerar du bara Avsluta prenumeration i delen Inställningar på fliken Kampanjer. Båda dessa alternativ avslutar kampanjen och mottagaren får inga fler e-postmeddelanden från dig. Du måste ha svarsuppföljning för att detta ska fungera.
 
-Additionally, you can remove people from the campaign itself, remove people from a campaign within the People page, and remove an entire group of people. Let&#39;s take a look at all three methods below.
+Dessutom kan du ta bort personer från själva kampanjen, ta bort personer från en kampanj på sidan Personer och ta bort en hel grupp med personer. Låt oss titta på alla tre metoderna nedan.
 
-### Remove a Person Directly from a Campaign {#remove-a-person-directly-from-a-campaign}
+### Ta bort en person direkt från en kampanj {#remove-a-person-directly-from-a-campaign}
 
-1. ****
+1. I Sales Connect klickar du på **Kampanjer** -fliken.
 
    ![](assets/one.png)
 
-1. Find your campaign and select it.
+1. Hitta kampanjen och välj den.
 
    ![](assets/two.png)
 
-1. Your campaign appears on the right. Click anywhere on it to open it.
+1. Kampanjen visas till höger. Klicka var som helst på den för att öppna den.
 
    ![](assets/three.png)
 
-1. ****
+1. Hitta den person du vill ta bort och klicka på **Ta bort**.
 
    ![](assets/four.png)
 
-1. ****
+1. (VALFRITT STEG) Du kan också ta bort flera personer samtidigt genom att klicka i kryssrutorna bredvid namnen och klicka på **Ta bort** överst.
 
    ![](assets/five.png)
 
-### Remove a Person from a Campaign Within the People Page {#remove-a-person-from-a-campaign-within-the-people-page}
+### Ta bort en person från en kampanj på sidan Personer {#remove-a-person-from-a-campaign-within-the-people-page}
 
-1. ****
+1. I Sales Connect klickar du på **Folk** -fliken.
 
    ![](assets/one-a.png)
 
-1. Find and select the person you want removed.
+1. Sök efter och markera den person som du vill ta bort.
 
    ![](assets/two-a.png)
 
-1. Their Person Detail View panel opens on the right. ********
+1. Panelen Persondetaljvy öppnas till höger. Klicka på **Historik** följt av **Ta bort** -knappen.
 
    ![](assets/three-a.png)
 
-### Remove a Group of People from a Campaign {#remove-a-group-of-people-from-a-campaign}
+### Ta bort en grupp med personer från en kampanj {#remove-a-group-of-people-from-a-campaign}
 
-1. ****
+1. I Sales Connect klickar du på **Folk** -fliken.
 
    ![](assets/one-b.png)
 
-1. ****
+1. Hitta och markera din grupp under **Mina grupper**.
 
    ![](assets/two-b.png)
 
-1. Select the people you want removed.
+1. Markera de personer som du vill ta bort.
 
    ![](assets/three-b.png)
 
-1. ********
+1. Klicka **Åtgärder** och välja **Ta bort markerade från kampanj**.
 
    ![](assets/four-b.png)

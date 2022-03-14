@@ -1,6 +1,6 @@
 ---
-description: Understanding the Team Tab - Marketo Docs - Product Documentation
-title: Understanding the Team Tab
+description: Förstå teamfliken - Marketo Docs - produktdokumentation
+title: Förstå teamfliken
 hide: true
 hidefromtoc: true
 source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
@@ -10,20 +10,20 @@ ht-degree: 0%
 
 ---
 
-# Understanding the Team Tab {#understanding-the-team-tab}
+# Förstå teamfliken {#understanding-the-team-tab}
 
-In the Team Tab we highlight three important metrics.
+På fliken Team belyser vi tre viktiga mätvärden.
 
-## Emails sent with template {#emails-sent-with-template}
+## E-postmeddelanden skickade med mall {#emails-sent-with-template}
 
-Of the emails that have been sent, how many of them utilized a template.
+Av de e-postmeddelanden som har skickats, hur många av dem använde en mall.
 
-## Peak time of engagement {#peak-time-of-engagement}
+## Högsta tid för engagemang {#peak-time-of-engagement}
 
-Across the board we bubble up the peak time of engagement that indicates what time of day your team is getting the most activity (views, clicks, replies). Your team can schedule emails or plan to send emails strategically around this time.
+Över hela styrelsen bubblar vi upp den tid det tar att engagera sig, vilket anger vilken tid på dygnet teamet får mest aktivitet (vyer, klickningar, svar). Ert team kan schemalägga e-postmeddelanden eller planera för att skicka e-postmeddelanden strategiskt runt den här tiden.
 
-## Deals closed {#deals-closed}
+## Avslutade affärer {#deals-closed}
 
-This is based on the sales gong and how many deals have been closed within the current month.
+Detta baseras på försäljningsloggen och hur många avtal som har lagts ned under den aktuella månaden.
 
-As a bonus, we total your team&#39;s view rate engagement. In this Tab, you can also see the Rep Leaderboard. Email stats for each person in your team are displayed here.
+Som bonus fyller vi hela teamets tittarintresse. På den här fliken kan du även se Rep Leaderboard. E-poststatistik för varje person i ditt team visas här.

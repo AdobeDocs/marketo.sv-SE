@@ -1,6 +1,6 @@
 ---
-description: Disconnect Salesforce From Sales Insight Actions - Marketo Docs - Product Documentation
-title: Disconnect Salesforce From Sales Insight Actions
+description: Koppla från Salesforce från försäljningsåtgärder - Marketo Docs - produktdokumentation
+title: Koppla från Salesforce från försäljningsåtgärder
 hide: true
 hidefromtoc: true
 source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
@@ -10,34 +10,34 @@ ht-degree: 0%
 
 ---
 
-# Disconnect Salesforce From Sales Insight Actions {#disconnect-salesforce-from-sales-insight-actions}
+# Koppla från Salesforce från försäljningsåtgärder {#disconnect-salesforce-from-sales-insight-actions}
 
-Sometimes you may need to disconnect your Salesforce account from your Sales Insight Actions account. Here&#39;s how.
+Ibland kan du behöva koppla från ditt Salesforce-konto från ditt konto för Sales Insight Actions. Så här gör du.
 
-## How to Disconnect From Salesforce as an Admin {#how-to-disconnect-from-salesforce-as-an-admin}
+## Koppla från Salesforce som administratör {#how-to-disconnect-from-salesforce-as-an-admin}
 
-1. ****
-
-PICC
-
-1. ****
+1. I Sales Insight Actions klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Inställningar**.
 
 PICC
 
-1. ****
+1. Under Administratörsinställningar klickar du på **Salesforce**.
 
 PICC
 
-## How to Disconnect From Salesforce as a non-Admin {#how-to-disconnect-from-salesforce-as-a-non-admin}
-
-1. ****
+1. Klicka på fliken Anslutningar och anpassningar **Koppla från**.
 
 PICC
 
-1. ****
+## Koppla från Salesforce som icke-administratör {#how-to-disconnect-from-salesforce-as-a-non-admin}
+
+1. I Sales Insight Actions klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Inställningar**.
 
 PICC
 
-1. ****
+1. Under Mitt konto väljer du **Salesforce**.
+
+PICC
+
+1. Klicka på fliken Anslutningar och anpassningar **Koppla från**.
 
 PICC

@@ -1,6 +1,6 @@
 ---
-description: Analytics Page Overview - Marketo Docs - Product Documentation
-title: Analytics Page Overview
+description: Översikt över analyssidan - Marketo Docs - produktdokumentation
+title: Översikt över analyssidan
 hide: true
 hidefromtoc: true
 source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
@@ -10,40 +10,40 @@ ht-degree: 0%
 
 ---
 
-# Analytics Page Overview {#analytics-page-overview}
+# Översikt över analyssidan {#analytics-page-overview}
 
-The Analytics tab is where you see data regarding your emails&#39; engagement. Both individual and team data are displayed. Admins can also filter by the user on the Me tab.
+På fliken Analytics kan ni se data om era e-posters engagemang. Både data för individer och team visas. Administratörer kan också filtrera efter användare på fliken Me.
 
-## How Often Does it Update? {#how-often-does-it-update}
+## Hur ofta uppdateras det? {#how-often-does-it-update}
 
-The analytics page updates every ten minutes.
+Analyssidan uppdateras var tionde minut.
 
-## What Do the Numbers Mean? {#what-do-the-numbers-mean}
+## Vad betyder siffrorna? {#what-do-the-numbers-mean}
 
-The numbers within the radials are calculating the total number of events on all emails sent. So if a single same email is viewed five times, it will add five views to this number. The same idea is applied to the clicks and replies counted inside the circle.
+Siffrorna i radialerna beräknar det totala antalet händelser i alla skickade e-postmeddelanden. Om ett och samma e-postmeddelande visas fem gånger läggs fem vyer till i det här numret. Samma idé gäller för de klick och svar som räknas inuti cirkeln.
 
-All of our stats kept inside the table will be calculated by looking at the unique views, clicks, and replies to your emails. If one email is viewed five times, we will count that as one view. That&#39;s why you may see a big difference in the numbers in the tables versus the numbers in the radial.
+All statistik som finns i tabellen beräknas genom att du tittar på de unika vyerna, klickar och svarar på dina mejl. Om ett e-postmeddelande visas fem gånger räknas det som en vy. Det är därför du kan se en stor skillnad mellan siffrorna i tabellerna och siffrorna i radialen.
 
-## Analytic Tabs {#analytic-tabs}
+## Analytiska flikar {#analytic-tabs}
 
-We break your stats into three separate tabs: Me, Team, and Content. You can use each one to get a different perspective on the insight we provide.
+Vi delar upp din statistik på tre olika flikar: Jag, team och innehåll. Ni kan använda var och en för att få olika perspektiv på de insikter vi ger.
 
-When going from tab to tab on the analytics page you can sort your stats by clicking on the view, click, or reply icons.
+När du går från en flik till en flik på analyssidan kan du sortera dina statusvärden genom att klicka på ikonerna för visning, klickning eller svar.
 
-In the Me and Team tabs you will see information about deals closed. This number is controlled by how many times people on your team ring the gong.
+På flikarna Me och Team visas information om avtal som stängts. Antalet styrs av hur många gånger folk i ditt team ringer.
 
-## Me Tab {#me-tab}
+## Fliken Me {#me-tab}
 
-[](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md) If you&#39;re an admin in Sales Insight Actions, you can filter by any user on your team to see their stats.
+The [Fliken Me](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md) är en bra plats att kontrollera engagemanget i era e-postmeddelanden, mallar och länkar. Om du är administratör för Sales Insight Actions kan du filtrera efter användare i teamet för att se deras status.
 
-## Team Tab {#team-tab}
+## Fliken Team {#team-tab}
 
-[](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md) You can also filter by any subteams you have created.
+I [Fliken Team](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md), se statistik och rankningar för hela teamet. Du kan också filtrera efter alla undergrupper som du har skapat.
 
-## Content Tab {#content-tab}
+## Fliken Innehåll {#content-tab}
 
-[](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md) You can either filter by everyone, or by teams your admins have created.
+The [Fliken Innehåll](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md) innehåller statistik om mallar, innehåll och länkar. Du kan antingen filtrera efter alla eller efter team som dina administratörer har skapat.
 
-If you see blue text under the subject column, it means the template is shared. You can click the blue text to be taken to that template. ****
+Om du ser blå text under ämneskolumnen betyder det att mallen delas. Du kan klicka på den blå text som ska tas till mallen. Visa hur den används genom att klicka **Mallanalys**.
 
-&quot;Clicks on content&quot; are counted when a recipient clicks a link in your email.
+&quot;Klicka på innehåll&quot; räknas när en mottagare klickar på en länk i ditt e-postmeddelande.

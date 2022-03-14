@@ -1,6 +1,6 @@
 ---
-description: Create a Sales Campaign - Marketo Docs - Product Documentation
-title: Create a Sales Campaign
+description: Skapa en försäljningskampanj - Marketo Docs - produktdokumentation
+title: Skapa en försäljningskampanj
 hide: true
 hidefromtoc: true
 source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
@@ -10,56 +10,56 @@ ht-degree: 0%
 
 ---
 
-# Create a Sales Campaign {#create-a-sales-campaign}
+# Skapa en försäljningskampanj {#create-a-sales-campaign}
 
-## Create a Campaign {#create-a-campaign}
-
-text
-
-## Understanding Send Options and Tasks {#understanding-send-options-and-tasks}
+## Skapa en kampanj {#create-a-campaign}
 
 text
 
-## Campaign Step Types {#campaign-step-types}
+## Om sändningsalternativ och -uppgifter {#understanding-send-options-and-tasks}
 
-When adding a step to your campaign, you have four options.
+text
+
+## Typer av kampanjsteg {#campaign-step-types}
+
+När du lägger till ett steg till kampanjen har du fyra alternativ.
 
 PICC
 
 **E-post**
 
-Compose a new email, or use a pre-existing template.
+Skapa ett nytt e-postmeddelande eller använd en befintlig mall.
 
 PICC
 
-| **** | Select one of your pre-existing templates |
+| **Använda en mall** | Välj en av dina befintliga mallar |
 |---|---|
-| **** | Save the email you just composed as a new template |
-| **** | Upload a file to our server and receive a URL (pointing to the content) that can be tracked in your email |
-| **** | Attach a file from your computer to the email (23MB size limit) |
+| **Spara som mall** | Spara e-postmeddelandet som du just komponerade som en ny mall |
+| **Lägg till innehåll** | Överför en fil till vår server och få en URL (som pekar på innehållet) som kan spåras i ditt e-postmeddelande |
+| **Bifoga filer** | Bifoga en fil från datorn till e-postmeddelandet (storleksgräns 23 MB) |
 
 >[!TIP]
 >
->[](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md)
+>Läs mer om [sändningsalternativ](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
 
-****
+**Utlysning**
 
-Set a reminder to follow-up with a contact via phone. You can also save notes to be used as a talk track during the call.
-
-PICC
-
-****
-
-Following up on multiple channels is a great way to connect with leads. With InMail tasks, you can set up a reminder to reach out via LinkedIn.
+Ställ in en påminnelse om att följa upp med en kontakt via telefon. Du kan också spara anteckningar som ska användas som ett röstspår under samtalet.
 
 PICC
 
-****
+**InMail**
 
-Utilize custom tasks when the above options are not applicable. For example, you can invite a colleague to follow up with a lead via email.
+Uppföljning i flera kanaler är ett bra sätt att få kontakt med leads. Med InMail-uppgifter kan du ställa in en påminnelse som ska nås via LinkedIn.
 
 PICC
 
-## Campaign Settings {#campaign-settings}
+**Anpassad aktivitet**
+
+Använd anpassade uppgifter när ovanstående alternativ inte är tillämpliga. Du kan till exempel bjuda in en kollega att följa upp med en lead via e-post.
+
+PICC
+
+## Kampanjinställningar {#campaign-settings}
 
 Text
