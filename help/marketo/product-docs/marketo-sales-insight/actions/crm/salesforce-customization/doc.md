@@ -1,6 +1,6 @@
 ---
-description: Doc - Marketo Docs - Product Documentation
-title: Doc
+description: Dok - Marketo Docs - produktdokumentation
+title: Dokument
 hide: true
 hidefromtoc: true
 source-git-commit: fbfc35b95f17e04a633019f419582fb1d437d894
@@ -10,4 +10,4 @@ ht-degree: 0%
 
 ---
 
-# Doc {#doc}
+# Dokument {#doc}

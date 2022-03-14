@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 1a817ff44e5786e0f94c22969d501ed33465424a
+source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
 workflow-type: tm+mt
-source-wordcount: '8421'
+source-wordcount: '8449'
 ht-degree: 0%
 
 ---
@@ -1276,6 +1276,8 @@ ht-degree: 0%
                + [Konfigurera detaljanpassning av Salesforce-aktivitet](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
                + [Anslut ditt Marketo-försäljningskonto till Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
                + [Koppla från Salesforce från försäljningsåtgärder](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
+               + [Svarsloggning](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
+               + [Salesforce-diagnostik](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [Synkroniseringsinställningar för Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
          + E-post {#email}
             + Kommandocentral {#command-center}
@@ -1302,9 +1304,11 @@ ht-degree: 0%
                + [Använda en mall i dispositionsfönstret](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
          + Vanliga frågor {#faq}
             + [Kan jag spåra flera mottagare med CC/BCC?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
+            + [Hur korrigerar jag&quot;Vi kunde inte autentisera din begäran&quot; vid anslutning till Salesforce?](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
             + [Hur förhindrar jag självvisningar?](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
             + [Hur fungerar platsspårning?](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
             + [Hur hanterar Sales Insight-åtgärder borttagning av dubbletter via e-post?](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
+            + [Varför visas inte spårningsaktivitet i Salesforce-aktivitet?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + Marketo {#marketo}
             + [Ge Marketo åtkomst till användare](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Gör en kampanj synlig för användare av Sales Connect](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
