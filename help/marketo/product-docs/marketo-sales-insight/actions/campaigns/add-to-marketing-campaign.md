@@ -1,105 +1,106 @@
 ---
-description: Lägg till i marknadsföringskampanj - Marketo Docs - produktdokumentation
-title: Lägg till i marknadsföringskampanj
+description: Add to Marketing Campaign - Marketo Docs - Product Documentation
+title: Add to Marketing Campaign
 hide: true
 hidefromtoc: true
-source-git-commit: 6b59150eaebcd4424d3e347cb2379b9111255e4f
+exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
+source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
 
-# Lägg till i marknadsföringskampanj {#add-to-marketing-campaign}
+# Add to Marketing Campaign {#add-to-marketing-campaign}
 
 >[!PREREQUISITES]
 >
->[Gör en kampanj synlig för säljare](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+>[](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
 
-## Lägg till enskilda personer i en kampanj {#add-individuals-to-a-campaign}
-
->[!NOTE]
->
->Om du vill lägga till en person i en Marketo Campaign från Sales Connect måste Sales Connect ha personens lead-ID för Marketo.
-
-1. Klicka på **Folk** Tabb.
-
-PICC
-
-1. Hitta de kontakter som du vill lägga till.
-
-PICC
-
-1. Markera kontakten/kontakterna genom att klicka i kryssrutan.
-
-PICC
-
-1. Klicka **Lägg till markerade i kampanj**.
-
-PICC
-
-1. Eftersom du lägger till i en marknadsföringskampanj går du inte längre till en&quot;från&quot;-adress. Du kan dock välja att lägga till fler kontakter. Om du väljer att göra det klickar du på Individuella och skriver in dem. Klicka **Nästa** när det är klart.
-
-PICC
-
-1. Klicka **Marknadsföringskampanj**.
-
-PICC
-
-1. Klicka på listrutan Arbetsytor och välj den arbetsyta som innehåller kampanjen som du vill lägga till gruppen i.
-
-PICC
+## Add Individuals to a Campaign {#add-individuals-to-a-campaign}
 
 >[!NOTE]
 >
->Om du inte ser den arbetsyta du vill använda kontrollerar du att din administratör har tillgång till den via din Marketo Team Access-sida.
+>In order to add a person to a Marketo Campaign from Sales Connect, Sales Connect must have the person&#39;s Marketo lead ID.
 
-1. Välj önskad kampanj och klicka på **Nästa**.
+1. ****
 
-PICC
+   ![](assets/add-to-marketing-campaign-1.png)
 
-1. Du visas de kontakter som är behöriga. Klicka **Starta** för att lägga till dem.
+1. Find the contact(s) you want to add.
 
-PICC
+   ![](assets/add-to-marketing-campaign-2.png)
 
-## Lägg till en grupp i en kampanj {#add-a-group-to-a-campaign}
+1. ****
 
-1. Klicka på **Folk** Tabb.
+   ![](assets/add-to-marketing-campaign-3.png)
 
-PICC
+1. STEP HERE
 
-1. Under Mina grupper väljer du den grupp som du vill lägga till i en kampanj.
+   ![](assets/add-to-marketing-campaign-4.png)
 
-PICC
+1. Since you&#39;re adding to a Marketing campaign, skip selecting a &quot;from&quot; address. You can however choose to add more contacts. If you choose to, click Individuals and type them in. ****
 
-1. Klicka **Lägg till grupp i kampanj**.
+   ![](assets/add-to-marketing-campaign-5.png)
 
-PICC
-
-1. Eftersom du lägger till i en marknadsföringskampanj går du inte längre till en&quot;från&quot;-adress. Du kan dock välja att lägga till fler kontakter. Om du väljer att göra det klickar du på Individuella och skriver in dem. Klicka **Nästa** när det är klart.
+1. ****
 
 PICC
 
-1. Välj **Marknadsföringskampanj**.
+1. Click the Workspaces drop-down and choose the workspace that contains the campaign you want the group added to.
 
 PICC
 
 >[!NOTE]
 >
->Om du vill lägga till en person i en Marketo Campaign från Sales Connect måste Sales Connect ha personens lead-ID för Marketo.
+>If you don&#39;t see the workspace you want, make sure your Admin provisions it through your Marketo Team Access page.
 
-1. Klicka på listrutan Arbetsytor och välj den arbetsyta som innehåller kampanjen som du vill lägga till gruppen i.
+1. ****
+
+PICC
+
+1. You&#39;re shown the contacts that qualify. ****
+
+PICC
+
+## Add a Group to a Campaign {#add-a-group-to-a-campaign}
+
+1. ****
+
+PICC
+
+1. Under My Groups, select the group you wish to add to a campaign.
+
+PICC
+
+1. ****
+
+PICC
+
+1. Since you&#39;re adding to a Marketing campaign, skip selecting a &quot;from&quot; address. You can however choose to add more contacts. If you choose to, click Individuals and type them in. ****
+
+PICC
+
+1. ****
 
 PICC
 
 >[!NOTE]
 >
->Om du inte ser den arbetsyta du vill använda kontrollerar du att din administratör har tillgång till den via din Marketo Team Access-sida.
+>In order to add a person to a Marketo Campaign from Sales Connect, Sales Connect must have the person&#39;s Marketo lead ID.
 
-1. Välj önskad kampanj och klicka på **Nästa**.
+1. Click the Workspaces drop-down and choose the workspace that contains the campaign you want the group added to.
 
 PICC
 
-1. Du visas de kontakter som är behöriga. Klicka **Starta** för att lägga till dem.
+>[!NOTE]
+>
+>If you don&#39;t see the workspace you want, make sure your Admin provisions it through your Marketo Team Access page.
+
+1. ****
+
+PICC
+
+1. You&#39;re shown the contacts that qualify. ****
 
 PICC
