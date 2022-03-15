@@ -3,16 +3,16 @@ unique-page-id: 14745793
 description: Sales Connect-anpassningar för CRM - Marketo Docs - produktdokumentation
 title: Anpassningar av Sales Connect för CRM
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
-source-git-commit: 2712a21b7457ef51a9112074465c54e8f7954fa9
+source-git-commit: 94f89e64b69d3997effe6736241a68f8314db1e6
 workflow-type: tm+mt
-source-wordcount: '726'
+source-wordcount: '735'
 ht-degree: 0%
 
 ---
 
 # Anpassningar av Sales Connect för CRM {#sales-connect-customizations-for-crm}
 
-Fälten och knapparna nedan skapas av Metadata API i Salesforce CRM. När fälten har skapats måste administratörer konfigurera sidlayouterna i CRM så att de visas. Instruktioner finns [här](https://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf).
+Fälten och knapparna nedan skapas av Metadata API i Salesforce CRM. När fälten har skapats måste administratörer konfigurera sidlayouterna i CRM så att de visas. Instruktioner finns [här](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
 
 >[!NOTE]
 >

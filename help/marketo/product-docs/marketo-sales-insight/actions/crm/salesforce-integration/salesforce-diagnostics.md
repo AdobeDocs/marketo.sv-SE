@@ -3,9 +3,9 @@ description: Salesforce Diagnostics - Marketo Docs - produktdokumentation
 title: Salesforce-diagnostik
 hide: true
 hidefromtoc: true
-source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
+source-git-commit: 94f89e64b69d3997effe6736241a68f8314db1e6
 workflow-type: tm+mt
-source-wordcount: '1447'
+source-wordcount: '1445'
 ht-degree: 0%
 
 ---
@@ -131,7 +131,7 @@ En del av vår Salesforce-integrering innehåller en Salesforce-diagnostiksida i
 
 **Fel:** INVALID_FIELD_FOR_INSERT_UPDATE\
 **Kategori:** Åtkomst/validering\
-**Meddelande:** Det gick inte att skapa/uppdatera fält: ToutApp__Tout_Last_Replied__c. Kontrollera säkerhetsinställningarna för det här fältet.
+**Meddelande:** Det gick inte att skapa/uppdatera fält: MSE_Replied__c. Kontrollera säkerhetsinställningarna för det här fältet.
 **Vad händer:** Användare har inte skrivåtkomst till anpassade fält för Sales Insight Actions som behövs för att utföra loggningstransaktionen för den senaste aktiviteten. Team kan ha installerat paket men har inte aktiverat rätt fält för användarna.\
 **Felsökningssteg:** Salesforce Admin måste ge åtkomst till anpassade fält ELLER inaktivera loggning av senaste aktivitet.
 

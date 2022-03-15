@@ -3,9 +3,10 @@ description: Loggning Sales Activity Attributes to Salesforce - Marketo Docs - P
 title: Loggningsattribut för försäljningsaktivitet till Salesforce
 hide: true
 hidefromtoc: true
-source-git-commit: aa58277a9620c5c187e9bd1e5c691b94b64b0968
+exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
+source-git-commit: 94f89e64b69d3997effe6736241a68f8314db1e6
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '341'
 ht-degree: 1%
 
 ---
@@ -26,7 +27,7 @@ Salesforce-administratör kan lägga till anpassade aktivitetsfält manuellt i S
 
 Beskrivning av varje kolumn i tabellen nedan:
 
-* **Fältetikett**: Fältnamn som visas i användargränssnittet
+* **Fältetikett**: Fältnamn som visas i användargränssnittet (det här namnet kan anpassas för att förbättra läsbarheten för ditt team)
 * **Fältnamn**: Fältets tekniska namn (kontrollera att fältnamnet du anger matchar fältnamnet i tabellen nedan)
 * **API-namn**: Tekniskt namn på fältet för API (se till att API-namnet som du anger matchar API-namnet i tabellen nedan)
 * **Datatyp**: Typ av fält
