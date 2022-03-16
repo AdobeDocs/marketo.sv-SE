@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359478
-description: Resultatrapport för e-postlänk - Marketo Docs - Produktdokumentation
+description: Resultatrapport för e-postlänk - Marketo Docs - produktdokumentation
 title: Resultatrapport för e-postlänk
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
+source-git-commit: 36315cda6932121da3656ba1ae3495401b321135
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
-
 
 # Resultatrapport för e-postlänk {#email-link-performance-report}
 
 Skapa en prestandarapport för e-postlänkar för att se hur bra länkarna i dina e-postmeddelanden fungerar.
 
-1. [Skapa en rapport i ett ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) program och välj  **E-** postlänksprestanda som rapporttyp.
+1. [Skapa en rapport i ett program](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och markera **E-postlänkens prestanda** som rapporttyp.
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
-1. Klicka på **Inställningar**.
+1. Klicka **Inställningar**.
 
    ![](assets/image2015-5-20-11-3a18-3a0.png)
 
@@ -27,11 +26,11 @@ Skapa en prestandarapport för e-postlänkar för att se hur bra länkarna i din
 
    ![](assets/image2015-5-20-11-3a18-3a59.png)
 
-1. Ange en lämplig tidsram för rapporten. Klicka på **Spara**.
+1. Ange en lämplig tidsram för rapporten. Klicka **Spara**.
 
    ![](assets/image2015-5-20-11-3a20-3a52.png)
 
-1. Klicka på **Rapport**.
+1. Klicka **Rapport**.
 
    ![](assets/image2015-5-20-11-3a22-3a24.png)
 
@@ -39,7 +38,7 @@ Skapa en prestandarapport för e-postlänkar för att se hur bra länkarna i din
 
    ![](assets/image2015-5-20-11-3a23-3a33.png)
 
-[Kolumner ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) som är tillgängliga för en e-postlänkprestandarapport är:
+[Tillgängliga kolumner](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en rapport om prestanda för e-postlänkar:
 
 <table> 
  <thead> 
@@ -51,7 +50,7 @@ Skapa en prestandarapport för e-postlänkar för att se hur bra länkarna i din
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1">Länk</td> 
-   <td colspan="1" rowspan="1">Grupperad efter e-postnamn.<br>Klicka på plustecknet (+) om du vill se alla länkar i det e-postmeddelandet.</td> 
+   <td colspan="1" rowspan="1">Grupperat efter e-postnamn.<br>Klicka på plustecknet (+) om du vill se alla länkar i det e-postmeddelandet.</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">Klickningar</td> 
@@ -72,9 +71,13 @@ Skapa en prestandarapport för e-postlänkar för att se hur bra länkarna i din
  </tbody> 
 </table>
 
+>[!NOTE]
+>
+>Den här rapporten visar &quot;felformaterad länk&quot; när ogiltiga/tomma länkar läggs till i ett e-postmeddelande. Om det här meddelandet visas [kontrollera HTML-källan](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md) i e-postredigeraren för tomma länkar eller variabler som inte fyller i en fullständig länk.
+
 >[!TIP]
 >
->Om du vill veta exakt vad en enskild person gjorde kan du öppna sidan [Aktivitetslogg](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) på sidan [Personinformation](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) på fliken Medlemmar i programmet.
+>Om du vill veta exakt vad en enskild person gjorde kan du öppna [Aktivitetslogg](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) i [Personinformation](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) från fliken Medlemmar i programmet.
 
 >[!MORELIKETHIS]
 >
