@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: Steg 3 av 3 - Ansluta Marketo-lösningen med Server to Server Connection - Marketo Docs - Produktdokumentation
 title: Steg 3 av 3 - Ansluta Marketo Solution med Server to Server Connection
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
+source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '446'
 ht-degree: 0%
 
 ---
@@ -54,7 +54,7 @@ Detta är det sista steget i synkroniseringen. Vi är nästan framme!
    >
    >Kontrollera att din organisations-URL är korrekt eftersom det inte går att återställa efterföljande schemaändringar efter överföringen. Om en felaktig Org URL används måste du skaffa en ny Marketo-prenumeration. Om du inte känner till URL:en [lära dig hur du hittar det här](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
-1. Ange **Användarnamn**, **Lösenord**, **Klient-ID**, **Klienthemlighet** och Microsoft Dynamics **URL**. Klicka **Spara** när det är klart.
+1. Ange användarinformationen för Dynamics Sync och klicka på **Spara** när det är klart.
 
    ![](assets/step-3-of-3-connect-s2s-5.png)
 

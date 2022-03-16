@@ -1,14 +1,13 @@
 ---
-description: Skicka en lista till ett annonsnätverk - Marketo Docs - Produktdokumentation
+description: Skicka en lista till ett annonsnätverk - Marketo Docs - produktdokumentation
 title: Skicka en lista till ett annonsnätverk
-translation-type: tm+mt
-source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
+exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
+source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
-
 
 # Skicka en lista till ett annonsnätverk {#send-a-list-to-an-ad-network}
 
@@ -16,11 +15,11 @@ Lär dig hur du skickar en statisk lista till LinkedIn, Facebook eller Google.
 
 ## Skicka en lista {#how-to-send-a-list}
 
-1. I Marketo markerar du listan, klickar på listrutan **Visa åtgärder** och väljer **Skicka till annonsnätverk**.
+1. I Marketo väljer du en lista och klickar på **Liståtgärder** och markera **Skicka till annonsnätverk**.
 
    ![](assets/send-a-list-to-an-ad-network-1.png)
 
-1. Välj mellan LinkedIn, Facebook eller Google (de andra alternativen är inte tillgängliga just nu). I det här exemplet väljer vi **LinkedIn**. Klicka på **Nästa**.
+1. Välj mellan LinkedIn, Facebook eller Google (de andra alternativen är inte tillgängliga just nu). I det här exemplet väljer vi **linkedIn**. Klicka **Nästa**.
 
    ![](assets/send-a-list-to-an-ad-network-2.png)
 
@@ -38,13 +37,13 @@ Lär dig hur du skickar en statisk lista till LinkedIn, Facebook eller Google.
 
    >[!NOTE]
    >
-   >Om du väljer Enable continuous audience sync (Aktivera kontinuerlig målgruppssynkronisering) håller Marketo listan uppdaterad i det valda annonsnätverket när listmedlemskapet ändras i Marketo-instansen.
+   >Om du väljer&quot;Aktivera kontinuerlig målgruppssynkronisering&quot; håller Marketo listan uppdaterad i det valda annonsnätverket när listan ändras i din Marketo-instans. Vi lägger båda till **och** ta bort personer från målgruppen om de läggs till/tas bort från den statiska listan.
 
-1. Och det är allt! Klicka på **OK** för att avsluta.
+1. Och det är allt! Klicka **OK** för att avsluta.
 
    ![](assets/send-a-list-to-an-ad-network-5.png)
 
-## Vanliga frågor och svar {#faq}
+## Vanliga frågor {#faq}
 
 **Kan en enda statisk lista synkroniseras med flera annonspubliker?**
 
