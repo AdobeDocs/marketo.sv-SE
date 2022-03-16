@@ -2,9 +2,9 @@
 description: Skapa en ström - Marketo Docs - produktdokumentation
 title: Skapa en ström
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
+source-git-commit: d2ac03bd01e1dd6998d47aac82383b64ffdd3ee7
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '409'
 ht-degree: 0%
 
 ---
@@ -110,7 +110,7 @@ Det finns _många_ strömkombinationer som du kan skapa. Den här artikeln inneh
 
    ![](assets/create-a-stream-17.png)
 
-1. Om du vill förhandsgranska dialogrutan klickar du på förhandsvisningsikonen till höger.
+1. Välj **Förhandsgranska** om du vill förhandsgranska dialogrutan.
 
    ![](assets/create-a-stream-18.png)
 
