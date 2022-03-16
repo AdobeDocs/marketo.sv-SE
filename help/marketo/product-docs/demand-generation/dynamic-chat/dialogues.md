@@ -2,9 +2,9 @@
 description: Dialogrutor - Marketo Docs - produktdokumentation
 title: Dialogrutor
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '756'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Dialogrutor är individuella chattsamtal. Lär dig hur du anpassar dem visuellt,
 
    ![](assets/dialogues-2.png)
 
-1. Ange ett namn (beskrivningen är valfri), ange prioritetsnivå och klicka på **Spara**.
+1. Välj en tom dialogruta eller någon av de förifyllda mallarna. Ange ett namn (beskrivningen är valfri), ändra prioritetsnivån (valfri) och klicka på **Skapa**.
 
    ![](assets/dialogues-3.png)
 

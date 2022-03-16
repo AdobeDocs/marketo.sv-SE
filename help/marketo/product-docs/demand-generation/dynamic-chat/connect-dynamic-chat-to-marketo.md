@@ -1,17 +1,17 @@
 ---
-description: Ansluta Dynamic Chat till Marketo - Marketo Docs - produktdokumentation
-title: Ansluta Dynamic Chat till Marketo
+description: Connect Dynamic Chat to Marketo - Marketo Docs - Product Documentation
+title: Connect Dynamic Chat to Marketo
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
 
 # Ansluta Dynamic Chat till Marketo {#connect-dynamic-chat-to-marketo}
 
-När du är klar med [inledande konfiguration](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md)är det dags att utföra engångsynkningen som kopplar Dynamic Chat till din Marketo-prenumeration.
+After you&#39;ve completed the [initial setup](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md), it&#39;s time to perform the one-time sync connecting Dynamic Chat to your Marketo subscription.
 
 1. I Min Marketo klickar du på **Dynamiskt chatt** platta.
 
@@ -31,11 +31,23 @@ När du är klar med [inledande konfiguration](/help/marketo/product-docs/demand
 
    ![](assets/connect-dynamic-chat-to-marketo-3.png)
 
+1. Välj upp till 50 standardfält eller anpassade fält som ska synkroniseras med dynamiskt chatt. Klicka **Nästa** när det är klart.
+
+   ![](assets/connect-dynamic-chat-to-marketo-4.png)
+
+   >[!CAUTION]
+   >
+   >At this time, attribute selections **cannot** be changed after the initial sync. När synkroniseringen är klar kan du bara gå tillbaka och lägga till fler (om du väljer mindre än 50).
+
+1. Make sure you have the correct selections (reminder: you cannot remove attributes post-sync, so click **Edit Selections** if you need to change any in this step). Click **Confirm** when done to initiate the sync.
+
+   ![](assets/connect-dynamic-chat-to-marketo-5.png)
+
 >[!NOTE]
 >
->Det kan ta mellan 2 och 24 timmar innan synkroniseringen är klar, beroende på databasens storlek.
+>It can take anywhere from 2 to 24 hours for the sync to complete, depending on the size of your database.
 
-## Länka din Adobe-organisation och Marketo {#link-your-adobe-org-and-marketo}
+## Link Your Adobe Org and Marketo {#link-your-adobe-org-and-marketo}
 
 Nu är det dags att länka Adobe och Marketo.
 
@@ -43,20 +55,20 @@ Nu är det dags att länka Adobe och Marketo.
 
 1. Kopiera Org-ID:t från det nedre högra hörnet på hemsidan, _minus_ &quot;@AdobeOrg.&quot;
 
-   ![](assets/connect-dynamic-chat-to-marketo-4.png)
+   ![](assets/connect-dynamic-chat-to-marketo-6.png)
 
 1. I Marketo går du till **Administratör** avsnitt och markera **Organisationsmappning för Adobe**.
 
-   ![](assets/connect-dynamic-chat-to-marketo-5.png)
+   ![](assets/connect-dynamic-chat-to-marketo-7.png)
 
 1. Klicka **Redigera**.
 
-   ![](assets/connect-dynamic-chat-to-marketo-6.png)
+   ![](assets/connect-dynamic-chat-to-marketo-8.png)
 
 1. Klistra in det Org-ID som du kopierade i steg 2 och klicka på **OK**.
 
-   ![](assets/connect-dynamic-chat-to-marketo-7.png)
+   ![](assets/connect-dynamic-chat-to-marketo-9.png)
 
 >[!MORELIKETHIS]
 >
->[Inledande konfiguration](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md)
+>[Initial Setup](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md)

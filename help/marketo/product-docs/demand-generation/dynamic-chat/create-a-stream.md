@@ -2,16 +2,18 @@
 description: Skapa en ström - Marketo Docs - produktdokumentation
 title: Skapa en ström
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
 
 # Skapa en ström {#create-a-stream}
 
-Det finns _många_ strömkombinationer som du kan skapa. Nedan visas ett exempel där marknadsföraren frågar besökaren om han eller hon har några produktfrågor. Om ja, kan besökaren boka ett möte. Om nej, ges besökaren möjlighet att ansluta sig till en sändlista för framtida korrespondens. Målet är antingen att schemalägga en avtalad tid eller att samla in besökarens e-post.
+Det finns _många_ strömkombinationer som du kan skapa. Den här artikeln innehåller ett exempel där marknadsföraren frågar besökaren om han eller hon har några produktfrågor. Om ja, kan besökaren boka ett möte. Om nej, ges besökaren möjlighet att ansluta sig till en sändlista för framtida korrespondens. Målet är antingen att schemalägga en avtalad tid eller att samla in besökarens e-post.
+
+![](assets/create-a-stream-0.png)
 
 1. Efter [skapa en dialogruta](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue)klickar du på **Stream Designer** -fliken.
 
@@ -108,9 +110,13 @@ Det finns _många_ strömkombinationer som du kan skapa. Nedan visas ett exempel
 
    ![](assets/create-a-stream-17.png)
 
-1. När du vill aktivera dialogrutan klickar du på **Publicera**.
+1. Om du vill förhandsgranska dialogrutan klickar du på förhandsvisningsikonen till höger.
 
    ![](assets/create-a-stream-18.png)
+
+1. När du är klar att aktivera dialogrutan klickar du på **Publicera**.
+
+   ![](assets/create-a-stream-19.png)
 
 >[!NOTE]
 >
