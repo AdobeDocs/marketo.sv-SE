@@ -1,20 +1,21 @@
 ---
-description: Enable Call Recording - Marketo Docs - Product Documentation
+description: Aktivera samtalsinspelning - Marketo Docs - produktdokumentation
 title: Aktivera samtalsinspelning
 hide: true
 hidefromtoc: true
-source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
+exl-id: 85a271f7-5cd9-4660-80b3-60742b743979
+source-git-commit: e377b38a29b3fb8678236fa202a68220f802bb88
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
 # Aktivera samtalsinspelning {#enable-call-recording}
 
-As an admin you can enable call recording for your Sales Insight Actions calls. Att spela in samtalet i teamet kan vara ett bra sätt att lära säljarna de bästa samtalsrutinerna.
+Som administratör kan du aktivera samtalsinspelning för dina Sales Insight Actions-samtal. Att spela in samtalet i teamet kan vara ett bra sätt att lära säljarna de bästa samtalsrutinerna.
 
-1. Click the Settings icon and select **Settings**.
+1. Klicka på ikonen Inställningar och välj **Inställningar**.
 
    ![](assets/enable-call-recording-1.png)
 
@@ -26,10 +27,10 @@ As an admin you can enable call recording for your Sales Insight Actions calls. 
 
    ![](assets/enable-call-recording-3.png)
 
-1. If you want to give your sellers the ability to enable or disable call recording for themselves, click **Optional recording for all team members**. Om du vill att alla samtal ska spelas in automatiskt klickar du på **Spela in alla samtal**.
+1. Om du vill ge dina säljare möjlighet att aktivera eller inaktivera samtalsinspelning för sig själv klickar du på **Valfri inspelning för alla teammedlemmar**. Om du vill att alla samtal ska spelas in automatiskt klickar du på **Spela in alla samtal**.
 
    ![](assets/enable-call-recording-4.png)
 
 >[!MORELIKETHIS]
 >
->[Inställningar för tvåpartssamtycke](/help/marketo/product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
+>[Inställningar för dubbelpartsgodkännande](/help/marketo/product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
