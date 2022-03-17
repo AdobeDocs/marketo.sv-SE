@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: e377b38a29b3fb8678236fa202a68220f802bb88
+source-git-commit: a0cfc190e00ea6f8a9f5ef717566651423638b7d
 workflow-type: tm+mt
-source-wordcount: '8458'
+source-wordcount: '8475'
 ht-degree: 0%
 
 ---
@@ -1312,6 +1312,9 @@ ht-degree: 0%
          + Marketo {#marketo}
             + [Ge Marketo åtkomst till användare](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Gör en kampanj synlig för användare av Sales Connect](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+            + [Utlösare och filter för försäljningsaktivitet](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
+            + [Aktivitetsordlista för Sales Insight Actions](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
+            + [Konfigurera din Marketo-anslutning](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
          + Folk {#people}
             + [Persondetaljvy](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Försäljningsåtgärder och GDPR-efterlevnad](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
@@ -1323,6 +1326,7 @@ ht-degree: 0%
                + [Sidkolumner för personer](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + Tel.{#phone}
             + [Aktivera samtalsinspelning](product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md)
+            + [Internationellt samtal](product-docs/marketo-sales-insight/actions/phone/international-calling.md)
             + [Lokal närvaro](product-docs/marketo-sales-insight/actions/phone/local-presence.md)
             + [Inställningar för dubbelpartsgodkännande](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
          + Salesforce-konfiguration {#salesforce-configuration}
