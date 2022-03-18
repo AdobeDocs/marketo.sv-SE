@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: a0cfc190e00ea6f8a9f5ef717566651423638b7d
+source-git-commit: e42b1f7e32ab0b70a344cad17c3d25e9d8129124
 workflow-type: tm+mt
-source-wordcount: '8475'
+source-wordcount: '8573'
 ht-degree: 0%
 
 ---
@@ -1303,11 +1303,22 @@ ht-degree: 0%
                + [Skicka e-post via gruppe-post](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [Använda en mall i dispositionsfönstret](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
          + Vanliga frågor {#faq}
+            + [Kan jag återställa en kontakt eller grupp jag tagit bort?](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [Kan jag spåra flera mottagare med CC/BCC?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
+            + [Vanliga frågor om innehåll och bifogad fil](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
+            + [Har Sales Insight Actions en iPhone- eller Android-app?](product-docs/marketo-sales-insight/actions/faq/does-sales-insight-actions-have-an-iphone-or-android-app.md)
+            + [Hur Tillåtslista jag Sales Insight-åtgärder på Min server?](product-docs/marketo-sales-insight/actions/faq/how-can-i-allowlist-sales-insight-actions-on-my-server.md)
             + [Hur korrigerar jag&quot;Vi kunde inte autentisera din begäran&quot; vid anslutning till Salesforce?](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
             + [Hur förhindrar jag självvisningar?](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
             + [Hur fungerar platsspårning?](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
             + [Hur hanterar Sales Insight-åtgärder borttagning av dubbletter via e-post?](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
+            + [Jag har låst ut mitt konto. Vad ska jag göra?](product-docs/marketo-sales-insight/actions/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
+            + [Är Sales Insight-åtgärder kompatibla med Salesforce Lightning?](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
+            + [Vilka är de senaste klientversionerna?](product-docs/marketo-sales-insight/actions/faq/what-are-the-latest-client-versions.md)
+            + [Vilka villkor gäller för Sales Insight Actions?](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
+            + [Varför skickas inga kontakter till Sales Insight-åtgärder?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
+            + [Varför kan jag inte ta bort en kontakt?](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
+            + [Varför skickades inte alla mina kontakter till säljinsiktåtgärder?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [Varför visas inte spårningsaktivitet i Salesforce-aktivitet?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + Marketo {#marketo}
             + [Ge Marketo åtkomst till användare](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
