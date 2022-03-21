@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: e42b1f7e32ab0b70a344cad17c3d25e9d8129124
+source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
 workflow-type: tm+mt
-source-wordcount: '8573'
+source-wordcount: '8589'
 ht-degree: 0%
 
 ---
@@ -1317,9 +1317,12 @@ ht-degree: 0%
             + [Vilka är de senaste klientversionerna?](product-docs/marketo-sales-insight/actions/faq/what-are-the-latest-client-versions.md)
             + [Vilka villkor gäller för Sales Insight Actions?](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
             + [Varför skickas inga kontakter till Sales Insight-åtgärder?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
+            + [Varför fylls inte mina dynamiska fält ut?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md)
             + [Varför kan jag inte ta bort en kontakt?](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
             + [Varför skickades inte alla mina kontakter till säljinsiktåtgärder?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [Varför visas inte spårningsaktivitet i Salesforce-aktivitet?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
+         + Integreringar {#integrations}
+            + [Logga e-postmeddelanden till en extern källa](product-docs/marketo-sales-insight/actions/integrations/log-emails-to-an-external-source.md)
          + Marketo {#marketo}
             + [Ge Marketo åtkomst till användare](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Gör en kampanj synlig för användare av Sales Connect](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
@@ -1350,6 +1353,7 @@ ht-degree: 0%
             + [Synkronisering av påminnelseaktivitet med Salesforce](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + Mallar {#templates}
             + [Lägg till hyperlänkad text](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
+            + [Dynamiska fält](product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md)
             + [Hantera mallar](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
             + [Hantera mallkategorier](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
             + [Rekommenderade mallar](product-docs/marketo-sales-insight/actions/templates/recommended-templates.md)

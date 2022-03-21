@@ -2,9 +2,9 @@
 description: Sales Insight Actions Feature Overview - Marketo Docs - Product Documentation
 title: Funktionsöversikt för Sales Insight
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
+source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
 workflow-type: tm+mt
-source-wordcount: '1316'
+source-wordcount: '1336'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 0%
 # Funktionsöversikt för Sales Insight {#msi-actions-feature-overview}
 
 Snabba upp prospekteringsarbetet med marknadsföringsstyrda verktyg för analys och engagemang i ett enda arbetsflöde med Sales Insight Actions.
+
+>[!AVAILABILITY]
+>
+>Den här funktionen är för närvarande begränsad för GA. Kontakta din Customer Success Manager eller mejl `sales-insights(at)adobe(dot)com` för att begära åtkomst.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -21,7 +25,7 @@ Följande åtgärder är tillgängliga i listrutan Välj åtgärder i det övre 
 
 * Skicka e-postmeddelande
    * E-postmeddelanden med försäljningsmeddelanden har vy, klickning och svarsspårning (när leveranskanalen är inställd)
-   * Inkluderar anpassning av e-post, anpassad signatur och bilagor
+   * Inkluderar e-post-Personalization, anpassad signatur och bilagor
    * Malldelning och rapporter
    * Teamdelning, gruppmeddelanden och CC/BCC-funktioner
    * E-postaktiviteten för försäljning loggas i Marketo personpost
