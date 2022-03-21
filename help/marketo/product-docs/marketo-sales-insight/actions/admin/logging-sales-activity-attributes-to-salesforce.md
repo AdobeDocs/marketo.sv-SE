@@ -1,10 +1,8 @@
 ---
 description: Loggning Sales Activity Attributes to Salesforce - Marketo Docs - Product Documentation
 title: Loggningsattribut för försäljningsaktivitet till Salesforce
-hide: true
-hidefromtoc: true
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
-source-git-commit: 94f89e64b69d3997effe6736241a68f8314db1e6
+source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 1%

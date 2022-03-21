@@ -1,10 +1,8 @@
 ---
 description: Connect New Admin to Marketo - Marketo Docs - Product Documentation
 title: Anslut ny administratör till Marketo
-hide: true
-hidefromtoc: true
 exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
-source-git-commit: 4055b121b416f3fa56abcfa21d370d148d3ab3c4
+source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
 workflow-type: tm+mt
 source-wordcount: '494'
 ht-degree: 0%

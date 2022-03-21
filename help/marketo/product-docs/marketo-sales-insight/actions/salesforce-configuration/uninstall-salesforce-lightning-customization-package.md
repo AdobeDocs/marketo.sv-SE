@@ -1,10 +1,8 @@
 ---
 description: Avinstallera Salesforce Lightning Customization Package - Marketo Docs - produktdokumentation
 title: Avinstallera Salesforce Lightning Customization Package
-hide: true
-hidefromtoc: true
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
-source-git-commit: 83556a56bddc1bdbeb5a5e93ec3a2c0d92aed831
+source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
 workflow-type: tm+mt
 source-wordcount: '1182'
 ht-degree: 0%
