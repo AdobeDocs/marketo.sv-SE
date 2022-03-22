@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
+source-git-commit: 2f86e4df7dec01ece6ef820674f84fd1ae8ebaf2
 workflow-type: tm+mt
-source-wordcount: '8589'
+source-wordcount: '8601'
 ht-degree: 0%
 
 ---
@@ -1269,6 +1269,7 @@ ht-degree: 0%
          + Kampanjer {#campaigns}
             + [Lägg till i marknadsföringskampanj](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
             + [Kampanjen har avslutats](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
+            + [Visa kampanjlistan som en annan användare](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
          + CRM {#crm}
             + Salesforce-anpassning {#salesforce-customization}
                + [Dokument](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
@@ -1325,6 +1326,7 @@ ht-degree: 0%
             + [Logga e-postmeddelanden till en extern källa](product-docs/marketo-sales-insight/actions/integrations/log-emails-to-an-external-source.md)
          + Marketo {#marketo}
             + [Ge Marketo åtkomst till användare](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
+            + [Intressanta stunder i Sales Insight Actions](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
             + [Gör en kampanj synlig för användare av Sales Connect](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
             + [Utlösare och filter för försäljningsaktivitet](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
             + [Aktivitetsordlista för Sales Insight Actions](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
