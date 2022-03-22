@@ -2,16 +2,16 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: c3b03dd3662ccd470bdf6480df8e5b3a88d1ae3b
+source-git-commit: f2653a21eaa8c353afb0a1634a3301e3b6d5ab2d
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '803'
 ht-degree: 0%
 
 ---
 
 # Versionsinformation: Mars 2022 {#release-notes-mar-22}
 
-Följande funktioner finns i mars 22. Se om det finns funktioner i Adobe Marketo Engage Edition.
+Följande funktioner finns i mars 22. Se om det finns funktioner i din Adobe Marketo Engage-utgåva.
 
 >[!AVAILABILITY]
 >
@@ -23,9 +23,9 @@ Följande funktioner kommer att lanseras den **11 mars 2022**, med en fasad utru
 
 ## Flerkanalsmarknadsföring {#cross-channel-orchestration}
 
-* **Dynamiskt chatt**: Maximera alla möjligheter på er webbplats genom att rikta in er på både leads och konton med proaktiva, engagerande och personliga konversationer. Med Dynamic Chat kan användare av Marketo Engage börja utnyttja chatt som en viktig del av integrerade upplevelser över flera kanaler för B2B-marknadsföring och säljtillfällen. Funktioner: möjlighet att boka möten direkt i chatten, lead-routning, startmallar, dra-och-släpp-konversation och mycket annat. Dynamic Chat ingår i alla paket med Marketo Engage och kommer att lanseras för alla Marketo Engage i år.
+* **Dynamiskt chatt**: Maximera alla möjligheter på er webbplats genom att rikta in er på både leads och konton med proaktiva, engagerande och personliga konversationer. [Dynamiskt chatt](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)Med {target=&quot;_blank&quot;} kan Marketo Engage-användare börja använda chatt som en viktig del av integrerade upplevelser över flera kanaler för B2B-marknadsföring och säljtillfällen. Funktioner: möjlighet att boka möten direkt i chatten, lead-routning, startmallar, dra-och-släpp-konversation och mycket annat. Dynamic Chat ingår i alla paket med Marketo Engage och kommer att lanseras för alla Marketo Engage i år.
 
-* **Förbättring av filtrering av e-poststartaktivitet**: Som en förbättring av den tidigare släppta funktionen för filtrering av e-poststartsaktivitet kan du nu välja att logga aktiviteter som identifieras som bottar. Du kan sedan filtrera och utlösa åtgärder baserat på aktiviteter som identifieras som utförda av bots.
+* **Förbättring av filtrering av e-poststartaktivitet**: Som en förbättring av tidigare släppta [Filtrering av startaktivitet för e-post](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;} kan du nu välja att logga aktiviteter som identifieras som bots. Du kan sedan filtrera och utlösa åtgärder baserat på aktiviteter som identifieras som utförda av bots.
 
 ## Nästa generations upplevelse {#next-generation-experience}
 
@@ -54,6 +54,7 @@ Följande funktioner kommer att lanseras den **11 mars 2022**, med en fasad utru
 * **Export av anpassat objekt i grupp uppdaterad vid filter**: Låter marknadsförare programmässigt synkronisera anpassade objekt
 * **Dispose Head Start Setting for Email Programs**: Gör att marknadsförare kan konfigurera e-postprogram med förstartsstart via API
 * **Selektiv programtagguppdatering**: Marknadsförarna kan pusha selektiva tagguppdateringar utan att skjuta på alla taggar samtidigt
+* **ÅtgärdResultatfält för massaktivitetsextrahering**: Låter marknadsförarna identifiera vilka aktiviteter som hoppades över eller misslyckades
 
 **_Frigör under hela kvartalet_**
 
