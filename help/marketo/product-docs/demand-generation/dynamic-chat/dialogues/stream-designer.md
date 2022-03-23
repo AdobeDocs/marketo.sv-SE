@@ -2,9 +2,9 @@
 description: Stream Designer - Marketo Docs - produktdokumentation
 title: Stream Designer
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: 38e65efc50f7f5e7a2a3dbe91035327007475721
+source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '596'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Strömdesignern innehåller flera kort som du kan lägga till för att forma cha
 
 ## Skapa en ström {#create-a-stream}
 
-1. Efter att du [skapade dialogrutan](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)klickar du på **Stream Designer** -fliken.
+1. Efter att du [skapade dialogrutan](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}, klicka på **Stream Designer** -fliken.
 
    ![](assets/create-a-stream-1.png)
 
@@ -148,7 +148,7 @@ Strömdesignern innehåller flera kort som du kan lägga till för att forma cha
 
 >[!NOTE]
 >
->Innan du klickar på Publicera bör du kontrollera att [angett mål-URL:er](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
+>Innan du klickar på Publicera bör du kontrollera att [angett mål-URL:er](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md#target){target=&quot;_blank&quot;}.
 
 >[!MORELIKETHIS]
 >
