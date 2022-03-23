@@ -2,16 +2,16 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: f2653a21eaa8c353afb0a1634a3301e3b6d5ab2d
+source-git-commit: c0699a888c6763f164e197395883c1c435fb782c
 workflow-type: tm+mt
-source-wordcount: '803'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Versionsinformation: Mars 2022 {#release-notes-mar-22}
 
-Följande funktioner finns i mars 22. Se om det finns funktioner i din Adobe Marketo Engage-utgåva.
+Följande funktioner finns i mars 22. Se om det finns funktioner i Adobe Marketo Engage Edition.
 
 >[!AVAILABILITY]
 >
@@ -31,7 +31,6 @@ Följande funktioner kommer att lanseras den **11 mars 2022**, med en fasad utru
 
 * **Uppdaterade skärmar i nästa generation**: Vi levererar nya, uppdaterade skärmar i nästa generation av upplevelser som erbjuder uppdaterade design- och användarvänlighetsförbättringar som är tillgängliga via växlingsfunktion:
 
-   * Visning av e-postlista i Design Studio (inklusive nya massåtgärder)
    * Formulärlistvy i Design Studio (inklusive nya massåtgärder)
 
 * **Uppdatera importprogramarbetsflöde**: Arbetsflödet för importprogram levereras i nästa generation med uppdaterade design- och användarförbättringar. Detta blir en automatisk ändring utan en växlingsknapp.
