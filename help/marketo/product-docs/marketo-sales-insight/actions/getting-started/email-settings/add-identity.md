@@ -1,10 +1,8 @@
 ---
 description: Lägg till identitet - Marketo Docs - produktdokumentation
 title: Lägg till identitet
-hide: true
-hidefromtoc: true
 exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -13,7 +11,7 @@ ht-degree: 0%
 
 # Lägg till identitet {#add-identity}
 
-Add an identity when you have multiple email addresses to send from.
+Lägg till en identitet när du har flera e-postadresser att skicka från.
 
 1. Klicka på ikonen Inställningar.
 
@@ -23,7 +21,7 @@ Add an identity when you have multiple email addresses to send from.
 
    ![](assets/add-identity-2.png)
 
-1. Click **Add Identity**.
+1. Klicka **Lägg till identitet**.
 
    ![](assets/add-identity-3.png)
 
@@ -31,7 +29,7 @@ Add an identity when you have multiple email addresses to send from.
 
    ![](assets/add-identity-4.png)
 
-1. Du får då ett e-postmeddelande om att du är säker på din e-postadress. To verify, click **Verify Email Address**.
+1. Du får då ett e-postmeddelande om att du är säker på din e-postadress. Verifiera genom att klicka **Verifiera e-postadress**.
 
    ![](assets/add-identity-5.png)
 
@@ -39,7 +37,7 @@ När du skickar ett e-postmeddelande till Marketo Sales och har flera identitete
 
 >[!NOTE]
 >
->There is no limit to the amount of email identities you can set up.
+>Det finns ingen gräns för hur många e-postidentiteter du kan konfigurera.
 
 >[!MORELIKETHIS]
 >
