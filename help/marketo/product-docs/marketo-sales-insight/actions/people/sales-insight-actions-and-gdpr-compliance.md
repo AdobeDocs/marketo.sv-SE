@@ -1,12 +1,11 @@
 ---
 description: Sales Insight Actions and GDPR Compliance - Marketo Docs - Product Documentation
 title: Försäljningsåtgärder och GDPR-efterlevnad
-hide: true
-hidefromtoc: true
-source-git-commit: 95eef55e3bbf24f1511fcbb3091a5b657653d672
+exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1396'
+ht-degree: 1%
 
 ---
 

@@ -1,10 +1,8 @@
 ---
 description: Inställningar för dubbelpartsgodkännande - Marketo Docs - produktdokumentation
 title: Inställningar för dubbelpartsgodkännande
-hide: true
-hidefromtoc: true
 exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
-source-git-commit: e377b38a29b3fb8678236fa202a68220f802bb88
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%

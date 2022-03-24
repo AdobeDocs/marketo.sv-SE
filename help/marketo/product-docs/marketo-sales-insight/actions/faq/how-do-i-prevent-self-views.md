@@ -1,9 +1,8 @@
 ---
 description: Hur förhindrar jag självvisningar - Marketo Docs - produktdokumentation
 title: Hur förhindrar jag självvisningar
-hide: true
-hidefromtoc: true
-source-git-commit: 3b7cc0c855221f6fd0fba6dca08ccbe361ca9758
+exl-id: 52de102f-6c6c-4663-9725-aae2f620d5bb
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 0%

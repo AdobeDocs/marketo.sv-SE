@@ -1,9 +1,8 @@
 ---
 description: Intressanta ögonblick i Sales Insight Actions - Marketo Docs - Product Documentation
 title: Intressanta stunder i Sales Insight Actions
-hide: true
-hidefromtoc: true
-source-git-commit: 2f86e4df7dec01ece6ef820674f84fd1ae8ebaf2
+exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%

@@ -1,9 +1,8 @@
 ---
 description: Massåtgärder för människor - Marketo Docs - produktdokumentation
 title: Massåtgärder för personer
-hide: true
-hidefromtoc: true
-source-git-commit: 9cbf22e3cecd707641a87482b95eb3d43d3a8f78
+exl-id: fcd89688-6905-4714-9254-42873eca8428
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%

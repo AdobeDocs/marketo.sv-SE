@@ -1,9 +1,8 @@
 ---
 description: Varför skickades inte alla mina kontakter till säljinsiktåtgärder? - Marketo Docs - produktdokumentation
 title: Varför skickades inte alla mina kontakter till säljinsiktåtgärder?
-hide: true
-hidefromtoc: true
-source-git-commit: 8704643b6e561ce368ce50804a2b7beed6cea71a
+exl-id: 5f0a4a66-7650-43c6-a8ea-4f991f4048fd
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%

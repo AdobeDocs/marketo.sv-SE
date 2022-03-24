@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 2e9bedc9141e2a50899e0d7e3c8407ca5ed2a2f9
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
-source-wordcount: '8608'
+source-wordcount: '8609'
 ht-degree: 0%
 
 ---
@@ -1279,7 +1279,7 @@ ht-degree: 0%
                + [Dokument](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
             + Salesforce-integrering {#salesforce-integration}
                + [Konfigurera detaljanpassning av Salesforce-aktivitet](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
-               + [Anslut ditt Marketo-försäljningskonto till Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
+               + [Koppla ditt konto för Sales Insight Actions till Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
                + [Koppla från Salesforce från försäljningsåtgärder](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
                + [Svarsloggning](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Salesforce-diagnostik](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)

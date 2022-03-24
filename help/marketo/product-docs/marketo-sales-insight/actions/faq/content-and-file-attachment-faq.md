@@ -1,9 +1,8 @@
 ---
 description: Innehåll och bifogade filer - Frågor och svar - Marketo Docs - Produktdokumentation
 title: Vanliga frågor om innehåll och bifogad fil
-hide: true
-hidefromtoc: true
-source-git-commit: 8704643b6e561ce368ce50804a2b7beed6cea71a
+exl-id: 53374ab8-c41e-4cf3-91ed-8ce47f06fbc8
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%

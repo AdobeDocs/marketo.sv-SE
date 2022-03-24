@@ -1,10 +1,8 @@
 ---
 description: Skicka e-post via e-post i grupp - Marketo Docs - produktdokumentation
 title: Skicka e-post via gruppe-post
-hide: true
-hidefromtoc: true
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
-source-git-commit: 08767d476cf89eefe7223308945733c6f813a34d
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -29,11 +27,11 @@ Så här skickar/redigerar du e-post med alternativet Gruppera e-post.
 
    ![](assets/sending-emails-via-group-email-3.png)
 
-1. Fill out your email (or select a template) and send (or schedule) it.
+1. Fyll i e-postmeddelandet (eller välj en mall) och skicka (eller schemalägg) det.
 
    ![](assets/sending-emails-via-group-email-4.png)
 
-## Editing a Group Email {#editing-a-group-email}
+## Redigera en gruppe-postadress {#editing-a-group-email}
 
 1. Skapa ett gruppe-postmeddelande med [Steg 1-3 ovan](#sending-a-group-email).
 
@@ -51,7 +49,7 @@ Så här skickar/redigerar du e-post med alternativet Gruppera e-post.
 
    >[!NOTE]
    >
-   >You can make bulk edits to the email/template when sending a group email out, but you cannot make unique edits for specific recipients in the list.
+   >Du kan göra flera ändringar i e-postmeddelandet/mallen när du skickar ut ett gruppmeddelande, men du kan inte göra unika redigeringar för specifika mottagare i listan.
 
 >[!MORELIKETHIS]
 >

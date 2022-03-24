@@ -1,10 +1,8 @@
 ---
 description: Lägga till högdagerinnehåll i ditt e-postmeddelande - Marketo Docs - produktdokumentation
 title: Lägga till högdagerinnehåll i e-postmeddelandet
-hide: true
-hidefromtoc: true
 exl-id: d80ce572-3ebf-4daa-b6f1-f4e9bd795ff2
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
