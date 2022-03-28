@@ -3,7 +3,8 @@ description: Förstå målspårning och projekterade registreringar - Marketo Do
 title: Förstå målspårning och projekterade registreringar
 hide: true
 hidefromtoc: true
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+exl-id: 22d7ef98-2988-4188-99dd-5558a78492e3
+source-git-commit: b609a268f08a7eef47d32c77a054a7d120339186
 workflow-type: tm+mt
 source-wordcount: '978'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # Förstå målspårning och projekterade registreringar {#understanding-goal-tracking-and-projected-registrations}
 
-Efter [ställa in händelsemål](/help/marketo/product-docs/marketo-sky/setting-event-goals.md) och skicka inbjudningar via [smart kampanj](/help/sky/create-a-smart-campaign.md)så här ser du hur du kan följa upp dina målframsteg och förstå Marketo prognoser.
+Efter [ställa in händelsemål](/help/marketo/product-docs/marketo-sky/setting-event-goals.md) och skicka inbjudningar via [smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)så här ser du hur du kan följa upp dina målframsteg och förstå Marketo prognoser.
 
 >[!NOTE]
 >
