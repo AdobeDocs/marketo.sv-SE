@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Importera ett program - Marketo Docs - produktdokumentation
 title: Importera ett program
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: a64c499f6972e94adfecbe164d86f7db1b1447aa
+source-git-commit: b0b1d176ef3471d8d02eb7601cbe7182a60b0e63
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '897'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ Ett program kan importeras från en Marketo-prenumeration till en annan. Du kan 
 
 1. Gå till **Marknadsföringsaktiviteter.**
 
-   ![](assets/ma.png)
+   ![](assets/import-a-program-1.png)
 
 1. Klicka **Nytt** nedrullningsbar meny. Välj **Importprogram**.
 
-   ![](assets/image2014-9-17-12-3a15-3a4.png)
+   ![](assets/import-a-program-2.png)
 
    >[!NOTE]
    >
@@ -32,23 +32,23 @@ Ett program kan importeras från en Marketo-prenumeration till en annan. Du kan 
 
 1. Välj en Marketo **Prenumeration** och ett program att importera. Klicka **Nästa**.
 
-   ![](assets/image2014-9-17-12-3a20-3a13.png)
+   ![](assets/import-a-program-3.png)
 
 1. Ange en **Campaign-mapp** för det importerade programmet. Klicka **Nästa.**
 
-   ![](assets/image2014-9-17-12-3a20-3a44.png)
+   ![](assets/import-a-program-4.png)
 
    >[!NOTE]
    >
    >Se till att **Använd standardkonflikt** regler är markerade. Konfliktregler behövs när du importerar program till en instans som har resurser med samma namn.
 
+1. Välj önskad konfliktinformation och klicka på **Nästa**.
+
+   ![](assets/import-a-program-5.png)
+
 1. Förhandsgranska information och **Importera** programmet.
 
-   ![](assets/image2014-9-17-12-3a21-3a36.png)
-
-   En dialogruta visar programmets importförlopp.
-
-   ![](assets/image2014-9-17-12-3a21-3a51.png)
+   ![](assets/import-a-program-6.png)
 
 Du får en bekräftelse via e-post när importen är klar.
 
@@ -67,7 +67,7 @@ Marketo programbibliotek innehåller färdiga, testade program som du kan import
 1. **Intressant ögonblick.** Skapar intressanta ögonblick så att säljteamet kan hålla dem uppdaterade.
 1. **Landningssida med Autoresponder.** Använd nedladdningsbart innehåll för att få nya personer och vårda dem. Inkluderar landningssidor och formulär.
 1. **Livscykel 2.** Använder poängsättning för att flytta en person från ny till kvalificerad marknadsföring.
-1. **Mall för mobil e-post.** En responsiv e-postmall testad mot iPhone och Android. Vissa versioner av Android, MS Outlook, Exchange och tredjepartsprogram som Gmail och Yahoo! Mobilappar för e-post stöder inte den CSS som krävs för responsiva mallar. Vi rekommenderar att du testar innan du skickar ut e-post.
+1. **Mobile e-postmall.** En responsiv e-postmall testad mot iPhone och Android. Vissa versioner av Android, MS Outlook, Exchange och tredjepartsprogram som Gmail och Yahoo! Mobilappar för e-post stöder inte den CSS som krävs för responsiva mallar. Vi rekommenderar att du testar innan du skickar ut e-post.
 1. **Program Import Sweepstakes.** Lotteriprogram för dem som testar programbiblioteket! Godkänn e-postmeddelanden och landningssidan och aktivera den smarta kampanjen. Visa sedan den godkända landningssidan, fyll i formuläret så anges du!
 1. **Tillgängliga säljkampanjer.** Ger säljarna ett sätt att köra smarta Marketo-kampanjer från en Dashboard i CRM.
 1. **Poäng - Spark Edition.** Demografisk och beteendebaserad poängsättning i ett enda poängfält. Innehåller mer än två dussin poängrelaterade kampanjer.
