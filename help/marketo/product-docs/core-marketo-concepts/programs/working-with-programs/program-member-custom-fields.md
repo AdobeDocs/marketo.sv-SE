@@ -3,10 +3,9 @@ unique-page-id: 37355569
 description: Anpassade fält för programmedlemmar - Marketo Docs - produktdokumentation
 title: Anpassade fält för programmedlem
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 05f31bc1d48dff0351fb6084893be7f5a96a8754
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -19,17 +18,17 @@ Med anpassade fält för programmedlemmar kan du samla in programspecifika data 
 >
 >Anpassade fält för programmedlem har för närvarande ingen integrering med Salesforce Campaign-medlemsfält.
 
-## Skapa ett anpassat fält för programmedlem {#create-a-program-member-custom-field}
+## Skapa ett anpassat fält för en programmedlem {#create-a-program-member-custom-field}
 
-1. Klicka på **Admin** i Marketo.
+1. I Marketo klickar du på **Administratör**.
 
    ![](assets/one.png)
 
-1. Klicka på **Fälthantering**.
+1. Klicka **Fälthantering**.
 
    ![](assets/two.png)
 
-1. Klicka på **Nytt anpassat fält**.
+1. Klicka **Nytt anpassat fält**.
 
    ![](assets/three.png)
 
@@ -41,7 +40,7 @@ Med anpassade fält för programmedlemmar kan du samla in programspecifika data 
    >
    >Anpassade fält för person och programmedlem kan inte ha samma namn.
 
-1. Fyll i de återstående fälten och klicka på **Skapa**.
+1. Fyll i återstående fält och klicka **Skapa**.
 
    ![](assets/five.png)
 
@@ -64,15 +63,16 @@ Du kan utnyttja dessa programspecifika data i smarta listor via [utlösare](/hel
 
 ![](assets/six.png)
 
-## Saker att känna till {#things-to-know}
+## Saker att veta {#things-to-know}
 
 * Anpassade fält för programmedlemmar är endast tillgängliga i lokala resurser. De stöds inte i Design Studio eftersom det inte finns något sätt att knyta dem till ett specifikt program.
 * Du kan inte klona/flytta ett formulär (eller en landningssida med ett formulär) som innehåller anpassade fält för programmedlem till Design Studio.
 * Objektet Program Member kan ha upp till 20 anpassade fält. Dessa fält är tillgängliga för alla program.
 * När du tar bort en medlem i ett program och har data i det anpassade fältet Programmedlem, rensas data från det fältet.
 * Om du vill visa data klickar du på fliken Medlemmar i programmet och skapar en anpassad vy som innehåller dessa fält.
-* Import och export via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) och [API](https://developers.marketo.com/) stöds.
+* Importera och exportera via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) och [API](https://developers.marketo.com/) stöds.
 * När du sammanfogar två personer används vinnarens anpassade fältdata för programmedlemmen. Men om vinnaren inte har något värde kommer förlorarens värde att användas.
+* Ändringstypen är **not** tillåts i fält för programmedlemsinformation.
 
 >[!MORELIKETHIS]
 >
