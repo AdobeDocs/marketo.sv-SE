@@ -2,7 +2,7 @@
 description: Översikt - Marketo Docs - produktdokumentation
 title: Översikt över dialogrutan
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
-source-git-commit: 1f874dc388143db427c2792a7fe5755d682d6fa4
+source-git-commit: 27e70ce28c2da78ebe607e107f69528b6cb60183
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -28,3 +28,5 @@ The [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/
 ## Rapporter {#reports}
 
 The [Rapporter](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md)I avsnittet {target=&quot;_blank&quot;} i en dialogruta kan du se mätvärden för hur bra din dialogruta fungerar.
+
+![](assets/dialogue-overview-3.png)
