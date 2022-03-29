@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2950617
-description: Använda dynamiskt innehåll i ett e-postmeddelande - Marketo Docs - Produktdokumentation
+description: Använda dynamiskt innehåll i ett e-postmeddelande - Marketo Docs - produktdokumentation
 title: Använda dynamiskt innehåll i ett e-postmeddelande
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
+source-git-commit: 076d781fc8d967ee6f63ed2023e75c94e5aa1e55
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
-
 
 # Använda dynamiskt innehåll i ett e-postmeddelande {#using-dynamic-content-in-an-email}
 
@@ -19,17 +18,21 @@ ht-degree: 0%
 
 Använd dynamiskt innehåll i e-postmeddelanden för att skicka riktade leads-uppgifter.
 
+>[!NOTE]
+>
+>Användning av variabler i dynamiskt innehåll i ett e-postmeddelande stöds bara när du använder Utlösarkampanjer. Det är **not** stöds när gruppkampanjer används.
+
 ## Lägg till segmentering {#add-segmentation}
 
-1. Gå till Marknadsföringsaktiviteter.
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Markera din e-postadress och klicka sedan på Redigera utkast.
+1. Välj e-post och klicka **Redigera utkast**.
 
    ![](assets/1.2.png)
 
-1. I det här exemplet gör vi ämnesraden dynamisk. Klicka i ämnesfältet och klicka sedan på knappen **Gör dynamisk**.
+1. I det här exemplet gör vi ämnesraden dynamisk. Klicka i ämnesfältet och klicka sedan på **Gör dynamisk** -knappen.
 
    ![](assets/1.3.png)
 
