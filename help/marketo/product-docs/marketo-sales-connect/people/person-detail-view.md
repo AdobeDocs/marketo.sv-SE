@@ -1,23 +1,22 @@
 ---
 unique-page-id: 13796475
-description: Persondetaljvy - Marketo Docs - Produktdokumentation
+description: Persondetaljvy - Marketo Docs - produktdokumentation
 title: Persondetaljvy
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
+source-git-commit: e1b0e19dc292d867bc9639177592681fb9e8866d
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
-
 
 # Persondetaljvy {#person-detail-view}
 
 I persondetaljvyn finns en detaljerad profil för varje person i ditt MSC-konto.
 
-## Åtkomst till {#how-to-access}
+## Åtkomst {#how-to-access}
 
-1. Klicka på fliken **Personer** för att komma åt vyn med persondetaljer.
+1. Om du vill öppna personinformationsvyn klickar du på **Folk** -fliken.
 
    ![](assets/people-tab.png)
 
@@ -29,7 +28,7 @@ I persondetaljvyn finns en detaljerad profil för varje person i ditt MSC-konto.
    >
    >I stort sett var du än ser en persons namn kan du klicka på den och gå till hans/hennes personvy.
 
-## Fliken {#about-tab}
+## Fliken Om {#about-tab}
 
 Innehåller all kontaktinformation för personen.
 
@@ -56,7 +55,7 @@ Innehåller all kontaktinformation för personen.
 
 * Skapa anpassade anteckningar
 
-## Engagement Tab {#engagement-tab}
+## Fliken Engagement {#engagement-tab}
 
 Se hur den här personen engagerar sig i er utåtriktade verksamhet.
 
@@ -70,7 +69,7 @@ Se hur den här personen engagerar sig i er utåtriktade verksamhet.
 
 * Se hur er person engagerar sig i marknadsföringskampanjer
 
-## Fliken Historik {#history-tab}
+## Fliken Händelser {#history-tab}
 
 Visar din utdatahistorik. Inkluderar e-post, kampanjer och samtal.
 
@@ -104,17 +103,3 @@ Hantera uppgifter som är kopplade till den här personen.
 * Se förfallodatumet
 * Klicka på Typ för att starta Säljtelefonen om du ringer, E-posta om det är e-post, Länkad om e-post och Anpassad anteckning om det är anpassat.
 * Markera en uppgift som slutförd
-
-## Fliken Sales Navigator {#sales-navigator-tab}
-
-Visa LinkedIn-profildata med LinkedIns Sales Navigator.
-
->[!NOTE]
->
->Sales Navigator är ett betalt tillägg via LinkedIn. Kontakta dem för att få den här funktionen.
-
-![](assets/linkedin.jpg)
-
-Skapa en rapport genom att nämna brytare.
-
-Spara kontakter som leads i Sales Navigator.
