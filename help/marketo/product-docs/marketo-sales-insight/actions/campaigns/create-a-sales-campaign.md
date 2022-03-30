@@ -3,63 +3,70 @@ description: Skapa en försäljningskampanj - Marketo Docs - produktdokumentatio
 title: Skapa en försäljningskampanj
 hide: true
 hidefromtoc: true
-source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
+source-git-commit: e1eaabc8fc943291b026ab8e9919e5705e5c9046
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
 
 # Skapa en försäljningskampanj {#create-a-sales-campaign}
 
-## Skapa en kampanj {#create-a-campaign}
+Kampanjerna består av en serie flerkanalsåtgärder, bland annat: e-post, telefonsamtal, InMail och anpassade åtgärder. De gör att ni kan effektivisera kommunikationen med potentiella och befintliga kunder.
 
-text
+Med kampanjer kan ni
 
-## Om sändningsalternativ och -uppgifter {#understanding-send-options-and-tasks}
+* **Ordna**: Effektivisera alla era utåtriktade aktiviteter på ett och samma ställe för effektivt genomförande.
+* **Skala**: Schemalägg alla era uppsökande insatser så att ni kan skala om era insatser, minimera det manuella arbetet och personalisera så mycket ni behöver.
+* **Mät**: Spåra framgången för alla e-postmeddelanden och uppgifter på ett och samma ställe samtidigt som du automatiskt loggar in dem i Salesforce. Genom att veta vad som är resonerande och leder till resultat kan ni konsekvent testa och förbättra resultaten.
 
-text
+Hur skapar ni en kampanj?
 
-## Typer av kampanjsteg {#campaign-step-types}
+1. Klicka på **Kampanjer** -fliken.
 
-När du lägger till ett steg till kampanjen har du fyra alternativ.
+   ![](assets/create-a-sales-campaign-1.png)
 
-PICC
+1. Välj en kategori och klicka på **Skapa en kampanj** för att skapa en ny kampanj.
 
-**E-post**
+   ![](assets/create-a-sales-campaign-2.png)
 
-Skapa ett nytt e-postmeddelande eller använd en befintlig mall.
+   >[!NOTE]
+   >
+   >Skapa en ny kategori genom att klicka på **+** nästa **Kategorier**.
 
-PICC
+1. Kategorin som du valde markeras. Om du ångrar dig klickar du på listrutan och väljer en annan. När du är klar klickar du på **Fortsätt**.
 
-| **Använda en mall** | Välj en av dina befintliga mallar |
-|---|---|
-| **Spara som mall** | Spara e-postmeddelandet som du just komponerade som en ny mall |
-| **Lägg till innehåll** | Överför en fil till vår server och få en URL (som pekar på innehållet) som kan spåras i ditt e-postmeddelande |
-| **Bifoga filer** | Bifoga en fil från datorn till e-postmeddelandet (storleksgräns 23 MB) |
+   ![](assets/create-a-sales-campaign-3.png)
 
->[!TIP]
+1. Klicka **Lägg till ett steg**.
+
+   ![](assets/create-a-sales-campaign-4.png)
+
+1. Välj mellan: E-post, Samtal, InMail eller Anpassad aktivitet. I det här exemplet väljer vi E-post.
+
+   ![](assets/create-a-sales-campaign-5.png)
+
+1. När du är [klart med din e-post](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target=&quot;_blank&quot;}{target=&quot;_blank&quot;}, klicka **Lägg till**.
+
+   ![](assets/create-a-sales-campaign-6.png)
+
+1. När du har skapat din första dag och ditt första steg aktiveras knappen&quot;Lägg till en dag&quot; och du kan lägga till så många dagar och steg som din försäljningsprocess kräver.
+
+   ![](assets/create-a-sales-campaign-7.png)
+
+   >[!NOTE]
+   >
+   >&quot;Dagar&quot; är inte antalet dagar mellan åtgärder, utan dagen i sekvensen. Om din kampanj till exempel kommer att vara i 7 dagar, innebär &quot;3&quot; att åtgärden kommer att vara i dag 3 av 7, **not** 3 dagar senare.
+
+1. Se till att du anpassar alternativen för schemaläggning och svar, som att hoppa över helger (vilket är fantastiskt), genom att gå till **Fliken Inställningar** för er Campaign.
+
+   ![](assets/create-a-sales-campaign-8.png)
+
+Nu är det dags att börja lägga till folk i kampanjen!
+
+>[!MORELIKETHIS]
 >
->Läs mer om [sändningsalternativ](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
+>* Om sändningsalternativ för försäljningskampanj för e-poststeg
+>* [Stegtyper för säljkampanj och påminnelseaktiviteter](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target=&quot;_blank&quot;}
+>* Inställningar för försäljningskampanj
 
-**Utlysning**
-
-Ställ in en påminnelse om att följa upp med en kontakt via telefon. Du kan också spara anteckningar som ska användas som ett röstspår under samtalet.
-
-PICC
-
-**InMail**
-
-Uppföljning i flera kanaler är ett bra sätt att få kontakt med leads. Med InMail-uppgifter kan du ställa in en påminnelse som ska nås via LinkedIn.
-
-PICC
-
-**Anpassad aktivitet**
-
-Använd anpassade uppgifter när ovanstående alternativ inte är tillämpliga. Du kan till exempel bjuda in en kollega att följa upp med en lead via e-post.
-
-PICC
-
-## Kampanjinställningar {#campaign-settings}
-
-Text
