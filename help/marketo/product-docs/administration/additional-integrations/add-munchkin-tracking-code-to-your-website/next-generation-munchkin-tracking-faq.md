@@ -3,15 +3,14 @@ unique-page-id: 10096583
 description: Nästa generations Munchkin Tracking - frågor och svar - Marketo Docs - produktdokumentation
 title: Nästa generations Munchkin Tracking - frågor och svar
 exl-id: 283189ac-c817-479a-b896-91233980608c
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
 
-# Nästa generation Munchkin Tracking - frågor och svar {#next-generation-munchkin-tracking-faq}
+# Nästa generations Munchkin Tracking - frågor och svar {#next-generation-munchkin-tracking-faq}
 
 Vi är glada över att kunna meddela att vi snart kommer att påbörja en fasad lansering av nästa generations webbspårningsteknik.
 
@@ -31,7 +30,7 @@ Nej. Munchkins spårningskod är densamma. Inga ändringar behöver göras på w
 
 >[!NOTE]
 >
->Den här ändringen påverkar inte webbpersonalisering (anpassning i realtid). Det fortsätter att identifiera anonyma och kända webbbesökare och personalisera innehåll i realtid för dessa besökare.
+>Den här ändringen påverkar inte Web Personalization (Real-Time Personalization). Det fortsätter att identifiera anonyma och kända webbbesökare och personalisera innehåll i realtid för dessa besökare.
 
 ## Varför tog Marketo bort filtret&quot;Är anonym&quot; från smarta listor? {#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
 
@@ -50,15 +49,12 @@ Om du redan använder det här filtret i en smart lista (till exempel i en smart
 >Om en anonym person besöker prissidan för Munchkin V2 kommer hon inte att delta i kampanjen direkt. När den anonyma personen blir känd ska vi genomföra kampanjen mot henne. Hon kommer att:
 >
 >* Få 10 poäng
-   >
-   >
-* Ha webbsidesaktiviteten inställd på rätt datum (när hon faktiskt besökte den)
-   >
-   >
-* Jag vill att en intressant stund ska registreras för henne (med det datum då hon faktiskt besökte sidan, inte när hon blev känd)
-   >
-   >
-* Logga aktiviteten Ny person, som den är idag
+>
+>* Ha webbsidesaktiviteten inställd på rätt datum (när hon faktiskt besökte den)
+>
+>* Jag vill att en intressant stund ska registreras för henne (med det datum då hon faktiskt besökte sidan, inte när hon blev känd)
+>
+>* Logga aktiviteten Ny person, som den är idag
 
 
 ## Vad händer med mina smarta listor som redan har filtret&quot;Är anonym&quot;? {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
@@ -94,4 +90,4 @@ Kolla in länkarna:
 
 ## Jag har fler frågor! Hur får jag svar på dem? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Kontakta dig på [communityn](https://nation.marketo.com/welcome). Du kan även kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support). De kommer gärna att besvara dina frågor.
+Var vänlig och kontakta [community](https://nation.marketo.com/). Du kan också kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support). De kommer gärna att besvara dina frågor.

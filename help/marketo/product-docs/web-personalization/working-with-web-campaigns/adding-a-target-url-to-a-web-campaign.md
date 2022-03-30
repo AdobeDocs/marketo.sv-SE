@@ -1,15 +1,14 @@
 ---
 unique-page-id: 6094879
-description: Lägga till en mål-URL i en webbkampanj - Marketo Docs - Produktdokumentation
+description: Lägga till en mål-URL i en webbkampanj - Marketo Docs - produktdokumentation
 title: Lägga till en mål-URL i en webbkampanj
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
 
 ---
-
 
 # Lägga till en mål-URL i en webbkampanj {#adding-a-target-url-to-a-web-campaign}
 
@@ -25,7 +24,7 @@ En mål-URL finns under sidan Ange kampanj och definierar den specifika URL elle
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. Lägg till ett **kampanjnamn**. Välj ett **målsegment**. Lägg till **mål-URL**.
+1. Lägg till en **Kampanjnamn**. Välj en **Målsegment**. Lägg till **Mål-URL**.
 
    ![](assets/set-web-campaign-hands.jpg)
 
@@ -48,22 +47,22 @@ En mål-URL finns under sidan Ange kampanj och definierar den specifika URL elle
  </tbody> 
 </table>
 
-## Lägga till flera URL:er till mål-URL:en {#adding-multiple-urls-to-target-url}
+## Lägga till flera URL:er till mål-URL {#adding-multiple-urls-to-target-url}
 
-Om du klickar på plusikonen (![—](assets/image2015-2-18-8-3a40-3a59.png)) öppnas dialogrutan Multiple Value Entry där du kan lägga till flera URL:er. Lägg till en URL per rad.
+Klicka på plusikonen (![—](assets/image2015-2-18-8-3a40-3a59.png)) öppnas dialogrutan Multiple Value Entry (Flera värden) där du kan lägga till flera URL:er. Lägg till en URL per rad.
 
 ![](assets/image2015-2-23-18-3a15-3a57.png)
 
 >[!NOTE]
 >
 >* Webbkampanjer i dialogrutor och widgetar kan använda alternativen Valfri sida och Jokertecken (*).
-* I avancerade fall kan webbkampanjer i InZone använda jokertecken i slutet av URL-sökvägen. Exempel: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
+* I avancerade fall kan webbkampanjer i InZone använda jokertecken i slutet av URL-sökvägen. Exempel: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 * URL är skiftlägeskänslig
 
 
 ## Lägga till en mål-URL för webbkampanjer i zonen {#adding-a-target-url-for-in-zone-web-campaigns}
 
-1. Gå till **Webben** **Kampanjer**.
+1. Gå till **Webb** **Kampanjer**.
 
    ![](assets/web-campaigns-hand-5.jpg)
 
@@ -71,10 +70,10 @@ Om du klickar på plusikonen (![—](assets/image2015-2-18-8-3a40-3a59.png)) öp
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. Lägg till ett **kampanjnamn**. Välj ett **målsegment**. Lägg till **mål-URL**.
+1. Lägg till en **Kampanjnamn**. Välj en **Målsegment**. Lägg till **Mål-URL**.
 
    >[!NOTE]
-   Mål-URL:en med In Zones måste definiera en specifik URL eller URL:er. I avancerade fall kan webbkampanjer i InZone använda jokertecken i slutet av URL-sökvägen. Exempel: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
+   Mål-URL:en med In Zones måste definiera en specifik URL eller URL:er. I avancerade fall kan webbkampanjer i InZone använda jokertecken i slutet av URL-sökvägen. Exempel: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 

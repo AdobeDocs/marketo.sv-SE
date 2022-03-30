@@ -1,47 +1,46 @@
 ---
 unique-page-id: 10099077
-description: E-postleverans Power Pack - Så här importerar du en Seedlist - Marketo Docs - Produktdokumentation
+description: E-postleverans Power Pack - Så här importerar du en SeedList - Marketo Docs - Produktdokumentation
 title: E-postleverans, Power Pack - Så här importerar du en Seedlist
-translation-type: tm+mt
-source-git-commit: 615ddd6ffdb3873baa159d440db7b24f3a07e6b0
+exl-id: a4782611-2556-43bf-802b-afeb332eafcd
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
 
 ---
 
+# Power Pack för e-postleverans: Importera en lista {#email-deliverability-power-pack-how-to-import-a-seedlist}
 
-# Power Pack för e-postleverans: Importera en Seedlist {#email-deliverability-power-pack-how-to-import-a-seedlist}
-
-En startvärdeslista är en lista över e-postkonton hos flera postlådeproviders, bland annat Google Apps, Hotmail, Yahoo!, som används för att beräkna hur många inkorgar som kan levereras jämfört med skräppostmappar. Så här hämtar du listan till din Marketo-instans.
+En startvärdeslista är en lista över e-postkonton hos flera postlådeleverantörer, inklusive Google Apps, Hotmail, Yahoo!, osv., som används för att beräkna hur snabbt inkorg- och skräppostmappen levereras. Så här hämtar du listan till din Marketo-instans.
 
 >[!AVAILABILITY]
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
-## Importera en Seedlist {#import-a-seedlist}
+## Importera en utskickslista {#import-a-seedlist}
 
 1. Gå till **Leveransverktyg**.
 
    ![](assets/one-1.png)
 
-1. Klicka på **Inkorgsinfo**.
+1. Klicka **Inkorgsinformant**.
 
    ![](assets/two-1.png)
 
-1. Klicka på **Hämta Seedlist**.
+1. Klicka **Hämta SeedList**.
 
    ![](assets/three-1.png)
 
-1. Klicka på **Exportera lista**.
+1. Klicka **Exportera lista**.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Välj **Optimera lista** om du vill att 250ok ska [optimera listan](https://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-) åt dig. Välj **Anpassa lista** om du vill välja de utseendelisteområden som du vill ta med.
+   >Välj **Optimera lista** om du vill att 250ok ska [optimera listan](https://help.returnpath.com/hc/en-us/articles/360046746451-What-is-250ok-s-seedlist-optimizer-and-why-should-I-use-it-) för dig. Välj **Anpassa lista** om du vill markera de seedlisteområden som du vill ta med.
 
-1. Efter exporten visas listan som en TXT-fil i webbläsarens nedladdningsmapp. Hämta den och [importera](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) den till din Marketo-instans som en statisk lista.
+1. Efter exporten visas listan som en TXT-fil i webbläsarens nedladdningsmapp. Hämta den och [import](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) i din Marketo-instans som en statisk lista.
 
    ![](assets/five.png)
 
@@ -51,7 +50,7 @@ En startvärdeslista är en lista över e-postkonton hos flera postlådeprovider
 
    >[!CAUTION]
    >
-   >Du får ett begränsat antal av dessa Inbox Informant-kampanjer per månad. Om du vill se hur många du får kan du titta i dina 250ok **Kontoinställningar**. Kontakta er säljare på Marketo om du vill ha mer information.
+   >Du får ett begränsat antal av dessa Inbox Informant-kampanjer per månad. Om du vill se hur många du får kan du titta i din 250ok **Kontoinställningar**. Kontakta din Marketo-säljare om du vill ha mer information.
 
 ## Hämtar nya dirigeringslistor {#acquiring-new-seedlists}
 

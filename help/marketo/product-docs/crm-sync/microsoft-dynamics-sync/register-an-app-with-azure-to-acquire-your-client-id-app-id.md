@@ -3,10 +3,9 @@ unique-page-id: 12983390
 description: Registrera en app med Azure för att hämta ditt klient-ID/program-ID - Marketo Docs - produktdokumentation
 title: Registrera en app med Azure för att hämta ditt klient-ID/program-ID
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '349'
 ht-degree: 0%
 
 ---
@@ -15,9 +14,9 @@ ht-degree: 0%
 
 Azure Active Directory utökar dina lokala kataloger till molnet, vilket ger stöd för MS Dynamics 365 CRM med lokal ADFS-autentisering.
 
-## Registrerar en ny app {#registering-a-new-app}
+## Registrera en ny app {#registering-a-new-app}
 
-1. [Logga ](https://manage.windowsazure.com/) in på Microsoft Azure-hanteringsportalen med ett konto med administratörsbehörighet. Du kan även komma åt Microsoft Azure-portalen via administrationscentret för Office 365 genom att expandera **Admin**-objektet i den vänstra navigeringsrutan och välja **Azure AD**.
+1. [Logga in](https://azure.microsoft.com/en-us/account/) till Microsoft Azure-hanteringsportalen med hjälp av ett konto med administratörsbehörighet. Du kan även komma åt Microsoft Azure-portalen via administrationscentret för Office 365 genom att utöka **Administratör** objekt i den vänstra navigeringsrutan och markera **Azure AD**.
 
    >[!CAUTION]
    >
@@ -25,20 +24,20 @@ Azure Active Directory utökar dina lokala kataloger till molnet, vilket ger st�
 
    >[!NOTE]
    >
-   >Om du inte har något Azure-konto kan du [registrera dig](https://azure.microsoft.com/en-us/free/) för ett. Läs Microsoft-dokumentationen eller kontakta din Microsoft-representant om du vill ha mer information. När du har skapat ett Azure-konto kan du registrera ett eller flera program med hjälp av proceduren som beskrivs nedan.
+   >Om du inte har något Azure-konto kan du [registrera dig](https://azure.microsoft.com/en-us/free/) för en. Läs Microsoft dokumentation eller kontakta Microsoft för mer information. När du har skapat ett Azure-konto kan du registrera ett eller flera program med hjälp av proceduren som beskrivs nedan.
    >
    >
    >Om du har ett Azure-konto men din Office 365-prenumeration med Microsoft Dynamics 365 inte är tillgänglig i din Azure-prenumeration följer du [dessa instruktioner](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription) för att associera de två kontona.
 
-1. Sök och klicka på **Azure Active Directory** i den vänstra navigeringsrutan.
+1. Sök och klicka **Azure Active Directory** i den vänstra navigeringsrutan.
 
    ![](assets/two.png)
 
-1. Klicka på **Programregistreringar** under Hantera.
+1. Under Hantera klickar du på **Appregistreringar**.
 
    ![](assets/three.png)
 
-1. Klicka på **Ny registrering** överst på sidan.
+1. Klicka **Ny registrering** överst på sidan.
 
    ![](assets/four.png)
 
@@ -46,21 +45,21 @@ Azure Active Directory utökar dina lokala kataloger till molnet, vilket ger st�
 
    ![](assets/five.png)
 
-1. Du bör nu se din app på fliken **Programregistreringar**.
+1. Du bör nu se din app i **Appregistreringar** -fliken.
 
    ![](assets/six.png)
 
-## Konfigurerar programbehörigheter {#configuring-app-permissions}
+## Konfigurera programbehörigheter {#configuring-app-permissions}
 
-1. Klicka på det program du vill konfigurera behörigheter för under fliken **Programregistreringar** i din Active Directory.
+1. Under **Appregistreringar** i din Active Directory klickar du på det program du vill konfigurera behörigheter för.
 
    ![](assets/seven.png)
 
-1. Klicka på **API-behörigheter** under Hantera.
+1. Under Hantera klickar du på **API-behörigheter**.
 
    ![](assets/eight.png)
 
-1. Klicka på knappen **Lägg till en behörighet**.
+1. Klicka på **Lägg till en behörighet** -knappen.
 
    ![](assets/nine.png)
 
@@ -68,7 +67,7 @@ Azure Active Directory utökar dina lokala kataloger till molnet, vilket ger st�
 
    ![](assets/ten.png)
 
-1. Markera rutan **Använd gemensam datatjänst som organisationsanvändare***s** och klicka sedan på **Lägg till behörigheter.**
+1. Kontrollera **Få tillgång till gemensam datatjänst som organisationsanvändare***s** och klicka sedan på **Lägg till behörigheter.**
 
    ![](assets/eleven.png)
 
@@ -76,11 +75,11 @@ Azure Active Directory utökar dina lokala kataloger till molnet, vilket ger st�
 
    ![](assets/twelve.png)
 
-1. Klicka på **Bevilja administratörens samtycke**.
+1. Klicka på **Medgivande från bidragsadministratör** -knappen.
 
    ![](assets/thirteen.png)
 
-1. Bekräfta genom att klicka på **Ja**.
+1. Klicka **Ja** för att bekräfta.
 
    ![](assets/fourteen.png)
 

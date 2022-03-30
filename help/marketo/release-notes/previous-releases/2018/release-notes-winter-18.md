@@ -3,7 +3,7 @@ unique-page-id: 13795395
 description: Versionsinformation -vinter '18 - Marketo Docs - produktdokumentation
 title: Versionsinformation -vinter '18
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Följande funktioner finns i vinterversionen 18. Se om det finns funktioner i din Marketo-utgåva.
 
-Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion. **Obs**: Vissa av funktionerna i den här versionen har inte associerade artiklar. Om ett ämne har flera underrubriker placeras länkarna där.
+Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion. **Anteckning**: Vissa av funktionerna i den här versionen har inte associerade artiklar. Om ett ämne har flera underrubriker placeras länkarna där.
 
 ## Förbättringar av kampanjprestanda och dataflöde {#campaign-performance-and-throughput-enhancements}
 
@@ -24,9 +24,9 @@ Marketo utnyttjar vår big data-arkitektur för att öka kampanjens genomströmn
 
 Vi har två förbättringar av vår integrering med Salesforce CRM:
 
-* [Marketo Admin-](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) meddelanden om vissa CRM-synkroniseringsfel (inloggningsuppgifterna har upphört att gälla, API-gränser har uppnåtts osv.)
+* [Meddelanden från Marketo Admin](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) för vissa CRM-synkroniseringsfel (inloggningsuppgifterna har gått ut, API-gränser har uppnåtts osv.)
 
-* [Möjlighet att stänga av e-](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) postmeddelanden till lead-ägare vid leadtilldelning
+* [Möjlighet att stänga av e-postmeddelanden](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) till Leadägare vid leadtilldelning
 
 Dessa förbättringar kommer att öka under 2018.
 
@@ -54,15 +54,15 @@ Snabb skriptning stöds nu i e-postmeddelanden med dynamiskt innehåll. Kombiner
 
 **Mottagarens tidszon**
 
-* **[Månatlig sjuktid](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**: Vi har lagt till möjligheten att planera vårdsprogram på en månadskurs.
+* **[Månatlig sjukledighet](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**: Vi har lagt till möjligheten att planera vårdsprogram på en månadskurs.
 
 * **[Stoppa leverans](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**: Nu kan du stoppa alla återstående meddelanden som skickas mitt i körningen.
 
 ## Annonsnätverksintegrering {#ad-network-integrations}
 
-**[Google Customer Match Integration](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
+**[Google kundmatchningsintegrering](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
-Med den här integreringen kan ni skicka en Marketo-målgrupp till Google för målgruppsanpassning med Google AdWords, samt rikta om målgrupper i hela YouTube, Search och Gmail.
+Med den här integreringen kan ni skicka en Marketo-målgrupp till Google för målgruppsanpassning med hjälp av Google AdWords, samt målinrikta om målgrupper i YouTube, Search och Gmail.
 
 **[API-förbättring för linkedIn Matched Audiences](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
@@ -70,13 +70,13 @@ Med vårt nya LinkedIn-API kan ni nu rikta om personer i er Marketo-databas till
 
 ## Webbanpassning {#web-personalization}
 
-**Japansk datakälla för webbanpassning**
+**Japansk datakälla för Personalization för webben**
 
-Marketo lägger till ytterligare en japansk datakälla för webbpersonalisering för att förbättra identifieringen (omvänd IP-sökning) och personaliseringen för besökare som kommer från Japan. Organisationsnamn visas på japanska.
+Marketo lägger till ytterligare en japansk datakälla för Web Personalization för att förbättra identifieringen (omvänd IP-sökning) och personaliseringen för besökare som kommer från Japan. Organisationsnamn visas på japanska.
 
 **[Skapa ett webbsegment med hjälp av statiska listor](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
-Webbpersonalisering kan nu personalisera innehåll för en känd webbbesökare som ingår i en statisk lista som definieras i marknadsföringsaktiviteter (MLM). Med den här förbättringen kan ni nu marknadsföra statiska listor över alla kanaler och rikta in er på personer på dessa listor med personaliserat innehåll på er webbplats.
+Web Personalization kan nu personalisera innehåll för en känd webbbesökare som ingår i en statisk lista som definieras i marknadsföringsaktiviteter (MLM). Med den här förbättringen kan ni nu marknadsföra statiska listor över alla kanaler och rikta in er på personer på dessa listor med personaliserat innehåll på er webbplats.
 
 ## ContentAI {#contentai}
 
@@ -86,7 +86,7 @@ Innehåll som rekommenderas via Marketo optimerade ContentAI-algoritmer generera
 
 ## Integrering {#integration}
 
-**[Aktivera/inaktivera kampanj-API](https://developers.marketo.com/rest-api/assets/campaigns/)**
+**[Aktivera/inaktivera kampanj-API](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**
 
 Detta nya API gör att ni kan aktivera och inaktivera utlösarkampanjer via fjärranslutning, så att ni nu kan skapa helt automatiserade programmallar. Skapa en programmall en gång, automatisera kloningen, uppdatera marknadsföringsmaterialet och nu aktivera/schemalägga smarta kampanjer.
 
@@ -94,7 +94,7 @@ Detta nya API gör att ni kan aktivera och inaktivera utlösarkampanjer via fjä
 
 **Avbeställ uppdatering**
 
-Från och med den 1 mars 2018 kommer alla e-postmeddelanden som skickas från [ToutApp.com](https://ToutApp.com) (och med knappen &quot;Email with Tout&quot; i Salesforce) att ha en länk för att avbryta prenumerationen längst ned.
+Från 1 mars 2018 skickas alla e-postmeddelanden från [ToutApp.com](https://ToutApp.com) (och genom att använda knappen &quot;E-post med utgång&quot; i Salesforce) visas en länk för att avbryta prenumerationen längst ned.
 
 **Uppdatering av Live-feed**
 

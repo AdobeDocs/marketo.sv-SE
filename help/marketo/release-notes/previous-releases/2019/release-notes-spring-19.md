@@ -3,7 +3,7 @@ unique-page-id: 17728380
 description: Versionsinformation - våren 2019 - Marketo Docs - produktdokumentation
 title: Versionsinformation - våren 2019
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
-source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 0%
@@ -24,11 +24,11 @@ Följande funktioner släpptes 15 mars 2019.
 
 * **Väntelistat:** Ny program-/händelsestatus för väntelistor för en medlem när du vill [spärra dem](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) tills en ledig plats börjar. Detta gäller för kanaler som är associerade med Event-program i Marketo Classic, och både Event och Event med Webinar-program i Marketo Sky. Som standard har Väntelistat samma stegvärde som Registrerad.
 * **[Anpassad kommunikationsgräns](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**: Administratörer kan nu ange anpassade kommunikationsgränser per dag eller vecka.
-* **[Tillgångs-API:er för smarta kampanjer](https://developers.marketo.com/rest-api/assets/campaigns/)**: Förbättra era analyser utanför Marketo genom att hämta smarta kampanjposter med uppdaterat datum och ID.
+* **[Tillgångs-API:er för smarta kampanjer](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**: Förbättra era analyser utanför Marketo genom att hämta smarta kampanjposter med uppdaterat datum och ID.
 * **HTTPS-spårningslänkar för e-post:** För kunder som har köpt&quot;säkra domäner för spårningslänkar&quot; kan nu varumärkesanpassade spårningslänkar visas i dina e-postmeddelanden som HTTPS.
 * **PowerPack-uppdateringar för e-postleverans**: Möjlighet att flagga och kommentera specifika testresultat, dela resultat med intressenter via en webbadress och spåra ändringar för att se hur ett e-postmeddelande utvecklas när intressenter redigerar innehåll.
 
-Kontobaserad marknadsföring
+Account-Based Marketing
 
 **[AccountAI](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)** Nu allmänt tillgängligt. AccountAI använder artificiell intelligens för att identifiera de konton ni bör inrikta er på för er ABM-strategi.
 

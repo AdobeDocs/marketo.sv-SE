@@ -3,9 +3,9 @@ unique-page-id: 8160678
 description: Versionsinformation -juni 2015 - Marketo Docs - produktdokumentation
 title: Versionsinformation -juni 2015
 exl-id: 5a26121f-a168-4bb6-b471-aca1f343e4c2
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -16,8 +16,4 @@ Följande funktioner ingår i versionen från juni 2015. Kontrollera om det finn
 
 ## [E-postrapport om attribut](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) {#attribution-email-report}
 
-Se hur värdefull personalisering och rekommenderat innehåll kan användas i era marknadsföringsaktiviteter. [E-postrapporten om attribuering ](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) visar de direkta och assisterade leads som härrör från RTP:s personalisering och rekommenderade innehållskampanjer. I RTP:er, Användarinställningar och E-postrapport lägger du till e-postrapporten om attribuering för att få e-post varje månad eller kvartal.
-
-## Vill du påverka vår färdplan? {#want-to-influence-our-roadmap}
-
-Betygsätt Marketo med det här [snabbrapportkortet](https://www.surveymonkey.com/s/VG9YCT5). Vi använder dina indata för att hjälpa till med planen för 2016 och framåt!
+Se hur värdefull personalisering och rekommenderat innehåll kan användas i era marknadsföringsaktiviteter. [Attribution Email Report](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) visar de direkta och assisterade leads som härrör från RTP:s personalisering och rekommenderade innehållskampanjer. I RTP:er, Användarinställningar och E-postrapport lägger du till e-postrapporten om attribuering för att få e-post varje månad eller kvartal.

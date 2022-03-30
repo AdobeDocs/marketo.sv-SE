@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: fb663ddf4c0021f258317636fbc7794e8172ab7e
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '8616'
+source-wordcount: '8637'
 ht-degree: 0%
 
 ---
@@ -1273,6 +1273,10 @@ ht-degree: 0%
          + Kampanjer {#campaigns}
             + [Lägg till i marknadsföringskampanj](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
             + [Kampanjen har avslutats](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
+            + [Skapa en försäljningskampanj](product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md)
+            + [Inställningar för försäljningskampanj](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md)
+            + [Säljkampanjer, sändningsalternativ för e-poststeg](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md)
+            + [Stegtyper för säljkampanj och påminnelseaktiviteter](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md)
             + [Visa kampanjlistan som en annan användare](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
          + CRM {#crm}
             + Salesforce-anpassning {#salesforce-customization}

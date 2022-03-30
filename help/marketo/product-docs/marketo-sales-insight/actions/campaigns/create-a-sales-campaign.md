@@ -3,9 +3,9 @@ description: Skapa en försäljningskampanj - Marketo Docs - produktdokumentatio
 title: Skapa en försäljningskampanj
 hide: true
 hidefromtoc: true
-source-git-commit: e1eaabc8fc943291b026ab8e9919e5705e5c9046
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -66,7 +66,7 @@ Nu är det dags att börja lägga till folk i kampanjen!
 
 >[!MORELIKETHIS]
 >
->* Om sändningsalternativ för försäljningskampanj för e-poststeg
+>* [Säljkampanjer, sändningsalternativ för e-poststeg](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md){target=&quot;_blank&quot;}
 >* [Stegtyper för säljkampanj och påminnelseaktiviteter](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target=&quot;_blank&quot;}
->* Inställningar för försäljningskampanj
+>* [Inställningar för försäljningskampanj](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target=&quot;_blank&quot;}
 

@@ -3,9 +3,9 @@ unique-page-id: 10094114
 description: Versionsinformation - hösten 2015 - Marketo Docs - produktdokumentation
 title: Versionsinformation - hösten 2015
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '995'
+source-wordcount: '991'
 ht-degree: 0%
 
 ---
@@ -44,11 +44,11 @@ Skapa enkelt anpassade objekt från administratörsgränssnittet. Vi stöder fö
 
 [Marketo Insights for Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-Vi är glada över att kunna meddela att en uppdatering av vårt Google Mail Sales Insight-tillägg har släppts! Visa den i [Chrome Store](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
+Vi är glada över att kunna meddela att en uppdatering av Google Mail Sales Insight har släppts! Visa den i  [Chrome Store](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
 
 Den här uppdateringen innehåller många nya funktioner:
 
-* Innan säljarna engagerar sig kan de se relevant information om sina prospects direkt i Google Mail, bland annat jobbtitlar, twitter-profiler, företagsinformation, foton med mera.
+* Innan de engagerar kan säljarna se relevant information om sina prospects direkt i Google Mail, bland annat jobbtitlar, twitter-profiler, företagsinformation, foton med mera.
 * Säljarna kan i realtid se vilket innehåll som presumtiva kunder interagerar med över olika kanaler, som e-post som öppnats eller klickats, online- eller personliga event som besökts, webbsidor som besökts, e-böcker som laddats ned och mycket annat.
 * E-postmeddelanden som skickas via Google Mail loggas i Marketo och spåras i realtid. På så sätt kan säljarna se när potentiella kunder tittar på sina e-postmeddelanden så att de kan följa upp vid precis rätt tidpunkt. Marketo Sales Insight för Google Mail gör det också enkelt för säljarna att utnyttja mallar som skapats av marknadsföring för att skicka vackra inbjudningar, erbjudanden och andra typer av innehåll.
 
@@ -60,11 +60,11 @@ Den här uppdateringen innehåller många nya funktioner:
 * [Skicka exempel](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
 * [Förhandsgranska](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
-Anpassa enkelt push-meddelanden med [tokens](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
+Anpassa enkelt push-meddelanden med [variabler](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-Du kan även [förhandsgranska](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) eller skicka ut ett [exempel](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)-push-meddelande innan du distribuerar det till kunder.
+Du kan också [förhandsgranska](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) eller skicka ut [exempel](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) push-meddelanden innan ni distribuerar dem till kunderna.
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
@@ -85,7 +85,7 @@ Statistik om e-postmeddelanden som skickas via smarta kampanjer är nu tillgäng
 
 ## RTP - Innehållsanalys och Recommendations {#rtp-content-analytics-and-recommendations}
 
-[Content ](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) Analytics och Recommendations
+[Innehållsanalys](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) och Recommendations
 
 RTP Content Analytics visar hur ert webbinnehåll fungerar genom regelbundna webbbesök och även besök som genererats av RTP:s rekommendationsmotor.
 
@@ -96,7 +96,7 @@ RTP Content Analytics visar hur ert webbinnehåll fungerar genom regelbundna web
 RTP:s Assets-sida är nu uppdelad i Content Analytics och Content Recommendations.
 
 * **Innehållsanalys:** Visar vyer och direkta leads för allt identifierat och definierat webbinnehåll, vilket hjälper dig att analysera ditt bästa innehåll
-* **Recommendations** Content: Visar visningar och klickningar från RTP:s rekommenderade innehåll och tillhörande leadattribuering. Du kan också redigera och aktivera innehållsrekommendationer från den här sidan för [bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) och [multimedia](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)-rekommendationerna.
+* **Innehåll Recommendations**: Visar visningar och klickningar från RTP:s rekommenderade innehåll och tillhörande leadattribuering. Du kan även redigera och aktivera innehållsrekommendationer från den här sidan för [bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) och [multimedia](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) rekommendationer.
 
 * Alla direkta lead-data på dessa två sidor har uppdaterats retroaktivt sedan början av året (1 januari 2015).
 
@@ -126,7 +126,7 @@ Vi gör flera förbättringar i textredigeraren. Efter att vi släppt den uppdat
 
 * Fyll inte ut tomma tabellceller med `&nbsp;`
 
-* Knappen Maximera/minimera som lagts till i HTML-källredigeraren
+* Knappen Maximera/minimera som lagts till i källredigeraren i HTML
 * Befintliga tabellegenskaper identifieras och visas nu i dialogrutan Tabellegenskaper
 * Båda knappraderna visas nu som standard.
 * Redigeraren godkänner nu alla element (även inaktuella eller icke-standardelement):
@@ -161,7 +161,7 @@ Lägg enkelt till nya fält i anpassade objekt som synkroniserats från Salesfor
 
 ## Stöd för IE 11 (och stöd för IE 9 tas bort) {#ie-support-and-deprecating-support-for-ie}
 
-Nu har vi officiellt stöd för webbläsaren Microsoft Internet Explorer 11 och håller på att ta bort stöd för webbläsaren Microsoft Internet Explorer 9.
+Nu har vi officiellt stöd för webbläsaren Microsoft Internet Explorer 11 och tar bort stödet för webbläsaren Microsoft Internet Explorer 9.
 
 ## Lightning UI-stöd för MSI {#lightning-ui-support-for-msi}
 
@@ -173,4 +173,4 @@ Det nya plugin-programmet kör olika åtgärder i asynkront läge för att öka 
 
 ## Sök på URL för landningssida i Design Studio {#search-by-url-of-landing-page-in-design-studio}
 
-I sidstödrastret Design Studio Landing kan du nu söka efter landningssidor via sid-URL. Detta kan också exporteras.
+I sidstödrastret Design Studio Landing kan du nu söka efter landningssidor via sid-URL:en. Detta kan också exporteras.
