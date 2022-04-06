@@ -2,16 +2,16 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: c0699a888c6763f164e197395883c1c435fb782c
+source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '800'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: Mars 2022 {#release-notes-mar-22}
+# Versionsinformation: Maj 2022 {#release-notes-may-22}
 
-Följande funktioner finns i mars 22. Se om det finns funktioner i Adobe Marketo Engage Edition.
+Här nedan hittar du alla funktioner som ingår i versionen från maj 22. Se om det finns funktioner i din Adobe Marketo Engage-utgåva.
 
 >[!AVAILABILITY]
 >
@@ -19,62 +19,52 @@ Följande funktioner finns i mars 22. Se om det finns funktioner i Adobe Marketo
 
 **_Kvartalsvisa releaser_**
 
-Följande funktioner kommer att lanseras den **11 mars 2022**, med en fasad utrullning av alla funktioner under de följande veckorna (om inget annat anges).
+Följande funktioner kommer att lanseras den **6 maj 2022**, med en stegvis utrullning av återstående funktioner under de följande veckorna (om inget annat anges).
+
+## Integrering med CRM {#native-crm-integration}
+
+**Integrering av veeva CRM (begränsad tillgänglighet)**: Förbättra engagemanget hos hälso- och sjukvårdspersonal genom att synka aktiviteten mellan Veeva VRM och Marketo Engage via inbyggd integrering. Tack vare den här integreringen kan marknadsförarna skapa mer personaliserade och sömlösa upplevelser över flera kanaler för hälso- och sjukvårdspersonal. Kontakta din Customer Success Manager om du är intresserad av att delta.
 
 ## Flerkanalsmarknadsföring {#cross-channel-orchestration}
 
-* **Dynamiskt chatt**: Maximera alla möjligheter på er webbplats genom att rikta in er på både leads och konton med proaktiva, engagerande och personliga konversationer. [Dynamiskt chatt](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)Med {target=&quot;_blank&quot;} kan Marketo Engage-användare börja använda chatt som en viktig del av integrerade upplevelser över flera kanaler för B2B-marknadsföring och säljtillfällen. Funktioner: möjlighet att boka möten direkt i chatten, lead-routning, startmallar, dra-och-släpp-konversation och mycket annat. Dynamic Chat ingår i alla paket med Marketo Engage och kommer att lanseras för alla Marketo Engage i år.
+**Chatbot Events for Dynamic Chat**: Utnyttja mer detaljerade beteendedata för webbbesökare som t.ex. tid på sidan, tid på webbplatsen och procent för sidrullning för att definiera när en chattdialog ska visas.
 
-* **Förbättring av filtrering av e-poststartaktivitet**: Som en förbättring av tidigare släppta [Filtrering av startaktivitet för e-post](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;} kan du nu välja att logga aktiviteter som identifieras som bots. Du kan sedan filtrera och utlösa åtgärder baserat på aktiviteter som identifieras som utförda av bots.
+**PDF Embed for Dynamic Chat**: Öka engagemanget och dela meningsfullt innehåll genom att bädda in PDF i chattdialogrutor och mäta innehållets prestanda med hjälp av uppföljning av engagemangsaktiviteter.
 
-## Nästa generations upplevelse {#next-generation-experience}
+**Utökat språkstöd för dynamiskt chatt**: Användargränssnittet Dynamic Chat finns nu även på franska, tyska, japanska, portugisiska och spanska. Chattdialogrutor kan även konfigureras på dessa språk.
 
-* **Uppdaterade skärmar i nästa generation**: Vi levererar nya, uppdaterade skärmar i nästa generation av upplevelser som erbjuder uppdaterade design- och användarvänlighetsförbättringar som är tillgängliga via växlingsfunktion:
+**Uteslut URL:er för dynamiskt chatt**: Styr vilken av dina webbsidor Dynamic Chat ska visas med möjligheten att utesluta specifika URL:er från kriterier för målanpassning.
 
-   * Formulärlistvy i Design Studio (inklusive nya massåtgärder)
+**Förbättrad filtrering av e-poststartaktivitet**: Fortsätt att skydda databasens hälsa med möjligheten att identifiera båda beteenden baserat på dolda länkar, användaragenter eller IP-adresser och närhetsmönster, utöver den befintliga IAB-listan, matchar identifiering. Visa startaktivitetsstatistik som gör att du kan förstå antalet båda aktiviteter som identifieras för varje typ.
 
-* **Uppdatera importprogramarbetsflöde**: Arbetsflödet för importprogram levereras i nästa generation med uppdaterade design- och användarförbättringar. Detta blir en automatisk ändring utan en växlingsknapp.
+**STS Header for Email Tracking Links**: Följ vedertagna säkerhetsstandarder med möjlighet att lägga in säkra transportsäkerhetsrubriker för att säkerställa att trafik till spårade länkar alltid är säker.
 
-* **Administratörskontroll för nästa generations växel för Experience Toggle**: Hantera lanseringen av nästa generation av upplevelser på ett sätt som fungerar för dina användare och gör det möjligt för administratörer att välja vilka användartyper som kan få åtkomst till växlingsfunktionen.
+## Nästa generations upplevelse {#next-generation-experience}
 
-## Experience Automation {#experience-automation}
+**Växla som standard till nästa generations upplevelse**: Växlingsknappen kommer att vara standard för den nya upplevelsen på alla skärmar där den är tillgänglig, vilket gör det enklare för användarna att upptäcka de uppdaterade designförbättringarna och användbarhetsförbättringarna.
 
-* **Självbetjäningsflödessteg (beta)**: Utöka anslutningsmöjligheterna mellan Marketo Engage och resten av högen med möjligheten att skapa anpassade flödessteg som kan användas i smarta kampanjer. Både Marketo användare och partners kan utnyttja den här funktionen för att möjliggöra användning av externa webbtjänster i både gruppkampanjer och körbara kampanjer, i motsats till webbhooks, som bara kan användas i utlösarkampanjer.
+**Uppdaterad skärm i nästa generation**:
 
-* **Resursens förfallodatum**: Behåll kontrollen över era tidskänsliga resurser och kampanjer genom att schemalägga deras automatiska inaktivering vid ett visst datum och en viss tidpunkt i den klassiska användarupplevelsen.
+Vi levererar detaljvy för e-postmallar i Design Studio i nästa generation av upplevelser, med uppdaterade design- och användarvänlighetsförbättringar som är tillgängliga via växlingsfunktion.
 
-* **Åsidosättning av prioritet för smart kampanj**: Se till att högprioriterade Smart Campaigns körs så snart som möjligt med möjlighet att åsidosätta standardprioritetsordningen för kampanjer. Smarta kampanjer med lägre prioritet kan också minskas i prioritet för att frigöra bearbetningsresurser för andra högprioriterade uppgifter.
+## Experience Automation {#experience-automation}
+
+**Självbetjäningsflödessteg (forts. beta)**: Utöka anslutningsmöjligheterna mellan Marketo Engage och resten av högen med möjligheten att skapa anpassade flödessteg som kan användas i smarta kampanjer. Både användare och partners i Marketo Engage kan utnyttja den här funktionen för att möjliggöra användning av externa webbtjänster i utlösar-, batch- och körbara kampanjer (till skillnad från webbhookar som bara kan användas i utlösarkampanjer).
 
 ## API-förbättringar {#api-enhancements}
 
-* **Returnera inaktiverad status för e-postspårning vid öppen spårning**: Tillåter läsning av e-postmeddelanden med statusen öppen spårning via API
-* **Hämta ämnesrader för dynamiskt innehåll från e-post**: Gör det möjligt för marknadsförare att analysera dynamiska ämnesrader i BI-verktyg
-* **Anpassade fält för programmedlemmar**: Låter marknadsförare programmässigt skapa anpassade fält för programmedlemmar
-* **Export av anpassat objekt i grupp uppdaterad vid filter**: Låter marknadsförare programmässigt synkronisera anpassade objekt
-* **Dispose Head Start Setting for Email Programs**: Gör att marknadsförare kan konfigurera e-postprogram med förstartsstart via API
-* **Selektiv programtagguppdatering**: Marknadsförarna kan pusha selektiva tagguppdateringar utan att skjuta på alla taggar samtidigt
-* **ÅtgärdResultatfält för massaktivitetsextrahering**: Låter marknadsförarna identifiera vilka aktiviteter som hoppades över eller misslyckades
-
-**_Frigör under hela kvartalet_**
-
-Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas under de kommande månaderna.
-
-## Bizible {#bizible}
-
-![(stjärna)](assets/yellow-star.png)
-
-* **BI-mallar**: Bizible kommer nu att innehålla nedladdningsbara, grundläggande rapporteringsartefakter och exempelrapporter för Tableau och Power BI för snabb utveckling av anpassade rapporter som är anpassade för just era affärsbehov.
-
-## Sales Connect {#sales-connect}
-
-![(stjärna)](assets/yellow-star.png)
-
-* **Begränsning av e-postanslutning (GA)**: Begränsning av e-postanslutning gör att Sales Connect-administratörer kan konfigurera sändningsfrekvensen för e-postmeddelanden när Gmail eller Exchange används som leveranskanal, så att den hastighet med vilken e-postmeddelanden skickas till leveranskanalleverantören inte överskrider de tvingande gränserna.
+* **Utökad API-åtkomst för CRM-aktiverade prenumerationer**: Vi utökar API-åtkomsten för prenumerationer som har en CRM-synkronisering aktiverad så att användare kan hämta företag, säljprojekt och säljare från Marketo Engage.
+* **Stöd för&quot;dolda&quot; datatyper i Forms**: Ger möjlighet att hantera dolda formulärfält via API.
+* **Stöd för flera jämförelsevärden för isNot-formulär via regler**: Hantera synlighet för formulärfält baserat på om värdet för ett annat fält inte är ett av värdena i en given lista.
+* **Tillåt inställning av Visa och Skickade värden i Välj listor separat**: Ange visningsvärdet och det skickade värdet separat i ett fält. Visa till exempel namnet på ett hotell, men skicka ett internt ID till serverdelen.
+* **Tillåt inställning av Inaktivera Open Tracking vid skapande eller uppdatering av e-post**: Skapa ett e-postmeddelande med öppen spårning inaktiverat.
 
 ## Meddelanden {#announcements}
 
-* **Borttagning av Marketo Sky**: I mars kommer Marketo Sky inte längre att vara tillgänglig eftersom vi fokuserar på att leverera nästa generations användarupplevelser. I ett försök att behålla åtkomst till funktioner som är exklusiva för Marketo Skyn idag, tar vi bort förfallodatum för resurser och åsidosättning av Smart Campaign-prioritet i den klassiska upplevelsen. [Klicka här](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33) om du vill veta mer.
+**E-postverifiering och unikhet**: Från och med april påbörjas utrullningen av e-postverifieringen. I det läget kommer Marketo Engage-användares e-postadresser att kräva verifiering och unikhet (detta gäller inte endast API-användare). Katalogtjänstautentiserade användare får automatiskt sina e-postmeddelanden verifierade när deras prenumeration aktiveras med e-postverifiering.
+
+Verifiering via e-post för prenumerationer med funktionen Inbjudan till användare, eller som har ett enda e-postmeddelande kopplat till flera användare, sammanfaller med majversionen. Prenumerationer som har ett enda e-postmeddelande kopplat till flera användare aktiveras med e-postverifiering och kräver att dessa användare löser konflikten och använder ett unikt e-postmeddelande per användare. När funktionen&quot;Logga in i inbjudan till användare&quot; är aktiverad måste användare som bjudits in via den här funktionen ha en unik e-postadress. För API-användare som bjudits in via den här funktionen behöver e-postadressen inte vara unik.
 
 **_Product Release Webinar_**
 
-Besök oss den 11 maj 2022 kl. 9.00 PT/12.00 ET för en [live webbinarium](https://engage.marketo.com/2022_March_May_Release_Webinar_RegistrationPage.html) som hanteras av vårt produktteam där du kan lära dig att använda alla de senaste produktinnovationerna.
+Besök oss den 11 maj 2022 kl. 9.00 PT/12.00 ET för en [live webbinarium](https://engage.marketo.com/2022_March_May_Release_Webinar_RegistrationPage.html){target=&quot;_blank&quot;} som hanteras av vårt produktteam där du kan lära dig att använda alla de senaste produktinnovationerna.
