@@ -1,11 +1,10 @@
 ---
 description: Lägg till behörighetsuppsättning för Sales Insight - Marketo Docs - produktdokumentation
 title: Lägg till behörighetsuppsättning för försäljningsinsikter
-hide: true
-hidefromtoc: true
-source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
+exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
+source-git-commit: d9876d73561d63dea4e46b0dfd191082f262baf6
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '379'
 ht-degree: 0%
 
 ---
@@ -85,31 +84,29 @@ Följ de här stegen för att lägga till åtkomst till Sales Insight-funktioner
 
 1. Logga in på ditt Salesforce-konto.
 
-PICC
-
 1. Klicka **Inställningar**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-1.png)
 
 1. Under Administratör klickar du för att ta bort **Hantera användare** sedan **Användare**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-2.png)
 
 1. Under Alla användare väljer du den användare som du vill ge åtkomst till och klickar sedan på **Tilldelningar för behörighetsuppsättning**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-3.png)
 
 1. Klicka **Redigera uppdrag**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-4.png)
 
 1. Välj **Marketo App Access** från de tillgängliga behörighetsgrupperna, och **Lägg till**. Klicka **Spara**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-5.png)
 
 1. När du rullar nedåt på sidan Användarinformation visas Marketo App Access under Tilldelningar av behörighetsuppsättningar.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-6.png)
 
 >[!NOTE]
 >
