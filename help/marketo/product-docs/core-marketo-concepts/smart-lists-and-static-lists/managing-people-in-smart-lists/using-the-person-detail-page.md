@@ -3,8 +3,7 @@ unique-page-id: 2953415
 description: Använda personinformationssidan - Marketo Docs - produktdokumentation
 title: Använda personinformationssidan
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 13%
@@ -19,11 +18,11 @@ Personinformationssidan innehåller all information som Marketo känner till om 
 
 Det finns många sätt att öppna specifika personer. Några exempel är:
 
-* I **databasen** kan du söka i Snabbsökning
-* Valfri smart **lista** eller lista
-* **Medlemskap** i ett program
-* **Visa kampanjmedlemskap** i en smart kampanj
-* Vissa **rapporter**
+* Från **Databas** kan du söka i Snabbsökning
+* Valfri smart **list** eller lista
+* **Medlemmar** flik i ett program
+* **Visa kampanjmedlemmar** i en smart kampanj
+* Några **rapporter**
 
    <br> 
 
@@ -55,13 +54,13 @@ Personinformation kategoriseras på följande flikar:
 | Info | Kontaktinformation och anpassade fält om en person. |
 | Företagsinformation | Personens företagsinformation och adress. |
 | Information om affärsmöjlighet | Information om affärsmöjlighet synkroniserad från Microsoft. |
-| Anpassade fält från Microsoft | Anpassade Microsoft-fält. |
-| Microsoft Lead-fält | Inbyggda Microsoft-fält. |
+| Microsoft anpassade fält | Anpassade Microsoft-fält. |
+| Microsoft Lead Field | Inbyggda Microsoft-fält. |
 | Aktivitetslogg | Alla aktiviteter som rör personen. |
 
 >[!NOTE]
 >
->Du kan även se säljprojektsinformation [infogad via API](http://developers.marketo.com/rest-api/lead-database/opportunities/) för instanser som inte synkroniseras med en CRM.
+>Du kan även se information om säljprojekt [infogat via API](https://developers.marketo.com/rest-api/lead-database/opportunities/) för instanser som inte har synkroniserats med en CRM.
 
 ## Redigera ett fält {#editing-a-field}
 
@@ -94,16 +93,14 @@ Många fält kan redigeras. Om du vill uppdatera en persons information skriver 
 
 >[!NOTE]
 >
->Vissa fält är _inte_ redigerbara:
+>Vissa fält är _not_ redigerbar:
 >
 >* Aktivitetslogg
 >* Företagsinformation
 >* Möjligheter för SFDC-kontakter
 >* Vissa Marketo-specifika fält, t.ex. Skapad och Ursprunglig källtyp.
-
 >
->
-Läs mer om [Systemhanterade fält](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
+>Läs mer om [Systemhanterade fält](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
 
 >[!MORELIKETHIS]
 >

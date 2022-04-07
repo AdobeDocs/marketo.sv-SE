@@ -1,17 +1,16 @@
 ---
 unique-page-id: 11382829
 description: Marketo Outlook Plugin Uninstall by IT - Marketo Docs - Produktdokumentation
-title: Marketo Outlook Plugin - avinstallation av IT
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+title: Avinstallera Marketo Outlook-plugin med IT
+exl-id: 678684da-3e99-462f-9950-504df1c1bb1e
+source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
-
-# Marketo Outlook Plugin Uninstall av IT {#marketo-outlook-plugin-uninstall-by-it}
+# Avinstallera Marketo Outlook-plugin med IT {#marketo-outlook-plugin-uninstall-by-it}
 
 Så här kan IT-avdelningen fjärravinstallera Marketo Outlook-pluginprogrammet.
 
@@ -49,4 +48,4 @@ Om du vill ange en plats för loggfilerna kan du ange filsökvägen på kommando
 >
 >Om du avinstallerar plugin-programmet från en fjärrdator stängs Outlook på användarens dator.
 
-Se [Microsofts fullständiga lista över växlar](https://support.microsoft.com/en-us/kb/227091) om du vill prova olika loggningsnivåer eller användargränssnittsnivåer.
+Se [Microsoft kompletta lista över switchar](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) om du vill prova olika loggningsnivåer eller användargränssnittsnivåer.

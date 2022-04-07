@@ -1,12 +1,10 @@
 ---
 description: Flow Step Service - Marketo Docs - produktdokumentation
 title: Flödesstegstjänst
-hide: true
-hidefromtoc: true
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
-source-git-commit: 99ad4c68b8ab635f6eb6f7f0f53cb67ee3efc51c
+source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
 workflow-type: tm+mt
-source-wordcount: '1325'
+source-wordcount: '1292'
 ht-degree: 0%
 
 ---
@@ -15,17 +13,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Den här förhandsversionen är för närvarande endast tillgänglig för konton som är registrerade i självbetjäningsflödesstegprogrammet.
+>Självbetjäningsflödessteg är för närvarande i Open Beta. Du kan aktivera den för din prenumeration på menyn Admin > Treasure Chest.
 
-Självbetjäningsflödessteg är ett ramverk och en uppsättning funktioner för att skapa, publicera och integrera webbtjänster i smarta webbkampanjer i Adobe Marketo Engage. Handboken är avsedd för användare av Marketo Engage som vill installera och använda tjänster som redan har skapats och publicerats. Information om hur du skapar och publicerar din egen tjänst finns i [GitHub-databas för Service Provider Interface](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface). En implementering av en konceptbelagd söktabell finns [här](https://github.com/adobe/mkto-flow-lookup).
+Självbetjäningsflödessteg är ett ramverk och en uppsättning funktioner för att skapa, publicera och integrera webbtjänster i smarta webbkampanjer i Adobe Marketo Engage. Handboken är avsedd för användare av Marketo Engage som vill installera och använda tjänster som redan har skapats och publicerats. Information om hur du skapar och publicerar din egen tjänst finns i [GitHub-databas för Service Provider Interface](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target=&quot;_blank&quot;}. En implementering av en konceptbelagd söktabell finns [här](https://github.com/adobe/mkto-flow-lookup){target=&quot;_blank&quot;}.
 
 ## Restriktioner och varningar före lansering {#pre-release-restrictions-and-warnings}
 
-Den här funktionen är för närvarande i en sluten betaversion och har vissa användningsbegränsningar.
-
-* Den här funktionen kan bara användas i sandlådeinstanser av Marketo Engage
-* Anpassade och tredjepartsflödessteg är inte kompatibla med körbara kampanjer från och med Q4 2021. Detta planeras att fastställas under andra kvartalet 2022
-* Marketo Skyns användargränssnitt ska inte användas alls i instanser med den här funktionen aktiverad
+Den här funktionen är för närvarande i en öppen betaversion och bör endast användas i sandlådeinstanser av Marketo Engage tills tjänsten har testats fullständigt.
 
 ## Onboarding och Managing Services {#onboarding-and-managing-services}
 
