@@ -2,16 +2,16 @@
 description: Översikt - Marketo Docs - produktdokumentation
 title: Översikt
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: a21db1586166b7530bbbb18759752ef834cdc46a
+source-git-commit: 0d1762d9a5607d72af625aafbf7b9f412d6713c1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1016'
 ht-degree: 0%
 
 ---
 
 # Översikt {#overview}
 
-Om du har ett nytt konto hos Adobe Marketo Engage (nytt konto, inte bara en ny instans för ett befintligt konto) från och med den 15 februari 2022, kan det komma att integreras med Adobe Identity Management System, beroende på vilket produktpaket du köper. Om du vill ta reda på om du har den kontaktar du Marketo Admin eller kontots Customer Success Manager.
+Om du har ett nytt konto hos Adobe Marketo Engage (nytt konto, inte bara en ny instans för ett befintligt konto) från och med den 15 februari 2022, kan det integreras med Adobe Identity Management System, beroende på vilket produktpaket som köpts. Om du vill ta reda på om du har den kontaktar du Marketo Admin eller kontots Customer Success Manager.
 
 Befintliga Marketo-prenumerationer kommer att migreras till Adobe Identity Management System som börjar senare i år.
 
@@ -21,7 +21,7 @@ Befintliga Marketo-prenumerationer kommer att migreras till Adobe Identity Manag
 
 ## Profilnivåer {#profile-levels}
 
-Prenumerationer på Adobe Marketo Engage som är kopplade till Adobe Identity Management System har stöd för olika profiler. Följande typer av användarprofiler är relevanta för den här integreringen.
+Adobe Marketo Engage prenumerationer på Adobe Identity Management System har stöd för olika profiler. Följande typer av användarprofiler är relevanta för den här integreringen.
 
 <table>
  <tr>
@@ -77,6 +77,10 @@ Ja. De som har anslutit sig till Adobe IMS kan inte utnyttja alla befintliga API
 **Vem kontaktar vi för support om vi är integrerade med IMS?**
 
 Du följer då standardproceduren för att kontakta [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
+
+**Om jag använder en Adobe-identitet för att få åtkomst till andra Adobe-program, kan jag använda den för att få åtkomst till Marketo?**
+
+Även om du har andra Adobe-produkter kan du inte komma åt Marketo med Adobe Identity förrän prenumerationen migreras till IMS.
 
 **Hanteras Marketo användarroller (i arbetsytor) i Adobe Admin Console?**
 

@@ -3,10 +3,9 @@ unique-page-id: 2950660
 description: Skapa egna taggar - Marketo Docs - produktdokumentation
 title: Skapa egna taggar
 exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0d1762d9a5607d72af625aafbf7b9f412d6713c1
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -17,7 +16,7 @@ Taggar hjälper dig att organisera dina program medan kanaler hjälper dig att s
 
 >[!NOTE]
 >
->Mer information finns i [Förstå taggar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md).
+>Checka ut [Taggar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) för mer information.
 
 >[!NOTE]
 >
@@ -27,36 +26,44 @@ Taggar hjälper dig att organisera dina program medan kanaler hjälper dig att s
 
 Så här skapar du en ny taggtyp:
 
-1. Gå till avsnittet **Admin**.
+1. Gå till **Administratör** -avsnitt.
 
-   ![](assets/image2015-4-23-14-3a37-3a48.png)
+   ![](assets/create-custom-tags-1.png)
 
-1. Klicka på **Taggar**.
+1. Klicka **Taggar**.
 
-   ![](assets/image2015-4-23-14-3a41-3a18.png)
+   ![](assets/create-custom-tags-2.png)
 
-1. Klicka på **Ny** och välj **Ny taggtyp.**
+1. Klicka **Nytt** och markera **Ny taggtyp.**
 
-   ![](assets/image2015-4-23-14-3a42-3a45.png)
+   ![](assets/create-custom-tags-3.png)
 
-1. Ange ett namn för taggtypen ****.
+1. Ange ett namn för taggtypen.
 
-   ![](assets/image2015-4-23-14-3a48-3a58.png)
+   ![](assets/create-custom-tags-4.png)
 
-1. Ange önskat **värde** som taggtyp. Klicka på **Lägg till en annan** om du vill ange ytterligare taggvärden.
+1. Ange önskat värde för taggtypen. Klicka **Lägg till ytterligare** om du vill ange ytterligare värden.
 
-   ![](assets/image2015-4-22-11-3a30-3a30.png)
+   ![](assets/create-custom-tags-5.png)
 
-1. Välj vilka programtyper som den här taggen gäller för.
+1. Välj vilken eller vilka programtyper taggen gäller för.
 
-   ![](assets/image2015-4-22-11-3a39-3a7.png)
+   ![](assets/create-custom-tags-6.png)
+
+1. Bestäm om du vill att den här taggen ska användas för alla programtyper som visas.
+
+   ![](assets/create-custom-tags-7.png)
 
    >[!NOTE]
    >
-   >Välj **Krävs för alla program** om du vill lägga till den här taggen när som helst när ett nytt program skapas.
+   >* Välj Obligatoriskt om du vill att den här taggen ska läggas till när ett nytt program skapas.
+   >* Om du tar bort en programtyp från listan Tillämpar på tas taggen och dess värden bort från alla befintliga program av den typen. Om du vill bevara befintliga taggvärden och göra den här taggen valfri att flytta framåt för _alla_ som visas lämnar du kryssrutan Obligatorisk omarkerad.
 
-1. Klicka på **Skapa** för att spara.
 
-   ![](assets/image2015-4-22-11-3a38-3a34.png)
+   >[!TIP]
+   >
+   >Om du vill göra en liknande tagg nödvändig för vissa programtyper men valfri för andra, måste du skapa två separata taggar, som båda gäller för olika programtyper där den ena är markerad med&quot;Obligatorisk&quot; och den andra med&quot;Obligatorisk&quot; inte markerad.
 
-   Så ja! Nu kan du skapa egna taggar för dina program.
+1. Klicka **Skapa**.
+
+   ![](assets/create-custom-tags-8.png)
