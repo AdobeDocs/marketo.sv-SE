@@ -1,9 +1,10 @@
 ---
 description: Sales Insight for Non-Native MS Dynamics Integrations - Marketo Docs - produktdokumentation
 title: Sales Insight for Non-Native MS Dynamics Integrations
-source-git-commit: fb663ddf4c0021f258317636fbc7794e8172ab7e
+exl-id: 07613ff8-b197-4a3d-88e9-720b68a6b8da
+source-git-commit: ff076d66a193664aa6ec05cf940143cebdd2d942
 workflow-type: tm+mt
-source-wordcount: '1426'
+source-wordcount: '1439'
 ht-degree: 0%
 
 ---
@@ -15,6 +16,7 @@ Om ditt Adobe Marketo Engage-konto är anslutet till MS Dynamics via en anpassad
 >[!PREREQUISITES]
 >
 >* Funktionen&quot;MSI Non-Native&quot; aktiverad för din Marketo-instans innan du börjar konfigurera MSI (om den inte redan är aktiverad och du redan har köpt funktionen kontaktar du [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;} - kontakta din Customer Success Manager om du inte har köpt den här funktionen än.)
+>* Hämta [MSI-paket för anpassad synkronisering](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}.
 >* En MS Dynamics-prenumeration med MSI-installation ([Lokalt](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-365.md){target=&quot;_blank&quot;}, [Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target=&quot;_blank&quot;}).
 >* Marketo REST API [har konfigurerats](https://developers.marketo.com/rest-api/){target=&quot;_blank&quot;}. De exponerade CRUD-API:erna kommer att utgöra grunden för den icke-ursprungliga synkroniseringen.
 >* Läs [det här blogginlägget](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target=&quot;_blank&quot;} för att förstå objektet och relationerna.
