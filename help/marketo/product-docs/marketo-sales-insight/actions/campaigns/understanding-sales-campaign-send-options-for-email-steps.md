@@ -1,11 +1,11 @@
 ---
-unique-page-id: 14352621
 description: Förstå alternativ för att skicka säljkampanjer via e-post - Marketo Docs - produktdokumentation
 title: Om sändningsalternativ för försäljningskampanj för e-poststeg
-exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
-source-git-commit: 540bb61b9accf199e2be841086a6204064762861
+hide: true
+hidefromtoc: true
+source-git-commit: 468488010259c5d81cccf741db5cc4b98d20d9ea
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
