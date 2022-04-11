@@ -3,7 +3,7 @@ unique-page-id: 13796475
 description: Persondetaljvy - Marketo Docs - produktdokumentation
 title: Persondetaljvy
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
-source-git-commit: e1b0e19dc292d867bc9639177592681fb9e8866d
+source-git-commit: 540bb61b9accf199e2be841086a6204064762861
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -18,11 +18,11 @@ I persondetaljvyn finns en detaljerad profil för varje person i ditt MSC-konto.
 
 1. Om du vill öppna personinformationsvyn klickar du på **Folk** -fliken.
 
-   ![](assets/people-tab.png)
+   ![](assets/person-detail-view-1.png)
 
 1. Klicka på önskad person.
 
-   ![](assets/select-contact.png)
+   ![](assets/person-detail-view-2.png)
 
    >[!TIP]
    >
@@ -32,7 +32,7 @@ I persondetaljvyn finns en detaljerad profil för varje person i ditt MSC-konto.
 
 Innehåller all kontaktinformation för personen.
 
-![](assets/about.jpg)
+![](assets/person-detail-view-3.png)
 
 **Kontaktkort**
 
@@ -59,7 +59,7 @@ Innehåller all kontaktinformation för personen.
 
 Se hur den här personen engagerar sig i er utåtriktade verksamhet.
 
-![](assets/engagement.jpg)
+![](assets/person-detail-view-4.png)
 
 **Försäljningsanslutningsaktivitet**
 
@@ -73,7 +73,7 @@ Se hur den här personen engagerar sig i er utåtriktade verksamhet.
 
 Visar din utdatahistorik. Inkluderar e-post, kampanjer och samtal.
 
-![](assets/history.jpg)
+![](assets/person-detail-view-5.png)
 
 **Försäljningskampanjer**
 
@@ -95,7 +95,7 @@ Visar din utdatahistorik. Inkluderar e-post, kampanjer och samtal.
 
 Hantera uppgifter som är kopplade till den här personen.
 
-![](assets/tasks.jpg)
+![](assets/person-detail-view-6.png)
 
 Åtgärder du kan utföra:
 

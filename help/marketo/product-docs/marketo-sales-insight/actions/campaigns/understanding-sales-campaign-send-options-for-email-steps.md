@@ -1,22 +1,22 @@
 ---
 unique-page-id: 14352621
-description: Understanding Send Options - Marketo Docs - Product Documentation
-title: Förstå sändningsalternativ
+description: Förstå alternativ för att skicka säljkampanjer via e-post - Marketo Docs - produktdokumentation
+title: Om sändningsalternativ för försäljningskampanj för e-poststeg
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 source-git-commit: 540bb61b9accf199e2be841086a6204064762861
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
 
-# Förstå sändningsalternativ {#understanding-send-options}
+# Om sändningsalternativ för försäljningskampanj för e-poststeg {#understanding-sales-campaign-send-options-for-email-steps}
 
-När du skapar en kampanj har du flera alternativ för hur e-poststegen skapas i Sales Connect. Och beroende på var e-postmeddelandet hamnar i din kampanj skiljer sig även alternativen åt.
+När du skapar en kampanj har du flera alternativ för hur e-poststegen skapas i Sales Insight Actions. Och beroende på var e-postmeddelandet hamnar i din kampanj skiljer sig även alternativen åt.
 
 Om det är ditt första steg och den första dagen i din kampanj har du följande alternativ:
 
-![](assets/image2019-10-25-10-43-19.png)
+![](assets/understanding-sales-campaign-send-options-for-email-steps-1.png)
 
 Jag väljer när det här e-postmeddelandet ska skickas
 
@@ -58,3 +58,9 @@ Skapa en uppgift; Jag skickar det här e-postmeddelandet själv
 Koppla det här e-postmeddelandet till föregående e-postmeddelande
 
 * Det här sändningsalternativet är en uppföljning av ditt tidigare e-postmeddelande och kommer att lägga till det föregående e-postmeddelandet längst ned i det här e-postmeddelandet.
+
+>[!MORELIKETHIS]
+>
+>[Skapa en försäljningskampanj](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target=&quot;_blank&quot;}
+>[Stegtyper för säljkampanj och påminnelseaktiviteter](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target=&quot;_blank&quot;}
+>[Inställningar för försäljningskampanj](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target=&quot;_blank&quot;}
