@@ -1,32 +1,31 @@
 ---
 description: Skapa en försäljningskampanj - Marketo Docs - produktdokumentation
 title: Skapa en försäljningskampanj
-hide: true
-hidefromtoc: true
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
+source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
 
 # Skapa en försäljningskampanj {#create-a-sales-campaign}
 
-Kampanjerna består av en serie flerkanalsåtgärder, bland annat: e-post, telefonsamtal, InMail och anpassade åtgärder. De gör att ni kan effektivisera kommunikationen med potentiella och befintliga kunder.
+Säljkampanjer är en serie flerkanalsåtgärder som omfattar: e-post, telefonsamtal, InMail och anpassade åtgärder. De gör att ni kan effektivisera kommunikationen med potentiella och befintliga kunder.
 
-Med kampanjer kan ni
+Med säljkampanjer kan ni
 
 * **Ordna**: Effektivisera alla era utåtriktade aktiviteter på ett och samma ställe för effektivt genomförande.
 * **Skala**: Schemalägg alla era uppsökande insatser så att ni kan skala om era insatser, minimera det manuella arbetet och personalisera så mycket ni behöver.
 * **Mät**: Spåra framgången för alla e-postmeddelanden och uppgifter på ett och samma ställe samtidigt som du automatiskt loggar in dem i Salesforce. Genom att veta vad som är resonerande och leder till resultat kan ni konsekvent testa och förbättra resultaten.
 
-Hur skapar ni en kampanj?
+Hur skapar ni en säljkampanj?
 
 1. Klicka på **Kampanjer** -fliken.
 
    ![](assets/create-a-sales-campaign-1.png)
 
-1. Välj en kategori och klicka på **Skapa en kampanj** för att skapa en ny kampanj.
+1. Välj en kategori och klicka på **Skapa ny kampanj** -knappen.
 
    ![](assets/create-a-sales-campaign-2.png)
 
@@ -56,13 +55,13 @@ Hur skapar ni en kampanj?
 
    >[!NOTE]
    >
-   >&quot;Dagar&quot; är inte antalet dagar mellan åtgärder, utan dagen i sekvensen. Om din kampanj till exempel kommer att vara i 7 dagar, innebär &quot;3&quot; att åtgärden kommer att vara i dag 3 av 7, **not** 3 dagar senare.
+   >&quot;Dagar&quot; är inte antalet dagar mellan åtgärder, utan dagen i sekvensen. Om din säljkampanj t.ex. kommer att vara i 7 dagar, innebär &quot;3&quot; att åtgärden kommer att utföras på dag 3 av 7, **not** 3 dagar senare.
 
-1. Se till att du anpassar alternativen för schemaläggning och svar, som att hoppa över helger (vilket är fantastiskt), genom att gå till **Fliken Inställningar** för er Campaign.
+1. Se till att du anpassar alternativen för schemaläggning och svar, som att hoppa över helger (vilket är fantastiskt), genom att gå till **Fliken Inställningar** för er säljkampanj.
 
    ![](assets/create-a-sales-campaign-8.png)
 
-Nu är det dags att börja lägga till folk i kampanjen!
+Nu är det dags att börja lägga till folk!
 
 >[!MORELIKETHIS]
 >
