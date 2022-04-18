@@ -2,9 +2,9 @@
 description: Översikt - Marketo Docs - produktdokumentation
 title: Översikt
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
+source-git-commit: a5d6b3960957aa262fee7372b90f3609e1e19cce
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '490'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ Välkommen till nästa generations Marketo Engage-upplevelse, ett nytt gränssni
 
 ## Demo {#take-the-tour}
 
-När du loggar in visas ett popup-fönster som är klart för att ge dig den nya upplevelsen. Om du väljer att hoppa över den kommer den **inte** att vara tillgänglig senare.
+När du loggar in visas ett popup-fönster som är klart för att ge dig den nya upplevelsen. Om du väljer att hoppa över det, kommer det **not** bli tillgänglig senare.
 
 ![](assets/overview-1.png)
 
@@ -60,7 +60,7 @@ Det finns massor av nya trädfunktioner.
 
 >[!NOTE]
 >
->Om du gör en sökning i trädet visas bara de första 250 resultaten. Om du inte kan hitta resursen efter en sökning använder du funktionen [Global sökning](/help/marketo/product-docs/marketo-engage-next-generation-experience/using-the-global-search.md).
+>Om du gör en sökning i trädet visas bara de första 250 resultaten. Om du inte kan hitta resursen efter en sökning använder du [Global sökning](/help/marketo/product-docs/marketo-engage-next-generation-experience/using-the-global-search.md) funktion.
 
 **Marketo Classic jämfört med nya Marketo**
 
@@ -192,7 +192,7 @@ Ta en titt på nya Global Nav.
   </tr>
   <tr>
    <td>3</td> 
-   <td>Använd den här för att ge feedback om din MEUE-upplevelse</td> 
+   <td>Använd den här för att ge feedback om din upplevelse</td> 
   </tr>
   <tr>
    <td>4</td> 
