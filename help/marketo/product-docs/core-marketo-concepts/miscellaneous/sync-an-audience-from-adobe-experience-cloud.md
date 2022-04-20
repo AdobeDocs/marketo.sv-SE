@@ -2,15 +2,14 @@
 description: Synkronisera en målgrupp från Adobe Experience Cloud - Marketo Docs - Produktdokumentation
 title: Synkronisera en publik från Adobe Experience Cloud
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 86451f1027e74479a415a4c6654a2625275d4112
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
 
-# Synkronisera en målgrupp från Adobe Experience Cloud {#sync-an-audience-from-adobe-experience-cloud}
+# Synkronisera en publik från Adobe Experience Cloud {#sync-an-audience-from-adobe-experience-cloud}
 
 >[!NOTE]
 >
@@ -18,41 +17,41 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Konfigurera Adobe Experience Cloud målgruppsdelning](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+>[Konfigurera organisationsmappning för Adobe](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-organization-mapping.md)
 
 ## Synkronisera en publik {#how-to-sync-an-audience}
 
-1. I My Marketo klickar du på **Database**-plattan.
+1. I Min Marketo klickar du på **Databas** platta.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-1.png)
 
-1. Klicka på listrutan **Nytt** och välj **Synkronisera från Experience Cloud-målgrupp**.
+1. Klicka på **Nytt** nedrullningsbar meny och välj **Synkronisera från Experience Cloud**.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-2.png)
 
-1. Klicka på listrutan **Målgruppsbiblioteksmapp** och välj önskad ursprungsmapp.
+1. Klicka på **Målbiblioteksmapp** och välj önskad ursprungsmapp.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-3.png)
 
-1. Välj ett **målgruppsnamn**.
+1. Välj en **Målgruppsnamn**.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-4.png)
 
-1. För målet kan du välja en befintlig lista eller skriva namnet på en ny. I det här exemplet skapar vi en ny. Klicka på **Synkronisera** när du är klar.
+1. För målet kan du välja en befintlig lista eller skriva namnet på en ny. I det här exemplet skapar vi en ny. Klicka **Synkronisera** när det är klart.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-5.png)
 
-1. Klicka på **OK**.
+1. Klicka **OK**.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-6.png)
 
-## Vanliga frågor och svar {#faq}
+## Vanliga frågor {#faq}
 
 **Hur fungerar cookie-synkroniseringen?**
 
-När cookie-synkroniseringen är aktiverad för din Marketo-prenumeration försöker Marketo munchkin.js att hämta och lagra ECID:n för Adobe för den IMS-organisation för Adobe som du angav under integreringsinställningen och matcha dessa ECID:n med motsvarande Marketo cookie-identifierare. På så sätt kan Marketo anonyma användarprofiler berikas med ECID:n för Adobe.
+När synkroniseringen av cookies är aktiverad för din Marketo-prenumeration försöker Marketo munchkin.js att hämta och lagra ECID:n för Adobe för den Adobe IMS-organisation som du angav under integreringsinställningen och matcha dessa ECID:n med motsvarande Marketo cookie-identifierare. På så sätt kan Marketo anonyma användarprofiler berikas med ECID:n för Adobe.
 
-Ytterligare ett steg krävs för att koppla den anonyma användarprofilen till en lead-profil, som identifieras med ett enkelt textmeddelande. Exakt hur detta fungerar [beskrivs här](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
+Ytterligare ett steg krävs för att koppla den anonyma användarprofilen till en lead-profil, som identifieras med ett enkelt textmeddelande. Exakt hur det fungerar [beskrivs här](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
 
 **Varför skiljer sig liststorleken i Marketo från den i Adobe?**
 
