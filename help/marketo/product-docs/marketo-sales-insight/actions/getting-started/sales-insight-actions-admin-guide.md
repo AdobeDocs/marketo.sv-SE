@@ -2,9 +2,9 @@
 description: Sales Insight Actions Admin Guide - Marketo Docs - produktdokumentation
 title: Administratörshandbok för Sales Insight Actions
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
+source-git-commit: fc94cd3b62b0afd8122c56773d420f385d30dabd
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '588'
 ht-degree: 0%
 
 ---
@@ -109,6 +109,10 @@ Om du redan är inloggad i Salesforce är du ansluten. Om du inte gör det blir 
 ## Initiera datasynkronisering {#initiate-data-sync}
 
 Synkroniseringen av datafält för Sales Insight Actions gör att systemet kan hämta personinformation från din Marketo Engage-databas till din Sales Insight Actions-databas, hålla persondata uppdaterade och se till att aktiviteter loggas till rätt poster i Marketo och Salesforce.
+
+>[!CAUTION]
+>
+>När du har initierat datasynkronisering bör du **not** ta bort den ursprungliga användaren från din instans av Sales Insight Actions. Det här är användaren som den första inbjudan skickades till.
 
 1. I Marketo klickar du på **Administratör**.
 
