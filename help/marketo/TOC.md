@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo product documentation
 feature-set: Marketo Engage
-source-git-commit: 93e6bb881e10cda26b3a33569dc67627d628a178
+source-git-commit: 1380d3ab2a4316a154cf16015d9bf19d65f0185f
 workflow-type: tm+mt
 source-wordcount: '8728'
 ht-degree: 0%
@@ -580,7 +580,7 @@ ht-degree: 0%
          + [Salesforce Sync Status](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
          + [Using Person Accounts](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
       + {#veeva-crm-sync}
-         + [Understanding the Veeva CRM Sync](product-docs/crm-sync/salesforce-sync/understanding-the-veeva-crm-sync.md)
+         + [Understanding the Veeva CRM Sync](product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md)
          + {#setup}
             + [Step 1 of 3: Add Marketo Fields to Veeva CRM](product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md)
             + [Step 2 of 3: Create a Veeva CRM User for Marketo Engage](product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md)
