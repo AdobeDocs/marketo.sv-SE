@@ -2,9 +2,9 @@
 description: Ansluta Dynamic Chat till Marketo - Marketo Docs - produktdokumentation
 title: Ansluta Dynamic Chat till Marketo
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: 9b49c9f0ee03ab72672f46618fb24eed174bf835
+source-git-commit: c36b9206494c14a52937fa787a37601eaf6f4bd4
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,10 @@ När du är klar med [inledande konfiguration](/help/marketo/product-docs/demand
 ## Länka din Adobe-organisation och Marketo {#link-your-adobe-org-and-marketo}
 
 Nu är det dags att länka Adobe och Marketo.
+
+>[!IMPORTANT]
+>
+>E-postadressen till den Marketo Engage-användare som upprättar mappningen måste också ha tillgång till den Adobe-organisation som är ansluten.
 
 1. Logga in på [experience.adobe.com](https://experience.adobe.com).
 
