@@ -3,9 +3,9 @@ unique-page-id: 4720433
 description: Konfigurera protokoll för Marketo - Marketo Docs - produktdokumentation
 title: Konfigurera protokoll för Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: abfd29468bee24644353df497e1f80e0c05b6b2f
+source-git-commit: 56f429dabf19c4425c68b0dcd745621681a038ae
 workflow-type: tm+mt
-source-wordcount: '988'
+source-wordcount: '1018'
 ht-degree: 1%
 
 ---
@@ -25,9 +25,7 @@ Den här artikeln bör delas med IT-avdelningen på det företag som vill implem
 >Om IT-teamet begränsar webbåtkomsten via ett tillåtelselista ber du dem lägga till följande domäner (inklusive asterisken) för att tillåta alla Marketo resurser och webbsocketar:
 
 * `*.marketo.com`
-
 * `*.marketodesigner.com`
-
 * `*.mktoweb.com`
 
 ## Steg 1: Skapa DNS-poster för landningssidor och e-post {#step-create-dns-records-for-landing-pages-and-email}
@@ -57,6 +55,10 @@ Till exempel:
 
 Meddela marknadsföringsteamet när du har slutfört den här processen.
 
+`4` **Kontakt [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;} för att starta etableringen av ett SSL-certifikat.**
+
+Den här processen kan ta upp till tre arbetsdagar att slutföra.
+
 ## Steg 2: IP-adresser för Tillåtelselista Marketo {#step-allowlist-marketo-ips}
 
 När marknadsföringsgruppen använder Marketo för att skicka testmeddelanden (en bra metod innan de skickar ut e-postmeddelanden) blockeras ibland testmeddelandena av skräppostskydd som förlitar sig på avsändarens IP-adresser för att bekräfta att e-postmeddelandet är giltigt. Lägg till Marketo i tillåtelselista för att försäkra dig om att dessa testmeddelanden kommer fram.
@@ -71,7 +73,7 @@ Lägg till de här IP-adresserna till ditt företag i tillåtelselista:
 103.237.104.0/22\
 94.236.119.0/26
 
-Vissa antispam-system använder fältet för e-postretursökväg i stället för IP-adressen för att tillåta. I dessa fall är det bästa sättet att tillåtslista&quot;*.mktomail.com&quot; eftersom Marketo använder flera postlådeunderdomäner. Andra antispam-system tillåtslista baserat på Från-adressen. I dessa situationer måste du se till att inkludera alla avsändande (&quot;Från&quot;) domäner som din marknadsföringsgrupp använder för att kommunicera med personer/leads.
+Vissa antispam-system använder fältet för e-postretursökväg i stället för IP-adressen för att tillåta. I sådana fall är det bästa sättet att gå till tillåtelselista&quot;&#42;.mktomail.com&quot;, eftersom Marketo använder flera postlådeunderdomäner. Andra antispam-system tillåtslista baserat på Från-adressen. I dessa situationer måste du se till att inkludera alla avsändande (&quot;Från&quot;) domäner som din marknadsföringsgrupp använder för att kommunicera med personer/leads.
 
 >[!NOTE]
 >
