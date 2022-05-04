@@ -1,12 +1,10 @@
 ---
 description: Länkrubriker för e-postspårning - Marketo Docs - Produktdokumentation
 title: Länkrubriker för e-postspårning
-hide: true
-hidefromtoc: true
 exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
-source-git-commit: dcca897dc5014a2179fe35a031ba2f9e5b2dbaf4
+source-git-commit: e9a41359a4a03f323312b61ab5afc820140b6fee
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -30,7 +28,7 @@ Följ stegen nedan för att anpassa länkrubrikerna för e-postspårning.
 <table>
  <tr>
   <td><strong>Strict-Transport-Security</strong></td>
-  <td>Använd det här för att garantera att anslutningar till landningssidor alltid hanteras via HTTPS (ska endast anges för prenumerationer med landningssidor som skyddas av SSL)</td>
+  <td>Använd det här för att garantera att spårningslänkar alltid serveras via HTTPS (ska endast anges för prenumerationer med spårningslänkar som skyddas av SSL)</td>
  </tr>
 </table>
 
