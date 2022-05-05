@@ -1,11 +1,10 @@
 ---
 description: Så här fungerar Veeva CRM Sync - Marketo Docs - produktdokumentation
 title: Så här fungerar Veeva CRM Sync
-hide: true
-hidefromtoc: true
-source-git-commit: 93e6bb881e10cda26b3a33569dc67627d628a178
+exl-id: 99ade106-7f32-40e8-8b9a-2b1d0e769b9c
+source-git-commit: 884c9a27f3876ec3036f2f7187db30565cdd49a7
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -28,14 +27,14 @@ Synkroniseringen mellan Veeva och Marketo Engage är endast dubbelriktad för ko
 
 ## Vad är synkroniserat mellan Marketo Engage och Veeva? {#what-is-synced-between-marketo-engage-and-veeva}
 
-* Personkonton
+* [Personkonton](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md){target=&quot;_blank&quot;}
 * Användare
-* Anropa och anropa nyckelobjekt
-* Anpassade objekt
+* [Anropa och anropa nyckelobjekt](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target=&quot;_blank&quot;}
+* [Anpassade objekt](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target=&quot;_blank&quot;}
 
 ## Saker att veta {#things-to-know}
 
-* De inloggningsuppgifter du anger i Marketo Engage för Veveva används för att synkronisera data. Endast data som dessa autentiseringsuppgifter har åtkomst till inkluderas.
+* The [inloggningsuppgifter som du anger i Marketo Engage för Veeva](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target=&quot;_blank&quot;} används för att synkronisera data. Endast data som dessa autentiseringsuppgifter har åtkomst till inkluderas.
 
 * Veeva CRM baseras på force.com och den omfattande upplevelse som Marketo Engage har med plattformen ärvs till den här synkroniseringen.
 
