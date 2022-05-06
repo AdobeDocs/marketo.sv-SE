@@ -2,16 +2,16 @@
 description: Växla - Marketo Docs - produktdokumentation
 title: Växla av/på
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 05f31bc1d48dff0351fb6084893be7f5a96a8754
+source-git-commit: 13b3548580d29a0e93958ebac9be39435769121c
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
 
 # Växla av/på {#toggle-switch}
 
-Med växeln Växla kan du växla mellan Marketo klassiska gränssnitt och nästa generations Marketo Engage. Den finns i Landing Page List View och på formulärdetaljsidor.
+Med växeln Växla kan du växla mellan Marketo klassiska gränssnitt och nästa generations Marketo Engage. Den är tillgänglig i alla områden som markeras nedan. Från och med majversionen 2022 kommer nästa generations upplevelse att aktiveras som standard.
 
 >[!NOTE]
 >
@@ -99,14 +99,32 @@ Den nya upplevelsen läses in.
 
 ![](assets/toggle-switch-17.png)
 
-## Aktivera för alla funktioner {#enable-for-all-features}
+## Vyn Information om e-postmall {#email-template-details-view}
 
-Du kan välja att aktivera Marketo nästa generations gränssnitt för alla tillgängliga funktioner, aktuella och kommande.
-
-1. I ett område som för närvarande har växeln Växla (i det här exemplet är vi i [Formulärinformationssida](#form-details-page)) klickar du på kugghjulsikonen längst ned till höger på sidan.
+1. I Marketo väljer du **Design Studio**.
 
    ![](assets/toggle-switch-18.png)
 
-1. Välj **Aktivera för alla tillgängliga funktioner** och klicka **OK**.
+1. Välj önskad e-postmall.
 
    ![](assets/toggle-switch-19.png)
+
+1. Klicka på knappen längst ned till höger på sidan **Ny upplevelse** växla.
+
+   ![](assets/toggle-switch-20.png)
+
+Den nya upplevelsen läses in.
+
+![](assets/toggle-switch-21.png)
+
+## Aktivera för alla funktioner {#enable-for-all-features}
+
+Du kan manuellt aktivera Marketo nästa generations gränssnitt för alla tillgängliga funktioner, aktuella och kommande.
+
+1. I ett område som för närvarande har växeln Växla (i det här exemplet är vi i [Formulärinformationssida](#form-details-page)) klickar du på kugghjulsikonen längst ned till höger på sidan.
+
+   ![](assets/toggle-switch-22.png)
+
+1. Välj **Aktivera för alla tillgängliga funktioner** och klicka **OK**.
+
+   ![](assets/toggle-switch-23.png)
