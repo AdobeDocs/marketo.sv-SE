@@ -2,9 +2,9 @@
 description: Konfiguration - Marketo Docs - produktdokumentation
 title: Konfiguration
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: 0c7299de282194a01783e9c2d484c1d206460e01
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -56,6 +56,15 @@ Klicka på **Integritet** för att lägga till/redigera URL:en för webbplatsens
 För att chattbot ska visas på webbplatsen måste du först installera JavaScript-fragmentet Dynamic Chat. Klicka på den här fliken om du vill söka efter/kopiera den nödvändiga koden. Om du inte känner till den här åtgärden kan du kontakta ditt webbteam eller din IT-avdelning för att få hjälp.
 
 ![](assets/configuration-8.png)
+
+>[!TIP]
+>
+>Om webbplatsen använder en skyddsprofil för innehåll kan du behöva vitlista följande URL:er för att chattbot ska fungera som förväntat:
+>
+>* `*.adoberesources.net`
+>* `*.adobe.io`
+>* `*.typekit.net`
+
 
 >[!NOTE]
 >
