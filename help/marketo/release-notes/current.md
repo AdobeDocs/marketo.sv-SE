@@ -1,72 +1,72 @@
 ---
-description: Current Release Notes - Marketo Docs - Product Documentation
-title: Current Release Notes
+description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
+title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 374f7c1bcb8c30dd914eb126c09a71c6b7ae4f90
+source-git-commit: e489ab3e5e4f1d6628db525e53207d229b50a92b
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '857'
 ht-degree: 0%
 
 ---
 
-# Release Notes: May 2022 {#release-notes-may-22}
+# Versionsinformation: Maj 2022 {#release-notes-may-22}
 
-Below you&#39;ll find all the features included in the May &#39;22 release. Check your Adobe Marketo Engage edition for feature availability.
+Här nedan hittar du alla funktioner som ingår i versionen från maj 22. Se om det finns funktioner i din Adobe Marketo Engage-utgåva.
 
 >[!AVAILABILITY]
 >
->![](assets/yellow-star.png) Please contact your Marketo Engage representative to learn more.
+>Funktioner som anges av en stjärna (![stjärna](assets/yellow-star.png)) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
 
-**__**
+**_Kvartalsvisa releaser_**
 
-****
+Följande funktioner kommer att lanseras den **6 maj 2022**, med en stegvis utrullning av återstående funktioner under de följande veckorna (om inget annat anges).
 
-## Native CRM Integration {#native-crm-integration}
+## Integrering med CRM {#native-crm-integration}
 
-**** This integration allows marketers to create more personalized and seamless cross-channel experiences for healthcare professionals. Please contact your Customer Success Manager if you&#39;re interested in participating.
+**[Integrering med veeva CRM](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target=&quot;_blank&quot;} (begränsad tillgänglighet)**: Förbättra engagemanget hos hälso- och sjukvårdspersonal genom att synkronisera aktiviteten mellan Veeva CRM och Marketo Engage via inbyggd integrering. Tack vare den här integreringen kan marknadsförarna skapa mer personaliserade och sömlösa upplevelser över flera kanaler för hälso- och sjukvårdspersonal. Kontakta din Customer Success Manager om du är intresserad av att delta.
 
-## Cross-Channel Orchestration {#cross-channel-orchestration}
+## Flerkanalsmarknadsföring {#cross-channel-orchestration}
 
-****
+**Chatbot Events for Dynamic Chat**: Utnyttja mer detaljerade beteendedata för webbbesökare som t.ex. tid på sidan, tid på webbplatsen och procent för sidrullning för att definiera när en chattdialog ska visas.
 
-****
+**PDF Embed for Dynamic Chat**: Öka engagemanget och dela meningsfullt innehåll genom att bädda in PDF i chattdialogrutor och mäta innehållets prestanda med hjälp av uppföljning av engagemangsaktiviteter.
 
-**** Chat dialogues can also be configured in these languages.
+**Utökat språkstöd för dynamiskt chatt**: Användargränssnittet Dynamic Chat finns nu även på franska, tyska, japanska, portugisiska och spanska. Chattdialogrutor kan även konfigureras på dessa språk.
 
-****
+**Uteslut URL:er för dynamiskt chatt**: Styr vilken av dina webbsidor Dynamic Chat ska visas med möjligheten att utesluta specifika URL:er från kriterier för målanpassning.
 
-**** View bot activity stats that allow you to understand the number of bot activities identified for each type.
+**[Förbättrad filtrering av e-poststartaktivitet](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;}**: Fortsätt att skydda databasens hälsa med möjligheten att identifiera båda beteenden baserat på dolda länkar, användaragenter eller IP-adresser och närhetsmönster, utöver den befintliga IAB-listan, matchar identifiering. Visa startaktivitetsstatistik som gör att du kan förstå antalet båda aktiviteter som identifieras för varje typ.
 
-****
+**[STS Header for Email Tracking Links](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target=&quot;_blank&quot;}**: Följ vedertagna säkerhetsstandarder med möjlighet att lägga in säkra transportsäkerhetsrubriker för att säkerställa att trafik till spårade länkar alltid är säker.
 
-## Next-Generation Experience {#next-generation-experience}
+## Nästa generations upplevelse {#next-generation-experience}
 
-****
+**Växla som standard till nästa generations upplevelse**: Växlingsknappen kommer att vara standard för den nya upplevelsen på alla skärmar där den är tillgänglig, vilket gör det enklare för användarna att upptäcka de uppdaterade designförbättringarna och användbarhetsförbättringarna.
 
-****
+**Uppdaterad skärm i nästa generation**:
 
-We’re delivering Email Template Details View within Design Studio in the next-generation experience, offering an updated design and usability enhancements accessible via toggle switch.
+Vi levererar detaljvy för e-postmallar i Design Studio i nästa generation av upplevelser, med uppdaterade design- och användarvänlighetsförbättringar som är tillgängliga via växlingsfunktion.
 
 ## Experience Automation {#experience-automation}
 
-**** Both Marketo Engage users and partners can leverage this functionality to allow for the usage of external web services in trigger, batch, and executable campaigns (in contrast to webhooks which can only be used in trigger campaigns).
+**Självbetjäningsflödessteg (forts. beta)**: Utöka anslutningsmöjligheterna mellan Marketo Engage och resten av högen med möjligheten att skapa anpassade flödessteg som kan användas i smarta kampanjer. Både användare och partners i Marketo Engage kan utnyttja den här funktionen för att möjliggöra användning av externa webbtjänster i utlösar-, batch- och körbara kampanjer (till skillnad från webbhookar som bara kan användas i utlösarkampanjer).
 
-## API Enhancements {#api-enhancements}
+## API-förbättringar {#api-enhancements}
 
-* ****
-* ****
-* ****
-* **** For example, show the name of a hotel, but submit an Internal ID to the backend.
-* ****
+* **Utökad API-åtkomst för CRM-aktiverade prenumerationer**: Vi utökar API-åtkomsten för prenumerationer som har en CRM-synkronisering aktiverad så att användare kan hämta företag, säljprojekt och säljare från Marketo Engage.
+* **Stöd för&quot;dolda&quot; datatyper i Forms**: Ger möjlighet att hantera dolda formulärfält via API.
+* **Stöd för flera jämförelsevärden för isNot-formulär via regler**: Hantera synlighet för formulärfält baserat på om värdet för ett annat fält inte är ett av värdena i en given lista.
+* **Tillåt inställning av Visa och Skickade värden i Välj listor separat**: Ange visningsvärdet och det skickade värdet separat i ett fält. Visa till exempel namnet på ett hotell, men skicka ett internt ID till serverdelen.
+* **Tillåt inställning av Inaktivera Open Tracking vid skapande eller uppdatering av e-post**: Skapa ett e-postmeddelande med öppen spårning inaktiverat.
 
-## Announcements {#announcements}
+## Meddelanden {#announcements}
 
-**** At that point, Marketo Engage user email addresses will require verification and uniqueness (this does not apply to API-only users). Directory service authenticated users will automatically have their emails verified when their subscription is enabled with Email Verification.
+**E-postverifiering och unikhet**: Från och med april påbörjas utrullningen av e-postverifieringen. I det läget kommer Marketo Engage-användares e-postadresser att kräva verifiering och unikhet (detta gäller inte endast API-användare). Katalogtjänstautentiserade användare får automatiskt sina e-postmeddelanden verifierade när deras prenumeration aktiveras med e-postverifiering.
 
-Email Verification for subscriptions using the “Login in Invite User Dialog” feature or that have a single email associated with multiple users will coincide with the May release. Subscriptions that have a single email associated with multiple users will be enabled with Email Verification and will require those users to resolve the conflict and use a unique email per user. When the ‘Login in Invite User Dialog’ feature is enabled, users invited via this feature will need to have a unique email address. For API-only users invited via this feature, the email address does not need to be unique.
+Verifiering via e-post för prenumerationer med funktionen Inbjudan till användare, eller som har ett enda e-postmeddelande kopplat till flera användare, sammanfaller med majversionen. Prenumerationer som har ett enda e-postmeddelande kopplat till flera användare aktiveras med e-postverifiering och kräver att dessa användare löser konflikten och använder ett unikt e-postmeddelande per användare. När funktionen&quot;Logga in i inbjudan till användare&quot; är aktiverad måste användare som bjudits in via den här funktionen ha en unik e-postadress. För API-användare som bjudits in via den här funktionen behöver e-postadressen inte vara unik.
 
-**** Menu options for creating new assets will be hidden for all assets. [](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235)
+**Ändra beteende för arkivmapp**: I den här versionen är möjligheten att skapa nya resurser i arkivmappar inte längre tillgänglig från trädsnabbmenyerna. Menyalternativen för att skapa nya resurser döljs för alla resurser. [Läs mer här](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target=&quot;_blank&quot;}.
 
-**__**
+**_Product Release Webinar_**
 
-[](https://engage.marketo.com/2022_March_May_Release_Webinar_RegistrationPage.html)
+Besök oss den 11 maj 2022 kl. 9.00 PT/12.00 ET för en [live webbinarium](https://engage.marketo.com/2022_March_May_Release_Webinar_RegistrationPage.html){target=&quot;_blank&quot;} som hanteras av vårt produktteam där du kan lära dig att använda alla de senaste produktinnovationerna.
