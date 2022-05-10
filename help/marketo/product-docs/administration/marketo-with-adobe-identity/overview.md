@@ -2,16 +2,16 @@
 description: Översikt - Marketo Docs - produktdokumentation
 title: Översikt
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: 0d1762d9a5607d72af625aafbf7b9f412d6713c1
+source-git-commit: 88622c5df7cf04fb9e4a3bcccbf77db5594b5fc4
 workflow-type: tm+mt
-source-wordcount: '1016'
+source-wordcount: '1056'
 ht-degree: 0%
 
 ---
 
 # Översikt {#overview}
 
-Om du har ett nytt konto hos Adobe Marketo Engage (nytt konto, inte bara en ny instans för ett befintligt konto) från och med den 15 februari 2022, kan det integreras med Adobe Identity Management System, beroende på vilket produktpaket som köpts. Om du vill ta reda på om du har den kontaktar du Marketo Admin eller kontots Customer Success Manager.
+Om du har ett nytt konto hos Adobe Marketo Engage (nytt konto, inte bara en ny instans för ett befintligt konto) från och med den 15 februari 2022, kan det komma att integreras med Adobe Identity Management System, beroende på vilket produktpaket du köper. Om du vill ta reda på om du har den kontaktar du Marketo Admin eller kontots Customer Success Manager.
 
 Befintliga Marketo-prenumerationer kommer att migreras till Adobe Identity Management System som börjar senare i år.
 
@@ -34,7 +34,8 @@ Adobe Marketo Engage prenumerationer på Adobe Identity Management System har st
  </tr>
  <tr>
   <td><strong>Administratör för Adobe Admin Console produktprofil</strong></td>
-  <td>Administrerar beskrivningarna av produktprofiler som kopplats till den aktuella administratören och alla tillhörande administrativa funktioner.</td>
+  <td>Ansvarig för att administrera användare i en produktprofil. De kan inte hantera användare utanför den specifika profilen. En produktprofiladministratör har inte åtkomst till Marketo-programmet om den inte läggs till i produktprofilen som en användare. Deras roll är fortfarande en standardanvändare (standardarbetsyta om de har fler än en arbetsyta).
+</td>
  </tr>
  <tr>
   <td><strong>Marketo Engage produktadministratör</strong></td>

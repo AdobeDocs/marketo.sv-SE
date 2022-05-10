@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: 88622c5df7cf04fb9e4a3bcccbf77db5594b5fc4
 workflow-type: tm+mt
-source-wordcount: '8735'
+source-wordcount: '8740'
 ht-degree: 0%
 
 ---
@@ -178,6 +178,7 @@ ht-degree: 0%
          + [Lägg till endast API-användare för Adobe IMS-aktiverade prenumerationer](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
          + [Lägg till eller ta bort en produktadministratör](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
          + [Lägg till eller ta bort en användare](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
+         + [Användarinloggning med Adobe ID](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
       + Inställningar {#settings}
          + [Ändra attributinställningar för analys](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
          + [Ändra ditt Marketo-lösenord](product-docs/administration/settings/change-your-marketo-password.md)

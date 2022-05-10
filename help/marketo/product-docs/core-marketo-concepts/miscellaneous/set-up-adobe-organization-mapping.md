@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: Konfigurera organisationsmappning för Adobe - Marketo Docs - produktdokumentation
 title: Ställ in organisationsmappning för Adobe
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: db91b204ab13d47e500b1942ca14a3b1f010749c
+source-git-commit: 88622c5df7cf04fb9e4a3bcccbf77db5594b5fc4
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ För att kunna synkronisera med Adobe-program som Audience Manager, B2B CDP Mark
 >[!NOTE]
 >
 >En HIPAA-klar distribution av en Marketo-instans kan inte använda den här integreringen.
+
+>[!CAUTION]
+>
+>För kunder som har anslutit sig till Adobe Business Platform och Identity Management System fylls det Org-ID som är kopplat till prenumerationen redan i och är ett skrivskyddat fält.
 
 1. I Marketo klickar du på **Administratör**.
 
