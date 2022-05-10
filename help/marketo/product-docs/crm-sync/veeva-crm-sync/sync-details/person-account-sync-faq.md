@@ -2,9 +2,9 @@
 description: Synkronisering av personkonto - frågor och svar - Marketo Docs - produktdokumentation
 title: Vanliga frågor om synkronisering av personkonto
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
-source-wordcount: '494'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Personkonton kan konfigureras i Veeva för att passa organisationens behov.
 
 >[!NOTE]
 >
->Veeva-standardkonton är professionella.
+>Vi synkroniserar bara&quot;Professional&quot;-nivåkonton som personkonton.
 
 **Vad är ett personkonto?**
 
@@ -49,7 +49,7 @@ Vi vore trevliga och lät Veeva CRM vinna. Det är dock sällsynt att en sådan 
 
 **Synkroniseras lead- eller kontakttypen för poster med Veeva CRM?**
 
-Veeva CRM hanterar bara objekt för personkonton och har även företagskonton. De traditionella CRM-typerna av lead, kontakter och säljprojekt används inte i praktiken i traditionella Veeva CRM-system. Dessa kan ha skapats i Veeva CRM och synkroniseringen kan ta in dem till Marketo, men stöds inte officiellt med den här kopplingen.
+Veeva CRM hanterar bara objekt för personkonton och har även företagskonton. De traditionella CRM-typerna av lead, kontakter och säljprojekt används inte i praktiken i traditionella Veeva CRM-system. Dessa kan ha skapats i Veeva CRM, men stöds inte officiellt med den här kopplingen.
 
 **Kan jag konvertera en person till en kontakt i Marketo?**
 

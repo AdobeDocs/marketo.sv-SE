@@ -2,16 +2,16 @@
 description: Syncing Call and Call Key Messages - Marketo Docs - produktdokumentation
 title: Synkronisera samtal och ringa nyckelmeddelanden
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Synkronisera samtal och ringa nyckelmeddelanden {#syncing-call-and-call-key-messages}
 
-Anrop och anrop av nyckelmeddelandeobjekt i Veeva CRM synkroniseras som standard till Marketo Engage. Marketo synkroniserar data som är upp till sex månader gamla, baserat på samtalsdatum.
+Anrop och anrop av nyckelmeddelandeobjekt i Veeva CRM synkroniseras som standard till Marketo Engage. Marketo synkroniserar data som är upp till sex månader gamla, baserat på Call Created Date.
 
 >[!NOTE]
 >
@@ -90,13 +90,6 @@ Följande fält för meddelandena Call and Call Key synkroniseras och kan använ
       <td>Datum för samtalet när det sparades eller skickades för första gången. Det här fältet ställs in via en utlösare på aktuellt datum om varken datum- eller datetime-fältet anges.</td>
       <td>Call_Date_vod__c</td>
       <td>Datum</td>
-    </tr>
-    <tr>
-      <td>Utlysning</td>
-      <td>Detaljerade produkter</td>
-      <td>Ett hjälpfält som visar en lista med detaljerade produkter för ett samtal. Produktnamnen ska avgränsas med dubbla blanksteg och ordningen ska prioriteras från vänster till höger. Det här fältet styr inte bearbetningen och inkluderas för att göra relaterade listor och rapporter mer användarvänliga.</td>
-      <td>Detailed_Products_vod__c</td>
-      <td>Textområde (255)</td>
     </tr>
     <tr>
       <td>Utlysning</td>

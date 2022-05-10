@@ -2,7 +2,7 @@
 description: Steg 1 av 3 - Lägg till Marketo-fält i Veeva CRM - Marketo Docs - produktdokumentation
 title: Steg 1 av 3 - Lägg till Marketo-fält i Veeva CRM
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
 source-wordcount: '533'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Alla dessa anpassade fält är valfria och behövs inte för att synkronisera Ma
 
 ## Lägg till Marketo-fält i Veeva CRM {#add-marketo-fields-to-veeva-crm}
 
-Lägg till tre anpassade fält i lead- och kontaktobjekten i Veeva CRM som listas ovan. Om du vill lägga till fler fält kan du läsa tabellen med tillgängliga fält i slutet av det här avsnittet.
+Lägg till ett anpassat fält på lead- och kontaktobjekten i Veeva CRM som listas ovan. Om du vill lägga till fler fält kan du läsa tabellen med tillgängliga fält i slutet av det här avsnittet.
 
 Utför följande steg för fältet Poäng för att lägga till det.
 
@@ -112,7 +112,7 @@ Decimaler 0</td>
 
 >[!NOTE]
 >
->Genom att lägga till fältet i kontaktobjektet läggs de även till i personkontot.
+>Genom att lägga till fältet i kontaktobjektet läggs de även till i personkontoobjektet.
 
 VALFRITT: Använd ovanstående procedur för ytterligare anpassade fält från tabellen nedan.
 
