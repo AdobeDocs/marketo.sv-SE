@@ -3,7 +3,7 @@ unique-page-id: 4720710
 description: Konfigurera SPF och DKIM för din e-postleverans - Marketo Docs - Produktdokumentation
 title: Konfigurera SPF och DKIM för e-postleveransen
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
-source-git-commit: 46812deb41ed56328a4a64fbd36340d13c50dde4
+source-git-commit: de32becbfe74c2a88c53de8af8be4ee022782114
 workflow-type: tm+mt
 source-wordcount: '443'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Konfigurera SPF och DKIM för e-postleveransen {#set-up-spf-and-dkim-for-your-email-deliverability}
 
-Ett snabbt sätt att förbättra e-postleveranshastigheten är att införliva **SPF** (Sender Policy Framework) och **DKIM** (Domain Keys Identified Mail) i dina DNS-inställningar. Med det här tillägget i dina DNS-poster talar du om för mottagarna att du har auktoriserat Marketo att skicka e-post för din räkning. Utan den här ändringen har din e-postadress större chans att markeras som skräppost eftersom e-postadressen adresserades från din domän, men skickas från en IP-adress med en Marketo-domän.
+Ett snabbt sätt att förbättra e-postleveransen är att lägga till **SPF** (Sender Policy Framework) och **DKIM** (Domännycklar för identifierad e-post) till dina DNS-inställningar. Med det här tillägget i dina DNS-poster talar du om för mottagarna att du har auktoriserat Marketo att skicka e-post för din räkning. Utan den här ändringen har din e-postadress större chans att markeras som skräppost eftersom e-postadressen adresserades från din domän, men skickas från en IP-adress med en Marketo-domän.
 
 >[!CAUTION]
 >
@@ -22,7 +22,7 @@ Ett snabbt sätt att förbättra e-postleveranshastigheten är att införliva **
 
 **Om du inte har någon SPF-post på din domän**
 
-Be nätverksadministratören lägga till följande rad i DNS-posterna. Ersätt [domän] med webbplatsens huvuddomän (t.ex. &quot;company.com&quot;) och [corpIP] med IP-adressen för företagets e-postserver (t.ex. &quot;255.255.255.255&quot;). Om du skickar e-post från flera domäner via Marketo bör du lägga till detta i varje domän (på en rad).
+Be nätverksadministratören lägga till följande rad i DNS-posterna. Ersätt [domän] med webbplatsens huvuddomän (t.ex. &quot;company.com&quot;) och [corpIP] med IP-adressen till företagets e-postserver (t.ex. &quot;255.255.255.255&quot;). Om du skickar e-post från flera domäner via Marketo bör du lägga till detta i varje domän (på en rad).
 
 `[domain] IN TXT v=spf1 mx ip4:[corpIP] include:mktomail.com ~all`
 
@@ -53,5 +53,5 @@ Se [Konfigurera en anpassad DKIM-signatur](/help/marketo/product-docs/email-mark
 >* [Läs mer om SPF och hur det fungerar](http://www.open-spf.org/Introduction/)
 >* [Marketo verktyg för e-postleverans](https://www.marketo.com/software/email-marketing/email-deliverability/)
 >* [Är min SPF korrekt konfigurerad?](https://www.kitterman.com/spf/validate.html)
->* [Använde jag rätt syntax?](https://www.open-spf.org/SPF_Record_Syntax/)
+>* [Använde jag rätt syntax?](http://www.open-spf.org/SPF_Record_Syntax/)
 
