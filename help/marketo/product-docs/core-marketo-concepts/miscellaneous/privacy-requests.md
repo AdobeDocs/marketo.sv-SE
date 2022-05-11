@@ -2,9 +2,9 @@
 description: Sekretessförfrågningar - Marketo Docs - produktdokumentation
 title: Sekretessförfrågningar
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 12b82fdb24b20fde01082ddefe3d78429857f0bc
+source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -19,10 +19,10 @@ I det här dokumentet finns en översikt över hur du hanterar enskilda dataskyd
 
 Du kan skicka enskilda förfrågningar om åtkomst till och radering av konsumentdata från Marketo Engage på två sätt:
 
-* Via [Privacy Servicens användargränssnitt](https://privacyui.cloud.adobe.io/). Läs dokumentationen [här](https://developer.adobe.com/experience-platform-apis/references/privacy-service/).
-* Via **Privacy Services-API**. Läs dokumentationen [här](https://developer.adobe.com/experience-platform-apis/references/privacy-service/) och API-referensen [här](https://www.adobe.io/apis/experiencecloud/gdpr/api-reference.html#!acpdr/swagger-specs/privacy-service.yaml).
+* Via [Privacy Servicens användargränssnitt](https://privacyui.cloud.adobe.io/). Läs dokumentationen [här](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;}.
+* Via **Privacy Services-API**. Läs dokumentationen [här](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;} och API-information [här](https://developer.adobe.com/experience-platform-apis/){target=&quot;_blank&quot;}.
 
-The [Privacy Service](https://developer.adobe.com/experience-platform-apis/references/privacy-service/) har stöd för två typer av begäranden: dataåtkomst och borttagning av data.
+The [Privacy Service](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;} stöder två typer av begäranden: dataåtkomst och borttagning av data.
 
 Låt oss se hur du kan skapa förfrågningar om åtkomst och borttagning.
 
