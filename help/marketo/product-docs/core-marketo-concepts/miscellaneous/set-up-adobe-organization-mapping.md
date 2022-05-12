@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: Konfigurera organisationsmappning för Adobe - Marketo Docs - produktdokumentation
 title: Ställ in organisationsmappning för Adobe
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: 88622c5df7cf04fb9e4a3bcccbf77db5594b5fc4
+source-git-commit: bbe5f4a1502ab79d0081807ea6aab196ae75360a
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,9 @@ För att kunna synkronisera med Adobe-program som Audience Manager, B2B CDP Mark
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-6.png)
 
-   >[!NOTE]
+   >[!IMPORTANT]
    >
-   >Av säkerhetsskäl måste du vara organisationsadministratör för den Adobe-organisation som du vill mappa till. Annars misslyckas åtgärden.
+   >Av säkerhetsskäl måste du vara organisationsadministratör för den Adobe-organisation som du vill mappa till. Annars misslyckas åtgärden. Dessutom måste Adobe-användaren och Marketo-användaren använda samma e-postadress när de loggar in.
 
 1. Om du är _not_ redan inloggad visas ett popup-fönster på en ny flik eller i ett nytt fönster. Logga in på din Adobe-organisation (den här åtgärden validerar organisationsåtkomsten).
 
