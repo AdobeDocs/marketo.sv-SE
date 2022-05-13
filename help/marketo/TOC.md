@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: d3fb9a9aa70f491afd880d16500b8e93eb9d087f
+source-git-commit: db744779ff25428f111f35720e3c8f3ce1011399
 workflow-type: tm+mt
-source-wordcount: '8743'
+source-wordcount: '8761'
 ht-degree: 0%
 
 ---
@@ -475,6 +475,11 @@ ht-degree: 0%
          + [Om mappar](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [Om meddelanden](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [Meddelandetyper](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
+      + Prediktiva målgrupper {#predictive-audiences}
+         + [Komma igång med prediktiva målgrupper](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
+         + [Modeller och insikter](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
+         + [Prediktiva filter](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
+         + [Förstå målspårning och projekterade registreringar](product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md)
    + CRM-synkronisering {#crm-sync}
       + Microsoft Dynamics Sync {#microsoft-dynamics}
          + [Förstå Microsoft Dynamics Sync](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
