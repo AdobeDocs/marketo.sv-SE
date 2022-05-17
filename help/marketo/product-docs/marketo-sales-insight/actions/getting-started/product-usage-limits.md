@@ -1,14 +1,16 @@
 ---
 description: Begränsningar för produktanvändning - Marketo Docs - produktdokumentation
 title: Begränsningar för produktanvändning
-source-git-commit: 9f3b91e7b0626b2a229f4a98fb734e926a141ec0
+source-git-commit: 4dd0d703347ed878f73ddc574d063a6746089887
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 14%
+source-wordcount: '186'
+ht-degree: 13%
 
 ---
 
 # Begränsningar för produktanvändning {#product-usage-limits}
+
+Följande begränsningar gäller för användning av utökade säljengagemangsfunktioner som är tillgängliga med Sales Insight Actions.
 
 <table>
   <th>Funktionalitet</th>
