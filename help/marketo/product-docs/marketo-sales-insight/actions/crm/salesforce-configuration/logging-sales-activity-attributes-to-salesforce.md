@@ -2,9 +2,9 @@
 description: Loggning Sales Activity Attributes to Salesforce - Marketo Docs - Product Documentation
 title: Loggningsattribut för försäljningsaktivitet till Salesforce
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
-source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
+source-git-commit: 9f3b91e7b0626b2a229f4a98fb734e926a141ec0
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '363'
 ht-degree: 1%
 
 ---
@@ -38,6 +38,20 @@ Beskrivning av varje kolumn i tabellen nedan:
   <th>API-namn</th>
   <th>Datatyp</th>
   <th>Storlek</th>
+ </tr>
+  <tr>
+  <td>Utfall för samtal</td>
+  <td>mktosales_call_result</td>
+  <td>mktosales_call_result_c</td>
+  <td>Text</td>
+  <td>50</td>
+ </tr>
+ <tr>
+  <td>Samtalsorsaker</td>
+  <td>mktosales_call_reason</td>
+  <td>mktosales_call_reason__c</td>
+  <td>Text</td>
+  <td>50</td>
  </tr>
  <tr>
   <td>Marketo-samtal Lokalt närvaro-ID</td>

@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: db744779ff25428f111f35720e3c8f3ce1011399
+source-git-commit: 9f3b91e7b0626b2a229f4a98fb734e926a141ec0
 workflow-type: tm+mt
-source-wordcount: '8761'
+source-wordcount: '8766'
 ht-degree: 0%
 
 ---
@@ -1268,8 +1268,9 @@ ht-degree: 0%
          + [Funktionsöversikt för Sales Insight](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + Komma igång {#getting-started}
             + [Handbok om User Onboarding för Sales Insight Actions](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
-            + [Administratörshandbok för MSI-åtgärder](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-guide.md)
+            + [Handbok för administration av Sales Insight Actions](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
             + [Ändra ditt Marketo-lösenord](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
+            + [Begränsningar för produktanvändning](product-docs/marketo-sales-insight/actions/getting-started/product-usage-limits.md)
             + E-postinställningar {#email-settings}
                + [Verifiera din e-postadress](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
                + [Lägg till eller uppdatera din e-postsignatur](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
