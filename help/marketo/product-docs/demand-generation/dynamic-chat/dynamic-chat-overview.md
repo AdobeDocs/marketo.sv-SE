@@ -2,9 +2,9 @@
 description: Dynamic Chat Overview - Marketo Docs - produktdokumentation
 title: Dynamisk chattöversikt
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
+source-git-commit: 9086f99c75aa4a594fa85b474e282e84791b5090
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '780'
 ht-degree: 0%
 
 ---
@@ -54,6 +54,10 @@ Här ser du alla avtalade tider som har schemalagts av webbplatsbesökare via ol
 Här kan du se en lista över alla agenter som har kopplat samman sina kalendrar samt i vilken ordning de kommer att presenteras för webbplatsens besökare. Möten blir till rån, så om du har fem agenter och agent tre tog det senaste mötet får agent 4 nästa, följt av agent fem och sedan tillbaka till agent ett.
 
 ## Vanliga frågor {#faq}
+
+**Kan jag installera Dynamic Chat var som helst på företagets webbplats eller fungerar det bara på Marketo landningssidor?**
+
+JavaScript-kodfragmentet Dynamic Chat kan installeras på alla webbplatser och på Marketo landningssidor.
 
 **Hur länge lagras data för rapportering?**
 
