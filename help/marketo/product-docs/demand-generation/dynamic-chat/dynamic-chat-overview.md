@@ -2,9 +2,9 @@
 description: Dynamic Chat Overview - Marketo Docs - produktdokumentation
 title: Dynamisk chattöversikt
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 9086f99c75aa4a594fa85b474e282e84791b5090
+source-git-commit: ff34ef099f2af949602aa3220eb44e4494a6a7a9
 workflow-type: tm+mt
-source-wordcount: '780'
+source-wordcount: '896'
 ht-degree: 0%
 
 ---
@@ -67,17 +67,39 @@ JavaScript-kodfragmentet Dynamic Chat kan installeras på alla webbplatser och p
 
 Nej, det använder bara förbestämda svar.
 
-**Hur kan jag rikta mig till anonyma människor?**
+**Har Dynamic Chat stöd för andra språk än engelska?**
 
-I dialogrutan måste du använda _Personens e-postadress är tom_ -attribut.
+Ja. Dynamic Chat har stöd för följande språk: Franska, tyska, japanska, spanska, italienska, brasiliansk portugisiska, koreanska, förenklad kinesiska och traditionell kinesiska. Läs mer i [avsnitt nedan](#changing-the-language).
 
 **Stöder du AI/NLP-funktioner?**
 
 Vi stöder inte AI/NLP-funktioner.
 
-**Finns det några andra språk än engelska i Dynamic Chat?**
+**Hur kan jag rikta mig till anonyma människor?**
 
-Inte just nu.
+I dialogrutan måste du använda _Personens e-postadress är tom_ -attribut.
+
+## Ändra språk {#changing-the-language}
+
+Följ de här stegen för att ändra ditt dynamiska chattspråk.
+
+1. Klicka på inställningsikonen på ditt Experience Cloud-konto och välj **Inställningar**.
+
+   ![](assets/dynamic-chat-overview-1.png)
+
+1. Klicka på det aktuella språket under din e-postadress.
+
+   ![](assets/dynamic-chat-overview-2.png)
+
+1. Välj ditt nya språk (det andra språket är valfritt) och klicka på **Spara**.
+
+   ![](assets/dynamic-chat-overview-3.png)
+
+   >[!IMPORTANT]
+   >
+   >Det finns ett fåtal språk att välja bland, men Dynamic Chat har bara stöd för följande: Engelska, franska, tyska, japanska, spanska, italienska, brasiliansk portugisiska, koreanska, förenklad kinesiska och traditionell kinesiska.
+
+När du uppdaterar ditt språk ändras allt i själva programmet, förutom orden som du själv har fyllt i (t.ex. strömningssvar).
 
 ## Gränser i dynamiskt chatt {#limits-in-dynamic-chat}
 
