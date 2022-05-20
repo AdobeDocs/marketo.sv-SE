@@ -3,9 +3,10 @@ description: Komma igång med prediktiva målgrupper - Marketo Docs - produktdok
 title: Komma igång med prediktiva målgrupper
 hide: true
 hidefromtoc: true
-source-git-commit: db744779ff25428f111f35720e3c8f3ce1011399
+exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
+source-git-commit: ff34ef099f2af949602aa3220eb44e4494a6a7a9
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
@@ -16,10 +17,11 @@ Predictive Audiences (PA) använder artificiell intelligens och maskininlärning
 
 PA har följande funktioner:
 
-* [Målspårning och planerade registreringar](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md){target=&quot;_blank&quot;}
-* AI/ML-baserade insikter
 * Värden för registrering och närvaro av sannolikhet för varje lead i ett händelseprogram
 * [Prediktiva filter](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target=&quot;_blank&quot;}
+* [Modeller och påverkande faktorer](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target=&quot;_blank&quot;}
+* AI/ML-baserade insikter
+* [Målspårning och planerade registreringar](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md){target=&quot;_blank&quot;} (Målspårning är endast tillgängligt för dem som har aktiverat nästa generations alternativknapp för händelseprogram - om du vill komma åt denna alternativknapp kontaktar du CSM och begär prediktiva målgrupper)
 
 >[!NOTE]
 >
