@@ -4,7 +4,7 @@ title: Komma igång med prediktiva målgrupper
 hide: true
 hidefromtoc: true
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
-source-git-commit: ff34ef099f2af949602aa3220eb44e4494a6a7a9
+source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 0%
@@ -36,4 +36,3 @@ Prediktiva målgrupper inkluderas och aktiveras automatiskt för instanser som a
 1. När funktionen har lagts till i instansen går du till **[!UICONTROL Predictive Audiences]** sidan i **[!UICONTROL Admin]** Marketo.
 
 1. Kontrollera **[!UICONTROL Enable Predictive Audiences]** för att aktivera funktionen. Observera att det kan ta upp till 24 timmar för alla processer att slutföra installationen.
-

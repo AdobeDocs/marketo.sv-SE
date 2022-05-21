@@ -1,85 +1,85 @@
 ---
-description: Audience Criteria - Marketo Docs - Product Documentation
-title: Audience Criteria
+description: Målgrupper - Marketo Docs - produktdokumentation
+title: Målgruppskriterier
 exl-id: 9b70b03e-229e-469e-bd65-07aaf2dcbec6
-source-git-commit: a437f39ccc5b1937c34ce43e7aedad82b22cf532
+source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '428'
 ht-degree: 0%
 
 ---
 
-# Audience Criteria {#audience-criteria}
+# Målgruppskriterier {#audience-criteria}
 
-Similar to Marketo Smart Lists, Audience Criteria attributes allow you to define your target audience. You can target known or unknown people using inferred, person, or company attributes (or a combination thereof).
+På samma sätt som med Marketo smarta listor kan du definiera målgruppen med hjälp av attribut för målgruppskriterier. Du kan rikta in dig på kända eller okända personer med hjälp av attribut för härkomst, person eller företag (eller en kombination av dessa).
 
-****
+**Kända personer**
 
-__ ****
+Det finns _många_ attributkombinationer att välja mellan. I det här exemplet riktar vi oss mot alla **kända personer** i Kalifornien som arbetar på ett företag med över 50 anställda.
 
-1. ****
+1. Ta tag i **Persontillstånd** och dra den åt höger.
 
    ![](assets/audience-criteria-1.png)
 
-1. __ In the Select Values field, type in CA (you can also click the drop-down and select from the list).
+1. _Är_ är inställt som standard. I fältet Välj värden skriver du in CA (du kan också klicka på listrutan och välja från listan).
 
    ![](assets/audience-criteria-2.png)
 
-1. ****__
+1. Ta tag i **Företagsstorlek** och dra det dit det ska _dra och släpp ett attribut här_.
 
    ![](assets/audience-criteria-3.png)
 
    >[!NOTE]
    >
-   >****
+   >Du kan också välja ett attribut genom att klicka på dess **+** ikon.
 
-1. ****
+1. Klicka på operatorlistrutan och välj **Större än**.
 
    ![](assets/audience-criteria-4.png)
 
-1. Type 50 and click elsewhere on the screen to save.
+1. Skriv 50 och klicka någon annanstans på skärmen för att spara.
 
    ![](assets/audience-criteria-5.png)
 
-And that&#39;s it!
+Och det är allt!
 
-****
+**Anonyma personer**
 
-There&#39;s an easy way to specifically target people who are not in your database yet. ****
+Det finns ett enkelt sätt att specifikt rikta in sig på personer som inte finns i din databas än. I det här exemplet riktar vi oss mot alla **anonyma personer** i New York.
 
-1. ****
+1. Ta tag i **Personens e-postadress** och dra den åt höger.
 
    ![](assets/audience-criteria-6.png)
 
-1. ****
+1. Klicka på operatorlistrutan och välj **Är tom**.
 
    ![](assets/audience-criteria-7.png)
 
-1. ****__
+1. Ta tag i **Inledningstillstånd** och dra det dit det ska _dra och släpp ett attribut här_.
 
    ![](assets/audience-criteria-8.png)
 
    >[!NOTE]
    >
-   >[](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) We look up their IP in a special database and infer all kinds of good info.
+   >När någon besöker er webbplats [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) cookies och placerar dem i systemet. Vi slår upp deras IP-adresser i en särskild databas och drar nytta av all slags bra information.
 
-1. __ In the Select Values field, type in NY (you can also click the drop-down and select from the list).
+1. _Är_ är inställt som standard. I fältet Välj värden skriver du NY (du kan också klicka på listrutan och välja från listan).
 
    ![](assets/audience-criteria-9.png)
 
-## Add Groups {#add-groups}
+## Lägg till grupper {#add-groups}
 
-You have the option of grouping attributes as well, in case you want to have all of certain attributes along with &quot;all or any&quot; of another. You can add multiple groups.
+Du kan också gruppera attribut om du vill ha alla attribut tillsammans med&quot;all eller något&quot; av andra. Du kan lägga till flera grupper.
 
 ![](assets/audience-criteria-10.png)
 
 ![](assets/audience-criteria-11.png)
 
-## Target {#target}
+## Mål {#target}
 
-This is where you enter the URL(s) that you want a specific Dialogue to be shown on. You also have the option of adding exclusions.
+Här anger du de URL:er som du vill att en viss dialogruta ska visas på. Du kan också lägga till undantag.
 
-Acceptable formats:
+Godtagbara format:
 
 * `http://website.com`
 * `https://*.website.com`
@@ -88,15 +88,17 @@ Acceptable formats:
 
 >[!NOTE]
 >
->Using an asterisk acts as a catch-all wilcard. `https://*.website.com``support.website.com` `https://website.com/folder/*`
+>Om du använder en asterisk fungerar det som ett jokertecken för&quot;catch all&quot;. Så `https://*.website.com` skulle lägga dialogrutan på alla sidor på webbplatsen, inklusive underdomäner (t.ex.: `support.website.com`). Och `https://website.com/folder/*` placerar dialogrutan på varje HTML-sida i efterföljande mapp (t.ex.: Låt oss i det här fallet säga att mappen är &quot;sport&quot;, så: website.com/sports/baseball.html, website.com/sports/football.html osv.).
 
-**** Exclusions follow the same format as inclusions.
+**Undantag**
+
+Använd undantag för att säkerställa att dialogrutan gör det **not** visas på en viss sida/ett visst område på webbplatsen. Undantag har samma format som inkluderingar.
 
 ![](assets/audience-criteria-12.png)
 
 >[!MORELIKETHIS]
 >
->* [](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
->* [](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
->* [](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
+>* [Skapa en dialogruta](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}
+>* [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target=&quot;_blank&quot;}
+>* [Rapporter](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target=&quot;_blank&quot;}
 
