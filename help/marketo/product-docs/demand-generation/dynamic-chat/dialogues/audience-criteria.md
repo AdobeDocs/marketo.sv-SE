@@ -2,9 +2,9 @@
 description: Målgrupper - Marketo Docs - produktdokumentation
 title: Målgruppskriterier
 exl-id: 9b70b03e-229e-469e-bd65-07aaf2dcbec6
-source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
+source-git-commit: 17f56a01096b1cc48a9df7a717145a00ef491dbd
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '499'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,31 @@ ht-degree: 0%
 
 På samma sätt som med Marketo smarta listor kan du definiera målgruppen med hjälp av attribut för målgruppskriterier. Du kan rikta in dig på kända eller okända personer med hjälp av attribut för härkomst, person eller företag (eller en kombination av dessa).
 
+## Händelser {#events}
+
+![](assets/audience-criteria-0.png)
+
+Med händelser kan ni rikta in er på besökarna baserat på hur mycket de rullar eller hur länge de finns på sidan/webbplatsen. I exemplet nedan riktar vi oss till besökare som har varit på en viss sida i mer än 20 sekunder.
+
+1. Ta tag i **Tid på sidan** och dra den åt höger.
+
+   ![](assets/audience-criteria-0a.png)
+
+1. Ställ in tiden&quot;Större än&quot; på 20 sekunder.
+
+   ![](assets/audience-criteria-0b.png)
+
+1. Lägg till URL-adressen för den önskade sidan i [Mål](#target) -avsnitt.
+
+   ![](assets/audience-criteria-0c.png)
+
+## Attribut {#attributes}
+
+![](assets/audience-criteria-0d.png)
+
 **Kända personer**
 
-Det finns _många_ attributkombinationer att välja mellan. I det här exemplet riktar vi oss mot alla **kända personer** i Kalifornien som arbetar på ett företag med över 50 anställda.
+Det finns _många_ attributkombinationer att välja mellan. I exemplet nedan riktar vi oss mot alla **kända personer** i Kalifornien som arbetar på ett företag med över 50 anställda.
 
 1. Ta tag i **Persontillstånd** och dra den åt höger.
 
