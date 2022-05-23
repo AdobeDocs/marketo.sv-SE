@@ -2,9 +2,9 @@
 description: Stream Designer - Marketo Docs - produktdokumentation
 title: Stream Designer
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
+source-git-commit: 3883f31e59e4ba2dccf53961068fea7d5f805192
 workflow-type: tm+mt
-source-wordcount: '596'
+source-wordcount: '630'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,10 @@ Strömdesignern innehåller flera kort som du kan lägga till för att forma cha
  <tr>
   <td><strong>Fråga</strong></td>
   <td>Använd det här alternativet om du vill ställa en flervalsfråga, där du anger tillgängliga svar (t.ex.: Vilken typ av fordon är du intresserad av? Svar = SUV, Compact, Truck osv.).</td>
+ </tr>
+ <tr>
+  <td><strong>Dokument</strong></td>
+  <td>Gör att du kan bädda in PDF-dokument i dialogrutor och spåra besökares engagemang i dokument (hur många sidor som visades, om dokumentet hämtades och/eller eventuella söktermer som användes).</td>
  </tr>
  <tr>
   <td><strong>Information Capture</strong></td>
