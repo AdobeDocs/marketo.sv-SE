@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 9f3b91e7b0626b2a229f4a98fb734e926a141ec0
+source-git-commit: 3559dff22a294545440790c712e80b853340b66d
 workflow-type: tm+mt
-source-wordcount: '8766'
+source-wordcount: '8770'
 ht-degree: 0%
 
 ---
@@ -619,6 +619,7 @@ ht-degree: 0%
             + [Skapa en dialogruta](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
             + [Målgruppskriterier](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
             + [Stream Designer](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
+            + [Använda dokumentkortet](product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md)
             + [Rapporter](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
       + Händelser {#events}
          + Förstå händelser {#understanding-events}

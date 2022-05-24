@@ -3,9 +3,9 @@ unique-page-id: 12980733
 description: Marketo-ordlista - Marketo Docs - produktdokumentation
 title: Marketo-ordlista
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
+source-git-commit: 3559dff22a294545440790c712e80b853340b66d
 workflow-type: tm+mt
-source-wordcount: '4205'
+source-wordcount: '4196'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Nedan finns definitioner för många av de termer du kan stöta på när du anv�
   </tr> 
   <tr> 
    <td><strong>Kontolista</strong></td> 
-   <td>En lista med nyckelnamn för konto/organisation. Kallas även kontobaserad marknadsföring (<strong>ABM</strong>).</td> 
+   <td>En lista med nyckelnamn för konto/organisation. Kallas även Account-Based Marketing (<strong>ABM</strong>).</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Kontoprofilering</strong></td> 
@@ -272,7 +272,7 @@ Nedan finns definitioner för många av de termer du kan stöta på när du anv�
   </tr> 
   <tr> 
    <td colspan="1"><strong>Dokument</strong></td> 
-   <td colspan="1">Dokumenten är korta för dokument och är hjälpartiklar som kunderna kan använda för att bättre förstå produkten. Marketo har flera olika typer av dokument: Produktdokument (den webbplats du för närvarande är på), <a href="https://experienceleague.adobe.com/docs/marketo/sky/home.html" rel="nofollow">Marketo Sky</a> dokument, <a href="https://developers.marketo.com/" rel="nofollow">Utvecklare</a> dokument, och <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Support</a> dokument.</td> 
+   <td colspan="1">Dokumenten är korta för dokument och är hjälpartiklar som kunderna kan använda för att bättre förstå produkten. Marketo har flera olika typer av dokument: Produktdokument (den webbplats du för närvarande är på), <a href="https://developers.marketo.com/" rel="nofollow">Utvecklare</a> dokument, och <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Support</a> dokument.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Domänbaserad meddelandeautentisering, rapportering och överensstämmelse (DMARC)</strong></td> 
@@ -511,7 +511,7 @@ Nedan finns definitioner för många av de termer du kan stöta på när du anv�
  <tbody> 
   <tr> 
    <td><strong>Marknadsföringsaktiviteter</strong></td> 
-   <td><p>En av kärnavsnitten i Adobe Marketo Engage. Här är dina <strong>kampanj</strong> orkestrering sker. Alla dina <strong>program</strong>, kampanjer och <strong>kampanjmappar</strong> (och deras <strong>lokala resurser</strong>) bor här.</p></td> 
+   <td><p>En av Adobe Marketo Engage kärnavsnitt. Här är dina <strong>kampanj</strong> orkestrering sker. Alla dina <strong>program</strong>, kampanjer och <strong>kampanjmappar</strong> (och deras <strong>lokala resurser</strong>) bor här.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="https://www.marketo.com/marketing-automation/" rel="nofollow"><strong>Marknadsföringsautomatisering</strong></a></td> 
