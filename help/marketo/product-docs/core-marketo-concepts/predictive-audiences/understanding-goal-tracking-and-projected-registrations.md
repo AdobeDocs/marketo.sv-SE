@@ -4,16 +4,16 @@ title: Förstå målspårning och projekterade registreringar
 hide: true
 hidefromtoc: true
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: 3559dff22a294545440790c712e80b853340b66d
+source-git-commit: 8aeff85c2287e670443e7e6aa1b2b27a4301754a
 workflow-type: tm+mt
-source-wordcount: '967'
+source-wordcount: '955'
 ht-degree: 0%
 
 ---
 
 # Förstå målspårning och projekterade registreringar {#understanding-goal-tracking-and-projected-registrations}
 
-Efter [ställa in händelsemål](/help/sky/setting-event-goals.md) och skicka inbjudningar via [smart kampanj](/help/sky/create-a-smart-campaign.md)så här ser du hur du kan följa upp dina målframsteg och förstå Marketo prognoser.
+Så här ser ni hur ni kan följa upp målutvecklingen och förstå Marketo prognoser.
 
 >[!NOTE]
 >
