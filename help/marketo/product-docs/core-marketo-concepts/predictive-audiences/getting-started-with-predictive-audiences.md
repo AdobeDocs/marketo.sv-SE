@@ -1,12 +1,10 @@
 ---
 description: Komma igång med prediktiva målgrupper - Marketo Docs - produktdokumentation
 title: Komma igång med prediktiva målgrupper
-hide: true
-hidefromtoc: true
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
-source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
+source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
@@ -21,7 +19,7 @@ PA har följande funktioner:
 * [Prediktiva filter](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target=&quot;_blank&quot;}
 * [Modeller och påverkande faktorer](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target=&quot;_blank&quot;}
 * AI/ML-baserade insikter
-* [Målspårning och planerade registreringar](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md){target=&quot;_blank&quot;} (Målspårning är endast tillgängligt för dem som har aktiverat nästa generations alternativknapp för händelseprogram - om du vill komma åt denna alternativknapp kontaktar du CSM och begär prediktiva målgrupper)
+* Målspårning och projekterad registrering - (Målspårning är endast tillgängligt för dem som har aktiverat nästa generations alternativknapp för händelseprogram - om du vill komma åt den här växlingsknappen, kontakta CSM och begära prediktiva målgrupper)
 
 >[!NOTE]
 >

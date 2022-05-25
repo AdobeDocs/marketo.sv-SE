@@ -1,10 +1,8 @@
 ---
 description: Prediktiva filter - Marketo Docs - produktdokumentation
 title: Prediktiva filter
-hide: true
-hidefromtoc: true
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
-source-git-commit: 3559dff22a294545440790c712e80b853340b66d
+source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%

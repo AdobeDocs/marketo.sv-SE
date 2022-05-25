@@ -1,10 +1,8 @@
 ---
 description: Modeller och insikter - Marketo Docs - produktdokumentation
 title: Modeller och insikter
-hide: true
-hidefromtoc: true
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
-source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
+source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%

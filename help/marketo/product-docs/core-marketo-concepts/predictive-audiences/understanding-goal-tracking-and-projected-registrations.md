@@ -4,9 +4,9 @@ title: Förstå målspårning och projekterade registreringar
 hide: true
 hidefromtoc: true
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: 8aeff85c2287e670443e7e6aa1b2b27a4301754a
+source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
 workflow-type: tm+mt
-source-wordcount: '955'
+source-wordcount: '974'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Förstå målspårning och projekterade registreringar {#understanding-goal-tracking-and-projected-registrations}
 
 Så här ser ni hur ni kan följa upp målutvecklingen och förstå Marketo prognoser.
+
+>[!PREREQUISITES]
+>
+>För att få tillgång till de flesta funktionerna måste du se till att [next-gen-toggle](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;} för händelseprogram.
 
 >[!NOTE]
 >
