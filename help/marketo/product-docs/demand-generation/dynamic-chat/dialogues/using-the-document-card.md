@@ -1,11 +1,10 @@
 ---
 description: Använda dokumentkortet - Marketo Docs - produktdokumentation
 title: Använda dokumentkortet
-hide: true
-hidefromtoc: true
-source-git-commit: 3559dff22a294545440790c712e80b853340b66d
+exl-id: 7fd1bfd0-95a9-4878-90a1-5bdfe8014919
+source-git-commit: 3df0369a963bd9c918fdeb819d503584c27cd5f1
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -28,15 +27,19 @@ Med dokumentkortet kan du bädda in PDF-dokument i dialogrutor och spåra besök
 
    ![](assets/using-the-document-card-3.png)
 
+   >[!IMPORTANT]
+   >
+   >Du måste använda den domän där du kommer att vara värd för chatbot (t.ex. om du är värd för chatbot på mycompany.com, se till att du anger det i steg 4).
+
 1. Klicka **Kopiera** för att kopiera ditt klient-ID.
 
    ![](assets/using-the-document-card-4.png)
 
-1. Tillbaka i Dynamic Chat, klicka **Integreringar**. Klicka på punkten under Adobe PDF Embed API och välj **Redigera konfiguration**.
+1. Tillbaka i Dynamic Chat, klicka **Integreringar**. Klicka på Adobe PDF Embed API-kort **Aktivera**.
 
    ![](assets/using-the-document-card-5.png)
 
-1. Klistra in ditt klient-ID och klicka på **Uppdatera**.
+1. Klistra in ditt klient-ID och klicka på **Spara**.
 
    ![](assets/using-the-document-card-6.png)
 
