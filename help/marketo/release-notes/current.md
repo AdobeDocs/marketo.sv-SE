@@ -2,71 +2,63 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: c040d8364bd353e31d26b98284130c22f44b24e8
+source-git-commit: 375af5ec7293acd0cdf352c8aa0a7a3973b248be
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: Maj 2022 {#release-notes-may-22}
+# Versionsinformation: Juni 2022 {#release-notes-june-22}
 
-Här nedan hittar du alla funktioner som ingår i versionen från maj 22. Se om det finns funktioner i Adobe Marketo Engage Edition.
+Här nedan hittar du alla funktioner som ingår i versionen från 22 juni. Se om det finns funktioner i din Adobe Marketo Engage-utgåva.
 
 >[!AVAILABILITY]
 >
 >Funktioner som anges av en stjärna (![stjärna](assets/yellow-star.png)) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
 
-**_Kvartalsvisa releaser_**
+Följande funktioner kommer att lanseras den **24 juni 2022**, med en stegvis utrullning av återstående funktioner under de följande veckorna (om inget annat anges).
 
-Följande funktioner kommer att lanseras den **6 maj 2022**, med en stegvis utrullning av återstående funktioner under de följande veckorna (om inget annat anges).
+## Marknadsföringsdatamiljö {#marketing-data-environment}
 
-## Integrering med CRM {#native-crm-integration}
+* **Visa CreatedAt/UpdatedAt-fält för anpassade objekt**: Ger dig möjlighet att inspektera de här fälten i personinformationsfönstret för att få ytterligare insikter.
 
-**[Integrering med veeva CRM](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target=&quot;_blank&quot;} (begränsad tillgänglighet)**: Förbättra engagemanget hos hälso- och sjukvårdspersonal genom att synkronisera aktiviteten mellan Veeva CRM och Marketo Engage via inbyggd integrering. Tack vare den här integreringen kan marknadsförarna skapa mer personaliserade och sömlösa upplevelser över flera kanaler för hälso- och sjukvårdspersonal. Kontakta din Customer Success Manager om du är intresserad av att delta.
+## Flerkanalsmarknadsföring {#cross-channel-orchestration}
 
-## Flerkanalsmarknadsföring {#cross-channel-orchestration}
+* **Förbättrad användning av Stream Designer för dynamiskt chatt**: Lägg till kort direkt från arbetsytan i Stream Designer utan att behöva dra och släppa. Gränssnittet Dynamic Chat har också förbättrats så att innehåll i enskilda kort blir synligare.
 
-**Chatbot Events for Dynamic Chat**: Utnyttja mer detaljerade beteendedata för webbbesökare som t.ex. tid på sidan, tid på webbplatsen och procent för sidrullning för att definiera när en chattdialog ska visas.
+* **Avancerade routningsregler för avtalad tid för dynamiskt chatt**: Dynamic Chat erbjuder fler alternativ för riktad routning av avtalade tider. Ange vilka agentavtalade tider som ska dirigeras baserat på Marketo Engage-attribut, så att leads dirigeras till lämpliga agenter.
 
-**PDF Embed for Dynamic Chat**: Öka engagemanget och dela meningsfullt innehåll genom att bädda in PDF i chattdialogrutor och mäta innehållets prestanda med hjälp av uppföljning av engagemangsaktiviteter.
+* **Avancerad dialograpportering för dynamiskt chatt**: Se resultatet för era Dynamic Chat-kampanjer i detalj med helt nya datavisualiseringar för engagemang och konverteringsstatistik.
 
-**Utökat språkstöd för dynamiskt chatt**: Användargränssnittet Dynamic Chat finns nu även på franska, tyska, japanska, portugisiska och spanska. Chattdialogrutor kan även konfigureras på dessa språk.
+* **Osynkroniserade oanvända Marketo Engage-attribut för dynamiskt chatt**: Osynkroniserade Marketo Engage-attribut från din Dynamic Chat-prenumeration som inte används hjälper dig att rensa bort data och som gör det möjligt att synkronisera alternativa attribut efter behov.
 
-**Uteslut URL:er för dynamiskt chatt**: Styr vilken av dina webbsidor Dynamic Chat ska visas med möjligheten att utesluta specifika URL:er från kriterier för målanpassning.
+## Experience Automation {#experience-automation}
 
-**[Förbättrad filtrering av e-poststartaktivitet](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;}**: Fortsätt att skydda databasens hälsa med möjligheten att identifiera båda beteenden baserat på dolda länkar, användaragenter eller IP-adresser och närhetsmönster, utöver den befintliga IAB-listan, matchar identifiering. Visa startaktivitetsstatistik som gör att du kan förstå antalet båda aktiviteter som identifieras för varje typ.
+* **Undantag för verifieringsregel för globalt formulärfält**: Undanta specifika formulär från Global Form Validation Rules så att prenumerationscentraler och andra affärskritiska arbetsflöden kan acceptera alla värden.
 
-**[STS Header for Email Tracking Links](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target=&quot;_blank&quot;}**: Följ vedertagna säkerhetsstandarder med möjlighet att lägga in säkra transportsäkerhetsrubriker för att säkerställa att trafik till spårade länkar alltid är säker.
+* **Självbetjäningsflödessteg**: Utöka anslutningsmöjligheterna mellan Marketo Engage och resten av högen med möjligheten att skapa anpassade flödessteg som kan användas i smarta kampanjer. Både användare och partners i Marketo Engage kan utnyttja den här funktionen för att tillåta användning av externa webbtjänster i utlösar-, batch- och körbara kampanjer, i motsats till webbhooks, som bara kan användas i utlösarkampanjer.
 
-## Nästa generations upplevelse {#next-generation-experience}
+* **Munchkin Protocol-agentlänkspårning**: Utöka stödet för spårning av `tel` och `mailto` länkar med Munchkin för att spåra fler webbbeteenden.
 
-**Växla som standard till nästa generations upplevelse**: Växlingsknappen kommer att vara standard för den nya upplevelsen på alla skärmar där den är tillgänglig, vilket gör det enklare för användarna att upptäcka de uppdaterade designförbättringarna och användbarhetsförbättringarna.
+* **Ytterligare HTTP-metoder för webhooks**: Ange PUT, PATCH och DELETE som begärandetyper för interaktion med webbtjänster.
 
-**Uppdaterad skärm i nästa generation**:
+## Försäljningsinsikter {#sales-insight}
 
-Vi levererar detaljvy för e-postmallar i Design Studio i nästa generation av upplevelser, med uppdaterade design- och användarvänlighetsförbättringar som är tillgängliga via växlingsfunktion.
+![(stjärna)](assets/yellow-star.png)
 
-## Experience Automation {#experience-automation}
-
-**Självbetjäningsflödessteg (forts. beta)**: Utöka anslutningsmöjligheterna mellan Marketo Engage och resten av högen med möjligheten att skapa anpassade flödessteg som kan användas i smarta kampanjer. Både användare och partners i Marketo Engage kan utnyttja den här funktionen för att möjliggöra användning av externa webbtjänster i utlösar-, batch- och körbara kampanjer (till skillnad från webbhookar som bara kan användas i utlösarkampanjer).
+* **Behörighetsuppsättning för försäljningsinsikter i Salesforce**: Administratörer kan ge Sales Insight åtkomst till en begränsad uppsättning personer på användarnivå i stället för på profilnivå via behörighetsgruppen Marketo App, som ingår i Sales Insight Salesforce-paketet.
 
 ## API-förbättringar {#api-enhancements}
 
-* **Utökad API-åtkomst för CRM-aktiverade prenumerationer**: Vi utökar API-åtkomsten för prenumerationer som har en CRM-synkronisering aktiverad så att användare kan hämta företag, säljprojekt och säljare från Marketo Engage.
-* **Stöd för&quot;dolda&quot; datatyper i Forms**: Ger möjlighet att hantera dolda formulärfält via API.
-* **Stöd för flera jämförelsevärden för isNot-formulär via regler**: Hantera synlighet för formulärfält baserat på om värdet för ett annat fält inte är ett av värdena i en given lista.
-* **Tillåt inställning av Visa och Skickade värden i Välj listor separat**: Ange visningsvärdet och det skickade värdet separat i ett fält. Visa till exempel namnet på ett hotell, men skicka ett internt ID till serverdelen.
-* **Tillåt inställning av Inaktivera Open Tracking vid skapande eller uppdatering av e-post**: Skapa ett e-postmeddelande med öppen spårning inaktiverat.
+* **Nya filtreringsfunktioner för API:t för Bulk Program Member Extract**: Filtrera efter status för programmedlemskap, updatedAt, cadence eller slut på innehåll för att förfina extraherade datauppsättningar.
+
+* **Förbättring av API för Massprogrammedlemsextrahering**: Ange upp till 10 program när du skapar jobb för att förbättra genomströmningen.
 
 ## Meddelanden {#announcements}
 
-**E-postverifiering och unikhet**: Från och med april påbörjas utrullningen av e-postverifieringen. I det läget kommer Marketo Engage-användares e-postadresser att kräva verifiering och unikhet (detta gäller inte endast API-användare). Katalogtjänstautentiserade användare får automatiskt sina e-postmeddelanden verifierade när deras prenumeration aktiveras med e-postverifiering.
-
-Verifiering via e-post för prenumerationer med funktionen Inbjudan till användare, eller som har ett enda e-postmeddelande kopplat till flera användare, sammanfaller med majversionen. Prenumerationer som har ett enda e-postmeddelande kopplat till flera användare aktiveras med e-postverifiering och kräver att dessa användare löser konflikten och använder ett unikt e-postmeddelande per användare. När funktionen&quot;Logga in i inbjudan till användare&quot; är aktiverad måste användare som bjudits in via den här funktionen ha en unik e-postadress. För API-användare som bjudits in via den här funktionen behöver e-postadressen inte vara unik.
-
-**Ändra beteende för arkivmapp**: I den här versionen är möjligheten att skapa nya resurser i arkivmappar inte längre tillgänglig från trädsnabbmenyerna. Menyalternativen för att skapa nya resurser döljs för alla resurser. [Läs mer här](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target=&quot;_blank&quot;}.
+* **Forms-borttagning - Forms 1.0, lead Capture/save endpoint och no-script-versioner av formulär**: Stöd för Forms 1.0-material kommer att tas bort helt från Marketo Engage. Alla befintliga Forms 1.0-resurser kommer inte längre att fungera. För Marketo Engage-formulär krävs att JavaScript läses in på landningssidor och webbplatser.
 
 **_Product Release Webinar_**
 
-[Mars och maj 2022 Marketo Engage Release Webinar](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target=&quot;_blank&quot;}
+Besök oss den 24 augusti 2022 kl. 9.00 PT/12.00 ET för en [live webbinarium](https://engage.marketo.com/2022_June_August_Release_Webinar_RegistrationPage.html){target=&quot;_blank&quot;} som hanteras av vårt produktteam där du kan lära dig att använda alla de senaste produktinnovationerna.
