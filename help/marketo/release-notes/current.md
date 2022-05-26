@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 375af5ec7293acd0cdf352c8aa0a7a3973b248be
+source-git-commit: f7bb22572ed1a79fe8afe4a1066a2cc172a43f23
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '644'
 ht-degree: 0%
 
 ---
@@ -48,6 +48,12 @@ Följande funktioner kommer att lanseras den **24 juni 2022**, med en stegvis ut
 ![(stjärna)](assets/yellow-star.png)
 
 * **Behörighetsuppsättning för försäljningsinsikter i Salesforce**: Administratörer kan ge Sales Insight åtkomst till en begränsad uppsättning personer på användarnivå i stället för på profilnivå via behörighetsgruppen Marketo App, som ingår i Sales Insight Salesforce-paketet.
+
+* **Min Marketo Tile Update - Sales Insight Actions**: Marketo-administratörer (och de användare de utser) kan nu snabbt navigera till sin instans av Sales Insight Actions via en ny Sales Insight Actions-panel på My Marketo-sidan.
+
+## Sales Connect {#sales-connect}
+
+* **Uppdatering för Salesforce API**: I Salesforce Sommar 22 stöds inte längre äldre API-versioner 21-30 av Salesforce. I den här Marketo Engage-versionen har alla Sales Connect-begäranden som använder äldre API-versioner uppdaterats så att de hålls i en version som stöds. Om du vill ha fullständig information om återtagandeplaner för Salesforce API klickar du på [här](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target=&quot;_blank&quot;}.
 
 ## API-förbättringar {#api-enhancements}
 
