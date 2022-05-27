@@ -3,16 +3,16 @@ description: Snabbguide - Marketo Docs - produktdokumentation
 title: Snabbguide
 hide: true
 hidefromtoc: true
-source-git-commit: 96f7c405d97471a5dbfbd976cfcb04fd67b4edc7
+source-git-commit: f33af70109b0491138aff8aa0416f3f919e7d20c
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
 # Snabbguide {#quick-guide}
 
-Följ stegen nedan för att konfigurera och lära dig mer om Marketo Engage med Adobe Identity Management.
+De artiklar som listas nedan hjälper dig att konfigurera och lära dig mer om Marketo Engage med Adobe Identity Management.
 
 ## Systemadministratör {#system-admin}
 
