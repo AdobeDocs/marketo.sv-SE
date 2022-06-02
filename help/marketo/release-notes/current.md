@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: f7bb22572ed1a79fe8afe4a1066a2cc172a43f23
+source-git-commit: 40e88a573079b87b3af9a653d8e0b64b5b7522bc
 workflow-type: tm+mt
-source-wordcount: '644'
+source-wordcount: '646'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ Följande funktioner kommer att lanseras den **24 juni 2022**, med en stegvis ut
 
 ## Meddelanden {#announcements}
 
-* **Forms-borttagning - Forms 1.0, lead Capture/save endpoint och no-script-versioner av formulär**: Stöd för Forms 1.0-material kommer att tas bort helt från Marketo Engage. Alla befintliga Forms 1.0-resurser kommer inte längre att fungera. För Marketo Engage-formulär krävs att JavaScript läses in på landningssidor och webbplatser.
+* **Forms-borttagning - Forms 1.0, lead Capture/save endpoint och no-script-versioner av formulär**: Stöd för Forms 1.0-resurser kommer att tas bort helt från Marketo Engage i oktober 2022. Alla befintliga Forms 1.0-resurser kommer inte längre att fungera. För Marketo Engage-formulär krävs att JavaScript läses in på landningssidor och webbplatser.
 
 **_Product Release Webinar_**
 
