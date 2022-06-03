@@ -3,10 +3,9 @@ unique-page-id: 1146942
 description: Definiera smart lista för smart kampanj | Utlösare - Marketo Docs - produktdokumentation
 title: Definiera smart lista för smart kampanj | Utlösare
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a15a4b9bccb069b51186aac7b913008d15aa645e
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Få en smart kampanj att köras på en person i taget baserat på live-händelser genom att lägga till utlösare.
 
-1. Klicka på fliken **Smart List** i den smarta kampanjen.
+1. Klicka på **Smart List** -fliken.
 
    ![](assets/image2014-9-19-16-3a22-3a55.png)
 
@@ -25,7 +24,11 @@ Få en smart kampanj att köras på en person i taget baserat på live-händelse
 
    >[!NOTE]
    >
-   >En smart kampanj med utlösare körs i **utlösarläge**. Den körs på en person i taget baserat på händelser som utlösts och eventuella ytterligare filter.
+   >En smart kampanj med utlösare körs i **Utlösare** läge. Den körs på en person i taget baserat på händelser som utlösts och eventuella ytterligare filter.
+
+   >[!IMPORTANT]
+   >
+   >När du använder ett booleskt fält i en smart lista med utlösande kampanjer måste du explicit ställa in det på false för att fältet ska kunna utvärderas korrekt under kampanjens körning.
 
 1. Klicka på listrutan och välj en operator.
 
@@ -45,9 +48,9 @@ Få en smart kampanj att köras på en person i taget baserat på live-händelse
 
    >[!NOTE]
    >
-   >Med flera utlösare går en person igenom flödet om **ANY** någon av utlösarna aktiveras.
+   >Med flera utlösare går en person igenom flödet om **VALFRITT** en av utlösarna aktiveras.
 
-Om du vill köra kampanjen på en uppsättning personer samtidigt ska du lära dig hur du [Definiera smart lista för smart kampanj | Grupp](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+Lär dig hur man kör kampanjen på en uppsättning personer samtidigt [Definiera smart lista för smart kampanj | Grupp](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
 >[!MORELIKETHIS]
 >
