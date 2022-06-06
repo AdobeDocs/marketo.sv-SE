@@ -1,12 +1,10 @@
 ---
 description: Förstå målspårning och projekterade registreringar - Marketo Docs - produktdokumentation
 title: Förstå målspårning och projekterade registreringar
-hide: true
-hidefromtoc: true
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
+source-git-commit: c3a17d5d938c91103173999d27e8bc9e75137e29
 workflow-type: tm+mt
-source-wordcount: '974'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -27,23 +25,27 @@ Så här ser ni hur ni kan följa upp målutvecklingen och förstå Marketo prog
 
 1. Information om målspårning finns i **[!UICONTROL Reports]** -fliken i ditt händelseprogram. I just det här exemplet finns det 150 registrerade medlemmar hittills mot målet 200 (75 %).
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-1.png)
 
 Du kommer också att se **[!UICONTROL Projected]** registreringar. Håll muspekaren över infoikonen om du vill se en uppdelning av det här talet efter segmentet Sannolikhet.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-2.png)
 
 >[!NOTE]
 >
 >Diagrammet Bifogad och högre förblir tomt tills händelsens dag infaller.
 
+Om du inte har aktiverat växlingsfunktionen visas den här i användargränssnittet för Marketo-klassen:
+
+![](assets/understanding-goal-tracking-and-projected-registrations-3.png)
+
 1. Klicka på knappen Diagram för att växla till en beskrivning av dina medlemmar med sannolikhet för registrering. Aktuella procentsatser för registrering för varje segment, jämfört med den genomsnittliga procentandelen för det segmentet i dina tidigare program.
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-4.png)
 
 Alla medlemmar (registrerade och ännu inte registrerade) kategoriseras utifrån deras sannolikhet för registrering. Håll muspekaren över informationsikonen för att se hur dessa sannolikhetskategorier definieras.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-5.png)
 
 >[!NOTE]
 >
@@ -62,19 +64,19 @@ Vid beräkningen av liknande program har vi bland annat tagit med följande fakt
 * Tid från det att händelsen skapas till dess att händelsen startar
 * Händelsevaraktighet
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-6.png)
 
 ## Recommendations
 
 Högst upp på sidan Rapporter hittar du AI/ML-drivna rekommendationer baserat på dina framsteg. Ta en titt regelbundet för tips och insikter!
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-7.png)
 
 ## Personnivåprognoser
 
 Klicka på **[!UICONTROL Members]** för att visa alla programmedlemmar. Hovra över **[!UICONTROL Registration Likelihood]** eller **[!UICONTROL Attendance Likelihood]** fält för att se exakta procentsatser och kategoriseringar. Du kan sedan vidta åtgärder för medlemmar i en viss kategori (t.ex. alla i kategorin&quot;Less Troely&quot; för att registrera) och särskilt inrikta dig på dem för att eventuellt öka dina registreringsnummer.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-8.png)
 
 >[!NOTE]
 >
@@ -110,7 +112,7 @@ ii. Efter 24 timmar på [!UICONTROL Reports] kan du se de planerade registrering
 
 iii. Om de planerade registreringarna är mindre än målet måste du bjuda in fler personer. Nu kan du se vilka insikter som visar vilket tröskelvärde som fungerade i tidigare program.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-9.png)
 
 iv. Du kan skapa en ny smart kampanj med det tröskelvärdet för att bjuda in fler personer.
 
@@ -124,7 +126,7 @@ S: Tre staplar, var och en representerar ett segment (Mycket sannolikt, Sannolik
 
 **Blue bar:** Registreringsprocent för alla personer i det segmentet.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-10.png)
 
 Exempel: 100 personer har möjlighet att registrera > 50 % och 60 av dessa 100 personer. Mycket troligt har 60 % konvertering. Det innebär att alla medlemmar som läggs till i programmet är benägna att registrera värden, sedan läggs de in i segment och antalet registrerade personer i varje segmentkonverteringsgrad beräknas.
 
@@ -134,10 +136,10 @@ S: Alla som är listade som registrerade eller som har en annan status med samma
 
 Du kan skapa nya statusvärden för ett händelseprogram, men vi mappar dessa statusvärden med standardstatusvärden. Tänk på ett fall där en person flyttas från en inbjudan till en påminnelse, vilket är ett högre steg än registrering. Den här personen betraktas också som registrerad och visas i målspårningen.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-11.png)
 
 **F: Hur beräknas planerade registreringar?**
 
 S: Se nedan.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-12.png)
