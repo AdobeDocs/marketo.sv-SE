@@ -3,9 +3,9 @@ description: Anpassade fält för programmedlemmar - Marketo Docs - produktdokum
 title: Anpassade fält för programmedlem
 hide: true
 hidefromtoc: true
-source-git-commit: a14516e0daf3b9c9b90aa0250fd654b8bbbcc391
+source-git-commit: 09e9ee74c32f81fdc826454266d3e16826a09eae
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 >
 >Objektet Program Member kan ha upp till 20 anpassade fält. Dessa fält är tillgängliga för alla program.
 
-## Mappa Salesforce-fält till programmedlemsfält {#map-salesforce-fields-to-program-member-fields}
+## Mappa Salesforce-fält till anpassade programmedlemsfält {#map-salesforce-fields-to-program-member-custom-fields}
 
 1. I Marketo klickar du på **Administratör**.
 
@@ -60,7 +60,7 @@ ht-degree: 0%
    >
    >Om du byter namn på eller ändrar datatypen för ett fält i Salesforce tar vi bort alla mappningar av det fältet med det anpassade fältet för programmedlem. Men du kan mappa om det med det nya fältet efter granskning.
 
-## Avmappa Salesforce-fält till programmedlemsfält {#unmap-salesforce-fields-to-program-member-fields}
+## Ta bort mappning av Salesforce-fält från anpassade programmedlemsfält {#unmap-salesforce-fields-from-program-member-custom-fields}
 
 Om du vill frigöra ett fält för att ersätta det, eller bara göra en allmän ändring, måste du först ta bort mappningen. Så här gör du.
 
@@ -88,7 +88,7 @@ Om du vill frigöra ett fält för att ersätta det, eller bara göra en allmän
 
    ![](assets/program-member-custom-field-sync-11.png)
 
-## Datatypsmappning {#datatype-mapping}
+## Datatypsmappning {#data-type-mapping}
 
 <table>
   <colgroup>
@@ -98,7 +98,7 @@ Om du vill frigöra ett fält för att ersätta det, eller bara göra en allmän
   <tbody>
     <tr>
       <th>SFDC-datatyp</th>
-      <th>Datatyp för programmedlemsfält</th>
+      <th>Datatyp för anpassat fält för programmedlem</th>
     </tr>
     <tr>
       <td>Text</td>
