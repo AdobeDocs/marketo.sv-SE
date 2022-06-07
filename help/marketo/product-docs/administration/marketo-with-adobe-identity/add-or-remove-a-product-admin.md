@@ -2,9 +2,9 @@
 description: Lägg till eller ta bort en produktadministratör - Marketo Docs - produktdokumentation
 title: Lägg till eller ta bort en produktadministratör
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
-source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
+source-git-commit: 093d043a0ac368e326c9f7fd05b7098da6274414
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 >**System** Administratörer skapas endast på organisationsnivå i Adobe. Om du tror att du behöver mer än ett, vänligen kontakta [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Lägg till en produktadministratör {#add-a-product-admin}
+
+>[!IMPORTANT]
+>
+>En administratör måste läggas till i en produktprofil för att få tillgång till Marketo Engage.
 
 1. Logga in på [Adobe Admin Console](https://adminconsole.adobe.com/).
 
