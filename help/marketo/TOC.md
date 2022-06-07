@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 96f7c405d97471a5dbfbd976cfcb04fd67b4edc7
+source-git-commit: a14516e0daf3b9c9b90aa0250fd654b8bbbcc391
 workflow-type: tm+mt
-source-wordcount: '8775'
+source-wordcount: '8780'
 ht-degree: 0%
 
 ---
@@ -384,6 +384,7 @@ ht-degree: 0%
             + [Förfallotid för lokal resurs](product-docs/core-marketo-concepts/programs/working-with-programs/local-asset-expiration.md)
             + [Hantera och visa medlemmar](product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
             + [Anpassade fält för programmedlem](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)
+            + [Synkronisering av anpassat fält för programmedlem](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md)
             + [Synkronisera en SFDC-kampanj med ett program](product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
             + [Förstå periodkostnader](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
             + [Taggar](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
