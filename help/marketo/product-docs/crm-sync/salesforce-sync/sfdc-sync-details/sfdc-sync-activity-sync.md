@@ -1,10 +1,9 @@
 ---
 unique-page-id: 2953473
-description: SFDC Sync -Activity Sync - Marketo Docs - Produktdokumentation
-title: SFDC-synkronisering - Aktivitetssynkronisering
+description: SFDC-synkronisering - Aktivitetssynkronisering - Marketo Docs - Produktdokumentation
+title: SFDC-synkronisering - aktivitetssynkronisering
 exl-id: 780e9cb7-b8b2-4a79-a0b8-d9d34a655330
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -21,11 +20,11 @@ Marketo synkroniserar över både händelser och uppgifter som är kopplade till
 
 ## Hur synkroniseras aktivitetsinformationen mellan de två systemen? {#how-are-activity-details-kept-in-sync-between-the-two-systems}
 
-Synkroniseringen är ett sätt, från Salesforce till Marketo. Men du kan skapa en uppgift i Salesforce med flödessteget [Skapa uppgift](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) eller [Anpassa aktiviteter Synkronisera](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md) till Salesforce.
+Synkroniseringen är ett sätt, från Salesforce till Marketo. Men du kan skapa en uppgift i Salesforce med [Skapa uppgift](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) flödessteg eller [Synkronisera anpassade aktiviteter](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md) till Salesforce.
 
 ## Kan jag skapa en uppgift med Marketo? {#can-i-create-a-task-using-marketo}
 
-Ja, du kan använda åtgärden [Skapa uppgiftsflöde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md).
+Ja, du kan använda [Åtgärden Skapa uppgiftsflöde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md).
 
 ## Vilka utlösare/filter är relaterade till aktiviteten? {#what-are-the-triggers-filters-related-to-activity}
 
