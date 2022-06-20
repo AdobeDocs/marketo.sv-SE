@@ -3,9 +3,9 @@ unique-page-id: 12980733
 description: Marketo-ordlista - Marketo Docs - produktdokumentation
 title: Marketo-ordlista
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 3559dff22a294545440790c712e80b853340b66d
+source-git-commit: 164669e6649927e570974af227c2b1af75ad73d3
 workflow-type: tm+mt
-source-wordcount: '4196'
+source-wordcount: '4203'
 ht-degree: 0%
 
 ---
@@ -28,19 +28,15 @@ Nedan finns definitioner för många av de termer du kan stöta på när du anv�
   </tr> 
   <tr> 
    <td colspan="1"><strong>Konto</strong></td> 
-   <td colspan="1">Termen kan ha olika betydelser:<br>-Din Marketo-instans kan kallas ditt Marketo-konto.<br>-in <strong>ABM</strong>, a <strong>Namngivet konto</strong> är ett konto som användaren har fastställt är ett målkonto som han/hon vill köra.<br>-I ABM är ett CRM-konto mappat från ditt länkade konto <strong>CRM</strong> (konto i <strong>Salesforce</strong>, <strong>MS Dynamics</strong> eller <strong>API</strong>).<br>-I CRM är konton det företag som leder och kontakter är kopplade till.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">Kontobaserad marknadsföring</a> (ABM)</strong></td> 
-   <td colspan="1">En tilläggsfunktion som gör att ni kan rikta in och engagera nyckelkonton på ett mycket samordnat sätt.</td> 
+   <td colspan="1">Termen kan ha olika betydelser:<br>-Din Marketo-instans kan kallas ditt Marketo-konto.<br>-in <strong>TAM</strong>, a <strong>Namngivet konto</strong> är ett konto som användaren har fastställt är ett målkonto som han/hon vill köra.<br>-I TAM är ett CRM-konto ett konto som har mappats från din länkade <strong>CRM</strong> (konto i <strong>Salesforce</strong>, <strong>MS Dynamics</strong> eller <strong>API</strong>).<br>-I CRM är konton det företag som leder och kontakter är kopplade till.</td> 
   </tr> 
   <tr> 
    <td><strong>Kontolista</strong></td> 
-   <td>En lista med nyckelnamn för konto/organisation. Kallas även Account-Based Marketing (<strong>ABM</strong>).</td> 
+   <td>En lista med nyckelnamn för konto/organisation. Kallas även för kontohantering för mål (<strong>TAM</strong>).</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Kontoprofilering</strong></td> 
-   <td colspan="1">(tidigare AccountAI) i <strong>ABM</strong>, med hjälp av din Ideal-kundprofil (ICP), kommer befintliga företag i din databas att rangordnas och rangordningarna läggs till som poäng på dina konton.</td> 
+   <td colspan="1">(tidigare AccountAI) i <strong>TAM</strong>, med hjälp av din Ideal-kundprofil (ICP), kommer befintliga företag i din databas att rangordnas och rangordningarna läggs till som poäng på dina konton.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">Kontopoäng</a></strong></td> 
@@ -574,7 +570,7 @@ Nedan finns definitioner för många av de termer du kan stöta på när du anv�
  <tbody> 
   <tr> 
    <td><strong>Namngivet konto</strong></td> 
-   <td><p>I <strong>ABM</strong>, ett konto som användaren har fastställt är ett målkonto som han/hon vill köra.</p></td> 
+   <td><p>I <strong>TAM</strong>, ett konto som användaren har fastställt är ett målkonto som han/hon vill köra.</p></td> 
   </tr> 
   <tr> 
    <td><strong>Näringsprogram</strong></td> 
@@ -647,7 +643,7 @@ Nedan finns definitioner för många av de termer du kan stöta på när du anv�
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>Persona</strong></a></td> 
-   <td colspan="1">I Marketo <strong>Kontobaserad marknadsföring</strong>, personas är en del av en målgrupp, vilket ger en mer specifik målgruppsanpassning.</td> 
+   <td colspan="1">I Marketo <strong>Hantering av målkonto</strong>, personas är en del av en målgrupp, vilket ger en mer specifik målgruppsanpassning.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md" rel="nofollow"><strong>Röstning</strong></a></td> 
@@ -807,7 +803,11 @@ Nedan finns definitioner för många av de termer du kan stöta på när du anv�
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md" rel="nofollow">Taggar</a></strong></td> 
    <td>Identifierare som används för att beskriva <strong>program</strong>.</td> 
-  </tr> 
+  </tr>
+  <tr> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">Hantering av målkonto</a> (TAM)</strong></td> 
+   <td colspan="1">(tidigare kontobaserad marknadsföring/ABM) En tilläggsfunktion som gör att ni kan inrikta er på och engagera nyckelkonton på ett mycket samordnat sätt.</td> 
+  </tr>
   <tr> 
    <td><strong>Mall</strong></td> 
    <td>An <strong>e-post</strong> eller <strong>landningssida</strong> som används som utgångspunkt för att skapa ytterligare e-postmeddelanden eller landningssidor.</td> 
