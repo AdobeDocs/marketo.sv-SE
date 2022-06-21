@@ -2,7 +2,7 @@
 description: Global Form Validation Rules - Marketo Docs - Product Documentation
 title: Valideringsregler för globala formulär
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: 7749bd1fec7a7c1974efdb8de046eed4f34aefc4
+source-git-commit: c91fa08bcb833a4c8a65055fd2471d7bc03a4e71
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -73,7 +73,7 @@ Innan du kan använda den här funktionen måste du aktivera dess behörighet pe
 
 ## Inaktivera åtkomst per formulär{#how-to-disable-access-per-form}
 
-När det är aktiverat gäller reglerna alla formulär. Om du har ett formulär med specifika krav, och du inte vill ha något avvisat, kan du inaktivera globala regler för formulärvalidering i inställningarna för ett formulär.
+När det är aktiverat gäller reglerna alla formulär. Om du har ett formulär med specifika krav, och du inte vill ha något avvisat, kan du inaktivera globala regler för formulärvalidering i formulärets inställningar.
 
 1. Klicka på **Formulärinställningar** sedan **Inställningar**.
 
