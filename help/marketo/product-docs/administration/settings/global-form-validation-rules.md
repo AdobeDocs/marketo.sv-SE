@@ -2,9 +2,9 @@
 description: Global Form Validation Rules - Marketo Docs - Product Documentation
 title: Valideringsregler för globala formulär
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: a3acf82afa894160b20dff76fdd5132a234dfbd3
+source-git-commit: 7749bd1fec7a7c1974efdb8de046eed4f34aefc4
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Med den här funktionen kan du blockera specifika domäner från att skicka till
 
 Innan du kan använda den här funktionen måste du aktivera dess behörighet per önskad roll.
 
-1. In Marketo, click **Admin**.
+1. I Marketo klickar du på **Administratör**.
 
    ![](assets/global-form-validation-rules-1.png)
 
@@ -25,7 +25,7 @@ Innan du kan använda den här funktionen måste du aktivera dess behörighet pe
 
    ![](assets/global-form-validation-rules-2.png)
 
-1. Click the **Roles** tab.
+1. Klicka på **Roller** -fliken.
 
    ![](assets/global-form-validation-rules-3.png)
 
@@ -37,7 +37,7 @@ Innan du kan använda den här funktionen måste du aktivera dess behörighet pe
 
    ![](assets/global-form-validation-rules-5.png)
 
-1. Scroll down and select **Access Form Validation Rules** and click **Save**.
+1. Bläddra nedåt och markera **Få åtkomst till verifieringsregler för formulär** och klicka **Spara**.
 
    ![](assets/global-form-validation-rules-6.png)
 
@@ -47,7 +47,7 @@ Innan du kan använda den här funktionen måste du aktivera dess behörighet pe
 >
 >Dessa regler gäller för alla formulär i dina Marketo Engage-prenumerationer.
 
-1. In Marketo, click **Admin**.
+1. I Marketo klickar du på **Administratör**.
 
    ![](assets/global-form-validation-rules-7.png)
 
@@ -55,13 +55,13 @@ Innan du kan använda den här funktionen måste du aktivera dess behörighet pe
 
    ![](assets/global-form-validation-rules-8.png)
 
-1. Click **New Form Validation Rule**.
+1. Klicka **Valideringsregel för nytt formulär**.
 
    ![](assets/global-form-validation-rules-9.png)
 
    >[!NOTE]
    >
-   >The Form Validation Rule Actions drop-down allows you to delete or edit existing rules.
+   >I listrutan Åtgärder för formulärverifieringsregel kan du ta bort eller redigera befintliga regler.
 
 1. Ge regeln ett namn, ge den en valfri beskrivning och skriv felmeddelandet som du vill att formulärbesökarna ska se. Ange den eller de domäner du vill blockera i regelrutan, välj **Aktivera regel** och klicka **Skapa**.
 
@@ -69,4 +69,18 @@ Innan du kan använda den här funktionen måste du aktivera dess behörighet pe
 
 >[!NOTE]
 >
->Marketo Engage has a defined blocklist of free consumer email domains that are blocked when using our pre-loaded &quot;Consumer Email Domain Blocklist&quot; rule. [View that list here](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
+>Marketo Engage har en definierad blockeringslista av kostnadsfria e-postdomäner för konsumenter som blockeras när vår förinlästa regel&quot;Blockeringslista för e-postdomän för konsumenter&quot; används. [Visa listan här](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
+
+## Inaktivera åtkomst per formulär{#how-to-disable-access-per-form}
+
+När det är aktiverat gäller reglerna alla formulär. Om du har ett formulär med specifika krav, och du inte vill ha något avvisat, kan du inaktivera globala regler för formulärvalidering i inställningarna för ett formulär.
+
+1. Klicka på **Formulärinställningar** sedan **Inställningar**.
+
+   ![](assets/global-form-validation-rules-11.png)
+
+1. Klicka på listrutan Valideringsregler för globala formulär och välj **Handikappade**.
+
+   ![](assets/global-form-validation-rules-12.png)
+
+När du godkänner och publicerar formuläret kommer det att ignorera dina globala regler för formulärvalidering.
