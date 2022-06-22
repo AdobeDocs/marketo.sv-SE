@@ -2,24 +2,16 @@
 description: Flow Step Service - Marketo Docs - produktdokumentation
 title: Flödesstegstjänst
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
-source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
+source-git-commit: 5d95a77e5c836bf76d82f0db72781727b2743720
 workflow-type: tm+mt
-source-wordcount: '1292'
+source-wordcount: '1243'
 ht-degree: 0%
 
 ---
 
 # Flödesstegstjänst {#flow-step-service}
 
->[!NOTE]
->
->Självbetjäningsflödessteg är för närvarande i Open Beta. Du kan aktivera den för din prenumeration på menyn Admin > Treasure Chest.
-
-Självbetjäningsflödessteg är ett ramverk och en uppsättning funktioner för att skapa, publicera och integrera webbtjänster i smarta webbkampanjer i Adobe Marketo Engage. Handboken är avsedd för användare av Marketo Engage som vill installera och använda tjänster som redan har skapats och publicerats. Information om hur du skapar och publicerar din egen tjänst finns i [GitHub-databas för Service Provider Interface](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target=&quot;_blank&quot;}. En implementering av en konceptbelagd söktabell finns [här](https://github.com/adobe/mkto-flow-lookup){target=&quot;_blank&quot;}.
-
-## Restriktioner och varningar före lansering {#pre-release-restrictions-and-warnings}
-
-Den här funktionen är för närvarande i en öppen betaversion och bör endast användas i sandlådeinstanser av Marketo Engage tills tjänsten har testats fullständigt.
+Självbetjäningsflödessteg är ett ramverk och en uppsättning funktioner för att skapa, publicera och integrera webbtjänster i Adobe Marketo Engage Smart Campaigns. Handboken är avsedd för användare av Marketo Engage som vill installera och använda tjänster som redan har skapats och publicerats. Information om hur du skapar och publicerar din egen tjänst finns i [GitHub-databas för Service Provider Interface](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target=&quot;_blank&quot;}. En implementering av en konceptbelagd söktabell finns [här](https://github.com/adobe/mkto-flow-lookup){target=&quot;_blank&quot;}.
 
 ## Onboarding och Managing Services {#onboarding-and-managing-services}
 
