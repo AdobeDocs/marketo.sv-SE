@@ -2,9 +2,9 @@
 description: Växla - Marketo Docs - produktdokumentation
 title: Växla av/på
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 13b3548580d29a0e93958ebac9be39435769121c
+source-git-commit: 917b74a9175707b9475a5d07eb116cde738f6f13
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ Den nya upplevelsen läses in.
 
 ![](assets/toggle-switch-7.png)
 
-## Detaljsida för landningssida {#landing-page-details-page}
+## Detaljvy för landningssida {#landing-page-details-view}
 
 1. I Marketo söker du efter och väljer din landningssida.
 
@@ -117,14 +117,48 @@ Den nya upplevelsen läses in.
 
 ![](assets/toggle-switch-21.png)
 
+## Vyn E-postinformation {#email-details-view}
+
+1. I Marketo söker du efter och väljer e-post.
+
+   ![](assets/toggle-switch-22.png)
+
+1. Klicka på knappen längst ned till höger på sidan **Ny upplevelse** växla.
+
+   ![](assets/toggle-switch-23.png)
+
+Den nya upplevelsen läses in.
+
+![](assets/toggle-switch-24.png)
+
+## Visa e-postlista {#email-list-view}
+
+I nästa generations e-postlistvy finns sökfilter och möjlighet att utföra massåtgärder via e-post.
+
+1. I Marketo väljer du **Design Studio**.
+
+   ![](assets/toggle-switch-25.png)
+
+1. Välj **E-post**.
+
+   ![](assets/toggle-switch-26.png)
+
+1. Klicka på knappen längst ned till höger på sidan **Ny upplevelse** växla.
+
+   ![](assets/toggle-switch-27.png)
+
+Den nya upplevelsen läses in.
+
+![](assets/toggle-switch-28.png)
+
 ## Aktivera för alla funktioner {#enable-for-all-features}
 
 Du kan manuellt aktivera Marketo nästa generations gränssnitt för alla tillgängliga funktioner, aktuella och kommande.
 
 1. I ett område som för närvarande har växeln Växla (i det här exemplet är vi i [Formulärinformationssida](#form-details-page)) klickar du på kugghjulsikonen längst ned till höger på sidan.
 
-   ![](assets/toggle-switch-22.png)
+   ![](assets/toggle-switch-second-last.png)
 
 1. Välj **Aktivera för alla tillgängliga funktioner** och klicka **OK**.
 
-   ![](assets/toggle-switch-23.png)
+   ![](assets/toggle-switch-last.png)
