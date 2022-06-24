@@ -3,8 +3,7 @@ unique-page-id: 10093188
 description: Förstå anpassade Marketo-objekt - Marketo Docs - produktdokumentation
 title: Förstå anpassade Marketo-objekt
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6f17d79344653d1b2c364753d774998e343c9808
 workflow-type: tm+mt
 source-wordcount: '679'
 ht-degree: 0%
@@ -43,13 +42,13 @@ Många-till-många anpassade objekt använder två länkfält, som ingår i ett 
 
 ## Åtkomst till anpassade Marketo-objekt {#accessing-marketo-custom-objects}
 
-1. Om du vill skapa eller redigera anpassade Marketo-objekt klickar du på **Admin** och sedan på länken **Anpassade Marketo-objekt**.
+1. Om du vill skapa eller redigera anpassade Marketo-objekt klickar du på **Administratör** och sedan **Anpassade Marketo-objekt** länk.
 
-   ![](assets/image2016-5-18-16-3a59-3a30.png)
+   ![](assets/understanding-marketo-custom-objects-1.png)
 
 1. I Marketo anpassade objekt visas alla dina anpassade objekt till höger, men bara de godkända objekten i huvudstödrastret.
 
-   ![](assets/image2016-6-10-15-3a14-3a18.png)
+   ![](assets/understanding-marketo-custom-objects-2.png)
 
 1. I rutnätet visas objektnamn, antal poster, antal fält och datum för den senaste uppdateringen.
 
@@ -59,27 +58,27 @@ Många-till-många anpassade objekt använder två länkfält, som ingår i ett 
 
 1. Klicka på objektnamnet till höger för att öppna informationssidan.
 
-   ![](assets/image2016-6-10-15-3a15-3a29.png)
+   ![](assets/understanding-marketo-custom-objects-3.png)
 
 ## Visa anpassade objekt som är kopplade till en person {#view-custom-objects-associated-to-a-person}
 
 När du har skapat den anpassade objektstrukturen kopplas de anpassade objekten automatiskt till personer i databasen med hjälp av länkfältet i det anpassade objektet när du överför specifika anpassade objektdata. Du kan visa information på fliken Egna objekt på sidan med personinformation.
 
-1. Gå till **Database**.
+1. Gå till **Databas**.
 
-   ![](assets/db.png)
+   ![](assets/understanding-marketo-custom-objects-4.png)
 
-1. Öppna databasen och klicka på fliken **Personer**. Dubbelklicka på posten för en person som är kopplad till ett anpassat objekt.
+1. Öppna databasen och klicka på **Folk** -fliken. Dubbelklicka på posten för en person som är kopplad till ett anpassat objekt.
 
-   ![](assets/five.png)
+   ![](assets/understanding-marketo-custom-objects-5.png)
 
-1. Klicka på fliken **Egna objekt** på personinformationssidan. Markera objektet i listrutan.
+1. På personinformationssidan klickar du på **Anpassade objekt** -fliken. Markera objektet i listrutan.
 
-   ![](assets/six.png)
+   ![](assets/understanding-marketo-custom-objects-6.png)
 
 1. Nu kan du visa en lista över alla anpassade objekt av den typen som är kopplade till den personen.
 
-   ![](assets/seven.png)
+   ![](assets/understanding-marketo-custom-objects-7.png)
 
 ## Använda anpassade objekt med företag {#using-custom-objects-with-companies}
 
@@ -89,7 +88,7 @@ Om du har flera personer i Marketo som är poster i CRM- eller Marketo-poster ko
 
 Anpassade objekt kan bara länka direkt till en enskild post. Det innebär att när din anpassade objekttyp är länkad efter företagsfält bör du se till att dina personposter är kopplade till ett företag antingen med hjälp av kontaktkonvertering i CRM, eller med hjälp av fältet externalCompanyId, om du hanterar företag med hjälp av Marketo REST API:er. För personposter som inte är uttryckligen länkade till företagsposter, kommer anpassade objekt som är länkade med hjälp av företag att slumpmässigt länkas till en enda post, även om värdet i företagsfältet delas av många personer.
 
-Mer information finns i [Importera anpassade objektdata](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md).
+Se [Importera anpassade objektdata](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) för mer information.
 
 >[!MORELIKETHIS]
 >
