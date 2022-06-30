@@ -3,16 +3,16 @@ unique-page-id: 4720476
 description: Klassisk ikon - ordlista - Marketo Docs - produktdokumentation
 title: Klassisk ikon - ordlista
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
-source-git-commit: b76fbbafb96fc0d946dfd88d3dada9a0dccffbc4
+source-git-commit: 5f76c35490eba40bea39c66c8675860293041350
 workflow-type: tm+mt
-source-wordcount: '562'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
 
 # Klassisk ikon - ordlista {#classic-icon-glossary}
 
-Nedan finns de gamla ikonerna från Marketo Classic. Den nya ikonordlistan finns här[](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md).
+Nedan finns de gamla ikonerna från Marketo Classic. Den nya ikonordlistan kan vara [hittades här](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md){target=&quot;_blank&quot;}.
 
 **Allmänna ikoner**
 
@@ -66,7 +66,7 @@ Nedan finns de gamla ikonerna från Marketo Classic. Den nya ikonordlistan finns
     <div> 
      <img alt="—" width="25" src="assets/share-from.png"> 
     </div></td> 
-   <td colspan="1">Målmappen som delades från en annan arbetsyta <br>(padlock anger att det inte går att redigera)</td> 
+   <td colspan="1">Målmapp som delats från en annan arbetsyta <br>(padlock anger att redigeringar inte kan göras)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -410,7 +410,7 @@ Nedan finns de gamla ikonerna från Marketo Classic. Den nya ikonordlistan finns
     <div> 
      <img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </div></td> 
-   <td>E-postprogram <br>(röd flagga ned = e-post har inte skickats än)</td> 
+   <td>E-postprogram <br>(Röd flagga ned = e-post har inte skickats än)</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -820,7 +820,7 @@ Nedan finns de gamla ikonerna från Marketo Classic. Den nya ikonordlistan finns
     <div> 
      <img src="assets/image2015-1-5-12-3a53-3a55.png"> 
     </div></td> 
-   <td>Utkast till en godkänd resurs (inte direkt förrän utkast har godkänts)</td> 
+   <td>Utkast till en godkänd resurs (inte live förrän utkast har godkänts)</td> 
   </tr> 
   <tr> 
    <td> 

@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo-ordlista - Marketo Docs - produktdokumentation
 title: Marketo-ordlista
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 164669e6649927e570974af227c2b1af75ad73d3
+source-git-commit: 5f76c35490eba40bea39c66c8675860293041350
 workflow-type: tm+mt
 source-wordcount: '4203'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Nedan finns definitioner för många av de termer du kan stöta på när du anv�
  </colgroup> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" rel="nofollow">A/B-testning</a></strong></td>
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" target="_blank">A/B-testning</a></strong></td>
    <td colspan="1">Gör att du kan ändra komponenter i e-postmeddelandet (t.ex. ämnesrad, från adress) och ange testkriterier för att avgöra vilken uppsättning innehåll som blir bäst.</td> 
   </tr> 
   <tr> 
