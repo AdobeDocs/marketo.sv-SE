@@ -3,9 +3,9 @@ unique-page-id: 2359351
 description: Konfigurera och lägg till en person - Marketo Docs - produktdokumentation
 title: Konfigurera och lägg till en person
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
-source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Det finns några saker att göra innan du börjar uppdraget.
 
 ## Steg 1: Logga in på Marketo {#step-log-in-to-marketo}
 
-1. [Logga in på Marketo](https://app.marketo.com) med de inloggningsuppgifter du fått via e-post.
+1. [Logga in på Marketo](https://app.marketo.com){target=&quot;_blank&quot;} med de inloggningsuppgifter som du fick via e-post.
 
    ![](assets/one.png)
 

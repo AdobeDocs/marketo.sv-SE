@@ -3,10 +3,9 @@ unique-page-id: 2359422
 description: Anpassa ett e-postmeddelande - Marketo Docs - produktdokumentation
 title: Anpassa ett e-postmeddelande
 exl-id: 1562796e-da47-4305-b950-3bed1d36d339
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
@@ -17,14 +16,14 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Konfigurera och lägga till en person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
->* [Skicka ett e-postutdrag](/help/marketo/getting-started/quick-wins/send-an-email.md)
->* [Drip, Drift, Struktur](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+>* [Konfigurera och lägga till en person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
+>* [Skicka ett e-postutdrag](/help/marketo/getting-started/quick-wins/send-an-email.md){target=&quot;_blank&quot;}
+>* [Drip, Drift, Struktur](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target=&quot;_blank&quot;}
 
 
 ## Steg 1: Välj en e-postadress att anpassa {#step-select-an-email-to-personalize}
 
-1. Välj en av de vårdnadstexter som skapades i [föregående snabbwin](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md) och klicka på **Redigera utkast**.
+1. Välj en av de e-postmeddelanden som har skapats i dialogrutan [föregående snabbvinst](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target=&quot;_blank&quot;} och klicka på **Redigera utkast**.
 
    ![](assets/one-4.png)
 
@@ -32,53 +31,53 @@ ht-degree: 0%
    >
    >Detta skapar en kopia av e-postmeddelandet som ett utkast. Du måste godkänna utkastet för att ändringarna ska börja gälla.
 
-Om du inte har aktiverat en popup-blockerare öppnas e-postredigeraren i ett nytt flik/fönster. Annars klickar du **Redigera utkast** två gånger.
+Om du inte har aktiverat en popup-blockerare öppnas e-postredigeraren i ett nytt flik/fönster. I annat fall klickar du på **Redigera utkast** två gånger.
 
 ## Steg 2: Gör säljaren till avsändaren {#step-make-the-salesperson-the-sender}
 
-1. Markera fältet **Från**, markera och **ta bort** det aktuella namnet.
+1. Välj **Från** fält, markera och **delete** det aktuella namnet.
 
    ![](assets/two-5.png)
 
-1. Klicka på ikonen **Token** till höger om fältet **Från**.
+1. Klicka på **Token** ikonen till höger om **Från** fält.
 
    ![](assets/three-4.png)
 
-1. Sök efter och välj **`{{lead.Lead Owner First Name}}`**-token.
+1. Sök och välj **`{{lead.Lead Owner First Name}}`** token.
 
    ![](assets/four-3.png)
 
-1. Skriv ditt företagsnamn och ett bindestreck för **Standardvärdet** för att se till att något visas om säljarens förnamn inte är tillgängligt. Klicka på **Infoga**.
+1. Ange ditt företagsnamn och ett tankstreck för **Standardvärde** för att säkerställa att något visas om säljarens förnamn inte är tillgängligt. Klicka **Infoga**.
 
    ![](assets/five-4.png)
 
-1. Tryck på blankstegstangenten i fältet **Från** och se till att markören blinkar ett blanksteg efter den variabel du just infogade. Klicka sedan på ikonen **Token** igen.
+1. Tryck på blankstegstangenten i **Från** ska du se till att markören blinkar ett blanksteg efter den variabel du just infogade. Klicka sedan på **Token** ikonen igen.
 
    ![](assets/six-4.png)
 
-1. Sök efter och välj **`{{lead.Lead Owner Last Name}}`**-token.
+1. Sök och välj **`{{lead.Lead Owner Last Name}}`** token.
 
    ![](assets/seven-5.png)
 
-1. Skriv &quot;Sales&quot; för **Standardvärde** och klicka på **Infoga**.
+1. Skriv&quot;Försäljning&quot; för **Standardvärde** och klicka **Infoga**.
 
    ![](assets/eight-3.png)
 
 ## Steg 3: Lägg till leadens namn i e-postmeddelandet {#step-add-the-leads-name-to-the-email}
 
-1. Markera den övre redigerbara delen, klicka på kugghjulsikonen och välj **Redigera**.
+1. Markera det övre redigerbara avsnittet, klicka på kugghjulsikonen och välj **Redigera**.
 
    ![](assets/nine-2.png)
 
-1. Lägg till ett blanksteg efter &quot;Hello&quot; och placera markören framför kommatecknet och klicka sedan på ikonen **Infoga token**.
+1. Lägg till ett blanksteg efter &quot;Hello&quot; och placera markören framför kommatecknet och klicka sedan på **Infoga token** ikon.
 
    ![](assets/ten-4.png)
 
-1. Sök efter och välj **`{{lead.First Name}}`**-token.
+1. Sök och välj **`{{lead.First Name}}`** token.
 
    ![](assets/eleven-4.png)
 
-1. Ange &quot;Kompis&quot; (eller en etikett du vill ha) i fältet **Standardvärde** och klicka på **Infoga**.
+1. Ange &quot;Kompis&quot; (eller någon annan etikett du vill ha) i dialogrutan **Standardvärde** fält och klicka **Infoga**.
 
    ![](assets/twelve-3.png)
 
@@ -86,7 +85,7 @@ Om du inte har aktiverat en popup-blockerare öppnas e-postredigeraren i ett nyt
    >
    >Inkludera alltid ett standardvärde för token; Detta garanterar att standardvärdet visas i e-postmeddelandet om en del av den personliga informationen saknas.
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/thirteen-3.png)
 
@@ -94,15 +93,15 @@ Om du inte har aktiverat en popup-blockerare öppnas e-postredigeraren i ett nyt
 
    ![](assets/fourteen-3.png)
 
-1. Under **E-poståtgärder** väljer du **Godkänn utkast**.
+1. Under **E-poståtgärder**, markera **Godkänn utkast**.
 
    ![](assets/fifteen-3.png)
 
 >[!TIP]
 >
->Behöver du en snabb uppdatering av hur du skickar e-postmeddelandet till dig själv? Se [Skicka en e-poststund](/help/marketo/getting-started/quick-wins/send-an-email.md).
+>Behöver du en snabb uppdatering av hur du skickar e-postmeddelandet till dig själv? Se [Skicka ett e-postutdrag](/help/marketo/getting-started/quick-wins/send-an-email.md){target=&quot;_blank&quot;}.
 
-### Uppdraget är klart {#mission-complete}
+### Uppdraget är slutfört {#mission-complete}
 
 Grattis, du har personaliserat din e-post!
 

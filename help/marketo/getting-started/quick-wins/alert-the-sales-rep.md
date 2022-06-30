@@ -3,15 +3,14 @@ unique-page-id: 2359424
 description: Meddela säljaren - Marketo Docs - produktdokumentation
 title: Meddela säljaren
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
 
-# Avisera säljaren {#alert-the-sales-rep}
+# Meddela säljaren {#alert-the-sales-rep}
 
 ## Uppdrag: Meddela säljaren när en person fyller i ett formulär på din webbplats {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
 
@@ -19,23 +18,23 @@ Om du automatiskt vill skicka varningsmeddelanden till säljarna behöver du bar
 
 >[!PREREQUISITES]
 >
->[Landningssida med ett formulär](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+>[Landningssida med ett formulär](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}
 
-## Steg 1: Skapa ett varningsmeddelande {#step-create-an-alert-email}
+## Steg 1: Skapa ett e-postmeddelande {#step-create-an-alert-email}
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter** område.
 
    ![](assets/one-5.png)
 
-1. Välj **Mitt program** som du skapade på [landningssidan med ett snabbfönster i formatet](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) och klicka sedan på **Nytt** på **Ny lokal resurs**.
+1. Välj **Mitt program** som du skapade i [Landningssida med ett formulär](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} snabbvinn, sedan under **Nytt** klicka **Ny lokal resurs**.
 
    ![](assets/two-6.png)
 
-1. Klicka på **E-post**.
+1. Klicka **E-post**.
 
    ![](assets/three-5.png)
 
-1. **Ange e-** postnamnet&quot;Min e-postavisering&quot;, välj en mall och klicka på  **Skapa**.
+1. **Namn** e-postmeddelandet&quot;Min e-postavisering&quot; väljer du en mall och klickar på **Skapa**.
 
    ![](assets/four-4.png)
 
@@ -51,19 +50,19 @@ Om du automatiskt vill skicka varningsmeddelanden till säljarna behöver du bar
 
    ![](assets/seven-6.png)
 
-1. Placera markören där du vill infoga personens kontaktinformation och klicka på ikonen **Infoga token**.
+1. Placera markören där du vill infoga personens kontaktinformation och klicka på **Infoga token** ikon.
 
    ![](assets/eight-4.png)
 
-1. Sök efter och välj `{{SP_Send_Alert_Info}}` **Token** och klicka på **Infoga**.
+1. Sök och välj `{{SP_Send_Alert_Info}}` **Token** och klicka **Infoga**.
 
    ![](assets/image2014-9-24-13-3a10-3a0.png)
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} är en speciell token för varningsmeddelanden. Mer information finns i [Använd Skicka aviseringsinformationstoken](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md).
+   >{{SP_Send_Alert_Info}} är en särskild token för varningsmeddelanden. Se [Använda Skicka aviseringsinformationstoken](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target=&quot;_blank&quot;}{target=&quot;_blank&quot;} om du vill veta mer.
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/ten-5.png)
 
@@ -71,21 +70,21 @@ Om du automatiskt vill skicka varningsmeddelanden till säljarna behöver du bar
 
    ![](assets/eleven-5.png)
 
-1. Under **E-poståtgärder** klickar du på **Godkänn**.
+1. Under **E-poståtgärder** klicka **Godkänn**.
 
    ![](assets/twelve-4.png)
 
-## Steg 2: Skapa en varningsutlösarkampanj {#step-create-an-alert-trigger-campaign}
+## Steg 2: Skapa en aviseringsutlösarkampanj {#step-create-an-alert-trigger-campaign}
 
-1. Välj **Mitt program** som har skapats tidigare och klicka sedan på **Ny smart kampanj** under Ny **på Ny smart kampanj**.
+1. Välj **Mitt program** tidigare skapat, sedan under **Nytt** klicka **Ny smart kampanj**.
 
    ![](assets/image2014-9-24-13-3a14-3a17.png)
 
-1. **Ge** kampanjen namnet&quot;Min aviseringskampanj&quot; och klicka på  **Skapa**.
+1. **Namn** kampanjen&quot;My Alert Campaign&quot; och klicka på **Skapa**.
 
    ![](assets/image2014-9-24-13-3a14-3a28.png)
 
-1. Under fliken **Smart List** letar du upp och drar utlösaren **Fyll i formulär** till arbetsytan.
+1. Under **Smart List** -fliken, söka efter och dra **Fyller i formulär** till arbetsytan.
 
    ![](assets/image2014-9-24-13-3a14-3a43.png)
 
@@ -93,27 +92,27 @@ Om du automatiskt vill skicka varningsmeddelanden till säljarna behöver du bar
 
    ![](assets/image2014-9-24-13-3a14-3a58.png)
 
-1. Under fliken **Flöde** söker du efter och drar flödesåtgärden **Skicka varning** till arbetsytan.
+1. Under **Flöde** -fliken, söka efter och dra **Skicka avisering** flödesåtgärd till arbetsytan.
 
    ![](assets/image2014-9-24-13-3a15-3a10.png)
 
-1. Välj **Min aviseringse-postadress** som skapades tidigare och lämna **Skicka till** som **Säljare**.
+1. Välj **Min e-postavisering** skapade tidigare och lämnade **Skicka till** as **Försäljningsägare**.
 
    ![](assets/eighteen-1.png)
 
-1. Skriv din e-postadress i fältet **Till andra e-postmeddelanden**.
+1. Skriv din e-postadress i **Till andra e-postmeddelanden** fält.
 
    ![](assets/nineteen-2.png)
 
-1. Gå till fliken **Schema** och klicka på knappen **Aktivera**.
+1. Gå till **Schema** och klicka på **Aktivera** -knappen.
 
    ![](assets/twenty-2.png)
 
    >[!TIP]
    >
-   >Ange **kvalificeringsreglerna** till **varje gång** (genom att redigera Smart Campaign) så att samma person kan utlösa varningar flera gånger.
+   >Ange **Kvalificeringsregler** till **varje gång** (genom att redigera Smart Campaign) så att samma person kan utlösa varningar flera gånger.
 
-1. Klicka på **Aktivera** på bekräftelseskärmen.
+1. Klicka **Aktivera** på bekräftelseskärmen.
 
    ![](assets/twenty-one-1.png)
 
@@ -127,7 +126,7 @@ Om du automatiskt vill skicka varningsmeddelanden till säljarna behöver du bar
    >
    >Glöm inte att godkänna landningssidor. de lever inte förrän de godkänts.
 
-1. Fyll i formuläret och klicka på **Skicka**.
+1. Fyll i formuläret och klicka **Skicka**.
 
    ![](assets/image2014-9-24-13-3a17-3a41.png)
 
@@ -135,12 +134,12 @@ Om du automatiskt vill skicka varningsmeddelanden till säljarna behöver du bar
 
    >[!NOTE]
    >
-   >Klicka på fliken **Personinformation** i Marketo för att se kontaktinformationen.
+   >Klicka på **Personinformation** i Marketo för att se kontaktinformationen.
 
 ## Uppdraget är klart! {#mission-complete}
 
 <br> 
 
-[◄ uppdrag 7: Anpassa ett e-postmeddelande](personalize-an-email.md)
+[◄ uppdrag 7: Anpassa ett e-postmeddelande](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
 
-[Uppdrag 9: Uppdatera lead-data ►](update-person-data.md)
+[Uppdrag 9: Uppdatera persondata ►](/help/marketo/getting-started/quick-wins/update-person-data.md)

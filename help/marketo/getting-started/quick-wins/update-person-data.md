@@ -3,10 +3,9 @@ unique-page-id: 2359426
 description: Uppdatera persondata - Marketo Docs - produktdokumentation
 title: Uppdatera persondata
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -17,8 +16,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Konfigurera och lägga till en person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
->* [Importera en lista med personer](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+>* [Konfigurera och lägga till en person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
+>* [Importera en lista med personer](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;}
 
 
 Tänk dig att en person gav dig ytterligare kontaktinformation vid ditt senaste varumärke. Så här uppdaterar du persondata.
@@ -43,7 +42,7 @@ Tänk dig att en person gav dig ytterligare kontaktinformation vid ditt senaste 
 
    >[!TIP]
    >
-   >Det finns många sätt att uppdatera persondata i Marketo. Se [Importera en lista med personer](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) och [Ändra datavärde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+   >Det finns många sätt att uppdatera persondata i Marketo. Se [Importera en lista med personer](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;} och [Ändra datavärde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target=&quot;_blank&quot;}.
 
 ## Uppdatera persondata {#update-the-person-data}
 
@@ -55,7 +54,7 @@ Tänk dig att en person gav dig ytterligare kontaktinformation vid ditt senaste 
 >
 >När ni ändrar data kommer smarta listor och smarta kampanjer att omedelbart identifiera den nya informationen.
 
-## Uppdraget är klart {#mission-complete}
+## Uppdraget är slutfört {#mission-complete}
 
 Snyggt jobb! Du har uppdaterat dina persondata.
 

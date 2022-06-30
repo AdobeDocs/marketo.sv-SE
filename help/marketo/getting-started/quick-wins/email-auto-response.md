@@ -3,10 +3,9 @@ unique-page-id: 2359416
 description: Automatiskt svar via e-post - Marketo Docs - produktdokumentation
 title: Automatiskt svar för e-post
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -17,8 +16,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Konfigurera och lägga till en person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
->* [Landningssida med ett formulär](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+>* [Konfigurera och lägga till en person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
+>* [Landningssida med ett formulär](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}
 
 
 ## Steg 1: Skapa ett e-postmeddelande {#step-create-an-email}
@@ -65,49 +64,49 @@ ht-degree: 0%
 
 ## Steg 2: Skapa en smart kampanj {#step-create-a-smart-campaign}
 
-1. Högerklicka på **Mitt program** och klicka på **Ny smart kampanj**.
+1. Högerklicka **Mitt program** och klicka **Ny smart kampanj**.
 
    ![](assets/image2014-9-24-11-3a56-3a13.png)
 
-1. **Ge** den smarta kampanjen namnet&quot;Automatisk svarskampanj&quot; och klicka på  **Skapa**.
+1. **Namn** den smarta kampanjen&quot;Auto Response Campaign&quot; och klicka på **Skapa**.
 
    ![](assets/image2014-9-24-11-3a56-3a25.png)
 
-1. Gå till fliken **Smart lista**.
+1. Gå till **Smart List** -fliken.
 
    ![](assets/image2014-9-24-11-3a56-3a38.png)
 
-   Vi konfigurerar kampanjen så att den körs när en person fyller i formuläret som du skapade på [**landningssidan med ett formulär**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
+   Vi konfigurerar kampanjen så att den körs när en person fyller i formuläret som du skapade i [**Landningssida med ett formulär**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}.
 
-1. Hitta och dra utlösaren **Fyller i formulär** till den vänstra arbetsytan.
+1. Sök och dra **Fyller i formulär** till vänster arbetsyta.
 
    ![](assets/image2014-9-24-11-3a57-3a18.png)
 
-1. Välj **Mitt formulär** i listrutan. Klicka på fliken **Flöde**.
+1. Välj **Mitt formulär** i listrutan. Klicka på **Flöde** -fliken.
 
    ![](assets/image2014-9-24-11-3a57-3a29.png)
 
-1. Dra flödesåtgärden **Skicka e-post** till den vänstra arbetsytan.
+1. Dra **Skicka e-post** flödesåtgärd till vänster arbetsyta.
 
    ![](assets/image2014-9-24-11-3a57-3a41.png)
 
-1. Välj din **e-postadress för automatiskt svar** och gå till fliken **Schemalägg**.
+1. Välj **E-post för automatiskt svar** och går till **Schema** -fliken.
 
    ![](assets/image2014-9-24-11-3a57-3a53.png)
 
-1. Klicka på **Redigera**.
+1. Klicka **Redigera**.
 
    ![](assets/8.png)
 
-1. Välj **varje gång** och klicka på **Spara**.
+1. Välj **varje gång** och klicka **Spara**.
 
    ![](assets/9.png)
 
-1. Klicka på **Aktivera**.
+1. Klicka **Aktivera**.
 
    ![](assets/10.png)
 
-1. Klicka på **Aktivera** på bekräftelseskärmen.
+1. Klicka **Aktivera** på bekräftelseskärmen.
 
    ![](assets/11.png)
 
@@ -117,11 +116,11 @@ ht-degree: 0%
 
 ## Steg 3: Fyll i formuläret {#step-fill-out-the-form}
 
-1. Välj **Min sida**. Detta skapades på [landningssidan med en snabb vinst i form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
+1. Välj **Min sida**. Detta skapades i [Landningssida med ett formulär](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} snabb vinst.
 
    ![](assets/image2014-9-24-12-3a0-3a8.png)
 
-1. Klicka på **Visa godkänd sida**.
+1. Klicka **Visa godkänd sida**.
 
    ![](assets/image2014-9-24-12-3a0-3a18.png)
 
@@ -135,7 +134,7 @@ ht-degree: 0%
 >
 >Se till att du använder din faktiska e-postadress så att du kan få e-postmeddelandet.
 
-## Uppdraget är klart {#mission-complete}
+## Uppdraget är slutfört {#mission-complete}
 
 Inom bara några minuter visas e-postmeddelandet om automatiskt svar i din inkorg. Bra jobbat!
 
@@ -143,4 +142,4 @@ Inom bara några minuter visas e-postmeddelandet om automatiskt svar i din inkor
 
 [◄ 3: Enkel poängsättning](/help/marketo/getting-started/quick-wins/simple-scoring.md)
 
-[Uppdrag 5: Importera en lista med leads ►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+[Uppdrag 5: Importera en lista med personer ►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
