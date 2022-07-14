@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 46aff8058cb97743bee1bd5ff5ddf0ddbbb663a5
+source-git-commit: c63bbd44863d0145726a1240a6858e517799bf5c
 workflow-type: tm+mt
-source-wordcount: '647'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,13 @@ Följande funktioner kommer att lanseras den **24 juni 2022**, med en stegvis ut
 * **Avancerad dialograpportering för dynamiskt chatt**: Se resultatet för era Dynamic Chat-kampanjer i detalj med helt nya datavisualiseringar för engagemang och konverteringsstatistik.
 
 * **Osynkroniserade oanvända Marketo Engage-attribut för dynamiskt chatt**: Osynkroniserade Marketo Engage-attribut från din Dynamic Chat-prenumeration som inte används hjälper dig att rensa bort data och som gör det möjligt att synkronisera alternativa attribut efter behov.
+
+## Nästa generations upplevelser
+
+**Ny växla vy**: Vyerna nedan är nu tillgängliga i nästa generation av upplevelser:
+
+* [Vyn E-postinformation](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-details-view){target=&quot;_blank&quot;}
+* [Visa e-postlista](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-list-view){target=&quot;_blank&quot;}
 
 ## Experience Automation {#experience-automation}
 
