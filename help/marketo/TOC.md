@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: a14516e0daf3b9c9b90aa0250fd654b8bbbcc391
+source-git-commit: b759c54954d68bc53829f990ea694a810d99ad6c
 workflow-type: tm+mt
-source-wordcount: '8780'
+source-wordcount: '8787'
 ht-degree: 0%
 
 ---
@@ -630,6 +630,8 @@ ht-degree: 0%
             + [Redigera en händelsekanal](product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
             + [Event Partners](product-docs/demand-generation/events/understanding-events/event-partners.md)
             + [Om händelseprogram](product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)
+            + [Ställa in en händelsekarta](product-docs/demand-generation/events/understanding-events/setting-an-event-cap.md)
+            + [Ange händelsemål](product-docs/demand-generation/events/understanding-events/setting-event-goals.md)
          + Skapa en händelse {#create-an-event}
             + [Skapa ett evenemang med Adobe Connect](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
             + [Skapa en händelse med GotoWebinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
