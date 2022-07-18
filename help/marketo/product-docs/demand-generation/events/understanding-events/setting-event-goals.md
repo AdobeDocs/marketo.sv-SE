@@ -3,9 +3,10 @@ description: Ange händelsemål - Marketo Docs - produktdokumentation
 title: Ange händelsemål
 hide: true
 hidefromtoc: true
-source-git-commit: b759c54954d68bc53829f990ea694a810d99ad6c
+exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
+source-git-commit: 7050d8f948d4ddd85aa102a4ed8f71f7b347fe5a
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -19,14 +20,28 @@ Ge evenemangen specifika mål och se hur de fungerar.
 
 1. Skapa ett händelseprogram.
 
-PICC
+   ![](assets/setting-event-goals-1.png)
 
-1. Ge evenemanget en [!UICONTROL Name]väljer du [!UICONTROL Destination] mapp och [!UICONTROL Channel].
+1. Välj [!UICONTROL Campaign Folder], ge evenemanget en [!UICONTROL Name]väljer du [!UICONTROL Program Type] och [!UICONTROL Channel]. Klicka **[!UICONTROL Create]** när det är klart.
 
-PICC
+   ![](assets/setting-event-goals-2.png)
 
-1. Ange målet för [!UICONTROL Registered] och [!UICONTROL Attended]och sedan klicka **[!UICONTROL Create]** ([!UICONTROL Description] och [!UICONTROL Labels] är valfria).
+1. Klicka på **[!UICONTROL Reports]** -fliken.
 
-PICC
+   ![](assets/setting-event-goals-3.png)
+
+1. Ange målet för [!UICONTROL Registered] genom att klicka **[!UICONTROL Set a goal]**. Skriv numret i och tryck på Retur.
+
+   ![](assets/setting-event-goals-4.png)
+
+   ![](assets/setting-event-goals-5.png)
+
+1. Upprepa samma steg för [!UICONTROL Attended].
+
+   ![](assets/setting-event-goals-6.png)
+
+>[!NOTE]
+>
+>Du kan inte ange mål för en händelse efter att den har startats.
 
 Och det är allt! Kontrollera status för händelsens mål genom att klicka på [!UICONTROL Reports] -fliken.

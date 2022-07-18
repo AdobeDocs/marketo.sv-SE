@@ -3,9 +3,10 @@ description: Ställa in en händelsekarta - Marketo Docs - produktdokumentation
 title: Ställa in en händelsekarta
 hide: true
 hidefromtoc: true
-source-git-commit: b759c54954d68bc53829f990ea694a810d99ad6c
+exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
+source-git-commit: 7050d8f948d4ddd85aa102a4ed8f71f7b347fe5a
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -23,24 +24,24 @@ Begränsa antalet personer som kan registrera sig för evenemanget med ett händ
 
 1. Välj ett händelsesystem.
 
-PICC
+   ![](assets/setting-an-event-cap-1.png)
 
 1. I Översikt finns [!UICONTROL Event Cap] och klicka **[!UICONTROL Not Set]**.
 
-PICC
+   ![](assets/setting-an-event-cap-2.png)
 
 1. Ange det maximala antal personer som du vill kunna registrera för din aktivitet och klicka på **[!UICONTROL Next]**.
 
-PICC
+   ![](assets/setting-an-event-cap-3.png)
 
 1. Klicka på [!UICONTROL Registration Page] och välj den landningssida som ska fungera som registreringssida.
 
-PICC
+   ![](assets/setting-an-event-cap-4.png)
 
 1. Klicka på **[!UICONTROL Registration Full Page]** och välj den landningssida som ska fungera som registreringssida. Klicka **[!UICONTROL Set and Enable]** när det är klart.
 
-PICC
+   ![](assets/setting-an-event-cap-5.png)
 
-Ni är färdiga. Om du bestämmer dig för att du vill redigera informationen om händelseanfangen klickar du på den blå texten bredvid [!UICONTROL Event Cap] och upprepa från steg 3.
+   Ni är färdiga. Om du bestämmer dig för att du vill redigera informationen om händelseanfangen klickar du på den blå texten bredvid [!UICONTROL Event Cap].
 
-PICC
+   ![](assets/setting-an-event-cap-6.png)
