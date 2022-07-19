@@ -2,77 +2,66 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: c63bbd44863d0145726a1240a6858e517799bf5c
+source-git-commit: 4bff61b90cbbe9466c23d9b003378eb72570f56c
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '538'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: Juni 2022 {#release-notes-june-22}
+# Versionsinformation: Augusti 2022 {#release-notes-aug-22}
 
-Här nedan hittar du alla funktioner som ingår i versionen från 22 juni. Se om det finns funktioner i din Adobe Marketo Engage-utgåva.
+Här nedan hittar du alla funktioner som finns i versionen från 22 augusti. Se om det finns funktioner i din Adobe Marketo Engage-utgåva.
 
 >[!AVAILABILITY]
 >
 >Funktioner som anges av en stjärna (![stjärna](assets/yellow-star.png)) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
 
-Följande funktioner kommer att lanseras den **24 juni 2022**, med en stegvis utrullning av återstående funktioner under de följande veckorna (om inget annat anges).
-
-## Marknadsföringsdatamiljö {#marketing-data-environment}
-
-* **Visa CreatedAt/UpdatedAt-fält för anpassade objekt**: Ger dig möjlighet att inspektera de här fälten i personinformationsfönstret för att få ytterligare insikter.
+Följande funktioner kommer att lanseras den **19 augusti 2022**, med en stegvis utrullning av återstående funktioner under de följande veckorna (om inget annat anges). Versionsfunktionerna och de exakta datumen kan komma att ändras.
 
 ## Flerkanalsmarknadsföring {#cross-channel-orchestration}
 
-* **Förbättrad användning av Stream Designer för dynamiskt chatt**: Lägg till kort direkt från arbetsytan i Stream Designer utan att behöva dra och släppa. Gränssnittet Dynamic Chat har också förbättrats så att innehåll i enskilda kort blir synligare.
+* **Aktivera/inaktivera alla publicerade dialogrutor samtidigt för dynamiskt chatt**: Aktivera/inaktivera alla publicerade dialogrutor globalt på konfigurationssidan med en knapptryckning.
 
-* **Avancerade routningsregler för avtalad tid för dynamiskt chatt**: Dynamic Chat erbjuder fler alternativ för riktad routning av avtalade tider. Ange vilka agentavtalade tider som ska dirigeras baserat på Marketo Engage-attribut, så att leads dirigeras till lämpliga agenter.
+* **Anpassade avatarer för dynamiskt chatt**: Ladda upp en anpassad chatbot-avatar så att den kan anpassas efter ert varumärke.
 
-* **Avancerad dialograpportering för dynamiskt chatt**: Se resultatet för era Dynamic Chat-kampanjer i detalj med helt nya datavisualiseringar för engagemang och konverteringsstatistik.
-
-* **Osynkroniserade oanvända Marketo Engage-attribut för dynamiskt chatt**: Osynkroniserade Marketo Engage-attribut från din Dynamic Chat-prenumeration som inte används hjälper dig att rensa bort data och som gör det möjligt att synkronisera alternativa attribut efter behov.
+* **Chatttranskript för dynamiskt chatt**: Visa chattutdrag för varje konversation för att få djupare insikter om vad varje webbbesökare är intresserad av.
 
 ## Nästa generations upplevelser
 
-**Ny växla vy**: Vyerna nedan är nu tillgängliga i nästa generation av upplevelser:
+* **Adobe**: Uppdaterat utseende och känsla för redaktörer och personinformationssidor med nya Adobe Experience Cloud branding.
 
-* [Vyn E-postinformation](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-details-view){target=&quot;_blank&quot;}
-* [Visa e-postlista](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-list-view){target=&quot;_blank&quot;}
+* **Visa mapphierarkin för målmappen i dialogrutan Flytta**: Om du visar mapphierarkin för varje mapp blir det enklare att flytta resurser och sannolikheten för att de placeras i fel mapp minskar.
+
+>[!NOTE]
+>
+>Undantaget är att flytta en resurs till en mapp inom ett program i marknadsföringsaktiviteter. Flyttåtgärden visar inte mapphierarkin eftersom mappar i ett program inte kan ha dubblettnamn.
 
 ## Experience Automation {#experience-automation}
 
-* **Undantag för verifieringsregel för globalt formulärfält**: Undanta specifika formulär från Global Form Validation Rules så att prenumerationscentraler och andra affärskritiska arbetsflöden kan acceptera alla värden.
+* **Självbetjäningsflödessteg - programimportförbättringar**: Förbättrat stöd för import av program med anpassade flödessteg där du nu kan använda flera instanser av samma tjänsteleverantör och importprogram som har flödessteg som är kompatibla med dessa tjänsteleverantörer.
 
-* **Självbetjäningsflödessteg**: Utöka anslutningsmöjligheterna mellan Marketo Engage och resten av högen med möjligheten att skapa anpassade flödessteg som kan användas i smarta kampanjer. Både användare och partners i Marketo Engage kan utnyttja den här funktionen för att tillåta användning av externa webbtjänster i utlösar-, batch- och körbara kampanjer, i motsats till webbhooks, som bara kan användas i utlösarkampanjer.
+* **Munchkin - utökad länkspårning**: Utöka stödet för spårning av `tel` och `mailto` länkar med Munchkin för att spåra en utökad uppsättning webbbeteenden.
 
-* **Munchkin Protocol-agentlänkspårning**: Utöka stödet för spårning av `tel` och `mailto` länkar med Munchkin för att spåra fler webbbeteenden.
+* **Synlighet för anpassat webbhuvud**: Anpassade webbkrokrubriker visas nu på fliken Admin > Webhooks för bättre synlighet.
 
-* **Ytterligare HTTP-metoder för webhooks**: Ange PUT, PATCH och DELETE som begärandetyper för interaktion med webbtjänster.
+* **CAPTCHA**: Utvärdera giltigheten hos inskickade formulär med reCAPTCHA v3 för att poängsätta inkommande trafik. Bygg marknadsföringsarbetsflöden för att automatiskt exkludera, karantän eller ta bort misstänkt robottrafik.
 
-## Försäljningsinsikter {#sales-insight}
+* **Behörighet att godkänna formulär**: Ny behörighet för att styra vilka designers som kan godkänna ändringar i ett formulär i linje med andra Design Studio-resurser. Detta förhindrar andra designers från att göra ändringar i formulären utan att någon annan behöver ge sitt godkännande.
 
-![(stjärna)](assets/yellow-star.png)
+* **Utför alltid kampanjåterspelning efter anonym sammanslagning**: Anonym lead-sammanslagning sker innan kampanjen spelas upp så att anpassade fältfilter fungerar tillförlitligt när anonym kampanjåterspelning görs.
 
-* **Behörighetsuppsättning för försäljningsinsikter i Salesforce**: Administratörer kan ge Sales Insight åtkomst till en begränsad uppsättning personer på användarnivå i stället för på profilnivå via behörighetsgruppen Marketo App, som ingår i Sales Insight Salesforce-paketet.
+## Marknadsföringsdatamiljö {#marketing-data-environment}
 
-* **Min Marketo Tile Update - Sales Insight Actions**: Marketo-administratörer (och de användare de utser) kan nu snabbt navigera till sin instans av Sales Insight Actions via en ny Sales Insight Actions-panel på My Marketo-sidan.
-
-## Sales Connect {#sales-connect}
-
-![(stjärna)](assets/yellow-star.png)
-
-* **Uppdatering för Salesforce API**: I Salesforce Sommar 22 stöds inte längre äldre API-versioner 21-30 av Salesforce. I den här Marketo Engage-versionen har alla Sales Connect-begäranden som använder äldre API-versioner uppdaterats så att de hålls i en version som stöds. Om du vill ha fullständig information om återtagandeplaner för Salesforce API klickar du på [här](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target=&quot;_blank&quot;}.
+* **Korrigera användargränssnittstrunkering av fält för anpassat objekt som används av**: Nu är det enklare att identifiera anpassade objektfält som används så att du kan ta bort fält från ett anpassat objekt när det behövs.
 
 ## API-förbättringar {#api-enhancements}
 
-* **Nya filtreringsfunktioner för API:t för Bulk Program Member Extract**: Filtrera efter status för programmedlemskap, updatedAt, cadence eller slut på innehåll för att förfina extraherade datauppsättningar.
+* **Nya filtreringsfunktioner för API:t för programmedlemsextrahering för massutskick**: Filtrera efter status för programmedlemskap, updatedAt, cadence eller slut på innehåll för att förfina extraherade datauppsättningar.
 
-* **Förbättring av API för Massprogrammedlemsextrahering**: Ange upp till 10 program när du skapar jobb för att förbättra genomströmningen.
+* **Visa endast API-användare i felmeddelanden för webbtjänster**: Se vilken API-användare som genererade ett webbtjänstfel för att förbättra felsökningen.
 
 ## Meddelanden {#announcements}
-
-* **Forms-borttagning - Forms 1.0, lead Capture/save endpoint och no-script-versioner av formulär**: Stöd för Forms 1.0-material kommer att tas bort helt från Marketo Engage i oktober 2022. Alla befintliga Forms 1.0-resurser kommer inte längre att fungera. För Marketo Engage-formulär krävs att JavaScript läses in på landningssidor och webbplatser.
 
 **_Product Release Webinar_**
 
