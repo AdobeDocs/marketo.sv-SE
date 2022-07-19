@@ -3,47 +3,57 @@ unique-page-id: 2360198
 description: Skapa, ta bort, redigera och ändra en användarroll - Marketo Docs - produktdokumentation
 title: Skapa, ta bort, redigera och ändra en användarroll
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bb8b8c309593e34b773b8ab1b9873df425989753
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
 
 # Skapa, ta bort, redigera och ändra en användarroll {#create-delete-edit-and-change-a-user-role}
 
-**Rolesk** grupperar en massa behörigheter. **Med** behörighet kan du göra saker i Marketo. Du tilldelar en **roll** till en användare. Enkelt som paj.
+**Roller** gruppera en mängd behörigheter. **Behörigheter** gör att du kan göra saker i Marketo. Du tilldelar en **roll** till en användare. Enkelt som paj.
 
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
 
+>[!IMPORTANT]
+>
+>Följande roller är systemroller och kan inte redigeras eller tas bort:
+>
+>* Administratör
+>* Adobe produktadministratör
+>* Standardanvändare
+>* RTP-redigerare
+>* RTP-startprogram
+
+
 ## Skapa en roll {#create-a-role}
 
-1. Gå till **Admin** och klicka på **Användare och roller**.
+1. Gå till **Administratör** och klicka **Användare och roller**.
 
    ![](assets/image2014-9-16-13-3a29-3a48.png)
 
-1. Gå till fliken **Roller** och klicka på **Ny roll**.
+1. Gå till **Fliken Roller** och klicka **Ny roll**.
 
    ![](assets/image2014-9-16-13-3a30-3a0.png)
 
-1. Namnge din nya roll, kontrollera alla behörigheter som du vill ge användare som är associerade med rollen och klicka på **Skapa**.
+1. Namnge din nya roll, kontrollera alla behörigheter du vill ge användare som är kopplade till rollen och klicka på **Skapa**.
 
    ![](assets/image2014-9-16-13-3a31-3a19.png)
 
 ## Ta bort en roll {#delete-a-role}
 
-1. Under **Admin** klickar du på **Användare och roller**.
+1. Under **Administratör**, klicka **Användare och roller**.
 
    ![](assets/image2014-9-16-13-3a31-3a42.png)
 
-1. Under fliken **Roller** markerar du en roll och klickar på **Ta bort roll**.
+1. Under **Roller** väljer du en roll och klickar på **Ta bort roll**.
 
    ![](assets/image2014-9-16-13-3a31-3a56.png)
 
-1. Bekräfta borttagningen genom att klicka på **Ta bort**.
+1. Bekräfta borttagningen genom att klicka **Ta bort**.
 
    ![](assets/image2014-9-16-13-3a32-3a25.png)
 
@@ -57,19 +67,19 @@ ht-degree: 0%
 >
 >Om du vill redigera din egen användarroll måste du logga in som en annan användare med administratörsbehörighet.
 
-1. Gå till **Admin** och klicka på **Användare och roller**.
+1. Gå till **Administratör** och klicka **Användare och roller**.
 
    ![](assets/image2014-9-16-13-3a34-3a2.png)
 
-1. Klicka på fliken **Roller**.
+1. Klicka på **Roller** -fliken.
 
    ![](assets/image2014-9-16-13-3a34-3a22.png)
 
-1. Markera rollen som du vill redigera och klicka på **Redigera roll**.
+1. Markera den roll du vill redigera och klicka på **Redigera roll**.
 
    ![](assets/image2014-9-16-13-3a34-3a37.png)
 
-1. Gör alla ändringar du behöver och klicka på **Spara**.
+1. Gör alla ändringar du behöver och klicka **Spara**.
 
    ![](assets/image2014-9-16-13-3a35-3a16.png)
 
@@ -83,7 +93,7 @@ ht-degree: 0%
 
 ## Ändra en användares roll {#change-a-users-role}
 
-1. Gå till **Admin** och klicka på **Användare och roller**.
+1. Gå till **Administratör** och klicka **Användare och roller**.
 
    ![](assets/image2014-9-16-13-3a35-3a49.png)
 
@@ -91,7 +101,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-36-8.png)
 
-1. Avmarkera den tidigare rollen, markera den nya och klicka sedan på **Spara**.
+1. Avmarkera föregående roll, markera den nya och klicka sedan på **Spara**.
 
    ![](assets/image2014-9-16-13-3a36-3a35.png)
 
