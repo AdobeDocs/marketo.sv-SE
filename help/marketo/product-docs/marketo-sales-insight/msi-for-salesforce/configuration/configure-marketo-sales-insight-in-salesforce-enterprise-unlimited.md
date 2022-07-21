@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: Konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited - Marketo Docs - produktdokumentation
 title: Konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: bb172e59e96cca3e8997615a2f1367ecccf700ed
+source-git-commit: 2fb887e38ec2832b4b62f323d5f72baab24bf41e
 workflow-type: tm+mt
-source-wordcount: '888'
+source-wordcount: '863'
 ht-degree: 0%
 
 ---
@@ -289,39 +289,27 @@ Marketo personfält måste mappas till Salesforce-kontaktfält för att säkerst
 
 1. Klicka **Spara** när du är klar.
 
-## Marketo Sales Insight Config {#marketo-sales-insight-config}
-
-1. Klicka **+** och sedan markera **Marketo Sales Insight Config**.
-
-   ![](assets/image2014-9-24-17-3a37-3a45.png)
-
-1. Kontrollera **Aktivera Marketo API**. Fyll sedan i [API-konfigurationsinformation i Marketo Admin](#set-up-marketo-sales-insight). Klicka **Spara ändringar** när du är klar.
-
-   ![](assets/image2014-9-24-17-3a38-3a0.png)
-
-   >[!NOTE]
-   >
-   >Om diagnostiktestet misslyckades kan du behöva [lägga till fler fält i sidlayouten](https://nation.marketo.com/docs/DOC-1115).
-
-Och det är allt! Du bör kunna se fälten Marketo Sales Insight för Leads, Contacts, Accounts och Opportunity.
-
-![](assets/twenty-six.png)
-
->[!NOTE]
->
->För konton kommer Sales Insight att inkludera alla e-postmeddelanden, men bara de senaste intressanta stunderna, webbaktiviteten och poängändringarna.
-
-## Öppna Marketo Sales Insight {#access-marketo-sales-insight}
+## Marketo Sales Insight Configuration tab {#marketo-sales-insight-configuration-tab}
 
 1. I Salesforce klickar du på **+** i slutet av flikfältet och klicka på **Marketo Sales Insight Config**.
 
 1. Välj **Aktivera Marketo API** kryssrutan.
 
-1. Kopiera inloggningsuppgifterna från Soap API-panelen på Marketo Sales Insight Admin-sida och klistra in dem i Soap API-avsnittet på Salesforce Sales Insight Configuration-sidan.
+1. Kopiera inloggningsuppgifterna från Soap API-panelen i [Marketo sida Sales Insight Admin](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} och klistra in dem i Soap API-avsnittet på sidan Konfiguration av Salesforce Sales Insight.
 
-1. Kopiera inloggningsuppgifterna från panelen Rest API på Marketo Sales Insight Admin-sida och klistra in dem i delen Rest API på konfigurationssidan för Salesforce Sales Insight.
+1. Kopiera inloggningsuppgifterna från panelen Rest API i [Marketo sida Sales Insight Admin](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} och klistra in dem i delen Rest API på sidan Konfiguration av Salesforce Sales Insight.
 
    ![](assets/access-msi.png)
+
+Och det är allt! Du bör kunna se fälten Marketo Sales Insight för Leads, Contacts, Accounts och Opportunity.
+
+>[!NOTE]
+>
+>Om diagnostiktestet misslyckades kan du behöva [lägga till fler fält i sidlayouten](https://nation.marketo.com/docs/DOC-1115){target=&quot;_blank&quot;}.
+
+>[!NOTE]
+>
+>För konton kommer Sales Insight att inkludera alla e-postmeddelanden, men bara de senaste intressanta stunderna, webbaktiviteten och poängändringarna.
 
 >[!MORELIKETHIS]
 >
