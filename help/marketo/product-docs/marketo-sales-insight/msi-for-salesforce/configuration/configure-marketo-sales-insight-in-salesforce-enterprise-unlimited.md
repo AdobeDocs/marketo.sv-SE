@@ -3,7 +3,7 @@ unique-page-id: 2360368
 description: Konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited - Marketo Docs - produktdokumentation
 title: Konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: 2fb887e38ec2832b4b62f323d5f72baab24bf41e
+source-git-commit: 6879a542e17d7694ba42494867707ebc93b791d3
 workflow-type: tm+mt
 source-wordcount: '863'
 ht-degree: 0%
@@ -299,7 +299,7 @@ Marketo personfält måste mappas till Salesforce-kontaktfält för att säkerst
 
 1. Kopiera inloggningsuppgifterna från panelen Rest API i [Marketo sida Sales Insight Admin](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} och klistra in dem i delen Rest API på sidan Konfiguration av Salesforce Sales Insight.
 
-   ![](assets/access-msi.png)
+   ![](assets/configure-marketo-sales-insight-in-salesforce-enterprise-edition-25.png)
 
 Och det är allt! Du bör kunna se fälten Marketo Sales Insight för Leads, Contacts, Accounts och Opportunity.
 
