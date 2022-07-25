@@ -3,9 +3,10 @@ description: Ställa in en händelsekarta - Marketo Docs - produktdokumentation
 title: Ställa in en händelsekarta
 hide: true
 hidefromtoc: true
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+exl-id: 8a46d97b-77a7-479a-b7ac-580ec65171fd
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,6 +21,10 @@ Begränsa antalet personer som kan registrera sig för evenemanget med ett händ
 
 >[!IMPORTANT]
 >Du måste ha minst två godkända landningssidor (en registreringssida och en hel registreringssida) i programmet innan du kan ange ett händelsetak.
+
+>[!NOTE]
+>
+>Om du vill frigöra utrymme i en händelse måste programmedlemmen tas bort (du kan göra detta genom att uppdatera deras status till Inte i programmet).
 
 1. Välj ett händelsesystem.
 

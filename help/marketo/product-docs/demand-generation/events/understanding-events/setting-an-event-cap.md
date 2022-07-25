@@ -4,9 +4,9 @@ title: Ställa in en händelsekarta
 hide: true
 hidefromtoc: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
-source-git-commit: 7050d8f948d4ddd85aa102a4ed8f71f7b347fe5a
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ Begränsa antalet personer som kan registrera sig för evenemanget med ett händ
 
 >[!IMPORTANT]
 >Du måste ha minst två godkända landningssidor (en registreringssida och en hel registreringssida) i programmet innan du kan ange ett händelsetak.
+
+>[!NOTE]
+>
+>Om du vill frigöra utrymme i en händelse måste programmedlemmen tas bort (du kan göra detta genom att uppdatera deras status till Inte i programmet).
 
 1. Välj ett händelsesystem.
 

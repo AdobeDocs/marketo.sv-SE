@@ -2,9 +2,9 @@
 description: Filtrering av e-postsatsaktivitet - Marketo Docs - produktdokumentation
 title: Filtrerar e-postsatsaktivitet
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 524e185e255503ac44bb73303091a59b2d60242a
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,10 @@ I e-postlänkens klickning och öppningsaktivitet via e-post fylls nya attribut 
 
 >[!NOTE]
 >
->Du kan välja att filtrera båda aktiviteterna **eller** loggad. Om du väljer filtrerad kan du se en nedgång i e-postmeddelanden som öppnas och klicka på falska aktiviteter som försvinner
+>* Du kan välja att filtrera båda aktiviteterna **eller** loggad. Om du väljer filtrerad kan du se en nedgång i e-postmeddelandet som öppnas och klicka på falska aktiviteter som försvinner.
+>
+>* Endast aktiviteten &quot;Log Bot Activity&quot; är tillgänglig för &quot;Match with Proximity Pattern&quot; just nu.
+
 
 **VALFRITT STEG**: Om du vill inaktivera den här funktionen avmarkerar du reglagen. Om du inaktiverar återställs inte data.
 
