@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4bff61b90cbbe9466c23d9b003378eb72570f56c
+source-git-commit: 75c06c8d2eda0da6b8bdcd9011df3ca5deacfd6d
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '571'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,11 @@ Följande funktioner kommer att lanseras den **19 augusti 2022**, med en stegvis
 * **Adobe**: Uppdaterat utseende och känsla för redaktörer och personinformationssidor med nya Adobe Experience Cloud branding.
 
 * **Visa mapphierarkin för målmappen i dialogrutan Flytta**: Om du visar mapphierarkin för varje mapp blir det enklare att flytta resurser och sannolikheten för att de placeras i fel mapp minskar.
+
+* **Uppdaterade skärmar i nästa generation**: Vi levererar nya, uppdaterade skärmar i nästa generation av upplevelser som erbjuder uppdaterade design- och användarvänlighetsförbättringar som är tillgängliga via växlingsfunktion:
+
+   * Information om &quot;Bilder och filer&quot;
+   * Kodinformation
 
 >[!NOTE]
 >
