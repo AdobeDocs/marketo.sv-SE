@@ -2,10 +2,12 @@
 unique-page-id: 30081815
 description: Konfigurera Adobe Experience Manager-integrering - Marketo Docs - produktdokumentation
 title: Konfigurera Adobe Experience Manager Integration
+hide: true
+hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
-source-git-commit: 47b0f31b410f0bf4b41740aa6440c2a0484ab835
+source-git-commit: 3105fb33fb457d4dfb63081b80d4d1def717ad34
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -18,9 +20,12 @@ Konfigurera AEM så att du kan komma åt, välja och importera AEM till Marketo 
 >
 >**Administratörsbehörigheter krävs**
 
->[!CAUTION]
+>[!IMPORTANT]
 >
->För närvarande stöds den här funktionen endast fullt ut i Firefox. Det stöds inte i Safari och kanske inte fungerar i den senaste versionen av Chrome, beroende på inställningarna för cookie-filen för samma plats.
+>* Den här integreringen fungerar bara med implementeringar av AEM lokalt och stöds inte för AEM Cloud Service-implementeringar.
+>
+>* För närvarande stöds den här funktionen endast fullt ut i Firefox. Det stöds inte i Safari och kanske inte fungerar i den senaste versionen av Chrome, beroende på inställningarna för cookie-filen för samma plats.
+
 
 1. Gå till Adobe Experience Manager (URL:en är specifik för ditt företag).
 
