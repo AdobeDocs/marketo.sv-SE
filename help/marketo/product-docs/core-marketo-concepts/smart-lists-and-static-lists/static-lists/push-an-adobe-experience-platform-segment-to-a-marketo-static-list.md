@@ -2,9 +2,9 @@
 description: Överför ett Adobe Experience Platform-segment till en Marketo Static List - Marketo Docs - Product Documentation
 title: Överför ett Adobe Experience Platform-segment till en Marketo Static List
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 0dd8059a43bfb37cdcb6b36cc73d82538263245e
+source-git-commit: 7f312f97b9515f72aa314509dfaa12b146ad7dc4
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '666'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ Med den här funktionen kan du överföra segment som finns i din Adobe Experien
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-1. Ange ett mål **Namn** och en valfri beskrivning. Klicka på listrutan Skapa person och välj&quot;Matcha befintliga Marketo-personer och skapa saknade personer i Marketo&quot; _eller_ &quot;Matcha endast befintliga Marketo-användare.&quot; I det här exemplet väljer vi den första.
+1. Ange ett mål **Namn** och en valfri beskrivning. Klicka på listrutan Skapa person och välj&quot;Matcha befintliga Marketo-personer och skapa saknade personer i Marketo&quot; _eller_ &quot;Matcha endast befintliga Marketo-användare.&quot; I det här exemplet väljer vi den första. Du kan också välja en arbetsyta eller bara använda standardarbetsytan.
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
 
@@ -94,9 +94,13 @@ Med den här funktionen kan du överföra segment som finns i din Adobe Experien
 
    ![](assets/push-an-adobe-experience-platform-segment-14.png)
 
-1. Mappa förnamn genom att markera **firstName** och klicka **Välj**.
+1. Välj önskade attribut och klicka på **Välj**. I det här exemplet väljer vi förnamn, efternamn och e-postadress.
 
    ![](assets/push-an-adobe-experience-platform-segment-15.png)
+
+   >[!NOTE]
+   >
+   >Du kan mappa attribut från Experience Platform till attribut som din organisation har åtkomst till i Marketo Engage. Använd [Beskriv API-begäran](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target=&quot;_blank&quot;} för att hämta attributfält som din organisation har åtkomst till.
 
 1. Mappa efternamn och företagsnamn genom att klicka på **Lägg till ny mappning** och upprepa steg 15 två gånger genom att välja **lastName** och sedan **companyName**.
 
@@ -142,22 +146,6 @@ Med den här funktionen kan du överföra segment som finns i din Adobe Experien
 
    ![](assets/push-an-adobe-experience-platform-segment-25.png)
 
-1. Du behöver nu din listas ID. Klicka på den flik i webbläsaren där Marketo statiska lista är öppen (eller öppna en ny flik och välj önskad statisk lista).
+1. Granska ändringarna och klicka på **Slutför**.
 
    ![](assets/push-an-adobe-experience-platform-segment-26.png)
-
-   >[!NOTE]
-   >
-   >Använd en tom Marketo Engage-lista för bästa resultat.
-
-1. Markera och kopiera list-ID:t i slutet av URL:en.
-
-   ![](assets/push-an-adobe-experience-platform-segment-27.png)
-
-1. Klistra in det ID du kopierade under Mappnings-ID och klicka på **Nästa**.
-
-   ![](assets/push-an-adobe-experience-platform-segment-28.png)
-
-1. Klicka **Slutför**.
-
-   ![](assets/push-an-adobe-experience-platform-segment-29.png)
