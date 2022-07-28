@@ -2,9 +2,9 @@
 description: Dynamic Chat Overview - Marketo Docs - produktdokumentation
 title: Dynamisk chattöversikt
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
+source-git-commit: 8f7b773f964b68a7964744de8c1bd3b708719a12
 workflow-type: tm+mt
-source-wordcount: '918'
+source-wordcount: '951'
 ht-degree: 0%
 
 ---
@@ -170,5 +170,15 @@ När du uppdaterar språket ändras allt i själva programmet utom orden som du 
   <td>Bevarandeperiod för mötesbokningsaktivitet</td>
   <td>Den tid som mötesbokningsaktiviteten sparas i Dynamic Chat</td>
   <td>24 månader</td>
+ </tr>
+ <tr>
+  <td>Engagerade konversationer</td>
+  <td>Antal chattkonversationer som webbesökare kan interagera med per dag</td>
+  <td>1 000</td>
+ </tr>
+ <tr>
+  <td>Konversationer utlösta</td>
+  <td>Antal chattsamtal som kan visas för webbbesökare per dag</td>
+  <td>25 000</td>
  </tr>
 </table>

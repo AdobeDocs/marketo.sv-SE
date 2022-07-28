@@ -3,9 +3,9 @@ unique-page-id: 12979006
 description: Performance Insights Overview - Marketo Docs - produktdokumentation
 title: Performance Insights - översikt
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
-source-git-commit: 75c06c8d2eda0da6b8bdcd9011df3ca5deacfd6d
+source-git-commit: 8f7b773f964b68a7964744de8c1bd3b708719a12
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Performance Insights - översikt {#performance-insights-overview}
 
 Marketo Performance Insights hjälper er att optimera er kanalmix för maximal effektivitet, liksom att identifiera långsiktiga trender för att hitta enhetliga vinnande strategier.
+
+>[!AVAILABILITY]
+>
+>Alla kunder har inte köpt den här funktionen. Kontakta din Customer Success Manager för mer information.
 
 Performance Insights läser in data från (upp till) de senaste 24 månaderna. Detta inkluderar aktuella data från år till datum samt föregående års data. Den 31 januari 2019 läser till exempel MPI in data från den månaden och varje månad från 2018. Den 31 december 2019 kommer MPI att läsa in data från varje månad under 2019 och 2018.
 
