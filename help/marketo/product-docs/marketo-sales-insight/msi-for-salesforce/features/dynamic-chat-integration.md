@@ -3,9 +3,9 @@ description: Dynamic Chat-integrering - Marketo Docs - produktdokumentation
 title: Dynamisk chattintegrering
 hide: true
 hidefromtoc: true
-source-git-commit: ea2ee32a4c8805154f17717d515bb994dbfbe982
+source-git-commit: 237417bcb254baf93e4e5e307bd607c2c5455ef5
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,8 @@ Läs mer om Dynamic Chat-integrationen med Sales Insight.
 
 ## Marketo Sales Insight Configuration tab {#marketo-sales-insight-configuration-tab}
 
+Följ stegen nedan för att aktivera integreringen av Dynamic Chat.
+
 1. Logga in på ditt Salesforce-konto, klicka på + i slutet av flikfältet och klicka på **Marketo Sales Insight Config**.
 
 1. Klicka för att ta bort&quot;Visualforce-panelen&quot;.
@@ -35,7 +37,7 @@ Läs mer om Dynamic Chat-integrationen med Sales Insight.
 
 ## Funktionsöversikt {#feature-overview}
 
-De dynamiska chattaktiviteterna nedan kan utnyttjas av Sales Insight-användare.
+Följande Dynamic Chat-aktiviteter kan utnyttjas av Sales Insight-användare...
 
 Engaged Dialog: Inloggad i Marketo och ifylld i Sales Insight när en besökare klickar på en chattbot och engagerar sig i dialogrutan.
 
@@ -83,4 +85,4 @@ Fliken Chatt finns även på fliken Global Marketo. Det innehåller tre aktivite
 
 >[!NOTE]
 >
->Aktiviteten&quot;Interagera med dokument&quot; kommer att vara tillgänglig i MSI i en kommande version.
+>Aktiviteten Interagera med dokument kommer att vara tillgänglig i MSI i en kommande version.
