@@ -2,7 +2,7 @@
 description: Inledande installation - Marketo Docs - produktdokumentation
 title: Inledande konfiguration
 exl-id: 72c20e8f-879d-4490-a87f-3d8e2ba1f263
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: eb23d3b6538fd660a95bfb3fdcfc21ccc29c9944
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -31,4 +31,4 @@ Följ stegen nedan för att konfigurera Dynamic Chat.
 
 1. När du har loggat in på Admin Console är nästa sak att göra att lägga till användare. Vi har den processen [dokumenteras här](/help/marketo/product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md#add-a-chat-user).
 
-Nu är det dags att [ansluta Dynamic Chat till Marketo](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md).
+Nu är det dags att [ansluta Dynamic Chat till Marketo](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md).
