@@ -3,9 +3,9 @@ unique-page-id: 2359545
 description: Definiera A/B Test Winner Criteria - Marketo Docs - Product Documentation
 title: Definiera villkor för A/B-testvinnare
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
-source-git-commit: acea096990b834654b47c40b601ef2418069b9b5
+source-git-commit: 67ae4605d541a475b42a5094a5588c469a9d975d
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '439'
 ht-degree: 0%
 
 ---
@@ -63,9 +63,9 @@ När [lägga till ett A/B-test](/help/marketo/product-docs/email-marketing/email
 
    ![](assets/image2014-9-12-15-3a53-3a11.png)
 
-   >[!NOTE]
+   >[!IMPORTANT]
    >
-   >Marketo tillåter endast utlösare för personer som har fått e-postmeddelandet från det här e-postprogrammet. Du behöver inte lägga till filtret&quot;Skickat e-post&quot;.
+   >Marketo tillåter bara utlösare/filter för personer som har fått e-postmeddelandet från det här e-postprogrammet, så du behöver inte lägga till filtret&quot;Har skickats e-post&quot;. När du använder en e-postrelaterad utlösare/filter måste du dessutom se till att&quot;är någon&quot; som operator.
 
 1. Klicka **Stäng**.
 
