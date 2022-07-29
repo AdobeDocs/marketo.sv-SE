@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: ea2ee32a4c8805154f17717d515bb994dbfbe982
+source-git-commit: 5c6ef7791966b2b71c4d85262f4f3fde04149878
 workflow-type: tm+mt
-source-wordcount: '8793'
+source-wordcount: '8794'
 ht-degree: 0%
 
 ---
@@ -612,16 +612,17 @@ ht-degree: 0%
       + Dynamiskt chatt {#dynamic-chat}
          + [Dynamisk chattöversikt](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Inledande konfiguration](product-docs/demand-generation/dynamic-chat/initial-setup.md)
-         + [Ansluta Dynamic Chat till Marketo](product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)
          + [Lägg till eller ta bort chattanvändare](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [Konfiguration](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [Dynamiska chattaktiviteter](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+         + Integreringar {#integrations}
+            + [Ansluta Dynamic Chat till Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
+            + [Använda dokumentkortet](product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md)
          + Dialogrutor {#dialogues}
             + [Översikt över dialogrutan](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
             + [Skapa en dialogruta](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
             + [Målgruppskriterier](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
             + [Stream Designer](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
-            + [Använda dokumentkortet](product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md)
             + [Rapporter](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
       + Händelser {#events}
          + Förstå händelser {#understanding-events}
