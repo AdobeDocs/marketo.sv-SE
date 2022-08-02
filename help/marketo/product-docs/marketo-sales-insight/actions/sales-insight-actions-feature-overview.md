@@ -2,9 +2,9 @@
 description: Sales Insight Actions Feature Overview - Marketo Docs - Product Documentation
 title: Funktionsöversikt för Sales Insight
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
+source-git-commit: d36fc031675cea2edad63462e7df21f229c49821
 workflow-type: tm+mt
-source-wordcount: '1336'
+source-wordcount: '1337'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ Snabba upp prospekteringsarbetet med marknadsföringsstyrda verktyg för analys 
 
 >[!AVAILABILITY]
 >
->Den här funktionen är för närvarande begränsad för GA. Kontakta din Customer Success Manager eller mejl `sales-insights(at)adobe(dot)com` för att begära åtkomst.
+>Den här funktionen är för närvarande i en fasad utrullning. Kontakta din Customer Success Manager eller mejl `sales-insights(at)adobe(dot)com` för att begära åtkomst.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -25,7 +25,7 @@ Följande åtgärder är tillgängliga i listrutan Välj åtgärder i det övre 
 
 * Skicka e-postmeddelande
    * E-postmeddelanden med försäljningsmeddelanden har vy, klickning och svarsspårning (när leveranskanalen är inställd)
-   * Inkluderar e-post-Personalization, anpassad signatur och bilagor
+   * Inkluderar anpassning av e-post, anpassad signatur och bilagor
    * Malldelning och rapporter
    * Teamdelning, gruppmeddelanden och CC/BCC-funktioner
    * E-postaktiviteten för försäljning loggas i Marketo personpost
@@ -77,7 +77,7 @@ Följande åtgärder är tillgängliga i den övre navigeringen:
 
 * Skicka e-post för försäljning - möjlighet att skicka personaliserade eller mallsidiga gruppmeddelanden med vy, klickning och svarsuppföljning till alla kontakter som är kopplade till ett konto/en affärsmöjlighet
    * E-postmeddelanden med försäljningsmeddelanden har vy, klickning och svarsspårning (när leveranskanalen är inställd)
-   * Inkluderar e-post-Personalization, anpassad signatur och bilagor
+   * Inkluderar anpassning av e-post, anpassad signatur och bilagor
    * Malldelning och rapporter
    * Teamdelning, gruppmeddelanden och CC/BCC-funktioner
    * E-postaktiviteten för försäljning loggas i Marketo personpost
