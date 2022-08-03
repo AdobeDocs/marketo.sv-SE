@@ -3,7 +3,7 @@ unique-page-id: 2360407
 description: Skapa en e-postanalysrapport som listar leads - Marketo Docs - produktdokumentation
 title: Skapa en e-postanalysrapport som listar leads
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Skapa en e-postanalysrapport som listar leads {#build-an-email-analysis-report-that-lists-leads}
 
+Följ de här stegen för att skapa en e-postanalysrapport som visar alla leads som har skickats ett visst e-postmeddelande. Rapporten innehåller även Klicka- och Öppna-statistik.
+
 >[!AVAILABILITY]
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din Customer Success Manager för mer information.
-
-Följ de här stegen för att skapa en e-postanalysrapport som visar alla leads som har skickats ett visst e-postmeddelande. Rapporten innehåller även Klicka- och Öppna-statistik.
 
 >[!NOTE]
 >

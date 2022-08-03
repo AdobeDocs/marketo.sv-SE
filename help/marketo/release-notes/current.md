@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Här nedan hittar du alla funktioner som finns i versionen från 22 augusti. Se 
 >
 >Funktioner som anges av en stjärna (![stjärna](assets/yellow-star.png)) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
 
-Följande funktioner kommer att lanseras den **19 augusti 2022**, med en stegvis utrullning av återstående funktioner under de följande veckorna (om inget annat anges). Versionsfunktionerna och de exakta datumen kan komma att ändras.
+Följande funktioner kommer att lanseras den **26 augusti 2022**, med en stegvis utrullning av återstående funktioner under de följande veckorna (om inget annat anges). Versionsfunktionerna och de exakta datumen kan komma att ändras.
 
 ## Flerkanalsmarknadsföring {#cross-channel-orchestration}
 
@@ -63,6 +63,12 @@ Följande funktioner kommer att lanseras den **19 augusti 2022**, med en stegvis
 ## API-förbättringar {#api-enhancements}
 
 * **Nya filtreringsfunktioner för API:t för programmedlemsextrahering för massutskick**: Filtrera efter status för programmedlemskap, updatedAt, cadence eller slut på innehåll för att förfina extraherade datauppsättningar.
+
+## Försäljningsinsikter {#sales-insight}
+
+![(stjärna)](assets/yellow-star.png)
+
+* **Sales Insight Integration with Dynamic Chat**: Visa aktiviteter från Dynamic Chat på panelen Sales Insight och utnyttja den nya datapunkten i din prospektering.
 
 ## Meddelanden {#announcements}
 
