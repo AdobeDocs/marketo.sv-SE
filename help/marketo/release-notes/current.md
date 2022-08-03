@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 75c06c8d2eda0da6b8bdcd9011df3ca5deacfd6d
+source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
 workflow-type: tm+mt
-source-wordcount: '571'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
@@ -63,8 +63,6 @@ Följande funktioner kommer att lanseras den **19 augusti 2022**, med en stegvis
 ## API-förbättringar {#api-enhancements}
 
 * **Nya filtreringsfunktioner för API:t för programmedlemsextrahering för massutskick**: Filtrera efter status för programmedlemskap, updatedAt, cadence eller slut på innehåll för att förfina extraherade datauppsättningar.
-
-* **Visa endast API-användare i felmeddelanden för webbtjänster**: Se vilken API-användare som genererade ett webbtjänstfel för att förbättra felsökningen.
 
 ## Meddelanden {#announcements}
 

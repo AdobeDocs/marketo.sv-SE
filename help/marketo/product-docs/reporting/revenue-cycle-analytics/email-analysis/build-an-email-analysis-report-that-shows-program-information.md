@@ -2,14 +2,13 @@
 unique-page-id: 2360409
 description: Skapa en e-postanalysrapport som visar programinformation - Marketo Docs - produktdokumentation
 title: Skapa en e-postanalysrapport som visar programinformation
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
+source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
-
 
 # Skapa en e-postanalysrapport som visar programinformation {#build-an-email-analysis-report-that-shows-program-information}
 
@@ -17,21 +16,21 @@ Följ de här stegen för att skapa en e-postanalysrapport som visar e-postinfor
 
 >[!AVAILABILITY]
 >
->Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
+>Alla kunder har inte köpt den här funktionen. Kontakta din Customer Success Manager för mer information.
 
-1. Starta **Intresseutforskaren**.
+1. Starta **Intäktsutforskaren**.
 
-   ![](assets/image2014-9-17-19-3a42-3a26.png)
+   ![](assets/report-that-shows-program-information-1.png)
 
-1. Klicka på **Ny rapport**.
+1. Klicka **Skapa nytt** och markera **Rapport**.
 
-   ![](assets/image2014-9-17-19-3a42-3a32.png)
+   ![](assets/report-that-shows-program-information-2.png)
 
-1. Välj **E-postanalys** och klicka på **OK**.
+1. Välj **E-postanalys** område och klicka **OK**.
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
-1. Hitta den gula punkten **Skickat (Vecka)** och högerklicka på den. Klicka på **Filter**.
+1. Hitta **Skickat (vecka)** gul punkt och högerklicka på den. Klicka **Filter**.
 
    >[!NOTE]
    >
@@ -39,19 +38,19 @@ Följ de här stegen för att skapa en e-postanalysrapport som visar e-postinfor
 
    ![](assets/image2014-9-17-19-3a43-3a49.png)
 
-1. Kontrollera **Aktuell avsänd vecka** och klicka på **OK**.
+1. Kontrollera **Aktuell skickad vecka** och klicka **OK**.
 
    ![](assets/image2014-9-17-19-3a43-3a59.png)
 
-1. Sök efter och dubbelklicka på den gula punkten **Programkanal**.
+1. Sök och dubbelklicka på **Programkanal** gul punkt.
 
    ![](assets/image2014-9-17-19-3a44-3a14.png)
 
-1. Sök och dubbelklicka på den gula punkten **E-postnamn**.
+1. Sök och dubbelklicka på **E-postnamn** gul punkt.
 
    ![](assets/image2014-9-17-19-3a44-3a34.png)
 
-1. Leta reda på och dubbelklicka på de blå punkterna **Skickat**, **Öppnat** och **Klickat**.
+1. Sök och dubbelklicka på **Skickat**, **Öppnad** och **Klickat** blå prickar.
 
    ![](assets/image2014-9-17-19-3a44-3a41.png)
 
