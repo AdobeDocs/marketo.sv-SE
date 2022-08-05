@@ -2,7 +2,7 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
+source-git-commit: 87e5bab3f668509bd791a0ec1ff0e2174eadda09
 workflow-type: tm+mt
 source-wordcount: '580'
 ht-degree: 0%
@@ -35,8 +35,8 @@ Följande funktioner kommer att lanseras den **26 augusti 2022**, med en stegvis
 
 * **Uppdaterade skärmar i nästa generation**: Vi levererar nya, uppdaterade skärmar i nästa generation av upplevelser som erbjuder uppdaterade design- och användarvänlighetsförbättringar som är tillgängliga via växlingsfunktion:
 
-   * Information om &quot;Bilder och filer&quot;
    * Kodinformation
+   * Information om &quot;Bilder och filer&quot;
 
 >[!NOTE]
 >
