@@ -3,9 +3,9 @@ unique-page-id: 4720433
 description: Konfigurera protokoll för Marketo - Marketo Docs - produktdokumentation
 title: Konfigurera protokoll för Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 529b8d3580c93d476fdb9f3a6dbaa05f51c48b7c
 workflow-type: tm+mt
-source-wordcount: '1020'
+source-wordcount: '1025'
 ht-degree: 1%
 
 ---
@@ -134,6 +134,21 @@ Följande tabell omfattar alla Marketo Engage-servrar som gör utgående samtal.
   </tr>
    <tr>
    <td>199.15.212.0/22</td>
+  </tr>
+   <tr>
+   <td>185.28.196.0/22</td>
+  </tr>
+   <tr>
+   <td>130.248.172.0/24</td>
+  </tr>
+   <tr>
+   <td>130.248.173.0/24</td>
+  </tr>
+  <tr>
+   <td>103.237.104.0/22</td>
+  </tr>
+  <tr>
+   <td>94.236.119.0/26</td>
   </tr>
  </tbody>
 </table>
