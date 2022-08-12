@@ -1,0 +1,407 @@
+---
+description: Chatbot Behavior - Marketo Docs - produktdokumentation
+title: Chatbot-beteende
+hide: true
+hidefromtoc: true
+source-git-commit: 4ec9338bec2e0255eab4304da74464dd47ffae24
+workflow-type: tm+mt
+source-wordcount: '1512'
+ht-degree: 0%
+
+---
+
+# Chatbot-beteende {#chatbot-behavior}
+
+Här följer olika möjliga scenarier som överträffar Chatbot förväntade beteende hos besökaren i var och en av dem.
+
+<table>
+  <tbody>
+    <tr>
+      <th>Förkortning</th>
+      <th>Detaljer</th>
+    </tr>
+    <tr>
+      <td>D1, D2, D3 osv.</td>
+      <td>Representerar flera dialogrutor där D1 är dialogruta 1</td>
+    </tr>
+    <tr>
+      <td>P1, P2, P3 osv.</td>
+      <td>Representerar dialogprioriteringar där P1 är den högsta prioriteten</td>
+    </tr>
+    <tr>
+      <td>WP1, WP2, WP3 osv.</td>
+      <td>Representerar flera webbsidor där WP1 är den första webbsidan</td>
+    </tr>
+    <tr>
+      <td>V1, V2, V3 osv.</td>
+      <td>Representerar flera besökare på webbsidan där V1 är besökare ett</td>
+    </tr>
+   </tbody>
+</table>
+
+## Scenarier {#scenarios}
+
+<table>
+  <tr>
+      <th>Scenario</th>
+      <th>Chatbot-beteende förväntades</th>
+      <th>Backend-åtgärd</th>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 är endast avsedd för WP1</p>
+        <p>V1-besök WP1</p>
+      </td>
+      <td>
+        <p>D1 ska lösas till V1 </p>
+      </td>
+      <td>Utlösarantalet för D1 ska ökas med 1</td>
+    </tr>
+    <tr background: #CCCCCC>
+      <td>
+        <p>D1 är endast avsedd för WP1</p>
+        <p>V1-besök WP1</p>
+        <p>V1 uppdaterar WP1</p>
+      </td>
+      <td>
+        <p>D1 ska lösas till V1</p>
+        <p>Efter uppdatering ska D1 lösas igen</p>
+      </td>
+      <td>
+        <p>Utlösarantalet för D1 ska ökas med 1 </p>
+        <p>Efter uppdatering, ingen ändring av D1-utlösare eller antal engagemang</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 är endast avsedd för WP1</p>
+        <p>V1-besök WP1 första gången</p>
+        <p>V1 klickade på D1 men svarade inte </p>
+      </td>
+      <td>D1 ska lösas till V1</td>
+      <td>
+        <p>Utlösarantalet för D1 ska ökas med 1 </p>
+        <p>Ingen ändring av antalet D1-ärenden</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 är endast avsedd för WP1</p>
+        <p>V1-besök WP1 första gången</p>
+        <p>V1-klickningar på D1 och ger det första svaret  </p>
+      </td>
+      <td>D1 ska lösas till V1</td>
+      <td>
+        <p>Utlösarantalet för D1 ska ökas med 1 </p>
+        <p>Antal engagemang för D1 ska ökas med 1 </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 är endast avsedd för WP1</p>
+        <p>V1-besök WP1 första gången</p>
+        <p>V1-klickningar på D1 och ger det första svaret</p>
+        <p>V1 uppdaterar WP1  </p>
+      </td>
+      <td>
+        <p>D1 ska lösas till V1</p>
+        <p>Efter uppdatering ska D1 fortsätta</p>
+      </td>
+      <td>
+        <p>Utlösarantalet och antalet engagemang för D1 ska ökas med 1 </p>
+        <p>Efter uppdatering ändras inte antalet</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 är endast avsedd för WP1</p>
+        <p>V1-besök WP1 första gången</p>
+        <p>V1 klickar på D1, aktiverar chattbot och slutför D1</p>
+        <p>V1 uppdaterar WP1  </p>
+      </td>
+      <td>
+        <p>D1 ska lösas till V1</p>
+        <p>Efter uppdatering ska ingen dialogruta eller nästa dialogruta lösas för V1</p>
+      </td>
+      <td>
+        <p>Utlösarantalet, antalet engagemang, antalet slutförda för D1 ska ökas med 1 </p>
+        <p>Efter uppdatering ska ingen dialogruta eller nästa dialogruta öppnas</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 som endast är avsedd för WP1, WP2</p>
+        <p>V1-besök WP1 första gången</p>
+        <p>V1 klickade på D1 men svarade inte </p>
+        <p>V1-besök WP2</p>
+      </td>
+      <td>
+        <p>Sidbesök WP1, D1 bör lösas upp mot V1</p>
+        <p>Sidbesök WP2, D1 bör matchas till V2</p>
+      </td>
+      <td>
+        <p>Utlösarantalet för D1 ska ökas med 1 </p>
+        <p>I WP2 ändras inte antalet utlösare för D1</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 som endast är avsedd för WP1, WP2</p>
+        <p>V1-besök WP1 första gången</p>
+        <p>V1 klickade på D1 och aktiverade</p>
+        <p>V1-besök WP2</p>
+      </td>
+      <td>
+        <p>Sidbesök WP1, D1 bör lösas upp mot V1</p>
+        <p>Sidbesök WP2, D1 bör matchas till V1</p>
+      </td>
+      <td>
+        <p>Utlösarantalet och antalet engagemang för D1 ska ökas med 1 </p>
+        <p>I WP2 ändras inte antalet</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 är endast avsedd för WP1</p>
+        <p>D2 för endast WP2</p>
+        <p>V1-besök WP1 första gången</p>
+        <p>V1-klickningar på D1 och ger det första svaret</p>
+        <p>V1-besök WP2</p>
+      </td>
+      <td>
+        <p>D1 ska lösas på WP1</p>
+        <p>D1 ska fortsätta till V1 på WP2</p>
+      </td>
+      <td>
+        <p>Utlösarantalet och antalet engagemang för D1 ska ökas med 1 </p>
+        <p>Ingen ändring av D2-utlösare eller antal engagemang</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 är endast avsedd för WP1</p>
+        <p>D2 för endast WP2</p>
+        <p>V1-besök WP1 första gången</p>
+        <p>V1 klickade på D1 men svarade inte </p>
+        <p>V1-besök WP2</p>
+      </td>
+      <td>D1 ska lösas på WP1<br/>D2 ska lösas på WP2</td>
+      <td>
+        <p>Utlösarantalet för D1 ska ökas med 1 </p>
+        <p>Utlösarantalet för D2 bör ökas med 1 </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 är endast avsedd för WP1</p>
+        <p>D2 för endast WP2</p>
+        <p>V1-besök WP1 första gången</p>
+        <p>V1 klickar på D1 och slutför D1</p>
+        <p>V1-besök WP2</p>
+      </td>
+      <td>D1 ska lösas vid WP1 och efter slutförande<br/>D2 ska lösas på WP2</td>
+      <td>
+        <p>Utlösaren, engagemanget och antalet slutförda för D1 ska ökas med 1 </p>
+        <p>Utlösarantalet för D2 bör ökas med 1 </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 är endast avsedd för WP1</p>
+        <p>D2 för endast WP2</p>
+        <p>V1-besök WP1 första gången</p>
+        <p>V1 klickar på D1 och slutför D1</p>
+        <p>V1-besök WP2</p>
+        <p>V1-klick på D2 ger det första svaret </p>
+      </td>
+      <td>D1 ska lösas vid WP1 och efter slutförande<br/>D2 ska lösas på WP2</td>
+      <td>
+        <p>Utlösaren, engagemanget och antalet slutförda för D1 ska ökas med 1 </p>
+        <p>Utlösar- och engagemangsantalet för D2 ska ökas med 1 </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 är endast avsedd för WP1</p>
+        <p>V1-besök WP1 första gången</p>
+        <p>V1 klickade på D1 men svarade inte </p>
+        <p>D1 är opublicerad</p>
+      </td>
+      <td>D1 ska lösas till V1</td>
+      <td>
+        <p>Utlösarantalet för D1 ska ökas med 1 </p>
+        <p>Ingen ändring av antalet D1-ärenden</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 är endast avsedd för WP1</p>
+        <p>V1-besök WP1 första gången</p>
+        <p>V1 klickade på D1 men svarade inte </p>
+        <p>D1 är opublicerad</p>
+        <p>V1 uppdaterar WP1</p>
+      </td>
+      <td>
+        <p>D1 ska matchas till V1 första gången</p>
+        <p>Efter uppdatering ska ingen dialogruta öppnas </p>
+      </td>
+      <td>
+        <p>Utlösarantalet för D1 ska ökas med 1 </p>
+        <p>Ingen ändring av antalet D1-ärenden</p>
+        <p>Efter uppdatering, ingen ändring av D1-utlösaren eller antalet engagemang</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 är endast avsedd för WP1</p>
+        <p>V1-besök WP1 första gången</p>
+        <p>V1 upptagen med D1 </p>
+        <p>D1 är opublicerad</p>
+        <p>V1 uppdaterar WP1</p>
+      </td>
+      <td>
+        <p>D1 ska lösas till V1</p>
+        <p>Efter uppdatering ska D1 fortsätta </p>
+      </td>
+      <td>
+        <p>Utlösarantalet för D1 ska ökas med 1 </p>
+        <p>Antal D1-engagemang ska ökas med 1</p>
+        <p>Efter uppdatering fortsätter D1 inte att ändras ytterligare för utlösar- eller engagemangssiffran</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 är endast avsedd för WP1</p>
+        <p>V1-besök WP1 första gången</p>
+        <p>V1 klickade på D1 men svarade inte </p>
+        <p>D1 publiceras med nya ändringar</p>
+        <p>V1 uppdaterar WP1</p>
+      </td>
+      <td>
+        <p>D1 ska matchas till V1 första gången</p>
+        <p>Dialogrutan med nya ändringar bör stängas efter uppdateringen</p>
+      </td>
+      <td>
+        <p>Utlösarantalet för D1 ska ökas med 1 </p>
+        <p>Efter uppdatering, som D1 med nya ändringar men ingen ytterligare ändring av utlösarantalet</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 är endast avsedd för WP1</p>
+        <p>V1-besök WP1 första gången</p>
+        <p>V1-klick på D1 ger det första svaret </p>
+        <p>D1 publiceras med nya ändringar</p>
+        <p>V1 uppdaterar WP1</p>
+      </td>
+      <td>
+        <p>D1 ska matchas till V1 första gången</p>
+        <p>Dialogrutan med gamla ändringar bör fortsätta efter uppdateringen</p>
+      </td>
+      <td>
+        <p>Utlösarantalet för D1 ska ökas med 1 </p>
+        <p>Antal engagemang för D1 ska ökas med 1 </p>
+        <p>Efter uppdatering visas den gamla D1 så att ingen ändring görs för att aktivera antalet</p>
+      </td>
+    </tr>
+    <tr>
+     <td>
+        <p>D1 riktad mot WP1 med 1 prioritet</p>
+        <p>D2 för WP1 med 2 prioriteter </p>
+        <p>V1-besök WP1 första gången</p>
+        <p>V1 klickade på D1 men svarade inte </p>
+        <p>D1 är opublicerad</p>
+        <p>V1 uppdaterar WP1</p>
+      </td>
+      <td>
+        <p>D1 ska matchas till V1 första gången</p>
+        <p>Efter uppdatering ska D2 matchas till V1</p>
+      </td>
+      <td>
+        <p>Utlösarantalet för D1 ska ökas med 1 </p>
+        <p>Efter uppdatering ska antalet utlösare för D2 ökas med 1 </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 riktad mot WP1 med 1 prioritet</p>
+        <p>D2 för WP1 med 2 prioriteter </p>
+        <p>V1-besök WP1 första gången</p>
+        <p>V1 klickar på D1 och slutför D1</p>
+        <p>V1 uppdaterar WP1 och se D2<br/>V1 klickar på D2 och slutför D2</p>
+        <p>Marknadsföraren gjorde ändringar i D1 och publicerade på nytt</p>
+        <p>V1 uppdaterar WP1</p>
+      </td>
+      <td>
+        <p>D1 ska matchas till V1 första gången</p>
+        <p>Efter uppdatering ska D2 matchas till V1</p>
+        <p>När D1 och D2 är klara, oavsett vilka ändringar eller ompublicerade D1, ska D2 inte visas igen till V1</p>
+      </td>
+      <td>
+        <p>Antal utlösare, inlöst, slutförda för D1 ska ökas med 1 </p>
+        <p>Uppdatera när D2 har slutförts, ingen åtgärd behöver vidtas</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 som mål för WP1 med utlösaren "Time on Site" på 30 sekunder</p>
+        <p>V1-besök WP1</p>
+      </td>
+      <td>
+        <p>D1 ska lösas men ska inte aktiveras till V1 </p>
+        <p>Efter 30 sekunder ska D1 visas/utlösas till V1</p>
+      </td>
+      <td>Utlösarantalet för D1 ska ökas med 1 endast efter 30 sekunders tid</td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 som mål för WP1, WP2 med utlösaren "Time on page" på 30 sekunder</p>
+        <p>V1-besök WP1, WP2</p>
+      </td>
+      <td>
+        <p>D1 ska lösas men ska inte aktiveras till V1 </p>
+        <p>Efter 30 sekunder ska D1 visas/utlösas till V1</p>
+      </td>
+      <td>Utlösarantalet för D1 ska ökas med 1 endast efter 30 sekunders tid</td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 som mål för WP1 med "% rullningsutlösare" på 50 % </p>
+        <p>V1-besök WP1</p>
+      </td>
+      <td>
+        <p>D1 ska lösas men ska inte aktiveras till V1 </p>
+        <p>Efter 50% rullning ska D1 visas/utlösas till V1</p>
+      </td>
+      <td>Utlösarantalet för D1 ska bara ökas med 1 efter 50% rullning</td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 som mål för WP1 med 1 prioritet och händelseutlösaren"Time on page" på 30 sekunder</p>
+        <p>D2 för WP1 med 2 prioriteter och händelsens"sidrullning %" på 50 %</p>
+        <p>V1-besök WP1, efter 10 sekunders V1-besök WP2, V1-besök WP1</p>
+      </td>
+      <td>
+        <p>På WP1 ska D1 lösas men utlösas inte till V1 </p>
+        <p>På WP2 ska D2 lösas men inte aktiveras till V1</p>
+        <p>På WP1 ska D1 lösas och efter 20 sekunder ska D1 aktiveras till V1 </p>
+      </td>
+      <td>Utlösarantalet för D1 ska ökas med 1 först efter 30 sekunder</td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 som mål för WP1 med utlösaren "Time on Site" på 1 minut</p>
+        <p>V1 besöker WP1 i 1 minut och visas som D1, men engagerar inte</p>
+        <p>V1 stänger WP1 och återgår till WP1 2 dagar senare</p>
+      </td>
+      <td>
+        <p>D1 ska automatiskt visas som V1 eftersom de redan uppfyller utlösningskriterierna under föregående session</p>
+        <p>Samma logik ska gälla för"Tid på sida" och"procentuell sidrullning"</p>
+      </td>
+      <td>
+        <p>Utlösarantalet för D1 ska ökas med 1 </p>
+        <p>Efter retur behöver ingen åtgärd vidtas</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
