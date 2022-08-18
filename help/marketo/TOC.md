@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: bef1162511ba96fe35a24a227c2ceb90bb5f3c63
+source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
 workflow-type: tm+mt
 source-wordcount: '8807'
 ht-degree: 0%
@@ -711,7 +711,7 @@ ht-degree: 0%
             + [Ange ett dolt formulärfältsvärde](product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md)
          + Använda CAPTCHA {#using-captcha}
             + [Konfigurera reCAPTCHA v3](product-docs/demand-generation/forms/using-captcha/setting-up-recaptcha-v3.md)
-            + [Aktivera CAPTCHA i Marketo Engage](product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-engage.md)
+            + [Aktivera CAPTCHA i Marketo Forms](product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md)
       + Bilder och filer {#images-and-files}
          + [Lägg till bilder och filer i Marketo](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
          + [Ta bort en överförd bild eller fil](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)

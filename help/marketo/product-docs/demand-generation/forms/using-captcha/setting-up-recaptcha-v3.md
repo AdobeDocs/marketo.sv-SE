@@ -4,18 +4,18 @@ title: Konfigurera reCAPTCHA v3
 hide: true
 hidefromtoc: true
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: 1803d6355747f4b6300509a3d361bf235dd56f44
+source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
-# Konfigurera reCAPTCHA {#setting-up-recaptcha}
+# Konfigurera reCAPTCHA v3 {#setting-up-recaptcha-v3}
 
 Intro Text
 
-## Konfigurera reCAPTCHA v3 {#setting-up-recaptcha-v3}
+## Inledande konfiguration av reCAPTCHA v3 {#initial-recaptcha-v3-setup}
 
 Text: Beskriv v3 - följande steg utförs utanför Marketo Engage.
 
@@ -47,18 +47,22 @@ Text: Beskriv v3 - följande steg utförs utanför Marketo Engage.
 
 ## Konfigurera CAPTCHA i Marketo Engage {#setting-up-captcha-in-marketo-engage}
 
-1. I Marketo klickar du på **Administratör** och markera **CAPTCHA**.
+1. I Marketo klickar du på **Administratör**.
 
-PICC
+   ![](assets/setting-up-recaptcha-v3-1.png)
+
+1. Välj **CAPTCHA** i trädet.
+
+   ![](assets/setting-up-recaptcha-v3-2.png)
 
 1. Klicka **Redigera** på CAPTCHA-inställningar.
 
-PICC
+   ![](assets/setting-up-recaptcha-v3-3.png)
 
 1. Klicka på listrutan CAPTCHA och välj reCAPTCHA v3.
 
-PICC
+   ![](assets/setting-up-recaptcha-v3-4.png)
 
 1. Infoga hemlig nyckel och platsnyckel. Klicka **Spara** när det är klart.
 
-PICC
+   ![](assets/setting-up-recaptcha-v3-5.png)
