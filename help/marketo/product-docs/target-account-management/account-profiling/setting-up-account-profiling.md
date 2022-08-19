@@ -3,9 +3,9 @@ unique-page-id: 17432598
 description: Konfigurera kontoprofilering - Marketo Docs - produktdokumentation
 title: Konfigurera kontoprofilering
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
-source-git-commit: 08afc55a09ac6577b4f8c0a64a1c0150b7d09a49
+source-git-commit: 07a6640bd6cd43f55a5fa7e64b4a960dce288021
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '149'
 ht-degree: 2%
 
 ---
@@ -16,38 +16,36 @@ Följ de här stegen för att börja använda kontoprofilering.
 
 >[!CAUTION]
 >
->Följande fält måste **inte** döljas för att kontoprofilering ska fungera korrekt.
+>Följande fält måste **not** döljas för att kontoprofileringen ska fungera korrekt.
 >
 >* Webbplats
 >* Företag
 >* E-post
 >* Land
-
 >
->
-Lär dig hur du [visar ett fält här](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
+>Lär dig hur [visa ett fält här](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
 
-1. Öppna **Hantering av målkonto** i Min Marketo.
+1. Öppna i Min Marketo **Hantering av målkonto**.
 
    ![](assets/setting-up-account-profiling-1.png)
 
-1. Klicka på fliken **Kontoprofilering**.
+1. Klicka på **Kontoprofilering** -fliken.
 
    ![](assets/two-1.png)
 
-1. Fliken Modell öppnas som standard. Klicka på **Kom igång**.
+1. Fliken Modell öppnas som standard. Klicka **Kom igång**.
 
    ![](assets/three.png)
 
-1. Ge modellen ett namn, välj vem som ska inkluderas i resultaten och vem som ska fungera som bas för den idealiska kundprofilen (ICP). Klicka på **Skapa modell** när du är klar.
+1. Ge modellen ett namn och välj listtyp/lista med personer som ska fungera som bas för Ideal Customer Profile (ICP). Klicka **Skapa modell** när det är klart.
 
-   ![](assets/four.png)
+   ![](assets/setting-up-account-profiling-4.png)
 
 1. Modellen börjar byggas. Det kan ta en stund, men oroa dig inte. Du meddelas när det är klart.
 
    ![](assets/five.png)
 
-1. Om du vill visa resultatet av modellen klickar du på **Se Modellresultat**.
+1. Klicka på **Se modellresultat**.
 
    ![](assets/six.png)
 
@@ -57,4 +55,4 @@ Lär dig hur du [visar ett fält här](/help/marketo/product-docs/administration
 
    >[!TIP]
    >
-   >[Lär dig hur du justerar modellen](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md) när du har skapat modellen.
+   >Nu när din modell har skapats [lära sig att trimma](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md).
