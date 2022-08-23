@@ -4,20 +4,36 @@ title: Konfigurera reCAPTCHA v3
 hide: true
 hidefromtoc: true
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: 24942664d613fa2851bad7a0dd3862027deacf37
+source-git-commit: cdc8d5f3322b9d19d50f9f4bd8156b7e3a627977
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
 
 # Konfigurera reCAPTCHA v3 {#setting-up-recaptcha-v3}
 
-Intro Text
+reCAPTCHA v3 är en friktionslös upplevelse som gör att man kan bedöma inskickade formulär utifrån hur misstänkt de är utan att behöva använda text, bilder eller knappar. [Läs mer](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target=&quot;_blank&quot;}.
+
+## Hämta ditt datacenter- och Munchkin-ID {#retrieve-your-data-center-and-munchkin-id}
+
+För steg 6 i det inledande konfigurationsavsnittet för reCAPTCHA v3 nedan behöver du Marketo Engage prenumerationens datacenter och Munchkin-ID. Så här hittar du dem.
+
+1. I Marketo klickar du på **Administratör**.
+
+   ![](assets/setting-up-recaptcha-v3-1.png)
+
+1. Klicka **Mitt konto**.
+
+   ![](assets/setting-up-recaptcha-v3-2.png)
+
+1. Bläddra ned till supportinformation.
+
+   ![](assets/setting-up-recaptcha-v3-3.png)
 
 ## Inledande konfiguration av reCAPTCHA v3 {#initial-recaptcha-v3-setup}
 
-Text: Beskriv v3 - följande steg utförs utanför Marketo Engage.
+Följande steg utförs utanför Marketo.
 
 1. Gå till [https://www.google.com/recaptcha/about/](https://www.google.com/recaptcha/about/){target=&quot;_blank&quot;} och klicka på v3 Admin Console.
 
@@ -29,11 +45,15 @@ Text: Beskriv v3 - följande steg utförs utanför Marketo Engage.
 
 1. Välj typ **reCAPTCHA v3**. Marketo Engage stöder för närvarande inte reCAPTCHA v2.
 
-1. Lägg till varje domän som används av Marketo Engage-prenumerationen. Domäner som inte anges här returnerar fel i formulär där reCAPTCHA är aktiverat.
+1. Lägg till varje domän som används av Marketo Engage-prenumerationen. Domäner som inte anges här returnerar fel i formulär där reCAPTCHA är aktiverat. Kom ihåg att ersätta orden &#39;datacenter&#39; och &#39;munchkinID&#39; med [data i din prenumeration](#retrieve-your-data-center-and-munchkin-id).
 
-   * 123-ABC-456.mktoweb.com
-   * app-pod.marketo.com
+   * app-datacenter.marketo.com
+   * munchkinID.mktoweb.com
    * alla domäner och alias för landningssidor som konfigurerats i prenumerationen
+
+   >[!NOTE]
+   >
+   >Om ditt kontos datacenter till exempel är &quot;sjst&quot; är domänen du tillåtslista den `app-sjst.marketo.com`. Om ditt Munchkin-ID är 123-ABC-789 blir domänen du tillåtslista `123-ABC-789.mktoweb.com`.
 
 1. Ange en ägare och ytterligare e-postadress som ska ta emot varningar om den här tjänsten.
 
@@ -49,20 +69,20 @@ Text: Beskriv v3 - följande steg utförs utanför Marketo Engage.
 
 1. I Marketo klickar du på **Administratör**.
 
-   ![](assets/setting-up-recaptcha-v3-1.png)
+   ![](assets/setting-up-recaptcha-v3-4.png)
 
 1. Välj **CAPTCHA** i trädet.
 
-   ![](assets/setting-up-recaptcha-v3-2.png)
+   ![](assets/setting-up-recaptcha-v3-5.png)
 
 1. Klicka **Redigera** på CAPTCHA-inställningar.
 
-   ![](assets/setting-up-recaptcha-v3-3.png)
+   ![](assets/setting-up-recaptcha-v3-6.png)
 
 1. Klicka på listrutan CAPTCHA och välj reCAPTCHA v3.
 
-   ![](assets/setting-up-recaptcha-v3-4.png)
+   ![](assets/setting-up-recaptcha-v3-7.png)
 
 1. Infoga hemlig nyckel och platsnyckel. Klicka **Spara** när det är klart.
 
-   ![](assets/setting-up-recaptcha-v3-5.png)
+   ![](assets/setting-up-recaptcha-v3-8.png)
