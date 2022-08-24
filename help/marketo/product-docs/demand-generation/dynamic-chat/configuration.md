@@ -2,9 +2,9 @@
 description: Konfiguration - Marketo Docs - produktdokumentation
 title: Konfiguration
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 0c7299de282194a01783e9c2d484c1d206460e01
+source-git-commit: 6f1319c7a175d6b3753324ae21816efb2f416050
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Med ankarpunkten kan besökaren öppna/stänga chatbox. Du kan välja om ikonen 
 
 **Agentinställningar**
 
-I Agentinställningar kan du lägga till en etikett i din chatbox (t.ex.: &quot;Adobe Bot&quot;) som visas högst upp. Du kan också fastställa fördröjningen för svar (i sekunder) och ändra din chattavatar.
+I Agentinställningar kan du lägga till en etikett i din chatbox (t.ex.: &quot;Adobe Bot&quot;) som visas högst upp. Du kan också fastställa fördröjningen för svar (i sekunder) och ändra din chattavatar. Om du vill ladda upp en egen avatarbild klickar du på **+** -knappen.
 
 ![](assets/configuration-5.png)
 

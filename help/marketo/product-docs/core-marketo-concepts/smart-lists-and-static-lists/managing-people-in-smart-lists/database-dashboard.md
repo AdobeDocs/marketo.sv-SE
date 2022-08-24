@@ -3,10 +3,9 @@ unique-page-id: 10097447
 description: Databaskontrollpanel - Marketo Docs - produktdokumentation
 title: Kontrollpanel för databas
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
-translation-type: tm+mt
-source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
+source-git-commit: 6f1319c7a175d6b3753324ae21816efb2f416050
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -19,22 +18,18 @@ Kontrollpanelen för databaser fungerar som en ögonblicksbild som hjälper dig 
 >
 >Varje arbetsyta har en egen databaskontrollpanel.
 
-Om du vill komma dit kan du klicka på plattan **Database** på hemskärmen...
+För att komma dit väljer du **Databas** från din My Marketo.
 
-![](assets/db-3.png)
+![](assets/database-dashboard-1.png)
 
-Eller klicka på Marketo logotyp och välj **Database**.
+Diagrammen visar totalt antal personer, antal säljbara personer samt de fem främsta leverantörerna. Håll pekaren över gröna områden om du vill ha mer information.
 
-![](assets/db2.png)
-
-Diagrammen visar totalt antal personer, antal säljbara personer samt de fem främsta leverantörerna.
-
-![](assets/three-7.png)
+![](assets/database-dashboard-2.png)
 
 >[!TIP]
 >
->Vill du få mer specifik eller aktuell information om dina medarbetare? Försök med en [rapport om personprestanda](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
+>Vill du få mer specifik eller aktuell information om dina medarbetare? Prova [Prestandarapport för människor](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
 
-**Totalt antal personer:** Antal heltidsanställda personer för den arbetsytan.
+**Totalt antal personer:** Antalet heltidsanställda personer på den listade arbetsytan.
 
-**Marknadsföringsbara personer:** Antalet heltidsanställda personer för arbetsytan,  _minus följande_: personer utan e-postadress, personer vars e-post är hårt studsad, personer som är blocklist, personer som har avbrutit prenumerationen och personer som för närvarande är inställda på Marketing Suspended.
+**Marknadsföringsbara personer:** Antal heltidsanställda personer för den listade arbetsytan, _minus följande_: personer utan e-postadress, personer vars e-post är hårt studsad, personer som är blocklist, personer som har avbrutit prenumerationen och personer som för närvarande är inställda på Marketing Suspended.
