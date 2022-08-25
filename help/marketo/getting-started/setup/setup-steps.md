@@ -3,7 +3,7 @@ unique-page-id: 2949469
 description: Installationssteg - Marketo Docs - produktdokumentation
 title: Installationssteg
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
+source-git-commit: fed5fc3a511022fbac40b8ad369a1cdda5112167
 workflow-type: tm+mt
 source-wordcount: '2002'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Vissa steg kräver hjälp från IT-avdelningen.
 
 >[!TIP]
 >
->Om du [skriv ut den här checklistan](/help/marketo/getting-started/setup-steps/setup-checklist.md){target=&quot;_blank&quot;} kan du avmarkera objekt när du slutför dem.
+>Om du [skriv ut den här checklistan](/help/marketo/getting-started/setup/setup-checklist.md){target=&quot;_blank&quot;} kan du avmarkera objekt när du slutför dem.
 
 ## Logga in och skapa fler Marketo-användare {#log-in-and-create-additional-marketo-users}
 
