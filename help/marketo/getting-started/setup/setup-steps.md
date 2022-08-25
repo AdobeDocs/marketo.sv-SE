@@ -3,7 +3,7 @@ unique-page-id: 2949469
 description: Installationssteg - Marketo Docs - produktdokumentation
 title: Installationssteg
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
+source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
 workflow-type: tm+mt
 source-wordcount: '2002'
 ht-degree: 0%
@@ -199,7 +199,7 @@ Nu har du all information du behöver för att skicka din förfrågan till IT!
 
 När du har samlat in all nödvändig information är du redo att skicka en förfrågan till IT. Du kan använda texten nedan som mall och ersätta den feta texten med din egen information.
 
-[Inkludera en länk till den här artikeln](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md).
+[Inkludera en länk till den här artikeln](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md).
 
 Klistra in den här texten i e-postmeddelandet och ersätt platshållarna med formatinformation:
 

@@ -3,10 +3,9 @@ unique-page-id: 11377392
 description: Redigera din standardprofileringsdomän - Marketo Docs - produktdokumentation
 title: Redigera din standardvarumärkesdomän
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,9 +16,9 @@ Att redigera din standardvarumärkesdomän är det första steget i arbetet med 
 
 >[!PREREQUISITES]
 >
->Kontrollera att du har [konfigurerat en CNAME i din DNS](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md) innan du lägger till dina profileringsdomäner i Marketo.
+>Se till att du [konfigurera en CNAME i din DNS](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md) innan du lägger till dina profildomäner i Marketo.
 
-1. Gå till **Admin** och klicka på **E-post**.
+1. Gå till **Administratör** och klicka **E-post**.
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
@@ -35,4 +34,4 @@ Att redigera din standardvarumärkesdomän är det första steget i arbetet med 
 
    ![](assets/edit-branding-domain-hands.png)e
 
-Nu kan du [lägga till ytterligare profileringsdomäner](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) som du behöver.
+Nu kan du [lägga till ytterligare varumärkesdomäner](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) du behöver.
