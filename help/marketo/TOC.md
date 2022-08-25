@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
+source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
 workflow-type: tm+mt
 source-wordcount: '8807'
 ht-degree: 0%
@@ -20,9 +20,9 @@ ht-degree: 0%
    + [Marketo-ordlista](getting-started/marketo-glossary.md)
    + [Klassisk ikon - ordlista](getting-started/classic-icon-glossary.md)
    + Inställningar {#setup}
-      + [Installationssteg](getting-started/setup-steps.md)
-      + [Konfigurera checklista](getting-started/setup-steps/setup-checklist.md)
-      + [Konfigurera protokoll för Marketo](getting-started/setup-steps/configure-protocols-for-marketo.md)
+      + [Installationssteg](getting-started/setup/setup-steps.md)
+      + [Konfigurera checklista](getting-started/setup/setup-checklist.md)
+      + [Konfigurera protokoll för Marketo](getting-started/setup/configure-protocols-for-marketo.md)
    + Snabbvinningar {#quick-wins}
       + [Konfigurera och lägg till en person](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [Skicka ett e-postmeddelande](getting-started/quick-wins/send-an-email.md)
