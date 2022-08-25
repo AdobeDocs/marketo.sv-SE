@@ -3,7 +3,7 @@ unique-page-id: 1147226
 description: Komma igång - Marketo Docs - produktdokumentation
 title: Komma igång
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: 5d7c30fe818e37ba86152953d19937e39c7426f5
+source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 9%
@@ -22,7 +22,7 @@ Vad är Marketo du frågar? Bra fråga!
 
 Med lite hjälp från IT-avdelningen kan du få det gjort på nolltid.
 
-[Starta installationen](/help/marketo/getting-started/setup-steps.md)
+[Starta installationen](/help/marketo/getting-started/setup/setup-steps.md)
 
 ## STEG 3 Hämta några snabbvinner {#get-some-quick-wins}
 
@@ -35,7 +35,7 @@ Utför dessa uppdrag för att lära dig grunderna i Marketo.
       <img alt="Anslut" src="getting-started/assets/getting-started-1.png"/>
     </a>
     <div>
-    <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">1. Hämta konfiguration och lägg till en person</a>
+    <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">1. Konfigurera och lägga till en person</a>
     </div>
     <br>
   </td>
@@ -89,7 +89,7 @@ Utför dessa uppdrag för att lära dig grunderna i Marketo.
       <img alt="Anslut" src="getting-started/assets/getting-started-7.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. Drivrutinsstruktur</a>
+    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. Drivningsmotor</a>
     </div>
     <br>
   </td>
@@ -106,7 +106,7 @@ Utför dessa uppdrag för att lära dig grunderna i Marketo.
       <img alt="E-post" src="getting-started/assets/getting-started-9.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. Avisera säljaren</a>
+    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. Meddela säljaren</a>
     </div>
     <br>
   </td>

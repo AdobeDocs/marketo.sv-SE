@@ -3,7 +3,7 @@ unique-page-id: 2949471
 description: Checklista för installation - Marketo Docs - produktdokumentation
 title: Konfigurera checklista
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
-source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
+source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Konfigurera checklista {#setup-checklist}
 
-Välkommen till Marketo! Du kan använda följande checklista som en visuell att göra-lista för att komma igång. Information finns i [Installationssteg](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;}.
+Välkommen till Marketo! Du kan använda följande checklista som en visuell att göra-lista för att komma igång. Information finns i [Installationssteg](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}.
 
 ## Logga in på Marketo och skapa fler användare {#log-in-to-marketo-and-create-additional-users}
 
@@ -50,4 +50,4 @@ Välkommen till Marketo! Du kan använda följande checklista som en visuell att
 
 >[!MORELIKETHIS]
 >
->[Installationssteg](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;}
+>[Installationssteg](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}

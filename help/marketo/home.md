@@ -2,7 +2,7 @@
 title: Marketo Product Docs
 description: Marketo Product Docs
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
-source-git-commit: a28532c5fb68381da14844c9fd564a4c70476028
+source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Komma igång
 
-* [Installationssteg](/help/marketo/getting-started/setup-steps.md)
+* [Installationssteg](/help/marketo/getting-started/setup/setup-steps.md)
 * [Konfigurera och lägga till en person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 * [Konfigurera protokoll för Marketo](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md)
 * [Marketo-ordlista](/help/marketo/getting-started/marketo-glossary.md)
