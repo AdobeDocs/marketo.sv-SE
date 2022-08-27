@@ -3,7 +3,7 @@ unique-page-id: 2359410
 description: Skicka ett e-postmeddelande - Marketo Docs - produktdokumentation
 title: Skicka ett e-postmeddelande
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: b084acfdc58448e01fa6e19a03e6c3e1ea70a97b
 workflow-type: tm+mt
 source-wordcount: '410'
 ht-degree: 0%
@@ -22,11 +22,11 @@ Det är det första alla vill göra. Vi skickar ett mejl från Marketo!
 
 1. Gå till **Marknadsföringsaktiviteter** område.
 
-   ![](assets/one-1.png)
+   ![](assets/send-an-email-1.png)
 
 1. Välj **Utbildning** mapp. Klicka på **Nytt** nedrullningsbar meny och välj **Nytt program**.
 
-   ![](assets/two-1.png)
+   ![](assets/send-an-email-2.png)
 
 1. Ange **Namn** och markera **E-post** for **Programtyp.**
 
@@ -34,29 +34,29 @@ Det är det första alla vill göra. Vi skickar ett mejl från Marketo!
    >
    >Lägg till dina initialer i slutet av programnamnet för att göra det unikt.
 
-   ![](assets/three.png)
+   ![](assets/send-an-email-3.png)
 
 1. Under **Kanal**, markera **Skicka e-post** och klicka **Skapa**.
 
-   ![](assets/image2015-3-2-16-3a25-3a18.png)
+   ![](assets/send-an-email-4.png)
 
 ## Definiera er målgrupp {#define-your-audience}
 
 1. Klicka **Redigera smart lista** under publikpanelen.
 
-   ![](assets/five.png)
+   ![](assets/send-an-email-5.png)
 
 1. Hitta och dra e-postadressfiltret till arbetsytan.
 
-   ![](assets/six.png)
+   ![](assets/send-an-email-6.png)
 
    >[!TIP]
    >
-   >Använd **Sök** högst upp i filterlistan för att enklare hitta filtret.
+   >Använd **Sök** för att enklare hitta filter.
 
 1. Hitta och välj din e-postadress.
 
-   ![](assets/seven-1.png)
+   ![](assets/send-an-email-7.png)
 
    >[!NOTE]
    >
@@ -68,7 +68,7 @@ Det är det första alla vill göra. Vi skickar ett mejl från Marketo!
 
 1. Gå tillbaka till huvudprogramfliken och klicka på uppdateringsikonen för **Person**.
 
-   ![](assets/refresh-icon.png)
+   ![](assets/send-an-email-8.png)
 
    Du borde se antalet personer gå upp till 1. Det är du!
 
@@ -76,15 +76,15 @@ Det är det första alla vill göra. Vi skickar ett mejl från Marketo!
 
 1. Klicka under rutan E-post **Ny e-post**.
 
-   ![](assets/image2014-9-8-15-3a10-3a47.png)
+   ![](assets/send-an-email-9.png)
 
 1. Ange **Namn** väljer du en **Mall** och klicka **Skapa**.
 
-   ![](assets/ten-1.png)
+   ![](assets/send-an-email-10.png)
 
 1. E-postredigeringsfönstret öppnas. Ange ett ämne som innehåller högst 50 tecken (rekommenderas).
 
-   ![](assets/eleven.png)
+   ![](assets/send-an-email-11.png)
 
    >[!NOTE]
    >
@@ -92,19 +92,15 @@ Det är det första alla vill göra. Vi skickar ett mejl från Marketo!
 
 1. Markera området som du vill redigera, klicka på kugghjulsikonen till höger och välj sedan **Redigera** (du kan också dubbelklicka på det redigerbara avsnittet som du vill redigera).
 
-   ![](assets/twelve.png)
+   ![](assets/send-an-email-12.png)
 
 1. Ange önskat innehåll och klicka på **Spara**.
 
-   ![](assets/thirteen.png)
+   ![](assets/send-an-email-13.png)
 
-1. Ändringarna sparas automatiskt. Stäng fliken/fönstret i redigeraren.
+1. Klicka på **E-poståtgärder** nedrullningsbar meny och välj **Godkänn och stäng**.
 
-   ![](assets/fourteen.png)
-
-1. Klicka på **E-poståtgärder** nedrullningsbar meny och välj **Godkänn**.
-
-   ![](assets/fifteen.png)
+   ![](assets/send-an-email-14.png)
 
    >[!TIP]
    >
@@ -112,15 +108,19 @@ Det är det första alla vill göra. Vi skickar ett mejl från Marketo!
 
 1. Välj E-postprogrammet i det vänstra trädet.
 
-   ![](assets/sixteen.png)
+   ![](assets/send-an-email-15.png)
 
 1. Ange startdagen för e-postmeddelandet under rutan Schema till **Idag.**
 
-   ![](assets/image2014-9-8-15-3a13-3a11.png)
+   ![](assets/send-an-email-16.png)
+
+   >[!NOTE]
+   >
+   >Läs mer om [Mottagarens tidszon](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md){target=&quot;_blank&quot;} och [Startpunkt](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target=&quot;_blank&quot;}.
 
 1. Välj en tid som är minst 15 minuter i framtiden.
 
-   ![](assets/image2014-9-8-15-3a13-3a25.png)
+   ![](assets/send-an-email-17.png)
 
    >[!TIP]
    >
@@ -128,7 +128,7 @@ Det är det första alla vill göra. Vi skickar ett mejl från Marketo!
 
 1. Klicka **Godkänn program** under rutan Godkännande så är du klar!
 
-   ![](assets/image2014-9-8-15-3a13-3a34.png)
+   ![](assets/send-an-email-18.png)
 
 Du bör få e-postmeddelandet kort efter den schemalagda dagen/tiden.
 
