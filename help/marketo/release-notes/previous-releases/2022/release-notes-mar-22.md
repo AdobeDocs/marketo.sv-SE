@@ -1,16 +1,17 @@
 ---
 description: Versionsinformation - mars 2022 - Marketo Docs - produktdokumentation
 title: Versionsinformation - mars 2022
-source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
+exl-id: 91826d56-a38e-44af-b798-17bfc016c311
+source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '771'
 ht-degree: 0%
 
 ---
 
 # Versionsinformation: Mars 2022 {#release-notes-mar-22}
 
-Följande funktioner finns i mars 22. Se om det finns funktioner i Adobe Marketo Engage Edition.
+Följande funktioner finns i mars 22. Se om det finns funktioner i din Adobe Marketo Engage-utgåva.
 
 >[!AVAILABILITY]
 >
@@ -76,4 +77,4 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 
 **_Product Release Webinar_**
 
-Besök oss den 11 maj 2022 kl. 9.00 PT/12.00 ET för en [live webbinarium](https://engage.marketo.com/2022_March_May_Release_Webinar_RegistrationPage.html) som hanteras av vårt produktteam där du kan lära dig att använda alla de senaste produktinnovationerna.
+[Mars och maj 2022 Marketo Engage Release Webinar](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target=&quot;_blank&quot;}

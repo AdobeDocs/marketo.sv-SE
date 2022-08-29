@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 87e5bab3f668509bd791a0ec1ff0e2174eadda09
+source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '556'
 ht-degree: 0%
 
 ---
@@ -74,4 +74,4 @@ Följande funktioner kommer att lanseras den **26 augusti 2022**, med en stegvis
 
 **_Product Release Webinar_**
 
-Besök oss den 24 augusti 2022 kl. 9.00 PT/12.00 ET för en [live webbinarium](https://engage.marketo.com/2022_June_August_Release_Webinar_RegistrationPage.html){target=&quot;_blank&quot;} som hanteras av vårt produktteam där du kan lära dig att använda alla de senaste produktinnovationerna.
+[Webbinariet Marketo Engage från juni och augusti 2022](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target=&quot;_blank&quot;}
