@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4f79308986a323c248f55c32f0d1db0d9811e6b3
+source-git-commit: 031e5ad328d49042f9c96ded63f1e719f1c377c7
 workflow-type: tm+mt
-source-wordcount: '558'
+source-wordcount: '566'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Följande funktioner kommer att lanseras den **26 augusti 2022**, med en stegvis
 
 * **[Aktivera/inaktivera alla publicerade dialogrutor samtidigt för dynamiskt chatt](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target=&quot;_blank&quot;}**: Aktivera/inaktivera alla publicerade dialogrutor globalt på konfigurationssidan med en knapptryckning.
 
-* **Anpassade avatarer för dynamiskt chatt**: Ladda upp en anpassad chatbot-avatar så att den kan anpassas efter ert varumärke.
+* **[Anpassade avatarer för dynamiskt chatt](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md#agent-settings){target=&quot;_blank&quot;}**: Ladda upp en anpassad chatbot-avatar så att den kan anpassas efter ert varumärke.
 
 * **Chatttranskript för dynamiskt chatt**: Visa chattutdrag för varje konversation för att få djupare insikter om vad varje webbbesökare är intresserad av.
 
@@ -33,7 +33,7 @@ Följande funktioner kommer att lanseras den **26 augusti 2022**, med en stegvis
 
 * **Visa mapphierarkin för målmappen i dialogrutan Flytta**: Om du visar mapphierarkin för varje mapp blir det enklare att flytta resurser och sannolikheten för att de placeras i fel mapp minskar.
 
-* **Uppdaterade skärmar i nästa generation**: Vi levererar nya, uppdaterade skärmar i nästa generation av upplevelser som erbjuder uppdaterade design- och användarvänlighetsförbättringar som är tillgängliga via växlingsfunktion:
+* **[Uppdaterade skärmar i nästa generation](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;}**: Vi levererar nya, uppdaterade skärmar i nästa generation av upplevelser som erbjuder uppdaterade design- och användarvänlighetsförbättringar som är tillgängliga via växlingsfunktion:
 
    * Kodinformation
    * Information om &quot;Bilder och filer&quot;
@@ -44,7 +44,7 @@ Följande funktioner kommer att lanseras den **26 augusti 2022**, med en stegvis
 
 ## Experience Automation {#experience-automation}
 
-* **Självbetjäningsflödessteg - programimportförbättringar**: Förbättrat stöd för import av program med anpassade flödessteg där du nu kan använda flera instanser av samma tjänsteleverantör och importprogram som har flödessteg som är kompatibla med dessa tjänsteleverantörer.
+* **[Självbetjäningsflödessteg - programimportförbättringar](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md){target=&quot;_blank&quot;}**: Förbättrat stöd för import av program med anpassade flödessteg där du nu kan använda flera instanser av samma tjänsteleverantör och importprogram som har flödessteg som är kompatibla med dessa tjänsteleverantörer.
 
 * **Munchkin - utökad länkspårning**: Utöka stödet för spårning av `tel` och `mailto` länkar med Munchkin för att spåra en utökad uppsättning webbbeteenden.
 
@@ -68,7 +68,7 @@ Följande funktioner kommer att lanseras den **26 augusti 2022**, med en stegvis
 
 ![(stjärna)](assets/yellow-star.png)
 
-* **Sales Insight Integration with Dynamic Chat**: Visa aktiviteter från Dynamic Chat på panelen Sales Insight och utnyttja den nya datapunkten i din prospektering.
+* **[Sales Insight Integration with Dynamic Chat](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target=&quot;_blank&quot;}**: Visa aktiviteter från Dynamic Chat på panelen Sales Insight och utnyttja den nya datapunkten i din prospektering.
 
 ## Meddelanden {#announcements}
 

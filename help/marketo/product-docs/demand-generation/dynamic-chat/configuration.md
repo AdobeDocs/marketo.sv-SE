@@ -2,7 +2,7 @@
 description: Konfiguration - Marketo Docs - produktdokumentation
 title: Konfiguration
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 676bd1c43fc62b2eae0e4536fb738b5be863e196
+source-git-commit: 031e5ad328d49042f9c96ded63f1e719f1c377c7
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Det finns flera olika anpassningsalternativ.
 
 ## Fliken Format {#style-tab}
 
-**Stil**
+### Stil {#style}
 
 Här definierar du utseendet på chatbot där dina dialogrutor ska visas: färger, teckensnitt, placering av robotwidgeten och chatbot-ens namn/avatar.
 
@@ -35,7 +35,7 @@ Med ankarpunkten kan besökaren öppna/stänga chatbox. Du kan välja om ikonen 
 
 ![](assets/configuration-4.png)
 
-**Agentinställningar**
+### Agentinställningar {#agent-settings}
 
 I Agentinställningar kan du lägga till en etikett i din chatbox (t.ex.: &quot;Adobe Bot&quot;) som visas högst upp. Du kan också fastställa fördröjningen för svar (i sekunder) och ändra din chattavatar. Om du vill ladda upp en egen avatarbild klickar du på **+** -knappen.
 
