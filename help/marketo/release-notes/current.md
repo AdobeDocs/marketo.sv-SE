@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 4f79308986a323c248f55c32f0d1db0d9811e6b3
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '558'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Följande funktioner kommer att lanseras den **26 augusti 2022**, med en stegvis
 
 ## Flerkanalsmarknadsföring {#cross-channel-orchestration}
 
-* **Aktivera/inaktivera alla publicerade dialogrutor samtidigt för dynamiskt chatt**: Aktivera/inaktivera alla publicerade dialogrutor globalt på konfigurationssidan med en knapptryckning.
+* **[Aktivera/inaktivera alla publicerade dialogrutor samtidigt för dynamiskt chatt](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target=&quot;_blank&quot;}**: Aktivera/inaktivera alla publicerade dialogrutor globalt på konfigurationssidan med en knapptryckning.
 
 * **Anpassade avatarer för dynamiskt chatt**: Ladda upp en anpassad chatbot-avatar så att den kan anpassas efter ert varumärke.
 
