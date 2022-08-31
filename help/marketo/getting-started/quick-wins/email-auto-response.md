@@ -3,9 +3,9 @@ unique-page-id: 2359416
 description: Automatiskt svar via e-post - Marketo Docs - produktdokumentation
 title: Automatiskt svar för e-post
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 1c350eb17992e45b9e0f825e1abd5c86555d0a0a
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '385'
 ht-degree: 0%
 
 ---
@@ -24,91 +24,87 @@ ht-degree: 0%
 
 1. Gå till området Marknadsföringsaktiviteter.
 
-   ![](assets/one-2.png)
+   ![](assets/email-auto-response-1.png)
 
-1. Välj Mitt program på den vänstra menyn, klicka på listrutan Ny lokal resurs och välj Ny lokal resurs.
+1. Välj program i den vänstra menyn och klicka på **Nytt** och markera **Ny lokal resurs**.
 
-   ![](assets/two-3.png)
+   ![](assets/email-auto-response-2.png)
 
-1. Klicka på E-post.
+1. Välj **E-post**.
 
-   ![](assets/three-2.png)
+   ![](assets/email-auto-response-3.png)
 
-1. Ge e-postmeddelandet namnet&quot;Autosvar e-post&quot;, välj en mall och klicka på Skapa.
+1. Namnge e-postmeddelandet&quot;Automatiskt svar e-post&quot;, välj en mall och klicka på **Skapa**.
 
-   ![](assets/four-1.png)
+   ![](assets/email-auto-response-4.png)
 
    En e-postredigerare öppnas i ett nytt fönster eller på en ny flik. Om popup-fönster är blockerade klickar du på **Redigera utkast** på resurssammanfattningssidan för att komma åt e-postmeddelandet.
 
 1. Ange en ämnesrad och dubbelklicka sedan på det redigerbara området i e-postmeddelandet.
 
-   ![](assets/five-2.png)
+   ![](assets/email-auto-response-5.png)
 
    _En textredigerare öppnas ovanpå e-postredigeraren._
 
 1. Markera befintligt e-postinnehåll.
 
-   ![](assets/six-2.png)
+   ![](assets/email-auto-response-6.png)
 
-1. Skriv ditt e-postinnehåll och klicka på Spara.
+1. Skriv ditt e-postinnehåll och klicka på **Spara**.
 
-   ![](assets/seven-2.png)
+   ![](assets/email-auto-response-7.png)
 
-1. Dina ändringar sparas automatiskt. Stäng fliken/fönstret för e-postredigeraren.
+1. Klicka på **E-poståtgärder** nedrullningsbar meny och välj **Godkänn och stäng**.
 
-   ![](assets/eight-1.png)
-
-1. Välj ditt nya e-postmeddelande. Klicka på Godkänn under E-poståtgärder.
-
-   ![](assets/image2014-9-24-11-3a55-3a16.png)
+   ![](assets/email-auto-response-8.png)
 
 ## Steg 2: Skapa en smart kampanj {#step-create-a-smart-campaign}
 
-1. Högerklicka **Mitt program** och klicka **Ny smart kampanj**.
+1. Välj program och klicka på **Nytt** nedrullningsbar meny och välj **Ny smart kampanj**.
 
-   ![](assets/image2014-9-24-11-3a56-3a13.png)
+   ![](assets/email-auto-response-9.png)
 
 1. **Namn** den smarta kampanjen&quot;Auto Response Campaign&quot; och klicka på **Skapa**.
 
-   ![](assets/image2014-9-24-11-3a56-3a25.png)
+   ![](assets/email-auto-response-10.png)
 
 1. Gå till **Smart List** -fliken.
 
-   ![](assets/image2014-9-24-11-3a56-3a38.png)
+   ![](assets/email-auto-response-11.png)
 
    Vi konfigurerar kampanjen så att den körs när en person fyller i formuläret som du skapade i [**Landningssida med ett formulär**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}.
 
-1. Sök och dra **Fyller i formulär** till vänster arbetsyta.
+1. Sök och dra **Fyller i formulär** till arbetsytan.
 
-   ![](assets/image2014-9-24-11-3a57-3a18.png)
+   ![](assets/email-auto-response-12.png)
 
-1. Välj **Mitt formulär** i listrutan. Klicka på **Flöde** -fliken.
+1. Välj **Mitt formulär** i listrutan. Klicka sedan på **Flöde** -fliken.
 
-   ![](assets/image2014-9-24-11-3a57-3a29.png)
+   ![](assets/email-auto-response-13.png)
 
 1. Dra **Skicka e-post** flödesåtgärd till vänster arbetsyta.
 
-   ![](assets/image2014-9-24-11-3a57-3a41.png)
+   ![](assets/email-auto-response-14.png)
 
-1. Välj **E-post för automatiskt svar** och går till **Schema** -fliken.
+1. Välj **E-post för automatiskt svar**. Klicka sedan på **Schema** -fliken.
 
-   ![](assets/image2014-9-24-11-3a57-3a53.png)
+   ![](assets/email-auto-response-15.png)
 
 1. Klicka **Redigera**.
 
-   ![](assets/8.png)
+   ![](assets/email-auto-response-16.png)
 
-1. Välj **varje gång** och klicka **Spara**.
+1. Välj **Varje gång** och klicka **Spara**.
 
-   ![](assets/9.png)
+   ![](assets/email-auto-response-17.png)
 
 1. Klicka **Aktivera**.
 
-   ![](assets/10.png)
+   ![](assets/email-auto-response-18.png)
 
 1. Klicka **Aktivera** på bekräftelseskärmen.
 
-   ![](assets/11.png)
+   ![](assets/email-auto-response-19.png)
 
 >[!NOTE]
 >
@@ -116,19 +112,15 @@ ht-degree: 0%
 
 ## Steg 3: Fyll i formuläret {#step-fill-out-the-form}
 
-1. Välj **Min sida**. Detta skapades i [Landningssida med ett formulär](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} snabb vinst.
+1. Välj **Min sida** (detta skapades i [Landningssida med ett formulär](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} snabbwin) och klicka på **Förhandsgranska**.
 
-   ![](assets/image2014-9-24-12-3a0-3a8.png)
+   ![](assets/email-auto-response-20.png)
 
-1. Klicka **Visa godkänd sida**.
-
-   ![](assets/image2014-9-24-12-3a0-3a18.png)
-
-   Landningssidan&quot;Prova utan kostnad&quot; öppnas på en ny flik.
+   _Landningssidan&quot;Prova utan kostnad&quot; öppnas på en ny flik._
 
 1. Fyll i formuläret med ditt förnamn, efternamn och e-postadress och klicka sedan på **Skicka**.
 
-   ![](assets/image2014-9-24-12-3a0-3a28.png)
+   ![](assets/email-auto-response-21.png)
 
 >[!NOTE]
 >
