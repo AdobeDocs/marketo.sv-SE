@@ -3,9 +3,9 @@ unique-page-id: 2359414
 description: Enkel poängsättning - Marketo Docs - produktdokumentation
 title: Enkel poängsättning
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 10637f7853c5b0f8a076779d95b8163b2de8abcb
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -22,57 +22,57 @@ ht-degree: 0%
 
 1. Gå till **Marknadsföringsaktiviteter** område.
 
-   ![](assets/ma-1.png)
+   ![](assets/simple-scoring-1.png)
 
 1. Högerklicka på **Utbildning** mapp och klicka på **Ny kampanjmapp**.
 
-   ![](assets/two-2.png)
+   ![](assets/simple-scoring-2.png)
 
-1. Namnge kampanjmappen Scoring.
+1. Namnge kampanjmappen Scoring och klicka på **Skapa**.
 
-   ![](assets/three-1.png)
+   ![](assets/simple-scoring-3.png)
 
    >[!NOTE]
    >
    >Om du redan har en bedömningsmapp ger du den ett annat namn, till exempel Betygsättning 1. Mappnamn måste vara unika.
 
-1. Högerklicka sedan på det nya **Poäng** mapp och markera **Ny smart kampanj**.
+1. Högerklicka på **Poäng** mapp och markera **Ny smart kampanj**.
 
-   ![](assets/four.png)
+   ![](assets/simple-scoring-4.png)
 
-1. **Namn** kampanjen&quot;Change Score&quot; och klicka på **Skapa**.
+1. Namnge kampanjen&quot;Change Score&quot; och klicka på **Skapa**.
 
-   ![](assets/five-1.png)
+   ![](assets/simple-scoring-5.png)
 
 1. Klicka på **Smart List** -fliken.
 
-   ![](assets/six-1.png)
+   ![](assets/simple-scoring-6.png)
 
    Vi vill att den här kampanjen ska köras när en person fyller i din **Formulär för testbegäran**.
 
 1. Sök och dra **Fyller i formulär** till vänster på arbetsytan.
 
-   ![](assets/image2014-9-24-11-3a43-3a35.png)
+   ![](assets/simple-scoring-7.png)
 
 1. Välj **Mitt formulär**.
 
+   ![](assets/simple-scoring-8.png)
+
    >[!NOTE]
    >
-   >Om du har slutfört [Landningssida med ett formulär](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} snabbwin bör ha formuläret. Om du har använt ett annat namn för formuläret väljer du det.
-
-   ![](assets/image2014-9-24-11-3a44-3a16.png)
+   >Om du har slutfört [Landningssida med ett formulär](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} quick win bör du ha formuläret. Om du har använt ett annat namn för formuläret väljer du det.
 
 1. Klicka på **Flöde** -fliken.
 
-   ![](assets/image2014-9-24-11-3a44-3a33.png)
+   ![](assets/simple-scoring-9.png)
 
 1. Dra **Ändra poäng** flöda åtgärd till den vänstra arbetsytan.
 
-   ![](assets/image2014-9-24-11-3a44-3a45.png)
+   ![](assets/simple-scoring-10.png)
 
 1. Du kan skriva vilket värde som helst som ska läggas till i personens poäng. Vi skriver &quot;+5&quot; i **Ändra** fält.
 
-   ![](assets/eleven-1.png)
+   ![](assets/simple-scoring-11.png)
 
    >[!TIP]
    >
@@ -80,11 +80,11 @@ ht-degree: 0%
 
 1. Klicka på **Schema** -fliken och **Aktivera** -knappen.
 
-   ![](assets/twelve-1.png)
+   ![](assets/simple-scoring-12.png)
 
 1. Klicka **Aktivera** på bekräftelseskärmen.
 
-   ![](assets/thirteen-1.png)
+   ![](assets/simple-scoring-13.png)
 
 >[!NOTE]
 >
@@ -94,15 +94,15 @@ ht-degree: 0%
 
 1. Välj den landningssida du skapade i dialogrutan [Landningssida med ett formulär](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} snabb vinst.
 
-   ![](assets/fourteen-1.png)
+   ![](assets/simple-scoring-14.png)
 
-1. Klicka **Visa godkänd sida**. Landningssidan öppnas på en ny flik.
+1. Klicka **Förhandsgranska**. Landningssidan öppnas på en ny flik.
 
-   ![](assets/image2014-9-24-11-3a47-3a51.png)
+   ![](assets/simple-scoring-15.png)
 
 1. Fyll i formuläret med ditt förnamn, efternamn och e-postadress och klicka sedan på **Skicka**.
 
-   ![](assets/image2014-9-24-11-3a47-3a59.png)
+   ![](assets/simple-scoring-16.png)
 
    >[!NOTE]
    >
@@ -112,19 +112,19 @@ ht-degree: 0%
 
 1. Gå till området Databas.
 
-   ![](assets/db-2.png)
+   ![](assets/simple-scoring-17.png)
 
 1. Sök efter den e-postadress som du använde när du fyllde i formuläret.
 
-   ![](assets/eighteen.png)
+   ![](assets/simple-scoring-18.png)
 
 1. Dubbelklicka på personen.
 
-   ![](assets/nineteen.png)
+   ![](assets/simple-scoring-19.png)
 
-Personuppgifterna öppnas på en ny flik eller i ett nytt fönster. Se hur poängen ökade med 5 poäng för att fylla i formuläret!
+Personuppgifterna öppnas på en ny flik eller i ett nytt fönster. Se hur poängen ökade med 5 poäng för att fylla i blanketten?
 
-![](assets/twenty.png)
+![](assets/simple-scoring-20.png)
 
 ## Uppdraget är klart! {#mission-complete}
 
