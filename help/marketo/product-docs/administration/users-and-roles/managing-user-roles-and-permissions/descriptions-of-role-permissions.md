@@ -3,9 +3,9 @@ unique-page-id: 6848747
 description: Beskrivningar av rollbehörigheter - Marketo Docs - produktdokumentation
 title: Beskrivningar av rollbehörigheter
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
-source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
+source-git-commit: 1f5a6ab994ccb81ff32f39ac32eef6a37aeab192
 workflow-type: tm+mt
-source-wordcount: '1146'
+source-wordcount: '1143'
 ht-degree: 0%
 
 ---
@@ -162,7 +162,6 @@ Visa databasen samt visa och redigera smarta/statiska listor.
    * Ta bort segmentering
    * Redigera segmentering
 
-* Import av avancerad lista
 * Ta bort person
 * Ta bort lista
 * Redigera person - Förhindrar manuell redigering och att enstaka flödessteg körs. kan du fortfarande redigera människor genom att köra kampanjer mot dem
