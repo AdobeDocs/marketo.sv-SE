@@ -3,9 +3,9 @@ unique-page-id: 2359420
 description: Drip, Drip, Naturvård - Marketo Docs - Produktdokumentation
 title: Drip, Drift, Struktur
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 4448d6e082c0c4fad35fc2980446175bffe47e4b
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -26,35 +26,35 @@ Du kan enkelt skapa ett avancerat och sofistikerat vårdsystem i Marketo. Så h�
 
 1. Gå till **Marknadsföringsaktiviteter** område.
 
-   ![](assets/one-3.png)
+   ![](assets/drip-drip-nurture-1.png)
 
 1. Välj **Utbildning** klickar du på **Nytt** nedrullningsbar meny och välj **Nytt program**.
 
-   ![](assets/two-4.png)
+   ![](assets/drip-drip-nurture-2.png)
 
 1. Ange **Namn** och markera **Engagemang** för **Programtyp**.
 
-   ![](assets/three-3.png)
+   ![](assets/drip-drip-nurture-3.png)
 
 1. Se till att **Kanal** fältet är **Nätur** och klicka **Skapa**.
 
-   ![](assets/four-2.png)
+   ![](assets/drip-drip-nurture-4.png)
 
    Du har nu skapat ett engagemangsprogram.
 
 ## Steg 2: Skapa ett e-postmeddelande {#step-create-an-email}
 
-1. Välj engagemangsprogram och klicka sedan på **Nytt** och markera **Ny lokal resurs**.
+1. Välj engagemangsprogram, klicka **Nytt** och markera **Ny lokal resurs**.
 
-   ![](assets/five-3.png)
+   ![](assets/drip-drip-nurture-5.png)
 
 1. Klicka **E-post**.
 
-   ![](assets/six-3.png)
+   ![](assets/drip-drip-nurture-6.png)
 
 1. Ange **Namn** väljer du **Mall** du vill använda och klicka på **Skapa**.
 
-   ![](assets/seven-4.png)
+   ![](assets/drip-drip-nurture-7.png)
 
    >[!NOTE]
    >
@@ -62,53 +62,53 @@ Du kan enkelt skapa ett avancerat och sofistikerat vårdsystem i Marketo. Så h�
 
 1. Ange ett ämne.
 
-   ![](assets/eight-2.png)
+   ![](assets/drip-drip-nurture-8.png)
 
 1. Markera det område i e-postmeddelandet som du vill redigera, klicka på kugghjulsikonen och välj **Redigera**.
 
-   ![](assets/nine-1.png)
+   ![](assets/drip-drip-nurture-9.png)
 
 1. Redigera din e-post och klicka på **Spara**.
 
-   ![](assets/ten-3.png)
+   ![](assets/drip-drip-nurture-10.png)
 
-1. Stäng fliken/fönstret för e-postredigeraren.
+1. Under **E-poståtgärder**, klicka **Godkänn och stäng**.
 
-   ![](assets/eleven-3.png)
-
-1. Under **E-poståtgärder**, klicka **Godkänn**.
-
-   ![](assets/twelve-2.png)
+   ![](assets/drip-drip-nurture-11.png)
 
    >[!NOTE]
    >
-   >Glöm inte att godkänna dina e-postmeddelanden, annars kan du inte aktivera dem senare.
+   >Kom ihåg att godkänna dina e-postmeddelanden, annars kan du inte aktivera dem senare.
 
-1. Skapa nu ett nytt e-postmeddelande genom att upprepa åtgärderna i steg 2.
+1. Skapa nu ett nytt e-postmeddelande genom att upprepa åtgärderna i steg 2-7.
 
-   ![](assets/thirteen-2.png)
+   ![](assets/drip-drip-nurture-12.png)
 
 ## Steg 3: Lägg till innehåll i strömmen {#step-add-content-to-your-stream}
 
-1. Nu är det dags att skapa en ström av innehåll för engagemangsprogrammet med hjälp av de e-postmeddelanden du skapat.
+Nu är det dags att skapa en ström av innehåll för engagemangsprogrammet med hjälp av de e-postmeddelanden du skapat.
 
 1. Välj engagemangsprogram och klicka på **Strömmar** -fliken.
 
-   ![](assets/fourteen-2.png)
+   ![](assets/drip-drip-nurture-13.png)
 
-1. Dra de två e-postmeddelandena du skapade till höger på arbetsytan.
+1. Klicka på **Lägg till innehåll** i flödet.
 
-   ![](assets/fifteen-2.png)
+   ![](assets/drip-drip-nurture-14.png)
 
    >[!TIP]
    >
-   >Du kan också använda **Lägg till innehåll** eller strömmen **+** ikon.
+   >Du kan också använda **+** ikon.
+
+1. Låt e-posttypen vara markerad. Hitta och välj de två e-postmeddelandena du skapade.
+
+   ![](assets/drip-drip-nurture-15.png)
 
 ## Steg 4: Aktivera ströminnehåll {#step-activate-stream-content}
 
 1. Aktivera allt innehåll samtidigt genom att klicka på strömmens kugghjulsikon och sedan klicka på **Aktivera allt innehåll**.
 
-   ![](assets/image2014-9-24-12-3a48-3a28.png)
+   ![](assets/drip-drip-nurture-16.png)
 
    >[!NOTE]
    >
@@ -120,11 +120,11 @@ Du kan enkelt skapa ett avancerat och sofistikerat vårdsystem i Marketo. Så h�
 
 1. Klicka **Ange strömavslut**.
 
-   ![](assets/seventeen.png)
+   ![](assets/drip-drip-nurture-17.png)
 
 1. Redigera inställningarna så att de matchar det schema du vill ha och klicka på **Spara**.
 
-   ![](assets/image2014-9-24-12-3a49-3a5.png)
+   ![](assets/drip-drip-nurture-18.png)
 
    Ditt engagemangsprogram är klart. Nu ska vi lägga till en testperson i programmet.
 
@@ -136,23 +136,23 @@ Du kan enkelt skapa ett avancerat och sofistikerat vårdsystem i Marketo. Så h�
 
 1. Gå till **Databas** område.
 
-   ![](assets/nineteen-1.png)
+   ![](assets/drip-drip-nurture-19.png)
 
 1. Sök efter din testperson.
 
-   ![](assets/twenty-1.png)
+   ![](assets/drip-drip-nurture-20.png)
 
    >[!NOTE]
    >
    >Kontrollera att testpersonen har en giltig e-postadress så att du kan bekräfta att du fått e-postmeddelanden när du testar.
 
-1. Högerklicka på personen, klicka sedan på Program och Lägg till i engagemangsprogram.
+1. Högerklicka på personen och klicka sedan på **Program** och **Lägg till i engagemangsprogram**.
 
-   ![](assets/twenty-one.png)
+   ![](assets/drip-drip-nurture-21.png)
 
 1. Välj **Program** och **Strömma** och sedan klicka **Kör nu**.
 
-   ![](assets/twenty-two.png)
+   ![](assets/drip-drip-nurture-22.png)
 
 1. Uppdraget är klart!
 
