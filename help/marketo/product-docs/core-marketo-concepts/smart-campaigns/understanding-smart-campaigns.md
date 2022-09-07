@@ -3,23 +3,20 @@ unique-page-id: 2953120
 description: Understanding Smart Campaigns - Marketo Docs - Product Documentation
 title: Om smarta kampanjer
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 381e243a39b8249e88f06eeb1dcfc4863e3a497c
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
 
-# Smarta kampanjer {#understanding-smart-campaigns}
-
-![](assets/image2014-12-24-11-3a37-3a0.png)
+# Om smarta kampanjer {#understanding-smart-campaigns}
 
 Om Marketo är en kraftfull bil är den smarta kampanjen verkligen motorn. Det är enkelt att komma igång, men du kan göra nästan vad du vill av det.
 
-Den smarta kampanjen har tre huvudområden: Flikarna [Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [Flöde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) och [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md).
+Den smarta kampanjen har tre huvudområden: The [Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [Flöde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target=&quot;_blank&quot;} och [Schema](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target=&quot;_blank&quot;} -flikar.
 
-## Smart lista {#smart-list}
+## Smart List {#smart-list}
 
 Den smarta listan är hur du definierar WHO som du vill ha som mål med din smarta kampanj. Den har filter och utlösare.
 
@@ -49,12 +46,16 @@ Du kan kombinera filter på olika sätt och använda dem tillsammans med utlösa
 
 Flödet innehåller de steg som du vill att den smarta kampanjen ska utföra, inklusive väntesteg och delade val.
 
-## Schemalägg {#schedule}
+## Schema {#schedule}
 
 Slutligen styr detta när ni kör er smarta kampanj. Du kan till och med ställa in upprepning så att den körs enligt ett upprepande schema.
 
 Det finns en enorm mängd saker som den smarta kampanjen kan göra. Gör det så hittar du allt i Marketo som blir enklare att förstå.
 
+>[!CAUTION]
+>
+>Om du flyttar en smart kampanj från ett program till ett annat och kampanjens smarta lista eller flödessteg refererar till det ursprungliga programmet, måste du uppdatera informationen manuellt för att återspegla det nya programmet, eftersom det **not** automatisk uppdatering.
+
 >[!MORELIKETHIS]
 >
->[Skapa en ny smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>[Skapa en ny smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target=&quot;_blank&quot;}
