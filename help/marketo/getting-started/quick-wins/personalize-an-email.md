@@ -3,9 +3,9 @@ unique-page-id: 2359422
 description: Anpassa ett e-postmeddelande - Marketo Docs - produktdokumentation
 title: Anpassa ett e-postmeddelande
 exl-id: 1562796e-da47-4305-b950-3bed1d36d339
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 8aa2f3069c0168f57ac00dfc7270484a9045584c
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -23,63 +23,63 @@ ht-degree: 0%
 
 ## Steg 1: Välj en e-postadress att anpassa {#step-select-an-email-to-personalize}
 
-1. Välj en av de e-postmeddelanden som har skapats i dialogrutan [föregående snabbvinst](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target=&quot;_blank&quot;} och klicka på **Redigera utkast**.
+1. Välj en av de e-postmeddelanden som har skapats i dialogrutan [föregående snabbvinst](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target=&quot;_blank&quot;} och klicka på **Skapa utkast**.
 
-   ![](assets/one-4.png)
+   ![](assets/personalize-an-email-1.png)
 
    >[!NOTE]
    >
-   >Detta skapar en kopia av e-postmeddelandet som ett utkast. Du måste godkänna utkastet för att ändringarna ska börja gälla.
+   >Detta skapar en kopia av e-postmeddelandet som ett utkast. Kom ihåg att godkänna utkastet för att ändringarna ska börja gälla.
 
-Om du inte har aktiverat en popup-blockerare öppnas e-postredigeraren i ett nytt flik/fönster. I annat fall klickar du på **Redigera utkast** två gånger.
+Om du inte har aktiverat en popup-blockerare öppnas e-postredigeraren i ett nytt flik/fönster. I annat fall klickar du på **Skapa utkast** två gånger.
 
 ## Steg 2: Gör säljaren till avsändaren {#step-make-the-salesperson-the-sender}
 
 1. Välj **Från** fält, markera och **delete** det aktuella namnet.
 
-   ![](assets/two-5.png)
+   ![](assets/personalize-an-email-2.png)
 
 1. Klicka på **Token** ikonen till höger om **Från** fält.
 
-   ![](assets/three-4.png)
+   ![](assets/personalize-an-email-3.png)
 
 1. Sök och välj **`{{lead.Lead Owner First Name}}`** token.
 
-   ![](assets/four-3.png)
+   ![](assets/personalize-an-email-4.png)
 
 1. Ange ditt företagsnamn och ett tankstreck för **Standardvärde** för att säkerställa att något visas om säljarens förnamn inte är tillgängligt. Klicka **Infoga**.
 
-   ![](assets/five-4.png)
+   ![](assets/personalize-an-email-5.png)
 
 1. Tryck på blankstegstangenten i **Från** ska du se till att markören blinkar ett blanksteg efter den variabel du just infogade. Klicka sedan på **Token** ikonen igen.
 
-   ![](assets/six-4.png)
+   ![](assets/personalize-an-email-6.png)
 
 1. Sök och välj **`{{lead.Lead Owner Last Name}}`** token.
 
-   ![](assets/seven-5.png)
+   ![](assets/personalize-an-email-7.png)
 
 1. Skriv&quot;Försäljning&quot; för **Standardvärde** och klicka **Infoga**.
 
-   ![](assets/eight-3.png)
+   ![](assets/personalize-an-email-8.png)
 
 ## Steg 3: Lägg till leadens namn i e-postmeddelandet {#step-add-the-leads-name-to-the-email}
 
 1. Markera det övre redigerbara avsnittet, klicka på kugghjulsikonen och välj **Redigera**.
 
-   ![](assets/nine-2.png)
+   ![](assets/personalize-an-email-9.png)
 
 1. Lägg till ett blanksteg efter &quot;Hello&quot; och placera markören framför kommatecknet och klicka sedan på **Infoga token** ikon.
 
-   ![](assets/ten-4.png)
+   ![](assets/personalize-an-email-10.png)
 
 1. Sök och välj **`{{lead.First Name}}`** token.
 
-   ![](assets/eleven-4.png)
+   ![](assets/personalize-an-email-11.png)
 
 1. Ange &quot;Kompis&quot; (eller någon annan etikett du vill ha) i dialogrutan **Standardvärde** fält och klicka **Infoga**.
 
-   ![](assets/twelve-3.png)
+   ![](assets/personalize-an-email-12.png)
 
    >[!TIP]
    >
@@ -87,15 +87,11 @@ Om du inte har aktiverat en popup-blockerare öppnas e-postredigeraren i ett nyt
 
 1. Klicka **Spara**.
 
-   ![](assets/thirteen-3.png)
+   ![](assets/personalize-an-email-13.png)
 
-1. Stäng fliken/fönstret för e-postredigeraren.
+1. Under **E-poståtgärder** och markera **Godkänn och stäng**.
 
-   ![](assets/fourteen-3.png)
-
-1. Under **E-poståtgärder**, markera **Godkänn utkast**.
-
-   ![](assets/fifteen-3.png)
+   ![](assets/personalize-an-email-14.png)
 
 >[!TIP]
 >
