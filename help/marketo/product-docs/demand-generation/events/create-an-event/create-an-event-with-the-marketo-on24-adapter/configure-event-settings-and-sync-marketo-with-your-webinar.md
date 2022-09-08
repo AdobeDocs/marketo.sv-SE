@@ -1,23 +1,26 @@
 ---
 unique-page-id: 10096673
-description: Konfigurera händelseinställningar och synkronisera marknadsföring med ditt webbinarium - Marketo Docs - produktdokumentation
-title: Konfigurera händelseinställningar och synkronisera markeringar med ditt webbinarium
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Konfigurera händelseinställningar och synkronisera Marketo med ditt webbinarium - Marketo Docs - produktdokumentation
+title: Konfigurera händelseinställningar och synkronisera Marketo med ditt webbinarium
+exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
 
+# Konfigurera händelseinställningar och synkronisera Marketo med ditt webbinarium {#configure-event-settings-and-sync-marketo-with-your-webinar}
 
-# Konfigurera händelseinställningar och Synkronisera markering med ditt webbinarium {#configure-event-settings-and-sync-marketo-with-your-webinar}
+>[!IMPORTANT]
+>
+>Från och med augusti 2022 har ON24 inte längre stöd för nya Marketo-integreringar. Informationen i den här artikeln gäller endast befintliga användare.
 
-Följ de här stegen för att konfigurera inställningarna för händelsen Marketo och ansluta Marketo och ON24.
+Följ de här stegen för att konfigurera händelseinställningarna för Marketo och ansluta Marketo och ON24.
 
 ## Ange händelsen {#set-the-event}
 
-1. Välj den händelse som du vill associera med ett ON24-webbinarium, klicka sedan på listrutan **Händelseåtgärder** och välj **Händelseinställningar**.
+1. Välj den händelse som du vill associera med ett ON24-webbinarium och klicka sedan på **Händelseåtgärder** nedrullningsbar meny och välj **Händelseinställningar**.
 
    ![](assets/one.png)
 
@@ -29,7 +32,7 @@ Följ de här stegen för att konfigurera inställningarna för händelsen Marke
 
    ![](assets/three.png)
 
-1. Ange händelse-ID (hämta detta från ON24). Klicka på **Spara**.
+1. Ange händelse-ID (hämta detta från ON24). Klicka **Spara**.
 
    ![](assets/four.png)
 
@@ -37,24 +40,24 @@ Följ de här stegen för att konfigurera inställningarna för händelsen Marke
    >
    >Under högtider kan det ta 15 till 20 minuter för ON24 att göra händelseinformationen tillgänglig för Marketo. Om du får meddelandet&quot;Ogiltigt sessions-ID&quot; kan du försöka igen lite senare.
 
-## Ange schemat {#set-the-schedule}
+## Ange schema {#set-the-schedule}
 
 När du ställer in en händelse som är associerad med ett ON24-webbinarium fylls händelseschemat i med data från ON24. Följ de här stegen för att öppna dialogrutan Händelseschema.
 
-1. Markera händelsen. Klicka på listrutan **Händelseåtgärder** och välj **Schemalägg.**
+1. Markera händelsen. Klicka på **Händelseåtgärder** nedrullningsbar meny och välj **Schemalägg.**
 
    ![](assets/five.png)
 
-1. Välj **Startdatum, Slutdatum** och **Tidszon**. Klicka på **Spara**.
+1. Välj **Startdatum, slutdatum** och **Tidszon**. Klicka **Spara**.
 
    ![](assets/six-1.png)
 
    >[!NOTE]
    >
-   >Om du uppdaterar någon händelseinformation i ON24 måste du klicka på **Uppdatera från webbinariet Provider** på menyn Händelseåtgärder för att se hur nya data fylls i.
+   >Om du uppdaterar någon händelseinformation i ON24 måste du klicka på **Uppdatera från webbseminarieleverantör** på menyn Händelseåtgärder för att se hur nya data fylls i.
 
 Nu kan du gå vidare till nästa steg: [skapa underordnade kampanjer och lokala resurser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md).
 
 >[!MORELIKETHIS]
 >
->[Om Marketo On24-adapterhändelser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Om Marketo On24-nätverkskortshändelser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)

@@ -1,53 +1,56 @@
 ---
 unique-page-id: 10096681
-description: Understanding Webinar Program Status - Marketo Docs - Produktdokumentation
+description: Understanding Webinar Program Status - Marketo Docs - produktdokumentation
 title: Om status för webbinarium
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
 
-
 # Om status för webbinarium {#understanding-webinar-program-statuses}
 
-Programstatus representerar olika händelsestatusar som en person går igenom som medlem i händelsen. De är kopplade till en kanaltyp. Marketo har en inbyggd kanaltyp som heter **Webinar**. Statuser kan användas i både batch- och utlösarkampanjer.
+>[!IMPORTANT]
+>
+>Från och med augusti 2022 har ON24 inte längre stöd för nya Marketo-integreringar. Informationen i den här artikeln gäller endast befintliga användare.
 
-Människor rör sig linjärt genom programstatusarna och går inte tillbaka i status. En person med statusen **Attended** kan till exempel inte gå tillbaka till **Registered**.
+Programstatus representerar olika händelsestatusar som en person går igenom som medlem i händelsen. De är kopplade till en kanaltyp. Marketo har en inbyggd kanaltyp som kallas **Webbinarium**. Statuser kan användas i både batch- och utlösarkampanjer.
+
+Människor rör sig linjärt genom programstatusarna och går inte tillbaka i status. En person med statusen **Anmäld** kan inte gå tillbaka till **Registrerad**.
 
 Här är en kort beskrivning av programstatus som är kopplad till webbseminariekanalen.
 
 >[!TIP]
 >
->Om du vill uppdatera status manuellt klickar du på **Uppdatera från webbinarileverantören** i listrutan **Händelseåtgärder**.
+>Om du vill uppdatera statusar manuellt klickar du på  **Uppdatera från webbseminarieleverantör** i **Händelseåtgärder** nedrullningsbar meny.
 
 ![](assets/image2015-12-17-13-3a52-3a39.png)
 
-**Inte i programmet**  - Använd den här statusen för att ta bort personer från evenemanget.
+**Inte i programmet** - Använd den här statusen för att ta bort personer från händelsen.
 
-**Inbjuden**  - Använd den här statusen för att lägga till personer i händelsen.
+**Inbjuden** - Använd den här statusen för att lägga till personer till händelsen.
 
-**Väntar på godkännande**  - Använd den här statusen för att vänta med att skicka en bekräftelse via e-post till dina medarbetare. Mer information finns i&quot;Manuellt Approving Registrants&quot; i [ON24 Event Registration Updates](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md).
+**Väntar på godkännande** - Använd den här statusen om du vill vänta med att skicka ett bekräftelsemeddelande till dina personer via e-post. Se&quot;Manuellt godkännande av registranter&quot; i [ON24 - Händelseregistreringsuppdateringar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md) för mer information.
 
-**Vänta i listan**  - Använd den här statusen om du vill att vissa personer ska vänta tills ytterligare platser blir tillgängliga.
+**Väntar** - Använd den här statusen om du vill att vissa personer ska vänta tills fler platser blir tillgängliga.
 
-**Avvisad**  - Använd den här statusen för att avvisa registreringen av en person till din händelse.
+**Avvisad** - Använd den här statusen för att avvisa registreringen av en person till din händelse.
 
-**Registrerad**  - Den här statusen skjuter in personer till ON24 när du använder ON24-integreringen. Personens status uppdateras när ON24 svarar på att personen registrerats korrekt.
+**Registrerad** - Den här statusen överför personer till ON24 när du använder ON24-integreringen. Personens status uppdateras när ON24 svarar på att personen registrerats korrekt.
 
-**Registreringsfel**  - Den här statusen visar att användaren påträffade ett fel när han/hon försökte registrera sig för händelsen.
+**Registreringsfel** - Den här statusen visar att användaren påträffade ett fel när han/hon försökte registrera sig för händelsen.
 
 >[!NOTE]
 >
 >Om ett registreringsfel inträffar kan du få ytterligare information för den personen genom att titta i kolumnen Statusorsak på fliken Medlemmar i programmet. När felet är åtgärdat kan du manuellt ändra användarens programstatus till Registrerad i Marketo.
 
-**Deltar**  - När webbinariet är klart returnerar ON24 en lista över personer som deltog. Den här statusen hämtas automatiskt till Marketo.
+**Anmäld** - När webbinariet är avslutat returnerar ON24 en lista över personer som deltog. Den här statusen hämtas automatiskt till Marketo.
 
-**Attended On-demand**  - Personer som deltog i den arkiverade versionen av webbinariet får denna status.
+**Angivet på begäran** - Personer som deltog i den arkiverade versionen av webbinariet får den här statusen.
 
-**No Show** - När webbinariet är klart och när närvarodata hämtas in från ON24 uppdateras status för personer som har registrerat sig men inte deltagit till No Show. Det kan ta mellan 30 minuter och 3 timmar för ON24 att förbereda den slutliga närvaroinformationen och göra den tillgänglig i Marketo.
+**Ingen visning** - När webbinariet har avslutats och när närvarodata har hämtats in från ON24 uppdateras statusen för personer som registrerade sig men inte deltog till Ingen visning. Det kan ta mellan 30 minuter och 3 timmar för ON24 att förbereda den slutliga närvaroinformationen och göra den tillgänglig i Marketo.
 
 >[!NOTE]
 >
@@ -55,4 +58,4 @@ Här är en kort beskrivning av programstatus som är kopplad till webbseminarie
 
 >[!MORELIKETHIS]
 >
->[Om Marketo ON24-adapterhändelser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Om Marketo ON24-nätverkskortshändelser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)

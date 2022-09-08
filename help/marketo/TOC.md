@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
 workflow-type: tm+mt
-source-wordcount: '8807'
+source-wordcount: '8795'
 ht-degree: 0%
 
 ---
@@ -99,7 +99,6 @@ ht-degree: 0%
          + [Lägg till webbmöte på nivå 3 som en startpunktstjänst](product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
          + [Lägg till Munchkin-spårningskod på din webbplats](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
          + [Nästa generations Munchkin Tracking - frågor och svar](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
-         + [Lägg till ON24 som en LaunchPoint-tjänst](product-docs/administration/additional-integrations/add-on24-as-a-launchpoint-service.md)
          + [Lägg till ReadyTalk som en LaunchPoint-tjänst](product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
          + [Lägg till enkel inloggning på en portal](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
          + [Lägg till WebEx som en LaunchPoint-tjänst](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
@@ -647,7 +646,6 @@ ht-degree: 0%
                + [Skapa en händelse i Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)
                + [Skapa underordnade kampanjer och lokala resurser](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
                + [Skapa ett webbinarium i ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
-               + [Ange dina ON24-autentiseringsuppgifter i Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/enter-your-on24-credentials-in-marketo.md)
                + [Exempel på händelseintegrering ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
                + [ON24 - Händelseregistreringsuppdateringar](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
                + [Testa din ON24-händelseintegrering](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)
