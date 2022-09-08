@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: Installera Marketo e-posttillägg för Outlook med en registreringskod - Marketo Docs - Produktdokumentation
 title: Installera Marketo e-posttillägg för Outlook med en registreringskod
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
-source-git-commit: 0dec1dc142a7296ce9d5db91493f654dbe7ee99a
+source-git-commit: 268a7f1ca441661e1d943a8d6abce7bdcf308a98
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '470'
 ht-degree: 2%
 
 ---
@@ -22,7 +22,7 @@ Om du inte har fått någon inbjudan via e-post ber du Marketo-administratören 
 
 >[!IMPORTANT]
 >
->Installationen stöds inte på datorer där Windows-användarmappen innehåller tecken som inte är engelska. Den här mappen genereras automatiskt av Windows under <System Root>\Users\ baserat på Windows-användarnamnet och kan innehålla icke-engelska tecken om Windows-användarnamnet är ett icke-engelskt namn. Kontakta IT-avdelningen för att kontrollera om du har installationsproblem.
+>Installationen stöds inte på datorer där Windows-användarmappen innehåller tecken som inte är engelska. Den här mappen genereras automatiskt av Windows under `<System Root>\Users\` baserat på Windows-användarnamnet och kan innehålla tecken som inte är engelska om Windows-användarnamnet är ett namn som inte är engelskt. Kontakta IT-avdelningen för att kontrollera om du har installationsproblem.
 
 >[!NOTE]
 >
