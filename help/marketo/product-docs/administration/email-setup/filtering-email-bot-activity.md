@@ -2,9 +2,9 @@
 description: Filtrering av e-postsatsaktivitet - Marketo Docs - produktdokumentation
 title: Filtrerar e-postsatsaktivitet
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
+source-git-commit: 2fd0856e21c51af6ca29887978d5aa946733405d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -36,16 +36,13 @@ I e-postlänkens klickning och öppningsaktivitet via e-post fylls nya attribut 
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Välj **Matcha med IAB-lista**, **Matcha med närhetsmönster** eller båda.
+1. Välj **Matcha med IAB-lista**, **Matcha med närhetsmönster** eller båda. Välj om startaktivitet ska loggas _eller_ filterrobotaktivitet.
 
    ![](assets/filtering-email-bot-activity-4.png)
 
 >[!NOTE]
 >
->* Du kan välja att filtrera båda aktiviteterna **eller** loggad. Om du väljer filtrerad kan du se en nedgång i e-postmeddelandet som öppnas och klicka på falska aktiviteter som försvinner.
->
->* Endast aktiviteten &quot;Log Bot Activity&quot; är tillgänglig för &quot;Match with Proximity Pattern&quot; just nu.
-
+>Om du väljer Filtrera startaktivitet kan du se en nedgång i e-postmeddelandet som öppnas och klicka på som falska aktiviteter uteslöts.
 
 **VALFRITT STEG**: Om du vill inaktivera den här funktionen avmarkerar du reglagen. Om du inaktiverar återställs inte data.
 
