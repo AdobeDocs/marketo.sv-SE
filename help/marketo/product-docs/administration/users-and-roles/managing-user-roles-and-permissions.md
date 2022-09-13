@@ -3,7 +3,7 @@ unique-page-id: 2359909
 description: Hantera användarroller och behörigheter - Marketo Docs - Produktdokumentation
 title: Hantera användarroller och behörigheter
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
-source-git-commit: a360b46ab1cd7149f609d139590124dcfcda8dad
+source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
 workflow-type: tm+mt
 source-wordcount: '493'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Du kan inte redigera rollerna Admin och Standard User, men du kan redigera de an
 
 ## Marketo med Adobe Identity {#marketo-with-adobe-identity}
 
-Om du använder Marketo med Adobe Identity, listan över profilbeskrivningar [finns här](/help/marketo/product-docs/administration/marketo-with-adobe-identity/overview.md#profile-levels).
+Om du använder Marketo med Adobe Identity, listan över profilbeskrivningar [finns här](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels).
 
 ## Tilldela roller till en användare {#assign-roles-to-a-user}
 

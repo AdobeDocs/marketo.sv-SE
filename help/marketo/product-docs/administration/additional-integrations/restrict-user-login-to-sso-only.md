@@ -3,9 +3,9 @@ unique-page-id: 2360358
 description: Begränsa användarinloggning till enbart enkel inloggning - Marketo Docs - produktdokumentation
 title: Begränsa användarinloggning till enbart enkel inloggning
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
-source-git-commit: a21db1586166b7530bbbb18759752ef834cdc46a
+source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Om du är [med SSO](/help/marketo/product-docs/administration/additional-integra
 
 >[!IMPORTANT]
 >
->Den här artikeln gäller inte för [Adobe IMS-aktiverad](/help/marketo/product-docs/administration/marketo-with-adobe-identity/overview.md) Marketo prenumerationer.
+>Den här artikeln gäller inte för [Adobe IMS-aktiverad](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) Marketo prenumerationer.
 
 >[!NOTE]
 >

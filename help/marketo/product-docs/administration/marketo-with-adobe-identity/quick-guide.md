@@ -2,7 +2,7 @@
 description: Snabbguide - Marketo Docs - produktdokumentation
 title: Snabbguide
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
-source-git-commit: 37459d7e72a5719d1b963922071456aff5c3d120
+source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
@@ -45,4 +45,4 @@ Endast Marketo Engage API-användare måste skapas och hanteras i Marketo Engage
 
 ## Vanliga frågor {#faq}
 
-[Vanliga frågor](/help/marketo/product-docs/administration/marketo-with-adobe-identity/overview.md#faq){target=&quot;_blank&quot;}
+[Vanliga frågor](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#faq){target=&quot;_blank&quot;}
