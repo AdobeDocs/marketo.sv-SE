@@ -2,76 +2,62 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 031e5ad328d49042f9c96ded63f1e719f1c377c7
+source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '552'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: Augusti 2022 {#release-notes-aug-22}
+# Versionsinformation: Oktober 2022 {#release-notes-oct-22}
 
-Här nedan hittar du alla funktioner som finns i versionen från 22 augusti. Se om det finns funktioner i din Adobe Marketo Engage-utgåva.
+Här nedan hittar du alla funktioner som ingår i versionen från 22 oktober. Se om det finns funktioner i din Adobe Marketo Engage-utgåva.
 
 >[!AVAILABILITY]
 >
 >Funktioner som anges av en stjärna (![stjärna](assets/yellow-star.png)) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
 
-Följande funktioner kommer att lanseras den **26 augusti 2022**, med en stegvis utrullning av återstående funktioner under de följande veckorna (om inget annat anges). Versionsfunktionerna och de exakta datumen kan komma att ändras.
+Följande funktioner kommer att lanseras den **14 oktober 2022**, med en stegvis utrullning av återstående funktioner under de följande veckorna (om inget annat anges). Versionsfunktionerna och de exakta datumen kan komma att ändras.
 
 ## Flerkanalsmarknadsföring {#cross-channel-orchestration}
 
-* **[Aktivera/inaktivera alla publicerade dialogrutor samtidigt för dynamiskt chatt](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target=&quot;_blank&quot;}**: Aktivera/inaktivera alla publicerade dialogrutor globalt på konfigurationssidan med en knapptryckning.
+* **Ordna dialogströmmar automatiskt för dynamiskt chatt**: Förbättra arbetsytan i den fullmatade dialogen genom att ordna allt på arbetsytan i ett rent och lättläst format med en knapptryckning genom att ordna automatiskt.
 
-* **[Anpassade avatarer för dynamiskt chatt](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md#agent-settings){target=&quot;_blank&quot;}**: Ladda upp en anpassad chatbot-avatar så att den kan anpassas efter ert varumärke.
+* **Stöd för ytterligare datatyper för Dynamic Chat**: Tre nya datatyper (boolesk, heltal, flytande) gör att du kan utnyttja fler befintliga fält i Dynamic Chat för t.ex. målgruppsanpassning baserat på poängen eller fråga besökarna ja/nej-frågor.
 
-* **Chatttranskript för dynamiskt chatt**: Visa chattutdrag för varje konversation för att få djupare insikter om vad varje webbbesökare är intresserad av.
+* **Möteslänkar för dynamisk chatt**: Möjlighet att automatiskt inkludera en Teams- eller Meet-länk för Google och Outlook i varje kalenderinbjudan som skickas till besökarna.
 
-## Nästa generations upplevelser
+* **Schemalagda mötesmeddelanden för dynamiskt chatt**: Säljare får automatiska e-postmeddelanden om schemalagda möten samt all relevant information om besökarens chatbot-interaktion.
 
-* **Adobe**: Uppdaterat utseende och känsla för redaktörer och personinformationssidor med nya Adobe Experience Cloud branding.
+* **Roller och behörigheter för dynamisk chatt**: Administratörer kan använda detaljerade behörigheter för att styra programmets synlighet och användning och skapa anpassade användarroller.
 
-* **Visa mapphierarkin för målmappen i dialogrutan Flytta**: Om du visar mapphierarkin för varje mapp blir det enklare att flytta resurser och sannolikheten för att de placeras i fel mapp minskar.
+   * Fullständig åtkomst - användarna kan utnyttja funktionen fullt ut (t.ex. publicera dialogrutor, ändra färgschema etc.)
+   * Skrivskyddad åtkomst - användare kan se information men inte göra ändringar (se t.ex. Målkriterier eller Direktuppspelning, men inte ändra)
+   * Begränsad åtkomst - användarna kan inte se eller komma åt avsnitten Konfiguration eller Integrering
 
-* **[Uppdaterade skärmar i nästa generation](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;}**: Vi levererar nya, uppdaterade skärmar i nästa generation av upplevelser som erbjuder uppdaterade design- och användarvänlighetsförbättringar som är tillgängliga via växlingsfunktion:
+## Nästa generations upplevelser {#next-generation-experience}
 
-   * Kodinformation
-   * Information om &quot;Bilder och filer&quot;
+* **Uppdaterade skärmar i nästa generation**: Vi levererar nya, uppdaterade skärmar i nästa generation av upplevelser som erbjuder uppdaterade design- och användarvänlighetsförbättringar som är tillgängliga via växlingsfunktion:
 
->[!NOTE]
->
->Undantaget är att flytta en resurs till en mapp inom ett program i marknadsföringsaktiviteter. Flyttåtgärden visar inte mapphierarkin eftersom mappar i ett program inte kan ha dubblettnamn.
+   * Information om landningssidmall
+   * E-postmallslista
 
-## Experience Automation {#experience-automation}
+* **Förbättrad användning per flik i Information om e-postmall**: I den nya versionen visas ytterligare information om resurser som använder e-postmallen, inklusive Resursstatus, Senast ändrad och Senast ändrad av. Du kan också söka efter, sortera och filtrera listan som används av resurser.
 
-* **[Självbetjäningsflödessteg - programimportförbättringar](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md){target=&quot;_blank&quot;}**: Förbättrat stöd för import av program med anpassade flödessteg där du nu kan använda flera instanser av samma tjänsteleverantör och importprogram som har flödessteg som är kompatibla med dessa tjänsteleverantörer.
-
-* **Munchkin - utökad länkspårning**: Utöka stödet för spårning av `tel` och `mailto` länkar med Munchkin för att spåra en utökad uppsättning webbbeteenden.
-
-* **Synlighet för anpassat webbhuvud**: Anpassade webbkrokrubriker visas nu på fliken Admin > Webhooks för bättre synlighet.
-
-* **CAPTCHA**: Utvärdera giltigheten hos inskickade formulär med reCAPTCHA v3 för att poängsätta inkommande trafik. Bygg marknadsföringsarbetsflöden för att automatiskt exkludera, karantän eller ta bort misstänkt robottrafik.
-
-* **Behörighet att godkänna formulär**: Ny behörighet för att styra vilka designers som kan godkänna ändringar i ett formulär i linje med andra Design Studio-resurser. Detta förhindrar andra designers från att göra ändringar i formulären utan att någon annan behöver ge sitt godkännande.
-
-* **Utför alltid kampanjåterspelning efter anonym sammanslagning**: Anonym lead-sammanslagning sker innan kampanjen spelas upp så att anpassade fältfilter fungerar tillförlitligt när anonym kampanjåterspelning görs.
+* **Rapportera resursfiltermoduler**: Ny design för rapportkonfigurationsmoduler som visar ett nytt resursträd på konfigurationsmenyn och ett filter för Skapat och Ändrat den.
 
 ## Marknadsföringsdatamiljö {#marketing-data-environment}
 
-* **Korrigera användargränssnittstrunkering av fält för anpassat objekt som används av**: Nu är det enklare att identifiera anpassade objektfält som används så att du kan ta bort fält från ett anpassat objekt när det behövs.
+* **Integrering med Adobe Privacy Service**: Harmonisera med Privacy Service för att automatisera efterlevnaden av datasekretesregler i olika Experience Cloud-produkter. För närvarande är den här tjänsten endast tillgänglig för Marketo Engage som har anslutit sig till [Adobe Identity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target=&quot;_blank&quot;} System.
+
+* **Synkronisering av anpassade fält för programmedlem**: Möjlighet att dubbelriktat synkronisera utökningsbara fält som tagits emot för en programmedlem (t.ex. deltagarinställningar under händelseregistrering som mat, sessioner, spår osv.)
 
 ## API-förbättringar {#api-enhancements}
 
-* **Nya filtreringsfunktioner för API:t för programmedlemsextrahering för massutskick**: Filtrera efter status för programmedlemskap, updatedAt, cadence eller slut på innehåll för att förfina extraherade datauppsättningar.
-
-## Försäljningsinsikter {#sales-insight}
-
-![(stjärna)](assets/yellow-star.png)
-
-* **[Sales Insight Integration with Dynamic Chat](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target=&quot;_blank&quot;}**: Visa aktiviteter från Dynamic Chat på panelen Sales Insight och utnyttja den nya datapunkten i din prospektering.
+* **Import av massutr: Säljarassociation**: Paritet med Lead REST API för att kunna koppla leads till säljare under bulkimporten, vilket minskar komplexiteten och antalet API-anrop som krävs.
 
 ## Meddelanden {#announcements}
 
-**_Product Release Webinar_**
+* **Forms 1.0**: Borttagningen av Forms 1.0 slutförs i oktober-versionen. Forms 1.0-mediefiler kan inte längre skicka data till Marketo Engage och returnerar fel vid försök.
 
-[Webbinariet Marketo Engage från juni och augusti 2022](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target=&quot;_blank&quot;}
+* **Forms utan skript**: Forms fungerar inte längre när Javascript är inaktiverat i webbläsaren. Formulärinlämning kräver att Javascript är aktiverat.
