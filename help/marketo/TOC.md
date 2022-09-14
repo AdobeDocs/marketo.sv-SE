@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
+source-git-commit: 7edaf40bebec891ac106bcbbaba1fd513d1f642c
 workflow-type: tm+mt
-source-wordcount: '8801'
+source-wordcount: '8802'
 ht-degree: 0%
 
 ---
@@ -925,7 +925,7 @@ ht-degree: 0%
    + E-postmarknadsföring {#email-marketing}
       + Leverans {#deliverability}
          + [Varaktigt avslut](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
-         + [Power Pack för e-postleverans: Importera en lista](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seedlist.md)
+         + [Power Pack för e-postleverans: Så här importerar du en dirigeringslista](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.md)
          + [E-postverktyg](product-docs/email-marketing/deliverability/email-deliverability-tool.md)
          + [Hårda och mjuka studsar i e-postmeddelanden](product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md)
          + [Konfigurera en anpassad DKIM-signatur](product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)
