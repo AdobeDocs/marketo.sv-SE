@@ -3,9 +3,9 @@ unique-page-id: 10099077
 description: E-postleverans Power Pack - Så här importerar du en SeedList - Marketo Docs - Produktdokumentation
 title: E-postleverans, Power Pack - Så här importerar du en Seedlist
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
-source-git-commit: 4448d6e082c0c4fad35fc2980446175bffe47e4b
+source-git-commit: 8ff6198abb9cae9cc150b2c267b0a8658acffae2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -24,25 +24,25 @@ En startvärdeslista är en lista över e-postkonton hos flera postlådeleverant
 
    ![](assets/email-deliverability-power-pack-1.png)
 
-1. Klicka **Inkorgsinformant**.
+1. Programmet Everest öppnas. Klicka på **Under flygning** och markera **Inkorgsplacering**.
 
-   ![](assets/two-1.png)
+   ![](assets/email-deliverability-power-pack-2.png)
 
-1. Klicka **Hämta SeedList**.
+1. Klicka på **Hantera startlista** -fliken.
 
-   ![](assets/three-1.png)
+   ![](assets/email-deliverability-power-pack-3.png)
 
-1. Klicka **Exportera lista**.
+1. Klicka på listrutan Åtgärder och välj **Ladda ned en per rad**.
 
-   ![](assets/four.png)
+   ![](assets/email-deliverability-power-pack-4.png)
 
    >[!NOTE]
    >
-   >Välj **Optimera lista** om du vill att 250ok ska [optimera listan](https://help.returnpath.com/hc/en-us/articles/360046746451-What-is-250ok-s-seedlist-optimizer-and-why-should-I-use-it-) för dig. Välj **Anpassa lista** om du vill markera de seedlisteområden som du vill ta med.
+   >Använd optimering av dirigerad lista (längst upp på sidan) om du vill att Everest ska optimera listan åt dig.
 
 1. Efter exporten visas listan som en TXT-fil i webbläsarens nedladdningsmapp. Hämta den och [import](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) i din Marketo-instans som en statisk lista.
 
-   ![](assets/five.png)
+   ![](assets/email-deliverability-power-pack-5.png)
 
    >[!TIP]
    >
@@ -50,7 +50,7 @@ En startvärdeslista är en lista över e-postkonton hos flera postlådeleverant
 
    >[!CAUTION]
    >
-   >Du får ett begränsat antal av dessa Inbox Informant-kampanjer per månad. Om du vill se hur många du får kan du titta i din 250ok **Kontoinställningar**. Kontakta din Marketo-säljare om du vill ha mer information.
+   >Du får ett begränsat antal av dessa kampanjer för inkorgsplacering per månad. Om du vill se hur många du får kan du titta i prenumerationsdelen under Kontoinställningar > Prenumeration i Everest. Kontakta din Marketo-säljare om du vill ha mer information.
 
 ## Hämtar nya dirigeringslistor {#acquiring-new-seedlists}
 
