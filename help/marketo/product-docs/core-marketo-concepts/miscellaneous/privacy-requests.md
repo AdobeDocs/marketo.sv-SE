@@ -2,7 +2,7 @@
 description: Sekretessförfrågningar - Marketo Docs - produktdokumentation
 title: Sekretessförfrågningar
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: e3f7b0082b77c1be6b4f046838d7ebe725533e78
+source-git-commit: 5aa75cc35ef8d39983563ab34b075ae580f9a97b
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -15,7 +15,14 @@ I det här dokumentet finns en översikt över hur du hanterar enskilda dataskyd
 
 >[!NOTE]
 >
->Sekretessförfrågningar som skickas via Privacy Servicens gränssnitt eller API för Marketo Engage gäller endast dem som har Marketo Engage + RT-CDP, B2B och B2P-utgåvor.
+>Begäran om sekretess som skickas via Privacy Servicens gränssnitt eller API för Marketo Engage gäller endast för följande:
+>
+>* Marketo Engage som har anslutit sig till Adobe Identity Management System
+>
+>**-or-**
+>
+>* Marketo Engage-användare som använder en annan Experience Cloud-produkt som redan finns i Adobe Identity Management System (t.ex. RT-CDP, B2B och B2P Editions, Audience Manager).
+
 
 Du kan skicka enskilda förfrågningar om åtkomst till och radering av konsumentdata från Marketo Engage på två sätt:
 

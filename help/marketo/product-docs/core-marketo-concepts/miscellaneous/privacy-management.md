@@ -2,7 +2,7 @@
 description: Integritetshantering - Marketo Docs - produktdokumentation
 title: Integritetshantering
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 5aa75cc35ef8d39983563ab34b075ae580f9a97b
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -15,7 +15,14 @@ Marketo Engage har en uppsättning verktyg som hjälper dig att följa sekretess
 
 >[!NOTE]
 >
->Sekretessförfrågningar som skickas via Privacy Servicens gränssnitt eller API för Marketo Engage gäller endast dem som har Marketo Engage + RT-CDP, B2B och B2P-utgåvor.
+>Begäran om sekretess som skickas via Privacy Servicens gränssnitt eller API för Marketo Engage gäller endast för följande:
+>
+>* Marketo Engage som har anslutit sig till Adobe Identity Management System
+>
+>**-or-**
+>
+>* Marketo Engage-användare som använder en annan Experience Cloud-produkt som redan finns i Adobe Identity Management System (t.ex. RT-CDP, B2B och B2P Editions, Audience Manager).
+
 
 ## Bestämmelser om integritetshantering {#regulations-on-privacy-management}
 
