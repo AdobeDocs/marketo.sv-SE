@@ -3,9 +3,9 @@ unique-page-id: 37355768
 description: Importera resurser med Adobe Experience Manager - Marketo Docs - produktdokumentation
 title: Importera resurser med Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+source-git-commit: 2b3a7867811ab2814a668eaa633057b35b7ce68d
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
@@ -20,13 +20,13 @@ Med resursväljaren kan Marketo-kunder komma åt, välja och importera AEM till 
 
 >[!PREREQUISITES]
 >
->Kontrollera att du redan har utfört [AEM Configuration](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
+>Kontrollera att du redan har utfört [AEM](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
 
 >[!IMPORTANT]
 >
->Den här funktionen stöds till fullo i de aktuella versionerna av Firefox, Chrome och Edge. Det stöds inte i Safari.
+>För närvarande stöds den här funktionen endast fullt ut i Firefox. Det stöds inte i Safari och kanske inte fungerar i den senaste versionen av Chrome, beroende på inställningarna för cookie-filen för samma plats.
 
-1. Klicka på **Design Studio**.
+1. Klicka **Design Studio**.
 
    ![](assets/one-1.png)
 
@@ -42,7 +42,7 @@ Med resursväljaren kan Marketo-kunder komma åt, välja och importera AEM till 
 
    ![](assets/four-1.png)
 
-1. Välj mapp. Markera sedan bilderna genom att klicka på miniatyrbilden (du kan välja upp till 10). Klicka på **Välj** när du är klar.
+1. Välj mapp. Markera sedan bilderna genom att klicka på miniatyrbilden (du kan välja upp till 10). Klicka **Välj** när det är klart.
 
    ![](assets/five.png)
 
@@ -50,11 +50,11 @@ Med resursväljaren kan Marketo-kunder komma åt, välja och importera AEM till 
    >
    >Bilderna får inte vara större än 100 MB.
 
-1. Klicka på **Importera** för att slutföra processen.
+1. Klicka **Importera** för att slutföra processen.
 
    ![](assets/six-1.png)
 
-   Och det är allt! Klicka på **Stäng** för att återgå till Design Studio.
+   Och det är allt! Klicka **Stäng** för att återgå till Design Studio.
 
    ![](assets/seven-1.png)
 
