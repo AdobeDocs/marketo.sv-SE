@@ -1,15 +1,14 @@
 ---
 unique-page-id: 1147344
-description: System Tokens Glossary - Marketo Docs - Produktdokumentation
+description: Systemtokens - ordlista - Marketo Docs - produktdokumentation
 title: Ordlista för systemtoken
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
+source-git-commit: 93032a016a67fe0edf7a8093633d6b06ec25c18d
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
-
 
 # Ordlista för systemtoken {#system-tokens-glossary}
 
@@ -21,57 +20,57 @@ Förutom persontokens kan du använda några riktigt coola systemtokens. Här ä
 
 ## system.date {#system-date}
 
-`{{system.date}}`-token kommer att återge aktuellt datum vid körning så här: **8 aug 2013**
+The `{{system.date}}` token återger aktuellt datum vid körning på följande sätt: **8 aug 2013**
 
 **Fungerar i:**
 
-* [Ändra ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) datavärdessteg
-* [Intressant ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) steg för Momentflow
-* [Skapa ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) uppgiftsflödessteg
+* [Ändra datavärde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)flödessteget {target=&quot;_blank&quot;}
+* [Intressant stund](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)flödessteget {target=&quot;_blank&quot;}
+* [Skapa uppgift](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)flödessteget {target=&quot;_blank&quot;}
 * Innehållet i ett e-postmeddelande eller en mall
 
 ## system.time {#system-time}
 
-Token `{{system.time}}` återger aktuell tid vid körning så här: **04:34 PM (GMT -0700)**
+The `{{system.time}}` token återger aktuell tid vid körning så här: **04:34 PM (GMT -0700)**
 
 **Fungerar i:**
 
-* [Ändra ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) datavärdessteg
-* [Intressant ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) steg för Momentflow
-* [Skapa ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) uppgiftsflödessteg
+* [Ändra datavärde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)flödessteget {target=&quot;_blank&quot;}
+* [Intressant stund](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)flödessteget {target=&quot;_blank&quot;}
+* [Skapa uppgift](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)flödessteget {target=&quot;_blank&quot;}
 * Innehållet i ett e-postmeddelande eller en mall
 
 ## system.dateTime {#system-datetime}
 
-Token `{{system.dateTime}}` återger aktuellt datum och aktuell tid vid körning så här: **2013-08-08 16:36:13**
+The `{{system.dateTime}}` token återger aktuellt datum och aktuell tid vid körning på följande sätt: **2013-08-08 16:36:13**
 
 **Fungerar i:**
 
-* [Ändra ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) datavärdessteg
-* [Intressant ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) steg för Momentflow
-* [Skapa ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) uppgiftsflödessteg
+* [Ändra datavärde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)flödessteget {target=&quot;_blank&quot;}
+* [Intressant stund](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)flödessteget {target=&quot;_blank&quot;}
+* [Skapa uppgift](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)flödessteget {target=&quot;_blank&quot;}
 * Innehållet i ett e-postmeddelande eller en mall
 
 ## system.forwardToFriendLink {#system-forwardtofriendlink}
 
-Med `{{system.forwardToFriendLink}}`-token kan du styra placeringen av [&#39;Forward to a Friend Link&#39; i e-postmeddelanden](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md).
+The `{{system.forwardToFriendLink}}` kan du styra placeringen av [Vidarebefordra till en vänlänk i e-postmeddelanden](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md){target=&quot;_blank&quot;}.
 
 **Fungerar i:**
 
-* [Lägg till en systemtoken som en länk i en ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) e-postmall
+* [Lägg till en systemtoken som en länk i ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target=&quot;_blank&quot;} eller mall
 
 ## system.unsubscribeLink {#system-unsubscribelink}
 
-Med `{{system.unsubscribLink}}`-token kan du styra placeringen av länken för att avbryta prenumerationen i ett e-postmeddelande.
+The `{{system.unsubscribeLink}}` kan du styra placeringen av länken för att avbryta prenumerationen i ett e-postmeddelande.
 
 **Fungerar i:**
 
-* [Lägg till en systemtoken som en länk i en ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) e-postmall
+* [Lägg till en systemtoken som en länk i ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target=&quot;_blank&quot;} eller mall
 
 ## system.viewAsWebpageLink {#system-viewaswebpagelink}
 
-Med `{{system.viewAsWebpageLink}}`-token kan du styra placeringen av länken Visa som webbsida i ett e-postmeddelande.
+The `{{system.viewAsWebpageLink}}` kan du styra placeringen av länken Visa som webbsida i ett e-postmeddelande.
 
 **Fungerar med:**
 
-* [Lägg till en systemtoken som en länk i en ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) e-postmall
+* [Lägg till en systemtoken som en länk i ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target=&quot;_blank&quot;} eller mall
