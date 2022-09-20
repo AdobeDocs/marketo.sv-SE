@@ -3,7 +3,7 @@ unique-page-id: 2359426
 description: Uppdatera persondata - Marketo Docs - produktdokumentation
 title: Uppdatera persondata
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: a7f0f5b89ca2a35a3aaf0cfe1ed3a96da6366844
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Tänk dig att en person gav dig ytterligare kontaktinformation vid ditt senaste 
 
 1. Gå till din databas.
 
-   ![](assets/db-3.png)
+   ![](assets/update-person-data-1.png)
 
 1. Sök efter personens namn eller e-postadress.
 
@@ -34,11 +34,11 @@ Tänk dig att en person gav dig ytterligare kontaktinformation vid ditt senaste 
    >
    >Om du använder e-postadressen för att söka kommer sökningen att gå snabbare.
 
-   ![](assets/two-rubiks.png)
+   ![](assets/update-person-data-2.png)
 
 1. Dubbelklicka för att öppna personinformationen.
 
-   ![](assets/three-rubiks.png)
+   ![](assets/update-person-data-3.png)
 
    >[!TIP]
    >
@@ -48,7 +48,7 @@ Tänk dig att en person gav dig ytterligare kontaktinformation vid ditt senaste 
 
 1. Ange den nya informationen som du fick och stäng sedan fliken.
 
-![](assets/four-rubiks.png)
+![](assets/update-person-data-4.png)
 
 >[!NOTE]
 >
