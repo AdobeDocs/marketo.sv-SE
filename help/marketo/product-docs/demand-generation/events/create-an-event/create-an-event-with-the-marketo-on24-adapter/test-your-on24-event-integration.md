@@ -3,18 +3,14 @@ unique-page-id: 10096677
 description: Testa din ON24-händelseintegrering - Marketo Docs - produktdokumentation
 title: Testa din ON24-händelseintegrering
 exl-id: 8326b81e-abf7-4615-9a0b-b0a579be8bb8
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
 
 # Testa din ON24-händelseintegrering {#test-your-on-event-integration}
-
->[!IMPORTANT]
->
->Från och med augusti 2022 har ON24 inte längre stöd för nya Marketo-integreringar. Informationen i den här artikeln gäller endast befintliga användare.
 
 Se till att testa integreringen av dina event noggrant.
 
@@ -38,6 +34,6 @@ Så här uppdateras data när händelsen har inträffat:
 
 >[!MORELIKETHIS]
 >
->* [Exempel på händelseintegrering ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
->* [Om Marketo ON24-nätverkskortshändelser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>* [Exempel på händelseintegrering ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target=&quot;_blank&quot;}
+>* [Om Marketo ON24-nätverkskortshändelser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
 

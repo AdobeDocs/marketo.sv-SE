@@ -3,18 +3,14 @@ unique-page-id: 10096675
 description: Skapa underordnade kampanjer och lokala resurser - Marketo Docs - produktdokumentation
 title: Skapa underordnade kampanjer och lokala resurser
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '688'
+source-wordcount: '678'
 ht-degree: 1%
 
 ---
 
 # Skapa underordnade kampanjer och lokala resurser {#create-child-campaigns-and-local-assets}
-
->[!IMPORTANT]
->
->Från och med augusti 2022 har ON24 inte längre stöd för nya Marketo-integreringar. Informationen i den här artikeln gäller endast befintliga användare.
 
 Skapa era barnkampanjer och lokala resurser med Design Studio.
 
@@ -53,7 +49,7 @@ Använd Marketo för att skicka ut bekräftelsemeddelandet för ditt event. När
 
 >[!TIP]
 >
->Du kan konfigurera ON24 för att skicka ut bekräftelser, påminnelser eller uppföljningsmeddelanden. Se [ON24 Help Site](https://www.on24.com/live-webcast-elite/) för mer information.
+>Du kan konfigurera ON24 för att skicka ut bekräftelser, påminnelser eller uppföljningsmeddelanden. Se [ON24 Help Site](https://www.on24.com/live-webcast-elite/){target=&quot;_blank&quot;} om du vill ha mer information.
 
 ## Krav för registrering av underordnad kampanj {#registration-child-campaign-requirements}
 
@@ -98,11 +94,11 @@ The **Skicka e-post** Flödessteget MÅSTE vara det andra steget. Bekräftelseme
 >
 >Om personen returneras med ett registreringsfel får han/hon ingen e-postbekräftelse.
 
-Nästa steg är att [testa din ON24-händelseintegrering](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md).
+Nästa steg är att [testa din ON24-händelseintegrering](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target=&quot;_blank&quot;}.
 
 >[!MORELIKETHIS]
 >
->* [Om Marketo ON24-nätverkskortshändelser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
->* [Exempel på händelseintegrering ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
->* [Om status för webbinarium](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
+>* [Om Marketo ON24-nätverkskortshändelser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
+>* [Exempel på händelseintegrering ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target=&quot;_blank&quot;}
+>* [Om status för webbinarium](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md){target=&quot;_blank&quot;}
 

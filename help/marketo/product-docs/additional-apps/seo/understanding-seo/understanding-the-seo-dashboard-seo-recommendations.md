@@ -3,10 +3,9 @@ unique-page-id: 2949180
 description: Förstå SEO Dashboard -SEO Recommendations - Marketo Docs - produktdokumentation
 title: Förstå SEO Dashboard -SEO Recommendations
 exl-id: 44239e48-4aa1-450b-957a-cd3a13787cca
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -19,9 +18,9 @@ Du kan även läsa om hur du kan förbättra genom att använda Recommendations.
 
 ![](assets/image2014-9-17-21-3a39-3a57.png)
 
-## Optimeringsproblem för den översta sidan {#top-page-optimization-issues}
+## Optimeringsproblem på den vanligaste sidan {#top-page-optimization-issues}
 
-Detta visar fem effektiva sätt att börja optimera webbplatsen direkt! Klicka bara på någon av länkarna för att visa den fullständiga [detaljnivån ](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md).
+Detta visar fem effektiva sätt att börja optimera webbplatsen direkt! Klicka bara på någon av länkarna för att se hela [Detaljnivå för sida ned](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target=&quot;_blank&quot;}.
 
 >[!TIP]
 >
@@ -43,4 +42,4 @@ Direkt! Gå djupare här.
 
 >[!MORELIKETHIS]
 >
->[Detaljnivå för sida ned](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
+>[Detaljnivå för sida ned](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target=&quot;_blank&quot;}

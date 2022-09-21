@@ -3,18 +3,14 @@ unique-page-id: 10096658
 description: Förstå Marketo On24-adapterhändelser - Marketo Docs - produktdokumentation
 title: Om Marketo On24-nätverkskortshändelser
 exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
 # Om Marketo On24-nätverkskortshändelser {#understanding-marketo-on-adapter-events}
-
->[!IMPORTANT]
->
->Från och med augusti 2022 har ON24 inte längre stöd för nya Marketo-integreringar. Informationen i den här artikeln gäller endast befintliga användare.
 
 Om ditt ON24-webbinarium inte är anslutet till Marketo måste du hämta deltagarinformation som redan finns i Marketo och ange den i ON24. Efter webbinariet måste du skicka närvaroinformation som redan finns i ON24 och lägga in den i Marketo igen.
 
@@ -26,4 +22,4 @@ Bilden nedan visar integrationsprocessen.
 
 ![](assets/image2015-12-16-11-3a26-3a29.png)
 
-Vill du börja? Börja med [Skapa en händelse med ON24-adaptern](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md).
+Vill du börja? Börja med [Skapa en händelse med ON24-adaptern](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md){target=&quot;_blank&quot;}.

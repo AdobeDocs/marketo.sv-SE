@@ -3,18 +3,14 @@ unique-page-id: 10096673
 description: Konfigurera händelseinställningar och synkronisera Marketo med ditt webbinarium - Marketo Docs - produktdokumentation
 title: Konfigurera händelseinställningar och synkronisera Marketo med ditt webbinarium
 exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
 # Konfigurera händelseinställningar och synkronisera Marketo med ditt webbinarium {#configure-event-settings-and-sync-marketo-with-your-webinar}
-
->[!IMPORTANT]
->
->Från och med augusti 2022 har ON24 inte längre stöd för nya Marketo-integreringar. Informationen i den här artikeln gäller endast befintliga användare.
 
 Följ de här stegen för att konfigurera händelseinställningarna för Marketo och ansluta Marketo och ON24.
 
@@ -56,8 +52,8 @@ När du ställer in en händelse som är associerad med ett ON24-webbinarium fyl
    >
    >Om du uppdaterar någon händelseinformation i ON24 måste du klicka på **Uppdatera från webbseminarieleverantör** på menyn Händelseåtgärder för att se hur nya data fylls i.
 
-Nu kan du gå vidare till nästa steg: [skapa underordnade kampanjer och lokala resurser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md).
+Nu kan du gå vidare till nästa steg: [skapa underordnade kampanjer och lokala resurser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target=&quot;_blank&quot;}.
 
 >[!MORELIKETHIS]
 >
->[Om Marketo On24-nätverkskortshändelser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Om Marketo On24-nätverkskortshändelser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}

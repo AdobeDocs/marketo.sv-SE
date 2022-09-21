@@ -3,18 +3,14 @@ unique-page-id: 10096679
 description: Exempel på händelseintegrering ON24 - Marketo Docs - produktdokumentation
 title: Exempel på händelseintegrering ON24
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
 
 # Exempel på händelseintegrering ON24 {#example-on-event-integration}
-
->[!IMPORTANT]
->
->Från och med augusti 2022 har ON24 inte längre stöd för nya Marketo-integreringar. Informationen i den här artikeln gäller endast befintliga användare.
 
 Här är ett exempel på en händelse, inklusive kampanjer, för ett ON24-webbinarium. När du skapar en händelse måste du testa kampanjerna innan du kör dem.
 
@@ -96,4 +92,4 @@ Här är ett exempel på en händelse, inklusive kampanjer, för ett ON24-webbin
 
 >[!MORELIKETHIS]
 >
->[Om Marketo ON24-nätverkskortshändelser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Om Marketo ON24-nätverkskortshändelser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}

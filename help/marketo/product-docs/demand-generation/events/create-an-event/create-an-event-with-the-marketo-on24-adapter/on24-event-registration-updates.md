@@ -3,18 +3,14 @@ unique-page-id: 10096683
 description: ON24 Event Registration Updates - Marketo Docs - Product Documentation
 title: ON24 - Händelseregistreringsuppdateringar
 exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '284'
 ht-degree: 0%
 
 ---
 
 # ON24 - Händelseregistreringsuppdateringar {#on-event-registration-updates}
-
->[!IMPORTANT]
->
->Från och med augusti 2022 har ON24 inte längre stöd för nya Marketo-integreringar. Informationen i den här artikeln gäller endast befintliga användare.
 
 ## Manuellt godkända registranter {#manually-approving-registrants}
 
@@ -44,4 +40,4 @@ Marketo hämtar automatiskt information om närvaro vid ungefär 200 PST varje k
 
 >[!MORELIKETHIS]
 >
->[Om Marketo ON24-nätverkskortshändelser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Om Marketo ON24-nätverkskortshändelser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}

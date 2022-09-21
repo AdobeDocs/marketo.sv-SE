@@ -3,10 +3,9 @@ unique-page-id: 2949176
 description: Understanding Search Engine Optimization - Marketo Docs - Product Documentation
 title: Om sökmotoroptimering
 exl-id: f5036487-e18e-495e-84ba-235f21e99fb2
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '403'
 ht-degree: 0%
 
 ---
@@ -29,7 +28,7 @@ Först och främst bör du lära dig grunderna med den här praktiska ordlistan.
 
 **Sökmotorvy**: Hur en sökmotor uppfattar webbplatsen i motsats till hur en människa uppfattar den.
 
-**Sökvillkor** för Fat Head: Generiska nyckelord som kastar ett mycket stort nät. De står för cirka 19 % av alla söktermer som används.
+**Sökvillkor för Fat Head**: Generiska nyckelord som kastar ett mycket stort nät. De står för cirka 19 % av alla söktermer som används.
 
 (Exempel: Skor)
 
@@ -37,24 +36,24 @@ Först och främst bör du lära dig grunderna med den här praktiska ordlistan.
 
 (Exempel: Körbara skor)
 
-**Villkor** för långdistanssökning: Superspecifika nyckelord. Dessa används cirka 70 % av tiden.
+**Villkor för långdistanssökning**: Superspecifika nyckelord. Dessa används cirka 70 % av tiden.
 
 (Exempel: Minimalistkvinnor med skor i storlek 9)
 
 **Optimeringsresultat**: Optimeringsresultat är en Marketo-poäng som mäter alla sidor på sajten på en skala från 1 till 100. Det bygger på en sammanställning av dussintals bästa metoder. En bakgrundsmusik på 70 eller högre anger att sajten är ganska optimerad.
 
-**On-Page Optimization**: Åtgärder som kan vidtas direkt på själva webbplatsen för att förbättra dess position på sökmotorns resultatsidor.
+**Optimering direkt på sidan**: Åtgärder som kan vidtas direkt på själva webbplatsen för att förbättra dess position på sökmotorns resultatsidor.
 
 (Exempel: Inkludera nyckelord i sidhuvudet)
 
-**Optimering** utanför sidan: Åtgärder som kan vidtas utanför den faktiska webbplatsen för att förbättra dess position när det gäller sökrankningar.
+**Optimering utanför sidan**: Åtgärder som kan vidtas utanför den faktiska webbplatsen för att förbättra dess position när det gäller sökrankningar.
 
 (Exempel: Öka antalet inkommande länkar från högkvalitativa och välkända webbplatser)
 
 ## Hur kommer jag igång? {#how-do-i-get-started}
 
-1. Utveckla din strategi med [Förstå nyckelord](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-1. Åtgärda befintliga problem i [Förstå sidor](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
-1. Nå ut längre genom att [Förstå inkommande länkar](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
+1. Utveckla er strategi med [Förstå nyckelord](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target=&quot;_blank&quot;}
+1. Åtgärda befintliga problem i [Förstå sidor](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md){target=&quot;_blank&quot;}
+1. Nå ut bättre med [Förstå inkommande länkar](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md){target=&quot;_blank&quot;}
 
 Målet är att vara så nära den första sidan (och det första resultatet) för nyckelord som är viktiga för ditt företag.

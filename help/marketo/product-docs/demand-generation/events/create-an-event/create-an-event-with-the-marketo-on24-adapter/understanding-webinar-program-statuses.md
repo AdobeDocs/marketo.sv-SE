@@ -3,18 +3,14 @@ unique-page-id: 10096681
 description: Understanding Webinar Program Status - Marketo Docs - produktdokumentation
 title: Om status för webbinarium
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
 
 # Om status för webbinarium {#understanding-webinar-program-statuses}
-
->[!IMPORTANT]
->
->Från och med augusti 2022 har ON24 inte längre stöd för nya Marketo-integreringar. Informationen i den här artikeln gäller endast befintliga användare.
 
 Programstatus representerar olika händelsestatusar som en person går igenom som medlem i händelsen. De är kopplade till en kanaltyp. Marketo har en inbyggd kanaltyp som kallas **Webbinarium**. Statuser kan användas i både batch- och utlösarkampanjer.
 
@@ -32,7 +28,7 @@ Här är en kort beskrivning av programstatus som är kopplad till webbseminarie
 
 **Inbjuden** - Använd den här statusen för att lägga till personer till händelsen.
 
-**Väntar på godkännande** - Använd den här statusen om du vill vänta med att skicka ett bekräftelsemeddelande till dina personer via e-post. Se&quot;Manuellt godkännande av registranter&quot; i [ON24 - Händelseregistreringsuppdateringar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md) för mer information.
+**Väntar på godkännande** - Använd den här statusen om du vill vänta med att skicka ett bekräftelsemeddelande till dina personer via e-post. Se&quot;Manuellt godkännande av registranter&quot; i [ON24 - Händelseregistreringsuppdateringar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target=&quot;_blank&quot;} om du vill ha mer information.
 
 **Väntar** - Använd den här statusen om du vill att vissa personer ska vänta tills fler platser blir tillgängliga.
 
@@ -58,4 +54,4 @@ Här är en kort beskrivning av programstatus som är kopplad till webbseminarie
 
 >[!MORELIKETHIS]
 >
->[Om Marketo ON24-nätverkskortshändelser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Om Marketo ON24-nätverkskortshändelser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
