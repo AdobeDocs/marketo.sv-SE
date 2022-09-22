@@ -3,18 +3,18 @@ unique-page-id: 6095008
 description: Lägg till Google AdWords som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
 title: Lägg till Google AdWords som en LaunchPoint-tjänst
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
-source-git-commit: ab8eb044b89c925accc3b6a4ac4def53e3927321
+source-git-commit: 457b4aadac47b0a8614c3e6025d2e1ae287b5ecc
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
 
 # Lägg till Google AdWords som en LaunchPoint-tjänst {#add-google-adwords-as-a-launchpoint-service}
 
-Länka ditt Google AdWords-konto till Marketo för att automatiskt överföra offlinekonverteringsdata från Marketo till Google AdWords. Sedan kan ni utifrån AdWords-gränssnittet enkelt se vilka klick som resulterat i kvalificerade leads, affärsmöjligheter och nya kunder (eller vilka intäktssteg ni vill spåra) efter att ni gjort det [lägga till egna kolumner](https://support.google.com/adwords/answer/3073556) i AdWords. Den här informationen visas inte i användargränssnittet för Marketo.
+Länka ditt Google AdWords-konto till Marketo för att automatiskt överföra offlinekonverteringsdata från Marketo till Google AdWords. Sedan kan ni utifrån AdWords-gränssnittet enkelt se vilka klick som resulterat i kvalificerade leads, affärsmöjligheter och nya kunder (eller vilka intäktssteg ni vill spåra) efter att ni gjort det [lägga till egna kolumner](https://support.google.com/adwords/answer/3073556){target=&quot;_blank&quot;} i AdWords. Den här informationen visas inte i användargränssnittet för Marketo.
 
-Läs mer om [Google importfunktion för offlinekonvertering](https://support.google.com/adwords/answer/2998031?hl=en).
+Läs mer om [Google importfunktion för offlinekonvertering](https://support.google.com/adwords/answer/2998031?hl=en){target=&quot;_blank&quot;}.
 
 >[!AVAILABILITY]
 >
@@ -26,23 +26,23 @@ Läs mer om [Google importfunktion för offlinekonvertering](https://support.goo
 
 >[!NOTE]
 >
->Du kan även integrera en [Google AdWords as a Launchpoint service with a manager account](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md).
+>Du kan även integrera en [Google AdWords as a Launchpoint service with a manager account](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target=&quot;_blank&quot;}.
 
 1. Gå till **Administratör** -avsnitt.
 
-   ![](assets/login-admin.png)
+   ![](assets/add-google-adwords-as-a-launchpoint-service-1.png)
 
 1. Välj **LaunchPoint**.
 
-   ![](assets/image2014-12-5-14-3a35-3a27.png)
+   ![](assets/add-google-adwords-as-a-launchpoint-service-2.png)
 
 1. Välj **Nytt** och **Ny tjänst**.
 
-   ![](assets/image2015-2-23-14-3a54-3a50.png)
+   ![](assets/add-google-adwords-as-a-launchpoint-service-3.png)
 
 1. Ange ett visningsnamn och välj **Google AdWords**.
 
-   ![](assets/new-service-google.png)
+   ![](assets/add-google-adwords-as-a-launchpoint-service-4.png)
 
 1. Välj **Auktorisera Marketo**.
 
@@ -50,25 +50,27 @@ Läs mer om [Google importfunktion för offlinekonvertering](https://support.goo
    >
    >Se till att logga ut från ditt personliga Gmail-konto och aktivera popup-fönster.
 
-   ![](assets/image2015-2-26-20-3a54-3a1.png)
+   ![](assets/add-google-adwords-as-a-launchpoint-service-5.png)
 
 1. Välj det konto som är kopplat till Google AdWords.
 
-   ![](assets/image2015-2-23-15-3a31-3a16.png)
+   ![](assets/add-google-adwords-as-a-launchpoint-service-6.png)
 
 1. Välj **Acceptera**.
 
-   ![](assets/image2015-2-23-16-3a32-3a45.png)
+   ![](assets/add-google-adwords-as-a-launchpoint-service-7.png)
 
 1. Status visas som **Lyckades**. Välj **Nästa**.
 
-   ![](assets/image2015-2-26-20-3a55-3a21.png)
+   ![](assets/add-google-adwords-as-a-launchpoint-service-8.png)
 
 1. Ladda upp offlinekonverteringar från Marketo till Google AdWords **Vecka** eller **Dagligen**.
 
-   ![](assets/image2015-2-23-16-3a53-3a4.png)
+   ![](assets/add-google-adwords-as-a-launchpoint-service-9.png)
 
 1. Attributkonvertering till **Första klickningen** eller **Sista klickningen**.
+
+   ![](assets/add-google-adwords-as-a-launchpoint-service-10.png)
 
    | Typ | Definition |
    |---|---|
@@ -79,18 +81,16 @@ Läs mer om [Google importfunktion för offlinekonvertering](https://support.goo
    >
    >En konsekvent attribueringsmodell i Marketo och AdWords ger den mest korrekta informationen.
 
-   ![](assets/image2015-2-23-16-3a57-3a49.png)
-
 1. Klicka **Skapa**.
 
-   ![](assets/image2015-2-23-17-3a50-3a9.png)
+   ![](assets/add-google-adwords-as-a-launchpoint-service-11.png)
 
    >[!NOTE]
    >
-   >[Automatisk taggning](https://support.google.com/adwords/answer/1752125?hl=en) måste väljas för att den här funktionen ska fungera. Inaktiveringen måste göras i AdWords.
+   >[Automatisk taggning](https://support.google.com/adwords/answer/1752125?hl=en){target=&quot;_blank&quot;} måste väljas för att den här funktionen ska fungera. Inaktiveringen måste göras i AdWords.
 
 Bra! Se den relaterade artikeln nedan för att lära dig hur du mappar AdWords-offlinekonverteringar i din intäktsmodell.
 
 >[!MORELIKETHIS]
 >
->[Ange Google AdWords-konverteringar i intäktsmodellen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
+>[Ange Google AdWords-konverteringar i intäktsmodellen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target=&quot;_blank&quot;}
