@@ -3,10 +3,9 @@ unique-page-id: 7512270
 description: Lägg till Adobe Connect som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
 title: Lägg till Adobe Connect som en LaunchPoint-tjänst
 exl-id: 21beb156-6674-46a8-bdc5-345fcb4bb272
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6553f7112859c3e68ae798cab630ed3dce4765ea
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -27,25 +26,29 @@ Marketo hanterar registreringen och närvaron av Adobe Connect webbinarium.
 >
 >Adobe Connect On Site stöds för närvarande inte.
 
-1. Gå till **Admin** och klicka på **LaunchPoint**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2015-4-22-11-3a33-3a51.png)
+   ![](assets/add-adobe-connect-as-a-launchpoint-service-1.png)
 
-1. Välj **Ny** och sedan **Ny tjänst**.
+1. Klicka **LaunchPoint**.
 
-   ![](assets/image2015-4-22-11-3a40-3a19.png)
+   ![](assets/add-adobe-connect-as-a-launchpoint-service-2.png)
 
-1. Ange ett **visningsnamn**. Under **Service** väljer du Adobe Connect.
+1. Klicka på **Nytt** nedrullningsbar meny och välj **Ny tjänst**.
 
-   ![](assets/new-service-adobe-connect.png)
+   ![](assets/add-adobe-connect-as-a-launchpoint-service-3.png)
 
-1. Ange din **användarnamn** och **åtkomstkod**.
+1. Ange **Visningsnamn**. Under **Tjänst** väljer du Adobe Connect.
 
-   ![](assets/image2015-4-22-11-3a50-3a6.png)
+   ![](assets/add-adobe-connect-as-a-launchpoint-service-4.png)
 
-1. Slutför processen genom att ange din **URL till mötesmappen** och **Deltagarlösenord** och klicka sedan på **Skapa**.
+1. Ange **Användarnamn** och **Åtkomstkod**.
 
-   ![](assets/image2015-4-22-11-3a55-3a36.png)
+   ![](assets/add-adobe-connect-as-a-launchpoint-service-5.png)
+
+1. Slutför processen genom att ange **URL för mötesmapp** och **Deltagarlösenord** klicka sedan på **Skapa**.
+
+   ![](assets/add-adobe-connect-as-a-launchpoint-service-6.png)
 
    >[!TIP]
    >
@@ -53,12 +56,12 @@ Marketo hanterar registreringen och närvaron av Adobe Connect webbinarium.
 
    >[!NOTE]
    >
-   >När du har loggat in på ditt Adobe Connect-konto väljer du fliken **Seminarier**. Om du inte behöver gå in i något specifikt seminarium kopierar du URL:en från webbläsarfältet till URL:en för mötesmappen **.**
+   >När du har loggat in på ditt Adobe Connect-konto väljer du **Seminarier** -fliken. Utan att behöva gå in på något specifikt seminarium kopierar du URL:en från webbläsarfältet till **URL för mötesmapp** inställning.
 
 Din Adobe Connect-tjänst synkroniseras nu med Marketo!
 
-![](assets/adobe-connect-service.png)
+![](assets/add-adobe-connect-as-a-launchpoint-service-7.png)
 
 >[!MORELIKETHIS]
 >
->Lär dig hur du [skapar en händelse med Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md).
+>Lär dig hur [skapa ett event med Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md){target=&quot;_blank&quot;}.
