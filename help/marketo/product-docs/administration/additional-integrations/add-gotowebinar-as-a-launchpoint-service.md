@@ -3,10 +3,9 @@ unique-page-id: 7512289
 description: Lägg till GoToWebinar som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
 title: Lägg till GoToWebinar som en LaunchPoint-tjänst
 exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dbb7478ac7b7e811bb9dfeb7c5e4a80ae400ab9b
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -27,37 +26,41 @@ Marketo hanterar registrering och närvaro av GoToWebinar.
 >
 >GoToMeeting, GoToWebcast och GoToTraining stöds för närvarande inte.
 
-1. Gå till **Admin** och välj **LaunchPoint**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2015-4-22-15-3a33-3a47.png)
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-1.png)
 
-1. Välj **Ny** och **Ny tjänst**.
+1. Klicka **LaunchPoint**.
 
-   ![](assets/new-service-gotowebinar.png)
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-2.png)
 
-1. Ange ett **visningsnamn**. Under **Service** väljer du **GoToWebinar**.
+1. Välj **Nytt** och **Ny tjänst**.
 
-   ![](assets/new-service-goto-webinar1.png)
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-3.png)
 
-1. Klicka sedan på **Logga in på GoToWebinar**.
+1. Ange **Visningsnamn**. Under **Tjänst**, markera **GoToWebinar**.
 
-   ![](assets/image2015-4-22-15-3a57-3a59.png)
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-4.png)
+
+1. Klicka på **Logga in på GoToWebinar**.
+
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-5.png)
 
    >[!NOTE]
    >
-   >Om du vill synkronisera företagsnamn och jobbtitel från ditt Marketo-formulär till GoToWebinar markerar du rutan **Aktivera ytterligare fält**.
+   >Om du vill synkronisera företagsnamn och jobbtitel från ditt Marketo-formulär till GoToWebinar väljer du **Aktivera ytterligare fält** box.
 
-1. I popup-fönstret GoToWebinar Logga in anger du ditt **GoToWebinar**-e-postadress och lösenord och klickar på **Logga in**.
+1. I popup-fönstret GoToWebinar Sign In anger du **GoToWebinar** e-post och lösenord och klicka **Logga in**.
 
-   ![](assets/image2015-4-22-15-3a52-3a31.png)
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-6.png)
 
 1. När fönstret stängs klickar du på **Skapa**.
 
-   ![](assets/image2015-4-22-15-3a57-3a43.png)
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-7.png)
 
-1. Bra! Ditt **GoToWebinar**-konto har nu synkroniserats med Marketo.
+1. Bra! Dina **GoToWebinar** kontot har nu synkroniserats med Marketo.
 
-   ![](assets/goto-webinar.png)
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-8.png)
 
 >[!CAUTION]
 >
@@ -65,4 +68,4 @@ Marketo hanterar registrering och närvaro av GoToWebinar.
 
 >[!MORELIKETHIS]
 >
->Lär dig hur du [skapar en händelse med GotoWebinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md).
+>Lär dig hur [skapa en händelse med GotoWebinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md){target=&quot;_blank&quot;}.
