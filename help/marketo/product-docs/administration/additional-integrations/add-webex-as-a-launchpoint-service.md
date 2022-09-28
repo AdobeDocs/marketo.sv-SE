@@ -3,9 +3,9 @@ unique-page-id: 7512272
 description: Lägg till Webex som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
 title: Lägg till webb som en LaunchPoint-tjänst
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
-source-git-commit: 8813686a39852443bf200eda232fd5448c6aa414
+source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -30,30 +30,34 @@ Marketo Engage hanterar registrering och närvaro av webbinarium på webben.
 >
 >**Varning:** Ange inte hela URL:en i detta fält. Ange bara platsnamnet!
 
-1. Gå till **Administratör** och klicka **LaunchPoint**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2015-4-23-11-3a20-3a43.png)
+   ![](assets/add-webex-as-a-launchpoint-service-1.png)
+
+1. Klicka **LaunchPoint**.
+
+   ![](assets/add-webex-as-a-launchpoint-service-2.png)
 
 1. Välj **Nytt** och sedan **Ny tjänst**.
 
-   ![](assets/webex-new-service.png)
+   ![](assets/add-webex-as-a-launchpoint-service-3.png)
 
 1. Ange **Visningsnamn**. Under **Tjänst**, markera **Webex**.
 
-   ![](assets/new-service-webex.png)
+   ![](assets/add-webex-as-a-launchpoint-service-4.png)
 
 1. Ange **Användarnamn** och **Lösenord**.
 
-   ![](assets/image2015-4-24-18-3a56-3a56.png)
+   ![](assets/add-webex-as-a-launchpoint-service-5.png)
 
 1. Slutför processen genom att ange **Platsnamn** sedan klicka **Skapa**.
 
-   ![](assets/image2015-4-24-18-3a58-3a43.png)
+   ![](assets/add-webex-as-a-launchpoint-service-6.png)
 
 1. Fenomenal! Dina **Webex** är nu synkroniserat med Marketo.
 
-   ![](assets/webex.png)
+   ![](assets/add-webex-as-a-launchpoint-service-7.png)
 
 >[!MORELIKETHIS]
 >
->Lär dig hur [skapa en händelse med Webex](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md).
+>Lär dig hur [skapa en händelse med Webex](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target=&quot;_blank&quot;}.

@@ -3,10 +3,9 @@ unique-page-id: 7512278
 description: Lägg till ReadyTalk som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
 title: Lägg till ReadyTalk som en LaunchPoint-tjänst
 exl-id: 936735b5-913e-43ee-bdc2-d65ef37d93a3
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -23,30 +22,34 @@ Marketo hanterar registrering och närvaro av ditt webbseminarium ReadyTalk.
 >
 >En befintlig prenumeration på ReadyTalk och administrationsrättigheter krävs för det här steget. Ha följande inställningar till hands: Åtkomstnummer, åtkomstkod och lösenord.
 
-1. Gå till **Admin** och klicka på **ReadyTalk**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2015-4-23-10-3a50-3a23.png)
+   ![](assets/add-readytalk-as-a-launchpoint-service-1.png)
 
-1. Välj **Ny** och sedan **Ny tjänst**.
+1. Klicka **LaunchPoint**.
 
-   ![](assets/readytalk-new-service.png)
+   ![](assets/add-readytalk-as-a-launchpoint-service-2.png)
 
-1. Ange ett **visningsnamn**. Välj **ReadyTalk** under **Service**.
+1. Välj **Nytt** och sedan **Ny tjänst**.
 
-   ![](assets/new-service-readytalk.png)
+   ![](assets/add-readytalk-as-a-launchpoint-service-3.png)
 
-1. Ange ditt **åtkomstnummer** och **åtkomstkod**.
+1. Ange **Visningsnamn**. Under **Tjänst**, markera **ReadyTalk**.
 
-   ![](assets/image2015-4-24-18-3a53-3a2.png)
+   ![](assets/add-readytalk-as-a-launchpoint-service-4.png)
 
-1. Slutför processen genom att ange din **lösenordskod** och klicka på **Skapa**.
+1. Ange **Åtkomstnummer** och **Åtkomstkod**.
 
-   ![](assets/image2015-4-24-18-3a53-3a38.png)
+   ![](assets/add-readytalk-as-a-launchpoint-service-5.png)
 
-Ditt **ReadyTalk**-konto har nu synkroniserats med Marketo.
+1. Slutför processen genom att ange **Lösenord** och klicka **Skapa**.
 
-![](assets/readytalk.png)
+   ![](assets/add-readytalk-as-a-launchpoint-service-6.png)
+
+Dina **ReadyTalk** kontot har nu synkroniserats med Marketo.
+
+![](assets/add-readytalk-as-a-launchpoint-service-7.png)
 
 >[!MORELIKETHIS]
 >
->Lär dig hur du [skapar en händelse med ReadyTalk](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md).
+>Lär dig hur [skapa en händelse med ReadyTalk](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md).

@@ -3,9 +3,9 @@ unique-page-id: 10096583
 description: Nästa generations Munchkin Tracking - frågor och svar - Marketo Docs - produktdokumentation
 title: Nästa generations Munchkin Tracking - frågor och svar
 exl-id: 283189ac-c817-479a-b896-91233980608c
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Nej. Munchkins spårningskod är densamma. Inga ändringar behöver göras på w
 
 >[!NOTE]
 >
->Den här ändringen påverkar inte Web Personalization (Real-Time Personalization). Det fortsätter att identifiera anonyma och kända webbbesökare och personalisera innehåll i realtid för dessa besökare.
+>Den här ändringen påverkar inte webbpersonalisering (anpassning i realtid). Det fortsätter att identifiera anonyma och kända webbbesökare och personalisera innehåll i realtid för dessa besökare.
 
 ## Varför tog Marketo bort filtret&quot;Är anonym&quot; från smarta listor? {#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
 
@@ -74,20 +74,20 @@ Granska dem och identifiera var ni har inställningen &quot;Är anonym&quot; til
 
 Kolla in länkarna:
 
-[Översikt över anonyma leaduppgraderingar](https://nation.marketo.com/docs/DOC-2937)
+[Översikt över anonyma leaduppgraderingar](https://nation.marketo.com/docs/DOC-2937){target=&quot;_blank&quot;}
 
-[Anonyma leaduppgraderingar - ändringar i Marketo användargränssnitt](https://nation.marketo.com/docs/DOC-2938)
+[Anonyma leaduppgraderingar - ändringar i Marketo användargränssnitt](https://nation.marketo.com/docs/DOC-2938){target=&quot;_blank&quot;}
 
-[Anonyma leaduppgraderingar - kundåtgärd krävs](https://nation.marketo.com/docs/DOC-2939)
+[Anonyma leaduppgraderingar - kundåtgärd krävs](https://nation.marketo.com/docs/DOC-2939){target=&quot;_blank&quot;}
 
-[Anonyma leaduppgraderingar - analysrapporter](https://nation.marketo.com/docs/DOC-2940)
+[Anonyma leaduppgraderingar - analysrapporter](https://nation.marketo.com/docs/DOC-2940){target=&quot;_blank&quot;}
 
-[Anonyma leaduppgraderingar - versionsschema](https://nation.marketo.com/docs/DOC-2961)
+[Anonyma leaduppgraderingar - versionsschema](https://nation.marketo.com/docs/DOC-2961){target=&quot;_blank&quot;}
 
-[Anonyma leaduppgraderingar - under molnet](https://nation.marketo.com/docs/DOC-2962)
+[Anonyma leaduppgraderingar - under molnet](https://nation.marketo.com/docs/DOC-2962){target=&quot;_blank&quot;}
 
-[Anonym leadmarknadsföring till känd ledare - Munchkin V2-beteende](https://nation.marketo.com/docs/DOC-2963)
+[Anonym leadmarknadsföring till känd ledare - Munchkin V2-beteende](https://nation.marketo.com/docs/DOC-2963){target=&quot;_blank&quot;}
 
 ## Jag har fler frågor! Hur får jag svar på dem? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Var vänlig och kontakta [community](https://nation.marketo.com/). Du kan också kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support). De kommer gärna att besvara dina frågor.
+Var vänlig och kontakta [community](https://nation.marketo.com/){target=&quot;_blank&quot;}. Du kan också kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target=&quot;_blank&quot;}. De kommer gärna att besvara dina frågor.
