@@ -3,9 +3,9 @@ unique-page-id: 2359412
 description: Landningssida med ett formulär - Marketo Docs - produktdokumentation
 title: Landningssida med ett formulär
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 8d412ce5589eb55c85abded4c55b801a9647d1c0
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '549'
 ht-degree: 0%
 
 ---
@@ -104,7 +104,7 @@ Snyggt gjort! Nu när vi har skapat ett program går vi vidare och skapar lite i
 
 ## STEG 3: Skapa en landningssida och lägg till formuläret {#step-create-a-landing-page-and-add-your-form}
 
-1. När programmet är valt klickar du på **Nytt** och sedan **Ny lokal resurs**.
+1. När programmet är valt klickar du på **Nytt** nedrullningsbar meny och välj **Ny lokal resurs**.
 
    ![](assets/landing-page-with-a-form-15.png)
 
