@@ -2,9 +2,9 @@
 description: Stream Designer - Marketo Docs - produktdokumentation
 title: Stream Designer
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: eb23d3b6538fd660a95bfb3fdcfc21ccc29c9944
+source-git-commit: a746fc2350ba2441ecd2157708b88d2480237c49
 workflow-type: tm+mt
-source-wordcount: '756'
+source-wordcount: '821'
 ht-degree: 0%
 
 ---
@@ -49,19 +49,46 @@ Strömdesignern innehåller flera kort som du kan lägga till för att forma cha
  </tr>
 </table>
 
+## Stream Designer-ikoner {#stream-designer-icons}
+
+I det övre högra hörnet av Stream Designer visas en handfull ikoner. Så här gör de.
+
+<table>
+ <tr>
+  <td><img src="assets/stream-designer-1.png"></td>
+  <td>Lägger till ett rutnät i bakgrunden för dem som föredrar den vyn</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-2.png"></td>
+  <td>Zoomar in, skapar större kort</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-3.png"></td>
+  <td>Zoomar ut, skapa mindre kort</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-4.png"></td>
+  <td>Öppnar ett fönster där du kan testa chatten (tryck på samma knapp för att stänga)</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-5.png"></td>
+  <td>Ordnar alla kort i strömmen</td>
+ </tr>
+</table>
+
 ## Skapa en ström {#create-a-stream}
 
 1. Efter att du [skapade dialogrutan](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}, klicka på **Stream Designer** -fliken.
 
-   ![](assets/stream-designer-1.png)
+   ![](assets/stream-designer-6.png)
 
 1. Dra och släpp frågekortet.
 
-   ![](assets/stream-designer-2.png)
+   ![](assets/stream-designer-7.png)
 
 1. Under Chatbot Response, skriv din fråga hur du vill.
 
-   ![](assets/stream-designer-3.png)
+   ![](assets/stream-designer-8.png)
 
    >[!NOTE]
    >
@@ -69,7 +96,7 @@ Strömdesignern innehåller flera kort som du kan lägga till för att forma cha
 
 1. Ange dina användarsvar och klicka på **Spara**.
 
-   ![](assets/stream-designer-4.png)
+   ![](assets/stream-designer-9.png)
 
    >[!NOTE]
    >
@@ -77,27 +104,27 @@ Strömdesignern innehåller flera kort som du kan lägga till för att forma cha
 
 1. För Ja vill vi schemalägga en avtalad tid, så under det alternativet drar du över schemaläggarkortet för avtalad tid.
 
-   ![](assets/stream-designer-5.png)
+   ![](assets/stream-designer-10.png)
 
 1. Klicka på i kolumnen till höger **Spara**.
 
-   ![](assets/stream-designer-6.png)
+   ![](assets/stream-designer-11.png)
 
 1. Eftersom det är ett mål drar du målkortet under schemaläggaren för avtalade tider.
 
-   ![](assets/stream-designer-7.png)
+   ![](assets/stream-designer-12.png)
 
 1. Namnge målet (eller välj ett befintligt) och klicka på **Spara**.
 
-   ![](assets/stream-designer-8.png)
+   ![](assets/stream-designer-13.png)
 
 1. För&quot;Nej&quot; vill vi se om de kommer att gå med i e-postlistan, så under det alternativet drar du över ett annat frågekort.
 
-   ![](assets/stream-designer-9.png)
+   ![](assets/stream-designer-14.png)
 
 1. Ange ditt svar och lägg till svarsalternativ för besökaren. Klicka **Spara** när det är klart.
 
-   ![](assets/stream-designer-10.png)
+   ![](assets/stream-designer-15.png)
 
    >[!NOTE]
    >
@@ -105,15 +132,15 @@ Strömdesignern innehåller flera kort som du kan lägga till för att forma cha
 
 1. Under svaret&quot;Ja&quot; drar du över Info Capture-kortet så att du kan samla in besökarens e-post.
 
-   ![](assets/stream-designer-11.png)
+   ![](assets/stream-designer-16.png)
 
 1. Klicka på **Typ** nedrullningsbar meny och välj **E-post**.
 
-   ![](assets/stream-designer-12.png)
+   ![](assets/stream-designer-17.png)
 
 1. Ange ett chattbot-meddelande och en platshållare. Kontrollera att attributet är mappat till rätt fält i Marketo och klicka på **Spara**.
 
-   ![](assets/stream-designer-13.png)
+   ![](assets/stream-designer-18.png)
 
    <table>
     <tr>
@@ -136,27 +163,27 @@ Strömdesignern innehåller flera kort som du kan lägga till för att forma cha
 
 1. Eftersom det är ett mål att samla in deras e-post drar du målkortet under Info Capture.
 
-   ![](assets/stream-designer-14.png)
+   ![](assets/stream-designer-19.png)
 
 1. Namnge målet (eller välj ett befintligt) och klicka på **Spara**.
 
-   ![](assets/stream-designer-15.png)
+   ![](assets/stream-designer-20.png)
 
 1. Kom ihåg att lägga till ett svar om de säger&quot;Nej&quot;. Ett alternativ är att dra ett meddelandekort nedan och säga&quot;Tack ändå&quot;. Men i det här exemplet ger vi dem ett kostnadsfritt PDF-dokument istället.
 
-   ![](assets/stream-designer-16.png)
+   ![](assets/stream-designer-21.png)
 
 1. I det här exemplet skapar vi ett nytt dokument. Ge den ett namn, ange URL:en till PDF som du redan har en värdserver och klicka på **Spara**.
 
-   ![](assets/stream-designer-17.png)
+   ![](assets/stream-designer-22.png)
 
 1. Välj **Förhandsgranska** om du vill förhandsgranska dialogrutan.
 
-   ![](assets/stream-designer-18.png)
+   ![](assets/stream-designer-23.png)
 
 1. När du är klar att aktivera dialogrutan klickar du på **Publicera**.
 
-   ![](assets/stream-designer-19.png)
+   ![](assets/stream-designer-24.png)
 
 >[!NOTE]
 >
