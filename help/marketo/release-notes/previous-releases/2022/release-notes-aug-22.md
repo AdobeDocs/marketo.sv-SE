@@ -1,9 +1,9 @@
 ---
 description: Versionsinformation - augusti 2022 - Marketo Docs - produktdokumentation
 title: Versionsinformation - augusti 2022
-source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
+source-git-commit: d6a61a92cd00c038813793f50307211ecf88d439
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ Följande funktioner började i en fasad utrullning **26 augusti 2022**.
 
 * **Synlighet för anpassat webbhuvud**: Anpassade webbkrokrubriker visas nu på fliken Admin > Webhooks för bättre synlighet.
 
-* **CAPTCHA**: Utvärdera giltigheten hos inskickade formulär med reCAPTCHA v3 för att poängsätta inkommande trafik. Bygg marknadsföringsarbetsflöden för att automatiskt exkludera, karantän eller ta bort misstänkt robottrafik.
+* **CAPTCHA**: Utvärdera giltigheten hos inskickade formulär [med reCAPTCHA v3](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target=&quot;_blank&quot;} för att få poäng på inkommande formulärtrafik. Bygg marknadsföringsarbetsflöden för att automatiskt exkludera, karantän eller ta bort misstänkt robottrafik.
 
 * **Behörighet att godkänna formulär**: Ny behörighet för att styra vilka designers som kan godkänna ändringar i ett formulär i linje med andra Design Studio-resurser. Detta förhindrar andra designers från att göra ändringar i formulären utan att någon annan behöver ge sitt godkännande.
 

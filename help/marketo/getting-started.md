@@ -3,30 +3,34 @@ unique-page-id: 1147226
 description: Komma igång - Marketo Docs - produktdokumentation
 title: Komma igång
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
+source-git-commit: d6a61a92cd00c038813793f50307211ecf88d439
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 9%
+source-wordcount: '161'
+ht-degree: 8%
 
 ---
 
 # Komma igång {#getting-started}
 
-## STEG 1 Vad är Marketo {#what-is-marketo}
+## Vad är Adobe Marketo Engage? {#what-is-marketo-engage}
 
-Vad är Marketo du frågar? Bra fråga!
+Vad är Marketo Engage, frågar du? Bra fråga!
 
-[Lär dig Marketo](/help/marketo/getting-started/what-is-adobe-marketo-engage.md)
+[Lär dig Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target=&quot;_blank&quot;}
 
-## STEG 2 Konfigurera {#get-set-up}
+## Vilka prisnivåer finns tillgängliga? {#what-pricing-tiers-are-available}
+
+Kolla in [Marketo Engage - priser och paketering](https://www.marketo.com/solutions/pricing/){target=&quot;_blank&quot;} om du vill ha mer information.
+
+## Konfigurera {#get-set-up}
 
 Med lite hjälp från IT-avdelningen kan du få det gjort på nolltid.
 
-[Starta installationen](/help/marketo/getting-started/setup/setup-steps.md)
+[Starta installationen](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}
 
-## STEG 3 Hämta några snabbvinner {#get-some-quick-wins}
+## Få lite snabbvinningar {#get-some-quick-wins}
 
-Utför dessa uppdrag för att lära dig grunderna i Marketo.
+Utför dessa uppdrag för att lära dig grunderna i Marketo Engage.
 
 <table style="table-layout:fixed">
 <tr>
@@ -124,6 +128,4 @@ Utför dessa uppdrag för att lära dig grunderna i Marketo.
 
 ## STEG 4 Grattis! Du är redo för Nation  {#congrats-youre-ready-for-the-nation}
 
-Dags att gå med i Marketing Nation!
-
-[Gå med i Nation](https://nation.marketo.com)
+Kolla in [Marknadsföringsnation](https://nation.marketo.com){target=&quot;_blank&quot;}!
