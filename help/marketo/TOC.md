@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 7edaf40bebec891ac106bcbbaba1fd513d1f642c
+source-git-commit: 75c86cb5005aa4de9892649d071e48b8d41eff02
 workflow-type: tm+mt
-source-wordcount: '8802'
+source-wordcount: '8807'
 ht-degree: 0%
 
 ---
@@ -615,6 +615,10 @@ ht-degree: 0%
          + [Konfiguration](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [Chatbot-beteende](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Dynamiska chattaktiviteter](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+         + Schemaläggning av avtalad tid {#appointment-scheduling}
+            + [Kalender](product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md)
+            + [Möten](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
+            + [Routning](product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md)
          + Integreringar {#integrations}
             + [Ansluta Dynamic Chat till Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
             + [Använda dokumentkortet](product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md)
@@ -1362,7 +1366,7 @@ ht-degree: 0%
             + [Är Sales Insight-åtgärder kompatibla med Salesforce Lightning?](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
             + [Vilka är de senaste klientversionerna?](product-docs/marketo-sales-insight/actions/faq/what-are-the-latest-client-versions.md)
             + [Vilka villkor gäller för Sales Insight Actions?](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
-            + [Varför skickas inga kontakter till Sales Insight-åtgärder?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
+            + [Varför skickas inte mina kontakter till försäljningsåtgärder?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
             + [Varför fylls inte mina dynamiska fält ut?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md)
             + [Varför kan jag inte ta bort en kontakt?](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
             + [Varför skickades inte alla mina kontakter till säljinsiktåtgärder?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
