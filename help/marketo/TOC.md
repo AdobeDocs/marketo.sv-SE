@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 75c86cb5005aa4de9892649d071e48b8d41eff02
+source-git-commit: c6632c7b98bee8b1b2394b2e0d0e584ec2db8845
 workflow-type: tm+mt
-source-wordcount: '8807'
+source-wordcount: '8809'
 ht-degree: 0%
 
 ---
@@ -1605,6 +1605,7 @@ ht-degree: 0%
          + [Redigera prediktivt innehåll för multimedia](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md)
          + [Redigera prediktivt innehåll för rekommendationsfältet](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
    + Rapportering {#reporting}
+      + [Rapportöversikt](product-docs/reporting/reporting-overview.md)
       + Grundläggande rapportering {#basic-reporting}
          + Skapa rapporter {#creating-reports}
             + [Skapa en rapport i ett program](product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)
