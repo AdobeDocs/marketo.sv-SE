@@ -2,10 +2,10 @@
 description: Dynamic Chat Overview - Marketo Docs - produktdokumentation
 title: Dynamisk chattöversikt
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 0ca537b46247eef1e7200180d7c1516465910dac
+source-git-commit: 91e04b4282f18f8074d0192fae42e62dfe5ebb80
 workflow-type: tm+mt
-source-wordcount: '919'
-ht-degree: 0%
+source-wordcount: '845'
+ht-degree: 1%
 
 ---
 
@@ -41,17 +41,15 @@ Anpassa utseendet på dina olika dialogrutor på fliken Konfiguration. Ändra ty
 
 ## Kalender {#calendar}
 
-Anslut din (Outlook eller Gmail) kalender på fliken Kalender för användning vid schemaläggning av möten i chattbot. När en användares kalender är ansluten till Dynamiskt chatt läggs den användaren till i kön och hans/hennes kalender blir tillgänglig för webbplatsbesökare att schemalägga avtalade tider på.
-
-Du kan också anpassa innehållet i den inbjudan som skickas till besökaren när de schemalägger en avtalad tid i användarens kalender.
+Anslut Outlook- eller Gmail-kalendern för användning vid schemaläggning av möten i chattbot. [Läs mer om Kalender](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target=&quot;_blank&quot;}
 
 ## Möten {#meetings}
 
-Här ser du alla avtalade tider som har schemalagts av webbplatsbesökare via olika dialogrutor. Här hittar du e-postadressen till personen som bokade den avtalade tiden, vilken agent de bokade den avtalade tiden med, när den avtalade tiden är schemalagd och om den schemalagda mötestiden har gått eller inte.
+Här ser du alla avtalade tider som har schemalagts av webbplatsbesökare via olika dialogrutor. [Läs mer om möten](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target=&quot;_blank&quot;}
 
 ## Routning {#routing}
 
-Här kan du se en lista över alla agenter som har kopplat samman sina kalendrar samt i vilken ordning de kommer att presenteras för webbplatsens besökare.
+Här kan du se en lista över alla agenter som har kopplat samman sina kalendrar, i vilken ordning de presenteras för webbplatsens besökare och skapa anpassade routningsregler. [Läs mer om routning](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target=&quot;_blank&quot;}
 
 ## Vanliga frågor {#faq}
 
