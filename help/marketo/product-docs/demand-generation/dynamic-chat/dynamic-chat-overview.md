@@ -2,9 +2,9 @@
 description: Dynamic Chat Overview - Marketo Docs - produktdokumentation
 title: Dynamisk chattöversikt
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: c6632c7b98bee8b1b2394b2e0d0e584ec2db8845
+source-git-commit: 0ca537b46247eef1e7200180d7c1516465910dac
 workflow-type: tm+mt
-source-wordcount: '953'
+source-wordcount: '919'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ Här ser du alla avtalade tider som har schemalagts av webbplatsbesökare via ol
 
 ## Routning {#routing}
 
-Här kan du se en lista över alla agenter som har kopplat samman sina kalendrar samt i vilken ordning de kommer att presenteras för webbplatsens besökare. Möten blir till rån, så om du har fem agenter och agent tre tog det senaste mötet får agent 4 nästa, följt av agent fem och sedan tillbaka till agent ett.
+Här kan du se en lista över alla agenter som har kopplat samman sina kalendrar samt i vilken ordning de kommer att presenteras för webbplatsens besökare.
 
 ## Vanliga frågor {#faq}
 
