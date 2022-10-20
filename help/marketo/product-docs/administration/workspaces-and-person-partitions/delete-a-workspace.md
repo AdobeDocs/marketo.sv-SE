@@ -3,10 +3,9 @@ unique-page-id: 2360313
 description: Ta bort en arbetsyta - Marketo Docs - produktdokumentation
 title: Ta bort en arbetsyta
 exl-id: 4968b8bf-bd0d-4055-8b48-43f8d3ffa991
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a7fc7701326c51c802d4c632385d1de355646ad0
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -21,7 +20,7 @@ ht-degree: 0%
 >
 >Du kan inte ta bort standardarbetsytan i Marketo.
 
-1. Klicka på **Arbetsytor och partitioner** under Admin.
+1. Klicka på under Administratör **Arbetsytor och partitioner**.
 
    ![](assets/image2014-9-17-11-3a56-3a34.png)
 
@@ -29,10 +28,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-11-3a56-3a50.png)
 
-   >[!NOTE]
-   >
-   >Glöm inte att **alla resurser under arbetsytan måste tas bort först**.
+1. Bekräfta antalet resurser som du ska ta bort (den visas bredvid&quot;totalt antal resurser&quot;), välj alternativet **Kan inte ångra** kryssruta och klicka sedan **Ta bort**.
 
-1. Bekräfta genom att klicka på **Ta bort**.
-
-   ![](assets/image2014-9-17-11-3a57-3a1.png)
+   ![](assets/delete-a-workspace-3.png)

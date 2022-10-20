@@ -2,23 +2,26 @@
 description: Export av metadata för anpassade objekt - Marketo Docs - produktdokumentation
 title: Exportera metadata för anpassat objekt
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a7fc7701326c51c802d4c632385d1de355646ad0
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Exportera metadata för anpassade objekt {#custom-object-metadata-export}
+# Exportera metadata för anpassat objekt {#custom-object-metadata-export}
 
 Om du använder vårt SOAP API eller Munchkin API kan du exportera det anpassade objektmetadataschemat. Så här hämtar du den.
 
-1. I My Marketo klickar du på **Admin**.
+>[!AVAILABILITY]
+>
+>Alla kunder har inte köpt den här funktionen. Kontakta din Customer Success Manager för mer information.
+
+1. I Min Marketo klickar du på **Administratör**.
 
    ![](assets/custom-object-metadata-export-1.png)
 
-1. Klicka på **Egna Marketo-objekt**.
+1. Klicka **Anpassade Marketo-objekt**.
 
    ![](assets/custom-object-metadata-export-2.png)
 
@@ -26,7 +29,7 @@ Om du använder vårt SOAP API eller Munchkin API kan du exportera det anpassade
 
    ![](assets/custom-object-metadata-export-3.png)
 
-1. Klicka på listrutan **Anpassade objektåtgärder** och välj **Exportera objekt**.
+1. Klicka på **Anpassade objektåtgärder** nedrullningsbar meny och välj **Exportera objekt**.
 
    ![](assets/custom-object-metadata-export-4.png)
 
