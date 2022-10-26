@@ -3,7 +3,7 @@ unique-page-id: 42762511
 description: Konfigurera organisationsmappning för Adobe - Marketo Docs - produktdokumentation
 title: Ställ in organisationsmappning för Adobe
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
+source-git-commit: 492f21f090dc2478271172cf7db470e16f202366
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -52,4 +52,4 @@ För att kunna synkronisera med Adobe-program som Audience Manager, B2B CDP Mark
 
 1. Om du är _not_ redan inloggad visas ett popup-fönster på en ny flik eller i ett nytt fönster. Logga in på din Adobe-organisation (den här åtgärden validerar organisationsåtkomsten).
 
-Och det är allt! Nu kan du [dela målgruppsdata](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target=&quot;_blank&quot;} till eller [synka en målgrupp](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md){target=&quot;_blank&quot;} från Adobe Experience Cloud.
+Och det är allt! Nu kan du [dela målgruppsdata](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target=&quot;_blank&quot;} till eller [synka en målgrupp](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target=&quot;_blank&quot;} från Adobe Experience Cloud.
