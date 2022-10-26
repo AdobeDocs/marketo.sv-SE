@@ -2,9 +2,9 @@
 description: Dynamic Chat-integrering - Marketo Docs - produktdokumentation
 title: Dynamisk chattintegrering
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
-source-git-commit: 676bd1c43fc62b2eae0e4536fb738b5be863e196
+source-git-commit: 9d5c941dc4869b03787a6135550a133ce12b365b
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -58,17 +58,27 @@ Uppnått mål: Inloggad i Marketo och ifylld i Sales Insight när en besökare n
 * Målnamn
 * Sidans URL
 
-Fliken Chatt finns på panelerna Lead och Kontakt. Det innehåller kolumnerna Aktivitetstyp, Dialogrutenamn och Datum.
+Interagerar med dokument: Inloggad i Marketo och ifylld i Sales Insight när en besökare interagerar med ett dokument som delas via chatbot.
+
+* Dialogrutenamn
+* Dokument
+* Status
+
+Chattaktiviteter är tillgängliga i Insights Dashboard.
 
 ![](assets/dynamic-chat-integration-3.png)
 
-Du kan läsa mer om en aktivitetstyp genom att klicka på den.
+Fliken Chatt finns på panelerna Lead och Kontakt. Det innehåller kolumnerna Aktivitetstyp, Dialogrutenamn och Datum.
 
 ![](assets/dynamic-chat-integration-4.png)
 
-På samma sätt innehåller panelerna Namn, Aktivitetstyp, Dialogrutenamn och Datum.
+Du kan läsa mer om en aktivitetstyp genom att klicka på den.
 
 ![](assets/dynamic-chat-integration-5.png)
+
+På samma sätt innehåller panelerna Namn, Aktivitetstyp, Dialogrutenamn och Datum.
+
+![](assets/dynamic-chat-integration-6.png)
 
 Fliken Chatt finns även på fliken Global Marketo. Det innehåller tre aktivitetstyper (engagerad dialog, schemalagd avtalad tid, uppnått mål) tillsammans med följande kolumner:
 
@@ -80,8 +90,15 @@ Fliken Chatt finns även på fliken Global Marketo. Det innehåller tre aktivite
 
 Återigen kan du lära dig mer om en aktivitetstyp genom att klicka på den.
 
-![](assets/dynamic-chat-integration-6.png)
+![](assets/dynamic-chat-integration-7.png)
 
 >[!NOTE]
 >
->Aktiviteten Interagera med dokument kommer att vara tillgänglig i MSI i en kommande version.
+>Om kryssrutan Aktivera dynamiska chattdata är inaktiverad kommer följande funktioner att inaktiveras:
+>
+>* Rad med chattaktiviteter på Instrumentpanelen för insikter (smart rutnät och listvy varje vecka)
+>* Fliken Chatt i panelerna Lead, Kontakt, Konto och Möjligheter
+>* Fliken Chatt på fliken Global Marketo
+>
+>Det går inte att inaktivera endast en av dessa funktioner.
+
