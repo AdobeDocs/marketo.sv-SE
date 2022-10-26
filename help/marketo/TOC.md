@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: c6632c7b98bee8b1b2394b2e0d0e584ec2db8845
+source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
 workflow-type: tm+mt
-source-wordcount: '8809'
+source-wordcount: '8831'
 ht-degree: 0%
 
 ---
@@ -232,6 +232,11 @@ ht-degree: 0%
          + [Redigera en arbetsyta](product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md)
          + [Redigera en befintlig personpartition](product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md)
          + [Dela segment mellan arbetsytor och partitioner](product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
+   + Adobe Experience Cloud Integrations {#adobe-experience-cloud-integrations}
+      + [Adobe Experience Cloud Integrations - översikt](product-docs/adobe-experience-cloud-integrations/adobe-experience-cloud-integrations-overview.md)
+      + [Ställ in organisationsmappning för Adobe](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
+      + [Synkronisera en publik från Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
+      + [Importera resurser med Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
    + Marketo Core Concepts {#core-marketo-concepts}
       + Smarta kampanjer {#smart-campaigns}
          + [Om smarta kampanjer](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
@@ -471,7 +476,6 @@ ht-degree: 0%
          + [Integritetshantering](product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
          + [Sekretessförfrågningar](product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md)
          + [Byta namn på en Marketo-resurs](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-         + [Ställ in organisationsmappning för Adobe](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-organization-mapping.md)
          + [Synkronisera en publik från Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
          + [Om mappar](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [Om meddelanden](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
