@@ -3,7 +3,7 @@ unique-page-id: 37355534
 description: Versionsinformation - jan 2020 - Marketo Docs - produktdokumentation
 title: Versionsinformation - jan 2020
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
-source-git-commit: 153c6a05be7ef94a0bc8b591b8f2eebdf879c5db
+source-git-commit: 12f45e694dccf1d9e51343b5eb9d743a8c513c1f
 workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Följande funktioner kommer att släppas den **17 januari 2020**.
 
 ## Programmet Core Marketo Engage Adobe {#core-marketo-engage-adobe-application}
 
-* [Adobe Experience Manager Resursväljare](/help/marketo/product-docs/adobe-experience-cloud-integrations-overview/importing-assets-with-adobe-experience-manager.md): Få snabbt tillgång till resurser som är anpassade till ert varumärke med AEM resurser som är tillgängliga direkt i Marketo Engage. Obs! Även om den här funktionen är tillgänglig i både vår Marketo Sky och klassiska upplevelser, finns de administrativa funktionerna i vår klassiska upplevelse. Du måste vara kund hos AEM Assets och ha version 6.5 eller senare.
+* [Adobe Experience Manager Resursväljare](/help/marketo/product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md): Få snabbt tillgång till resurser som är anpassade till ert varumärke med AEM resurser som är tillgängliga direkt i Marketo Engage. Obs! Även om den här funktionen är tillgänglig i både vår Marketo Sky och klassiska upplevelser, finns de administrativa funktionerna i vår klassiska upplevelse. Du måste vara kund hos AEM Assets och ha version 6.5 eller senare.
 
 >[!NOTE]
 >

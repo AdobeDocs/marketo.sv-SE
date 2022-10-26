@@ -3,7 +3,7 @@ unique-page-id: 37355768
 description: Importera resurser med Adobe Experience Manager - Marketo Docs - produktdokumentation
 title: Importera resurser med Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
+source-git-commit: 12f45e694dccf1d9e51343b5eb9d743a8c513c1f
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 0%
@@ -28,23 +28,23 @@ Med resursväljaren kan Marketo-kunder komma åt, välja och importera AEM till 
 
 1. Klicka **Design Studio**.
 
-   ![](assets/one-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-1.png)
 
 1. Klicka på listrutan Ny och välj **Importera från Adobe Experience Manager**.
 
-   ![](assets/two-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-2.png)
 
 1. Välj i vilken mapp bilderna ska sparas.
 
-   ![](assets/three-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-3.png)
 
 1. Logga in på Adobe Experience Manager (om du inte redan gjort det).
 
-   ![](assets/four-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-4.png)
 
 1. Välj mapp. Markera sedan bilderna genom att klicka på miniatyrbilden (du kan välja upp till 10). Klicka **Välj** när det är klart.
 
-   ![](assets/five.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-5.png)
 
    >[!NOTE]
    >
@@ -52,11 +52,11 @@ Med resursväljaren kan Marketo-kunder komma åt, välja och importera AEM till 
 
 1. Klicka **Importera** för att slutföra processen.
 
-   ![](assets/six-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-6.png)
 
    Och det är allt! Klicka **Stäng** för att återgå till Design Studio.
 
-   ![](assets/seven-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-7.png)
 
 ## Saker att notera {#things-to-note}
 
