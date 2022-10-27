@@ -1,11 +1,9 @@
 ---
 description: Adobe Experience Cloud Integrations Overview - Marketo Docs - produktdokumentation
 title: Adobe Experience Cloud Integrations - översikt
-hide: true
-hidefromtoc: true
-source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
+source-git-commit: 653ff34c57c6c47544402e58e39042f014b496fa
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -16,7 +14,7 @@ Adobe erbjuder en robust lösning för efterfrågad marknadsföring som börjar 
 
 >[!NOTE]
 >
->Integreringarna, som Audience Manager, B2B CDP Marketo Connector och Dynamic Chat, kan kräva mappning av IMS-organisationen i Marketo Engage. [Läs om hur du konfigurerar organisationsmappning för Adobe här](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target=&quot;_blank&quot;}.
+>Integreringarna, som Audience Manager, B2B CDP Marketo Connector och Dynamic Chat, kan kräva mappning av IMS-organisationen i Marketo Engage. [Lär dig hur du konfigurerar organisationsmappning för Adobe](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target=&quot;_blank&quot;}.
 
 ## Adobe Experience Cloud Integrations {#adobe-experience-cloud-integrations}
 
