@@ -3,9 +3,9 @@ description: Rapportöversikt - Marketo Docs - produktdokumentation
 title: Rapportöversikt
 hide: true
 hidefromtoc: true
-source-git-commit: 9873a01d8828e247a5cb60b88b5239721226615d
+source-git-commit: 4190e80d67d5d694c66e10a30978b08038151701
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '413'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ Marketo erbjuder en mängd rapporteringsmoduler för olika behov.
 
 ## Grundläggande rapportering {#basic-reporting}
 
-Du kan skapa grundläggande rapporter i program eller i Analytics-området. Grundläggande rapporter består av olika typer av färdiga rapporter med flexibiliteten att filtrera, sortera och justera tidsrymder.
+Du kan konfigurera [grundläggande rapporter](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target=&quot;_blank&quot;} i program eller i analysområdet. Grundläggande rapporter består av olika typer av färdiga rapporter med flexibiliteten att filtrera, sortera och justera tidsrymder.
 
 ## E-postinsikter {#email-insights}
 
-Använd Analytics och Sends för att få kraftfulla insikter från historiska data.
+Använd Analytics och Sends för att få [kraftfulla insikter](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target=&quot;_blank&quot;} i e-postmeddelanden från historiska data.
 
 ## Prestandainsikter {#performance-insights}
 
-Performance Insights täcker kanalprestanda och programprestanda för interaktion, pipeline och intäktsgenerering.
+[Prestandainsikter](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target=&quot;_blank&quot;} omfattar kanalprestanda och programprestanda för engagemangs-, pipeline- och intäktsgenerering.
 
 ## Avancerad BI Analytics-rapportering {#advanced-bi-analytics-reporting}
 
@@ -35,7 +35,7 @@ _(kallades tidigare Inkomstcykelutforskaren/Avancerat Report Builder)_
 >
 >Alla kunder har inte köpt modulerna Advanced BI Analytics och Advanced Journey Analytics. Kontakta din Customer Success Manager om du vill ha mer information.
 
-Spåra avkastningen på era marknadsföringssatsningar. Analysera e-post, leads, program, säljprojekt, modellresultatanalys (företag) och modellresultatanalys (leads). Med BI Explorer kan du skapa anpassade rapporter inom analysområdet och skapa diagram, diagram, pivoter och kontrollpaneler med dina data.
+Spåra avkastningen på era marknadsföringssatsningar. Analysera e-post, människor, program, säljprojekt, modellresultatanalys (företag) och modellresultatanalys (leads). Med BI Explorer kan du skapa anpassade rapporter inom analysområdet och skapa diagram, diagram, pivoter och kontrollpaneler med dina data.
 
 Några av fördelarna med avancerad BI Analytics-rapportering:
 
@@ -55,6 +55,10 @@ Några av fördelarna med avancerad BI Analytics-rapportering:
 
 ## Avancerad reseanalys {#advanced-journey-analytics}
 
+>[!AVAILABILITY]
+>
+>Alla kunder har inte köpt modulerna Advanced BI Analytics och Advanced Journey Analytics. Kontakta din Customer Success Manager om du vill ha mer information.
+
 Intäktscykelmodeller - Modellera alla faser i hela intäktstratten och hur de övergår mellan dessa faser, från det att du först interagerar med en lead hela vägen tills leadet är en vinnande kund.
 
 Success Path Analyzer - Få en visuell representation av hastighet och flöde genom intäktscykelmodellen. Success Path Analyzer kräver att du skapar intäktscykelmodeller.
@@ -65,7 +69,7 @@ Affärsmöjlighetsanalys - Bevisa marknadsföringens bidrag genom att mäta effe
 
 >[!NOTE]
 >
->Modellresultatanalys (företag) och modellresultatanalys (leads) med intäktscykelutforskaren beror på intäktscykelmodellen.
+>Model Performance Analysis (Companies) och Model Performance Analysis (Leads) med Advanced BI Analytics Reporting är beroende av den intäktscykelmodell som skapas i den avancerade reseanalysprodukten.
 
 
 
