@@ -3,7 +3,7 @@ description: Rapportöversikt - Marketo Docs - produktdokumentation
 title: Rapportöversikt
 hide: true
 hidefromtoc: true
-source-git-commit: 4190e80d67d5d694c66e10a30978b08038151701
+source-git-commit: fe5d940b9f5e2cec919a52377226d46f708b8a01
 workflow-type: tm+mt
 source-wordcount: '413'
 ht-degree: 0%
@@ -59,13 +59,13 @@ Några av fördelarna med avancerad BI Analytics-rapportering:
 >
 >Alla kunder har inte köpt modulerna Advanced BI Analytics och Advanced Journey Analytics. Kontakta din Customer Success Manager om du vill ha mer information.
 
-Intäktscykelmodeller - Modellera alla faser i hela intäktstratten och hur de övergår mellan dessa faser, från det att du först interagerar med en lead hela vägen tills leadet är en vinnande kund.
+Intäktscykelmodeller: modellera alla faser i hela intäktstratten och hur de övergår mellan dessa faser, från det att du först interagerar med en lead hela vägen tills leadet är en vinnande kund.
 
-Success Path Analyzer - Få en visuell representation av hastighet och flöde genom intäktscykelmodellen. Success Path Analyzer kräver att du skapar intäktscykelmodeller.
+Success Path Analyzer: Få en visuell representation av hastighet och flöde genom er intäktscykelmodell. Success Path Analyzer kräver att du skapar intäktscykelmodeller.
 
-Programanalys - Identifiera snabbt program som är framgångsrika eller inte och fokusera på resurserna på rätt sätt. Använd programanalysverktyget för att granska och jämföra alla kostnader och avkastning i detalj per program eller kanal.
+Program Analyzer: Identifiera snabbt program som är framgångsrika eller inte och fokusera på resurserna på rätt sätt. Använd programanalysverktyget för att granska och jämföra alla kostnader och avkastning i detalj per program eller kanal.
 
-Affärsmöjlighetsanalys - Bevisa marknadsföringens bidrag genom att mäta effekten av program och viktiga engagemang som genererade möjligheter.
+Analys av affärsmöjlighet: Bevisa marknadsföringens bidrag genom att mäta effekten av program och viktiga engagemang som genererade möjligheter.
 
 >[!NOTE]
 >
