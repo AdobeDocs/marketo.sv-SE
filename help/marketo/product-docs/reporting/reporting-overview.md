@@ -1,9 +1,9 @@
 ---
 description: Rapportöversikt - Marketo Docs - produktdokumentation
 title: Rapportöversikt
-source-git-commit: 79f09e37378a232fd4a254131f4eccb730ab263e
+source-git-commit: 0ad41745fbdb24ccbe13cf82b81635448f136e01
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -52,10 +52,6 @@ Några av fördelarna med avancerad BI Analytics-rapportering:
 * Visualisering i grafisk form, värmekartor och distributionskurvor
 
 ## Avancerad reseanalys {#advanced-journey-analytics}
-
->[!AVAILABILITY]
->
->Alla kunder har inte köpt modulerna Advanced BI Analytics och Advanced Journey Analytics. Kontakta din Customer Success Manager om du vill ha mer information.
 
 Intäktscykelmodeller: modellera alla faser i hela intäktstratten och hur de övergår mellan dessa faser, från det att du först interagerar med en lead hela vägen tills leadet är en vinnande kund.
 
