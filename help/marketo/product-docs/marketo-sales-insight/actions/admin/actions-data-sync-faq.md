@@ -2,9 +2,9 @@
 description: Actions Data Sync FAQ - Marketo Docs - produktdokumentation
 title: Vanliga frågor om synkronisering av funktionsmakron
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 3f00a7088a71bbdf028fd6b0a57da57ea13ca5de
+source-git-commit: fbeb28b1b89fb329a4b45fb01dbad7df939ddc0c
 workflow-type: tm+mt
-source-wordcount: '1044'
+source-wordcount: '1050'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ Säljaren behöver inte vara synkroniseringsanvändare för Marketo eller någon
 
 ![](assets/actions-data-sync-faq-3.png)
 
-Aktivitetsdata som e-post, samtal, intressanta ögonblick och webben hämtas från Marketo Engage databas. Sales Insight Smart Grid skickar en begäran till Marketo Engage-instansen om att hämta detta varje gång en säljanvändare läser in panelen Sales Insight.
+Aktivitetsdata som e-post, samtal, intressanta ögonblick och webben kommer från Marketo Engage databas. Sales Insight Smart Grid skickar en begäran till Marketo Engage-instansen om att hämta detta varje gång en säljanvändare läser in panelen Sales Insight.
 
 ![](assets/actions-data-sync-faq-4.png)
 
@@ -55,6 +55,8 @@ Det finns 11 fält som synkroniseras från Marketo Engage till Sales Insight-åt
 * Efternamn
 * Salesforce-kontakt-ID
 * Salesforce lead-ID
+* Salesforce-konto-ID
+* Salesforce-affärsmöjlighets-ID
 * Marketo ID
 * Företag
 * Titel
