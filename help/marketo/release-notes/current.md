@@ -2,7 +2,7 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 9f4282991ba2ec35cfe6f50ede5d663e105682f4
+source-git-commit: ae2e1a476916e752cbde26a7c1322929fec85e4b
 workflow-type: tm+mt
 source-wordcount: '551'
 ht-degree: 1%
@@ -57,7 +57,7 @@ Följande funktioner kommer att lanseras den **14 oktober 2022**, med en stegvis
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr> 
-   <td>Kommer snart</td>
+   <td><i>Kommer snart</i></td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -71,7 +71,7 @@ Följande funktioner kommer att lanseras den **14 oktober 2022**, med en stegvis
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr> 
-   <td>Kommer snart</td>
+   <td><i>Kommer snart</i></td>
    <td>n/a</td>
   </tr>
   </tbody>
