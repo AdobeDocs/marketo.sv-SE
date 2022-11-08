@@ -1,13 +1,13 @@
 ---
 description: Rapportöversikt - Marketo Docs - produktdokumentation
 title: Rapportöversikt
-source-git-commit: 0ad41745fbdb24ccbe13cf82b81635448f136e01
+exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
+source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
 workflow-type: tm+mt
 source-wordcount: '392'
 ht-degree: 0%
 
 ---
-
 
 # Rapportöversikt {#reporting-overview}
 
@@ -64,8 +64,3 @@ Analys av affärsmöjlighet: Bevisa marknadsföringens bidrag genom att mäta ef
 >[!NOTE]
 >
 >Model Performance Analysis (Companies) och Model Performance Analysis (Leads) med Advanced BI Analytics Reporting är beroende av den intäktscykelmodell som skapas i den avancerade reseanalysprodukten.
-
-
-
-
-
