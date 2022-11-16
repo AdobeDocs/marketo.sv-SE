@@ -2,9 +2,9 @@
 description: Konfiguration av Sales Insight Actions i Salesforce - Marketo Docs - produktdokumentation
 title: Konfiguration av åtgärder för försäljningsinsikter i Salesforce
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
+source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,15 @@ ht-degree: 0%
 
    ![](assets/msi-actions-configuration-in-salesforce-3.png)
 
-1. Ange namnet på fjärrplatsen (det kan vara något som &quot;MarketoSalesInsight&quot;). Ange URL:en för fjärrplatsen (https://ims-na1-stg1.adobelogin.com) och klicka på **Spara**.
+1. Ange namnet på fjärrplatsen (det kan vara något som &quot;MarketoSalesInsight1&quot;). Ange URL för fjärrplatsen `https://ims-na1.adobelogin.com` och klicka **Spara**.
 
    ![](assets/msi-actions-configuration-in-salesforce-4.png)
+
+1. Klicka **Ny fjärrplats** igen.
+
+   ![](assets/msi-actions-configuration-in-salesforce-4a.png)
+
+1. Ange namnet på fjärrplatsen (det kan vara något som &quot;MarketoSalesInsight2&quot;). Ange URL för fjärrplats `https://mkto-sales-connect.adobe.io` och klicka **Spara**.
 
 ## Aktivera åtgärder för säljinsikter i hela CRM {#enabling-sales-insight-actions-across-the-crm}
 

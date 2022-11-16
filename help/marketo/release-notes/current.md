@@ -2,7 +2,7 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 7e7a82f49b9f723eed5cbcde766c5be91ac170b5
+source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
 workflow-type: tm+mt
 source-wordcount: '591'
 ht-degree: 1%
@@ -22,6 +22,8 @@ Här nedan hittar du alla funktioner som ingår i versionen från 22 oktober. Se
 Följande funktioner faller under standardversionscykeln och kommer att släppas den **14 oktober 2022**, med en stegvis utrullning av återstående funktioner under de följande veckorna. Versionsfunktioner och datum kan komma att ändras. Kontrollera status för respektive funktion nedan.
 
 ### Nästa generations upplevelser {#next-generation-experience}
+
+</br>
 
 * **Uppdaterade skärmar i nästa generation**: Vi levererar nya, uppdaterade skärmar i nästa generation av upplevelser som erbjuder uppdaterade design- och användarvänlighetsförbättringar som är tillgängliga via växlingsfunktion:
 
@@ -70,6 +72,8 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 ### Marknadsföringsdatamiljö {#marketing-data-environment}
 
+</br>
+
 * **Integrering med Adobe Privacy Service**: Harmonisera med Privacy Service för att automatisera efterlevnaden av datasekretesregler i olika Experience Cloud-produkter. För närvarande är den här tjänsten endast tillgänglig för Marketo Engage som har anslutit sig till Adobe Identity Management System.
 
 <table> 
@@ -86,6 +90,8 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 ### API-förbättringar {#api-enhancements}
 
+</br>
+
 * **Import av massutr: Säljarassociation**: Paritet med Lead REST API för att kunna koppla leads till säljare under bulkimporten, vilket minskar komplexiteten och antalet API-anrop som krävs.
 
 <table> 
@@ -101,6 +107,8 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 </table>
 
 ### Försäljningsinsikter {#sales-insight}
+
+</br>
 
 ![(stjärna)](assets/yellow-star.png)
 
