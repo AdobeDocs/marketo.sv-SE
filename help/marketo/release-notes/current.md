@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: ae2e1a476916e752cbde26a7c1322929fec85e4b
+source-git-commit: 7e7a82f49b9f723eed5cbcde766c5be91ac170b5
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '591'
 ht-degree: 1%
 
 ---
@@ -17,9 +17,110 @@ Här nedan hittar du alla funktioner som ingår i versionen från 22 oktober. Se
 >
 >Funktioner som anges av en stjärna (![stjärna](assets/yellow-star.png)) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
 
-Följande funktioner kommer att lanseras den **14 oktober 2022**, med en stegvis utrullning av återstående funktioner under de följande veckorna. Versionsfunktioner och datum kan komma att ändras. Kontrollera status för respektive funktion nedan.
+## Standardfunktioner för lanseringscykel {#standard-release-cycle-features}
 
-## Flerkanalsmarknadsföring {#cross-channel-orchestration}
+Följande funktioner faller under standardversionscykeln och kommer att släppas den **14 oktober 2022**, med en stegvis utrullning av återstående funktioner under de följande veckorna. Versionsfunktioner och datum kan komma att ändras. Kontrollera status för respektive funktion nedan.
+
+### Nästa generations upplevelser {#next-generation-experience}
+
+* **Uppdaterade skärmar i nästa generation**: Vi levererar nya, uppdaterade skärmar i nästa generation av upplevelser som erbjuder uppdaterade design- och användarvänlighetsförbättringar som är tillgängliga via växlingsfunktion:
+
+   * Information om landningssidmall
+   * E-postmallslista
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Dokumentationsuppdateringar</b></td>
+  </tr>
+  <tr> 
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md">Växla av/på</a></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Förbättrad användning per flik i Information om e-postmall**: I den nya versionen visas ytterligare information om resurser som använder e-postmallen, inklusive Resursstatus, Senast ändrad och Senast ändrad av. Du kan också söka efter, sortera och filtrera listan som används av resurser.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Dokumentationsuppdateringar</b></td>
+  </tr>
+  <tr> 
+   <td>Levererat</td>
+   <td>n/a</td>
+  </tr>
+  </tbody>
+</table>
+
+* **Rapportera resursfiltermoduler**: Ny design för rapportkonfigurationsmoduler som visar ett nytt resursträd på konfigurationsmenyn och ett filter för Skapat och Ändrat den.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Dokumentationsuppdateringar</b></td>
+  </tr>
+  <tr> 
+   <td>Levererat</td>
+   <td>n/a</td>
+  </tr>
+  </tbody>
+</table>
+
+### Marknadsföringsdatamiljö {#marketing-data-environment}
+
+* **Integrering med Adobe Privacy Service**: Harmonisera med Privacy Service för att automatisera efterlevnaden av datasekretesregler i olika Experience Cloud-produkter. För närvarande är den här tjänsten endast tillgänglig för Marketo Engage som har anslutit sig till Adobe Identity Management System.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Dokumentationsuppdateringar</b></td>
+  </tr>
+  <tr> 
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
+  </tr>
+  </tbody>
+</table>
+
+### API-förbättringar {#api-enhancements}
+
+* **Import av massutr: Säljarassociation**: Paritet med Lead REST API för att kunna koppla leads till säljare under bulkimporten, vilket minskar komplexiteten och antalet API-anrop som krävs.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Dokumentationsuppdateringar</b></td>
+  </tr>
+  <tr> 
+   <td>Levererat</td>
+   <td><a href="https://developers.marketo.com/rest-api/bulk-import/bulk-lead-import/">Import av massutr</a></td>
+  </tr>
+  </tbody>
+</table>
+
+### Försäljningsinsikter {#sales-insight}
+
+![(stjärna)](assets/yellow-star.png)
+
+* **Sales Insight Integration with Dynamic Chat**: Insikter Dashboard innehåller nu Dynamic Chat-aktiviteter i det smarta rutnätet tillsammans med en sammanfattning och detaljerade kort varje vecka.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Dokumentationsuppdateringar</b></td>
+  </tr>
+  <tr> 
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Dynamisk chattintegrering</a></td>
+  </tr>
+  </tbody>
+</table>
+
+## Agile Release-funktioner
+
+Följande funktioner följer ett Agile-format och släpps på olika datum före eller efter standardreleasedatum. Kontrollera status för respektive funktion nedan.
 
 * **Ordna dialogströmmar automatiskt för dynamiskt chatt**: Förbättra arbetsytan i den fullmatade dialogen genom att ordna allt på arbetsytan i ett rent och lättläst format med en knapptryckning genom att ordna automatiskt.
 
@@ -73,103 +174,6 @@ Följande funktioner kommer att lanseras den **14 oktober 2022**, med en stegvis
   <tr> 
    <td><i>Kommer snart</i></td>
    <td>n/a</td>
-  </tr>
-  </tbody>
-</table>
-
-## Nästa generations upplevelser {#next-generation-experience}
-
-* **Uppdaterade skärmar i nästa generation**: Vi levererar nya, uppdaterade skärmar i nästa generation av upplevelser som erbjuder uppdaterade design- och användarvänlighetsförbättringar som är tillgängliga via växlingsfunktion:
-
-   * Information om landningssidmall
-   * E-postmallslista
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td>Levererat</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md">Växla av/på</a></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Förbättrad användning per flik i Information om e-postmall**: I den nya versionen visas ytterligare information om resurser som använder e-postmallen, inklusive Resursstatus, Senast ändrad och Senast ändrad av. Du kan också söka efter, sortera och filtrera listan som används av resurser.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td>Levererat</td>
-   <td>n/a</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Rapportera resursfiltermoduler**: Ny design för rapportkonfigurationsmoduler som visar ett nytt resursträd på konfigurationsmenyn och ett filter för Skapat och Ändrat den.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td>Levererat</td>
-   <td>n/a</td>
-  </tr>
-  </tbody>
-</table>
-
-## Marknadsföringsdatamiljö {#marketing-data-environment}
-
-* **Integrering med Adobe Privacy Service**: Harmonisera med Privacy Service för att automatisera efterlevnaden av datasekretesregler i olika Experience Cloud-produkter. För närvarande är den här tjänsten endast tillgänglig för Marketo Engage som har anslutit sig till Adobe Identity Management System.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td>Levererat</td>
-   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
-  </tr>
-  </tbody>
-</table>
-
-## API-förbättringar {#api-enhancements}
-
-* **Import av massutr: Säljarassociation**: Paritet med Lead REST API för att kunna koppla leads till säljare under bulkimporten, vilket minskar komplexiteten och antalet API-anrop som krävs.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td>Levererat</td>
-   <td><a href="https://developers.marketo.com/rest-api/bulk-import/bulk-lead-import/">Import av massutr</a></td>
-  </tr>
-  </tbody>
-</table>
-
-## Försäljningsinsikter {#sales-insight}
-
-![(stjärna)](assets/yellow-star.png)
-
-* **Sales Insight Integration with Dynamic Chat**: Insikter Dashboard innehåller nu Dynamic Chat-aktiviteter i det smarta rutnätet tillsammans med en sammanfattning och detaljerade kort varje vecka.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td>Levererat</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Dynamisk chattintegrering</a></td>
   </tr>
   </tbody>
 </table>
