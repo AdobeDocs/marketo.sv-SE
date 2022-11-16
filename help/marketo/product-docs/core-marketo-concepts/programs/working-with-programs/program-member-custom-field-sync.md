@@ -1,10 +1,8 @@
 ---
 description: Anpassade fält för programmedlemmar - Marketo Docs - produktdokumentation
 title: Anpassade fält för programmedlem
-hide: true
-hidefromtoc: true
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
-source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
+source-git-commit: ef3ab6ec245a9d2e1bf89033d9406992061e5420
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 0%
