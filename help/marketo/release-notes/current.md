@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
+source-git-commit: f656901c3a25e043e59411857190f4711036637d
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '629'
 ht-degree: 1%
 
 ---
@@ -20,6 +20,24 @@ Här nedan hittar du alla funktioner som ingår i versionen från 22 oktober. Se
 ## Standardfunktioner för lanseringscykel {#standard-release-cycle-features}
 
 Följande funktioner faller under standardversionscykeln och kommer att släppas den **14 oktober 2022**, med en stegvis utrullning av återstående funktioner under de följande veckorna. Versionsfunktioner och datum kan komma att ändras. Kontrollera status för respektive funktion nedan.
+
+### Marknadsföringsdatamiljö {#marketing-data-environment}
+
+</br>
+
+* **Synkronisering av anpassade fält för programmedlem**: Möjlighet att dubbelriktat synkronisera utökningsbara fält som tagits emot för en programmedlem (t.ex. deltagarinställningar under händelseregistrering som mat, sessioner, spår osv.)
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Dokumentationsuppdateringar</b></td>
+  </tr>
+  <tr> 
+   <td><i>Kommer snart</i></td>
+   <td><i>Kommer snart</i></td>
+  </tr>
+  </tbody>
+</table>
 
 ### Nästa generations upplevelser {#next-generation-experience}
 
