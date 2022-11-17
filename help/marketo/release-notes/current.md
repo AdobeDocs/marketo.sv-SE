@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: f656901c3a25e043e59411857190f4711036637d
+source-git-commit: 3bc69f05fc72d6fd03f00410fa174829feb90e48
 workflow-type: tm+mt
-source-wordcount: '629'
+source-wordcount: '626'
 ht-degree: 1%
 
 ---
@@ -35,6 +35,20 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   <tr> 
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Integrering med Adobe Privacy Service**: Harmonisera med Privacy Service för att automatisera efterlevnaden av datasekretesregler i olika Experience Cloud-produkter. För närvarande är den här tjänsten endast tillgänglig för Marketo Engage som har anslutit sig till Adobe Identity Management System.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Dokumentationsuppdateringar</b></td>
+  </tr>
+  <tr> 
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
   </tr>
   </tbody>
 </table>
@@ -84,24 +98,6 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   <tr> 
    <td>Levererat</td>
    <td>n/a</td>
-  </tr>
-  </tbody>
-</table>
-
-### Marknadsföringsdatamiljö {#marketing-data-environment}
-
-</br>
-
-* **Integrering med Adobe Privacy Service**: Harmonisera med Privacy Service för att automatisera efterlevnaden av datasekretesregler i olika Experience Cloud-produkter. För närvarande är den här tjänsten endast tillgänglig för Marketo Engage som har anslutit sig till Adobe Identity Management System.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td>Levererat</td>
-   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
   </tr>
   </tbody>
 </table>
