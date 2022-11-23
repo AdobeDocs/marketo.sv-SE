@@ -3,9 +3,9 @@ unique-page-id: 2949469
 description: Installationssteg - Marketo Docs - produktdokumentation
 title: Installationssteg
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: fed5fc3a511022fbac40b8ad369a1cdda5112167
+source-git-commit: 7b0f5e9e39a2521c32a9b718a07c3ed524079eaf
 workflow-type: tm+mt
-source-wordcount: '2002'
+source-wordcount: '2085'
 ht-degree: 0%
 
 ---
@@ -151,11 +151,11 @@ Du kan vidta flera åtgärder för att se till att e-postmeddelandena når så m
 
 * **Lägg till spårningslänkar**. Du kan välja en CNAME att använda din egen domän (i stället för Marketo) i de länkar som du inkluderar i e-postmeddelanden från Marketo. Detta stärker er domänprofilering och ökar förtroendet och leveransförmågan hos era mottagare.
 * **Lägg till Marketo i företagets e-post tillåtelselista.** Det är en vanlig god praxis att skicka testmeddelanden till testkonton innan e-post skickas till verkliga personer. Genom att tillåtslista Marketo kan du förhindra att testmeddelanden blockeras eller flaggas som skräppost.
-* **Konfigurera SPF och DKIM.** Dessa tekniker säkerställer att dina e-postmeddelanden från Marketo inte är skräppost. Följ de här stegen för att förhindra att mottagare stöter bort skräppostfilter från Marketo e-postmeddelanden: [Konfigurera en SPF och DKIM för din e-postleverans](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
-* **Konfigurera en MX-post för din domän.** Med en MX-post kan du ta emot e-post till domänen som du skickar e-post från för att bearbeta svar och automatiska svar. Om du skickar från din företagsdomän har du förmodligen redan detta konfigurerat. Annars kan du vanligtvis konfigurera så att den mappar till företagets domäns MX-post.
+* **Konfigurera SPF och DKIM.** Dessa tekniker säkerställer att dina e-postmeddelanden från Marketo inte är skräppost. Följ de här stegen för att förhindra att mottagarnas skräppostfilter avvisar e-postmeddelanden från Marketo: [Konfigurera en SPF och DKIM för din e-postleverans](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
+* **Konfigurera en MX-post för din domän.** Med en MX-post kan du ta emot e-post till domänen som du skickar e-post från för att bearbeta svar och automatiska svar. Om du skickar från din företagsdomän har du förmodligen redan konfigurerat detta. Annars kan du vanligtvis konfigurera så att den mappar till företagets domäns MX-post.
 * **Rekommenderade inställningar för Från-adressen.** Du måste använda en giltig, befintlig och fungerande e-postdomän i Från adress i alla e-postkampanjer. Det kan vara bra att konfigurera en underdomän till din företagsdomän i stället för att skicka från din företagsdomän. Detta säkerställer att problem från företagets e-postström inte påverkar Marketo mailstream och vice versa. Dessutom skickar du e-post från `something@nonexistentdomain.com` gör att e-post filtreras eller blockeras. Alla domäner som används i avsändarens Från-adress måste ha ett giltigt och fungerande postmaster@- och missbruk@-konto.
 
-Om du använder Google Apps som värd för din företagsinformation kan du inte skapa missbruk@- eller postmaster@-e-post under din domän. För att komma runt detta måste du skapa grupper som heter &quot;missbruk&quot; och &quot;postmaster&quot;. Användare som är medlemmar i dessa grupper får e-postmeddelanden som skickas till dessa adresser (t.ex. postmaster@domain.com). Detaljerade instruktioner för hur du skapar grupper finns [här](https://support.google.com/a/answer/33343#adminconsole){target=&quot;_blank&quot;}.
+Om du använder Google Apps för att lagra din företagsmejl kan du inte skapa missbruk@- eller postmaster@-e-post under din domän. För att komma runt detta måste du skapa grupper som heter &quot;missbruk&quot; och &quot;postmaster&quot;. Användare som är medlemmar i dessa grupper får e-postmeddelanden som skickas till dessa adresser (t.ex. postmaster@domain.com). Detaljerade instruktioner för hur du skapar grupper finns [här](https://support.google.com/a/answer/33343#adminconsole){target=&quot;_blank&quot;}.
 
 Välj en CNAME för länkar för e-postspårning (välj en som är _olika_ från landningssidan (CNAME du valde i steg 3). Några exempel:
 
@@ -167,7 +167,7 @@ Den första delen är e-postspårningen CNAME, `[EmailTrackingCNAME]`. Du måste
 
 >[!CAUTION]
 >
->CNAME-filer för e-post och landningssida måste vara olika. Undvik också CNAME som&quot;track&quot; eller&quot;link&quot;. Den flaggas ofta som skräppost
+>CNAME-filer för e-post och landningssida måste vara olika. Undvik också CNAME-filer som&quot;track&quot; eller&quot;link&quot;. Den flaggas ofta som skräppost
 
 Om du vill hitta spårningslänken för Marketo går du till **Administratör** område.
 
@@ -238,7 +238,7 @@ Vårt marknadsföringsteam använder nu Marketo-plattformen för att kommunicera
 
 >[!NOTE]
 >
->Kontakta Marketo Support om du vill ha en lista över IP-adresser som kan tillåtslista specifikt för just din miljö.
+>Kontakta Marketo Support om du vill ha en förkortad lista över IP-adresser som kan tillåtslista specifikt för just din miljö.
 
     * Om vårt antispam-system använder Från domäner lägger du till följande:
 
@@ -340,5 +340,9 @@ Marketo har anpassad spårning av JavaScript (kallas Munchkin) som du kan använ
 >[!NOTE]
 >
 >Upplevelse med HTML krävs för att lägga till spårningskoden.
+
+## Prestandaförväntningar {#performance-expectations}
+
+Vad kan du förvänta dig när det gäller prestanda från Marketo? Den kan variera beroende på hur stora och komplexa era marknadsföringskampanjer är. Men du kan förvänta dig prestandanivåer som är jämförbara med vad som beskrivs i kolumnen &quot;Standard&quot; i flera av tabellerna i [Marketo Engage produktbeskrivning](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target=&quot;_blank&quot;}. Kolumnerna&quot;Prestanda&quot; och&quot;Prestanda plus&quot; refererar till prestandanivåpaket som innehåller [högre prestandanivåer](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target=&quot;_blank&quot;}.
 
 Alla installationssteg är klara. Det enda som återstår är att dyka in och använda Marketo!
