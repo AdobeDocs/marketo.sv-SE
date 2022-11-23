@@ -2,9 +2,9 @@
 description: Global Form Validation Rules - Marketo Docs - Product Documentation
 title: Valideringsregler för globala formulär
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: 2736e8a0456de76b9894312c26f6ba9c0345daee
+source-git-commit: d9e605d31e9a3434849ba800ba527775885ab34a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -69,7 +69,7 @@ Innan du kan använda den här funktionen måste du aktivera dess behörighet pe
 
 >[!NOTE]
 >
->Marketo Engage har en definierad blockeringslista av kostnadsfria e-postdomäner för konsumenter som blockeras när vår förinlästa regel&quot;Blockeringslista för e-postdomän för konsumenter&quot; används. [Visa listan här](/help/marketo/product-docs/administration/settings/assets/freemaildomains_2023.csv).
+>Marketo Engage har en definierad blockeringslista av kostnadsfria e-postdomäner för konsumenter som blockeras när vår förinlästa regel&quot;Blockeringslista för e-postdomän för konsumenter&quot; används. [Visa listan här](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
 
 ## Inaktivera åtkomst per formulär{#how-to-disable-access-per-form}
 
