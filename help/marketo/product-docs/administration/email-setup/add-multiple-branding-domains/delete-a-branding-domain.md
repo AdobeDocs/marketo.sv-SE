@@ -3,23 +3,26 @@ unique-page-id: 11378041
 description: Ta bort en profileringsdomän - Marketo Docs - produktdokumentation
 title: Ta bort en profileringsdomän
 exl-id: 12cbb8c0-4846-46cb-ba5a-d54a69523585
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
 # Ta bort en profileringsdomän {#delete-a-branding-domain}
 
-1. I My Marketo klickar du på **Admin** och sedan på länken **E-post**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2016-6-29-16-3a42-3a20.png)
+   ![](assets/delete-a-branding-domain-1.png)
 
-1. Markera den domän som du vill ta bort i tabellen Varumärken och klicka på **Ta bort**.
+1. Klicka **E-post**.
 
-   ![](assets/image2016-8-12-11-3a0-3a26.png)
+   ![](assets/delete-a-branding-domain-2.png)
+
+1. Markera den domän du vill ta bort i tabellen Varumärken och klicka på **Ta bort**.
+
+   ![](assets/delete-a-branding-domain-3.png)
 
    >[!NOTE]
    >

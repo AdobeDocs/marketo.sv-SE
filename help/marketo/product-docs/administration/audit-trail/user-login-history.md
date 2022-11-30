@@ -3,15 +3,14 @@ unique-page-id: 11377958
 description: Användarinloggningshistorik - Marketo Docs - produktdokumentation
 title: Historik för användarinloggning
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
 
 ---
 
-# Användarinloggningshistorik {#user-login-history}
+# Historik för användarinloggning {#user-login-history}
 
 Användarens inloggningshistorik hjälper till att upprätthålla ansvarighet och säkerhet genom att visa exakt vem som har loggat in på din prenumeration, inklusive misslyckade inloggningsförsök.
 
@@ -29,37 +28,41 @@ Historik för användarinloggning identifierar personer som loggar in via:
 
 Så här visar du användarens inloggningshistorik:
 
-1. Klicka på fliken **Admin** och klicka på **Användare och roller** under Säkerhet.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2016-7-12-9-3a2-3a31.png)
+   ![](assets/user-login-history-1.png)
 
-1. Klicka på fliken **Inloggningshistorik**. I listan visas de senaste inloggningarna.
+1. Klicka på under Dokumentskydd **Användare och roller**.
 
-   ![](assets/login-history-tab.jpg)
+   ![](assets/user-login-history-2.png)
+
+1. Klicka på **Inloggningshistorik** -fliken. I listan visas de senaste inloggningarna.
+
+   ![](assets/user-login-history-3.png)
 
 1. Använd filtret för att begränsa sökningen.
 
-   ![](assets/filter-main.jpg)
+   ![](assets/user-login-history-4.png)
 
 1. Välj ett datumintervall med datumväljarna.
 
-   ![](assets/select-date-range-hand.jpg)
+   ![](assets/user-login-history-5.png)
 
 1. Du kan också välja i listrutan.
 
-   ![](assets/filter-select-from-dropdown.jpg)
+   ![](assets/user-login-history-6.png)
 
-1. Välj användare i listrutan **Användare**.
+1. Välj användare från **Användare** nedrullningsbar meny.
 
-   ![](assets/user-dropdown.jpg)
+   ![](assets/user-login-history-7.png)
 
-1. Markera rutan **Endast misslyckade inloggningar** om du bara vill visa misslyckade inloggningar i sökningen.
+1. Kontrollera **Endast misslyckade inloggningar** om du bara vill visa misslyckade inloggningar i sökningen.
 
-   ![](assets/only-failed-logins.jpg)
+   ![](assets/user-login-history-8.png)
 
-1. Klicka på **Använd**.
+1. Klicka **Använd**.
 
-   ![](assets/click-apply-real.jpg)
+   ![](assets/user-login-history-9.png)
 
    >[!NOTE]
    >
