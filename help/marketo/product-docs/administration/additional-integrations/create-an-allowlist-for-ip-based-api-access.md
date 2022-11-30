@@ -3,10 +3,9 @@ unique-page-id: 10098433
 description: Skapa ett Tillåtelselista för IP-baserad API-åtkomst - Marketo Docs - produktdokumentation
 title: Skapa ett Tillåtelselista för IP-baserad API-åtkomst
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -19,26 +18,30 @@ Ibland vill du bara ge API-åtkomst till en viss IP-adress eller ett adressinter
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **Admin** och klicka på **Webbtjänster**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2016-2-25-9-3a12-3a48.png)
+   ![](assets/create-an-allowlist-for-ip-based-api-access-1.png)
 
-1. I området IP-begränsningar klickar du på **Redigera,** eller på **Redigera IP-begränsningar** i det övre vänstra hörnet.
+1. Klicka **Webbtjänster**.
 
-   ![](assets/image2016-2-25-9-3a15-3a30.png)
+   ![](assets/create-an-allowlist-for-ip-based-api-access-2.png)
 
-1. Markera rutan **Aktivera IP-begränsningar** och ange de IP-adresser som du vill tillåtslista.
+1. Klicka på i området IP-begränsningar **Redigera,** eller klicka **Redigera IP-begränsningar** i det övre vänstra hörnet.
 
-   ![](assets/image2016-2-25-9-3a18-3a28.png)
+   ![](assets/create-an-allowlist-for-ip-based-api-access-3.png)
+
+1. Kontrollera **Aktivera IP-begränsningar** och ange de IP-adresser som du vill tillåtslista.
+
+   ![](assets/create-an-allowlist-for-ip-based-api-access-4.png)
 
    >[!NOTE]
    >
    >Du kan ange en enstaka IP-adress eller ett intervall av dessa eller använda ett jokertecken.
 
-1. Klicka på **Lägg till** för att öppna ytterligare fält och ange fler IP-adresser.
+1. Klicka **Lägg till** om du vill öppna ytterligare fält för att ange fler IP-adresser.
 
-   ![](assets/image2016-2-25-9-3a20-3a47.png)
+   ![](assets/create-an-allowlist-for-ip-based-api-access-5.png)
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
-   ![](assets/image2016-2-25-9-3a28-3a21.png)
+   ![](assets/create-an-allowlist-for-ip-based-api-access-6.png)

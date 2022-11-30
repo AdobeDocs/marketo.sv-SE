@@ -3,9 +3,9 @@ unique-page-id: 2360360
 description: Skapa en webkrok - Marketo Docs - produktdokumentation
 title: Skapa en webbkrok
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
-source-git-commit: 25a574719eb6c064d33b6a1cebafe2668ed1330d
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,21 @@ Använd webhooks för att dra nytta av webbtjänster från tredje part för att 
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
-1. Gå till **Administratör** och klicka **Webhooks**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2014-9-24-14-3a52-3a57.png)
+   ![](assets/create-a-webhook-1.png)
+
+1. Klicka **Webhooks**.
+
+   ![](assets/create-a-webhook-2.png)
 
 1. Klicka **Ny webkrok**.
 
-   ![](assets/image2014-9-24-14-3a53-3a9.png)
+   ![](assets/create-a-webhook-3.png)
 
 1. Namnge och konfigurera din webkrok.
 
-   ![](assets/image2014-9-24-14-3a53-3a19.png)
+   ![](assets/create-a-webhook-4.png)
 
    >[!NOTE]
    >
@@ -44,9 +48,9 @@ Använd webhooks för att dra nytta av webbtjänster från tredje part för att 
 
    * **Typ av begäran**: Välj den HTTP-metod som ska användas (DELETE, GET, PATCH, POST, PUT).
 
-   Klicka **Skapa**.
+1. Klicka **Skapa**.
 
-   ![](assets/image2014-9-24-14-3a53-3a35.png)
+   ![](assets/create-a-webhook-5.png)
 
 >[!NOTE]
 >

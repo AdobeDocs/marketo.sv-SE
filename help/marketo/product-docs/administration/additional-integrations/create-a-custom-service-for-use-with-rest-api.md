@@ -3,10 +3,9 @@ unique-page-id: 2360350
 description: Skapa en anpassad tjänst för användning med ReST API - Marketo Docs - produktdokumentation
 title: Skapa en anpassad tjänst för användning med ReST API
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -19,9 +18,7 @@ Om du vill integrera med Marketo via ReST API:t måste du skapa en anpassad tjä
 >
 >* [Skapa en användarroll endast för API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
 >* [Skapa endast en API-användare](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
-
 >
-
 
 
 >[!NOTE]
@@ -30,53 +27,57 @@ Om du vill integrera med Marketo via ReST API:t måste du skapa en anpassad tjä
 
 >[!TIP]
 >
->Läs dokumentationen till våra utvecklare för mer information om [ReST API](https://developers.marketo.com/documentation/rest/). Vi har också [SOAP API](https://developers.marketo.com/documentation/soap/) om det är det du behöver.
-
->[!NOTE]
->
->Du kan inte skapa en anpassad tjänst om du har Spark-nivån i Marketo.
+>Läs mer om våra utvecklares dokumentation om [ReST API](https://developers.marketo.com/documentation/rest/). Vi har också [SOAP API](https://developers.marketo.com/documentation/soap/) om det är vad du behöver.
 
 ## Skapa anpassad tjänst {#create-custom-service}
 
-1. Gå till **Admin** och klicka på **LaunchPoint**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2014-9-19-10-3a38-3a15.png)
+   ![](assets/create-a-custom-service-for-use-with-rest-api-1.png)
 
-1. Under **Ny** klickar du på **Ny tjänst**.
+1. Klicka **LaunchPoint**.
 
-   ![](assets/image2014-9-19-10-3a38-3a22.png)
+   ![](assets/create-a-custom-service-for-use-with-rest-api-2.png)
 
-1. Ange ett **visningsnamn** för tjänsten. Välj **API-endast användare** [som tidigare skapats](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
+1. Välj **Nytt** och sedan **Ny tjänst**.
+
+   ![](assets/create-a-custom-service-for-use-with-rest-api-3.png)
+
+1. Ange **Visningsnamn** för tjänsten. Välj **Endast API-användare** [tidigare skapat](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
+
+   ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 
    >[!NOTE]
    >
    >Observera att vi redan har inbyggd integrering för populära webbinärtjänster.
 
-   ![](assets/image2014-9-19-10-3a38-3a32.png)
+1. Klicka **Skapa**.
 
-1. Klicka på **Skapa**.
-
-   ![](assets/image2014-9-19-10-3a39-3a28.png)
+   ![](assets/create-a-custom-service-for-use-with-rest-api-5.png)
 
    Absolut! Tjänsten är nu skapad. Låt oss gå vidare och hämta alla autentiseringsuppgifter för åtkomst.
 
 ## Autentiseringsuppgifter för API-åtkomst {#credentials-for-api-access}
 
-1. Gå till **Admin** och klicka på **LaunchPoint**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2014-9-19-10-3a42-3a11.png)
+   ![](assets/create-a-custom-service-for-use-with-rest-api-6.png)
 
-1. Klicka på **Visa information** för den anpassade LaunchPoint-tjänsten som skapats ovan.
+1. Klicka **LaunchPoint**.
 
-   ![](assets/image2014-9-19-10-3a42-3a16.png)
+   ![](assets/create-a-custom-service-for-use-with-rest-api-7.png)
 
-1. Klicka på **Hämta token**.
+1. Klicka **Visa detaljer** för den anpassade LaunchPoint-tjänsten som skapats ovan.
 
-   ![](assets/image2014-9-19-10-3a42-3a24.png)
+   ![](assets/create-a-custom-service-for-use-with-rest-api-8.png)
 
-1. Ange **klient-ID**, **klienthemlighet**, **auktoriserad användare** och **token** till den person som ansvarar för att upprätta anslutningen.
+1. Klicka **Hämta token**.
 
-   ![](assets/image2014-9-19-10-3a42-3a38.png)
+   ![](assets/create-a-custom-service-for-use-with-rest-api-9.png)
+
+1. Ange **Klient-ID**, **Klienthemlighet**, **Auktoriserad användare** och **Token** till den person som ansvarar för att upprätta anslutningen.
+
+   ![](assets/create-a-custom-service-for-use-with-rest-api-10.png)
 
 >[!CAUTION]
 >

@@ -3,9 +3,9 @@ unique-page-id: 2360358
 description: Begränsa användarinloggning till enbart enkel inloggning - Marketo Docs - produktdokumentation
 title: Begränsa användarinloggning till enbart enkel inloggning
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
-source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -22,17 +22,21 @@ Om du är [med SSO](/help/marketo/product-docs/administration/additional-integra
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **Administratör** och klicka **Inloggningsinställningar**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2014-9-24-14-3a44-3a40.png)
+   ![](assets/restrict-user-login-to-sso-only-1.png)
+
+1. Klicka **Inloggningsinställningar**.
+
+   ![](assets/restrict-user-login-to-sso-only-2.png)
 
 1. Klicka **Redigera skyddsinställningar**.
 
-   ![](assets/image2014-9-24-14-3a44-3a53.png)
+   ![](assets/restrict-user-login-to-sso-only-3.png)
 
 1. Expandera de avancerade inställningarna, kontrollera **Kräv enkel inloggning** och klicka **Spara**.
 
-![](assets/image2014-9-24-14-3a45-3a6.png)
+![](assets/restrict-user-login-to-sso-only-4.png)
 
 >[!NOTE]
 >

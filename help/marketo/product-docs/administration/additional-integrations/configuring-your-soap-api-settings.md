@@ -3,10 +3,9 @@ unique-page-id: 2360352
 description: Konfigurera dina SOAP API-inställningar - Marketo Docs - produktdokumentation
 title: Konfigurera dina SOAP API-inställningar
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -21,13 +20,17 @@ ht-degree: 0%
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **Admin** och klicka på **Webbtjänster**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2014-9-19-10-3a58-3a11.png)
+   ![](assets/configuring-your-soap-api-settings-1.png)
 
-1. Ange en lämplig **krypteringsnyckel**, klicka på **Spara ändringar** och skicka all information till din utvecklare.
+1. Klicka **Webbtjänster**.
 
-   ![](assets/image2014-9-19-11-3a0-3a46.png)
+   ![](assets/configuring-your-soap-api-settings-2.png)
+
+1. Ange lämplig **Krypteringsnyckel**, klicka **Spara ändringar** och skicka all information till din utvecklare.
+
+   ![](assets/configuring-your-soap-api-settings-3.png)
 
 >[!CAUTION]
 >

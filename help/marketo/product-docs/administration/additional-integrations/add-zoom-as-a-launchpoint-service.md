@@ -3,10 +3,9 @@ unique-page-id: 17728028
 description: Lägg till zoom som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
 title: Lägg till zoom som en LaunchPoint-tjänst
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -23,29 +22,33 @@ Marketo hanterar din zoomregistrering och närvaro.
 >
 >En befintlig prenumeration på Zoom och administrationsrättigheter krävs för det här steget. Ha e-postadressen och lösenordet du använder för att logga in på Zoom till hands.
 
-1. Gå till området **Admin** och klicka på **LaunchPoint**.
+1. Gå till **Administratör** område.
 
-   ![](assets/launchpoint.png)
+   ![](assets/add-zoom-as-a-launchpoint-service-1.png)
 
-1. Klicka på listrutan **Ny** och välj **Ny tjänst**.
+1. Klicka **LaunchPoint**.
 
-   ![](assets/newservicelp.png)
+   ![](assets/add-zoom-as-a-launchpoint-service-2.png)
 
-1. Ange ett **visningsnamn**. Under **Service** väljer du **Zooma**.
+1. Välj **Nytt** och sedan **Ny tjänst**.
 
-   ![](assets/newservice-1.png)
+   ![](assets/add-zoom-as-a-launchpoint-service-3.png)
 
-1. Klicka på **Logga in i zoom**.
+1. Ange **Visningsnamn**. Under **Tjänst**, markera **Zooma**.
 
-   ![](assets/login.png)
+   ![](assets/add-zoom-as-a-launchpoint-service-4.png)
+
+1. Klicka **Logga in i zoom**.
+
+   ![](assets/add-zoom-as-a-launchpoint-service-5.png)
 
 1. I inloggningsfönstret för Zoom anger du dina inloggningsuppgifter för Zoom och klickar på **Logga in**.
 
-   ![](assets/zoomlogin.png)
+   ![](assets/add-zoom-as-a-launchpoint-service-6.png)
 
 1. När fönstret stängs klickar du på **Skapa**.
 
-   ![](assets/create-1.png)
+   ![](assets/add-zoom-as-a-launchpoint-service-7.png)
 
    Bra! Ditt Zoom-konto har nu synkroniserats med Marketo och finns i LaunchPoint-området.
 
@@ -55,4 +58,4 @@ Marketo hanterar din zoomregistrering och närvaro.
 
 >[!MORELIKETHIS]
 >
->Lär dig hur du [skapar en händelse med Zoom](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).
+>Lär dig hur [skapa en händelse med Zoom](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).
