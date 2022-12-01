@@ -3,33 +3,32 @@ unique-page-id: 2360247
 description: Ändra standardvärdet från e-post och från etikett - Marketo Docs - produktdokumentation
 title: Ändra standard från e-post och från etikett
 exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: aeaf1f55b81da70ac8415cab265165a3848b5a0e
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Ändra standard från e-post och från etikett {#change-the-default-from-email-and-from-label}
 
-Varje Admin-användare kan ändra standardvärdena för **Från e-post** och **Från etikett** så att standardvärdena används när de skapar nya e-postmeddelanden.
+Varje administratörsanvändare kan ändra standardvärdena för **Från e-post** och **Från etikett** så att standardinställningarna används när de skapar nya e-postmeddelanden.
 
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till avsnittet **Admin**.
+1. Gå till **Administratör** -avsnitt.
 
-   ![](assets/adminhand.png)
+   ![](assets/change-the-default-from-email-and-from-label-1.png)
 
-1. Klicka på **E-post**.
+1. Klicka **E-post**.
 
-   ![](assets/image2014-9-18-16-3a27-3a19.png)
+   ![](assets/change-the-default-from-email-and-from-label-2.png)
 
-1. Ange de standardvärden du vill använda för **Från e-post** och **Från etikett** och klicka sedan på **Spara ändringar**.
+1. Ange de standardvärden som du vill använda **Från e-post** och **Från etikett** sedan klicka **Spara ändringar**.
 
-   ![](assets/change-default-hands.png)
+   ![](assets/change-the-default-from-email-and-from-label-3.png)
 
 >[!NOTE]
 >

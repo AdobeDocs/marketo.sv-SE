@@ -3,133 +3,132 @@ unique-page-id: 6848782
 description: Gör ditt avbeställningsmeddelande dynamiskt för språk - Marketo Docs - produktdokumentation
 title: Gör ditt avbeställningsmeddelande dynamiskt för språk
 exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: aeaf1f55b81da70ac8415cab265165a3848b5a0e
 workflow-type: tm+mt
-source-wordcount: '495'
+source-wordcount: '491'
 ht-degree: 0%
 
 ---
 
-# Gör ditt meddelande om att avbryta prenumerationen dynamiskt för språk {#make-your-unsubscribe-message-dynamic-for-languages}
+# Gör ditt avbeställningsmeddelande dynamiskt för språk {#make-your-unsubscribe-message-dynamic-for-languages}
 
 Standardmeddelandet och länken för att avbryta prenumerationen är på engelska. Du kan använda dynamiskt innehåll för att visa det på olika språk.
 
 >[!NOTE]
 >
->Vi har skapat den här lilla lektionen nedan åt dig. Det är en bra metod, men det kan man göra på andra sätt.
+>Den här artikeln är en bra metod, men kan användas på andra sätt.
 
 ## Förbered dina data {#prepare-your-data}
 
-1. [Skapa ett anpassat ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) fält med namnet&quot;Önskat språk&quot;. (Konfigurera den i CRM om du vill att det här fältet ska synkroniseras).
+1. [Skapa ett anpassat fält](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) med namnet&quot;Önskat språk&quot;. (Konfigurera den i CRM om du vill att det här fältet ska synkroniseras).
 
    >[!TIP]
    >
-   >I framtiden ska du använda det här fältet när du [skapar ett formulär](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) för att hämta språkinställningar.
+   >Använd det här fältet när du [skapa ett formulär](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) för att hämta språkinställningar.
 
 ## Skapa segmentering {#create-segmentation}
 
-1. Gå till **databasen**.
+1. Gå till **Databas**.
 
-   ![](assets/db.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-1.png)
 
-1. I listrutan **Nytt** klickar du på **Nytt segment**.
+1. I **Nytt** nedrullningsbar meny, klicka **Ny segmentering**.
 
-   ![](assets/two.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-2.png)
 
-1. Namnge segmenteringen **Önskat språk**. Klicka på **Lägg till segment**. Skriv på ett språk.
+1. Namnge segmenteringen **Önskat språk**. Klicka **Lägg till segment**. Skriv på ett språk.
 
-   ![](assets/image2015-3-9-8-3a33-3a44.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-3.png)
 
    >[!NOTE]
    >
    >Standardsegmentet är engelska.
 
-1. Fortsätt att lägga till segment tills alla språk är representerade. Klicka på **Skapa**.
+1. Fortsätt att lägga till segment tills alla språk är representerade. Klicka **Skapa**.
 
-   ![](assets/image2015-3-9-8-3a38-3a5.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-4.png)
 
 1. Markera ett segment.
 
-   ![](assets/image2015-3-9-8-3a38-3a17.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-5.png)
 
-1. Gå till fliken **Smart lista**. Ange **Önskat språk** i sökfältet. Dra och släpp filtret på arbetsytan.
+1. Gå till **Smart List** -fliken. Retur **Önskat språk** i sökfältet. Dra och släpp filtret på arbetsytan.
 
-   ![](assets/six.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-6.png)
 
 1. Ange lämpligt motsvarande språk.
 
-   ![](assets/seven.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-7.png)
 
-1. Upprepa för alla dina olika språk. Välj sedan listrutan **Segmenteringsåtgärder** och klicka på **Godkänn**.
+1. Upprepa för alla dina olika språk. Välj sedan **Segmenteringsåtgärder** nedrullningsbar meny och klicka **Godkänn**.
 
-   ![](assets/image2015-3-9-8-3a39-3a36.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-8.png)
 
 ## Skapa ett fragment {#create-a-snippet}
 
 1. Gå till **Design Studio**.
 
-   ![](assets/ds.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-9.png)
 
-1. I listrutan **Nytt** klickar du på **Nytt fragment**.
+1. I **Nytt** listruta, klicka **Nytt fragment**.
 
-   ![](assets/ten.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-10.png)
 
-1. Namnge fragmentet **Avsluta prenumeration på meddelande**. Klicka på **Skapa**.
+1. Namnge fragmentet **Avbeställ meddelande**. Klicka **Skapa**.
 
-   ![](assets/image2015-3-9-8-3a40-3a54.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-11.png)
 
 1. Skriv ditt standardmeddelande för att avbryta prenumerationen, markera det och klicka på hyperlänksikonen.
 
-   ![](assets/image2015-3-9-8-3a41-3a47.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-12.png)
 
-1. Kopiera och klistra in denna token: `{{system.unsubscribeLink}}` i fältet **Länk-URL**. Klicka på **Infoga**.
+1. Kopiera och klistra in denna token: `{{system.unsubscribeLink}}` till **URL** fält. Klicka **Infoga**.
 
-   ![](assets/image2015-3-9-8-3a43-3a17.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-13.png)
 
-1. Välj **Segmentera med** i segmenteringsavsnittet.
+1. Välj **Segmentera efter** i segmenteringsavsnittet.
 
-   ![](assets/image2015-3-9-8-3a44-3a16.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-14.png)
 
-1. I listrutan Segmentering skriver du **Preferred** och väljer **Preferred Language**. Klicka på **Spara**.
+1. I listrutan Segmentering skriver du in **Önskad** och markera **Önskat språk**. Klicka **Spara**.
 
-   ![](assets/image2015-3-9-8-3a44-3a32.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-15.png)
 
-1. Markera ett segment i trädet. Skriv ditt avbeställningsmeddelande på det språket.
+1. Markera ett segment i trädet. Klicka på avbeställningen och klicka sedan på länkikonen.
 
-   ![](assets/image2015-3-9-8-3a45-3a43.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-16.png)
 
-1. Kopiera och klistra in samma token: `{{system.unsubscribeLink}}` i fältet **Länk-URL**. Klicka på **Infoga**.
+1. Se till att `{{system.unsubscribeLink}}` finns fortfarande i URL-fältet. Redigera visningstexten så att den matchar det språk du valde. Klicka **Använd**.
 
-   ![](assets/image2015-3-9-8-3a47-3a4.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-17.png)
 
-1. Upprepa för alla segment. Gå sedan tillbaka till Design Studio, klicka på listrutan **Fragmentåtgärder** och klicka på **Godkänn**.
+1. Upprepa för alla segment. Gå sedan tillbaka till Design Studio och klicka på **Fragmentåtgärder** och klicka **Godkänn**.
 
-   ![](assets/image2015-3-9-8-3a47-3a34.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-18.png)
 
-   Häftig. Nästan klart.
+Häftig. Nästan klart!
 
 ## Använd kodfragment i ett e-postmeddelande {#use-snippet-in-an-email}
 
 1. Klicka på det redigerbara elementet i e-postredigeraren. Klicka sedan på kugghjulsikonen och välj **Ersätt med fragment**. Om du markerar ett redigerbart fragmentelement klickar du på kugghjulsikonen och väljer **Redigera**.
 
-   ![](assets/4.1.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-19.png)
 
-1. Sök efter och välj kodfragment i listrutan och klicka på **Spara**.
+1. Söka efter och markera fragmentet i listrutan och klicka på **Spara**.
 
-   ![](assets/image2015-3-9-8-3a50-3a16.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-20.png)
 
-1. Om du vill testa den klickar du på **Bakåt**..
+1. Klicka på **Bakåt**...
 
-   ![](assets/4.3.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-21.png)
 
-1. ...sedan fliken **Dynamisk**.
+1. ...sedan **Dynamisk** -fliken.
 
-   ![](assets/4.4.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-22.png)
 
 1. Klicka på de olika språken för att se ändringen av fragmentet.
 
-   ![](assets/4.5.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-23.png)
 
    >[!TIP]
    >
@@ -139,28 +138,28 @@ Standardmeddelandet och länken för att avbryta prenumerationen är på engelsk
 
 Om du vill att dina medarbetare ska komma till en avanmälningssida på det språk de föredrar, kan du använda dynamiskt innehåll på landningssidan och bekräftelsesidan.
 
-1. Gå till Design Studio.
+1. Navigera till **Design Studio**.
 
-   ![](assets/ds.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-24.png)
 
-1. Skriv in _Unsubscribe_ i sökfältet. Du hittar sidorna för Avbeställ.
+1. Skriv in _Avbeställ_ i sökfältet och välj önskad sida för att avbryta prenumerationen.
 
-   ![](assets/image2015-3-9-8-3a51-3a53.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-25.png)
 
-1. Klicka på **Redigera utkast**.
+1. Klicka **Redigera utkast**.
 
-   ![](assets/image2015-3-9-8-3a52-3a23.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-26.png)
 
-1. Välj **Segmentera med**.
+1. Välj **Segmentera efter**.
 
-   ![](assets/image2015-3-9-8-3a52-3a57.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-27.png)
 
-1. Hitta segmentet Önskat språk. Klicka på **Spara**.
+1. Hitta segmentet Önskat språk. Klicka **Spara**.
 
-   ![](assets/image2015-3-9-8-3a53-3a54.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-28.png)
 
    Redigera innehållet för varje landningssida, godkänn och var redo!
 
    >[!NOTE]
    >
-   >Läs mer om [dynamiskt innehåll](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) och alla coola saker du kan göra.
+   >Läs mer om [dynamiskt innehåll](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) och alla coola grejer du kan göra.

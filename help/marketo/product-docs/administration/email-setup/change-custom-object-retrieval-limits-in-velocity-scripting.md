@@ -2,8 +2,7 @@
 description: Ändra hämtningsgränser för anpassade objekt i Snabb skriptning - Marketo Docs - Produktdokumentation
 title: Ändra hämtningsgränser för anpassade objekt i snabbskriptning
 exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: aeaf1f55b81da70ac8415cab265165a3848b5a0e
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 0%
@@ -14,19 +13,19 @@ ht-degree: 0%
 
 Om du använder snabbskriptet för att visa anpassade objektdata i e-postmeddelanden kan den här funktionen vara till för dig. Som standard har du åtkomst till 10 överordnade anpassade objekt från Snabbredigeringsskript. Om du behöver få tillgång till mer kan du läsa vidare.
 
-## Vad är hastighet {#what-is-velocity}
+## Vad är Velocity? {#what-is-velocity}
 
-[Apache Velocity](https://velocity.apache.org/) är ett språk som bygger på Java och som är utformat för att skapa mallar och skript för HTML-innehåll. Marketo tillåter att den används i e-postsammanhang genom användning av [skripttokens](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md). Detta ger bland annat åtkomst till data som lagras i anpassade objekt.
+[Apache-hastighet](https://velocity.apache.org/) är ett språk som bygger på Java och som är utformat för att skapa mallar och skript för HTML. Marketo tillåter att den används i e-postsammanhang genom [skripttoken](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md). Detta ger bland annat åtkomst till data som lagras i anpassade objekt.
 
 Du kan referera till överordnade och underordnade anpassade objekt som är direkt kopplade till lead- eller kontaktpersonen, men inte till anpassade objekt på tredje nivån. För varje anpassat objekt är de 10 senast uppdaterade posterna per person/kontakt tillgängliga vid körning och beställs från den senast uppdaterade (vid 0) till den äldsta (vid 9).
 
 ## Ändra gränsen {#how-to-change-the-limit}
 
-1. Gå till avsnittet **Admin**.
+1. Gå till **Administratör** -avsnitt.
 
    ![](assets/change-custom-object-retrieval-limits-in-velocity-scripting-1.png)
 
-1. Klicka på **E-post**.
+1. Klicka **E-post**.
 
    ![](assets/change-custom-object-retrieval-limits-in-velocity-scripting-2.png)
 

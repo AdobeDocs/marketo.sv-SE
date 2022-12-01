@@ -3,9 +3,9 @@ unique-page-id: 2360251
 description: Redigera avbeställningsmeddelandet - Marketo Docs - produktdokumentation
 title: Redigera avbeställningsmeddelandet
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
-source-git-commit: 931b42d7266b9c57308567527042dfcad9847993
+source-git-commit: aeaf1f55b81da70ac8415cab265165a3848b5a0e
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,15 @@ ht-degree: 0%
 
 När du skickar e-postmarknadsföring (icke-[operativ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)) läggs text och länkar till längst ned. Du kan ändra standardinställningarna. Så här gör du.
 
-## Redigera avbeställningsmeddelandet {#edit-the-unsubscribe-message-1}
+## Var ska du göra redigeringen? {#where-to-make-the-edit}
 
-1. Under **Administratör**, klicka **E-post**.
+1. Gå till **Administratör** -avsnitt.
 
-   ![](assets/image2014-9-18-16-3a52-3a1.png)
+   ![](assets/edit-the-unsubscribe-message-1.png)
+
+1. Klicka **E-post**.
+
+   ![](assets/edit-the-unsubscribe-message-2.png)
 
    >[!CAUTION]
    >
@@ -34,7 +38,7 @@ När du skickar e-postmarknadsföring (icke-[operativ](/help/marketo/product-doc
 
 1. Redigera **Avbeställ HTML** och **Avbeställ text** versioner som du vill ha och klicka på **Spara ändringar**.
 
-   ![](assets/image2016-8-26-13-3a40-3a55.png)
+   ![](assets/edit-the-unsubscribe-message-3.png)
 
    Där har du den. _Se till att testa!_ Du vill inte att dina marknadsföringsmejl ska ha brutna länkar för att avbryta prenumerationen.
 
