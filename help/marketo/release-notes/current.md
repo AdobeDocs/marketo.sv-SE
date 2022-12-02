@@ -2,10 +2,10 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 9d729864f8e5ea4efbab1b827778a1ff608e7296
+source-git-commit: 7048b87084fcc5be7336ad8146f07c891ec70826
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '628'
+ht-degree: 1%
 
 ---
 
@@ -53,7 +53,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   </tbody>
 </table>
 
-### Nästa generations upplevelser {#next-generation-experience}
+### Nästa generations upplevelser {#modern-ux}
 
 </br>
 
@@ -69,7 +69,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   </tr>
   <tr> 
    <td>Levererat</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md">Växla av/på</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Växla av/på</a></td>
   </tr>
   </tbody>
 </table>
@@ -205,3 +205,4 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
 * **Forms 1.0**: Borttagningen av Forms 1.0 slutförs i oktober-versionen. Forms 1.0-mediefiler kan inte längre skicka data till Marketo Engage och returnerar fel vid försök.
 
 * **Forms utan skript**: Forms fungerar inte längre när Javascript är inaktiverat i webbläsaren. Formulärinlämning kräver att Javascript är aktiverat.
+
