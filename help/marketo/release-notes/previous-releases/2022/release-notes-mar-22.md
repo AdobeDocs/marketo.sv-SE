@@ -2,7 +2,7 @@
 description: Versionsinformation - mars 2022 - Marketo Docs - produktdokumentation
 title: Versionsinformation - mars 2022
 exl-id: 91826d56-a38e-44af-b798-17bfc016c311
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '771'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Följande funktioner kommer att lanseras den **11 mars 2022**, med en fasad utru
 
 * **Förbättring av filtrering av e-poststartaktivitet**: Som en förbättring av tidigare släppta [Filtrering av startaktivitet för e-post](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;} kan du nu välja att logga aktiviteter som identifieras som bots. Du kan sedan filtrera och utlösa åtgärder baserat på aktiviteter som identifieras som utförda av bots.
 
-## Nästa generations upplevelse {#next-generation-experience}
+## Nästa generations upplevelse {#modern-ux}
 
 * **Uppdaterade skärmar i nästa generation**: Vi levererar nya, uppdaterade skärmar i nästa generation av upplevelser som erbjuder uppdaterade design- och användarvänlighetsförbättringar som är tillgängliga via växlingsfunktion:
 
@@ -73,7 +73,7 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 
 ## Meddelanden {#announcements}
 
-* **Borttagning av Marketo Sky**: I mars kommer Marketo Sky inte längre att vara tillgänglig eftersom vi fokuserar på att leverera nästa generations användarupplevelser. I ett försök att behålla åtkomst till funktioner som är exklusiva för Marketo Skyn idag, tar vi bort förfallodatum för resurser och åsidosättning av Smart Campaign-prioritet i den klassiska upplevelsen. [Klicka här](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33) om du vill veta mer.
+* **Borttagning av Marketo Sky**: I mars kommer Marketo Sky inte längre att vara tillgänglig eftersom vi fokuserar på att leverera nästa generations användarupplevelser. I ett försök att behålla åtkomst till funktioner som är exklusiva för Marketo Skyn idag, tar vi bort förfallodatum för resurser och åsidosättning av Smart Campaign-prioritet i den klassiska upplevelsen. [Klicka här](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) om du vill veta mer.
 
 **_Product Release Webinar_**
 

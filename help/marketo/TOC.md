@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
-source-wordcount: '8811'
+source-wordcount: '8810'
 ht-degree: 0%
 
 ---
@@ -1064,11 +1064,11 @@ ht-degree: 0%
             + [Använda Skicka aviseringsinformationstoken](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
             + [Använda URL:er i Mina token](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
          + [Email CC](product-docs/email-marketing/general/email-cc.md)
-   + Marketo Engage nästa generation {#marketo-engage-next-generation-experience}
-      + [Översikt](product-docs/marketo-engage-next-generation-experience/overview.md)
-      + [Ikonordlista](product-docs/marketo-engage-next-generation-experience/icon-glossary.md)
-      + [Använda den globala sökningen](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
-      + [Växla av/på](product-docs/marketo-engage-next-generation-experience/toggle-switch.md)
+   + Marketo Engage Modern UX {#marketo-engage-modern-ux}
+      + [Översikt](product-docs/marketo-engage-modern-ux/overview.md)
+      + [Ikonordlista](product-docs/marketo-engage-modern-ux/icon-glossary.md)
+      + [Använda den globala sökningen](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
+      + [Växla av/på](product-docs/marketo-engage-modern-ux/toggle-switch.md)
    + Marketo Sales Connect {#marketo-sales-connect}
       + Komma igång {#getting-started}
          + [Översikt över Sales Connect](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)

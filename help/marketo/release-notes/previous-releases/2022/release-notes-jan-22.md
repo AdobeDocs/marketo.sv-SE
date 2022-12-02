@@ -1,7 +1,8 @@
 ---
 description: Versionsinformation - januari 2022 - Marketo Docs - produktdokumentation
 title: Versionsinformation - januari 2022
-source-git-commit: 9136ef46cd3b3293bef605dec997f23b46fa4326
+exl-id: babc4e7f-3f11-4883-80c6-58e69c3e1ab4
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '964'
 ht-degree: 0%
@@ -10,7 +11,7 @@ ht-degree: 0%
 
 # Versionsinformation: Januari 2022 {#release-notes-jan-22}
 
-Följande funktioner finns i januari 22. Se om det finns funktioner i Adobe Marketo Engage Edition.
+Följande funktioner finns i januari 22. Se om det finns funktioner i din Adobe Marketo Engage-utgåva.
 
 >[!AVAILABILITY]
 >
@@ -20,7 +21,7 @@ Följande funktioner finns i januari 22. Se om det finns funktioner i Adobe Mark
 
 Följande funktioner kommer att lanseras den **21 januari 2022**, med en fasad utrullning av alla funktioner under de följande veckorna (om inget annat anges).
 
-## Nästa generations upplevelse {#next-generation-experience}
+## Nästa generations upplevelse {#modern-ux}
 
 * **Uppdaterade skärmar i nästa generation**: Vi levererar nya, uppdaterade skärmar i nästa generation av upplevelser som erbjuder uppdaterade design- och användarvänlighetsförbättringar som är tillgängliga via växlingsfunktion:
 
@@ -77,7 +78,7 @@ Marketo Engage-kunder som också använder Adobe Experience Platform (AEP) kan m
 
 ## Meddelanden {#announcements}
 
-* **Borttagning av Marketo Sky**: I mars kommer Marketo Sky inte längre att vara tillgänglig eftersom vi fokuserar på att leverera nästa generations användarupplevelser. I ett försök att behålla åtkomst till funktioner som är exklusiva för Marketo Skyn idag, tar vi med åsidosättande av förfallodatum och prioritet för smarta kampanjer i den vanliga upplevelsen i mars. [Klicka här](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33) om du vill veta mer.
+* **Borttagning av Marketo Sky**: I mars kommer Marketo Sky inte längre att vara tillgänglig eftersom vi fokuserar på att leverera nästa generations användarupplevelser. I ett försök att behålla åtkomst till funktioner som är exklusiva för Marketo Skyn idag, tar vi med åsidosättande av förfallodatum och prioritet för smarta kampanjer i den vanliga upplevelsen i mars. [Klicka här](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) om du vill veta mer.
 
 * **Borttagning av formulärslutpunkter**: POST:er för programmatiska formulär till leadCapture/save2-slutpunkten stöds inte av Marketo Engage-formulär. [Klicka här](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) om du vill veta mer.
 

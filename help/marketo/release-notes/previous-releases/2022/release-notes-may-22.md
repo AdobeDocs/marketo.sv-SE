@@ -2,7 +2,7 @@
 description: Versionsinformation - maj 2022 - Marketo Docs - produktdokumentation
 title: Versionsinformation - maj 2022
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-source-git-commit: d9ace2b00707c605dda94ec4fc21937d8b36d137
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '833'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Följande funktioner kommer att lanseras den **6 maj 2022**, med en stegvis utru
 
 **[STS Header for Email Tracking Links](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target=&quot;_blank&quot;}**: Följ vedertagna säkerhetsstandarder med möjlighet att lägga in säkra transportsäkerhetsrubriker för att säkerställa att trafik till spårade länkar alltid är säker.
 
-## Nästa generations upplevelse {#next-generation-experience}
+## Nästa generations upplevelse {#modern-ux}
 
 **Växla som standard till nästa generations upplevelse**: Växlingsknappen kommer att vara standard för den nya upplevelsen på alla skärmar där den är tillgänglig, vilket gör det enklare för användarna att upptäcka de uppdaterade designförbättringarna och användbarhetsförbättringarna.
 
