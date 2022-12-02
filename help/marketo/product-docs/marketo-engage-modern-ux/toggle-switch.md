@@ -2,16 +2,16 @@
 description: Växla - Marketo Docs - produktdokumentation
 title: Växla av/på
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: 3f3846fbb3b7e279e8eb2350f5d493fbb1da6304
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Växla av/på {#toggle-switch}
 
-Med växeln Växla kan du växla mellan Marketo klassiska gränssnitt och nästa generations Marketo Engage. Den är tillgänglig i alla områden som markeras nedan.
+Med växeln Växla kan du växla mellan Marketo klassiska gränssnitt och det moderna användargränssnittet. Den är tillgänglig i alla områden som markeras nedan.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ Aktivera växlingsknappen för enskilda roller eller för alla roller. Så här 
 
 ## Aktivera för funktioner {#enable-for-features}
 
-Du kan manuellt aktivera Marketo nästa generations gränssnitt för enskilda funktioner eller alla tillgängliga funktioner (nuvarande och kommande).
+Du kan välja att manuellt aktivera det moderna användargränssnittet för Marketo Engage för enskilda funktioner eller alla tillgängliga funktioner (nuvarande och kommande).
 
 I ett område som för närvarande har växeln Växla (i det här exemplet är vi i e-postlistvyn) klickar du bara på växlingsknappen längst ned till höger på sidan.
 
@@ -55,7 +55,7 @@ Välj **Aktivera för alla tillgängliga funktioner** och klicka **OK**.
 
 ## Tillgängliga funktioner {#available-features}
 
-Följande funktioner är för närvarande tillgängliga i Marketo nästa generations gränssnitt (med nya funktioner tillagda varje release):
+Följande funktioner är för närvarande tillgängliga i det moderna användargränssnittet (med nya funktioner tillagda varje release):
 
 * Vyn E-postinformation
 * Visa e-postlista
