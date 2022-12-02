@@ -2,10 +2,10 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 82fa4560d60fe782856fadf207f5ecd9602d2944
+source-git-commit: 9d729864f8e5ea4efbab1b827778a1ff608e7296
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 </br>
 
-* **Synkronisering av anpassade fält för programmedlem**: Möjlighet att dubbelriktat synkronisera utökningsbara fält som tagits emot för en programmedlem (t.ex. deltagarinställningar under händelseregistrering som mat, sessioner, spår osv.)
+* **Synkronisering av anpassat fält för programmedlem**: Möjlighet att dubbelriktat synkronisera utökningsbara fält som tagits emot för en programmedlem (t.ex. deltagarinställningar under händelseregistrering som mat, sessioner, spår osv.)
 
 <table> 
   <tr> 
@@ -34,7 +34,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   </tr>
   <tr> 
    <td>Levererat</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Synkronisering av anpassade fält för programmedlem</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Synkronisering av anpassat fält för programmedlem</a></td>
   </tr>
   </tbody>
 </table>
