@@ -3,10 +3,9 @@ unique-page-id: 2360335
 description: Blockera fältuppdateringar vid listimport från otillförlitliga källor - Marketo Docs - produktdokumentation
 title: Blockera fältuppdateringar vid listimport från otillförlitliga källor
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,29 +20,33 @@ Du kan lita på data i vissa listor mer än andra. Ibland kan du ha tvivelaktiga
 
 ## Blockera fältuppdateringar från otillförlitliga källor {#blocking-field-updates-from-untrusted-sources}
 
-1. Gå till **Admin** och klicka på **Fälthantering**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2014-9-19-9-3a38-3a38.png)
+   ![](assets/blocking-field-updates-from-untrusted-sources-1.png)
 
-1. Leta reda på fältet du vill använda, markera det och klicka sedan på **Blockera fältuppdateringar** under **Fältåtgärder**.
+1. Klicka **Fälthantering**.
 
-   ![](assets/image2014-9-19-9-3a39-3a40.png)
+   ![](assets/blocking-field-updates-from-untrusted-sources-2.png)
 
-1. Markera **List Import untrusted source** och klicka på **Apply**.
+1. Hitta det fält du vill använda, markera det och sedan under **Fältåtgärder**, klicka **Blockera fältuppdateringar**.
 
-   ![](assets/blockupdates.png)
+   ![](assets/blocking-field-updates-from-untrusted-sources-3.png)
+
+1. Kontrollera **Lista Importera ej betrodd källa** och klicka **Använd**.
+
+   ![](assets/blocking-field-updates-from-untrusted-sources-4.png)
 
 >[!TIP]
 >
->Du kan skydda fält från alla listor (tillförlitliga och ej tillförlitliga) genom att kontrollera **Lista importera betrodd källa**.
+>Du kan skydda fält från alla listor (tillförlitliga och ej tillförlitliga) genom att även kontrollera **Lista Importera betrodd källa**.
 
 Upprepa stegen ovan för andra fält som du vill skydda från ej tillförlitliga listor.
 
 ## Köra en ej betrodd listimport {#running-an-untrusted-list-import}
 
-1. När du kör listimporten måste du markera **Otillförlitlig** om du vill att alla fält som du konfigurerade i föregående steg ska vara säkra.
+1. Se till att du väljer **Otillförlitlig** om du vill att alla fält som du skapade i föregående steg ska vara säkra.
 
-   ![](assets/importpersondetails.jpg)
+   ![](assets/blocking-field-updates-from-untrusted-sources-5.png)
 
 Detaljerade anvisningar om hur du importerar listor finns i [Importera en lista med personer](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
 

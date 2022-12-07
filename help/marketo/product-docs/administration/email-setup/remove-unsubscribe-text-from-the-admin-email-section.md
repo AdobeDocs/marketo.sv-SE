@@ -3,23 +3,26 @@ unique-page-id: 2360245
 description: Ta bort avanmälan av text från Admin Email Section - Marketo Docs - Product Documentation
 title: Ta bort Avbeställ text från Admin Email Section
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Ta bort Avbeställ text från Admin Email Section {#remove-unsubscribe-text-from-the-admin-email-section}
 
-Det enda skälet till att du bör ta bort det avbrutna prenumerationen helt från området&quot;Admin > E-post&quot; är om du väljer att skapa länken för att avbryta prenumerationen i e-postmallarna. Textrutan har en validering som inte tillåter att du sparar utan innehåll. Du kan kringgå detta genom att lägga till en liten HTML-kommentar. HTML-kommentaren visas inte i e-postklienten eftersom den återger e-postmeddelandet i HTML och kommentarerna utelämnas. Så här gör du.
+Det enda skälet till att du bör ta bort det avbrutna prenumerationen helt från området&quot;Admin > E-post&quot; är om du väljer att skapa länken för att avbryta prenumerationen i e-postmallarna. Textrutan har en validering som inte tillåter att du sparar utan innehåll. Du kan kringgå detta genom att lägga till en liten HTML-kommentar. Kommentaren HTML visas inte i e-postklienten eftersom den återger e-postmeddelandet i HTML och kommentarerna utelämnas. Så här gör du.
 
-1. Gå till **Admin** och klicka på **E-post**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2016-8-26-13-3a57-3a9.png)
+   ![](assets/remove-unsubscribe-text-from-the-admin-email-section-1.png)
 
-1. Markera all text och tryck på **Delete**.
+1. Klicka **E-post**.
+
+   ![](assets/remove-unsubscribe-text-from-the-admin-email-section-2.png)
+
+1. Markera all text och tryck på **Ta bort** nyckel.
 
    >[!CAUTION]
    >
@@ -27,12 +30,12 @@ Det enda skälet till att du bör ta bort det avbrutna prenumerationen helt frå
 
 1. Skriv in `<!--This is a comment -->`.
 
-   ![](assets/image2016-8-26-13-3a53-3a15.png)
+   ![](assets/remove-unsubscribe-text-from-the-admin-email-section-3.png)
 
-1. Klicka på **Spara ändringar**.
+1. Klicka **Spara ändringar**.
 
-   ![](assets/image2016-8-26-13-3a59-3a40.png)
+   ![](assets/remove-unsubscribe-text-from-the-admin-email-section-4.png)
 
 >[!NOTE]
 >
->För **Unsubscribe Text** måste du lägga till ett enda tecken. Använd ett streck eller en punkt.
+>För **Avbeställ text** du måste lägga till ett enda tecken. Använd ett streck eller en punkt.

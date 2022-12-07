@@ -3,10 +3,9 @@ unique-page-id: 2360222
 description: Aktivera kommunikationsbegränsningar - Marketo Docs - produktdokumentation
 title: Aktivera kommunikationsgränser
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -19,47 +18,51 @@ Det är viktigt att inte överkommunicera med era medarbetare. Genom att ange ko
 >
 >**Administratörsbehörigheter krävs**
 
-1. Klicka på **Kommunikationsbegränsningar** under **Admin**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2014-9-18-15-3a53-3a37.png)
+   ![](assets/enable-communication-limits-1.png)
 
-1. Klicka på **Redigera**.
+1. Klicka **Kommunikationsbegränsningar**.
 
-   ![](assets/image2014-9-18-15-3a53-3a47.png)
+   ![](assets/enable-communication-limits-2.png)
+
+1. Klicka **Redigera**.
+
+   ![](assets/enable-communication-limits-3.png)
 
    >[!NOTE]
    >
    >Per dag baseras på kalenderdagen i prenumerationstidszonen (midnatt-midnatt).
 
-1. Klicka på listrutan **Per dag** och välj önskad gräns. I det här exemplet väljer vi 1.
+1. Klicka på **Per dag** och välj önskad gräns. I det här exemplet väljer vi 1.
 
-   ![](assets/three.png)
+   ![](assets/enable-communication-limits-4.png)
 
    >[!TIP]
    >
-   >Du kan också välja **Egen** om inget av förinställningsalternativen fungerar för dig.
+   >Du kan också välja **Egen** om inget av de förinställda alternativen fungerar för dig.
 
-1. Klicka på listrutan **Per 7 dagar** och välj önskad gräns. I det här exemplet väljer vi 5.
+1. Klicka på **Per 7 dagar** och välj önskad gräns. I det här exemplet väljer vi 5.
 
-   ![](assets/four.png)
+   ![](assets/enable-communication-limits-5.png)
 
-1. Välj **Blockera icke-operativa e-postmeddelanden**.
+1. Välj **Blockera icke-fungerande e-postmeddelanden**.
 
-   ![](assets/five.png)
+   ![](assets/enable-communication-limits-6.png)
 
    >[!NOTE]
    >
-   >Läs mer om vad [fungerande e-postmeddelanden](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) är.
+   >Läs mer om vad [e-postmeddelanden](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) är.
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
-   ![](assets/six.png)
+   ![](assets/enable-communication-limits-7.png)
 
    >[!NOTE]
    >
    >**Exempel**
    >
-   >Inställningarna ovan innebär att personer inte får mer än **1 e-post per dag** eller mer än **5 under en sjudagarsperiod**.
+   >Inställningarna ovan innebär att personer inte får mer än **1 e-post per dag** eller mer än **5 i en sjudagarsperiod**.
 
    >[!NOTE]
    >
