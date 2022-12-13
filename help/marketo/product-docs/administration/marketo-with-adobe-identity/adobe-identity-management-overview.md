@@ -2,9 +2,9 @@
 description: Adobe Identity Management Overview - Marketo Docs - produktdokumentation
 title: Adobe Identity Management - översikt
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
+source-git-commit: 034e3a9a1e2e7feec749afe981aaaf804a4bcddc
 workflow-type: tm+mt
-source-wordcount: '1065'
+source-wordcount: '1068'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 Om du har ett nytt konto hos Adobe Marketo Engage (nytt konto, inte bara en ny instans för ett befintligt konto) från och med den 15 februari 2022, kan det integreras med Adobe Identity Management System, beroende på vilket produktpaket som köpts. Om du vill ta reda på om du har den kontaktar du Marketo Admin eller kontots Customer Success Manager.
 
-Befintliga Marketo-prenumerationer kommer att migreras till Adobe Identity Management System som börjar senare i år.
+Befintliga Marketo-prenumerationer kommer att börja migreras till Adobe Identity Management System under andra halvåret 2023.
 
 >[!NOTE]
 >
@@ -113,11 +113,11 @@ Ja. Marketo-integrering med Adobe IMS stöder universella ID-användare och SSO.
 
 **Hur fungerar enhetsauktorisering?**
 
-Adobe IMS har för närvarande inte stöd för något liknande som Marketo enhetsauktoriseringsfunktion.
+Adobe IMS har för närvarande inte stöd för något som Marketo autentiseringsfunktion.
 
 **Går det fortfarande att använda funktionen&quot;Inbjudan till användardialogruta&quot; för att göra användarens inloggning unik från sin e-postadress?**
 
-Nej. Arbetsflödet för användarinbjudan är inte längre aktivt när en prenumeration är IMS-aktiverad, så funktionen är inte längre giltig. Adobe-identitet kräver att användarens identitet styrs av deras e-postadress.
+Nej. Arbetsflödet för användarinbjudan är inte längre aktivt när en prenumeration är IMS-aktiverad, så funktionen är inte längre giltig. Adobe-identitet kräver att användarens identitet styrs av användarens e-postadress.
 
 **För Adobe IMS, har vi möjlighet att använda Adobe ID, Enterprise ID eller Federated ID?**
 
