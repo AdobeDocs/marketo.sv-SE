@@ -3,9 +3,9 @@ unique-page-id: 2953471
 description: SFDC-synkronisering - anpassad objektsynkronisering - Marketo-dokument - produktdokumentation
 title: SFDC-synkronisering - anpassad objektsynkronisering
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
-source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
+source-git-commit: 79cfb0396f690a370cdce4e4df3a23c7439c252e
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ Anpassade objekt som skapas i Salesforce-instansen kan också ingå i Marketo.  
 >[!PREREQUISITES]
 >
 >Om du vill använda ett anpassat objekt måste det associeras med ett [lead](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md), [kontakta](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md), eller [konto](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md) objekt i Salesforce.
+
+>[!IMPORTANT]
+>
+>Marketo Sync User behöver läsåtkomst till det anpassade objektet för att kunna lista det och synkronisera det.
 
 ## Aktivera anpassat objekt  {#enable-custom-object}
 
