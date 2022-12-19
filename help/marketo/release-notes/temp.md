@@ -3,9 +3,9 @@ description: Temp - Marketo Docs - produktdokumentation
 title: Tillfällig
 hide: true
 hidefromtoc: true
-source-git-commit: 71f221ea74a5589470c0d911a8e29ba9754a34d3
+source-git-commit: 506b4d26cfceffe5e30b55d2dffe497640c1ba2c
 workflow-type: tm+mt
-source-wordcount: '555'
+source-wordcount: '523'
 ht-degree: 2%
 
 ---
@@ -71,14 +71,11 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   </tbody>
 </table>
 
-### Nästa generations upplevelser {#modern-ux}
+### title {#title}
 
 </br>
 
-* **Uppdaterade skärmar i modernt användargränssnitt**: Vi levererar nya, uppdaterade skärmar i nästa generation av upplevelser som erbjuder uppdaterade design- och användarvänlighetsförbättringar som är tillgängliga via växlingsfunktion:
-
-   * Information om landningssidmall
-   * E-postmallslista
+* **title**: beskrivning
 
 <table> 
   <tr> 
