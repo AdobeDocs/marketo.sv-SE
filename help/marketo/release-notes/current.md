@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4d79b7d40b2ec1defbb6f07333e2a5e96c4e5186
+source-git-commit: 8cb8f1d564ccfba5c3861370c7624069a08be712
 workflow-type: tm+mt
-source-wordcount: '618'
+source-wordcount: '667'
 ht-degree: 1%
 
 ---
@@ -201,3 +201,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
   </tr>
   </tbody>
 </table>
+
+**_Product Release Webinar_**
+
+Vill du veta mer om de här funktionerna och förbättringarna? Se till att [registrera nu](https://engage.marketo.com/2023_January_Release_Webinar_RegistrationPage.html) för att komma till oss den 24 januari klockan 9:00 PT/12:00 ET för ett live webbinarium med vårt produktteam för att fördjupa sig i dessa innovationer.
