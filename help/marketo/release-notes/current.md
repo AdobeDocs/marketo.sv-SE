@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 39eb451117a5f165ceccc0435db77aa22f1bfdcd
+source-git-commit: 4d79b7d40b2ec1defbb6f07333e2a5e96c4e5186
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '618'
 ht-degree: 1%
 
 ---
@@ -113,6 +113,10 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 ## Agile Release-funktioner
 
 Följande funktioner följer ett Agile-format och släpps på olika datum före eller efter standardreleasedatum. Kontrollera status för respektive funktion nedan.
+
+### Dynamiskt chatt {#dynamic-chat}
+
+</br>
 
 * **Definiera plocklistan i informationskortet för dynamiskt chatt**: För att säkerställa att data är rena kan du definiera plocklistor för informationskort så att besökarna bara kan välja från en fördefinierad lista med alternativ.
 
