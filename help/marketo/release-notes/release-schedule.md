@@ -3,9 +3,9 @@ unique-page-id: 5472490
 description: Versionsschema - Marketo Docs - produktdokumentation
 title: Versionsschema
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 132aa2edc3ae4a62d9f2e22aa0d5ae4353bc6328
+source-git-commit: 5f12d1dd83443214b9d54d46e18a492a175c791a
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '138'
 ht-degree: 1%
 
 ---
@@ -18,8 +18,8 @@ ht-degree: 1%
 
 **Status**:
 
-* Schema - Vi planerar att släppa kvartalsegenskaperna och förbättringarna på angivet datum
-* Pågår - Vi utvecklar och dokumenterar innehållet nu för release det angivna datumet
+* Schema - Vi planerar att släppa funktionerna och förbättringarna på angivet datum
+* Pågår - vi håller på att lansera funktionerna i den här versionen
 * Levererat - Versionen är klar
 
 _Releasedatum kan komma att ändras_
@@ -37,12 +37,12 @@ _Releasedatum kan komma att ändras_
    <th width="250px">Status</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">22 oktober</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-oct-22.md">22 oktober</a></td>
    <td>14 oktober 2022</td>
    <td>Levererat</td>
   </tr>
   <tr> 
-   <td>23 januari</td>
+   <td><a href="/help/marketo/release-notes/current.md">23 januari</a></td>
    <td>20 januari 2023</td>
    <td>Vid schema</td>
   </tr>
