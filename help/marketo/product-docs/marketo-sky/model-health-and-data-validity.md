@@ -3,7 +3,8 @@ description: Modellens hälsa och datavaliditet - Marketo Docs - produktdokument
 title: Modellens hälsa och datavalidering
 hide: true
 hidefromtoc: true
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+exl-id: fdb4ae1c-a638-4aa3-aa09-1993760b8be5
+source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%

@@ -1,17 +1,16 @@
 ---
 unique-page-id: 2359657
-description: Ändra ett formulärs språkområde - Marketo Docs - Produktdokumentation
+description: Ändra ett formulärs språkversion - Marketo Docs - produktdokumentation
 title: Ändra språkinställning för ett formulär
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 811153b7-27e6-407d-abbe-c29dc39944d7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
-
-# Ändra formulärets nationella inställningar {#change-a-forms-locale}
+# Ändra språkinställning för ett formulär {#change-a-forms-locale}
 
 När du arbetar med internationella formulär vill du visa datum/tid i rätt format. Marketo gör detta automatiskt åt dig, allt du behöver göra är att ställa in formulärets språkområde och ta hand om resten.
 
@@ -23,19 +22,19 @@ När du arbetar med internationella formulär vill du visa datum/tid i rätt for
 
    ![](assets/image2014-9-15-12-3a52-3a52.png)
 
-1. Under **Formulärinställningar** klickar du på **Inställningar**.
+1. Under **Formulärinställningar**, klicka **Inställningar**.
 
    ![](assets/image2014-9-15-12-3a53-3a23.png)
 
-1. Välj **språkversion**.
+1. Välj **Språk** efter eget val.
 
    ![](assets/image2014-9-15-12-3a53-3a35.png)
 
-1. Klicka på **Slutför**.
+1. Klicka **Slutför**.
 
    ![](assets/image2014-9-15-12-3a53-3a43.png)
 
-1. Klicka på **Godkänn och stäng** för att tillämpa och spara ändringarna.
+1. Klicka **Godkänn och stäng** för att tillämpa och spara ändringar.
 
    >[!NOTE]
    >
@@ -45,7 +44,7 @@ När du arbetar med internationella formulär vill du visa datum/tid i rätt for
 
    >[!NOTE]
    >
-   >Kom ihåg att [godkänna landningssidans utkast](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som skapats av formulärändringarna.
+   >Kom ihåg [godkänna utkastet till landningssida](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som har skapats av formulärändringarna.
 
    Så där! Användarna kan se datum och tid visas på rätt språk.
 

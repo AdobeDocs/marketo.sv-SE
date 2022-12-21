@@ -1,19 +1,18 @@
 ---
 unique-page-id: 7513141
-description: Navigera på startsidan för Analytics - Marketo Docs - Produktdokumentation
+description: Navigera på analysstartsidan - Marketo Docs - produktdokumentation
 title: Navigera på analysstartsidan
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 51e044ac-c761-4d51-ac8a-168ba8f763c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-
 # Navigera på analysstartsidan {#navigating-the-analytics-home-page}
 
-1. Gå till området **Analytics**.
+1. Gå till **Analyser** område.
 
 1. ![](assets/image2015-4-27-8-3a38-3a10.png)
 
@@ -21,7 +20,7 @@ ht-degree: 0%
 
 1. ![](assets/image2015-4-27-8-3a38-3a22.png)
 
-1. När du har kört rapporten klickar du på arbetsytan för att gå tillbaka till startsidan för **Analytics**.
+1. När du har kört rapporten klickar du på arbetsytan för att gå tillbaka till **Startsida för analyser**.
 
    ![](assets/image2015-4-27-8-3a38-3a34.png)
 

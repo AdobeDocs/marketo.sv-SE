@@ -18,7 +18,7 @@ Om du behöver listresultat eller smarta listresultat utanför Marketo kan du en
 
    ![](assets/ma.png)
 
-1. Markera den lista eller smarta lista som du vill exportera och gå till fliken **Personer**.
+1. Välj den lista eller smarta lista som du vill exportera och gå till **Folk** -fliken.
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -26,22 +26,22 @@ Om du behöver listresultat eller smarta listresultat utanför Marketo kan du en
 
    ![](assets/exportpeople.png)
 
-1. Välj **Synliga kolumner** och klicka på **Exportera**.
+1. Välj **Synliga kolumner** och klicka **Exportera**.
 
    ![](assets/image2014-9-11-14-3a1-3a37.png)
 
    >[!NOTE]
    >
-   >Om du väljer **Alla kolumner** blir exporten större och tar längre tid att generera/hämta.
+   >Om du väljer **Alla kolumner**, blir exporten större och tar längre tid att generera/hämta.
 
    >[!TIP]
    >
-   >Om personposterna innehåller främmande tecken som inte återges korrekt vid exporten kan du prova att ändra filtypen i listrutan **Format**.
+   >Om personposterna innehåller främmande tecken som inte återges korrekt vid exporten kan du prova att ändra filtypen i **Format** nedrullningsbar meny.
 
-1. Exporten körs. När du är klar kan du klicka på **Hämta nu** för att hämta filen.
+1. Exporten körs. När du är klar klickar du **Ladda ned nu** för att hämta filen.
 
    ![](assets/popup.png)
 
    >[!TIP]
    >
-   >Om det tar ett tag att exportera kan du alltid logga ut och komma tillbaka till den senare. Du kommer åt länken **Hämta nu** genom att välja **Visa exportstatus** på menyn **Liståtgärder** och den gäller i en vecka.
+   >Om det tar ett tag att exportera kan du alltid logga ut och komma tillbaka till den senare. The **Ladda ned nu** kan nås genom att markera **Visa exportstatus** i **Liståtgärder** och gäller i en vecka.

@@ -3,7 +3,6 @@ unique-page-id: 8159286
 description: Filter och utlösare för affärsmöjligheter - Marketo Docs - produktdokumentation
 title: Filter och utlösare för affärsmöjligheter
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '471'
@@ -11,11 +10,11 @@ ht-degree: 0%
 
 ---
 
-# Filter och utlösare för affärsmöjlighet {#opportunity-filters-and-triggers}
+# Filter och utlösare för affärsmöjligheter {#opportunity-filters-and-triggers}
 
 Med filter och utlösare för affärsmöjligheter kan du spåra affärsmöjlighetshändelser från Salesforce. De är lite annorlunda jämfört med andra filter och utlösare.
 
-## Affärsmöjlighetsfilter {#opportunity-filters}
+## Filter för affärsmöjlighet {#opportunity-filters}
 
 Med säljprojektsfilter kan du fördjupa dig i dina Salesforce-leads som har möjligheter. Du kan hitta dem i mappen Affärsmöjligheter på paletten när du redigerar en smart lista. De kommer i några smaker.
 
@@ -27,9 +26,9 @@ Med säljprojektsfilter kan du fördjupa dig i dina Salesforce-leads som har mö
 * Affärsmöjligheten har tagits bort
 * Affärsmöjligheten har uppdaterats
 
-Om du letar efter dina säljprojektsfält (anpassade eller standard) använder du filtret **Har säljprojekt** eller **säljprojektet var`[Added/Removed/Updated]`** filter eller utlösare.
+Om du letar efter dina säljprojektsfält (anpassade eller standard) använder du **Har möjlighet** filter eller **Möjligheten var`[Added/Removed/Updated]`** filter eller utlösare.
 
-**Antal optyer, totalt belopp för optisk enhet, totalt förväntade intäkt för optisk enhet**
+**Antal optyer, totalt belopp för optisk enhet, totalt förväntad intäkt för optisk enhet**
 
 Med de här filtren kan du hitta leads baserat på det totala antalet, beloppet eller den förväntade intäkten för alla deras möjligheter.
 
@@ -37,19 +36,19 @@ Med de här filtren kan du hitta leads baserat på det totala antalet, beloppet 
 
 **Har affärsmöjlighet, lades till i affärsmöjligheten, togs bort från affärsmöjligheten**
 
-Om du söker efter leads som har affärsmöjligheter baserat på en kombination av villkor använder du **Har affärsmöjlighet**, **lades till i affärsmöjligheten** eller **togs bort från säljprojektsfiltret**. De säger:
+Om du letar efter leads som har affärsmöjligheter baserat på en kombination av villkor använder du **Har möjlighet**, **lades till i affärsmöjligheten**, eller **Borttagen från affärsmöjligheten** filter. De säger:
 
 * **Har möjlighet**: Om denna lead för närvarande har någon matchande affärsmöjlighet
 * **lades till i affärsmöjligheten**: Om denna lead någonsin lagts till i en matchande affärsmöjlighet
 * **Borttagen från affärsmöjligheten**: Om denna lead någonsin tagits bort från en matchande affärsmöjlighet
 
-Lägg till sökvillkoren som **Begränsningar** i filtret. Begränsningarna inkluderar affärsmöjlighetens standardfält och anpassade fält:
+Lägg till sökvillkoren som **Begränsningar** på filtret. Begränsningarna inkluderar affärsmöjlighetens standardfält och anpassade fält:
 
 ![](assets/image2015-6-11-12-3a31-3a0.png)
 
 ![](assets/image2015-6-11-12-3a31-3a46.png)
 
-Anta att du vill hitta leads som har öppna möjligheter på minst 5 000 USD. Dra i filtret **Har möjlighet** och använd begränsningarna **Är stängd** och **Belopp**:
+Anta att du vill hitta leads som har öppna möjligheter på minst 5 000 USD. Dra i **Har möjlighet** filtrera och använda **Är stängd** och **Belopp** begränsningar:
 
 ![](assets/image2015-6-11-12-3a32-3a0.png)
 
@@ -59,13 +58,13 @@ Anta att du vill hitta leads som har öppna möjligheter på minst 5 000 USD. Dr
 
 **Affärsmöjligheten har uppdaterats**
 
-Filtret **Affärsmöjligheten uppdaterades** efter en affärsmöjlighet när ett specifikt affärsmöjlighetsfält uppdaterades. Välj det fält som ska kontrolleras med listrutan Utlösarattribut och använd sedan begränsningarna för att begränsa uppsättningen ändringar.
+The **Affärsmöjligheten har uppdaterats** filter söker efter alla affärsmöjligheter när ett specifikt affärsmöjlighetsfält har uppdaterats. Välj det fält som ska kontrolleras med listrutan Utlösarattribut och använd sedan begränsningarna för att begränsa uppsättningen ändringar.
 
 Det här filtret visar t.ex. alla leads som har haft stängningsdatum ändrade inom de senaste 30 dagarna:
 
 ![](assets/image2015-6-11-12-3a33-3a7.png)
 
-## Utlösare för affärsmöjlighet {#opportunity-triggers}
+## Affärsmöjligheter - utlösare {#opportunity-triggers}
 
 Följande affärsmöjlighetsutlösare är tillgängliga. De fungerar precis som motsvarande filter (beskrivs tidigare), förutom att de kan utlösa kampanjer direkt när händelsen inträffar:
 
@@ -77,6 +76,6 @@ Du kan till exempel använda den här smarta listan för att utlösa när någon
 
 ![](assets/image2015-6-11-12-3a33-3a48.png)
 
-Använd utlösaren **Opportunity is Updated** och välj fältet i listrutan för att aktivera dina anpassade fält för affärsmöjlighet:
+Använd **Affärsmöjligheten har uppdaterats** utlösa och plocka fältet i pulldown:
 
 ![](assets/image2015-6-11-12-3a33-3a34.png)

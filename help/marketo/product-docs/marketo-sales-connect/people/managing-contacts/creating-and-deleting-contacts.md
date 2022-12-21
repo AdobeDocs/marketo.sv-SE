@@ -1,33 +1,32 @@
 ---
 unique-page-id: 14352516
-description: Skapa och ta bort kontakter - Marketo Docs - Produktdokumentation
+description: Skapa och ta bort kontakter - Marketo Docs - produktdokumentation
 title: Skapa och ta bort kontakter
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 04e2887b-8515-4d48-8a94-ccff00805210
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
-
 # Skapa och ta bort kontakter {#creating-and-deleting-contacts}
 
-## Skapar kontakter {#creating-contacts}
+## Skapa kontakter {#creating-contacts}
 
-1. Klicka på knappen **Gruppåtgärder** på sidan Personer och välj **Skapa kontakt**.
+1. Klicka på **Gruppåtgärder** och markera **Skapa kontakt**.
 
    ![](assets/one-2.png)
 
-1. Ange för-/efternamn och e-postadress tillsammans med annan information som du vill ha. Klicka på **Skapa** när du är klar, eller **Skapa och lägg till ny** om du vill lägga till fler kontakter.
+1. Ange för-/efternamn och e-postadress tillsammans med annan information som du vill ha. Klicka **Skapa** när du är klar, eller **Skapa och lägg till ny** för att lägga till fler kontakter.
 
    ![](assets/two-2.png)
 
    >[!TIP]
    >
-   >Vill du lägga till flera kontakter samtidigt? [Klicka ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) här om du vill veta hur du importerar kontakter via CSV.
+   >Vill du lägga till flera kontakter samtidigt? [Klicka här](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) om du vill veta hur du importerar kontakter via CSV.
 
-## Tar bort kontakter {#deleting-contacts}
+## Ta bort kontakter {#deleting-contacts}
 
 1. Markera rutan för den kontakt du vill ta bort på sidan Personer.
 
@@ -41,6 +40,6 @@ ht-degree: 0%
 
    ![](assets/four-2.png)
 
-1. Bekräfta genom att klicka på **Ta bort kontakt**.
+1. Klicka **Ta bort kontakt** för att bekräfta.
 
    ![](assets/five-2.png)

@@ -2,24 +2,23 @@
 unique-page-id: 11382535
 description: Använda URL:er i Mina token - Marketo Docs - Produktdokumentation
 title: Använda URL:er i Mina token
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
-
 # Använda URL:er i Mina token {#using-urls-in-my-tokens}
 
 Följ stegen nedan för att använda Mina token för att infoga URL:er i dina e-postmeddelanden.
 
-1. Välj ditt program och klicka på **Mina token**.
+1. Välj program och klicka på **Mina token**.
 
    ![](assets/one-4.png)
 
-1. Markera **texten** Min token, dra och släpp den på arbetsytan.
+1. Välj **Text** Min token, dra och släpp den på arbetsytan.
 
    ![](assets/two-4.png)
 
@@ -29,13 +28,13 @@ Följ stegen nedan för att använda Mina token för att infoga URL:er i dina e-
 
    >[!CAUTION]
    >
-   >Om du vill vara säker på att klick spåras i ditt e-postmeddelande ska du **inte** ange https:// i tokenvärdet.
+   >Om du vill vara säker på att klickningarna spåras i ditt e-postmeddelande gör du så här **not** ange https:// i tokenvärdet.
 
 1. Välj e-postadressen i programmet.
 
    ![](assets/four-3.png)
 
-1. Klicka på **Redigera utkast**.
+1. Klicka **Redigera utkast**.
 
    ![](assets/five-3.png)
 
@@ -51,7 +50,7 @@ Följ stegen nedan för att använda Mina token för att infoga URL:er i dina e-
    >
    >Du kan förstås även ange&quot;https&quot; om webbplatsen använder den.
 
-1. Leta reda på din My Token, markera den och klicka på **Infoga**.
+1. Leta reda på din Min token, markera den och klicka på **Infoga**.
 
    ![](assets/eight.png)
 
@@ -63,11 +62,11 @@ Följ stegen nedan för att använda Mina token för att infoga URL:er i dina e-
 
    ![](assets/ten.png)
 
-1. Tryck på Ctrl/Cmd+V för att klistra in innehållet i rutan **URL** och klicka på **Infoga**.
+1. Tryck på Ctrl/Cmd+V för att klistra in innehållet i **URL** och klicka **Infoga**.
 
    ![](assets/eleven.png)
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/twelve.png)
 

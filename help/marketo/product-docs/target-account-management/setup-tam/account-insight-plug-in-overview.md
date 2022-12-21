@@ -20,7 +20,7 @@ Account Insight är en Chrome-plugin som ger er åtgärdbara TAM-resurser och ko
 
 >[!CAUTION]
 >
->Plugin-programmet Account Insight fungerar inte i prenumerationer där [SSO-only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (enkel inloggning) är aktiverat.
+>Plugin-programmet Account Insight fungerar inte i prenumerationer som har [Endast SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (enkel inloggning) aktiverat.
 
 >[!CAUTION]
 >
@@ -70,7 +70,7 @@ Aktivitetsflödet visar senaste aktivitet och går tillbaka sju dagar.
 
 ![](assets/af1.png)
 
-Klicka på listrutan **Filter** om du vill filtrera efter olika aktivitetstyper.
+Klicka på **Filter** listrutan för att filtrera efter olika aktivitetstyper.
 
 ![](assets/af2.png)
 
@@ -81,5 +81,5 @@ Det går att klicka på flera objekt. Klicka på det namngivna kontot för att s
 Snygga grejer!
 
 >[!MORELIKETHIS]
-[Ställ in kontoinsikter](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)>
 >
+>[Ställ in kontoinsikter](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)

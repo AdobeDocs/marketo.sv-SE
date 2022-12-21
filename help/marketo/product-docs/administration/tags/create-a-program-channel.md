@@ -3,7 +3,6 @@ unique-page-id: 2950682
 description: Skapa en programkanal - Marketo Docs - produktdokumentation
 title: Skapa en programkanal
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '427'
@@ -23,7 +22,7 @@ Ett program är ett specifikt marknadsföringsinitiativ. Kanalen är avsedd att 
 >
 >Läs mer om [program](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), det viktigaste elementet i Marketo.
 
-1. Klicka på **Taggar** under **Admin**.
+1. Under **Administratör** avsnitt, klicka **Taggar**.
 
    ![](assets/image2014-9-24-12-3a57-3a27.png)
 
@@ -31,11 +30,11 @@ Ett program är ett specifikt marknadsföringsinitiativ. Kanalen är avsedd att 
    >
    >Varför taggar? En kanal är ett sätt att beskriva ett program, precis som andra taggar. Kanalen har bara specialfunktioner.
 
-1. Klicka på **+**-tecknet bredvid **Kanal** för att expandera och visa befintliga kanaler.
+1. Klicka på **+** signera bredvid **Kanal** för att utöka och se befintliga kanaler.
 
    ![](assets/image2014-9-24-12-3a58-3a33.png)
 
-1. Klicka på **Ny kanal** under **Ny**.
+1. Under **Nytt**, klicka **Ny kanal**.
 
    ![](assets/image2014-9-24-12-3a58-3a53.png)
 
@@ -59,13 +58,13 @@ Ett program är ett specifikt marknadsföringsinitiativ. Kanalen är avsedd att 
    >
    >Kolla in Progressions of existing channel för att få en uppfattning om hur de används.
 
-1. Låt oss följa exemplet med partikanalen. Namnge din nya **kanal** och välj den programtyp som den ska användas för.
+1. Låt oss följa exemplet med partikanalen. Ge ditt nya namn **Kanal** och välj den programtyp som ska användas.
 
    ![](assets/image2014-9-24-13-3a0-3a17.png)
 
    >[!NOTE]
    >
-   >Gäller för vad? Det finns flera typer av program. Matcha kanalen till rätt typ. Om du är osäker väljer du **Standard**.
+   >Gäller för vad? Det finns flera typer av program. Matcha kanalen till rätt typ. Om du är osäker, välj **Standard**.
 
    >[!NOTE]
    >
@@ -80,9 +79,9 @@ Ett program är ett specifikt marknadsföringsinitiativ. Kanalen är avsedd att 
 
    >[!TIP]
    >
-   >**Stegnumret** används för att sortera programstatus. Tänk på att det inte går att gå bakåt i dessa steg. De kan bara ändra status till ett högre eller lika värde. Använd lika värden när statusvärdena ska växla fram och tillbaka i stället för en progression.
+   >The **Steg** talet används för sortering av programstatus. Tänk på att det inte går att gå bakåt i dessa steg. De kan bara ändra status till ett högre eller lika värde. Använd lika värden när statusvärdena ska växla fram och tillbaka i stället för en progression.
 
-1. Ange det sista programmet **Status** och **Steg** nummer.
+1. Ange det sista programmet **Status** och **Steg** tal.
 
    ![](assets/image2014-9-24-15-3a39-3a15.png)
 
@@ -90,27 +89,27 @@ Ett program är ett specifikt marknadsföringsinitiativ. Kanalen är avsedd att 
    >
    >När du använder typen Händelse måste du mappa systemet för statusvärdena Registrerad, Väntelistat och Attended. Dessa statusvärden kan därför inte döljas.
 
-1. Välj **Mobile Check-in-status** för **registrerad**.
+1. Välj **Status för mobilinloggning** for **Registrerad**.
 
    ![](assets/image2014-9-24-15-3a39-3a43.png)
 
-1. Välj **Mobile Check-in-status** för **Attended**.
+1. Välj **Status för mobilinloggning** for **Anmäld**.
 
    ![](assets/image2014-9-24-15-3a40-3a21.png)
 
    >[!NOTE]
    >
-   >**Status** för Mobile-incheckning** **alternativ är bara tillgängliga om kanalen används för händelseprogram.
+   >**Status för mobilinloggning**** **alternativ är bara tillgängliga om kanalen används för händelseprogram.
 
    >[!NOTE]
    >
-   >Endast personer med **Mobile Check-in-status** av **Registrerad** och **Delad** visas i [apparna för mobilcheckning](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md).
+   >Endast personer med **Status för mobilinloggning** av **Registrerad** och **Anmäld** visas i [Appar för mobilincheckning](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md).
 
    >[!TIP]
    >
    >Om en ny person skapas i appen för mobilincheckning ställs den in på Registrerad i händelseprogrammet. Om en person checkas in i händelsen i appen ställs den in på Bifogad i händelseprogrammet.
 
-1. Välj **Programstatus** och klicka sedan på **Skapa**.
+1. Välj **Lyckades** programstatus, klicka sedan på **Skapa**.
 
    ![](assets/image2014-9-24-15-3a42-3a54.png)
 

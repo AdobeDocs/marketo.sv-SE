@@ -2,16 +2,15 @@
 unique-page-id: 2360237
 description: Berätta för marknadsföringsberättelsen med en säljprojektsanalys - Marketo Docs - produktdokumentation
 title: Berätta för marknadsföringsberättelsen med en analys av säljprojektspåverkan
-translation-type: tm+mt
-source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
+exl-id: 07a8fd25-b80e-4015-931f-f490bb5e48e5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 0%
 
 ---
 
-
-# Berätta för marknadsföringsberättelsen med en säljprojektsanalys {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
+# Berätta för marknadsföringsberättelsen med en analys av säljprojektspåverkan {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
 
 Använd en påverkansanalys för säljprojekt för att illustrera marknadsföringens roll i viktiga möjligheter. Visa hur marknadsföringen påverkade en möjlighet, från första beröring till skapande av nya affärsmöjligheter och vinn, och mer därtill.
 
@@ -19,27 +18,27 @@ Använd en påverkansanalys för säljprojekt för att illustrera marknadsförin
 >
 >[Skapa en analys av affärsmöjlighet](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-1. Gå till **Analytics** och välj **Säljanalysen**.
+1. Gå till **Analyser** och väljer **Analys av påverkan på affärsmöjlighet**.
 
    ![](assets/analytics-opportunityhand.png)
 
    Affärsmöjlighetsanalysen är en visuell representation av de interaktioner, program och händelseframgångar som är involverade i den affärsmöjligheten. Låt oss titta på diagrammet:
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Orange** utgör intressanta ögonblick i affärsmöjligheten (öppnade e-postmeddelanden, besök i butiker, nedladdningar av whitepaper-rapporter osv.). Större punkter indikerar fler interaktioner.
+   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Orange punkter** representerar intressanta ögonblick i affärsmöjligheten (öppnade e-postmeddelanden, besök i butiker, nedladdningar av whitepaper osv.). Större punkter indikerar fler interaktioner.
 
-   * ![—](assets/image2014-10-3-13-3a44-3a9.png) **Binder** iconsindicate program success.
+   * ![—](assets/image2014-10-3-13-3a44-3a9.png) **Binder-ikoner** ange om programmet lyckades.
 
-   * ![—](assets/image2014-10-3-13-3a44-3a40.png) **Calendar** iconsindicate event success.
+   * ![—](assets/image2014-10-3-13-3a44-3a40.png) **Kalenderikoner** ange att händelsen lyckades.
 
    * **Affärsmöjlighetsperiod**. Det gröna området representerar själva affärsmöjligheten, från skapande av affärsmöjlighet till stängning av affärsmöjlighet (vunnen eller förlorad).
 
    * **Affärsmöjlighetens livscykel**. De grå områdena före och efter den gröna affärsmöjlighetsperioden visar de interaktioner som ledde till och följde på affärsmöjligheten.
 
-   På panelen **Inställningar** visas personer från kontot:
+   The **Inställningar** visas personer från kontot:
 
-   * **talet inom parentes** är antalet interaktioner med den kontakten.
+   * The **tal inom parentes** är antalet interaktioner med kontakten.
 
-   * ![—](assets/image2014-10-3-13-3a45-3a9.png)Den  **gula** starten anger den primära kontakten.
+   * ![—](assets/image2014-10-3-13-3a45-3a9.png)The **gul stjärna** anger den primära kontakten.
 
 
 1. Håll muspekaren över ett namn för att se personens befattning och källan till deras medverkan i affärsmöjligheten.

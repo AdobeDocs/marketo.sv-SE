@@ -1,15 +1,14 @@
 ---
 unique-page-id: 11380732
-description: Kontofilter - Marketo Docs - Produktdokumentation
+description: Kontofilter - Marketo Docs - produktdokumentation
 title: Kontofilter
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
 
 ---
-
 
 # Kontofilter {#account-filters}
 
@@ -17,15 +16,15 @@ Identifiera och engagera namngivna konton och personer i dem med nya kontobasera
 
 ## TAM-filter {#tam-filters}
 
-1. Välj en smart kampanj och klicka på **Smart lista**.
+1. Välj en smart kampanj och klicka på **Smart List**.
 
    ![](assets/one.png)
 
-1. Klicka på **+** för att utöka mappen **Kontofilter**.
+1. Klicka på **+** för att utöka **Kontofilter** mapp.
 
    ![](assets/two.png)
 
-1. Dra de filter du vill använda till arbetsytan.
+1. Dra de filter som du vill använda till arbetsytan.
 
    ![](assets/three.png)
 
@@ -45,7 +44,7 @@ Om du vill använda det här filtret klickar du på listrutan med kontolistan...
 
 ## Medlem i namngivet konto {#member-of-named-account}
 
-Välj först en kvalificerare. **Har** ett specifikt namngivet konto eller  **är** valfritt för ett namngivet konto.
+Välj först en kvalificerare. **Är** för ett specifikt namngivet konto eller specifika namngivna konton, eller **är** för alla namngivna konton.
 
 ![](assets/six.png)
 
@@ -57,7 +56,7 @@ Klicka på listrutan med namngivna konton...
 
 ![](assets/eight.png)
 
-Om du använder kvalificeraren &quot;is any&quot; kan du använda [begränsningar](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) för att begränsa sökresultaten. Lägg till så många du vill!
+Om du använder kvalificeraren &quot;is any&quot; kanske du vill använda [begränsningar](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) för att begränsa sökresultaten. Lägg till så många du vill!
 
 ![](assets/nine.png)
 

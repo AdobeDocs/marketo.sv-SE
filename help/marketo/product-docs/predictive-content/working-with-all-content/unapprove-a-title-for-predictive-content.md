@@ -2,14 +2,13 @@
 unique-page-id: 11384663
 description: Avgodkänn en titel för prediktivt innehåll - Marketo Docs - produktdokumentation
 title: Avgodkänn en titel för prediktivt innehåll
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 63540339-fbed-436b-8cb3-abf2e181e010
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
-
 
 # Avgodkänn en titel för prediktivt innehåll {#unapprove-a-title-for-predictive-content}
 
@@ -21,7 +20,7 @@ Du kan avgodkänna en titel för prediktivt innehåll på sidan Allt innehåll e
 
    ![](assets/image2017-10-3-9-3a18-3a38.png)
 
-1. Klicka på listrutan **Innehållsåtgärder** och välj **Ogodkänd för Predictive Content**.
+1. Klicka på **Innehållsåtgärder** nedrullningsbar meny och välj **Ogodkänd för prediktivt innehåll**.
 
    ![](assets/image2017-10-3-9-3a19-3a20.png)
 
@@ -33,7 +32,7 @@ Du kan avgodkänna en titel medan du redigerar den.
 
    ![](assets/click-icon-hand.png)
 
-1. Avmarkera rutan **Godkänn för prediktivt innehåll** och klicka på **Spara**.
+1. Avmarkera **Godkänn för prediktivt innehåll** och klicka **Spara**.
 
    ![](assets/image2017-10-3-9-3a20-3a17.png)
 

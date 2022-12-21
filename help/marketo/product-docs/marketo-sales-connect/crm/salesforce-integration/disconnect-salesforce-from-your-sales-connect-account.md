@@ -1,15 +1,14 @@
 ---
 unique-page-id: 15368214
-description: Koppla från Salesforce från ditt Sales Connect-konto - Marketo-dokument - Produktdokumentation
+description: Koppla från Salesforce från ditt Sales Connect-konto - Marketo Docs - produktdokumentation
 title: Koppla från Salesforce från ditt Sales Connect-konto
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 7b40ba8f-b852-4de1-bc1d-1206259c2880
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
-
 
 # Koppla från Salesforce från ditt Sales Connect-konto {#disconnect-salesforce-from-your-sales-connect-account}
 
@@ -21,11 +20,11 @@ Ibland kan du behöva koppla från ditt Salesforce-konto från ditt Sales Connec
 
    ![](assets/one-1.png)
 
-1. Klicka på **Salesforce** under Administratörsinställningar.
+1. Under Administratörsinställningar klickar du på **Salesforce**.
 
    ![](assets/six-1.png)
 
-1. Klicka på **Koppla från** på fliken Anslutningar och anpassningar.
+1. Klicka på fliken Anslutningar och anpassningar **Koppla från**.
 
    ![](assets/seven-1.png)
 
@@ -35,10 +34,10 @@ Ibland kan du behöva koppla från ditt Salesforce-konto från ditt Sales Connec
 
    ![](assets/one-1.png)
 
-1. Välj **Salesforce** under Mitt konto.
+1. Under Mitt konto väljer du **Salesforce**.
 
    ![](assets/two-1.png)
 
-1. Klicka på **Koppla från** på fliken Anslutningar och anpassningar.
+1. Klicka på fliken Anslutningar och anpassningar **Koppla från**.
 
    ![](assets/3333.png)

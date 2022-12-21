@@ -3,7 +3,6 @@ unique-page-id: 9437991
 description: Utlösare och filter för smarta mobilkampanjer - Marketo Docs - produktdokumentation
 title: Utlösare och filter för smarta mobilkampanjer
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '818'
@@ -27,7 +26,7 @@ Det finns bara filter för den här aktiviteten:
 
 * Skickades push-meddelande - filter och inaktivitetsfilter
 
-Sök efter **mobilapp** på den högra panelen för att visa alla utlösare och filter för mobilappen.
+Sök efter **mobilapp** i den högra panelen för att lista alla mobilappsutlösare och -filter.
 
 ![](assets/image2015-8-12-17-3a25-3a18.png)
 
@@ -39,7 +38,7 @@ Använd begränsningar med utlösare och filter för att ytterligare sortera dat
 
 Alla utlösare och filter, förutom för Skickat push-meddelande, innehåller följande två standardbegränsningar:
 
-* Enhetstyp - iPod, iPhone, iPhone 6 Plus, iPad mini, iPad, Android smartphone, Android-surfplatta, Okänd (det här är en förinställningslista)
+* Enhetstyp - iPod, iPhone, iPhone 6 Plus, iPad mini, iPad, Android-smarttelefon, Android-surfplatta, Okänd (det här är en förinställningslista)
 
 * Plattform - iPhone eller Android
 
@@ -57,7 +56,7 @@ Vissa utlösare och filter har ytterligare begränsningar, till exempel:
 
 * Sessionslängd (sekunder) - Sessionstid när programmet är i förgrunden
 
-* Är push-aktiverad - **Sant** betyder att push-meddelanden kan skickas. **** Falsemeans som de inte kan; personen kan till exempel ha avanmält sig från att ta emot push-meddelanden
+* Är push-aktiverad - **True** innebär att push-meddelanden kan skickas. **Falskt** betyder att de inte kan det, personen kan till exempel ha avanmält sig från att ta emot push-meddelanden
 
 ## Utlösare och filter {#triggers-and-filters}
 
@@ -129,7 +128,7 @@ Med åtgärdsbegränsningarna kan du använda utlösaren och filtren för att sp
 >
 >**Exempel**
 >
->Under åtgärdstypen *Shopping* finns det en mycket specifik åtgärd, med de andra begränsningarna som definierar den:
+>Under åtgärdstypen för *Shopping*, här är en mycket specifik åtgärd med andra begränsningar som definierar den:
 >
 >* Köpte en skjorta
    >   * Det var rött
@@ -182,7 +181,7 @@ Tryck/tryck på push-meddelande
 >
 >Använd inaktivitetsfiltret Ej påsatt push-meddelande för att hitta personer som inte tryckte på ett push-meddelande som nyligen skickats till dem, så att du kan följa upp via e-post.
 
-**Skickades push-** meddelandeDen här aktiviteten är bara tillgänglig som ett filter.
+**Har skickat push-meddelande** Den här aktiviteten är bara tillgänglig som ett filter.
 
 * Skickades push-meddelande - filter
 

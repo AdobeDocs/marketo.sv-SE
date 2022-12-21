@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359555
-description: Champion/Challenger -hele mails - Marketo Docs - produktdokumentation
+description: Champion/Challenger -Helle emails - Marketo Docs - produktdokumentation
 title: Champion/Challenger - Hele-mails
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
 
 ---
-
 
 # Champion/Challenger: Hela e-postmeddelanden {#champion-challenger-whole-emails}
 
@@ -19,7 +18,7 @@ Testa hela e-postmeddelanden mot varandra. När testet är klart skickar du ut d
 >
 >[Lägg till en e-postkampanj/kanal](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. I e-posttestredigeraren väljer du **Hela e-postmeddelanden** i listrutan **Testtyp**.
+1. Välj **Hela e-postmeddelanden** i **Testtyp** nedrullningsbar meny.
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -27,7 +26,7 @@ Testa hela e-postmeddelanden mot varandra. När testet är klart skickar du ut d
    >
    >Kom ihåg: Det ursprungliga e-postmeddelandet är segraren. Utmanarna tävlar mot det.
 
-1. Sök efter och välj **Challenger**-e-postadresserna och klicka sedan på **Klona**.
+1. Sök och välj **Utmanare** e-post(er) och klicka sedan på **Klona**.
 
    ![](assets/image2015-8-10-11-3a46-3a28.png)
 
@@ -47,9 +46,9 @@ Testa hela e-postmeddelanden mot varandra. När testet är klart skickar du ut d
 
    För att få statistiskt förtroende måste du se till att den procentandel du tilldelar till utmanare innehåller tillräckligt många personer för att testet ska vara giltigt. Låt dig inte luras av osäkra resultat.
 
-   [Mer information än du någonsin önskat om statistisk tillförsikt](https://en.wikipedia.org/wiki/Confidence_interval).
+   [Mer information än någonsin om statistisk säkerhet](https://en.wikipedia.org/wiki/Confidence_interval).
 
-1. Klicka på **Nästa**.
+1. Klicka **Nästa**.
 
    ![](assets/image2014-9-12-16-3a42-3a9.png)
 

@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359532
-description: Använd dynamiskt innehåll på en landningssida - Marketo Docs - Produktdokumentation
+description: Använd dynamiskt innehåll på en landningssida - Marketo Docs - produktdokumentation
 title: Använd dynamiskt innehåll på en landningssida
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: 9f71473b-1805-43ab-b2d7-e4f9854f1944
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
-
 
 # Använd dynamiskt innehåll på en landningssida {#use-dynamic-content-in-a-landing-page}
 
@@ -50,7 +49,7 @@ Genom att använda dynamiskt innehåll på landningssidor engagerar du människo
 
 ## Gör element dynamiskt {#make-element-dynamic}
 
-1. Dra och släpp element från Static till **Dynamic**.
+1. Dra och släpp element från statisk till **Dynamisk**.
 
    ![](assets/image2014-9-16-14-3a50-3a27.png)
 

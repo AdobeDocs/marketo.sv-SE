@@ -1,19 +1,18 @@
 ---
 unique-page-id: 7512460
-description: Redigera mobilpush-meddelanden - Marketo Docs - Produktdokumentation
+description: Redigera mobilpush-meddelanden - Marketo Docs - produktdokumentation
 title: Redigera mobilpush-meddelanden
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 3ed36e77-642c-42f9-8714-fc4f718eb073
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 0%
 
 ---
 
-
 # Redigera mobilpush-meddelanden {#edit-mobile-push-notification}
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter** område.
 
 ![](assets/image2015-4-22-18-3a44-3a42.png)
 
@@ -23,4 +22,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->Läs mer om [konfiguration av push-meddelanden](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) här.
+>Läs mer om [konfigurera push-meddelanden](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) här.

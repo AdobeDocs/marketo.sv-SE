@@ -3,7 +3,6 @@ unique-page-id: 8783561
 description: Skicka ett exempel - Marketo Docs - produktdokumentation
 title: Skicka ett exempel
 exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '73'
@@ -15,13 +14,13 @@ ht-degree: 0%
 
 Du kan dela ett exempel på en e-poststund direkt med någon. Det finns två sätt att göra det på.
 
-## Det reguljära sättet {#the-regular-way}
+## Det normala sättet {#the-regular-way}
 
 1. Öppna kortmenyn.
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. Tryck på **Skicka exempel**.
+1. Tryck **Skicka exempel**.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 

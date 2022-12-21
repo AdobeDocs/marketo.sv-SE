@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Mall 12E {#template-12e}
 
-Högerklicka för att [hämta mall 12E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html)
+Högerklicka för att [ladda ned mall 12E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html)
 
 ![](assets/image2015-8-4-14-3a45-3a47.png)
 

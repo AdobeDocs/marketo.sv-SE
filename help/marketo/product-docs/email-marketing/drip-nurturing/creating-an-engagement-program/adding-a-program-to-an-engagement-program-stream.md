@@ -2,14 +2,13 @@
 unique-page-id: 10098134
 description: Lägga till ett program i en Engagement Program Stream - Marketo Docs - Produktdokumentation
 title: Lägga till ett program i en Engagement Program Stream
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '461'
 ht-degree: 0%
 
 ---
-
 
 # Lägga till ett program i en Engagement Program Stream {#adding-a-program-to-an-engagement-program-stream}
 
@@ -18,7 +17,7 @@ ht-degree: 0%
 Det är enkelt att lägga till e-post i en ström i ett engagemangsprogram, och det fungerar bra. Men om era affärsbehov är mer komplexa kan det vara bra att placera e-postmeddelandet i ett program. Du kanske vill:
 
 * Skicka ett e-postmeddelande till en undergrupp personer i strömmen
-* Skicka *olika*-e-postmeddelanden till undergrupper i strömmen
+* Skicka *olika* e-postmeddelanden till undergrupper i strömmen
 * Inkludera landningssidor, formulär eller andra resurser i näringen
 * Aktivera multitouch-attribuering
 * Lägg till extra flödessteg, till exempel varningsmeddelanden
@@ -31,17 +30,17 @@ När du använder ett kapslat program baseras beslutet att skicka ett e-postmedd
 * Om du är medlem i programmet får du inte e-postmeddelandet
 * Om du inte längre är medlem men har fått e-postmeddelandet tidigare via det programmet får du inte e-postmeddelandet
 
-När du använder ett program i en ström spelar det ingen roll om du har fått den specifika e-postadressen tidigare. Så länge e-postmeddelandet inte har skickats ut före *i det specifika programmet* kan du ta emot det igen.
+När du använder ett program i en ström spelar det ingen roll om du har fått den specifika e-postadressen tidigare. Så länge e-postmeddelandet inte har skickats ut tidigare *i det särskilda programmet* kan du få den igen.
 
 Det kan vara svårt att blanda e-post och program i ett engagemangsprogram. Du kanske vill använda den ena eller den andra.
 
 >[!TIP]
 >
->Använd ett **Member of Engagement Program**-filter i den smarta listan.
+>Var noga med att använda en **Medlem i Engagement Program** i din smarta lista.
 
 ## Vad händer med dem som inte uppfyller villkoren i den smarta listan? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 
-Om någon filtreras bort från den smarta listan i ett kapslat programs smarta kampanj går de inte vidare till nästa innehåll under den aktuella sändningen. De fortsätter till nästa del av innehållet i strömmen för *följande*-sändning.
+Om någon filtreras bort från den smarta listan i ett kapslat programs smarta kampanj går de inte vidare till nästa innehåll under den aktuella sändningen. De kommer att gå vidare till nästa del av innehållet i strömmen för *följande* cast.
 
 ## Vad innehåller ett kapslat program? {#what-does-a-nested-program-contain}
 

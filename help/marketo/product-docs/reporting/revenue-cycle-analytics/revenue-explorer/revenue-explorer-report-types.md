@@ -1,17 +1,16 @@
 ---
 unique-page-id: 7504922
-description: Rapporttyper för Intäktsutforskaren - Marketo Docs - Produktdokumentation
+description: Rapporttyper för Intäktsutforskaren - Marketo Docs - produktdokumentation
 title: Rapporttyper för intäktsutforskaren
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 7c472d6c-9c8f-4387-97a0-690fe7cfd96a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
-
-# Rapporttyper {#revenue-explorer-report-types} för Intäktsutforskaren
+# Rapporttyper för intäktsutforskaren {#revenue-explorer-report-types}
 
 Nedan följer de typer av rapporter som du kommer att stöta på om du använder Revenue Cycle Analytics.
 

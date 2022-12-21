@@ -2,14 +2,13 @@
 unique-page-id: 14746176
 description: Avbeställ Link Landing Page - Marketo Docs - produktdokumentation
 title: Avbeställ Landing Page
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+exl-id: 1ef22db5-56ca-47fb-894b-ef94ec4527ac
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
 
 ---
-
 
 # Avbeställ Landing Page {#unsubscribe-link-landing-page}
 

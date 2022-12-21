@@ -1,17 +1,16 @@
 ---
 unique-page-id: 2359498
-description: Förhandsgranska ett fragment - Marketo Docs - Produktdokumentation
+description: Förhandsgranska ett fragment - Marketo Docs - produktdokumentation
 title: Förhandsgranska ett kodavsnitt
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 757e14ef-af7b-44d8-9c73-89b281df3d42
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
-
-# Förhandsgranska ett fragment {#preview-a-snippet}
+# Förhandsgranska ett kodavsnitt {#preview-a-snippet}
 
 >[!PREREQUISITES]
 >
@@ -23,7 +22,7 @@ Kodavsnitt är block med dynamiskt innehåll som ändras baserat på segmenterin
 
    ![](assets/designstudio-3.png)
 
-1. Klicka på fragmentet och **Förhandsgranska fragment**.
+1. Klicka på fragmentet och sedan **Förhandsgranska fragment**.
 
    ![](assets/image2014-9-16-9-3a48-3a32.png)
 

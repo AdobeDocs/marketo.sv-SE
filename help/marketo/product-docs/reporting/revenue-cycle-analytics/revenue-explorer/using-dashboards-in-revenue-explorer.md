@@ -1,15 +1,14 @@
 ---
 unique-page-id: 10094959
-description: Använda kontrollpaneler i Intresseutforskaren - Marketo Docs - Produktdokumentation
+description: Använda kontrollpaneler i Intresseutforskaren - Marketo Docs - produktdokumentation
 title: Använda instrumentpaneler i Intresseutforskaren
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: ff81d48f-524e-4425-acb4-b62428f7a375
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
 
 ---
-
 
 # Använda instrumentpaneler i Intresseutforskaren {#using-dashboards-in-revenue-explorer}
 
@@ -17,11 +16,11 @@ En kontrollpanel är en kombination av rapporter från Intresseutforskaren för 
 
 ## Skapa en ny instrumentpanel {#creating-a-new-dashboard}
 
-1. Klicka på **Intresseutforskaren**.
+1. Klicka **Intäktsutforskaren**.
 
    ![](assets/one.png)
 
-1. Klicka på **Skapa ny** och **Kontrollpanel**.
+1. Klicka **Skapa nytt** sedan **Kontrollpanel**.
 
    ![](assets/two.png)
 
@@ -31,17 +30,17 @@ En kontrollpanel är en kombination av rapporter från Intresseutforskaren för 
 
    >[!NOTE]
    >
-   >Du kan anpassa instrumentpanelens utseende ytterligare genom att klicka på **Teman** och välja din favorit.
+   >Du kan anpassa kontrollpanelens utseende ytterligare genom att klicka på **Teman** och välja din favorit.
 
-1. Klicka på ikonen **Infoga** i det första avsnittet på kontrollpanelen och välj **Arkiv**.
+1. Klicka på **Infoga** ikon och markera **Fil**.
 
    ![](assets/four.png)
 
-1. Dubbelklicka på **Intresseutforskaren**.
+1. Dubbelklicka **Intäktsutforskaren**.
 
    ![](assets/five.png)
 
-1. Dubbelklicka på **Alla rapporter och instrumentpaneler**.
+1. Dubbelklicka **Alla rapporter och kontrollpaneler**.
 
    ![](assets/six.png)
 
@@ -57,7 +56,7 @@ En kontrollpanel är en kombination av rapporter från Intresseutforskaren för 
 
    ![](assets/nine.png)
 
-1. Om du vill byta namn på ett avsnitt klickar du på det för att markera det, skriver det önskade namnet under Titel och klickar på **Använd**. Upprepa för varje avsnitt.
+1. Om du vill byta namn på ett avsnitt markerar du det genom att klicka på det, skriver det önskade namnet under Titel och klickar på **Använd**. Upprepa för varje avsnitt.
 
    ![](assets/ten.png)
 
@@ -65,13 +64,13 @@ En kontrollpanel är en kombination av rapporter från Intresseutforskaren för 
 
    ![](assets/eleven.png)
 
-## Redigera en instrumentpanel {#editing-a-dashboard}
+## Redigera en kontrollpanel {#editing-a-dashboard}
 
-1. Klicka på **Intresseutforskaren**.
+1. Klicka **Intäktsutforskaren**.
 
    ![](assets/one.png)
 
-1. Dubbelklicka på mappen **Intresseutforskaren**. Navigera till den plats där kontrollpanelen finns.
+1. Dubbelklicka på **Intäktsutforskaren** mapp. Navigera till den plats där kontrollpanelen finns.
 
    ![](assets/thirteen.png)
 
@@ -81,11 +80,11 @@ En kontrollpanel är en kombination av rapporter från Intresseutforskaren för 
 
 ## Ta bort en instrumentpanel {#deleting-a-dashboard}
 
-1. Klicka på **Intresseutforskaren**.
+1. Klicka **Intäktsutforskaren**.
 
    ![](assets/one.png)
 
-1. Dubbelklicka på mappen **Intresseutforskaren**. Navigera till den plats där kontrollpanelen finns.
+1. Dubbelklicka på **Intäktsutforskaren** mapp. Navigera till den plats där kontrollpanelen finns.
 
    ![](assets/thirteen.png)
 

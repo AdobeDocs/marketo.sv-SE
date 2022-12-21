@@ -1,9 +1,10 @@
 ---
 description: Steg 3 av 4 - Konfigurera klientapp för MS Dynamics - Marketo Docs - Produktdokumentation
 title: Steg 3 av 4 - Konfigurera klientappen för MS Dynamics
-source-git-commit: 9ee27e22fec4e0ab85c193be2ea99d3c8b40568b
+exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
+source-git-commit: 0b9a1f50d8828acf019c5c4f82021d327f396fca
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
@@ -47,6 +48,12 @@ ht-degree: 0%
 Federated Azure AD till ADFS OnPrem måste skapa en identifieringsprincip för hemsfär för det specifika programmet. Med den här principen dirigerar Azure AD om autentiseringsbegäran till federationstjänsten. Synkronisering av lösenordshash måste aktiveras i AD Connect för detta. Mer information finns på [OAuth med ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) och [Ange en tredje princip för ett program](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
 
 Ytterligare referenser [finns här](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=Denna%20rapport%20innehåller även%20federerade%20är%20federerade%20till%20Azure%20AD.).
+
+## Innan du fortsätter till steg 4 {#before-proceeding-to-step-4}
+
+* Om du vill begränsa antalet poster som du synkroniserar, [konfigurera ett eget synkroniseringsfilter](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) nu.
+* Kör [Validera Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) -processen. Den verifierar att dina initiala inställningar har gjorts korrekt.
+* Logga in på Marketo Sync User i Microsoft Dynamics CRM.
 
 >[!MORELIKETHIS]
 >

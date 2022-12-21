@@ -16,7 +16,7 @@ Följande funktioner ingår i mars-versionen.
 
 ## Marketo Kalenderfiler {#marketo-calendar-files}
 
-Skapa en kalenderfil som en **Min token** som ska användas i din händelsemeddelande och dina påminnelser via e-post. Den här integrerade kalenderfilen (t.ex. ICS-filen) återger alla token, inklusive Mina token och `{{member.webinar URL}}`-token.
+Skapa en kalenderfil som en **Min token** som ska användas i e-postmeddelanden med bekräftelser och påminnelser. Den här integrerade kalenderfilen (t.ex. ICS-filen) återger alla variabler, inklusive Mina token och `{{member.webinar URL}}` token.
 
 ![](assets/image2014-9-22-15-3a35-3a24.png)
 

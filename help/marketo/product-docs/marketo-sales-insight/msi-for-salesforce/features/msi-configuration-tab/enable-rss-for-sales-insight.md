@@ -2,14 +2,13 @@
 unique-page-id: 11377005
 description: Aktivera RSS för Sales Insight - Marketo Docs - produktdokumentation
 title: Aktivera RSS för Sales Insight
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+exl-id: 1b6c0dc7-6f24-4931-ae99-6a2cf00db99d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
-
 
 # Aktivera RSS för Sales Insight {#enable-rss-for-sales-insight}
 
@@ -17,17 +16,17 @@ ht-degree: 0%
 >
 >**Administratörsbehörigheter krävs**
 
-Om Marketo-användare vill visa sin lead-feed inte bara i Salesforce, utan även i en RSS-feed, måste Marketo Admin först aktivera den. Det är lätt.
+Om Marketo-användare vill visa sin lead-feed inte bara i Salesforce, utan även i en RSS-feed, måste en Marketo-administratör först aktivera den. Det är lätt.
 
-1. I My Marketo klickar du på **Admin** och sedan **Sales Insight**.
+1. I Min Marketo klickar du på **Administratör** och sedan **Försäljningsinsikter**.
 
    ![](assets/set-up-rss-1-hands.png)
 
-1. Klicka på **Redigera** på Inställningar. Observera att RSS-flödet visas som **Inaktiverat**.
+1. På Inställningar klickar du på **Redigera**. Observera att RSS-flödet visas som **Handikappade**.
 
    ![](assets/rss-settings-tab.png)
 
-1. I dialogrutan Redigera inställningar markerar du kryssrutan **RSS-feed** och klickar på **Spara**.
+1. I dialogrutan Redigera inställningar markerar du **RSS-feed** kryssruta och klicka **Spara**.
 
    ![](assets/rss-edit-settings-2-hands.png)
 

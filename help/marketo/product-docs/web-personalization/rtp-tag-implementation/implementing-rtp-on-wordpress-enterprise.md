@@ -2,16 +2,15 @@
 unique-page-id: 4720215
 description: Implementera RTP på Wordpress Enterprise - Marketo Docs - produktdokumentation
 title: Implementera RTP i Wordpress Enterprise
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 61cfd3f8-0811-4352-9752-0081ce19257b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
-
-# Implementera RTP på Wordpress Enterprise {#implementing-rtp-on-wordpress-enterprise}
+# Implementera RTP i Wordpress Enterprise {#implementing-rtp-on-wordpress-enterprise}
 
 Följ installationsanvisningarna nedan för att implementera RTP-taggen:
 
@@ -29,7 +28,7 @@ Följ installationsanvisningarna nedan för att implementera RTP-taggen:
 
 1. Logga in på ditt WordPress-konto som administratör
 
-   a. Under **Utseende** går du till **Eget JavaScript**.
+   a. Under **Utseende**, gå till **Eget JavaScript**.
 b. Klistra in RTP Javascript-taggen direkt efter den befintliga koden.
 
    ![](assets/image2014-12-3-17-3a51-3a46.png)
@@ -46,4 +45,4 @@ b. Klistra in RTP Javascript-taggen direkt efter den befintliga koden.
    >
    >Infoga bara själva skriptet.
 
-1. Klicka på **Uppdatera**.
+1. Klicka **Uppdatera**.

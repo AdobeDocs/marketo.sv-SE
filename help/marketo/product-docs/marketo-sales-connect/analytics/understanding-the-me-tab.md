@@ -1,15 +1,14 @@
 ---
 unique-page-id: 14352614
-description: Fliken Me - Marketo Docs - produktdokumentation
+description: Fliken Jag - Marketo Docs - produktdokumentation
 title: Fliken Me
-translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+exl-id: 5ae0e091-e315-4182-81d3-134113c8288f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
 
 ---
-
 
 # Fliken Me {#understanding-the-me-tab}
 

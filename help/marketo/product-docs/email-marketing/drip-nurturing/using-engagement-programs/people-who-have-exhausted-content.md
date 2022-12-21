@@ -2,14 +2,13 @@
 unique-page-id: 2359953
 description: Personer som har utsökt innehåll - Marketo Docs - Produktdokumentation
 title: Personer som har fyllt i innehåll
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
 
 ---
-
 
 # Personer som har fyllt i innehåll {#people-who-have-exhausted-content}
 
@@ -17,7 +16,7 @@ När en person har fått allt innehåll i en ström har den uttömt alla möjlig
 
 ## Medlem i Engagement Program-filtret {#member-of-engagement-program-filter}
 
-1. Skapa en ny smart lista och sök och dra sedan i filtret **Member of Engagement Program**.
+1. Skapa en ny smart lista och sök och dra i **Medlem i Engagement Program** filter.
 
    ![](assets/image2014-9-15-18-20-0.png)
 
@@ -25,7 +24,7 @@ När en person har fått allt innehåll i en ström har den uttömt alla möjlig
 
    ![](assets/image2014-9-15-18-3a20-3a11.png)
 
-1. Välj **Utfyllt innehåll** under **Lägg till begränsning**.
+1. Under **Lägg till begränsning**, markera **Utfyllt innehåll**.
 
    ![](assets/image2014-9-15-18-3a20-3a17.png)
 
@@ -41,11 +40,11 @@ När en person har fått allt innehåll i en ström har den uttömt alla möjlig
 
    ![](assets/ma.png)
 
-1. Välj ditt engagemangsprogram och gå till fliken **Medlemmar**.
+1. Välj engagemangsprogram och gå till **Medlemmar** -fliken.
 
    ![](assets/memberstab.jpg)
 
-1. Lägg märke till kolumnen **Utsträckt innehåll**.
+1. Lägg märke till den anropade kolumnen **Utfyllt innehåll**.
 
    ![](assets/image2014-9-15-18-3a21-3a7.png)
 

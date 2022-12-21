@@ -1,17 +1,16 @@
 ---
 unique-page-id: 2359562
-description: Champion/Challenger -Define Champion Criteria - Marketo Docs - produktdokumentation
+description: Champion/Challenger -Define Champion Criteria - Marketo Docs - Product Documentation
 title: Champion/Challenger - Definiera tävlingskriterier
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
-
-# Champion/Challenger: Definiera tävlingsvillkor {#champion-challenger-define-champion-criteria}
+# Champion/Challenger: Definiera villkor för tävling {#champion-challenger-define-champion-criteria}
 
 När du har konfigurerat testtypen måste du definiera tävlingskriterierna. Så här gör du.
 
@@ -19,9 +18,9 @@ När du har konfigurerat testtypen måste du definiera tävlingskriterierna. Så
 >
 >[Lägg till en e-postkampanj/kanal](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-## Standardtävlingsvillkor {#standard-champion-criteria}
+## Standardvillkor för tävling {#standard-champion-criteria}
 
-1. Välj ett av de tillgängliga **tävlingsvillkoren**.
+1. Välj en av de tillgängliga **Stipendievillkor**.
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
@@ -29,11 +28,11 @@ När du har konfigurerat testtypen måste du definiera tävlingskriterierna. Så
    >
    >Vi håller reda på mätvärdena och skickar en rapport med data via e-post.
 
-1. Om du valde ett av standardvillkoren för **Champion Criteria** går du vidare till [Champion/Challenger: Konfigurera rapportaviseringar](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)!
+1. Om du valde något av standardalternativen **Stipendievillkor**, går vidare till [Champion/Challenger: Konfigurera rapportaviseringar](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)!
 
 ## Anpassade villkor för tävling {#custom-champion-criteria}
 
-1. Om du vill bli snygg kan du anpassa genom att välja **Anpassad konvertering** och klicka på **Redigera**.
+1. Om du vill bli snygg kan du anpassa dig genom att välja **Anpassad konvertering** och klicka **Redigera**.
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 
@@ -51,7 +50,7 @@ När du har konfigurerat testtypen måste du definiera tävlingskriterierna. Så
 
    Marketo tillåter bara utlösare för personer som har fått e-postmeddelandet från det här e-postprogrammet. Du behöver inte lägga till filtret&quot;Skickat e-post&quot;.
 
-1. Klicka på **Stäng**.
+1. Klicka **Stäng**.
 
    ![](assets/image2014-9-15-13-3a4-3a7.png)
 

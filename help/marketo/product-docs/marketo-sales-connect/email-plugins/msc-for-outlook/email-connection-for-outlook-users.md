@@ -2,14 +2,13 @@
 unique-page-id: 17727591
 description: E-postanslutning för Outlook-användare - Marketo Docs - Produktdokumentation
 title: E-postanslutning för Outlook-användare
-translation-type: tm+mt
-source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
+exl-id: e694915c-39a6-4476-a643-080acb758de7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
 
 ---
-
 
 # E-postanslutning för Outlook-användare {#email-connection-for-outlook-users}
 
@@ -27,23 +26,23 @@ Att ansluta till Outlook innebär att du får svarsspårning, åtkomst till leve
 
    ![](assets/one.png)
 
-1. Välj **E-postinställningar** under Mitt konto.
+1. Under Mitt konto väljer du **E-postinställningar**.
 
    ![](assets/two.png)
 
-1. Klicka på fliken **E-postanslutning**.
+1. Klicka på **E-postanslutning** -fliken.
 
    ![](assets/three.png)
 
-1. Klicka på **Kom igång**.
+1. Klicka **Kom igång**.
 
    ![](assets/four.png)
 
-1. Välj **Jag använder Outlook för att skicka e-post** och klicka på **Nästa**.
+1. Välj **Jag använder Outlook för att skicka e-post** och klicka **Nästa**.
 
    ![](assets/five-a.png)
 
-1. Markera den version av Outlook som du använder och klicka på **Nästa**. I det här exemplet väljer vi Outlook Online.
+1. Välj den version av Outlook som du använder och klicka på **Nästa**. I det här exemplet väljer vi Outlook Online.
 
    ![](assets/six-a.png)
 
@@ -62,9 +61,9 @@ Att ansluta till Outlook innebär att du får svarsspårning, åtkomst till leve
 
    >[!NOTE]
    >
-   >Marketo stöder för närvarande inte Hybrid-konton i Exchange.
+   >Marketo stöder för närvarande inte Hybrid-konton för Exchange.
 
-1. Klicka på **OK**.
+1. Klicka **OK**.
 
    ![](assets/seven-a.png)
 
@@ -72,7 +71,7 @@ Att ansluta till Outlook innebär att du får svarsspårning, åtkomst till leve
 
    ![](assets/eight-a.png)
 
-1. Klicka på **Acceptera**.
+1. Klicka **Acceptera**.
 
    ![](assets/nine-a.png)
 
@@ -90,23 +89,23 @@ Att ansluta till Exchange On-Premise innebär att du får svarsspårning, åtkom
 
    ![](assets/one.png)
 
-1. Välj **E-postinställningar** under Mitt konto.
+1. Under Mitt konto väljer du **E-postinställningar**.
 
    ![](assets/two.png)
 
-1. Klicka på fliken **E-postanslutning**.
+1. Klicka på **E-postanslutning** -fliken.
 
    ![](assets/three.png)
 
-1. Klicka på **Kom igång**.
+1. Klicka **Kom igång**.
 
    ![](assets/four.png)
 
-1. Välj **Jag använder Outlook för att skicka e-post** och klicka på **Nästa**.
+1. Välj **Jag använder Outlook för att skicka e-post** och klicka **Nästa**.
 
    ![](assets/five-a.png)
 
-1. Markera den version av Outlook som du använder och klicka på **Nästa**. I det här exemplet väljer vi Exchange On-Local.
+1. Välj den version av Outlook som du använder och klicka på **Nästa**. I det här exemplet väljer vi Exchange On-Local.
 
    ![](assets/six-b.png)
 
@@ -123,7 +122,7 @@ Att ansluta till Exchange On-Premise innebär att du får svarsspårning, åtkom
     </tbody>
    </table>
 
-1. Ange dina autentiseringsuppgifter och klicka på **Anslut**.
+1. Ange dina uppgifter och klicka på **Anslut**.
 
    ![](assets/seven-b.png)
 

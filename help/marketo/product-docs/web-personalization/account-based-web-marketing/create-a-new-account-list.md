@@ -1,15 +1,14 @@
 ---
 unique-page-id: 4720232
-description: Skapa en ny kontolista - Marketo Docs - Produktdokumentation
+description: Skapa en ny kontolista - Marketo Docs - produktdokumentation
 title: Skapa en ny kontolista
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
 
 ---
-
 
 # Skapa en ny kontolista {#create-a-new-account-list}
 
@@ -17,7 +16,7 @@ Skapa och överför en lista över organisations- och domännamn för att rikta 
 
 >[!NOTE]
 >
->Den här artikeln gäller endast äldre kunder med Web ABM. Om du har skaffat Web ABM efter september 2016 följer du stegen i [den här artikeln](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) i stället.
+>Den här artikeln gäller endast äldre kunder med Web ABM. Om du har köpt Web ABM efter september 2016, följ stegen i [den här artikeln](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) i stället.
 
 ## Skapa en ny kontolista {#create-a-new-account-list-1}
 
@@ -25,11 +24,11 @@ Skapa och överför en lista över organisations- och domännamn för att rikta 
 
    ![](assets/dropdown-account-lists-hand.jpg)
 
-1. Välj **Skapa ny**.
+1. Välj **Skapa nytt**.
 
    ![](assets/create-new-account-list-hand.jpg)
 
-1. Välj **Bläddra** och överför CSV-filen (kontrollera att CSV-filen uppfyller villkoren). Lägg till en **Namn** och **Beskrivning**. Klicka på **Spara**.
+1. Välj **Bläddra** och överför din CSV-fil (kontrollera att CSV-filen uppfyller villkoren). Lägg till en **Namn** och **Beskrivning**. Klicka **Spara**.
 
    ![](assets/create-account-list-hands.jpg)
 
@@ -57,10 +56,8 @@ Skapa och överför en lista över organisations- och domännamn för att rikta 
    >* Rad 1 kolumn D värde = US State
    >* Ett av kolumnvärdena är obligatoriskt. Men om du anger både organisationsnamn och domännamn förbättras matchningsfrekvenserna i kontolistan.
    >* Land och stat är valfria värden.
-
       >
-      >   
-      * Använd det fullständiga landsnamnet eller förkortningskoden för landsnamnet. Exempel: USA eller USA.
+      >   * Använd det fullständiga landsnamnet eller förkortningskoden för landsnamnet. Exempel: USA eller USA.
       >   * För delstat i USA använder du förkortningskoden med två bokstäver, dvs. CA. Endast delstater i USA känns igen.
 
    >
@@ -68,11 +65,11 @@ Skapa och överför en lista över organisations- och domännamn för att rikta 
 
 ## Redigera en kontolista {#edit-an-account-list}
 
-På sidan **Kontolistor** klickar du på ikonen **Redigera** i listan.
+På **Kontolistor** klickar du på **Redigera** -ikonen i listan.
 
 ![](assets/create-new-account-list-edit.jpg)
 
-Välj **Bläddra** och överför den nya CSV-filen. Den här filen ersätter originalfilen. Klicka på **Spara**. Den nya överförda filen kommer att vara i ett väntande läge tills den har godkänts av Marketo Support. När den är i ett väntande läge förblir den ursprungliga filen aktiv.
+Välj **Bläddra** och överför din nya CSV-fil. Den här filen ersätter originalfilen. Klicka **Spara**. Den nya överförda filen kommer att vara i ett väntande läge tills den godkänts av Marketo Support, och när den är i ett väntande läge förblir den ursprungliga filen aktiv.
 
 ![](assets/set-account-list-edit-hands.jpg)
 
@@ -80,11 +77,11 @@ CSV-filen ersätter den befintliga filen. Den befintliga listan förblir aktiv t
 
 ## Ta bort en namngiven kontolista {#delete-a-named-account-list}
 
-1. På sidan **Kontolistor** klickar du på ikonen Ta bort för den lista du vill ta bort.
+1. På **Kontolistor** klickar du på ikonen Ta bort för den lista som du vill ta bort.
 
    ![](assets/create-new-account-list-delete.jpg)
 
-1. Ett meddelande visas som bekräftar om du vill ta bort listan. Klicka på **OK**.
+1. Ett meddelande visas som bekräftar om du vill ta bort listan. Klicka **OK**.
 
    ![](assets/delete-notification-hand.jpg)
 

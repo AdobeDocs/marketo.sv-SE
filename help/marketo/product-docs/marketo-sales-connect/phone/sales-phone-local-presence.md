@@ -1,19 +1,18 @@
 ---
 unique-page-id: 14352436
-description: Telefon, lokal närvaro - Marketo Docs - Produktdokumentation
+description: Telefon, lokal närvaro - Marketo Docs - produktdokumentation
 title: Lokal telefonnärvaro
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
+# Lokal telefonnärvaro {#sales-phone-local-presence}
 
-# Lokal närvaro för telefonförsäljning {#sales-phone-local-presence}
-
-När du vill se ut som om du ringer från någon annans riktnummer markerar du bara rutan **Lokal närvaro** innan du ringer samtalet.
+När du vill se ut som om du ringer från någons samma riktnummer kan du bara kontrollera **Lokal närvaro** innan du ringer.
 
 ## Vanliga frågor om lokal närvaro {#local-presence-faq}
 

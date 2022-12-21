@@ -2,16 +2,15 @@
 unique-page-id: 8782266
 description: Prioritera webbkampanjer - Marketo Docs - Produktdokumentation
 title: Prioritera webbkampanjer
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+exl-id: 18c43ba2-6d4a-4344-93be-3e1435742504
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
-
-# Prioriterar webbkampanjer {#prioritizing-web-campaigns}
+# Prioritera webbkampanjer {#prioritizing-web-campaigns}
 
 Prioritera era webbkampanjer när två eller flera webbkampanjer överlappar varandra genom att ange en prioriterad poäng.
 
@@ -23,10 +22,8 @@ Prioritera era webbkampanjer när två eller flera webbkampanjer överlappar var
 >
 >* Två eller flera widgetar och/eller dialogkampanjer reagerar samtidigt på samma sida
 >* Två eller flera i zoner med samma zon-id reagerar samtidigt på samma webbsida
-
 >
->
-En In Zone-kampanj och en (Widget eller Dialog) kampanj kan reagera på samma sida.
+>En In Zone-kampanj och en (Widget eller Dialog) kampanj kan reagera på samma sida.
 
 1. Gå till Webbkampanjer.
 
@@ -34,7 +31,7 @@ En In Zone-kampanj och en (Widget eller Dialog) kampanj kan reagera på samma si
 
    >[!NOTE]
    >
-   >Använd filterfunktionen [](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md) för att göra det enklare att hitta den webbkampanj du vill ha.
+   >Om du vill göra det enklare att hitta webbkampanjen använder du [filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Ange prioritetspoäng (999 = Högsta prioritet 1 = Lägsta prioritet) på sidan Redigera kampanj.
 

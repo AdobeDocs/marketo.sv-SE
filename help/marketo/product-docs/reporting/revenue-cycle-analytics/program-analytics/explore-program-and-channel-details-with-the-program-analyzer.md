@@ -2,14 +2,13 @@
 unique-page-id: 2360437
 description: Utforska program- och kanalinformation med Program Analyzer - Marketo Docs - Produktdokumentation
 title: Utforska program- och kanalinformation med Program Analyzer
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
 
 ---
-
 
 # Utforska program- och kanalinformation med Program Analyzer {#explore-program-channel-details-with-the-program-analyzer}
 
@@ -23,7 +22,7 @@ Du kan se detaljerad program- och kanalstatistik i Program Analyzer. Du kan äve
 >
 >Alla utgåvor av Marketo innehåller inte den här funktionen. Kontakta din kontoansvarige om du vill ha mer information.
 
-1. Klicka på **Analys**.
+1. Klicka **Analyser**.
 
    ![](assets/image2015-4-28-12-3a54-3a47.png)
 
@@ -31,13 +30,13 @@ Du kan se detaljerad program- och kanalstatistik i Program Analyzer. Du kan äve
 
    ![](assets/image2015-4-28-12-3a56-3a46.png)
 
-1. Klicka på motsvarande bubbla om du vill visa den specifika statistiken för en kanal eller ett program (beroende på vilken **vy** du väljer).
+1. Visa specifik statistik för en kanal eller ett program (beroende på **Visa** klickar du på motsvarande bubbla.
 
    ![](assets/image2015-4-28-12-3a57-3a14.png)
 
    >[!NOTE]
    >
-   >Många av de mätvärden du kan välja i programanalysen är tillgängliga med beräkningar med första beröringen (FT) och multitouch (MT). Det är viktigt att förstå skillnaden [mellan FT- och MT-attribuering](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >Många av de mätvärden du kan välja i programanalysen är tillgängliga med beräkningar med första beröringen (FT) och multitouch (MT). Det är viktigt att förstå [skillnaden mellan FT- och MT-attribuering](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Om du vill jämföra alla program i en enda kanal klickar du på kanalnamnet i popup-dialogrutan.
 

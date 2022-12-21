@@ -1,15 +1,14 @@
 ---
 unique-page-id: 14352438
-description: Telefonöversikt - Marketo Docs - Produktdokumentation
+description: Telefonöversikt - Marketo Docs - produktdokumentation
 title: Översikt över telefonförsäljning
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 297d8d87-94dc-47c7-9781-ae7187e5ddf9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 0%
 
 ---
-
 
 # Översikt över telefonförsäljning {#sales-phone-overview}
 
@@ -21,9 +20,9 @@ ht-degree: 0%
 
 ## Hur kommer jag snabbt igång med Sales Phone? {#how-do-i-quickly-get-set-up-with-sales-phone}
 
-**Telefonnummer:** Du behöver bara skriva in det en gång. Sales Connect kommer att komma ihåg ditt nummer för alla framtida samtal.
+**Telefonnummer:** Du behöver bara skriva in den en gång. Sales Connect kommer att komma ihåg ditt nummer för alla framtida samtal.
 
-**Lokal närvaro:** Du behöver bara kontrollera&quot;använd lokal närvaro&quot; och registrera samtalet för ditt första samtal. Sales Connect kommer att komma ihåg dina inställningar för alla framtida samtal.
+**Lokal närvaro:** Du behöver bara kontrollera &quot;använd lokal närvaro&quot; och registrera samtalet för ditt första samtal. Sales Connect kommer att komma ihåg dina inställningar för alla framtida samtal.
 
 Om du vill att Sales Connect automatiskt ska skapa en samtalsaktivitet i Salesforce går du till [den här artikeln](/help/marketo/product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md).
 
@@ -39,4 +38,4 @@ När du ringer eller ringer ett samtal kommer Sales Connect att ange din lead/ko
 
 För team som använder andra CRMS-system hämtar Sales Connect telefonnumret från numret på posten i Sales Connect. Dessa data är enkelt tillgängliga via en [CSV-överföring](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
-Tryck på den stora gröna knappen **Ring**. Din telefon börjar sedan ringa. Plocka upp telefonen så ringer Sales Connect automatiskt lead/kontakt.
+Träffa den stora gröna **Utlysning** -knappen. Din telefon börjar sedan ringa. Plocka upp telefonen så ringer Sales Connect automatiskt lead/kontakt.

@@ -6,7 +6,7 @@ exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -24,7 +24,7 @@ Marketo Engage hanterar registrering och närvaro av webbinarium på webben.
 
 >[!NOTE]
 >
->Platsnamnet finns i slutet av den URL som används för att logga in på Webex. Till exempel:
+>Platsnamnet finns i slutet av den URL som används för att logga in på Webex. Exempel:
 >
 >`https://mycompany.webex.com/mw0300lc/mywebex/default.do?siteurl=mycompany`
 >

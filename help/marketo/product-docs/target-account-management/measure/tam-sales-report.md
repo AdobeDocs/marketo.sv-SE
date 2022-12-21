@@ -1,15 +1,14 @@
 ---
 unique-page-id: 11385183
-description: TAM Sales Report - Marketo Docs - produktdokumentation
+description: TAM Sales Report - Marketo Docs - Product Documentation
 title: TAM-försäljningsrapport
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
 
 ---
-
 
 # TAM-försäljningsrapport {#tam-sales-report}
 
@@ -17,7 +16,7 @@ Ta emot ett e-postmeddelande varje vecka som innehåller de viktigaste kontona o
 
 >[!NOTE]
 >
->Lär dig hur du konfigurerar den här rapporten [här](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md).
+>Lär dig hur du ställer in den här rapporten [här](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md).
 
 Rapporten delar:
 

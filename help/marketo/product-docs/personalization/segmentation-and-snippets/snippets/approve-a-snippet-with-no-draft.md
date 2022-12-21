@@ -2,14 +2,13 @@
 unique-page-id: 10095644
 description: Godkänn ett utdrag utan utkast - Marketo Docs - produktdokumentation
 title: Godkänn ett kodfragment utan utkast
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
 
 ---
-
 
 # Godkänn ett kodfragment utan utkast {#approve-a-snippet-with-no-draft}
 
@@ -21,7 +20,7 @@ Inget utkast utlöses varje gång ett fragment godkänns. Detta inkluderar ett f
 
    ![](assets/go-to-design-studio.png)
 
-1. Markera ett fragment och välj **Godkänn** i listrutan **Fragmentåtgärder**.
+1. Markera ett fragment och i dialogrutan **Fragmentåtgärder** nedrullningsbar meny, välja **Godkänn**.
 
    ![](assets/approve-snippet.png)
 
@@ -38,7 +37,7 @@ Inget utkast utlöses varje gång ett fragment godkänns. Detta inkluderar ett f
 
 >[!CAUTION]
 >
->Den här funktionen är utformad för att spara tid med arbetsflödet för godkännande av fragment. Det finns dock några begränsningar att vara medveten om. Mer information finns i [det här dokumentet](https://nation.marketo.com/docs/DOC-4415). Dokumentet innehåller även felhantering och felsökningsinformation.
+>Den här funktionen är utformad för att spara tid med arbetsflödet för godkännande av fragment. Det finns dock några begränsningar att vara medveten om. Se [det här dokumentet](https://nation.marketo.com/docs/DOC-4415) för mer information. Dokumentet innehåller även felhantering och felsökningsinformation.
 
 >[!MORELIKETHIS]
 >

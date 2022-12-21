@@ -3,7 +3,6 @@ unique-page-id: 2949216
 description: SEO - Lägg till sidor - Marketo Docs - produktdokumentation
 title: SEO - lägg till sidor
 exl-id: dfb51308-7ee7-43b6-9e56-e820080a6b42
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
@@ -15,15 +14,15 @@ ht-degree: 0%
 
 Du har sidor! Marketo SEO crawlar automatiskt din webbplats och spårar dem. Om vi missar några kan du få dem i SEO-appen så här:
 
-1. Gå till avsnittet **Sidor**.
+1. Gå till **Sidor** -avsnitt.
 
    ![](assets/image2014-9-18-12-3a55-3a19.png)
 
-1. Klicka på **Lägg till sidor**.
+1. Klicka **Lägg till sidor**.
 
    ![](assets/image2014-9-18-12-3a55-3a53.png)
 
-1. Ange de URL-adresser som du vill lägga till. Klicka på **Lägg till**.
+1. Ange de URL-adresser som du vill lägga till. Klicka **Lägg till**.
 
    ![](assets/image2014-9-18-12-3a56-3a15.png)
 

@@ -1,19 +1,18 @@
 ---
 unique-page-id: 4719338
-description: E-postrapporter - Marketo Docs - Produktdokumentation
+description: E-postrapporter - Marketo Docs - produktdokumentation
 title: E-postrapporter
-translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '413'
 ht-degree: 0%
 
 ---
 
-
 # E-postrapporter {#email-reports}
 
-Information om hur du anpassar vilken automatiserad e-postrapport som användaren får finns i avsnittet [Användarinställningar](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+Om du vill anpassa vilken automatiserad e-postrapport som användaren får kan du läsa  [Avsnittet Användarinställningar](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
 
 ## E-postrapporter om webbpersonalisering {#web-personalization-email-reports}
 
@@ -21,7 +20,7 @@ Dagliga eller veckovisa e-postrapporter skickas till användarens e-postadress m
 
 Följande rapporter är tillgängliga:
 
-## Organisationsrapport för varje dag/vecka {#daily-weekly-organizations-report}
+## Organisationsrapport varje dag/vecka {#daily-weekly-organizations-report}
 
 ![](assets/image2014-12-6-13-3a32-3a8.png)
 
@@ -39,7 +38,7 @@ Personrapporten varje dag/vecka skickar ett e-postmeddelande till användaren me
 
 I rapporten&quot;Top Performing Real-time Campaigns Report&quot; skickas ett e-postmeddelande till användaren med information om kampanjens namn, visningar, klickningar, vilket segment kampanjen reagerade på och kampanjens konverteringsgrad.
 
-## Rapport om de vanligaste utföranderesurserna {#top-performing-assets-report}
+## Rapport över de vanligaste utföranderesurserna {#top-performing-assets-report}
 
 ![](assets/image2014-12-6-13-3a29-3a5.png)
 
@@ -61,12 +60,12 @@ Sammanfattningsrapporten skickar ett e-postmeddelande (månadsvis eller kvartals
 >
 >**Definitioner**
 >
->**Direktkonvertering**: En webbbesökare som klickar på en personlig kampanj eller rekommenderat innehåll och som under samma besökssession fortsätter att fylla i alla formulär på webbplatsen med sin e-postadress.
+>**Direktkonvertering**: En webbbesökare som klickar på en anpassad kampanj eller rekommenderat innehåll och under samma besökssession fortsätter att fylla i alla formulär på webbplatsen med sin e-postadress.
 >
 >**Konvertering**: En webbbesökare som fyller i ett formulär på webbplatsen och lämnar sin e-postadress, medan de under ett tidigare besök (inom de senaste sex månaderna) klickade på en personlig kampanj eller rekommenderad innehållsresurs.
 
 >[!NOTE]
 >
->Marketo Web Personalization hämtar webbbesökarens e-postadress för alla formulär som fylls i på webbplatsen. Detta visas på sidan Webbpersonalisering och är den person som används i sammanfattningsrapporten.
+>Marketo Web Personalization fångar webbbesökarens e-postadress för alla formulär som fylls i på webbplatsen. Detta visas på sidan Webbpersonalisering och är den person som används i sammanfattningsrapporten.
 
-Information om hur du anpassar vilken automatiserad e-postrapport som användaren får finns i avsnittet [Användarinställningar](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+Om du vill anpassa vilken automatiserad e-postrapport som användaren får kan du läsa [Avsnittet Användarinställningar](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).

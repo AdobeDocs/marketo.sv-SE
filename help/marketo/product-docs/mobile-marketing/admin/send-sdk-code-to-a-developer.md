@@ -1,15 +1,14 @@
 ---
 unique-page-id: 7512448
-description: Skicka SDK-kod till en utvecklare - Marketo Docs - Produktdokumentation
+description: Skicka SDK-kod till en utvecklare - Marketo Docs - produktdokumentation
 title: Skicka SDK-kod till en utvecklare
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+exl-id: 0c32b9af-8d86-40d7-b1f3-9aaa53b9b730
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
-
 
 # Skicka SDK-kod till en utvecklare {#send-sdk-code-to-a-developer}
 
@@ -26,7 +25,7 @@ Ibland måste en administratör skicka en del SDK-kod till en utvecklare.
 
 Så här gör du.
 
-1. Klicka på **Admin**.
+1. Klicka **Administratör**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
@@ -38,7 +37,7 @@ Så här gör du.
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Klicka på **Åtgärder för mobilappar** och välj **Skicka till utvecklare**.
+1. Klicka **Funktioner för mobilappar** och markera **Skicka till utvecklare**.
 
    ![](assets/image2015-4-22-17-3a13-3a30.png)
 

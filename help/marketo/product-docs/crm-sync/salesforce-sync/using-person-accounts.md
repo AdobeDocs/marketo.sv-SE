@@ -32,15 +32,15 @@ Ett personkonto synkroniseras till Marketo som ett företag och som en person.
 
 ## Hur skiljer jag på affärskonton och personkonton? {#how-do-i-differentiate-business-accounts-and-person-accounts}
 
-Använd filtret **Är personkonto** i den smarta listan för att separera personkonton från standardaffärskonton.
+Använd **Är personkonto** i din smarta lista för att skilja personkonton från standardkonton.
 
 ## Var visas informationen om mitt personkonto i Marketo Sales Insight? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-Aktiviteter som rör personkonton visas på panelen **Konto**.
+Aktiviteter som rör personkonton visas i **Konto** -panelen.
 
 >[!NOTE]
 >
->Alternativen **Lägg till i Marketo Campaign** och **Skicka e-post** för Marketo Sales Insight är för närvarande inte tillgängliga för personkonton.
+>Marketo Sales Insight&#39;s **Lägg till i Marketo Campaign** och **Skicka e-post** är för närvarande inte tillgängliga för personkonton.
 
 ## Hur kopplar jag affärsmöjligheter till ett personkonto? {#how-do-i-associate-opportunities-to-a-person-account}
 
@@ -48,4 +48,4 @@ Marketo är beroende av kontaktrollen för affärsmöjligheten för att avgöra 
 
 ## Vilket e-postfält ska jag använda för personkonton? {#which-email-field-should-i-use-for-person-accounts}
 
-Det finns två e-postfält för ett personkonto. Använd fältet **E-postadress** i formulären (inte **Personens e-postadress**) för att säkerställa att Marketo deduplicering och annan e-postbearbetning fungerar som de ska.
+Det finns två e-postfält för ett personkonto. Använd **E-postadress** fält i formulären (inte **Personens e-postadress**) för att säkerställa att Marketo deduplicering och annan e-postbearbetning fungerar som den ska.

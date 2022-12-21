@@ -3,7 +3,8 @@ description: Sidkolumner - Marketo Docs - produktdokumentation
 title: Sidkolumner för personer
 hide: true
 hidefromtoc: true
-source-git-commit: 47b0f31b410f0bf4b41740aa6440c2a0484ab835
+exl-id: 29870197-81e1-4f88-a129-b1ff6da34924
+source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 4%

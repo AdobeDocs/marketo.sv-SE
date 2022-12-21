@@ -3,7 +3,6 @@ unique-page-id: 8781988
 description: Analyskort - Marketo Docs - produktdokumentation
 title: Analyskort
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '220'
@@ -35,9 +34,9 @@ Låt oss till exempel titta på informationen för kortet för analys av förvä
 
 I det här exemplet visar rött att värdet har minskat över det valda datumintervallet (eh!). Grönt anger att värdet har ökat (åå!).
 
-## Insamlade leads {#acquired-leads}
+## Förvärvade leads {#acquired-leads}
 
-Kortet **Acquired Leads** visar en trending month-over-month-rapport över antalet nya leads.
+The **Förvärvade leads** visas en trendrapport över antalet nya leads per månad.
 
 >[!NOTE]
 >
@@ -47,13 +46,13 @@ Kortet **Acquired Leads** visar en trending month-over-month-rapport över antal
 
 ## Nya leads {#new-leads}
 
-Kortet **Nya leads** visar en trending month-over-month-rapport över det totala antalet nya leads i din instans under de senaste sex månaderna.
+The **Nya leads** ett kort som visar en trending month over-month-rapport över det totala antalet nya leads i din instans under de senaste sex månaderna.
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
 ## Avbeställ {#unsubscribes}
 
-Kortet **Avbeställ** visar en månadsvis trendrapport över din uppsägningsfrekvens under de senaste sex månaderna.
+The **Avbeställ** ett månadsbaserat prenumerationskort med en månadsvis trendrapport över din uppsägningsfrekvens under de senaste sex månaderna.
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
 

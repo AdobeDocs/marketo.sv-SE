@@ -14,13 +14,13 @@ ht-degree: 0%
 
 Följande funktioner finns i vårutgåvan 17. Se om det finns funktioner i din Marketo-utgåva.
 
-Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion. **Obs**: Om ett ämne har flera underrubriker placeras länkarna där.
+Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion. **Anteckning**: Om ett ämne har flera underrubriker placeras länkarna där.
 
 ## [linkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[linkedIn Lead Gen ](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) Forms är ett mer direkt sätt för ett företag att köra leadgenereringskampanjer på LinkedIn. Man kan fylla i blanketter för att uttrycka sitt intresse för en produkt eller tjänst, vilket gör det möjligt för företaget att samla in personuppgifterna och synka dem till Marketo, där automatiserade uppföljningsprocesser och leadhanteringsaktiviteter kan förekomma.
+[linkedIn Lead Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) är ett mer direkt sätt för ett företag att köra leadgenereringskampanjer på LinkedIn. Man kan fylla i blanketter för att uttrycka sitt intresse för en produkt eller tjänst, vilket gör det möjligt för företaget att samla in personuppgifterna och synka dem till Marketo, där automatiserade uppföljningsprocesser och leadhanteringsaktiviteter kan förekomma.
 
-Marketo-integreringen med LinkedIn Lead Gen Forms hämtar automatiskt information som ett lead tillhandahåller i formuläret Lead Gen. Uppföljningsåtgärder och meddelanden kan sedan automatiseras med den nya **Fyll i LinkedIn Lead Gen Form**-utlösaren och -filtret.
+Marketo-integreringen med LinkedIn Lead Gen Forms hämtar automatiskt information som ett lead tillhandahåller i formuläret Lead Gen. Uppföljningsåtgärder och meddelanden kan sedan automatiseras med den nya **Fyller i formuläret för LinkedIn Lead Gen** utlösare och filter.
 
 ![](assets/release-notes-image.png)
 

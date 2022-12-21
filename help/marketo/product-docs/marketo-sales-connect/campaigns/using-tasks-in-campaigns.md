@@ -1,23 +1,22 @@
 ---
 unique-page-id: 14352619
-description: Använda uppgifter i kampanjer - Marketo-dokument - Produktdokumentation
+description: Använda uppgifter i kampanjer - Marketo Docs - produktdokumentation
 title: Använda uppgifter i kampanjer
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
-
-# Använda aktiviteter i kampanjer {#using-tasks-in-campaigns}
+# Använda uppgifter i kampanjer {#using-tasks-in-campaigns}
 
 Aktiviteter är ett kraftfullt verktyg när du skickar en kampanj till en kontakt, särskilt om din försäljningsprocess är flerkanals/pekfunktion.
 
 Uppgiften att skicka ett e-postmeddelande och en uppgift att ringa en kontakt är det vanligaste användningsområdet för uppgifter i kampanjer.
 
-Du kan även göra en&quot;Aktivitet till inpost&quot; till en kontakt i LinkedIn om det är en del av ditt arbetsflöde. Du kan även göra en anpassad uppgift för att påminna dig om att bjuda in dem till en glad timme, fråga om deras välgörenhetsevenemang eller incheckning efter spel 5 osv.
+Du kan även göra en&quot;Task to Inmail&quot; till en kontakt i LinkedIn om det är en del av ditt arbetsflöde. Du kan även göra en anpassad uppgift för att påminna dig om att bjuda in dem till en glad timme, fråga om deras välgörenhetsevenemang eller incheckning efter spel 5 osv.
 
 >[!NOTE]
 >
@@ -25,4 +24,4 @@ Du kan även göra en&quot;Aktivitet till inpost&quot; till en kontakt i LinkedI
 
 Uppgifter kopplas alltid till varje enskild person i kampanjen. Det innebär att ni måste gå till varje person och avsluta uppgiften för att deras enskilda kampanj ska kunna fortsätta.
 
-Du kan hantera dina uppgifter i: på fliken Uppgifter i din kampanj i Campaign 2.0, direkt från ditt kommandocenter eller från aktivitetsdelen i Live Feed. Dessutom kan du hantera dina uppgifter från Salesforce.
+Du kan hantera dina uppgifter i: på fliken Uppgifter i din kampanj i Campaign 2.0, direkt från ditt kommandocentral eller från aktivitetsavsnittet i Live Feed. Dessutom kan du hantera dina uppgifter från Salesforce.

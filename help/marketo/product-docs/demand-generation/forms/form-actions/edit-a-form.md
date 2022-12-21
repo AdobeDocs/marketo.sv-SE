@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359590
-description: Redigera ett formulär - Marketo Docs - Produktdokumentation
+description: Redigera ett formulär - Marketo Docs - produktdokumentation
 title: Redigera ett formulär
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: fb0d0a35-c9ec-430a-8dee-ec8119cfc8f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
 
 ---
-
 
 # Redigera ett formulär {#edit-a-form}
 

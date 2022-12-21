@@ -1,15 +1,14 @@
 ---
 unique-page-id: 4719348
-description: Märk upp ditt segment - Marketo Docs - Produktdokumentation
+description: Märk upp ditt segment - Marketo Docs - produktdokumentation
 title: Märk upp ditt segment
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+exl-id: 5278f52b-a352-4d85-904c-48f94972d4e7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
 
 ---
-
 
 # Märk upp ditt segment {#label-your-segment}
 
@@ -17,7 +16,7 @@ Har du så många segment att rullning blir krånglig? Använd etiketter för at
 
 ## Tagga ett segment {#tag-a-segment}
 
-1. Logga in på Webbanpassning och gå till **Segment**.
+1. Logga in på Webbpersonalisering och gå till **Segment**.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
@@ -25,11 +24,11 @@ Har du så många segment att rullning blir krånglig? Använd etiketter för at
 
    ![](assets/image2015-10-14-15-3a26-3a28.png)
 
-1. Om du vill använda en befintlig etikett klickar du på **Ange etikett**, markerar en ruta och klickar på **Använd**.
+1. Om du vill använda en befintlig etikett klickar du på **Ange etikett**, markera en ruta och klicka på **Använd**.
 
    ![](assets/image2015-10-14-15-3a34-3a42.png)
 
-1. Du kan också skapa en ny etikett genom att klicka på **Ange etikett**, ange det nya etikettnamnet och klicka på **Skapa ny**.
+1. Om du vill skapa en ny etikett klickar du på **Ange etikett**, ange det nya etikettnamnet och klicka på **Skapa nytt**.
 
    ![](assets/image2015-10-14-15-3a38-3a30.png)
 

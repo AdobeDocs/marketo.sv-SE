@@ -1,35 +1,34 @@
 ---
 unique-page-id: 15368205
-description: Så här ansluter du Sales Connect till din Salesforce-sandlåda - Marketo Docs - produktdokumentation
+description: Så här ansluter du en säljare till din Salesforce-sandlåda - Marketo Docs - produktdokumentation
 title: Ansluta säljanslutning till din Salesforce-sandlåda
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: d6421da9-de89-40ac-8af9-512b5303ace5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
-
 # Ansluta säljanslutning till din Salesforce-sandlåda {#how-to-connect-sales-connect-to-your-salesforce-sandbox}
 
 >[!PREREQUISITES]
 >
->Ditt Sales Connect-konto kan inte redan vara anslutet till Salesforce när du upprättar en anslutning till sandlådan. Om det är det [kontrollerar du att du kopplar från](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) innan du följer stegen i den här artikeln.
+>Ditt Sales Connect-konto kan inte redan vara anslutet till Salesforce när du upprättar en anslutning till sandlådan. Om det är det, [se till att du kopplar från](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) innan du följer stegen i den här artikeln.
 
 1. I Sales Connect klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Inställningar**.
 
    ![](assets/one-2.png)
 
-1. Klicka på **CRM** under Integrationer.
+1. Klicka på under Integreringar **CRM**.
 
    ![](assets/two-2.png)
 
-1. Klicka på **Mer info** på Salesforce-kortet.
+1. Klicka på i Salesforce-kortet **Mer info**.
 
    ![](assets/three-2.png)
 
-1. Klicka på **Anslut till sandlåda** längst ned på sidan.
+1. Klicka på längst ned på sidan **Anslut till sandlåda**.
 
    ![](assets/four-2.png)
 

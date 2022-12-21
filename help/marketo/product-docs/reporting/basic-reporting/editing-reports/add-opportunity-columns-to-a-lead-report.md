@@ -2,36 +2,35 @@
 unique-page-id: 2360018
 description: Lägg till säljprojektskolumner i en lead-rapport - Marketo Docs - produktdokumentation
 title: Lägg till säljprojektskolumner i en lead-rapport
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: 446befcd-a2fe-478b-9f36-288a6a31adbd
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
 
 ---
 
-
 # Lägg till säljprojektskolumner i en lead-rapport {#add-opportunity-columns-to-a-lead-report}
 
 Om du vill visa statistik om affärsmöjligheter i dina personrapporter kan du lägga till kolumner med affärsmöjligheter.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter** område.
 
    ![](assets/ma.png)
 
-1. Välj din rapport i navigeringsträdet och klicka på fliken **Inställningar**.
+1. Välj rapporten från navigeringsträdet och klicka på **Inställningar** -fliken.
 
    ![](assets/two.png)
 
-1. Dubbelklicka på **Affärsmöjlighetskolumner**.
+1. Dubbelklicka **Kolumner för affärsmöjlighet**.
 
    ![](assets/three.png)
 
-1. Välj **Visa** i listrutan.
+1. Välj **Visad** i listrutan.
 
    ![](assets/image2014-9-16-12-3a50-3a33.png)
 
-1. Klicka på fliken **Rapport** för att visa rapporten med affärsmöjlighetsstatistik.
+1. Klicka på **Rapport** om du vill visa rapporten med affärsmöjlighetsstatistik.
 
    ![](assets/five.png)
 
@@ -39,7 +38,7 @@ Om du vill visa statistik om affärsmöjligheter i dina personrapporter kan du l
    >
    >Rulla åt höger om du vill se fler kolumner.
 
-1. Om du vill [lägga till eller ta bort kolumner från rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) klickar du på en kolumnrubrik och väljer **Kolumner**.
+1. Till [lägga till eller ta bort kolumner från rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)klickar du på valfri kolumnrubrik och väljer **Kolumner**.
 
    ![](assets/six.png)
 
@@ -51,8 +50,8 @@ Om du vill visa statistik om affärsmöjligheter i dina personrapporter kan du l
 
    | Kolumn | Beskrivning |
    |---|---|
-   | Ingen möjlighet | Antal personer som *inte* är en primär affärsmöjlighetskontakt. |
-   | Dagar utan affärsmöjlighet | Genomsnittlig ålder i dagar för personer som är *inte* en primär kontakt. |
+   | Ingen möjlighet | Antal personer som är *not* en primär säljprojektskontakt. |
+   | Dagar utan affärsmöjlighet | Genomsnittlig ålder, i dagar, för personer som är *not* en primär kontakt. |
    | Har möjlighet | Antal personer som är en primär säljprojektskontakt. |
    | Har möjlighet % | Procentandel personer som är en primär säljprojektskontakt. |
    | Dagar till affärsmöjlighet | Genomsnittligt antal dagar för konvertering från person till primär affärsmöjlighetskontakt. |
@@ -68,4 +67,4 @@ Om du vill visa statistik om affärsmöjligheter i dina personrapporter kan du l
 
    >[!MORELIKETHIS]
    >
-   >Lär dig hur du [hanterar storleken på din rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).
+   >Lär dig hur [hantera rapportens storlek](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).

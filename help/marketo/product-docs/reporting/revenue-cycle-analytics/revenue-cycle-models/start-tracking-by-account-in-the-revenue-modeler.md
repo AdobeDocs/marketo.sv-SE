@@ -2,14 +2,13 @@
 unique-page-id: 4718681
 description: Starta spårning efter konto i intäktsmodelleraren - Marketo Docs - produktdokumentation
 title: Starta spårning efter konto i intäktsmodelleraren
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
 
 ---
-
 
 # Starta spårning efter konto i intäktsmodelleraren {#start-tracking-by-account-in-the-revenue-modeler}
 
@@ -17,29 +16,29 @@ Med intäktsmodelleraren och intäktsutforskaren får du insikt i hur era leads 
 
 >[!NOTE]
 >
->Kontrollera att den godkända modellen har faser på framgångsbanan med **Starta spårning efter konto** markerat
+>Se till att din godkända modell har faser på vägen mot framgång med **Starta spårning efter konto** checked
 
-1. När det har gått tillräckligt mycket tid för att samla in användbara data väljer du **Intäktsutforskaren** under **Mitt Marketo-startsida**.
+1. När det har gått tillräckligt lång tid för att samla in användbara data väljer du **Intäktsutforskaren** under **Mitt Marketo-hem**.
 
    ![](assets/image2015-4-29-16-3a36-3a2.png)
 
-1. Om du vill skapa en ny rapport klickar du på **Arkiv** och väljer **Nytt** och sedan **Rapport**.
+1. Om du vill skapa en ny rapport klickar du på **Fil** och markera **Nytt** sedan **Rapport**.
 
    ![](assets/image2015-4-29-16-3a38-3a44.png)
 
-1. Välj **Modellprestandaanalys (företag)** som analysområde och klicka på **OK**.
+1. Välj **Modellresultatanalys (företag)** som analysområde och klicka **OK**.
 
    ![](assets/image2015-4-29-16-3a41-3a47.png)
 
-1. Vi rekommenderar att du drar i fälten **Stage**, **Month** och **Slutbalans** för att visa hur företag utvecklas i din modell efter månad. Använd filter för att välja de månader du vill ha.
+1. Vi rekommenderar att du drar i **Scen**, **Månad** och **Slutsaldo** fält som visar hur företagen utvecklas i din modell per månad. Använd filter för att välja de månader du vill ha.
 
    ![](assets/image2015-4-29-17-3a16-3a1.png)
 
-1. När du är klar med konfigurationen av rapporten högerklickar du på **Är spårföretag** och väljer **Filter**. Vi använder detta för att begränsa rapporten till endast stadier där **Spårning via konto** är valt.
+1. När du är klar med att konfigurera rapporten högerklickar du på **Är Track Company** och markera **Filter**. Vi använder den här för att begränsa rapporten till endast faser där **Spårning efter konto** är markerat.
 
    ![](assets/image2015-4-29-17-3a18-3a9.png)
 
-1. I den dialogruta som visas väljer du Ja och klickar på högerpilen i mitten. Detta filtrerar endast de steg där Spärra efter konto är aktiverat. Klicka på **OK** när du är klar.
+1. I den dialogruta som visas väljer du Ja och klickar på högerpilen i mitten. Detta filtrerar endast de steg där Spärra efter konto är aktiverat. Klicka **OK** när du är klar.
 
    ![](assets/image2015-6-9-16-3a21-3a3.png)
 

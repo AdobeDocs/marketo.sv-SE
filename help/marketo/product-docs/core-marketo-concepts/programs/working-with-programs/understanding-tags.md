@@ -3,7 +3,6 @@ unique-page-id: 1147112
 description: Taggar - Marketo Docs - produktdokumentation
 title: Taggar
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
@@ -23,7 +22,7 @@ Märkordstyper identifierar den typ av information som du vill sortera efter.
 
 >[!TIP]
 >
->Tala med din [Marketo-administratör](/help/marketo/product-docs/administration/tags/create-custom-tags.md) om du vill skapa anpassade taggar.
+>Tala med [Marketo Admin](/help/marketo/product-docs/administration/tags/create-custom-tags.md) om du vill skapa egna taggar.
 
 >[!NOTE]
 >
@@ -49,7 +48,7 @@ Varje taggtyp har värden att välja mellan.
 
 ## Kanal {#channel}
 
-Kanaler används för att rapportera hur [medlemmarna](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) har gått igenom ditt program. Varje kanal har en uppsättning status för progression och en status som är inställd på samma framgång.
+Kanaler används för att rapportera hur [medlemmar](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) genom programmet. Varje kanal har en uppsättning status för progression och en status som är inställd på samma framgång.
 
 >[!NOTE]
 >

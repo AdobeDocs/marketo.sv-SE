@@ -3,7 +3,6 @@ unique-page-id: 2949208
 description: SEO - filtrera nyckelordsresultat - Marketo Docs - produktdokumentation
 title: SEO - filtrera nyckelordsresultat
 exl-id: 8f237814-09b7-4041-9fe7-bb9a6ce016ca
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '146'
@@ -11,13 +10,13 @@ ht-degree: 0%
 
 ---
 
-# SEO - Filtrera nyckelordsresultat {#seo-filter-keyword-results}
+# SEO - filtrera nyckelordsresultat {#seo-filter-keyword-results}
 
-Du kan ha många [nyckelord](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md). Här är olika sätt att filtrera dem:
+Du har kanske en massa [nyckelord](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md). Här är olika sätt att filtrera dem:
 
 ## Filtrera efter lista {#filter-by-list}
 
-1. Gå till avsnittet **Nyckelord**.
+1. Gå till **Nyckelord** -avsnitt.
 
    ![](assets/image2014-9-18-11-3a55-3a8.png)
 
@@ -27,7 +26,7 @@ Du kan ha många [nyckelord](/help/marketo/product-docs/additional-apps/seo/keyw
 
    >[!NOTE]
    >
-   >Om du inte ser några listor kan du [lära dig hur du gör en nyckelordslista](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md).
+   >Om du inte ser några listor [lära dig skapa en nyckelordslista](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md).
 
 Söt! Du kommer nu endast att titta på nyckelord i den listan.
 
@@ -47,7 +46,7 @@ Söt! Du kommer nu endast att titta på nyckelord i den listan.
 
 Du kan också hitta de nyckelord du söker efter med hjälp av sökfältet i det övre högra hörnet.
 
-1. Gå till avsnittet **Nyckelord**.
+1. Gå till **Nyckelord** -avsnitt.
 
    ![](assets/image2014-9-18-12-3a0-3a50.png)
 

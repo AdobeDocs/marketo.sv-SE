@@ -1,17 +1,16 @@
 ---
 unique-page-id: 7515107
-description: Lägg till ett formulär på en guidad landningssida - Marketo Docs - Produktdokumentation
+description: Lägg till ett formulär på en guidad landningssida - Marketo Docs - produktdokumentation
 title: Lägga till ett formulär på en landningssida med stödlinjer
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
 
 ---
 
-
-# Lägg till ett formulär på en guidad landningssida {#add-a-form-to-a-guided-landing-page}
+# Lägga till ett formulär på en landningssida med stödlinjer {#add-a-form-to-a-guided-landing-page}
 
 Blankett, möt landningssidan. Landningssida, möt formulär.
 
@@ -19,11 +18,11 @@ Blankett, möt landningssidan. Landningssida, möt formulär.
 >
 >[Skapa en guidad landningssida](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter** område.
 
    ![](assets/one.png)
 
-1. Leta reda på och markera landningssidan och klicka på **Redigera utkast**.
+1. Hitta och välj landningssida och klicka **Redigera utkast**.
 
    ![](assets/two.png)
 
@@ -31,7 +30,7 @@ Blankett, möt landningssidan. Landningssida, möt formulär.
    >
    >Tillgängliga element på guidade landningssidor definieras av mallen. Om du inte ser något formulär på elementpanelen väljer du en ny mall eller pratar med den som skapat mallen.
 
-1. Dubbelklicka på **formuläret** på elementpanelen.
+1. Dubbelklicka på **Formulär** i elementpanelen.
 
    ![](assets/image2015-5-20-15-3a37-3a55.png)
 
@@ -49,7 +48,7 @@ Blankett, möt landningssidan. Landningssida, möt formulär.
    >
    >Uppföljningssidan är den sida som användarna ser när de har skickat in formuläret.
 
-1. I det här exemplet använder vi Formulärdefinierad. Klicka på **Infoga**.
+1. I det här exemplet använder vi Formulärdefinierad. Klicka **Infoga**.
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 
@@ -57,4 +56,4 @@ Blankett, möt landningssidan. Landningssida, möt formulär.
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Stäng nu bara landningssidans redigerare och [godkänn landningssidans utkast](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Stäng nu bara landningssidans redigerare och [godkänna utkastet till landningssida](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).

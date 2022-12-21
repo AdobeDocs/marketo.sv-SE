@@ -3,7 +3,6 @@ unique-page-id: 11387513
 description: Skapa en statisk lista - Marketo Docs - produktdokumentation
 title: Skapa en statisk lista
 exl-id: 93560d2a-6b36-4660-99b3-dd6209032fb0
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '100'
@@ -15,11 +14,11 @@ ht-degree: 0%
 
 Statiska listor är en grupp personer som redan finns i din databas. Så här skapar du en.
 
-1. Gå till **Database**.
+1. Gå till **Databas**.
 
    ![](assets/db.png)
 
-1. Klicka på listrutan **Ny** och välj **Ny lista**.
+1. Klicka på **Nytt** nedrullningsbar meny och välj **Ny lista**.
 
    ![](assets/two.png)
 

@@ -3,7 +3,6 @@ unique-page-id: 2951259
 description: Anpassad fälttypsordlista - Marketo Docs - produktdokumentation
 title: Ordlista för anpassad fälttyp
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '583'
@@ -21,17 +20,17 @@ När du skapar ett anpassat fält i Marketo har du en lista med typer att välja
 
 >[!TIP]
 >
->Beroende på fälttyp kommer filter/trigger [operatorer](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) att vara olika.
+>Beroende på fälttyp, filter/utlösare [operatorer](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) blir annorlunda.
 
 >[!NOTE]
 >
->De flesta fält får inte innehålla maximalt antal tecken, utan i stället en mängd byte. Därför kan vi inte ange en definitiv teckengräns för varje fält. Undantaget är **String**, som är högst vid 255 tecken.
+>De flesta fält får inte innehålla maximalt antal tecken, utan i stället en mängd byte. Därför kan vi inte ange en definitiv teckengräns för varje fält. Undantaget är **Sträng**, vilket är högst 255 tecken långt.
 
 ## Boolean {#boolean}
 
-**Exempelnamn:** Är kund - tagga dina personer som kunder
+**Exempelnamn:** Är kund - tagga dina medarbetare som kunder
 
-**Exempelvärden:** Sant (markerat) / Falskt (omarkerat)
+**Exempelvärden:** True (checked) / False (unchecked)
 
 **Operatorer**: Ingen
 
@@ -51,7 +50,7 @@ När du skapar ett anpassat fält i Marketo har du en lista med typer att välja
 
 **Operatorer**: är, inte, mellan, tidigare, tidigare, tidigare, i framtiden, efter, i tidsramen, efter, före, på eller efter, är tom, är inte tom
 
-## Datum/tid {#datetime}
+## Datetime {#datetime}
 
 **Exempelnamn:** Skapad - Lagra datum och tid då en person skapades
 
@@ -69,15 +68,15 @@ När du skapar ett anpassat fält i Marketo har du en lista med typer att välja
 
 ## Float {#float}
 
-**Exempelnamn:** Grad-punktsmedel - Behåll en persons medelpoäng eller något annat numeriskt värde med decimaler
+**Exempelnamn:** Grad - Behåll en persons medelvärde för poäng eller något annat numeriskt värde med decimaler
 
-**Exempelvärden:** 2.47
+**Exempelvärden:** 2,47
 
 **Operatorer**: mellan, större än, mindre än, åtminstone, är tom, är inte tom
 
 ## Formel {#formula}
 
-**Exempelnamn:** Hälsningar - använd det här specialfältet i en  [lösning för att få rätt ](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) lösning baserat på kön
+**Exempelnamn:** Hälsningar - använd det här speciella fältet i en [lösning för att få rätt hälsning](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) baserat på kön
 
 **Exempelvärden:** kontrollera den länkade lösningen
 
@@ -97,9 +96,9 @@ När du skapar ett anpassat fält i Marketo har du en lista med typer att välja
 
 **Operatorer**: är, inte, mellan, större än, mindre än, åtminstone, är tom, är inte tom
 
-## Tel.{#phone}
+## Tel. {#phone}
 
-**Exempelnamn:** Alternativ telefon - lagra ytterligare ett telefonnummer för dina personer
+**Exempelnamn:** Alternativ telefon - lagra ytterligare ett telefonnummer åt dina medarbetare
 
 **Exempelvärde:** 650-555-5555
 
@@ -117,7 +116,7 @@ När du skapar ett anpassat fält i Marketo har du en lista med typer att välja
 
 **Exempelnamn:** Mellannamn - lagra ytterligare ett textattribut
 
-**exempelvärde:** ros
+**Exempelvärde:** ros
 
 **Operatorer**: is, is not, startar med, inte börjar med, innehåller, inte innehåller, är tom, är inte tom
 
@@ -131,7 +130,7 @@ När du skapar ett anpassat fält i Marketo har du en lista med typer att välja
 
 ## URL {#url}
 
-**Exempelnamn:** Blogg - skapa ett fält för lagring av personbloggar-URL:er
+**Exempelnamn:** Blogg - skapa ett fält för lagring av personblogg-URL:er
 
 **Exempelvärde:** www.myblog.com
 

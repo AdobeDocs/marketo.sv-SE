@@ -2,14 +2,13 @@
 unique-page-id: 12978938
 description: Arkivera en webbkampanj - Marketo Docs - Produktdokumentation
 title: Arkivera en webbkampanj
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+exl-id: de1ed9a6-bc3f-4cd8-b6c4-f84480cd9116
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
 
 ---
-
 
 # Arkivera en webbkampanj {#archive-a-web-campaign}
 
@@ -17,13 +16,13 @@ ht-degree: 0%
 
    ![](assets/one.jpg)
 
-1. Klicka på statuslistrutan för den önskade webbkampanjen och välj **Arkiv**.
+1. Klicka på statuslistrutan för önskad webbkampanj och välj **Arkiv**.
 
    ![](assets/two-3.png)
 
    >[!NOTE]
    >
-   >Arkiverade webbkampanjer visas inte i standardfiltret. Om du vill visa dem klickar du på ikonen Filter och under **Status** markerar du kryssrutan **Arkiverad** och klickar på **Använd**.
+   >Arkiverade webbkampanjer visas inte i standardfiltret. Om du vill visa dem klickar du på filterikonen och under **Status** väljer du **Arkiverad** kryssruta och klicka **Använd**.
 
 >[!MORELIKETHIS]
 >

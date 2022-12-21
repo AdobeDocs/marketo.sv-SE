@@ -2,24 +2,23 @@
 unique-page-id: 7512445
 description: Verifiera push-konfiguration - Marketo Docs - produktdokumentation
 title: Verifiera push-konfiguration
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+exl-id: 5a391087-9d4a-4b06-bc0d-25cd8237e4df
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
-
 
 # Verifiera push-konfiguration {#verify-push-configuration}
 
 >[!PREREQUISITES]
 >
->Din mobilutvecklare måste ha lagt till Marketos SDK-kod i din mobilapp.
+>Din mobilutvecklare måste ha lagt till Marketo SDK-kod i din mobilapp.
 
 Verifiera push-konfigurationen för att säkerställa att allt är synkat.
 
-1. Klicka på **Admin**.
+1. Klicka på **Administratör**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
@@ -31,11 +30,11 @@ Verifiera push-konfigurationen för att säkerställa att allt är synkat.
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Klicka på **Åtgärder för mobilappar** och välj **Verifiera push-konfiguration**.
+1. Klicka **Funktioner för mobilappar** och markera **Verifiera push-konfiguration**.
 
    ![](assets/image2015-4-22-17-3a25-3a8.png)
 
-1. Bekräfta att plattformarna lästes och klicka på **Stäng**.
+1. Bekräfta att plattformarna lästes och klicka **Stäng**.
 
    ![](assets/image2015-4-22-18-3a52-3a38.png)
 

@@ -5,7 +5,7 @@ exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 source-git-commit: d87809e12f153d025f8d013ea52e06c0b6530154
 workflow-type: tm+mt
 source-wordcount: '829'
-ht-degree: 12%
+ht-degree: 13%
 
 ---
 
@@ -55,7 +55,7 @@ När du först synkroniserar ditt Marketo-konto med Microsoft skapar Marketo aut
     <tr>
       <td>E-post</td>
       <td>E-post</td>
-      <td>e-postadress1</td>
+      <td>emailaddress1</td>
     </tr>
     <tr>
       <td>Befattning</td>
@@ -65,7 +65,7 @@ När du först synkroniserar ditt Marketo-konto med Microsoft skapar Marketo aut
     <tr>
       <td>Tel.</td>
       <td>Telefon, arbete</td>
-      <td>telefon1</td>
+      <td>telephone1</td>
     </tr>
     <tr>
       <td>Mobil</td>
@@ -165,7 +165,7 @@ När du först synkroniserar ditt Marketo-konto med Microsoft skapar Marketo aut
     <tr>
       <td>Microsoft hemtelefon</td>
       <td>Telefon, hem</td>
-      <td>telefon2</td>
+      <td>telephone2</td>
     </tr>
     <tr>
       <td>Microsoft föredragen kontaktmetod</td>
@@ -295,7 +295,7 @@ Leadfälten nedan synkroniseras för internt bruk.
     <tr>
       <td>E-post</td>
       <td>E-post</td>
-      <td>e-postadress1</td>
+      <td>emailaddress1</td>
     </tr>
     <tr>
       <td>Befattning</td>
@@ -305,7 +305,7 @@ Leadfälten nedan synkroniseras för internt bruk.
     <tr>
       <td>Tel.</td>
       <td>Telefon, arbete</td>
-      <td>telefon1</td>
+      <td>telephone1</td>
     </tr>
     <tr>
       <td>Mobil</td>
@@ -375,7 +375,7 @@ Leadfälten nedan synkroniseras för internt bruk.
     <tr>
       <td>Microsoft hemtelefon</td>
       <td>Telefon, hem</td>
-      <td>telefon2</td>
+      <td>telephone2</td>
     </tr>
     <tr>
       <td>Microsoft föredragen kontaktmetod</td>
@@ -524,7 +524,7 @@ Kontaktfälten nedan synkroniseras för internt bruk.
     <tr>
       <td>Telefon</td>
       <td>Telefon</td>
-      <td>telefon1</td>
+      <td>telephone1</td>
     </tr>
     <tr>
       <td>Affärstyp</td>

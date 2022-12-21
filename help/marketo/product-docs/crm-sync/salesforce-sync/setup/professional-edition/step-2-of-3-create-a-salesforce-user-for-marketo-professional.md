@@ -3,7 +3,6 @@ unique-page-id: 3571797
 description: Steg 2 av 3 - Skapa en Salesforce-användare för Marketo (Professional) - Marketo Docs - Produktdokumentation
 title: Steg 2 av 3 - Skapa en Salesforce-användare för Marketo (Professional)
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '423'
@@ -27,23 +26,23 @@ I den här artikeln ska du anpassa fältbehörigheter med en Salesforce-sidlayou
 
 Salesforce Professional anger tillgänglighet på fältnivå med sidlayouter, i motsats till Salesforce Enterprise/Unlimited&#39;s Profiles. Om du följer de här stegen kan Marketo synkroniseringsanvändare uppdatera anpassade fält.
 
-1. Skriv **sidlayouter** i navigeringsfältet utan att trycka på **Enter** och klicka på **Sidlayout** under **Leads**.
+1. Typ **sidlayout** i navigeringsfältet utan att trycka på **Retur** och klicka **Sidlayout** under **Leads**.
 
    ![](assets/image2016-2-26-12-3a58-3a32.png)
 
-1. Klicka på **Redigera** bredvid Leadlayout.
+1. Klicka **Redigera** bredvid Leadlayout.
 
    ![](assets/image2016-2-26-13-3a2-3a46.png)
 
-1. Klicka och dra ett nytt **avsnitt** till sidlayouten.
+1. Klicka och dra en ny **Avsnitt** till sidlayouten.
 
    ![](assets/image2014-12-9-12-3a56-3a40.png)
 
-1. Ange &quot;Marketo&quot; för **Avsnittsnamn** och klicka på **OK**.
+1. Ange&quot;Marketo&quot; för **Avsnittsnamn** och klicka **OK**.
 
    ![](assets/image2014-12-9-12-3a56-3a52.png)
 
-1. Klicka och dra fältet **Anskaffningsdatum** till avsnittet **Marketo**.
+1. Klicka och dra fältet **Anskaffningsdatum** till **Marketo** -avsnitt.
 
    ![](assets/image2014-12-9-12-3a57-3a0.png)
 
@@ -74,7 +73,7 @@ Salesforce Professional anger tillgänglighet på fältnivå med sidlayouter, i 
    >
    >Skapa två kolumner för fälten genom att dra nedåt till höger på sidan. Du kan flytta fält från den ena sidan till den andra om du vill balansera kolumnlängden.
 
-1. Klicka på **Spara** när du är klar med att lägga till fält.
+1. Klicka **Spara** när fält har lagts till.
 
    ![](assets/image2014-12-9-12-3a57-3a10.png)
 
@@ -82,31 +81,31 @@ Salesforce Professional anger tillgänglighet på fältnivå med sidlayouter, i 
 
    ![](assets/image2016-2-26-13-3a10-3a1.png)
 
-1. Kom ihåg att klicka på **Spara** när du är klar med **Kontaktsidans layout**.
+1. Kom ihåg att klicka **Spara** när du är klar med **Kontaktsidlayout**.
 
    ![](assets/image2014-12-9-12-3a57-3a30.png)
 
    >[!NOTE]
    >
-   >Kontrollera att fältet **Heldagshändelse** har lagts till i **händelsesidlayouten**.
+   >Se till att **Heldagshändelse** fältet har lagts till i **Händelsesidlayout**.
 
-## Skapa synkroniseringsanvändare {#create-sync-user}
+## Skapa synkroniserad användare {#create-sync-user}
 
 Marketo kräver inloggningsuppgifter för att få åtkomst till Salesforce. Detta görs bäst med en dedikerad användare som skapats med stegen nedan.
 
 >[!NOTE]
 >
->Om din organisation inte har några ytterligare Salesforce-licenser kan du använda en befintlig **marknadsföringsanvändare** med profilen **Systemadministratör**.
+>Om din organisation inte har några ytterligare Salesforce-licenser kan du använda en befintlig **Marknadsförare** med **Systemadministratör** profil.
 
-1. Ange &quot;användare&quot; i navigeringsfältet och klicka på **Användare** under **Hantera användare**.
+1. Ange&quot;användare&quot; i navigeringsfältet och klicka på **Användare** under **Hantera användare**.
 
    ![](assets/image2014-12-9-12-3a57-3a42.png)
 
-1. Klicka på **Ny användare**.
+1. Klicka **Ny användare**.
 
    ![](assets/image2014-12-9-12-3a58-3a1.png)
 
-1. Fyll i de obligatoriska fälten och välj **Användarlicens: Salesforce**, ange **profilen: Systemadministratör**, kontrollera **Marknadsförare** och klicka på **Spara**.
+1. Fyll i de obligatoriska fälten, välj **Användarlicens: Salesforce**, ange **Profil: Systemadministratör**, kontrollera **Marknadsförare** och klicka **Spara**.
 
    ![](assets/image2014-12-9-12-3a58-3a11.png)
 

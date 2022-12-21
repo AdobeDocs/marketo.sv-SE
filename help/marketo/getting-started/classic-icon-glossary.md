@@ -64,7 +64,7 @@ Nedan finns de gamla ikonerna från Marketo Classic. Den nya ikonordlistan kan v
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" width="25" src="assets/share-from.png"> 
+     <img alt="--" width="25" src="assets/share-from.png"> 
     </div></td> 
    <td colspan="1">Målmapp som delats från en annan arbetsyta <br>(padlock anger att redigeringar inte kan göras)</td> 
   </tr> 
@@ -92,7 +92,7 @@ Nedan finns de gamla ikonerna från Marketo Classic. Den nya ikonordlistan kan v
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" height="22" width="22" src="assets/trigger.png" title="—"> 
+     <img alt="--" height="22" width="22" src="assets/trigger.png" title="--"> 
     </div></td> 
    <td colspan="1">Utlösare</td> 
   </tr> 
@@ -415,7 +415,7 @@ Nedan finns de gamla ikonerna från Marketo Classic. Den nya ikonordlistan kan v
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" src="assets/hs-icon.png" title="—"> 
+     <img alt="--" src="assets/hs-icon.png" title="--"> 
     </div></td> 
    <td colspan="1">E-postprogram schemalagt med huvudstart</td> 
   </tr> 

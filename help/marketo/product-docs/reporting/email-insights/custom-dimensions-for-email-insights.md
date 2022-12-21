@@ -1,19 +1,18 @@
 ---
 unique-page-id: 11375276
-description: Anpassade Dimensioner för e-postinsikter - Marketo Docs - Produktdokumentation
+description: Anpassade Dimensioner för e-postinsikter - Marketo Docs - produktdokumentation
 title: Anpassade Dimensioner för e-postinsikter
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: e648a788-50da-495b-b195-f287bcbaeecb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
-
 # Anpassade Dimensioner för e-postinsikter {#custom-dimensions-for-email-insights}
 
-Alla vanliga Marketo-dimensioner inkluderas, men du kan lägga till upp till 10 anpassade dimensioner. Anpassade dimensioner består av segmenteringar och programtaggar. Så här lägger du till dem.
+Alla Marketo standardmått ingår, men du kan lägga till upp till 10 anpassade dimensioner. Anpassade dimensioner består av segmenteringar och programtaggar. Så här lägger du till dem.
 
 >[!NOTE]
 >
@@ -21,17 +20,17 @@ Alla vanliga Marketo-dimensioner inkluderas, men du kan lägga till upp till 10 
 
 >[!CAUTION]
 >
->Anpassade dimensioner **kan inte** tas bort eller ersättas, så välj 10 noggrant.
+>Anpassade dimensioner **inte** tas bort eller ersätts, så välj 10 noggrant.
 
 1. I E-postinsikter klickar du på kugghjulsikonen i det övre högra hörnet på sidan.
 
    ![](assets/cd1.png)
 
-1. Klicka på **System**.
+1. Klicka **System**.
 
    ![](assets/cd2.png)
 
-1. Klicka på **+** bredvid **Lägg till dimension**.
+1. Klicka på **+** nästa **Lägg till dimension**.
 
    ![](assets/cd3.png)
 

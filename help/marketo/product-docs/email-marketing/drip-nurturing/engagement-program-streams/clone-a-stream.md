@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359789
-description: Klona en ström - Marketo Docs - Produktdokumentation
+description: Clone a Stream - Marketo Docs - produktdokumentation
 title: Klona en ström
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 9e1b83c0-38ce-4729-a922-80b927673717
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
-
 # Klona en ström {#clone-a-stream}
 
 Klona en ström av olika anledningar, inklusive att testa olika order och olika licenser.
 
-1. Välj ditt engagemangsprogram och gå till fliken **Streams**.
+1. Välj engagemangsprogram och gå till **Strömmar** -fliken.
 
    ![](assets/cloneasteam.jpg)
 
-1. Klicka på kugghjulsikonen och sedan på **Klona**.
+1. Klicka på strömmens kugghjulsikon och klicka sedan på **Klona**.
 
    ![](assets/image2014-9-15-17-3a0-3a23.png)
 

@@ -1,15 +1,14 @@
 ---
 unique-page-id: 4720224
-description: Redigera områden - Marketo Docs - Produktdokumentation
+description: Redigera områden - Marketo Docs - produktdokumentation
 title: Redigera områden
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 606f3b1b-2180-44b7-b02f-3250b542a4b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
 
 ---
-
 
 # Redigera områden {#edit-regions}
 
@@ -19,7 +18,7 @@ Vill du ändra de regionala inställningarna för användare så att endast data
 
    ![](assets/image2014-12-1-23-3a8-3a40.png)
 
-1. Klicka på **Redigera områden**.
+1. Klicka **Redigera områden**.
 
    ![](assets/image2014-12-3-18-3a55-3a25.png)
 

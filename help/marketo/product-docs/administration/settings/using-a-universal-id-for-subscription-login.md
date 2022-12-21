@@ -60,7 +60,7 @@ Om du har flera prenumerationer kan du ha flera communityprofiler. Vi rekommende
 
 ## Mobilplattform {#mobile-platform}
 
-Användare med ett universellt ID kan se sina data på Marketo Moments och iPad-händelseincheckningsprogrammet från den prenumeration de senast loggat in på. Du kan inte ändra prenumerationer från själva mobilplattformen.
+Användare med ett universellt ID kan se sina data på Marketo Moments och iPad-programmet för händelseincheckning från den prenumeration som de senast loggat in på. Du kan inte ändra prenumerationer från själva mobilplattformen.
 
 >[!MORELIKETHIS]
 >

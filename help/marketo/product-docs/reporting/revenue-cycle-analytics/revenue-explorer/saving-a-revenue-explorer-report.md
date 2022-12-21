@@ -1,17 +1,16 @@
 ---
 unique-page-id: 7504725
-description: Sparar en Intresseutforskarrapport - Marketo Docs - Produktdokumentation
+description: Spara en rapport från Intresseutforskaren - Marketo Docs - produktdokumentation
 title: Spara en rapport i skatteutforskaren
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 9c63d714-0bd3-42d7-844a-921201bf53bc
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
-
-# Sparar en Intresseutforskarrapport {#saving-a-revenue-explorer-report}
+# Spara en rapport i skatteutforskaren {#saving-a-revenue-explorer-report}
 
 Rapporterna i Intresseutforskaren kan sparas i den fil du vill.
 

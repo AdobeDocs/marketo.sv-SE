@@ -1,15 +1,14 @@
 ---
 unique-page-id: 11371065
-description: Lägg till moduler i din e-post - Marketo Docs - Produktdokumentation
+description: Lägg till moduler i din e-post - Marketo Docs - produktdokumentation
 title: Lägg till moduler i din e-post
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 0%
 
 ---
-
 
 # Lägg till moduler i din e-post {#add-modules-to-your-email}
 
@@ -21,9 +20,9 @@ I e-postredigeraren 2.0 är en modul en del av e-postmeddelandet som definieras 
 
    >[!NOTE]
    >
-   >De flesta av Marketo Starter-mallarna innehåller moduler. Du kan också [skapa en egen](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
+   >De flesta startmallar för Marketo innehåller moduler. Du kan också [skapa egna](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
 
-1. Klicka på **Moduler** till höger om e-postmeddelandet.
+1. Klicka till höger om e-postmeddelandet **Moduler**.
 
    ![](assets/two-3.png)
 
@@ -59,7 +58,7 @@ Det finns två sätt att flytta en modul.
 
    ![](assets/nine-2.png)
 
-1. Klicka på kugghjulsikonen och välj **Flytta upp** eller **Flytta ned**, beroende på var du vill att modulen ska vara.
+1. Klicka på kugghjulsikonen och välj **Flytta uppåt** eller **Flytta nedåt**, beroende på var du vill att modulen ska vara.
 
    ![](assets/ten-2.png)
 

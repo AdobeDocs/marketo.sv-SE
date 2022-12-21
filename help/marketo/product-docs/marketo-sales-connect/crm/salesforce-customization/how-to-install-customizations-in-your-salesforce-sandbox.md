@@ -1,15 +1,14 @@
 ---
 unique-page-id: 15368208
-description: Så här installerar du anpassningar i din Salesforce-sandlåda - Marketo Docs - produktdokumentation
+description: Installera anpassningar i din Salesforce-sandlåda - Marketo Docs - produktdokumentation
 title: Installera anpassningar i din Salesforce-sandlåda
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: a3996a86-2a95-456c-96c2-b91b08fb9bc8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
-
 
 # Installera anpassningar i din Salesforce-sandlåda {#how-to-install-customizations-in-your-salesforce-sandbox}
 
@@ -29,7 +28,7 @@ ht-degree: 0%
 
    ![](assets/two-3.png)
 
-1. Klicka på **Installera anpassningar**.
+1. Klicka **Installera anpassningar**.
 
    ![](assets/three-3.png)
 

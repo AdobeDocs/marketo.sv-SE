@@ -2,14 +2,13 @@
 unique-page-id: 14352485
 description: Kan jag återställa en kontakt eller grupp jag tagit bort? - Marketo Docs - produktdokumentation
 title: Kan jag återställa en kontakt eller grupp jag tagit bort?
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+exl-id: 2d12187b-c64a-431f-aefa-d8ed1c90909c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
-
 
 # Kan jag återställa en kontakt eller grupp jag tagit bort? {#can-i-recover-a-contact-or-group-i-deleted}
 

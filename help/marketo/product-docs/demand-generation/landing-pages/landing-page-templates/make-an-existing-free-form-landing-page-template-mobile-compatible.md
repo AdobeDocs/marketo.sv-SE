@@ -2,14 +2,13 @@
 unique-page-id: 5472348
 description: Gör en befintlig mall för landningssida i friform kompatibel - Marketo Docs - Produktdokumentation
 title: Gör en befintlig mall för landningssida i friform kompatibel
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%
 
 ---
-
 
 # Gör en befintlig mall för landningssida i friform kompatibel {#make-an-existing-free-form-landing-page-template-mobile-compatible}
 
@@ -25,19 +24,19 @@ Det kan du göra på två ställen: mallredigeraren och redigeraren för landnin
 
    ![](assets/image2015-1-22-20-3a20-3a2.png)
 
-1. Välj en mall där **Mobile Compatible** är **Nej**.
+1. Välj en mall där **Mobilkompatibel** är **Nej**.
 
    ![](assets/image2015-1-22-20-3a22-3a24.png)
 
-1. Klicka på **Redigera utkast**.
+1. Klicka **Redigera utkast**.
 
    ![](assets/image2015-1-22-20-3a25-3a36.png)
 
-1. Klicka på **Gör mobilkompatibel**.
+1. Klicka **Gör mobilkompatibel**.
 
    ![](assets/image2015-1-22-20-3a30-3a33.png)
 
-1. Klicka på **Uppgradera**.
+1. Klicka **Uppgradera**.
 
    ![](assets/image2015-1-22-20-3a32-3a45.png)
 
@@ -65,15 +64,15 @@ Om något är fel visas ett felmeddelande. Klicka på Reparera för att åtgärd
 
 Om du gör några ändringar i mallen klickar du på Mallåtgärder och väljer Validera mobilkompatibilitet.
 
-## Uppgradera en mall från redigeraren för startsida i fritt format {#upgrading-a-template-from-the-free-form-landing-page-editor}
+## Uppgradera en mall från sidredigeraren för kostnadsfri landning {#upgrading-a-template-from-the-free-form-landing-page-editor}
 
 När du redigerar en landningssida och klickar på mobilfliken, kommer du ibland att märka att mallen inte har uppgraderats. Rädsla inte! Där kan du uppgradera den.
 
-1. Klicka på fliken **Mobil**.
+1. Klicka på **Mobil** -fliken.
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 
-1. Klicka på kryssrutan och klicka på **Aktivera**.
+1. Klicka på kryssrutan och klicka **Aktivera**.
 
    ![](assets/image2015-1-22-20-3a49-3a34.png)
 
@@ -81,4 +80,4 @@ När du redigerar en landningssida och klickar på mobilfliken, kommer du ibland
    >
    >När du aktiverar mobilversionen av en mall skapas utkast för alla landningssidor som använder den.
 
-Häftig! Du kan nu [anpassa mobilvyn](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) för alla dina landningssidor som använder den här mallen.
+Häftig! Nu kan du [anpassa mobilvyn](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) av alla dina landningssidor som använder den här mallen.

@@ -16,7 +16,7 @@ Följande funktioner ingår i vinterversionen 16. Klicka på titellänkarna för
 
 ## [Är ett anonymt filter](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
 
-Filtret Är anonym har tagits bort för smarta listor. Mer information finns i dokumentet [Next Generation Munchkin Tracking FAQ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md). Den här ändringen påverkar inte webbpersonalisering (RTP), som fortsätter att identifiera anonyma och kända webbesökare och personalisera innehåll i realtid för dessa besökare.
+Filtret Är anonym har tagits bort för smarta listor. Se [Nästa generations Munchkin Tracking - frågor och svar](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) för mer information. Den här ändringen påverkar inte webbpersonalisering (RTP), som fortsätter att identifiera anonyma och kända webbesökare och personalisera innehåll i realtid för dessa besökare.
 
 ## [Kontrollpanel för databas](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md) {#database-dashboard}
 
@@ -26,11 +26,11 @@ Leaddatabasen har en uppdaterad sammanfattningsinstrumentpanel som innehåller d
 
 ## [Microsoft Edge Browser](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-Vi har lagt till Microsoft Edge i [listan över webbläsare](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) som stöds av Marketo.
+Vi har lagt till Microsoft Edge i [lista över webbläsare](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) som stöds av Marketo.
 
 ## [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 
-[Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)  stöds nu.
+[Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) stöds nu.
 
 ## [Start för e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
 
@@ -48,7 +48,7 @@ Om du vill använda den här funktionen måste e-postprogrammet vara schemalagt 
 
 ## [Förbättringar av mobilmarknadsföring](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**PhoneGap-stöd:** Nu erbjuder vi PhoneGap-stöd för din mobilapp. [Läs mer](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
+**PhoneGap-stöd:** Vi erbjuder nu PhoneGap-stöd för din mobilapp. [Läs mer](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
 
 **Stöd för sandlådeappar**:
 
@@ -76,7 +76,7 @@ Nu kan du skapa många-till-många-relationer mellan leads/konton och ett anpass
 
 ## [Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Facebook Lead ](https://www.facebook.com/business/a/lead-ads) är ett mer direkt sätt för ett företag att köra leadgenereringskampanjer på Facebook. Användarna fyller i en blankett för att uttrycka sitt intresse för en produkt eller tjänst, så att företaget kan följa upp med dem. Marketo-integrationen med Facebook Lead Ads hämtar automatiskt information som ett lead tillhandahåller i formuläret Lead Ad. Uppföljningsåtgärder och meddelanden kan sedan automatiseras med den nya utlösaren för utfyllnad av Facebook Lead Ads.
+[Facebook Lead ads](https://www.facebook.com/business/a/lead-ads) är ett mer direkt sätt för ett företag att köra leadgenereringskampanjer på Facebook. Användarna fyller i en blankett för att uttrycka sitt intresse för en produkt eller tjänst, så att företaget kan följa upp med dem. Marketo-integrationen med Facebook Lead Ads hämtar automatiskt information som ett lead tillhandahåller i formuläret Lead Ad. Uppföljningsåtgärder och meddelanden kan sedan automatiseras med den nya utlösaren för utfyllnad av Facebook Lead Ads.
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 

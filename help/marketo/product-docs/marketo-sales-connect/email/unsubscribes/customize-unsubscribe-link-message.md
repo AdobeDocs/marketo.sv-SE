@@ -2,16 +2,15 @@
 unique-page-id: 14746186
 description: Anpassa Avbeställ länkmeddelande - Marketo Docs - Produktdokumentation
 title: Anpassa meddelande om att avbryta prenumeration på länk
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%
 
 ---
 
-
-# Anpassa meddelande om att avbryta prenumerationen {#customize-unsubscribe-link-message}
+# Anpassa meddelande om att avbryta prenumeration på länk {#customize-unsubscribe-link-message}
 
 Vi har alltid tillåtit team att anpassa sina länkmeddelanden för att avbryta prenumerationen, men nu kan administratörer ställa in länkmeddelanden för att avbryta prenumerationen för hela teamet så att de får ett enhetligt budskap.
 
@@ -21,11 +20,11 @@ Vi har alltid tillåtit team att anpassa sina länkmeddelanden för att avbryta 
 
 ## Anpassa meddelanden för dig själv {#customize-messaging-for-yourself}
 
-1. Logga in på [webbprogrammet](https://toutapp.com/login), klicka på kugghjulsikonen uppe till höger och välj **Inställningar**.
+1. Logga in på [webbprogram](https://toutapp.com/login), klicka på kugghjulsikonen längst upp till höger och välj **Inställningar**.
 
    ![](assets/one.png)
 
-1. Välj **Avbeställ** under Mitt konto.
+1. Under Mitt konto väljer du **Avbeställ**.
 
    ![](assets/two-1.png)
 
@@ -39,26 +38,26 @@ Vi har alltid tillåtit team att anpassa sina länkmeddelanden för att avbryta 
 
    >[!NOTE]
    >
-   >Det spelar ingen roll vilken URL:en är som hyperlänkas. När e-postmeddelandet skickas konverteras hyperlänken till länken för att avbryta prenumerationen.
+   >Det spelar ingen roll vilken URL-adress det är som hyperlänkas. När e-postmeddelandet skickas konverteras hyperlänken till länken för att avbryta prenumerationen.
 
-1. Klicka på **OK**.
+1. Klicka **OK**.
 
    ![](assets/five.png)
 
-## Ange avanmälningsmeddelanden för ditt team {#set-unsubscribe-messaging-for-your-team}
+## Ange avbeställningsmeddelanden för ditt team {#set-unsubscribe-messaging-for-your-team}
 
-1. Logga in på [webbprogrammet](https://toutapp.com/login), klicka på kugghjulsikonen uppe till höger och välj **Inställningar**.
+1. Logga in på [webbprogram](https://toutapp.com/login), klicka på kugghjulsikonen längst upp till höger och välj **Inställningar**.
 
    ![](assets/six.png)
 
-1. Välj **Avbeställ** under Administratörsinställningar.
+1. Under Administratörsinställningar väljer du **Avbeställ**.
 
    ![](assets/eight.png)
 
-1. Anpassa meddelandet och klicka på **Spara** när du är klar.
+1. Anpassa meddelanden och klicka **Spara** när det är klart.
 
    ![](assets/seven.png)
 
-1. Välj **Jag ställer in standardmeddelandet för mitt team** så att meddelandet gäller alla användare.
+1. Välj **Jag ställer in standardmeddelandet för mitt team** om meddelandet ska gälla alla användare.
 
    ![](assets/eleven.png)

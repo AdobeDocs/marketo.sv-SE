@@ -1,21 +1,20 @@
 ---
 unique-page-id: 10095084
-description: Diagramresultat från Intresseutforskaren - Marketo Docs - Produktdokumentation
+description: Graderingsresultat från intäktsutforskaren - Marketo Docs - produktdokumentation
 title: Diagramresultat från intäktsutforskaren
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 628d1c9d-f636-4d67-8685-87edb3a5fb8b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
 
 ---
 
-
 # Diagramresultat från intäktsutforskaren {#graphing-results-from-revenue-explorer}
 
 Som standard visas rapporter i skatteutforskaren som en tabell. Du kan också visa resultat som diagram i olika format.
 
-1. Klicka på pilen i listrutan **Visa som** i rapporten. Olika övertoningsalternativ visas.
+1. Klicka på pilen i **Visa som** nedrullningsbar meny för rapporten. Olika övertoningsalternativ visas.
 
    ![](assets/one-1.png)
 
@@ -33,19 +32,19 @@ Som standard visas rapporter i skatteutforskaren som en tabell. Du kan också vi
 
 ![](assets/100-stacked-column.png)
 
-**Rad**: Varje kolumn visas som en rad och varje rad som en datapunkt på raden.
+**Linje**: Varje kolumn visas som en rad och varje rad som en datapunkt på raden.
 
 ![](assets/line.png)
 
-**Kombinationsruta** för spaltlinjer: Kombination av stapeldiagram och linjediagram.
+**Kombinationsruta för spaltlinje**: Kombination av stapeldiagram och linjediagram.
 
 ![](assets/column-line-combo.png)
 
-**Stapel**: Varje rad och kolumn i tabellen visas som ett vågrätt fält.
+**Liggande**: Varje rad och kolumn i tabellen visas som ett vågrätt fält.
 
 ![](assets/bar.png)
 
-**Staplad liggande**: Varje rad i tabellen har en rad i diagrammet.
+**Staplad liggande stapel**: Varje rad i tabellen har en rad i diagrammet.
 
 ![](assets/stacked-bar.png)
 
@@ -53,7 +52,7 @@ Som standard visas rapporter i skatteutforskaren som en tabell. Du kan också vi
 
 ![](assets/100-stacked-bar.png)
 
-**Område**: Data visas som staplade fält, men är ifyllda.
+**Yta**: Data visas som staplade fält, men är ifyllda.
 
 ![](assets/area.png)
 
@@ -61,7 +60,7 @@ Som standard visas rapporter i skatteutforskaren som en tabell. Du kan också vi
 
 ![](assets/pie.png)
 
-**Sunburst**: Radiellt diagram som representerar attribut i segment.
+**Solexplosion**: Radiellt diagram som representerar attribut i segment.
 
 ![](assets/sunburst.png)
 

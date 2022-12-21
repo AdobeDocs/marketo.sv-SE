@@ -3,7 +3,6 @@ unique-page-id: 1147068
 description: Filtrera resultat från smarta kampanjer - Marketo Docs - produktdokumentation
 title: Filtrera resultat för smarta kampanjer
 exl-id: 76c1b143-313b-4ef2-860f-f8b127fdfc6b
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '153'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Filtrera resultat för smart kampanj {#filter-smart-campaign-results}
+# Filtrera resultat för smarta kampanjer {#filter-smart-campaign-results}
 
 >[!PREREQUISITES]
 >
@@ -21,7 +20,7 @@ Filtrera resultaten från smarta kampanjer för att se specifika aktiviteter som
 
 ## Filtrera efter sparade filter {#filter-by-saved-filters}
 
-1. Klicka på **Filter** och välj ett sparat filter på fliken **Resultat**.
+1. I er smarta kampanj **Resultat** flik, klicka på **Filter** och välj ett sparat filter.
 
    ![](assets/resultsfilter-hands.png)
 
@@ -35,13 +34,13 @@ Filtrera resultaten från smarta kampanjer för att se specifika aktiviteter som
 
    ![](assets/filterscustom-hands.png)
 
-1. Välj de aktivitetstyper som du vill visa och klicka sedan på **Spara som** .
+1. Välj de aktivitetstyper som du vill se och klicka sedan på **Spara som** .
 
    ![](assets/activityfiltersettings-hands.png)
 
    >[!TIP]
    >
-   >Klicka på **Använd** om du vill använda ett anpassat filter direkt på resultatet utan att spara det.
+   >Klicka på **Använd** om du vill använda ett eget filter direkt på resultatet utan att spara det.
 
 1. Ange ett filternamn och klicka på **Spara**.
 

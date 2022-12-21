@@ -1,25 +1,24 @@
 ---
 unique-page-id: 11375827
-description: Obligatoriska fält för synkronisering av Marketo med Dynamics - Marketo Docs - Produktdokumentation
+description: Obligatoriska fält för synkronisering av Marketo med Dynamics - Marketo Docs - produktdokumentation
 title: Obligatoriska fält för synkronisering av Marketo med Dynamics
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: c1b9d208-bdc0-4718-b3e5-e9e915b8ae0f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
 
 ---
 
-
 # Obligatoriska fält för synkronisering av Marketo med Dynamics {#required-fields-for-syncing-marketo-with-dynamics}
 
-Dessa fält *måste* synkroniseras med Marketo så att både lead och kontakt för Sales Insight fungerar:
+Dessa fält *måste* synkas med Marketo för både Lead och Contact for Sales Insight:
 
 * Prioritet
 * Akut
 * Relativa poäng
 
-Om något av dessa fält saknas visas ett felmeddelande i Marketo med namnet på de fält som saknas. Kontrollera i instansen att fälten är synkroniserade för både **Lead** och **Kontakt** för att åtgärda detta. Om inte, lägg till dem.
+Om något av dessa fält saknas visas ett felmeddelande i Marketo med namnet på de saknade fälten. Kontrollera i instansen att fälten är synkroniserade för båda för att åtgärda detta **Lead** och **Kontakt**. Om inte, lägg till dem.
 
 Så här verifierar och lägger du till synkroniseringsfält.
 
@@ -27,7 +26,7 @@ Så här verifierar och lägger du till synkroniseringsfält.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Klicka på **Redigera** i Fältsynkroniseringsinformation.
+1. Klicka **Redigera** i Fältsynkroniseringsinformation.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -47,7 +46,7 @@ Så här verifierar och lägger du till synkroniseringsfält.
 
    ![](assets/image2016-6-8-13-3a36-3a36.png)
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/image2016-6-8-13-3a41-3a27.png)
 

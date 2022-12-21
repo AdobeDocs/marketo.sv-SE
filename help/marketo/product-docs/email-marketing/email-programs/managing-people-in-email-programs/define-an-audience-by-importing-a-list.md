@@ -1,15 +1,14 @@
 ---
 unique-page-id: 1900597
-description: Definiera en målgrupp genom att importera en lista - Marketo Docs - Produktdokumentation
+description: Definiera en målgrupp genom att importera en lista - Marketo Docs - produktdokumentation
 title: Definiera en publik genom att importera en lista
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 0%
 
 ---
-
 
 # Definiera en publik genom att importera en lista {#define-an-audience-by-importing-a-list}
 
@@ -17,7 +16,7 @@ ht-degree: 0%
 >
 >[Skapa ett e-postmeddelande för ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-När du har skapat ett e-postprogram vill du berätta vem du vill skicka e-postmeddelandet till. Du kan göra detta genom att [skapa en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) eller genom att importera en lista. Så här uppnår du detta genom att importera en lista.
+När du har skapat ett e-postprogram vill du berätta vem du vill skicka e-postmeddelandet till. Du kan göra det här genom att [skapa en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) eller genom att importera en lista. Så här uppnår du detta genom att importera en lista.
 
 >[!NOTE]
 >
@@ -33,7 +32,7 @@ När du har skapat ett e-postprogram vill du berätta vem du vill skicka e-postm
 
    ![](assets/importlist.png)
 
-1. Listimportfönstret öppnas. Klicka på **Bläddra** och välj den fil du vill importera. När du har valt en lista med personer klickar du på **Nästa**.
+1. Listimportfönstret öppnas, klicka på **Bläddra** och markera den fil som du vill importera. När du har valt en lista med personer klickar du på **Nästa**.
 
    ![](assets/importlist1.png)
 
@@ -47,9 +46,9 @@ När du har skapat ett e-postprogram vill du berätta vem du vill skicka e-postm
 
    >[!TIP]
    >
-   >Marketo kommer att komma ihåg mappningarna för framtida importer!
+   >Marketo kommer ihåg mappningarna för framtida importer!
 
-1. Ange ett **namn** för listan och klicka på **Importera**.
+1. Ange **Namn** för listan och klicka på **Importera**.
 
    ![](assets/image2014-9-12-11-3a10-3a13.png)
 
@@ -63,17 +62,15 @@ När du har skapat ett e-postprogram vill du berätta vem du vill skicka e-postm
 >
 >Märkte du numret för spärrad? Det här numret är en delmängd av de kvalificerade personerna och representerar personer som inte kan skicka det här e-postmeddelandet eftersom de är:
 >
->* Avbeställ
+>* Avprenumererad
 >* Marknadsföring har pausats
 >* Blocklist
 >* Ogiltig e-postadress
 >* Tom e-postadress
-
 >
+>Klicka på numret om du vill se en detaljerad lista över personer som blockerats från utskick.
 >
-Klicka på numret om du vill se en detaljerad lista över personer som blockerats från utskick.
->
->Använd knappen ![—](assets/image2014-10-23-16-3a32-3a36-1.png) på **målgruppspanelen** för att se hur många personer som är kvalificerade att ta emot e-postmeddelandet baserat på villkoren i den smarta listan. Ta bort det blockerade numret från personnumret för att få det totala antalet personer som ska få e-postmeddelandet.
+>Använd ![—](assets/image2014-10-23-16-3a32-3a36-1.png) på **Målgrupp** visa hur många personer som är kvalificerade att ta emot e-postmeddelandet baserat på villkoren i den smarta listan. Ta bort det blockerade numret från personnumret för att få det totala antalet personer som ska få e-postmeddelandet.
 
 >[!TIP]
 >

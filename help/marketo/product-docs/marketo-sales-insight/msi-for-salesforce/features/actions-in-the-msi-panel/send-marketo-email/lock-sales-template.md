@@ -1,15 +1,14 @@
 ---
 unique-page-id: 12981050
-description: Lås försäljningsmall - Marketo Docs - Produktdokumentation
+description: Lås försäljningsmall - Marketo Docs - produktdokumentation
 title: Lås försäljningsmall
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 005dde5d-ed60-444b-b7a3-b91be72a0151
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
 
 ---
-
 
 # Lås försäljningsmall {#lock-sales-template}
 
@@ -25,15 +24,15 @@ För att förhindra CRM-användare från att redigera säljmallar kan administra
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **Admin** och klicka sedan på **Sales Insight**.
+1. Gå till **Administratör** och sedan klicka **Försäljningsinsikter**.
 
    ![](assets/1.png)
 
-1. Klicka på **Redigera** under **Inställningar**.
+1. Under **Inställningar**, klicka **Redigera**.
 
    ![](assets/2.png)
 
-1. Markera **Aktivera möjligheten att låsa mallar**. Klicka på **Spara**.
+1. Kontrollera **Möjlighet att låsa mallar**. Klicka **Spara**.
 
    ![](assets/image2017-10-9-8-3a19-3a45.png)
 
@@ -43,19 +42,19 @@ För att förhindra CRM-användare från att redigera säljmallar kan administra
 
 >[!NOTE]
 >
->Om du ändrar den här inställningen som administratör kommer **inte** att påverka befintliga mallar retroaktivt. Det innebär att de inte låses automatiskt.
+>Om du ändrar den här inställningen som administratör ändras **not** retroaktivt påverka befintliga mallar, Det innebär att de inte låses automatiskt.
 
 ## Lås mall i e-postredigeraren {#lock-template-in-the-email-editor}
 
-1. Markera det e-postmeddelande som du vill låsa och klicka sedan på **Redigera utkast**.
+1. Välj den e-postadress som du vill låsa och klicka sedan på **Redigera utkast**.
 
    ![](assets/5.png)
 
-1. Klicka på **E-postinställningar** i e-postredigeraren.
+1. I e-postredigeraren klickar du på **E-postinställningar**.
 
    ![](assets/6.png)
 
-1. Markera **Publish to Marketo Sales Insight** om den inte redan är markerad. Du kan nu avmarkera **Tillåt CRM-användare att redigera e-post** för att låsa mallen. Klicka på **Spara**.
+1. Kontrollera **Publicera till Marketo Sales Insight** om det inte redan är markerat. Du kan nu avmarkera **Tillåt CRM-användare att redigera e-post** för att låsa mallen. Klicka **Spara**.
 
    ![](assets/7.png)
 

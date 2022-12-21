@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Mall 9F {#template-9f}
 
-Högerklicka för att [hämta mall 9F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9f.html)
+Högerklicka för att [ladda ned mall 9F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9f.html)
 
 ![](assets/image2015-7-28-16-3a1-3a25.png)
 

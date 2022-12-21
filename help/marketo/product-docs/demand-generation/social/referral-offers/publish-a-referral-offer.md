@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2359845
-description: Publicera ett hänvisningserbjudande - Marketo Docs - Produktdokumentation
+description: Publicera ett hänvisningserbjudande - Marketo Docs - produktdokumentation
 title: Publicera ett hänvisningserbjudande
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 48335902-cb43-44ea-9f19-2fe49105bb45
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
-
 # Publicera ett hänvisningserbjudande {#publish-a-referral-offer}
 
-När du har [skapat ett hänvisningserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) kan du publicera det på din Markettill landningssidor, på Facebook och på din webbplats.
+Efter [skapa ett hänvisningserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)kan du publicera den på dina Marketo landningssidor, på Facebook och på din webbplats.
 
 1. Navigera till landningssidan och öppna den för redigering.
 
@@ -31,7 +30,7 @@ När du har [skapat ett hänvisningserbjudande](/help/marketo/product-docs/deman
 >
 >Du måste godkänna ditt hänvisningserbjudande för att kunna göra det tillgängligt här.
 
-Grattis! Godkänn landningssidan och ditt hänvisningserbjudande är öppet. Du kan även [publicera landningssidan på Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) eller [publicera erbjudandet på din webbplats](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+Grattis! Godkänn landningssidan och ditt hänvisningserbjudande är öppet. Du kan också [publicera landningssidan på Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) eller [lägg ut erbjudandet på din webbplats](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!TIP]
 >

@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Versionsinformation: Oktober 2021 {#release-notes-oct-21}
 
-Följande funktioner ingår i versionen från 21 oktober. Se om det finns funktioner i Adobe Marketo Engage Edition.
+Följande funktioner ingår i versionen från 21 oktober. Se om det finns funktioner i din Adobe Marketo Engage-utgåva.
 
 >[!AVAILABILITY]
 >

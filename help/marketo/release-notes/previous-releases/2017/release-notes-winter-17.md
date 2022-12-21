@@ -38,7 +38,7 @@ Exportera all information och alla analyser i webbkampanjen i ett CSV-format. Se
 
 ## Lokalisering {#localization}
 
-Apparna Webbpersonalisering, Predictive Content och Email Insights finns nu på japanska, tyska och spanska. Du [väljer språk och språk](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) för att visa ditt innehåll på dessa språk.
+Apparna Webbpersonalisering, Predictive Content och Email Insights finns nu på japanska, tyska och spanska. Du [välj språk och språkområde](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) för att visa ditt innehåll på dessa språk.
 
 ![](assets/japanese-web-personalization.png)
 

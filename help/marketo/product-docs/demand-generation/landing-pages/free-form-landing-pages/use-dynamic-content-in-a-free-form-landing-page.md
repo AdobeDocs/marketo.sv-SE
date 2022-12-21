@@ -2,16 +2,15 @@
 unique-page-id: 2359732
 description: Använd dynamiskt innehåll i en landningssida i fri form - Marketo Docs - produktdokumentation
 title: Använd dynamiskt innehåll på en landningssida i fri form
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: 76441566-96be-43fb-91da-4c0c520cc9e1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
-
-# Använd dynamiskt innehåll på en startsida i fri form {#use-dynamic-content-in-a-free-form-landing-page}
+# Använd dynamiskt innehåll på en landningssida i fri form {#use-dynamic-content-in-a-free-form-landing-page}
 
 Genom att använda dynamiskt innehåll i landningssidor engagerar du publiken med riktad information.
 
@@ -32,7 +31,7 @@ Genom att använda dynamiskt innehåll i landningssidor engagerar du publiken me
 
    ![](assets/landingpageeditdraft-1.jpg)
 
-1. Klicka på **Segmentera med**.
+1. Klicka **Segmentera efter**.
 
    ![](assets/image2014-9-17-12-3a8-3a46.png)
 
@@ -50,7 +49,7 @@ Genom att använda dynamiskt innehåll i landningssidor engagerar du publiken me
 
 ## Gör element dynamiskt {#make-element-dynamic}
 
-1. Dra och släpp element med dynamiskt innehåll från **Statisk** till **Dynamisk**.
+1. Dra och släpp element för dynamiskt innehåll från **Statisk** till **Dynamisk**.
 
    ![](assets/image2014-9-17-12-3a10-3a8.png)
 

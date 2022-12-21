@@ -1,15 +1,14 @@
 ---
 unique-page-id: 7515069
-description: Förstå element och variabler i guidade mallar - Marketo Docs - Produktdokumentation
+description: Förstå element och variabler i guidade mallar - Marketo Docs - produktdokumentation
 title: Förstå element och variabler i guidade mallar
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
 
 ---
-
 
 # Förstå element och variabler i guidade mallar {#understanding-elements-and-variables-in-guided-templates}
 
@@ -17,7 +16,7 @@ Det finns två typer av redigerbara sektioner i mallar för guidade landningssid
 
 ## Element {#elements}
 
-Elementen är de olika innehållsdelar som utgör en landningssida. De kan vara bilder, text eller Marketo-resurser.
+Elementen är de olika innehållsdelar som utgör en landningssida. Det kan vara bilder, text eller Marketo-resurser.
 
 ![](assets/image2015-5-20-14-3a57-3a55.png)
 
@@ -30,7 +29,7 @@ När du redigerar en guidad landningssida visas elementen om de har markerats so
 * ![—](assets/image2015-5-20-12-3a44-3a17.png)Marketo Share Button
 * ![—](assets/image2015-5-20-12-3a43-3a21.png)Marketo Poll
 * ![—](assets/image2015-5-20-12-3a43-3a2.png)Marketo Referral
-* ![—](assets/image2015-5-20-12-3a44-3a40.png)Marketo Sweepstakes
+* ![—](assets/image2015-5-20-12-3a44-3a40.png)Marketo Lotteriet
 * ![—](assets/image2015-5-20-12-3a47-3a45.png)Marketo-kodfragment
 
 ## Variabler {#variables}
@@ -49,11 +48,11 @@ Det finns tre typer av variabler: strängvariabler, färgvariabler och booleska 
   </tr> 
   <tr> 
    <td>Färg</td> 
-   <td><p>Redigerbar hexkod för färg</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="—"></p><p>Exempel: Bakgrundsfärg, teckensnittsfärg, kantfärg</p></td> 
+   <td><p>Redigerbar hexkod för färg</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Exempel: Bakgrundsfärg, teckensnittsfärg, kantfärg</p></td> 
   </tr> 
   <tr> 
    <td>Boolean</td> 
-   <td><p>En spake som styr läge på/av för objekt eller format på landningssidan</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="—"></p><p>Exempel: Visa sidfot (Ja/Nej), Antal kolumner (1/2), Bädda in Google Analytics (sant/falskt)</p></td> 
+   <td><p>En spake som styr läge på/av för objekt eller format på landningssidan</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Exempel: Visa sidfot (Ja/Nej), Antal kolumner (1/2), Bädda in Google Analytics (sant/falskt)</p></td> 
   </tr> 
  </tbody> 
 </table>

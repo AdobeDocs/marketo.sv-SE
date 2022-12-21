@@ -2,14 +2,13 @@
 unique-page-id: 2359547
 description: Schemalägg A/B-testet - Marketo Docs - produktdokumentation
 title: Schemalägg A/B-testet
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%
 
 ---
-
 
 # Schemalägg A/B-testet {#schedule-the-a-b-test}
 
@@ -23,7 +22,7 @@ När du har lagt till ett A/B-test i ett e-postprogram och definierat vinnarkrit
 >
 >För datum-/tidstester behöver du bara ange när du får sammanfattningen av testresultaten.
 
-1. Välj datumet **Skicka test**.
+1. Välj **Skicka test** datum.
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
@@ -33,9 +32,9 @@ När du har lagt till ett A/B-test i ett e-postprogram och definierat vinnarkrit
 
    >[!NOTE]
    >
-   >Skicka test- och Skicka-vinnaren måste vara minst fyra timmars ifrån. För större utskick kanske du vill vänta i 24 timmar så att du hinner uppnå bra resultat.
+   >Sändnings- och sändningsvinnaren måste vara minst fyra timmars ifrån. För större utskick kanske du vill vänta i 24 timmar så att du hinner uppnå bra resultat.
 
-1. Gör samma sak för **Skicka-vinnare**. Ange meddelandemottagare (valfritt) och klicka på **Nästa**.
+1. Gör samma sak för **Skicka vinnare**. Ange meddelandemottagare (valfritt) och klicka på **Nästa**.
 
    >[!NOTE]
    >
@@ -45,13 +44,13 @@ När du har lagt till ett A/B-test i ett e-postprogram och definierat vinnarkrit
 
    >[!NOTE]
    >
-   >Om du väljer att deklarera en vinnare manuellt definierar du **Report Send** datum/tid i stället för **Finish Mailing** date/time.
+   >Om du väljer att deklarera en vinnare manuellt definierar du **Skicka rapport** datum/tid i stället för **Slutför utskick** datum/tid.
 
    Suverän! Nu är du klar. Granska sammanfattningen och klicka på Stäng.
 
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
-   Du kommer att märka att panelen **Schedule** nu har uppdaterats.
+   Du kommer att märka **Schema** Panelen har uppdaterats.
 
    ![](assets/image2014-9-12-16-3a1-3a33.png)
 

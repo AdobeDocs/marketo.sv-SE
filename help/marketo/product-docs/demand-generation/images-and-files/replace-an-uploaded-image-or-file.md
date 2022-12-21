@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359876
-description: Ersätta en överförd bild eller fil - Marketo Docs - Produktdokumentation
+description: Ersätta en överförd bild eller fil - Marketo Docs - produktdokumentation
 title: Ersätta en överförd bild eller fil
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
-
 
 # Ersätta en överförd bild eller fil {#replace-an-uploaded-image-or-file}
 
@@ -17,7 +16,7 @@ ht-degree: 0%
 
    ![](assets/designstudio-6.png)
 
-1. Klicka på **Bilder och filer** och välj sedan den fil som du vill ersätta.
+1. Klicka **Bilder och filer** markerar du filen som du vill ersätta.
 
    ![](assets/image2014-9-16-11-3a21-3a48.png)
 
@@ -25,7 +24,7 @@ ht-degree: 0%
    >
    >Du kan också [söka efter överförda bilder eller filer](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md).
 
-1. Klicka på **Filåtgärder** och välj **Ersätt bild eller Arkiv**.
+1. Klicka **Filåtgärder** och markera **Ersätt bild eller fil**.
 
    ![](assets/image2014-9-16-11-3a21-3a55.png)
 
@@ -37,7 +36,7 @@ ht-degree: 0%
    >
    >Om du inte kan välja en fil från en delad mapp sparar du filen på hårddisken och väljer den där.
 
-1. Kontrollera att filen som visas bredvid **Välj fil** är korrekt och klicka sedan på **Ersätt**.
+1. Verifiera att filen visas bredvid **Välj fil** är korrekt och klickar sedan på **Ersätt**.
 
    ![](assets/image2014-9-16-11-3a22-3a12.png)
 

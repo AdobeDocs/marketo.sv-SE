@@ -1,15 +1,14 @@
 ---
 unique-page-id: 7504051
-description: Hantera persondata - Marketo Docs - Produktdokumentation
+description: Hantera persondata - Marketo Docs - produktdokumentation
 title: Hantera persondata
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # Hantera persondata {#manage-person-data}
 
@@ -19,13 +18,13 @@ Utnyttja persondata för webbpersonalisering genom att markera personfält som s
 
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. Gå till **Database**.
+1. Gå till **Databas**.
 
    ![](assets/account-settings-dropdown-database.jpg)
 
-## Lägga till fältet Ny person {#adding-a-new-person-field}
+## Lägga till ett fält för ny person {#adding-a-new-person-field}
 
-1. Välj **Fält att lägga till** från listrutan för att lägga till ett persondatafält i listan.
+1. Välj **Fält som ska läggas till** från listrutan för att lägga till ett persondatafält i listan.
 
    ![](assets/add-a-person-field-hand.jpg)
 
@@ -33,9 +32,9 @@ Utnyttja persondata för webbpersonalisering genom att markera personfält som s
    >
    >Ett nytt fält läggs till i ett väntande läge och kan ta upp till 24 timmar att aktivera.
 
-## Tar bort ett personfält {#deleting-a-person-field}
+## Ta bort ett personfält {#deleting-a-person-field}
 
-1. Klicka på borttagningsikonen ( ![—](assets/image2015-3-24-13-3a45-3a56.png)) för att ta bort ett fält från listan. Klicka på **Ja** för att bekräfta att du vill ta bort fältet.
+1. Klicka på ikonen Ta bort ( ![—](assets/image2015-3-24-13-3a45-3a56.png)) för att ta bort ett fält från listan. Klicka **Ja** för att bekräfta att du vill ta bort fältet.
 
    ![](assets/web-engagement-settings-delete.jpg)
 
@@ -94,8 +93,8 @@ Utnyttja persondata för webbpersonalisering genom att markera personfält som s
   </tr> 
   <tr> 
    <td><p>avbeställa</p></td> 
-   <td><p>Avbeställ</p></td> 
-   <td><p>Avbeställ</p></td> 
+   <td><p>Avprenumererad</p></td> 
+   <td><p>Avprenumererad</p></td> 
   </tr> 
  </tbody> 
 </table>

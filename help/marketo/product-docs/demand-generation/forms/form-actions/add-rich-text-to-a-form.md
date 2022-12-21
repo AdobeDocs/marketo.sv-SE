@@ -1,17 +1,16 @@
 ---
 unique-page-id: 2359618
-description: Lägg till RTF i ett formulär - Marketo Docs - Produktdokumentation
+description: Lägg till RTF i ett formulär - Marketo Docs - produktdokumentation
 title: Lägga till RTF i ett formulär
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
-
-# Lägg till RTF i ett formulär {#add-rich-text-to-a-form}
+# Lägga till RTF i ett formulär {#add-rich-text-to-a-form}
 
 Använd RTF i ett formulär för att lägga till instruktioner eller annan information mellan fält. Kolla in den.
 
@@ -23,7 +22,7 @@ Använd RTF i ett formulär för att lägga till instruktioner eller annan infor
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
-1. Klicka på **+**-tecknet.
+1. Klicka på **+** signera.
 
    ![](assets/image2014-9-15-16-3a46-3a43.png)
 
@@ -39,15 +38,15 @@ Använd RTF i ett formulär för att lägga till instruktioner eller annan infor
    >
    >Om du behöver en radavgränsare i formuläret använder du knappen Vågrät linje.
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/image2014-9-15-16-3a48-3a18.png)
 
-1. Klicka på **Slutför**.
+1. Klicka **Slutför**.
 
    ![](assets/image2014-9-15-16-3a48-3a36.png)
 
-1. Klicka på **Godkänn och stäng**.
+1. Klicka **Godkänn och stäng**.
 
    ![](assets/image2014-9-15-16-3a48-3a51.png)
 
@@ -57,4 +56,4 @@ Använd RTF i ett formulär för att lägga till instruktioner eller annan infor
 
 >[!TIP]
 >
->Visste du att du även kan [lägga till synlighetsregler](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) i ett RTF-block?
+>Visste du att du också kan [lägg till synlighetsregler](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) till ett RTF-block?

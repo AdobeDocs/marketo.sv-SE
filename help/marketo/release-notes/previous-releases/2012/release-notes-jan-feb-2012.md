@@ -71,7 +71,7 @@ Från namn, Från e-post, Svar till (NYTT) och Ämne visas i redigeraren. Alla a
 * Mozilla Firefox 9.0
 * Google Chrome 16
 * Microsoft Internet Explorer 8 och 9
-* **Obs**: stöder inte längre Internet Explorer 7
+* **Anteckning**: stöder inte längre Internet Explorer 7
 
 ## Programhantering {#program-management}
 

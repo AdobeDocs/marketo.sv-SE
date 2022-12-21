@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2359614
-description: Definiera värden i ett alternativfält eller markerat fält i ett formulär - Marketo Docs - Produktdokumentation
+description: Definiera värden i ett alternativfält eller markerat fält i ett formulär - Marketo Docs - produktdokumentation
 title: Definiera värden i ett alternativfält eller markerat fält i ett formulär
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
 
 ---
 
-
 # Definiera värden i ett alternativfält eller markerat fält i ett formulär {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-När du har [angett att fälttypen](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) ska vara en alternativknapp eller en markeringstyp, vill du definiera de värden som användaren kan välja mellan. Så här gör du.
+När du har [ange en fälttyp](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) om du vill vara en alternativknapp eller välja typ ska du definiera de värden som användaren kan välja mellan. Så här gör du.
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
@@ -53,13 +52,13 @@ När du har [angett att fälttypen](/help/marketo/product-docs/administration/fi
 
    >[!TIP]
    >
-   >Klicka på **Avancerad redigerare** om du vill kopiera/klistra in en lista med värden. Det kan spara tid i realtid.
+   >Klicka **Avancerad redigerare** om du vill kopiera/klistra in en lista med värden. Det kan spara tid i realtid.
 
-1. Klicka på **Slutför**.
+1. Klicka **Slutför**.
 
    ![](assets/image2014-9-15-16-3a29-3a43.png)
 
-1. Klicka på **Godkänn och stäng**.
+1. Klicka **Godkänn och stäng**.
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 

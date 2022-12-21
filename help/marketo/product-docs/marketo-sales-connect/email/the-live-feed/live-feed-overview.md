@@ -1,21 +1,20 @@
 ---
 unique-page-id: 13796471
-description: Översikt över Live-flöden - Marketo Docs - Produktdokumentation
+description: Live Feed Overview - Marketo Docs - produktdokumentation
 title: Översikt över Live-feed
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
 
 ---
 
-
 # Översikt över Live-feed {#live-feed-overview}
 
 Live Feed är ett flytande fönster som kan startas från webbprogrammet eller Gmail-pluginprogrammet och som ger en realtidsöversikt över hur potentiella kunder engagerar sig.
 
-## Engagement Tab {#engagement-tab}
+## Fliken Engagement {#engagement-tab}
 
 ![](assets/engagement.jpg)
 
@@ -43,7 +42,7 @@ Kontrollera snabbt din att göra-lista direkt från Live Feed.
 
 Skapa nya eller hantera öppna uppgifter.
 
-Filtrera idag, imorgon, idag *och* imorgon, eller kommande 7 dagar.
+Filtrera idag, imorgon, idag *och* imorgon, eller nästa 7 dagar.
 
 >[!NOTE]
 >
@@ -51,11 +50,11 @@ Filtrera idag, imorgon, idag *och* imorgon, eller kommande 7 dagar.
 
 Använd snabbåtgärdsknappar för att snabbt ringa ett samtal, skicka ett e-postmeddelande eller navigera till en persons länkade profil.
 
-## Målflik {#target-tab}
+## Fliken Mål {#target-tab}
 
 ![](assets/target.jpg)
 
-Se de översta personerna (ordnade uppifrån och ned) rankade efter lead-poäng. Ledpoängen dras över från Marketo-instansen.
+Se de översta personerna (ordnade uppifrån och ned) rankade efter lead-poäng. Ledpoängen dras över från er Marketo-instans.
 
 * Leads genereras när personpoängen ökar i Marketo.
 * Vi visar de 50 främsta ledtrådarna.
@@ -72,28 +71,28 @@ Se de översta personerna (ordnade uppifrån och ned) rankade efter lead-poäng.
   <tr> 
    <td> 
     <div> 
-     <p><img alt="—" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
+     <p><img alt="—" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
     </div></td> 
    <td><p>Någon har visat din e-post</p></td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <p><img alt="—" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
+     <p><img alt="--" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
     </div></td> 
    <td><p>Någon har klickat på en länk i ditt e-postmeddelande</p></td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <p><img alt="—" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
+     <p><img alt="--" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
     </div></td> 
    <td><p>Någon har svarat på ditt e-postmeddelande</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <p><img alt="—" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
+     <p><img alt="--" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
     </div></td> 
    <td colspan="1">Alla meddelanden som listas under Intressanta stunder, inklusive e-post, webben och milstolpar</td> 
   </tr> 

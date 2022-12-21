@@ -283,7 +283,7 @@ Aktiviteterna nedan loggas till Marketo från Sales Connect.
   </tr> 
   <tr> 
    <td><strong>Källa</strong></td> 
-   <td>Aktivitetens källa. Anger som "Tout" för Sales Connect-aktiviteter före oktot 21-versionen. Kommer att bli "Sales App" för Sales Connect-aktiviteter efter okt. 21-versionen.</td>
+   <td>Aktivitetens källa. Anger som "Tout" för Sales Connect-aktiviteter före okt. 21-versionen. Kommer att bli "Sales App" för Sales Connect-aktiviteter efter okt. 21-versionen.</td>
   </tr> 
   <tr> 
    <td><strong>Mall-ID</strong></td> 

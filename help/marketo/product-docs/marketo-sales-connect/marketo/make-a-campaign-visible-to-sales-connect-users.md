@@ -1,15 +1,14 @@
 ---
 unique-page-id: 14745655
-description: Gör en kampanj synlig för användare av Sales Connect - Marketo Docs - Produktdokumentation
+description: Gör en kampanj synlig för användare av Sales Connect - Marketo Docs - produktdokumentation
 title: Gör en kampanj synlig för användare av Sales Connect
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 1fde53e3-2764-4e4b-897f-635b78534133
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
 
 ---
-
 
 # Gör en kampanj synlig för användare av Sales Connect {#make-a-campaign-visible-to-sales-connect-users}
 
@@ -19,7 +18,7 @@ Kampanjer kan bara delas om de är synliga. Så här gör du.
 
    ![](assets/one.png)
 
-1. Klicka på fliken **Smart lista**.
+1. Klicka på **Smart List** -fliken.
 
    ![](assets/two.png)
 
@@ -27,11 +26,11 @@ Kampanjer kan bara delas om de är synliga. Så här gör du.
 
    ![](assets/three.png)
 
-1. För källa väljer du &quot;is&quot; **API för webbtjänst**.
+1. Välj &quot;is&quot; för källan **Webbtjänstens API**.
 
    ![](assets/4.png)
 
-1. Klicka på fliken **Flöde**.
+1. Klicka på **Flöde** -fliken.
 
    ![](assets/five.png)
 
@@ -39,7 +38,7 @@ Kampanjer kan bara delas om de är synliga. Så här gör du.
 
    ![](assets/six.png)
 
-1. Välj **Webb** som Typ.
+1. För Typ väljer du **Webb**.
 
    ![](assets/seven.png)
 
@@ -47,6 +46,6 @@ Kampanjer kan bara delas om de är synliga. Så här gör du.
 
    ![](assets/eight.png)
 
-1. Klicka på fliken **Schedule** och **Aktivera** kampanjen.
+1. Klicka på **Schema** och **Aktivera** kampanjen.
 
    ![](assets/nine.png)

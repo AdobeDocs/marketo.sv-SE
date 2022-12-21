@@ -3,7 +3,6 @@ unique-page-id: 2360364
 description: Steg 2 av 3 - Skapa en Salesforce-användare för Marketo (Enterprise/Unlimited) - Marketo Docs - Produktdokumentation
 title: Steg 2 av 3 - Skapa en Salesforce-användare för Marketo (Enterprise/Unlimited)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '420'
@@ -25,11 +24,11 @@ I den här artikeln ställer du in användarbehörigheter i Salesforce-profilen 
 
 ## Skapa en profil {#create-a-profile}
 
-1. Klicka på **Inställningar**.
+1. Klicka **Inställningar**.
 
    ![](assets/image2015-6-11-16-3a15-3a27.png)
 
-1. Skriv &quot;profiler&quot; i navigeringsfältet och klicka på länken **Profiler**.
+1. Skriv&quot;profiler&quot; i navigeringsfältet och klicka på **Profiler** länk.
 
    ![](assets/sfdc-profiles-hands.png)
 
@@ -37,17 +36,17 @@ I den här artikeln ställer du in användarbehörigheter i Salesforce-profilen 
 
    ![](assets/image2014-12-9-9-3a19-3a15.png)
 
-1. Välj **Standardanvändare**, ge profilen namnet&quot;Marketo-Salesforce Sync&quot; och klicka på **Spara**.
+1. Välj **Standardanvändare**, namnge profilen&quot;Marketo-Salesforce Sync&quot; och klicka på **Spara**.
 
    ![](assets/image2014-12-9-9-3a19-3a22.png)
 
 ## Ange profilbehörigheter {#set-profile-permissions}
 
-1. Klicka på **Redigera** för att ange säkerhetsbehörigheter.
+1. Klicka **Redigera** för att ange säkerhetsbehörigheter.
 
    ![](assets/image2014-12-9-9-3a19-3a30.png)
 
-1. Kontrollera att följande rutor är markerade under **Administrativa behörigheter**:
+1. Under **Administrativa behörigheter** kontrollerar du att följande rutor är markerade:
 
    * API aktiverat
    * Redigera HTML-mallar
@@ -58,7 +57,7 @@ I den här artikeln ställer du in användarbehörigheter i Salesforce-profilen 
 
    >[!TIP]
    >
-   >Markera rutan **Lösenordet upphör aldrig**.
+   >Kontrollera **Lösenordet upphör aldrig att gälla** box.
 
 1. Kontrollera att följande rutor är markerade under avsnittet Allmänna användarbehörigheter:
 
@@ -92,9 +91,9 @@ I den här artikeln ställer du in användarbehörigheter i Salesforce-profilen 
 
    >[!NOTE]
    >
-   >Det här steget förhindrar att fält som du inte behöver visas i Marketo, vilket gör att det blir rörigt och snabbar upp synkroniseringen.
+   >Det här steget förhindrar att fält som du inte behöver visas i Marketo, vilket gör att det blir enklare och snabbare att synkronisera.
 
-1. Gå till avsnittet **Fältnivåsäkerhet** på profilinformationssidan. Klicka på **Visa** om du vill redigera tillgängligheten för objekten:
+1. Gå till profildetaljsidan **Fältnivåsäkerhet** -avsnitt. Klicka **Visa** om du vill redigera objektens hjälpmedel:
 
    * Lead
    * Kontakt
@@ -107,11 +106,11 @@ I den här artikeln ställer du in användarbehörigheter i Salesforce-profilen 
 
    ![](assets/image2014-12-9-9-3a20-3a14.png)
 
-1. Klicka på **Redigera** för varje objekt.
+1. För varje objekt klickar du på **Redigera**.
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. Leta reda på de fält som inte behövs, kontrollera att **Läs åtkomst** och **Redigera åtkomst** är avmarkerade. Klicka på **Spara** när du är klar.
+1. Leta reda på de fält som inte behövs, kontrollera att **Läsåtkomst** och **Redigera åtkomst** är inte markerade. Klicka **Spara** när du är klar.
 
    >[!NOTE]
    >
@@ -119,7 +118,7 @@ I den här artikeln ställer du in användarbehörigheter i Salesforce-profilen 
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. När du har inaktiverat alla onödiga fält måste du kontrollera **Läs åtkomst och Redigera åtkomst** för följande objektfält. Klicka på **Spara** när du är klar.
+1. När du har avaktiverat alla onödiga fält måste du kontrollera **Läsa åtkomst och redigera åtkomst** för följande objektfält. Klicka **Spara** när du är klar.
 
 <table> 
  <tbody> 
@@ -154,7 +153,7 @@ I den här artikeln ställer du in användarbehörigheter i Salesforce-profilen 
 
    ![](assets/sfdc-new-users.png)
 
-1. Fyll i de obligatoriska fälten. Välj sedan **användarlicens: Salesforce** och den profil som du skapade tidigare. Klicka på **Spara** när du är klar.
+1. Fyll i de obligatoriska fälten. Välj sedan **Användarlicens: Salesforce** och profilen som du skapade tidigare. Klicka **Spara** när du är klar.
 
    ![](assets/image2014-12-9-9-3a20-3a56.png)
 

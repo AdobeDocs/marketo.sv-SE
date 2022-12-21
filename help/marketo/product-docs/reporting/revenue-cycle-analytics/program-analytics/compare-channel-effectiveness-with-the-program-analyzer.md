@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2360401
-description: Jämför kanaleffektivitet med Program Analyzer - Marketo Docs - Produktdokumentation
+description: Jämför kanaleffektivitet med programanalys - Marketo Docs - produktdokumentation
 title: Jämför kanaleffektiviteten med programanalysen
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: bfe635a7-b077-4074-889d-fc2256102cd5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
 
 ---
-
 
 # Jämför kanaleffektiviteten med programanalysen {#compare-channel-effectiveness-with-the-program-analyzer}
 
@@ -19,11 +18,11 @@ Använd Program Analyzer för att jämföra kanalkostnader, medlemsförvärv, pi
 >
 >[Skapa en programanalys](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-1. Klicka på **Analytics** i **My Marketo**.
+1. Klicka på **Analyser** in **Mina Marketo**.
 
    ![](assets/image2014-9-17-18-3a36-3a13.png)
 
-1. Välj din **programanalys**.
+1. Välj **Program Analyzer**.
 
    ![](assets/image2014-9-17-18-3a36-3a40.png)
 
@@ -31,19 +30,19 @@ Använd Program Analyzer för att jämföra kanalkostnader, medlemsförvärv, pi
 
    ![](assets/image2014-9-17-18-3a36-3a59.png)
 
-1. Använd listrutan **X-axel** för att välja ett mått för den vågräta axeln. Vi börjar med **Programkostnad**.
+1. Använd **X-axel** för att välja ett mått för den vågräta axeln. Låt oss börja med **Programkostnad**.
 
    ![](assets/image2014-9-17-18-3a37-3a7.png)
 
-1. Använd listrutan Y-axel för att välja ett mått för den lodräta axeln. Här följer en **(FT)-pipeline skapad**.
+1. Använd listrutan Y-axel för att välja ett mått för den lodräta axeln. Här, vi följer med **(FT) Pipeline skapad**.
 
    ![](assets/image2014-9-17-18-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >Många av de mätvärden du kan välja i programanalysen är tillgängliga med beräkningar med första beröringen (FT) och multitouch (MT). Det är viktigt att förstå skillnaden [mellan FT- och MT-attribuering](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >Många av de mätvärden du kan välja i programanalysen är tillgängliga med beräkningar med första beröringen (FT) och multitouch (MT). Det är viktigt att förstå [skillnaden mellan FT- och MT-attribuering](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
-1. Använd listrutan **Y-axel** för att välja **(MT) Pipeline skapad**.
+1. Använd **Y-axel** välj **(MT) Pipeline skapad**.
 
    ![](assets/image2014-9-17-18-3a39-3a5.png)
 
@@ -51,7 +50,7 @@ Använd Program Analyzer för att jämföra kanalkostnader, medlemsförvärv, pi
 
    Nu ska vi lägga till ytterligare två dimensioner!
 
-1. Använd listrutan **Bubbelstorlek** för att välja ytterligare ett mått, som **Nya namn**.
+1. Använd **Bubbelstorlek** för att välja ytterligare ett mått, som **Nya namn**.
 
    ![](assets/image2014-9-17-18-3a39-3a36.png)
 
@@ -59,9 +58,9 @@ Använd Program Analyzer för att jämföra kanalkostnader, medlemsförvärv, pi
 
    ![](assets/image2014-9-17-18-3a39-3a55.png)
 
-   Vi ser att webbseminariekanalen krymper, enligt **Nya namn**. Vi kan dra slutsatsen att även om den har många medlemmar är det mindre effektivt att generera nya leads än Tradeshow-kanalen.
+   Vi ser att webbseminariekanalen krymper, mätt med **Nya namn**. Vi kan dra slutsatsen att även om den har många medlemmar är det mindre effektivt att generera nya leads än Tradeshow-kanalen.
 
-1. Använd slutligen listrutan Färg för att lägga till den fjärde dimensionen. Vi väljer **(FT) Intäkter, vinst**.
+1. Använd slutligen listrutan Färg för att lägga till den fjärde dimensionen. Låt oss välja **(FT) Vinstintäkter**.
 
    ![](assets/image2014-9-17-18-3a41-3a7.png)
 
@@ -71,7 +70,7 @@ Använd Program Analyzer för att jämföra kanalkostnader, medlemsförvärv, pi
 
    Av färgerna har vi fått veta att Tradeshow-kanalen, den grönaste bubblan, har påverkat de största intäkterna, som mäts med första-beröringsattribuering.
 
-1. Om vi nu ändrar Color-måttet till **(MT) Revenue Won** ser vi att Online Advertising Channel, nu den grönaste, påverkade mer intäkter -over time_ än webbseminariet och Tradeshow-kanalerna.
+1. Om vi ändrar färgens mått till **(MT) Intäkter, vinst**, ser vi att webbannonskanalen, nu den grönaste, påverkade mer intäkter - över tid_ än webbseminariet och handelskanalerna.
 
    ![](assets/image2014-9-17-18-3a41-3a40.png)
 

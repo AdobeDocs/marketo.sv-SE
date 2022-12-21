@@ -3,7 +3,6 @@ unique-page-id: 8781845
 description: Understanding Marketo Moments - Marketo Docs - Product Documentation
 title: Om Marketo Moments
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '544'
@@ -13,7 +12,7 @@ ht-degree: 0%
 
 # Om Marketo Moments {#understanding-marketo-moments}
 
-Nu ligger kraften i Marketo i dina händer, bokstavligen! Förhandsgranska och schemalägg om e-post direkt från telefonen eller iPad.
+Nu ligger kraften i Marketo i dina händer, bokstavligen! Förhandsgranska och schemalägg om e-post direkt från mobilen eller iPad.
 
 >[!AVAILABILITY]
 >
@@ -42,21 +41,21 @@ Okej, nu när vi har det ur vägen kan vi ta en titt på Marketo Moments på en 
 
 Marketo Moments ger dig tre olika kort som du kan använda för att följa ditt e-postmeddelande:
 
-**On-Deck**  - Det här e-postmeddelandet är på väg att gå ut. Det är din sista chans att förhandsgranska, skicka ett prov eller till och med avbryta om du behöver det.
+**På disk** - Det här e-postmeddelandet är på väg att gå ut. Det är din sista chans att förhandsgranska, skicka ett prov eller till och med avbryta om du behöver det.
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**Hjärtslag**  - Hej - det här mejlet skickas nu! Och här är statistik också. Dela med dig.
+**Hjärtslag** - Hallå - det här mejlet skickas nu! Och här är statistik också. Dela med dig.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**Resultat**  - Så här gjorde e-postmeddelandet. När e-postmeddelandet har körts klart visas engagemangspoängen och annan status på resultatkortet.
+**Resultat** - Så här gjorde e-postmeddelandet. När e-postmeddelandet har körts klart visas engagemangspoängen och annan status på resultatkortet.
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
 ## Momentström {#moments-stream}
 
-När du först öppnar appen eller trycker på **Moment** på menyn visas relevanta kort först. Var och en innehåller information om det specifika marknadsföringsinitiativet och dess övergripande resultat.
+När du först öppnar appen eller trycker **Moment** på menyn visas relevanta kort först. Var och en innehåller information om det specifika marknadsföringsinitiativet och dess övergripande resultat.
 
 ![](assets/image2015-7-15-10-3a46-3a19.png)
 
@@ -95,7 +94,7 @@ I avsnittet Senare visas kommande aktiviteter.
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
-1. Tryck på **Senare**.
+1. Tryck **Senare**.
 
    ![](assets/image2015-7-15-10-3a54-3a47.png)
 
@@ -133,11 +132,11 @@ Smarta kampanjkort är en enda kampanjserie. Ett nytt kort visas varje gång den
 
 ## Bekräfta eller avbryta en åtgärd {#confirm-or-cancel-an-action}
 
-Under alla steg på vägen kan du bekräfta eller avbryta en åtgärd. Om du ångrar dig trycker du bara på **Minska aldrig**.
+Under alla steg på vägen kan du bekräfta eller avbryta en åtgärd. Om du ändrar dig, bara tryck **Aldrig sinna**.
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
-## Versioner som stöds {#supported-versions}
+## Versioner som stöds  {#supported-versions}
 
 Marketo Moments har stöd för följande operativsystemversioner:
 

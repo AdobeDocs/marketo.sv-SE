@@ -3,7 +3,6 @@ unique-page-id: 7515133
 description: SFDC-synkronisering - Sammanfoga en lead/kontakt/person - Marketo Docs - produktdokumentation
 title: SFDC-synkronisering - Sammanfoga en lead/kontakt/person
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '190'
@@ -15,9 +14,9 @@ ht-degree: 0%
 
 Ibland är det bäst att bara lista reglerna. Här är vi:
 
-* När du sammanfogar två leads i **Salesforce** anger den normala synkroniseringen Marketo och leads sammanfogas automatiskt som personer i Marketo.
-* När du sammanfogar två personer i **Marketo** anropas i själva verket samma process som när de sammanfogas som leads i Salesforce. Det fungerar fortfarande automatiskt.
-* Att sammanfoga ett **lead (person) till en kontakt** fungerar på samma sätt. Du får en enda kontakt på båda sidor.
+* När du sammanfogar två leads i **Salesforce**, säger den normala synkroniseringen till Marketo och leads sammanfogas automatiskt som personer i Marketo.
+* Sammanfoga två personer i **Marketo** anropar faktiskt samma process som att sammanfoga dem som leads i Salesforce. Det fungerar fortfarande automatiskt.
+* Sammanfoga en **leda (person) till en kontakt** fungerar på samma sätt. Du får en enda kontakt på båda sidor.
 * Standardpoängen sammanfogas vid sammanslagningen.
 
 >[!NOTE]
@@ -30,4 +29,4 @@ Ibland är det bäst att bara lista reglerna. Här är vi:
 
 >[!NOTE]
 >
->Djupdykning om du vill ha mer information om [att slå samman personer i Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
+>Djupdykning för mer information om [sammanfoga personer i Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).

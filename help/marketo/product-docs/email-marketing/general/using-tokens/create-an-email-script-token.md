@@ -1,19 +1,18 @@
 ---
 unique-page-id: 1900577
-description: Skapa en token för e-postskript - Marketo Docs - Produktdokumentation
+description: Skapa en token för e-postskript - Marketo Docs - produktdokumentation
 title: Skapa en e-postskripttoken
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
 
 ---
 
-
 # Skapa en e-postskripttoken {#create-an-email-script-token}
 
-För avancerade utvecklare kan du använda [snabbskript](https://velocity.apache.org/engine/1.7/user-guide.html) i dina e-postmeddelanden. Så här gör du.
+För avancerade utvecklare kan du använda [Snabbhetsskript](https://velocity.apache.org/engine/1.7/user-guide.html) i era e-postmeddelanden. Så här gör du.
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
@@ -23,15 +22,15 @@ För avancerade utvecklare kan du använda [snabbskript](https://velocity.apache
 
    ![](assets/image2014-9-17-22-3a21-3a24.png)
 
-1. Under fliken **Mina token** drar du i en **e-postskript**-token.
+1. Under **Mina token** tabb, dra i en **E-postskript** token.
 
    ![](assets/image2014-9-17-22-3a21-3a29.png)
 
-1. Namnge din e-postskripttoken och **klicka för att redigera** dess innehåll.
+1. Namnge din e-postskripttoken och **klicka för att redigera** innehållet.
 
    ![](assets/image2014-9-17-22-3a21-3a46.png)
 
-1. Använd trädet till höger för att dra i token **Person, Opportunity** eller **Custom Object**.
+1. Använd trädet till höger för att dra in **Person, möjlighet**, eller **Eget objekt** variabler.
 
    ![](assets/five-2.png)
 
@@ -49,7 +48,7 @@ För avancerade utvecklare kan du använda [snabbskript](https://velocity.apache
 
 1. Skriv ditt skript i Snabbhet. Här är några användbara resurser:
 
-   * [Marketo-utvecklare e-postskriptdokumentation](https://developers.marketo.com/email-scripting/)
+   * [Marketo Developers Email Scripting Documentation](https://developers.marketo.com/email-scripting/)
    * [Användarhandbok för snabbhet](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Referenshandbok för hastighet](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Velocity Tools Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
@@ -58,7 +57,7 @@ För avancerade utvecklare kan du använda [snabbskript](https://velocity.apache
 
    ![](assets/image2014-9-17-22-3a23-3a1.png)
 
-1. Klicka på **Spara** en gång till.
+1. Klicka **Spara** en gång till.
 
    ![](assets/image2014-9-17-22-3a23-3a13.png)
 

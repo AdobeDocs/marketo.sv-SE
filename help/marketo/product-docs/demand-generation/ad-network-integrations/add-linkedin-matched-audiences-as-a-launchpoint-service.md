@@ -1,25 +1,24 @@
 ---
 unique-page-id: 7504163
-description: Lägg till LinkedIn Matched Audiences som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
-title: Lägg till LinkedIn-matchade målgrupper som en LaunchPoint-tjänst
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Lägg till LinkedIn Matched Audiences som en LaunchPoint-tjänst - Marketo Docs - produktdokumentation
+title: Lägg till LinkedIn Matched Audiences som en LaunchPoint-tjänst
+exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
 
 ---
 
-
-# Lägg till LinkedIn-matchade målgrupper som en LaunchPoint-tjänst {#add-linkedin-matched-audiences-as-a-launchpoint-service}
+# Lägg till LinkedIn Matched Audiences som en LaunchPoint-tjänst {#add-linkedin-matched-audiences-as-a-launchpoint-service}
 
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
 
-Koppla ditt Marketto-konto till LinkedIn Matched Audiences om du vill använda en statisk Marketo-lista eller smart lista som ett LinkedIn-målgruppssegment.
+Koppla ditt Marketo-konto till LinkedIn Matched Audiences för att använda en statisk lista eller smart lista från Marketo som ett LinkedIn-målgruppssegment.
 
-1. Gå till avsnittet **Admin**.
+1. Gå till **Administratör** -avsnitt.
 
    ![](assets/admin.png)
 
@@ -27,11 +26,11 @@ Koppla ditt Marketto-konto till LinkedIn Matched Audiences om du vill använda e
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Välj **Ny** och **Ny tjänst**.
+1. Välj **Nytt** och **Ny tjänst**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Ange ett **visningsnamn** och välj **LinkedIn Matched Audiences**. Klicka på **Skapa**.
+1. Ange **Visningsnamn** och välja **linkedIn Matched Auditions**. Klicka **Skapa**.
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
@@ -41,9 +40,9 @@ Koppla ditt Marketto-konto till LinkedIn Matched Audiences om du vill använda e
 
    >[!CAUTION]
    >
-   >För att Marketto ska kunna skicka målgrupper över flera LinkedIn-annonskonton måste den LinkedIn-användare som du auktoriserar i följande steg ha tillgång till *alla* dessa annonskonton i sin Campaign Manager.
+   >För att Marketo ska kunna skicka målgrupper över flera LinkedIn annonskonton måste den LinkedIn-användare som du auktoriserar i följande steg ha tillgång till *alla* av annonskontona i kampanjhanteraren.
 
-1. LinkedIn öppnas på en ny flik. Logga in på ditt LinkedIn-konto härifrån.
+1. linkedIn öppnas på en ny flik. Logga in på ditt LinkedIn-konto härifrån.
 
    ![](assets/image2018-2-23-14-3a32-3a20.png)
 
@@ -51,7 +50,7 @@ Koppla ditt Marketto-konto till LinkedIn Matched Audiences om du vill använda e
 
    ![](assets/li-permissions.png)
 
-1. Ditt LinkedIn-konto är nu anslutet till Marketo. Klicka på **Skapa**.
+1. Ditt LinkedIn-konto är nu anslutet till Marketo. Klicka **Skapa**.
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 
@@ -61,4 +60,4 @@ Koppla ditt Marketto-konto till LinkedIn Matched Audiences om du vill använda e
 
 >[!MORELIKETHIS]
 >
->[Använd en Marketo-lista eller en smart lista som ett LinkedIn-målsegment](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+>[Använd en Marketo List eller Smart List som ett LinkedIn Audience-segment](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)

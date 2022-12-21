@@ -1,17 +1,16 @@
 ---
 unique-page-id: 4719340
-description: Undanta specifika IP-adresser från att spåras - Marketo Docs - Produktdokumentation
+description: Undanta specifika IP-adresser från att spåras - Marketo Docs - produktdokumentation
 title: Undanta specifika IP-adresser från spårning
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: d6989c8f-46ff-40a8-bf7f-5d34e701b359
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
 
 ---
 
-
-# Undanta specifika IP-adresser från att spåras {#exclude-specific-ips-from-being-tracked}
+# Undanta specifika IP-adresser från spårning {#exclude-specific-ips-from-being-tracked}
 
 Har du någonsin velat utesluta egna medarbetare och företagsnamn från spårningen och rapporteringen i Webbpersonalisering?
 
@@ -21,11 +20,11 @@ Du kan utesluta enskilda IP-adresser och hela eller delar av ett intervall med I
 >
 >Den här processen kan ta upp till fem minuter att slutföra.
 
-1. Logga in på Webbpersonalisering och klicka på **Kontoinställningar** under din inloggning.
+1. Logga in på Webbpersonalisering och klicka på **Kontoinställningar**.
 
    ![](assets/image2014-11-19-19-3a25-3a41.png)
 
-1. Bläddra ned till området **IP exclude**. Om du exkluderar IP-adresser för första gången klickar du i det tomma fältet **Uteslut IP-adresser**.
+1. Bläddra nedåt till **IP-exkludering** område. Om du exkluderar IP-adresser för första gången klickar du i det tomma fältet **Exkludera IP-adresser** fält.
 
    ![](assets/image2016-11-4-10-3a27-3a1.png)
 
@@ -35,7 +34,7 @@ Du kan utesluta enskilda IP-adresser och hela eller delar av ett intervall med I
 
    >[!NOTE]
    >
-   >Du kan utesluta en enstaka IPv4- eller IPv6-adress, eller ett fullständigt intervall, halvintervall eller nätmask. Objekten i exemplet ovan visar ett av vart och ett, baserat på de exempel som finns i Marketo-formuläret.
+   >Du kan utesluta en enstaka IPv4- eller IPv6-adress, eller ett fullständigt intervall, halvintervall eller nätmask. Objekten i exemplet ovan visar ett av varje, baserat på de exempel som finns i själva Marketo-formuläret.
 
 1. Fältet Uteslut IP-adresser visar nu de IP-adresser du angett. Om du vill redigera IP-undantagen klickar du på det gröna plugin-programmet för att öppna formuläret igen.
 

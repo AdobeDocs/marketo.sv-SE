@@ -2,14 +2,13 @@
 unique-page-id: 4718640
 description: Understanding the Program Membership Analysis Area - Marketo Docs - Product Documentation
 title: Förstå analysområdet för programmedlemskap
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: dab55802-9a6c-447c-99fc-bc4fece6d674
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
 
 ---
-
 
 # Förstå analysområdet för programmedlemskap {#understanding-the-program-membership-analysis-area}
 
@@ -29,7 +28,7 @@ Hur många nya namn genererade varje program/kanal per månad?
 
 ![](assets/three-2.png)
 
-## Dimensioner och åtgärder för analys av programmedlemskap {#program-membership-analysis-dimensions-and-measures}
+## Dimensioner och åtgärder för programmedlemskapsanalys {#program-membership-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
@@ -60,7 +59,7 @@ Hur många nya namn genererade varje program/kanal per månad?
 | Vecka | Tidsram för programmedlemskap |
 | Datum | Tidsram för programmedlemskap |
 
-### {#success} lyckades
+### Lyckades {#success}
 
 | Mät | Beskrivning |
 |---|---|

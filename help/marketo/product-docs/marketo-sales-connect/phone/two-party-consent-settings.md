@@ -1,37 +1,36 @@
 ---
 unique-page-id: 45416566
-description: Inställningar för tvåpartssamtycke - Marketo Docs - Produktdokumentation
+description: Inställningar för dubbelpartsgodkännande - Marketo Docs - produktdokumentation
 title: Inställningar för dubbelpartsgodkännande
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
 
 ---
 
-
-# Inställningar för tvåpartssamtycke {#two-party-consent-settings}
+# Inställningar för dubbelpartsgodkännande {#two-party-consent-settings}
 
 För att säkerställa att USA:s tvåpartslagar följs när du spelar in samtal kan du som administratör aktivera ett inspelat meddelande som du väljer att spela upp i början av dina samtal när det spelas in.
 
 >[!PREREQUISITES]
 >
->Innan du följer stegen nedan måste du först [aktivera samtalsinspelning](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
+>Innan du följer stegen nedan måste du [aktivera samtalsinspelning](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
 
 1. Klicka på ikonen Inställningar och välj **Inställningar**.
 
    ![](assets/one-1.png)
 
-1. Klicka på **Allmänt** under Administratörsinställningar.
+1. Under Administratörsinställningar klickar du på **Allmänt**.
 
    ![](assets/two-1.png)
 
-1. Bläddra ned till Inställningar för Sales Connect Phone och klicka på **Hantera inspelningsmeddelande**.
+1. Bläddra nedåt till telefoninställningar för Sales Connect och klicka på **Hantera inspelningsmeddelande**.
 
    ![](assets/three-1.png)
 
-1. Klicka på **Importera inspelning**.
+1. Klicka **Importera inspelning**.
 
    ![](assets/four-1.png)
 
@@ -43,7 +42,7 @@ För att säkerställa att USA:s tvåpartslagar följs när du spelar in samtal 
 
    ![](assets/five.png)
 
-1. När överföringen är klar väljer du dotfilen (tre punkter) i filhanteraren och klickar på **Välj som meddelande om godkännande**. Klicka på **OK** när du är klar.
+1. När överföringen är klar väljer du punkten (tre punkter) i filhanteraren och klickar på **Markera som meddelande om samtycke**. Klicka **OK** när det är klart.
 
    ![](assets/six.png)
 

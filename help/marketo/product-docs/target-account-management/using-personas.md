@@ -1,31 +1,30 @@
 ---
 unique-page-id: 17727818
-description: Using Personas - Marketo Docs - Product Documentation
+description: Använda funktioner - Marketo Docs - produktdokumentation
 title: Använda persona
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
-
-# Använda personas {#using-personas}
+# Använda persona {#using-personas}
 
 Personer är ett bra sätt att segmentera ABM-målgrupper och -marknader för en viss del av människor.
 
 ## Lägg till en persona {#add-a-persona}
 
-1. Klicka på **Admin** på My Marketo.
+1. I Min Marketo klickar du på **Administratör**.
 
    ![](assets/one.png)
 
-1. Välj **Hantering av målkonto** i trädet.
+1. Välj **Hantering av målkonto**.
 
    ![](assets/using-personas-2.png)
 
-1. Klicka på **Redigera**.
+1. Klicka **Redigera**.
 
    ![](assets/three.png)
 
@@ -37,7 +36,7 @@ Personer är ett bra sätt att segmentera ABM-målgrupper och -marknader för en
 
    ![](assets/four.png)
 
-1. Ge din persona ett namn och markera motsvarande fält i listrutan. Du kan lägga till upp till två ytterligare profiler. Klicka på **Spara** när du är klar.
+1. Ge din persona ett namn och markera motsvarande fält i listrutan. Du kan lägga till upp till två ytterligare profiler. Klicka **Spara** när det är klart.
 
    ![](assets/five.png)
 
@@ -53,7 +52,7 @@ Visa dina personuppgifter genom att besöka ett specifikt namngivet konto.
 
    ![](assets/one-a.png)
 
-1. Klicka på fliken **Personas**.
+1. Klicka på **Personas** -fliken.
 
    ![](assets/two-a.png)
 

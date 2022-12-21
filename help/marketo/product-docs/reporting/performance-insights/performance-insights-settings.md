@@ -1,17 +1,16 @@
 ---
 unique-page-id: 13795492
-description: Performance Insights Settings - Marketo Docs - Produktdokumentation
+description: Performance Insights Settings - Marketo Docs - produktdokumentation
 title: Inställningar för Performance Insights
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
 
 ---
 
-
-# Inställningar för prestandainsikter {#performance-insights-settings}
+# Inställningar för Performance Insights {#performance-insights-settings}
 
 Lär dig mer om de olika inställningarna i MPI.
 
@@ -21,7 +20,7 @@ Lär dig mer om de olika inställningarna i MPI.
 >
 >Beroende på vilken instrumentpanel du är på visas olika inställningsalternativ.
 
-## Visa slutförda program med {#view-program-success-by}
+## Visa slutförda program efter {#view-program-success-by}
 
 **Engagement Dashboard - Bidrag och trender**
 
@@ -63,7 +62,7 @@ Lär dig mer om de olika inställningarna i MPI.
  <tbody> 
   <tr> 
    <td><strong>Visa Första beröring, innan affärsmöjligheten skapas</strong></td> 
-   <td><p>När du markerar det här alternativet innehåller MPI möjligheter som är kopplade till minst en lead som köptes (first-touch/FT) av ett Marketo-program innan affärsmöjligheten skapades. Attributinställningarna Explicit, Implicit och Hybrid är tillämpliga.</p></td> 
+   <td><p>När du markerar detta innehåller MPI möjligheter som är kopplade till minst en lead som förvärvats (first-touch/FT) av ett Marketo-program innan affärsmöjligheten skapades. Attributinställningarna Explicit, Implicit och Hybrid är tillämpliga.</p></td> 
   </tr> 
   <tr> 
    <td><strong>Visa MultiTouch innan affärsmöjligheten skapas</strong></td> 
@@ -78,7 +77,7 @@ Lär dig mer om de olika inställningarna i MPI.
  <tbody> 
   <tr> 
    <td><strong>Visa Första beröring, innan affärsmöjligheten stängs</strong></td> 
-   <td><p>När du markerar det här alternativet innehåller MPI möjligheter som är kopplade till minst en lead som köptes (first-touch/FT) av ett Marketo-program innan affärsmöjligheten stängdes. Attributinställningarna Explicit, Implicit och Hybrid är tillämpliga.</p></td> 
+   <td><p>När du markerar detta innehåller MPI möjligheter som är kopplade till minst en lead som förvärvats (first-touch/FT) av ett Marketo-program innan affärsmöjligheten stängdes. Attributinställningarna Explicit, Implicit och Hybrid är tillämpliga.</p></td> 
   </tr> 
   <tr> 
    <td><strong>Visa MultiTouch innan affärsmöjligheten stängs</strong></td> 

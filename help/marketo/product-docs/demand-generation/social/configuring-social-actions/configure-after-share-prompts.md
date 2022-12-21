@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359813
-description: Konfigurera efterdelningsfrågor - Marketo Docs - Produktdokumentation
+description: Konfigurera efterdelningsfrågor - Marketo Docs - produktdokumentation
 title: Konfigurera efterdelningsfrågor
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: bfa6063b-24f3-4abf-b149-989780dfc448
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
 
 ---
-
 
 # Konfigurera efterdelningsfrågor {#configure-after-share-prompts}
 
@@ -19,26 +18,26 @@ I appar för sociala knappar, videodelning och omröstningar kan du välja vad s
 
    ![](assets/ma.png)
 
-1. Markera programmet och klicka på **Redigera utkast**.
+1. Välj programmet och klicka på **Redigera utkast**.
 
    ![](assets/image2015-4-21-12-3a1-3a11.png)
 
-1. Gå till **Appinställningar** i redigeraren för sociala appar och **Avancerade alternativ**.
+1. I redigeraren för sociala appar går du till **Appinställningar** och sedan **Avancerade alternativ**.
 
    ![](assets/image2015-4-21-12-3a10-3a54.png)
 
-1. Välj önskat beteende i **Efter delning**.
+1. För **Efter delning** väljer du det beteende du vill använda.
 
    ![](assets/image2015-4-21-12-3a18-3a32.png)
 
-   * **Bekräftelsemeddelande:** När personen har delat visas en bekräftelse.
-   * **E-posthämtning:** När personen har delat begär du dennes e-postadress.
+   * **Bekräftelsemeddelande:** Visa en bekräftelse när personen har delat.
+   * **E-posthämtning:** När personen har delat, begär han/hon sin e-postadress.
 
    >[!NOTE]
    >
-   >Om du väljer **E-posthämtning** visas begäran endast om personen inte redan har angett sin information.
+   >Om du väljer **E-postregistrering** visas begäran endast om personen inte redan har lämnat sin information.
 
-1. Om du väljer **Bekräftelsemeddelande:** Gå till **Dela flöde** och sedan **Bekräftelsemeddelande**.
+1. Om du valde **Bekräftelsemeddelande:** Gå till **Dela flöde** och sedan **Bekräftelsemeddelande**.
 
    ![](assets/image2015-4-21-12-3a26-3a10.png)
 
@@ -46,11 +45,11 @@ I appar för sociala knappar, videodelning och omröstningar kan du välja vad s
 
    ![](assets/image2015-4-21-12-3a31-3a41.png)
 
-1. Om du valde **E-posthämtning** (i stället för bekräftelse): Gå till **Dela flöde** och **E-posthämtning**.
+1. Om du valde **E-postregistrering** (i stället för bekräftelse): Gå till **Dela flöde** och sedan **E-postregistrering**.
 
    ![](assets/image2015-4-21-12-3a46-3a15.png)
 
-1. Välj om du vill inkludera en marknadsföringsfråga och om kryssrutan är markerad som standard (**Opt Out**) eller inte (**Opt In**).
+1. Välj om en marknadsföringsprompt ska inkluderas och om kryssrutan är markerad som standard (**Avanmäl dig**) eller inte (**Anmäl dig**).
 
    ![](assets/image2015-4-21-12-3a48-3a51.png)
 

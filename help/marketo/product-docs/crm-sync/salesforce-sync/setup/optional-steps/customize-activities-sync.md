@@ -3,7 +3,6 @@ unique-page-id: 4719294
 description: Synkronisera anpassade aktiviteter - Marketo Docs - Produktdokumentation
 title: Synkronisera anpassade aktiviteter
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '272'
@@ -11,25 +10,25 @@ ht-degree: 0%
 
 ---
 
-# Synkronisera aktiviteter {#customize-activities-sync}
+# Synkronisera anpassade aktiviteter {#customize-activities-sync}
 
 Om du inte använder Marketo Sales Insight kan Marketo skapa poster för Salesforce-aktivitetshistorik för vissa händelser. Så här aktiverar du dem.
 
-1. Gå till **Admin**.
+1. Gå till **Administratör**.
 
    ![](assets/admin.png)
 
-1. Klicka på **Salesforce** och sedan på **Redigera synkroniseringsalternativ**.
+1. Klicka **Salesforce** och sedan klicka **Redigera synkroniseringsalternativ**.
 
    ![](assets/two-1.png)
 
-1. Markera rutorna intill aktiviteter som du vill att Marketo ska skicka till Salesforce och klicka sedan på **Spara**.
+1. Markera rutorna bredvid aktiviteter som du vill att Marketo ska skicka till Salesforce och klicka på **Spara**.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >När Marketo väl har aktiverats kommer det att gå tre månader framåt i aktivitetshistoriken. Beroende på mängden data kan _det ta flera dagar att slutföra_. Uppdateringar som inträffar under den initiala aktivitetspush-åtgärden kan fördröjas tills den initiala aktivitetssynkroniseringen har slutförts.
+   >När Marketo väl har aktiverats kommer det att gå tre månader framåt i aktivitetshistoriken. Beroende på mängden data, _detta kan ta flera dagar att slutföra_. Uppdateringar som inträffar under den initiala aktivitetspush-åtgärden kan fördröjas tills den initiala aktivitetssynkroniseringen har slutförts.
 
 <table> 
  <colgroup> 
@@ -96,8 +95,8 @@ Om du inte använder Marketo Sales Insight kan Marketo skapa poster för Salesfo
 
 >[!NOTE]
 >
->&quot;E-post som tagits emot&quot; innebär **inte** levererat. Leveransstatus hämtas inte för e-postmeddelanden som skickas via Sales Insight.
+>&quot;E-postmeddelande tas emot&quot; **not** levereras. Leveransstatus hämtas inte för e-postmeddelanden som skickas via Sales Insight.
 
 >[!TIP]
 >
->Om du är intresserad av att få in mer Marketo-information i Salesforce kan du ta en titt på vår [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)-produkt.
+>Om du är intresserad av att få in mer Marketo-information i Salesforce kan du läsa [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) produkt.

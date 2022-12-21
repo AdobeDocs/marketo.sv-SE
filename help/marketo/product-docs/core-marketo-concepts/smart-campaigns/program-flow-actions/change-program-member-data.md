@@ -2,7 +2,6 @@
 description: Change Program Member Data - Marketo Docs - Product Documentation
 title: Ändra medlemsuppgifter för program
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
@@ -18,7 +17,7 @@ Du kan använda Marketo för att uppdatera ett fälts värde med hjälp av åtg�
 >
 >Du kan också blockera ett fält så att det inte uppdateras. Mer information finns i Blockera uppdateringar till ett fält.
 
-1. Gå till flödesfliken för den smarta kampanjen och överför flödessteget **Ändra programmedlemsdata** och välj önskat program.
+1. På fliken för Smart Campaign kan du ta fram **Ändra medlemsuppgifter för program** och välj önskat program.
 
    ![](assets/change-program-member-data-1.png)
 

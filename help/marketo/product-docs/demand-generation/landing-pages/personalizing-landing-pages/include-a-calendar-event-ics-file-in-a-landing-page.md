@@ -1,30 +1,29 @@
 ---
 unique-page-id: 2359540
-description: Inkludera en ICS-fil för kalenderhändelse på en landningssida - Marketo Docs - Produktdokumentation
+description: Inkludera en ICS-fil för kalenderhändelse på en landningssida - Marketo Docs - produktdokumentation
 title: Inkludera en ICS-fil för kalenderhändelse på en landningssida
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: 3975f5ba-f514-4708-b51e-bc20d1eed6b4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
 
 ---
 
+# Inkludera en ICS-fil för kalenderhändelse på en landningssida {#include-a-calendar-event-ics-file-in-a-landing-page}
 
-# Inkludera en ICS-fil för kalenderhändelse på en startsida {#include-a-calendar-event-ics-file-in-a-landing-page}
-
-Med en **Calendar File**-token kan du lägga till en kalender (.ics)-länk till dina Markettill landningssidor.
+A **Kalenderfil** Med hjälp av en token kan du lägga till en kalendringshändelselänk (.ics) på dina Marketo-landningssidor.
 
 >[!PREREQUISITES]
 >
 >* [Skapa en kalenderhändelsefil (.ics)](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
 
-1. Klicka på **{..}** för att infoga en token i startsidans redigerare.
+1. I landningssidans redigerare klickar du på **{...}** om du vill infoga en token.
 
    ![](assets/image2015-7-8-17-3a51-3a29.png)
 
-1. Välj token **Kalenderfil** och klicka på **Infoga**.
+1. Välj **Kalenderfil** token och klicka **Infoga**.
 
    >[!CAUTION]
    >
@@ -35,7 +34,7 @@ Med en **Calendar File**-token kan du lägga till en kalender (.ics)-länk till 
 
    ![](assets/image2015-1-6-16-3a31-3a28.png)
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    Folk kommer att se en landningssida som ser ut så här:
 

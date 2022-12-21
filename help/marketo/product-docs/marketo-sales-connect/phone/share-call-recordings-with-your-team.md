@@ -1,15 +1,14 @@
 ---
 unique-page-id: 14352437
-description: Dela samtalsinspelningar med teamet - Marketo Docs - Produktdokumentation
+description: Dela samtalsinspelningar med teamet - Marketo Docs - produktdokumentation
 title: Dela samtalsinspelningar med ditt team
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: fabd5fba-14a4-4885-93ba-9a3857e2a298
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
 
 ---
-
 
 # Dela samtalsinspelningar med ditt team {#share-call-recordings-with-your-team}
 
@@ -17,7 +16,7 @@ Med en telefonförsäljning kan du spela in och spara dina samtalsinspelningar. 
 
 ## Kopiera inspelningslänk från personinformationen i webbprogrammet {#copy-recording-link-from-the-person-details-in-the-web-application}
 
-1. Navigera till [webbprogrammet](https://toutapp.com/login).
+1. Navigera till [webbprogram](https://toutapp.com/login).
 
 1. Öppna personuppgifterna.
 

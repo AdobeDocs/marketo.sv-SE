@@ -1,23 +1,22 @@
 ---
 unique-page-id: 10099411
-description: Översikt över analys av e-postinsikter - Marketo Docs - Produktdokumentation
+description: Översikt över analys av e-postinsikter - Marketo Docs - produktdokumentation
 title: Översikt över analys av e-postinsikter
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
 
-
 # Översikt över analys av e-postinsikter {#email-insights-analytics-overview}
 
-Utforska aggregerade data i Analytics för e-postleverans och engagemang. Använd diagrammet till vänster för att utforska data, insikterna till höger för en mer guidad upplevelse.
+Utforska sammanställda data i Analytics för e-postleverans och engagemang. Använd diagrammet till vänster för att utforska data, insikterna till höger för en mer guidad upplevelse.
 
 ![](assets/emailanalytics-1.jpg)
 
-[Det finns ](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) filterfunktioner som hjälper dig att hitta specifika mätvärden.
+[Filtrering](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) är tillgängligt för att hjälpa dig att gå igenom mer efter specifika mätvärden.
 
 ![](assets/filter-field.png)
 
@@ -45,7 +44,7 @@ I diagrammet visas de filtrerade villkoren. Om du vill dölja ett av filtren kli
 
 ![](assets/chart2.png)
 
-Om du skapar ett diagram som du vill använda igen kan du göra det till ett [snabbdiagram](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md).
+Om du skapar ett diagram som du vill använda igen gör du det till ett [snabbdiagram](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md).
 
 ![](assets/quick-chart.png)
 

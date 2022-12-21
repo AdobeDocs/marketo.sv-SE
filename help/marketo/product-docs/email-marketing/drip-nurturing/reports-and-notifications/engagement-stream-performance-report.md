@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359955
-description: Resultatrapport för Engagement Stream - Marketo Docs - Produktdokumentation
+description: Prestandarapport för Engagement Stream - Marketo Docs - produktdokumentation
 title: Resultatrapport för engagemangsström
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
 
 ---
-
 
 # Resultatrapport för engagemangsström {#engagement-stream-performance-report}
 
@@ -17,7 +16,7 @@ Vill du veta hur engagemangsinnehållet fungerar? Testa rapporten om hur engagem
 
 ## Skapa rapporten {#create-the-report}
 
-1. Hitta och välj ditt engagemangsprogram och klicka sedan på **Nytt** **Ny lokal resurs** under Nytt.
+1. Hitta och välj engagemangsprogram, sedan under **Nytt** klicka **Ny lokal resurs**.
 
    ![](assets/localassetnutring.jpg)
 
@@ -32,7 +31,7 @@ Vill du veta hur engagemangsinnehållet fungerar? Testa rapporten om hur engagem
    Välj Prestanda för avtalsström som rapporttyp.
    ![](assets/engagementreportchoose.png)
 
-1. Namnge rapporten och klicka på **Skapa**.
+1. Namnge rapporten och klicka **Skapa**.
 
    ![](assets/image2014-9-15-18-3a24-3a23.png)
 
@@ -44,7 +43,7 @@ Vill du veta hur engagemangsinnehållet fungerar? Testa rapporten om hur engagem
 
    ![](assets/engagementperformancereport.jpg)
 
-1. Under fliken **Setup** dubbelklickar du på filtret **Engagement Program Email**.
+1. Under **Inställningar** dubbelklicka på **Engagement Program Email** filter.
 
    ![](assets/image2014-9-15-18-3a25-3a4.png)
 
@@ -54,12 +53,12 @@ Vill du veta hur engagemangsinnehållet fungerar? Testa rapporten om hur engagem
 
 ## Kör rapport {#run-report}
 
-1. Klicka på fliken **Rapport** om du vill köra rapporten.
+1. Om du vill köra rapporten klickar du på **Rapport** -fliken.
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 
    >[!TIP]
    >
-   >Även om det inte finns någon illustration är Engagement Score en kolumn i den här rapporten. Mer information om vad det är finns i [Förstå engagemangspoängen](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+   >Även om det inte finns någon illustration är Engagement Score en kolumn i den här rapporten. Se [Så här fungerar engagemanget](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) om du vill ha mer information om vad det är.
 
    Bra jobbat! Observera att rapporten grupperas efter engagemangsprogram.

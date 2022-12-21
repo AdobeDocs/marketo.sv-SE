@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Mall 1D {#template-1d}
 
-Högerklicka för att [hämta mall 1D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html)
+Högerklicka för att [ladda ned mall 1D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html)
 
 ![](assets/image2015-5-28-13-3a36-3a44.png)
 

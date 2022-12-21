@@ -10,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Översikt över Säljanslutning {#sales-connect-overview}
+# Översikt över Sales Connect {#sales-connect-overview}
 
 Marketo Sales Connect är en mångfacetterad säljsupportlösning med många olika funktioner som hjälper er att öka engagemanget genom hela säljcykeln.
 
@@ -18,15 +18,15 @@ Marketo Sales Connect är en mångfacetterad säljsupportlösning med många oli
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din Customer Success Manager om du vill ha mer information.
 
-## Direktmatningen {#the-live-feed}
+## The Live Feed {#the-live-feed}
 
-Säljare kan se [realtidsengagemang](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) av både marknadsförings- och säljinnehåll.
+Säljare kan visa [engagemang i realtid](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) av både marknadsförings- och säljinnehåll.
 
 ![](assets/engagement.jpg)
 
 ## Persondetaljvy {#person-detail-view}
 
-Få åtkomst till [detaljerad personstatistik](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
+Åtkomst [detaljerad personstatistik](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
@@ -60,7 +60,7 @@ Se hur era prospects engagerar sig i era säljsatsningar.
   </tr> 
   <tr> 
    <td colspan="1"><p>Ta emot försäljningssamtal</p></td> 
-   <td colspan="1"><p>Lead tog emot ett samtal från en säljare som använder <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">telefonförsäljning</a>.</p></td> 
+   <td colspan="1"><p>Lead tog emot ett samtal från en säljare som använder <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">Försäljningstelefon</a>.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Lägg till i försäljningskampanj</p></td> 
@@ -79,12 +79,12 @@ Se hur era prospects engagerar sig i era säljsatsningar.
 
 ## Dela marknadsföringskampanjer {#share-marketing-campaigns}
 
-Skapa en enkel smart kampanj som ger dina säljanvändare åtkomst till [Marketo kampanjdata](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
+Skapa en enkel smart kampanj som ger dina säljanvändare tillgång till [Marketo kampanjdata](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
 
 ![](assets/campaign-is-requested.jpg)
 
 Vill du komma igång? Klicka på länken nedan om du vill se installationsanvisningar.
 
 >[!MORELIKETHIS]
-[Starthandbok för Sales Connect-administratörer](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)>
 >
+>[Starthandbok för Sales Connect-administratörer](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)

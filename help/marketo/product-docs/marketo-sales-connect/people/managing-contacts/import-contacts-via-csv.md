@@ -2,14 +2,13 @@
 unique-page-id: 14352468
 description: Importera kontakter via CSV - Marketo Docs - Produktdokumentation
 title: Importera kontakter via CSV
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: e1a15e9f-7978-4112-b38d-ab78a4300a5a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
 
 ---
-
 
 # Importera kontakter via CSV {#import-contacts-via-csv}
 
@@ -19,11 +18,11 @@ Det är viktigt att ha kontakter på personsidan eftersom det är där vi går f
 
    ![](assets/one.png)
 
-1. Klicka på **Gruppera åtgärder** och välj **Importera CSV**.
+1. Klicka **Gruppåtgärder** och markera **Importera CSV**.
 
    ![](assets/two.png)
 
-1. Klicka på **Bläddra**.
+1. Klicka **Bläddra**.
 
    ![](assets/three.png)
 
@@ -33,10 +32,10 @@ Det är viktigt att ha kontakter på personsidan eftersom det är där vi går f
    >
    >Grupper är begränsade till 1 000 kontakter.
 
-1. Klicka på **Nästa**.
+1. Klicka **Nästa**.
 
    ![](assets/four.png)
 
-1. Mappa kolumnerna i CSV-filen till deras respektive fält i Sales Connect. Klicka på **Nästa** när du är klar.
+1. Mappa kolumnerna i CSV-filen till deras respektive fält i Sales Connect. Klicka **Nästa** när det är klart.
 
    ![](assets/five.png)

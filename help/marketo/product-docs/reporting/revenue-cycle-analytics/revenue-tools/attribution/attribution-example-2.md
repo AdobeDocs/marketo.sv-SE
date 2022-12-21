@@ -1,17 +1,16 @@
 ---
 unique-page-id: 7514146
-description: Attribution Example 2 - Marketo Docs - produktdokumentation
+description: Attribution Example 2 - Marketo Docs - Product Documentation
 title: Attribut - exempel 2
-translation-type: tm+mt
-source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
+exl-id: 8f00abb5-85f8-4f05-874e-57aa6442548c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
-
-# Attributionsexempel 2 {#attribution-example}
+# Attribut - exempel 2 {#attribution-example}
 
 Läs följande scenario och försök fastställa vilka tal som ska finnas i rutnätet.
 
@@ -19,7 +18,7 @@ Läs följande scenario och försök fastställa vilka tal som ska finnas i rutn
 * 15 april | Joan förvärvas av (webbinarium)
 * 22 april | (möjlighet 1) skapad för 6 000 USD
 * 24 april | (möjlighet 2) skapat för 10 000 USD
-* 25 april | Bill och Joan är associerade med roller till **BÅDE** Optys
+* 25 april | Bill och Joan är associerade med roller till **BÅDA** Optyer
 * 29 april | (möjlighet 1) är stängd
 
 | Programnamn | (Varumärke) | (webbinarium) |
@@ -35,7 +34,7 @@ Läs följande scenario och försök fastställa vilka tal som ska finnas i rutn
 >
 >**Förklaring**
 >
->Eftersom både Bill och Joan associerades med roller till **båda affärsmöjligheterna** delas krediten jämnt mellan dem (enligt reglerna).
+>Eftersom både Bill och Joan var associerade med roller till **BÅDA** affärsmöjligheter, så att systemet (enligt reglerna) fördelar krediten jämnt mellan dem.
 >
 >Pipeline som skapats för varje program ($8.000) är hälften av det totala beloppet ($16.000) som kan krediteras.
 

@@ -1,17 +1,16 @@
 ---
 unique-page-id: 15695924
-description: Rankning och justering av kontoprofilering - Marketo Docs - Produktdokumentation
+description: Rankning och justering av kontoprofilering - Marketo Docs - produktdokumentation
 title: Rankning och justering av kontoprofilering
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 0%
 
 ---
 
-
-# Rankning och justering för kontoprofilering {#account-profiling-ranking-and-tuning}
+# Rankning och justering av kontoprofilering {#account-profiling-ranking-and-tuning}
 
 Kontoprofilering identifierar din Ideal Customer Profile (ICP), rangordnar företag i din databas baserat på ICP och lägger till ICP Indicator-data till konton som befordrats som namngivna konton.
 
@@ -21,7 +20,7 @@ Resultaten visar alla dina kända konton uppdelade efter grad. A är av högsta 
 
 ![](assets/results.png)
 
-Även om det är valfritt rekommenderar vi att du markerar kryssrutan Automatiskt befordra eftersom du då sparar mycket tid. Men om du vill gå igenom varje konto och [lägga till dem manuellt](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts) lämnar du bara rutan avmarkerad.
+Även om det är valfritt rekommenderar vi att du markerar kryssrutan Automatiskt befordra eftersom du då sparar mycket tid. Men om du vill gå igenom varje konto och [lägga till dem manuellt](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts)lämnar du bara rutan avmarkerad.
 
 <table> 
  <tbody> 
@@ -158,13 +157,13 @@ Klicka på listrutan Lägg till ICP-indikator för att infoga ytterligare indika
 
 ![](assets/add-icp.png)
 
-Om du markerar rutan Exportera kan du se ICP-indikatorn på sidan med namngivna kontouppgifter, och du kan använda den valda ICP-indikatorn som begränsningar i [filter för namngivna konton](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
+Om du markerar rutan Exportera kan du se ICP-indikatorn på sidan med information om namngivet konto, samt använda den valda ICP-indikatorn som begränsningar i [namngivna kontofilter](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
 
 ![](assets/export.png)
 
 >[!NOTE]
 >
->ICP-indikatorer inkluderas som begränsningar i **Medlem i namngivet konto** Filter och utlösare.
+>ICP-indikatorer ingår som begränsningar i **Medlem i namngivet konto** Filter och utlösare.
 
 Indikatorns viktning styr den prioritetsnivå som varje indikator får i din modell.
 
@@ -174,6 +173,6 @@ Klicka på Uppdatera modell för att ändringarna ska börja gälla.
 
 ![](assets/refresh-button.png)
 
-När du är klar med att justera modellen (efter att du har uppdaterat den) går du tillbaka till fliken Modellresultat och klickar på **Spara och använd rangordning**.
+När du är klar med att justera modellen (när du har uppdaterat den) går du tillbaka till fliken Modellresultat och klickar på **Spara och använd rankning**.
 
 ![](assets/ranks.png)

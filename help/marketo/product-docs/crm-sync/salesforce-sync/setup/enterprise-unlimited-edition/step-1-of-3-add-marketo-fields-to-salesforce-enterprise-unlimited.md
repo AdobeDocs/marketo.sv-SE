@@ -34,11 +34,11 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. Klicka på **Anpassa** på menyn Skapa till vänster och välj **Leads**. Klicka på **Fält**.
+1. Klicka på på menyn Skapa till vänster **Anpassa** och markera **Leads**. Klicka **Fält**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. Klicka på **Nytt** i avsnittet Anpassade fält och relationer längst ned på sidan.
+1. Klicka **Nytt** i delen Anpassade fält och relationer längst ned på sidan.
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
@@ -46,7 +46,7 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
 
    ![](assets/choose-field-type-2-hand.png)
 
-1. Klicka på **Nästa**.
+1. Klicka **Nästa**.
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
@@ -78,7 +78,7 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
    <td>Poäng</td> 
    <td>mkto71_Lead_Score</td> 
    <td>Antal</td> 
-   <td>Längd 10<br>Decimaltecken 0 </td> 
+   <td>Längd 10<br>Decimaler 0 </td> 
   </tr> 
   <tr> 
    <td>Anskaffningsdatum</td> 
@@ -105,18 +105,18 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
 >
 >Text- och nummerfält kräver en längd, men inte datum-/tidsfält. En beskrivning är valfri.
 
-1. Klicka på **Nästa**.
+1. Klicka **Nästa**.
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
-1. Ange åtkomstinställningarna och klicka på **Nästa**:
+1. Ange åtkomstinställningar och klicka på **Nästa**:
 
-   * Ställ in alla roller till **Visible** och **Read-Only**
+   * Ange alla roller till **Synlig** och **Skrivskyddad**
 
-   * Avmarkera kryssrutan **Skrivskyddad** för din synkroniseringsanvändares profil:
+   * Rensa **Skrivskyddad** kryssrutan för din synkroniseringsanvändares profil:
 
-      * Om du har en användare med profilen _Systemadministratör_ som synkroniseringsanvändare avmarkerar du kryssrutan **Skrivskyddad** för systemadministratörsprofilen (som visas nedan)
-      * Om du skapade en _anpassad profil_ för synkroniseringsanvändaren avmarkerar du kryssrutan **Skrivskyddad** för den anpassade profilen
+      * Om du har en användare med profilen för en _Systemadministratör_ som synkroniseringsanvändare, rensa **Skrivskyddad** kryssrutan för systemadministratörsprofilen (som visas nedan)
+      * Om du skapade en _egen profil_ för synkroniseringsanvändaren, rensa **Skrivskyddad** kryssruta för den anpassade profilen
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -124,11 +124,11 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Klicka på **Spara och ny** om du vill gå tillbaka och skapa de två andra anpassade fälten. Klicka på **Spara** när du är klar med alla tre.
+1. Klicka **Spara och ny** för att gå tillbaka och skapa de två andra anpassade fälten. Klicka **Spara** med dig är du klar med alla tre.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. Klicka på **Anpassa** på menyn Skapa till vänster och välj Kontakter. Klicka på Fält.
+1. Klicka på på menyn Skapa till vänster **Anpassa** och välj Kontakter. Klicka på Fält.
 1. Utför steg 3 till 10 för fälten Poäng, Inköpsdatum och Anskaffningsprogram på kontaktobjektet, precis som för lead-objektet.
 1. Du kan också använda ovanstående procedur för ytterligare anpassade fält från den här tabellen.
 
@@ -158,7 +158,7 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
    <td>ID för förvärvsprogram</td> 
    <td>mkto71_Acquisition_Program_Id</td> 
    <td>Antal</td> 
-   <td>Längd 18<br>Decimaltecken 0 </td> 
+   <td>Längd 18<br>Decimaler 0 </td> 
   </tr> 
   <tr> 
    <td>Ursprunglig referens</td> 
@@ -243,15 +243,15 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
 
 Ett anpassat fält på lead-objektet i Salesforce bör mappas till ett kontaktfält på kontaktobjektet så att data överförs när en konvertering inträffar.
 
-1. Klicka på **Inställningar** i det övre högra hörnet.
+1. Klicka på i det övre högra hörnet **Inställningar**.
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. Skriv&quot;Fält&quot; i navigeringssökningen utan att trycka på Retur. Fält visas under olika objekt; Klicka på **Fält** under Leads.
+1. Skriv&quot;Fält&quot; i navigeringssökningen utan att trycka på Retur. Fält visas under olika objekt; Klicka **Fält** under Leads.
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. Gå till delen Leadanpassade fält och relationer och klicka på **Mappa lead-fält**.
+1. Gå till avsnittet Leadanpassade fält och relationer och klicka på **Mappa leadfält**.
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 
@@ -265,7 +265,7 @@ Ett anpassat fält på lead-objektet i Salesforce bör mappas till ett kontaktf�
 
 1. Upprepa stegen ovan för alla andra fält som du har skapat.
 
-1. Klicka på **Spara** när du är klar.
+1. Klicka **Spara** när du är klar.
 
    Inte så lätt, eller hur?
 

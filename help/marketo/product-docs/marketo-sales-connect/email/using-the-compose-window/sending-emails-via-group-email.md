@@ -1,23 +1,22 @@
 ---
 unique-page-id: 37356584
-description: Skicka e-post via gruppmejl - Marketo Docs - Produktdokumentation
+description: Skicka e-post via e-post i grupp - Marketo Docs - produktdokumentation
 title: Skicka e-post via gruppe-post
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
-
-# Skicka e-postmeddelanden via gruppe-post {#sending-emails-via-group-email}
+# Skicka e-post via gruppe-post {#sending-emails-via-group-email}
 
 Så här skickar/redigerar du e-post med alternativet Gruppera e-post.
 
 ## Skicka ett gruppe-postmeddelande {#sending-a-group-email}
 
-1. Klicka på fliken **Personer**.
+1. Klicka på **Folk** -fliken.
 
    ![](assets/one-3.png)
 
@@ -49,7 +48,7 @@ Så här skickar/redigerar du e-post med alternativet Gruppera e-post.
 
    ![](assets/edit-four.png)
 
-1. Klicka på **Förhandsgranska dynamiska fält** och visa förhandsvisningen till höger.
+1. Klicka **Förhandsgranska dynamiska fält** och förhandsgranska till höger.
 
    ![](assets/edit-five.png)
 

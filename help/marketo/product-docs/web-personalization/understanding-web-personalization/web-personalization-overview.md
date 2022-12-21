@@ -1,21 +1,20 @@
 ---
 unique-page-id: 3571900
-description: Webbpersonalisering - översikt - Marketo Docs - Produktdokumentation
+description: Webbpersonalisering - översikt - Marketo Docs - produktdokumentation
 title: Webbpersonalisering - översikt
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '833'
 ht-degree: 0%
 
 ---
 
-
 # Webbpersonalisering - översikt {#web-personalization-overview}
 
 ## Introduktion {#introduction}
 
-För nya marknadsföringskunder delas personalisering i realtid in i fyra appar som nås via dessa två paneler: Webbpersonalisering och ContentAI.
+För nya Marketo-kunder är personalisering i realtid uppdelat i fyra appar som nås via dessa två paneler: Webbpersonalisering och ContentAI.
 
 ![](assets/pasted-image-at-2016-03-23-02-45-pm.png) ![](assets/mlm-homepage-content-ai-281-29.png)
 
@@ -36,13 +35,13 @@ De fyra programmen är:
 * Återmarknadsföring av webbplatser
 * ContentAI
 
-Platsen **Webbpersonalisering** är din åtkomstpunkt för att skapa personaliserade webbkampanjer. Kontobaserad webbmarknadsföring och återmarknadsföring på webben. Du kan lägga till innehåll på sidan Innehållsanalys.
+The **Webbanpassning** platta är er åtkomstpunkt för att skapa personaliserade webbkampanjer. Kontobaserad webbmarknadsföring och återmarknadsföring på webben. Du kan lägga till innehåll på sidan Innehållsanalys.
 
-**Kontobaserad webbmarknadsföring fungerar** med webbanpassning och har namngivna konton. Sidan Namngivna konton innehåller grafisk information om befintliga kunder, det totala engagemanget och organisationstrender samt en lista över kontona. Du kan även skapa nya namngivna konton där.
+**Kontobaserad webbmarknadsföring** fungerar med webbpersonalisering och har namngivna konton. Sidan Namngivna konton innehåller grafisk information om befintliga kunder, det totala engagemanget och organisationstrender samt en lista över kontona. Du kan även skapa nya namngivna konton där.
 
-**Med** omdirigering av webbplatser kan ni marknadsföra till segmenterade målgrupper. Du kan ange segment, men inte använda namngivna konton i filtret.
+**Återmarknadsföring av webbplatser** ger er möjlighet att ommarknadsföra till segmenterade målgrupper. Du kan ange segment, men inte använda namngivna konton i filtret.
 
-**** ContentAI är platsen där innehållsrekommendationer ska ges. Du kan enkelt lägga till innehåll på Recommendations-sidan Innehåll.
+**ContentAI** är platsen där innehållsrekommendationer ska ges. Du kan enkelt lägga till innehåll på Recommendations-sidan Innehåll.
 
 >[!NOTE]
 >
@@ -70,7 +69,7 @@ Den högra panelen på sidan Organisationer har följande funktioner och insikte
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>Kalkylbladsikon</strong>: Ikonen finns längst upp till höger på panelen och hämtar organisationstabellen i CSV-format för användning offline</p><p><strong>Ange e-postavisering</strong>: Skickar ett e-postmeddelande till den inloggade användaren varje gång den valda organisationen besöker webbplatsen</p><p><strong>Leads</strong>: Öppnar lead-tabellen för den valda organisationen</p><p><strong>Dela</strong>: Öppnar ett popup-fönster där du kan skicka e-post och dela information om organisationen som besökte webbsidan</p><p><strong>Platsikon</strong>: Visar land och ort för den valda organisationen</p><p><strong>Länkar</strong>: Jigsaw, whis, Linkedin, Google, Twitter öppnar ett nytt fönster med ytterligare information från respektive webbsida med ytterligare information om den valda organisationen</p><p><strong>Sök</strong>: Visar det nyckelord som används om besökaren kom fram via en sökmotor</p><p><strong>Referenter</strong>: Visar URL-länken för sidan som refererade trafiken till din webbplats</p><p><strong>Besökare</strong>: Visar antalet besök, antalet sidor som har visats av den valda organisationen och deras e-postadress (om de har fyllt i ett sändningsformulär) samt tid och datum för det senaste besöket</p><p><strong>Clickstream</strong>: Visar en tabell över användaraktiviteten och URL-sökvägen på webbplatsen och hur länge de besökt varje sida</p></td> 
+   <td><p><strong>Kalkylbladsikon</strong>: Ikonen finns längst upp till höger på panelen och hämtar organisationstabellen i CSV-format för användning offline</p><p><strong>Ange e-postavisering</strong>: Skickar ett e-postmeddelande till den inloggade användaren varje gång den valda organisationen besöker webbplatsen</p><p><strong>Leads</strong>: Öppnar lead-tabellen för den valda organisationen</p><p><strong>Dela</strong>: Öppnar ett popup-fönster där du kan skicka e-post och dela information om organisationen som besökte webbsidan</p><p><strong>Platsikon</strong>: Visar land och ort för den valda organisationen</p><p><strong>Länkar</strong>: Jigsaw, whis, Linkedin, Google, Twitter, öppnar ett nytt fönster med ytterligare information från respektive webbsida som ger ytterligare information om den valda organisationen</p><p><strong>Sök</strong>: Visar det nyckelord som används om besökaren kom fram via en sökmotor</p><p><strong>Referenter</strong>: Visar URL-länken för sidan som refererade trafiken till din webbplats</p><p><strong>Besökare</strong>: Visar antalet besök, antalet sidor som har visats av den valda organisationen och deras e-postadress (om de har fyllt i ett sändningsformulär) samt tid och datum för det senaste besöket</p><p><strong>Clickstream</strong>: Visar en tabell över användaraktiviteten och URL-sökvägen på webbplatsen och hur länge de besökt varje sida</p></td> 
    <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td> 
   </tr> 
  </tbody> 

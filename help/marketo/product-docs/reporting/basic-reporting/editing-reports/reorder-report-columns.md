@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359999
-description: Ändra ordning på rapportkolumner - Marketo Docs - Produktdokumentation
+description: Ändra ordning på rapportkolumner - Marketo Docs - produktdokumentation
 title: Sortera om rapportkolumner
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
 
 ---
 
-
 # Sortera om rapportkolumner {#reorder-report-columns}
 
 Du kan ändra ordningen på kolumnerna i en rapport.
 
-1. Gå till **Marknadsföringsaktiviteter** (eller **Analytics**).
+1. Gå till **Marknadsföringsaktiviteter** (eller **Analyser**).
 
    ![](assets/image2014-9-16-10-3a50-3a27.png)
 
-1. Välj din rapport i navigeringsträdet och klicka på fliken **Rapport**.
+1. Välj rapporten från navigeringsträdet och klicka på **Rapport** -fliken.
 
    ![](assets/image2014-9-16-10-3a50-3a31.png)
 

@@ -2,22 +2,21 @@
 unique-page-id: 4720125
 description: Integrera RTP med Google Universal Analytics - Marketo Docs - produktdokumentation
 title: Integrera RTP med Google Universal Analytics
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '456'
 ht-degree: 0%
 
 ---
 
-
 # Integrera RTP med Google Universal Analytics {#integrate-rtp-with-google-universal-analytics}
 
 ## Intro {#intro}
 
-Utnyttja Google Universal Analytics (GUA) med Marketo Real-Time Personalization&#39;s (RTP) firmographic and personalization data för att bättre mäta och analysera era webbmarknadsföringssatsningar.
+Utnyttja Google Universal Analytics (GUA) med Marketo Real-Time Personalization&#39;s (RTP) firmographic and personalization data för att bättre mäta och analysera era onlinemarknadsföringsinsatser.
 
-I det här inlägget beskrivs hur du konfigurerar och integrerar plattformen Marketo Real-Time Personalization (RTP) med Google Universal Analytics-konton (GUA). RTP-data kan läggas in i ditt GUA-konto så att du kan se resultatet för organisationer, branscher, företagsgrafik och RTP-segment som besöker din webbplats.
+I det här inlägget beskrivs hur du konfigurerar och integrerar Marketo Real-Time Personalization (RTP)-plattformen med Google Universal Analytics-konton (GUA). RTP-data kan läggas in i ditt GUA-konto så att du kan se resultatet för organisationer, branscher, företagsgrafik och RTP-segment som besöker din webbplats.
 
 **Google Universal Analytics**
 
@@ -30,27 +29,27 @@ Google Universal Analytics med RTP:s data ger er en bättre förståelse för hu
 >Ingen kodning eller specialkonfiguration behöver göras. Se till att du slutför följande checklista:
 >
 >* RTP-dimensioner skapas i Google Universal Analytics
->* [RTP-taggen har installerats korrekt i Google Tag Manager](https://docs.marketo.com/display/public/DOCS/Implementing+RTP+using+Google+Tag+Manager)
+>* [RTP-taggen är korrekt installerad i Google Tag Manager](https://docs.marketo.com/display/public/DOCS/Implementing+RTP+using+Google+Tag+Manager)
 >* Integrering med Google Universal Analytics är aktiverat i RTP:s kontoinställningar
->* [Google Universal Analytics-taggen är korrekt konfigurerad i Google Tag Manager](https://support.google.com/tagmanager/answer/6107124?hl=en)
->* [Google Tag Manager-taggen är korrekt installerad på webbplatsen](https://developers.google.com/tag-manager/quickstart)
+>* [Taggen Google Universal Analytics är korrekt konfigurerad i Google Tag Manager](https://support.google.com/tagmanager/answer/6107124?hl=en)
+>* [Taggen Google Tag Manager är korrekt installerad på webbplatsen](https://developers.google.com/tag-manager/quickstart)
 
 
 ## Konfigurera anpassade Dimensioner i GUA {#set-up-custom-dimensions-in-gua}
 
 1. I Google Analytics
 
-   1. Gå till **Admin**
-   1. Välj **konto.**
-   1. Välj **egenskapen.**
+   1. Gå till **Administratör**
+   1. Välj **Konto.**
+   1. Välj **Egenskap.**
    1. Välj **Anpassade definitioner** och **Anpassade Dimensioner**.
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
-1. Lägg till en ny anpassad dimension. Klicka på **+Ny anpassad Dimension**
+1. Lägg till en ny anpassad dimension. Klicka **+Ny anpassad Dimension**
 
    ![](assets/image2014-11-29-11-3a8-3a16.png)
 
-1. Lägg till följande **anpassade Dimensioner:**
+1. Lägg till följande **Anpassade Dimensioner:**
 
 <table> 
  <tbody> 
@@ -84,9 +83,9 @@ Google Universal Analytics med RTP:s data ger er en bättre förståelse för hu
 
 >[!NOTE]
 >
->**Anpassade** namn på Dimensioner måste vara exakt som de definieras i tabellen ovan (annars visas inte anpassade RTP-instrumentpaneler och rapporter i GUA korrekt)
+>**Namn på anpassad Dimension** måste vara exakt enligt definitionen i tabellen ovan (annars visas inte anpassade RTP-instrumentpaneler och rapporter i GUA korrekt)
 
-1. Lägg till **namnet**. Välj scope som **session**. Klicka på **Skapa**.
+1. Lägg till **Namn**. Markera omfånget som **Session**. Klicka **Skapa**.
 
    ![](assets/image2014-11-29-11-3a12-3a51.png)
 
@@ -98,15 +97,15 @@ När du har aktiverat anpassade Dimensioner i GUA går du till RTP-plattformen f
 
 ## Aktivera GUA-integreringen i ditt RTP-konto {#activate-the-gua-integration-in-your-rtp-account}
 
-1. Gå till **Kontoinställningar i RTP-plattformen.**
+1. På RTP-plattformen går du till **Kontoinställningar.**
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
-1. Klicka på **Domän** under **Kontoinställningar**.
-1. Klicka på **Google Universal Analytics** under **Analytics**.
-1. Vrid **På** de relevanta anpassade Dimensionerna och händelserna för att lägga till dessa data från RTP till Google Universal Analytics.
-1. Ange **indexnumret** för dimensionen justerad mot indexnumret i GUA.
-1. Klicka på **Spara**.
+1. Under **Kontoinställningar**, klicka **Domän**.
+1. Under **Analyser**, klicka **Google Universal Analytics**.
+1. Sväng **På** de anpassade Dimensioner och händelser som behövs för att lägga till dessa data från RTP i Google Universal Analytics.
+1. Ange **Indexnummer** för dimensionen justerad mot indexnumret i GUA.
+1. Klicka **Spara**.
 
 ![](assets/image2014-11-29-11-31-23-version-2.png)
 
@@ -116,11 +115,11 @@ När du har aktiverat anpassade Dimensioner i GUA går du till RTP-plattformen f
 >
 >Exempel: RTP-Industry Index Number är lika med 1, RTP-Organization Index Number är lika med 2.
 
-## Ta bort gamla instrumentpaneler i Google Analytics{#remove-old-dashboards-in-google-analytics}
+## Ta bort gamla instrumentpaneler i Google Analytics {#remove-old-dashboards-in-google-analytics}
 
-1. I Google Analytics. Gå till **rapportering.**
-1. Klicka på **instrumentpaneler.**
-1. Välj en **instrumentpanel** (RTP B2B- eller RTP-prestanda)
-1. Klicka på **Ta bort instrumentpanel**.
+1. I Google Analytics. Gå till **Rapportering.**
+1. Klicka på **Instrumentpaneler.**
+1. Välj en **Kontrollpanel** (RTP B2B- eller RTP-prestanda)
+1. Klicka **Ta bort instrumentpanel**.
 
 ![](assets/image2014-11-29-11-3a42-3a55.png)

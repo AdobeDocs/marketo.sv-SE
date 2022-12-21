@@ -3,7 +3,6 @@ unique-page-id: 2360274
 description: Hantera taggvärden - Marketo Docs - Produktdokumentation
 title: Hantera taggvärden
 exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '174'
@@ -13,7 +12,7 @@ ht-degree: 0%
 
 # Hantera taggvärden {#managing-tag-values}
 
-[Taggar ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) används för att beskriva program. Ni kan skapa så många ni behöver, var och en med unika värden. Så här hanterar du dessa värden.
+[Taggar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) används för att beskriva program. Ni kan skapa så många ni behöver, var och en med unika värden. Så här hanterar du dessa värden.
 
 >[!NOTE]
 >
@@ -25,23 +24,23 @@ ht-degree: 0%
 
 ## Lägga till taggvärden {#adding-tag-values}
 
-1. Under **Admin** klickar du på **Taggar**.
+1. Under **Administratör**, klicka **Taggar**.
 
    ![](assets/image2014-9-24-12-3a24-3a55.png)
 
-1. Klicka på **Nytt** och **Nytt taggvärde**.
+1. Klicka **Nytt** sedan **Nytt taggvärde**.
 
    ![](assets/image2014-9-24-12-3a25-3a23.png)
 
-1. Välj taggtypen ****.
+1. Välj **Taggtyp**.
 
    ![](assets/image2014-9-24-12-3a26-3a2.png)
 
-1. Ange ett **värde** och klicka på **Lägg till ett annat**. Du kan lägga till så många värden du vill.
+1. Ange **Värde** och klicka **Lägg till ytterligare**. Du kan lägga till så många värden du vill.
 
    ![](assets/image2014-9-24-12-3a26-3a27.png)
 
-1. Lägg till de återstående värdena och klicka på **Skapa**.
+1. Lägg till återstående värden och klicka på **Skapa**.
 
    ![](assets/image2014-9-24-12-3a26-3a55.png)
 
@@ -49,15 +48,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-12-3a27-3a34.png)
 
-## Döljer taggvärden {#hiding-tag-values}
+## Dölja taggvärden {#hiding-tag-values}
 
 Taggar kan användas i äldre program. Du kan ta bort dem för framtida bruk genom att dölja taggtypen.
 
-1. Markera **taggen** och välj **värdet** som du vill dölja.
+1. Välj **Tagg** och väljer **Värde** du vill gömma dig.
 
    ![](assets/image2014-9-24-12-3a28-3a25.png)
 
-1. Under **Taggåtgärder** väljer du **Dölj**.
+1. Under **Taggåtgärder**, markera **Dölj**.
 
    ![](assets/image2014-9-24-12-3a29-3a4.png)
 

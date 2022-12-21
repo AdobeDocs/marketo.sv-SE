@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359949
-description: Pausa personer i ett engagemangsprogram - Marketo Docs - Produktdokumentation
+description: Pausa personer i ett engagemangsprogram - Marketo Docs - produktdokumentation
 title: Pausa personer i ett engagemangsprogram
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 3bf2db4f-6fa2-4ae8-a1e7-ce6c584f749d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
 
 ---
 
-
 # Pausa personer i ett engagemangsprogram {#pause-people-in-an-engagement-program}
 
-När en person är medlem i ett engagemangsprogram får han/hon tillgång till innehåll tills han/hon har [fyllt allt innehåll](people-who-have-exhausted-content.md). Du kan använda flödessteget [Change Engagement Program Cadence](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) för att hindra personer från att ta emot innehåll, även om de inte har uttömt innehållet än.
+När en person är medlem i ett engagemangsprogram får han/hon tillgång till innehållet tills han/hon har [allt innehåll har uttömts](people-who-have-exhausted-content.md). Du kan använda [Change Engagement Program Cadence](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) för att hindra att personer får material även om de inte har fyllt i.
 
 1. Välj engagemangsprogrammet.
 
    ![](assets/image2014-9-22-14-3a49-3a27.png)
 
-1. Välj **Pausad** som **Nytt värde** om du vill hindra personen från att ta emot innehåll.
+1. Välj **Pausad** som **Nytt värde** för att hindra personen från att ta emot innehåll.
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 

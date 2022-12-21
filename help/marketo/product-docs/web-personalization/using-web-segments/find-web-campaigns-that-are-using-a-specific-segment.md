@@ -1,17 +1,16 @@
 ---
 unique-page-id: 4719396
-description: Hitta webbkampanjer som använder ett visst segment - Marketo Docs - Produktdokumentation
+description: Hitta webbkampanjer som använder ett visst segment - Marketo Docs - produktdokumentation
 title: Hitta webbkampanjer som använder ett visst segment
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 3d180fdf-dfd3-4e56-b50d-faad9b0dc93a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
-
-# Sök efter webbkampanjer som använder ett specifikt segment {#find-web-campaigns-that-are-using-a-specific-segment}
+# Hitta webbkampanjer som använder ett visst segment {#find-web-campaigns-that-are-using-a-specific-segment}
 
 Söker du webbkampanjer som använder ett specifikt segment?
 
@@ -19,14 +18,14 @@ Söker du webbkampanjer som använder ett specifikt segment?
 
    ![](assets/new-dropdown-segments-hand-1.jpg)
 
-1. Sök efter ett **segment**. Markera **segmentnamnet**. Klicka på **Associerade kampanjer** i den högra panelen för att visa de kampanjer som är associerade med det här specifika segmentet.
+1. Sök efter en **Segment**. Välj **Segmentnamn**. Klicka på **Associerade kampanjer** för att visa de kampanjer som är kopplade till det specifika segmentet.
 
    ![](assets/image2014-11-26-14-21-59.png)
 
-1. Visa de **kampanjer** som är associerade med det valda segmentet.
+1. Visa **Kampanjer** associeras med det valda segmentet.
 
    ![](assets/image2014-11-26-14-3a25-3a30.png)
 
 >[!MORELIKETHIS]
 >
->Läs mer om [segment](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) och hur du [skapar ett enkelt segment](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md).
+>Läs mer om [segment](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) och hur [skapa ett bassegment](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md).

@@ -1,21 +1,20 @@
 ---
 unique-page-id: 4719404
-description: AB Test Your Web Campaign - Marketo Docs - produktdokumentation
+description: AB Test Your Web Campaign - Marketo Docs - Product Documentation
 title: AB Testa webbkampanjen
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+exl-id: 65d61b96-d39b-4388-971d-260c9c0aff93
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
 
 ---
 
-
 # AB Testa webbkampanjen {#ab-test-your-web-campaign}
 
 Testning är ett bra sätt att optimera webbkampanjer för bättre engagemang. Så här kommer du igång.
 
-Om du vill A/B-testa dina personaliserade kampanjer kan du välja två eller flera kampanjer, associera dem till samma **Dela test**-grupp och välja **Autotrimma** för att automatiskt fortsätta med den kampanj som ger bäst resultat.
+Om ni vill testa era personaliserade kampanjer A/B kan ni välja två eller flera kampanjer och koppla dem till samma kampanjer **Dela test** gruppera och markera **Autotrimma** att automatiskt fortsätta med den bästa kampanjen.
 
 >[!TIP]
 >
@@ -29,41 +28,41 @@ Om du vill A/B-testa dina personaliserade kampanjer kan du välja två eller fle
 
    >[!NOTE]
    >
-   >Använd filterfunktionen [](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md) för att göra det enklare att hitta kampanjen du vill ha.
+   >Om du vill göra det enklare att hitta den kampanj du vill ha använder du [filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. Välj den första kampanjen som du vill göra ett A/B-test. Klicka på **Redigera**.
+1. Välj den första kampanjen som du vill göra ett A/B-test. Klicka **Redigera**.
 
    ![](assets/image2016-11-4-13-3a46-3a37.png)
 
-1. Välj **Dela testning** på kampanjsidan och klicka på **Skapa ny**.
+1. Välj **Delad testning** och klicka **Skapa nytt**.
 
    ![](assets/image2014-11-26-16-3a47-3a18.png)
 
-1. Ange **namnet på den delade testgruppen** och klicka på **Skapa**. Välj **Autotrimma**.
+1. Ange **Namn på delad testgrupp**, klicka **Skapa**. Välj **Autotrimma**.
 
    ![](assets/image2014-11-26-16-3a52-3a24.png)
 
-1. **** Saveor  **** Launchthe campaign.
+1. **Spara** eller **Starta** kampanjen.
 
    >[!TIP]
    >
-   >Om du väljer **Autotrimma** kan webbpersonaliseringsplattformen automatiskt känna igen den bättre delade testkampanjen och fortsätter med den högsta konverteringskampanjen samtidigt som de andra pausas.
+   >Markera **Autotrimma** gör att webbpersonaliseringsplattformen automatiskt kan känna igen den bättre testkampanjen och fortsätter med den högsta konverteringskampanjen samtidigt som de andra pausas.
 
 1. Upprepa ovanstående process med den andra kampanjen.
 
-1. Välj den andra kampanjen som du vill göra A/B-test. Klicka på **Redigera**.
+1. Välj den andra kampanjen som du vill göra A/B-test. Klicka **Redigera**.
 
    ![](assets/image2016-11-4-13-3a51-3a39.png)
 
-1. På sidan **Ange kampanj** väljer du **Delad testning** och väljer **Grupp** i listrutan. Välj **Autotrimma**.
+1. I **Ange kampanj** sida, markera **Delad testning** och väljer **Grupp** i listrutan. Välj **Autotrimma**.
 
    ![](assets/image2014-11-26-17-3a2-3a17.png)
 
-1. **** Saveor  **** Launchthe campaign.
+1. **Spara** eller **Starta** kampanjen.
 
 1. Upprepa den här processen för en tredje eller fjärde kampanj att testa.
 
-1. I **Webbkampanjer** kan du se de delade testkampanjer som A/B-ikonen anger.
+1. I **Webbkampanjer** kan du se de delade testkampanjerna som visas med A/B-ikonen.
 
    ![](assets/image2016-11-4-13-3a55-3a5.png)
 

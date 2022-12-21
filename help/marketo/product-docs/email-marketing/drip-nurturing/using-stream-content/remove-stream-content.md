@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359915
-description: Ta bort ströminnehåll - Marketo Docs - Produktdokumentation
+description: Ta bort ströminnehåll - Marketo Docs - produktdokumentation
 title: Ta bort ströminnehåll
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: caab3510-4f91-4832-9817-0d154475db31
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
 
 ---
 
-
 # Ta bort ströminnehåll {#remove-stream-content}
 
-Du kan antingen ta bort eller arkivera en del av innehållet. Till skillnad från när du tar bort ströminnehåll, bevaras all historik som är kopplad till innehållet i [arkiveringen](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md). Så här gör du om du inte har något emot att förlora historikstatusen för visst innehåll och vill ta bort det.
+Du kan antingen ta bort eller arkivera en del av innehållet. Till skillnad från borttagning av ströminnehåll, [arkivering](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) bevarar all historik som är kopplad till innehållet. Så här gör du om du inte har något emot att förlora historikstatusen för visst innehåll och vill ta bort det.
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Välj ditt engagemangsprogram och klicka sedan på fliken **Streams**.
+1. Välj engagemangsprogram och klicka sedan på **Strömmar** -fliken.
 
    ![](assets/cloneasteam-3.jpg)
 
@@ -29,6 +28,6 @@ Du kan antingen ta bort eller arkivera en del av innehållet. Till skillnad frå
 
    >[!CAUTION]
    >
-   >Ta bara bort innehåll om du inte bryr dig om historiken. Om du vill bevara historiken ska du [arkivera](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) den i stället.
+   >Ta bara bort innehåll om du inte bryr dig om historiken. Om du vill bevara historiken [arkiv](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) i stället.
 
    Så ja! Nu vet du hur man tar bort en del av innehållet.

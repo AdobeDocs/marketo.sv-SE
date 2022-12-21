@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2949962
-description: Växla synlighet för ett formulärfält dynamiskt - Marketo Docs - Produktdokumentation
+description: Växla synlighet för ett formulärfält dynamiskt - Marketo Docs - produktdokumentation
 title: Växla synlighet för ett formulärfält dynamiskt
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
 
 ---
-
 
 # Växla synlighet för ett formulärfält dynamiskt {#dynamically-toggle-visibility-of-a-form-field}
 
@@ -18,13 +17,13 @@ ht-degree: 0%
 >* [Lägg till en landsväljare i formuläret](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
 
 
-En bra egenskap hos Marketo-formulär är att du dynamiskt kan dölja/visa formulärfält eller [fältuppsättningar](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md).
+En bra egenskap hos Marketo-blanketter är att man dynamiskt kan dölja/visa blankettfält eller [fältuppsättningar](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md).
 
 >[!NOTE]
 >
 >**Exempel**
 >
->I det här exemplet döljer vi fältet **State** såvida inte **Country** har valts som &quot;USA&quot;.
+>I det här exemplet kan vi dölja **Läge** fält såvida **Land** väljs som&quot;USA&quot;.
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
@@ -60,9 +59,9 @@ En bra egenskap hos Marketo-formulär är att du dynamiskt kan dölja/visa formu
 
    >[!NOTE]
    >
-   >Vi har tidigare konverterat Land till fälttyp för plocklista och [lagt till alla länder som värden](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
+   >Vi har tidigare konverterat Land till en plocklistefälttyp och [har lagt till alla länder som värden](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 

@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359530
-description: Lägg till text och token på en landningssida - Marketo Docs - Produktdokumentation
+description: Lägg till text och token på en landningssida - Marketo Docs - produktdokumentation
 title: Lägga till text och token på en landningssida
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: df6f17dc-50a0-4ee0-9a6e-96b0ebde46c7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
 
 ---
 
-
-# Lägg till text och token på en landningssida {#add-text-and-tokens-to-a-landing-page}
+# Lägga till text och token på en landningssida {#add-text-and-tokens-to-a-landing-page}
 
 >[!NOTE]
 >
->Token stöds endast på Marketo-landningssidor.
+>Token stöds endast på Marketo landningssidor.
 
 ## Lägg till RTF på landningssidan {#add-rich-text-to-your-landing-page}
 
-1. Markera landningssidan och klicka på **Redigera utkast**.
+1. Välj landningssida och klicka på **Redigera utkast**.
 
    ![](assets/image2014-9-16-14-3a30-3a29.png)
 
@@ -27,11 +26,11 @@ ht-degree: 0%
    >
    >Designern för landningssidan öppnas i ett nytt fönster.
 
-1. Dra över **RTF-elementet**.
+1. Dra över **RTF** -element.
 
    ![](assets/image2015-5-21-12-3a28-3a49.png)
 
-1. Ange önskad text och klicka på **Spara**.
+1. Ange önskad text och klicka **Spara**.
 
    ![](assets/image2015-7-8-17-3a0-3a49.png)
 
@@ -45,7 +44,7 @@ Tokens är dynamiska textbitar som kan anpassa din landningssida.
 >
 >Saker som Förnamn kommer från personposten. Andra variabler kommer från fliken Mina token i programmet.
 
-1. Markera landningssidan och klicka på **Redigera utkast**.
+1. Välj landningssida och klicka på **Redigera utkast**.
 
    ![](assets/image2014-9-16-14-3a30-3a54.png)
 
@@ -65,11 +64,11 @@ Tokens är dynamiska textbitar som kan anpassa din landningssida.
 
    ![](assets/image2014-9-16-14-3a31-3a20.png)
 
-1. Ange ett **standardvärde** och klicka på **Infoga**.
+1. Ange **Standardvärde** och klicka **Infoga**.
 
    ![](assets/image2014-9-16-14-3a31-3a29.png)
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 

@@ -1,15 +1,14 @@
 ---
 unique-page-id: 4718672
-description: Använda intäktsmodellövergångar - Marketo Docs - Produktdokumentation
+description: Använda intäktsmodellövergångar - Marketo Docs - produktdokumentation
 title: Använda intäktsmodellövergångar
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: c658b631-b849-438a-b412-63ffd41e4c85
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
 
 ---
-
 
 # Använda intäktsmodellövergångar {#using-revenue-model-transitions}
 
@@ -45,7 +44,7 @@ När du skapar modellen och väljer och organiserar dina lagerfaser är det dags
 
    ![](assets/five-2.png)
 
-1. Klicka på **Modeler** om du vill gå tillbaka till modellen.
+1. Klicka på **Modeler**.
 
    ![](assets/six.png)
 
@@ -53,7 +52,7 @@ När du skapar modellen och väljer och organiserar dina lagerfaser är det dags
 
    ![](assets/seven.png)
 
-1. När du har konfigurerat regler för alla övergångar klickar du på **Verifiera** för att verifiera.
+1. När du har konfigurerat regler för alla övergångar klickar du på **Validera** för att verifiera.
 
    ![](assets/eight.png)
 

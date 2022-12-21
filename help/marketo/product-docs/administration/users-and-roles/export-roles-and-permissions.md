@@ -2,7 +2,6 @@
 description: Exportera roller och behörigheter - Marketo Docs - produktdokumentation
 title: Exportera roller och behörigheter
 exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '86'
@@ -18,7 +17,7 @@ Så här exporterar du alla roller och deras behörigheter.
 >
 >Administratörsbehörigheter krävs
 
-1. I My Marketo klickar du på **Admin**.
+1. I My Marketo klickar du på **Administratör**.
 
    ![](assets/export-roles-and-permissions-1.png)
 
@@ -26,7 +25,7 @@ Så här exporterar du alla roller och deras behörigheter.
 
    ![](assets/export-roles-and-permissions-2.png)
 
-1. Klicka på fliken **Roller**.
+1. Klicka på **Roller** -fliken.
 
    ![](assets/export-roles-and-permissions-3.png)
 

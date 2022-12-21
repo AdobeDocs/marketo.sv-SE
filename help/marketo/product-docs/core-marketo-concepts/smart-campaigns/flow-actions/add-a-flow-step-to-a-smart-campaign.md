@@ -3,7 +3,6 @@ unique-page-id: 1146944
 description: Lägg till ett flödessteg i en smart kampanj - Marketo Docs - produktdokumentation
 title: Lägg till ett flödessteg i en smart kampanj
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '186'
@@ -37,13 +36,13 @@ Flödesstegen talar om för Marketo vad du vill ska hända med en grupp personer
 
 >[!NOTE]
 >
->Flödessteg utförs i den ordning som de anges.  [Ändra ordning på flödesstegen ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) för att säkerställa att de är i rätt sekvens.
+>Flödessteg utförs i den ordning som de anges.  [Ändra ordning på flödesstegen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) för att säkerställa att de är i rätt sekvens.
 
 >[!TIP]
 >
->En röd, suddig linje visas om posten är ogiltig. Håll pekaren över raden för att se hur du kan korrigera den.
+>Om en post är ogiltig visas en röd, flytande linje. Håll pekaren över raden för att se hur du kan korrigera den.
 
-Häftig! Var noga med att [granska och validera den smarta kampanjen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md) innan du schemalägger eller aktiverar den.
+Häftig! Se till att [granska och validera den smarta kampanjen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md) innan du schemalägger eller aktiverar den.
 
 >[!MORELIKETHIS]
 >

@@ -18,7 +18,7 @@ Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion
 
 ## Kontoinsikt {#account-insight}
 
-**[Account](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)** Insightis är en Google Chrome-plugin som ger er åtgärdbara ABM-resurser och kontoinsikter till era säljteam, vilket gör att de kan arbeta nära med marknadsföring för att engagera sina konton effektivt. Säljarna får insyn i de data och insikter som genereras för vart och ett av de namngivna konton de äger. Detta inkluderar profilpoäng, en prioriterad lista över deras namngivna konton, engagerade personer i dessa konton och en liveaktivitetsström över nyligen genomförda aktiviteter från kontot.
+**[Kontoinsikt](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)** är en Google Chrome-plugin som ger er åtgärdbara ABM och kontoinsikter till era säljteam, vilket gör att de kan arbeta nära med marknadsföringen för att engagera sina konton effektivt. Säljarna får insyn i de data och insikter som genereras för vart och ett av de namngivna konton de äger. Detta inkluderar profilpoäng, en prioriterad lista över deras namngivna konton, engagerade personer i dessa konton och en liveaktivitetsström över nyligen genomförda aktiviteter från kontot.
 
 ![](assets/image001.png) ![](assets/image002.png)
 
@@ -26,6 +26,6 @@ Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion
 
 ## [Dynamiska kontolistor](/help/marketo/product-docs/target-account-management/target/account-lists.md) {#dynamic-account-lists}
 
-Vi lägger till ett nytt sätt att skapa kontolistor i ABM. Förutom befintliga kontolistor kan du nu skapa dynamiska kontolistor som genereras från offentliga CRM-kontovyer. En CRM-kontovy är en uppsättning regler som fungerar som ett filter när konton visas. Du kan till exempel använda den för att hitta konton där Bransch är hälso- och sjukvård _och_ Intäkterna är över 100 miljoner USD.
+Vi lägger till ett nytt sätt att skapa kontolistor i ABM. Förutom befintliga kontolistor kan du nu skapa dynamiska kontolistor som genereras från offentliga CRM-kontovyer. En CRM-kontovy är en uppsättning regler som fungerar som ett filter när konton visas. Du kan till exempel använda den för att hitta konton där Branschen är hälsovård _och_ Intäkterna är över 100 miljoner dollar.
 
 ![](assets/dynamic-account-list-menu-5b14-5d-copy.png)

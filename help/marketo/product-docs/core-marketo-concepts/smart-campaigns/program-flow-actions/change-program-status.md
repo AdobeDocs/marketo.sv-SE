@@ -3,7 +3,6 @@ unique-page-id: 1147007
 description: Ändra programstatus - Marketo Docs - produktdokumentation
 title: Ändra programstatus
 exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
@@ -23,11 +22,11 @@ Programstatus hjälper dig att hålla reda på hur människor utvecklas genom et
 
 ## Användning {#usage}
 
-1. Dra i flödessteget **Ändra programstatus**.
+1. Dra i **Ändra programstatus** flödessteg.
 
    ![](assets/image2014-9-22-14-3a43-3a34.png)
 
-1. Välj den **nya status** som du vill ange. Personen blir också medlem i programmet om de inte redan är det.
+1. Välj **Ny status** som du vill ange. Personen blir också medlem i programmet om de inte redan är det.
 
    ![](assets/image2014-9-22-14-3a43-3a45.png)
 

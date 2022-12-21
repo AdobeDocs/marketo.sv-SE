@@ -3,7 +3,6 @@ unique-page-id: 7515767
 description: Dela segment mellan arbetsytor och partitioner - Marketo Docs - produktdokumentation
 title: Dela segment mellan arbetsytor och partitioner
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '469'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Dela segment över arbetsytor och partitioner {#share-segmentations-across-workspaces-and-partitions}
+# Dela segment mellan arbetsytor och partitioner {#share-segmentations-across-workspaces-and-partitions}
 
 >[!PREREQUISITES]
 >
@@ -23,15 +22,15 @@ Marketo är bra på att välja rätt personer för ett program eller en smart ka
 
 >[!NOTE]
 >
->Lär dig [hur du skapar segmenteringar](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+>Lär dig [skapa segmenteringar](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-När du har konfigurerat de här personerna (_och_ du använder arbetsytor) vill du dela dem mellan arbetsytorna. Här är några bra saker att veta:
+När du har konfigurerat dessa profiler (_och_ om du använder arbetsytor) bör du dela dem mellan arbetsytorna. Här är några bra saker att veta:
 
 ## Regler och tips {#rules-tips}
 
-* Varje Marketo-prenumeration kan innehålla upp till 20 segment (totalt) över flera arbetsytor (**inte 20 per arbetsyta**).
+* Varje Marketo-prenumeration kan innehålla upp till 20&quot;totalt&quot; segment över flera arbetsytor (**inte 20 per arbetsyta**).
 * Du kan bara dela en segmentering med arbetsytor som du har tillgång till.
-* Se till att skapa och använda en **standardarbetsyta som har synlighet i alla partitioner**.
+* Se till att skapa och använda en **Standardarbetsyta som har synlighet i alla partitioner**.
 
 * Segmenteringsbearbetningen körs bara på personerna på arbetsytan där segmenteringen skapas.
 
@@ -56,11 +55,11 @@ När du har konfigurerat de här personerna (_och_ du använder arbetsytor) vill
 
 ## Dela en segmentering {#share-a-segmentation}
 
-1. Gå till **databasen**.
+1. Gå till **Databas**.
 
    ![](assets/image2017-3-29-8-3a15-3a40.png)
 
-1. Högerklicka på **Segmenteringar** och välj **Nya mappar**.
+1. Högerklicka **Segmenteringar** och markera **Nya mappar**.
 
    ![](assets/image2017-3-29-8-3a40-3a31.png)
 
@@ -76,7 +75,7 @@ När du har konfigurerat de här personerna (_och_ du använder arbetsytor) vill
 
    ![](assets/image2017-3-29-8-3a41-3a19.png)
 
-1. Markera den eller de arbetsytor som du vill dela mappen med. Klicka på **Spara**.
+1. Markera den eller de arbetsytor som du vill dela mappen med. Klicka **Spara**.
 
    ![](assets/image2015-5-27-11-3a6-3a40.png)
 

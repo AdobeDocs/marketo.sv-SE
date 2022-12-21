@@ -2,7 +2,6 @@
 description: Kampanjsynkronisering - Marketo Docs - produktdokumentation
 title: Kampanjsynkronisering - översikt
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
@@ -25,7 +24,7 @@ Följande flödesåtgärder är tillgängliga:
 
 >[!NOTE]
 >
->**Ta bort från Microsoft** Campaign tar bara bort personer som har lagts till med flödesåtgärder i Marketo.
+>**Ta bort från Microsoft Campaign** tar endast bort personer som har lagts till med flödesåtgärder i Marketo.
 
 Det finns också två utlösare:
 

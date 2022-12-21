@@ -2,14 +2,13 @@
 unique-page-id: 5472283
 description: Anpassa mobilvyn för din startsida med kostnadsfria formulär - Marketo Docs - Produktdokumentation
 title: Anpassa mobilvyn för din startsida med kostnadsfria formulär
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 0%
 
 ---
-
 
 # Anpassa mobilvyn för din startsida med kostnadsfria formulär {#customize-mobile-view-for-your-free-form-landing-page}
 
@@ -23,17 +22,17 @@ Mobilvyn på landningssidan i friform är oftast automatisk, men du kan anpassa 
 
    ![](assets/selectlandingapge.jpg)
 
-1. Klicka på **Redigera utkast**.
+1. Klicka **Redigera utkast**.
 
    ![](assets/image2015-1-22-18-3a33-3a12.png)
 
-1. Klicka på fliken **Mobil**.
+1. Klicka på **Mobil** -fliken.
 
    ![](assets/image2015-1-22-18-3a31-3a40.png)
 
-## Vyn Mobil jämfört med dator {#mobile-vs-desktop-view}
+## Mobil jämfört med skrivbordsvy {#mobile-vs-desktop-view}
 
-Under Page Elements visas en ![](assets/image2015-1-22-18-3a39-3a53.png)-ikon (skrivbord) och en ![](assets/image2015-1-22-18-3a40-3a31.png)-ikon (mobil). På så sätt kan du visa/dölja olika element dynamiskt.
+Under Sidelement visas en ![](assets/image2015-1-22-18-3a39-3a53.png) (skrivbord) och en ![](assets/image2015-1-22-18-3a40-3a31.png) (mobil) ikon. På så sätt kan du visa/dölja olika element dynamiskt.
 
 ![](assets/image2015-5-21-15-3a9-3a34.png)
 
@@ -53,7 +52,7 @@ Som standard visas allt i skrivbordsvyn i mobilvyn.
 
    ![](assets/image2015-5-21-15-3a15-3a47.png)
 
-## Dölj ett element i mobilvyn {#hide-an-element-from-the-mobile-view}
+## Dölja ett element från mobilvyn {#hide-an-element-from-the-mobile-view}
 
 >[!TIP]
 >
@@ -67,7 +66,7 @@ Som standard visas allt i skrivbordsvyn i mobilvyn.
 
    ![](assets/image2015-5-21-15-3a30-3a17.png)
 
-## Lägg till ett element i mobilvyn {#add-an-element-to-the-mobile-view}
+## Lägga till ett element i mobilvyn {#add-an-element-to-the-mobile-view}
 
 >[!TIP]
 >
@@ -83,11 +82,11 @@ Som standard visas allt i skrivbordsvyn i mobilvyn.
 
 >[!TIP]
 >
->Mobilvyn kan också ha olika upplägg av sidelement. Flytta runt saker på startsidan för frihandssidan eller ändra ordning på objekten som listas under **Sidelement** med dra och släpp.
+>Mobilvyn kan också ha olika upplägg av sidelement. Flytta runt saker på startsidan för frihandslandning eller ändra ordning på objekten som listas under **Sidelement** med dra och släpp.
 
 ## Förhandsgranska mobilvy {#preview-mobile-view}
 
-1. Klicka på **Förhandsgranska utkast**.
+1. Klicka **Förhandsgranska utkast**.
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
@@ -99,7 +98,7 @@ Som standard visas allt i skrivbordsvyn i mobilvyn.
 
    ![](assets/image2015-1-22-20-3a3-3a22.png)
 
-1. Om du gillar det klickar du på **Godkänn och stäng**.
+1. Om du älskar det klickar du **Godkänn och stäng**.
 
    ![](assets/image2015-1-22-20-3a5-3a36.png)
 

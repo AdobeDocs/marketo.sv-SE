@@ -3,7 +3,6 @@ unique-page-id: 1147122
 description: Hantera och visa medlemmar - Marketo Docs - produktdokumentation
 title: Hantera och visa medlemmar
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '251'
@@ -17,13 +16,13 @@ Du kan hantera och visa dina medlemmar i dina program på fliken Medlemmar.
 
 >[!NOTE]
 >
->Gör mer i [programmedlemskapet](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
+>Gå djupare in [programmedlemskap](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
 
 ## Sök efter en medlem {#search-for-a-member}
 
 Längst ned i avsnittet Medlemmar använder du sökfältet för att söka efter programmedlemmar efter namn, e-postadress, befattning eller företag.
 
-1. Klicka på fliken **Medlemmar** i ditt program.
+1. Klicka på **Medlemmar** -fliken i ditt program.
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
@@ -31,13 +30,13 @@ Längst ned i avsnittet Medlemmar använder du sökfältet för att söka efter 
 
    ![](assets/image2014-10-1-16-3a7-3a20.png)
 
-## Exportera rutnätet för medlemmar {#export-the-members-grid}
+## Exportera stödrastret för medlemmar {#export-the-members-grid}
 
 Du kan exportera din medlemslista genom att klicka på Excel-ikonen bredvid sökfältet.
 
 ![](assets/image2014-10-1-16-3a9-3a55.png)
 
-## Hantera kolumner i medlemsstödrastret {#manage-columns-in-the-members-grid}
+## Hantera kolumner i medlemsrutnätet {#manage-columns-in-the-members-grid}
 
 Dra och släpp kolumner för att ändra deras ordning. De blå pilarna anger vart kolumnen ska placeras.
 
@@ -47,35 +46,35 @@ Högerklicka på kolumnrubriken om du vill sortera i bokstavsordning, antingen s
 
 ![](assets/image2014-10-1-17-3a3-3a28.png)
 
-## Välj vilka kolumner som ska visas i stödrastret {#choose-which-columns-are-visible-in-the-grid}
+## Välj vilka kolumner som ska visas i rutnätet {#choose-which-columns-are-visible-in-the-grid}
 
-1. Klicka på listrutan **Visa** och välj **Skapa vy**.
+1. Klicka på **Visa** nedrullningsbar meny och välj **Skapa vy**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. Namnge din anpassade vy. Välj kolumnrubriker. Klicka på **Lägg till** och **Ta bort** för att flytta kolumner och skapa en vy.
+1. Namnge din anpassade vy. Välj kolumnrubriker. Klicka **Lägg till** och **Ta bort** om du vill flytta kolumner och skapa en vy.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
-1. Klicka på **Skapa**.
+1. Klicka **Skapa**.
 
    ![](assets/image2014-10-1-16-3a38-3a7.png)
 
-## Filtrera medlemsstödrastret {#filter-the-members-grid}
+## Filtrera medlemsstödrastret  {#filter-the-members-grid}
 
-1. Klicka på listrutan **Filter** och välj ett förloppssteg att sortera efter.
+1. Klicka på **Filter** och välj ett förloppssteg att sortera efter.
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
-## Hantera personstatus i medlemsstödrastret {#manage-person-status-in-the-members-grid}
+## Hantera personstatus i medlemsrutnätet {#manage-person-status-in-the-members-grid}
 
 Du kan ändra status för dina personer inuti medlemsrutnätet.
 
-1. Håll ned **Ctrl/Cmd** och markera personerna.
+1. Håll ned **Ctrl/Cmd** och välja personer.
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. Klicka på listrutan **Ändra status** och välj en status.
+1. Klicka på **Ändra status** och välj en status.
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 

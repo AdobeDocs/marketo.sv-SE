@@ -1,20 +1,19 @@
 ---
 unique-page-id: 10094404
-description: Skapa anpassade fältgrupper med fältorganiseraren - Marketo Docs - Produktdokumentation
+description: Skapa anpassade fältgrupper med fältorganiseraren - Marketo Docs - produktdokumentation
 title: Skapa anpassade fältgrupper med fältorganiseraren
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '992'
 ht-degree: 0%
 
 ---
 
+# Skapa anpassade fältgrupper med fältorganiseraren {#create-custom-field-groups-using-the-field-organizer}
 
-# Skapa anpassade fältgrupper med hjälp av fältorganiseraren {#create-custom-field-groups-using-the-field-organizer}
-
-Innan du kan aktivera anpassade fältgrupper för rapportering i modellresultatanalysen (Leads) i intäktscykelutforskaren måste du kategorisera standardfält eller anpassade fält i grupper för rapportering via Fältorganiseraren i Marketo Lead Management. Detta gäller endast lead- och företagsattribut.
-När du väljer ett standardfält eller ett anpassat fält i listrutan Fält i dialogrutan Sorteraren i nytt fält mappas datatypen Marketo Lead Management som är associerad med fältet som du vill gruppera med en av tre tillgängliga redigerare i Fältsorteraren: sträng, heltal eller datum.
+Innan du kan aktivera anpassade fältgrupper för rapportering i området för modellresultatanalys (Leads) i intäktscykelutforskaren måste du kategorisera standardfält eller anpassade fält i grupper för rapportering via Fältorganiseraren i Marketo Lead Management. Detta gäller endast lead- och företagsattribut.
+När du väljer ett standardfält eller ett anpassat fält i listrutan Fält i dialogrutan Sorteraren i nytt fält mappas den Marketo Lead Management-datatyp som är associerad med det fält som du vill gruppera med en av tre tillgängliga redigerare i fältSorteraren: sträng, heltal eller datum.
 
 | Marketo Lead Management-datatyp | Datatyp för redigeraren i fältorganiseraren |
 |---|---|
@@ -27,7 +26,7 @@ När du väljer ett standardfält eller ett anpassat fält i listrutan Fält i d
 | Valuta | Heltal |
 | DateTime | Datum |
 | Boolean | Stöds inte |
-| Telefon | Sträng |
+| Tel. | Sträng |
 | Datum | Datum |
 | Float | Heltal |
 | Beräknat | Stöds inte |
@@ -36,19 +35,19 @@ I följande tre avsnitt beskrivs hur du skapar en anpassad fältgrupp för en st
 
 ## Skapa anpassad fältgrupp - Strängredigeraren {#create-custom-field-group-string-editor}
 
-1. Klicka på **Leaddatabas**.
+1. Klicka **Lead-databas**.
 
    ![](assets/one.png)
 
-1. Klicka på **Ny** och välj **Ny fältorganisatör**.
+1. Klicka **Nytt** och markera **Ny fältorganisatör**.
 
    ![](assets/two.png)
 
-1. Klicka på **Fält** och välj ett standardfält eller anpassat fält med en datatyp som mappar till strängredigeraren (se tabellen i föregående avsnitt). Land används här.
+1. Klicka **Fält** och markera ett standardfält eller ett anpassat fält med en datatyp som mappar till strängredigeraren (se tabellen i föregående avsnitt). Land används här.
 
    ![](assets/three.png)
 
-1. Klicka på **Skapa**.
+1. Klicka **Skapa**.
 
    ![](assets/four.png)
 
@@ -60,7 +59,7 @@ I följande tre avsnitt beskrivs hur du skapar en anpassad fältgrupp för en st
 
    ![](assets/five.png)
 
-1. Som standard placeras alla datavärden i undergruppen&quot;Annat&quot;. Om du vill kategorisera datavärdena klickar du på **Lägg till grupp** för att skapa en undergrupp och ge den ett namn.
+1. Som standard placeras alla datavärden i undergruppen&quot;Annat&quot;. Om du vill kategorisera datavärdena klickar du på **Lägg till grupp** om du vill skapa en undergrupp och ge den ett namn.
 
    >[!NOTE]
    >
@@ -92,19 +91,19 @@ I följande tre avsnitt beskrivs hur du skapar en anpassad fältgrupp för en st
 
 ## Skapa anpassad fältgrupp - heltalsredigerare {#create-custom-field-group-integer-editor}
 
-1. Klicka på **Leaddatabas**.
+1. Klicka **Lead-databas**.
 
    ![](assets/one.png)
 
-1. Klicka på **Ny** och välj **Ny fältorganisatör**.
+1. Klicka **Nytt** och markera **Ny fältorganisatör**.
 
    ![](assets/two.png)
 
-1. Klicka på **Fält** och välj ett standardfält eller anpassat fält med en datatyp som mappar till strängredigeraren (se tabellen i föregående avsnitt). Årsintäkt används här.
+1. Klicka **Fält** och markera ett standardfält eller ett anpassat fält med en datatyp som mappar till strängredigeraren (se tabellen i föregående avsnitt). Årsintäkt används här.
 
    ![](assets/nine.png)
 
-1. Klicka på **Skapa**.
+1. Klicka **Skapa**.
 
    ![](assets/9.5.png)
 
@@ -112,13 +111,13 @@ I följande tre avsnitt beskrivs hur du skapar en anpassad fältgrupp för en st
 
    ![](assets/9.6.png)
 
-1. Klicka på det anpassade gruppnamnet som är standard ovanför heltalsredigeraren för att anpassa namnet. Du kan till exempel byta namn på Årlig intäktsgrupp till Årlig intäkt efter storlek. Klicka på **Spara**.
+1. Klicka på det anpassade gruppnamnet som är standard ovanför heltalsredigeraren för att anpassa namnet. Du kan till exempel byta namn på Årlig intäktsgrupp till Årlig intäkt efter storlek. Klicka **Spara**.
 
    ![](assets/eleven.png)
 
    Med heltalsredigeraren kan du skapa flera undergrupper som definierar varje undergrupp efter storlek. I det här exemplet kommer tre grupper att skapas för små, medelstora och företag.
 
-1. Om du vill lägga till din första grupp anger du ett namn i fältet **Gruppnamn** (exempel: Liten) och ange ett maxvärde i fältet **Gruppintervall** (exempel: 200000). Klicka på **Lägg till grupp**.
+1. Om du vill lägga till din första grupp anger du ett namn i **Gruppnamn** fält (exempel: Liten) och ange ett maxvärde i **Gruppintervall** fält (exempel: 200000). Klicka **Lägg till grupp**.
 
    ![](assets/twelve.png)
 
@@ -144,21 +143,21 @@ I följande tre avsnitt beskrivs hur du skapar en anpassad fältgrupp för en st
    >
    >När grupperna har definierats kan du aktivera den anpassade fältgruppen för rapportering i Model Performance Analysis (Leads) via fliken Revenue Cycle Analytics i Marketo Lead Management.
 
-## Skapa anpassad fältgrupp - datumredigeraren {#create-custom-field-group-date-editor}
+## Skapa anpassad fältgrupp - datumredigerare {#create-custom-field-group-date-editor}
 
-1. Klicka på **Leaddatabas**.
+1. Klicka **Lead-databas**.
 
    ![](assets/one.png)
 
-1. Klicka på **Ny** och välj **Ny fältorganisatör**.
+1. Klicka **Nytt** och markera **Ny fältorganisatör**.
 
    ![](assets/two.png)
 
-1. Klicka på **Fält** och välj ett standardfält eller anpassat fält med en datatyp som mappar till strängredigeraren (se tabellen i föregående avsnitt). Anskaffningsdatum används här.
+1. Klicka **Fält** och markera ett standardfält eller ett anpassat fält med en datatyp som mappar till strängredigeraren (se tabellen i föregående avsnitt). Anskaffningsdatum används här.
 
    ![](assets/fourteen.png)
 
-1. Klicka på **Skapa**.
+1. Klicka **Skapa**.
 
    ![](assets/14.5.png)
 
@@ -166,13 +165,13 @@ I följande tre avsnitt beskrivs hur du skapar en anpassad fältgrupp för en st
 
    ![](assets/14.6.png)
 
-1. Klicka på det anpassade gruppnamnet som är standard ovanför datumredigeraren för att anpassa namnet. Du kan till exempel ändra namnet&quot;Inköpsdatumgrupp&quot; till&quot;Inköpsdatumkategorier&quot;. Klicka på **Spara**.
+1. Klicka på det anpassade gruppnamnet som är standard ovanför datumredigeraren för att anpassa namnet. Du kan till exempel ändra namnet&quot;Inköpsdatumgrupp&quot; till&quot;Inköpsdatumkategorier&quot;. Klicka **Spara**.
 
    ![](assets/fifteen.png)
 
    Med datumredigeraren kan du skapa flera undergrupper och definiera varje undergrupp efter datum. I det här exemplet skapas tre grupper: Kv1-15 leads, kv2-15 leads och kv3-15 leads.
 
-1. Om du vill lägga till din första grupp anger du ett namn i fältet **Gruppnamn** (exempel: Q1-15 Leads) och ange ett datum i datumfältet som representerar det datum då leadet förvärvades den eller tidigare (exempel: 3/31/2015 för sista dagen i Q1-15). Klicka på **Lägg till grupp**.
+1. Om du vill lägga till din första grupp anger du ett namn i **Gruppnamn** fält (exempel: Q1-15 Leads) och ange ett datum i datumfältet som representerar det datum då leadet förvärvades den eller tidigare (exempel: 3/31/2015 för sista dagen i Q1-15). Klicka **Lägg till grupp**.
 
    ![](assets/sixteen.png)
 

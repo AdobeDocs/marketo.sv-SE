@@ -1,24 +1,23 @@
 ---
 unique-page-id: 2359453
-description: Redigera din e-postadress - Marketo Docs - Produktdokumentation
+description: Redigera din e-postadress - Marketo Docs - produktdokumentation
 title: Redigera din e-postrubrik
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%
 
 ---
 
-
 # Redigera din e-postrubrik {#edit-your-email-header}
 
 E-postrubriken i Marketo är helt anpassningsbar. Det består av fyra fält:
 
-* **Från** - Avsändarens namn som du vill att det ska visas
-* **Från adress**  - Avsändarens e-postadress som du vill att den ska visas
-* **Svar till**  - Den e-postadress som du vill att en persons svar ska skickas till (kan vara en annan än Från adress)
-* **Ämne**  - E-postens ämnesrad
+* **Från** - Avsändarens namn så som du vill att det ska visas
+* **Från adress** - Avsändarens e-postadress så som du vill att den ska visas
+* **Svar till** - Den e-postadress som du vill att en persons svar ska skickas till (kan vara en annan än Från adress)
+* **Ämne** - E-postens ämnesrad
 
 Om du vill redigera dessa värden klickar du i varje fält och anger din information.
 
@@ -26,7 +25,7 @@ Om du vill redigera dessa värden klickar du i varje fält och anger din informa
 
 >[!TIP]
 >
->Om du vill ange ett standardvärde för Från namn och Från e-post läser du [Ändra standardvärdet från e-post och Från etikett](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md).
+>Information om hur du anger ett standardvärde för Från namn och Från e-post finns i [Ändra standard från e-post och från etikett](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md).
 
 Om du vill använda en variabel klickar du i det önskade fältet först och sedan på variabelikonen.
 

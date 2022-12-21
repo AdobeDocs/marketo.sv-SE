@@ -1,17 +1,16 @@
 ---
 unique-page-id: 10099413
-description: E-postinsikter skickar översikt - Marketo Docs - Produktdokumentation
+description: E-postinsikter skickar en översikt - Marketo Docs - produktdokumentation
 title: E-postinsikter - skicka översikt
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
-
-# E-postinsikter Skickar översikt {#email-insights-sends-overview}
+# E-postinsikter - skicka översikt {#email-insights-sends-overview}
 
 Granska egenskaperna för den senaste e-postkommunikationen på sidan Skicka.
 
@@ -25,11 +24,11 @@ Till höger på sidan finns det flera uppgifter om dina skickade e-postmeddeland
 
 ![](assets/two-1.png)
 
-**Typ** anger vilken typ av resurs som används.
-**Mottagarnummer** är hur många personer som har fått e-postmeddelandet.
-**Delivery** Metricsger dig en snabb översikt över hur många e-postmeddelanden som har levererats, väntar eller har studsat.\
-**Med Engagement** Metricsfår du en snabb överblick över hur många mottagare som har öppnat, klickat in och avbrutit en prenumeration via e-post.
-**Scoreis** your email&#39;s  [Engagement Score](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+**Typ** anger vilken typ av tillgång som används.
+**Mottagare** är antalet personer som har fått e-postmeddelandet.
+**Leveransmått** ger dig en snabb översikt över hur många e-postmeddelanden som har levererats, väntar eller har studsat.\
+**Engagement Metrics** ger dig en snabb vy över hur många mottagare som har öppnat, klickat på och avbrutit en prenumeration i ett e-postmeddelande.
+**Poäng** är din e-postadress [Engagement Score](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 Som standard sorteras dina e-postmeddelanden efter de senaste, men du kan sortera dem efter alla tillgängliga mätvärden.
 

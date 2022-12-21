@@ -3,7 +3,6 @@ unique-page-id: 1147110
 description: Clone a Program - Marketo Docs - produktdokumentation
 title: Klona ett program
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '236'
@@ -17,9 +16,9 @@ Klona snabbt och enkelt ett helt program och allt dess material i stället för 
 
 >[!PREREQUISITES]
 >
->Innan du går in bör du lära dig mer om [de bästa sätten att undvika korruption i klonade resurser](https://nation.marketo.com/t5/Knowledgebase/Avoiding-Corruption-in-Cloned-Assets/ta-p/249729).
+>Innan du ger dig in, läs mer om [bästa metoderna för att undvika korruption i klonade tillgångar](https://nation.marketo.com/t5/Knowledgebase/Avoiding-Corruption-in-Cloned-Assets/ta-p/249729).
 
-1. Sök efter och välj det program du vill klona och klicka sedan på **Klona** under **Programåtgärder**.
+1. Sök efter och välj det program som du vill klona, sedan under **Programåtgärder** klicka **Klona**.
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
@@ -27,7 +26,7 @@ Klona snabbt och enkelt ett helt program och allt dess material i stället för 
 
    >[!NOTE]
    >
-   >Program kan klonas till [kampanj](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [mappar](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) eller [arbetsytor](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Se till att du delar alla underliggande beroende resurser (e-post, kodavsnitt, mallar för landningssidor osv.) med målarbetsytan innan du klonar.
+   >Programmen kan klonas till [kampanj](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [mappar](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) eller [arbetsytor](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Se till att du delar alla underliggande beroende resurser (e-post, kodavsnitt, mallar för landningssidor osv.) med målarbetsytan innan du klonar.
 
    ![](assets/cloneto.png)
 

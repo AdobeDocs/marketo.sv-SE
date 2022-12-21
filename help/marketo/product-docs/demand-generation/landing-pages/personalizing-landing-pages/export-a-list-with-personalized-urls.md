@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359815
-description: Exportera en lista med personaliserade URL:er - Marketo Docs - Produktdokumentation
+description: Exportera en lista med anpassade URL:er - Marketo Docs - produktdokumentation
 title: Exportera en lista med anpassade URL:er
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: a267af34-9812-4994-b506-bba32e89e66c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
 
 ---
-
 
 # Exportera en lista med anpassade URL:er {#export-a-list-with-personalized-urls}
 
@@ -19,11 +18,11 @@ ht-degree: 0%
 >* [Aktivera anpassade URL:er för en landningssida](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
 
-1. Markera listan eller den smarta listan, klicka på fliken **Leads** för att få resultaten och klicka sedan på Excel-ikonen. INLINE Kontrollera att du har **Marketo Unik kod** och **Marketo Unikt namn** [kolumner synliga](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+1. Välj lista eller smart lista och klicka på **Leads** om du vill visa resultatet och sedan klicka på Excel-ikonen. INLINE Kontrollera att du har **Marketo Unique Code** och **Unikt namn för Marketo** [kolumner synliga](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
-1. Markera **Inkludera anpassad URL**, sök efter och välj den startsida som du vill generera URL:er för.
+1. Kontrollera **Inkludera anpassad URL** söker du efter och väljer den landningssida som du vill generera PURL:er för.
 
    ![](assets/image2014-9-18-13-3a36-3a42.png)
 
@@ -35,11 +34,11 @@ ht-degree: 0%
    >
    >Om du ser flera URL-adresser för samma landningssida beror det troligtvis på att du har ändrat sidans URL-adress någon gång tidigare och skapat en omdirigering.
 
-1. Välj ett **format** och klicka på **Exportera**.
+1. Välj en **Stil** och klicka **Exportera**.
 
    ![](assets/image2014-9-18-13-3a37-3a6.png)
 
-1. När exporten är klar klickar du på länken **Hämta nu** för att spara filen.
+1. När exporten är klar klickar du på **Ladda ned nu** för att spara filen.
 
    ![](assets/image2014-9-18-13-3a37-3a27.png)
 

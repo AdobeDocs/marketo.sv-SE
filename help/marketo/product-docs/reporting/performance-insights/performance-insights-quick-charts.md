@@ -2,14 +2,13 @@
 unique-page-id: 12980873
 description: Performance Insights Quick Charts - Marketo Docs - produktdokumentation
 title: Prestandainsikter, snabbdiagram
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
 
 ---
-
 
 # Prestandainsikter, snabbdiagram {#performance-insights-quick-charts}
 
@@ -19,7 +18,7 @@ Snabbdiagram är miniatyrbilder som du anpassar och sparar, vilket ger en snabb 
 
 Snabbdiagram härleds från data som du anger. I det här exemplet väljer vi: **nya affärsmöjligheter (första beröring), typ av affärsmöjlighet = ny affärsverksamhet, aktuellt år till dato**.
 
-1. Klicka på datumfiltret och välj **Aktuellt år (YTD)**.
+1. Klicka på datumfiltret och välj **Aktuellt år (hittills i år)**.
 
    ![](assets/1-2.png)
 
@@ -35,7 +34,7 @@ Snabbdiagram härleds från data som du anger. I det här exemplet väljer vi: *
 
    ![](assets/4-2.png)
 
-1. Ge snabbdiagrammet ett namn och klicka på **Spara**.
+1. Ge snabbdiagrammet ett namn och klicka **Spara**.
 
    ![](assets/5-3.png)
 
@@ -49,7 +48,7 @@ Ditt snabbdiagram är nu tillsammans med de andra.
 
 ## Visa befintliga snabbdiagram {#view-existing-quick-charts}
 
-1. Om du vill visa dina befintliga snabbdiagram klickar du bara på ikonen **Snabbdiagram**.
+1. Om du vill visa dina befintliga snabbdiagram klickar du bara på **Snabbdiagram** ikon.
 
    ![](assets/7-1.png)
 
@@ -57,7 +56,7 @@ Ditt snabbdiagram är nu tillsammans med de andra.
 
 Följ de här enkla stegen om du vill ta bort ett snabbdiagram.
 
-1. Klicka på ikonen **Snabbdiagram**.
+1. Klicka på **Snabbdiagram** ikon.
 
    ![](assets/8-1.png)
 
@@ -65,6 +64,6 @@ Följ de här enkla stegen om du vill ta bort ett snabbdiagram.
 
    ![](assets/9-2.png)
 
-1. Klicka på **Ta bort**.
+1. Klicka **Ta bort**.
 
    ![](assets/10-1.png)

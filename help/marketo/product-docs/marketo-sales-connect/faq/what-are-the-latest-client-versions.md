@@ -2,14 +2,13 @@
 unique-page-id: 14352422
 description: Vilka är de senaste klientversionerna? - Marketo Docs - produktdokumentation
 title: Vilka är de senaste klientversionerna?
-translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+exl-id: 00f3537e-358d-4540-b569-085674c360a4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 7%
 
 ---
-
 
 # Vilka är de senaste klientversionerna? {#what-are-the-latest-client-versions}
 

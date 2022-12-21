@@ -64,7 +64,7 @@ När du schemalägger en kampanj kan du klicka på länken för att se en lista 
 
 ## Vänta steg - Leadtoken och Min token {#wait-step-lead-token-and-my-token}
 
-I majversionen har vi lagt till avancerade alternativ för steget Vänta. Med dessa ändringar kan du ange en arbetsdag, ett datum och en tid. I den här versionen har vi lagt till möjligheten att använda en token i väntesteget. Du kan till exempel använda `{{lead.Birthday}}` för att skicka ett e-postmeddelande på födelsedagen, eller använda `{{my.Event Date}}` för att skicka en slutgiltig påminnelse för webbinariet.
+I majversionen har vi lagt till avancerade alternativ för steget Vänta. Med dessa ändringar kan du ange en arbetsdag, ett datum och en tid. I den här versionen har vi lagt till möjligheten att använda en token i väntesteget. Du kanske vill använda `{{lead.Birthday}}` för att skicka e-post på sin födelsedag, eller använda `{{my.Event Date}}` för att skicka en påminnelse till det sista webbinariet.
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 

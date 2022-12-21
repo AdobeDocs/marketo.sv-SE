@@ -2,7 +2,6 @@
 description: Exportera alla objektmetadata - Marketo Docs - produktdokumentation
 title: Exportera alla objektmetadata
 exl-id: 93ddf737-98db-4791-b526-d399c59147ee
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '76'
@@ -29,7 +28,7 @@ Med den här funktionen kan du exportera alla objekt och deras metadata.
 
 ## Exportera objektmetadata {#export-object-metadata}
 
-1. I My Marketo klickar du på **Admin**.
+1. I My Marketo klickar du på **Administratör**.
 
    ![](assets/export-all-object-metadata-1.png)
 
@@ -37,7 +36,7 @@ Med den här funktionen kan du exportera alla objekt och deras metadata.
 
    ![](assets/export-all-object-metadata-2.png)
 
-1. Klicka på **Exportera alla objekt**.
+1. Klicka **Exportera alla objekt**.
 
    ![](assets/export-all-object-metadata-3.png)
 

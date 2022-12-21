@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2359947
-description: Överför personer mellan engagemangsströmmar - Marketo Docs - Produktdokumentation
+description: Överför personer mellan engagemangsströmmar - Marketo Docs - produktdokumentation
 title: Överför personer mellan engagemangsströmmar
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 2367852c-3dcf-4188-a50c-7c6f0b0ff7bc
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
 
 ---
 
-
 # Överför personer mellan engagemangsströmmar {#transition-people-between-engagement-streams}
 
-Engagement-program kan ha fler än en ström. Om du [lägger till en ström](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md) måste du definiera ett sätt för personer att flytta från en ström till en annan. Dessa kallas **övergångsregler.**
+Engagement-program kan ha fler än en ström. Om du [lägga till en ström](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)ska du definiera ett sätt för människor att gå från en ström till en annan. Dessa kallas **övergångsregler.**
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/ma.png)
 
-1. Välj ditt multistreaming-engagemangsprogram och gå till **Streams**.
+1. Välj ditt multistreaming-engagemangsprogram och gå till **Strömmar**.
 
    ![](assets/multistream.jpg)
 
-1. Klicka på **Övergångsregler** för den ström du vill hämta från andra strömmar och klicka sedan på **Redigera övergångsregler**.
+1. Klicka **Övergångsregler** för den ström du vill hämta in från andra strömmar, och klicka sedan på **Redigera övergångsregler**.
 
    ![](assets/image2014-9-15-18-3a10-3a18.png)
 
@@ -35,7 +34,7 @@ Engagement-program kan ha fler än en ström. Om du [lägger till en ström](/he
 
    ![](assets/image2014-9-15-18-3a10-3a46.png)
 
-1. Låt oss ställa in operatorn på **är valfri** så att personerna flyttar över för varje tillagd möjlighet.
+1. Låt oss ställa in operatorn på **är** så att alla kan gå över för nya möjligheter.
 
    ![](assets/image2014-9-15-18-3a11-3a14.png)
 
@@ -43,7 +42,7 @@ Engagement-program kan ha fler än en ström. Om du [lägger till en ström](/he
    >
    >Du kan lägga till flera utlösare och filter i en övergångsregel, men övergångsregeln använder alla filter (det enda alternativet är att använda ALLA filter). Om du behöver använda ELLER i en övergångsregel rekommenderar vi att du i stället skapar en extern smart kampanj.
 
-1. Klicka på **Stäng**.
+1. Klicka **Stäng**.
 
    ![](assets/image2014-9-15-18-3a11-3a23.png)
 
@@ -53,4 +52,4 @@ Engagement-program kan ha fler än en ström. Om du [lägger till en ström](/he
 
    >[!NOTE]
    >
-   >Stegen ovan *do* gäller även personer som är [på paus](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md).
+   >Stegen som beskrivs ovan *do* gäller för personer som [vid paus](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md) också.

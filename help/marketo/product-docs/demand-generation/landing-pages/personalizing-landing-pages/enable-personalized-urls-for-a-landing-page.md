@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359803
-description: Aktivera anpassade URL:er för en landningssida - Marketo Docs - Produktdokumentation
+description: Aktivera anpassade URL:er för en landningssida - Marketo Docs - produktdokumentation
 title: Aktivera anpassade URL:er för en landningssida
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: d87486f6-da49-406e-b1cf-781caba596c1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
 
 ---
-
 
 # Aktivera anpassade URL:er för en landningssida {#enable-personalized-urls-for-a-landing-page}
 
@@ -23,7 +22,7 @@ Personaliserade URL:er passar utmärkt för e-postkampanjer i tryck.
 
    ![](assets/image2014-9-18-13-3a24-3a3.png)
 
-1. Nu kan du kontrollera **Aktivera anpassade URL:er** och klicka på **Spara**.
+1. Nu kan du kolla **Aktivera anpassade URL:er** och klicka **Spara**.
 
    ![](assets/image2014-9-18-13-3a23-3a53.png)
 

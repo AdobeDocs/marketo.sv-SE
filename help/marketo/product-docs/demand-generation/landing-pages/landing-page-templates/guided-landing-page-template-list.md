@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Lista med guidade landningssidmallar {#guided-landing-page-template-list}
 
-Bläddra i vår samling med exempelmallar, som du kan använda med [redigeraren för guidad landningssida](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Varje mall är helt responsiv och bygger på ramverket Bootstrap.
+Bläddra i vår samling med exempelmallar, som du kan använda med [Guidad redigering för landningssida](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Varje mall är helt responsiv och bygger på ramverket Bootstrap.
 
 >[!NOTE]
 >
@@ -23,9 +23,9 @@ Så här importerar du en mall till Marketo:
 1. Klicka på mallens namn för en större vy.
 1. Hämta den valda mallen.
 1. I Marketo går du till **Design Studio.**
-1. Klicka på **Startsidor** i det vänstra trädet och välj sedan **Mallar.**
+1. Klicka **Landningssidor** i det vänstra trädet väljer du **Mallar.**
 
-1. Klicka på **Importera mall på menyraden.**
+1. Klicka på **Importera mall.**
 1. Välj den hämtade filen, ange ett mallnamn och klicka sedan på **Importera** (se till att välja ett beskrivande namn och ange att redigeringsläget är **Guidad**).
 
 |  |  |  |

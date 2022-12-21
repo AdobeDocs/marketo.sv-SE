@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359400
-description: Välj ett formulärtema - Marketo Docs - Produktdokumentation
+description: Välj ett formulärtema - Marketo Docs - produktdokumentation
 title: Välj ett formulärtema
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
 
 ---
-
 
 # Välj ett formulärtema {#select-a-form-theme}
 
@@ -27,7 +26,7 @@ Vi har skapat en massa fina teman för dina formulär. Vilken tycker du bäst om
 
    ![](assets/image2014-9-15-17-7-7.png)
 
-1. Växla fram och tillbaka för att välja **Formulärtema** som du vill använda.
+1. Växla fram och tillbaka för att välja **Formulärtema** som du vill.
 
    ![](assets/image2014-9-15-17-3a7-3a20.png)
 
@@ -43,9 +42,9 @@ Vi har skapat en massa fina teman för dina formulär. Vilken tycker du bäst om
 
    >[!TIP]
    >
-   >Du kan även [redigera CSS för ditt formulärtema](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
+   >Du kan också [redigera CSS för ditt formulärtema](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
-1. Klicka på **Nästa** om du vill konfigurera andra formuläralternativ, eller klicka på **Slutför** om du bara vill ändra formulärtemat.
+1. Klicka **Nästa** för att konfigurera andra formuläralternativ, eller klicka på **Slutför** om du bara vill ändra formulärtemat.
 
    ![](assets/image2014-9-15-17-3a8-3a22.png)
 

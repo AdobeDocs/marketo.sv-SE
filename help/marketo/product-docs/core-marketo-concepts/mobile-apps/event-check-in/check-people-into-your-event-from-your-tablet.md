@@ -3,7 +3,6 @@ unique-page-id: 2949839
 description: Checka in personer i ditt event från din surfplatta - Marketo Docs - produktdokumentation
 title: Checka in personer i din aktivitet från surfplattan
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '815'
@@ -11,39 +10,39 @@ ht-degree: 0%
 
 ---
 
-# Checka in personer i din händelse från din surfplatta {#check-people-into-your-event-from-your-tablet}
+# Checka in personer i din aktivitet från surfplattan {#check-people-into-your-event-from-your-tablet}
 
 När någon visas vid ditt evenemang hittar du deras information i appen. Efter incheckning befordras de till tillagd status när du synkroniserar till Marketo.
 
-Appen fungerar likadant på både iPad och Android, förutom små skillnader i layout och design.
+Programmet fungerar på samma sätt på både iPad och Android, förutom små skillnader i layout och design.
 
 >[!PREREQUISITES]
 >
->* Skapa en händelse i Marketo och fyll i den med Inbjuden och registrerad person.
->* Hämta appen för surfplattan för [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) eller [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
+>* Skapa ett event i Marketo och fyll i det med Inbjuden och Registrerad person.
+>* Ladda ned appen för surfplattan för [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) eller [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
 
 
 ## Checka in registrerade gäster {#check-in-registered-guests}
 
-1. Tryck på appikonen på din iPad eller Android-surfplatta.
+1. Tryck på appikonen på din iPad- eller Android-surfplatta.
 
-1. Tryck på **Logga in** för att starta Marketo Event-appen.
+1. Tryck **Inloggning** för att starta Marketo Event-appen.
 
    ![](assets/1.jpg)
 
-1. Ange ditt användarnamn och lösenord för Marketo och klicka på **Logga in**.
+1. Ange ditt användarnamn och lösenord för Marketo och klicka på **Inloggning**.
 
    >[!NOTE]
    >
    >Du måste ha en roll med åtkomst till databasen för att kunna se personer i appen.
 
-1. Välj en **händelse**.
+1. Välj en **Händelse**.
 
    ![](assets/2.jpg)
 
    >[!TIP]
    >
-   >Endast evenemangsprogram (med undantag för webbinarier) som är schemalagda en vecka före och en vecka efter dagens datum visas.
+   >Endast händelseprogram (med undantag för webbinarier) som är schemalagda en vecka före och en vecka efter dagens datum visas.
 
 1. På hemskärmen kan du bläddra efter registrerade gäster. Om du vill hitta en person i listan kan du:
 
@@ -53,7 +52,7 @@ Appen fungerar likadant på både iPad och Android, förutom små skillnader i l
 
    >[!NOTE]
    >
-   >Processen är densamma på iPad och Android, men skärmarna skiljer sig åt och objekten kan finnas på olika platser. Den här artikeln innehåller iPad-gränssnittet. Jämför Android-skärmen i det här avsnittet för referens.
+   >Processen är densamma på iPad och Android, men skärmarna skiljer sig åt och objekten kan finnas på olika platser. I den här artikeln finns iPad gränssnitt. Jämför Android-skärmen i det här avsnittet för referens.
 
    **iPad**
 
@@ -63,7 +62,7 @@ Appen fungerar likadant på både iPad och Android, förutom små skillnader i l
 
    ![](assets/image2016-4-15-14-3a50-3a19.png)
 
-1. Tryck på det valda namnet och tryck på **Check-in** på personposten.
+1. Tryck på det valda namnet och tryck på personposten **Checka in**.
 
    ![](assets/img-0068-35-hands.png)
 
@@ -79,13 +78,13 @@ Gästen har nu statusen Attended och får en bock. Personposten uppdateras när 
 
 >[!TIP]
 >
->Om en person är inbjuden men inte har registrerat sig kan du söka efter namnet genom att klicka på **Sök på servern**, precis nedanför sökrutan. Status för Inbjuden ändras till **Attended** för händelsen.
+>Om en person är inbjuden men inte har registrerat sig kan du söka efter namnet genom att klicka på **Sök på servern**, precis nedanför sökrutan. Status för Inbjuden ändras till **Anmäld** för händelsen.
 
 ## Skapa en ny person på surfplattan {#create-a-new-person-on-the-tablet}
 
 Du kan lägga till gäster som inte finns i din Marketo-databas manuellt. De checkas in automatiskt och läggs till i din databas när du synkroniserar med Marketo.
 
-1. Klicka på **Lägg till**.
+1. Klicka **Lägg till**.
 
    **iPad**
 
@@ -95,7 +94,7 @@ Du kan lägga till gäster som inte finns i din Marketo-databas manuellt. De che
 
    ![](assets/image2016-4-15-15-3a2-3a38.png)
 
-1. Fyll i så många grundläggande informationsfält du kan och tryck på **Klar**.
+1. Fyll i så många grundläggande informationsfält du kan och tryck **Klar**.
 
    ![](assets/image2016-4-15-11-3a33-3a59.png)
 
@@ -111,9 +110,9 @@ Den nya personen registreras som incheckad till din händelse och läggs till i 
 
 ## Invertera en incheckning {#reverse-a-check-in}
 
-Om du checkade in en person av misstag, _innan du synkroniserade med Marketo_, kan du vända på statusen Bifogad.
+Om du checkade in en person av misstag _innan du synkroniserar med Marketo_ kan du vända på statusen för Bifogad.
 
-1. Tryck på namnet i listan och tryck på **Ångra** i personposten.
+1. Tryck på namnet i listan och tryck sedan på **Ångra**.
 
    ![](assets/image2016-4-15-11-3a38-3a31.png)
 
@@ -127,13 +126,13 @@ Du kan lägga till och ändra gästinformation direkt vid evenemanget!
 
    ![](assets/image2016-4-15-11-3a43-3a46.png)
 
-1. Redigera och lägg till information i fälten och tryck sedan på **Klar**.
+1. Redigera och lägga till information i fälten och tryck sedan på **Klar**.
 
    ![](assets/image2016-4-15-11-3a50-3a18.png)
 
    >[!NOTE]
    >
-   >I Android kan knappen **Klar** vara dold. Bläddra ned för att hitta den.
+   >I Android visas **Klar** knappen kan vara dold. Bläddra ned för att hitta den.
 
 Informationen uppdateras när du synkroniserar appen med Marketo.
 
@@ -147,7 +146,7 @@ Appen Marketo Events fungerar oberoende tills du synkroniserar din aktivitet med
 
 1. Öppna appen på surfplattan och navigera till din aktivitet.
 
-1. Tryck på **Synkronisera**.
+1. Tryck **Synkronisera**.
 
    Din aktivitet uppdateras med nya incheckningar i Marketo-databasen. Den röda räknaren på knappen Synkronisera avmarkeras tills du checkar in någon annan.
 

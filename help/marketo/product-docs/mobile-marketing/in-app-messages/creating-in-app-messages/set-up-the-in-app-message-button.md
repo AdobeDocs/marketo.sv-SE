@@ -1,15 +1,14 @@
 ---
 unique-page-id: 10100644
-description: Ställa in meddelandeknappen i appen - Marketo Docs - produktdokumentation
+description: Konfigurera meddelandeknappen i appen - Marketo Docs - produktdokumentation
 title: Konfigurera meddelandeknappen i appen
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: de03da9d-241e-4d6e-8eb5-3096ddf294ce
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 0%
 
 ---
-
 
 # Konfigurera meddelandeknappen i appen {#set-up-the-in-app-message-button}
 
@@ -19,11 +18,11 @@ Du kan använda standardknappdesignen, ändra den eller överföra en egen anpas
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
-1. Om du vill ändra färg på standardknappen klickar du på knappen **Färg**.
+1. Om du vill ändra färg på standardknappen klickar du på **Färg** -knappen.
 
    ![](assets/image2016-5-6-15-3a10-3a38.png)
 
-1. Klicka på färgmarkeringsrutan och markera knappfärgen genom att klicka på den eller ange den med hexadecimala värden eller RGB-värden i färgväljaren.
+1. Klicka på färgmarkeringsrutan och markera knappfärgen genom att klicka på den eller ange den med siffrorna Hex eller RGB i färgväljaren.
 
    ![](assets/image2016-5-6-15-3a14-3a8.png)
 
@@ -31,7 +30,7 @@ Du kan använda standardknappdesignen, ändra den eller överföra en egen anpas
 
    ![](assets/image2016-5-6-15-3a16-3a26.png)
 
-1. Om du vill använda en egen bild för en knapp klickar du på knappen Bild och sedan på **Välj bild**.
+1. Om du vill använda en egen bild för en knapp klickar du på knappen Bild och klickar på **Välj bild**.
 
    ![](assets/image2016-5-6-15-3a18-3a18.png)
 
@@ -43,7 +42,7 @@ Du kan använda standardknappdesignen, ändra den eller överföra en egen anpas
    >
    >När du monterar en anpassad bild för knappen bör du rensa platshållartexten som finns över knappen om bilden innehåller text.
 
-1. Klicka på färgmarkeringsrutan och markera sedan teckensnittsfärgen genom att klicka på den eller ange Hex- eller RGB-värden i färgväljaren.
+1. Klicka på färgmarkeringsrutan och markera sedan teckensnittsfärgen genom att klicka på den eller genom att ange hexadecimala eller RGB i färgväljaren.
 
    ![](assets/image2016-5-6-16-3a39-3a4.png)
 
@@ -71,7 +70,7 @@ Du kan använda standardknappdesignen, ändra den eller överföra en egen anpas
    >
    >Knappen har alltid en tryckåtgärd, så kryssrutan Knacka åtgärd markeras automatiskt med standardmeddelandet&quot;Stäng meddelande&quot;.
 
-Nästan klart. Det sista steget är att [konfigurera bakgrunden för ditt meddelande i appen och stänga knappen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
+Nästan klart. Det sista steget är att [konfigurera bakgrunden för ditt meddelande i appen och knappen Stäng](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
 
 >[!MORELIKETHIS]
 >

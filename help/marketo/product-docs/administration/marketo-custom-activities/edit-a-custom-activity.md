@@ -3,7 +3,6 @@ unique-page-id: 10100269
 description: Redigera en anpassad aktivitet - Marketo Docs - produktdokumentation
 title: Redigera en anpassad aktivitet
 exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
@@ -15,11 +14,11 @@ ht-degree: 0%
 
 Behöver du ändra en anpassad aktivitet som du redan har skapat? Så här gör du.
 
-1. Klicka på **Admin**.
+1. Klicka **Administratör**.
 
    ![](assets/one-1.png)
 
-1. I **Databashantering** klickar du på **Anpassade aktiviteter**.
+1. I **Databashantering** klicka **Anpassade aktiviteter**.
 
    ![](assets/two-1.png)
 
@@ -27,7 +26,7 @@ Behöver du ändra en anpassad aktivitet som du redan har skapat? Så här gör 
 
    ![](assets/three-1.png)
 
-1. Klicka på **Anpassade aktivitetsåtgärder** och välj **Redigera aktivitet**.
+1. Klicka **Anpassade aktivitetsåtgärder** och markera **Redigera aktivitet**.
 
    ![](assets/four-1.png)
 

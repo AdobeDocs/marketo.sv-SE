@@ -3,7 +3,6 @@ unique-page-id: 2360293
 description: Byt namn på ett fält - Marketo Docs - produktdokumentation
 title: Byta namn på ett fält
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '124'
@@ -29,11 +28,11 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Klicka på länken **Används av** för att hitta resurser som refererar till det här fältet.
+   >Klicka på **Används av** om du vill söka efter resurser som refererar till det här fältet.
 
    ![](assets/changefieldname.png)
 
-1. Byt namn på fältet och klicka på **Spara**.
+1. Byt namn på fältet och klicka **Spara**.
 
    ![](assets/image2014-9-24-14-2-55.png)
 

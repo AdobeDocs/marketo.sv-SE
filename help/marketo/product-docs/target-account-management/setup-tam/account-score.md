@@ -1,15 +1,14 @@
 ---
 unique-page-id: 11380774
-description: Kontopoäng - Marketo Docs - Produktdokumentation
+description: Kontopoäng - Marketo Docs - produktdokumentation
 title: Kontopoäng
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
 
 ---
-
 
 # Kontopoäng {#account-score}
 
@@ -40,11 +39,11 @@ I B2B-inköpsprocessernas komplexa värld är det sällan en enskild person fatt
  </tbody>
 </table>
 
-## Konfigurera kontopoäng {#how-to-configure-account-score}
+## Så här konfigurerar du kontopoäng {#how-to-configure-account-score}
 
 >[!NOTE]
 >
->Om du vill beräkna kontopoäng måste du först skapa poängpoäng. Marketo TAM samlar automatiskt in poängpoäng från leads till kontopoäng. Vi tar till exempel två av de ovanstående exemplen (_Intressepoäng för kontoprodukt_ och _Resultat för webbengagemang_).
+>Om du vill beräkna kontopoäng måste du först skapa poängpoäng. Marketo TAM samlar automatiskt in poäng från leads till kontouppgifter. Vi tar till exempel två av de ovanstående exemplen (_Räntepoäng för kontoprodukt_ och _Resultat för webbengagemang för konto_).
 >
 >Skapa först fält för lead-poäng som hämtar relevant information från varje lead i ett målkonto.\
 >Tilldela sedan dessa lead scores till respektive kontopoäng:\
@@ -57,15 +56,15 @@ I B2B-inköpsprocessernas komplexa värld är det sällan en enskild person fatt
 
 När du har konfigurerat lead-poängen fortsätter du genom att följa stegen nedan.
 
-1. Klicka på **Admin**.
+1. Klicka **Administratör**.
 
    ![](assets/one-1.png)
 
-1. Klicka på **Hantering av målkonto**.
+1. Klicka **Hantering av målkonto**.
 
    ![](assets/account-score-2.png)
 
-1. Klicka på **Redigera** i bedömningsfält.
+1. Klicka på Betygsfält **Redigera**.
 
    ![](assets/account-score-3.png)
 
@@ -73,14 +72,14 @@ När du har konfigurerat lead-poängen fortsätter du genom att följa stegen ne
    >
    >Du kan välja upp till **fem** fält för att beräkna kontouppsättningen.
 
-1. Ange namnet på kontouppsättningen, klicka på listrutan **Välj personpoäng** och välj motsvarande poäng.
+1. Ange namnet på kontouppsättningen och klicka på **Välj personpoäng** och välj bakgrundsmusik.
 
    ![](assets/four.png)
 
-1. Klicka på **+Lägg till** om du vill lägga till fler bakgrundsmusik.
+1. Klicka **+Lägg till** för att lägga till fler bakgrundsmusik.
 
    ![](assets/five.png)
 
-1. Lägg till alla önskade bakgrundsmusik. Klicka på **Spara** när du är klar.
+1. Lägg till alla önskade bakgrundsmusik. Klicka **Spara** när det är klart.
 
    ![](assets/six.png)

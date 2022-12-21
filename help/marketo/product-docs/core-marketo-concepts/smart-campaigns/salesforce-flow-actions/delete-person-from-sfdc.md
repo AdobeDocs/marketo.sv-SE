@@ -3,7 +3,6 @@ unique-page-id: 1147031
 description: Ta bort person från SFDC - Marketo Docs - produktdokumentation
 title: Ta bort person från SFDC
 exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
@@ -19,7 +18,7 @@ Om du behöver ta bort en viss uppsättning leads från Salesforce men låta dem
 >
 >Endast tillgängligt när det är integrerat med Salesforce.
 
-1. Klicka i databasen på den person som du vill ta bort från Salesforce. Klicka sedan på **Personåtgärder** och välj **Salesforce**.
+1. Klicka i databasen på den person som du vill ta bort från Salesforce. Klicka sedan på **Personåtgärder** och markera **Salesforce**.
 
    ![](assets/person-actions-salesforce.png)
 
@@ -27,7 +26,7 @@ Om du behöver ta bort en viss uppsättning leads från Salesforce men låta dem
 
    ![](assets/delete-person-from-sfdc.png)
 
-1. Kontrollera att inställningen **Ta bort i Marketo** är **false** och klicka sedan på **Kör nu**.
+1. Se till att **Ta bort i Marketo** inställningen är **false** och sedan klicka **Kör nu**.
 
    ![](assets/run-action-delete-lead-from-sfdc.png)
 
@@ -35,4 +34,4 @@ Om du behöver ta bort en viss uppsättning leads från Salesforce men låta dem
 
    >[!CAUTION]
    >
-   >Om du anger **Ta bort i Marketo** till **true** och tar bort personer från Marketo och leads från Salesforce är de borta för alltid. Det här kan inte ångras.
+   >Om du anger **Ta bort i Marketo** till **true** och ta bort personer från Marketo och leads från Salesforce är de borta för evigt. Det här kan inte ångras.

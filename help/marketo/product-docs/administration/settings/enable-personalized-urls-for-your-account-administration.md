@@ -3,7 +3,6 @@ unique-page-id: 2360215
 description: Aktivera anpassade URL:er för ditt konto (administration) - Marketo Docs - produktdokumentation
 title: Aktivera anpassade URL:er för ditt konto (administration)
 exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
@@ -19,15 +18,15 @@ Personaliserade URL:er passar utmärkt för e-postkampanjer i tryck.
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **Admin** och klicka på **Startsidor**.
+1. Gå till **Administratör** och klicka **Landningssidor**.
 
    ![](assets/image2014-9-24-11-3a38-3a51.png)
 
-1. Klicka på **Redigera**.
+1. Klicka **Redigera**.
 
    ![](assets/image2014-9-24-11-3a39-3a6.png)
 
-1. Markera rutan **Aktivera anpassade URL:er** och klicka på **Spara**.
+1. Kontrollera **Aktivera anpassade URL:er** och klicka **Spara**.
 
    ![](assets/image2014-9-24-11-3a39-3a41.png)
 

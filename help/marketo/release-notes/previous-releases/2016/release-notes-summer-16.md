@@ -18,9 +18,9 @@ Följande funktioner ingår i sommarversionen 16. Se om det finns funktioner i d
 
 Marketo Account Based Marketing innehåller allt i en och samma plattform:
 
-* **Mål**  - Kontoidentifiering, Lead till konto-matchning och Named Account Lists
-* **Engagemang**  - kontobaserad personalisering, flerkanalsengagemang och kontospecifika arbetsflöden
-* **Mät**  - Insikter på konto- och listnivå, poäng för kontoengagemang och påverkan på pipeline och intäkter
+* **Mål** - Kontoidentifiering, kontomatchning och namngivna kontolistor
+* **Engagera** - Kontobaserad personalisering, flerkanalsengagemang och kontospecifika arbetsflöden
+* **Mät** - Insikter på konto- och listnivå, kundengagemangspoäng samt pipeline- och intäktseffekt
 
 ![](assets/abm-5-acme.png)
 
@@ -59,7 +59,7 @@ Tidigare var alla variabler som angavs i e-postmallar&quot;globala&quot; i omfå
 **Syntaxuppdateringar**
 
 * Du kan nu använda mktoAddByDefault för moduler som anges i e-postmallar 2.0 för att ange vilka moduler som ska visas i nya e-postmeddelanden som standard. Detta är mycket bekvämare om du skapar en e-postmall med ett stort antal moduler.
-* På bildelement kan du nu ange om det underliggande HTML-elementets &quot;height&quot; och &quot;width&quot; ska vara låsta eller redigerbara för slutanvändaren. `<img>` mktoLockImgSize=&quot;true&quot; gör att höjd/bredd låses (även om bilden ändras). På samma sätt kommer mktoLockImgStyle=&quot;true&quot; att göra så att egenskapen &quot;style&quot; låses.
+* På bildelement kan du nu ange om den underliggande `<img>` HTML-elementets &quot;height&quot; och &quot;width&quot;-egenskaper ska vara låsta eller redigerbara för slutanvändaren. mktoLockImgSize=&quot;true&quot; gör att höjd/bredd låses (även om bilden ändras). På samma sätt kommer mktoLockImgStyle=&quot;true&quot; att göra så att egenskapen &quot;style&quot; låses.
 
 **Kodsökning**
 
@@ -69,7 +69,7 @@ Använd den nya sökfunktionen för att effektivt söka och ersätta innehåll i
 
 **Token Support i Image Elements**
 
-Token kan nu användas i området &quot;Extern URL&quot; i infogningsbildens upplevelse! Om du har angett bilder med `{{my.tokens}}` kan du nu referera till dessa variabler i e-postredigeraren 2.0. Observera att bilden fortfarande visas som skadad på arbetsytan i e-postredigeraren 2.0. Men du kommer att se dem renderade i Förhandsgranska och Skicka exempel innan du skickar ut ditt e-postmeddelande.
+Token kan nu användas i området &quot;Extern URL&quot; i infogningsbildens upplevelse! Om du har angett bilder med `{{my.tokens}}`kan du nu referera till dessa variabler i e-postredigeraren 2.0. Observera att bilden fortfarande visas som skadad på arbetsytan i e-postredigeraren 2.0. Men du kommer att se dem renderade i Förhandsgranska och Skicka exempel innan du skickar ut ditt e-postmeddelande.
 
 ## Flera profildomäner {#multiple-branding-domains}
 

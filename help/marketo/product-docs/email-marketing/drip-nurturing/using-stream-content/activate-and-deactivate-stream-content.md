@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359669
-description: Aktivera och inaktivera ströminnehåll - Marketo Docs - Produktdokumentation
+description: Aktivera och inaktivera ströminnehåll - Marketo Docs - produktdokumentation
 title: Aktivera och inaktivera ströminnehåll
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
-
 
 # Aktivera och inaktivera ströminnehåll {#activate-and-deactivate-stream-content}
 
@@ -21,11 +20,11 @@ Ströminnehållet är AV som standard. Aktivera innehåll för att skicka ut det
 
    ![](assets/login-marketing-activities.png)
 
-1. Välj ditt engagemangsprogram och klicka på fliken **Streams**.
+1. Välj engagemangsprogram och klicka på **Strömmar** -fliken.
 
    ![](assets/cloneasteam.jpg)
 
-1. Håll pekaren över det innehåll du vill aktivera, klicka på kugghjulsikonen och klicka sedan på **Aktivera**.
+1. Håll muspekaren över det innehåll du vill aktivera, klicka på kugghjulsikonen och klicka sedan på **Aktivera**.
 
    >[!NOTE]
    >
@@ -41,10 +40,10 @@ Ströminnehållet är AV som standard. Aktivera innehåll för att skicka ut det
 
 ## Inaktivera ströminnehåll {#deactivate-stream-content}
 
-1. Välj ditt engagemangsprogram och klicka på fliken **Streams**.
+1. Välj engagemangsprogram och klicka på **Strömmar** -fliken.
 
    ![](assets/cloneasteam.jpg)
 
-1. Håll pekaren över det innehåll du vill inaktivera, klicka på kugghjulsikonen och klicka sedan på **Inaktivera**.
+1. Håll muspekaren över det innehåll du vill inaktivera, klicka på kugghjulsikonen och klicka sedan på **Inaktivera**.
 
    ![](assets/image2014-9-15-16-3a34-3a25.png)

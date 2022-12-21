@@ -1,15 +1,14 @@
 ---
 unique-page-id: 14352506
-description: Redigera en mallkategori - Marketo Docs - Produktdokumentation
+description: Redigera en mallkategori - Marketo Docs - produktdokumentation
 title: Redigera en mallkategori
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+exl-id: ae7c9db2-78d3-497c-9752-77304b9ab3d8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
 
 ---
-
 
 # Redigera en mallkategori {#edit-a-template-category}
 

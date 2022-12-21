@@ -1,15 +1,14 @@
 ---
 unique-page-id: 30081230
-description: Massåtgärder för människor - Marketo Docs - Produktdokumentation
+description: Massåtgärder för människor - Marketo Docs - produktdokumentation
 title: Massåtgärder för personer
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
-
 
 # Massåtgärder för personer {#bulk-actions-on-people}
 
@@ -19,7 +18,7 @@ Det första steget för alla tillgängliga gruppåtgärder är att markera två 
 
 ![](assets/one-3.png)
 
-## Lägg till personer i gruppen {#add-people-to-group}
+## Lägg till personer i grupp {#add-people-to-group}
 
 Lägg till flera personer i en grupp samtidigt.
 
@@ -37,7 +36,7 @@ Vi tilldelar automatiskt en källa till varje kontakt som matas in i databasen. 
 
 ## Behörighet {#authorization}
 
-I enlighet med [GDPR](https://eugdpr.org/), använd behörigheten för att ange hur du fick behörighet att interagera med dessa kontakter.
+I enlighet med [GDPR](https://eugdpr.org/)använder du behörigheten för att ange hur du fick behörighet att interagera med dessa kontakter.
 
 ![](assets/authorization.png)
 

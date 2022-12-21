@@ -35,7 +35,7 @@ Att skicka e-postmeddelanden i grupp är ett bra sätt att öka engagemanget hos
   </tr> 
   <tr> 
    <td>Gruppe-post</td> 
-   <td>1 000</td> 
+   <td>1,000</td> 
    <td>Markera en grupp och klicka på knappen "Gruppera åtgärder" eller skriv gruppnamnet i fältet Till.</td> 
    <td>Ja</td> 
    <td>Nej</td> 

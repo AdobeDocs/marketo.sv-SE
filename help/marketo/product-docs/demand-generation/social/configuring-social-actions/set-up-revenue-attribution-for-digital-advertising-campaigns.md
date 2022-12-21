@@ -73,7 +73,7 @@ Till skillnad från vissa program (till exempel e-post) som kan köras regelbund
 
 1. Schemalägg och aktivera kampanjen.
 
-## Skapa en smart kampanj för status/lyckat program {#create-a-smart-campaign-for-status-program-success}
+## Skapa en smart kampanj för status/program lyckades {#create-a-smart-campaign-for-status-program-success}
 
 Ni behöver en andra smart kampanj för att ändra personernas status, så att de kan uppnå programframgångar och inkluderas i intäktsattribueringsberäkningarna.
 
@@ -122,6 +122,6 @@ Använd en enda kanaltagg för att representera all digital annonsering, eller a
 
 Skapa sedan olika program för varje rapportvy du behöver. Använd ett gemensamt ID som parameter i URL:en (till exempel BC) i frågesträngen om du har 10 regioner som startar en&quot;Big Campaign&quot; tillsammans och vill kunna visa resultat i olika regioner.
 
-Om ni vill rapportera om varje region och de samlade resultaten av Big Campaign skapar ni 11 program - ett för varje region och ett för Big Campaign. Varje program refererar endast de relevanta tecknen från frågesträngen (till exempel BC).
+Om ni vill rapportera om varje region och de kollektiva resultaten av Big Campaign skapar ni 11 program - ett för varje region och ett för Big Campaign. Varje program refererar endast de relevanta tecknen från frågesträngen (till exempel BC).
 
 Det finns avsiktlig överlappning mellan Big Campaign och regionsprogrammen, så du vill inte rapportera om det totala antalet människor i alla elva programmen, eftersom vissa finns både i Big Campaign och i ett av regionsprogrammen.

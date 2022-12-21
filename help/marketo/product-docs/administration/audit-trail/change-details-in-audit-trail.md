@@ -3,7 +3,6 @@ unique-page-id: 11379928
 description: Ändra detaljer i granskningsspår - Marketo Docs - produktdokumentation
 title: Ändra detaljer i granskningsspår
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1913'
@@ -32,7 +31,7 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
   <tr> 
    <td rowspan="15"><strong>Standardprogram</strong><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Skapa</td> 
-   <td>Kanaltypen "kanaltyp"<br>eller<br>Klonad från "programnamn"</td> 
+   <td>Kanaltyp "kanaltyp"<br>eller<br>Klonat från "programnamn"</td> 
   </tr> 
   <tr> 
    <td>Byt namn</td> 
@@ -40,7 +39,7 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
   </tr> 
   <tr> 
    <td>Klona</td> 
-   <td>Klonad till arbetsytans "arbetsytans namn" <br>Plats "kampanjmapp" eller "engagemangsprogram" <br>Klonat programnamn "nytt namn"</td> 
+   <td>Klonad till arbetsytans"namn på arbetsyta" <br>Platsen"Campaign folder" eller"engagement program" <br>Klonat programnamn "new name"</td> 
   </tr> 
   <tr> 
    <td>Ta bort</td> 
@@ -137,7 +136,7 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
   </tr> 
   <tr> 
    <td>Redigera</td> 
-   <td>Redigera modul <code>"<module name>" <attribute></code> till "value"</td> 
+   <td>Redigera modul <module name><attribute> till "value"</td> 
   </tr> 
   <tr> 
    <td>Ta bort</td> 
@@ -149,11 +148,11 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
   </tr> 
   <tr> 
    <td>Klona</td> 
-   <td>Klonad till "Design studio" i mappen "foldername" <br>Klonat resursnamn "name"<br>eller<br>Klonad till "Marketing Activities" i programmet "program name"<br>Klonat resursnamn "name"</td> 
+   <td>Klonad till "Design studio" i mappen "foldername" <br>Namn på klonad resurs<br>eller<br>Klonat till"marknadsföringsaktiviteter" i programmet"programnamn"<br>Namn på klonad resurs</td> 
   </tr> 
   <tr> 
    <td>Flytta</td> 
-   <td>Flyttad till "Design studio" i mappen "folder name"<br>eller<br>Flyttad till "Marketing tasks" i programmet "program name"</td> 
+   <td>Flyttad till Design Studio i mappen "folder name"<br>eller<br>Flyttad till"Marknadsföringsaktiviteter" till"programnamn"</td> 
   </tr> 
   <tr> 
    <td>Godkänn</td> 
@@ -165,11 +164,11 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
   </tr> 
   <tr> 
    <td>Utkast</td> 
-   <td>E-postmeddelandet har skrivits ut eftersom fragmentets"kodavsnittsnamn" godkändes<br>eller<br>E-postmeddelandet skapades eftersom mallens"mallnamn" godkändes</td> 
+   <td>E-postmeddelandet har skrivits eftersom fragmentets"kodavsnittsnamn" godkändes<br>eller<br>E-postmeddelandet har skrivits eftersom mallnamnet har godkänts</td> 
   </tr> 
    <td rowspan="17">E-postprogram</td> 
    <td>Skapa</td> 
-   <td>Kanaltypen "kanaltyp"<br>eller<br>Klonad från "programnamn"</td> 
+   <td>Kanaltyp "kanaltyp"<br>eller<br>Klonat från "programnamn"</td> 
   </tr> 
   <tr> 
    <td colspan="1">Byt namn</td> 
@@ -177,7 +176,7 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
   </tr> 
   <tr> 
    <td>Klona</td> 
-   <td>Klonad till arbetsytans "arbetsytans namn" <br>Plats "Kampanjmapp eller engagemangsprogram" <br>Klonat programnamn "nytt namn"</td> 
+   <td>Klonad till arbetsytans"namn på arbetsyta" <br>Platsen"Campaign folder or engagement program" <br>Klonat programnamn "new name"</td> 
   </tr> 
   <tr> 
    <td>Ta bort</td> 
@@ -217,7 +216,7 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
   </tr> 
   <tr> 
    <td>Ändra programinställningar</td> 
-   <td>Redigera analysbeteendet"beteendenamn"<br>Gammalt beteende"beteendenamn"</td> 
+   <td>Redigera analysbeteendet"beteendenamn"<br>Gammalt beteendenamn</td> 
   </tr> 
   <tr> 
    <td>Ändra programinställningar</td> 
@@ -246,7 +245,7 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
   </tr> 
   <tr> 
    <td>Redigera</td> 
-   <td>HTML-redigerad</td> 
+   <td>HTML har redigerats</td> 
   </tr> 
   <tr> 
    <td>Ta bort</td> 
@@ -258,7 +257,7 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
   </tr> 
   <tr> 
    <td>Klona</td> 
-   <td>Klonat till "mappnamn" <br> Namnet "namn" för den klonade resursen</td> 
+   <td>Klonat till "mappnamn" <br> Namn på klonad resurs</td> 
   </tr> 
   <tr> 
    <td>Godkänn</td> 
@@ -271,7 +270,7 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
   <tr> 
    <td rowspan="23">Engagement Program</td> 
    <td>Skapa</td> 
-   <td>Kanaltypen "kanaltyp"<br> eller<br> Klonad från "programnamn"</td> 
+   <td>Kanaltyp "kanaltyp"<br> eller<br> Klonat från "programnamn"</td> 
   </tr> 
   <tr> 
    <td>Byt namn</td> 
@@ -279,7 +278,7 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
   </tr> 
   <tr> 
    <td>Klona</td> 
-   <td>Klonad till arbetsytans "arbetsytans namn" <br>Plats "Kampanjmapp eller engagemangsprogram" <br>Klonat programnamn "nytt namn"</td> 
+   <td>Klonad till arbetsytans"namn på arbetsyta" <br>Platsen"Campaign folder or engagement program" <br>Klonat programnamn "new name"</td> 
   </tr> 
   <tr> 
    <td>Ta bort</td> 
@@ -303,19 +302,19 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
   </tr> 
   <tr> 
    <td>Ändra programström</td> 
-   <td>Lägg till innehåll<br>Steam name "stream name"<br>Skriv "Email" eller "Program"<br>Namn "email name" eller "program name"<br>Smart Campaign "smart campaign name"</td> 
+   <td>Lägg till innehåll<br>Steam name "stream name"<br>Skriv "Email" eller "Program"<br>Namnet"e-postnamn" eller"programnamn"<br>Smart Campaign -"smart kampanjnamn"</td> 
   </tr> 
   <tr> 
    <td>Ändra programström</td> 
-   <td>Aktivera innehåll<br>Strömnamn "strömnamn"<br>Innehållsnamn "e-postnamn" eller "programnamn"</td> 
+   <td>Aktivera innehåll<br>Strömnamnet"strömnamn"<br>Innehållsnamnet"e-postnamn" eller"programnamn"</td> 
   </tr> 
   <tr> 
    <td>Ändra programström</td> 
-   <td>Inaktivera innehåll<br>Strömnamn "strömnamn"<br>Innehållsnamn "e-postnamn" eller "programnamn"</td> 
+   <td>Inaktivera innehåll<br>Strömnamnet"strömnamn"<br>Innehållsnamnet"e-postnamn" eller"programnamn"</td> 
   </tr> 
   <tr> 
    <td>Ändra programström</td> 
-   <td>Ta bort innehåll<br>Strömnamn "strömnamn"<br>Innehållsnamn "e-postnamn" eller "programnamn"</td> 
+   <td>Ta bort innehåll<br>Strömnamnet"strömnamn"<br>Innehållsnamnet"e-postnamn" eller"programnamn"</td> 
   </tr> 
   <tr> 
    <td>Ändra programtoken</td> 
@@ -335,7 +334,7 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
   </tr> 
   <tr> 
    <td>Ändra programinställningar</td> 
-   <td>Redigera analysbeteendet"beteendenamn"<br>Gammalt beteende"beteendenamn"</td> 
+   <td>Redigera analysbeteendet"beteendenamn"<br>Gammalt beteendenamn</td> 
   </tr> 
   <tr> 
    <td>Ändra programinställningar</td> 
@@ -364,7 +363,7 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
   <tr> 
    <td rowspan="18">Event Program</td> 
    <td>Skapa</td> 
-   <td>Kanaltypen "kanaltyp"<br>eller<br>Klonad från "programnamn"</td> 
+   <td>Kanaltyp "kanaltyp"<br>eller<br>Klonat från "programnamn"</td> 
   </tr> 
   <tr> 
    <td>Byt namn</td> 
@@ -376,7 +375,7 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
   </tr> 
   <tr> 
    <td>Klona</td> 
-   <td>Klonad till arbetsytans "arbetsytans namn" <br>Plats "kampanjmapp" eller "engagemangsprogram" <br>Klonat programnamn "nytt namn"</td> 
+   <td>Klonad till arbetsytans"namn på arbetsyta" <br>Platsen"kampanjmapp" eller"engagemangsprogram" <br>Klonat programnamn "new name"</td> 
   </tr> 
   <tr> 
    <td>Redigera kanal</td> 
@@ -408,7 +407,7 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
   </tr> 
   <tr> 
    <td>Ändra programinställningar</td> 
-   <td>Redigera analysbeteendet"beteendenamn"<br>Gammalt beteende"beteendenamn"</td> 
+   <td>Redigera analysbeteendet"beteendenamn"<br>Gammalt beteendenamn</td> 
   </tr> 
   <tr> 
    <td>Ändra programinställningar</td> 
@@ -482,11 +481,11 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
   </tr> 
   <tr> 
    <td>Klona</td> 
-   <td>Klonad till "Design studio" i mappen "foldername" <br>Klonat resursnamn "name"<br>eller<br>Klonad till "Marketing Activities" i programmet "program name"<br>Klonat resursnamn "name"</td> 
+   <td>Klonad till "Design studio" i mappen "foldername" <br>Namn på klonad resurs<br>eller<br>Klonat till"marknadsföringsaktiviteter" i programmet"programnamn"<br>Namn på klonad resurs</td> 
   </tr> 
   <tr> 
    <td>Flytta</td> 
-   <td>Flyttad till "Design studio" i mappen "folder name"<br>eller<br>Flyttad till "Marketing tasks" i programmet "program name"</td> 
+   <td>Flyttad till Design Studio i mappen "folder name"<br>eller<br>Flyttad till"Marknadsföringsaktiviteter" till"programnamn"</td> 
   </tr> 
   <tr> 
    <td>Forms</td> 
@@ -520,11 +519,11 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
   </tr> 
   <tr> 
    <td>Klona</td> 
-   <td>Klonad till"Design studio" i mappen"foldername"<br>Klonat resursnamn"name"<br>Klonad resurs-URL"www.url.com"<br>eller<br>Klonad till"Marknadsföringsaktiviteter" i programmet"programnamn" <br>Klonat resursnamn"namn"<br>Klonad resurs-URL"www.url.com"</td> 
+   <td>Klonad till "Design studio" i mappen "foldername"<br>Namn på klonad resurs<br>URL för klonad resurs "www.url.com"<br>eller<br>Klonat till"marknadsföringsaktiviteter" i programmet"programnamn" <br>Namn på klonad resurs<br>URL för klonad resurs "www.url.com"</td> 
   </tr> 
   <tr> 
    <td>Flytta</td> 
-   <td>Flyttad till "Design studio" i mappen "mappnamn"<br> eller<br> Flyttad till "Marknadsföringsaktiviteter" i programmet "programnamn"</td> 
+   <td>Flyttad till Design Studio i mappen "folder name"<br> eller<br> Flyttad till"Marknadsföringsaktiviteter" till"programnamn"</td> 
   </tr> 
   <tr> 
    <td>Godkänn</td> 
@@ -557,7 +556,7 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
   </tr> 
   <tr> 
    <td>Klona</td> 
-   <td>Klonat till "mappnamn" <br>Namnet "på den klonade resursen"</td> 
+   <td>Klonat till "mappnamn" <br>Namn på klonad resurs</td> 
   </tr> 
   <tr> 
    <td>Exportera</td> 
@@ -582,7 +581,7 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
   </tr> 
   <tr> 
    <td>Klona</td> 
-   <td>Klonad till "Persondatabas" i mappen "mappnamn" <br>Klonat resursnamn "namn"<br>eller<br>Klonad till "Marknadsföringsaktiviteter" i programmet "programnamn"<br>Klonat resursnamn "namn"</td> 
+   <td>Klonad till "Persondatabas" i mappen "mappnamn" <br>Namn på klonad resurs<br>eller<br>Klonat till"marknadsföringsaktiviteter" i programmet"programnamn"<br>Namn på klonad resurs</td> 
   </tr> 
   <tr> 
    <td>Ta bort</td> 
@@ -611,7 +610,7 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
   </tr> 
   <tr> 
    <td>Flytta</td> 
-   <td>Flyttad till "Program" i programmet "programnamn"<br>eller<br>Flyttad till "Mappar" i mappen "mappnamn"</td> 
+   <td>Flyttad till"Program" till"programnamn"<br>eller<br>Flyttad till "Mappar" i mappen "mappnamn"</td> 
   </tr> 
   <tr> 
    <td>Byt namn</td> 
@@ -627,7 +626,7 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
   </tr> 
   <tr> 
    <td>Klona</td> 
-   <td>Klonat till Program i programmet "programnamn" <br>Klonat resursnamn "namn"<br>eller<br>Klonat till "Mapp" i mappen "mappnamn"<br>Klonat resursnamn "namn"</td> 
+   <td>Klonat till "Program" i "Program" <br>Namn på klonad resurs<br>eller<br>Mappen har klonats till "Mapp" i mappen "mappnamn"<br>Namn på klonad resurs</td> 
   </tr> 
   <tr> 
    <td>Ändra konfigurationen för smartlist</td> 
@@ -664,7 +663,7 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
   </tr> 
   <tr> 
    <td>Klona</td> 
-   <td>Klonad till "Persondatabas" i mappen "mappnamn" <br>Klonat resursnamn "namn"<br>eller<br>Klonad till "Marknadsföringsaktiviteter" i programmet "programnamn" <br>Klonat resursnamn "namn"</td> 
+   <td>Klonad till "Persondatabas" i mappen "mappnamn" <br>Namn på klonad resurs<br>eller<br>Klonat till"marknadsföringsaktiviteter" i programmet"programnamn" <br>Namn på klonad resurs</td> 
   </tr> 
   <tr> 
    <td>Ändra konfigurationen för smartlist</td> 
@@ -673,7 +672,7 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
   <tr> 
    <td rowspan="11">Fragment</td> 
    <td>Skapa</td> 
-   <td><p>Tom<br>eller<br>Klonad från "kodavsnittsnamn"</p></td> 
+   <td><p>Tom<br>eller<br>Klonat från "kodfragmentnamn"</p></td> 
   </tr> 
   <tr> 
    <td>Redigera</td> 
@@ -701,7 +700,7 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
   </tr> 
   <tr> 
    <td>Klona</td> 
-   <td>Klonat till "mappnamn" <br>Namnet på det klonade fragmentet "name"</td> 
+   <td>Klonat till "mappnamn" <br>Namnet "name" för det klonade kodfragmentet</td> 
   </tr> 
   <tr> 
    <td>Godkänn</td> 
@@ -718,7 +717,7 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
  </tbody> 
 </table>
 
-## Admin - Granskningsspår {#admin-audit-trail}
+## Granskningsspår för administratör {#admin-audit-trail}
 
 <table> 
  <colgroup> 
@@ -754,7 +753,7 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
   <tr> 
    <td rowspan="3">Roll<br><br></td> 
    <td>Skapa</td> 
-   <td>Roll skapad med rollnamn (Obs! om du behöver information om behörigheter som lagts till, kontakta support) - <br>visar ögonblicksbilder av behörigheter som tilldelats rollen</td> 
+   <td>Roll skapad med rollnamn (Obs! om du behöver information om tillagda behörigheter kontaktar du support) - <br>visar en ögonblicksbild av behörigheter som tilldelats rollen</td> 
   </tr> 
   <tr> 
    <td>Ta bort</td> 
@@ -762,7 +761,7 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
   </tr> 
   <tr> 
    <td>Redigera</td> 
-   <td>Roll redigerad från "tidigare namn" till "nytt namn" (Obs! om du behöver information om redigerade behörigheter, kontakta support) - <br>visar en ögonblicksbild av behörigheter som tilldelats rollen<br></td> 
+   <td>Roll redigerad från "tidigare namn" till "nytt namn" (Obs! om du behöver information om redigerade behörigheter kontaktar du support) - <br>visar en ögonblicksbild av behörigheter som tilldelats rollen<br></td> 
   </tr> 
   <tr> 
    <td>Smartlist-rapport</td> 
@@ -772,7 +771,7 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
   <tr> 
    <td rowspan="7">Användare<br><br><br><br></td> 
    <td>Skapa (bjud in)</td> 
-   <td>Användare inbjuden med: E-postadress, namn för- och efternamn, åtkomst förfaller"tom eller med ett datum", API-användare"true eller false" - <br>visar en ögonblicksbild av roller och arbetsytor som tilldelats användaren</td> 
+   <td>Användare inbjuden med: E-postadress, namn för- och efternamn, åtkomst förfaller"tom eller med ett datum", API-användare"sant eller falskt" - <br>visar ögonblicksbilder av roller och arbetsytor som tilldelats användaren</td> 
   </tr> 
   <tr> 
    <td colspan="1">Ta bort</td> 

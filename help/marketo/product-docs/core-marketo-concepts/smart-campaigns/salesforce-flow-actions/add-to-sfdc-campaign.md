@@ -3,7 +3,6 @@ unique-page-id: 1147034
 description: Lägg till i SFDC-kampanj - Marketo Docs - produktdokumentation
 title: Lägg till i SFDC-kampanj
 exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '176'
@@ -33,8 +32,8 @@ Det här flödessteget kan användas i Marketo-kampanjer eller som ett enda flö
    >
    >Om du inte kan se en Salesforce-kampanj i Campaign-listan:
    >
-   >  1. Kontrollera att [kampanjsynkroniseringen är aktiverad](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
-   >  1. Bekräfta att din [Marketo Sync-användare](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) är [marknadsföringsanvändare](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) i Salesforce.
+   >  1. Se till att [kampanjsynkronisering är aktiverad](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
+   >  1. Bekräfta att [Marketo Sync User](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) är en [Marknadsförare](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) i Salesforce.
 
 
    >[!TIP]

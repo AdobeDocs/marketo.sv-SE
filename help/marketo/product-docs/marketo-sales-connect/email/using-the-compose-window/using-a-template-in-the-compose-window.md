@@ -1,15 +1,14 @@
 ---
 unique-page-id: 37356593
-description: Använda en mall i dispositionsfönstret - Marketo Docs - Produktdokumentation
+description: Använda en mall i dispositionsfönstret - Marketo Docs - produktdokumentation
 title: Använda en mall i dispositionsfönstret
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 585254fc-54f6-4902-a3aa-6e415195c96d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
 
 ---
-
 
 # Använda en mall i dispositionsfönstret {#using-a-template-in-the-compose-window}
 
@@ -41,21 +40,21 @@ ht-degree: 0%
 
 ## Fästa mallkategorier i dispositionsfönstret {#pinning-template-categories-in-the-compose-window}
 
-Använd **upp till fem** specifika mallkategorier för att få snabb åtkomst till de mallar som du använder mest.
+Favorit **upp till fem** särskilda mallkategorier för att snabbt få tillgång till de mallar du använder mest.
 
 1. Skapa ditt e-postutkast (det finns flera sätt att göra detta, i det här exemplet väljer vi **Disponera** i sidhuvudet).
 
    ![](assets/one-6.png)
 
-1. Klicka på ikonen **+** bredvid Favoriter.
+1. Klicka på **+** -ikon bredvid Favoriter.
 
    ![](assets/pinning-two.png)
 
-1. Klicka på listrutan **Fäst en kategori** och välj önskad kategori.
+1. Klicka på **Fäst en kategori** och välj önskad kategori.
 
    ![](assets/pinning-three.png)
 
-1. Klicka på **Spara ändringar** när du är klar (valfritt): upprepa steg 3 för att lägga till fler).
+1. Klicka **Spara ändringar** när du är klar (valfritt: upprepa steg 3 för att lägga till fler).
 
    ![](assets/pinning-four.png)
 
@@ -67,6 +66,6 @@ Använd **upp till fem** specifika mallkategorier för att få snabb åtkomst ti
 
    >[!NOTE]
    >
-   >**Som standard** finns Favoriter där. Den innehåller e-postmallar för favoriter, inte kategorier.
+   >**Favoriter** finns där som standard. Den innehåller e-postmallar för favoriter, inte kategorier.
 
    Den valda kategorin är nu fäst.

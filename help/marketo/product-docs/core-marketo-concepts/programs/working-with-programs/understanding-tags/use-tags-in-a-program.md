@@ -3,7 +3,6 @@ unique-page-id: 1147150
 description: Använd taggar i ett program - Marketo Docs - produktdokumentation
 title: Använd taggar i ett program
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
@@ -15,9 +14,9 @@ ht-degree: 0%
 
 Taggar är attribut som beskriver dina program och används för att gruppera programtyper vid rapportering.
 
-## Använd en tagg i ett program {#use-a-tag-in-a-program}
+## Använda en tagg i ett program {#use-a-tag-in-a-program}
 
-1. Välj program. Klicka på **Inställningar**.
+1. Välj program. Klicka **Inställningar**.
 
    ![](assets/image2014-9-23-15-3a45-3a0.png)
 
@@ -29,7 +28,7 @@ Taggar är attribut som beskriver dina program och används för att gruppera pr
 
    ![](assets/image2014-9-23-15-3a45-3a30.png)
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/image2014-9-23-15-3a45-3a36.png)
 
@@ -39,7 +38,7 @@ Taggar är attribut som beskriver dina program och används för att gruppera pr
 
 ## Redigera en tagg {#edit-a-tag}
 
-1. Gå till fliken **Inställningar**. Högerklicka på taggen. Välj **Redigera**.
+1. Gå till **Inställningar** -fliken. Högerklicka på taggen. Välj **Redigera**.
 
    ![](assets/image2014-9-23-15-3a45-3a53.png)
 
@@ -47,7 +46,7 @@ Taggar är attribut som beskriver dina program och används för att gruppera pr
 
    ![](assets/image2014-9-23-15-3a46-3a12.png)
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/image2014-9-23-15-3a46-3a25.png)
 
@@ -55,13 +54,13 @@ Taggar är attribut som beskriver dina program och används för att gruppera pr
 
    ![](assets/image2014-9-23-15-3a46-3a35.png)
 
-## Ta bort en tagg {#delete-a-tag}
+## Ta bort en tagg  {#delete-a-tag}
 
-1. Gå till fliken **Inställningar**. Högerklicka på taggen och välj **Ta bort**.
+1. Gå till **Inställningar** -fliken. Högerklicka på taggen och välj **Ta bort**.
 
    ![](assets/image2014-9-23-15-3a46-3a55.png)
 
-1. Bekräfta genom att klicka på **Ta bort**.
+1. Klicka **Ta bort** för att bekräfta.
 
    ![](assets/image2014-9-23-15-3a47-3a8.png)
 

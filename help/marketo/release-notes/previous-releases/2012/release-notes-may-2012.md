@@ -34,7 +34,7 @@ Arkiverade resurser filtreras automatiskt från automatiska förslag, listrutor 
 
 Figur 2. Exempel på det arkiverade e-postfiltret
 
-## Ny incheckningsapp för händelser för iPad {#new-event-check-in-app-for-ipad}
+## Ny incheckningsapp för evenemang för iPad {#new-event-check-in-app-for-ipad}
 
 Förenkla incheckningen av event med vår nya iPad-app! Appen Event Check-in synkroniseras med ditt Marketo-program så att du enkelt kan söka efter deltagare i en händelse och lägga till nya leads direkt.
 
@@ -54,7 +54,7 @@ Figur 5. Checka in dem
 
 ## Bekräftelse-URL för utökat webbinarium {#enhanced-webinar-confirmation-url}
 
-Finns nu för ON24 och Adobe Connect! Inkludera en unik länk i bekräftelsemeddelandet för varje registrerad deltagare med den nya `{{member.webinar URL}}`-token. Bland Adobe Connect förbättringar finns även möjligheten att aktivera/inaktivera e-postmeddelandet med kontoinformation för Adobe som innehåller användarens inloggnings-ID och lösenord.
+Finns nu för ON24 och Adobe Connect! Inkludera en unik länk i bekräftelsemeddelandet för varje registrerad deltagare med hjälp av den nya `{{member.webinar URL}}` token. Bland Adobe Connect förbättringar finns även möjligheten att aktivera/inaktivera e-postmeddelandet med kontoinformation för Adobe som innehåller användarens inloggnings-ID och lösenord.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
@@ -88,7 +88,7 @@ Få tillgång till experimentella funktioner som utvecklats av Marketo-tekniker 
 
 Bild 10. Hanterarens börskursfunktioner i Admin
 
-## Microsoft Dynamics® CRM-integrering {#microsoft-dynamics-crm-integration}
+## Integrering med Microsoft Dynamics® CRM {#microsoft-dynamics-crm-integration}
 
 Synkronisera konton, kontakter och leads mellan Marketo och Microsoft Dynamics CRM Online med vår nya färdiga integrering!
 
@@ -98,7 +98,7 @@ Figur 11. Microsoft Dynamics-konfiguration
 
 ## Marketo Sales Insight-förbättringar {#marketo-sales-insight-enhancements}
 
-**Avsluta sidfotsalternativ**
+**Avbeställ sidfotsalternativ**
 
 Konfigurera när och om sidfoten för att avbryta prenumerationen visas för e-postmeddelanden som skickas via Sales Insight.
 

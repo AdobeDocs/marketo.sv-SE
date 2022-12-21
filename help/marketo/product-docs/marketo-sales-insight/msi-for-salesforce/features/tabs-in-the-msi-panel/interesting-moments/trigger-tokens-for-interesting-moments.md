@@ -3,7 +3,6 @@ unique-page-id: 1146999
 description: Utlösartoken för intressanta ögonblick - Marketo Docs - produktdokumentation
 title: Utlösartoken för intressanta ögonblick
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
-translation-type: tm+mt
 source-git-commit: f4c773ca76542827a498940f44b018ddb71816d6
 workflow-type: tm+mt
 source-wordcount: '436'
@@ -11,15 +10,15 @@ ht-degree: 0%
 
 ---
 
-# Utlösartoken för intressanta stunder {#trigger-tokens-for-interesting-moments}
+# Utlösartoken för intressanta ögonblick {#trigger-tokens-for-interesting-moments}
 
 >[!PREREQUISITES]
 >
->Lär dig använda flödessteget [Intressant stund](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
+>Lär dig använda [Flödessteg för intressant stund](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
 ## Tillgängliga token {#available-tokens}
 
-Kolla in [Översikt över token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) för att se alla token du kan sätta in i en intressant stund.
+Checka ut [Översikt över token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) om du vill se alla variabler du kan lägga in i en intressant stund.
 
 ## Utlösartoken {#trigger-tokens}
 
@@ -804,9 +803,9 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
 
 >[!NOTE]
 >
->Om den inte har en kontroll ![(tick)](assets/check.png) returnerar den en tom sträng (ingenting) i den intressanta stunden.
+>Om den inte har någon kontroll ![(tick)](assets/check.png) då returneras en tom sträng (ingenting) i det intressanta ögonblicket.
 
-*Utlösaren **Besök webbsidan** har några ytterligare tokens:
+&#42;Utlösaren **Besök webbsida** har några ytterligare tokens:
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`

@@ -2,16 +2,15 @@
 unique-page-id: 10097969
 description: Skapa en mall för landningssida i fri form - Marketo Docs - Produktdokumentation
 title: Skapa en mall för landningssida i fri form
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
-
-# Skapa en mall för startsida i fri form {#create-a-free-form-landing-page-template}
+# Skapa en mall för landningssida i fri form {#create-a-free-form-landing-page-template}
 
 För landningssidor i fri form krävs mindre teknisk kunskap än för deras styrda motsvarigheter. Följ stegen nedan för att skapa en mall för framtida landningssidor.
 
@@ -19,7 +18,7 @@ För landningssidor i fri form krävs mindre teknisk kunskap än för deras styr
 
    ![](assets/one.png)
 
-1. Klicka på **Ny** och välj sedan **Ny mall för landningssida**.
+1. Klicka **Nytt** väljer **Ny mall för landningssida**.
 
    ![](assets/two.png)
 
@@ -33,9 +32,9 @@ För landningssidor i fri form krävs mindre teknisk kunskap än för deras styr
 
    >[!NOTE]
    >
-   >Marketo Support är inte konfigurerat för att underlätta felsökning av anpassad HTML. Kontakta en webbutvecklare om du behöver HTML-hjälp.
+   >Marketo Support har inte konfigurerats för att hjälpa till med felsökning av anpassade HTML. Kontakta en webbutvecklare om du behöver hjälp med HTML.
 
-1. När du är klar med redigeringarna klickar du på **Mallåtgärder** och väljer sedan **Godkänn och stäng**.
+1. När du är klar med redigeringarna klickar du på **Mallåtgärder** väljer **Godkänn och stäng**.
 
    ![](assets/five.png)
 
@@ -44,7 +43,7 @@ För landningssidor i fri form krävs mindre teknisk kunskap än för deras styr
    >[!NOTE]
    >
    >Välj **Inaktivera Munchkin-spårning** om du vill förhindra att formulär fylls i i i förväg, eller om du bara inte vill spåra webbbeteende på en viss sida.\
-   >Välj **Verifiera mobilkompatibilitet** för att kontrollera att koden är kompatibel med mobila enheter.
+   >Välj **Verifiera mobilkompatibilitet** för att säkerställa att koden är kompatibel med mobila enheter.
 
    >[!MORELIKETHIS]
    >

@@ -1,17 +1,16 @@
 ---
 unique-page-id: 4718648
-description: Understanding the Opportunity Influence Analyzer - Marketo Docs - Product Documentation
+description: Förstå säljprojektsanalys - Marketo Docs - produktdokumentation
 title: Förstå analysen av affärsmöjlighet
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 87f85fed-1fb5-4906-bfdb-a9fda7ddd295
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
 
-
-# Förstå säljprojektsanalys {#understanding-the-opportunity-influence-analyzer}
+# Förstå analysen av affärsmöjlighet {#understanding-the-opportunity-influence-analyzer}
 
 Varje möjlighet är en historia. Var träffade du ledaren? Vilka marknadsföringsmöjligheter påverkade dem under marknadsförings-/försäljningsprocessen?
 
@@ -29,7 +28,7 @@ Använd kontrollerna till höger för att lägga till/ta bort personer från dia
 
 ## Identifiera unika konton {#identifying-unique-accounts}
 
-Marketo använder CRM-ID för att unikt identifiera konton.
+Marketo använder CRM-ID:t för att unikt identifiera konton.
 
 Tidigare ansågs konton med samma namn vara ett konto. Om till exempel Washington High School var kontonamn och det fanns flera konton som hette Washington High School i USA, kombinerade vi alla till ett enda konto. Detta var felaktigt, eftersom varje skola var en självständig enhet.
 

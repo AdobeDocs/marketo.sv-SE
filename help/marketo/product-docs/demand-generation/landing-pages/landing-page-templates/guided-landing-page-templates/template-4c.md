@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Mall 4C {#template-4c}
 
-Högerklicka för att [hämta mall 4C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4c.html)
+Högerklicka för att [ladda ned mall 4C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4c.html)
 
 ![](assets/image2015-7-28-16-3a32-3a2.png)
 

@@ -3,7 +3,6 @@ unique-page-id: 4719302
 description: Aktivera icke-engelsk anpassad objektsynkronisering - Marketo Docs - produktdokumentation
 title: Aktivera icke-engelsk anpassad objektsynkronisering
 exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '157'
@@ -19,21 +18,21 @@ Om din Marketo-synkroniseringsanvändare är inställd på ett annat språk än 
 
 ![](assets/image2014-12-10-13-3a17-3a51.png)
 
-## Komma runt det {#getting-around-it}
+## Komma runt {#getting-around-it}
 
 1. Logga in i Salesforce med markeringen för att synkronisera användaren.
 
    ![](assets/image2014-12-10-13-3a18-3a1.png)
 
-1. Gå till **Inställningar** under användarnamnet.
+1. Under användarnamnet går du till **Inställningar**.
 
    ![](assets/image2014-12-10-13-3a18-3a11.png)
 
-1. Under **Personlig information** klickar du på **Min personliga information**.
+1. Under **Personlig information**, klicka **Mina personuppgifter**.
 
    ![](assets/image2014-12-10-13-3a18-3a22.png)
 
-1. Klicka på **Redigera**.
+1. Klicka **Redigera**.
 
    ![](assets/image2014-12-10-13-3a18-3a32.png)
 
@@ -41,15 +40,15 @@ Om din Marketo-synkroniseringsanvändare är inställd på ett annat språk än 
 
    ![](assets/image2014-12-10-13-3a18-3a45.png)
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. I Marketo, under **Admin > Salesforce > Objekt**, klickar du på **Uppdatera schema**.
+1. Tillbaka i Marketo, under **Admin > Salesforce > Objekt** klicka **Uppdatera schema**.
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 
-1. Objektivlistan kommer då att visas på engelska. Markera det objekt du vill använda och klicka på **Aktivera synkronisering**.
+1. Objektivlistan kommer då att visas på engelska. Välj det objekt du vill använda och klicka sedan på **Aktivera synkronisering**.
 
    ![](assets/image2014-12-10-13-3a19-3a16.png)
 

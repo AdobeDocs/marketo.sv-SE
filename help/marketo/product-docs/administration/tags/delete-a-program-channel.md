@@ -3,7 +3,6 @@ unique-page-id: 2360281
 description: Ta bort en programkanal - Marketo Docs - produktdokumentation
 title: Ta bort en programkanal
 exl-id: 0a46cafb-3f9d-422a-a08c-92bcbb80da8e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '89'
@@ -17,11 +16,11 @@ Programkanaler är en samling statusar eller kontrollpunkter som leads bör gå 
 
 Om du råkar göra en av misstag eller inte längre behöver en, kan du ta bort den.
 
-1. Gå till avsnittet **Admin**.
+1. Gå till **Administratör** -avsnitt.
 
    ![](assets/image2014-9-24-16-3a6-3a41.png)
 
-1. Klicka på **Taggar**.
+1. Klicka **Taggar**.
 
    ![](assets/image2014-9-24-16-3a7-3a33.png)
 
@@ -33,4 +32,4 @@ Om du råkar göra en av misstag eller inte längre behöver en, kan du ta bort 
 
    ![](assets/image2014-9-24-16-3a10-3a59.png)
 
-Bam! Du kan även [ta bort specifika statusvärden från kanaler](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md).
+Bam! Du kan också [ta bort specifika statusvärden från kanaler](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md).

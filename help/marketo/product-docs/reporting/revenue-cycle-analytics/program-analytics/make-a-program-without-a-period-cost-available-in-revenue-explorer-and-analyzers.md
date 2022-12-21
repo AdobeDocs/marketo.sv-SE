@@ -2,16 +2,15 @@
 unique-page-id: 2360389
 description: Gör ett program utan periodkostnad tillgängligt i Intresseutforskaren och analytiker - Marketo Docs - Produktdokumentation
 title: Gör ett program utan periodkostnad tillgängligt i Intäktsutforskaren och analytiker
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
 
 ---
 
-
-# Gör ett program utan periodkostnad tillgängligt i intäktsutforskaren och analytiker {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
+# Gör ett program utan periodkostnad tillgängligt i Intäktsutforskaren och analytiker {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
 Med Periodkostnader kan du definiera&quot;Hur mycket pengar&quot; och&quot;När&quot; för ett program. Detta visas i intäktscykelutforskaren och [analysatorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
 
@@ -25,7 +24,7 @@ Vissa program kan behöva inkluderas även om de inte har en periodkostnad. Äve
 >
 >Program Analyzer bygger programmet Success per periodkostnad. Om det inte finns någon tillgänglig periodkostnad visas inte Programslutförande, oavsett programmets analysbeteende. Om analysbeteendet är inställt visas data för mått på affärsmöjligheter (säljmöjligheter, intäkter osv.).
 
-1. Klicka på **Taggar** under Admin.
+1. Klicka på under Admin **Taggar**.
 
    ![](assets/image2014-9-17-12-3a35-3a32.png)
 
@@ -37,7 +36,7 @@ Vissa program kan behöva inkluderas även om de inte har en periodkostnad. Äve
 
    ![](assets/image2014-9-17-12-3a36-3a7.png)
 
-1. Ändra Analytics-beteendet till Inclusive och klicka på **Save**.
+1. Ändra analysbeteendet till Inkluderande och klicka på **Spara**.
 
    ![](assets/image2014-9-17-12-3a36-3a13.png)
 

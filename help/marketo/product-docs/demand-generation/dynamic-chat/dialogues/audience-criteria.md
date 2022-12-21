@@ -4,7 +4,7 @@ title: Målgruppskriterier
 exl-id: 9b70b03e-229e-469e-bd65-07aaf2dcbec6
 source-git-commit: f71ac0398b3a93d2c46201a696dd41e6ccd89000
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '548'
 ht-degree: 0%
 
 ---

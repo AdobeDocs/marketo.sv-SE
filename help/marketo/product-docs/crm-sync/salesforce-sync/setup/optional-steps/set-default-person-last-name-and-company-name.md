@@ -3,7 +3,6 @@ unique-page-id: 4719291
 description: Ange standardperson, efternamn och företagsnamn - Marketo Docs - produktdokumentation
 title: Ange standardpersonens efternamn och företagsnamn
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '142'
@@ -15,15 +14,15 @@ ht-degree: 0%
 
 Salesforce kräver (minimum) efternamn och företagsnamn för sina leads och kontakter. Ofullständiga poster synkroniseras inte till Salesforce. Om du vill synkronisera partiella poster måste du ange standardvärden för Marketo som ska användas med Salesforce.
 
-1. Gå till **Admin** och klicka på **Salesforce**.
+1. Gå till **Administratör** och klicka **Salesforce**.
 
    ![](assets/image2014-12-9-13-3a41-3a58.png)
 
-1. Klicka på **Redigera synkroniseringsalternativ**.
+1. Klicka **Redigera synkroniseringsalternativ**.
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. Ange ett **standardpersonefternamn** och ett **standardpersonföretag** och klicka sedan på **Spara**.
+1. Ange **Efternamn för standardperson** och **Standardpersonföretag** sedan klicka **Spara**.
 
    ![](assets/sync-options-hands.png)
 

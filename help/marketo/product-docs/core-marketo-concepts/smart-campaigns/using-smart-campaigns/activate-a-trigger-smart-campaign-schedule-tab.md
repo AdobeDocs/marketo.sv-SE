@@ -3,7 +3,6 @@ unique-page-id: 1146935
 description: Aktivera en utlösare för smart kampanj | Fliken Schema - Marketo Docs - produktdokumentation
 title: Aktivera en utlösare för smart kampanj | Fliken Schema
 exl-id: f9232c91-aa39-4033-bd11-865d1cbc5eb2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Att aktivera en utlösande smart kampanj är som att aktivera den. Så här gör du.
 
-1. Klicka på **Aktivera** på fliken **Schema** för den smarta kampanjen.
+1. I den smarta kampanjens **Schema** flik, klicka **Aktivera**.
 
    ![](assets/activateprogram-hands.png)
 
@@ -23,7 +22,7 @@ Att aktivera en utlösande smart kampanj är som att aktivera den. Så här gör
    >
    >Granska den smarta kampanjen innan du aktiverar den.
 
-1. Klicka på **Aktivera** igen.
+1. Klicka **Aktivera** igen.
 
    ![](assets/activatecampaign-hand.png)
 

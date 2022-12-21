@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359620
-description: Ändra format och färg för Skicka-knapp - Marketo-dokument - Produktdokumentation
+description: Ändra format och färg för Skicka-knapp - Marketo Docs - produktdokumentation
 title: Ändra format och färg för Skicka-knapp
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
 
 ---
-
 
 # Ändra format och färg för Skicka-knapp {#change-submit-button-style-and-color}
 
@@ -23,7 +22,7 @@ Om du tycker att standardknappen för att skicka är trist, eller om du behöver
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
-1. Välj knappen **Skicka** och klicka på **Redigera** bredvid Knappformat.
+1. Välj **Skicka** och klicka **Redigera** bredvid Knappformat.
 
    ![](assets/image2014-9-15-16-3a54-3a56.png)
 
@@ -43,15 +42,15 @@ Om du tycker att standardknappen för att skicka är trist, eller om du behöver
    >
    >Du kan också ange färgkoden manuellt.
 
-1. Klicka på **Välj**.
+1. Klicka **Välj**.
 
    ![](assets/image2014-9-15-16-3a56-3a37.png)
 
-1. Klicka på **Slutför**.
+1. Klicka **Slutför**.
 
    ![](assets/image2014-9-15-16-3a56-3a52.png)
 
-1. Klicka på **Godkänn och stäng**.
+1. Klicka **Godkänn och stäng**.
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
 

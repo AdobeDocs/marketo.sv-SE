@@ -18,12 +18,12 @@ Använd anpassade objekt för att spåra mätvärden som är specifika för din 
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
-Använd anpassade objekt som filter och triggers i era smarta kampanjer. Till exempel:
+Använd anpassade objekt som filter och triggers i era smarta kampanjer. Exempel:
 
 * **Filter**: Skicka e-postmeddelanden endast till ägare av ett visst fordonsmärke
 * **Utlösare**: Skicka ett e-postmeddelande när ett anpassat objekt läggs till en person eller ett företag.
 
-Du kan ställa in anpassade objekt i en 1:N- eller många-till-många-relation. Till exempel:
+Du kan ställa in anpassade objekt i en 1:N- eller många-till-många-relation. Exempel:
 
 * **En-till-många**: En person äger flera bilar
 * **Många-till-många**: Flera studenter är inskrivna i flera kurser från en kurskatalog

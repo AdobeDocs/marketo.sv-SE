@@ -1,17 +1,16 @@
 ---
 unique-page-id: 37356590
-description: Lägga till högdagerinnehåll i din e-post - Marketo Docs - produktdokumentation
+description: Lägga till högdagerinnehåll i ditt e-postmeddelande - Marketo Docs - produktdokumentation
 title: Lägga till högdagerinnehåll i e-postmeddelandet
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: a069d29a-46b6-4347-b474-df17b7595436
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
-
-# Lägga till högdagerinnehåll i din e-post {#adding-highspot-content-to-your-email}
+# Lägga till högdagerinnehåll i e-postmeddelandet {#adding-highspot-content-to-your-email}
 
 Om du är kund hos Highspot kan du enkelt infoga Highspot-innehåll i dina Sales Connect-e-postmeddelanden.
 
@@ -23,7 +22,7 @@ Om du är kund hos Highspot kan du enkelt infoga Highspot-innehåll i dina Sales
 
    ![](assets/two-5.png)
 
-1. Klicka på den punkt i e-postmeddelandet där du vill infoga det markerade innehållet. Klicka på pilen i listrutan (bredvid ikonen för bifogad fil) och välj **Högdager**.
+1. Klicka på den punkt i e-postmeddelandet där du vill infoga det markerade innehållet. Klicka på pilen i listrutan (bredvid ikonen för bifogade filer) och välj **Högdager**.
 
    ![](assets/three-5.png)
 
@@ -31,7 +30,7 @@ Om du är kund hos Highspot kan du enkelt infoga Highspot-innehåll i dina Sales
 
    ![](assets/four-5.png)
 
-1. Markera önskat innehåll och klicka på knappen **Lägg till innehåll**.
+1. Välj önskat innehåll och klicka på **Lägg till innehåll** -knappen.
 
    ![](assets/five-3.png)
 

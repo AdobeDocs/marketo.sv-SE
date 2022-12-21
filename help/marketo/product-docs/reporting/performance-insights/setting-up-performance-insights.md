@@ -2,14 +2,13 @@
 unique-page-id: 12981145
 description: Ställa in prestandainsikter - Marketo Docs - produktdokumentation
 title: Konfigurera prestandainsikter
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
 
 ---
-
 
 # Konfigurera prestandainsikter {#setting-up-performance-insights}
 
@@ -17,11 +16,11 @@ Följ stegen nedan för att konfigurera MPI.
 
 ## Inställningar för affärsmöjlighet {#opportunity-setup}
 
-1. Klicka på **Admin**.
+1. Klicka **Administratör**.
 
    ![](assets/admin.png)
 
-1. Klicka på **Intäktscykelanalys**.
+1. Klicka **Analys av intäktscykler**.
 
    ![](assets/two-2.png)
 
@@ -29,7 +28,7 @@ Följ stegen nedan för att konfigurera MPI.
    >
    >Om du inte har RCA måste du välja **Programanalys** för steg 2.
 
-1. Klicka på **Redigera** under Attribution.
+1. Klicka på under Attribution **Redigera**.
 
    ![](assets/three-1.png)
 
@@ -57,7 +56,7 @@ Följ stegen nedan för att konfigurera MPI.
 
 Uppdatera programkostnaderna i minst 12 månader. Du kan göra detta manuellt eller med program-API:t. I det här exemplet gör vi det manuellt.
 
-1. Klicka på **Marknadsföringsaktiviteter**.
+1. Klicka **Marknadsföringsaktiviteter**.
 
    ![](assets/ma.png)
 
@@ -65,33 +64,33 @@ Uppdatera programkostnaderna i minst 12 månader. Du kan göra detta manuellt el
 
    ![](assets/select-program.png)
 
-1. Klicka på fliken **Inställningar**.
+1. Klicka på **Inställningar** -fliken.
 
    ![](assets/setup-tab.png)
 
-1. Dra **Periodkostnad** till arbetsytan.
+1. Dra **Periodkostnad** på arbetsytan.
 
    ![](assets/period-cost.png)
 
-1. Ange programmånaden för minst 12 månader sedan och klicka på **OK**.
+1. Ställ in programmånaden för minst 12 månader sedan och klicka på **OK**.
 
    ![](assets/set-period.png)
 
-1. Ange periodkostnaden och klicka på **Spara**.
+1. Ange periodkostnad och klicka på **Spara**.
 
    ![](assets/set-cost.png)
 
 Granska sedan analysbeteendet för att ange om en viss kanal ska inkluderas i analysen. Ange analysbeteende (normal, inkluderande, operativ).
 
-1. Klicka på **Admin**.
+1. Klicka **Administratör**.
 
    ![](assets/admin.png)
 
-1. Klicka på **Taggar**.
+1. Klicka **Taggar**.
 
    ![](assets/tags.png)
 
-1. Klicka på **+** för att utöka kanallistan.
+1. Klicka på **+** för att expandera kanallistan.
 
    ![](assets/channel.png)
 
@@ -99,7 +98,7 @@ Granska sedan analysbeteendet för att ange om en viss kanal ska inkluderas i an
 
    ![](assets/channel-click.png)
 
-1. Klicka på listrutan **Analysbeteende** och välj önskat beteende.
+1. Klicka på **Analysbeteende** och välj önskat beteende.
 
    ![](assets/edit-channel.png)
 
@@ -107,7 +106,7 @@ Granska sedan analysbeteendet för att ange om en viss kanal ska inkluderas i an
 
    ![](assets/success.png)
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/save.png)
 

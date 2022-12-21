@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2949857
-description: Redigera en Event Channel - Marketo Docs - Produktdokumentation
+description: Redigera en Event Channel - Marketo Docs - produktdokumentation
 title: Redigera en händelsekanal
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 250cc42b-5d83-4741-8b2b-56134171f3a9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
-
 # Redigera en händelsekanal {#edit-an-event-channel}
 
-Du kan redigera kanaltypen på fliken **Sammanfattning** eller på fliken **Inställningar** för händelsen.
+Du kan redigera kanaltypen från händelsens **Sammanfattning** eller från **Inställningar** -fliken.
 
 >[!NOTE]
 >
@@ -21,19 +20,19 @@ Du kan redigera kanaltypen på fliken **Sammanfattning** eller på fliken **Inst
 
 >[!NOTE]
 >
->Ett program är ett specifikt marknadsföringsinitiativ. **Kanalen** är avsedd att vara leveransmekanismen, som webbinarium, Tradeshow eller Online Ad. Du kan se olika kanalalternativ i listrutan, beroende på vad som är tillgängligt i din egen instans. Du kan också [skapa en egen kanal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+>Ett program är ett specifikt marknadsföringsinitiativ. The **kanal** är avsett att vara leveransmekanismen, som webbinarium, Tradeshow eller Online Ad. Du kan se olika kanalalternativ i listrutan, beroende på vad som är tillgängligt i din egen instans. Du kan också  [skapa en egen kanal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
 ## På fliken Sammanfattning {#from-the-summary-tab}
 
-1. Välj din aktivitet från **marknadsföringsaktiviteter** i trädet.
+1. Från **Marknadsföringsaktiviteter** väljer du din händelse i trädet.
 
    ![](assets/eventprogramseelct.png)
 
-1. Navigera till vyn **Sammanfattning**.
+1. Navigera till **Sammanfattning** vy.
 
    ![](assets/eventprogramsummary.png)
 
-1. Under kategorin **Inställningar** väljer du den aktuella **kanal** som visas som en hyperlänk.
+1. Under **Inställningar** väljer du aktuell **Kanal** visas som en hyperlänk.
 
    ![](assets/channeltypeevent.png)
 
@@ -41,27 +40,27 @@ Du kan redigera kanaltypen på fliken **Sammanfattning** eller på fliken **Inst
 
    ![](assets/tradeshowchange.png)
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/2017-06-13-09-35-53.png)
 
 ## På fliken Inställningar {#from-the-setup-tab}
 
-En ny kanaltyp kan också tilldelas från händelsens **Setup**-flik.
+En ny kanaltyp kan också tilldelas från händelsens **Inställningar** -fliken.
 
 1. Välj din händelse i trädet.
 
    ![](assets/eventprogramseelct.png)
 
-1. Gå till fliken **Inställningar**. Dubbelklicka på aktuell **kanal**.
+1. Navigera till **Inställningar** -fliken. Dubbelklicka på aktuell **Kanal**.
 
    ![](assets/setuptabchangechannel.png)
 
-1. Välj en ny **kanal**.
+1. Välj en ny **Kanal**.
 
    ![](assets/tradeshowchange.png)
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/2017-06-13-09-35-53.png)
 

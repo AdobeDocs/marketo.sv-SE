@@ -1,15 +1,14 @@
 ---
 unique-page-id: 14352618
-description: Skapa en kampanj - Marketo Docs - Produktdokumentation
+description: Skapa en kampanj - Marketo Docs - produktdokumentation
 title: Skapa en kampanj
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 17952187-4d7e-469e-9ac8-c2611dfeac1f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
 
 ---
-
 
 # Skapa en kampanj {#create-a-campaign}
 
@@ -24,23 +23,23 @@ Med kampanjer kan ni
 
 Hur skapar ni en kampanj?
 
-1. Klicka på fliken **Kampanjer**.
+1. Klicka på **Kampanjer** -fliken.
 
    ![](assets/one-1.png)
 
-1. Välj en kategori och klicka på knappen **Skapa en kampanj** för att skapa en ny kampanj.
+1. Välj en kategori och klicka på **Skapa en kampanj** för att skapa en ny kampanj.
 
    ![](assets/two-1.png)
 
    >[!NOTE]
    >
-   >Skapa en ny kategori genom att klicka på **+** bredvid **Kategorier**.
+   >Skapa en ny kategori genom att klicka på **+** nästa **Kategorier**.
 
 1. Kategorin som du valde markeras. Om du ångrar dig klickar du på listrutan och väljer en annan. När du är klar klickar du på **Fortsätt**.
 
    ![](assets/three-1.png)
 
-1. Klicka på **Lägg till ett steg**.
+1. Klicka **Lägg till ett steg**.
 
    ![](assets/four-1.png)
 
@@ -54,9 +53,9 @@ Hur skapar ni en kampanj?
 
    >[!NOTE]
    >
-   >&quot;Dagar&quot; är inte antalet dagar mellan åtgärder, utan dagen i sekvensen. Om kampanjen till exempel ska vara i 7 dagar, innebär &quot;3&quot; att åtgärden kommer att utföras i dag 3 av 7, **inte** 3 dagar senare.
+   >&quot;Dagar&quot; är inte antalet dagar mellan åtgärder, utan dagen i sekvensen. Om din kampanj till exempel kommer att vara i 7 dagar, innebär &quot;3&quot; att åtgärden kommer att vara i dag 3 av 7, **not** 3 dagar senare.
 
-1. Se till att du anpassar alternativen för schemaläggning och svar, till exempel att hoppa över helger (vilket är grymt) genom att gå till **fliken Inställningar** för din kampanj.
+1. Se till att du anpassar alternativen för schemaläggning och svar, som att hoppa över helger (vilket är fantastiskt), genom att gå till **Fliken Inställningar** för er Campaign.
 
    ![](assets/seven.png)
 

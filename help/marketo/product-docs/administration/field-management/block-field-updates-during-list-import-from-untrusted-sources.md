@@ -5,7 +5,7 @@ title: Blockera fältuppdateringar vid listimport från otillförlitliga källor
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
 source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---

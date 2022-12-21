@@ -1,15 +1,14 @@
 ---
 unique-page-id: 10617440
-description: Godkänn ditt meddelande i appen - Marketo Docs - Produktdokumentation
+description: Godkänn ditt meddelande i appen - Marketo Docs - produktdokumentation
 title: Godkänn ditt meddelande i appen
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 0%
 
 ---
-
 
 # Godkänn ditt meddelande i appen {#approve-your-in-app-message}
 
@@ -23,7 +22,7 @@ Du måste godkänna sändningen innan meddelandet i appen skickas.
    >
    >Om någon del av sändningsprocessen är ofullständig, till exempel om meddelandet i appen inte godkänns, visas ett varningsmeddelande som anger vilket område som behöver uppmärksammas. Åtgärda problemet så ser du meddelandet i steg 2.
 
-1. Klicka på **Godkänn och starta**.
+1. Klicka **Godkänn och starta**.
 
    ![](assets/pasted-image-at-2016-05-31-02-08-pm.png)
 
@@ -41,7 +40,7 @@ Du måste godkänna sändningen innan meddelandet i appen skickas.
 
    Du kan pausa eller stoppa ett aktivt program, men det är stor skillnad mellan dessa två alternativ.
 
-1. Klicka på **Paus Program** om du behöver stoppa programmet en stund men återuppta det senare. Den ändras till **Pausad** status.
+1. Klicka **Pausa program** om du vill stoppa programmet en stund men återuppta det senare. Det ändras till **Pausad** status.
 
    ![](assets/image2016-5-12-13-3a50-3a26.png)
 
@@ -49,7 +48,7 @@ Du måste godkänna sändningen innan meddelandet i appen skickas.
    >
    >Orsaker till att pausa kan vara att stoppa det en stund eller om du vill ändra meddelandet eller justera schemat. Du kan dock inte ändra till ett annat meddelande, bara redigera det befintliga.
 
-1. När du vill att det pausade programmet ska fortsätta att köras klickar du på **Återuppta program**.
+1. När du vill fortsätta köra det pausade programmet klickar du på **Återuppta program**.
 
    ![](assets/image2016-5-24-13-3a26-3a43.png)
 
@@ -57,16 +56,16 @@ Du måste godkänna sändningen innan meddelandet i appen skickas.
 
    ![](assets/image2016-5-24-13-3a29-3a35.png)
 
-1. Om du är säker på att du vill stoppa programmet klickar du på **Stopp**.
+1. Om du är säker på att du vill stoppa programmet klickar du på **Stoppa**.
 
    ![](assets/image2016-5-24-13-3a31-3a22.png)
 
    >[!NOTE]
    >
-   >När du stoppar ett program körs det inte längre och kan inte återupptas. Om du vill köra det igen måste du bygga om det. Se till att du är klar med ett program innan du klickar på **Stoppa program**!
+   >När du stoppar ett program körs det inte längre och kan inte återupptas. Om du vill köra det igen måste du bygga om det. Se till att du är klar med ett program innan du klickar **Stoppa program**!
 
 ## Instrumentpanel i appen {#in-app-dashboard}
 
-När programmet har körts kan du övervaka dess prestanda med kontrollpanelen i appen, som visas automatiskt när du har godkänt programmet. Om du vill återgå till programmet klickar du på länken i det övre högra hörnet och väljer **Kontrollpanelen**.
+När programmet har körts kan du övervaka dess prestanda med kontrollpanelen i appen, som visas automatiskt när du har godkänt programmet. Klicka på länken i det övre högra hörnet och välj **Kontrollpanelen**.
 
 Det är allt, gott folk!

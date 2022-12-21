@@ -1,15 +1,14 @@
 ---
 unique-page-id: 11380789
-description: Dimension för namngivet konto i RCA - Marketo Docs - Produktdokumentation
+description: Dimension för namngivet konto i RCA - Marketo Docs - produktdokumentation
 title: Dimension för namngivet konto i RCA
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 0c5d9fb9-94e3-4ad0-b024-26542c2d2fd3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
 
 ---
-
 
 # Dimension för namngivet konto i RCA {#named-account-dimension-in-rca}
 
@@ -17,7 +16,7 @@ Bygg intäktsbaserade rapporter med hjälp av den TAM-specifika dimensionen Name
 
 >[!NOTE]
 >
->**Dimensioner** - attribut (representeras av gula punkter) som ger olika åsikter om måtten.
+>**Dimensioner** - attribut (som representeras av gula punkter) som ger olika åsikter om åtgärderna.
 
 ![](assets/one-2.png)
 

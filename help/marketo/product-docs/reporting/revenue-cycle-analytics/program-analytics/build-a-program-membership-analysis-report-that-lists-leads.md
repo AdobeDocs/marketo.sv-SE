@@ -2,14 +2,13 @@
 unique-page-id: 2360405
 description: Skapa en analysrapport för programmedlemskap som listar leads - Marketo Docs - produktdokumentation
 title: Skapa en analysrapport för programmedlemskap som listar leads
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
-
 
 # Skapa en analysrapport för programmedlemskap som listar leads {#build-a-program-membership-analysis-report-that-lists-leads}
 
@@ -23,11 +22,11 @@ Följ de här stegen för att skapa en analysrapport för programmedlemskap som 
 
    ![](assets/one.png)
 
-1. Klicka på **Skapa ny** och **Rapport**.
+1. Klicka **Skapa nytt** sedan **Rapport**.
 
    ![](assets/two.png)
 
-1. Välj **Analys av programmedlemskap** och klicka på **OK**.
+1. Välj **Analys av programmedlemskap** och klicka **OK**.
 
    ![](assets/three.png)
 
@@ -53,7 +52,7 @@ Du kan snabbt lägga till ett lead-attribut som _Fullständigt namn_ för att se
 >
 >Det finns många lead-/företagsattribut att välja bland. Kolla in dem!
 
-1. Sök efter och dubbelklicka på den gula punkten **Fullständigt namn**.
+1. Sök och dubbelklicka på **Fullständigt namn** gul punkt.
 
    ![](assets/eight.png)
 

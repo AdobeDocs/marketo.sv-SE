@@ -3,7 +3,6 @@ unique-page-id: 1147120
 description: Importera medlemmar från ett kalkylblad till ett program - Marketo Docs - produktdokumentation
 title: Importera medlemmar från ett kalkylblad till ett program
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '163'
@@ -27,11 +26,11 @@ Du kan importera en lista över personer som automatiskt blir medlemmar i ett pr
 
 ## Importera din CSV-fil till Marketo {#import-your-csv-into-marketo}
 
-1. Gå till avsnittet **Medlemmar** i ditt program.
+1. Gå till **Medlemmar** -avsnitt.
 
    ![](assets/image2014-9-18-15-3a3-3a57.png)
 
-1. Klicka på **Importera medlemmar**.
+1. Klicka **Importera medlemmar**.
 
    ![](assets/image2014-9-18-15-3a38-3a14.png)
 
@@ -45,13 +44,13 @@ Du kan importera en lista över personer som automatiskt blir medlemmar i ett pr
 
    >[!NOTE]
    >
-   >Om det finns fält som du inte vill importera väljer du **IGNORE** i listrutan Marketo-fält.
+   >Om det finns fält som du inte vill importera väljer du **IGNORE** i listrutan Marketo Field.
 
-1. Välj **medlemsstatus** för listan.
+1. Välj **Medlemsstatus** i listan.
 
    ![](assets/image2014-9-18-15-3a41-3a32.png)
 
-1. Klicka på **Importera**.
+1. Klicka **Importera**.
 
    ![](assets/image2014-9-18-15-3a44-3a19.png)
 

@@ -1,17 +1,16 @@
 ---
 unique-page-id: 4718636
-description: Förstå området för programkostnadsanalys - Marketo Docs - Produktdokumentation
+description: Så här fungerar analysområdet för programkostnader - Marketo Docs - produktdokumentation
 title: Förstå området för programkostnadsanalys
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
 
 ---
 
-
-# Förstå analysområdet för programkostnader {#understanding-the-program-cost-analysis-area}
+# Förstå området för programkostnadsanalys {#understanding-the-program-cost-analysis-area}
 
 Under Programkostnadsanalys kan du analysera effektiviteten i enskilda program eller se summerade resultat per kanal under en viss tidsperiod.
 
@@ -33,13 +32,13 @@ Hur mycket spenderade jag per program och månad?
 
 ![](assets/image2015-5-6-14-3a36-3a34.png)
 
-## Dimensioner och mått för programkostnadsanalys {#program-cost-analysis-dimensions-and-measures}
+## Dimensioner och åtgärder för programkostnadsanalys {#program-cost-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
 >Gula punkter är dimensioner och blå punkter är mått.
 
-## Investering {#investment}
+## Investeringar {#investment}
 
 | Mät | Beskrivning |
 |---|---|
@@ -96,7 +95,7 @@ Hur mycket spenderade jag per program och månad?
 | Programägare | Programtagg |
 | Län | Programtagg |
 
-## {#success} lyckades
+## Lyckades {#success}
 
 | Mät | Beskrivning |
 |---|---|

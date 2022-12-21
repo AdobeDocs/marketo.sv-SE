@@ -1,15 +1,14 @@
 ---
 unique-page-id: 9437340
-description: Implementera RTP med Tealium Tag Manager - Marketo Docs - Produktdokumentation
+description: Implementera RTP med Tealium Tag Manager - Marketo Docs - produktdokumentation
 title: Implementera RTP med Tealium Tag Manager
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 7a099184-625c-46b2-a741-3bcdad0a238e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
 
 ---
-
 
 # Implementera RTP med Tealium Tag Manager {#implementing-rtp-using-tealium-tag-manager}
 
@@ -19,7 +18,7 @@ Följ installationsanvisningarna nedan för att implementera RTP-taggen.
 
 1. Gå till fliken Taggar och lägg till taggen för anpassad behållare för team, som finns på fliken Övrigt på Marketplace.
 
-1. I fältet Titel anger du **Marketo RTP** och klickar på **Slutför**.
+1. I fältet Titel anger du **Marketo RTP** och klicka **Slutför**.
 
 1. Spara ändringarna.
 
@@ -29,9 +28,9 @@ Följ installationsanvisningarna nedan för att implementera RTP-taggen.
 
 1. När profilen har sparats klickar du på ditt namn/din e-postadress i det övre högra hörnet av Tealium iQ-konsolen.
 
-1. Klicka på **Hantera mallar** under Kontoadministratör på Admin-menyn.
+1. På Admin-menyn klickar du på **Hantera mallar** under Kontoadministratör.
 
-1. Välj **Anpassad tealiumbehållare: Marketo RTP** från listrutan för att öppna taggmallen.
+1. Välj **Egen tealium-behållare: Marketo RTP** i listrutan för att öppna taggmallen.
 
 1. Logga in på ditt RTP-konto.
 
@@ -49,8 +48,8 @@ Följ installationsanvisningarna nedan för att implementera RTP-taggen.
    >
    >**Viktiga steg**
    >
-   >Ta bort taggarna `<!-- RTP tag -->` och `<!-- End of RTP tag -->` från koden som du placerar i den här filen.
+   >Ta bort `<!-- RTP tag -->` och `<!-- End of RTP tag -->` -taggar från koden som du placerar i den här filen.
    >
-   >Ta bort alla `<script type='text/javascript'>`- och `</script>`-taggar från koden som du monterar i den här filen.
+   >Ta bort alla `<script type='text/javascript'>` och `</script>` -taggar från koden som du placerar i den här filen.
 
-1. **Klicka på Spara** profilmall och publicera den nya profilen.
+1. **Klicka på Spara profilmall** och publicera din nya profil.

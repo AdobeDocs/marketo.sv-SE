@@ -2,18 +2,17 @@
 unique-page-id: 2953144
 description: Advanced Program Reporting Overview - Marketo Docs - produktdokumentation
 title: Översikt över avancerad programrapportering
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 3b77fd34-a94f-4c6a-9b96-d326b46e731c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
 
 ---
 
-
 # Översikt över avancerad programrapportering {#advanced-program-reporting-overview}
 
-**Inkomstcykeln** Explorerinnehåller flera analysområden och en mängd nya mätvärden som gör att du kan mäta programmets effektivitet.
+**Intäktscykel - utforskaren** innehåller flera analysområden och en mängd nya mätvärden som gör det möjligt att mäta programmets effektivitet.
 
 ![](assets/rev.png)
 
@@ -27,19 +26,19 @@ Analysområden innehåller olika datauppsättningar och mätvärden i Intresseut
 
 ## Programanalysområden {#program-analysis-areas}
 
-* **[Kostnadsanalys](understanding-the-program-cost-analysis-area.md)**  - Se avkastningen för alla program.
+* **[Programkostnadsanalys](understanding-the-program-cost-analysis-area.md)** - Se avkastningen för alla program.
 
-* **[Analys](understanding-the-program-membership-analysis-area.md)**  av programmedlemskap - se resultat per kanal, deltagande, kriterier för framgång osv.
+* **[Analys av programmedlemskap](understanding-the-program-membership-analysis-area.md)** - Se resultat per kanal, deltagande, kriterier för framgång osv.
 
-* **[Analys](understanding-the-program-opportunity-analysis-area.md)**  av affärsmöjligheter - Möjligheter som genereras baserat på fördelning, intäkter och avkastning.
+* **[Analys av affärsmöjligheter](understanding-the-program-opportunity-analysis-area.md)** - Möjligheter som skapas baserat på fördelning, intäkter och avkastning.
 
-* **[Scenanalys](understanding-the-program-revenue-stage-analysis-area.md)**  för programintäkter - Nya namn som har nått vissa framgångar i er intäktscykelmodell.
+* **[Scenanalys för programintäkter](understanding-the-program-revenue-stage-analysis-area.md)** - Nya namn som har nått vissa framgångar i er intäktscykelmodell.
 
 ## Programanalytiker {#program-analyzers}
 
-* **Programanalys**  - Identifiera snabbt program som är framgångsrika eller inte och fokusera på resurserna på rätt sätt.
+* **Program Analyzer** - Identifiera snabbt program som är framgångsrika eller inte och fokusera resurserna på rätt sätt.
 
-* **Affärsmöjlighetsanalys**  - Bevisa marknadsföringens bidrag genom att mäta effekten av program och viktiga engagemang som genererade möjligheter.
+* **Analys av påverkan på affärsmöjlighet** - Bevisa marknadsföringens bidrag genom att mäta effekten av program och viktiga engagemang som genererade möjligheter.
 
 ## Rapportalternativ {#report-options}
 
@@ -53,6 +52,6 @@ I varje rapport finns det flera alternativ som hjälper dig att anpassa upplevel
 
 >[!NOTE]
 >
->Data i Revenue Cycle Explorer uppdateras direkt från er Marketo. Därför kommer alla ändringar av din person- och kontoaktivitet i Marketo att återspeglas nästa arbetsdag i Invenue Cycle Explorer.
+>Data i Revenue Cycle Explorer uppdateras direkt från din instans av Marketo. Därför kommer alla ändringar av din person- och kontoaktivitet inom Marketo att återspeglas nästa arbetsdag i intäktscykelutforskaren.
 
 Genom att bekanta dig med intäktsanalys får ni full insikt i era program och deras effekt.

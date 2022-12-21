@@ -1,7 +1,8 @@
 ---
 description: Begränsningar för produktanvändning - Marketo Docs - produktdokumentation
 title: Begränsningar för produktanvändning
-source-git-commit: 4dd0d703347ed878f73ddc574d063a6746089887
+exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
+source-git-commit: b27cf5eae178b5b3da27e0c15c98eb3c3470cd5f
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 13%
@@ -19,7 +20,7 @@ Följande begränsningar gäller för användning av utökade säljengagemangsfu
  <tr>
   <td>Försäljnings-e-postutskick</td>
   <td>per användare/per dag</td>
-  <td>1 000</td>
+  <td>1,000</td>
  </tr>
  <tr>
   <td>E-post för massförsäljning</td>
@@ -29,7 +30,7 @@ Följande begränsningar gäller för användning av utökade säljengagemangsfu
  <tr>
   <td>E-postmallar</td>
   <td>per instans</td>
-  <td>2 000</td>
+  <td>2,000</td>
  </tr>
  <tr>
   <td>E-postmallskategorier</td>

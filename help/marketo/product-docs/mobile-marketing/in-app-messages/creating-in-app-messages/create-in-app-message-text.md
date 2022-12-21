@@ -1,15 +1,14 @@
 ---
 unique-page-id: 10100642
-description: Skapa meddelandetext i appen - Marketo Docs - Produktdokumentation
+description: Skapa meddelandetext i appen - Marketo Docs - produktdokumentation
 title: Skapa meddelandetext i appen
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
 
 ---
-
 
 # Skapa meddelandetext i appen {#create-in-app-message-text}
 
@@ -19,7 +18,7 @@ Klicka på textområdet om du vill arbeta med textformatet och innehållet.
 
    ![](assets/image2016-5-6-9-3a56-3a56.png)
 
-1. Välj textfärgen genom att klicka på den eller ange Hex- eller RGB-värdena i färgväljaren.
+1. Välj textfärgen genom att klicka på den eller genom att ange siffrorna Hex eller RGB i färgväljaren.
 
    ![](assets/image2016-5-6-9-3a59-3a1.png)
 
@@ -53,7 +52,7 @@ Klicka på textområdet om du vill arbeta med textformatet och innehållet.
 
    >[!NOTE]
    >
-   >För tryckningsåtgärder kan du ställa in olika åtgärder för Apple- och Android-plattformar. Djuplänkar hanteras till exempel på olika sätt för Apple och Android. Om ditt meddelande endast ska visas på en plattform eller på en annan, kan du lämna den andra i standardinställningen eller välja Ingen.
+   >För tryckåtgärder kan du ställa in olika åtgärder för Apple- och Android-plattformar. Djuplänkar hanteras till exempel på olika sätt för Apple och Android. Om ditt meddelande endast ska visas på en plattform eller på en annan, kan du lämna den andra i standardinställningen eller välja Ingen.
 
 1. Klicka på stödtexten för att redigera den. Det fungerar på samma sätt som att redigera huvudtexten, men standardtextstorleken är mindre.
 
@@ -77,7 +76,7 @@ Klicka på textområdet om du vill arbeta med textformatet och innehållet.
 
    Ändringar som du gör i token som används i ett godkänt meddelandeprogram i appen börjar inte gälla i meddelandet i appen förrän programmet pausas och sedan återupptas.
 
-Du är guld. Sedan måste du [konfigurera meddelandeknappen i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md).
+Du är guld. Nästa steg är att [konfigurera meddelandeknappen i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md).
 
 >[!MORELIKETHIS]
 >

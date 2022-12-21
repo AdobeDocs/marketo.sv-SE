@@ -1,29 +1,28 @@
 ---
 unique-page-id: 11377552
-description: Ange Marketo Sales Insight Plugin Admins - Marketo Docs - Produktdokumentation
+description: Ange administratörer för Marketo Sales Insight-plugin - Marketo Docs - produktdokumentation
 title: Ange administratörer för Marketo Sales Insight-plugin
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+exl-id: 63d8d611-5ce7-4216-9e97-6051dcfcb948
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
-
-# Ange Marketo Sales Insight-plugin-administratörer {#specify-marketo-sales-insight-plugin-admins}
+# Ange administratörer för Marketo Sales Insight-plugin {#specify-marketo-sales-insight-plugin-admins}
 
 Du kan ange vilka kontakter som ska visas i det e-postmeddelande som du skickar till användarna när du bjuder in dem att konfigurera MSI i Outlook.
 
-1. I My Marketo klickar du på **Admin** och sedan **Sales Insight**.
+1. I Min Marketo klickar du på **Administratör** och sedan **Försäljningsinsikter**.
 
    ![](assets/image2016-7-25-14-3a12-3a59.png)
 
-1. Klicka på fliken **E-posttillägg**.
+1. Klicka på **E-posttillägg** -fliken.
 
    ![](assets/image2016-7-25-14-3a2-3a53.png)
 
-1. Klicka på **Ange Plugin-kontakt**.
+1. Klicka **Ange kontakt för plugin-program**.
 
    ![](assets/image2016-7-25-14-3a7-3a27.png)
 
@@ -31,7 +30,7 @@ Du kan ange vilka kontakter som ska visas i det e-postmeddelande som du skickar 
 
    ![](assets/image2016-8-25-11-3a21-3a38.png)
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/image2016-8-25-11-3a17-3a7.png)
 

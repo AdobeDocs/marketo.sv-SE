@@ -42,11 +42,11 @@ LeanData-integrering tillåter nu matchning från lead till konto i Marketo. Hå
 
 **[Förbättringar av förhandsgranskning av kampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
 
-Marknadsförare kan nu se till att deras webbkampanjer ser bra ut på alla enheter *innan* startar dem. Med de här förbättringarna kan du se hur webbkampanjer kommer att se ut på både dator, mobila enheter och surfplattor. Den nya pluginen för Chrome ger också enhetligare och exaktare förhandsgranskningar.
+Marknadsförare kan nu se till att deras webbkampanjer ser bra ut på alla enheter *före* att sätta igång dem. Med de här förbättringarna kan du se hur webbkampanjer kommer att se ut på både dator, mobila enheter och surfplattor. Den nya pluginen för Chrome ger också enhetligare och exaktare förhandsgranskningar.
 
 **[Förbättringar av widgetkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)**
 
-Nu finns nya alternativ för widgetkampanjer:
+Nu finns nya alternativ för widgetkampanjer, bland annat:
 
 * Utlösa kampanjer (fördröjning, rullning)
 * Visa kampanjer (alla positioner på skärmen)
@@ -66,4 +66,4 @@ Få ut ännu mer av er upplevelse av e-postinsikter med nya sätt att förbereda
 
 ## Stöd för konfiguration av federerade identiteter {#federated-identity-configuration-support}
 
-Håll autentiseringen (Active Directory) bakom brandväggen lokalt medan du fortsätter använda Microsoft Dynamics CRM i molnet.
+Håll autentiseringen (Active Directory) bakom brandväggen lokalt medan du fortsätter att använda Microsoft Dynamics CRM i molnet.

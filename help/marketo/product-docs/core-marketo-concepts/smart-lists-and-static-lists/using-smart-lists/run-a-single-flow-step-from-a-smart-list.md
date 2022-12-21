@@ -3,7 +3,6 @@ unique-page-id: 557322
 description: Köra ett enda flödessteg från en smart lista - Marketo Docs - produktdokumentation
 title: Köra ett enda flödessteg från en smart lista
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '234'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Kör ett enskilt flödessteg från en smart lista {#run-a-single-flow-step-from-a-smart-list}
+# Köra ett enda flödessteg från en smart lista {#run-a-single-flow-step-from-a-smart-list}
 
 Om du vill köra ett enda steg för ett enda flöde kan du använda ett enda flödessteg i en smart lista i stället för att skapa en hel smart kampanj.
 
@@ -23,7 +22,7 @@ Om du vill köra ett enda steg för ett enda flöde kan du använda ett enda fl�
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Välj en lista eller smart lista med personer i den och gå sedan till fliken **Personer**.
+1. Välj en lista eller smart lista med personer i den och gå sedan till **Folk** -fliken.
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -31,27 +30,27 @@ Om du vill köra ett enda steg för ett enda flöde kan du använda ett enda fl�
    >
    >Både statiska listor och smarta listor har den här funktionen.
 
-1. Klicka på **Markera alla**. Du kan också använda **Ctrl/Cmd** och klicka för att markera några poster manuellt.
+1. Klicka **Markera alla**. Du kan också använda **Ctrl/Cmd** och klicka för att markera några poster manuellt.
 
    ![](assets/smartlist-selectallhand.png)
 
    >[!NOTE]
    >
-   >Om resultatet sträcker sig över flera sidor och du klickar på **Markera alla** markeras alla personer på alla sidor.
+   >Om resultatet sträcker sig över flera sidor klickar du på **Markera alla** markerar alla personer på alla sidor.
 
-1. Välj önskat flödessteg under **Person** **Åtgärder**. I det här exemplet använder vi [Ändra datavärde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+1. Under **Person** **Åtgärder** väljer du ett flödessteg. I det här exemplet kommer vi att använda [Ändra datavärde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
    ![](assets/personactions-hands.png)
 
-1. Sök efter och välj ett **attribut**. I det här exemplet tar vi alla som har delstat&quot;Kalifornien&quot; och ändrar det till&quot;Kalifornien&quot;.
+1. Söka efter och markera en **Attribut**. I det här exemplet tar vi alla som har delstat&quot;Kalifornien&quot; och ändrar det till&quot;Kalifornien&quot;.
 
    ![](assets/runaction-hands.png)
 
-1. Ange ett nytt värde. Klicka på **Kör nu**.
+1. Ange ett nytt värde. Klicka **Kör nu**.
 
    ![](assets/runactionnewvalue-hands.png)
 
-1. Om du ändrar datavärden för ett stort antal personer kan du behöva bekräfta ändringen genom att skriva in talet. Klicka på **Gå till**.
+1. Om du ändrar datavärden för ett stort antal personer kan du behöva bekräfta ändringen genom att skriva in talet. Klicka **Gå för den**.
 
    ![](assets/changedatavalue.jpg)
 

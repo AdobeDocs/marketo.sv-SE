@@ -1,15 +1,14 @@
 ---
 unique-page-id: 3571892
-description: Använda fältorganisatörer - Marketo Docs - Produktdokumentation
+description: Använda fältorganisatörer - Marketo Docs - produktdokumentation
 title: Använda fältorganisatörer
-translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+exl-id: 578969f7-9380-4019-9b86-85c659a216b3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
 
 ---
-
 
 # Använda fältorganisatörer {#using-field-organizers}
 
@@ -23,25 +22,25 @@ Det finns ingen specifik rapport för fältorganisatörer.
 
 Fältorganisatörer används i modellprestandaanalys.
 
-## Så här skapar du fältorganisatörer {#how-to-create-field-organizers}
+## Skapa fältorganisatörer {#how-to-create-field-organizers}
 
-1. Klicka på **Databas**.
+1. Klicka **Databas**.
 
    ![](assets/db.png)
 
-1. Under **Ny** väljer du **Ny fältorganisatör**.
+1. Under **Nytt**, markera **Ny fältorganisatör**.
 
    ![](assets/two-1.png)
 
-1. Välj ett attribut under **Fält**. Beskrivningen är valfri.
+1. Under **Fält** väljer du ett attribut. Beskrivningen är valfri.
 
    ![](assets/three-1.png)
 
-1. Klicka på **Skapa**.
+1. Klicka **Skapa**.
 
    ![](assets/image2015-9-3-16-3a36-3a31.png)
 
-1. Ge gruppen ett namn och ange data (detta beror på datatypen för det markerade fältet). Klicka på **Lägg till grupp**.
+1. Ge gruppen ett namn och ange data (detta beror på datatypen för det markerade fältet). Klicka **Lägg till grupp**.
 
    ![](assets/image2015-9-3-16-3a40-3a45.png)
 

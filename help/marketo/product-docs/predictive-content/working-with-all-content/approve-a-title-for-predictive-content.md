@@ -2,14 +2,13 @@
 unique-page-id: 11384661
 description: Godkänn en titel för prediktivt innehåll - Marketo Docs - produktdokumentation
 title: Godkänn en titel för prediktivt innehåll
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 158ab21d-f5d6-452d-976e-8b50b2670b1a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
 
 ---
-
 
 # Godkänn en titel för prediktivt innehåll {#approve-a-title-for-predictive-content}
 
@@ -21,7 +20,7 @@ Du kan lägga till vilken rubrik som helst på sidan Allt innehåll i det predik
 
    ![](assets/image2017-10-3-9-3a9-3a47.png)
 
-1. Klicka på listrutan **Innehållsåtgärder** och välj **Godkänn för prediktivt innehåll**.
+1. Klicka på **Innehållsåtgärder** nedrullningsbar meny och välj **Godkänn för prediktivt innehåll**.
 
    ![](assets/image2017-10-3-9-3a10-3a31.png)
 
@@ -33,7 +32,7 @@ Du kan också godkänna titlar för prediktivt innehåll direkt på popup-menyn 
 
    ![](assets/image2017-10-3-9-3a14-3a55.png)
 
-1. Markera rutan **Godkänn för prediktivt innehåll** på popup-menyn Redigera innehåll och klicka på **Spara**.
+1. Kontrollera **Godkänn för prediktivt innehåll** i popup-rutan Redigera innehåll och klicka på **Spara**.
 
    ![](assets/image2017-10-3-9-3a15-3a35.png)
 

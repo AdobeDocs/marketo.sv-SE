@@ -1,21 +1,20 @@
 ---
 unique-page-id: 14352622
-description: Skip Weekends - Marketo Docs - produktdokumentation
+description: Hoppa över helger - Marketo Docs - produktdokumentation
 title: Hoppa över helger
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 4d7bf11a-71a2-4ae0-ad24-02be81e53957
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
-
 # Hoppa över helger {#skip-weekends}
 
 När ni automatiserar en kampanj vill ni förmodligen inte att era e-postmeddelanden ska skickas ut på en lördag eller söndag. Annars kan du hoppa över helger.
 
-1. Klicka på fliken **Kampanjer** i Sales Connect.
+1. I Sales Connect klickar du på **Kampanjer** -fliken.
 
    ![](assets/one-2.png)
 
@@ -23,11 +22,11 @@ När ni automatiserar en kampanj vill ni förmodligen inte att era e-postmeddela
 
    ![](assets/two-2.png)
 
-1. Klicka på **Inställningar**.
+1. Klicka **Inställningar**.
 
    ![](assets/three-2.png)
 
-1. Markera kryssrutan **Hoppa över helger**.
+1. Välj **Hoppa över helger** kryssrutan.
 
    ![](assets/four-2.png)
 

@@ -3,7 +3,6 @@ unique-page-id: 557337
 description: Skapa och ändra vyer för listor och smarta listor - Marketo Docs - produktdokumentation
 title: Skapa och ändra vyer för listor och smarta listor
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '224'
@@ -17,7 +16,7 @@ En smart lista visar en standarduppsättning med kolumner. Visste du att du kund
 
 ## Skapa en vy {#create-a-view}
 
-1. Gå till en lista eller smart lista, klicka på fliken **Personer** och klicka på **Skapa** **Visa** under listrutan **Visa**.
+1. Gå till en lista eller smart lista och klicka på **Folk** och klicka på **Skapa** **Visa** under **Visa** nedrullningsbar meny.
 
    ![](assets/smartlist-createview.png)
 
@@ -31,11 +30,11 @@ En smart lista visar en standarduppsättning med kolumner. Visste du att du kund
 
 >[!TIP]
 >
->Om du snabbt vill söka använder du rutan **Sök**.
+>Om du snabbt vill söka använder du **Sök** box.
 
 ## Växla vy {#switch-views}
 
-1. Klicka på listrutan **Visa** och välj sedan önskad vy. Växla fram och tillbaka mellan vyer efter behov.
+1. Klicka på **Visa** och sedan välja önskad vy. Växla fram och tillbaka mellan vyer efter behov.
 
    ![](assets/smartlist-customviewchoose.png)
 
@@ -45,25 +44,25 @@ En smart lista visar en standarduppsättning med kolumner. Visste du att du kund
 
 ## Redigera en vy {#edit-a-view}
 
-1. Kontrollera att vyn som du vill redigera är markerad i listrutan **Visa**.
+1. Se till att vyn som du vill redigera är markerad i **Visa** nedrullningsbar meny.
 
    ![](assets/smartlist-customviewchoose.png)
 
-1. Klicka på alternativet **Redigera**.
+1. Klicka på **Redigera** alternativ.
 
    ![](assets/smartlist-editcustomview.png)
 
-1. Gör önskade ändringar och klicka på **Spara**.
+1. Gör de ändringar du vill och klicka **Spara**.
 
    ![](assets/image2014-9-12-11-3a27-3a19.png)
 
 ## Ta bort en vy {#delete-a-view}
 
-1. Välj alternativet **Redigera** för vyn som du vill ta bort från listrutan **Visa**.
+1. Välj **Redigera** för den vy du vill ta bort från **Visa** nedrullningsbar meny.
 
    ![](assets/smartlist-editcustomview.png)
 
-1. Klicka på **Ta bort**.
+1. Klicka **Ta bort**.
 
    ![](assets/image2014-9-12-11-3a27-3a39.png)
 

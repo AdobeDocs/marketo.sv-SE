@@ -28,4 +28,4 @@ Den här mallen innehåller följande innehåll:
 
 **Högerklicka nedan om du vill hämta den här mallen:**
 
-[Template 7B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7b.html)
+[Mall 7B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7b.html)

@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2359726
-description: Redigera landningssidans titel och metadata - Marketo Docs - Produktdokumentation
+description: Redigera landningssidans titel och metadata - Marketo Docs - produktdokumentation
 title: Redigera landningssidrubrik och metadata
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
-
 # Redigera landningssidrubrik och metadata {#edit-landing-page-title-and-metadata}
 
-Med Marketo kan du redigera din landningssida [metataggar för SEO-syften](https://www.w3schools.com/tags/tag_meta.asp) samt anpassa `<head>`-delen av HTML.
+Med Marketo kan du redigera din landningssida [metataggar för SEO-ändamål](https://www.w3schools.com/tags/tag_meta.asp) samt anpassa `<head>` del av HTML.
 
-1. Markera en landningssida och klicka på **Redigera utkast**.
+1. Välj en landningssida och klicka på **Redigera utkast**.
 
    ![](assets/image2014-9-17-11-3a39-3a21.png)
 
@@ -23,17 +22,17 @@ Med Marketo kan du redigera din landningssida [metataggar för SEO-syften](https
    >
    >Designern för landningssidan öppnas i ett nytt fönster.
 
-1. Klicka på **Redigera sidmetataggar** under **Åtgärder för landningssida**.
+1. Under **Åtgärder för landningssida**, klicka **Redigera metadatataggar för sidor**.
 
    ![](assets/image2014-9-17-11-3a39-3a32.png)
 
-1. Ange **titel**, **Nyckelord** och **Beskrivning** för sidan. Välj det önskade alternativet **Robots** och ange valfritt anpassat innehåll för HTML `<head>`-avsnittet. Klicka på **Spara**.
+1. Ange **Titel**, **Nyckelord** och **Beskrivning** för sidan. Markera önskat **Robotar** och ange allt anpassat innehåll för HTML `<head>` -avsnitt. Klicka **Spara**.
 
    ![](assets/image2014-9-17-11-3a39-3a50.png)
 
    >[!TIP]
    >
-   >**Vad betyder  [](https://www.robotstxt.org/meta.html) robotar?**
+   >**Vad gör [robotar](https://www.robotstxt.org/meta.html) menar du?**
    >
    >**index**: sidan är sökbar på webben. **följ**: sökmotorer kan följa länkar på indexerade sidor.
 

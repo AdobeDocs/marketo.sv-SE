@@ -1,7 +1,8 @@
 ---
 description: Kör kampanj - Marketo Docs - produktdokumentation
 title: Kör kampanj
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
 source-wordcount: '711'
 ht-degree: 0%
@@ -22,7 +23,7 @@ Det finns mycket du kan göra med en körbar kampanj. De är utformade för att 
 
 Du kan också använda dem när du behöver köra ett separat flöde, men du måste vara beroende av resultatet av det flödet i efterföljande val av flödessteg (d.v.s. göra det).
 
-Kör kampanj är en förbättring på [Begär kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), eftersom den kan köras i serie eller parallellt, medan den senare bara körs parallellt.
+Execute Campaign är en förbättring vid [Begär kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), eftersom den kan köras i serie eller parallellt, medan den senare endast körs parallellt.
 
 >[!NOTE]
 >
@@ -34,13 +35,13 @@ Kör kampanj är en förbättring på [Begär kampanj](/help/marketo/product-doc
 
    ![](assets/execute-campaign-1.png)
 
-1. Ge den ett namn, markera kryssrutan **Körbar** och klicka på **Skapa**.
+1. Ge den ett namn, välj **Körbar** och klicka **Skapa**.
 
    ![](assets/execute-campaign-2.png)
 
 1. Definiera Smart List och Flow, precis som andra smarta kampanjer.
 
-Du kan också klona en befintlig smart kampanj. Om du klonar en befintlig körbar kampanj måste du fortfarande markera kryssrutan **Körbar** när du har namngett den.
+Du kan också klona en befintlig smart kampanj. Om du klonar en befintlig körbar kampanj måste du ändå välja **Körbar** efter namngivning.
 
 >[!NOTE]
 >
@@ -54,28 +55,28 @@ Om värdet är true skickas följande tokenkontexter till den underordnade kampa
 * Kampanjtoken
 * Programtoken
 * Medlemstoken
-* [Utlösartoken](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)  (om de anropas från en utlöst kampanj)
+* [Utlösartoken](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) (om det anropas från en utlöst kampanj)
 
 **API-interaktion**
 
-När du använder Schedule eller Request Campaign [i API](https://developers.marketo.com/rest-api/assets/smart-campaigns/#batch) kan du båda skicka värden för Mina token, som åsidosätter de värden som angetts för dessa token i kampanjen som du anropar. Om den kampanjen sedan kör en annan kampanj och anger &quot;Use Parent Context to True&quot;, används de värden som skickas via API:t i stället för de värden som anges i programmet.
+Vid användning av Schedule eller Request Campaign [i API:t](https://developers.marketo.com/rest-api/assets/smart-campaigns/#batch)kan du båda skicka värden för Mina token, som åsidosätter de värden som angetts för dessa token i kampanjen som du anropar. Om den kampanjen sedan kör en annan kampanj och anger &quot;Use Parent Context to True&quot;, används de värden som skickas via API:t i stället för de värden som anges i programmet.
 
 ## Saker att notera {#things-to-note}
 
 * Smart List filtrerar bort alla som inte är kvalificerade. Om en person kvalificerar sig kommer den resulterande körda kampanjaktivitetsposten att visa dem som&quot;Kvalificerade: TRUE&quot; (och FALSE om de inte gör det)
 * Schemalägg kampanjkvalificeringsregler gäller (inställningarna för smart kampanj under fliken Schema)
 * Körbara kampanjer kan inte anropas mellan arbetsytor
-* Om du använder flödesåtgärden [Ta bort från flöde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) för en körbar kampanj kommer den att ha både det underordnade och det överordnade målet
+* Om du använder [Ta bort från flöde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) Flödesåtgärd som riktar sig till en körbar kampanj, som riktar sig till både det underordnade och det överordnade objektet
 * Utnyttja fördelarna med tokenarv - Om du till exempel har ett enda gemensamt poängflöde som aktiveras av flera olika resurser kan du definiera standardvärdet för Min token i den underordnade kampanjen och i den överordnade kampanjen så att du kan åsidosätta kampanjvärdet för det underordnade poängvärdet för dina överordnade kampanjer (se nedan som visuellt exempel)
 * Körbara kampanjer kan anropas på upp till tre nivåer djupa (t.ex. Överordnad kampanj > Underordnad > Underordnad > Underordnad)
 
 >[!CAUTION]
 >
->Lämna aldrig dina smarta listor för körbara kampanjer ogiltiga, annars är ingen **berättigad**. Det bästa sättet är att skapa separata resurser för smarta listor, definiera dem helt och se till att de är giltiga. Använd sedan filtret&quot;Medlem i smart lista&quot; i den körbara kampanjen så att du kan byta ut din smarta listdefinition.
+>Lämna aldrig dina smarta listor för körbara kampanjer ogiltiga, annars **ingen** kvalificerar sig för det. Det bästa sättet är att skapa separata resurser för smarta listor, definiera dem helt och se till att de är giltiga. Använd sedan filtret&quot;Medlem i smart lista&quot; i den körbara kampanjen så att du kan byta ut din smarta listdefinition.
 
 ## Exempel på tokenarv {#token-inheritance-example}
 
-Nedan visas ett visuellt exempel på tokenarv i en körbar kampanj och två överordnade kampanjer: ett med tokenkontext inställd på **True**, det andra på **Falskt**.
+Nedan visas ett visuellt exempel på tokenarv i en körbar kampanj och två överordnade kampanjer: en med tokenkontext inställd på **True**, den andra till **Falskt**.
 
 Underordnad kampanj med en tokeniserad Change Score.
 
@@ -87,7 +88,7 @@ Barnets kampanj är Mina token.
 
 **Exempel ett - sant**
 
-I steget Kör kampanjflöde i den första överordnade kampanjen anges &quot;Use Parent Campaign Token Context&quot; till **True**.
+I steget Kör kampanjflöde i den första överordnade kampanjen ställs kontexten för Använd överordnad kampanjtoken in på **True**.
 
 ![](assets/execute-campaign-5.png)
 
@@ -101,7 +102,7 @@ Resultatet: värdet ändrat med +10.
 
 **Exempel två: Falskt**
 
-I filtret Kör kampanj i den andra överordnade kampanjen är &quot;Use Parent Campaign Token Context&quot; inställt på **Falskt**.
+I filtret Kör kampanj för den andra överordnade kampanjen är inställningen Använd överordnad kampanjtokenkontext inställd på **Falskt**.
 
 ![](assets/execute-campaign-8.png)
 

@@ -2,24 +2,23 @@
 unique-page-id: 14352639
 description: Skapa en ny mall - Marketo Docs - Produktdokumentation
 title: Skapa en ny mall
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 9f597aa6-587d-4b23-a6ab-958f17caeecb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
-
 # Skapa en ny mall {#create-a-new-template}
 
-1. Navigera till fliken **Mallar** och klicka på **Skapa mall**.
+1. Navigera till **Mallar** och klicka **Skapa mall**.
 
-1. Välj en **kategori** och **namn** för e-postmallen och klicka sedan på **Skapa**.
+1. Välj en **Kategori** och **Namn** för din e-postmall och klicka sedan på **Skapa**.
 
 1. Skapa en ämnesrad för e-postmeddelandet i mallredigeraren och skriv önskat meddelande. Använda redigeringsverktygen (teckensnitt, textstorlek osv.) för att anpassa utseendet.
 
-1. Klicka på **Spara** för att slutföra ändringarna.
+1. Klicka **Spara** för att slutföra ändringarna.
 
 >[!TIP]
 >

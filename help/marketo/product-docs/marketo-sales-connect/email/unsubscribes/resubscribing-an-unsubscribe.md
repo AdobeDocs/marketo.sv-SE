@@ -2,16 +2,15 @@
 unique-page-id: 14746177
 description: Prenumerera på ett abonnemang - Marketo Docs - produktdokumentation
 title: Prenumerera på och avbryta prenumeration
-translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+exl-id: 1c451ff7-c56f-477e-b287-898c359aedcf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
 
 ---
 
-
-# Prenumerera på ett Avbeställ {#resubscribing-an-unsubscribe}
+# Prenumerera på och avbryta prenumeration {#resubscribing-an-unsubscribe}
 
 Ibland vill man avanmäla sig från att ta emot e-post. Så här gör du för att avbeställa tjänsten.
 
@@ -27,17 +26,17 @@ Ibland vill man avanmäla sig från att ta emot e-post. Så här gör du för at
 >
 >Om du har avaktiverat synkronisering av prenumerationen måste du ta bort avprenumerationen från ToutApp och avmarkera avregistreringen i Salesforce för att personposten inte ska synkroniseras igen.
 
-1. Gå till [webbprogrammet](https://toutapp.com/login) och klicka på **Personer**.
+1. Gå till [webbprogram](https://toutapp.com/login) och klicka **Folk**.
 
 1. Markera personen som du vill öppna vyn med personinformation.
 
    ![](assets/two.png)
 
-1. Klicka på de tre punkterna i vyn med personinformation och välj **Ta bort avanmälan**.
+1. Klicka på de tre punkterna i personinformationsvyn och välj **Ta bort Avbeställ**.
 
    ![](assets/three.png)
 
-1. Välj orsaken till varför personen har valts in igen för att få e-post och klicka sedan på **Ta bort avanmälan**.
+1. Välj orsaken till varför personen har valts in igen för att få e-post och klicka sedan på **Ta bort Avbeställ**.
 
    ![](assets/four.png)
 

@@ -1,15 +1,14 @@
 ---
 unique-page-id: 10099415
-description: Email Insights Quick Charts - Marketo Docs - produktdokumentation
+description: Snabbdiagram för e-postinsikter - Marketo Docs - produktdokumentation
 title: Snabbdiagram för e-postinsikter
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 5c071694-af86-48bd-8159-f877c51364f2
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 0%
 
 ---
-
 
 # Snabbdiagram för e-postinsikter {#email-insights-quick-charts}
 
@@ -43,7 +42,7 @@ I det här exemplet väljer vi en öppen kurs för de första tre veckorna i feb
 
    ![](assets/six.png)
 
-1. Ge snabbdiagrammet ett namn och klicka på **Spara**.
+1. Ge snabbdiagrammet ett namn och klicka **Spara**.
 
    ![](assets/seven.png)
 
@@ -65,7 +64,7 @@ I det här exemplet väljer vi en öppen kurs för de första tre veckorna i feb
 
 Vill du ta bort ett snabbdiagram? Det är enkelt!
 
-1. Klicka på ikonen **Snabbdiagram**.
+1. Klicka på **Snabbdiagram** ikon.
 
    ![](assets/nine.png)
 
@@ -73,7 +72,7 @@ Vill du ta bort ett snabbdiagram? Det är enkelt!
 
    ![](assets/ten.png)
 
-1. Klicka på **OK**.
+1. Klicka **OK**.
 
    ![](assets/eleven.png)
 

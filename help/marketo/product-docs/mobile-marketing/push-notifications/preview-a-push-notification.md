@@ -1,21 +1,20 @@
 ---
 unique-page-id: 10092730
-description: Förhandsgranska ett push-meddelande - Marketo Docs - Produktdokumentation
+description: Förhandsgranska ett push-meddelande - Marketo Docs - produktdokumentation
 title: Förhandsgranska ett push-meddelande
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
 
 ---
 
-
 # Förhandsgranska ett push-meddelande {#preview-a-push-notification}
 
-Det är enkelt att förhandsgranska hur ditt push-meddelande kommer att se ut, antingen för Android eller iOS. Det finns fyra sätt att göra det på.
+Det är enkelt att förhandsgranska hur ditt push-meddelande kommer att se ut, för Android eller iOS. Det finns fyra sätt att göra det på.
 
-Högerklicka på filen för det meddelande som du vill förhandsgranska i navigeringsträdet och klicka på **Förhandsgranska**.
+Högerklicka på filen i navigeringsträdet för meddelandet som du vill förhandsgranska och klicka på **Förhandsgranska**.
 
 >[!NOTE]
 >
@@ -23,11 +22,11 @@ Högerklicka på filen för det meddelande som du vill förhandsgranska i navige
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
-Eller klicka på **Push Notifications Actions** och **Preview** på sidan Push Notification-vy. Du kan också klicka på **Förhandsgranska** längst till höger.
+Eller klicka på **Push-meddelandeåtgärder** och sedan **Förhandsgranska**. Eller klicka **Förhandsgranska** längst till höger.
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
-I redigeraren kan du slutligen klicka på fliken **Förhandsgranska utkast** i det övre högra hörnet när du arbetar med meddelandet.
+I redigeraren kan du slutligen klicka på **Förhandsgranska utkast** i det övre högra hörnet när du arbetar med meddelandet.
 
 ![](assets/image2015-9-14-15-3a55-3a26.png)
 
@@ -47,7 +46,7 @@ På låsskärmen visas den upp och ned under tiden.
 >
 >Det finns ingen meddelandecentervy i Android.
 
-## iOS-förhandsvisningar {#ios-previews}
+## iOS Previews {#ios-previews}
 
 Precis som med Android kan du växla mellan vyer genom att klicka på eller använda tangentbordspilar.
 

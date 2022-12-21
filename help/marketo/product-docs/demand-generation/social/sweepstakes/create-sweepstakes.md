@@ -2,16 +2,15 @@
 unique-page-id: 2359795
 description: Create Sweepstakes - Marketo Docs - produktdokumentation
 title: Skapa Lotterier
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: c16c03df-86d0-40ee-ad95-3c2653fa2a07
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
 
 ---
 
-
-# Skapa Lotteriet {#create-sweepstakes}
+# Skapa Lotterier {#create-sweepstakes}
 
 En utlottning ger folk en chans att vinna ett pris i utbyte mot att de berättar för sina vänner om dig. Du kan släppa det på landningssidor, på din webbplats och till och med på Facebook.
 
@@ -19,11 +18,11 @@ En utlottning ger folk en chans att vinna ett pris i utbyte mot att de berättar
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
-1. I programmet väljer du **Nytt** > **Ny lokal resurs**.
+1. Välj **Nytt** > **Ny lokal resurs**.
 
    ![](assets/image2014-9-25-17-3a29-3a20.png)
 
-1. Klicka på **Lotteriet** i det lokala tillgångsgalleriet.
+1. Klicka på i galleriet med lokala resurser **Lotteriet**.
 
    ![](assets/image2014-9-25-17-3a29-3a31.png)
 
@@ -33,11 +32,11 @@ En utlottning ger folk en chans att vinna ett pris i utbyte mot att de berättar
 
    >[!TIP]
    >
-   >Om du vill spara tid kan du använda alternativet **Klona från** för att kopiera alla inställningar från en befintlig svephög.
+   >Du kan spara tid med **Klona från** om du vill kopiera alla inställningar från en befintlig utlottning.
 
    Redaktören öppnas i ett nytt fönster. Standardinställningarna är bra, men du måste ändå konfigurera några detaljer. Vi visar hur man gör i nästa steg.
 
-1. Klicka på **Lotteriinformation**.
+1. Klicka **Information om Lotteriet**.
 
    ![](assets/image2014-9-25-17-3a32-3a37.png)
 
@@ -49,7 +48,7 @@ En utlottning ger folk en chans att vinna ett pris i utbyte mot att de berättar
    >
    >För daglig- och veckoritning är start- och sluttiderna fasta till 12 respektive 11:59. Om du vill rita en gång kan du välja egna start- och sluttider.
 
-1. Klicka på **Avancerade alternativ**.
+1. Klicka **Avancerade alternativ**.
 
    ![](assets/image2014-9-25-17-3a33-3a19.png)
 
@@ -63,17 +62,17 @@ En utlottning ger folk en chans att vinna ett pris i utbyte mot att de berättar
    >
    >På den här skärmen kan du även lägga till en integritetspolicylänk. Se [Lägg till din integritetspolicy i en social app](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
-1. Klicka på **Slutför**.
+1. Klicka **Slutför**.
 
    ![](assets/image2014-9-25-17-3a34-3a2.png)
 
-1. Klicka på **Godkänn och stäng**.
+1. Klicka **Godkänn och stäng**.
 
    ![](assets/image2014-9-25-17-3a34-3a15.png)
 
    >[!TIP]
    >
-   >Om du vill ändra något av standardvärdena i utlottningen klickar du på **Bakåt**. Om du vill spara ditt arbete för senare bruk utan godkännande klickar du på **Stäng**.
+   >Om du vill ändra något av standardvärdena i dina utlottningar klickar du på **Bakåt**. Om du vill spara ditt arbete för senare bruk utan att godkänna klickar du på **Stäng**.
 
 Om det finns några problem i lotteriet uppmanas du att åtgärda dem innan lotteriet godkänns.
 
@@ -81,4 +80,4 @@ Grattis! Du har skapat en utlottning.
 
 >[!MORELIKETHIS]
 >
->Nästa steg är att [publicera dina utlottningar](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md), men du kan ändra utseendet och inställningarna för dina utlottningar. Börja med att [anpassa dina utlottningsformat](/help/marketo/product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md).
+>Nästa steg är att [publicera dina utlottningar](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)men du kan ändra utseendet och inställningarna för dina utlottningar. Börja med [anpassa dina utlottningsstilar](/help/marketo/product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md).

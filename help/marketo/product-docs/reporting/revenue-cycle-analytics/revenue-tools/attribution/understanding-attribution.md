@@ -1,33 +1,32 @@
 ---
 unique-page-id: 2953136
-description: Förstå attribut - Marketo Docs - Produktdokumentation
+description: Förstå attribut - Marketo Docs - produktdokumentation
 title: Förstå attribut
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: bf5f3d0f-809a-4fb1-835a-d87b733bd6c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
 
 ---
 
-
 # Förstå attribut {#understanding-attribution}
 
 ## Vad är attribuering? {#what-is-attribution}
 
-Attribution är hur Marketo ger kredit åt program som påverkar försäljning och möjligheter. Om ni använder Marketo-modelleraren kan attribuering även ge betyg för att flytta någon framåt i er affärsmodell.
+Attribution är det sätt som Marketo ger betyg åt program som påverkar försäljning och möjligheter. Om du använder Marketo-modelleraren kan attribuering även ge betyg åt att flytta någon framåt i din affärsmodell.
 
 ## Varför hålla reda på det här? {#why-keep-track-of-this}
 
 Attribution hjälper er att mäta programframgången. Vissa program är avsedda att generera nya namn medan andra är avsedda att öka försäljningen. Genom att ha ett system för attribuering kan ni fatta väl underbyggda beslut om vilka program ni ska investera i.
 
-## First Touch-attribut (FT) {#first-touch-ft-attribution}
+## First Touch-attribuering (FT) {#first-touch-ft-attribution}
 
-First Touch-attribuering (FT) besvarar en **enkel affärsfråga**,&quot;Vilka program är bra på att skaffa lönsamma nya namn?&quot;
+First Touch-attribuering (FT) ger svar på en **enkel företagsfråga**,&quot;Vilka program är bra på att skaffa lönsamma nya namn?&quot;
 
 ## MultiTouch-attribuering {#multi-touch-attribution}
 
-MultiTouch besvarar en **komplicerad affärsfråga**,&quot;Vilka program är mest inflytelserika när det gäller att föra människor framåt i säljcykeln över tid?&quot;
+MultiTouch ger svar på en **komplicerad affärsfråga**,&quot;Vilka program är mest inflytelserika när det gäller att föra människor framåt i säljcykeln över tid?&quot;
 
 ## Attributionsregler {#rules-of-attribution}
 

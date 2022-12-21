@@ -2,14 +2,13 @@
 unique-page-id: 2359873
 description: Ta bort en överförd bild eller fil - Marketo Docs - produktdokumentation
 title: Ta bort en överförd bild eller fil
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
-
 
 # Ta bort en överförd bild eller fil {#delete-an-uploaded-image-or-file}
 
@@ -17,11 +16,11 @@ ht-degree: 0%
 
    ![](assets/designstudio-5.png)
 
-1. Välj **Bilder och filer** i den vänstra menyn och klicka sedan på bredvid namnet på filen som du vill ta bort.
+1. Välj **Bilder och filer** i den vänstra menyn klickar du på bredvid namnet på filen som du vill ta bort.
 
    ![](assets/image2014-9-16-11-3a18-3a15.png)
 
-1. Klicka på listrutan **Filåtgärder** och välj **Ta bort**.
+1. Klicka på **Filåtgärder** nedrullningsbar meny och välj **Ta bort**.
 
    ![](assets/image2014-9-16-11-3a18-3a22.png)
 
@@ -33,7 +32,7 @@ ht-degree: 0%
    >
    >Borttagna bilder och filer tas bort helt från Marketo och kan inte återställas.  De kommer inte längre att visas på landningssidor eller e-postmeddelanden där de används.
 
-1. Du kommer tillbaka till sidan **Bilder** och **Filer** där du ser att filen har tagits bort.
+1. Du kommer tillbaka till **Bilder** och **Filer** sidan där du ser att filen har tagits bort.
 
    ![](assets/image2014-9-16-11-3a19-3a0.png)
 

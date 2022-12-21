@@ -3,7 +3,6 @@ unique-page-id: 1147082
 description: Ta bort person - Marketo Docs - produktdokumentation
 title: Ta bort person
 exl-id: 40039444-9b2a-4b80-93bc-7da3d6e9475c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
@@ -37,4 +36,4 @@ Du kan ta bort från Marketo och inte från CRM, till exempel:
 
 >[!NOTE]
 >
->Att ta bort personen från CRM **fungerar bara med Salesforce**. Om du tar bort en person från Marketo och väljer att behålla den i Salesforce, återskapas personen i Marketo om deras Salesforce-post någonsin uppdateras.
+>Ta bort personen från CRM **fungerar endast med Salesforce**. Om du tar bort en person från Marketo och väljer att behålla den i Salesforce, återskapas personen i Marketo om deras Salesforce-post någonsin uppdateras.

@@ -3,7 +3,6 @@ unique-page-id: 7504437
 description: Lägg till en bakgrundsbild i en presentation - Marketo Docs - produktdokumentation
 title: Lägga till en bakgrundsbild i en presentation
 exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '93'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Lägg till en bakgrundsbild i en presentation {#add-a-background-image-to-a-presentation}
+# Lägga till en bakgrundsbild i en presentation {#add-a-background-image-to-a-presentation}
 
 Anpassa en presentation genom att välja en bakgrundsbild.
 
@@ -35,11 +34,11 @@ Anpassa en presentation genom att välja en bakgrundsbild.
 
    >[!TIP]
    >
-   >Använd en bild som är **1920 x 1080** eller **1280 x 720** för att få ett renast utseende.
+   >Använd en bild som **1920 x 1080** eller **1 280 x 720**.
 
    ![](assets/image2015-3-24-14-3a47-3a57.png)
 
-1. Klicka på **Förhandsgranska** för att checka ut den.
+1. Klicka **Förhandsgranska** för att kolla in det.
 
    ![](assets/image2015-3-24-14-3a51-3a1.png)
 

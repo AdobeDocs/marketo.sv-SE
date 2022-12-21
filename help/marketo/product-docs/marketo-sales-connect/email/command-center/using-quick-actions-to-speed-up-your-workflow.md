@@ -1,17 +1,16 @@
 ---
 unique-page-id: 37357306
-description: Snabba upp arbetsflödet - Marketo Docs - Produktdokumentation
+description: Snabba upp arbetsflödet med snabba åtgärder - Marketo Docs - Produktdokumentation
 title: Snabbare arbetsflöde med snabbåtgärder
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 0%
 
 ---
 
-
-# Snabba upp arbetsflödet {#using-quick-actions-to-speed-up-your-workflow} med snabbåtgärder
+# Snabbare arbetsflöde med snabbåtgärder {#using-quick-actions-to-speed-up-your-workflow}
 
 Det finns två typer av snabbåtgärdskolumner i e-postrutnätet. E-poståtgärder, som gör att du kan vidta åtgärder i e-postmeddelandet, och uppföljningsåtgärder, som gör att du kan vidta interaktionsåtgärder med bara några klick.
 
@@ -87,9 +86,9 @@ Snabba e-poståtgärder är dynamiska och uppdateras beroende på de mest releva
 
 ![](assets/using-quick-actions-to-speed-up-your-workflow-1.png)
 
-| Funktion | Beskrivning |
+|  -funktion | Beskrivning |
 |---|---|
 | Skicka e-post med uppföljning | Öppnar dispositionsfönstret med den markerade infogade e-posttexten tillagd och klar att skickas till mottagaren. |
 | Ring | Öppnar säljtelefonen för att ringa ett samtal till e-postmottagaren. |
-| Skicka via e-post | Omdirigerar till LinkedIn för att skicka ett InMail-meddelande till personen. |
+| Skicka via e-post | Dirigerar om till LinkedIn för att skicka ett InMail-meddelande till personen. |
 | Skapa uppgift | Öppnar popup-fönstret för att skapa en påminnelseuppgift. |

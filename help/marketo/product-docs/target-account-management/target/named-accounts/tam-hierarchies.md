@@ -1,15 +1,14 @@
 ---
 unique-page-id: 13795510
-description: TAM Hierarchies - Marketo Docs - Produktdokumentation
+description: TAM Hierarchies - Marketo Docs - produktdokumentation
 title: TAM-hierarkier
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
-
 
 # TAM-hierarkier {#tam-hierarchies}
 
@@ -33,8 +32,8 @@ Med TAM-hierarkier kan du snabbt få information om en hel hierarki eller enskil
 
 >[!NOTE]
 >
->Marketo-gränssnittet visar endast upp till 10 nivåer nedåt (det överordnade kontots underordnade och indirekt underordnade konton), men det finns ingen gräns för hur många underordnade konton du kan skapa.
+>Marketo-gränssnittet visar endast upp till 10 nivåer nedåt (det överordnade kontots underordnade och indirekt underordnade konton), men det finns ingen begränsning för hur många underordnade konton du kan skapa.
 
-Rikta in och rapportera hela hierarkier med [ett klick](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
+Målinrikta och rapportera om hela hierarkier med [ett klick](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
 
 ![](assets/member.png)

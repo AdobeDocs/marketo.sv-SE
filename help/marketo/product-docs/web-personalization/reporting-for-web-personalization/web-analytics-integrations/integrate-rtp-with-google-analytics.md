@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2949158
-description: Integrera RTP med Google Analytics - Marketo Docs - Produktdokumentation
+description: Integrera RTP med Google Analytics - Marketo Docs - produktdokumentation
 title: Integrera RTP med Google Analytics
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '608'
 ht-degree: 0%
 
 ---
 
-
 # Integrera RTP med Google Analytics {#integrate-rtp-with-google-analytics}
 
 >[!NOTE]
 >
->Universal Analytics är nu en driftstandard och alla egenskaper i Google har uppgraderats till Universal Analytics.
+>Universal Analytics är nu den operativa standarden och alla egenskaper i Google har uppgraderats till Universal Analytics.
 >
 >I den här artikeln beskrivs hur du använder den gamla Google Standard Analytics, men vi rekommenderar att du går över till Universal Analytics.
 >
->Om du inte redan använder [analytics.js-spårningskoden](https://developers.google.com/analytics/devguides/collection/analyticsjs/) rekommenderar Google att du taggar om webbplatsen så att den används. Följande har tagits bort av Google:
+>Om du inte redan använder [analytics.js tracking code](https://developers.google.com/analytics/devguides/collection/analyticsjs/)rekommenderar Google att du taggar om webbplatsen för att använda den. Följande har tagits bort av Google:
 >
 >* ga.js
 >* urchin.js
@@ -27,10 +26,8 @@ ht-degree: 0%
 >* JT / MO
 >* Egna variabler
 >* Användardefinierade variabler
-
 >
->
-Se hur du kan integrera [webbpersonalisering med Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
+>Se hur ni kan integrera [Webbpersonalisering med Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
 ## Introduktion {#introduction}
 
@@ -42,7 +39,7 @@ Med integreringen får du en ny dimension på ditt GA-konto. RTP förbättrar au
 
 1. Organisationer och branscher
 1. Anpassade segment i RTP
-1. Kontobaserade marknadsföringslistor
+1. Account-Based Marketing
 
 Fokusera på B2B-utsikterna. Analysera kanalerna utifrån riktade branscher och segment.
 
@@ -72,26 +69,26 @@ Mät era RTP-kampanjer och korrelera dem med det övergripande genomsnittliga an
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
-1. Under **Kontoinställningar**, **Domän** och **Analytics**.
+1. Under **Kontoinställningar**, **Domän** och **Analyser**.
 
 1. Klicka på **Google Analytics**.
 
-1. Aktivera relevanta **anpassade variabler** och **händelser** för att lägga till data från RTP till Google Analytics.
+1. Aktivera relevant **Anpassade variabler** och **Händelser** att lägga till dessa data från RTP till Google Analytics.
 
-1. Ange **kortplatsen** för att skicka anpassade variabeldata (standard är 1,2).
+1. Ange **Plats** talet för att skicka anpassade variabeldata (standard är 1,2).
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
 >[!NOTE]
 >
->För att kunna skicka segmentdata till GA markerar du kryssrutan **Skicka händelse till Google Analytics på segmentmatchning** under sidan [Redigera segment](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) på RTP-plattformen.
+>För att kunna skicka segmentdata till GA, under [Redigera segmentsida](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) Markera kryssrutan i RTP-plattformen **Skicka händelse till Google Analytics på segmentmatchning**.
 
 ## Konfigurera Google Analytics-rapporter med RTP-data {#setting-up-google-analytics-reports-with-rtp-data}
 
 I Google Analytics kan du använda kontrollpaneler, GA-segmentering och rapportering för att visa dina RTP-data:
 
-* [På ](https://support.google.com/analytics/answer/1068216?hl=en) kontrollpanelerna finns en översikt över webbplatsens prestanda.
+* [Kontrollpaneler](https://support.google.com/analytics/answer/1068216?hl=en) ger en översikt över webbplatsens prestanda.
 * Ett GA-segment är avsett att filtrera besökare i GA-gränssnittet och visa trafiken per segment. Se hur du skapar ett segment [här](https://support.google.com/analytics/answer/3124493?hl=en).
-* Skapar [anpassade rapporter](https://support.google.com/analytics/answer/1033013?hl=en) för att visa och/eller konfigurera schemalagda e-postmeddelanden. Se under Anpassning > Ny anpassad rapport.
+* Skapar [skräddarsydda rapporter](https://support.google.com/analytics/answer/1033013?hl=en) för att visa och/eller konfigurera schemalagda e-postmeddelanden. Se under Anpassning > Ny anpassad rapport.

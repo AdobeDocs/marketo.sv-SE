@@ -1,15 +1,14 @@
 ---
 unique-page-id: 11384645
-description: Understanding All content - Marketo Docs - Product Documentation
+description: Förstå allt innehåll - Marketo Docs - produktdokumentation
 title: Förstå allt innehåll
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 475943f0-bba4-4bd7-8808-de75475f934d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
 
 ---
-
 
 # Förstå allt innehåll {#understanding-all-content}
 
@@ -28,11 +27,11 @@ Sidfälten innehåller:
 
 Du kan lägga till en ny del av innehållet och spåra den, ta bort en del av innehållet eller godkänna en del av innehållet. När du har godkänt innehållet kan du redigera det på sidan Predictive Content.
 
-## Filtrera innehåll efter kategorier {#filter-content-by-categories}
+## Filtrera innehåll efter kategorier  {#filter-content-by-categories}
 
 Filtrera innehåll genom att markera en eller flera kategorier. Ange sedan datum eller datumintervall för innehållsanalysen med hjälp av standardinställningar eller anpassade inställningar.
 
-1. Klicka på filterikonen på sidan **Allt innehåll** och välj en eller flera innehållskategorier under **Kategori**.
+1. På **Allt innehåll** klickar du på filterikonen under **Kategori** väljer du en eller flera innehållskategorier.
 
    ![](assets/image2017-10-3-9-3a5-3a52.png)
 
@@ -42,7 +41,7 @@ Filtrera innehåll genom att markera en eller flera kategorier. Ange sedan datum
 
 ## Visa analyser för ett datum- eller datumintervall {#display-analytics-for-a-date-or-date-range}
 
-1. Om du vill visa data för ett visst datum eller datumintervall klickar du på kalenderikonen och väljer sedan från den vänstra panelen. Om du vill ange ett anpassat datumintervall klickar du på den första och sista dagen i datumintervallet i kalendern (som visas). Klicka på **Använd**.
+1. Om du vill visa data för ett visst datum eller datumintervall klickar du på kalenderikonen och väljer sedan från den vänstra panelen. Om du vill ange ett anpassat datumintervall klickar du på den första och sista dagen i datumintervallet i kalendern (som visas). Klicka **Använd**.
 
    ![](assets/all-content-calendar-filter-hands.png)
 

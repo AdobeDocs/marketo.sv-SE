@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2360052
-description: Visade webbsidor, aktivitetsrapport för webbsida - Marketo Docs - Produktdokumentation
+description: Visade webbsidor, aktivitetsrapport för webbsida - Marketo Docs - produktdokumentation
 title: Visade webbsidor, aktivitetsrapport för webbsida
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: fb061f2a-7741-4ba8-8ae1-a35f24642e93
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-
 # Visade webbsidor, aktivitetsrapport för webbsida {#web-pages-viewed-web-page-activity-report}
 
-Från en [webbsidesaktivitetsrapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) kan du se de specifika sidor som personerna i rapporten har visat.
+Från en [Aktivitetsrapport för webbsida](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)kan du se de specifika sidor som användarna har sett i rapporten.
 
 >[!PREREQUISITES]
 >
->Om du vill hämta aktiviteter från din webbplats i Marketo måste du först [konfigurera Munchkin på din webbplats](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>Om du vill hämta aktiviteter från din webbplats i Marketo måste du först  [konfigurera Munchkin på din webbplats](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. I [rapporten Webbsidesaktivitet](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) klickar du på siffran i kolumnen Sidvyer.
+1. I [Aktivitetsrapport för webbsida](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)klickar du på siffran i kolumnen Sidvisning.
 
    ![](assets/image2014-9-16-14-3a54-3a8.png)
 
@@ -29,4 +28,4 @@ Från en [webbsidesaktivitetsrapport](/help/marketo/product-docs/reporting/basic
 
    >[!MORELIKETHIS]
    >
-   >Skapa en [företagswebbaktivitetsrapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) för att se vilka företag som besöker din webbplats.
+   >Skapa en  [Företagets webbaktivitetsrapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) för att se vilka företag som besöker er webbplats.

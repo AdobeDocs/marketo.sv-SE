@@ -4,8 +4,8 @@ title: Åsidosättning av prioritet för utlösarkampanjer
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 source-git-commit: 48a49faa6a1fde1e9ac391c2bf0800123f6a5bac
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '220'
+ht-degree: 1%
 
 ---
 
@@ -35,7 +35,7 @@ Administratörer kan åsidosätta Marketo fastställda prioritet för utlösarka
 
    ![](assets/priority-override-for-trigger-campaigns-2.png)
 
-1. Under [!UICONTROL Access Marketing Activities], markera **[!UICONTROL Edit Trigger Campaign Priority]**. Klicka **[!UICONTROL Save]**.
+1. Under [!UICONTROL Access Marketing Activities] väljer du **[!UICONTROL Edit Trigger Campaign Priority]**. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/priority-override-for-trigger-campaigns-3.png)
 

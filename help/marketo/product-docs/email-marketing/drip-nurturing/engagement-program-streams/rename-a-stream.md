@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2359832
-description: Byt namn på en ström - Marketo Docs - Produktdokumentation
+description: Byt namn på en ström - Marketo Docs - produktdokumentation
 title: Byta namn på en ström
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 38e8af11-78a7-4c52-b0d4-301f97d50999
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-
-# Byt namn på en ström {#rename-a-stream}
+# Byta namn på en ström {#rename-a-stream}
 
 Om du vill kunna hålla ordning kan du byta namn på strömmarna. Så här gör du.
 
-1. Hitta och välj ditt engagemangsprogram och klicka sedan på **Streams**.
+1. Hitta och välj engagemangsprogram och klicka sedan på **Strömmar**.
 
    ![](assets/cloneasteam-1.jpg)
 
@@ -23,7 +22,7 @@ Om du vill kunna hålla ordning kan du byta namn på strömmarna. Så här gör 
 
    ![](assets/image2014-9-15-17-3a4-3a10.png)
 
-1. Ange den nya strömmen **Namn** och klicka på **Spara**.
+1. Ange den nya strömmen **Namn** och klicka **Spara**.
 
    ![](assets/image2014-9-15-17-3a4-3a14.png)
 

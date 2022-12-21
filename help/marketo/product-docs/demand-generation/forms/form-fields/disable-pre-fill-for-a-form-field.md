@@ -3,7 +3,6 @@ unique-page-id: 2359675
 description: Inaktivera förifyllning för ett formulärfält - Marketo Docs - produktdokumentation
 title: Inaktivera förifyllning för ett formulärfält
 exl-id: c600e0ce-1b94-4f7b-b75d-f550a2904799
-translation-type: tm+mt
 source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
 source-wordcount: '169'
@@ -17,7 +16,7 @@ När en webbbesökare är känd (kodad) kommer Marketo-formulär att förifylla 
 
 >[!NOTE]
 >
->**Formulärets** förifyllning är aktiverat som standard. Inställningarna för förifyllning på landningssidnivå och förifyllning på administratörsnivå trumpar inställningen för formulärnivå:
+>**Formulär - förifyll** är aktiverat som standard. Inställningarna för förifyllning på landningssidnivå och förifyllning på administratörsnivå trumpar inställningen för formulärnivå:
 >
 >Form > Landing Page > Admin
 
@@ -35,7 +34,7 @@ När en webbbesökare är känd (kodad) kommer Marketo-formulär att förifylla 
    >
    >Förifyll formulär fungerar inte när du bäddar in ett formulär på dina egna sidor. Det fungerar bara på Marketo landningssidor.
 
-1. Markera ett av fälten och ange **Formulärförifyllning** till **Inaktiverad**.
+1. Markera ett av fälten och ange **Formulär - förifyll** till **Handikappade**.
 
    ![](assets/image2014-9-15-14-3a26-3a54.png)
 
@@ -43,16 +42,16 @@ När en webbbesökare är känd (kodad) kommer Marketo-formulär att förifylla 
    >
    >Du kan även inaktivera förifyllnad av formulär på landningssidnivå eller på adminnivå.
 
-1. Klicka på **Slutför**.
+1. Klicka **Slutför**.
 
    ![](assets/image2014-9-15-14-3a27-3a1.png)
 
-1. Klicka på **Godkänn och stäng**.
+1. Klicka **Godkänn och stäng**.
 
    ![](assets/image2014-9-15-14-3a27-3a6.png)
 
 ## Känsliga fält {#sensitive-fields}
 
-När du [markerar ett fält som känsligt](/help/marketo/product-docs/administration/field-management/mark-a-field-as-sensitive.md) och förhindrar att dess värden fylls i i formulär i förväg, visas detta i alternativet Förifyll.
+När du [markera ett fält som känsligt](/help/marketo/product-docs/administration/field-management/mark-a-field-as-sensitive.md), som förhindrar att dess värden fylls i i i förväg, visas i alternativet Förifyll.
 
 ![](assets/disable-pre-fill.png)

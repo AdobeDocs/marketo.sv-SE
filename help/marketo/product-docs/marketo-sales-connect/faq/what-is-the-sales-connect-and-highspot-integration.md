@@ -2,18 +2,17 @@
 unique-page-id: 14352553
 description: Vad är Sales Connect och Highspot Integration? - Marketo Docs - produktdokumentation
 title: Vad är Sales Connect och Highspot Integration?
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 30a7745e-169b-463e-8855-d1c9f14d7753
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%
 
 ---
 
-
 # Vad är Sales Connect och Highspot Integration? {#what-is-the-sales-connect-and-highspot-integration}
 
-Sales Connect stöder integrering med [Highspot](https://www.highspot.com/), ett innehållshanteringssystem. Sales Connect-kunder som också är kunder med högdagrar kan komma åt sitt högdagerinnehåll inifrån webbapplikationen.
+Sales Connect har stöd för integrering med [Högdager](https://www.highspot.com/), ett innehållshanteringssystem. Sales Connect-kunder som också är kunder med högdagrar kan komma åt sitt högdagerinnehåll inifrån webbapplikationen.
 
 ## Krav {#requirements}
 
@@ -23,7 +22,7 @@ Du behöver följande för att kunna använda Sales Connect-integreringen med Hi
 
 Förutom att arbeta i Sales Connect i en webbläsare är integrering med Highspot tillgängligt i vår Outlook .Net-e-postklient. Kraven är följande:
 
-* **Outlook .Net &amp; Exchange**  - version av Outlook .Net, Exchange Online, Exchange 2016 som stöder Sales Connect
+* **Outlook .Net &amp; Exchange** - Den version av Outlook .Net, Exchange Online som stöds av Sales Connect, Exchange 2016
 
 >[!NOTE]
 >
@@ -41,10 +40,10 @@ När du har aktiverat det här gör du så här för att komma åt ditt högdage
 
 1. Välj **Högdager**.
 
-1. Ange e-postadressen till ditt högdagerkonto och klicka på **Fortsätt**.
+1. Ange e-postadressen till ditt högdagerkonto och klicka **Fortsätt**.
 
-1. Ange ditt lösenord för ditt Highspot-konto och klicka på **Logga in**.
+1. Ange lösenordet för ditt högdagerkonto och klicka på **Logga in**.
 
-1. Markera innehållet i det högdagrar som du vill infoga i e-postmeddelandet eller mallen och klicka på **Lägg till innehåll**.
+1. Välj det innehåll från markering som du vill infoga i e-postmeddelandet eller mallen och klicka på **Lägg till innehåll**.
 
 1. Innehållet infogas i e-postmeddelandet eller mallen.

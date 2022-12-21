@@ -3,7 +3,6 @@ unique-page-id: 8782024
 description: Ladda ned Marketo Moments - Marketo Docs - produktdokumentation
 title: Hämtar Marketo Moments
 exl-id: ccd8cb58-f2ae-478d-a3c4-fbc713e3c22a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
@@ -37,11 +36,11 @@ Ladda ned Marketo Moments från App Store eller Google Play och voila! Marketo m
 
    ![](assets/image2015-7-14-9-3a6-3a34.png)
 
-1. Tryck på **Acceptera**.
+1. Tryck **Acceptera**.
 
    ![](assets/image2015-7-7-16-3a41-3a47.png)
 
-1. Tryck på **Installera**.
+1. Tryck **Installera**.
 
    ![](assets/image2015-7-7-16-3a43-3a21.png)
 

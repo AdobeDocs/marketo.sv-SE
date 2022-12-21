@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2359608
-description: Ändra formulärteckensnittsfamiljen - Marketo Docs - Produktdokumentation
+description: Ändra formulärteckensnittsfamiljen - Marketo Docs - produktdokumentation
 title: Ändra teckensnittsfamilj för formulär
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
+# Ändra teckensnittsfamilj för formulär {#change-the-form-font-family}
 
-# Ändra formulärteckensnittsfamiljen {#change-the-form-font-family}
-
-Google Fonts är grymt och vi har byggt in dem direkt i formulärredigeraren. Kolla in den!
+Google Fonts är fantastiska och vi har byggt in dem direkt i formulärredigeraren. Kolla in den!
 
 >[!NOTE]
 >
@@ -27,23 +26,23 @@ Google Fonts är grymt och vi har byggt in dem direkt i formulärredigeraren. Ko
 
    ![](assets/image2014-9-15-15-3a47-3a27.png)
 
-1. Under **Formulärinställningar** väljer du **Inställningar**.
+1. Under **Formulärinställningar**, markera **Inställningar**.
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
-1. Välj den **teckensnittsfamilj** du vill använda.
+1. Välj **Teckensnittsfamilj** du vill ha.
 
    >[!TIP]
    >
-   >En hög med [Google Fonts](https://www.google.com/fonts) är tillgängliga för användning.
+   >Ett gäng [Google Fonts](https://www.google.com/fonts) finns att använda.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
-1. Klicka på **Slutför**.
+1. Klicka **Slutför**.
 
    ![](assets/image2014-9-15-16-3a0-3a15.png)
 
-1. Klicka på **Godkänn och stäng**.
+1. Klicka **Godkänn och stäng**.
 
    >[!NOTE]
    >

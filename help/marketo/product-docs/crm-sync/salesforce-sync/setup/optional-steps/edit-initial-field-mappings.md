@@ -3,7 +3,6 @@ unique-page-id: 4719287
 description: Redigera ursprungliga fältmappningar - Marketo Docs - produktdokumentation
 title: Redigera ursprungliga fältmappningar
 exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '278'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Den här funktionen är bara tillgänglig före den första synkroniseringen till Salesforce! När knappen **Synkronisera nu** trycks ned kan detta inte längre göras.
+>Den här funktionen är bara tillgänglig före den första synkroniseringen till Salesforce! När **Synkronisera nu** om du trycker på knappen. Detta kan inte göras längre.
 
 Under den första synkroniseringen till Salesforce kombinerar Marketo automatiskt anpassade fält med liknande namn till ett enda fält på Marketo-sidan för att säkerställa att data kan utbytas med både lead- och kontaktobjekt i CRM. I den här artikeln beskrivs hur du anpassar mappningarna.
 
@@ -23,11 +22,11 @@ Under den första synkroniseringen till Salesforce kombinerar Marketo automatisk
 
 När du ser ett fält i mappen Omappade fält betyder det att det inte är mappat till ett liknande fält på lead eller kontakt i Salesforce. Du kan fixa det där.
 
-1. Klicka på **Redigera mappningar**.
+1. Klicka **Redigera mappningar**.
 
 ![](assets/image2014-12-9-13-3a31-3a0.png)
 
-1. Öppna mappen **Omappade anpassade fält**.
+1. Öppna **Omappade anpassade fält** mapp.
 
    ![](assets/two.png)
 
@@ -39,7 +38,7 @@ När du ser ett fält i mappen Omappade fält betyder det att det inte är mappa
 
    ![](assets/three.png)
 
-1. Klicka på **Avsluta mappningar** när du är klar.
+1. Klicka **Avsluta mappningar** när du är klar.
 
    ![](assets/four.png)
 
@@ -47,7 +46,7 @@ När du ser ett fält i mappen Omappade fält betyder det att det inte är mappa
 
 Om du har fält med liknande namn på lead- och kontaktobjektet mappas de automatiskt av Marketo. Du kan anse att de är olika och att de har olika data. Bryt mappningen så här.
 
-1. Klicka på **Redigera mappningar**.
+1. Klicka **Redigera mappningar**.
 
    ![](assets/image2014-12-9-13-3a31-3a37.png)
 
@@ -55,7 +54,7 @@ Om du har fält med liknande namn på lead- och kontaktobjektet mappas de automa
 
    ![](assets/image2014-12-9-13-3a31-3a47.png)
 
-1. Klicka på **Avsluta mappningar** när du är klar.
+1. Klicka **Avsluta mappningar** när du är klar.
 
    ![](assets/image2014-12-9-13-3a31-3a58.png)
 
@@ -63,7 +62,7 @@ Om du har fält med liknande namn på lead- och kontaktobjektet mappas de automa
 
 ## Återställ schema {#reset-schema}
 
-1. Om du gör några ändringar i schemat i Salesforce medan du arbetar med mappningarna kan du dra in ändringarna genom att klicka på **Återställ schema**.
+1. Om du gör några ändringar i schemat i Salesforce medan du arbetar med mappningarna kan du dra in ändringarna genom att klicka **Återställ schema**.
 
    * Alla mappningsändringar återställs!
    * Om du återställer schemat läggs bara fält till, inte tas bort (även om du döljer dem för synkroniseringsanvändaren).

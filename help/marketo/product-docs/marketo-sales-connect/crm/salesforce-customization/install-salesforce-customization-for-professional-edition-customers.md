@@ -1,15 +1,14 @@
 ---
 unique-page-id: 27656223
-description: Installera Salesforce-anpassning för Professional Edition-kunder - Marketo Docs - Produktdokumentation
+description: Installera Salesforce-anpassning för Professional Edition-kunder - Marketo Docs - produktdokumentation
 title: Installera Salesforce-anpassning för Professional Edition-kunder
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: dc004a28-b580-4449-9fde-e744681ac53a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
 
 ---
-
 
 # Installera Salesforce-anpassning för Professional Edition-kunder {#install-salesforce-customization-for-professional-edition-customers}
 
@@ -27,7 +26,7 @@ Kunder som har Salesforce Professional Edition måste följa dessa steg för att
 
    ![](assets/one-4.png)
 
-1. Klicka på **Salesforce** under Administratörsinställningar.
+1. Under Administratörsinställningar klickar du på **Salesforce**.
 
    ![](assets/two-4.png)
 
@@ -35,7 +34,7 @@ Kunder som har Salesforce Professional Edition måste följa dessa steg för att
 
    >[!CAUTION]
    >
-   >Om du är ansluten visas en grön Install-knapp. **Klicka** INTE på den här knappen, fortsätt till steg 4 i stället.
+   >Om du är ansluten visas en grön Install-knapp. **GÖR INTE** klicka på den här knappen, fortsätt till steg 4 i stället.
 
 1. Logga in på Salesforce-kontot som du är ansluten till och klicka sedan på [den här länken](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
 1. Du kommer att skickas till installationssidan för Sales Connect.
@@ -43,11 +42,11 @@ Kunder som har Salesforce Professional Edition måste följa dessa steg för att
    ![](assets/install-package.png)
 
 1. Välj de användare som du vill installera anpassningar för: Endast administratör, alla användare eller specifika profiler.
-1. Klicka på knappen **Installera** för att installera anpassning.
+1. Klicka på **Installera** för att installera anpassning.
 1. Logga in på ditt Salesforce-konto för att bekräfta att installationen lyckades.
-1. Klicka på **Konfigurera**, sök efter &quot;Installerade paket&quot; i sökfältet och klicka på **Installerade paket**.
+1. Klicka **Inställningar**, sök efter&quot;Installerade paket&quot; i sökfältet och klicka på **Installerade paket**.
 
-   Marketo Sales Connect Customizations visas här.
+   Där ser du Marketo Sales Connect Customizations.
 
    Om du vill konfigurera Sales Connect i Salesforce-instansen följer du stegen som börjar i avsnittet&quot;CONFIGURING THE SALES ENGAGE SALESFORCE PACKAGE&quot; på sidan 7 i installationshandboken.
 

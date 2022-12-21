@@ -5,7 +5,7 @@ title: Drip, Drift, Struktur
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
 source-git-commit: 4448d6e082c0c4fad35fc2980446175bffe47e4b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---

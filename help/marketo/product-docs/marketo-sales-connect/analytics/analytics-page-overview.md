@@ -1,15 +1,14 @@
 ---
 unique-page-id: 14352416
-description: Översikt över analyssidan - Marketo Docs - Produktdokumentation
+description: Översikt över analyssidan - Marketo Docs - produktdokumentation
 title: Översikt över analyssidan
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 4d67dff8-d602-4a90-bf74-f4149017ad51
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '383'
 ht-degree: 0%
 
 ---
-
 
 # Översikt över analyssidan {#analytics-page-overview}
 
@@ -33,11 +32,11 @@ När du går från en flik till en flik på analyssidan kan du sortera dina stat
 
 På flikarna Me och Team visas information om avtal som stängts. Antalet styrs av hur många gånger folk i ditt team ringer.
 
-## Me Tab {#me-tab}
+## Fliken Me {#me-tab}
 
 Fliken Me är en bra plats att kontrollera hur dina e-postmeddelanden, mallar och länkar fungerar. Om du är administratör i Sales Connect kan du filtrera efter användare i teamet för att se deras status.
 
-## Teamflik {#team-tab}
+## Fliken Team {#team-tab}
 
 Här ser du statistik och rankningar för hela teamet. Du kan också filtrera efter alla undergrupper som du har skapat.
 
@@ -45,6 +44,6 @@ Här ser du statistik och rankningar för hela teamet. Du kan också filtrera ef
 
 Fliken Innehåll innehåller statistik om mallar, innehåll och länkar. Du kan antingen filtrera efter alla eller efter team som dina administratörer har skapat.
 
-Om du ser blå text under ämneskolumnen betyder det att mallen delas. Du kan klicka på den blå text som ska tas till mallen. Visa hur det används genom att klicka på **Mallanalys**.
+Om du ser blå text under ämneskolumnen betyder det att mallen delas. Du kan klicka på den blå text som ska tas till mallen. Visa hur den används genom att klicka **Mallanalys**.
 
 &quot;Klicka på innehåll&quot; räknas när en mottagare klickar på en länk i ditt e-postmeddelande.

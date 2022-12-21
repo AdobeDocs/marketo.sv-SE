@@ -3,7 +3,6 @@ unique-page-id: 1146897
 description: Ta bort personer i en smart lista eller lista - Marketo Docs - produktdokumentation
 title: Ta bort personer i en smart lista eller lista
 exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '290'
@@ -23,7 +22,7 @@ Du kan snabbt och enkelt ta bort vissa/alla personer i en lista eller smart list
 
    ![](assets/ma-1.png)
 
-1. Markera listan/den smarta listan som innehåller alla personer som du vill ta bort och gå till fliken **Personer**.
+1. Markera listan/den smarta listan som innehåller alla personer som du vill ta bort och gå till **Folk** -fliken.
 
    ![](assets/two-1.png)
 
@@ -31,15 +30,15 @@ Du kan snabbt och enkelt ta bort vissa/alla personer i en lista eller smart list
    >
    >När du tar bort en person tas de inte bara bort från listan, utan de tas helt bort från databasen.
 
-1. Klicka på **Markera alla**. Du kan också välja några poster manuellt med Ctrl/Cmd och klicka på.
+1. Klicka **Markera alla**. Du kan också välja några poster manuellt med Ctrl/Cmd och klicka på.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Om resultatet sträcker sig över flera sidor och du klickar på **Markera alla** markeras alla personer på alla sidor.
+   >Om resultatet sträcker sig över flera sidor klickar du på **Markera alla** markerar alla personer på alla sidor.
 
-1. Klicka på **Ta bort person** om du vill ta bort personer helt från Marketo.
+1. Om du vill ta bort alla personer från Marketo klickar du **Ta bort person**.
 
    ![](assets/four-1.png)
 
@@ -55,16 +54,16 @@ Du kan snabbt och enkelt ta bort vissa/alla personer i en lista eller smart list
    >
    >Om din Marketo inte är knuten till din CRM är alternativet nedtonat, som i skärmbilden.
 
-1. Klicka på **Kör nu**.
+1. Klicka **Kör nu**.
 
    ![](assets/image2014-9-24-13-3a0-3a3.png)
 
-1. Om du tar bort fler än 50 personer visas det här. Ange antalet personer som du vill ta bort, markera rutan **Det går inte att ångra** och klicka sedan på **Ta bort**.
+1. Om du tar bort fler än 50 personer visas det här. Ange antalet personer som du vill ta bort, kontrollera **Kan inte ångra** och klicka sedan på **Ta bort**.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >Om du vill visa resultatet av massborttagningen klickar du på **Visa resultat** i popup-rutan för enstaka flödesåtgärd i skärmens övre högra hörn. Borttagningstiderna kan variera avsevärt beroende på olika faktorer.
+   >Om du vill visa resultatet av massborttagningen klickar du på **Visa resultat** i popup-rutan Enstaka flödesåtgärd i skärmens övre högra hörn. Borttagningstiderna kan variera avsevärt beroende på olika faktorer.
 
    Det här är en bra funktion, var bara försiktig när du använder den!

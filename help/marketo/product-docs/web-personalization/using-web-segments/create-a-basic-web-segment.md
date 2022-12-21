@@ -1,15 +1,14 @@
 ---
 unique-page-id: 4719344
-description: Skapa ett enkelt webbsegment - Marketo Docs - Produktdokumentation
+description: Skapa ett enkelt webbsegment - Marketo Docs - produktdokumentation
 title: Skapa ett enkelt webbsegment
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
 
 ---
-
 
 # Skapa ett enkelt webbsegment {#create-a-basic-web-segment}
 
@@ -19,7 +18,7 @@ Låt oss skapa ett grundläggande segment som riktar sig till alla webbesökare 
 
    ![](assets/image2016-8-18-15-3a37-3a32.png)
 
-1. Klicka på **Skapa ny**.
+1. Klicka **Skapa nytt**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
@@ -31,7 +30,7 @@ Låt oss skapa ett grundläggande segment som riktar sig till alla webbesökare 
 
    ![](assets/location-drag-hand.jpg)
 
-1. Välj ett land att lägga till i listrutan. Välj **USA**.
+1. Välj ett land att lägga till i listrutan. Välj **Amerikas förenta stater**.
 
    ![](assets/image2015-5-28-15-3a29-3a15.png)
 
@@ -49,7 +48,7 @@ Låt oss skapa ett grundläggande segment som riktar sig till alla webbesökare 
 
    Du har nu skapat ett grundläggande segment för alla potentiella kunder som besöker din webbplats från USA och finanssektorn.
 
-1. Klicka på **Spara** för att spara segmentet eller **Spara och definiera kampanj** för att gå till sidan Campaign.
+1. Klicka **Spara** för att spara segmentet eller **Spara och definiera kampanj** för att gå till sidan Campaigns.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 

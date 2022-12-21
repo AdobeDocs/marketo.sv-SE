@@ -1,27 +1,26 @@
 ---
 unique-page-id: 37356329
-description: Advanced Search Overview - Marketo Docs - produktdokumentation
+description: Advanced Search Overview - Marketo Docs - Product Documentation
 title: Översikt över avancerad sökning
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: bb6e2c9f-b44a-43ba-94ae-ae30e182bcc8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '414'
 ht-degree: 0%
 
 ---
 
-
 # Översikt över avancerad sökning {#advanced-search-overview}
 
 Genom att använda den avancerade sökningen för att rikta dig till potentiella kunder som har visat, klickat eller svarat på e-postmeddelanden kan du skapa en målinriktad lista över de mest engagerade potentiella kunderna.
 
-## Åtkomst till avancerad sökning {#how-to-access-advanced-search}
+## Använda avancerad sökning {#how-to-access-advanced-search}
 
-1. Klicka på **Kommandocentral**.
+1. Klicka **Kommandocentral**.
 
    ![](assets/one.png)
 
-1. Klicka på **E-post**.
+1. Klicka **E-post**.
 
    ![](assets/two.png)
 
@@ -29,7 +28,7 @@ Genom att använda den avancerade sökningen för att rikta dig till potentiella
 
    ![](assets/three.png)
 
-1. Klicka på **Avancerad sökning**.
+1. Klicka **Avancerad sökning**.
 
    ![](assets/four.png)
 
@@ -109,7 +108,7 @@ Så här skapar du en sparad sökning.
 
    ![](assets/save-search-1.png)
 
-1. Ge sökningen ett namn och klicka på **Spara**.
+1. Ge sökningen ett namn och klicka **Spara**.
 
    ![](assets/save-search-2.png)
 

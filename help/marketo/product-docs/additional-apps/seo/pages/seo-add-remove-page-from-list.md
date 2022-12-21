@@ -3,7 +3,6 @@ unique-page-id: 2949218
 description: SEO - Lägg till/ta bort sida från lista - Marketo Docs - produktdokumentation
 title: SEO - Lägg till/ta bort sida från lista
 exl-id: 05394bfc-b8c5-41a4-b6dd-78e7a408b7a2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '203'
@@ -17,11 +16,11 @@ Vill du hantera sidorna? Det kan du enkelt göra genom att skapa en lista. Du ka
 
 ## Lägg till sida i en lista {#add-page-to-a-list}
 
-1. Gå till avsnittet **Sidor**.
+1. Gå till **Sidor** -avsnitt.
 
    ![](assets/image2014-9-18-13-3a2-3a49.png)
 
-1. Håll markören över den sida som du vill lägga till i en lista. Klicka på **Lägg till/ta bort från lista**.
+1. Håll markören över den sida som du vill lägga till i en lista. Klicka **Lägg till/ta bort från lista**.
 
    ![](assets/image2014-9-18-13-3a2-3a53.png)
 
@@ -49,7 +48,7 @@ Ja! Sidan bör nu läggas till i listan.
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 
-1. Hovra över sidan som du vill ta bort. Klicka på **Lägg till/ta bort från lista**.
+1. Hovra över sidan som du vill ta bort. Klicka **Lägg till/ta bort från lista**.
 
    ![](assets/image2014-9-18-13-3a4-3a3.png)
 

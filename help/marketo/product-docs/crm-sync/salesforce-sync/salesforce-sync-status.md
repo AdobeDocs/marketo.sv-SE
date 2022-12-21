@@ -2,7 +2,6 @@
 description: Salesforce Sync Status - Marketo Docs - Produktdokumentation
 title: Status för Salesforce-synkronisering
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '552'
@@ -10,7 +9,7 @@ ht-degree: 0%
 
 ---
 
-# Salesforce-synkroniseringsstatus {#salesforce-sync-status}
+# Status för Salesforce-synkronisering {#salesforce-sync-status}
 
 Använd kontrollpanelen Synkroniseringsstatus för att visa synkroniseringsstatus som en del av synkroniseringsstegen och dess status.
 
@@ -22,7 +21,7 @@ Synkroniseringsstegen återspeglar push- eller pull-åtgärder för varje objekt
 
 ## Visa synkroniseringsstatus {#view-sync-status}
 
-1. Klicka på **Admin**.
+1. Klicka **Administratör**.
 
    ![](assets/salesforce-sync-status-1.png)
 
@@ -44,11 +43,11 @@ Statistik sorteras som standard efter den senast startade. Du kan sortera efter 
 
    ![](assets/salesforce-sync-status-5.png)
 
-1. Klicka på **Använd**.
+1. Klicka **Använd**.
 
    ![](assets/salesforce-sync-status-6.png)
 
-**Valfritt steg**: Om du vill exportera synkroniseringsfel klickar du på  **Exportera**. Data exporteras som en CSV-fil.
+**Valfritt steg**: Om du vill exportera synkroniseringsfel klickar du på **Exportera**. Data exporteras som en CSV-fil.
 
 ![](assets/salesforce-sync-status-7.png)
 
@@ -119,7 +118,7 @@ Statistik sorteras som standard efter den senast startade. Du kan sortera efter 
  </tbody> 
 </table>
 
-*Data återgick till det tidigare integritetstillståndet efter ett fel i synkroniseringssteget.
+&#42;Data återgick till det tidigare integritetstillståndet efter ett fel i synkroniseringssteget.
 
 ## Objekttyp {#object-type}
 
@@ -249,4 +248,4 @@ Statistik sorteras som standard efter den senast startade. Du kan sortera efter 
  </tbody> 
 </table>
 
-*Varumärkeskonfigurationen på prenumerationsnivå bestämmer etiketten - Lead eller Person i rapporten.
+&#42;Varumärkeskonfigurationen på prenumerationsnivå bestämmer etiketten - Lead eller Person i rapporten.

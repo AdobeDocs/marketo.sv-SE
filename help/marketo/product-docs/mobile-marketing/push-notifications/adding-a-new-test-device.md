@@ -1,17 +1,16 @@
 ---
 unique-page-id: 8783146
-description: Lägga till en ny testenhet - Marketo Docs - Produktdokumentation
+description: Lägga till en ny testenhet - Marketo Docs - produktdokumentation
 title: Lägga till en ny testenhet
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: b7adfad7-c699-4840-a77a-8bdf3ff16f60
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
-
-# Lägger till en ny testenhet {#adding-a-new-test-device}
+# Lägga till en ny testenhet {#adding-a-new-test-device}
 
 Det är enkelt att lägga till en ny testenhet för att skicka meddelanden till.
 
@@ -19,11 +18,11 @@ Det är enkelt att lägga till en ny testenhet för att skicka meddelanden till.
 >
 >**Administratörsbehörigheter krävs**
 
-1. Klicka på **Admin** och sedan på länken **Mobilappar**.
+1. Klicka **Administratör** och sedan **Mobilappar** länk.
 
    ![](assets/image2015-7-9-14-3a33-3a12.png)
 
-1. Klicka på fliken **Testenheter** och **Ny testenhet**.
+1. Klicka på **Testenheter** och **Ny testenhet**.
 
    ![](assets/image2015-7-17-17-3a4-3a52.png)
 
@@ -41,7 +40,7 @@ Det är enkelt att lägga till en ny testenhet för att skicka meddelanden till.
 
    ![](assets/image2015-7-17-17-3a9-3a54.png)
 
-1. Appen öppnas. Namnge enheten och tryck på **Ja**.
+1. Appen öppnas. Namnge enheten och tryck **Ja**.
 
    ![](assets/image2015-7-17-17-3a31-3a23.png)
 

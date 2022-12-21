@@ -1,27 +1,26 @@
 ---
 unique-page-id: 2359703
-description: Lägg till en bild på en landningssida i fri form - Marketo Docs - Produktdokumentation
+description: Lägg till en bild på en landningssida i fri form - Marketo Docs - produktdokumentation
 title: Lägga till en bild på en landningssida med valfri form
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: 68b302e8-a2df-4bf3-9835-e92b36acce55
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-
-# Lägg till en bild på en startsida med valfri form {#add-an-image-to-a-free-form-landing-page}
+# Lägga till en bild på en landningssida med valfri form {#add-an-image-to-a-free-form-landing-page}
 
 >[!PREREQUISITES]
 >
->[Lägg till bilder och filer i Marketto](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
+>[Lägg till bilder och filer i Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 
 1. Välj en startsida för frihandslandning och klicka på **Redigera** **Utkast**.
 
    ![](assets/landingpageeditdraft.jpg)
 
-1. Dra över elementet **Bild** i redigeraren.
+1. I redigeraren drar du över **Bild** -element.
 
    ![](assets/image2015-5-21-15-3a38-3a58.png)
 
@@ -29,7 +28,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-14-3a35-3a59.png)
 
-1. Klicka på **Infoga**.
+1. Klicka **Infoga**.
 
    ![](assets/image2014-9-16-15-3a3-3a48.png)
 

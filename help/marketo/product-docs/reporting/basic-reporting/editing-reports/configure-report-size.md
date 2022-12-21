@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2360002
-description: Konfigurera rapportstorlek - Marketo Docs - Produktdokumentation
+description: Konfigurera rapportstorlek - Marketo Docs - produktdokumentation
 title: Konfigurera rapportstorlek
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: ee8ade4b-a45f-4c2b-bc42-a544cbbaa407
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-
 # Konfigurera rapportstorlek {#configure-report-size}
 
-Marketo-rapporter är som standard begränsade till högst 5 000 rader, men du kan ändra den gränsen.
+Som standard är Marketo-rapporter begränsade till högst 5 000 rader, men du kan ändra den gränsen.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter** område.
 
    ![](assets/image2014-9-16-10-3a53-3a57.png)
 
-1. Välj din rapport i navigeringsträdet och klicka på fliken **Inställningar**.
+1. Välj rapporten från navigeringsträdet och klicka på **Inställningar** -fliken.
 
    ![](assets/image2014-9-16-10-3a54-3a1.png)
 
-1. Dubbelklicka på **Exportera rader tillgängliga**.
+1. Dubbelklicka **Exportera rader tillgängliga**.
 
    ![](assets/image2014-9-16-10-3a54-3a5.png)
 
@@ -35,7 +34,7 @@ Marketo-rapporter är som standard begränsade till högst 5 000 rader, men du k
    >
    >Om du ändrar gränsen ändras även rapportstorleken, inte bara den exporterade Excel-filen. Om det tar för lång tid att generera rapporten minskar du gränsen!
 
-1. Klicka på **Spara** för att bekräfta den nya gränsen.
+1. Klicka **Spara** för att bekräfta den nya gränsen.
 
    ![](assets/image2016-3-2-9-3a13-3a59.png)
 
@@ -43,4 +42,4 @@ Marketo-rapporter är som standard begränsade till högst 5 000 rader, men du k
 
    >[!MORELIKETHIS]
    >
-   >Du kan [exportera rapporten](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) med den nya gränsen.
+   >Du kan [exportera din rapport](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) med den nya gränsen.

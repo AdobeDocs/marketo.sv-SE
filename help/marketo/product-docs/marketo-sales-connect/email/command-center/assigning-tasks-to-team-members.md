@@ -18,11 +18,11 @@ Om du vill samarbeta med andra teammedlemmar kan det vara ett bra sätt att samo
 >
 >Du kan bara tilldela uppgifter för delade kontakter.
 
-1. Klicka på **Kommandocentralen**.
+1. Klicka på **Kommandocentral**.
 
    ![](assets/one-1.png)
 
-1. Klicka på **Lägg till uppgift**.
+1. Klicka **Lägg till uppgift**.
 
    ![](assets/two-1.png)
 
@@ -50,6 +50,6 @@ Om du vill samarbeta med andra teammedlemmar kan det vara ett bra sätt att samo
 
    ![](assets/eight.png)
 
-1. Lägg till viktig information som är relevant för teamet (valfritt) och klicka på **Skapa**.
+1. Lägg till viktig information som är relevant för ditt team (valfritt) och klicka på **Skapa**.
 
    ![](assets/nine.png)

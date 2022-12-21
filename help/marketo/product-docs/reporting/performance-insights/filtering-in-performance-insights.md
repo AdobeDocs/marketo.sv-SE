@@ -1,15 +1,14 @@
 ---
 unique-page-id: 12979012
-description: Filtrering i Performance Insights - Marketo Docs - Produktdokumentation
+description: Filtrering i Performance Insights - Marketo Docs - produktdokumentation
 title: Filtrera i Performance Insights
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 0%
 
 ---
-
 
 # Filtrera i Performance Insights {#filtering-in-performance-insights}
 
@@ -57,7 +56,7 @@ Du kan ta bort ett filter när som helst genom att klicka på X:et bredvid det. 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Anpassade attribut</strong></td> 
-   <td colspan="1"><p>De här bestäms av dig. Alla fält <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">du aktiverar</a> för affärsmöjlighetsanalysen kan filtreras på i Prestandainsikter.</p></td> 
+   <td colspan="1"><p>De här bestäms av dig. Alla fält <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">du aktivera</a> för affärsmöjlighetsanalysen kan filtreras på i Performance Insights.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Investeringsperiod</strong></p></td> 

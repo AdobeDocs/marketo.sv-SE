@@ -2,14 +2,13 @@
 unique-page-id: 10093157
 description: Klona en webbkampanj - Marketo Docs - Produktdokumentation
 title: Klona en webbkampanj
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+exl-id: c87440fb-694f-4a51-ad73-317f4d7f4314
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
 
 ---
-
 
 # Klona en webbkampanj {#clone-a-web-campaign}
 
@@ -23,13 +22,13 @@ Använd klonfunktionen på webbkampanjsidan för att kopiera kampanjinställning
 
    >[!NOTE]
    >
-   >Använd filterfunktionen [](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md) för att göra det enklare att hitta den webbkampanj du vill ha.
+   >Om du vill göra det enklare att hitta webbkampanjen använder du [filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. Klicka på **Klona** för webbkampanjen.
+1. För webbkampanjen klickar du på **Klona**.
 
    ![](assets/web-campaigns-1-clone-hand.png)
 
-1. Kampanjkloningen kopierar allt innehåll från den befintliga webbkampanjen till den nya klonade kampanjen. Den nya klonade webbkampanjen har titeln &quot;[KAMPANJNAMN] Kopiera&quot;.
+1. Kampanjkloningen kopierar allt innehåll från den befintliga webbkampanjen till den nya klonade kampanjen. Den nya klonade webbkampanjen har titeln &quot;[KAMPANJNAMN] Copy&quot;.
 
    ![](assets/image2016-8-18-17-3a8-3a27.png)
 

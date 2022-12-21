@@ -1,15 +1,14 @@
 ---
 unique-page-id: 37355758
-description: Lägga till medlemmar i ett Event Program - Marketo Docs - Produktdokumentation
+description: Lägga till medlemmar i ett Event Program - Marketo Docs - produktdokumentation
 title: Lägga till medlemmar i ett händelseprogram
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
 
 ---
-
 
 # Lägga till medlemmar i ett händelseprogram {#adding-members-to-an-event-program}
 
@@ -19,11 +18,11 @@ Den här artikeln gäller endast användare som använder Event Cap- eller Event
 >
 >Om du importerar en lista med personer direkt till ett Event Program hindras dessa poster från att räknas i de faktiska registreringarna i rapporten för målspårning och i rapporten om händelseavslut. Följ instruktionerna nedan för att försäkra dig om att dina poster räknas.
 
-1. Skapa och [lägg till personer i en statisk lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md).
+1. Skapa och [lägga till personer i en statisk lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md).
 
 1. [Skapa en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
 
-1. I den smarta listan för den smarta kampanj du skapade i steg två söker du efter och lägger till filtret **Medlem i listan**.
+1. I den smarta listan för den smarta kampanj du skapade i steg två söker du efter och lägger till **List-medlem** filter.
 
    ![](assets/three.png)
 
@@ -31,7 +30,7 @@ Den här artikeln gäller endast användare som använder Event Cap- eller Event
 
    ![](assets/four.png)
 
-1. I Flow söker du efter och lägger till flödessteget **Change Program Status**.
+1. I Flöde söker du efter och lägger till **Ändra programstatus** flödessteg.
 
    ![](assets/five.png)
 
@@ -43,11 +42,11 @@ Den här artikeln gäller endast användare som använder Event Cap- eller Event
 
    ![](assets/seven.png)
 
-1. Klicka på **Kör en gång** på fliken Schema.
+1. Klicka på fliken Schema **Kör en gång**.
 
    ![](assets/eight.png)
 
-1. Välj **Kör nu** och klicka på **Kör**.
+1. Välj **Kör nu** och klicka **Kör**.
 
    ![](assets/nine.png)
 

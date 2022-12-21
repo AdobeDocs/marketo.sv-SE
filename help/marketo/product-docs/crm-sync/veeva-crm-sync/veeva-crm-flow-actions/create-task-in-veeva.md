@@ -1,6 +1,6 @@
 ---
-description: Create Task in Veeva - Marketo Docs - Product Documentation
-title: Create Task in Veeva
+description: Skapa uppgift i veeva - Marketo Docs - produktdokumentation
+title: Skapa uppgift i veva
 exl-id: 342e45dd-2038-432d-a6b6-1740c8f0b58e
 source-git-commit: dfd0ab50a6d77cf88767cc6fb3fe3f2874e0607b
 workflow-type: tm+mt
@@ -9,24 +9,24 @@ ht-degree: 0%
 
 ---
 
-# Create Task in Veeva {#create-task-in-veeva}
+# Skapa uppgift i veva {#create-task-in-veeva}
 
-As a marketer, you have information that can assist sales in closing deals. You can create tasks to let them know what they should do and when they should do it.
+Som marknadsförare har ni information som kan hjälpa försäljningen att sluta avtal. Du kan skapa uppgifter för att tala om för dem vad de ska göra och när de ska göra det.
 
 ![](assets/create-task-in-veeva-1.png)
 
 >[!NOTE]
 >
->**** Marketo will input five days by default if there is no value.
+>När Marketo Sync User skapar uppgifter **Förfaller** är ett obligatoriskt fält för uppgiften som ska skapas i Veeva. Marketo anger fem dagar som standard om det inte finns något värde.
 
-By default, the flow step will look like this:
+Som standard ser flödessteget ut så här:
 
 ![](assets/create-task-in-veeva-2.png)
 
-Customize all fields to create the task the way you want it.
+Anpassa alla fält för att skapa uppgiften som du vill.
 
 ![](assets/create-task-in-veeva-3.png)
 
 >[!TIP]
 >
->`{{lead.tokens}}``{{company.tokens}}``{{campaign.tokens}}``{{system.tokens}}` [](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
+>Du kan använda `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` och `{{system.tokens}}` i ämnet och beskrivningen. Se [Token för flödessteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target=&quot;_blank&quot;} om du vill ha mer information.

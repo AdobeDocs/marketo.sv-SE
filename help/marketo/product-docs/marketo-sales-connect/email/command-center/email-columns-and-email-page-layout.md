@@ -2,14 +2,13 @@
 unique-page-id: 37357302
 description: E-postkolumner och e-postsidlayout - Marketo Docs - Produktdokumentation
 title: E-postkolumner och sidlayout för e-post
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 689220e1-5ace-4225-98ff-21afd97f071b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '506'
 ht-degree: 0%
 
 ---
-
 
 # E-postkolumner och sidlayout för e-post {#email-columns-and-email-page-layout}
 
@@ -114,7 +113,7 @@ Du kan konfigurera alla tillgängliga kolumner så att de visas i e-postavsnitte
  </tbody> 
 </table>
 
-## Inställningar för e-postsidlayout {#email-page-layout-settings}
+## Inställningar för sidlayout för e-post {#email-page-layout-settings}
 
 Du kan konfigurera layouten genom att följa dessa steg.
 
@@ -122,7 +121,7 @@ Du kan konfigurera layouten genom att följa dessa steg.
 
    ![](assets/email-columns-and-email-grid-layout-1.png)
 
-1. Markera avsnittet **E-post**.
+1. Välj **E-post** -avsnitt.
 
    ![](assets/email-columns-and-email-grid-layout-2.png)
 

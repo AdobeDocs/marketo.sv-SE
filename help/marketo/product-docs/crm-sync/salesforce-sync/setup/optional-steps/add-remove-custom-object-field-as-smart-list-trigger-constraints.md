@@ -3,7 +3,6 @@ unique-page-id: 4719300
 description: Lägg till/ta bort anpassat objektfält som smart lista/utlösarbegränsningar - Marketo Docs - produktdokumentation
 title: Lägg till/ta bort anpassat objektfält som smart lista/utlösarbegränsningar
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '192'
@@ -19,15 +18,15 @@ Marketo ger exakt kontroll över Salesforce-objektsynkroniseringen. På så sät
 >
 >**Administratörsbehörigheter krävs**
 
-1. Klicka på **Admin.**
+1. Klicka **Admin.**
 
    ![](assets/image2014-12-10-13-3a9-3a47.png)
 
-1. Klicka på **Admin** och sedan **Synkronisera Salesforce-objekt.**
+1. Klicka **Administratör** och sedan **Salesforce-objektsynkronisering.**
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 
-1. **Salesforce-objekt** synkroniseras i den vänstra kolumnen.
+1. **Salesforce-objektsynkronisering** visas i den vänstra kolumnen.
 
    ![](assets/image2015-12-11-15-3a15-3a15.png)
 
@@ -35,11 +34,11 @@ Marketo ger exakt kontroll över Salesforce-objektsynkroniseringen. På så sät
 
    ![](assets/image2014-12-10-13-3a10-3a11.png)
 
-1. Klicka på **Redigera synliga fält**.
+1. Klicka **Redigera synliga fält**.
 
    >[!TIP]
    >
-   >Om knappen **Redigera synliga fält** är nedtonad används objektet i en smart lista eller en smart kampanj. Ta bort alla associationer för att fortsätta.
+   >Om **Redigera synliga fält** är nedtonad, objektet används för närvarande i en smart lista eller smart kampanj. Ta bort alla associationer för att fortsätta.
 
    ![](assets/image2014-12-10-13-3a10-3a25.png)
 
@@ -55,7 +54,7 @@ Marketo ger exakt kontroll över Salesforce-objektsynkroniseringen. På så sät
    >
    >Alla fält markeras som standard som begränsningar för filter.
 
-1. Klicka på fliken **Fält** för att bekräfta ändringarna.
+1. Klicka på **Fält** för att bekräfta ändringarna.
 
    ![](assets/image2014-12-10-13-3a10-3a56.png)
 

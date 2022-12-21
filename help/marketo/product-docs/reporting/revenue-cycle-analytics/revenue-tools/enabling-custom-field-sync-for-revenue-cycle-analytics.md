@@ -2,32 +2,31 @@
 unique-page-id: 3571888
 description: Aktivera anpassad fältsynkronisering för intäktscykelanalys - Marketo Docs - produktdokumentation
 title: Aktivera anpassad fältsynkronisering för analys av intäktscykler
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
-
 # Aktivera anpassad fältsynkronisering för analys av intäktscykler {#enabling-custom-field-sync-for-revenue-cycle-analytics}
 
 Med följande steg kan du använda anpassade fält i RCA-rapporter.
 
-1. Klicka på **Admin**.
+1. Klicka **Administratör**.
 
    ![](assets/one.png)
 
-1. Klicka på **Intäktscykelanalys** och **Anpassad fältsynkronisering**.
+1. Klicka **Analys av intäktscykler** sedan **Synkronisering av anpassat fält**.
 
    ![](assets/two.png)
 
-1. Markera ditt **fältnamn** och klicka sedan på **Redigera synkroniseringsalternativ**.
+1. Välj **Fältnamn** och sedan klicka **Redigera synkroniseringsalternativ**.
 
    ![](assets/three.png)
 
-1. Under Synkroniseringsstatus väljer du **Aktiverad** och klickar sedan på **Spara**.
+1. Under Synkroniseringsstatus väljer du **Aktiverad** och sedan klicka **Spara**.
 
    ![](assets/four.png)
 

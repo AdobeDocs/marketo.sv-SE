@@ -1,17 +1,16 @@
 ---
 unique-page-id: 11384634
-description: The Predictive Content Summary - Marketo Docs - produktdokumentation
+description: The Predictive Content Summary - Marketo Docs - Product Documentation
 title: Sammanfattning av prediktivt innehåll
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
 
 ---
 
-
-# The Predictive Content Summary {#the-predictive-content-summary}
+# Sammanfattning av prediktivt innehåll {#the-predictive-content-summary}
 
 Sammanfattningen av prediktivt innehåll visar översiktlig information om ditt prediktiva innehåll, med tabeller, diagram och aktuella tal.
 
@@ -33,7 +32,7 @@ Se konverteringsgraden genom att jämföra det totala antalet klick och direktle
 
 ![](assets/predictive-engagement-actual.png)
 
-## Innehållstrend efter vyer {#content-trend-by-views}
+## Innehållstrend efter vyer  {#content-trend-by-views}
 
 Jämför hur era åsikter om allt innehåll överensstämmer med ert prediktiva innehåll.
 

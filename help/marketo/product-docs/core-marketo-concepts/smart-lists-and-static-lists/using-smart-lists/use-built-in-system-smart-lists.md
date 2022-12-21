@@ -3,7 +3,6 @@ unique-page-id: 557275
 description: Använd inbyggda/systemsmarta listor - Marketo Docs - produktdokumentation
 title: Använd inbyggda/systemsmarta listor
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '242'
@@ -19,15 +18,15 @@ Marketo har några användbara smarta listor. Vi kollar dem!
 >
 >Marketo håller på att ändra termer som Blacklist och Whitelist för att Blocklist och Tillåtslista i vår produkt. Under den här uppdateringen kan du se de gamla villkoren i våra användargränssnitt och skärmbilder för dokumentation samt de nya villkoren i vår dokumentationstext. Vi ber om ursäkt för all förvirring.
 
-1. Gå till **databasen**.
+1. Gå till **Databas**.
 
    ![](assets/db.png)
 
-1. Öppna mappen **System Smart Lists** för att visa samlingen.
+1. Öppna **Systemets smarta listor** för att visa samlingen.
 
    ![](assets/two.png)
 
-1. Så här ser du ett exempel: Välj **Alla personer** och klicka sedan på fliken **Personer**.
+1. Så här ser du ett exempel: Välj **Alla personer** klickar du på **Folk** -fliken.
 
    ![](assets/three.png)
 

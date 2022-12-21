@@ -3,7 +3,6 @@ unique-page-id: 1146901
 description: Använda avancerad logik för smarta listregler - Marketo Docs - produktdokumentation
 title: Använda avancerad logik för smarta listregler
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '288'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Använda avancerad logik för smart listregel {#using-advanced-smart-list-rule-logic}
+# Använda avancerad logik för smarta listregler {#using-advanced-smart-list-rule-logic}
 
 Du kan hitta exakt de personer du behöver genom att tillämpa logik för smarta listregler på flera filter i en smart lista. Så här gör du.
 
@@ -27,9 +26,9 @@ Du kan hitta exakt de personer du behöver genom att tillämpa logik för smarta
 
 ## Lägg till logik i en smart lista {#add-logic-to-a-smart-list}
 
-Som standard söker den smarta listan efter personer som matchar **ALLA** filter (filters 1 _och_ 2 _och_ 3). Du kan ändra regellogiken för att hitta personer som matchar **ANY** för de definierade filtren (filters 1 _eller_ 2 _eller_ 3), eller använda avancerade filter (filters 1 _och_ 2 _eller_ 3).
+Som standard hittar din smarta lista de personer som matchar **ALLA** filter (filter 1 _och_ 2 _och_ 3). Du kan ändra regellogiken för att hitta personer som matchar **VALFRITT** av definierade filter (filter 1 _eller_ 2 _eller_ 3) eller använda avancerade filter (filter 1) _och_ 2 _eller_ 3).
 
-I det här exemplet ska vi säga att du vill hitta personer i Kalifornien _och_ med ett poängvärde på minst 50 poäng _eller_ med statusen&quot;Försäljningskvalificerad&quot;.
+I det här exemplet vill vi säga att du vill hitta folk i Kalifornien _och_ med minst 50 poäng _eller_ med statusen&quot;Försäljning kvalificerad&quot;.
 
 1. Välj **Använd avancerade filter** i listrutan.
 
@@ -37,9 +36,9 @@ I det här exemplet ska vi säga att du vill hitta personer i Kalifornien _och_ 
 
    >[!NOTE]
    >
-   >Om du använder **Avancerade**-filter minskar behovet av att skapa smarta listor med filtret Medlem i smart lista. Detta hjälper till att optimera prestanda.
+   >Använda **Avancerat** filter minskar behovet av att skapa smarta listor med filtret Medlem i smart lista. Detta hjälper till att optimera prestanda.
 
-1. Textrutan **Avancerade filter** visar &quot;och&quot; som standardvärde mellan alla filter.
+1. The **Avancerade filter** &quot;och&quot; visas som standardvärde mellan alla filter.
 
    ![](assets/two-2.png)
 
@@ -55,13 +54,13 @@ I det här exemplet ska vi säga att du vill hitta personer i Kalifornien _och_ 
 
    ![](assets/four-1.png)
 
-## Använd parenteser vid blandning av&quot;And&quot; och&quot;Or {#use-parentheses-when-mixing-and-and-or}
+## Använd parenteser vid blandning av&quot;And&quot; och&quot;Or&quot; {#use-parentheses-when-mixing-and-and-or}
 
 Om du blandar&quot;och&quot;- och&quot;eller&quot;-logik måste du använda parenteser för att tydliggöra din avsikt.
 
 ![](assets/advancedfilters-parent.png)
 
-## Använd kapslade parenteser för fyra eller fler filter om det behövs {#use-nested-parentheses-for-four-or-more-filters-if-needed}
+## Använd kapslade parenteser för fyra eller fler filter vid behov {#use-nested-parentheses-for-four-or-more-filters-if-needed}
 
 Beroende på din avsikt kan du behöva lägga till kapslade parenteser när du använder fyra eller fler filter.
 

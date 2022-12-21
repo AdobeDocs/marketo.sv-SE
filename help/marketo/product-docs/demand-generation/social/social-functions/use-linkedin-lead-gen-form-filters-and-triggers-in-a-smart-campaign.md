@@ -1,25 +1,24 @@
 ---
 unique-page-id: 12976776
-description: Använd LinkedIn-formulärfilter och utlösare i en smart kampanj - Marketo Docs - produktdokumentation
-title: Använd LinkedIn-formulärfilter och utlösare för lead-generering i en smart kampanj
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Använd LinkedIn Lead Gen Form Filters and Triggers i en smart kampanj - Marketo Docs - produktdokumentation
+title: Använd LinkedIn Lead Gen Form Filters and Triggers i en smart kampanj
+exl-id: 386c25e7-b0fb-4271-bd39-98e36306de6b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
+# Använd LinkedIn Lead Gen Form Filters and Triggers i en smart kampanj {#use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign}
 
-# Använd LinkedIn-formulärfilter och utlösare för lead-generering i en smart kampanj {#use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign}
-
-När du har aktiverat LinkedIn Lead Gen Forms kan du använda dem som filter och utlösare i smarta kampanjer.
+När ni har aktiverat LinkedIn Lead Gen Forms kan ni använda dem som filter och triggers i era smarta kampanjer.
 
 >[!NOTE]
 >
->När någon skickar sin information i ett LinkedIn Lead Gen-formulär skickas den informationen direkt till Marketo, vilket gör formuläret tillgängligt i listrutan Formulärnamn för lead-Gen. Formulärnamn visas inte förrän minst en person har skickat formuläret.
+>När man skickar in information i LinkedIn Lead Gen Form skickas informationen direkt till Marketo och formuläret blir tillgängligt i listrutan Namn på Lead Gen Form. Formulärnamn visas inte förrän minst en person har skickat formuläret.
 
-1. Använd utlösaren **Fyll i LinkedIn Lead Gen Form** om du vill vidta åtgärder direkt eller filtret **Fylld i LinkedIn Lead Gen Form** om du vill använda schemalagda gruppkampanjer eller smart listfiltrering enligt standard.
+1. Använd **Fyller i formuläret för LinkedIn Lead Gen** utlösare för att vidta åtgärder omedelbart eller **Fylld blankett för LinkedIn Lead Gen** filtrera efter schemalagda batchkampanjer eller standardfiltrering av smarta listor.
 
    ![](assets/screen-shot-2017-03-29-at-2.38.03-pm.png)
 

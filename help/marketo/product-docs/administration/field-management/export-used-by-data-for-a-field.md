@@ -3,7 +3,6 @@ unique-page-id: 45417092
 description: Exportera som används av data för ett fält - Marketo Docs - produktdokumentation
 title: Exportera som används av data för ett fält
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '100'
@@ -19,11 +18,11 @@ Som administratör kan du exportera relaterade resurser i ett fält så att du k
 >
 >**Administratörsbehörigheter krävs**
 
-1. Klicka på **Admin**.
+1. Klicka **Administratör**.
 
    ![](assets/one.png)
 
-1. Klicka på **Fälthantering**.
+1. Klicka **Fälthantering**.
 
    ![](assets/two-3.png)
 
@@ -31,7 +30,7 @@ Som administratör kan du exportera relaterade resurser i ett fält så att du k
 
    ![](assets/three.png)
 
-1. Klicka på listrutan **Fältåtgärder** och välj **Exportera använd av**.
+1. Klicka på **Fältåtgärder** nedrullningsbar meny och välj **Exportera som används av**.
 
    ![](assets/four.png)
 

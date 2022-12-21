@@ -3,7 +3,6 @@ unique-page-id: 2950799
 description: Översikt över token - Marketo Docs - produktdokumentation
 title: Översikt över token
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
-translation-type: tm+mt
 source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
 workflow-type: tm+mt
 source-wordcount: '300'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 En variabel är en variabel som kan användas i Marketo smarta kampanjflödessteg, e-post, landningssidor, kodfragment och webbkampanjer.
 
-## Standardvärden {#understanding-default-values}
+## Förstå standardvärden {#understanding-default-values}
 
 När du använder en variabel vill du även ange ett standardvärde. Det här är texten som visas om en person inte har ett värde för fältet som du refererar till.
 
@@ -27,7 +26,7 @@ I det här exemplet kommer e-postmeddelandet att stå &quot;Greetings, (förnamn
 
 >[!CAUTION]
 >
->Token fungerar inte i förrubriken när Marketo e-postredigerare används. Om du vill använda en variabel i förrubriken måste den vara via din egen HTML-kod i en e-postmall.
+>Token fungerar inte i förrubriken när Marketo e-postredigerare används. Om du vill använda en token i förrubriken måste den vara via din egen HTML i en e-postmall.
 
 >[!NOTE]
 >
@@ -122,7 +121,7 @@ I det här exemplet kommer e-postmeddelandet att stå &quot;Greetings, (förnamn
 
 >[!NOTE]
 >
->Läs mer om dessa variabler i [System Tokens Glossary](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
+>Läs mer om dessa variabler i [Ordlista för systemtoken](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
 
 * `{{system.date}}`
 * `{{system.time}}`
@@ -149,7 +148,7 @@ I det här exemplet kommer e-postmeddelandet att stå &quot;Greetings, (förnamn
 
 >[!NOTE]
 >
->Läs mer om [token för intressanta stunder](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) baserat på utlösare som används i en smart kampanj.
+>Läs mer om [variabler för intressanta ögonblick](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) baserat på utlösare som används i en smart kampanj.
 
 ## Programtoken {#program-tokens}
 
@@ -163,10 +162,10 @@ Mina token definieras i ett program och börjar med `{{my.` följt av namnet som
 
 ## Medlemstoken {#member-token}
 
-Medlemstoken används för att infoga unika värden från integrerade tjänstpartner. Ett vanligt användningsområde för Member Tokens är för unika URL:er för webbinarier-deltagare. Varje person har en unik URL för att komma åt webbinariet som kan infogas med en `{{member.webinar url}}`-token. Token `{{member.webinar url}}` löser automatiskt personens unika bekräftelse-URL som genereras av tjänsteleverantören.
+Medlemstoken används för att infoga unika värden från integrerade tjänstpartner. Ett vanligt användningsområde för Member Tokens är för unika URL:er för webbinarier-deltagare. Varje person har en unik URL för att komma åt webbinariet som kan infogas med en `{{member.webinar url}}` token. The `{{member.webinar url}}` -token löser automatiskt personens unika bekräftelse-URL som genereras av tjänsteleverantören.
 
 * `{{member.webinar url}}`
 
 >[!CAUTION]
 >
->Token `{{member.webinar url}}` fylls bara i om den smarta kampanj som skickar e-postmeddelandet är en underordnad tillgång till Event Program.
+>The `{{member.webinar url}}` -token fylls bara i om den smarta kampanj som skickar e-postmeddelandet är en underordnad resurs till Event Program.

@@ -1,29 +1,28 @@
 ---
 unique-page-id: 14352592
-description: Infoga dynamiska fält - Marketo Docs - Produktdokumentation
+description: Infoga dynamiska fält - Marketo Docs - produktdokumentation
 title: Infoga dynamiska fält
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: e4989350-872d-47a1-84b0-210e631ae23a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
 
 ---
 
-
 # Infoga dynamiska fält {#how-to-insert-dynamic-fields}
 
-Du kan anpassa dina e-postmallar med fördefinierade attribut som `{{first_name}}` eller `{{company}}`. Dessa fält gör att du kan skicka e-post till flera kontakter och fylla i fälten automatiskt utan att behöva skriva ut dem separat för varje kontakt.
+Vi låter dig anpassa dina e-postmallar med fördefinierade attribut som `{{first_name}}` eller `{{company}}`. Dessa fält gör att du kan skicka e-post till flera kontakter och fylla i fälten automatiskt utan att behöva skriva ut dem separat för varje kontakt.
 
 >[!TIP]
 >
->Fälten&quot;first_name&quot; och&quot;company&quot; är de enda fält som kommer att användas för både Sales Connect och Salesforce. Det innebär att om en kontakt inte finns i [webbprogrammet](https://toutapp.com/login) söker vi i Salesforce för att se om det går att hitta en kontakt-/lead-post med en matchande e-postadress. Vi använder sedan information från den posten för att fylla i fältet.
+>Fälten&quot;first_name&quot; och&quot;company&quot; är de enda fält som kommer att användas för både Sales Connect och Salesforce. Det innebär att en kontakt inte finns i [webbprogram](https://toutapp.com/login)söker vi i Salesforce för att se om vi kan hitta en kontakt-/lead-post med en matchande e-postadress. Vi använder sedan information från den posten för att fylla i fältet.
 
 ## Infoga ett dynamiskt fält i en mall {#insert-a-dynamic-field-into-a-template}
 
-1. I **Mallar och kampanjer** letar du reda på mallen som du vill redigera och klickar på **Redigera mall**.
+1. I **Mallar och kampanjer** söker du efter den mall som du vill redigera och klickar på **Redigera mall**.
 
-1. Klicka på **Tout Dynamic Fields**.
+1. Klicka **Tout Dynamic Fields**.
 
    >[!NOTE]
    >

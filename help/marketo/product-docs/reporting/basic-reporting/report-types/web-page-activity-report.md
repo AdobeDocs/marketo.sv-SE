@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359971
-description: Aktivitetsrapport för webbsida - Marketo Docs - Produktdokumentation
+description: Aktivitetsrapport för webbsida - Marketo Docs - produktdokumentation
 title: Aktivitetsrapport för webbsida
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
-
 
 # Aktivitetsrapport för webbsida {#web-page-activity-report}
 
@@ -22,11 +21,11 @@ Du kan välja att visa kända personer eller anonyma personer, men inte båda ty
 >* [Lägg till Munchkin-spårningskod på din webbplats](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
 
-1. [Skapa en ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)rapport och välj  **Web Page Activity** [Report-typ](report-type-overview.md).
+1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)och väljer **Aktivitetsrapport för webbsida** [rapporttyp](report-type-overview.md).
 
-1. Välj att [visa kända eller anonyma personer](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) i rapporten.
+1. Välj [visa kända eller anonyma personer](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) i rapporten.
 
-1. [Ange tidsramen för ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) rapporten och klicka på fliken  **** Rapportera.
+1. [Ange tidsram för rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) och klicka på **Rapport** -fliken.
 
 1. Du har det! Granska rapporten för att se vem som besöker er webbplats.
 
@@ -38,10 +37,10 @@ Du kan välja att visa kända personer eller anonyma personer, men inte båda ty
 
    >[!TIP]
    >
-   >[sortera rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) i kolumnen _Sidvyer_ och välj Sortera fallande för att ta reda på vem som besöker webbplatsen mest.
+   >För att ta reda på vem som besöker er webbplats mest, [sortera rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) på _Sidvyer_ och välj Sortera fallande.
 
-   [Marketo lägger till ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) anonyma webbplatsbesökare i din databas och du kan välja att visa dem i den här rapporten. Det ger mycket information trots att de är anonyma.\
-   [Kolumner som du kan ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) välja för en aktivitetsrapport för webbsida är:
+   [Marketo lägger till anonyma](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) webbplatsbesökare till din databas och du kan välja att visa dem i den här rapporten. Det ger mycket information trots att de är anonyma.\
+   [Kolumner som du kan markera](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en webbsidesaktivitetsrapport innehåller:
 
 <table> 
  <thead> 
@@ -53,7 +52,7 @@ Du kan välja att visa kända personer eller anonyma personer, men inte båda ty
  <tbody> 
   <tr> 
    <td>Person</td> 
-   <td>Besökarens namn, titel och företag.<br><strong>Klicka </strong> för att visa personinformation och aktivitetshistorik.</td> 
+   <td>Besökarens namn, titel och företag.<br><strong>Klicka</strong> för att visa personinformation och aktivitetshistorik.</td> 
   </tr> 
   <tr> 
    <td>Första/sista besök (tidszon)</td> 
@@ -61,7 +60,7 @@ Du kan välja att visa kända personer eller anonyma personer, men inte båda ty
   </tr> 
   <tr> 
    <td>Sidvyer</td> 
-   <td>Antal sidor som har lästs in av den här besökaren.<br><strong><a href="web-page-activity-report/web-pages-viewed-web-page-activity-report.md">Klicka </a></strong> för att visa vilka sidor som besöktes.</td> 
+   <td>Antal sidor som har lästs in av den här besökaren.<br><strong><a href="web-page-activity-report/web-pages-viewed-web-page-activity-report.md">Klicka</a></strong> för att se vilka sidor som besöktes.</td> 
   </tr> 
   <tr> 
    <td>HTTP-referens</td> 
@@ -73,7 +72,7 @@ Du kan välja att visa kända personer eller anonyma personer, men inte båda ty
   </tr> 
   <tr> 
    <td>Införstått företag eller Internet-leverantör</td> 
-   <td>Företaget, vilket framgår av besökarnas IP-adress. <strong>Namn i </strong> fet stil anger att det är företaget, inte Internet-leverantören. </td> 
+   <td>Företaget, vilket framgår av besökarnas IP-adress. <strong>Namn i fetstil</strong> ange att det är företaget, inte Internet-leverantören. </td> 
   </tr> 
   <tr> 
    <td>Infört land, delstat/region och ort</td> 
@@ -84,7 +83,7 @@ Du kan välja att visa kända personer eller anonyma personer, men inte båda ty
 
 >[!TIP]
 >
->Trimma era säljare! [Filtrera rapporten ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)för deras territorium och  [prenumerera på den](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)!
+>Trimma era säljare! [Filtrera rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)för deras territorium och [prenumerera på dem](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)!
 
 >[!MORELIKETHIS]
 >

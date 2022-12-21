@@ -1,17 +1,16 @@
 ---
 unique-page-id: 10095347
-description: Skydda inställningen för prenumerationsadministratör - Marketo Docs - Produktdokumentation
+description: Skydda inställningen för prenumerationsadministratörer - Marketo Docs - produktdokumentation
 title: Skydda inställningen för prenumerationsadministration
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: 0cc1bc36-6a97-4f8d-afea-21746e8e3d84
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-
-# Skydda inställningen för prenumerationsadministratör {#secure-the-subscription-admin-setting}
+# Skydda inställningen för prenumerationsadministration {#secure-the-subscription-admin-setting}
 
 >[!NOTE]
 >
@@ -19,15 +18,15 @@ ht-degree: 0%
 
 En administratör kan välja att kräva inloggning för att visa en rapport.
 
-1. Klicka på **Admin** och **Inloggningsinställningar**.
+1. Klicka **Administratör** och sedan **Inloggningsinställningar**.
 
    ![](assets/image2015-4-29-12-3a46-3a14.png)
 
-1. Klicka på **Redigera** för Rapportinställningar för smart lista.
+1. Klicka **Redigera** för rapportinställningar för smart lista.
 
    ![](assets/image2015-4-29-12-3a50-3a50.png)
 
-1. Välj **Ja** om du vill ha en inloggning för att hämta rapporter.
+1. Välj **Ja** för att hämta rapporter med inloggning.
 
    ![](assets/image2015-4-29-12-3a53-3a7.png)
 

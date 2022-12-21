@@ -3,7 +3,6 @@ unique-page-id: 1146997
 description: Använd en datumtoken i ett vänteflödessteg - Marketo Docs - produktdokumentation
 title: Använd en datumtoken i ett vänteflödessteg
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '216'
@@ -19,7 +18,7 @@ Du kan använda steget Väntflöde för att pausa en persons resa genom en smart
 >
 >Detta gäller endast utlösande kampanjer. Du kan inte använda den här funktionen i gruppkampanjer.
 
-1. Dra över flödessteget **Vänta** i den smarta kampanjen **Flöde**.
+1. I er smarta kampanj **Flöde** tabb, dra över **Vänta** flödessteg.
 
    ![](assets/image2014-9-22-14-3a8-3a22.png)
 
@@ -27,7 +26,7 @@ Du kan använda steget Väntflöde för att pausa en persons resa genom en smart
 
    ![](assets/image2014-9-22-14-3a8-3a37.png)
 
-1. I listrutan **Typ** väljer du **Datumtoken**.
+1. Från **Typ** nedrullningsbar meny, välja **Datumtoken**.
 
    ![](assets/image2014-9-22-14-3a8-3a41.png)
 
@@ -54,9 +53,9 @@ Du kan använda steget Väntflöde för att pausa en persons resa genom en smart
 
    >[!NOTE]
    >
-   >Du kan också ange antalet dagar med en `{{lead.`- eller `{{company.`-token som representerar ett heltalsfält eller en `{{my.`-token av taltyp.
+   >Du kan också ange antalet dagar med en `{{lead.` eller `{{company.` token som representerar ett heltalsfält, eller en `{{my.` token av nummertyp.
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/image2014-9-22-14-3a11-3a3.png)
 

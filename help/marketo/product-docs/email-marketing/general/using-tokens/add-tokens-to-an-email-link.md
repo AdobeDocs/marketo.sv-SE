@@ -1,21 +1,20 @@
 ---
 unique-page-id: 1147360
-description: Lägg till token i en e-postlänk - Marketo Docs - Produktdokumentation
+description: Lägg till token i en e-postlänk - Marketo Docs - produktdokumentation
 title: Lägg till token i en e-postlänk
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: b04d279a-b71a-4975-9992-23a51d075856
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-
 # Lägg till token i en e-postlänk {#add-tokens-to-an-email-link}
 
 Om du vill infoga extra och personspecifika parametrar i länkarna kan du använda variabler. Så här gör du.
 
-1. Markera e-postmeddelandet och klicka på fliken **Redigera utkast**.
+1. Välj din e-postadress och klicka på **Redigera utkast** -fliken.
 
    ![](assets/one.png)
 
@@ -23,15 +22,15 @@ Om du vill infoga extra och personspecifika parametrar i länkarna kan du använ
 
    ![](assets/two.png)
 
-1. Leta reda på eller skriv texten för länken. Markera den och klicka på ikonen **Infoga/redigera länk**.
+1. Leta reda på eller skriv texten för länken. Markera den och klicka på **Infoga/redigera länk** ikon.
 
    ![](assets/three.png)
 
-1. Ange önskade token i **URL** och klicka på **Infoga**.
+1. Skriv in de token som du vill använda i **URL** och klicka **Infoga**.
 
    ![](assets/four.png)
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/five.png)
 

@@ -2,24 +2,23 @@
 unique-page-id: 37355602
 description: Installera och konfigurera Marketo Sales Insight i Microsoft Dynamics Online - Marketo Docs - produktdokumentation
 title: Installera och konfigurera Marketo Sales Insight i Microsoft Dynamics Online
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 3b58b109-96f9-427e-be5c-a8db270ffe69
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%
 
 ---
 
-
 # Installera och konfigurera Marketo Sales Insight i Microsoft Dynamics Online {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online}
 
-Marketo Sales Insight är ett fantastiskt verktyg för att ge säljteamet ett&quot;fönster&quot; till det stora datamängder som marknadsföringsteamet har. Så här installerar och konfigurerar du den i Microsoft Dynamics Online.
+Marketo Sales Insight är ett fantastiskt verktyg för att ge säljteamet ett&quot;fönster&quot; till alla data som marknadsföringsteamet har. Så här installerar och konfigurerar du den i Microsoft Dynamics Online.
 
 >[!PREREQUISITES]
 >
->Slutför er Marketo-Microsoft-integrering.
+>Komplettera integreringen mellan Marketo och Microsoft.
 >
->[Hämta rätt ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) lösning för din version av Microsoft Dynamics CRM.
+>[Ladda ned rätt lösning](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) för din version av Microsoft Dynamics CRM.
 
 ## Importera lösning {#import-solution}
 
@@ -27,15 +26,15 @@ Marketo Sales Insight är ett fantastiskt verktyg för att ge säljteamet ett&qu
 >
 >Om du använder det enhetliga gränssnittet, innan steg 1 nedan, klickar du på ikonen Inställningar i det övre högra hörnet och väljer **Avancerade inställningar**.
 
-1. Klicka på **Inställningar** under Microsoft Dynamics CRM.
+1. Klicka på Microsoft Dynamics CRM **Inställningar**.
 
    ![](assets/image2014-12-12-9-3a4-3a56-1.png)
 
-1. Klicka på **Anpassningar** under Inställningar.
+1. Klicka på under Inställningar **Anpassningar**.
 
    ![](assets/image2015-4-29-14-3a22-3a1-1.png)
 
-1. Klicka på **Lösningar**.
+1. Klicka **Lösningar**.
 
    ![](assets/image2014-12-12-9-3a5-3a17-1.png)
 
@@ -43,29 +42,29 @@ Marketo Sales Insight är ett fantastiskt verktyg för att ge säljteamet ett&qu
    >
    >Du bör redan ha installerat och konfigurerat Marketo-lösningen innan du går vidare.
 
-1. Klicka på **Importera**.
+1. Klicka **Importera**.
 
    ![](assets/image2014-12-12-9-3a5-3a27-1.png)
 
-1. Klicka på **Bläddra** i det nya fönstret.
+1. Klicka på **Bläddra**.
 
    ![](assets/image2014-12-12-9-3a5-3a36-1.png)
 
 1. Hitta och installera den lösning du just laddat ned på datorn.
 
-1. Klicka på **Nästa**.
+1. Klicka **Nästa**.
 
    ![](assets/seven.png)
 
-1. Lösningen överförs. Du kan visa paketinnehållet om du vill. Klicka på **Nästa**.
+1. Lösningen överförs. Du kan visa paketinnehållet om du vill. Klicka **Nästa**.
 
    ![](assets/image2014-12-12-9-3a6-3a10-1.png)
 
-1. Se till att du inte markerar rutan och klicka på **Importera**.
+1. Se till att du inte markerar rutan och klicka **Importera**.
 
    ![](assets/image2014-12-12-9-3a6-3a19-1.png)
 
-1. Hämta loggfilen och klicka sedan på **Stäng**.
+1. Hämta loggfilen utan kostnad och klicka sedan på **Stäng**.
 
    ![](assets/image2014-12-12-9-3a6-3a29-1.png)
 
@@ -73,7 +72,7 @@ Marketo Sales Insight är ett fantastiskt verktyg för att ge säljteamet ett&qu
 
    ![](assets/eleven.png)
 
-1. Klicka på **Anpassa publicering**.
+1. Klicka **Publicera anpassning**.
 
    >[!NOTE]
    >
@@ -81,21 +80,21 @@ Marketo Sales Insight är ett fantastiskt verktyg för att ge säljteamet ett&qu
 
 ## Connect Marketo och Sales Insight {#connect-marketo-and-sales-insight}
 
-Låt oss knyta din Marketo-instans till Sales Insight i Dynamics. Så här:
+Låt oss binda din Marketo-instans till Sales Insight i Dynamics. Så här:
 
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
 
-1. Logga in på Marketo och gå till avsnittet **Admin**.
+1. Logga in i Marketo och gå till **Administratör** -avsnitt.
 
    ![](assets/image2014-12-12-9-3a6-3a50-1.png)
 
-1. Under avsnittet Sales Insight klickar du på **Redigera API-konfiguration**.
+1. Under Sales Insight klickar du på **Redigera API-konfiguration**.
 
    ![](assets/image2014-12-12-9-3a7-3a0-1.png)
 
-1. Kopiera **Marketo Host**, **API URL** och **API User Id** för användning i ett senare steg. Ange en API-hemlig nyckel och klicka på **Spara**.
+1. Kopiera **Marketo Host**, **API-URL** och **API-användar-ID** för användning i ett senare steg. Ange en valfri API-hemlig nyckel och klicka på **Spara**.
 
    >[!CAUTION]
    >
@@ -105,24 +104,24 @@ Låt oss knyta din Marketo-instans till Sales Insight i Dynamics. Så här:
 
    >[!NOTE]
    >
-   >Följande fält måste synkroniseras med Marketo för _både Lead och Contact_ för att Sales Insight ska fungera:
+   >Följande fält måste synkroniseras med Marketo för _både lead och kontakt_ för Sales Insight att arbeta:
    >
    >* Prioritet
    >* Akut
    >* Relativa poäng
 
    >
-   >Om något av dessa fält saknas visas ett felmeddelande i Marketo med namnet på de fält som saknas. Utför [den här proceduren](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md) för att åtgärda detta.
+   >Om något av dessa fält saknas visas ett felmeddelande i Marketo med namnet på de saknade fälten. Åtgärda problemet genom att utföra [detta förfarande](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
 
-1. Gå tillbaka i Microsoft Dynamics till **Inställningar**.
+1. Tillbaka i Microsoft Dynamics, gå till **Inställningar**.
 
    ![](assets/image2014-12-12-9-3a7-3a25-1.png)
 
-1. Under **Inställningar** klickar du på **Marketo API Config**.
+1. Under **Inställningar**, klicka **Marketo API Config**.
 
    ![](assets/image2014-12-12-9-3a7-3a34-1.png)
 
-1. Klicka på **Nytt**.
+1. Klicka **Nytt**.
 
    ![](assets/image2014-12-12-9-3a8-3a8-1.png)
 
@@ -132,23 +131,23 @@ Låt oss knyta din Marketo-instans till Sales Insight i Dynamics. Så här:
 
 ## Aktivera synkronisering {#enable-sync}
 
-1. I Marketo klickar du på **Admin**.
+1. I Marketo klickar du på **Administratör**.
 
    ![](assets/enable-one.png)
 
-1. Välj **Microsoft Dynamics** under Integrering.
+1. Under Integrering väljer du **Microsoft Dynamics**.
 
    ![](assets/enable-two.png)
 
-1. Klicka på **Aktivera synkronisering**.
+1. Klicka **Aktivera synkronisering**.
 
    ![](assets/enable-three.png)
 
-1. Klicka på **Redigera** bredvid Fältsynkroniseringsinformation.
+1. Klicka **Redigera** bredvid Fältsynkroniseringsinformation.
 
    ![](assets/enable-four.png)
 
-1. Detta _markerar automatiskt_ MSI-fält som tidigare har inaktiverats (trängsel, relativ poäng och prioritet). Klicka bara på **Spara** för att börja synkronisera data.
+1. Detta kommer att _automatiskt_ markera MSI-fält som tidigare har inaktiverats (Urbräde, Relativ poäng och Prioritet). Klicka bara **Spara** till att börja synkronisera data.
 
    ![](assets/enable-five.png)
 
@@ -164,15 +163,15 @@ Slutligen måste du ge specifika användare tillgång till Marketo Sales Insight
 
    ![](assets/image2015-4-29-14-3a56-3a33-1.png)
 
-1. Klicka på **Användare**.
+1. Klicka **Användare**.
 
    ![](assets/image2015-4-29-14-3a57-3a46-1.png)
 
-1. Markera de användare som du vill ge åtkomst till Sales Insight till och klicka på **Hantera roller**.
+1. Markera de användare som du vill ge tillgång till Sales Insight till och klicka på **Hantera roller**.
 
    ![](assets/image2015-4-29-14-3a59-3a31-1.png)
 
-1. Markera Marketo Sales Insight-rollen och klicka på **OK**.
+1. Välj rollen Marketo Sales Insight och klicka på **OK**.
 
    ![](assets/image2014-12-12-9-3a9-3a22-1.png)
 

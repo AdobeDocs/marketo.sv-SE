@@ -3,7 +3,6 @@ unique-page-id: 11380986
 description: Redigera en arbetsyta - Marketo Docs - produktdokumentation
 title: Redigera en arbetsyta
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '146'
@@ -21,9 +20,9 @@ Ibland behöver du göra ändringar i en arbetsyta. Det är lätt.
 
 >[!NOTE]
 >
->Ta en titt på arbetsytorna med [Förstå arbetsytor och personpartitioner](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>Pensla på arbetsytor med [Arbetsytor och personpartitioner](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Under **Admin** klickar du på **Arbetsytor och partitioner**.
+1. Under **Administratör**, klicka på **Arbetsytor och partitioner**.
 
    ![](assets/image2014-9-17-11-3a59-3a11-1.png)
 
@@ -41,13 +40,13 @@ Ibland behöver du göra ändringar i en arbetsyta. Det är lätt.
 
    >[!NOTE]
    >
-   >Kryssrutan **Alla personpartitioner** betyder att den här arbetsytan kan använda alla huvudpartitioner i systemet.
+   >The **Alla personpartitioner** betyder att den här arbetsytan kan använda alla huvudpartitioner i systemet.
 
    >[!NOTE]
    >
-   >**Den primära personpartitionen** fungerar som standard och är den plats där alla personer tilldelas.
+   >The **primär personpartition** fungerar som standard och är den plats där alla personer tilldelas.
 
-   Om du har aktiverat flera domäner kan du byta till en annan primär domäner. Klicka på **Spara**.
+   Om du har aktiverat flera domäner kan du byta till en annan primär domäner. Klicka **Spara**.
 
    ![](assets/four-6.png)
 

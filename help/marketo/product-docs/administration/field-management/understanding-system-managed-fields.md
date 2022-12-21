@@ -3,7 +3,6 @@ unique-page-id: 5472615
 description: Understanding System Managed Fields - Marketo Docs - Product Documentation
 title: Förstå systemhanterade fält
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '522'
@@ -11,9 +10,9 @@ ht-degree: 1%
 
 ---
 
-# Om systemhanterade fält {#understanding-system-managed-fields}
+# Förstå systemhanterade fält {#understanding-system-managed-fields}
 
-Du kan ha lagt märke till att sidan [personinformation](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) innehåller en serie icke-redigerbara fält som skapats av Marketo. Dessa data kommer från olika källor och det finns otaliga värden som kan visas.
+Du kanske har märkt att [personinformationssida](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) har en serie icke-redigerbara fält som skapats av Marketo. Dessa data kommer från olika källor och det finns otaliga värden som kan visas.
 
 ## Fälttyper {#field-types}
 
@@ -35,7 +34,7 @@ Du kan ha lagt märke till att sidan [personinformation](/help/marketo/product-d
 | Ingående metropolitområde | Marketo bästa gissning (baserat på IP) för personens storstadsområde |
 | Riktnummer för inkommande telefon | Marketo bästa gissning (baserat på IP) för personens riktnummer |
 
-## Möjliga värden för ursprunglig och registreringskälltyp {#possible-values-for-original-and-registration-source-type}
+## Möjliga värden för ursprungs- och registreringskälltyp {#possible-values-for-original-and-registration-source-type}
 
 Nedan finns några möjliga värden och vad de betyder.
 
@@ -66,4 +65,4 @@ Nedan finns några möjliga värden och vad de betyder.
 | Ny person | Personen har angetts manuellt i databasen |
 | Munchkin API | Bli en person med Marketo Munchkins API |
 | Social app | Bli en person via en social widget |
-| Evenemangspartner | Bli en person via en länkad webbinärtjänst |
+| Evenemangspartner | Bli en person via en länkad webbinatjänst |

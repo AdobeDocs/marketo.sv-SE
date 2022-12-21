@@ -3,7 +3,6 @@ unique-page-id: 10094188
 description: Godkänn ett anpassat objekt - Marketo Docs - produktdokumentation
 title: Godkänn ett anpassat objekt
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '276'
@@ -19,11 +18,11 @@ Du måste godkänna ett anpassat objekt innan du kan använda det. Processen ski
 
 Du har skapat ett helt nytt anpassat objekt. Så här godkänner du det.
 
-1. I Admin klickar du på **Anpassade Marketo-objekt** och markerar ett objekt som är i utkastläge.
+1. I Admin klickar du på **Anpassade Marketo-objekt** och markera ett objekt som är i utkastläge.
 
    ![](assets/one.png)
 
-1. Klicka på listrutan **Anpassade objektåtgärder** och välj **Godkänn objekt**.
+1. Klicka på **Anpassade objektåtgärder** nedrullningsbar meny och välj **Godkänn objekt**.
 
    ![](assets/two.png)
 
@@ -35,11 +34,11 @@ Du har skapat ett helt nytt anpassat objekt. Så här godkänner du det.
    >
    >Ett anpassat objekt som används i en _en-till-många-struktur_ måste ha minst ett dedupliceringsfält, ett länkfält, ett länkat objektnamn och ett länkat fältnamn som ska godkännas.
    >
-   >Ett anpassat objekt som används i en _många-till-många-struktur_ **behöver inte** ett länkfält, namn på länkat objekt eller ett länkat fältnamn när du godkänner det (eftersom de finns i det mellanliggande objektet).
+   >Ett anpassat objekt som används i en _många-till-många-struktur_ **inte** behöver ett länkfält, ett länkat objektnamn eller ett länkat fältnamn när du godkänner det (eftersom de finns i det mellanliggande objektet).
    >
-   >Ett anpassat objekt som används som ett _mellanliggande objekt_ kräver ett länkfält, ett länkat objektnamn och ett länkat fältnamn, men **kräver inget** dedupliceringsfält.
+   >Ett anpassat objekt som används som _intermediärt objekt_ kräver ett länkfält, ett länkat objektnamn och ett länkat fältnamn men **inte** kräver ett dedupliceringsfält.
    >
-   >Mer information finns i [Förstå anpassade Marketo-objekt](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md).
+   >Se [Förstå anpassade Marketo-objekt](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) för mer information.
 
 Så ja! Nu kan du välja det anpassade objektet i begränsningarna för filter och utlösare som ska användas i dina kampanjer.
 
@@ -51,10 +50,10 @@ När du har redigerat ett godkänt anpassat objekt måste du godkänna utkastet 
 
    ![](assets/four.png)
 
-1. När du är klar att godkänna utkastet klickar du på listrutan **Anpassade objektåtgärder** och väljer **Godkänn objekt**.
+1. När du är klar att godkänna utkastet klickar du på **Anpassade objektåtgärder** nedrullningsbar meny och välj **Godkänn objekt**.
 
    ![](assets/five-1.png)
 
-1. I en förhandsgranskning visas de objekt som har ändrats i utkastet. Klicka på **Godkänn**.
+1. I en förhandsgranskning visas de objekt som har ändrats i utkastet. Klicka **Godkänn**.
 
    ![](assets/six-1.png)

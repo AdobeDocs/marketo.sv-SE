@@ -1,23 +1,22 @@
 ---
 unique-page-id: 2359679
-description: Redigera CSS för ett formulärtema - Marketo Docs - Produktdokumentation
+description: Redigera CSS för ett formulärtema - Marketo Docs - produktdokumentation
 title: Redigera CSS för ett formulärtema
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
-
 # Redigera CSS för ett formulärtema {#edit-the-css-of-a-form-theme}
 
-Du har några färdiga [teman som du bara kan välja mellan](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Men om du gillar att redigera CSS kan du göra vilka ändringar du vill. Så här gör du.
+Du har några färdiga [teman du bara kan välja bland](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Men om du gillar att redigera CSS kan du göra vilka ändringar du vill. Så här gör du.
 
 >[!NOTE]
 >
->Se till att du känner till CSS om du vill prova det här eftersom Marketo Support inte har konfigurerats för anpassad kodning. Ändringar som görs gäller endast det formulär som du redigerar.
+>Kontrollera att du känner till CSS om du vill prova detta eftersom Marketo Support inte har konfigurerats för att hjälpa till med anpassad kodning. Ändringar som görs gäller endast det formulär som du redigerar.
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
@@ -35,7 +34,7 @@ Du har några färdiga [teman som du bara kan välja mellan](/help/marketo/produ
 
    ![](assets/image2014-9-15-14-3a37-3a54.png)
 
-1. Klicka på **Visa tema-CSS** under kugghjulsikonen.
+1. Klicka på under kugghjulsikonen **Visa tema-CSS**.
 
    ![](assets/image2014-9-15-14-3a38-3a18.png)
 
@@ -43,11 +42,11 @@ Du har några färdiga [teman som du bara kan välja mellan](/help/marketo/produ
 
    ![](assets/image2014-9-15-14-3a38-3a29.png)
 
-1. Klicka på **Stäng**.
+1. Klicka **Stäng**.
 
    ![](assets/image2014-9-15-14-3a38-3a46.png)
 
-1. Klicka på **Redigera anpassad CSS** under kugghjulsikonen.
+1. Klicka på under kugghjulsikonen **Redigera anpassad CSS**.
 
    ![](assets/image2014-9-15-14-3a39-3a5.png)
 
@@ -59,7 +58,7 @@ Du har några färdiga [teman som du bara kan välja mellan](/help/marketo/produ
 
    ![](assets/image2014-9-15-14-3a39-3a30.png)
 
-1. Om du vill visa det anpassade formuläret klickar du på **Förhandsgranska utkast**.
+1. Klicka på **Förhandsgranska utkast**.
 
    ![](assets/image2014-9-15-14-3a39-3a50.png)
 

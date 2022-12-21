@@ -3,7 +3,6 @@ unique-page-id: 2949273
 description: SEO - Använd rapporten Nyckelordstrender - Marketo Docs - Produktdokumentation
 title: SEO - Använd rapporten om nyckelordstrender
 exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '178'
@@ -36,7 +35,7 @@ I den här rapporten kan du se hur nyckelord rangordnas över tiden.
    | Nyckelord | Antalet nyckelord som du spårar. |
    | Ranknings-URL:er | Antalet URL:er i webbplatsens rankning i det intervall som du har angett. |
    | Medel. rankning | Genomsnittlig rangordning av nyckelord i det intervall som du har angett. |
-   | Medel. sökningar | Genomsnittligt antal sökningar på de nyckelorden som gjordes under det angivna intervallet (under de senaste 30 dagarna, vid Google US-sökning |
+   | Medel. sökningar | Genomsnittligt antal sökningar efter de nyckelord som gjordes under det intervall som du angav (under de senaste 30 dagarna, vid sökning i Google US) |
 
 ## Filtrera data {#filtering-data}
 

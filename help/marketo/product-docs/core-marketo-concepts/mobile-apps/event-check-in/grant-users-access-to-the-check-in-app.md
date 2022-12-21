@@ -3,7 +3,6 @@ unique-page-id: 7516639
 description: Ge användare åtkomst till incheckningsprogrammet - Marketo Docs - produktdokumentation
 title: Ge användare åtkomst till incheckningsappen
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '202'
@@ -17,19 +16,19 @@ Marketo har en särskild användarroll för incheckningsappen för händelser. S
 
 ## Skapa en ny användarroll för mobilen {#create-a-new-user-role-for-mobile}
 
-1. Klicka på **Admin**.
+1. Klicka **Administratör**.
 
    ![](assets/image2015-6-2-10-3a39-3a31.png)
 
-1. Klicka på **Användare och roller**.
+1. Klicka **Användare och roller**.
 
    ![](assets/image2015-6-2-10-3a56-3a0.png)
 
-1. Klicka på fliken **Roller** och sedan på **Ny roll**.
+1. Klicka på **Roller** tabbtangenten och sedan klicka **Ny roll**.
 
    ![](assets/image2015-6-2-11-3a3-3a23.png)
 
-1. Ange ett namn för den nya rollen och en valfri beskrivning. Markera rutan **Åtkomst till mobilprogram** och klicka på **Skapa**.
+1. Ange ett namn för den nya rollen och en valfri beskrivning. Kontrollera **Access Mobile Application** och klicka **Skapa**.
 
    ![](assets/image2015-6-2-11-3a4-3a58.png)
 
@@ -37,15 +36,15 @@ Marketo har en särskild användarroll för incheckningsappen för händelser. S
 
 ## Bjud in nya användare till incheckningsappen {#invite-new-users-for-the-check-in-app}
 
-1. Klicka på fliken **Användare**.
+1. Klicka på **Användare** -fliken.
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 
-1. Klicka på **Bjud in ny användare**.
+1. Klicka **Bjud in ny användare**.
 
    ![](assets/image2015-6-2-11-3a11-3a32.png)
 
-1. Ange information om den nya användaren. Markera kryssrutorna för alla lämpliga roller och den nya rollen med behörighet att komma åt mobilappen. Klicka på **Bjud in** när du är klar.
+1. Ange information om den nya användaren. Markera kryssrutorna för alla lämpliga roller och den nya rollen med behörighet att komma åt mobilappen. Klicka **Bjud in** när du är klar.
 
    ![](assets/image2015-6-2-11-3a16-3a26.png)
 

@@ -2,14 +2,13 @@
 unique-page-id: 14352491
 description: Varför skickades inte alla mina kontakter till Sales Connect? - Marketo Docs - produktdokumentation
 title: Varför skickades inte alla mina kontakter till Sales Connect?
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+exl-id: 53ea29c1-fe48-4808-933a-3ab1744a7d7e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
 
 ---
-
 
 # Varför skickades inte alla mina kontakter till Sales Connect? {#why-didnt-all-of-my-contacts-get-pushed-to-sales-connect}
 

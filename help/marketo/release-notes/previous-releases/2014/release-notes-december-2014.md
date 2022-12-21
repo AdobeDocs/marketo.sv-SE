@@ -16,7 +16,7 @@ Följande funktioner ingår i december 2014-versionen. Kontrollera om det finns 
 
 ## Sales Insight-rapporter {#sales-insight-reports}
 
-Med [E-postresultatrapporten från Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) kan du visa e-poststatistik per e-post och säljare. Det har stöd för e-postmeddelanden som skickas via Salesforce, Microsoft Dynamics, Outlook-plugin och Gmail.
+The [E-postresultatrapport för Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) gör att du kan se e-poststatistik via e-post och säljare. Det har stöd för e-postmeddelanden som skickas via Salesforce, Microsoft Dynamics, Outlook-plugin och Gmail.
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
@@ -24,13 +24,13 @@ Med [E-postresultatrapporten från Sales Insight](/help/marketo/product-docs/mar
 
 ## Facebook Custom Auditions {#facebook-custom-audiences}
 
-När din Marketo-administratör har lagt till [Facebook via Admin > Startpunkt](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) kan du enkelt skapa, uppdatera eller [ersätta en anpassad Facebook-målgrupp med leads från en statisk eller smart lista från Marketo](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Leta efter den nya Facebook-ikonen längst ned i huvudstödrastret i statiska eller smarta listor.
+När din Marketo-administratör har lagt till [Facebook via Admin > Startpunkt](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)kan du enkelt skapa, uppdatera eller [ersätta en anpassad Facebook-publik med leads från en statisk eller smart lista från Marketo](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Leta efter den nya Facebook-ikonen längst ned i huvudstödrastret i statiska eller smarta listor.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
 ## Förbättrad kloning över flera arbetsytor  {#improved-cloning-across-workspaces}
 
-[Det har aldrig varit enklare att klona ett ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) program till en annan arbetsyta! När du klickar på klona väljer du målarbetsytan. Nu behöver du inte längre klona till en mapp och sedan flytta mappen!
+[Klona ett program](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) till en annan arbetsyta har aldrig varit enklare! När du klickar på klona väljer du målarbetsytan. Nu behöver du inte längre klona till en mapp och sedan flytta mappen!
 
 >[!NOTE]
 >
@@ -40,11 +40,11 @@ När din Marketo-administratör har lagt till [Facebook via Admin > Startpunkt](
 
 ## Referera till smart lista {#reference-smart-list}
 
-[Smarta listor som delas med en annan arbetsyta kan ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) refereras när du skapar en smart lista eller ett smart flöde.
+[Smarta listor som delas med en annan arbetsyta kan refereras](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) när du skapar en smart lista eller ett smart flöde.
 
 ## Förbättringar av listimport {#list-import-improvements}
 
-[Importera ](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) filer som är kodade i UTF-16, Shift-JIS eller EUC-JP. Vi har fortsatt stöd för UTF-8-kodade filer.
+[Importera filer](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) kodas i UTF-16, Shift-JIS eller EUC-JP. Vi har fortsatt stöd för UTF-8-kodade filer.
 
 ## Länkspårning i e-postskript {#link-tracking-in-email-scripting}
 
@@ -52,7 +52,7 @@ Länkar i e-postskript spåras nu och är tillgängliga i rapporten E-postlänke
 
 ## Inställning för tokenkodning {#token-encoding-setting}
 
-Vi har introducerat en ny säkerhetsfunktion för automatisk HTML-kodning av tokens, som kommer att aktiveras som standard i mars 2015. Fram till dess kan du växla den här funktionen i Fälthantering för att testa beteendet i förväg. Alla lead- och företagstokens kodas när de infogas i e-postmeddelanden eller på landningssidor. Det finns även alternativ för enskilda fält.
+Vi har introducerat en ny säkerhetsfunktion för att automatiskt koda tokens i HTML, som kommer att aktiveras som standard i mars 2015. Fram till dess kan du växla den här funktionen i Fälthantering för att testa beteendet i förväg. Alla lead- och företagstokens kodas när de infogas i e-postmeddelanden eller på landningssidor. Det finns även alternativ för enskilda fält.
 
 ## Nya ReST API-anrop {#new-rest-api-calls}
 
@@ -64,7 +64,7 @@ Tre nya anrop till API:t Lead &amp; Activity ReST:
 
 ・ Lägg samman lead
 
-Fullständig information kommer att finnas tillgänglig efter releasen på [developers.marketo.com](https://developers.marketo.com/)
+Fullständig information finns tillgänglig efter lanseringen på [developers.marketo.com](https://developers.marketo.com/)
 
 ## Kompatibilitetsförbättringar för Munchkin Javascript {#munchkin-javascript-compatibility-enhancements}
 

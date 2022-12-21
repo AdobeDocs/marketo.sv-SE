@@ -1,15 +1,14 @@
 ---
 unique-page-id: 11385940
-description: Redigera prediktivt innehåll för multimedia - Marketo Docs - Produktdokumentation
+description: Redigera prediktivt innehåll för multimedia - Marketo Docs - produktdokumentation
 title: Redigera prediktivt innehåll för multimedia
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
 
 ---
-
 
 # Redigera prediktivt innehåll för multimedia {#edit-predictive-content-for-rich-media}
 
@@ -19,11 +18,11 @@ Så här konfigurerar du ditt prediktiva innehåll för multimedia.
 >
 >Innehållet måste vara [godkänt för prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) på sidan Allt innehåll.
 
-1. Öppna redigeraren genom att klicka på en titel på sidan **Predictive Content**.
+1. På **Prediktivt innehåll** klickar du på en titel för att öppna redigeraren.
 
    ![](assets/image2017-10-3-9-3a40-3a38.png)
 
-1. Klicka på **Multimedia**.
+1. Klicka **Multimedia**.
 
    ![](assets/image2017-10-3-9-3a41-3a33.png)
 
@@ -31,11 +30,11 @@ Så här konfigurerar du ditt prediktiva innehåll för multimedia.
 
    ![](assets/image2017-10-3-9-3a42-3a20.png)
 
-1. Skriv in en **beskrivning**.
+1. Skriv i en **Beskrivning**.
 
    ![](assets/image2017-10-3-9-3a43-3a43.png)
 
-1. Klicka på rutan **Kategorier** för att välja/lägga till [kategorier som du redan har konfigurerat](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (valfritt).
+1. Klicka på **Kategorier** ruta för att välja/lägga till [kategorier som du redan har konfigurerat](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (valfritt).
 
    ![](assets/image2017-10-3-9-3a55-3a57.png)
 
@@ -51,6 +50,6 @@ Så här konfigurerar du ditt prediktiva innehåll för multimedia.
 
    ![](assets/six-1.png)
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/save.png)

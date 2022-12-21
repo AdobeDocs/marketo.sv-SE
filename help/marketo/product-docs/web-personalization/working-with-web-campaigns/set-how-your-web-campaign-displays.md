@@ -2,16 +2,15 @@
 unique-page-id: 12978906
 description: Ange hur webbkampanjen visas - Marketo Docs - Produktdokumentation
 title: Ange hur webbkampanjen ska visas
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
-
-# Ange hur webbkampanjen visas {#set-how-your-web-campaign-displays}
+# Ange hur webbkampanjen ska visas {#set-how-your-web-campaign-displays}
 
 Det finns flera metoder att använda när/hur webbkampanjen visas.
 
@@ -25,21 +24,21 @@ Det här alternativet är valt som standard och visar bara kampanjen vid sidinl�
 
 Ange en tidsfördröjning (i totalt antal sekunder) för webbkampanjer att reagera på din webbplats.
 
-1. Klicka på listrutan **Visa på** och välj **Fördröjning**.
+1. Klicka på **Visa på** nedrullningsbar meny och välj **Fördröjning**.
 
    ![](assets/d1.png)
 
-1. Klicka på listrutan **Vänta** och välj önskad tid.
+1. Klicka på **Vänta** och välj önskad tid.
 
    ![](assets/d2.png)
 
 ## Rulla {#scroll}
 
-1. Klicka på listrutan **Visa på** och välj **Rulla**.
+1. Klicka på **Visa på** nedrullningsbar meny och välj **Rulla**.
 
    ![](assets/s1.png)
 
-1. Klicka på listrutan **När** och välj när du vill att webbkampanjen ska visas.
+1. Klicka på **När** och välja när du vill att webbkampanjen ska visas.
 
    ![](assets/s2.png)
 
@@ -64,7 +63,7 @@ Ange en tidsfördröjning (i totalt antal sekunder) för webbkampanjer att reage
 
 När muspekaren stängs visas webbkampanjen när användaren avslutar webbläsaren.
 
-1. Klicka på listrutan **Visa på** och välj **Avsluta metod**.
+1. Klicka på **Visa på** nedrullningsbar meny och välj **Avsluta metod**.
 
    ![](assets/ei1.png)
 
@@ -74,4 +73,4 @@ När muspekaren stängs visas webbkampanjen när användaren avslutar webbläsar
 
 >[!TIP]
 >
->Vill du se hur de valda effekterna kommer att se ut i förväg? Kolla in dem via en [förhandsgranskning av webbkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).
+>Vill du se hur de valda effekterna kommer att se ut i förväg? Kolla in dem via en [Förhandsgranskning av webbkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).

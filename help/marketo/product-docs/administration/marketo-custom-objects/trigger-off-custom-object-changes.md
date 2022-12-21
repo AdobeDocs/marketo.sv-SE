@@ -3,7 +3,6 @@ unique-page-id: 11378713
 description: Utlös anpassade objektändringar - Marketo Docs - produktdokumentation
 title: Utlös ändringar av anpassade objekt
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
@@ -20,18 +19,16 @@ ht-degree: 0%
 >* För kunder med Orion-infrastrukturen
 >* Kan endast användas med anpassade Marketo-objekt, inte anpassade objekt som synkroniseras via den inbyggda Salesforce- eller Microsoft Dynamics-integreringen
 >* Som utlösare, inte ett filter
-
 >
->
-Kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) om du vill aktivera utlösare för anpassade objektändringar.
+>Kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) om du vill att utlösare för anpassade objektändringar ska vara aktiverade.
 
-I den smarta kampanjens lista kan du utlösa en flödesåtgärd när ett anpassat objekt läggs till en person eller ett företag. Du kan också skapa en smart lista som använder en *ändring* i ett anpassat objekt som utlösare. Du kan till exempel använda den för att skicka ett e-postmeddelande när ett kursnamn uppdateras.
+I den smarta kampanjens lista kan du utlösa en flödesåtgärd när ett anpassat objekt läggs till en person eller ett företag. Du kan också skapa en smart lista som använder en *change* i ett anpassat objekt som utlösare. Du kan till exempel använda den för att skicka ett e-postmeddelande när ett kursnamn uppdateras.
 
 >[!NOTE]
 >
 >Ingen aktivitetsloggpost skapas när en anpassad objektpost ändras.
 
-1. Gå till **Marknadsföringsaktiviteter i Marketo.**
+1. I Marketo går du till **Marknadsföringsaktiviteter.**
 
    ![](assets/image2016-7-25-15-3a49-3a52.png)
 

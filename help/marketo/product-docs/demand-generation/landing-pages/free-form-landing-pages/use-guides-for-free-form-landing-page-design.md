@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2359728
-description: Använda stödlinjer för frihandsritning av siddesign - Marketo Docs - produktdokumentation
+description: Använd guider för landningssiddesign i fri form - Marketo Docs - produktdokumentation
 title: Använd stödlinjer för landningssiddesign i friform
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: 44c6a984-ae05-464c-905a-9e1b53f73f37
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
-
-# Använd stödlinjer för landningssiddesign i fritt format {#use-guides-for-free-form-landing-page-design}
+# Använd stödlinjer för landningssiddesign i friform {#use-guides-for-free-form-landing-page-design}
 
 När du utformar en landningssida i fri form kan du använda stödlinjer för att justera komponenterna.
 
 >[!NOTE]
 >
->Stödlinjer är bara tillgängliga på startsidans **frihandsredigerare**.
+>Stödlinjerna är bara tillgängliga på **Frihand** landningssidans redigerare.
 
-1. Välj en **landningssida** och klicka på **Redigera utkast**.
+1. Välj en **Landningssida** och klicka **Redigera utkast**.
 
    ![](assets/image2015-5-20-14-3a10-3a9.png)
 
-1. Klicka på **Åtgärder för landningssida** och välj **Visa stödlinjer**.
+1. Klicka **Åtgärder för landningssida** och markera **Visa stödlinjer**.
 
    ![](assets/image2015-5-20-14-3a12-3a15.png)
 

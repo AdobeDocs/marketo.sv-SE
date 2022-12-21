@@ -30,15 +30,15 @@ Med Marketo kan ni synkronisera era program med Salesforce-kampanjer för att be
 
    ![](assets/image2015-7-22-8-3a47-3a28.png)
 
-1. Klicka på **Programåtgärder** och välj sedan **Salesforce Campaign Sync**.
+1. Klicka **Programåtgärder** väljer **Salesforce Campaign-synkronisering**.
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
-1. Välj **Skapa ny** eller välj en befintlig Salesforce-kampanj.
+1. Välj **Skapa nytt** eller välj en befintlig Salesforce-kampanj.
 
    >[!TIP]
    >
-   >Om du väljer en befintlig Salesforce-kampanj måste du [matcha programstatusvärdena för Salesforce-kampanjen och Marketo-programmet](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
+   >Om du väljer en befintlig Salesforce-kampanj ska du se till att [matchar programstatusvärdena för Salesforce-kampanjen och Marketo-programmet](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
 
 1. Ange ett namn för den nya kampanjen och klicka på **Spara**.
 

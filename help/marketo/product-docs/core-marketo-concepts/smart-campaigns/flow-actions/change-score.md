@@ -10,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Ändra bakgrundsmusik {#change-score}
+# Ändra poäng {#change-score}
 
 ## Översikt {#overview}
 
@@ -26,7 +26,7 @@ Det är enkelt och kraftfullt att betygsätta personer så att säljteamet kan p
 
    >[!TIP]
    >
-   >Du kan skapa flera poängfält. Mer information finns i [Skapa ett anpassat fält i Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
+   >Du kan skapa flera poängfält. Se [Skapa ett anpassat fält i Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) för mer information.
 
 1. Ange den poängändring du vill ha.
 
@@ -34,9 +34,9 @@ Det är enkelt och kraftfullt att betygsätta personer så att säljteamet kan p
 
    Ändringar:
 
-   * **+5** till stegvis ökning
-   * **-5** kommer att minska (negativa tal tillåts)
-   * **=5** kommer att göra det exakta talet
-   * **=-5** kommer att göra poängen exakt negativt tal
+   * **+5** till ökning
+   * **-5** minskar (negativa tal tillåts)
+   * **=5** kommer att göra poängen med det exakta talet
+   * **=-5** kommer att göra poängen med ett exakt negativt tal
 
 Få lite grundläggande poängsättning på plats snabbt och finjustera sedan resultatet över tid. Det var det vi gjorde!

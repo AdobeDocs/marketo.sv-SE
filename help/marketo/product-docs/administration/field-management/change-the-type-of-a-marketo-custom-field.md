@@ -3,7 +3,6 @@ unique-page-id: 2360331
 description: Ändra typ av anpassat Marketo-fält - Marketo Docs - produktdokumentation
 title: Ändra typ av anpassat Marketo-fält
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Så här ändrar du fälttypen för ett anpassat fält.
 
-1. Gå till **Admin** och klicka på **Fälthantering**.
+1. Gå till **Administratör** och klicka **Fälthantering**.
 
    ![](assets/image2014-9-18-13-3a4-3a39.png)
 
@@ -23,7 +22,7 @@ Så här ändrar du fälttypen för ett anpassat fält.
 
    ![](assets/image2014-9-18-13-3a4-3a48.png)
 
-1. Klicka på **Ändra typ** i listrutan **Fältåtgärder**.
+1. I **Fältåtgärder** nedrullningsbar meny, klicka **Ändra typ**.
 
    ![](assets/image2014-9-18-13-3a4-3a57.png)
 

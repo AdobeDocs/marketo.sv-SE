@@ -2,22 +2,21 @@
 unique-page-id: 2951877
 description: Understanding the Program Opportunity Analysis Area - Marketo Docs - Product Documentation
 title: Understanding the Program Opportunity Analysis Area
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '896'
 ht-degree: 0%
 
 ---
 
-
-# Förstå analysområdet för programsäljprojekt {#understanding-the-program-opportunity-analysis-area}
+# Understanding the Program Opportunity Analysis Area {#understanding-the-program-opportunity-analysis-area}
 
 ## Översikt {#overview}
 
 Under Analys av affärsmöjlighet kan du analysera enskilda programs effektivitet eller se summerade resultat per programkanal.
 
-**Exempel på affärsfrågor du kan besvara i det här analysområdet är**:
+**Exempel på affärsfrågor som du kan svara på i det här analysområdet inkluderar**:
 
 Hur många möjligheter har kopplats till ett visst program och hur många av dem har vi vunnit?
 
@@ -35,7 +34,7 @@ Vilka möjligheter påverkade programmet?
 
 ![](assets/four-1.png)
 
-## Attributionsmått för analys av affärsmöjligheter (blå punkter) {#program-opportunity-analysis-attribution-measures-blue-dots}
+## Attributionsåtgärder för analys av affärsmöjligheter (blå punkter) {#program-opportunity-analysis-attribution-measures-blue-dots}
 
 De mått som är tillgängliga för dig att använda vid analys är vanligtvis siffror och representeras av blå punkter. Dimensioner är attribut som ger olika vyer av måtten och representeras av gula punkter.
 
@@ -49,7 +48,7 @@ Det finns tre typer av åtgärder:
 * Framgångsrelaterade mått, som får multitouch-attribuering (MT).
 * Diverse programrelaterade åtgärder, inklusive det genomsnittliga antalet marknadsföringsåtgärder innan affärsmöjligheter skapas eller stängs.
 
-## Förvärva och lyckade åtgärder {#acquisition-and-success-related-measures}
+## Förvärva och framgångsrika åtgärder {#acquisition-and-success-related-measures}
 
 Förvärvningsrelaterade åtgärder tillskriver programmet genom vilket en leads kontaktinformation först hämtas. En lead behöver inte bli framgångsrik i ett program för att bli godkänd.
 
@@ -100,7 +99,7 @@ Precis som med förvärvet ändras värdet av att bidra till försäljningen av 
  </tbody> 
 </table>
 
-_* (FT) = First Touch Attribution, används för åtgärder för inköp av leads; (MT) = MultiTouch-attribuering, används för åtgärder för lyckade leads_
+_&#42;(FT) = First Touch Attribution, används för åtgärder för inköp av leads. (MT) = MultiTouch-attribuering, används för åtgärder för lyckade leads_
 
 Nedan visas ett scenario som beskriver hur säljprojektsenheter beräknas när det finns två program som genererade leads, men dessa leder till ett säljprojekt från samma konto.
 
@@ -118,7 +117,7 @@ Nedan visas ett scenario som beskriver hur säljprojektsenheter beräknas när d
 
 * Skapar en möjlighet: Möjligheter 1
 
-Marketo ger kredit på rätt sätt utan att man behöver räkna om möjligheterna mellan programmen. I det här fallet får varje program 0,5 enheter för säljprojekt. Det innebär att varje program får hälften av krediterna för den skapade möjligheten. Hälften av de intäkter som är kopplade till säljprojektet tilldelas respektive program.
+Marketo ger krediter utan att man behöver göra dubbelräkning mellan programmen. I det här fallet får varje program 0,5 enheter för säljprojekt. Det innebär att varje program får hälften av krediterna för den skapade möjligheten. Hälften av de intäkter som är kopplade till säljprojektet tilldelas respektive program.
 
 ## Diverse programrelaterade åtgärder {#miscellaneous-program-related-measures}
 
@@ -135,7 +134,7 @@ De andra tillgängliga åtgärderna återspeglar programmets övergripande resul
    <td><p>Det totala antalet affärsmöjligheter som har gett ett program någon form av attribueringskrediter. Möjligheterna kan påverkas av ett eller flera leads och av ett eller flera program.</p></td> 
   </tr> 
   <tr> 
-   <td>Genomsnittligt antal lyckade försök per avslutad affärsmöjlighet</td> 
+   <td>Genomsnittligt antal lyckade försök per stängd affärsmöjlighet</td> 
    <td>Genomsnittligt antal lyckade program innan affärsmöjligheten stängdes. <br></td> 
   </tr> 
   <tr> 
@@ -169,11 +168,11 @@ Måtten (blå punkter) beräknas, och det krävs en viss tanke och förklaring f
   </tr> 
   <tr> 
    <td>Attribut för affärsmöjlighet</td> 
-   <td>Affärsmöjligheten har stängts<br>Affärsmöjlighetens namn*<br>Affärsmöjlighetens ägare Namn<br>Affärsmöjlighetens fas<br>Affärsmöjlighet</td> 
+   <td>Affärsmöjligheten har stängts<br>Affärsmöjlighetens namn*<br>Ägarnamn för affärsmöjlighet<br>Affärsmöjlighet<br>Typ av affärsmöjlighet</td> 
   </tr> 
   <tr> 
    <td>Tidsram för affärsmöjlighet</td> 
-   <td>Affärsmöjligheten stängd år/kvartal/månad<br>Skapad affärsmöjlighet år/kvartal/månad</td> 
+   <td>Stängt affärstillfälle år/kvartal/månad<br>Skapad affärsmöjlighet år/kvartal/månad</td> 
   </tr> 
   <tr> 
    <td>Programattribut</td> 
@@ -186,7 +185,7 @@ Måtten (blå punkter) beräknas, och det krävs en viss tanke och förklaring f
  </tbody> 
 </table>
 
-**Alla affärsmöjligheter som gav valfri typ av attribueringskrediter till ett program. Möjligheter kan påverkas av ett eller flera leads och av ett eller flera program.*
+*&#42;Alla möjligheter som gav ett program valfri typ av attribueringskrediter. Möjligheterna kan påverkas av ett eller flera leads och av ett eller flera program.*
 
 >[!MORELIKETHIS]
 >

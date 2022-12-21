@@ -47,7 +47,7 @@ Lägg till landningssidan CNAME som de skickade dig till din DNS-post, så att `
 Lägg till e-postmarknadsföringen CNAME som skickades till dig, så att `[YourEmailCNAME]` pekar på [MktoTrackingLink], standardspårningslänken som Marketo har tilldelat i formatet:\
 `[YourEmailCNAME].[YourDomain].com` I CNAME `[MktoTrackingLink]`
 
-Till exempel:
+Exempel:
 
 `pages.abc.com IN CNAME mkto-a0244.com`
 
@@ -70,7 +70,8 @@ När marknadsföringsgruppen använder Marketo för att skicka testmeddelanden (
 Lägg till de här IP-adresserna till ditt företag i tillåtelselista:
 
 199.15.212.0/22\
-192.28.144.0/20 192.28.160.0/19\
+192.28.144.0/20
+192.28.160.0/19\
 185.28.196.0/22\
 130.248.172.0/24\
 130.248.173.0/24\
@@ -193,7 +194,7 @@ Följande tabeller omfattar alla Marketo Engage-servrar som gör utgående samta
    <td>13.237.155.207</td>
   </tr>
    <tr>
-   <td>13.5.192.247</td>
+   <td>13.55.192.247</td>
   </tr>
   <tr>
    <td>52.64.109.86</td>

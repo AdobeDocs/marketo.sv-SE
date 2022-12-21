@@ -1,17 +1,16 @@
 ---
 unique-page-id: 2359667
-description: Använd indatamaskering på ett fält i ett formulär - Marketo Docs - Produktdokumentation
+description: Använd indatamaskering på ett fält i ett formulär - Marketo Docs - produktdokumentation
 title: Använda indatamaskering på ett fält i ett formulär
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 
 ---
 
-
-# Använd indatamaskering på ett fält i ett formulär {#apply-input-masking-to-a-field-in-a-form}
+# Använda indatamaskering på ett fält i ett formulär {#apply-input-masking-to-a-field-in-a-form}
 
 Du kan begränsa indata från besökaren med hjälp av en indatamask. Du kanske till exempel vill att besökarna bara ska ange telefonnummer i ett visst format.
 
@@ -23,19 +22,19 @@ Du kan begränsa indata från besökaren med hjälp av en indatamask. Du kanske 
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. Markera fältet och kontrollera att **fälttypen** är inställd på **Text**.
+1. Markera fältet och kontrollera att **Fälttyp** är inställd på **Text**.
 
    >[!NOTE]
    >
-   >Indatamaskering fungerar bara med **textfältstyper**.
+   >Indatamaskering fungerar bara med **Textfälttyper**.
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. Klicka på länken **Maskinindata**.
+1. Klicka på **Maskinindata** länk.
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 
-1. Ange indatamask och klicka på **Spara**.
+1. Ange indatamask och klicka **Spara**.
 
    ![](assets/image2014-9-15-13-3a41-3a14.png)
 
@@ -43,11 +42,11 @@ Du kan begränsa indata från besökaren med hjälp av en indatamask. Du kanske 
    >
    >Var uppmärksam på maskeringsreglerna. Du kan begränsa inmatningen till siffror, bokstäver, både och/eller till och med begränsa antalet tecken som anges.
 
-1. Klicka på **Slutför**.
+1. Klicka **Slutför**.
 
    ![](assets/image2014-9-15-13-3a41-3a22.png)
 
-1. Klicka på **Godkänn och stäng**.
+1. Klicka **Godkänn och stäng**.
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 

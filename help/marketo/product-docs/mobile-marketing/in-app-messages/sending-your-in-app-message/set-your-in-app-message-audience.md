@@ -1,21 +1,20 @@
 ---
 unique-page-id: 10617431
-description: Ange er målgrupp för meddelanden i appen - Marketo Docs - Produktdokumentation
+description: Ange er målgrupp för meddelanden i appen - Marketo Docs - produktdokumentation
 title: Ange målgrupp för meddelanden i appen
-translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
 
 ---
 
-
 # Ange målgrupp för meddelanden i appen {#set-your-in-app-message-audience}
 
 Det första steget är att bestämma vem som ska få ditt meddelande i appen. Du måste konfigurera din smarta lista.
 
-1. Klicka på **Redigera smart lista**.
+1. Klicka **Redigera smart lista**.
 
    ![](assets/image2016-5-9-15-3a15-3a7.png)
 
@@ -27,19 +26,19 @@ Det första steget är att bestämma vem som ska få ditt meddelande i appen. Du
    >
    >Flera värden för fältet Mobilapp stöds för närvarande inte för meddelandeprogram i appen.
 
-1. **Programöppning är** standardinställningen för Åtgärd, men du kan välja alla anpassade händelser som du redan har konfigurerat.
+1. **Öppna app** är standardinställningen för åtgärd, men du kan välja alla anpassade händelser som du redan har konfigurerat.
 
    ![](assets/image2016-5-9-15-3a20-3a23.png)
 
    >[!NOTE]
    >
-   >Standardutlösaren (App Open) och alla anpassade utlösare som läggs till i koden av din utvecklare visas automatiskt i åtgärdsväljaren. Om en anpassad händelse saknas bör du kontrollera med utvecklaren att de har lagt till anpassade händelser i appen. Tänk på att det kan ta lite tid att slutföra den anpassade händelsekodningen och godkännandeprocessen. Mer information finns i [den här artikeln](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md).
+   >Standardutlösaren (App Open) och alla anpassade utlösare som läggs till i koden av din utvecklare visas automatiskt i åtgärdsväljaren. Om en anpassad händelse saknas bör du kontrollera med utvecklaren att de har lagt till anpassade händelser i appen. Tänk på att det kan ta lite tid att slutföra den anpassade händelsekodningen och godkännandeprocessen. Se [den här artikeln](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) för mer information.
 
-1. Begränsningar är tillgängliga för utlösaren **Har aktivitet för mobilapp** om du behöver dem.
+1. Begränsningar är tillgängliga för **Har aktivitet för mobilappar** aktivera om du behöver dem.
 
    ![](assets/image2016-5-9-15-3a22-3a27.png)
 
-1. Du kan lägga till filter i din smarta lista för att begränsa vem som får ett meddelande i appen. I det här exemplet kommer endast personer som skaffats den 9 juni 2016 att skickas med meddelandet i appen med hjälp av filtret **Anskaffningsdatum**.
+1. Du kan lägga till filter i din smarta lista för att begränsa vem som får ett meddelande i appen. I det här exemplet använder du **Anskaffningsdatum** Endast personer som förvärvats den 9 juni 2016 kommer att få meddelandet i appen.
 
    ![](assets/image2016-5-9-15-3a26-3a2.png)
 
@@ -49,10 +48,10 @@ Det första steget är att bestämma vem som ska få ditt meddelande i appen. Du
 
    >[!NOTE]
    >
-   >Standardvisningsgränsen är **En gång per session**. Om du vill att meddelandet ska sluta visas när mottagaren har svarat väljer du **Varje gång tills användaren knackar på**. Om den ska visas varje gång, oavsett vad mottagaren gör, väljer du **Varje gång**.
+   >Standardvisningsgränsen är **En gång per session**. Om du vill att meddelandet ska sluta visas när mottagaren har svarat väljer du **Varje gång tills användaren knackar**. Om den ska visas varje gång, oavsett vad mottagaren gör, väljer du **Varje gång**.
 
    ![](assets/image2016-5-9-15-3a32-3a6.png)
 
 Snyggt jobbat! Ni har er målgrupp. Du har fått den blå och gröna bockmarkeringen.
 
-Det är dags att [välja meddelandet i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)!
+Tid till [välj ditt meddelande i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)!

@@ -16,7 +16,7 @@ ht-degree: 0%
 >
 >[Lägg till ett flödessteg i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
-En variabel är en variabel. Ni använder det i e-postmeddelanden, landningssidor och smarta kampanjer för att göra livet enklare. Du kan använda [Mina token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (anpassade tokens) i flödessteg, webbhooks, e-post och landningssidor. Du kan använda variabler för att inkludera variabelt innehåll i dessa flödessteg:
+En variabel är en variabel. Ni använder det i e-postmeddelanden, landningssidor och smarta kampanjer för att göra livet enklare. Du kan använda [Mina token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (egna tokens) i flödessteg, webbhooks, e-post och landningssidor. Du kan använda variabler för att inkludera variabelt innehåll i dessa flödessteg:
 
 * Ändra datavärde
 * Ändra medlemsuppgifter för program
@@ -25,13 +25,13 @@ En variabel är en variabel. Ni använder det i e-postmeddelanden, landningssido
 * Skapa uppgift
 * Skicka avisering (endast i utlösarkampanjer)
 
-1. I flödessteget börjar du skriva `{{` för att hämta tokategorier.
+1. Börja skriva i flödessteget `{{` för att hämta tokenkategorier.
 
    ![](assets/image2014-9-22-14-3a3-3a17.png)
 
    >[!NOTE]
    >
-   >Se [Översikt över token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) för en lista över flera tillgängliga token.
+   >Checka ut [Översikt över token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) om du vill se en lista över flera tillgängliga token.
 
 1. Fortsätt skriva tills du hittar den variabel du vill ha och klicka för att välja.
 
@@ -43,7 +43,7 @@ En variabel är en variabel. Ni använder det i e-postmeddelanden, landningssido
 
    >[!NOTE]
    >
-   >Anpassade fälttoken för programmedlem kan användas i: Skapa aktivitet, Skapa aktivitet i Microsoft, Intressanta ögonblick, Ändra datavärdesåtgärder och Webhooks.
+   >Anpassade fälttoken för programmedlem kan användas i: Skapa aktivitet, Skapa aktivitet i Microsoft, intressanta ögonblick, Ändra datavärdesåtgärder och webbhooks.
 
    Häftig! Data hämtas från token när den smarta kampanjen körs.
 

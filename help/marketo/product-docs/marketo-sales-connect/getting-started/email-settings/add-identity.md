@@ -1,15 +1,14 @@
 ---
 unique-page-id: 14352412
-description: Lägg till identitet - Marketo Docs - Produktdokumentation
+description: Lägg till identitet - Marketo Docs - produktdokumentation
 title: Lägg till identitet
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 6656b852-1c72-4a0a-b641-7ef1925f22a7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
 
 ---
-
 
 # Lägg till identitet {#add-identity}
 
@@ -17,11 +16,11 @@ Lägg till en identitet när du har flera e-postadresser att skicka från.
 
 1. Klicka på ikonen Inställningar.
 
-1. Klicka på **E-postinställningar**.
+1. Klicka **E-postinställningar**.
 
-1. Klicka på **Lägg till identitet**.
+1. Klicka **Lägg till identitet**.
 
-1. Ange din information (e-post och namn är obligatoriska fält) och klicka på **Skapa** när du är klar.
+1. Ange din information (e-post och namn är obligatoriska fält), klicka på **Skapa** när det är klart.
 
 1. Klicka på länken i det bekräftelsemeddelande du får.
 

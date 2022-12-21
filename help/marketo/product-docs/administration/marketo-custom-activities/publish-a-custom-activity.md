@@ -3,7 +3,6 @@ unique-page-id: 10100272
 description: Publicera en anpassad aktivitet - Marketo Docs - produktdokumentation
 title: Publicera en anpassad aktivitet
 exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '72'
@@ -15,11 +14,11 @@ ht-degree: 0%
 
 Du har din anpassade aktivitet precis som du vill ha den. Nu är det dags att publicera det!
 
-1. Klicka på **Admin**.
+1. Klicka **Administratör**.
 
    ![](assets/one-2.png)
 
-1. I **Databashantering** klickar du på **Anpassade aktiviteter för Marketo**.
+1. I **Databashantering** klicka **Marketo anpassade aktiviteter**.
 
    ![](assets/two-2.png)
 
@@ -27,7 +26,7 @@ Du har din anpassade aktivitet precis som du vill ha den. Nu är det dags att pu
 
    ![](assets/three-2.png)
 
-1. Klicka på listrutan **Anpassade aktivitetsåtgärder** och välj **Publiceringsaktivitet**.
+1. Klicka på **Anpassade aktivitetsåtgärder** nedrullningsbar meny och välj **Publicera aktivitet**.
 
    ![](assets/four-2.png)
 

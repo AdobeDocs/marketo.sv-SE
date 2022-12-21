@@ -2,30 +2,29 @@
 unique-page-id: 4718651
 description: Understanding the Email Analysis Area - Marketo Docs - Product Documentation
 title: Förstå e-postanalysområdet
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: a8219a4d-d240-432d-a7ef-bcfa0b4a82fa
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
 
 ---
 
-
-# E-postanalysområdet {#understanding-the-email-analysis-area}
+# Förstå e-postanalysområdet {#understanding-the-email-analysis-area}
 
 E-postanalysområdet fokuserar på e-poststatistik. I den här artikeln presenteras alla rapporter som finns i artikeln.
 
 >[!AVAILABILITY]
 >
->Detta är tillgängligt för användare med tillägget Select Edition eller [Revenue Cycle Analytics](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/). Kontakta din säljare för mer information.
+>Detta är tillgängligt för användare med Select Edition eller [Analys av intäktscykler](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) tillägg. Kontakta din säljare för mer information.
 
-## E-postklickning på det heta rutnätet {#email-click-activity-heat-grid}
+## E-postklickning på hetta rutnät för aktivitet {#email-click-activity-heat-grid}
 
-Den här rapporten visar vilken veckodag och tid på dagen dina leads klickar på e-post. Ju grönare lådan är desto mer klickningar på den specifika dagen och tiden. Det aktuella filtret innehåller alla e-postmeddelanden som skickats de senaste 7 dagarna. Tiden är i CST.
+Den här rapporten visar vilken veckodag och tid på dagen som dina leads klickar på e-post. Ju grönare lådan är desto mer klickningar på den specifika dagen och tiden. Det aktuella filtret innehåller alla e-postmeddelanden som skickats de senaste 7 dagarna. Tiden är i CST.
 
 ![](assets/image2015-5-6-17-3a17-3a34.png)
 
-## Tidsfördelning för e-postklickning {#email-clicked-time-distribution}
+## E-postklickad tidsfördelning {#email-clicked-time-distribution}
 
 Den här rapporten visar hur många procent av det totala antalet e-postklick som har gjorts varje gång på dagen. Det aktuella filtret innehåller alla e-postmeddelanden som skickats de senaste 7 dagarna. Tiden är i CST.
 
@@ -37,7 +36,7 @@ Den här rapporten visar hur många procent av det totala antalet e-postklick so
 
 ![](assets/image2015-5-6-17-3a26-3a50.png)
 
-## Värmestödraster för e-postöppning {#email-open-activity-heat-grid}
+## Värmestödraster för öppen aktivitet för e-post {#email-open-activity-heat-grid}
 
 Den här rapporten visar vilken veckodag och tid på dagen som era leads öppnar e-postmeddelanden. Ju grönare lådan är desto mer öppnas på den specifika dagen och tiden. Det aktuella filtret innehåller alla e-postmeddelanden som skickats de senaste 7 dagarna. Tiden är i CST.
 

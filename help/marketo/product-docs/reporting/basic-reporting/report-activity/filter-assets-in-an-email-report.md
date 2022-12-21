@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2360225
-description: Filtrera resurser i en e-postrapport - Marketo Docs - Produktdokumentation
+description: Filtrera resurser i en e-postrapport - Marketo Docs - produktdokumentation
 title: Filtrera resurser i en e-postrapport
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
-
 # Filtrera resurser i en e-postrapport {#filter-assets-in-an-email-report}
 
-Fokusera på din [rapport om e-postprestanda](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) eller [e-postlänksprestanda](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) för e-postmeddelanden i dina program (&#39;lokala resurser&#39;), på e-postmeddelanden i Design Studio (&#39;globala resurser&#39;) eller på e-postmeddelanden som har arkiverats.
+Fokusera på [E-postprestanda](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) eller [E-postlänkens prestanda](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) rapportera om e-postmeddelanden i dina program (lokala resurser), om e-postmeddelanden i Design Studio (globala tillgångar) eller om e-postmeddelanden som har arkiverats.
 
-1. Gå till **Analys** (eller **Marknadsföringsaktiviteter**).
+1. Gå till **Analyser** (eller **Marknadsföringsaktiviteter**).
 
    ![](assets/image2014-9-16-15-3a53-3a26.png)
 
@@ -23,11 +22,11 @@ Fokusera på din [rapport om e-postprestanda](/help/marketo/product-docs/email-m
 
    ![](assets/image2014-9-16-15-3a53-3a29.png)
 
-1. Klicka på fliken **Inställningar** och dra över ett filter.
+1. Klicka på **Inställningar** och dra över ett filter.
 
    ![](assets/image2014-9-16-15-3a53-3a32.png)
 
-   * **Design Studio-mejl**: Globala resurser som hanteras i Design Studio.
+   * **Design Studio - e-post**: Globala resurser som hanteras i Design Studio.
    * **Marknadsföringsaktiviteter - e-post**: Lokala resurser i program på fliken Marknadsföringsaktiviteter.
    * **Arkiverade e-postmeddelanden**: Inaktiva, pensionerade e-postmeddelanden.
 
@@ -39,7 +38,7 @@ Fokusera på din [rapport om e-postprestanda](/help/marketo/product-docs/email-m
    >
    >Om du väljer en mapp innehåller rapporten allt som finns i mappen när rapporten körs.
 
-1. Du är klar! Klicka på fliken **Rapport** för att visa den filtrerade rapporten.
+1. Du är klar! Klicka på **Rapport** för att se din filtrerade rapport.
 
    ![](assets/image2014-9-16-15-3a53-3a59.png)
 

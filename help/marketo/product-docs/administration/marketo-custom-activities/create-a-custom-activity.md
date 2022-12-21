@@ -3,7 +3,6 @@ unique-page-id: 10098479
 description: Skapa en anpassad aktivitet - Marketo Docs - produktdokumentation
 title: Skapa en anpassad aktivitet
 exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '113'
@@ -19,15 +18,15 @@ Följ de här stegen för att skapa en ny anpassad aktivitet.
 >
 >De flesta prenumerationer har en tilldelad gräns på 10 anpassade aktivitetstyper.
 
-1. Klicka på **Admin**.
+1. Klicka **Administratör**.
 
    ![](assets/one.png)
 
-1. I **Databashantering** klickar du på **Anpassade aktiviteter**.
+1. I **Databashantering** klicka **Anpassade aktiviteter**.
 
    ![](assets/two.png)
 
-1. Klicka på **Ny anpassad aktivitet**.
+1. Klicka **Ny anpassad aktivitet**.
 
    ![](assets/three.png)
 
@@ -39,7 +38,7 @@ Följ de här stegen för att skapa en ny anpassad aktivitet.
    >
    >Om du bestämmer dig för att ändra API-namnet måste du se till att namnet inte hamnar i konflikt med fält i andra anpassade aktiviteter.
 
-1. Definiera ditt **filter** och **Utlösare** och klicka på **Nästa**.
+1. Definiera **Filter** och **Utlösare** och klicka **Nästa**.
 
    ![](assets/five.png)
 

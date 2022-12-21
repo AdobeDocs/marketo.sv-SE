@@ -2,14 +2,13 @@
 unique-page-id: 11379060
 description: Kontrollpanelen för SMS-meddelanden - Marketo Docs - Produktdokumentation
 title: Kontrollpanelen för SMS-meddelanden
-translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+exl-id: a08fb3d9-f2fa-40d4-9cba-5c404e8574b8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
 
 ---
-
 
 # Kontrollpanelen för SMS-meddelanden {#the-sms-message-dashboard}
 
@@ -17,15 +16,15 @@ Kontrollpanelen för SMS-meddelanden visar användbar information om ditt SMS-me
 
 ![](assets/converted-dashboard-image.png)
 
-Diagrammet **SMS Progression** visar totalt antal skickade och levererade. Beloppen visas till höger och om du håller pekaren över en stapel visas procentvärdet.
+The **SMS-progression** diagram visar totalt antal skickade och totalt levererade. Beloppen visas till höger och om du håller pekaren över en stapel visas procentvärdet.
 
 ![](assets/sms-progression-hand-border.png)
 
-Diagrammet **Sammanfattning** visar den beräknade studsfrekvensen i procent. Håll pekaren över stapeln om du vill visa leveransfrekvensen per belopp och procent. Håll muspekaren över den orangefärgade studsfrekvensen i fältet för att visa beloppen och procentsatserna för den mjuka studsfrekvensen och den hårda studsfrekvensen.
+The **Sammanfattning** I diagrammet visas den beräknade studsfrekvensen i procent. Håll pekaren över stapeln om du vill visa leveransfrekvensen per belopp och procent. Håll muspekaren över den orangefärgade studsfrekvensen i fältet för att visa beloppen och procentsatserna för den mjuka studsfrekvensen och den hårda studsfrekvensen.
 
 ![](assets/hover-over-summary-hands-thin-border.png)
 
-Med diagrammet **Aktivitet över tid** kan du välja Totalt skickat eller Totalt levererat. Välj ett lämpligt intervall från datumintervallväljaren.
+The **Aktivitet över tid** I kan du välja Totalt skickat eller Totalt levererat. Välj ett lämpligt intervall från datumintervallväljaren.
 
 ![](assets/activity-over-time-hands.png)
 

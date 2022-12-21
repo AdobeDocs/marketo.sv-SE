@@ -1,19 +1,18 @@
 ---
 unique-page-id: 10096158
-description: Autentisera säkerhet för mobil åtkomst - Marketo Docs - Produktdokumentation
+description: Autentisera säkerhet för mobil åtkomst - Marketo Docs - produktdokumentation
 title: Autentisera säkerhet för mobil åtkomst
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+exl-id: c8f5f15e-c45b-4751-aa1a-d58d0fd056df
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
 
-
 # Autentisera säkerhet för mobil åtkomst {#authenticate-mobile-access-security}
 
-Marketo erbjuder två nya ID:n för att förbättra säkerheten för mobila användare: åtkomstnyckeln och åtkomsthemligheten. Dessa hjälper till att säkerställa att användare som loggar in i ditt program faktiskt är de som de verkar vara.
+För att förbättra säkerheten för mobilanvändare tillhandahåller Marketo två nya ID: åtkomstnyckeln och åtkomsthemligheten. Dessa hjälper till att säkerställa att användare som loggar in i ditt program faktiskt är de som de verkar vara.
 
 Om du vill aktivera ID:n måste du skaffa koderna och skicka dem till din IT-avdelning så att de kan skapa en säker matchning.
 
@@ -21,7 +20,7 @@ Om du vill aktivera ID:n måste du skaffa koderna och skicka dem till din IT-avd
 >
 >Om du vill aktivera den här funktionen kontaktar du supporten och begär Vespa Secure Mode.
 
-1. I Marketo väljer du **Admin** och klickar på **Mobilappar och enheter**.
+1. I Marketo väljer du **Administratör** och klicka **Mobilappar och enheter**.
 
    ![](assets/image2015-12-1-14-3a36-3a30.png)
 
@@ -29,11 +28,11 @@ Om du vill aktivera ID:n måste du skaffa koderna och skicka dem till din IT-avd
 
    ![](assets/image2015-12-2-10-3a18-3a6.png)
 
-1. Bläddra nedåt och klicka på **Redigera** i sektionen Åtkomstsäkerhet.
+1. Bläddra nedåt och klicka i sektionen Åtkomstskydd **Redigera**.
 
    ![](assets/image2015-12-1-14-3a41-3a37.png)
 
-1. Markera kryssrutan **Aktivera säkerhet**. Klicka på **Spara**.
+1. Kontrollera **Aktivera säkerhet** kryssrutan. Klicka **Spara**.
 
    ![](assets/image2015-12-1-14-3a54-3a0.png)
 

@@ -3,7 +3,6 @@ unique-page-id: 10097613
 description: Lägg till Marketo anpassade objektlänkfält - Marketo Docs - produktdokumentation
 title: Lägg till Marketo anpassade objektlänkfält
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '601'
@@ -22,7 +21,7 @@ När du skapar anpassade objekt måste du tillhandahålla länkfält för att ku
 
 Så här skapar du ett länkfält i ett anpassat objekt för en 1:N-struktur.
 
-1. Klicka på **Admin** och välj **Marketo anpassade objekt** i **Databashantering**.
+1. Klicka **Administratör** och in **Databashantering**, markera **Anpassade Marketo-objekt**.
 
    ![](assets/image2016-1-18-13-3a25-3a11.png)
 
@@ -30,7 +29,7 @@ Så här skapar du ett länkfält i ett anpassat objekt för en 1:N-struktur.
 
    ![](assets/image2016-1-14-15-3a6-3a2.png)
 
-1. Klicka på **Nytt fält** på fliken **Fält**.
+1. I **Fält** flik, klicka **Nytt fält**.
 
    ![](assets/image2015-9-17-14-3a9-3a19.png)
 
@@ -60,7 +59,7 @@ Så här skapar du ett länkfält i ett anpassat objekt för en 1:N-struktur.
    >
    >Endast strängfälttyper stöds i länkfältet.
 
-1. Klicka på **Spara.**
+1. Klicka **Spara.**
 
    ![](assets/image2015-10-5-13-3a34-3a0.png)
 
@@ -72,7 +71,7 @@ Så här skapar du ett länkfält i ett mellanliggande objekt som kan användas 
 >
 >Du måste redan ha skapat mellanliggande objekt och eventuella anpassade objekt som du vill länka det till.
 
-1. Klicka på **Admin** och välj **Marketo anpassade objekt** i **Databashantering**.
+1. Klicka **Administratör** och in **Databashantering**, markera **Anpassade Marketo-objekt**.
 
    ![](assets/image2016-1-18-9-3a8-3a14.png)
 
@@ -80,7 +79,7 @@ Så här skapar du ett länkfält i ett mellanliggande objekt som kan användas 
 
    ![](assets/image2016-1-18-9-3a10-3a29.png)
 
-1. Klicka på **Nytt fält** på fliken **Fält**.
+1. I **Fält** flik, klicka **Nytt fält**.
 
    ![](assets/image2016-1-18-9-3a31-3a43.png)
 
@@ -104,7 +103,7 @@ Så här skapar du ett länkfält i ett mellanliggande objekt som kan användas 
    >
    >Endast strängfälttyper stöds i länkfältet.
 
-1. Klicka på **Spara.**
+1. Klicka **Spara.**
 
    ![](assets/image2016-1-18-9-3a55-3a18.png)
 

@@ -2,7 +2,6 @@
 description: Lägg till eller ta bort personer från Dynamics-kampanjen - Marketo Docs - produktdokumentation
 title: Lägg till eller ta bort personer från Dynamics-kampanjen
 exl-id: 4fea2f7c-0655-4816-8640-76878f760b6e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '320'

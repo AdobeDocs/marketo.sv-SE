@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Mall 13A {#template-13a}
 
-Högerklicka för att [hämta mall 13A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html)
+Högerklicka för att [ladda ned mall 13A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html)
 
 ![](assets/image2015-8-11-10-3a15-3a39.png)
 

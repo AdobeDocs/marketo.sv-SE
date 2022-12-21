@@ -2,16 +2,15 @@
 unique-page-id: 2951884
 description: Understanding Opportunity Analysis in Revenue Explorer - Marketo Docs - produktdokumentation
 title: Förstå säljprojektsanalys i skatteutforskaren
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '899'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
-# Förstå säljprojektsanalys i intäktsutforskaren {#understanding-opportunity-analysis-in-revenue-explorer}
+# Förstå säljprojektsanalys i skatteutforskaren {#understanding-opportunity-analysis-in-revenue-explorer}
 
 Med säljprojektsanalys i intäktsutforskaren kan du undersöka dina möjligheter på en djupare nivå. Segmentera och dela upp data baserat på eventuella lead-/företagsattribut, t.ex. lead source, industry eller geography. Analysera skapandet av affärsmöjligheten och stäng utifrån namn, fas eller sannolikhet. Ta reda på marknadsbidragen till pipeline.
 
@@ -55,7 +54,7 @@ Här är några rapporter som du kan skapa i området för säljprojektsanalys.
 
    ![](assets/image2015-7-21-10-3a35-3a45.png)
 
-## Dimensioner och mått för analys av affärsmöjligheter {#opportunity-analysis-dimensions-and-measures}
+## Dimensioner och åtgärder för analys av affärsmöjligheter {#opportunity-analysis-dimensions-and-measures}
 
 Med säljprojektsanalys får du tillgång till alla lead-, företags- och affärsmöjlighetsrelaterade dimensioner och affärsmöjlighetsrelaterade mått. Använd de här dimensionerna för affärsmöjlighetsanalys och åtgärderna för att besvara specifika frågor i rapporten.
 
@@ -63,15 +62,15 @@ Med säljprojektsanalys får du tillgång till alla lead-, företags- och affär
 
    | Dimension | Beskrivning |
    |---|---|
-   | Årsintäkt | Företagets årsomsättning |
+   | Årlig intäkt | Företagets årsomsättning |
    | Ort | Ort där företaget är beläget |
    | Land | Land där företaget är beläget |
    | Bransch | Branschen som företaget är i |
-   | Företag | Företagets namn |
+   | Företagets namn | Företagets namn |
    | Antal anställda | Antal anställda i företaget |
    | Postnummer | Företagets postnummer |
-   | SIC-kod | Företagets SIC-kod |
-   | Läge | Delstaten där företaget är beläget |
+   | SNI-kod | Företagets SIC-kod |
+   | Stat | Delstaten där företaget är beläget |
 
 1. Leadattribut
 
@@ -90,7 +89,7 @@ Med säljprojektsanalys får du tillgång till alla lead-, företags- och affär
    | Lead Owner Job Title | Leadägarens befattning |
    | Leadägarens namn | Leadägarens namn |
    | Leadkälla | Leadkälla |
-   | Leadstatus | Leadstatus |
+   | Leadkälla | Leadstatus |
 
 1. Lead skapad tidsram
 

@@ -2,14 +2,13 @@
 unique-page-id: 4720218
 description: Implementera RTP med Adobe Tag Manager - Marketo Docs - produktdokumentation
 title: Implementera RTP med Adobe Tag Manager
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 5a938d02-6b09-45d5-94b0-dbb50b5d62b6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
 
 ---
-
 
 # Implementera RTP med Adobe Tag Manager {#implementing-rtp-using-adobe-tag-manager}
 
@@ -27,13 +26,13 @@ Följ installationsanvisningarna nedan för att implementera RTP-taggen:
 
    ![](assets/image2014-11-30-15-3a20-3a17-4.png)
 
-1. Logga in på ditt Dynamic Tag Manager-konto ([https://dtm.adobe.com/sign_in](https://dtm.adobe.com/sign_in)).
+1. Logga in på ditt konto för Dynamic Tag Manager ([https://dtm.adobe.com/sign_in](https://dtm.adobe.com/sign_in)).
 
-1. Gå till **Kontrollpanelen.** Klicka på den relevanta webbegenskapen.
+1. Gå till **Instrumentpanel.** Klicka på den relevanta webbegenskapen.
 
    ![](assets/image2014-12-3-17-3a58-3a17.png)
 
-1. Gå till **Regler**, klicka på **Skapa ny regel**.
+1. Gå till **Regler**, klicka **Skapa ny regel**.
 
 1. Fyll i följande
 
@@ -56,14 +55,14 @@ Följ installationsanvisningarna nedan för att implementera RTP-taggen:
 
    >[!CAUTION]
    >
-   >Se till att du tar bort alla taggar och bara låter skriptet vara (ingen `<script type='text/javascript'>` , `</script>` )
+   >Se till att du tar bort alla taggar och bara låter skriptet vara kvar (nej `<script type='text/javascript'>` , `</script>` )
 
-1. Klicka på **Spara kod** i skriptredigeraren och **Spara regel** i regelredigeraren.
+1. Klicka **Spara kod** i skriptredigeraren och **Spara regel** i regelredigeraren.
 
-1. På panelen Regler letar du reda på inläsningsregeln för sidan Marketo RTP och väljer **Åtgärder** i listrutan **Aktivera regler**.
+1. Leta reda på Marketo RTP-sidans inläsningsregel i panelen Regler och i **Åtgärder** listruteväljare **Aktivera regler**.
 
    ![](assets/image2014-12-3-18-3a4-3a14.png)
 
-1. **Kontrollera** att den visas på alla sidor, inklusive landningssidor och underdomäner.
+1. **Verifiera** att den visas på alla sidor, inklusive landningssidor och underdomäner.
 
    Du kan göra det genom att högerklicka på webbplatsens sidor. Gå till **Inspect Element**, klicka på **Nätverk**, Sök: **RTP**.

@@ -2,14 +2,13 @@
 unique-page-id: 14352488
 description: Varför kan jag inte ta bort en kontakt? - Marketo Docs - produktdokumentation
 title: Varför kan jag inte ta bort en kontakt?
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+exl-id: 28218879-240e-450e-990d-1c2af0a74dc3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
 
 ---
-
 
 # Varför kan jag inte ta bort en kontakt? {#why-cant-i-delete-a-contact}
 

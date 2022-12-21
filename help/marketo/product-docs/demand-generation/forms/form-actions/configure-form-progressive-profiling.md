@@ -2,22 +2,21 @@
 unique-page-id: 2359646
 description: Konfigurera progressiv formulärprofilering - Marketo Docs - Produktdokumentation
 title: Konfigurera progressiv profilering av formulär
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
 
 ---
 
-
-# Konfigurera progressiv formulärprofilering {#configure-form-progressive-profiling}
+# Konfigurera progressiv profilering av formulär {#configure-form-progressive-profiling}
 
 Korta formulär är bra. När någon kommer tillbaka till ett formulär kan du presentera nya fält och progressivt fylla i besökarens profil. Så här gör du.
 
 >[!NOTE]
 >
->För att den här funktionen ska fungera på rätt sätt måste formulärförifyllning vara aktiverat för synliga fält och [inaktiverat](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) för dolda fält.
+>För att den här funktionen ska fungera på rätt sätt måste du se till att funktionen Förifyll formulär är aktiverad för synliga fält, och [inaktiverad](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) för dolda fält.
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
@@ -27,7 +26,7 @@ Korta formulär är bra. När någon kommer tillbaka till ett formulär kan du p
 
    ![](assets/image2014-9-15-12-3a31-3a20.png)
 
-1. Under **Formulärinställningar** klickar du på **Inställningar**.
+1. Under **Formulärinställningar**, klicka **Inställningar**.
 
    ![](assets/image2014-9-15-12-3a31-3a29.png)
 
@@ -49,9 +48,9 @@ Korta formulär är bra. När någon kommer tillbaka till ett formulär kan du p
 
    >[!NOTE]
    >
-   >Fälten utanför rutan **Progressiv profilering** visas alltid i formuläret, även om de är ifyllda.
+   >Fälten utanför **Progressiv profilering** visas alltid i formuläret, även om de är ifyllda.
 
-1. Markera rutan **Progressiv profilering**.
+1. Välj **Progressiv profilering** box.
 
    ![](assets/image2014-9-15-12-3a32-3a19.png)
 
@@ -59,13 +58,13 @@ Korta formulär är bra. När någon kommer tillbaka till ett formulär kan du p
    >
    >Var försiktig när du använder obligatoriska fält i Progressiv profilering. Dessa fält kan fortfarande lämnas tomma om besökaren anger en ny e-postadress (som skulle skapa en ny person) efter att tidigare ha skickat data för de andra fälten, eftersom de då skulle ignoreras i det senaste formuläret.
 
-1. Välj nu hur många tomma fält du vill att personer ska se i rutan **Progressiv profilering** vid en given tidpunkt.
+1. Välj nu hur många tomma fält som du vill att användarna ska se från **Progressiv profilering** när som helst.
 
    ![](assets/image2014-9-15-12-3a32-3a26.png)
 
    >[!NOTE]
    >
-   >Om du väljer **Nummer** **av** **Tomt** **Fält** som 1 visas följande första gången de ser det här formuläret:
+   >Om du väljer **Nummer** **av** **Tom** **Fält** som 1 kommer besökaren att se följande första gången de ser det här formuläret:
    >
    >* Förnamn (tomt)
    >* Efternamn (tomt)
@@ -89,11 +88,11 @@ Korta formulär är bra. När någon kommer tillbaka till ett formulär kan du p
    >* Land (tomt)
 
 
-1. Klicka på **Slutför**.
+1. Klicka **Slutför**.
 
    ![](assets/image2014-9-15-12-3a33-3a35.png)
 
-1. Klicka på **Godkänn och stäng**.
+1. Klicka **Godkänn och stäng**.
 
    ![](assets/image2014-9-15-12-3a33-3a45.png)
 

@@ -1,8 +1,8 @@
 ---
 description: Markera ett fält som känsligt - Marketo Docs - produktdokumentation
 title: Markera ett fält som känsligt
-translation-type: tm+mt
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+exl-id: 23af8344-4808-4f91-95e8-9c246153c8b3
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -17,11 +17,11 @@ Som Marketo-administratör kan du markera ett specifikt fält som&quot;känsligt
 >
 >Den här funktionen aktiveras för alla Marketo-förekomster tisdagen den 11 maj.
 
-1. Klicka på **Admin**.
+1. Klicka **Administratör**.
 
    ![](assets/mark-a-field-as-sensitive-1.png)
 
-1. Klicka på **Fälthantering**.
+1. Klicka **Fälthantering**.
 
    ![](assets/mark-a-field-as-sensitive-2.png)
 
@@ -29,7 +29,7 @@ Som Marketo-administratör kan du markera ett specifikt fält som&quot;känsligt
 
    ![](assets/mark-a-field-as-sensitive-3.png)
 
-1. Markera kryssrutan **Markera fält som känsligt**.
+1. Välj **Markera fält som känsligt** kryssrutan.
 
    ![](assets/mark-a-field-as-sensitive-4.png)
 

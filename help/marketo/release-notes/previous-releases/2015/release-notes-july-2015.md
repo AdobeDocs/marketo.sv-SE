@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ## Marketo Moments {#marketo-moments}
 
-Ska vi gå ut på lunch men behöver boka om ett mejl? Appen Marketo Moments, som finns i App Store eller Google Play, ger dig möjlighet att se hur e-post- och händelsekampanjer fungerar i realtid, samt vad som kommer i framtiden, från din iPhone, iPad eller Android-telefon.
+Ska vi gå ut på lunch men behöver boka om ett mejl? Appen Marketo Moments, som finns hos The App Store eller Google Play, ger er möjlighet att se hur era e-post- och eventkampanjer fungerar i realtid, liksom vad som kommer i framtiden, från er iPhone, iPad eller Android-telefon.
 
 ![](assets/image2015-7-10-9-3a42-3a29.png)
 
 ## Uppdatering för textredigeraren {#rich-text-editor-update}
 
-Uppdaterad textredigerare med modern stil och känsla, inklusive smidig textformatering, bildredigering, länkinfogning och HTML-redigering. HTML-redigeraren har nu minimal validering, vilket ger mindre begränsande kodredigering.
+Uppdaterad textredigerare med modern stil och känsla, inklusive smidig textformatering, bildredigering, länkinfogning och HTML-redigering. Redigeraren i HTML har nu minimal validering vilket gör att kodredigeringen blir mindre restriktiv.
 `<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Uppdateringen lanseras automatiskt inom några dagar efter juliversionen. Efteråt kan du växla mellan de nya och äldre versionerna av redigeraren från **Admin > E-post > Redigera redigeringsinställningar**.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
@@ -49,8 +49,8 @@ Har du skapat flera personaliserade RTP-kampanjer och märkt att vissa av dem ka
 
 **Åtkomst till företagsobjekt via REST API**: REST API ger nu åtkomst till Marketo Company (alias. Konto). Det innebär att du kan läsa, uppdatera och ta bort företagsobjekt som du har skapat i Marketo och associera leads med sådana företag med hjälp av det uppdaterade lead-API:t.
 
-Läs [mer](https://developers.marketo.com/documentation/company-api/) i vår referenshandbok för företags-API:t.
+Lär dig [mer](https://developers.marketo.com/documentation/company-api/) i vår referenshandbok för företags-API:t.
 
 ## E-postleverans {#access-email-deliverability}
 
-**E-postleverans**: Den här nya behörigheten ger administratörer möjlighet att ge användare åtkomst till e-postleveransverktyget.
+**Access Email Deliverability Tool**: Den här nya behörigheten ger administratörer möjlighet att ge användare åtkomst till e-postleveransverktyget.

@@ -3,7 +3,6 @@ unique-page-id: 1147294
 description: Filtrera marknadsföringskalendern - Marketo Docs - produktdokumentation
 title: Filtrera marknadsföringskalendern
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
@@ -19,11 +18,11 @@ Använd anmälningstyper, programtaggar eller arbetsytor för att filtrera infor
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. Klicka på listrutan **Posttyp**.
+1. Klicka på **Posttyp** nedrullningsbar meny.
 
    >[!NOTE]
    >
-   >Standardposttyperna är **E-post** **Program** och **Smarta** **Kampanjer** **med** **E-post**.
+   >Standardposttyperna är **E-post** **Program** och **Smart** **Kampanjer** **med** **E-post**.
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 
@@ -33,7 +32,7 @@ Använd anmälningstyper, programtaggar eller arbetsytor för att filtrera infor
 
    >[!TIP]
    >
-   >Mer information om standardposttyperna finns i [Visa posttyper för programscheman](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md).
+   >Beskrivningar av standardposttyperna finns i [Inmatningstyper för programschemavy](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md).
 
 1. Välj de programtaggar som intresserar dig.
 

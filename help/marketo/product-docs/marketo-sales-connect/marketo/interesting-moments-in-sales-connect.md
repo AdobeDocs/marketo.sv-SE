@@ -16,7 +16,7 @@ Intressanta ögonblick är nyckeln till att kommunicera med säljarna via Market
 
 >[!AVAILABILITY]
 >
->Dessa är endast tillgängliga för [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)- och Marketo Sales Connect-kunder.
+>Dessa är tillgängliga för [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) och endast Marketo Sales Connect-kunder.
 
 ## Vad är ett intressant ögonblick? {#what-is-an-interesting-moment}
 
@@ -28,19 +28,19 @@ Det är upp till dig! Du bestämmer själv vilken information som är relevant f
 
 ## Hur skapar jag ett intressant ögonblick? {#how-do-i-create-an-interesting-moment}
 
-1. Välj en [smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), helst en som ditt säljteam tycker är intressant om den utlöses.
+1. Välj en [smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), helst en som ditt säljteam tycker är intressant om det utlöses.
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
-1. Dra över flödessteget **Intressanta stunder**.
+1. Dra över **Intressanta ögonblick** flödessteg.
 
    ![](assets/image2015-1-8-18-3a15-3a20.png)
 
-1. Välj en **typ** (E-post, Milstolpe eller Webb).
+1. Välj en **type** (E-post, Milstolpe eller Webb).
 
    ![](assets/image2015-1-8-18-3a17-3a16.png)
 
-1. Skriv ett meddelande till ditt säljteam i fältet **Beskrivning** som förklarar varför den här åtgärden är viktig.
+1. Skriv ett meddelande till ditt säljteam i **Beskrivning** fält som förklarar varför den här åtgärden är viktig.
 
    ![](assets/image2015-1-8-18-3a18-3a23.png)
 
@@ -50,7 +50,7 @@ Det är upp till dig! Du bestämmer själv vilken information som är relevant f
 
 ## Hur ser ett intressant ögonblick ut i Marketo?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Intressanta stunder visas i en [lead-aktivitetslogg](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
+Intressanta stunder visas i en [Lead-aktivitetsloggen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 

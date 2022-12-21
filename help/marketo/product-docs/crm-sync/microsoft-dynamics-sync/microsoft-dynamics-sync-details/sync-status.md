@@ -3,7 +3,6 @@ unique-page-id: 10097584
 description: Synkroniseringsstatus - Marketo Docs - produktdokumentation
 title: Synkroniseringsstatus
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '162'
@@ -17,11 +16,11 @@ På flikarna Synkroniseringsstatus och Synkroniseringsfel kan du hålla reda på
 
 ## Fliken Synkroniseringsstatus {#sync-status-tab}
 
-1. Klicka på **Admin** och **Microsoft Dynamics**.
+1. Klicka **Administratör** och **Microsoft Dynamics**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. Klicka på fliken **Synkroniseringsstatus**.
+1. Klicka på **Synkroniseringsstatus** -fliken.
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
@@ -35,7 +34,7 @@ På flikarna Synkroniseringsstatus och Synkroniseringsfel kan du hålla reda på
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. Klicka på listrutan **Visa:** och välj **Senaste timme** om du vill visa genomströmningsinformation.
+1. Klicka på **Visa:** nedrullningsbar meny och välj **Senaste timmen** för att visa genomströmningsinformation.
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 

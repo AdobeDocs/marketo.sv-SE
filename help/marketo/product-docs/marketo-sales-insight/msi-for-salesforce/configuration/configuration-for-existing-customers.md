@@ -22,31 +22,31 @@ Ställ in följande konfiguration för att börja använda den nya instrumentpan
 
 1. Öppna en ny flik i webbläsaren och hämta Marketo Sales Insights-autentiseringsuppgifterna från ditt Marketo-konto.
 
-1. Gå till området **Admin**.
+1. Gå till **Administratör** område.
 
    ![](assets/configuration-for-existing-customers-1.png)
 
-1. Klicka på **Sales Insight**.
+1. Klicka **Försäljningsinsikter**.
 
    ![](assets/configuration-for-existing-customers-2.png)
 
-1. Klicka på **Visa** för att fylla i Rest API-autentiseringsuppgifter.
+1. Klicka **Visa** för att fylla i Rest API-autentiseringsuppgifter.
 
    ![](assets/configuration-for-existing-customers-3.png)
 
-1. Ett bekräftelsemeddelande visas. Klicka på **OK**.
+1. Ett bekräftelsemeddelande visas. Klicka **OK**.
 
 ## Konfigurera säljinsikter i Salesforce {#configure-sales-insight-in-salesforce}
 
-1. Klicka på **Inställningar** i Salesforce.
+1. I Salesforce klickar du på **Inställningar**.
 
    ![](assets/configuration-for-existing-customers-4.png)
 
-1. Sök efter och välj **Fjärrplatsinställningar**.
+1. Sök efter och markera **Inställningar för fjärrplats**.
 
    ![](assets/configuration-for-existing-customers-5.png)
 
-1. Klicka på **Ny fjärrplats**.
+1. Klicka **Ny fjärrplats**.
 
    ![](assets/configuration-for-existing-customers-6.png)
 
@@ -54,7 +54,7 @@ Ställ in följande konfiguration för att börja använda den nya instrumentpan
 
    ![](assets/configuration-for-existing-customers-7.png)
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/configuration-for-existing-customers-8.png)
 

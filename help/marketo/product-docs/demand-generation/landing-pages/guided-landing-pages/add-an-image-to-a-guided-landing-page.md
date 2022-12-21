@@ -1,21 +1,20 @@
 ---
 unique-page-id: 7515027
-description: Lägg till en bild på en guidad landningssida - Marketo Docs - Produktdokumentation
+description: Lägg till en bild på en guidad landningssida - Marketo Docs - produktdokumentation
 title: Lägga till en bild på en landningssida med stödlinjer
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: 9cf9eec9-f8b5-4ca3-a6b3-f2d7f3e742ca
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
-
-# Lägg till en bild på en guidad landningssida {#add-an-image-to-a-guided-landing-page}
+# Lägga till en bild på en landningssida med stödlinjer {#add-an-image-to-a-guided-landing-page}
 
 Till skillnad från landningssidor med frihandslingor har stödda landningssidor fördefinierade, låsta utrymmen där du lägger till bilder.
 
-1. Välj en guidad landningssida. Klicka på **Redigera utkast**.
+1. Välj en guidad landningssida. Klicka **Redigera utkast**.
 
    ![](assets/image2015-5-19-14-3a1-3a26.png)
 

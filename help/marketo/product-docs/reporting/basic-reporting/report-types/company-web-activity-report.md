@@ -1,31 +1,30 @@
 ---
 unique-page-id: 2360005
-description: Företagets webbaktivitetsrapport - Marketo Docs - Produktdokumentation
+description: Företagets webbaktivitetsrapport - Marketo Docs - produktdokumentation
 title: Webbaktivitetsrapport för företag
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 0%
 
 ---
 
-
-# Företagets webbaktivitetsrapport {#company-web-activity-report}
+# Webbaktivitetsrapport för företag {#company-web-activity-report}
 
 Se vilka företag som besöker er webbplats. Du kan välja att visa kända eller anonyma besökare, men inte båda i samma rapport.
 
-Skapa en [webbsidesaktivitetsrapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) för att se de enskilda personer som besöker din webbplats.
+Skapa en [Aktivitetsrapport för webbsida](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) för att se de enskilda personer som besöker er webbplats.
 
 >[!PREREQUISITES]
 >
->Om du vill hämta aktiviteter från din webbplats i Marketo måste du först ställa in [Munchkin på din webbplats](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>Om du vill hämta aktiviteter från din webbplats i Marketo måste du först ange [upp Munchkin på er webbplats](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. [Skapa en ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapport och välj  [rapporttypen](report-type-overview.md) Företagets webbaktivitetsrapport.
+1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj Företagets webbaktivitetsrapport [rapporttyp](report-type-overview.md).
 
-1. Välj att [visa kända eller anonyma personer](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) i rapporten.
+1. Välj [visa kända eller anonyma personer](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) i rapporten.
 
-1. [Ange tidsramen för ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) rapporten och klicka på fliken  **** Rapportera.
+1. [Ange tidsram för rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) och klicka på **Rapport** -fliken.
 
 1. Så ja! Granska din rapport för att se vilka företag som besöker er webbplats.
 
@@ -33,9 +32,9 @@ Skapa en [webbsidesaktivitetsrapport](/help/marketo/product-docs/reporting/basic
 
    >[!TIP]
    >
-   >[sortera din rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) i kolumnen _Sidvyer_ och välj **Sortera fallande** om du vill hitta de företag som besöker webbplatsen mest.
+   >För att hitta de företag som besöker er webbplats mest, [sortera rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) på _Sidvyer_ kolumn och välj **Sortera fallande**.
 
-   [Kolumner som du kan ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) välja för en webbaktivitetsrapport för företag är:
+   [Kolumner som du kan markera](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en webbaktivitetsrapport:
 
 <table> 
  <thead> 
@@ -47,11 +46,11 @@ Skapa en [webbsidesaktivitetsrapport](/help/marketo/product-docs/reporting/basic
  <tbody> 
   <tr> 
    <td>Företag</td> 
-   <td>Besökarnas företag.<br> <strong>Namn i </strong> fetma har bekräftats vara företagsnamn av minst en person.</td> 
+   <td>Besökarnas företag.<br> <strong>Namn i fetstil</strong> har bekräftats vara företagsnamn av minst en person.</td> 
   </tr> 
   <tr> 
    <td>Införstått företag eller Internet-leverantör</td> 
-   <td>Företaget, vilket framgår av besökarnas IP-adress. <br> <strong>Namn i </strong> fet stil anger att det är företaget, inte Internet-leverantören. </td> 
+   <td>Företaget, vilket framgår av besökarnas IP-adress. <br> <strong>Namn i fetstil</strong> ange att det är företaget, inte Internet-leverantören. </td> 
   </tr> 
   <tr> 
    <td>Sidvyer</td> 

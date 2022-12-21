@@ -18,7 +18,7 @@ När ni väl har skapat ert engagemangsprogram måste ni lägga till innehåll i
 
    ![](assets/add-content-to-a-stream-1.png)
 
-1. Välj ditt engagemangsprogram och gå till fliken **Streams**.
+1. Välj engagemangsprogram och gå till **Strömmar** -fliken.
 
    ![](assets/add-content-to-a-stream-2.png)
 
@@ -26,11 +26,11 @@ När ni väl har skapat ert engagemangsprogram måste ni lägga till innehåll i
 
 **Knappen Lägg till innehåll**
 
-1. Klicka på knappen **Lägg till innehåll**.
+1. Klicka på **Lägg till innehåll** -knappen.
 
    ![](assets/add-content-to-a-stream-3.png)
 
-1. Välj **E-post** _eller_ **Program** och välj sedan e-postmeddelandet eller programmet/smarta kampanjen som du vill lägga till.
+1. Välj **E-post** _eller_ **Program** väljer du sedan det e-postprogram eller det program/den smarta kampanj som du vill lägga till.
 
    ![](assets/add-content-to-a-stream-4.png)
 
@@ -40,13 +40,13 @@ När ni väl har skapat ert engagemangsprogram måste ni lägga till innehåll i
 
 **+ ikon**
 
-1. Klicka på ikonen **+**, välj **E-post** _eller_ **Program** och välj sedan det e-postprogram eller den smarta kampanj som du vill lägga till.
+1. Klicka på **+** ikon, välj **E-post** _eller_ **Program** väljer du sedan det e-postprogram eller det program/den smarta kampanj som du vill lägga till.
 
    ![](assets/add-content-to-a-stream-5.png)
 
    >[!NOTE]
    >
-   >En smart kampanj måste innehålla filtret **Member of Engagement Program** för att den ska fungera korrekt.
+   >En smart kampanj måste innehålla **Medlem i Engagement Program** för att det ska fungera.
 
 Bra jobbat! Nu vet ni hur ni lägger till innehåll i era programströmmar. Lägg till så mycket du behöver för din näring. Mer information finns i den relaterade artikeln nedan.
 

@@ -1,29 +1,28 @@
 ---
 unique-page-id: 1900575
-description: Lägg till en e-postskripttoken i din e-post - Marketo Docs - Produktdokumentation
+description: Lägg till en e-postskripttoken i din e-post - Marketo Docs - produktdokumentation
 title: Lägg till en e-postskripttoken i din e-post
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
 
 ---
 
-
 # Lägg till en e-postskripttoken i din e-post {#add-an-email-script-token-to-your-email}
 
-När du har [skapat e-postskriptet](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) vill du lägga till det i ett e-postmeddelande för att se hur det fungerar. Så här gör du.
+Efter att du [skapade ditt e-postskript](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)vill du lägga till det i ett e-postmeddelande för att se hur det fungerar. Så här gör du.
 
 >[!NOTE]
 >
 >Den totala storleken på alla skripttoken som infogats i ett enda e-postmeddelande får inte överstiga 100 kB.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter** område.
 
    ![](assets/one-2.png)
 
-1. Sök efter och markera det e-postmeddelande som du vill lägga till token i och klicka på **Redigera utkast**.
+1. Sök efter och välj det e-postmeddelande som du vill lägga till token i och klicka på **Redigera utkast**.
 
    ![](assets/two-2.png)
 
@@ -47,7 +46,7 @@ När du har [skapat e-postskriptet](/help/marketo/product-docs/email-marketing/g
    >
    >Lägg till ett standardvärde om du vill.
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/six.png)
 

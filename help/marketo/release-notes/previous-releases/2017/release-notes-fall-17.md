@@ -91,4 +91,4 @@ Nu kan du förgranska e-post utanför Marketo via fjärranslutning, vilket före
 
 **[Ersätt HTML-API](https://developers.marketo.com/rest-api/assets/emails/)**
 
-Utvecklare kan fjärruppdatera HTML-innehåll i e-postresurser så att de kan arbeta i ett enda system för att underhålla resurser.
+Utvecklare kan fjärruppdatera HTML innehåll i e-postresurser, vilket gör att de kan arbeta i ett enda system för att underhålla resurser.

@@ -31,7 +31,7 @@ Sales Dialer gör det enkelt för er att kommunicera internationellt. För kunde
   </tr> 
   <tr> 
    <td colspan="1">Österrike</td> 
-   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 43655, 43677, 436988, 4366 9989, 43720, 43780, 439</td> 
+   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 436555, 43677, 4369988, 4369989, 43720, 43780, 439</td> 
   </tr> 
   <tr> 
    <td colspan="1">Bahamas</td> 
@@ -135,7 +135,7 @@ Sales Dialer gör det enkelt för er att kommunicera internationellt. För kunde
   </tr> 
   <tr> 
    <td>USA</td> 
-   <td>1, 1800, 1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
+   <td>1, 1800,1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
   </tr> 
  </tbody> 
 </table>

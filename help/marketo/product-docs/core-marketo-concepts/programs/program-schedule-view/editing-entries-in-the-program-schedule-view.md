@@ -3,7 +3,6 @@ unique-page-id: 1147136
 description: Redigera poster i programschemavy - Marketo Docs - produktdokumentation
 title: Redigera poster i programschemavy
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
@@ -15,13 +14,13 @@ ht-degree: 0%
 
 Du kan redigera de olika elementen i programmet i schemavyn.
 
-## Redigera namnet på en post {#edit-an-entrys-name}
+## Redigera ett postnamn {#edit-an-entrys-name}
 
 1. Markera den post som du vill redigera.
 
    ![](assets/image2014-9-18-18-3a1-3a36.png)
 
-1. Skriv ett nytt namn och tryck på **Enter/Return** på tangentbordet för att bekräfta ändringen.
+1. Skriv ett nytt namn och tryck på **Retur** på tangentbordet för att bekräfta ändringen.
 
    ![](assets/image2014-9-18-18-3a1-3a53.png)
 
@@ -29,13 +28,13 @@ Du kan redigera de olika elementen i programmet i schemavyn.
 >
 >Detta ändrar bara visningsnamnet i schemavyn. Namnet på resursen i programmet ändras inte.
 
-## Redigera en postbeskrivning {#edit-an-entrys-description}
+## Redigera en anmälnings beskrivning {#edit-an-entrys-description}
 
 1. Klicka på beskrivningsikonen.
 
    ![](assets/image2014-9-18-18-3a3-3a7.png)
 
-1. Redigera beskrivningen. Klicka på **Spara**.
+1. Redigera beskrivningen. Klicka **Spara**.
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 

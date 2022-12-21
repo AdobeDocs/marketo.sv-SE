@@ -1,39 +1,38 @@
 ---
 unique-page-id: 2950573
-description: Konfigurera spårningsförlopp för ett referenserbjudande - Marketo Docs - Produktdokumentation
+description: Konfigurera spårningsförlopp för ett referenserbjudande - Marketo Docs - produktdokumentation
 title: Konfigurera förloppsflöde för spår för ett referenserbjudande
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: ea73176e-414e-4a90-a17d-083a6eb0a752
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
-
 # Konfigurera förloppsflöde för spår för ett referenserbjudande {#configure-track-progress-flow-for-a-referral-offer}
 
-När du [skapar ett hänvisningserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) kan du konfigurera de uppmaningar som visar deltagarnas framsteg mot belöningen.
+När du [skapa ett hänvisningserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)kan du konfigurera de uppmaningar som visar deltagarna hur de går mot belöningen.
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Markera hänvisningserbjudandet och klicka på **Redigera utkast**.
+1. Välj hänvisningserbjudandet och klicka på **Redigera utkast**.
 
    ![](assets/image2014-9-22-14-3a35-3a31.png)
 
-1. Gå till **Spåra förloppsflöde** > **Sociala nätverk** i redigeraren för hänvisningserbjudanden.
+1. Gå till **Spåra förloppsflöde** > **Sociala nätverk**.
 
    ![](assets/image2014-9-22-14-3a35-3a43.png)
 
-1. I fönstret **Visa och redigera** redigerar du uppmaningen som påminner deltagarna om att logga in på samma sociala nätverk som de använde för att registrera sig för ditt erbjudande.
+1. I **Visa och redigera** kan du redigera uppmaningen som påminner deltagarna om att logga in på samma sociala nätverk som de använde för att registrera sig för ditt erbjudande.
 
    ![](assets/image2014-9-22-14-3a35-3a58.png)
 
    >[!NOTE]
    >
-   >Markera den text du kan redigera genom att välja **Visa redigeringar** i det övre högra hörnet.
+   >Markera texten som du kan redigera genom att markera **Visa redigeringar** i det övre högra hörnet.
 
 1. Redigera uppmaningen som uppmanar deltagaren att dela länken med fler vänner.
 
@@ -49,4 +48,4 @@ När du [skapar ett hänvisningserbjudande](/help/marketo/product-docs/demand-ge
 
 >[!MORELIKETHIS]
 >
->Klicka sedan på **Slutför** > **Godkänn och stäng** och [publicera ditt hänvisningserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).
+>Klicka på **Slutför** > **Godkänn och stäng** och [publicera ditt hänvisningserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).

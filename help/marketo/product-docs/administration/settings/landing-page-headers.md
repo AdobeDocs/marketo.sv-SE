@@ -1,6 +1,6 @@
 ---
 description: Landningssidhuvuden - Marketo Docs - produktdokumentation
-title: Landing Page Headers
+title: Landningssidhuvuden
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
 source-git-commit: a3acf82afa894160b20dff76fdd5132a234dfbd3
 workflow-type: tm+mt
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 Följ stegen nedan för att anpassa några av HTTP-rubrikerna i dina domäner för landningssidan.
 
-1. In Marketo, click **Admin**.
+1. I Marketo klickar du på **Administratör**.
 
    ![](assets/landing-page-headers-1.png)
 
@@ -21,7 +21,7 @@ Följ stegen nedan för att anpassa några av HTTP-rubrikerna i dina domäner f�
 
    ![](assets/landing-page-headers-2.png)
 
-1. Click **Edit** next to Landing Page HTTP Headers.
+1. Klicka **Redigera** intill Landing Page HTTP Headers.
 
    ![](assets/landing-page-headers-3.png)
 
@@ -32,7 +32,7 @@ Följ stegen nedan för att anpassa några av HTTP-rubrikerna i dina domäner f�
 <table>
  <tr>
   <td><strong>Strict-Transport-Security</strong></td>
-  <td>Use this to guarantee connections to Landing Pages will always be served over HTTPS (should only be set for subscriptions with Landing Pages secured by SSL)</td>
+  <td>Använd det här för att garantera att anslutningar till landningssidor alltid hanteras via HTTPS (ska endast anges för prenumerationer med landningssidor som skyddas av SSL)</td>
  </tr>
  <tr>
   <td><strong>X-frame-options</strong></td>

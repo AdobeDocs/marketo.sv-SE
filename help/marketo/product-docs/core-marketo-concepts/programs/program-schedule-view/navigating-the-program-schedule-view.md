@@ -3,7 +3,6 @@ unique-page-id: 1147100
 description: Navigera i programschemavy - Marketo Docs - produktdokumentation
 title: Navigera i programschemavy
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '183'
@@ -21,7 +20,7 @@ Här är grunderna som hjälper dig att navigera i programschemavyn.
 
    ![](assets/login-marketing-activities.png)
 
-1. Välj program. Klicka på listrutan **Visa**. Välj **Schema**.
+1. Välj program. Klicka på **Visa** nedrullningsbar meny. Välj **Schema**.
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -51,7 +50,7 @@ Här är grunderna som hjälper dig att navigera i programschemavyn.
 
 ## Ändra mellan lägen {#changing-between-modes}
 
-1. Om du klickar på **3 veckor** eller **månad** ändras de synliga datumen på skärmen.
+1. Klicka på **3 veckor** eller **Månad** kommer att ändra de synliga datumen på skärmen.
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 

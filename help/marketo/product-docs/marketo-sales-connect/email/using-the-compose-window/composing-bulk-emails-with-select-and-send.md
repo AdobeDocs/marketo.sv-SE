@@ -2,20 +2,19 @@
 unique-page-id: 37356578
 description: Disponera massutskick med Select and Send - Marketo Docs - produktdokumentation
 title: Disponera massutskick med Markera och skicka
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 99a53f7a-bf3c-40df-961c-1927476acd10
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
 
 ---
 
-
-# Disponera massutskick med Select och Send {#composing-bulk-emails-with-select-and-send}
+# Disponera massutskick med Markera och skicka {#composing-bulk-emails-with-select-and-send}
 
 Så här skickar/redigerar du e-postmeddelanden med alternativet Markera och skicka.
 
-## Skickar e-postmeddelanden {#sending-emails}
+## Skicka e-post {#sending-emails}
 
 1. Navigera till sidan Personer.
 
@@ -29,23 +28,23 @@ Så här skickar/redigerar du e-postmeddelanden med alternativet Markera och ski
    >
    >Högst 200 personer kan väljas när du använder Markera och Skicka.
 
-1. Klicka på knappen **E-post markerad**.
+1. Klicka på **E-post vald** -knappen.
 
    ![](assets/three-2.png)
 
-1. Ange en ämnesrad, välj en mall (eller skapa e-postmeddelandet från grunden) och skicka/[schemalägg](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md) e-postmeddelandet.
+1. Ange en ämnesrad, välj en mall (eller skapa e-postmeddelandet från grunden) och skicka/[schema](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md) e-postmeddelandet.
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >Om du har valt en mall och vill kontrollera att alla dynamiska fält fylls i korrekt innan du skickar dem klickar du på **Förhandsgranska dynamiska fält**. Se till att alla mottagare i det stora sidofältet är markerade för att förhandsgranska alla e-postmeddelanden. Om du markerar ett e-postmeddelande och klickar på **Förhandsgranska dynamiska fält** förhandsgranskas endast det e-postmeddelandet.
+   >Om du har valt en mall och vill kontrollera att alla dynamiska fält fylls i korrekt innan du skickar den klickar du på **Förhandsgranska dynamiska fält**. Se till att alla mottagare i det stora sidofältet är markerade för att förhandsgranska alla e-postmeddelanden. Om du väljer ett e-postmeddelande och klickar på **Förhandsgranska dynamiska fält**, kommer bara det mejlet att förhandsgranskas.
 
 ## Redigera e-postmeddelanden {#editing-emails}
 
 **Massredigeringar**
 
-1. Följ steg 1-3 i avsnittet [Skicka e-post](#sending-emails).
+1. Följ steg 1-3 från [Avsnittet Skicka e-post](#sending-emails).
 
    >[!NOTE]
    >
@@ -59,7 +58,7 @@ Så här skickar/redigerar du e-postmeddelanden med alternativet Markera och ski
    >
    >Du kan klicka på en viss e-postmottagare för att se ändringarna som har skickats till det e-postmeddelandet.
 
-1. Klicka på **Skicka** (eller [Schemalägg](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) för att skicka till alla mottagare med de satsvisa e-postuppdateringarna som du har gjort.
+1. Klicka **Skicka** (eller [Schema](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) för att skicka till alla mottagare med de satsvisa e-postuppdateringarna som du har gjort.
 
    ![](assets/bulk-four.png)
 
@@ -67,7 +66,7 @@ Så här skickar/redigerar du e-postmeddelanden med alternativet Markera och ski
 
 Slutför gruppuppdateringar innan du anpassar varje e-postmeddelande, eftersom en gruppuppdatering skriver över ändringar i alla e-postmeddelanden i det stora sidofältet.
 
-1. Följ steg 1-4 i avsnittet [Skicka e-post](#sending-emails).
+1. Följ steg 1-4 från [Avsnittet Skicka e-post](#sending-emails).
 
    >[!NOTE]
    >
@@ -89,7 +88,7 @@ Slutför gruppuppdateringar innan du anpassar varje e-postmeddelande, eftersom e
    >
    >Du kan klicka på andra mottagare för att se att de ändringar du har gjort för den tidigare valda mottagaren inte visas.
 
-1. Klicka på **Skicka** (eller [Schemalägg](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) för att skicka till alla mottagare med de satsvisa e-postuppdateringarna som du har gjort.
+1. Klicka **Skicka** (eller [Schema](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) för att skicka till alla mottagare med de satsvisa e-postuppdateringarna som du har gjort.
 
    ![](assets/each-four.png)
 

@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2359805
-description: Välj Lotterivinnare - Marketo Docs - Produktdokumentation
+description: Select Sweepstakes Winners - Marketo Docs - produktdokumentation
 title: Välj Lotterivinnare
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 4f6d0b39-86c6-468f-97ad-d65ef3f13b9c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
-
 # Välj Lotterivinnare {#select-sweepstakes-winners}
 
-När du [publicerar utlottningar](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md) måste du välja vinnare för varje teckning. När du gör det skickas ditt [e-postmeddelande](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) automatiskt till dem.
+När du [publicera utlottningar](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)måste du välja vinnare för varje teckning. När du gör det [mejl](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) skickas automatiskt till dem.
 
 >[!AVAILABILITY]
 >
@@ -27,23 +26,23 @@ När du [publicerar utlottningar](/help/marketo/product-docs/demand-generation/s
 
    ![](assets/image2014-9-25-17-3a47-3a37.png)
 
-1. Klicka på **Välj vinnare**.
+1. Klicka **Vinnare**.
 
    ![](assets/image2014-9-25-17-3a47-3a49.png)
 
    >[!TIP]
    >
-   >Klicka på fliken **Deltagare** om du vill se en lista över personer som har anmält sig till ditt lotteri.
+   >Klicka på **Deltagare** -fliken.
 
-1. Välj antal vinnare, välj **Jag är redo att välja** och klicka på **Nästa**.
+1. Välj antal vinnare, välj **Jag är redo att välja** och klicka **Nästa**.
 
    ![](assets/image2014-9-25-17-3a49-3a2.png)
 
    >[!NOTE]
    >
-   >Om du väljer 0 vinnare för en viss teckning visas inte den informationen på fliken **Vinnare**.
+   >Om du väljer 0 vinnare för en viss teckning visas inte den informationen på **Vinnare** -fliken.
 
-1. Klicka på **Slutför** för att skicka [e-postmeddelandet](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md) till vinnarna i listan.
+1. Klicka **Slutför** för att skicka [mejl](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md) till vinnarna i listan.
 
    ![](assets/image2014-9-25-17-3a49-3a48.png)
 

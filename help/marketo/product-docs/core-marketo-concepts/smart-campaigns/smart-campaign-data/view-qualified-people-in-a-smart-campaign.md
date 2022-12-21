@@ -3,7 +3,6 @@ unique-page-id: 1146966
 description: Visa kvalificerade personer i en smart kampanj - Marketo Docs - produktdokumentation
 title: Visa kvalificerade personer i en smart kampanj
 exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
@@ -23,7 +22,7 @@ Se personer som är kvalificerade att gå igenom flödet när ni kör en smart k
 >
 >Utlösande smarta kampanjer visar inte kvalificerade personer, eftersom de körs baserat på live-event.
 
-1. På fliken **Berättigade personer** visas de personer som är kvalificerade att gå igenom flödet när kampanjen körs.
+1. The **Berättigade personer** listar de personer som är kvalificerade att gå igenom flödet när kampanjen körs.
 
    ![](assets/qualifiedpeople-tab.png)
 
@@ -33,7 +32,7 @@ Se personer som är kvalificerade att gå igenom flödet när ni kör en smart k
 
    >[!NOTE]
    >
-   >Antalet kvalificerade personer beror också på reglerna för smarta kampanjkvalifikationer. Lär dig hur du [redigerar kvalificeringsregler](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md).
+   >Antalet kvalificerade personer beror också på reglerna för smarta kampanjkvalifikationer. Lär dig hur [redigera kvalificeringsregler](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md).
 
 Söt! Du kan använda den här listan för att kontrollera vilka personer som kan gå igenom flödet innan du kör en smart kampanj.
 

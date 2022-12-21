@@ -4,7 +4,7 @@ title: Konfiguration
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
 source-git-commit: 031e5ad328d49042f9c96ded63f1e719f1c377c7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---

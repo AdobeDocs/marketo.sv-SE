@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359858
 description: Lägg till bilder och filer i Marketo - Marketo Docs - Produktdokumentation
-title: Lägg till bilder och filer i Marketto
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+title: Lägg till bilder och filer i Marketo
+exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
 
 ---
-
 
 # Lägg till bilder och filer i Marketo {#add-images-and-files-to-marketo}
 
@@ -19,7 +18,7 @@ Det är enkelt att lägga till flera bilder och filer samtidigt.
 
    ![](assets/designstudio.png)
 
-1. Under **Nytt** klickar du på **Överför bild** eller **Fil**.
+1. Under **Nytt**, klicka **Överför bild** eller **Fil**.
 
    ![](assets/image2014-9-15-18-3a5-3a33.png)
 
@@ -31,11 +30,11 @@ Det är enkelt att lägga till flera bilder och filer samtidigt.
    >
    >Den största storleken per fil är 100 MB.
 
-1. Om du vill lägga till flera bilder och filer bläddrar du till rätt mapp på datorn, trycker på **Ctrl/Cmd** och klickar på varje fil som du vill lägga till. Klicka sedan på **Öppna**.
+1. Om du vill lägga till flera bilder och filer bläddrar du till rätt mapp på datorn och trycker på **Ctrl/Cmd** och klicka på varje fil som du vill lägga till och klicka sedan på **Öppna**.
 
    ![](assets/image2014-9-15-18-3a6-3a58.png)
 
-1. Expandera **Filinformation** och bekräfta att du har valt rätt bilder. Klicka sedan på **Överför**.
+1. Expandera **Filinformation** för att bekräfta att du har valt rätt bilder och sedan klicka på **Överför**.
 
    ![](assets/image2014-9-15-18-3a7-3a22.png)
 
@@ -45,7 +44,7 @@ Det är enkelt att lägga till flera bilder och filer samtidigt.
 
    >[!TIP]
    >
-   >Marketo söker igenom alla filer innan de överförs. infekterade filer kommer att hoppas över.
+   >Marketo söker igenom alla filer innan de överförs; infekterade filer kommer att hoppas över.
 
 1. När överföringen är klar klickar du på **Slutför**.
 
@@ -59,7 +58,7 @@ Snyggt gjort!
 
 >[!NOTE]
 >
->Marketo godkänner alla filtyper för överföring, men endast de större bildtyperna (JPG, PNG, GIF osv.) kommer att fungera i vår e-postredigerare.
+>Alla filtyper kan överföras medan Marketo endast hanterar de viktigaste bildtyperna (JPG, PNG, GIF, osv.) kommer att fungera i vår e-postredigerare.
 
 >[!MORELIKETHIS]
 >

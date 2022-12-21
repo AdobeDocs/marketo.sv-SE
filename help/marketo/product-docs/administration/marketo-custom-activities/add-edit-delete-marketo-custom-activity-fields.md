@@ -3,7 +3,6 @@ unique-page-id: 10100275
 description: Lägg till/redigera/ta bort anpassade aktivitetsfält för Marketo - Marketo Docs - produktdokumentation
 title: Lägg till/redigera/ta bort anpassade aktivitetsfält för Marketo
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '304'
@@ -17,7 +16,7 @@ Du kan behöva lägga till, ändra eller ta bort ett anpassat aktivitetsfält. S
 
 ## Lägg till ett anpassat aktivitetsfält {#add-a-custom-activity-field}
 
-1. Klicka på **Fält** i Anpassade aktiviteter för Marketo.
+1. Klicka på Anpassade aktiviteter i Marketo **Fält**.
 
    ![](assets/one-3.png)
 
@@ -25,7 +24,7 @@ Du kan behöva lägga till, ändra eller ta bort ett anpassat aktivitetsfält. S
 
    ![](assets/two-3.png)
 
-1. Klicka på **Nytt fält**.
+1. Klicka **Nytt fält**.
 
    ![](assets/three-3.png)
 
@@ -45,7 +44,7 @@ Du kan behöva lägga till, ändra eller ta bort ett anpassat aktivitetsfält. S
 
 ## Redigera ett anpassat aktivitetsfält {#edit-a-custom-activity-field}
 
-1. Klicka på **Fält** i Anpassade aktiviteter för Marketo.
+1. Klicka på Anpassade aktiviteter i Marketo **Fält**.
 
    ![](assets/one-3.png)
 
@@ -53,7 +52,7 @@ Du kan behöva lägga till, ändra eller ta bort ett anpassat aktivitetsfält. S
 
    ![](assets/seven.png)
 
-1. Markera fältet som du vill redigera, klicka på listrutan **Fältåtgärder** och välj **Redigera fält**.
+1. Markera fältet som du vill redigera och klicka på **Fältåtgärder** och markera **Redigera fält**.
 
    ![](assets/eight.png)
 
@@ -81,7 +80,7 @@ Fältet är nu redigerat!
 
 ## Ta bort ett anpassat aktivitetsfält {#delete-a-custom-activity-field}
 
-1. Klicka på **Fält** i Anpassade aktiviteter för Marketo.
+1. Klicka på Anpassade aktiviteter i Marketo **Fält**.
 
    ![](assets/one-3.png)
 
@@ -89,7 +88,7 @@ Fältet är nu redigerat!
 
    ![](assets/twelve.png)
 
-1. Markera fältet som du vill ta bort, klicka på listrutan **Fältåtgärder** och välj **Ta bort fält**.
+1. Markera fältet som du vill ta bort och klicka på **Fältåtgärder** och markera **Ta bort fält**.
 
    ![](assets/thirteen.png)
 

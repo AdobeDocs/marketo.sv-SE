@@ -1,17 +1,16 @@
 ---
 unique-page-id: 14746184
-description: Avbeställ historikkort - Marketo Docs - Produktdokumentation
+description: Avbeställ historikkort - Marketo Docs - produktdokumentation
 title: Avbeställ historikkort
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: ae44552d-7f9e-4f5c-bb22-62c55b63f3e6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
 
 ---
 
-
-# Avbeställ historikkortet {#unsubscribe-history-card}
+# Avbeställ historikkort {#unsubscribe-history-card}
 
 Med historikkortet för att avbryta prenumerationen kan administratörer och användare få sammanhangsberoende information om kontaktens avbeställningshistorik.
 

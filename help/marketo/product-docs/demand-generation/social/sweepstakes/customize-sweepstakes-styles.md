@@ -2,18 +2,17 @@
 unique-page-id: 2359807
 description: Anpassa Lotterimallar - Marketo Docs - Produktdokumentation
 title: Anpassa utlottningsstilar
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 2b1437d9-a424-4d05-b614-7502c12e6ba2
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
 
 ---
 
+# Anpassa utlottningsstilar {#customize-sweepstakes-styles}
 
-# Anpassa Lotteristilar {#customize-sweepstakes-styles}
-
-När du [skapar utlottningar](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) kan du anpassa utseendet på landningssidan.
+När du [skapa utlottningar](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)kan du anpassa utseendet på landningssidan.
 
 >[!AVAILABILITY]
 >
@@ -23,11 +22,11 @@ När du [skapar utlottningar](/help/marketo/product-docs/demand-generation/socia
 
 ![](assets/login-marketing-activities-1.png)
 
-1. Markera utlottningen och klicka på **Redigera utkast**.
+1. Markera utlottningen och klicka **Redigera utkast**.
 
    ![](assets/image2014-9-25-17-3a51-3a45.png)
 
-1. Gå till **Appinställningar** > **Utseende** i Lotteriet.
+1. I Lotteriet går du till **Appinställningar** > **Utseende**.
 
    ![](assets/image2014-9-25-17-3a51-3a59.png)
 
@@ -47,7 +46,7 @@ När du [skapar utlottningar](/help/marketo/product-docs/demand-generation/socia
 
    >[!NOTE]
    >
-   >Om du använder en bild med text i den måste du komma ihåg att ta bort texten från fältet **Ange knapp** under Text ovan.
+   >Om du använder en bild med text på den måste du komma ihåg att ta bort texten från **Ange knapp** under Text ovan.
 
 1. När du gör varje ändring visas resultatet i förhandsvisningen för Visa och redigera.
 
@@ -59,4 +58,4 @@ När du [skapar utlottningar](/help/marketo/product-docs/demand-generation/socia
 
    >[!MORELIKETHIS]
    >
-   >Nästa steg är att lägga till [e-postmeddelanden om anmälan och uppfyllelse till dina svepstakes](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >Nästa steg är att lägga till [e-postmeddelanden om registrering och fullgörande av dina utlottningar](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).

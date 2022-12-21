@@ -3,7 +3,6 @@ unique-page-id: 1147025
 description: Använda en webkrok i en smart kampanj - Marketo Docs - produktdokumentation
 title: Använda en webkrok i en smart kampanj
 exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '105'
@@ -11,9 +10,9 @@ ht-degree: 0%
 
 ---
 
-# Använda en webbkrok i en smart kampanj {#use-a-webhook-in-a-smart-campaign}
+# Använda en webkrok i en smart kampanj {#use-a-webhook-in-a-smart-campaign}
 
-Om du vill använda en [webkrok](https://developers.marketo.com/documentation/webhooks/) lägger du till den i en [smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) som en flödesåtgärd.
+Så här använder du en [webkrok](https://developers.marketo.com/documentation/webhooks/), lägga till det i en [smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) som en flödesåtgärd.
 
 >[!AVAILABILITY]
 >
@@ -25,7 +24,7 @@ Om du vill använda en [webkrok](https://developers.marketo.com/documentation/we
    >
    >Webhooks kan bara användas i utlösarkampanjer.
 
-1. Gå till fliken **Flöde** och dra i flödesåtgärden **Anropa webkrok**.
+1. Gå till **Flöde** och dra i **Ring webkrok** flödesåtgärd.
 
    ![](assets/image2014-9-22-15-3a8-3a2.png)
 

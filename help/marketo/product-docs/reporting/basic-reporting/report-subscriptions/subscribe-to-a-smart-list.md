@@ -2,14 +2,13 @@
 unique-page-id: 7505310
 description: Prenumerera på en smart lista - Marketo Docs - produktdokumentation
 title: Prenumerera på en smart lista
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
 
 ---
-
 
 # Prenumerera på en smart lista {#subscribe-to-a-smart-list}
 
@@ -32,39 +31,39 @@ Prenumerationer är specifika för arbetsytan. Den här listan över prenumerati
 
 >[!NOTE]
 >
->Du är begränsad till 100 prenumerationer och högst 100 000 personer per prenumeration, över arbetsytor och i Marketo-instanser. Om den smarta listan innehåller fler än 100 000 namn kommer Marketo att köra prenumerationen för de första 100 000.
+>Du är begränsad till 100 prenumerationer och högst 100 000 personer per prenumeration, över arbetsytor och i Marketo-instanser. Om den smarta listan innehåller fler än 100 000 namn kör Marketo prenumerationen för de första 100 000.
 
 ## Skapa en prenumeration på en smart lista {#create-a-smart-list-subscription}
 
-1. Gå till **databasen** eller **marknadsföringsaktiviteter**.
+1. Gå till **Databas** eller **Marknadsföringsaktiviteter**.
 
    ![](assets/db.png)
 
-1. Välj den smarta lista som du vill skapa en prenumeration för. Klicka på **Visa en lista över åtgärder** och välj **Ny prenumeration för smart lista**.
+1. Välj den smarta lista som du vill skapa en prenumeration för. Klicka **Liståtgärder** och markera **Ny prenumeration på Smart List**.
 
    ![](assets/three.png)
 
-1. Ge din prenumeration ett **namn** och välj eller ange e-postadresserna till **mottagarna**.
+1. Ge din prenumeration en **Namn** väljer eller anger du e-postadresserna till **Mottagare**.
 
    ![](assets/image2015-9-14-13-3a18-3a38.png)
 
-1. Klicka på listan **Frekvens** och välj en frekvens.
+1. Klicka på **Frekvens** och välj en frekvens.
 
    ![](assets/image2015-9-14-13-3a21-3a21.png)
 
-1. Ange datumet **Slutleverans**. Du kan välja **Aldrig** eller ett kalenderdatum.
+1. Ange **Slutleverans** datum. Du kan välja **Aldrig** eller ett kalenderdatum.
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
-1. Klicka på **Format** och välj ett alternativ i listan.
+1. Klicka **Format** och välj ett alternativ i listan.
 
    ![](assets/image2015-9-14-13-3a25-3a25.png)
 
-1. Klicka på **Skapa**.
+1. Klicka **Skapa**.
 
    ![](assets/image2015-9-11-15-3a58-3a4.png)
 
-1. Din nya smarta listprenumeration visas högst upp i listan på fliken Prenumerationer. Klicka på **Skicka** om du vill skicka nu och inte vänta tills den schemalagda e-postleveransen.
+1. Din nya smarta listprenumeration visas högst upp i listan på fliken Prenumerationer. Klicka **Skicka** om du vill skicka nu, och inte vänta tills den schemalagda e-postleveransen.
 
    ![](assets/eight.png)
 
@@ -76,11 +75,11 @@ Prenumerationer är specifika för arbetsytan. Den här listan över prenumerati
 
 ## E-postmeddelande {#email-message}
 
-Mottagarna får ett e-postmeddelande med möjlighet att ladda ned rapporten samt en länk direkt till listan i Marketo-instansen. Hämtningslänken upphör om fyra dagar.
+Mottagarna får ett mejl med möjlighet att ladda ned rapporten samt en länk direkt till listan i Marketo-instansen. Hämtningslänken upphör om fyra dagar.
 
 >[!NOTE]
 >
->Om inställningen [Administratör för säker prenumeration](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) är **Ja** kan bara personer med åtkomst till Marketo-instansen hämta rapporten.
+>Om [Säker prenumerationsadministratör](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) inställningen är inställd på **Ja**, kan bara personer med tillgång till Marketo-instansen ladda ned rapporten.
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 

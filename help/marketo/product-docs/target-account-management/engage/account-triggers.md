@@ -1,15 +1,14 @@
 ---
 unique-page-id: 11380734
-description: Kontoutlösare - Marketo Docs - Produktdokumentation
+description: Kontoutlösare - Marketo Docs - produktdokumentation
 title: Kontoutlösare
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
 
 ---
-
 
 # Kontoutlösare {#account-triggers}
 
@@ -23,7 +22,7 @@ Ange &quot;Namngivet konto&quot; i sökrutan för att hitta båda utlösarna fö
 
 ![](assets/two-1.png)
 
-Dra utlösaren till arbetsytan. I det här exemplet använder vi _Added to Named Account_.
+Dra utlösaren till arbetsytan. I det här exemplet använder vi _Tillagt på namngivet konto_.
 
 ![](assets/three-1.png)
 

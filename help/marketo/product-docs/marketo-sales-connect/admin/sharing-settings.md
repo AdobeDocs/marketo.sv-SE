@@ -1,15 +1,14 @@
 ---
 unique-page-id: 14746143
-description: Delningsinställningar - Marketo Docs - Produktdokumentation
+description: Delningsinställningar - Marketo Docs - produktdokumentation
 title: Delningsinställningar
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: fdd4e286-c417-41f1-9cbe-bd78cb597310
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
 
 ---
-
 
 # Delningsinställningar {#sharing-settings}
 
@@ -21,17 +20,17 @@ När ditt Sales Connect-konto skapas aktiveras delningsinställningarna. Detta g
 
 När delningsinställningar är aktiverade kan bara administratörer dela i kategorier, såvida inte delningsbehörighet ges till ett team eller alla. Om Delningsinställningar är inaktiverat finns det inga begränsningar och alla användare kan dela i valfria mallkategorier.
 
-## Konfigurera delningsinställningarna {#configure-your-sharing-settings}
+## Konfigurera delningsinställningar {#configure-your-sharing-settings}
 
-1. Gå till sidan Inställningar i [webbprogrammet](https://toutapp.com/login).
+1. I dialogrutan [webbprogram](https://toutapp.com/login)går du till sidan Inställningar.
 
    ![](assets/one-2.png)
 
-1. Välj **Delningsåtkomst** under Administratörsinställningar.
+1. Under Administratörsinställningar väljer du **Delningsåtkomst**.
 
    ![](assets/two-2.png)
 
-1. Kontrollera att **Delningsinställningar** är aktiverade. Detta innebär som standard att bara administratörer kan dela mallar i dina mallkategorier.
+1. Se till att **Delningsinställningar** är aktiverade. Detta innebär som standard att bara administratörer kan dela mallar i dina mallkategorier.
 
    ![](assets/three-2.png)
 
@@ -39,7 +38,7 @@ När delningsinställningar är aktiverade kan bara administratörer dela i kate
 
    ![](assets/four-2.png)
 
-1. Klicka på **Lägg till team för åtkomst**.
+1. Klicka **Lägg till team för åtkomst**.
 
    ![](assets/five-2.png)
 
@@ -51,7 +50,7 @@ När delningsinställningar är aktiverade kan bara administratörer dela i kate
    >
    >Om du inte ser något team måste du gå till Teamhantering och skapa ett team med användare.
 
-1. Klicka på **Lägg till team för åtkomst** för att spara.
+1. Klicka **Lägg till team för åtkomst** att spara.
 
    ![](assets/seven-1.png)
 

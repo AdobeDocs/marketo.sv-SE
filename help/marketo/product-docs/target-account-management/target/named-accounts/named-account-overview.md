@@ -1,15 +1,14 @@
 ---
 unique-page-id: 11378809
-description: Översikt över namngivet konto - Marketo Docs - Produktdokumentation
+description: Översikt över namngivet konto - Marketo Docs - produktdokumentation
 title: Översikt över namngivet konto
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '238'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Översikt över namngivet konto {#named-account-overview}
 
@@ -60,8 +59,8 @@ Namngivna konton håller personerna från de företag ni riktar er mot. Kontroll
    <td>Typ av bransch som tillskrivs ett namngivet konto</td> 
   </tr> 
   <tr> 
-   <td><strong>SIC-kod</strong></td> 
-   <td><span><strong></strong>Standard  <strong></strong>Industrial  <strong></strong>Classification - fyrsiffrig kod för klassificering av industrier<br></span></td> 
+   <td><strong>SNI-kod</strong></td> 
+   <td><span><strong>S</strong>Standard <strong>I</strong>industrigren <strong>C</strong>klassificering - fyrsiffrig kod för klassificering av branscher<br></span></td> 
   </tr> 
   <tr> 
    <td><strong>Intäkter</strong></td> 

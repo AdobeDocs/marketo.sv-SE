@@ -1,30 +1,29 @@
 ---
 unique-page-id: 2359500
-description: Segmenteringsorderprioritet - Marketo Docs - Produktdokumentation
+description: Prioritet för segmenteringsorder - Marketo Docs - produktdokumentation
 title: Prioritet för segmenteringsordning
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: c20d07c8-5e53-4f54-a7a3-2e1aa4fb0cdd
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
-
 # Prioritet för segmenteringsordning {#segmentation-order-priority}
 
-Det är viktigt att förstå hur **order** prioriterar utvärdering av dina personer i en segmentering.
+Det är viktigt att förstå hur **order** anger prioriteten för utvärdering av dina personer i en segmentering.
 
 >[!PREREQUISITES]
 >
 >[Skapa en segmentering](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >[Definiera segmentregler](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
-1. Gå till **databasen**.
+1. Gå till **Databas**.
 
    ![](assets/image2017-3-29-8-3a9-3a33.png)
 
-1. Välj din **segmentering**. I **Segmenteringsåtgärder** klickar du på **Redigera segment**.
+1. Välj **Segmentering**. I **Segmenteringsåtgärder**, klicka **Redigera segment**.
 
    ![](assets/image2014-9-16-10-3a11-3a55.png)
 

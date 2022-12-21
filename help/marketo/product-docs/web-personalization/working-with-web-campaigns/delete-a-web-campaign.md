@@ -1,15 +1,14 @@
 ---
 unique-page-id: 4719410
-description: Ta bort en webbkampanj - Marketo Docs - Produktdokumentation
+description: Ta bort en webbkampanj - Marketo Docs - produktdokumentation
 title: Ta bort en webbkampanj
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+exl-id: ec81c3c0-5822-4df4-b9ff-5635f44bc3c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
 
 ---
-
 
 # Ta bort en webbkampanj {#delete-a-web-campaign}
 
@@ -19,9 +18,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Använd filterfunktionen [](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md) för att göra det enklare att hitta den webbkampanj du vill ha.
+   >Om du vill göra det enklare att hitta webbkampanjen använder du [filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. På sidan Webbkampanjer klickar du på **Ta bort** för den kampanj du vill ta bort.
+1. På webbkampanjsidan klickar du på **Ta bort** på kampanjen som du vill ta bort.
 
    ![](assets/web-campaigns-1-delete-hand-1.png)
 

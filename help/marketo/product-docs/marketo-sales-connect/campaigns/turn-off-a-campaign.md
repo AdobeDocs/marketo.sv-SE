@@ -1,15 +1,14 @@
 ---
 unique-page-id: 14352609
-description: Inaktivera en kampanj - Marketo Docs - Produktdokumentation
+description: Inaktivera en kampanj - Marketo Docs - produktdokumentation
 title: Inaktivera en kampanj
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 4b6fcb6e-7966-43aa-aa4f-43c475c79de8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
 
 ---
-
 
 # Inaktivera en kampanj {#turn-off-a-campaign}
 
@@ -21,7 +20,7 @@ Behöver du automatiskt avsluta en kampanj när en mottagare svarar? Så här g�
 
 ## Inaktivera en kampanj för en person {#turn-off-a-campaign-for-one-person}
 
-När du har skapat kampanjen går du till fliken **Inställningar** och väljer hur du vill att kampanjen ska fungera om någon svarar.
+När du har skapat din kampanj går du bara till **Inställningar** och välja hur ni vill att kampanjen ska fungera om någon svarar.
 
 Båda alternativen avslutar kampanjen och mottagaren får inga fler e-postmeddelanden från dig.
 

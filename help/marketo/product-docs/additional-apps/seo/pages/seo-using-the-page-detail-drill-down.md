@@ -3,7 +3,6 @@ unique-page-id: 2949186
 description: SEO - Använda detaljgranskning - Marketo Docs - produktdokumentation
 title: SEO - Använda detaljnivå för sidan nedåt
 exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '279'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# SEO - Använda detaljnivån {#seo-using-the-page-detail-drill-down}
+# SEO - Använda detaljnivå för sidan nedåt {#seo-using-the-page-detail-drill-down}
 
 Du kan se mycket information om dina sidor med detaljnivån nedåt.
 
@@ -29,7 +28,7 @@ Du kan se mycket information om dina sidor med detaljnivån nedåt.
 
    ![](assets/image2014-9-17-21-3a55-3a2.png)
 
-## Siddetaljsektion {#page-detail-section}
+## Siddetaljavsnitt {#page-detail-section}
 
 ![](assets/image2014-9-17-21-3a55-3a46.png)
 
@@ -44,9 +43,9 @@ Du kan se mycket information om dina sidor med detaljnivån nedåt.
 | Facebook gillar | Antal gånger som den här siddelningen har gillats på Facebook. |
 | Facebook Clicks | Antal klickningar från Facebook. |
 
-## Nyckelord som sidan är optimerad för {#keyword-s-that-page-is-optimized-for}
+## Nyckelord som sidan är optimerad för  {#keyword-s-that-page-is-optimized-for}
 
-Här [väljer du vilket nyckelord du vill optimera sidan för](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
+Här är du [välj vilket nyckelord du vill optimera sidan för](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
 
 >[!NOTE]
 >

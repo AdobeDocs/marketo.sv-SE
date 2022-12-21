@@ -1,15 +1,14 @@
 ---
 unique-page-id: 14352615
-description: Förstå fliken Innehåll - Marketo Docs - Produktdokumentation
+description: Förstå fliken Innehåll - Marketo Docs - produktdokumentation
 title: Fliken Innehåll
-translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+exl-id: dd3af0c5-72d7-4ced-a8c7-1900dd30ef3e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 
 ---
-
 
 # Fliken Innehåll {#understanding-the-content-tab}
 

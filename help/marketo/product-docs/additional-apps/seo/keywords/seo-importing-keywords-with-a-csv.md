@@ -3,7 +3,6 @@ unique-page-id: 2949206
 description: SEO - Importera nyckelord med en CSV - Marketo Docs - Produktdokumentation
 title: SEO - Importera nyckelord med en CSV-fil
 exl-id: 13957db8-3fbf-4267-a3ab-65a4978d8633
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '122'
@@ -11,15 +10,15 @@ ht-degree: 0%
 
 ---
 
-# SEO - Importera nyckelord med en CSV {#seo-importing-keywords-with-a-csv}
+# SEO - Importera nyckelord med en CSV-fil {#seo-importing-keywords-with-a-csv}
 
-1. Du kan [lägga till nyckelord](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manuellt, [hämta nyckelordsförslag](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) och även importera nyckelord från en CSV-fil. Så här gör du importen.
+1. Du kan [lägg till nyckelord](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manuellt, [hämta nyckelordsförslag](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) och till och med importera nyckelord från en CSV-fil. Så här gör du importen.
 
-1. Gå till avsnittet **Nyckelord**.
+1. Gå till **Nyckelord** -avsnitt.
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
 
-1. Klicka på **Importera**.
+1. Klicka **Importera**.
 
    ![](assets/image2014-9-18-11-3a44-3a36.png)
 
@@ -27,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-11-3a44-3a42.png)
 
-1. Klicka på **Välj Arkiv**.
+1. Klicka **Välj fil**.
 
    ![](assets/image2014-9-18-11-3a44-3a46.png)
 
@@ -35,7 +34,7 @@ ht-degree: 0%
    >
    >Importgränserna varierar beroende på din prenumeration. Kontakta din säljare om du vill ha mer information.
 
-1. Klicka på **Importera**.
+1. Klicka **Importera**.
 
    ![](assets/image2014-9-18-11-3a45-3a25.png)
 

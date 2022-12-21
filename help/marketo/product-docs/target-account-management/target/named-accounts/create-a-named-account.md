@@ -1,25 +1,24 @@
 ---
 unique-page-id: 12615781
-description: Skapa ett namngivet konto - Marketo Docs - Produktdokumentation
+description: Skapa ett namngivet konto - Marketo Docs - produktdokumentation
 title: Skapa ett namngivet konto
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 191ca1d2-8825-41ad-b8a0-53cf21526a91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-
 # Skapa ett namngivet konto {#create-a-named-account}
 
 Följ de här stegen för att skapa ett namngivet konto manuellt.
 
-1. I Namngivna konton klickar du på listrutan **Nytt** och väljer **Skapa namngivet konto**.
+1. I Namngivna konton klickar du på **Nytt** nedrullningsbar meny och välj **Skapa namngivet konto**.
 
    ![](assets/two-1.png)
 
-1. Fyll i önskade fält och klicka på **Skapa**.
+1. Fyll i önskade fält och klicka **Skapa**.
 
    ![](assets/three-1.png)
 

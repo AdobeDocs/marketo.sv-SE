@@ -32,16 +32,16 @@ Du kan prenumerera på meddelanden om du vill få dem via e-post.
 
    ![](assets/understanding-notifications-3.png)
 
-1. Markera meddelandetypen och ange den eller de e-postadresser som du vill att meddelanden ska skickas till (avgränsade med kommatecken). Klicka på **Prenumerera** när du är klar.
+1. Markera meddelandetypen och ange den eller de e-postadresser som du vill att meddelanden ska skickas till (avgränsade med kommatecken). Klicka **Prenumerera** när det är klart.
 
    ![](assets/understanding-notifications-4.png)
 
 >[!NOTE]
 >
->Området **Skicka till** är bara till för att du ska kunna ange din e-postadress, det visar inte en lista över befintliga prenumeranter.
+>The **skicka till** är bara till för att du ska kunna ange din e-postadress, den visar inte en lista över befintliga prenumeranter.
 
 I vissa fall visas ett meddelande med länken&quot;Se hela listan&quot; för att hämta en kommaavgränsad fil (CSV), t.ex. filen Microsoft Dynamics Sync Errors. Marketo sparar dessa CSV-filer i 30 dagar. Om du försöker hämta filen efter 30 dagar får du ett 404-fel.
 
 >[!TIP]
 >
->Vill du avbryta prenumerationen på e-postmeddelanden? Inga problem. Klicka bara på länken **unsubscribe from Notifications** längst ned i e-postmeddelandet.
+>Vill du avbryta prenumerationen på e-postmeddelanden? Inga problem. Klicka bara på **avbeställ meddelanden** längst ned i e-postmeddelandet.

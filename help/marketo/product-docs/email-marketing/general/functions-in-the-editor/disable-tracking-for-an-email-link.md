@@ -1,21 +1,20 @@
 ---
 unique-page-id: 1900579
-description: Inaktivera spårning för en e-postlänk - Marketo-dokument - Produktdokumentation
+description: Inaktivera spårning för en e-postlänk - Marketo Docs - produktdokumentation
 title: Inaktivera spårning för en e-postlänk
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
 
 ---
 
-
 # Inaktivera spårning för en e-postlänk {#disable-tracking-for-an-email-link}
 
-Ibland vill du inte aktivera URL:en **Marketo Tracking** för en länk i ett e-postmeddelande. Detta är användbart när målsidan inte stöder URL-parametrar och kan resultera i en bruten länk.
+Ibland vill du inte aktivera **Marketo Tracking URL** på en länk i ett e-postmeddelande. Detta är användbart när målsidan inte stöder URL-parametrar och kan resultera i en bruten länk.
 
-1. Markera e-postmeddelandet och klicka på **Redigera utkast**.
+1. Välj e-post och klicka **Redigera utkast**.
 
    ![](assets/one-7.png)
 
@@ -23,29 +22,29 @@ Ibland vill du inte aktivera URL:en **Marketo Tracking** för en länk i ett e-p
 
    ![](assets/two-6.png)
 
-1. Klicka på länken i fråga och klicka sedan på knappen **Infoga/redigera länk**.
+1. Klicka på länken i fråga och klicka sedan på **Infoga/redigera länk** -knappen.
 
    ![](assets/three-6.png)
 
-1. Avmarkera kryssrutan **Spåra länk** i popup-fönstret Redigera länk.
+1. Avmarkera alternativet i popup-fönstret Redigera länk **Spåra länk** kryssrutan.
 
    ![](assets/four-4.png)
 
-1. Du kommer att märka att rutan **Inkludera mkt_tok** försvinner. Klicka på **Använd**.
+1. Du kommer att märka **Inkludera mkt_tok, ruta** försvinner. Klicka **Använd**.
 
    ![](assets/five-3.png)
 
    >[!TIP]
    >
-   >Om du bara avmarkerar **Include mkt_tok** kan länken fortfarande spåras, men efter omdirigeringen kommer mål-URL:en inte att innehålla frågesträngsparametern mkt_tok. Den här parametern används av Marketo Landing Pages och Munchkin för att säkerställa korrekt spårning av personaktiviteter (som när en person säger upp prenumerationen på ett e-postmeddelande). Du bör undvika att använda den här funktionen om du inte ser något konstigt beteende på webbplatsen på grund av att parametern finns.
+   >Avmarkerar **Inkludera mkt_tok** tillåter fortfarande att länken spåras, men efter omdirigeringen kommer mål-URL:en inte att innehålla frågesträngsparametern mkt_tok. Den här parametern används av Marketo Landing Pages och Munchkin för att säkerställa korrekt spårning av personaktiviteter (som när en person säger upp prenumerationen på ett e-postmeddelande). Du bör undvika att använda den här funktionen om du inte ser något konstigt beteende på webbplatsen på grund av att parametern finns.
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/image2014-9-17-22-3a25-3a20.png)
 
    >[!TIP]
    >
-   >Vill du inaktivera klickspårning för en länk i ett e-postmeddelande **mall**? Använd det här formatet:
+   >Vill inaktivera klickspårning för en länk i ett e-postmeddelande **mall**? Använd det här formatet:
    >`<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`\
    >Kontakta din webbutvecklare om du behöver hjälp med att implementera detta.
 

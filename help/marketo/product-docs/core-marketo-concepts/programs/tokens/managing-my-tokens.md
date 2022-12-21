@@ -3,7 +3,6 @@ unique-page-id: 1147116
 description: Hantera mina token - Marketo Docs - produktdokumentation
 title: Hantera mina token
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '168'
@@ -13,11 +12,11 @@ ht-degree: 0%
 
 # Hantera mina token {#managing-my-tokens}
 
-Att använda variabler kan förenkla arbetet i Marketo. Du kan använda [Mina token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (anpassade tokens) i flödessteg, webbhooks, e-post och landningssidor. Så här skapar du dem.
+Att använda variabler kan förenkla arbetet i Marketo. Du kan använda [Mina token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (egna tokens) i flödessteg, webbhooks, e-post och landningssidor. Så här skapar du dem.
 
 >[!TIP]
 >
->Läs mer om vilka tokens som redan finns i [Översikt över token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md).
+>Läs mer om vilka variabler som redan är tillgängliga i [Översikt över token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md).
 
 ## Skapa en Min token {#create-a-my-token}
 
@@ -25,11 +24,11 @@ Att använda variabler kan förenkla arbetet i Marketo. Du kan använda [Mina to
 
    ![](assets/login-marketing-activities.png)
 
-1. Välj ett program eller en kampanjmapp. Klicka på **Mina token**.
+1. Välj ett program eller en kampanjmapp. Klicka **Mina token**.
 
    ![](assets/image2014-9-18-12-3a4-3a27.png)
 
-1. Välj en **Min token**-typ. Dra och släpp det på arbetsytan.
+1. Välj en **Min token** typ. Dra och släpp det på arbetsytan.
 
    ![](assets/image2014-9-18-12-3a4-3a39.png)
 
@@ -37,7 +36,7 @@ Att använda variabler kan förenkla arbetet i Marketo. Du kan använda [Mina to
 
    ![](assets/image2014-9-18-12-3a4-3a53.png)
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/image2014-9-18-12-3a5-3a5.png)
 
@@ -47,7 +46,7 @@ Att använda variabler kan förenkla arbetet i Marketo. Du kan använda [Mina to
 
 ## Redigera en Min token {#edit-a-my-token}
 
-1. Dubbelklicka på **Min token** och gör ändringarna. Klicka på **Spara**.
+1. Dubbelklicka på **Min token** och gör ändringarna. Klicka **Spara**.
 
    ![](assets/image2014-9-18-12-3a5-3a45.png)
 
@@ -61,7 +60,7 @@ Att använda variabler kan förenkla arbetet i Marketo. Du kan använda [Mina to
 
    ![](assets/image2014-9-18-12-3a7-3a24.png)
 
-1. Klicka på **Ta bort**.
+1. Klicka **Ta bort**.
 
    ![](assets/image2014-9-18-12-3a7-3a31.png)
 

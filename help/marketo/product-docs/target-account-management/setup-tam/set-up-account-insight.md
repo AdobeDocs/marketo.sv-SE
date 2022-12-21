@@ -1,17 +1,16 @@
 ---
 unique-page-id: 12979223
-description: Konfigurera Account Insight - Marketo Docs - Produktdokumentation
+description: Konfigurera Account Insight - Marketo Docs - produktdokumentation
 title: Ställ in kontoinsikter
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 50e24974-339b-4a42-b5ca-2e80ab47d313
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
-
-# Ställ in kontoinsikt {#set-up-account-insight}
+# Ställ in kontoinsikter {#set-up-account-insight}
 
 Så här konfigurerar du Account Insight.
 
@@ -19,15 +18,15 @@ Så här konfigurerar du Account Insight.
 >
 >TAM-kontopoäng [måste konfigureras](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) först.
 
-1. Klicka på **Admin**.
+1. Klicka **Administratör**.
 
    ![](assets/admin-1.png)
 
-1. Klicka på **Hantering av målkonto** i trädet och sedan på fliken **Försäljning**.
+1. Klicka **Hantering av målkonto** i trädet, och **Försäljning** -fliken.
 
    ![](assets/set-up-account-insight-2.png)
 
-1. Klicka på **Redigera**.
+1. Klicka **Redigera**.
 
    ![](assets/set-up-account-insight-3.png)
 
@@ -37,8 +36,8 @@ Så här konfigurerar du Account Insight.
 
    >[!NOTE]
    >
-   >Om [Kontopoängsinställningarna](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) uppdateras vid något tillfälle måste konfigurationen under Försäljning uppdateras av en administratör för att poängen ska återspegla användarens inställningar. Användaren måste logga ut och logga in igen för att se ändringarna.
+   >Om [Kontobakgrundsinställningar](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) konfigurationerna under Försäljning måste uppdateras av en administratör för att poängen ska återspegla användarens inställningar. Användaren måste logga ut och logga in igen för att se ändringarna.
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/five-4.png)

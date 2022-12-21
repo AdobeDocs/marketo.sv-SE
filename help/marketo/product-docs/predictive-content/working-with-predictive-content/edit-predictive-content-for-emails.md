@@ -1,15 +1,14 @@
 ---
 unique-page-id: 11385938
-description: Redigera prediktivt innehåll för e-post - Marketo Docs - Produktdokumentation
+description: Redigera prediktivt innehåll för e-post - Marketo Docs - produktdokumentation
 title: Redigera prediktivt innehåll för e-postmeddelanden
-translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%
 
 ---
-
 
 # Redigera prediktivt innehåll för e-postmeddelanden {#edit-predictive-content-for-emails}
 
@@ -23,7 +22,7 @@ Så här konfigurerar du ditt prediktiva innehåll för e-postmeddelanden.
 
    ![](assets/image2017-10-3-9-3a30-3a25.png)
 
-1. Redigeringssidan öppnas. **E-** postvisning visas som standard.
+1. Redigeringssidan öppnas. **E-post** visas som standard.
 
    ![](assets/image2017-10-3-9-3a31-3a18.png)
 
@@ -51,7 +50,7 @@ Så här konfigurerar du ditt prediktiva innehåll för e-postmeddelanden.
 
    ![](assets/five.png)
 
-1. Klicka och dra i skjutreglaget för att ändra bildstorleken. Klicka och dra sedan beskärningsrutan för att isolera det bildområde som du vill använda. Klicka på **Förhandsgranska** när du är klar.
+1. Klicka och dra i skjutreglaget för att ändra bildstorleken. Klicka och dra sedan beskärningsrutan för att isolera det bildområde som du vill använda. Klicka **Förhandsgranska** när det är klart.
 
    ![](assets/six.png)
 
@@ -60,7 +59,7 @@ Så här konfigurerar du ditt prediktiva innehåll för e-postmeddelanden.
    | ![](assets/sevena.png) | ![](assets/sevenb.png) |
    |---|---|
 
-1. Du kan också klicka på fältet **Kategorier** och lägga till kategorier i innehållet. Alternativen är från de [kategorier som du redan har konfigurerat](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
+1. Du kan också klicka på **Kategorier** och lägg till kategorier i innehållet. Alternativen finns i [kategorier som du redan har konfigurerat](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
 
    ![](assets/eight.png)
 
@@ -68,10 +67,10 @@ Så här konfigurerar du ditt prediktiva innehåll för e-postmeddelanden.
 
    ![](assets/nine.png)
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/save.png)
 
    >[!NOTE]
    >
-   >I Marketo Email Editor v2.0 kan du även [visa de layoutmallar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) som du använder när du aktiverar innehållet.
+   >I Marketo Email Editor v2.0 kan du även [visa layoutmallar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) du använder när du aktiverar innehållet.

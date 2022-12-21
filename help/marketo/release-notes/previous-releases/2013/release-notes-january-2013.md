@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Versionsinformation: Januari 2013 {#release-notes-january}
 
-Januariversionen utökar vårt sociala erbjudande med **Referenserbjudanden**. Dessutom kan användare av Marketo Lead Management ange inställningar för tidszon, språk och språkområde. Observera att funktioner som är markerade med * endast är tillgängliga i Select Edition.
+Januariversionen utökar vårt sociala utbud med **Referenserbjudanden**. Dessutom kan användare av Marketo Lead Management ange inställningar för tidszon, språk och språkområde. Observera att funktioner markerade med en &#42; finns endast i Select Edition.
 
 ## Referenserbjudanden {#referral-offers}
 
-Ett **hänvisningserbjudande** ger dina leads en anledning att hänvisa sina vänner. Skapa mål och belöningar för lyckade hänvisningar. Du kan använda den på landningssidor, på din webbplats och till och med på Facebook.
+A **Referenserbjudande** ger era leads en anledning att hänvisa sina vänner. Skapa mål och belöningar för lyckade hänvisningar. Du kan använda den på landningssidor, på din webbplats och till och med på Facebook.
 
 ![](assets/image2014-9-22-15-3a20-3a13.png)
 

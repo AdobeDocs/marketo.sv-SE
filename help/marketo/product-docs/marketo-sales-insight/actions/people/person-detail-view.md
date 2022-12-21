@@ -3,7 +3,8 @@ description: Persondetaljvy - Marketo Docs - produktdokumentation
 title: Persondetaljvy
 hide: true
 hidefromtoc: true
-source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
+exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
+source-git-commit: af968d119364172278d48873153a349a983133e4
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%

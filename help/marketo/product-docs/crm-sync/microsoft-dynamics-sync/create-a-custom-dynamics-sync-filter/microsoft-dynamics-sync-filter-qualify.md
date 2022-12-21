@@ -3,7 +3,6 @@ unique-page-id: 10092977
 description: Microsoft Dynamics Sync-filter -Kvalificera - Marketo Docs - Produktdokumentation
 title: Microsoft Dynamics Sync-filter -Kvalificera
 exl-id: 9b26795c-fc94-478e-a7f0-ac8e602792b1
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '122'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Synkroniseringsfilter för Microsoft Dynamics: Kvalificera {#microsoft-dynamics-sync-filter-qualify}
+# Microsoft Dynamics Sync-filter: Kvalificera {#microsoft-dynamics-sync-filter-qualify}
 
 När du vill konvertera ett lead till en kontakt i Microsoft Dynamics ska du använda den här standardprocessen för kvalificering. Synka sedan till Marketo.
 

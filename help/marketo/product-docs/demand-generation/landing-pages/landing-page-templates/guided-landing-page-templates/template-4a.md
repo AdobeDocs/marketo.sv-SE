@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Mall 4A {#template-4a}
 
-Högerklicka för att [hämta mall 4A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html)
+Högerklicka för att [ladda ned mall 4A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html)
 
 ![](assets/image2015-6-29-16-3a2-3a6.png)
 

@@ -2,14 +2,13 @@
 unique-page-id: 11384438
 description: TAM Report Setup - Marketo Docs - Product Documentation
 title: Inställningar för TAM-rapport
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
 
 ---
-
 
 # Inställningar för TAM-rapport {#tam-report-setup}
 
@@ -17,27 +16,27 @@ TAM:s försäljningsrapport är ett personligt e-postmeddelande som skickas till
 
 ## Rapportinställningar {#report-setup}
 
-1. Klicka på **Admin**.
+1. Klicka **Administratör**.
 
    ![](assets/one-3.png)
 
-1. Klicka på **Hantering av målkonto**.
+1. Klicka **Hantering av målkonto**.
 
    ![](assets/tam-report-setup-2.png)
 
-1. Klicka på **Redigera** under Veckorapport.
+1. Klicka på under Veckorapport **Redigera**.
 
    ![](assets/three-3.png)
 
-1. Klicka på listrutan **Dag** och välj den veckodag du vill att mottagarna ska ta emot e-postmeddelandet.
+1. Klicka på **Dag** och välj den dag i veckan som du vill att mottagarna ska få e-postmeddelandet.
 
    ![](assets/four-4.png)
 
-1. Om du vill fastställa layouten för e-postmeddelandet klickar du på listrutan **Sortera efter** och gör ett val.
+1. Klicka på knappen **Sortera efter** och gör en markering.
 
    ![](assets/five-3.png)
 
-1. Markera kryssrutan **Användare**, klicka sedan på listrutan och välj vem du vill få e-postmeddelandet.
+1. Kontrollera **Användare** markerar du kryssrutan och klickar sedan på listrutan och väljer vem du vill få e-postmeddelandet.
 
    ![](assets/six-2.png)
 
@@ -45,7 +44,7 @@ TAM:s försäljningsrapport är ett personligt e-postmeddelande som skickas till
    >
    >Meddelanden skickas endast till kontoägare eller teammedlemmar.
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/seven-2.png)
 
@@ -53,17 +52,17 @@ Och det är allt!
 
 ## Så här säger du upp prenumerationen {#how-to-unsubscribe}
 
-Varje rapport har möjligheten att avanmäla sig. Det gör du genom att klicka på **Avbeställ** längst ned i e-postmeddelandet.
+Varje rapport har möjligheten att avanmäla sig. Det gör du genom att klicka **Avbeställ** längst ned i e-postmeddelandet.
 
 ![](assets/eight-1.png)
 
-## Så här prenumererar du om {#how-to-resubscribe}
+## Så här återprenumererar du {#how-to-resubscribe}
 
-1. Klicka på **Admin**.
+1. Klicka **Administratör**.
 
    ![](assets/one-3.png)
 
-1. Klicka på **Hantering av målkonto**.
+1. Klicka **Hantering av målkonto**.
 
    ![](assets/tam-report-setup-10.png)
 
@@ -71,10 +70,10 @@ Varje rapport har möjligheten att avanmäla sig. Det gör du genom att klicka p
 
    ![](assets/nine.png)
 
-1. Klicka på listrutan **Användare**.
+1. Klicka på **Användare** nedrullningsbar meny.
 
    ![](assets/ten.png)
 
-1. Välj den användare som du vill ta emot e-postmeddelanden till igen och klicka på **Prenumerera**.
+1. Välj den användare som du vill ska få e-post igen och klicka på **Återprenumeration**.
 
    ![](assets/eleven.png)

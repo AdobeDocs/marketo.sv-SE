@@ -1,19 +1,18 @@
 ---
 unique-page-id: 10912178
-description: Konfigurera knappen Stäng och godkänn meddelandet Marketo Docs - Produktdokumentation
+description: Konfigurera knappen Stäng och godkänn meddelandet - Marketo Docs - Product Documentation
 title: Konfigurera knappen Stäng och godkänn meddelandet
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 0%
 
 ---
 
-
 # Konfigurera knappen Stäng och godkänn meddelandet {#set-up-the-dismiss-button-and-approve-the-message}
 
-## Konfigurera egenskaper för knappen Stäng {#configure-dismiss-button-properties}
+## Konfigurera egenskaper för knappen Stäng  {#configure-dismiss-button-properties}
 
 Knappen Stäng har många alternativ som du kan använda för att konfigurera den som du vill.
 
@@ -21,7 +20,7 @@ Knappen Stäng har många alternativ som du kan använda för att konfigurera de
 
    ![](assets/image2016-5-9-10-3a23-3a37.png)
 
-1. Om du vill ändra knappfärgen klickar du på färgmarkeringsrutan. Välj en färg genom att klicka på den eller genom att ange Hex- eller RGB-värden i färgväljaren. Svart är standard.
+1. Om du vill ändra knappfärgen klickar du på färgmarkeringsrutan. Välj en färg genom att klicka på den eller genom att ange siffervärdena för Hex eller RGB i färgväljaren. Svart är standard.
 
    ![](assets/image2016-5-9-10-3a33-3a17.png)
 
@@ -49,7 +48,7 @@ Knappen Stäng har många alternativ som du kan använda för att konfigurera de
 
 Alla dina val för grafik, text och knappar har sparats automatiskt. Nu är du redo att avsluta jobbet.
 
-1. Om du vill förhandsgranska ditt meddelande i appen klickar du på listrutan **Meddelandeåtgärder** och väljer **Förhandsgranska**.
+1. Klicka på knappen **Meddelandeåtgärder** nedrullningsbar meny och välj **Förhandsgranska**.
 
    ![](assets/image2016-5-9-10-3a58-3a38.png)
 
@@ -63,7 +62,7 @@ Alla dina val för grafik, text och knappar har sparats automatiskt. Nu är du r
 
    >[!NOTE]
    >
-   >Du kan också välja **Godkänn och stäng** direkt i listrutan Meddelandeåtgärder (se steg 1), men varför inte förhandsgranska meddelandet först, bara för att vara säker?
+   >Du kan också välja **Godkänn och stäng** direkt från listrutan Meddelandeåtgärder (se steg 1), men varför inte förhandsgranska meddelandet först, bara för att vara säkert?
 
 1. Stäng fliken om du vill stänga redigeraren utan att godkänna. Den sparas automatiskt så att du kan returnera och godkänna den senare.
 

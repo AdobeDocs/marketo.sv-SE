@@ -31,7 +31,7 @@ Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion
 **ToutApp**
 
 * **Kompatibilitetskort**: GDPR-kompatibiliteten säkerställs genom att källan till säljkontakter och information om kundens samtycke för att ta emot kommunikation hämtas.
-* **Uppdatering** av lösenordsprincip: Skydda era data med striktare krav för att skapa, återställa och förfalla lösenord (uppfyller kraven för SOC II - Type 1).
+* **Uppdatering av lösenordsprincip**: Skydda era data med striktare krav för att skapa, återställa och förfalla lösenord (uppfyller kraven för SOC II - Type 1).
 * **Effektivare kontoinställning**: Konfigurera och anslut ditt konto till Gmail, Outlook och andra system snabbare.
 
 ## Marketo Sky Open Beta {#marketo-sky-open-beta}

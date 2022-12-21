@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2949154
-description: Märk era webbkampanjer - Marketo Docs - Produktdokumentation
+description: Märka era webbkampanjer - Marketo Docs - Produktdokumentation
 title: Märka webbkampanjer
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+exl-id: 891772c8-dc4d-46a4-b254-4baf0a74f9de
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
-
-# Märk upp dina webbkampanjer {#label-your-web-campaigns}
+# Märka webbkampanjer {#label-your-web-campaigns}
 
 Har ni så många kampanjer att rullningen blir krånglig? Använd etiketter för att tagga era kampanjer, så att ni kan sortera dem och snabbt hitta dem.
 
-## Lägg till en etikett i en webbkampanj {#add-a-label-to-a-web-campaign}
+## Lägga till en etikett i en webbkampanj {#add-a-label-to-a-web-campaign}
 
 1. Logga in på Webbanpassning och gå till Web Campaigns.
 
@@ -23,7 +22,7 @@ Har ni så många kampanjer att rullningen blir krånglig? Använd etiketter fö
 
    >[!NOTE]
    >
-   >Använd filterfunktionen [](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md) för att göra det enklare att hitta kampanjen du vill ha.
+   >Om du vill göra det enklare att hitta den kampanj du vill ha använder du [filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Välj de kampanjer du vill tagga med en etikett.
 

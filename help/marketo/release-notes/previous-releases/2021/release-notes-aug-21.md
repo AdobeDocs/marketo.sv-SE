@@ -15,7 +15,7 @@ Följande funktioner finns i versionen från 21 augusti. Se om det finns funktio
 
 >[!AVAILABILITY]
 >
->Funktioner som anges av en stjärna (![](assets/yellow-star.png)) är betalda tillägg. Kontakta din representant för Adobe Marketo Engage för mer information.
+>Funktioner som anges av en stjärna (![](assets/yellow-star.png)) är betalda tillägg. Kontakta Adobe Marketo Engage om du vill veta mer.
 
 **_Kvartalsvisa releaser_**
 

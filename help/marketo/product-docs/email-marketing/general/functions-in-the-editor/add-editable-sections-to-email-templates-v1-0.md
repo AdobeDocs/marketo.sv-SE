@@ -1,19 +1,18 @@
 ---
 unique-page-id: 1900585
-description: Lägg till redigerbara avsnitt i e-postmallar v1.0 - Marketo Docs - Produktdokumentation
+description: Lägg till redigerbara avsnitt i e-postmallar v1.0 - Marketo Docs - produktdokumentation
 title: Lägg till redigerbara avsnitt i e-postmallar v1.0
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: f397aa8e-0d0b-4007-91e1-9b9158bd6432
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
-
 # Lägg till redigerbara avsnitt i e-postmallar v1.0 {#add-editable-sections-to-email-templates-v1.0}
 
-Om du skapar en mall i e-postmallsredigeraren v1.0 kan du göra alla avsnitt redigerbara genom att placera en `<div>`-special runt den.
+Om du skapar en mall i e-postmallsredigeraren v1.0 kan du göra alla avsnitt redigerbara genom att ange en `<div>` runt den.
 
 >[!NOTE]
 >
@@ -23,13 +22,13 @@ Om du skapar en mall i e-postmallsredigeraren v1.0 kan du göra alla avsnitt red
 
 Regler:
 
-1. HTML-koden måste alltid vara giltig.
-1. Klassen **mktEditable** måste inkluderas.
-1. ID:t måste vara unikt i den HTML-koden.
+1. HTML måste alltid vara giltigt.
+1. Klassen för **mktEditable** måste inkluderas.
+1. ID:t måste vara unikt i den HTML.
 1. Inga blanksteg i ID:t.
 
 >[!CAUTION]
 >
 >mktEditable-satser kan inte kapslas.
 
-Om du vill lära dig hur du gör detta i e-postmallsredigeraren v2.0 kan du gå till [e-postmallens syntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md).
+Om du vill veta hur du gör detta i e-postmallsredigeraren v2.0 kan du kolla [e-postmallssyntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md).

@@ -172,11 +172,11 @@ När du uppdaterar språket ändras allt i själva programmet utom orden som du 
  <tr>
   <td>Engagerade konversationer</td>
   <td>Antal chattkonversationer som webbesökare kan interagera med per dag</td>
-  <td>1 000</td>
+  <td>1,000</td>
  </tr>
  <tr>
   <td>Konversationer utlösta</td>
   <td>Antal chattsamtal som kan visas för webbbesökare per dag</td>
-  <td>25 000</td>
+  <td>25,000</td>
  </tr>
 </table>

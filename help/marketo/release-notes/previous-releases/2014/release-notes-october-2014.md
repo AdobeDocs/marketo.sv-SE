@@ -5,7 +5,7 @@ title: Versionsinformation -oktober 2014
 exl-id: 698b4efd-ee14-459e-83a9-d06652099040
 source-git-commit: 297ff02ba2c1173cabfecdef283e97c87c922480
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---

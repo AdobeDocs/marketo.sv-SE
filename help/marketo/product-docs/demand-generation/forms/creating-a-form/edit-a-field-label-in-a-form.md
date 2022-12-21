@@ -2,14 +2,13 @@
 unique-page-id: 2359566
 description: Redigera en fältetikett i ett formulär - Marketo Docs - Produktdokumentation
 title: Redigera en fältetikett i ett formulär
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
 
 ---
-
 
 # Redigera en fältetikett i ett formulär {#edit-a-field-label-in-a-form}
 
@@ -23,24 +22,24 @@ Du kan ändra etiketten för ett formulär till vad som helst - du kan till och 
 
    ![](assets/image2014-9-15-17-3a26-3a27.png)
 
-1. Markera fältet och redigera sedan **etiketten**. Fälten i Formulärinställningar motsvarar de etiketter du har angett.
+1. Markera fältet och redigera sedan **Etikett**. Fälten i Formulärinställningar motsvarar de etiketter du har angett.
 
    ![](assets/image2014-9-15-17-3a26-3a42.png)
 
    >[!TIP]
    >
-   >Om du vill bli snygg kan du klicka på ![pennan](assets/image2014-9-15-17-3a27-3a7.png). Då öppnas en textredigerare med bilder, länkar med mera.
+   >Om du vill bli snygg kan du klicka på ![penna](assets/image2014-9-15-17-3a27-3a7.png). Då öppnas en textredigerare med bilder, länkar med mera.
 
-1. Klicka på **Slutför**.
+1. Klicka **Slutför**.
 
    ![](assets/image2014-9-15-17-3a27-3a26.png)
 
-1. Klicka på **Godkänn och stäng**.
+1. Klicka **Godkänn och stäng**.
 
    ![](assets/image2014-9-15-17-3a27-3a44.png)
 
 >[!NOTE]
 >
->Glöm inte att [godkänna landningssidans utkast](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som skapats av formulärändringarna.
+>Glöm inte att [godkänna utkastet till landningssida](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som har skapats av formulärändringarna.
 
 Där har du den! Litet för barn blir du en mästare på att skapa formulär.

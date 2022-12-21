@@ -3,7 +3,6 @@ unique-page-id: 4720779
 description: Förstå mappar - Marketo Docs - produktdokumentation
 title: Om mappar
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '277'
@@ -11,13 +10,13 @@ ht-degree: 0%
 
 ---
 
-# Förstå mappar {#understanding-folders}
+# Om mappar {#understanding-folders}
 
 Mappar i ett program kan användas för att ordna smarta kampanjer och resurser. Dessa skiljer sig från [kampanjmappar](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
 
 ## Skapa en mapp {#create-a-folder}
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter** område.
 
    ![](assets/ma.png)
 
@@ -25,7 +24,7 @@ Mappar i ett program kan användas för att ordna smarta kampanjer och resurser.
 
    ![](assets/image2015-4-20-18-3a45-3a14.png)
 
-1. Ge den nya mappen ett namn och tryck på **Enter**.
+1. Namnge den nya mappen och tryck på **Retur**.
 
    ![](assets/image2015-4-20-18-3a46-3a57.png)
 
@@ -39,7 +38,7 @@ Det är okej att ändra sig.
 
    ![](assets/image2015-4-20-18-3a49-3a10.png)
 
-1. Skriv ett nytt namn och tryck på **Enter**.
+1. Skriv ett nytt namn och tryck på **Retur**.
 
    ![](assets/image2015-4-20-18-3a52-3a30.png)
 
@@ -70,7 +69,7 @@ När du arkiverar en mapp:
 * Arkiverade mallar är inte tillgängliga när du skapar e-post eller landningssidor i Design Studio
 * Arkiverade sidor kan inte användas i testgrupper för landningssidor
 
-Funktioner som **inte** ändras vid arkivering:
+Funktioner som **not** ändras vid arkivering:
 
 * Global sökning hittar fortfarande resultat i arkiverade mappar
 * En resurs som används fortsätter att fungera även efter att den har arkiverats

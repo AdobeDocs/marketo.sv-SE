@@ -3,7 +3,6 @@ unique-page-id: 2359906
 description: Hantera Marketo-användare - Marketo Docs - produktdokumentation
 title: Hantera Marketo-användare
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '342'
@@ -15,23 +14,23 @@ ht-degree: 0%
 
 ## Skapa användare {#create-users}
 
-1. Gå till **Admin** och klicka på **Användare och roller**.
+1. Gå till **Administratör** och klicka **Användare och roller**.
 
    ![](assets/image2014-9-9-11-3a34-3a58.png)
 
-1. Klicka på **Bjud in ny användare**.
+1. Klicka **Bjud in ny användare**.
 
    ![](assets/image2014-9-9-11-3a35-3a15.png)
 
-1. Ange **e-postadress**, **Förnamn** och **Efternamn**.
+1. Ange **E-postadress**, **Förnamn** och **Efternamn**.
 
    ![](assets/image2016-5-24-9-3a45-3a30.png)
 
-1. Du kan också ange en orsak till inbjudan och välja ett förfallodatum i fältet **Åtkomst förfaller** med datumväljaren.
+1. Du kan också ange en orsak till inbjudan och välja ett förfallodatum i dialogrutan **Åtkomst upphör** med datumväljaren.
 
    ![](assets/image2016-6-29-15-3a52-3a18.png)
 
-1. Klicka på **Nästa**.
+1. Klicka **Nästa**.
 
    ![](assets/image2016-5-24-9-3a58-3a10.png)
 
@@ -43,11 +42,11 @@ ht-degree: 0%
    >
    >När förfallodatumet inkommer får användaren ett meddelande om förfallodatum och kontot är låst.
 
-1. Välj **Roll** och klicka på **Nästa**.
+1. Välj **Roll** efter eget val och klicka **Nästa**.
 
    ![](assets/image2016-5-24-10-3a1-3a33.png)
 
-1. Redigera inbjudningsmeddelandet om det behövs. Klicka på **Skicka**.
+1. Redigera inbjudningsmeddelandet om det behövs. Klicka **Skicka**.
 
    ![](assets/image2016-5-24-10-3a3-3a56.png)
 
@@ -73,7 +72,7 @@ Den nya användaren visas nu på fliken Användare och får ett e-postmeddelande
 
    ![](assets/image2014-9-9-11-3a36-3a36.png)
 
-1. Bekräfta genom att klicka på **OK**.
+1. Bekräfta genom att klicka **OK**.
 
    ![](assets/image2014-9-9-11-3a36-3a51.png)
 
@@ -83,11 +82,11 @@ Den nya användaren visas nu på fliken Användare och får ett e-postmeddelande
 
    ![](assets/image2014-9-9-11-3a41-3a0.png)
 
-1. Markera en användare och klicka på **Återställ lösenord**.
+1. Välj en användare och klicka på **Återställ lösenord**.
 
    ![](assets/image2014-9-9-11-3a41-3a19.png)
 
-1. Klicka på **Stäng** för att stänga frågan.
+1. Klicka **Stäng** för att stänga uppmaningen.
 
    ![](assets/image2014-9-9-11-3a41-3a50.png)
 
@@ -101,15 +100,15 @@ Användaren får ett e-postmeddelande med instruktioner för lösenordsåterstä
 
 ## Ändra behörigheter och redigera användarinformation {#change-permissions-and-edit-user-information}
 
-1. Gå till **Admin** och klicka på **Användare och roller.**
+1. Gå till **Administratör** och klicka **Användare och roller.**
 
    ![](assets/image2014-9-9-11-3a37-3a5.png)
 
-1. Markera en användare och klicka på **Redigera användare**.
+1. Välj en användare och klicka på **Redigera användare**.
 
    ![](assets/image2014-9-9-11-3a37-3a16.png)
 
-1. Du kan redigera användarinformation och ändra den associerade rollen. Klicka på **Spara**.
+1. Du kan redigera användarinformation och ändra den associerade rollen. Klicka **Spara**.
 
    ![](assets/image2014-9-9-11-3a37-3a31.png)
 

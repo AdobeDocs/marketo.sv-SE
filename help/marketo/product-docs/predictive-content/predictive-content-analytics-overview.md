@@ -1,17 +1,16 @@
 ---
 unique-page-id: 12981204
-description: Översikt över prediktiv innehållsanalys - Marketo Docs - Produktdokumentation
+description: Predictive Content Analytics Overview - Marketo Docs - Product Documentation
 title: Översikt över prediktiv innehållsanalys
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 0%
 
 ---
 
-
-# Översikt över analys av prediktivt innehåll {#predictive-content-analytics-overview}
+# Översikt över prediktiv innehållsanalys {#predictive-content-analytics-overview}
 
 Använd innehållsanalys för att få ytterligare insikter i ert befintliga innehåll, lär dig (baserat på AI och prediktiva algoritmer) vilket innehåll som fungerar för era målgrupper och öka avkastningen från era marknadsföringssatsningar.
 
@@ -21,7 +20,7 @@ Använd innehållsanalys för att få ytterligare insikter i ert befintliga inne
 
 ## Översikt {#overview}
 
-På sidan Sammanfattning klickar du på **Analytics**.
+På sidan Sammanfattning klickar du på **Analyser**.
 
 ![](assets/one.png)
 
@@ -45,13 +44,13 @@ Klicka på kalenderikonen om du vill ändra datumen för speglade data. Välj en
 
 ![](assets/dates.png)
 
-## Övre innehåll efter vyer {#top-content-by-views}
+## Övre innehåll efter vy {#top-content-by-views}
 
 Visar det översta innehållet i antal vyer per valt datumintervall.
 
 ![](assets/new-6.png)
 
-## Övre innehåll efter konverteringsfrekvens {#top-content-by-conversion-rate}
+## Övre innehåll efter konverteringsgrad {#top-content-by-conversion-rate}
 
 Visar det översta konverteringsinnehållet efter konverteringsgrad för det valda datumintervallet.
 
@@ -65,7 +64,7 @@ Visar det översta konverteringsinnehållet efter konverteringsgrad för det val
 
 ## Trendinnehåll {#trending-content}
 
-Visar en ökning av populariteten för en del av innehållet genom att titta på den senaste tvåveckorsökningen av visningar jämfört med samma föregående period.
+Visar hur populärare en del av innehållet har blivit genom att titta på den senaste tvåveckorsökningen av visningar jämfört med samma föregående period.
 
 ![](assets/new-8.png)
 

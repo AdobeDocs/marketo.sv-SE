@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359459
-description: Skapa ett kodfragment - Marketo Docs - Produktdokumentation
+description: Skapa ett utdrag - Marketo Docs - produktdokumentation
 title: Skapa ett fragment
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 8483ed35-3763-42b6-bfd9-55e0a69a66cc
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
-
 # Skapa ett fragment {#create-a-snippet}
 
-Fragment kan användas som dynamiska innehållsblock på **e-postmeddelanden** och **landningssidor**.
+Kodavsnitt kan användas som dynamiska innehållsblock på **e-post** och **landningssidor**.
 
 1. Gå till **Design Studio.**
 
    ![](assets/designstudio.png)
 
-1. Klicka på **Nytt** och **Nytt fragment**.
+1. Klicka **Nytt** och sedan **Nytt fragment**.
 
    ![](assets/image2014-9-16-8-50-4.png)
 
@@ -27,7 +26,7 @@ Fragment kan användas som dynamiska innehållsblock på **e-postmeddelanden** o
 
    ![](assets/image2014-9-16-8-3a50-3a14.png)
 
-Bra jobbat! Förenkla arbetet genom att skapa utdrag för dynamiskt innehåll. Nu kan du fortsätta och [lägga till innehåll i det nya fragmentet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md).
+Bra jobbat! Förenkla arbetet genom att skapa utdrag för dynamiskt innehåll. Nu kan du [lägga till innehåll i det nya fragmentet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md).
 
 >[!MORELIKETHIS]
 >

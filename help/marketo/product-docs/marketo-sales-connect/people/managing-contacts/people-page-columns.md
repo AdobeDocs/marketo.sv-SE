@@ -1,15 +1,14 @@
 ---
 unique-page-id: 30081307
-description: People page columns - Marketo Docs - Product Documentation
+description: Sidkolumner - Marketo Docs - produktdokumentation
 title: Sidkolumner för personer
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # Sidkolumner för personer {#people-page-columns}
 
@@ -21,7 +20,7 @@ Du kan anpassa vilken kontaktinformation du ser genom att välja vilka kolumner 
 
    ![](assets/one-5.png)
 
-1. Bläddra igenom och markera önskade kolumner (du kan också klicka på **Markera alla** om du vill ha alla kolumner). Klicka utanför listan när du är klar.
+1. Bläddra igenom och markera önskade kolumner (du kan också klicka **Markera alla** om du vill ha alla kolumner). Klicka utanför listan när du är klar.
 
    ![](assets/two-4.png)
 
@@ -50,7 +49,7 @@ Du kan anpassa vilken kontaktinformation du ser genom att välja vilka kolumner 
    <td colspan="1">E-postadress</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Telefon</td> 
+   <td colspan="1">Tel.</td> 
    <td colspan="1">Telefonnummer</td> 
   </tr> 
   <tr> 
@@ -126,7 +125,7 @@ Du kan anpassa vilken kontaktinformation du ser genom att välja vilka kolumner 
    <td>Grupper som personen är en del av</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Avbeställ</td> 
+   <td colspan="1">Avprenumererad</td> 
    <td colspan="1">Avbeställningsstatus</td> 
   </tr> 
  </tbody> 

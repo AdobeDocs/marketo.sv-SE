@@ -3,7 +3,8 @@ description: Enstaka flödesåtgärder från personinformationssidan - Marketo D
 title: Enstaka flödesåtgärder från personinformationssidan
 hide: true
 hidefromtoc: true
-source-git-commit: e1dd2fe2300e1350e616c46dcaf53ced12c6581a
+exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 Förutom att köra enskilda flödesåtgärder från en smart lista kan du även köra dem direkt på en personinformationssida.
 
-1. Klicka på **Databas**.
+1. Klicka **Databas**.
 
    ![](assets/single-flow-actions-from-person-detail-page-1.png)
 
@@ -22,11 +23,11 @@ Förutom att köra enskilda flödesåtgärder från en smart lista kan du även 
 
    ![](assets/single-flow-actions-from-person-detail-page-2.png)
 
-1. Klicka på listrutan **Personåtgärder** och välj önskat flödessteg. I det här exemplet använder vi [Skicka e-post](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md).
+1. Klicka på **Personåtgärder** och välj önskat flödessteg. I det här exemplet kommer vi att använda [Skicka e-post](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md).
 
    ![](assets/single-flow-actions-from-person-detail-page-3.png)
 
-1. Markera önskat e-postmeddelande och klicka på **Kör nu**.
+1. Välj önskad e-postadress och klicka på **Kör nu**.
 
    ![](assets/single-flow-actions-from-person-detail-page-4.png)
 

@@ -22,7 +22,7 @@ Följande funktioner ingår i aprilversionen 2015. Kontrollera om det finns funk
 >
 >Den här funktionen kommer att släppas tisdagen den 28 april.
 
-Den nya [startsidan för analyser](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) ger snabb åtkomst för att köra ad hoc-rapporter över tillgängliga rapporttyper.
+Den nya [Startsida för analyser](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) ger snabb åtkomst för att köra ad hoc-rapporter över tillgängliga rapporttyper.
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
@@ -40,7 +40,7 @@ Med Marketo Mobile Engagement är det enkelt att leverera övertygande mobiluppl
 
 [Integrering av linkedIn Lead Accelerator](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-Utvidga er strategi för huvudnäring till betalannonsering och social annonsering. Med [annonsens nätverksintegrering](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) med LinkedIn Lead Accelerator kan du på ett säkert sätt skapa ett målgruppssegment i LinkedIn baserat på medlemmarna i en smart eller statisk lista. Medlemmar i LinkedIn målgruppssegment kan sedan hanteras med en rad relevanta annonser.
+Utvidga er strategi för huvudnäring till betalannonsering och social annonsering. The [integrering med annonsnätverk](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) med LinkedIn Lead Accelerator kan du på ett säkert sätt skapa ett målgruppssegment i LinkedIn baserat på medlemmarna i en smart eller statisk lista. Medlemmar i LinkedIn målgruppssegment kan sedan hanteras med en rad relevanta annonser.
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 
@@ -50,8 +50,8 @@ Dina favoritfunktioner i Sales Insight - lead feed, best bets, intressanta ögon
 
 ![](assets/image2015-4-20-11-3a11-3a37.png) ![](assets/image2015-4-20-11-3a15-3a16.png)
 
-## RTP - kontobaserad marknadsanalys {#rtp-account-based-marketing-analytics}
+## RTP - Account-Based Marketing Analytics {#rtp-account-based-marketing-analytics}
 
-**RTP - kontobaserad marknadsanalys**
+**RTP - Account-Based Marketing Analytics**
 
 Få direkt insyn i prestanda för dina huvudlistor med namngivna konton baserat på varje fas i köpcykeln, med den nya prestandagrafen för dina listor med namngivna konton. I diagrammet visas hur långt besöket från nyckelorganisationen har kommit, från medvetenhet till handling, baserat på antalet besök och besökarens status.

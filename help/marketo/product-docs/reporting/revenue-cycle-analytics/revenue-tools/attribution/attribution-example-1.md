@@ -1,22 +1,21 @@
 ---
 unique-page-id: 7514126
-description: Attribution Example 1 - Marketo Docs - produktdokumentation
+description: Attribution Example 1 - Marketo Docs - Product Documentation
 title: Attribut - exempel 1
-translation-type: tm+mt
-source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
+exl-id: 851cbad3-0f6d-4ea0-857f-8b15337c7540
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
-
-# Attributionsexempel 1 {#attribution-example}
+# Attribut - exempel 1 {#attribution-example}
 
 Läs följande scenario och försök fastställa vilka tal som ska finnas i rutnätet.
 
 * 11 april | Fred förvärvas av (Tradeshow)
-* 15 april | Margo-deltagare (webbinarium) - klar
+* 15 april | Marknadsdeltagare (webbinarium) - lyckade
 * 22 april | Fred är associerad (roll) med affärsmöjligheten
 * 22 april | Affärsmöjlighet skapas för $3 000
 
@@ -33,7 +32,7 @@ Läs följande scenario och försök fastställa vilka tal som ska finnas i rutn
 >
 >**Förklaring**
 >
->För det första är att förstå att vissa typer är COUNTS och andra är VALUTA. Opty Created är ett antal, ett heltal. Pipeline är en valuta. I Marketo anpassas valutan efter inställningarna för administratörens språkområde.
+>För det första är att förstå att vissa typer är COUNTS och andra är VALUTA. Opty Created är ett antal, ett heltal. Pipeline är en valuta. I Marketo anpassas valutan efter dina inställningar för administratörens språkområde.
 >
 >Orsaken till att Tradeshow fick all kredit är att Margo inte var associerad med en roll i affärsmöjligheten. Ingen roll, ingen kredit.
 

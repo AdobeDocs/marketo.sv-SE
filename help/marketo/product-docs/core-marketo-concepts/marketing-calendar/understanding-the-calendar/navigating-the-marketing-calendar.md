@@ -3,7 +3,6 @@ unique-page-id: 1147257
 description: Navigera i marknadsföringskalendern - Marketo Docs - produktdokumentation
 title: Navigera i marknadsföringskalendern
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '165'
@@ -17,9 +16,9 @@ Det är enkelt att navigera runt i marknadsföringskalendern som en, två, tre!
 
 >[!PREREQUISITES]
 >
->Kontrollera att du har en [licens för marknadsföringskalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) - annars visas inte rutan för marknadsföringskalender i Min Marketo.
+>Kontrollera att du har en [Licens för marknadsföringskalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) - annars visas inte Marketing Calendar-panelen i My Marketo.
 
-1. Gå till **marknadsföringskalendern**.
+1. Gå till **Marknadsföringskalender**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
@@ -29,7 +28,7 @@ Det är enkelt att navigera runt i marknadsföringskalendern som en, två, tre!
 
 ## Ändra mellan lägen {#change-between-modes}
 
-1. Klicka på flikarna **3 veckor** eller **Månad** för att växla mellan lägena.
+1. Klicka på **3 veckor** eller **Månad** för att växla mellan lägen.
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
@@ -37,11 +36,11 @@ Det är enkelt att navigera runt i marknadsföringskalendern som en, två, tre!
 
 I dagordningsvyn visas alla dina bidrag som en lista.
 
-1. Klicka på listrutan **Filter**.
+1. Klicka på **Listruta för filter**.
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-1. Välj vyn **Dagordning**.
+1. Välj **Dagordning** vy.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 

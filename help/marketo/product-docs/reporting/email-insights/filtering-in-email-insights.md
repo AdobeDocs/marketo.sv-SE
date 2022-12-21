@@ -1,15 +1,14 @@
 ---
 unique-page-id: 10099798
-description: Filtrera i e-postinsikter - Marketo Docs - Produktdokumentation
+description: Filtrering i e-postinsikter - Marketo Docs - produktdokumentation
 title: Filtrera i e-postinsikter
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
 
 ---
-
 
 # Filtrera i e-postinsikter {#filtering-in-email-insights}
 
@@ -59,10 +58,10 @@ Välj bland vanliga förinställda datumintervall, välj specifika datum och anv
 
 >[!NOTE]
 >
->Datumintervall gäller för både sidan Analytics (Analyser) och sidan Send (Skickar). Alternativet **Jämför** kan bara användas på Analytics-sidan.
+>Datumintervall gäller för både sidan Analytics (Analyser) och sidan Send (Skickar). The **Jämför** kan dock bara användas på Analytics-sidan.
 
 ## Kontobaserad marknadsföring {#account-based-marketing}
 
-Om du använder [Hantering av målkonto](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) finns det filter som är specifika för dig.
+Om du använder [Hantering av målkonto](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), finns det filter som är speciellt för dig.
 
 ![](assets/abm.png)

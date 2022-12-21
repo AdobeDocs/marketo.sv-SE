@@ -2,40 +2,39 @@
 unique-page-id: 2359665
 description: Set Stream Cadence - Marketo Docs - produktdokumentation
 title: Ange strömavslut
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
 
 ---
 
-
-# Ange strömbrytare {#set-stream-cadence}
+# Ange strömavslut {#set-stream-cadence}
 
 Ni kan skicka engagemangsinnehåll när ni vill. Till exempel: en gång i veckan, eller var tredje tisdag i månaden.
 
-## Ange Cadence {#set-cadence}
+## Ange hörnpunkt {#set-cadence}
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Hitta och välj ditt engagemangsprogram, klicka på fliken **Streams** och klicka sedan på **Set Stream Cadence**.
+1. Hitta och välj engagemangsprogram genom att klicka på **Strömmar** tabbtangenten och sedan klicka **Ange strömavslut**.
 
    ![](assets/selectstreamcadence.jpg)
 
-1. Välj hur ofta du vill att cadence ska upprepas. Du kan välja **Varje vecka** eller **Varje månad**.
+1. Välj hur ofta du vill att cadence ska upprepas. Du kan välja **Vecka** eller **Månadsvis**.
 
 ## Vecka {#weekly}
 
-1. Välj **Veckovis**.
+1. Välj **Vecka**.
 
    ![](assets/image2017-12-5-14-3a9-3a43.png)
 
    >[!NOTE]
    >
-   >Om du väljer **Ingen** stängs strömmen av.
+   >Markera **Ingen** stänger av strömmen.
 
 1. Välj datum för den första omgången.
 
@@ -51,9 +50,9 @@ Ni kan skicka engagemangsinnehåll när ni vill. Till exempel: en gång i veckan
 
    >[!TIP]
    >
-   >Du kan ange att din cadence ska köras varje dag genom att välja **Upprepningar: Varje vecka** / **varje: 1 vecka** / **Den**: alla dagar.
+   >Du kan ställa in att din cadence ska köras varje dag genom att välja **Upprepningar: Vecka** / **Varje: 1 vecka** / **På**: alla dagar.
 
-   Välj tid nu. Markera rutan om du vill använda [Mottagarens tidszon](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)(d.v.s. leverera enligt lokala tidszoner) och klicka sedan på **Spara**.
+   Välj tid nu. Markera rutan om du vill använda den [Mottagarens tidszon](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)(d.v.s. leverera i enlighet med lokala tidszoner) och klicka sedan på **Spara**.
 
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
@@ -71,9 +70,9 @@ Ni kan skicka engagemangsinnehåll när ni vill. Till exempel: en gång i veckan
 
 Så ja! Fortsätt läsa om du vill konfigurera en månadskurs.
 
-## Varje månad {#monthly}
+## Månadsvis {#monthly}
 
-1. Välj **Månadsvis** om du vill se hur ofta den upprepas.
+1. Välj **Månadsvis** för hur ofta det upprepas.
 
    ![](assets/image2014-9-15-16-3a30-3a15.png)
 
@@ -93,7 +92,7 @@ Så ja! Fortsätt läsa om du vill konfigurera en månadskurs.
    >
    >Du kan också välja veckodag.
 
-1. Välj en **tid** och klicka på **Spara**.
+1. Välj en **Tid** och klicka **Spara**.
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 

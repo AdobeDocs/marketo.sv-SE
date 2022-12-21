@@ -3,7 +3,6 @@ unique-page-id: 1146976
 description: Använd ett specifikt datum i ett vänteflödessteg - Marketo Docs - produktdokumentation
 title: Använd ett specifikt datum i ett vänteflödessteg
 exl-id: d6ef26a4-8c9a-4f40-9e80-dcb3921a427f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '109'
@@ -13,9 +12,9 @@ ht-degree: 0%
 
 # Använd ett specifikt datum i ett vänteflödessteg {#use-a-specific-date-in-a-wait-flow-step}
 
-Du kan använda flödessteget **Wait** för att pausa en persons resa genom en smart kampanj tills ett visst datum.
+Du kan använda **Vänta** flödessteg för att pausa en persons resa genom en smart kampanj till ett visst datum.
 
-1. Dra över flödessteget **Vänta** i den smarta kampanjen **Flöde**.
+1. I er smarta kampanj **Flöde** tabb, dra över **Vänta** flödessteg.
 
    ![](assets/image2014-9-22-11-3a50-3a55.png)
 
@@ -23,7 +22,7 @@ Du kan använda flödessteget **Wait** för att pausa en persons resa genom en s
 
    ![](assets/image2014-9-22-11-3a50-3a59.png)
 
-1. I listrutan **Typ** väljer du **Datum**.
+1. Från **Typ** nedrullningsbar meny, välja **Datum**.
 
    ![](assets/image2014-9-22-11-3a51-3a27.png)
 

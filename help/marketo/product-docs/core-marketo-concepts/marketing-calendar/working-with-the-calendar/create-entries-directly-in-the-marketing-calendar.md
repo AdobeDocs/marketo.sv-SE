@@ -3,7 +3,6 @@ unique-page-id: 2953348
 description: Skapa tävlingsbidrag direkt i marknadsföringskalendern - Marketo Docs - produktdokumentation
 title: Skapa transaktioner direkt i marknadsföringskalendern
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '124'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Skapa poster direkt i marknadsföringskalendern {#create-entries-directly-in-the-marketing-calendar}
+# Skapa transaktioner direkt i marknadsföringskalendern {#create-entries-directly-in-the-marketing-calendar}
 
 Med Marketo kan du skapa tävlingsbidrag direkt i din marknadsföringskalender i programfokusläget. Du kan skapa följande posttyper:
 
@@ -22,7 +21,7 @@ Med Marketo kan du skapa tävlingsbidrag direkt i din marknadsföringskalender i
 
 Så här gör du.
 
-1. Gå till **kalendern**.
+1. Gå till **Kalender**.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
@@ -40,7 +39,7 @@ Så här gör du.
 
    >[!TIP]
    >
-   >Observera att du även kan skapa **smarta kampanjer**, **e-postprogram** och **grundläggande poster** på samma sätt.
+   >Obs! Du kan också skapa **Smarta kampanjer**, **E-postprogram** och **Grundläggande transaktioner** på samma sätt.
 
 1. Stäng programfokusläget när du är klar med redigeringen.
 

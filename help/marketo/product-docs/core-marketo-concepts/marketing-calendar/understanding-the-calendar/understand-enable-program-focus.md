@@ -3,7 +3,6 @@ unique-page-id: 2953364
 description: Förstå/aktivera programfokus - Marketo Docs - produktdokumentation
 title: Förstå/aktivera programfokus
 exl-id: 90de3d93-d243-451d-8df3-5e2732919615
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '151'
@@ -13,9 +12,9 @@ ht-degree: 0%
 
 # Förstå/aktivera programfokus {#understand-enable-program-focus}
 
-Marknadsföringskalendern ger er en fågelperspektiv på saker och ting, men den tillåter också vissa interaktioner. Du kan [skapa](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [redigera](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [ta bort](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md) och [bekräfta](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md) poster. För att kunna interagera med tävlingsbidragen måste du först fokusera på ett program.
+Marknadsföringskalendern ger er en fågelperspektiv på saker och ting, men den tillåter också vissa interaktioner. Du kan [skapa](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [redigera](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [delete](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)och [bekräfta](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md) poster. För att kunna interagera med tävlingsbidragen måste du först fokusera på ett program.
 
-1. Gå till **marknadsföringskalendern**.
+1. Gå till **Marknadsföringskalender**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 

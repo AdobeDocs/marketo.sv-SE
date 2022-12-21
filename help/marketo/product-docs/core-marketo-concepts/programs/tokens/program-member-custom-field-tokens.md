@@ -5,7 +5,7 @@ title: Anpassade fälttoken för programmedlem
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 source-git-commit: 30f56d93dfd5a600ef3ea75d352ede12c6104940
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '435'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Du kan infoga token för anpassade fält för programmedlemmar i e-postmeddeland
 
 **E-post**
 
-1. Markera önskat e-postmeddelande och klicka på **Redigera utkast**.
+1. Välj önskad e-postadress och klicka på **Redigera utkast**.
 
    ![](assets/program-member-custom-field-tokens-1.png)
 
@@ -45,7 +45,7 @@ Du kan infoga token för anpassade fält för programmedlemmar i e-postmeddeland
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/program-member-custom-field-tokens-4.png)
 
@@ -79,7 +79,7 @@ Du kan infoga token för anpassade fält för programmedlemmar i e-postmeddeland
 
    ![](assets/program-member-custom-field-tokens-9.png)
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/program-member-custom-field-tokens-10.png)
 
@@ -89,7 +89,7 @@ Du kan infoga token för anpassade fält för programmedlemmar i e-postmeddeland
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
-1. Klicka på knappen **`{{ Token`**.
+1. Klicka på **`{{ Token`** -knappen.
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
@@ -103,11 +103,11 @@ Du kan infoga token för anpassade fält för programmedlemmar i e-postmeddeland
 
 **Push-meddelanden**
 
-1. Markera önskat push-meddelande och klicka på **Redigera utkast**.
+1. Välj önskat push-meddelande och klicka på **Redigera utkast**.
 
    ![](assets/program-member-custom-field-tokens-15.png)
 
-1. Klicka på **Push Notification**.
+1. Klicka **Push-meddelande**.
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
@@ -119,7 +119,7 @@ Du kan infoga token för anpassade fält för programmedlemmar i e-postmeddeland
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. Klicka på **Slutför** om du vill spara och avsluta (eller **Nästa** om du vill granska först).
+1. Klicka **Slutför** för att spara och avsluta (eller **Nästa** att först granska).
 
    ![](assets/program-member-custom-field-tokens-19.png)
 

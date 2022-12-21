@@ -3,7 +3,6 @@ unique-page-id: 2360189
 description: Anpassa dina URL:er för landningssidor med en CNAME (Administration) - Marketo Docs - Produktdokumentation
 title: Anpassa URL:er för landningssidor med en CNAME (administration)
 exl-id: a5aa1c76-15f7-4e8c-a736-77c79f65c368
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '251'
@@ -43,11 +42,11 @@ Kom så sätter vi igång!
 
 1. Hitta din kontosträng.
 
-1. Gå till området **Admin** och klicka på **Startsidor**.
+1. Gå till **Administratör** område och klicka på **Landningssidor**.
 
    ![](assets/image2014-9-16-13-3a9-3a44.png)
 
-1. Under fliken **Landningssidor** kopierar du kontosträngen från avsnittet Inställningar.
+1. Under **Landningssidor** kopierar du kontosträngen från avsnittet Inställningar.
 
    ![](assets/image2014-9-16-13-3a9-3a57.png)
 
@@ -55,21 +54,21 @@ Kom så sätter vi igång!
 
 1. Skicka förfrågan till IT.
 
-1. Be din IT-personal installera följande CNAME (ersätt ordet [CNAME] och [KONTOSTRING] med texten från föregående steg):
+1. Be din IT-personal att installera följande CNAME (ersätt ordet [CNAME] och [KONTOSTRÄNG] med texten från föregående steg):
 
-   [CNAME].YourCompany.com >  [ACCOUNT STRING].mktoweb.com
+   [CNAME].YourCompany.com > [KONTOSTRÄNG].mktoweb.com
 
 1. Slutför CNAME-installationen.
 
-1. När IT-avdelningen har skapat CNAME går du till **Admin** och klickar på **landningssidor**.
+1. När IT-avdelningen har skapat CNAME går du till **Administratör** och klicka på **Landningssidor**.
 
    ![](assets/image2014-9-16-13-3a10-3a14.png)
 
-1. Klicka på **Redigera** under **Inställningar**.
+1. Under **Inställningar** avsnitt, klicka **Redigera**.
 
    ![](assets/image2014-9-16-13-3a10-3a31.png)
 
-1. Ange ditt CNAME-konto i **Domännamn för landningssidor**, ange din **återställningssida**, ange din **startsida** och klicka på **Spara**.
+1. Ange CNAME i **Domännamn för landningssidor**, ange **Reservsida**, ange **Hemsida** och klicka **Spara**.
 
    ![](assets/image2014-9-16-13-3a10-3a45.png)
 

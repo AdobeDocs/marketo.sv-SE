@@ -2,18 +2,17 @@
 unique-page-id: 4719402
 description: Skapa en ny webbkampanj för widget - Marketo Docs - Produktdokumentation
 title: Skapa en ny webbkampanj för widget
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '632'
 ht-degree: 0%
 
 ---
 
-
 # Skapa en ny webbkampanj för widget {#create-a-new-widget-web-campaign}
 
-En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment och kan vara en [dialogruta](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) på din webbplats, en [zonersättning](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), en widgetfunktion eller en e-postavisering. Widgetens webbkampanj är en text eller en banderoll som visas på den lodräta sidan av webbsidan med möjlighet att expandera och dra samman, samtidigt som den är fast på webbplatsens sida under hela besöket.
+En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment och kan vara en [dialogruta](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) på din webbplats, [in-zon-ersättning](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), en widget-funktion eller ett e-postmeddelande. Widgetens webbkampanj är en text eller en banderoll som visas på den lodräta sidan av webbsidan med möjlighet att expandera och dra samman, samtidigt som den är fast på webbplatsens sida under hela besöket.
 
 ## Skapa en webbkampanj för widget {#create-a-widget-web-campaign}
 
@@ -25,7 +24,7 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment o
 
    ![](assets/create-new-web-campaign-hand-1.png)
 
-1. Välj kampanjtypen **Widget**.
+1. Välj **Widget** kampanjtyp.
 
    ![](assets/3.png)
 
@@ -33,7 +32,7 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment o
 
    ![](assets/4.png)
 
-1. Klicka på **Förhandsgranska** för att se hur webbkampanjen kommer att reagera på din webbplats.
+1. Klicka **Förhandsgranska** för att se hur webbkampanjen kommer att reagera på er webbplats.
 
    ![](assets/preview.png)
 
@@ -63,7 +62,7 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment o
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Widget Color</strong></td> 
-   <td colspan="1" rowspan="1"><p>Välj widgetfärgen från ett färgdiagram eller ange den som en RGB-färgkod. Du kan också välja genomskinlighetsnivån för widgetens bakgrund genom att flytta fältet längst ned i någon riktning.</p></td> 
+   <td colspan="1" rowspan="1"><p>Markera widgetens färg i ett färgdiagram eller ange den som RGB färgkod. Du kan också välja genomskinlighetsnivån för widgetens bakgrund genom att flytta fältet längst ned i någon riktning.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Widget-knapp</strong><br></p></td> 
@@ -83,10 +82,10 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment o
   </tr> 
   <tr> 
    <td colspan="1"><strong>Förhandsgranska på plats </strong></td> 
-   <td colspan="1">Förhandsgranska kampanjer innan de startas.<br> 
+   <td colspan="1">Förhandsgranska kampanjer innan de lanseras.<br> 
     <ul> 
      <li>URL - Ange en exempel-URL där kampanjen körs för att se ett förhandsgranskningsexempel på hur kampanjen skulle se ut live.</li> 
-     <li>Förhandsgranska - Klicka på <strong>Förhandsgranska </strong>för att öppna ett nytt fönster med exempel-URL:en för att se hur kampanjen reagerar (lägg till <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">Chrome-tillägget</a> för bästa möjliga förhandsgranskning i webbkampanjen.) </li> 
+     <li>Förhandsgranska - klicka <strong>Förhandsgranska </strong>för att öppna ett nytt fönster med exempel-URL:en för att se hur kampanjen reagerar (lägg till <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">Kromtillägg</a> för den bästa förhandsversionen av webbkampanjen.) </li> 
      <li>Dela - Använd knappen Dela för att skicka ett e-postmeddelande till en kollega med en länk för att se proxykampanjen.</li> 
     </ul></td> 
   </tr> 
@@ -95,17 +94,17 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment o
 
 >[!NOTE]
 >
->**Vill du A/B-testa webbkampanjer?** En eller flera webbkampanjer kan  [A/B-testas för optimala resultat](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Med funktionen Automatisk justering känner plattformen automatiskt igen de kampanjer som presterar bättre, fortsätter med de mest konverterande kampanjerna och pausar de andra.
+>**Vill du A/B-testa webbkampanjer?** En eller flera webbkampanjer kan [A/B-testad för optimala resultat](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Med funktionen Automatisk justering känner plattformen automatiskt igen de kampanjer som presterar bättre, fortsätter med de mest konverterande kampanjerna och pausar de andra.
 
 ## Redigera en webbkampanj {#edit-a-web-campaign}
 
-På sidan Webbkampanjer klickar du på **Redigera** i Campaign.
+På webbkampanjsidan klickar du på **Redigera** på Campaign.
 
 ![](assets/image2016-11-4-13-3a2-3a20.png)
 
 >[!NOTE]
 >
->Använd filterfunktionen [](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md) för att göra det enklare att hitta kampanjen du vill ha.
+>Om du vill göra det enklare att hitta den kampanj du vill ha använder du [filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 ## Klona en webbkampanj {#clone-a-web-campaign}
 
@@ -113,13 +112,13 @@ Se [Klona en webbkampanj](/help/marketo/product-docs/web-personalization/working
 
 ## Förhandsgranska en webbkampanj {#preview-a-web-campaign}
 
-Klicka på **Förhandsgranska** på webbkampanjen som du vill förhandsgranska på sidan Webbkampanjer
+På webbkampanjsidan klickar du på **Förhandsgranska** på webbkampanjen som du vill förhandsgranska
 
 ![](assets/widget-campaign-preview-hand.png)
 
 ## Ta bort en webbkampanj {#delete-a-web-campaign}
 
-1. Klicka på **Ta bort** på webbkampanjen som du vill ta bort på sidan Webbkampanjer.
+1. På webbkampanjsidan klickar du på **Ta bort** på webbkampanjen som du vill ta bort.
 
    ![](assets/widget-campaign-delete-hand.png)
 

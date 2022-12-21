@@ -16,7 +16,7 @@ I den här artikeln beskrivs hur du åtgärdar ett inkompatibelt statusfel och m
 
 ## Vad gör du om du fick ett felmeddelande? {#what-do-you-do-if-you-received-an-error-message}
 
-Om du försöker synkronisera till en befintlig Salesforce-kampanj som innehåller leads och kampanjen innehåller en eller flera inkompatibla statusvärden visas ett felmeddelande. Ett Marketo-program och en Salesforce-kampanj *synkroniserar inte* om statusvärdena inte är en exakt matchning.
+Om du försöker synkronisera till en befintlig Salesforce-kampanj som innehåller leads och kampanjen innehåller en eller flera inkompatibla statusvärden visas ett felmeddelande. Ett Marketo-program och en Salesforce-kampanj *inte* synkronisera om statusvärdena inte är en exakt matchning.
 
 ![](assets/image2015-7-22-9-3a23-3a29.png)
 

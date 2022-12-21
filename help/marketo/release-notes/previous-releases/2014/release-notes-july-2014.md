@@ -16,7 +16,7 @@ Följande funktioner ingår i juliversionen 2014. Kontrollera om det finns funkt
 
 ## Marknadsföringskalender {#marketing-calendar}
 
-Se alla händelser, e-postmeddelanden med mera i alla program. [Den nya ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) produkten kommer att vara tillgänglig utan kostnad för kunder med 10 eller färre användare av Marketo Lead Management eller Dialog.
+Se alla händelser, e-postmeddelanden med mera i alla program. [Den nya produkten](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) utan kostnad för kunder med 10 eller färre användare av Marketo Lead Management eller Dialog.
 
 ![](assets/image2014-9-22-14-3a22-3a27.png)
 
@@ -30,7 +30,7 @@ Marketo Lead Management uppdateras med ett nytt utseende som är modernt och smi
 
 ## Datumoperatorer {#date-operators}
 
-[Avancerade ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) filter för&quot;tidigare&quot;,&quot;i framtiden&quot; och&quot;i framtiden efter&quot;. Du kan till exempel hitta leads som har ett födelsedatum inom de kommande tre månaderna eller ett kontrakt som upphör efter sex månader.
+[Avancerade filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) for &quot;in previous before&quot;, &quot;in future&quot;, and &quot;in future after&quot;. Du kan till exempel hitta leads som har ett födelsedatum inom de kommande tre månaderna eller ett kontrakt som upphör efter sex månader.
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 
@@ -46,7 +46,7 @@ Förutom den marknadsföringskalender du hanterar dina evenemang och standardpro
 
 ## Lista åtgärder i ReST API {#list-operations-in-the-rest-api}
 
-Vi har lagt till anropen nedan som rör liståtgärder i ReST. Mer information finns i [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
+Vi har lagt till anropen nedan som rör liståtgärder i ReST. Se [developers.marketo.com](https://developers.marketo.com/documentation/rest/) för fullständig dokumentation.
 
 * Hämta lista efter ID
 * Hämta flera listor
@@ -69,7 +69,7 @@ Utbyggnaden kommer att stagnera från mitten av juli och fortsätta under de kom
 
 ## RTP: Kampanjmallar för personalisering i realtid {#rtp-real-time-personalization-campaign-templates}
 
-RTP Set Campaign-sidan [innehåller nu färdiga mallar](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md). Välj bland en mängd olika stilar, bland annat webbinarier, fallstudier och e-böcker.
+RTP Set Campaign page now [innehåller färdiga mallar](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md). Välj bland en mängd olika stilar, bland annat webbinarier, fallstudier och e-böcker.
 
 ![](assets/image2014-9-22-14-3a25-3a13.png)
 
@@ -77,10 +77,10 @@ RTP Set Campaign-sidan [innehåller nu färdiga mallar](/help/marketo/product-do
 
 ## RTP: Förbättringar i JavaScript API {#rtp-javascript-api-enhancements}
 
-Nytt RTP API-anrop för att få besöksdata i realtid, som organisation, bransch, plats och segmentkodsmatchning. Om du håller markören över ett segmentnamn på segmentsidan visas dessutom ett verktygstips som visar segmentkoden. Mer information finns på vår [utvecklarwebbplats](https://developers.marketo.com/documentation/websites/rtp-js-api/).
+Nytt RTP API-anrop för att få besöksdata i realtid, som organisation, bransch, plats och segmentkodsmatchning. Om du håller markören över ett segmentnamn på segmentsidan visas dessutom ett verktygstips som visar segmentkoden. Se vår [utvecklarwebbplats](https://developers.marketo.com/documentation/websites/rtp-js-api/) för fullständig dokumentation.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
-## RTP: HTML5-stöd i Campaign Content Editor {#rtp-html-support-in-campaign-content-editor}
+## RTP: Stöd för HTML5 i Campaign Content Editor {#rtp-html-support-in-campaign-content-editor}
 
-Innehållets WYSIWYG-redigerare på sidan Ange kampanjer har nu full HTML5-kompatibilitet. Klicka på&quot;HTML&quot;-ikonen i redigeraren för att infoga HTML5-kod.
+Innehållets WYSIWYG-redigerare på sidan Ange kampanjer har nu fullständig HTML5-kompatibilitet. Klicka på ikonen &quot;HTML&quot; i redigeraren för att infoga valfri HTML5-kod.

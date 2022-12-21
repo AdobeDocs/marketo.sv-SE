@@ -1,15 +1,14 @@
 ---
 unique-page-id: 4720145
-description: Implementera RTP med Google Tag Manager - Marketo Docs - Produktdokumentation
+description: Implementera RTP med Google Tag Manager - Marketo Docs - produktdokumentation
 title: Implementera RTP med Google Tag Manager
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: f7f06779-8abe-4c8c-9197-9d0c6bcfed49
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
 
 ---
-
 
 # Implementera RTP med Google Tag Manager {#implementing-rtp-using-google-tag-manager}
 
@@ -17,7 +16,7 @@ Följ installationsanvisningarna nedan för att implementera RTP-taggen.
 
 1. Logga in på ditt Google Tag Manager-konto.
 
-1. Lägg till en ny tagg > Taggkonfigurationer > Anpassad HTML-tagg**.** Ring det **RTP**.
+1. Lägg till en ny tagg > Taggkonfigurationer > Egen HTML-tagg**.** Ring **RTP**.
 
 1. Logga in på ditt RTP-konto**.**
 
@@ -31,11 +30,11 @@ Följ installationsanvisningarna nedan för att implementera RTP-taggen.
 
    ![](assets/image2014-11-30-15-3a20-3a17.png)
 
-1. Kopiera RTP JavaScript-taggen och klistra in den i den nya **anpassade HTML-taggen** som du skapade (steg 1).
+1. Kopiera RTP JavaScript-taggen och klistra in den i den nya **Egen HTML-tagg** du skapade (steg 1).
 
-1. Klicka på **+Lägg till regel i Fire Tag**. Välj **Alla sidor**.
+1. Klicka **+Lägg till regel i Fire-tagg**. Välj **Alla sidor**.
 
-1. Klicka på **Spara** och [publicera den nya versionen](https://support.google.com/tagmanager/answer/2699097?hl=en).
+1. Klicka **Spara** och [publicera den nya versionen](https://support.google.com/tagmanager/answer/2699097?hl=en).
 
 1. Kontrollera att den visas på alla sidor, inklusive landningssidor och underdomäner.
 

@@ -3,7 +3,6 @@ unique-page-id: 2949178
 description: Förstå SEO Dashboard -SEO Snapshot - Marketo Docs - produktdokumentation
 title: Förstå SEO-instrumentpanelen - SEO-ögonblicksbild
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '253'
@@ -11,17 +10,17 @@ ht-degree: 0%
 
 ---
 
-# Förstå SEO-kontrollpanelen: SEO-ögonblicksbild {#understanding-the-seo-dashboard-seo-snapshot}
+# Förstå SEO-kontrollpanelen: SEO-fixering {#understanding-the-seo-dashboard-seo-snapshot}
 
 Använd kontrollpanelen för att få en översiktlig bild av hur nyckelordsrankningen är trending och hur bra webbplatsen är optimerad för SEO.
 
-Om du vill veta vad du ska fokusera på för att förbättra SEO-arbetet kan du använda avsnittet [Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) i den här instrumentpanelen.
+Om du vill veta vad du kan fokusera på för att förbättra dina SEO-satsningar använder du [Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) i den här instrumentpanelen.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
-## Nyckelordsrankningssammanfattning {#keyword-rank-summary}
+## Sammanfattning av nyckelordsrankning {#keyword-rank-summary}
 
-I det här avsnittet visas hur din webbplats rangordnas för de [nyckelord du riktar dig till](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
+I det här avsnittet visas hur din webbplats rankas för [nyckelord som ni riktar er mot](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
@@ -33,11 +32,11 @@ I det här avsnittet visas hur din webbplats rangordnas för de [nyckelord du ri
 
 >[!TIP]
 >
->Du kan även visa hur en [specifik lista](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) med nyckelord fungerar. Klicka på listrutan och välj vilken som ska intressera dig.
+>Du kan även visa hur en [specifik lista](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) nyckelord fungerar. Klicka på listrutan och välj vilken som ska intressera dig.
 
 Kom igen! Vi fortsätter.
 
-## Genomsnittligt resultat för sidoptimering {#average-page-optimization-score}
+## Genomsnittlig poäng för sidoptimering {#average-page-optimization-score}
 
 Jämn sidoptimering är en Marketo-poäng som mäter alla sidor på er webbplats på en skala från 1 till 100.
 

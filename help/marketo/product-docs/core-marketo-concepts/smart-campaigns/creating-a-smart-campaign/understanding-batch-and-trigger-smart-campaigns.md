@@ -3,7 +3,6 @@ unique-page-id: 2953132
 description: Understanding Batch and Trigger Smart Campaigns - Marketo Docs - Product Documentation
 title: Förstå smarta kampanjer i grupp och utlösare
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '273'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Förstå smarta gruppkampanjer och utlösare {#understanding-batch-and-trigger-smart-campaigns}
+# Förstå smarta kampanjer i grupp och utlösare {#understanding-batch-and-trigger-smart-campaigns}
 
 Det finns två typer av smarta kampanjer: Batch och utlösare.
 
@@ -27,18 +26,18 @@ Smarta gruppkampanjer har bara filter i avsnittet med smarta listor (d.v.s. inga
 
 ![](assets/batch-filter.png)
 
-Om du klickar på fliken **Schedule** bekräftar du att den smarta kampanjen är inställd på &quot;Batch&quot;.
+Klicka på **Schema** bekräftar att den smarta kampanjen är inställd på&quot;Batch&quot;.
 
 ![](assets/batch-c4.png)
 
 **Smarta gruppkampanjer**
 
 * Kan schemaläggas för återkommande aktiviteter, som dagliga, veckovisa och månadsvisa. Du kan också få dem att springa bara en gång.
-* Är synliga i [programschemavyn](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md). Allt efter ett &quot;Vänta&quot;-steg i den smarta kampanjen inkluderas inte i vyn.
+* Är synliga på [programschemavy](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md). Allt efter ett &quot;Vänta&quot;-steg i den smarta kampanjen inkluderas inte i vyn.
 
 <br> 
 
-## Utlös smart kampanj {#trigger-smart-campaign}
+## Utlös Smart Campaign {#trigger-smart-campaign}
 
 >[!NOTE]
 >
@@ -50,7 +49,7 @@ Om en smart kampanj använder minst en utlösare i den smarta listsektionen stä
 
 ![](assets/trigger.png)
 
-Om du klickar på fliken **Schedule** bekräftar du att den smarta kampanjen är inställd på Triggered.
+Klicka på **Schema** bekräftar att den smarta kampanjen är inställd på&quot;Triggered&quot;.
 
 ![](assets/trigger2.png)
 
@@ -61,4 +60,4 @@ Om du klickar på fliken **Schedule** bekräftar du att den smarta kampanjen är
 
 >[!TIP]
 >
->Använd [aktivitetsloggen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) för att se vad som hände steg för steg inom smarta kampanjer. Du hittar aktivitetsloggen på den sista fliken på en persons detaljsida.
+>Använd [aktivitetslogg](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) för att se vad som hände steg för steg inom smarta kampanjer. Du hittar aktivitetsloggen på den sista fliken på en persons detaljsida.

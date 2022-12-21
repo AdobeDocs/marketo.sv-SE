@@ -1,15 +1,14 @@
 ---
 unique-page-id: 10100636
-description: Lägg till meddelandebilder i appen - Marketo Docs - Produktdokumentation
+description: Lägg till meddelandebilder i appen - Marketo Docs - produktdokumentation
 title: Lägg till meddelandebilder i appen
-translation-type: tm+mt
-source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
 
 ---
-
 
 # Lägg till meddelandebilder i appen {#add-in-app-message-images}
 
@@ -27,11 +26,11 @@ Här väljer du och anpassar dina bilder för meddelanden i appen.
 
    ![](assets/image2016-5-4-10-3a21-3a33.png)
 
-1. Klicka på fliken **Format** och klicka på mallens bildområde.
+1. Klicka på **Stil** och klicka på mallens bildområde.
 
    ![](assets/image2016-5-3-16-3a53-3a23.png)
 
-1. Klicka på **Välj bild**.
+1. Klicka **Välj bild**.
 
    ![](assets/image2016-5-6-8-3a53-3a55.png)
 
@@ -47,7 +46,7 @@ Här väljer du och anpassar dina bilder för meddelanden i appen.
 
    ![](assets/image2016-5-6-9-3a0-3a16.png)
 
-1. Klicka på **Ta bort**. Nu kan du välja en till.
+1. Klicka **Ta bort**. Nu kan du välja en till.
 
    ![](assets/image2016-5-6-9-3a1-3a3.png)
 
@@ -55,7 +54,7 @@ Här väljer du och anpassar dina bilder för meddelanden i appen.
 
    ![](assets/image2016-5-6-9-3a4-3a47.png)
 
-1. Du kan också använda en bildkant. Standardinställningen är **Av**. Välj först färg genom att klicka på den eller genom att ange Hex- eller RGB-värden i färgväljaren.
+1. Du kan också använda en bildkant. Standardinställningen är **Av**. Välj först en färg genom att klicka på den eller genom att ange siffrorna Hex eller RGB i färgväljaren.
 
    ![](assets/image2016-5-6-9-3a9-3a0.png)
 
@@ -67,7 +66,7 @@ Här väljer du och anpassar dina bilder för meddelanden i appen.
 
    ![](assets/image2016-5-6-9-3a39-3a28.png)
 
-1. Välj en marginal (av eller på). **Standardinställningen är** On.
+1. Välj en marginal (av eller på). **På** är standardinställningen.
 
    ![](assets/image2016-5-6-9-3a42-3a15.png)
 
@@ -87,7 +86,7 @@ Här väljer du och anpassar dina bilder för meddelanden i appen.
    >
    >Om du vill trycka på åtgärder för bilder, knappar eller bakgrunder kan du ange olika åtgärder för Apple- och Android-plattformarna. Djuplänkar hanteras till exempel på olika sätt för Apple och Android. Om ditt meddelande endast ska visas på en plattform eller på en annan, låter du den andra vara kvar i standardinställningen eller väljer **Ingen**.
 
-Bra jobbat! Nu är det dags att [skapa texten för meddelandet](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md) i appen.
+Bra jobbat! Nu är det dags att [skapa texten för ditt meddelande i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md).
 
 >[!MORELIKETHIS]
 >

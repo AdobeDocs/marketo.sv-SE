@@ -2,20 +2,19 @@
 unique-page-id: 14352414
 description: Förstå teamfliken - Marketo Docs - produktdokumentation
 title: Förstå teamfliken
-translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+exl-id: 07084711-b387-4688-bcf0-fd054acb8366
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
-
 # Förstå teamfliken {#understanding-the-team-tab}
 
 På fliken Team belyser vi tre viktiga mätvärden.
 
-## E-postmeddelanden skickade med mallen {#emails-sent-with-template}
+## E-postmeddelanden skickade med mall {#emails-sent-with-template}
 
 Av de e-postmeddelanden som har skickats, hur många av dem använde en mall.
 
@@ -23,7 +22,7 @@ Av de e-postmeddelanden som har skickats, hur många av dem använde en mall.
 
 Över hela styrelsen bubblar vi upp den tid det tar att engagera sig, vilket anger vilken tid på dygnet teamet får mest aktivitet (vyer, klickningar, svar). Ert team kan schemalägga e-postmeddelanden eller planera för att skicka e-postmeddelanden strategiskt runt den här tiden.
 
-## Avslutade erbjudanden {#deals-closed}
+## Avslutade affärer {#deals-closed}
 
 Detta baseras på försäljningsloggen och hur många avtal som har lagts ned under den aktuella månaden.
 

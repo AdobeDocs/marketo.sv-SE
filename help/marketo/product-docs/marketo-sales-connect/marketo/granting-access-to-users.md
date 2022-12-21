@@ -1,18 +1,19 @@
 ---
 description: Bevilja åtkomst till användare - Marketo Docs - produktdokumentation
 title: Bevilja åtkomst för användare
-source-git-commit: 89d46ccadabec8c4dbc2db3cd9cde705c95b3978
+exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
 
 ---
 
-# Bevilja åtkomst till användare {#granting-access-to-users}
+# Bevilja åtkomst för användare {#granting-access-to-users}
 
 Följ stegen i den här artikeln för att ge dina Sales Connect-användare åtkomst till Marketo-anslutningen. Detta kommer att låsa upp funktioner som intressanta ögonblick i liveflödet och tillgång till marknadsföringskampanjer.
 
-Du måste bjuda in användare till Sales Connect [här](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) innan de visas på Marketo > Team Access-sidan (i Sales Connect), där åtkomst till Marketo-anslutningen beviljas.
+Du måste bjuda in användare till Sales Connect [här](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md)innan de visas på sidan Marketo > Team Access (i Sales Connect), där åtkomst till Marketo-anslutningen beviljas.
 
 >[!CAUTION]
 >

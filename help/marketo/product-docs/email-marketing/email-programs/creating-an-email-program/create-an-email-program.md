@@ -1,15 +1,14 @@
 ---
 unique-page-id: 1900591
-description: Skapa ett e-postprogram - Marketo Docs - Produktdokumentation
+description: Skapa ett e-postprogram - Marketo Docs - produktdokumentation
 title: Skapa ett e-postprogram
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+exl-id: b2efaddb-cc7a-4ae3-8c1c-b70d189dd290
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
 
 ---
-
 
 # Skapa ett e-postprogram {#create-an-email-program}
 
@@ -19,7 +18,7 @@ Använd e-postprogram för att snabbt och enkelt skicka ett e-postmeddelande til
 
    ![](assets/one.png)
 
-1. Markera mappen som du vill skapa programmet i, klicka på listrutan **Nytt** och välj **Nytt program**.
+1. Markera mappen som du vill skapa programmet i och klicka på **Nytt** och markera **Nytt program**.
 
    ![](assets/two.png)
 
@@ -29,7 +28,7 @@ Använd e-postprogram för att snabbt och enkelt skicka ett e-postmeddelande til
 
    >[!NOTE]
    >
-   >När du väljer **E-post** som programtyp ställs kanalen automatiskt in på **Skicka e-post**. Du kan ändra den om du vill.
+   >Vid val **E-post** som programtyp, ställs kanalen automatiskt in på **Skicka e-post**. Du kan ändra den om du vill.
 
    ![](assets/four.png)
 

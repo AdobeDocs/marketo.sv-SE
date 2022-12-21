@@ -1,33 +1,32 @@
 ---
 unique-page-id: 12615800
-description: Importera namngivna konton - Marketo Docs - Produktdokumentation
+description: Importera namngivna konton - Marketo Docs - produktdokumentation
 title: Importera namngivna konton
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 3f40e567-9256-4efd-beea-4e818770759f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '479'
 ht-degree: 0%
 
 ---
 
-
 # Importera namngivna konton {#import-named-accounts}
 
 Har du redan en CSV-fil full med potentiella målkonton? Importera dem direkt till TAM!
 
-1. Klicka på listrutan **Nytt** och välj **Importera namngivna konton**.
+1. Klicka på **Nytt** nedrullningsbar meny och välj **Importera namngivna konton**.
 
    ![](assets/inaone.png)
 
-1. Ett nytt fönster öppnas. Klicka på **Bläddra** och markera sedan filen med namngivna konton som du vill importera.
+1. Ett nytt fönster öppnas. Klicka **Bläddra** markerar du sedan filen med namngivna konton som du vill importera.
 
    ![](assets/inatwo.png)
 
    >[!TIP]
    >
-   >Ange [så mycket information](/help/marketo/product-docs/target-account-management/target/named-accounts/named-account-overview.md#named-account-attributes) som möjligt i filen. Du kan bara lägga till firmografisk information; ingenting Marketo beräknar (dvs. Pipeline). Om du vill skapa namngivna konton baserat på CRM-konton exporterar du bara kontonamnet och CRM-ID:t från CRM till en CSV-fil, använder alternativet Kontonamn och mappar CRM-ID:t under importprocessen. Om du vill länka ett CRM-konto till ett namngivet konto måste du ange CRM-kontots exakta namn.
+   >Ange [så mycket information](/help/marketo/product-docs/target-account-management/target/named-accounts/named-account-overview.md#named-account-attributes) så långt det är möjligt. Du kan bara lägga till firmografisk information; ingenting Marketo beräknar (dvs. Pipeline). Om du vill skapa namngivna konton baserat på CRM-konton exporterar du bara kontonamnet och CRM-ID:t från CRM till en CSV-fil, använder alternativet Kontonamn och mappar CRM-ID:t under importprocessen. Om du vill länka ett CRM-konto till ett namngivet konto måste du ange CRM-kontots exakta namn.
 
-1. Välj mellan två borttagningslägen: Kontonamn eller domännamn. I det här exemplet väljer vi Konto. Klicka på listrutan **Lägen** och välj **Efter kontonamn**.
+1. Välj mellan två borttagningslägen: Kontonamn eller domännamn. I det här exemplet väljer vi Konto. Klicka på **Lägen** nedrullningsbar meny och välj **Efter kontonamn**.
 
    ![](assets/inathree.png)
 
@@ -35,7 +34,7 @@ Har du redan en CSV-fil full med potentiella målkonton? Importera dem direkt ti
    >
    >Om du väljer **Efter domänläge** måste både namngivna konto- och domänfält inkluderas.
 
-1. Om du vill välja vilken kontolista ditt namngivna konto ska läggas till klickar du på listrutan **Kontolista** och gör ditt val.
+1. Om du vill välja vilken kontolista ditt namngivna konto ska läggas till i klickar du på **Kontolista** och gör ditt val.
 
    ![](assets/inafour.png)
 
@@ -43,15 +42,15 @@ Har du redan en CSV-fil full med potentiella målkonton? Importera dem direkt ti
    >
    >Du kan också skapa en helt ny kontolista genom att skriva namnet i listrutan.
 
-1. Om du vill skicka ett meddelande om importen klickar du på listrutan **Skicka varning till** och väljer en Marketo-användare. Du _kan inte_ ange en e-postadress manuellt.
+1. Om du vill skicka ett meddelande om importen klickar du på knappen **Skicka avisering till** och välja en Marketo-användare. Du _inte_ ange en e-postadress manuellt.
 
    ![](assets/inafive-2.png)
 
-1. Klicka på **Nästa**.
+1. Klicka **Nästa**.
 
    ![](assets/inasix-2.png)
 
-1. Mappa varje fält genom att dubbelklicka på listrutan **Marketfält** och välja lämpligt fält. Klicka på **Nästa** när du är klar.
+1. Mappa varje fält genom att dubbelklicka på **Marketo Field** och välja rätt fält. Klicka **Nästa** när det är klart.
 
    ![](assets/inaseven.png)
 
@@ -103,6 +102,6 @@ Scenarier när du tar bort efter domännamn:
 
 >[!NOTE]
 >
->När Marketo lägger till ett namngivet konto uppdaterar vi en regel (bakom kulisserna) som gör att vi kan identifiera personer som ska ingå i det namngivna kontot. Exempel: Om du uppdaterar &quot;IBM&quot; till &quot;IBM, USA&quot; kopplas personer med respektive företagsnamn till det namngivna kontot.
+>När Marketo lägger till ett namngivet konto uppdaterar vi en regel (bakom kulisserna) som gör att vi kan identifiera personer som ska ingå i det namngivna kontot. Exempel: Om du uppdaterar&quot;IBM&quot; till&quot;IBM, USA&quot; kopplas personer med något av företagsnamnen till det namngivna kontot.
 
 Om Marketo hittar poster som vi ser som dubbletter bearbetar vi bara den första.

@@ -2,18 +2,17 @@
 unique-page-id: 2359549
 description: Använd kontrollpanelen för e-postprogram - A/B-testvy - Marketo Docs - produktdokumentation
 title: Använd kontrollpanelen för e-postprogram - A/B-testvy
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+exl-id: c261bb05-db22-4f54-a30c-58963843584f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
-
 # Använd kontrollpanelen för e-postprogram - A/B-testvy {#use-the-email-program-dashboard-a-b-test-view}
 
-Ta reda på hur ditt [e-postprogram A/B test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) fungerar med den här instrumentpanelen.
+Se hur [e-postprogram A/B-test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) fungerar med den här instrumentpanelen.
 
 ![](assets/image2014-9-12-16-3a14-3a28.png)
 
@@ -23,7 +22,7 @@ Här ser du det totala antalet levererade och uppdelade efter varianter.
 
 ![](assets/image2014-9-12-16-3a16-3a2.png)
 
-## Klicka {#clicks}
+## Klickningar {#clicks}
 
 Här ser du hur många klick varje variant har.
 

@@ -2,14 +2,13 @@
 unique-page-id: 2359987
 description: Prenumerera på en grundläggande rapport - Marketo Docs - produktdokumentation
 title: Prenumerera på en grundläggande rapport
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
 
 ---
-
 
 # Prenumerera på en grundläggande rapport {#subscribe-to-a-basic-report}
 
@@ -17,21 +16,21 @@ Om du vill få automatiska uppdateringar av en grundläggande rapport eller dela
 
 >[!NOTE]
 >
->Information om rapportprenumerationer i Intressecykel Explorer finns i [Prenumerera på en Intresseutforskarrapport](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
+>Information om rapportprenumerationer för Intäktscykel Explorer finns i [Prenumerera på en rapport om skatteutforskaren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter** område.
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 
-1. Välj din rapport i navigeringsträdet och klicka på fliken **Prenumerationer**.
+1. Välj rapporten från navigeringsträdet och klicka på **Prenumerationer** -fliken.
 
    ![](assets/image2014-9-16-10-3a32-3a1.png)
 
    >[!NOTE]
    >
-   >Du kan också prenumerera på rapporter från fliken **Analytics**.
+   >Du kan även prenumerera på rapporter från **Analyser** -fliken.
 
-1. Klicka på **Ny rapportprenumeration**.
+1. Klicka **Ny rapportprenumeration**.
 
    ![](assets/image2014-9-16-10-3a32-3a24.png)
 
@@ -49,4 +48,4 @@ Om du vill få automatiska uppdateringar av en grundläggande rapport eller dela
 
    >[!MORELIKETHIS]
    >
-   >Lär dig hur du [hanterar alla rapportprenumerationer](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) på ett och samma ställe.
+   >Lär dig hur [hantera alla rapportprenumerationer](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) på ett och samma ställe.

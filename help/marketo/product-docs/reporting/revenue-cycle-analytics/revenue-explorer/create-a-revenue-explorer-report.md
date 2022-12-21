@@ -1,17 +1,16 @@
 ---
 unique-page-id: 7504047
-description: Skapa en rapport för Intresseutforskaren - Marketo Docs - Produktdokumentation
+description: Skapa en rapport om intäktsutforskaren - Marketo Docs - produktdokumentation
 title: Skapa en rapport för intäktsutforskaren
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
-
-# Skapa en rapport för Intresseutforskaren {#create-a-revenue-explorer-report}
+# Skapa en rapport för intäktsutforskaren {#create-a-revenue-explorer-report}
 
 Med rapporten Revenue Explorer (intäktsutforskaren) kan du följa avkastningen på era marknadsföringssatsningar.
 
@@ -19,11 +18,11 @@ Med rapporten Revenue Explorer (intäktsutforskaren) kan du följa avkastningen 
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
-1. Gå till området **Intresseutforskaren**.
+1. Gå till **Intäktsutforskaren** område.
 
    ![](assets/image2015-3-24-13-3a24-3a56.png)
 
-1. Klicka på **Skapa ny** och välj sedan **Rapport**.
+1. Klicka på **Skapa nytt** och sedan markera **Rapport**.
 
    ![](assets/image2015-3-24-13-3a20-3a40.png)
 

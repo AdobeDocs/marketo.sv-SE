@@ -2,14 +2,13 @@
 unique-page-id: 12979008
 description: Performance Insights Contribution Overview - Marketo Docs - produktdokumentation
 title: Performance Insights Contribute Overview
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
 
 ---
-
 
 # Performance Insights Contribute Overview {#performance-insights-contribution-overview}
 
@@ -23,7 +22,7 @@ Välj det mätvärde som du vill visa prestandan efter. I det här exemplet titt
 
 >[!NOTE]
 >
->Lär dig mer om [First Touch och Multi-Touch](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+>Läs mer om [Första beröring och Multi-Touch](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 Välj vilken period du vill se mätvärden för. I det här exemplet tittar vi på det aktuella året (hittills i år).
 
@@ -47,7 +46,7 @@ I stapeldiagrammet visas programprestanda i alla kanaler (tio program i taget) f
 
 >[!TIP]
 >
->Om du vill att staplarna i diagrammet ska skalförändras uppåt när du bläddrar genom grupperna markerar du kryssrutan **Skala Y-axeln så att den passar**.
+>Om du vill att staplarna i diagrammet ska skalförändras uppåt när du bläddrar igenom grupperna väljer du **Anpassa Y-axeln efter behov** kryssrutan.
 
 För musen över ett fält för mer information.
 

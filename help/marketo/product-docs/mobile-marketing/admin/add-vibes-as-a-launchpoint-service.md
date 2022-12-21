@@ -2,14 +2,13 @@
 unique-page-id: 11378845
 description: Lägg till Vibes som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
 title: Lägg till vibes som en LaunchPoint-tjänst
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
-
 
 # Lägg till vibes som en LaunchPoint-tjänst {#add-vibes-as-a-launchpoint-service}
 
@@ -23,19 +22,19 @@ Du kan skicka SMS-meddelanden till personer i dina Vibes-listor och använda SMS
 >
 >Du behöver både Marketo Admin-behörighet och ett aktivt Vibes-konto för att slutföra den här konfigurationen. Autentiseringsuppgifterna som efterfrågas i steg 4 nedan är autentiseringsuppgifterna från ditt Vibes-konto.
 
-1. I My Marketo klickar du på **Admin** och sedan **LaunchPoint**.
+1. I Min Marketo klickar du på **Administratör** och sedan **LaunchPoint**.
 
    ![](assets/image2016-7-27-9-3a31-3a17.png)
 
-1. Klicka på **Ny** och **Ny tjänst**.
+1. Klicka **Nytt** och **Ny tjänst**.
 
    ![](assets/image2016-7-27-9-3a34-3a25.png)
 
-1. Ange ett visningsnamn och välj **Vibes** i listrutan.
+1. Ange ett visningsnamn och välj **Vibes**.
 
    ![](assets/new-service-vibes.png)
 
-1. Under Inställningar anger du ditt användarnamn, lösenord och API-företagsnyckel för Vibes. Klicka på **Skapa**.
+1. Under Inställningar anger du ditt användarnamn, lösenord och API-företagsnyckel för Vibes. Klicka **Skapa**.
 
    ![](assets/new-service-vibes-settings-2.png)
 

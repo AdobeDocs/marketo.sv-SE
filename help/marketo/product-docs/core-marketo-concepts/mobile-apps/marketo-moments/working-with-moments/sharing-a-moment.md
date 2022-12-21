@@ -3,7 +3,6 @@ unique-page-id: 8783559
 description: Dela ett ögonblick - Marketo Docs - produktdokumentation
 title: Dela en stund
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '89'
@@ -11,11 +10,11 @@ ht-degree: 0%
 
 ---
 
-# Dela ett ögonblick {#sharing-a-moment}
+# Dela en stund {#sharing-a-moment}
 
 Vill du ge en uppdatering till ditt team? Du kan välja att dela:
 
-1. Tryck på ikonen **Dela** på kortet.
+1. Tryck på **Dela** på kortet.
 
    ![](assets/image2015-6-30-15-3a13-3a13.png)
 
@@ -33,7 +32,7 @@ Vill du ge en uppdatering till ditt team? Du kan välja att dela:
 
    ![](assets/image2015-7-14-16-3a11-3a42.png)
 
-1. Ange mottagarens adress, ett ämne och tryck på **Skicka**.
+1. Ange mottagarens adress, ämne och tryck **Skicka**.
 
    ![](assets/image2015-7-14-16-3a18-3a16.png)
 

@@ -4,7 +4,7 @@ title: Synkronisera samtal och ringa nyckelmeddelanden
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---

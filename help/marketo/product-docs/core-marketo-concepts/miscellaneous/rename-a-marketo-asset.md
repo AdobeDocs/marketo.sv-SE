@@ -3,7 +3,6 @@ unique-page-id: 2952484
 description: Byta namn på en Marketo-resurs - Marketo Docs - produktdokumentation
 title: Byta namn på en Marketo-resurs
 exl-id: 2c8a64fc-663d-4953-b66c-4055e07f1404
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
@@ -19,7 +18,7 @@ Det är enkelt att byta namn på mappar, program och lokala resurser.
 
    ![](assets/image2015-4-10-17-19-48.png)
 
-1. Skriv ett nytt namn i textfältet. Klicka på **Spara**.
+1. Skriv ett nytt namn i textfältet. Klicka **Spara**.
 
    ![](assets/image2015-4-10-17-3a19-3a33.png)
 

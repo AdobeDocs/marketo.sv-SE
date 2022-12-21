@@ -1,17 +1,16 @@
 ---
 unique-page-id: 14352540
-description: Förhindra självvisningar - Marketo Docs - Produktdokumentation
+description: Förhindra självvisning - Marketo Docs - produktdokumentation
 title: Förhindra självvisning
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: c18715fc-4ca2-4a6b-8f63-a9406f30c0d8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
-
-# Förhindrar självvisning {#preventing-self-views}
+# Förhindra självvisning {#preventing-self-views}
 
 ## Översikt {#overview}
 
@@ -29,31 +28,31 @@ Sales Connect lagrar en cookie i webbläsaren för att förhindra att vyer spår
 
 Vyer spåras genom att en liten osynlig bildpixel hämtas till din e-postklient. Du kan avsevärt minska antalet självvisningar i Outlook genom att inaktivera bilder som laddas ned automatiskt. Här nedan beskrivs hur du gör.
 
-1. Klicka på **Arkiv** i menyraden i Outlook.
+1. I Outlook klickar du på **Fil** på menyraden.
 
    ![](assets/win-1.png)
 
-1. Klicka på **Alternativ**.
+1. Klicka **Alternativ**.
 
    ![](assets/win-2.png)
 
-1. Klicka på **Trust Center** i dialogrutan Outlook-alternativ.
+1. Klicka på **Trust Center**.
 
    ![](assets/win-3.png)
 
-1. Under Microsoft Outlook Trust Center klickar du på **Trust Center Settings**.
+1. Under Microsoft Outlook Trust Center klickar du på **Inställningar för Trust Center**.
 
    ![](assets/win-4.png)
 
-1. Klicka på Automatisk hämtning på menyn till vänster och markera kryssrutan **Hämta inte bilder automatiskt i HTML-e-post eller RSS-alternativ**.
+1. Klicka på Automatisk hämtning på menyn till vänster och välj **Hämta inte bilder automatiskt i HTML e-post eller RSS-objekt** kryssruta.
 
    ![](assets/win-5.png)
 
-1. Klicka på **OK** i dialogrutan Säkerhetscenter.
+1. Klicka **OK** i dialogrutan Säkerhetscenter.
 
    ![](assets/win-6.png)
 
-1. Klicka på **OK** i dialogrutan Outlook-alternativ.
+1. Klicka **OK** i dialogrutan Outlook-alternativ.
 
    ![](assets/win-6.png)
 
@@ -65,10 +64,10 @@ Vyer spåras genom att en liten osynlig bildpixel hämtas till din e-postklient.
 
    ![](assets/mac-1.png)
 
-1. Välj **Läser** under E-post.
+1. Under E-post väljer du **Läser**.
 
    ![](assets/mac-2.png)
 
-1. Klicka på alternativknappen **Aldrig** under Säkerhet.
+1. Klicka på **Aldrig** alternativknapp.
 
    ![](assets/mac-3.png)

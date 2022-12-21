@@ -3,7 +3,6 @@ unique-page-id: 8781974
 description: Förstå händelsekort - Marketo Docs - produktdokumentation
 title: Om händelsekort
 exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
@@ -13,7 +12,7 @@ ht-degree: 0%
 
 # Om händelsekort {#understanding-event-cards}
 
-Använd Marketo Moments för att visa dina eventprogram på din telefon eller iPad.
+Använd Marketo Moments för att visa dina eventprogram på telefonen eller iPad.
 
 När du trycker på ett e-postprogramkort kan du:
 

@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359466
-description: Redigera fragment med dynamiskt innehåll - Marketo Docs - Produktdokumentation
+description: Redigera fragment med dynamiskt innehåll - Marketo Docs - produktdokumentation
 title: Redigera fragment med dynamiskt innehåll
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
 
 ---
-
 
 # Redigera fragment med dynamiskt innehåll {#edit-snippets-with-dynamic-content}
 
@@ -27,21 +26,21 @@ Använd Segmentering i kodfragment för att enkelt hantera dynamiskt innehåll i
 
    ![](assets/designstudio-1.png)
 
-1. Klicka på ditt **kodfragment** och **Redigera utkast**.
+1. Klicka på **Fragment** och sedan **Redigera utkast**.
 
    ![](assets/image2014-9-16-8-3a59-3a14.png)
 
-1. Klicka på **Segment by**.
+1. Klicka på **Segmentera efter**.
 
    ![](assets/image2014-9-16-8-3a59-3a27.png)
 
-1. Ange **Segmentering** och klicka på **Spara**.
+1. Retur **Segmentering** och klicka på **Spara**.
 
    ![](assets/image2014-9-16-8-3a59-3a42.png)
 
 ## Använd dynamiskt innehåll {#apply-dynamic-content}
 
-1. Klicka på ett **segment** och redigera sedan innehållet. Upprepa för varje segment
+1. Klicka på en **Segment** och sedan redigera innehållet. Upprepa för varje segment
 
    ![](assets/image2014-9-16-8-3a59-3a59.png)
 

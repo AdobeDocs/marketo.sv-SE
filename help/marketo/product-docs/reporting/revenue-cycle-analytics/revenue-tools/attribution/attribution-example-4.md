@@ -1,17 +1,16 @@
 ---
 unique-page-id: 7514151
-description: Attribution Example 4 - Marketo Docs - produktdokumentation
+description: Attribution Example 4 - Marketo Docs - Product Documentation
 title: Attribut - exempel 4
-translation-type: tm+mt
-source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
+exl-id: 98cd7401-3bc7-40a1-b88d-7174a3027d4e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
-
-# Attributionsexempel 4 {#attribution-example}
+# Attribut - exempel 4 {#attribution-example}
 
 Läs följande scenario och försök fastställa vilka tal som ska finnas i rutnätet.
 
@@ -19,8 +18,8 @@ Läs följande scenario och försök fastställa vilka tal som ska finnas i rutn
 * 15 april | John deltar (webbinarium) - Klart
 * 22 april | (möjlighet 1) skapad för $3 000
 * 24 april | (möjlighet 2) skapat för 5 000 USD
-* 25 april | John och Michelle är associerade med **båda** Optys
-* 29 april | [Opty 1] är Closed-Won
+* 25 april | John och Michelle är associerade med **båda** Optyer
+* 29 april | [Optisk 1] is Closed-Won
 
 | Programnamn | (Innehåll) | (webbinarium) |
 |---|---|---|
@@ -38,7 +37,7 @@ Läs följande scenario och försök fastställa vilka tal som ska finnas i rutn
 >
 >När ni har flera möjligheter och flera personer med programframgångar måste ni dela upp krediterna mellan människor och program. Observera dock att krediteringen för affärsmöjligheten 1 och 2 inte kombineras. De utgör en tydlig kreditbedömning.
 >
->När många är inblandade beräknar Marketo automatiskt de delar av en möjlighet som man kan tillgodoräkna sig.
+>När många är inblandade beräknar Marketo automatiskt de bråkdelar av en affärsmöjlighet som man kan tillgodoräkna sig.
 
 >[!NOTE]
 >

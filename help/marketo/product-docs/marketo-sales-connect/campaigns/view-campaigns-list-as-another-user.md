@@ -2,14 +2,13 @@
 unique-page-id: 18317367
 description: Visa kampanjlistan som en annan användare - Marketo Docs - Produktdokumentation
 title: Visa kampanjlistan som en annan användare
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 4efb565d-2760-4faa-93a3-c2e49b8b8ff3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
-
 
 # Visa kampanjlistan som en annan användare {#view-campaigns-list-as-another-user}
 
@@ -19,11 +18,11 @@ Som administratör kan ni visa kampanjer som alla användare.
 >
 >**Administratörsbehörigheter krävs**
 
-1. Klicka på **Kampanjer** i webbprogrammet.
+1. Klicka på **Kampanjer**.
 
    ![](assets/one-5.png)
 
-1. Klicka på listrutan **Visa som** och välj önskad användare.
+1. Klicka på **Visa som** och välj önskad användare.
 
    ![](assets/two-4.png)
 

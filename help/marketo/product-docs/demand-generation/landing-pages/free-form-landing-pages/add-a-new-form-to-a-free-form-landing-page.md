@@ -2,16 +2,15 @@
 unique-page-id: 2359705
 description: Lägg till ett nytt formulär på en landningssida i fri form - Marketo Docs - produktdokumentation
 title: Lägga till ett nytt formulär på en startsida med valfri form
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
 
 ---
 
-
-# Lägg till ett nytt formulär på en startsida med valfri form {#add-a-new-form-to-a-free-form-landing-page}
+# Lägga till ett nytt formulär på en startsida med valfri form {#add-a-new-form-to-a-free-form-landing-page}
 
 Blankett, möt landningssidan. Landningssida, möt formulär.
 
@@ -25,11 +24,11 @@ Blankett, möt landningssidan. Landningssida, möt formulär.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Leta upp landningssidan och klicka på **Redigera utkast**.
+1. Hitta landningssidan och klicka **Redigera utkast**.
 
    ![](assets/image2014-9-16-14-3a44-3a15.png)
 
-1. Dra och släpp elementet **Form** på sidan.
+1. Dra och släpp **Formulär** element på sidan.
 
    ![](assets/image2015-5-21-15-3a43-3a30.png)
 
@@ -39,9 +38,9 @@ Blankett, möt landningssidan. Landningssida, möt formulär.
 
 1. Det finns tre alternativ när du väljer en uppföljningssida:
 
-   * **Landningssida**  - för att välja en Marketo-landningssida
-   * **Extern URL**  - för att välja valfri URL
-   * **Formulärdefinierat**  - om du vill använda inställningarna som definierats på formulärnivå
+   * **Landningssida** - för att välja en Marketo landningssida
+   * **Extern URL** - för att välja valfri URL
+   * **Formulärdefinierad** - om du vill använda de inställningar som har definierats på formulärnivå
 
    >[!NOTE]
    >
@@ -49,10 +48,10 @@ Blankett, möt landningssidan. Landningssida, möt formulär.
    >
    >Uppföljningssidan är den sida som användarna ser när de har skickat in formuläret.
 
-1. Klicka på **Infoga**.
+1. Klicka **Infoga**.
 
    ![](assets/image2014-9-16-14-3a44-3a38.png)
 
    Snyggt gjort!
 
-Stäng landningssidans redigerare och [godkänn landningssidans utkast](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Stäng landningssidans redigerare och [godkänna utkastet till landningssida](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).

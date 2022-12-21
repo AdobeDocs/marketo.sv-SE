@@ -1,19 +1,18 @@
 ---
 unique-page-id: 7511931
-description: Skicka Marketo-e-post och kampanjåtgärder och bevakningsåtgärder i Salesforce1 - Marketo Docs - Produktdokumentation
-title: Skicka Marketo-åtgärder för e-post och kampanj och bevakning i Salesforce1
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Skicka Marketo åtgärder för e-post och kampanj och bevakning i Salesforce1 - Marketo Docs - Produktdokumentation
+title: Skicka Marketo e-post- och kampanjåtgärder och bevakningsåtgärder i Salesforce1
+exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
+# Skicka Marketo e-post- och kampanjåtgärder och bevakningsåtgärder i Salesforce1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 
-# Skicka Marketo-e-post och kampanjåtgärder och bevakningsåtgärder i Salesforce1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
-
-1. Gå till området Leadinformation i Salesforce1 och klicka på fliken **Relaterat**.
+1. Gå till området Leadinformation i Salesforce1 och klicka på **Relaterad** -fliken.
 
    ![](assets/one-1.png)
 
@@ -23,7 +22,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Vilka smarta kampanjer visas? De med utlösarna&quot;Campaign is Requested&quot;. Lär dig hur du ställer in en [utlöst kampanj med hjälp av&quot;Campaign is Requested](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
+   >Vilka smarta kampanjer visas? De med utlösarna&quot;Campaign is Requested&quot;. Lär dig hur du skapar en [utlöst kampanj med alternativet &quot;Campaign is Requested](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
 
 Coola, nu kan säljarna aktivt delta i marknadsföringen.
 
@@ -35,7 +34,5 @@ Coola, nu kan säljarna aktivt delta i marknadsföringen.
 >
 >1. Långsiktig vårdnad - när de inte har någon budget i år
 >1. Aktiv försäljningscykel - när säljaren inte vill att några meddelanden ska skickas till leadet utom den egna (använd den flagga som anger att marknadsföringen pausas för att tillfälligt avbryta prenumerationen)
-
 >
->
-Var kreativ. Vad vill säljaren automatisera? Fråga dem bara och vrida upp den!
+>Var kreativ. Vad vill säljaren automatisera? Fråga dem bara och vrida upp den!

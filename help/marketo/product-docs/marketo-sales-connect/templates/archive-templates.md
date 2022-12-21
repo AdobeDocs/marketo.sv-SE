@@ -1,15 +1,14 @@
 ---
 unique-page-id: 14352640
-description: Arkivmallar - Marketo Docs - Produktdokumentation
+description: Arkivmallar - Marketo Docs - produktdokumentation
 title: Arkivmallar
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 7cbb9230-e454-4e31-a987-83ce349db1da
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
 
 ---
-
 
 # Arkivmallar {#archive-templates}
 

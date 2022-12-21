@@ -3,7 +3,6 @@ unique-page-id: 1147001
 description: Använda logik för standardregel för smart lista - Marketo Docs - produktdokumentation
 title: Använda logik för standardregel för smart lista
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '129'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Använda standardlogiken för smart listregel {#using-standard-smart-list-rule-logic}
+# Använda logik för standardregel för smart lista {#using-standard-smart-list-rule-logic}
 
 Du kanske har märkt alternativet &quot;Använd filter&quot; när du skapar smarta kampanjlistor. Med den här inställningen kan du bestämma om filtren behöver utvärderas med operatorn AND eller OR.
 
@@ -19,7 +18,7 @@ Du kanske har märkt alternativet &quot;Använd filter&quot; när du skapar smar
 
 >[!NOTE]
 >
->Om du ändrar logiken för regel för smart lista gäller detta bara för filter, **inte**-utlösare.
+>Ändringen av regellogik för smarta listor gäller endast filter. **not** -utlösare.
 
 Utlösare utvärderas alltid som ELLER även om inställningen ovan är inställd på ALL.  Här är ett exempel:
 
@@ -38,7 +37,7 @@ Country is USA
 THEN follow the campaign's flow step(s)
 ```
 
-Om en person fyller i formuläret **eller** besöker sidan, kommer kampanjen sedan att utvärdera personen baserat på **alla** eller **alla** av de efterföljande filtren, beroende på vilken inställning som används.
+Så om en person fyller i formuläret **eller** besöker sidan, kommer kampanjen sedan att utvärdera personen baserat på **alla** eller **alla** av de efterföljande filtren, beroende på vilken inställning som används.
 
 >[!MORELIKETHIS]
 >

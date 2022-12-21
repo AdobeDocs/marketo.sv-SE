@@ -3,7 +3,6 @@ unique-page-id: 557154
 description: Skapa en smart lista - Marketo Docs - produktdokumentation
 title: Skapa en smart lista
 exl-id: 3acab0f8-44c9-4346-add7-8b317aa82471
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
@@ -23,15 +22,15 @@ Med smarta listor kan du söka efter särskilda grupper med personer med hjälp 
 
    ![](assets/image2014-8-11-10-3a17-3a8.png)
 
-1. Klicka på **Ny lokal resurs** under **Ny**.
+1. Under **Nytt**, klicka **Ny lokal resurs**.
 
    ![](assets/image2014-9-9-16-3a26-3a28.png)
 
-1. Välj **Smart lista**.
+1. Välj **Smart List**.
 
    ![](assets/image2014-9-9-16-3a27-3a18.png)
 
-1. Ange ett **namn** och klicka på **Skapa**.
+1. Ange **Namn** och klicka **Skapa**.
 
    ![](assets/image2014-9-9-16-3a27-3a39.png)
 

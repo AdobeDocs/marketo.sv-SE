@@ -1,19 +1,18 @@
 ---
 unique-page-id: 10100257
-description: E-postinsikter - frågor och svar - Marketo Docs - Produktdokumentation
+description: Vanliga frågor om e-postinsikter - Marketo Docs - produktdokumentation
 title: Vanliga frågor om e-postinsikter
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+exl-id: de3aca5a-08b4-4af8-ab92-675cb46dcbb2
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '600'
 ht-degree: 0%
 
 ---
 
-
 # Vanliga frågor om e-postinsikter {#email-insights-faq}
 
-## Finns det några skillnader mellan nyckeltal med e-postinsikter och andra marknads-e-postrapporter? {#are-there-any-differences-between-ratio-metrics-with-email-insights-and-other-marketo-email-reporting}
+## Finns det några skillnader mellan nyckeltal med e-postinsikter och andra e-postrapporter från Marketo? {#are-there-any-differences-between-ratio-metrics-with-email-insights-and-other-marketo-email-reporting}
 
 Ja. E-postinsikter korrelerar interaktionsstatistik med deras motsvarande leveransmått för samma e-post som skickas när interaktionsstatistik beräknas (Öppna frekvens, Klickfrekvens-till-Öppet, Avbeställningsfrekvens). I e-postinsikter, till exempel, när vi tittar på ett tidsseriediagram över den senaste veckan med dagliga uppdelningar av Klicka-till-öppna-hastighet, visar vi nu det verkliga korrelerade förhållandet mellan öppna/klicka/avprenumerera-händelser baserat på motsvarande leveransmått. Detta är i motsats till beteendet i Intresseutforskaren, som helt enkelt sammanfattar allt. Insikter om e-post ger en mer korrekt bild av engagemangsgraden.
 
@@ -23,9 +22,9 @@ I många fall räcker det inte med att utöka standardsystemdimensionerna med yt
 
 ## Varför kan jag inte återanvända anpassade Dimensioner när de har tilldelats? {#why-cant-i-re-use-custom-dimensions-slots-after-theyve-been-assigned}
 
-När en viss anpassad Dimension har tilldelats, kommer mappning att göra att tidigare data genererar ett fel när de blandas med en ny innebörd. På grund av detta kan det hända att anpassade Dimensioner inte återanvänds. Detta beteende överensstämmer med andra mätverktyg, som Google Analytics.
+När en viss anpassad Dimension har tilldelats, kommer mappning att orsaka ett fel när tidigare data blandas med en ny innebörd. På grund av detta kan det hända att anpassade Dimensioner inte återanvänds. Detta beteende överensstämmer med andra mätverktyg, som Google Analytics.
 
-## Har e-postinsikter stöd för Marketo Sales Insight-e-postmeddelanden? {#does-email-insights-support-marketo-sales-insight-emails}
+## Har e-postinsikter stöd för e-postmeddelanden från Marketo Sales Insight? {#does-email-insights-support-marketo-sales-insight-emails}
 
 Ja. Alla e-postmeddelanden som skickas via Marketo Sales Insights ingår i E-postinsikter.
 
@@ -43,4 +42,4 @@ Med undantag för Click-to-Open Rate, Open, Clicks och Unsubscribes är alla and
 
 ## Vad gör e-postinsikter när vissa e-postklienter blockerar bilder? {#what-does-email-insights-do-when-certain-email-clients-block-images}
 
-Ett vanligt branschproblem är att allt fler e-postklienter stänger av bilder som standard. Inläsning av bilder är grunden för hur Öppna registreras. Det är helt möjligt att en användare kan få ett e-postmeddelande med bilder blockerade, men med texten och länkarna fullt läsbara. Om en användare fick detta och klickade på en länk i det e-postmeddelandet, skulle det resultera i ett scenario för en klickhändelse, men ingen motsvarande Open-händelse för det meddelandet. Marketo Email Insights genererar automatiskt alla händelser som saknas. Logiken är identisk med hur Marketo gör detta för e-postrapporten och för e-postanalysdelen i skatteutforskaren.
+Ett vanligt branschproblem är att allt fler e-postklienter stänger av bilder som standard. Inläsning av bilder är grunden för hur Öppna registreras. Det är helt möjligt att en användare kan få ett e-postmeddelande med bilder blockerade, men med texten och länkarna fullt läsbara. Om en användare fick detta och klickade på en länk i det e-postmeddelandet, skulle det resultera i ett scenario för en klickhändelse, men ingen motsvarande Open-händelse för det meddelandet. Marketo e-postinsikter genererar automatiskt alla händelser som saknas. Logiken är identisk med hur Marketo gör detta för e-postprestandarapporten och för e-postanalysområdet i skatteutforskaren.

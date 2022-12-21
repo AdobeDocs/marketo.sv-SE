@@ -3,7 +3,6 @@ unique-page-id: 2949182
 description: SEO - Förstå nyckelord - Marketo Docs - produktdokumentation
 title: SEO - Förstå nyckelord
 exl-id: 33a350c9-7b57-4031-b916-58d2b12c1927
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '206'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Nyckelord är ryggraden i er SEO-strategi. Målet är att vara på första sidan, så nära första sidan som möjligt för nyckelord som är relevanta för ditt företag.
 
-Nyckelordsavsnittet visar hur framgångsrik sajten är när det gäller att uppnå detta och hur du ställer upp på [din tävling](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
+Nyckelordsavsnittet visar hur framgångsrik sajten är när det gäller att uppnå detta och hur du ställer upp till [din tävling](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
 
 ## Nyckelord - sammanfattningsvy {#keywords-summary-view}
 
@@ -35,7 +34,7 @@ Nyckelordsavsnittet visar hur framgångsrik sajten är när det gäller att uppn
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">Rankning och trend</td> 
-   <td colspan="1" rowspan="1"><p>Platsens rangordning för det här nyckelordet. Pilar visar hur din nyckelordsrankning går från föregående vecka </p><p><img alt="—" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—">  = rankning uppåt</p><p><img alt="—" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—"> = rangordning nedåt</p><p> <img alt="—" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—">= rangordna samma</p></td> 
+   <td colspan="1" rowspan="1"><p>Platsens rangordning för det här nyckelordet. Pilar visar hur din nyckelordsrankning går från föregående vecka </p><p><img alt="—" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">  = rankning uppåt</p><p><img alt="--" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--"> = rangordning nedåt</p><p> <img alt="--" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">= rangordna samma</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">Konkurrensnivå</td> 
@@ -43,7 +42,7 @@ Nyckelordsavsnittet visar hur framgångsrik sajten är när det gäller att uppn
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">Månatliga sökningar</td> 
-   <td colspan="1" rowspan="1">Hur många sökningar som sker per månad med nyckelordet. Dessa data baseras på exakta överensstämmelser och är endast tillgängliga för Google-US under en 12-månadersperiod. </td> 
+   <td colspan="1" rowspan="1">Hur många sökningar som sker per månad med nyckelordet. Dessa data baseras på exakta överensstämmelser och är endast tillgängliga för Google-US under en tolvmånadersperiod. </td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">Högsta rangordnings-URL för nyckelordsfras</td> 

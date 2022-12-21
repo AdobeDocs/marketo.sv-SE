@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359463
-description: Godkänn ett kodfragment - Marketo Docs - Produktdokumentation
+description: Godkänn ett kodfragment - Marketo Docs - produktdokumentation
 title: Godkänn ett fragment
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 9dd123dc-6a8c-483e-ba2b-e7dde2c97f5f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
 
 ---
-
 
 # Godkänn ett fragment {#approve-a-snippet}
 
@@ -23,7 +22,7 @@ Ett fragment måste godkännas före användning.
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. Klicka på ditt **kodfragment**. Klicka på **Godkänn** under **Utdragsåtgärder**.
+1. Klicka på **Fragment**. Under **Fragmentåtgärder**, klicka **Godkänn**.
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 

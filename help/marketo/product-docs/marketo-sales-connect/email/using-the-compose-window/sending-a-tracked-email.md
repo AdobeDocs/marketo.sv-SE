@@ -1,19 +1,18 @@
 ---
 unique-page-id: 37356565
-description: Skicka ett spårat e-postmeddelande - Marketo Docs - Produktdokumentation
+description: Skicka ett spårat e-postmeddelande - Marketo Docs - produktdokumentation
 title: Skicka ett spårat e-postmeddelande
-translation-type: tm+mt
-source-git-commit: 073b73255d49f859c32c8b4793e6798f02f7a5c4
+exl-id: 9a2a53a5-93b9-4254-8540-510c83a6c083
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
 
 ---
 
+# Skicka ett spårat e-postmeddelande {#sending-a-tracked-email}
 
-# Skicka en spårad e-post {#sending-a-tracked-email}
-
-När du skickar ett e-postmeddelande med Marketo Sales Connect spåras vyer (e-post öppnas) och klickningar (länkar som du klickar på).
+När du skickar ett e-postmeddelande med Marketo Sales Connect spåras visningar (e-post öppnas) och klickningar (länkar som du klickar på).
 
 >[!PREREQUISITES]
 >
@@ -27,7 +26,7 @@ När du skickar ett e-postmeddelande med Marketo Sales Connect spåras vyer (e-p
 
    ![](assets/one.png)
 
-1. Ange namn eller e-postadress för en mottagare i fältet **Till**.
+1. Ange namn eller e-postadress för en mottagare i **Till** fält.
 
    ![](assets/two.png)
 
@@ -41,7 +40,7 @@ När du skickar ett e-postmeddelande med Marketo Sales Connect spåras vyer (e-p
 
    >[!NOTE]
    >
-   >Om någon som har varit CC’d eller BCC’d öppnar e-postmeddelandet registreras den öppningen som en vy på personens post i fältet **Till**.
+   >Om någon som har varit en CC’d eller BCC’d öppnar e-postmeddelandet, spelas den öppningen in som en vy på personens anteckning i **Till** fält.
 
 1. Lägg till en ämnesrad.
 
@@ -49,9 +48,9 @@ När du skickar ett e-postmeddelande med Marketo Sales Connect spåras vyer (e-p
 
    >[!NOTE]
    >
-   >Du måste ange ämnesrad och mottagare för att kunna skicka e-postmeddelandet. Vi kommer att **automatiskt spara utkastet** när en ämnesrad och mottagare har lagts till.
+   >Du måste ange ämnesrad och mottagare för att kunna skicka e-postmeddelandet. Vi ska **automatiskt spara utkastet** när en ämnesrad och mottagare har lagts till.
 
-1. Skriv e-postmeddelandet med redigeraren. Klicka på **Skicka** (eller [Schemalägg](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md), om du vill) när du är klar.
+1. Skriv e-postmeddelandet med redigeraren. Klicka **Skicka** (eller [Schema](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md), om du vill) när du är klar.
 
    ![](assets/five.png)
 

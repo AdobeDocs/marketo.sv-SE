@@ -1,15 +1,14 @@
 ---
 unique-page-id: 14352608
-description: Ta bort personer från en kampanj - Marketo Docs - Produktdokumentation
+description: Ta bort personer från en kampanj - Marketo Docs - produktdokumentation
 title: Ta bort personer från en kampanj
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 700bf1eb-2e8d-46e6-9f93-704708b57543
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
 
 ---
-
 
 # Ta bort personer från en kampanj {#remove-people-from-a-campaign}
 
@@ -21,7 +20,7 @@ Dessutom kan du ta bort personer från själva kampanjen, ta bort personer från
 
 ## Ta bort en person direkt från en kampanj {#remove-a-person-directly-from-a-campaign}
 
-1. Klicka på fliken **Kampanjer** i Sales Connect.
+1. I Sales Connect klickar du på **Kampanjer** -fliken.
 
    ![](assets/one.png)
 
@@ -33,17 +32,17 @@ Dessutom kan du ta bort personer från själva kampanjen, ta bort personer från
 
    ![](assets/three.png)
 
-1. Leta reda på personen som du vill ta bort och klicka på **Ta bort**.
+1. Hitta den person du vill ta bort och klicka på **Ta bort**.
 
    ![](assets/four.png)
 
-1. (VALFRITT STEG) Du kan också ta bort flera personer samtidigt genom att klicka i kryssrutorna bredvid namnen och klicka på knappen **Ta bort** överst.
+1. (VALFRITT STEG) Du kan också ta bort flera personer samtidigt genom att klicka i kryssrutorna bredvid namnen och klicka på **Ta bort** överst.
 
    ![](assets/five.png)
 
-## Ta bort en person från en kampanj på personsidan {#remove-a-person-from-a-campaign-within-the-people-page}
+## Ta bort en person från en kampanj på sidan Personer {#remove-a-person-from-a-campaign-within-the-people-page}
 
-1. Klicka på fliken **Personer** i Sales Connect.
+1. I Sales Connect klickar du på **Folk** -fliken.
 
    ![](assets/one-a.png)
 
@@ -51,17 +50,17 @@ Dessutom kan du ta bort personer från själva kampanjen, ta bort personer från
 
    ![](assets/two-a.png)
 
-1. Panelen Persondetaljvy öppnas till höger. Klicka på fliken **Händelser** följt av knappen **Ta bort**.
+1. Panelen Persondetaljvy öppnas till höger. Klicka på **Historik** följt av **Ta bort** -knappen.
 
    ![](assets/three-a.png)
 
 ## Ta bort en grupp med personer från en kampanj {#remove-a-group-of-people-from-a-campaign}
 
-1. Klicka på fliken **Personer** i Sales Connect.
+1. I Sales Connect klickar du på **Folk** -fliken.
 
    ![](assets/one-b.png)
 
-1. Sök efter och markera din grupp under **Mina grupper**.
+1. Hitta och markera din grupp under **Mina grupper**.
 
    ![](assets/two-b.png)
 
@@ -69,6 +68,6 @@ Dessutom kan du ta bort personer från själva kampanjen, ta bort personer från
 
    ![](assets/three-b.png)
 
-1. Klicka på **Åtgärder** och välj **Ta bort markerade från kampanj**.
+1. Klicka **Åtgärder** och välja **Ta bort markerade från kampanj**.
 
    ![](assets/four-b.png)

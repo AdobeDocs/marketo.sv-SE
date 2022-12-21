@@ -3,7 +3,6 @@ unique-page-id: 2953405
 description: Redigera inställningar för analysbeteende - Marketo Docs - produktdokumentation
 title: Redigera inställningar för analysbeteende
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '182'
@@ -13,7 +12,7 @@ ht-degree: 0%
 
 # Redigera inställningar för analysbeteende {#edit-analytics-behavior-settings}
 
-Du kan ställa in [analysbeteendet på adminnivå på kanalerna](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), men du kan även redigera det på programnivå. Så här gör du.
+Du kan ange [analysbeteende på adminnivå i kanaler](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), men du kan även redigera det på programnivå. Så här gör du.
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
@@ -35,15 +34,15 @@ Du kan ställa in [analysbeteendet på adminnivå på kanalerna](/help/marketo/p
 >
 >**Definition**
 >
->**Inkluderande**  - Det här alternativet ser till att programmet är tillgängligt för rapportering i intäktsutforskaren och analytiker oavsett om du har inkluderat en periodkostnad eller inte.
+>**Inkluderande** - Det här alternativet säkerställer att programmet är tillgängligt för rapportering i intäktsutforskaren och analytiker oavsett om du har inkluderat en periodkostnad eller inte.
 >
->**Operativ**  - Det här alternativet innebär att programmet inte visas i någon av intäktsutforskarna eller analysatorerna.
+>**Operativ** - Det här alternativet innebär att programmet inte visas i någon av intäktsutforskarna eller analysatorerna.
 
 >[!NOTE]
 >
 >Standardbeteendet (om den här inställningen inte används) är att programmet endast inkluderas i Analytics om det finns minst en periodkostnad, även en med noll dollar tilldelat.
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 

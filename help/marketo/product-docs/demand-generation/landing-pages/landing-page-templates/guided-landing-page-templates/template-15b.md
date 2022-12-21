@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Mall 15B {#template-15b}
 
-Högerklicka för att [hämta mall 15B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15b.html)
+Högerklicka för att [ladda ned mall 15B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15b.html)
 
 ![](assets/image2015-8-13-13-3a29-3a31.png)
 

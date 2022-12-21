@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359398
-description: Skapa ett formulär - Marketo Docs - Produktdokumentation
+description: Skapa ett formulär - Marketo Docs - produktdokumentation
 title: Skapa ett formulär
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
 
 ---
-
 
 # Skapa ett formulär {#create-a-form}
 
@@ -23,11 +22,11 @@ Skapa och använd ett formulär på en landningssida för att generera nya namn.
 
    ![](assets/login-marketing-activities.png)
 
-1. Hitta och välj ditt **program**.
+1. Hitta och välj **program**.
 
    ![](assets/programseelct.png)
 
-1. Under **Nytt** klickar du på **Nytt** **Lokalt** **Resurs**.
+1. Under **Nytt**, klicka **Nytt** **Lokal** **Tillgång**.
 
    ![](assets/newlocalasset.png)
 
@@ -35,7 +34,7 @@ Skapa och använd ett formulär på en landningssida för att generera nya namn.
 
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 
-1. Ange ett formulär **Namn** och klicka på **Skapa**.
+1. Ange ett formulär **Namn** och klicka **Skapa**.
 
    ![](assets/newformwithhands.png)
 

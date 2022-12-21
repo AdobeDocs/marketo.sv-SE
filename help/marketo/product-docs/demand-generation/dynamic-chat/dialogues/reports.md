@@ -1,10 +1,11 @@
 ---
 description: Rapporter - Marketo Docs - produktdokumentation
 title: Rapporter
-source-git-commit: 38e65efc50f7f5e7a2a3dbe91035327007475721
+exl-id: 25d20567-4bb9-4bc5-aeeb-0ff26d3909b3
+source-git-commit: 3e3446183875b8df7f6ec1fc4a78a5581b109aed
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

@@ -3,7 +3,8 @@ description: Importera kontakter via CSV - Marketo Docs - Produktdokumentation
 title: Importera kontakter via CSV
 hide: true
 hidefromtoc: true
-source-git-commit: 9cbf22e3cecd707641a87482b95eb3d43d3a8f78
+exl-id: 6fb6c48a-054b-45e3-ae52-e857485044f4
+source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%

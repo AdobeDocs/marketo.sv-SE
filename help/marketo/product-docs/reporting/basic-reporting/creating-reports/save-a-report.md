@@ -1,21 +1,20 @@
 ---
 unique-page-id: 7511980
-description: Spara en rapport - Marketo Docs - Produktdokumentation
+description: Spara en rapport - Marketo Docs - produktdokumentation
 title: Spara en rapport
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: be6da793-1498-4ba1-8d65-e9c0fd5d1033
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
-
 # Spara en rapport {#save-a-report}
 
 Ibland kan du behöva spara en standardrapport för att kunna visa den igen senare. Så här kan du göra:
 
-1. Gå till området **Analytics**.
+1. Gå till **Analyser** område.
 
    ![](assets/image2015-4-30-11-3a50-3a5.png)
 
@@ -23,15 +22,15 @@ Ibland kan du behöva spara en standardrapport för att kunna visa den igen sena
 
    ![](assets/image2015-4-20-16-3a57-3a42.png)
 
-1. Klicka på **Rapportåtgärder** och välj **Spara som**.
+1. Klicka **Rapportåtgärder** och markera **Spara som**.
 
    ![](assets/image2015-4-20-17-3a4-3a11.png)
 
-1. **Spara** till en plats och välj en  **mapp**.
+1. **Spara i** en plats och välj en **Mapp**.
 
    ![](assets/image2015-4-20-17-3a33-3a25.png)
 
-1. **Ge** rapporten ett namn och klicka på  **Spara**.
+1. **Namn** rapporten och klicka på **Spara**.
 
    ![](assets/image2015-4-20-17-3a34-3a57.png)
 
@@ -41,4 +40,4 @@ Ibland kan du behöva spara en standardrapport för att kunna visa den igen sena
 
 >[!MORELIKETHIS]
 >
->Lär dig hur du [klonar en rapport till grupprapporter](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).
+>Lär dig hur [klona en rapport för att gruppera rapporter](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).

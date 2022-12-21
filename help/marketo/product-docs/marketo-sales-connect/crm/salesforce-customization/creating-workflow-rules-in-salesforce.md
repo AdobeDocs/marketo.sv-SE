@@ -1,23 +1,22 @@
 ---
 unique-page-id: 14745823
-description: Skapa arbetsflödesregler i Salesforce - Marketo Docs - Produktdokumentation
+description: Skapa arbetsflödesregler i Salesforce - Marketo Docs - produktdokumentation
 title: Skapa arbetsflödesregler i Salesforce
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 0cfce178-453b-4949-96aa-c327278a267d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
 
 ---
 
-
-# Skapar arbetsflödesregler i Salesforce {#creating-workflow-rules-in-salesforce}
+# Skapa arbetsflödesregler i Salesforce {#creating-workflow-rules-in-salesforce}
 
 När du använder Marketo Sales Insight (MSI) och Marketo Sales Connect (MSC) parallellt uppdateras inte MSI Best Bets-funktionen i Salesforce. Alla andra MSI-funktioner fungerar som vanligt (visa intressanta stunder iFrame, skicka e-post, lägga till i kampanjer osv.). I den här artikeln finns en lösning som hjälper dig att få bästa val att fungera igen.
 
 >[!NOTE]
 >
->Detta påverkar bara kunder som använder **både** MSI och MSE och som vill använda funktionen för bästa val i MSI. Om du inte behöver/använder Bästa val kan du bortse från det.
+>Detta påverkar bara kunder som använder **båda** MSI och MSE, och som vill använda funktionen Bästa val i MSI. Om du inte behöver/använder Bästa val kan du bortse från det.
 
 ## Komma igång {#getting-started}
 
@@ -37,22 +36,22 @@ Nedan visas de rekommenderade namnen på arbetsflödesreglerna och en beskrivnin
   </tr> 
   <tr> 
    <td>Uppdatera fält för typ av intressant stund</td> 
-   <td><p>Kopiera från: Senaste Marketo-engagemangstyp<br>Kopiera till: Typ av senaste intressanta stund</p></td> 
+   <td><p>Kopiera från: Senaste Marketo Engagement Type<br>Kopiera till: Typ av senaste intressanta stund</p></td> 
   </tr> 
   <tr> 
    <td>Uppdatera fältet Intressanta tidpunkter</td> 
-   <td><p>Kopiera från: Senaste Marketo Engagement-källa<br>Kopiera till: Källa för senaste intressanta stund</p></td> 
+   <td><p>Kopiera från: Senaste Marketo Engagement Source<br>Kopiera till: Källa för senaste intressanta stund</p></td> 
   </tr> 
   <tr> 
    <td>Uppdatera fältet Intressant datum</td> 
-   <td><p>Kopiera från: Senaste marknadsföringsdatum<br>Kopiera till: Senaste intressanta datum</p></td> 
+   <td><p>Kopiera från: Senaste Marketo-engagemangsdatum<br>Kopiera till: Senaste intressanta datum</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Instruktioner {#instructions}
 
-1. När du har klickat på **Konfigurera** söker du efter **Arbetsflöde** och väljer **Arbetsflödesregler**.
+1. Efter klickning **Inställningar**, sök efter **Arbetsflöde** och markera **Arbetsflödesregler**.
 
    ![](assets/one-1.png)
 
@@ -60,19 +59,19 @@ Nedan visas de rekommenderade namnen på arbetsflödesreglerna och en beskrivnin
 
    ![](assets/two-1.png)
 
-1. Klicka på listrutan Objekt och välj **Lead** och klicka sedan på **Nästa**.
+1. Klicka på listrutan Objekt och välj **Lead** och sedan klicka **Nästa**.
 
    ![](assets/three-1.png)
 
-1. Ange&quot;Uppdatera intressant tillfälligt fält&quot; som regelnamn. Markera alternativknappen **som har skapats och varje gång den redigeras**. I listrutan Regelkriterier väljer du **formel utvärderas till true**. Sök efter och välj funktionen ISCHANGED. Markera sedan standardfältvärdet och klicka på **Infoga fält**.
+1. Ange&quot;Uppdatera intressant tillfälligt fält&quot; som regelnamn. Markera alternativknappen **och varje gång det redigeras**. I listrutan Regelvillkor väljer du **formel utvärderas till true**. Sök efter och välj funktionen ISCHANGED. Markera sedan standardfältvärdet och klicka på **Infoga fält**.
 
    ![](assets/four-1.png)
 
-1. Välj **Last Marketo Engagement Desc** i popup-fönstret &quot;Infoga fält&quot; och klicka på **Infoga**.
+1. Välj **Senaste Marketo Engagement Desc** och klicka **Infoga**.
 
    ![](assets/five-1.png)
 
-1. Klicka på **Spara och nästa**.
+1. Klicka **Spara och nästa**.
 
    ![](assets/6.png)
 
@@ -80,23 +79,23 @@ Nedan visas de rekommenderade namnen på arbetsflödesreglerna och en beskrivnin
 
    ![](assets/seven.png)
 
-1. I fältet Namn anger du&quot;Uppdatera intressant tillfälligt dekorfält&quot; (unikt namn genererar automatiskt). I listrutan Fält att uppdatera väljer du **Senaste intressanta stund**. Välj alternativknappen **Använd en formel för att ange ett nytt värde** och klicka sedan på **Visa formelredigerare**.
+1. I fältet Namn anger du&quot;Uppdatera intressant tillfälligt dekorfält&quot; (unikt namn genererar automatiskt). I listrutan Fält att uppdatera väljer du **Senaste intressanta tillfälle**. Välj **Använd en formel för att ange nytt värde** alternativknapp, klicka sedan på **Visa formelredigerare**.
 
    ![](assets/eight.png)
 
-1. Klicka på knappen **Infoga fält**.
+1. Klicka på **Infoga fält** -knappen.
 
    ![](assets/9a.png)
 
-1. Välj **Last Marketo Engagement Desc** och klicka på **Infoga**. På nästa sida klickar du på **Spara**.
+1. Välj **Senaste Marketo Engagement Desc** och klicka **Infoga**. På nästa sida klickar du på **Spara**.
 
    ![](assets/nine.png)
 
-1. Klicka på **Klar**.
+1. Klicka **Klar**.
 
    ![](assets/twelve.png)
 
-1. Klicka på **Aktivera** för att aktivera arbetsflödesregeln.
+1. Klicka **Aktivera** för att aktivera arbetsflödesregeln.
 
    ![](assets/thirteen.png)
 

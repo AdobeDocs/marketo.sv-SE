@@ -3,7 +3,6 @@ unique-page-id: 2953461
 description: SFDC-synkronisering - fältsynkronisering - Marketo Docs - produktdokumentation
 title: SFDC-synkronisering - fältsynkronisering
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '413'
@@ -57,7 +56,7 @@ Sökfält i SFDC synkroniserar ID:t men inte det refererade namnet.
 
 ## SFDC-formelfält då? {#what-about-sfdc-formula-fields}
 
-Formelfält synkroniseras, men uppdateringar av referenserna i formeln synkroniseras inte förrän en [systemmallsstämpel](https://help.salesforce.com/apex/HTViewSolution?id=000193203&amp;language=en_US) har uppdaterats.
+Formelfält synkroniseras, men uppdateringar av referenserna i formeln synkroniseras inte förrän en uppdatering av en [Stämpel för systemläge](https://help.salesforce.com/apex/HTViewSolution?id=000193203&amp;language=en_US).
 
 ## Vad händer när jag tar bort ett fält från Salesforce som tidigare synkroniserades med Marketo? {#what-happens-when-i-delete-a-field-from-salesforce-that-was-previously-syncing-with-marketo}
 

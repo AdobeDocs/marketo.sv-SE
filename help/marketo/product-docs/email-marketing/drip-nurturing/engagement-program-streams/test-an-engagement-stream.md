@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359839
-description: Testa en engagemangsström - Marketo Docs - Produktdokumentation
+description: Testa en engagemangsström - Marketo Docs - produktdokumentation
 title: Testa en engagemangsström
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 144d805c-7805-4b35-b25c-4a18a7c3ab87
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
 
 ---
-
 
 # Testa en engagemangsström {#test-an-engagement-stream}
 
@@ -23,11 +22,11 @@ När du har lagt till allt innehåll i en ström kan du testa dem en bit i taget
 
    ![](assets/two.png)
 
-1. Klicka på **Programåtgärder** och välj **Testa ström**.
+1. Klicka **Programåtgärder** och markera **Testström**.
 
    ![](assets/three.png)
 
-1. Välj din person i listrutan **Testa person**. Kom ihåg att innehåll faktiskt kommer att gå ut, så tänk på det när du väljer.
+1. Välj en person i **Testperson** nedrullningsbar meny. Kom ihåg att innehåll faktiskt kommer att gå ut, så tänk på det när du väljer.
 
    ![](assets/four-rubix.png)
 
@@ -37,12 +36,12 @@ När du har lagt till allt innehåll i en ström kan du testa dem en bit i taget
 
    >[!TIP]
    >
-   >Om den testperson du söker inte finns kan du använda alternativet **Skapa person** och skapa en direkt.
+   >Om den testperson du söker inte finns använder du **Skapa person** för att skapa en direkt.
 
    Klicka på Inledande ström, markera den ström som du vill testa och klicka på Kör sändning.
    ![](assets/five-rubiks.png)
 
-1. När personen har gått igenom de [övergångsregler](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) som du tidigare har konfigurerat klickar du på ikonen Uppdatera.
+1. När personen gått igenom [övergångsregler](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) som du redan har konfigurerat klickar du på ikonen Uppdatera.
 
    ![](assets/six-rubiks.png)
 
@@ -54,4 +53,4 @@ När du har lagt till allt innehåll i en ström kan du testa dem en bit i taget
 
    >[!NOTE]
    >
-   >Inget annat innehåll skickas om du inte klickar på **Kör klippet igen**.
+   >Inget annat innehåll skickas om du inte klickar på **Kör Cast igen**.

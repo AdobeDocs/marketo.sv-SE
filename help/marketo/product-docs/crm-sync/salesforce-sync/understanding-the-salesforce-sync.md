@@ -3,7 +3,6 @@ unique-page-id: 4719283
 description: Förstå Salesforce-synkronisering - Marketo Docs - produktdokumentation
 title: Förstå Salesforce-synkronisering
 exl-id: 658c81ff-5fb3-4ad8-8759-da55bbf4e263
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '219'
@@ -40,6 +39,6 @@ Synkroniseringen mellan Salesforce och Marketo är endast dubbelriktad för lead
 
 >[!NOTE]
 >
->De [autentiseringsuppgifter du anger i Marketo för Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) används för att synkronisera data. Endast data som dessa autentiseringsuppgifter har åtkomst till inkluderas.
+>The [inloggningsuppgifter som du anger i Marketo för Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) används för att synkronisera data. Endast data som dessa autentiseringsuppgifter har åtkomst till inkluderas.
 
 Marketo synkronisering med Salesforce är den mest kraftfulla av sitt slag i världen. Det känns som magi. en ändring görs och det andra systemet är snart uppdaterat.

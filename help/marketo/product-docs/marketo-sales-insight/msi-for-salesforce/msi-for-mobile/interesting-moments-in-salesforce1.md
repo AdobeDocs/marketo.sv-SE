@@ -3,7 +3,6 @@ unique-page-id: 7511877
 description: Intressanta ögonblick i Salesforce1 - Marketo Docs - produktdokumentation
 title: Intressanta stunder i Salesforce1
 exl-id: d9009ca9-82f2-4cf1-bf09-e84a7b53369d
-translation-type: tm+mt
 source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
 workflow-type: tm+mt
 source-wordcount: '88'
@@ -13,7 +12,7 @@ ht-degree: 0%
 
 # Intressanta stunder i Salesforce1 {#interesting-moments-in-salesforce}
 
-[Att använda Intressant ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) meriter är nyckeln till att kommunicera med säljarna via appen Marketo Sales Insight. Med Marketo Sales Insight för Salesforce1 kan du göra samma sak med din smarttelefon!
+[Använda intressanta stunder](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) är nyckeln till att kommunicera med säljarna via appen Marketo Sales Insight. Med Marketo Sales Insight för Salesforce1 kan du göra samma sak med din smarttelefon!
 
 >[!AVAILABILITY]
 >
@@ -25,7 +24,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. Klicka på fliken **Relaterad** för att se Intressanta ögonblick, Webbaktivitet, E-post och Poäng.
+1. Klicka på **Relaterad** om du vill se Intressanta ögonblick, webbaktivitet, e-post och poäng.
 
    ![](assets/two.png)
 

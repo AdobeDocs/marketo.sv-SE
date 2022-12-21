@@ -3,7 +3,6 @@ unique-page-id: 1146974
 description: Redigera kvalificeringsregler i en smart kampanj - Marketo Docs - produktdokumentation
 title: Redigera kvalificeringsregler i en smart kampanj
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '212'
@@ -15,15 +14,15 @@ ht-degree: 0%
 
 Kvalificeringsregler styr hur många gånger någon kan gå igenom flödet i en smart kampanj. Även om någon utlöser en smart kampanj flera gånger skickas de som standard bara via flödet en gång. Så här ändrar du inställningarna.
 
-1. Klicka på fliken **Schedule** i den smarta kampanjen och **Redigera inställningar**.
+1. Klicka på **Schema** och sedan **Redigera inställningar**.
 
    ![](assets/programeditsettings-hands.png)
 
    >[!TIP]
    >
-   >Du kan också klicka på **Redigera** till höger om Inställningar för smart kampanj.
+   >Du kan också klicka **Redigera** till höger om&quot;Inställningar för smart kampanj&quot;.
 
-1. Välj hur ofta ni ska leda era medarbetare genom det smarta kampanjflödet: **endast en gång**, **varje gång** eller **en gång var # dag**/**vecka**/**månad**.
+1. Välj hur ofta ni ska leda era medarbetare genom det smarta kampanjflödet: **endast en gång**, **varje gång**, eller **en gång var # dag**/**veckor**/**månader**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign.png)
 
@@ -33,7 +32,7 @@ Kvalificeringsregler styr hur många gånger någon kan gå igenom flödet i en 
 
    >[!NOTE]
    >
-   >Kommunikationsbegränsningar används inte som standard för smarta kampanjer. Lär dig hur du [tillämpar kommunikationsbegränsningar på en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md).
+   >Kommunikationsbegränsningar används inte som standard för smarta kampanjer. Lär dig hur [använda kommunikationsbegränsningar för en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md).
 
    >[!NOTE]
    >

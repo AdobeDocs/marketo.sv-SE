@@ -3,7 +3,6 @@ unique-page-id: 1147126
 description: Använda hemfliken Program - Marketo Docs - produktdokumentation
 title: Använda fliken Program
 exl-id: 04c36190-d853-4900-b566-973d08316e37
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Använda hemfliken för programmet {#using-the-program-home-tab}
+# Använda fliken Program {#using-the-program-home-tab}
 
 På startfliken för programmet får du en översikt över vad som pågår i programmet.
 
@@ -33,17 +32,17 @@ På startfliken för programmet får du en översikt över vad som pågår i pro
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-1. Klicka på **Exportera** längst ned i sammanfattningen för att hämta rapporten.
+1. Klicka **Exportera** längst ned i Sammanfattning för att ladda ned rapporten.
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
-## Används av vyn {#used-by-view}
+## Används av vy {#used-by-view}
 
 1. Välj ett program i Marknadsföringsaktiviteter.
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. Klicka på listrutan **Visa**. Välj **Används av**.
+1. Klicka på **Visa** nedrullningsbar meny. Välj **Används av**.
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
@@ -57,7 +56,7 @@ På startfliken för programmet får du en översikt över vad som pågår i pro
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. Klicka på listrutan **Visa**. Välj **medlemskap**.
+1. Klicka på **Visa** nedrullningsbar meny. Välj **medlemskap**.
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
@@ -67,7 +66,7 @@ På startfliken för programmet får du en översikt över vad som pågår i pro
 
    >[!NOTE]
    >
-   >**Med** historik avses alla som har gått igenom programmet, medan  **** för närvarande endast omfattar personer som för närvarande deltar i programmet.
+   >**Historisk** innebär att alla som har gått igenom programmet **Aktuell** innehåller endast personer som för närvarande deltar i programmet.
 
    >[!MORELIKETHIS]
    >

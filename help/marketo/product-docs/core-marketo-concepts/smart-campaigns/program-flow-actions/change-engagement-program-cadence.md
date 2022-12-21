@@ -3,7 +3,6 @@ unique-page-id: 1147013
 description: Change Engagement Program Cadence - Marketo Docs - produktdokumentation
 title: Change Engagement Program Cadence
 exl-id: ce087a0d-43e1-467c-b7f0-3df072048f0e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Ändra aktivitetsprogrammets avslutande {#change-engagement-program-cadence}
+# Change Engagement Program Cadence {#change-engagement-program-cadence}
 
 1. Översikt
 
@@ -29,7 +28,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-14-3a49-3a27.png)
 
-1. Välj **Pausad** som **Nytt värde** om du vill hindra personen från att ta emot innehåll.
+1. Välj **Pausad** som **Nytt värde** för att hindra personen från att ta emot innehåll.
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 

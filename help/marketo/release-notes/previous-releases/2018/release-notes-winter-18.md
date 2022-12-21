@@ -70,13 +70,13 @@ Med vårt nya LinkedIn-API kan ni nu rikta om personer i er Marketo-databas till
 
 ## Webbanpassning {#web-personalization}
 
-**Japansk datakälla för Personalization för webben**
+**Japansk datakälla för webbanpassning**
 
-Marketo lägger till ytterligare en japansk datakälla för Web Personalization för att förbättra identifieringen (omvänd IP-sökning) och personaliseringen för besökare som kommer från Japan. Organisationsnamn visas på japanska.
+Marketo lägger till ytterligare en japansk datakälla för webbpersonalisering för att förbättra identifieringen (omvänd IP-sökning) och personaliseringen för besökare som kommer från Japan. Organisationsnamn visas på japanska.
 
 **[Skapa ett webbsegment med hjälp av statiska listor](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
-Web Personalization kan nu personalisera innehåll för en känd webbbesökare som ingår i en statisk lista som definieras i marknadsföringsaktiviteter (MLM). Med den här förbättringen kan ni nu marknadsföra statiska listor över alla kanaler och rikta in er på personer på dessa listor med personaliserat innehåll på er webbplats.
+Webbpersonalisering kan nu personalisera innehåll för en känd webbbesökare som ingår i en statisk lista som definieras i marknadsföringsaktiviteter (MLM). Med den här förbättringen kan ni nu marknadsföra statiska listor över alla kanaler och rikta in er på personer på dessa listor med personaliserat innehåll på er webbplats.
 
 ## ContentAI {#contentai}
 

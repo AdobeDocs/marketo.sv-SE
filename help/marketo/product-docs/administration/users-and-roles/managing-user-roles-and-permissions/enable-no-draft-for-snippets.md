@@ -3,7 +3,6 @@ unique-page-id: 10095636
 description: Aktivera No-draft för kodfragment - Marketo Docs - produktdokumentation
 title: Aktivera No-draft för kodfragment
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Aktivera No-draft för fragment {#enable-no-draft-for-snippets}
+# Aktivera No-draft för kodfragment {#enable-no-draft-for-snippets}
 
 Med No-Draft for Snippets kan du distribuera kodfragmentändringar utan att skriva ut godkända resurser. Alla resurser som använder det redigerade fragmentet får uppdateringarna och behåller sina respektive statusvärden:
 
@@ -25,29 +24,29 @@ Inget utkast aktiveras automatiskt för alla administratörsroller. En administr
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **Admin** och klicka på **Användare och roller**.
+1. Gå till **Administratör** och klicka **Användare och roller**.
 
    ![](assets/usersandroles.png)
 
-1. Gå till fliken **Roller**, markera en roll och klicka sedan på **Redigera roll**.
+1. Gå till **Roller** väljer du en roll och klickar sedan på **Redigera roll**.
 
    ![](assets/editrole2.png)
 
-1. Expandera alternativet **Access Design Studio**.
+1. Expandera **Access Design Studio** alternativ.
 
    ![](assets/expanddesignstudio.png)
 
-1. Expandera alternativet **Åtkomstfragment**.
+1. Expandera **Åtkomstfragment** alternativ.
 
    ![](assets/expandsnippet.png)
 
-1. Expandera behörigheten **Godkänn fragment** och markera rutan **Inget utkast**. Klicka sedan på **Spara**.
+1. Expandera **Godkänn fragment** behörighet och kontrollera **Ej utkast** box. Klicka sedan på **Spara**.
 
    ![](assets/2017-06-15-10-35-04.png)
 
 >[!TIP]
 >
->Om du vill inaktivera No-Draft följer du steg 1-4 ovan, avmarkerar kryssrutan No-Draft och klickar på **Save**.
+>Om du vill inaktivera No-draft följer du steg 1-4 ovan, avmarkerar kryssrutan No-Draft och klickar på **Spara**.
 
 >[!MORELIKETHIS]
 >

@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2359777
-description: Granska offerter i omröstning - Marketo Docs - Produktdokumentation
+description: Granska offerter i omröstning - Marketo Docs - produktdokumentation
 title: Granska rösterna i omröstningen
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 1877c5d2-0842-468c-826b-8027270ab292
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
-
-# Granska offerter i omröstning {#review-votes-cast-in-poll}
+# Granska rösterna i omröstningen {#review-votes-cast-in-poll}
 
 Vem röstade på vad i din omröstning? Låt oss ta reda på det.
 
-1. I **Marknadsföringsaktiviteter** väljer du undersökningen och klickar på fliken **Deltagare**.
+1. I **Marknadsföringsaktiviteter**, markerar omröstningen och klickar på **Deltagare** -fliken.
 
    ![](assets/image2015-5-12-14-3a35-3a10.png)
 
-1. Klicka på siffran i kolumnen **Röster**.
+1. Klicka på siffran i **Röster** kolumn.
 
    ![](assets/image2015-5-12-14-3a36-3a36.png)
 
-1. Det de röstade om kommer att visas. Klicka på **Stäng**.
+1. Det de röstade om kommer att visas. Klicka **Stäng**.
 
    ![](assets/image2015-5-12-14-3a37-3a24.png)
 

@@ -1,15 +1,14 @@
 ---
 unique-page-id: 10100649
-description: Konfigurera meddelandebakgrunden i appen - Marketo Docs - Produktdokumentation
+description: Konfigurera meddelandebakgrunden i appen - Marketo Docs - produktdokumentation
 title: Konfigurera meddelandebakgrunden i programmet
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 0cb10432-5611-4efe-a605-9a5a57f1bc7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 0%
 
 ---
-
 
 # Konfigurera meddelandebakgrunden i programmet {#set-up-the-in-app-message-background}
 
@@ -23,7 +22,7 @@ Att välja en meddelandebakgrund är ett viktigt steg när du vill avsluta ditt 
 
    ![](assets/image2016-5-9-8-3a38-3a1.png)
 
-1. Om du vill ange en färg klickar du på **Färg** och sedan på färgmarkeringsrutan. Markera färgen genom att klicka på den eller ange Hex- eller RGB-koderna i färgväljaren.
+1. Om du vill ange en färg klickar du på **Färg** och sedan färgremsan. Markera färgen genom att klicka på den eller ange koderna Hex eller RGB i färgväljaren.
 
    ![](assets/image2016-5-9-8-3a46-3a59.png)
 
@@ -31,11 +30,11 @@ Att välja en meddelandebakgrund är ett viktigt steg när du vill avsluta ditt 
    >
    >Vanligtvis är vitt som standard en vinnare.
 
-1. Om du vill använda en bakgrund klickar du på **Bild** och sedan på länken **Välj bild**.
+1. Om du vill använda en bakgrund klickar du på **Bild** och sedan **Välj bild** länk.
 
    ![](assets/image2016-5-9-8-3a52-3a43.png)
 
-1. Välj bland filer som överförts till Design Studio. Klicka på **Välj**.
+1. Välj bland filer som överförts till Design Studio. Klicka **Välj**.
 
    ![](assets/image2016-5-9-9-3a0-3a2.png)
 
@@ -47,7 +46,7 @@ Att välja en meddelandebakgrund är ett viktigt steg när du vill avsluta ditt 
 
    ![](assets/image2016-5-9-9-3a2-3a33.png)
 
-1. Använd en valfri bildkant. Standardinställningen är **Av**. Markera först färgen genom att klicka på den eller genom att ange Hex- eller RGB-värdena i färgväljaren.
+1. Använd en valfri bildkant. Standardinställningen är **Av**. Markera först färgen genom att klicka på den eller genom att ange färgnumren Hex eller RGB i färgväljaren.
 
    ![](assets/image2016-5-9-9-3a54-3a8.png)
 

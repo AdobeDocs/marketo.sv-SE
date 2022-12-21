@@ -20,7 +20,7 @@ Det finns två sätt att skapa e-postmeddelanden i Marketo. Vi tittar på båda.
 
    ![](assets/create-an-email-1.png)
 
-1. Klicka på listrutan **Ny** och välj **Ny e-post**.
+1. Klicka på **Nytt** nedrullningsbar meny och välj **Ny e-post**.
 
    ![](assets/create-an-email-2.png)
 
@@ -36,11 +36,11 @@ Enkelt! Nu åt andra hållet..
 
    ![](assets/create-an-email-3.png)
 
-1. Välj det program du vill lägga till e-postmeddelandet i, klicka på listrutan **Nytt** och välj **Ny lokal resurs**.
+1. Välj det program du vill lägga till e-postmeddelandet i och klicka på **Nytt** nedrullningsbar meny och välj **Ny lokal resurs**.
 
    ![](assets/create-an-email-4.png)
 
-1. Klicka på **E-post**.
+1. Klicka **E-post**.
 
    ![](assets/create-an-email-5.png)
 
@@ -54,7 +54,7 @@ Vilken metod du än väljer kommer du till mallväljaren.
 
    >[!NOTE]
    >
-   >Du kan välja från en samling färdiga responsiva e-postmallar, eller en mall som du sparade genom att först välja **Mina mallar**, och sedan följa samma steg.
+   >Du kan välja mellan en samling färdiga responsiva e-postmallar, eller en mall som du sparade genom att först välja **Mina mallar** och följer samma steg.
 
 1. Ange en ämnesrad. Rekommenderad teckengräns är 50.
 

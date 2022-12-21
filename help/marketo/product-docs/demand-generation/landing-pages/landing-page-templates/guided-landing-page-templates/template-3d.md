@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Mall 3D {#template-3d}
 
-Högerklicka för att [hämta mall 3D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
+Högerklicka för att [ladda ned mall 3D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
 
 ![](assets/image2015-6-15-11-3a29-3a7.png)
 

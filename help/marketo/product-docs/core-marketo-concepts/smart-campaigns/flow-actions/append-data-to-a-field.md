@@ -3,7 +3,6 @@ unique-page-id: 1147042
 description: Bifoga data i ett fält - Marketo Docs - produktdokumentation
 title: Lägg till data i ett fält
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '109'
@@ -21,9 +20,9 @@ Det finns ett enkelt sätt att lägga till data i ett fält. Så här gör du.
 
 >[!NOTE]
 >
->Stegen nedan gäller även [Ändra programmedlemsdata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md).
+>Stegen nedan gäller även för [Ändra medlemsuppgifter för program](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md).
 
-1. Under fliken **Flöde** drar du i flödessteget **Ändra datavärde**.
+1. Under **Flöde** -fliken, dra i **Ändra datavärde** flödessteg.
 
    ![](assets/image2014-9-22-16-3a5-3a1.png)
 

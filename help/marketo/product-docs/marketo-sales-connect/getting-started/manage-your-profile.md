@@ -27,7 +27,7 @@ Här kan du uppdatera ditt namn och/eller lösenord.
 
 >[!NOTE]
 >
->Din e-postadress är inställd på att endast visas. Kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) om du behöver ändra det också.
+>Din e-postadress är inställd på att endast visas. Om du behöver ändra något också, kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 Du kan också ändra ditt lösenord i det här avsnittet. Stegen beskrivs i det här dokumentet.
 
@@ -53,19 +53,19 @@ Så här ändrar du kontots språk, språk och/eller tidszon.
 
    ![](assets/manage-your-profile-4.png)
 
-1. Om du vill ändra språk klickar du på listrutan **Språk** och gör ditt val.
+1. Klicka på knappen **Språk** och gör ditt val.
 
    ![](assets/manage-your-profile-5.png)
 
-1. Språk avser här regionen där språket talas. Klicka på listrutan **Språk** och gör ditt val.
+1. Språk avser här regionen där språket talas. Klicka på **Språk** och gör ditt val.
 
    ![](assets/manage-your-profile-6.png)
 
-1. Klicka på listrutan **Din tidszon** och gör ditt val.
+1. Klicka på **Din tidszon** och gör ditt val.
 
    ![](assets/manage-your-profile-7.png)
 
-1. Klicka på **Spara** när du är klar.
+1. Klicka **Spara** när det är klart.
 
    ![](assets/manage-your-profile-8.png)
 

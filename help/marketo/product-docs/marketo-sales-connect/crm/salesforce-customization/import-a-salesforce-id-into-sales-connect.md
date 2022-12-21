@@ -2,14 +2,13 @@
 unique-page-id: 14352469
 description: Importera ett Salesforce-ID till Sales Connect - Marketo Docs - produktdokumentation
 title: Importera ett Salesforce-ID till Sales Connect
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 9025a815-0740-461e-b4c9-3cbb3c98570f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
-
 
 # Importera ett Salesforce-ID till Sales Connect {#import-a-salesforce-id-into-sales-connect}
 
@@ -17,6 +16,6 @@ Sales Connect använder kontakt- eller lead-ID (även kallat Salesforce-ID) för
 
 [Push to Sales Connect](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md): Om du använder Skicka till säljkoppling skapas en kontakt i Försäljningsanslutning med all viktig kontaktinformation, inklusive lead/kontakts Salesforce-ID.
 
-[Skicka Marketo Sales Email, Add to Campaign, and Click to Call Buttons in SFDC](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md): När du använder någon av de här tre knapparna i Salesforce kommer vi att skicka kontakten till Sales Connect med Salesforce-ID:t.
+[Skicka e-post från Marketo, Lägg till i kampanj och Klicka för att ringa knappar i SFDC](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md): När du använder någon av de här tre knapparna i Salesforce kommer vi att skicka kontakten till Sales Connect med Salesforce-ID:t.
 
 [Importera CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md): Om du exporterar en lista med leads/kontakter från Salesforce och du inkluderar en kolumn med Salesforce-ID, kan du mappa fältet till Sales Connect vid import.

@@ -3,7 +3,6 @@ unique-page-id: 1147074
 description: Automatisk rensning av kampanjrensning - Marketo Docs - produktdokumentation
 title: Automatisk rensning av utlösarkampanj
 exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '248'
@@ -23,11 +22,11 @@ En gång i kvartalet kommer Marketo att hitta smarta kampanjer som har stannat (
 
 Självklart! En gång per kvartal får ni ett meddelande en vecka i förväg med alla kampanjer vi planerar att inaktivera.
 
-1. Gå till fliken **Notifications**.
+1. Gå till **Meddelanden** -fliken.
 
    ![](assets/notifications.png)
 
-1. Klicka på **Schemalagd rensning av inaktiv utlösarkampanj**. Klicka sedan på länken **Dessa inaktiva utlösarkampanjer inaktiveras**.
+1. Klicka **Schemalagd rensning av inaktiv utlösarkampanj**. Klicka sedan på **Dessa inaktiva utlösarkampanjer kommer att inaktiveras** länk.
 
    ![](assets/image2015-4-27-20-3a48-3a35.png)
 
@@ -52,7 +51,7 @@ Antingen återställs 6-månadersräknaren.
 
 Absolut - en vecka efter det ursprungliga meddelandet inaktiverar vi de listade kampanjerna (minus alla som kvalificerat minst en person eller inaktiverats/återaktiverats) och skickar ett bekräftelsemeddelande.
 
-1. Välj meddelandet **Kampanjrensning i viloläge schemalagd**. Klicka på länken **Dessa inaktiva utlösarkampanjer**.
+1. Välj **Schemalagd rensning av inaktiv utlösarkampanj** meddelande. Klicka på **Dessa inaktiva utlösarkampanjer** länk.
 
    ![](assets/image2015-4-27-20-3a56-3a41.png)
 

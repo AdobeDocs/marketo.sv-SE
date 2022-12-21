@@ -2,20 +2,19 @@
 unique-page-id: 1900548
 description: Förhandsgranska ett e-postmeddelande med dynamiskt innehåll - Marketo Docs - produktdokumentation
 title: Förhandsgranska ett e-postmeddelande med dynamiskt innehåll
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
-
 # Förhandsgranska ett e-postmeddelande med dynamiskt innehåll {#preview-an-email-with-dynamic-content}
 
 Förhandsgranska e-postmeddelandet när du har lagt till dynamiskt innehåll för att verifiera det.
 
-1. Markera din e-post och klicka på **Förhandsgranska e-post**.
+1. Välj e-post och klicka **Förhandsgranska e-post**.
 
    ![](assets/one-3.png)
 
@@ -33,7 +32,7 @@ Förhandsgranska e-postmeddelandet när du har lagt till dynamiskt innehåll fö
 
 Du kan också förhandsgranska dynamiskt innehåll direkt i e-postredigeraren.
 
-1. Klicka på fliken **Dynamisk** under **Innehåll**.
+1. Under **Innehåll** klickar du på **Dynamisk** -fliken.
 
    ![](assets/five-1.png)
 

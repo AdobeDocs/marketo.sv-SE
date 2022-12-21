@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Mall 19E {#template-19e}
 
-Högerklicka för att [hämta mall 19E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19e.html)
+Högerklicka för att [ladda ned mall 19E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19e.html)
 
 ![](assets/image2015-9-16-17-3a4-3a14.png)
 

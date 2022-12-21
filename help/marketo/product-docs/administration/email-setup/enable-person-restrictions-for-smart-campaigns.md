@@ -5,7 +5,7 @@ title: Aktivera personbegränsningar för smarta kampanjer
 exl-id: 45bdaf3f-874c-493f-9746-440f7703713c
 source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---

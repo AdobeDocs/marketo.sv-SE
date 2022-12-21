@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359488
-description: Gruppera e-postrapporter efter segment - Marketo Docs - Produktdokumentation
+description: Gruppera e-postrapporter efter segment - Marketo Docs - produktdokumentation
 title: Gruppera e-postrapporter efter segment
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
 
 ---
-
 
 # Gruppera e-postrapporter efter segment {#group-email-reports-by-segmentations}
 
@@ -19,27 +18,27 @@ Segmenteringar är inte bara för dynamiskt innehåll. Du kan också gruppera di
 >
 >[Godkänn en segmentering](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
 
-1. Gå till **Marknadsföringsaktiviteter** (eller **Analytics**).
+1. Gå till **Marknadsföringsaktiviteter** (eller **Analyser**).
 
    ![](assets/image2014-9-16-9-3a15-3a58.png)
 
-1. Välj din **e-postrapport**.
+1. Välj **E-postprestanda** rapport.
 
    ![](assets/image2014-9-16-9-3a16-3a6.png)
 
-1. Klicka på fliken **Inställningar** och dra över **Gruppera efter segment**.
+1. Klicka på **Inställningar** tabb och dra över **Gruppera efter segment**.
 
    ![](assets/image2014-9-16-9-3a16-3a59.png)
 
-1. Välj en eller två segmenteringar som du vill använda för att gruppera rapporten. Klicka på **Använd**.
+1. Välj en eller två segmenteringar som du vill använda för att gruppera rapporten. Klicka **Använd**.
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. Så ja! Klicka på fliken **Rapport**. Om du använder en segmentering visar rapporten en rad för varje segment.
+1. Så ja! Klicka på **Rapport** -fliken. Om du använder en segmentering visar rapporten en rad för varje segment.
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 
-1. Om du använder två segmenteringar visas en rad för varje _kombination_ segment.
+1. Om du använder två segmenteringar visas en rad för varje _kombination_ av segment.
 
    ![](assets/image2014-9-16-9-3a17-3a26.png)
 

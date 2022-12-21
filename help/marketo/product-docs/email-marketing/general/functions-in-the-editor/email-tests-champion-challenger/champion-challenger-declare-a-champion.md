@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359584
-description: Champion/Challenger -Deklarera en Champion - Marketo Docs - Produktdokumentation
+description: Champion/Challenger -Deklarera en mästare - Marketo Docs - produktdokumentation
 title: Champion/Challenger - Deklarera en mästare
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
 
 ---
-
 
 # Champion/Challenger: Deklarera en tävling {#champion-challenger-declare-a-champion}
 
@@ -23,27 +22,27 @@ När du är klar kan du deklarera en kampanj för ditt e-posttest.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Sök efter och högerklicka på ditt e-posttest och klicka sedan på **Deklarera tävling**.
+1. Sök och högerklicka på ditt e-posttest och klicka sedan på **Deklarera Champion**.
 
    ![](assets/champion4.jpg)
 
-1. Välj **vinnare**.
+1. Välj **Vinnare** efter eget val.
 
    ![](assets/image2014-9-15-13-3a33-3a33.png)
 
-1. Ange **Deklarationsdatum**.
+1. Ange **Deklarera datum**.
 
    >[!NOTE]
    >
-   >Fram till **Deklarera datum** kommer Marketo att fortsätta skicka den eller de gamla förkämparna och utmanarna. När datum/tid är nådd skickas bara den nya segraren.
+   >Tills **Deklarera datum** kommer Marketo att fortsätta att skicka ut den eller de gamla förkämparna. När datum/tid är nådd skickas bara den nya segraren.
 
    ![](assets/image2014-9-15-13-3a33-3a47.png)
 
    >[!CAUTION]
    >
-   >Observera att standardvärdet **Deklarera datum** är i morgon, inte i dag.
+   >Observera att standardinställningen **Deklarera datum** är i morgon, inte i dag.
 
-1. Välj en tid och klicka på **Spara**.
+1. Välj en tid och klicka **Spara**.
 
    ![](assets/image2014-9-15-13-3a33-3a56.png)
 

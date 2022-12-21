@@ -3,7 +3,6 @@ unique-page-id: 557333
 description: Ändra ordning på Lägg till alternativ i ett flödessteg - Marketo Docs - Produktdokumentation
 title: Ändra ordning på Lägg till alternativ i ett flödessteg
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '183'
@@ -19,11 +18,11 @@ Eftersom endast det första matchande alternativet gäller för en person är de
 
    ![](assets/one.png)
 
-1. Låt oss flytta alternativ 3 uppåt över alternativ 2. Klicka på **Alternativ 3** och klicka sedan på **Flytta upp**.
+1. Låt oss flytta alternativ 3 uppåt över alternativ 2. Klicka på **Alternativ 3** sedan klicka **Flytta uppåt**.
 
    >[!NOTE]
    >
-   >När du ändrar ordning kan du **flytta upp**, **Flytta ned** eller **Flytta till**.
+   >När du ändrar ordning kan du **Flytta uppåt**, **Flytta nedåt**, eller **Flytta till**.
 
    ![](assets/two.png)
 
@@ -31,7 +30,7 @@ Eftersom endast det första matchande alternativet gäller för en person är de
 
    ![](assets/three.png)
 
-1. Om du har många alternativ och behöver flytta en nivå uppåt eller nedåt, kan du spara tid med den här alternativa metoden. Klicka på det alternativ som du vill flytta och dra sedan reglaget till den position du vill flytta valet till under **Flytta till**.
+1. Om du har många alternativ och behöver flytta en nivå uppåt eller nedåt, kan du spara tid med den här alternativa metoden. Klicka på det alternativ du vill flytta, sedan under **Flytta till** drar du skjutreglaget till den position du vill flytta valet till.
 
    ![](assets/four.png)
 

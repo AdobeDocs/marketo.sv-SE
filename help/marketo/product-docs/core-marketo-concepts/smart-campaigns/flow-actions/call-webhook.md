@@ -3,7 +3,6 @@ unique-page-id: 1147023
 description: Ring Webkrok - Marketo Docs - produktdokumentation
 title: Ring webkrok
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '79'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Ring webbkrok {#call-webhook}
+# Ring webkrok {#call-webhook}
 
 >[!PREREQUISITES]
 >
@@ -25,7 +24,7 @@ Med webbhooks kan du interagera med tredjepartstjänster. Skicka/ta emot informa
 
 >[!NOTE]
 >
->Lär dig mer om de många fascinerande saker som [webbhooks](https://developers.marketo.com/documentation/webhooks/) kan göra för dig.
+>Läs om alla fascinerande saker som [Webhooks](https://developers.marketo.com/documentation/webhooks/) kan göra för dig.
 
 ## Användning {#usage}
 

@@ -2,22 +2,21 @@
 unique-page-id: 2953572
 description: Understanding Email Programs - Marketo Docs - Product Documentation
 title: Om e-postprogram
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
 
 ---
 
-
-# E-postprogram {#understanding-email-programs}
+# Om e-postprogram {#understanding-email-programs}
 
 Säg hej till din nya Marketo-vän, e-postprogrammet. Skicka ut e-postmeddelanden, skapa A/B-tester och spåra alla resultat på ett och samma ställe.
 
 ## Kontrollpanelen {#control-panel}
 
-Fyra lådor håller dig fokuserad. **Audiencedefinierar** &quot;vem&quot;,  **** Emailger&quot;vad&quot;,  **** Scheduledefinierar&quot;när&quot; och  **** Approvalmakes it ready to go.
+Fyra lådor håller dig fokuserad. **Målgrupp** definierar &quot;vem&quot;, **E-post** innehåller&quot;what,&quot; **Schema** definierar &quot;when,&quot; och **Godkännande** gör den redo att gå.
 
 ![](assets/emailprogram.png)
 
@@ -46,7 +45,7 @@ Njut av frukterna av ditt arbete. Kontrollpanelerna visar e-postprogrammet och A
 
 ![](assets/image2015-4-27-11-3a38-3a27.png)
 
-## Kapslar {#nesting}
+## Kapsling {#nesting}
 
 E-postprogram fungerar bra tillsammans med andra program.
 
@@ -73,9 +72,8 @@ Nu när du förstår e-postprogram kan du komma igång med en av de relaterade a
 >[!MORELIKETHIS]
 >
 >* [Skapa ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
-   >
-   >
-* [Definiera en publik med en smart lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+>
+>* [Definiera en publik med en smart lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
 >* [Skapa ett e-postmeddelande för ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 >* [Schemalägg ditt e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
 

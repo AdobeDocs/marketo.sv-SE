@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2360016
-description: Filtrera personer i en rapport med en smart lista - Marketo Docs - Produktdokumentation
+description: Filtrera personer i en rapport med en smart lista - Marketo Docs - produktdokumentation
 title: Filtrera personer i en rapport med en smart lista
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
-
 
 # Filtrera personer i en rapport med en smart lista {#filter-people-in-a-report-with-a-smart-list}
 
@@ -28,11 +27,11 @@ Du kan använda smarta listor med följande rapporttyper:
 * [Företagets webbaktivitet](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [Webbsidesaktivitet](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter** område.
 
    ![](assets/image2017-3-27-11-3a31-3a2.png)
 
-1. Välj din rapport i navigeringsträdet och klicka på fliken **Smart lista**.
+1. Välj rapporten från navigeringsträdet och klicka på **Smart List** -fliken.
 
    ![](assets/image2017-3-27-14-3a12-3a53.png)
 
@@ -44,7 +43,7 @@ Du kan använda smarta listor med följande rapporttyper:
 
    ![](assets/image2014-9-16-12-3a35-3a50.png)
 
-1. Klicka på fliken **Rapport** för att visa den filtrerade rapporten.
+1. Klicka på **Rapport** för att se din filtrerade rapport.
 
    ![](assets/image2017-3-27-14-3a14-3a16.png)
 

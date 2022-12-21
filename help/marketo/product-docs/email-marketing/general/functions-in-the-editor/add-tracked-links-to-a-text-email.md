@@ -1,15 +1,14 @@
 ---
 unique-page-id: 1900589
-description: Lägg till spårade länkar i ett textmeddelande - Marketo Docs - Produktdokumentation
+description: Lägg till spårade länkar i ett e-postmeddelande - Marketo Docs - produktdokumentation
 title: Lägg till spårade länkar i ett e-postmeddelande
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
 
 ---
-
 
 # Lägg till spårade länkar i ett e-postmeddelande {#add-tracked-links-to-a-text-email}
 
@@ -19,7 +18,7 @@ ht-degree: 0%
 >* [Redigera element i ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
 
 
-E-postlänkar för text kan spåras i Marketo. Låt oss se hur det fungerar. 1. Markera e-postmeddelandet och klicka på Redigera utkast.
+E-postlänkar med text kan spåras i Marketo. Låt oss se hur det fungerar. 1. Markera e-postmeddelandet och klicka på Redigera utkast.
 
 ![](assets/one-9.png)
 
@@ -37,7 +36,7 @@ E-postlänkar för text kan spåras i Marketo. Låt oss se hur det fungerar. 1. 
 
 >[!NOTE]
 >
->Funktionen för klassen mktNoTok fungerar inte med spårbara länkar i textmeddelanden. Endast för HTML-e-post.
+>Funktionen för klassen mktNoTok fungerar inte med spårbara länkar i textmeddelanden. Endast för HTML e-post.
 
 >[!TIP]
 >

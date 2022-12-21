@@ -3,7 +3,6 @@ unique-page-id: 557312
 description: Operatorordlista för smarta listfilter - Marketo Docs - produktdokumentation
 title: Ordlista för operatorer för smarta listfilter
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '602'
@@ -28,10 +27,10 @@ När du väljer en operator ändras den högra sidan dynamiskt.
 | är | Enstaka datum | Exakt datummatchning |
 | är inte | Enstaka datum | Alla datum förutom det angivna |
 | mellan | Två datumfält | Alla datum inklusive och mellan två angivna datum |
-| tidigare | Indata för naturligt språk* | Se diagrammet nedan |
-| tidigare än | Indata för naturligt språk* | Se diagrammet nedan |
-| i framtiden | Indata för naturligt språk* | Se diagrammet nedan |
-| i framtiden efter | Indata för naturligt språk* | Se diagrammet nedan |
+| tidigare | Indata för naturligt språk&#42; | Se diagrammet nedan |
+| tidigare än | Indata för naturligt språk&#42; | Se diagrammet nedan |
+| i framtiden | Indata för naturligt språk&#42; | Se diagrammet nedan |
+| i framtiden efter | Indata för naturligt språk&#42; | Se diagrammet nedan |
 | tidsram | Förinställningar (sista kvartalet, igår osv.) | Definierad i plocklista |
 | efter | Enstaka datum | Alla poster efter angivet datum |
 | före | Enstaka datum | Alla poster före den angivna |
@@ -40,7 +39,7 @@ När du väljer en operator ändras den högra sidan dynamiskt.
 | är tom | Ingen | Alla poster utan datum |
 | är inte tom | Ingen | Alla poster med valfritt datum |
 
-* Inmatningen i naturens språk är häftig. Här är några av de mönster du kan ange:
+&#42; Naturligt språk är coolt. Här är några av de mönster du kan ange:
 
 * 1 timme
 * 82 dagar
@@ -52,11 +51,11 @@ Skriv bara in numret och enheten så fungerar det!
 
 >[!NOTE]
 >
->&quot;Tidigare&quot; **omfattar** den dag (fram till tidpunkten, inte efter) som du skapar den smarta listan.
+>&quot;Tidigare&quot; **gör** inkluderar den dag (fram till tidpunkten, inte efter) som du skapar den smarta listan.
 
 >[!CAUTION]
 >
->När du skapar en smart lista med ett datumfältfilter (t.ex. Födelsedatum, SFDC Skapat den) och använder begränsningarna **före** eller **på eller före**, kommer den smarta listan även att innehålla personer som inte har något värde i det datumfältet.
+>När du skapar en smart lista med hjälp av ett datumfältfilter (t.ex. Födelsedatum, Skapat den SFDC) och använder kommandot **före** eller **på eller före** begränsningar kommer den smarta listan även att omfatta personer som inte har något värde i det datumfältet.
 
 Använd följande diagram för att förstå skillnaden mellan datumoperatorerna.
 
@@ -137,7 +136,7 @@ Använd följande diagram för att förstå skillnaden mellan datumoperatorerna.
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">är tom</td> 
-   <td colspan="1" rowspan="1">Poster som inte har något värde (NULL) - noll är ett tal, det är <em>inte</em> NULL</td> 
+   <td colspan="1" rowspan="1">Poster som inte har något värde (NULL) - noll är ett tal, det är <em>not</em> NULL</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">är inte tom</td> 

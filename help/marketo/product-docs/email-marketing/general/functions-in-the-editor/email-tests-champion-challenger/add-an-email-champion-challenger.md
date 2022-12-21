@@ -1,17 +1,16 @@
 ---
 unique-page-id: 2359553
-description: Lägg till en e-postmästare/kund - Marketo Docs - Produktdokumentation
+description: Lägg till en e-postmästare/kund - Marketo Docs - produktdokumentation
 title: Lägg till en e-postkampanj/kanal
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
-
-# Lägg till en e-postmästare/utfyllnadstecken {#add-an-email-champion-challenger}
+# Lägg till en e-postkampanj/kanal {#add-an-email-champion-challenger}
 
 Det är en bra idé att testa e-postmeddelanden som du använder ofta för att kontrollera att de fungerar. Ett sätt är att jämföra ett e-postmeddelandes effektivitet med andra versioner, eller utmaningar. I ett test kan du testa hela e-postadressen, ämnesraden eller formuläradressen.
 
@@ -27,7 +26,7 @@ Så här kommer du igång.
 
 >[!CAUTION]
 >
->Mejl med Champion/Challenger fungerar bara med utlösande kampanjer och engagemangsprogram. För grupputskick använder du e-postprogrammets [A/B-testfunktion](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md).
+>Mejl med Champion/Challenger fungerar bara med utlösande kampanjer och engagemangsprogram. För grupputskick använder du e-postprogrammets [A/B-testningsfunktioner](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md).
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
@@ -39,9 +38,9 @@ Så här kommer du igång.
 
    >[!NOTE]
    >
-   >Läs mer om [e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) för engångsmeddelanden.
+   >Läs mer om engångsutskick av e-post [e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md).
 
-1. Klicka på **Nytt test** under **E-poståtgärder**.
+1. Under **E-poståtgärder**, klicka **Nytt test**.
 
    ![](assets/chmapion2.jpg)
 

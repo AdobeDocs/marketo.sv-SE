@@ -3,7 +3,6 @@ unique-page-id: 1147138
 description: Schemalägga om ett helt program från schemaläggningsvyn - Marketo Docs - produktdokumentation
 title: Schemalägga om ett helt program från schemaläggningsvyn
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Schemalägga om ett helt program från schemavy {#rescheduling-an-entire-program-from-the-schedule-view}
+# Schemalägga om ett helt program från schemaläggningsvyn {#rescheduling-an-entire-program-from-the-schedule-view}
 
 När du klonar ett program eller en händelse med datum, vill du troligtvis schemalägga om alla datum samtidigt. Så här gör du.
 
@@ -19,7 +18,7 @@ När du klonar ett program eller en händelse med datum, vill du troligtvis sche
 
    ![](assets/image2014-9-23-15-3a15-3a18.png)
 
-1. Välj listrutan Händelseåtgärd. Välj **Schemalägg om poster**.
+1. Välj listrutan Händelseåtgärd. Välj **Schemalägg om transaktioner**.
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
@@ -31,7 +30,7 @@ När du klonar ett program eller en händelse med datum, vill du troligtvis sche
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 
-1. Klicka på **Schemalägg om**.
+1. Klicka **Schemalägg om**.
 
    ![](assets/image2014-9-23-15-3a18-3a54.png)
 

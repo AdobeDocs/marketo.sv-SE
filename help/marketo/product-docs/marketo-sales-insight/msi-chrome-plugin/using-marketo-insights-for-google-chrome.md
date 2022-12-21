@@ -1,19 +1,18 @@
 ---
 unique-page-id: 7512944
-description: Using Marketo Insights for Google Chrome - Marketo Docs - produktdokumentation
-title: Using Marketo Insights for Google Chrome
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Använda Marketo Insights för Google Chrome - Marketo Docs - produktdokumentation
+title: Använda Marketo Insights för Google Chrome
+exl-id: 9171e85f-a286-469c-b3a3-b290619311c9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
+# Använda Marketo Insights för Google Chrome {#using-marketo-insights-for-google-chrome}
 
-# Använda Marketo-insikter för Google Chrome {#using-marketo-insights-for-google-chrome}
-
-Skicka och spåra alla Google-e-postmeddelanden med Marketo Insights för Google Chrome.
+Skicka och spåra alla Google-mejl med Marketo Insights för Google Chrome.
 
 >[!PREREQUISITES]
 >
@@ -21,11 +20,11 @@ Skicka och spåra alla Google-e-postmeddelanden med Marketo Insights för Google
 
 ## Skicka ett e-postmeddelande med Marketo Insights {#send-an-email-with-marketo-insights}
 
-1. I fönstret Disponera klickar du på ikonen Marketo.
+1. Klicka på ikonen Marketo i fönstret Disponera.
 
    ![](assets/image2015-10-5-14-3a57-3a53.png)
 
-1. Knappen Skicka har gjort Markto lila! Det här e-postmeddelandet skickas nu med Marketo, alla länkar spåras och en spårningspixel infogas i e-postmeddelandet. Detta registreras som en skickad e-postaktivitet.
+1. Skicka-knappen har fått Marketo lila! Det här e-postmeddelandet skickas nu med Marketo, alla länkar spåras och en spårningspixel infogas i e-postmeddelandet. Detta registreras som en skickad e-postaktivitet.
 
    ![](assets/image2015-10-5-15-3a2-3a21.png)
 
@@ -37,11 +36,11 @@ Skicka och spåra alla Google-e-postmeddelanden med Marketo Insights för Google
    >
    >Du kan även klicka på dubbelpilen för att expandera till helskärmsläge.
 
-1. Om du vill fylla i e-postmeddelandet i förväg med en publicerad Marketo-mall klickar du på **Fler alternativ** och väljer **Läs in Marketo-mall**.
+1. Om du vill fylla i e-postmeddelandet i förväg med en publicerad Marketo-mall klickar du på **Fler alternativ** och markera **Läs in Marketo-mall**.
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
-1. Välj en **tillgänglig mall** och klicka på **OK**.
+1. Välj en **Tillgänglig mall** och klicka **OK**.
 
    ![](assets/image2015-10-5-15-3a11-3a44.png)
 
@@ -51,9 +50,9 @@ Skicka och spåra alla Google-e-postmeddelanden med Marketo Insights för Google
 
    >[!NOTE]
    >
-   >Meddelanden spåras bara när knappen **Skicka** är lila.
+   >Meddelanden spåras bara när **Skicka** knappen är lila.
 
-1. E-postmeddelandet visas snart i Marketo Sales Insight och alla öppningar och klick spåras.
+1. E-postmeddelandet visas snart i din Marketo Sales Insight och alla öppningar och klick spåras.
 
    ![](assets/image2015-4-23-16-3a59-3a43.png)
 
@@ -61,7 +60,7 @@ Skicka och spåra alla Google-e-postmeddelanden med Marketo Insights för Google
 
 Du kan logga svar och gammal aktivitet i en leads aktivitetshistorik.
 
-1. Klicka på **Logga med Marketo** i förhandsgranskningsfönstret i Google Mail.
+1. I förhandsgranskningsfönstret i Google Mail klickar du på **Logga med Marketo**.
 
    ![](assets/image2015-4-23-17-3a0-3a42.png)
 

@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359710
-description: Godkänn, Avgodkänn eller Ta bort en landningssida - Marketo Docs - Produktdokumentation
+description: Godkänn, avgodkänn eller ta bort en landningssida - Marketo Docs - produktdokumentation
 title: Godkänn, Avgodkänn eller Ta bort en landningssida
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: ecd964e2-8363-495f-aaf0-e5ba452cb280
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
 
 ---
-
 
 # Godkänn, Avgodkänn eller Ta bort en landningssida {#approve-unapprove-or-delete-a-landing-page}
 
@@ -17,7 +16,7 @@ Landningssidor är i utkastläge tills du godkänner dem. Godkännande gör sido
 
 ## Godkänn en landningssida {#approve-a-landing-page}
 
-1. Välj en landningssida, gå till **Åtgärder för landningssida** och klicka på **Godkänn**.
+1. Välj en landningssida, gå till **Åtgärder för landningssida** och klicka **Godkänn**.
 
    >[!TIP]
    >
@@ -25,7 +24,7 @@ Landningssidor är i utkastläge tills du godkänner dem. Godkännande gör sido
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 
-1. Du kan också högerklicka på landningssidan och klicka på **Godkänn**.
+1. Du kan även högerklicka på landningssidan och klicka på **Godkänn**.
 
    ![](assets/image2014-9-16-15-3a30-3a4.png)
 
@@ -33,23 +32,23 @@ Landningssidor är i utkastläge tills du godkänner dem. Godkännande gör sido
    >
    >När landningssidans ikon har godkänts är den grön.
 
-## Avgodkänn en landningssida {#unapprove-a-landing-page}
+## Avgodkänna en landningssida {#unapprove-a-landing-page}
 
-1. Välj en landningssida, gå till **Åtgärder för landningssida** och klicka på **Ogodkänd**.
+1. Välj en landningssida, gå till **Åtgärder för landningssida** och klicka **Ogodkänd**.
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
 
-1. Du kan också högerklicka på landningssidan och klicka på **Avgodkänn**.
+1. Du kan även högerklicka på landningssidan och klicka **Ogodkänd**.
 
    ![](assets/image2014-9-16-15-3a31-3a34.png)
 
 >[!NOTE]
 >
->Den ej godkända landningssidan publiceras inte längre på webben och genererar ingen ytterligare aktivitet. Besökare på icke godkända landningssidor och deras Facebook-flikar ser [återställningssidan](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
+>Den ej godkända landningssidan publiceras inte längre på webben och genererar ingen ytterligare aktivitet. Besökare på icke godkända landningssidor och deras Facebook-flikar ser [Reservsida](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
 
 ## Ta bort en landningssida {#delete-a-landing-page}
 
-1. Välj en landningssida, gå till **Åtgärder för landningssida** och klicka på **Ta bort**.
+1. Välj en landningssida, gå till **Åtgärder för landningssida** och klicka **Ta bort**.
 
    ![](assets/image2014-9-16-15-3a49-3a59.png)
 
@@ -57,7 +56,7 @@ Landningssidor är i utkastläge tills du godkänner dem. Godkännande gör sido
    >
    >Du kan inte ta bort en godkänd landningssida. Ta bort godkännandet först.
 
-1. Du kan också högerklicka på landningssidan och klicka på **Ta bort**.
+1. Du kan även högerklicka på landningssidan och klicka på **Ta bort**.
 
    ![](assets/image2014-9-16-15-3a50-3a40.png)
 
@@ -65,7 +64,7 @@ Landningssidor är i utkastläge tills du godkänner dem. Godkännande gör sido
 
 Vill du ta bort mer än en landningssida åt gången? Så här gör du.
 
-1. I Design Studio klickar du på **landningssidor**.
+1. In Design Studio, klicka **Landningssidor**.
 
    ![](assets/one.png)
 
@@ -77,11 +76,11 @@ Vill du ta bort mer än en landningssida åt gången? Så här gör du.
    >
    >Du kan också använda Ctrl-klicka för att ta bort flera landningssidor som inte är sekventiella.
 
-1. Klicka på listrutan **Åtgärder för landningssida** och välj **Ta bort**.
+1. Klicka på **Åtgärder för landningssida** nedrullningsbar meny och välj **Ta bort**.
 
    ![](assets/three.png)
 
-1. Klicka på **Ta bort**.
+1. Klicka **Ta bort**.
 
    ![](assets/four.png)
 

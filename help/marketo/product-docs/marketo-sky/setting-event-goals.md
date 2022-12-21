@@ -3,7 +3,8 @@ description: Ange händelsemål - Marketo Docs - produktdokumentation
 title: Ange händelsemål
 hide: true
 hidefromtoc: true
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+exl-id: bc581336-e78b-4e0e-bdff-b62e1bd99fba
+source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%

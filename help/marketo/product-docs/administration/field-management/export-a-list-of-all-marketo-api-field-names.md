@@ -3,7 +3,6 @@ unique-page-id: 2360295
 description: Exportera en lista med alla Marketo API-fältnamn - Marketo Docs - produktdokumentation
 title: Exportera en lista med alla Marketo API-fältnamn
 exl-id: 7720c3fe-85e3-4de2-ad04-503c430562f0
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
@@ -19,11 +18,11 @@ Om du använder vårt SOAP API eller Munchkin API behöver du en lista med alla 
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **Admin** och klicka på **Fälthantering**.
+1. Gå till **Administratör** och klicka **Fälthantering**.
 
    ![](assets/image2014-9-24-14-3a4-3a54.png)
 
-1. Klicka på **Exportera fältnamn** för att hämta kalkylbladet.
+1. Klicka **Exportera fältnamn** för att ladda ned kalkylbladet.
 
    ![](assets/image2014-9-24-14-3a5-3a6.png)
 

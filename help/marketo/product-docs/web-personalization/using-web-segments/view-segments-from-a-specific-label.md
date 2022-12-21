@@ -1,17 +1,16 @@
 ---
 unique-page-id: 4719350
-description: Visa segment från en viss etikett - Marketo Docs - Produktdokumentation
+description: Visa segment från en viss etikett - Marketo Docs - produktdokumentation
 title: Visa segment från en viss etikett
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 86a73898-1ad6-4edb-99cf-104f7ebb3ddd
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
-
-# Visa segment från en specifik etikett {#view-segments-from-a-specific-label}
+# Visa segment från en viss etikett {#view-segments-from-a-specific-label}
 
 Vill du visa och filtrera segmenten efter en viss etikett?
 

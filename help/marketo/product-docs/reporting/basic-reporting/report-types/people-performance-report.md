@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2360014
-description: Prestandarapport - Marketo Docs - Produktdokumentation
+description: Prestandarapport - Marketo Docs - produktdokumentation
 title: Prestandarapport för människor
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: 9c73ad96-088a-4a4a-8e8b-7b379370d80a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
 
 ---
 
-
-# Prestandarapport för personer {#people-performance-report}
+# Prestandarapport för människor {#people-performance-report}
 
 Använd en rapport om personprestanda för att mäta databastillväxt över tid. Du kan se hur många personer du har lagt till och när. Läs mer om människorna och utvärdera programmen. Gruppera resultaten efter person- eller företagsattribut, eller efter [segmentering](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-1. [Skapa en ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapport och välj typen **** [People ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)PerformancePort.
+1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och väljer **Personprestanda** [rapporttyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
-1. [Ange tidsramen för ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) rapporten och klicka på fliken  **** Rapportera.
+1. [Ange tidsram för rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) och klicka på **Rapport** -fliken.
 
 1. Bra! Nu kan du utforska rapporten People Performance. Lär dig hur du får ut ännu mer av det i listan nedan.
 
    >[!NOTE]
    >
-   >Som standard grupperas rapporter om personprestanda efter *Skapad den* månaden.
+   >Som standard grupperas rapporter om personprestanda efter *Skapad den* månad.
 
    ![](assets/one.png)
 
@@ -44,4 +43,4 @@ Du kan:
 
    >[!TIP]
    >
-   >Kom ihåg att rapporter är enkla att [skapa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), konfigurera och [ta bort](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Lek vidare med de många sätt du kan manipulera dem på och lär dig de bästa sätten att fokusera på viktiga data.
+   >Kom ihåg att rapporter är enkla att komma åt [skapa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), konfigurera och [delete](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Lek vidare med de många sätt du kan manipulera dem på och lär dig de bästa sätten att fokusera på viktiga data.

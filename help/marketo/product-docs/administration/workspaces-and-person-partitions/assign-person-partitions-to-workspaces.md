@@ -3,7 +3,6 @@ unique-page-id: 2360317
 description: Tilldela personpartitioner till arbetsytor - Marketo Docs - produktdokumentation
 title: Tilldela personpartitioner till arbetsytor
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
@@ -25,13 +24,13 @@ Så här redigerar du personliga partitioner/arbetsytetilldelningar:
 
 >[!CAUTION]
 >
->Arbetsytor och personpartitioner kan vara komplexa. Kontakta [Marketo support](https://nation.marketo.com/t5/Support/ct-p/Support) om du behöver hjälp med att konfigurera dem.
+>Arbetsytor och personpartitioner kan vara komplexa. Kontakta  [Marketo support](https://nation.marketo.com/t5/Support/ct-p/Support) för hjälp med att konfigurera dem.
 
-1. Klicka på **Arbetsytor och partitioner** under Admin.
+1. Klicka på **Arbetsytor och partitioner**.
 
 ![](assets/image2014-9-17-11-3a13-3a24.png)
 
-1. Markera arbetsytan och klicka på **Redigera arbetsyta**.
+1. Välj arbetsytan och klicka på **Redigera arbetsyta**.
 
    ![](assets/two-3.png)
 
@@ -43,9 +42,9 @@ Så här redigerar du personliga partitioner/arbetsytetilldelningar:
 
    ![](assets/three-3.png)
 
-   Primära personpartitioner är standardinställningen där alla personer ska anges. Använd [flödessteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) eller [tilldelningsregler](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md) för att flytta personer.
+   Primära personpartitioner är standardinställningen där alla personer ska anges. Använd [flödessteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) eller [tilldelningsregler](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md) för att flytta runt människor.
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/four-3.png)
 

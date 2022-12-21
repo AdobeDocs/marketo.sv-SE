@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359834
-description: Prioritera ströminnehåll - Marketo Docs - Produktdokumentation
+description: Prioritera ströminnehåll - Marketo Docs - produktdokumentation
 title: Prioritera ströminnehåll
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
-
 
 # Prioritera ströminnehåll {#prioritize-stream-content}
 
@@ -19,7 +18,7 @@ När du har lagt till innehåll i strömmen kanske du vill ändra prioriteten. I
 
    ![](assets/ma.png)
 
-1. Välj ditt engagemangsprogram och klicka på fliken **Streams**.
+1. Välj engagemangsprogram och klicka på **Strömmar** -fliken.
 
    ![](assets/cloneasteam-1.jpg)
 

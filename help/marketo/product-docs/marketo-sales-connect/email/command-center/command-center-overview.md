@@ -2,14 +2,13 @@
 unique-page-id: 14352530
 description: Command Center Overview - Marketo Docs - produktdokumentation
 title: Översikt över kommandocentralen
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '569'
 ht-degree: 0%
 
 ---
-
 
 # Översikt över kommandocentralen {#command-center-overview}
 
@@ -78,13 +77,13 @@ I e-postavsnittet får du en fågelöversikt över alla dina e-postmeddelanden o
  </tbody> 
 </table>
 
-## Hantera aktiviteter {#manage-tasks}
+## Hantera uppgifter {#manage-tasks}
 
 Uppgiftsavsnittet är en heltäckande lösning för att hantera och slutföra uppgifter. Här kan du smidigt hantera dina uppgifter och öka produktiviteten och fokusera på de mest relevanta objekten.
 
 ![](assets/command-center-overview-2.png)
 
-## Uppföljning med engagerade prospects {#follow-up-with-engaged-prospects}
+## Uppföljning med engagerade potentiella kunder {#follow-up-with-engaged-prospects}
 
 När ni väl har börjat engagera era prospects via dispositionsfönstret eller kampanjer kan ni börja rikta om de mest engagerade prospects genom att använda de avancerade sökfunktionerna.
 

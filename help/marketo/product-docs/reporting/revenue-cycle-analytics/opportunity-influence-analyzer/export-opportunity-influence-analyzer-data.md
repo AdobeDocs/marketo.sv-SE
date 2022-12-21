@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2360394
-description: Exportera data för påverkansanalys för affärsmöjlighet - Marketo Docs - Produktdokumentation
+description: Exportera data för påverkansanalys för affärsmöjlighet - Marketo Docs - produktdokumentation
 title: Exportera data för påverkansanalys för affärsmöjlighet
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 081c94fa-8f56-489e-85d3-ca4bf4da65fa
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-
 # Exportera data för påverkansanalys för affärsmöjlighet {#export-opportunity-influence-analyzer-data}
 
 Om du vill få uppdateringar från dina rapporter om intäktscykel, Explorer och dela dem kan du prenumerera på valfri e-postadress i en befintlig rapport.
 
-1. Gå till **Analytics** och välj **Nytt** > **Ny rapportprenumeration**.
+1. Gå till **Analyser** och markera **Nytt** > **Ny rapportprenumeration**.
 
    ![](assets/image2014-9-17-12-3a40-3a46.png)
 
@@ -23,7 +22,7 @@ Om du vill få uppdateringar från dina rapporter om intäktscykel, Explorer och
    >
    >Information om hur du prenumererar på en grundläggande rapport som du har skapat i ett program finns i [Prenumerera på en grundläggande rapport](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md).
 
-1. För Rapportkälla väljer du **Intäktsutforskaren**.
+1. För rapportkälla väljer du **Intäktsutforskaren**.
 
    ![](assets/image2014-9-17-12-3a42-3a15.png)
 
@@ -45,4 +44,4 @@ Om du vill få uppdateringar från dina rapporter om intäktscykel, Explorer och
 
 >[!MORELIKETHIS]
 >
->Lär dig hur du [hanterar alla rapportprenumerationer](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) på ett och samma ställe.
+>Lär dig hur [hantera alla rapportprenumerationer](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) på ett och samma ställe.

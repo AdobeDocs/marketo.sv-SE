@@ -1,55 +1,54 @@
 ---
 unique-page-id: 2359991
-description: Hantera rapportprenumerationer - Marketo Docs - Produktdokumentation
+description: Hantera rapportprenumerationer - Marketo Docs - produktdokumentation
 title: Hantera rapportprenumerationer
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
-
 # Hantera rapportprenumerationer {#manage-report-subscriptions}
 
 Konfigurera och ta bort rapportprenumerationer.
 
-1. Gå till området **Analytics**.
+1. Gå till **Analyser** område.
 
    ![](assets/image2014-9-16-10-3a35-3a25.png)
 
-1. Klicka på fliken **Prenumerationer**.
+1. Klicka på **Prenumerationer** -fliken.
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   På den här sidan visas prenumerationerna på alla rapporter på ditt konto, grupperade efter [rapporttyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Detta inkluderar [prenumerationer på grundläggande rapporter](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) och på rapporter från Intäktscykeln.
+   På den här sidan visas prenumerationerna på alla rapporter på ditt konto, grupperade efter [rapporttyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Detta inkluderar [prenumerationer på grundläggande rapporter](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) och rapporter om intäktscykler.
 
    >[!TIP]
    >
-   >Du kan också hantera prenumerationer på en enskild rapport i **Marknadsföringsaktiviteter**. Markera rapporten och klicka på fliken **Prenumerationer**.
+   >Du kan också hantera prenumerationer på en enskild rapport i **Marknadsföringsaktiviteter**. Markera rapporten och klicka på **Prenumerationer** -fliken.
 
    Om du vill ändra hur ofta en rapport skickas via e-post klickar du på fältet Frekvens och väljer ett nytt alternativ i listrutan.
 
    ![](assets/image2014-9-16-10-3a36-3a4.png)
 
-1. Om du vill ändra e-postadresserna i en prenumeration klickar du på fältet **E-postmottagare** och redigerar e-postadresserna.
+1. Om du vill ändra e-postadresserna i en prenumeration klickar du på **E-postmottagare** och redigera e-postadresserna.
 
    ![](assets/image2014-9-16-10-3a36-3a11.png)
 
    >[!TIP]
    >
    >* Använd kommatecken mellan e-postadresser.
-   >* Om du vill spara redigeringarna klickar du i ett område _utanför_ prenumerationslistan.
+   >* Spara redigeringarna genom att klicka i ett område _utanför_ prenumerationslistan.
 
 
    Du kan också:
 
-   * Klicka på knappen **Visa** för att öppna en rapport.
-   * Avmarkera kryssrutan **Aktiv** om du vill inaktivera prenumerationen.
-   * Klicka och redigera fältet **Sammanfattning** om du vill ändra hur många förhandsgranskningsrader som visas i e-postmeddelandet.
-   * Avmarkera kryssrutan **Excel** om du vill skicka rapportsammanfattningar utan kalkylbladsbilagan.
-   * Klicka på knappen **Skicka** om du vill skicka rapportens e-post direkt.
+   * Klicka på **Visa** för att öppna en rapport.
+   * Avmarkera **Aktiv** för att inaktivera prenumerationen.
+   * Klicka och redigera **Sammanfattning** om du vill ändra hur många förhandsgranskningsrader som visas i e-postmeddelandet.
+   * Avmarkera **Excel** om du vill skicka rapportsammanfattningar utan kalkylbladsbilagan.
+   * Klicka på **Skicka** om du vill skicka rapportens e-postmeddelande omedelbart.
 
 1. Om du vill ta bort en prenumeration helt markerar du raden och klickar på **Ta bort prenumeration**.
 

@@ -3,7 +3,6 @@ unique-page-id: 2949226
 description: SEO - Förstå inkommande länkar - Marketo Docs - produktdokumentation
 title: SEO - Förstå inkommande länkar
 exl-id: 2f70cff9-1873-4083-927d-a65cae98af54
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '120'
@@ -17,7 +16,7 @@ Inkommande länkar anger för sökmotorer att din webbplats är värd att refere
 
 ![](assets/image2014-9-18-13-3a18-3a10.png)
 
-## Definition av kolumner {#definition-of-columns}
+## Kolumndefinition {#definition-of-columns}
 
 | Kolumnrubrik | Beskrivning |
 |---|---|

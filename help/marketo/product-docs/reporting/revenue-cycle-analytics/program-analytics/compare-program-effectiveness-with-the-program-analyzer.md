@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2360403
-description: Jämför programeffektiviteten med Program Analyzer - Marketo Docs - Produktdokumentation
+description: Jämför programeffektiviteten med programanalysen - Marketo Docs - produktdokumentation
 title: Jämför programeffektiviteten med programanalysen
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 6e54d0a4-3cff-46cf-be0d-1992a39d8c03
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '467'
 ht-degree: 0%
 
 ---
-
 
 # Jämför programeffektiviteten med programanalysen {#compare-program-effectiveness-with-the-program-analyzer}
 
@@ -19,7 +18,7 @@ Använd Program Analyzer för att identifiera era mest effektiva program genom a
 >
 >[Skapa en programanalys](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-1. Klicka på **Analys**.
+1. Klicka **Analyser**.
 
    ![](assets/image2014-9-17-18-3a50-3a30.png)
 
@@ -37,7 +36,7 @@ Använd Program Analyzer för att identifiera era mest effektiva program genom a
 
    >[!TIP]
    >
-   >Ett snabbt sätt att filtrera program till endast en kanal är att välja **Visa** > **Efter kanal**, klicka på bubblan för den kanalen och sedan på kanalnamnet i popup-dialogrutan.
+   >Ett snabbt sätt att filtrera program till bara en kanal är att välja **Visa** > **Efter kanal** klickar du på bubblan för den kanalen och sedan på kanalnamnet i popup-dialogrutan.
 
 1. Använd listrutan X-axel för att välja ett mått för den vågräta axeln. Vi börjar med Programkostnad.
 
@@ -53,7 +52,7 @@ Använd Program Analyzer för att identifiera era mest effektiva program genom a
 
    >[!TIP]
    >
-   >Du kan också försöka förbättra visningen genom att ändra från en linjär till en logaritmisk skala, eller tvärtom. Använd menyn **Skala** längst upp.
+   >Du kan också försöka förbättra visningen genom att ändra från en linjär till en logaritmisk skala, eller tvärtom. Använd **Skala** överst.
 
 1. Utforska det resulterande diagrammet.
 
@@ -67,13 +66,13 @@ Använd Program Analyzer för att identifiera era mest effektiva program genom a
 
    >[!NOTE]
    >
-   >Många av de mätvärden du kan välja i programanalysen är tillgängliga med beräkningar med första beröringen (FT) och multitouch (MT). Det är viktigt att förstå skillnaden [mellan FT- och MT-attribuering](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >Många av de mätvärden du kan välja i programanalysen är tillgängliga med beräkningar med första beröringen (FT) och multitouch (MT). Det är viktigt att förstå [skillnaden mellan FT- och MT-attribuering](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Se bubblorna ändra storlek i diagrammet.
 
    ![](assets/image2014-9-17-18-3a54-3a57.png)
 
-   Genom att lägga till **(FT) Revenue Won** ser vi snabbt att medan Origami Expo köpte många nya namn resulterar det i relativt liten intäkt. Vi ser också att Paper Fest 12-programmet får färre men bättre namn eftersom det påverkar fler intäkter (större bubbla).
+   Genom att lägga till **(FT) Vinstintäkter**, ser vi snabbt att medan Origami Expo skaffade många nya namn resulterar det i relativt lite intäkter. Vi ser också att Paper Fest 12-programmet får färre men bättre namn eftersom det påverkar fler intäkter (större bubbla).
 
 1. Använd listrutan Färg för att lägga till ett fjärde mått. Vi ska titta på (FT) Revenue to Investment.
 
@@ -87,7 +86,7 @@ Vi ser att Paper Fest 12-programmet inte bara påverkar mer intäkter (större b
 
 >[!TIP]
 >
->Du kan snabbt jämföra program i en kanal med program i en annan. Använd bara **kanalfiltret** längst upp i fönstret för att lägga till fler kanaler.
+>Du kan snabbt jämföra program i en kanal med program i en annan. Använd bara **Kanalfilter** längst upp i fönstret för att lägga till fler kanaler.
 
 >[!MORELIKETHIS]
 >

@@ -3,7 +3,8 @@ description: Konfigurera din Marketo-anslutning - Marketo Docs - produktdokument
 title: Konfigurera din Marketo-anslutning
 hide: true
 hidefromtoc: true
-source-git-commit: a0cfc190e00ea6f8a9f5ef717566651423638b7d
+exl-id: f38272b1-a6dc-4d98-b6c1-e432c75b87c6
+source-git-commit: cbc5e338fd5c5c428b4c946c3f1195ab527bf355
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%

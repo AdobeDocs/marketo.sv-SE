@@ -1,15 +1,14 @@
 ---
 unique-page-id: 7504383
-description: Lägga till fält i en Intresseutforskarrapport - Marketo-dokument - Produktdokumentation
+description: Lägga till fält i en Intresseutforskarrapport - Marketo Docs - produktdokumentation
 title: Lägga till fält i en Intresseutforskarrapport
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: af4d7885-68ca-4ecf-b0fa-a5cf72bea168
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
 
 ---
-
 
 # Lägga till fält i en Intresseutforskarrapport {#adding-fields-to-a-revenue-explorer-report}
 

@@ -3,7 +3,6 @@ unique-page-id: 1147102
 description: Skapa ett bidrag i programschemavy - Marketo Docs - produktdokumentation
 title: Skapa ett inlägg i programschemavy
 exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '175'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Skapa en post i programschemavy {#creating-an-entry-in-the-program-schedule-view}
+# Skapa ett inlägg i programschemavy {#creating-an-entry-in-the-program-schedule-view}
 
 Du kan skapa poster i programschemavyn för att komplettera ett befintligt program.
 
@@ -21,7 +20,7 @@ Du kan skapa poster i programschemavyn för att komplettera ett befintligt progr
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Välj program. Klicka på listrutan **Visa**. Välj **Schema**.
+1. Välj program. Klicka på **Visa** nedrullningsbar meny. Välj **Schema**.
 
    ![](assets/image2014-9-16-9-3a22-3a7.png)
 
@@ -29,7 +28,7 @@ Du kan skapa poster i programschemavyn för att komplettera ett befintligt progr
 
    ![](assets/image2014-9-16-9-3a22-3a33.png)
 
-1. Namnge posten. Tryck på **Enter** för att bekräfta namnet.
+1. Namnge posten. Tryck **Retur** för att bekräfta namnet.
 
    ![](assets/image2014-9-16-9-3a22-3a59.png)
 
@@ -41,7 +40,7 @@ Du kan skapa poster i programschemavyn för att komplettera ett befintligt progr
 
    ![](assets/image2014-9-16-9-3a25-3a23.png)
 
-1. Ange din beskrivning och klicka på **Spara**.
+1. Ange beskrivningen och klicka på **Spara**.
 
    ![](assets/image2014-9-16-9-3a25-3a39.png)
 
@@ -51,11 +50,11 @@ Du kan skapa poster i programschemavyn för att komplettera ett befintligt progr
 
 ## Ändra posttyp {#change-entry-type}
 
-1. Välj en grundläggande post i vyn **Dagordning**.
+1. Välj en grundläggande post på menyn **Dagordning** vy.
 
    ![](assets/image2014-9-16-9-3a26-3a5.png)
 
-1. Välj listrutan **Typ**. Välj en ny posttyp.
+1. Välj **Typ** nedrullningsbar meny. Välj en ny posttyp.
 
    >[!NOTE]
    >
@@ -69,4 +68,4 @@ Du kan skapa poster i programschemavyn för att komplettera ett befintligt progr
 
 >[!NOTE]
 >
-> Du kan också skapa ett [smart kampanj](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md) eller [e-postprogram](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md) från schemavyn.
+> Du kan också skapa en [smart kampanj](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md) eller [e-postprogram](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md) från schemavyn.

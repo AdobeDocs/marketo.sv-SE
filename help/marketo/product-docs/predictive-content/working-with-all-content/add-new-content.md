@@ -1,21 +1,20 @@
 ---
 unique-page-id: 11384651
-description: Lägg till nytt innehåll - Marketo Docs - Produktdokumentation
+description: Lägg till nytt innehåll - Marketo Docs - produktdokumentation
 title: Lägg till nytt innehåll
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
-
 # Lägg till nytt innehåll {#add-new-content}
 
 Du kan enkelt lägga till innehåll manuellt på sidan Allt innehåll.
 
-1. Klicka på listrutan **Lägg till innehåll** och välj **Lägg till innehåll**.
+1. Klicka på **Lägg till innehåll** nedrullningsbar meny och välj **Lägg till innehåll**.
 
    ![](assets/image2017-10-3-8-3a54-3a9.png)
 
@@ -27,12 +26,12 @@ Du kan enkelt lägga till innehåll manuellt på sidan Allt innehåll.
 
    ![](assets/add-new-content-categories-updated-hands.png)
 
-1. Klicka på **Lägg till**.
+1. Klicka **Lägg till**.
 
    ![](assets/all-content-add-hand.png)
 
-1. Den nya titeln visas nu på sidan **Allt innehåll**. Observera att det inte har godkänts för prediktivt innehåll än.
+1. Den nya titeln visas nu på **Allt innehåll** sida. Observera att det inte har godkänts för prediktivt innehåll än.
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 
-1. Så här lägger du till det i [Predictive Content](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md).
+1. Så här lägger du till det i [Prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md).

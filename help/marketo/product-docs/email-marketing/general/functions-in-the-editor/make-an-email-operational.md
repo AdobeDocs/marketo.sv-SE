@@ -1,17 +1,16 @@
 ---
 unique-page-id: 1147354
-description: Gör ett e-postmeddelande tillgängligt - Marketo Docs - Produktdokumentation
+description: Gör ett e-postmeddelande tillgängligt - Marketo Docs - produktdokumentation
 title: Låt e-postmeddelanden fungera
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
-
-# Gör ett e-postmeddelande användbart {#make-an-email-operational}
+# Låt e-postmeddelanden fungera {#make-an-email-operational}
 
 E-postmeddelanden som används ignorerar statusen Avbeställ och Marknadsföring har avbrutits. De skickar oavsett vad.
 
@@ -19,7 +18,7 @@ E-postmeddelanden som används ignorerar statusen Avbeställ och Marknadsföring
 >
 >E-post som används omfattas inte av kommunikationsbegränsningar.
 
-1. Leta reda på e-postmeddelandet, markera det och klicka på **Redigera utkast**.
+1. Leta upp e-postmeddelandet, markera det och klicka på **Redigera utkast**.
 
 ![](assets/one-1.png)
 
@@ -31,7 +30,7 @@ E-postmeddelanden som används ignorerar statusen Avbeställ och Marknadsföring
 
    ![](assets/two-1.png)
 
-1. Kontrollera **e-postadress** och klicka på **Spara**.
+1. Kontrollera **Driftmeddelande** och klicka **Spara**.
 
    ![](assets/three.png)
 
@@ -39,4 +38,4 @@ E-postmeddelanden som används ignorerar statusen Avbeställ och Marknadsföring
 >
 >Operativa e-postmeddelanden har inte utformats för att fungera med engagemangsprogram. Ett engagemangsprogram kommer därför att ignorera ett e-postmeddelandes driftsstatus. Tänk på det när du arbetar med dem.
 
-Glöm inte att godkänna det här e-postmeddelandet för att ändringarna ska börja gälla. Lär dig hur du [godkänner ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
+Glöm inte att godkänna det här e-postmeddelandet för att ändringarna ska börja gälla. Lär dig hur  [godkänna ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).

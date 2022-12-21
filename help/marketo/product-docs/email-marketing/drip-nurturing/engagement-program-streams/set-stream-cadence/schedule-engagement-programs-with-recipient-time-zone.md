@@ -1,25 +1,24 @@
 ---
 unique-page-id: 12982909
-description: Schemalägg engagemangsprogram med mottagartidszon - Marketo Docs - Produktdokumentation
+description: Schemalägg engagemangsprogram med mottagartidszon - Marketo Docs - produktdokumentation
 title: Schemalägg engagemangsprogram med mottagartidszon
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 818615be-3c7e-4051-adc7-2341783484b9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
 
 ---
 
-
 # Schemalägg engagemangsprogram med mottagartidszon {#schedule-engagement-programs-with-recipient-time-zone}
 
-När du schemalägger en interaktionsprogramström och mottagarens tidszon är aktiva, kommer programsändningen att börja köras vid midnatt i den första tidszonen (UTC +14:00). Vi kräver att du schemalägger den första sändningen **minst 25 timmar** i framtiden eftersom det kan finnas personer som är kvalificerade för sändningen i varje tidszon över hela världen. Om vi påbörjar bearbetningen vid den här tidpunkten i den första tidszonen garanterar vi att vi kommer att leverera e-postmeddelandet vid det schemalagda datumet och den schemalagda tidpunkten för varje mottagare.
+När du schemalägger en interaktionsprogramström och mottagarens tidszon är aktiva, kommer programsändningen att börja köras vid midnatt i den första tidszonen (UTC +14:00). Vi kräver att du schemalägger den första sändningen **minst 25 timmar** i framtiden eftersom det kan finnas personer som kvalificerar sig för typsnittet i varje tidszon över hela världen. Om vi påbörjar bearbetningen vid den här tidpunkten i den första tidszonen garanterar vi att vi kommer att leverera e-postmeddelandet vid det schemalagda datumet och den schemalagda tidpunkten för varje mottagare.
 
-1. Gå till fliken **Streams** i ditt engagemangsprogram och klicka på en ströms cadence-schema för att redigera den.
+1. Gå till **Strömmar** och klicka på ett strömmens cadence-schema för att redigera det.
 
    ![](assets/image2017-12-5-13-3a36-3a21.png)
 
-1. [Ange dina ](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) inställningar för stängning som vanligt och markera sedan  **rutan** Mottagartid. Kom ihåg att din första sändning måste vara minst 25 timmar i framtiden. Klicka på **Spara**.
+1. [Ange inställningar för din närvaro](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) som vanligt, kontrollera sedan **Mottagarens tidszon** box. Kom ihåg att din första sändning måste vara minst 25 timmar i framtiden. Klicka **Spara**.
 
    ![](assets/image2017-12-5-13-3a50-3a32.png)
 

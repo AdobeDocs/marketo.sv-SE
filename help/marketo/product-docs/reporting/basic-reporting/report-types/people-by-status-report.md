@@ -1,23 +1,22 @@
 ---
 unique-page-id: 2360012
-description: People by Status Report - Marketo Docs - produktdokumentation
+description: Rapport - Marketo Docs - produktdokumentation
 title: Rapport om personer efter status
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: 1d820d37-f820-4ea4-ab2f-41d71f71e64b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
-
 # Rapport om personer efter status {#people-by-status-report}
 
-Granska hur väl du flyttar personer genom processen genom att kontrollera hur många av dem som visas i varje _personstatusvärde_ varje månad.
+Granska hur väl du flyttar människor genom processen genom att kontrollera hur många av dem som visas i varje _Personstatus_ värde varje månad.
 
-1. [Skapa en ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapport och välj rapporttypen  **Personer efter** [status](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och väljer **Personer efter status** [rapporttyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
-1. [Ange tidsramen för ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) rapporten och klicka på fliken  **** Rapportera.
+1. [Ange tidsram för rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) och klicka på **Rapport** -fliken.
 
 1. Bra! Nu kan du se hur många personer som fanns i respektive personstatus, från månad till månad.
 
@@ -29,4 +28,4 @@ Granska hur väl du flyttar personer genom processen genom att kontrollera hur m
 
    >[!MORELIKETHIS]
    >
-   >[Använd en smart lista för att filtrera ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) rapporter till specifika personer.
+   >[Använd en smart lista för att filtrera rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) till specifika personer.

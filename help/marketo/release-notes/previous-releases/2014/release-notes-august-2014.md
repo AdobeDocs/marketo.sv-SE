@@ -16,7 +16,7 @@ Följande funktioner finns i augusti 2014-versionen. Se om det finns funktioner 
 
 ## Licenser för marknadsföringskalender {#marketing-calendar-licenses}
 
-Efter 5 september 2014 kan bara fem användare ha kostnadsfri tillgång till marknadsföringskalendern. Var noga med att [utfärda/återkalla en licens för en marknadsföringskalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) till valfria användare innan dess för oavbruten åtkomst.
+Efter 5 september 2014 kan bara fem användare ha kostnadsfri tillgång till marknadsföringskalendern. Se till att [Utfärda/återkalla en licens för en marknadsföringskalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) till de användare som du väljer innan, för oavbruten åtkomst.
 
 ![--](assets/image2014-9-16-9-3a45-3a52.png)
 
@@ -34,7 +34,7 @@ Följande nya användarbehörigheter har lagts till:
 
 ## Exportera användare och roller från administratör {#export-users-and-roles-from-admin}
 
-Du kan nu [exportera en lista över användare och roller](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) från Marketo. Du kan även inkludera en tidsstämpel för senaste inloggning som ska inkluderas i exporten.
+Nu kan du [Exportera en lista med användare och roller](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) från Marketo. Du kan även inkludera en tidsstämpel för senaste inloggning som ska inkluderas i exporten.
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
@@ -48,7 +48,7 @@ Nu kan du ta bort alla oanvända kanaler och statusar. Som alltid kan du bara d�
 
 ## Automatiserad DKIM {#automated-dkim}
 
-För förbättrad leverans kommer alla utgående e-postmeddelanden att vara DKIM-signerade (DomainKeys Identified Mail). Som standard använder e-postmeddelanden Marketo delade DKIM-signatur. Du kan anpassa den här signaturen.
+För förbättrad leverans signeras alla utgående e-postmeddelanden DKIM (DomainKeys Identified Mail). Som standard använder e-postmeddelanden Marketo delade DKIM-signatur. Du kan anpassa den här signaturen.
 
 ![](assets/image2014-9-16-12-3a23-3a16.png)
 

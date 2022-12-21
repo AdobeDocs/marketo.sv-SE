@@ -2,20 +2,19 @@
 unique-page-id: 7514009
 description: Understanding the Program Revenue Stage Analysis Area - Marketo Docs - Product Documentation
 title: Understanding the Program Revenue Stage Analysis Area
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 7310655f-a06e-4e02-a094-d942fff689c3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 0%
 
 ---
 
-
-# Förstå analysområdet för programintäkterna {#understanding-the-program-revenue-stage-analysis-area}
+# Understanding the Program Revenue Stage Analysis Area {#understanding-the-program-revenue-stage-analysis-area}
 
 I det här analysområdet kan du analysera effektiviteten i enskilda program eller se summerade resultat per kanal. Här får du insikt i hur många av de nya namnen som har genererats har nått vissa framgångar inom modellen för intäktscykler.
 
-**Exempel på affärsfrågor du kan besvara i det här analysområdet är**:
+**Exempel på affärsfrågor som du kan svara på i det här analysområdet inkluderar**:
 
 Hur många nya namn från ett visst program har någonsin nått en viss fas i min modell?
 

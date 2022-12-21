@@ -1,17 +1,16 @@
 ---
 unique-page-id: 4720075
-description: Visa webbkampanjer från en viss etikett - Marketo Docs - Produktdokumentation
+description: Visa webbkampanjer från en viss etikett - Marketo Docs - produktdokumentation
 title: Visa webbkampanjer från en viss etikett
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+exl-id: 2611c79f-eb12-4597-9394-8749903f494c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
-
-# Visa webbkampanjer från en specifik etikett {#view-web-campaigns-from-a-specific-label}
+# Visa webbkampanjer från en viss etikett {#view-web-campaigns-from-a-specific-label}
 
 Vill du visa och filtrera kampanjer efter en viss etikett?
 

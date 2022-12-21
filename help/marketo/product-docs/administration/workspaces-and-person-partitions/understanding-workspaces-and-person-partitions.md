@@ -3,7 +3,6 @@ unique-page-id: 2360309
 description: Förstå arbetsytor och personpartitioner - Marketo Docs - produktdokumentation
 title: Arbetsytor och personpartitioner
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '514'
@@ -17,7 +16,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Arbetsytor kan vara komplicerade att konfigurera. Kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) för att ta reda på om de passar dig.
+>Arbetsytor kan vara komplicerade att konfigurera. Kontakt [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) för att ta reda på om de är rätt för dig.
 
 Arbetsytor är separata områden i Marketo som innehåller marknadsföringsresurser som program, landningssidor, e-post med mera. De kan användas av flera personer. Varje användare har tillgång till en eller flera arbetsytor.
 
@@ -29,14 +28,12 @@ Arbetsytor är separata områden i Marketo som innehåller marknadsföringsresur
 >
 >* Geografi: Marknadsföringsavdelningarna i Europa, Asien och Nordamerika får båda en arbetsyta
 >* Affärsenhet: Snabbböcker, QuickBooks och TurboTax ger båda en arbetsyta
-
 >
->
-I båda fallen beror separationen på att marknadsföringsresurserna är helt olika. Om de delar marknadsföringsresurser kanske inte arbetsytorna är rätt verktyg för dig.
+>I båda fallen beror separationen på att marknadsföringsresurserna är helt olika. Om de delar marknadsföringsresurser kanske inte arbetsytorna är rätt verktyg för dig.
 
 >[!NOTE]
 >
->Lär dig hur du skapar [en ny arbetsyta](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
+>Lär dig hur du skapar [skapa en ny arbetsyta](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
 
 ## Dela mellan arbetsytor {#sharing-across-workspaces}
 
@@ -80,7 +77,7 @@ Du kan dela dessa objekt mellan arbetsytor.
 * [Segmenteringar](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
 * Fragment
 
-## Klona över arbetsytor {#cloning-across-workspaces}
+## Klona mellan arbetsytor {#cloning-across-workspaces}
 
 För resurser som inte är mallar är det bäst att klona dem som lokala resurser i ett program.  Med rätt åtkomstnivå kan du dra och släppa resurserna på en annan arbetsyta:
 
@@ -103,9 +100,9 @@ Om du vill flytta resurser till en ny arbetsyta placerar du dem i en mapp och dr
 
 ## Personpartitioner {#person-partitions}
 
-Personpartitioner fungerar som separata databaser. Varje partition har sina egna personer som inte avduplicerar eller blandar med andra partitioner. Om du tror att du har ett affärsärende som kan göra det nödvändigt att ha dubblettposter med samma e-postadress kontaktar du [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+Personpartitioner fungerar som separata databaser. Varje partition har sina egna personer som inte avduplicerar eller blandar med andra partitioner. Om du känner att du har ett affärsärende som kan göra det nödvändigt att ha dubblettposter med samma e-postadress, ska du kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-Du kan tilldela personpartitioner till [arbetsytor](create-a-new-workspace.md) i följande konfigurationer:
+Du kan tilldela personpartitioner till  [arbetsytor](create-a-new-workspace.md) i följande konfigurationer:
 
 * en arbetsyta till en personpartition (1:1)
 * en arbetsyta för många personpartitioner (1:x)
@@ -125,4 +122,4 @@ Du kan tilldela personpartitioner till [arbetsytor](create-a-new-workspace.md) i
 
 >[!NOTE]
 >
->Lär dig hur du [skapar en personpartition](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md).
+>Lär dig hur [skapa en personpartition](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md).

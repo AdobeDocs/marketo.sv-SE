@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359592
-description: Ändra ordning på fält i ett formulär - Marketo Docs - Produktdokumentation
+description: Ändra ordning på fält i ett formulär - Marketo Docs - produktdokumentation
 title: Ändra ordning på fält i ett formulär
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 62846099-f925-44d6-8ff3-d9fffd2816b9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
 
 ---
-
 
 # Ändra ordning på fält i ett formulär {#reorder-fields-in-a-form}
 

@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359644
-description: Visa anpassat HTML-formulär för kända personer - Marketo-dokument - Produktdokumentation
+description: Visa eget HTML-formulär för kända personer - Marketo Docs - produktdokumentation
 title: Visa anpassat HTML-formulär för kända personer
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
 
 ---
-
 
 # Visa anpassat HTML-formulär för kända personer {#show-custom-html-form-for-known-people}
 
@@ -23,7 +22,7 @@ Om en besökare är cookie (en känd person som tidigare har angett en e-postadr
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. Klicka på **Inställningar** under **Formulärinställningar**.
+1. Under **Formulärinställningar**, klicka på **Inställningar**.
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
@@ -31,7 +30,7 @@ Om en besökare är cookie (en känd person som tidigare har angett en e-postadr
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Klicka på ![—](assets/image2014-9-25-14-3a1-3a26.png) för att redigera den **anpassade HTML** som ska visas för kända personer.
+1. Klicka på ![—](assets/image2014-9-25-14-3a1-3a26.png) för att redigera **Anpassad HTML** som kommer att visas för kända människor.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -46,17 +45,17 @@ Om en besökare är cookie (en känd person som tidigare har angett en e-postadr
    | `{{lead.FirstName}}` | Då visas personens förnamn. |
    | `{{lead.LastName}}` | Då visas personens efternamn. |
    | `{{form.Button:default=Download}}` | Då visas formulärknappen. Ersätt området efter `=` om du vill ändra knapptexten. |
-   | `{{form.NotYou:default=Not you?}}` | Då visas en länk om personen är någon annan. Ersätt området efter `=` för att ändra länktexten. |
+   | `{{form.NotYou:default=Not you?}}` | Då visas en länk om personen är någon annan. Ersätt området efter `=` om du vill ändra länktexten. |
 
    >[!CAUTION]
    >
    >Endast de fyra variablerna ovan kan användas. Alla andra token fungerar inte här.
 
-1. Klicka på **Slutför**.
+1. Klicka **Slutför**.
 
    ![](assets/image2014-9-15-12-3a27-3a25.png)
 
-1. Klicka på **Godkänn och stäng**.
+1. Klicka **Godkänn och stäng**.
 
    >[!NOTE]
    >
@@ -66,7 +65,7 @@ Om en besökare är cookie (en känd person som tidigare har angett en e-postadr
 
    >[!NOTE]
    >
-   >Kom ihåg att [godkänna landningssidans utkast](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som skapats av formulärändringarna.
+   >Kom ihåg [godkänna utkastet till landningssida](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som har skapats av formulärändringarna.
 
    Kakbit! Ta en titt på vad en person skulle se om de kom tillbaka till samma form:
 

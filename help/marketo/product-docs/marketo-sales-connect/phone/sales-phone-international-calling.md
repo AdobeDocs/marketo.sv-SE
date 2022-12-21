@@ -1,17 +1,16 @@
 ---
 unique-page-id: 14352434
-description: Säljtelefonsamtal - Marketo Docs - Produktdokumentation
+description: Säljtelefonsamtal - Marketo Docs - produktdokumentation
 title: Internationellt telefonsamtal för försäljning
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '343'
-ht-degree: 8%
+ht-degree: 16%
 
 ---
 
-
-# Säljtelefon, internationell telefonsamtal {#sales-phone-international-calling}
+# Internationellt telefonsamtal för försäljning {#sales-phone-international-calling}
 
 Säljtelefon gör det enkelt för dig att kommunicera internationellt. För kunder som ringer inifrån USA kan försäljningstelefonen användas för utgående samtal till internationella länder. För kunder utanför USA stöder vi samtal från internationella länder.
 
@@ -33,7 +32,7 @@ Säljtelefon gör det enkelt för dig att kommunicera internationellt. För kund
   </tr> 
   <tr> 
    <td colspan="1">Österrike</td> 
-   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 43655, 43677, 436988, 4366 9989, 43720, 43780, 439</td> 
+   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 436555, 43677, 4369988, 4369989, 43720, 43780, 439</td> 
   </tr> 
   <tr> 
    <td colspan="1">Bahamas</td> 
@@ -80,7 +79,7 @@ Säljtelefon gör det enkelt för dig att kommunicera internationellt. För kund
    <td colspan="1">39</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Kazakstan </td> 
+   <td colspan="1">Kazakhstan </td> 
    <td colspan="1">76, 77</td> 
   </tr> 
   <tr> 
@@ -92,7 +91,7 @@ Säljtelefon gör det enkelt för dig att kommunicera internationellt. För kund
    <td colspan="1">371</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Mexico</td> 
+   <td colspan="1">Mexiko</td> 
    <td colspan="1">52, 5233, 5255, 5281</td> 
   </tr> 
   <tr> 
@@ -136,8 +135,8 @@ Säljtelefon gör det enkelt för dig att kommunicera internationellt. För kund
    <td colspan="1">44, 44203, 44207, 44208</td> 
   </tr> 
   <tr> 
-   <td>Amerikas förenta stater</td> 
-   <td>1, 1800, 1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
+   <td>USA</td> 
+   <td>1, 1800,1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
   </tr> 
  </tbody> 
 </table>

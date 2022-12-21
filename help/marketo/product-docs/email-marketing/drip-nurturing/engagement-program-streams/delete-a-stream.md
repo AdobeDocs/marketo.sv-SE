@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359936
-description: Ta bort en ström - Marketo Docs - Produktdokumentation
+description: Ta bort en ström - Marketo Docs - produktdokumentation
 title: Ta bort en ström
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: f813c2ce-c819-4a38-bf3e-ff79c2a28c6e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
 
 ---
-
 
 # Ta bort en ström {#delete-a-stream}
 
@@ -19,7 +18,7 @@ Om du någonsin behöver ta bort en ström från engagemangsprogrammet följer d
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Välj engagemangsprogram och gå till **Streams**.
+1. Välj engagemangsprogram och gå till **Strömmar**.
 
    ![](assets/cloneasteam-2.jpg)
 
@@ -31,10 +30,10 @@ Om du någonsin behöver ta bort en ström från engagemangsprogrammet följer d
 
    ![](assets/image2014-9-15-17-3a47-3a27.png)
 
-1. Bekräfta borttagningen genom att klicka på **Ta bort**.
+1. Bekräfta borttagningen genom att klicka **Ta bort**.
 
    ![](assets/image2014-9-15-17-3a47-3a31.png)
 
    >[!NOTE]
    >
-   >Om det finns personer i strömmen uppmanas du att [flytta](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) dem först.
+   >Om strömmen innehåller personer blir du ombedd att [move](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) de ut först.

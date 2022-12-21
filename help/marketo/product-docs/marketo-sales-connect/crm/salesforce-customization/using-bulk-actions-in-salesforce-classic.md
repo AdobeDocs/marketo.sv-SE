@@ -2,14 +2,13 @@
 unique-page-id: 42762794
 description: Använda gruppåtgärder i Salesforce Classic - Marketo Docs - produktdokumentation
 title: Använda gruppåtgärder i Salesforce Classic
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 0%
 
 ---
-
 
 # Använda gruppåtgärder i Salesforce Classic {#using-bulk-actions-in-salesforce-classic}
 
@@ -21,15 +20,15 @@ Lär dig hur du utför satsvisa åtgärder, som att lägga till leads till en ka
 
 >[!NOTE]
 >
->Innan du följer de angivna stegen måste du kontrollera att du är inloggad på ditt Marketo Sales Connect-konto.
+>Kontrollera att du är inloggad på ditt Marketo Sales Connect-konto innan du följer instruktionerna.
 
 ## Massutskick {#bulk-email}
 
-1. Klicka på fliken **Leads** i Salesforce och sedan på knappen **Gå**.
+1. I Salesforce klickar du på **Leads** -fliken och sedan **Gå** -knappen.
 
    ![](assets/one-5.png)
 
-1. Välj önskade leads och klicka på knappen **E-post med MSC (Classic)**.
+1. Välj önskade leads och klicka på **E-post med MSC (Classic)** -knappen.
 
    ![](assets/two-5.png)
 
@@ -45,29 +44,29 @@ Lär dig hur du utför satsvisa åtgärder, som att lägga till leads till en ka
 
 ## Lägg till i kampanj {#add-to-campaign}
 
-1. Klicka på fliken **Leads** i Salesforce och sedan på knappen **Gå**.
+1. I Salesforce klickar du på **Leads** -fliken och sedan **Gå** -knappen.
 
    ![](assets/four-3.png)
 
-1. Välj önskade leads och klicka på knappen **Lägg till i MSC Campaign (Classic)**.
+1. Välj önskade leads och klicka på **Lägg till i MSC Campaign (Classic)** -knappen.
 
    ![](assets/five-3.png)
 
-1. Popup-fönstret Lägg till personer i din kampanj visas. Klicka på **Nästa** och gå igenom det typiska kampanjflödet för att utlösa en MSC-kampanj.
+1. Popup-fönstret Lägg till personer i din kampanj visas. Klicka **Nästa** och gå igenom det typiska kampanjflödet för att utlösa en MSC-kampanj.
 
    ![](assets/six.png)
 
-## Push to Marketo Sales Connect {#push-to-marketo-sales-connect}
+## Skicka till Marketo Sales Connect {#push-to-marketo-sales-connect}
 
-1. Klicka på fliken **Leads** i Salesforce och sedan på knappen **Gå**.
+1. I Salesforce klickar du på **Leads** -fliken och sedan **Gå** -knappen.
 
    ![](assets/seven-1.png)
 
-1. Välj önskade leads och klicka på knappen **Skicka till MSC (Classic)**.
+1. Välj önskade leads och klicka på **Skicka till MSC (klassisk)** -knappen.
 
    ![](assets/eight-1.png)
 
-1. En ny flik med namnet&quot;Salesforce Bridge&quot; öppnas. Klicka på knappen **Gå till grupp →**.
+1. En ny flik med namnet&quot;Salesforce Bridge&quot; öppnas. Klicka på **Gå till grupp →** -knappen.
 
    ![](assets/nine-1.png)
 

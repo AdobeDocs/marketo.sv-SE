@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359880
-description: Organisera dina bilder och filer med hjälp av mappar - Marketo Docs - Produktdokumentation
+description: Ordna dina bilder och filer med hjälp av mappar - Marketo Docs - Produktdokumentation
 title: Ordna dina bilder och filer med hjälp av mappar
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: b2961d6b-8bc0-4376-b438-03d9fd26be72
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
 
 ---
-
 
 # Ordna dina bilder och filer med hjälp av mappar {#organize-your-images-and-files-using-folders}
 
@@ -19,7 +18,7 @@ När du skapar mappar kan du flytta bilder och filer, se bara den uppsättning b
 
    ![](assets/designstudio-7.png)
 
-1. Högerklicka på **Bilder och filer** i den vänstra menyn och välj sedan **Ny mapp**.
+1. Högerklicka på **Bilder och filer** i den vänstra menyn väljer du **Ny mapp**.
 
    ![](assets/image2014-9-16-11-3a25-3a45.png)
 
@@ -27,7 +26,7 @@ När du skapar mappar kan du flytta bilder och filer, se bara den uppsättning b
 
    ![](assets/image2014-9-16-11-3a25-3a53.png)
 
-1. Gå till **Bilder och filer**, nu kan du dra och släppa till önskad mapp.
+1. Gå till **Bilder och filer** kan du nu dra och släppa i den mapp du vill ha.
 
    ![](assets/image2014-9-16-11-3a26-3a0.png)
 

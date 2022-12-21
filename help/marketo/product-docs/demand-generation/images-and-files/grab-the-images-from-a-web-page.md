@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359866
-description: Hämta bilderna från en webbsida - Marketo Docs - Produktdokumentation
+description: Hämta bilderna från en webbsida - Marketo Docs - produktdokumentation
 title: Hämta bilderna från en webbsida
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
 
 ---
-
 
 # Hämta bilderna från en webbsida {#grab-the-images-from-a-web-page}
 
@@ -23,7 +22,7 @@ Om du vill lägga till bilder från en webbsida kopierar du webbadressen (URL:en
 
    ![](assets/image2014-9-16-11-3a37-3a46.png)
 
-1. Markera mappen **Bilder och filer**, klistra in webbadressen (URL:en) i textrutan URL och klicka på **Nästa**.
+1. Välj **Bilder och filer** , klistra in webbadressen (URL:en) i textrutan URL och klicka på **Nästa**.
 
    ![](assets/image2014-9-16-11-3a37-3a55.png)
 
@@ -47,7 +46,7 @@ Snyggt jobbat, överordnad!
 
 >[!MORELIKETHIS]
 >
->* [Lägg till bilder och filer i Marketto](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
+>* [Lägg till bilder och filer i Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 >* [Ordna dina bilder och filer med hjälp av mappar](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
 >* [Hitta URL-adressen till en överförd bild eller fil](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
 >* [Överför bilder och filer från Box](/help/marketo/product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)

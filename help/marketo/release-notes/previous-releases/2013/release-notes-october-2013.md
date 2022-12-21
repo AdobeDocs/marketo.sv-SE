@@ -16,11 +16,11 @@ Följande funktioner ingår i oktober 2013-versionen.
 
 ## templates.marketo.com {#templates-marketo-com}
 
-[Templates.marketo.](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md) comshowcase, mallar för e-post och landningssidor (inklusive responsiva mallar för mobil e-post) som du kan hämta från Marketo programbibliotek. Vi lägger till mallar en gång i månaden. Kom tillbaka ofta!
+[Templates.marketo.com](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md) visar mallar för e-post och landningssidor (inklusive responsiva mallar för mobil e-post) som du kan hämta från Marketo programbibliotek. Vi lägger till mallar en gång i månaden. Kom tillbaka ofta!
 
 ## developers.marketo.com {#developers-marketo-com}
 
-[Developers.marketo.](https://developers.marketo.com) comis för utvecklare som vill bygga integreringar i Marketo. Du kan referera till olika integreringsalternativ, inklusive Munchkin JavaScript API:er, SOAP API-kodexempel, Webhooks och e-postskript. En Java SDK är också tillgänglig på [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
+[Developers.marketo.com](https://developers.marketo.com) är till för utvecklare som vill bygga integreringar i Marketo. Du kan referera till olika integreringsalternativ, inklusive Munchkin JavaScript API:er, SOAP API-kodexempel, Webhooks och e-postskript. En Java SDK är också tillgänglig på [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
 
 ## Uppdaterat BrightStor Event Adapter {#updated-brighttalk-event-adapter}
 
@@ -28,4 +28,4 @@ Synkronisera ytterligare fält från BrightTALK till Marketo, inklusive företag
 
 ## Incheckningsprogram för Android-surfplattehändelse {#android-tablet-event-check-in-app}
 
-Kolla in deltagarna i ditt event med vår nya [Android-baserade incheckning av appen](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) som finns på [Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en).
+Kolla in deltagarna i ditt event med vår nya [Android-baserad incheckningsapp](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) tillgänglig den [Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en).

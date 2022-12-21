@@ -3,7 +3,6 @@ unique-page-id: 10099360
 description: Förbered dig för ditt event - Marketo Docs - produktdokumentation
 title: Förbered dig för ditt evenemang
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '342'
@@ -11,21 +10,21 @@ ht-degree: 0%
 
 ---
 
-# Förbered dig för händelsen {#prepare-for-your-event}
+# Förbered dig för ditt evenemang {#prepare-for-your-event}
 
 Det finns flera saker du måste göra för att göra dig redo för evenemanget.
 
 ## Skapa en ny Marketo-roll {#create-a-new-marketo-role}
 
-Marketo har en särskild användarroll för incheckningsappen för händelser. [Skapa en ny Marketo-](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) roll för iPad- eller Android-användare med behörighet att komma åt mobilprogrammet.
+Marketo har en särskild användarroll för incheckningsappen för händelser. [Skapa en ny Marketo-roll](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) för iPad- eller Android-användare, med behörighet att komma åt mobilprogrammet.
 
-## Bjud in nya användare på surfplattan till händelsen {#invite-new-tablet-users-to-the-event}
+## Bjud in nya användare på surfplattan till evenemanget {#invite-new-tablet-users-to-the-event}
 
-[Bjud in nya surfplatteanvändare till ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) händelsen och tilldela dem den nya rollen.
+[Bjud in nya surfplatteanvändare till evenemanget](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) och tilldela dem den nya rollen.
 
 ## Skapa ett nytt Marketo Event Program {#create-a-new-marketo-event-program}
 
-[Skapa ett nytt Marketo-](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) evenemangsprogram för att fånga upp personernas status när de går igenom olika faser och få korrekta mått på avkastningen för era marknadsföringssatsningar.
+[Skapa ett nytt Marketo-eventprogram](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) för att fånga upp personernas status när de går igenom olika faser och få korrekta mått på avkastningen för era marknadsföringssatsningar.
 
 ## Ange händelsedatum {#specify-the-event-dates}
 
@@ -45,29 +44,29 @@ Det går snabbt att ställa in dina händelsedatum.
 
 ## Lägg till personer i din aktivitet {#add-people-to-your-event}
 
-Nu när du känner till *när* är det dags att lägga till *vem*.
+Nu när du vet *när*&#x200B;är det dags att lägga till *som*.
 
-1. Om du redan har en lista över personer klickar du i Min Marketo på **Databas**-rutan.
+1. Om du redan har en lista över personer i Min Marketo klickar du på **Databas** platta.
 
    ![](assets/db.png)
 
-1. Välj en lista med personer och klicka på fliken **Personer**.
+1. Välj en lista med personer och klicka på **Folk** -fliken.
 
    ![](assets/four.png)
 
-1. Välj personer för din aktivitet i listan. Använd **Ctrl** (eller **Kommando** på en Mac) om du vill klicka på flera personer, eller **Markera alla** om du vill markera alla.
+1. Välj personer för din aktivitet i listan. Använd **Ctrl** (eller **Kommando** på en Mac) för att klicka på flera personer, eller **Markera alla** för att markera alla.
 
    ![](assets/five.png)
 
-1. Klicka på **Personåtgärder**, hovra över **Program** och välj **Ändra programstatus**.
+1. Klicka **Personåtgärder**, hovra över **Program** och markera **Ändra programstatus**.
 
    ![](assets/six.png)
 
-1. Klicka på listrutan **Program** och välj din händelse.
+1. Klicka på **Program** nedrullningsbar lista och välj din aktivitet.
 
    ![](assets/seven.png)
 
-1. Klicka på listrutan **New Status** och välj **Roadshow > Registered**. Klicka på **Kör nu**.
+1. Klicka på **Ny status** nedrullningsbar meny och välj **Roadshow > Registered**. Klicka **Kör nu**.
 
    ![](assets/eight.png)
 

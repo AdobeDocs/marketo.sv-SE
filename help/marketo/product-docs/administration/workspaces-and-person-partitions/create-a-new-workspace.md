@@ -3,7 +3,6 @@ unique-page-id: 2360311
 description: Skapa en ny arbetsyta - Marketo Docs - produktdokumentation
 title: Skapa en ny arbetsyta
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '211'
@@ -26,13 +25,13 @@ Så här skapar du en ny arbetsyta.
 
 >[!NOTE]
 >
->Förstå först arbetsytor och personpartitioner](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).[
+>Förstå först med [Arbetsytor och personpartitioner](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 >[!NOTE]
 >
->Om du vill veta mer om de effektivaste strategierna för Workspace kontaktar du [Marketo Professional Services](mailto:services@marketo.com).
+>Om du vill veta mer om de bästa arbetssätten för Workspace kontaktar du [Marketo Professional Services](mailto:services@marketo.com).
 
-1. Under **Admin** klickar du på **Arbetsytor och partitioner**.
+1. Under **Administratör**, klicka på **Arbetsytor och partitioner**.
 
    ![](assets/image2014-9-17-11-3a59-3a11.png)
 
@@ -40,7 +39,7 @@ Så här skapar du en ny arbetsyta.
 
    ![](assets/two-1.png)
 
-1. Ange ett **namn** och välj den **personpartition(er)** som du vill använda. Välj en **primär personpartition**.
+1. Ange **Namn** och väljer **Personpartition(ar)** som du vill använda. Välj en **Primär personpartition**.
 
    >[!NOTE]
    >
@@ -50,9 +49,9 @@ Så här skapar du en ny arbetsyta.
 
    >[!NOTE]
    >
-   >Kryssrutan **Alla personpartitioner** betyder att den här arbetsytan kan använda alla personpartitioner i systemet.
+   >The **Alla personpartitioner** betyder att den här arbetsytan kan använda alla personpartitioner i systemet.
    >
-   >**Den primära personpartitionen** fungerar som standard och är den plats där alla personer tilldelas.
+   >The **primär personpartition** fungerar som standard och är den plats där alla personer tilldelas.
 
    Om du har aktiverat flera domäner med varumärken måste du välja en primär domäner.
 
@@ -66,7 +65,7 @@ Så här skapar du en ny arbetsyta.
 
    ![](assets/five.png)
 
-1. Klicka på **Skapa**.
+1. Klicka **Skapa**.
 
    ![](assets/six.png)
 

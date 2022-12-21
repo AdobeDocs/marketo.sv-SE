@@ -22,7 +22,7 @@ Behöver du flytta ett e-postmeddelande från ett program till ett annat? Så h�
 
    ![](assets/move-an-email-2.png)
 
-1. Välj **Mål**, **Program** och valfri **Mapp**. Välj **Flytta**.
+1. Välj **Mål**, **Program** och valfritt **Mapp**. Välj **Flytta**.
 
    ![](assets/move-an-email-3.png)
 

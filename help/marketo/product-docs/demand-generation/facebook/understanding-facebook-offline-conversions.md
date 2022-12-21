@@ -1,19 +1,18 @@
 ---
 unique-page-id: 11383945
-description: Understanding Facebook Offline Conversions - Marketo Docs - produktdokumentation
-title: Förstå offlinekonverteringar för Facebook
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Understanding Facebook Offline Conversions - Marketo Docs - Product Documentation
+title: Förstå Facebook offlinekonverteringar
+exl-id: e0995ebc-47fb-4f10-b767-4fe9f572b2d2
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%
 
 ---
 
+# Förstå Facebook offlinekonverteringar {#understanding-facebook-offline-conversions}
 
-# Om offlinekonverteringar för Facebook {#understanding-facebook-offline-conversions}
-
-Leadannonskampanjer på Facebook genererar leads och skickar dem till Marketo för användning i marknadsföringskampanjer. Utan synlighet i offlinekonverteringar kan annonsören på Facebook inte veta vilka annonser som är mest effektiva. Här är ett exempel.
+Facebook Lead Ads-kampanjer genererar leads och skickar dem till Marketo för användning i marknadsföringskampanjer. Utan synlighet i offlinekonverteringar kan Facebook annonsörer dock inte veta vilka annonser som är mest effektiva. Här är ett exempel.
 
 >[!NOTE]
 >
@@ -24,27 +23,23 @@ Leadannonskampanjer på Facebook genererar leads och skickar dem till Marketo f�
 >* Annons 1 genererar 20 leads
 >* Annons 2 genererar 30 leads
 >* Annons 3 genererar 50 leads
-
 >
->
-Baserat på enbart dessa siffror verkar Ad 3 vara den mest effektiva.
+>Baserat på enbart dessa siffror verkar Ad 3 vara den mest effektiva.
 >
 >Men när man tittar på data på Marketo-sidan utvecklas en annan historia.
 >
 >* Annons 1 genererar 10 försäljningar
 >* Annons 3 genererar 2 försäljningar
-
 >
->
-Det innebär att annonsering 1, trots att den genererade färre leads, hade 50 procents framgång, medan annons 3 nästan inte alls var effektiv.
+>Det innebär att annonsering 1, trots att den genererade färre leads, hade 50 procents framgång, medan annons 3 nästan inte alls var effektiv.
 >
 >Utan offlinekonverteringar skulle annonsören förmodligen investera mer i annons 3. Med offlinekonverteringsdata är det troligare att annonsören investerar i annons 1.
 
-Du kan [konfigurera offlinekonverteringar för Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) för att skicka offlineannonsprestanda till Facebook.
+Du kan [konfigurera offlinekonverteringar för Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) för att skicka annonsprestanda offline till Facebook.
 
-1. Se till att din [LaunchPoint-integrering på Facebook](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) är aktuell.
-1. Mappa faser i intäktscykelmodellen till offlinekonverteringsfaser på Facebook.
-1. När en Facebook-lead genereras från en Facebook-annons och når en mappad scen skickar Marketo tillbaka konverteringsdata till Facebook flera gånger dagligen via ett säkert, automatiserat API. Informationen visas i Facebook Ads Manager-rapporten.
+1. Se till att [Integrering med facebook LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) är uppdaterad.
+1. Mappa faser i intäktscykelmodellen till offlinekonverteringsfaser i Facebook.
+1. När en Facebook-lead genereras från en Facebook Lead Ad och når en mappad fas skickar Marketo tillbaka konverteringsdata till Facebook flera gånger dagligen via ett säkert, automatiserat API. Data visas i Facebook Ads Manager Report.
 
 >[!MORELIKETHIS]
 >

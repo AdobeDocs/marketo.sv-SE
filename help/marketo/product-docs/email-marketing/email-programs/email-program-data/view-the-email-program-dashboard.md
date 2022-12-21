@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2359469
-description: Visa kontrollpanelen för e-postprogram - Marketo Docs - Produktdokumentation
+description: Visa kontrollpanelen för e-postprogram - Marketo Docs - produktdokumentation
 title: Visa kontrollpanelen för e-postprogram
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
-
 # Visa kontrollpanelen för e-postprogram {#view-the-email-program-dashboard}
 
 Ta reda på hur ditt e-postprogram (med eller utan A/B-test) fungerar med den här instrumentpanelen.
 
-## Välj ditt e-postprogram {#select-your-email-program}
+## Välj e-postprogram {#select-your-email-program}
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
@@ -29,7 +28,7 @@ Ta reda på hur ditt e-postprogram (med eller utan A/B-test) fungerar med den h�
    >
    >Om ditt A/B-test eller e-postprogram inte har startats ännu visas ingen instrumentpanel.
 
-## E-postprogrammets A/B-testvy {#email-program-a-b-test-view}
+## E-postprogram A/B-testvy {#email-program-a-b-test-view}
 
 Om du har lagt till ett A/B-test i ditt e-postprogram och testet körs för närvarande ser du följande:
 
@@ -37,7 +36,7 @@ Om du har lagt till ett A/B-test i ditt e-postprogram och testet körs för när
 
 ## Vy för e-postprogram {#email-program-view}
 
-Om du inte har lagt till ett A/B-test *eller* om testet är över ska följande visas:
+Om du inte lade till ett A/B-test kan du även göra det *eller* Om testet är över ska följande visas:
 
 ![](assets/image2014-9-12-14-3a3-3a3.png)
 

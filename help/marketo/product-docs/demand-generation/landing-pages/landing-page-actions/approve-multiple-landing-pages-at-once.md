@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359724
-description: Godkänn flera landningssidor samtidigt - Marketo Docs - Produktdokumentation
+description: Godkänn flera landningssidor samtidigt - Marketo Docs - produktdokumentation
 title: Godkänn flera landningssidor samtidigt
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
 
 ---
-
 
 # Godkänn flera landningssidor samtidigt {#approve-multiple-landing-pages-at-once}
 
@@ -17,7 +16,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-11-3a35-3a5.png)
 
-1. Klicka på **Startsidor**.
+1. Klicka **Landningssidor**.
 
    ![](assets/image2014-9-17-11-3a35-3a11.png)
 
@@ -29,7 +28,7 @@ ht-degree: 0%
    >
    >Klicka inte på det faktiska namnet på landningssidan, det är länkar som tar dig till sidan.
 
-1. När landningssidorna är markerade går du till **Åtgärder för landningssida** och klickar på **Godkänn**.
+1. Med landningssidorna markerade går du till **Åtgärder för landningssida** och klicka på **Godkänn**.
 
    ![](assets/image2014-9-17-11-3a35-3a27.png)
 

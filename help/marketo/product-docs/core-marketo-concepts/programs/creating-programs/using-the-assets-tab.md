@@ -3,7 +3,6 @@ unique-page-id: 1147124
 description: Använda fliken Resurser - Marketo Docs - produktdokumentation
 title: Använda fliken Resurser
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
@@ -15,13 +14,13 @@ ht-degree: 0%
 
 Resursytan är en visuell representation av ditt program. Du kan använda den för att lägga till lokala resurser och interagera med befintliga.
 
-## Lägger till resurser {#adding-assets}
+## Lägga till resurser {#adding-assets}
 
-Klicka på fliken **Resurser** i området **Marknadsföringsaktiviteter**. Välj något av resurserna nedan och lägg till dem i programmet.
+Från **Marknadsföringsaktiviteter** klickar du på **Resurser** -fliken. Välj något av resurserna nedan och lägg till dem i programmet.
 
 ![](assets/programassets.png)
 
-## Hantera ditt program {#manage-your-program}
+## Hantera ditt program  {#manage-your-program}
 
 När det finns resurser i programmet visas de här.
 

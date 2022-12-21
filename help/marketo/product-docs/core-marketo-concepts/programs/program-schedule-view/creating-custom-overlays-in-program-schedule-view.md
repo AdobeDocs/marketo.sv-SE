@@ -3,7 +3,6 @@ unique-page-id: 1147251
 description: Skapa anpassade övertäckningar i programschemavy - Marketo Docs - produktdokumentation
 title: Skapa anpassade övertäckningar i programschemavy
 exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '73'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Du kan skapa anpassade övertäckningar för att visa poster som är relevanta för dina behov.
 
-1. Klicka på listrutan **Dagordning**.
+1. Klicka på **Dagordning** nedrullningsbar meny.
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 

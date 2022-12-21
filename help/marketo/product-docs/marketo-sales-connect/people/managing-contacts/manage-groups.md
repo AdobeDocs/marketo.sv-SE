@@ -1,15 +1,14 @@
 ---
 unique-page-id: 30081250
-description: Hantera grupper - Marketo Docs - Produktdokumentation
+description: Hantera grupper - Marketo Docs - produktdokumentation
 title: Hantera grupper
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 8788c9ab-7d52-4b8d-96eb-26fd1a07b0f5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
 
 ---
-
 
 # Hantera grupper {#manage-groups}
 
@@ -17,11 +16,11 @@ Lär dig hur du hanterar dina grupper i Sales Connect.
 
 ## Skapa en grupp {#create-a-group}
 
-1. På sidan Personer klickar du på **+** bredvid Grupper.
+1. Klicka på **+** bredvid Grupper.
 
    ![](assets/one-4.png)
 
-1. Namnge gruppen och klicka på **Skapa**.
+1. Namnge gruppen och klicka **Skapa**.
 
    ![](assets/two-3.png)
 
@@ -33,15 +32,15 @@ Lär dig hur du hanterar dina grupper i Sales Connect.
 
    ![](assets/three-3.png)
 
-1. Klicka på **Gruppera åtgärder** och välj **Skapa kontakt**.
+1. Klicka **Gruppåtgärder** och markera **Skapa kontakt**.
 
    ![](assets/four-3.png)
 
    >[!NOTE]
    >
-   >Då läggs en kontakt till i taget. Om du vill lägga till flera kontakter samtidigt följer du [de här stegen](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
+   >Då läggs en kontakt till i taget. Om du vill lägga till flera kontakter samtidigt följer du [dessa steg](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
-1. Fyll i kontaktinformationen och klicka på **Skapa** (eller **Skapa och lägg till ny** om du vill lägga till en annan).
+1. Fyll i kontaktinformationen och klicka **Skapa** (eller **Skapa och lägg till ny** för att lägga till en till).
 
    ![](assets/five-3.png)
 
@@ -65,13 +64,13 @@ Lär dig hur du hanterar dina grupper i Sales Connect.
 
    ![](assets/eight.png)
 
-1. Klicka på **Dela**.
+1. Klicka **Dela**.
 
    ![](assets/nine.png)
 
    Du äger fortfarande gruppen, men den visas nu under Team Groups.
 
-## Ta bort delning av grupp {#unshare-a-group}
+## Ta bort delning av en grupp {#unshare-a-group}
 
 1. På sidan Personer letar du reda på och markerar gruppen som du vill ta bort delningen för.
 
@@ -81,7 +80,7 @@ Lär dig hur du hanterar dina grupper i Sales Connect.
 
    ![](assets/eleven.png)
 
-1. Klicka på **X** bredvid teamet som du delade gruppen med och klicka sedan utanför modalen.
+1. Klicka på **X** intill teamet som du delade gruppen med och klicka sedan ut ur modalen.
 
    ![](assets/twelve.png)
 
@@ -111,6 +110,6 @@ Lär dig hur du hanterar dina grupper i Sales Connect.
 
    ![](assets/sixteen.png)
 
-1. Bekräfta genom att klicka på **Ta bort**.
+1. Klicka **Ta bort** för att bekräfta.
 
    ![](assets/seventeen.png)

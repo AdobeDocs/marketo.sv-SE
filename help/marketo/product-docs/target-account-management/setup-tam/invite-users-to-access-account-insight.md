@@ -1,25 +1,24 @@
 ---
 unique-page-id: 12980105
-description: Bjud in användare att få tillgång till kontoinsikter - Marketo Docs - produktdokumentation
+description: Bjud in användare att få åtkomst till kontoinsikter - Marketo Docs - produktdokumentation
 title: Bjud in användare att få åtkomst till kontoinsikter
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 772e50d6-4ae8-4d3e-9d6a-9bc075bd4a06
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
-
 # Bjud in användare att få åtkomst till kontoinsikter {#invite-users-to-access-account-insight}
 
 Följ de här stegen för att ge användarna åtkomst till Account Insight.
 
-1. Klicka på **Admin**.
+1. Klicka **Administratör**.
 
    ![](assets/admin-1.png)
 
-1. Klicka på **Användare och roller** i trädet. Klicka sedan på fliken **Försäljningsanvändare** och **Bjud in ny försäljningsanvändare**.
+1. Klicka **Användare och roller** i trädet. Klicka sedan på **Försäljningsanvändare** och **Bjud in ny säljare**.
 
    ![](assets/two-6.png)
 
@@ -27,9 +26,9 @@ Följ de här stegen för att ge användarna åtkomst till Account Insight.
 
    >[!NOTE]
    >
-   >När du bjuder in nya (ej Marketo) användare via användarlistan i CRM kan du bjuda in flera personer åt gången. Inbjudan via e-post är 1 för 1.
+   >När du bjuder in nya (icke-Marketo) användare via användarlistan i CRM kan du bjuda in flera personer åt gången. Inbjudan via e-post är 1 för 1.
 
-1. Klicka på listrutan **CRM-användare** och välj önskad användare.
+1. Klicka på **CRM-användare** och välj önskad användare.
 
    ![](assets/three-5.png)
 
@@ -41,14 +40,14 @@ Följ de här stegen för att ge användarna åtkomst till Account Insight.
 
    ![](assets/four-5.png)
 
-1. Klicka på **Nästa**.
+1. Klicka **Nästa**.
 
    ![](assets/five-5.png)
 
-1. Markera kryssrutan **Kontoinsikter** och klicka på **Nästa**.
+1. Kontrollera **Kontoinsikt** kryssruta och klicka **Nästa**.
 
    ![](assets/six-3.png)
 
-1. Kontrollera skicka-meddelandet, gör eventuella ändringar (valfritt) och klicka på **Skicka**.
+1. Titta på skicka-meddelandet, gör önskade ändringar (valfritt) och klicka på **Skicka**.
 
    ![](assets/seven-2.png)

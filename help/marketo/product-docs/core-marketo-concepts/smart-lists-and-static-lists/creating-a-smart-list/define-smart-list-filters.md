@@ -5,7 +5,7 @@ title: Definiera smarta listfilter
 exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
 source-git-commit: 4b1b91a933a7a6d103fe0d44ece9ea95759edc5f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---

@@ -1,9 +1,8 @@
 ---
 unique-page-id: 7514027
-description: Synkronisera person till Microsoft - Marketo Docs - Produktdokumentation
+description: Synkronisera person till Microsoft - Marketo Docs - produktdokumentation
 title: Synkronisera person till Microsoft
 exl-id: cc6f1c03-ba74-418c-95d5-fb073a248379
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '75'

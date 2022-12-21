@@ -1,19 +1,18 @@
 ---
 unique-page-id: 1147358
-description: Lägg till ett kodfragment i ett e-postmeddelande - Marketo Docs - Produktdokumentation
+description: Lägg till ett kodfragment i ett e-postmeddelande - Marketo Docs - produktdokumentation
 title: Lägga till ett kodfragment i ett e-postmeddelande
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
+# Lägga till ett kodfragment i ett e-postmeddelande {#add-a-snippet-to-an-email}
 
-# Lägg till ett kodfragment i ett e-postmeddelande {#add-a-snippet-to-an-email}
-
-Kodavsnitt är återanvändbara block med text och grafik som du kan använda i e-postmeddelanden och på landningssidor.
+Kodavsnitt är återanvändbara block med formaterad text och grafik som du kan använda i e-postmeddelanden och på landningssidor.
 
 >[!PREREQUISITES]
 >
@@ -21,9 +20,9 @@ Kodavsnitt är återanvändbara block med text och grafik som du kan använda i 
 
 >[!NOTE]
 >
->Du kan inte bädda in en [Marketo-e-postsyntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)i fragment; **fungerar inte** i ett e-postmeddelande. Kodavsnitt ska bara innehålla brödtext (HTML + TEXT).
+>Du kan inte bädda in några [Marketo e-postsyntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)i textutdrag, kommer det **not** arbeta i ett mejl. Kodavsnitt ska bara innehålla brödtext (HTML + TEXT).
 
-1. Leta reda på e-postmeddelandet, markera det och klicka på **Redigera utkast**.
+1. Leta upp e-postmeddelandet, markera det och klicka på **Redigera utkast**.
 
    ![](assets/one-2.png)
 
@@ -31,7 +30,7 @@ Kodavsnitt är återanvändbara block med text och grafik som du kan använda i 
 
    ![](assets/two-2.png)
 
-1. Markera det fragment du vill använda och klicka på **Spara**.
+1. Välj önskat fragment och klicka på **Spara**.
 
    ![](assets/three-1.png)
 
@@ -43,6 +42,6 @@ Kodavsnitt är återanvändbara block med text och grafik som du kan använda i 
 
    >[!NOTE]
    >
-   >Varje gång du uppdaterar och godkänner fragmentet visas ändringarna i e-postmeddelandet. E-postmeddelandet skrivs ut om du inte godkänner kodavsnittet med [No-Draft](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md).
+   >Varje gång du uppdaterar och godkänner fragmentet visas ändringarna i e-postmeddelandet. E-postmeddelandet skrivs ut om du inte godkänner kodavsnittet med [Ej utkast](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md).
 
 Det här är ett snabbt och enkelt sätt att återanvända dynamiskt innehåll.

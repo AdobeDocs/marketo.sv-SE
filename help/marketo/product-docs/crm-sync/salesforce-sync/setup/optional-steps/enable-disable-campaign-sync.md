@@ -3,7 +3,6 @@ unique-page-id: 4719289
 description: Aktivera/inaktivera kampanjsynkronisering - Marketo Docs - produktdokumentation
 title: Aktivera/inaktivera kampanjsynkronisering
 exl-id: a8d53268-75b9-479d-8ffc-b3f19eb77483
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '90'
@@ -19,15 +18,15 @@ ht-degree: 0%
 
 Med det här alternativet kan Marketo synkronisera sitt programmedlemskap och status med Salesforce-kampanjer och vice versa.
 
-1. Gå till **Admin** och klicka på **Salesforce**.
+1. Gå till **Administratör**, klicka **Salesforce**.
 
    ![](assets/image2014-12-9-13-3a36-3a49.png)
 
-1. Klicka på **Redigera synkroniseringsinställningar**.
+1. Klicka **Redigera synkroniseringsinställningar**.
 
    ![](assets/image2014-12-9-13-3a37-3a0.png)
 
-1. Markera **Aktivera Salesforce Campaign-synkronisering** och klicka på **SPARA**.
+1. Kontrollera **Aktivera Salesforce Campaign-synkronisering** och klicka **SPARA**.
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 

@@ -1,23 +1,22 @@
 ---
 unique-page-id: 4718664
-description: Understanding Revenue Model Success Path - Marketo Docs - Produktdokumentation
+description: Understanding Revenue Model Success Path - Marketo Docs - produktdokumentation
 title: Förstå lyckad affärsmodell
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: aeb85e5e-0377-40b5-a7c9-ee9c1322ee66
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
+# Förstå lyckad affärsmodell {#understanding-revenue-model-success-path}
 
-# Förstå lyckad sökväg till intäktsmodell {#understanding-revenue-model-success-path}
+## Lyckad sökväg {#success-path}
 
-## Slutförd sökväg {#success-path}
+I modellen var den gröna banan den **Lyckad sökväg** är den optimala vägen för hur en ledande linjär övergång till ett slutet/vunnet företag.
 
-I modellen är den gröna vägen som kallas **Success Path** den optimala vägen för hur ett lead linjärt övergår till ett slutet/vunnet företag.
-
-![—](assets/image2015-6-12-17-3a12-3a18.png)
+![--](assets/image2015-6-12-17-3a12-3a18.png)
 
 Exempelfaser på en lyckad sökväg:
 
@@ -31,11 +30,11 @@ Exempelfaser på en lyckad sökväg:
 
 >[!TIP]
 >
->Grönt är för pengar. Allting på vägen mot grönt är på vägen mot framgång! Därför finns det bara gröna pilar i [Success Path Analyzer](using-the-success-path-analyzer.md).
+>Grönt är för pengar. Allting på vägen mot grönt är på vägen mot framgång! Det är därför det bara finns gröna pilar i [Success Path Analyzer](using-the-success-path-analyzer.md).
 
 ## Detaljer {#detours}
 
-Eftersom inte alla leads följer en linjär&quot;lyckad väg&quot;, bör du även definiera dina&quot;omdirigeringsfaser&quot; för att fånga leads som inte är kvalificerade eller som kräver några vårdområden innan de blir klara. Till exempel:
+Eftersom inte alla leads följer en linjär&quot;lyckad väg&quot;, bör du även definiera dina&quot;omdirigeringsfaser&quot; för att fånga leads som inte är kvalificerade eller som kräver några vårdområden innan de blir klara. Exempel:
 
 | **DETOUR SCENNAMN** | **DEFINITION** |
 |---|---|

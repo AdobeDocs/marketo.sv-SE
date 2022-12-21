@@ -2,14 +2,13 @@
 unique-page-id: 2949170
 description: Spara kampanjen som en mall - Marketo Docs - Produktdokumentation
 title: Spara kampanjen som en mall
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: b14663a0-8a15-4d3d-bf1f-93a25ea606ef
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
 
 ---
-
 
 # Spara kampanjen som en mall {#save-your-campaign-as-a-template}
 
@@ -31,6 +30,6 @@ Har du någonsin ägnat tid åt att skapa den perfekta webbkampanjen? Du kan nu 
 
    ![](assets/image2015-2-25-19-3a56-3a58.png)   ![](assets/image2015-2-25-19-3a56-3a37.png)
 
-1. Så ja! Nästa gång du skapar en kampanj och väljer en mall kan du kontrollera Mina mallar på sidan Ange kampanjer för att se de mallar du har sparat.
+1. Så ja! Nästa gång du skapar en kampanj och väljer en mall kan du kontrollera Mina mallar på sidan Ange kampanjer för att se vilka mallar du har sparat.
 
    ![](assets/image2014-9-17-20-3a55-3a31.png)

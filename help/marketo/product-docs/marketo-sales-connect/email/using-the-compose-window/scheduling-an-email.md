@@ -2,14 +2,13 @@
 unique-page-id: 37356568
 description: Schemalägga ett e-postmeddelande - Marketo Docs - produktdokumentation
 title: Schemalägga ett e-postmeddelande
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: db79ef1f-92f4-4afa-97c8-655299c59406
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
 
 ---
-
 
 # Schemalägga ett e-postmeddelande {#scheduling-an-email}
 
@@ -35,7 +34,7 @@ Följ de här enkla stegen för att schemalägga ett e-postmeddelande.
 
    ![](assets/four-1.png)
 
-1. När du har valt schemalagt datum/tid klickar du på **Skicka** för att schemalägga e-postmeddelandet.
+1. Nu när du har valt schemalagt datum/tid klickar du på **Skicka** för att schemalägga e-postmeddelandet.
 
    ![](assets/five-1.png)
 

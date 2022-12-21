@@ -2,14 +2,13 @@
 unique-page-id: 7504343
 description: Skapa ett segment med hjälp av kända persondata - Marketo Docs - produktdokumentation
 title: Skapa ett segment med hjälp av kända persondata
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 429d8678-2e62-4b1e-bda1-675ff3a1aae2
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
 
 ---
-
 
 # Skapa ett segment med hjälp av kända persondata {#create-a-segment-using-known-person-data}
 
@@ -23,7 +22,7 @@ Så här skapar du ett segment med hjälp av kända persondatavärden.
 
    ![](assets/new-dropdown-segments-hand-2.jpg)
 
-1. Klicka på **Skapa ny**.
+1. Klicka **Skapa nytt**.
 
    ![](assets/image2015-8-28-13-3a19-3a59.png)
 
@@ -31,7 +30,7 @@ Så här skapar du ett segment med hjälp av kända persondatavärden.
 
    ![](assets/image2015-8-28-13-3a2-3a59.png)
 
-1. Dra **Databas** till arbetsytan i Profilsegmentering.
+1. Dra i profilsegmentering **Databas** till arbetsytan.
 
    ![](assets/four-1.png)
 
@@ -47,9 +46,9 @@ Så här skapar du ett segment med hjälp av kända persondatavärden.
 
    ![](assets/seven-1.png)
 
-## Markera datafält för flera personer {#selecting-multiple-person-data-fields}
+## Markera flera persondatafält {#selecting-multiple-person-data-fields}
 
-1. Klicka på **+** om du vill lägga till ett annat persondatafält.
+1. Klicka **+** om du vill lägga till ett annat persondatafält.
 
    ![](assets/eight.png)
 
@@ -57,7 +56,7 @@ Så här skapar du ett segment med hjälp av kända persondatavärden.
 
    ![](assets/nine.png)
 
-1. Klicka på **Spara** för att spara segmentet eller **Spara och definiera kampanj** för att spara och gå till sidan Campaign.
+1. Klicka **Spara** för att spara segmentet eller **Spara och definiera kampanj** för att spara och gå till Campaigns-sidan.
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 

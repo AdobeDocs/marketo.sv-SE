@@ -3,7 +3,6 @@ unique-page-id: 2949266
 description: SEO - Lägg till/ta bort sidproblem från en lista - Marketo Docs - produktdokumentation
 title: SEO - Lägg till/ta bort sidproblem från en lista
 exl-id: 41d16263-a083-40a5-9003-72a35df12c45
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '182'
@@ -15,9 +14,9 @@ ht-degree: 0%
 
 Du kan ordna dina sidproblem i listor. Du kan också ta bort sidproblem från en lista.
 
-## Lägg till sidproblem i en lista {#add-page-issues-to-a-list}
+## Lägga till sidproblem i en lista {#add-page-issues-to-a-list}
 
-1. Gå till avsnittet **Sidor**.
+1. Gå till **Sidor** -avsnitt.
 
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
@@ -25,7 +24,7 @@ Du kan ordna dina sidproblem i listor. Du kan också ta bort sidproblem från en
 
    ![](assets/image2014-9-18-14-3a3-3a18.png)
 
-1. Håll muspekaren över det sidproblem du vill lägga till. Klicka på **Lägg till/ta bort från lista**.
+1. Håll muspekaren över det sidproblem du vill lägga till. Klicka **Lägg till/ta bort från lista**.
 
    ![](assets/image2014-9-18-14-3a3-3a40.png)
 
@@ -43,7 +42,7 @@ Du kan ordna dina sidproblem i listor. Du kan också ta bort sidproblem från en
 
    ![](assets/image2014-9-18-14-3a4-3a8.png)
 
-1. Klicka på **Problem** på fliken Sidor.
+1. På fliken Sidor klickar du på **Problem**.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
@@ -51,7 +50,7 @@ Du kan ordna dina sidproblem i listor. Du kan också ta bort sidproblem från en
 
    ![](assets/image2014-9-18-14-3a4-3a29.png)
 
-1. Håll muspekaren över det sidproblem du vill ta bort. Klicka på **Lägg till/ta bort från lista**.
+1. Håll muspekaren över det sidproblem du vill ta bort. Klicka **Lägg till/ta bort från lista**.
 
    ![](assets/image2014-9-18-14-3a4-3a38.png)
 

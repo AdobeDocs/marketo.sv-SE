@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359781
-description: Skapa ett hänvisningserbjudande - Marketo Docs - Produktdokumentation
+description: Skapa ett hänvisningserbjudande - Marketo Docs - produktdokumentation
 title: Skapa ett hänvisningserbjudande
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: c295943e-b9e5-4922-a3a4-800ed60cd513
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 0%
 
 ---
-
 
 # Skapa ett hänvisningserbjudande {#create-a-referral-offer}
 
@@ -19,11 +18,11 @@ Med hänvisningserbjudanden får du en anledning att hänvisa sina vänner. Skap
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
-1. I programmet väljer du **Nytt** > **Ny lokal resurs**.
+1. Välj **Nytt** > **Ny lokal resurs**.
 
    ![](assets/image2014-9-19-11-3a3-3a23.png)
 
-1. Klicka på **Referenserbjudande** i **galleriet för lokala resurser**.
+1. I **Lokalt resursgalleri**, klicka **Referenserbjudande**.
 
    ![](assets/image2014-9-19-11-3a3-3a31.png)
 
@@ -33,11 +32,11 @@ Med hänvisningserbjudanden får du en anledning att hänvisa sina vänner. Skap
 
    >[!TIP]
    >
-   >För att spara tid kan du använda alternativet **Klona från** för att kopiera alla inställningar från ett befintligt hänvisningserbjudande.
+   >Du kan spara tid med **Klona från** möjlighet att kopiera alla inställningar från ett befintligt hänvisningserbjudande.
 
    Anvisningserbjudanderedigeraren öppnas i ett nytt fönster. Standardinställningarna är alla bra, men du måste lägga till en länk till reglerna för ditt erbjudande (villkor). Länken visas längst ned på delningsmeddelandeskärmar. Vi visar hur du gör i nästa steg.
 
-1. Klicka på **Avancerade alternativ**.
+1. Klicka **Avancerade alternativ**.
 
    ![](assets/image2014-9-19-11-3a3-3a49.png)
 
@@ -47,17 +46,17 @@ Med hänvisningserbjudanden får du en anledning att hänvisa sina vänner. Skap
 
    >[!NOTE]
    >
-   >På den här skärmen kan du även lägga till en integritetspolicylänk. Se [Lägg till din integritetspolicy i en social app](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
+   >På den här skärmen kan du även lägga till en integritetspolicylänk. Se  [Lägg till din integritetspolicy i en social app](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
-1. Klicka på **Slutför**.
+1. Klicka **Slutför**.
 
    ![](assets/image2014-9-19-11-3a4-3a4.png)
 
-1. Klicka på **Godkänn och stäng**.
+1. Klicka **Godkänn och stäng**.
 
    >[!TIP]
    >
-   >Om du vill ändra något av standardvärdena i ditt hänvisningserbjudande klickar du på **Tillbaka**. Om du vill spara ditt arbete för senare bruk utan godkännande klickar du på **Stäng**.
+   >Om du vill ändra standardinställningarna i ditt hänvisningserbjudande klickar du på **Bakåt**. Om du vill spara ditt arbete för senare bruk utan att godkänna klickar du på **Stäng**.
 
    ![](assets/image2014-9-19-11-3a4-3a11.png)
 

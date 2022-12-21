@@ -1,17 +1,16 @@
 ---
 unique-page-id: 13795534
-description: Performance Insights Dashboards - Marketo Docs - produktdokumentation
+description: Instrumentpaneler för Performance Insights - Marketo Docs - produktdokumentation
 title: Instrumentpaneler för prestandainsikter
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 324880d0-e3ff-4bd5-8e1b-102c4ea66c8f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '504'
 ht-degree: 0%
 
 ---
 
-
-# Prestandainsikter Kontrollpaneler {#performance-insights-dashboards}
+# Instrumentpaneler för prestandainsikter {#performance-insights-dashboards}
 
 Läs mer om de tillgängliga instrumentpanelerna i MPI.
 
@@ -25,7 +24,7 @@ Med kontrollpanelen för engagemang kan du mäta effektiviteten i dina program f
 
 Mäta målgruppsengagemang
 
-Välj mätvärdet **Successes** för att mäta målgruppens engagemang i dina vårdsprogram. Success är ett mått på meningsfull interaktion i Marketo.
+Välj **Framgångar** mätvärden för att mäta målgruppernas engagemang i era vårdsprogram. Success är ett mått på meningsfull interaktion i Marketo.
 
 ![](assets/3-4.png)
 
@@ -37,7 +36,7 @@ Syftet med ett program är att skapa en meningsfull interaktion med personen ell
 
 Mäta nytt namnförvärv
 
-Välj måttet **Nya namn** för att mäta effektiviteten i era nya program för namnvärvning.
+Välj **Nya namn** mätvärden för att mäta effektiviteten i era nya program för förvärv av namn.
 
 ![](assets/4-3.png)
 

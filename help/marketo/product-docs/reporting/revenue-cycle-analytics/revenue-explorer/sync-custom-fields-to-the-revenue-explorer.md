@@ -1,33 +1,32 @@
 ---
 unique-page-id: 2360341
-description: Synkronisera anpassade fält med Intresseutforskaren - Marketo Docs - Produktdokumentation
+description: Synkronisera anpassade fält med intäktsutforskaren - Marketo Docs - produktdokumentation
 title: Synkronisera anpassade fält med intäktsutforskaren
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 6b7671ec-af43-4bca-89de-e2ac4a5cee1e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-
 # Synkronisera anpassade fält med intäktsutforskaren {#sync-custom-fields-to-the-revenue-explorer}
 
-Intäktscykelanalys kan rapportera i anpassade Marketo-fält, och för att kunna göra det måste du ange att anpassade fält ska synkroniseras.
+Intäktscykelanalys kan rapportera i anpassade Marketo-fält. För att kunna göra det måste du ange att anpassade fält ska synkroniseras.
 
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till avsnittet **Admin**.
+1. Gå till **Administratör** -avsnitt.
 
    ![](assets/image2014-9-19-9-3a51-3a11.png)
 
-1. Välj **Intäktscykelanalys**.
+1. Välj **Analys av intäktscykler**.
 
    ![](assets/image2014-9-19-9-3a51-3a19.png)
 
-1. Klicka på fliken **Synkronisera anpassade fält** och välj önskat analysområde.
+1. Klicka på **Synkronisering av anpassat fält** och välj det analysområde du vill använda.
 
    ![](assets/image2014-9-19-9-3a51-3a26.png)
 
@@ -35,11 +34,11 @@ Intäktscykelanalys kan rapportera i anpassade Marketo-fält, och för att kunna
 
    ![](assets/image2014-9-19-9-3a51-3a36.png)
 
-1. Ändra **synkroniseringsstatus** till **Aktiverad**.
+1. Ändra **Synkroniseringsstatus** till **Aktiverad**.
 
    ![](assets/image2014-9-19-9-3a51-3a45.png)
 
-1. Välj **RCA-typ** och klicka sedan på **Spara**.
+1. Välj **RCA-typ** klickar du **Spara**.
 
    ![](assets/image2014-9-19-9-3a51-3a52.png)
 

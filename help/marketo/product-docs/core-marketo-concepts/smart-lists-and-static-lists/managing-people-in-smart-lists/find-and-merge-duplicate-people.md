@@ -3,7 +3,6 @@ unique-page-id: 557339
 description: Sök och sammanfoga duplicerade personer - Marketo Docs - produktdokumentation
 title: Sök och sammanfoga duplicerade personer
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '429'
@@ -21,11 +20,11 @@ Marketo deduplicerar automatiskt när nya personer kommer in i systemet. CRM kan
 
 >[!PREREQUISITES]
 >
->Du kan söka efter och sammanfoga dubbletter genom att använda [inbyggda/systemsmarta listor](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
+>Att söka efter och sammanfoga dubbletter innebär att [inbyggda/systemsmarta listor](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
 
-## Sök efter dubbletter {#find-duplicates}
+## Sök dubbletter {#find-duplicates}
 
-1. Gå till området **Databas**.
+1. Gå till **Databas** område.
 
    ![](assets/db.png)
 
@@ -33,21 +32,21 @@ Marketo deduplicerar automatiskt när nya personer kommer in i systemet. CRM kan
    >
    >Det kanske inte fungerar att sammanfoga personer i Marketo om du använder ett Salesforce-personkonto. Sammanfoga posterna i Salesforce om det är möjligt.
 
-1. Välj den smarta listan **Möjliga dubbletter** och klicka på fliken **Personer**.
+1. Välj **Möjliga dubbletter** systemsmart lista och klicka på **Folk** -fliken.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >Du kan även [söka efter dubbletter av personer med anpassad logik](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md).
+   >Du kan också [Sök efter duplicerade personer med anpassad logik](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md).
 
 ## Sammanfoga personer manuellt {#merge-people-manually}
 
 >[!CAUTION]
 >
->När du sammanfogar personer och den person som förlorar har ett anpassat Marketo-objekt, associeras det **inte** igen med den vinnande personen. Överför det anpassade objektet igen innan du utför sammanfogningen.
+>När du sammanfogar personer och den person som förlorar har ett anpassat Marketo-objekt, kommer det att **not** för att återassocieras med den vinnande personen. Överför det anpassade objektet igen innan du utför sammanfogningen.
 
-1. Markera dubbletterna genom att hålla ned Ctrl/Cmd och klicka på **Sammanfoga personer**.
+1. Markera dubbletterna genom att hålla ned Ctrl/Cmd och klicka och sedan på **Sammanfoga personer**.
 
    ![](assets/three.png)
 
@@ -55,7 +54,7 @@ Marketo deduplicerar automatiskt när nya personer kommer in i systemet. CRM kan
    >
    >Du kan ha två eller flera dubbletter för samma person - markera alla samtidigt.
 
-1. Du ser värdena mellan posterna som _inte_ matchar. Välj det värde som du vill behålla för varje fält. Klicka på **Sammanfoga** när du är klar. Om du inte vill ha något av värdena kan du markera **Egen** och ange ett värde.
+1. Du ser värdena mellan posterna som _inte_ matchar. Välj det värde som du vill behålla för varje fält. Klicka **Sammanfoga** när det är klart. Om du inte vill ha något av värdena kan du kontrollera **Egen** och ange ett värde.
 
    ![](assets/four.png)
 
@@ -79,7 +78,7 @@ Mer information om Salesforce-beteendet när du sammanfogar leads eller kontakte
 * [Sammanfoga dubblettrader](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US)
 * [Sammanfoga dubblettkontakter](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US)
 
-## Sammanfoga {#bulk-merging} gruppvis
+## Masssammanslagning {#bulk-merging}
 
 Om du har för många dubbletter för att sammanfoga manuellt kan du kontakta din Customer Success Manager och diskutera dina alternativ.
 

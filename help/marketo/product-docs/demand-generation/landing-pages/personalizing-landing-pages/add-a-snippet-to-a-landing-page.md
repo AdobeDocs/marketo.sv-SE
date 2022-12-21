@@ -1,33 +1,32 @@
 ---
 unique-page-id: 2359537
-description: Lägg till ett kodfragment på en landningssida - Marketo Docs - Produktdokumentation
+description: Lägg till ett kodfragment på en landningssida - Marketo Docs - produktdokumentation
 title: Lägga till ett kodfragment på en landningssida
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: 35290bef-cb6f-4477-995c-d4571712b866
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
+# Lägga till ett kodfragment på en landningssida {#add-a-snippet-to-a-landing-page}
 
-# Lägg till ett kodfragment på en landningssida {#add-a-snippet-to-a-landing-page}
-
-Kodfragment är små bitar av HTML som kan följa regler och innehålla personaliserat innehåll.
+Kodfragment är små bitar av HTML som kan följa regler och lagra personaliserat innehåll.
 
 >[!PREREQUISITES]
 >
 >[Skapa ett fragment](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
-1. Markera landningssidan och klicka på **Redigera utkast**.
+1. Välj landningssida och klicka på **Redigera utkast**.
 
    ![](assets/image2014-9-16-15-3a4-3a28.png)
 
-1. Dra över elementet **Kodfragment** i landningssidans redigerare.
+1. I landningssidans redigerare drar du över **Fragment** -element.
 
    ![](assets/image2015-5-21-12-3a46-3a34.png)
 
-1. Leta reda på fragmentet, markera det och klicka på **Spara**.
+1. Hitta fragmentet, markera det och klicka på **Spara**.
 
    ![](assets/image2014-9-16-15-3a4-3a14.png)
 
@@ -37,6 +36,6 @@ Kodfragment är små bitar av HTML som kan följa regler och innehålla personal
 
    >[!NOTE]
    >
-   >Om du vill lägga till ett fragment på en guidad landningssida läser du [den här artikeln](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+   >Om du vill lägga till ett fragment på en guidad landningssida finns mer information i [den här artikeln](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
 Fantastiskt jobb! Nu vet du hur du lägger till fragment på dina landningssidor.

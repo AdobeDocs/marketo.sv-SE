@@ -24,7 +24,7 @@ Webbpersonalisering har nu stöd för flera arbetsytor.
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
-* **Stöd för** SFDC Lightning: Användare som migrerar till eller för närvarande använder Lightning kan utnyttja MSE för smartare engagemang under hela kundresan.
+* **Stöd för SFDC Lightning**: Användare som migrerar till eller för närvarande använder Lightning kan utnyttja MSE för smartare engagemang under hela kundresan.
 
 * **Utökat stöd: Microsoft Office**
 
@@ -37,7 +37,7 @@ Webbpersonalisering har nu stöd för flera arbetsytor.
 
 ## Marketo Sky {#marketo-sky}
 
-Mer information och uppdateringar finns i [Sky Release Notes](https://help.marketo.com).
+Mer information och uppdateringar finns i [Versionsinformation för Sky](https://help.marketo.com).
 
 * **Systemuppdateringar**
 
@@ -46,16 +46,16 @@ Mer information och uppdateringar finns i [Sky Release Notes](https://help.marke
 * Designförbättringar av trädnavigeringen: målinriktad användning av färg, tydligare typografi, ny ikonografi och emblem för snabb statuskontroll
 * Omarbetad programsammanfattning
 
-* **Startsida** för marknadsföringsaktiviteter: Få snabbt tillgång till vanliga funktioner direkt från startsidan för marknadsföringsaktiviteter.
+* **Startsida för marknadsföringsaktiviteter**: Få snabbt tillgång till vanliga funktioner direkt från startsidan för marknadsföringsaktiviteter.
 
    * Vidta specifika åtgärder (d.v.s. starta nya program och smarta kampanjer) och se viktig information om aktuella program, som program och kampanjer som ska köras idag, nyligen uppdaterade program och resurser samt totalt antal aktiva utlösarkampanjer.
 
-* **Design Studio-uppdateringar**: Vi har omarbetat Design Studio så att du kan gå snabbare och bli mer produktiv.
+* **Design Studio - uppdateringar**: Vi har omarbetat Design Studio så att du kan gå snabbare och bli mer produktiv.
 * Design Studio - startsida: Skapa nya resurser, dra och släpp bilder och filer och hantera alla befintliga resurser.
 * Design Studio - listvyer: Nu kan användare visa landningssidmallar och e-postmallar i listvyformat, vilket gör det möjligt att snabbt navigera och göra satsningar på en enda resurstyp.
 * Design Studio - informationssidor: Spara tid och huvudvärk genom att visa, ordna och utföra massåtgärder på alla resurser på ett och samma ställe.
 * **Standardprogram som nu finns i Marketo Skyn**: Marketo Skyn har nu stöd för standardprogram, en mångsidig programstil som gör att du kan skapa vilken kampanj du vill.
-* **E-postprogram - fas 1**: Nu kan du visa e-postprogram i Sky. Ta en titt på den nya designen och [berätta vad du tycker](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
+* **E-postprogram - fas 1**: Nu kan du visa e-postprogram i Sky. Ta en titt på den nya designen och [berätta för oss vad du tycker](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
 
 ## Analyser {#analytics}
 
@@ -83,7 +83,7 @@ Mer information och uppdateringar finns i [Sky Release Notes](https://help.marke
    * Varningsikon: Den nya varningsikonen visar alla aktiva varningar om problem med datakvalitet och inställningsmeddelanden.
 
 * **Åtagande efter aktivitetsdatum**: Användarna kan välja att visa interaktionsstatistik efter aktivitetsdatum eller kostnadsperiod.
-* **Filter** för namngivet ABM-konto: Filtrera kontrollpanelerna för pipeline och intäkt efter specifika namngivna konton.
+* **Filter för namngivet ABM-konto**: Filtrera kontrollpanelerna för pipeline och intäkt efter specifika namngivna konton.
 
 ## Annonsnätverk {#ad-networks}
 

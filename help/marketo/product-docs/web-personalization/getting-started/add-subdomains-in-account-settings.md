@@ -2,32 +2,31 @@
 unique-page-id: 17727870
 description: Lägg till underdomäner i Kontoinställningar - Marketo Docs - Produktdokumentation
 title: Lägg till underdomäner i kontoinställningar
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 8235ae4b-ab07-413f-bd23-4e12232bd019
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
-
-# Lägg till underdomäner i kontoinställningarna {#add-subdomains-in-account-settings}
+# Lägg till underdomäner i kontoinställningar {#add-subdomains-in-account-settings}
 
 Så här lägger du till underdomäner i dina primära domäner i Kontoinställningar. På så sätt kan du hantera underdomäner som är relaterade till det specifika RTP Javascript-skriptet för din primära domän. Du bör distribuera Javascript-taggen till alla tillagda underdomäner.
 
-1. Gå till **Kontoinställningar** i Webbanpassning.
+1. Gå till Webbanpassning **Kontoinställningar**.
 
    ![](assets/image2014-12-1-23-3-12.png)
 
-1. På sidan Domänkonfiguration visas en lista med alla primära domäner som är associerade med ditt konto. I varje avsnitt listas den primära domänen först (markeras nedan), följt av eventuella underdomäner. Klicka på **Lägg till underdomän**.
+1. På sidan Domänkonfiguration visas en lista med alla primära domäner som är associerade med ditt konto. I varje avsnitt listas den primära domänen först (markeras nedan), följt av eventuella underdomäner. Klicka **Lägg till underdomän**.
 
    ![](assets/highlightprimary2.png)
 
-1. Klicka på **Lägg till**.
+1. Klicka **Lägg till**.
 
    ![](assets/add.png)
 
-1. Ange underdomän-URL. Klicka på **Lägg till** eller **Ta bort** för att hantera din lista över underdomäner och klicka sedan på **OK** när du är klar.
+1. Ange underdomän-URL. Klicka **Lägg till** eller **Ta bort** för att hantera din lista över underdomäner och sedan klicka på **OK** när du är klar.
 
    ![](assets/newsubdomain.png)
 
@@ -37,4 +36,4 @@ Så här lägger du till underdomäner i dina primära domäner i Kontoinställn
 
    >[!NOTE]
    >
-   >Om du vill lägga till _primära_ domäner för ditt konto kontaktar du [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Om du vill lägga till _primär_ domäner till ditt konto, kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).

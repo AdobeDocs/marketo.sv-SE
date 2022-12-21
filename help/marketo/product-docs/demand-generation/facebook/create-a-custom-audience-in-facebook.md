@@ -16,7 +16,6 @@ ht-degree: 0%
 >
 >* [Lägg till anpassade Facebook-målgrupper som en LaunchPoint-tjänst](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) i avsnittet Admin.
 >* [Acceptera Facebook anpassade målgruppsvillkor](https://www.facebook.com/ads/manage/customaudiences/tos.php) på ditt Facebook-konto.
-
 >
 
 

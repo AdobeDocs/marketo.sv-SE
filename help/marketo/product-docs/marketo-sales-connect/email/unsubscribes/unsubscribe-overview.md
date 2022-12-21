@@ -1,17 +1,16 @@
 ---
 unique-page-id: 14746161
-description: Avbeställ översikt - Marketo Docs - Produktdokumentation
+description: Avbeställ prenumerationen - Marketo Docs - produktdokumentation
 title: Avbeställ prenumeration - översikt
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 3212d5be-07ea-47bd-874e-25d02513c23b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
-
-# Avbeställ översikt {#unsubscribe-overview}
+# Avbeställ prenumeration - översikt {#unsubscribe-overview}
 
 Det blir allt viktigare för organisationer att följa lagar om e-postsekretess. För att underlätta detta har vi förbättrat vår avprenumeration.
 

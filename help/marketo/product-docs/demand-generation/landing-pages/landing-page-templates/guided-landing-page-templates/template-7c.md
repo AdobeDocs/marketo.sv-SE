@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Mall 7C {#template-7c}
 
-Högerklicka för att [hämta mall 7C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7c.html)
+Högerklicka för att [ladda ned mall 7C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7c.html)
 
 ![](assets/image2015-7-29-14-3a37-3a3.png)
 

@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2949168
-description: Använda mallar för att skapa webbkampanjer - Marketo Docs - Produktdokumentation
+description: Använda mallar för att skapa webbkampanjer - Marketo Docs - produktdokumentation
 title: Använda mallar för att skapa webbkampanjer
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 1d4f24c7-27c7-4eb6-9377-dc6853d13fa3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
-
 # Använda mallar för att skapa webbkampanjer {#using-templates-to-create-web-campaigns}
 
-Snabba upp och förenkla framtagningen av webbkampanjer genom att använda våra inbyggda mallar eller genom att [spara din egen](save-your-campaign-as-a-template.md).
+Snabba upp och förenkla framtagningen av webbkampanjer genom att använda våra inbyggda mallar eller [egen](save-your-campaign-as-a-template.md).
 
 >[!NOTE]
 >
@@ -23,7 +22,7 @@ Snabba upp och förenkla framtagningen av webbkampanjer genom att använda våra
 
    ![](assets/web-campaigns-hand.jpg)
 
-1. Klicka på **Skapa ny webbkampanj**.
+1. Klicka **Skapa ny webbkampanj**.
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
@@ -35,7 +34,7 @@ Snabba upp och förenkla framtagningen av webbkampanjer genom att använda våra
 
    ![](assets/set-web-campaign-education.jpg)
 
-1. Klicka på **Mallar**.
+1. Klicka **Mallar**.
 
    ![](assets/templates.png)
 
@@ -49,13 +48,13 @@ Snabba upp och förenkla framtagningen av webbkampanjer genom att använda våra
 
    >[!TIP]
    >
-   >För mobilkampanjer väljer du en mall i avsnittet **mobile**.
+   >För mobilkampanjer väljer du en mall från **mobil** -avsnitt.
 
 1. Anpassa mallen.
 
    ![](assets/customize-template.jpg)
 
-1. Klicka på **Spara**.
+1. Klicka **Spara**.
 
    ![](assets/click-save-hand.jpg)
 

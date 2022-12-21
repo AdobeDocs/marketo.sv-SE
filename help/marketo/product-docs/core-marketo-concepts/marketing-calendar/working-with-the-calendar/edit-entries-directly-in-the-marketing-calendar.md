@@ -3,7 +3,6 @@ unique-page-id: 2953352
 description: Redigera tävlingsbidrag direkt i marknadsföringskalendern - Marketo Docs - produktdokumentation
 title: Redigera poster direkt i marknadsföringskalendern
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
@@ -17,11 +16,11 @@ I programfokusläget kan du snabbt ändra kalenderposterna. Så här gör du.
 
 ## Aktivera programfokus {#enable-program-focus}
 
-1. Gå till **kalendern**.
+1. Gå till **Kalender**.
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. Välj en post som tillhör det program som du vill fokusera på och klicka på **Visa programfokus**.
+1. Välj en post som tillhör programmet som du vill fokusera på och klicka på **Visa programfokus**.
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 

@@ -3,7 +3,6 @@ unique-page-id: 8781911
 description: Understanding Email Program Cards - Marketo Docs - Product Documentation
 title: Understanding Email Program Cards
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '310'
@@ -11,9 +10,9 @@ ht-degree: 0%
 
 ---
 
-# Om e-postprogramkort {#understanding-email-program-cards}
+# Understanding Email Program Cards {#understanding-email-program-cards}
 
-Använd Marketo Moments för att visa dina e-postprogram från din telefon eller iPad.
+Använd Marketo Moments för att visa dina e-postprogram från telefonen eller iPad.
 
 ## E-postprogramkort {#email-program-cards}
 
@@ -27,7 +26,7 @@ På ett e-postprogramkort för ett e-postmeddelande som ännu inte har skickats 
 
 ![](assets/image2015-7-2-9-3a33-3a47.png)
 
-När e-postmeddelandet har skickats visar kortet annan värdefull information, inklusive antalet levererade e-postmeddelanden, mottagarnas åtgärder och en länk till den smarta lista som används i kampanjen.
+När e-postmeddelandet har skickats visar kortet annan värdefull information, inklusive antalet levererade e-postmeddelanden, mottagarens åtgärder och en länk till den smarta lista som används i kampanjen.
 
 ![](assets/image2015-9-25-10-3a5-3a29.png)
 
@@ -37,11 +36,11 @@ När e-postmeddelandet har skickats visar kortet annan värdefull information, i
 
    ![](assets/image2015-7-16-17-3a6-3a16.png)
 
-1. Tryck på **Bekräfta**.
+1. Tryck **Bekräfta**.
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Tryck på **Bekräfta** för att slutföra jobbet, eller **Slut aldrig** om du hade andra tankar.
+1. Tryck **Bekräfta** för att slutföra jobbet, eller **Aldrig sinna** om du haft andra tankar.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -49,13 +48,13 @@ När e-postmeddelandet har skickats visar kortet annan värdefull information, i
    >
    >Nu förvandlas kortet till orange!
 
-## Avbryter sändning av e-postkort {#canceling-an-email-card-send}
+## Avbryta en sändning med e-postkort {#canceling-an-email-card-send}
 
-1. Om du inte vill skicka bekräftad e-post trycker du på menyn med tre punkter.
+1. Om du bestämmer dig för att inte skicka ut bekräftad e-post trycker du på menyn med tre punkter.
 
    ![](assets/image2015-7-17-9-3a50-3a49.png)
 
-1. Tryck på **Avbryt Skicka**.
+1. Tryck **Avbryt sändning**.
 
    ![](assets/image2015-7-17-9-3a52-3a54.png)
 
@@ -71,7 +70,7 @@ Du kan schemalägga om bekräftade eller obekräftade e-postkort.
 
    ![](assets/image2015-7-17-9-3a58-3a44.png)
 
-1. Tryck på **Ändra schema**.
+1. Tryck **Schemalägg om**.
 
    ![](assets/image2015-7-17-10-3a0-3a32.png)
 
@@ -89,7 +88,7 @@ Du kan dela ett exempel på en e-poststund direkt med någon.
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. Tryck på **Skicka exempel**.
+1. Tryck **Skicka exempel**.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
@@ -101,7 +100,7 @@ Du kan dela ett exempel på en e-poststund direkt med någon.
 
 Högerklicka på ett e-postkort för att förhandsgranska det.
 
-1. Tryck på **Förhandsgranska e-post**.
+1. Tryck **Förhandsgranska e-post**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 

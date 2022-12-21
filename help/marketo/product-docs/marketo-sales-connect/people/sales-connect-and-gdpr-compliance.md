@@ -2,16 +2,15 @@
 unique-page-id: 14745825
 description: Sales Connect och GDPR Compliance - Marketo Docs - produktdokumentation
 title: Efterlevnad av Sales Connect och GDPR
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1387'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
-# Efterlevnad av Säljanslutning och GDPR {#sales-connect-and-gdpr-compliance}
+# Efterlevnad av Sales Connect och GDPR {#sales-connect-and-gdpr-compliance}
 
 Den allmänna dataskyddsförordningen (GDPR) är EU-lagstiftning som trädde i kraft den 25 maj 2018.
 
@@ -38,19 +37,19 @@ Den allmänna dataskyddsförordningen gäller alla organisationer inom eller uta
 
 Marknadsförarna vill skapa kundupplevelser som känns personliga och mänskliga, bygger på förtroende och levereras med omsorg. Även om den allmänna dataskyddsförordningen inte använder dessa villkor är målen desamma - att respektera kundernas rättigheter och att bygga upp deras förtroende. För att bygga upp och upprätthålla detta förtroende måste marknadsförarna ägna sig åt hur, när och varför deras kunder vill bli engagerade. Det är viktigt att kundens preferenser respekteras, inte bara som ett juridiskt krav, utan som grund för kundfokuserade engagemangsrutiner.
 
-Hur marknadsförarna tillgodoser dessa högre förväntningar när det gäller insamling, användning och säkerhet av personuppgifter som används regelbundet i arbetet är avgörande, och Marketo kan hjälpa till att uppfylla dessa förväntningar.
+Hur marknadsförarna tillgodoser dessa högre förväntningar när det gäller insamling, användning och säkerhet av personuppgifter som används regelbundet i arbetet är avgörande, och Marketo kan bidra till att uppfylla dessa förväntningar.
 
 Det finns två viktiga aspekter av den allmänna dataskyddsförordningen där marknadsförarna måste granska tidigare, nuvarande och framtida praxis. Det första är samtycke från individen att behandla deras personuppgifter, och det andra är ansvar, nämligen att kunna visa hur principerna i den allmänna dataskyddsförordningen följs.
 
-Vi tillhandahåller omfattande information om samtycke och ansvar inom Marketo-plattformen i vår e-bok, [GDPR och The Marketer](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). I den här artikeln kommer vi dock att särskilt fokusera på de nya funktionerna i Marketo Sales Connect som kommer att hjälpa din organisation att följa GDPR-reglerna.
+Vi tillhandahåller omfattande information om samtycke och ansvar inom Marketo-plattformen i vår e-bok, [GDPR och marknadsföraren](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). I den här artikeln kommer vi dock att särskilt fokusera på de nya funktionerna i Marketo Sales Connect som kommer att hjälpa din organisation att följa GDPR-reglerna.
 
 ## GDPR-kompatibilitet inom Marketo Sales Connect {#gdpr-compliance-in-marketo-sales-connect}
 
-Marketo Sales Connect är en kraftfull applikation - som ingår i Marketo Engagement Platform - som ger ett enda arbetsflöde och en vy där försäljning och marknadsföring tillsammans kan driva säljflödet snabbare genom samarbete. Ny funktionalitet i Marketo Sales Connect har skapats specifikt med GDPR i åtanke. Vi kommer att ge en översikt över alla tre funktionerna och förklara hur de, när de används på rätt sätt, kommer att hjälpa er organisations arbete med GDPR-efterlevnad.
+Marketo Sales Connect är en kraftfull applikation - som ingår i Marketo Engagement Platform - som ger ett enda arbetsflöde och en samlad bild av försäljning och marknadsföring som tillsammans driver utvecklingen snabbare genom samarbete. Nya funktioner i Marketo Sales Connect har skapats specifikt med GDPR-kompatibilitet i åtanke. Vi kommer att ge en översikt över alla tre funktionerna och förklara hur de, när de används på rätt sätt, kommer att hjälpa er organisations arbete med GDPR-efterlevnad.
 
 ## Kompatibilitetskort {#compliance-card}
 
-Marketo Sales Connect inkluderar ett efterlevnadskort i personinformationsvyn för att tillhandahålla viktig information om en kontakts auktoriseringstyp samt källtyp. På så sätt kan användarna enkelt lägga till och spåra information som är viktig för datasekretessen och hjälpa dem att fatta mer välgrundade beslut om kampanj-/utåtstrategin.
+Marketo Sales Connect innehåller ett efterlevnadskort i personinformationsvyn för att tillhandahålla viktig information om en kontakts auktoriseringstyp samt källtyp. På så sätt kan användarna enkelt lägga till och spåra information som är viktig för datasekretessen och hjälpa dem att fatta mer välgrundade beslut om kampanj-/utåtstrategin.
 
 ![](assets/1.png)
 
@@ -66,7 +65,7 @@ Det finns många alternativ att välja bland:
 * Efterlevnad av lagstadgade skyldigheter
 * Skydd av viktiga intressen
 * Offentligt intresse/offentlig myndighet
-* Övriga
+* Övrigt
 
 Typ av kontaktkälla
 
@@ -78,7 +77,7 @@ I det nya efterlevnadskortet kan användarna spåra kontaktens källa. Källtype
 * Importera
 * Manuell överföring
 * Kromtillägg
-* Övriga
+* Övrigt
 
 Redigera efterlevnadskortet
 
@@ -98,7 +97,7 @@ Om du väljer &quot;Annat&quot; för antingen Auktoriseringstyp eller Källtyp k
 
 ![](assets/7.png)
 
-Med gruppåtgärder** Marketo Sales Connect kan du även uppdatera en kontakts auktoriserings- och källtyper i grupp, vilket sparar värdefull tid i efterlevnadsprocessen.
+Massåtgärder** Marketo Sales Connect gör det även möjligt att uppdatera en kontakts behörighet och källtyper i grupp, vilket sparar värdefull tid i efterlevnadsprocessen.
 
 När du väljer en eller flera kontakter på sidan Personer visas knapparna för auktorisering och Källa i den övre behållaren. Med de här knapparna kan du ange auktorisering eller källa för flera kontakter samtidigt.
 
@@ -120,7 +119,7 @@ När du har valt rätt källtyp för de valda kontakterna visas ett bekräftelse
 
 ![](assets/12.png)
 
-## Exporterar kontaktdata från Marketo Sales Connect {#exporting-contact-data-from-marketo-sales-connect}
+## Exportera kontaktdata från Marketo Sales Connect {#exporting-contact-data-from-marketo-sales-connect}
 
 Du kan exportera kontaktinformation från persondetaljvyn. Vid export hämtas en CSV-fil med följande kolumner:
 
@@ -138,7 +137,7 @@ Du kan exportera kontaktinformation från persondetaljvyn. Vid export hämtas en
   </tr> 
   <tr> 
    <td>Efternamn</td> 
-   <td>Övriga</td> 
+   <td>Övrigt</td> 
    <td>Twitter</td> 
   </tr> 
   <tr> 
@@ -168,7 +167,7 @@ Du kan exportera kontaktinformation från persondetaljvyn. Vid export hämtas en
 >
 >Detta kan bara göras en kontakt i taget. Det finns för närvarande ingen funktion som tillåter bulkexport av kontakter.
 
-Om du vill exportera kontaktinformation klickar du på de tre lodräta prickarna i huvudet i persondetaljvyn och väljer **Exportera**. .CSV-filen hämtas automatiskt.
+Om du vill exportera kontaktinformation klickar du på de tre lodräta prickarna i sidhuvudet i persondetaljvyn och väljer **Exportera**. .CSV-filen hämtas automatiskt.
 
 ![](assets/thirteen.png)
 
@@ -180,13 +179,13 @@ Om du vill exportera kontaktinformation klickar du på de tre lodräta prickarna
 
 Ett vanligt missförstått område i GDPR är kontakter som avslutar prenumerationen på organisationens databas. För att följa nya regler om skydd av data för dem som väljer att säga upp prenumerationen har följande funktioner inkluderats i Marketo Sales Connect:
 
-**Avbeställ länkar:** Avbeställ länkar läggs automatiskt till i alla e-postmeddelanden som skickas från webbprogrammet Sales Connect för att säkerställa att kontakterna kan avanmäla sig.\
-**Avbeställ synkronisering:** Användare kan synkronisera avbeställningar till och från sin CRM (Salesforce) för att säkerställa att avbeställningarna är aktuella.\
-**Avbryta prenumerationshistorik:** Användare kan se historiska avanmälningar och avanmälningar i persondetaljvyn.\
-**Avbeställ borttagning av prenumeration:Om du** väljer att avbryta prenumerationen måste användaren ha administratörsbehörighet och bekräfta att kontakten har gett nytt samtycke för att kontakta dem.
+**Avbeställ länkar:** Länkar för att avbryta prenumerationen läggs automatiskt till i alla e-postmeddelanden som skickas från webbprogrammet Sales Connect för att säkerställa att kontakterna kan avanmäla sig.\
+**Avbeställ synkronisering:** Användare kan synkronisera avanmälan till och från sina CRM (Salesforce) för att säkerställa att avanmälningarna är aktuella.\
+**Avbeställningshistorik:** Användare kan se tidigare avanmälan och avanmälan i persondetaljvyn.\
+**Avbeställ borttagning:** Om du väljer att avbryta prenumerationen i måste användaren ha administratörsbehörighet och visa att kontakten har gett nytt medgivande för att kunna kontakta dem.
 
 ## Framtida uppdateringar {#future-updates}
 
-Marketo är en entusiastisk förespråkare för den engagerande ekonomins styrka och kundfokus och förstår vikten av att den registrerade tar hand om integritetsskydd och dataskydd. Precis som med andra dataskyddslagar kräver GDPR-efterlevnad engagemang från både Marketo och våra kunder. Den här artikeln är avsedd att hjälpa er att använda Marketo på ett lämpligt sätt för att stödja er organisations GDPR-efterlevnad.
+Som en entusiastisk förespråkare för engagemangsekonomins styrka och kundfokus förstår Marketo vikten av att den registrerade får ta hand om integritetsskydd och dataskydd. Precis som med andra dataskyddslagar kräver GDPR-efterlevnad engagemang från både Marketo och våra kunder. Den här artikeln är avsedd att hjälpa er att använda Marketo på ett lämpligt sätt för att stödja er organisations GDPR-efterlevnad.
 
-Vi kommer att fortsätta att noggrant följa GDPR-riktlinjer som utfärdats av tillsynsmyndigheter och tillhörande lagstiftning. Uppdateringar kommer att publiceras på vårt Trust Center på [trust.marketo.com](https://trust.marketo.com).
+Vi kommer att fortsätta att noggrant följa GDPR-riktlinjer som utfärdats av tillsynsmyndigheter och tillhörande lagstiftning. Uppdateringar kommer att läggas upp på vårt Trust Center på [trust.marketo.com](https://trust.marketo.com).

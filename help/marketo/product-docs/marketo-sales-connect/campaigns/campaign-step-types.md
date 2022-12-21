@@ -1,17 +1,16 @@
 ---
 unique-page-id: 14746690
-description: Kampanjstegstyper - Marketo Docs - Produktdokumentation
+description: Stegtyper för kampanjer - Marketo Docs - produktdokumentation
 title: Typer av kampanjsteg
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: fb6aff01-c38b-4b26-81bb-c6b1d79db992
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
-
-# Typ av kampanjsteg {#campaign-step-types}
+# Typer av kampanjsteg {#campaign-step-types}
 
 När du lägger till ett steg till kampanjen har du fyra alternativ.
 
@@ -31,9 +30,9 @@ Skapa ett nytt e-postmeddelande eller använd en befintlig mall.
 
 >[!TIP]
 >
->Lär dig mer om dina [sändningsalternativ](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
+>Läs mer om [sändningsalternativ](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
 
-## Ring {#call}
+## Utlysning {#call}
 
 Ställ in en påminnelse om att följa upp med en kontakt via telefon. Du kan också spara anteckningar som ska användas som ett röstspår under samtalet.
 

@@ -3,7 +3,6 @@ unique-page-id: 1147089
 description: Understanding Programs - Marketo Docs - Product Documentation
 title: Förstå program
 exl-id: 3ba18df8-9b31-4a69-bb52-f50d3896bb47
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '149'
@@ -11,23 +10,23 @@ ht-degree: 0%
 
 ---
 
-# Program {#understanding-programs}
+# Förstå program {#understanding-programs}
 
-Program är ett enda marknadsföringsinitiativ. Du kan tänka dig det som en behållare med allt som du behöver för att få programmet att fungera. Dessa kallas lokala resurser och inkluderar **landningssidor**, **e-post**, **smarta kampanjer** och mycket annat. Programmen gör mycket, men det är enkelt att komma igång.
+Program är ett enda marknadsföringsinitiativ. Du kan tänka dig det som en behållare med allt som du behöver för att få programmet att fungera - dessa kallas lokala resurser och inkluderar **landningssidor**, **e-post**, **smarta kampanjer**, med mera. Programmen gör mycket, men det är enkelt att komma igång.
 
 Det finns fyra typer av program:
 
 **Händelseprogram**
 
-**[](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)** Händelsen har ett specifikt datum och klockslag. De hjälper er att samordna, underlätta och spåra live- och onlineevent.
+**[Händelser](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)** har en viss tid och ett visst datum. De hjälper er att samordna, underlätta och spåra live- och onlineevent.
 
 **Engagement Programs**
 
-**[Drip](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)** Nurturingis används för att vårda människor vid ett fast periodiskt schema.
+**[Drivrutiner](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)** används för att vårda människor enligt ett fast periodiskt schema.
 
 **E-postprogram**
 
-**[Det klassiska e-postblocket](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)**. Den har coola inbyggda funktioner som A/B-testning och **[Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)** för Email Head.
+The **[klassisk e-postutsändning](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)**. Den har coola inbyggda funktioner som A/B-testning och **[Start för e-posthuvud](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)**.
 
 **Standardprogram**
 

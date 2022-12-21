@@ -4,7 +4,7 @@ title: Växla av/på
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 source-git-commit: 3f3846fbb3b7e279e8eb2350f5d493fbb1da6304
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---

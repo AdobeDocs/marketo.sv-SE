@@ -1,15 +1,14 @@
 ---
 unique-page-id: 4719336
-description: Användarinställningar - Marketo Docs - Produktdokumentation
+description: Användarinställningar - Marketo Docs - produktdokumentation
 title: Användarinställningar
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 2d7d66fd-6240-4275-a14b-083b30802727
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
 
 ---
-
 
 # Användarinställningar {#user-settings}
 
@@ -31,11 +30,11 @@ ht-degree: 0%
    * Lägg till personlig information (för- och efternamn, mobilnummer och tidszon)
    * Välj det antal rader som du vill exportera när du exporterar tabeller på plattformen. Se fält: &quot;Max antal rader i Excel-export (max 10 000)&quot;
    * Välj mobilaviseringar för en ny person eller bevakningslista för mobilprogrammet
-   * Justera inställningar för personlig region genom att klicka på **Redigera områden**.
+   * Justera inställningar för personlig region genom att klicka **Redigera områden**.
    * Ändra ditt lösenord
    * Välj e-postrapportens meddelandeinställningar för e-postrapporter om organisationer, personer, kampanjer och tillgångsprestanda
 
-   Klicka på **Spara** när du har gjort några ändringar.
+   Klicka **Spara** efter att ha gjort ändringar.
 
    >[!NOTE]
    >
@@ -43,13 +42,13 @@ ht-degree: 0%
 
 ## Välj e-postrapporter {#select-email-reports}
 
-Välj vilken [e-postrapport](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) som ska kopplas till användaren och hur ofta (varje dag, varje vecka eller varje kvartal) rapporten ska skickas.
+Välj vilken [e-postrapport](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) som ska kopplas till användaren, och hur ofta (varje dag, varje vecka eller varje kvartal) rapporten ska skickas.
 
 ![](assets/three.png)
 
 >[!NOTE]
 >
->Om du klickar på **Spara** avslutas inte användarinställningarna. Om du vill avsluta klickar du på Marketo-logotypen i det övre vänstra hörnet och väljer mål.
+>Klicka **Spara** kommer inte att avsluta användarinställningarna. Om du vill avsluta klickar du på Marketo logotyp uppe till vänster och väljer mål.
 
 >[!MORELIKETHIS]
 >

@@ -1,15 +1,14 @@
 ---
 unique-page-id: 14352472
-description: Redigera Salesforce-fälttillgänglighet - Marketo-dokument - Produktdokumentation
+description: Redigera Salesforce-fälttillgänglighet - Marketo Docs - produktdokumentation
 title: Redigera Salesforce-fälttillgänglighet
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: e4ef29c8-f6ab-4dca-b56e-907c7d2e5263
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
 
 ---
-
 
 # Redigera Salesforce-fälttillgänglighet {#edit-salesforce-field-accesibility}
 

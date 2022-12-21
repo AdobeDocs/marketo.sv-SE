@@ -3,7 +3,6 @@ unique-page-id: 2953358
 description: Ta bort poster direkt i marknadsföringskalendern - Marketo Docs - produktdokumentation
 title: Radera transaktioner direkt i marknadsföringskalendern
 exl-id: c0e2dbc5-f9b1-4743-b07d-c31fecea9977
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
@@ -11,11 +10,11 @@ ht-degree: 0%
 
 ---
 
-# Ta bort poster direkt i marknadsföringskalendern {#delete-entries-directly-in-the-marketing-calendar}
+# Radera transaktioner direkt i marknadsföringskalendern {#delete-entries-directly-in-the-marketing-calendar}
 
-Förutom [att skapa](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)- och [redigera](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)-poster kan du ta bort dem direkt i marknadsföringskalendern. Så här gör du.
+Förutom [skapa](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md) och [redigera](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md) kan du ta bort dem direkt i marknadsföringskalendern. Så här gör du.
 
-1. Gå till **kalendern**.
+1. Gå till **Kalender**.
 
    ![](assets/2017-05-10-15-30-47-4.png)
 

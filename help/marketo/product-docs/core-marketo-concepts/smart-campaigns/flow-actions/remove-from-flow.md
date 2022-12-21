@@ -3,7 +3,6 @@ unique-page-id: 1147084
 description: Ta bort från flöde - Marketo Docs - produktdokumentation
 title: Ta bort från flöde
 exl-id: 98b3664a-dd40-4859-a74d-0a9e84113225
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '160'
@@ -21,19 +20,19 @@ Tänk dig att du har ett smart kampanjflöde som använder&quot;Skicka avisering
 
 ## Översikt {#overview}
 
-Du kan ta bort personer från en kampanjflödes genom att använda flödessteget **Ta bort från flöde**.
+Du kan ta bort personer från kampanjflödet med hjälp av **Ta bort från flöde** flödessteg.
 
 ![](assets/image2014-9-22-17-3a10-3a21.png)
 
 ## Användning {#usage}
 
-Hitta och välj den smarta kampanj som du vill ta bort personer från.
+Hitta och välj den smarta kampanj du vill ta bort personer från.
 
 ![](assets/image2014-9-22-17-3a10-3a28.png)
 
 >[!NOTE]
 >
->Du kan välja en specifik smart kampanj eller välja &quot;den här kampanjen&quot; i listrutan **Campaign** för att välja den kampanj som du befinner dig i just nu.
+>Du kan välja en specifik smart kampanj eller välja&quot;den här kampanjen&quot; i **Campaign** i den nedrullningsbara menyn för att välja den kampanj som du befinner dig i just nu.
 
 >[!NOTE]
 >

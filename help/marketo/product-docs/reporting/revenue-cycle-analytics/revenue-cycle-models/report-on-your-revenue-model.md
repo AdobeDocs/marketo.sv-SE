@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2360429
-description: Rapport om din intäktsmodell - Marketo Docs - Produktdokumentation
+description: Rapport om din intäktsmodell - Marketo Docs - produktdokumentation
 title: Rapport om din intäktsmodell
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+exl-id: a9abbfcb-b4ee-402c-9092-c2e0d388f7a4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # Rapport om din intäktsmodell {#report-on-your-revenue-model}
 
@@ -19,19 +18,19 @@ För varje intäktscykelmodell kan du generera en rapport om hur många leads so
 >
 >Leads måste vara medlemmar i modellen som ska inkluderas i rapporten.
 
-1. Gå till **Analytics**.
+1. Gå till **Analyser**.
 
    ![](assets/image2015-4-29-16-3a8-3a14.png)
 
-1. Klicka på **Leads efter intäktsstadium**.
+1. Klicka **Leads efter intäktsstadium**.
 
    ![](assets/image2015-4-29-16-3a15-3a3.png)
 
-1. Klicka på fliken **Setup** och dubbelklicka sedan på **Revenue Cycle Model** under filteravsnittet.
+1. Klicka på **Inställningar** och dubbelklicka sedan under filteravsnittet **Intäktscykelmodell**.
 
    ![](assets/image2015-4-29-16-3a37-3a57.png)
 
-1. Välj den godkända **modellen**.
+1. Välj godkänt **Modell**.
 
    ![](assets/image2015-4-29-16-3a40-3a34.png)
 
@@ -39,7 +38,7 @@ För varje intäktscykelmodell kan du generera en rapport om hur många leads so
    >
    >För att vara tillgänglig från den här rullgardinsmenyn måste modellen vara godkänd eller åtminstone ha godkända stadier.
 
-1. Klicka på fliken **Rapport** för att se hur många leads som finns i varje fas i intäktscykelmodellen.
+1. Klicka på **Rapport** för att se hur många leads som finns i varje fas i intäktscykelmodellen.
 
    ![](assets/image2015-4-29-16-3a51-3a29.png)
 

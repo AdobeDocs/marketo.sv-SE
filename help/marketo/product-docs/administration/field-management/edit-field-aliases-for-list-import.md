@@ -3,7 +3,6 @@ unique-page-id: 2360346
 description: Redigera fältalias för listimport - Marketo Docs - produktdokumentation
 title: Redigera fältalias för listimport
 exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '128'
@@ -19,7 +18,7 @@ När du importerar en lista med okända rubriker kan du skapa fältalias som gö
 >
 >**Administratörsbehörigheter krävs**
 
-1. Under **Admin** klickar du på **Fälthantering**.
+1. Under **Administratör**, klicka **Fälthantering**.
 
    ![](assets/image2014-9-19-9-3a56-3a22.png)
 
@@ -27,7 +26,7 @@ När du importerar en lista med okända rubriker kan du skapa fältalias som gö
 
    ![](assets/fieldmanagement-findfield.png)
 
-1. Klicka på **Redigera importalias** i listrutan Fältåtgärder.
+1. Klicka på i listrutan Fältåtgärder **Redigera importalias**.
 
    ![](assets/fieldmanageemnt-editimport.png)
 
@@ -37,7 +36,7 @@ När du importerar en lista med okända rubriker kan du skapa fältalias som gö
 
 >[!TIP]
 >
->Klicka på **Lägg till ytterligare en** och ange fler alias om du behöver dem.
+>Klicka **Lägg till ytterligare** och ange fler alias om du behöver dem.
 
 Titta på det där! Om du importerar ett kalkylblad med en kolumn som heter &quot;DOB&quot;, kommer Marketo automatiskt att identifiera det som &quot;Födelsedatum&quot; och importera data till rätt fält.
 

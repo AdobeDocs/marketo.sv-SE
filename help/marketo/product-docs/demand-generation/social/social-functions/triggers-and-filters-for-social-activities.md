@@ -3,7 +3,6 @@ unique-page-id: 2359837
 description: Utlösare och filter för sociala aktiviteter - Marketo Docs - Produktdokumentation
 title: Utlösare och filter för sociala aktiviteter
 exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
-translation-type: tm+mt
 source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
 source-wordcount: '158'
@@ -19,11 +18,11 @@ Sociala appar i Marketo har sina egna speciella triggers och filter.
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
-1. Om du vill använda sociala _utlösare_ väljer du den smarta kampanjen och klickar på fliken **Smart lista**. Till höger klickar du på + för att expandera **Utlösare** och sedan **Socialt**.
+1. Använda sociala medier _utlösare_ väljer du en smart kampanj och klickar på **Smart List** -fliken. Klicka på + till höger för att expandera **Utlösare** sedan **Social**.
 
    ![](assets/image2015-4-23-11-22-39.png)
 
-1. Om du vill använda sociala _filter_ klickar du på **+** för att expandera **filtren**.
+1. Använda sociala medier _filter_ klickar du på **+** för att utöka **Filter**.
 
    ![](assets/two-282-29.png)
 

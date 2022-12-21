@@ -1,15 +1,14 @@
 ---
 unique-page-id: 4718687
-description: Godkänn/avgodkänn en intäktsmodell - Marketo Docs - Produktdokumentation
+description: Godkänn/avgodkänn en intäktsmodell - Marketo Docs - produktdokumentation
 title: Godkänn/avgodkänn en intäktsmodell
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 2b0818c7-8a4e-4f92-bb95-1f6f77be1a90
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
 
 ---
-
 
 # Godkänn/avgodkänn en intäktsmodell {#approve-unapprove-a-revenue-model}
 
@@ -17,11 +16,11 @@ Du får bara ha en godkänd modell åt gången.
 
 >[!CAUTION]
 >
->[Enskilda faser måste ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) godkännas och personer läggas till innan du godkänner en hel modell.
+>[Enskilda etapper måste godkännas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) och personer som lagts till innan du godkänner en hel modell.
 
 ## Godkänn {#approve}
 
-1. Gå till området **Analytics**.
+1. Gå till **Analyser** område.
 
    ![](assets/image2017-3-28-8-3a9-3a16.png)
 
@@ -29,11 +28,11 @@ Du får bara ha en godkänd modell åt gången.
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Välj **Godkänn modell** på menyn **Modellåtgärder**.
+1. Från **Modellåtgärder** meny, välja **Godkänn modell**.
 
    ![](assets/image2015-4-28-14-3a6-3a3.png)
 
-1. En dialogruta visas där du kan bekräfta ditt val. Klicka på **Godkänn**.
+1. En dialogruta visas där du kan bekräfta ditt val. Klicka **Godkänn**.
 
    ![](assets/image2015-4-28-14-3a6-3a49.png)
 
@@ -45,7 +44,7 @@ Din modell är nu levande!
 >
 >Om du inte godkänner din modell tas alla dina personer bort från modellen och deras historik i modellen tas bort!
 
-1. Gå till området **Analytics**.
+1. Gå till **Analyser** område.
 
    ![](assets/image2017-3-28-8-3a9-3a30.png)
 
@@ -53,11 +52,11 @@ Din modell är nu levande!
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Klicka på menyn **Modellåtgärder** och välj **Ogodkänd modell**.
+1. Klicka på **Modellåtgärder** meny och välj **Ogodkänd modell**.
 
    ![](assets/image2015-4-28-13-3a28-3a0.png)
 
-1. I den dialogruta som visas klickar du på **Ogodkänd modell**.
+1. Klicka på **Ogodkänd modell**.
 
    ![](assets/image2017-3-28-8-3a21-3a9.png)
 

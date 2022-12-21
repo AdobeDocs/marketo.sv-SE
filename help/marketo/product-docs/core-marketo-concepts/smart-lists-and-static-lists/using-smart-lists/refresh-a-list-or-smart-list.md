@@ -3,7 +3,6 @@ unique-page-id: 557318
 description: Uppdatera en lista eller smart lista - Marketo Docs - produktdokumentation
 title: Uppdatera en lista eller smart lista
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
@@ -17,7 +16,7 @@ Om du har kört en smart lista och några minuter har gått kan resultatet bli a
 
 ## Uppdatera resultat {#refresh-results}
 
-1. Om du vill uppdatera data på fliken **Personer** i en smart lista klickar du på ikonen Uppdatera.
+1. Så här uppdaterar du data i **Folk** Klicka på uppdateringsikonen i en smart lista.
 
    ![](assets/refreshbutton.png)
 

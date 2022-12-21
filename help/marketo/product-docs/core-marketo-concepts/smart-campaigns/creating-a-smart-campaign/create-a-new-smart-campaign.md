@@ -3,7 +3,6 @@ unique-page-id: 1146931
 description: Skapa en ny smart kampanj - Marketo Docs - produktdokumentation
 title: Skapa en ny smart kampanj
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '131'
@@ -23,7 +22,7 @@ Smarta kampanjer är det viktigaste verktyget i Marketo. De kan aktiveras av en 
 
    ![](assets/login-marketing-activities.png)
 
-1. Välj ett **program** och klicka sedan på **Ny lokal resurs** under **Nytt**.
+1. Välj en **Program** och sedan under **Nytt** klicka på **Ny lokal resurs**.
 
    ![](assets/program-localassethands.png)
 

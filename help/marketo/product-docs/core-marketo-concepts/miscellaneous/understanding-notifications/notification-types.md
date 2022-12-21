@@ -3,7 +3,6 @@ unique-page-id: 2953243
 description: Meddelandetyper - Marketo Docs - produktdokumentation
 title: Meddelandetyper
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '246'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Det finns flera meddelandetyper.
 
-## Kampanjfel {#campaign-failure}
+## Kampanjfel  {#campaign-failure}
 
 Kampanjfel meddelar dig om fel i smarta kampanjer.
 
@@ -47,7 +46,7 @@ Om du försöker skicka leads till Facebook utan att godkänna användarvillkore
 
 Rensa inaktiv utlösarkampanj
 
-Inaktivera utlösta smarta kampanjer som inte längre får någon aktivitet. Läs mer om [automatisk rensning av utlösningskampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
+Inaktivera utlösta smarta kampanjer som inte längre får någon aktivitet. Läs mer om  [automatisk rensning av utlösarkampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
 LinkedIn
 
@@ -61,4 +60,4 @@ Du meddelas när du når din dagliga kvot. Kvotmängden återställs varje natt 
 
 >[!NOTE]
 >
->En del felkoder som du kan få beskrivs i vår [Developer Documentation](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).
+>En del felkoder som du kan få beskrivs i våra [Dokumentation för utvecklare](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).

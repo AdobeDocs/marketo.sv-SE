@@ -3,7 +3,6 @@ unique-page-id: 1147015
 description: Change Engagement Program Stream - Marketo Docs - produktdokumentation
 title: Change Engagement Program Stream
 exl-id: 1b8dd04b-3af8-4733-b630-b06c4b06bb75
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '95'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 ## Översikt {#overview}
 
-Normalt använder du [regler för direktövergång](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) för att uppnå detta, men om du vill flytta personer från en ström till en annan manuellt är det här flödessteget som ska användas.
+Normalt använder du [regler för direktövergång](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) för att uppnå detta, men om du vill flytta personer manuellt från en ström till en annan, är detta det flödessteg som ska användas.
 
 ![](assets/image2014-9-22-14-3a52-3a14.png)
 

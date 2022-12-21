@@ -2,20 +2,19 @@
 unique-page-id: 14352493
 description: Är Sales Connect kompatibelt med Salesforce Lightning? - Marketo Docs - produktdokumentation
 title: Är Sales Connect kompatibelt med Salesforce Lightning?
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: e1543b92-8175-41d2-b56a-ec60253a87d8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
-
 # Är Sales Connect kompatibelt med Salesforce Lightning? {#is-sales-connect-compatible-with-salesforce-lightning}
 
 Ja, Sales Connect är kompatibelt med Salesforce Lightning.
 
-[Klicka här](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf) för installations- och programguiden.
+Please [klicka här](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf) för Installations- och Success Guide.
 
 >[!NOTE]
 >

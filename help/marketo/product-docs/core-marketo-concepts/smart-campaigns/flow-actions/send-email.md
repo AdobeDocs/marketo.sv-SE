@@ -3,7 +3,6 @@ unique-page-id: 1146948
 description: Skicka e-post - Marketo Docs - produktdokumentation
 title: Skicka e-post
 exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 ## Översikt {#overview}
 
-Flödessteget **Skicka e-post** kan användas som en del av kampanjer eller som ett enda flödessteg för att skicka e-post till dina medarbetare.
+The **Skicka e-post** Flödessteget kan användas som en del av kampanjer eller som ett enda flödessteg för att skicka e-post till medarbetarna.
 
 ![](assets/image2014-9-22-10-3a8-3a11.png)
 

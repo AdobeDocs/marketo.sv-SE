@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359604
-description: Ändra storlek på etikett-/fältbredd i ett formulär - Marketo Docs - Produktdokumentation
+description: Ändra storlek på etikett/fältbredd i ett formulär - Marketo Docs - produktdokumentation
 title: Ändra storlek på etikett/fältbredd i ett formulär
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: cef10279-881e-44f3-a979-873fa24d7f4b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
 
 ---
-
 
 # Ändra storlek på etikett/fältbredd i ett formulär {#resize-label-field-width-in-a-form}
 
@@ -17,7 +16,7 @@ Det finns två sätt att ändra storlek på både fältetikettens bredd och sjä
 
 ## Dra och släpp bredden {#drag-and-drop-the-width}
 
-1. Markera det fält som du vill ändra storlek på i [formulärredigeraren](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md).
+1. I [formulärredigerare](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)markerar du det fält som du vill ändra storlek på.
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 

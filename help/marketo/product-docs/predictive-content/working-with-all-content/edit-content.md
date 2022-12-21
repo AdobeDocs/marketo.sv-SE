@@ -1,21 +1,20 @@
 ---
 unique-page-id: 11384653
-description: Redigera innehåll - Marketo Docs - Produktdokumentation
+description: Redigera innehåll - Marketo Docs - produktdokumentation
 title: Redigera innehåll
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 138b620e-4435-4a81-b4c8-132c2d6e25f5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
-
 # Redigera innehåll {#edit-content}
 
 Du kan göra vissa ändringar i listor på sidan Allt innehåll.
 
-1. På sidan **Allt innehåll** för du pekaren över raden för titeln som du vill redigera och klickar på redigeringsikonen.
+1. På **Allt innehåll** för du pekaren över raden i titeln som du vill redigera och klickar på redigeringsikonen.
 
    ![](assets/image2017-10-3-9-3a8-3a1.png)
 
@@ -23,10 +22,10 @@ Du kan göra vissa ändringar i listor på sidan Allt innehåll.
 
    ![](assets/edit-content-2.png)
 
-1. Klicka på fältet **Kategorier** för att lägga till/ta bort kategorier. Välj nya i listrutan. Du kan ta bort en markerad kategori genom att klicka på dess **X**.
+1. Klicka på **Kategorier** fält för att lägga till/ta bort kategorier. Välj nya i listrutan. Du kan ta bort en markerad kategori genom att klicka på dess **X**.
 
    ![](assets/edit-content-3.png)
 
-1. Markera rutan **Godkänn för prediktivt innehåll** om du vill godkänna eller avmarkera rutan om du vill avgodkänna. Klicka på **Spara** när du är klar.
+1. Kontrollera **Godkänn för prediktivt innehåll** om du vill godkänna eller avmarkera den ruta som du vill avgodkänna. Klicka **Spara** när det är klart.
 
    ![](assets/edit-content-4.png)

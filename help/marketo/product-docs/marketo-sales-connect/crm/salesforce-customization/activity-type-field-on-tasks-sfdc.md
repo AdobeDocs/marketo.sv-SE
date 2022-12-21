@@ -1,17 +1,16 @@
 ---
 unique-page-id: 14352476
-description: SFDC (Activity Type Field on Task) - Marketo Docs - Produktdokumentation
+description: SFDC (Activity Type Field on Task) - Marketo Docs - produktdokumentation
 title: SFDC (Activity Type Field on Task)
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: b291e641-d3af-4667-a01c-cd491cd87add
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
 
 ---
 
-
-# SFDC (Activity Type Field on Tasks) {#activity-type-field-on-tasks-sfdc}
+# SFDC (Activity Type Field on Task) {#activity-type-field-on-tasks-sfdc}
 
 Med hjälp av Sales Connect kan du logga dina e-postmeddelanden och samtal som en aktivitet i Salesforce. En viktig del av att ha värdefulla data i Salesforce är att låta typfältet fylla i rätt värde.
 
@@ -26,7 +25,7 @@ Med hjälp av Sales Connect kan du logga dina e-postmeddelanden och samtal som e
 * Samtal, svar och e-post måste alla finnas i listrutan Aktivitetstyp (skiftlägesfrågor)
 * Inga arbetsflöden eller utlösare som utför åtgärder på värdet i typfältet
 
-## Konfigurera {#setup}
+## Inställningar {#setup}
 
 Kontrollera först att du har rätt plocklistevärden på plats. Du behöver hjälp av din Salesforce-administratör för att göra ändringar i din lista.
 
@@ -38,7 +37,7 @@ Kontrollera först att du har rätt plocklistevärden på plats. Du behöver hj�
 1. Du finns nu i listan över uppgiftstyper. Kontrollera att du inte har valt &#39;Standard&#39;.
 1. Kontrollera att det finns ett typvärde för E-post, Ring och Svara.
 
-Nu när detta är på plats börjar du se textfältet fylla i motsvarande värde för loggade e-postmeddelanden, samtal och svar. Dessa värden **fylls inte** i på påminnelseaktiviteter för Sales Connect.
+Nu när detta är på plats börjar du se textfältet fylla i motsvarande värde för loggade e-postmeddelanden, samtal och svar. Dessa värden **not** fylls i på påminnelseuppgifter för Sales Connect.
 
 >[!NOTE]
 >

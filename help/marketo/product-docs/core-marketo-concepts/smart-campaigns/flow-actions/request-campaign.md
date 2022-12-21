@@ -3,7 +3,6 @@ unique-page-id: 2951703
 description: Begär kampanj - Marketo Docs - produktdokumentation
 title: Begär kampanj
 exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '117'
@@ -13,25 +12,25 @@ ht-degree: 0%
 
 # Begär kampanj {#request-campaign}
 
-Du kan placera personer i en viss kampanj genom att använda det enkla flödessteget **Begär kampanj**.
+Du kan placera personer i en viss kampanj med hjälp av **Begär kampanj** enda flödessteg.
 
 >[!NOTE]
 >
->Kampanjen som du placerar personen i måste vara aktiv och ha utlösaren **[Kampanjen är begärd](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)**.
+>Kampanjen du placerar personen i måste vara aktiv och ha **[Kampanjen har begärts](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)** utlösare.
 
-1. I **Databas** söker du efter och väljer önskad person/personer.
+1. I **Databas**, sök efter och markera önskad person/personer.
 
    ![](assets/one-5.png)
 
-1. Klicka på **Personåtgärder**, hovra över **Special** och välj **Begär kampanj**.
+1. Klicka **Personåtgärder**, hovra över **Special** och markera **Begär kampanj**.
 
    ![](assets/two-5.png)
 
-1. Markera kampanjen som du vill att personen ska placeras i och klicka på **Kör nu**.
+1. Välj kampanjen som du vill att personen ska placeras i och klicka på **Kör nu**.
 
    ![](assets/three-4.png)
 
-1. I skärmens övre högra hörn ser du när det är klart. Klicka på **Visa resultat**.
+1. I skärmens övre högra hörn ser du när det är klart. Klicka **Visa resultat**.
 
    ![](assets/four-4.png)
 
@@ -43,4 +42,4 @@ Du kan placera personer i en viss kampanj genom att använda det enkla flödesst
 
 >[!TIP]
 >
->Använd utlösaren eller filtret **Kampanjen är begärd** för att hitta personer som påverkas av det här flödessteget.
+>Använd **Kampanjen har begärts** utlösare eller filter för att hitta personer som påverkas av det här flödessteget.

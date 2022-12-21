@@ -1,23 +1,22 @@
 ---
 unique-page-id: 7512454
-description: Konfigurera Mobile Push Notification - Marketo Docs - produktdokumentation
+description: Konfigurera push-meddelanden för mobiler - Marketo Docs - produktdokumentation
 title: Konfigurera push-meddelanden för mobilen
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 0%
 
 ---
 
-
 # Konfigurera push-meddelanden för mobilen {#configure-mobile-push-notification}
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter** område.
 
 ![](assets/2fbf1ab6-2247-40c8-980d-be56b9d94890.png)
 
-1. Markera din push-resurs och klicka på **Redigera utkast**.
+1. Välj din push-resurs och klicka på **Redigera utkast**.
 
    ![](assets/image2016-8-23-16-3a49-3a48.png)
 
@@ -25,7 +24,7 @@ ht-degree: 0%
 
    ![](assets/image2016-8-23-16-3a51-3a56.png)
 
-1. Välj önskat program. Android- och Apple-plattformarna är aktiverade som standard.
+1. Välj önskat program. Android- och Apple-plattformar är aktiverade som standard.
 
    ![](assets/image2016-8-23-16-3a53-3a33.png)
 
@@ -33,11 +32,11 @@ ht-degree: 0%
 
    ![](assets/image2016-8-23-16-3a41-3a48.png)
 
-1. Klicka på **Nästa**.
+1. Klicka **Nästa**.
 
    ![](assets/image2016-8-23-16-3a43-3a28.png)
 
-1. Ange meddelandetext eller välj token-ikonen om du vill lägga till variabler. Välj sedan ett **tryck på Åtgärd**.
+1. Ange meddelandetext eller välj token-ikonen om du vill lägga till variabler. Välj sedan en **Tryck på åtgärd**.
 
    ![](assets/image2015-9-14-16-3a7-3a43.png)
 
@@ -49,13 +48,13 @@ ht-degree: 0%
    >
    >Det finns tre typer av Tap-åtgärder:
    >
-   >**Starta app**  -  **Det här** programmet öppnar appens startsida när användaren trycker på meddelandet. **Kunderna** använder en djup länk för att öppna andra delar av appen eller andra appar som du har länken till (mer information finns i  [Deep Link ](#Deeplink) URI nedan).
+   >**Starta program** - **Den här appen** öppnar appens startsida när användaren knackar på meddelandet. **Egen** använder en djup länk för att öppna andra områden i din app eller andra program som du har länken till (se [Deep Link URIs](#Deeplink) nedan för mer information).
    >
-   >**Landningssida**  - tar dig till en viss Marketo-landningssida.
+   >**Landningssida** - tar dig till en angiven Marketo landningssida.
    >
-   >**Extern URL**  - tar dig till en landningssida som inte är Marketo.
+   >**Extern URL** - tar dig till en landningssida som inte är Marketo.
 
-1. Om du vill infoga en djuplänk för en anpassad knackningsåtgärd klickar du på Anpassad och anger URI:n för djuplänk](#Deeplink) i fältet.[
+1. Om du vill infoga en djup länk för en anpassad tryckåtgärd klickar du på Anpassad och anger [djuplänk-URI](#Deeplink) i fältet.
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
@@ -71,7 +70,7 @@ ht-degree: 0%
    >
    >Meddelanden och Tryck på Åtgärder ser likadana ut på båda plattformarna.
 
-1. För iOS markerar du kryssrutan för att ange att programmet ska spela upp ett ljud när meddelandet kommer. Android spelar upp ljudet automatiskt.
+1. Endast för iOS markerar du kryssrutan för att ange att programmet ska spela upp ett ljud när meddelandet kommer. Android spelar upp ljudet automatiskt.
 
    ![](assets/ios-tap-and-notification-hand.png)
 
@@ -79,13 +78,13 @@ ht-degree: 0%
 
    ![](assets/image2015-9-14-16-3a12-3a34.png)
 
-1. Klicka på **Godkänn och stäng**.
+1. Klicka **Godkänn och stäng**.
 
    ![](assets/323dda12-0543-4558-8562-563eed5fa0e0.png)
 
 Grattis! Nu är push-meddelandet klart att skickas.
 
-## Deep Link URI:er {#deep-link-uris}
+## Deep Link URIs {#deep-link-uris}
 
 När prenumeranter klickar på en knapp i ett push-meddelande kan de antingen gå till appens hemsida eller direkt till en viss sida i appen. En djup länk är en unik referens till en viss sida i appen och ser ut ungefär som en webbplatslänk.
 
@@ -93,7 +92,7 @@ En djuplänk-URI består av tre delar: schemanamn, sökväg och identifierare. I
 
 ![](assets/image2016-7-29-12-3a49-3a1.png)
 
-Programmets djuplänksstruktur kan dock skilja sig från ovanstående exempel. Din utvecklare har många alternativ för att definiera URI:er för djuplänk, så be utvecklaren att skicka URI:er (länkar) till de sidor som du är intresserad av att använda. Detta garanterar att de URI:er som du anger i push-meddelanden pekar på rätt platser. Din utvecklare kan [hitta mer information här](https://developers.marketo.com/mobile/enabling-deep-links-in-your-app/).
+Programmets djuplänksstruktur kan dock skilja sig från ovanstående exempel. Din utvecklare har många alternativ för att definiera URI:er för djuplänk, så be utvecklaren att skicka URI:er (länkar) till de sidor som du är intresserad av att använda. Detta garanterar att de URI:er som du anger i push-meddelanden pekar på rätt platser. Utvecklaren kan [här finns mer information](https://developers.marketo.com/mobile/enabling-deep-links-in-your-app/).
 
 >[!MORELIKETHIS]
 >

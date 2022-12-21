@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2360240
-description: Konfigurera en säljprojektsanalys - Marketo Docs - Produktdokumentation
+description: Konfigurera en säljprojektsanalys - Marketo Docs - produktdokumentation
 title: Konfigurera en analys av affärsmöjlighet
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 9165c7ac-5b8e-48d2-bbe7-1f9074848724
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
+# Konfigurera en analys av affärsmöjlighet {#configure-an-opportunity-influence-analyzer}
 
-# Konfigurera en analys av säljprojektspåverkan {#configure-an-opportunity-influence-analyzer}
-
-När du har [skapat en analys av säljprojektspåverkan](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md) kan du konfigurera de typer av [intressanta stunder](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) som ingår.
+En gång [skapa en analys av affärsmöjlighet](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)kan du konfigurera typerna av [intressanta stunder](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) som ingår.
 
 >[!PREREQUISITES]
 >
 >[Skapa en analys av affärsmöjlighet](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-1. Klicka på **Analys**.
+1. Klicka **Analyser**.
 
    ![](assets/login-to-analytics.png)
 
@@ -27,7 +26,7 @@ När du har [skapat en analys av säljprojektspåverkan](/help/marketo/product-d
 
    ![](assets/image2014-9-17-12-3a28-3a33.png)
 
-   Om det finns för många intressanta stunder i analysdiagrammet kan du minska dem genom att avmarkera personer på panelen **Inställningar** eller genom att minska typerna av intressanta stunder.
+   Om det finns för många intressanta stunder i analysdiagrammet kan du minska dem genom att avmarkera personer i **Inställningar** eller genom att minska antalet intressanta stunder.
 
 1. Om du vill konfigurera vilka typer av intressanta stunder som ska inkluderas går du till fliken Inställningar och drar i filtret Intressanta stunder.
 

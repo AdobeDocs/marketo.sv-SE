@@ -3,7 +3,6 @@ unique-page-id: 1147249
 description: Använda en global övertäckning - Marketo Docs - produktdokumentation
 title: Använda en global övertäckning
 exl-id: b4e69f20-f1a7-43c4-92f7-e8802b4ce322
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '149'
@@ -17,7 +16,7 @@ Med den globala övertäckningen i programschemavyn kan du se programmet i relat
 
 >[!PREREQUISITES]
 >
->Du måste ha en [licens för marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) för att kunna använda den här funktionen.
+>Du måste ha en [Licens för marknadsföringskalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) för att använda den här funktionen.
 
 ## Använd den globala övertäckningen {#use-the-global-overlay}
 
@@ -39,9 +38,9 @@ Med den globala övertäckningen i programschemavyn kan du se programmet i relat
 
 ## Använd ett sparat filter som övertäckning {#use-a-saved-filter-as-an-overlay}
 
-Om du har [sparat ett filter i marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md) kan du använda det som en övertäckning i programschemavyn.
+Om du har [sparade ett filter i marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)kan du använda den som en övertäckning i programschemavyn.
 
-1. Klicka på listrutan **Övertäckning** och välj filterdefinitionen.
+1. Klicka på **Övertäckning** och välj filterdefinition.
 
    ![](assets/image2014-9-24-10-3a16-3a26.png)
 

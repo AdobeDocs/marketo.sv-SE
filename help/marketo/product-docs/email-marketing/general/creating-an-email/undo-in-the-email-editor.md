@@ -1,15 +1,14 @@
 ---
 unique-page-id: 1900567
-description: Ångra i e-postredigeraren - Marketo Docs - Produktdokumentation
+description: Ångra i e-postredigeraren - Marketo Docs - produktdokumentation
 title: Ångra i e-postredigeraren
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 5542defb-84cd-49a7-b2d0-5cd7e4df95d7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
 
 ---
-
 
 # Ångra i e-postredigeraren {#undo-in-the-email-editor}
 

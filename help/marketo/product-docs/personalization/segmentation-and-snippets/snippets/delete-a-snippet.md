@@ -2,14 +2,13 @@
 unique-page-id: 2359518
 description: Ta bort ett kodfragment - Marketo Docs - produktdokumentation
 title: Ta bort ett fragment
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 6984fd94-dd91-4832-83ce-3a6c3b35b034
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Ta bort ett fragment {#delete-a-snippet}
 
@@ -23,7 +22,7 @@ Ta bort ett fragment som du inte längre behöver.
 
    ![](assets/image2014-9-16-10-3a43-3a47.png)
 
-1. Gå till fragmentet och klicka på **Ta bort** under **Fragmentåtgärder**.
+1. Gå till fragmentet och sedan under **Fragmentåtgärder** klicka på **Ta bort**.
 
    ![](assets/image2014-9-16-10-3a43-3a57.png)
 
@@ -35,4 +34,4 @@ Ta bort ett fragment som du inte längre behöver.
    >
    >Du kan bara ta bort ett utdrag som inte är godkänt och som inte används av några resurser.
 
-Klart! Du kan inte hämta den, så se till att du inte klickar på borttagningsknappen.
+Klar! Du kan inte hämta den, så se till att du inte klickar på borttagningsknappen.

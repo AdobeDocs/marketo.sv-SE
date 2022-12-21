@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2360030
-description: Ta bort en rapport - Marketo Docs - Produktdokumentation
+description: Ta bort en rapport - Marketo Docs - produktdokumentation
 title: Ta bort en rapport
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: 6b98a2e4-13a4-4a85-8ccd-0f74e6dfcaa9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-
 # Ta bort en rapport {#delete-a-report}
 
-När du börjar [skapa rapporter](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) kan du snabbt få många rapporter. Kom ihåg att ta bort rapporter som du inte längre behöver.
+När du har börjat [skapa rapporter](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)kan du snabbt få många. Kom ihåg att ta bort rapporter som du inte längre behöver.
 
 1. Högerklicka på den onödiga rapporten i trädet och välj **Ta bort rapport**.
 

@@ -1,15 +1,14 @@
 ---
 unique-page-id: 14352613
-description: Lägg till personer i din kampanj - Marketo Docs - Produktdokumentation
+description: Lägg till personer i din kampanj - Marketo Docs - produktdokumentation
 title: Lägg till personer i din kampanj
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
 
 ---
-
 
 # Lägg till personer i din kampanj {#add-people-to-your-campaign}
 

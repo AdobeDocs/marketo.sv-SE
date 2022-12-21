@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359647
-description: Förstå engagemangsprogram - Marketo Docs - Produktdokumentation
+description: Understanding Engagement Programs - Marketo Docs - Product Documentation
 title: Förstå engagemangsprogram
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: dd573749-5ae6-4794-a340-b5139c316cce
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
 
 ---
-
 
 # Förstå engagemangsprogram {#understanding-engagement-programs}
 
@@ -17,11 +16,11 @@ Engagemangsprogram är utformade för att marknadsföra innehåll till nya männ
 
 >[!NOTE]
 >
->Det finns en gräns på 100 **aktiva** engagemangsprogram per prenumeration.
+>Det finns en gräns på 100 **aktiv** engagemangsprogram per prenumeration.
 
 ## Engagement Program {#engagement-program}
 
-Ett **engagemangsprogram** är en typ av program som enkelt kan genomföra komplex näring.
+An **engagemangsprogram** är en typ av program som enkelt kan åstadkomma komplexa uppfödningar.
 
 ![](assets/image2014-9-15-15-3a24-3a57.png)
 
@@ -31,7 +30,7 @@ Ett **engagemangsprogram** är en typ av program som enkelt kan genomföra kompl
 
 ## Strömma {#stream}
 
-En **ström** är en pool med prioriterat innehåll som engagemangsprogrammet kommer att använda för att vårda människor.
+A **stream** är en pool med prioriterat innehåll som engagemangsprogrammet kommer att använda för att vårda människor.
 
 ![](assets/image2014-9-15-15-3a25-3a4.png)
 
@@ -43,7 +42,7 @@ En **ström** är en pool med prioriterat innehåll som engagemangsprogrammet ko
 
 ## Innehåll {#content}
 
-Det finns två typer av **innehåll** som du kan lägga till i engagemangsprogramströmmar - e-postmeddelanden och program. E-post skickas till folk vid sändning.
+Det finns två typer av **innehåll** ni kan lägga till i engagemangsprogramströmmar - e-post och program. E-post skickas till folk vid sändning.
 
 ![](assets/image2014-9-15-15-3a25-3a18.png)
 
@@ -58,7 +57,7 @@ Det finns två typer av **innehåll** som du kan lägga till i engagemangsprogra
 
 ## Kast {#cast}
 
-En **cast** är händelsen att skicka e-postmeddelanden från ett engagemangsprogram.
+A **cast** är händelsen att skicka e-postmeddelanden från ett engagemangsprogram.
 
 >[!NOTE]
 >
@@ -66,7 +65,7 @@ En **cast** är händelsen att skicka e-postmeddelanden från ett engagemangspro
 
 ## Stream Cadence {#stream-cadence}
 
-Du bestämmer när en sändning ska ske genom att ställa in **strömcadence**. Så här schemalägger du innehåll som ska gå ut med regelbundna intervall.
+Du bestämmer när en sändning ska ske genom att konfigurera **strömcadence**. Så här schemalägger du innehåll som ska gå ut med regelbundna intervall.
 
 ![](assets/image2014-9-15-15-3a25-3a27.png)
 
@@ -76,13 +75,13 @@ Du bestämmer när en sändning ska ske genom att ställa in **strömcadence**. 
 
 ## Person Cadence {#person-cadence}
 
-En **personcadence** är en status som definierar dess förmåga att ta emot innehåll från ett engagemangsprogram. Du kan använda flödessteget **Change Engagement Program Cadence** för att ändra det till Paused eller Normal.
+A **personfrånvaro** är en status som definierar dess förmåga att ta emot innehåll från ett engagemangsprogram. Du kan använda **Change Engagement Program Cadence** flödessteg om du vill ändra det till Pausat eller Normal.
 
 ![](assets/image2014-9-15-15-3a25-3a55.png)
 
 ## Utmattad {#exhausted}
 
-När en person har fått allt innehåll i en ström anropar vi personen **Utsökt**.
+När en person har fått allt innehåll i en ström ringer vi personen **Utmattad**.
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 

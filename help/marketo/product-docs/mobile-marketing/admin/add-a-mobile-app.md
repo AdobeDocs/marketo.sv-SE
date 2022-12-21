@@ -1,15 +1,14 @@
 ---
 unique-page-id: 7512252
-description: Lägg till en mobilapp - Marketo Docs - Produktdokumentation
+description: Lägg till en mobilapp - Marketo Docs - produktdokumentation
 title: Lägg till en mobilapp
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+exl-id: 79edf8cb-4d8b-440a-aa8a-6ead1a93b95a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
-
 
 # Lägg till en mobilapp {#add-a-mobile-app}
 
@@ -22,30 +21,30 @@ Program startar normalt i en sandlådemiljö, där inledande utveckling och test
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
-1. Klicka på **Admin**.
+1. Klicka **Administratör**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Klicka på **Mobilappar och enheter**.
+1. Klicka **Mobilappar och enheter**.
 
    ![](assets/image2016-1-12-15-3a42-3a30.png)
 
-1. Klicka på **Ny mobilapp**.
+1. Klicka **Ny mobilapp**.
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
-1. Ange ett namn. I listrutan **Typ** väljer du den typ av miljö som du använder - Sandbox eller Production. Klicka på **Spara**.
+1. Ange ett namn. I **Typ** väljer du den typ av miljö du använder - Sandbox eller Production. Klicka **Spara**.
 
    ![](assets/image2015-11-18-15-3a52-3a15.png)
 
    >[!NOTE]
    >
-   >Vi rekommenderar att du använder ett produktionsmeddelandecertifikat i en produktionsmiljö. Ett sandlådecertifikat installeras i en produktionsmiljö utan problem, men du får inga meddelanden. Om du har några frågor om din miljö eller ditt meddelandecertifikat kontaktar du Marketo Admin eller Mobile Apps Developer.
+   >Vi rekommenderar att du använder ett produktionsmeddelandecertifikat i en produktionsmiljö. Ett sandlådecertifikat installeras i en produktionsmiljö utan problem, men du får inga meddelanden. Om du har frågor om din miljö eller ditt meddelandecertifikat kontaktar du Marketo Admin eller Mobile Apps Developer.
 
    Snyggt! Nu ska vi konfigurera appen så att den fungerar med Android- och iOS-enheter.
 
 >[!MORELIKETHIS]
 >
 >* [Konfigurera Android-åtkomst för mobilapp](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
->* [Konfigurera push-åtkomst för iOS-mobilappar](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
+>* [Konfigurera iOS Push Access för mobilappar](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
 
