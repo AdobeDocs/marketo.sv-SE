@@ -3,16 +3,22 @@ unique-page-id: 2953188
 description: Inkommande filter - Marketo Docs - produktdokumentation
 title: Inkommande filter
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: c045e9008bf0e9d145ac67866a1e0d7cb6e26069
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
 
 # Inkommande filter {#inferred-filters}
 
-När någon besöker er webbplats [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) cookies och placerar dem i systemet. Vi slår upp deras IP-adresser i en särskild databas och drar nytta av all slags bra information. Kolla in den.
+När någon besöker er webbplats [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) cookies och placerar dem i systemet. Vi slår upp deras IP-adresser i en särskild databas och drar nytta av all slags bra information.
+
+>[!NOTE]
+>
+>Vi uppdaterar regelbundet databasen som används för IP-adresssökningar för att säkerställa att de härledda fältsvärdena förblir aktuella. Databasuppdateringar kan medföra nya härledda fältvärden som du kan behöva lägga till i definitioner för smarta listfilter.
+>
+>Databasuppdateringar kan utföras under [Marketo Engage produktrelease](/help/marketo/release-notes/release-schedule.md){target=&quot;_blank&quot;}. När en uppdatering görs [Versionsinformation för Marketo Engage](/help/marketo/release-notes/current.md){target=&quot;_blank&quot;} innehåller en förklaring till eventuella ändringar av härledda fältvärden.
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
