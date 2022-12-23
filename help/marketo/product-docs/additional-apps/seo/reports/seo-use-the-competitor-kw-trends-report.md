@@ -34,7 +34,7 @@ I det här diagrammet kan du se hur många procent av nyckelorden som har rankat
 |---|---|
 | Nyckelord | Antalet nyckelord som du spårar. |
 | Ranknings-URL:er | Antalet URL:er i webbplatsens rankning i det intervall som du har angett. |
-| % i rangordning | Procentandelen nyckelord som rankas i det intervall som du har angett. |
+| % i rangordning | Procentandel av nyckelordsrankningen i det intervall som du har angett. |
 | Medel. sökningar | Genomsnittligt antal sökningar med dessa nyckelord som gjordes under det angivna intervallet (under de senaste 30 dagarna, vid sökning i Google US) |
 
 ## Filtrera data {#filtering-data}
