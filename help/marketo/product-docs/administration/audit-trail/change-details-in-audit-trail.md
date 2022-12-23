@@ -136,7 +136,7 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
   </tr> 
   <tr> 
    <td>Redigera</td> 
-   <td>Redigera modul <module name><attribute> till "value"</td> 
+   <td>Redigera modul <code>"<module name>" <attribute></code> till "value"</td> 
   </tr> 
   <tr> 
    <td>Ta bort</td> 
