@@ -1,9 +1,9 @@
 ---
 description: Versionsinformation - oktober 2022 - Marketo Docs - produktdokumentation
 title: Versionsinformation - oktober 2022
-source-git-commit: 39eb451117a5f165ceccc0435db77aa22f1bfdcd
+source-git-commit: ea0512aedc41694dfd12801a45a1969a7561debc
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '634'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 </br>
 
-* **Synkronisering av anpassat fält för programmedlem**: Möjlighet att dubbelriktat synkronisera utökningsbara fält som tagits emot för en programmedlem (t.ex. deltagarinställningar under händelseregistrering som mat, sessioner, spår osv.)
+* **Synkronisering av anpassat fält för programmedlem**: Möjlighet att dubbelriktat synkronisera utökningsbara fält som tagits emot för en programmedlem (t.ex. deltagarinställningar under händelseregistrering som mat, sessioner, spår osv.) med kampanjmedlemsfält i Salesforce.
 
 <table> 
   <tr> 
