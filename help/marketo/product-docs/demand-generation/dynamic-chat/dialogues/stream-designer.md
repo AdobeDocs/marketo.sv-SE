@@ -2,9 +2,9 @@
 description: Stream Designer - Marketo Docs - produktdokumentation
 title: Stream Designer
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: e0f0a89076beaa1be0340e908a59459389b89baa
+source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
 workflow-type: tm+mt
-source-wordcount: '821'
+source-wordcount: '866'
 ht-degree: 0%
 
 ---
@@ -89,6 +89,10 @@ I det övre högra hörnet av Stream Designer visas en handfull ikoner. Så här
 1. Under Chatbot Response, skriv din fråga hur du vill.
 
    ![](assets/stream-designer-8.png)
+
+   >[!TIP]
+   >
+   >Du kan personalisera upplevelsen för kända chattbesökare genom att använda variabler (t.ex.: Hej `{{lead.leadFirstName:""}}`). Klicka bara på klammerparentesen till höger och gör ditt val. Lägg till ett standardvärde mellan offerterna om du vill att anonyma besökare ska se något generiskt (t.ex.: Hej `{{lead.leadFirstName:"there"}}`).
 
    >[!NOTE]
    >
