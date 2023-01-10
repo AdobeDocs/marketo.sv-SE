@@ -5,16 +5,16 @@ title: Konfigurera Adobe Experience Manager Integration
 hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
-source-git-commit: 3105fb33fb457d4dfb63081b80d4d1def717ad34
+source-git-commit: 2a94e4b3b034eac821a82a84db65c09e503c52f4
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
 
 # Konfigurera Adobe Experience Manager Integration {#configuring-adobe-experience-manager-integration}
 
-Konfigurera AEM så att du kan komma åt, välja och importera AEM till Marketo Design Studio.
+Konfigurera Adobe Experience Manager (AEM) så att du kan komma åt, välja och importera AEM i Marketo Engage Design Studio.
 
 >[!NOTE]
 >
@@ -63,7 +63,7 @@ Konfigurera AEM så att du kan komma åt, välja och importera AEM till Marketo 
 
    ![](assets/eight.png)
 
-1. I Marketo Classic klickar du på **Administratör**.
+1. Klicka på Marketo Engage **Administratör**.
 
    ![](assets/nine.png)
 
@@ -78,5 +78,3 @@ Konfigurera AEM så att du kan komma åt, välja och importera AEM till Marketo 
 1. Ange AEM URL och klicka på **OK**.
 
    ![](assets/twelve.png)
-
-   Du är redo! Nu kan du [importera AEM till Design Studio i Marketo Sky](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/importing-assets-with-adobe-experience-manager.html?lang=en#design-studio).
