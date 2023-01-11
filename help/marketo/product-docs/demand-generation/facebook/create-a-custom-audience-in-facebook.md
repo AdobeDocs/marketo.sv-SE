@@ -3,9 +3,9 @@ unique-page-id: 4720275
 description: Skapa en anpassad målgrupp i Facebook - Marketo Docs - produktdokumentation
 title: Skapa en anpassad målgrupp i Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
-source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
+source-git-commit: 070a90a1eaeef94b20e735e21cc6a56175b2bad6
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,10 @@ ht-degree: 0%
 1. Klicka på **Målgrupp** nedrullningsbar meny och välj **+ Ny publik**.
 
    ![](assets/create-a-custom-audience-in-facebook-4.png)
+
+   >[!IMPORTANT]
+   >
+   >Facebook API tillåter upp till 500 anpassade målgrupper per Facebook-annonskonto.
 
 1. Text i en **Målgruppsnamn**. Klicka **Uppdatera**.
 
