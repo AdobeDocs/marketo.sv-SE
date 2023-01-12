@@ -3,9 +3,9 @@ unique-page-id: 2360287
 description: Skapa ett anpassat fält i Marketo - Marketo Docs - produktdokumentation
 title: Skapa ett anpassat fält i Marketo
 exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: cd742b3c4ff464a7efeb6490b88fe78e6b3f4ae8
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,13 @@ ht-degree: 0%
 
 Så här skapar du ett nytt anpassat fält i Marketo för att lagra/hämta in data.
 
-1. Gå till Admin och klicka på **Fälthantering**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2014-9-24-13-3a46-3a26.png)
+   ![](assets/create-a-custom-field-in-marketo-1.png)
+
+1. Klicka **Fälthantering**.
+
+   ![](assets/create-a-custom-field-in-marketo-2.png)
 
    >[!TIP]
    >
@@ -24,7 +28,7 @@ Så här skapar du ett nytt anpassat fält i Marketo för att lagra/hämta in da
 
 1. Klicka **Nytt anpassat fält**.
 
-   ![](assets/two.png)
+   ![](assets/create-a-custom-field-in-marketo-3.png)
 
 1. Välj fälttyp. Detta ändrar hur det återges i smarta listor och formulär i Marketo.
 
@@ -32,7 +36,7 @@ Så här skapar du ett nytt anpassat fält i Marketo för att lagra/hämta in da
    >
    >Kolla in [Ordlista för anpassade fälttyper](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
-   ![](assets/image2014-9-24-13-3a47-3a42.png)
+   ![](assets/create-a-custom-field-in-marketo-4.png)
 
 1. Ange namnet som du vill att det ska visas i Marketo. API-namnet genereras automatiskt. Du kan ändra den, men du kan inte byta namn på den när den har angetts. Klicka **Skapa** när det är klart.
 
@@ -40,7 +44,7 @@ Så här skapar du ett nytt anpassat fält i Marketo för att lagra/hämta in da
 >
 >Fältnamn får inte börja med följande tecken: **. &amp; +[]**
 
-![](assets/image2014-9-24-13-3a48-3a26.png)
+![](assets/create-a-custom-field-in-marketo-5.png)
 
 >[!NOTE]
 >
