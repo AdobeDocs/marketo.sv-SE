@@ -3,9 +3,9 @@ unique-page-id: 4720461
 description: HTML-kodning av token i e-post - Marketo Docs - produktdokumentation
 title: HTML-kodning av token i e-postmeddelanden
 exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -22,20 +22,20 @@ Aktivera/inaktivera token för personer och företag som används i e-postmeddel
 >
 >Med kodning konverteras tecken till HTML-kodversioner för att undvika förvirring när de skickas (d.v.s. &quot;&amp;&quot; ändras till `&amp;`). Mer information får du av webbutvecklaren.
 
-1. Gå till **Administratör**.
+1. Gå till **Administratör** område.
 
-   ![](assets/admin.png)
+   ![](assets/html-encode-tokens-in-emails-1.png)
 
-1. Välj **Fälthantering**.
+1. Klicka **Fälthantering**.
 
-   ![](assets/two-2.png)
+   ![](assets/html-encode-tokens-in-emails-2.png)
 
 1. Sök efter och markera önskat fält.
 
-   ![](assets/five.png)
+   ![](assets/html-encode-tokens-in-emails-3.png)
 
 1. Kontrollera **HTML-kodning av token i e-postmeddelanden** för att aktivera, avmarkera för att inaktivera.
 
-   ![](assets/six.png)
+   ![](assets/html-encode-tokens-in-emails-4.png)
 
    Och det är allt! Du kan göra det för så många enskilda fält du vill.

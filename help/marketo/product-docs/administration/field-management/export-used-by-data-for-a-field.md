@@ -3,9 +3,9 @@ unique-page-id: 45417092
 description: Exportera som används av data för ett fält - Marketo Docs - produktdokumentation
 title: Exportera som används av data för ett fält
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,25 +18,25 @@ Som administratör kan du exportera relaterade resurser i ett fält så att du k
 >
 >**Administratörsbehörigheter krävs**
 
-1. Klicka **Administratör**.
+1. Gå till **Administratör** område.
 
-   ![](assets/one.png)
+   ![](assets/export-used-by-data-for-a-field-1.png)
 
 1. Klicka **Fälthantering**.
 
-   ![](assets/two-3.png)
+   ![](assets/export-used-by-data-for-a-field-2.png)
 
 1. Hitta det önskade fältet och markera det.
 
-   ![](assets/three.png)
+   ![](assets/export-used-by-data-for-a-field-3.png)
 
 1. Klicka på **Fältåtgärder** nedrullningsbar meny och välj **Exportera som används av**.
 
-   ![](assets/four.png)
+   ![](assets/export-used-by-data-for-a-field-4.png)
 
 1. En Excel-fil exporteras. Öppna den för att visa dess innehåll.
 
-   ![](assets/five-1.png)
+   ![](assets/export-used-by-data-for-a-field-5.png)
 
    >[!TIP]
    >

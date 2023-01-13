@@ -3,9 +3,9 @@ unique-page-id: 2360293
 description: Byt namn på ett fält - Marketo Docs - produktdokumentation
 title: Byta namn på ett fält
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -20,21 +20,25 @@ ht-degree: 0%
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till Admin och klicka på **Fälthantering**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2014-9-24-14-3a2-3a25.png)
+   ![](assets/rename-a-field-1.png)
+
+1. Klicka **Fälthantering**.
+
+   ![](assets/rename-a-field-2.png)
 
 1. Sök efter och markera det fält som du vill byta namn på och klicka sedan på fältnamnet på arbetsytan.
+
+   ![](assets/rename-a-field-3.png)
 
    >[!TIP]
    >
    >Klicka på **Används av** om du vill söka efter resurser som refererar till det här fältet.
 
-   ![](assets/changefieldname.png)
-
 1. Byt namn på fältet och klicka **Spara**.
 
-   ![](assets/image2014-9-24-14-2-55.png)
+   ![](assets/rename-a-field-4.png)
 
 Snyggt jobb! Nu vet du hur du byter namn på fält i Marketo.
 

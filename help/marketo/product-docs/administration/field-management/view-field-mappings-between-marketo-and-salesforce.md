@@ -3,9 +3,9 @@ unique-page-id: 2360344
 description: Visa fältmappningar mellan Marketo och Salesforce - Marketo Docs - produktdokumentation
 title: Visa fältmappningar mellan Marketo och Salesforce
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -18,13 +18,17 @@ Du kanske vill veta vilka Salesforce-fält ett visst Marketo-fält är kopplat t
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **Administratör** och klicka **Fälthantering**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2014-9-19-9-3a54-3a26.png)
+   ![](assets/view-field-mappings-between-marketo-and-salesforce-1.png)
+
+1. Klicka **Fälthantering**.
+
+   ![](assets/view-field-mappings-between-marketo-and-salesforce-2.png)
 
 1. Hitta det fält du är intresserad av och klicka på **+** för att expandera mappningen.
 
-   ![](assets/image2014-9-19-9-3a54-3a34.png)
+   ![](assets/view-field-mappings-between-marketo-and-salesforce-3.png)
 
 >[!NOTE]
 >
