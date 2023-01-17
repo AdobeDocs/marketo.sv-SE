@@ -1,9 +1,9 @@
 ---
 description: Versionsinformation - oktober 2022 - Marketo Docs - produktdokumentation
 title: Versionsinformation - oktober 2022
-source-git-commit: ea0512aedc41694dfd12801a45a1969a7561debc
+source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
 workflow-type: tm+mt
-source-wordcount: '634'
+source-wordcount: '601'
 ht-degree: 1%
 
 ---
@@ -172,20 +172,6 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
 </table>
 
 * **Stöd för ytterligare datatyper för Dynamic Chat**: Tre nya datatyper (boolesk, heltal, flytande) gör att du kan utnyttja fler befintliga fält i Dynamic Chat för t.ex. målgruppsanpassning baserat på poängen eller fråga besökarna ja/nej-frågor.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td><i>Kommer snart</i></td>
-   <td>n/a</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Schemalagda mötesmeddelanden för dynamiskt chatt**: Säljare får automatiska e-postmeddelanden om schemalagda möten samt all relevant information om besökarens chatbot-interaktion.
 
 <table> 
   <tr> 
