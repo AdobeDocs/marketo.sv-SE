@@ -1,9 +1,9 @@
 ---
 description: Versionsinformation - oktober 2022 - Marketo Docs - produktdokumentation
 title: Versionsinformation - oktober 2022
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
+source-git-commit: b1f3d2f9e695607a1eaee40a162be8648dd6025c
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '600'
 ht-degree: 1%
 
 ---
@@ -179,7 +179,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr> 
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
    <td>n/a</td>
   </tr>
   </tbody>
