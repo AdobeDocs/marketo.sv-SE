@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 8cb8f1d564ccfba5c3861370c7624069a08be712
+source-git-commit: 591dff8db13e22eb129f6e30ecb90f3b7238652b
 workflow-type: tm+mt
-source-wordcount: '667'
+source-wordcount: '635'
 ht-degree: 1%
 
 ---
@@ -175,20 +175,6 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
 </table>
 
 * **Schemalagda e-postmeddelanden för möte för dynamisk chatt**: När ett möte bokas i en agentkalender får agenten ett e-postmeddelande om bokningen, inklusive detaljerad information om besökarens Dynamic Chat-engagemang.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Dialog Engagement Report for Dynamic Chat**: Ger en översikt över dialogengagemang över tid, inklusive möjlighet att filtrera efter besökartyp och typ av engagemang.
 
 <table> 
   <tr> 
