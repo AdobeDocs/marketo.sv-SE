@@ -3,9 +3,9 @@ unique-page-id: 10094188
 description: Godkänn ett anpassat objekt - Marketo Docs - produktdokumentation
 title: Godkänn ett anpassat objekt
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,25 @@ Du måste godkänna ett anpassat objekt innan du kan använda det. Processen ski
 
 Du har skapat ett helt nytt anpassat objekt. Så här godkänner du det.
 
-1. I Admin klickar du på **Anpassade Marketo-objekt** och markera ett objekt som är i utkastläge.
+1. Gå till **Administratör** område.
 
-   ![](assets/one.png)
+   ![](assets/approve-a-custom-object-1.png)
+
+1. Klicka **Anpassade Marketo-objekt**.
+
+   ![](assets/approve-a-custom-object-2.png)
+
+1. Markera ett objekt som är i utkastläge.
+
+   ![](assets/approve-a-custom-object-3.png)
 
 1. Klicka på **Anpassade objektåtgärder** nedrullningsbar meny och välj **Godkänn objekt**.
 
-   ![](assets/two.png)
+   ![](assets/approve-a-custom-object-4.png)
 
 1. Läget ändras till Godkänd.
 
-   ![](assets/three.png)
+   ![](assets/approve-a-custom-object-5.png)
 
    >[!NOTE]
    >
@@ -48,12 +56,12 @@ När du har redigerat ett godkänt anpassat objekt måste du godkänna utkastet 
 
 1. När du redigerar ett anpassat objekt som redan godkänts får det ett godkänt med utkastläge.
 
-   ![](assets/four.png)
+   ![](assets/approve-a-custom-object-6.png)
 
 1. När du är klar att godkänna utkastet klickar du på **Anpassade objektåtgärder** nedrullningsbar meny och välj **Godkänn objekt**.
 
-   ![](assets/five-1.png)
+   ![](assets/approve-a-custom-object-7.png)
 
 1. I en förhandsgranskning visas de objekt som har ändrats i utkastet. Klicka **Godkänn**.
 
-   ![](assets/six-1.png)
+   ![](assets/approve-a-custom-object-8.png)
