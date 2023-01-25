@@ -2,9 +2,9 @@
 description: Kalender - Marketo Docs - produktdokumentation
 title: Kalender
 exl-id: 351241e4-15b3-4547-83fe-a8ec1d89c1b0
-source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
+source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -20,3 +20,7 @@ När en användares kalender är ansluten till Dynamisk chatt läggs de till i k
 Användare kan också anpassa innehållet i den inbjudan som skickas till besökaren när de schemalägger en avtalad tid i användarens kalender. De kan också markera kryssrutan längst ned för att inkludera länken Google Meet eller Microsoft Teams (beroende på vilken kalender som var ansluten).
 
 ![](assets/calendar-2.png)
+
+>[!TIP]
+>
+>Använd ikonen för token (klammerparenteser) för att anpassa bekräftelsemeddelanden för mötesbokningar med hjälp av person- eller företagsattribut.

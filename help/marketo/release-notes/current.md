@@ -2,10 +2,10 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: ad7054fe697e528fb82dcf186cfc06618352f8dc
+source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '597'
+ht-degree: 1%
 
 ---
 
@@ -126,8 +126,8 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>
@@ -140,8 +140,8 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">Kalender</a></td>
   </tr>
   </tbody>
 </table>
@@ -168,8 +168,8 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>
@@ -182,8 +182,8 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md">Möten</a></td>
   </tr>
   </tbody>
 </table>
