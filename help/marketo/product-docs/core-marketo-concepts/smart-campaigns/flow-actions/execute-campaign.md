@@ -2,9 +2,9 @@
 description: Kör kampanj - Marketo Docs - produktdokumentation
 title: Kör kampanj
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
-source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
+source-git-commit: ad7054fe697e528fb82dcf186cfc06618352f8dc
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Det finns mycket du kan göra med en körbar kampanj. De är utformade för att 
 
 Du kan också använda dem när du behöver köra ett separat flöde, men du måste vara beroende av resultatet av det flödet i efterföljande val av flödessteg (d.v.s. göra det).
 
-Execute Campaign är en förbättring vid [Begär kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), eftersom den kan köras i serie eller parallellt, medan den senare endast körs parallellt.
+Execute Campaign är en förbättring vid [Begär kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), eftersom den kan köras i serie, medan den senare bara körs parallellt.
 
 >[!NOTE]
 >
