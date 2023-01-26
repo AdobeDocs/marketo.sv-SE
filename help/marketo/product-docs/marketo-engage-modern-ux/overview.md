@@ -2,10 +2,10 @@
 description: Översikt - Marketo Docs - produktdokumentation
 title: Översikt
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: ec34ef18e6cbfe808b8a3268783a1b8cda5341b0
 workflow-type: tm+mt
-source-wordcount: '495'
-ht-degree: 1%
+source-wordcount: '486'
+ht-degree: 0%
 
 ---
 
@@ -30,8 +30,6 @@ När du loggar in visas ett popup-fönster som är klart för att ge dig den nya
 
 Demonstrationen visar allt du behöver veta!
 
-![](assets/overview-2.png)
-
 ## Nyheter {#whats-new}
 
 Det finns många nya funktioner i det moderna användargränssnittet, som alla är utformade för att avsevärt förbättra er marknadsföringsupplevelse.
@@ -40,7 +38,7 @@ Det finns många nya funktioner i det moderna användargränssnittet, som alla �
 
 Det nya gränssnittet har förbättrad och utökad ikonografi. Läs om dem här: [Ikonordlista](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md).
 
-![](assets/overview-new-icons.png)
+![](assets/overview-2.png)
 
 **Global navigering**
 
@@ -191,15 +189,12 @@ Ta en titt på nya Global Nav.
    <td>Alla tidigare superkulobjekt listade</td> 
   </tr>
   <tr>
-   <td>3</td> 
-   <td>Använd den här för att ge feedback om din upplevelse</td> 
-  </tr>
   <tr>
-   <td>4</td> 
+   <td>3</td> 
    <td>Om du har flera prenumerationer klickar du på ditt undernamn för att enkelt byta till ett annat</td> 
   </tr>
   <tr>
-   <td>5</td> 
+   <td>4</td> 
    <td>Global sökning - du kan nu söka i hela instansen härifrån</td> 
   </tr>
  </tbody>
