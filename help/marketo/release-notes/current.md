@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
+source-git-commit: 993e81791edcbaf7e8a99d78e9f97cb0400741a2
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '632'
 ht-degree: 1%
 
 ---
@@ -188,6 +188,8 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
   </tbody>
 </table>
 
-**_Product Release Webinar_**
+## Meddelanden {#announcements}
 
-[Webbinariet Marketo Engage från oktober 2022 och januari 2023](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **Marketo REST API-ändring**: I versionen från oktober 2022 introducerade vi en mindre ändring av svarsmeddelandet för Marketo REST API. Se detta [Marketo Nation](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} för mer information.
+
+* **_Product Release Webinar_**: [Webbinariet Marketo Engage från oktober 2022 och januari 2023](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
