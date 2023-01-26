@@ -2,9 +2,9 @@
 description: Översikt - Marketo Docs - produktdokumentation
 title: Översikt
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: ec34ef18e6cbfe808b8a3268783a1b8cda5341b0
+source-git-commit: d019a6a4aa3f246ba330b527f0f0719d99565006
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '479'
 ht-degree: 0%
 
 ---
@@ -208,4 +208,4 @@ Ta en titt på nya Global Nav.
 >
 >Om du använder sökningen i trädet genereras endast resultat från det avsnitt du är i (t.ex. marknadsföringsaktiviteter). Om du vill söka i hela instansen använder du den globala sökningen.
 
-Njut av den nya Marketo Engage-upplevelsen och var noga med att dela med dig av dina synpunkter!
+Njut av den nya Marketo Engage-upplevelsen!
