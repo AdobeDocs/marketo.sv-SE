@@ -2,9 +2,9 @@
 description: Växla - Marketo Docs - produktdokumentation
 title: Växla av/på
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 3f3846fbb3b7e279e8eb2350f5d493fbb1da6304
+source-git-commit: 597c3df7beacafec02994f2fba96f0544822a657
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -68,5 +68,9 @@ Följande funktioner är för närvarande tillgängliga i det moderna användarg
 * Detaljvy för landningssida
 * Visa lista över landningssidor
 * Information om landningssidmall
+* Malllista för landningssida
 * Vyn Fragmentdetaljer
+* Fragmentlistvy
+
+
 

@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 993e81791edcbaf7e8a99d78e9f97cb0400741a2
+source-git-commit: 597c3df7beacafec02994f2fba96f0544822a657
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '631'
 ht-degree: 1%
 
 ---
@@ -36,8 +36,8 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Växla av/på</a></td>
   </tr>
   </tbody>
 </table>
@@ -74,11 +74,11 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   </tbody>
 </table>
 
-### Marketo-mått {#marketo-measure}
+### Marketo Measure {#marketo-measure}
 
 </br>
 
-* **Marketo Measurement Ultimate**: Ger fullständig B2B-attribuering för företag med flera CRM- och/eller Marketo Engage-instanser och olika källdatabehov. Den erbjuder också en B2B-attribueringslösning för Adobe RT-CDP via delade AEP-data.
+* **Marketo Measure Ultimate**: Ger fullständig B2B-attribuering för företag med flera CRM- och/eller Marketo Engage-instanser och olika källdatabehov. Den erbjuder också en B2B-attribueringslösning för Adobe RT-CDP via delade AEP-data.
 
 <table> 
   <tr> 
