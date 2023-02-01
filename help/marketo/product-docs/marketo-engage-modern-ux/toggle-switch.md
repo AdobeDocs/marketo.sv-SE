@@ -2,7 +2,7 @@
 description: Växla - Marketo Docs - produktdokumentation
 title: Växla av/på
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 597c3df7beacafec02994f2fba96f0544822a657
+source-git-commit: f7e685b5386cddde508382d6598a63855bfd6cbf
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 0%
