@@ -1,11 +1,11 @@
 ---
-description: Aktuell versionsinformation - Marketo Docs - produktdokumentation
+description: Aktuell versionsinformation – Marketo Docs – produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 597c3df7beacafec02994f2fba96f0544822a657
+source-git-commit: 681650249d0a8e4570b4c1e7222da6075b3db91b
 workflow-type: tm+mt
-source-wordcount: '631'
-ht-degree: 1%
+source-wordcount: '632'
+ht-degree: 2%
 
 ---
 
