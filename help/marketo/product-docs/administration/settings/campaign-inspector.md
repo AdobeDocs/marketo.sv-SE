@@ -1,7 +1,7 @@
 ---
 description: Campaign Inspector - Marketo Docs - Product Documentation
 title: Campaign Inspector
-source-git-commit: 35ff6315ac98bb34594bb2db17314a4a990e6162
+source-git-commit: 64ace065c7505b0b5fbe230678345fff92e078e1
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 Använd Campaign Inspector för att visa/söka efter alla smarta kampanjer på ett och samma ställe.
 
-## Aktivera Campaign Inspector {#activate-campaign-inspector}
+## Aktivera Campaign Inspector {#enable-campaign-inspector}
 
 1. Gå till **Administratör** område.
 
