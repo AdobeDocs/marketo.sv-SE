@@ -3,9 +3,9 @@ unique-page-id: 11378814
 description: Smarta kontolistor - Marketo Docs - produktdokumentation
 title: Smarta kontouppsättningar
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
-source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
+source-git-commit: adff42d54d7953c9ec72e4d736ce0153502be960
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '508'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,10 @@ Smarta kontolistor fungerar på liknande sätt som vanliga smarta listor, med et
    ![](assets/account-smart-lists-7.png)
 
    ![](assets/account-smart-lists-8.png)
+
+   >[!NOTE]
+   >
+   >ICP-indikatordata som används i [Rankning och justering av kontoprofilering](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md) visas som anpassade kontoattribut som kan användas i smarta kontolistor. Dessa anpassade attributdata baseras på när kontoprofilmodellen skapades/uppdaterades.
 
 1. Välj matchande personfilter. I det här exemplet väljer vi _State is California_.
 
