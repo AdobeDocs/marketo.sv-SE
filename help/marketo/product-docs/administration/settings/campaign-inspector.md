@@ -1,9 +1,9 @@
 ---
 description: Campaign Inspector - Marketo Docs - Product Documentation
 title: Campaign Inspector
-source-git-commit: 64ace065c7505b0b5fbe230678345fff92e078e1
+source-git-commit: beeba258be336d33cc30a6938e626d703cd409c6
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -29,6 +29,10 @@ Använd Campaign Inspector för att visa/söka efter alla smarta kampanjer på e
 1. Välj **Aktiverad** kryssruta och klicka **Spara**.
 
    ![](assets/campaign-inspector-4.png)
+
+   >[!NOTE]
+   >
+   >Den önskade arbetsytan måste markeras i trädet för att fliken Campaign Inspector ska kunna visas när den har aktiverats.
 
 ## Använda Campaign Inspector {#using-campaign-inspector}
 
