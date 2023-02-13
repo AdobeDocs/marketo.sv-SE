@@ -2,9 +2,9 @@
 description: Versionsinformation - januari 2022 - Marketo Docs - produktdokumentation
 title: Versionsinformation - januari 2022
 exl-id: babc4e7f-3f11-4883-80c6-58e69c3e1ab4
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: ec783ee58e3c249da036d4770231eb9d7ef61bbd
 workflow-type: tm+mt
-source-wordcount: '964'
+source-wordcount: '889'
 ht-degree: 0%
 
 ---
@@ -81,8 +81,6 @@ Marketo Engage-kunder som också använder Adobe Experience Platform (AEP) kan m
 * **Borttagning av Marketo Sky**: I mars kommer Marketo Sky inte längre att vara tillgänglig eftersom vi fokuserar på att leverera nästa generations användarupplevelser. I ett försök att behålla åtkomst till funktioner som är exklusiva för Marketo Skyn idag, tar vi med åsidosättande av förfallodatum och prioritet för smarta kampanjer i den vanliga upplevelsen i mars. [Klicka här](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) om du vill veta mer.
 
 * **Borttagning av formulärslutpunkter**: POST:er för programmatiska formulär till leadCapture/save2-slutpunkten stöds inte av Marketo Engage-formulär. [Klicka här](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) om du vill veta mer.
-
-* **Logga in i dialogrutan Bjud in användare**: I mars kommer den befintliga valfria funktionen&quot;Logga in i dialogrutan Bjud in användare&quot; att bli inaktuell. Funktionen&quot;Logga in i inbjudan till användardialogruta&quot; åsidosätts av funktionen Universal ID, som krävs för den kommande systemintegrationen i Adobe Identity Management och som aktiverades i augusti 2021 för alla prenumerationer. Som ett resultat av borttagningen tvingar Marketo Engage endast en användare att kopplas per e-postadress inom en prenumeration.
 
 **Marketo Engage-domäner - konfiguration för Sales Insight**: För Marketo Engage-domäner som inte har SSL-certifikat aktiverat och https://, misslyckas anrop med ett SSL-handskakningsfel. Därför kommer dessa domäner att upphöra. Detta innebär att användare av Sales Insight med en äldre konfiguration som pekar på någon av dessa domäner kan råka ut för bildtextsfel på sin Lead-, Contact-, Account-, Opportunity Panels- eller Marketo Global-sida. Vi rekommenderar att du uppdaterar din [Marketo Engage-konfiguration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) i Salesforce om det här felet inträffar. Du behöver bara uppdatera inloggningsuppgifterna för Marketo Engage som är markerade i avsnittet&quot;Marketo Sales Insight Config&quot; i dokumentet.
 
