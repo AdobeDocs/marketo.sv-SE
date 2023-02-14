@@ -3,9 +3,9 @@ unique-page-id: 10093192
 description: Skapa anpassade Marketo-objekt - Marketo Docs - produktdokumentation
 title: Skapa anpassade Marketo-objekt
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
-source-wordcount: '710'
+source-wordcount: '704'
 ht-degree: 0%
 
 ---
@@ -26,13 +26,17 @@ Använd anpassade objekt i Marketo för att spåra mätvärden som är specifika
 
 I det här exemplet visas ett anpassat bildobjekt som kan användas i en en-till-många-struktur. Senare skapar du ett kursanpassat objekt och ett mellanliggande objekt som du kan använda i en många-till-många-struktur.
 
-1. Klicka **Administratör** och in **Databashantering** välj **Anpassade Marketo-objekt**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2016-1-18-13-3a12-3a19.png)
+   ![](assets/create-marketo-custom-objects-1.png)
+
+1. Klicka **Anpassade Marketo-objekt**.
+
+   ![](assets/create-marketo-custom-objects-2.png)
 
 1. Klicka **Nytt anpassat objekt**.
 
-   ![](assets/image2016-5-18-16-3a28-3a4.png)
+   ![](assets/create-marketo-custom-objects-3.png)
 
    >[!NOTE]
    >
@@ -40,19 +44,19 @@ I det här exemplet visas ett anpassat bildobjekt som kan användas i en en-till
 
 1. Ange ett visningsnamn. API-namnet och pluronamnet fylls i automatiskt. Ange en beskrivning (valfritt).
 
-   ![](assets/image2015-9-15-16-3a29-3a17.png)
+   ![](assets/create-marketo-custom-objects-4.png)
 
    >[!NOTE]
    >
    >Du kan redigera de här fälten när du skapar dem, men när de har sparats kan du bara redigera fältet Pluralnamn och **Visa i Lead-detalj** skjutreglage.
 
-1. Dra **Visa i Lead-detalj** skjutreglage som ska visas **Visa** om du vill visa anpassade objektdata på sidan Lead Database. Klicka **Spara**.
+1. Dra **Visa i Lead-detalj** skjutreglage som ska visas **Visa** om du vill visa anpassade objektdata på databassidan. Klicka **Spara**.
 
-   ![](assets/image2015-9-15-16-3a32-3a2.png)
+   ![](assets/create-marketo-custom-objects-5.png)
 
 1. Den anpassade objektinformationen visar det innehåll du har angett. Observera att det är i utkastläge.
 
-   ![](assets/image2015-9-15-16-3a38-3a22.png)
+   ![](assets/create-marketo-custom-objects-6.png)
 
    Nästa steg är att lägga till fält i [bygga ut ditt anpassade objekt](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md).
 
@@ -68,29 +72,33 @@ I det här exemplet visas ett anpassat kursobjekt som du använder för att skap
 >
 >För många-till-många-relationer behöver du inte skapa någon länk i det anpassade objektet. I stället lägger du till två länkar till mellanliggande objekt (se nedan).
 
-1. Klicka **Administratör** och in **Databashantering** välj **Anpassade Marketo-objekt**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2016-1-18-13-3a16-3a25.png)
+   ![](assets/create-marketo-custom-objects-7.png)
+
+1. Klicka **Anpassade Marketo-objekt**.
+
+   ![](assets/create-marketo-custom-objects-8.png)
 
 1. Klicka **Nytt anpassat objekt**.
 
-   ![](assets/image2016-5-18-16-3a32-3a42.png)
+   ![](assets/create-marketo-custom-objects-9.png)
 
 1. Ange ett visningsnamn. API-namnet och pluronamnet fylls i automatiskt. Ange en beskrivning (valfritt).
 
-   ![](assets/image2016-1-14-13-3a38-3a46.png)
+   ![](assets/create-marketo-custom-objects-10.png)
 
    >[!NOTE]
    >
    >Du kan redigera de här fälten när du skapar dem, men när de har sparats kan du bara redigera fältet Pluralnamn och **Visa i Lead-detalj** skjutreglage.
 
-1. Dra **Visa i Lead-detalj** skjutreglage som ska visas **Visa** om du vill visa anpassade objektdata på sidan Lead Database. Klicka **Spara**.
+1. Dra **Visa i Lead-detalj** skjutreglage som ska visas **Visa** om du vill visa anpassade objektdata på databassidan. Klicka **Spara**.
 
-   ![](assets/image2016-1-14-13-3a42-3a56.png)
+   ![](assets/create-marketo-custom-objects-11.png)
 
 1. Den anpassade objektinformationen visar det innehåll du har angett. Observera att det är i utkastläge.
 
-   ![](assets/image2016-1-18-8-3a38-3a58.png)
+   ![](assets/create-marketo-custom-objects-12.png)
 
    >[!NOTE]
    >
@@ -106,25 +114,29 @@ Använd ett mellanliggande objekt för att koppla ett anpassat objekt till perso
 >
 >Du behöver inte skapa ett mellanliggande objekt för en anpassad objektstruktur med en-till-många.
 
-1. Klicka **Administratör** och in **Databashantering**, markera **Anpassade Marketo-objekt**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2016-1-18-13-3a17-3a40.png)
+   ![](assets/create-marketo-custom-objects-13.png)
+
+1. Klicka **Anpassade Marketo-objekt**.
+
+   ![](assets/create-marketo-custom-objects-14.png)
 
 1. Klicka **Nytt anpassat objekt**.
 
-   ![](assets/image2016-5-18-16-3a33-3a16.png)
+   ![](assets/create-marketo-custom-objects-15.png)
 
 1. Ange ett visningsnamn. API-namnet och pluronamnet fylls i automatiskt. Ange en beskrivning (valfritt).
 
-   ![](assets/image2016-1-14-14-3a10-3a44.png)
+   ![](assets/create-marketo-custom-objects-16.png)
 
    >[!NOTE]
    >
    >Du kan redigera de här fälten när du skapar dem, men när de har sparats kan du bara redigera fältet Pluralnamn och reglaget Visa i Leaddetalj.
 
-1. Dra **Visa i Lead-detalj** skjutreglage som ska visas **Visa** om du vill visa anpassade objektdata på sidan Lead Database. Klicka **Spara**.
+1. Dra **Visa i Lead-detalj** skjutreglage som ska visas **Visa** om du vill visa anpassade objektdata på databassidan. Klicka **Spara**.
 
-   ![](assets/image2016-1-14-14-3a12-3a49.png)
+   ![](assets/create-marketo-custom-objects-17.png)
 
 1. Den anpassade objektinformationen visar det innehåll du har angett. Observera att det är i utkastläge.
 

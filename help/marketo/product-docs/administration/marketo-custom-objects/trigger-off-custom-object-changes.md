@@ -3,9 +3,9 @@ unique-page-id: 11378713
 description: Utlös anpassade objektändringar - Marketo Docs - produktdokumentation
 title: Utlös ändringar av anpassade objekt
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -30,27 +30,27 @@ I den smarta kampanjens lista kan du utlösa en flödesåtgärd när ett anpassa
 
 1. I Marketo går du till **Marknadsföringsaktiviteter.**
 
-   ![](assets/image2016-7-25-15-3a49-3a52.png)
+   ![](assets/trigger-off-custom-object-changes-1.png)
 
 1. Skapa eller öppna en befintlig smart kampanj och välj Smart lista.
 
-   ![](assets/image2016-7-25-16-3a9-3a19.png)
+   ![](assets/trigger-off-custom-object-changes-2.png)
 
 1. Sök efter den utlösare du behöver och dra den till arbetsytan.
 
-   ![](assets/image2016-7-25-16-3a16-3a43.png)
+   ![](assets/trigger-off-custom-object-changes-3.png)
 
 1. Markera utlösarattributet.
 
-   ![](assets/image2016-7-25-16-3a21-3a42.png)
+   ![](assets/trigger-off-custom-object-changes-4.png)
 
 1. Du kan också ange en begränsning.
 
-   ![](assets/image2016-9-6-14-3a25-3a22.png)
+   ![](assets/trigger-off-custom-object-changes-5.png)
 
 1. Och där är du. Ändringen sparas automatiskt.
 
-   ![](assets/image2016-9-6-14-3a25-3a54.png)
+   ![](assets/trigger-off-custom-object-changes-6.png)
 
    >[!NOTE]
    >
