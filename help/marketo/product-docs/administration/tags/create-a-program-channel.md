@@ -3,9 +3,9 @@ unique-page-id: 2950682
 description: Skapa en programkanal - Marketo Docs - produktdokumentation
 title: Skapa en programkanal
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 48c2d1deea84ee747ecc2453e770ad33dd49f578
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '428'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,13 @@ Ett program är ett specifikt marknadsföringsinitiativ. Kanalen är avsedd att 
 >
 >Läs mer om [program](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), det viktigaste elementet i Marketo.
 
-1. Under **Administratör** avsnitt, klicka **Taggar**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2014-9-24-12-3a57-3a27.png)
+   ![](assets/create-a-program-channel-1.png)
+
+1. Klicka **Taggar**.
+
+   ![](assets/create-a-program-channel-2.png)
 
    >[!NOTE]
    >
@@ -32,11 +36,11 @@ Ett program är ett specifikt marknadsföringsinitiativ. Kanalen är avsedd att 
 
 1. Klicka på **+** signera bredvid **Kanal** för att utöka och se befintliga kanaler.
 
-   ![](assets/image2014-9-24-12-3a58-3a33.png)
+   ![](assets/create-a-program-channel-3.png)
 
 1. Under **Nytt**, klicka **Ny kanal**.
 
-   ![](assets/image2014-9-24-12-3a58-3a53.png)
+   ![](assets/create-a-program-channel-4.png)
 
    >[!NOTE]
    >
@@ -60,7 +64,7 @@ Ett program är ett specifikt marknadsföringsinitiativ. Kanalen är avsedd att 
 
 1. Låt oss följa exemplet med partikanalen. Ge ditt nya namn **Kanal** och välj den programtyp som ska användas.
 
-   ![](assets/image2014-9-24-13-3a0-3a17.png)
+   ![](assets/create-a-program-channel-5.png)
 
    >[!NOTE]
    >
@@ -70,12 +74,13 @@ Ett program är ett specifikt marknadsföringsinitiativ. Kanalen är avsedd att 
    >
    >När du använder Händelse med webbinarium kommer systemmappningar att låsas (vilket krävs av webbinarieintegreringar) och kan inte redigeras.
 
-   Ange de två första programstatusnamnen och klicka sedan på Lägg till steg.
-   ![](assets/image2014-9-24-15-3a37-3a0.png)
+1. Ange de två första statusnamnen för programmet och klicka sedan på **Lägg till steg**.
+
+   ![](assets/create-a-program-channel-6.png)
 
 1. Ange ett annat program **Status** och **Steg** nummer och klicka sedan på **Lägg till steg**.
 
-   ![](assets/image2014-9-24-15-3a37-3a30.png)
+   ![](assets/create-a-program-channel-7.png)
 
    >[!TIP]
    >
@@ -83,7 +88,7 @@ Ett program är ett specifikt marknadsföringsinitiativ. Kanalen är avsedd att 
 
 1. Ange det sista programmet **Status** och **Steg** tal.
 
-   ![](assets/image2014-9-24-15-3a39-3a15.png)
+   ![](assets/create-a-program-channel-8.png)
 
    >[!NOTE]
    >
@@ -91,11 +96,11 @@ Ett program är ett specifikt marknadsföringsinitiativ. Kanalen är avsedd att 
 
 1. Välj **Status för mobilinloggning** for **Registrerad**.
 
-   ![](assets/image2014-9-24-15-3a39-3a43.png)
+   ![](assets/create-a-program-channel-9.png)
 
 1. Välj **Status för mobilinloggning** for **Anmäld**.
 
-   ![](assets/image2014-9-24-15-3a40-3a21.png)
+   ![](assets/create-a-program-channel-10.png)
 
    >[!NOTE]
    >
@@ -111,6 +116,6 @@ Ett program är ett specifikt marknadsföringsinitiativ. Kanalen är avsedd att 
 
 1. Välj **Lyckades** programstatus, klicka sedan på **Skapa**.
 
-   ![](assets/image2014-9-24-15-3a42-3a54.png)
+   ![](assets/create-a-program-channel-11.png)
 
    Snyggt gjort! När du skapar ett nytt program av den typen är den nya kanalen ett av alternativen.
