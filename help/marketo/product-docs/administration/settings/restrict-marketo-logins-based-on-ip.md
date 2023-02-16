@@ -3,9 +3,9 @@ unique-page-id: 2360297
 description: Begränsa Marketo-inloggningar baserat på IP - Marketo Docs - produktdokumentation
 title: Begränsa Marketo-inloggningar baserat på IP
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -22,13 +22,17 @@ Du kan begränsa eller göra det möjligt för användare att få åtkomst till 
 >
 >Informationen i den här artikeln gäller endast för direkta inloggningar på login.marketo.com. Det är för närvarande inte möjligt att tillämpa IP-begränsningar för enkel inloggning (SSO).
 
-1. Under **Administratör**, klicka **Inloggningsinställningar**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2014-9-16-12-3a57-3a56.png)
+   ![](assets/restrict-marketo-logins-based-on-ip-1.png)
+
+1. Klicka **Inloggningsinställningar**.
+
+   ![](assets/restrict-marketo-logins-based-on-ip-2.png)
 
 1. Klicka **Redigera IP-begränsningar**.
 
-   ![](assets/image2014-9-16-12-3a58-3a13.png)
+   ![](assets/restrict-marketo-logins-based-on-ip-3.png)
 
 1. Välj om du vill **Tillåt** eller **Blockera** anger du adressen/adresserna och klickar sedan på **Spara**.
 
@@ -45,6 +49,6 @@ Du kan begränsa eller göra det möjligt för användare att få åtkomst till 
    >
    >Du kan lägga till flera begränsningar, men de kan bara vara ALLA eller ALLA blockerade. Du kan inte blanda och matcha tillåtet och blockerat.
 
-   ![](assets/image2014-9-16-13-3a9-3a40.png)
+   ![](assets/restrict-marketo-logins-based-on-ip-4.png)
 
    Tack och lov är era marknadsföringsdata nu säkrare än någonsin!

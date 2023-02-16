@@ -3,7 +3,7 @@ unique-page-id: 10617187
 description: Sekretessinställningar - Marketo Docs - produktdokumentation
 title: Sekretessinställningar
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
@@ -43,17 +43,17 @@ Nedan visas exempel på en webbsida med en länk för att avanmäla sig och en l
 
 Här är en webbsida med en knapp med parametern &quot;?marketo_opt_out=true&quot; i länken opt-out.
 
-![](assets/opt-out-1.png)
+![](assets/understanding-privacy-settings-1.png)
 
 Du kan skapa och publicera en landningssida som en uppföljningssida för när du klickar på länken med parametern&quot;?marketo_opt_out=true&quot;.
 
-![](assets/opt-out-2.png)
+![](assets/understanding-privacy-settings-2.png)
 
 När någon klickar på länken lägger Marketo till en cookie med namnet **mkto_opt_out** till besökarens webbläsare som inaktiverar Munchkin-spårning för den besökare som klickar på länken med ovanstående parameter.
 
 Verifiera att du är en cookie och klicka på länken för att bekräfta att cookien kan placeras. Kontrollera sedan webbläsarens cookies för att bekräfta att **mkto_opt_out** cookie har lagts till.
 
-![](assets/opt-out-3.png)
+![](assets/understanding-privacy-settings-3.png)
 
 >[!NOTE]
 >

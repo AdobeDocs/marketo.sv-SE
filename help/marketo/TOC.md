@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
-source-wordcount: '8828'
+source-wordcount: '8827'
 ht-degree: 0%
 
 ---
@@ -194,7 +194,7 @@ ht-degree: 0%
          + [Länkrubriker för e-postspårning](product-docs/administration/settings/email-tracking-link-headers.md)
          + [Redigera prenumerationsinställningar](product-docs/administration/settings/edit-subscription-settings.md)
          + [Aktivera eller inaktivera funktioner för skatteschest](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
-         + [Aktivera anpassade URL:er för ditt konto (administration)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
+         + [Aktivera anpassade URL:er för ditt konto](product-docs/administration/settings/enable-personalized-urls-for-your-account.md)
          + [Valideringsregler för globala formulär](product-docs/administration/settings/global-form-validation-rules.md)
          + [Landningssidhuvuden](product-docs/administration/settings/landing-page-headers.md)
          + [Begränsa Marketo-inloggningar baserat på IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
