@@ -3,9 +3,9 @@ unique-page-id: 2359916
 description: Ändra ditt Marketo-lösenord - Marketo Docs - produktdokumentation
 title: Ändra ditt Marketo-lösenord
 exl-id: 06527ecf-b437-4d12-9254-ae0c95485d58
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
@@ -14,20 +14,22 @@ ht-degree: 0%
 
 Ändra ditt Marketo-lösenord med dessa enkla steg.
 
-1. Alla Marketo-användare kan klicka på sitt namn och **Mitt konto**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2015-11-10-10-3a40-3a8.png)
+   ![](assets/change-your-marketo-password-1.png)
 
-1. Administratörer kan även klicka **Administratör** och sedan **Ändra lösenord** om du vill ändra deras administratörslösenord.
+1. Klicka **Mitt konto**.
 
-   ![](assets/image2014-9-10-9-3a43-3a47.png)
+   ![](assets/change-your-marketo-password-2.png)
 
-1. Ange det gamla lösenordet och det nya lösenordet och klicka sedan på **Spara** när ditt nya lösenord uppfyller alla krav.
+1. Klicka **Ändra lösenord**.
 
-   ![](assets/image2014-9-10-9-3a44-3a2.png)
+   ![](assets/change-your-marketo-password-3.png)
 
-   Håll det hemligt! Håll det säkert!
+1. Ange det gamla lösenordet och det nya lösenordet och klicka sedan på **Spara**.
 
-   >[!TIP]
+   ![](assets/change-your-marketo-password-4.png)
+
+   >[!NOTE]
    >
-   >Vad är ett bra lösenord? En hel del bokstäver, siffror och symboler som &quot;M@rk3to!$ Gre@t&quot;. Förutom den där. Var kreativ och gör din egen.
+   >Notera lösenordskraven när du gör uppdateringen.

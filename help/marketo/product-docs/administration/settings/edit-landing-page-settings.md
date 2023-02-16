@@ -3,9 +3,9 @@ unique-page-id: 2359918
 description: Redigera inställningar för landningssida - Marketo Docs - produktdokumentation
 title: Redigera inställningar för landningssida
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -18,15 +18,21 @@ Du kan redigera ditt domännamn och din reservsida, aktivera eller inaktivera f�
 >
 >**Administratörsbehörigheter krävs**
 
-1. Under **Administratör**, klicka **Landningssidor**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2014-9-10-9-3a47-3a40.png)
+   ![](assets/edit-landing-page-settings-1.png)
+
+1. Klicka **Landningssidor**.
+
+   ![](assets/edit-landing-page-settings-2.png)
 
 1. I **Landningssidor** avsnitt, klicka **Redigera**.
 
-   ![](assets/image2014-9-10-9-3a47-3a12.png)
+   ![](assets/edit-landing-page-settings-3.png)
 
 1. Ange domän- och sidinformation.
+
+   ![](assets/edit-landing-page-settings-4.png)
 
    | Villkor | Definition |
    |---|---|
@@ -34,15 +40,13 @@ Du kan redigera ditt domännamn och din reservsida, aktivera eller inaktivera f�
    | Reservsida | Det är här du ska gå om landningssidan inte finns eller är nere. Läs mer om [reservsidor](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
    | Hemsida | Ange företagets webbplats-URL. |
 
-   ![](assets/three.png)
-
 1. Kontrollera **Formulärförifyllning** kryssrutan för att tillåta formulär att förifylla information för kända (cookifyllda) personer. Avmarkera för att blockera.
 
-   ![](assets/four.png)
+   ![](assets/edit-landing-page-settings-5.png)
 
 1. Om du vill förhindra att en skadlig webbplats verkar vara värd för ditt innehåll ska du kontrollera **Tillåt inte att Marketo-sidor bäddas in på externa webbsidor** kryssrutan.
 
-   ![](assets/five.png)
+   ![](assets/edit-landing-page-settings-6.png)
 
    >[!NOTE]
    >
@@ -52,6 +56,6 @@ Du kan redigera ditt domännamn och din reservsida, aktivera eller inaktivera f�
 
 1. När du har gjort dina val klickar du på **Spara.**
 
-   ![](assets/six.png)
+   ![](assets/edit-landing-page-settings-7.png)
 
    Bra jobbat! Dina landningssidor har nu rätt information och bör börja fungera direkt.

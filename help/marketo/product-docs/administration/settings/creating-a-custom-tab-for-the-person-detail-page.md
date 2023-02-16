@@ -3,9 +3,9 @@ unique-page-id: 2360305
 description: Skapa en anpassad flik för personinformationssidan - Marketo Docs - produktdokumentation
 title: Skapa en anpassad flik för personinformationssidan
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -14,21 +14,25 @@ ht-degree: 0%
 
 Om du råkar leta efter en viss uppsättning fält i persondetaljen om och om igen kan du skapa en anpassad layout som gör det enklare.
 
-1. Gå till **Administratör** och klicka **Fälthantering**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2014-9-16-16-3a41-3a41.png)
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
+
+1. Klicka **Fälthantering**.
+
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-2.png)
 
 1. Klicka på **Anpassad layoutare** -fliken.
 
-   ![](assets/image2014-9-16-16-3a41-3a55.png)
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-3.png)
 
 1. Hitta ett fält som du vill lägga till och dra det till arbetsytan.
 
-   ![](assets/three-1.png)
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-4.png)
 
 1. Fortsätt lägga till fält tills du har layouten som du vill ha den.
 
-   ![](assets/image2014-9-16-16-3a42-3a25.png)
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-5.png)
 
    >[!NOTE]
    >
@@ -36,8 +40,8 @@ Om du råkar leta efter en viss uppsättning fält i persondetaljen om och om ig
 
    Om du vill ta bort ett fält högerklickar du på det och klickar på **Ta bort**.
 
-   ![](assets/image2014-9-16-16-3a43-3a56.png)
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 
    Fantastiskt arbete! När du nu läser in en persons information kan du använda din anpassade layout för att komma åt den information som är viktig för dig.
 
-   ![](assets/six-1.png)
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-7.png)

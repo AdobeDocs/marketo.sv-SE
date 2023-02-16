@@ -3,9 +3,9 @@ unique-page-id: 2360217
 description: Ändra attributinställningar för analys - Marketo Docs - produktdokumentation
 title: Ändra attributinställningar för analys
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,17 @@ Ni kan ändra det sätt på vilket Marketo knyter kontakter till möjligheter ti
 
 De här inställningarna kommer att påverka rapporter i Intresseutforskaren under [Analys av affärsmöjligheter](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Affärsmöjlighetsanalys](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)och områden för Lead Analysis. Det här påverkar även rapporten för Program Analyzer.
 
-1. Under **Administratör** avsnitt, klicka **Analys av intäktscykler**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2014-9-24-11-3a55-3a19.png)
+   ![](assets/change-attribution-settings-for-analytics-1.png)
+
+1. Klicka **Analys av intäktscykler**.
+
+   ![](assets/change-attribution-settings-for-analytics-2.png)
 
 1. Klicka på **Redigera** länk under **Attribut**.
 
-   ![](assets/image2014-9-24-11-3a56-3a33.png)
+   ![](assets/change-attribution-settings-for-analytics-3.png)
 
    >[!TIP]
    >
@@ -30,7 +34,7 @@ De här inställningarna kommer att påverka rapporter i Intresseutforskaren und
 
 1. Välj ett alternativ och klicka på **Spara**.
 
-   ![](assets/image2014-9-24-11-3a57-3a39.png)
+   ![](assets/change-attribution-settings-for-analytics-4.png)
 
    >[!NOTE]
    >
