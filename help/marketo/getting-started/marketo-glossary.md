@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo-ordlista - Marketo Docs - produktdokumentation
 title: Marketo-ordlista
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 5f76c35490eba40bea39c66c8675860293041350
+source-git-commit: 499729a61dc033c430d31831dc14045b4674de98
 workflow-type: tm+mt
 source-wordcount: '4203'
 ht-degree: 0%
@@ -98,7 +98,7 @@ Nedan finns definitioner för många av de termer du kan stöta på när du anv�
   </tr> 
   <tr> 
    <td colspan="1"><strong>Beteendepoäng</strong></td> 
-   <td colspan="1">Ett punktvärde som tilldelats en person baserat på personens handlingar/beteende (t.ex. besök på en webbsida, klicka på en länk i ett e-postmeddelande, fylla i ett formulär osv.). Används ofta för att mäta en persons intresse för produkten eller företaget.</td> 
+   <td colspan="1">Ett punktvärde som tilldelats en person baserat på personens handlingar/beteende (t.ex. besök på en webbsida, klicka på en länk i ett e-postmeddelande, fylla i ett formulär osv.). Används vanligtvis för att mäta en persons intresse för din produkt eller ditt företag.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Blockeringslista</strong></td> 
@@ -171,7 +171,7 @@ Nedan finns definitioner för många av de termer du kan stöta på när du anv�
    <td colspan="1">I Marketo kan du duplicera flera olika typer av enheter i instansen. Du kan klona <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">program</a>, en <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">resurs inom ett program</a>, a <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">stream</a>, med mera.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname-administration.md" rel="nofollow"><strong>CNAME</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
    <td colspan="1">Den främre delen av URL:en. Det enda ordet (plus YourCompany.com) kallas för CNAME (t.ex. <em>info</em>.YourCompany.com/).</td> 
   </tr> 
   <tr> 
@@ -260,7 +260,7 @@ Nedan finns definitioner för många av de termer du kan stöta på när du anv�
   </tr> 
   <tr> 
    <td colspan="1"><strong>Demografisk poäng</strong></td> 
-   <td colspan="1">Ett punktvärde som tilldelas baserat på specifika attribut som personen har, t.ex. befattning, intäktsstorlek eller målbransch. Används vanligtvis för att mäta en persons passning med produkten eller företaget. </td> 
+   <td colspan="1">Ett punktvärde som tilldelas baserat på specifika attribut som personen har, t.ex. befattning, intäktsstorlek eller målbransch. Används vanligtvis för att mäta en persons passning med din produkt eller ditt företag. </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Design Studio</strong></td> 
@@ -280,7 +280,7 @@ Nedan finns definitioner för många av de termer du kan stöta på när du anv�
   </tr> 
   <tr> 
    <td colspan="1"><strong>Utkast</strong></td> 
-   <td colspan="1"><p>An <strong>e-post</strong> eller <strong>landningssida</strong> som inte har <strong>godkänd</strong> ännu. Utkast kan inte visas offentligt förrän de har godkänts. Du kan skicka ett utkast som ett test-e-postmeddelande (exempel), men inga analyser registreras. <br></p></td> 
+   <td colspan="1"><p>An <strong>e-post</strong> eller <strong>landningssida</strong> som inte har varit <strong>godkänd</strong> ännu. Utkast kan inte visas offentligt förrän de har godkänts. Du kan skicka ett utkast som ett test-e-postmeddelande (exempel), men inga analyser registreras. <br></p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Drip Campaign</strong></td> 
@@ -696,7 +696,7 @@ Nedan finns definitioner för många av de termer du kan stöta på när du anv�
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Anseende</strong></td> 
-   <td colspan="1"><p>Ett poängtal som består av olika signaler och/eller datapunkter. Anseendet kan vara knutet till en avsändares domän. <strong>innehåll</strong>, eller IP-adress, och påverkar <strong>leverans</strong>.</p></td> 
+   <td colspan="1"><p>Ett poängtal som består av olika signaler och/eller datapunkter. Anseendet kan vara knutet till en avsändares domän, <strong>innehåll</strong>, eller IP-adress, och påverkar <strong>leverans</strong>.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Returadress</strong></td> 
