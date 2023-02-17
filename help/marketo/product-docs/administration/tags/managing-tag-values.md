@@ -3,9 +3,9 @@ unique-page-id: 2360274
 description: Hantera taggvärden - Marketo Docs - Produktdokumentation
 title: Hantera taggvärden
 exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f24a669b10e67bbacf88e3e6cef97c21331695ef
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -24,29 +24,33 @@ ht-degree: 0%
 
 ## Lägga till taggvärden {#adding-tag-values}
 
-1. Under **Administratör**, klicka **Taggar**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2014-9-24-12-3a24-3a55.png)
+   ![](assets/managing-tag-values-1.png)
+
+1. Klicka **Taggar**.
+
+   ![](assets/managing-tag-values-2.png)
 
 1. Klicka **Nytt** sedan **Nytt taggvärde**.
 
-   ![](assets/image2014-9-24-12-3a25-3a23.png)
+   ![](assets/managing-tag-values-3.png)
 
 1. Välj **Taggtyp**.
 
-   ![](assets/image2014-9-24-12-3a26-3a2.png)
+   ![](assets/managing-tag-values-4.png)
 
 1. Ange **Värde** och klicka **Lägg till ytterligare**. Du kan lägga till så många värden du vill.
 
-   ![](assets/image2014-9-24-12-3a26-3a27.png)
+   ![](assets/managing-tag-values-5.png)
 
 1. Lägg till återstående värden och klicka på **Skapa**.
 
-   ![](assets/image2014-9-24-12-3a26-3a55.png)
+   ![](assets/managing-tag-values-6.png)
 
 1. Du borde se ändringarna direkt!
 
-   ![](assets/image2014-9-24-12-3a27-3a34.png)
+   ![](assets/managing-tag-values-7.png)
 
 ## Dölja taggvärden {#hiding-tag-values}
 
@@ -54,11 +58,11 @@ Taggar kan användas i äldre program. Du kan ta bort dem för framtida bruk gen
 
 1. Välj **Tagg** och väljer **Värde** du vill gömma dig.
 
-   ![](assets/image2014-9-24-12-3a28-3a25.png)
+   ![](assets/managing-tag-values-8.png)
 
 1. Under **Taggåtgärder**, markera **Dölj**.
 
-   ![](assets/image2014-9-24-12-3a29-3a4.png)
+   ![](assets/managing-tag-values-9.png)
 
 ## Visa dolda värden {#show-hidden-values}
 
@@ -66,6 +70,6 @@ Om du vill se dina dolda värden igen gör du följande:
 
 1. Markera rutan Visa dolda. När du har markerat det här alternativet kan du se det dolda värdet.
 
-   ![](assets/image2014-9-24-12-3a29-3a58.png)
+   ![](assets/managing-tag-values-10.png)
 
 Du kan sedan visa de värden som du vill använda i framtiden.
