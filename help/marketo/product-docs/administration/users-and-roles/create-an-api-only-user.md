@@ -3,9 +3,9 @@ unique-page-id: 2360207
 description: Skapa en användare med endast API - Marketo Docs - produktdokumentation
 title: Skapa endast en API-användare
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07ebe804d9888c214f9e1ae246ab80dafad54ea3
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -22,17 +22,21 @@ Om du vill integrera med Marketo via [REST API](https://developers.marketo.com/d
 >
 >**Administratörsbehörigheter krävs**
 
-1. Under **Administratör**, klicka **Användare och roller.**
+1. Gå till **Administratör** område.
 
-   ![](assets/image2014-9-17-9-3a31-3a31.png)
+   ![](assets/create-an-api-only-user-1.png)
+
+1. Klicka **Användare och roller**.
+
+   ![](assets/create-an-api-only-user-2.png)
 
 1. Klicka **Bjud in ny användare**.
 
-   ![](assets/image2014-9-17-9-3a32-3a3.png)
+   ![](assets/create-an-api-only-user-3.png)
 
 1. Ange e-post, förnamn och efternamn för den användare som bara är API. Klicka **Nästa**.
 
-   ![](assets/image2016-5-24-10-3a53-3a7.png)
+   ![](assets/create-an-api-only-user-4.png)
 
    >[!TIP]
    >
@@ -40,11 +44,11 @@ Om du vill integrera med Marketo via [REST API](https://developers.marketo.com/d
 
 1. Välj **Endast API** roll och kontrollera **Endast API** kryssrutan. Klicka **Nästa**.
 
-   ![](assets/four.png)
+   ![](assets/create-an-api-only-user-5.png)
 
 1. Klicka **Skicka**.
 
-   ![](assets/image2016-5-24-11-3a8-3a20.png)
+   ![](assets/create-an-api-only-user-6.png)
 
 >[!NOTE]
 >

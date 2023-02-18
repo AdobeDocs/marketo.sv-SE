@@ -3,9 +3,9 @@ unique-page-id: 2360203
 description: Skapa en användarroll endast för API - Marketo Docs - produktdokumentation
 title: Skapa en användarroll endast för API
 exl-id: 731e3e85-8f3d-4c76-91be-1506697211a1
-source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
+source-git-commit: 07ebe804d9888c214f9e1ae246ab80dafad54ea3
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,21 +18,21 @@ Om du vill integrera med Marketo via [REST API](https://developers.marketo.com/d
 >
 >**Administratörsbehörigheter krävs**
 
-1. I My Marketo klickar du på **Administratör**.
+1. Gå till **Administratör** område.
 
-   ![](assets/adminhand-1.png)
+   ![](assets/create-an-api-only-user-role-1.png)
 
-1. Klicka på under Dokumentskydd **Användare och roller**.
+1. Klicka **Användare och roller**.
 
-   ![](assets/two.png)
+   ![](assets/create-an-api-only-user-role-2.png)
 
 1. Klicka på **Roller** och sedan **Ny roll**.
 
-   ![](assets/image2014-9-16-13-3a47-3a12.png)
+   ![](assets/create-an-api-only-user-role-3.png)
 
 1. Ange ett rollnamn, markera de API-åtkomstbehörigheter som du vill ge och klicka på **Skapa.**
 
-   ![](assets/image2014-9-16-13-3a47-3a36.png)
+   ![](assets/create-an-api-only-user-role-4.png)
 
 >[!TIP]
 >
