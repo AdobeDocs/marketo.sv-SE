@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation – Marketo Docs – produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 130102aefb0b6c12dc0ea87fdf6fef682e90b44c
+source-git-commit: d744ef8f0798bfef540f49e2a6890eaa307569c4
 workflow-type: tm+mt
-source-wordcount: '623'
+source-wordcount: '622'
 ht-degree: 2%
 
 ---
@@ -33,8 +33,8 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>
