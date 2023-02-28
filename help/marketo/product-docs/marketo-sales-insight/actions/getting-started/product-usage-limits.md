@@ -2,9 +2,9 @@
 description: Begränsningar för produktanvändning - Marketo Docs - produktdokumentation
 title: Begränsningar för produktanvändning
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
-source-git-commit: b27cf5eae178b5b3da27e0c15c98eb3c3470cd5f
+source-git-commit: 152b8e4f39dd9036e9479dc58b21d20c46c9e658
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '192'
 ht-degree: 13%
 
 ---
@@ -80,6 +80,11 @@ Följande begränsningar gäller för användning av utökade säljengagemangsfu
   <td>Grupper</td>
   <td>per användare</td>
   <td>50</td>
+ </tr>
+ <tr>
+  <td>Personer per grupp</td>
+  <td>per grupp</td>
+  <td>200</td>
  </tr>
  <tr>
   <td>Överförda bilagor</td>
