@@ -5,8 +5,8 @@ title: Versionsschema
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 source-git-commit: 612c8ddc8858c61a62fc5c7b10c3868a5e1dd089
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

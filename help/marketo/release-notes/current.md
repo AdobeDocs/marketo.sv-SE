@@ -4,8 +4,8 @@ title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 source-git-commit: d744ef8f0798bfef540f49e2a6890eaa307569c4
 workflow-type: tm+mt
-source-wordcount: '622'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
