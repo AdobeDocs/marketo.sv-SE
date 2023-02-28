@@ -2,7 +2,7 @@
 description: Förfallotid för lokala tillgångar - Marketo Docs - produktdokumentation
 title: Förfallotid för lokal resurs
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
-source-git-commit: 48a49faa6a1fde1e9ac391c2bf0800123f6a5bac
+source-git-commit: 10873ee50aca443d481117ed66c90930a1cb4b4b
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Innan du kan schemalägga förfallodatum för en mediefil måste din Marketo-rol
 
    ![](assets/local-asset-expiration-6.png)
 
-1. Ställ in en tid. Du måste schemalägga en tid på minst 20 minuter i framtiden (glöm inte att ange AM/PM). Klicka **[!UICONTROL Confirm]** när det är klart.
+1. Ställ in en tid. Du måste schemalägga en tid på minst 15 minuter i framtiden (glöm inte att ange AM/PM). Klicka **[!UICONTROL Confirm]** när det är klart.
 
    ![](assets/local-asset-expiration-7.png)
 

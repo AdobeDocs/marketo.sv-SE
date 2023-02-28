@@ -3,9 +3,9 @@ unique-page-id: 1147110
 description: Clone a Program - Marketo Docs - produktdokumentation
 title: Klona ett program
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 10873ee50aca443d481117ed66c90930a1cb4b4b
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 0%
 # Klona ett program {#clone-a-program}
 
 Klona snabbt och enkelt ett helt program och allt dess material i stället för att manuellt återskapa allting.
-
->[!PREREQUISITES]
->
->Innan du ger dig in, läs mer om [bästa metoderna för att undvika korruption i klonade tillgångar](https://nation.marketo.com/t5/Knowledgebase/Avoiding-Corruption-in-Cloned-Assets/ta-p/249729).
 
 1. Sök efter och välj det program som du vill klona, sedan under **Programåtgärder** klicka **Klona**.
 
