@@ -3,9 +3,9 @@ unique-page-id: 2359906
 description: Hantera Marketo-användare - Marketo Docs - produktdokumentation
 title: Hantera Marketo-användare
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---
@@ -14,25 +14,29 @@ ht-degree: 0%
 
 ## Skapa användare {#create-users}
 
-1. Gå till **Administratör** och klicka **Användare och roller**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2014-9-9-11-3a34-3a58.png)
+   ![](assets/managing-marketo-users-1.png)
+
+1. Klicka **Användare och roller**.
+
+   ![](assets/managing-marketo-users-2.png)
 
 1. Klicka **Bjud in ny användare**.
 
-   ![](assets/image2014-9-9-11-3a35-3a15.png)
+   ![](assets/managing-marketo-users-3.png)
 
 1. Ange **E-postadress**, **Förnamn** och **Efternamn**.
 
-   ![](assets/image2016-5-24-9-3a45-3a30.png)
+   ![](assets/managing-marketo-users-4.png)
 
 1. Du kan också ange en orsak till inbjudan och välja ett förfallodatum i dialogrutan **Åtkomst upphör** med datumväljaren.
 
-   ![](assets/image2016-6-29-15-3a52-3a18.png)
+   ![](assets/managing-marketo-users-5.png)
 
 1. Klicka **Nästa**.
 
-   ![](assets/image2016-5-24-9-3a58-3a10.png)
+   ![](assets/managing-marketo-users-6.png)
 
    >[!TIP]
    >
@@ -44,17 +48,17 @@ ht-degree: 0%
 
 1. Välj **Roll** efter eget val och klicka **Nästa**.
 
-   ![](assets/image2016-5-24-10-3a1-3a33.png)
+   ![](assets/managing-marketo-users-7.png)
 
 1. Redigera inbjudningsmeddelandet om det behövs. Klicka **Skicka**.
 
-   ![](assets/image2016-5-24-10-3a3-3a56.png)
+   ![](assets/managing-marketo-users-8.png)
 
    >[!NOTE]
    >
    >E-postadressen/inloggningen måste vara unik; om du redan har använt den i en sandlådeinstans måste du använda en annan i produktionen och vice versa.
 
-   ![](assets/image2016-5-24-10-3a21-3a57.png)
+   ![](assets/managing-marketo-users-9.png)
 
    >[!NOTE]
    >
@@ -64,35 +68,41 @@ Den nya användaren visas nu på fliken Användare och får ett e-postmeddelande
 
 ## Ta bort användare {#delete-users}
 
-1. Gå till Admin och klicka på **Användare och roller**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2014-9-9-11-3a36-3a21.png)
+   ![](assets/managing-marketo-users-10.png)
+
+1. Klicka **Användare och roller**.
+
+   ![](assets/managing-marketo-users-11.png)
 
 1. Markera den användare som du vill ta bort och klicka på **Ta bort användare**.
 
-   ![](assets/image2014-9-9-11-3a36-3a36.png)
+   ![](assets/managing-marketo-users-12.png)
 
 1. Bekräfta genom att klicka **OK**.
 
-   ![](assets/image2014-9-9-11-3a36-3a51.png)
+   ![](assets/managing-marketo-users-13.png)
 
 ## Återställ användarlösenord {#reset-user-passwords}
 
-1. Gå till Admin och klicka på **Användare och roller**.
+1. Gå till området Admin.
 
-   ![](assets/image2014-9-9-11-3a41-3a0.png)
+   ![](assets/managing-marketo-users-14.png)
+
+1. Klicka **Användare och roller**.
+
+   ![](assets/managing-marketo-users-15.png)
 
 1. Välj en användare och klicka på **Återställ lösenord**.
 
-   ![](assets/image2014-9-9-11-3a41-3a19.png)
+   ![](assets/managing-marketo-users-16.png)
 
 1. Klicka **Stäng** för att stänga uppmaningen.
 
-   ![](assets/image2014-9-9-11-3a41-3a50.png)
+   ![](assets/managing-marketo-users-17.png)
 
 Användaren får ett e-postmeddelande med instruktioner för lösenordsåterställning.
-
-![](assets/image2014-9-9-11-3a45-3a53.png)
 
 >[!TIP]
 >
@@ -100,17 +110,21 @@ Användaren får ett e-postmeddelande med instruktioner för lösenordsåterstä
 
 ## Ändra behörigheter och redigera användarinformation {#change-permissions-and-edit-user-information}
 
-1. Gå till **Administratör** och klicka **Användare och roller.**
+1. Gå till **Administratör** område.
 
-   ![](assets/image2014-9-9-11-3a37-3a5.png)
+   ![](assets/managing-marketo-users-18.png)
+
+1. Klicka **Användare och roller**.
+
+   ![](assets/managing-marketo-users-19.png)
 
 1. Välj en användare och klicka på **Redigera användare**.
 
-   ![](assets/image2014-9-9-11-3a37-3a16.png)
+   ![](assets/managing-marketo-users-20.png)
 
 1. Du kan redigera användarinformation och ändra den associerade rollen. Klicka **Spara**.
 
-   ![](assets/image2014-9-9-11-3a37-3a31.png)
+   ![](assets/managing-marketo-users-21.png)
 
 >[!CAUTION]
 >

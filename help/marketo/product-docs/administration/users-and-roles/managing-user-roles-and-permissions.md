@@ -3,9 +3,9 @@ unique-page-id: 2359909
 description: Hantera användarroller och behörigheter - Marketo Docs - Produktdokumentation
 title: Hantera användarroller och behörigheter
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
-source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
+source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
@@ -38,17 +38,21 @@ Om du använder Marketo med Adobe Identity, listan över profilbeskrivningar [fi
 
 Du kan tilldela roller till en användare när du [skapa användare för första gången](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) eller av [redigera en befintlig användare](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
 
-1. Om du vill redigera en befintlig användare går du till **Administratör** och klicka **Användare och roller**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2014-9-9-18-3a7-3a32.png)
+   ![](assets/managing-user-roles-and-permissions-1.png)
+
+1. Klicka **Användare och roller**.
+
+   ![](assets/managing-user-roles-and-permissions-2.png)
 
 1. I listan väljer du den användare du vill redigera och klickar på **Redigera användare**.
 
-   ![](assets/image2014-9-9-18-3a7-3a42.png)
+   ![](assets/managing-user-roles-and-permissions-3.png)
 
 1. Under **Roller** väljer du de roller du vill tilldela användaren, baserat på de behörigheter användaren behöver, och klickar på **Spara**.
 
-   ![](assets/image2014-9-9-18-3a7-3a57.png)
+   ![](assets/managing-user-roles-and-permissions-4.png)
 
    >[!NOTE]
    >
@@ -58,41 +62,49 @@ Du kan tilldela roller till en användare när du [skapa användare för första
 
 Ibland har din organisation mycket specifika medarbetare som kräver en anpassad kombination av behörigheter.
 
-1. Om du vill skapa en ny användarroll går du till Admin och klickar på **Användare och roller**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2014-9-9-18-3a8-3a12.png)
+   ![](assets/managing-user-roles-and-permissions-5.png)
+
+1. Klicka **Användare och roller**.
+
+   ![](assets/managing-user-roles-and-permissions-6.png)
 
 1. Klicka på **Roller** -fliken.
 
-   ![](assets/image2014-9-9-18-3a8-3a22.png)
+   ![](assets/managing-user-roles-and-permissions-7.png)
 
 1. Klicka **Ny roll**.
 
-   ![](assets/image2014-9-9-18-3a8-3a38.png)
+   ![](assets/managing-user-roles-and-permissions-8.png)
 
 1. Ange **Rollnamn**, a **Beskrivning** (valfritt) och välj de behörigheter som användare med den här rollen behöver.
 
-   ![](assets/image2014-9-9-18-3a9-3a3.png)
+   ![](assets/managing-user-roles-and-permissions-9.png)
 
 ## Redigera en roll {#edit-a-role}
 
 Om du behöver ändra behörigheterna som är kopplade till en befintlig roll kan du redigera rollen.
 
-1. Gå till **Administratör** och klicka **Användare och roller**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2014-9-9-18-3a9-3a15.png)
+   ![](assets/managing-user-roles-and-permissions-10.png)
+
+1. Klicka **Användare och roller**.
+
+   ![](assets/managing-user-roles-and-permissions-11.png)
 
 1. Klicka på **Roller** -fliken.
 
-   ![](assets/image2014-9-9-18-3a9-3a26.png)
+   ![](assets/managing-user-roles-and-permissions-12.png)
 
 1. Välj den roll du vill ändra i listan och klicka på **Redigera roll**.
 
-   ![](assets/image2014-9-9-18-3a9-3a40.png)
+   ![](assets/managing-user-roles-and-permissions-13.png)
 
 1. Ändra **Rollnamn** och **Beskrivning** vid behov, och sedan ändra urvalet av associerade **Behörigheter**.
 
-   ![](assets/image2014-9-9-18-3a10-3a3.png)
+   ![](assets/managing-user-roles-and-permissions-14.png)
 
    >[!NOTE]
    >
@@ -102,18 +114,22 @@ Om du behöver ändra behörigheterna som är kopplade till en befintlig roll ka
 
 Om en roll blir onödig kan du ta bort den.
 
-1. Gå till Admin och klicka på **Användare och roller**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2014-9-9-18-3a10-3a15.png)
+   ![](assets/managing-user-roles-and-permissions-15.png)
+
+1. Klicka **Användare och roller**.
+
+   ![](assets/managing-user-roles-and-permissions-16.png)
 
 1. Klicka på **Roller** -fliken.
 
-   ![](assets/image2014-9-9-18-3a10-3a27.png)
+   ![](assets/managing-user-roles-and-permissions-17.png)
 
 1. I listan väljer du den roll du vill ta bort och klickar på **Ta bort roll**.
 
-   ![](assets/image2014-9-9-18-3a10-3a39.png)
+   ![](assets/managing-user-roles-and-permissions-18.png)
 
 1. Klicka **Ta bort** för att bekräfta.
 
-   ![](assets/image2014-9-9-18-3a10-3a50.png)
+   ![](assets/managing-user-roles-and-permissions-19.png)
