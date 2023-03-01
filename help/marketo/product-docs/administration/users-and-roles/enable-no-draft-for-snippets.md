@@ -3,9 +3,9 @@ unique-page-id: 10095636
 description: Aktivera No-draft för kodfragment - Marketo Docs - produktdokumentation
 title: Aktivera No-draft för kodfragment
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
-source-git-commit: 27eb6dedaae60616fe871d0a3ac4f38b5b4ecfd4
+source-git-commit: 247452f2149dee1680bb15800a39f6686aa324f2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -24,25 +24,29 @@ Inget utkast aktiveras automatiskt för alla administratörsroller. En administr
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **Administratör** och klicka **Användare och roller**.
+1. Gå till **Administratör** område.
 
-   ![](assets/usersandroles.png)
+   ![](assets/enable-no-draft-for-snippets-1.png)
+
+1. Klicka **Användare och roller**.
+
+   ![](assets/enable-no-draft-for-snippets-2.png)
 
 1. Gå till **Roller** väljer du en roll och klickar sedan på **Redigera roll**.
 
-   ![](assets/editrole2.png)
+   ![](assets/enable-no-draft-for-snippets-3.png)
 
 1. Expandera **Access Design Studio** alternativ.
 
-   ![](assets/expanddesignstudio.png)
+   ![](assets/enable-no-draft-for-snippets-4.png)
 
 1. Expandera **Åtkomstfragment** alternativ.
 
-   ![](assets/expandsnippet.png)
+   ![](assets/enable-no-draft-for-snippets-5.png)
 
 1. Expandera **Godkänn fragment** behörighet och kontrollera **Ej utkast** box. Klicka sedan på **Spara**.
 
-   ![](assets/2017-06-15-10-35-04.png)
+   ![](assets/enable-no-draft-for-snippets-6.png)
 
 >[!TIP]
 >
