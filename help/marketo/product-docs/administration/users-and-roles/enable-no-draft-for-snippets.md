@@ -24,29 +24,25 @@ Inget utkast aktiveras automatiskt för alla administratörsroller. En administr
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **Administratör** område.
+1. Gå till **Administratör** och klicka **Användare och roller**.
 
-   ![](assets/enable-no-draft-for-snippets-1.png)
-
-1. Klicka **Användare och roller**.
-
-   ![](assets/enable-no-draft-for-snippets-2.png)
+   ![](assets/usersandroles.png)
 
 1. Gå till **Roller** väljer du en roll och klickar sedan på **Redigera roll**.
 
-   ![](assets/enable-no-draft-for-snippets-3.png)
+   ![](assets/editrole2.png)
 
 1. Expandera **Access Design Studio** alternativ.
 
-   ![](assets/enable-no-draft-for-snippets-4.png)
+   ![](assets/expanddesignstudio.png)
 
 1. Expandera **Åtkomstfragment** alternativ.
 
-   ![](assets/enable-no-draft-for-snippets-5.png)
+   ![](assets/expandsnippet.png)
 
 1. Expandera **Godkänn fragment** behörighet och kontrollera **Ej utkast** box. Klicka sedan på **Spara**.
 
-   ![](assets/enable-no-draft-for-snippets-6.png)
+   ![](assets/2017-06-15-10-35-04.png)
 
 >[!TIP]
 >
