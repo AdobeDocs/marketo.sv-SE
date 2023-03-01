@@ -3,9 +3,9 @@ unique-page-id: 7512524
 description: Best Practices for Smart Lists - Marketo Docs - produktdokumentation
 title: Bästa praxis för smarta listor
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f9394067e74868ace9896cfe087fa624e5eda62c
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '566'
 ht-degree: 0%
 
 ---
@@ -20,10 +20,10 @@ För att göra dem enkla att arbeta med och optimera prestanda har vi skapat en 
 >
 >**Alla kunder är olika.** Ju större databas, desto mer bearbetning sker. Ju fler aktiviteter du har lagrat, desto längre tid tar det att söka igenom dem.
 >
->Om du är långsam kan du prova med tipsen nedan. Om problemet kvarstår kontaktar du [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Om du är långsam kan du prova med tipsen nedan. Om problemet kvarstår kontaktar du [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. **Begränsa historik -** Historikfilter (alias Aktivitetsfilter) är bland de mest resurskrävande och tidskrävande åtgärderna. Om du måste använda dem kan du försöka begränsa datumintervallet till så kort som möjligt, vilket minskar den sökbara datauppsättningen.
-1. **Begränsa kapslade smarta listor -** När du skapar en ny smart lista bör du begränsa mängden &quot;Medlem i smart lista&quot;-filter som används. Detta kallas att kapsla smarta listor och varje smart lista som refereras ökar bearbetningstiden. Referera i stället till statiska listor eller använd [segmentering](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+1. **Begränsa historik -** Historikfilter (alias Aktivitetsfilter) är bland de mest resurskrävande och tidskrävande åtgärderna. Om du måste använda dem kan du försöka begränsa datumintervallet till så kort som möjligt, vilket minskar den sökbara datauppsättningen. Datumintervall ersätter inte heller kvarhållningsperioder. Exempel: Om aktiviteten som du frågar har en kvarhållningsperiod på 90 dagar och du väljer &quot;de senaste 100 dagarna&quot; returneras endast resultat från de senaste 90 dagarna. Kvarhållningsperioder för aktivitet [finns här](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy/ta-p/251480){target="_blank"}.
+1. **Begränsa kapslade smarta listor -** När du skapar en ny smart lista bör du begränsa mängden &quot;Medlem i smart lista&quot;-filter som används. Detta kallas att kapsla smarta listor och varje smart lista som refereras ökar bearbetningstiden. Referera i stället till statiska listor eller använd [segmentering](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md){target="_blank"}.
 1. **Använd positiva över negativa operatorer** Även om&quot;inte&quot;-filter är tillgängliga måste de söka igenom hela datauppsättningen i din instans, vilket kan vara extremt tidskrävande. Positiva&quot;is&quot;-filter kan utnyttja effektivare sökalgoritmer.
 1. **Undvik &quot;contains&quot; -** Om du bara har partiella data kommer &quot;börjar med&quot;-kvalificerare att ge mycket snabbare resultat än &quot;innehåller&quot;. &quot;Is&quot; går ännu snabbare. Undvik att använda&quot;contains&quot; med flera värden. kan de båda samtidigt göra en kampanj ännu långsammare.
 1. **Använd slumpmässigt prov -** Random Sample är ett specialfilter. Använd den fristående för att placera ut dina medarbetare i färdiga listor. Använd sedan&quot;Member of List&quot; för att göra den smarta listan supersnabb. Slumpmässigt prov **NOT** arbeta med kapslade smarta listor. Filtret Slumpmässigt exempel fungerar inte om det är den smarta listan som refereras till för filtret&quot;Medlem i smart lista&quot;.
@@ -35,4 +35,4 @@ För att göra dem enkla att arbeta med och optimera prestanda har vi skapat en 
 
 >[!TIP]
 >
->Marketo kan användas på många sätt och vissa tekniker är bättre för dig och ditt företag. Överväg [Marketo professionella tjänster](https://pages2.marketo.com/72-hour-survival-guide.html) för att göra er investering ännu bättre.
+>Marketo kan användas på många sätt och vissa tekniker är bättre för dig och ditt företag. Överväg [Marketo professionella tjänster](https://pages2.marketo.com/72-hour-survival-guide.html){target="_blank"} för att göra er investering ännu bättre.
