@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 130102aefb0b6c12dc0ea87fdf6fef682e90b44c
+source-git-commit: b95557cc3b83870c67a3292824a31a64e5ec0bc8
 workflow-type: tm+mt
 source-wordcount: '8831'
 ht-degree: 0%
@@ -220,8 +220,8 @@ ht-degree: 0%
          + [Hantera Marketo-användare](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Hantera användarroller och behörigheter](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [Exportera roller och behörigheter](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
-         + [Beskrivningar av rollbehörigheter](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md)
-         + [Aktivera No-draft för kodfragment](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
+         + [Beskrivningar av rollbehörigheter](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
+         + [Aktivera No-draft för kodfragment](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
       + Arbetsytor och personpartitioner {#workspaces-and-person-partitions}
          + [Arbetsytor och personpartitioner](product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
          + [Tillåt användaråtkomst till en arbetsyta](product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)
