@@ -3,7 +3,7 @@ unique-page-id: 11370952
 description: Versionsinformation -Spring '16 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - våren 16
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
 workflow-type: tm+mt
 source-wordcount: '799'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Skapa fantastiska meddelanden i appen direkt inifrån Marketo. Definiera exakt v
 
 ![](assets/pasted-image-at-2016-05-24-09-45-am.png)
 
-## [Inga utkast](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md) {#no-draft-snippets}
+## [Inga utkast](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md) {#no-draft-snippets}
 
 Nu är det dags att omgodkänna allt varje gång ett textutdrag uppdateras! Med No-Draft får alla e-postmeddelanden och landningssidor som använder ett utdrag kodfragmentsuppdateringar och deras tidigare status bibehålls. Varje gång du godkänner ett fragment kan du välja att köra No-Draft och uppdatera allt eller skapa utkast. Det är upp till dig! No-Draft blir tillgängligt för alla kunder och styrs av ett nytt tillstånd i Admin.
 

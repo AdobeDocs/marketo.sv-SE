@@ -3,7 +3,7 @@ unique-page-id: 1147358
 description: Lägg till ett kodfragment i ett e-postmeddelande - Marketo Docs - produktdokumentation
 title: Lägga till ett kodfragment i ett e-postmeddelande
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
@@ -42,6 +42,6 @@ Kodavsnitt är återanvändbara block med formaterad text och grafik som du kan 
 
    >[!NOTE]
    >
-   >Varje gång du uppdaterar och godkänner fragmentet visas ändringarna i e-postmeddelandet. E-postmeddelandet skrivs ut om du inte godkänner kodavsnittet med [Ej utkast](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md).
+   >Varje gång du uppdaterar och godkänner fragmentet visas ändringarna i e-postmeddelandet. E-postmeddelandet skrivs ut om du inte godkänner kodavsnittet med [Ej utkast](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md).
 
 Det här är ett snabbt och enkelt sätt att återanvända dynamiskt innehåll.

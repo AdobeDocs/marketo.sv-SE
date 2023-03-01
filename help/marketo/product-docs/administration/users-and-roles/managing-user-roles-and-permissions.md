@@ -3,7 +3,7 @@ unique-page-id: 2359909
 description: Hantera användarroller och behörigheter - Marketo Docs - Produktdokumentation
 title: Hantera användarroller och behörigheter
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
-source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
+source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
 workflow-type: tm+mt
 source-wordcount: '486'
 ht-degree: 0%
@@ -56,7 +56,7 @@ Du kan tilldela roller till en användare när du [skapa användare för första
 
    >[!NOTE]
    >
-   >Mer information om de olika rollerna finns i  [Beskrivningar av rollbehörigheter](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md).
+   >Mer information om de olika rollerna finns i [Beskrivningar av rollbehörigheter](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md).
 
 ## Skapa en ny roll {#create-a-new-role}
 

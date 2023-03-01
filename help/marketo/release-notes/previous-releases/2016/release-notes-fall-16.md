@@ -3,7 +3,7 @@ unique-page-id: 11384018
 description: Versionsinformation -höst 16 - Marketo Docs - produktdokumentation
 title: Versionsinformation - höst 16
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
 workflow-type: tm+mt
 source-wordcount: '683'
 ht-degree: 0%
@@ -58,7 +58,7 @@ I den här versionen kan du även hantera attribut och poäng för namngivna kon
 
 Granskningsspårning ger en omfattande historik över de ändringar som gjorts i din Marketo-prenumeration. Vi har lagt till ytterligare funktioner för spårning av program samt tagit del av viktig ändringsinformation för smarta kampanjer, smarta listor och ändringar som gjorts för användare och roller.
 
-## [Nya behörigheter](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md) {#new-permissions}
+## [Nya behörigheter](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md) {#new-permissions}
 
 **Låt e-postmeddelandet fungera**
 
