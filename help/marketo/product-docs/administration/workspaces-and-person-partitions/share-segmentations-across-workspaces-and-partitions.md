@@ -3,7 +3,7 @@ unique-page-id: 7515767
 description: Dela segment mellan arbetsytor och partitioner - Marketo Docs - produktdokumentation
 title: Dela segment mellan arbetsytor och partitioner
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4d4d87d2a03bc0966a6e77d97cb68a2c38a3c676
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 0%
@@ -77,7 +77,7 @@ När du har konfigurerat dessa profiler (_och_ om du använder arbetsytor) bör 
 
 1. Markera den eller de arbetsytor som du vill dela mappen med. Klicka **Spara**.
 
-   ![](assets/image2015-5-27-11-3a6-3a40.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions.png)
 
    >[!NOTE]
    >
