@@ -3,9 +3,9 @@ unique-page-id: 2360309
 description: Förstå arbetsytor och personpartitioner - Marketo Docs - produktdokumentation
 title: Arbetsytor och personpartitioner
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '520'
 ht-degree: 0%
 
 ---
@@ -43,25 +43,29 @@ Så här delar du resurser mellan arbetsytor. Det fungerar på samma sätt för 
 >
 >Den överordnade mappen som innehåller dina resurser är den enda mappen som kan delas, inte de underordnade mapparna.
 
-1. Skapa en ny mapp.
+1. Klicka på Databas.
 
-   ![](assets/one.png)
+   ![](assets/understanding-workspaces-and-person-partitions-1.png)
 
-1. Namnge mappen som du vill dela.
+1. Högerklicka på segmenteringsmappen och klicka på **Ny mapp**.
 
-   ![](assets/two.png)
+   ![](assets/understanding-workspaces-and-person-partitions-2.png)
+
+1. Namnge mappen och klicka på **Skapa**.
+
+   ![](assets/understanding-workspaces-and-person-partitions-3.png)
 
 1. Flytta de resurser som du vill dela till mappen.
 
-   ![](assets/three.png)
+   ![](assets/understanding-workspaces-and-person-partitions-4.png)
 
 1. Högerklicka på mappen och välj **Dela mapp**.
 
-   ![](assets/four.png)
+   ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
 1. Markera arbetsytan/arbetsytorna som du vill dela mappen med och klicka på **Spara**. I dialogrutan Dela mapp visas endast arbetsytor som du har behörighet att visa.
 
-   ![](assets/image2015-5-27-11-3a6-3a40.png)
+   ![](assets/understanding-workspaces-and-person-partitions-6.png)
 
    >[!NOTE]
    >

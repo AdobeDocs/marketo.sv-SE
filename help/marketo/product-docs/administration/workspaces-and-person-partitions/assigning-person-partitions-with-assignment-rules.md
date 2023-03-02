@@ -3,9 +3,9 @@ unique-page-id: 2360327
 description: Tilldela personpartitioner med tilldelningsregler - Marketo Docs - produktdokumentation
 title: Tilldela personpartitioner med tilldelningsregler
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -26,29 +26,33 @@ När du använder personpartitioner ska du ställa in tilldelningsregler för at
 >
 >Endast personer som har skapats i Marketo från din CRM och via SOAP API:t kommer att ha tilldelningsregler tillämpade på dem.
 
-1. Klicka på Arbetsytor och partitioner under Admin.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2014-9-17-10-3a32-3a55.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-1.png)
 
-1. Under **Personpartitioner** flik, klicka på **Uppdragsregler**.
+1. Klicka **Arbetsytor och partitioner**.
 
-   ![](assets/two-6.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-2.png)
+
+1. Under **Personpartitioner** flik, klicka **Uppdragsregler**.
+
+   ![](assets/assigning-person-partitions-with-assignment-rules-3.png)
 
 1. Klicka **Lägg till alternativ** för att lägga till villkor för att dirigera personer till personpartitioner.
 
-   ![](assets/three-6.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-4.png)
 
 1. Markera fältet som villkoret ska byggas på.
 
-   ![](assets/four-5.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-5.png)
 
 1. Välj önskad operator och ange ett värde.
 
-   ![](assets/five-1.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-6.png)
 
 1. Markera den personpartition som du vill att de personer som uppfyller villkoren ska ingå i.
 
-   ![](assets/six-1.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-7.png)
 
    >[!NOTE]
    >
@@ -56,7 +60,7 @@ När du använder personpartitioner ska du ställa in tilldelningsregler för at
 
 1. Klicka **Spara**.
 
-   ![](assets/seven.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-8.png)
 
 Och där har du den! Du har tilldelat regler för att fylla dina personpartitioner med personer!
 
