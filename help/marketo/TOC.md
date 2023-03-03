@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: e4bd83abfeba54a777548926799f541b7b798ae5
+source-git-commit: f249988baa444b5e48a497225128a0771660649e
 workflow-type: tm+mt
 source-wordcount: '8832'
 ht-degree: 0%
@@ -1216,7 +1216,7 @@ ht-degree: 0%
          + [Är Sales Connect kompatibelt med Salesforce Lightning?](product-docs/marketo-sales-connect/faq/is-sales-connect-compatible-with-salesforce-lightning.md)
          + [Vilka är villkoren för tjänsten Sales Connect?](product-docs/marketo-sales-connect/faq/what-are-the-sales-connect-terms-of-service.md)
          + [Vad är Sales Connect och Highspot Integration?](product-docs/marketo-sales-connect/faq/what-is-the-sales-connect-and-highspot-integration.md)
-         + [Vilka webbläsare stöder Sales Insight-åtgärder?](product-docs/marketo-sales-connect/faq/which-browsers-does-sales-insight-actions-support.md)
+         + [Vilka är de senaste klientversionerna?](product-docs/marketo-sales-connect/faq/what-are-the-latest-client-versions.md)
          + [Varför skickas inga kontakter till Sales Connect?](product-docs/marketo-sales-connect/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-connect.md)
          + [Varför kan jag inte ta bort en kontakt?](product-docs/marketo-sales-connect/faq/why-cant-i-delete-a-contact.md)
          + [Varför skickades inte alla mina kontakter till Sales Connect?](product-docs/marketo-sales-connect/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-connect.md)
@@ -1369,7 +1369,7 @@ ht-degree: 0%
             + [Hur hanterar Sales Insight-åtgärder borttagning av dubbletter via e-post?](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
             + [Jag har låst ut mitt konto. Vad ska jag göra?](product-docs/marketo-sales-insight/actions/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
             + [Är Sales Insight-åtgärder kompatibla med Salesforce Lightning?](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
-            + [Vilka är de senaste klientversionerna?](product-docs/marketo-sales-insight/actions/faq/what-are-the-latest-client-versions.md)
+            + [Vilka webbläsare stöder Sales Insight-åtgärder?](product-docs/marketo-sales-insight/actions/faq/which-browsers-does-sales-insight-actions-support.md)
             + [Vilka villkor gäller för Sales Insight Actions?](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
             + [Varför skickas inte mina kontakter till försäljningsåtgärder?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
             + [Varför fylls inte mina dynamiska fält ut?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md)
