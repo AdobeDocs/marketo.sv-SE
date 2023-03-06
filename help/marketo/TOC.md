@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 303df236491f9574532c8b59289f89f505671acb
+source-git-commit: b507bee5e41aff140d4ed9f9a2c842398feb8306
 workflow-type: tm+mt
-source-wordcount: '8835'
+source-wordcount: '8829'
 ht-degree: 0%
 
 ---
@@ -1201,7 +1201,6 @@ ht-degree: 0%
             + [Avbeställ prenumeration - översikt](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-overview.md)
          + Använda fönstret Disponera {#using-the-compose-window}
             + [Lägg till en bifogad fil eller spårbart innehåll i din e-post](product-docs/marketo-sales-connect/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
-            + [Lägga till högdagerinnehåll i e-postmeddelandet](product-docs/marketo-sales-connect/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
             + [Alternativ för massutskick](product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
             + [Disponera massutskick med Markera och skicka](product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
             + [Schemalägga ett e-postmeddelande](product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
