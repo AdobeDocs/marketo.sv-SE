@@ -1,11 +1,9 @@
 ---
 description: Högdagerintegrering - Marketo Docs - produktdokumentation
 title: Integrering med högdagrar
-hide: true
-hidefromtoc: true
-source-git-commit: ba7955f97921f7332e5272f6c62651011a1633c7
+source-git-commit: 4f919501ee93790105fae3800f1b0ddd96036dfa
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
@@ -52,7 +50,7 @@ Få åtkomst till Highspot och lägg till innehåll i e-postmeddelanden från Di
 
    ![](assets/highspot-integration-7.png)
 
-1. Logga in på ditt Highspot-konto.
+1. Logga in på ditt Highspot-konto (om du inte redan är inloggad).
 
    ![](assets/highspot-integration-8.png)
 
