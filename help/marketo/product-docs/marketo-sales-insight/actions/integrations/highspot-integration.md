@@ -3,9 +3,9 @@ description: Högdagerintegrering - Marketo Docs - produktdokumentation
 title: Integrering med högdagrar
 hide: true
 hidefromtoc: true
-source-git-commit: 342034eeca4ba0084824b833f14d8e8c3b65d6e3
+source-git-commit: ba7955f97921f7332e5272f6c62651011a1633c7
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -20,21 +20,21 @@ Säljarna får tillgång till Highspot-funktioner från Sales Insight Actions oc
 >
 >Du måste ha administratörsbehörighet för att aktivera Highspot för din instans av Sales Insight Actions.
 
-1. Välj inställningar
+1. Klicka på kugghjulsikonen och välj **Inställningar**.
 
-PICC
+   ![](assets/highspot-integration-1.png)
 
-1. Välj allmänna inställningar i sidlisten
+1. Under **Administratörsinställningar**, markera **Allmänt**.
 
-PICC
+   ![](assets/highspot-integration-2.png)
 
-1. Bläddra till integrationskort och aktivera Highspot
+1. Bläddra till **Integreringar** och klicka på skjutreglaget för att aktivera högdager.
 
-PICC
+   ![](assets/highspot-integration-3.png)
 
-1. Nu visas ett alternativ för att välja Highspot när du väljer knappen för innehållsöverföring i dispositionsfönstret, mallredigeraren och kampanjens e-postredigerare.
+Nu visas ett alternativ för att välja Highspot när du väljer knappen för innehållsöverföring i dispositionsfönstret, mallredigeraren och kampanjens e-postredigerare.
 
-PICC
+![](assets/highspot-integration-4.png)
 
 ## Åtkomst till markerat innehåll och delning av innehåll via e-post {#accessing-highspot-content}
 
