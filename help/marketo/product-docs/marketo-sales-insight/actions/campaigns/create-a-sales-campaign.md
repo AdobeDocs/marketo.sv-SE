@@ -2,9 +2,9 @@
 description: Skapa en försäljningskampanj - Marketo Docs - produktdokumentation
 title: Skapa en försäljningskampanj
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
-source-git-commit: 56101a81c392a3e3214426112976cca960359bf8
+source-git-commit: ac5d9c431a524164ce6f0cc076e9801ee52fd899
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Hur skapar ni en säljkampanj?
 
    ![](assets/create-a-sales-campaign-5.png)
 
-1. När du är [klart med din e-post](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target=&quot;_blank&quot;}, klicka **Lägg till**.
+1. När du är [klart med din e-post](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"}, klicka **Lägg till**.
 
    ![](assets/create-a-sales-campaign-6.png)
 
@@ -65,7 +65,6 @@ Nu är det dags att börja lägga till folk!
 
 >[!MORELIKETHIS]
 >
->* [Säljkampanjer, sändningsalternativ för e-poststeg](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md){target=&quot;_blank&quot;}
->* [Stegtyper för säljkampanj och påminnelseaktiviteter](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target=&quot;_blank&quot;}
->* [Inställningar för försäljningskampanj](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target=&quot;_blank&quot;}
+>* [Stegtyper för säljkampanj och påminnelseaktiviteter](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>* [Inställningar för försäljningskampanj](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
 

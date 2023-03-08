@@ -3,9 +3,9 @@ unique-page-id: 13796464
 description: Sales Connect Overview - Marketo Docs - produktdokumentation
 title: Översikt över Sales Connect
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
-source-git-commit: 355c56a22f5eebaf7216de6288a97dba00bef72e
+source-git-commit: ac5d9c431a524164ce6f0cc076e9801ee52fd899
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -44,19 +44,19 @@ Se hur era prospects engagerar sig i era säljsatsningar.
   </tr> 
   <tr> 
    <td><p>Skicka e-postmeddelande</p></td> 
-   <td><p>Användaren skickade ett e-postmeddelande från MSE.</p></td> 
+   <td><p>Användaren skickade ett e-postmeddelande från Sales Connect.</p></td> 
   </tr> 
   <tr> 
    <td><p>Open Sales Email</p></td> 
-   <td><p>Lead öppnade ett säljmejl som skickades från MSE.</p></td> 
+   <td><p>Lead öppnade ett säljmejl som skickats från Sales Connect.</p></td> 
   </tr> 
   <tr> 
    <td><p>Klicka på E-postadress</p></td> 
-   <td><p>Lead klickade på en länk i ett säljmejl som skickats från MSE.</p></td> 
+   <td><p>Lead klickade på en länk i ett säljmejl som skickats från Sales Connect.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Ta emot e-post för försäljning</p></td> 
-   <td colspan="1"><p>Lead fick ett e-postmeddelande från MSE.</p></td> 
+   <td colspan="1"><p>Lead fick ett e-postmeddelande från Sales Connect.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Ta emot försäljningssamtal</p></td> 
@@ -64,7 +64,7 @@ Se hur era prospects engagerar sig i era säljsatsningar.
   </tr> 
   <tr> 
    <td colspan="1"><p>Lägg till i försäljningskampanj</p></td> 
-   <td colspan="1"><p>Lead har lagts till i en försäljningskampanj som skapats i MSE (på kampanjsidan).</p></td> 
+   <td colspan="1"><p>Lead har lagts till i en säljkampanj som skapats i Sales Connect (på kampanjsidan).</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Borttagen från försäljningskampanj</p></td> 
