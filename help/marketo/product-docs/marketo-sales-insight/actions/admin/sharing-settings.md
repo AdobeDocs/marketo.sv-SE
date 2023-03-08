@@ -2,9 +2,9 @@
 description: Delningsinställningar - Marketo Docs - produktdokumentation
 title: Delningsinställningar
 exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+source-git-commit: bc481a80629ded19f3a8ff159540244c7cd73302
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 Hantera mallarna bättre genom att begränsa vad användare kan dela och med vilka kategorier.
 
-När ditt Sales Connect-konto skapas aktiveras Delningsinställningar. Detta ger kontoadministratörer möjlighet att skapa och organisera dina mallkategorier innan de öppnar flödena och ger användarna möjlighet att dela innehåll i era teamkategorier.
+När ditt konto för Sales Insight Actions skapas aktiveras Delningsinställningar. Detta ger kontoadministratörer möjlighet att skapa och organisera dina mallkategorier innan de öppnar flödena och ger användarna möjlighet att dela innehåll i era teamkategorier.
 
 När delningsinställningar är aktiverat kan bara administratörer dela i kategorier, såvida inte delningsbehörighet ges till ett team eller alla. Om Delningsinställningar är inaktiverat finns det inga begränsningar och alla användare kan dela i valfria mallkategorier.
 
