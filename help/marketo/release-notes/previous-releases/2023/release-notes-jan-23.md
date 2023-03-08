@@ -1,9 +1,9 @@
 ---
 description: Versionsinformation - januari 2023 - Marketo Docs - produktdokumentation
 title: Versionsinformation - januari 2023
-source-git-commit: 0011d89b6e0b9ad9be8dceb2c60c85c522e84add
+source-git-commit: 5ffbe1b9c7571cae520a2088f05cfeef5a0cc20e
 workflow-type: tm+mt
-source-wordcount: '629'
+source-wordcount: '628'
 ht-degree: 1%
 
 ---
@@ -85,7 +85,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr> 
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
    <td><i>Kommer snart</i></td>
   </tr>
   </tbody>
