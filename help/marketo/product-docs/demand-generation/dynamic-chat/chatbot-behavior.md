@@ -2,7 +2,7 @@
 description: Chatbot Behavior - Marketo Docs - produktdokumentation
 title: Chatbot-beteende
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 1803d6355747f4b6300509a3d361bf235dd56f44
+source-git-commit: af8896e8675ae3ded689583fb5a348aff95cba83
 workflow-type: tm+mt
 source-wordcount: '1569'
 ht-degree: 0%
@@ -52,7 +52,7 @@ Här följer olika möjliga scenarier som överträffar Chatbot förväntade bet
         <p>V1-besök WP1</p>
       </td>
       <td>
-        <p>D1 kommer att matchas till V1 </p>
+        <p>D1 kommer att matchas till V1</p>
       </td>
       <td>Utlösarantalet för D1 ökas med 1</td>
     </tr>
@@ -131,7 +131,7 @@ Här följer olika möjliga scenarier som överträffar Chatbot förväntade bet
       <td>
         <p>D1 är avsedd endast för WP1, WP2</p>
         <p>V1-besök WP1 för första gången</p>
-        <p>V1 klickade på D1 men svarade inte </p>
+        <p>V1 klickade på D1 men svarade inte</p>
         <p>V1-besök WP2</p>
       </td>
       <td>
@@ -181,7 +181,7 @@ Här följer olika möjliga scenarier som överträffar Chatbot förväntade bet
         <p>D1 är endast avsedd för WP1</p>
         <p>D2 för endast WP2</p>
         <p>V1-besök WP1 för första gången</p>
-        <p>V1 klickade på D1 men svarade inte </p>
+        <p>V1 klickade på D1 men svarade inte</p>
         <p>V1-besök WP2</p>
       </td>
       <td>D1 kommer att lösas på WP1<br/>
@@ -212,7 +212,7 @@ Här följer olika möjliga scenarier som överträffar Chatbot förväntade bet
         <p>V1-besök WP1 för första gången</p>
         <p>V1 klickar på D1 och slutför D1</p>
         <p>V1-besök WP2</p>
-        <p>V1-klick på D2 ger det första svaret </p>
+        <p>V1-klick på D2 ger det första svaret</p>
       </td>
       <td>D1 kommer att lösas vid WP1 och efter slutförandet<br/>D2 löses på WP2</td>
       <td>
@@ -255,7 +255,7 @@ Här följer olika möjliga scenarier som överträffar Chatbot förväntade bet
       <td>
         <p>D1 är endast avsedd för WP1</p>
         <p>V1-besök WP1 för första gången</p>
-        <p>V1 upptagen med D1 </p>
+        <p>V1 upptagen med D1</p>
         <p>D1 är opublicerad</p>
         <p>V1 uppdaterar WP1</p>
       </td>
@@ -300,7 +300,7 @@ Här följer olika möjliga scenarier som överträffar Chatbot förväntade bet
       </td>
       <td>
         <p>Utlösarantalet för D1 ökas med 1</p>
-        <p>Antal engagemang för D1 ökas med 1 </p>
+        <p>Antal engagemang för D1 ökas med 1</p>
         <p>Efter uppdatering visas den gamla D1 så att ingen ändring görs för att aktivera antalet</p>
       </td>
     </tr>
@@ -325,7 +325,7 @@ Här följer olika möjliga scenarier som överträffar Chatbot förväntade bet
     <tr>
       <td>
         <p>D1 riktad mot WP1 med 1 prioritet</p>
-        <p>D2 för WP1 med 2 prioriteter </p>
+        <p>D2 för WP1 med 2 prioriteter</p>
         <p>V1-besök WP1 för första gången</p>
         <p>V1 klickar på D1 och slutför D1</p>
         <p>V1 uppdaterar WP1 och se D2<br/>V1 klickar på D2 och slutför D2</p>
