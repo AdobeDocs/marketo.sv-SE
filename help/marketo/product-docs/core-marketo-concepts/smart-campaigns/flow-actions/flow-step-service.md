@@ -2,16 +2,16 @@
 description: Flow Step Service - Marketo Docs - produktdokumentation
 title: Flödesstegstjänst
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
-source-git-commit: 5d95a77e5c836bf76d82f0db72781727b2743720
+source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
 workflow-type: tm+mt
-source-wordcount: '1243'
+source-wordcount: '1220'
 ht-degree: 0%
 
 ---
 
 # Flödesstegstjänst {#flow-step-service}
 
-Självbetjäningsflödessteg är ett ramverk och en uppsättning funktioner för att skapa, publicera och integrera webbtjänster i Adobe Marketo Engage Smart Campaigns. Handboken är avsedd för användare av Marketo Engage som vill installera och använda tjänster som redan har skapats och publicerats. Information om hur du skapar och publicerar din egen tjänst finns i [GitHub-databas för Service Provider Interface](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target=&quot;_blank&quot;}. En implementering av en konceptbelagd söktabell finns [här](https://github.com/adobe/mkto-flow-lookup){target=&quot;_blank&quot;}.
+Självbetjäningsflödessteg är ett ramverk och en uppsättning funktioner för att skapa, publicera och integrera webbtjänster i Adobe Marketo Engage Smart Campaigns. Handboken är avsedd för användare av Marketo Engage som vill installera och använda tjänster som redan har skapats och publicerats. Information om hur du skapar och publicerar din egen tjänst finns i [GitHub-databas för Service Provider Interface](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. A Proof-of-Concept Lookup Table implementation may be found [here](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
 
 ## Onboarding och Managing Services {#onboarding-and-managing-services}
 
@@ -28,10 +28,6 @@ Klicka **Nästa** om du vill gå till sektionen Ange inloggningsuppgifter för t
 ## Ange autentiseringsuppgifter för tjänsten {#enter-service-credentials}
 
 Marketo måste ha giltiga API-autentiseringsuppgifter för att komma åt den tjänst som installeras. Dessa inloggningsuppgifter bör du få från din tjänsteleverantör. Tjänsterna har tre olika autentiseringsalternativ, så du kan se en av tre olika autentiseringsuppgifter: **API-nyckel** som bara har ett inmatningsfält, **Grundläggande autentisering** som kräver ett användarnamn och lösenord och som också kan kräva ett fält som heter Realm, och **OAuth2** med _Klientautentiseringsuppgifter_ bidrag, vilket kräver _Klient-ID_ och _Klienthemlighet_.
-
->[!NOTE]
->
->OAuth2 kommer inte att vara tillgänglig förrän den 11 mars-utgåvan.
 
 När du sparar dina inloggningsuppgifter försöker Marketo anropa tjänstens statusslutpunkt för att verifiera att de är giltiga. Om de angivna autentiseringsuppgifterna är ogiltiga visas ett felmeddelande om detta.
 

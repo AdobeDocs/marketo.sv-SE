@@ -1,10 +1,10 @@
 ---
 description: Versionsinformation - januari 2023 - Marketo Docs - produktdokumentation
 title: Versionsinformation - januari 2023
-source-git-commit: 5ffbe1b9c7571cae520a2088f05cfeef5a0cc20e
+source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -86,7 +86,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   </tr>
   <tr> 
    <td>Levererat</td>
-   <td><i>Kommer snart</i></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>

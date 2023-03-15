@@ -2,7 +2,7 @@
 description: Aktuell versionsinformation – Marketo Docs – produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: d744ef8f0798bfef540f49e2a6890eaa307569c4
+source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Här nedan hittar du alla funktioner som ingår i utgåvan från mars 23. Se om 
 
 ## Standardfunktioner för lanseringscykel {#standard-release-cycle-features}
 
-Följande funktioner faller under standardversionscykeln och kommer att släppas den **24 mars 2023**, med en stegvis utrullning av återstående funktioner under de följande veckorna. Versionsfunktioner och datum kan komma att ändras. Kontrollera status för respektive funktion nedan.
+Följande funktioner faller under standardversionscykeln och kommer att släppas den **31 mars 2023**, med en stegvis utrullning av återstående funktioner under de följande veckorna. Versionsfunktioner och datum kan komma att ändras. Kontrollera status för respektive funktion nedan.
 
 ### Marketo Engage Modern UX {#modern-ux}
 

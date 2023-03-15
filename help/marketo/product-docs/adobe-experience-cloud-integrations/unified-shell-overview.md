@@ -3,9 +3,9 @@ description: Enhetlig gränssnittsöversikt - Marketo Docs - produktdokumentatio
 title: Översikt över enhetligt gränssnitt
 hide: true
 hidefromtoc: true
-source-git-commit: bc481a80629ded19f3a8ff159540244c7cd73302
+source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -74,7 +74,7 @@ PICC
 
 Om du får ovanstående fel, [kontakta supporten](https://nation.marketo.com/t5/support/ct-p/Support) om du behöver hjälp.
 
-Här är vad som har förändrats för Marketo:
+Steven&#39;s Notes
 
 Inloggningen görs via Experience Cloud/IMS
 
@@ -84,4 +84,4 @@ Användarhistorik, Global sökning, Marketo-meddelanden och aktivitetsfältet fl
 
 Historikträdet i My Marketo försvinner
 
-Bokmärken fungerar inte (för tillfället). Vi behöver inte ringa ut detta just nu, men ta bort det om du kopierar text från Bizibles doc (deras bokmärken fungerar).
+Inga bokmärken
