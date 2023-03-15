@@ -2,9 +2,9 @@
 description: Rapporter - Marketo Docs - produktdokumentation
 title: Rapporter
 exl-id: 25d20567-4bb9-4bc5-aeeb-0ff26d3909b3
-source-git-commit: 3e3446183875b8df7f6ec1fc4a78a5581b109aed
+source-git-commit: dd3844ad0d32f8ffab2d611f437b1e8522fb9988
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '120'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ Visa data från de senaste 90 dagarna på fliken Rapporter. Varje kategori defin
  </tr>
  <tr>
   <td><strong>Engagerad</strong></td>
-  <td>Ökningar varje gång en besökare klickar på chattbot-ankarpunkten för att öppna dialogrutan.</td>
+  <td>Ökningar när en besökare interagerar med minst ett kort i en dialogruta (t.ex. Fråga, Info Capture osv.)</td>
  </tr>
  <tr>
   <td><strong>Slutförd</strong></td>
@@ -43,7 +43,7 @@ Visa data från de senaste 90 dagarna på fliken Rapporter. Varje kategori defin
 
 >[!MORELIKETHIS]
 >
->* [Skapa en dialogruta](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}
->* [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target=&quot;_blank&quot;}
->* [Målgruppskriterier](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target=&quot;_blank&quot;}
+>* [Skapa en dialogruta](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
+>* [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}
+>* [Målgruppskriterier](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
 
