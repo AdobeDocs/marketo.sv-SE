@@ -2,9 +2,9 @@
 description: Dynamic Chat Overview - Marketo Docs - produktdokumentation
 title: Dynamisk chattöversikt
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 91e04b4282f18f8074d0192fae42e62dfe5ebb80
+source-git-commit: 5cd5873132e38d7adea02739da39aebeb3979124
 workflow-type: tm+mt
-source-wordcount: '845'
+source-wordcount: '857'
 ht-degree: 1%
 
 ---
@@ -33,23 +33,23 @@ Följande synkroniseras:
 
 ## Dialogrutor {#dialogues}
 
-Dialoger representerar ett enda chattengagemang. Se det som en behållare med allt du behöver för att få en engagerande chattdialog till webbplatsens besökare. I varje dialogruta kan du ange vilka sidor du vill att dialogrutan ska visas på, till vilka du vill att den ska visas samt innehållet och flödet för själva dialogrutan. Dessutom kan du hitta mätvärden för att se hur bra din dialog fungerar. [Läs mer om dialogrutor](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target=&quot;_blank&quot;}.
+Dialoger representerar ett enda chattengagemang. Se det som en behållare med allt du behöver för att få en engagerande chattdialog till webbplatsens besökare. I varje dialogruta kan du ange vilka sidor du vill att dialogrutan ska visas på, till vilka du vill att den ska visas samt innehållet och flödet för själva dialogrutan. Dessutom kan du hitta mätvärden för att se hur bra din dialog fungerar. [Läs mer om dialogrutor](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target="_blank"}.
 
 ## Konfiguration {#configuration}
 
-Anpassa utseendet på dina olika dialogrutor på fliken Konfiguration. Ändra typsnitt, färger, svarstid med mera! [Läs mer om konfiguration](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target=&quot;_blank&quot;}.
+Anpassa utseendet på dina olika dialogrutor på fliken Konfiguration. Ändra typsnitt, färger, svarstid med mera! [Läs mer om konfiguration](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target="_blank"}.
 
 ## Kalender {#calendar}
 
-Anslut Outlook- eller Gmail-kalendern för användning vid schemaläggning av möten i chattbot. [Läs mer om Kalender](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target=&quot;_blank&quot;}
+Anslut Outlook- eller Gmail-kalendern för användning vid schemaläggning av möten i chattbot. [Läs mer om Kalender](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target="_blank"}
 
 ## Möten {#meetings}
 
-Här ser du alla avtalade tider som har schemalagts av webbplatsbesökare via olika dialogrutor. [Läs mer om möten](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target=&quot;_blank&quot;}
+Här ser du alla avtalade tider som har schemalagts av webbplatsbesökare via olika dialogrutor. [Läs mer om möten](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target="_blank"}
 
 ## Routning {#routing}
 
-Här kan du se en lista över alla agenter som har kopplat samman sina kalendrar, i vilken ordning de presenteras för webbplatsens besökare och skapa anpassade routningsregler. [Läs mer om routning](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target=&quot;_blank&quot;}
+Här kan du se en lista över alla agenter som har kopplat samman sina kalendrar, i vilken ordning de presenteras för webbplatsens besökare och skapa anpassade routningsregler. [Läs mer om routning](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target="_blank"}
 
 ## Vanliga frågor {#faq}
 
@@ -111,8 +111,18 @@ När du uppdaterar språket ändras allt i själva programmet utom orden som du 
   <th>Gräns</th>
  <tr>
   <td>Totalt antal dialogrutor</td>
-  <td>Totalt antal dialogrutor (publicerade och utkast)</td>
+  <td>Antal dialogrutor (publicerade och utkast)</td>
   <td>500</td>
+ </tr>
+ <tr>
+  <td>Totalt antal kalendrar</td>
+  <td>Antal anslutna kalendrar</td>
+  <td>25</td>
+ </tr>
+ <tr>
+  <td>Totalt antal användare (administratörer och marknadsföringsanvändare)</td>
+  <td>Antal kombinerade användare som tillåts per Dynamic Chat-instans</td>
+  <td>50</td>
  </tr>
  <tr>
   <td>Publicerade dialogrutor</td>
@@ -171,12 +181,12 @@ När du uppdaterar språket ändras allt i själva programmet utom orden som du 
  </tr>
  <tr>
   <td>Engagerade konversationer</td>
-  <td>Antal chattkonversationer som webbesökare kan interagera med per dag</td>
-  <td>1,000</td>
+  <td>Antal chattkonversationer som webbesökare kan interagera med per månad</td>
+  <td>250</td>
  </tr>
  <tr>
   <td>Konversationer utlösta</td>
-  <td>Antal chattsamtal som kan visas för webbbesökare per dag</td>
+  <td>Antal chattsamtal som kan visas för webbbesökare per månad</td>
   <td>25,000</td>
  </tr>
 </table>
