@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: dd3844ad0d32f8ffab2d611f437b1e8522fb9988
+source-git-commit: 0864f784d193bfc6dd7a087c9f89ce59bdff710c
 workflow-type: tm+mt
-source-wordcount: '8831'
+source-wordcount: '8843'
 ht-degree: 0%
 
 ---
@@ -1396,6 +1396,9 @@ ht-degree: 0%
                + [Hantera grupper](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + [Sidkolumner för personer](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + Tel.{#phone}
+            + [Utfall för samtal](product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
+            + [Samtalsorsaker](product-docs/marketo-sales-insight/actions/phone/call-reasons.md)
+            + [Logga samtalsorsaker och samtalsresultat till Salesforce](product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
             + [Aktivera samtalsinspelning](product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md)
             + [Internationellt samtal](product-docs/marketo-sales-insight/actions/phone/international-calling.md)
             + [Lokal närvaro](product-docs/marketo-sales-insight/actions/phone/local-presence.md)
