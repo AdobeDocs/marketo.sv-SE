@@ -3,9 +3,9 @@ unique-page-id: 10100275
 description: Lägg till/redigera/ta bort anpassade aktivitetsfält för Marketo - Marketo Docs - produktdokumentation
 title: Lägg till/redigera/ta bort anpassade aktivitetsfält för Marketo
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
+source-git-commit: 6283a9fda6c8577dacfbd3782cda41058fbf67a2
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -86,7 +86,7 @@ Du kan behöva lägga till, ändra eller ta bort ett anpassat aktivitetsfält. S
 
    >[!CAUTION]
    >
-   >Du kan bara redigera API-namnet eller ändra fältet till Primärt om den anpassade aktiviteten aldrig har publicerats. Om aktiviteten redan har publicerats kan du bara redigera fältets namn och valfria beskrivning.
+   >Du kan bara redigera API-namnet eller ändra fältet till Primärt om den anpassade aktiviteten aldrig har publicerats.
 
    >[!NOTE]
    >
