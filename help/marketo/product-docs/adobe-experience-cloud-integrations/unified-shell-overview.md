@@ -3,9 +3,9 @@ description: Enhetlig gränssnittsöversikt - Marketo Docs - produktdokumentatio
 title: Översikt över enhetligt gränssnitt
 hide: true
 hidefromtoc: true
-source-git-commit: b4f0831ae98dd12a61d7ea5359586ca0b1a0971c
+source-git-commit: b6ec2e1dfa04cb19f92b18117219763a8aa774dc
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Enhetligt gränssnitt anpassar &quot;skalets&quot; utseende och känsla i Adobe 
 
 Om du inte redan är inloggad på en Adobe Experience Cloud-produkt loggar du in direkt på [!DNL Marketo Engage] här: [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
 
-Om du _är_ som redan är inloggad på en Adobe Experience Cloud-produkt klickar du bara på menyikonen och väljer **[!DNL Marketo Measure]**.
+Om du _är_ som redan är inloggad på en Adobe Experience Cloud-produkt klickar du bara på menyikonen och väljer **[!DNL Marketo Engage]**.
 
 ![](assets/unified-shell-overview-1.png)
 
