@@ -3,7 +3,7 @@ description: Enhetlig gränssnittsöversikt - Marketo Docs - produktdokumentatio
 title: Översikt över enhetligt gränssnitt
 hide: true
 hidefromtoc: true
-source-git-commit: b6ec2e1dfa04cb19f92b18117219763a8aa774dc
+source-git-commit: 427b79a584a003204f344ed9c219489c25abfc59
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Förutom det uppdaterade utseendet och känslan kommer du att märka följande f
 
 **Integrerat Help Center**
 
-Sök efter supportartiklar, skicka in biljetter, ge feedback inifrån [!DNL Marketo Engage] program.
+Få tillgång till en mängd tillgängliga hjälpresurser inifrån [!DNL Marketo Engage] program.
 
 ![](assets/unified-shell-overview-2.png)
 
@@ -52,7 +52,7 @@ Visa och interagera med produktspecifika meddelanden och allmänna produktmeddel
 
 **Inställningar för Adobe**
 
-Klicka på din profilikon om du vill ändra språk eller andra inställningar för hela Adobe. Du kan också skapa [!DNL Marketo Engage]-specifika ändringar genom att klicka **Mina inställningar**.
+Klicka på din profilikon om du vill ändra språk eller andra inställningar för hela Adobe.
 
 ![](assets/unified-shell-overview-5.png)
 
@@ -65,3 +65,7 @@ Om du kan logga in på Adobe Experience Cloud, men sedan ser felet&quot;Det gick
 **Vart gick användarhistorik, global sökning, Marketo-meddelanden och aktivitetsfältet?**
 
 De här funktionerna har flyttats från den övre navigeringen till ett nytt fält till vänster i Unified Shell.
+
+![](assets/unified-shell-overview-6.png)
+
+![](assets/unified-shell-overview-7.png)
