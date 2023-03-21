@@ -3,7 +3,7 @@ description: Enhetlig gränssnittsöversikt - Marketo Docs - produktdokumentatio
 title: Översikt över enhetligt gränssnitt
 hide: true
 hidefromtoc: true
-source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
+source-git-commit: f48d0c91667072e5286604c0b7141296cba5542a
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Enhetligt gränssnitt anpassar &quot;skalets&quot; utseende och känsla i Adobe 
 
 Om du redan är inloggad på en Adobe Experience Cloud-produkt klickar du på menyikonen och väljer **[!DNL Marketo Measure]**.
 
-PICC
+![](assets/unified-shell-overview-1.png)
 
 >[!NOTE]
 >
@@ -36,33 +36,31 @@ Förutom det uppdaterade utseendet och känslan kommer du att märka följande f
 
 [Hantera dina [!DNL Marketo Engage] domäner](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) utan hjälp från [!DNL Marketo Engage].
 
-PICC
+PIC2
 
 **Integrerat Help Center**
 
 Sök efter supportartiklar, skicka in biljetter, ge feedback inifrån [!DNL Marketo Engage] program.
 
-PICC
+![](assets/unified-shell-overview-3.png)
 
 **Programväxlare**
 
 De som har tillgång till flera Adobe-produkter kan enkelt växla mellan dem.
 
-PICC
+PIC4
 
 **Meddelanden**
 
 Visa och interagera med produktspecifika meddelanden och allmänna produktmeddelanden för Adobe direkt i programmet.
 
-PICC
-
-PICC
+![](assets/unified-shell-overview-5.png)
 
 **Inställningar för Adobe**
 
 Klicka på din profilikon om du vill ändra språk eller andra inställningar för hela Adobe. Du kan också skapa [!DNL Marketo Engage]-specifika ändringar genom att klicka **Mina inställningar**.
 
-PICC
+![](assets/unified-shell-overview-6.png)
 
 ## Vanliga frågor {#faq}
 
@@ -70,7 +68,7 @@ PICC
 
 Om du kan logga in på Adobe Experience Cloud, men se en sida som följande, kan problemet finnas på [!DNL Marketo Engage] sida:
 
-PICC
+PIC7
 
 Om du får ovanstående fel, [kontakta supporten](https://nation.marketo.com/t5/support/ct-p/Support) om du behöver hjälp.
 
