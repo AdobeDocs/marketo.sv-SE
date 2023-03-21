@@ -3,9 +3,9 @@ description: Enhetlig gränssnittsöversikt - Marketo Docs - produktdokumentatio
 title: Översikt över enhetligt gränssnitt
 hide: true
 hidefromtoc: true
-source-git-commit: f48d0c91667072e5286604c0b7141296cba5542a
+source-git-commit: b4f0831ae98dd12a61d7ea5359586ca0b1a0971c
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,9 @@ Enhetligt gränssnitt anpassar &quot;skalets&quot; utseende och känsla i Adobe 
 
 **Enhetligt gränssnittsflöde**
 
-Om du redan är inloggad på en Adobe Experience Cloud-produkt klickar du på menyikonen och väljer **[!DNL Marketo Measure]**.
+Om du inte redan är inloggad på en Adobe Experience Cloud-produkt loggar du in direkt på [!DNL Marketo Engage] här: [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
+
+Om du _är_ som redan är inloggad på en Adobe Experience Cloud-produkt klickar du bara på menyikonen och väljer **[!DNL Marketo Measure]**.
 
 ![](assets/unified-shell-overview-1.png)
 
@@ -26,60 +28,40 @@ Om du redan är inloggad på en Adobe Experience Cloud-produkt klickar du på me
 >
 >Listrutan kan se annorlunda ut beroende på vilka Adobe Experience Cloud-produkter du prenumererar på.
 
-Om du är _not_ redan inloggad på en Adobe Experience Cloud-produkt, logga in direkt på [!DNL Marketo Engage] här: [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
-
 ## Nya funktioner {#new-features}
 
 Förutom det uppdaterade utseendet och känslan kommer du att märka följande funktioner:
-
-**Domänhantering**
-
-[Hantera dina [!DNL Marketo Engage] domäner](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) utan hjälp från [!DNL Marketo Engage].
-
-PIC2
 
 **Integrerat Help Center**
 
 Sök efter supportartiklar, skicka in biljetter, ge feedback inifrån [!DNL Marketo Engage] program.
 
-![](assets/unified-shell-overview-3.png)
+![](assets/unified-shell-overview-2.png)
 
 **Programväxlare**
 
 De som har tillgång till flera Adobe-produkter kan enkelt växla mellan dem.
 
-PIC4
+![](assets/unified-shell-overview-3.png)
 
 **Meddelanden**
 
 Visa och interagera med produktspecifika meddelanden och allmänna produktmeddelanden för Adobe direkt i programmet.
 
-![](assets/unified-shell-overview-5.png)
+![](assets/unified-shell-overview-4.png)
 
 **Inställningar för Adobe**
 
 Klicka på din profilikon om du vill ändra språk eller andra inställningar för hela Adobe. Du kan också skapa [!DNL Marketo Engage]-specifika ändringar genom att klicka **Mina inställningar**.
 
-![](assets/unified-shell-overview-6.png)
+![](assets/unified-shell-overview-5.png)
 
 ## Vanliga frågor {#faq}
 
 **Jag kan inte logga in på [!DNL Marketo Engage] via det enhetliga gränssnittet. Vad kan problemet vara?**
 
-Om du kan logga in på Adobe Experience Cloud, men se en sida som följande, kan problemet finnas på [!DNL Marketo Engage] sida:
+Om du kan logga in på Adobe Experience Cloud, men sedan ser felet&quot;Det gick inte att läsa in sidan&quot;, kan problemet finnas på [!DNL Marketo Engage] sida. Kontakta [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support) om du behöver hjälp.
 
-PIC7
+**Vart gick användarhistorik, global sökning, Marketo-meddelanden och aktivitetsfältet?**
 
-Om du får ovanstående fel, [kontakta supporten](https://nation.marketo.com/t5/support/ct-p/Support) om du behöver hjälp.
-
-Steven&#39;s Notes
-
-Inloggningen görs via Experience Cloud/IMS
-
-Åtkomst till Marketo-instansen görs via&quot;Marketo Launch Page&quot;, som har en panel för varje Marketo-instans som användaren har åtkomst till i sin organisation. De kan sedan starta Marketo genom att klicka på rutan.
-
-Användarhistorik, Global sökning, Marketo-meddelanden och aktivitetsfältet flyttas från det övre fältet till ett nytt fält till vänster
-
-Historikträdet i My Marketo försvinner
-
-Inga bokmärken
+De här funktionerna har flyttats från den övre navigeringen till ett nytt fält till vänster i Unified Shell.
