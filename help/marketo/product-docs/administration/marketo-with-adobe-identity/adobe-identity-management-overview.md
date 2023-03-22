@@ -2,9 +2,9 @@
 description: Adobe Identity Management Overview - Marketo Docs - produktdokumentation
 title: Adobe Identity Management - översikt
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: 034e3a9a1e2e7feec749afe981aaaf804a4bcddc
+source-git-commit: 05377b78181d002926623268d1fdca40c7b80f46
 workflow-type: tm+mt
-source-wordcount: '1068'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -122,6 +122,10 @@ Nej. Arbetsflödet för användarinbjudan är inte längre aktivt när en prenum
 **För Adobe IMS, har vi möjlighet att använda Adobe ID, Enterprise ID eller Federated ID?**
 
 Ja, du bestämmer vilken typ av identitet som din organisation ska stödja. Mer information finns här: [Identitetsöversikt](https://helpx.adobe.com/enterprise/using/identity.html) och här: [Ställ in identitet](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
+
+**Vilka produktkort stöds i Adobe Admin Console?**
+
+Följande produktkort stöds: Marketo Engage, Marketo Measure, Marketo Dynamic Chat, Marketo Sales Connect och Marketo Sales Insight Actions.
 
 >[!MORELIKETHIS]
 >
