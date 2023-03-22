@@ -3,9 +3,9 @@ unique-page-id: 2359746
 description: Anpassa dina URL:er för landningssidor med en CNAME - Marketo Docs - produktdokumentation
 title: Anpassa URL:er för landningssidor med en CNAME
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6c1699ce986608e8b9d991f21fd649f9330e3d12
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -30,41 +30,47 @@ Välj ett ord som du vill gå till början av URL:en för dina landningssidor. D
 
 Det enda ordet (plus YourCompany.com) kallas för CNAME. Du behöver det här senare, så notera det.
 
-## Hitta din kontosträng {#find-your-account-string}
+## Hitta ditt Munchkin-ID {#find-your-munchkin-id}
 
-1. Gå till **Administratör** område och klicka på **Landningssidor**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2014-9-18-16-3a2-3a45.png)
+   ![](assets/customize-your-landing-page-urls-with-a-cname-1.png)
+
+1. Klicka **Mitt konto**.
+
+   ![](assets/customize-your-landing-page-urls-with-a-cname-2.png)
 
    >[!NOTE]
    >
    >**Administratörsbehörigheter krävs**
 
-1. Under **Landning** **Sidor** -fliken, kopiera **Konto** **Sträng** från **Inställningar** -avsnitt.
+1. Bläddra ned till &quot;Support Information&quot; och kopiera ditt Munchkin-ID.
 
-   ![](assets/image2014-9-18-16-3a44-3a12.png)
-
-1. Du kommer också att behöva det senare, så notera det.
+   ![](assets/customize-your-landing-page-urls-with-a-cname-3.png)
 
 ## Skicka begäran till IT {#send-request-to-it}
 
-Be din IT-personal att installera följande CNAME: (Ersätt ordet [CNAME] och [KONTOSTRÄNG] med texten från föregående steg.)
+Be din IT-personal att installera följande CNAME: (Ersätt ordet [CNAME] och [Munchkin-ID] med texten från föregående steg.)
 
-[CNAME].YourCompany.com > [KONTOSTRÄNG].mktoweb.com
+[CNAME].YourCompany.com > [Munchkin-ID].mktoweb.com
 
 ## Slutför CNAME-installationen {#complete-cname-setup}
 
-1. När IT-avdelningen har skapat CNAME går du till **Administratör** och klicka på **Landningssidor**.
+1. När IT-avdelningen har skapat CNAME går du till **Administratör** område.
 
-   ![](assets/image2014-9-18-17-3a15-3a11.png)
+   ![](assets/customize-your-landing-page-urls-with-a-cname-4.png)
 
-1. Under **Inställningar** avsnitt, klicka på **Redigera**.
+1. Klicka **Landningssidor**.
 
-   ![](assets/image2014-9-18-17-3a15-3a18.png)
+   ![](assets/customize-your-landing-page-urls-with-a-cname-5.png)
+
+1. Under **Inställningar** avsnitt, klicka **Redigera**.
+
+   ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
 1. Ange CNAME i **Domännamn för landningssidor**, ange **Reservsida**, ange **Hemsida** och klicka **Spara**.
 
-   ![](assets/image2014-9-18-17-3a15-3a25.png)
+   ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 
 >[!NOTE]
 >

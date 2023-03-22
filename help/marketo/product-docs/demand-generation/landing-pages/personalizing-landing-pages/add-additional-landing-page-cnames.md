@@ -3,9 +3,9 @@ unique-page-id: 2359798
 description: Lägg till fler CNAME-filer för landningssida - Marketo Docs - produktdokumentation
 title: Lägg till ytterligare CNAME för landningssida
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6c1699ce986608e8b9d991f21fd649f9330e3d12
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -28,33 +28,37 @@ Du kanske vill lägga till CNAME för landningssidor så att olika URL:er kan pe
 >
 >**Administratörsbehörigheter krävs**
 
-## Hitta din kontosträng {#find-your-account-string}
+1. Gå till **Administratör** område.
 
-1. Gå till **Administratör** område och klicka **Landningssidor**.
+   ![](assets/add-additional-landing-page-cnames-1.png)
 
-   ![](assets/image2014-9-16-15-3a19-3a54.png)
+1. Klicka **Mitt konto**.
 
-1. Kopiera **Kontosträng** från **Inställningar** -avsnitt.
+   ![](assets/add-additional-landing-page-cnames-2.png)
 
-   ![](assets/image2014-9-16-15-3a20-3a2.png)
+1. Bläddra ned till &quot;Support Information&quot; och kopiera ditt Munchkin-ID.
 
-1. Anteckna det för nästa steg.
+   ![](assets/add-additional-landing-page-cnames-3.png)
 
 ## Skicka begäran till IT {#send-request-to-it}
 
-1. Be din IT-avdelning att installera följande CNAME: (Ersätt ordet [CNAME] med valfri CNAME och [KONTOSTRÄNG] med texten från föregående steg).
+1. Be din IT-avdelning att installera följande CNAME: (Ersätt ordet [CNAME] med valfri CNAME och [Munchkin-ID] med texten från föregående steg).
 
-   [CNAME].YourCompany.com > [KONTOSTRÄNG].mktoweb.com
+   [CNAME].YourCompany.com > [Munchkin-ID].mktoweb.com
 
 ## Lägg till en ny CNAME {#add-a-new-cname}
 
-1. När IT-avdelningen har skapat CNAME går du till **Administratör** sedan klicka **Landningssidor**.
+1. När IT-avdelningen har skapat CNAME går du till **Administratör** område.
 
-   ![](assets/image2014-9-16-15-3a20-3a20.png)
+   ![](assets/add-additional-landing-page-cnames-4.png)
+
+1. Klicka **Landningssidor**.
+
+   ![](assets/add-additional-landing-page-cnames-5.png)
 
 1. Klicka **Nytt** välj **Nytt domänalias**.
 
-   ![](assets/image2014-9-16-15-3a20-3a28.png)
+   ![](assets/add-additional-landing-page-cnames-6.png)
 
 1. Ange **Domänalias.** The **Standardsida** visas om besökaren inte anger en URL. Ange vart de ska gå i så fall.
 
@@ -62,10 +66,10 @@ Du kanske vill lägga till CNAME för landningssidor så att olika URL:er kan pe
    >
    >För standardsidan kan du välja en landningssida eller en extern URL-adress, till exempel din offentliga webbplats.
 
-   ![](assets/image2014-9-16-15-3a20-3a36.png)
+   ![](assets/add-additional-landing-page-cnames-7.png)
 
 1. Ange **Standardsida** och klicka **Skapa**.
 
-   ![](assets/image2014-9-16-15-3a20-3a43.png)
+   ![](assets/add-additional-landing-page-cnames-8.png)
 
 Snyggt! Nu vet du vad du ska göra om du någonsin vill lägga till en CNAME.

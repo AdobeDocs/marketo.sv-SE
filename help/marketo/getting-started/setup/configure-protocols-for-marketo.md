@@ -3,9 +3,9 @@ unique-page-id: 4720433
 description: Konfigurera protokoll för Marketo - Marketo Docs - produktdokumentation
 title: Konfigurera protokoll för Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: 3d29cb4cf4af7d83a82d47cfd6b0c44d659ee82b
+source-git-commit: 6c1699ce986608e8b9d991f21fd649f9330e3d12
 workflow-type: tm+mt
-source-wordcount: '1046'
+source-wordcount: '1021'
 ht-degree: 2%
 
 ---
@@ -20,13 +20,12 @@ Er marknadsföringsgrupp använder Marketo för att skapa varumärkesanpassade k
 
 Den här artikeln bör delas med IT-avdelningen på det företag som vill implementera dessa protokoll.
 
->[!NOTE]
->
->Om IT-teamet begränsar webbåtkomsten via ett tillåtelselista ber du dem lägga till följande domäner (inklusive asterisken) för att tillåta alla Marketo resurser och webbsocketar:
+Om IT-teamet begränsar webbåtkomsten via ett tillåtelselista ber du dem lägga till följande domäner (inklusive asterisken) för att tillåta alla Marketo resurser och webbsocketar:
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
 * `*.mktoweb.com`
+* `*.experience.adobe.com`
 
 ## Steg 1: Skapa DNS-poster för landningssidor och e-post {#step-create-dns-records-for-landing-pages-and-email}
 
@@ -40,7 +39,7 @@ Lägg till landningssidan CNAME som de skickade dig till din DNS-post, så att `
 
 * Alias: Retur `[YourLandingPageCNAME]` (tillhandahålls genom marknadsföring)
 * Typ: CNAME
-* Peka på: Retur `[MarketoAccountString].mktoweb.com` (tillhandahålls genom marknadsföring)
+* Peka på: Retur `[MunchkinID].mktoweb.com` (tillhandahålls genom marknadsföring)
 
 `2` **Lägg till CNAME för länkar för e-postspårning**
 
@@ -59,7 +58,7 @@ Exempel:
 
 Meddela marknadsföringsteamet när du har slutfört den här processen.
 
-`4` **Kontakt [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;} för att starta etableringen av ett SSL-certifikat.**
+`4` **Kontakt [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} för att starta processen med att etablera ett SSL-certifikat.**
 
 Den här processen kan ta upp till tre arbetsdagar att slutföra.
 
@@ -104,7 +103,7 @@ Marknadsföringsteamet ska också ha skickat dig DKIM-information som ska lägga
 
    `[DKIMDomain2]`: Värdposten är `[HostRecord2]` och TXT-värdet är `[TXTValue2]`.
 
-   Kopiera HostRecord och TXTValue för varje DKIMDomain som du har konfigurerat efter följande [anvisningar](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target=&quot;_blank&quot;}. Glöm inte att verifiera varje domän i Admin > E-post > DKIM när din IT-personal har slutfört det här steget.
+   Kopiera HostRecord och TXTValue för varje DKIMDomain som du har konfigurerat efter följande [anvisningar](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. Glöm inte att verifiera varje domän i Admin > E-post > DKIM när din IT-personal har slutfört det här steget.
 
 ## Steg 4: Konfigurera MX-poster för din domän {#step-set-up-mx-records-for-your-domain}
 
@@ -116,11 +115,11 @@ En utgående anslutning upprättas av Marketo Engage till en server på Internet
 
 **Webhooks**
 
-Marketo Engage [Webhooks](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target=&quot;_blank&quot;} är en utgående integreringsmekanism. När en [Ring webkrok](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md)Flödesåtgärden {target=&quot;_blank&quot;} körs som en del av en smart kampanj, en HTTP-begäran görs till en extern webbtjänst. Om webbtjänstutgivaren använder ett tillåtelselista i brandväggen i nätverket där den externa webbtjänsten finns, måste utgivaren lägga till de IP-adressblock som anges nedan i tillåtelselista.
+Marketo Engage [Webhooks](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"} are an outbound integration mechanism. When a [Call Webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"} Flödesåtgärden körs som en del av en smart kampanj. En HTTP-begäran görs till en extern webbtjänst. Om webbtjänstutgivaren använder ett tillåtelselista i brandväggen i nätverket där den externa webbtjänsten finns, måste utgivaren lägga till de IP-adressblock som anges nedan i tillåtelselista.
 
 **CRM-synkronisering**
 
-Marketo Engage [Salesforce CRM-synkronisering](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target=&quot;_blank&quot;} och [Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target=&quot;_blank&quot;} är integreringsmekanismer som gör utgående HTTP-begäranden till API:er som publiceras av CRM-leverantören. Du måste se till att din IT-organisation inte blockerar något av IP-adressblocken nedan så att den inte kommer åt dina CRM-leverantörs-API:er.
+Marketo Engage [Salesforce CRM-synkronisering](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} and [Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} är integreringsmekanismer som gör utgående HTTP-begäranden till API:er som publiceras av CRM-leverantören. Du måste se till att din IT-organisation inte blockerar något av IP-adressblocken nedan så att den inte kommer åt dina CRM-leverantörs-API:er.
 
 **Utgående IP-adressblock för Marketo Engage**
 
