@@ -2,10 +2,10 @@
 description: Aktuell versionsinformation – Marketo Docs – produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
+source-git-commit: 945ac03e37cd88cbfff89f17056db78107ebb138
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '622'
+ht-degree: 2%
 
 ---
 
@@ -27,7 +27,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 * **Förbättrat Används av komponenten för information om landningssidmallar och formulärdetaljer**: Fliken Nytt Används av användargränssnitt innehåller ytterligare information i Information om landningssidmallar och Formulärdetaljer, inklusive mer information om resurser som har använt en vald resurs. Gör analyser på långa listor med resurser med hjälp av sök-, sorterings- och filtreringsfunktionerna.
 
-   <table> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Dokumentationsuppdateringar</b></td>
@@ -67,7 +67,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   </tbody>
 </table>
 
-### API-förbättringar {#api-enhancements}
+### Integrationsuppdateringar {#integration-updates}
 
 </br>
 
