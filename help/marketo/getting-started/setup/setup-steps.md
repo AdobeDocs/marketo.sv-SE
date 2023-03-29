@@ -3,9 +3,9 @@ unique-page-id: 2949469
 description: Installationssteg - Marketo Docs - produktdokumentation
 title: Installationssteg
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: 7b0f5e9e39a2521c32a9b718a07c3ed524079eaf
+source-git-commit: 6dc38462b08f9db639d2d5ee005c4bdf5131b701
 workflow-type: tm+mt
-source-wordcount: '2085'
+source-wordcount: '2054'
 ht-degree: 0%
 
 ---
@@ -31,11 +31,11 @@ Vissa steg kräver hjälp från IT-avdelningen.
 
 >[!TIP]
 >
->Om du [skriv ut den här checklistan](/help/marketo/getting-started/setup/setup-checklist.md){target=&quot;_blank&quot;} kan du avmarkera objekt när du slutför dem.
+>Om du [skriv ut den här checklistan](/help/marketo/getting-started/setup/setup-checklist.md){target="_blank"}kan du avmarkera objekt när du slutför dem.
 
 ## Logga in och skapa fler Marketo-användare {#log-in-and-create-additional-marketo-users}
 
-1. Logga in på Marketo [här](https://app.marketo.com/){target=&quot;_blank&quot;} med de inloggningsuppgifter som du fick via e-post.
+1. Logga in på Marketo [här](https://app.marketo.com/){target="_blank"} med de inloggningsuppgifter du fått via e-post.
 
    ![](assets/setup-steps-1.png)
 
@@ -79,7 +79,7 @@ Välj en roll och klicka på **Nästa**. Standardanvändare har tillgång till a
 
 >[!NOTE]
 >
->Förutom de fem inbyggda rollerna kan du även skapa anpassade roller. Läs mer om [Hantera användarroller och behörigheter](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target=&quot;_blank&quot;}.
+>Förutom de fem inbyggda rollerna kan du även skapa anpassade roller. Läs mer om [Hantera användarroller och behörigheter](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
 
 Du kan redigera texten i inbjudan. Klicka **Skicka**.
 
@@ -91,13 +91,13 @@ Den nya användaren visas nu på fliken Användare och bör få ett e-postmeddel
 
 ## Konfigurera dina auktoriserade supportkontakter {#set-up-your-authorized-support-contacts}
 
-Du kan ha fått ett e-postmeddelande från Marketo Support om att du är Marketo kundsupportadministratör för ditt företag. I så fall kan du konfigurera **behöriga supportkontakter** för ert team. Endast behöriga supportkontakter kan kontakta Marketo kundsupport direkt via [Marketo supportportal](https://support.marketo.com){target=&quot;_blank&quot;}.
+Du kan ha fått ett e-postmeddelande från Marketo Support om att du är Marketo kundsupportadministratör för ditt företag. I så fall kan du konfigurera **behöriga supportkontakter** för ert team. Endast behöriga supportkontakter kan kontakta Marketo kundsupport direkt via [Marketo supportportal](https://support.marketo.com){target="_blank"}.
 
 >[!NOTE]
 >
 >Antalet supportkontakter som du kan skapa beror på vilket paket du har köpt. Den här gränsen anges i ditt e-postmeddelande från Marketo Support.
 
-Authorized Support Contact docs has move to the Marketo Community. Se [den här artikeln](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target=&quot;_blank&quot;}.
+Authorized Support Contact docs has move to the Marketo Community. Se [den här artikeln](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}.
 
 >[!NOTE]
 >
@@ -125,19 +125,19 @@ Välj en CNAME för dina landningssidor. Några exempel:
 
 Den första delen (i fet stil) är den `[LandingPageCNAME]`. Du behöver det i steg 5.
 
-Om du vill hämta kontosträngen som du ska ersätta med landningssidan CNAME går du till området Admin.
+Om du vill hämta det Munchkin-ID som du ska ersätta med landningssidan CNAME går du till administratörsområdet.
 
 ![](assets/setup-steps-9.png)
 
-Klicka **Landningssidor**.
+Klicka **Mitt konto**.
 
 ![](assets/setup-steps-10.png)
 
-Kopiera kontosträngen från inställningarna för landningssidan.
+Bläddra ned till &quot;Support Information&quot; och kopiera ditt Munchkin-ID.
 
 ![](assets/setup-steps-11.png)
 
-Det här är `[AccountString]`. Spara den. Du måste ge den till IT i steg 5.
+Det här är `[Munchkin ID]`. Spara den. Du måste ge den till IT i steg 5.
 
 Konfigurera domäninställningarna så att landningssidorna använder företagets domän i stället för Marketo (där de finns).
 
@@ -155,7 +155,7 @@ Du kan vidta flera åtgärder för att se till att e-postmeddelandena når så m
 * **Konfigurera en MX-post för din domän.** Med en MX-post kan du ta emot e-post till domänen som du skickar e-post från för att bearbeta svar och automatiska svar. Om du skickar från din företagsdomän har du förmodligen redan konfigurerat detta. Annars kan du vanligtvis konfigurera så att den mappar till företagets domäns MX-post.
 * **Rekommenderade inställningar för Från-adressen.** Du måste använda en giltig, befintlig och fungerande e-postdomän i Från adress i alla e-postkampanjer. Det kan vara bra att konfigurera en underdomän till din företagsdomän i stället för att skicka från din företagsdomän. Detta säkerställer att problem från företagets e-postström inte påverkar Marketo mailstream och vice versa. Dessutom skickar du e-post från `something@nonexistentdomain.com` gör att e-post filtreras eller blockeras. Alla domäner som används i avsändarens Från-adress måste ha ett giltigt och fungerande postmaster@- och missbruk@-konto.
 
-Om du använder Google Apps för att lagra din företagsmejl kan du inte skapa missbruk@- eller postmaster@-e-post under din domän. För att komma runt detta måste du skapa grupper som heter &quot;missbruk&quot; och &quot;postmaster&quot;. Användare som är medlemmar i dessa grupper får e-postmeddelanden som skickas till dessa adresser (t.ex. postmaster@domain.com). Detaljerade instruktioner för hur du skapar grupper finns [här](https://support.google.com/a/answer/33343#adminconsole){target=&quot;_blank&quot;}.
+Om du använder Google Apps för att lagra din företagsmejl kan du inte skapa missbruk@- eller postmaster@-e-post under din domän. För att komma runt detta måste du skapa grupper som heter &quot;missbruk&quot; och &quot;postmaster&quot;. Användare som är medlemmar i dessa grupper får e-postmeddelanden som skickas till dessa adresser (t.ex. postmaster@domain.com). Detaljerade instruktioner för hur du skapar grupper finns [här](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}.
 
 Välj en CNAME för länkar för e-postspårning (välj en som är _olika_ från landningssidan (CNAME du valde i steg 3). Några exempel:
 
@@ -207,13 +207,13 @@ Klistra in den här texten i e-postmeddelandet och ersätt platshållarna med fo
 >
 >Se steg 3 och 4 ovan för att bestämma vilken text som ska ersätta platshållarna. Kom ihåg att `[LandingPageCNAME]` och `[EmailTrackingCNAME]` måste vara annorlunda.
 
-`---------------------------------------------`
+`----------------------------------------------`
 
 Bästa IT-administratör!
 
 Vårt marknadsföringsteam använder nu Marketo-plattformen för att kommunicera med våra medarbetare. För att e-postleveransen ska bli så bra som möjligt måste vi göra följande ändringar:
 
-`1)` Lägg till en DNS-post (CNAME) för våra landningssidor **[LandingPageCNAME]**.**[CompanyDomain]**.com, peka på **[AccountString]**.mktoweb.com.
+`1)` Lägg till en DNS-post (CNAME) för våra landningssidor **[LandingPageCNAME]**.**[CompanyDomain]**.com, peka på **[Munchkin-ID]**.mktoweb.com.
 
 `2)` Lägg till en DNS-post (CNAME) för våra spårningslänkar i e-post **[EmailTrackingCNAME]**.**[CompanyDomain]**.com, peka på **[MktoTrackingLink]**.
 
@@ -276,7 +276,7 @@ Kärlek,
 
 **`[Your Name]`**
 
-`---------------------------------------------`
+`----------------------------------------------`
 
 Skicka e-postmeddelandet till IT. Vi förstår att det kan ta lite tid för IT-avdelningen att utföra dessa uppgifter. Du kan fortsätta till steg 7, men kom ihåg att du måste gå tillbaka till steg 6 för att slutföra installationen av Marketo.
 
@@ -335,7 +335,7 @@ Välj något av följande, beroende på vilken CRM ditt företag använder.
 >
 >Är du kund i Launch Pack? Du kan hoppa över det här steget. Din konsult kommer att ge dig instruktioner om Munchkins kod i ditt dokument med IT-konfigurationsinstruktioner.
 
-Marketo har anpassad spårning av JavaScript (kallas Munchkin) som du kan använda för att spåra personaktiviteter på alla webbsidor. Munchkin krävs för att du ska kunna integrera din webbplats i Marketo. Följ de här stegen för att [Lägg till Munchkin-spårningskod på din webbplats](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target=&quot;_blank&quot;}.
+Marketo har anpassad spårning av JavaScript (kallas Munchkin) som du kan använda för att spåra personaktiviteter på alla webbsidor. Munchkin krävs för att du ska kunna integrera din webbplats i Marketo. Följ de här stegen för att [Lägg till Munchkin-spårningskod på din webbplats](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -343,6 +343,6 @@ Marketo har anpassad spårning av JavaScript (kallas Munchkin) som du kan använ
 
 ## Prestandaförväntningar {#performance-expectations}
 
-Vad kan du förvänta dig när det gäller prestanda från Marketo? Den kan variera beroende på hur stora och komplexa era marknadsföringskampanjer är. Men du kan förvänta dig prestandanivåer som är jämförbara med vad som beskrivs i kolumnen &quot;Standard&quot; i flera av tabellerna i [Marketo Engage produktbeskrivning](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target=&quot;_blank&quot;}. Kolumnerna&quot;Prestanda&quot; och&quot;Prestanda plus&quot; refererar till prestandanivåpaket som innehåller [högre prestandanivåer](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target=&quot;_blank&quot;}.
+Vad kan du förvänta dig när det gäller prestanda från Marketo? Den kan variera beroende på hur stora och komplexa era marknadsföringskampanjer är. Men du kan förvänta dig prestandanivåer som är jämförbara med vad som beskrivs i kolumnen &quot;Standard&quot; i flera av tabellerna i [Marketo Engage produktbeskrivning](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. The "Performance" and "Performance Plus" columns refer to performance tier packages that provide [higher performance levels](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 Alla installationssteg är klara. Det enda som återstår är att dyka in och använda Marketo!
