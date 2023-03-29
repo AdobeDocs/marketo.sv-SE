@@ -3,9 +3,9 @@ unique-page-id: 14745959
 description: Versionsinformation -Spring '18 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - våren 18
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '480'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion
 
 >[!AVAILABILITY]
 >
->Sales Engage är en tilläggsprodukt. Kontakta din Marketo Customer Success Manager eller kontoansvarige för en offert.
+>Sales Engage är en tilläggsprodukt. Kontakta er kontoansvarige på Marketo eller kontoansvarige för en offert.
 
 Öka intäkterna och produktionsmöjligheterna genom att möjliggöra försäljning med intelligens, innehåll, spelböcker och analyser för att omvandla fler leads till säljmöjligheter. Sales Engage ger försäljning och marknadsföring en enhetlig plattform för engagemang under hela kundresan och möjliggör bättre samordning genom en delad vy av kundkontaktytor.
 

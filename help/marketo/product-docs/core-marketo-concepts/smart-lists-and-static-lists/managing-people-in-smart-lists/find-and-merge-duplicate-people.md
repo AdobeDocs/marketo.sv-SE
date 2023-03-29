@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: Sök och sammanfoga duplicerade personer - Marketo Docs - produktdokumentation
 title: Sök och sammanfoga duplicerade personer
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -80,6 +80,6 @@ Mer information om Salesforce-beteendet när du sammanfogar leads eller kontakte
 
 ## Masssammanslagning {#bulk-merging}
 
-Om du har för många dubbletter för att sammanfoga manuellt kan du kontakta din Customer Success Manager och diskutera dina alternativ.
+Om du har för många dubbletter för att sammanfoga manuellt kontaktar du kontogruppen (din kontohanterare) på Adobe för att diskutera dina alternativ.
 
-Suverän! Om du är ansluten till en CRM sammanfogas posterna där enligt reglerna nedan.
+Om du är ansluten till en CRM sammanfogas posterna där enligt reglerna nedan.

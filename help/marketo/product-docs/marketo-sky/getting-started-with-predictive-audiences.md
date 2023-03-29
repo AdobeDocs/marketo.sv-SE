@@ -4,9 +4,9 @@ title: Komma igång med prediktiva målgrupper
 hide: true
 hidefromtoc: true
 exl-id: d39afacc-30e0-4b7c-9b78-18fa95505553
-source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -26,10 +26,10 @@ AI/ML-modellernas prestanda beror på informationen i din prenumeration. Ju ofta
 
 ## Tillgänglighet {#availability}
 
-Prediktiva målgrupper inkluderas och aktiveras automatiskt för instanser som använder prispaket för Prime eller Ultimate. Kontakta din Customer Success Manager om du vill veta mer om hur du får tillgång till den här funktionen.
+Prediktiva målgrupper inkluderas och aktiveras automatiskt för instanser som använder prispaket för Prime eller Ultimate. Om du vill veta mer om hur du får tillgång till den här funktionen kontaktar du kontoteamet på Adobe (din kontoansvarige).
 
 1. När funktionen har lagts till i instansen går du till **[!UICONTROL Predictive Audiences]** sidan i **[!UICONTROL Admin]** område på [!DNL Marketo Classic].
 
-1. Kontrollera **[!UICONTROL Enable Predictive Audiences]** för att aktivera funktionen. Observera att det kan ta upp till 24 timmar för alla processer att slutföra installationen.
+1. Kontrollera **[!UICONTROL Enable Predictive Audiences]** för att aktivera funktionen. Observera att det kan ta upp till 24 timmar för alla processer att slutföra installationen.
 
    ![Bild ett](assets/getting-started-with-predictive-audiences-1.png)

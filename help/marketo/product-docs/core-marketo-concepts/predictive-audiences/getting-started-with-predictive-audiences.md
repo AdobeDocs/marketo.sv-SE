@@ -2,9 +2,9 @@
 description: Komma igång med prediktiva målgrupper - Marketo Docs - produktdokumentation
 title: Komma igång med prediktiva målgrupper
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
-source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -16,21 +16,21 @@ Predictive Audiences (PA) använder artificiell intelligens och maskininlärning
 PA har följande funktioner:
 
 * Värden för registrering och närvaro av sannolikhet för varje lead i ett händelseprogram
-* [Prediktiva filter](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target=&quot;_blank&quot;}
-* [Modeller och påverkande faktorer](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target=&quot;_blank&quot;}
+* [Prediktiva filter](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target="_blank"}
+* [Modeller och påverkande faktorer](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target="_blank"}
 * AI/ML-baserade insikter
-* Målspårning och projekterad registrering - (Målspårning är endast tillgängligt för dem som har aktiverat nästa generations alternativknapp för händelseprogram - om du vill komma åt den här växlingsknappen, kontakta CSM och begära prediktiva målgrupper)
+* Målspårning och projekterad registrering - (Målspårning är endast tillgängligt för dem som har det moderna användargränssnittet aktiverat för händelseprogram)
 
 >[!NOTE]
 >
->Målspårning och projicerade registreringar gäller endast för dem som har nästa generations toggle aktiverat för Event Programs.
+>Målspårning och projicerade registreringar gäller endast för dem som har den moderna UX-växlingen aktiverad för händelseprogram.
 
 AI/ML-modellernas prestanda beror på informationen i din prenumeration. Ju oftare en modell används, desto mer finjusterad blir den till dina specifika prenumerationsdata och din verksamhet.
 
 ## Tillgänglighet
 
-Prediktiva målgrupper inkluderas och aktiveras automatiskt för instanser som använder prispaket för Prime eller Ultimate. Kontakta din Customer Success Manager om du vill veta mer om hur du får tillgång till den här funktionen.
+Prediktiva målgrupper inkluderas och aktiveras automatiskt för instanser som använder prispaket för Prime eller Ultimate. Om du vill veta mer om hur du får tillgång till den här funktionen kontaktar du kontoteamet på Adobe (din kontoansvarige).
 
 1. När funktionen har lagts till i instansen går du till **[!UICONTROL Predictive Audiences]** sidan i **[!UICONTROL Admin]** Marketo.
 
-1. Kontrollera **[!UICONTROL Enable Predictive Audiences]** för att aktivera funktionen. Observera att det kan ta upp till 24 timmar för alla processer att slutföra installationen.
+1. Kontrollera **[!UICONTROL Enable Predictive Audiences]** för att aktivera funktionen. Observera att det kan ta upp till 24 timmar för alla processer att slutföra installationen.

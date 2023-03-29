@@ -3,9 +3,9 @@ unique-page-id: 13796464
 description: Sales Connect Overview - Marketo Docs - produktdokumentation
 title: Översikt över Sales Connect
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
-source-git-commit: ac5d9c431a524164ce6f0cc076e9801ee52fd899
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Marketo Sales Connect är en mångfacetterad säljsupportlösning med många oli
 
 >[!AVAILABILITY]
 >
->Alla kunder har inte köpt den här funktionen. Kontakta din Customer Success Manager om du vill ha mer information.
+>Alla har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
 ## The Live Feed {#the-live-feed}
 

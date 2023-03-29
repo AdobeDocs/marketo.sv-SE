@@ -3,9 +3,9 @@ unique-page-id: 2360366
 description: Steg 3 av 3 - Anslut Marketo och Salesforce (Enterprise/Unlimited) - Marketo Docs - Produktdokumentation
 title: Steg 3 av 3 - Connect Marketo och Salesforce (Enterprise/Unlimited)
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
-source-git-commit: 8781c6cf2e64543809fe697e75ae6884969a4e40
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ I den här artikeln konfigurerar du Marketo att synkronisera med din konfigurera
 
    >[!CAUTION]
    >
-   >Om du ser knappen Logga in i Salesforce i stället för fälten Användarnamn/Lösenord/Token aktiveras din Marketo-prenumeration för OAuth. Please [referera till den här artikeln](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). Så snart synkroniseringen börjar med en uppsättning inloggningsuppgifter, **Salesforce-inloggningsuppgifter eller -prenumeration växlas inte**. Om du vill använda grundläggande autentisering kontaktar du din Customer Success Manager.
+   >Om du ser knappen Logga in i Salesforce i stället för fälten Användarnamn/Lösenord/Token aktiveras din Marketo-prenumeration för OAuth. Please [referera till den här artikeln](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). Så snart synkroniseringen börjar med en uppsättning inloggningsuppgifter, **Salesforce-inloggningsuppgifter eller -prenumeration växlas inte**. Om du vill använda grundläggande autentisering kontaktar du kontoteamet (din kontohanterare) på Adobe.
 
 1. Läs varningen och klicka sedan på **Bekräfta autentiseringsuppgifter**.
 

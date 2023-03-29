@@ -2,9 +2,9 @@
 description: Export av metadata för anpassade objekt - Marketo Docs - produktdokumentation
 title: Exportera metadata för anpassat objekt
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
-source-git-commit: a7fc7701326c51c802d4c632385d1de355646ad0
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ Om du använder vårt SOAP API eller Munchkin API kan du exportera det anpassade
 
 >[!AVAILABILITY]
 >
->Alla kunder har inte köpt den här funktionen. Kontakta din Customer Success Manager för mer information.
+>Alla kunder har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
 1. I Min Marketo klickar du på **Administratör**.
 

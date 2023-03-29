@@ -3,9 +3,9 @@ unique-page-id: 2359685
 description: Engagement Dashboard - Marketo Docs - produktdokumentation
 title: Instrumentpanelen för engagemang
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
-source-git-commit: 8920bc525075923b32e7330da20debb7b8f47b06
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Visar den genomsnittliga engagemangspoängen över tid och effekten av innehåll
 
 >[!AVAILABILITY]
 >
->Den här funktionen är tillgänglig som tillägg för kunder som använder Marketo Revenue Cycle Explorer. Kontakta din Customer Success Manager om du vill ha mer information.
+>Den här funktionen är tillgänglig som tillägg för kunder som använder Marketo Revenue Cycle Explorer. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
 ![](assets/image2014-9-15-16-3a45-3a50.png)
 

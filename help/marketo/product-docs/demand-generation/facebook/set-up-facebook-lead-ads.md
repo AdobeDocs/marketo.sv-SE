@@ -3,9 +3,9 @@ unique-page-id: 11379622
 description: Konfigurera Facebook Lead Ads - Marketo Docs - produktdokumentation
 title: Konfigurera Facebook Lead Ads
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Använd [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) för a
 
 >[!AVAILABILITY]
 >
->Kontakta din Customer Success Manager om du vill lägga till Facebook Lead Ads i din instans.
+>Om du vill lägga till Facebook Lead Ads i din instans kontaktar du kontoteamet på Adobe (din kontoansvarige).
 
 1. Gå till Marketo **Administratör**.
 

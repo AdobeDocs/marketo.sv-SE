@@ -2,7 +2,7 @@
 description: Begränsning av e-postanslutning - Marketo Docs - produktdokumentation
 title: Begränsning för e-postanslutning
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
 source-wordcount: '435'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Genom att integrera ditt Sales Connect-konto för att skicka via Exchange- eller
 
 >[!AVAILABILITY]
 >
->Den här funktionen är för närvarande i betaversion. Kontakta din Customer Success Manager om du vill gå med i betaversionen.
+>Den här funktionen finns för närvarande i Beta. Kontakta kontoteamet (din kontoansvarige) för att gå med.
 
 Begränsning av e-postanslutning gör att Sales Connect-administratörer kan konfigurera sändningsfrekvensen för e-postmeddelanden när Gmail eller Exchange används som leveranskanal, så att den hastighet med vilken e-postmeddelanden skickas till leveranskanalleverantören inte överskrider de tvingande gränserna.
 

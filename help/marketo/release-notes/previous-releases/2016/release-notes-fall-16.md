@@ -3,9 +3,9 @@ unique-page-id: 11384018
 description: Versionsinformation -höst 16 - Marketo Docs - produktdokumentation
 title: Versionsinformation - höst 16
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '682'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ Med ett universellt ID kan du komma åt flera Marketo-prenumerationer med en end
 
 ## Marketo kontobaserade marknadsföringsförbättringar {#marketo-account-based-marketing-enhancements}
 
-Nu kan ni tilldela kontoteam till namngivna konton i kontobaserad marknadsföring (ABM), till exempel kontoägare, säljutvecklingsrepresentant, affärsutvecklingsrepresentant och kundframgångsansvarig. Du kan också skapa kontoägarspecifika kontolistor och skicka personliga ABM-rapporter varje vecka till kontoteamet.
+Nu kan ni tilldela kontoteam till namngivna konton i kontobaserad marknadsföring (ABM), till exempel kontoägare, säljutvecklingsrepresentant, affärsutvecklingsrepresentant och kontohanterare. Du kan också skapa kontoägarspecifika kontolistor och skicka personliga ABM-rapporter varje vecka till kontoteamet.
 
 ![](assets/account-team-11-15-16.png)
 

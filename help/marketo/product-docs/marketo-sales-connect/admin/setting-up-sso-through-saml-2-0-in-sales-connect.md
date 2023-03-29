@@ -3,9 +3,9 @@ unique-page-id: 14352405
 description: Konfigurera enkel inloggning via SAML 2.0 i Sales Connect - Marketo Docs - produktdokumentation
 title: Konfigurera enkel inloggning via SAML 2.0 i Sales Connect
 exl-id: aab80626-d6d1-4194-9733-09c90c0b49a6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Vi stöder enkel inloggning via SAML 2.0-specifikationen. Men vi har för närva
 
 >[!NOTE]
 >
->Detta gäller endast **Marketo Sales Connect** kunder. Kontakta din Customer Success Manager om du inte har Sales Connect men vill veta mer.
+>Detta gäller endast **Marketo Sales Connect** -användare. Om du inte har Sales Connect men vill veta mer kontaktar du kontoteamet (din Account Manager) på Adobe.
 
 ## Krav {#requirements}
 

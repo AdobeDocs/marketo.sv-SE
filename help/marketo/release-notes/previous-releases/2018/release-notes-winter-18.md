@@ -3,9 +3,9 @@ unique-page-id: 13795395
 description: Versionsinformation -vinter '18 - Marketo Docs - produktdokumentation
 title: Versionsinformation -vinter '18
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '598'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Dessa förbättringar kommer att öka under 2018.
 
 >[!AVAILABILITY]
 >
->Performance Insights är en tilläggsprodukt. Kontakta din Marketo Customer Success Manager eller kontoansvarige för en offert.
+>Performance Insights är en tilläggsprodukt. Kontakta er kontoansvarige på Marketo eller kontoansvarige för en offert.
 
 Se hur era kampanjer och kanaler påverkar affärsresultaten med attribueringsanalys, interaktiva visualiseringar och en detaljerad datatabell.
 

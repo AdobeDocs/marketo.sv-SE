@@ -4,9 +4,9 @@ title: Ställa in en händelsekarta
 hide: true
 hidefromtoc: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
-source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Begränsa antalet personer som kan registrera sig för evenemanget med ett händ
 
 >[!NOTE]
 >
->Alla kunder har inte tillgång till den här funktionen. Kontakta din Customer Success Manager för mer information.
+>Alla har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
 >[!IMPORTANT]
 >Du måste ha minst två godkända landningssidor (en registreringssida och en hel registreringssida) i programmet innan du kan ange ett händelsetak.

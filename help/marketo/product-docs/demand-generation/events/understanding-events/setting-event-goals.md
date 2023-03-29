@@ -4,9 +4,9 @@ title: Ange händelsemål
 hide: true
 hidefromtoc: true
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
-source-git-commit: 7050d8f948d4ddd85aa102a4ed8f71f7b347fe5a
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,8 @@ ht-degree: 0%
 Ge evenemangen specifika mål och se hur de fungerar.
 
 >[!IMPORTANT]
->Alla kunder har inte tillgång till den här funktionen. Kontakta din Customer Success Manager för mer information.
+>
+>Alla har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
 1. Skapa ett händelseprogram.
 

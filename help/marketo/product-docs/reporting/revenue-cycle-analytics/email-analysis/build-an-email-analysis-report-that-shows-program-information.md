@@ -3,9 +3,9 @@ unique-page-id: 2360409
 description: Skapa en e-postanalysrapport som visar programinformation - Marketo Docs - produktdokumentation
 title: Skapa en e-postanalysrapport som visar programinformation
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Följ de här stegen för att skapa en e-postanalysrapport som visar e-postinfor
 
 >[!AVAILABILITY]
 >
->Alla kunder har inte köpt den här funktionen. Kontakta din Customer Success Manager för mer information.
+>Alla har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
 1. Starta **Intäktsutforskaren**.
 

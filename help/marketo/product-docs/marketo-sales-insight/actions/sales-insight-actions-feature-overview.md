@@ -2,9 +2,9 @@
 description: Sales Insight Actions Feature Overview - Marketo Docs - Product Documentation
 title: Funktionsöversikt för Sales Insight
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '1356'
+source-wordcount: '1360'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ Snabba upp prospekteringsarbetet med marknadsföringsstyrda verktyg för analys 
 
 >[!AVAILABILITY]
 >
->Den här funktionen är för närvarande i en fasad utrullning. Kontakta din Customer Success Manager eller mejl `sales-insights(at)adobe(dot)com` för att begära åtkomst.
+>Den här funktionen introduceras för närvarande för alla Sales Insight-användare. Om du vill bli prioriterad i utrullningen skickar du ett e-postmeddelande till `sales-insights(at)adobe(dot)com`.
 
 >[!NOTE]
 >
->En videoöversikt över Sales Insight Actions finns här: [klicka här](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target=&quot;_blank&quot;}.
+>En videoöversikt över Sales Insight Actions finns här: [klicka här](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
