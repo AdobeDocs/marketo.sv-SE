@@ -3,9 +3,9 @@ unique-page-id: 2953120
 description: Understanding Smart Campaigns - Marketo Docs - Product Documentation
 title: Om smarta kampanjer
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
-source-git-commit: 381e243a39b8249e88f06eeb1dcfc4863e3a497c
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 Om Marketo är en kraftfull bil är den smarta kampanjen verkligen motorn. Det är enkelt att komma igång, men du kan göra nästan vad du vill av det.
 
-Den smarta kampanjen har tre huvudområden: The [Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [Flöde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target=&quot;_blank&quot;} och [Schema](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target=&quot;_blank&quot;} -flikar.
+Den smarta kampanjen har tre huvudområden: The [Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} and [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} -tabbar.
 
 ## Smart List {#smart-list}
 
-Den smarta listan är hur du definierar WHO som du vill ha som mål med din smarta kampanj. Den har filter och utlösare.
+Den smarta listan är hur du definierar _som_ som ni vill inrikta er på med er smarta kampanj. Den har filter och utlösare.
 
 <table> 
  <tbody> 
@@ -58,4 +58,4 @@ Det finns en enorm mängd saker som den smarta kampanjen kan göra. Gör det så
 
 >[!MORELIKETHIS]
 >
->[Skapa en ny smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target=&quot;_blank&quot;}
+>[Skapa en ny smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}

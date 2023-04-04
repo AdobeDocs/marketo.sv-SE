@@ -3,9 +3,9 @@ unique-page-id: 7515767
 description: Dela segment mellan arbetsytor och partitioner - Marketo Docs - produktdokumentation
 title: Dela segment mellan arbetsytor och partitioner
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
-source-git-commit: 4d4d87d2a03bc0966a6e77d97cb68a2c38a3c676
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '469'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -49,35 +49,35 @@ När du har konfigurerat dessa profiler (_och_ om du använder arbetsytor) bör 
 
 ## Exempelscenarier {#example-scenarios}
 
-![](assets/image2015-5-27-16-3a26-3a25.png)
+![](assets/share-segmentations-across-workspaces-and-partitions-1.png)
 
-![](assets/image2015-5-27-16-3a26-3a48.png)
+![](assets/share-segmentations-across-workspaces-and-partitions-2.png)
 
 ## Dela en segmentering {#share-a-segmentation}
 
 1. Gå till **Databas**.
 
-   ![](assets/image2017-3-29-8-3a15-3a40.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-3.png)
 
-1. Högerklicka **Segmenteringar** och markera **Nya mappar**.
+1. Högerklicka **Segmenteringar** och markera **Ny mapp**.
 
-   ![](assets/image2017-3-29-8-3a40-3a31.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-4.png)
 
-1. Namnge mappen som du vill dela mellan arbetsytor (exempel: Dela segment).
+1. Namnge mappen som du vill dela mellan arbetsytor (exempel: Dela segment) och klicka på **Skapa**.
 
-   ![](assets/image2017-3-29-8-3a40-3a45.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-5.png)
 
 1. Flytta de segment som du vill dela till mappen.
 
-   ![](assets/image2017-3-29-8-3a41-3a3.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-6.png)
 
 1. Högerklicka på mappen och välj **Dela mapp**.
 
-   ![](assets/image2017-3-29-8-3a41-3a19.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-7.png)
 
 1. Markera den eller de arbetsytor som du vill dela mappen med. Klicka **Spara**.
 
-   ![](assets/share-segmentations-across-workspaces-and-partitions.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-8.png)
 
    >[!NOTE]
    >

@@ -3,9 +3,9 @@ unique-page-id: 2360311
 description: Skapa en ny arbetsyta - Marketo Docs - produktdokumentation
 title: Skapa en ny arbetsyta
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -74,4 +74,4 @@ Skapa så många arbetsytor du behöver och tilldela rätt personpartitioner til
 
 När du har skapat arbetsytan bör du se uppdateringen.
 
-![](assets/image2014-9-17-15-3a39-3a10.png)
+![](assets/create-a-new-workspace-7.png)

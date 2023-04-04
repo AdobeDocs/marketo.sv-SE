@@ -3,9 +3,9 @@ unique-page-id: 11380986
 description: Redigera en arbetsyta - Marketo Docs - produktdokumentation
 title: Redigera en arbetsyta
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -22,13 +22,17 @@ Ibland behöver du göra ändringar i en arbetsyta. Det är lätt.
 >
 >Pensla på arbetsytor med [Arbetsytor och personpartitioner](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Under **Administratör**, klicka på **Arbetsytor och partitioner**.
+1. Gå till **Administratör** område.
 
-   ![](assets/image2014-9-17-11-3a59-3a11-1.png)
+   ![](assets/edit-a-workspace-1.png)
+
+1. Klicka **Arbetsytor och partitioner**.
+
+   ![](assets/edit-a-workspace-2.png)
 
 1. Markera arbetsytan som du vill redigera och klicka på **Redigera arbetsyta**.
 
-   ![](assets/two-7.png)
+   ![](assets/edit-a-workspace-3.png)
 
 1. Du kan välja en annan lead-partition och välja en annan primär person i listrutan.
 
@@ -36,7 +40,7 @@ Ibland behöver du göra ändringar i en arbetsyta. Det är lätt.
    >
    >Du kan [skapa fler personpartitioner](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) om du behöver dem.
 
-   ![](assets/three-7.png)
+   ![](assets/edit-a-workspace-4.png)
 
    >[!NOTE]
    >
@@ -48,7 +52,7 @@ Ibland behöver du göra ändringar i en arbetsyta. Det är lätt.
 
    Om du har aktiverat flera domäner kan du byta till en annan primär domäner. Klicka **Spara**.
 
-   ![](assets/four-6.png)
+   ![](assets/edit-a-workspace-5.png)
 
    >[!NOTE]
    >

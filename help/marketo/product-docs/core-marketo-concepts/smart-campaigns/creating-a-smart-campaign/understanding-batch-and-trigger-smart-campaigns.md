@@ -3,9 +3,9 @@ unique-page-id: 2953132
 description: Understanding Batch and Trigger Smart Campaigns - Marketo Docs - Product Documentation
 title: Förstå smarta kampanjer i grupp och utlösare
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,11 @@ Det finns två typer av smarta kampanjer: Batch och utlösare.
 
 Smarta gruppkampanjer har bara filter i avsnittet med smarta listor (d.v.s. inga utlösare).
 
-![](assets/batch-filter.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-1.png)
 
 Klicka på **Schema** bekräftar att den smarta kampanjen är inställd på&quot;Batch&quot;.
 
-![](assets/batch-c4.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-2.png)
 
 **Smarta gruppkampanjer**
 
@@ -47,11 +47,11 @@ Klicka på **Schema** bekräftar att den smarta kampanjen är inställd på&quot
 
 Om en smart kampanj använder minst en utlösare i den smarta listsektionen ställs läget automatiskt in på utlösare.
 
-![](assets/trigger.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-3.png)
 
 Klicka på **Schema** bekräftar att den smarta kampanjen är inställd på&quot;Triggered&quot;.
 
-![](assets/trigger2.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-4.png)
 
 **Utlös smarta kampanjer**
 
