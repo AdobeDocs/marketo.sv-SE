@@ -3,24 +3,24 @@ unique-page-id: 1146942
 description: Definiera smart lista för smart kampanj | Utlösare - Marketo Docs - produktdokumentation
 title: Definiera smart lista för smart kampanj | Utlösare
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
-source-git-commit: a15a4b9bccb069b51186aac7b913008d15aa645e
+source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
 
 # Definiera smart lista för smart kampanj | Utlösare {#define-smart-list-for-smart-campaign-trigger}
 
-Få en smart kampanj att köras på en person i taget baserat på live-händelser genom att lägga till utlösare.
+Låt en Smart Campaign köras på en person i taget baserat på live-händelser genom att lägga till utlösare.
 
-1. Klicka på **Smart List** -fliken.
+1. Klicka på knappen **Smart List** -fliken.
 
-   ![](assets/image2014-9-19-16-3a22-3a55.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-1.png)
 
-1. Sök efter utlösaren och dra och släpp sedan utlösaren på arbetsytan.
+1. Sök efter önskad utlösare och dra och släpp den på arbetsytan.
 
-   ![](assets/image2014-9-19-16-3a23-3a24.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-2.png)
 
    >[!NOTE]
    >
@@ -32,7 +32,7 @@ Få en smart kampanj att köras på en person i taget baserat på live-händelse
 
 1. Klicka på listrutan och välj en operator.
 
-   ![](assets/image2014-9-19-16-3a23-3a29.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-3.png)
 
    >[!CAUTION]
    >
@@ -40,11 +40,11 @@ Få en smart kampanj att köras på en person i taget baserat på live-händelse
 
    >[!TIP]
    >
-   >I en smart kampanj med både utlösare och filter ligger utlösarna överst och när de aktiveras går bara personer som uppfyller filtervillkoren igenom flödet.
+   >I en Smart Campaign med både utlösare och filter ligger utlösarna överst och när de aktiveras går bara personer som uppfyller filtervillkoren igenom flödet.
 
 1. Definiera utlösaren.
 
-   ![](assets/image2014-9-19-16-3a24-3a36.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-4.png)
 
    >[!NOTE]
    >

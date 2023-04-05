@@ -3,9 +3,9 @@ unique-page-id: 1147051
 description: Checklista för smarta kampanjer - Marketo Docs - produktdokumentation
 title: Kontrolllista för smart kampanj
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Följ stegen nedan för att se till att den smarta kampanjen körs på ett smidi
 
 Klicka på **Smart List**. Ta bort röda, blanka linjer som du ser genom att åtgärda felen.
 
-![](assets/image2014-9-22-16-3a9-3a13.png)
+![](assets/smart-campaign-checklist-1.png)
 
 >[!TIP]
 >
@@ -32,9 +32,9 @@ Klicka på **Smart List**. Ta bort röda, blanka linjer som du ser genom att åt
 
 ## Hämta RID för flödesfel {#get-rid-of-flow-errors}
 
-Klicka på **Flöde**. Ta bort röda, blanka linjer genom att åtgärda felen.
+I din smarta kampanj klickar du på **Flöde**. Ta bort röda, blanka linjer genom att åtgärda felen.
 
-![](assets/image2014-9-22-16-3a10-3a49.png)
+![](assets/smart-campaign-checklist-2.png)
 
 >[!TIP]
 >
@@ -42,24 +42,24 @@ Klicka på **Flöde**. Ta bort röda, blanka linjer genom att åtgärda felen.
 
 ## Granska fliken Schema {#review-the-schedule-tab}
 
-I **Schema** flik, kontrollera **Smart** **Lista** **Status** för eventuella fel i den smarta kampanj som behöver korrigeras.
+I **Schema** flik, kontrollera **Smart** **Lista** **Status** för eventuella fel i den smarta kampanjen som behöver korrigeras.
 
-![](assets/three.png)
+![](assets/smart-campaign-checklist-3.png)
 
 ## Gräns för begränsning av personbegränsningar {#check-person-restrictions-limit}
 
 I **Schema** se till att antalet kvalificerade personer inte överstiger personbegränsningen.
 
-![](assets/four.png)
+![](assets/smart-campaign-checklist-4.png)
 
 >[!TIP]
 >
->Om det behövs kan du  [åsidosätta personbegränsningar i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+>Om det behövs kan du [åsidosätta personbegränsningar i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
 >[!NOTE]
 >
 >**Påminnelse**
 >
->Om din smarta kampanj fortfarande inte fungerar, lär dig hur [förstå meddelanden](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) för att ta reda på vad som gick fel och hur man åtgärdar det.
+>Om din smarta kampanj fortfarande inte fungerar, lär du dig hur [förstå meddelanden](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) för att ta reda på vad som gick fel och hur man åtgärdar det.
 
-Bra jobbat! Ha checklistan till hands innan du kör en smart kampanj.
+Bra jobbat! Använd checklistan innan du kör en smart kampanj.
