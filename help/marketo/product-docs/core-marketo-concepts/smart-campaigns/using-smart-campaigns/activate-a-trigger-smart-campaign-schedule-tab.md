@@ -3,20 +3,20 @@ unique-page-id: 1146935
 description: Aktivera en utlösare för smart kampanj | Fliken Schema - Marketo Docs - produktdokumentation
 title: Aktivera en utlösare för smart kampanj | Fliken Schema
 exl-id: f9232c91-aa39-4033-bd11-865d1cbc5eb2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 073a136953f1997436396cf3f2c87fdc1a3b9c1d
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
 # Aktivera en utlösare för smart kampanj | Fliken Schema {#activate-a-trigger-smart-campaign-schedule-tab}
 
-Att aktivera en utlösande smart kampanj är som att aktivera den. Så här gör du.
+Att aktivera en utlösare för Smart Campaign är som att aktivera den. Så här gör du.
 
-1. I den smarta kampanjens **Schema** flik, klicka **Aktivera**.
+1. I Smart Campaigns **Schema** flik, klicka **Aktivera**.
 
-   ![](assets/activateprogram-hands.png)
+   ![](assets/activate-a-trigger-smart-campaign-schedule-tab-1.png)
 
    >[!TIP]
    >
@@ -24,10 +24,10 @@ Att aktivera en utlösande smart kampanj är som att aktivera den. Så här gör
 
 1. Klicka **Aktivera** igen.
 
-   ![](assets/activatecampaign-hand.png)
+   ![](assets/activate-a-trigger-smart-campaign-schedule-tab-2.png)
 
    >[!CAUTION]
    >
-   >Se till att kampanjen är klar innan du klickar på Aktivera!
+   >Se till att kampanjen är klar innan du aktiverar den!
 
-Från och med nu kommer alla som uppfyller kraven för den smarta listan att gå igenom det flöde som definieras av den smarta kampanjen.
+Från och med nu kommer alla som uppfyller kraven för Smart List att gå igenom det flöde som definieras av Smart Campaign.

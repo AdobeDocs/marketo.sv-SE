@@ -3,9 +3,9 @@ unique-page-id: 1147053
 description: Avbryt en smart kampanj - Marketo Docs - produktdokumentation
 title: Avbryt en smart kampanj
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 073a136953f1997436396cf3f2c87fdc1a3b9c1d
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -16,29 +16,29 @@ ht-degree: 0%
 >
 >Endast för användning i nödsituationer
 
-Ibland startar man en smart kampanj och inser omedelbart att det var ett misstag. Så här drar du in nödbromsen och stoppar den smarta kampanjen mitt i körningen.
+Ibland startar man en Smart Campaign och inser omedelbart att det var ett misstag. Så här drar du in nödbromsen och stoppar Smart Campaign mitt i körningen.
 
-1. Under **Marknadsföringsaktiviteter** väljer du en smart kampanj och går till **Schema** -fliken.
+1. Välj önskad smart kampanj och klicka på **Schema** -fliken.
 
-   ![](assets/image2014-9-22-16-3a19-3a44.png)
+   ![](assets/abort-a-smart-campaign-1.png)
 
 1. Klicka på **Kampanjåtgärder** nedrullningsbar meny. Välj **Avbryt kampanj**.
 
-   ![](assets/image2014-9-22-16-19-48.png)
+   ![](assets/abort-a-smart-campaign-2.png)
 
 1. Klicka **Avbryt** för att bekräfta.
 
-   ![](assets/image2014-9-22-16-3a19-3a57.png)
+   ![](assets/abort-a-smart-campaign-3.png)
 
    >[!NOTE]
    >
-   >Om du avbryter ångras inte steg som redan är klara, det stoppar bara mer från att hända. (Exempel: E-postmeddelanden kan inte tas bort.)
+   >Om du avbryter ångras inte steg som redan är klara, det stoppar bara mer från att hända (exempel: e-postmeddelanden kan inte tas bort).
 
-   ![](assets/image2014-9-22-16-3a20-3a0.png)
+   ![](assets/abort-a-smart-campaign-4.png)
 
    >[!NOTE]
    >
-   >Ta en titt på **Resultat** fliken med den smarta kampanjen för att se vilka åtgärder som utfördes före avbrottet. Du hittar också en  [meddelande](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) med ytterligare information.
+   >Ta en titt på **Resultat** fliken i Smart Campaign för att se vilka åtgärder som utfördes före avbrottet. Du hittar också en  [meddelande](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) med ytterligare information.
 
    >[!TIP]
    >

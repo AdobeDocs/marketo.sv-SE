@@ -3,9 +3,9 @@ unique-page-id: 1147074
 description: Automatisk rensning av kampanjrensning - Marketo Docs - produktdokumentation
 title: Automatisk rensning av utlösarkampanj
 exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 073a136953f1997436396cf3f2c87fdc1a3b9c1d
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -22,17 +22,17 @@ En gång i kvartalet kommer Marketo att hitta smarta kampanjer som har stannat (
 
 Självklart! En gång per kvartal får ni ett meddelande en vecka i förväg med alla kampanjer vi planerar att inaktivera.
 
-1. Gå till **Meddelanden** -fliken.
+1. Klicka på **Meddelanden** ikon.
 
-   ![](assets/notifications.png)
+   ![](assets/automatic-trigger-campaign-cleanup-1.png)
 
 1. Klicka **Schemalagd rensning av inaktiv utlösarkampanj**. Klicka sedan på **Dessa inaktiva utlösarkampanjer kommer att inaktiveras** länk.
 
-   ![](assets/image2015-4-27-20-3a48-3a35.png)
+   ![](assets/automatic-trigger-campaign-cleanup-2.png)
 
    En lista över smarta kampanjer som ska inaktiveras visas.
 
-   ![](assets/image2015-4-27-20-3a35-3a29.png)
+   ![](assets/automatic-trigger-campaign-cleanup-3.png)
 
 ## Vilka kampanjer kommer att inaktiveras? {#which-campaigns-will-be-deactivated}
 
@@ -53,8 +53,8 @@ Absolut - en vecka efter det ursprungliga meddelandet inaktiverar vi de listade 
 
 1. Välj **Schemalagd rensning av inaktiv utlösarkampanj** meddelande. Klicka på **Dessa inaktiva utlösarkampanjer** länk.
 
-   ![](assets/image2015-4-27-20-3a56-3a41.png)
+   ![](assets/automatic-trigger-campaign-cleanup-4.png)
 
 1. En lista över inaktiverade kampanjer visas.
 
-   ![](assets/image2015-4-27-20-3a58-3a38.png)
+   ![](assets/automatic-trigger-campaign-cleanup-5.png)
