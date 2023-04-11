@@ -3,9 +3,9 @@ unique-page-id: 11372975
 description: Steg 1 av 3 -Lägg till Marketo-fält i Salesforce (Professional) - Marketo Docs - Produktdokumentation
 title: Steg 1 av 3 -Lägg till Marketo-fält i Salesforce (Professional)
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
-source-git-commit: 7de9b708626172aa6fa0a2fcb87c8aa534d5e9f7
+source-git-commit: e84b8e03ce87f8aa0f16d2b0f22ee992e4151a55
 workflow-type: tm+mt
-source-wordcount: '798'
+source-wordcount: '782'
 ht-degree: 0%
 
 ---
@@ -251,13 +251,10 @@ Ett anpassat fält på lead-objektet i Salesforce bör mappas till ett kontaktf�
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
 1. Upprepa stegen ovan för alla andra fält som du har skapat.
+
 1. Klicka på Spara när du är klar.
 
 Inte så lätt, eller hur?
-
->[!NOTE]
->
->Här är en [video från hela processen](https://nation.marketo.com/videos/1475) som borde göra det kristallklart!
 
 >[!MORELIKETHIS]
 >
