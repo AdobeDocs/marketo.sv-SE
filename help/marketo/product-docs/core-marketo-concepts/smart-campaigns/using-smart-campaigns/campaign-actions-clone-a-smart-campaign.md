@@ -3,9 +3,9 @@ unique-page-id: 1146989
 description: Kampanjåtgärder -Klona en smart kampanj - Marketo Docs - Produktdokumentation
 title: Kampanjåtgärder -Klona en smart kampanj
 exl-id: 47441923-5a6a-4a9e-9753-85959bd3744f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -14,16 +14,16 @@ ht-degree: 0%
 
 Kloningskampanjer kan spara tid åt er. Du behöver inte skapa allt från början - kloningen skapar en identisk kampanj med exakt samma smarta listfilter och flödessteg.
 
-1. Hitta den kampanj du vill klona, markera den och sedan under **Kampanjåtgärder** klicka på **Klona**.
+1. Välj den kampanj som du vill klona. I **Kampanjåtgärder** nedrullningsbar meny, välja **Klona**.
 
-   ![](assets/image2014-9-22-13-3a56-3a34.png)
+   ![](assets/campaign-actions-clone-a-smart-campaign-1.png)
 
 1. Välj lämplig **Klona till** alternativ. I det här exemplet väljer vi **Program**.
 
-   ![](assets/image2014-9-22-13-3a56-3a56.png)
+   ![](assets/campaign-actions-clone-a-smart-campaign-2.png)
 
 1. Välj en **Program**. Ange **Kampanjnamn** och klicka **Klona**.
 
-   ![](assets/image2014-9-22-13-3a57-3a9.png)
+   ![](assets/campaign-actions-clone-a-smart-campaign-3.png)
 
 Och klart!
