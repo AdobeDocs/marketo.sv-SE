@@ -3,9 +3,9 @@ unique-page-id: 4720710
 description: Konfigurera SPF och DKIM för din e-postleverans - Marketo Docs - Produktdokumentation
 title: Konfigurera SPF och DKIM för e-postleveransen
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
-source-git-commit: de32becbfe74c2a88c53de8af8be4ee022782114
+source-git-commit: c69d04702a5191f2809cc308e48acfeab7edfc7f
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -46,12 +46,11 @@ När du har konfigurerat den offentliga nyckeln i din DNS-post och aktiverat den
 
 **Hur ställer jag upp DKIM?**
 
-Se [Konfigurera en anpassad DKIM-signatur](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md).
+Se [Konfigurera en anpassad DKIM-signatur](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* [Läs mer om SPF och hur det fungerar](http://www.open-spf.org/Introduction/)
->* [Marketo verktyg för e-postleverans](https://www.marketo.com/software/email-marketing/email-deliverability/)
->* [Är min SPF korrekt konfigurerad?](https://www.kitterman.com/spf/validate.html)
->* [Använde jag rätt syntax?](http://www.open-spf.org/SPF_Record_Syntax/)
+>* [Läs mer om SPF och hur det fungerar](http://www.open-spf.org/Introduction/){target="_blank"}
+>* [Är min SPF korrekt konfigurerad?](https://www.kitterman.com/spf/validate.html){target="_blank"}
+>* [Använde jag rätt syntax?](http://www.open-spf.org/SPF_Record_Syntax/){target="_blank"}
 
