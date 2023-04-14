@@ -3,7 +3,7 @@ unique-page-id: 9437991
 description: Utlösare och filter för smarta mobilkampanjer - Marketo Docs - produktdokumentation
 title: Utlösare och filter för smarta mobilkampanjer
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 0%
@@ -28,13 +28,13 @@ Det finns bara filter för den här aktiviteten:
 
 Sök efter **mobilapp** i den högra panelen för att lista alla mobilappsutlösare och -filter.
 
-![](assets/image2015-8-12-17-3a25-3a18.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-1.png)
 
 ## Begränsningar {#constraints}
 
 Använd begränsningar med utlösare och filter för att ytterligare sortera data.
 
-![](assets/image2015-8-17-12-3a6-3a33.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-2.png)
 
 Alla utlösare och filter, förutom för Skickat push-meddelande, innehåller följande två standardbegränsningar:
 
@@ -70,7 +70,7 @@ Använd det här filtret för att ta reda på alla som har installerat din app. 
 
 **Begränsningar**: Enhetstyp, plattform, mobilapp, mobilappsversion, enhetstyp, installationskälla, är aktiverad och språkinställning
 
-![](assets/image2015-8-21-13-3a33-3a54.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
 >[!TIP]
 >
@@ -86,7 +86,7 @@ Mobilappen är/har installerats
 
 **Begränsningar**: Enhetstyp, plattform, appversion, språk och installationskälla
 
-![](assets/image2015-8-17-13-3a11-3a3.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
 Mobilappen har öppnats/öppnats
 
@@ -98,7 +98,7 @@ Mobilappen har öppnats/öppnats
 
 **Begränsningar**: Enhetstyp och plattform
 
-![](assets/image2015-8-17-13-3a13-3a55.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-5.png)
 
 Har/haft aktivitet för mobilappar
 
@@ -138,7 +138,7 @@ Med åtgärdsbegränsningarna kan du använda utlösaren och filtren för att sp
 
 Så här ser filtret ut i Marketo:
 
-![](assets/image2015-8-17-13-3a16-3a12.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-6.png)
 
 >[!NOTE]
 >
@@ -163,7 +163,7 @@ Så här ser filtret ut i Marketo:
 
 **Begränsningar**: Enhetstyp, plattform och sessionslängd (sekunder)
 
-![](assets/image2015-8-17-13-3a18-3a34.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-7.png)
 
 Tryck/tryck på push-meddelande
 
@@ -175,7 +175,7 @@ Tryck/tryck på push-meddelande
 
 **Begränsningar**: Enhetstyp, plattform, mobilappsversion, push-meddelande och plattformsversion
 
-![](assets/image2015-8-21-14-3a2-3a24.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-8.png)
 
 >[!TIP]
 >
@@ -189,7 +189,7 @@ Tryck/tryck på push-meddelande
 
 **Begränsningar**: Push-meddelanden och mobilapp
 
-![](assets/image2015-8-21-14-3a3-3a50.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-9.png)
 
 >[!MORELIKETHIS]
 >
