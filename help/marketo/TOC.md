@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
+source-git-commit: 08cfd71b75e58a0185e57c115c2dee59fbfdce1f
 workflow-type: tm+mt
-source-wordcount: '8868'
+source-wordcount: '8863'
 ht-degree: 0%
 
 ---
@@ -694,7 +694,7 @@ ht-degree: 0%
             + [Lägg till en landsväljare i formuläret](product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
             + [Lägga till RTF i ett formulär](product-docs/demand-generation/forms/form-actions/add-rich-text-to-a-form.md)
             + [Ändra språkinställning för ett formulär](product-docs/demand-generation/forms/form-actions/change-a-forms-locale.md)
-            + [Ändra språk för formulärvalidering/felmeddelanden och Skicka-knapp](product-docs/demand-generation/forms/form-actions/change-the-language-of-form-validation-error-messages-and-submit-button.md)
+            + [Ändra språket i ett formulär](product-docs/demand-generation/forms/form-actions/change-the-language-of-a-form.md)
             + [Konfigurera progressiv profilering av formulär](product-docs/demand-generation/forms/form-actions/configure-form-progressive-profiling.md)
             + [Definiera värden i ett alternativfält eller markerat fält i ett formulär](product-docs/demand-generation/forms/form-actions/define-values-in-a-radio-or-selected-field-in-a-form.md)
             + [Ta bort ett formulär](product-docs/demand-generation/forms/form-actions/delete-a-form.md)
