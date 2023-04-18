@@ -3,7 +3,8 @@ description: Skapa ett interaktivt webbinarium - Marketo Docs - produktdokumenta
 title: Skapa ett interaktivt webbinarium
 hide: true
 hidefromtoc: true
-source-git-commit: 08cfd71b75e58a0185e57c115c2dee59fbfdce1f
+exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
+source-git-commit: 06dab22b1785abc2ccca688dbb5bf3997d6c7fe0
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
