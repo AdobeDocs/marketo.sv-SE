@@ -4,9 +4,9 @@ title: Skapa ett interaktivt webbinarium
 hide: true
 hidefromtoc: true
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
-source-git-commit: 06dab22b1785abc2ccca688dbb5bf3997d6c7fe0
+source-git-commit: a90f752b291e6d34c920a94795011a8c9efa6d5b
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -21,20 +21,30 @@ Intro.
 
 1. Högerklicka på önskad mapp och välj **Nytt program**.
 
-PICC
+   ![](assets/create-an-interactive-webinar-2.png)
 
 1. Ge evenemanget ett namn. Under Programtyp väljer du **Händelse**.
 
-PICC
+   ![](assets/create-an-interactive-webinar-3.png)
 
 1. Klicka på listrutan Kanal och välj **Webbinarium**.
 
-PICC
+   ![](assets/create-an-interactive-webinar-4.png)
 
-1. Välj **Interaktiva webbinarier** och klicka **Skapa**.
+1. Välj **Interaktiva webbinarier** och klicka **Nästa**.
 
-PICC
+   ![](assets/create-an-interactive-webinar-5.png)
 
->[!NOTE]
->
->Information om partnerwebbinarier finns här.
+   >[!NOTE]
+   >
+   >Information om partnerwebbinarier finns här.
+
+1. Ange maximal målgruppsstorlek för webbinariet och hur länge det ska vara.
+
+   ![](assets/create-an-interactive-webinar-6.png)
+
+1. Schemalägg datum/tid för ditt webbinarium.
+
+   ![](assets/create-an-interactive-webinar-7.png)
+
+1. Text

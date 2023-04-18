@@ -3,9 +3,9 @@ unique-page-id: 9437991
 description: Utlösare och filter för smarta mobilkampanjer - Marketo Docs - produktdokumentation
 title: Utlösare och filter för smarta mobilkampanjer
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
-source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
+source-git-commit: a90f752b291e6d34c920a94795011a8c9efa6d5b
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '823'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ Använd det här filtret för att ta reda på alla som har installerat din app. 
 >
 >Filtret hittar både aktuella och tidigare installationer eftersom Marketo inte spårar programavinstallationer.
 
-**Begränsningar**: Enhetstyp, plattform, mobilapp, mobilappsversion, enhetstyp, installationskälla, är aktiverad och språkinställning
+**Begränsningar** - Enhetstyp, plattform, mobilapp, mobilappsversion, enhetstyp, installationskälla, är aktiverad och språkinställning
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
@@ -84,7 +84,7 @@ Mobilappen är/har installerats
 
 * NOT Mobile App was Installed - inactivity filter
 
-**Begränsningar**: Enhetstyp, plattform, appversion, språk och installationskälla
+**Begränsningar** - Enhetstyp, plattform, appversion, språk och installationskälla
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
@@ -96,7 +96,7 @@ Mobilappen har öppnats/öppnats
 
 * NOT Mobile App was Opened - inactivity filter
 
-**Begränsningar**: Enhetstyp och plattform
+**Begränsningar** - Enhetstyp och plattform
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-5.png)
 
@@ -110,7 +110,7 @@ Dessa är ett kraftfullt sätt att spåra anpassad mobilaktivitet. Du måste arb
 
 * Inte har mobilappsaktivitet - inaktivitetsfilter
 
-**Begränsningar**: Enhetstyp och plattform, plus ytterligare fem:
+**Begränsningar** - Enhetstyp, plattform, mobilappsversion, språkområde, plattformsversion plus ytterligare fem:
 
 * Åtgärd - Anpassad mobilaktivitet
 
@@ -161,7 +161,7 @@ Så här ser filtret ut i Marketo:
 
 * Inte hade mobilappssession - inaktivitetsfilter
 
-**Begränsningar**: Enhetstyp, plattform och sessionslängd (sekunder)
+**Begränsningar** - Enhetstyp, plattform och sessionslängd (sekunder)
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-7.png)
 
@@ -173,7 +173,7 @@ Tryck/tryck på push-meddelande
 
 * Ej aktiverat push-meddelande - inaktivitetsfilter
 
-**Begränsningar**: Enhetstyp, plattform, mobilappsversion, push-meddelande och plattformsversion
+**Begränsningar** - Enhetstyp, plattform, mobilappsversion, push-meddelanden och plattformsversion
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-8.png)
 
@@ -187,7 +187,7 @@ Tryck/tryck på push-meddelande
 
 * EJ skickat push-meddelande - inaktivitetsfilter
 
-**Begränsningar**: Push-meddelanden och mobilapp
+**Begränsningar** - Push-meddelanden och mobilapp
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-9.png)
 
