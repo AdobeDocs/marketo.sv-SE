@@ -2,16 +2,16 @@
 description: Aktuell versionsinformation – Marketo Docs – produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 3c4f24edeba54a5275ae876e228388cf975438fb
+source-git-commit: 3118fa0cbb3981c01a2f6f17f8bfd2bcc6cfa672
 workflow-type: tm+mt
-source-wordcount: '617'
+source-wordcount: '480'
 ht-degree: 2%
 
 ---
 
-# Versionsinformation: Mars 2023 {#release-notes-mar-23}
+# Versionsinformation: Maj 2023 {#release-notes-may-23}
 
-Här nedan hittar du alla funktioner som ingår i utgåvan från mars 23. Se om det finns funktioner i din Adobe Marketo Engage-utgåva.
+Här nedan hittar du alla funktioner som ingår i versionen från maj 23. Se om det finns funktioner i din Adobe Marketo Engage-utgåva.
 
 >[!AVAILABILITY]
 >
@@ -19,27 +19,13 @@ Här nedan hittar du alla funktioner som ingår i utgåvan från mars 23. Se om 
 
 ## Standardfunktioner för lanseringscykel {#standard-release-cycle-features}
 
-Följande funktioner faller under standardversionscykeln och kommer att släppas den **31 mars 2023**, med en stegvis utrullning av återstående funktioner under de följande veckorna. Versionsfunktioner och datum kan komma att ändras. Kontrollera status för respektive funktion nedan.
+Följande funktioner faller under standardversionscykeln och kommer att släppas den **19 maj 2023**, med en stegvis utrullning av återstående funktioner under de följande veckorna. Versionsfunktioner och datum kan komma att ändras. Kontrollera status för respektive funktion nedan.
 
 ### Marketo Engage Modern UX {#modern-ux}
 
 </br>
 
-* **Förbättrat Används av komponenten för information om landningssidmallar och formulärdetaljer**: Fliken Nytt Används av användargränssnitt innehåller ytterligare information i Information om landningssidmallar och Formulärdetaljer, inklusive mer information om resurser som har använt en vald resurs. Gör analyser på långa listor med resurser med hjälp av sök-, sorterings- och filtreringsfunktionerna.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td>Levererat</td>
-   <td>n/a</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Ta bort växla och klassisk upplevelse från landningssidor**: Om du tar bort växlingsfunktionen och den klassiska upplevelsen för landningssidor kan du använda den nya upplevelsen helt. Den nya upplevelsen gör det möjligt att fullständigt utnyttja de funktioner som finns i dessa resurser utan att behöva förlita sig på den gamla upplevelsen eller hela tiden behöva växla mellan de två upplevelserna.
+* **Växla och ta bort klassiska upplevelser för det moderna användargränssnittet**: Borttagning av informationssidor för e-postmallar, landningssidmallar, Forms och kodfragment för att säkerställa att den moderna upplevelsen är den enda tillgängliga upplevelsen.
 
 <table> 
   <tr> 
@@ -53,7 +39,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   </tbody>
 </table>
 
-* **Prestandaförbättringar för trädnod**: För dem som har ett stort antal trädnoder kommer prestandan att förbättras avsevärt.
+* **Enhetligt gränssnitt**: Justerar Marketo Engage mot Experience Cloud för att skapa en enhetlig navigeringsupplevelse över flera Experience Cloud-lösningar under en och samma användarsession.
 
 <table> 
   <tr> 
@@ -67,11 +53,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   </tbody>
 </table>
 
-### Integrationsuppdateringar {#integration-updates}
-
-</br>
-
-* **Uppgradera Marketo Facebook Integration för att använda Facebook Graph API Update**: Med Facebook senaste uppgradering till Facebook Graph API v15 finns det nu en gräns på 500 anpassade målgrupper som kan skapas för ett visst annonskonto.
+* **Marketo Engage Help Center**: Hjälpcentret ger Marketo Engage-användare en central plats där de kan hitta hjälpresurser inifrån produkten. Dessutom ger Help Center möjlighet att aktivera produktguider som förklarar hur man utnyttjar de viktigaste funktionerna.
 
 <table> 
   <tr> 
@@ -89,11 +71,33 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 Följande funktioner följer ett Agile-format och släpps på olika datum före eller efter standardreleasedatum. Kontrollera status för respektive funktion nedan.
 
+### Flerkanalsmarknadsföring {#cross-channel-orchestration}
+
+</br>
+
+* **Interaktiva webbinarier (begränsad tillgänglighet från början)**:
+
+Interaktiva webbinarier stärker upplevelsen av befintliga event och webbinarier genom att ge marknadsförarna en inbyggd och smidig upplevelse när de ska skapa, hantera och leverera event i Marketo Engage. Anpassa webbinarier efter typ av händelse och lägg till presentatörer om det behövs. Få omfattande engagemangsinsikter genom Adobe Connect funktioner som live-omröstningar, chatt, frågor och svar, webblänksklickningar, dokumentnedladdningar med mera. Hämta webbinariets inspelning direkt i Marketo Engage och utvärdera resultatet med hjälp av omfattande instrumentpanelsmätningar.
+
+INLOGGNINGSINFORMATION KOMMER SNART
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Dokumentationsuppdateringar</b></td>
+  </tr>
+  <tr> 
+   <td><i>Kommer snart</i></td>
+   <td><i>Kommer snart</i></td>
+  </tr>
+  </tbody>
+</table>
+
 ### Dynamiskt chatt {#dynamic-chat}
 
 </br>
 
-* **Dialog Engagement Report for Dynamic Chat**: Ger en översikt över dialogengagemang över tid, inklusive möjlighet att filtrera efter besökartyp och engagemangstyp för att ge användarna bättre synlighet.
+* **Förbättrade dynamiska chattaktiviteter**: Dynamic Chats befintliga aktiviteter, filter och utlösare har förbättrats med ytterligare attribut och en standardiserad namnkonvention.
 
 <table> 
   <tr> 
@@ -107,7 +111,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
   </tbody>
 </table>
 
-* **Roller och behörigheter för dynamisk chatt**: Lägger till roller och behörigheter i Dynamic Chat, vilket gör att administratörer kan begränsa synlighet och användning av olika delar av programmet till valda användartyper.
+* **Chattkälla för dynamiskt chatt**: &quot;Chatt&quot; erbjuds nu som en källa till nya personregister och -aktiviteter. Den här källan kan användas för att hjälpa användare att filtrera aktiviteter i smarta listor/kampanjer. Källan kan också blockeras från uppdateringar i fält.
 
 <table> 
   <tr> 
@@ -115,64 +119,8 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr> 
-   <td>Levererat</td>
-   <td>n/a</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Chatta som en programkanal för dynamiskt chatt**: Skapar en ny Chat-programkanal för att spåra programutvecklingen för personer som förvärvats av Dynamic Chat. En marknadsförare har till exempel ett program som är associerat med en dynamisk chattdialogruta för att hämta nya leads. De kan nu tilldela det programmet chattkanalen så att de kan spåra när leads är medlemmar i programmet och när de har lyckats.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td>Levererat</td>
-   <td>n/a</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Inkommande attribut för dynamiskt chatt**: Ser till att härledda IP-data (stad, stat, land osv.) skrivs till personregistret för nya personer som förvärvats av Dynamic Chat.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td>Levererat</td>
-   <td>n/a</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Ytterligare språkstöd för Dynamic Chat**: Du kan nu välja mellan nio språk som stöds för att visa statiskt dynamiskt chattinnehåll i.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td>Levererat</td>
-   <td>n/a</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Hoppa till nod i Stream Designer Preview för dynamiskt chatt**: Gå direkt till en nod i Stream Designer från förhandsgranskningspanelen.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td>Levererat</td>
-   <td>n/a</td>
+   <td><i>Kommer snart</i></td>
+   <td><i>Kommer snart</i></td>
   </tr>
   </tbody>
 </table>
