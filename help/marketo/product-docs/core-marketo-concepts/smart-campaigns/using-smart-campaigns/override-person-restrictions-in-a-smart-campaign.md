@@ -3,9 +3,9 @@ unique-page-id: 1147066
 description: Åsidosätt personbegränsningar i en smart kampanj - Marketo Docs - produktdokumentation
 title: Åsidosätt personbegränsningar i en smart kampanj
 exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ Med Marketo kan ni ange det högsta antalet personer som kan kvalificera sig fö
 
 1. Gå till er smarta kampanj i marknadsföringsaktiviteter och klicka på **Schema**.
 
-   ![](assets/one.png)
+   ![](assets/override-person-restrictions-in-a-smart-campaign-1.png)
 
 1. Klicka på Inställningar för smart kampanj **Redigera**.
 
-   ![](assets/two.png)
+   ![](assets/override-person-restrictions-in-a-smart-campaign-2.png)
 
    >[!NOTE]
    >
@@ -32,7 +32,7 @@ Med Marketo kan ni ange det högsta antalet personer som kan kvalificera sig fö
 
 1. Ange en ny gräns och klicka sedan på **Spara.**
 
-   ![](assets/three.png)
+   ![](assets/override-person-restrictions-in-a-smart-campaign-3.png)
 
    Den smarta kampanjen körs inte om antalet personer som är kvalificerade överstiger den angivna gränsen.
 
