@@ -3,9 +3,9 @@ unique-page-id: 1147049
 description: Byt namn på en smart kampanj - Marketo Docs - produktdokumentation
 title: Byta namn på en smart kampanj
 exl-id: 116dff4a-56ca-451a-bbab-f277e4f3daf9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,22 +16,22 @@ Du kan ändra namnet på en befintlig smart kampanj. Så här gör du.
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/rename-a-smart-campaign-1.png)
 
 1. Välj en smart kampanj och klicka sedan på dess namn.
 
-   ![](assets/renamecampaign-hands.png)
+   ![](assets/rename-a-smart-campaign-2.png)
 
    >[!TIP]
    >
-   >Smarta kampanjnamn i program översätts alltid till formatet ProgramName.CampaignName.
+   >Namn på smarta kampanjer i program översätts alltid till formatet ProgramName.CampaignName.
 
 1. Ange det nya namnet på den smarta kampanjen och klicka på **Spara**.
 
-   ![](assets/rename-cursorandhand.png)
+   ![](assets/rename-a-smart-campaign-3.png)
 
    >[!NOTE]
    >
    >Det gamla namnet visas på fliken och ändras när du sparar.
 
-Snabb och enkel! Oavsett var den smarta kampanjen refereras ändras också.
+Snabb och enkel! Var som helst där det hänvisas till den smarta kampanjen ändras också.
