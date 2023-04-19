@@ -3,7 +3,7 @@ unique-page-id: 5472490
 description: Versionsschema – Marketo Docs – produktdokumentation
 title: Versionsschema
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 0da0be0f89e7f17752febb6b2c24766eebd63a5c
+source-git-commit: 3118fa0cbb3981c01a2f6f17f8bfd2bcc6cfa672
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 5%
@@ -47,12 +47,12 @@ _Releasedatum kan komma att ändras_
    <td>Levererat</td>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">23 mars</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-mar-23.md">23 mars</a></td>
    <td>31 mars 2023</td>
    <td>Pågår</td>
   </tr>
-  <tr> 
-   <td>23 maj</td>
+  <tr>
+   <td><a href="/help/marketo/release-notes/current.md">23 maj</a></td>
    <td>19 maj 2023</td>
    <td>Vid schema</td>
   </tr>
