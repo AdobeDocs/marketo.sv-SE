@@ -4,16 +4,16 @@ title: Skapa ett interaktivt webbinarium
 hide: true
 hidefromtoc: true
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
-source-git-commit: a90f752b291e6d34c920a94795011a8c9efa6d5b
+source-git-commit: 9eef992dbaf5561df7732ae6edae848d48803a3c
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Skapa ett interaktivt webbinarium {#create-an-interactive-webinar}
 
-Intro.
+Skapa ett interaktivt webbinarium i några enkla steg.
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
@@ -23,7 +23,7 @@ Intro.
 
    ![](assets/create-an-interactive-webinar-2.png)
 
-1. Ge evenemanget ett namn. Under Programtyp väljer du **Händelse**.
+1. Ge programmet ett namn. Under Programtyp väljer du **Händelse**.
 
    ![](assets/create-an-interactive-webinar-3.png)
 
@@ -43,8 +43,8 @@ Intro.
 
    ![](assets/create-an-interactive-webinar-6.png)
 
-1. Schemalägg datum/tid för ditt webbinarium.
+1. Schemalägg datum/tid för webbinariet och klicka på **Skapa**.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-1. Text
+Ditt interaktiva webbinarium skapas. Nu är det dags att [designa](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md).
