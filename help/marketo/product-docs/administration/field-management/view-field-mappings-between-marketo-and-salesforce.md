@@ -3,16 +3,16 @@ unique-page-id: 2360344
 description: Visa fältmappningar mellan Marketo och Salesforce - Marketo Docs - produktdokumentation
 title: Visa fältmappningar mellan Marketo och Salesforce
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
-source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
+source-git-commit: db68d63b6502822d4948485865edb26d10104a14
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
 # Visa fältmappningar mellan Marketo och Salesforce {#view-field-mappings-between-marketo-and-salesforce}
 
-Du kanske vill veta vilka Salesforce-fält ett visst Marketo-fält är kopplat till. Så här gör du.
+Du kanske vill veta vilka Salesforce-fält ett visst Marketo-fält är kopplat till. Så här kontrollerar du.
 
 >[!NOTE]
 >
@@ -34,4 +34,6 @@ Du kanske vill veta vilka Salesforce-fält ett visst Marketo-fält är kopplat t
 >
 >Detta visar Salesforce-API:ts namn, inte etikettens namn.
 
-Snyggt jobbat! Nu vet du hur du tar reda på vilka Salesforce-fält dina Marketo-fält är kopplade till.
+>[!IMPORTANT]
+>
+>Fälten i listan återspeglar endast data från den ursprungliga mappningen. De uppdateras inte efter synkroniseringen av Marketo/Salesforce.

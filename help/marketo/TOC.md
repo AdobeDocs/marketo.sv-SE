@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 3118fa0cbb3981c01a2f6f17f8bfd2bcc6cfa672
+source-git-commit: db68d63b6502822d4948485865edb26d10104a14
 workflow-type: tm+mt
 source-wordcount: '8866'
 ht-degree: 0%
@@ -663,10 +663,10 @@ ht-degree: 0%
                + [Om status för webbinarium](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
          + Interaktiva webbinarier {#interactive-webinars}
             + [Översikt över interaktiva webbinarier](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md)
-            + [Användarhantering för interaktiva webbinarier](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-user-management.md)
+            + [Hantering av användare och licenser](product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md)
             + [Skapa ett interaktivt webbinarium](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
             + [Designa interaktiva webbinarier](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
-            + [Redigera eller ta bort ett interaktivt webbinarium](product-docs/demand-generation/events/interactive-webinars/edit-or-delete-an-interactive-webinar.md)
+            + [Ändra eller ta bort ett interaktivt webbinarium](product-docs/demand-generation/events/interactive-webinars/modify-or-delete-an-interactive-webinar.md)
             + [Arbetsflöden för händelser](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
       + Facebook {#facebook}
          + [Lägga till leads till en anpassad målgrupp i Facebook](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
