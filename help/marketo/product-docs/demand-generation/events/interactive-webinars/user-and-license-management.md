@@ -4,9 +4,9 @@ title: Hantering av användare och licenser
 hide: true
 hidefromtoc: true
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
-source-git-commit: db68d63b6502822d4948485865edb26d10104a14
+source-git-commit: f60c40441be4bcfcc277b620f6d4e19b2047caef
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ Intro.
 
 ## Licensanvändning {#license-usage}
 
-Varje gång en licens läggs till visas en ny ruta för licensanvändning.
+Interactive Webinars erbjuder specifika licenser för att skapa Adobe Connect-event. Varje gång en licens läggs till visas en ny ruta för licensanvändning. Marketo-administratörer kan visa (inte redigera) licenserna genom att följa stegen nedan. Kontakta kontogruppen på Adobe (din kontohanterare) om du vill ha ytterligare licenser.
 
 1. Gå till **Administratör** område.
 
@@ -63,6 +63,48 @@ Varje gång en licens läggs till visas en ny ruta för licensanvändning.
 
    ![](assets/user-and-license-management-10.png)
 
-1. INFORMATION
+1. Bläddra ned till License Usage-kortet/korten.
 
-PICC
+   ![](assets/user-and-license-management-11.png)
+
+<table> 
+  <tr> 
+   <td><b>Startdatum</b></td>
+   <td>Datum då licensen börjar.</td>
+  </tr>
+  <tr> 
+   <td><b>Förfallodatum</b></td>
+   <td>Datum när licensen upphör att gälla.</td>
+  </tr>
+  <tr> 
+   <td><b>Typ</b></td>
+   <td>Den typ av licens som köpts. Det finns tre typer: Licens för delade händelser, licens för delade rum och ytterligare lagringslicens.</td>
+  </tr>
+  <tr> 
+   <td><b>Händelsekapacitet</b></td>
+   <td>Det högsta antalet deltagare som kan inrymmas i en händelse.</td>
+  </tr>
+  <tr> 
+   <td><b>Totalt antal händelser</b></td>
+   <td>Det totala antalet händelser som har etablerats med den här licensen.</td>
+  </tr>
+  <tr> 
+   <td><b>Förbrukade händelser</b></td>
+   <td>Det totala antalet slutförda händelser.</td>
+  </tr>
+  <tr> 
+   <td><b>Lagringskapacitet</b></td>
+   <td>Tillgängligt lagringsutrymme för lagring av inspelningar, säkerheter, hero images, dokumentation och andra tillgångar.</td>
+  </tr>
+  </tbody>
+</table>
+
+**Saker att notera**
+
+* Typen&quot;Additional Storage License&quot; ger just lagring, därför värdet i varje fält _utom_ Lagringskapaciteten listas som &quot;-&quot;.
+
+* Typen &quot;Shared Room License&quot; har obegränsat antal händelser och &quot;Additional Storage License&quot; (Tilläggslicens för lagring) erbjuder bara lagring, så fältet Total Events för dessa licenser listas helt enkelt som &quot;-&quot;.
+
+* Varje gång en händelse skapas räknas den som&quot;förbrukad&quot; från respektive licens (om det inte är en delad rumslicens). &quot;Shared Event License&quot; ges företräde om det finns både &quot;Shared Event License&quot; och &quot;Shared Room License&quot; med samma kapacitet. Om händelsen inte har levererats och om händelseprogrammet tas bort före den schemalagda tiden, fylls antalet händelser på genom att en händelse dras ifrån Använda händelser.
+
+* När licensen är slut finns den kvar på skärmen Interactive Webinars i Admin och Total Events and Events Consumed har samma värde. Först när licensen upphör att gälla tas den bort från skärmen.

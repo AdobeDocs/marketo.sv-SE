@@ -4,9 +4,9 @@ title: Ändra eller ta bort ett interaktivt webbinarium
 hide: true
 hidefromtoc: true
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
-source-git-commit: db68d63b6502822d4948485865edb26d10104a14
+source-git-commit: f60c40441be4bcfcc277b620f6d4e19b2047caef
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,16 @@ Intro.
 1. Välj önskat webbinarium och klicka på **Ändra rum/mall**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
+
+1. Text
+
+PICC
+
+## Schemalägg om ett interaktivt webbinarium {#reschedule-an-interactive-webinar}
+
+1. Välj önskat webbinarium och klicka på **Ändra rum/mall**.
+
+PICC
 
 1. Text
 

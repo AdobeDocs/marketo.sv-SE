@@ -2,20 +2,20 @@
 description: E-postverifiering - Marketo Docs - produktdokumentation
 title: E-postverifiering
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: 342034eeca4ba0084824b833f14d8e8c3b65d6e3
+source-git-commit: f60c40441be4bcfcc277b620f6d4e19b2047caef
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
 
 # E-postverifiering {#email-verification}
 
-För Adobe Marketo Engage-prenumerationer krävs att alla användare som inte är API bara verifierar sin e-postadress. Användare med enkel inloggning (SSO) får automatiskt sin e-post verifierad när deras prenumeration är aktiverad med e-postverifiering.
+Adobe Marketo Engage-prenumerationer kräver att alla användare som inte är API-baserade, inklusive Marketo Engage-administratörer, verifierar sin e-postadress. Användare med enkel inloggning (SSO), som inte har tilldelats någon administratörsroll, får automatiskt sin e-postadress verifierad när deras prenumeration är aktiverad med funktionen för e-postverifiering.
 
 **Användarinbjudan**
 
-När en administratör bjuder in en användare verifieras den användaren automatiskt när han/hon klickar på länken för inbjudan. Användare med enkel inloggning verifieras automatiskt.
+När en administratör bjuder in en användare verifieras den användaren automatiskt när han/hon klickar på länken för inbjudan. SSO-användare som inte har tilldelats rollen Admin verifieras automatiskt.
 
 **Ändra en e-postadress**
 
