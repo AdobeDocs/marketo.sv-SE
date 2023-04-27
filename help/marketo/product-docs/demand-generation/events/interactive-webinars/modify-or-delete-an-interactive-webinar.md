@@ -4,9 +4,9 @@ title: Ändra eller ta bort ett interaktivt webbinarium
 hide: true
 hidefromtoc: true
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
-source-git-commit: f60c40441be4bcfcc277b620f6d4e19b2047caef
+source-git-commit: 2b72ebcd491d07bfaa92baf66815175bb388c8d1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Intro.
 
 ## Ändra ett interaktivt webbinarium {#modify-an-interactive-webinar}
 
-1. Välj önskat webbinarium och klicka på **Ändra rum/mall**.
+1. Välj önskat händelseprogram och klicka på **Ändra rum/mall**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
 
@@ -27,30 +27,38 @@ PICC
 
 ## Schemalägg om ett interaktivt webbinarium {#reschedule-an-interactive-webinar}
 
-1. Välj önskat webbinarium och klicka på **Ändra rum/mall**.
+1. Välj önskat Event Program (Händelseprogram) och klicka på pennikonen bredvid det schemalagda datumet/klockslaget.
 
-PICC
+   ![](assets/modify-or-delete-an-interactive-webinar-6.png)
 
-1. Text
+1. Klicka på kalenderikonen, välj det nya datumet/den nya tiden och klicka på **Spara**.
 
-PICC
+   ![](assets/modify-or-delete-an-interactive-webinar-7.png)
 
 ## Klona ett interaktivt webbinarium {#clone-an-interactive-webinar}
 
-1. Välj önskat webbinarium.
+1. Välj önskat händelseprogram.
 
-PICC
+   ![](assets/modify-or-delete-an-interactive-webinar-8.png)
 
-1. Text
+1. Klicka på listrutan Programåtgärder och välj **Klona**.
 
-PICC
+   ![](assets/modify-or-delete-an-interactive-webinar-9.png)
+
+   >[!TIP]
+   >
+   >Du kan också högerklicka på Event Program (Händelseprogram) i trädet och välja **Klona** därifrån.
 
 ## Ta bort ett interaktivt webbinarium {#delete-an-interactive-webinar}
 
-1. Högerklicka på önskat webbinarium och välj **Ta bort**.
+1. Välj önskat händelseprogram.
 
-PICC
+   ![](assets/modify-or-delete-an-interactive-webinar-10.png)
 
->[!NOTE]
->
->Text
+1. Klicka på listrutan Programåtgärder och välj **Ta bort**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-11.png)
+
+   >[!TIP]
+   >
+   >Du kan också högerklicka på Event Program (Händelseprogram) i trädet och välja **Ta bort** därifrån.
