@@ -2,7 +2,7 @@
 description: Synkronisera avbeställningar med Salesforce - Marketo Docs - produktdokumentation
 title: Synkronisera avbeställningar med Salesforce
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: 27ca6c3efc5d49729ca4473853688be9cc8cdbc9
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 0%
@@ -23,7 +23,7 @@ När en avanmälan samlas in i Marketo Sales skickar vi den till Salesforce i re
 
 **Avbeställ synkronisering**
 
-När du har aktiverat synkroniseringen för att avbryta prenumerationen (steg 3 nedan) aktiveras synkroniseringen varje natt. Synkroniseringen sker en gång om dagen runt kl. 20.00 PST. Den synkroniserar alla avregistreringar i MSE/ToutApp dubbelriktat med avanmälningsfältet i Salesforce.
+När du har aktiverat synkroniseringen för att avbryta prenumerationen (steg 3 nedan) aktiveras synkroniseringen varje natt. Synkroniseringen sker en gång om dagen runt kl. 20.00 PST. Den synkroniserar alla avbeställningar i Marketo Sales med fältet Avanmäl i Salesforce.
 
 ## Konfigurera Synkronisera för att avbryta prenumeration för Salesforce {#configure-unsubscribe-sync-to-salesforce}
 
