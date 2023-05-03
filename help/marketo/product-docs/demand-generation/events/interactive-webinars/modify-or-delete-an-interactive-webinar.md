@@ -4,9 +4,9 @@ title: Ändra eller ta bort ett interaktivt webbinarium
 hide: true
 hidefromtoc: true
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
-source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,25 @@ Lär dig hur du gör ändringar i ditt interaktiva webbinarium.
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
 
-1. Text
+1. Rummet läses in. Om du vill byta rum väljer du ett i listrutan Rummen. Om du bara vill uppdatera mallen klickar du på **Använd rum**.
 
-PICC
+   ![](assets/modify-or-delete-an-interactive-webinar-2.png)
 
-?? för Nilesh - är det normalt att inte ta sig till rummet som webbinariet redan är i? Om inte, vilken är den bästa metoden?
+>[!NOTE]
+>
+>Det är valfritt att ändra rummet och du behöver inte uppdatera mallen.
+
+1. Klicka **Förfina ert webbinarium nu**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-3.png)
+
+1. Välj inställningar för ljud/video och klicka på **Ange rum**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-4.png)
+
+1. När du är klar med ändringarna klickar du på **Avsluta rummet**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-5.png)
 
 ## Schemalägg om ett interaktivt webbinarium {#reschedule-an-interactive-webinar}
 
@@ -58,6 +72,10 @@ PICC
 1. Klicka **Nästa**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-11.png)
+
+   >[!NOTE]
+   >
+   >Du kan bara spara ett klonat interaktivt webbinarium som interaktivt webbinarium just nu. Spara ett klonat webbinarium som Partner Webinar (t.ex. Zoom, ON24 osv.) kommer snart.
 
 1. Välj inställningar för det klonade webbinariet och klicka på **Klona**.
 

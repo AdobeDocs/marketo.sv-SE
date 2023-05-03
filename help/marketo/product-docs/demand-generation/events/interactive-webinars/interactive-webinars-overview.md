@@ -4,9 +4,9 @@ title: Översikt över interaktiva webbinarier
 hide: true
 hidefromtoc: true
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: 08cfd71b75e58a0185e57c115c2dee59fbfdce1f
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 0%
 # Översikt över interaktiva webbinarier {#interactive-webinars-overview}
 
 Läs mer om det inbyggda Marketo Engage-verktyget för att skapa BLANK, effektiva webbinarier.
+
+Ett Adobe Connect webbinarium är en interaktiv live online-konferens för flera användare. Rummet är ett beständigt virtuellt onlineutrymme som du använder för att genomföra webbinarier. Den innehåller olika visningspaneler (rutor) och layouter. Det finns flera färdiga layouter för mötesrum eller så kan du skapa och använda ytterligare anpassade layouter efter behov. I rummet kan deltagarna dela datorskärmar eller filer, chatta, sända ljud och video samt delta i interaktiva onlineaktiviteter.
 
 _Vad är interaktiva webbinarier?_
 

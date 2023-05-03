@@ -4,7 +4,7 @@ title: Hantering av användare och licenser
 hide: true
 hidefromtoc: true
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
-source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 0%
@@ -107,4 +107,4 @@ Interactive Webinars erbjuder specifika licenser för att skapa Adobe Connect-ev
 
 * Varje gång en händelse skapas räknas den som&quot;förbrukad&quot; från respektive licens (om det inte är en delad rumslicens). &quot;Shared Event License&quot; ges företräde om det finns både &quot;Shared Event License&quot; och &quot;Shared Room License&quot; med samma kapacitet. Om händelsen inte har levererats och om händelseprogrammet tas bort före den schemalagda tiden, fylls antalet händelser på genom att en händelse dras ifrån Använda händelser.
 
-* När licensen är slut finns den kvar på skärmen Interactive Webinars i Admin och Total Events and Events Consumed har samma värde. Först när licensen upphör att gälla tas den bort från skärmen.
+* När en licens har tömts finns dess panel kvar på skärmen Interaktiva webbinarier i administratörsavsnittet där&quot;Totalt antal händelser&quot; och&quot;Använda händelser&quot; har samma värde. Först när licensen upphör att gälla tas den bort från skärmen.
