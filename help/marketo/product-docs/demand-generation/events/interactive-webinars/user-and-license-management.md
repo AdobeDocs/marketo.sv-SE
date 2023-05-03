@@ -4,16 +4,16 @@ title: Hantering av användare och licenser
 hide: true
 hidefromtoc: true
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
-source-git-commit: f60c40441be4bcfcc277b620f6d4e19b2047caef
+source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
 
 # Hantering av användare och licenser {#user-and-license-management}
 
-Intro.
+Lär dig hur du lägger till och tar bort användare och visar dina aktuella licenser.
 
 ## Lägg till en användare {#add-a-user}
 

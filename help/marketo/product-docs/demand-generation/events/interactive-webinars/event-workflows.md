@@ -4,35 +4,43 @@ title: Arbetsflöden för händelser
 hide: true
 hidefromtoc: true
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
-source-git-commit: f7cbb624337ecd4d5bebaf69edd0ed9605e84575
+source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
 # Arbetsflöden för händelser {#event-workflows}
 
-Intro.
+När webbinariet är klart går du till fliken Kontrollpanel för att se de sammanställda resultaten.
 
-Interactive Webinar Dashboard är en vy där marknadsförarna kan se hur webbinariet som utförs i Adobe Connect fungerar tillsammans. Detta visas på en separat flik med namnet&quot;Dashboard&quot; som visas när händelsen är klar och data hämtas från Adobe Connect. Om händelsen inte har utförts eller om data inte har tagits emot av någon anledning visas inte fliken &quot;Dashboard&quot; på skärmen för det interaktiva webbseminariets händelseprogram. Widgetarna i Dashboard kan inte dras in i eller exporteras just nu.
+![](assets/event-workflows-1.png)
 
-Kontrollpanelen består av fyra widgetar:
+>[!NOTE]
+>
+>Om webbinariet inte har slutförts än eller om informationen inte har tagits emot av någon anledning, kommer fliken Kontrollpanel inte att vara tillgänglig än.
 
-1. Status för händelseprogram:
+## Instrumentpanelswidgetar {#dashboard-widgets}
 
-   Widgeten Status för händelseprogram visar olika programstatus för den händelsen och antalet medlemmar i programmet som för närvarande har det programmets statusvärde.
+Kontrollpanelen består av fyra widgetar.
 
-1. Närvaro:
+**Status för händelseprogram**
 
-   Widgeten Närvaro visar närvarovaraktigheten för olika medlemmar som har deltagit i webbinariet jämfört med den totala längden för webbinariet i procent.
+Visar de olika programstatusarna för den händelsen och det antal medlemmar i programmet som för närvarande har det aktuella programstatusvärdet.
 
-1. Avsökningsprestanda:
+**Närvaro**
 
-   Widgeten Poll Performance visar olika undersökningar som gjorts under webbinariet i Adobe Connect och distributionen av medlemmar som har deltagit i och svarat på omröstningen för varje svar.
+Framhäver närvarotiden för olika medlemmar som har deltagit i webbinariet i procent jämfört med den totala längden på webbinariet.
 
-1. Klicka och hämta filer:
+**Avsökningsprestanda**
 
-   The Click and File Download Activity (Klickning och filhämtning) visar antalet nedladdningar av filer och webblänkar som klickats under webbinariet i Adobe Connect av olika medlemmar som deltagit i webbinariet och vidtagit just den åtgärden.
+Visar olika omröstningar som har startats under webbinariet i Adobe Connect och hur de medlemmar som har deltagit i och svarat på omröstningen har distribuerats för varje svar.
+
+**Klicka och hämta filer**
+
+Visar antalet nedladdningar av filer och webblänkar som klickats under webbinariet i Adobe Connect av olika medlemmar som har besökt webbinariet och vidtagit just den åtgärden.
+
+## Utlösare och filter {#triggers-and-filters}
 
 Filtrera och utlösa på IW -&quot;webbinarium&quot; i smarta listor

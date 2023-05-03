@@ -2,10 +2,10 @@
 description: Aktuell versionsinformation – Marketo Docs – produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 2b72ebcd491d07bfaa92baf66815175bb388c8d1
+source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '452'
+ht-degree: 2%
 
 ---
 
@@ -96,20 +96,6 @@ INLOGGNINGSINFORMATION KOMMER SNART
 ### Dynamiskt chatt {#dynamic-chat}
 
 </br>
-
-* **Förbättrade dynamiska chattaktiviteter**: Dynamic Chats befintliga aktiviteter, filter och utlösare har förbättrats med ytterligare attribut och en standardiserad namnkonvention.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-  </tbody>
-</table>
 
 * **Chattkälla för dynamiskt chatt**: &quot;Chatt&quot; erbjuds nu som en källa till nya personregister och -aktiviteter. Den här källan kan användas för att hjälpa användare att filtrera aktiviteter i smarta listor/kampanjer. Källan kan också blockeras från uppdateringar i fält.
 
