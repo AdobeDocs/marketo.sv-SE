@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: cf6a0800737758d99a9ab07ffd783900332e3c32
+source-git-commit: b7a18b7cb2d39f569cbc22cc06ac58951ad1fee7
 workflow-type: tm+mt
-source-wordcount: '8876'
+source-wordcount: '8884'
 ht-degree: 0%
 
 ---
@@ -484,6 +484,10 @@ ht-degree: 0%
          + [Om mappar](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [Om meddelanden](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [Meddelandetyper](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
+      + Inte resor {#not-journeys}
+         + [Namnöversikt](product-docs/core-marketo-concepts/not-journeys/name-overview.md)
+         + [Fliken Namn](product-docs/core-marketo-concepts/not-journeys/name-tab.md)
+         + [Fliken Inställningar](product-docs/core-marketo-concepts/not-journeys/settings-tab.md)
       + Prediktiva målgrupper {#predictive-audiences}
          + [Komma igång med prediktiva målgrupper](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
          + [Modeller och insikter](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
