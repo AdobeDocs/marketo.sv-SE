@@ -4,16 +4,16 @@ title: Designa interaktiva webbinarier
 hide: true
 hidefromtoc: true
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
-source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
+source-git-commit: b448004300ae1cd1f6af68ee3bb06dd1e89d1aa9
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Designa interaktiva webbinarier {#designing-interactive-webinars}
 
-Designa ditt webbinarium som du vill.
+Lär dig hur du utformar ett webbinarium som passar dina behov.
 
 1. Välj aktiviteten och klicka på **Design Webinar**.
 
