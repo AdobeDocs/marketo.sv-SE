@@ -3,9 +3,9 @@ unique-page-id: 2360360
 description: Skapa en webkrok - Marketo Docs - produktdokumentation
 title: Skapa en webbkrok
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: a498dcc5dc95bd7f732481d30db021485cf052c0
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Använd webhooks för att dra nytta av webbtjänster från tredje part för att 
 
    * **URL**: Ange den URL som du använder i din begäran till webbtjänsten. Så här infogar du en token, t.ex. personens e-postadress (**`{{lead.Email Address}}`**), klickar du på **Infoga token**.
 
-   * **Mall**: Om du vill skicka information i POSTENS brödtext anger du mallen. Använd valfritt dataformat som stöder HTTP-POST, inklusive XML, JSON eller SOAP. Om du vill infoga en variabel i mallen klickar du på **Infoga token**.
+   * **Mall**: Om du vill skicka information i texten i begäran anger du det via nyttolastmallen. Mallar tillåts för följande typer av begäranden: POST, DELETE, PATCH eller PUT. Du kan använda dataformat som JSON eller XML. Om du vill infoga en variabel i mallen klickar du på **Infoga token**.
 
    * **Begär tokenkodning**: Om tokenvärdena innehåller specialtecken (t.ex. ett et-tecken, &#39;&amp;&#39;), anger du formatet för din begäran (**JSON** eller **Formulär/URL**).
 
