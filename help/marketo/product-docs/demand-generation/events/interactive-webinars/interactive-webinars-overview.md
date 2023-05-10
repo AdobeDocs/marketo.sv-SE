@@ -4,20 +4,20 @@ title: Översikt över interaktiva webbinarier
 hide: true
 hidefromtoc: true
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: b448004300ae1cd1f6af68ee3bb06dd1e89d1aa9
+source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
 
 # Översikt över interaktiva webbinarier {#interactive-webinars-overview}
 
-Med funktionen Interactive Webinar kan du skapa, boka, marknadsföra och leverera webbinarier i Marketo Engage utan att behöva använda ytterligare verktyg eller integreringar.
+Interactive Webinars-funktionen är vår inbyggda webbinariplattform i Marketo Engage. Inga ytterligare verktyg eller integreringar krävs.
 
 ## Vad är interaktiva webbinarier? {#what-is-interactive-webinars}
 
-Interaktiva webbinarier är en interaktiv live online-konferens som är tillgänglig för flera användare. När du [skapa ett interaktivt webbinarium](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}finns det flera färdiga layouter för mötesrum som du kan anpassa. Du kan också skapa och använda ytterligare anpassade layouter. Deltagarna kan dela datorskärmar/filer, chatta med varandra, sända ljud och video samt delta i interaktiva onlineaktiviteter.
+Interaktiva webbinarier stärker upplevelsen av befintliga event och webbinarier genom att tillhandahålla en inbyggd och smidig upplevelse som gör att du kan skapa, hantera och leverera event i Marketo Engage. När du [skapa ett interaktivt webbinarium](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}finns det flera färdiga layouter för mötesrum att välja mellan, som alla är anpassningsbara (du kan också skapa och använda ytterligare anpassade layouter). Deltagarna kan dela datorskärmar/filer, chatta med varandra, sända ljud och video samt delta i interaktiva onlineaktiviteter.
 
 Interaktiva webbinarier [tre olika licenser](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"}, var och en med olika funktioner och kapacitet.
 

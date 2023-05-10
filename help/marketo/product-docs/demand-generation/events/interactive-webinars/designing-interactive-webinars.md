@@ -4,9 +4,9 @@ title: Designa interaktiva webbinarier
 hide: true
 hidefromtoc: true
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
-source-git-commit: b448004300ae1cd1f6af68ee3bb06dd1e89d1aa9
+source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Lär dig hur du utformar ett webbinarium som passar dina behov.
 
-1. Välj aktiviteten och klicka på **Design Webinar**.
+1. Välj aktiviteten och klicka på **Designa ditt webbinarium**.
 
    ![](assets/designing-interactive-webinars-1.png)
 
@@ -59,8 +59,8 @@ Lär dig hur du utformar ett webbinarium som passar dina behov.
 
 ## Designelement {#design-elements}
 
-**Mall**: Mallen är en struktur som tillhandahålls ett rum baserat på målet för det webbinarium som levereras. Om du till exempel vill schemalägga ett produktwebbseminarium är skärmdelning en viktig komponent för att visa upp demon. Mallen ser till att de nödvändiga komponenterna som krävs för en effektiv leverans av en viss typ av webbinarium finns på plats under konfigurationen av webbinariet.
+**Mall**: Struktur som tillhandahålls ett rum baserat på målet för det webbinarium som ska levereras. Om du till exempel vill schemalägga ett produktwebbseminarium är skärmdelning en viktig komponent för att visa upp demon. Mallen ser till att de nödvändiga komponenterna som krävs för en effektiv leverans av en viss typ av webbinarium finns på plats under konfigurationen av webbinariet.
 
-**Layout**: Layout avser olika sätt på vilka de olika komponenterna som krävs för att webbseminariet ska fungera är ordnade i en viss mall. En och samma mall kan ha flera layouter att välja mellan. De viktigaste komponenterna i webbinariet är desamma för alla mallar. Det arrangemang du valt passar bäst för din eller presentatörens stil/behov.
+**Layout**: Avser olika sätt att ordna de olika komponenter som krävs för att säkerställa att webbinariet fungerar korrekt i en viss mall. En och samma mall kan ha flera layouter att välja mellan. De viktigaste komponenterna i webbinariet är desamma för alla mallar. Det arrangemang du valt passar bäst för din eller presentatörens stil/behov.
 
-**Pod**: Pod refererar till en komponent i en mall som utför en viss aktivitet under webbinariet. Du kan till exempel ställa in och leverera en omröstning för att samla deltagarnas svar i en aktivitet som kan utföras av en omröstning. På samma sätt kan chattsamtal med deltagarna för att förmedla ett meddelande eller för att interagera med dem via ett ögonblick vara en aktivitet som levereras via chattblocket. Det finns flera andra fönster tillgängliga, t.ex. Dela, Anteckningar, Video, Chatt, Deltagarlista, Filer, Webblänkar, Omröstningar samt Frågor och svar.
+**Pod**: En komponent i en mall som utför en viss aktivitet under webbinariet. Du kan till exempel ställa in och leverera en omröstning för att samla deltagarnas svar i en aktivitet som kan utföras av en omröstning. På samma sätt kan chattsamtal med deltagarna för att förmedla ett meddelande eller för att interagera med dem via ett ögonblick vara en aktivitet som levereras via chattblocket. Det finns flera andra fönster tillgängliga, t.ex. Dela, Anteckningar, Video, Chatt, Deltagarlista, Filer, Webblänkar, Omröstningar samt Frågor och svar.
