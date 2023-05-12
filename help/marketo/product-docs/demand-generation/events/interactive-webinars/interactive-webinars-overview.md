@@ -4,9 +4,9 @@ title: Översikt över interaktiva webbinarier
 hide: true
 hidefromtoc: true
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
+source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '403'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Interactive Webinars-funktionen är vår inbyggda webbinariplattform i Marketo E
 
 ## Vad är interaktiva webbinarier? {#what-is-interactive-webinars}
 
-Interaktiva webbinarier stärker upplevelsen av befintliga event och webbinarier genom att tillhandahålla en inbyggd och smidig upplevelse som gör att du kan skapa, hantera och leverera event i Marketo Engage. När du [skapa ett interaktivt webbinarium](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}finns det flera färdiga layouter för mötesrum att välja mellan, som alla är anpassningsbara (du kan också skapa och använda ytterligare anpassade layouter). Deltagarna kan dela datorskärmar/filer, chatta med varandra, sända ljud och video samt delta i interaktiva onlineaktiviteter.
+Interaktiva webbinarier stärker upplevelsen av befintliga event och webbinarier genom att tillhandahålla en inbyggd och smidig upplevelse som gör att du kan skapa, hantera och leverera event i Marketo Engage. När du [skapa ett interaktivt webbinarium](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}, finns det flera färdiga mötesmallar att välja bland, som alla är anpassningsbara (du kan också skapa och använda anpassade mallar). Deltagarna kan dela datorskärmar/filer, chatta med varandra, sända ljud och video samt delta i interaktiva onlineaktiviteter.
 
 Interaktiva webbinarier [tre olika licenser](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"}, var och en med olika funktioner och kapacitet.
 

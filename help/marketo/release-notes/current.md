@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation – Marketo Docs – produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
+source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '413'
 ht-degree: 2%
 
 ---
@@ -25,21 +25,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 </br>
 
-* **Växla och ta bort klassiska upplevelser för det moderna användargränssnittet**: Borttagning av informationssidor för e-postmallar, landningssidmallar, Forms och kodfragment för att säkerställa att den moderna upplevelsen är den enda tillgängliga upplevelsen.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Enhetligt gränssnitt**: Justerar Marketo Engage mot Experience Cloud för att skapa en enhetlig navigeringsupplevelse över flera Experience Cloud-lösningar under en och samma användarsession.
+* **Adobe Experience Cloud Interface**: Justerar Marketo Engage mot Experience Cloud för att skapa en enhetlig navigeringsupplevelse över flera Experience Cloud-lösningar under en och samma användarsession.
 
 <table> 
   <tr> 

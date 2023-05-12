@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: b7a18b7cb2d39f569cbc22cc06ac58951ad1fee7
+source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
 workflow-type: tm+mt
-source-wordcount: '8884'
+source-wordcount: '8886'
 ht-degree: 0%
 
 ---
@@ -239,7 +239,7 @@ ht-degree: 0%
       + [Ställ in organisationsmappning för Adobe](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Synkronisera en publik från Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Importera resurser med Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
-      + [Översikt över enhetligt gränssnitt](product-docs/adobe-experience-cloud-integrations/unified-shell-overview.md)
+      + [Adobe Experience Cloud Interface Overview](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
    + Marketo Core Concepts {#core-marketo-concepts}
       + Smarta kampanjer {#smart-campaigns}
          + [Om smarta kampanjer](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)

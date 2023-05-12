@@ -2,9 +2,9 @@
 description: Versionsinformation - augusti 2021 - Marketo Docs - produktdokumentation
 title: Versionsinformation - augusti 2021
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
 workflow-type: tm+mt
-source-wordcount: '922'
+source-wordcount: '925'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,8 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 
 ![](assets/yellow-star.png)
 
-* **Bizible LinkedIn Lead Gen Forms Integration**: Nu kan marknadsförarna lägga in intäkter på konverteringar som görs när LinkedIn hämtar blanketter genom sina Lead Gen Forms-annonsenheter. Dessa insikter kan sedan användas för att optimera formulärprestanda och investeringar i betalda medier. linkedIn Lead Gen Forms är ett av LinkedIn snabbast växande betalmediepresentationer och denna nya funktion ingår i vår befintliga LinkedIn Ads-integrering med Bizible.   
+* **Bizible LinkedIn Lead Gen Forms Integration**: Nu kan marknadsförarna lägga in intäkter på konverteringar som görs när LinkedIn hämtar blanketter genom sina Lead Gen Forms-annonsenheter. Dessa insikter kan sedan användas för att optimera formulärprestanda och investeringar i betalda medier. linkedIn Lead Gen Forms är ett av LinkedIn snabbast växande betalmediepresentationer och denna nya funktion ingår i vår befintliga LinkedIn Ads-integrering med Bizible.
+
 * **Snabbare instrumentpanel**: Vi har lagt till ett nytt snabbmätningsfilter och kontrollpanelsfilter för djupare insikter. Den här instrumentpanelen används av marknadsförare för att förstå hur snabbt leads och affärstillfällen kan komma i fas för steg och hur effektiva olika former av marknadsföring och säljengagemang är.
 
 * **New Cohort Waterfall Journey Dashboard**: På så sätt kan marknadsförarna se utvecklingen i en utvald kohort genom en klassisk&quot;demand waterfall&quot;-uppsättning stadier, vilket ger en snabb förståelse för konverteringsgrader och underförstådda konverteringsfaktorer steg för steg.
@@ -72,11 +73,11 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 
 Det här avsnittet innehåller nya funktioner för användare av Bizible som har slutfört migreringen av Adobe Identity Management System (IMS). Om du har migrerats visas din nya Adobe ID i Bizible Settings under fliken Adobe ID. Alla konton bör migreras före slutet av 2021.
 
-* **Bizibel-integrering med Adobe Privacy Service** (tillgängligt i september 2021): Bizibelns integrering med Privacy Servicen Adobe centraliserar kompatibiliteten med viktiga sekretessbestämmelser (t.ex. GDPR) mellan Adobe Experience Cloud-program. Du kan nu utnyttja den här tjänsten och hantera alla sekretessförfrågningar centralt så att ändringsförfrågningar som kommer in i Bizible och andra Adobe-produkter återspeglas i alla program.
+* **Bizibel-integrering med Adobe Privacy Service** (tillgängligt i september 2021): Bizibelns integrering med Privacy Servicen Adobe centraliserar efterlevnaden av viktiga sekretessbestämmelser (som GDPR) för Adobe Experience Cloud-program. Du kan nu utnyttja den här tjänsten och hantera alla sekretessförfrågningar centralt så att ändringsförfrågningar som kommer in i Bizible och andra Adobe-produkter återspeglas i alla program.
 
-* **Bizible on Adobe Unified Shell**: Bizibelns användning av Adobe Unified Shell ger användarna nya funktioner som kommer att visas i det Bizible-baserade programrubrikfältet och ger bättre åtkomst till supportresurser och programväxling. Adobe Unified Shell hjälper till att skapa en enhetlig upplevelse mellan Bizible-programmen och andra Adobe Experience Cloud-program.
+* **Bizible on Adobe Experience Cloud Interface**: Bizibles användning av Adobe Experience Cloud Interface ger användarna nya funktioner som kommer att visas i det Bizible-baserade programrubrikfältet och ger bättre åtkomst till supportresurser och programväxling. Gränssnittet Experience Cloud hjälper till att skapa en enhetlig upplevelse mellan Bizible och andra Adobe Experience Cloud-program.
 
-* **Bizible Domain Ownership and Self Management**: Bizibla användare kan använda Adobe Admin Console för att hantera de domäner de vill att Bizible ska spåra. Detta ger självbetjäning till en tidigare manuell process och ger en konsekvent upplevelse av hur domänägarskap och spårning hanteras i Adobe Experience Cloud-program.
+* **Bizible Domain Ownership and Self Management**: Bizibla användare kan använda Adobe Admin Console för att hantera de domäner de vill att Bizible ska spåra. Detta ger självbetjäning till en tidigare manuell process och ger en konsekvent upplevelse av hur domänägarskap och spårning hanteras i olika Adobe Experience Cloud-program.
 
 ## Meddelanden {#announcements}
 
