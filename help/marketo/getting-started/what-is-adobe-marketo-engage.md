@@ -3,9 +3,9 @@ unique-page-id: 2949467
 description: Vad är Adobe Marketo Engage? - Marketo Docs - produktdokumentation
 title: Vad är Adobe Marketo Engage?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
-source-git-commit: e6b585657b61f1d327cc6083bb3c4de44a130b3a
+source-git-commit: a433eb0496bc919f4e19361fbe68512b19f03879
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,9 @@ Ja, vi gjorde en [checklista med saker att göra](/help/marketo/getting-started/
 
 Nepp! Vi har gjort en massa enkla självstudiekurser. [Kom igång här](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}. De borde ta ca en timme. Du kan börja när som helst.
 
-## Finns det en lista över saker som täcker gränserna, som hur många e-postmeddelanden jag kan skicka under en viss vecka? {#list-of-limits}
+## Finns det en lista över saker som täcker gränser, som hur många e-postmeddelanden jag kan skicka på en vecka? {#list-of-limits}
 
-Det finns. Statiska gränser (och andra parametrar) enligt våra [i den här artikeln](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
+Det finns. Statiska gränser (och andra parametrar) kontureras [i den här artikeln](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
 
 ## Hur länge håller Marketo fast vid mina data? {#data-retention-policy}
 
