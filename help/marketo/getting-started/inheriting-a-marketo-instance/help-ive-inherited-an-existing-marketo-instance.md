@@ -3,9 +3,9 @@ unique-page-id: 7516605
 description: Hjälp mig att ärva en befintlig Marketo-instans - Marketo Docs - Produktdokumentation
 title: Hjälp mig att ärva en befintlig Marketo-instans
 exl-id: f64c04cc-bbac-4577-b242-be8263acff4d
-source-git-commit: e7fafc58ada80537dc5ab2085f9bf55611879d3b
+source-git-commit: 615107dc9da9fec4b6d06c5ca6bc0a2c03e84fdc
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,8 @@ I så fall är den här guiden avsedd för dig. Det bör hjälpa dig att få ut 
 
 **Innehållsförteckning**
 
-* [Objekt som ska checkas ut](/help/marketo/getting-started/inheriting-a-marketo-instance/items-to-check-off.md){target=&quot;_blank&quot;}
-* [Saker att granska: Kärnfärdigheter](/help/marketo/getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md){target=&quot;_blank&quot;}
-* [Sätt att få hjälp](/help/marketo/getting-started/inheriting-a-marketo-instance/ways-to-get-help.md){target=&quot;_blank&quot;}
+* [Objekt som ska checkas ut](/help/marketo/getting-started/inheriting-a-marketo-instance/items-to-check-off.md){target="_blank"}
+* [Saker att granska: Kärnfärdigheter](/help/marketo/getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md){target="_blank"}
+* [Sätt att få hjälp](/help/marketo/getting-started/inheriting-a-marketo-instance/ways-to-get-help.md){target="_blank"}
 
-Om du redan vet hur du är i närheten och känner dig hemma med Marketo grundläggande koncept kan du läsa Marketo Engae Product Docs eller gå till [Marknadsföringsnation](https://nation.marketo.com/){target=&quot;_blank&quot;} onlinecommunity för att se vad andra Marketo-användare säger.
+Om du redan vet hur du är i din närhet och känner dig bekväm med Marketo centrala koncept kan du läsa Marketo Engage Product Docs eller gå till [Marknadsföringsnation](https://nation.marketo.com/){target="_blank"} online-community för att se vad andra Marketo-användare säger.

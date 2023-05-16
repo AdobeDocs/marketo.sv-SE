@@ -3,9 +3,9 @@ unique-page-id: 2951048
 description: Versionsinformation -februari 2014 - Marketo Docs - produktdokumentation
 title: Versionsinformation - februari 2014
 exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 615107dc9da9fec4b6d06c5ca6bc0a2c03e84fdc
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
@@ -36,9 +36,9 @@ Följande funktioner ingår i februari 2014-versionen. Kontrollera om det finns 
 
 [Exportera e-postmått till Excel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md), inklusive AB Test-variantdata.
 
-## Resultatrapport om engagemang i engagemangsströmmen {#engagement-score-in-engagement-stream-performance-report}
+## [!UICONTROL Engagement Score] in [!UICONTROL Engagement Stream Performance] Rapport {#engagement-score-in-engagement-stream-performance-report}
 
-Vi lade till engagemangsrapporten i [Resultatrapport för engagemangsström](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) för att hjälpa er att se hur effektivt innehållet i ert engagemangsprogram är.
+Vi lade till engagemangsrapporten i [[!UICONTROL Engagement Stream Performance] Rapport](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) för att hjälpa er att se hur effektivt innehållet i ert engagemangsprogram är.
 
 ![](assets/image2014-9-22-10-3a50-3a36.png)
 
@@ -60,6 +60,6 @@ Följande filter- och utlösarnamn har uppdaterats:
 
 ## Forms 2.0-förbättringar {#forms-enhancements}
 
-I den här versionen har vi gett Forms 2.0 flera&quot;livskvalitetsuppdateringar&quot;. Förutom att möjliggöra progressiv profilering i inbäddade formulär har vi gjort arbetsflödes- och användargränssnittsändringar som gör det enklare att använda de mer avancerade funktionerna i redigeraren. [inklusive reglerna för synlighet](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md), avancerade tacksidor och dolda fält.
+Vi har gett Forms 2.0 flera&quot;livskvalitetsuppdateringar&quot; i den här versionen. Förutom att möjliggöra progressiv profilering i inbäddade formulär har vi gjort arbetsflödes- och användargränssnittsändringar som gör det enklare att använda de mer avancerade funktionerna i redigeraren. [inklusive reglerna för synlighet](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md), avancerade tacksidor och dolda fält.
 
 ![](assets/image2014-9-22-10-3a51-3a54.png)

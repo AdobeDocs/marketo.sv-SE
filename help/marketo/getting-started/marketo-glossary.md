@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo-ordlista - Marketo Docs - produktdokumentation
 title: Marketo-ordlista
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 499729a61dc033c430d31831dc14045b4674de98
+source-git-commit: 615107dc9da9fec4b6d06c5ca6bc0a2c03e84fdc
 workflow-type: tm+mt
 source-wordcount: '4203'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Nedan finns definitioner för många av de termer du kan stöta på när du anv�
   </tr> 
   <tr> 
    <td colspan="1"><strong>Konto</strong></td> 
-   <td colspan="1">Termen kan ha olika betydelser:<br>-Din Marketo-instans kan kallas ditt Marketo-konto.<br>-in <strong>TAM</strong>, a <strong>Namngivet konto</strong> är ett konto som användaren har fastställt är ett målkonto som han/hon vill köra.<br>-I TAM är ett CRM-konto ett konto som har mappats från din länkade <strong>CRM</strong> (konto i <strong>Salesforce</strong>, <strong>MS Dynamics</strong> eller <strong>API</strong>).<br>-I CRM är konton det företag som leder och kontakter är kopplade till.</td> 
+   <td colspan="1">Termen kan ha olika betydelser:<br>-Din Marketo-instans kan kallas ditt Marketo-konto.<br>-in <strong>TAM</strong>, a <strong>Namngivet konto</strong> är ett konto som användaren har fastställt är ett målkonto som han/hon vill köra.<br>-I TAM är ett CRM-konto ett konto som har mappats från din länkade <strong>CRM</strong> (konto i <strong><span class="dnl">Salesforce</span></strong>, <strong><span class="dnl">MS Dynamics</span></strong> eller <strong>API</strong>).<br>-I CRM är konton det företag som leder och kontakter är kopplade till.</td> 
   </tr> 
   <tr> 
    <td><strong>Kontolista</strong></td> 
