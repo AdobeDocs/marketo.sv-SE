@@ -2,9 +2,9 @@
 description: Synkronisera avbeställningar med Salesforce - Marketo Docs - produktdokumentation
 title: Synkronisera avbeställningar med Salesforce
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
-source-git-commit: 27ca6c3efc5d49729ca4473853688be9cc8cdbc9
+source-git-commit: f174cba33e18812ac08adf177302d997bbe60c4c
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
@@ -90,6 +90,6 @@ Avanmäl dig via e-post är ett standardfält i Salesforce som kan installeras f
 
 ## Marketo Sales Opt Out {#marketo-sales-opt-out}
 
-Fältet Marketo Sales Opt Out är ett anpassat fält som är tillgängligt för användare som har installerat Marketo Sales Customizations.
+Fältet Marketo Sales Opt Out är ett anpassat fält som är tillgängligt för användare som har installerat paketet Marketo Sales Insight [från AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 
-När du har installerat Marketo Sales Customizations i Salesforce visas fältet Marketo Sales Opt Out som är tillgängligt för dig.
+När du har installerat Marketo Sales Insight-paketet från AppExchange till Salesforce visas fältet Marketo Sales Opt Out som du har tillgång till.
