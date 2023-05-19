@@ -2,10 +2,10 @@
 description: Aktuell versionsinformation – Marketo Docs – produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 88316009757720d9ea9987bb88d7a33cbfc25c02
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '431'
+ht-degree: 2%
 
 ---
 
@@ -65,7 +65,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
 
 Interaktiva webbinarier stärker upplevelsen av befintliga event och webbinarier genom att ge marknadsförarna en inbyggd och smidig upplevelse när de ska skapa, hantera och leverera event i Marketo Engage. Anpassa webbinarier efter typ av händelse och lägg till presentatörer om det behövs. Få omfattande engagemangsinsikter genom Adobe Connect funktioner som live-omröstningar, chatt, frågor och svar, webblänksklickningar, dokumentnedladdningar med mera. Hämta webbinariets inspelning direkt i Marketo Engage och utvärdera resultatet med hjälp av omfattande instrumentpanelsmätningar.
 
-Du kan begära [tidig åtkomst till den här funktionen här](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
+Interaktiva webbinarier lanseras gradvis. Om du vill ha åtkomst tidigare fyller du i [det här formuläret](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
 
 <table> 
   <tr> 

@@ -3,9 +3,9 @@ unique-page-id: 2359412
 description: Landningssida med ett formulär - Marketo Docs - produktdokumentation
 title: Landningssida med ett formulär
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
-source-git-commit: 8d412ce5589eb55c85abded4c55b801a9647d1c0
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '549'
+source-wordcount: '491'
 ht-degree: 0%
 
 ---
@@ -20,15 +20,15 @@ ht-degree: 0%
 
 ## STEG 1: Skapa ett program {#step-create-a-program}
 
-1. Gå till **Marknadsföringsaktiviteter** område.
+1. Gå till **[!UICONTROL Marketing Activities]** område.
 
    ![](assets/landing-page-with-a-form-1.png)
 
-1. Välj **Utbildning** mapp som skapats i [föregående snabbvinst](/help/marketo/getting-started/quick-wins/send-an-email.md){target=&quot;_blank&quot;}. Under **Nytt**, klicka **Nytt program**.
+1. Välj **Utbildning** mapp som skapats i [föregående snabbvinst](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}. Under **[!UICONTROL New]**, klicka **[!UICONTROL New Program]**.
 
    ![](assets/landing-page-with-a-form-2.png)
 
-1. Ange ett program **Namn** väljer du en **Kanal** och klicka **Skapa**.
+1. Ange ett program **[!UICONTROL Name]** väljer du en **[!UICONTROL Channel]** och klicka **[!UICONTROL Create]**.
 
    ![](assets/landing-page-with-a-form-3.png)
 
@@ -38,37 +38,37 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Ett program är ett specifikt marknadsföringsinitiativ. The **kanal** är avsett att vara leveransmekanism, som webbinarium, sponsring eller online-annons. Du kan se olika kanalalternativ i listrutan, beroende på vad som är tillgängligt i din egen instans. Du kan också [skapa en egen kanal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target=&quot;_blank&quot;}.
+   >Ett program är ett specifikt marknadsföringsinitiativ. The **kanal** är avsett att vara leveransmekanism, som webbinarium, sponsring eller online-annons. Du kan se olika kanalalternativ i listrutan, beroende på vad som är tillgängligt i din egen instans. Du kan också [skapa en egen kanal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
 Snyggt gjort! Nu när vi har skapat ett program går vi vidare och skapar lite innehåll.
 
 ## STEG 2: Skapa ett formulär {#step-create-a-form}
 
-1. När programmet är valt klickar du på **Nytt** nedrullningsbar meny och välj **Ny lokal resurs**.
+1. När programmet är valt klickar du på **[!UICONTROL New]** nedrullningsbar meny och välj **[!UICONTROL New Local Asset]**.
 
    ![](assets/landing-page-with-a-form-4.png)
 
-1. Välj **Formulär**.
+1. Välj **[!UICONTROL Form]**.
 
    ![](assets/landing-page-with-a-form-5.png)
 
-1. Ange ett formulär **Namn** och klicka **Skapa**.
+1. Ange ett formulär **[!UICONTROL Name]** och klicka **[!UICONTROL Create]**.
 
    ![](assets/landing-page-with-a-form-6.png)
 
    >[!NOTE]
    >
-   >Se till att **Öppna i redigeraren** är markerad. Om det inte är det måste du klicka på **Redigera formulär** -fliken.
+   >Se till att **[!UICONTROL Open in editor]** är markerad. Om det inte är det måste du klicka på **[!UICONTROL Edit Form]** -fliken.
 
    >[!TIP]
    >
    >Ser du inte formulärredigeraren? Webbläsaren har antagligen blockerat fönstret. Aktivera popup-fönster från `app.marketo.com` i webbläsaren och klicka på Redigera utkast i den övre menyraden.
 
-1. Välj **E-postadress** fält och kontroll **Är obligatoriskt**.
+1. Välj **[!UICONTROL Email Address]** fält och kontroll **[!UICONTROL Is Required]**.
 
    ![](assets/landing-page-with-a-form-7.png)
 
-1. Klicka **Nästa**.
+1. Klicka på **[!UICONTROL Next]**.
 
    ![](assets/landing-page-with-a-form-8.png)
 
@@ -76,11 +76,11 @@ Snyggt gjort! Nu när vi har skapat ett program går vi vidare och skapar lite i
 
    ![](assets/landing-page-with-a-form-9.png)
 
-1. Klicka **Nästa**.
+1. Klicka på **[!UICONTROL Next]**.
 
    ![](assets/landing-page-with-a-form-10.png)
 
-1. Under sidan Tack väljer du **Extern URL** for **Följ upp med**.
+1. Under sidan Tack väljer du **[!UICONTROL External URL]** for **[!UICONTROL Follow Up With]**.
 
    ![](assets/landing-page-with-a-form-11.png)
 
@@ -90,13 +90,13 @@ Snyggt gjort! Nu när vi har skapat ett program går vi vidare och skapar lite i
 
    >[!NOTE]
    >
-   >På uppföljningssidan omdirigeras besökaren när formuläret har fyllts i. Extern URL är ett alternativ, men det finns fler. Se [Ange en tacksida för formuläret](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target=&quot;_blank&quot;}.
+   >På uppföljningssidan omdirigeras besökaren när formuläret har fyllts i. Extern URL är ett alternativ, men det finns fler. Se [Ange en tacksida för formuläret](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target="_blank"}.
 
-1. Klicka **Slutför**.
+1. Klicka på **[!UICONTROL Finish]**.
 
    ![](assets/landing-page-with-a-form-13.png)
 
-1. Klicka **Godkänn och stäng**.
+1. Klicka på **[!UICONTROL Approve and Close]**.
 
    ![](assets/landing-page-with-a-form-14.png)
 
@@ -104,15 +104,15 @@ Snyggt gjort! Nu när vi har skapat ett program går vi vidare och skapar lite i
 
 ## STEG 3: Skapa en landningssida och lägg till formuläret {#step-create-a-landing-page-and-add-your-form}
 
-1. När programmet är valt klickar du på **Nytt** nedrullningsbar meny och välj **Ny lokal resurs**.
+1. När programmet är valt klickar du på **[!UICONTROL New]** nedrullningsbar meny och välj **[!UICONTROL New Local Asset]**.
 
    ![](assets/landing-page-with-a-form-15.png)
 
-1. Välj **Landningssida**.
+1. Välj **[!UICONTROL Landing Page]**.
 
    ![](assets/landing-page-with-a-form-16.png)
 
-1. Ange en sida **Namn**, välj en mall och klicka på **Skapa**.
+1. Ange en sida **[!UICONTROL Name]**, välj en mall och klicka på **[!UICONTROL Create]**.
 
    >[!NOTE]
    >
@@ -120,11 +120,11 @@ Snyggt gjort! Nu när vi har skapat ett program går vi vidare och skapar lite i
 
    ![](assets/landing-page-with-a-form-17.png)
 
-1. När landningssidans redigerare öppnas drar du formulärelementet till arbetsytan.
+1. När landningssidans redigerare öppnas drar du [!UICONTROL Form] på arbetsytan.
 
    ![](assets/landing-page-with-a-form-18.png)
 
-1. Hitta och markera formuläret och klicka på **Infoga**.
+1. Hitta och markera formuläret och klicka på **[!UICONTROL Insert]**.
 
    ![](assets/landing-page-with-a-form-19.png)
 
@@ -140,7 +140,7 @@ Snyggt gjort! Nu när vi har skapat ett program går vi vidare och skapar lite i
 
 ## STEG 4: Godkänn landningssidan {#step-approve-your-landing-page}
 
-1. Välj landningssida och klicka på **Godkänn utkast**.
+1. Välj landningssida och klicka på **[!UICONTROL Approve draft]**.
 
    ![](assets/landing-page-with-a-form-22.png)
 
@@ -154,15 +154,15 @@ Snyggt gjort! Nu när vi har skapat ett program går vi vidare och skapar lite i
 
 ## STEG 5: Testa formuläret {#step-test-your-form}
 
-1. Välj landningssida och klicka på **Visa godkänd sida**.
+1. Välj landningssida och klicka på **[!UICONTROL View Approved Page]**.
 
    ![](assets/landing-page-with-a-form-24.png)
 
-1. Fyll i formuläret med information som du vet är unik och klicka **Skicka**.
+1. Fyll i formuläret med information som du vet är unik och klicka **[!UICONTROL Submit]**.
 
    ![](assets/landing-page-with-a-form-25.png)
 
-1. Gå till **Databas** område.
+1. Gå till **[!UICONTROL Database]** område.
 
    ![](assets/landing-page-with-a-form-26.png)
 

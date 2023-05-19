@@ -3,9 +3,9 @@ unique-page-id: 2359416
 description: Automatiskt svar via e-post - Marketo Docs - produktdokumentation
 title: Automatiskt svar för e-post
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
-source-git-commit: 1c350eb17992e45b9e0f825e1abd5c86555d0a0a
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -16,29 +16,29 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Konfigurera och lägga till en person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
->* [Landningssida med ett formulär](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}
+>* [Konfigurera och lägga till en person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Landningssida med ett formulär](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 
 ## Steg 1: Skapa ett e-postmeddelande {#step-create-an-email}
 
-1. Gå till området Marknadsföringsaktiviteter.
+1. Gå till **[!UICONTROL Marketing Activities]** område.
 
    ![](assets/email-auto-response-1.png)
 
-1. Välj program i den vänstra menyn och klicka på **Nytt** och markera **Ny lokal resurs**.
+1. Välj program i den vänstra menyn och klicka på **[!UICONTROL New]** och markera **[!UICONTROL New Local Asset]**.
 
    ![](assets/email-auto-response-2.png)
 
-1. Välj **E-post**.
+1. Välj **[!UICONTROL Email]**.
 
    ![](assets/email-auto-response-3.png)
 
-1. Namnge e-postmeddelandet&quot;Automatiskt svar e-post&quot;, välj en mall och klicka på **Skapa**.
+1. Namnge e-postmeddelandet&quot;Automatiskt svar e-post&quot;, välj en mall och klicka på **[!UICONTROL Create]**.
 
    ![](assets/email-auto-response-4.png)
 
-   En e-postredigerare öppnas i ett nytt fönster eller på en ny flik. Om popup-fönster är blockerade klickar du på **Redigera utkast** på resurssammanfattningssidan för att komma åt e-postmeddelandet.
+   En e-postredigerare öppnas i ett nytt fönster eller på en ny flik. Om popup-fönster är blockerade klickar du på **[!UICONTROL Edit Draft]** på resurssammanfattningssidan för att komma åt e-postmeddelandet.
 
 1. Ange en ämnesrad och dubbelklicka sedan på det redigerbara området i e-postmeddelandet.
 
@@ -50,59 +50,59 @@ ht-degree: 0%
 
    ![](assets/email-auto-response-6.png)
 
-1. Skriv ditt e-postinnehåll och klicka på **Spara**.
+1. Skriv ditt e-postinnehåll och klicka på **[!UICONTROL Save]**.
 
    ![](assets/email-auto-response-7.png)
 
-1. Klicka på **E-poståtgärder** nedrullningsbar meny och välj **Godkänn och stäng**.
+1. Klicka på **[!UICONTROL Email Actions]** nedrullningsbar meny och välj **[!UICONTROL Approve and Close]**.
 
    ![](assets/email-auto-response-8.png)
 
 ## Steg 2: Skapa en smart kampanj {#step-create-a-smart-campaign}
 
-1. Välj program och klicka på **Nytt** nedrullningsbar meny och välj **Ny smart kampanj**.
+1. Välj program och klicka på **[!UICONTROL New]** nedrullningsbar meny och välj **[!UICONTROL New Smart Campaign]**.
 
    ![](assets/email-auto-response-9.png)
 
-1. **Namn** den smarta kampanjen&quot;Auto Response Campaign&quot; och klicka på **Skapa**.
+1. **Namn** den smarta kampanjen&quot;Auto Response Campaign&quot; och klicka på **[!UICONTROL Create]**.
 
    ![](assets/email-auto-response-10.png)
 
-1. Gå till **Smart List** -fliken.
+1. Gå till **[!UICONTROL Smart List]** -fliken.
 
    ![](assets/email-auto-response-11.png)
 
-   Vi konfigurerar kampanjen så att den körs när en person fyller i formuläret som du skapade i [**Landningssida med ett formulär**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}.
+   Vi konfigurerar kampanjen så att den körs när en person fyller i formuläret som du skapade i [**Landningssida med ett formulär**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}.
 
-1. Sök och dra **Fyller i formulär** till arbetsytan.
+1. Sök och dra **[!UICONTROL Fills Out Form]** till arbetsytan.
 
    ![](assets/email-auto-response-12.png)
 
-1. Välj **Mitt formulär** i listrutan. Klicka sedan på **Flöde** -fliken.
+1. Välj **[!UICONTROL My Form]** i listrutan. Klicka sedan på **[!UICONTROL Flow]** -fliken.
 
    ![](assets/email-auto-response-13.png)
 
-1. Dra **Skicka e-post** flödesåtgärd till vänster arbetsyta.
+1. Dra **[!UICONTROL Send Email]** flödesåtgärd till vänster arbetsyta.
 
    ![](assets/email-auto-response-14.png)
 
-1. Välj **E-post för automatiskt svar**. Klicka sedan på **Schema** -fliken.
+1. Välj **E-post för automatiskt svar**. Klicka sedan på **[!UICONTROL Schedule]** -fliken.
 
    ![](assets/email-auto-response-15.png)
 
-1. Klicka **Redigera**.
+1. Klicka på **[!UICONTROL Edit]**.
 
    ![](assets/email-auto-response-16.png)
 
-1. Välj **Varje gång** och klicka **Spara**.
+1. Välj **[!UICONTROL every time]** och klicka **[!UICONTROL Save]**.
 
    ![](assets/email-auto-response-17.png)
 
-1. Klicka **Aktivera**.
+1. Klicka på **[!UICONTROL Activate]**.
 
    ![](assets/email-auto-response-18.png)
 
-1. Klicka **Aktivera** på bekräftelseskärmen.
+1. Klicka **[!UICONTROL Activate]** på bekräftelseskärmen.
 
    ![](assets/email-auto-response-19.png)
 
@@ -112,13 +112,13 @@ ht-degree: 0%
 
 ## Steg 3: Fyll i formuläret {#step-fill-out-the-form}
 
-1. Välj **Min sida** (detta skapades i [Landningssida med ett formulär](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} snabbwin) och klicka på **Förhandsgranska**.
+1. Välj **Min sida** (detta skapades i [Landningssida med ett formulär](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} snabbvinna) och klicka **[!UICONTROL Preview]**.
 
    ![](assets/email-auto-response-20.png)
 
    _Landningssidan&quot;Prova utan kostnad&quot; öppnas på en ny flik._
 
-1. Fyll i formuläret med ditt förnamn, efternamn och e-postadress och klicka sedan på **Skicka**.
+1. Fyll i formuläret med ditt förnamn, efternamn och e-postadress och klicka sedan på **[!UICONTROL Submit]**.
 
    ![](assets/email-auto-response-21.png)
 

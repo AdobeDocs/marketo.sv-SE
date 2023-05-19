@@ -3,9 +3,9 @@ unique-page-id: 2359351
 description: Konfigurera och lägg till en person - Marketo Docs - produktdokumentation
 title: Konfigurera och lägg till en person
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
-source-git-commit: 3e53e5b947755b1b1a8db2b2fc30e93ea6c362ec
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Det finns några saker att göra innan du börjar uppdraget.
 
 ## Steg 1: Logga in på Marketo {#step-log-in-to-marketo}
 
-1. [Logga in på Marketo](https://app.marketo.com){target=&quot;_blank&quot;} med de inloggningsuppgifter som du fick via e-post.
+1. [Logga in på Marketo](https://app.marketo.com){target="_blank"} med de inloggningsuppgifter du fått via e-post.
 
    ![](assets/get-set-up-and-add-a-person-1.png)
 
@@ -24,15 +24,15 @@ Det finns några saker att göra innan du börjar uppdraget.
 
 Låt oss skapa en mapp som innehåller allt du kommer att göra i uppdragen.
 
-1. Gå till **Marknadsföringsaktiviteter** område.
+1. Gå till **[!UICONTROL Marketing Activities]** område.
 
    ![](assets/get-set-up-and-add-a-person-2.png)
 
-1. Klicka på **Nytt** nedrullningsbar meny och välj **Ny kampanjmapp**.
+1. Klicka på **[!UICONTROL New]** nedrullningsbar meny och välj **[!UICONTROL New Campaign Folder]**.
 
    ![](assets/get-set-up-and-add-a-person-3.png)
 
-1. Namnge mappen &quot;Learning&quot; och klicka på **Skapa**.
+1. Namnge mappen &quot;Learning&quot; och klicka på **[!UICONTROL Create]**.
 
    ![](assets/get-set-up-and-add-a-person-4.png)
 
@@ -44,15 +44,15 @@ Låt oss skapa en mapp som innehåller allt du kommer att göra i uppdragen.
 
 Lägg till dig själv som person i Marketo så att du kan skicka ut testmeddelanden till dig själv senare.
 
-1. Gå till **Databas** område.
+1. Gå till **[!UICONTROL Database]** område.
 
    ![](assets/get-set-up-and-add-a-person-6.png)
 
-1. Klicka på **Nytt** nedrullningsbar meny och välj **Ny person**.
+1. Klicka på **[!UICONTROL New]** nedrullningsbar meny och välj **[!UICONTROL New Person]**.
 
    ![](assets/get-set-up-and-add-a-person-7.png)
 
-1. Ange för- och efternamn, e-postadress och företagsnamn och klicka sedan på **Skapa** för att lägga till dig själv som person.
+1. Ange för- och efternamn, e-postadress och företagsnamn och klicka sedan på **[!UICONTROL Create]** för att lägga till dig själv som person.
 
    ![](assets/get-set-up-and-add-a-person-8.png)
 
@@ -60,11 +60,11 @@ Lägg till dig själv som person i Marketo så att du kan skicka ut testmeddelan
    >
    >Marketo gör det **not** har stöd för e-postadresser som innehåller känslolägesikoner.
 
-1. Om du vill visa personer öppnar du Smarta listor för system i den vänstra menyn och klickar sedan på Alla personer.
+1. Öppna [!UICONTROL System Smart Lists] i den vänstra menyn och klickar sedan på **[!UICONTROL All People]**.
 
    ![](assets/get-set-up-and-add-a-person-9.png)
 
-1. Klicka på **Folk** -fliken. Du borde se dig själv i databasen.
+1. Klicka på **[!UICONTROL People]** -fliken. Du borde se dig själv i databasen.
 
    ![](assets/get-set-up-and-add-a-person-10.png)
 

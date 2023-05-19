@@ -3,9 +3,9 @@ unique-page-id: 2359418
 description: Importera en lista med människor - Marketo Docs - produktdokumentation
 title: Importera en lista med personer
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-source-git-commit: a61f9c2bbfd7c6b4c34fd1731698dc90ad1bd6cf
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '454'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Konfigurera och lägga till en person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
+>[Konfigurera och lägga till en person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
 I den här självstudiekursen får du lära dig hur du importerar personer från en kalkylbladsfil till Marketo.
 
 ## Steg 1: Hämta och redigera ett kalkylblad {#step-download-and-edit-a-spreadsheet}
 
-1. Börja med att ladda ned en övningsfil ([**tradeshow-Attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target=&quot;_blank&quot;}) till datorn.
+1. Börja med att ladda ned en övningsfil ([**tradeshow-Attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target="_blank"}) till datorn.
 
    ![](assets/import-a-list-of-people-1.png)
 
@@ -44,41 +44,41 @@ I den här självstudiekursen får du lära dig hur du importerar personer från
 
 ## Steg 2: Skapa ett program {#step-create-a-program}
 
-1. Gå till **Marknadsföringsaktiviteter** område.
+1. Gå till **[!UICONTROL Marketing Activities]** område.
 
    ![](assets/import-a-list-of-people-3.png)
 
-1. Välj **Utbildning** mapp, sedan under **Nytt** klicka **Nytt program**.
+1. Välj **Utbildning** mapp, sedan under **[!UICONTROL New]** klicka **[!UICONTROL New Program]**.
 
    ![](assets/import-a-list-of-people-4.png)
 
-1. **Namn** Programmet&quot;My Tradeshow Program&quot; och välj&quot;Event&quot; för **Programtyp**.
+1. **Namn** Programmet&quot;My Tradeshow Program&quot; och välj&quot;Event&quot; för **[!UICONTROL Program Type]**.
 
    ![](assets/import-a-list-of-people-5.png)
 
-1. Välj **Varumärke** för **Kanal** och klicka **Skapa**.
+1. Välj **[!UICONTROL Tradeshow]** för **[!UICONTROL Channel]** och klicka **[!UICONTROL Create]**.
 
    ![](assets/import-a-list-of-people-6.png)
 
 >[!NOTE]
 >
->Händelseprogram inträffar vid specifika datum. Läs mer om [**Händelser**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target=&quot;_blank&quot;}.
+>Händelseprogram inträffar vid specifika datum. Läs mer om [**Händelser**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}.
 
 ## Steg 3: Importera kalkylblad till Marketo {#step-import-your-spreadsheet-into-marketo}
 
-1. I **Mitt Tradeshow Program**, klicka **Nytt** och markera **Ny lokal resurs**.
+1. I **Mitt Tradeshow Program**, klicka **[!UICONTROL New]** och markera **[!UICONTROL New Local Asset]**.
 
    ![](assets/import-a-list-of-people-7.png)
 
-1. Välj **Lista**.
+1. Välj **[!UICONTROL List]**.
 
    ![](assets/import-a-list-of-people-8.png)
 
-1. **Namn** i listan&quot;Tradeshow Attendees&quot; och klickar på **Skapa**.
+1. **Namn** i listan&quot;Tradeshow Attendees&quot; och klickar på **[!UICONTROL Create]**.
 
    ![](assets/import-a-list-of-people-9.png)
 
-1. I **Deltagare i mässor** lista, klicka på **Liståtgärder** och markera **Importera lista**.
+1. I **[!UICONTROL Tradeshow Attendees]** lista, klicka på **[!UICONTROL List Actions]** och markera **[!UICONTROL Import List]**.
 
    ![](assets/import-a-list-of-people-10.png)
 
@@ -90,32 +90,32 @@ I den här självstudiekursen får du lära dig hur du importerar personer från
    >
    >Storleksgränsen för CSV-filer är 100 MB.
 
-1. **Bläddra** till **tradeshow-Attendees.csv** kalkylbladsfil på datorn och klicka på **Nästa**.
+1. **[!UICONTROL Browse]** till **tradeshow-Attendees.csv** kalkylbladsfil på datorn och klicka på **[!UICONTROL Next]**.
 
    ![](assets/import-a-list-of-people-11.png)
 
    >[!NOTE]
    >
-   >I listimportläge väljer du **Hoppa över nya personer och uppdateringar** innebär att du inte kommer att påverka befintliga personposter eller logga några aktiviteter. Använd det här läget om du vill ha en snabb, förfiltrerad statisk lista över befintliga personer som kan användas i dina marknadsföringsaktiviteter. Om du väljer det här läget:
+   >I listimportläge väljer du **[!UICONTROL Skip new people and updates]** innebär att du inte kommer att påverka befintliga personposter eller logga några aktiviteter. Använd det här läget om du vill ha en snabb, förfiltrerad statisk lista över befintliga personer som kan användas i dina marknadsföringsaktiviteter. Om du väljer det här läget:
    >
    > * Hoppa över skapande av ny person
    > * Hoppa över uppdateringar av personfält
    > * Hoppa över aktivitetsloggning
 
 
-1. Mappa listkolumnfälten till deras respektive Marketo-fält och klicka på **Nästa**.
+1. Kartlägg [!UICONTROL List Column] fält till respektive Marketo Field och klicka **[!UICONTROL Next]**.
 
    ![](assets/import-a-list-of-people-12.png)
 
    >[!TIP]
    >
-   >Kolumnrubrikerna ska alltid matcha fältet exakt (skiftlägeskänsligt) för att uppnå bästa resultat för automatisk mappning. Om du använder anpassade fält och inte ser dem i listrutan går du tillbaka och [skapa dem](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;} så att de kan bli alternativ.
+   >Kolumnrubrikerna ska alltid matcha fältet exakt (skiftlägeskänsligt) för att uppnå bästa resultat för automatisk mappning. Om du använder anpassade fält och inte ser dem i listrutan går du tillbaka och [skapa dem](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} så att de kan bli alternativ.
 
    >[!NOTE]
    >
    >Om det finns fält som du inte vill importera väljer du **Ignorera** i listrutan Marketo Field.
 
-1. Välj **Mitt Tradeshow Program** för **Anskaffningsprogram** och sedan klicka **Importera**.
+1. Välj **Mitt Tradeshow Program** för **[!UICONTROL Acquisition Program]** och sedan klicka **[!UICONTROL Import]**.
 
    ![](assets/import-a-list-of-people-13.png)
 
@@ -123,13 +123,13 @@ I den här självstudiekursen får du lära dig hur du importerar personer från
 
    ![](assets/import-a-list-of-people-14.png)
 
-1. Tillbaka in **Mitt Tradeshow Program** klickar du på **Medlemmar** -fliken. Du kommer att se alla de personer du just importerat.
+1. Tillbaka in **Mitt Tradeshow Program** klickar du på **[!UICONTROL Members]** -fliken. Du kommer att se alla de personer du just importerat.
 
    ![](assets/import-a-list-of-people-15.png)
 
 >[!NOTE]
 >
->Du kan analysera hur ditt program fungerar genom att spåra programmedlemskap. Läs mer om [**Program**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target=&quot;_blank&quot;}.
+>Du kan analysera hur ditt program fungerar genom att spåra programmedlemskap. Läs mer om [**Program**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.
 
 ## Uppdraget är slutfört {#mission-complete}
 
