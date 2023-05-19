@@ -3,9 +3,9 @@ unique-page-id: 2949469
 description: Installationssteg - Marketo Docs - produktdokumentation
 title: Installationssteg
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: 6dc38462b08f9db639d2d5ee005c4bdf5131b701
+source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
 workflow-type: tm+mt
-source-wordcount: '2054'
+source-wordcount: '2008'
 ht-degree: 0%
 
 ---
@@ -35,17 +35,17 @@ Vissa steg kräver hjälp från IT-avdelningen.
 
 ## Logga in och skapa fler Marketo-användare {#log-in-and-create-additional-marketo-users}
 
-1. Logga in på Marketo [här](https://app.marketo.com/){target="_blank"} med de inloggningsuppgifter du fått via e-post.
+Logga in på Marketo [här](https://app.marketo.com/){target="_blank"} med de inloggningsuppgifter du fått via e-post.
 
-   ![](assets/setup-steps-1.png)
+![](assets/setup-steps-1.png)
 
 Grattis! Nu är du i Marketo och kan börja utforska. Du kanske vill bjuda in dina kollegor i marknadsföringsteamet till dig. Du kan göra detta genom att lägga till nya användare.
 
-Gå till **Administratör** område.
+Gå till **[!UICONTROL Admin]** område.
 
 >[!TIP]
 >
->Medan du är här kan du klicka **Mitt konto** om du vill ändra konto- och platsinställningar samt ange ett nytt prenumerationsnamn.
+>Medan du är här kan du klicka **[!UICONTROL My Account]** om du vill ändra konto- och platsinställningar samt ange ett nytt prenumerationsnamn.
 
 ![](assets/setup-steps-2.png)
 
@@ -53,15 +53,15 @@ Gå till **Administratör** område.
 >
 >**Administratörsbehörigheter krävs**
 
-Klicka **Användare och roller**.
+Klicka på **[!UICONTROL Users & Roles]**.
 
 ![](assets/setup-steps-3.png)
 
-Klicka **Bjud in ny användare**.
+Klicka på **[!UICONTROL Invite New User]**.
 
 ![](assets/setup-steps-4.png)
 
-Fyll i kollegans e-postadress, förnamn och efternamn. _Det är valfritt att ange ett förfallodatum för åtkomst_. Klicka **Nästa**.
+Fyll i kollegans e-postadress, förnamn och efternamn. _Det är valfritt att ange ett förfallodatum för åtkomst_. Klicka på **[!UICONTROL Next]**.
 
 ![](assets/setup-steps-5.png)
 
@@ -73,7 +73,7 @@ Fyll i kollegans e-postadress, förnamn och efternamn. _Det är valfritt att ang
 >
 >När förfallodatumet inkommer får användaren ett meddelande om förfallodatum och kontot är låst.
 
-Välj en roll och klicka på **Nästa**. Standardanvändare har tillgång till alla områden utom Admin.
+Välj en roll och klicka på **[!UICONTROL Next]**. Standardanvändare har tillgång till alla områden utom Admin.
 
 ![](assets/setup-steps-6.png)
 
@@ -85,7 +85,7 @@ Du kan redigera texten i inbjudan. Klicka **Skicka**.
 
 ![](assets/setup-steps-7.png)
 
-Den nya användaren visas nu på fliken Användare och bör få ett e-postmeddelande med en länk för att skapa ett lösenord och en inloggning. Nästa steg!
+Den nya användaren visas nu i **[!UICONTROL Users]** och bör få ett e-postmeddelande med en länk för att skapa ett lösenord och en inloggning. Nästa steg!
 
 ![](assets/setup-steps-8.png)
 
@@ -133,7 +133,7 @@ Klicka **Mitt konto**.
 
 ![](assets/setup-steps-10.png)
 
-Bläddra ned till &quot;Support Information&quot; och kopiera ditt Munchkin-ID.
+Kopiera [!UICONTROL Account String] från inställningarna för landningssidan.
 
 ![](assets/setup-steps-11.png)
 
@@ -169,17 +169,17 @@ Den första delen är e-postspårningen CNAME, `[EmailTrackingCNAME]`. Du måste
 >
 >CNAME-filer för e-post och landningssida måste vara olika. Undvik också CNAME-filer som&quot;track&quot; eller&quot;link&quot;. Den flaggas ofta som skräppost
 
-Om du vill hitta spårningslänken för Marketo går du till **Administratör** område.
+Om du vill hitta spårningslänken för Marketo går du till **[!UICONTROL Admin]** område.
 
 ![](assets/setup-steps-12.png)
 
-Klicka **E-post**.
+Klicka på **[!UICONTROL Email]**.
 
 ![](assets/setup-steps-13.png)
 
-Kopiera spårningslänken från e-postinställningarna.
+Kopiera [!UICONTROL Tracking Link] från e-postinställningarna.
 
-Spårningslänken har följande format: `mkto-[a-z][4 digits].com`.
+The [!UICONTROL Tracking Link] är i form av: `mkto-[a-z][4 digits].com`.
 
 ![](assets/setup-steps-14.png)
 
@@ -284,35 +284,35 @@ Skicka e-postmeddelandet till IT. Vi förstår att det kan ta lite tid för IT-a
 
 När IT-avdelningen har slutfört sina uppgifter följer du de här stegen för att lägga till landningssidan och e-posta CNAME:er samt för att aktivera DKIM-signering.
 
-Gå till **Administratör** området för att lägga till landningssidan CNAME
+Gå till **[!UICONTROL Admin]** området för att lägga till landningssidan CNAME
 
 ![](assets/setup-steps-15.png)
 
-Välj landningssidor och klicka på **Redigera** i området Inställningar.
+Välj landningssidor och klicka på **[!UICONTROL Edit]** i [!UICONTROL Settings] område.
 
 ![](assets/setup-steps-16.png)
 
-Ange ditt nya domännamn i fältet Domännamn för landningssidor. Den ska ha följande format:
+Ange ditt nya domännamn i fältet **[!UICONTROL Domain Name for Landing Pages]**. Den ska ha följande format:
 
 `[LandingPageCNAME].[CompanyDomain].com`
 
 ![](assets/setup-steps-17.png)
 
-Ange den URL som du vill att personer ska gå till i fältet Sidåterställning om det inte finns någon startsida. Du kan använda företagets hemsida om du inte har någon reservsida. Ange din företagswebbplats i fältet Hemsida.
+I **[!UICONTROL Fallback]** anger du den URL som du vill att användarna ska gå till om en landningssida inte är tillgänglig. Du kan använda företagets hemsida om du inte har någon reservsida. I **[!UICONTROL Homepage]** anger du företagets webbplats.
 
 ![](assets/setup-steps-18.png)
 
-I området Admin väljer du E-post för att lägga till din e-post-CNAME
+I [!UICONTROL Admin] område, markera **[!UICONTROL Email]** för att lägga till din e-post-CNAME
 
 ![](assets/setup-steps-19.png)
 
-Bläddra ned till Varumärkesdomäner. Välj din domän och klicka på **Redigera**.
+Bläddra nedåt till [!UICONTROL Branding Domains]. Välj din domän och klicka på **[!UICONTROL Edit]**.
 
 ![](assets/setup-steps-20.png)
 
 Ange din e-postspårningsdomän i fältet Domän. Den ska ha följande format:
 
-`[EmailTrackingCNAME].[CompanyDomain].com`. Klicka **Spara**.
+`[EmailTrackingCNAME].[CompanyDomain].com`. Klicka på **[!UICONTROL Save]**.
 
 ![](assets/setup-steps-21.png)
 
@@ -322,8 +322,8 @@ Det här är antagligen det mest spännande steget i din konfiguration - det är
 
 Välj något av följande, beroende på vilken CRM ditt företag använder.
 
-    * [Integrera Marketo med Salesforce.com](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
-    * [Integrera Marketo med Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
+    * [Integrera Marketo med [!DNL Salesforce.com]](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+    * [Integrera Marketo med [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
 >[!NOTE]
 >
@@ -333,9 +333,9 @@ Välj något av följande, beroende på vilken CRM ditt företag använder.
 
 >[!NOTE]
 >
->Är du kund i Launch Pack? Du kan hoppa över det här steget. Din konsult kommer att ge dig instruktioner om Munchkins kod i ditt dokument med IT-konfigurationsinstruktioner.
+>Är du [!DNL Launch Pack] kund? Du kan hoppa över det här steget. Din konsult kommer att ge dig [!DNL Munchkin] kodinstruktioner i dokumentet med IT-installationsanvisningar.
 
-Marketo har anpassad spårning av JavaScript (kallas Munchkin) som du kan använda för att spåra personaktiviteter på alla webbsidor. Munchkin krävs för att du ska kunna integrera din webbplats i Marketo. Följ de här stegen för att [Lägg till Munchkin-spårningskod på din webbplats](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
+Marketo har JavaScript för anpassad spårning (anropas [!DNL Munchkin]) som du kan använda för att spåra personaktiviteter på en webbsida. [!DNL Munchkin] krävs för att integrera din webbplats i Marketo. Följ de här stegen för att [Lägg till [!DNL Munchkin] Spåra kod på din webbplats](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
 
 >[!NOTE]
 >

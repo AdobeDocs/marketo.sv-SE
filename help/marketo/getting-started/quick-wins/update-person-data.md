@@ -3,9 +3,9 @@ unique-page-id: 2359426
 description: Uppdatera persondata - Marketo Docs - produktdokumentation
 title: Uppdatera persondata
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
-source-git-commit: a7f0f5b89ca2a35a3aaf0cfe1ed3a96da6366844
+source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Konfigurera och lägga till en person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
->* [Importera en lista med personer](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;}
+>* [Konfigurera och lägga till en person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Importera en lista med personer](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 
 Tänk dig att en person gav dig ytterligare kontaktinformation vid ditt senaste varumärke. Så här uppdaterar du persondata.
 
 ## Hitta den person du behöver uppdatera {#find-the-person-you-need-to-update}
 
-1. Gå till din databas.
+1. Gå till **[!UICONTROL Database]**.
 
    ![](assets/update-person-data-1.png)
 
@@ -42,7 +42,7 @@ Tänk dig att en person gav dig ytterligare kontaktinformation vid ditt senaste 
 
    >[!TIP]
    >
-   >Det finns många sätt att uppdatera persondata i Marketo. Se [Importera en lista med personer](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;} och [Ändra datavärde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target=&quot;_blank&quot;}.
+   >Det finns många sätt att uppdatera persondata i Marketo. Se [Importera en lista med personer](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} and [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
 
 ## Uppdatera persondata {#update-the-person-data}
 

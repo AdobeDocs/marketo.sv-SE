@@ -3,16 +3,16 @@ unique-page-id: 2949471
 description: Checklista för installation - Marketo Docs - produktdokumentation
 title: Konfigurera checklista
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
-source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
+source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
 
 # Konfigurera checklista {#setup-checklist}
 
-Välkommen till Marketo! Du kan använda följande checklista som en visuell att göra-lista för att komma igång. Information finns i [Installationssteg](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}.
+Välkommen till Marketo! Du kan använda följande checklista som en visuell att göra-lista för att komma igång. Information finns i [Installationssteg](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}.
 
 ## Logga in på Marketo och skapa fler användare {#log-in-to-marketo-and-create-additional-users}
 
@@ -32,7 +32,7 @@ Välkommen till Marketo! Du kan använda följande checklista som en visuell att
 1. Välj en e-post-CNAME för varumärkesspårningslänkar
 1. Be IT-avdelningen att konfigurera en DNS-post för e-postens CNAME
 1. Be IT att tillåtslista Marketo
-1. Konfigurera DKIM och SPF i administrationsområdet
+1. Ställ in DKIM och SPF i [!UICONTROL Admin] area
 1. Konfigurera MX för `[FromDomain1]`
 1. När det är klart med e-postmeddelandet CNAME konfigurerar du e-postmeddelandet CNAME i Marketo
 
@@ -50,4 +50,4 @@ Välkommen till Marketo! Du kan använda följande checklista som en visuell att
 
 >[!MORELIKETHIS]
 >
->[Installationssteg](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}
+>[Installationssteg](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}
