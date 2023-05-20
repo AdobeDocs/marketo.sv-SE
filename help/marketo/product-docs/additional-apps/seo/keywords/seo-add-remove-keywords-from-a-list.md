@@ -3,10 +3,10 @@ unique-page-id: 2949678
 description: SEO - Lägg till/ta bort nyckelord från en lista - Marketo Docs - produktdokumentation
 title: SEO - Lägg till/ta bort nyckelord från en lista
 exl-id: c03416b6-796b-4255-8f19-2087b215be05
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 0%
+source-wordcount: '182'
+ht-degree: 1%
 
 ---
 
@@ -16,11 +16,11 @@ Du kan hålla alla nyckelord på ett trevligt och organiserat sätt med hjälp a
 
 ## Lägg till i en lista {#add-to-a-list}
 
-1. Gå till **Nyckelord** -avsnitt.
+1. Gå till **[!UICONTROL Keywords]** -avsnitt.
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. Håll muspekaren över det nyckelord som du vill lägga till i en lista. Klicka **Lägg till/ta bort från listan**.
+1. Håll muspekaren över det nyckelord som du vill lägga till i en lista. Klicka på **[!UICONTROL Add/Remove from list]**.
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
@@ -30,7 +30,7 @@ Du kan hålla alla nyckelord på ett trevligt och organiserat sätt med hjälp a
 
    >[!TIP]
    >
-   >Du kan också skapa en ny lista för dina nyckelord. Skriv bara namnet i Skapa en ny lista.
+   >Du kan också skapa en ny lista för dina nyckelord. Skriv bara namnet i **[!UICONTROL Create a new list]**.
 
    ![](assets/image2014-9-18-11-3a49-3a16.png)
 
@@ -40,11 +40,11 @@ Hej! Markera listan om du vill se de nya nyckelorden.
 
 Du kan också ta bort nyckelord från en lista.
 
-1. Gå till **Nyckelord** -avsnitt.
+1. Gå till **[!UICONTROL Keywords]** -avsnitt.
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. Håll muspekaren över det nyckelord som du vill ta bort från en lista. Klicka **Lägg till/ta bort från listan**.
+1. Håll muspekaren över det nyckelord som du vill ta bort från en lista. Klicka på **[!UICONTROL Add/Remove from list]**.
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 

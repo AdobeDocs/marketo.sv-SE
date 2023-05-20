@@ -3,9 +3,9 @@ unique-page-id: 2949270
 description: SEO - Använd rapporten Competitor KW Trends Report - Marketo Docs - Product Documentation
 title: SEO - Använd KW-trendrapport för konkurrent
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,11 @@ I den här rapporten kan du se hur du och dina konkurrenter rangordnas efter nyc
 
 ## Hitta rapporter {#find-reports}
 
-1. Gå till **Rapporter**.
+1. Gå till **[!UICONTROL Reports]**.
 
    ![](assets/image2014-9-18-14-3a6-3a18.png)
 
-1. Klicka **Konkurrenskraftiga KW-rangtrender**.
+1. Klicka på **[!UICONTROL Competitor KW Rank Trends]**.
 
    ![](assets/image2014-9-18-14-3a6-3a37.png)
 
@@ -32,10 +32,10 @@ I det här diagrammet kan du se hur många procent av nyckelorden som har rankat
 
 | Objekt | Beskrivning |
 |---|---|
-| Nyckelord | Antalet nyckelord som du spårar. |
-| Ranknings-URL:er | Antalet URL:er i webbplatsens rankning i det intervall som du har angett. |
-| % i rangordning | Procentandel av nyckelordsrankningen i det intervall som du har angett. |
-| Medel. sökningar | Genomsnittligt antal sökningar med dessa nyckelord som gjordes under det angivna intervallet (under de senaste 30 dagarna, vid sökning i Google US) |
+| [!UICONTROL Keywords] | Antalet nyckelord som du spårar. |
+| [!UICONTROL Ranking URLs] | Antalet URL:er i webbplatsens rankning i det intervall som du har angett. |
+| [!UICONTROL % in rank] | Procentandel av nyckelordsrankningen i det intervall som du har angett. |
+| [!UICONTROL Avg. searches] | Genomsnittligt antal sökningar med dessa nyckelord som gjordes under det angivna intervallet (under de senaste 30 dagarna, vid sökning i Google US) |
 
 ## Filtrera data {#filtering-data}
 
@@ -43,18 +43,16 @@ I det här diagrammet kan du se hur många procent av nyckelorden som har rankat
 
    ![](assets/image2014-9-18-14-3a7-3a17.png)
 
-1. Klicka på **Rankning** i listrutan för att välja vilket rangintervall du vill visa nyckelord för.
+1. Klicka på **[!UICONTROL Rank]** i listrutan för att välja vilket rangintervall du vill visa nyckelord för.
 
    ![](assets/image2014-9-18-14-3a8-3a26.png)
 
-## Exporterar data  {#exporting-data}
+## Exporterar data {#exporting-data}
 
 >[!TIP]
 >
 >Du kan exportera den här rapporten till skrivbordet.
 
-1. Klicka **Exportera CSV** eller **Export PDF**.
+1. Klicka **[!UICONTROL Export CSV]** eller **[!UICONTROL Export PDF]**.
 
    ![](assets/image2014-9-18-14-3a9-3a49.png)
-
-   A+-arbete!

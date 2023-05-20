@@ -3,10 +3,10 @@ unique-page-id: 2949222
 description: SEO - Exportera problem till CSV - Marketo Docs - Produktdokumentation
 title: SEO - Exportera problem till CSV
 exl-id: a3012408-eeb4-4f09-af01-5c0e5dec4625
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 0%
+source-wordcount: '91'
+ht-degree: 1%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Du kan exportera dina [sidproblem](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md) data till en CSV-fil om du vill dela informationen med personer utanför Marketo. Så här gör du.
 
-1. Gå till **Sidor** -avsnitt.
+1. Gå till **[!UICONTROL Pages]** -avsnitt.
 
    ![](assets/image2014-9-18-13-3a16-3a5.png)
 
@@ -22,12 +22,12 @@ Du kan exportera dina [sidproblem](/help/marketo/product-docs/additional-apps/se
 
    ![](assets/image2014-9-18-13-3a16-3a8.png)
 
-   Det här är [Detaljnivå för sida ned](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). **Sidoptimeringsresultat** är en lista med alla problem som gäller den aktuella sidan.
+   Det här är [Detaljnivå för sida ned](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). **[!UICONTROL Page Optimization Results]** är en lista med alla problem som gäller den aktuella sidan.
 
    ![](assets/image2014-9-18-13-3a16-3a12.png)
 
-1. Klicka **Exportera**.
+1. Klicka på **[!UICONTROL Export]**.
 
    ![](assets/image2014-9-18-13-3a16-3a39.png)
 
-1. Perfekt! Du har nu laddat ned alla problem med den här sidan till en CSV-fil. Ganska coolt, va?
+Perfekt! Du har nu laddat ned alla problem med den här sidan till en CSV-fil.

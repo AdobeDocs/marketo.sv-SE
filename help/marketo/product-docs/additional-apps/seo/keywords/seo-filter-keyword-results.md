@@ -3,9 +3,9 @@ unique-page-id: 2949208
 description: SEO - filtrera nyckelordsresultat - Marketo Docs - produktdokumentation
 title: SEO - filtrera nyckelordsresultat
 exl-id: 8f237814-09b7-4041-9fe7-bb9a6ce016ca
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Du har kanske en massa [nyckelord](/help/marketo/product-docs/additional-apps/se
 
 ## Filtrera efter lista {#filter-by-list}
 
-1. Gå till **Nyckelord** -avsnitt.
+1. Gå till **[!UICONTROL Keywords]** -avsnitt.
 
    ![](assets/image2014-9-18-11-3a55-3a8.png)
 
@@ -32,7 +32,7 @@ Söt! Du kommer nu endast att titta på nyckelord i den listan.
 
 ## Filtrera efter SERP-rangordning {#filter-by-serp-rank}
 
-1. Gå till avsnittet Nyckelord.
+1. Gå till [!UICONTROL Keywords] -avsnitt.
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
@@ -46,10 +46,10 @@ Söt! Du kommer nu endast att titta på nyckelord i den listan.
 
 Du kan också hitta de nyckelord du söker efter med hjälp av sökfältet i det övre högra hörnet.
 
-1. Gå till **Nyckelord** -avsnitt.
+1. Gå till **[!UICONTROL Keywords]** -avsnitt.
 
    ![](assets/image2014-9-18-12-3a0-3a50.png)
 
-1. Ange ditt nyckelord i sökfältet.
+1. Ange ditt nyckelord i **[!UICONTROL Search]** fält.
 
    ![](assets/image2014-9-18-12-3a1-3a7.png)

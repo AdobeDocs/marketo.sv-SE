@@ -3,9 +3,9 @@ unique-page-id: 2949273
 description: SEO - Använd rapporten Nyckelordstrender - Marketo Docs - Produktdokumentation
 title: SEO - Använd rapporten om nyckelordstrender
 exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,11 @@ I den här rapporten kan du se hur nyckelord rangordnas över tiden.
 
 ## Läs in rapport {#load-report}
 
-1. Gå till **Rapporter**.
+1. Gå till **[!UICONTROL Reports]**.
 
    ![](assets/image2014-9-18-14-3a12-3a18.png)
 
-1. Klicka på **Nyckelordsrankningstrender**.
+1. Klicka på **[!UICONTROL Keyword Rank Trends]**.
 
    ![](assets/image2014-9-18-14-3a13-3a14.png)
 
@@ -32,10 +32,10 @@ I den här rapporten kan du se hur nyckelord rangordnas över tiden.
 
    | Objekt | Beskrivning |
    |---|---|
-   | Nyckelord | Antalet nyckelord som du spårar. |
-   | Ranknings-URL:er | Antalet URL:er i webbplatsens rankning i det intervall som du har angett. |
-   | Medel. rankning | Genomsnittlig rangordning av nyckelord i det intervall som du har angett. |
-   | Medel. sökningar | Genomsnittligt antal sökningar efter de nyckelord som gjordes under det intervall som du angav (under de senaste 30 dagarna, vid sökning i Google US) |
+   | [!UICONTROL Keywords] | Antalet nyckelord som du spårar. |
+   | [!UICONTROL Ranking URLs] | Antalet URL:er i webbplatsens rankning i det intervall som du har angett. |
+   | [!UICONTROL Avg. rank] | Genomsnittlig rangordning av nyckelord i det intervall som du har angett. |
+   | [!UICONTROL Avg. searches] | Genomsnittligt antal sökningar efter de nyckelord som gjordes under det intervall som du angav (under de senaste 30 dagarna) vid sökning i Google US |
 
 ## Filtrera data {#filtering-data}
 
@@ -53,7 +53,7 @@ I den här rapporten kan du se hur nyckelord rangordnas över tiden.
 >
 >Du kan exportera den här rapporten till skrivbordet.
 
-1. Klicka på Exportera CSV eller Export PDF.
+1. Klicka **[!UICONTROL Export CSV]** eller **[!UICONTROL Export PDF]**.
 
    ![](assets/image2014-9-18-14-3a14-3a46.png)
 

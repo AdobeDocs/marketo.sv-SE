@@ -3,10 +3,10 @@ unique-page-id: 2949266
 description: SEO - Lägg till/ta bort sidproblem från en lista - Marketo Docs - produktdokumentation
 title: SEO - Lägg till/ta bort sidproblem från en lista
 exl-id: 41d16263-a083-40a5-9003-72a35df12c45
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 0%
+source-wordcount: '165'
+ht-degree: 1%
 
 ---
 
@@ -16,15 +16,15 @@ Du kan ordna dina sidproblem i listor. Du kan också ta bort sidproblem från en
 
 ## Lägga till sidproblem i en lista {#add-page-issues-to-a-list}
 
-1. Gå till **Sidor** -avsnitt.
+1. Gå till **[!UICONTROL Pages]** -avsnitt.
 
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
-1. På fliken Sidor klickar du på **Problem**.
+1. På **[!UICONTROL Pages]** flik, klicka **[!UICONTROL Issues]**.
 
    ![](assets/image2014-9-18-14-3a3-3a18.png)
 
-1. Håll muspekaren över det sidproblem du vill lägga till. Klicka **Lägg till/ta bort från lista**.
+1. Håll muspekaren över det sidproblem du vill lägga till. Klicka på **[!UICONTROL Add/Remove From List]**.
 
    ![](assets/image2014-9-18-14-3a3-3a40.png)
 
@@ -34,15 +34,15 @@ Du kan ordna dina sidproblem i listor. Du kan också ta bort sidproblem från en
 
    >[!TIP]
    >
-   >Du kan också skapa en ny lista där nyckelordet ska placeras. Skriv bara ditt namn i Skapa en ny lista.
+   >Du kan också skapa en ny lista där nyckelordet ska placeras. Skriv ditt namn i **[!UICONTROL Create a new list]**.
 
 ## Ta bort sidproblem från en lista {#remove-page-issue-from-a-list}
 
-1. Gå till avsnittet Sidor.
+1. Gå till **[!UICONTROL Pages]** -avsnitt.
 
    ![](assets/image2014-9-18-14-3a4-3a8.png)
 
-1. På fliken Sidor klickar du på **Problem**.
+1. På fliken Sidor klickar du på **[!UICONTROL Issues]**.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
@@ -50,7 +50,7 @@ Du kan ordna dina sidproblem i listor. Du kan också ta bort sidproblem från en
 
    ![](assets/image2014-9-18-14-3a4-3a29.png)
 
-1. Håll muspekaren över det sidproblem du vill ta bort. Klicka **Lägg till/ta bort från lista**.
+1. Håll muspekaren över det sidproblem du vill ta bort. Klicka på **[!UICONTROL Add/Remove From List]**.
 
    ![](assets/image2014-9-18-14-3a4-3a38.png)
 

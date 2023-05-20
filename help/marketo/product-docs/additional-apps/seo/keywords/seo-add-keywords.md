@@ -3,9 +3,9 @@ unique-page-id: 2949204
 description: SEO - Lägg till nyckelord - Marketo Docs - produktdokumentation
 title: SEO - Lägg till nyckelord
 exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ Nyckelord är fraser som användare skriver i sökmotorer. Lägg till de nyckelo
 >
 >Om du har många nyckelord kan du [importera dem med en CSV-fil](/help/marketo/product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md).
 
-1. Gå till **Nyckelord** -avsnitt.
+1. Gå till **[!UICONTROL Keywords]** -avsnitt.
 
    ![](assets/image2014-9-18-11-3a28-3a39.png)
 
-1. Ange de nyckelord du vill använda som mål och klicka på **Spara**.
+1. Ange de nyckelord du vill använda som mål och klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-18-11-3a28-3a51.png)
 
