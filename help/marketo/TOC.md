@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
+source-git-commit: 2ea00108eaaab147fcf1a2c81a1f245b0766ebe4
 workflow-type: tm+mt
-source-wordcount: '8886'
+source-wordcount: '8888'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + Komma igång med Marketo {#getting-started-with-marketo}
    + [Komma igång](getting-started.md)
    + [Vad är Adobe Marketo Engage?](getting-started/what-is-adobe-marketo-engage.md)
+   + [Help Center](help-center.md)
    + [Marketo-ordlista](getting-started/marketo-glossary.md)
    + [Klassisk ikon - ordlista](getting-started/classic-icon-glossary.md)
    + Inställningar {#setup}
