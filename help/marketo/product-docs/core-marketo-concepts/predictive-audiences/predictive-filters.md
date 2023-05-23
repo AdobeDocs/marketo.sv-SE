@@ -2,16 +2,16 @@
 description: Prediktiva filter - Marketo Docs - produktdokumentation
 title: Prediktiva filter
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
-source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
+source-git-commit: 319b1d0ed144fb39afbafd5ca691b14f86645563
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
 
 # Prediktiva filter {#predictive-filters}
 
-Som en del av Predictive Audiences erbjuder Marketo en grupp AI/ML-baserade filter i smarta listor.
+Som en del av Predictive Audiences erbjuder Marketo en grupp AI/ML-baserade filter i smarta listor inom smarta kampanjer.
 
 ![Bild ett](assets/predictive-filters-1.png)
 
@@ -27,7 +27,7 @@ Det här filtret används för att effektivt begränsa er målgrupp. Detta hjäl
 
 ## Sannolikhet för registrering
 
-Liknar _Sannolikhet att delta_ filtrera, använd det här filtret för att begränsa målgrupper och målleads som har större sannolikhet att **registrering** för webbinariet eller evenemanget.
+Liknar _Sannolikhet att delta_ filtrera, använd det här filtret för att begränsa målgrupper och målleads som har större sannolikhet att **registrering** för webbinariet eller evenemanget.
 
 ![Bild tre](assets/predictive-filters-3.png)
 
@@ -45,8 +45,8 @@ Detta filtrerar publiken efter om de har en hög eller låg sannolikhet för att
 
 Dessa två filter hjälper er att utöka er nuvarande målgrupp genom att rikta in er på fler leads som liknar medlemmar i andra program eller Smart List. Filtren Lookalike tar hänsyn till fler än 50 faktorer, inklusive leadattribut, e-postaktivitet, webbaktivitet och engagemang.
 
-Klicka **[!UICONTROL Add Constraint]** om du vill välja villkor för att medlemmarna i de valda programmen ska lyckas.
+Klicka **[!UICONTROL Add Constraint]** om du vill välja villkor för att medlemmarna i de valda programmen ska lyckas.
 
-Klicka på **+** om du enkelt vill lägga till flera program/smarta listor till ett filter.
+Klicka på **+** om du enkelt vill lägga till flera program/smarta listor till ett filter.
 
 ![Bild fem](assets/predictive-filters-5.png)

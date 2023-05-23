@@ -3,7 +3,7 @@ description: Help Center - Marketo Docs - produktdokumentation
 title: Help Center
 hide: true
 hidefromtoc: true
-source-git-commit: 2ea00108eaaab147fcf1a2c81a1f245b0766ebe4
+source-git-commit: 319b1d0ed144fb39afbafd5ca691b14f86645563
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -20,7 +20,7 @@ När du har loggat in i Marketo Engage klickar du på hjälpikonen.
 
 ![](assets/help-center-1.png)
 
-**Stödlinjer**
+### Stödlinjer {#guides}
 
 Guiderna fungerar som snabbgenomgångar för populära funktioner.
 
@@ -46,7 +46,7 @@ Klicka **Klar** för att avsluta genomgången.
 >
 >Stäng stödlinjen när som helst genom att klicka **Stäng**.
 
-**Nyheter**
+### Nyheter {#whats-new}
 
 Fliken Nyheter innehåller alla detaljer om den senaste versionen av Marketo Engage.
 
@@ -56,7 +56,7 @@ Fliken Nyheter innehåller alla detaljer om den senaste versionen av Marketo Eng
 >
 >Klicka på pilikonen längst ned för att visa sidan i Experience League.
 
-**Resurser**
+### Resurser {#resources}
 
 På fliken Resurser får du snabb och direkt åtkomst till olika sätt att få ytterligare hjälp med instansen Marketo Engage.
 
