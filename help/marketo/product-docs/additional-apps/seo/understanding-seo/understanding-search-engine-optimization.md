@@ -3,9 +3,9 @@ unique-page-id: 2949176
 description: Understanding Search Engine Optimization - Marketo Docs - Product Documentation
 title: Om sökmotoroptimering
 exl-id: f5036487-e18e-495e-84ba-235f21e99fb2
-source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '395'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Först och främst bör du lära dig grunderna med den här praktiska ordlistan.
 
 **Sökmotoroptimering (SEO)**: En blandning av strategier och tekniker som används för att öka webbplatstrafiken genom att få en placering i hög rankning på sökmotorernas resultatsidor (SERP).
 
-**Nyckelord**: Ett nyckelord är det ord eller den fras som andra skriver i sökmotorer som Google, Yahoo eller Bing.
+**Nyckelord**: Ett nyckelord är det ord eller den fras som andra skriver i sökmotorer som Google, [!DNL Yahoo] eller [!DNL Bing].
 
 **Inkommande länkar**: Länkar på andra webbplatser som dirigerar trafik till din plats. Ju högre anseende den länkade webbplatsen har, desto värdefullare är den här inkommande länken.
 
@@ -52,8 +52,8 @@ Först och främst bör du lära dig grunderna med den här praktiska ordlistan.
 
 ## Hur kommer jag igång? {#how-do-i-get-started}
 
-1. Utveckla er strategi med [Förstå nyckelord](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target=&quot;_blank&quot;}
-1. Åtgärda befintliga problem i [Förstå sidor](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md){target=&quot;_blank&quot;}
-1. Nå ut bättre med [Förstå inkommande länkar](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md){target=&quot;_blank&quot;}
+1. Utveckla er strategi med [Förstå nyckelord](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target="_blank"}
+1. Åtgärda befintliga problem i [Förstå sidor](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md){target="_blank"}
+1. Nå ut bättre med [Förstå inkommande länkar](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md){target="_blank"}
 
 Målet är att vara så nära den första sidan (och det första resultatet) för nyckelord som är viktiga för ditt företag.

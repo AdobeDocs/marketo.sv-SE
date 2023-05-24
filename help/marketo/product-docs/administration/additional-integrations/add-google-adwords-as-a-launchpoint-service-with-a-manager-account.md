@@ -1,20 +1,20 @@
 ---
 unique-page-id: 7504893
-description: Lägg till Google AdWords som en startpunktstjänst med ett hanterarkonto - Marketo Docs - produktdokumentation
-title: Lägg till Google AdWords som en startpunktstjänst med ett hanterarkonto
+description: "Lägg till [!DNL Google AdWords] som [!DNL Launchpoint] Service med ett Manager-konto - Marketo Docs - produktdokumentation"
+title: "Lägg till [!DNL Google AdWords] som [!DNL Launchpoint] Service med ett hanterarkonto"
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
-source-wordcount: '359'
-ht-degree: 0%
+source-wordcount: '295'
+ht-degree: 1%
 
 ---
 
-# Lägg till Google AdWords som en startpunktstjänst med ett hanterarkonto {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
+# Lägg till [!DNL Google AdWords] som [!DNL Launchpoint] Tjänst med ett chefskonto {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-Länka ditt Google AdWords-konto till Marketo för att automatiskt överföra offlinekonverteringsdata från Marketo till Google AdWords. Sedan kan ni utifrån AdWords-gränssnittet enkelt se vilka klick som resulterat i kvalificerade leads, möjligheter och nya kunder (eller vilka intäktssteg ni vill spåra) efter er  [lägga till egna kolumner](https://support.google.com/adwords/answer/3073556){target="_blank"} i AdWords. Den här informationen visas inte i användargränssnittet för Marketo.
+Länka [!DNL Google AdWords] till Marketo för att automatiskt överföra konverteringsdata offline från Marketo till [!DNL Google AdWords]. Sedan, från [!DNL AdWords] Gränssnittet gör att du enkelt kan se vilka klick som resulterat i kvalificerade leads, affärsmöjligheter och nya kunder (eller vilka intäktssteg du vill spåra) efter att du  [lägga till egna kolumner](https://support.google.com/adwords/answer/3073556){target="_blank"} in [!DNL AdWords]. Den här informationen visas inte i användargränssnittet för Marketo.
 
-Om du har flera Google Adwords-konton kan du använda en [Google AdWords Manager-konto](https://www.google.com/adwords/manager-accounts/){target="_blank"} (tidigare kallat My Client Center) för att integrera dem med Marketo.
+Om du har flera [!DNL Google Adwords] konton kan du använda [[!DNL Google AdWords Manager Account]](https://www.google.com/adwords/manager-accounts/){target="_blank"} (tidigare känt som [!DNL My Client Center]) för att integrera dem med Marketo.
 
 Läs mer om [Google importfunktion för offlinekonvertering](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
@@ -28,71 +28,71 @@ Läs mer om [Google importfunktion för offlinekonvertering](https://support.goo
 
 >[!NOTE]
 >
->Du kan även integrera en [fristående Google AdWords-konto som startpunktstjänst](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}.
+>Du kan även integrera en [fristående [!DNL Google AdWords] konto som [!DNL Launchpoint] service](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}.
 
-1. Gå till **Administratör** -avsnitt.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-1.png)
 
-1. Välj **LaunchPoint**.
+1. Välj **[!UICONTROL LaunchPoint]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-2.png)
 
-1. Klicka på **Nytt** nedrullningsbar meny och välj **Ny tjänst**.
+1. Klicka på **[!UICONTROL New]** nedrullningsbar meny och välj **[!UICONTROL New Service]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-3.png)
 
-1. Ange ett visningsnamn och välj **Google AdWords**.
+1. Ange **[!UICONTROL Display Name]** och markera **[!UICONTROL Google AdWords]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-4.png)
 
-1. Välj **Auktorisera Marketo**.
+1. Välj **[!UICONTROL Authorize Marketo]**.
 
    >[!NOTE]
    >
-   >Se till att logga ut från ditt personliga Gmail-konto och aktivera popup-fönster.
+   >Se till att logga ut från din personliga [!DNL Gmail] och aktivera popup-fönster.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-5.png)
 
-1. Välj det konto som är kopplat till **Google AdWords**.
+1. Välj det konto som är kopplat till **[!DNL Google AdWords]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-6.png)
 
-1. Klicka **Acceptera**.
+1. Klicka på **[!UICONTROL Accept]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-7.png)
 
-1. Status visas som **Lyckades**. Välj **Nästa**.
+1. Status visas som **[!UICONTROL Success]**. Välj **[!UICONTROL Next]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-8.png)
 
-1. Ladda upp offlinekonverteringar från Marketo till Google AdWords **Vecka** eller **Dagligen**.
+1. Ladda upp offlinekonverteringar från Marketo till [!DNL Google AdWords] **[!UICONTROL Weekly]** eller **[!UICONTROL Daily]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-9.png)
 
-1. Attributkonvertering till **Första klickningen** eller **Sista klickningen**.
+1. Attributkonvertering till **[!UICONTROL First Click]** eller **[!UICONTROL Last Click]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-10.png)
 
    | Typ | Definition |
    |---|---|
-   | Första klickningen | Offlinekonverteringar tilldelas de första AdWords och den person som klickat de senaste 90 dagarna |
-   | Sista klickningen | Offlinekonverteringar tilldelas de sista AdWords och som en person klickade på |
+   | [!UICONTROL First Click] | Offlinekonverteringar tilldelas den första [!DNL AdWords] och att en person har klickat de senaste 90 dagarna |
+   | [!UICONTROL Last Click] | Offlinekonverteringar tilldelas den sista [!DNL AdWords] och att en person klickade |
 
    >[!NOTE]
    >
-   >[Automatisk taggning](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} måste väljas för att den här funktionen ska fungera. Den måste aktiveras inuti AdWords.
+   >[Automatisk taggning](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} måste väljas för att den här funktionen ska fungera. Den måste aktiveras inuti [!DNL AdWords].
 
-1. Klicka **Nästa**.
+1. Klicka på **[!UICONTROL Next]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-11.png)
 
-1. Avmarkera konton som du inte vill uppdatera. Klicka **Skapa**.
+1. Avmarkera konton som du inte vill uppdatera. Klicka på **[!UICONTROL Create]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-12.png)
 
-   Se nu den relaterade artikeln nedan för hur du mappar AdWords-offlinekonverteringar i din intäktsmodell.
+   Se artikeln nedan för mer information om hur du mappar [!DNL AdWords] offlinekonverteringar i intäktsmodellen.
 
    >[!MORELIKETHIS]
    >
-   >[Ange Google AdWords-konverteringar i intäktsmodellen med ett Manager-konto](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}
+   >[Ange [!DNL Google AdWords] Konverteringar i intäktsmodellen med ett chefskonto](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}

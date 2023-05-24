@@ -1,18 +1,18 @@
 ---
 unique-page-id: 7512289
-description: Lägg till GoToWebinar som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
-title: Lägg till GoToWebinar som en LaunchPoint-tjänst
+description: '"Lägg till [!DNL GoToWebinar] som [!DNL LaunchPoint] Service - Marketo Docs - produktdokumentation'
+title: "Lägg till [!DNL GoToWebinar] som [!DNL LaunchPoint] Tjänst"
 exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
-source-git-commit: dbb7478ac7b7e811bb9dfeb7c5e4a80ae400ab9b
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 0%
+source-wordcount: '133'
+ht-degree: 3%
 
 ---
 
-# Lägg till GoToWebinar som en LaunchPoint-tjänst {#add-gotowebinar-as-a-launchpoint-service}
+# Lägg till [!DNL GoToWebinar] som [!DNL LaunchPoint] Tjänst {#add-gotowebinar-as-a-launchpoint-service}
 
-Marketo hanterar registrering och närvaro av GoToWebinar.
+Marketo hanterar dina [!DNL GoToWebinar] registrering och närvaro.
 
 >[!NOTE]
 >
@@ -20,52 +20,52 @@ Marketo hanterar registrering och närvaro av GoToWebinar.
 
 >[!NOTE]
 >
->En befintlig prenumeration på GoToWebinar och administrationsrättigheter krävs för det här steget. Ha den e-postadress och det lösenord du använder för att logga in på GoToWebinar till hands.
+>En befintlig prenumeration på [!DNL GoToWebinar] och administrationsrättigheter krävs för detta steg. Ha e-post och lösenord som du använder för att logga in på [!DNL GoToWebinar] till hands.
 
 >[!NOTE]
 >
->GoToMeeting, GoToWebcast och GoToTraining stöds för närvarande inte.
+>[!DNL GoToMeeting], [!DNL GoToWebcast]och [!DNL GoToTraining] stöds för närvarande inte.
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-1.png)
 
-1. Klicka **LaunchPoint**.
+1. Klicka på **[!UICONTROL LaunchPoint]**.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-2.png)
 
-1. Välj **Nytt** och **Ny tjänst**.
+1. Välj **[!UICONTROL New]** och **[!UICONTROL New Service]**.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-3.png)
 
-1. Ange **Visningsnamn**. Under **Tjänst**, markera **GoToWebinar**.
+1. Ange **[!UICONTROL Display Name]**. Under **[!UICONTROL Service]** väljer du **[!UICONTROL GoToWebinar]**.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-4.png)
 
-1. Klicka på **Logga in på GoToWebinar**.
+1. Klicka på **[!UICONTROL Log Into GoToWebinar]**.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-5.png)
 
    >[!NOTE]
    >
-   >Om du vill synkronisera företagsnamn och jobbtitel från ditt Marketo-formulär till GoToWebinar väljer du **Aktivera ytterligare fält** box.
+   >Om du vill synkronisera företagsnamn och jobbtitel från ditt Marketo-formulär till [!DNL GoToWebinar]väljer du **[!UICONTROL Enable Additional Fields]** box.
 
-1. I popup-fönstret GoToWebinar Sign In anger du **GoToWebinar** e-post och lösenord och klicka **Logga in**.
+1. I [!DNL GoToWebinar] Popup-fönstret Logga in, ange **[!UICONTROL GoToWebinar]** e-post och lösenord och klicka **[!UICONTROL Sign In]**.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-6.png)
 
-1. När fönstret stängs klickar du på **Skapa**.
+1. När fönstret stängs klickar du på **[!UICONTROL Create]**.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-7.png)
 
-1. Bra! Dina **GoToWebinar** kontot har nu synkroniserats med Marketo.
+1. Bra! Dina **[!UICONTROL GoToWebinar]** kontot har nu synkroniserats med Marketo.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-8.png)
 
 >[!CAUTION]
 >
->När du uppdaterar ditt lösenord i GoToWebinar måste du även uppdatera ditt lösenord i Marketo.
+>När du uppdaterar ditt lösenord i [!DNL GoToWebinar]måste du även uppdatera ditt lösenord i Marketo.
 
 >[!MORELIKETHIS]
 >
->Lär dig hur [skapa en händelse med GotoWebinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md){target=&quot;_blank&quot;}.
+>Lär dig hur [skapa en händelse med [!DNL GotoWebinar]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md){target="_blank"}.

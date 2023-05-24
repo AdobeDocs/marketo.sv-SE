@@ -3,10 +3,10 @@ unique-page-id: 2949192
 description: SEO - Lägg till konkurrenter - Marketo Docs - Produktdokumentation
 title: SEO - Lägg till konkurrenter
 exl-id: 62ef754d-840e-4094-9b98-d2a472523f03
-source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 0%
+source-wordcount: '68'
+ht-degree: 1%
 
 ---
 
@@ -18,30 +18,28 @@ Genom att lägga till konkurrenter kan du spåra hur de fungerar för samma nyck
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **Administratör** -avsnitt.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/image2014-9-17-21-3a12-3a15.png)
 
-1. Klicka på **Konkurrenter** -fliken.
+1. Klicka på **[!UICONTROL Competitors]** -fliken.
 
    ![](assets/image2014-9-17-21-3a12-3a31.png)
 
-1. Klicka **Lägg till konkurrent**.
+1. Klicka på **[!UICONTROL Add Competitor]**.
 
    ![](assets/image2014-9-17-21-3a12-3a38.png)
 
-1. Skriv i **Namn** och **URL** av er konkurrent.
+1. Skriv i **[!UICONTROL Name]** och **[!UICONTROL URL]** av er konkurrent.
 
    ![](assets/image2014-9-17-21-3a13-3a5.png)
 
-   Hög fem! Nu bör du se din konkurrent i listan.
+   Nu bör du se din konkurrent i listan.
 
    ![](assets/image2014-9-17-21-3a13-3a14.png)
 
-   Grattis! Du är ett steg närmare att helt krossa den.
-
    >[!MORELIKETHIS]
    >
-   >* [Lägg till nyckelord](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md){target=&quot;_blank&quot;}
-   >* [Förstå nyckelord (konkurrentvy)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target=&quot;_blank&quot;}
+   >* [Lägg till nyckelord](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md){target="_blank"}
+   >* [Förstå nyckelord (konkurrentvy)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target="_blank"}
 

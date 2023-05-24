@@ -1,9 +1,7 @@
 ---
 description: Help Center - Marketo Docs - produktdokumentation
 title: Help Center
-hide: true
-hidefromtoc: true
-source-git-commit: 319b1d0ed144fb39afbafd5ca691b14f86645563
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -12,7 +10,7 @@ ht-degree: 0%
 
 # Help Center {#help-center}
 
-Hjälpcentret i Marketo Engage är en central plats där du kan få hjälp. Förutom att länka ut till olika resurser (t.ex. [produktdokumentation](/help/marketo/home.md){target="_blank"}, [release information](/help/marketo/release-notes/current.md){target="_blank"}, the [Marketo Community](https://nation.marketo.com/){target="_blank"}) får du tillgång till praktiska produktgenomgångar ordnade efter upplevelsenivå.
+Hjälpcentret i Marketo Engage är en central plats där du kan få hjälp. Förutom att länka ut till olika resurser (t.ex. [produktdokumentation](/help/marketo/home.md){target="_blank"}, [release information](/help/marketo/release-notes/current.md){target="_blank"}, the [Marketing Nation Community](https://nation.marketo.com/){target="_blank"}) får du tillgång till praktiska produktgenomgångar ordnade efter upplevelsenivå.
 
 ## Åtkomst {#how-to-access}
 
@@ -26,25 +24,25 @@ Guiderna fungerar som snabbgenomgångar för populära funktioner.
 
 ![](assets/help-center-2.png)
 
-Klicka på den stödlinje du vill visa.
+1. Klicka på den stödlinje du vill visa.
 
-![](assets/help-center-3.png)
+   ![](assets/help-center-3.png)
 
-Klicka **Kom igång**.
+1. Klicka **Kom igång**.
 
-![](assets/help-center-4.png)
+   ![](assets/help-center-4.png)
 
-Klicka **Nästa** för att fortsätta.
+1. Klicka **Nästa** för att fortsätta.
 
-![](assets/help-center-5.png)
+   ![](assets/help-center-5.png)
 
-Klicka **Klar** för att avsluta genomgången.
+1. Klicka **Klar** för att avsluta genomgången.
 
-![](assets/help-center-6.png)
+   ![](assets/help-center-6.png)
 
->[!TIP]
->
->Stäng stödlinjen när som helst genom att klicka **Stäng**.
+   >[!TIP]
+   >
+   >Stäng stödlinjen när som helst genom att klicka **Stäng**.
 
 ### Nyheter {#whats-new}
 
