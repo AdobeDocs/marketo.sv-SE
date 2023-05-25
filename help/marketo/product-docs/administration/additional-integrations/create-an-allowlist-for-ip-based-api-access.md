@@ -3,10 +3,10 @@ unique-page-id: 10098433
 description: Skapa ett Tillåtelselista för IP-baserad API-åtkomst - Marketo Docs - produktdokumentation
 title: Skapa ett Tillåtelselista för IP-baserad API-åtkomst
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: 1f10e1fcdbd5cf91481f749236fd37050ade29f8
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 0%
+source-wordcount: '119'
+ht-degree: 1%
 
 ---
 
@@ -18,19 +18,19 @@ Ibland vill du bara ge API-åtkomst till en viss IP-adress eller ett adressinter
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-1.png)
 
-1. Klicka **Webbtjänster**.
+1. Klicka på **[!UICONTROL Web Services]**.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-2.png)
 
-1. Klicka på i området IP-begränsningar **Redigera,** eller klicka **Redigera IP-begränsningar** i det övre vänstra hörnet.
+1. I **[!UICONTROL IP Restrictions]** område, klicka **[!UICONTROL Edit],** eller klicka **[!UICONTROL Edit IP Restrictions]** i det övre vänstra hörnet.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-3.png)
 
-1. Kontrollera **Aktivera IP-begränsningar** och ange de IP-adresser som du vill tillåtslista.
+1. Kontrollera **[!UICONTROL Enable IP Restrictions]** och ange de IP-adresser som du vill Tillåtslista.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-4.png)
 
@@ -38,10 +38,10 @@ Ibland vill du bara ge API-åtkomst till en viss IP-adress eller ett adressinter
    >
    >Du kan ange en enstaka IP-adress eller ett intervall av dessa eller använda ett jokertecken.
 
-1. Klicka **Lägg till** om du vill öppna ytterligare fält för att ange fler IP-adresser.
+1. Klicka **[!UICONTROL Add]** om du vill öppna ytterligare fält för att ange fler IP-adresser.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-5.png)
 
-1. Klicka **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-6.png)

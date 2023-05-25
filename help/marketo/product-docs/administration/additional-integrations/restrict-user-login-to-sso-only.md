@@ -3,9 +3,9 @@ unique-page-id: 2360358
 description: Begränsa användarinloggning till enbart enkel inloggning - Marketo Docs - produktdokumentation
 title: Begränsa användarinloggning till enbart enkel inloggning
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: 1f10e1fcdbd5cf91481f749236fd37050ade29f8
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -22,33 +22,33 @@ Om du är [med SSO](/help/marketo/product-docs/administration/additional-integra
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/restrict-user-login-to-sso-only-1.png)
 
-1. Klicka **Inloggningsinställningar**.
+1. Klicka **[!UICONTROL Login Setting]s**.
 
    ![](assets/restrict-user-login-to-sso-only-2.png)
 
-1. Klicka **Redigera skyddsinställningar**.
+1. Klicka på **[!UICONTROL Edit Security Settings]**.
 
    ![](assets/restrict-user-login-to-sso-only-3.png)
 
-1. Expandera de avancerade inställningarna, kontrollera **Kräv enkel inloggning** och klicka **Spara**.
+1. Expandera **[!UICONTROL Advanced]** inställningar, kontrollera **[!UICONTROL Require SSO]** och klicka **[!UICONTROL Save]**.
 
 ![](assets/restrict-user-login-to-sso-only-4.png)
 
 >[!NOTE]
 >
->Det bästa sättet är att bjuda in och acceptera inbjudan. _Efter_ När inbjudan har accepterats bör administratörer ange dem som&quot;Kräv enkel inloggning&quot;.
+>Det bästa sättet är att bjuda in och acceptera inbjudan. _Efter_ om inbjudan accepteras bör administratörerna ange dem som[!UICONTROL Require SSO].&quot;
 
 >[!TIP]
 >
->Om du väljer **Kräv enkel inloggning** kan du utesluta [användarroll](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) från denna begränsning genom att kontrollera **Hoppa över enkel inloggning** när rollen konfigureras. Detta gör att användarna kan logga in normalt. Administratörsanvändare kan till exempel fortfarande behöva logga in på Marketo via inloggningsskärmen.
+>Om du väljer **[!UICONTROL Require SSO]** kan du utesluta [användarroll](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) från denna begränsning genom att kontrollera **[!UICONTROL Bypass Single Sign-On]** när rollen konfigureras. Detta gör att användarna kan logga in normalt. Administratörsanvändare kan till exempel fortfarande behöva logga in på Marketo via inloggningsskärmen.
 
 >[!CAUTION]
 >
->När nya användare bjuds in får de e-postinbjudningar. Om **Kräv enkel inloggning** är markerat får de inte dessa e-postmeddelanden, såvida de inte har tilldelats en roll som är inställd på **Hoppa över enkel inloggning**.
+>När nya användare bjuds in får de e-postinbjudningar. Om **[!UICONTROL Require SSO]** är markerat får de inte dessa e-postmeddelanden, såvida de inte har tilldelats en roll som är inställd på **[!UICONTROL Bypass Single Sign-On]**.
 
 Så ja! Nu kommer alla användare (utom användare med behörighet att kringgå enkel inloggning) att begränsas till att endast använda enkel inloggning.
 

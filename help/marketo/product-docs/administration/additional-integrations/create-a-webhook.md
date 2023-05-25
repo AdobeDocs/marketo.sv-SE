@@ -1,36 +1,36 @@
 ---
 unique-page-id: 2360360
-description: Skapa en webkrok - Marketo Docs - produktdokumentation
-title: Skapa en webbkrok
+description: Skapa en [!DNL Webhook] - Marketo Docs - produktdokumentation
+title: Skapa en [!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
-source-git-commit: a498dcc5dc95bd7f732481d30db021485cf052c0
+source-git-commit: 1f10e1fcdbd5cf91481f749236fd37050ade29f8
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 0%
+source-wordcount: '197'
+ht-degree: 1%
 
 ---
 
-# Skapa en webbkrok {#create-a-webhook}
+# Skapa en [!DNL Webhook] {#create-a-webhook}
 
-Använd webhooks för att dra nytta av webbtjänster från tredje part för att skicka textmeddelanden, utöka persondata med mera.
+Använd [!DNL Webhooks] för att dra nytta av webbtjänster från tredje part för att skicka textmeddelanden, utöka persondata med mera.
 
 >[!AVAILABILITY]
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/create-a-webhook-1.png)
 
-1. Klicka **Webhooks**.
+1. Klicka på **[!UICONTROL Webhooks]**.
 
    ![](assets/create-a-webhook-2.png)
 
-1. Klicka **Ny webkrok**.
+1. Klicka på **[!UICONTROL New Webhook]**.
 
    ![](assets/create-a-webhook-3.png)
 
-1. Namnge och konfigurera din webkrok.
+1. Namnge och konfigurera [!DNL Webhook].
 
    ![](assets/create-a-webhook-4.png)
 
@@ -38,20 +38,20 @@ Använd webhooks för att dra nytta av webbtjänster från tredje part för att 
    >
    >Detta inkluderar ofta att du anger dina inloggningsuppgifter för en tredjepartstjänst som en URL-parameter eller i POSTEN.
 
-   * **URL**: Ange den URL som du använder i din begäran till webbtjänsten. Så här infogar du en token, t.ex. personens e-postadress (**`{{lead.Email Address}}`**), klickar du på **Infoga token**.
+   * **[!UICONTROL URL]**: Ange den URL som du använder i din begäran till webbtjänsten. Så här infogar du en token, t.ex. personens e-postadress (**`{{lead.Email Address}}`**), klickar du på **[!UICONTROL Insert Token]**.
 
-   * **Mall**: Om du vill skicka information i texten i begäran anger du det via nyttolastmallen. Mallar tillåts för följande typer av begäranden: POST, DELETE, PATCH eller PUT. Du kan använda dataformat som JSON eller XML. Om du vill infoga en variabel i mallen klickar du på **Infoga token**.
+   * **[!UICONTROL Template]**: Om du vill skicka information i texten i begäran anger du det via nyttolastmallen. Mallar tillåts för följande typer av begäranden: POST, DELETE, PATCH eller PUT. Du kan använda dataformat som JSON eller XML. Om du vill infoga en variabel i mallen klickar du på **[!UICONTROL Insert Token]**.
 
-   * **Begär tokenkodning**: Om tokenvärdena innehåller specialtecken (t.ex. ett et-tecken, &#39;&amp;&#39;), anger du formatet för din begäran (**JSON** eller **Formulär/URL**).
+   * **[!UICONTROL Request Token Encoding]**: Om tokenvärdena innehåller specialtecken (t.ex. ett et-tecken, &#39;&amp;&#39;), anger du formatet för din begäran (**JSON** eller **Formulär/URL**).
 
-   * **Svarstyp**: Välj formatet för det svar du får från tjänsten (**JSON** eller **XML**).
+   * **[!UICONTROL Response type]**: Välj formatet för det svar du får från tjänsten (**JSON** eller **XML**).
 
-   * **Typ av begäran**: Välj den HTTP-metod som ska användas (DELETE, GET, PATCH, POST, PUT).
+   * **[!UICONTROL Request Type]**: Välj den HTTP-metod som ska användas (DELETE, GET, PATCH, POST, PUT).
 
-1. Klicka **Skapa**.
+1. Klicka på **[!UICONTROL Create]**.
 
    ![](assets/create-a-webhook-5.png)
 
 >[!NOTE]
 >
->Läs mer i [webhooks](https://developers.marketo.com/documentation/webhooks/) Djupdykning.
+>Läs mer i [[!DNL Webhooks]](https://developers.marketo.com/documentation/webhooks/){target="_blank"} Djupdykning.

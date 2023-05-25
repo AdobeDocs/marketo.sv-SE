@@ -3,10 +3,10 @@ unique-page-id: 2360352
 description: Konfigurera dina SOAP API-inställningar - Marketo Docs - produktdokumentation
 title: Konfigurera dina SOAP API-inställningar
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: 1f10e1fcdbd5cf91481f749236fd37050ade29f8
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 0%
+source-wordcount: '78'
+ht-degree: 1%
 
 ---
 
@@ -20,21 +20,21 @@ ht-degree: 0%
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/configuring-your-soap-api-settings-1.png)
 
-1. Klicka **Webbtjänster**.
+1. Klicka på **[!UICONTROL Web Services]**.
 
    ![](assets/configuring-your-soap-api-settings-2.png)
 
-1. Ange lämplig **Krypteringsnyckel**, klicka **Spara ändringar** och skicka all information till din utvecklare.
+1. Ange lämplig **[!UICONTROL Encryption Key]**, klicka **[!UICONTROL Save Changes]** och skicka all information till din utvecklare.
 
    ![](assets/configuring-your-soap-api-settings-3.png)
 
 >[!CAUTION]
 >
->SOAP-slutpunkten och användar-ID är unika; skicka inte skärmbilden i den här artikeln till din utvecklare.
+>Din SOAP-slutpunkt och [!UICONTROL User ID] kommer att vara unika, skicka inte skärmbilden i den här artikeln till din utvecklare.
 
 >[!MORELIKETHIS]
 >
