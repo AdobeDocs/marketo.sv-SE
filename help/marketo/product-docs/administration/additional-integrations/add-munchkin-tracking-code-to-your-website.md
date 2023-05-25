@@ -1,18 +1,18 @@
 ---
 unique-page-id: 2360354
-description: Lägg till Munchkin-spårningskod på din webbplats - Marketo Docs - produktdokumentation
-title: Lägg till Munchkin-spårningskod på din webbplats
+description: "Lägg till [!DNL Munchkin] Spåra kod på din webbplats - Marketo Docs - produktdokumentation"
+title: "Lägg till [!DNL Munchkin] Spåra kod på din webbplats"
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
-source-git-commit: dbb7478ac7b7e811bb9dfeb7c5e4a80ae400ab9b
+source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
 workflow-type: tm+mt
-source-wordcount: '672'
+source-wordcount: '625'
 ht-degree: 0%
 
 ---
 
-# Lägg till Munchkin-spårningskod på din webbplats {#add-munchkin-tracking-code-to-your-website}
+# Lägg till [!DNL Munchkin] Spåra kod på din webbplats {#add-munchkin-tracking-code-to-your-website}
 
-Marketo anpassade JavaScript-spårningskod, som kallas Munchkin, spårar alla personer som besöker er webbplats så att ni kan reagera på besöken med automatiserade marknadsföringskampanjer. Även anonyma besökare spåras tillsammans med sina IP-adresser och annan information. **Utan den här spårningskoden kan du inte spåra besök eller annan aktivitet på din webbplats**!
+Marketo egen JavaScript-spårningskod, kallad [!DNL Munchkin], spårar alla personer som besöker er webbplats så att ni kan reagera på besöken med automatiserade marknadsföringskampanjer. Även anonyma besökare spåras tillsammans med sina IP-adresser och annan information. **Utan den här spårningskoden kan du inte spåra besök eller annan aktivitet på din webbplats**!
 
 >[!PREREQUISITES]
 >
@@ -22,17 +22,17 @@ Marketo anpassade JavaScript-spårningskod, som kallas Munchkin, spårar alla pe
 
 >[!NOTE]
 >
->Adobe Experience Cloud-kunder kan också använda Marketo integrering i Adobe Launch för att inkludera Munchkin-skript på sina webbsidor. Skaffa appen [här](https://www.adobeexchange.com/experiencecloud.details.101054.html).
+>Adobe Experience Cloud-kunder kan också använda Marketo integrering i Adobe Launch för att inkludera [!DNL Munchkin] skript på deras webbsidor. Skaffa appen [här](https://www.adobeexchange.com/experiencecloud.details.101054.html){target="_blank"}.
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-1.png)
 
-1. Klicka **Munchkin**.
+1. Klicka på **[!UICONTROL Munchkin]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-2.png)
 
-1. Välj Asynkron för spårningskodtyp.
+1. Välj **[!UICONTROL Asynchronous]** for **[!UICONTROL Tracking Code Type]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-3.png)
 
@@ -52,7 +52,7 @@ Marketo anpassade JavaScript-spårningskod, som kallas Munchkin, spårar alla pe
    >
    >Lägg in spårningskod på de webbsidor du vill spåra. Det kan vara varje sida för mindre webbplatser, eller bara nyckelsidor på webbplatser som har många dynamiskt genererade webbsidor, användarforum och så vidare.
 
-   För bästa resultat bör du använda den asynkrona Munchkin-koden och placera den inuti `<head>` element på sidorna. Om du använder den enkla koden (rekommenderas inte) är detta precis före `</body>` -tagg.
+   För bästa resultat bör du använda den asynkrona [!DNL Munchkin] och placera den inuti `<head>` element på sidorna. Om du använder den enkla koden (rekommenderas inte) är detta precis före `</body>` -tagg.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-5.png)
 
@@ -62,13 +62,13 @@ Marketo anpassade JavaScript-spårningskod, som kallas Munchkin, spårar alla pe
 
 ## Lägg till spårningskod när flera arbetsytor används {#add-tracking-code-when-using-multiple-workspaces}
 
-Om du använder Arbetsytor i ditt Marketo-konto har du förmodligen också separata webblänkar som motsvarar dina arbetsytor. I så fall kan du använda Munchkin tracking Javascript för att tilldela anonyma personer till rätt arbetsyta och partition.
+Om du använder Arbetsytor i ditt Marketo-konto har du förmodligen också separata webblänkar som motsvarar dina arbetsytor. I så fall kan du använda [!DNL Munchkin] spåra Javascript för att tilldela anonyma personer till rätt arbetsyta och partition.
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-6.png)
 
-1. Klicka **Munchkin**.
+1. Klicka på **[!UICONTROL Munchkin]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-7.png)
 
@@ -78,9 +78,9 @@ Om du använder Arbetsytor i ditt Marketo-konto har du förmodligen också separ
 
    >[!NOTE]
    >
-   >Om du inte använder den speciella arbetsytan Munchkin-koden tilldelas personerna standardpartitionen som skapades när ditt konto konfigurerades. Det heter till att börja med&quot;Standard&quot;, men du kan ha ändrat det på ditt Marketo-konto.
+   >Om du inte använder den speciella arbetsytan [!DNL Munchkin] koden tilldelas personerna standardpartitionen som skapades när ditt konto konfigurerades. Den heter &quot;[!UICONTROL Default]&quot; först, men du kan ha ändrat det på ditt eget Marketo-konto.
 
-1. Välj **Asynkron** för spårningskodtyp.
+1. Välj **[!UICONTROL Asynchronous]** for **[!UICONTROL Tracking Code Type]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-9.png)
 
@@ -98,43 +98,43 @@ Om du använder Arbetsytor i ditt Marketo-konto har du förmodligen också separ
 
    >[!CAUTION]
    >
-   >Du kan bara använda ett Munchkin-spårningsskript för en enda partition och arbetsyta på en sida. Ta inte med spårningsskript för flera partitioner/arbetsytor på webbplatsen.
+   >Du kan bara använda en [!DNL Munchkin] spårningsskript för en enskild partition och arbetsyta på en sida. Ta inte med spårningsskript för flera partitioner/arbetsytor på webbplatsen.
 
    >[!NOTE]
    >
    >Landningssidor som skapats i Marketo innehåller automatiskt spårningskod, så du behöver inte placera den här koden på dem.
 
-## Typer av Munchkin-spårningskoder {#types-of-munchkin-tracking-codes}
+## Typer av [!DNL Munchkin] Spårningskoder {#types-of-munchkin-tracking-codes}
 
-Det finns tre typer av Munchkin-spårningskoder som du kan välja mellan. Alla effekter påverkar webbsidans laddningstid på olika sätt.
+Det finns tre typer av [!DNL Munchkin] spårningskoder som du kan välja mellan. Alla effekter påverkar webbsidans laddningstid på olika sätt.
 
-1. **Enkel**: har minst antal kodrader, men optimerar inte för webbsidans inläsningstid. Den här koden läser in jQuery-biblioteket varje gång en webbsida läses in.
-1. **Asynkron**: minskar inläsningstiden för webbsidor.
-1. **Asynkron jQuery**: minskar inläsningstiden för webbsidor och förbättrar också systemprestanda. Den här koden förutsätter att du redan har jQuery och inte kontrollerar att den har lästs in.
+1. **[!UICONTROL Simple]**: har minst antal kodrader, men optimerar inte för webbsidans inläsningstid. Den här koden läser in jQuery-biblioteket varje gång en webbsida läses in.
+1. **[!UICONTROL Asynchronous]**: minskar inläsningstiden för webbsidor.
+1. **[!UICONTROL Asynchronous jQuery]**: minskar inläsningstiden för webbsidor och förbättrar också systemprestanda. Den här koden förutsätter att du redan har jQuery och inte kontrollerar att den har lästs in.
 
-## Testa om din Munchkin-kod fungerar {#test-if-your-munchkin-code-is-working}
+## Testa om din [!DNL Munchkin] Koden fungerar {#test-if-your-munchkin-code-is-working}
 
-Så här kontrollerar du att din Munchkin-kod fungerar när du har lagt till den:
+För att kontrollera [!DNL Munchkin] koden fungerar när du har lagt till den:
 
 1. Besök webbsidan.
 
-1. I My Marketo klickar du på **Analyser** platta.
+1. I [!DNL My Marketo]klickar du på **[!UICONTROL Analytics]** platta.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-12.png)
 
-1. Klicka **Webbsidesaktivitet**.
+1. Klicka på **[!UICONTROL Web Page Activity]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-13.png)
 
-1. Klicka på **Inställningar** flik, dubbelklicka **Aktivitetskälla**.
+1. Klicka på **[!UICONTROL Setup]** flik, dubbelklicka **[!UICONTROL Activity Source]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-14.png)
 
-1. Ändra aktivitetskällan till **Anonyma besökare (inklusive internetleverantörer)** och klicka **Använd**.
+1. Ändra [!UICONTROL Activity Source] till **[!UICONTROL Anonymous Visitors (including ISPs)]** och klicka **[!UICONTROL Apply]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-15.png)
 
-1. Klicka på **Rapport** -fliken.
+1. Klicka på **[!UICONTROL Report]** -fliken.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-16.png)
 

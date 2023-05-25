@@ -1,18 +1,18 @@
 ---
 unique-page-id: 7512292
-description: Lägg till webbmöte på nivå 3 som en startpunktstjänst - Marketo Docs - Produktdokumentation
-title: Lägg till webbmöte på nivå 3 som en startpunktstjänst
+description: '"Lägg till [!DNL Level 3 Web Meeting] som [!DNL LaunchPoint] Service - Marketo Docs - produktdokumentation'
+title: "Lägg till [!DNL Level 3 Web Meeting] som [!DNL LaunchPoint Service]"
 exl-id: f419b019-33bb-446d-baf5-55393770a703
-source-git-commit: dbb7478ac7b7e811bb9dfeb7c5e4a80ae400ab9b
+source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 0%
+source-wordcount: '78'
+ht-degree: 3%
 
 ---
 
-# Lägg till webbmöte på nivå 3 som en startpunktstjänst {#add-level-three-web-meeting-as-a-launchpoint-service}
+# Lägg till [!DNL Level 3 Web Meeting] som [!DNL LaunchPoint] Tjänst {#add-level-three-web-meeting-as-a-launchpoint-service}
 
-Marketo hanterar registrering och närvaro av webbmöten på nivå 3.
+Marketo hanterar dina [!DNL Level 3 Web Meeting] registrering och närvaro.
 
 >[!NOTE]
 >
@@ -20,32 +20,32 @@ Marketo hanterar registrering och närvaro av webbmöten på nivå 3.
 
 >[!NOTE]
 >
->En befintlig prenumeration på Level 3 Web Meeting och administrationsrättigheter krävs för det här steget. Ha ditt åtkomstnummer, åtkomstkod och lösenord till hands.
+>En befintlig prenumeration på [!DNL Level 3 Web Meeting] och administrationsrättigheter krävs för detta steg. Ha ditt åtkomstnummer, åtkomstkod och lösenord till hands.
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-1.png)
 
-1. Klicka **LaunchPoint**.
+1. Klicka på **[!UICONTROL LaunchPoint]**.
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-2.png)
 
-1. Välj **Nytt** och sedan **Ny tjänst**.
+1. Välj **[!UICONTROL New]** och sedan **[!UICONTROL New Service]**.
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-3.png)
 
-1. Ange **Visningsnamn**. Under **Tjänst**, markera **Webbmöte på nivå 3**.
+1. Ange **[!UICONTROL Display Name]**. Under **[!UICONTROL Service]** väljer du **[!UICONTROL Level 3 Web Meeting]**.
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-4.png)
 
-1. Ange **Åtkomstnummer**, **Åtkomstkod** och **Lösenord** och sedan klicka **Skapa**.
+1. Ange **[!UICONTROL Access Number]**, **[!UICONTROL Access Code]** och **[!UICONTROL Passcode]** och sedan klicka **[!UICONTROL Create]**.
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-5.png)
 
-Ditt konto för webbmöte på nivå 3 har nu synkroniserats med Marketo!
+Dina [!DNL Level 3 Web Meeting] Kontot synkroniseras nu med Marketo!
 
 ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-6.png)
 
 >[!MORELIKETHIS]
 >
->Lär dig hur [skapa en händelse med ett webbmöte på nivå 3](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md){target=&quot;_blank&quot;}.
+>Lär dig hur [skapa en händelse med en [!DNL Level 3 Web Meeting]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md){target="_blank"}.

@@ -3,16 +3,16 @@ unique-page-id: 2360356
 description: Lägg till enkel inloggning på en portal - Marketo Docs - produktdokumentation
 title: Lägg till enkel inloggning på en portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
-source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
+source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
 
 # Lägg till enkel inloggning på en portal {#add-single-sign-on-to-a-portal}
 
-Om du har en katalogtjänst som autentiserar användare kan du tillåta enkel inloggning (SSO) i Marketo. Vi stöder den här funktionen med SAML (Security Assertion Markup Language) version 2.0 och senare.
+Om du har en katalogtjänst som autentiserar användare kan du tillåta enkel inloggning (SSO) i Marketo. Vi stöder den här funktionen med [!DNL Security Assertion Markup Language] (SAML) version 2.0 och senare.
 
 Marketo fungerar som en SAML-tjänsteleverantör (SP) och är beroende av en extern identitetsleverantör (IdP) för att autentisera användare.
 
@@ -24,7 +24,7 @@ När enkel inloggning är aktiverad kan IdP validera användarens inloggningsupp
 
 >[!NOTE]
 >
->Är du en Microsoft Azure-användare? Kolla in deras [självstudiekurs om integrering](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target=&quot;_blank&quot;}.
+>Är du [!DNL Microsoft Azure] användare? Kolla in deras [självstudiekurs om integrering](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}.
 
 ## Skicka förfrågan {#how-to-send-the-request}
 
@@ -54,53 +54,53 @@ När enkel inloggning är aktiverad kan IdP validera användarens inloggningsupp
 
 SSO är inaktiverat som standard. Följ de här stegen för att aktivera SAML och konfigurera det.
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/add-single-sign-on-to-a-portal-1.png)
 
-1. Klicka **Enkel inloggning**.
+1. Klicka på **[!UICONTROL Single Sign-On]**.
 
    ![](assets/add-single-sign-on-to-a-portal-2.png)
 
    >[!NOTE]
    >
-   >Om du inte ser **Enkel inloggning** under **Administratör**, kontakt [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target=&quot;_blank&quot;}.
+   >Om du inte ser **[!UICONTROL Single Sign-On]** under **[!UICONTROL Admin]**, kontakt [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. Under **SAML-inställningar** avsnitt, klicka **Redigera**.
+1. Under **[!UICONTROL SAML Settings]** avsnitt, klicka **[!UICONTROL Edit]**.
 
    ![](assets/add-single-sign-on-to-a-portal-3.png)
 
-1. Ändra **SAML enkel inloggning** till **Aktiverad**.
+1. Ändra **[!UICONTROL SAML Single Sign-On]** till **[!UICONTROL Enabled]**.
 
    ![](assets/add-single-sign-on-to-a-portal-4.png)
 
-1. Ange **Utfärdar-ID**, **Enhets-ID** väljer du **Plats för användar-ID** och sedan klicka **Bläddra**.
+1. Ange **[!UICONTROL Issuer ID]**, **[!UICONTROL Entity ID]** väljer du **[!UICONTROL User ID Location]** och sedan klicka **[!UICONTROL Browse]**.
 
    ![](assets/add-single-sign-on-to-a-portal-5.png)
 
-1. Välj **Certifikat för identitetsleverantör** -fil.
+1. Välj **[!UICONTROL Identity Provider Certificate]** -fil.
 
    ![](assets/add-single-sign-on-to-a-portal-6.png)
 
-1. Klicka **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/add-single-sign-on-to-a-portal-7.png)
 
 ## Uppdatera inställningar för omdirigeringssida {#update-redirect-page-settings}
 
-1. Under **Omdirigera sidor** avsnitt, klicka **Redigera**.
+1. Under **[!UICONTROL Redirect Pages]** avsnitt, klicka **[!UICONTROL Edit]**.
 
    ![](assets/add-single-sign-on-to-a-portal-8.png)
 
    >[!NOTE]
    >
-   >Kunder som använder Universal ID tillsammans med enkel inloggning måste ange identitetsleverantörens inloggnings-URL i **Inloggnings-URL** fält.
+   >Kunder som använder Universal ID tillsammans med enkel inloggning måste ange identitetsleverantörens inloggnings-URL i **[!UICONTROL Login URL]** fält.
 
-1. Ange **Utloggnings-URL**. Det här är den URL som du vill att användaren ska dirigeras till när han/hon loggar ut från Marketo.
+1. Ange **[!UICONTROL Logout URL]**. Det här är den URL som du vill att användaren ska dirigeras till när han/hon loggar ut från Marketo.
 
    ![](assets/add-single-sign-on-to-a-portal-9.png)
 
-1. Ange en **Fel-URL**. Det här är den URL som du vill att användaren ska dirigeras till om inloggningen till Marketo misslyckas. Klicka **Spara**.
+1. Ange en **[!UICONTROL Error URL]**. Det här är den URL som du vill att användaren ska dirigeras till om inloggningen till Marketo misslyckas. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/add-single-sign-on-to-a-portal-10.png)
 
@@ -110,7 +110,7 @@ SSO är inaktiverat som standard. Följ de här stegen för att aktivera SAML oc
 
 >[!MORELIKETHIS]
 >
->* [Använda ett universellt ID för prenumerationsinloggning](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md){target=&quot;_blank&quot;}
->* [Begränsa användarinloggning till enbart enkel inloggning](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target=&quot;_blank&quot;}
->* [Bjud in Marketo-användare till två instanser med Universal ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target=&quot;_blank&quot;}
+>* [Använda ett universellt ID för prenumerationsinloggning](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md){target="_blank"}
+>* [Begränsa användarinloggning till enbart enkel inloggning](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
+>* [Bjud in Marketo-användare till två instanser med Universal ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
 

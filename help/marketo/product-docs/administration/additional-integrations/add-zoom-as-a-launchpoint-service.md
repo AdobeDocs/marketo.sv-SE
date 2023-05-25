@@ -1,18 +1,18 @@
 ---
 unique-page-id: 17728028
-description: Lägg till zoom som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
-title: Lägg till zoom som en LaunchPoint-tjänst
+description: '"Lägg till [!DNL Zoom] som [!DNL LaunchPoint] Service - Marketo Docs - produktdokumentation'
+title: "Lägg till [!DNL Zoom] som [!DNL LaunchPoint] Tjänst"
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 0%
+source-wordcount: '114'
+ht-degree: 3%
 
 ---
 
-# Lägg till zoom som en LaunchPoint-tjänst {#add-zoom-as-a-launchpoint-service}
+# Lägg till [!DNL Zoom] som [!DNL LaunchPoint] Tjänst {#add-zoom-as-a-launchpoint-service}
 
-Marketo hanterar din zoomregistrering och närvaro.
+Marketo hanterar dina [!DNL Zoom] registrering och närvaro.
 
 >[!NOTE]
 >
@@ -20,37 +20,37 @@ Marketo hanterar din zoomregistrering och närvaro.
 
 >[!NOTE]
 >
->En befintlig prenumeration på Zoom och administrationsrättigheter krävs för det här steget. Ha e-postadressen och lösenordet du använder för att logga in på Zoom till hands.
+>En befintlig prenumeration på [!DNL Zoom] och administrationsrättigheter krävs för detta steg. Har e-postadressen och lösenordet som du använder för att logga in på [!DNL Zoom] behållning.
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/add-zoom-as-a-launchpoint-service-1.png)
 
-1. Klicka **LaunchPoint**.
+1. Klicka på **[!UICONTROL LaunchPoint]**.
 
    ![](assets/add-zoom-as-a-launchpoint-service-2.png)
 
-1. Välj **Nytt** och sedan **Ny tjänst**.
+1. Välj **[!UICONTROL New]** och sedan **[!UICONTROL New Service]**.
 
    ![](assets/add-zoom-as-a-launchpoint-service-3.png)
 
-1. Ange **Visningsnamn**. Under **Tjänst**, markera **Zooma**.
+1. Ange **[!UICONTROL Display Name]**. Under **[!UICONTROL Service]** väljer du **[!UICONTROL Zoom]**.
 
    ![](assets/add-zoom-as-a-launchpoint-service-4.png)
 
-1. Klicka **Logga in i zoom**.
+1. Klicka på **[!UICONTROL Log Into Zoom]**.
 
    ![](assets/add-zoom-as-a-launchpoint-service-5.png)
 
-1. I inloggningsfönstret för Zoom anger du dina inloggningsuppgifter för Zoom och klickar på **Logga in**.
+1. I [!DNL Zoom] inloggningsfönstret, ange [!DNL Zoom] inloggningsuppgifter och klicka på **[!UICONTROL Sign in]**.
 
    ![](assets/add-zoom-as-a-launchpoint-service-6.png)
 
-1. När fönstret stängs klickar du på **Skapa**.
+1. När fönstret stängs klickar du på **[!UICONTROL Create]**.
 
    ![](assets/add-zoom-as-a-launchpoint-service-7.png)
 
-   Bra! Ditt Zoom-konto har nu synkroniserats med Marketo och finns i LaunchPoint-området.
+Dina [!DNL Zoom] kontot har nu synkroniserats med Marketo och finns i [!UICONTROL LaunchPoint] område.
 
 >[!CAUTION]
 >
@@ -58,4 +58,4 @@ Marketo hanterar din zoomregistrering och närvaro.
 
 >[!MORELIKETHIS]
 >
->Lär dig hur [skapa en händelse med Zoom](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).
+>Lär dig hur [skapa en händelse med [!DNL Zoom]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).
