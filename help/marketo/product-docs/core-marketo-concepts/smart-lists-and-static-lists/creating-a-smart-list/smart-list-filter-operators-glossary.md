@@ -3,9 +3,9 @@ unique-page-id: 557312
 description: Operatorordlista för smarta listfilter - Marketo Docs - produktdokumentation
 title: Ordlista för operatorer för smarta listfilter
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 5ffb1a1931ccbc945ba535f72898a1b73154e47a
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '605'
 ht-degree: 0%
 
 ---
@@ -55,7 +55,7 @@ Skriv bara in numret och enheten så fungerar det!
 
 >[!CAUTION]
 >
->När du skapar en smart lista med hjälp av ett datumfältfilter (t.ex. Födelsedatum, Skapat den SFDC) och använder kommandot **före** eller **på eller före** begränsningar kommer den smarta listan även att omfatta personer som inte har något värde i det datumfältet.
+>När du skapar en smart lista med ett datumfältfilter (t.ex. Födelsedatum, SFDC Skapat den) och använder begränsningarna **före**, **på eller före**, eller **tidigare än**, kommer den smarta listan även att omfatta personer som inte har något värde i det datumfältet.
 
 Använd följande diagram för att förstå skillnaden mellan datumoperatorerna.
 
