@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation – Marketo Docs – produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
+source-git-commit: 5fc6de5b333e3008ebd542171b6bce8b29701d07
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '401'
 ht-degree: 2%
 
 ---
@@ -99,4 +99,4 @@ Interaktiva webbinarier lanseras gradvis. Om du vill ha åtkomst tidigare fyller
 
 ## Meddelanden {#announcements}
 
-* **_Product Release Webinar_**: Besök oss den 17 maj 2023 kl. 9.00 PT/12.00 ET [för webbinarium](https://engage.marketo.com/2023_March_May_Release_Webinar_RegistrationPage.html){target="_blank"} finns hos vårt Product Team där du kan lära dig att använda alla de senaste produktinnovationerna som levererades i både mars- och maj-utgåvorna 23.
+* **_Product Release Webinar_**: [Mars och maj 2023 Marketo Engage Release Webinar](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}

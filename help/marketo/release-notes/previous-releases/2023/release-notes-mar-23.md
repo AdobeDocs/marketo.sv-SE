@@ -2,9 +2,9 @@
 description: Versionsinformation - mars 2023 - Marketo Docs - produktdokumentation
 title: Versionsinformation - mars 2023
 exl-id: 3074beee-e223-4794-8714-7d78e9d2d4eb
-source-git-commit: 68752faf80abb93e84e4cc7190c7f5469e3f689c
+source-git-commit: 5fc6de5b333e3008ebd542171b6bce8b29701d07
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '582'
 ht-degree: 1%
 
 ---
@@ -179,4 +179,4 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
 
 ## Meddelanden {#announcements}
 
-* **_Product Release Webinar_**: Besök oss den 17 maj 2023 kl. 9.00 PT/12.00 ET [för webbinarium](https://engage.marketo.com/2023_March_May_Release_Webinar_RegistrationPage.html){target="_blank"} finns hos vårt Product Team där du kan lära dig att använda alla de senaste produktinnovationerna som levererades i både mars- och maj-utgåvorna 23.
+* **_Product Release Webinar_**: [Mars och maj 2023 Marketo Engage Release Webinar](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
