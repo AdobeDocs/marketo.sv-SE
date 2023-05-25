@@ -3,10 +3,10 @@ unique-page-id: 2360222
 description: Aktivera kommunikationsbegränsningar - Marketo Docs - produktdokumentation
 title: Aktivera kommunikationsgränser
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
-source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 0%
+source-wordcount: '141'
+ht-degree: 2%
 
 ---
 
@@ -18,35 +18,35 @@ Det är viktigt att inte överkommunicera med era medarbetare. Genom att ange ko
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/enable-communication-limits-1.png)
 
-1. Klicka **Kommunikationsbegränsningar**.
+1. Klicka på **[!UICONTROL Communication Limits]**.
 
    ![](assets/enable-communication-limits-2.png)
 
-1. Klicka **Redigera**.
+1. Klicka på **[!UICONTROL Edit]**.
 
    ![](assets/enable-communication-limits-3.png)
 
    >[!NOTE]
    >
-   >Per dag baseras på kalenderdagen i prenumerationstidszonen (midnatt-midnatt).
+   >[!UICONTROL Per Day] baseras på kalenderdagen i prenumerationstidszonen (midnatt-midnatt).
 
-1. Klicka på **Per dag** och välj önskad gräns. I det här exemplet väljer vi 1.
+1. Klicka på **[!UICONTROL Per Day]** och välj önskad gräns. I det här exemplet väljer vi 1.
 
    ![](assets/enable-communication-limits-4.png)
 
    >[!TIP]
    >
-   >Du kan också välja **Egen** om inget av de förinställda alternativen fungerar för dig.
+   >Du kan också välja **[!UICONTROL Custom]** om inget av de förinställda alternativen fungerar för dig.
 
-1. Klicka på **Per 7 dagar** och välj önskad gräns. I det här exemplet väljer vi 5.
+1. Klicka på **[!UICONTROL Per 7 Days]** och välj önskad gräns. I det här exemplet väljer vi 5.
 
    ![](assets/enable-communication-limits-5.png)
 
-1. Välj **Blockera icke-fungerande e-postmeddelanden**.
+1. Välj **[!UICONTROL Block non-operational emails]**.
 
    ![](assets/enable-communication-limits-6.png)
 
@@ -54,7 +54,7 @@ Det är viktigt att inte överkommunicera med era medarbetare. Genom att ange ko
    >
    >Läs mer om vad [e-postmeddelanden](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) är.
 
-1. Klicka **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/enable-communication-limits-7.png)
 

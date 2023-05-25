@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation – Marketo Docs – produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 5fc6de5b333e3008ebd542171b6bce8b29701d07
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '418'
 ht-degree: 2%
 
 ---
@@ -47,8 +47,8 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/help-center.html">Help Center</a></td>
   </tr>
   </tbody>
 </table>
@@ -73,8 +73,8 @@ Interaktiva webbinarier lanseras gradvis. Om du vill ha åtkomst tidigare fyller
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Startade utrullning</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">Översikt över interaktiva webbinarier</a></td>
   </tr>
   </tbody>
 </table>

@@ -3,9 +3,9 @@ unique-page-id: 11378468
 description: Filtrering i granskningsspår - Marketo Docs - produktdokumentation
 title: Filtrera i granskningsspår
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
-source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 Filtrera efter tidsram, resurstyp, användare, åtgärd med mera.
 
-1. Klicka **Administratör**.
+1. Klicka på **[!UICONTROL Admin]**.
 
    ![](assets/filtering-in-audit-trail-1.png)
 
-1. Under **Säkerhet**, markera **Granskningsspår**.
+1. Under **[!UICONTROL Security]** väljer du **[!UICONTROL Audit Trail]**.
 
    ![](assets/filtering-in-audit-trail-2.png)
 
@@ -30,19 +30,19 @@ Filtrera efter tidsram, resurstyp, användare, åtgärd med mera.
    >
    >Det finns en mängd möjliga sökparameterkombinationer. I det här exemplet hittar vi: _alla e-postmeddelanden - redigerade av vem som helst - under de senaste sju dagarna_.
 
-1. Klicka på **Period** nedrullningsbar meny och välj **De senaste 7 dagarna**.
+1. Klicka på **[!UICONTROL Period]** nedrullningsbar meny och välj **[!UICONTROL Last 7 Days]**.
 
    ![](assets/filtering-in-audit-trail-4.png)
 
-1. Klicka på **Resurstyp** nedrullningsbar meny och välj **E-post**.
+1. Klicka på **[!UICONTROL Asset Type]** nedrullningsbar meny och välj **[!UICONTROL Email]**.
 
    ![](assets/filtering-in-audit-trail-5.png)
 
-1. Klicka på **Åtgärder** nedrullningsbar meny och välj **Redigera**.
+1. Klicka på **Afunktioner** nedrullningsbar meny och välj **[!UICONTROL Edit]**.
 
    ![](assets/filtering-in-audit-trail-6.png)
 
-1. Klicka **Använd**.
+1. Klicka på **[!UICONTROL Apply]**.
 
    ![](assets/filtering-in-audit-trail-7.png)
 

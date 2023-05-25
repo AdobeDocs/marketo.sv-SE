@@ -3,9 +3,9 @@ unique-page-id: 11377945
 description: Översikt över granskningsspår - Marketo Docs - produktdokumentation
 title: Översikt över granskningsspår
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,7 @@ Du kan bara visa 30 dagars data i din instans. Använd exportalternativet för a
 >
 >**Definition**
 >
->**Okänd:** I granskningsspår kan du se en användares namn och e-postadress som är&quot;Okänd&quot;. Det här inträffar när du ändrar värdena i din plocklista i CRM. Dessa värden visas i Marketo-formulär och på landningssidor. Om du gör den här uppdateringen på CRM-sidan läggs dina landningssidor automatiskt till som refererar till formuläret. Vi kommer att ta reda på att landningssidan har skrivits, men användarens namn och e-postadress kommer att visas som&quot;Okänd&quot; eftersom vi inte kan hämta användarinformation från CRM-sidan.
+>**Okänd:** I [!DNL Webhook]kan du se en användares namn och e-postadress som är &quot;Okänd&quot;. Det här inträffar när du ändrar värdena i din plocklista i CRM. Dessa värden visas i Marketo-formulär och på landningssidor. Om du gör den här uppdateringen på CRM-sidan läggs dina landningssidor automatiskt till som refererar till formuläret. I [!DNL Webhook]kommer vi att fånga upp att landningssidan har skrivits, men användarens namn och e-postadress kommer att visas som&quot;Okänd&quot; eftersom vi inte kan hämta användarinformation från CRM-sidan.
 
 >[!MORELIKETHIS]
 >

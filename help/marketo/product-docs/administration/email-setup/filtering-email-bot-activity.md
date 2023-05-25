@@ -2,10 +2,10 @@
 description: Filtrering av e-postsatsaktivitet - Marketo Docs - produktdokumentation
 title: Filtrerar e-postsatsaktivitet
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 788084582a616b3cadd45f19d7a4779dad6f8c98
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 14%
+source-wordcount: '449'
+ht-degree: 15%
 
 ---
 
@@ -30,25 +30,25 @@ I e-postlänkens klickning och öppningsaktivitet via e-post fylls nya attribut 
 
 ## Välj filtertyp {#select-filter-type}
 
-1. Klicka **Administratör**.
+1. Klicka på **[!UICONTROL Admin]**.
 
    ![](assets/filtering-email-bot-activity-1.png)
 
-1. Klicka **E-post**.
+1. Klicka på **[!UICONTROL Email]**.
 
    ![](assets/filtering-email-bot-activity-2.png)
 
-1. Klicka på **Rotaktivitet** -fliken.
+1. Klicka på **[!UICONTROL Bot Activity]** -fliken.
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Välj **Matcha med IAB-lista**, **Matcha med närhetsmönster** eller båda. Välj om startaktivitet ska loggas _eller_ filterrobotaktivitet.
+1. Välj **[!UICONTROL Match with IAB List]**, **[!UICONTROL Match with Proximity Pattern]** eller båda. Välj om du vill [!UICONTROL log bot activity] _eller_ [!UICONTROL filter bot activity].
 
    ![](assets/filtering-email-bot-activity-4.png)
 
 >[!NOTE]
 >
->Om du väljer Filtrera startaktivitet kan du se en nedgång i e-postmeddelandet som öppnas och klicka på som falska aktiviteter uteslöts.
+>Om du väljer [!UICONTROL Filter Bot Activity]kan du se en nedgång i e-postmeddelanden som öppnas och klicka på falska aktiviteter som försvinner.
 
 **VALFRITT STEG**: Om du vill inaktivera den här funktionen avmarkerar du reglagen. Om du inaktiverar återställs inte data.
 

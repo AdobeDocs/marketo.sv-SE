@@ -3,10 +3,10 @@ unique-page-id: 11377958
 description: Användarinloggningshistorik - Marketo Docs - produktdokumentation
 title: Historik för användarinloggning
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
-source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 0%
+source-wordcount: '168'
+ht-degree: 1%
 
 ---
 
@@ -28,15 +28,15 @@ Historik för användarinloggning identifierar personer som loggar in via:
 
 Så här visar du användarens inloggningshistorik:
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/user-login-history-1.png)
 
-1. Klicka på under Dokumentskydd **Användare och roller**.
+1. Klicka på under Dokumentskydd **[!UICONTROL Users & Roles]**.
 
    ![](assets/user-login-history-2.png)
 
-1. Klicka på **Inloggningshistorik** -fliken. I listan visas de senaste inloggningarna.
+1. Klicka på **[!UICONTROL Login History]** -fliken. I listan visas de senaste inloggningarna.
 
    ![](assets/user-login-history-3.png)
 
@@ -52,15 +52,15 @@ Så här visar du användarens inloggningshistorik:
 
    ![](assets/user-login-history-6.png)
 
-1. Välj användare från **Användare** nedrullningsbar meny.
+1. Välj användare från **[!UICONTROL Users]** nedrullningsbar meny.
 
    ![](assets/user-login-history-7.png)
 
-1. Kontrollera **Endast misslyckade inloggningar** om du bara vill visa misslyckade inloggningar i sökningen.
+1. Kontrollera **[!UICONTROL Only Failed Logins]** om du bara vill visa misslyckade inloggningar i sökningen.
 
    ![](assets/user-login-history-8.png)
 
-1. Klicka **Använd**.
+1. Klicka på **[!UICONTROL Apply]**.
 
    ![](assets/user-login-history-9.png)
 
@@ -68,6 +68,6 @@ Så här visar du användarens inloggningshistorik:
    >
    >Användargränssnittet visar upp till 30 dagars data. Om du behöver mer kan du ladda ned de senaste sex månadernas data till en csv-fil.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
    >[Översikt över granskningsspår](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)

@@ -3,10 +3,10 @@ unique-page-id: 2360243
 description: Aktivera personbegränsningar för smarta kampanjer - Marketo Docs - produktdokumentation
 title: Aktivera personbegränsningar för smarta kampanjer
 exl-id: 45bdaf3f-874c-493f-9746-440f7703713c
-source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 0%
+source-wordcount: '145'
+ht-degree: 2%
 
 ---
 
@@ -22,23 +22,23 @@ Det finns en funktion i Marketo som begränsar _maximum_ antal personer som kan 
 >
 >Detta gäller endast gruppkampanjer och e-postprogram.
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-1.png)
 
-1. Klicka **Smart Campaign**.
+1. Klicka på **[!UICONTROL Smart Campaign]**.
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-2.png)
 
-1. Klicka **Redigera**.
+1. Klicka på **[!UICONTROL Edit]**.
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-3.png)
 
    >[!CAUTION]
    >
-   >Om antalet personer som är kvalificerade att köra genom en smart kampanj överskrider gränsen kommer den inte att köras alls.
+   >Om antalet personer som är kvalificerade att köras via en smart kampanj överstiger den angivna gränsen kommer den inte att köras alls.
 
-1. Ange en gräns och klicka **Spara**.
+1. Ange en gräns och klicka **[!UICONTROL Save]**.
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-4.png)
 
@@ -48,7 +48,7 @@ Det finns en funktion i Marketo som begränsar _maximum_ antal personer som kan 
 
    >[!CAUTION]
    >
-   >Den här gränsen gäller för alla smarta kampanjer, men kan åsidosättas på kampanjnivå. Lär dig hur [åsidosätta personbegränsningar i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+   >Den här gränsen tillämpas på alla smarta kampanjer, men kan åsidosättas på kampanjnivå. Lär dig hur [åsidosätta personbegränsningar i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
 Klar! Du har just aktiverat säkerhetsväxeln.
 

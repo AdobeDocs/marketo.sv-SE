@@ -3,26 +3,26 @@ unique-page-id: 2360245
 description: Ta bort avanmälan av text från Admin Email Section - Marketo Docs - Product Documentation
 title: Ta bort Avbeställ text från Admin Email Section
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
-source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 0%
+source-wordcount: '158'
+ht-degree: 1%
 
 ---
 
 # Ta bort Avbeställ text från Admin Email Section {#remove-unsubscribe-text-from-the-admin-email-section}
 
-Det enda skälet till att du bör ta bort det avbrutna prenumerationen helt från området&quot;Admin > E-post&quot; är om du väljer att skapa länken för att avbryta prenumerationen i e-postmallarna. Textrutan har en validering som inte tillåter att du sparar utan innehåll. Du kan kringgå detta genom att lägga till en liten HTML-kommentar. Kommentaren HTML visas inte i e-postklienten eftersom den återger e-postmeddelandet i HTML och kommentarerna utelämnas. Så här gör du.
+Den enda anledningen till att du bör ta bort det avbrutna innehållet helt från **[!UICONTROL Admin]** > **[!UICONTROL Email]** är om du väljer att skapa länken för att avbryta prenumerationen i e-postmallarna. Textrutan har en validering som inte tillåter att du sparar utan innehåll. Du kan kringgå detta genom att lägga till en liten HTML-kommentar. Kommentaren HTML visas inte i e-postklienten eftersom den återger e-postmeddelandet i HTML och kommentarerna utelämnas. Så här gör du.
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-1.png)
 
-1. Klicka **E-post**.
+1. Klicka på **[!UICONTROL Email]**.
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-2.png)
 
-1. Markera all text och tryck på **Ta bort** nyckel.
+1. Markera all text och tryck på **[!UICONTROL Delete]** nyckel.
 
    >[!CAUTION]
    >
@@ -32,7 +32,7 @@ Det enda skälet till att du bör ta bort det avbrutna prenumerationen helt frå
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-3.png)
 
-1. Klicka **Spara ändringar**.
+1. Klicka på **[!UICONTROL Save Changes]**.
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-4.png)
 

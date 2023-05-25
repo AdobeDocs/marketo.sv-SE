@@ -3,9 +3,9 @@ unique-page-id: 11377395
 description: Lägg till en extra varumärkesdomän - Marketo Docs - produktdokumentation
 title: Lägg till en extra varumärkesdomän
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
-source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -18,19 +18,19 @@ Lägg till en extra varumärkesdomän när du kör flera varumärken från en en
 >
 >Du måste [ersätta den generiska spårningslänken](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) med en profilerad domän innan du lägger till ytterligare profilerade domäner.
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/add-an-additional-branding-domain-1.png)
 
-1. Klicka **E-post**.
+1. Klicka på **[!UICONTROL Email]**.
 
    ![](assets/add-an-additional-branding-domain-2.png)
 
-1. Klicka **Lägg till** om du vill lägga till ytterligare en varumärkesdomän.
+1. Klicka **[!UICONTROL Add]** om du vill lägga till ytterligare en varumärkesdomän.
 
    ![](assets/add-an-additional-branding-domain-3.png)
 
-1. Ange namnet på den nya profileringsdomänen och klicka på **Spara**.
+1. Ange namnet på den nya profileringsdomänen och klicka på **[!UICONTROL Save]**.
 
    ![](assets/add-an-additional-branding-domain-4.png)
 

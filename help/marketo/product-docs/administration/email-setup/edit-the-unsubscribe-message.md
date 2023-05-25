@@ -3,9 +3,9 @@ unique-page-id: 2360251
 description: Redigera avbeställningsmeddelandet - Marketo Docs - produktdokumentation
 title: Redigera avbeställningsmeddelandet
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
-source-git-commit: aeaf1f55b81da70ac8415cab265165a3848b5a0e
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ När du skickar e-postmarknadsföring (icke-[operativ](/help/marketo/product-doc
 
 ## Var ska du göra redigeringen? {#where-to-make-the-edit}
 
-1. Gå till **Administratör** -avsnitt.
+1. Gå till **[!UICONTROL Admin]** -avsnitt.
 
    ![](assets/edit-the-unsubscribe-message-1.png)
 
-1. Klicka **E-post**.
+1. Klicka på **[!UICONTROL Email]**.
 
    ![](assets/edit-the-unsubscribe-message-2.png)
 
@@ -36,7 +36,7 @@ När du skickar e-postmarknadsföring (icke-[operativ](/help/marketo/product-doc
    >* `mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
 
 
-1. Redigera **Avbeställ HTML** och **Avbeställ text** versioner som du vill ha och klicka på **Spara ändringar**.
+1. Redigera **[!UICONTROL Unsubscribe HTML]** och **[!UICONTROL Unsubscribe Text]** versioner som du vill ha och klicka på **[!UICONTROL Save Changes]**.
 
    ![](assets/edit-the-unsubscribe-message-3.png)
 
@@ -50,8 +50,8 @@ När du skickar e-postmarknadsföring (icke-[operativ](/help/marketo/product-doc
 
 Om du behöver gå tillbaka till systemets standardavbrutna prenumeration kopierar/klistrar du in följande:
 
-Avbeställ HTML:
-`<pre data-theme="Confluence"><p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p></pre>` Avbeställ text:
+[!UICONTROL Unsubscribe HTML]:
+`<pre data-theme="Confluence"><p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p></pre>` [!UICONTROL Unsubscribe Text]:
 `<pre data-theme="Confluence">%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##</pre>`
 
 >[!MORELIKETHIS]
