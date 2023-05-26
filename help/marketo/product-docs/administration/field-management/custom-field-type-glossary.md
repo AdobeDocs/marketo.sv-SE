@@ -3,7 +3,7 @@ unique-page-id: 2951259
 description: Anpassad fälttypsordlista - Marketo Docs - produktdokumentation
 title: Ordlista för anpassad fälttyp
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
 source-wordcount: '583'
 ht-degree: 0%
@@ -106,7 +106,7 @@ När du skapar ett anpassat fält i Marketo har du en lista med typer att välja
 
 ## Poäng {#score}
 
-**Exempelnamn:** Beteendepoäng/Demografisk poäng - skapa flera poängfält för att hålla reda på olika attribut.
+**Exempelnamn:** Beteendepoäng/demografisk poäng - skapa flera poängfält för att hålla reda på olika attribut
 
 **Exempelvärde:** 14
 

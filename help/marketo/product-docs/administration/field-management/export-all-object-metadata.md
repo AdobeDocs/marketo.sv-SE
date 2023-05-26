@@ -2,10 +2,10 @@
 description: Exportera alla objektmetadata - Marketo Docs - produktdokumentation
 title: Exportera alla objektmetadata
 exl-id: 93ddf737-98db-4791-b526-d399c59147ee
-source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 0%
+source-wordcount: '69'
+ht-degree: 4%
 
 ---
 
@@ -28,15 +28,15 @@ Med den här funktionen kan du exportera alla objekt och deras metadata.
 
 ## Exportera objektmetadata {#export-object-metadata}
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/export-all-object-metadata-1.png)
 
-1. Klicka **Fälthantering**.
+1. Klicka på **[!UICONTROL Field Management]**.
 
    ![](assets/export-all-object-metadata-2.png)
 
-1. Klicka **Exportera alla objekt**.
+1. Klicka på **[!UICONTROL Export All Objects]**.
 
    ![](assets/export-all-object-metadata-3.png)
 

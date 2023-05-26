@@ -3,10 +3,10 @@ unique-page-id: 2360331
 description: Ändra typ av anpassat Marketo-fält - Marketo Docs - produktdokumentation
 title: Ändra typ av anpassat Marketo-fält
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
-source-git-commit: cd742b3c4ff464a7efeb6490b88fe78e6b3f4ae8
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '94'
+ht-degree: 1%
 
 ---
 
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 Så här ändrar du fälttypen för ett anpassat fält.
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-1.png)
 
-1. Klicka **Fälthantering**.
+1. Klicka på **[!UICONTROL Field Management]**.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-2.png)
 
@@ -26,7 +26,7 @@ Så här ändrar du fälttypen för ett anpassat fält.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-3.png)
 
-1. I **Fältåtgärder** nedrullningsbar meny, klicka **Ändra typ**.
+1. I **[!UICONTROL Field Actions]** nedrullningsbar meny, klicka **[!UICONTROL Change Type]**.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-4.png)
 
@@ -38,7 +38,7 @@ Så här ändrar du fälttypen för ett anpassat fält.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-5.png)
 
-1. Läs varningen och klicka sedan på **Ändra** för att bekräfta.
+1. Läs varningen och klicka sedan på **[!UICONTROL Change]** för att bekräfta.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-6.png)
 

@@ -3,16 +3,16 @@ unique-page-id: 5472615
 description: Understanding System Managed Fields - Marketo Docs - Product Documentation
 title: Förstå systemhanterade fält
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '512'
 ht-degree: 1%
 
 ---
 
 # Förstå systemhanterade fält {#understanding-system-managed-fields}
 
-Du kanske har märkt att [personinformationssida](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) har en serie icke-redigerbara fält som skapats av Marketo. Dessa data kommer från olika källor och det finns otaliga värden som kan visas.
+Du kanske har märkt att [personinformationssida](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"} har en serie icke-redigerbara fält som skapats av Marketo. Dessa data kommer från olika källor och det finns otaliga värden som kan visas.
 
 ## Fälttyper {#field-types}
 
@@ -40,16 +40,16 @@ Nedan finns några möjliga värden och vad de betyder.
 
 | **Ursprunglig källtyp** | **Definition** |
 |---|---|
-| Salesforce.com | Personen upptäcktes från en Salesforce-synkronisering |
+| Salesforce.com | En person upptäcktes av en [!DNL Webhook] synka |
 | Webbsidesbesök | En person upptäcktes från en webbsida |
 | Fylla i webbformulär | En person upptäcktes när ett formulär fylldes i |
 | Importera lista | Personen upptäcktes från en listimport |
 | Ny person | Personen har angetts manuellt i databasen |
 | Klicka på webblänk | Personen upptäcktes efter att ha klickat på en länk |
-| E-postadress | Personen fick ett e-postmeddelande via e-posttillägget Sales Insight |
-| Person | Personen synkroniserades från Salesforce som en person |
-| Kontakt | Personen synkroniserades från Salesforce som en kontakt |
-| Munchkin API | En person upptäcktes av Marketo Munchkin API |
+| E-postadress | Personen fick ett e-postmeddelande via [!DNL Sales Insight] E-posttillägg |
+| Person | Personen synkroniserades från [!DNL Salesforce] som person |
+| Kontakt | Personen synkroniserades från [!DNL Webhook] som kontakt |
+| [!DNL Munchkin] API | Personen upptäcktes av Marketo Engage [!DNL Munchkin] API |
 | Social app | Personen upptäcktes av en social widget |
 | Webbtjänstens API | Personen upptäcktes av ett webbtjänste-API |
 | Evenemangspartner | Personen upptäcktes via en synkroniserad webbinatjänst |
@@ -58,11 +58,11 @@ Nedan finns några möjliga värden och vad de betyder.
 | **Typ av registreringskälla** | **Definition** |
 |---|---|
 | Importera lista | Bli en person genom en listimport |
-| Salesforce.com | Bli en person via en Salesforce-synkronisering |
+| Salesforce.com | Bli en person via en [!DNL Webhook] synka |
 | Fylla i webbformulär | Bli en person efter att ha fyllt i ett formulär |
-| E-postadress | Personen fick ett e-postmeddelande via e-posttillägget Sales Insight |
+| E-postadress | Personen fick ett e-postmeddelande via [!DNL Webhook] E-posttillägg |
 | Webbtjänstens API | Personen skapades via SOAP/REST API |
 | Ny person | Personen har angetts manuellt i databasen |
-| Munchkin API | Bli en person med Marketo Munchkins API |
+| [!DNL Munchkin] API | Bli en person genom Marketo [!DNL Munchkin] API |
 | Social app | Bli en person via en social widget |
 | Evenemangspartner | Bli en person via en länkad webbinatjänst |

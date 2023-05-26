@@ -3,22 +3,22 @@ unique-page-id: 2360287
 description: Skapa ett anpassat fält i Marketo - Marketo Docs - produktdokumentation
 title: Skapa ett anpassat fält i Marketo
 exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
-source-git-commit: cd742b3c4ff464a7efeb6490b88fe78e6b3f4ae8
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 0%
+source-wordcount: '160'
+ht-degree: 1%
 
 ---
 
 # Skapa ett anpassat fält i Marketo {#create-a-custom-field-in-marketo}
 
-Så här skapar du ett nytt anpassat fält i Marketo för att lagra/hämta in data.
+Om du behöver ett nytt anpassat fält i Marketo Engage för att lagra/hämta in data, så här skapar du ett.
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/create-a-custom-field-in-marketo-1.png)
 
-1. Klicka **Fälthantering**.
+1. Klicka på **[!UICONTROL Field Management]**.
 
    ![](assets/create-a-custom-field-in-marketo-2.png)
 
@@ -26,7 +26,7 @@ Så här skapar du ett nytt anpassat fält i Marketo för att lagra/hämta in da
    >
    >Om du vill att fälten ska synkroniseras med CRM skapar du dem i CRM så skapas de automatiskt i Marketo.
 
-1. Klicka **Nytt anpassat fält**.
+1. Klicka på **[!UICONTROL New Custom Field]**.
 
    ![](assets/create-a-custom-field-in-marketo-3.png)
 
@@ -38,7 +38,7 @@ Så här skapar du ett nytt anpassat fält i Marketo för att lagra/hämta in da
 
    ![](assets/create-a-custom-field-in-marketo-4.png)
 
-1. Ange namnet som du vill att det ska visas i Marketo. API-namnet genereras automatiskt. Du kan ändra den, men du kan inte byta namn på den när den har angetts. Klicka **Skapa** när det är klart.
+1. Ange [!UICONTROL Name] som du vill att den ska visas i Marketo. The [!UICONTROL API Name] genereras automatiskt. Du kan ändra den, men du kan inte byta namn på den när den har angetts. Klicka **[!UICONTROL Create]** när det är klart.
 
 >[!CAUTION]
 >
@@ -50,4 +50,4 @@ Så här skapar du ett nytt anpassat fält i Marketo för att lagra/hämta in da
 >
 >API-namnet används av SOAP API och andra serverdelsprocesser.
 
-Du kan nu använda det här anpassade fältet i formulär, flödessteg och smarta listor.
+Nu kan du använda det här anpassade fältet i formulär, flödessteg och smarta listor!

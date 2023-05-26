@@ -3,9 +3,9 @@ unique-page-id: 2360293
 description: Byt namn på ett fält - Marketo Docs - produktdokumentation
 title: Byta namn på ett fält
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
-source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ ht-degree: 0%
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/rename-a-field-1.png)
 
-1. Klicka **Fälthantering**.
+1. Klicka på **[!UICONTROL Field Management]**.
 
    ![](assets/rename-a-field-2.png)
 
@@ -34,9 +34,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Klicka på **Används av** om du vill söka efter resurser som refererar till det här fältet.
+   >Klicka på **[!UICONTROL Used By]** om du vill söka efter resurser som refererar till det här fältet.
 
-1. Byt namn på fältet och klicka **Spara**.
+1. Byt namn på fältet och klicka **[!UICONTROL Save]**.
 
    ![](assets/rename-a-field-4.png)
 

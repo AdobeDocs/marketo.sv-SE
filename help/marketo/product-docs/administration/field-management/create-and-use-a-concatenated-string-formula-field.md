@@ -3,10 +3,10 @@ unique-page-id: 2360337
 description: Skapa och använda ett sammanfogat strängfält (formel) - Marketo Docs - produktdokumentation
 title: Skapa och använda ett sammanfogat strängfält (formel)
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
-source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 0%
+source-wordcount: '161'
+ht-degree: 1%
 
 ---
 
@@ -14,27 +14,27 @@ ht-degree: 0%
 
 Du kan kombinera värden från flera fält eller skapa ett villkorsstyrt värde med hjälp av ett Marketo-formelfält.
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-1.png)
 
-1. Klicka **Fälthantering**.
+1. Klicka på **[!UICONTROL Field Management]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-2.png)
 
-1. Klicka **Nytt anpassat fält**.
+1. Klicka på **[!UICONTROL New Custom Field]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-3.png)
 
-1. Välj **Formel** för **Typ**.
+1. Välj **[!UICONTROL Formula]** för **[!UICONTROL Type]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-4.png)
 
-1. Ange **Namn** för fältet klickar du **Skapa**.
+1. Ange **[!UICONTROL Name]** för fältet klickar du **[!UICONTROL Create]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-5.png)
 
-1. Sök och välj formelfält och klicka sedan **Redigera regler**.
+1. Sök och välj formelfält och klicka sedan **[!UICONTROL Edit Rules]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-6.png)
 
@@ -52,6 +52,6 @@ Du kan kombinera värden från flera fält eller skapa ett villkorsstyrt värde 
 
 >[!NOTE]
 >
->Formelfält kan användas på landningssidor, e-postmeddelanden och kolumner för smarta listor (de exporteras inte). E-postmeddelanden med formelfält kan **not** skickas med en batchkampanj. Använd en [e-postskripttoken](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) i detta scenario.
+>Formelfält kan användas på landningssidor, e-postmeddelanden och kolumner för smarta listor (de exporteras inte). E-postmeddelanden med formelfält kan _not_ skickas med en batchkampanj. Använd en [e-postskripttoken](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) i detta scenario.
 
 Bra jobbat! Nu har du ett smart fält som vet vilken hälsningsfras som ska inkluderas baserat på kön. Ha så kul och bli kreativ.

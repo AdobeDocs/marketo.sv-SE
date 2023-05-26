@@ -3,10 +3,10 @@ unique-page-id: 2360339
 description: Ta bort ett anpassat fält i Marketo - Marketo Docs - produktdokumentation
 title: Ta bort ett anpassat fält i Marketo
 exl-id: 35829827-6e3c-4120-b57f-4fd68a7d4739
-source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 0%
+source-wordcount: '84'
+ht-degree: 1%
 
 ---
 
@@ -18,15 +18,15 @@ ht-degree: 0%
 
 Du kanske vill ta bort ett fält som du har skapat tidigare om du inte längre använder det. Tyvärr kan du inte ta bort fält i Marketo, men du _kan_ dölj dem från användargränssnittet.
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/delete-a-custom-field-in-marketo-1.png)
 
-1. Klicka **Fälthantering**.
+1. Klicka på **[!UICONTROL Field Management]**.
 
    ![](assets/delete-a-custom-field-in-marketo-2.png)
 
-1. Klicka på **Fältåtgärder** nedrullningsbar meny och välj **Dölj fält**.
+1. Klicka på **[!UICONTROL Field Actions]** nedrullningsbar meny och välj **[!UICONTROL Hide Field]**.
 
    ![](assets/delete-a-custom-field-in-marketo-3.png)
 

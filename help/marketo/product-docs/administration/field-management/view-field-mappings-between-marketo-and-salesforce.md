@@ -1,28 +1,28 @@
 ---
 unique-page-id: 2360344
-description: Visa fältmappningar mellan Marketo och Salesforce - Marketo Docs - produktdokumentation
-title: Visa fältmappningar mellan Marketo och Salesforce
+description: "Visa fältkopplingar mellan Marketo och [!DNL Salesforce] - Marketo Docs - produktdokumentation"
+title: "Visa fältkopplingar mellan Marketo och [!DNL Salesforce]"
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
-source-git-commit: db68d63b6502822d4948485865edb26d10104a14
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 0%
+source-wordcount: '90'
+ht-degree: 1%
 
 ---
 
-# Visa fältmappningar mellan Marketo och Salesforce {#view-field-mappings-between-marketo-and-salesforce}
+# Visa fältmappningar mellan Marketo och [!DNL Salesforce] {#view-field-mappings-between-marketo-and-salesforce}
 
-Du kanske vill veta vilka Salesforce-fält ett visst Marketo-fält är kopplat till. Så här kontrollerar du.
+Du kanske vill veta vilken [!DNL Salesforce] fält som ett visst Marketo-fält är knutet till. Så här kontrollerar du.
 
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/view-field-mappings-between-marketo-and-salesforce-1.png)
 
-1. Klicka **Fälthantering**.
+1. Klicka på **[!UICONTROL Field Management]**.
 
    ![](assets/view-field-mappings-between-marketo-and-salesforce-2.png)
 
@@ -32,8 +32,8 @@ Du kanske vill veta vilka Salesforce-fält ett visst Marketo-fält är kopplat t
 
 >[!NOTE]
 >
->Detta visar Salesforce-API:ts namn, inte etikettens namn.
+>Det här visar [!DNL Salesforce] API-namn, inte etikettnamn.
 
 >[!IMPORTANT]
 >
->Fälten i listan återspeglar endast data från den ursprungliga mappningen. De uppdateras inte efter synkroniseringen av Marketo/Salesforce.
+>Fälten i listan återspeglar endast data från den ursprungliga mappningen. De uppdateras inte efter Marketo/[!DNL Salesforce] synka.
