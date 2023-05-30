@@ -3,10 +3,10 @@ unique-page-id: 10100275
 description: Lägg till/redigera/ta bort anpassade aktivitetsfält för Marketo - Marketo Docs - produktdokumentation
 title: Lägg till/redigera/ta bort anpassade aktivitetsfält för Marketo
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
-source-git-commit: 6283a9fda6c8577dacfbd3782cda41058fbf67a2
+source-git-commit: 5d1c21118455756314ace14679b0531c50ad08e8
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 0%
+source-wordcount: '269'
+ht-degree: 2%
 
 ---
 
@@ -16,15 +16,15 @@ Du kan behöva lägga till, ändra eller ta bort ett anpassat aktivitetsfält. S
 
 ## Lägg till ett anpassat aktivitetsfält {#add-a-custom-activity-field}
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-1.png)
 
-1. Klicka **Marketo anpassade aktiviteter**.
+1. Klicka på **[!UICONTROL Marketo Custom Activities]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-2.png)
 
-1. Klicka **Fält**.
+1. Klicka på **[!UICONTROL Fields]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-3.png)
 
@@ -32,11 +32,11 @@ Du kan behöva lägga till, ändra eller ta bort ett anpassat aktivitetsfält. S
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-4.png)
 
-1. Klicka **Nytt fält**.
+1. Klicka på **[!UICONTROL New Field]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-5.png)
 
-1. Välj fältets datatyp.
+1. Välj fältets [!UICONTROL data type].
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-6.png)
 
@@ -44,7 +44,7 @@ Du kan behöva lägga till, ändra eller ta bort ett anpassat aktivitetsfält. S
    >
    >Vet du inte vad du ska välja? Vi har det du behöver! Alla tillgängliga datatyper definieras i [den här artikeln](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
-1. Namnge fältet. API-namnet fylls i automatiskt. När du är klar klickar du på **Spara**.
+1. Namnge fältet. API-namnet fylls i automatiskt. När du är klar klickar du på **[!UICONTROL Save]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-7.png)
 
@@ -52,15 +52,15 @@ Du kan behöva lägga till, ändra eller ta bort ett anpassat aktivitetsfält. S
 
 ## Redigera ett anpassat aktivitetsfält {#edit-a-custom-activity-field}
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-8.png)
 
-1. Klicka **Marketo anpassade aktiviteter**.
+1. Klicka på **[!UICONTROL Marketo Custom Activities]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-9.png)
 
-1. Klicka **Fält**.
+1. Klicka på **[!UICONTROL Fields]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-10.png)
 
@@ -68,7 +68,7 @@ Du kan behöva lägga till, ändra eller ta bort ett anpassat aktivitetsfält. S
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-11.png)
 
-1. Markera fältet som du vill redigera och klicka på **Fältåtgärder** och markera **Redigera fält**.
+1. Markera fältet som du vill redigera och klicka på **[!UICONTROL Field Actions]** och markera **[!UICONTROL Edit Field]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-12.png)
 
@@ -76,7 +76,7 @@ Du kan behöva lägga till, ändra eller ta bort ett anpassat aktivitetsfält. S
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-13.png)
 
-1. Ange det nya namnet och API-namnet och klicka sedan på **Spara**.
+1. Ange det nya namnet och API-namnet och klicka sedan på **[!UICONTROL Save]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-14.png)
 
@@ -96,15 +96,15 @@ Fältet är nu redigerat!
 
 ## Ta bort ett anpassat aktivitetsfält {#delete-a-custom-activity-field}
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-15.png)
 
-1. Klicka **Marketo anpassade aktiviteter**.
+1. Klicka på **[!UICONTROL Marketo Custom Activities]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-16.png)
 
-1. Klicka **Fält**.
+1. Klicka på **[!UICONTROL Fields]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-17.png)
 
@@ -112,6 +112,6 @@ Fältet är nu redigerat!
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-18.png)
 
-1. Markera fältet som du vill ta bort och klicka på **Fältåtgärder** och markera **Ta bort fält**.
+1. Markera fältet som du vill ta bort och klicka på **[!UICONTROL Field Actions]** och markera **[!UICONTROL Delete Field]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-19.png)

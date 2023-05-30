@@ -2,10 +2,10 @@
 description: Export av metadata för anpassad aktivitet - Marketo Docs - produktdokumentation
 title: Export av metadata för anpassad aktivitet
 exl-id: 7dba5cf0-6394-4bb7-b9e1-5db156e6d888
-source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
+source-git-commit: 5d1c21118455756314ace14679b0531c50ad08e8
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 0%
+source-wordcount: '73'
+ht-degree: 1%
 
 ---
 
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 Följ stegen nedan för att exportera ditt anpassade metadataschema för aktivitet.
 
-1. I Min Marketo klickar du på **Administratör**.
+1. I Min Marketo klickar du på **[!UICONTROL Admin]**.
 
    ![](assets/custom-activity-metadata-export-1.png)
 
-1. Klicka **Marketo anpassade aktiviteter**.
+1. Klicka på **[!UICONTROL Marketo Custom Activities]**.
 
    ![](assets/custom-activity-metadata-export-2.png)
 
@@ -25,7 +25,7 @@ Följ stegen nedan för att exportera ditt anpassade metadataschema för aktivit
 
    ![](assets/custom-activity-metadata-export-3.png)
 
-1. Klicka på **Anpassade aktivitetsåtgärder** nedrullningsbar meny och välj **Exportera aktivitet**.
+1. Klicka på **[!UICONTROL Custom Activity Actions]** nedrullningsbar meny och välj **[!UICONTROL Export Activity]**.
 
    ![](assets/custom-activity-metadata-export-4.png)
 

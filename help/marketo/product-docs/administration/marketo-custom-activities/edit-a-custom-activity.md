@@ -3,10 +3,10 @@ unique-page-id: 10100269
 description: Redigera en anpassad aktivitet - Marketo Docs - produktdokumentation
 title: Redigera en anpassad aktivitet
 exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
+source-git-commit: 5d1c21118455756314ace14679b0531c50ad08e8
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 0%
+source-wordcount: '94'
+ht-degree: 4%
 
 ---
 
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 Behöver du ändra en anpassad aktivitet som du redan har skapat? Så här gör du.
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/edit-a-custom-activity-1.png)
 
-1. Klicka **Marketo anpassade aktiviteter**.
+1. Klicka på **[!UICONTROL Marketo Custom Activities]**.
 
    ![](assets/edit-a-custom-activity-2.png)
 
@@ -26,7 +26,7 @@ Behöver du ändra en anpassad aktivitet som du redan har skapat? Så här gör 
 
    ![](assets/edit-a-custom-activity-3.png)
 
-1. Klicka **Anpassade aktivitetsåtgärder** och markera **Redigera aktivitet**.
+1. Klicka på **[!UICONTROL Custom Activity Actions]** och välj **[!UICONTROL Edit Activity]**.
 
    ![](assets/edit-a-custom-activity-4.png)
 
@@ -34,7 +34,7 @@ Behöver du ändra en anpassad aktivitet som du redan har skapat? Så här gör 
 
    ![](assets/edit-a-custom-activity-5.png)
 
-1. Ange din nya information och klicka på **Skicka**.
+1. Ange din nya information och klicka på **[!UICONTROL Submit]**.
 
    ![](assets/edit-a-custom-activity-6.png)
 

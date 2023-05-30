@@ -3,10 +3,10 @@ unique-page-id: 10100272
 description: Publicera en anpassad aktivitet - Marketo Docs - produktdokumentation
 title: Publicera en anpassad aktivitet
 exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
+source-git-commit: 5d1c21118455756314ace14679b0531c50ad08e8
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 0%
+source-wordcount: '60'
+ht-degree: 1%
 
 ---
 
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 Du har din anpassade aktivitet precis som du vill ha den. Nu är det dags att publicera det!
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/publish-a-custom-activity-1.png)
 
-1. Klicka **Marketo anpassade aktiviteter**.
+1. Klicka på **[!UICONTROL Marketo Custom Activities]**.
 
    ![](assets/publish-a-custom-activity-2.png)
 
@@ -26,15 +26,15 @@ Du har din anpassade aktivitet precis som du vill ha den. Nu är det dags att pu
 
    ![](assets/publish-a-custom-activity-3.png)
 
-1. Klicka på **Anpassade aktivitetsåtgärder** nedrullningsbar meny och välj **Publicera aktivitet**.
+1. Klicka på **[!UICONTROL Custom Activity Actions]** nedrullningsbar meny och välj **[!UICONTROL Publish Activity]**.
 
    ![](assets/publish-a-custom-activity-4.png)
 
-   Du kommer att se status för din anpassade aktivitet från Utkast..
+   Du kommer att se dina anpassade aktiviteters [!UICONTROL state] gå från [!UICONTROL Draft]...
 
    ![](assets/publish-a-custom-activity-5.png)
 
-   ...till publicerad.
+   ...till [!UICONTROL Published].
 
    ![](assets/publish-a-custom-activity-6.png)
 
