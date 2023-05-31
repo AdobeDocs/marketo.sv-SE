@@ -3,10 +3,10 @@ unique-page-id: 4720433
 description: Konfigurera protokoll för Marketo - Marketo Docs - produktdokumentation
 title: Konfigurera protokoll för Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: 6c1699ce986608e8b9d991f21fd649f9330e3d12
+source-git-commit: 5a8fe88dec5f2bf9c94c0a08a5515b87bc6dcaa9
 workflow-type: tm+mt
-source-wordcount: '1021'
-ht-degree: 2%
+source-wordcount: '1024'
+ht-degree: 3%
 
 ---
 
@@ -68,14 +68,23 @@ När marknadsföringsgruppen använder Marketo för att skicka testmeddelanden (
 
 Lägg till de här IP-adresserna till ditt företag i tillåtelselista:
 
-199.15.212.0/22\
-192.28.144.0/20
-192.28.160.0/19\
-185.28.196.0/22\
-130.248.172.0/24\
-130.248.173.0/24\
-103.237.104.0/22\
 94.236.119.0/26
+
+103.237.104.0/22
+
+130.248.172.0/24
+
+130.248.173.0/24
+
+130.248.244.88/29
+
+185.28.196.0/22
+
+192.28.144.0/20
+
+192.28.160.0/19
+
+199.15.212.0/22
 
 Vissa antispam-system använder fältet för e-postretursökväg i stället för IP-adressen för att tillåta. I sådana fall är det bästa sättet att tillåtslista&#42;.mktomail.com&#39;, eftersom Marketo använder flera postlådeunderdomäner. Andra antispam-system tillåtslista baserat på Från-adressen. I dessa situationer måste du ta med alla avsändande (&#39;Från&#39;) domäner som din marknadsföringsgrupp använder för att kommunicera med personer/leads.
 
@@ -131,16 +140,10 @@ Följande tabeller omfattar alla Marketo Engage-servrar som gör utgående samta
    <th>IP-block (CIDR-notering)</th>
   </tr>
   <tr>
-   <td>192.28.144.0/20</td>
+   <td>94.236.119.0/26</td>
   </tr>
-   <tr>
-   <td>192.28.160.0/19</td>
-  </tr>
-   <tr>
-   <td>199.15.212.0/22</td>
-  </tr>
-   <tr>
-   <td>185.28.196.0/22</td>
+  <tr>
+   <td>103.237.104.0/22</td>
   </tr>
    <tr>
    <td>130.248.172.0/24</td>
@@ -149,10 +152,19 @@ Följande tabeller omfattar alla Marketo Engage-servrar som gör utgående samta
    <td>130.248.173.0/24</td>
   </tr>
   <tr>
-   <td>103.237.104.0/22</td>
+   <td>130.248.244.88/29</td>
   </tr>
   <tr>
-   <td>94.236.119.0/26</td>
+   <td>185.28.196.0/22</td>
+  </tr>
+  <tr>
+   <td>192.28.144.0/20</td>
+  </tr>
+  <tr>
+   <td>192.28.160.0/19</td>
+  </tr>
+  <tr>
+   <td>199.15.212.0/22</td>
   </tr>
  </tbody>
 </table>
