@@ -3,9 +3,9 @@ unique-page-id: 10093188
 description: Förstå anpassade Marketo-objekt - Marketo Docs - produktdokumentation
 title: Förstå anpassade Marketo-objekt
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
-source-wordcount: '672'
+source-wordcount: '662'
 ht-degree: 0%
 
 ---
@@ -42,11 +42,11 @@ Många-till-många anpassade objekt använder två länkfält, som ingår i ett 
 
 ## Åtkomst till anpassade Marketo-objekt {#accessing-marketo-custom-objects}
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. Klicka **Anpassade Marketo-objekt**.
+1. Klicka på **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/understanding-marketo-custom-objects-2.png)
 
@@ -68,17 +68,17 @@ Många-till-många anpassade objekt använder två länkfält, som ingår i ett 
 
 ## Visa anpassade objekt som är kopplade till en person {#view-custom-objects-associated-to-a-person}
 
-När du har skapat den anpassade objektstrukturen kopplas de anpassade objekten automatiskt till personer i databasen med hjälp av länkfältet i det anpassade objektet när du överför specifika anpassade objektdata. Du kan visa information på fliken Egna objekt på sidan med personinformation.
+När du har skapat den anpassade objektstrukturen kopplas de anpassade objekten automatiskt till personer i databasen med hjälp av länkfältet i det anpassade objektet när du överför specifika anpassade objektdata. Du kan visa information från [!UICONTROL Custom Objects] på sidan med personinformation.
 
-1. Gå till **Databas**.
+1. Gå till **[!UICONTROL Database]**.
 
    ![](assets/understanding-marketo-custom-objects-5.png)
 
-1. Öppna databasen och klicka på **Folk** -fliken. Dubbelklicka på posten för en person som är kopplad till ett anpassat objekt.
+1. Öppna databasen och klicka på **[!UICONTROL People]** -fliken. Dubbelklicka på posten för en person som är kopplad till ett anpassat objekt.
 
    ![](assets/understanding-marketo-custom-objects-6.png)
 
-1. På personinformationssidan klickar du på **Anpassade objekt** -fliken. Markera objektet i listrutan.
+1. På personinformationssidan klickar du på **[!UICONTROL Custom Objects]** -fliken. Markera objektet i listrutan.
 
    ![](assets/understanding-marketo-custom-objects-7.png)
 

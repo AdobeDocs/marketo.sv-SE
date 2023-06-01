@@ -3,9 +3,9 @@ unique-page-id: 10093688
 description: Lägg till anpassade Marketo-objektfält - Marketo Docs - produktdokumentation
 title: Lägg till anpassade Marketo-objektfält
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
-source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,11 @@ När du har skapat ett anpassat objekt måste du lägga till fält för att uppf
 
 Fält definierar den specifika information som används av ett anpassat objekt. Länkfält har ett särskilt jobb för att ansluta anpassade objekt och täcks av en [separat artikel](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/add-marketo-custom-object-fields-1.png)
 
-1. Klicka **Anpassade Marketo-objekt**.
+1. Klicka på **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/add-marketo-custom-object-fields-2.png)
 
@@ -28,7 +28,7 @@ Fält definierar den specifika information som används av ett anpassat objekt. 
 
    ![](assets/add-marketo-custom-object-fields-3.png)
 
-1. I **Fält** flik, klicka **Nytt fält**.
+1. Kicka **[!UICONTROL Fields]** tabben **[!UICONTROL New Field]**.
 
    ![](assets/add-marketo-custom-object-fields-4.png)
 
@@ -36,7 +36,7 @@ Fält definierar den specifika information som används av ett anpassat objekt. 
    >
    >De tre fälten ovan skapas automatiskt av Marketo när du skapar ett anpassat objekt. Marketo hanterar dessa fält automatiskt och du kan inte redigera eller ta bort dem.
 
-1. Ange ett visningsnamn och en beskrivning.
+1. Ange [!UICONTROL Display Name] och (valfritt) [!UICONTROL Description].
 
    ![](assets/add-marketo-custom-object-fields-5.png)
 
@@ -44,11 +44,11 @@ Fält definierar den specifika information som används av ett anpassat objekt. 
    >
    >API-namnet kan bara redigeras tills det har godkänts.
 
-1. Välj en lämplig datatyp i listan.
+1. Välj en lämplig [!UICONTROL Data Type] från listan.
 
    ![](assets/add-marketo-custom-object-fields-6.png)
 
-1. Dra skjutreglaget för borttagning om du vill använda det nya fältet som en unik identifierare. Klicka **Spara** till slut.
+1. Dra [!UICONTROL Dedupe] om du vill använda det nya fältet som en unik identifierare. Klicka **[!UICONTROL Save]** till slut.
 
    ![](assets/add-marketo-custom-object-fields-7.png)
 

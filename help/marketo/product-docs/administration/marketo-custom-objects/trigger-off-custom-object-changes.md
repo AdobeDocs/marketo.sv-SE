@@ -3,9 +3,9 @@ unique-page-id: 11378713
 description: Utlös anpassade objektändringar - Marketo Docs - produktdokumentation
 title: Utlös ändringar av anpassade objekt
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
-source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -16,8 +16,8 @@ ht-degree: 0%
 >
 >Den här funktionen är endast tillgänglig:
 >
->* För kunder med Orion-infrastrukturen
->* Kan endast användas med anpassade Marketo-objekt, inte anpassade objekt som synkroniseras via den inbyggda Salesforce- eller Microsoft Dynamics-integreringen
+>* För kunder på [!DNL Orion] infrastruktur
+>* Används endast med anpassade Marketo-objekt, inte anpassade objekt som synkroniseras via det inbyggda [!DNL Salesforce] eller [!DNL Microsoft Dynamics] integration
 >* Som utlösare, inte ett filter
 >
 >Kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) om du vill att utlösare för anpassade objektändringar ska vara aktiverade.
@@ -28,7 +28,7 @@ I den smarta kampanjens lista kan du utlösa en flödesåtgärd när ett anpassa
 >
 >Ingen aktivitetsloggpost skapas när en anpassad objektpost ändras.
 
-1. I Marketo går du till **Marknadsföringsaktiviteter.**
+1. I Marketo Engage, gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/trigger-off-custom-object-changes-1.png)
 
@@ -40,7 +40,7 @@ I den smarta kampanjens lista kan du utlösa en flödesåtgärd när ett anpassa
 
    ![](assets/trigger-off-custom-object-changes-3.png)
 
-1. Markera utlösarattributet.
+1. Välj [!UICONTROL trigger attribute].
 
    ![](assets/trigger-off-custom-object-changes-4.png)
 

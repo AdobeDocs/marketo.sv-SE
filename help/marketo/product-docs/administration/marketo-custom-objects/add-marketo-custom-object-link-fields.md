@@ -3,9 +3,9 @@ unique-page-id: 10097613
 description: Lägg till Marketo anpassade objektlänkfält - Marketo Docs - produktdokumentation
 title: Lägg till Marketo anpassade objektlänkfält
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
-source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ När du skapar anpassade objekt måste du tillhandahålla länkfält för att ku
 
 Så här skapar du ett länkfält i ett anpassat objekt för en 1:N-struktur.
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/add-marketo-custom-object-link-fields-1.png)
 
-1. Klicka **Anpassade Marketo-objekt**.
+1. Klicka på **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/add-marketo-custom-object-link-fields-2.png)
 
@@ -33,29 +33,29 @@ Så här skapar du ett länkfält i ett anpassat objekt för en 1:N-struktur.
 
    ![](assets/add-marketo-custom-object-link-fields-3.png)
 
-1. I **Fält** flik, klicka **Nytt fält**.
+1. I **[!UICONTROL Fields]** flik, klicka **[!UICONTROL New Field]**.
 
    ![](assets/add-marketo-custom-object-link-fields-4.png)
 
-1. Namnge länkfältet och lägg till en valfri beskrivning. Var noga med att välja datatypen Link.
+1. Namnge länkfältet och lägg till ett valfritt [!UICONTROL Description]. Se till att du väljer [!UICONTROL Link] datatyp.
 
    ![](assets/add-marketo-custom-object-link-fields-5.png)
 
    >[!CAUTION]
    >
-   >Du kan inte gå tillbaka och skapa, redigera eller ta bort en länk eller ett borttagningsfält när det anpassade objektet har godkänts.
+   >Du kan inte gå tillbaka och skapa, redigera eller ta bort en [!UICONTROL Link] eller [!UICONTROL Dedupe Field] när det anpassade objektet har godkänts.
 
-1. Ange om läntobjektet är för ett lead (person) eller ett företag.
+1. Välj om [!UICONTROL Link Object] är för [!UICONTROL lead] (person) eller [!UICONTROL company].
 
    ![](assets/add-marketo-custom-object-link-fields-6.png)
 
    >[!NOTE]
    >
-   >Om du väljer lead visas ID, e-postadress och eventuella anpassade fält i listan.
+   >Om du väljer [!UICONTROL lead]visas ID, e-postadress och eventuella anpassade fält i listan.
    >
-   >Om du väljer företag visas ID och eventuella anpassade fält i listan.
+   >Om du väljer [!UICONTROL company]visas ID och anpassade fält i listan.
 
-1. Markera det länkfält som du vill ansluta till som överordnat fält för det nya fältet.
+1. Välj [!UICONTROL Link Field] som du vill ansluta till som överordnad till det nya fältet.
 
    ![](assets/add-marketo-custom-object-link-fields-7.png)
 
@@ -63,7 +63,7 @@ Så här skapar du ett länkfält i ett anpassat objekt för en 1:N-struktur.
    >
    >Endast strängfälttyper stöds i länkfältet.
 
-1. Klicka **Spara.**
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/add-marketo-custom-object-link-fields-8.png)
 
@@ -75,11 +75,11 @@ Så här skapar du ett länkfält i ett mellanliggande objekt som kan användas 
 >
 >Du måste redan ha skapat mellanliggande objekt och eventuella anpassade objekt som du vill länka det till.
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/add-marketo-custom-object-link-fields-9.png)
 
-1. Klicka **Anpassade Marketo-objekt**.
+1. Klicka på **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/add-marketo-custom-object-link-fields-10.png)
 
@@ -87,35 +87,35 @@ Så här skapar du ett länkfält i ett mellanliggande objekt som kan användas 
 
    ![](assets/add-marketo-custom-object-link-fields-11.png)
 
-1. I **Fält** flik, klicka **Nytt fält**.
+1. I **[!UICONTROL Fields]** flik, klicka **[!UICONTROL New Field]**.
 
    ![](assets/add-marketo-custom-object-link-fields-12.png)
 
-1. Du måste skapa två länkfält. Skapa dem en åt gången. Ge först fältet ett namn för medlemmarna i databaslistan (till exempel leadID). Lägg till en valfri beskrivning. Var noga med att välja länkdatatypen.
+1. Du måste skapa två länkfält. Skapa dem en åt gången. Ge först fältet ett namn för medlemmarna i databaslistan (till exempel leadID). Lägg till ett valfritt [!UICONTROL Description]. Se till att du väljer [!UICONTROL link] [!UICONTROL Data Type].
 
    ![](assets/add-marketo-custom-object-link-fields-13.png)
 
    >[!CAUTION]
    >
-   >Du kan inte gå tillbaka och skapa, redigera eller ta bort en länk eller ett borttagningsfält när det anpassade objektet har godkänts.
+   >Du kan inte gå tillbaka och skapa, redigera eller ta bort en [!UICONTROL Link] eller [!UICONTROL Dedupe Field] när det anpassade objektet har godkänts.
 
-1. Välj läntobjektet från databasen, i det här fallet Lead.
+1. Välj [!UICONTROL Link Object] från databasen, i detta fall [!UICONTROL Lead].
 
    ![](assets/add-marketo-custom-object-link-fields-14.png)
 
-1. Markera det länkfält som du vill ansluta till, i det här fallet, ID.
+1. Välj [!UICONTROL Link Field] du vill ansluta till, i det här fallet, [!UICONTROL Id].
 
    ![](assets/add-marketo-custom-object-link-fields-15.png)
 
    >[!NOTE]
    >
-   >Endast strängfälttyper stöds i länkfältet.
+   >Endast strängfälttyper stöds i [!UICONTROL Link Field].
 
-1. Klicka **Spara.**
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/add-marketo-custom-object-link-fields-16.png)
 
-1. Upprepa den här processen för den andra länken till ditt anpassade objekt, i det här exemplet, kursID. Länkobjektnamnet blir kurs och länkfältet blir kursID. Eftersom du redan har skapat och godkänt det anpassade kursobjektet är dessa val tillgängliga i listrutorna.
+1. Upprepa den här processen för den andra länken till ditt anpassade objekt, i det här exemplet, kursID. The [!UICONTROL Link Object] namnet ska vara kurs, och [!UICONTROL Link Field] blir kursID. Eftersom du redan har skapat och godkänt det anpassade kursobjektet är dessa val tillgängliga i listrutorna.
 
    ![](assets/add-marketo-custom-object-link-fields-17.png)
 

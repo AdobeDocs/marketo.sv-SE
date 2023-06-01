@@ -3,10 +3,10 @@ unique-page-id: 10093690
 description: Redigera och ta bort ett anpassat Marketo-objekt - Marketo Docs - produktdokumentation
 title: Redigera och ta bort ett anpassat Marketo-objekt
 exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
-source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 0%
+source-wordcount: '245'
+ht-degree: 2%
 
 ---
 
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 Använd menyn Anpassade objektåtgärder för att redigera eller ta bort ett anpassat objekt.
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-1.png)
 
-1. Klicka **Anpassade Marketo-objekt**.
+1. Klicka på **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-2.png)
 
@@ -32,11 +32,11 @@ Använd menyn Anpassade objektåtgärder för att redigera eller ta bort ett anp
 
    ![](assets/edit-and-delete-a-marketo-custom-object-3.png)
 
-1. Klicka på **Anpassade objektåtgärder** och klicka **Redigera objekt**.
+1. Klicka på **[!UICONTROL Custom Object Actions]** och klicka **[!UICONTROL Edit Object]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-4.png)
 
-1. Gör önskade ändringar. Dra skjutreglaget över om du vill visa objektet på sidan Leaddetaljer. Klicka **Spara**.
+1. Gör önskade ändringar. Dra skjutreglaget över om du vill visa objektet på sidan Leaddetaljer. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-5.png)
 
@@ -44,17 +44,17 @@ Använd menyn Anpassade objektåtgärder för att redigera eller ta bort ett anp
 
 ## Ta bort ett anpassat objekt {#delete-a-custom-object}
 
-Det är enkelt att ta bort ett anpassat objekt, men du måste vara försiktig. Anpassade objekt kan anslutas till andra objekt eller till smarta listor. Marketo varnar dig innan du släpper **Ta bort**.
+Det är enkelt att ta bort ett anpassat objekt, men du måste vara försiktig. Anpassade objekt kan anslutas till andra objekt eller till smarta listor. Marketo varnar dig innan du släpper **[!UICONTROL Delete]**.
 
 >[!CAUTION]
 >
 >Du kan inte återställa ett anpassat objekt när du har tagit bort det.
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-6.png)
 
-1. Klicka **Anpassade Marketo-objekt**.
+1. Klicka på **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-7.png)
 
@@ -62,19 +62,19 @@ Det är enkelt att ta bort ett anpassat objekt, men du måste vara försiktig. A
 
    ![](assets/edit-and-delete-a-marketo-custom-object-8.png)
 
-1. Klicka **Anpassade objektåtgärder** och markera **Ta bort objekt**.
+1. Klicka på **[!UICONTROL Custom Object Actions]** och välj **[!UICONTROL Delete Object]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-9.png)
 
    >[!TIP]
    >
-   >Du kan också högerklicka på objektet och markera **Ta bort objekt**.
+   >Du kan också högerklicka på objektet och markera **[!UICONTROL Delete Object]**.
 
-1. Om det anpassade objektet är i utkastform, inte godkänt än, får du den här varningen. Om du är säker klickar du på **Ta bort**.
+1. Om det anpassade objektet är i utkastform, inte godkänt än, får du den här varningen. Om du är säker klickar du på **[!UICONTROL Delete]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-10.png)
 
-1. Om det anpassade objektet redan har godkänts finns det en större risk om du tar bort det. Så du får en bättre varning. Retur **Jag förstår**, kontrollera **Kan inte ångra** och klicka **Ta bort**.
+1. Om det anpassade objektet redan har godkänts finns det en större risk om du tar bort det. Så du får en bättre varning. Retur **[!UICONTROL I understand]**, kontrollera **[!UICONTROL Cannot Undo]** och klicka **[!UICONTROL Delete]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-11.png)
 

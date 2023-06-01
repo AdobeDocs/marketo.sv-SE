@@ -3,9 +3,9 @@ unique-page-id: 10094188
 description: Godkänn ett anpassat objekt - Marketo Docs - produktdokumentation
 title: Godkänn ett anpassat objekt
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
-source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ Du måste godkänna ett anpassat objekt innan du kan använda det. Processen ski
 
 Du har skapat ett helt nytt anpassat objekt. Så här godkänner du det.
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/approve-a-custom-object-1.png)
 
-1. Klicka **Anpassade Marketo-objekt**.
+1. Klicka på **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/approve-a-custom-object-2.png)
 
@@ -30,11 +30,11 @@ Du har skapat ett helt nytt anpassat objekt. Så här godkänner du det.
 
    ![](assets/approve-a-custom-object-3.png)
 
-1. Klicka på **Anpassade objektåtgärder** nedrullningsbar meny och välj **Godkänn objekt**.
+1. Klicka på **[!UICONTROL Custom Object Actions]** nedrullningsbar meny och välj **[!UICONTROL Approve Object]**.
 
    ![](assets/approve-a-custom-object-4.png)
 
-1. Läget ändras till Godkänd.
+1. Läget ändras till [!UICONTROL Approved].
 
    ![](assets/approve-a-custom-object-5.png)
 
@@ -54,14 +54,14 @@ Så ja! Nu kan du välja det anpassade objektet i begränsningarna för filter o
 
 När du har redigerat ett godkänt anpassat objekt måste du godkänna utkastet för att kunna återställa det anpassade objektet till läget Godkänd.
 
-1. När du redigerar ett anpassat objekt som redan godkänts får det ett godkänt med utkastläge.
+1. När du redigerar ett anpassat objekt som redan godkänts får det ett [!UICONTROL Approved with Draft] tillstånd.
 
    ![](assets/approve-a-custom-object-6.png)
 
-1. När du är klar att godkänna utkastet klickar du på **Anpassade objektåtgärder** nedrullningsbar meny och välj **Godkänn objekt**.
+1. När du är klar att godkänna utkastet klickar du på **[!UICONTROL Custom Object Actions]** nedrullningsbar meny och välj **[!UICONTROL Approve Object]**.
 
    ![](assets/approve-a-custom-object-7.png)
 
-1. I en förhandsgranskning visas de objekt som har ändrats i utkastet. Klicka **Godkänn**.
+1. I en förhandsgranskning visas de objekt som har ändrats i utkastet. Klicka på **[!UICONTROL Approve]**.
 
    ![](assets/approve-a-custom-object-8.png)

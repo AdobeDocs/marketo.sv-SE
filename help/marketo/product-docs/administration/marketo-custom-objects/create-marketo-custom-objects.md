@@ -3,10 +3,10 @@ unique-page-id: 10093192
 description: Skapa anpassade Marketo-objekt - Marketo Docs - produktdokumentation
 title: Skapa anpassade Marketo-objekt
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
-source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
-source-wordcount: '704'
-ht-degree: 0%
+source-wordcount: '625'
+ht-degree: 1%
 
 ---
 
@@ -26,31 +26,31 @@ Använd anpassade objekt i Marketo för att spåra mätvärden som är specifika
 
 I det här exemplet visas ett anpassat bildobjekt som kan användas i en en-till-många-struktur. Senare skapar du ett kursanpassat objekt och ett mellanliggande objekt som du kan använda i en många-till-många-struktur.
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/create-marketo-custom-objects-1.png)
 
-1. Klicka **Anpassade Marketo-objekt**.
+1. Klicka på **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/create-marketo-custom-objects-2.png)
 
-1. Klicka **Nytt anpassat objekt**.
+1. Klicka på **[!UICONTROL New Custom Object]**.
 
    ![](assets/create-marketo-custom-objects-3.png)
 
    >[!NOTE]
    >
-   >På fliken Anpassade objekt i Marketo visas alla anpassade objekt till höger och information om godkända objekt, inklusive antalet poster och fält vid den senaste uppdateringen.
+   >The [!UICONTROL Marketo Custom Objects] På -fliken visas alla anpassade objekt till höger och information om godkända objekt, inklusive antal poster och fält vid den senaste uppdateringen.
 
-1. Ange ett visningsnamn. API-namnet och pluronamnet fylls i automatiskt. Ange en beskrivning (valfritt).
+1. Ange [!UICONTROL Display Name]. The [!UICONTROL API Name] och [!UICONTROL Plural Name] fylls i automatiskt. Ange [!UICONTROL Description] (valfritt).
 
    ![](assets/create-marketo-custom-objects-4.png)
 
    >[!NOTE]
    >
-   >Du kan redigera de här fälten när du skapar dem, men när de har sparats kan du bara redigera fältet Pluralnamn och **Visa i Lead-detalj** skjutreglage.
+   >Du kan redigera dessa fält när du skapar dem, men när de har sparats kan du bara redigera [!UICONTROL Plural Name] fält och **[!UICONTROL Show in Lead Detail]** skjutreglage.
 
-1. Dra **Visa i Lead-detalj** skjutreglage som ska visas **Visa** om du vill visa anpassade objektdata på databassidan. Klicka **Spara**.
+1. Dra **[!UICONTROL Show in Lead Detail]** skjutreglage som ska visas **[!UICONTROL Show]** om du vill visa anpassade objektdata på databassidan. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/create-marketo-custom-objects-5.png)
 
@@ -72,27 +72,27 @@ I det här exemplet visas ett anpassat kursobjekt som du använder för att skap
 >
 >För många-till-många-relationer behöver du inte skapa någon länk i det anpassade objektet. I stället lägger du till två länkar till mellanliggande objekt (se nedan).
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/create-marketo-custom-objects-7.png)
 
-1. Klicka **Anpassade Marketo-objekt**.
+1. Klicka på **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/create-marketo-custom-objects-8.png)
 
-1. Klicka **Nytt anpassat objekt**.
+1. Klicka på **[!UICONTROL New Custom Object]**.
 
    ![](assets/create-marketo-custom-objects-9.png)
 
-1. Ange ett visningsnamn. API-namnet och pluronamnet fylls i automatiskt. Ange en beskrivning (valfritt).
+1. Ange [!UICONTROL Display Name]. The [!UICONTROL API Name] och [!UICONTROL Plural Name] fylls i automatiskt. Ange [!UICONTROL Description] (valfritt).
 
    ![](assets/create-marketo-custom-objects-10.png)
 
    >[!NOTE]
    >
-   >Du kan redigera de här fälten när du skapar dem, men när de har sparats kan du bara redigera fältet Pluralnamn och **Visa i Lead-detalj** skjutreglage.
+   >Du kan redigera dessa fält när du skapar dem, men när de har sparats kan du bara redigera [!UICONTROL Plural Name] fält och **[!UICONTROL Show in Lead Detail]** skjutreglage.
 
-1. Dra **Visa i Lead-detalj** skjutreglage som ska visas **Visa** om du vill visa anpassade objektdata på databassidan. Klicka **Spara**.
+1. Dra **[!UICONTROL Show in Lead Detail]** skjutreglage som ska visas **[!UICONTROL Show]** om du vill visa anpassade objektdata på databassidan. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/create-marketo-custom-objects-11.png)
 
@@ -114,27 +114,27 @@ Använd ett mellanliggande objekt för att koppla ett anpassat objekt till perso
 >
 >Du behöver inte skapa ett mellanliggande objekt för en anpassad objektstruktur med en-till-många.
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/create-marketo-custom-objects-13.png)
 
-1. Klicka **Anpassade Marketo-objekt**.
+1. Klicka på **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/create-marketo-custom-objects-14.png)
 
-1. Klicka **Nytt anpassat objekt**.
+1. Klicka på **[!UICONTROL New Custom Object]**.
 
    ![](assets/create-marketo-custom-objects-15.png)
 
-1. Ange ett visningsnamn. API-namnet och pluronamnet fylls i automatiskt. Ange en beskrivning (valfritt).
+1. Ange [!UICONTROL Display Name]. The [!UICONTROL API Name] och [!UICONTROL Plural Name] fylls i automatiskt. Ange [!UICONTROL Description] (valfritt).
 
    ![](assets/create-marketo-custom-objects-16.png)
 
    >[!NOTE]
    >
-   >Du kan redigera de här fälten när du skapar dem, men när de har sparats kan du bara redigera fältet Pluralnamn och reglaget Visa i Leaddetalj.
+   >Du kan redigera dessa fält när du skapar dem, men när de har sparats kan du bara redigera [!UICONTROL Plural Name] fält och [!UICONTROL Show in Lead Detail] skjutreglage.
 
-1. Dra **Visa i Lead-detalj** skjutreglage som ska visas **Visa** om du vill visa anpassade objektdata på databassidan. Klicka **Spara**.
+1. Dra **[!UICONTROL Show in Lead Detail]** skjutreglage som ska visas **Visa** om du vill visa anpassade objektdata på databassidan. Klicka **Spara**.
 
    ![](assets/create-marketo-custom-objects-17.png)
 

@@ -3,9 +3,9 @@ unique-page-id: 10095453
 description: Redigera och ta bort anpassade Marketo-objektfält - Marketo Docs - produktdokumentation
 title: Redigera och ta bort anpassade Marketo-objektfält
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
-source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ Ibland behöver du redigera ett fält som inte har godkänts än.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-1.png)
 
-1. På fliken Fält klickar du på **Fältåtgärder** och **Redigera fält**.
+1. I [!UICONTROL Fields] flik, klicka **[!UICONTROL Field Actions]** och **[!UICONTROL Edit Field]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-2.png)
 
-1. Gör ändringarna och klicka **Spara**.
+1. Gör ändringarna och klicka **[!UICONTROL Save]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-3.png)
 
@@ -40,18 +40,18 @@ Ibland behöver du redigera ett fält som inte har godkänts än.
 
 Om du inte behöver ett fält i ett anpassat objekt längre kan du ta bort det.
 
-1. På fliken Fält klickar du på **Fältåtgärder** och **Ta bort fält**.
+1. Klicka på fliken Fält **[!UICONTROL Field Actions]** och **[!UICONTROL Delete Field]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 
-   Se till att du verkligen vill ta bort fältet innan du trycker på utlösaren! Klicka **Ta bort**.
+1. Se till att du verkligen vill ta bort fältet innan du trycker på utlösaren! Klicka på **[!UICONTROL Delete]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-6.png)
 
-   Den är borta!
+Den är borta!
 
-   ![](assets/edit-and-delete-marketo-custom-object-fields-7.png)
+![](assets/edit-and-delete-marketo-custom-object-fields-7.png)
 
-   >[!NOTE]
-   >
-   >[Lägg till anpassade Marketo-objektfält](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>[!NOTE]
+>
+>[Lägg till anpassade Marketo-objektfält](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
