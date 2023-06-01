@@ -2,9 +2,9 @@
 description: E-postverifiering - Marketo Docs - produktdokumentation
 title: E-postverifiering
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: 44cca5ebad831cc39babac87ac9ebbf53df6c795
+source-git-commit: e104a8bd41d61451202ba089512dc688680292ce
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -17,35 +17,40 @@ Adobe Marketo Engage-prenumerationer kräver att alla användare som inte är AP
 
 När en administratör bjuder in en användare verifieras den användaren automatiskt när han/hon klickar på länken för inbjudan. SSO-användare som inte har tilldelats rollen Admin verifieras automatiskt.
 
+## Verifierings-e-post {#verification-email}
+
+Inbjudna användare får följande mejl:
+
+![](assets/email-verification-1.png)
+
+>[!NOTE]
+>
+>Om du vill skicka ett bekräftelsemeddelande till en overifierad användare igen markerar du användarens post och klickar på knappen **Verifiera e-post** -knappen.
+
 ## Ändra en e-postadress {#changing-an-email-address}
 
 När en användares e-postadress ändras blir den inte verifierad. Ett e-postmeddelande skickas till dem där de kan verifiera igen. Användarna kan skicka om e-postmeddelandet manuellt genom att klicka på **Skicka verifiering igen**.
 
-![](assets/email-verification-1.png)
-
 ![](assets/email-verification-2.png)
+
+![](assets/email-verification-3.png)
 
 ## Användare och roller {#users-and-roles}
 
 I **Administratör** > **Användare och roller** visas verifieringsstatusen för varje användare i kolumnen E-poststatus.
 
-![](assets/email-verification-3.png)
+![](assets/email-verification-4.png)
 
 ## Inloggnings-ID för flera användare {#multiple-user-login-ids}
 
-Endast ett användarkonto kan kopplas till en e-postadress. Om det finns flera användarkonton som är associerade med en enda e-postadress måste konflikten lösas i Marketo Engage och alla användarinloggningar som är associerade med e-postadressen visas, liksom tre lösningsalternativ:<p>
-`1` Använd den aktuella e-postadressen för det aktuella användarens inloggnings-ID<p>
-`2` Använd ett nytt e-postmeddelande för det aktuella användarens inloggnings-ID<p>
-`3` Fördröj beslutet tills nästa inloggning
+Endast ett användarkonto kan kopplas till en e-postadress. Om det finns flera användarkonton som är associerade med en enda e-postadress måste konflikten lösas i Marketo Engage och alla användarinloggningar som är associerade med e-postadressen visas, liksom tre lösningsalternativ:
 
-![](assets/email-verification-4.png)
+* Använd den aktuella e-postadressen för det aktuella användarens inloggnings-ID
+* Använd ett nytt e-postmeddelande för det aktuella användarens inloggnings-ID
+* Fördröj beslutet tills nästa inloggning
 
-## Verifierings-e-post {#verification-email}
-
-Inbjudna användare får följande mejl:
-
-![](assets/email-verification-5.png)
+   ![](assets/email-verification-5.png)
 
 >[!NOTE]
 >
->Om du vill skicka ett bekräftelsemeddelande till en overifierad användare igen markerar du användarens post och klickar på knappen **Verifiera e-post** -knappen.
+>Även om ett användarkonto måste kopplas till en enda adress kan ett användarkonto användas för många prenumerationer via Universal ID.
