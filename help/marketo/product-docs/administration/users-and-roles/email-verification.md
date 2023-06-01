@@ -2,9 +2,9 @@
 description: E-postverifiering - Marketo Docs - produktdokumentation
 title: E-postverifiering
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: e104a8bd41d61451202ba089512dc688680292ce
+source-git-commit: 247e032254757789efddeef17bc589ba0ac85d49
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ När en administratör bjuder in en användare verifieras den användaren automa
 
 ## Verifierings-e-post {#verification-email}
 
-Inbjudna användare får följande mejl:
+Användarna får följande mejl när e-postverifiering aktiveras för en prenumeration, eller om den aktiveras av en administratör/användare:
 
 ![](assets/email-verification-1.png)
 
