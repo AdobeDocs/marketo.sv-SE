@@ -1,31 +1,29 @@
 ---
 description: Bildredigerare - Marketo Docs - produktdokumentation
 title: Bildredigeraren
-hide: true
-hidefromtoc: true
-source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+source-git-commit: 178100fd0e30ed45632c80c3e9d288c6ff2a3a76
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
-# Bildredigeraren
+# Bildredigeraren {#image-editor}
 
 Med bildredigeraren kan du göra snabba, ljusa redigeringar av dina bilder i Marketo Engage.
 
 1. Gå till **[!UICONTROL Design Studio]**.
 
-PICC
+   ![](assets/image-editor-1.png)
 
-1. Hitta bilden ([!UICONTROL Recent Design Studio Assets] eller [!UICONTROL Images & Files]) och klicka på filnamnet.
+1. Leta reda på och markera bilden.
 
-PICC
+   ![](assets/image-editor-2.png)
 
 1. Klicka på **[!UICONTROL Edit Image]** -knappen.
 
-PICC
+   ![](assets/image-editor-3.png)
 
 1. Välj bland en mängd olika funktioner i verktygsfältet längst upp. Klicka **[!UICONTROL Save]** när det är klart.
 
-PICC
+   ![](assets/image-editor-4.png)
