@@ -2,14 +2,18 @@
 description: Sales Insight Actions Admin Setup Guide - Marketo Docs - produktdokumentation
 title: Handbok för administration av Sales Insight Actions
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
 workflow-type: tm+mt
-source-wordcount: '594'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Handbok för administration av Sales Insight Actions {#sales-insight-actions-admin-setup-guide}
+
+>[!NOTE]
+>
+>Marketo Sales Insight Actions är ett webbaserat program som integreras med Salesforce-användargränssnittet via [Marketo Sales Insight-paket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Det kallas ibland&quot;Marketo Sales&quot; eller&quot;Actions&quot;.
 
 >[!PREREQUISITES]
 >

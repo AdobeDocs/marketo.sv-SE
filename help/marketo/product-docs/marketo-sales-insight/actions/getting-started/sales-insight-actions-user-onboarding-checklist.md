@@ -1,9 +1,10 @@
 ---
 description: Sales Insight Actions User Onboarding Checklist - Marketo Docs - produktdokumentation
 title: Sales Insight Actions User Onboarding Checklist
-source-git-commit: 6e474bd49491744115a284342690f5140409590b
+exl-id: 2cc21121-88ef-4cb9-a2bf-73ce213d9fbd
+source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -11,6 +12,10 @@ ht-degree: 0%
 # Sales Insight Actions User Onboarding Checklist {#sales-insight-actions-user-onboarding-checklist}
 
 Om du vill ha material om hur du kommer igång med Marketo Sales Insight Actions kan du [ladda ned boardingchecklistan](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx).
+
+>[!NOTE]
+>
+>Marketo Sales Insight Actions är ett webbaserat program som integreras med Salesforce-användargränssnittet via [Marketo Sales Insight-paket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Det kallas ibland&quot;Marketo Sales&quot; eller&quot;Actions&quot;.
 
 [![](assets/sales-insight-actions-user-onboarding-checklist-1.png)](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx)
 

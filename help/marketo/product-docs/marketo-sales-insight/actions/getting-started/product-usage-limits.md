@@ -2,16 +2,20 @@
 description: Begränsningar för produktanvändning - Marketo Docs - produktdokumentation
 title: Begränsningar för produktanvändning
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
-source-git-commit: 679f003e615544679b7f98dd93e2e4f23ec83ee5
+source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 13%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Begränsningar för produktanvändning {#product-usage-limits}
 
-Följande begränsningar gäller för användning av utökade säljengagemangsfunktioner som är tillgängliga med Sales Insight Actions.
+Nedan hittar du begränsningar för användning av utökade säljengagemangsfunktioner som är tillgängliga med Sales Insight Actions.
+
+>[!NOTE]
+>
+>Marketo Sales Insight Actions är ett webbaserat program som integreras med Salesforce-användargränssnittet via [Marketo Sales Insight-paket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Det kallas ibland&quot;Marketo Sales&quot; eller&quot;Actions&quot;.
 
 <table>
   <th>Funktionalitet</th>

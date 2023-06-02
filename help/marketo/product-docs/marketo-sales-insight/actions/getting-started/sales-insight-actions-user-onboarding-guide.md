@@ -2,14 +2,18 @@
 description: Sales Insight Actions User Onboarding Guide - Marketo Docs - produktdokumentation
 title: Handbok om User Onboarding för Sales Insight Actions
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
-source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
+source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Handbok om User Onboarding för Sales Insight Actions {#sales-insight-actions-user-onboarding-guide}
+
+>[!NOTE]
+>
+>Marketo Sales Insight Actions är ett webbaserat program som integreras med Salesforce-användargränssnittet via [Marketo Sales Insight-paket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Det kallas ibland&quot;Marketo Sales&quot; eller&quot;Actions&quot;.
 
 >[!PREREQUISITES]
 >
