@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 178100fd0e30ed45632c80c3e9d288c6ff2a3a76
+source-git-commit: 4959a5780ae89f7b715485e9106aa275f2b155a1
 workflow-type: tm+mt
-source-wordcount: '8890'
+source-wordcount: '8900'
 ht-degree: 0%
 
 ---
@@ -1373,6 +1373,11 @@ ht-degree: 0%
                + [Disponera massutskick med Markera och skicka](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [Skicka e-post via gruppe-post](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [Använda en mall i dispositionsfönstret](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+         + E-postintegrering {#email-integrations}
+            + Gmail {#gmail}
+               + [Anslut till Gmail](product-docs/marketo-sales-insight/actions/email-integrations/gmail/connect-to-gmail.md)
+            + Outlook {#outlook}
+               + [Anslut till Outlook](product-docs/marketo-sales-insight/actions/email-integrations/outlook/connect-to-outlook.md)
          + Vanliga frågor {#faq}
             + [Kan jag återställa en kontakt eller grupp jag tagit bort?](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [Kan jag spåra flera mottagare med CC/BCC?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
