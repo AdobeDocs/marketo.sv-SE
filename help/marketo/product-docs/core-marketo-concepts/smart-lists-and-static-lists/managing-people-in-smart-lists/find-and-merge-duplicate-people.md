@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: Sök och sammanfoga duplicerade personer - Marketo Docs - produktdokumentation
 title: Sök och sammanfoga duplicerade personer
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+source-git-commit: 780071242a608706e06f3026150c43441a29faa5
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '439'
 ht-degree: 0%
 
 ---
@@ -14,19 +14,23 @@ ht-degree: 0%
 
 Marketo deduplicerar automatiskt när nya personer kommer in i systemet. CRM kan dock ha skickat dubbletter till Marketo. Så här sammanfogar du dem.
 
->[!NOTE]
+>[!CAUTION]
 >
->Marketo avlastar inte automatiskt från en Salesforce- eller Microsoft Dynamics-synkronisering, och inte heller när du anger personer manuellt.
+>Att sammanfoga personer är permanent, det finns inget ångra-alternativ.
 
 >[!PREREQUISITES]
 >
 >Att söka efter och sammanfoga dubbletter innebär att [inbyggda/systemsmarta listor](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
 
+>[!NOTE]
+>
+>Marketo avlastar inte automatiskt från en Salesforce- eller Microsoft Dynamics-synkronisering, och inte heller när du anger personer manuellt.
+
 ## Sök dubbletter {#find-duplicates}
 
 1. Gå till **Databas** område.
 
-   ![](assets/db.png)
+   ![](assets/find-and-merge-duplicate-people-1.png)
 
    >[!CAUTION]
    >
@@ -34,7 +38,7 @@ Marketo deduplicerar automatiskt när nya personer kommer in i systemet. CRM kan
 
 1. Välj **Möjliga dubbletter** systemsmart lista och klicka på **Folk** -fliken.
 
-   ![](assets/two.png)
+   ![](assets/find-and-merge-duplicate-people-2.png)
 
    >[!NOTE]
    >
@@ -48,7 +52,7 @@ Marketo deduplicerar automatiskt när nya personer kommer in i systemet. CRM kan
 
 1. Markera dubbletterna genom att hålla ned Ctrl/Cmd och klicka och sedan på **Sammanfoga personer**.
 
-   ![](assets/three.png)
+   ![](assets/find-and-merge-duplicate-people-3.png)
 
    >[!TIP]
    >
@@ -56,7 +60,7 @@ Marketo deduplicerar automatiskt när nya personer kommer in i systemet. CRM kan
 
 1. Du ser värdena mellan posterna som _inte_ matchar. Välj det värde som du vill behålla för varje fält. Klicka **Sammanfoga** när det är klart. Om du inte vill ha något av värdena kan du kontrollera **Egen** och ange ett värde.
 
-   ![](assets/four.png)
+   ![](assets/find-and-merge-duplicate-people-4.png)
 
    >[!NOTE]
    >
