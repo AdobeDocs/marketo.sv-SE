@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation – Marketo Docs – produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+source-git-commit: 159c0aee929327fc1e1f22d0de3abb7380935d86
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '368'
 ht-degree: 2%
 
 ---
@@ -33,8 +33,8 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Experience Cloud - översikt</a></td>
   </tr>
   </tbody>
 </table>
@@ -75,24 +75,6 @@ Interaktiva webbinarier lanseras gradvis. Om du vill ha åtkomst tidigare fyller
   <tr> 
    <td>Startade utrullning</td>
    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">Översikt över interaktiva webbinarier</a></td>
-  </tr>
-  </tbody>
-</table>
-
-### Dynamiskt chatt {#dynamic-chat}
-
-</br>
-
-* **Chattkälla för dynamiskt chatt**: &quot;Chatt&quot; erbjuds nu som en källa till nya personregister och -aktiviteter. Den här källan kan användas för att hjälpa användare att filtrera aktiviteter i smarta listor/kampanjer. Källan kan också blockeras från uppdateringar i fält.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
   </tr>
   </tbody>
 </table>
