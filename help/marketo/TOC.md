@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 4959a5780ae89f7b715485e9106aa275f2b155a1
+source-git-commit: 3e0836fd9f40436564c7b2d8bb58a7f771e49c33
 workflow-type: tm+mt
-source-wordcount: '8900'
+source-wordcount: '8904'
 ht-degree: 0%
 
 ---
@@ -1310,7 +1310,6 @@ ht-degree: 0%
                + [Lägg till eller uppdatera din e-postsignatur](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
                + [Lägg till identitet](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
          + Administratör {#admin}
-            + [Vanliga frågor om synkronisering av funktionsmakron](product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md)
             + [Automatisk inloggning från Salesforce](product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)
             + [Blockerade domäner](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [Anslut ny administratör till Marketo](product-docs/marketo-sales-insight/actions/admin/connect-new-admin-to-marketo.md)
@@ -1320,6 +1319,7 @@ ht-degree: 0%
             + [Bjud in användare och administratörer](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [Inställningar för inloggningshantering](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
             + [Delningsinställningar](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
+            + [Synkronisera säljåtgärdsdata med Marketo och Salesforce](product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md)
             + [Information om användaråtkomst](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + Analyser {#analytics}
             + [Översikt över analyssidan](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)

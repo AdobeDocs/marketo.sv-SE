@@ -2,9 +2,9 @@
 description: Sales Insight Actions Activity Glossary - Marketo Docs - Product Documentation
 title: Aktivitetsordlista för Sales Insight Actions
 exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: 3e0836fd9f40436564c7b2d8bb58a7f771e49c33
 workflow-type: tm+mt
-source-wordcount: '541'
+source-wordcount: '554'
 ht-degree: 1%
 
 ---
@@ -194,6 +194,22 @@ Aktiviteterna nedan loggas till Marketo från Sales Insight Actions.
  </tr>
  <tr>
   <td>Försäljningskampanj-ID</td>
+ </tr>
+ <tr>
+  <th rowspan="5">E-postutfall för försäljning</th>
+  <td>Detaljer</td>
+ </tr>
+ <tr>
+  <td>E-post</td>
+ </tr>
+ <tr>
+  <td>Skickat av</td>
+ </tr>
+ <tr>
+  <td>Marketo-säljarens ID</td>
+ </tr>
+ <tr>
+  <td>Mall-ID</td>
  </tr>
 </table>
 
