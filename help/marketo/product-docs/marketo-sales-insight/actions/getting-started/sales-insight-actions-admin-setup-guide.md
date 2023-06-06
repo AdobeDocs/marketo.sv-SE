@@ -2,9 +2,9 @@
 description: Sales Insight Actions Admin Setup Guide - Marketo Docs - produktdokumentation
 title: Handbok för administration av Sales Insight Actions
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
+source-git-commit: 7249a7e7cd1879d35fedef0a6e3568fbc2872ef9
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '626'
 ht-degree: 0%
 
 ---
@@ -138,7 +138,7 @@ Personposter som finns i Marketo och Salesforce synkroniseras med ditt Marketo S
 
 >[!NOTE]
 >
->Läs mer om hur människor och aktivitetsdata synkroniseras mellan Sales Insight Actions, Marketo och Salesforce. [klicka här](/help/marketo/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md){target="_blank"}.
+>Läs mer om hur människor och aktivitetsdata synkroniseras mellan Sales Insight Actions, Marketo och Salesforce. [klicka här](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}.
 
 ## Bjud in enskilda användare till MSI-åtgärder {#invite-individual-users-to-msi-actions}
 
