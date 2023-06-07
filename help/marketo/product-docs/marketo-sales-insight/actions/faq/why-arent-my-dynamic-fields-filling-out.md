@@ -1,12 +1,10 @@
 ---
 description: Varför fylls inte mina dynamiska fält i - Marketo Docs - produktdokumentation
 title: Varför fylls inte mina dynamiska fält ut?
-hide: true
-hidefromtoc: true
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
-source-git-commit: f77a076c243c25f3bff98a82751f51c464712795
+source-git-commit: b4773137bf21eccc58a6d975d50748e8ff2a57db
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -27,9 +25,9 @@ Salesforce-fält: t.ex. `{{sfdc_account_name}}`
 
 **Felsöka grundläggande och anpassade fält**
 
-Grundläggande flikar: t.ex. `{{company}}`
+Marketo Sales Insight Actions Basic Fields: t.ex. `{{company}}`
 
-Visa anpassade fält: t.ex. `{{custom_field_favorite_movie}}`
+Anpassade fält för Marketo Sales Insight-åtgärder: t.ex. `{{custom_field_favorite_movie}}`
 
 * Motsvarande fält måste sparas för din kontakt i [Personsida](https://toutapp.com/next#relationships) för att hänvisa till vårt dynamiska fält. Om du till exempel skickar ett e-postmeddelande till Mary och använder `{{company}}` men hennes kontaktpost inte listar ett företag, vi kan inte fylla i det.
 
