@@ -2,9 +2,9 @@
 description: Dynamiska fält - Marketo Docs - produktdokumentation
 title: Dynamiska fält
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: 466df1fbd561860152f9fea02edb6eab5670c90a
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,18 @@ Om du skickar e-post till kontakter som finns i Salesforce kan du dra nytta av d
 ## Infoga dynamiska fält i en ämnesrad {#insert-dynamic-fields-in-a-subject-line}
 
 Kopiera dem manuellt och klistra in dem i ämnesfältet i ett e-postmeddelande. Se till att du har rätt formatering.
+
+## Standardvärden för dynamiskt fält {#dynamic-field-default-values}
+
+När du lägger till dynamiska fält i e-postmallar kan du lägga till ett standardvärde som det dynamiska fältet kommer att resultera i om det inte finns något annat värde tillgängligt.
+
+Lägg till &quot;|&quot; efter etiketten för det dynamiska fältet och lägg sedan till &quot;default:&quot;. Lägg sedan till det värde som du vill att fältet ska matchas till om inget annat värde hittas.
+
+**Exempel:**
+
+`{{first name | default: loyal customer}}`
+
+`{{sfdc_contact_account_name | default: your company}}`
 
 ## Ordlista för dynamiska fält {#dynamic-fields-glossary}
 
