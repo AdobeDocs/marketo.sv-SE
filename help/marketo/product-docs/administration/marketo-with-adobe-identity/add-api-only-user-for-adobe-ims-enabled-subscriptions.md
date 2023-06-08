@@ -2,9 +2,9 @@
 description: Lägg till endast API-användare för Adobe IMS-aktiverade prenumerationer - Marketo Docs - produktdokumentation
 title: Lägg till endast API-användare för Adobe IMS-aktiverade prenumerationer
 exl-id: bf908a50-de2f-4ea0-8d6a-5d7ed6d39ebf
-source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ Marketo Engage Marketing Users and Administrators is managed in Adobe Admin Cons
 
 Stegen nedan beskriver hur du lägger till en användare med endast API i Marketo Engage. Innan du gör det måste du ha [har etablerat en roll för enbart API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md).
 
-1. I Marketo klickar du på **Administratör** och markera **Användare och roller**.
+1. I Marketo klickar du på **[!UICONTROL Admin]** och markera **[!UICONTROL Users & Roles]**.
 
    ![](assets/add-api-only-user-for-adobe-ims-1.png)
 
-1. Klicka **Skapa endast API-användare**.
+1. Klicka på **[!UICONTROL Create API Only User]**.
 
    ![](assets/add-api-only-user-for-adobe-ims-2.png)
 
-1. Ange e-post, förnamn och efternamn för den användare som bara är API.  Välj den roll för enbart API som du vill tilldela användaren. Klicka **Skapa endast API-användare** när det är klart.
+1. Ange en [!UICONTROL Email], [!UICONTROL First Name]och [!UICONTROL Last Name] för användare med endast API. Välj [!UICONTROL API Only] Roll som du vill tilldela användaren. Klicka **[!UICONTROL Create API Only User]** när det är klart.
 
    ![](assets/add-api-only-user-for-adobe-ims-3.png)
 

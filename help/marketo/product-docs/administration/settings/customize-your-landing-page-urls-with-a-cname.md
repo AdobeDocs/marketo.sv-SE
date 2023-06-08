@@ -3,9 +3,9 @@ unique-page-id: 2360189
 description: Anpassa dina URL:er för landningssidor med en CNAME (Administration) - Marketo Docs - Produktdokumentation
 title: Anpassa URL:er för landningssidor med en CNAME (administration)
 exl-id: a5aa1c76-15f7-4e8c-a736-77c79f65c368
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---
@@ -42,15 +42,15 @@ Kom så sätter vi igång!
 
 1. Hitta din kontosträng.
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-1.png)
 
-1. Klicka **Landningssidor**.
+1. Klicka på **[!UICONTROL Landing Pages]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-2.png)
 
-1. Under **Landningssidor** kopierar du kontosträngen från avsnittet Inställningar.
+1. Under **[!UICONTROL Landing Pages]** kopierar du kontosträngen från avsnittet Inställningar.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-3.png)
 
@@ -64,19 +64,19 @@ Kom så sätter vi igång!
 
 1. Slutför CNAME-installationen.
 
-1. När IT-avdelningen har skapat CNAME går du tillbaka till **Administratör** område.
+1. När IT-avdelningen har skapat CNAME går du tillbaka till **[!UICONTROL Admin]** område.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-4.png)
 
-1. Klicka **Landningssidor**.
+1. Klicka på **[!UICONTROL Landing Pages]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-5.png)
 
-1. Under **Inställningar** avsnitt, klicka **Redigera**.
+1. Under **[!UICONTROL Settings]** avsnitt, klicka **[!UICONTROL Edit]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
-1. Ange CNAME i **Domännamn för landningssidor**, ange **Reservsida**, ange **Hemsida** och klicka **Spara**.
+1. Ange CNAME i **[!UICONTROL Domain name for Landing Pages]**, ange **[!UICONTROL Fallback page]**, ange **[!UICONTROL Homepage]** och klicka **[!UICONTROL Save]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 

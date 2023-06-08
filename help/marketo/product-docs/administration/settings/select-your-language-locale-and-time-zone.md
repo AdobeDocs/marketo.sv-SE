@@ -3,9 +3,9 @@ unique-page-id: 2359904
 description: Välj språk, språk och tidszon - Marketo Docs - Produktdokumentation
 title: Välj språk, språk och tidszon
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
-source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -25,19 +25,19 @@ Engelska är inte ditt första språk? Oroa dig inte, vi har dig täckt. Så hä
 
 ## Ändra användarspråk, nationella inställningar och tidszon {#change-user-language-locale-and-time-zone}
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/select-your-language-locale-and-time-zone-1.png)
 
-1. Välj **Mitt konto**.
+1. Välj **[!UICONTROL My Account]**.
 
    ![](assets/select-your-language-locale-and-time-zone-2.png)
 
-1. Under Mitt konto klickar du på **Redigera platsinställningar**.
+1. Under Mitt konto klickar du på **[!UICONTROL Edit Location Settings]**.
 
    ![](assets/select-your-language-locale-and-time-zone-3.png)
 
-1. Ändra dina **Språk**.
+1. Ändra dina **[!UICONTROL Language]**.
 
    ![](assets/select-your-language-locale-and-time-zone-4.png)
 
@@ -45,15 +45,15 @@ Engelska är inte ditt första språk? Oroa dig inte, vi har dig täckt. Så hä
    >
    >Du kan också ändra enbart ditt språk genom att klicka på listrutan för språk högst upp på inloggningssidan.
 
-1. Ändra dina **Språk**.
+1. Ändra dina **[!UICONTROL Locale]**.
 
    ![](assets/select-your-language-locale-and-time-zone-5.png)
 
-1. Ändra dina **Tidszon**.
+1. Ändra dina **[!UICONTROL Time Zone]**.
 
    ![](assets/select-your-language-locale-and-time-zone-6.png)
 
-1. Klicka **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/select-your-language-locale-and-time-zone-7.png)
 

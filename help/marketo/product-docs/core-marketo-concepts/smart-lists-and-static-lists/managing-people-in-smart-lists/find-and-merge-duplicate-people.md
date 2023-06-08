@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: Sök och sammanfoga duplicerade personer - Marketo Docs - produktdokumentation
 title: Sök och sammanfoga duplicerade personer
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
-source-git-commit: 780071242a608706e06f3026150c43441a29faa5
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Marketo deduplicerar automatiskt när nya personer kommer in i systemet. CRM kan
 
 >[!PREREQUISITES]
 >
->Att söka efter och sammanfoga dubbletter innebär att [inbyggda/systemsmarta listor](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
+>Att söka efter och sammanfoga dubbletter innebär att [inbyggda/systemsmarta listor](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ Marketo deduplicerar automatiskt när nya personer kommer in i systemet. CRM kan
 
    >[!NOTE]
    >
-   >Du kan också [Sök efter duplicerade personer med anpassad logik](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md).
+   >Du kan också [Sök efter duplicerade personer med anpassad logik](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md){target="_blank"}.
 
 ## Sammanfoga personer manuellt {#merge-people-manually}
 
@@ -72,18 +72,16 @@ Marketo deduplicerar automatiskt när nya personer kommer in i systemet. CRM kan
 
 ## Effekt i Salesforce {#effect-in-salesforce}
 
-Om du har Salesforce-integrering finns det några noteringar om effekten av Sammanfoga leads i Salesforce.
+Om du har Salesforce-integrering finns det några noteringar om effekten av att sammanfoga leads i Salesforce.
 
 * När du bara sammanfogar leads eller enbart kontakter sammanfogas de enligt vanliga Salesforce-regler.
 * När du sammanfogar Leads och Kontakter konverteras alla Leads till Kontakter innan de sammanfogas enligt vanliga Salesforce-regler.
 
 Mer information om Salesforce-beteendet när du sammanfogar leads eller kontakter finns i följande Salesforce-dokument:
 
-* [Sammanfoga dubblettrader](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US)
-* [Sammanfoga dubblettkontakter](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US)
+* [Sammanfoga dubblettrader](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US){target="_blank"}
+* [Sammanfoga dubblettkontakter](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US){target="_blank"}
 
 ## Masssammanslagning {#bulk-merging}
 
 Om du har för många dubbletter för att sammanfoga manuellt kontaktar du kontogruppen (din kontohanterare) på Adobe för att diskutera dina alternativ.
-
-Om du är ansluten till en CRM sammanfogas posterna där enligt reglerna nedan.

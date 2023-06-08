@@ -3,10 +3,10 @@ unique-page-id: 2360215
 description: Aktivera anpassade URL:er för ditt konto - Marketo Docs - produktdokumentation
 title: Aktivera anpassade URL:er för ditt konto
 exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
-source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 0%
+source-wordcount: '84'
+ht-degree: 2%
 
 ---
 
@@ -18,19 +18,19 @@ Personaliserade URL:er passar utmärkt för e-postkampanjer i tryck.
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/enable-personalized-urls-for-your-account-1.png)
 
-1. Klicka **Landningssidor**.
+1. Klicka på **[!UICONTROL Landing Pages]**.
 
    ![](assets/enable-personalized-urls-for-your-account-2.png)
 
-1. Klicka **Redigera**.
+1. Klicka på **[!UICONTROL Edit]**.
 
    ![](assets/enable-personalized-urls-for-your-account-3.png)
 
-1. Kontrollera **Aktivera anpassade URL:er** och klicka **Spara**.
+1. Kontrollera **[!UICONTROL Enable Personalized URLs]** och klicka **[!UICONTROL Save]**.
 
    ![](assets/enable-personalized-urls-for-your-account-4.png)
 

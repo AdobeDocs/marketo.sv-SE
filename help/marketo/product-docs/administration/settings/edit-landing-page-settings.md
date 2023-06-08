@@ -3,9 +3,9 @@ unique-page-id: 2359918
 description: Redigera inställningar för landningssida - Marketo Docs - produktdokumentation
 title: Redigera inställningar för landningssida
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -18,15 +18,15 @@ Du kan redigera ditt domännamn och din reservsida, aktivera eller inaktivera f�
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/edit-landing-page-settings-1.png)
 
-1. Klicka **Landningssidor**.
+1. Klicka på **[!UICONTROL Landing Pages]**.
 
    ![](assets/edit-landing-page-settings-2.png)
 
-1. I **Landningssidor** avsnitt, klicka **Redigera**.
+1. I **[!UICONTROL Landing Pages]** avsnitt, klicka **[!UICONTROL Edit]**.
 
    ![](assets/edit-landing-page-settings-3.png)
 
@@ -36,25 +36,25 @@ Du kan redigera ditt domännamn och din reservsida, aktivera eller inaktivera f�
 
    | Villkor | Definition |
    |---|---|
-   | Domännamn för landningssidor | Det här är din CNAME. En CNAME är den första delen av den URL som du ger personer för landningssidor. I `https://go.yourCompany.com`, ordet&quot;go&quot; är CNAME. Du kan ha flera, men de flesta använder bara den. |
-   | Reservsida | Det är här du ska gå om landningssidan inte finns eller är nere. Läs mer om [reservsidor](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
-   | Hemsida | Ange företagets webbplats-URL. |
+   | [!UICONTROL Domain name for landing pages] | Det här är din CNAME. En CNAME är den första delen av den URL som du ger personer för landningssidor. I `https://go.yourCompany.com`, ordet&quot;go&quot; är CNAME. Du kan ha flera, men de flesta använder bara den. |
+   | [!UICONTROL Fallback page] | Det är här du ska gå om landningssidan inte finns eller är nere. Läs mer om [reservsidor](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
+   | [!UICONTROL Homepage] | Ange företagets webbplats-URL. |
 
-1. Kontrollera **Formulärförifyllning** kryssrutan för att tillåta formulär att förifylla information för kända (cookifyllda) personer. Avmarkera för att blockera.
+1. Kontrollera **[!UICONTROL Form Prefill]** kryssrutan för att tillåta formulär att förifylla information för kända (cookifyllda) personer. Avmarkera för att blockera.
 
    ![](assets/edit-landing-page-settings-5.png)
 
-1. Om du vill förhindra att en skadlig webbplats verkar vara värd för ditt innehåll ska du kontrollera **Tillåt inte att Marketo-sidor bäddas in på externa webbsidor** kryssrutan.
+1. Om du vill förhindra att en skadlig webbplats verkar vara värd för ditt innehåll ska du kontrollera **[!UICONTROL Do not allow Marketo pages to be embedded in external web pages]** kryssrutan.
 
    ![](assets/edit-landing-page-settings-6.png)
 
    >[!NOTE]
    >
-   >Om du vill ha förifyllningen `<script>` -tagg som ska visas i slutet av `<head>` -taggen i koden kontrollerar du **Injicera förifyllningsskript i slutet av huvudet** box. Låt alternativet vara avmarkerat om du vill att det ska visas i början.
+   >Om du vill ha förifyllningen `<script>` -tagg som ska visas i slutet av `<head>` -taggen i koden kontrollerar du **[!UICONTROL Inject Prefill Script at End of Head]** box. Låt alternativet vara avmarkerat om du vill att det ska visas i början.
    >
-   >Kontrollera **Ta bort standardfavoritikonlänkar** för att förhindra att Marketo infogar några favoritikonlänkar i koden.
+   >Kontrollera **[!UICONTROL Remove default favicon links]** för att förhindra att Marketo infogar några favoritikonlänkar i koden.
 
-1. När du har gjort dina val klickar du på **Spara.**
+1. När du har gjort dina val klickar du på **[!UICONTROL Save]**.
 
    ![](assets/edit-landing-page-settings-7.png)
 

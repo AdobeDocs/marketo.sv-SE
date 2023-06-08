@@ -3,10 +3,10 @@ unique-page-id: 6095047
 description: Redigera "Do Not Track" Browser Support Settings - Marketo Docs - Product Documentation
 title: Redigera inställningar för stöd för Do Not Track-webbläsare
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 0%
+source-wordcount: '126'
+ht-degree: 1%
 
 ---
 
@@ -22,19 +22,19 @@ ht-degree: 0%
 >
 >&quot;Spåra inte&quot; kommer att anges till Ignorera som standard, så om det är det du vill ha behöver du inte vidta några åtgärder.
 
-1. Klicka **Administratör**.
+1. Klicka på **[!UICONTROL Admin]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-1.png)
 
-1. Klicka **Munchkin**.
+1. Klicka på **[!UICONTROL Munchkin]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-2.png)
 
-1. Under **Personspårning**, klicka **Redigera**.
+1. Under **[!UICONTROL Person Tracking]**, klicka **[!UICONTROL Edit]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-3.png)
 
-1. Välj **Support** och klicka **Spara**.
+1. Välj **[!UICONTROL Support]** och klicka **[!UICONTROL Save]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-4.png)
 

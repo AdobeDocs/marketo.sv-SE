@@ -3,10 +3,10 @@ unique-page-id: 2360297
 description: Begränsa Marketo-inloggningar baserat på IP - Marketo Docs - produktdokumentation
 title: Begränsa Marketo-inloggningar baserat på IP
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
-source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 0%
+source-wordcount: '167'
+ht-degree: 1%
 
 ---
 
@@ -22,28 +22,27 @@ Du kan begränsa eller göra det möjligt för användare att få åtkomst till 
 >
 >Informationen i den här artikeln gäller endast för direkta inloggningar på login.marketo.com. Det är för närvarande inte möjligt att tillämpa IP-begränsningar för enkel inloggning (SSO).
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/restrict-marketo-logins-based-on-ip-1.png)
 
-1. Klicka **Inloggningsinställningar**.
+1. Klicka på **[!UICONTROL Login Settings]**.
 
    ![](assets/restrict-marketo-logins-based-on-ip-2.png)
 
-1. Klicka **Redigera IP-begränsningar**.
+1. Klicka på **[!UICONTROL Edit IP Restrictions]**.
 
    ![](assets/restrict-marketo-logins-based-on-ip-3.png)
 
-1. Välj om du vill **Tillåt** eller **Blockera** anger du adressen/adresserna och klickar sedan på **Spara**.
+1. Välj om du vill **Tillåt** eller **Blockera** anger du adressen/adresserna och klickar sedan på **[!UICONTROL Save]**.
 
    >[!NOTE]
    >
    >**Definition**
    >
-   >* **Tillåtna IP-adresser**: Tillåtna IP-adresser läggs till. Den kommer att innehålla alla angivna IP-adresser och utesluta allt annat.
-   >* **Blockera IP-adresser**: Förhindrar att specifika IP-adresser får åtkomst till Marketo.
-   >* **Inaktivera IP-begränsningar**: Om du kontrollerar detta kommer eventuella begränsningsregler att sluta fungera. Använd detta för testning.
-
+   >* **[!UICONTROL Allowed IP addresses]**: Tillåtna IP-adresser läggs till. Den kommer att innehålla alla angivna IP-adresser och utesluta allt annat.
+   >* **[!UICONTROL Block IP addresses]**: Förhindrar att specifika IP-adresser får åtkomst till Marketo.
+   >* **[!UICONTROL Disable IP Restrictions]**: Om du kontrollerar detta kommer eventuella begränsningsregler att sluta fungera. Använd detta för testning.
 
    >[!NOTE]
    >

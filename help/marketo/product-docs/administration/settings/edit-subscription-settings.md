@@ -3,10 +3,10 @@ unique-page-id: 10099785
 description: Redigera prenumerationsinställningar - Marketo Docs - produktdokumentation
 title: Redigera prenumerationsinställningar
 exl-id: 005eaf79-60f5-45d5-bf73-e55f93553d64
-source-git-commit: 4e2627ecf5028bc45d679c50ec20dd3128041605
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 0%
+source-wordcount: '80'
+ht-degree: 2%
 
 ---
 
@@ -16,18 +16,18 @@ Om du har tillgång till flera Marketo-prenumerationer och vill vara säker på 
 
 Om du till exempel arbetar i både produktion och i sandlådeinstanser kan du namnge en prenumeration **Marketo Production** och andra **Marketo Sandbox**.
 
-1. Gå till **Administratör**.
+1. Gå till **[!UICONTROL Admin]**.
 
    ![](assets/edit-subscription-settings-1.png)
 
-1. Klicka **Mitt konto**.
+1. Klicka på **[!UICONTROL My Account]**.
 
    ![](assets/edit-subscription-settings-2.png)
 
-1. Klicka **Redigera prenumerationsinformation**.
+1. Klicka på **[!UICONTROL Edit Subscription Information]**.
 
    ![](assets/edit-subscription-settings-3.png)
 
-1. Redigera och klicka **Spara**.
+1. Redigera och klicka **[!UICONTROL Save]**.
 
    ![](assets/edit-subscription-settings-4.png)

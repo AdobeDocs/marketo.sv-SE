@@ -2,9 +2,9 @@
 description: Lägg till eller ta bort en produktadministratör - Marketo Docs - produktdokumentation
 title: Lägg till eller ta bort en produktadministratör
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
-source-git-commit: 093d043a0ac368e326c9f7fd05b7098da6274414
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >En administratör måste läggas till i en produktprofil för att få tillgång till Marketo Engage.
 
-1. Logga in på [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. Logga in på [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-product-admin-1.png)
 
@@ -33,15 +33,15 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-3.png)
 
-1. Klicka på **Administratörer** -fliken.
+1. Klicka på **[!UICONTROL Admins]** -fliken.
 
    ![](assets/add-or-remove-a-product-admin-4.png)
 
-1. Klicka på **Lägg till administratör** -knappen.
+1. Klicka på **[!UICONTROL Add Admin]** -knappen.
 
    ![](assets/add-or-remove-a-product-admin-5.png)
 
-1. Ange e-postadressen eller användarnamnet för den administratör du vill lägga till. Förnamn och efternamn är valfria. Klicka **Spara**.
+1. Ange e-postadressen eller användarnamnet för den administratör du vill lägga till. Förnamn och efternamn är valfria. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/add-or-remove-a-product-admin-6.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-7.png)
 
-1. Klicka på menyn tre punkter under Produkter och välj **Redigera**.
+1. Klicka på menyn tre punkter under Produkter och välj **[!UICONTROL Edit]**.
 
    ![](assets/add-or-remove-a-product-admin-8.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-9.png)
 
-1. Klicka **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/add-or-remove-a-product-admin-10.png)
 
@@ -69,7 +69,7 @@ Användaren får sedan två e-postmeddelanden. Det första e-postmeddelandet med
 
 ## Ta bort en administratör {#remove-a-user}
 
-1. Logga in på [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. Logga in på [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-product-admin-11.png)
 
@@ -81,15 +81,15 @@ Användaren får sedan två e-postmeddelanden. Det första e-postmeddelandet med
 
    ![](assets/add-or-remove-a-product-admin-13.png)
 
-1. Klicka på **Administratörer** -fliken.
+1. Klicka på **[!UICONTROL Admins]** -fliken.
 
    ![](assets/add-or-remove-a-product-admin-14.png)
 
-1. Välj den administratör som du vill ta bort och klicka på **Ta bort administratör** -knappen.
+1. Välj den administratör som du vill ta bort och klicka på **[!UICONTROL Remove Admin]** -knappen.
 
    ![](assets/add-or-remove-a-product-admin-15.png)
 
-1. Klicka **Ta bort administratör** för att bekräfta.
+1. Klicka **[!UICONTROL Remove Admin]** för att bekräfta.
 
    ![](assets/add-or-remove-a-product-admin-16.png)
 
