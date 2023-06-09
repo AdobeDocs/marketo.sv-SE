@@ -2,9 +2,9 @@
 description: E-postverifiering - Marketo Docs - produktdokumentation
 title: E-postverifiering
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: 7c168abc79e88c9d90786c4d5b86acbc8e0423b6
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '403'
 ht-degree: 0%
 
 ---
@@ -29,11 +29,11 @@ Användarna får följande mejl när e-postverifiering aktiveras för en prenume
 
 >[!NOTE]
 >
->Om du vill skicka ett bekräftelsemeddelande till en overifierad användare igen markerar du användarens post och klickar på knappen **Verifiera e-post** -knappen.
+>Om du vill skicka ett bekräftelsemeddelande till en overifierad användare igen markerar du användarens post och klickar på knappen **[!UICONTROL Verify Email]** -knappen.
 
 ## Ändra en e-postadress {#changing-an-email-address}
 
-När en användares e-postadress ändras blir den inte verifierad. Ett e-postmeddelande skickas till dem där de kan verifiera igen. Användarna kan skicka om e-postmeddelandet manuellt genom att klicka på **Skicka verifiering igen**.
+När en användares e-postadress ändras blir den inte verifierad. Ett e-postmeddelande skickas till dem där de kan verifiera igen. Användarna kan skicka om e-postmeddelandet manuellt genom att klicka på **[!UICONTROL Resend Verification]**.
 
 ![](assets/email-verification-2.png)
 
@@ -41,7 +41,7 @@ När en användares e-postadress ändras blir den inte verifierad. Ett e-postmed
 
 ## Användare och roller {#users-and-roles}
 
-I **Administratör** > **Användare och roller** visas verifieringsstatusen för varje användare i kolumnen E-poststatus.
+I **[!UICONTROL Admin]** > **[!UICONTROL Users & Roles]** visas verifieringsstatusen för varje användare i kolumnen E-poststatus.
 
 ![](assets/email-verification-4.png)
 

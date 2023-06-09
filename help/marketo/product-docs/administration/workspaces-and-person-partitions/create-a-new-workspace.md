@@ -3,10 +3,10 @@ unique-page-id: 2360311
 description: Skapa en ny arbetsyta - Marketo Docs - produktdokumentation
 title: Skapa en ny arbetsyta
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
-source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '198'
+ht-degree: 1%
 
 ---
 
@@ -31,28 +31,27 @@ Så här skapar du en ny arbetsyta.
 >
 >Om du vill veta mer om de bästa arbetssätten för Workspace kontaktar du [Marketo Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/create-a-new-workspace-1.png)
 
-1. Klicka **Arbetsytor och partitioner**.
+1. Klicka på **[!UICONTROL Workspaces & Partitions]**.
 
    ![](assets/create-a-new-workspace-2.png)
 
-1. Klicka **Ny arbetsyta**.
+1. Klicka på **[!UICONTROL New Workspace]**.
 
    ![](assets/create-a-new-workspace-3.png)
 
-1. Ange **Namn** och väljer **Personpartition(ar)** som du vill använda. Välj en **Primär personpartition**. Se till att [skapa personpartitioner](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} om du inte redan gjort det.
+1. Ange **[!UICONTROL Name]** och väljer **[!UICONTROL Person Partitions]** som du vill använda. Välj en **[!UICONTROL Primary Person Partition]**. Se till att [skapa personpartitioner](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} om du inte redan gjort det.
 
    ![](assets/create-a-new-workspace-4.png)
 
    >[!NOTE]
    >
-   >* The **Alla personpartitioner** betyder att den här arbetsytan kan använda alla personpartitioner i systemet.
+   >* The **[!UICONTROL All Person Partitions]** betyder att den här arbetsytan kan använda alla personpartitioner i systemet.
    >
-   >* The **primär personpartition** fungerar som standard och är den plats där alla personer tilldelas.
-
+   >* The **[!UICONTROL Primary Person Partition]** fungerar som standard och är den plats där alla personer tilldelas.
 
    >[!IMPORTANT]
    >
@@ -66,7 +65,7 @@ Så här skapar du en ny arbetsyta.
    >
    >När Marketo har skapat exempelmaterialet kommer det att flöda ut från arbetsytan. Språket gör att dessa dirigerade objekt kan vara på ett icke-engelskt språk.
 
-1. Klicka **Skapa**.
+1. Klicka på **[!UICONTROL Create]**.
 
    ![](assets/create-a-new-workspace-6.png)
 

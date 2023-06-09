@@ -3,10 +3,10 @@ unique-page-id: 2360323
 description: Redigera en befintlig personpartition - Marketo Docs - produktdokumentation
 title: Redigera en befintlig personpartition
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
-source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 1%
 
 ---
 
@@ -20,24 +20,24 @@ En personpartition är som att ha en andra (eller tredje) databas. En partition 
 
 >[!PREREQUISITES]
 >
->[Skapa en personpartition](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
+>[Skapa en personpartition](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/edit-an-existing-person-partition-1.png)
 
-1. Klicka **Arbetsytor och partitioner**.
+1. Klicka på **[!UICONTROL Workspaces & Partitions]**.
 
    ![](assets/edit-an-existing-person-partition-2.png)
 
-1. Under **Personpartitioner** väljer du den personpartition som du vill redigera och klickar på **Redigera personpartition**.
+1. Under **[!UICONTROL Person Partitions]** väljer du den personpartition som du vill redigera och klickar på **[!UICONTROL Edit Person Partition]**.
 
    ![](assets/edit-an-existing-person-partition-3.png)
 
-1. Ange personpartitionen **Namn**, **Arbetsytor** tillhör och klickar på **Spara**.
+1. Ange personpartitionen **[!UICONTROL Name]**, **[!UICONTROL Workspaces]** tillhör och klickar på **[!UICONTROL Save]**.
 
    ![](assets/edit-an-existing-person-partition-4.png)
 
-1. När du har sparat ändringarna bör du se uppdateringen!
+När du har sparat ändringarna bör du se uppdateringen!
 
-   ![](assets/edit-an-existing-person-partition-5.png)
+![](assets/edit-an-existing-person-partition-5.png)

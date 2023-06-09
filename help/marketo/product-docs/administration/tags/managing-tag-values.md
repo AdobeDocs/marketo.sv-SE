@@ -3,10 +3,10 @@ unique-page-id: 2360274
 description: Hantera taggvärden - Marketo Docs - Produktdokumentation
 title: Hantera taggvärden
 exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
-source-git-commit: f24a669b10e67bbacf88e3e6cef97c21331695ef
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 0%
+source-wordcount: '158'
+ht-degree: 1%
 
 ---
 
@@ -24,43 +24,43 @@ ht-degree: 0%
 
 ## Lägga till taggvärden {#adding-tag-values}
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/managing-tag-values-1.png)
 
-1. Klicka **Taggar**.
+1. Klicka på **[!UICONTROL Tags]**.
 
    ![](assets/managing-tag-values-2.png)
 
-1. Klicka **Nytt** sedan **Nytt taggvärde**.
+1. Klicka **[!UICONTROL New]** sedan **[!UICONTROL New Tag Value]**.
 
    ![](assets/managing-tag-values-3.png)
 
-1. Välj **Taggtyp**.
+1. Välj **[!UICONTROL Tag Type]**.
 
    ![](assets/managing-tag-values-4.png)
 
-1. Ange **Värde** och klicka **Lägg till ytterligare**. Du kan lägga till så många värden du vill.
+1. Ange **[!UICONTROL Value]** och klicka **[!UICONTROL Add Another]**. Du kan lägga till så många värden du vill.
 
    ![](assets/managing-tag-values-5.png)
 
-1. Lägg till återstående värden och klicka på **Skapa**.
+1. Lägg till återstående värden och klicka på **[!UICONTROL Create]**.
 
    ![](assets/managing-tag-values-6.png)
 
-1. Du borde se ändringarna direkt!
+Du borde se ändringarna direkt!
 
-   ![](assets/managing-tag-values-7.png)
+![](assets/managing-tag-values-7.png)
 
 ## Dölja taggvärden {#hiding-tag-values}
 
 Taggar kan användas i äldre program. Du kan ta bort dem för framtida bruk genom att dölja taggtypen.
 
-1. Välj **Tagg** och väljer **Värde** du vill gömma dig.
+1. Välj **[!UICONTROL Tag]** och väljer **[!UICONTROL Value]** du vill gömma dig.
 
    ![](assets/managing-tag-values-8.png)
 
-1. Under **Taggåtgärder**, markera **Dölj**.
+1. Under **[!UICONTROL Tag Actions]** väljer du **[!UICONTROL Hide]**.
 
    ![](assets/managing-tag-values-9.png)
 
@@ -68,7 +68,7 @@ Taggar kan användas i äldre program. Du kan ta bort dem för framtida bruk gen
 
 Om du vill se dina dolda värden igen gör du följande:
 
-1. Markera rutan Visa dolda. När du har markerat det här alternativet kan du se det dolda värdet.
+1. Välj **[!UICONTROL Show Hidden]** kryssrutan. När du har markerat det här alternativet kan du se det dolda värdet.
 
    ![](assets/managing-tag-values-10.png)
 

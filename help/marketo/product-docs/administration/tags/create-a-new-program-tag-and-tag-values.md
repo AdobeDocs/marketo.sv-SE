@@ -3,10 +3,10 @@ unique-page-id: 2360272
 description: Skapa ett nytt programmärke och taggvärden - Marketo Docs - Produktdokumentation
 title: Skapa en ny programtagg och taggvärden
 exl-id: 67300761-df6d-45ce-850f-4443789a3be9
-source-git-commit: 48c2d1deea84ee747ecc2453e770ad33dd49f578
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 0%
+source-wordcount: '150'
+ht-degree: 2%
 
 ---
 
@@ -26,19 +26,19 @@ Du kan skapa egna [taggar](/help/marketo/product-docs/core-marketo-concepts/prog
 >
 >Programtaggvärde: SMB, Enterprise, Mid Market
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/create-a-new-program-tag-and-tag-values-1.png)
 
-1. Klicka **Taggar**.
+1. Klicka på **[!UICONTROL Tags]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-2.png)
 
-1. Klicka **Nytt** och markera **Ny taggtyp**.
+1. Klicka på **[!UICONTROL New]** och välj **[!UICONTROL New Tag Type]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-3.png)
 
-1. Ange **Taggtyp** och en tagg **Värde**. Klicka sedan på **Lägg till ytterligare**.
+1. Ange **[!UICONTROL Tag Type]** och en tagg **[!UICONTROL Value]**. Klicka sedan på **[!UICONTROL Add Another]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-4.png)
 
@@ -50,13 +50,13 @@ Du kan skapa egna [taggar](/help/marketo/product-docs/core-marketo-concepts/prog
    >
    >Du kan välja flera programtyper. När ett nytt program skapas blir den här taggtypen tillgänglig.
 
-1. Kontrollera **Obligatoriskt** och klicka **Skapa**.
+1. Kontrollera **[!UICONTROL Required]** och klicka **[!UICONTROL Create]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-6.png)
 
    >[!NOTE]
    >
-   >Om taggtypen är **Obligatoriskt** måste användarna ange ett värde för taggen när de skapar ett nytt program.
+   >Om taggtypen är **[!UICONTROL Required]** måste användarna ange ett värde för taggen när de skapar ett nytt program.
 
    ![](assets/create-a-new-program-tag-and-tag-values-7.png)
 

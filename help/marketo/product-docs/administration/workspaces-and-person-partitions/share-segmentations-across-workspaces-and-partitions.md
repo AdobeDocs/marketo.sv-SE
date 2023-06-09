@@ -3,9 +3,9 @@ unique-page-id: 7515767
 description: Dela segment mellan arbetsytor och partitioner - Marketo Docs - produktdokumentation
 title: Dela segment mellan arbetsytor och partitioner
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
-source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '463'
 ht-degree: 0%
 
 ---
@@ -38,10 +38,10 @@ När du har konfigurerat dessa profiler (_och_ om du använder arbetsytor) bör 
       * Godkänn segmenteringen
       * Den delade arbetsytan ser en låst mapp och segmenteringen är skrivskyddad.
       * Det går inte att redigera den delade versionen. Du kan bara redigera det ursprungliga segmentet där det skapades.
+
    * När du klickar på ett segment (t.ex. Sjukvård) inom ett delat segment, kommer de personer du ser endast att vara personer i den partition som är kopplad till den arbetsyta du visar.
       * Om du skapar en segmentering i Workspace 1 (WS1) och delar den med WS2 och WS1 inte har åtkomst till partitionen för WS2, kommer segmenteringen INTE att beräknas om.
       * Om du skapar en segmentering på en arbetsyta som har begränsade partitioner och sedan delar den med en annan arbetsyta, kommer den arbetsytan som fick den delade segmenteringen endast att se personer om de överlappar varandra.
-
 
 >[!NOTE]
 >
@@ -55,15 +55,15 @@ När du har konfigurerat dessa profiler (_och_ om du använder arbetsytor) bör 
 
 ## Dela en segmentering {#share-a-segmentation}
 
-1. Gå till **Databas**.
+1. Gå till **[!UICONTROL Database]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-3.png)
 
-1. Högerklicka **Segmenteringar** och markera **Ny mapp**.
+1. Högerklicka **[!UICONTROL Segmentations]** och markera **[!UICONTROL New Folder]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-4.png)
 
-1. Namnge mappen som du vill dela mellan arbetsytor (exempel: Dela segment) och klicka på **Skapa**.
+1. Namnge mappen som du vill dela mellan arbetsytor (exempel: Dela segment) och klicka på **[!UICONTROL Create]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-5.png)
 
@@ -71,11 +71,11 @@ När du har konfigurerat dessa profiler (_och_ om du använder arbetsytor) bör 
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-6.png)
 
-1. Högerklicka på mappen och välj **Dela mapp**.
+1. Högerklicka på mappen och välj **[!UICONTROL Share Folder]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-7.png)
 
-1. Markera den eller de arbetsytor som du vill dela mappen med. Klicka **Spara**.
+1. Markera den eller de arbetsytor som du vill dela mappen med. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-8.png)
 

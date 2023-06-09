@@ -3,10 +3,10 @@ unique-page-id: 2359906
 description: Hantera Marketo-användare - Marketo Docs - produktdokumentation
 title: Hantera Marketo-användare
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
-source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 0%
+source-wordcount: '312'
+ht-degree: 2%
 
 ---
 
@@ -14,27 +14,27 @@ ht-degree: 0%
 
 ## Skapa användare {#create-users}
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/managing-marketo-users-1.png)
 
-1. Klicka **Användare och roller**.
+1. Klicka på **[!UICONTROL Users & Roles]**.
 
    ![](assets/managing-marketo-users-2.png)
 
-1. Klicka **Bjud in ny användare**.
+1. Klicka på **[!UICONTROL Invite New User]**.
 
    ![](assets/managing-marketo-users-3.png)
 
-1. Ange **E-postadress**, **Förnamn** och **Efternamn**.
+1. Ange **[!UICONTROL Email]**, **[!UICONTROL First Name]** och **[!UICONTROL Last Name]**.
 
    ![](assets/managing-marketo-users-4.png)
 
-1. Du kan också ange en orsak till inbjudan och välja ett förfallodatum i dialogrutan **Åtkomst upphör** med datumväljaren.
+1. Du kan också ange en orsak till inbjudan och välja ett förfallodatum i dialogrutan **[!UICONTROL Access Expires]** med datumväljaren.
 
    ![](assets/managing-marketo-users-5.png)
 
-1. Klicka **Nästa**.
+1. Klicka på **[!UICONTROL Next]**.
 
    ![](assets/managing-marketo-users-6.png)
 
@@ -46,11 +46,11 @@ ht-degree: 0%
    >
    >När förfallodatumet inkommer får användaren ett meddelande om förfallodatum och kontot är låst.
 
-1. Välj **Roll** efter eget val och klicka **Nästa**.
+1. Välj **[!UICONTROL Role]** efter eget val och klicka **[!UICONTROL Next]**.
 
    ![](assets/managing-marketo-users-7.png)
 
-1. Redigera inbjudningsmeddelandet om det behövs. Klicka **Skicka**.
+1. Redigera inbjudningsmeddelandet om det behövs. Klicka **Seend**.
 
    ![](assets/managing-marketo-users-8.png)
 
@@ -68,37 +68,37 @@ Den nya användaren visas nu på fliken Användare och får ett e-postmeddelande
 
 ## Ta bort användare {#delete-users}
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/managing-marketo-users-10.png)
 
-1. Klicka **Användare och roller**.
+1. Klicka på **[!UICONTROL Users & Roles]**.
 
    ![](assets/managing-marketo-users-11.png)
 
-1. Markera den användare som du vill ta bort och klicka på **Ta bort användare**.
+1. Markera den användare som du vill ta bort och klicka på **[!UICONTROL Delete User]**.
 
    ![](assets/managing-marketo-users-12.png)
 
-1. Bekräfta genom att klicka **OK**.
+1. Bekräfta genom att klicka **[!UICONTROL OK]**.
 
    ![](assets/managing-marketo-users-13.png)
 
 ## Återställ användarlösenord {#reset-user-passwords}
 
-1. Gå till området Admin.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/managing-marketo-users-14.png)
 
-1. Klicka **Användare och roller**.
+1. Klicka på **[!UICONTROL Users & Roles]**.
 
    ![](assets/managing-marketo-users-15.png)
 
-1. Välj en användare och klicka på **Återställ lösenord**.
+1. Välj en användare och klicka på **[!UICONTROL Reset Password]**.
 
    ![](assets/managing-marketo-users-16.png)
 
-1. Klicka **Stäng** för att stänga uppmaningen.
+1. Klicka **[!UICONTROL Close]** för att stänga uppmaningen.
 
    ![](assets/managing-marketo-users-17.png)
 
@@ -110,19 +110,19 @@ Användaren får ett e-postmeddelande med instruktioner för lösenordsåterstä
 
 ## Ändra behörigheter och redigera användarinformation {#change-permissions-and-edit-user-information}
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/managing-marketo-users-18.png)
 
-1. Klicka **Användare och roller**.
+1. Klicka på **[!UICONTROL Users & Roles]**.
 
    ![](assets/managing-marketo-users-19.png)
 
-1. Välj en användare och klicka på **Redigera användare**.
+1. Välj en användare och klicka på **[!UICONTROL Edit User]**.
 
    ![](assets/managing-marketo-users-20.png)
 
-1. Du kan redigera användarinformation och ändra den associerade rollen. Klicka **Spara**.
+1. Du kan redigera användarinformation och ändra den associerade rollen. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/managing-marketo-users-21.png)
 

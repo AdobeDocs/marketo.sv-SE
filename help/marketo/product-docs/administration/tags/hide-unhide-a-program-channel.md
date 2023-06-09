@@ -3,10 +3,10 @@ unique-page-id: 2360276
 description: Dölj/visa en programkanal - Marketo Docs - produktdokumentation
 title: Dölj/visa en programkanal
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
-source-git-commit: f24a669b10e67bbacf88e3e6cef97c21331695ef
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 0%
+source-wordcount: '97'
+ht-degree: 1%
 
 ---
 
@@ -20,19 +20,19 @@ Du kan [ta bort en programkanal](/help/marketo/product-docs/administration/tags/
 
 ## Dölj en programkanal {#hide-a-program-channel}
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/hide-unhide-a-program-channel-1.png)
 
-1. Klicka **Taggar**.
+1. Klicka på **[!UICONTROL Tags]**.
 
    ![](assets/hide-unhide-a-program-channel-2.png)
 
-1. Klicka på **Kanal** och väljer **Kanal** att dölja.
+1. Klicka på **[!UICONTROL Channel]** och väljer **[!UICONTROL Channel]** att dölja.
 
    ![](assets/hide-unhide-a-program-channel-3.png)
 
-1. Under **Taggåtgärder**, klicka på **Dölj**.
+1. Under **[!UICONTROL Tag Actions]**, klicka på **[!UICONTROL Hide]**.
 
    ![](assets/hide-unhide-a-program-channel-4.png)
 

@@ -3,9 +3,9 @@ unique-page-id: 2360309
 description: Förstå arbetsytor och personpartitioner - Marketo Docs - produktdokumentation
 title: Arbetsytor och personpartitioner
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '510'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Arbetsytor är separata områden i Marketo som innehåller marknadsföringsresur
 >En del orsaker till att du använder en arbetsyta:
 >
 >* Geografi: Marknadsföringsavdelningarna i Europa, Asien och Nordamerika får båda en arbetsyta
->* Affärsenhet: Snabbböcker, QuickBooks och TurboTax ger båda en arbetsyta
+>* Affärsenhet: [!DNL Quicken], [!DNL Quickbooks] och [!DNL TurboTax] får du en arbetsyta
 >
 >I båda fallen beror separationen på att marknadsföringsresurserna är helt olika. Om de delar marknadsföringsresurser kanske inte arbetsytorna är rätt verktyg för dig.
 
@@ -43,15 +43,15 @@ Så här delar du resurser mellan arbetsytor. Det fungerar på samma sätt för 
 >
 >Den överordnade mappen som innehåller dina resurser är den enda mappen som kan delas, inte de underordnade mapparna.
 
-1. Klicka på Databas.
+1. Klicka på **[!UICONTROL Database]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-1.png)
 
-1. Högerklicka på segmenteringsmappen och klicka på **Ny mapp**.
+1. Högerklicka på segmenteringsmappen och klicka på **[!UICONTROL New Folder]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-2.png)
 
-1. Namnge mappen och klicka på **Skapa**.
+1. Namnge mappen och klicka på **[!UICONTROL Create]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-3.png)
 
@@ -59,11 +59,11 @@ Så här delar du resurser mellan arbetsytor. Det fungerar på samma sätt för 
 
    ![](assets/understanding-workspaces-and-person-partitions-4.png)
 
-1. Högerklicka på mappen och välj **Dela mapp**.
+1. Högerklicka på mappen och välj **[!UICONTROL Share Folder]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
-1. Markera arbetsytan/arbetsytorna som du vill dela mappen med och klicka på **Spara**. I dialogrutan Dela mapp visas endast arbetsytor som du har behörighet att visa.
+1. Markera arbetsytan/arbetsytorna som du vill dela mappen med och klicka på **[!UICONTROL Save]**. I dialogrutan Dela mapp visas endast arbetsytor som du har behörighet att visa.
 
    ![](assets/understanding-workspaces-and-person-partitions-6.png)
 
@@ -118,7 +118,6 @@ Du kan tilldela personpartitioner till  [arbetsytor](create-a-new-workspace.md) 
 >
 >* Dina arbetsytor har inte bara olika resurser, de delar inga personer
 >* Du vill ha dubbletter av andra affärsskäl
-
 
 >[!CAUTION]
 >

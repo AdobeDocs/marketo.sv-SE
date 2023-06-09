@@ -3,9 +3,9 @@ unique-page-id: 6848747
 description: Beskrivningar av rollbehörigheter - Marketo Docs - produktdokumentation
 title: Beskrivningar av rollbehörigheter
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
-source-git-commit: 27eb6dedaae60616fe871d0a3ac4f38b5b4ecfd4
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1137'
 ht-degree: 0%
 
 ---
@@ -33,8 +33,8 @@ Visa och gör ändringar i inställningarna under Mitt konto i Admin.
 * Åtkomst till granskningsspår - Ger användare åtkomst till både resursgranskningsspår och administratörsgranskningsspår
 * Åtkomstkanaler - Ger användarna åtkomst endast för att ändra kanaltaggen, inte andra anpassade taggar
 * Kommunikationsgräns för åtkomst - Ger användarna åtkomst för att aktivera en kommunikationsgräns i Admin
-* Access CRM - Ger användare åtkomst till CRM, som Salesforce eller Microsoft Dynamics, i Admin
-* Åtkomst [Data.com](https://Data.com) - Ger användare åtkomst till flödesåtgärden på Data.com
+* Access CRM - Ger användarna åtkomst till CRM, t.ex. [!DNL Salesforce] eller [!DNL Microsoft Dynamics], i Admin
+* Åtkomst [[!DNL Data.com]](https://Data.com) - Ger användare åtkomst till flödesåtgärden på Data.com
 * Åtkomst till e-postadministratör - Ger användare behörighet att ändra standardinställningar, som att avbeställa prenumerationer och ange varumärke
 * Åtkomst till händelsepartners - Ger användarna åtkomst till LaunchPoint i Admin
 * Fälthantering för åtkomst - ger användarna åtkomst till fälthantering i Admin
@@ -45,7 +45,7 @@ Visa och gör ändringar i inställningarna under Mitt konto i Admin.
 * Åtkomst till inloggningsinställningar - Ger användarna åtkomst till inloggningsinställningar i Admin för inställningar av säkerhet, IP-begränsningar och Smart List-rapporter
 * Åtkomst till anpassad aktivitet för Marketo - Ger användare åtkomst till anpassade aktiviteter för Marketo i Admin
 * Åtkomst till anpassat Marketo-objekt - Ger användare åtkomst till anpassade Marketo-objekt i administratören
-* Access Munchkin - glittrar användare tillgång till Munchkin i Admin för att ställa in spårningskod, personspårning och aktivera API-konfiguration
+* Åtkomst [!DNL Munchkin] - GIves-användare åtkomst till [!DNL Munchkin] i Admin, för att ange spårningskod, personspårning och aktivera API-konfiguration
 * Access Revenue Cycle Analytics (Åtkomstcykelanalys) - Ger användarna tillgång till Intäktscykelanalys i Admin, för inställning av Synkroniseringssammanfattning och Attribution
 * Åtkomstroller - Ger användare åtkomst till att hantera och redigera roller, men inte användare
 * Access Sales Insight - Ger användare åtkomst till att hantera Sales Insight i Admin för att ange status, API-konfiguration, personbedömning och andra inställningar

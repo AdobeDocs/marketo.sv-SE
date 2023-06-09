@@ -3,10 +3,10 @@ unique-page-id: 2360327
 description: Tilldela personpartitioner med tilldelningsregler - Marketo Docs - produktdokumentation
 title: Tilldela personpartitioner med tilldelningsregler
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 0%
+source-wordcount: '159'
+ht-degree: 1%
 
 ---
 
@@ -26,19 +26,19 @@ När du använder personpartitioner ska du ställa in tilldelningsregler för at
 >
 >Endast personer som har skapats i Marketo från din CRM och via SOAP API:t kommer att ha tilldelningsregler tillämpade på dem.
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-1.png)
 
-1. Klicka **Arbetsytor och partitioner**.
+1. Klicka på **[!UICONTROL Workspaces & Partitions]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-2.png)
 
-1. Under **Personpartitioner** flik, klicka **Uppdragsregler**.
+1. Under **[!UICONTROL Person Partitions]** flik, klicka **[!UICONTROL Assignment Rules]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-3.png)
 
-1. Klicka **Lägg till alternativ** för att lägga till villkor för att dirigera personer till personpartitioner.
+1. Klicka **[!UICONTROL Add Choice]** för att lägga till villkor för att dirigera personer till personpartitioner.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-4.png)
 
@@ -58,7 +58,7 @@ När du använder personpartitioner ska du ställa in tilldelningsregler för at
    >
    >Du kan lägga till så många alternativ du vill.
 
-1. Klicka **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-8.png)
 

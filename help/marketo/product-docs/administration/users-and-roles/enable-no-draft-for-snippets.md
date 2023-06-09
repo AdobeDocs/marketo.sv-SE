@@ -3,9 +3,9 @@ unique-page-id: 10095636
 description: Aktivera No-draft för kodfragment - Marketo Docs - produktdokumentation
 title: Aktivera No-draft för kodfragment
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
-source-git-commit: 247452f2149dee1680bb15800a39f6686aa324f2
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -24,34 +24,34 @@ Inget utkast aktiveras automatiskt för alla administratörsroller. En administr
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/enable-no-draft-for-snippets-1.png)
 
-1. Klicka **Användare och roller**.
+1. Klicka på **[!UICONTROL Users & Roles]**.
 
    ![](assets/enable-no-draft-for-snippets-2.png)
 
-1. Gå till **Roller** väljer du en roll och klickar sedan på **Redigera roll**.
+1. Gå till **[!UICONTROL Roles]** väljer du en roll och klickar sedan på **[!UICONTROL Edit Role]**.
 
    ![](assets/enable-no-draft-for-snippets-3.png)
 
-1. Expandera **Access Design Studio** alternativ.
+1. Expandera **[!UICONTROL Access Design Studio]** alternativ.
 
    ![](assets/enable-no-draft-for-snippets-4.png)
 
-1. Expandera **Åtkomstfragment** alternativ.
+1. Expandera **[!UICONTROL Access Snippet]** alternativ.
 
    ![](assets/enable-no-draft-for-snippets-5.png)
 
-1. Expandera **Godkänn fragment** behörighet och kontrollera **Ej utkast** box. Klicka sedan på **Spara**.
+1. Expandera **[!UICONTROL Approve Snippet]** behörighet och kontrollera **[!UICONTROL No-Draft]** box. Klicka sedan på **[!UICONTROL Save]**.
 
    ![](assets/enable-no-draft-for-snippets-6.png)
 
 >[!TIP]
 >
->Om du vill inaktivera No-draft följer du steg 1-4 ovan, avmarkerar kryssrutan No-Draft och klickar på **Spara**.
+>Om du vill inaktivera No-draft följer du steg 1-4 ovan, avmarkerar kryssrutan No-Draft och klickar på **[!UICONTROL Save]**.
 
 >[!MORELIKETHIS]
 >
->[Godkänn ett kodfragment utan utkast](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
+>[Godkänn ett kodfragment utan utkast](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md){target="_blank"}
