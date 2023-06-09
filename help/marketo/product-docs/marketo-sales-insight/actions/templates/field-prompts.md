@@ -1,7 +1,7 @@
 ---
 description: Fältfrågor - Marketo Docs - produktdokumentation
 title: Fältfrågor
-source-git-commit: b4773137bf21eccc58a6d975d50748e8ff2a57db
+source-git-commit: 7c168abc79e88c9d90786c4d5b86acbc8e0423b6
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -23,6 +23,8 @@ Skriv ut önskad text om du vill lägga till en fältkommando. Använd ett utrop
 `{{! Add sentence that references their industry and role}}`
 
 <p>Användarna måste ersätta den här texten med sin egen personalisering innan e-postmeddelandet kan skickas.
+
+![](assets/field-prompts-1.png)
 
 >[!NOTE]
 >
