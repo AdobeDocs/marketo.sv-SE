@@ -2,9 +2,9 @@
 description: Dynamiska fält - Marketo Docs - produktdokumentation
 title: Dynamiska fält
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
-source-git-commit: 466df1fbd561860152f9fea02edb6eab5670c90a
+source-git-commit: 6d4a093d0ce0158028177cc4a4088526ccf79f9d
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '487'
 ht-degree: 0%
 
 ---
@@ -37,13 +37,13 @@ Kopiera dem manuellt och klistra in dem i ämnesfältet i ett e-postmeddelande. 
 
 När du lägger till dynamiska fält i e-postmallar kan du lägga till ett standardvärde som det dynamiska fältet kommer att resultera i om det inte finns något annat värde tillgängligt.
 
-Lägg till &quot;|&quot; efter etiketten för det dynamiska fältet och lägg sedan till &quot;default:&quot;. Lägg sedan till det värde som du vill att fältet ska matchas till om inget annat värde hittas.
+Det gör du genom att lägga till &quot;|&quot; efter etiketten för det dynamiska fältet och sedan lägga till &quot;default:&quot; (båda utan citattecken). Lägg sedan till värdet som du vill att fältet ska matchas till (omslutna med citattecken) om inget annat värde hittas.
 
 **Exempel:**
 
-`{{first name | default: loyal customer}}`
+`{{first name | default: "loyal customer"}}`
 
-`{{sfdc_contact_account_name | default: your company}}`
+`{{sfdc_contact_account_name | default: "your company"}}`
 
 ## Ordlista för dynamiska fält {#dynamic-fields-glossary}
 
