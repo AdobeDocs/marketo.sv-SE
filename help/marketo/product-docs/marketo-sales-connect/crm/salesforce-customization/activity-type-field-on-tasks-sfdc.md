@@ -3,7 +3,7 @@ unique-page-id: 14352476
 description: SFDC (Activity Type Field on Task) - Marketo Docs - produktdokumentation
 title: SFDC (Activity Type Field on Task)
 exl-id: b291e641-d3af-4667-a01c-cd491cd87add
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 46c48172a58cf6bd2e9772ef57510fd7d808adc2
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -37,7 +37,7 @@ Kontrollera först att du har rätt plocklistevärden på plats. Du behöver hj�
 1. Du finns nu i listan över uppgiftstyper. Kontrollera att du inte har valt &#39;Standard&#39;.
 1. Kontrollera att det finns ett typvärde för E-post, Ring och Svara.
 
-Nu när detta är på plats börjar du se textfältet fylla i motsvarande värde för loggade e-postmeddelanden, samtal och svar. Dessa värden **not** fylls i på påminnelseuppgifter för Sales Connect.
+Nu när detta är på plats börjar du se textfältet fylla i motsvarande värde för loggade e-postmeddelanden, samtal och svar. Dessa värden _not_ fylls i på påminnelseuppgifter för Sales Connect.
 
 >[!NOTE]
 >
