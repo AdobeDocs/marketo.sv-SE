@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 466df1fbd561860152f9fea02edb6eab5670c90a
+source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
 workflow-type: tm+mt
-source-wordcount: '8906'
+source-wordcount: '8911'
 ht-degree: 0%
 
 ---
@@ -628,7 +628,7 @@ ht-degree: 0%
          + [Webbläsarmeddelanden](product-docs/demand-generation/dynamic-chat/browser-notifications.md)
          + [Konfiguration](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [Chatbot-beteende](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
-         + [Dynamiska chattaktiviteter](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+         + [Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
          + Schemaläggning av avtalad tid {#appointment-scheduling}
             + [Kalender](product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md)
             + [Möten](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
@@ -1346,11 +1346,11 @@ ht-degree: 0%
                + [Svarsloggning](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Salesforce-diagnostik](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [Synkroniseringsinställningar för Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
-            + Salesforce-konfiguration {#salesforce-configuration}
-               + [Loggningsattribut för försäljningsaktivitet till Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/logging-sales-activity-attributes-to-salesforce.md)
-               + [Konfiguration av åtgärder för försäljningsinsikter i Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
-               + [Avinstallera Salesforce Classic Customization Package](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
-               + [Avinstallera Salesforce Lightning Customization Package](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
+            + Konfiguration av Salesforce-paket {#salesforce-package-configuration}
+               + [Loggningsattribut för försäljningsaktivitet till Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
+               + [Konfiguration av åtgärder för försäljningsinsikter i Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
+               + [Avinstallera Marketo Sales Connect från Salesforce Classic](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-classic.md)
+               + [Avinstallera Marketo Sales Connect från Salesforce Lightning](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
          + E-post {#email}
             + Kommandocentral {#command-center}
                + [Översikt över avancerad sökning](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)

@@ -2,7 +2,7 @@
 description: Sales Insight Actions Admin Setup Guide - Marketo Docs - produktdokumentation
 title: Handbok för administration av Sales Insight Actions
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: 7249a7e7cd1879d35fedef0a6e3568fbc2872ef9
+source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 0%
@@ -19,7 +19,6 @@ ht-degree: 0%
 >
 >* Bekräfta med kontoteamet (din kontohanterare) på Adobe att MSI-åtgärder har aktiverats för ditt Marketo Engage-konto (om du inte har någon kontohanterare kontaktar du [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}).
 >* Din Marketo/Salesforce-synkronisering måste vara konfigurerad.
-
 
 <table>
  <tr>
@@ -190,4 +189,4 @@ Du får ett bekräftelsemeddelande när inbjudningarna har skickats.
 
 >[!NOTE]
 >
->När detta är klart kan du antingen uppgradera ditt befintliga MSI-paket eller installera ett nytt och gå vidare till [konfigurera MSI-åtgärder i Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"}.
+>När detta är klart kan du antingen uppgradera ditt befintliga MSI-paket eller installera ett nytt och gå vidare till [konfigurera MSI-åtgärder i Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"}.
