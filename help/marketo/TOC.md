@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 46c48172a58cf6bd2e9772ef57510fd7d808adc2
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
-source-wordcount: '8920'
+source-wordcount: '8933'
 ht-degree: 0%
 
 ---
@@ -622,13 +622,13 @@ ht-degree: 0%
          + [Lägg till LinkedIn Matched Audiences som en LaunchPoint-tjänst](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Skicka en lista till ett annonsnätverk](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Dynamiskt chatt {#dynamic-chat}
-         + [Översikt över Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
+         + [Dynamisk chattöversikt](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Inledande konfiguration](product-docs/demand-generation/dynamic-chat/initial-setup.md)
          + [Lägg till eller ta bort chattanvändare](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [Webbläsarmeddelanden](product-docs/demand-generation/dynamic-chat/browser-notifications.md)
          + [Konfiguration](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [Chatbot-beteende](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
-         + [Dynamiska chattaktiviteter](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+         + [Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
          + Schemaläggning av avtalad tid {#appointment-scheduling}
             + [Kalender](product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md)
             + [Möten](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
@@ -1345,7 +1345,7 @@ ht-degree: 0%
                + [Koppla från Salesforce från försäljningsåtgärder](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
                + [Svarsloggning](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Salesforce-diagnostik](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
-               + [Synkroniseringsinställningar för Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+               + [Synkronisera försäljningsaktiviteter till Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
             + Konfiguration av Salesforce-paket {#salesforce-package-configuration}
                + [Loggningsattribut för försäljningsaktivitet till Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
                + [Konfiguration av åtgärder för försäljningsinsikter i Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
@@ -1395,6 +1395,7 @@ ht-degree: 0%
             + [Vilka villkor gäller för Sales Insight Actions?](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
             + [Varför skickas inte mina kontakter till försäljningsåtgärder?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
             + [Varför fylls inte mina dynamiska fält ut?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md)
+            + [Varför synkroniseras inte mina försäljningsaktiviteter och aktivitetsfält till Salesforce?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce.md)
             + [Varför kan jag inte ta bort en kontakt?](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
             + [Varför skickades inte alla mina kontakter till säljinsiktåtgärder?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [Varför visas inte spårningsaktivitet i Salesforce-aktivitet?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)

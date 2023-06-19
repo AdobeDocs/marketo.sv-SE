@@ -1,9 +1,10 @@
 ---
 description: Uppdatera aktivitetstypfält vid loggning av aktiviteter till Salesforce - Marketo Docs - produktdokumentation
 title: Uppdatera aktivitetstypfält vid loggning av aktiviteter till Salesforce
-source-git-commit: 46c48172a58cf6bd2e9772ef57510fd7d808adc2
+exl-id: f65d7d97-ec65-4210-9381-02be788498f9
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
@@ -59,4 +60,4 @@ Nu när detta är på plats börjar du se textfältet fylla i motsvarande värde
 >
 >* [Loggningsattribut för försäljningsaktivitet till Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}
 >* [Konfigurera detaljanpassning av Salesforce-aktivitet](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md){target="_blank"}
->* [Synkroniseringsinställningar för Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md){target="_blank"}
+>* [Synkronisera försäljningsaktiviteter till Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md){target="_blank"}

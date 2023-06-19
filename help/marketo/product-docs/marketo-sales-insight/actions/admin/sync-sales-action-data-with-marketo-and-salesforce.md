@@ -2,9 +2,9 @@
 description: Synkronisera säljåtgärdsdata med Marketo och Salesforce - Marketo Docs - produktdokumentation
 title: Synkronisera säljåtgärdsdata med Marketo och Salesforce
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 3e0836fd9f40436564c7b2d8bb58a7f771e49c33
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
-source-wordcount: '1062'
+source-wordcount: '1064'
 ht-degree: 0%
 
 ---
@@ -112,13 +112,12 @@ Med Sales Insight Actions kan administratörer konfigurera vilka försäljningsa
 
 ![](assets/actions-data-sync-faq-6.png)
 
-Diagrammet ovan visar vilken information som loggas till Salesforce. Aktiviteter som e-post och samtal loggas till Salesforce i en [enkelriktad synkronisering](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md). [Avbeställ](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) och [Påminnelseaktiviteter](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) hålls uppdaterade med tvåvägssynkronisering. Var och en av dessa datasynkroniseringar kan konfigureras från webbappen Sales Insight Actions.
+Diagrammet ovan visar vilken information som loggas till Salesforce. Aktiviteter som e-post och samtal loggas till Salesforce i en [enkelriktad synkronisering](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md). [Avbeställ](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) och [Påminnelseaktiviteter](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) hålls uppdaterade med tvåvägssynkronisering. Var och en av dessa datasynkroniseringar kan konfigureras från webbappen Sales Insight Actions.
 
 >[!MORELIKETHIS]
 >
 >* [Synkronisera avbeställningar med Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
 >* [Avbeställ Marketo](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
->* [Synkroniseringsinställningar för Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+>* [Synkronisera försäljningsaktiviteter till Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 >* [Synkronisering av påminnelseaktivitet med Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
 >* [Initiera datasynkronisering](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)
-

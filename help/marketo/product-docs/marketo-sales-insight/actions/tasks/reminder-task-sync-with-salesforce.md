@@ -2,7 +2,7 @@
 description: Synkronisering av påminnelseuppgifter med Salesforce - Marketo Docs - produktdokumentation
 title: Synkronisering av påminnelseaktivitet med Salesforce
 exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
 source-wordcount: '586'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Om du vill veta mer om hur du aktiverar uppgiftssynkronisering kan du checka ut [Synkronisera uppgifter/påminnelser för försäljningsinsikter till Salesforce-uppgifter](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks).
+>Om du vill veta mer om hur du aktiverar uppgiftssynkronisering kan du checka ut [Synkronisera uppgifter/påminnelser för försäljningsinsikter till Salesforce-uppgifter](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks).
 
 När inställningarna för uppgiftssynkronisering är aktiverade kommer användare att se sina påminnelseuppgifter dubbelsynkroniserade med Salesforce. Det innebär att användare kan hantera uppgifter från antingen Salesforce eller Sales Insight Actions och känna sig säkra på att systemen är anpassade efter varandra.
 

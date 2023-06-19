@@ -2,9 +2,9 @@
 description: Konfigurera detaljanpassning av Salesforce-aktivitet - Marketo Docs - produktdokumentation
 title: Konfigurera detaljanpassning av Salesforce-aktivitet
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
-source-git-commit: b490b10c5544defaad50163fa29bfd0c2ca0d902
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '709'
 ht-degree: 0%
 
 ---
@@ -14,8 +14,7 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* Salesforce och Sales Insight Actions [måste vara ansluten](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
->* Logga e-postaktivitet via API [måste vara aktiverat](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
-
+>* Logga e-postaktivitet via API [måste vara aktiverat](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 
 Med anpassning av aktivitetsdetalj kan administratörer konfigurera den information som ska logga in i Salesforce-aktivitetsfältet - Ämne när en Sales Insight-aktivitet/påminnelseaktivitet synkroniseras med Salesforce.
 
@@ -23,7 +22,6 @@ Med anpassning av aktivitetsdetalj kan administratörer konfigurera den informat
 >
 >* Uppdateringar som görs i ämnesfältet i Sales Insight Actions för en påminnelseuppgift återspeglas i motsvarande Salesforce-uppgifts ämnesfält, om du använder `{{activity_subject}}` dynamiskt fält i anpassning av aktivitetsdetalj.
 >* Radbrytningar stöds inte vid loggning av information till Salesforce-objektfältet. Eventuella radbrytningar i redigeraren för anpassning av aktivitetsinformation tas bort när en ny rubrik för en försäljningsuppgift uppdateras.
-
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -91,7 +89,7 @@ Dynamiska aktivitetsfält refererar till information om dina försäljningsaktiv
   <td>Om aktiviteten initierades från en försäljningskampanj fylls stegnumret i under försäljningskampanjdagen som aktiviteten inträffade på.</td>
  </tr>
  <tr>
-  <td>{{call_result}}</td>
+  <td>{{call_outcome}}</td>
   <td>Om aktiviteten är ett anrop och ett samtalsresultat väljs fylls värdet för anropsresultatet i.</td>
  </tr>
  <tr>
@@ -146,6 +144,5 @@ När du konfigurerar din aktivitetsinformation bör du tänka på vilka data som
 
 >[!MORELIKETHIS]
 >
->* [Synkronisera inställningar](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+>* [Synkronisera försäljningsaktiviteter till Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 >* [Synkronisering av påminnelseaktivitet med Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
-

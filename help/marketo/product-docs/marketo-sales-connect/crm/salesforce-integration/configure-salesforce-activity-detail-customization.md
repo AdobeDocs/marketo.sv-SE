@@ -2,7 +2,7 @@
 description: Konfigurera detaljanpassning av Salesforce-aktivitet - Marketo Docs - produktdokumentation
 title: Konfigurera detaljanpassning av Salesforce-aktivitet
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: 4967f6260f084c9382271aa10d15bb0f7e083e8d
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
 source-wordcount: '707'
 ht-degree: 0%
@@ -16,14 +16,12 @@ ht-degree: 0%
 >* Salesforce och Marketo Sales Connect [måste vara ansluten](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
 >* Logga e-postaktivitet via API [måste vara aktiverat](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
 
-
 Med anpassning av aktivitetsdetalj kan administratörer konfigurera den information som ska logga in i Salesforce-fältet Ämne när en Sales Connect-aktivitet/påminnelseaktivitet synkroniseras med Salesforce.
 
 >[!NOTE]
 >
 >* Uppdateringar som görs i ämnesfältet i Sales Connect för en påminnelseuppgift återspeglas i motsvarande Salesforce-uppgifts ämnesfält, om du använder `{{activity_subject}}` dynamiskt fält i anpassning av aktivitetsdetalj.
 >* Radbrytningar stöds inte vid loggning av information till Salesforce-objektfältet. Eventuella radbrytningar i redigeraren för anpassning av aktivitetsinformation tas bort när en ny rubrik för en försäljningsuppgift uppdateras.
-
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -91,7 +89,7 @@ Dynamiska aktivitetsfält refererar till information om dina försäljningsaktiv
   <td>Om aktiviteten initierades från en försäljningskampanj fylls stegnumret i under försäljningskampanjdagen som aktiviteten inträffade på.</td>
  </tr>
  <tr>
-  <td>{{call_result}}</td>
+  <td>{{call_outcome}}</td>
   <td>Om aktiviteten är ett anrop och ett samtalsresultat väljs fylls värdet för anropsresultatet i.</td>
  </tr>
  <tr>
@@ -149,4 +147,3 @@ När du konfigurerar din aktivitetsinformation bör du tänka på vilka data som
 >* [Synkronisera inställningar](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
 >* [Synkronisering av påminnelseaktivitet med Salesforce](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
 >* [Anpassa Sales Connect för CRM](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
-
