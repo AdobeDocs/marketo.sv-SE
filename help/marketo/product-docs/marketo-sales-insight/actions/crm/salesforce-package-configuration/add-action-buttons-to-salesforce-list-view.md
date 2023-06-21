@@ -1,11 +1,9 @@
 ---
 description: Lägg till åtgärdsknappar i Salesforce-listvyn - Marketo Docs - produktdokumentation
 title: Lägg till åtgärdsknappar i Salesforce-listvyn
-hide: true
-hidefromtoc: true
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -49,6 +47,6 @@ De åtgärdsknappar som ska installeras är:
 
 >[!MORELIKETHIS]
 >
->* Använda massutskick via e-post i Salesforce (måste skapas)
->* Använda Lägg till i säljkampanj gruppvis i Salesforce (behöver skapas)
+>* [Använda massutskick av e-post för försäljning i Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md){target="_blank"}
+>* [Använda Lägg till gruppvis i försäljningskampanj i Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md){target="_blank"}
 >* [Installera Marketo Sales Insight-paket i Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}

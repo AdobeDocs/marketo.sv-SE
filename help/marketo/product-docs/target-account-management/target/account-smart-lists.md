@@ -3,7 +3,7 @@ unique-page-id: 11378814
 description: Smarta kontolistor - Marketo Docs - produktdokumentation
 title: Smarta kontouppsättningar
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
-source-git-commit: adff42d54d7953c9ec72e4d736ce0153502be960
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
 source-wordcount: '508'
 ht-degree: 0%
@@ -64,7 +64,7 @@ Smarta kontolistor fungerar på liknande sätt som vanliga smarta listor, med et
 
    ![](assets/account-smart-lists-9.png)
 
-**Valfritt steg**: Här kommer behållare in. Om du väljer ytterligare ett filter för matchad person kan du släppa det under det första, eller _in_ den, skapa en behållare. I det här exemplet skapar vi en behållare genom att lägga till _Jobbtitel är CFO_.
+**VALFRITT STEG**: Här kommer behållare in. Om du väljer ytterligare ett filter för matchad person kan du släppa det under det första, eller _in_ den, skapa en behållare. I det här exemplet skapar vi en behållare genom att lägga till _Jobbtitel är CFO_.
 
 ![](assets/account-smart-lists-10.png)
 

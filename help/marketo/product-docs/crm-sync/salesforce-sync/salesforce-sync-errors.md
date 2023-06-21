@@ -2,7 +2,7 @@
 description: Salesforce-synkroniseringsfel - Marketo Docs - produktdokumentation
 title: Salesforce-synkroniseringsfel
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
@@ -51,6 +51,6 @@ Visa en sammanfattning av de fel som uppstod under synkroniseringsprocessen. Det
 
    ![](assets/salesforce-sync-errors-4.png)
 
-**Valfritt steg**: Om du vill exportera synkroniseringsfel klickar du på **Exportera**. Data exporteras som en CSV-fil.
+**VALFRITT STEG**: Om du vill exportera synkroniseringsfel klickar du på **Exportera**. Data exporteras som en CSV-fil.
 
 ![](assets/salesforce-sync-errors-5.png)

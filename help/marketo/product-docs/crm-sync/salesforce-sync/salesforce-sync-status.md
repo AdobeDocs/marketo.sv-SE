@@ -2,7 +2,7 @@
 description: Salesforce Sync Status - Marketo Docs - Produktdokumentation
 title: Status för Salesforce-synkronisering
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
 source-wordcount: '552'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Statistik sorteras som standard efter den senast startade. Du kan sortera efter 
 
    ![](assets/salesforce-sync-status-6.png)
 
-**Valfritt steg**: Om du vill exportera synkroniseringsfel klickar du på **Exportera**. Data exporteras som en CSV-fil.
+**VALFRITT STEG**: Om du vill exportera synkroniseringsfel klickar du på **Exportera**. Data exporteras som en CSV-fil.
 
 ![](assets/salesforce-sync-status-7.png)
 

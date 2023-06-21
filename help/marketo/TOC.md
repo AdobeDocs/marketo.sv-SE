@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
-source-wordcount: '8933'
+source-wordcount: '8958'
 ht-degree: 0%
 
 ---
@@ -1347,11 +1347,15 @@ ht-degree: 0%
                + [Salesforce-diagnostik](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [Synkronisera försäljningsaktiviteter till Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
             + Konfiguration av Salesforce-paket {#salesforce-package-configuration}
-               + [Loggningsattribut för försäljningsaktivitet till Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
                + [Konfiguration av åtgärder för försäljningsinsikter i Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
+               + [Loggningsattribut för försäljningsaktivitet till Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
                + [Avinstallera Marketo Sales Connect från Salesforce Classic](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-classic.md)
                + [Avinstallera Marketo Sales Connect från Salesforce Lightning](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
+               + [Lägg till åtgärdsknappar i Salesforce-listvyn](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md)
                + [Uppdatera aktivitetstypfält vid loggning av aktiviteter till Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/update-activity-type-field-when-logging-activities-to-salesforce.md)
+            + Åtgärder i Salesforce {#actions-in-salesforce}
+               + [Använda massutskick av e-post för försäljning i Salesforce](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md)
+               + [Använda Lägg till gruppvis i försäljningskampanj i Salesforce](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md)
          + E-post {#email}
             + Kommandocentral {#command-center}
                + [Översikt över avancerad sökning](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)

@@ -3,7 +3,7 @@ unique-page-id: 12255457
 description: Komma igång med TAM - Marketo Docs - produktdokumentation
 title: Komma igång med TAM
 exl-id: 95fd6c22-7ef8-4184-aeff-7586d12ec495
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 0%
@@ -33,6 +33,6 @@ Vill du lägga till Marketo TAM i din instans? Bra! Låt oss titta på vad du be
 * [Upptäck Marketo Companies](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-marketo-companies) - Visa en lista över företag från andra källor än CRM och filtrera med nyckelattribut för att skapa namngivna konton
 * [Skapa ett namngivet konto manuellt](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md) - Om du skapar ett namngivet konto manuellt är nästa steg att [fylla det med människor](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md) manuellt
 
-**Valfritt steg: [Skapa och konfigurera kontolistor](/help/marketo/product-docs/target-account-management/target/account-lists.md#create-a-new-account-list)** - Gruppera konton i listor så att du kan rikta in namngivna konton efter bransch, plats eller storlek på företaget.
+**TILLVAL: [Skapa och konfigurera kontolistor](/help/marketo/product-docs/target-account-management/target/account-lists.md#create-a-new-account-list)** - Gruppera konton i listor så att du kan rikta in namngivna konton efter bransch, plats eller storlek på företaget.
 
 När du har följt stegen ovan kan du börja använda TAM!
