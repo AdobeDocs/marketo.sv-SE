@@ -1,7 +1,7 @@
 ---
 description: Använda Lägg till i säljkampanj gruppvis i Salesforce - Marketo Docs - produktdokumentation
 title: Använda Lägg till gruppvis i försäljningskampanj i Salesforce
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+source-git-commit: b7d80630e55d30364912e472d126a994c5eeca19
 workflow-type: tm+mt
 source-wordcount: '569'
 ht-degree: 0%
@@ -74,26 +74,28 @@ När du har klickat på Start visas en bekräftelseskärm där du ser hur många
 
 1. Välj önskad lead- eller kontaktlista och klicka på **Lägg till i försäljningskampanj** -knappen.
 
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-9.png)
+
 1. Du kommer att navigeras till spärren Åtgärder för säljkampanj med de personer som du har valt tillagda.
 
 1. Gör de ändringar som behövs för att ta bort personer eller grupper och klicka sedan på **Nästa**.
 
-   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-9.png)
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-10.png)
 
 1. Välj den försäljningskampanjkategori som du vill använda på menyn **Kategorier** nedrullningsbar meny.
 
 1. Välj den försäljningskampanj som du vill lägga till de valda personerna i och klicka på **Nästa**.
 
-   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-10.png)
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-11.png)
 
 1. Du kan se olika alternativ beroende på vilket första steget i kampanjen är. Om ditt första steg är ett e-postmeddelande kan du redigera e-postmeddelandet för varje mottagare enligt nedan. När du är klar klickar du på **Nästa**.
 
-   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-11.png)
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-12.png)
 
 1. Om ditt första steg är ett e-postmeddelande och du har konfigurerat det så att du kan välja när kampanjen startar kan du välja att **Starta nu** eller **Schemalägg en ny starttid**. Klicka på **Starta**.
 
-   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-12.png)
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-13.png)
 
 När du har klickat på Start visas en bekräftelseskärm där du ser hur många personer som har lagts till.
 
-![](assets/using-bulk-add-to-sales-campaign-in-salesforce-13.png)
+![](assets/using-bulk-add-to-sales-campaign-in-salesforce-14.png)

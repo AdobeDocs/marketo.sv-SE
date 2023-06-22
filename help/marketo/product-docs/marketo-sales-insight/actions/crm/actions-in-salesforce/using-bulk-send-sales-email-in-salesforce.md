@@ -1,7 +1,7 @@
 ---
 description: Använda massutskick av e-post för försäljning i Salesforce - Marketo Docs - produktdokumentation
 title: Använda massutskick av e-post för försäljning i Salesforce
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+source-git-commit: b7d80630e55d30364912e472d126a994c5eeca19
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 0%
@@ -67,6 +67,8 @@ Lär dig hur du skickar massutskick i Salesforce för att skala din utgående ko
    >Du kan skapa en ny vy genom att klicka på Skapa ny vy och konfigurera de tillgängliga filtren för att begränsa listan över vilka du lägger till i en försäljningskampanj.
 
 1. Välj önskade leads eller kontaktlistor och klicka på **Skicka e-postmeddelande** -knappen.
+
+   ![](assets/using-bulk-send-sales-email-in-salesforce-5.png)
 
 1. Du kommer att navigeras till fönstret Åtgärder och disposition med de mottagare som du har valt i dispositionsfönstret.
 
