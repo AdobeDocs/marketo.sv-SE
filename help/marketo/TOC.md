@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
+source-git-commit: 4974947d546e6e66e69413462e577bfc4e9c1dd8
 workflow-type: tm+mt
-source-wordcount: '8961'
+source-wordcount: '8963'
 ht-degree: 0%
 
 ---
@@ -485,10 +485,10 @@ ht-degree: 0%
          + [Om mappar](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [Om meddelanden](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [Meddelandetyper](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
-      + Inte resor {#not-journeys}
-         + [Namnöversikt](product-docs/core-marketo-concepts/not-journeys/name-overview.md)
-         + [Fliken Namn](product-docs/core-marketo-concepts/not-journeys/name-tab.md)
-         + [Fliken Inställningar](product-docs/core-marketo-concepts/not-journeys/settings-tab.md)
+      + Engagement Canvas {#engagement-canvas}
+         + [Översikt över Engagement Canvas](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-overview.md)
+         + [Fliken Engagement Canvas](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-tab.md)
+         + [Fliken Inställningar](product-docs/core-marketo-concepts/engagement-canvas/settings-tab.md)
       + Prediktiva målgrupper {#predictive-audiences}
          + [Komma igång med prediktiva målgrupper](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
          + [Modeller och insikter](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
@@ -628,7 +628,7 @@ ht-degree: 0%
          + [Webbläsarmeddelanden](product-docs/demand-generation/dynamic-chat/browser-notifications.md)
          + [Konfiguration](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [Chatbot-beteende](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
-         + [Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+         + [Dynamiska chattaktiviteter](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
          + Schemaläggning av avtalad tid {#appointment-scheduling}
             + [Kalender](product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md)
             + [Möten](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
