@@ -1,54 +1,81 @@
 ---
-description: Namnöversikt - Marketo Docs - produktdokumentation
-title: Namnöversikt
+description: Översikt över Engagement Canvas - Marketo Docs - produktdokumentation
+title: Översikt över Engagement Canvas
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 50f6f82e0e7e55007905f824dea7707a1cf25d09
+source-git-commit: 04392c95bd03e014b891a39f31b7f7d402ab5a58
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '524'
 ht-degree: 0%
 
 ---
 
-# Namnöversikt {#name-overview}
+# Översikt över Engagement Canvas {#engagement-canvas-overview}
 
-Ni kan visualisera Smart Campaign med Journeys. Journeys värde ligger i förmågan att bygga ut återanvändbara kampanjer med intuitiv visuell hjälp. Den är helt bakåtkompatibel med alla befintliga Marketo Engage Smart Campaigns utan att några nuvarande funktioner går förlorade.
+>[!AVAILABILITY]
+>
+>Den här funktionen är för närvarande tillgänglig för smarta kampanjer. Det är inte tillgängligt för Program.
 
-Åtkomst till resor: Du kan navigera till en befintlig kampanj och klicka på knappen &quot;Bygg på resa&quot; för att komma åt fliken Resor
+Med Engagement Canvas kan ni bygga ut återanvändbara smarta kampanjer med hjälp av intuitiva bilder. Den är helt bakåtkompatibel med alla befintliga Marketo Engage Smart Campaigns, utan att nuvarande funktioner går förlorade.
 
-Utlösare: Varje kampanj kommer att innehålla ett kort för utlösaröversikt. Om du klickar på det kommer det att visas samtidigt som kortet för utlösardetaljer och en utfällbar panel med mer information om utlösarna.
+SCREENSHOT
 
-Filter: Varje kampanj kommer att innehålla 1&quot;Filteröversikt&quot;-kort, och om du klickar på det skapas en utfällbar panel med mer information om filtren.
+## Åtkomst till Engagement Canvas {#accessing-engagement-canvas}
 
-Flödessteg: Varje kampanj kommer att innehålla ett seriekort för &quot;Flow&quot; (Flow). Om du klickar på det skapas en utfällbar panel med mer information om flödet. Om du väljer ett flödessteg expanderas det samtidigt när du klickar på flödeskortet så att det visas både ett urvalskort och en utfällbar panel med mer information om flödessteget.
+Navigera till en befintlig kampanj och klicka på **Engagement Canvas** -knappen.
 
-Alternativ: Om ett Flow-steg innehåller ett eller flera alternativ, expanderas det samtidigt när du klickar på flödeskortet så att du kan visa urvalskortet och en utfällbar panel med mer information om alternativen som ingår i flödessteget.
+SCREENSHOT
 
-Kapslade kampanjer:
+På Engagement Canvas finns två flikar: [Engagement Canvas](/help/marketo/product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-tab.md){target="_blank"}.
 
-Om en kampanj innehåller flödessteget Begär eller Kör kampanj, expanderas samtidigt klickningen på flödeskortet för att visa information om kampanjen som kallas för en bildruta samt en panel med mer information om flödessteget. Den kapslade kampanjen kommer även att innehålla en närbild. Om du klickar på den komprimeras korten som är kopplade till den kapslade kampanjen.
+SCREENSHOT
 
-Om en kampanj innehåller flödessteget Begär eller Kör kampanj med alternativ, kommer det att expandera samtidigt att klicka på flödeskortet för att visa alternativkort och en utfällbar panel med mer information om alternativen som ingår i flödessteget. När du klickar på varje alternativkort kommer du att expandera och visa information om kampanjen som kallas för en bildruta samt panelen med mer information om alternativkortet
+SIDHUVUD
 
-Om någon av de kapslade kampanjerna har ett flödessteg för att begära eller köra kampanj, expanderas det om du klickar på flödeskortet för att visa information om kampanjen. Detsamma gäller när flödessteget innehåller alternativ.
+**Utlösare**: I kampanjer som innehåller utlösare har arbetsytan ett kort för utlösaröversikt. Om du klickar på den visas ett kort för varje utlösare samt en utfällbar panel med ytterligare information.
 
-Övre navigering
+**Filter**: I kampanjer som innehåller filter kommer arbetsytan att innehålla ett kort för varje. Om du klickar på dem visas en utfällbar panel med ytterligare information.
+
+**Flödessteg**: Varje kampanj kommer att innehålla ett kort för varje flödessteg. Om du klickar på dem visas en utfällbar panel med ytterligare information.
+
+**Val**: Om ett flödessteg innehåller ett eller flera alternativ visas ett kort för varje val när du klickar på flödeskortet, samt en utfällbar panel med ytterligare information.
+
+## Kapslade kampanjer {#nested-campaigns}
+
+* Om en kampanj innehåller ett Request- eller Execute Campaign-flödessteg visas information om den kampanj som anropas samt en utfällbar panel med ytterligare information om du klickar på flödeskortet. (Den kapslade kampanjen kommer även att innehålla en närbild. Om du klickar på den komprimeras korten som är kopplade till den kapslade kampanjen.) !!!!!!!!!!!!!! - ORDNA OM ELLER TA BORT
+
+* Om en kampanj innehåller ett Request- eller Execute Campaign-flödessteg med alternativ, visas ett alternativt alternativkort och en utfällbar panel med mer information om alternativen när du klickar på flödeskortet. Om du klickar på varje alternativkort visas information om den kampanj som anropas samt en utfällbar panel med mer information.
+
+* Om någon av de kapslade kampanjerna dessutom har ett flödessteg för att begära eller köra kampanj, visas information om kampanjen om du klickar på flödeskortet. Detsamma gäller när flödessteget innehåller alternativ.
+
+## Övre navigering {#top-navigation}
+
+SCREENSHOT
 
 Den övre navigeringen innehåller följande funktioner:
 
-Kampanjnamn och åtkomst till&quot;Redigera kampanj&quot; modal, du kan redigera kampanjnamnet och beskrivningen här.
+!!!!!!!! GRAMMAR BEKRÄFTELSE OCH SKÄRMSHULLEN ÄR UPPDATERAD
 
-Kampanjstatus och kampanjtyp visas under kampanjnamnet
+* Kampanjnamn och åtkomst till&quot;Redigera kampanj&quot; modal, du kan redigera kampanjnamnet och beskrivningen här.
 
-Knappen Aktivera/inaktivera för utlösarkampanjer
+* Kampanjstatus och kampanjtyp visas under kampanjnamnet
 
-Redigera smart lista - du kommer att navigeras till Smart lista-gränssnittet på en ny flik där du kan lägga till eller redigera din smarta lista
+* Knappen Aktivera/inaktivera för utlösarkampanjer
 
-Redigera flöde - du kommer att navigeras till Flödesgränssnittet på en ny flik där du kan lägga till eller redigera din smarta lista
+* Redigera smart lista - du kommer att navigeras till Smart lista-gränssnittet på en ny flik där du kan lägga till eller redigera din smarta lista
 
-Export - Detta hämtar en bild av kampanjvisualisering. Den nedladdade versionen återspeglar alla grenar som du har expanderat
+* Redigera flöde - du kommer att navigeras till Flödesgränssnittet på en ny flik där du kan lägga till eller redigera din smarta lista
 
-Visa kampanjmedlemmar - En ny flik med information om kampanjmedlemmar öppnas.
+* Export - Detta hämtar en bild av kampanjvisualisering. Den nedladdade versionen återspeglar alla grenar som du har expanderat
 
-Obs! Ändringar som görs på en öppen smart lista och Flödesflik visas på fliken Resor när du uppdaterar. Den uppdateras inte automatiskt.
+* Visa kampanjmedlemmar - En ny flik med information om kampanjmedlemmar öppnas.
+
+>[!NOTE]
+>
+>Ändringar som görs på en öppen smart lista och Flödesflik visas på fliken Engagement Canvas när du uppdaterar. Den uppdateras inte automatiskt. Uppdateringar och redigeringar som sparas automatiskt visas.
+
+>[!MORELIKETHIS]
+>
+>* [Fliken Engagement Canvas](/help/marketo/product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-tab.md){target="_blank"}
+>* [Fliken Inställningar](/help/marketo/product-docs/core-marketo-concepts/engagement-canvas/settings-tab.md){target="_blank"}

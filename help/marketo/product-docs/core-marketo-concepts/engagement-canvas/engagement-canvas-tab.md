@@ -1,117 +1,104 @@
 ---
-description: fliken Namn - Marketo Docs - produktdokumentation
-title: Fliken Namn
+description: Engagement Canvas tab - Marketo Docs - Product Documentation
+title: Fliken Engagement Canvas
 hide: true
 hidefromtoc: true
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: 50f6f82e0e7e55007905f824dea7707a1cf25d09
+source-git-commit: 04392c95bd03e014b891a39f31b7f7d402ab5a58
 workflow-type: tm+mt
-source-wordcount: '1014'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Fliken Namn {#name-tab}
+# Fliken Engagement Canvas {#engagement-canvas-tab}
 
-Resor representeras genom en serie utlösar-, filter- och flödeskort. Om du klickar på vart och ett av korten öppnas motsvarande utfällningspanel.
+Engagement Canvas representeras av en serie utlösar-, filter- och flödeskort. Om du klickar på varje kort visas ytterligare information.
 
-Utlösaröversikt: Kortet visar antalet utlösare i den specifika kampanjen. Om du klickar på det här kortet utökas även utlösaren så att utlösardetaljkort visas och utfällningspanelen öppnas samtidigt med följande information:
+Utlösaröversikt: Det här kortet visar antalet utlösare i kampanjen. Om du klickar på den visas ett kort för varje utlösare samt en utfällbar panel med följande information:
 
-Kampanj som utlösaren tillhör
-
-Knappen Redigera utlösare för att få åtkomst till fliken med smarta listor
-
-Lista med utlösarnamn
+* Kampanj som utlösaren tillhör
+* Lista med utlösarnamn
+* Knappen Redigera utlösare
 
 SCREENSHOT
 
-Utlösardetalj: Kortet visar utlösarnamn. Om du klickar på det här kortet öppnas en utfällbar panel med följande information:
+Utlösardetalj: Det här kortet visar utlösarnamn. Om du klickar på den visas en utfällbar panel med följande information:
 
-Kampanj som utlösaren tillhör
-
-Knappen Redigera utlösare för att få åtkomst till fliken med smarta listor
-
-Lista över begränsningar som är kopplade till utlösaren
+* Kampanj som utlösaren tillhör
+* Lista över begränsningar som är kopplade till utlösaren
+* Knappen Redigera utlösare
 
 SCREENSHOT
 
-Filter: Om du klickar på det här kortet öppnas en utfällbar panel med följande information:
+Filter: Om du klickar på det här kortet visas en utfällbar panel med följande information:
 
-Kampanj som utlösaren tillhör
-
-Knappen Redigera filter för att komma åt fliken med smarta listor
-
-Uppskattat antal personer som är kvalificerade för filtret
-
-Lista över filter och deras respektive begränsningar
+* Kampanj som utlösaren tillhör
+* Uppskattat antal personer som är kvalificerade för filtret
+* Lista över filter och deras respektive begränsningar
+* Knappen Redigera filter
 
 SCREENSHOT
 
-Flödessteg: Om ett flödessteg inte innehåller några alternativ visar kortet attribut som är kopplade till flödessteget. Om du klickar på kortet öppnas en utfällbar panel med följande information:
+Flödessteg: Om ett flödessteg innehåller alternativ visas flödesstegets namn på kortet. Om du klickar på den visas en utfällbar panel med följande information:
 
-Campaign som flödessteget tillhör
-
-Knappen Redigera flöde för att komma åt fliken Flöde
-
-Lista med attribut som är kopplade till flödessteget
+* Kampanj som flödessteget tillhör
+* Lista med urvalsvillkor som är kopplade till flödessteget
+* Knappen Redigera flöde
 
 SCREENSHOT
 
-Flödessteg: Om ett flödessteg innehåller alternativ visas flödesstegets namn på kortet. Om du klickar på kortet öppnas en utfällbar panel med följande information:
+Flödessteg: Om ett flödessteg gör det _not_ inkluderar eventuella alternativ. Kortet visar attribut som är kopplade till flödessteget. Om du klickar på den visas en utfällbar panel med följande information:
 
-Campaign som flödessteget tillhör
-
-Knappen Redigera flöde för att komma åt fliken Flöde
-
-Lista med urvalsvillkor som är kopplade till flödessteget
+* Kampanj som flödessteget tillhör
+* Lista med attribut som är kopplade till flödessteget
+* Knappen Redigera flöde
 
 SCREENSHOT
 
-Flödessteg för körnings- och begärandekampanjer:
+## Flödessteg för körnings- och begärandekampanjer {#flow-step-for-execute-and-request-campaigns}
 
-Om Flödessteget Kör eller Begär kampanj inte innehåller några alternativ visas kampanjens namn på kortet. Om du klickar på kortet öppnas en utfällbar panel med följande information:
+* Om flödesteget Kör eller Begär kampanj inte innehåller några alternativ visas kampanjens namn på kortet. Om du klickar på kortet visas en utfällbar panel med följande information:
 
-Kampanj som flödessteget tillhör
+   * Kampanj som flödessteget tillhör
+   * Knappen Redigera flöde
+   * Lista med attribut som är kopplade till flödessteget
+   * Knappen Visa lista, som öppnar en lista med kampanjer som använder den specifika kampanj för begäran/körning
 
-Knappen Redigera flöde för att komma åt fliken Flöde
-
-Lista med attribut som är kopplade till flödessteget
-
-Visa listknapp som öppnar en lista med kampanjer som använder den specifika förfrågan eller som kör kampanj
-
-Obs! Du kan redigera flödessteget från en primär kampanj. Om du vill redigera kapslade kampanjer måste du navigera till kampanjen via hyperlänken i panelen för utfällbara kampanjer.
+>[!NOTE]
+>
+>Du kan redigera flödesstegen från en primär kampanj. Om du vill redigera kapslade kampanjer måste du navigera till kampanjen via länken i panelen för utfällbara kampanjer.
 
 SCREENSHOT
 
 SCREENSHOT
 
-Om Flödessteget Kör eller Begär kampanj innehåller alternativ visas kampanjens namn på kortet. Om du klickar på kortet öppnas en utfällbar panel med följande information:
+* Om flödesteget Kör eller Begär kampanj innehåller alternativ visas kampanjens namn på kortet. Om du klickar på kortet visas en utfällbar panel med följande information:
 
-Kampanj som flödessteget tillhör
-
-Knappen Redigera flöde för att komma åt fliken Flöde
-
-Lista med urvalsvillkor som är kopplade till flödessteget
+   * Kampanj som flödessteget tillhör
+   * Lista med urvalsvillkor som är kopplade till flödessteget
+   * Knappen Redigera flöde
 
 SCREENSHOT
 
 SCREENSHOT
 
-Om en kampanj som körs eller begär att få välja visas alla alternativ på enskilda kort när du klickar på flödeskortet.
+* Om en körnings- eller begärandekampanj innehåller alternativ expanderas klickningen på flödeskortet för att visa alla alternativ på enskilda kort. Om du klickar på ett urvalskort utökas kampanjen som är kopplad till det specifika valet och en bildrutepanel öppnas samtidigt med följande information:
 
-Om du klickar på ett urvalskort utökas kampanjen som är kopplad till det specifika valet och en bildrutepanel öppnas samtidigt med följande information:
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! GRAMMAR KORRIGERA ANDRA MENINGEN
 
-Campaign som valet tillhör
-
-Redigera alternativknapp för att komma åt fliken Flöde
-
-Lista med urvalsvillkor som är kopplade till flödessteget
-
-Visa listknapp som öppnar en lista med kampanjer som använder den specifika förfrågan eller som kör kampanj
+* Campaign som valet tillhör
+* Knappen&quot;Redigera val&quot;
+* Lista med urvalsvillkor som är kopplade till flödessteget
+* Knappen Visa lista, som öppnar en lista med kampanjer som använder den specifika kampanj för begäran/körning
 
 SCREENSHOT
 
-Kampanj för att visa kapslad körning (nytt avsnitt)
+!!!!!!!!!!!!!!! NEDAN - lägg till&quot;a&quot; före Kapslad?
+
+## Visualiserar kampanj för kapslad körning {#visualizing-nested-execute-campaign}
+
+SLUTAD REDIGERING HÄR
 
 Kör kampanjer som körs i serie med den överordnade kampanjen, dvs. leads som kvalificerar för en körbar kampanj som slutför alla flödessteg från kampanjen och återgår till den primära kampanjen för att fortsätta genom de flödessteg som gäller för den här kampanjen.
 
@@ -119,13 +106,10 @@ Här är ett exempel på den smarta kampanjen&quot;Campaign A&quot; som innehål
 
 SCREENSHOT
 
-Om du klickar på det körda kampanjflödeskortet expanderas det så att information om&quot;Campaign B&quot; visas
-
-Campaign B omfattar filter som ger upphov till okvalificerad och kvalificerad publik.
-
-Kvalificerad målgrupp går igenom de flödessteg som är kopplade till&quot;Campaign B&quot;
-
-Alla mottagare (kvalificerade och inte kvalificerade) går tillbaka till&quot;Campaign A&quot; och går vidare till nästa flödessteg
+1. Om du klickar på det körda kampanjflödeskortet expanderas det och visar information om&quot;Campaign B&quot;.
+1. Campaign B omfattar filter som ger upphov till okvalificerad och kvalificerad publik.
+1. Kvalificerad målgrupp går igenom de flödessteg som är kopplade till&quot;Campaign B&quot;.
+1. Alla målgrupper (kvalificerade och inte kvalificerade) går tillbaka till&quot;Campaign A&quot; och går vidare till nästa flödessteg.
 
 SCREENSHOT
 
@@ -133,7 +117,7 @@ Du kan klicka på Flödessteget Kör kampanj i&quot;Campaign B&quot;, som kommer
 
 SCREENSHOT
 
-Visualiserar kampanj för begärande (nytt avsnitt)
+## Visualiserar begärandekampanj {#visualizing-request-campaign}
 
 Begärandekampanjer körs parallellt med den överordnade kampanjen, dvs. leads som kvalificerar för en begärandekampanj slutför alla flödessteg från kampanjen och avslutar kampanjen. Samtidigt kommer samma uppsättning leads också att gå igenom flödessteg från den primära kampanjen
 
@@ -141,13 +125,10 @@ Här är ett exempel på den smarta kampanjen&quot;Campaign A&quot;, som innehå
 
 SCREENSHOT
 
-Om du klickar på flödeskortet för begärandekampanjen expanderas det så att information om&quot;Campaign B&quot; visas
-
-Campaign B innehåller filter som ger ut till en kvalificerad målgrupp.
-
-Kvalificerad målgrupp går igenom de flödessteg som är kopplade till&quot;Campaign B&quot;
-
-Samtidigt går alla målgrupper vidare till nästa flödessteg i&quot;Campaign A&quot;
+1. Om du klickar på flödeskortet för begärandekampanjen expanderas det så att information om&quot;Campaign B&quot; visas
+1. Campaign B innehåller filter som ger ut till en kvalificerad målgrupp.
+1. Kvalificerad målgrupp går igenom de flödessteg som är kopplade till&quot;Campaign B&quot;
+1. Samtidigt går alla målgrupper vidare till nästa flödessteg i&quot;Campaign A&quot;
 
 SCREENSHOT
 
@@ -159,7 +140,7 @@ Här är ett exempel på en begärandekampanj med valmöjligheter.
 
 SCREENSHOT
 
-Felhantering:
+## Felhantering {#error-handling}
 
 Fel i smarta listor och flödessteg markeras via en felikon på kortet. Motsvarande felmeddelande visas dessutom i panelen för utskjutning.
 

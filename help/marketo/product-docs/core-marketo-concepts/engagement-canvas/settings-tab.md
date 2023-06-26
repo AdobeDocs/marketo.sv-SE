@@ -4,22 +4,24 @@ title: Fliken Inställningar
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: 50f6f82e0e7e55007905f824dea7707a1cf25d09
+source-git-commit: 04392c95bd03e014b891a39f31b7f7d402ab5a58
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
 
 # Fliken Inställningar {#settings-tab}
 
-Fliken Inställningar är en heltäckande butik som innehåller alla dina kampanjinställningar. Den innehåller samma behörighetsgrupper och åtkomst som fliken Schema. Det stör inte befintliga kampanjinställningar. Den innehåller tre avsnitt och motsvarande moduler för att redigera varje avsnitt.
+Fliken Inställningar är startsida för alla kampanjinställningar, inklusive samma behörighetsgrupper och åtkomst som fliken Schema. ÄNDRINGAR PÅ DEN HÄR FLIKEN??? Det stör inte befintliga kampanjinställningar.
 
-Kvalifikationsregler som avgör hur många gånger varje person kan köra via Smart Campaign-flödet
+Den innehåller följande tre avsnitt.
 
-Individuella körningar som kan användas för att schemalägga enstaka körningar antingen direkt eller i framtiden
+* **Kvalificeringsregler**: Avgör hur många gånger varje person kan gå igenom det smarta kampanjflödet.
 
-Återkommande som används för att schemalägga upprepningar varje dag, vecka eller månad
+* **Enskilda körningar**: Kan användas för att schemalägga enstaka körningar antingen direkt eller i framtiden.
+
+* **Återkommande**: Används för att schemalägga en upprepning varje dag, vecka eller månad.
 
 SCREENSHOT
 
