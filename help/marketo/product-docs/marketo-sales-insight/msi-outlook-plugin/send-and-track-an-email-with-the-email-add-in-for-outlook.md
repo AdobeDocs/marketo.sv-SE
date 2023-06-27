@@ -3,9 +3,9 @@ unique-page-id: 2949716
 description: Skicka och spåra ett e-postmeddelande med e-posttillägget för Outlook - Marketo Docs - Produktdokumentation
 title: Skicka och spåra ett e-postmeddelande med e-posttillägget för Outlook
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ Du kan skicka och spåra e-postmeddelanden med Marketo direkt från Outlook.
 >[!PREREQUISITES]
 >
 >Om du inte har gjort det än installerar du [Marketo e-posttillägg för Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+
+>[!NOTE]
+>
+>Funktioner för Sales Insight-åtgärder, inklusive Skicka e-post, Lägg till i säljkampanj och Uppgifter, är inte tillgängliga i e-postpluginer för Sales Insight för Gmail och Outlook. För närvarande kan användare bara skicka spårbara e-postmeddelanden med eller utan en Marketo-e-postmall från sin e-postklient när de använder e-postpluginmodulerna för Sales Insight.
 
 1. Öppna Microsoft Outlook och skapa ett nytt e-postmeddelande.
 

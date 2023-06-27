@@ -2,9 +2,9 @@
 description: Sales Insight Actions Admin Setup Guide - Marketo Docs - produktdokumentation
 title: Handbok för administration av Sales Insight Actions
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: '660'
 ht-degree: 0%
 
 ---
@@ -60,6 +60,10 @@ ht-degree: 0%
 1. I Marketo klickar du på **Administratör**.
 
    ![](assets/msi-actions-admin-guide-1.png)
+
+   >[!NOTE]
+   >
+   >Om du inte ser ett klient-ID och klienthemlighet på integreringsinformationskortet aktiverar du åtgärdsinstansen genom att bjuda in den första användaren, så visas klient-ID och klienthemlighet.
 
 1. Klicka **Försäljningsinsikter** sedan **Åtgärdskonfiguration**. Välj i en lista över Marketo-administratörer som du vill bjuda in och klicka på **Skicka inbjudan**.
 

@@ -3,16 +3,16 @@ unique-page-id: 11377488
 description: Installera Marketo-tillägget för Outlook med en företagsnyckel - Marketo Docs - Produktdokumentation
 title: Installera Marketo-tillägget för Outlook med en företagsnyckel
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
 
 # Installera Marketo-tillägget för Outlook med en företagsnyckel {#install-the-marketo-add-in-for-outlook-with-an-enterprise-key}
 
-Många gånger har säljarna inte administratörsbehörighet på sina bärbara datorer och IT-avdelningen ansvarar för fjärrinstallation av all programvara. Marketo-tillägget för Outlook kan installeras på det här sättet med hjälp av din företagsnyckel, som finns i avsnittet Sales Insight i Admin.
+Många gånger har säljarna inte administratörsbehörighet på sina bärbara datorer och IT-avdelningen ansvarar för fjärrinstallation av all programvara. Marketo-tillägget för Outlook kan installeras på det här sättet med hjälp av din företagsnyckel, som finns i avsnittet Sales Insight i Admin. Om du inte ser knappen Visa företagsnyckel kontaktar du [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) för att aktivera den.
 
 >[!PREREQUISITES]
 >
@@ -20,7 +20,7 @@ Många gånger har säljarna inte administratörsbehörighet på sina bärbara d
 
 >[!NOTE]
 >
->Om du inte ser knappen Visa företagsnyckel kontaktar du [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) för att aktivera den.
+>Funktioner för Sales Insight-åtgärder, inklusive Skicka e-post, Lägg till i säljkampanj och Uppgifter, är inte tillgängliga i e-postpluginer för Sales Insight för Gmail och Outlook. För närvarande kan användare bara skicka spårbara e-postmeddelanden med eller utan en Marketo-e-postmall från sin e-postklient när de använder e-postpluginmodulerna för Sales Insight.
 
 1. I Min Marketo klickar du på **Administratör** och sedan **Försäljningsinsikter**.
 

@@ -3,9 +3,9 @@ unique-page-id: 1147326
 description: Installera Marketo Insights för Google Chrome - Marketo Docs - produktdokumentation
 title: Installera Marketo Insights för Google Chrome
 exl-id: 358b2737-52de-4d3b-a6e8-3254a8123359
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Installera Marketo Insights för Google Chrome {#install-marketo-insights-for-google-chrome}
 
 Följ de här stegen för att börja använda det kraftfulla Chrome-tillägget.
+
+>[!NOTE]
+>
+>Funktioner för Sales Insight-åtgärder, inklusive Skicka e-post, Lägg till i säljkampanj och Uppgifter, är inte tillgängliga i e-postpluginer för Sales Insight för Gmail och Outlook. För närvarande kan användare bara skicka spårbara e-postmeddelanden med eller utan en Marketo-e-postmall från sin e-postklient när de använder e-postpluginmodulerna för Sales Insight.
 
 >[!NOTE]
 >

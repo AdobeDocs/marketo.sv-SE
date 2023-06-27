@@ -3,9 +3,9 @@ unique-page-id: 7512944
 description: Använda Marketo Insights för Google Chrome - Marketo Docs - produktdokumentation
 title: Använda Marketo Insights för Google Chrome
 exl-id: 9171e85f-a286-469c-b3a3-b290619311c9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ Skicka och spåra alla Google-mejl med Marketo Insights för Google Chrome.
 >[!PREREQUISITES]
 >
 >[Installera Marketo Insights för Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+
+>[!NOTE]
+>
+>Funktioner för Sales Insight-åtgärder, inklusive Skicka e-post, Lägg till i säljkampanj och Uppgifter, är inte tillgängliga i e-postpluginer för Sales Insight för Gmail och Outlook. För närvarande kan användare bara skicka spårbara e-postmeddelanden med eller utan en Marketo-e-postmall från sin e-postklient när de använder e-postpluginmodulerna för Sales Insight.
 
 ## Skicka ett e-postmeddelande med Marketo Insights {#send-an-email-with-marketo-insights}
 
@@ -72,4 +76,3 @@ Du kan logga svar och gammal aktivitet i en leads aktivitetshistorik.
    >
    >* [Installera Marketo Insights för Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
    >* [Visa person- och kontoinformation och aktiviteter i Google Mail](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
-

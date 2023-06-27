@@ -2,9 +2,9 @@
 description: Lägg till identitet - Marketo Docs - produktdokumentation
 title: Lägg till identitet
 exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 0%
 # Lägg till identitet {#add-identity}
 
 Lägg till en identitet när du har flera e-postadresser att skicka från.
+
+>[!NOTE]
+>
+>Det går inte att använda flera identiteter med leveranskanalerna Gmail och Outlook/Exchange. Gmail och Outlook/Exchange autentiseras på användarnivå, så det är bara e-post från den anslutna e-postadressen som skickas. Om du vill använda flera identiteter med olika e-postadresser måste du ansluta en tredjeparts SMTP-leverantör (e-postleveranskanal) som gör att du kan registrera e-postdomäner att skicka från. Detta gör att användarna kan ansluta till SMTP-leveranskanalen och skicka från valfri e-postadress så länge de är en registrerad domän.
 
 1. Klicka på ikonen Inställningar.
 

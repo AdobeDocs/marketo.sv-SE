@@ -2,9 +2,9 @@
 description: Använda en mall i dispositionsfönstret - Marketo Docs - produktdokumentation
 title: Använda en mall i dispositionsfönstret
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,10 @@ ht-degree: 0%
 1. Klicka på sökikonen i mallavsnittet för att öppna mallsökfältet.
 
    ![](assets/using-a-template-in-the-compose-window-3.png)
+
+   >[!TIP]
+   >
+   >Vi rekommenderar att du fäster kategorin&quot;Alla&quot; så att du snabbt kan söka i hela mallbiblioteket, eftersom du ofta behöver söka igenom alla mallar för att hitta det du söker efter. När du har markerat en fast kategori och klickar på sökikonen används sökningen som standard i den valda kategorin.
 
 1. Välj en kategori att söka i (eller markera Alla om du vill söka i alla kategorier).
 

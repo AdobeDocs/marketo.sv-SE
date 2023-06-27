@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: Installera Marketo e-posttillägg för Outlook med en registreringskod - Marketo Docs - Produktdokumentation
 title: Installera Marketo e-posttillägg för Outlook med en registreringskod
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
-source-git-commit: 268a7f1ca441661e1d943a8d6abce7bdcf308a98
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '516'
 ht-degree: 2%
 
 ---
@@ -26,11 +26,11 @@ Om du inte har fått någon inbjudan via e-post ber du Marketo-administratören 
 
 >[!NOTE]
 >
->Den 20/1 10 slutade den senaste versionen av Outlook-pluginprogrammet ha stöd för offlineläge.
+>Funktioner för Sales Insight-åtgärder, inklusive Skicka e-post, Lägg till i säljkampanj och Uppgifter, är inte tillgängliga i e-postpluginer för Sales Insight för Gmail och Outlook. För närvarande kan användare bara skicka spårbara e-postmeddelanden med eller utan en Marketo-e-postmall från sin e-postklient när de använder e-postpluginmodulerna för Sales Insight.
 
 ## Hämta installationsprogram {#download-installer}
 
-1. Identifiera [Microsoft Outlook-version](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
+1. Identifiera [Microsoft Outlook-version](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}
 
 1. Klicka på länken om du vill hämta det installationsprogram som passar din version av Microsoft Outlook.
 
@@ -111,6 +111,5 @@ Läs mer om hur du använder åtgärderna Marketo Message and Log With Marketo.
 
 >[!MORELIKETHIS]
 >
->* [Skicka och spåra ett e-postmeddelande med Marketo e-posttillägg för Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Skicka och spåra från Outlook med en Marketo-mall](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
-
+>* [Skicka och spåra ett e-postmeddelande med Marketo e-posttillägg för Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md){target="_blank"}
+>* [Skicka och spåra från Outlook med en Marketo-mall](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md){target="_blank"}
