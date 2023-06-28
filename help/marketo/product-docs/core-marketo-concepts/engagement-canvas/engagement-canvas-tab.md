@@ -4,9 +4,9 @@ title: Fliken Engagement Canvas
 hide: true
 hidefromtoc: true
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: 04392c95bd03e014b891a39f31b7f7d402ab5a58
+source-git-commit: d661e2270b63744ff7c18a4f2f5ca9e079271b11
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '970'
 ht-degree: 0%
 
 ---
@@ -83,22 +83,18 @@ SCREENSHOT
 
 SCREENSHOT
 
-* Om en körnings- eller begärandekampanj innehåller alternativ expanderas klickningen på flödeskortet för att visa alla alternativ på enskilda kort. Om du klickar på ett urvalskort utökas kampanjen som är kopplad till det specifika valet och en bildrutepanel öppnas samtidigt med följande information:
+* Om en körnings- eller begärandekampanj innehåller alternativ expanderas klickningen på flödeskortet för att visa alla alternativ på enskilda kort. Om du klickar på urvalskortet utökas kampanjen som är kopplad till det specifika valet samt en utfällbar panel med följande information visas:
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! GRAMMAR KORRIGERA ANDRA MENINGEN
-
-* Campaign som valet tillhör
-* Knappen&quot;Redigera val&quot;
-* Lista med urvalsvillkor som är kopplade till flödessteget
-* Knappen Visa lista, som öppnar en lista med kampanjer som använder den specifika kampanj för begäran/körning
+   * Campaign som valet tillhör
+   * Knappen&quot;Redigera val&quot;
+   * Lista med urvalsvillkor som är kopplade till flödessteget
+   * Knappen Visa lista, som öppnar en lista med kampanjer som använder den specifika kampanj för begäran/körning
 
 SCREENSHOT
 
-!!!!!!!!!!!!!!! NEDAN - lägg till&quot;a&quot; före Kapslad?
+## Visualisera en kapslad körningskampanj {#visualizing-a-nested-execute-campaign}
 
-## Visualiserar kampanj för kapslad körning {#visualizing-nested-execute-campaign}
-
-SLUTAD REDIGERING HÄR
+AVBRUTEN REDIGERING HÄR - HÅLL DIG UPPDATERAD EFTER AVSTÄNGNING
 
 Kör kampanjer som körs i serie med den överordnade kampanjen, dvs. leads som kvalificerar för en körbar kampanj som slutför alla flödessteg från kampanjen och återgår till den primära kampanjen för att fortsätta genom de flödessteg som gäller för den här kampanjen.
 

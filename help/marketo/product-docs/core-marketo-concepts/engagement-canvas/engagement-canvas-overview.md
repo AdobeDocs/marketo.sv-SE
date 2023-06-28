@@ -4,9 +4,9 @@ title: Översikt över Engagement Canvas
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 04392c95bd03e014b891a39f31b7f7d402ab5a58
+source-git-commit: d661e2270b63744ff7c18a4f2f5ca9e079271b11
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ På Engagement Canvas finns två flikar: [Engagement Canvas](/help/marketo/produ
 
 SCREENSHOT
 
-SIDHUVUD
+SIDHUVUD - KORTBESKRIVNINGAR? - LOPA BEKRÄFTAR
 
 **Utlösare**: I kampanjer som innehåller utlösare har arbetsytan ett kort för utlösaröversikt. Om du klickar på den visas ett kort för varje utlösare samt en utfällbar panel med ytterligare information.
 
@@ -43,7 +43,7 @@ SIDHUVUD
 
 ## Kapslade kampanjer {#nested-campaigns}
 
-* Om en kampanj innehåller ett Request- eller Execute Campaign-flödessteg visas information om den kampanj som anropas samt en utfällbar panel med ytterligare information om du klickar på flödeskortet. (Den kapslade kampanjen kommer även att innehålla en närbild. Om du klickar på den komprimeras korten som är kopplade till den kapslade kampanjen.) !!!!!!!!!!!!!! - ORDNA OM ELLER TA BORT
+* Om en kampanj innehåller ett Request- eller Execute Campaign-flödessteg visas information om den kampanj som anropas samt en utfällbar panel med ytterligare information om du klickar på flödeskortet. (Den kapslade kampanjen kommer även att innehålla en närbild. Om du klickar på den komprimeras korten som är kopplade till den kapslade kampanjen.) !!!!!!!!!!!!!! - ORDNA OM ELLER TA BORT - LOPA BEKRÄFTAR
 
 * Om en kampanj innehåller ett Request- eller Execute Campaign-flödessteg med alternativ, visas ett alternativt alternativkort och en utfällbar panel med mer information om alternativen när du klickar på flödeskortet. Om du klickar på varje alternativkort visas information om den kampanj som anropas samt en utfällbar panel med mer information.
 
@@ -55,7 +55,7 @@ SCREENSHOT
 
 Den övre navigeringen innehåller följande funktioner:
 
-!!!!!!!! GRAMMAR BEKRÄFTELSE OCH SKÄRMSHULLEN ÄR UPPDATERAD
+!!!!!!!! SCREENSHOUT ÄR UPPDATERAD - GRAB NEW ONE
 
 * Kampanjnamn och åtkomst till&quot;Redigera kampanj&quot; modal, du kan redigera kampanjnamnet och beskrivningen här.
 
@@ -74,6 +74,10 @@ Den övre navigeringen innehåller följande funktioner:
 >[!NOTE]
 >
 >Ändringar som görs på en öppen smart lista och Flödesflik visas på fliken Engagement Canvas när du uppdaterar. Den uppdateras inte automatiskt. Uppdateringar och redigeringar som sparas automatiskt visas.
+
+## Vanliga frågor {#faq}
+
+LOPA KOMMER ATT TILLHANDAHÅLLA
 
 >[!MORELIKETHIS]
 >

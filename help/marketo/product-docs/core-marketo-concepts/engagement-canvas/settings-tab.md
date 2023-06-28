@@ -4,16 +4,16 @@ title: Fliken Inställningar
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
+source-git-commit: d661e2270b63744ff7c18a4f2f5ca9e079271b11
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
 
 # Fliken Inställningar {#settings-tab}
 
-Fliken Inställningar är startsida för alla kampanjinställningar, inklusive samma behörighetsgrupper och åtkomst som fliken Schema. ÄNDRINGAR PÅ DEN HÄR FLIKEN KOMMER INTE ATT STARTA?? Det stör inte befintliga kampanjinställningar.
+Fliken Inställningar är startsida för alla kampanjinställningar, inklusive samma behörighetsgrupper och åtkomst som fliken Schema. ATT BESÖKA DEN HÄR FLIKEN KOMMER INTE ATT FÖRSVINNA??? ÖVERVÄG ATT SLÄPPA ELLER ÄNDRA ORDNING - LOPA KOMMER ATT BEKRÄFTA - Det kommer inte att störa befintliga kampanjinställningar.
 
 Den innehåller följande tre avsnitt.
 
@@ -55,3 +55,9 @@ Fliken Inställningar innehåller även en snabb översikt av din smarta lista. 
    * Uppskattade personer som kommer att påverkas
    * Uppskattade personer som blockeras från e-post
    * Uppskattade personer som befinner sig i ett väntesteg
+
+Behörighetsuppsättningar och fel på fliken Inställningar:
+
+Alla befintliga behörighetsgrupper kommer att användas på fliken Inställningar. Om knappen Redigera är nedtonad betyder det att du inte har behörighet att utföra redigeringar och att du måste kontakta din Marketo-administratör.
+
+LÄGG TILL BESKRIVNING NÄR SCHEMALAGDA KÖRNINGAR AVBRYTS - BEKRÄFTA MED LOPA EFTER AVSTÄNGNING —> Om en användare inte har tillgång till att redigera kampanjinställningar har han/hon inte heller åtkomst till att avbryta schemalagda körningar.
