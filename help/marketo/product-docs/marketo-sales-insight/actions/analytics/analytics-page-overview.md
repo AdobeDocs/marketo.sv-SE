@@ -1,10 +1,8 @@
 ---
 description: Översikt över analyssidan - Marketo Docs - produktdokumentation
 title: Översikt över analyssidan
-hide: true
-hidefromtoc: true
 exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
-source-git-commit: d960f0ad0d944bd2e74543f3ab15b59a8040b768
+source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
 workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 0%
@@ -35,15 +33,15 @@ På flikarna Me och Team visas information om avtal som stängts. Antalet styrs 
 
 ## Fliken Me {#me-tab}
 
-The [Fliken Me](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md) är en bra plats att kontrollera engagemanget i era e-postmeddelanden, mallar och länkar. Om du är administratör för Sales Insight Actions kan du filtrera efter användare i teamet för att se deras status.
+The [Fliken Me](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"} är en bra plats att kontrollera engagemanget i era e-postmeddelanden, mallar och länkar. Om du är administratör för Sales Insight Actions kan du filtrera efter användare i teamet för att se deras status.
 
 ## Fliken Team {#team-tab}
 
-I [Fliken Team](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md), se statistik och rankningar för hela teamet. Du kan också filtrera efter alla undergrupper som du har skapat.
+I [Fliken Team](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md){target="_blank"}, se statistik och rankningar för hela teamet. Du kan också filtrera efter alla undergrupper som du har skapat.
 
 ## Fliken Innehåll {#content-tab}
 
-The [Fliken Innehåll](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md) innehåller statistik om mallar, innehåll och länkar. Du kan antingen filtrera efter alla eller efter team som dina administratörer har skapat.
+The [Fliken Innehåll](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md){target="_blank"} innehåller statistik om mallar, innehåll och länkar. Du kan antingen filtrera efter alla eller efter team som dina administratörer har skapat.
 
 Om du ser blå text under ämneskolumnen betyder det att mallen delas. Du kan klicka på den blå text som ska tas till mallen. Visa hur den används genom att klicka **Mallanalys**.
 

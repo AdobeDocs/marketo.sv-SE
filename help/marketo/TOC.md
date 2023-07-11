@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 4974947d546e6e66e69413462e577bfc4e9c1dd8
+source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
 workflow-type: tm+mt
-source-wordcount: '8963'
+source-wordcount: '8989'
 ht-degree: 0%
 
 ---
@@ -622,7 +622,7 @@ ht-degree: 0%
          + [Lägg till LinkedIn Matched Audiences som en LaunchPoint-tjänst](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Skicka en lista till ett annonsnätverk](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Dynamiskt chatt {#dynamic-chat}
-         + [Dynamisk chattöversikt](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
+         + [Översikt över Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Inledande konfiguration](product-docs/demand-generation/dynamic-chat/initial-setup.md)
          + [Lägg till eller ta bort chattanvändare](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [Webbläsarmeddelanden](product-docs/demand-generation/dynamic-chat/browser-notifications.md)
@@ -1332,7 +1332,6 @@ ht-degree: 0%
             + [Kampanjen har avslutats](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
             + [Skapa en försäljningskampanj](product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md)
             + [Inställningar för försäljningskampanj](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md)
-            + [Säljkampanjer, sändningsalternativ för e-poststeg](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md)
             + [Stegtyper för säljkampanj och påminnelseaktiviteter](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md)
             + [Om sändningsalternativ för försäljningskampanj för e-poststeg](product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md)
             + [Visa kampanjlistan som en annan användare](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
@@ -1387,6 +1386,7 @@ ht-degree: 0%
             + [Kan jag återställa en kontakt eller grupp jag tagit bort?](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [Kan jag spåra flera mottagare med CC/BCC?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
             + [Vanliga frågor om innehåll och bifogad fil](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
+            + [Kommer vyer, klickningar och svar från mottagarna som listas i avsnittet CC och BCC i e-postmeddelandet att spåras?](product-docs/marketo-sales-insight/actions/faq/do-views-clicks-and-replies-from-cc-and-bcc-get-tracked.md)
             + [Har Sales Insight Actions en iPhone- eller Android-app?](product-docs/marketo-sales-insight/actions/faq/does-sales-insight-actions-have-an-iphone-or-android-app.md)
             + [Hur Tillåtslista jag Sales Insight-åtgärder på Min server?](product-docs/marketo-sales-insight/actions/faq/how-can-i-allowlist-sales-insight-actions-on-my-server.md)
             + [Hur korrigerar jag&quot;Vi kunde inte autentisera din begäran&quot; vid anslutning till Salesforce?](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
@@ -1402,6 +1402,8 @@ ht-degree: 0%
             + [Varför synkroniseras inte mina försäljningsaktiviteter och aktivitetsfält till Salesforce?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce.md)
             + [Varför kan jag inte ta bort en kontakt?](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
             + [Varför skickades inte alla mina kontakter till säljinsiktåtgärder?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
+            + [Varför markeras mina e-postmeddelanden som skräppost?](product-docs/marketo-sales-insight/actions/faq/why-do-my-emails-get-marked-as-spam.md)
+            + [Varför har min kampanj upphört?](product-docs/marketo-sales-insight/actions/faq/why-has-my-campaign-ended.md)
             + [Varför visas inte spårningsaktivitet i Salesforce-aktivitet?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + Integreringar {#integrations}
             + [Integrering med högdagrar](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)

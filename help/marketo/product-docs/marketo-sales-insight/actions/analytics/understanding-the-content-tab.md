@@ -1,10 +1,8 @@
 ---
 description: Förstå fliken Innehåll - Marketo Docs - produktdokumentation
 title: Fliken Innehåll
-hide: true
-hidefromtoc: true
 exl-id: 67d13ce6-8a21-4dce-b865-3e7115ac4c4b
-source-git-commit: d960f0ad0d944bd2e74543f3ab15b59a8040b768
+source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
