@@ -2,9 +2,9 @@
 description: Kalender - Marketo Docs - produktdokumentation
 title: Kalender
 exl-id: 351241e4-15b3-4547-83fe-a8ec1d89c1b0
-source-git-commit: 06c694d7f8e53999391c79db37894c21b0702090
+source-git-commit: 81e9862c2b0e7a48ab91bb1b10fd0a0ceb6308b2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ Anslut Outlook- eller Gmail-kalendern på fliken Kalender för användning vid s
 
 ![](assets/calendar-1.png)
 
-När en användares kalender är ansluten till Dynamisk chatt läggs de till i kön och deras kalender blir tillgänglig för webbplatsbesökare att schemalägga avtalade tider på.
+När en användares kalender är ansluten till Dynamic Chat läggs de till i kön och deras kalender blir tillgänglig för webbplatsbesökare att schemalägga avtalade tider på.
 
 >[!NOTE]
 >
@@ -28,3 +28,20 @@ Användare kan också anpassa innehållet i den inbjudan som skickas till besök
 >[!TIP]
 >
 >Använd ikonen för token (klammerparenteser) för att anpassa bekräftelsemeddelanden för mötesbokningar med hjälp av person- eller företagsattribut.
+
+## Behörigheter {#permissions}
+
+När du konfigurerar med Outlook tilldelas Dynamic Chat följande behörigheter:
+
+* Fullständig åtkomst till dina kalendrar
+* Logga in dig och läs din profil
+* Bevara åtkomst till data som du har gett åtkomst till
+* Läs inställningarna för din postlåda
+
+När du konfigurerar med Google tilldelas Dynamic Chat följande behörigheter:
+
+* Skapa, ändra eller ta bort kalendrar
+* Uppdatera enskilda kalenderhändelser
+* Ändra inställningarna, inklusive vilka som kan se händelserna
+* Ändra vem kalendern delas med
+* Åtkomst till ditt namn, din e-postadress, språkpreferens och profilbild
