@@ -2,9 +2,9 @@
 description: Stegtyper för säljkampanj och påminnelseuppgifter - Marketo Docs - produktdokumentation
 title: Stegtyper för säljkampanj och påminnelseaktiviteter
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
-source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
+source-git-commit: eeeff565e11cf98585bc6fef98f51d1c1f74199c
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Skapa ett nytt e-postmeddelande eller använd en befintlig mall.
 
 >[!TIP]
 >
->Läs mer om [sändningsalternativ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md){target=&quot;_blank&quot;}.
+>Läs mer om [sändningsalternativ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}.
 
 ### Utlysning {#call}
 
@@ -65,4 +65,4 @@ Du kan även göra en&quot;Task to Inmail&quot; till en kontakt i LinkedIn om de
 
 >[!MORELIKETHIS]
 >
->[Skapa en försäljningskampanj](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target=&quot;_blank&quot;}
+>[Skapa en försäljningskampanj](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}

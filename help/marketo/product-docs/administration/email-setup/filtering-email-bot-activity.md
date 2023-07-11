@@ -2,7 +2,7 @@
 description: Filtrering av e-postsatsaktivitet - Marketo Docs - produktdokumentation
 title: Filtrerar e-postsatsaktivitet
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+source-git-commit: eeeff565e11cf98585bc6fef98f51d1c1f74199c
 workflow-type: tm+mt
 source-wordcount: '449'
 ht-degree: 15%
@@ -13,7 +13,7 @@ ht-degree: 15%
 
 Ibland kan aktiviteten för e-postrobot felaktigt blåsa upp e-postöppningen och klicka på data. Åtgärda problemet genom att följa stegen nedan.
 
-Vi använder tre olika metoder för att bekräfta båda aktiviteterna:
+Vi använder två olika metoder för att bekräfta båda aktiviteterna:
 
 * Matcha med [Interactive Advertising Bureau bot list](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: Aktiviteter som matchar något i listan IAB UA/IP (User Agent/IP address) markeras som bots.
 * Matcha med närhetsmönster: När fler än två aktiviteter inträffar samtidigt (på mindre än en sekund) identifieras de som bottar. Attribut som beaktas vid jämförelse är:
