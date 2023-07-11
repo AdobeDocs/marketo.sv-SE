@@ -2,9 +2,9 @@
 description: Event Workflows - Marketo Docs - Product Documentation
 title: Arbetsflöden för händelser
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
-source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
+source-git-commit: c7479355c7f5fda97ce6ad0f18a5c3c6a597e535
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,9 @@ Kontrollpanelen består av fyra widgetar.
 
 **Närvaro**: Framhäver närvarotiden för olika medlemmar som har deltagit i webbinariet i procent jämfört med den totala längden på webbinariet.
 
-**Avsökningsprestanda**: Visar olika omröstningar som har startats under webbinariet i Adobe Connect och hur de medlemmar som har deltagit i och svarat på omröstningen har distribuerats för varje svar.
+**Avsökningsprestanda**: Visar olika omröstningar som har startats under det webbinarium som drivs av Adobe Connect och distributionen av de medlemmar som har deltagit i och svarat på omröstningen för var och en av svaren.
 
-**Klicka och hämta filer**: Visar antalet nedladdningar av filer och webblänkar som klickats under webbinariet i Adobe Connect av olika medlemmar som har besökt webbinariet och vidtagit just den åtgärden.
+**Klicka och hämta filer**: Visar antalet nedladdningar av filer och webblänkar som klickats under webbinariet som drivs av Adobe Connect av olika medlemmar som har deltagit i webbinariet och vidtagit just den åtgärden.
 
 ## Utlösare och filter {#triggers-and-filters}
 

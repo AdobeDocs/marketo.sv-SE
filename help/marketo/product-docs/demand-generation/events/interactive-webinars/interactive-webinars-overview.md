@@ -2,9 +2,9 @@
 description: Översikt över interaktiva webbinarier - Marketo Docs - produktdokumentation
 title: Översikt över interaktiva webbinarier
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
+source-git-commit: c7479355c7f5fda97ce6ad0f18a5c3c6a597e535
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,6 @@ Kontakta kontoteamet (din kontoansvarige) för Adobe om du behöver hjälp.
 
 Ja, du kan styra vilka Marketo-användare som får tillstånd att skapa och leverera interaktiva webbinarier. Du kommer åt detta via avsnittet Interaktiva webbinarier i administrationsområdet i din Adobe Marketo Engage-instans.
 
-**Måste jag koppla Adobe Connect webbinarium tillbaka till Interactive Webinar Event Program som Launchpoint Event Programs?**
+**Måste jag koppla webbinariet som drivs av Adobe Connect tillbaka till Interactive Webinar Event Program som Launchpoint Event Programs?**
 
 Nej, interaktiva webbinariets händelseprogram gör associationen till dig.

@@ -2,9 +2,9 @@
 description: Hantering av användare och licenser - Marketo Docs - produktdokumentation
 title: Hantering av användare och licenser
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
-source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
+source-git-commit: c7479355c7f5fda97ce6ad0f18a5c3c6a597e535
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ Lär dig hur du lägger till och tar bort användare och visar dina aktuella lic
 
 ## Licensanvändning {#license-usage}
 
-Interactive Webinars erbjuder specifika licenser för att skapa Adobe Connect-event. Varje gång en licens läggs till visas en ny ruta för licensanvändning. Marketo-administratörer kan visa (inte redigera) licenserna genom att följa stegen nedan. Kontakta kontogruppen på Adobe (din kontohanterare) för att få ytterligare licenser.
+Interactive Webinars erbjuder specifika licenser för att skapa event baserade på Adobe Connect. Varje gång en licens läggs till visas en ny ruta för licensanvändning. Marketo-administratörer kan visa (inte redigera) licenserna genom att följa stegen nedan. Kontakta kontogruppen på Adobe (din kontohanterare) för att få ytterligare licenser.
 
 1. Gå till **Administratör** område.
 
