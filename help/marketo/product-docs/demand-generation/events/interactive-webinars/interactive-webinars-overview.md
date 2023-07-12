@@ -2,9 +2,9 @@
 description: Översikt över interaktiva webbinarier - Marketo Docs - produktdokumentation
 title: Översikt över interaktiva webbinarier
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: c7479355c7f5fda97ce6ad0f18a5c3c6a597e535
+source-git-commit: 95751fc45efb135f13fdcc3f57806f9c669e76ad
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -23,25 +23,13 @@ Efter webbinariet kan du [händelseprestandaanalys](/help/marketo/product-docs/d
 
 ## Vanliga frågor {#faq}
 
-**Behöver jag en separat Adobe Connect-licens för att använda interaktiva webbinarier?**
+**Behöver jag en separat prenumeration för att använda interaktiva webbinarier?**
 
 Nej. Endast en aktiv Marketo Engage-prenumeration krävs för att använda interaktiva webbinarier.
 
-**Vilka interaktiva webbinarier-licenser finns det?**
-
-Interaktiva webbinarier har tre typer av licenser.
-
-`1.` Licens för delade händelser - Den här licensen är tillgänglig i olika deltagarlägen: 500, 1 000 och 1 500. Det innehåller ett begränsat antal webbinarier som kan användas och 3 GB lagringsutrymme.
-
-`2.` Licens för delade rum - Den här licensen är tillgänglig i olika deltagarlägen: 200, 500, 1000 och 1500. Det innehåller ett obegränsat antal webbinarier som kan användas och obegränsad lagring.
-
-`3.` Ytterligare lagringslicens - Den här licensen innehåller ytterligare lagringsutrymme (100 GB eller 1 TB) som kan användas i flera licenser för delade händelser där lagringsgränsen har överskridits.
-
-Du kan köpa valfri kombination av dessa licenser.
-
 **Jag har uttömt det antal interaktiva webbinarier som ingår. Hur får jag fler sessioner eller mer kapacitet?**
 
-Kontakta kontoteamet (din kontoansvarige) för Adobe om du behöver hjälp.
+Du måste kontakta kontoteamet på Adobe (din kontoansvarige) för att få hjälp.
 
 **Kan jag som Marketo-administratör kontrollera vilka av mina Marketo-användare som kan skapa interaktiva webbinarier?**
 
