@@ -3,10 +3,10 @@ unique-page-id: 7503971
 description: Skapa en presentation - Marketo Docs - produktdokumentation
 title: Skapa en presentation
 exl-id: 3a591c03-2604-44be-b335-2258151beaeb
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 0%
+source-wordcount: '74'
+ht-degree: 5%
 
 ---
 
@@ -19,19 +19,19 @@ Skapa en presentation för att projicera teamets kalendervyer och mål på en HD
 >
 >Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
 
-1. Gå till **Kalender**.
+1. Gå till **[!UICONTROL Calendar]**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
-1. Klicka **Presentation** i det nedre högra hörnet.
+1. Klicka **[!UICONTROL Presentations]** i det nedre högra hörnet.
 
    ![](assets/image2015-3-18-12-3a29-3a26.png)
 
-1. Klicka **Presentationsåtgärder** och markera **Ny presentation**.
+1. Klicka på **[!UICONTROL Presentation Actions]** och välj **[!UICONTROL New Presentation]**.
 
    ![](assets/image2015-3-26-12-3a38-3a6.png)
 
-1. Välj ett namn för presentationen. Klicka **Skapa**.
+1. Välj ett namn för presentationen. Klicka på **[!UICONTROL Create]**.
 
    ![](assets/image2015-3-18-12-3a32-3a30.png)
 

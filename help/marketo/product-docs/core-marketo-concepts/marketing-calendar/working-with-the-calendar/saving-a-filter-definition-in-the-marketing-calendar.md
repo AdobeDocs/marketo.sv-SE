@@ -3,10 +3,10 @@ unique-page-id: 1147296
 description: Spara en filterdefinition i marknadsföringskalendern - Marketo Docs - produktdokumentation
 title: Spara en filterdefinition i marknadsföringskalendern
 exl-id: 66346207-6e8d-472d-971c-31417bd5210b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 0%
+source-wordcount: '84'
+ht-degree: 1%
 
 ---
 
@@ -16,7 +16,7 @@ När du sparar ett filter kan du växla fram och tillbaka mellan olika filterdef
 
 >[!PREREQUISITES]
 >
->[Filtrera marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
+>[Filtrera marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}
 
 1. Definiera filtret.
 
@@ -26,16 +26,16 @@ När du sparar ett filter kan du växla fram och tillbaka mellan olika filterdef
 
    ![](assets/image2014-9-24-10-3a50-3a57.png)
 
-1. Ge filtret ett namn. Klicka **Spara**.
+1. Ge filtret ett namn. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-24-10-3a51-3a3.png)
 
-   Kom igen! Filtret sparas nu.
+   Filtret sparas nu.
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   Om du vill kan du [skicka en kopia](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md) för andra Marketo-användare.
+   Om du vill kan du [skicka en kopia](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} för andra Marketo-användare.
 
    >[!NOTE]
    >
-   >[Dela en filterdefinition i marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md)
+   >[Dela en filterdefinition i marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}

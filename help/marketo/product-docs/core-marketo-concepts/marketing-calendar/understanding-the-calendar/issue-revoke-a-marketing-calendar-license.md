@@ -3,10 +3,10 @@ unique-page-id: 1147255
 description: Utfärda/återkalla en licens för en marknadsföringskalender - Marketo Docs - produktdokumentation
 title: Utfärda/återkalla en licens för en marknadsföringskalender
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 1%
 
 ---
 
@@ -16,17 +16,17 @@ ht-degree: 0%
 >
 >**Administratörsbehörigheter krävs**
 
-Så här använder du [Marknadsföringskalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) licenser måste ni utfärda licenser till användare som behöver åtkomst. Så här gör du.
+Så här använder du [Marknadsföringskalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"} licenser måste ni utfärda licenser till användare som behöver åtkomst. Så här gör du.
 
-1. Gå till **Administratör** -avsnitt.
+1. Gå till **[!UICONTROL Admin]** -avsnitt.
 
    ![](assets/adminhand.png)
 
-1. Klicka **Användare och roller**.
+1. Klicka på **[!UICONTROL Users & Roles]**.
 
    ![](assets/2.png)
 
-1. Markera användare och klicka på **Utfärda licens.**
+1. Markera användare och klicka på **[!UICONTROL Issue License]**.
 
    >[!TIP]
    >
@@ -34,7 +34,7 @@ Så här använder du [Marknadsföringskalender](/help/marketo/product-docs/core
 
    ![](assets/3.png)
 
-1. Kontrollera **Aktivera licens** och klicka **Spara.**
+1. Kontrollera **[!UICONTROL Enable License]** och klicka **[!UICONTROL Save]**.
 
    >[!NOTE]
    >
@@ -45,5 +45,3 @@ Så här använder du [Marknadsföringskalender](/help/marketo/product-docs/core
    Snyggt gjort! Se den gröna bockmarkeringen under &quot;Kalender?&quot;
 
    ![](assets/5.png)
-
-Awesome - Du är redo att sätta dit dig!

@@ -3,9 +3,9 @@ unique-page-id: 7504128
 description: Skapa ett smart listmål - Marketo Docs - produktdokumentation
 title: Skapa ett mål för en smart lista
 exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -16,23 +16,23 @@ Målen är sätt att följa utvecklingen och motivera ert team. De kan kombinera
 
 Precis som presentationer är målen [arbetsyta](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)-specifik.
 
-1. Gå till **Kalender**.
+1. Gå till **[!UICONTROL Calendar]**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. Klicka **Presentation** i det nedre högra hörnet.
+1. Klicka **[!UICONTROL Presentations]** i det nedre högra hörnet.
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. Välj **Mål** -fliken.
+1. Välj **[!UICONTROL Goals]** -fliken.
 
    ![](assets/image2015-3-26-12-3a25-3a17.png)
 
-1. Dra och släpp **Mål för smart lista** på arbetsytan.
+1. Dra och släpp **[!UICONTROL Smart List Goal]** på arbetsytan.
 
    ![](assets/image2015-3-24-12-3a47-3a36.png)
 
-1. Ange ett namn för målet och ange ett **Mål**. Klicka sedan på **Skapa**.
+1. Ange ett namn för målet och ange ett **[!UICONTROL Goal Target]**. Klicka sedan på **[!UICONTROL Create]**.
 
    ![](assets/image2015-3-24-12-3a50-3a6.png)
 
@@ -40,7 +40,7 @@ Precis som presentationer är målen [arbetsyta](/help/marketo/product-docs/admi
 
    ![](assets/mql.png)
 
-1. När den smarta listan är klar klickar du på **Stäng** och gå tillbaka till föregående flik.
+1. När den smarta listan är klar klickar du på **[!UICONTROL Close]** och gå tillbaka till föregående flik.
 
    ![](assets/mql2.png)
 

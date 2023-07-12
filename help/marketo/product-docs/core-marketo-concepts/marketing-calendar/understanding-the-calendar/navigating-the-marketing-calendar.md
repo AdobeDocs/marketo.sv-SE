@@ -3,9 +3,9 @@ unique-page-id: 1147257
 description: Navigera i marknadsföringskalendern - Marketo Docs - produktdokumentation
 title: Navigera i marknadsföringskalendern
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Det är enkelt att navigera runt i marknadsföringskalendern som en, två, tre!
 
 >[!PREREQUISITES]
 >
->Kontrollera att du har en [Licens för marknadsföringskalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) - annars visas inte Marketing Calendar-panelen i My Marketo.
+>Kontrollera att du har en [Licens för marknadsföringskalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} - annars visas inte Marketing Calendar-panelen i My Marketo.
 
 1. Gå till **Marknadsföringskalender**.
 
@@ -28,7 +28,7 @@ Det är enkelt att navigera runt i marknadsföringskalendern som en, två, tre!
 
 ## Ändra mellan lägen {#change-between-modes}
 
-1. Klicka på **3 veckor** eller **Månad** för att växla mellan lägen.
+1. Klicka på **[!UICONTROL 3 weeks]** eller **[!UICONTROL Month]** för att växla mellan lägen.
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
@@ -36,11 +36,11 @@ Det är enkelt att navigera runt i marknadsföringskalendern som en, två, tre!
 
 I dagordningsvyn visas alla dina bidrag som en lista.
 
-1. Klicka på **Listruta för filter**.
+1. Klicka på **[!UICONTROL Filter]** nedrullningsbar meny.
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-1. Välj **Dagordning** vy.
+1. Välj **[!UICONTROL Agenda]** vy.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
@@ -66,4 +66,4 @@ Häftig! Det här är grunderna. Du kan också anpassa vyn med hjälp av filter.
 
 >[!MORELIKETHIS]
 >
->[Filtrera marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
+>[Filtrera marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}

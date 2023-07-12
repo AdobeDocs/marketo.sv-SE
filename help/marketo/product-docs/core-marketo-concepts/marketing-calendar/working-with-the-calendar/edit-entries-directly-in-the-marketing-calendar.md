@@ -3,9 +3,9 @@ unique-page-id: 2953352
 description: Redigera tävlingsbidrag direkt i marknadsföringskalendern - Marketo Docs - produktdokumentation
 title: Redigera poster direkt i marknadsföringskalendern
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,11 @@ I programfokusläget kan du snabbt ändra kalenderposterna. Så här gör du.
 
 ## Aktivera programfokus {#enable-program-focus}
 
-1. Gå till **Kalender**.
+1. Klicka på **[!UICONTROL Calendar]** platta.
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. Välj en post som tillhör programmet som du vill fokusera på och klicka på **Visa programfokus**.
+1. Välj en post som tillhör programmet som du vill fokusera på och klicka på **[!UICONTROL Show Program Focus]**.
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 
@@ -66,4 +66,4 @@ Så ja! Som du ser finns det många saker du kan göra direkt i marknadsförings
 
 >[!MORELIKETHIS]
 >
->[Radera transaktioner direkt i marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
+>[Radera transaktioner direkt i marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}
