@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation – Marketo Docs – produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
+source-git-commit: 94c6a8dd94bce1d4e938f62365e8fc2c3c391814
 workflow-type: tm+mt
-source-wordcount: '643'
+source-wordcount: '673'
 ht-degree: 2%
 
 ---
@@ -45,7 +45,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
 
 </br>
 
-* **Chattkälla för Dynamic Chat**: &quot;Chatt&quot; erbjuds nu som en källa till nya personregister och -aktiviteter. Den här källan kan användas för att hjälpa användare att filtrera aktiviteter i smarta listor/kampanjer. Källan kan också blockeras från uppdateringar i fält.
+* **Chattkälla för dynamiskt chatt**: &quot;Chatt&quot; erbjuds nu som en källa till nya personregister och -aktiviteter. Den här källan kan användas för att hjälpa användare att filtrera aktiviteter i smarta listor/kampanjer. Källan kan också blockeras från uppdateringar i fält.
 
 <table> 
   <tr> 
@@ -165,6 +165,10 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
 
 Det kommer två förbättringar av personaliseringen i realtid i Marketo Engage.
 
-* **Uppgradera till Google Analytics 4**: Marketo har tidigare stött Universal Analytics, som kommer att sluta spela in data senast 1 juli 2023. RTP-användare måste följa migreringsprocessen på sin Google Analytics-kontrollpanel för att få fullständigt stöd för integrering av Google Analytics 4 i RTP. Framöver kommer användarna att ha en unik alfanumerisk tagg (som finns i `<head>` i HTML-delen) på landningssidorna som gör att Marketo kan skicka data till Google Analytics.
+* **Uppgradera till jQuery 3.7**: För att förbättra säkerheten och stabiliteten uppgraderar Marketo till jQuery 3.7.0. RTP-användare som inte läser in egna jQuery påverkas inte negativt eftersom Marketo ändrar standardversionen som läses in från rtp.js. Om du är en RTP-användare med en äldre version av jQuery än 3.0.0 kontaktar du [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} om du behöver hjälp med att implementera en anpassad version av rtp.js som passar dina behov.
 
-* **Uppgradera till jQuery 3.7**: För att förbättra säkerheten och stabiliteten uppgraderar Marketo till jQuery 3.7.0. RTP-användare som inte läser in egna jQuery påverkas inte negativt eftersom Marketo ändrar standardversionen som läses in från rtp.js. Om du är en RTP-användare med en tidigare version av jQuery än 3.0.0 kontaktar du [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} om du behöver hjälp med att implementera en anpassad version av rtp.js som passar dina behov.
+>[!NOTE]
+>
+>Kontakta webbutvecklingsteamet för att avgöra om din webbplats läser in ditt eget JQuery-bibliotek eller använder den standardversion som läses in från JavaScript-taggen för webbanpassning.
+
+* **Uppgradera till Google Analytics 4**: Marketo har tidigare stött Universal Analytics, som kommer att sluta spela in data senast 1 juli 2023. RTP-användare måste följa migreringsprocessen på sin Google Analytics-kontrollpanel för att få fullständigt stöd för integrering av Google Analytics 4 i RTP. Framöver kommer användarna att ha en unik alfanumerisk tagg (som finns i `<head>` i HTML-delen) på landningssidorna som gör att Marketo kan skicka data till Google Analytics.
