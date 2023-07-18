@@ -3,16 +3,16 @@ description: Inherit Doc - Marketo Docs - produktdokumentation
 title: Ärv dokument
 hide: true
 hidefromtoc: true
-source-git-commit: 94c6a8dd94bce1d4e938f62365e8fc2c3c391814
+source-git-commit: 15c3124a53ce55810b598c43e29e21321534c81f
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 47%
+source-wordcount: '188'
+ht-degree: 48%
 
 ---
 
 # Ärv dokument {#inherit-doc}
 
-Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? I så fall är den här guiden avsedd för dig.
+Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? I så fall är den här artikeln till dig.
 
 >[!TIP]
 >
