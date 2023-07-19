@@ -4,7 +4,7 @@ title: Översikt över Engagement Canvas
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
+source-git-commit: 60b3abf6639e4a257b37fd3ace3cb5a3a6c318fb
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 0%
@@ -43,7 +43,7 @@ SIDHUVUD - KORTBESKRIVNINGAR? - LOPA BEKRÄFTAR
 
 ## Kapslade kampanjer {#nested-campaigns}
 
-* Om en kampanj innehåller ett Request- eller Execute Campaign-flödessteg visas information om den kampanj som anropas samt en utfällbar panel med ytterligare information om du klickar på flödeskortet. (Den kapslade kampanjen kommer även att innehålla en närbild. Om du klickar på den komprimeras korten som är kopplade till den kapslade kampanjen.) !!!!!!!!!!!!!! - ORDNA OM ELLER TA BORT - LOPA BEKRÄFTAR
+* Om en kampanj innehåller ett Request- eller Execute Campaign-flödessteg visas information om den kampanj som anropas samt en utfällbar panel med ytterligare information om du klickar på flödeskortet. (Den kapslade kampanjen kommer även att innehålla en närbild. Om du klickar på den komprimeras korten som är kopplade till den kapslade kampanjen.) !!!!!!!!!!!!! - ORDNA OM ELLER TA BORT - LOPA BEKRÄFTAR
 
 * Om en kampanj innehåller ett Request- eller Execute Campaign-flödessteg med alternativ, visas ett alternativt alternativkort och en utfällbar panel med mer information om alternativen när du klickar på flödeskortet. Om du klickar på varje alternativkort visas information om den kampanj som anropas samt en utfällbar panel med mer information.
 
