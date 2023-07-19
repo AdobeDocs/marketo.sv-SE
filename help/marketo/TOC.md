@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 15c3124a53ce55810b598c43e29e21321534c81f
+source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
 workflow-type: tm+mt
 source-wordcount: '8996'
 ht-degree: 0%
@@ -400,7 +400,7 @@ ht-degree: 0%
             + [Använda periodkostnader i ett program](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
          + Programbibliotek {#program-library}
             + [Översikt över programimportbiblioteket](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
-            + [Mall för program för hantering av samtycke](product-docs/core-marketo-concepts/programs/program-library/consent-management-program-template.md)
+            + [Mall för Content Management Program](product-docs/core-marketo-concepts/programs/program-library/content-management-program-template.md)
          + Rapport om programprestanda {#program-performance-report}
             + [Skapa en rapport om programprestanda](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [Lägg till programstatuskolumner i en programrapport](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
@@ -628,7 +628,7 @@ ht-degree: 0%
          + [Webbläsarmeddelanden](product-docs/demand-generation/dynamic-chat/browser-notifications.md)
          + [Konfiguration](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [Chatbot-beteende](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
-         + [Dynamiska chattaktiviteter](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+         + [Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
          + Schemaläggning av avtalad tid {#appointment-scheduling}
             + [Kalender](product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md)
             + [Möten](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)

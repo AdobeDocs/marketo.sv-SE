@@ -4,9 +4,9 @@ title: Översikt över Engagement Canvas
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: d661e2270b63744ff7c18a4f2f5ca9e079271b11
+source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,35 @@ Den övre navigeringen innehåller följande funktioner:
 
 ## Vanliga frågor {#faq}
 
-LOPA KOMMER ATT TILLHANDAHÅLLA
+**Måste jag återskapa alla mina kampanjer i Engagement Canvas?**
+
+Nej. Engagement Canvas är helt bakåtkompatibelt. Med en enkel musklickning kan ni se alla era befintliga kampanjer i gränssnittet för Visual Engagement Canvas.
+
+**Betyder Engagement Canvas i Marketo Engage att jag inte längre har tillgång till mappstrukturen och måste lära mig hur man bygger en Smart Campaign?**
+
+Nej. Det fina med Engagement Canvas är att det ger dig det bästa av två världar; det kompletterar det sätt på vilket ni bygger kampanjer för närvarande. Du kan välja om du vill använda det befintliga användargränssnittet eller skapa/visualisera i det nya användargränssnittet. Alla användare kommer fortfarande att få tillgång till kraftfulla Marketo Engage-funktioner som nu kompletteras av ett visuellt verktyg.
+
+**Är Engagement Canvas ett betalt tillägg?**
+
+Nej. Alla befintliga och nya användare av Marketo Engage under alla prenumerationer har tillgång till den här kostnadsfria funktionen.
+
+**Är det jag som administratör för Marketo Engage som ansvarar för att aktivera/inaktivera Engagement Canvas?**
+
+Nej. Engagement Canvas blir tillgängligt för alla användare i deras instanser. Du kan inte aktivera/inaktivera den för vissa användare, arbetsytor osv.
+
+**Finns det för närvarande allt som finns i smarta kampanjer även i Engagement Canvas?**
+
+Ja. Engagement Canvas har fullständig funktionsparitet med smarta kampanjer.
+
+**På vilket sätt skiljer sig detta från andra visuella verktyg?**
+
+Det finns tre viktiga saker som skiljer Engagement Canvas åt:
+
+* Flexibilitet: Hantera och validera enkelt sammankopplade eller djupt inkapslade kampanjer med visualisering.
+
+* Funktionalitet: Alla bilder ligger utanför kartongen vilket gör dem enklare att använda. den kapslade strukturen gör att du kan dyka in och få hela bilden.
+
+* Ström: Du behåller alla finesser i Marketo Engage, nu i ett visuellt format.
 
 >[!MORELIKETHIS]
 >
