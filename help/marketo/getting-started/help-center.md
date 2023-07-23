@@ -1,7 +1,9 @@
 ---
 description: Help Center - Marketo Docs - produktdokumentation
 title: Help Center
-source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
+feature: Getting Started
+exl-id: 3e8c3db6-c1ad-4895-9bdf-95118876ed18
+source-git-commit: 131da986d36997e8dfb7ecf62e8ed7b95ffc2b0f
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
