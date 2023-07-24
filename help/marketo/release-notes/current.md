@@ -2,9 +2,9 @@
 description: Aktuell versionsinformation – Marketo Docs – produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 94c6a8dd94bce1d4e938f62365e8fc2c3c391814
+source-git-commit: d232da08e8637a33ff76d63e7984d794a1e18e16
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '713'
 ht-degree: 2%
 
 ---
@@ -45,7 +45,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
 
 </br>
 
-* **Chattkälla för dynamiskt chatt**: &quot;Chatt&quot; erbjuds nu som en källa till nya personregister och -aktiviteter. Den här källan kan användas för att hjälpa användare att filtrera aktiviteter i smarta listor/kampanjer. Källan kan också blockeras från uppdateringar i fält.
+* **Chattkälla för Dynamic Chat**: &quot;Chatt&quot; erbjuds nu som en källa till nya personregister och -aktiviteter. Den här källan kan användas för att hjälpa användare att filtrera aktiviteter i smarta listor/kampanjer. Källan kan också blockeras från uppdateringar i fält.
 
 <table> 
   <tr> 
@@ -172,3 +172,5 @@ Det kommer två förbättringar av personaliseringen i realtid i Marketo Engage.
 >Kontakta webbutvecklingsteamet för att avgöra om din webbplats läser in ditt eget JQuery-bibliotek eller använder den standardversion som läses in från JavaScript-taggen för webbanpassning.
 
 * **Uppgradera till Google Analytics 4**: Marketo har tidigare stött Universal Analytics, som kommer att sluta spela in data senast 1 juli 2023. RTP-användare måste följa migreringsprocessen på sin Google Analytics-kontrollpanel för att få fullständigt stöd för integrering av Google Analytics 4 i RTP. Framöver kommer användarna att ha en unik alfanumerisk tagg (som finns i `<head>` i HTML-delen) på landningssidorna som gör att Marketo kan skicka data till Google Analytics.
+
+* **_Product Release Webinar_**: Besök oss den 6 september 2023 kl. 9.00 PT/12.00 ET för en [live webbinarium](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} som hanteras av vårt produktteam där du får se hur du kan använda alla de senaste produktinnovationerna.
