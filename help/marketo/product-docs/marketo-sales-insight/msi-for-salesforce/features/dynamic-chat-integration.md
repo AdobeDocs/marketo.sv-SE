@@ -10,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Integrering med Dynamic Chat {#dynamic-chat-integration}
+# Dynamisk chattintegrering {#dynamic-chat-integration}
 
 Läs mer om integrationen mellan Dynamic Chat och Sales Insight.
 

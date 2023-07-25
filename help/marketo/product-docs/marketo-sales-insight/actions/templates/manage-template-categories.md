@@ -4,9 +4,10 @@ title: Hantera mallkategorier
 hide: true
 hidefromtoc: true
 exl-id: 6ec62e51-de9a-4165-b36b-d9260fcfcefe
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+feature: Sales Insight Actions
+source-git-commit: 7e0708db6abbdf5c151fe05647da7a7b0b3cbd13
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -57,4 +58,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Kategorier kan inte tas bort om de fortfarande innehåller mallar. Flytta eller ta bort alla mallar innan du tar bort en kategori.
+>Kategorier kan inte tas bort om de innehåller mallar. Flytta eller ta bort alla mallar innan du tar bort en kategori.

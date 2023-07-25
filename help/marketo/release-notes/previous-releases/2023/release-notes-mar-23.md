@@ -108,7 +108,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
   </tbody>
 </table>
 
-* **Roller och behörigheter för Dynamic Chat**: Lägger till roller och behörigheter i Dynamic Chat, vilket gör att administratörer kan begränsa synlighet och användning av olika delar av programmet till valda användartyper.
+* **Roller och behörigheter för dynamisk chatt**: Lägger till roller och behörigheter till Dynamic Chat, vilket gör att administratörer kan begränsa synlighet och användning av olika delar av programmet till valda användartyper.
 
 <table> 
   <tr> 

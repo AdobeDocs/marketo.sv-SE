@@ -10,7 +10,7 @@ ht-degree: 1%
 
 ---
 
-# Dynamisk chattöversikt {#dynamic-chat-overview}
+# Översikt över Dynamic Chat {#dynamic-chat-overview}
 
 Med Dynamic Chat kan ni utnyttja ett lättanvänt gränssnitt för att nå ut till både personer och konton på er webbplats. Samla in relevant innehåll som namn, kontaktinformation och fritext. Besökarna kan även boka möten med säljteamet. Dynamic Chat-aktivitet och engagemangsdata kan användas för att lägga till medlemmar i Marketo-program och aktivera flerkanalsaktiviteter.
 
