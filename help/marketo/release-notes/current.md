@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 7e0d78810cce1c35918a15ad29c1f3863128c1dd
+source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
 workflow-type: tm+mt
-source-wordcount: '713'
+source-wordcount: '780'
 ht-degree: 2%
 
 ---
@@ -24,7 +24,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 </br>
 
-* **Engagement Canvas**: Engagement Canvas är ett visuellt verktyg som gör att ni kan skapa och organisera återanvändbara kampanjer. Den är helt bakåtkompatibel, så alla befintliga kampanjer kan visas i den nya strukturen med en enkel musklickning. Du kan ladda ned och dela uppslag.
+* **Engagement Map**: Engagement Map är ett visuellt verktyg som gör att ni kan skapa och organisera återanvändbara kampanjer. Den är helt bakåtkompatibel, så alla befintliga kampanjer kan visas i den nya strukturen med en enkel musklickning. Du kan ladda ned och dela uppslag.
 
 <table> 
   <tr> 
@@ -38,6 +38,20 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   </tbody>
 </table>
 
+* **Meddelanden - webbtjänstfel**: Felmeddelandet för webbtjänster innehåller nu prenumerationsnamnet, vilket gör det enklare för dem som hanterar flera Marketo Engage-instanser. Vi har också lagt till en användarkolumn i tabellen som innehåller felkoder och räknare, så att du enkelt kan identifiera vilken API-användare som ansvarade för att generera ett specifikt fel när du anropar Marketo REST API.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Dokumentationsuppdateringar</b></td>
+  </tr>
+  <tr> 
+   <td>Levererat</td>
+   <td>n/a</td>
+  </tr>
+  </tbody>
+</table>
+
 ## Agile Release-funktioner
 
 Följande funktioner följer ett Agile-format och släpps på olika datum före eller efter standardreleasedatum. Kontrollera status för respektive funktion nedan.
@@ -46,7 +60,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
 
 </br>
 
-* **Chattkälla för dynamiskt chatt**: &quot;Chatt&quot; erbjuds nu som en källa till nya personregister och -aktiviteter. Den här källan kan användas för att hjälpa användare att filtrera aktiviteter i smarta listor/kampanjer. Källan kan också blockeras från uppdateringar i fält.
+* **Chattkälla för Dynamic Chat**: &quot;Chatt&quot; erbjuds nu som en källa till nya personregister och -aktiviteter. Den här källan kan användas för att hjälpa användare att filtrera aktiviteter i smarta listor/kampanjer. Källan kan också blockeras från uppdateringar i fält.
 
 <table> 
   <tr> 
