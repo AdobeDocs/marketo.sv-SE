@@ -3,7 +3,8 @@ unique-page-id: 11385183
 description: TAM Sales Report - Marketo Docs - Product Documentation
 title: TAM-försäljningsrapport
 exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%

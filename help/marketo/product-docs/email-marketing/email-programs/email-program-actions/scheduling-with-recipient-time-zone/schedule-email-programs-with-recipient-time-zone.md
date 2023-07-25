@@ -3,7 +3,8 @@ unique-page-id: 12982903
 description: Schemalägg e-postprogram med mottagartidszon - Marketo Docs - produktdokumentation
 title: Schemalägg e-postprogram med mottagartidszon
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
@@ -36,7 +37,6 @@ Detta ger dig två alternativ:
 >* **Leverera följande dag i mottagarens tidszon**: om e-postmeddelandet är schemalagt att skickas ut på tisdag klockan 9:00, kommer kvalificerade personer som bor i tidszoner där den schemalagda tiden redan har passerat att få e-postmeddelandet den *onsdag* klockan 9.00.
 >
 >* **Leverera med programmets standardinställda tid**: om e-postmeddelandet är schemalagt att skickas ut tisdag klockan 9:00 får kvalificerade personer som bor i tidszoner där den schemalagda tiden redan har passerat e-postmeddelandet _baserat på dina inställningar för prenumerationstidszon_. Så om [inställningar för prenumerationstidszon](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) som är inställda på PDT America/Los Angeles kommer dessa mottagare fortfarande att få e-postmeddelandet på tisdag klockan 9:00 PDT (vilken tid som helst i deras egna tidszoner).
-
 
 >[!NOTE]
 >
@@ -94,4 +94,3 @@ Kort och gott: e-postprogram som schemalagts med mottagartidszon måste börja k
 >* [Förstå mottagartidszon](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 >* [Head Start for Email Programs](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
 >* [Avbryt leverans av e-postprogram som schemalagts med mottagartidszon](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)
-

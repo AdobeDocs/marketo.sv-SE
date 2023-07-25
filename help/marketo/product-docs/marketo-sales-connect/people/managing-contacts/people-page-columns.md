@@ -3,7 +3,8 @@ unique-page-id: 30081307
 description: Sidkolumner - Marketo Docs - produktdokumentation
 title: Sidkolumner för personer
 exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 4%

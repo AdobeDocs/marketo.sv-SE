@@ -3,9 +3,10 @@ unique-page-id: 3571743
 description: Konfigurera Marketo Sales Insight i Salesforce Professional Edition - Marketo Docs - produktdokumentation
 title: Konfigurera Marketo Sales Insight i Salesforce Professional Edition
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
-source-git-commit: 2fb887e38ec2832b4b62f323d5f72baab24bf41e
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '886'
+source-wordcount: '872'
 ht-degree: 0%
 
 ---
@@ -18,8 +19,7 @@ Här är de steg du måste ta för att konfigurera Marketo Sales Insight i Sales
 >
 >* Installera Marketo i Salesforce Professional Edition.
 >
->* [Installera Marketo Sales Insight-paket i Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target=&quot;_blank&quot;}
-
+>* [Installera Marketo Sales Insight-paket i Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -274,9 +274,9 @@ Marketo personfält måste mappas till Salesforce-kontaktfält för att säkerst
 
 1. I Salesforce klickar du på **+** i slutet av flikfältet och klicka på **Marketo Sales Insight Config**.
 
-1. Kopiera inloggningsuppgifterna från Soap API-panelen i [Marketo sida Sales Insight Admin](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} och klistra in dem i Soap API-avsnittet på sidan Konfiguration av Salesforce Sales Insight.
+1. Kopiera inloggningsuppgifterna från Soap API-panelen i [Marketo sida Sales Insight Admin](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} och klistra in dem i Soap API-avsnittet på Salesforce Sales Insight Configuration-sidan.
 
-1. Kopiera inloggningsuppgifterna från panelen Rest API i [Marketo sida Sales Insight Admin](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} och klistra in dem i delen Rest API på sidan Konfiguration av Salesforce Sales Insight.
+1. Kopiera inloggningsuppgifterna från panelen Rest API i [Marketo sida Sales Insight Admin](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} och klistra in dem i delen Rest API på sidan Konfiguration av Salesforce Sales Insight.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
 
@@ -284,7 +284,7 @@ Och det är allt! Du bör kunna se fälten Marketo Sales Insight för Leads, Con
 
 >[!NOTE]
 >
->Om diagnostiktestet misslyckades kan du behöva [lägga till fler fält i sidlayouten](https://nation.marketo.com/docs/DOC-1115){target=&quot;_blank&quot;}.
+>Om diagnostiktestet misslyckades kan du behöva [lägga till fler fält i sidlayouten](https://nation.marketo.com/docs/DOC-1115){target="_blank"}.
 
 >[!NOTE]
 >
@@ -292,7 +292,6 @@ Och det är allt! Du bör kunna se fälten Marketo Sales Insight för Leads, Con
 
 >[!MORELIKETHIS]
 >
->* [Prioritet, Urklipp, Relativa poäng och Bästa val](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md){target=&quot;_blank&quot;}
->* [Lägg till Marketo-flik i Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md){target=&quot;_blank&quot;}
->* [Lägg till åtkomst till profiler för Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;}
-
+>* [Prioritet, Urklipp, Relativa poäng och Bästa val](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md){target="_blank"}
+>* [Lägg till Marketo-flik i Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md){target="_blank"}
+>* [Lägg till åtkomst till profiler för Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

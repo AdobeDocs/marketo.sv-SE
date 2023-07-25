@@ -3,7 +3,8 @@ unique-page-id: 2359880
 description: Ordna dina bilder och filer med hjälp av mappar - Marketo Docs - Produktdokumentation
 title: Ordna dina bilder och filer med hjälp av mappar
 exl-id: b2961d6b-8bc0-4376-b438-03d9fd26be72
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Image Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 11381917
 description: Hantering av målkonto - Marketo Docs - produktdokumentation
 title: Hantering av målkonto
 exl-id: ff0c37ac-7206-4346-bfb8-15c734b2a272
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%

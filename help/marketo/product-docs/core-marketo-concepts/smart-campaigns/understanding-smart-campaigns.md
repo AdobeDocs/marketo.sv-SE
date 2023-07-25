@@ -3,9 +3,10 @@ unique-page-id: 2953120
 description: Understanding Smart Campaigns - Marketo Docs - Product Documentation
 title: Om smarta kampanjer
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
-source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---

@@ -3,7 +3,8 @@ unique-page-id: 14352619
 description: Använda uppgifter i kampanjer - Marketo Docs - produktdokumentation
 title: Använda uppgifter i kampanjer
 exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%

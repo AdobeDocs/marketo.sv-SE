@@ -3,7 +3,8 @@ unique-page-id: 10092730
 description: Förhandsgranska ett push-meddelande - Marketo Docs - produktdokumentation
 title: Förhandsgranska ett push-meddelande
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
@@ -68,4 +69,3 @@ Med förhandsgranskning av push-meddelanden vet ni alltså alltid vad kunderna k
 >
 >* [Skapa ett push-meddelande](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 >* [Konfigurera push-meddelanden för mobilen](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
-

@@ -2,7 +2,8 @@
 description: Skapa och tilldela påminnelseuppgifter - Marketo Docs - produktdokumentation
 title: Skapa och tilldela påminnelseuppgifter
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
-source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%

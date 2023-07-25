@@ -3,7 +3,8 @@ unique-page-id: 11376700
 description: Lägg till leads till en anpassad målgrupp i Facebook - Marketo Docs - produktdokumentation
 title: Lägga till leads till en anpassad målgrupp i Facebook
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -19,7 +20,6 @@ Har du redan en anpassad målgrupp i Facebook och vill du lägga till fler leads
 >* [Skapa en anpassad målgrupp i Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 >* [Acceptera Facebook anpassade målgruppsvillkor](https://www.facebook.com/ads/manage/customaudiences/tos.php) på ditt Facebook-konto.
 >
-
 
 1. Sök efter och markera den smarta eller statiska lista som innehåller de leads som du vill lägga till.
 

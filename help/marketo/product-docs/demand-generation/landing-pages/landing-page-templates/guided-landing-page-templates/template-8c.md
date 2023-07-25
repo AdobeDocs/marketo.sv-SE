@@ -3,7 +3,8 @@ unique-page-id: 8783966
 description: Mall 8C - Marketo Docs - produktdokumentation
 title: Mall 8C
 exl-id: 45f0defc-6554-459c-a862-731d18f9ed6b
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%

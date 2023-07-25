@@ -3,7 +3,8 @@ unique-page-id: 1147316
 description: Skapa en person manuellt - Marketo Docs - produktdokumentation
 title: Skapa en person manuellt
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
-source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%

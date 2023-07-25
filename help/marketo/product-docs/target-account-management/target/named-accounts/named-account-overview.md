@@ -3,7 +3,8 @@ unique-page-id: 11378809
 description: Översikt över namngivet konto - Marketo Docs - produktdokumentation
 title: Översikt över namngivet konto
 exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 2%

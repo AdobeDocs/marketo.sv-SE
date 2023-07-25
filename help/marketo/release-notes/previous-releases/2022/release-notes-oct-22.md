@@ -1,7 +1,9 @@
 ---
 description: Versionsinformation - oktober 2022 - Marketo Docs - produktdokumentation
 title: Versionsinformation - oktober 2022
-source-git-commit: b1f3d2f9e695607a1eaee40a162be8648dd6025c
+exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '600'
 ht-degree: 1%
@@ -125,7 +127,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 ![(stjärna)](assets/yellow-star.png)
 
-* **Sales Insight Integration with Dynamic Chat**: Insikter Dashboard innehåller nu Dynamic Chat-aktiviteter i det smarta rutnätet tillsammans med en sammanfattning och detaljerade kort varje vecka.
+* **Sales Insight Integration med Dynamic Chat**: Insikter Dashboard innehåller nu Dynamic Chat-aktiviteter i det smarta rutnätet tillsammans med en sammanfattning och detaljerade kort varje vecka.
 
 <table> 
   <tr> 
@@ -143,7 +145,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 Följande funktioner följer ett Agile-format och släpps på olika datum före eller efter standardreleasedatum. Kontrollera status för respektive funktion nedan.
 
-* **Ordna dialogströmmar automatiskt för dynamiskt chatt**: Förbättra arbetsytan i den fullmatade dialogen genom att ordna allt på arbetsytan i ett rent och lättläst format med en knapptryckning genom att ordna automatiskt.
+* **Ordna dialogströmmar automatiskt för Dynamic Chat**: Förbättra arbetsytan i den fullmatade dialogen genom att ordna allt på arbetsytan i ett rent och lättläst format med en knapptryckning genom att ordna automatiskt.
 
 <table> 
   <tr> 
@@ -157,7 +159,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
   </tbody>
 </table>
 
-* **Möteslänkar för dynamisk chatt**: Möjlighet att automatiskt inkludera en Teams- eller Meet-länk för Google och Outlook i varje kalenderinbjudan som skickas till besökarna.
+* **Möteslänkar för Dynamic Chat**: Möjlighet att automatiskt inkludera en Teams- eller Meet-länk för Google och Outlook i varje kalenderinbjudan som skickas till besökarna.
 
 <table> 
   <tr> 
@@ -171,7 +173,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
   </tbody>
 </table>
 
-* **Stöd för ytterligare datatyper för Dynamic Chat**: Tre nya datatyper (boolesk, heltal, flytande) gör att du kan utnyttja fler befintliga fält i Dynamic Chat för t.ex. målgruppsanpassning baserat på poängen eller fråga besökarna ja/nej-frågor.
+* **Stöd för ytterligare datatyper för Dynamic Chat**: Tre nya datatyper (boolesk, heltal, flyttal) gör att du kan utnyttja fler Marketo Engage fält i Dynamic Chat för saker som målgruppsanpassning baserat på poängen eller fråga besökarna ja/nej-frågor.
 
 <table> 
   <tr> 

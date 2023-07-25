@@ -3,7 +3,8 @@ unique-page-id: 14746186
 description: Anpassa Avbeställ länkmeddelande - Marketo Docs - Produktdokumentation
 title: Anpassa meddelande om att avbryta prenumeration på länk
 exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%

@@ -2,9 +2,10 @@
 description: Skapa uppgift i veeva - Marketo Docs - produktdokumentation
 title: Skapa uppgift i veva
 exl-id: 342e45dd-2038-432d-a6b6-1740c8f0b58e
-source-git-commit: dfd0ab50a6d77cf88767cc6fb3fe3f2874e0607b
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -29,4 +30,4 @@ Anpassa alla fält för att skapa uppgiften som du vill.
 
 >[!TIP]
 >
->Du kan använda `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` och `{{system.tokens}}` i ämnet och beskrivningen. Se [Token för flödessteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target=&quot;_blank&quot;} om du vill ha mer information.
+>Du kan använda `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` och `{{system.tokens}}` i ämnet och beskrivningen. Se [Token för flödessteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} för mer information.

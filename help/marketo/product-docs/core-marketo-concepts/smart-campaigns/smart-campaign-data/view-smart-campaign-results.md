@@ -3,7 +3,8 @@ unique-page-id: 1146968
 description: Visa resultat för smarta kampanjer - Marketo Docs - produktdokumentation
 title: Visa resultat för smarta kampanjer
 exl-id: a883b2da-fbce-49f9-b18d-d75a90bd9c51
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%

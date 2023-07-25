@@ -3,7 +3,8 @@ unique-page-id: 2360429
 description: Rapport om din intäktsmodell - Marketo Docs - produktdokumentation
 title: Rapport om din intäktsmodell
 exl-id: a9abbfcb-b4ee-402c-9092-c2e0d388f7a4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%

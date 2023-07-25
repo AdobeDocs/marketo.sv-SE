@@ -3,7 +3,8 @@ unique-page-id: 3571800
 description: Steg 3 av 3 -Connect Marketo and Salesforce (Professional) - Marketo Docs - produktdokumentation
 title: Steg 3 av 3 - Connect Marketo och Salesforce (Professional)
 exl-id: a35e22ef-6378-45e0-be7e-687b0832ecf3
-source-git-commit: 8162db802cae125b406c463fde50d4ffdf0eb621
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '382'
 ht-degree: 0%
@@ -18,7 +19,6 @@ I den här artikeln konfigurerar du Marketo att synkronisera med din konfigurera
 >
 >* [Steg 1 av 3: Lägg till Marketo-fält i Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
 >* [Steg 2 av 3: Skapa en Salesforce-användare för Marketo (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
-
 
 ## Hämta säkerhetstoken för synkroniserad användare {#retrieve-sync-user-security-token}
 
@@ -106,4 +106,3 @@ Nu är du klar med att konfigurera en av de kraftfullaste funktionerna i Marketo
 >
 >* [Installera Marketo Sales Insight-paket i Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 >* [Konfigurera Marketo Sales Insight i Salesforce Professional Edition](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
-

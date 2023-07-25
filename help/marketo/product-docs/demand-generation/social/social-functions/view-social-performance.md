@@ -3,7 +3,8 @@ unique-page-id: 2359763
 description: Visa sociala prestanda - Marketo Docs - produktdokumentation
 title: Visa sociala prestanda
 exl-id: 82f3754f-4aa8-4d07-ac02-22d138d2a021
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '476'
 ht-degree: 0%

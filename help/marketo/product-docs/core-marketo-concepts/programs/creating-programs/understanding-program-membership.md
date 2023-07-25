@@ -3,7 +3,8 @@ unique-page-id: 1147091
 description: Understanding Program Membership - Marketo Docs - Product Documentation
 title: Förstå programmedlemskap
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
-source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -65,4 +66,3 @@ När ett nytt namn kommer in i systemet som programmedlem anger Marketo automati
 >
 >* [Använd taggar i ett program](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md)
 >* [Skapa en rapport om programprestanda](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
-

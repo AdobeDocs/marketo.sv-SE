@@ -3,7 +3,8 @@ unique-page-id: 4719302
 description: Aktivera icke-engelsk anpassad objektsynkronisering - Marketo Docs - produktdokumentation
 title: Aktivera icke-engelsk anpassad objektsynkronisering
 exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%

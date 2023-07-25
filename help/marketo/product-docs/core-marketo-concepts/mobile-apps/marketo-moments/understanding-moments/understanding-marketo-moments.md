@@ -3,7 +3,8 @@ unique-page-id: 8781845
 description: Understanding Marketo Moments - Marketo Docs - Product Documentation
 title: Om Marketo Moments
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '544'
 ht-degree: 0%
@@ -33,7 +34,6 @@ Här är de olika strömmarna i ögonblicket.
 >* Favoriter: Allt du gör till en favorit går in här.
 >* Senare: Allt som sker senare än det här ögonblicket går in här.
 >* Klart: Allt som har körts färdigt eller du markerat som gjort hamnar här.
-
 
 Okej, nu när vi har det ur vägen kan vi ta en titt på Marketo Moments på en telefon!
 
@@ -84,7 +84,6 @@ Bra! Nu kan du få något att hända genom att trycka på:
 >* Dela: Skicka en bild för att motivera eller gratulera ert team.
 >* Skicka exempel (endast e-post): Använd detta för att låta andra se hur dina e-postmeddelanden ser ut innan du skickar ut dem.
 >* Förhandsgranska e-post (endast e-post): Det är alltid en bra idé att checka ut dina e-postmeddelanden i förväg.
-
 
 ## Senare stunder {#later-moments}
 
@@ -151,4 +150,3 @@ Vill du lära dig mer?
 >* [Om händelsekort](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
 >* [Analyskort](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
 >* [Förstå smarta kampanjkort](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
-

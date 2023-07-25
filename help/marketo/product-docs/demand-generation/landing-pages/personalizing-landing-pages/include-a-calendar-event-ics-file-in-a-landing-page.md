@@ -3,7 +3,8 @@ unique-page-id: 2359540
 description: Inkludera en ICS-fil för kalenderhändelse på en landningssida - Marketo Docs - produktdokumentation
 title: Inkludera en ICS-fil för kalenderhändelse på en landningssida
 exl-id: 3975f5ba-f514-4708-b51e-bc20d1eed6b4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
@@ -18,7 +19,6 @@ A **Kalenderfil** Med hjälp av en token kan du lägga till en kalendringshände
 >
 >* [Skapa en kalenderhändelsefil (.ics)](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
-
 1. I landningssidans redigerare klickar du på **{...}** om du vill infoga en token.
 
    ![](assets/image2015-7-8-17-3a51-3a29.png)
@@ -30,7 +30,6 @@ A **Kalenderfil** Med hjälp av en token kan du lägga till en kalendringshände
    >Följande tokens stöds inte på landningssidor:
    >
    >* member.webinar URL
-
 
    ![](assets/image2015-1-6-16-3a31-3a28.png)
 

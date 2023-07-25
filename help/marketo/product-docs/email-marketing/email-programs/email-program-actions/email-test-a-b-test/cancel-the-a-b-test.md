@@ -3,7 +3,8 @@ unique-page-id: 2359600
 description: Avbryt A/B-testet - Marketo Docs - produktdokumentation
 title: Avbryt A/B-testet
 exl-id: 7fc79e67-01db-4b6e-818e-fe61e720ad92
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs, A/B Testing
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%

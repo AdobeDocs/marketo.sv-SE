@@ -2,7 +2,8 @@
 description: Konfigurera om Dynamics-autentiseringsmetod - Marketo Docs - produktdokumentation
 title: Konfigurera om Dynamics-autentiseringsmetod
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -19,7 +20,6 @@ Följ stegen nedan för att uppdatera din Dynamics-autentiseringsmetod.
 >
 >* [Steg 2 av 3: Konfigurera Marketo Solution med Server to Server Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
 >* [Steg 2 av 4: Konfigurera Marketo Solution med Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
-
 
 1. I Marketo klickar du **Administratör**.
 
@@ -49,7 +49,6 @@ Följ stegen nedan för att uppdatera din Dynamics-autentiseringsmetod.
    >
    >* De specifika fälten varierar beroende på vald autentiseringsmetod och formuläret uppdateras automatiskt beroende på föregående autentiseringsmetod.
    >* Om du har synkroniserat tidigare kan data i ovanstående formulär vara förifyllda. Ange alla inloggningsuppgifter igen för att säkerställa rätt värden.
-
 
 1. Om allt är bra genereras alla gröna bockar i Validera synkronisering ![](assets/green-check.png). Granska meddelandet och klicka på **Byt** för att uppdatera autentiseringsmetoden.
 

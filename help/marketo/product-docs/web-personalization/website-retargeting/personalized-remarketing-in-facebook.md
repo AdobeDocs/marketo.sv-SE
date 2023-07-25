@@ -3,7 +3,8 @@ unique-page-id: 4720917
 description: Personaliserad Remarketing i Facebook - Marketo Docs - produktdokumentation
 title: Personaliserad marknadsföring i Facebook
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -18,7 +19,6 @@ Med personaliserad marknadsföring kan ni återengagera era användare med hjäl
 >
 >* Slutför [Återannonsering med webbpersonaliseringsdata](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) konfiguration
 >* Granska [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-dokumentation om anpassade målgrupper](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) och Remarketing.
-
 
 ## Skapa en publik i Facebook {#creating-an-audience-in-facebook}
 
@@ -131,4 +131,3 @@ Mer information finns i [Facebook dokumentation](https://developers.facebook.com
 >
 >* [Återannonsering med webbpersonaliseringsdata](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
 >* [Personaliserad marknadsföring i Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
-

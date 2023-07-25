@@ -3,7 +3,8 @@ unique-page-id: 11384659
 description: Ta bort innehåll - Marketo Docs - produktdokumentation
 title: Ta bort innehåll
 exl-id: b4463baf-689f-432e-bf5b-375fe218a407
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%

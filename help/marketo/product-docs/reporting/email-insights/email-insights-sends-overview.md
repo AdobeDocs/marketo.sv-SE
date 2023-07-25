@@ -3,7 +3,8 @@ unique-page-id: 10099413
 description: E-postinsikter skickar en översikt - Marketo Docs - produktdokumentation
 title: E-postinsikter - skicka översikt
 exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%

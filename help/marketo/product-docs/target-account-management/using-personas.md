@@ -3,7 +3,8 @@ unique-page-id: 17727818
 description: Använda funktioner - Marketo Docs - produktdokumentation
 title: Använda persona
 exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%

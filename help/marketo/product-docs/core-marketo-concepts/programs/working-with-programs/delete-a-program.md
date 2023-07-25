@@ -3,7 +3,8 @@ unique-page-id: 1147148
 description: Ta bort ett program - Marketo Docs - produktdokumentation
 title: Ta bort ett program
 exl-id: c13dbb4a-36ea-49ee-aee2-a4af28750b0f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%

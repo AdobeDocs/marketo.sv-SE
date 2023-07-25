@@ -2,7 +2,8 @@
 description: Begränsning av e-postanslutning - Marketo Docs - produktdokumentation
 title: Begränsning för e-postanslutning
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '435'
 ht-degree: 0%
@@ -87,4 +88,3 @@ Begränsningar anges av organisationens IT-avdelning när servern hanteras av or
 >* [Översikt över leveranskanalen](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
 >* [E-postanslutning för Gmail-användare](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
 >* [E-postanslutning för Outlook-användare](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
-

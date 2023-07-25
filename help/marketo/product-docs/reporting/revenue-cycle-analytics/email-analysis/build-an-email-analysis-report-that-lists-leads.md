@@ -3,7 +3,8 @@ unique-page-id: 2360407
 description: Skapa en e-postanalysrapport som listar leads - Marketo Docs - produktdokumentation
 title: Skapa en e-postanalysrapport som listar leads
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%

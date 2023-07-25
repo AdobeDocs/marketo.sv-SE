@@ -3,7 +3,8 @@ unique-page-id: 2949232
 description: SEO - Hantera listor - Marketo Docs - Produktdokumentation
 title: SEO - Hantera listor
 exl-id: 6b78f8be-fc42-4431-a9c7-703612ec448f
-source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 2%

@@ -5,7 +5,8 @@ title: Konfigurera Adobe Experience Manager Integration
 hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
-source-git-commit: 2a94e4b3b034eac821a82a84db65c09e503c52f4
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -25,7 +26,6 @@ Konfigurera Adobe Experience Manager (AEM) så att du kan komma åt, välja och 
 >* Den här integreringen fungerar bara med implementeringar av AEM lokalt och stöds inte för AEM Cloud Service-implementeringar.
 >
 >* För närvarande stöds den här funktionen endast fullt ut i Firefox. Det stöds inte i Safari och kanske inte fungerar i den senaste versionen av Chrome, beroende på inställningarna för cookie-filen för samma plats.
-
 
 1. Gå till Adobe Experience Manager (URL:en är specifik för ditt företag).
 

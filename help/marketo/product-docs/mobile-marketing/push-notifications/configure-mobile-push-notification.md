@@ -3,7 +3,8 @@ unique-page-id: 7512454
 description: Konfigurera push-meddelanden för mobiler - Marketo Docs - produktdokumentation
 title: Konfigurera push-meddelanden för mobilen
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 0%

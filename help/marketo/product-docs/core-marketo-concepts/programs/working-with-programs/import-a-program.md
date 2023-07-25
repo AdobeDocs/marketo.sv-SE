@@ -3,7 +3,8 @@ unique-page-id: 1147108
 description: Importera ett program - Marketo Docs - produktdokumentation
 title: Importera ett program
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: adff42d54d7953c9ec72e4d736ce0153502be960
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '519'
 ht-degree: 0%

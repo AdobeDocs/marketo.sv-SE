@@ -3,7 +3,8 @@ unique-page-id: 1147053
 description: Avbryt en smart kampanj - Marketo Docs - produktdokumentation
 title: Avbryt en smart kampanj
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
-source-git-commit: 073a136953f1997436396cf3f2c87fdc1a3b9c1d
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%

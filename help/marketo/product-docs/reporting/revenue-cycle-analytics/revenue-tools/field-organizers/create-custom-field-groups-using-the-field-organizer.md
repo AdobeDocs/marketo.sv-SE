@@ -3,7 +3,8 @@ unique-page-id: 10094404
 description: Skapa anpassade fältgrupper med fältorganiseraren - Marketo Docs - produktdokumentation
 title: Skapa anpassade fältgrupper med fältorganiseraren
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '992'
 ht-degree: 0%

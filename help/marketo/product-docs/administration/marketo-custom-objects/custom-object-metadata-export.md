@@ -2,7 +2,8 @@
 description: Export av metadata för anpassade objekt - Marketo Docs - produktdokumentation
 title: Exportera metadata för anpassat objekt
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
-source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+feature: Custom Objects
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 1%

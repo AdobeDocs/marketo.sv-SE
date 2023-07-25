@@ -2,7 +2,8 @@
 description: Routning - Marketo Docs - produktdokumentation
 title: Routning
 exl-id: 9515c264-7d9b-4613-a245-15620c846a5c
-source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -21,7 +22,7 @@ Anpassad regel: Du kan välja särskilda agenter för att få möten baserat på
 
 I det här exemplet skickar vi alla möten från de härledda delstaterna CA, OR och WA till agent John.
 
-1. I Dynamiskt chatt väljer du **Routning**.
+1. I Dynamic Chat väljer du **Routning**.
 
    ![](assets/routing-1.png)
 

@@ -3,7 +3,8 @@ unique-page-id: 1147118
 description: Använda periodkostnader i ett program - Marketo Docs - produktdokumentation
 title: Använda periodkostnader i ett program
 exl-id: 3f00dc09-797a-4f21-bb56-45a1f9b6e5bf
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
@@ -78,4 +79,3 @@ A [periodkostnad](/help/marketo/product-docs/core-marketo-concepts/programs/work
 >
 >* [Förstå periodkostnader](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
 >* [Filtrera en programrapport efter periodkostnad](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
-

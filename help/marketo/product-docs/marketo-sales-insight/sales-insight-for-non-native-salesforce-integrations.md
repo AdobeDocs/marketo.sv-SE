@@ -3,7 +3,8 @@ unique-page-id: 45417125
 description: Sales Insight for Non-Native Salesforce Integrations - Marketo Docs - Product Documentation
 title: Sales Insight for Non-Native Salesforce Integrations
 exl-id: a771ecdf-c610-44e4-9e93-7fdcc9d79f4b
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1377'
 ht-degree: 0%
@@ -21,7 +22,6 @@ Om ditt Adobe Marketo Engage-konto är anslutet till Salesforce via en anpassad 
 >* Marketo REST API [har konfigurerats](https://developers.marketo.com/rest-api/){target="_blank"}. De exponerade CRUD-API:erna kommer att utgöra grunden för den icke-ursprungliga synkroniseringen.
 >* Läs [det här blogginlägget](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} för att förstå objektet och relationerna.
 >* Ställ in Salesforce-objekt för att visa den globalt unika identifieraren som inte är skiftlägeskänslig för 18 tecken i stället för den globalt unika identifieraren för 15 tecken.
-
 
 >[!NOTE]
 >

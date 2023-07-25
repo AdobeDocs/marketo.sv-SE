@@ -2,7 +2,8 @@
 description: Steg 3 av 4 - Konfigurera klientapp för MS Dynamics - Marketo Docs - Produktdokumentation
 title: Steg 3 av 4 - Konfigurera klientappen för MS Dynamics
 exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
-source-git-commit: 0b9a1f50d8828acf019c5c4f82021d327f396fca
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 0%
@@ -15,7 +16,6 @@ ht-degree: 0%
 >
 >* [Steg 1 av 4: Installera Marketo Solution med Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
 >* [Steg 2 av 4: Konfigurera Marketo Solution med Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
-
 
 1. Gå till https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration.
 
@@ -58,4 +58,3 @@ Ytterligare referenser [finns här](https://docs.microsoft.com/en-us/azure/activ
 >[!MORELIKETHIS]
 >
 >* [Steg 4 av 4: Anslut Marketo Solution med Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md)
-

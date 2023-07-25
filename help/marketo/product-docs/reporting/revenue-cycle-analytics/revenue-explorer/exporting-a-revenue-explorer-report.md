@@ -3,7 +3,8 @@ unique-page-id: 7504749
 description: Exportera en rapport för skatteutforskaren - Marketo Docs - produktdokumentation
 title: Exportera en rapport för skatteutforskaren
 exl-id: 61fd33f9-6cc8-4787-8357-68fc2fafc51a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -25,7 +26,6 @@ Du kan exportera alla intäktsutforskarrapporter och dela dem med vem som helst.
    >* PDF
    >* Excel
    >* CSV
-
 
 1. Markera önskat **Sidformat** och **Orientering** och klicka **Exportera**.
 

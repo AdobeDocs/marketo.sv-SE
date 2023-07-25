@@ -3,7 +3,8 @@ unique-page-id: 11378845
 description: Lägg till Vibes som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
 title: Lägg till vibes som en LaunchPoint-tjänst
 exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%

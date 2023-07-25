@@ -3,7 +3,8 @@ unique-page-id: 4720218
 description: Implementera RTP med Adobe Tag Manager - Marketo Docs - produktdokumentation
 title: Implementera RTP med Adobe Tag Manager
 exl-id: 5a938d02-6b09-45d5-94b0-dbb50b5d62b6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%

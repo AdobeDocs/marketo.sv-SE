@@ -3,7 +3,8 @@ unique-page-id: 2359504
 description: Använd A/B-testning från adress - Marketo Docs - produktdokumentation
 title: Använd A/B-testning från adress
 exl-id: 83e2994b-39ec-4c88-87b0-8f2501ea2bf1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs, A/B Testing
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%

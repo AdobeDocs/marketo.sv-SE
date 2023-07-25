@@ -3,7 +3,8 @@ unique-page-id: 8783990
 description: Template 9D - Marketo Docs - Product Documentation
 title: Mall 9D
 exl-id: 672c5db7-97e4-4fd4-bbfb-058d2f63f7a8
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%

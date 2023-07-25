@@ -2,9 +2,10 @@
 description: Steg 3 av 3 - Connect Marketo Engage och Veeva CRM - Marketo Docs - produktdokumentation
 title: Steg 3 av 3 - Connect Marketo Engage och Veeva CRM
 exl-id: aff91540-1d9d-448c-aae9-e6fa92a8ae01
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -15,9 +16,8 @@ I den här artikeln konfigurerar du Marketo Engage att synkronisera med din konf
 
 >[!PREREQUISITES]
 >
->* [Steg 1 av 3: Lägg till Marketo-fält i veeva](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target=&quot;_blank&quot;}
->* [Steg 2 av 3: Skapa en veeva-användare för Marketo](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md){target=&quot;_blank&quot;}
-
+>* [Steg 1 av 3: Lägg till Marketo-fält i veeva](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target="_blank"}
+>* [Steg 2 av 3: Skapa en veeva-användare för Marketo](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md){target="_blank"}
 
 >[!IMPORTANT]
 >
@@ -31,7 +31,7 @@ I den här artikeln konfigurerar du Marketo Engage att synkronisera med din konf
 
    >[!NOTE]
    >
-   >Se till att [dölj alla fält som du inte behöver](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target=&quot;_blank&quot;} i Marketo från synkroniseringsanvändaren innan du klickar på Synkronisera fält. När du klickar på Synkronisera fält skapas alla fält som användaren kan se i Marketo permanent och kan inte tas bort.
+   >Se till att [dölj alla fält som du inte behöver](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} i Marketo från synkroniseringsanvändaren innan du klickar på Synkronisera fält. När du klickar på Synkronisera fält skapas alla fält som användaren kan se i Marketo permanent och kan inte tas bort.
 
 1. Klicka **Logga in med Veeva**.
 
@@ -91,4 +91,4 @@ Marketo tillhandahåller statusmeddelanden för Veeva CRM-synkronisering i admin
 
 >[!MORELIKETHIS]
 >
->[Konfigurera anpassade objekt](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target=&quot;_blank&quot;}
+>[Konfigurera anpassade objekt](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target="_blank"}

@@ -3,7 +3,8 @@ unique-page-id: 2360313
 description: Ta bort en arbetsyta - Marketo Docs - produktdokumentation
 title: Ta bort en arbetsyta
 exl-id: 4968b8bf-bd0d-4055-8b48-43f8d3ffa991
-source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
+feature: Workspaces
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 1%

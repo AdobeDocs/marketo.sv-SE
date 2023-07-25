@@ -3,7 +3,8 @@ unique-page-id: 2360219
 description: Konfigurera en anpassad DKIM-signatur - Marketo Docs - produktdokumentation
 title: Konfigurera en anpassad DKIM-signatur
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Deliverability
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%

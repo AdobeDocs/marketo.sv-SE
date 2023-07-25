@@ -3,7 +3,8 @@ unique-page-id: 14352463
 description: Lägg till handelsanslutningsknappar i Salesforce - Marketo Docs - produktdokumentation
 title: Lägg till handelsanslutningsknappar i Salesforce
 exl-id: cd6b5314-5ac5-4854-a595-97c68aa7e9ba
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%

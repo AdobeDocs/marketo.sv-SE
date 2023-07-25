@@ -2,7 +2,8 @@
 description: Tilldela uppgifter till teammedlemmar - Marketo Docs - produktdokumentation
 title: Tilldela uppgifter till teammedlemmar
 exl-id: 8f35afb8-d1c2-4f09-8653-3309f08c991d
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%

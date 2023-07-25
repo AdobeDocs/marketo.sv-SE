@@ -4,7 +4,8 @@ title: Lägg till i marknadsföringskampanj
 hide: true
 hidefromtoc: true
 exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
-source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%

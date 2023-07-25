@@ -3,7 +3,8 @@ unique-page-id: 3571805
 description: Steg 1 av 3 - Installera Marketo Solution (2011 On-Premises) - Marketo Docs - produktdokumentation
 title: Steg 1 av 3 - Installera Marketo Solution (On-Premises 2011)
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
-source-git-commit: eac7e219f1babc22dce30717fea4cecb93e1cce7
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%

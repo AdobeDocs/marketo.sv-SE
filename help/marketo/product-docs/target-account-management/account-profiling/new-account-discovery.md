@@ -3,7 +3,8 @@ unique-page-id: 37355609
 description: Ny kontoidentifiering - Marketo Docs - produktdokumentation
 title: Ny kontoidentifiering
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
-source-git-commit: 90b2f0f251f0c5805188731d0a2e4deedf720d70
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%

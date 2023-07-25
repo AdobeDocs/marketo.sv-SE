@@ -3,7 +3,8 @@ unique-page-id: 6094949
 description: Flytta en smart kampanj - Marketo Docs - produktdokumentation
 title: Flytta en smart kampanj
 exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
-source-git-commit: 381e243a39b8249e88f06eeb1dcfc4863e3a497c
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%

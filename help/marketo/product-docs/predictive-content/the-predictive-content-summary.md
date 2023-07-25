@@ -3,7 +3,8 @@ unique-page-id: 11384634
 description: The Predictive Content Summary - Marketo Docs - Product Documentation
 title: Sammanfattning av prediktivt innehåll
 exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%

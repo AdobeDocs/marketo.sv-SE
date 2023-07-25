@@ -3,9 +3,10 @@ unique-page-id: 1147055
 description: Kampanjåtgärder -Ta bort en smart kampanj - Marketo Docs - Produktdokumentation
 title: Kampanjåtgärder -Ta bort en smart kampanj
 exl-id: 11a210c8-3375-4e12-a97f-a70a9115a197
-source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---

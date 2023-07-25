@@ -2,7 +2,8 @@
 description: Versionsinformation - januari 2022 - Marketo Docs - produktdokumentation
 title: Versionsinformation - januari 2022
 exl-id: babc4e7f-3f11-4883-80c6-58e69c3e1ab4
-source-git-commit: ec783ee58e3c249da036d4770231eb9d7ef61bbd
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '889'
 ht-degree: 0%

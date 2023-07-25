@@ -3,9 +3,10 @@ unique-page-id: 4720275
 description: Skapa en anpassad målgrupp i Facebook - Marketo Docs - produktdokumentation
 title: Skapa en anpassad målgrupp i Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
-source-git-commit: 070a90a1eaeef94b20e735e21cc6a56175b2bad6
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -14,13 +15,12 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Lägg till anpassade Facebook-målgrupper som en LaunchPoint-tjänst](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target=&quot;_blank&quot;} i avsnittet Admin.
->* [Acceptera Facebook anpassade målgruppsvillkor](https://www.facebook.com/ads/manage/customaudiences/tos.php){target=&quot;_blank&quot;} i ditt Facebook-konto.
-
+>* [Lägg till anpassade Facebook-målgrupper som en LaunchPoint-tjänst](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} i avsnittet Admin.
+>* [Acceptera Facebook anpassade målgruppsvillkor](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} på ditt Facebook-konto.
 
 >[!TIP]
 >
->Läs mer om [anpassade målgrupper i Facebook](https://www.facebook.com/help/341425252616329){target=&quot;_blank&quot;}.
+>Läs mer om [anpassade målgrupper i Facebook](https://www.facebook.com/help/341425252616329){target="_blank"}.
 
 1. Hitta och välj den smarta eller statiska lista som innehåller de leads du vill skapa målgruppen från.
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Se [Facebook utbildningsväg för Marketo-kunder](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target=&quot;_blank&quot;}. Det täcker allt ni behöver veta, från att skapa en Facebook-sida till att målinrikta era Facebook-annonser med hjälp av Marketo nätverksintegreringar för annonser.
+   >Se [Facebook utbildningsväg för Marketo-kunder](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target="_blank"}. Det täcker allt ni behöver veta, från att skapa en Facebook-sida till att målinrikta era Facebook-annonser med hjälp av Marketo nätverksintegreringar för annonser.
 
    >[!MORELIKETHIS]
    >

@@ -3,7 +3,8 @@ unique-page-id: 1147342
 description: Godkänn ett e-postmeddelande - Marketo Docs - produktdokumentation
 title: Godkänn ett e-postmeddelande
 exl-id: dec8ce3e-e11c-4edc-8c81-82a95fc8ed13
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%

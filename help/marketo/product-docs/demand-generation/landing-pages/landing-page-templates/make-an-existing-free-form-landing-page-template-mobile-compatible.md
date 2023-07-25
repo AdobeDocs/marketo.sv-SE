@@ -3,7 +3,8 @@ unique-page-id: 5472348
 description: Gör en befintlig mall för landningssida i friform kompatibel - Marketo Docs - Produktdokumentation
 title: Gör en befintlig mall för landningssida i friform kompatibel
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%

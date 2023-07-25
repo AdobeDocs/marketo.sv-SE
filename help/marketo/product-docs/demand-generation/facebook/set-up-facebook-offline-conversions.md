@@ -3,7 +3,8 @@ unique-page-id: 11383953
 description: Konfigurera offlinekonverteringar för Facebook - Marketo Docs - produktdokumentation
 title: Konfigurera offlinekonverteringar för Facebook
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '331'
 ht-degree: 0%
@@ -18,7 +19,6 @@ Genom att skicka offlinekonverteringsdata tillbaka till Facebook för personer s
 >
 >* Du måste [konfigurera Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 >* Du måste ha en godkänd modell i [Intäktscykelmodelleraren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
-
 
 ## Administratörskonfiguration {#admin-configuration}
 
@@ -78,7 +78,6 @@ Genom att skicka offlinekonverteringsdata tillbaka till Facebook för personer s
    >* Inköp
    >* Sökningar
    >* Innehållsvyer
-
 
 1. Markera den scen som du vill mappa och gå sedan till **Facebook Conversion** väljer du den Facebook-händelse som du vill mappa den till. Upprepa det här steget om du vill mappa alla faser i RCM till offlinekonverteringsfaser på Facebook.
 

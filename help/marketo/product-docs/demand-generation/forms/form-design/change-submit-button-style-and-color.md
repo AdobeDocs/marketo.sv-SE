@@ -3,7 +3,8 @@ unique-page-id: 2359620
 description: Ändra format och färg för Skicka-knapp - Marketo Docs - produktdokumentation
 title: Ändra format och färg för Skicka-knapp
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%

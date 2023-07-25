@@ -3,7 +3,8 @@ unique-page-id: 557339
 description: Sök och sammanfoga duplicerade personer - Marketo Docs - produktdokumentation
 title: Sök och sammanfoga duplicerade personer
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
-source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+feature: Smart Lists
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%

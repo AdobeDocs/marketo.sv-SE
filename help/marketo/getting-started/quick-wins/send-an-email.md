@@ -3,7 +3,8 @@ unique-page-id: 2359410
 description: Skicka ett e-postmeddelande - Marketo Docs - produktdokumentation
 title: Skicka ett e-postmeddelande
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
-source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '349'
 ht-degree: 0%

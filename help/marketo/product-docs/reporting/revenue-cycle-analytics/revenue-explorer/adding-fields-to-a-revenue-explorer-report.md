@@ -3,7 +3,8 @@ unique-page-id: 7504383
 description: Lägga till fält i en Intresseutforskarrapport - Marketo Docs - produktdokumentation
 title: Lägga till fält i en Intresseutforskarrapport
 exl-id: af4d7885-68ca-4ecf-b0fa-a5cf72bea168
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%

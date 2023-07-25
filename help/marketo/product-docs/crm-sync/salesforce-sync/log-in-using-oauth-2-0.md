@@ -2,7 +2,8 @@
 description: Logga in med OAuth 2.0 - Marketo Docs - produktdokumentation
 title: Logga in med OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '493'
 ht-degree: 0%
@@ -56,7 +57,6 @@ Salesforce använder OAuth-protokollet för att tillåta användare av program a
 >* För befintliga kunder är funktionen&quot;Aktivera OAuth för SFDC-synkronisering&quot; aktiverad i kundens prenumeration.
 >* Popup-blockerare är inaktiverade.
 >* Ansluten app skapas och vi har konsumentnyckeln och konsumenthemligheten tillgängliga för användning.
-
 
 >[!CAUTION]
 >
@@ -112,4 +112,3 @@ Din synkronisering mellan Marketo och Salesforce pågår nu.
 >* [Steg 2 av 3: Skapa en Salesforce-användare för Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
 >* [Installera Marketo Sales Insight-paket i Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 >* [Konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
-

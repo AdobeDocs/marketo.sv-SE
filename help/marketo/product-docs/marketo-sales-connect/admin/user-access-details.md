@@ -3,7 +3,8 @@ unique-page-id: 14352623
 description: Information om användaråtkomst - Marketo Docs - produktdokumentation
 title: Information om användaråtkomst
 exl-id: 6a61176c-acbd-4684-983f-1c5af0ca6187
-source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%

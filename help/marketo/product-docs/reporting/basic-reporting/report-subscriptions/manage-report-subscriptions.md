@@ -3,7 +3,8 @@ unique-page-id: 2359991
 description: Hantera rapportprenumerationer - Marketo Docs - produktdokumentation
 title: Hantera rapportprenumerationer
 exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -41,7 +42,6 @@ Konfigurera och ta bort rapportprenumerationer.
    >* Använd kommatecken mellan e-postadresser.
    >* Spara redigeringarna genom att klicka i ett område _utanför_ prenumerationslistan.
 
-
    Du kan också:
 
    * Klicka på **Visa** för att öppna en rapport.
@@ -62,4 +62,3 @@ Konfigurera och ta bort rapportprenumerationer.
    >
    >* [Prenumerera på en grundläggande rapport](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
    >* [Prenumerera på en rapport om skatteutforskaren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
-

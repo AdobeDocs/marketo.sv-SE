@@ -3,7 +3,8 @@ unique-page-id: 2359496
 description: Lägg till innehåll i ett fragment - Marketo Docs - produktdokumentation
 title: Lägga till innehåll i ett fragment
 exl-id: b8be61ea-016d-4aab-b1b7-a43d699c3bfe
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Snippets
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
@@ -88,4 +89,3 @@ Häftig! Nu kan du skapa olika typer av innehåll för fragmentet.
 >
 >* [Förhandsgranska ett kodavsnitt](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/preview-a-snippet.md)
 >* [Godkänn ett fragment](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
-

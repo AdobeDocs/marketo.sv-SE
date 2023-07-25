@@ -3,7 +3,8 @@ unique-page-id: 8783906
 description: Mall 4C - Marketo Docs - produktdokumentation
 title: Mall 4C
 exl-id: 95e8b4db-6bd8-4937-bf1b-3e680969aab4
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%

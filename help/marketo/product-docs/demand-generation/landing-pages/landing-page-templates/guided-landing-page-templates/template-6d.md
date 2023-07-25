@@ -3,7 +3,8 @@ unique-page-id: 8783935
 description: Mall 6D - Marketo Docs - produktdokumentation
 title: Mall 6D
 exl-id: 2708fd0b-1c87-4b2c-b28c-93b7b8547df4
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%

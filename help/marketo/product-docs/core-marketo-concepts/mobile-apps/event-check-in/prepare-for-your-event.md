@@ -3,7 +3,8 @@ unique-page-id: 10099360
 description: Förbered dig för ditt event - Marketo Docs - produktdokumentation
 title: Förbered dig för ditt evenemang
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%

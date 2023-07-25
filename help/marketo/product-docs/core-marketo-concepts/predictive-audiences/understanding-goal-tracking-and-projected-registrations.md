@@ -2,9 +2,10 @@
 description: Förstå målspårning och projekterade registreringar - Marketo Docs - produktdokumentation
 title: Förstå målspårning och projekterade registreringar
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Predictive Audiences
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '980'
+source-wordcount: '978'
 ht-degree: 0%
 
 ---
@@ -15,7 +16,7 @@ Så här ser ni hur ni kan följa upp målutvecklingen och förstå Marketo prog
 
 >[!PREREQUISITES]
 >
->För att få tillgång till de flesta funktionerna måste du se till att [next-gen-toggle](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target=&quot;_blank&quot;} för händelseprogram.
+>För att få tillgång till de flesta funktionerna måste du se till att [next-gen-toggle](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target="_blank"} for Event Programs.
 
 >[!NOTE]
 >
@@ -64,7 +65,7 @@ Vid beräkningen av liknande program har vi bland annat tagit med följande fakt
 * Tid från det att händelsen skapas till dess att händelsen startar
 * Händelsevaraktighet
 
-   ![](assets/understanding-goal-tracking-and-projected-registrations-6.png)
+  ![](assets/understanding-goal-tracking-and-projected-registrations-6.png)
 
 ## Recommendations
 

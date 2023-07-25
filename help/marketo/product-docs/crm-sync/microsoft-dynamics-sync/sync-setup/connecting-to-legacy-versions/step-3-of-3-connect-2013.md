@@ -3,7 +3,8 @@ unique-page-id: 3571819
 description: Steg 3 av 3 - Connect Marketo and Dynamics (2013 On-Premises) - Marketo Docs - produktdokumentation
 title: Steg 3 av 3 - Connect Marketo and Dynamics (2013 On-Premises)
 exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
-source-git-commit: f130fa1187ccead6573f76ff947e55d42f6962e4
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%
@@ -18,7 +19,6 @@ Okej! Vi installerade lösningen och konfigurerade synkroniseringsanvändaren. D
 >
 >* [Steg 1 av 3: Installera Marketo Solution i Dynamics (2013 On-Premises)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md)
 >* [Steg 2 av 3: Konfigurera Synkronisera användare för Marketo (lokal version 2013)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)
-
 
 >[!NOTE]
 >
@@ -54,7 +54,6 @@ Okej! Vi installerade lösningen och konfigurerade synkroniseringsanvändaren. D
    >
    >* Användarnamnet i Marketo måste matcha användarnamnet för synkroniseringsanvändaren i CRM. Formatet kan vara user@domain.com eller DOMÄN\användare.
    >* Om du inte känner till URL:en [lära dig hur du hittar det här](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
-
 
 ## Markera fält som ska synkroniseras {#select-fields-to-sync}
 

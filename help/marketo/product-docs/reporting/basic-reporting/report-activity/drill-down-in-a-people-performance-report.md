@@ -3,7 +3,8 @@ unique-page-id: 2360035
 description: Detaljerad rapport om personprestanda - Marketo Docs - produktdokumentation
 title: Öka detaljnivån i en rapport om personprestanda
 exl-id: 87c77aae-a294-43d3-865a-5ca3beef0ff3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 2359598
 description: Exportera kontrollpanel för e-postprogram till Excel - Marketo Docs - produktdokumentation
 title: Exportera kontrollpanelen för e-postprogram till Excel
 exl-id: d6b330d1-d12e-4620-a3c0-2851d7ea4996
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%

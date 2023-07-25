@@ -3,7 +3,8 @@ unique-page-id: 6849029
 description: Uppdatera Marketo Solution for Microsoft Dynamics - Marketo Docs - produktdokumentation
 title: Uppdatera Marketo Solution för Microsoft Dynamics
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
-source-git-commit: 179e1ff62f5f76de1d3c9b47687956dc50ee66e4
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%

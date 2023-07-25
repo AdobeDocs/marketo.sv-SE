@@ -3,7 +3,8 @@ unique-page-id: 4720232
 description: Skapa en ny kontolista - Marketo Docs - produktdokumentation
 title: Skapa en ny kontolista
 exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -45,7 +46,6 @@ Skapa och överför en lista över organisations- och domännamn för att rikta 
    >* Du får ett e-postmeddelande om godkännande eller en kontroll av filens status på sidan Namngivna konton.
    >* Det totala antalet poster/rader som ackumulerats för alla dina överförda listor börjar vid 10 000, med det största paketet på totalt 100 000.
 
-
    >[!NOTE]
    >
    >**Exempel på CSV-fil**
@@ -56,10 +56,9 @@ Skapa och överför en lista över organisations- och domännamn för att rikta 
    >* Rad 1 kolumn D värde = US State
    >* Ett av kolumnvärdena är obligatoriskt. Men om du anger både organisationsnamn och domännamn förbättras matchningsfrekvenserna i kontolistan.
    >* Land och stat är valfria värden.
-      >
-      >   * Använd det fullständiga landsnamnet eller förkortningskoden för landsnamnet. Exempel: USA eller USA.
-      >   * För delstat i USA använder du förkortningskoden med två bokstäver, dvs. CA. Endast delstater i USA känns igen.
-
+   >
+   >   * Använd det fullständiga landsnamnet eller förkortningskoden för landsnamnet. Exempel: USA eller USA.
+   >   * För delstat i USA använder du förkortningskoden med två bokstäver, dvs. CA. Endast delstater i USA känns igen.
    >
    >![](assets/image2015-2-25-12-3a19-3a10.png)
 

@@ -4,7 +4,8 @@ title: Importera kontakter via CSV
 hide: true
 hidefromtoc: true
 exl-id: 6fb6c48a-054b-45e3-ae52-e857485044f4
-source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%

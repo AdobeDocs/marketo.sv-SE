@@ -3,7 +3,8 @@ unique-page-id: 11385057
 description: Ställ in kategorier - Marketo Docs - produktdokumentation
 title: Ställ in kategorier
 exl-id: 4756e821-d90d-4148-b9c4-4912a48d26b4
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%

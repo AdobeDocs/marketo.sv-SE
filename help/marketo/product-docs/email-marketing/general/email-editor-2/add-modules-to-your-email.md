@@ -3,7 +3,8 @@ unique-page-id: 11371065
 description: Lägg till moduler i din e-post - Marketo Docs - produktdokumentation
 title: Lägg till moduler i din e-post
 exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 0%

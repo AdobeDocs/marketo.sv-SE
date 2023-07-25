@@ -3,7 +3,8 @@ unique-page-id: 10100266
 description: Så här fungerar anpassade aktiviteter - Marketo Docs - produktdokumentation
 title: Om anpassade aktiviteter
 exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Custom Activities
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%

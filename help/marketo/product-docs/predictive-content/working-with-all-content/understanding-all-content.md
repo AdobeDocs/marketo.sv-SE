@@ -3,7 +3,8 @@ unique-page-id: 11384645
 description: Förstå allt innehåll - Marketo Docs - produktdokumentation
 title: Förstå allt innehåll
 exl-id: 475943f0-bba4-4bd7-8808-de75475f934d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -53,4 +54,3 @@ Filtrera innehåll genom att markera en eller flera kategorier. Ange sedan datum
 >* [Ta bort innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/delete-content.md)
 >* [Godkänn en titel för prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 >* [Avgodkänn en titel för prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/unapprove-a-title-for-predictive-content.md)
-

@@ -3,7 +3,8 @@ unique-page-id: 4718651
 description: Understanding the Email Analysis Area - Marketo Docs - Product Documentation
 title: Förstå e-postanalysområdet
 exl-id: a8219a4d-d240-432d-a7ef-bcfa0b4a82fa
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 2949777
 description: Event Partners - Marketo Docs - produktdokumentation
 title: Event Partners
 exl-id: 3d6c523f-a1ee-4b0c-8e3c-1724f3b7800e
-source-git-commit: 917cb879bcff0f37533a43e9bb62119986581f65
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 1%

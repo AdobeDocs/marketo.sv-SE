@@ -3,7 +3,8 @@ unique-page-id: 37355826
 description: Versionsinformation -feb '20 - Marketo Docs - produktdokumentation
 title: Versionsinformation -feb '20
 exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%

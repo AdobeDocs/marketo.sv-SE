@@ -2,9 +2,10 @@
 description: Intressanta ögonblick i Sales Insight Actions - Marketo Docs - Product Documentation
 title: Intressanta stunder i Sales Insight Actions
 exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -23,7 +24,7 @@ Det är upp till dig! Du bestämmer själv vilken information som är relevant f
 
 ## Hur skapar jag ett intressant ögonblick? {#how-do-i-create-an-interesting-moment}
 
-1. Välj en [smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target=&quot;_blank&quot;}, helst en som ditt säljteam tycker är intressant om den aktiveras.
+1. Välj en [smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}, helst en som ditt säljteam tycker är intressant om det utlöses.
 
    ![](assets/interesting-moments-in-sales-insight-actions-1.png)
 
@@ -45,7 +46,7 @@ Det är upp till dig! Du bestämmer själv vilken information som är relevant f
 
 ## Hur ser ett intressant ögonblick ut i Marketo?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Intressanta stunder visas i en [Lead-aktivitetsloggen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target=&quot;_blank&quot;}.
+Intressanta stunder visas i en [Lead-aktivitetsloggen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}.
 
 ![](assets/interesting-moments-in-sales-insight-actions-5.png)
 

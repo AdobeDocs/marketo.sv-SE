@@ -3,7 +3,8 @@ unique-page-id: 11384433
 description: Installation av kontoteam - Marketo Docs - produktdokumentation
 title: Kontouppsättning
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -51,4 +52,3 @@ Ett kontoteam är en grupp intressenter som arbetar tillsammans med ett namngive
    >* När flera CRM-konton med olika kontoägare sammanfogas till ett namngivet konto väljer Marketo en kontoägare och lägger till andra kontoägare som&quot;Kontomedägare&quot;
    >
    >* Om ett CRM-rollfält senare byter namn eller tas bort kommer Marketo TAM att avbryta synkroniseringen av de uppdaterade värdena tills användaren uppdaterar inställningarna i TAM manuellt
-

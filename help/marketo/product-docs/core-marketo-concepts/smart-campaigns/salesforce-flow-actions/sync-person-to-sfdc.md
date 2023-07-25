@@ -3,7 +3,8 @@ unique-page-id: 1147027
 description: Synkronisera person till SFDC - Marketo Docs - Produktdokumentation
 title: Synkronisera person till SFDC
 exl-id: 4284ec35-6ac5-4084-beb7-976eb6fd7e3c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns, Salesforce Integration
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 8783938
 description: Template 6E - Marketo Docs - Product Documentation
 title: Mall 6E
 exl-id: 5b02bc9e-9c8c-4255-a339-81d90cf116aa
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%

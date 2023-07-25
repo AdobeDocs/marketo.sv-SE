@@ -3,7 +3,8 @@ unique-page-id: 14352480
 description: SFDC (Reply Logging) - Marketo Docs - produktdokumentation
 title: SFDC (Reply Logging)
 exl-id: 11f84157-55b7-42a7-81d0-f5848adbb9f4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%

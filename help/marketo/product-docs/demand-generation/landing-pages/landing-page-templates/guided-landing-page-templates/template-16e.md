@@ -3,7 +3,8 @@ unique-page-id: 9437846
 description: Mall 16-E - Marketo Docs - produktdokumentation
 title: Mall 16-E
 exl-id: 063cd16b-e697-4631-9c53-5bde216f9d98
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%

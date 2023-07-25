@@ -3,7 +3,8 @@ unique-page-id: 1147007
 description: Ändra programstatus - Marketo Docs - produktdokumentation
 title: Ändra programstatus
 exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%

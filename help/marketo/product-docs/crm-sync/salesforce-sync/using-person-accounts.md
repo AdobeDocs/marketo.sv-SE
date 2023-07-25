@@ -3,7 +3,8 @@ unique-page-id: 4719316
 description: Använda personkonton - Marketo Docs - produktdokumentation
 title: Använda personkonton
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
-source-git-commit: 7376804bda915d7ff25cdc50cb78a6686bd36882
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 2359449
 description: Definiera segmentregler - Marketo Docs - produktdokumentation
 title: Definiera segmentregler
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
-source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
+feature: Segmentation
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '382'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 2949262
 description: SEO - Ta bort en sida - Marketo Docs - produktdokumentation
 title: SEO - Ta bort/ta bort en sida
 exl-id: 4e42d01f-a3cf-4545-b476-54de195fa7f8
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%

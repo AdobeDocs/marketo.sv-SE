@@ -2,7 +2,8 @@
 description: Verifiera din e-postadress - Marketo Docs - produktdokumentation
 title: Verifiera din e-postadress
 exl-id: 4ee9a45a-53c3-48ca-9f47-90f007b7f9b9
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%

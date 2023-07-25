@@ -3,7 +3,8 @@ unique-page-id: 3571735
 description: Installera och konfigurera Marketo Sales Insight i Microsoft Dynamics 2011 - Marketo Docs - produktdokumentation
 title: Installera och konfigurera Marketo Sales Insight i Microsoft Dynamics 2011
 exl-id: 40622dcc-7129-4392-95dc-ca829c15c3a6
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 0%
@@ -95,7 +96,6 @@ Marketo Sales Insight är ett fantastiskt verktyg för ert säljteam. Här följ
    >* Prioritet
    >* Akut
    >* Relativa poäng
-
    >
    >Om något av dessa fält saknas visas ett felmeddelande i Marketo med namnet på de saknade fälten. Åtgärda problemet genom att utföra [detta förfarande](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
 

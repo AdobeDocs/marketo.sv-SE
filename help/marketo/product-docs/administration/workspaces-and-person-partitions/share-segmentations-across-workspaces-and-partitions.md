@@ -3,7 +3,8 @@ unique-page-id: 7515767
 description: Dela segment mellan arbetsytor och partitioner - Marketo Docs - produktdokumentation
 title: Dela segment mellan arbetsytor och partitioner
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
-source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
+feature: Partitions, Workspaces
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '463'
 ht-degree: 0%

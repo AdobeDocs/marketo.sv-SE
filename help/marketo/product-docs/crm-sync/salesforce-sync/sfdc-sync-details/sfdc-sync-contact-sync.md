@@ -3,7 +3,8 @@ unique-page-id: 2953457
 description: SFDC-synkronisering - kontaktsynkronisering - Marketo Docs - produktdokumentation
 title: SFDC-synkronisering - kontaktsynkronisering
 exl-id: 537bbc95-9233-4454-892e-81f962cf729d
-source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%

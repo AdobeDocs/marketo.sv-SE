@@ -3,7 +3,8 @@ unique-page-id: 3571827
 description: Steg 2 av 3 - Konfigurera Marketo Solution med Server to Server Connection - Marketo Docs - Produktdokumentation
 title: Steg 2 av 3 - Konfigurera Marketo Solution med Server to Server Connection
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: b4773137bf21eccc58a6d975d50748e8ff2a57db
+feature: Microsoft Dynamics
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '598'
 ht-degree: 0%
@@ -53,7 +54,6 @@ ht-degree: 0%
    >* När du ger behörighet till programanvändaren måste du tilldela den till&quot;Marketo Sync User Role&quot;.
    >* Anteckna programmets användares e-postadress från [visningsalternativ](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user){target="_blank"} på Power Platform. Den här e-postadressen används som användarnamn när du konfigurerar anslutningen till MS Dynamics i Marketo.
    >* Alla uppdateringar som görs i CRM av Synkronisera användare kommer att **not** synkas tillbaka till Marketo.
-
 
 ## Azure AD Federated med AD FS On-prem {#azure-ad-federated-with-ad-fs-on-prem}
 
@@ -111,4 +111,3 @@ Nästan klart! Allt vi har kvar är att informera Marketo Solution om den nya an
 >
 >* [Steg 3 av 3: Ansluta Marketo-lösningen med server-till-server-anslutning](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md){target="_blank"}
 >* [Konfigurera om Dynamics-autentiseringsmetod](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md){target="_blank"}
-

@@ -3,7 +3,8 @@ unique-page-id: 14352633
 description: Favorit a Template - Marketo Docs - Product Documentation
 title: Favorera en mall
 exl-id: f2697fff-5be3-4137-9a8d-8d8f338d9627
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%

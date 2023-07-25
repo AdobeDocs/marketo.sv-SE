@@ -3,7 +3,8 @@ unique-page-id: 2359581
 description: Champion/Challenger -Approve Your Email Test - Marketo Docs - Product Documentation
 title: Champion/Challenger - Godkänn ditt e-posttest
 exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -40,4 +41,3 @@ Det sista steget i att konfigurera ditt e-posttest för att godkänna det. Så h
    >
    >* [Champion/Challenger: Deklarera en tävling](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
    >* [Champion/Challenger: Ignorera ett e-posttest](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)
-

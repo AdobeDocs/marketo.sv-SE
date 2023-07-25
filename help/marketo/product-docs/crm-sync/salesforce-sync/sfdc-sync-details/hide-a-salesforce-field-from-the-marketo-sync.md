@@ -3,7 +3,8 @@ unique-page-id: 4719306
 description: Dölj ett Salesforce-fält från Marketo Sync - Marketo Docs - produktdokumentation
 title: Dölj ett Salesforce-fält från Marketo Sync
 exl-id: 5d7229f0-43b0-4232-93ed-a9ca52ace401
-source-git-commit: 7376804bda915d7ff25cdc50cb78a6686bd36882
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%

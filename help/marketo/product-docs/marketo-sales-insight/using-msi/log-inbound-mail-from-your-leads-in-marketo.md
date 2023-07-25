@@ -3,7 +3,8 @@ unique-page-id: 2949285
 description: Logga inkommande e-post från dina leads i Marketo - Marketo Docs - produktdokumentation
 title: Logga inkommande e-post från dina leads i Marketo
 exl-id: 4fab5007-f6fb-432c-ae13-02da747a82ef
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -44,4 +45,3 @@ Logga dina leads svar och lägg till dem i deras historik i Marketo.
 >
 >* [Skicka och spåra ett e-postmeddelande med Marketo e-posttillägg för Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [Skicka och spåra från Outlook med en Marketo-mall](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
-

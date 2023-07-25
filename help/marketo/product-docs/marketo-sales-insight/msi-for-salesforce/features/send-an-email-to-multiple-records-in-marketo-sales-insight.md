@@ -3,7 +3,8 @@ unique-page-id: 5472672
 description: Skicka ett e-postmeddelande till flera poster i Marketo Sales Insight - Marketo Docs - produktdokumentation
 title: Skicka ett e-postmeddelande till flera poster i Marketo Sales Insight
 exl-id: 65c6f4b3-a23c-40f4-84bd-3510a0f8509f
-source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%

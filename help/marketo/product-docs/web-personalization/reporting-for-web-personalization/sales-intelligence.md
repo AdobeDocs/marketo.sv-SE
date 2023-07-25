@@ -3,7 +3,8 @@ unique-page-id: 10096420
 description: Sales Intelligence - Marketo Docs - produktdokumentation
 title: Försäljningsinformation
 exl-id: 118da902-8c02-413b-8959-2e970d3dd9a4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%

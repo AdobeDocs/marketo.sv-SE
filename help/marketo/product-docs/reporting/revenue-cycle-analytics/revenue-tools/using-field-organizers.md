@@ -3,7 +3,8 @@ unique-page-id: 3571892
 description: Använda fältorganisatörer - Marketo Docs - produktdokumentation
 title: Använda fältorganisatörer
 exl-id: 578969f7-9380-4019-9b86-85c659a216b3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%

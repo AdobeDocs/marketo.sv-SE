@@ -3,7 +3,8 @@ unique-page-id: 8783561
 description: Skicka ett exempel - Marketo Docs - produktdokumentation
 title: Skicka ett exempel
 exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%

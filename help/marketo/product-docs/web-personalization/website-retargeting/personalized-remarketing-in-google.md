@@ -3,7 +3,8 @@ unique-page-id: 4720810
 description: Personaliserad Remarketing i Google - Marketo Docs - produktdokumentation
 title: Personaliserad marknadsföring i Google
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 0%
@@ -18,7 +19,6 @@ Med personligt anpassad marknadsföring kan ni återengagera era användare med 
 >
 >* Slutför [Återannonsering med webbpersonaliseringsdata](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) konfiguration
 >* Granska [Remarketing with Google Analytics Help](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645) dokumentation.
-
 
 ## Creating a Remarketing Audience in Google {#creating-a-remarketing-audience-in-google}
 
@@ -51,7 +51,6 @@ Med personligt anpassad marknadsföring kan ni återengagera era användare med 
 >* Anpassade Dimensioner: Organisation, bransch, kategori (Fortune 500,1000, Global 2000), grupp (Enterprise, SMB), ABM-lista (lista över namngivna konton)
 >* Händelsekategori: RTP-Segment, RTP-Campaign RTP-Remarketing
 >* Händelseetikett: Segmentnamn, kampanjnamn, segmenterat målgruppsnamn
-
 
 **Exempel på återmarknadsföring från RTP-segmenterade målgruppsdata**
 
@@ -97,4 +96,3 @@ Med personligt anpassad marknadsföring kan ni återengagera era användare med 
 >
 >* [Återannonsering med webbpersonaliseringsdata](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
 >* [Personaliserad marknadsföring i Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
-

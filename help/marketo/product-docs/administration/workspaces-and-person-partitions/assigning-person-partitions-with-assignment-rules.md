@@ -3,7 +3,8 @@ unique-page-id: 2360327
 description: Tilldela personpartitioner med tilldelningsregler - Marketo Docs - produktdokumentation
 title: Tilldela personpartitioner med tilldelningsregler
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
-source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
+feature: Partitions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 1%

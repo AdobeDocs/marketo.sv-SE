@@ -3,7 +3,8 @@ unique-page-id: 12980105
 description: Bjud in användare att få åtkomst till kontoinsikter - Marketo Docs - produktdokumentation
 title: Bjud in användare att få åtkomst till kontoinsikter
 exl-id: 772e50d6-4ae8-4d3e-9d6a-9bc075bd4a06
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 11380734
 description: Kontoutlösare - Marketo Docs - produktdokumentation
 title: Kontoutlösare
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%

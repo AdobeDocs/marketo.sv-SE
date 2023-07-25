@@ -2,7 +2,8 @@
 description: Guiden Komma igång för Sales Connect Admins - Marketo Docs - produktdokumentation
 title: Starthandbok för Sales Connect-administratörer
 exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
-source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '479'
 ht-degree: 0%

@@ -1,19 +1,20 @@
 ---
-description: Ansluta Dynamic Chat till Marketo - Marketo Docs - produktdokumentation
+description: Connect Dynamic Chat to Marketo - Marketo Docs - Product Documentation
 title: Ansluta Dynamic Chat till Marketo
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: a70ce09e446769b3b3177e8d5cf902d1ab8cbb05
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
 
 # Ansluta Dynamic Chat till Marketo {#connect-dynamic-chat-to-marketo}
 
-## Ansluta dynamiskt chatt {#connecting-dynamic-chat}
+## Ansluta Dynamic Chat {#connecting-dynamic-chat}
 
-När du är klar med [inledande konfiguration](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target=&quot;_blank&quot;}, det är dags att utföra engångssynkroniseringen som kopplar Dynamic Chat till din Marketo-prenumeration.
+När du är klar med [inledande konfiguration](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target="_blank"}är det dags att utföra engångssynkroniseringen som kopplar Dynamic Chat till din Marketo-prenumeration.
 
 1. I Min Marketo klickar du på **Dynamiskt chatt** platta.
 
@@ -23,7 +24,7 @@ När du är klar med [inledande konfiguration](/help/marketo/product-docs/demand
    >
    >Om du inte ser rutan kan du kontakta Marketo Admin.
 
-1. Om du tidigare har använt ett program med en Adobe ID kommer du direkt till Dynamic Chat. Om inte, [konfigurera din Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target=&quot;_blank&quot;}.
+1. Om du tidigare har använt ett program med en Adobe ID kommer du direkt till Dynamic Chat. Om inte, [konfigurera din Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
 1. Om du vill ansluta din Marketo-instans väljer du **Integreringar**.
 
@@ -33,7 +34,7 @@ När du är klar med [inledande konfiguration](/help/marketo/product-docs/demand
 
    ![](assets/connect-dynamic-chat-to-marketo-3.png)
 
-1. Välj upp till 50 attribut (standardfält eller anpassade fält) från din Marketo-instans för synkronisering till Dynamic Chat för målgruppsanpassning, datamappning och personalisering. Klicka **Nästa** när det är klart.
+1. Välj upp till 50 attribut (standardfält eller anpassade fält) från din Marketo-instans för synkronisering med Dynamic Chat för målgruppsanpassning, datamappning och personalisering. Klicka **Nästa** när det är klart.
 
    ![](assets/connect-dynamic-chat-to-marketo-4.png)
 
@@ -79,4 +80,4 @@ Så här tar du bort ett attribut efter den första synkroniseringen.
 
 >[!MORELIKETHIS]
 >
->[Inledande konfiguration](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target=&quot;_blank&quot;}
+>[Inledande konfiguration](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target="_blank"}

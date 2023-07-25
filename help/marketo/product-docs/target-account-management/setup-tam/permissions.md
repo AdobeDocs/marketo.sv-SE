@@ -3,7 +3,8 @@ unique-page-id: 11380778
 description: Behörigheter - Marketo Docs - produktdokumentation
 title: Behörigheter
 exl-id: 18206046-15b9-47bc-bea7-88f207dd4021
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 7512451
 description: Skapa ett push-meddelande - Marketo Docs - produktdokumentation
 title: Skapa ett push-meddelande
 exl-id: a08fbef3-25b4-4b11-aee7-f610f8f30d36
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%

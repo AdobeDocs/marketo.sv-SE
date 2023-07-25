@@ -3,7 +3,8 @@ unique-page-id: 4719297
 description: Aktivera/inaktivera anpassad objektsynkronisering - Marketo Docs - produktdokumentation
 title: Aktivera/inaktivera synkronisering av anpassat objekt
 exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%

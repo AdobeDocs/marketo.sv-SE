@@ -2,7 +2,8 @@
 description: Använda Global Search - Marketo Docs - produktdokumentation
 title: Använda den globala sökningen
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Modern UX
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 3%

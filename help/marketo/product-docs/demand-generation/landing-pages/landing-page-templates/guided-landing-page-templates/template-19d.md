@@ -3,7 +3,8 @@ unique-page-id: 10092899
 description: Mall 19D - Marketo Docs - produktdokumentation
 title: Mall 19D
 exl-id: a2e0620e-15b7-45f1-a8f7-78f0554e290a
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 26837421
 description: Skapa en kontomatchad målgrupp på LinkedIn - Marketo Docs - produktdokumentation
 title: Skapa en kontomatchad målgrupp på LinkedIn
 exl-id: 55f2106d-6078-4a47-ab00-6b6dc950a206
-source-git-commit: dbfa6e2e1a274be5ea587ba960cd2e237215f4b9
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%

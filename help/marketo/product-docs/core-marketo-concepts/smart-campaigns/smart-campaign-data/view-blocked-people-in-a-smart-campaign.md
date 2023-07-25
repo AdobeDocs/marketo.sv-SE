@@ -3,7 +3,8 @@ unique-page-id: 1147062
 description: Visa blockerade personer i en smart kampanj - Marketo Docs - produktdokumentation
 title: Visa blockerade personer i en smart kampanj
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -40,6 +41,5 @@ Spärrade personer i Marketo-databasen har markerats som blocklist, avbeställda
    >* [Aktivera kommunikationsgränser](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)
    >* [Visa medlemmar i smarta kampanjer](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
    >* [Visa kvalificerade personer i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md)
-
 
 Så där ja! Nu kan du vara medveten om vem som kanske inte får utskick.

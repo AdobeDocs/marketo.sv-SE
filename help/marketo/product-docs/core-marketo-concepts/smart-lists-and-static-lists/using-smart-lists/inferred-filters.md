@@ -3,9 +3,10 @@ unique-page-id: 2953188
 description: Inkommande filter - Marketo Docs - produktdokumentation
 title: Inkommande filter
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
-source-git-commit: e9a89fb17ca55961c1ee7962d5466b6cb76a9550
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -18,7 +19,7 @@ När någon besöker er webbplats [Munchkin](/help/marketo/product-docs/administ
 >
 >Vi uppdaterar regelbundet databasen som används för IP-adresssökningar för att säkerställa att de härledda fältsvärdena förblir aktuella. Databasuppdateringar kan medföra nya härledda fältvärden som du kan behöva lägga till i definitioner för smarta listfilter.
 >
->Databasuppdateringar kan utföras under [Marketo Engage produktrelease](/help/marketo/release-notes/release-schedule.md){target=&quot;_blank&quot;}. När en uppdatering görs [Versionsinformation för Marketo Engage](/help/marketo/release-notes/current.md){target=&quot;_blank&quot;} innehåller en förklaring till eventuella ändringar av härledda fältvärden.
+>Databasuppdateringar kan utföras under [Marketo Engage produktrelease](/help/marketo/release-notes/release-schedule.md){target="_blank"}. When an update does occur, the [Marketo Engage release notes](/help/marketo/release-notes/current.md){target="_blank"} innehåller en förklaring till eventuella ändringar av härledda fältvärden.
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
@@ -40,7 +41,6 @@ När du använder något av de här filtren i en smart lista kommer resultatet a
 >
 >* Besökt webbsida - de senaste 24 timmarna
 >* Inledningstillstånd är [markera sitt territorium]
-
 
 Dessa anonyma besökare konverteras automatiskt till personer när de klickar på en e-postlänk eller fyller i ett formulär. De behåller dock all information som de kommit fram till.
 

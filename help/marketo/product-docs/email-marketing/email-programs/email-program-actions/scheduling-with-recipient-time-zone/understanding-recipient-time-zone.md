@@ -3,7 +3,8 @@ unique-page-id: 12983291
 description: Understanding Recipient Time Zone - Marketo Docs - Product Documentation
 title: Förstå mottagartidszon
 exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
-source-git-commit: 46812deb41ed56328a4a64fbd36340d13c50dde4
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 0%
@@ -52,4 +53,3 @@ Om vi fortfarande inte kan fastställa någons tidszon utifrån någon kombinati
 >* [Head Start for Email Programs](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
 >
 >* [Schemalägg engagemangsprogram med mottagartidszon](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
-

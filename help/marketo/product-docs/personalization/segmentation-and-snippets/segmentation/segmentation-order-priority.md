@@ -3,7 +3,8 @@ unique-page-id: 2359500
 description: Prioritet för segmenteringsorder - Marketo Docs - produktdokumentation
 title: Prioritet för segmenteringsordning
 exl-id: c20d07c8-5e53-4f54-a7a3-2e1aa4fb0cdd
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Segmentation
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -40,6 +41,5 @@ Det är viktigt att förstå hur **order** anger prioriteten för utvärdering a
 >* Segmenten utesluter varandra. En person kan bara vara medlem i ett segment åt gången.
 >* När en person kvalificerar sig för två segment tillhör de bara det första i listan.
 >* Om en person inte är berättigad till något segment blir han eller hon medlem i standardsegmentet.
-
 
 Coola, va? Du kan använda segment för dynamiskt innehåll, rapportering och till och med i smarta listor.

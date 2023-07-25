@@ -3,7 +3,8 @@ unique-page-id: 2359785
 description: Skicka hänvisningserbjudande - e-post om uppfyllande av krav - Marketo Docs - produktdokumentation
 title: Skicka e-post om uppfyllelse av hänvisningserbjudande
 exl-id: ed5e3dbf-1e48-49c6-b859-01872d1305e2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -18,7 +19,6 @@ Belöna era kunder med kuponger och rabattkoder med hjälp av e-postmeddelandet 
 >
 >* [Använd e-post i sociala kampanjer](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
 >* [Skapa ett hänvisningserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
-
 
 ## Ställ in leverans för leverans {#set-up-fulfillment-delivery}
 

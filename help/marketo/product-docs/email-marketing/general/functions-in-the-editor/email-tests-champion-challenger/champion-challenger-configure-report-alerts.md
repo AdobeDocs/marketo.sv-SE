@@ -3,7 +3,8 @@ unique-page-id: 2359567
 description: Champion/Challenger -Configure Report Alerts - Marketo Docs - produktdokumentation
 title: Champion/Challenger -Configure Report Alerts
 exl-id: 09e17279-c9f5-4a12-ab07-9fce8a0e77ee
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 12615800
 description: Importera namngivna konton - Marketo Docs - produktdokumentation
 title: Importera namngivna konton
 exl-id: 3f40e567-9256-4efd-beea-4e818770759f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '479'
 ht-degree: 0%

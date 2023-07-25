@@ -2,7 +2,8 @@
 description: Installera Marketo för Microsoft Dynamics 2016/Dynamics 365 On-Premises 1 of 3 - Marketo Docs - produktdokumentation
 title: Installera Marketo för Microsoft Dynamics 2016/Dynamics 365 On-Premises Step 1 of 3
 exl-id: 0a494ae7-87da-4ff9-bb47-990b957533e1
-source-git-commit: 3fb93520a653109845c3b40aba20304c6163214f
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 0%

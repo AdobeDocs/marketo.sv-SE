@@ -3,7 +3,8 @@ unique-page-id: 10093688
 description: Lägg till anpassade Marketo-objektfält - Marketo Docs - produktdokumentation
 title: Lägg till anpassade Marketo-objektfält
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
-source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+feature: Custom Objects
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
@@ -68,4 +69,3 @@ Fält definierar den specifika information som används av ett anpassat objekt. 
 >* [Redigera och ta bort ett anpassat Marketo-objekt](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
 >* [Redigera och ta bort anpassade Marketo-objektfält](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
 >* [Förstå anpassade Marketo-objekt](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
-

@@ -3,7 +3,8 @@ unique-page-id: 1147144
 description: Skapa ett nytt e-postprogram i schemavy - Marketo Docs - produktdokumentation
 title: Skapa ett nytt e-postprogram i schemavy
 exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%

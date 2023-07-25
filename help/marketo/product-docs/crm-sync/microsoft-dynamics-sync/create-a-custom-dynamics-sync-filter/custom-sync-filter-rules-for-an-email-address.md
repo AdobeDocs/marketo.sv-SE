@@ -3,7 +3,8 @@ unique-page-id: 10095307
 description: Anpassade synkroniseringsfilterregler för en e-postadress - Marketo Docs - Produktdokumentation
 title: Anpassade synkroniseringsfilterregler för en e-postadress
 exl-id: d1d51310-0c59-447c-818c-b25aa281c15c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%

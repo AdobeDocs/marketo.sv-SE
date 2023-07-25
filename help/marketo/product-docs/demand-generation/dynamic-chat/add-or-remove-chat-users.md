@@ -2,7 +2,8 @@
 description: Lägg till eller ta bort chattanvändare - Marketo Docs - produktdokumentation
 title: Lägg till eller ta bort chattanvändare
 exl-id: b616030c-a9fe-48d7-902c-40621307bfec
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -47,9 +48,9 @@ Följ stegen nedan för att lägga till eller ta bort chattanvändare.
 
    ![](assets/add-or-remove-chat-users-7.png)
 
-## Lägg till dynamisk chattåtkomst till Marketo-rollen {#add-dynamic-chat-access-to-marketo-role}
+## Lägg till Dynamic Chat i Marketo-rollen {#add-dynamic-chat-access-to-marketo-role}
 
-Om den nyligen tillagda chattanvändarens Marketo-roll inte redan har dynamisk chatt, så här lägger du till den.
+Om den nyligen tillagda chattanvändarens Marketo-roll inte redan har Dynamic Chat-behörighet gör du så här.
 
 1. I Marketo klickar du på **Administratör** och markera **Användare och roller**.
 
@@ -63,7 +64,7 @@ Om den nyligen tillagda chattanvändarens Marketo-roll inte redan har dynamisk c
 
    ![](assets/add-or-remove-chat-users-10.png)
 
-1. Välj **Åtkomst till dynamiskt chatt** och klicka **Spara**.
+1. Välj **Access Dynamic Chat** och klicka **Spara**.
 
    ![](assets/add-or-remove-chat-users-11.png)
 
@@ -101,4 +102,3 @@ Om den nyligen tillagda chattanvändarens Marketo-roll inte redan har dynamisk c
 >
 >* [Adobe Admin Console-användare](https://helpx.adobe.com/enterprise/using/users.html)
 >* [Hantera användare individuellt](https://helpx.adobe.com/enterprise/using/manage-users-individually.html)
-

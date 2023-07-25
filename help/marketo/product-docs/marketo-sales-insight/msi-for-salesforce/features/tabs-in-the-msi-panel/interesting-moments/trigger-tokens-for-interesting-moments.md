@@ -3,7 +3,8 @@ unique-page-id: 1146999
 description: Utlösartoken för intressanta ögonblick - Marketo Docs - produktdokumentation
 title: Utlösartoken för intressanta ögonblick
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
-source-git-commit: f4c773ca76542827a498940f44b018ddb71816d6
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 0%

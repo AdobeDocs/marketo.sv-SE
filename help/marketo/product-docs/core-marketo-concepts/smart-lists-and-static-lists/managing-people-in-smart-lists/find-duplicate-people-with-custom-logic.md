@@ -3,7 +3,8 @@ unique-page-id: 2952636
 description: Hitta duplicerade personer med anpassad logik - Marketo Docs - produktdokumentation
 title: Sök efter duplicerade personer med anpassad logik
 exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 5%

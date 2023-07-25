@@ -3,7 +3,8 @@ unique-page-id: 6848705
 description: Bästa praxis -Hur du organiserar program - Marketo Docs - Produktdokumentation
 title: Bästa praxis -Så här organiserar du dina program
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '843'
 ht-degree: 0%
@@ -27,29 +28,28 @@ I marknadsföringsaktiviteter bör du använda mappar för att ordna dina progra
 >**Exempel**
 >
 >* Aktiva marknadsföringsprogram
-   >   * E-post
-   >   * Händelser
-      >      * Live Events/Roadshows
-      >      * Varumärken
-      >      * Webbinarier
-   >   * Nyhetsbrev
-   >   * Nätur
-   >   * Webbinnehåll
-   >   * Webbformulär
+>   * E-post
+>   * Händelser
+>      * Live Events/Roadshows
+>      * Varumärken
+>      * Webbinarier
+>   * Nyhetsbrev
+>   * Nätur
+>   * Webbinnehåll
+>   * Webbformulär
 >* Utbildning
 >* Operativ
-   >   * Livscykel
-   >   * Poäng
-   >   * Datahantering
+>   * Livscykel
+>   * Poäng
+>   * Datahantering
 >* Försäljningsinsikter
-   >   * Intressanta ögonblick
-   >   * Försäljningsmejl
-   >   * Begärda försäljningskampanjer
+>   * Intressanta ögonblick
+>   * Försäljningsmejl
+>   * Begärda försäljningskampanjer
 >* **Arkiv**
-   >   * Arkivera händelser
-      >      * Arkiv 2012
-      >      * Arkiv 2013
-
+>   * Arkivera händelser
+>      * Arkiv 2012
+>      * Arkiv 2013
 
 Var och en av dessa nämns i exemplet är en mapp. Lägg märke till att de alla är unikt namngivna. Du kan ha duplicerade (enklare) namn på mappar INUTI-program, men inte i roten av trädet.
 
@@ -74,7 +74,6 @@ Namngivning är viktigt eftersom Marketo funktioner alla använder ett gemensamt
 >1. ES 2015-09-21 Widget Intro
 >1. NL 2015-06 nyhetsbrev
 >1. WBN 2015-12-01 Webbseminarium här
-
 
 Programnamnen måste vara unika i prenumerationen, även i olika [arbetsytor](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).  För lokala resurser i program är regeln att **behåll namnet enkelt**. Ange bara&quot;Inbjudan&quot; till skillnad från&quot;2015 Juniwebbinariet Invitation&quot;. Eftersom dessa finns i ett program är det överordnade programmet automatiskt en del av namnet när du väljer det någon annanstans. Med andra ord behöver lokala resurser bara vara unika inom programmet. Du kan ha hundratals resurser som heter&quot;Bjud in&quot;, var och en i ett annat program och det kommer inte att försvåra dig.
 

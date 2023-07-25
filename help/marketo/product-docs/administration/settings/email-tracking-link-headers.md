@@ -2,7 +2,8 @@
 description: Länkrubriker för e-postspårning - Marketo Docs - Produktdokumentation
 title: Länkrubriker för e-postspårning
 exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
-source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+feature: Administration
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 1%

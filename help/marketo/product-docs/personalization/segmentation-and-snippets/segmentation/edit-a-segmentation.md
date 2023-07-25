@@ -3,7 +3,8 @@ unique-page-id: 2359474
 description: Redigera en segmentering - Marketo Docs - produktdokumentation
 title: Redigera en segmentering
 exl-id: 8a217ce4-af14-4fc2-b5d7-7fc696b7665d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Segmentation
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%

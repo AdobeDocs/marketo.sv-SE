@@ -3,7 +3,8 @@ unique-page-id: 7504180
 description: Använd en Marketo List eller Smart List som ett LinkedIn Audience-segment - Marketo Docs - produktdokumentation
 title: Använd en Marketo List eller Smart List som ett LinkedIn Audience-segment
 exl-id: 9a7943fe-b2e7-443a-87e0-da01001682de
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%

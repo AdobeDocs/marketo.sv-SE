@@ -3,7 +3,8 @@ unique-page-id: 15695939
 description: Versionsinformation -höst 18 - Marketo Docs - produktdokumentation
 title: Versionsinformation - höst 18
 exl-id: a3cc4cc5-38a6-4648-91f2-092daa9b0113
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '850'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 9437783
 description: Mall 13A - Marketo Docs - produktdokumentation
 title: Mall 13A
 exl-id: 4a6bc6ec-cb81-4b2f-8b0f-43f3f907142d
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%

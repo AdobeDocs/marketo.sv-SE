@@ -3,9 +3,10 @@ unique-page-id: 17728401
 description: E-postanslutning för Gmail-användare - Marketo Docs - Produktdokumentation
 title: E-postanslutning för Gmail-användare
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
-source-git-commit: 84da081b1484daf0c6c7e5ae4799c4c0b549d0e3
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -16,7 +17,7 @@ Att ansluta till Gmail innebär att du får svarsspårning, tillgång till Gmail
 
 >[!CAUTION]
 >
->Om du är [använda filter](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target=&quot;_blank&quot;} eller regler i ditt Gmail-konto som automatiskt markerar e-post som läst, kan orsaka problem med svarsuppföljning. Vi rekommenderar att du inaktiverar alla regler som automatiskt markerar e-postmeddelanden som lästa när du använder svarsspårning med Gmail.
+>Om du är [använda filter](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} eller regler i ditt Gmail-konto som automatiskt markerar e-postmeddelanden som lästa kan orsaka problem med svarsuppföljningen. Vi rekommenderar att du inaktiverar alla regler som automatiskt markerar e-postmeddelanden som lästa när du använder svarsspårning med Gmail.
 
 1. Klicka på kugghjulsikonen i Sales Connect och välj **Inställningar**.
 

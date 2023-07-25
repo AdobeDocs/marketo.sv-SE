@@ -2,7 +2,8 @@
 description: Change Program Member Data - Marketo Docs - Product Documentation
 title: Ändra medlemsuppgifter för program
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -43,4 +44,3 @@ Kör nu bara Smart Campaign, så är du klar!
 >
 >* [Använd token i flödessteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
 >* [Lägg till data i ett fält](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
-

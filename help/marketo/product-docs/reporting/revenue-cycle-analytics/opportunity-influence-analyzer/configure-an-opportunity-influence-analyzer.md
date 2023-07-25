@@ -3,7 +3,8 @@ unique-page-id: 2360240
 description: Konfigurera en säljprojektsanalys - Marketo Docs - produktdokumentation
 title: Konfigurera en analys av affärsmöjlighet
 exl-id: 9165c7ac-5b8e-48d2-bbe7-1f9074848724
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%

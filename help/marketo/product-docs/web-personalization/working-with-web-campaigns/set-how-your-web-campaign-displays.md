@@ -3,7 +3,8 @@ unique-page-id: 12978906
 description: Ange hur webbkampanjen visas - Marketo Docs - Produktdokumentation
 title: Ange hur webbkampanjen ska visas
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%

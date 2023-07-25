@@ -3,7 +3,8 @@ unique-page-id: 1900548
 description: Förhandsgranska ett e-postmeddelande med dynamiskt innehåll - Marketo Docs - produktdokumentation
 title: Förhandsgranska ett e-postmeddelande med dynamiskt innehåll
 exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%

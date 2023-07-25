@@ -3,7 +3,8 @@ unique-page-id: 1147040
 description: Ge kredit till referenten - Marketo Docs - produktdokumentation
 title: Ge kredit till referent
 exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 1%

@@ -3,7 +3,8 @@ unique-page-id: 5472404
 description: Leta upp aktivitetsloggen för en person - Marketo Docs - produktdokumentation
 title: Leta reda på aktivitetsloggen för en person
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
-source-git-commit: 7bd453393fbba5e60eace6ec9d831494ebfdd883
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%

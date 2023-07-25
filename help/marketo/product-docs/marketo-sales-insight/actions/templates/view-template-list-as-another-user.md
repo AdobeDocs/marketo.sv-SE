@@ -4,7 +4,8 @@ title: Visa malllista som en annan användare
 hide: true
 hidefromtoc: true
 exl-id: c0d8d0c4-17a1-4f0e-86f2-a0d19fab5d36
-source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%

@@ -1,7 +1,9 @@
 ---
 description: Högdagerintegrering - Marketo Docs - produktdokumentation
 title: Integrering med högdagrar
-source-git-commit: 4f919501ee93790105fae3800f1b0ddd96036dfa
+exl-id: d864fa56-5cab-409f-9256-9819204f8853
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '334'
 ht-degree: 0%

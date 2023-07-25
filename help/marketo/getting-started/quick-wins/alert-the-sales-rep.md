@@ -3,7 +3,8 @@ unique-page-id: 2359424
 description: Meddela säljaren - Marketo Docs - produktdokumentation
 title: Meddela säljaren
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
-source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%

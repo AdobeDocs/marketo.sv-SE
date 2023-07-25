@@ -3,7 +3,8 @@ unique-page-id: 11377005
 description: Aktivera RSS för Sales Insight - Marketo Docs - produktdokumentation
 title: Aktivera RSS för Sales Insight
 exl-id: 1b6c0dc7-6f24-4931-ae99-6a2cf00db99d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 2359557
 description: Champion/Challenger -Subject line - Marketo Docs - produktdokumentation
 title: Champion/Challenger - Subject Line
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%

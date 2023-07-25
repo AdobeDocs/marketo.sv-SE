@@ -3,7 +3,8 @@ unique-page-id: 10098625
 description: Förstå Microsoft Dynamics Sync - Marketo Docs - produktdokumentation
 title: Förstå Microsoft Dynamics Sync
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%

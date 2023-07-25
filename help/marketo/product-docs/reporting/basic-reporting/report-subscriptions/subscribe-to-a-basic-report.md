@@ -3,7 +3,8 @@ unique-page-id: 2359987
 description: Prenumerera på en grundläggande rapport - Marketo Docs - produktdokumentation
 title: Prenumerera på en grundläggande rapport
 exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%

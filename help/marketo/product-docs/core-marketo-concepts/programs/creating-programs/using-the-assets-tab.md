@@ -3,7 +3,8 @@ unique-page-id: 1147124
 description: Använda fliken Resurser - Marketo Docs - produktdokumentation
 title: Använda fliken Resurser
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%

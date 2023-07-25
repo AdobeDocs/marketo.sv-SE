@@ -3,9 +3,10 @@ unique-page-id: 1147060
 description: Avbryt en schemalagd återkommande batchkampanjkörning - Marketo Docs - produktdokumentation
 title: Avbryt en schemalagd återkommande batchkampanjkörning
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
-source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---

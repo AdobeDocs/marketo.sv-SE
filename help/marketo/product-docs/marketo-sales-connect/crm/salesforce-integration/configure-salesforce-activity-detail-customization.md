@@ -2,7 +2,8 @@
 description: Konfigurera detaljanpassning av Salesforce-aktivitet - Marketo Docs - produktdokumentation
 title: Konfigurera detaljanpassning av Salesforce-aktivitet
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+feature: Marketo Sales Connect
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '707'
 ht-degree: 0%

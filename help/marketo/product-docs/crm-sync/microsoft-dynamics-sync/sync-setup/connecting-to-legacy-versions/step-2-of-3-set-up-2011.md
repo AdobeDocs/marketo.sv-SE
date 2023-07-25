@@ -3,7 +3,8 @@ unique-page-id: 3571807
 description: Steg 2 av 3 - Konfigurera Marketo Sync User in Dynamics (On-Premises 2011) - Marketo Docs - Produktdokumentation
 title: Steg 2 av 3 - Konfigurera Marketo Sync User in Dynamics (On-Premises 2011)
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
-source-git-commit: eac7e219f1babc22dce30717fea4cecb93e1cce7
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%

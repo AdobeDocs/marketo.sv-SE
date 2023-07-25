@@ -3,7 +3,8 @@ unique-page-id: 14745655
 description: Gör en kampanj synlig för användare av Sales Connect - Marketo Docs - produktdokumentation
 title: Gör en kampanj synlig för användare av Sales Connect
 exl-id: 1fde53e3-2764-4e4b-897f-635b78534133
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%

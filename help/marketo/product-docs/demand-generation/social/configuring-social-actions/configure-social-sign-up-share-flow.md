@@ -3,7 +3,8 @@ unique-page-id: 2950530
 description: Konfigurera Socialt registreringsflöde/Dela flöde - Marketo Docs - Produktdokumentation
 title: Konfigurera flöde för social registrering/delning
 exl-id: 521187d1-2228-42e7-a87b-3b20a45adb03
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 0%
@@ -84,7 +85,7 @@ Om du väljer värden för sidans taggar (log:title, og:caption och og:descripti
 
    >[!TIP]
    >
-   >Använd {html_title} i tweettexten för att visa sidans titel automatiskt.
+   >Använd {html_title} i tweettexten så att sidans rubrik visas automatiskt.
 
 1. Klicka **Nästa**.
 
@@ -104,7 +105,7 @@ Om du väljer värden för sidans taggar (log:title, og:caption och og:descripti
 
    >[!TIP]
    >
-   >Använd {html_title} i din inläggstext för att visa sidans rubrik automatiskt.
+   >Använd {html_title} i din inläggstext för att visa sidans titel automatiskt.
 
 1. Om du valde **Lägg till statiskt innehåll** ovan, redigera titel och beskrivning och ladda upp en anpassad bild (från din [**Marketo Images and Files**](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)).
 

@@ -3,7 +3,8 @@ unique-page-id: 7516470
 description: Mall 2B - Marketo Docs - produktdokumentation
 title: Mall 2B
 exl-id: 8ccf9758-e1c4-41e2-8266-44f69f3a9c67
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%

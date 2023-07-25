@@ -3,7 +3,8 @@ unique-page-id: 4718640
 description: Understanding the Program Membership Analysis Area - Marketo Docs - Product Documentation
 title: Förstå analysområdet för programmedlemskap
 exl-id: dab55802-9a6c-447c-99fc-bc4fece6d674
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%

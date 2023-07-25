@@ -3,7 +3,8 @@ unique-page-id: 14352410
 description: Lägg till din e-postsignatur - Marketo Docs - produktdokumentation
 title: Lägg till din e-postsignatur
 exl-id: 176c742a-6c24-4629-8ad5-4d85fac7fcb5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%

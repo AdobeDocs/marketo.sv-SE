@@ -3,7 +3,8 @@ unique-page-id: 2949212
 description: SEO - Optimera specifika sidor med riktade nyckelord - Marketo Docs - produktdokumentation
 title: SEO - Optimera specifika sidor med riktade nyckelord
 exl-id: 5f36c1c5-be76-419e-a9e0-c180ce7bf2ed
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%

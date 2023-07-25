@@ -3,7 +3,8 @@ unique-page-id: 12255606
 description: Versionsinformation -vinter '17 - Marketo Docs - produktdokumentation
 title: Versionsinformation -vinter '17
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 0%

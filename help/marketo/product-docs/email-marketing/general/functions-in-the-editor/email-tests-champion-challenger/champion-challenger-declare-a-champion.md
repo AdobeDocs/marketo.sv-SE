@@ -3,7 +3,8 @@ unique-page-id: 2359584
 description: Champion/Challenger -Deklarera en mästare - Marketo Docs - produktdokumentation
 title: Champion/Challenger - Deklarera en mästare
 exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%

@@ -3,9 +3,10 @@ unique-page-id: 37355569
 description: Anpassade fält för programmedlemmar - Marketo Docs - produktdokumentation
 title: Anpassade fält för programmedlem
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
-source-git-commit: 10f7bf5b8b3fd91e98550ab281e5ddda87b1c30b
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '411'
 ht-degree: 0%
 
 ---
@@ -42,7 +43,7 @@ Med anpassade fält för programmedlemmar kan du samla in programspecifika data 
 
    >[!NOTE]
    >
-   >Typer som stöds för anpassade fält för programmedlemmar är: boolesk, date, datetime, float, integer, string, URL. [Läs mer om fälttyper](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target=&quot;_blank&quot;}.
+   >Typer som stöds för anpassade fält för programmedlemmar är: boolesk, date, datetime, float, integer, string, URL. [Läs mer om fälttyper](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
 
 ## Objektbeskrivningar {#object-descriptions}
 
@@ -55,7 +56,7 @@ Med anpassade fält för programmedlemmar kan du samla in programspecifika data 
 
 ## Utlösare och filter {#triggers-and-filters}
 
-Du kan utnyttja dessa programspecifika data i smarta listor via [utlösare](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target=&quot;_blank&quot;} och/eller [filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target=&quot;_blank&quot;}.
+Du kan utnyttja dessa programspecifika data i smarta listor via [utlösare](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"} and/or [filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}.
 
 ![](assets/six.png)
 
@@ -63,18 +64,17 @@ Du kan utnyttja dessa programspecifika data i smarta listor via [utlösare](/hel
 
 * Anpassade fält för programmedlemmar är endast tillgängliga i lokala resurser. De stöds inte i Design Studio eftersom det inte finns något sätt att knyta dem till ett specifikt program.
 * Du kan inte klona/flytta ett formulär (eller en landningssida med ett formulär) som innehåller anpassade fält för programmedlem till Design Studio.
-* [Du kan synkronisera](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target=&quot;_blank&quot;}, anpassade fält för programmedlemmar med anpassade fält för kampanjmedlemmar.
+* [Du kan synkronisera](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target="_blank"} Anpassade fält för programmedlemmar med anpassade fält för kampanjmedlemmar.
 * Objektet Program Member kan ha upp till 20 anpassade fält. Dessa fält är tillgängliga för alla program.
 * När du tar bort en medlem i ett program och har data i det anpassade fältet Programmedlem, rensas data från det fältet.
 * Om du vill visa data klickar du på fliken Medlemmar i programmet och skapar en anpassad vy som innehåller dessa fält.
-* Importera och exportera via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;} och [API](https://developers.marketo.com/){target=&quot;_blank&quot;} stöds. Exporterar endast arbete i programmedlemslistor, inte statiska listor.
+* Importera och exportera via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} and [API](https://developers.marketo.com/){target="_blank"} stöds. Exporterar endast arbete i programmedlemslistor, inte statiska listor.
 * När du sammanfogar två personer används vinnarens anpassade fältdata för programmedlemmen. Men om vinnaren inte har någon, kommer förlorarens värde att användas.
 * Ändringstypen tillåts inte i fält för programmedlemsinformation.
 * Begränsningen &quot;contains&quot; Smart List stöds inte för anpassade fält för programmedlem.
 
 >[!MORELIKETHIS]
 >
->* [Skapa ett anpassat fält i Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;}
+>* [Skapa ett anpassat fält i Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}
 >
->* [Synkronisering av anpassat fält för programmedlem](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target=&quot;_blank&quot;}
-
+>* [Synkronisering av anpassat fält för programmedlem](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target="_blank"}

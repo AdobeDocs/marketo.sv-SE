@@ -3,7 +3,8 @@ unique-page-id: 27656786
 description: Versionsinformation -August 19 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - augusti 19
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
-source-git-commit: 76cea113ddff730e1ad30d0e1fea801053ba4d98
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%

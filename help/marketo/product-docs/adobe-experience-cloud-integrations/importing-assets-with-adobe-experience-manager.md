@@ -3,7 +3,8 @@ unique-page-id: 37355768
 description: Importera resurser med Adobe Experience Manager - Marketo Docs - produktdokumentation
 title: Importera resurser med Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
+feature: Integrations
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%

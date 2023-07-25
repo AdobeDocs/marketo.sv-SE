@@ -3,7 +3,8 @@ unique-page-id: 10097613
 description: Lägg till Marketo anpassade objektlänkfält - Marketo Docs - produktdokumentation
 title: Lägg till Marketo anpassade objektlänkfält
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
-source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+feature: Custom Objects
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '551'
 ht-degree: 0%
@@ -133,4 +134,3 @@ Nästa steg är att använda dessa anpassade objekt i filter i smarta kampanjer.
 >* [Redigera och ta bort ett anpassat Marketo-objekt](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
 >* [Förstå anpassade Marketo-objekt](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 >* [Redigera och ta bort anpassade Marketo-objektfält](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
-

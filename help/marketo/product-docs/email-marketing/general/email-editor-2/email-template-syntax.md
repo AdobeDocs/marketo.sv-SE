@@ -3,7 +3,8 @@ unique-page-id: 11371040
 description: Syntax för e-postmall - Marketo Docs - Produktdokumentation
 title: Syntax för e-postmall
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
-source-git-commit: a59b6b2505c6e5a83c6137a1925aa4e60e56eac8
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '2423'
 ht-degree: 0%

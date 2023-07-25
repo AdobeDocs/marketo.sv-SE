@@ -3,7 +3,8 @@ unique-page-id: 3571830
 description: Steg 3 av 3 - Ansluta Marketo-lösningen med Server to Server Connection - Marketo Docs - Produktdokumentation
 title: Steg 3 av 3 - Ansluta Marketo Solution med Server to Server Connection
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '446'
 ht-degree: 0%
@@ -18,7 +19,6 @@ Detta är det sista steget i synkroniseringen. Vi är nästan framme!
 >
 >* [Steg 1 av 3: Installera Marketo Solution with Server to Server Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
 >* [Steg 2 av 3: Konfigurera Marketo Solution med Server to Server Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
-
 
 >[!NOTE]
 >

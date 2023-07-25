@@ -3,7 +3,8 @@ unique-page-id: 2949469
 description: Installationssteg - Marketo Docs - produktdokumentation
 title: Installationssteg
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '2008'
 ht-degree: 0%

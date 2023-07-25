@@ -2,7 +2,8 @@
 description: Säljaktivitetsordlista - Marketo Docs - produktdokumentation
 title: Ordlista för försäljningsaktivitet
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 3e0836fd9f40436564c7b2d8bb58a7f771e49c33
+feature: Marketo Sales Connect
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '533'
 ht-degree: 1%

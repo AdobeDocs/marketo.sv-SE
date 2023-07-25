@@ -3,7 +3,8 @@ unique-page-id: 1146948
 description: Skicka e-post - Marketo Docs - produktdokumentation
 title: Skicka e-post
 exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%

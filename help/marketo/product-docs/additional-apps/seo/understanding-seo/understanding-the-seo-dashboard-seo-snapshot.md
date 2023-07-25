@@ -3,7 +3,8 @@ unique-page-id: 2949178
 description: Förstå SEO Dashboard -SEO Snapshot - Marketo Docs - produktdokumentation
 title: Förstå SEO-instrumentpanelen - SEO-ögonblicksbild
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
-source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%

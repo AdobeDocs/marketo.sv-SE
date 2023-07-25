@@ -2,7 +2,8 @@
 description: Automatisk inloggning från Salesforce - Marketo Docs - produktdokumentation
 title: Automatisk inloggning från Salesforce
 exl-id: 3b788af5-6204-40f8-af79-74729de45744
-source-git-commit: 451b5cd8e11045de56ebf57c2b2312813d5d5668
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%

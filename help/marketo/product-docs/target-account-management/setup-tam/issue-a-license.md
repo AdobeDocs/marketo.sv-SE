@@ -3,7 +3,8 @@ unique-page-id: 11380771
 description: Utfärda licens - Marketo Docs - produktdokumentation
 title: Utfärda en licens
 exl-id: 5cf3b23a-ab86-4707-8538-97583e4f267b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%

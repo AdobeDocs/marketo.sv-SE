@@ -3,7 +3,8 @@ unique-page-id: 15368205
 description: Så här ansluter du en säljare till din Salesforce-sandlåda - Marketo Docs - produktdokumentation
 title: Ansluta säljanslutning till din Salesforce-sandlåda
 exl-id: d6421da9-de89-40ac-8af9-512b5303ace5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%

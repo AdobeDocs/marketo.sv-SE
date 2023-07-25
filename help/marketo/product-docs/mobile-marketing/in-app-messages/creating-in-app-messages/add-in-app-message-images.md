@@ -3,7 +3,8 @@ unique-page-id: 10100636
 description: Lägg till meddelandebilder i appen - Marketo Docs - produktdokumentation
 title: Lägg till meddelandebilder i appen
 exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
@@ -92,4 +93,3 @@ Bra jobbat! Nu är det dags att [skapa texten för ditt meddelande i appen](/hel
 >
 >* [Förstå meddelanden i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [Välj en layout för ditt meddelande i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
-

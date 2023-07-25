@@ -3,7 +3,8 @@ unique-page-id: 5472678
 description: Importera en icke-latinsk teckenlista - Marketo Docs - produktdokumentation
 title: Importera en icke-latinsk teckenlista
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%

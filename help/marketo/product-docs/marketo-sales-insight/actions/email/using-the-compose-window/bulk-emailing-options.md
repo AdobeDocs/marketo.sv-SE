@@ -2,7 +2,8 @@
 description: Alternativ för massutskick - Marketo Docs - produktdokumentation
 title: Alternativ för massutskick
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 0%
@@ -64,4 +65,3 @@ Som standard redigeras alla mottagare. Men du kan också välja varje enskild e-
 >
 >* [Disponera massutskick med Markera och skicka](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
 >* [Skicka e-post via gruppe-post](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
-

@@ -3,7 +3,8 @@ unique-page-id: 2950551
 description: Konfigurera när social knapp öppnas - Marketo Docs - produktdokumentation
 title: Konfigurera när knappen för sociala medier öppnas
 exl-id: 3acb6656-35ab-486e-ba91-d52c434a1b90
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%

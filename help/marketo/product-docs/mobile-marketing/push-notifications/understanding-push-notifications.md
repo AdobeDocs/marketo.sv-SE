@@ -3,7 +3,8 @@ unique-page-id: 7511518
 description: Förstå push-meddelanden - Marketo Docs - produktdokumentation
 title: Förstå push-meddelanden
 exl-id: a3e99eeb-3671-40c4-82ac-773c2cc05914
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
@@ -40,4 +41,3 @@ Marketo Admin och utvecklaren av mobilappar samarbetar för att konfigurera dig.
 >
 >* Ett push-meddelande visas inte på skärmen förrän appen har öppnats minst en gång.
 >* För iOS-program visas inte ett push-meddelande på skärmen om det program som är avsett att ta emot push-meddelandet är öppet och aktivt. I stället visas meddelandet i programmets lokala meddelandeområde.
-

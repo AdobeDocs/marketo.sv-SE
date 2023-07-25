@@ -3,9 +3,10 @@ unique-page-id: 10096712
 description: Skapa ett webbinarium i ON24 - Marketo Docs - produktdokumentation
 title: Skapa ett webbinarium i ON24
 exl-id: a5211f11-c099-44a0-95eb-b43f10fa5c91
-source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -26,8 +27,8 @@ Det finns vissa inställningar när du skapar ett ON24-webbinarium som används 
 * Starthändelse - Startdatum och starttid. Detta kommer att kunna visas i Marketo.
 * Live-sluttid - Slutdatum och sluttid. Detta kommer att kunna visas i Marketo.
 
-Nästa steg är att [skapa en händelse i Marketo](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md){target=&quot;_blank&quot;}.
+Nästa steg är att [skapa en händelse i Marketo](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Om Marketo ON24-nätverkskortshändelser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
+>[Om Marketo ON24-nätverkskortshändelser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

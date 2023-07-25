@@ -3,7 +3,8 @@ unique-page-id: 7516460
 description: Förbered Sales Insight for Multi-Lingual Support in Salesforce - Marketo Docs - Product Documentation
 title: Förbered Sales Insight för flerspråkig support i Salesforce
 exl-id: b808fa91-accd-4e0c-8223-0717faccab10
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%

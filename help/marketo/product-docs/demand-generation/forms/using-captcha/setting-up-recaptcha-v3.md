@@ -2,16 +2,17 @@
 description: Konfigurera reCAPTCHA v3 - Marketo Docs - Produktdokumentation
 title: Konfigurera reCAPTCHA v3
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: b848b836274d92d503e1a06cd4f7377ca57bc93e
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---
 
 # Konfigurera reCAPTCHA v3 {#setting-up-recaptcha-v3}
 
-ReCAPTCHA v3 är en friktionslös upplevelse som gör att man kan få fram inskickade formulär baserat på hur misstänkt de är utan att behöva använda text, bilder eller knappar. [Läs mer](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target=&quot;_blank&quot;}.
+ReCAPTCHA v3 är en friktionslös upplevelse som gör att man kan få fram inskickade formulär baserat på hur misstänkt de är utan att behöva använda text, bilder eller knappar. [Läs mer](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target="_blank"}.
 
 ## Hämta ditt datacenter- och Munchkin-ID {#retrieve-your-data-center-and-munchkin-id}
 
@@ -33,7 +34,7 @@ För steg 6 i det inledande konfigurationsavsnittet för reCAPTCHA v3 nedan beh�
 
 Följande steg utförs utanför Marketo.
 
-1. Gå till [https://www.google.com/recaptcha/about/](https://www.google.com/recaptcha/about/){target=&quot;_blank&quot;} och klicka på v3 Admin Console.
+1. Gå till [https://www.google.com/recaptcha/about/](https://www.google.com/recaptcha/about/){target="_blank"} och klicka på v3 Admin Console.
 
 1. Logga in/registrera dig med ett Google-konto.
 
@@ -67,7 +68,7 @@ Följande steg utförs utanför Marketo.
 
 >[!IMPORTANT]
 >
->När du har utfört dessa steg och [aktivera CAPTCHA i ditt första Marketo-formulär](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target=&quot;_blank&quot;} måste du testa formuläret omedelbart, eftersom alla typer av felkonfigurationer i reCAPTCHA-inställningarna kan göra att formuläret bryts.
+>När du har utfört dessa steg och [aktivera CAPTCHA i ditt första Marketo-formulär](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}ska du testa formuläret omedelbart, eftersom alla typer av felkonfigurationer i reCAPTCHA-inställningarna kan skada formuläret.
 
 1. I Marketo klickar du på **Administratör**.
 

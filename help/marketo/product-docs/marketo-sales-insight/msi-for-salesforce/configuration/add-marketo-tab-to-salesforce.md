@@ -2,7 +2,8 @@
 description: Lägg till Marketo-fliken i Salesforce - Marketo Docs - produktdokumentation
 title: Lägg till Marketo-flik i Salesforce
 exl-id: dbe01de0-a01a-4a6e-ae89-5dc5cfa8d0b1
-source-git-commit: a268bd275f1aeb2aff7c3f7f90a8fd557a1c408d
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%

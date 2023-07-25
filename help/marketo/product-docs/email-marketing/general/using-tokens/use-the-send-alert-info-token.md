@@ -3,7 +3,8 @@ unique-page-id: 2952678
 description: Använda Skicka aviseringsinformationstoken {{SP_Send_Alert_Info}} - Marketo Docs - produktdokumentation
 title: Använda Skicka aviseringsinformationstoken
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Tokens
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%

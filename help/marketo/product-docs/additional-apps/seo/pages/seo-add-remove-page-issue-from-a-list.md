@@ -3,7 +3,8 @@ unique-page-id: 2949266
 description: SEO - Lägg till/ta bort sidproblem från en lista - Marketo Docs - produktdokumentation
 title: SEO - Lägg till/ta bort sidproblem från en lista
 exl-id: 41d16263-a083-40a5-9003-72a35df12c45
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 1%

@@ -3,7 +3,8 @@ unique-page-id: 2949162
 description: Aktivera/inaktivera rapportprenumerationer - Marketo Docs - produktdokumentation
 title: Aktivera/inaktivera rapportprenumerationer
 exl-id: fbaebdd1-245b-4faf-b47f-fb17ea4d5417
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%

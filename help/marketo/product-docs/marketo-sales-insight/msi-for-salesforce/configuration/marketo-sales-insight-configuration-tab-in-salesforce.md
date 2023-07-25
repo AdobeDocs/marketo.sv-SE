@@ -3,9 +3,10 @@ unique-page-id: 42762322
 description: Marketo Sales Insight Configuration Tab in Salesforce - Marketo Docs - Product Documentation
 title: Marketo Sales Insight Configuration tab in Salesforce
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
-source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '599'
 ht-degree: 0%
 
 ---
@@ -74,4 +75,4 @@ Om du väljer att göra det raderas alla konfigurationer i SFDC och de kan inte 
 
 >[!MORELIKETHIS]
 >
->[Lägg till åtkomst till profiler för Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;}
+>[Lägg till åtkomst till profiler för Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

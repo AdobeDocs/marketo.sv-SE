@@ -3,9 +3,10 @@ unique-page-id: 1147066
 description: Åsidosätt personbegränsningar i en smart kampanj - Marketo Docs - produktdokumentation
 title: Åsidosätt personbegränsningar i en smart kampanj
 exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
-source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---

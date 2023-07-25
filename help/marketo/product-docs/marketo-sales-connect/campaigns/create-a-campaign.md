@@ -3,7 +3,8 @@ unique-page-id: 14352618
 description: Skapa en kampanj - Marketo Docs - produktdokumentation
 title: Skapa en kampanj
 exl-id: 17952187-4d7e-469e-9ac8-c2611dfeac1f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%

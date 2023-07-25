@@ -3,7 +3,8 @@ unique-page-id: 12980993
 description: Versionsinformation -Sommaren 17 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - Sommaren 17
 exl-id: 81b18ecb-5870-4d16-8b7c-24ce362be62f
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%

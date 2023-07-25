@@ -3,7 +3,8 @@ unique-page-id: 9437556
 description: Mall 11A - Marketo Docs - produktdokumentation
 title: Mall 11A
 exl-id: 5c8956d3-35e5-448a-bb5d-c18c9a82664e
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%

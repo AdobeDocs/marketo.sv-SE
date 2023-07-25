@@ -2,7 +2,8 @@
 description: Bjud in användare och administratörer - Marketo Docs - produktdokumentation
 title: Bjud in användare och administratörer
 exl-id: 00a6ea00-f8ba-4079-86dc-def44599b3ea
-source-git-commit: 626ba3eb247be90a12240e366e53f3dba5364f37
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%

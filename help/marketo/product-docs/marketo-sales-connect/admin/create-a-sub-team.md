@@ -3,7 +3,8 @@ unique-page-id: 14352406
 description: Skapa en undergrupp - Marketo Docs - Produktdokumentation
 title: Skapa ett underteam
 exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 14352525
 description: E-post markerad som skräppost - Marketo Docs - produktdokumentation
 title: E-post markerad som skräppost
 exl-id: 2cd1ec96-441d-4de7-8709-543d04e20a91
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%

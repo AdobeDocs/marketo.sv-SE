@@ -3,7 +3,8 @@ unique-page-id: 4720125
 description: Integrera RTP med Google Universal Analytics - Marketo Docs - produktdokumentation
 title: Integrera RTP med Google Universal Analytics
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '456'
 ht-degree: 0%
@@ -33,7 +34,6 @@ Google Universal Analytics med RTP:s data ger er en bättre förståelse för hu
 >* Integrering med Google Universal Analytics är aktiverat i RTP:s kontoinställningar
 >* [Taggen Google Universal Analytics är korrekt konfigurerad i Google Tag Manager](https://support.google.com/tagmanager/answer/6107124?hl=en)
 >* [Taggen Google Tag Manager är korrekt installerad på webbplatsen](https://developers.google.com/tag-manager/quickstart)
-
 
 ## Konfigurera anpassade Dimensioner i GUA {#set-up-custom-dimensions-in-gua}
 

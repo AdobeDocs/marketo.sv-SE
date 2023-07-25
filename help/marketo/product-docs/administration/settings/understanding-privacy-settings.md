@@ -3,7 +3,8 @@ unique-page-id: 10617187
 description: Sekretessinställningar - Marketo Docs - produktdokumentation
 title: Sekretessinställningar
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
-source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+feature: Administration
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '514'
 ht-degree: 0%

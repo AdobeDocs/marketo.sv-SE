@@ -2,7 +2,8 @@
 description: Vilka villkor gäller för Sales Insight Actions? - Marketo Docs - produktdokumentation
 title: Vilka villkor gäller för Sales Insight Actions?
 exl-id: 5a5409a0-2a26-4d5b-b1c9-89841255059d
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%

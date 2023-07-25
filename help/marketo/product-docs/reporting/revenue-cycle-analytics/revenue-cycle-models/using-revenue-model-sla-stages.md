@@ -3,7 +3,8 @@ unique-page-id: 4718668
 description: Using Revenue Model SLA Stages - Marketo Docs - Product Documentation
 title: Använda SLA-faser för intäktsmodell
 exl-id: 48ca4be9-0e77-4065-8769-ce046d0c50ea
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%

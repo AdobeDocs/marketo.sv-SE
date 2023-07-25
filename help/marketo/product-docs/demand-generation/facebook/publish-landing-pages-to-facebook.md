@@ -3,7 +3,8 @@ unique-page-id: 2359823
 description: Publicera landningssidor på Facebook - Marketo Docs - produktdokumentation
 title: Publicera landningssidor på Facebook
 exl-id: 42ba4136-3538-4eef-b794-3fce7e9fb8e5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 0%

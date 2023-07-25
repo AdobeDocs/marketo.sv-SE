@@ -3,7 +3,8 @@ unique-page-id: 1147112
 description: Taggar - Marketo Docs - produktdokumentation
 title: Taggar
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -30,7 +31,6 @@ Märkordstyper identifierar den typ av information som du vill sortera efter.
 >
 >* Tagg Type = Program Owner
 
-
 ![](assets/image2014-9-17-15-3a12-3a46.png)
 
 ## Taggvärde {#tag-value}
@@ -42,7 +42,6 @@ Varje taggtyp har värden att välja mellan.
 >**Exempel**
 >
 >* Taggvärden = Anna, Arun, Reza
-
 
 ![](assets/image2014-9-17-15-3a16-3a8.png)
 
@@ -58,11 +57,9 @@ Kanaler används för att rapportera hur [medlemmar](/help/marketo/product-docs/
 >* Progressionsstatus = Inbjuden, Registrerad, Bifogad, Ingen visning
 >* Lyckades = Bifogad
 
-
 ![](assets/image2015-2-5-16-3a57-3a59.png)
 
 >[!MORELIKETHIS]
 >
 >* [Skapa egna taggar](/help/marketo/product-docs/administration/tags/create-custom-tags.md)
 >* [Skapa en programkanal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)
-

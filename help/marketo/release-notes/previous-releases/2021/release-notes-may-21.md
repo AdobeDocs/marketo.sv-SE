@@ -2,7 +2,8 @@
 description: Versionsinformation - maj 2021 - Marketo Docs - produktdokumentation
 title: Versionsinformation - maj 2021
 exl-id: e3de60a2-17bd-4760-848e-6e931ad85b3c
-source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1446'
 ht-degree: 0%

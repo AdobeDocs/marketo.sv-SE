@@ -3,7 +3,8 @@ unique-page-id: 18317669
 description: Salesforce Sync Settings - Marketo Docs - produktdokumentation
 title: Synkroniseringsinställningar för Salesforce
 exl-id: 024c60ac-569f-4051-9eee-1e8d00f7296c
-source-git-commit: 56db82ef98d774f8ac56c1401ef7ef275862d1dc
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '438'
 ht-degree: 0%

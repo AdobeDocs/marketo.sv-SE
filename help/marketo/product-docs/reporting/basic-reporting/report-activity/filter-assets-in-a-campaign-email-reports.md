@@ -3,7 +3,8 @@ unique-page-id: 2360227
 description: Filtrera resurser i en e-postrapport för en kampanj - Marketo Docs - produktdokumentation
 title: Filtrera resurser i en e-postrapport för kampanj
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%

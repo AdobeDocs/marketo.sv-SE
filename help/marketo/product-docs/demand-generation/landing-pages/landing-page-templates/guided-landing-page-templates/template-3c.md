@@ -3,7 +3,8 @@ unique-page-id: 8160086
 description: Mall 3C - Marketo Docs - produktdokumentation
 title: Mall 3C
 exl-id: 0bf7cb43-607e-4c9b-a860-511837925a1e
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%

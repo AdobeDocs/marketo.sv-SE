@@ -2,7 +2,8 @@
 description: Lägg till eller ta bort personer från Dynamics-kampanjen - Marketo Docs - produktdokumentation
 title: Lägg till eller ta bort personer från Dynamics-kampanjen
 exl-id: 4fea2f7c-0655-4816-8640-76878f760b6e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns, Microsoft Dynamics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 0%
@@ -30,7 +31,6 @@ I den smarta kampanjen söker du efter och väljer den Dynamics-kampanj som du v
 >* Kontrollera att kampanjsynkroniseringen fungerar
 >* Kampanjen är inte aktiv i Microsoft Dynamics
 
-
 Systemet skapar automatiskt en kampanjspecifik statisk marknadsföringslista, var och en för leads och kontakter, som personen ska läggas till i. Det är en engångsåtgärd och en gång för efterföljande synkroniseringar till kampanjen används samma marknadsföringslista. Den namngivningsstandard som används för det statiska namnet på marknadsföringslistan är `Mkto-leads-<uniqueID>` för leads och `Mkto-contacts-<uniqueID>` för kontakter.
 
 Om dessa Marketo-genererade marknadsföringslistor kopplas till andra kampanjer kan det leda till förvirrande beteende. Till exempel: om ni lägger till ytterligare en kampanj skulle det också leda till att den andra kampanjen läggs till. Vi rekommenderar inte heller att den Marketo-genererade marknadsföringslistan kopplas bort från Campaign i Dynamics.
@@ -53,4 +53,3 @@ I den smarta kampanjen söker du efter och väljer den Dynamics-kampanj som du v
 >
 >* Kontrollera att kampanjsynkroniseringen fungerar
 >* Kampanjen är inte aktiv i Microsoft Dynamics
-

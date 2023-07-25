@@ -3,7 +3,8 @@ unique-page-id: 2360418
 description: Scenrapport för personer efter intäkt - Marketo Docs - produktdokumentation
 title: Scenrapport för personer efter intäkt
 exl-id: 1f3d605d-fa0d-4ec8-b7d6-bfd8dac93609
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%

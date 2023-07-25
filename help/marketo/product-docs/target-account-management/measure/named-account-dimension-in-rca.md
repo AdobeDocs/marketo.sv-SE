@@ -3,7 +3,8 @@ unique-page-id: 11380789
 description: Dimension för namngivet konto i RCA - Marketo Docs - produktdokumentation
 title: Dimension för namngivet konto i RCA
 exl-id: 0c5d9fb9-94e3-4ad0-b024-26542c2d2fd3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%

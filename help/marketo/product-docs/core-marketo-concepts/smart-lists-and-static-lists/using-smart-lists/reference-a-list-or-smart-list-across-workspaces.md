@@ -3,7 +3,8 @@ unique-page-id: 4720377
 description: Referera till en lista eller en smart lista över arbetsytor - Marketo Docs - produktdokumentation
 title: Referera till en lista eller en smart lista över arbetsytor
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%

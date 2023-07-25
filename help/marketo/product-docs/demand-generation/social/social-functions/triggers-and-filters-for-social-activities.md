@@ -3,7 +3,8 @@ unique-page-id: 2359837
 description: Utlösare och filter för sociala aktiviteter - Marketo Docs - Produktdokumentation
 title: Utlösare och filter för sociala aktiviteter
 exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
-source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -30,7 +31,7 @@ Sociala appar i Marketo har sina egna speciella triggers och filter.
 
    | Utlösare/filter | Sociala knappar | Omröstningar | Videor | Referenserbjudanden | Dragningar |
    |---|---|---|---|---|---|
-   | Uppnått mål i referens |  |  |  | ![(tick)](assets/check.png) |  |
+   | Uppnått mål i referens |  |  |  | ![(tick)](assets/check.png) | |
    | Dela innehåll | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) |
    | Klicka på Delad länk | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) |
    | Disvalificerar Lotteriet |  |  |  |  | ![(tick)](assets/check.png) |

@@ -3,7 +3,8 @@ unique-page-id: 4719404
 description: AB Test Your Web Campaign - Marketo Docs - Product Documentation
 title: AB Testa webbkampanjen
 exl-id: 65d61b96-d39b-4388-971d-260c9c0aff93
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -73,10 +74,8 @@ Om ni vill testa era personaliserade kampanjer A/B kan ni välja två eller fler
 >1. Testa olika delar av materialet (fallstudie A vs. fallstudie B), ändra budskap och kreatörer, färger, storlekar eller anrop till olika aktiviteter.
 >1. Optimera och njut av ert personaliserade innehåll!
 
-
 >[!MORELIKETHIS]
 >
 >* [Skapa en dialogkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 >* [Skapa en RTP i zonkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
 >* [Skapa en RTP-widgetkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
-

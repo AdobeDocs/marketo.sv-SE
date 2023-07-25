@@ -1,24 +1,24 @@
 ---
-description: Dynamic Chat-integrering - Marketo Docs - produktdokumentation
+description: Integrering med Dynamic Chat - Marketo Docs - produktdokumentation
 title: Dynamisk chattintegrering
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
-source-git-commit: 9d5c941dc4869b03787a6135550a133ce12b365b
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '388'
 ht-degree: 0%
 
 ---
 
-# Dynamisk chattintegrering {#dynamic-chat-integration}
+# Integrering med Dynamic Chat {#dynamic-chat-integration}
 
-Läs mer om Dynamic Chat-integrationen med Sales Insight.
+Läs mer om integrationen mellan Dynamic Chat och Sales Insight.
 
 >[!PREREQUISITES]
 >
->* Ditt SFDC-paket för Sales Insight måste vara av version [1,9 eller senare](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target=&quot;_blank&quot;}
+>* Ditt SFDC-paket för Sales Insight måste vara av version [1,9 eller senare](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
 >
->* Du måste ha [Dynamisk chattintegrering](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target=&quot;_blank&quot;} har konfigurerats
-
+>* Du måste ha [Integrering med Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} konfigurera
 
 ## Marketo Sales Insight Configuration tab {#marketo-sales-insight-configuration-tab}
 
@@ -30,13 +30,13 @@ Följ stegen nedan för att aktivera integreringen av Dynamic Chat.
 
    ![](assets/dynamic-chat-integration-1.png)
 
-1. Välj **Aktivera dynamiska chattdata** kryssrutan.
+1. Välj **Aktivera Dynamic Chat-data** kryssrutan.
 
    ![](assets/dynamic-chat-integration-2.png)
 
 ## Funktionsöversikt {#feature-overview}
 
-Följande Dynamic Chat-aktiviteter kan utnyttjas av Sales Insight-användare...
+Följande Dynamic Chat-aktiviteter kan utnyttjas av Sales Insight-användare..
 
 Engaged Dialog: Inloggad i Marketo och ifylld i Sales Insight när en besökare klickar på en chattbot och engagerar sig i dialogrutan.
 
@@ -94,7 +94,7 @@ Fliken Chatt finns även på fliken Global Marketo. Det innehåller tre aktivite
 
 >[!NOTE]
 >
->Om kryssrutan Aktivera dynamiska chattdata är inaktiverad kommer följande funktioner att inaktiveras:
+>Om kryssrutan&quot;Aktivera Dynamic Chat data&quot; är inaktiverad kommer följande funktioner att inaktiveras:
 >
 >* Rad med chattaktiviteter på Instrumentpanelen för insikter (smart rutnät och listvy varje vecka)
 >* Fliken Chatt i panelerna Lead, Kontakt, Konto och Möjligheter

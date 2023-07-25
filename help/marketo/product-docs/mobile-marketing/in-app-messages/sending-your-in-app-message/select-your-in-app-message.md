@@ -3,7 +3,8 @@ unique-page-id: 10617434
 description: Välj ditt meddelande i appen - Marketo Docs - produktdokumentation
 title: Välj ditt meddelande i appen
 exl-id: 3d705364-ea20-4ffd-8eda-10ec5f87c63d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%

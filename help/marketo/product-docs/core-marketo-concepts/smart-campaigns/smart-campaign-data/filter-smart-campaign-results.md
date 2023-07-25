@@ -3,7 +3,8 @@ unique-page-id: 1147068
 description: Filtrera resultat från smarta kampanjer - Marketo Docs - produktdokumentation
 title: Filtrera resultat för smarta kampanjer
 exl-id: 76c1b143-313b-4ef2-860f-f8b127fdfc6b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%

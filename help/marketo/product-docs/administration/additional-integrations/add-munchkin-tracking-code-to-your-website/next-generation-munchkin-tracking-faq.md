@@ -3,7 +3,8 @@ unique-page-id: 10096583
 description: "Nästa generation [!DNL Munchkin] Spåra vanliga frågor - Marketo Docs - produktdokumentation"
 title: "Nästa generation [!DNL Munchkin] Vanliga frågor om spårning"
 exl-id: 283189ac-c817-479a-b896-91233980608c
-source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
+feature: Administration, Munchkin Tracking Code
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '716'
 ht-degree: 0%
@@ -55,7 +56,6 @@ Om du redan använder det här filtret i en smart lista (till exempel i en smart
 >* Jag vill att en intressant stund ska registreras för henne (med det datum då hon faktiskt besökte sidan, inte när hon blev känd)
 >
 >* Logga aktiviteten Ny person, som den är idag
-
 
 ## Vad händer med mina smarta listor som redan har filtret&quot;Är anonym&quot;? {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
 

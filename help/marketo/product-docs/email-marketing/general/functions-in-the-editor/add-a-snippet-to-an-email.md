@@ -3,7 +3,8 @@ unique-page-id: 1147358
 description: Lägg till ett kodfragment i ett e-postmeddelande - Marketo Docs - produktdokumentation
 title: Lägga till ett kodfragment i ett e-postmeddelande
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
-source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%

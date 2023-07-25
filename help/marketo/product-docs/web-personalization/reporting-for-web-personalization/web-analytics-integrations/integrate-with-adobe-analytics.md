@@ -3,7 +3,8 @@ unique-page-id: 2949160
 description: Integrera med Adobe Analytics - Marketo Docs - produktdokumentation
 title: Integrera med Adobe Analytics
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1130'
 ht-degree: 0%
@@ -79,7 +80,6 @@ Gör så här för att konfigurera dessa variabler i AA:
 
       1. Ändra fältet Förfaller efter till **Besök**.
 
-
 1. Under **Redigera inställningar** gå till **Konvertering** och markera **[Success Events](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
 
    1. Välj ett anpassat händelsenummer för lyckade händelser (vi rekommenderar):
@@ -92,9 +92,8 @@ Gör så här för att konfigurera dessa variabler i AA:
       >Välj ett annat tillgängligt nummer om du väljer #. Justera det här numret mot platsnumret i RTP-kontoinställningarna.
 
       1. Ändra namnen på de två händelserna till **RTP-kampanjer** och **RTP-segment**. Det här namnet visas i rapportsviten.
+
    1. Markera textfältet som ska **Räknare (inga underrelationer)**
-
-
 
 1. Under **Redigera inställningar** gå till **[Trafik](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)** och markera **[Trafikvariabler](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
 
@@ -110,11 +109,10 @@ Gör så här för att konfigurera dessa variabler i AA:
       >Välj ett annat tillgängligt nummer om du väljer #. Justera det här numret mot platsnumret i RTP-kontoinställningarna)
 
       1. Ändra egenskapsnamnen för 4. Det här namnet visas i rapportsviten.
+
    1. Välj aktiverat fält att **Aktiverad**.
 
    1. Markera fältet Sökvägsrapporter till **Aktiverad**.
-
-
 
 ## Konfigurera i Marketo Real-Time Personalization (RTP) {#set-up-in-marketo-real-time-personalization-rtp}
 

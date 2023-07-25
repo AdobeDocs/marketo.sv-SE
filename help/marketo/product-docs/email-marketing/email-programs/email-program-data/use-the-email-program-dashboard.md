@@ -3,7 +3,8 @@ unique-page-id: 2359476
 description: Använd kontrollpanelen för e-postprogram - Marketo Docs - produktdokumentation
 title: Använda kontrollpanelen för e-postprogram
 exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%

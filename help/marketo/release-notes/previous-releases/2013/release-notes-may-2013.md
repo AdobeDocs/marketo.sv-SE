@@ -3,7 +3,8 @@ unique-page-id: 2951097
 description: Versionsinformation -maj 2013 - Marketo Docs - produktdokumentation
 title: Versionsinformation -maj 2013
 exl-id: 7f1a22bc-56d8-4ebf-be15-fa1b46e37928
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%

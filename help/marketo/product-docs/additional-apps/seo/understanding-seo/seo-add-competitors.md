@@ -3,7 +3,8 @@ unique-page-id: 2949192
 description: SEO - Lägg till konkurrenter - Marketo Docs - Produktdokumentation
 title: SEO - Lägg till konkurrenter
 exl-id: 62ef754d-840e-4094-9b98-d2a472523f03
-source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 1%
@@ -42,4 +43,3 @@ Genom att lägga till konkurrenter kan du spåra hur de fungerar för samma nyck
    >
    >* [Lägg till nyckelord](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md){target="_blank"}
    >* [Förstå nyckelord (konkurrentvy)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target="_blank"}
-

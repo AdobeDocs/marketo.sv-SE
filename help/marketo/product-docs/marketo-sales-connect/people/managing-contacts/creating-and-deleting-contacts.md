@@ -3,7 +3,8 @@ unique-page-id: 14352516
 description: Skapa och ta bort kontakter - Marketo Docs - produktdokumentation
 title: Skapa och ta bort kontakter
 exl-id: 04e2887b-8515-4d48-8a94-ccff00805210
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%

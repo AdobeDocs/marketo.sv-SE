@@ -3,7 +3,8 @@ unique-page-id: 2949196
 description: SEO - Ange dina e-postaviseringsinställningar - Marketo Docs - produktdokumentation
 title: SEO - Ange e-postaviseringsinställningar
 exl-id: 7675a589-dc40-433b-bf0c-1e78e4d653b5
-source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 1%

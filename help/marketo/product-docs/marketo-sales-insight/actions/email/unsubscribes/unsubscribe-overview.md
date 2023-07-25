@@ -2,7 +2,8 @@
 description: Avbeställ prenumerationen - Marketo Docs - produktdokumentation
 title: Avbeställ prenumeration - översikt
 exl-id: 7598efa9-9686-4dd0-840b-f8b6de4ab2be
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 0%

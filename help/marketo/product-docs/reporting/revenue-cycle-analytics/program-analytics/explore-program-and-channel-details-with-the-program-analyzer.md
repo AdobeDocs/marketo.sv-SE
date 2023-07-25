@@ -3,7 +3,8 @@ unique-page-id: 2360437
 description: Utforska program- och kanalinformation med Program Analyzer - Marketo Docs - Produktdokumentation
 title: Utforska program- och kanalinformation med Program Analyzer
 exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%

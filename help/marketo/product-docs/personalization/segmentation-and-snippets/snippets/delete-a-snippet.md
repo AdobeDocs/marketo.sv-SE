@@ -3,7 +3,8 @@ unique-page-id: 2359518
 description: Ta bort ett kodfragment - Marketo Docs - produktdokumentation
 title: Ta bort ett fragment
 exl-id: 6984fd94-dd91-4832-83ce-3a6c3b35b034
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Snippets
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 1%

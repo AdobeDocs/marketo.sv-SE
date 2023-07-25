@@ -1,10 +1,12 @@
 ---
 description: Versionsinformation - januari 2023 - Marketo Docs - produktdokumentation
 title: Versionsinformation - januari 2023
-source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
+exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '637'
+ht-degree: 1%
 
 ---
 
@@ -29,7 +31,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    * Fragmentlistvy
    * Malllista för landningssida
 
-   <table> 
+  <table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Dokumentationsuppdateringar</b></td>
@@ -117,7 +119,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
 
 </br>
 
-* **Definiera plocklistan i informationskortet för dynamiskt chatt**: För att säkerställa att data är rena kan du definiera plocklistor för informationskort så att besökarna bara kan välja från en fördefinierad lista med alternativ.
+* **Definiera plocklistan i informationskortet för Dynamic Chat**: För att säkerställa att data är rena kan du definiera plocklistor för informationskort så att besökarna bara kan välja från en fördefinierad lista med alternativ.
 
 <table> 
   <tr> 
@@ -131,7 +133,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
   </tbody>
 </table>
 
-* **Personalisering i mötesbekräftelse för dynamiskt chatt**: Agenter kan personalisera e-postbekräftelser för mötesbokningar med hjälp av Marketo Engage person- och företagsfält för att engagera besökarna bättre (t.ex.: hälsa besökarna välkomna med sitt förnamn i det automatiska e-postmeddelandet om mötesbokningar).
+* **Personalisering i mötesbekräftelse för Dynamic Chat**: Agenter kan personalisera e-postbekräftelser för mötesbokningar med hjälp av Marketo Engage person- och företagsfält för att engagera besökarna bättre (t.ex.: hälsa besökarna välkomna med sitt förnamn i det automatiska e-postmeddelandet om mötesbokningar).
 
 <table> 
   <tr> 
@@ -159,7 +161,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
   </tbody>
 </table>
 
-* **Chatbot-datum-/tidväljare för dynamiskt chatt**: Webbbesökare kan använda kalenderväljaren för att välja datum och tid i stället för att ange datumet manuellt.
+* **Chatbot-datum-/tidväljare för Dynamic Chat**: Webbbesökare kan använda kalenderväljaren för att välja datum och tid i stället för att ange datumet manuellt.
 
 <table> 
   <tr> 
@@ -173,7 +175,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
   </tbody>
 </table>
 
-* **Schemalagda e-postmeddelanden för möte för dynamisk chatt**: När ett möte bokas i en agentkalender får agenten ett e-postmeddelande om bokningen, inklusive detaljerad information om besökarens Dynamic Chat-engagemang.
+* **Schemalagda e-postmeddelanden om möten för Dynamic Chat**: När ett möte bokas i en agentkalender får agenten ett e-postmeddelande om bokningen, inklusive detaljerad information om besökarens Dynamic Chat-engagemang.
 
 <table> 
   <tr> 

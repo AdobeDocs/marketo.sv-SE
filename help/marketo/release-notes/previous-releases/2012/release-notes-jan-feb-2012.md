@@ -3,7 +3,8 @@ unique-page-id: 2951124
 description: Versionsinformation -jan/feb 2012 - Marketo Docs - produktdokumentation
 title: Versionsinformation - jan/feb 2012
 exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 0%

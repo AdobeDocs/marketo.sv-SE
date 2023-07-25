@@ -3,7 +3,8 @@ unique-page-id: 37356893
 description: MSI Feature Overview - Marketo Docs - produktdokumentation
 title: Översikt över MSI-funktioner
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
-source-git-commit: 5f2967fb56daa8c3f86f6d9577626928f1e5bbd6
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '937'
 ht-degree: 0%
@@ -198,4 +199,3 @@ Marketo Sales Insight lagras på språk. Om du vill att det ska fungera för mer
 >* En kontakt/lead måste finnas i standardpartitionen för att kunna läggas till i bevakningslistan.
 >
 >* MSI Salesforce-paketet stöder inte anpassad vy med beroende fält.
-

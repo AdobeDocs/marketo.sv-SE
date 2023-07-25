@@ -3,7 +3,8 @@ unique-page-id: 2360403
 description: Jämför programeffektiviteten med programanalysen - Marketo Docs - produktdokumentation
 title: Jämför programeffektiviteten med programanalysen
 exl-id: 6e54d0a4-3cff-46cf-be0d-1992a39d8c03
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '467'
 ht-degree: 0%
@@ -92,4 +93,3 @@ Vi ser att Paper Fest 12-programmet inte bara påverkar mer intäkter (större b
 >
 >* [Utforska program- och kanalinformation med Program Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [Jämför kanaleffektiviteten med programanalysen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
-

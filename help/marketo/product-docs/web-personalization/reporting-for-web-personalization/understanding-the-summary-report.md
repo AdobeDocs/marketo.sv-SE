@@ -3,7 +3,8 @@ unique-page-id: 9438258
 description: Understanding the Summary Report - Marketo Docs - Product Documentation
 title: Förstå sammanfattningsrapporten
 exl-id: 972fb518-bb0d-4c7e-b190-0fe12b2367a7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 0%

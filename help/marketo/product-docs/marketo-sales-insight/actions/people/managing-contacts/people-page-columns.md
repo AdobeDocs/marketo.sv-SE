@@ -4,7 +4,8 @@ title: Sidkolumner för personer
 hide: true
 hidefromtoc: true
 exl-id: 29870197-81e1-4f88-a129-b1ff6da34924
-source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 4%

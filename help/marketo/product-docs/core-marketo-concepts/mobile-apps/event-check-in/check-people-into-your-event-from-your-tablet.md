@@ -3,7 +3,8 @@ unique-page-id: 2949839
 description: Checka in personer i ditt event från din surfplatta - Marketo Docs - produktdokumentation
 title: Checka in personer i din aktivitet från surfplattan
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
@@ -20,7 +21,6 @@ Programmet fungerar på samma sätt på både iPad och Android, förutom små sk
 >
 >* Skapa ett event i Marketo och fyll i det med Inbjuden och Registrerad person.
 >* Ladda ned appen för surfplattan för [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) eller [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
-
 
 ## Checka in registrerade gäster {#check-in-registered-guests}
 

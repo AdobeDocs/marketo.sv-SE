@@ -3,7 +3,8 @@ unique-page-id: 14352631
 description: Kategorier för sammanslagning och borttagning av dubbletter - Marketo-dokument - Produktdokumentation
 title: Sammanfoga och ta bort dubbletter av kategorier
 exl-id: c57c54a6-565f-4723-9a93-9b193469bccd
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%

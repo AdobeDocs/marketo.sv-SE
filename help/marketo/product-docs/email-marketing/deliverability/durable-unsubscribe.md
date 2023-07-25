@@ -3,7 +3,8 @@ unique-page-id: 10094576
 description: Hållbart avbrutet abonnemang - Marketo Docs - produktdokumentation
 title: Varaktigt avslut
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Deliverability
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 0%

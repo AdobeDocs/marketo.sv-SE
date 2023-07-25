@@ -3,7 +3,8 @@ unique-page-id: 8783141
 description: Skicka ett push-meddelandeexempel - Marketo Docs - produktdokumentation
 title: Skicka ett push-meddelandeexempel
 exl-id: 1d2d9f6e-32c5-41f5-8744-33373c3b42e0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%
@@ -57,6 +58,5 @@ Du kan skicka ett prov för att verifiera att ditt push-meddelande fungerar som 
    >* Push-meddelanden är aktiverade för det program som är associerat med push-meddelandet.
    >
    >* Push-meddelandet har konfigurerats för testenhetens plattform. Om du till exempel precis har lagt till en iPhone som testenhet kontrollerar du att push-meddelandet är aktiverat för iOS.
-
 
 Enkelt!

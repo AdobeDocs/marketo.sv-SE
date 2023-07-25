@@ -3,7 +3,8 @@ unique-page-id: 2949283
 description: Skicka och spåra från Outlook med en Marketo-mall - Marketo Docs - Produktdokumentation
 title: Skicka och spåra från Outlook med en Marketo-mall
 exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
-source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
+feature: Marketo Sales Insights
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%

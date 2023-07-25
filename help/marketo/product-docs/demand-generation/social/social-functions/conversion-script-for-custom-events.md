@@ -3,7 +3,8 @@ unique-page-id: 2950561
 description: Konverteringsskript för anpassade händelser - Marketo Docs - produktdokumentation
 title: Konverteringsskript för anpassade händelser
 exl-id: 202b7e66-af83-42fd-8067-a5808eba7c32
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -59,4 +60,3 @@ Häftig! Din webbplats har nu anpassat sina mål för social marknadsföring med
 >* [Ange mål för hänvisningserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
 >* [Skapa ett hänvisningserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
 >* [Distribuera sociala medier på din webbplats](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
-

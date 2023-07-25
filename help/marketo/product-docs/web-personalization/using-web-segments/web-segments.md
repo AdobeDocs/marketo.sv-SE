@@ -3,7 +3,8 @@ unique-page-id: 4719093
 description: Webbsegment - Marketo Docs - produktdokumentation
 title: Webbsegment
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '2031'
 ht-degree: 0%
@@ -107,28 +108,23 @@ Definiera allmänna parametrar för ditt segment:
 >1. Använd alla filter (1, 2 och 3...)
 >1. Använd filter (1 eller 2 eller 3..)
 >1. Avancerade filter (med och/eller uttryck)
-
-   >
-   >    Med avancerade filter kan du styra segmentvillkoren. Ange filternumren avgränsade med &quot;och&quot; och &quot;eller&quot;.
-   >
-   >    * 1, 2 och 3
-   >    * 1 eller 2 eller 3
-
-   >
-   >    Blandning av&quot;och&quot; och&quot;eller&quot; kräver parenteser för att förtydliga logiks avsikt. t.ex. &quot;1 eller 2 och 3&quot; skall skrivas som något av följande:
-   >
-   >    * 1 och (2 eller 3)
-   >    * (1 och 2) eller 3
-
-   >
-   >    Kapslade parenteser accepteras för mer komplicerad logik, t.ex.
-   >
-   >    * (1 och 2) eller (3 och 4)
-   >    * 1 och (2 eller (3 och 4))
-
-   >
-   >    Kontrollera logiken efter infogning, borttagning eller sortering.
-
+>
+>    Med avancerade filter kan du styra segmentvillkoren. Ange filternumren avgränsade med &quot;och&quot; och &quot;eller&quot;.
+>
+>    * 1, 2 och 3
+>    * 1 eller 2 eller 3
+>
+>    Blandning av&quot;och&quot; och&quot;eller&quot; kräver parenteser för att förtydliga logiks avsikt. t.ex. &quot;1 eller 2 och 3&quot; skall skrivas som något av följande:
+>
+>    * 1 och (2 eller 3)
+>    * (1 och 2) eller 3
+>
+>    Kapslade parenteser accepteras för mer komplicerad logik, t.ex.
+>
+>    * (1 och 2) eller (3 och 4)
+>    * 1 och (2 eller (3 och 4))
+>
+>    Kontrollera logiken efter infogning, borttagning eller sortering.
 
 Dra och släpp segmentattribut från den högra kolumnen i segmentredigeraren till vänster:
 
@@ -267,8 +263,7 @@ Dra och släpp det mobila operativsystemet i segmentredigeraren
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
 * **Typ av besökare**<br />
-
-   **Mobiloperativsystem** - I listrutan väljer du ett eller flera mobila operativsystem i listan. Det valda mobiloperativsystemet visas nedan.
+  **Mobiloperativsystem** - I listrutan väljer du ett eller flera mobila operativsystem i listan. Det valda mobiloperativsystemet visas nedan.
 
    * Besökaren använder vilken mobil enhet som helst
    * Besökaren använder den specifika enheten/operativsystemet
@@ -329,4 +324,3 @@ Bra! Nu när ni förstår segmentavsnittet ska vi lära oss mer om kampanjer.
 >* [Skapa en ny webbkampanj för dialog](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 >* [Skapa en ny webbkampanj i zonen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
 >* [Skapa en ny webbkampanj för widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
-

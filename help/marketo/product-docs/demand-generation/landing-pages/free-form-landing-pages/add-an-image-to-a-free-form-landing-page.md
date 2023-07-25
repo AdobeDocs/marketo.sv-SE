@@ -3,7 +3,8 @@ unique-page-id: 2359703
 description: Lägg till en bild på en landningssida i fri form - Marketo Docs - produktdokumentation
 title: Lägga till en bild på en landningssida med valfri form
 exl-id: 68b302e8-a2df-4bf3-9835-e92b36acce55
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%

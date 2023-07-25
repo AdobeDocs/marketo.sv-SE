@@ -3,7 +3,8 @@ unique-page-id: 7514821
 description: Versionsinformation - maj 2015 - Marketo Docs - produktdokumentation
 title: Versionsinformation - maj 2015
 exl-id: 29f42b17-58e3-4e45-a871-79d91a47fb9f
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%

@@ -2,7 +2,8 @@
 description: Ta bort Sales Insight Access - Marketo Docs - produktdokumentation
 title: Ta bort åtkomst till Sales Insight
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
-source-git-commit: cccea2e9b7e1d0017e9be071ec85051f71e737bd
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 0%

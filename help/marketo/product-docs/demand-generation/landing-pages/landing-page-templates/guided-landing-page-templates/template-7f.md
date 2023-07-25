@@ -3,7 +3,8 @@ unique-page-id: 8783957
 description: Template 7F - Marketo Docs - Product Documentation
 title: Mall 7F
 exl-id: 3fe4fb0b-7118-4b88-b2ca-f9ad04bf4129
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%

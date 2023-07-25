@@ -3,7 +3,8 @@ unique-page-id: 2359608
 description: Ändra formulärteckensnittsfamiljen - Marketo Docs - produktdokumentation
 title: Ändra teckensnittsfamilj för formulär
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%

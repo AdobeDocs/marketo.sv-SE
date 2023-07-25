@@ -3,7 +3,8 @@ unique-page-id: 7515616
 description: Guided Landing Page Template List - Marketo Docs - Product Documentation
 title: Lista med guidade landningssidmallar
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
-source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
@@ -28,7 +29,7 @@ Så här importerar du en mall till Marketo:
 1. Klicka på **Importera mall.**
 1. Välj den hämtade filen, ange ett mallnamn och klicka sedan på **Importera** (se till att välja ett beskrivande namn och ange att redigeringsläget är **Guidad**).
 
-|  |  |  |
+|   |  |  |
 |---|---|---|
 | [Mall 1A](guided-landing-page-templates/template-1a.md) | [Mall 1B](guided-landing-page-templates/template-1b.md) | [Mall 1C](guided-landing-page-templates/template-1c.md) |
 | ![](assets/1a.jpg) | ![](assets/1b.jpg) | ![](assets/1c.jpg) |

@@ -2,7 +2,8 @@
 description: Använda din nya Sales Connect-instans - Marketo Docs - produktdokumentation
 title: Åtkomst till din nya Sales Connect-instans
 exl-id: 0add0841-8909-4cb2-9db7-08a5e79b0ed8
-source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%

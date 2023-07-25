@@ -3,7 +3,8 @@ unique-page-id: 1147029
 description: Ändra status i SFDC-kampanj - Marketo Docs - produktdokumentation
 title: Ändra status i SFDC-kampanj
 exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns, Salesforce Integration
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%

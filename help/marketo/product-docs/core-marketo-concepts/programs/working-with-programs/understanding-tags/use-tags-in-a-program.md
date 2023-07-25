@@ -3,7 +3,8 @@ unique-page-id: 1147150
 description: Använd taggar i ett program - Marketo Docs - produktdokumentation
 title: Använd taggar i ett program
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%

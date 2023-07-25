@@ -2,7 +2,8 @@
 description: Inställningar för inloggningshantering - Marketo Docs - produktdokumentation
 title: Inställningar för inloggningshantering
 exl-id: 077f7f97-1413-4495-b2c9-94194e8dbcc2
-source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%

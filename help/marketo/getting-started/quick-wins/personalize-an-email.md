@@ -3,7 +3,8 @@ unique-page-id: 2359422
 description: Anpassa ett e-postmeddelande - Marketo Docs - produktdokumentation
 title: Anpassa ett e-postmeddelande
 exl-id: 1562796e-da47-4305-b950-3bed1d36d339
-source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 0%
@@ -19,7 +20,6 @@ ht-degree: 0%
 >* [Konfigurera och lägga till en person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [Skicka ett e-postutdrag](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}
 >* [Drip, Drift, Struktur](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target="_blank"}
-
 
 ## Steg 1: Välj en e-postadress att anpassa {#step-select-an-email-to-personalize}
 

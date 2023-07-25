@@ -3,7 +3,8 @@ unique-page-id: 14746661
 description: Innehåll och bifogade filer - Frågor och svar - Marketo Docs - Produktdokumentation
 title: Vanliga frågor om innehåll och bifogad fil
 exl-id: 4dc1261d-bcbe-4b3b-a384-83e022733229
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%

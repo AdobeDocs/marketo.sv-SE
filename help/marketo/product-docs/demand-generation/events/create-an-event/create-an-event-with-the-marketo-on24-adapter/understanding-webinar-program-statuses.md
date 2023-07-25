@@ -3,9 +3,10 @@ unique-page-id: 10096681
 description: Understanding Webinar Program Status - Marketo Docs - produktdokumentation
 title: Om status för webbinarium
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
-source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
@@ -28,7 +29,7 @@ Här är en kort beskrivning av programstatus som är kopplad till webbseminarie
 
 **Inbjuden** - Använd den här statusen för att lägga till personer till händelsen.
 
-**Väntar på godkännande** - Använd den här statusen om du vill vänta med att skicka ett bekräftelsemeddelande till dina personer via e-post. Se&quot;Manuellt godkännande av registranter&quot; i [ON24 - Händelseregistreringsuppdateringar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target=&quot;_blank&quot;} om du vill ha mer information.
+**Väntar på godkännande** - Använd den här statusen om du vill vänta med att skicka ett bekräftelsemeddelande till dina personer via e-post. Se&quot;Manuellt godkännande av registranter&quot; i [ON24 - Händelseregistreringsuppdateringar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target="_blank"} för mer information.
 
 **Väntar** - Använd den här statusen om du vill att vissa personer ska vänta tills fler platser blir tillgängliga.
 
@@ -54,4 +55,4 @@ Här är en kort beskrivning av programstatus som är kopplad till webbseminarie
 
 >[!MORELIKETHIS]
 >
->[Om Marketo ON24-nätverkskortshändelser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
+>[Om Marketo ON24-nätverkskortshändelser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

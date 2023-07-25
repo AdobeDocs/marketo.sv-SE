@@ -2,7 +2,8 @@
 description: Versionsinformation - augusti 2021 - Marketo Docs - produktdokumentation
 title: Versionsinformation - augusti 2021
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '925'
 ht-degree: 0%
@@ -77,7 +78,7 @@ Det här avsnittet innehåller nya funktioner för användare av Bizible som har
 
 * **Bizible on Adobe Experience Cloud Interface**: Bizibles användning av Adobe Experience Cloud Interface ger användarna nya funktioner som kommer att visas i det Bizible-baserade programrubrikfältet och ger bättre åtkomst till supportresurser och programväxling. Gränssnittet Experience Cloud hjälper till att skapa en enhetlig upplevelse mellan Bizible och andra Adobe Experience Cloud-program.
 
-* **Bizible Domain Ownership and Self Management**: Bizibla användare kan använda Adobe Admin Console för att hantera de domäner de vill att Bizible ska spåra. Detta ger självbetjäning till en tidigare manuell process och ger en konsekvent upplevelse av hur domänägarskap och spårning hanteras i olika Adobe Experience Cloud-program.
+* **Bizible Domain Ownership and Self Management**: Bizibla användare kan använda Adobe Admin Console för att hantera de domäner de vill att Bizible ska spåra. Detta ger självbetjäning till en tidigare manuell process och ger en konsekvent upplevelse av hur domänägarskap och spårning hanteras i Adobe Experience Cloud-program.
 
 ## Meddelanden {#announcements}
 

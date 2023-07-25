@@ -3,7 +3,8 @@ unique-page-id: 8783923
 description: Mall 5D - Marketo Docs - produktdokumentation
 title: Mall 5D
 exl-id: 98e4d4ba-dad5-4285-994f-50c5d677b300
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%

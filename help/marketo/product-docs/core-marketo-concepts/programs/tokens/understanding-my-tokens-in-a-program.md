@@ -3,7 +3,8 @@ unique-page-id: 1147114
 description: Förstå mina token i ett program - Marketo Docs - produktdokumentation
 title: Förstå mina token i ett program
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Tokens
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
@@ -94,4 +95,3 @@ När du flyttar program och mappar påverkas även tokens. Kontrollera alltid f�
 >
 >* [Översikt över token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
 >* [Hantera mina token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
-

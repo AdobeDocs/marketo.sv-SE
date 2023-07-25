@@ -3,7 +3,8 @@ unique-page-id: 7515401
 description: Skapa en guidad landningssidmall - Marketo Docs - produktdokumentation
 title: Skapa en mall för guidad landningssida
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
-source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1254'
 ht-degree: 0%

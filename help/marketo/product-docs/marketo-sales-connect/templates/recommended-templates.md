@@ -3,7 +3,8 @@ unique-page-id: 14352510
 description: Rekommenderade mallar - Marketo Docs - produktdokumentation
 title: Rekommenderade mallar
 exl-id: 77356b26-ac9d-47c3-8547-1ab1009f6ca6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 0%

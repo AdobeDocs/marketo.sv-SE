@@ -3,7 +3,8 @@ unique-page-id: 2360397
 description: Prenumerera på en rapport från Intresseutforskaren - Marketo Docs - produktdokumentation
 title: Prenumerera på en rapport om skatteutforskaren
 exl-id: 448a4d56-8fd6-4e5b-b78e-d854b93c4aa4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%

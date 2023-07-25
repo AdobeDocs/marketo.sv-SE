@@ -3,7 +3,8 @@ unique-page-id: 2359730
 description: Lägga till anpassad HTML på en landningssida i fri form - Marketo Docs - produktdokumentation
 title: Lägga till anpassad HTML på en landningssida med valfri form
 exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%

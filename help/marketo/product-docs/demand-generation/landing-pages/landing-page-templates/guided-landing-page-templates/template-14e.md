@@ -3,7 +3,8 @@ unique-page-id: 9437813
 description: Mall 14E - Marketo Docs - Produktdokumentation
 title: Mall 14E
 exl-id: e45e2277-2d15-44fb-b48d-107e80f849b7
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%

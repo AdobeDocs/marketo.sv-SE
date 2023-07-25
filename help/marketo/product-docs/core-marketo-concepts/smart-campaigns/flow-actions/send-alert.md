@@ -3,7 +3,8 @@ unique-page-id: 1146958
 description: Skicka avisering - Marketo Docs - produktdokumentation
 title: Skicka avisering
 exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%

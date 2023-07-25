@@ -2,7 +2,8 @@
 description: Advanced Search Overview - Marketo Docs - Product Documentation
 title: Översikt över avancerad sökning
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 0%

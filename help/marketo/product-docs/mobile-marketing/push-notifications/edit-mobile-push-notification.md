@@ -3,7 +3,8 @@ unique-page-id: 7512460
 description: Redigera mobilpush-meddelanden - Marketo Docs - produktdokumentation
 title: Redigera mobilpush-meddelanden
 exl-id: 3ed36e77-642c-42f9-8714-fc4f718eb073
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 0%

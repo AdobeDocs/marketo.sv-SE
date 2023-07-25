@@ -3,7 +3,8 @@ unique-page-id: 1146937
 description: Visa medlemmar i smarta kampanjer - Marketo Docs - produktdokumentation
 title: Visa medlemmar i smarta kampanjer
 exl-id: 027d93a9-f838-4f96-80d6-7bf6ee1cc03d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%

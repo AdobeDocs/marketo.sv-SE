@@ -3,7 +3,8 @@ unique-page-id: 2360321
 description: Ändra namnet på en arbetsyta - Marketo Docs - produktdokumentation
 title: Ändra namnet på en arbetsyta
 exl-id: 1d714803-b1c3-49e9-874b-2555dd13a9d1
-source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
+feature: Workspaces
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 1%

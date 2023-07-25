@@ -3,7 +3,8 @@ unique-page-id: 2360002
 description: Konfigurera rapportstorlek - Marketo Docs - produktdokumentation
 title: Konfigurera rapportstorlek
 exl-id: ee8ade4b-a45f-4c2b-bc42-a544cbbaa407
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%

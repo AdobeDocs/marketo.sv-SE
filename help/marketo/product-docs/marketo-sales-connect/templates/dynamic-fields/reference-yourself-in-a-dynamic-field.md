@@ -3,7 +3,8 @@ unique-page-id: 14352601
 description: Referera dig själv i ett dynamiskt fält - Marketo Docs - produktdokumentation
 title: Referera dig själv i ett dynamiskt fält
 exl-id: 89d5ad5e-e699-451c-b399-f3cc7f554100
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%

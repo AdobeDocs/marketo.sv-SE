@@ -3,7 +3,8 @@ unique-page-id: 4720151
 description: Implementera RTP på Marketo landningssidor - Marketo Docs - produktdokumentation
 title: Implementera RTP på Marketo landningssidor
 exl-id: fd19c3ad-d3f6-44a3-9f7a-d518e2d3f02a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%

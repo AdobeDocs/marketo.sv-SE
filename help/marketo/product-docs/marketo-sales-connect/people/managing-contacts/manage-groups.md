@@ -3,7 +3,8 @@ unique-page-id: 30081250
 description: Hantera grupper - Marketo Docs - produktdokumentation
 title: Hantera grupper
 exl-id: 8788c9ab-7d52-4b8d-96eb-26fd1a07b0f5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 3571900
 description: Webbpersonalisering - översikt - Marketo Docs - produktdokumentation
 title: Webbpersonalisering - översikt
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '833'
 ht-degree: 0%
@@ -60,7 +61,6 @@ På fliken Organisationer visas all information (namn, plats, aktivitet och tids
 >* Mest aktiva: de mest aktiva organisationerna i tabellen, baserat på antalet sidvisningar
 >* Senaste: de senaste organisationerna i tabellen (standard)
 >* Om du vill ha värdefulla insikter kan du filtrera enligt de mest aktiva
-
 
 **Organisationer - högerpanel**
 

@@ -3,7 +3,8 @@ unique-page-id: 12980661
 description: Lägg till Google kundmatchning som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
 title: Lägg till Google kundmatchning som en LaunchPoint-tjänst
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
-source-git-commit: df14ed3fb815a6d4fa0fe30435ff076c05798e39
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 2953461
 description: SFDC-synkronisering - fältsynkronisering - Marketo Docs - produktdokumentation
 title: SFDC-synkronisering - fältsynkronisering
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '413'
 ht-degree: 0%

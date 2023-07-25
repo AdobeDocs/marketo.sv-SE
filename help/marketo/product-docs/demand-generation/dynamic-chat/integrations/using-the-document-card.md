@@ -2,9 +2,10 @@
 description: Använda dokumentkortet - Marketo Docs - produktdokumentation
 title: Använda dokumentkortet
 exl-id: 7fd1bfd0-95a9-4878-90a1-5bdfe8014919
-source-git-commit: a70ce09e446769b3b3177e8d5cf902d1ab8cbb05
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 Med dokumentkortet kan du bädda in PDF-dokument i dialogrutor och spåra besökares engagemang i dokument. Så här ställer du in det.
 
-1. Navigera till [Adobe PDF Embed API](https://udp.adobe.io/document-services/apis/pdf-embed/){target=&quot;_blank&quot;}.
+1. Navigera till [Adobe PDF Embed API](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
 
 1. Klicka **Hämta autentiseringsuppgifter**.
 

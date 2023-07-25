@@ -2,7 +2,8 @@
 description: Skapa och ta bort kontakter - Marketo Docs - produktdokumentation
 title: Skapa och ta bort kontakter
 exl-id: 59fb0ec9-9bb4-4eae-b3de-8564d371b970
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%

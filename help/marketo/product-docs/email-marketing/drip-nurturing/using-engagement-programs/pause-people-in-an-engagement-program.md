@@ -3,7 +3,8 @@ unique-page-id: 2359949
 description: Pausa personer i ett engagemangsprogram - Marketo Docs - produktdokumentation
 title: Pausa personer i ett engagemangsprogram
 exl-id: 3bf2db4f-6fa2-4ae8-a1e7-ce6c584f749d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Engagement Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%

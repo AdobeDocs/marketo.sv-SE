@@ -3,7 +3,8 @@ unique-page-id: 11377640
 description: Auktorisera Marketo Outlook-plugin - Marketo Docs - Produktdokumentation
 title: Auktorisera Marketo Outlook-plugin
 exl-id: 4eeed6db-2d28-4ec9-8aa0-1c599f68b2bf
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 11378713
 description: Utlös anpassade objektändringar - Marketo Docs - produktdokumentation
 title: Utlös ändringar av anpassade objekt
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
-source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+feature: Custom Objects
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -56,4 +57,3 @@ I den smarta kampanjens lista kan du utlösa en flödesåtgärd när ett anpassa
    >
    >* [Skapa en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
    >* [Förstå anpassade Marketo-objekt](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
-

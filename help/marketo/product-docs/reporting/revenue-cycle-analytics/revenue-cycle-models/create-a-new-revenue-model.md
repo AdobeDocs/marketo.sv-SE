@@ -3,7 +3,8 @@ unique-page-id: 4718656
 description: Skapa en ny intäktsmodell - Marketo Docs - produktdokumentation
 title: Skapa en ny intäktsmodell
 exl-id: 1c2e7d2b-35f6-4bd8-9a31-6bb857a63bbc
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%

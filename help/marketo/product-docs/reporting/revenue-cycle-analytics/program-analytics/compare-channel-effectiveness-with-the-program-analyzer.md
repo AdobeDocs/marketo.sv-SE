@@ -3,7 +3,8 @@ unique-page-id: 2360401
 description: Jämför kanaleffektivitet med programanalys - Marketo Docs - produktdokumentation
 title: Jämför kanaleffektiviteten med programanalysen
 exl-id: bfe635a7-b077-4074-889d-fc2256102cd5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
@@ -84,4 +85,3 @@ I vårt exempel ser vi att Tradeshow-kanalen både är den mest dyra (längst ti
 >
 >* [Utforska program- och kanalinformation med Program Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [Jämför programeffektiviteten med programanalysen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
-

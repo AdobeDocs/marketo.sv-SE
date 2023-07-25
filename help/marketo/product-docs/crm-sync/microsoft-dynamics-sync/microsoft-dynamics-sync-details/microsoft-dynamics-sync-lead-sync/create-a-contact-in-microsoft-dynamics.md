@@ -3,7 +3,8 @@ unique-page-id: 10095389
 description: Skapa en kontakt i Microsoft Dynamics - Marketo Docs - produktdokumentation
 title: Skapa en kontakt i Microsoft Dynamics
 exl-id: 66cb26c0-f383-4d1e-be22-e7f8c6b266fb
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%

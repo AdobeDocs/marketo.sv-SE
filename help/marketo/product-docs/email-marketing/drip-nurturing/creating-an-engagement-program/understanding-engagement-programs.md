@@ -3,7 +3,8 @@ unique-page-id: 2359647
 description: Understanding Engagement Programs - Marketo Docs - Product Documentation
 title: Förstå engagemangsprogram
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Engagement Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
@@ -39,7 +40,6 @@ A **stream** är en pool med prioriterat innehåll som engagemangsprogrammet kom
 >* [Lägg till en ström](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
 >* [Klona en ström](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
 
-
 ## Innehåll {#content}
 
 Det finns två typer av **innehåll** ni kan lägga till i engagemangsprogramströmmar - e-post och program. E-post skickas till folk vid sändning.
@@ -53,7 +53,6 @@ Det finns två typer av **innehåll** ni kan lägga till i engagemangsprogramstr
 >* [Redigera tillgänglighet för direktuppspelat innehåll](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
 >* [Ta bort ströminnehåll](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
 >* [Arkivera och arkivera ströminnehåll](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
-
 
 ## Kast {#cast}
 

@@ -3,7 +3,8 @@ unique-page-id: 1146995
 description: Använd token i flödessteg - Marketo Docs - produktdokumentation
 title: Använd token i flödessteg
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
-source-git-commit: 46812deb41ed56328a4a64fbd36340d13c50dde4
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
@@ -51,4 +52,3 @@ En variabel är en variabel. Ni använder det i e-postmeddelanden, landningssido
    >
    >* [Hantera mina token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
    >* [Förstå mina token i ett program](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
-

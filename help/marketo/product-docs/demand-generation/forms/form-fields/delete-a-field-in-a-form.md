@@ -3,7 +3,8 @@ unique-page-id: 2359606
 description: Ta bort ett fält i ett formulär - Marketo Docs - produktdokumentation
 title: Ta bort ett fält i ett formulär
 exl-id: 294150f1-309f-42a3-9569-628deb160fc9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%

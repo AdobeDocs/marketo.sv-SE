@@ -3,7 +3,8 @@ unique-page-id: 1900558
 description: Redigera element i ett e-postmeddelande - Marketo Docs - produktdokumentation
 title: Redigera element i ett e-postmeddelande
 exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '502'
 ht-degree: 0%

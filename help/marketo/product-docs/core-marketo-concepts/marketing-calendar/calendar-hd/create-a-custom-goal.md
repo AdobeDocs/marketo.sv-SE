@@ -3,7 +3,8 @@ unique-page-id: 7504130
 description: Skapa ett anpassat mål - Marketo Docs - produktdokumentation
 title: Skapa ett anpassat mål
 exl-id: 5e97fb4c-c779-46c7-83ed-de07d27770c7
-source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
+feature: Marketing Calendar
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%

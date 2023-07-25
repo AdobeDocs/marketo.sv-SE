@@ -3,7 +3,8 @@ unique-page-id: 10096158
 description: Autentisera säkerhet för mobil åtkomst - Marketo Docs - produktdokumentation
 title: Autentisera säkerhet för mobil åtkomst
 exl-id: c8f5f15e-c45b-4751-aa1a-d58d0fd056df
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%

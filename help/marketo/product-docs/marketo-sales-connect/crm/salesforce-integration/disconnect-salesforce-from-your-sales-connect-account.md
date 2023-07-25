@@ -3,7 +3,8 @@ unique-page-id: 15368214
 description: Koppla från Salesforce från ditt Sales Connect-konto - Marketo Docs - produktdokumentation
 title: Koppla från Salesforce från ditt Sales Connect-konto
 exl-id: 7b40ba8f-b852-4de1-bc1d-1206259c2880
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%

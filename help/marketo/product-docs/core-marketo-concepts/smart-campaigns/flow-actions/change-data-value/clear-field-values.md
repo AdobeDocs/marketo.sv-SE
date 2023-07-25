@@ -3,7 +3,8 @@ unique-page-id: 1147324
 description: Rensa fältvärden - Marketo Docs - produktdokumentation
 title: Rensa fältvärden
 exl-id: cddc7697-4e8f-4a62-865c-efd451abea0c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%

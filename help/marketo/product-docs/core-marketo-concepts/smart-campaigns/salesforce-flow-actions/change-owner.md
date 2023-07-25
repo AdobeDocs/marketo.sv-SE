@@ -3,7 +3,8 @@ unique-page-id: 1147021
 description: Ändra ägare - Marketo Docs - produktdokumentation
 title: Ändra ägare
 exl-id: b22c5cd8-1b53-4802-8b49-7f607c8a601b
-source-git-commit: 44c134811242b4136a3137cdd60e60edeb838c8c
+feature: Smart Campaigns, Salesforce Integration
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -29,7 +30,6 @@ Om du har befintliga personer som redan har tilldelats en ägare kan du använda
    >1. Marketo skapar en dubblett av lead **endast** när kontakten synkroniseras med Salesforce. Med andra ord, om du använder **[Synkronisera person till SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** flöda steg med `AssignTo=<a lead queue>`skapar Marketo ett duplicerat lead i Salesforce och tilldelar det till lead-kön.
    >
    >1. Om du använder **Ändra ägare** flödessteg för en kontakt skapar Marketo en dubblett av lead i Salesforce. Du undviker detta genom att använda ett filter i fältet SFDC-typ som begränsar åtgärden till endast leads.
-
 
    >[!NOTE]
    >

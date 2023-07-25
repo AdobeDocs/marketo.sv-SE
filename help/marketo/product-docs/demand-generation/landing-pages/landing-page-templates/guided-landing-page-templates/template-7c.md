@@ -3,7 +3,8 @@ unique-page-id: 8783947
 description: Mall 7C - Marketo Docs - produktdokumentation
 title: Mall 7C
 exl-id: 4c3925e9-dd00-4488-8c2b-4fa0194e80f1
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%

@@ -2,7 +2,8 @@
 description: Åsidosättning av prioritet för utlösarkampanjer - Marketo Docs - produktdokumentation
 title: Åsidosättning av prioritet för utlösarkampanjer
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
-source-git-commit: 48a49faa6a1fde1e9ac391c2bf0800123f6a5bac
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 1%
@@ -58,4 +59,3 @@ Administratörer kan åsidosätta Marketo fastställda prioritet för utlösarka
 >* Du kan visa kampanjens standardprioritet i [!UICONTROL Campaign Queue] under [!UICONTROL Marketing Activities]. Vi rekommenderar att du ställer in kampanjprioriteten på en nivå som är högre än standardnivån för att öka exekveringsfrekvensen.
 >* Prioriteten för användarinställningen gäller endast nya personer som är kvalificerade för kampanjen. Personer som redan är i kö påverkas inte.
 >* Prioritetsåsidosättningar hämtas i [Granskningsspår](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md).
-

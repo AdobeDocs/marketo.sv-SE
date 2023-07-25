@@ -3,7 +3,8 @@ unique-page-id: 2360421
 description: Åsidosätt analysbeteende på programnivå - Marketo Docs - produktdokumentation
 title: Åsidosätt analysbeteende på programnivå
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -34,7 +35,6 @@ Du kan ange [analysbeteende på adminnivå i kanaler](/help/marketo/product-docs
    >
    >* **Inkluderande** - Det här alternativet ser till att programmet är tillgängligt för rapportering i intäktsutforskaren och analytiker oavsett om du har inkluderat en periodkostnad eller inte.
    >* **Operativ** - Det här alternativet innebär att programmet inte visas i någon av intäktsutforskarna eller analysatorerna.
-
 
    >[!NOTE]
    >

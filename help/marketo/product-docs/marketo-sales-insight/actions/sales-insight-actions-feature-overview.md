@@ -2,9 +2,10 @@
 description: Sales Insight Actions Feature Overview - Marketo Docs - Product Documentation
 title: Funktionsöversikt för Sales Insight
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1392'
 ht-degree: 0%
 
 ---
@@ -130,7 +131,7 @@ Följande gruppåtgärder är tillgängliga i listrutan på fliken Bästa val:
 * Skicka e-post för försäljning - möjlighet att skicka personaliserade eller mallsidiga e-postmeddelanden med visning, klickning och svarsuppföljning
 * Skicka säljkampanj - Lägg till leads till säljspelsböcker som är en sekvens av e-postmeddelanden och uppgifter
 
-   ![](assets/sales-insight-actions-feature-overview-4.png)
+  ![](assets/sales-insight-actions-feature-overview-4.png)
 
 Följande textbundna åtgärder är tillgängliga för enskilda leads/kontakter på fliken Bästa val:
 
@@ -139,7 +140,7 @@ Följande textbundna åtgärder är tillgängliga för enskilda leads/kontakter 
 * Säljare - ringa försäljningssamtal med återförsäljaren i CRM
 * Lägg till aktivitet - Skapa e-post, samtal, kund- eller länkade aktiviteter för potentiella leads
 
-   ![](assets/sales-insight-actions-feature-overview-5.png)
+  ![](assets/sales-insight-actions-feature-overview-5.png)
 
 **Fliken E-post**
 
@@ -160,7 +161,7 @@ Följande textbundna åtgärder är tillgängliga för enskilda leads/kontakter 
 * Synkronisera uppgifter med Salesforce
 * Logga uppgifter i avsnittet Aktivitetshistorik i Salesforce
 
-   ![](assets/sales-insight-actions-feature-overview-6.png)
+  ![](assets/sales-insight-actions-feature-overview-6.png)
 
 **Live-feed**
 
@@ -189,4 +190,4 @@ Filter och utlösare är:
 * Tillagd i försäljningskampanj
 * Borttagen från försäljningskampanj
 
-   ![](assets/sales-insight-actions-feature-overview-7.png)
+  ![](assets/sales-insight-actions-feature-overview-7.png)

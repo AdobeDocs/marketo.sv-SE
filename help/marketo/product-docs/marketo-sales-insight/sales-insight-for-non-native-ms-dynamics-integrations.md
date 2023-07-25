@@ -2,7 +2,8 @@
 description: Sales Insight for Non-Native MS Dynamics Integrations - Marketo Docs - produktdokumentation
 title: Sales Insight for Non-Native MS Dynamics Integrations
 exl-id: 07613ff8-b197-4a3d-88e9-720b68a6b8da
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1413'
 ht-degree: 0%
@@ -20,7 +21,6 @@ Om ditt Adobe Marketo Engage-konto är anslutet till MS Dynamics via en anpassad
 >* En MS Dynamics-prenumeration med MSI-installation (vi stöder bara [Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target="_blank"} just nu).
 >* Marketo REST API [har konfigurerats](https://developers.marketo.com/rest-api/){target="_blank"}. De exponerade CRUD-API:erna kommer att utgöra grunden för den icke-ursprungliga synkroniseringen.
 >* Läs [det här blogginlägget](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} för att förstå objektet och relationerna.
-
 
 ## Lyckad icke-inbyggd synkronisering för MSI kräver följande {#successful-non-native-sync-for-msi-requires-the-following}
 
@@ -256,4 +256,5 @@ Om ditt Adobe Marketo Engage-konto är anslutet till MS Dynamics via en anpassad
    </table>
 
    * Dokumentation för Lead REST API: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET){target="_blank"}.
+
    Korrekt användning av de externa fälten är avgörande för en lyckad icke-inbyggd synkronisering. Om du inte ser data i vissa vyer är det troligt att ett visst fält inte synkroniserades korrekt. Om t.ex. en leads aktiviteter och intressanta stunder inte visas vid sökning i MSI-widgeten under deras konto, är det troligt att antingen lead-företagets företag eller kontot inte synkroniserades korrekt. Om du utför en GET-begäran för denna lead samtidigt som du anger externa fält kan du kontrollera om leadet synkroniserades korrekt. Dessutom måste e-postadressen till den externa säljaren i Marketo matcha e-postadressen för den användaren i MS Dynamics. Data kanske inte visas på fliken Marketo i MS Dynamics om e-postmeddelandena inte matchar.

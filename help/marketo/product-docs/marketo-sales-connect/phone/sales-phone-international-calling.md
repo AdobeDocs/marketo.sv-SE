@@ -3,7 +3,8 @@ unique-page-id: 14352434
 description: Säljtelefonsamtal - Marketo Docs - produktdokumentation
 title: Internationellt telefonsamtal för försäljning
 exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 16%

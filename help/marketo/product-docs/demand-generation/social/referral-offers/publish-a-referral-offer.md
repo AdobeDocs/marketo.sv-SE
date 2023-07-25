@@ -3,7 +3,8 @@ unique-page-id: 2359845
 description: Publicera ett hänvisningserbjudande - Marketo Docs - produktdokumentation
 title: Publicera ett hänvisningserbjudande
 exl-id: 48335902-cb43-44ea-9f19-2fe49105bb45
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%

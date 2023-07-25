@@ -3,7 +3,8 @@ unique-page-id: 2359757
 description: Lägg till en social knapp på en landningssida - Marketo Docs - produktdokumentation
 title: Lägg till en social knapp på en landningssida
 exl-id: a47aec5a-435d-479f-856c-5fa2e0f9c6e8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%

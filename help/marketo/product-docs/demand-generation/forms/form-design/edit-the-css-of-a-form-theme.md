@@ -3,7 +3,8 @@ unique-page-id: 2359679
 description: Redigera CSS för ett formulärtema - Marketo Docs - produktdokumentation
 title: Redigera CSS för ett formulärtema
 exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%

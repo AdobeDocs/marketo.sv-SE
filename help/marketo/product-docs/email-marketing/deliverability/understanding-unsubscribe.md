@@ -3,7 +3,8 @@ unique-page-id: 7514918
 description: Så här säger du upp prenumerationen - Marketo Docs - produktdokumentation
 title: Om att avbryta prenumerationen
 exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Deliverability
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%

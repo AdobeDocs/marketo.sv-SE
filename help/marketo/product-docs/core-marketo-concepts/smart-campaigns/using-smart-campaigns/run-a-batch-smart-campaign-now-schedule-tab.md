@@ -3,9 +3,10 @@ unique-page-id: 1146933
 description: Kör en batchsmart kampanj nu | Fliken Schema - Marketo Docs - produktdokumentation
 title: Kör en batchsmart kampanj nu | Fliken Schema
 exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
-source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -32,4 +33,3 @@ När du är klar med gruppkampanjen kan du välja att köra den nu eller senare.
    >
    >* [Schemalägg en batchsmart kampanj att köras senare](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
    >* [Schemalägg en återkommande batchkampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
-

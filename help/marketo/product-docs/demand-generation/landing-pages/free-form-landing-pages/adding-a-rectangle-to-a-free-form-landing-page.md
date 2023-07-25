@@ -3,7 +3,8 @@ unique-page-id: 2359707
 description: Lägga till en rektangel på en startsida i fri form - Marketo Docs - produktdokumentation
 title: Lägga till en rektangel på en landningssida med valfri form
 exl-id: 9c0e614f-9a47-41be-b943-9d493f7e5000
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%

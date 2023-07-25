@@ -3,7 +3,8 @@ unique-page-id: 2360198
 description: Skapa, ta bort, redigera och ändra en användarroll - Marketo Docs - produktdokumentation
 title: Skapa, ta bort, redigera och ändra en användarroll
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
-source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
+feature: Users and Roles
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 1%

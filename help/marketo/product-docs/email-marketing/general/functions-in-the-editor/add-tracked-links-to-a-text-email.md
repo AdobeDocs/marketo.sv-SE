@@ -3,7 +3,8 @@ unique-page-id: 1900589
 description: Lägg till spårade länkar i ett e-postmeddelande - Marketo Docs - produktdokumentation
 title: Lägg till spårade länkar i ett e-postmeddelande
 exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
@@ -16,7 +17,6 @@ ht-degree: 0%
 >
 >* [Skapa ett e-postmeddelande med endast text](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
 >* [Redigera element i ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
-
 
 E-postlänkar med text kan spåras i Marketo. Låt oss se hur det fungerar. 1. Markera e-postmeddelandet och klicka på Redigera utkast.
 

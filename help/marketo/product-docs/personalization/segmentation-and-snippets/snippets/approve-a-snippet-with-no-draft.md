@@ -3,7 +3,8 @@ unique-page-id: 10095644
 description: Godkänn ett utdrag utan utkast - Marketo Docs - produktdokumentation
 title: Godkänn ett kodfragment utan utkast
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
-source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
+feature: Snippets
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%

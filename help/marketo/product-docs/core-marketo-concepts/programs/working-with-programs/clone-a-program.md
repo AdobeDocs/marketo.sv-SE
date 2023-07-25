@@ -3,7 +3,8 @@ unique-page-id: 1147110
 description: Clone a Program - Marketo Docs - produktdokumentation
 title: Klona ett program
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
-source-git-commit: 10873ee50aca443d481117ed66c90930a1cb4b4b
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%

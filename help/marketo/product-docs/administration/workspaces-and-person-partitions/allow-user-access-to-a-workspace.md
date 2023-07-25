@@ -3,7 +3,8 @@ unique-page-id: 2360325
 description: Tillåt användaråtkomst till en arbetsyta - Marketo Docs - produktdokumentation
 title: Tillåt användaråtkomst till en arbetsyta
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
-source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
+feature: Workspaces
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%

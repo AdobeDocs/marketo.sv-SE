@@ -2,7 +2,8 @@
 description: Konfigurera anpassad domänspårning - Marketo Docs - produktdokumentation
 title: Konfigurera anpassad domänspårning
 exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%

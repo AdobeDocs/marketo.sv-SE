@@ -3,7 +3,8 @@ unique-page-id: 17432598
 description: Konfigurera kontoprofilering - Marketo Docs - produktdokumentation
 title: Konfigurera kontoprofilering
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
-source-git-commit: 07a6640bd6cd43f55a5fa7e64b4a960dce288021
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 2%

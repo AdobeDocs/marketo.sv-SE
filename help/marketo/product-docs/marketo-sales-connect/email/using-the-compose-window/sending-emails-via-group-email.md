@@ -3,7 +3,8 @@ unique-page-id: 37356584
 description: Skicka e-post via e-post i grupp - Marketo Docs - produktdokumentation
 title: Skicka e-post via gruppe-post
 exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -60,4 +61,3 @@ Så här skickar/redigerar du e-post med alternativet Gruppera e-post.
 >
 >* [Alternativ för massutskick](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
 >* [Använda en mall i dispositionsfönstret](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
-

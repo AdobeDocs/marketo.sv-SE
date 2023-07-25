@@ -2,9 +2,10 @@
 description: Steg 2 av 3 - Skapa en veeva CRM-användare för Marketo Engage - Marketo Docs - Produktdokumentation
 title: Steg 2 av 3 - Skapa en veeva CRM-användare för Marketo Engage
 exl-id: 78945192-36b0-4e0b-830a-f37eb0b83484
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '632'
 ht-degree: 0%
 
 ---
@@ -17,7 +18,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Steg 1 av 3: Lägg till Marketo-fält i Salesforce (Professional)](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target=&quot;_blank&quot;}
+>[Steg 1 av 3: Lägg till Marketo-fält i Salesforce (Professional)](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target="_blank"}
 
 I den här artikeln ska du anpassa fältbehörigheter med en veeva CRM-sidlayout och skapa en Marketo-veeva CRM-synkroniseringsanvändare.
 
@@ -200,4 +201,4 @@ Underbar! Nu har du ett konto som Marketo Engage kan använda för att ansluta t
 
 >[!MORELIKETHIS]
 >
->[Steg 3 av 3: Connect Marketo och Veeva CRM](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md){target=&quot;_blank&quot;}
+>[Steg 3 av 3: Connect Marketo och Veeva CRM](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md){target="_blank"}

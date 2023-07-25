@@ -3,7 +3,8 @@ unique-page-id: 2950617
 description: Använda dynamiskt innehåll i ett e-postmeddelande - Marketo Docs - produktdokumentation
 title: Använda dynamiskt innehåll i ett e-postmeddelande
 exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
-source-git-commit: 076d781fc8d967ee6f63ed2023e75c94e5aa1e55
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
@@ -76,4 +77,3 @@ Söt! Nu kan ni skicka flexibla e-postmeddelanden till er målgrupp.
 >
 >* [Förhandsgranska ett e-postmeddelande med dynamiskt innehåll](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
 >* [Använd dynamiskt innehåll på en landningssida](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
-

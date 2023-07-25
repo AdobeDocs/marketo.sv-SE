@@ -2,7 +2,8 @@
 description: Översikt över incheckning av händelser
 title: Översikt över incheckning av händelser
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%

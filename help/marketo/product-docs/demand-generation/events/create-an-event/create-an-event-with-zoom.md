@@ -3,7 +3,8 @@ unique-page-id: 17728023
 description: Skapa en händelse med Zoom - Marketo Docs - produktdokumentation
 title: Skapa en händelse med zoom
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
-source-git-commit: 8b0625a7192a80986bc4295726cd13473493ddd7
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '560'
 ht-degree: 0%
@@ -17,7 +18,6 @@ ht-degree: 0%
 >* [Lägg till zoom som en LaunchPoint-tjänst](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
 >* [Skapa ett nytt händelseprogram](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Ange lämplig [flödesåtgärder](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)för att spåra engagemang
-
 
 Skapa först ditt webbinarium i Zoom. Vissa inställningar när du skapar zoomningen används av Marketo och vissa används bara av Zoom.
 

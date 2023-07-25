@@ -3,7 +3,8 @@ unique-page-id: 30082174
 description: Intressanta ögonblick i Sales Connect - Marketo Docs - produktdokumentation
 title: Intressanta stunder i Sales Connect
 exl-id: 210f31d1-606a-479d-8a2b-351b2b1a7678
-source-git-commit: b18b2172e2c20cdb740854924a48fc996caf59f9
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 0%

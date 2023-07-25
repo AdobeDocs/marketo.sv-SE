@@ -2,7 +2,8 @@
 description: Steg 1 av 3 - Lägg till Marketo-fält i Veeva CRM - Marketo Docs - produktdokumentation
 title: Steg 1 av 3 - Lägg till Marketo-fält i Veeva CRM
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
-source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '533'
 ht-degree: 0%
@@ -100,7 +101,7 @@ Decimaler 0</td>
 * Om du har en användare med profilen för en systemadministratör som synkroniseringsanvändare avmarkerar du kryssrutan Skrivskyddad för systemadministratörsprofilen (se nedan).
 * Om du har skapat en anpassad profil för synkroniseringsanvändaren avmarkerar du kryssrutan Skrivskyddad för den anpassade profilen.
 
-   ![](assets/step-1-of-3-add-marketo-fields-9.png)
+  ![](assets/step-1-of-3-add-marketo-fields-9.png)
 
 1. Välj de sidlayouter som ska visa fältet.
 

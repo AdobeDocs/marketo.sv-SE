@@ -3,7 +3,8 @@ unique-page-id: 10100649
 description: Konfigurera meddelandebakgrunden i appen - Marketo Docs - produktdokumentation
 title: Konfigurera meddelandebakgrunden i programmet
 exl-id: 0cb10432-5611-4efe-a605-9a5a57f1bc7c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 0%
@@ -73,4 +74,3 @@ Att välja en meddelandebakgrund är ett viktigt steg när du vill avsluta ditt 
    >* [Förstå meddelanden i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
    >* [Skicka ett meddelande i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
    >* [Välj en layout för ditt meddelande i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
-

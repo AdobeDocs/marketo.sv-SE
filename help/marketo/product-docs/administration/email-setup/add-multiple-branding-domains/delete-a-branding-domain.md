@@ -3,10 +3,11 @@ unique-page-id: 11378041
 description: Ta bort en profileringsdomän - Marketo Docs - produktdokumentation
 title: Ta bort en profileringsdomän
 exl-id: 12cbb8c0-4846-46cb-ba5a-d54a69523585
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Email Setup
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '56'
+ht-degree: 1%
 
 ---
 

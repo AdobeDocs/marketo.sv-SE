@@ -2,7 +2,8 @@
 description: Rapportöversikt - Marketo Docs - produktdokumentation
 title: Rapportöversikt
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 0%

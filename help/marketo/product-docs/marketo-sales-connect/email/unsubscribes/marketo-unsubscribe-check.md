@@ -3,7 +3,8 @@ unique-page-id: 18317340
 description: Avbeställ Marketo - Marketo Docs - produktdokumentation
 title: Avbeställ Marketo
 exl-id: b8bd5b38-a4f5-4ac7-a5ce-a155fce57998
-source-git-commit: 82c75d52caf3a0320cd3e8534b3b0870cf12d660
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%

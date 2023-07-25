@@ -3,7 +3,8 @@ unique-page-id: 14352630
 description: Ta bort en mall - Marketo Docs - produktdokumentation
 title: Ta bort en mall
 exl-id: b3b1be67-b12d-44a4-b290-cbb266f2c328
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 2953467
 description: SFDC-synkronisering - Affärsmöjlighet, synkronisering - Marketo Docs - Produktdokumentation
 title: SFDC-synkronisering - Affärsmöjlighet synkroniserad
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
-source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%

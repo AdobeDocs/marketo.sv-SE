@@ -2,7 +2,8 @@
 description: Administratörsinstallation - Marketo Docs - produktdokumentation
 title: Administratörsinställningar
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
-source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+feature: Marketo with Adobe Identity
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%

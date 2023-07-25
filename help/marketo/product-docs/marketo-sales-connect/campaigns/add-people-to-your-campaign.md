@@ -3,7 +3,8 @@ unique-page-id: 14352613
 description: Lägg till personer i din kampanj - Marketo Docs - produktdokumentation
 title: Lägg till personer i din kampanj
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%

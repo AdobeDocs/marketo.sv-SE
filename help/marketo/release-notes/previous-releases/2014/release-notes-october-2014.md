@@ -3,7 +3,8 @@ unique-page-id: 2953334
 description: Versionsinformation -oktober 2014 - Marketo Docs - produktdokumentation
 title: Versionsinformation -oktober 2014
 exl-id: 698b4efd-ee14-459e-83a9-d06652099040
-source-git-commit: 297ff02ba2c1173cabfecdef283e97c87c922480
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 1146956
 description: Intressant stund - Marketo Docs - produktdokumentation
 title: Intressant stund
 exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
-source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
@@ -38,4 +39,3 @@ Du kan också använda [variabler i intressanta stunder](/help/marketo/product-d
 >
 >* [Använda intressanta stunder](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
 >* [Token för intressanta ögonblick](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
-

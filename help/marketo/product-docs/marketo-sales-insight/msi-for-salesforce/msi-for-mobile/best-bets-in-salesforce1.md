@@ -3,7 +3,8 @@ unique-page-id: 7511959
 description: Bästa val i Salesforce1 - Marketo Docs - Produktdokumentation
 title: Bästa val i Salesforce1
 exl-id: 5b1c9f26-7896-4d38-b458-1a43352ec036
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -24,4 +25,3 @@ Dina [Bästa val](/help/marketo/product-docs/marketo-sales-insight/msi-for-sales
 >
 >* [Intressanta stunder i Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
 >* [Skicka Marketo e-post- och kampanjåtgärder och bevakningsåtgärder i Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
-

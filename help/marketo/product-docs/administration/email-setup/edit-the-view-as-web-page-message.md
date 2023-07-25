@@ -3,9 +3,10 @@ unique-page-id: 2360253
 description: Redigera meddelandet"Visa som webbsida" - Marketo Docs - Produktdokumentation
 title: Redigera meddelandet"Visa som webbsida"
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Email Setup
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -46,7 +47,6 @@ Om du behöver redigera[Visa som en webbsida](/help/marketo/product-docs/email-m
 >
 >* Lägga till ytterligare URL:er i någon av rutorna HTML
 >* Placera HTML i textversionen
-
 
 Där har du den. Skicka testmejl för att säkerställa formatering.
 

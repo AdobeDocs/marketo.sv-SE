@@ -3,7 +3,8 @@ unique-page-id: 8783559
 description: Dela ett ögonblick - Marketo Docs - produktdokumentation
 title: Dela en stund
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%

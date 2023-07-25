@@ -2,9 +2,10 @@
 description: Sales Insight Actions User Onboarding Guide - Marketo Docs - produktdokumentation
 title: Handbok om User Onboarding för Sales Insight Actions
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
-source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -19,7 +20,6 @@ ht-degree: 0%
 >
 >* En administratör måste bjuda in en användare att börja använda MSI-Actions.
 >* Om du vill aktivera ditt konto med Salesforce måste du ha API aktiverat i Salesforce-profilbehörigheterna.
-
 
 Nya användare måste följa stegen nedan.
 

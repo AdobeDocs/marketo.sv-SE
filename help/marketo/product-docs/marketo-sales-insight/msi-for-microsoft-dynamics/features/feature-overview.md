@@ -3,7 +3,8 @@ unique-page-id: 37357043
 description: Funktionsöversikt - Marketo Docs - produktdokumentation
 title: Funktionsöversikt
 exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
-source-git-commit: 95aa6cdcede973e86757b4d9c758e2c7eb4bd5e6
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 2%

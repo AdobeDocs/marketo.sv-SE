@@ -3,7 +3,8 @@ unique-page-id: 7504128
 description: Skapa ett smart listmål - Marketo Docs - produktdokumentation
 title: Skapa ett mål för en smart lista
 exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
-source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
+feature: Marketing Calendar
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%

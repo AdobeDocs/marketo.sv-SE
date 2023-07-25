@@ -3,7 +3,8 @@ unique-page-id: 10092925
 description: Förhandsgranska och testa en webbkampanj - Marketo Docs - produktdokumentation
 title: Förhandsgranska och testa en webbkampanj
 exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
-source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 1147019
 description: Convert Person - Marketo Docs - produktdokumentation
 title: Konvertera person
 exl-id: b0ff0b63-a6a3-48c5-92ef-7ece5c182d28
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%

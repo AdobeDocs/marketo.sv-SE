@@ -3,7 +3,8 @@ unique-page-id: 1900575
 description: Lägg till en e-postskripttoken i din e-post - Marketo Docs - produktdokumentation
 title: Lägg till en e-postskripttoken i din e-post
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Tokens
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 1147102
 description: Skapa ett bidrag i programschemavy - Marketo Docs - produktdokumentation
 title: Skapa ett inlägg i programschemavy
 exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 14746167
 description: Unsubscribe Group - Marketo Docs - produktdokumentation
 title: Avbeställ grupp
 exl-id: 43e7dc75-1a78-4f87-8054-7ed4b5a883db
-source-git-commit: 4d65c973c899543f81344d127beec502be4a8850
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%

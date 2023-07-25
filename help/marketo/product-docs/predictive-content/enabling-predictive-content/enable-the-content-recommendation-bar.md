@@ -3,7 +3,8 @@ unique-page-id: 4720108
 description: Aktivera innehållsrekommendationsfältet - Marketo Docs - produktdokumentation
 title: Aktivera innehållsrekommendationsfältet
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%
@@ -19,13 +20,12 @@ Innehållsrekommendationsmotorn använder prediktiva analyser och maskininlärni
 >Innan du aktiverar Predictive Content måste du:
 >
 >* **Förbered ditt prediktiva innehåll**
-   >
-   >   * [Redigera prediktivt innehåll för e-postmeddelanden](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) eller
-   >   * [Redigera prediktivt innehåll för multimedia](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) eller
-   >   * [Redigera prediktivt innehåll för rekommendationsfältet](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>
+>   * [Redigera prediktivt innehåll för e-postmeddelanden](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) eller
+>   * [Redigera prediktivt innehåll för multimedia](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) eller
+>   * [Redigera prediktivt innehåll för rekommendationsfältet](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
 >
 >* [Godkänn en titel för prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
-
 
 ## Aktivera och anpassa innehållsrekommendationsfältet {#enable-and-customize-the-content-recommendation-bar}
 
@@ -55,7 +55,6 @@ Innehållsrekommendationsmotorn använder prediktiva analyser och maskininlärni
    >* Använda ett semikolon som avgränsare
    >* Exempel: /contact_us&#42;; &#42;action=log&#42;
    >* Det här fältet är skiftlägeskänsligt
-
 
 ## Överväganden i rekommendationsfältet {#recommendation-bar-considerations}
 

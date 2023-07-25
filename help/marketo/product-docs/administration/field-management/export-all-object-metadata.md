@@ -2,7 +2,8 @@
 description: Exportera alla objektmetadata - Marketo Docs - produktdokumentation
 title: Exportera alla objektmetadata
 exl-id: 93ddf737-98db-4791-b526-d399c59147ee
-source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
+feature: Field Management
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 4%

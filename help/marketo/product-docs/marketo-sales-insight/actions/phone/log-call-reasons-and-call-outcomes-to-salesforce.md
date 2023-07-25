@@ -1,7 +1,9 @@
 ---
 description: Logga samtalsorsaker och samtalsresultat för Salesforce - Marketo Docs - produktdokumentation
 title: Logga samtalsorsaker och samtalsresultat till Salesforce
-source-git-commit: 0864f784d193bfc6dd7a087c9f89ce59bdff710c
+exl-id: cfe71388-282b-45e5-a817-45a951f613bc
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '464'
 ht-degree: 0%
@@ -157,4 +159,3 @@ Om du vill använda dessa fält måste du först skapa fältet som ett anpassat 
 >
 >* [Utfall för samtal](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
 >* [Samtalsorsaker](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-reasons.md)
-

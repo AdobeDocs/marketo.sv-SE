@@ -3,7 +3,8 @@ unique-page-id: 2359463
 description: Godkänn ett kodfragment - Marketo Docs - produktdokumentation
 title: Godkänn ett fragment
 exl-id: 9dd123dc-6a8c-483e-ba2b-e7dde2c97f5f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Snippets
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%

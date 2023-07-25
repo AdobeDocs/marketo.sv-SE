@@ -3,7 +3,8 @@ unique-page-id: 2359955
 description: Prestandarapport för Engagement Stream - Marketo Docs - produktdokumentation
 title: Resultatrapport för engagemangsström
 exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Engagement Programs, Reporting
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%

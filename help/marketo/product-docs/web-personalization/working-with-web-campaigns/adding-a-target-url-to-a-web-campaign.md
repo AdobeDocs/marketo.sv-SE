@@ -3,7 +3,8 @@ unique-page-id: 6094879
 description: Lägga till en mål-URL i en webbkampanj - Marketo Docs - produktdokumentation
 title: Lägga till en mål-URL i en webbkampanj
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -59,7 +60,6 @@ Klicka på plusikonen (![—](assets/image2015-2-18-8-3a40-3a59.png)) öppnas di
 >* I avancerade fall kan webbkampanjer i InZone använda jokertecken i slutet av URL-sökvägen. Exempel: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 >* URL är skiftlägeskänslig
 
-
 ## Lägga till en mål-URL för webbkampanjer i zonen {#adding-a-target-url-for-in-zone-web-campaigns}
 
 1. Gå till **Webb** **Kampanjer**.
@@ -83,4 +83,3 @@ Klicka på plusikonen (![—](assets/image2015-2-18-8-3a40-3a59.png)) öppnas di
 >* [Skapa en dialogkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 >* [Skapa en RTP i zonkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
 >* [Skapa en RTP-widgetkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
-

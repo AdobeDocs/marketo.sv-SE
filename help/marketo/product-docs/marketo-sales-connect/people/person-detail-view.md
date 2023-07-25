@@ -3,7 +3,8 @@ unique-page-id: 13796475
 description: Persondetaljvy - Marketo Docs - produktdokumentation
 title: Persondetaljvy
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
-source-git-commit: 540bb61b9accf199e2be841086a6204064762861
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%

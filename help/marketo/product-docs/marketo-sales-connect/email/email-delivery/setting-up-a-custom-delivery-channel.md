@@ -3,7 +3,8 @@ unique-page-id: 14746470
 description: Konfigurera en anpassad leveranskanal - Marketo Docs - produktdokumentation
 title: Konfigurera en anpassad leveranskanal
 exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 0%
@@ -21,7 +22,6 @@ Användare kan konfigurera en anpassad SMTP-server för egen användning, eller 
 >* Förutom att konfigurera SMTP-servern kan du [mejlidentitet måste verifieras](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md) innan du kan skicka e-post.
 >* Vi rekommenderar att du samarbetar med IT-teamet eller SMTP-serverleverantören för att få rätt serverautentiseringsuppgifter för din SMTP-server.
 >* Du kan inte ansluta Gmail- och Exchange-servern med autentiseringsuppgifterna för SMTP-servern. Använd vår e-postanslutningstjänst för att integrera med dessa leverantörer.
-
 
 ## Anpassad SMTP {#custom-smtp}
 
@@ -96,4 +96,3 @@ Användare kan konfigurera en anpassad SMTP-server för egen användning, eller 
    >* [E-postanslutning för Gmail-användare](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
    >
    >* [E-postanslutning för Outlook-användare](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
-

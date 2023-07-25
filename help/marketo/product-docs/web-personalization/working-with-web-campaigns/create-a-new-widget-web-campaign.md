@@ -3,7 +3,8 @@ unique-page-id: 4719402
 description: Skapa en ny webbkampanj för widget - Marketo Docs - Produktdokumentation
 title: Skapa en ny webbkampanj för widget
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '632'
 ht-degree: 0%
@@ -128,4 +129,3 @@ På webbkampanjsidan klickar du på **Förhandsgranska** på webbkampanjen som d
 >
 >* [Skapa en ny webbkampanj i zonen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
 >* [Skapa en ny webbkampanj för dialog](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-

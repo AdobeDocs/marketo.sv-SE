@@ -3,7 +3,8 @@ unique-page-id: 6849099
 description: Uppgradera Marketo Sales Insight Solution för Microsoft Dynamics - Marketo Docs - produktdokumentation
 title: Uppgradera Marketo Sales Insight Solution för Microsoft Dynamics
 exl-id: ddc26dc6-7552-4fac-8102-657ecd8c9445
-source-git-commit: 81bc90bcccc8073511c9f331471c0cda9f4147cb
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%

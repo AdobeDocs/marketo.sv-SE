@@ -3,7 +3,8 @@ unique-page-id: 4720796
 description: Återannonsering med data för webbanpassning - Marketo Docs - produktdokumentation
 title: Återannonsering med webbpersonaliseringsdata
 exl-id: b5af1f84-2061-4d0d-9d1f-2fff9191f028
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%

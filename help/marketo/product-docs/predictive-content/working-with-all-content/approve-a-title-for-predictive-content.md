@@ -3,7 +3,8 @@ unique-page-id: 11384661
 description: Godkänn en titel för prediktivt innehåll - Marketo Docs - produktdokumentation
 title: Godkänn en titel för prediktivt innehåll
 exl-id: 158ab21d-f5d6-452d-976e-8b50b2670b1a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%

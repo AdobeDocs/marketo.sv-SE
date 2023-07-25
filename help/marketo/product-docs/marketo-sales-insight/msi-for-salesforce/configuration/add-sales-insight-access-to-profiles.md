@@ -2,20 +2,21 @@
 description: Lägg till Sales Insight-åtkomst till profiler - Marketo Docs - produktdokumentation
 title: Lägg till åtkomst till profiler för Sales Insight
 exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
-source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
 
 # Lägg till åtkomst till profiler för Sales Insight {#add-sales-insight-access-to-profiles}
 
-Så här skapar du en profil med tillgång till Sales Insight och tar bort åtkomsten till dina andra profiler. Detta är till för användare som redan har installerat [Sales Insight AppExchange package](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target=&quot;_blank&quot;}.
+Så här skapar du en profil med tillgång till Sales Insight och tar bort åtkomsten till dina andra profiler. Detta är till för användare som redan har installerat [Sales Insight AppExchange package](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 
 >[!IMPORTANT]
 >
->Om du tidigare har gett Sales Insight tillgång till alla profiler måste du [ta bort åtkomst på profilnivå](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target=&quot;_blank&quot;} om du vill använda den här behörighetsgruppen.
+>Om du tidigare har gett Sales Insight tillgång till alla profiler måste du [ta bort åtkomst på profilnivå](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} om du vill använda den här behörighetsgruppen.
 
 ## Skapa en ny profil för Sales Insight {#create-a-new-profile-for-sales-insight}
 
@@ -48,7 +49,6 @@ Om du har en dedikerad profil för dina Sales Insight-användare kan du hoppa ö
 
    * Ändra Marketo-flikarna till Dold flik i Tabbinställningar
    * Avmarkera Läs, Skapa, Redigera och Ta bort i konfigurationen för Marketo Sales Insight i Anpassade objektbehörigheter
-
 
 1. Klicka **Spara** när det är klart.
 

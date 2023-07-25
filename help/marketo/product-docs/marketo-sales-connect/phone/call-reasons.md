@@ -2,7 +2,8 @@
 description: Samtalsorsaker - Marketo Docs - produktdokumentation
 title: Samtalsorsaker
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
-source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -85,4 +86,3 @@ När samtalsortimenten har aktiverats. Användarna kan välja ett när de ringer
 >
 >* [Logga samtalsorsaker och samtalsresultat till Salesforce](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
 >* [Utfall för samtal](/help/marketo/product-docs/marketo-sales-connect/phone/call-outcomes.md)
-

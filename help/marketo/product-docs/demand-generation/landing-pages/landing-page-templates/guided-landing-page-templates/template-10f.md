@@ -3,7 +3,8 @@ unique-page-id: 8784014
 description: Mall 10F - Marketo Docs - produktdokumentation
 title: Mall 10F
 exl-id: 9f983388-725b-4ac0-bf39-5af56035b200
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%

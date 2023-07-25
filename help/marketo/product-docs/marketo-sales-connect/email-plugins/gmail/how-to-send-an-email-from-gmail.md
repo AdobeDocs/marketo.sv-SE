@@ -3,7 +3,8 @@ unique-page-id: 14352440
 description: Skicka ett e-postmeddelande från Gmail - Marketo Docs - Produktdokumentation
 title: Skicka ett e-postmeddelande från Gmail
 exl-id: 8a036b37-984c-4298-917e-fa680657b79f
-source-git-commit: 71f221ea74a5589470c0d911a8e29ba9754a34d3
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%

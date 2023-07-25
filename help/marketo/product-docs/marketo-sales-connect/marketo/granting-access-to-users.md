@@ -2,7 +2,8 @@
 description: Bevilja åtkomst till användare - Marketo Docs - produktdokumentation
 title: Bevilja åtkomst för användare
 exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
-source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 12615804
 description: Filtrera på namngivna konton - Marketo Docs - produktdokumentation
 title: Filtrera i namngivna konton
 exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%

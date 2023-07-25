@@ -3,16 +3,17 @@ unique-page-id: 37357050
 description: Uppgraderar ditt MSI-paket - Marketo Docs - produktdokumentation
 title: Uppgraderar ditt MSI-paket
 exl-id: 45004990-8452-4824-a9b2-89cd8302fe43
-source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
 # Uppgraderar ditt MSI-paket {#upgrading-your-msi-package}
 
-1. Navigera till [den här sidan i appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO){target=&quot;_blank&quot;}.
+1. Navigera till [den här sidan i appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO){target="_blank"}.
 
 1. Logga in på din Salesforce-instans (den som är ansluten till din Marketo-instans, kan vara sandlåda eller produktion) från det övre högra hörnet på sidan från steg 1. Du måste ha administratörsbehörighet för att installera/uppgradera ett hanterat paket i Salesforce.
 
@@ -28,4 +29,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Vi rekommenderar att du bara uppdaterar paketet för administratörer och sedan [ge åtkomst till specifika användare](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;} baserat på antalet MSI-licenser som köpts. Du kan också skapa en specifik Salesforce-profil för MSI-användare och installera eller uppgradera paketet endast för dessa användare.
+>Vi rekommenderar att du bara uppdaterar paketet för administratörer och sedan [ge åtkomst till specifika användare](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"} baserat på antalet köpta MSI-licenser. Du kan också skapa en specifik Salesforce-profil för MSI-användare och installera eller uppgradera paketet endast för dessa användare.

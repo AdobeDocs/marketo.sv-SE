@@ -3,7 +3,8 @@ unique-page-id: 2359685
 description: Engagement Dashboard - Marketo Docs - produktdokumentation
 title: Instrumentpanelen för engagemang
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Engagement Programs, Reporting
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 0%

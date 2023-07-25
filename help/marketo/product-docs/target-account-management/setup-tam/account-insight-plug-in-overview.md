@@ -3,7 +3,8 @@ unique-page-id: 12979282
 description: Översikt över plugin-programmet Account Insight - Marketo Docs - produktdokumentation
 title: Översikt över plugin-programmet Account Insight
 exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
-source-git-commit: 90b2f0f251f0c5805188731d0a2e4deedf720d70
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 14746184
 description: Avbeställ historikkort - Marketo Docs - produktdokumentation
 title: Avbeställ historikkort
 exl-id: ae44552d-7f9e-4f5c-bb22-62c55b63f3e6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%

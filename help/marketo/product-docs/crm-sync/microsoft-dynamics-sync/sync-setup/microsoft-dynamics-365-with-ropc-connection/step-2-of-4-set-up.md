@@ -2,7 +2,8 @@
 description: Steg 2 av 4 - Konfigurera Marketo Solution med Resource Owner Password Control Connection - Marketo Docs - Product Documentation
 title: Steg 2 av 4 - Konfigurera Marketo Solution med Resource Owner Password Control Connection
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
-source-git-commit: 19c568cdc3d31d07e42e99eb7e48f10a017b44f9
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 14352541
 description: Synkroniserar Sales Connect-uppgifter med Salesforce för första gången - Marketo Docs - produktdokumentation
 title: Synkroniserar Sales Connect-aktiviteter med Salesforce för första gången
 exl-id: 42ac6b4f-76ac-40d7-9e10-7e0d3886a638
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%

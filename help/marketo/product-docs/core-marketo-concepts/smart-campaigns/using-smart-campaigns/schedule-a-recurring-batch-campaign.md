@@ -3,7 +3,8 @@ unique-page-id: 1146972
 description: Schemalägg en återkommande batchkampanj - Marketo Docs - produktdokumentation
 title: Schemalägg en återkommande batchkampanj
 exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%

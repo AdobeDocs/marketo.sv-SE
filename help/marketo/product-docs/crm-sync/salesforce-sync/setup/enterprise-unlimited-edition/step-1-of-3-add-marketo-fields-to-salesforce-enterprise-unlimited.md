@@ -3,7 +3,8 @@ unique-page-id: 2360362
 description: Steg 1 av 3 -Lägg till Marketo-fält i Salesforce (Enterprise/Unlimited) - Marketo Docs - Produktdokumentation
 title: Steg 1 av 3 -Lägg till Marketo-fält i Salesforce (Enterprise/Unlimited)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
-source-git-commit: 7de9b708626172aa6fa0a2fcb87c8aa534d5e9f7
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '784'
 ht-degree: 0%

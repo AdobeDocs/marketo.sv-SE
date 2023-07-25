@@ -2,7 +2,8 @@
 description: Standardfältmappning för Dynamics - Marketo Docs - produktdokumentation
 title: Fältmappning för standardDynamics
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
-source-git-commit: d87809e12f153d025f8d013ea52e06c0b6530154
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '829'
 ht-degree: 13%

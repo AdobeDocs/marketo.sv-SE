@@ -3,7 +3,8 @@ unique-page-id: 1147070
 description: Exportera smarta kampanjresultat till Excel - Marketo Docs - produktdokumentation
 title: Exportera smarta kampanjresultat till Excel
 exl-id: 32aa55d7-dd10-40b9-b3f8-c767e513f103
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%

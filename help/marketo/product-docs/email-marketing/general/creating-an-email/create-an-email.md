@@ -3,7 +3,8 @@ unique-page-id: 10912163
 description: Skapa ett e-postmeddelande - Marketo Docs - produktdokumentation
 title: Skapa ett e-postmeddelande
 exl-id: 58388c21-d3f7-4101-a375-05e9b68a278e
-source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 7515886
 description: Mall 1B - Marketo Docs - produktdokumentation
 title: Mall 1B
 exl-id: b6085e44-b40c-4f09-a301-057179f5fe0b
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%

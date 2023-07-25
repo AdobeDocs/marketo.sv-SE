@@ -3,7 +3,8 @@ unique-page-id: 10097969
 description: Skapa en mall för landningssida i fri form - Marketo Docs - Produktdokumentation
 title: Skapa en mall för landningssida i fri form
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -50,4 +51,3 @@ För landningssidor i fri form krävs mindre teknisk kunskap än för deras styr
    >* [Skapa en landningssida med valfri form](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
    >* [Skapa en mall för guidad landningssida](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
    >* [Förstå frihandssidor jämfört med sidor med guidad landning](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
-

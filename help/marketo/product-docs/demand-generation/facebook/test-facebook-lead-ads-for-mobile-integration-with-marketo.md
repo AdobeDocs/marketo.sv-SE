@@ -3,7 +3,8 @@ unique-page-id: 10098759
 description: Testa Facebook Lead Ads för mobilintegrering med Marketo - Marketo Docs - produktdokumentation
 title: Testa Facebook Lead Ads för mobilintegrering med Marketo
 exl-id: 0c381c53-f97a-4e1d-b44d-5ee6521ac990
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%

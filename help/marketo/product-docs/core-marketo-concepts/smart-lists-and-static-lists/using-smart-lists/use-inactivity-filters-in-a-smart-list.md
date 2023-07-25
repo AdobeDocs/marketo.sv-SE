@@ -3,7 +3,8 @@ unique-page-id: 7511477
 description: Använd inaktivitetsfilter i en smart lista - Marketo Docs - produktdokumentation
 title: Använd inaktivitetsfilter i en smart lista
 exl-id: 9e00c864-db3f-46cd-b65d-e4fd49d89ff5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%

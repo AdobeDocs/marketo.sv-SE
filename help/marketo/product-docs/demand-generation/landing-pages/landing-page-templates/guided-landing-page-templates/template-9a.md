@@ -3,7 +3,8 @@ unique-page-id: 8783981
 description: Mall 9A - Marketo Docs - produktdokumentation
 title: Mall 9A
 exl-id: cc729eee-224b-4acd-87d8-7fb9155d73fb
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 1147015
 description: Change Engagement Program Stream - Marketo Docs - produktdokumentation
 title: Change Engagement Program Stream
 exl-id: 1b8dd04b-3af8-4733-b630-b06c4b06bb75
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%

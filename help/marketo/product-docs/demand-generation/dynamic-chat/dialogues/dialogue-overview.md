@@ -2,9 +2,10 @@
 description: Översikt - Marketo Docs - produktdokumentation
 title: Översikt över dialogrutan
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
-source-git-commit: f71ac0398b3a93d2c46201a696dd41e6ccd89000
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -15,19 +16,19 @@ Dialogrutor är individuella chattsamtal. I varje dialogruta bestämmer du var d
 
 ## Målgruppskriterier {#audience-criteria}
 
-The [Målgruppskriterier](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)I {target=&quot;_blank&quot;} i en dialogruta kan du definiera var och till vem chattkonversationen ska visas
+The [Målgruppskriterier](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"} i en dialogruta är där du ska definiera var och till vem chattkonversationen ska visas
 
 ![](assets/dialogue-overview-1.png)
 
 ## Stream Designer {#stream-designer}
 
-The [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)I {target=&quot;_blank&quot;} i en dialogruta kan du utforma konversationen som du vill ha med webbplatsens besökare.
+The [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"} i en dialogruta där du utformar konversationen som du vill ha med webbplatsbesökarna.
 
 ![](assets/dialogue-overview-2.png)
 
 ## Rapporter {#reports}
 
-The [Rapporter](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md)I avsnittet {target=&quot;_blank&quot;} i en dialogruta kan du se mätvärden för hur bra din dialogruta fungerar.
+The [Rapporter](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"} i en dialogruta är där du kan se mätvärden för hur bra din dialog fungerar.
 
 ![](assets/dialogue-overview-3.png)
 
@@ -35,7 +36,7 @@ The [Rapporter](/help/marketo/product-docs/demand-generation/dynamic-chat/dialog
 
 Du kan inaktivera (och återaktivera) alla publicerade dialogrutor samtidigt.
 
-1. Klicka på knappen **Konfiguration** -fliken.
+1. I Dynamic Chat klickar du på **Konfiguration** -fliken.
 
    ![](assets/dialogue-overview-4.png)
 

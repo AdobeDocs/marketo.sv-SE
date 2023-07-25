@@ -3,7 +3,8 @@ unique-page-id: 557316
 description: Definiera smarta listfilter - Marketo Docs - produktdokumentation
 title: Definiera smarta listfilter
 exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
-source-git-commit: 4b1b91a933a7a6d103fe0d44ece9ea95759edc5f
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -16,7 +17,6 @@ ht-degree: 0%
 >
 >* [Skapa en smart lista](create-a-smart-list.md)
 >* [Söka efter och lägga till filter i smarta listor](find-and-add-filters-to-a-smart-list.md)
-
 
 Nu när du har [skapade en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) och [tillagda filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md) så definierar vi filtren. Så här gör du.
 

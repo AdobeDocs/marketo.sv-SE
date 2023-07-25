@@ -3,7 +3,8 @@ unique-page-id: 2359665
 description: Set Stream Cadence - Marketo Docs - produktdokumentation
 title: Ange strömavslut
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Engagement Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -110,4 +111,3 @@ Nu vet du hur man lägger upp en strömcadence!
 >
 >* [Förstå mottagartidszon](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 >* [Schemalägg engagemangsprogram med mottagartidszon](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
-

@@ -3,7 +3,8 @@ unique-page-id: 8783555
 description: Skapa en favorit - Marketo Docs - produktdokumentation
 title: Skapa en favorit
 exl-id: 017ae477-02e2-42de-a1b0-1f9a215ef73b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '32'
 ht-degree: 0%

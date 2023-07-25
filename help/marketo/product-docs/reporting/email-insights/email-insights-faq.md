@@ -3,7 +3,8 @@ unique-page-id: 10100257
 description: Vanliga frågor om e-postinsikter - Marketo Docs - produktdokumentation
 title: Vanliga frågor om e-postinsikter
 exl-id: de3aca5a-08b4-4af8-ab92-675cb46dcbb2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '600'
 ht-degree: 0%

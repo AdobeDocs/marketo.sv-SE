@@ -3,7 +3,8 @@ unique-page-id: 13795510
 description: TAM Hierarchies - Marketo Docs - produktdokumentation
 title: TAM-hierarkier
 exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 14352489
 description: Det gick inte att logga in på aktivitetshistorik - Marketo Docs - produktdokumentation
 title: Loggade inte till aktivitetshistorik
 exl-id: 4870cd09-86d4-4dff-919c-0584bbc844d2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%

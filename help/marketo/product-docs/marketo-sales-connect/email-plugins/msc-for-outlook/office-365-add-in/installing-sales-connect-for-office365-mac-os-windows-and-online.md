@@ -3,7 +3,8 @@ unique-page-id: 14352455
 description: Installera Sales Connect för Office365 Mac OS, Windows och Online - Marketo Docs - produktdokumentation
 title: Installera Sales Connect för Office365 Mac OS, Windows och Online
 exl-id: ff741d1b-caa5-49c3-b1e0-afd69c283e8c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%

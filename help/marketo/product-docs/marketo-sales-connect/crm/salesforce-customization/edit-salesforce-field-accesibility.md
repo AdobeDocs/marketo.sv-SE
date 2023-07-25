@@ -3,7 +3,8 @@ unique-page-id: 14352472
 description: Redigera Salesforce-fälttillgänglighet - Marketo Docs - produktdokumentation
 title: Redigera Salesforce-fälttillgänglighet
 exl-id: e4ef29c8-f6ab-4dca-b56e-907c7d2e5263
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%

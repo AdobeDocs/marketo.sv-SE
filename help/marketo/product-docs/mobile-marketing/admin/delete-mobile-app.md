@@ -3,7 +3,8 @@ unique-page-id: 7512442
 description: Ta bort mobilapp - Marketo Docs - produktdokumentation
 title: Ta bort mobilapp
 exl-id: 048b7d05-87c2-4667-a663-27d782ab2ef1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%

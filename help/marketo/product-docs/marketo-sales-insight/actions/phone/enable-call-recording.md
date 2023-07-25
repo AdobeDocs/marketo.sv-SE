@@ -2,7 +2,8 @@
 description: Aktivera samtalsinspelning - Marketo Docs - produktdokumentation
 title: Aktivera samtalsinspelning
 exl-id: 85a271f7-5cd9-4660-80b3-60742b743979
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%

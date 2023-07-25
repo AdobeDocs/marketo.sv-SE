@@ -2,7 +2,8 @@
 description: Mallengagemang - Marketo Docs - produktdokumentation
 title: Mallengagemang
 exl-id: b59677a9-8192-4c80-9105-42192a128ef7
-source-git-commit: 86efc123deee0710e13acf0510236c76b93250fd
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%

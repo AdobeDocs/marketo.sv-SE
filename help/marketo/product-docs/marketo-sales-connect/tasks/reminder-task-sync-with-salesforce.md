@@ -2,7 +2,8 @@
 description: Synkronisering av påminnelseuppgifter med Salesforce - Marketo Docs - produktdokumentation
 title: Synkronisering av påminnelseaktivitet med Salesforce
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
-source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 0%

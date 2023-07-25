@@ -3,7 +3,8 @@ unique-page-id: 2359866
 description: Hämta bilderna från en webbsida - Marketo Docs - produktdokumentation
 title: Hämta bilderna från en webbsida
 exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Image Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -50,4 +51,3 @@ Snyggt jobbat, överordnad!
 >* [Ordna dina bilder och filer med hjälp av mappar](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
 >* [Hitta URL-adressen till en överförd bild eller fil](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
 >* [Överför bilder och filer från Box](/help/marketo/product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
-

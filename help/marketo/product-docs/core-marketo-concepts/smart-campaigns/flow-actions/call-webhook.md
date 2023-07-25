@@ -3,7 +3,8 @@ unique-page-id: 1147023
 description: Ring Webkrok - Marketo Docs - produktdokumentation
 title: Ring webkrok
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%

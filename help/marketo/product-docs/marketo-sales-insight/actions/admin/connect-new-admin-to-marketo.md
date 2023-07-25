@@ -2,7 +2,8 @@
 description: Connect New Admin to Marketo - Marketo Docs - Product Documentation
 title: Anslut ny administratör till Marketo
 exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
-source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '494'
 ht-degree: 0%

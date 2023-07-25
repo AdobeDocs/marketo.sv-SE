@@ -3,7 +3,8 @@ unique-page-id: 4720149
 description: Implementera RTP i Wordpress - Marketo Docs - produktdokumentation
 title: Implementera RTP i Wordpress
 exl-id: f010942b-02bb-447b-a272-c4237782b2d7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%

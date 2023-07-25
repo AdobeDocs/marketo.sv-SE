@@ -3,7 +3,8 @@ unique-page-id: 4719344
 description: Skapa ett enkelt webbsegment - Marketo Docs - produktdokumentation
 title: Skapa ett enkelt webbsegment
 exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 7514898
 description: Konfigurera en utlösare smart kampanj för försäljning med"Campaign is Requested" - Marketo Docs - Product Documentation
 title: Konfigurera en utlösare smart kampanj för försäljning med"Campaign is Requested"
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -20,7 +21,6 @@ En av de coolaste funktionerna i Marketo är möjligheten att låta säljarna de
 >
 >1. **Långsiktig vårdnad** - när de inte har någon budget i år och du bara vill stanna på radarn
 >1. **Aktiv försäljningscykel** - när säljaren inte vill ha några meddelanden till personen förutom sina egna. (använd den flagga som anger att marknadsföringen har pausats för att tillfälligt avbryta prenumerationen)
-
 >
 >Var kreativ. Vad vill säljaren automatisera? Fråga dem bara och vrida upp den!
 

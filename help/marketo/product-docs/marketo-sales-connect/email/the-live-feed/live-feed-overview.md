@@ -3,7 +3,8 @@ unique-page-id: 13796471
 description: Live Feed Overview - Marketo Docs - produktdokumentation
 title: Översikt över Live-feed
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
@@ -32,7 +33,6 @@ Personer markerade med en blå linje representerar engagemang med e-post som ski
 >
 >* Om din mottagare var inloggad på det trådlösa nätverket för ett företag som har sitt IT-huvudkontor i en annan stad eller ett annat land loggar vi den platsen i stället för mottagarens aktuella språkområde.
 >* Om e-postmeddelandet har vidarebefordrats eller öppnats av någon i fältet CC/BCC försöker vi visa platsen för dessa personer korrekt.
-
 
 ## Fliken Åtgärder {#tasks-tab}
 

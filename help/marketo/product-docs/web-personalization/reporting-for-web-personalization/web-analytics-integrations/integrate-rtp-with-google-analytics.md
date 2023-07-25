@@ -3,7 +3,8 @@ unique-page-id: 2949158
 description: Integrera RTP med Google Analytics - Marketo Docs - produktdokumentation
 title: Integrera RTP med Google Analytics
 exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '608'
 ht-degree: 0%

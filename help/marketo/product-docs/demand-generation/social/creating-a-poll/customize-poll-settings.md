@@ -3,7 +3,8 @@ unique-page-id: 2359774
 description: Anpassa omröstningsinställningar - Marketo Docs - produktdokumentation
 title: Anpassa inställningar för omröstning
 exl-id: 72379bc7-9457-4285-9cc2-02dc0c1f3966
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%

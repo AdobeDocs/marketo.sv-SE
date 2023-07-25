@@ -3,7 +3,8 @@ unique-page-id: 3571927
 description: Webbpersonaliseringsordlista - Marketo Docs - produktdokumentation
 title: Ordlista för webbpersonalisering
 exl-id: 82f7aa62-0b5a-4d34-865c-aa77c1b0b0e7
-source-git-commit: de32becbfe74c2a88c53de8af8be4ee022782114
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%

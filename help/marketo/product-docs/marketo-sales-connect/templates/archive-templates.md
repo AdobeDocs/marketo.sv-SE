@@ -3,7 +3,8 @@ unique-page-id: 14352640
 description: Arkivmallar - Marketo Docs - produktdokumentation
 title: Arkivmallar
 exl-id: 7cbb9230-e454-4e31-a987-83ce349db1da
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%

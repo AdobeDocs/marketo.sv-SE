@@ -3,7 +3,8 @@ unique-page-id: 557326
 description: Använd Snabbsökning i en lista eller smart lista - Marketo Docs - produktdokumentation
 title: Använd snabbsökning i en lista eller smart lista
 exl-id: c8ec3d13-0432-400a-acd8-13df709bc29e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%

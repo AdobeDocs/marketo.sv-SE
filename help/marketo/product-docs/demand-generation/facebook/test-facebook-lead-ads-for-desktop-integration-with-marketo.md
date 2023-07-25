@@ -3,7 +3,8 @@ unique-page-id: 11370892
 description: Testa Facebook Lead Ads för datorintegrering med Marketo - Marketo Docs - produktdokumentation
 title: Testa Facebook Lead Ads för integrering med Marketo
 exl-id: 2025b6e9-ecd7-4677-9f76-bc7813884e93
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%

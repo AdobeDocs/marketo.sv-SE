@@ -3,7 +3,8 @@ unique-page-id: 4719294
 description: Synkronisera anpassade aktiviteter - Marketo Docs - Produktdokumentation
 title: Synkronisera anpassade aktiviteter
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%

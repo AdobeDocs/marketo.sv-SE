@@ -4,7 +4,8 @@ title: Svarsloggning
 hide: true
 hidefromtoc: true
 exl-id: a89e8212-83cb-4987-abc9-76c5fd74c152
-source-git-commit: d960f0ad0d944bd2e74543f3ab15b59a8040b768
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 0%

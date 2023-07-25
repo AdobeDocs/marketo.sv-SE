@@ -3,7 +3,8 @@ unique-page-id: 10098812
 description: Ställ in intäktsattribuering för digitala annonskampanjer - Marketo Docs - produktdokumentation
 title: Ställ in intäktsattribuering för digitala annonskampanjer
 exl-id: 7fb16c5f-7e76-429b-8b01-b5a1dd898158
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '835'
 ht-degree: 0%
@@ -23,7 +24,6 @@ Med separata program kan ni sedan spåra antalet konverteringar från var och en
 >* Konfigurera en kanaltagg med statusvärden och programframgångar (t.ex. Digital Advertising eller Social Paid och PPC)
 >* Skapa eller redigera ett formulär för att skicka en frågesträng via personen
 >* Se till att ni har tillgång till vissa funktioner i IntäktsCycle Analytics för att rapportera om era annonskanaler och kampanjer
-
 
 ## Skapa ett standardprogram {#create-a-default-program}
 
@@ -112,7 +112,6 @@ Skapa den nya annonsen när du har konfigurerat programmet och kampanjerna.
    >* **kommentar** är den unika identifieraren som skapas för varje program
    >* **läger** är kampanjen i Facebook, LinkedIn eller Google
    >* **kk** är nyckelordet eller resursnamnet som du vill hämta
-
    >
    >**De här fyra termerna måste vara gemena och det får inte finnas några blanksteg i URL:en för att informationen ska kunna hämtas.**
 

@@ -3,9 +3,10 @@ unique-page-id: 11385020
 description: Aktivera prediktivt innehåll i e-postmeddelanden - Marketo Docs - produktdokumentation
 title: Aktivera prediktivt innehåll i e-postmeddelanden
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
-source-git-commit: 4b1b91a933a7a6d103fe0d44ece9ea95759edc5f
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '399'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -23,13 +24,12 @@ Gör en eller flera bilder i ditt e-postmeddelande prediktiva och skräddarsy up
 >Innan du aktiverar Predictive Content måste du:
 >
 >* **Förbered ditt prediktiva innehåll**
-   >
-   >   * [Redigera prediktivt innehåll för e-postmeddelanden](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target=&quot;_blank&quot;} eller
-   >   * [Redigera prediktivt innehåll för multimedia](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target=&quot;_blank&quot;} eller
-   >   * [Redigera prediktivt innehåll för rekommendationsfältet](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target=&quot;_blank&quot;}
 >
->* [Godkänn en titel för prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target=&quot;_blank&quot;}
-
+>   * [Redigera prediktivt innehåll för e-postmeddelanden](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target="_blank"} eller
+>   * [Redigera prediktivt innehåll för multimedia](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target="_blank"} eller
+>   * [Redigera prediktivt innehåll för rekommendationsfältet](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target="_blank"}
+>
+>* [Godkänn en titel för prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"}
 
 ## Lägga till prediktivt innehåll med e-postredigeraren 2.0 {#adding-predictive-content-using-the-email-editor}
 
@@ -85,9 +85,9 @@ När du har godkänt ditt e-postmeddelande kommer det att vara försett med pred
 
 ## Lägga till prediktivt innehåll när du inte använder e-postredigeraren 2.0 {#adding-predictive-content-when-not-using-the-email-editor}
 
-Om du inte använder en [E-post 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)Mallen {target=&quot;_blank&quot;} kan du lägga till prediktivt innehåll i e-postmeddelandet genom att helt enkelt tagga en bild i mallen som ett redigerbart bildelement i Marketo.
+Om du inte använder en [E-post 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md){target="_blank"} -mall kan du lägga till prediktivt innehåll i e-postmeddelandet genom att helt enkelt tagga en bild i mallen som ett redigerbart Marketo-bildelement.
 
-Läs mer om [Marketo-specifik syntax här](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements){target=&quot;_blank&quot;}.
+Läs mer om [Marketo-specifik syntax här](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements){target="_blank"}.
 
 Här är ett exempel på hur koden ska se ut (det här är bara ett exempel, kopiera inte koden nedan exakt).
 

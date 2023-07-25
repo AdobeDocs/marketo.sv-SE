@@ -3,7 +3,8 @@ unique-page-id: 4719310
 description: Aktivera/inaktivera Salesforce-synkronisering - Marketo Docs - produktdokumentation
 title: Aktivera/inaktivera Salesforce-synkronisering
 exl-id: 3238f149-6aa3-4207-aae9-e404cf519414
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%

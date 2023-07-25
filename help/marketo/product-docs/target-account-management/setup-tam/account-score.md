@@ -3,7 +3,8 @@ unique-page-id: 11380774
 description: Kontopoäng - Marketo Docs - produktdokumentation
 title: Kontopoäng
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%

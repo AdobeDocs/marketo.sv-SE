@@ -3,7 +3,8 @@ unique-page-id: 10093041
 description: Redigera en prenumeration på en smart lista - Marketo Docs - produktdokumentation
 title: Redigera en prenumeration på en smart lista
 exl-id: f745c887-c8f8-44bc-a0fe-da0669155ef9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%

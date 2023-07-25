@@ -3,7 +3,8 @@ unique-page-id: 14352504
 description: Mallengagemang - Marketo Docs - produktdokumentation
 title: Mallengagemang
 exl-id: 368e1dae-26bf-42a1-9525-6c0cd9e64e23
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 2953473
 description: SFDC-synkronisering - Aktivitetssynkronisering - Marketo Docs - Produktdokumentation
 title: SFDC-synkronisering - aktivitetssynkronisering
 exl-id: 780e9cb7-b8b2-4a79-a0b8-d9d34a655330
-source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%

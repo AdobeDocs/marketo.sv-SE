@@ -3,7 +3,8 @@ unique-page-id: 2360247
 description: Ändra standardvärdet från e-post och från etikett - Marketo Docs - produktdokumentation
 title: Ändra standard från e-post och från etikett
 exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Email Setup
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 1%

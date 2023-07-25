@@ -3,7 +3,8 @@ unique-page-id: 5472283
 description: Anpassa mobilvyn för din startsida med kostnadsfria formulär - Marketo Docs - Produktdokumentation
 title: Anpassa mobilvyn för din startsida med kostnadsfria formulär
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 0%
@@ -50,7 +51,7 @@ Som standard visas allt i skrivbordsvyn i mobilvyn.
 * Använd endast Forms 2.0-formulär. De är responsiva och justeras automatiskt.
 * Det går bara att redigera ett mallelement, BODY#bodyid (mobil). Du kan använda det här alternativet om du vill ändra bakgrundsfärgen.
 
-   ![](assets/image2015-5-21-15-3a15-3a47.png)
+  ![](assets/image2015-5-21-15-3a15-3a47.png)
 
 ## Dölja ett element från mobilvyn {#hide-an-element-from-the-mobile-view}
 

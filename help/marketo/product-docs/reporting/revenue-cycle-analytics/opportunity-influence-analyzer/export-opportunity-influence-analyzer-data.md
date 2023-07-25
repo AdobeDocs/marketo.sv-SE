@@ -3,7 +3,8 @@ unique-page-id: 2360394
 description: Exportera data för påverkansanalys för affärsmöjlighet - Marketo Docs - produktdokumentation
 title: Exportera data för påverkansanalys för affärsmöjlighet
 exl-id: 081c94fa-8f56-489e-85d3-ca4bf4da65fa
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%

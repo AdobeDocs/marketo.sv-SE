@@ -3,7 +3,8 @@ unique-page-id: 11379060
 description: Kontrollpanelen för SMS-meddelanden - Marketo Docs - Produktdokumentation
 title: Kontrollpanelen för SMS-meddelanden
 exl-id: a08fb3d9-f2fa-40d4-9cba-5c404e8574b8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%

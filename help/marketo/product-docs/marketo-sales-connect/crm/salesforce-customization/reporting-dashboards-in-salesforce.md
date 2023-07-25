@@ -3,7 +3,8 @@ unique-page-id: 14352464
 description: Rapportera instrumentpaneler i Salesforce - Marketo Docs - produktdokumentation
 title: Rapportera instrumentpaneler i Salesforce
 exl-id: f27ba3e1-210b-46df-81b5-e794826d36c7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%

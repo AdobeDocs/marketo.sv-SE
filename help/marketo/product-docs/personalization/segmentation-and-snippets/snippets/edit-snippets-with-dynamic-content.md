@@ -3,7 +3,8 @@ unique-page-id: 2359466
 description: Redigera fragment med dynamiskt innehåll - Marketo Docs - produktdokumentation
 title: Redigera fragment med dynamiskt innehåll
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Snippets
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -16,7 +17,6 @@ ht-degree: 0%
 >
 >* [Skapa en segmentering](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [Skapa ett fragment](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
-
 
 Använd Segmentering i kodfragment för att enkelt hantera dynamiskt innehåll i e-postmeddelanden och på landningssidor.
 
@@ -54,4 +54,3 @@ Var inte det enkelt? Nu kan du börja använda de här fragmenten på e-postmedd
 >
 >* [Lägga till ett kodfragment i ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
 >* [Lägga till ett kodfragment på en landningssida](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
-

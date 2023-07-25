@@ -3,7 +3,8 @@ unique-page-id: 11377406
 description: Redigera din standardprofileringsdomän med arbetsytor - Marketo Docs - Produktdokumentation
 title: Redigera din standardprofileringsdomän med arbetsytor
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Email Setup
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 1%

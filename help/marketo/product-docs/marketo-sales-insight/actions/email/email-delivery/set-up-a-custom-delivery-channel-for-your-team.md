@@ -2,7 +2,8 @@
 description: Konfigurera en anpassad leveranskanal för ditt team - Marketo Docs - produktdokumentation
 title: Konfigurera en anpassad leveranskanal för ditt team
 exl-id: e7ba524c-a0d2-4c2b-95ba-20b9d830f18c
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -20,7 +21,6 @@ ht-degree: 0%
 >* Förutom att konfigurera SMTP-servern kan du [mejlidentitet måste verifieras](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md) innan du kan skicka e-post.
 >* Vi rekommenderar att du samarbetar med IT-teamet eller SMTP-serverleverantören för att få rätt serverautentiseringsuppgifter för din SMTP-server.
 >* Du kan inte ansluta Gmail- och Exchange-servern med autentiseringsuppgifterna för SMTP-servern. Använd vår e-postanslutningstjänst för att integrera med dessa leverantörer.
-
 
 1. Klicka på kugghjulsikonen och välj **Inställningar**.
 
@@ -46,4 +46,3 @@ ht-degree: 0%
    >
    >* [E-postanslutning för Gmail-användare](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
    >* [E-postanslutning för Outlook-användare](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
-

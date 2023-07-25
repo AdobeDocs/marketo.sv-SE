@@ -3,7 +3,8 @@ unique-page-id: 2360199
 description: Group Person Reports by Attribute - Marketo Docs - produktdokumentation
 title: Gruppera personrapporter efter attribut
 exl-id: 853f6536-cbeb-4ef0-8f23-118c99a2b18e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%

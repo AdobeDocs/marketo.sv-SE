@@ -3,9 +3,10 @@ unique-page-id: 7514956
 description: Aktivera prediktivt innehåll för multimedia för webben - Marketo Docs - produktdokumentation
 title: Aktivera prediktivt innehåll för multimedia för webben
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
-source-git-commit: 4b1b91a933a7a6d103fe0d44ece9ea95759edc5f
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -23,13 +24,12 @@ Prediktivt innehåll engagerar webbbesökarna med det mest relevanta innehållet
 >Innan du aktiverar Predictive Content måste du:
 >
 >* **Förbered ditt prediktiva innehåll**
-   >
-   >   * [Redigera prediktivt innehåll för e-postmeddelanden](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target=&quot;_blank&quot;} eller
-   >   * [Redigera prediktivt innehåll för multimedia](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target=&quot;_blank&quot;} eller
-   >   * [Redigera prediktivt innehåll för rekommendationsfältet](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target=&quot;_blank&quot;}
 >
->* [Godkänn en titel för prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target=&quot;_blank&quot;}
-
+>   * [Redigera prediktivt innehåll för e-postmeddelanden](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target="_blank"} eller
+>   * [Redigera prediktivt innehåll för multimedia](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target="_blank"} eller
+>   * [Redigera prediktivt innehåll för rekommendationsfältet](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target="_blank"}
+>
+>* [Godkänn en titel för prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"}
 
 När du har förberett innehållets titel, beskrivning och bild för multimedia kan du aktivera enskilda eller flera innehållskomponenter.
 
@@ -47,7 +47,7 @@ När du har förberett innehållets titel, beskrivning och bild för multimedia 
 
 ## Anpassa JavaScript-koden och bädda in den på din webbplats  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Mer information finns i dokumentationen till mallen för multimedierekommendationer [på webbplatsen Marketo Developers](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api){target=&quot;_blank&quot;}. Detta förklarar hur du anpassar mallen för webbplatsen.
+Mer information finns i dokumentationen till mallen för multimedierekommendationer [på webbplatsen Marketo Developers](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api){target="_blank"}. Detta förklarar hur du anpassar mallen för webbplatsen.
 
 Klistra in JavaScript-koden på webbplatsen där du vill att mallen ska visas.
 

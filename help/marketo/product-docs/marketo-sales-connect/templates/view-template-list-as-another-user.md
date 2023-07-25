@@ -3,7 +3,8 @@ unique-page-id: 18317369
 description: Visa malllista som en annan användare - Marketo Docs - produktdokumentation
 title: Visa malllista som en annan användare
 exl-id: 5640168d-fe87-4cb1-8262-349f8798a3da
-source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%

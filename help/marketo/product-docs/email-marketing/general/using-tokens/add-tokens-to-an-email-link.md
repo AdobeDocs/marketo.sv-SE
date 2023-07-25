@@ -3,7 +3,8 @@ unique-page-id: 1147360
 description: Lägg till token i en e-postlänk - Marketo Docs - produktdokumentation
 title: Lägg till token i en e-postlänk
 exl-id: b04d279a-b71a-4975-9992-23a51d075856
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Tokens
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%

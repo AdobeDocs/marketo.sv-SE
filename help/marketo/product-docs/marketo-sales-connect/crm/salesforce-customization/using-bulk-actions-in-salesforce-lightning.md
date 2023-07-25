@@ -3,7 +3,8 @@ unique-page-id: 42762825
 description: Använda gruppåtgärder i Salesforce Lightning - Marketo Docs - produktdokumentation
 title: Använda gruppåtgärder i Salesforce Lightning
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
@@ -85,4 +86,3 @@ Lär dig hur du utför satsvisa åtgärder, som att lägga till leads till en ka
 >
 >* [Skicka e-post via gruppe-post](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
 >* [Disponera massutskick med Markera och skicka](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
-

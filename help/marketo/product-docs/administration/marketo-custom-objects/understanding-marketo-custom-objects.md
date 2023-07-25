@@ -3,7 +3,8 @@ unique-page-id: 10093188
 description: Förstå anpassade Marketo-objekt - Marketo Docs - produktdokumentation
 title: Förstå anpassade Marketo-objekt
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
-source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+feature: Custom Objects
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '662'
 ht-degree: 0%
@@ -104,4 +105,3 @@ Se [Importera anpassade objektdata](/help/marketo/product-docs/administration/ma
 >* [Lägg till anpassade Marketo-objektfält](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
 >* [Redigera och ta bort anpassade Marketo-objektfält](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
 >* [Importera anpassade objektdata](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
-

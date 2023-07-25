@@ -3,7 +3,8 @@ unique-page-id: 11384438
 description: TAM Report Setup - Marketo Docs - Product Documentation
 title: Inställningar för TAM-rapport
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%

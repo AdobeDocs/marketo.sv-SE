@@ -3,7 +3,8 @@ unique-page-id: 4719396
 description: Hitta webbkampanjer som använder ett visst segment - Marketo Docs - produktdokumentation
 title: Hitta webbkampanjer som använder ett visst segment
 exl-id: 3d180fdf-dfd3-4e56-b50d-faad9b0dc93a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%

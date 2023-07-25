@@ -3,7 +3,8 @@ unique-page-id: 2950549
 description: Konfigurera socialt rekommenderat flöde - Marketo Docs - produktdokumentation
 title: Konfigurera socialt rekommenderat flöde
 exl-id: 01b54215-4a0c-4639-80d2-ec30603b3695
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '515'
 ht-degree: 0%
@@ -84,7 +85,7 @@ Om du väljer det här alternativet läggs värdena för sidans OpenGraph-taggar
 
    >[!TIP]
    >
-   >Använd {html_title} i tweettexten för att visa sidans titel automatiskt.
+   >Använd {html_title} i tweettexten så att sidans rubrik visas automatiskt.
 
 1. Klicka **Nästa**.
 
@@ -104,7 +105,7 @@ Om du väljer det här alternativet läggs värdena för sidans OpenGraph-taggar
 
    >[!TIP]
    >
-   >Använd {html_title} i din inläggstext för att visa sidans rubrik automatiskt.
+   >Använd {html_title} i din inläggstext för att visa sidans titel automatiskt.
 
 1. Om du valde **Lägg till statisk** ovan, redigera titel och beskrivning och överför en anpassad bild (från dina Marketo-bilder och filer).
 

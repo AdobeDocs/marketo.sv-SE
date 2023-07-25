@@ -3,7 +3,8 @@ unique-page-id: 2359566
 description: Redigera en fältetikett i ett formulär - Marketo Docs - Produktdokumentation
 title: Redigera en fältetikett i ett formulär
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%

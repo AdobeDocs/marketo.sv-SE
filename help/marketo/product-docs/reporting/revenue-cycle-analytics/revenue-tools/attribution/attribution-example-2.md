@@ -3,7 +3,8 @@ unique-page-id: 7514146
 description: Attribution Example 2 - Marketo Docs - Product Documentation
 title: Attribut - exempel 2
 exl-id: 8f00abb5-85f8-4f05-874e-57aa6442548c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -46,7 +47,6 @@ Läs följande scenario och försök fastställa vilka tal som ska finnas i rutn
 >1. Du kan inte ge mer beröm än du har fått
 >1. Du kan inte tillgodoräkna dig något som hänt tidigare
 
-
 Prova alla exempel så blir du ett attribueringsproffs!
 
 >[!MORELIKETHIS]
@@ -54,4 +54,3 @@ Prova alla exempel så blir du ett attribueringsproffs!
 >* [Attribut - exempel 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
 >* [Attribut - exempel 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
 >* [Attribut - exempel 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
-

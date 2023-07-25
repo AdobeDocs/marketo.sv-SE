@@ -3,7 +3,8 @@ unique-page-id: 2359801
 description: Använda URL Builder - Marketo Docs - produktdokumentation
 title: Använda URL Builder
 exl-id: f8c1e459-f50f-4f74-bf8a-1f1b64fcf46c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%

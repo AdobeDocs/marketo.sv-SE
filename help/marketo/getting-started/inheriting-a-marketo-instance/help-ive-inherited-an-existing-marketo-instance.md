@@ -3,7 +3,8 @@ unique-page-id: 7516605
 description: Hjälp mig att ärva en befintlig Marketo-instans - Marketo Docs - Produktdokumentation
 title: Hjälp mig att ärva en befintlig Marketo-instans
 exl-id: f64c04cc-bbac-4577-b242-be8263acff4d
-source-git-commit: 615107dc9da9fec4b6d06c5ca6bc0a2c03e84fdc
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%

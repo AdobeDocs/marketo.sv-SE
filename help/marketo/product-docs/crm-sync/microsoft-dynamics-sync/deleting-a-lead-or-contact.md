@@ -3,7 +3,8 @@ unique-page-id: 45417322
 description: Ta bort en lead eller kontakt - Marketo Docs - produktdokumentation
 title: Ta bort en lead eller kontakt
 exl-id: d561b424-6a2b-4abe-b9bd-81eb23f1a25b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%

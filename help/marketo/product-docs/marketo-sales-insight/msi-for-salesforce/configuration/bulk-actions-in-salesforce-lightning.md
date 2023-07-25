@@ -3,7 +3,8 @@ unique-page-id: 37356282
 description: Massåtgärder i Salesforce Lightning - Marketo Docs - produktdokumentation
 title: Massåtgärder i Salesforce Lightning
 exl-id: 8e07e870-158f-4072-8122-9f4b440f5f7c
-source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%

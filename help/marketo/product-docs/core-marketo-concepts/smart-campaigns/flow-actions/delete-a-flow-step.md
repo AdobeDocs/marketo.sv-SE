@@ -3,7 +3,8 @@ unique-page-id: 1146987
 description: Ta bort ett flödessteg - Marketo Docs - produktdokumentation
 title: Ta bort ett flödessteg
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
@@ -54,16 +55,15 @@ Först gör vi grunderna. Så här tar du bort ett oönskat flödessteg från en
    >**Exempel**
    >
    >1. En smart kampanj består av tre steg.
-      >    * STEG 1. Skicka e-post nr 1
-      >    * STEG 2. Vänta en vecka
-      >    * STEG 3. Skicka e-post nr 2
+   >    * STEG 1. Skicka e-post nr 1
+   >    * STEG 2. Vänta en vecka
+   >    * STEG 3. Skicka e-post nr 2
    >
    >1. Folk som träffade **Steg 2** väntar 1 vecka innan du går vidare till **Steg 3**.
    >1. Du tar bort **Steg 2** under veckan.
    >1. Folk kommer att fortsätta vänta 1 vecka. (De kommer inte automatiskt tillbaka till flödet.)
    >1. När de äntligen kommer tillbaka försöker de att gå till **Steg 3**. De kommer inte att hitta den.
    >1. **VIKTIGT!** Eftersom det nu bara finns två steg *personer får inte e-post nr 2.*
-
 
 Göra ändringar i en aktiv kampanj
 

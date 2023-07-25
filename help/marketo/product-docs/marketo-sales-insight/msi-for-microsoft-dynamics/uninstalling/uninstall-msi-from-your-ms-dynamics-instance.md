@@ -3,7 +3,8 @@ unique-page-id: 37355600
 description: Avinstallera MSI från din MS Dynamics-instans - Marketo Docs - produktdokumentation
 title: Avinstallera MSI från din MS Dynamics-instans
 exl-id: 86e8dbc9-236f-42ad-96e8-cdb1b4c3bed2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%

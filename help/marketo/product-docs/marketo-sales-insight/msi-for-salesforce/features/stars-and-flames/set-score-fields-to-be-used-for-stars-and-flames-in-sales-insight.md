@@ -3,7 +3,8 @@ unique-page-id: 2360301
 description: Ange poängfält som ska användas för staplar och flamma i Sales Insight - Marketo Docs - produktdokumentation
 title: Ange poängfält som ska användas för staplar och flamma i Sales Insight
 exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -29,7 +30,6 @@ Som standard använder Marketo Sales Insight **Leadpoäng** för att beräkna st
 >* **Stjärnor**: Stjärnor representerar det totala antalet leads jämfört med andra leads.
 >* **Lågor**: Det är angeläget att använda flamma - hur mycket ett leads poäng har ändrats nyligen.
 >
-
 
 1. Under **Administratör**, klicka **Försäljningsinsikter**.
 

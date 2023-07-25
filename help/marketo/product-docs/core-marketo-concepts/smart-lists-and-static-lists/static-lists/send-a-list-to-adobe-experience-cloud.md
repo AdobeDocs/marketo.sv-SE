@@ -3,9 +3,10 @@ unique-page-id: 37356194
 description: Skicka en lista till Adobe Experience Cloud - Marketo Docs - produktdokumentation
 title: Skicka en lista till Adobe Experience Cloud
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
-source-git-commit: 492f21f090dc2478271172cf7db470e16f202366
+feature: Static Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '770'
+source-wordcount: '768'
 ht-degree: 0%
 
 ---
@@ -18,7 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Konfigurera organisationsmappning för Adobe](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target=&quot;_blank&quot;}
+>[Konfigurera organisationsmappning för Adobe](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}
 
 ## Målprogram som stöds {#supported-destination-applications}
 

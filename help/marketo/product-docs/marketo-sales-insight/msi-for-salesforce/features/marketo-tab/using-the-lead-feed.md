@@ -3,7 +3,8 @@ unique-page-id: 7512979
 description: Använda lead feed - Marketo Docs - produktdokumentation
 title: Använda lead-feed
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
-source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%

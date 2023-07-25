@@ -3,7 +3,8 @@ unique-page-id: 2953352
 description: Redigera tävlingsbidrag direkt i marknadsföringskalendern - Marketo Docs - produktdokumentation
 title: Redigera poster direkt i marknadsföringskalendern
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
-source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
+feature: Marketing Calendar
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%

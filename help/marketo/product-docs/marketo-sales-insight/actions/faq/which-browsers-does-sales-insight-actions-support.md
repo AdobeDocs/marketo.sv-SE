@@ -2,7 +2,8 @@
 description: Vilka webbläsare stöder Sales Insight-åtgärder? - Marketo Docs - produktdokumentation
 title: Vilka webbläsare stöder Sales Insight-åtgärder?
 exl-id: 44610377-e3c3-435e-beb0-85e39c83f6fc
-source-git-commit: e4bd83abfeba54a777548926799f541b7b798ae5
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%

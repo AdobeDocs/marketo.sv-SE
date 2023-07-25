@@ -2,9 +2,10 @@
 description: Modeller och insikter - Marketo Docs - produktdokumentation
 title: Modeller och insikter
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
-source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
+feature: Predictive Audiences
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -23,7 +24,7 @@ Navigera till **[!UICONTROL Models and Data Health]** avsnitt under **[!UICONTRO
 
 ![Bild ett](assets/models-and-insights-1.png)
 
-* **Utbildningsstatus**: Anger om din modell aktivt tränar (förbättrar prognoser). Kursen sker automatiskt varannan vecka. Alla modeller som _Bearbetar_ kan ta upp till 24 timmar att slutföra. För alla _Misslyckades_ modeller, kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target=&quot;_blank&quot;}.
+* **Utbildningsstatus**: Anger om din modell aktivt tränar (förbättrar prognoser). Kursen sker automatiskt varannan vecka. Alla modeller som _Bearbetar_ kan ta upp till 24 timmar att slutföra. För alla _Misslyckades_ modeller, kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 * **Bedömningsstatus**: Anger om din modell aktivt beräknar prognoser (sannolikhetsprocent) för programmedlemmar.
 * **Prestanda**: Kategorisering av din modellhälsa baserat på datainsamling och datakvalitet (se nedan).
 * **Datakompatibilitet**: Procentandel av dataattribut som finns/är fullständiga.

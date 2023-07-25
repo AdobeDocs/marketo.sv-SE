@@ -3,7 +3,8 @@ unique-page-id: 2950524
 description: Distribuera sociala medier på din webbplats - Marketo Docs - produktdokumentation
 title: Distribuera sociala medier på din webbplats
 exl-id: bccfa461-29c1-4cf1-8e6a-2186c36bdf7e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -51,4 +52,3 @@ Ni kan distribuera sociala appar på er egen webbplats för att engagera er mål
    >* [Knappen Anpassa social app](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
    >* [Ange krav på socialresurs](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
    >* [Publicera landningssidor på Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
-

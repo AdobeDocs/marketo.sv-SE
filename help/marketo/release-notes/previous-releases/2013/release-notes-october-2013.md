@@ -3,7 +3,8 @@ unique-page-id: 2951054
 description: Versionsinformation - oktober 2013 - Marketo Docs - produktdokumentation
 title: Versionsinformation - oktober 2013
 exl-id: f392521e-a5bd-47cd-af5c-d801718ca4e0
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%

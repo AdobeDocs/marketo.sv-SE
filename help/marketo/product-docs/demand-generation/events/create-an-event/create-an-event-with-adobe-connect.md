@@ -3,7 +3,8 @@ unique-page-id: 2949865
 description: Skapa ett evenemang med Adobe Connect - Marketo Docs - produktdokumentation
 title: Skapa ett evenemang med Adobe Connect
 exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
-source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 0%
@@ -18,7 +19,6 @@ Synkronisering med Adobe Connect gör att ni kan hantera registrering och närva
 >
 >* [Länka Adobe Connect och Marketo](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
 >* [Skapa ett nytt händelseprogram](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
-
 
 Kontrollera först att du har skapat ett möte eller seminarium i Adobe Connect. Om du behöver hjälp kan du kolla in [Adobe Connect Användarhandbok](https://help.adobe.com/en_US/connect/9.0/using/index.html).
 
@@ -80,4 +80,3 @@ Möten och seminarier som du skapar i Adobe Connect måste skapas i den mapp som
    >
    >* [Lägg till Adobe Connect som en LaunchPoint-tjänst](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
    >* [Redigera en händelsekanal](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
-

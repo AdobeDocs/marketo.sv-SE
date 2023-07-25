@@ -3,7 +3,8 @@ unique-page-id: 2359971
 description: Aktivitetsrapport för webbsida - Marketo Docs - produktdokumentation
 title: Aktivitetsrapport för webbsida
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '331'
 ht-degree: 0%
@@ -19,7 +20,6 @@ Du kan välja att visa kända personer eller anonyma personer, men inte båda ty
 >[!PREREQUISITES]
 >
 >* [Lägg till Munchkin-spårningskod på din webbplats](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
-
 
 1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)och väljer **Aktivitetsrapport för webbsida** [rapporttyp](report-type-overview.md).
 
@@ -89,4 +89,3 @@ Du kan välja att visa kända personer eller anonyma personer, men inte båda ty
 >
 >* [Visade webbsidor, aktivitetsrapport för webbsida](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
 >* [Visa personer eller anonyma besökare i webbrapporter](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
-

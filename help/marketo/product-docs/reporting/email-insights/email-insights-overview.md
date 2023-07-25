@@ -3,7 +3,8 @@ unique-page-id: 10099408
 description: Översikt över e-postinsikter - Marketo Docs - produktdokumentation
 title: Översikt över e-postinsikter
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -64,4 +65,3 @@ Alla Marketo standardmått ingår, men du kan lägga till upp till 10 anpassade 
 >
 >* [Översikt över analys av e-postinsikter](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)
 >* [E-postinsikter - skicka översikt](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)
-

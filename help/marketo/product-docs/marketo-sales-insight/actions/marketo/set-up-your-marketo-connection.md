@@ -4,7 +4,8 @@ title: Konfigurera din Marketo-anslutning
 hide: true
 hidefromtoc: true
 exl-id: f38272b1-a6dc-4d98-b6c1-e432c75b87c6
-source-git-commit: cbc5e338fd5c5c428b4c946c3f1195ab527bf355
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%

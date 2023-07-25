@@ -3,7 +3,8 @@ unique-page-id: 7515993
 description: Mall 1C - Marketo Docs - produktdokumentation
 title: Mall 1C
 exl-id: 1a4e0a7a-6bf4-4688-be0b-91aa07f900df
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%

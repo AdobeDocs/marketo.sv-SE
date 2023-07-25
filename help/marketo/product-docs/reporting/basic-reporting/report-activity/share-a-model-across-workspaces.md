@@ -3,7 +3,8 @@ unique-page-id: 2360205
 description: Dela en modell mellan arbetsytor - Marketo Docs - Produktdokumentation
 title: Dela en modell över arbetsytor
 exl-id: 3a118f63-a97d-432a-a50c-3e08d934405e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 1146950
 description: Vänta - Marketo Docs - produktdokumentation
 title: Vänta
 exl-id: 58f43c4b-6f20-4740-9a25-e09c7ea31dcf
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%

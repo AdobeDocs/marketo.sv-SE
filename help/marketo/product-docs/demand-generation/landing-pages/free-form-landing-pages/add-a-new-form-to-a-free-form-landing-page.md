@@ -3,7 +3,8 @@ unique-page-id: 2359705
 description: Lägg till ett nytt formulär på en landningssida i fri form - Marketo Docs - produktdokumentation
 title: Lägga till ett nytt formulär på en startsida med valfri form
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -18,7 +19,6 @@ Blankett, möt landningssidan. Landningssida, möt formulär.
 >
 >* [Skapa ett formulär](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
 >* [Skapa en landningssida med valfri form](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
-
 
 1. Gå till **Marknadsföringsaktiviteter**.
 

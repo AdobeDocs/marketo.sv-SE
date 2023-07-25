@@ -2,7 +2,8 @@
 description: Hantera mallar - Marketo Docs - produktdokumentation
 title: Hantera mallar
 exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '523'
 ht-degree: 0%

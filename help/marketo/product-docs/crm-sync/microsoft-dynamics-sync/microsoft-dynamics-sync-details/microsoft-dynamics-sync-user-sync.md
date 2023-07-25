@@ -3,7 +3,8 @@ unique-page-id: 3571840
 description: Microsoft Dynamics Sync -User Sync - Marketo Docs - Produktdokumentation
 title: Microsoft Dynamics Sync - användarsynkronisering
 exl-id: d642d4d2-2beb-42c6-a6b2-3da5df1cd9c8
-source-git-commit: 7fcbaeda589682fdb5a75b89a0abd8661181566e
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%

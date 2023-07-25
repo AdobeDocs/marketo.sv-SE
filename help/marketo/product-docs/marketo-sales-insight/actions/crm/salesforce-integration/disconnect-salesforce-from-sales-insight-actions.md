@@ -4,7 +4,8 @@ title: Koppla från Salesforce från försäljningsåtgärder
 hide: true
 hidefromtoc: true
 exl-id: 4b3838d1-92de-4baf-81af-4cd7fc316c06
-source-git-commit: d960f0ad0d944bd2e74543f3ab15b59a8040b768
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%

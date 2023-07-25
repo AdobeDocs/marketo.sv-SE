@@ -3,7 +3,8 @@ unique-page-id: 12983101
 description: Mappa anpassade fält till Marketo - Marketo Docs - produktdokumentation
 title: Mappa anpassade fält till Marketo
 exl-id: c52c9bcb-6448-4ebe-b87f-9e3a48e3d27d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 0%

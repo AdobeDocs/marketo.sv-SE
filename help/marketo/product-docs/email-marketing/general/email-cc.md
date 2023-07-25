@@ -3,7 +3,8 @@ unique-page-id: 17727995
 description: Email CC - Marketo Docs - produktdokumentation
 title: Email CC
 exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '547'
 ht-degree: 0%

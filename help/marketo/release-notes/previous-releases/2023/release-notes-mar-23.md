@@ -2,7 +2,8 @@
 description: Versionsinformation - mars 2023 - Marketo Docs - produktdokumentation
 title: Versionsinformation - mars 2023
 exl-id: 3074beee-e223-4794-8714-7d78e9d2d4eb
-source-git-commit: 5fc6de5b333e3008ebd542171b6bce8b29701d07
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 1%
@@ -93,7 +94,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
 
 </br>
 
-* **Dialog Engagement Report for Dynamic Chat**: Ger en översikt över dialogengagemang över tid, inklusive möjlighet att filtrera efter besökartyp och engagemangstyp för att ge användarna bättre synlighet.
+* **Dialogengagemangsrapport för Dynamic Chat**: Ger en översikt över dialogengagemang över tid, inklusive möjlighet att filtrera efter besökartyp och engagemangstyp för att ge användarna bättre synlighet.
 
 <table> 
   <tr> 
@@ -107,7 +108,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
   </tbody>
 </table>
 
-* **Roller och behörigheter för dynamisk chatt**: Lägger till roller och behörigheter i Dynamic Chat, vilket gör att administratörer kan begränsa synlighet och användning av olika delar av programmet till valda användartyper.
+* **Roller och behörigheter för Dynamic Chat**: Lägger till roller och behörigheter i Dynamic Chat, vilket gör att administratörer kan begränsa synlighet och användning av olika delar av programmet till valda användartyper.
 
 <table> 
   <tr> 
@@ -121,7 +122,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
   </tbody>
 </table>
 
-* **Chatta som en programkanal för dynamiskt chatt**: Skapar en ny Chat-programkanal för att spåra programutvecklingen för personer som förvärvats av Dynamic Chat. En marknadsförare har till exempel ett program som är associerat med en dynamisk chattdialogruta för att hämta nya leads. De kan nu tilldela det programmet chattkanalen så att de kan spåra när leads är medlemmar i programmet och när de har lyckats.
+* **Chatta som en programkanal för Dynamic Chat**: Skapar en ny Chat-programkanal för att spåra programutvecklingen för personer som förvärvats av Dynamic Chat. En marknadsförare har till exempel ett program som är associerat med en Dynamic Chat-dialogruta för att hämta nya leads. De kan nu tilldela det programmet chattkanalen så att de kan spåra när leads är medlemmar i programmet och när de har lyckats.
 
 <table> 
   <tr> 
@@ -135,7 +136,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
   </tbody>
 </table>
 
-* **Inkommande attribut för dynamiskt chatt**: Ser till att härledda IP-data (stad, stat, land osv.) skrivs till personregistret för nya personer som förvärvats av Dynamic Chat.
+* **Indragna attribut för Dynamic Chat**: Ser till att härledda IP-data (stad, stat, land osv.) skrivs till personregistret för nya personer som förvärvats av Dynamic Chat.
 
 <table> 
   <tr> 
@@ -149,7 +150,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
   </tbody>
 </table>
 
-* **Ytterligare språkstöd för Dynamic Chat**: Du kan nu välja mellan nio språk som stöds för att visa statiskt dynamiskt chattinnehåll i.
+* **Ytterligare språkstöd för Dynamic Chat**: Du kan nu välja mellan nio språk som stöds för att visa statiskt Dynamic Chat-innehåll i.
 
 <table> 
   <tr> 
@@ -163,7 +164,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
   </tbody>
 </table>
 
-* **Hoppa till nod i Stream Designer Preview för dynamiskt chatt**: Gå direkt till en nod i Stream Designer från förhandsgranskningspanelen.
+* **Hoppa till nod i Stream Designer Preview för Dynamic Chat**: Gå direkt till en nod i Stream Designer från förhandsgranskningspanelen.
 
 <table> 
   <tr> 

@@ -3,7 +3,8 @@ unique-page-id: 4718681
 description: Starta spårning efter konto i intäktsmodelleraren - Marketo Docs - produktdokumentation
 title: Starta spårning efter konto i intäktsmodelleraren
 exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%

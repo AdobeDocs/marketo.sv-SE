@@ -3,7 +3,8 @@ unique-page-id: 2950573
 description: Konfigurera spårningsförlopp för ett referenserbjudande - Marketo Docs - produktdokumentation
 title: Konfigurera förloppsflöde för spår för ett referenserbjudande
 exl-id: ea73176e-414e-4a90-a17d-083a6eb0a752
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%

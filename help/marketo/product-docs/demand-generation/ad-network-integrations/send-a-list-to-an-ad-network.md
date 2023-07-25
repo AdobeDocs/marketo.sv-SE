@@ -2,7 +2,8 @@
 description: Skicka en lista till ett annonsnätverk - Marketo Docs - produktdokumentation
 title: Skicka en lista till ett annonsnätverk
 exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
-source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%

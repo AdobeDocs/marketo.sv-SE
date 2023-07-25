@@ -3,7 +3,8 @@ unique-page-id: 42762514
 description: Instrumentpanelsfunktion - översikt - Marketo Docs - produktdokumentation
 title: Översikt över funktionen Insikt i instrumentpanelen
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
-source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1503'
 ht-degree: 0%

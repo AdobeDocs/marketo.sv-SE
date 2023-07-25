@@ -3,7 +3,8 @@ unique-page-id: 8783963
 description: Mall 8B - Marketo Docs - produktdokumentation
 title: Mall 8B
 exl-id: fd194747-2465-4685-a0de-bea7a294726d
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%

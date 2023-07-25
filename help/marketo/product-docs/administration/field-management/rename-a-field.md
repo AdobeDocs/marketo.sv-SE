@@ -3,7 +3,8 @@ unique-page-id: 2360293
 description: Byt namn på ett fält - Marketo Docs - produktdokumentation
 title: Byta namn på ett fält
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
-source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
+feature: Field Management
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%

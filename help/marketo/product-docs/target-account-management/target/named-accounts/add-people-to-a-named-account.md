@@ -3,7 +3,8 @@ unique-page-id: 11378816
 description: Lägg till personer på ett namngivet konto - Marketo Docs - produktdokumentation
 title: Lägg till personer till ett namngivet konto
 exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%

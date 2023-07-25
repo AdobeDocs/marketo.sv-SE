@@ -3,7 +3,8 @@ unique-page-id: 8783917
 description: Mall 5B - Marketo Docs - produktdokumentation
 title: Mall 5B
 exl-id: 738323ac-89bf-483a-ad63-2020bacc85cf
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%

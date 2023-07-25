@@ -3,7 +3,8 @@ unique-page-id: 8783999
 description: Mall 10A - Marketo Docs - produktdokumentation
 title: Mall 10A
 exl-id: 0fb10231-e667-4b50-8940-3622b3732c66
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%

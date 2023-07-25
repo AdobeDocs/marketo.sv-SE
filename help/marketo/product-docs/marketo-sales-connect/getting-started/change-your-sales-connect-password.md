@@ -2,7 +2,8 @@
 description: Ändra lösenordet för anslutning av försäljning - Marketo Docs - produktdokumentation
 title: Ändra lösenordet för Säljanslutning
 exl-id: b8c14c7c-c79a-452f-afba-6c8578be2ecd
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -35,7 +36,6 @@ Behöver du ändra ditt lösenord? Så här gör du.
 >* Använd både VERSALER och gemener
 >* Inkludera ett tal
 >* Använda ett specialtecken
-
 
 ## Ändra ditt lösenord när du loggar ut {#change-your-password-while-signed-out}
 

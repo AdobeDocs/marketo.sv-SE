@@ -3,7 +3,8 @@ unique-page-id: 8783941
 description: Mall 7A - Marketo Docs - produktdokumentation
 title: Mall 7A
 exl-id: f27b481a-6fae-4908-9488-b7fe456af071
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%

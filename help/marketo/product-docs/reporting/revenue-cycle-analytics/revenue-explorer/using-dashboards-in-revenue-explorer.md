@@ -3,7 +3,8 @@ unique-page-id: 10094959
 description: Använda kontrollpaneler i Intresseutforskaren - Marketo Docs - produktdokumentation
 title: Använda instrumentpaneler i Intresseutforskaren
 exl-id: ff81d48f-524e-4425-acb4-b62428f7a375
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 2359455
 description: Schemalägg ditt e-postprogram - Marketo Docs - produktdokumentation
 title: Schemalägg ditt e-postprogram
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -18,7 +19,6 @@ ht-degree: 0%
 >* [Definiera en publik med en smart lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) eller [Definiera en publik genom att importera en lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 >
 >* [Välj en befintlig e-postadress](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) eller [Skapa ett e-postmeddelande för ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-
 
 När ditt e-postprogram har skapats, målgruppen har definierats och e-postmeddelandet har valts, vill du berätta för ditt program *när* för att skicka e-postmeddelandet. Så här gör du.
 
@@ -48,4 +48,3 @@ När ditt e-postprogram har skapats, målgruppen har definierats och e-postmedde
 >
 >* [Schemalägg e-postprogram med mottagartidszon](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
 >* [Head Start for Email Programs](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
-

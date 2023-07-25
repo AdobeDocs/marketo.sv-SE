@@ -2,9 +2,10 @@
 description: Versionsinformation - juni 2022 - Marketo Docs - produktdokumentation
 title: Versionsinformation - juni 2022
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: '641'
 ht-degree: 0%
 
 ---
@@ -25,20 +26,20 @@ Följande funktioner kommer att lanseras den **24 juni 2022**, med en stegvis ut
 
 ## Flerkanalsmarknadsföring {#cross-channel-orchestration}
 
-* **Förbättrad användning av Stream Designer för dynamiskt chatt**: Lägg till kort direkt från arbetsytan i Stream Designer utan att behöva dra och släppa. Gränssnittet Dynamic Chat har också förbättrats så att innehåll i enskilda kort blir synligare.
+* **Förbättrad användning av Stream Designer för Dynamic Chat**: Lägg till kort direkt från arbetsytan i Stream Designer utan att behöva dra och släppa. Gränssnittet i Dynamic Chat har också förbättrats så att innehåll i enskilda kort blir synligare.
 
-* **Avancerade routningsregler för avtalad tid för dynamiskt chatt**: Dynamic Chat erbjuder fler alternativ för riktad routning av avtalade tider. Ange vilka agentavtalade tider som ska dirigeras baserat på Marketo Engage-attribut, så att leads dirigeras till lämpliga agenter.
+* **Avancerade regler för avtalad tid för Dynamic Chat**: Dynamic Chat erbjuder fler alternativ för riktad mötesdirigering. Ange vilka agentavtalade tider som ska dirigeras baserat på Marketo Engage-attribut, så att leads dirigeras till lämpliga agenter.
 
-* **Avancerad dialograpportering för dynamiskt chatt**: Se resultatet för era Dynamic Chat-kampanjer i detalj med helt nya datavisualiseringar för engagemang och konverteringsstatistik.
+* **Avancerad dialograpportering för Dynamic Chat**: Se resultatet av era Dynamic Chat-kampanjer i större detalj med helt nya datavisualiseringar för engagemang och konverteringsstatistik.
 
-* **Osynkroniserade oanvända Marketo Engage-attribut för dynamiskt chatt**: Osynkroniserade Marketo Engage-attribut från din Dynamic Chat-prenumeration som inte används hjälper dig att rensa bort data och som gör det möjligt att synkronisera alternativa attribut efter behov.
+* **Osynkroniserade oanvända Marketo Engage-attribut för Dynamic Chat**: Osynkroniserade Marketo Engage-attribut från din Dynamic Chat-prenumeration som inte används, vilket underlättar datarenhet och gör det möjligt att synkronisera alternativa attribut efter behov.
 
 ## Nästa generations upplevelser
 
 **Ny växla vy**: Vyerna nedan är nu tillgängliga i nästa generation av upplevelser:
 
-* [Vyn E-postinformation](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target=&quot;_blank&quot;}
-* [Visa e-postlista](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target=&quot;_blank&quot;}
+* [Vyn E-postinformation](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
+* [Visa e-postlista](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
 
 ## Experience Automation {#experience-automation}
 
@@ -62,7 +63,7 @@ Följande funktioner kommer att lanseras den **24 juni 2022**, med en stegvis ut
 
 ![(stjärna)](assets/yellow-star.png)
 
-* **Uppdatering för Salesforce API**: I Salesforce Sommar 22 stöds inte längre äldre API-versioner 21-30 av Salesforce. I den här Marketo Engage-versionen har alla Sales Connect-begäranden som använder äldre API-versioner uppdaterats så att de hålls i en version som stöds. Om du vill ha fullständig information om återtagandeplaner för Salesforce API klickar du på [här](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target=&quot;_blank&quot;}.
+* **Uppdatering för Salesforce API**: I Salesforce Sommar 22 stöds inte längre äldre API-versioner 21-30 av Salesforce. I den här Marketo Engage-versionen har alla Sales Connect-begäranden som använder äldre API-versioner uppdaterats så att de hålls i en version som stöds. Om du vill ha fullständig information om återtagandeplaner för Salesforce API klickar du på [här](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target="_blank"}.
 
 ## API-förbättringar {#api-enhancements}
 
@@ -76,4 +77,4 @@ Följande funktioner kommer att lanseras den **24 juni 2022**, med en stegvis ut
 
 **_Product Release Webinar_**
 
-[Webbinariet Marketo Engage från juni och augusti 2022](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target=&quot;_blank&quot;}
+[Webbinariet Marketo Engage från juni och augusti 2022](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}

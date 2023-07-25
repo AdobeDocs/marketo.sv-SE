@@ -3,7 +3,8 @@ unique-page-id: 2360014
 description: Prestandarapport - Marketo Docs - produktdokumentation
 title: Prestandarapport för människor
 exl-id: 9c73ad96-088a-4a4a-8e8b-7b379370d80a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -41,6 +42,6 @@ Du kan:
 * [Markera de kolumner som ska inkluderas.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
 * [Sortera rapportkolumnerna.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)
 
-   >[!TIP]
-   >
-   >Kom ihåg att rapporter är enkla att komma åt [skapa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), konfigurera och [delete](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Lek vidare med de många sätt du kan manipulera dem på och lär dig de bästa sätten att fokusera på viktiga data.
+  >[!TIP]
+  >
+  >Kom ihåg att rapporter är enkla att komma åt [skapa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), konfigurera och [delete](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Lek vidare med de många sätt du kan manipulera dem på och lär dig de bästa sätten att fokusera på viktiga data.

@@ -3,7 +3,8 @@ unique-page-id: 2359646
 description: Konfigurera progressiv formulärprofilering - Marketo Docs - Produktdokumentation
 title: Konfigurera progressiv profilering av formulär
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
@@ -70,7 +71,6 @@ Korta formulär är bra. När någon kommer tillbaka till ett formulär kan du p
    >* Efternamn (tomt)
    >* E-postadress (tom)
    >* Telefonnummer (tomt)
-
    >
    >Förutsatt att de fyller i alla fält, andra gången de besöker, kommer de att se:
    >
@@ -78,7 +78,6 @@ Korta formulär är bra. När någon kommer tillbaka till ett formulär kan du p
    >* Efternamn (förifyllt)
    >* E-postadress (förifylld)
    >* Mobiltelefonnummer (tomt)
-
    >
    >Förutsatt att de fyller i mobiltelefonnumret kommer de tredje gången de besöker att se:
    >
@@ -86,7 +85,6 @@ Korta formulär är bra. När någon kommer tillbaka till ett formulär kan du p
    >* Efternamn (förifyllt)
    >* E-postadress (förifylld)
    >* Land (tomt)
-
 
 1. Klicka **Slutför**.
 

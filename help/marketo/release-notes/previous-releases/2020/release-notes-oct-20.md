@@ -3,7 +3,8 @@ unique-page-id: 45416698
 description: Versionsinformation - okt 20 - Marketo Docs - produktdokumentation
 title: Versionsinformation - 20 okt
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '957'
 ht-degree: 0%

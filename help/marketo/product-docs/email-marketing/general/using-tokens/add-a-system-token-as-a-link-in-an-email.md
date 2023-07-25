@@ -3,7 +3,8 @@ unique-page-id: 1900573
 description: Lägg till en systemtoken som en länk i ett e-postmeddelande - Marketo Docs - Produktdokumentation
 title: Lägg till en systemtoken som en länk i ett e-postmeddelande
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
-source-git-commit: 65caed388ac33fc9f3142102343fe43ebc186e6e
+feature: Tokens
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%

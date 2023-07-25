@@ -1,8 +1,9 @@
 ---
-description: Dynamic Chat Overview - Marketo Docs - produktdokumentation
+description: Dynamic Chat Overview - Marketo Docs - Product Documentation
 title: Dynamisk chattöversikt
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 5cd5873132e38d7adea02739da39aebeb3979124
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '857'
 ht-degree: 1%
@@ -15,7 +16,7 @@ Med Dynamic Chat kan ni utnyttja ett lättanvänt gränssnitt för att nå ut ti
 
 >[!NOTE]
 >
->Dynamic Chat håller på att lanseras gradvis och har för närvarande begränsad tillgänglighet. Den här sidan uppdateras med allmän tillgänglighetsinformation (GA) allt eftersom de blir tillgängliga.
+>Dynamic Chat håller på att gradvis släppas ut och har för närvarande begränsad tillgång. Den här sidan uppdateras med allmän tillgänglighetsinformation (GA) allt eftersom de blir tillgängliga.
 
 >[!TIP]
 >
@@ -23,7 +24,7 @@ Med Dynamic Chat kan ni utnyttja ett lättanvänt gränssnitt för att nå ut ti
 
 ## Integreringar {#integrations}
 
-En viktig komponent i Dynamic Chat är möjligheten att kunna interagera direkt med din Marketo-prenumeration. För att kunna utnyttja den här integreringens fulla kapacitet måste du först initiera datasynkroniseringen. Beroende på storleken på din Marketo-databas kan det ta upp till 24 timmar för data för den första, [engångssynkronisering](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md) för att slutföra.
+En viktig komponent i Dynamic Chat är möjligheten att ha ett gränssnitt för Marketo-prenumerationer. För att kunna utnyttja den här integreringens fulla kapacitet måste du först initiera datasynkroniseringen. Beroende på storleken på din Marketo-databas kan det ta upp till 24 timmar för data för den första, [engångssynkronisering](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md) för att slutföra.
 
 Följande synkroniseras:
 
@@ -53,7 +54,7 @@ Här kan du se en lista över alla agenter som har kopplat samman sina kalendrar
 
 ## Vanliga frågor {#faq}
 
-**Kan jag installera Dynamic Chat var som helst på företagets webbplats eller fungerar det bara på Marketo landningssidor?**
+**Kan jag installera Dynamic Chat var som helst på min företagswebbplats eller fungerar det bara på Marketo landningssidor?**
 
 JavaScript-kodfragmentet Dynamic Chat kan installeras på alla webbplatser och på Marketo landningssidor.
 
@@ -67,7 +68,7 @@ Nej, det använder bara förbestämda svar.
 
 **Har Dynamic Chat stöd för andra språk än engelska?**
 
-Ja. Dynamic Chat har stöd för följande språk: Franska, tyska, japanska, spanska, italienska, brasiliansk portugisiska, koreanska, förenklad kinesiska och traditionell kinesiska. Läs mer i [avsnitt nedan](#changing-the-language).
+Ja. Dynamic Chat stöder följande språk: Franska, tyska, japanska, spanska, italienska, brasiliansk portugisiska, koreanska, förenklad kinesiska och traditionell kinesiska. Läs mer i [avsnitt nedan](#changing-the-language).
 
 **Stöder du AI/NLP-funktioner?**
 
@@ -79,11 +80,11 @@ I dialogrutan måste du använda _Personens e-postadress är tom_ -attribut.
 
 ## Ändra språk {#changing-the-language}
 
-Följ de här stegen för att ändra ditt dynamiska chattspråk.
+Följ de här stegen för att ändra ditt Dynamic Chat-språk.
 
 >[!IMPORTANT]
 >
->Om du ändrar ditt språk på profilnivå ändras språket för _alla_ Experience Cloud-applikationer, inte bara Dynamic Chat.
+>Om du ändrar ditt språk på profilnivå ändras språket för _alla_ Experience Cloud, inte bara Dynamic Chat.
 
 1. Klicka på inställningsikonen på ditt Experience Cloud-konto och välj **Inställningar**.
 
@@ -99,11 +100,11 @@ Följ de här stegen för att ändra ditt dynamiska chattspråk.
 
    >[!NOTE]
    >
-   >Det finns ett par dussin språk att välja bland, men Dynamic Chat har bara stöd för följande: Engelska, franska, tyska, japanska, spanska, italienska, brasiliansk portugisiska, koreanska, förenklad kinesiska och traditionell kinesiska.
+   >Det finns ett par dussin språk att välja bland, men Dynamic Chat stöder bara följande: Engelska, franska, tyska, japanska, spanska, italienska, brasiliansk portugisiska, koreanska, förenklad kinesiska och traditionell kinesiska.
 
 När du uppdaterar språket ändras allt i själva programmet utom orden som du har fyllt i personligen (t.ex. strömningssvar).
 
-## Gränser i dynamiskt chatt {#limits-in-dynamic-chat}
+## Gränser i Dynamic Chat {#limits-in-dynamic-chat}
 
 <table>
   <th>Parameter</th>
@@ -176,7 +177,7 @@ När du uppdaterar språket ändras allt i själva programmet utom orden som du 
  </tr>
  <tr>
   <td>Bevarandeperiod för mötesbokningsaktivitet</td>
-  <td>Den tid som mötesbokningsaktiviteten sparas i Dynamic Chat</td>
+  <td>Den tid som mötesbokningen ska sparas i Dynamic Chat</td>
   <td>24 månader</td>
  </tr>
  <tr>

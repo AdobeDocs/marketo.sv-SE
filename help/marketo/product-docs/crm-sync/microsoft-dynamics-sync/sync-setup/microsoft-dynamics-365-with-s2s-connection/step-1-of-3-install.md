@@ -2,7 +2,8 @@
 description: Steg 1 av 3 - Installera Marketo Solution with Server to Server Connection - Marketo Docs - produktdokumentation
 title: Steg 1 av 3 - Installera Marketo Solution med Server to Server Connection
 exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
-source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 0%
@@ -16,7 +17,6 @@ Innan du kan synkronisera Microsoft Dynamics 365 och Marketo måste du först in
 >[!CAUTION]
 >
 >* Aktivera inte anpassad entitetssynkronisering innan den inledande synkroniseringen har slutförts. Du meddelas via e-post när den första synkroniseringen är klar.
-
 
 >[!NOTE]
 >

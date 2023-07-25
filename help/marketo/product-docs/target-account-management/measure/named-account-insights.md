@@ -3,7 +3,8 @@ unique-page-id: 11380785
 description: Insikter om namngivna konton - Marketo Docs - produktdokumentation
 title: Insikter om namngivna konton
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '422'
 ht-degree: 0%

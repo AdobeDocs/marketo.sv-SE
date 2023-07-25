@@ -3,7 +3,8 @@ unique-page-id: 4718670
 description: Using Revenue Model Gate Stages - Marketo Docs - Product Documentation
 title: Använda intäktsmodellens gatustadier
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
@@ -85,4 +86,3 @@ Grattis! Nu förstår du Gate Stages underbara värld.
 >* [Använda intäktsmodelllagerfaser](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
 >* [Använda SLA-faser för intäktsmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
 >* [Skapa en ny intäktsmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
-

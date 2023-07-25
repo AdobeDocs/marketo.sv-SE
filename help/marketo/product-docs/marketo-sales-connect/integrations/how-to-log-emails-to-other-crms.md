@@ -3,7 +3,8 @@ unique-page-id: 14352430
 description: Så här loggar du e-postmeddelanden till andra CRM-system - Marketo Docs - produktdokumentation
 title: Så här loggar du e-postmeddelanden till andra CRM-system
 exl-id: 29b34be0-685f-4c80-920d-d33ff7d02f5d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%

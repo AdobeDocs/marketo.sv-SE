@@ -3,7 +3,8 @@ unique-page-id: 2360297
 description: Begränsa Marketo-inloggningar baserat på IP - Marketo Docs - produktdokumentation
 title: Begränsa Marketo-inloggningar baserat på IP
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
-source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+feature: Administration
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 1%

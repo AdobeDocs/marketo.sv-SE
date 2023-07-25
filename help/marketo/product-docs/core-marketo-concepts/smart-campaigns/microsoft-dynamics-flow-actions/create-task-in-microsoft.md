@@ -3,7 +3,8 @@ unique-page-id: 37356429
 description: Skapa uppgift i Microsoft - Marketo Docs - produktdokumentation
 title: Skapa uppgift i Microsoft
 exl-id: b9ae425b-edf1-4aae-92f4-e7c6cf647cdc
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns, Microsoft Dynamics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%

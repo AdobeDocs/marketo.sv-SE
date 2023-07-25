@@ -3,7 +3,8 @@ unique-page-id: 2359965
 description: Översikt över rapporttyp - Marketo Docs - produktdokumentation
 title: Översikt över rapporttyp
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%

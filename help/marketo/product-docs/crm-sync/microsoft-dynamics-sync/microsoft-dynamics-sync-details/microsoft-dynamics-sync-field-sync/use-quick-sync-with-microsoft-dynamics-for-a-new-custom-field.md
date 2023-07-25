@@ -3,7 +3,8 @@ unique-page-id: 10098379
 description: Använd snabbsynkronisering med Microsoft Dynamics för ett nytt anpassat fält - Marketo Docs - produktdokumentation
 title: Använd snabbsynkronisering med Microsoft Dynamics för ett nytt anpassat fält
 exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 0%

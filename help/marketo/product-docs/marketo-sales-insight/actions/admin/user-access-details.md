@@ -2,7 +2,8 @@
 description: Information om användaråtkomst - Marketo Docs - produktdokumentation
 title: Information om användaråtkomst
 exl-id: 20e19848-fc46-4f12-af8a-3fa2b88e1af4
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 5472328
 description: Uppdatera en rapport - Marketo Docs - produktdokumentation
 title: Uppdatera en rapport
 exl-id: 022e338c-4e50-4d12-a5cb-d864aa60b131
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%

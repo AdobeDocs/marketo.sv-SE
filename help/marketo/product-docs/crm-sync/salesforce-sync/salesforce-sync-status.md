@@ -2,7 +2,8 @@
 description: Salesforce Sync Status - Marketo Docs - Produktdokumentation
 title: Status för Salesforce-synkronisering
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+feature: Salesforce Integration
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '552'
 ht-degree: 0%

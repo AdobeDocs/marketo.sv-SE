@@ -3,7 +3,8 @@ unique-page-id: 14352477
 description: Skicka till Sales Connect - Marketo Docs - produktdokumentation
 title: Push to Sales Connect
 exl-id: 8fb99d28-d6c6-47c3-b4d2-c416251aff47
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%

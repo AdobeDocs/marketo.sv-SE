@@ -3,7 +3,8 @@ unique-page-id: 2359428
 description: Omdirigera en landningssida - Marketo Docs - produktdokumentation
 title: Omdirigera en landningssida
 exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
-source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -22,7 +23,6 @@ ht-degree: 0%
 >
 >* [Landningssida med ett formulär](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 >* [Anpassa URL:en till landningssidan med en CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target="_blank"}
-
 
 ## Steg 1: Starta en ny omdirigeringsregel {#step-start-a-new-redirect-rule}
 

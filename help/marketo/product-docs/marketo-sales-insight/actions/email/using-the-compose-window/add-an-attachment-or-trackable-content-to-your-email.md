@@ -2,7 +2,8 @@
 description: Lägg till en bifogad fil eller spårbart innehåll i din e-post - Marketo Docs - produktdokumentation
 title: Lägg till en bifogad fil eller spårbart innehåll i din e-post
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '417'
 ht-degree: 0%

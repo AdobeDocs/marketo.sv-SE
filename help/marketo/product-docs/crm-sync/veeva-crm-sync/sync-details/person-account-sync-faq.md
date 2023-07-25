@@ -2,9 +2,10 @@
 description: Synkronisering av personkonto - frågor och svar - Marketo Docs - produktdokumentation
 title: Vanliga frågor om synkronisering av personkonto
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
-source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '485'
 ht-degree: 0%
 
 ---
@@ -73,6 +74,5 @@ Ja, om en konflikt uppstår loggar vi resultatet i leadets aktivitetslogg.
 
 >[!MORELIKETHIS]
 >
->* [Standardvevektorgrafikmappning](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md){target=&quot;_blank&quot;}
->* [Synkronisera samtal och ringa nyckelmeddelanden](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target=&quot;_blank&quot;}
-
+>* [Standardvevektorgrafikmappning](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md){target="_blank"}
+>* [Synkronisera samtal och ringa nyckelmeddelanden](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}

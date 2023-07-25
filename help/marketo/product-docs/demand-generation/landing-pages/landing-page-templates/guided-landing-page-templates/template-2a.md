@@ -3,7 +3,8 @@ unique-page-id: 7516467
 description: Mall 2A - Marketo Docs - produktdokumentation
 title: Mall 2A
 exl-id: dcffaab5-8944-425b-aac3-2906ce3718b1
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%

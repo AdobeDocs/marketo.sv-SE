@@ -3,7 +3,8 @@ unique-page-id: 4719283
 description: Förstå Salesforce-synkronisering - Marketo Docs - produktdokumentation
 title: Förstå Salesforce-synkronisering
 exl-id: 658c81ff-5fb3-4ad8-8759-da55bbf4e263
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%

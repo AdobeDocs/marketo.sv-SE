@@ -3,7 +3,8 @@ unique-page-id: 2359649
 description: Ändra Skicka-knapp för formulär - Marketo Docs - produktdokumentation
 title: Ändra text på Skicka-knapp för formulär
 exl-id: 6461bbf0-9e77-4187-a7d1-a7ad3abe08d9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%

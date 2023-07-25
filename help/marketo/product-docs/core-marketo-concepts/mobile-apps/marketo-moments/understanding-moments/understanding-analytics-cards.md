@@ -3,7 +3,8 @@ unique-page-id: 8781988
 description: Analyskort - Marketo Docs - produktdokumentation
 title: Analyskort
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 0%
@@ -63,4 +64,3 @@ Nu vet du.
 >* [Om Marketo Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 >* [Om händelsekort](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
 >* [Understanding Email Program Cards](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
-

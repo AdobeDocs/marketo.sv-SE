@@ -3,7 +3,8 @@ unique-page-id: 2360217
 description: Ändra attributinställningar för analys - Marketo Docs - produktdokumentation
 title: Ändra attributinställningar för analys
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
-source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+feature: Administration
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%

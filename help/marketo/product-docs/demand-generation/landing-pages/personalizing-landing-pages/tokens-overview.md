@@ -3,7 +3,8 @@ unique-page-id: 2950799
 description: Översikt över token - Marketo Docs - produktdokumentation
 title: Översikt över token
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
-source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%

@@ -2,7 +2,8 @@
 description: Lägg till gruppåtgärdsknappar i Salesforce Classic - Marketo Docs - produktdokumentation
 title: Lägg till gruppåtgärdsknappar i Salesforce Classic
 exl-id: ed3881ca-1ce6-469b-9b77-b8c35f28e847
-source-git-commit: a268bd275f1aeb2aff7c3f7f90a8fd557a1c408d
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%

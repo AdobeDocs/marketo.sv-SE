@@ -3,7 +3,8 @@ unique-page-id: 2359862
 description: Sök i överförda bilder och filer - Marketo Docs - produktdokumentation
 title: Sök efter överförda bilder och filer
 exl-id: c8eb7493-768a-4580-a76e-5b59ca9c14b1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Image Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -36,4 +37,3 @@ Sparka upp fötterna, du är klar!
 >
 >* [Ersätta en överförd bild eller fil](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
 >* [Ordna dina bilder och filer med hjälp av mappar](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
-

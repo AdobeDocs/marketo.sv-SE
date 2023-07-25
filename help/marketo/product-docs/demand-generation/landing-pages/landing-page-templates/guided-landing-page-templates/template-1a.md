@@ -3,7 +3,8 @@ unique-page-id: 7515620
 description: Mall 1A - Marketo Docs - produktdokumentation
 title: Mall 1A
 exl-id: e2dd3c0a-405b-414a-bdbc-bd1cb85d6d13
-source-git-commit: c53002db5778ce06031a0727c85b1b30aca172e0
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%

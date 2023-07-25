@@ -3,7 +3,8 @@ unique-page-id: 2949270
 description: SEO - Använd rapporten Competitor KW Trends Report - Marketo Docs - Product Documentation
 title: SEO - Använd KW-trendrapport för konkurrent
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -34,7 +35,7 @@ I det här diagrammet kan du se hur många procent av nyckelorden som har rankat
 |---|---|
 | [!UICONTROL Keywords] | Antalet nyckelord som du spårar. |
 | [!UICONTROL Ranking URLs] | Antalet URL:er i webbplatsens rankning i det intervall som du har angett. |
-| [!UICONTROL % in rank] | Procentandel av nyckelordsrankningen i det intervall som du har angett. |
+| [!UICONTROL % in rank] | Procentandelen nyckelord som rankas i det intervall som du har angett. |
 | [!UICONTROL Avg. searches] | Genomsnittligt antal sökningar med dessa nyckelord som gjordes under det angivna intervallet (under de senaste 30 dagarna, vid sökning i Google US) |
 
 ## Filtrera data {#filtering-data}

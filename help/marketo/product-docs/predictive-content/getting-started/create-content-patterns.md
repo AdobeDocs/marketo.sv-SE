@@ -3,7 +3,8 @@ unique-page-id: 11385579
 description: Skapa innehållsmönster - Marketo Docs - produktdokumentation
 title: Skapa innehållsmönster
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 0%

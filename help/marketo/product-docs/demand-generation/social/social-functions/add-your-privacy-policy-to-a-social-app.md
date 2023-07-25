@@ -3,7 +3,8 @@ unique-page-id: 2950545
 description: Lägg till din integritetspolicy i en social app - Marketo Docs - produktdokumentation
 title: Lägg till din integritetspolicy i en social app
 exl-id: 21c7a136-eafd-4851-a4dd-0e10bb5dacde
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 1%

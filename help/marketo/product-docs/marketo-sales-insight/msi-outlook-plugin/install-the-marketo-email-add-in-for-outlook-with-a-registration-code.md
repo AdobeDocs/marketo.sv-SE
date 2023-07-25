@@ -3,7 +3,8 @@ unique-page-id: 2949711
 description: Installera Marketo e-posttillägg för Outlook med en registreringskod - Marketo Docs - Produktdokumentation
 title: Installera Marketo e-posttillägg för Outlook med en registreringskod
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
-source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
+feature: Marketo Sales Insights
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '516'
 ht-degree: 2%

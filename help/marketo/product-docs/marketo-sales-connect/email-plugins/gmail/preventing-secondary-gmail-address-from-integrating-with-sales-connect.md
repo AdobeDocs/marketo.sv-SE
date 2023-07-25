@@ -3,7 +3,8 @@ unique-page-id: 14352546
 description: Förhindra att en sekundär Gmail-adress integreras med Sales Connect - Marketo Docs - produktdokumentation
 title: Förhindrar att den sekundära Gmail-adressen integreras med Sales Connect
 exl-id: a84fe53b-0ec8-400c-8747-be496c68a8e3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%

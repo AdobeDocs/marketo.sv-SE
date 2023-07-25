@@ -3,9 +3,10 @@ unique-page-id: 6849070
 description: Ladda ned Marketo Sales Insight Solution för Microsoft Dynamics - Marketo Docs - produktdokumentation
 title: Ladda ned Marketo Sales Insight Solution för Microsoft Dynamics
 exl-id: 6de8c605-d5e9-458d-aca8-2ed708d12402
-source-git-commit: 3a62fe40856b9b3f2eab61e22eaa38e1b9c44d7e
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -18,7 +19,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Plugin-programmet på den här sidan är avsett för synkronisering till Marketo Engage med Marketo inbyggda CRM-synkroniseringslösning till Dynamics 365. För dem som har en anpassad synkronisering, MS Dynamics 365 Online (9.x och senare), och har köpt Marketo Sales Insight, [paketet är här](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}.
+>Plugin-programmet på den här sidan är avsett för synkronisering till Marketo Engage med Marketo inbyggda CRM-synkroniseringslösning till Dynamics 365. För dem som har en anpassad synkronisering, MS Dynamics 365 Online (9.x och senare), och har köpt Marketo Sales Insight, [paketet är här](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
 1. Gå till **Administratör** område.
 

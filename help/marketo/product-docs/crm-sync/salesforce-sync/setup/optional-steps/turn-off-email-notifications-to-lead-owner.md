@@ -3,7 +3,8 @@ unique-page-id: 13795802
 description: Inaktivera e-postmeddelanden till lead-ägaren - Marketo Docs - produktdokumentation
 title: Inaktivera e-postmeddelanden till leadägaren
 exl-id: e079ed85-5fdd-49c9-a89c-aaf854a5db63
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%

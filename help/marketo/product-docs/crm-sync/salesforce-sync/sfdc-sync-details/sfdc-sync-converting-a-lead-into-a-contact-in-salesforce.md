@@ -3,7 +3,8 @@ unique-page-id: 2953465
 description: SFDC-synkronisering - Konvertera en lead till en kontakt i Salesforce - Marketo Docs - produktdokumentation
 title: SFDC-synkronisering - Konverterar en lead till en kontakt i Salesforce
 exl-id: 9c9dbe9a-80a6-4153-ac86-96f85025fe77
-source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%

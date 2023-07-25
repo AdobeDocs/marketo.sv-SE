@@ -3,7 +3,8 @@ unique-page-id: 8783322
 description: Validera Microsoft Dynamics Sync - Marketo Docs - produktdokumentation
 title: Validera Microsoft Dynamics Sync
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%

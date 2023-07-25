@@ -2,9 +2,10 @@
 description: Överför ett Adobe Experience Platform-segment till en Marketo Static List - Marketo Docs - Product Documentation
 title: Överför ett Adobe Experience Platform-segment till en Marketo Static List
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
+feature: Static Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '659'
+source-wordcount: '657'
 ht-degree: 0%
 
 ---
@@ -19,7 +20,6 @@ Med den här funktionen kan du överföra segment som finns i din Adobe Experien
 >* [Skapa en API-användare](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) i Marketo.
 >* Gå till **Administratör** > **Startpunkt**. Sök efter namnet på den roll du just skapade och klicka på **Visa detaljer**. Kopiera och spara informationen i **Klient-ID** och **Klienthemlighet** som du kunde behöva det för steg 7.
 >* Skapa en statisk lista i Marketo eller sök efter och välj en som du redan har skapat. Du behöver dess ID.
-
 
 1. Logga in på [Adobe Experience Platform](https://experience.adobe.com/).
 
@@ -100,7 +100,7 @@ Med den här funktionen kan du överföra segment som finns i din Adobe Experien
 
    >[!NOTE]
    >
-   >Du kan mappa attribut från Experience Platform till attribut som din organisation har åtkomst till i Marketo Engage. Använd [Beskriv API-begäran](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target=&quot;_blank&quot;} för att hämta attributfält som din organisation har åtkomst till.
+   >Du kan mappa attribut från Experience Platform till attribut som din organisation har åtkomst till i Marketo Engage. Använd [Beskriv API-begäran](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target="_blank"} för att hämta attributfält som din organisation har åtkomst till.
 
 1. Mappa efternamn och företagsnamn genom att klicka på **Lägg till ny mappning** och upprepa steg 15 två gånger genom att välja **lastName** och sedan **companyName**.
 

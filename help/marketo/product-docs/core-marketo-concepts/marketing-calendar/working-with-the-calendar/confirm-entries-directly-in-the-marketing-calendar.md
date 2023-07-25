@@ -3,7 +3,8 @@ unique-page-id: 2953362
 description: Bekräfta transaktioner direkt i marknadsföringskalendern - Marketo Docs - produktdokumentation
 title: Bekräfta transaktioner direkt i marknadsföringskalendern
 exl-id: f0074982-0cdc-44b9-b6f9-eb47407aba58
-source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
+feature: Marketing Calendar
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%

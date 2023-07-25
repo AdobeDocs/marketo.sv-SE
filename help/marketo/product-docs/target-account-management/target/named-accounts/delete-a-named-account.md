@@ -3,7 +3,8 @@ unique-page-id: 12615802
 description: Ta bort ett namngivet konto - Marketo Docs - produktdokumentation
 title: Ta bort ett namngivet konto
 exl-id: 47a1ce87-43ac-4f8f-94ab-7dec2730ab21
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%

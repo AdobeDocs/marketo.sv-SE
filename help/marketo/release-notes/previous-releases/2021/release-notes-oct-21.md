@@ -2,7 +2,8 @@
 description: Versionsinformation - oktober 2021 - Marketo Docs - produktdokumentation
 title: Versionsinformation - oktober 2021
 exl-id: 6b363c9b-7abe-4576-a362-0ad5cf515c02
-source-git-commit: 9186e15ea99052ef83a877ac336979acff5e692d
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1116'
 ht-degree: 0%
@@ -75,7 +76,7 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 
 ## Meddelanden {#announcements}
 
-* **Associate Lead Deprecation/Munchkin Beta 161 Update**: Den 7 september 2021 började version 161 av Munchkin lansera till 10 % av prenumerationerna med Munchkin Beta aktiverat, följt av 50 % den 16 september och 100 % den 30 september. Ändringen påverkar landningssidor på Marketo Engage och vilken version av filen munchkin-beta.js som används på externa landningssidor som läses in från prenumerationer som den senaste versionen har lanserats på. Den här versionen är helt inaktuell för metoden Munchkin Associate Lead, som är en funktion som tillåter att en persons data skickas till en Marketo Engage-prenumeration och tillhörande webbläsarhistorik med en känd personpost. Associate Lead tas bort med stöd för mer moderna och säkra alternativ, som Forms JS API, API:t för formulärsändning och Associate Lead REST API. [Läs mer om den här borttagningen här](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
+* **Associate Lead Deprecation/Munchkin Beta 161 Update**: Den 7 september 2021 började version 161 av Munchkin lansera till 10 % av prenumerationerna med Munchkin Beta aktiverat, följt av 50 % den 16 september och 100 % den 30 september. Ändringen påverkar landningssidor på Marketo Engage och vilken version av filen munchkin-beta.js som används på externa landningssidor som läses in från prenumerationer som den senaste versionen har lanserats på. Den här versionen är helt inaktuell för metoden Munchkin Associate Lead, som är en funktion som tillåter att en persons data skickas till en Marketo Engage-prenumeration och tillhörande webbläsarhistorik med en känd personpost. Associate Lead tas bort till förmån för mer moderna och säkra alternativ, som Forms JS API, API:t för formulärsändning och Associate Lead REST API. [Läs mer om den här borttagningen här](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
 
 * **Uppdatering för Sales Connect**: En ändring av gränssnittet i Sales Connect nyligen har gjort att vissa modaler i Salesforce har klippts av. Åtgärda problemet genom att [paketuppdatering](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
 

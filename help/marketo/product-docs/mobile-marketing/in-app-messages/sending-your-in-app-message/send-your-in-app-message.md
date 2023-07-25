@@ -2,7 +2,8 @@
 description: Skicka ditt meddelande i appen - Marketo Docs - produktdokumentation
 title: Skicka ditt meddelande i appen
 exl-id: 4ec196df-e8ef-45f8-9486-70d2b7c7ab1f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%

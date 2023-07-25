@@ -3,7 +3,8 @@ unique-page-id: 4720461
 description: HTML-kodning av token i e-post - Marketo Docs - produktdokumentation
 title: HTML-kodning av token i e-postmeddelanden
 exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
-source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
+feature: Field Management
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 1%

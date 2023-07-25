@@ -3,7 +3,8 @@ unique-page-id: 3571833
 description: Microsoft Dynamics Sync -Contact Sync - Marketo Docs - produktdokumentation
 title: Microsoft Dynamics Sync -Contact Sync
 exl-id: d4583ea0-2b52-415e-b28c-a8eafebeff64
-source-git-commit: 7fcbaeda589682fdb5a75b89a0abd8661181566e
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 10912085
 description: Delade och dedikerade IP-adresser - Marketo Docs - Produktdokumentation
 title: Delade och dedikerade IP-adresser
 exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Deliverability
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 0%

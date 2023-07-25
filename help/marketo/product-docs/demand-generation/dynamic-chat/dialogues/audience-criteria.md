@@ -2,9 +2,10 @@
 description: Målgrupper - Marketo Docs - produktdokumentation
 title: Målgruppskriterier
 exl-id: 9b70b03e-229e-469e-bd65-07aaf2dcbec6
-source-git-commit: f71ac0398b3a93d2c46201a696dd41e6ccd89000
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '540'
 ht-degree: 0%
 
 ---
@@ -15,7 +16,7 @@ På samma sätt som med Marketo smarta listor kan du definiera målgruppen med h
 
 ## Prioritet {#priority}
 
-Prioritet avgör vilken dialog ett lead får om de kvalificerar sig för mer än en. Det är etablerat när du börjar [skapa en dialogruta](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}. Du kan ändra prioriteten för en befintlig dialogruta genom att öppna den och gå till **Dialogruteinformation** på fliken Målgruppskriterier.
+Prioritet avgör vilken dialog ett lead får om de kvalificerar sig för mer än en. Det är etablerat när du börjar [skapa en dialogruta](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}. Du kan ändra prioriteten för en befintlig dialogruta genom att öppna den och gå till **Dialogruteinformation** på fliken Målgruppskriterier.
 
 ![](assets/audience-criteria-1.png)
 
@@ -126,7 +127,6 @@ Använd undantag för att säkerställa att dialogrutan gör det **not** visas p
 
 >[!MORELIKETHIS]
 >
->* [Skapa en dialogruta](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}
->* [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target=&quot;_blank&quot;}
->* [Rapporter](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target=&quot;_blank&quot;}
-
+>* [Skapa en dialogruta](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
+>* [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}
+>* [Rapporter](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}

@@ -3,7 +3,8 @@ unique-page-id: 2949202
 description: SEO - Hämta föreslagna nyckelord - Marketo Docs - produktdokumentation
 title: SEO - Hämta föreslagna nyckelord
 exl-id: 6631b389-039a-40f1-8445-3971576e9f65
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 3%
@@ -76,4 +77,3 @@ Bra! Ditt nyckelord har lagts till.
 >
 >* [Förstå nyckelord (sammanfattningsvy)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
 >* [Lägg till/ta bort nyckelord från en lista](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
-

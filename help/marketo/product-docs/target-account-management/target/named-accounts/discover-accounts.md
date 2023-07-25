@@ -3,7 +3,8 @@ unique-page-id: 11378812
 description: Upptäck konton - Marketo Docs - produktdokumentation
 title: Identifiera konton
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 0%
@@ -75,7 +76,6 @@ Identifiera rätt företag för målinriktning.
    >* Filtrerar ut de flesta Internetleverantörer och offentliga domäner (t.ex. yahoo.com, gmail.com) som företagsnamn
    >
    >* Tar bort CRM-konton. Om du har &quot;Acme&quot; i en post och &quot;Acme Inc&quot; (eller något av följande suffix: Co, Corp, Corporation, GmbH, Inc, Incorporated, LLC, LLP, LP, Ltd, PA, PC, PLC, PLLC), vi sammanfogar dem i TAM som&quot;Acme&quot;
-
    >
    >Om du vill att Marketo ska ta bort konton efter CRM-ID eller kontoägare i stället för efter företagsnamn kontaktar du [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
@@ -113,7 +113,6 @@ Identifiera rätt företag för målinriktning.
 >
 >* Har olika CRM-konton med liknande namn som har tagits bort
 >* Nästa schemalagda synkronisering har inte utförts än
-
 
 >[!MORELIKETHIS]
 >

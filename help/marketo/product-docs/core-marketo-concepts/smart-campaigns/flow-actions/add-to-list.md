@@ -3,7 +3,8 @@ unique-page-id: 1146952
 description: Lägg till i lista - Marketo Docs - produktdokumentation
 title: Lägg till i listan
 exl-id: 30673b95-4eed-4aa5-bca2-5ed5350d28a7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '39'
 ht-degree: 0%

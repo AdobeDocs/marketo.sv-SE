@@ -2,7 +2,8 @@
 description: Hur hanterar Sales Insight Actions borttagning av dubbletter via e-post - Marketo Docs - produktdokumentation
 title: Hur hanterar Sales Insight-åtgärder borttagning av dubbletter av e-post
 exl-id: 40b01f7f-df50-4bd2-ac35-4c4e4f80915e
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%

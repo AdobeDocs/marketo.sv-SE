@@ -3,7 +3,8 @@ unique-page-id: 8783563
 description: Förhandsgranska ett e-postmeddelande - Marketo Docs - produktdokumentation
 title: Förhandsgranska ett e-postmeddelande
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%

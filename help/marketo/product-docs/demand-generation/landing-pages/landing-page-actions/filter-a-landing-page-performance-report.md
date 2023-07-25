@@ -3,7 +3,8 @@ unique-page-id: 2359742
 description: Filtrera en rapport om landningssidans prestanda - Marketo Docs - produktdokumentation
 title: Filtrera en rapport om landningssidans prestanda
 exl-id: 825bcdc9-67cc-4a06-b7c3-8a95ad74e30c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%

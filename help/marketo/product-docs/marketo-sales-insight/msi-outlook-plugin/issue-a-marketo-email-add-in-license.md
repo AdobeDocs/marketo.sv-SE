@@ -3,7 +3,8 @@ unique-page-id: 2949281
 description: Utfärda en Marketo-licens för e-posttillägg - Marketo Docs - Produktdokumentation
 title: Utfärda en Marketo-licens för e-posttillägg
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 0%
@@ -52,4 +53,3 @@ Alla som vill använda Marketo e-post Outlook-tillägget måste först få en li
 >* [Installera Marketo-tillägget för Outlook med en företagsnyckel](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)
 >* [Installera Marketo e-posttillägg för Outlook med en registreringskod](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
 >* [Uppgradera ditt Marketo-e-posttillägg för Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md)
-

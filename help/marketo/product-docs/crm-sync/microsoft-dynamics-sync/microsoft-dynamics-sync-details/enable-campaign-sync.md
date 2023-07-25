@@ -2,7 +2,8 @@
 description: Aktivera kampanjsynkronisering - Marketo Docs - produktdokumentation
 title: Aktivera kampanjsynkronisering
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%

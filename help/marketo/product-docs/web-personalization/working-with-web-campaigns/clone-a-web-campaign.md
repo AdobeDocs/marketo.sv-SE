@@ -3,7 +3,8 @@ unique-page-id: 10093157
 description: Klona en webbkampanj - Marketo Docs - Produktdokumentation
 title: Klona en webbkampanj
 exl-id: c87440fb-694f-4a51-ad73-317f4d7f4314
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -41,4 +42,3 @@ Använd klonfunktionen på webbkampanjsidan för att kopiera kampanjinställning
 >* [Skapa en dialogkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 >* [Skapa en RTP i zonkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
 >* [Skapa en RTP-widgetkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
-

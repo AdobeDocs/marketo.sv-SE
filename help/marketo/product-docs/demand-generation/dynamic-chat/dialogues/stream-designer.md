@@ -2,9 +2,10 @@
 description: Stream Designer - Marketo Docs - produktdokumentation
 title: Stream Designer
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '866'
+source-wordcount: '852'
 ht-degree: 0%
 
 ---
@@ -15,7 +16,7 @@ Det finns _många_ möjliga kombinationer av strömmar. Den här artikeln inneh�
 
 >[!PREREQUISITES]
 >
->Innan du kan använda dokumentkortet måste du först [konfigurera](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target=&quot;_blank&quot;} i ditt Adobe-konto.
+>Innan du kan använda dokumentkortet måste du först [konfigurera](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"} på ditt Adobe-konto.
 
 ## Stream Designer-kort {#stream-designer-cards}
 
@@ -78,7 +79,7 @@ I det övre högra hörnet av Stream Designer visas en handfull ikoner. Så här
 
 ## Skapa en ström {#create-a-stream}
 
-1. Efter att du [skapade dialogrutan](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}, klicka på **Stream Designer** -fliken.
+1. Efter att du [skapade dialogrutan](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}klickar du på **Stream Designer** -fliken.
 
    ![](assets/stream-designer-6.png)
 
@@ -191,12 +192,11 @@ I det övre högra hörnet av Stream Designer visas en handfull ikoner. Så här
 
 >[!NOTE]
 >
->Innan du klickar på Publicera bör du kontrollera att [angett mål-URL:er](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md#target){target=&quot;_blank&quot;}.
+>Innan du klickar på Publicera bör du kontrollera att [angett mål-URL:er](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md#target){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* [Skapa en dialogruta](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}
->* [Målgruppskriterier](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target=&quot;_blank&quot;}
->* [Rapporter](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target=&quot;_blank&quot;}
->* [Använda dokumentkortet](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target=&quot;_blank&quot;}
-
+>* [Skapa en dialogruta](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
+>* [Målgruppskriterier](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
+>* [Rapporter](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
+>* [Använda dokumentkortet](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"}

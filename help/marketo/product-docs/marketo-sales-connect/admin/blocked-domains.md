@@ -3,7 +3,8 @@ unique-page-id: 18317338
 description: Blockerade domäner - Marketo Docs - produktdokumentation
 title: Blockerade domäner
 exl-id: 67e27112-8ade-4167-9c58-8a6839bdb6cc
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%

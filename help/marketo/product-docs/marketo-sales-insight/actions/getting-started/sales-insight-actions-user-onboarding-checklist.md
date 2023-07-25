@@ -2,9 +2,10 @@
 description: Sales Insight Actions User Onboarding Checklist - Marketo Docs - produktdokumentation
 title: Sales Insight Actions User Onboarding Checklist
 exl-id: 2cc21121-88ef-4cb9-a2bf-73ce213d9fbd
-source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---

@@ -3,7 +3,8 @@ unique-page-id: 45416566
 description: Inställningar för dubbelpartsgodkännande - Marketo Docs - produktdokumentation
 title: Inställningar för dubbelpartsgodkännande
 exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 17727823
 description: Versionsinformation -vinter '19 - Marketo Docs - produktdokumentation
 title: Versionsinformation -vinter '19
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1109'
 ht-degree: 0%
@@ -54,7 +55,7 @@ Inkludera upp till fem CC-adresser per mottagare i e-postmeddelanden som skickas
 * **Nya administratörsinställningar**: Två administratörssidor har lagts till för att optimera din instans av Sales Engage
 
    * _Teamhantering_ har stöd för en smidig process för kontokonfiguration genom att administratörer kan redigera prenumerationer och team.
-   * _Administratörsinställningar för Salesforce_ hjälper team att konfigurera sin SFDC-synkronisering snabbare och enklare än någonsin.
+   * _Administrationsinställningar för Salesforce_ hjälper team att konfigurera sin SFDC-synkronisering snabbare och enklare än någonsin.
 
 * **OWA-plugin för Windows**: Med ett enda tillägg stöds alla Windows Office365-klienter i Sales Engage, vilket ger möjlighet att använda Live Feed i Outlook. Det nya plugin-programmet finns i Microsoft Store.
 * **Verksamhetspublicering**: Synkronisera säljengagemanget med Marketo kärnplattform för att utnyttja marknadsföringsinsikter i realtid.

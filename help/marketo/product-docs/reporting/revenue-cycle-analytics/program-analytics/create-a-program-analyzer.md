@@ -3,7 +3,8 @@ unique-page-id: 2360399
 description: Skapa en programanalys - Marketo Docs - produktdokumentation
 title: Skapa en programanalys
 exl-id: 18715682-2afe-42cc-93d2-a3537749f784
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -72,4 +73,3 @@ Upptäck vilka program och kanaler som ger er den största rabatten för er mark
 >* [Jämför programeffektiviteten med programanalysen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
 >* [Utforska program- och kanalinformation med Program Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [Klona en programanalys](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/clone-a-program-analyzer.md)
-

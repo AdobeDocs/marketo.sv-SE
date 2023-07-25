@@ -3,7 +3,8 @@ unique-page-id: 2953144
 description: Advanced Program Reporting Overview - Marketo Docs - produktdokumentation
 title: Översikt över avancerad programrapportering
 exl-id: 3b77fd34-a94f-4c6a-9b96-d326b46e731c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 37356587
 description: Lägg till en bifogad fil eller spårbart innehåll i din e-post - Marketo Docs - produktdokumentation
 title: Lägg till en bifogad fil eller spårbart innehåll i din e-post
 exl-id: 06a80676-00bd-46d3-a989-ae503f7e76a6
-source-git-commit: 765ce4de418a5565ae7528a49a6947c1e1bb1f3f
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%

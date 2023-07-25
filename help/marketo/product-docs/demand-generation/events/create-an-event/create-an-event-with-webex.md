@@ -3,7 +3,8 @@ unique-page-id: 2949863
 description: Skapa en händelse med Webex - Marketo Docs - produktdokumentation
 title: Skapa en händelse med Webex
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
-source-git-commit: 8813686a39852443bf200eda232fd5448c6aa414
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '957'
 ht-degree: 0%
@@ -18,7 +19,6 @@ ht-degree: 0%
 >* [Skapa ett nytt händelseprogram](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Ange lämplig [flödesåtgärder](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) för att spåra engagemang
 >* Kontrollera att du använder Webex-händelser (klassiska)
-
 
 Skapa först en Webex-händelse i Webex Event Center. Marketo använder bara specifika inställningar och fält för din integrering, som vi kommer att gå igenom inom kort. Andra fält som du kanske vill konfigurera för WebBex beskrivs i [Användarhandbok för Webex Event Center](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
 
@@ -73,11 +73,11 @@ Du styr inbjudningslistan, registreringsformuläret och andra e-postmeddelanden 
 
 * **Registrerings-ID krävs** - Stöds för närvarande med Marketo-Webex-integreringen. Du kan använda Marketo för att skicka ut bekräftelsemeddelandet för ditt event. När personen registrerar sig får han/hon en unik URL som han/hon använder för att ange händelsen.
 
-   >[!TIP]
-   >
-   >Om du vill fylla i bekräftelsemeddelandet med den här unika URL-adressen använder du följande token i e-postmeddelandet: `{{member.webinar url}}`. När bekräftelse-URL:en skickas, tolkas denna token automatiskt till personens unika bekräftelse-URL.
-   >
-   >Ange bekräftelsemeddelandet som **Operativ** för att säkerställa att personer som registrerar sig och kan avbeställa prenumerationen fortfarande får sin bekräftelseinformation.
+  >[!TIP]
+  >
+  >Om du vill fylla i bekräftelsemeddelandet med den här unika URL-adressen använder du följande token i e-postmeddelandet: `{{member.webinar url}}`. När bekräftelse-URL:en skickas, tolkas denna token automatiskt till personens unika bekräftelse-URL.
+  >
+  >Ange bekräftelsemeddelandet som **Operativ** för att säkerställa att personer som registrerar sig och kan avbeställa prenumerationen fortfarande får sin bekräftelseinformation.
 
 * **Registreringslösenord** - (Valfritt) Stöds för närvarande inte med integreringen Marketo-Webex.
 * **Godkännanderegler** - Stöds för närvarande inte med Marketo-Webex-integreringen. Men ni kan använda smarta kampanjer i Marketo för att styra godkännanden.

@@ -3,7 +3,8 @@ unique-page-id: 12980873
 description: Performance Insights Quick Charts - Marketo Docs - produktdokumentation
 title: Prestandainsikter, snabbdiagram
 exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%

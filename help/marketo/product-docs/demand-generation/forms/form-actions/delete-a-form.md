@@ -3,7 +3,8 @@ unique-page-id: 2359637
 description: Ta bort ett formulär - Marketo Docs - produktdokumentation
 title: Ta bort ett formulär
 exl-id: 137e75b3-febd-44e8-b7f8-12221a1252fa
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%

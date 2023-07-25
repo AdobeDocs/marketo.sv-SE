@@ -3,7 +3,8 @@ unique-page-id: 2953338
 description: Skicka ett e-postmeddelande från Marketo från Microsoft Dynamics - Marketo Docs - produktdokumentation
 title: Skicka ett e-postmeddelande från Marketo från Microsoft Dynamics
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%

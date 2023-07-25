@@ -3,7 +3,8 @@ unique-page-id: 1900595
 description: Definiera en målgrupp med en smart lista - Marketo Docs - produktdokumentation
 title: Definiera en publik med en smart lista
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -68,4 +69,3 @@ En gång [skapa ett e-postprogram](/help/marketo/product-docs/email-marketing/em
 >
 >* [Välj en befintlig e-postadress](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
 >* [Skapa ett e-postmeddelande för ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-

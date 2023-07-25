@@ -3,7 +3,8 @@ unique-page-id: 1900579
 description: Inaktivera spårning för en e-postlänk - Marketo Docs - produktdokumentation
 title: Inaktivera spårning för en e-postlänk
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%

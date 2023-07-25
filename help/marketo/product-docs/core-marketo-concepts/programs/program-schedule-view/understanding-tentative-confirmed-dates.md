@@ -3,7 +3,8 @@ unique-page-id: 1147140
 description: Introduktion till preliminära/bekräftade datum - Marketo Docs - produktdokumentation
 title: Förstå preliminära/bekräftade datum
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 2359492
 description: Grupppersonrapporter efter segment - Marketo Docs - produktdokumentation
 title: Gruppera personrapporter efter segment
 exl-id: 38c77548-3bfd-484e-ba0a-ccedc2ed6205
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Segmentation
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%

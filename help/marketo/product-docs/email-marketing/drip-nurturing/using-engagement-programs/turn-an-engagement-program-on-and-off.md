@@ -3,7 +3,8 @@ unique-page-id: 2359856
 description: Aktivera och inaktivera ett engagemangsprogram - Marketo Docs - produktdokumentation
 title: Aktivera och inaktivera ett engagemangsprogram
 exl-id: 4fe68ca1-7a54-44b0-ab3b-06f482f65304
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Engagement Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%

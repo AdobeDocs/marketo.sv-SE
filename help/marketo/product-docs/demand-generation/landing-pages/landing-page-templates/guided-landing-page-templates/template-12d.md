@@ -3,7 +3,8 @@ unique-page-id: 9437583
 description: Mall 12D - Marketo Docs - produktdokumentation
 title: Mall 12D
 exl-id: 5aae050c-2b88-4a4e-9d98-f23e9314adf7
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%

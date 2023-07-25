@@ -3,7 +3,8 @@ unique-page-id: 14745611
 description: Lägg till i marknadsföringskampanj - Marketo Docs - produktdokumentation
 title: Lägg till i marknadsföringskampanj
 exl-id: d520d681-8415-4d48-896f-f213a8fabd11
-source-git-commit: 3fb9b16f83a6b4662e867c1fdbeda275dfdc1e13
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 0%

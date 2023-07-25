@@ -2,7 +2,8 @@
 description: Konfiguration - Marketo Docs - produktdokumentation
 title: Konfiguration
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 031e5ad328d49042f9c96ded63f1e719f1c377c7
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 0%
@@ -57,7 +58,7 @@ Klicka på **Integritet** för att lägga till/redigera URL:en för webbplatsens
 
 ## Installationsflik {#installation-tab}
 
-För att chattbot ska visas på webbplatsen måste du först installera JavaScript-fragmentet Dynamic Chat. Klicka på den här fliken om du vill söka efter/kopiera den nödvändiga koden. Om du inte känner till den här åtgärden kan du kontakta ditt webbteam eller din IT-avdelning för att få hjälp.
+För att chattbot ska visas på webbplatsen måste du först installera JavaScript-kodfragmentet Dynamic Chat. Klicka på den här fliken om du vill söka efter/kopiera den nödvändiga koden. Om du inte känner till den här åtgärden kan du kontakta ditt webbteam eller din IT-avdelning för att få hjälp.
 
 ![](assets/configuration-8.png)
 
@@ -68,7 +69,6 @@ För att chattbot ska visas på webbplatsen måste du först installera JavaScri
 >* `*.adoberesources.net`
 >* `*.adobe.io`
 >* `*.typekit.net`
-
 
 >[!NOTE]
 >

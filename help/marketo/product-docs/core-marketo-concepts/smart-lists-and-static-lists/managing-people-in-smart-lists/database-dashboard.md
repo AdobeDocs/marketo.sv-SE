@@ -3,7 +3,8 @@ unique-page-id: 10097447
 description: Databaskontrollpanel - Marketo Docs - produktdokumentation
 title: Kontrollpanel för databas
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
-source-git-commit: 1de5fe50189da04ccdbcdcd017e294e5b8cba1af
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%

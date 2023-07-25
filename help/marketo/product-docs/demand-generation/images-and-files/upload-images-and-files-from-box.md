@@ -3,7 +3,8 @@ unique-page-id: 2359868
 description: Ladda upp bilder och filer från Box - Marketo Docs - produktdokumentation
 title: Överför bilder och filer från Box
 exl-id: 08596026-ce25-4076-957a-d069aa44b85a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Image Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%

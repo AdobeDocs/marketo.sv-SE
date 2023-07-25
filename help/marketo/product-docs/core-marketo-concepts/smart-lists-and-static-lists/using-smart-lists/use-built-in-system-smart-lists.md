@@ -3,7 +3,8 @@ unique-page-id: 557275
 description: Använd inbyggda/systemsmarta listor - Marketo Docs - produktdokumentation
 title: Använd inbyggda/systemsmarta listor
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%

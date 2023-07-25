@@ -3,7 +3,8 @@ unique-page-id: 2949467
 description: Vad är Adobe Marketo Engage? - Marketo Docs - produktdokumentation
 title: Vad är Adobe Marketo Engage?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
-source-git-commit: a433eb0496bc919f4e19361fbe68512b19f03879
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%

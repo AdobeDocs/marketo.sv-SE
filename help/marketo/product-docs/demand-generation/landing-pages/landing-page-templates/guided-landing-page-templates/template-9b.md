@@ -3,7 +3,8 @@ unique-page-id: 8783984
 description: Mall 9B - Marketo Docs - produktdokumentation
 title: Mall 9B
 exl-id: 51e3d572-ab7d-44cb-b372-aacb856199d3
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%

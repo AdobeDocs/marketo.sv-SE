@@ -2,7 +2,8 @@
 description: Standardfältmappning för veva - Marketo Docs - produktdokumentation
 title: Standardvevektorgrafikmappning
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 27%

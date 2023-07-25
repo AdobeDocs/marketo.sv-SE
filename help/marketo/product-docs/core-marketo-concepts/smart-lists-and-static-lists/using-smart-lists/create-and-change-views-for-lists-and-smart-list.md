@@ -3,7 +3,8 @@ unique-page-id: 557337
 description: Skapa och ändra vyer för listor och smarta listor - Marketo Docs - produktdokumentation
 title: Skapa och ändra vyer för listor och smarta listor
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -72,4 +73,3 @@ Det är bara du som kan se de anpassade vyer du skapar i listrutan Visa, så tal
 >
 >* [Använd inbyggda/systemsmarta listor](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
 >* [Skapa en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-

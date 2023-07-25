@@ -3,7 +3,8 @@ unique-page-id: 2359732
 description: Använd dynamiskt innehåll i en landningssida i fri form - Marketo Docs - produktdokumentation
 title: Använd dynamiskt innehåll på en landningssida i fri form
 exl-id: 76441566-96be-43fb-91da-4c0c520cc9e1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -19,7 +20,6 @@ Genom att använda dynamiskt innehåll i landningssidor engagerar du publiken me
 >* [Skapa en segmentering](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [Skapa en landningssida med valfri form](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 >* [Lägga till ett nytt formulär på en startsida med valfri form](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
-
 
 ## Lägg till segmentering {#add-segmentation}
 
@@ -81,4 +81,3 @@ Voila! Nu kan du skicka riktat innehåll.
 >
 >* [Förhandsgranska en landningssida med dynamiskt innehåll](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
 >* [Använda dynamiskt innehåll i ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
-

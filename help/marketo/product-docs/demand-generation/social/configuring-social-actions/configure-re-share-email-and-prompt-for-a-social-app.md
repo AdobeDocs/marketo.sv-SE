@@ -3,7 +3,8 @@ unique-page-id: 2950559
 description: Konfigurera Dela om e-post och fråga efter en social app - Marketo Docs - produktdokumentation
 title: Konfigurera Dela om e-post och fråga efter en social app
 exl-id: 169cd423-d9e3-4dba-bce5-d6bd329d5afa
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%

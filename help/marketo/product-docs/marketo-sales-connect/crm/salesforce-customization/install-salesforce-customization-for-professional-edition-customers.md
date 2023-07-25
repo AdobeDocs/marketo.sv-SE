@@ -3,7 +3,8 @@ unique-page-id: 27656223
 description: Installera Salesforce-anpassning för Professional Edition-kunder - Marketo Docs - produktdokumentation
 title: Installera Salesforce-anpassning för Professional Edition-kunder
 exl-id: dc004a28-b580-4449-9fde-e744681ac53a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
@@ -18,7 +19,6 @@ Kunder som har Salesforce Professional Edition måste följa dessa steg för att
 >
 >* Sales Connect Admin måste ansluta sina Salesforce- och Sales Connect-konton.
 >* Den Salesforce-instans som används måste ha utrymme för att installera tretton anpassade aktivitetsfält.
-
 
 ## Installation {#installation}
 

@@ -3,7 +3,8 @@ unique-page-id: 2359530
 description: Lägg till text och token på en landningssida - Marketo Docs - produktdokumentation
 title: Lägga till text och token på en landningssida
 exl-id: df6f17dc-50a0-4ee0-9a6e-96b0ebde46c7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%

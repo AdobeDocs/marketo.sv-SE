@@ -2,7 +2,8 @@
 description: Låsning av innehåll - Marketo Docs - produktdokumentation
 title: Låsning av innehåll
 exl-id: 3f17a862-321a-4bbb-8693-117a7fb6a65c
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%

@@ -3,10 +3,11 @@ unique-page-id: 11378468
 description: Filtrering i granskningsspår - Marketo Docs - produktdokumentation
 title: Filtrera i granskningsspår
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Audit Trail
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '129'
+ht-degree: 3%
 
 ---
 

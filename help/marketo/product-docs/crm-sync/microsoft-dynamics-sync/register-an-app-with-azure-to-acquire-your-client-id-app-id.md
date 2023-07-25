@@ -3,9 +3,10 @@ unique-page-id: 12983390
 description: Registrera en app med Azure för att hämta ditt klient-ID/program-ID - Marketo Docs - produktdokumentation
 title: Registrera en app med Azure för att hämta ditt klient-ID/program-ID
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
-source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -16,7 +17,7 @@ Azure Active Directory utökar dina lokala kataloger till molnet, vilket ger st�
 
 ## Registrera en ny app {#registering-a-new-app}
 
-1. [Logga in](https://login.microsoftonline.com/){target=&quot;_blank&quot;} till Microsoft Azure-hanteringsportalen med ett konto med administratörsbehörighet. Du kan även komma åt Microsoft Azure-portalen via administrationscentret för Office 365 genom att utöka **Administratör** objekt i den vänstra navigeringsrutan och markera **Azure AD**.
+1. [Logga in](https://login.microsoftonline.com/){target="_blank"} till Microsoft Azure-hanteringsportalen med hjälp av ett konto med administratörsbehörighet. Du kan även komma åt Microsoft Azure-portalen via administrationscentret för Office 365 genom att utöka **Administratör** objekt i den vänstra navigeringsrutan och markera **Azure AD**.
 
    >[!CAUTION]
    >
@@ -24,10 +25,10 @@ Azure Active Directory utökar dina lokala kataloger till molnet, vilket ger st�
 
    >[!NOTE]
    >
-   >Om du inte har något Azure-konto kan du [registrera dig](https://azure.microsoft.com/en-us/free/){target=&quot;_blank&quot;} för en. Läs Microsoft dokumentation eller kontakta Microsoft för mer information. När du har skapat ett Azure-konto kan du registrera ett eller flera program med hjälp av proceduren som beskrivs nedan.
+   >Om du inte har något Azure-konto kan du [registrera dig](https://azure.microsoft.com/en-us/free/){target="_blank"} för en. Läs Microsoft dokumentation eller kontakta Microsoft för mer information. När du har skapat ett Azure-konto kan du registrera ett eller flera program med hjälp av proceduren som beskrivs nedan.
    >
    >
-   >Om du har ett Azure-konto men din Office 365-prenumeration med Microsoft Dynamics 365 inte är tillgänglig i din Azure-prenumeration följer du [dessa instruktioner](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target=&quot;_blank&quot;} för att associera de två kontona.
+   >Om du har ett Azure-konto men din Office 365-prenumeration med Microsoft Dynamics 365 inte är tillgänglig i din Azure-prenumeration följer du [dessa instruktioner](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} för att associera de två kontona.
 
 1. Sök och klicka **Azure Active Directory** i den vänstra navigeringsrutan.
 

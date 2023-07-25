@@ -3,7 +3,8 @@ unique-page-id: 1147352
 description: Skicka ett exempelmejl - Marketo Docs - produktdokumentation
 title: Skicka ett exempelmeddelande
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
-source-git-commit: 1586b71ec9f9c4f8abc4fd9a3277d5a5f5b88080
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 0%

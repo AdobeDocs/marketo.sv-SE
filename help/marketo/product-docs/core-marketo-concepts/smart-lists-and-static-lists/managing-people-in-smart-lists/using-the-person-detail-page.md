@@ -3,7 +3,8 @@ unique-page-id: 2953415
 description: Använda personinformationssidan - Marketo Docs - produktdokumentation
 title: Använda personinformationssidan
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
-source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 13%
@@ -23,8 +24,7 @@ Det finns många sätt att öppna specifika personer. Några exempel är:
 * **Medlemmar** flik i ett program
 * **Visa kampanjmedlemmar** i en smart kampanj
 * Några **rapporter**
-
-   <br> 
+  <br> 
 
 1. Dubbelklicka på en person eller klicka en gång på ID:t till vänster.
 
@@ -70,7 +70,7 @@ Många fält kan redigeras. Om du vill uppdatera en persons information skriver 
 
 ## Marketo-standardfält före CRM-synkronisering {#marketo-default-fields-prior-to-crm-sync}
 
-|  |  |  |  |  |
+|   |  |  |  |  |
 |---|---|---|---|---|
 | Adress | Årlig intäkt | Anonym IP | Faktureringsadress | Faktureringsort |
 | Faktureringsland | Faktureringspostnummer | Faktureringsstat | Ort | Företagets namn |

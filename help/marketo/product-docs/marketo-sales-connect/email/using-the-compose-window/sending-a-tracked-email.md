@@ -3,7 +3,8 @@ unique-page-id: 37356565
 description: Skicka ett spårat e-postmeddelande - Marketo Docs - produktdokumentation
 title: Skicka ett spårat e-postmeddelande
 exl-id: 9a2a53a5-93b9-4254-8540-510c83a6c083
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -20,7 +21,6 @@ När du skickar ett e-postmeddelande med Marketo Sales Connect spåras visningar
 >
 >* [Verifiera din e-postadress](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
 >* Konfigurera en leveranskanal för [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) eller [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
-
 
 1. Skapa ditt e-postutkast (det finns flera sätt att göra detta, i det här exemplet väljer vi **Disponera** i sidhuvudet).
 
@@ -58,4 +58,3 @@ När du skickar ett e-postmeddelande med Marketo Sales Connect spåras visningar
    >
    >* [Schemalägga ett e-postmeddelande](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
    >* [Mallar](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)
-
