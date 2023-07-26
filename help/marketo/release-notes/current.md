@@ -3,16 +3,16 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
+source-git-commit: f4c1e01f830f4f2f6ac16502511457cee7f3384e
 workflow-type: tm+mt
-source-wordcount: '780'
+source-wordcount: '667'
 ht-degree: 2%
 
 ---
 
-# Versionsinformation: Juli 2023 {#release-notes-july-23}
+# Versionsinformation: juli 2023 {#release-notes-july-23}
 
-Här nedan hittar du alla funktioner som finns i versionen från juli 23. Se om det finns funktioner i din Adobe Marketo Engage-utgåva.
+Här nedan hittar du alla funktioner som ingår i versionen från juli 2013. Se om det finns funktioner i Adobe Marketo Engage Edition.
 
 >[!AVAILABILITY]
 >
@@ -56,11 +56,11 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 Följande funktioner följer ett Agile-format och släpps på olika datum före eller efter standardreleasedatum. Kontrollera status för respektive funktion nedan.
 
-### Dynamiskt chatt {#dynamic-chat}
+### Dynamic Chat {#dynamic-chat}
 
 </br>
 
-* **Chattkälla för Dynamic Chat**: &quot;Chatt&quot; erbjuds nu som en källa till nya personregister och -aktiviteter. Den här källan kan användas för att hjälpa användare att filtrera aktiviteter i smarta listor/kampanjer. Källan kan också blockeras från uppdateringar i fält.
+* **Chattkälla för Dynamic Chat**:&quot;Chatt&quot; erbjuds nu som källa till nya personregister och -aktiviteter. Den här källan kan användas för att hjälpa användare att filtrera aktiviteter i smarta listor/kampanjer. Källan kan också blockeras från uppdateringar i fält.
 
 <table> 
   <tr> 
@@ -92,7 +92,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
 
 </br>
 
-* **Avbeställ tilläggsinställningar**: Nu har du större kontroll över dina avbeställningsmeddelanden med nya konfigurationsalternativ för Avbeställ tillägg. Nya funktioner ger administratörerna kontroll över när, var och vilket meddelande om att avbryta prenumerationen som kommer att visas i dina säljmeddelanden.
+* **Avbeställ tilläggsinställningar**: Du har nu större kontroll över dina avbeställningsmeddelanden med nya konfigurationsalternativ för Avbeställ tillägg. Nya funktioner ger administratörerna kontroll över när, var och vilket meddelande om att avbeställa prenumerationen som kommer att visas i e-postmeddelandena om försäljningen.
 
 <table> 
   <tr> 
@@ -162,7 +162,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
   </tbody>
 </table>
 
-* **Utlösartoken för Dynamic Chat**: Vi presenterar nya utlösartoken för Dynamic Chat-aktiviteter som ska användas i intressanta ögonblick.
+* **Utlösartoken för Dynamic Chat**: Introducing new Trigger Tokens for Dynamic Chat activity to be used in Intressant stunder.
 
 <table> 
   <tr> 
@@ -178,14 +178,6 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
 
 ## Meddelanden {#announcements}
 
-Det kommer två förbättringar av personaliseringen i realtid i Marketo Engage.
+* **Uppgradera till Google Analytics 4**: Marketo tidigare stödde Universal Analytics, som kommer att sluta spela in data senast 1 juli 2023. RTP-användare måste följa migreringsprocessen på sin Google Analytics-kontrollpanel för att få fullständigt stöd för integrering av Google Analytics 4 i RTP. Framöver kommer användarna att ha en unik alfanumerisk tagg (som finns i `<head>` i HTML-delen) på landningssidorna som gör att Marketo kan skicka data till Google Analytics.
 
-* **Uppgradera till jQuery 3.7**: För att förbättra säkerheten och stabiliteten uppgraderar Marketo till jQuery 3.7.0. RTP-användare som inte läser in egna jQuery påverkas inte negativt eftersom Marketo ändrar standardversionen som läses in från rtp.js. Om du är en RTP-användare med en äldre version av jQuery än 3.0.0 kontaktar du [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} om du behöver hjälp med att implementera en anpassad version av rtp.js som passar dina behov.
-
->[!NOTE]
->
->Kontakta webbutvecklingsteamet för att avgöra om din webbplats läser in ditt eget JQuery-bibliotek eller använder den standardversion som läses in från JavaScript-taggen för webbanpassning.
-
-* **Uppgradera till Google Analytics 4**: Marketo har tidigare stött Universal Analytics, som kommer att sluta spela in data senast 1 juli 2023. RTP-användare måste följa migreringsprocessen på sin Google Analytics-kontrollpanel för att få fullständigt stöd för integrering av Google Analytics 4 i RTP. Framöver kommer användarna att ha en unik alfanumerisk tagg (som finns i `<head>` i HTML-delen) på landningssidorna som gör att Marketo kan skicka data till Google Analytics.
-
-* **_Product Release Webinar_**: Besök oss den 6 september 2023 kl. 9.00 PT/12.00 ET för en [live webbinarium](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} som hanteras av vårt produktteam där du får se hur du kan använda alla de senaste produktinnovationerna.
+* **_Product Release Webinar_**: Besök oss den 6 september 2023 kl. 9:00 PT/12:00 ET för en [live webbinarium](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} som hanteras av vårt produktteam där du får se hur du kan använda alla de senaste produktinnovationerna.
