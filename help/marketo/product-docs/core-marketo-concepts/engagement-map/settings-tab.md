@@ -4,22 +4,22 @@ title: Fliken Inställningar
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
+source-git-commit: f88704f03a757f117fbb997eff13843cad637315
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
 
 # Fliken Inställningar {#settings-tab}
 
-Fliken Inställningar är startsida för alla kampanjinställningar, inklusive samma behörighetsgrupper och åtkomst som fliken Schema. ATT BESÖKA DEN HÄR FLIKEN KOMMER INTE ATT FÖRSVINNA??? ÖVERVÄG ATT SLÄPPA ELLER ÄNDRA ORDNING - LOPA KOMMER ATT BEKRÄFTA - Det kommer inte att störa befintliga kampanjinställningar.
+Fliken Inställningar är startsida för alla kampanjinställningar, inklusive samma behörighetsgrupper och åtkomst som fliken Schema i Smarta kampanjer.
 
 Den innehåller följande tre avsnitt.
 
 * **Kvalificeringsregler**: Avgör hur många gånger varje person kan gå igenom det smarta kampanjflödet.
 
-* **Enskilda körningar**: Kan användas för att schemalägga enstaka körningar antingen direkt eller i framtiden.
+* **Enskilda körningar**: Kan användas för att schemalägga enstaka körningar, antingen direkt eller i framtiden.
 
 * **Återkommande**: Används för att schemalägga en upprepning varje dag, vecka eller månad.
 
@@ -58,9 +58,13 @@ Fliken Inställningar innehåller även en snabb översikt av din smarta lista. 
 
 Behörighetsuppsättningar och fel på fliken Inställningar:
 
-Alla befintliga behörighetsgrupper kommer att användas på fliken Inställningar. Om knappen Redigera är nedtonad betyder det att du inte har behörighet att utföra redigeringar och att du måste kontakta din Marketo-administratör.
+Alla befintliga behörighetsgrupper kommer att användas på fliken Inställningar. Om knappen Redigera är nedtonad klickar du på hjälpikonen för att ta reda på varför.
 
-LÄGG TILL BESKRIVNING NÄR SCHEMALAGDA KÖRNINGAR AVBRYTS - BEKRÄFTA MED LOPA EFTER AVSTÄNGNING —> Om en användare inte har tillgång till att redigera kampanjinställningar har han/hon inte heller åtkomst till att avbryta schemalagda körningar.
+>[!NOTE]
+>
+>Om du klickar på hjälpikonen och ser &quot;Ytterligare behörighet krävs&quot; kontaktar du Marketo Admin.
+
+REDUNDANT SOM FÖRKLARAS OVAN KAN VI TA BORT —> Om en användare inte har tillgång till inställningarna för redigeringskampanjer har han/hon inte heller åtkomst till att avbryta schemalagda körningar.
 
 ![](assets/settings-tab-5.png)
 

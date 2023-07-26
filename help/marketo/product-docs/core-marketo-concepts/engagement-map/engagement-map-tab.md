@@ -4,9 +4,9 @@ title: Fliken Åtagandekarta
 hide: true
 hidefromtoc: true
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
+source-git-commit: f88704f03a757f117fbb997eff13843cad637315
 workflow-type: tm+mt
-source-wordcount: '950'
+source-wordcount: '965'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Engagement Map representeras av en serie utlösar-, filter- och flödeskort. Om du klickar på varje kort visas ytterligare information.
 
-Utlösaröversikt: Det här kortet visar antalet utlösare i kampanjen. Om du klickar på den visas ett kort för varje utlösare samt en utfällbar panel med följande information:
+Utlösaröversikt: Kortet visar antalet utlösare i kampanjen. Om du klickar på den visas ett kort för varje utlösare samt en utfällbar panel med följande information:
 
 * Kampanj som utlösaren tillhör
 * Lista med utlösarnamn
@@ -56,7 +56,7 @@ Flödessteg: Om ett flödessteg gör det _not_ inkluderar eventuella alternativ.
 
   ![](assets/engagement-map-tab-5.png)
 
-## Flödessteg för körnings- och begärandekampanjer {#flow-step-for-execute-and-request-campaigns}
+## Flödessteg för att köra och begära kampanjer {#flow-step-for-execute-and-request-campaigns}
 
 * Om flödesteget Kör eller Begär kampanj inte innehåller några alternativ visas kampanjens namn på kortet. Om du klickar på kortet visas en utfällbar panel med följande information:
 
@@ -94,72 +94,72 @@ Flödessteg: Om ett flödessteg gör det _not_ inkluderar eventuella alternativ.
 
 ## Visualisera en kapslad körningskampanj {#visualizing-a-nested-execute-campaign}
 
-PICKAD REDIGERING HÄR -
+Kör kampanjer i serie med den överordnade kampanjen. Personer som är kvalificerade för en körbar kampanj slutför alla flödessteg från kampanjen och återgår till den primära kampanjen för att fortsätta genom kampanjens flödessteg.
 
-Kör kampanjer i serie med de överordnade kampanjerna som är kvalificerade för en körbar kampanj som slutför alla flödessteg från kampanjen och återgår till den primära kampanjen för att fortsätta genom kampanjens flödessteg.
-
-Nedan visas ett exempel på en smart kampanj,&quot;Campaign A&quot;, som innehåller ett körningsflöde för kampanjer. Tänk på&quot;Campaign A&quot; som din primära kampanj.
+Nedan visas ett exempel på en Smart Campaign,&quot;Campaign A&quot;, som innehåller ett körningsflöde för kampanjer. Tänk på&quot;Campaign A&quot; som din primära kampanj.
 
 ![](assets/engagement-map-tab-11.png)
 
 1. Om du klickar på det körda kampanjflödeskortet expanderas det och visar information om&quot;Campaign B&quot;.
-1. &quot;Campaign B&quot; innehåller ett filter som ger en större publik än en kvalificerad och inte kvalificerad målgrupp.
-1. Kvalificerad målgrupp går igenom de flödessteg som är kopplade till&quot;Campaign B&quot;.
+1. &quot;Campaign B&quot; innehåller ett filter som delar upp publiken i två grupper: kvalificerade och inte kvalificerade.
+1. Kvalificerad publik går igenom de flödessteg som är kopplade till&quot;Campaign B&quot;.
 1. Alla målgrupper (kvalificerade och inte kvalificerade) går tillbaka till&quot;Campaign A&quot; och går vidare till nästa flödessteg.
 
-SLUTAD REDIGERING HÄR—
+   ![](assets/engagement-map-tab-12.png)
 
-![](assets/engagement-map-tab-12.png)
-
-Du kan klicka på steget Kör kampanj i&quot;Campaign B&quot;, som kommer att expandera för att visa alternativkort och kampanjer som är kopplade till varje val.
+Du kan klicka på Flödessteget Kör kampanj i&quot;Campaign B&quot;, som utökas för att visa de alternativkort och kampanjer som är kopplade till varje val.
 
 ![](assets/engagement-map-tab-13.png)
 
 ## Visualiserar begärandekampanj {#visualizing-request-campaign}
 
-Begärandekampanjer körs parallellt med den överordnade kampanjen, dvs. leads som kvalificerar för en begärandekampanj slutför alla flödessteg från kampanjen och avslutar kampanjen. Samtidigt kommer samma uppsättning leads också att gå igenom flödessteg från den primära kampanjen
+Begär kampanjer som körs parallellt med den överordnade kampanjen. Personer som är kvalificerade för en begärandekampanj slutför alla flödessteg från kampanjen och avslutar sedan kampanjen. Samtidigt går samma uppsättning personer igenom de olika stegen i den primära kampanjen.
 
-Här är ett exempel på den smarta kampanjen&quot;Campaign A&quot;, som innehåller ett flödessteg för begärandekampanjer. Ni kan tänka er&quot;Campaign A&quot; som er primära kampanj.
+Här är ett exempel på en Smart Campaign,&quot;Campaign A&quot;, som innehåller ett flödessteg för begärandekampanjer. Tänk på&quot;Campaign A&quot; som din primära kampanj.
 
 ![](assets/engagement-map-tab-14.png)
 
-1. Om du klickar på flödeskortet för begärandekampanjen expanderas det så att information om&quot;Campaign B&quot; visas
-1. Campaign B innehåller filter som ger ut till en kvalificerad målgrupp.
-1. Kvalificerad målgrupp går igenom de flödessteg som är kopplade till&quot;Campaign B&quot;
-1. Samtidigt går alla målgrupper vidare till nästa flödessteg i&quot;Campaign A&quot;
+1. Om du klickar på flödeskortet för begärandekampanjen expanderas det och visar information om&quot;Campaign B&quot;
+1. &quot;Campaign B&quot; innehåller ett filter som delar upp publiken i två grupper: kvalificerade och inte kvalificerade.
+1. Kvalificerad publik går igenom de flödessteg som är kopplade till&quot;Campaign B&quot;.
+1. Samtidigt går alla målgrupper vidare till nästa flödessteg i&quot;Campaign A&quot;.
 
    ![](assets/engagement-map-tab-15.png)
 
-Du kan fördjupa dig i kapslade kampanjer om något av flödesstegen innehåller ytterligare en kampanj genom att klicka på flödeskortet för att visa information om kampanjen
+Du kan fördjupa dig i dina kapslade kampanjer om någon av flödesstegen innehåller en annan begärandekampanj genom att klicka på flödeskortet för att visa information om kampanjen.
 
 ![](assets/engagement-map-tab-16.png)
 
-Här är ett exempel på en begärandekampanj med valmöjligheter.
+Här är ett exempel på en frågekampanj med valmöjligheter.
 
 ![](assets/engagement-map-tab-17.png)
 
 ## Felhantering {#error-handling}
 
-Fel i smarta listor och flödessteg markeras via en felikon på kortet. Motsvarande felmeddelande visas dessutom i panelen för utskjutning.
+Fel i smarta listor och flödessteg markeras med en felikon på kortet. Dessutom visas ett motsvarande felmeddelande på panelen för utskjutning.
 
-Här är ett exempel på fel i utlösaren som visas i utlösaröversiktskortet, panelen för utskjutning samt utlösarkortet för detaljer
+Nedan visas ett exempel på ett fel i en utlösare som visas i utlösaröversiktskortet, utfällningspanelen och detaljutlösarkortet.
 
 ![](assets/engagement-map-tab-18.png)
 
 ![](assets/engagement-map-tab-19.png)
 
-Fel på filterkortet kan innehålla
+**Fel i filterkort kan vara:**
 
-Fel i den smarta listan som gör att kvalificerade målgrupper inte visas
+* Ett fel i Smart List som gör att kvalificerade målgrupper inte visas
 
-Fel i filterlogik
+* Ett fel i filterlogiken
 
-Fel i begränsningar eller avsaknad av sådana i ett eller flera filter
+* Ett fel i begränsningar (eller avsaknad av sådana) i ett eller flera filter
 
-![](assets/engagement-map-tab-20.png)
+  ![](assets/engagement-map-tab-20.png)
 
-Om du inte anger värden (attribut) flaggas de inte som fel, utan fortsätter att fungera som på fliken Flöde. Befintliga kampanjer kommer därför inte att störas. Om flödessteg inte innehåller några attribut visas de som varningar.
+Om du inte anger värden (attribut) kommer det inte att resultera i något fel. Det kommer att fortsätta fungera som på fliken Flöde. Befintliga kampanjer kommer därför inte att störas. Om flödessteg inte innehåller några attribut visas de som varningar.
+
+^^^^ BEHÖVER VI VERKLIGEN DETTA, KOMMER INTE KUNDEN ATT SE VARNING??
 
 ![](assets/engagement-map-tab-21.png)
 
-Obs! Fel i en kapslad kampanj visas inte förrän du har klickat för att expandera den kapslade kampanjen
+>[!NOTE]
+>
+>Fel i en kapslad kampanj syns inte förrän du har klickat för att utöka den kapslade kampanjen.

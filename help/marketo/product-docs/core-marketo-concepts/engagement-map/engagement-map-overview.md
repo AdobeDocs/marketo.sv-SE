@@ -4,9 +4,9 @@ title: Översikt över Engagement Map
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
+source-git-commit: f88704f03a757f117fbb997eff13843cad637315
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '787'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->Den här funktionen är för närvarande tillgänglig för smarta kampanjer. Det är inte tillgängligt för Program.
+>Den här funktionen är tillgänglig för smarta kampanjer. Det är inte tillgängligt för Program.
 
 Med Engagement Map kan ni bygga ut återanvändbara smarta kampanjer med hjälp av intuitiva bilder. Den är helt bakåtkompatibel med alla befintliga Marketo Engage Smart Campaigns, utan att nuvarande funktioner går förlorade.
 
@@ -27,15 +27,15 @@ Navigera till en befintlig kampanj och klicka på **Engagement Map** -knappen.
 
 SCREENSHOT
 
-När du är med på Engagement Map visas två flikar: [Engagement Map](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}.
+När du är med på Engagement Map visas två flikar: [Engagement Map](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
 SCREENSHOT
 
-SIDHUVUD - KORTBESKRIVNINGAR? - LOPA BEKRÄFTAR
+## Kortbeskrivningar {#card-descriptions}
 
 **Utlösare**: I kampanjer som innehåller utlösare har kartan ett kort för utlösaröversikt. Om du klickar på den visas ett kort för varje utlösare samt en utfällbar panel med ytterligare information.
 
-**Filter**: I kampanjer som innehåller filter kommer kartan att innehålla ett kort för varje. Om du klickar på dem visas en utfällbar panel med ytterligare information.
+**Filter**: I kampanjer som innehåller filter innehåller kartan ett kort för varje. Om du klickar på dem visas en utfällbar panel med ytterligare information.
 
 **Flödessteg**: Varje kampanj kommer att innehålla ett kort för varje flödessteg. Om du klickar på dem visas en utfällbar panel med ytterligare information.
 
@@ -43,7 +43,7 @@ SIDHUVUD - KORTBESKRIVNINGAR? - LOPA BEKRÄFTAR
 
 ## Kapslade kampanjer {#nested-campaigns}
 
-* Om en kampanj innehåller ett Request- eller Execute Campaign-flödessteg visas information om den kampanj som anropas samt en utfällbar panel med ytterligare information om du klickar på flödeskortet. (Den kapslade kampanjen kommer även att innehålla en närbild. Om du klickar på den komprimeras korten som är kopplade till den kapslade kampanjen.) !!!!!!!!!!!!! - ORDNA OM ELLER TA BORT - LOPA BEKRÄFTAR
+* Om en kampanj innehåller ett Request- eller Execute Campaign-flödessteg visas information om den kampanj som anropas samt en utfällbar panel med ytterligare information om du klickar på flödeskortet.
 
 * Om en kampanj innehåller ett Request- eller Execute Campaign-flödessteg med alternativ, visas ett alternativt alternativkort och en utfällbar panel med mer information om alternativen när du klickar på flödeskortet. Om du klickar på varje alternativkort visas information om den kampanj som anropas samt en utfällbar panel med mer information.
 
@@ -55,7 +55,7 @@ SCREENSHOT
 
 Den övre navigeringen innehåller följande funktioner:
 
-!!!!!!!! SCREENSHOUT ÄR UPPDATERAD - GRAB NEW ONE
+!!!!!!! SCREENSHOUT ÄR UPPDATERAD - GRAB NEW ONE
 
 * Kampanjnamn och åtkomst till&quot;Redigera kampanj&quot; modal, du kan redigera kampanjnamnet och beskrivningen här.
 
@@ -73,7 +73,7 @@ Den övre navigeringen innehåller följande funktioner:
 
 >[!NOTE]
 >
->Ändringar som görs på en öppen smart lista och Flödesflik visas på fliken Engagement Map när programmet uppdateras. Den uppdateras inte automatiskt. Uppdateringar och redigeringar som sparas automatiskt visas.
+>Ändringar som görs på en öppen smart lista och Flödesflik visas på fliken Engagement Map när du uppdaterar. Den uppdateras inte automatiskt. Uppdateringar och redigeringar som sparas automatiskt visas.
 
 ## Vanliga frågor {#faq}
 
@@ -83,7 +83,7 @@ Nej. Engagement Map har fullständig bakåtkompatibilitet. Med en enkel musklick
 
 **Betyder Engagement Map i Marketo Engage att jag inte längre har tillgång till mappstrukturen och måste lära mig hur man bygger en Smart Campaign?**
 
-Nej. Det fina med Engagement Map är att det ger er det bästa av två världar; det kompletterar det sätt på vilket ni bygger kampanjer för närvarande. Du kan välja om du vill använda det befintliga användargränssnittet eller skapa/visualisera i det nya användargränssnittet. Alla användare kommer fortfarande att få tillgång till kraftfulla Marketo Engage-funktioner som nu kompletteras av ett visuellt verktyg.
+Nej. Det fina med Engagement Map är att det ger er det bästa av två världar; det kompletterar det sätt på vilket ni bygger kampanjer just nu. Du kan välja om du vill använda det befintliga användargränssnittet eller skapa/visualisera i det nya användargränssnittet. Alla användare kommer fortfarande att få tillgång till de kraftfulla funktionerna i Marketo Engage, som nu kompletteras av ett visuellt verktyg.
 
 **Är Engagement Map ett betalt tillägg?**
 
@@ -93,7 +93,7 @@ Nej. Alla befintliga och nya användare av Marketo Engage under alla prenumerati
 
 Nej. Engagement Map kommer att vara tillgängligt för alla användare i deras instanser. Du kan inte aktivera/inaktivera den för vissa användare, arbetsytor osv.
 
-**Finns det för närvarande allt som finns i smarta kampanjer även i Engagement Map?**
+**Finns det för närvarande allt som finns tillgängligt i smarta kampanjer även i Engagement Map?**
 
 Ja. Engagement Map har fullständig funktionsparitet med smarta kampanjer.
 
@@ -103,9 +103,9 @@ Det finns tre viktiga saker som skiljer Engagement Map åt:
 
 * Flexibilitet: Hantera och validera enkelt sammankopplade eller djupt inkapslade kampanjer med visualisering.
 
-* Funktionalitet: Alla bilder ligger utanför kartongen vilket gör dem enklare att använda. den kapslade strukturen gör att du kan dyka in och få hela bilden.
+* Funktion: Alla bilder är utanför ramarna, vilket gör dem enklare att använda. Med den kapslade strukturen kan du dyka in och få hela bilden.
 
-* Ström: Du behåller alla finesser i Marketo Engage, nu i ett visuellt format.
+* Styrka: Du behåller alla finesser i Marketo Engage, nu i ett visuellt format.
 
 >[!MORELIKETHIS]
 >
