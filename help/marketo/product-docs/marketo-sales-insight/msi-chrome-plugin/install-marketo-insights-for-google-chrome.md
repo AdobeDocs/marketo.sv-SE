@@ -4,26 +4,26 @@ description: Installera Marketo Insights för Google Chrome - Marketo Docs - pro
 title: Installera Marketo Insights för Google Chrome
 exl-id: 358b2737-52de-4d3b-a6e8-3254a8123359
 feature: Marketo Sales Insights
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
 
 # Installera Marketo Insights för Google Chrome {#install-marketo-insights-for-google-chrome}
 
-Följ de här stegen för att börja använda det kraftfulla Chrome-tillägget.
+Följ de här stegen för att börja använda det kraftfulla Chrome-tillägget. Du behöver inte vara Marketo-administratör för att installera tillägget.
 
 >[!NOTE]
 >
 >Funktioner för Sales Insight-åtgärder, inklusive Skicka e-post, Lägg till i säljkampanj och Uppgifter, är inte tillgängliga i e-postpluginer för Sales Insight för Gmail och Outlook. För närvarande kan användare bara skicka spårbara e-postmeddelanden med eller utan en Marketo-e-postmall från sin e-postklient när de använder e-postpluginmodulerna för Sales Insight.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->Du behöver inte vara Marketo-administratör för att installera tillägget.
+>Det här tillägget är inte kompatibelt med [Autentisering av Adobe-identitet](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} just nu.
 
-1. Installera [Marketo Insights for Google Chrome Add in extension](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb) från Chrome Web Store.
+1. Installera [Marketo Insights for Google Chrome Add in extension](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb){target="_blank"} från Chrome Web Store.
 
    ![](assets/image2015-10-5-10-3a24-3a7.png)
 
@@ -41,7 +41,7 @@ Följ de här stegen för att börja använda det kraftfulla Chrome-tillägget.
 
    >[!NOTE]
    >
-   >Registreringskoden finns i e-postmeddelandet som skickas efter en Marketo-administratör [utfärdar en Marketo-licens för e-posttillägg](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [.](https://docs.marketo.com/pages/viewpage.action?pageid=7510848) **Den upphör att gälla efter 14 dagar**.
+   >Registreringskoden finns i e-postmeddelandet som skickas efter en Marketo-administratör [utfärdar en Marketo-licens för e-posttillägg](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md){target="_blank"}. **Den upphör att gälla efter 14 dagar**.
 
 1. Klicka **Tillåt** för att ge åtkomst offline.
 
@@ -49,4 +49,4 @@ Följ de här stegen för att börja använda det kraftfulla Chrome-tillägget.
 
 >[!MORELIKETHIS]
 >
->[Använda Marketo Insights för Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+>[Använda Marketo Insights för Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md){target="_blank"}

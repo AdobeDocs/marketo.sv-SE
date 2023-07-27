@@ -1,24 +1,27 @@
 ---
 unique-page-id: 8781845
 description: Understanding Marketo Moments - Marketo Docs - Product Documentation
-title: Om Marketo Moments
+title: Förstå Marketo Moments
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '556'
 ht-degree: 0%
 
 ---
 
-# Om Marketo Moments {#understanding-marketo-moments}
+# Förstå Marketo Moments {#understanding-marketo-moments}
 
 Nu ligger kraften i Marketo i dina händer, bokstavligen! Förhandsgranska och schemalägg om e-post direkt från mobilen eller iPad.
 
->[!AVAILABILITY]
->
+>[!NOTE]
 >
 >Åtkomst till mobilappar krävs. Kontakta din Marketo-administratör för att [uppdatera din roll](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+
+>[!AVAILABILITY]
+>
+>Den här appen är inte kompatibel med [Autentisering av Adobe-identitet](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} just nu.
 
 ## Strömmar {#streams}
 
@@ -30,10 +33,10 @@ Här är de olika strömmarna i ögonblicket.
 >
 >**Definition**
 >
->* Moment: Allt som bara sprang, eller är på väg att springa, hamnar här.
->* Favoriter: Allt du gör till en favorit går in här.
+>* Moment: Allt som precis har körts, eller är på väg att köras, hamnar här.
+>* Favoriter: allt du gör till en favorit hamnar här.
 >* Senare: Allt som sker senare än det här ögonblicket går in här.
->* Klart: Allt som har körts färdigt eller du markerat som gjort hamnar här.
+>* Klart: Allt som har körts färdigt eller du har markerat som gjort hamnar här.
 
 Okej, nu när vi har det ur vägen kan vi ta en titt på Marketo Moments på en telefon!
 
@@ -63,7 +66,7 @@ När du trycker på kortet öppnas en detaljskärm.
 
 >[!NOTE]
 >
->Orange kort har bekräftats. gråa är Preliminära.
+>Orange kort bekräftas, grå kort är preliminärt.
 
 ![](assets/image2015-9-25-9-3a37-3a26.png)
 
@@ -79,10 +82,10 @@ Bra! Nu kan du få något att hända genom att trycka på:
 >
 >**Definition**
 >
->* Favorit: Det är enkelt att lägga märke till de saker som kommer i rätt tid och som är viktigast om du gör dem till favoriter.
+>* Favorit: Det är enkelt att vara uppmärksam på de saker som är snabbast och viktigast om du gör dem till favoriter.
 >* Klart: Klart tar bort det från vyn Marketo Moments (men lämnar det i Marketo, säkert och ljudformat).
->* Dela: Skicka en bild för att motivera eller gratulera ert team.
->* Skicka exempel (endast e-post): Använd detta för att låta andra se hur dina e-postmeddelanden ser ut innan du skickar ut dem.
+>* Dela: Skicka en bild för att motivera eller gratulera ditt team.
+>* Skicka exempel (endast e-post): Använd det här alternativet om du vill att andra ska kunna se hur dina e-postmeddelanden ser ut innan du skickar ut dem.
 >* Förhandsgranska e-post (endast e-post): Det är alltid en bra idé att checka ut dina e-postmeddelanden i förväg.
 
 ## Senare stunder {#later-moments}
@@ -135,7 +138,7 @@ Under alla steg på vägen kan du bekräfta eller avbryta en åtgärd. Om du än
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
-## Versioner som stöds  {#supported-versions}
+## Versioner  {#supported-versions}
 
 Marketo Moments har stöd för följande operativsystemversioner:
 

@@ -3,14 +3,18 @@ description: Översikt över incheckning av händelser
 title: Översikt över incheckning av händelser
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
 
 # Översikt över incheckning av händelser {#event-check-in-overview}
+
+>[!AVAILABILITY]
+>
+>Den här appen är inte kompatibel med [Autentisering av Adobe-identitet](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} just nu.
 
 Med Marketo Events-appen för iPad eller Android-surfplattor är det enkelt att checka in personer direkt när de kommer till ditt evenemang.
 
@@ -24,9 +28,9 @@ Ha en fantastisk fest!
 
 Före händelsen:
 
-* [Skapa en ny Marketo-roll](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) för iPad- eller Android-användare för evenemanget
-* [Bjud in nya surfplatteanvändare till evenemanget](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) och tilldela dem den nya rollen
-* [Skapa ett nytt Marketo-eventprogram](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+* [Skapa en ny Marketo-roll](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} för iPad- eller Android-användare för evenemanget
+* [Bjud in nya surfplatteanvändare till evenemanget](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} och tilldela dem den nya rollen
+* [Skapa ett nytt Marketo-eventprogram](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
 * Ange händelsedatum
 * Lägg till personer i din aktivitet
 
@@ -45,5 +49,5 @@ Vid händelsen:
 
 * Logga in i appen
 * Hitta gäster (och skapa nya personer)
-* [Checka in gäster](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) (incheckning bakåt, redigera personposter vid incheckning)
+* [Checka in gäster](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md){target="_blank"} (incheckning bakåt, redigera personposter vid incheckning)
 * Synkronisera appen iPad eller Android med Marketo
