@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 95eb2ddf7ecb94a930c59cad57f39d45465bb9c2
+source-git-commit: 5b52f8fb9a7d2f19e271ec3f48d0f3499e2ef00f
 workflow-type: tm+mt
 source-wordcount: '9001'
 ht-degree: 0%
@@ -959,7 +959,7 @@ ht-degree: 0%
          + [Så här säger du upp prenumerationen](product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
          + [Använd dina dedikerade IP-adresser för att skicka e-postmeddelanden](product-docs/email-marketing/deliverability/use-your-dedicated-ip-addresses-to-send-emails.md)
          + Inkorgsspåraren {#inbox-tracker}
-            + [Inkorgsspåraren Tutorials](product-docs/email-marketing/inbox-tracker/inbox-tracker-tutorials.md)
+            + [Inkorgsspåraren Tutorials](product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md)
       + Drivrutiner {#drip-nurturing}
          + Skapa ett engagemangsprogram {#creating-an-engagement-program}
             + [Lägg till en ström](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
