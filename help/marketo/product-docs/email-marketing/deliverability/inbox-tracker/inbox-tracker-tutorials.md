@@ -1,23 +1,21 @@
 ---
 description: Inkorgsspåraren Tutorials - Marketo Docs - produktdokumentation
 title: Inkorgsspåraren Tutorials
-hide: true
-hidefromtoc: true
 feature: Deliverability
-source-git-commit: 95eb2ddf7ecb94a930c59cad57f39d45465bb9c2
+source-git-commit: 1f55f6ae17f4c5a059a7e937f9c115a79514e8db
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
 
 # Inkorgsspåraren Tutorials {#inbox-tracker-tutorials.md}
 
-Inkorgsspåraren från MessageBird är ett kraftfullt verktyg från tredje part...
+Testa, övervaka och förstå leveransproblem med Marketo Email Deliverability Powerpack, som bygger på MessageBirds Inbox Tracker-plattform. Inkorgsspåraren är ett enskilt program som kombinerar intelligensen i ditt program och framsynen av e-poståtergivning/inkorgstestning för att maximera e-postens prestanda.
 
-MessageBird har skapat flera utbildningsvideor som hjälper dig att navigera på plattformen.
+![](assets/inbox-tracker-tutorials-1.png)
 
-SCREENSHOT
+MessageBird har skapat flera utbildningsvideor som hjälper dig att få ut det mesta av det här kraftfulla verktyget.
 
 ## Översikt över Inkorgsspåraren {#inbox-tracker-overview}
 
@@ -28,6 +26,8 @@ SCREENSHOT
 [Intelligens (Konfigurera och hämta)](https://veed.io/view/8b9e398e-21c9-49dc-a133-e1d8eb8ba03d){target="_blank"}
 
 ## Inkorgsspåraren - leveransavsnitt {#inbox-tracker-deliverability-section}
+
+![](assets/inbox-tracker-tutorials-2.png)
 
 [Översikt över instrumentpanelen](https://veed.io/view/2d1084f3-b4b4-440b-9977-a3cc3b885bb9){target="_blank"}
 
@@ -62,5 +62,7 @@ SCREENSHOT
 [Google Postmaster Tools](https://veed.io/view/7c89c0d8-ead2-46ad-9709-7509d043442a){target="_blank"}
 
 ## Designspårare {#design-tracker}
+
+![](assets/inbox-tracker-tutorials-3.png)
 
 [Designspårare](https://veed.io/view/3efe7959-d835-4a00-948c-93e4a0394871){target="_blank"}
