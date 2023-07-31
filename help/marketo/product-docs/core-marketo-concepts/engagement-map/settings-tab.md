@@ -4,9 +4,9 @@ title: Fliken Inställningar
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -63,8 +63,6 @@ Alla befintliga behörighetsgrupper kommer att användas på fliken Inställning
 >[!NOTE]
 >
 >Om du klickar på hjälpikonen och ser &quot;Ytterligare behörighet krävs&quot; kontaktar du Marketo Admin.
-
-REDUNDANT SOM FÖRKLARAS OVAN KAN VI TA BORT —> Om en användare inte har tillgång till inställningarna för redigeringskampanjer har han/hon inte heller åtkomst till att avbryta schemalagda körningar.
 
 ![](assets/settings-tab-5.png)
 

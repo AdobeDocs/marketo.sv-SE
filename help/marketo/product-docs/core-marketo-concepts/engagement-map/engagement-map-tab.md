@@ -4,9 +4,9 @@ title: Fliken Åtagandekarta
 hide: true
 hidefromtoc: true
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '965'
+source-wordcount: '913'
 ht-degree: 0%
 
 ---
@@ -153,12 +153,6 @@ Nedan visas ett exempel på ett fel i en utlösare som visas i utlösaröversikt
 * Ett fel i begränsningar (eller avsaknad av sådana) i ett eller flera filter
 
   ![](assets/engagement-map-tab-20.png)
-
-Om du inte anger värden (attribut) kommer det inte att resultera i något fel. Det kommer att fortsätta fungera som på fliken Flöde. Befintliga kampanjer kommer därför inte att störas. Om flödessteg inte innehåller några attribut visas de som varningar.
-
-^^^^ BEHÖVER VI VERKLIGEN DETTA, KOMMER INTE KUNDEN ATT SE VARNING??
-
-![](assets/engagement-map-tab-21.png)
 
 >[!NOTE]
 >

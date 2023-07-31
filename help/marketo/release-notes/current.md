@@ -3,7 +3,7 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f4c1e01f830f4f2f6ac16502511457cee7f3384e
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
 source-wordcount: '667'
 ht-degree: 2%
@@ -24,7 +24,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 </br>
 
-* **Engagement Map**: Engagement Map är ett visuellt verktyg som gör att ni kan skapa och organisera återanvändbara kampanjer. Den är helt bakåtkompatibel, så alla befintliga kampanjer kan visas i den nya strukturen med en enkel musklickning. Du kan ladda ned och dela uppslag.
+* **Engagement Map**: Engagement Map är ett visuellt verktyg som gör att ni kan skapa och organisera återanvändbara kampanjer. Den är helt bakåtkompatibel, så alla befintliga kampanjer kan visas i den nya strukturen med en enkel musklickning. Kartor kan laddas ned och delas.
 
 <table> 
   <tr> 

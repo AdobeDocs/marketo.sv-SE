@@ -4,9 +4,9 @@ title: Översikt över Engagement Map
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '787'
+source-wordcount: '777'
 ht-degree: 0%
 
 ---
@@ -19,17 +19,17 @@ ht-degree: 0%
 
 Med Engagement Map kan ni bygga ut återanvändbara smarta kampanjer med hjälp av intuitiva bilder. Den är helt bakåtkompatibel med alla befintliga Marketo Engage Smart Campaigns, utan att nuvarande funktioner går förlorade.
 
-SCREENSHOT
+![](assets/engagement-map-overview-1.png)
 
 ## Åtkomst till engagemangskarta {#accessing-engagement-map}
 
 Navigera till en befintlig kampanj och klicka på **Engagement Map** -knappen.
 
-SCREENSHOT
+![](assets/engagement-map-overview-2.png)
 
 När du är med på Engagement Map visas två flikar: [Engagement Map](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
-SCREENSHOT
+![](assets/engagement-map-overview-3.png)
 
 ## Kortbeskrivningar {#card-descriptions}
 
@@ -51,11 +51,7 @@ SCREENSHOT
 
 ## Övre navigering {#top-navigation}
 
-SCREENSHOT
-
 Den övre navigeringen innehåller följande funktioner:
-
-!!!!!!! SCREENSHOUT ÄR UPPDATERAD - GRAB NEW ONE
 
 * Kampanjnamn och åtkomst till&quot;Redigera kampanj&quot; modal, du kan redigera kampanjnamnet och beskrivningen här.
 
