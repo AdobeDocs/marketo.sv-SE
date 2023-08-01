@@ -1,10 +1,8 @@
 ---
 description: Fliken Inställningar - Marketo Docs - produktdokumentation
 title: Fliken Inställningar
-hide: true
-hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 0%
@@ -45,7 +43,7 @@ Upprepningsmetoden innefattar möjligheten att ställa in ett återkommande sche
 
 ![](assets/settings-tab-4.png)
 
-Fliken Inställningar innehåller även en snabb översikt av din smarta lista. Den innehåller följande uppgifter:
+Fliken Inställningar innehåller även en snabb översikt av din smarta kampanj. Den innehåller följande uppgifter:
 
 * Kampanjstatus
 * Skapad den
