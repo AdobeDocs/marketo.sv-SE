@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
+source-git-commit: 93be928e540fd50d92bef4ead3ea23519de18cce
 workflow-type: tm+mt
-source-wordcount: '667'
+source-wordcount: '665'
 ht-degree: 2%
 
 ---
@@ -33,7 +33,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   </tr>
   <tr> 
    <td>Levererat</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md">Översikt över Engagement Map</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md" target="_blank">Översikt över Engagement Map</a></td>
   </tr>
   </tbody>
 </table>
@@ -114,8 +114,8 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/field-prompts.md" target="_blank">Fältfrågor</a></td>
   </tr>
   </tbody>
 </table>
@@ -128,8 +128,8 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md" target="_blank">Dynamiska fält</a></td>
   </tr>
   </tbody>
 </table>

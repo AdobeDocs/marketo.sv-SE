@@ -3,9 +3,9 @@ description: Inherit Doc 1 - Marketo Docs - produktdokumentation
 title: Ärv dok 1
 hide: true
 hidefromtoc: true
-source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
+source-git-commit: 93be928e540fd50d92bef4ead3ea23519de18cce
 workflow-type: tm+mt
-source-wordcount: '804'
+source-wordcount: '851'
 ht-degree: 5%
 
 ---
@@ -223,8 +223,10 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
    <th>Kolumn 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>CRM</td> 
+   <td><li>Vilken CRM synkroniserar du med? Salesforce? MS Dynamics? Veeva?</li>
+<li>Är den anpassade synkroniseringen eller dubbelriktad? (KG: korrigera grammatik och kontrollera betydelse)</li>
+<li>[Endast Salesforce] Har din instans anpassade synkroniseringsfilter implementerats? Kontakta Marketo Support för att identifiera anpassade synkroniseringsfilter eller begära att en anpassad synkroniseringsregel implementeras.</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -244,10 +246,10 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
   </tr>
   <tr> 
    <td>Marketo Sales Insight (om tillämpligt)</td> 
-   <td><li>Har MSI-paketet installerats?</li>
-<li>Har du uppgraderat till den senaste versionen av Sales Insight?</li>
+   <td><li>Har <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">MSI-paketet har installerats</a>?</li>
+<li>Har du <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">uppgraderat till den senaste versionen av Sales Insight</a>?</li>
 <li>Har du slutfört konfigurationen av Sales Insight?</li>
-<li>Har du gett användarna åtkomst baserat på hur många licenser ni har köpt?</li></td>
+<li>Har du <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">ger åtkomst till dina användare</a> baserat på hur många licenser du har köpt?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
