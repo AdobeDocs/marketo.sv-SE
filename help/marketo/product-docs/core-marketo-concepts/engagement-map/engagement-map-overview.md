@@ -2,9 +2,9 @@
 description: Översikt över Engagement Map - Marketo Docs - produktdokumentation
 title: Översikt över Engagement Map
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
+source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,9 @@ Den övre navigeringen innehåller följande funktioner:
 
 * Knappen Aktivera/inaktivera för utlösarkampanjer
 
-* Redigera smart lista - du kommer att navigeras till gränssnittet Smart lista på en ny flik där du kan lägga till eller redigera dina flödessteg
+* Redigera smart lista - du kommer att navigeras till gränssnittet Smart lista på en ny flik där du kan lägga till eller redigera filter och/eller utlösare
 
-* Redigera flöde - du kommer att navigeras till Flödesgränssnittet på en ny flik där du kan lägga till eller redigera din smarta lista
+* Redigera flöde - du kommer att navigeras till Flödesgränssnittet på en ny flik där du kan lägga till eller redigera dina flödessteg
 
 * Export - Detta hämtar en bild av kampanjvisualiseringen. Den nedladdade versionen återspeglar alla grenar som du har expanderat
 

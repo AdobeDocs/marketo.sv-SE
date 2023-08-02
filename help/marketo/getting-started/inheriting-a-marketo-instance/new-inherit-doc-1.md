@@ -3,10 +3,10 @@ description: Inherit Doc 1 - Marketo Docs - produktdokumentation
 title: Ärv dok 1
 hide: true
 hidefromtoc: true
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
 workflow-type: tm+mt
-source-wordcount: '443'
-ht-degree: 14%
+source-wordcount: '804'
+ht-degree: 5%
 
 ---
 
@@ -119,8 +119,8 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
   </tr> 
   <tr> 
    <td>Inställningar för smart kampanj</td> 
-   <td><li>Finns det begränsningar? Har ert företag policyer där kommunikationsbegränsningar kan behövas?</li>
-<li>Adobe rekommenderar att du begränsar din kommunikation till 1 per dag och 3 per 7 dagar med e-post som inte fungerar blockerad.</li></td>
+   <td><li>Har du en begränsning för storleken på Smart Campaign?</li>
+<li>Om inte, överväg att lägga till en. Vi rekommenderar att gränsen för smarta kampanjer begränsas till 25 % av databasen för att undvika överkommunikation eller att hela databasen behandlas i arbetsflöden. Detta skyddar inte bara varumärket utan hjälper till att skydda instansens prestanda.</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -136,18 +136,9 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
    <th>Kolumn 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Kommunikationsbegränsningar</td> 
+   <td><li>Finns det begränsningar? Har ert företag policyer där kommunikationsbegränsningar kan behövas?</li>
+<li>Adobe rekommenderar att du begränsar din kommunikation till 1 per dag och 3 per 7 dagar, med e-post som inte fungerar blockerad.</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -163,18 +154,24 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
    <th>Kolumn 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Taggar</td> 
+   <td><li>Hur många taggar finns det? Hur många taggar används? Behöver du lägga till något?</li>
+<li>Krävs det taggar i programmen?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Kanaler</td> 
+   <td><li>Hur många kanaler finns det? Hur många används?</li>
+<li>Är alla kanalprogramstatusar lämpliga? Visas framsteg inom programmet?</li>
+<li>Är era kanaler relaterade till specifika programtyper?</li>
+<li>Vilka statusvärden anses vara framgångsrika för varje kanal? Anpassar de era marknadsföringsmål?</li>
+<li>Används den operativa kanalen korrekt?</li>
+<li>För Advanced Report Builder (Revenue Cycle Explorer\RCE), är kanalanalysfunktionen inställd på att anpassa sig till era programrutiner med periodkostnader?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Marknadsföringskalender (om tillämpligt)</td> 
+   <td><li>Hur många kalenderposttyper finns det? Är de fortfarande relevanta?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -190,18 +187,27 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
    <th>Kolumn 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Fälthantering</td> 
+   <td><li>Hur många fält finns det? Klicka på Exportera fältnamn om du vill visa en lista över fält, anpassade fält och deras API-namn.</li>
+<li>Hur många anpassade fält finns det?</li>
+<li>Hur många fält används? Välj Exportera som används av i listrutan Fältåtgärder om du vill granska relaterade resurser i ett fält.</li>
+<li>Hur många synkroniseras mellan Marketo Engage och CRM?</li>
+<li>Synkroniseras CRM-fält med rätt objekt?</li>
+<li>Finns det en anpassad vyuppsättning för persondetaljer? Borde det vara?</li>
+<li>Har du en namngivningsregel för dina fält baserat på källa? Om inte, överväg att genomföra detta.</li>
+<li>Finns det några fält blockerade? Se till att förstå varför de är det.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Anpassade aktiviteter</td> 
+   <td><li>Finns det några anpassade aktiviteter?</li>
+<li>Klicka i så fall igenom dem för att förstå vilka aktiviteter som inte är relaterade till ett Marketo-formulär, e-postmeddelande eller en landningssida.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Anpassade objekt</td> 
+   <td><li>Hur många anpassade objekt finns det? Hur synkroniseras de med din CRM?</li>
+<li>Hur används dessa anpassade objekt av program och listfrågor?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -229,6 +235,19 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
   <tr> 
    <td>1</td> 
    <td>2</td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>1</td> 
+   <td>2</td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Marketo Sales Insight (om tillämpligt)</td> 
+   <td><li>Har MSI-paketet installerats?</li>
+<li>Har du uppgraderat till den senaste versionen av Sales Insight?</li>
+<li>Har du slutfört konfigurationen av Sales Insight?</li>
+<li>Har du gett användarna åtkomst baserat på hur många licenser ni har köpt?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
