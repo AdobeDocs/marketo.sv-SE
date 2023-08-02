@@ -3,18 +3,20 @@ description: Inherit Doc 1 - Marketo Docs - produktdokumentation
 title: Ärv dok 1
 hide: true
 hidefromtoc: true
-source-git-commit: 93be928e540fd50d92bef4ead3ea23519de18cce
+source-git-commit: f3ec0872e94d9e12219945f92040b7dbc67e5bed
 workflow-type: tm+mt
-source-wordcount: '851'
-ht-degree: 5%
+source-wordcount: '1140'
+ht-degree: 2%
 
 ---
 
 # Ärv dok 1 {#inherit-doc-1}
 
-Granskning av en ärvd instans kan se ut som en
+Granskning av en ärvd instans kan se ut som en..
 
-Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? I så fall är den här artikeln till dig.
+Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? I så fall är den här artikeln till dig ...
+
+Checklistan nedan har lagts ihop med indata från Marketo Champions så att du snabbt kommer igång i den ärvda instansen..
 
 >[!TIP]
 >
@@ -37,7 +39,7 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
 <li>Hur många användare har administratörsbehörighet?</li>
 <li>Ska någon av dessa användare ändras till andra roller?</li> 
 <li>Vilka är API-användarna i den här instansen?</li></td>
-   <td>3.1</td>
+   <td>3</td>
   </tr>
   <tr> 
    <td>Roller</td> 
@@ -47,19 +49,19 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
 <li>Hur ofta loggar användare in?</li>
 <li>Har varje API-användare en egen användarroll? Om inte, bör du implementera den för att underlätta felsökningen.</li> 
 <li>Anpassar era användarroller och behörigheter till era integritetspolicyer för företagsdata?</li></td>
-   <td>3.2</td>
+   <td>3</td>
   </tr>
   <tr> 
    <td>Intern dokumentation</td> 
    <td><li>Är användare och roller tydligt definierade i din organisation?</li>
 <li>Hur lägger du till en ny användare/administratör?</li></td>
-   <td>3.3</td>
+   <td>3</td>
   </tr>
   <tr> 
    <td>Sandlåda (om tillämpligt)</td> 
    <td><li>Har du en sandlådeinstans? I så fall kan du granska kategorierna ovan för din sandlåda.</li>
 <li>Är programimport länkad till din sandlåda?</li></td>
-   <td>3.4</td>
+   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -76,7 +78,7 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
   <tr> 
    <td>Granskningsspår</td> 
    <td><li>Vem arbetar i instansen?</li></td>
-   <td>3.1</td>
+   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -225,23 +227,34 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
   <tr> 
    <td>CRM</td> 
    <td><li>Vilken CRM synkroniserar du med? Salesforce? MS Dynamics? Veeva?</li>
-<li>Är den anpassade synkroniseringen eller dubbelriktad? (KG: korrigera grammatik och kontrollera betydelse)</li>
+<li>Är den anpassade synkroniseringen eller dubbelriktad? (KG: KORRIGERA GRAMMAR OCH KONTROLLERA VIKTIGHET)</li>
 <li>[Endast Salesforce] Har din instans anpassade synkroniseringsfilter implementerats? Kontakta Marketo Support för att identifiera anpassade synkroniseringsfilter eller begära att en anpassad synkroniseringsregel implementeras.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Landningssidor</td> 
+   <td><li>Vad är domänen angiven som?</li>
+<li>Vad är reservinställningen som?</li>
+<li>Vad är hemsidan som?</li>
+<li>Är förifyllning av formulär aktiverat?</li>
+<li>Är personaliserade URL-adresser aktiverade?</li>
+<li>Finns det regler för omdirigeringar?</li>
+<li>Har du befintliga domänalias? Följer du igenom dokumentation om hur du använder domänalias?</li>
+<li>Är säkra domäner för landningssidor aktiverade? Bekräfta om dina resurser på landningssidan innehåller en http-URL.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Munchkin</td> 
+   <td><li>Finns din Munchkin-spårningskod på din webbplats (inte i Marketo)?</li>
+<li>Är en Do Not Track-webbläsarbegäran aktiverad?</li>
+<li>Är ditt Munchkin API konfigurerat? Om du saknar dokumentation om var munkinkoden finns på webbplatsen kan du snabbt komma igång med att använda Web Analytics-rapporten i grundläggande Analytics för att förstå var Munchkin-koden placeras på webbplatsen.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Webbtjänster</td> 
+   <td><li>Är IP-begränsningar aktiverade? Borde de vara det?</li>
+<li>Vilka användare/appar gör API-anrop i din instans?</li>
+<li>Stöter du eller är du nära att stöta på API-gränsen? Om så är fallet bör du överväga att öka den eller granska instansen för att få ned API-anropen.</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -265,18 +278,15 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
    <th>Kolumn 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Treasure Chest</td> 
+   <td><li>Vad är aktiverat i skattekameran?</li>
+<li>Finns det funktioner som ska aktiveras eller inaktiveras?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Campaign Inspector</td> 
+   <td><li>Är Campaign Inspector aktiverad?</li>
+<li>Om inte kan du aktivera det för att enkelt identifiera vilka kampanjer som är aktiva, synkronisera med CRM och/eller ta bort poster.</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -292,18 +302,24 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
    <th>Kolumn 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Marketo Engage statusuppdateringar</td> 
+   <td><li>Är din instans registrerad för statusuppdateringar för Marketo Engage?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Auktoriserade kontakter</td> 
+   <td><li>Har du konfigurerat lämpliga behöriga kontakter i supportportalen?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Varningar</td> 
+   <td><li>Finns det några aktiva varningar som skickas ut till interna team från Marketo Engage?</li>
+<li>Om ja, fungerar dessa aviseringar på rätt sätt?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Meddelanden</td> 
+   <td><li>Prenumererar du på lämpliga administratörsmeddelanden?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
