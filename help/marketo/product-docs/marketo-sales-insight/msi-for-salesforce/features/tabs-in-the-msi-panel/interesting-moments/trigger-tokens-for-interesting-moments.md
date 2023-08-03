@@ -4,9 +4,9 @@ description: Utlösartoken för intressanta ögonblick - Marketo Docs - produktd
 title: Utlösartoken för intressanta ögonblick
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 96ba23e53e395f3e07b6f636f6acf7e6b94e1392
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '480'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Checka ut [Översikt över token](/help/marketo/product-docs/demand-generation/l
 
 Beroende på vilken utlösare som används i en smart kampanj blir ytterligare utlösartoken tillgängliga.
 
-* `{{trigger.Trigger Name}}` som alltid är själva utlösaren. Till exempel: Klicka på Länk i e-post.
-* `{{trigger.Name}}` är namnet på den tillgång som utlöste kampanjen. Till exempel: Klicka på Länk på webbsida om du vill se själva webbadressen, ämne för Salesforce-utlösare osv.
+* `{{trigger.Trigger Name}}` som alltid är själva utlösaren. Till exempel: Klicka på Länk i E-post.
+* `{{trigger.Name}}` är namnet på den tillgång som utlöste kampanjen. Exempel: Klicka på Länk på webbsida är själva URL:en, ämne för Salesforce-utlösare osv.
 * Ytterligare utlösare är tillgängliga baserat på begränsningar, som listas nedan.
 
-**E-postutlösare**
+### E-postutlösare {#email-triggers}
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -205,7 +205,7 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
  </tbody> 
 </table>
 
-**Salesforce-utlösare**
+### Salesforce-utlösare {#salesforce-triggers}
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -534,7 +534,7 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
  </tbody> 
 </table>
 
-**Sales Connect-utlösare**
+### Sales Connect-utlösare {#sales-connect-triggers}
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -711,7 +711,113 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
  </tbody> 
 </table>
 
-**Diverse**
+### Utlösartoken för Dynamic Chat {#dynamic-chat-trigger-tokens}
+
+<table style="table-layout:auto"> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Page URL}}</code></th> 
+   <th><code>{{Trigger.Conversation Transcript}}</code></th> 
+   <th><code>{{trigger.Conversation Status}}</code></th> 
+   <th><code>{{trigger.Agent Name}}</code></th> 
+   <th><code>{{trigger.Agent Email}}</code></th> 
+   <th><code>{{trigger.Scheduled For}}</code></th> 
+   <th><code>{{trigger.Goal name}}</code></th> 
+   <th><code>{{trigger.Document Name}}</code></th> 
+   <th><code>{{trigger.Document URL}}</code></th>
+   <th><code>{{trigger.Document Opened}}</code></th>
+   <th><code>{{trigger.Document Downloaded}}</code></th>
+  </tr> 
+  <tr> 
+   <td>Engagerad med en dialogruta</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Schemalagt möte i en dialogruta</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Dialogrutemål som nåtts</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr>
+  <tr> 
+   <td>Interagera med dokument i dialogrutan</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+  </tr> 
+ </tbody> 
+</table>
+
+### Diverse {#miscellaneous}
 
 <table style="table-layout:auto"> 
  <colgroup> 
