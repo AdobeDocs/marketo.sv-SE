@@ -3,9 +3,9 @@ description: Inherit Doc 1 - Marketo Docs - produktdokumentation
 title: Ärv dok 1
 hide: true
 hidefromtoc: true
-source-git-commit: f3ec0872e94d9e12219945f92040b7dbc67e5bed
+source-git-commit: 0f34b8ac4283e78027c81bf654d090c5ee78b9ee
 workflow-type: tm+mt
-source-wordcount: '1140'
+source-wordcount: '1149'
 ht-degree: 2%
 
 ---
@@ -261,7 +261,7 @@ Checklistan nedan har lagts ihop med indata från Marketo Champions så att du s
    <td>Marketo Sales Insight (om tillämpligt)</td> 
    <td><li>Har <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">MSI-paketet har installerats</a>?</li>
 <li>Har du <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">uppgraderat till den senaste versionen av Sales Insight</a>?</li>
-<li>Har du slutfört konfigurationen av Sales Insight?</li>
+<li>Har du slutfört konfigurationen av Sales Insight? Företag/obegränsade användare <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">klicka här</a>, Professional-användare <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">klicka här</a>.</li>
 <li>Har du <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">ger åtkomst till dina användare</a> baserat på hur många licenser du har köpt?</li></td>
    <td>3</td>
   </tr>
