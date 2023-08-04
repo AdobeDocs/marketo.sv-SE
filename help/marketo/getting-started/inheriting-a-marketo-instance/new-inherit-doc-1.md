@@ -3,9 +3,9 @@ description: Inherit Doc 1 - Marketo Docs - produktdokumentation
 title: Ärv dok 1
 hide: true
 hidefromtoc: true
-source-git-commit: 0f34b8ac4283e78027c81bf654d090c5ee78b9ee
+source-git-commit: b06d1d0f8101895ebefeb821150090aac3044870
 workflow-type: tm+mt
-source-wordcount: '1149'
+source-wordcount: '1220'
 ht-degree: 2%
 
 ---
@@ -24,7 +24,7 @@ Checklistan nedan har lagts ihop med indata från Marketo Champions så att du s
 
 ## Användare och roller {#users-and-roles}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
    <th>Område</th> 
@@ -33,22 +33,22 @@ Checklistan nedan har lagts ihop med indata från Marketo Champions så att du s
   </tr> 
   <tr> 
    <td>Användare</td> 
-   <td><li>Hur många användare finns det?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">Hur många användare</a> Är det där?</li>
 <li>Finns det några användare som borde ha gått ut?</li>
 <li>Har ditt företag policyer för att ta bort användare?</li> 
-<li>Hur många användare har administratörsbehörighet?</li>
-<li>Ska någon av dessa användare ändras till andra roller?</li> 
+<li>Hur många användare har <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">Administratörsbehörigheter</a>?</li>
+<li>Bör någon av dessa användare ändras till <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">andra roller?</a></li> 
 <li>Vilka är API-användarna i den här instansen?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Roller</td> 
    <td><li>Hur många roller finns det?</li>  
-<li>Vilka behörigheter/behörigheter har varje roll? Ska någon justeras?</li>
+<li>Vad <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">behörigheter/åtkomst</a> har varje roll? Ska någon justeras?</li>
 <li>Hur många användare finns det per roll?</li>
-<li>Hur ofta loggar användare in?</li>
-<li>Har varje API-användare en egen användarroll? Om inte, bör du implementera den för att underlätta felsökningen.</li> 
-<li>Anpassar era användarroller och behörigheter till era integritetspolicyer för företagsdata?</li></td>
+<li>Hur ofta är användare <a href="/help/marketo/product-docs/administration/audit-trail/user-login-history.md" target="_blank">logga in</a>?</li>
+<li>Har varje API-användare sina <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md" target="_blank">egen användarroll</a>? Om inte, bör du implementera den för att underlätta felsökningen.</li> 
+<li>Anpassa era användarroller och behörigheter efter era företagsdata <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">integritetspolicy</a>?</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -59,8 +59,8 @@ Checklistan nedan har lagts ihop med indata från Marketo Champions så att du s
   </tr>
   <tr> 
    <td>Sandlåda (om tillämpligt)</td> 
-   <td><li>Har du en sandlådeinstans? I så fall kan du granska kategorierna ovan för din sandlåda.</li>
-<li>Är programimport länkad till din sandlåda?</li></td>
+   <td><li>Har du en <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">sandbox-instans</a>? I så fall kan du granska kategorierna ovan för din sandlåda.</li>
+<li>Är <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">Programimport</a> länkad till din sandlåda?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -77,7 +77,7 @@ Checklistan nedan har lagts ihop med indata från Marketo Champions så att du s
   </tr> 
   <tr> 
    <td>Granskningsspår</td> 
-   <td><li>Vem arbetar i instansen?</li></td>
+   <td><li><a href="/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md" target="_blank">Vem arbetar?</a> i instansen?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -263,6 +263,25 @@ Checklistan nedan har lagts ihop med indata från Marketo Champions så att du s
 <li>Har du <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">uppgraderat till den senaste versionen av Sales Insight</a>?</li>
 <li>Har du slutfört konfigurationen av Sales Insight? Företag/obegränsade användare <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">klicka här</a>, Professional-användare <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">klicka här</a>.</li>
 <li>Har du <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">ger åtkomst till dina användare</a> baserat på hur många licenser du har köpt?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Startpunkt (om tillämpligt)</td> 
+   <td><li>Vilka tjänster har du konfigurerat (webbinarium, annonsering osv.)? Har de snart gått ut?</li>
+<li>Hur många API-anrop använder era integreringar?</li>
+<li>Har ni rätt integreringar för era användningsfall?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Webhooks (om tillämpligt)</td> 
+   <td><li>Vilka anslutningar har du konfigurerat?</li>
+<li>Används inte längre?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Mobilappar (om tillämpligt)</td> 
+   <td><li>Vilka mobilappar har du?</li>
+<li>Vilka testenheter har lagts till?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
