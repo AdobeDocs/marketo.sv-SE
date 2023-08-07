@@ -3,9 +3,9 @@ description: Inherit Doc 1 - Marketo Docs - produktdokumentation
 title: Ärv dok 1
 hide: true
 hidefromtoc: true
-source-git-commit: b06d1d0f8101895ebefeb821150090aac3044870
+source-git-commit: 518c6a84dafd0882f1112caa0356f04a772832a1
 workflow-type: tm+mt
-source-wordcount: '1220'
+source-wordcount: '1225'
 ht-degree: 2%
 
 ---
@@ -94,11 +94,11 @@ Checklistan nedan har lagts ihop med indata från Marketo Champions så att du s
   </tr> 
   <tr> 
    <td>Arbetsytor och partitioner</td> 
-   <td><li>Hur många arbetsytor och/eller partitioner har du?</li>
+   <td><li>Hur många <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" target="_blank">arbetsytor och/eller partitioner</a> Har du?</li>
 <li>Vad är det primära syftet med varje arbetsyta och partition?</li>
-<li>Måste de granskas eller ändras?</li>
+<li>Gör något av dina <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md" target="_blank">Arbetsytor</a> eller <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md" target="_blank">Partitioner</a> Måste granskas/ändras?</li>
 <li>Vilken är relationen mellan arbetsytorna och partitionerna?</li>
-<li>Hur många användare har tillgång till varje arbetsyta?</li></td>
+<li>Hur många användare <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md" target="_blank">har åtkomst</a> till varje arbetsyta?</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -121,7 +121,7 @@ Checklistan nedan har lagts ihop med indata från Marketo Champions så att du s
   </tr> 
   <tr> 
    <td>Inställningar för smart kampanj</td> 
-   <td><li>Har du en begränsning för storleken på Smart Campaign?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">Har du en begränsning?</a> på Smart Campaign-storleken?</li>
 <li>Om inte, överväg att lägga till en. Vi rekommenderar att gränsen för smarta kampanjer begränsas till 25 % av databasen för att undvika överkommunikation eller att hela databasen behandlas i arbetsflöden. Detta skyddar inte bara varumärket utan hjälper till att skydda instansens prestanda.</li></td>
    <td>3</td>
   </tr>
@@ -139,8 +139,8 @@ Checklistan nedan har lagts ihop med indata från Marketo Champions så att du s
   </tr> 
   <tr> 
    <td>Kommunikationsbegränsningar</td> 
-   <td><li>Finns det begränsningar? Har ert företag policyer där kommunikationsbegränsningar kan behövas?</li>
-<li>Adobe rekommenderar att du begränsar din kommunikation till 1 per dag och 3 per 7 dagar, med e-post som inte fungerar blockerad.</li></td>
+   <td><li>Finns det <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">kommunikationsgränser</a> på plats? Har ert företag policyer där kommunikationsbegränsningar kan behövas?</li>
+<li>Adobe rekommenderar att du begränsar din kommunikation till 1 per dag och 3 per 7 dagar med <b>ej</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operativ</a> e-post blockerad.</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -163,8 +163,8 @@ Checklistan nedan har lagts ihop med indata från Marketo Champions så att du s
   </tr>
   <tr> 
    <td>Kanaler</td> 
-   <td><li>Hur många kanaler finns det? Hur många används?</li>
-<li>Är alla kanalprogramstatusar lämpliga? Visas framsteg inom programmet?</li>
+   <td><li>Hur många <a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" target="_blank">kanaler</a> Är det där? Hur många används?</li>
+<li>Är alla <a href="/help/marketo/product-docs/administration/tags/hide-unhide-a-program-channel.md" target="_blank">status för kanalprogram lämplig</a>? Visas framsteg inom programmet?</li>
 <li>Är era kanaler relaterade till specifika programtyper?</li>
 <li>Vilka statusvärden anses vara framgångsrika för varje kanal? Anpassar de era marknadsföringsmål?</li>
 <li>Används den operativa kanalen korrekt?</li>
