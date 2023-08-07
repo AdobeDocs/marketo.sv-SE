@@ -4,9 +4,9 @@ description: Lägg till Marketo anpassade objektlänkfält - Marketo Docs - prod
 title: Lägg till Marketo anpassade objektlänkfält
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 1dbe820e126f92ce5820e38414925605372a4b09
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '654'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,12 @@ ht-degree: 0%
 
 När du skapar anpassade objekt måste du tillhandahålla länkfält för att kunna koppla den anpassade objektposten till rätt överordnade post.
 
-* Om du vill ha en anpassad struktur som är en för många använder du länkfältet i det anpassade objektet för att ansluta det till en person eller ett företag.
+* Om du vill ha en anpassad struktur som är en-till-många använder du länkfältet i det anpassade objektet för att ansluta det till en person eller ett företag.
 * För många-till-många-strukturer använder du två länkfält som är anslutna från ett separat skapat mellanliggande objekt (som också är en typ av anpassat objekt). En länk ansluter till personer eller företag i din databas och den andra ansluter till det anpassade objektet. I det här fallet finns inte länkfältet i det anpassade objektet.
+
+>[!IMPORTANT]
+>
+>Marketo Engage har bara stöd för ett enda kantobjekt för varje bryggobjekt i relationen många till många. I exemplet nedan kan varje registrering bara länka till en enda kurs. Det kan dock finnas många bryggobjekt för varje edge-objekt, precis som det finns många elevregistreringar för varje kurs (många-till-ett-förhållande). Om du har strukturerat anpassade objektdata så att det finns mer än en Edge-objektspost för varje Bridge-objektpost (En-till-Många eller Många-till-Många), kan du skapa flera Bridge-objektposter som var och en refererar till en enda Edge-objektpost som representerar dessa data i Marketo.
 
 ## Skapa ett länkfält för en 1:N-struktur {#create-a-link-field-for-a-one-to-many-structure}
 
@@ -46,7 +50,7 @@ Så här skapar du ett länkfält i ett anpassat objekt för en 1:N-struktur.
    >
    >Du kan inte gå tillbaka och skapa, redigera eller ta bort en [!UICONTROL Link] eller [!UICONTROL Dedupe Field] när det anpassade objektet har godkänts.
 
-1. Välj om [!UICONTROL Link Object] är för [!UICONTROL lead] (person) eller [!UICONTROL company].
+1. Välj om [!UICONTROL Link Object] är för [!UICONTROL lead] (person) eller en [!UICONTROL company].
 
    ![](assets/add-marketo-custom-object-link-fields-6.png)
 
@@ -100,7 +104,7 @@ Så här skapar du ett länkfält i ett mellanliggande objekt som kan användas 
    >
    >Du kan inte gå tillbaka och skapa, redigera eller ta bort en [!UICONTROL Link] eller [!UICONTROL Dedupe Field] när det anpassade objektet har godkänts.
 
-1. Välj [!UICONTROL Link Object] från databasen, i detta fall [!UICONTROL Lead].
+1. Välj [!UICONTROL Link Object] från databasen, i det här fallet [!UICONTROL Lead].
 
    ![](assets/add-marketo-custom-object-link-fields-14.png)
 

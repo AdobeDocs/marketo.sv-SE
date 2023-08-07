@@ -4,9 +4,9 @@ title: Aktuell snabbversionsinformation
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 518c6a84dafd0882f1112caa0356f04a772832a1
+source-git-commit: 1dbe820e126f92ce5820e38414925605372a4b09
 workflow-type: tm+mt
-source-wordcount: '927'
+source-wordcount: '929'
 ht-degree: 2%
 
 ---
@@ -313,7 +313,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
   </tbody>
 </table>
 
-* **Utlösartoken för nya aktiviteter**: Nya utlösande tokens som stöder de nya aktiviteterna för Dynamic Chat.
+* **Utlösartoken för nya aktiviteter**: Det finns nya utlösande token som kan användas för de nya aktiviteterna för Dynamic Chat.
 
 <table> 
   <tr> 
