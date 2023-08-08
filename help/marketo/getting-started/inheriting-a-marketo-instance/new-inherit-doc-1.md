@@ -3,7 +3,7 @@ description: Inherit Doc 1 - Marketo Docs - produktdokumentation
 title: Ärv dok 1
 hide: true
 hidefromtoc: true
-source-git-commit: 518c6a84dafd0882f1112caa0356f04a772832a1
+source-git-commit: e912b9112fc9fc3d72428e23b16de058874e8c21
 workflow-type: tm+mt
 source-wordcount: '1225'
 ht-degree: 2%
@@ -157,13 +157,13 @@ Checklistan nedan har lagts ihop med indata från Marketo Champions så att du s
   </tr> 
   <tr> 
    <td>Taggar</td> 
-   <td><li>Hur många taggar finns det? Hur många taggar används? Behöver du lägga till något?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" target="_blank">Hur många taggar</a> Är det där? Hur många taggar används? Behöver du lägga till något?</li>
 <li>Krävs det taggar i programmen?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Kanaler</td> 
-   <td><li>Hur många <a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" target="_blank">kanaler</a> Är det där? Hur många används?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" target="_blank">Hur många kanaler</a> Är det där? Hur många används?</li>
 <li>Är alla <a href="/help/marketo/product-docs/administration/tags/hide-unhide-a-program-channel.md" target="_blank">status för kanalprogram lämplig</a>? Visas framsteg inom programmet?</li>
 <li>Är era kanaler relaterade till specifika programtyper?</li>
 <li>Vilka statusvärden anses vara framgångsrika för varje kanal? Anpassar de era marknadsföringsmål?</li>
@@ -173,7 +173,7 @@ Checklistan nedan har lagts ihop med indata från Marketo Champions så att du s
   </tr>
   <tr> 
    <td>Marknadsföringskalender (om tillämpligt)</td> 
-   <td><li>Hur många kalenderposttyper finns det? Är de fortfarande relevanta?</li></td>
+   <td><li>Hur många <a href="/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md" target="_blank">kalenderposttyper</a> Är det där? Är de fortfarande relevanta?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -190,25 +190,25 @@ Checklistan nedan har lagts ihop med indata från Marketo Champions så att du s
   </tr> 
   <tr> 
    <td>Fälthantering</td> 
-   <td><li>Hur många fält finns det? Klicka på Exportera fältnamn om du vill visa en lista över fält, anpassade fält och deras API-namn.</li>
-<li>Hur många anpassade fält finns det?</li>
-<li>Hur många fält används? Välj Exportera som används av i listrutan Fältåtgärder om du vill granska relaterade resurser i ett fält.</li>
+   <td><li>Hur många fält finns det? Klicka <a href="/help/marketo/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md" target="_blank">Exportera fältnamn</a> om du vill granska en lista med fält, anpassade fält och deras API-namn.</li>
+<li>Hur många <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">anpassade fält</a> Är det där?</li>
+<li>Hur många fält används? Välj <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">Exportera som används av</a> i listrutan Fältåtgärder för att granska relaterade resurser i ett fält.</li>
 <li>Hur många synkroniseras mellan Marketo Engage och CRM?</li>
 <li>Synkroniseras CRM-fält med rätt objekt?</li>
-<li>Finns det en anpassad vyuppsättning för persondetaljer? Borde det vara?</li>
+<li>Finns det en <a href="/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md" target="_blank">anpassad vyuppsättning</a> för persondetaljer? Borde det vara?</li>
 <li>Har du en namngivningsregel för dina fält baserat på källa? Om inte, överväg att genomföra detta.</li>
-<li>Finns det några fält blockerade? Se till att förstå varför de är det.</li></td>
+<li>Finns det några fält <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">blockerad</a>? Se till att förstå varför de är det.</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Anpassade aktiviteter</td> 
-   <td><li>Finns det några anpassade aktiviteter?</li>
+   <td><li>Finns det några <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">anpassade aktiviteter</a>?</li>
 <li>Klicka i så fall igenom dem för att förstå vilka aktiviteter som inte är relaterade till ett Marketo-formulär, e-postmeddelande eller en landningssida.</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Anpassade objekt</td> 
-   <td><li>Hur många anpassade objekt finns det? Hur synkroniseras de med din CRM?</li>
+   <td><li>Hur många <a href="/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md" target="_blank">anpassade objekt</a> Är det där? Hur synkroniseras de med din CRM?</li>
 <li>Hur används dessa anpassade objekt av program och listfrågor?</li></td>
    <td>3</td>
   </tr>
