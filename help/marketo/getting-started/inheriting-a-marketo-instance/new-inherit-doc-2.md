@@ -3,10 +3,10 @@ description: Inherit Doc 2 - Marketo Docs - produktdokumentation
 title: Ärv dok 2
 hide: true
 hidefromtoc: true
-source-git-commit: fe18bd1c759bd7442723a1a6326b786203c62fd0
+source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 48%
+source-wordcount: '295'
+ht-degree: 6%
 
 ---
 
@@ -18,272 +18,116 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
 >
 >Om du är nybörjare i Marketo Engage och inte känner till många av villkoren kan du läsa [Marketo-ordlista](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
 
-## Användare och roller {#users-and-roles}
+## Systemets smarta listor {#system-smart-lists}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Kolumn 1</th> 
-   <th>Kolumn 2</th>
-   <th>Kolumn 3</th>
+   <th>Område</th> 
+   <th>Granska fokus</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Alla personer</td> 
+   <td><li>Hur många personer finns i databasen?</li>
+<li>Om databasen är nästan full, rekommenderar din företagspolicy att du utökar databasstorleken eller rensar bort historiska data?</li>
+<li>Är er övergripande databas minst 85 % marknadsmässig? Om ditt värde ligger under detta tröskelvärde kan du titta närmare på de andra systemsmarta listorna (Blockeringslista, Markering pausad, Duplicat, Avbeställ) med större kontroll.</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Avbeställ</td> 
+   <td><li>Vilka villkor gäller för Unsubscribed People? Finns det för många personer som inte har prenumererat?</li>
+<li>Anpassar era avanmälningsmetoder er efter era sekretesskrav?</li>
+<li>Är din inställning för att avbryta prenumerationen uppdaterad? Hur länge finns det kvar poster i din databas som icke-marknadsförbara?</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Marknadsföring har pausats</td> 
+   <td><li>Vilka kriterier har du för att stoppa marknadsföring? Finns det för många personer som är avstängda?</li>
+<li>Hur länge återstår uppgifter om statusen för tillfälligt utsläppande på marknaden?</li>
+<p>Exempel på inaktiverad användning av marknadsföring: poster som aktivt deltar i försäljning i sista-minuten-möjligheter som du vill undertrycka marknadskommunikation för.</td>
+  </tr>
+   <tr> 
+   <td>Blockeringslista</td> 
+   <td><li>Vilka kriterier har du för Blockeringslista? Finns det för många blocklist?</li></td>
+  </tr>
+  <tr> 
+   <td>Avrundade e-postadresser</td> 
+   <td><li>Text</li></td>
+  </tr>
+  <tr> 
+   <td>Möjliga dubbletter</td> 
+   <td><li>Hur många poster som kan vara dubblerade finns det? Överväg att ta bort eller sammanfoga dem.</li></td>
+  </tr>
+   <tr> 
+   <td>Inget förvärvsprogram</td> 
+   <td><li>Hur många har inte något förvärvsprogram? Om det är mycket, överväg att undersöka varför.</li></td>
   </tr>
  </tbody> 
 </table>
 
-## Granskningsspår {#audit-trail}
+## Gruppera smarta listor {#group-smart-lists}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Kolumn 1</th> 
-   <th>Kolumn 2</th>
-   <th>Kolumn 3</th>
+   <th>Område</th> 
+   <th>Granska fokus</th>
   </tr> 
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
 
-## Arbetsytor och partitioner {#workspaces-and-partitions}
+## Grupplistor {#group-lists}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Kolumn 1</th> 
-   <th>Kolumn 2</th>
-   <th>Kolumn 3</th>
+   <th>Område</th> 
+   <th>Granska fokus</th>
   </tr> 
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
 
-## Smarta kampanjer {#smart-campaigns}
+## Segmenteringar {#segmentations}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Kolumn 1</th> 
-   <th>Kolumn 2</th>
-   <th>Kolumn 3</th>
+   <th>Område</th> 
+   <th>Granska fokus</th>
   </tr> 
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Kommunikationsbegränsningar {#communication-limits}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Kolumn 1</th> 
-   <th>Kolumn 2</th>
-   <th>Kolumn 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Taggar {#tags}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Kolumn 1</th> 
-   <th>Kolumn 2</th>
-   <th>Kolumn 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Databashantering {#database-management}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Kolumn 1</th> 
-   <th>Kolumn 2</th>
-   <th>Kolumn 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Integreringar {#integrations}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Kolumn 1</th> 
-   <th>Kolumn 2</th>
-   <th>Kolumn 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Treasure Chest {#treasure-chest}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Kolumn 1</th> 
-   <th>Kolumn 2</th>
-   <th>Kolumn 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Diverse {#miscellaneous}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Kolumn 1</th> 
-   <th>Kolumn 2</th>
-   <th>Kolumn 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>

@@ -3,9 +3,9 @@ description: Inherit Doc 1 - Marketo Docs - produktdokumentation
 title: Ärv dok 1
 hide: true
 hidefromtoc: true
-source-git-commit: e912b9112fc9fc3d72428e23b16de058874e8c21
+source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
 workflow-type: tm+mt
-source-wordcount: '1225'
+source-wordcount: '1240'
 ht-degree: 2%
 
 ---
@@ -233,26 +233,26 @@ Checklistan nedan har lagts ihop med indata från Marketo Champions så att du s
   </tr>
   <tr> 
    <td>Landningssidor</td> 
-   <td><li>Vad är domänen angiven som?</li>
-<li>Vad är reservinställningen som?</li>
-<li>Vad är hemsidan som?</li>
+   <td><li>Vad är <a href="/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md" target="_blank">domänuppsättning som</a>?</li>
+   <li>Vad är hemsidan som?</li>
+<li>Vad är <a href="/help/marketo/product-docs/administration/settings/set-a-fallback-page.md" target="_blank">återfallsuppsättning som</a>?</li>
 <li>Är förifyllning av formulär aktiverat?</li>
-<li>Är personaliserade URL-adresser aktiverade?</li>
-<li>Finns det regler för omdirigeringar?</li>
+<li>är <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md" target="_blank">personaliserade URL:er</a> aktiverad?</li>
+<li>Finns det regler för <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md" target="_blank">omdirigeringar</a>?</li>
 <li>Har du befintliga domänalias? Följer du igenom dokumentation om hur du använder domänalias?</li>
-<li>Är säkra domäner för landningssidor aktiverade? Bekräfta om dina resurser på landningssidan innehåller en http-URL.</li></td>
+<li>Är <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">Skyddade domäner för landningssidor</a> aktiverad? Bekräfta om dina resurser på landningssidan innehåller en http-URL.</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Munchkin</td> 
-   <td><li>Finns din Munchkin-spårningskod på din webbplats (inte i Marketo)?</li>
-<li>Är en Do Not Track-webbläsarbegäran aktiverad?</li>
-<li>Är ditt Munchkin API konfigurerat? Om du saknar dokumentation om var munkinkoden finns på webbplatsen kan du snabbt komma igång med att använda Web Analytics-rapporten i grundläggande Analytics för att förstå var Munchkin-koden placeras på webbplatsen.</li></td>
+   <td><li>Är din <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin-spårningskod</a> på din webbplats (inte i Marketo)?</li>
+<li>Är en <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Spåra inte</a> Webbläsarbegäran aktiverad?</li>
+<li>Är din <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> konfigurerad? Om du saknar dokumentation om var munkinkoden finns på webbplatsen kan du snabbt komma igång med att använda Web Analytics-rapporten i grundläggande Analytics för att förstå var Munchkin-koden placeras på webbplatsen.</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Webbtjänster</td> 
-   <td><li>Är IP-begränsningar aktiverade? Borde de vara det?</li>
+   <td><li>är <a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">IP-begränsningar</a> aktiverad? Borde de vara det?</li>
 <li>Vilka användare/appar gör API-anrop i din instans?</li>
 <li>Stöter du eller är du nära att stöta på API-gränsen? Om så är fallet bör du överväga att öka den eller granska instansen för att få ned API-anropen.</li></td>
    <td>3</td>
@@ -267,21 +267,21 @@ Checklistan nedan har lagts ihop med indata från Marketo Champions så att du s
   </tr>
   <tr> 
    <td>Startpunkt (om tillämpligt)</td> 
-   <td><li>Vilka tjänster har du konfigurerat (webbinarium, annonsering osv.)? Har de snart gått ut?</li>
-<li>Hur många API-anrop använder era integreringar?</li>
+   <td><li>Vilka tjänster har du konfigurerat (till exempel <a href="/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md" target="_blank">Adobe Connect</a>, <a href="/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md" target="_blank">Zooma</a>, osv.)? Har de snart gått ut?</li>
+<li><a href="https://nation.marketo.com/t5/knowledgebase/viewing-your-number-of-api-calls-to-marketo/ta-p/254256" target="_blank">Hur många API-anrop</a> Använder era integreringar?</li>
 <li>Har ni rätt integreringar för era användningsfall?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Webhooks (om tillämpligt)</td> 
-   <td><li>Vilka anslutningar har du konfigurerat?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md" target="_blank">Vilka anslutningar</a> Har du konfigurerat?</li>
 <li>Används inte längre?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Mobilappar (om tillämpligt)</td> 
-   <td><li>Vilka mobilappar har du?</li>
-<li>Vilka testenheter har lagts till?</li></td>
+   <td><li>som <a href="/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md" target="_blank">mobilappar</a> Har du?</li>
+<li>Har <a href="/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md" target="_blank">testenheter</a>  har lagts till?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -298,13 +298,13 @@ Checklistan nedan har lagts ihop med indata från Marketo Champions så att du s
   </tr> 
   <tr> 
    <td>Treasure Chest</td> 
-   <td><li>Vad är aktiverat i skattekameran?</li>
+   <td><li>Det som är aktiverat i <a href="/help/marketo/product-docs/administration/settings/enable-or-disable-treasure-chest-features.md" target="_blank">Treasure Chest</a>?</li>
 <li>Finns det funktioner som ska aktiveras eller inaktiveras?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Campaign Inspector</td> 
-   <td><li>Är Campaign Inspector aktiverad?</li>
+   <td><li>Är <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">Campaign Inspector</a> aktiverad?</li>
 <li>Om inte kan du aktivera det för att enkelt identifiera vilka kampanjer som är aktiva, synkronisera med CRM och/eller ta bort poster.</li></td>
    <td>3</td>
   </tr>
@@ -318,28 +318,23 @@ Checklistan nedan har lagts ihop med indata från Marketo Champions så att du s
   <tr> 
    <th>Område</th> 
    <th>Granska fokus</th>
-   <th>Kolumn 3</th>
   </tr> 
   <tr> 
    <td>Marketo Engage statusuppdateringar</td> 
-   <td><li>Är din instans registrerad för statusuppdateringar för Marketo Engage?</li></td>
-   <td>3</td>
+   <td><li>Är din instans registrerad för <a href="https://status.adobe.com/" target="_blank">Marketo Engage statusuppdateringar</a>?</li></td>
   </tr>
   <tr> 
    <td>Auktoriserade kontakter</td> 
-   <td><li>Har du konfigurerat lämpliga behöriga kontakter i supportportalen?</li></td>
-   <td>3</td>
+   <td><li>Har du ställt in rätt <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">auktoriserade kontakter</a> i supportportalen?</li></td>
   </tr>
   <tr> 
    <td>Varningar</td> 
-   <td><li>Finns det några aktiva varningar som skickas ut till interna team från Marketo Engage?</li>
+   <td><li>Finns det några <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" target="_blank">aktiva aviseringar</a> skickas ut till interna team från Marketo Engage?</li>
 <li>Om ja, fungerar dessa aviseringar på rätt sätt?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Meddelanden</td> 
-   <td><li>Prenumererar du på lämpliga administratörsmeddelanden?</li></td>
-   <td>3</td>
+   <td><li>Prenumererar du på lämplig administratör? <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md" target="_blank">meddelanden</a>?</li></td>
   </tr>
  </tbody> 
 </table>
