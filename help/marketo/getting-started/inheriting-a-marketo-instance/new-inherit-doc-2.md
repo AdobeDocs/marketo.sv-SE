@@ -3,10 +3,10 @@ description: Inherit Doc 2 - Marketo Docs - produktdokumentation
 title: Ärv dok 2
 hide: true
 hidefromtoc: true
-source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
+source-git-commit: cc87ecb8d3245734ec0ce984eeccf742833a85d2
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 6%
+source-wordcount: '383'
+ht-degree: 0%
 
 ---
 
@@ -28,14 +28,14 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
   </tr> 
   <tr> 
    <td>Alla personer</td> 
-   <td><li>Hur många personer finns i databasen?</li>
+   <td><li>Hur många personer finns i <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md" target="_blank">databas</a>?</li>
 <li>Om databasen är nästan full, rekommenderar din företagspolicy att du utökar databasstorleken eller rensar bort historiska data?</li>
 <li>Är er övergripande databas minst 85 % marknadsmässig? Om ditt värde ligger under detta tröskelvärde kan du titta närmare på de andra systemsmarta listorna (Blockeringslista, Markering pausad, Duplicat, Avbeställ) med större kontroll.</li></td>
   </tr>
   <tr> 
    <td>Avbeställ</td> 
-   <td><li>Vilka villkor gäller för Unsubscribed People? Finns det för många personer som inte har prenumererat?</li>
-<li>Anpassar era avanmälningsmetoder er efter era sekretesskrav?</li>
+   <td><li>Vilka kriterier har ni för <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md" target="_blank">avbeställa prenumerationer</a>? Finns det för många personer som inte har prenumererat?</li>
+<li>Anpassar era avanmälningsmetoder er efter era sekretessbestämmelser?</li>
 <li>Är din inställning för att avbryta prenumerationen uppdaterad? Hur länge finns det kvar poster i din databas som icke-marknadsförbara?</li></td>
   </tr>
   <tr> 
@@ -72,16 +72,10 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
    <th>Granska fokus</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Gruppera smarta listor</td> 
+   <td><li>Vilka gruppsmarta listor finns det? Hur används de i den här instansen?</li>
+<li>Är listorna ordnade i en sammanhängande mappstruktur? Om du har överblivna listor bör du överväga att ordna trädet så att det blir enkelt att hitta resurser.</li>
+<p>Tips: Arkivera smarta grupplistor som inte längre behövs för att fråga, rapportera eller referera till information om organisation och prestanda.</td>
   </tr>
  </tbody> 
 </table>
@@ -95,16 +89,9 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
    <th>Granska fokus</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Grupplistor</td> 
+   <td><li>Vilka grupplistor finns det?</li>
+<li>Hur används de i den här instansen?</li></td>
   </tr>
  </tbody> 
 </table>
@@ -118,16 +105,10 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
    <th>Granska fokus</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Segmenteringar</td> 
+   <td><li>som <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">segmentering</a> Är det där? Hur används de?</li>
+<li>Är för många personer <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">standardsegment</a>?</li>
+<li>Finns det någon segmentering för den marknadsföringsbara publiken? Om inte kan du skapa en.</li></td>
   </tr>
  </tbody> 
 </table>
