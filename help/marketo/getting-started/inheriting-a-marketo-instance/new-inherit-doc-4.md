@@ -3,10 +3,10 @@ description: Inherit Doc 4 - Marketo Docs - produktdokumentation
 title: Ärv dokument 4
 hide: true
 hidefromtoc: true
-source-git-commit: fe18bd1c759bd7442723a1a6326b786203c62fd0
+source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 48%
+source-wordcount: '425'
+ht-degree: 0%
 
 ---
 
@@ -18,272 +18,119 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
 >
 >Om du är nybörjare i Marketo Engage och inte känner till många av villkoren kan du läsa [Marketo-ordlista](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
 
-## Användare och roller {#users-and-roles}
+## Landningssidor {#landing-pages}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Kolumn 1</th> 
-   <th>Kolumn 2</th>
-   <th>Kolumn 3</th>
+   <th>Område</th> 
+   <th>Granska fokus</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Globala landningssidor</td> 
+   <td><li>Hur många globala landningssidor finns det? Används de av program?</li>
+<li>Om tillämpligt, finns det en landningssida för prenumerationscentral via Marketo?</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Mallar</td> 
+   <td><li>Hur många landningssidmallar finns det? Blås de?</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Sekretess och efterlevnad</td> 
+   <td><li>Har alla dina landningssidor rätt sidfot?</li></td>
   </tr>
  </tbody> 
 </table>
 
-## Granskningsspår {#audit-trail}
+## Forms {#forms}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Kolumn 1</th> 
-   <th>Kolumn 2</th>
-   <th>Kolumn 3</th>
+   <th>Område</th> 
+   <th>Granska fokus</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Global Forms</td> 
+   <td><li>Hur många globala formulär finns det?</li>
+<li>Använder de flesta program globala eller lokala formulär?</li>
+<li>Samlar alla formulär in rätt data för marknadsföring och försäljning?</li>
+<li>Används dolda värden korrekt?</li>
+<li>Används några Marketo Engage-formulär på din webbplats (inte landningssidor i Marketo Engage)?</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Datainsamling</td> 
+   <td><li>Väljer formulärfälten i första hand listor eller öppna textfält?</li>
+<li>Om de är öppna textfält bör du överväga att växla dem till listrutor för att undvika röriga data.</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Sekretess och efterlevnad</td> 
+   <td><li>Anpassar er formulärstrategi er efter företagets datasekretess och krav på deltagande? Överväg den allmänna dataskyddsförordningen (GDPR), CASL (Kanadas antispam Law), the Controlling the Assault of Non-solicited Pornography and Marketing Act of 2003 (CAN-SPAM), California Consumer Privacy Act (CCPA), etc. för regelefterlevnad.</li>
+<p>Tips! Kom ihåg att alltid rådfråga ditt juridiska team om dessa frågor. Fråga teamet om tidigare initiativ för att upprätthålla regelefterlevnaden innan du gör några ändringar.</td>
   </tr>
  </tbody> 
 </table>
 
-## Arbetsytor och partitioner {#workspaces-and-partitions}
+## E-post {#emails}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Kolumn 1</th> 
-   <th>Kolumn 2</th>
-   <th>Kolumn 3</th>
+   <th>Område</th> 
+   <th>Granska fokus</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Globala e-postmeddelanden</td> 
+   <td><li>Hur många globala e-postmeddelanden finns det? Används de av program?</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Mallar</td> 
+   <td><li>Hur många e-postmallar finns det? Blås de?</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Sekretess och efterlevnad</td> 
+   <td><li>Har alla era e-postmeddelanden rätt sidfot? Överväg GDPR, CASL, CAN-SPAM, CCPA osv. för regelefterlevnad.</li>
+<p>Tips! Kom ihåg att alltid rådfråga ditt juridiska team om dessa efterlevnadsfrågor. Fråga teamet om tidigare initiativ för att upprätthålla regelefterlevnaden innan du gör några ändringar.</td>
   </tr>
  </tbody> 
 </table>
 
-## Smarta kampanjer {#smart-campaigns}
+## Fragment {#snippets}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Kolumn 1</th> 
-   <th>Kolumn 2</th>
-   <th>Kolumn 3</th>
+   <th>Område</th> 
+   <th>Granska fokus</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Fragment</td> 
+   <td><li>Hur många fragment finns det? Används de? Om inte, överväg att använda dem för sidfotsinnehåll, logotyper och annat för e-post och landningssidor.</li></td>
   </tr>
  </tbody> 
 </table>
 
-## Kommunikationsbegränsningar {#communication-limits}
+## Bilder och filer {#images-and-files}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Kolumn 1</th> 
-   <th>Kolumn 2</th>
-   <th>Kolumn 3</th>
+   <th>Område</th> 
+   <th>Granska fokus</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Namnkonventioner</td> 
+   <td><li>Har bilder och filer konsekventa namnkonventioner?</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Mappstruktur</td> 
+   <td><li>Är bilder och filer sorterade på rätt och enkelt sätt att söka?</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Taggar {#tags}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Kolumn 1</th> 
-   <th>Kolumn 2</th>
-   <th>Kolumn 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Databashantering {#database-management}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Kolumn 1</th> 
-   <th>Kolumn 2</th>
-   <th>Kolumn 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Integreringar {#integrations}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Kolumn 1</th> 
-   <th>Kolumn 2</th>
-   <th>Kolumn 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Treasure Chest {#treasure-chest}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Kolumn 1</th> 
-   <th>Kolumn 2</th>
-   <th>Kolumn 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Diverse {#miscellaneous}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Kolumn 1</th> 
-   <th>Kolumn 2</th>
-   <th>Kolumn 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Bilder och filer</td> 
+   <td><li>Behöver bilder eller filer som refereras på webbsidorna uppdateras? 
+   <p>Exempel: Den hårdkodade URL-strukturen kan behöva uppdateras, till exempel <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
+   <p>Kontakta din webbutvecklare för att få reda på var du kan behöva göra uppdateringar.</li></td>
   </tr>
  </tbody> 
 </table>

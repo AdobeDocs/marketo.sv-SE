@@ -4,9 +4,9 @@ description: Översikt över plugin-programmet Account Insight - Marketo Docs - 
 title: Översikt över plugin-programmet Account Insight
 exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,9 @@ Account Insight är en Chrome-plugin som ger er åtgärdbara TAM-resurser och ko
 
 >[!AVAILABILITY]
 >
->Account Insight ingår för alla kunder som har både TAM och Marketo Sales Insight. För kunder som bara har TAM är Account Insight tillgängligt som ett köpt tillägg. Varje kund är begränsad till 250 licenser för kontoinsikt. Kontakta din säljare för mer information. Det är inte tillgängligt för kunder som inte har TAM.
+>* Account Insight ingår för alla kunder som har både TAM och Marketo Sales Insight. För kunder som bara har TAM är Account Insight tillgängligt som ett köpt tillägg. Varje kund är begränsad till 250 licenser för kontoinsikt. Kontakta din säljare för mer information. Det är inte tillgängligt för kunder som inte har TAM.
+>
+>* Denna plug-in är inte kompatibel med [Autentisering av Adobe-identitet](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} just nu.
 
 >[!CAUTION]
 >

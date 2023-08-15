@@ -3,9 +3,9 @@ description: Inherit Doc 2 - Marketo Docs - produktdokumentation
 title: Ärv dok 2
 hide: true
 hidefromtoc: true
-source-git-commit: cc87ecb8d3245734ec0ce984eeccf742833a85d2
+source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---
@@ -40,13 +40,13 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
   </tr>
   <tr> 
    <td>Marknadsföring har pausats</td> 
-   <td><li>Vilka kriterier har du för att stoppa marknadsföring? Finns det för många personer som är avstängda?</li>
+   <td><li>Vilka kriterier har ni för <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">Marknadsföring har pausats</a>? Finns det för många personer som är avstängda?</li>
 <li>Hur länge återstår uppgifter om statusen för tillfälligt utsläppande på marknaden?</li>
 <p>Exempel på inaktiverad användning av marknadsföring: poster som aktivt deltar i försäljning i sista-minuten-möjligheter som du vill undertrycka marknadskommunikation för.</td>
   </tr>
    <tr> 
    <td>Blockeringslista</td> 
-   <td><li>Vilka kriterier har du för Blockeringslista? Finns det för många blocklist?</li></td>
+   <td><li>Vilka kriterier har ni för <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" target="_blank">blocklist poster</a>? Finns det för många blocklist?</li></td>
   </tr>
   <tr> 
    <td>Avrundade e-postadresser</td> 
@@ -54,11 +54,11 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
   </tr>
   <tr> 
    <td>Möjliga dubbletter</td> 
-   <td><li>Hur många poster som kan vara dubblerade finns det? Överväg att ta bort eller sammanfoga dem.</li></td>
+   <td><li>Hur många <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">potentiellt duplicerade poster</a> Är det där? Överväg att ta bort eller sammanfoga dem.</li></td>
   </tr>
    <tr> 
    <td>Inget förvärvsprogram</td> 
-   <td><li>Hur många har inte något förvärvsprogram? Om det är mycket, överväg att undersöka varför.</li></td>
+   <td><li>Hur många människor har ingen <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">förvärvsprogram</a>? Om det är mycket, överväg att undersöka varför.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -75,7 +75,7 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
    <td>Gruppera smarta listor</td> 
    <td><li>Vilka gruppsmarta listor finns det? Hur används de i den här instansen?</li>
 <li>Är listorna ordnade i en sammanhängande mappstruktur? Om du har överblivna listor bör du överväga att ordna trädet så att det blir enkelt att hitta resurser.</li>
-<p>Tips: Arkivera smarta grupplistor som inte längre behövs för att fråga, rapportera eller referera till information om organisation och prestanda.</td>
+<p>Tips: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Arkiv</a> gruppera smarta listor som inte längre behövs för att fråga, rapportera eller referera till information som kan hjälpa till med organisation och prestanda.</td>
   </tr>
  </tbody> 
 </table>
