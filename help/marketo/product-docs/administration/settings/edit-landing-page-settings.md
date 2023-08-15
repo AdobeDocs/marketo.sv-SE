@@ -4,9 +4,9 @@ description: Redigera inställningar för landningssida - Marketo Docs - produkt
 title: Redigera inställningar för landningssida
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 43565104a7f6512d2f99eae6bc47e1ae048b2231
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -37,17 +37,13 @@ Du kan redigera ditt domännamn och din reservsida, aktivera eller inaktivera f�
 
    | Villkor | Definition |
    |---|---|
-   | [!UICONTROL Domain name for landing pages] | Det här är din CNAME. En CNAME är den första delen av den URL som du ger personer för landningssidor. I `https://go.yourCompany.com`, ordet&quot;go&quot; är CNAME. Du kan ha flera, men de flesta använder bara den. |
+   | [!UICONTROL Domain name for landing pages] | Det här är din CNAME. En CNAME är den första delen av den URL som du ger personer för landningssidor. Till exempel i `https://go.yourCompany.com`, ordet&quot;go&quot; är CNAME. Du kan ha flera, men de flesta använder bara den. |
    | [!UICONTROL Fallback page] | Det är här du ska gå om landningssidan inte finns eller är nere. Läs mer om [reservsidor](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
    | [!UICONTROL Homepage] | Ange företagets webbplats-URL. |
 
 1. Kontrollera **[!UICONTROL Form Prefill]** kryssrutan för att tillåta formulär att förifylla information för kända (cookifyllda) personer. Avmarkera för att blockera.
 
    ![](assets/edit-landing-page-settings-5.png)
-
-1. Om du vill förhindra att en skadlig webbplats verkar vara värd för ditt innehåll ska du kontrollera **[!UICONTROL Do not allow Marketo pages to be embedded in external web pages]** kryssrutan.
-
-   ![](assets/edit-landing-page-settings-6.png)
 
    >[!NOTE]
    >
@@ -57,6 +53,6 @@ Du kan redigera ditt domännamn och din reservsida, aktivera eller inaktivera f�
 
 1. När du har gjort dina val klickar du på **[!UICONTROL Save]**.
 
-   ![](assets/edit-landing-page-settings-7.png)
+   ![](assets/edit-landing-page-settings-6.png)
 
-   Bra jobbat! Dina landningssidor har nu rätt information och bör börja fungera direkt.
+   Snyggt jobb! Dina landningssidor har nu rätt information och bör börja fungera direkt.
