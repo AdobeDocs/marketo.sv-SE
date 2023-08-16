@@ -3,7 +3,7 @@ description: Inherit Doc 3 - Marketo Docs - produktdokumentation
 title: Ärv dokument 3
 hide: true
 hidefromtoc: true
-source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
+source-git-commit: 4f833625421d7977d5aa8f59e13221a1946163f2
 workflow-type: tm+mt
 source-wordcount: '777'
 ht-degree: 0%
@@ -28,19 +28,19 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
   </tr> 
   <tr> 
    <td>Namnkonventioner</td> 
-   <td><li>Har dina program en konsekvent namnkonvention?</li></td>
+   <td><li>Har era program en konsekvent <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#naming-schemes" target="_blank">namnkonvention</a>?</li></td>
   </tr>
   <tr> 
    <td>Mappstruktur</td> 
-   <td><li>Har du en konsekvent och lättnavigerad mappstruktur?</li></td>
+   <td><li>Har du en konsekvent och lättnavigerad <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#folders" target="_blank">mappstruktur</a>?</li></td>
   </tr>
   <tr> 
    <td>Program</td> 
    <td><li>Finns det något Center of Excellence med programmallar? Om så är fallet, är programmallarna bra för teamets användningsfall?</li>
-<li>Är liknande programtyper genomgående strukturerade?</li>
-<li>Har man satt in periodiska kostnader?</li>
-<li>Synkroniseras alla program med SFDC-kampanjer (om tillämpligt)?</li>
-<li>Har ni flödessteg som tilldelar människor ett förvärvsprogram?</li></td>
+<li>Är liknande programtyper <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">konsekvent strukturerad</a>?</li>
+<li>är <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">periodkostnader</a> på plats?</li>
+<li>Är alla program <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">synkroniserat med SFDC-kampanjer</a> (om tillämpligt)?</li>
+<li>Har du flödessteg som tilldelar en <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">förvärvsprogram</a> till människor?</li></td>
   </tr>
   <tr> 
    <td>Arkiv</td> 

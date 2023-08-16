@@ -1,16 +1,16 @@
 ---
 description: Översikt - Marketo Docs - produktdokumentation
-title: Översikt
+title: Ökning
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4f833625421d7977d5aa8f59e13221a1946163f2
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
 
-# Översikt {#overview}
+# Ökning {#overview}
 
 Välkommen till Adobe Marketo Engage Modern UX (användarupplevelse), ett uppdaterat gränssnitt som ger förbättrad användarvänlighet och ett nytt utseende på hela Marketo Engage-plattformen.
 
@@ -21,14 +21,6 @@ Välkommen till Adobe Marketo Engage Modern UX (användarupplevelse), ett uppdat
 >* *.marketo.com
 >* *.marketodesigner.com
 >* *.mktoweb.com
-
-## Demo {#take-the-tour}
-
-När du loggar in visas ett popup-fönster som är klart för att ge dig den nya upplevelsen. Om du väljer att hoppa över det, kommer det **not** bli tillgänglig senare.
-
-![](assets/overview-1.png)
-
-Demonstrationen visar allt du behöver veta!
 
 ## Nyheter {#whats-new}
 
@@ -182,7 +174,7 @@ Ta en titt på nya Global Nav.
  <tbody>
   <tr>
    <td>1</td> 
-   <td>Ingen mer superball nedrullningsbar meny</td> 
+   <td>Ingen mer superball listruta</td> 
   </tr>
   <tr>
    <td>2</td> 
@@ -208,4 +200,4 @@ Ta en titt på nya Global Nav.
 >
 >Om du använder sökningen i trädet genereras endast resultat från det avsnitt du är i (t.ex. marknadsföringsaktiviteter). Om du vill söka i hela instansen använder du den globala sökningen.
 
-Njut av den nya Marketo Engage-upplevelsen!
+Upplev det nya Marketo Engage!
