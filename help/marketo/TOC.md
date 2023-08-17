@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: cb45578229c50300840660fc2a5629341ecfa98e
+source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
 workflow-type: tm+mt
 source-wordcount: '9012'
 ht-degree: 0%
@@ -403,7 +403,7 @@ ht-degree: 0%
             + [Använda periodkostnader i ett program](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
          + Programbibliotek {#program-library}
             + [Översikt över programimportbiblioteket](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
-            + [Exempel på Content Management Program](product-docs/core-marketo-concepts/programs/program-library/content-management-program-example.md)
+            + [Exempel på godkännandehanteringsprogram](product-docs/core-marketo-concepts/programs/program-library/consent-management-program-example.md)
          + Rapport om programprestanda {#program-performance-report}
             + [Skapa en rapport om programprestanda](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [Lägg till programstatuskolumner i en programrapport](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
@@ -1483,7 +1483,7 @@ ht-degree: 0%
             + [Uppgradera Marketo Sales Insight Solution för Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
       + MSI för Salesforce {#msi-for-salesforce}
          + Installation {#installation}
-            + [Installera Marketo Sales Insight-paket i Salesforce AppExchange](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+            + [Installera Marketo Sales Insight-paket i Salesforce-AppExchange](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
          + Konfiguration {#configuration}
             + [Konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [Konfigurera Marketo Sales Insight i Salesforce Professional Edition](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)

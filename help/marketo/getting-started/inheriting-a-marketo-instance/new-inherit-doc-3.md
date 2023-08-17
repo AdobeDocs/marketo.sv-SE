@@ -3,9 +3,9 @@ description: Inherit Doc 3 - Marketo Docs - produktdokumentation
 title: Ärv dokument 3
 hide: true
 hidefromtoc: true
-source-git-commit: 75aa1f6c5f7d0c193787978a18900441aa9a8b82
+source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '833'
 ht-degree: 0%
 
 ---
@@ -71,7 +71,7 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
   </tr> 
   <tr> 
    <td>Tokens</td> 
-   <td><li>Används variabler i vanliga programtyper? KG - DUBBELKONTROLLERA BETYDER Om inte bör du överväga att använda dem för att öka effektiviteten.</li>
+   <td><li>Används variabler i de vanligaste programtyperna? Annars bör du överväga att använda dem för att öka effektiviteten.</li>
 <li>Om variabler implementeras, finns det globala mapptoken? Hur används de?</li></td>
   </tr>
   <tr> 
