@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 5602a0a771127a341a4c269739aca6e2a4e78d40
+source-git-commit: b5cd0192eefab83bca047094de42eede479c755a
 workflow-type: tm+mt
-source-wordcount: '9021'
+source-wordcount: '9027'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 0%
       + [Omdirigera en landningssida](getting-started/quick-wins/redirect-a-landing-page.md)
       + [Automatisera en avisering om möjliga dubbletter av personer](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
    + Ärva en Marketo-instans {#inheriting-a-marketo-instance}
+      + [Ny ärvd översikt](getting-started/inheriting-a-marketo-instance/new-inherit-overview.md)
       + [Hjälp mig! Jag har ärvt en befintlig Marketo-instans](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
       + [Objekt som ska checkas ut](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [Saker att granska: Kärnfärdigheter](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
@@ -46,6 +47,7 @@ ht-degree: 0%
       + [Nytt ärv dokument 2](getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
       + [Nytt ärv dokument 3](getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
       + [Nytt ärv dokument 4](getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
+      + [Nytt ärv dokument 5](getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
 + Produktdokument {#product-docs}
    + Ytterligare program {#additional-apps}
       + SEO {#seo}
