@@ -3,9 +3,9 @@ description: Inherit Doc 1 - Marketo Docs - produktdokumentation
 title: Ärv dok 1
 hide: true
 hidefromtoc: true
-source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
+source-git-commit: 5602a0a771127a341a4c269739aca6e2a4e78d40
 workflow-type: tm+mt
-source-wordcount: '1206'
+source-wordcount: '1223'
 ht-degree: 0%
 
 ---
@@ -55,7 +55,8 @@ Checklistan nedan har lagts ihop med indata från Marketo Champions så att du s
   </tr>
   <tr> 
    <td>Sandlåda (om tillämpligt)</td> 
-   <td><li>Har du en <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">sandbox-instans</a>? I så fall kan du granska kategorierna ovan för din sandlåda.</li>
+   <td><li>Har du en <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">sandbox-instans</a>? 
+   <br/>I så fall kan du granska kategorierna ovan för din sandlåda.</li>
 <li>Är <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">Programimport</a> länkad till din sandlåda?</li></td>
   </tr>
  </tbody> 
@@ -110,8 +111,8 @@ Checklistan nedan har lagts ihop med indata från Marketo Champions så att du s
   </tr> 
   <tr> 
    <td>Inställningar för smart kampanj</td> 
-   <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">Har du en begränsning?</a> på Smart Campaign-storleken?</li>
-<li>Om inte, överväg att lägga till en. Vi rekommenderar att gränsen för smarta kampanjer begränsas till 25 % av databasen för att undvika överkommunikation eller att hela databasen behandlas i arbetsflöden. Detta skyddar inte bara varumärket utan hjälper till att skydda instansens prestanda.</li></td>
+   <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">Har du en begränsning?</a> på Smart Campaign-storleken? 
+   <br/>Om inte, överväg att lägga till en. Vi rekommenderar att du begränsar gränserna för smarta kampanjer till 25 % av databasen för att undvika överkommunikation eller att hela databasen behandlas i arbetsflöden. Detta skyddar inte bara varumärket, utan hjälper till att skydda instansens prestanda. KG - ÄR DET HÄR KORREKT?</li></td>
   </tr>
  </tbody> 
 </table>
@@ -127,7 +128,7 @@ Checklistan nedan har lagts ihop med indata från Marketo Champions så att du s
   <tr> 
    <td>Kommunikationsbegränsningar</td> 
    <td><li>Finns det <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">kommunikationsgränser</a> på plats? Har ert företag policyer där kommunikationsbegränsningar kan behövas?</li>
-<li>Adobe rekommenderar att du begränsar din kommunikation till 1 per dag och 3 per 7 dagar med <b>ej</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operativ</a> e-post blockerad.</li></td>
+<p>Obs! Adobe rekommenderar att du begränsar din kommunikation till 1 per dag och 3 per 7 dagar med <b>ej</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operativ</a> e-post blockerad. KG - ÄR DET HÄR KORREKT?</td>
   </tr>
  </tbody> 
 </table>
@@ -171,19 +172,23 @@ Checklistan nedan har lagts ihop med indata från Marketo Champions så att du s
   </tr> 
   <tr> 
    <td>Fälthantering</td> 
-   <td><li>Hur många fält finns det? Klicka <a href="/help/marketo/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md" target="_blank">Exportera fältnamn</a> om du vill granska en lista med fält, anpassade fält och deras API-namn.</li>
+   <td><li>Hur många fält finns det? 
+   <br/>Klicka <a href="/help/marketo/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md" target="_blank">Exportera fältnamn</a> om du vill granska en lista med fält, anpassade fält och deras API-namn.</li>
 <li>Hur många <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">anpassade fält</a> Är det där?</li>
-<li>Hur många fält används? Välj <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">Exportera som används av</a> i listrutan Fältåtgärder för att granska relaterade resurser i ett fält.</li>
+<li>Hur många fält används? 
+<br/>Välj <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">Exportera som används av</a> i listrutan Fältåtgärder för att granska relaterade resurser i ett fält.</li>
 <li>Hur många synkroniseras mellan Marketo Engage och CRM?</li>
 <li>Synkroniseras CRM-fält med rätt objekt?</li>
 <li>Finns det en <a href="/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md" target="_blank">anpassad vyuppsättning</a> för persondetaljer? Borde det vara?</li>
-<li>Har du en namngivningsregel för dina fält baserat på källa? Om inte, överväg att genomföra detta.</li>
-<li>Finns det några fält <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">blockerad</a>? Se till att förstå varför de är det.</li></td>
+<li>Har du en namngivningsregel för dina fält baserat på källa? 
+<br/>Om inte, överväg att genomföra detta.</li>
+<li>Finns det några fält <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">blockerad</a>? 
+<br/>Se till att förstå varför de är det.</li></td>
   </tr>
   <tr> 
    <td>Anpassade aktiviteter</td> 
    <td><li>Finns det några <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">anpassade aktiviteter</a>?</li>
-<li>Klicka i så fall igenom dem för att förstå vilka aktiviteter som inte är relaterade till ett Marketo-formulär, e-postmeddelande eller en landningssida.</li></td>
+<br/>Klicka i så fall igenom dem för att förstå vilka aktiviteter som inte är relaterade till ett Marketo-formulär, e-postmeddelande eller en landningssida.</td>
   </tr>
   <tr> 
    <td>Anpassade objekt</td> 
@@ -205,7 +210,8 @@ Checklistan nedan har lagts ihop med indata från Marketo Champions så att du s
    <td>CRM</td> 
    <td><li>Vilken CRM synkroniserar du med? Salesforce? MS Dynamics? Veeva?</li>
 <li>Är den anpassade synkroniseringen eller dubbelriktad? (KG: KORRIGERA GRAMMAR OCH KONTROLLERA VIKTIGHET)</li>
-<li>[Endast Salesforce] Har din instans anpassade synkroniseringsfilter implementerats? Kontakta Marketo Support för att identifiera anpassade synkroniseringsfilter eller begära att en anpassad synkroniseringsregel implementeras.</li></td>
+<li>[Endast Salesforce] Har din instans anpassade synkroniseringsfilter implementerats? 
+<p>Obs! Kontakta Marketo Support om du vill identifiera anpassade synkroniseringsfilter eller begära att en anpassad synkroniseringsregel implementeras.</li></td>
   </tr>
   <tr> 
    <td>Landningssidor</td> 
@@ -216,25 +222,28 @@ Checklistan nedan har lagts ihop med indata från Marketo Champions så att du s
 <li>är <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md" target="_blank">personaliserade URL:er</a> aktiverad?</li>
 <li>Finns det regler för <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md" target="_blank">omdirigeringar</a>?</li>
 <li>Har du befintliga domänalias? Följer du igenom dokumentation om hur du använder domänalias?</li>
-<li>Är <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">Skyddade domäner för landningssidor</a> aktiverad? Bekräfta om dina resurser på landningssidan innehåller en http-URL.</li></td>
+<li>Är <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">Skyddade domäner för landningssidor</a> aktiverad? 
+<br/>Bekräfta om dina resurser på landningssidan innehåller en http-URL.</li></td>
   </tr>
   <tr> 
    <td>Munchkin</td> 
    <td><li>Är din <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin-spårningskod</a> på din webbplats (inte i Marketo)?</li>
 <li>Är en <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Spåra inte</a> Webbläsarbegäran aktiverad?</li>
-<li>Är din <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> konfigurerad? Om du saknar dokumentation om var munkinkoden finns på webbplatsen kan du snabbt komma igång med att använda Web Analytics-rapporten i grundläggande Analytics för att förstå var Munchkin-koden placeras på webbplatsen.</li></td>
+<li>Är din <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> konfigurerad? 
+<p>Tips! Om du saknar dokumentation om var munkinkoden finns på din webbplats kan du snabbt komma igång med att använda Web Analytics-rapporten i grundläggande Analytics för att förstå var Munchkin-koden placeras på din webbplats. KG - ÄR DET HÄR EN BRA TITT?</li></td>
   </tr>
   <tr> 
    <td>Webbtjänster</td> 
    <td><li>är <a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">IP-begränsningar</a> aktiverad? Borde de vara det?</li>
 <li>Vilka användare/appar gör API-anrop i din instans?</li>
-<li>Stöter du eller är du nära att stöta på API-gränsen? Om så är fallet bör du överväga att öka den eller granska instansen för att få ned API-anropen.</li></td>
+<li>Stöter du eller är du nära att stöta på API-gränsen? 
+<br/>Om så är fallet bör du överväga att öka den eller granska instansen för att få ned API-anropen.</li></td>
   </tr>
   <tr> 
    <td>Marketo Sales Insight (om tillämpligt)</td> 
    <td><li>Har <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">MSI-paketet har installerats</a>?</li>
 <li>Har du <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">uppgraderat till den senaste versionen av Sales Insight</a>?</li>
-<li>Har du slutfört konfigurationen av Sales Insight? Företag/obegränsade användare <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">klicka här</a>, Professional-användare <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">klicka här</a>.</li>
+<li>Har du slutfört konfigurationen av Sales Insight? <br/>Företag/obegränsade användare <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">klicka här</a>, Professional-användare <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">klicka här</a>.</li>
 <li>Har du <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">ger åtkomst till dina användare</a> baserat på hur många licenser du har köpt?</li></td>
   </tr>
   <tr> 
@@ -272,7 +281,7 @@ Checklistan nedan har lagts ihop med indata från Marketo Champions så att du s
   <tr> 
    <td>Campaign Inspector</td> 
    <td><li>Är <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">Campaign Inspector</a> aktiverad?</li>
-<li>Om inte kan du aktivera det för att enkelt identifiera vilka kampanjer som är aktiva, synkronisera med CRM och/eller ta bort poster.</li></td>
+<br/>Om inte kan du aktivera det för att enkelt identifiera vilka kampanjer som är aktiva, synkronisera med CRM och/eller ta bort poster.</td>
   </tr>
  </tbody> 
 </table>

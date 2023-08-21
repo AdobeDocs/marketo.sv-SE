@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
+source-git-commit: 5602a0a771127a341a4c269739aca6e2a4e78d40
 workflow-type: tm+mt
-source-wordcount: '9012'
+source-wordcount: '9021'
 ht-degree: 0%
 
 ---
@@ -43,6 +43,9 @@ ht-degree: 0%
       + [Saker att granska: Kärnfärdigheter](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [Sätt att få hjälp](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
       + [Nytt ärv dokument 1](getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
+      + [Nytt ärv dokument 2](getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
+      + [Nytt ärv dokument 3](getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+      + [Nytt ärv dokument 4](getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
 + Produktdokument {#product-docs}
    + Ytterligare program {#additional-apps}
       + SEO {#seo}
