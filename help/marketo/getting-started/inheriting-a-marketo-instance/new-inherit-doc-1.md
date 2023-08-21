@@ -3,7 +3,7 @@ description: Inherit Doc 1 - Marketo Docs - produktdokumentation
 title: Ärv dok 1
 hide: true
 hidefromtoc: true
-source-git-commit: 5602a0a771127a341a4c269739aca6e2a4e78d40
+source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
 workflow-type: tm+mt
 source-wordcount: '1223'
 ht-degree: 0%
@@ -55,7 +55,7 @@ Checklistan nedan har lagts ihop med indata från Marketo Champions så att du s
   </tr>
   <tr> 
    <td>Sandlåda (om tillämpligt)</td> 
-   <td><li>Har du en <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">sandbox-instans</a>? 
+   <td><li>Har du en <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">sandbox-instans</a>?
    <br/>I så fall kan du granska kategorierna ovan för din sandlåda.</li>
 <li>Är <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">Programimport</a> länkad till din sandlåda?</li></td>
   </tr>
@@ -187,8 +187,8 @@ Checklistan nedan har lagts ihop med indata från Marketo Champions så att du s
   </tr>
   <tr> 
    <td>Anpassade aktiviteter</td> 
-   <td><li>Finns det några <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">anpassade aktiviteter</a>?</li>
-<br/>Klicka i så fall igenom dem för att förstå vilka aktiviteter som inte är relaterade till ett Marketo-formulär, e-postmeddelande eller en landningssida.</td>
+   <td><li>Finns det några <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">anpassade aktiviteter</a>?
+<br/>Klicka i så fall igenom dem för att förstå vilka aktiviteter som inte är relaterade till ett Marketo-formulär, e-postmeddelande eller en landningssida.</li></td>
   </tr>
   <tr> 
    <td>Anpassade objekt</td> 
@@ -280,8 +280,8 @@ Checklistan nedan har lagts ihop med indata från Marketo Champions så att du s
   </tr>
   <tr> 
    <td>Campaign Inspector</td> 
-   <td><li>Är <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">Campaign Inspector</a> aktiverad?</li>
-<br/>Om inte kan du aktivera det för att enkelt identifiera vilka kampanjer som är aktiva, synkronisera med CRM och/eller ta bort poster.</td>
+   <td><li>Är <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">Campaign Inspector</a> aktiverad?
+<br/>Om inte kan du aktivera det för att enkelt identifiera vilka kampanjer som är aktiva, synkronisera med CRM och/eller ta bort poster.</li></td>
   </tr>
  </tbody> 
 </table>

@@ -3,9 +3,9 @@ description: Inherit Doc 3 - Marketo Docs - produktdokumentation
 title: Ärv dokument 3
 hide: true
 hidefromtoc: true
-source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
+source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '843'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,8 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
   </tr>
   <tr> 
    <td>Program</td> 
-   <td><li>KG - ÄR DETTA FORTFARANDE RELEVANT FINNS det <a href="https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself" target="_blank">Center of Excellence</a> med programmallar? Om så är fallet, är programmallarna bra för teamets användningsfall?</li>
+   <td><li>KG - ÄR DETTA FORTFARANDE RELEVANT FINNS det <a href="https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself" target="_blank">Center of Excellence</a> med programmallar? 
+   <br/>Om så är fallet, är programmallarna bra för teamets användningsfall?</li>
 <li>Är liknande programtyper <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">konsekvent strukturerad</a>?</li>
 <li>är <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">periodkostnader</a> på plats?</li>
 <li>Är alla program <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">synkroniserat med SFDC-kampanjer</a> (om tillämpligt)?</li>
@@ -44,7 +45,8 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
   </tr>
   <tr> 
    <td>Arkiv</td> 
-   <td><li>Är äldre program <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">arkiverad</a>? Det bästa är att granska varje år.</li>
+   <td><li>Är äldre program <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">arkiverad</a>? 
+   <br/>Det bästa är att granska varje år. KG - ÄR DETTA SANT?</li>
 <li>Hur ofta granskar och arkiverar ert företag gamla program?</li></td>
   </tr>
   <tr> 
@@ -56,7 +58,7 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
    <td>Prenumerationer på smarta listor 
    <br/>(Fliken Marknadsföringsaktiviteter/Prenumerationer)</td> 
    <td><li>Finns det pågående <a href="/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md" target="_blank">Prenumerationer med Smart List</a> i din instans? Om ja, vem ska de göra?</li>
-<p>Tips: Överväg att konfigurera Smart List-prenumerationer för att gå till ett teamalias i stället för en individ. Det här täcker dig om individer är på semester eller semester.</td>
+<p>Tips: Överväg att konfigurera Smart List-prenumerationer för att gå till ett teamalias i stället för en individ. Detta täcker dig om enskilda personer inte är på kontoret.</td>
   </tr>
  </tbody> 
 </table>
@@ -71,14 +73,17 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
   </tr> 
   <tr> 
    <td>Tokens</td> 
-   <td><li>Används variabler i de vanligaste programtyperna? Annars bör du överväga att använda dem för att öka effektiviteten.</li>
+   <td><li>Används variabler i de vanligaste programtyperna? 
+   <br/>Annars bör du överväga att använda dem för att öka effektiviteten.</li>
 <li>Om variabler implementeras, finns det globala mapptoken? Hur används de?</li></td>
   </tr>
   <tr> 
    <td>Engagement Programs</td> 
    <td><li>Finns det live? <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" target="_blank">Engagement Programs</a> springer?</li>
-<li>Hur många <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">folk är utmattade</a>? Om det finns många utmattade personer bör du överväga att lägga till innehåll.</li>
-<li>Engagerar folk med innehållet? Om inte, överväg att uppdatera den och/eller A/B-testning.</li>
+<li>Hur många <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">folk är utmattade</a>? 
+<br/>Om det finns många utmattade personer bör du överväga att lägga till innehåll.</li>
+<li>Engagerar folk med innehållet? 
+<br/>Om inte, överväg att uppdatera den och/eller A/B-testning.</li>
 <li><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/see-members-of-an-engagement-program.md" target="_blank">Hur många människor</a> KG - FINNS DET ETT SÄTT ATT SE ALLA PROGRAM PÅ EN GÅNG? TROR DU INTE SÅ MEN SE TILL ATT ni har fler än ett engagemangsprogram? Ska de vara i flera?</li></td>
   </tr>
   <tr> 
@@ -96,12 +101,12 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
    <td>Lokal Forms</td> 
    <td><li>Hur många program har lokala <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">formulär</a>? Bör dessa formulär göras om till globala formulär?</li>
 <li>Hämtar de data som passar er marknadsföring och era säljteam?</li>
-<p>Tips: Begränsa antalet lokala formulär för att underlätta uppdatering och anpassning till ändringar av datasekretess, regler för anmälan/avanmälan? När du skapar ett formulär bör du fundera på vilka frågor som ska ställas, om den insamlade informationen inte ändras och om de avancerade formulärfunktionerna inte ändras - överväg ett globalt formulär istället för ett lokalt formulär.</td>
+<p>Tips: Begränsa antalet lokala formulär för att underlätta uppdatering och anpassning till ändringar av datasekretess och regler för anmälan/avanmälan. Vilka frågor behöver du ställa när du skapar ett formulär? Om den insamlade informationen inte ändras och de avancerade formulärfunktionerna inte ändras bör du överväga ett globalt formulär istället för ett lokalt formulär. KG - VERIFIERA DETTA</td>
   </tr>
   <tr> 
    <td>Global Forms</td> 
-   <td><li>Var använder du <a href="/help/marketo/product-docs/administration/settings/global-form-validation-rules.md" target="_blank">globala formulär</a>? (Marketo landningssidor jämfört med landningssidor utanför Marketo)</li>
-<li>Hur pekar de globala formulären på en <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md" target="_blank">tacksida</a>? (via dolda formulärfält eller i CMS-sidmallen)</li>
+   <td><li>Var använder du <a href="/help/marketo/product-docs/administration/settings/global-form-validation-rules.md" target="_blank">globala formulär</a>? (landningssidor för Marketo Engage jämfört med landningssidor utanför Marketo Engage)</li>
+<li>Hur pekar de globala formulären på en <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md" target="_blank">tacksida</a> (via dolt formulärfält eller i CMS-sidmallen)?</li>
 <li>Finns det formulärfält som du bör överväga att lägga till eller ta bort?</li>
 <li>Finns det värden som du bör ändra i listan?</li>
 <li>Funderar du på att tänka på <a href="/help/marketo/product-docs/demand-generation/forms/form-actions/configure-form-progressive-profiling.md" target="_blank">progressiv profilering</a>?</li>
@@ -139,7 +144,8 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
   </tr>
   <tr> 
    <td>Sekretess och efterlevnad</td> 
-   <td><li>Har ni program för att säkerställa att ni följer datasekretess och skräppostlagar? Överväg <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>, CASL, CAN-SPAM, CCPA osv.</li>
+   <td><li>Har ni program för att säkerställa att ni följer datasekretess och skräppostlagar? 
+   <br/>Överväg <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>, CASL, CAN-SPAM, CCPA osv.</li>
 <p>Tips! Kom ihåg att alltid rådfråga ditt juridiska team om dessa frågor. Fråga teamet om tidigare initiativ för att upprätthålla regelefterlevnaden innan du gör några ändringar.</td>
   </tr>
   <tr> 

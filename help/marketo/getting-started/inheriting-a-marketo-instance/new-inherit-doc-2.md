@@ -3,7 +3,7 @@ description: Inherit Doc 2 - Marketo Docs - produktdokumentation
 title: Ärv dok 2
 hide: true
 hidefromtoc: true
-source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
+source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
 workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 0%
@@ -30,7 +30,8 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
    <td>Alla personer</td> 
    <td><li>Hur många personer finns i <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md" target="_blank">databas</a>?</li>
 <li>Om databasen är nästan full, rekommenderar din företagspolicy att du utökar databasstorleken eller rensar bort historiska data?</li>
-<li>Är er övergripande databas minst 85 % marknadsmässig? Om ditt värde ligger under detta tröskelvärde kan du titta närmare på de andra systemsmarta listorna (Blockeringslista, Markering pausad, Duplicat, Avbeställ) med större kontroll.</li></td>
+<li>Är er övergripande databas minst 85 % marknadsmässig? 
+<br/>Om ditt värde ligger under det här tröskelvärdet kan du titta på de andra systemsmarta listorna (Blockeringslista, Marketing Suspended, Duplicates, Unsubscribe) med större kontroll.</li></td>
   </tr>
   <tr> 
    <td>Avbeställ</td> 
@@ -40,9 +41,9 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
   </tr>
   <tr> 
    <td>Marknadsföring har pausats</td> 
-   <td><li>Vilka kriterier har ni för <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">Marknadsföring har pausats</a>? Finns det för många personer som är avstängda?</li>
-<li>Hur länge återstår uppgifter om statusen för tillfälligt utsläppande på marknaden?</li>
-<p>Exempel på inaktiverad användning av marknadsföring: poster som aktivt deltar i försäljning i sista-minuten-möjligheter som du vill undertrycka marknadskommunikation för.</td>
+   <td><li>Vilka kriterier har ni för <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">Marknadsföring har pausats</a>? Finns det för många personer som är avstängda från marknadsföring?</li>
+<li>Hur länge finns det kvar uppgifter om statusen för Marketing Suspended?</li>
+<p>Exempel på uppskjuten användning av marknadsföring: poster som aktivt deltar i försäljning i sista-minuten-möjligheter som du vill undertrycka marknadskommunikation för.</td>
   </tr>
    <tr> 
    <td>Blockeringslista</td> 
@@ -54,11 +55,13 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
   </tr>
   <tr> 
    <td>Möjliga dubbletter</td> 
-   <td><li>Hur många <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">potentiellt duplicerade poster</a> Är det där? Överväg att ta bort eller sammanfoga dem.</li></td>
+   <td><li>Hur många <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">potentiellt duplicerade poster</a> Är det där?
+   <br/>Överväg att ta bort eller sammanfoga dem.</li></td>
   </tr>
    <tr> 
    <td>Inget förvärvsprogram</td> 
-   <td><li>Hur många människor har ingen <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">förvärvsprogram</a>? Om det är mycket, överväg att undersöka varför.</li></td>
+   <td><li>Hur många människor har ingen <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">förvärvsprogram</a>?
+   <br/>Om det är mycket, överväg att undersöka varför.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -73,8 +76,8 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
   </tr> 
   <tr> 
    <td>Gruppera smarta listor</td> 
-   <td><li>Vilka gruppsmarta listor finns det? Hur används de i den här instansen?</li>
-<li>Är listorna ordnade i en sammanhängande mappstruktur? Om du har överblivna listor bör du överväga att ordna trädet så att det blir enkelt att hitta resurser.</li>
+   <td><li>Vilken grupp av smarta listor finns det? Hur används de i den här instansen?</li>
+<li>Är listorna ordnade i en sammanhängande mappstruktur? <br/>Om du har överblivna listor bör du överväga att ordna trädet så att det blir enkelt att hitta resurser.</li>
 <p>Tips: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Arkiv</a> gruppera smarta listor som inte längre behövs för att fråga, rapportera eller referera till information som kan hjälpa till med organisation och prestanda.</td>
   </tr>
  </tbody> 
@@ -108,7 +111,8 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
    <td>Segmenteringar</td> 
    <td><li>som <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">segmentering</a> Är det där? Hur används de?</li>
 <li>Är för många personer <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">standardsegment</a>?</li>
-<li>Finns det någon segmentering för den marknadsföringsbara publiken? Om inte kan du skapa en.</li></td>
+<li>Finns det någon segmentering för den marknadsföringsbara publiken? 
+<br/>Om inte kan du skapa en.</li></td>
   </tr>
  </tbody> 
 </table>
