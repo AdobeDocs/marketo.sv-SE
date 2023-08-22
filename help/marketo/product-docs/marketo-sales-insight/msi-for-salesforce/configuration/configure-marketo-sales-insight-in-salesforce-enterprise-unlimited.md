@@ -4,9 +4,9 @@ description: Konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited
 title: Konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9d1b18b2aebde00ae715a072580a8f128d07923e
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '847'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Här är de steg du måste utföra för att konfigurera Marketo Sales Insight i 
 
 >[!PREREQUISITES]
 >
->[Installera Marketo Sales Insight-paket i Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+>[Installera Marketo Sales Insight-paket i Salesforce-AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ Här är de steg du måste utföra för att konfigurera Marketo Sales Insight i 
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-2.png)
 
-1. Ange en API-hemlig nyckel som du väljer och klicka på **Spara**. Använd INTE ett et-tecken (&amp;) i API-hemlighetstangenten.
+1. Ange en API-hemlig nyckel som du väljer och klicka på **Spara**. Använd INTE ett et-tecken (&amp;) i API-hemlighetsnyckeln.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-3.png)
 
@@ -147,10 +147,10 @@ Här är de steg du måste utföra för att konfigurera Marketo Sales Insight i 
       <td>Typ av senaste intressanta stund</td> 
      </tr> 
      <tr> 
-      <td>Senaste Marketo-aktivitet per försäljning</td> 
+      <td>Senaste aktivitet efter försäljning</td> 
      </tr> 
      <tr> 
-      <td>Senaste Marketo-engagemang från försäljning</td> 
+      <td>Senaste åtagande per försäljning</td> 
      </tr> 
      <tr> 
       <td>Kontakt-ID för MSI</td> 
@@ -227,7 +227,7 @@ Här är de steg du måste utföra för att konfigurera Marketo Sales Insight i 
 
 ## Mappa anpassade personfält {#map-custom-person-fields}
 
-Marketo personfält måste mappas till Salesforce-kontaktfält för att säkerställa att konverteringen fungerar som den ska. Så här gör du.
+Marketo personfält måste mappas till Salesforce-kontaktfält för att konverteringen ska fungera korrekt. Så här gör du.
 
 1. Klicka **Inställningar**.
 
@@ -290,9 +290,9 @@ Marketo personfält måste mappas till Salesforce-kontaktfält för att säkerst
 
 1. Klicka **Spara** när du är klar.
 
-## Marketo Sales Insight Configuration tab {#marketo-sales-insight-configuration-tab}
+## Marketo Sales Insight Configuration Tab {#marketo-sales-insight-configuration-tab}
 
-1. I Salesforce klickar du på **+** i slutet av flikfältet och klicka på **Marketo Sales Insight Config**.
+1. Klicka på **+** i slutet av flikfältet och klicka på **Marketo Sales Insight Config**.
 
 1. Kopiera inloggningsuppgifterna från Soap API-panelen i [Marketo Sales Insight Admin page](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} och klistra in dem i Soap API-avsnittet på Salesforce Sales Insight Configuration-sidan.
 
@@ -313,5 +313,5 @@ Och det är allt! Du bör kunna se fälten Marketo Sales Insight för Leads, Con
 >[!MORELIKETHIS]
 >
 >* [Prioritet, Urklipp, Relativa poäng och Bästa val](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
->* [Lägg till Marketo-flik i Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
+>* [Lägg till fliken Marketo i Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
 >* [Lägg till åtkomst till profiler för Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

@@ -4,7 +4,7 @@ description: Konfigurera protokoll för Marketo - Marketo Docs - produktdokument
 title: Konfigurera protokoll för Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 9d1b18b2aebde00ae715a072580a8f128d07923e
 workflow-type: tm+mt
 source-wordcount: '1024'
 ht-degree: 3%
@@ -27,6 +27,7 @@ Om IT-teamet begränsar webbåtkomsten via ett tillåtelselista ber du dem lägg
 * `*.marketodesigner.com`
 * `*.mktoweb.com`
 * `*.experience.adobe.com`
+* `*.adobe.net`
 
 ## Steg 1: Skapa DNS-poster för landningssidor och e-post {#step-create-dns-records-for-landing-pages-and-email}
 
@@ -38,7 +39,7 @@ Marknadsföringsteamet bör ha skickat två förfrågningar till dig om nya CNAM
 
 Lägg till landningssidan CNAME som de skickade dig till din DNS-post, så att `[YourLandingPageCNAME]` pekar på den unika kontosträng som tilldelas dina Marketo-landningssidor. Logga in på din domänregistrators webbplats och ange landningssidan CNAME och kontosträng. Vanligtvis omfattar detta tre fält:
 
-* Alias: Retur `[YourLandingPageCNAME]` (tillhandahålls genom marknadsföring)
+* Alias: Ange `[YourLandingPageCNAME]` (tillhandahålls genom marknadsföring)
 * Typ: CNAME
 * Peka på: Retur `[MunchkinID].mktoweb.com` (tillhandahålls genom marknadsföring)
 
@@ -63,7 +64,7 @@ Meddela marknadsföringsteamet när du har slutfört den här processen.
 
 Den här processen kan ta upp till tre arbetsdagar att slutföra.
 
-## Steg 2: IP-adresser för Tillåtelselista Marketo {#step-allowlist-marketo-ips}
+## Steg 2: Tillåtslista IP-adresser för Marketo {#step-allowlist-marketo-ips}
 
 När marknadsföringsgruppen använder Marketo för att skicka testmeddelanden (en bra metod innan de skickar ut e-postmeddelanden) blockeras ibland testmeddelandena av skräppostskydd som förlitar sig på avsändarens IP-adresser för att bekräfta att e-postmeddelandet är giltigt. Lägg till Marketo i tillåtelselista för att försäkra dig om att dessa testmeddelanden kommer fram.
 
@@ -100,12 +101,12 @@ Marknadsföringsteamet ska också ha skickat dig DKIM-information som ska lägga
 1. Om du vill konfigurera SPF lägger du till följande rad i våra DNS-poster:
 
    `[CompanyDomain]` IN TXT v=spf1 mx ip4:`[CorpIP]`\
-   inkludera: mktomail.com ~alla
+   include: mktomail.com ~all
 
    Om det redan finns en SPF-post i vår DNS-post lägger du bara till följande:\
-   inkludera: mktomail.com
+   include: mktomail.com
 
-   Ersätt CompanyDomain med webbplatsens huvuddomän (t.ex.: &quot;`(company.com/)`&quot;) och CorpIP med IP-adressen till företagets e-postserver (t.ex. &quot;255.255.255.255&quot;). Om du ska skicka e-post från flera domäner via Marketo bör din IT-personal lägga till den här raden för varje domän (på en rad).
+   Ersätt CompanyDomain med webbplatsens huvuddomän (t.ex. &quot;`(company.com/)`&quot;) och CorpIP med IP-adressen till företagets e-postserver (t.ex. &quot;255.255.255.255&quot;). Om du ska skicka e-post från flera domäner via Marketo bör din IT-personal lägga till den här raden för varje domän (på en rad).
 
 1. För DKIM skapar du DNS-resursposter för varje domän som vi vill konfigurera. Nedan visas värdposter och TXT-värden för varje domän som vi ska signera för:
 
@@ -113,7 +114,7 @@ Marknadsföringsteamet ska också ha skickat dig DKIM-information som ska lägga
 
    `[DKIMDomain2]`: Värdposten är `[HostRecord2]` och TXT-värdet är `[TXTValue2]`.
 
-   Kopiera HostRecord och TXTValue för varje DKIMDomain som du har konfigurerat efter följande [anvisningar](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. Glöm inte att verifiera varje domän i Admin > E-post > DKIM när din IT-personal har slutfört det här steget.
+   Kopiera HostRecord och TXTValue för varje DKIMDomain som du har konfigurerat efter följande [anvisningar här](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. Glöm inte att verifiera varje domän i Admin > E-post > DKIM när din IT-personal har slutfört det här steget.
 
 ## Steg 4: Konfigurera MX-poster för din domän {#step-set-up-mx-records-for-your-domain}
 
