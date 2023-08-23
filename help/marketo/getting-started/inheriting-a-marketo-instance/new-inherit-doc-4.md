@@ -3,20 +3,16 @@ description: Inherit Doc 4 - Marketo Docs - produktdokumentation
 title: Ärv dokument 4
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: d7334acc31456b640a128c699d07a6b4af330469
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '506'
 ht-degree: 0%
 
 ---
 
 # Ärv dokument 4 {#inherit-doc-4}
 
-Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? I så fall är den här artikeln till dig.
-
->[!TIP]
->
->Om du är nybörjare i Marketo Engage och inte känner till många av villkoren kan du läsa [Marketo-ordlista](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+Genom att strukturera mallar och skapa globala formulär, kodfragment och bilder och filer kan du minimera datafel och effektivisera arbetsflödet i programbygget.
 
 ## Landningssidor {#landing-pages}
 
@@ -35,6 +31,10 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
    <td><li>Hur många <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md" target="_blank">Mallar för landningssidor</a> Är det där? Blås de?</li></td>
   </tr>
   <tr> 
+   <td>Testgrupper</td> 
+   <td><li>Hur många <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md" target="_blank">Testgrupper för landningssida</a> Är de? Är de fortfarande relevanta?</li></td>
+  </tr>
+   <tr> 
    <td>Sekretess och efterlevnad</td> 
    <td><li>Har alla dina landningssidor rätt sidfot?</li></td>
   </tr>
@@ -88,6 +88,10 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
    <td><li>Hur många <a href="/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md" target="_blank">e-postmallar</a> Är det där? Blås de?</li></td>
   </tr>
   <tr> 
+   <td>E-posttestning</td> 
+   <td><li>Hur använder man <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/understanding-email-testing-options.md" target="_blank">e-posttestning</a>? Gäller metoden fortfarande?</li></td>
+  </tr>
+  <tr> 
    <td>Sekretess och efterlevnad</td> 
    <td><li>Har alla era e-postmeddelanden rätt sidfot? Överväg GDPR, CASL, CAN-SPAM, CCPA osv. för regelefterlevnad.</li>
 <p>Tips! Kom ihåg att alltid rådfråga ditt juridiska team om dessa efterlevnadsfrågor. Fråga teamet om tidigare initiativ för att upprätthålla regelefterlevnaden innan du gör några ändringar.</td>
@@ -135,3 +139,30 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
   </tr>
  </tbody> 
 </table>
+
+## Alla resurser {#all-assets}
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th>Område</th> 
+   <th>Granska fokus</th>
+  </tr> 
+  <tr> 
+   <td>Resursstatus</td> 
+   <td><li>Hur många mediefiler finns i <i>Utkast</i> och <i>Godkänd med utkast</i> status?
+   <br/>Om det finns många kan du ta bort eller godkänna dem.</li></td>
+  </tr>
+  <tr> 
+   <td>Resursdelning</td> 
+   <td><li>Vilka tillgångar <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#sharing-across-workspaces" target="_blank">delas mellan arbetsytor</a>?</li>
+   <p>Obs! Det är viktigt att veta att åtgärder som vidtas i en arbetsyta kan leda till en otillgänglig resurs i en annan arbetsyta för en annan användare.</td>
+  </tr>
+ </tbody> 
+</table>
+
+<br> 
+
+[◄ Granska en ärvd instans: Marknadsföringsaktiviteter](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+
+[Granska en ärvd instans: Dokumentera din ärvda instansinställning ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
