@@ -3,22 +3,38 @@ description: Lär dig hur du optimerar och skalförändrar en befintlig Marketo 
 title: HoppaStarta en ärvd Marketo Engage-instans
 hide: true
 hidefromtoc: true
-source-git-commit: b5cd0192eefab83bca047094de42eede479c755a
+source-git-commit: b449dd568bd382dc9abd1c4f023e09962ac52081
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
 
 # HoppaStarta en ärvd Marketo Engage-instans {#jumpstart-an-inherited-marketo-engage-instance}
 
-Vill du starta ett nytt jobb eller ta över en befintlig instans från en annan administratör? Att ta över en instans som har varit igång ett tag kan verka lite skrämmande, men den här guiden hjälper dig.
+Vill du starta ett nytt jobb eller ta över en befintlig instans från en annan administratör? Att ta över en live-instans som har varit igång ett tag kan verka lite skrämmande, men den här guiden hjälper dig att komma igång på nolltid.
 
-Använd checklistan &quot;Marketo Engage Instance Audit Admin Checklist&quot; för att granska och testa instansen, felsöka fel och undersöka röda flaggor innan de blir ett problem.
+## Objekt som ska checkas ut {#items-to-check-off}
+
+Se till att du har rätt inställningar för rätt typ av åtkomst och information.
+
+* Se en kort översikt över **vad Marketo gör** - KG - HITTA BÄTTRE VIDEO ELLER DELETE
+
+* **Konfigurera din profil** i [**Marknadsföringsnation**](https://nation.marketo.com/){target="_blank"} community (användarnamn och lösenord krävs).
+
+* Läs upp [**Riktlinjer för marknadsföringscommunityn**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+
+* Klicka **[!UICONTROL Your Places]** på din Marketo Nation-communityprofil för att se ditt företags kontosida.
+
+* Lär dig hur [**skicka in ett supportärende**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
+
+* [**Hantera användare**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md){target="_blank"} och radera dem som har lämnat företaget.
 
 ## Ärvda instansgranskningsguider {#inherited-instance-audit-guides}
 
-Nedan finns onlineguider som hjälper dig att navigera i olika områden på Marketo Engage och som åtgärdar de olika uppgifter som krävs för att utföra en granskning. Här finns också länkar till rekommenderad hjälpdokumentation. Du kan även hämta checklistan i kalkylbladsformulär.
+Checklistorna nedan har sammanställts med synpunkter från Marketo Champions för att hjälpa dig att komma igång snabbt. Lär dig navigera på olika områden i Marketo Engage och utföra de olika uppgifter som krävs för att utföra en granskning, med länkar till rekommenderad hjälpdokumentation.
+
+Du kan även hämta checklistorna i kalkylbladsformulär.
 
 * [Administratörsavsnittet](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
 
@@ -30,19 +46,14 @@ Nedan finns onlineguider som hjälper dig att navigera i olika områden på Mark
 
 * [Dokumentera dina ärvda instansinställningar](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
 
+## Sätt att få hjälp {#ways-to-get-help}
 
-H2: Är du ny i Marketo Engage? Här är förutsättningarna:
+Behöver du mer hjälp? Kontakta oss eller andra Marketo Engage-användare via länkarna nedan.
 
-Objekt som ska checkas ut
+* Om du behöver teknisk hjälp med något som inte fungerar som det ska kontaktar du **[Marketo Engage kundsupport](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**.
 
-Saker att granska: Kärnfärdigheter
+* Kommunicera med och lär av andra Marketo Engage-användare i **[Marknadsföringsnation](https://nation.marketo.com/){target="_blank"}**.
 
-Sätt att få hjälp
+* Om du behöver hjälp med att få ut det mesta av din instans av Marketo Engage kan du kontakta **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html)**.
 
-
-
-H2: Få inspiration och kommunicera med kollegor
-
-
-
-Besök Marketing Nation Community och se hur andra administratörer kan granska en ärvd instans mer effektivt.
+* Om du vill förbättra dina kunskaper på Marketo Engage går du till **[Marketo Engage Course Catalog](https://learning.adobe.com/catalog.html?products=Marketo%20Engage){target="_blank"}**.
