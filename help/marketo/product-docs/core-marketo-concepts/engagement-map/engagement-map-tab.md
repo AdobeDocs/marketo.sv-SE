@@ -2,9 +2,9 @@
 description: Engagement Map Tab - Marketo Docs - Product Documentation
 title: Fliken Åtagandekarta
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
+source-git-commit: 4ada58abaed493e548573e9c48c3ee544b6f4476
 workflow-type: tm+mt
-source-wordcount: '902'
+source-wordcount: '949'
 ht-degree: 0%
 
 ---
@@ -122,9 +122,17 @@ Här är ett exempel på en frågekampanj med valmöjligheter.
 
 ## Felhantering {#error-handling}
 
-Fel i smarta listor och flödessteg markeras med en felikon på kortet. Dessutom visas ett motsvarande felmeddelande på panelen för utskjutning.
+Fel i smarta listor och flödessteg markeras med en röd ikon på kortet. Dessutom visas ett motsvarande felmeddelande på panelen för utskjutning.
 
-Nedan visas ett exempel på ett fel i en utlösare som visas i utlösaröversiktskortet, utfällningspanelen och detaljutlösarkortet.
+Varningar i smarta listor och flödessteg markeras med en orange ikon på kortet. Dessutom visas ett motsvarande varningsmeddelande på utfällningspanelen.
+
+Nedan visas ett exempel på en varning på ett Choice-kort som visas i steg-kortet för Kör kampanj-flöde, panelen för utfällning och standardalternativkortet.
+
+![](assets/engagement-map-tab-18.png)
+
+>[!NOTE]
+>
+>Varningar är rekommendationer att granska, men indikerar inga fel i Smart Campaign.
 
 **Fel i filterkort kan vara:**
 
