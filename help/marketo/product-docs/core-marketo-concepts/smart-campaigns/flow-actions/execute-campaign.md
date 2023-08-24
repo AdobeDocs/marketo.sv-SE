@@ -3,9 +3,9 @@ description: Kör kampanj - Marketo Docs - produktdokumentation
 title: Kör kampanj
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '708'
+source-wordcount: '709'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Execute Campaign är en förbättring vid [Begär kampanj](/help/marketo/product
 
 >[!NOTE]
 >
->Wait Steps och Webhooks kommer aldrig att vara kompatibla med körbara kampanjer. Därför måste ni använda Request Campaign i stället.
+>Wait Steps och Webhooks blir aldrig kompatibla med körbara kampanjer. Därför måste ni använda Request Campaign i stället.
 
 ## Så här skapar du en körbar kampanj {#how-to-create-an-executable-campaign}
 
@@ -64,12 +64,12 @@ Vid användning av Schedule eller Request Campaign [i API:t](https://developers.
 
 ## Saker att notera {#things-to-note}
 
-* Smart List filtrerar bort alla som inte är kvalificerade. Om en person kvalificerar sig kommer den resulterande körda kampanjaktivitetsposten att visa dem som&quot;Kvalificerade: TRUE&quot; (och FALSE om de inte gör det)
+* Smart List filtrerar bort alla som inte är kvalificerade. Om en person kvalificerar sig kommer den resulterande körda kampanjaktivitetsposten att visa dem som&quot;Kvalificerad: TRUE&quot; (och FALSE om de inte gör det)
 * Schemalägg kampanjkvalificeringsregler gäller (inställningarna för smart kampanj under fliken Schema)
 * Körbara kampanjer kan inte anropas mellan arbetsytor
 * Om du använder [Ta bort från flöde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) Flödesåtgärd som riktar sig till en körbar kampanj, som riktar sig till både det underordnade och det överordnade objektet
 * Utnyttja fördelarna med tokenarv - Om du till exempel har ett enda gemensamt poängflöde som aktiveras av flera olika resurser kan du definiera standardvärdet för Min token i den underordnade kampanjen och i den överordnade kampanjen så att du kan åsidosätta kampanjvärdet för det underordnade poängvärdet för dina överordnade kampanjer (se nedan som visuellt exempel)
-* Körbara kampanjer kan anropas på upp till tre nivåer djupa (t.ex. Överordnad kampanj > Underordnad > Underordnad > Underordnad)
+* Körbara kampanjer kan anropas på upp till tre nivåer djupa (t.ex. Parent campaign > Child > Child > Child)
 
 >[!CAUTION]
 >
@@ -97,13 +97,13 @@ Den överordnade kampanjen är Mina token.
 
 ![](assets/execute-campaign-6.png)
 
-Resultatet: värdet ändrat med +10.
+Resultat: bakgrundsmusik ändrad med +10.
 
 ![](assets/execute-campaign-7.png)
 
 **Exempel två: Falskt**
 
-I filtret Kör kampanj för den andra överordnade kampanjen är inställningen Använd överordnad kampanjtokenkontext inställd på **Falskt**.
+I steget Kör kampanjflöde i den andra överordnade kampanjen har kontexten Använd överordnad kampanjtoken satts till **Falskt**.
 
 ![](assets/execute-campaign-8.png)
 
@@ -111,6 +111,6 @@ Den överordnade kampanjen är Mina token.
 
 ![](assets/execute-campaign-9.png)
 
-Resultatet: bakgrundsmusiken ändras inte eftersom den underordnade kampanjens poängvärde, +0, användes.
+Resultatet: poängen ändras inte eftersom den underordnade kampanjens poängvärde, +0, användes.
 
 ![](assets/execute-campaign-10.png)

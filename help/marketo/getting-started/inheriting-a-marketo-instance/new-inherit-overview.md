@@ -3,9 +3,9 @@ description: Lär dig hur du optimerar och skalförändrar en befintlig Marketo 
 title: HoppaStarta en ärvd Marketo Engage-instans
 hide: true
 hidefromtoc: true
-source-git-commit: b449dd568bd382dc9abd1c4f023e09962ac52081
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -55,5 +55,3 @@ Behöver du mer hjälp? Kontakta oss eller andra Marketo Engage-användare via l
 * Kommunicera med och lär av andra Marketo Engage-användare i **[Marknadsföringsnation](https://nation.marketo.com/){target="_blank"}**.
 
 * Om du behöver hjälp med att få ut det mesta av din instans av Marketo Engage kan du kontakta **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html)**.
-
-* Om du vill förbättra dina kunskaper på Marketo Engage går du till **[Marketo Engage Course Catalog](https://learning.adobe.com/catalog.html?products=Marketo%20Engage){target="_blank"}**.

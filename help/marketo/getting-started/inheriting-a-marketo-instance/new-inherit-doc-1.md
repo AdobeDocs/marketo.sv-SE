@@ -3,20 +3,18 @@ description: Inherit Doc 1 - Marketo Docs - produktdokumentation
 title: Ärv dok 1
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '1223'
+source-wordcount: '1229'
 ht-degree: 0%
 
 ---
 
 # Ärv dok 1 {#inherit-doc-1}
 
-Granskning av en ärvd instans kan se ut som en..
+Som ny Adobe Marketo Engage-administratör finns det flera uppgifter du bör utföra för att kontrollera den ärvda instansens hälsa och livskraft.
 
-Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? I så fall är den här artikeln till dig ...
-
-Checklistan nedan har lagts ihop med indata från Marketo Champions så att du snabbt kommer igång i den ärvda instansen..
+Checklistorna nedan (efterföljande checklistor länkade till längst ned i varje artikel) har sammanställts med indata från Marketo Champions för att du snabbt ska komma igång. Dokumentera förloppet i checklistan för ärvda instanser i Marketo Engage.
 
 >[!TIP]
 >
@@ -112,7 +110,7 @@ Checklistan nedan har lagts ihop med indata från Marketo Champions så att du s
   <tr> 
    <td>Inställningar för smart kampanj</td> 
    <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">Har du en begränsning?</a> på Smart Campaign-storleken? 
-   <br/>Om inte, överväg att lägga till en. Vi rekommenderar att du begränsar gränserna för smarta kampanjer till 25 % av databasen för att undvika överkommunikation eller att hela databasen behandlas i arbetsflöden. Detta skyddar inte bara varumärket, utan hjälper till att skydda instansens prestanda. KG - ÄR DET HÄR KORREKT?</li></td>
+   <br/>Om inte, överväg att lägga till en. Vi rekommenderar att du begränsar Smart Campaign-gränsen till 25 % av databasen för att undvika överkommunikation eller att hela databasen behandlas i arbetsflöden. Detta skyddar inte bara varumärket, utan hjälper till att skydda instansens prestanda.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -128,7 +126,7 @@ Checklistan nedan har lagts ihop med indata från Marketo Champions så att du s
   <tr> 
    <td>Kommunikationsbegränsningar</td> 
    <td><li>Finns det <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">kommunikationsgränser</a> på plats? Har ert företag policyer där kommunikationsbegränsningar kan behövas?</li>
-<p>Obs! Adobe rekommenderar att du begränsar din kommunikation till 1 per dag och 3 per 7 dagar med <b>ej</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operativ</a> e-post blockerad. KG - ÄR DET HÄR KORREKT?</td>
+<p>Obs! Adobe rekommenderar att du begränsar din kommunikation till 1 per dag och 3 per 7 dagar med <b>ej</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operativ</a> e-post blockerad.</td>
   </tr>
  </tbody> 
 </table>
@@ -209,7 +207,7 @@ Checklistan nedan har lagts ihop med indata från Marketo Champions så att du s
   <tr> 
    <td>CRM</td> 
    <td><li>Vilken CRM synkroniserar du med? Salesforce? MS Dynamics? Veeva?</li>
-<li>Är den anpassade synkroniseringen eller dubbelriktad? (KG: KORRIGERA GRAMMAR OCH KONTROLLERA VIKTIGHET)</li>
+<li>Använder du en anpassad synkronisering?</li>
 <li>[Endast Salesforce] Har din instans anpassade synkroniseringsfilter implementerats? 
 <p>Obs! Kontakta Marketo Support om du vill identifiera anpassade synkroniseringsfilter eller begära att en anpassad synkroniseringsregel implementeras.</li></td>
   </tr>
@@ -313,3 +311,7 @@ Checklistan nedan har lagts ihop med indata från Marketo Champions så att du s
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[Granska en ärvd instans: Database ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)

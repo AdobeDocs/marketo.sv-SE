@@ -3,20 +3,16 @@ description: Inherit Doc 2 - Marketo Docs - produktdokumentation
 title: Ärv dok 2
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---
 
 # Ärv dok 2 {#inherit-doc-2}
 
-Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? I så fall är den här artikeln till dig.
-
->[!TIP]
->
->Om du är nybörjare i Marketo Engage och inte känner till många av villkoren kan du läsa [Marketo-ordlista](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+Förstå det totala antalet personer, säljbara personer och de främsta leverantörerna i prenumerationen.
 
 ## Systemets smarta listor {#system-smart-lists}
 
@@ -116,3 +112,9 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[◄ Granska en ärvd instans: Admin](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
+
+[Granska en ärvd instans: marknadsföringsaktiviteter ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)

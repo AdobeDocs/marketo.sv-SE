@@ -3,16 +3,16 @@ description: Inherit Doc 5 - Marketo Docs - produktdokumentation
 title: Ärv Doc 5
 hide: true
 hidefromtoc: true
-source-git-commit: dcfbd50df5ef642c3c94b96be938a43f30e8288b
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
 
 # Ärv Doc 5 {#inherit-doc-5}
 
-Text
+Nu när du har lärt dig de viktigaste produktområdena att granska när du ärver en etablerad instans är nästa steg att skapa/uppdatera dokumentation om din instanskonfiguration och teknologi. Oavsett om du skapar det via kalkylblad eller ett projekthanteringsprogram är dokumentationen en bra resurs för att spåra förloppet och registrera information.
 
 ## Data {#data}
 
@@ -51,7 +51,7 @@ Text
   <tr> 
    <td>Organisation</td> 
     <td><li>Har du robust dokumentation för hur din Marketo Engage-instans är organiserad och varför?</li>
-   <p>Åtgärd: Skapa dokumentation som innehåller mappstruktur, namnkonvention och kanaler/statyer KG - STATUTES? används i din instans.</td>
+   <p>Åtgärd: Skapa dokumentation som innehåller mappstruktur, namnkonvention och kanaler som används i din instans.</td>
   </tr>
   <tr> 
    <td>Changelog</td> 
@@ -69,3 +69,5 @@ Text
   </tr>
  </tbody> 
 </table>
+
+[◄ Granska en ärvd instans: Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)

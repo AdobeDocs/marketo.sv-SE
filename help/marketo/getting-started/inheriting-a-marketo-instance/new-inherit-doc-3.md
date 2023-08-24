@@ -3,20 +3,16 @@ description: Inherit Doc 3 - Marketo Docs - produktdokumentation
 title: Ärv dokument 3
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '843'
+source-wordcount: '801'
 ht-degree: 0%
 
 ---
 
 # Ärv dokument 3 {#inherit-doc-3}
 
-Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? I så fall är den här artikeln till dig.
-
->[!TIP]
->
->Om du är nybörjare i Marketo Engage och inte känner till många av villkoren kan du läsa [Marketo-ordlista](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+Marknadsföringsaktiviteterna är den plats där marknadsföringsteamet kan skapa smarta kampanjer, bygga kreativa resurser (t.ex. e-post och landningssidor) och visa resursprestanda.
 
 ## Organisation {#organization}
 
@@ -45,9 +41,9 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
   </tr>
   <tr> 
    <td>Arkiv</td> 
-   <td><li>Är äldre program <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">arkiverad</a>? 
-   <br/>Det bästa är att granska varje år. KG - ÄR DETTA SANT?</li>
-<li>Hur ofta granskar och arkiverar ert företag gamla program?</li></td>
+   <td><li>Är äldre program <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">arkiverad</a>?</li>
+<li>Hur ofta granskar och arkiverar ert företag gamla program?</li>
+<p>Tips! Det är bra att göra en granskning varje år.</td>
   </tr>
   <tr> 
    <td>Meddelanden</td> 
@@ -83,8 +79,7 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
 <li>Hur många <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">folk är utmattade</a>? 
 <br/>Om det finns många utmattade personer bör du överväga att lägga till innehåll.</li>
 <li>Engagerar folk med innehållet? 
-<br/>Om inte, överväg att uppdatera den och/eller A/B-testning.</li>
-<li><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/see-members-of-an-engagement-program.md" target="_blank">Hur många människor</a> KG - FINNS DET ETT SÄTT ATT SE ALLA PROGRAM PÅ EN GÅNG? TROR DU INTE SÅ MEN SE TILL ATT ni har fler än ett engagemangsprogram? Ska de vara i flera?</li></td>
+<br/>Om inte, överväg att uppdatera den och/eller A/B-testning.</li></td>
   </tr>
   <tr> 
    <td>Gruppkampanjer</td> 
@@ -169,3 +164,9 @@ Har du ärvt en befintlig Marketo Engage-instans från en annan administratör? 
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[◄ Granska en ärvd instans: Databas](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
+
+[Granska en ärvd instans: Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
