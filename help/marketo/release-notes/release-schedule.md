@@ -1,29 +1,29 @@
 ---
 unique-page-id: 5472490
 description: Versionsschema – Marketo Docs – produktdokumentation
-title: Versionsschema
+title: Releaschema
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 69d3dad7837ae4b5a65889c10c0fcb23c46591c1
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 5%
 
 ---
 
-# Versionsschema {#release-schedule}
+# Releaschema {#release-schedule}
 
 **Frigör**: Månad/år för varje release. När versionsinformationen är tillgänglig länkas den i tabellen nedan.
 
-**Releasedatum**: Lanseringen börjar oftast på tisdagen i releaseminarien, och större delen av uppgraderingen sker på fredag kväll. Ett e-postmeddelande med specifika datum och versionsinformation skickas ut. Det listade datumet gäller uppdateringen på fredag.
+**Releasedatum**: Utrullningen börjar oftast på tisdagen i releaseveckan, då större delen av uppgraderingen sker på fredag kväll. Ett e-postmeddelande med specifika datum och versionsinformation skickas ut. Det listade datumet gäller uppdateringen på fredag.
 
 **Status**:
 
 * Schema - Vi planerar att släppa funktionerna och förbättringarna på angivet datum
 * Pågår - vi håller på att lansera funktionerna i den här versionen
-* Levererat - Versionen är klar
+* Skickat - Versionen är klar
 
-_Releasedatum kan komma att ändras_
+_Releasedatum kan ändras_
 
 <table> 
  <colgroup> 
@@ -60,7 +60,7 @@ _Releasedatum kan komma att ändras_
   <tr> 
    <td><a href="/help/marketo/release-notes/current.md">23 juli</a></td>
    <td>21 juli 2023</td>
-   <td>Vid schema</td>
+   <td>Pågår</td>
   </tr>
   <tr>
    <td>23 september</td>
@@ -69,7 +69,7 @@ _Releasedatum kan komma att ändras_
   </tr>
   <tr>
    <td>23 oktober</td>
-   <td>20 oktober 2023</td>
+   <td>13 oktober 2023</td>
    <td>Vid schema</td>
   </tr>
  </tbody>
