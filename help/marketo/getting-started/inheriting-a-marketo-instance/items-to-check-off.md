@@ -4,22 +4,22 @@ description: Objekt som ska checkas ut - Marketo Docs - produktdokumentation
 title: Objekt som ska checkas ut
 exl-id: fd20fbcf-3690-41da-94fa-b40f32a0b251
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 639409b6322aae0cb74943bc286e30ea36f19131
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
 # Objekt som ska checkas ut {#items-to-check-off}
 
-Se till att du har rätt inställningar för rätt typ av åtkomst och information. Utför dessa enkla steg så att du kan kontrollera några saker i din att göra-lista direkt!
+Se till att du har rätt inställningar för rätt typ av åtkomst och information.
 
 * Se en kort översikt över [**vad Marketo gör**](https://pages2.marketo.com/demoFull.html){target="_blank"}.
 
 * **Konfigurera din profil** i [**Marknadsföringsnation**](https://nation.marketo.com/){target="_blank"} community (användarnamn och lösenord krävs).
 
-* Lär dig hur du interagerar med [**Marknadsföringsnation**](https://nation.marketo.com/t5/About-Community/ct-p/about-community){target="_blank"} för att få svar på dina frågor.
+* Läs upp [**Riktlinjer för marknadsföringscommunityn**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
 * Klicka **[!UICONTROL Your Places]** på din Marketo Nation-communityprofil för att se ditt företags kontosida.
 
