@@ -3,9 +3,9 @@ description: Inherit Doc 3 - Marketo Docs - produktdokumentation
 title: Ärv dokument 3
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
 workflow-type: tm+mt
-source-wordcount: '801'
+source-wordcount: '788'
 ht-degree: 0%
 
 ---
@@ -96,7 +96,7 @@ Marknadsföringsaktiviteterna är den plats där marknadsföringsteamet kan skap
    <td>Lokal Forms</td> 
    <td><li>Hur många program har lokala <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">formulär</a>? Bör dessa formulär göras om till globala formulär?</li>
 <li>Hämtar de data som passar er marknadsföring och era säljteam?</li>
-<p>Tips: Begränsa antalet lokala formulär för att underlätta uppdatering och anpassning till ändringar av datasekretess och regler för anmälan/avanmälan. Vilka frågor behöver du ställa när du skapar ett formulär? Om den insamlade informationen inte ändras och de avancerade formulärfunktionerna inte ändras bör du överväga ett globalt formulär istället för ett lokalt formulär. KG - VERIFIERA DETTA</td>
+<p>Tips: Begränsa antalet lokala formulär för att underlätta uppdatering och anpassning till ändringar av datasekretess och regler för anmälan/avanmälan. Vilka frågor behöver ställas när du skapar ett formulär? Om den insamlade informationen inte ändras och de avancerade formulärfunktionerna inte ändras bör du överväga ett globalt formulär istället för ett lokalt formulär.</td>
   </tr>
   <tr> 
    <td>Global Forms</td> 
@@ -131,11 +131,11 @@ Marknadsföringsaktiviteterna är den plats där marknadsföringsteamet kan skap
   </tr>
   <tr> 
    <td>Datainsamling</td> 
-   <td><li>Har ni något centraliserat program för att standardisera inkommande data? KG - DUBBELLCHECKA DETTA</li></td>
+   <td><li>Har ni något centraliserat program för att standardisera inkommande data?</li></td>
   </tr>
   <tr> 
    <td>Studshantering</td> 
-   <td><li>Har ni något centraliserat program att hantera <a href="https://nation.marketo.com/t5/product-blogs/data-management-best-practices-resources-for-managing-bounces/ba-p/243512" target="_blank">personer som studsar</a>? KG - ÄR DENNA ARTIKEL FORTFARANDE RELEVANT 2017?</li></td>
+   <td><li>Har ni något centraliserat program att hantera <a href="https://nation.marketo.com/t5/product-blogs/data-management-best-practices-resources-for-managing-bounces/ba-p/243512" target="_blank">personer som studsar</a>?</li></td>
   </tr>
   <tr> 
    <td>Sekretess och efterlevnad</td> 
