@@ -4,9 +4,9 @@ description: Programplanvy - anmälningstyper - Marketo Docs - produktdokumentat
 title: Inmatningstyper för programschemavy
 exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Inmatningstyper för programschemavy {#program-schedule-view-entry-types}
 
 Det finns åtta olika inbyggda anmälningstyper som är synliga och tillgängliga att användas i programschemavyn. Du kan också [skapa anpassade posttyper](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) i avsnittet Admin.
+
+>[!NOTE]
+>
+>Återkommande smarta kampanjer är **not** stöds i schemavy.
 
 <table> 
  <thead> 

@@ -4,20 +4,24 @@ description: Navigera i marknadsföringskalendern - Marketo Docs - produktdokume
 title: Navigera i marknadsföringskalendern
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
 # Navigera i marknadsföringskalendern {#navigating-the-marketing-calendar}
 
-Det är enkelt att navigera runt i marknadsföringskalendern som en, två, tre!
+Det är enkelt att navigera i marknadsföringskalendern. Så här gör du.
 
 >[!PREREQUISITES]
 >
->Kontrollera att du har en [Licens för marknadsföringskalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} - annars visas inte Marketing Calendar-panelen i My Marketo.
+>Se till att du har en [Licens för marknadsföringskalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} - annars visas inte Marketing Calendar-panelen i My Marketo.
+
+>[!NOTE]
+>
+>Återkommande smarta kampanjer stöds inte i marknadsföringskalendern.
 
 1. Gå till **Marknadsföringskalender**.
 
