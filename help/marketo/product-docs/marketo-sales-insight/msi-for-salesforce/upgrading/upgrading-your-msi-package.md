@@ -4,14 +4,18 @@ description: Uppgraderar ditt MSI-paket - Marketo Docs - produktdokumentation
 title: Uppgraderar ditt MSI-paket
 exl-id: 45004990-8452-4824-a9b2-89cd8302fe43
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ddc9242bdf1b3ec34bb2672821b6b054647d94b5
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
 
 # Uppgraderar ditt MSI-paket {#upgrading-your-msi-package}
+
+>[!IMPORTANT]
+>
+>På grund av säkerhetsförbättringar som gjorts i Salesforce kan Sales Insight-paketet inte längre ge behörighet till standardobjekt. I framtiden måste Salesforce-profilen för Sales Insight-användare ha läsåtkomst till följande standardobjekt: lead, contact, account, and opportunity. [Lär dig hur du konfigurerar det här](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#grant-sales-insight-users-profile-access){target="_blank"}.
 
 1. Navigera till [den här sidan i appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO){target="_blank"}.
 
@@ -23,7 +27,7 @@ ht-degree: 0%
    >
    >Vi rekommenderar att du testar detta i din sandlådeinstans innan du uppgraderar din produktionsinstans.
 
-1. Du kan uppgradera paketet genom att välja Installera endast för administratörer (och ge MSI-åtkomst till specifika profiler senare), Installera för alla användare eller Installera för specifika profiler. I det här exemplet väljer vi Endast administratörer. Klicka på **Uppgradera**.
+1. Du kan uppgradera paketet genom att välja Installera endast för administratörer (och ge MSI-åtkomst till specifika profiler senare), Installera för alla användare eller Installera för specifika profiler. I detta exempel väljer vi Endast administratörer. När du har gjort ditt val klickar du på **Uppgradera**.
 
    ![](assets/four.png)
 
