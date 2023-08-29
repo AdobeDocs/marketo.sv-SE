@@ -4,9 +4,9 @@ description: Konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited
 title: Konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: 9d1b18b2aebde00ae715a072580a8f128d07923e
+source-git-commit: c85f544f2c06a2f5bb92d6e7cad5f801e73fdaed
 workflow-type: tm+mt
-source-wordcount: '847'
+source-wordcount: '937'
 ht-degree: 0%
 
 ---
@@ -80,6 +80,20 @@ Här är de steg du måste utföra för att konfigurera Marketo Sales Insight i 
    >[!NOTE]
    >
    >_Du_ välj **Namn på fjärrplats** (MarketoAPI används här). The **URL för fjärrwebbplats** finns i fältet Marketo Host i dialogrutan Edit API Configuration från steg 3 i avsnittet Configure Sales Insight in Marketo.
+
+## Bevilja åtkomst till Salesforce-standardobjekt i användarprofilen för Sales Insight {#grant-sales-insight-users-profile-access}
+
+På grund av säkerhetsförbättringarna i Salesforce kan App Exchange-paket inte längre ge behörighet till standardobjekt, och åtkomst måste beviljas till relevanta Salesforce-objekt från Salesforce-användarens profil.  Följ stegen nedan för att bevilja nödvändiga behörigheter.
+
+1. Klicka **Inställningar**.
+
+1. Sök efter profiler i Snabbsökning.
+
+1. Klicka **Redigera** bredvid den profil som dina Salesforce-användare använder.
+
+1. Aktivera läsåtkomst för följande objekt under avsnittet Standardobjektbehörighet: Lead, Kontakt, Konto och Möjlighet.
+
+1. Klicka **Spara**.
 
 ## Anpassa sidlayouter {#customize-page-layouts}
 
