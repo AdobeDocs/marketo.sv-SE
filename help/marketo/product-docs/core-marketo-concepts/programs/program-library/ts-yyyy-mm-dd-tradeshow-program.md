@@ -1,19 +1,19 @@
 ---
-description: EV-YYYY-MM-DD-Event Program - Marketo Docs - Produktdokumentation
-title: EV-YYYY-MM-DD-Event-programmet
+description: TS-YYYY-MM-DD-Tradeshow Program - Marketo Docs - Produktdokumentation
+title: TS-YYYY-MM-DD Tradeshow Program
 hide: true
 hidefromtoc: true
 feature: Programs
 source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
 workflow-type: tm+mt
-source-wordcount: '566'
-ht-degree: 1%
+source-wordcount: '428'
+ht-degree: 0%
 
 ---
 
-# EV-YYYY-MM-DD-Event-programmet {#ev-yyyy-mm-dd-event-program}
+# TS-YYYY-MM-DD Tradeshow Program {#ts-yyyy-mm-dd-tradeshow-program}
 
-Det här är ett exempel på ett eventprogram med en registreringssida, tre inbjudningsmejl och uppföljningsmejl som använder ett Marketo Engage Event Program. Passar för alla evenemang där du behöver registrera dig, inklusive reklamutskick, luncher, middagar eller presentationer vid mässor.
+Detta är ett exempel på ett program för bildspel med inbjudningar och uppföljningsmejl som använder ett Marketo Engage Event Program.
 
 Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} sida.
 
@@ -30,10 +30,11 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   <tr> 
    <td>Händelse</td> 
    <td>01-Inbjuden 
-<br/>02-Väntelistat
-<br/>03-Registrerad
-<br/>04-Ingen visning
-<br/>05-Attended-Success</td>
+   <br/>02-Väntelistat
+   <br/>03-Registrerad
+   <br/>04-Besökta monter
+   <br/>05-engagerad vid Show - lyckades
+   <br/>06-engagerade vid postshow - lyckades</td>
    <td>Inkluderande</td>
    <td>Händelse</td>
   </tr>
@@ -59,46 +60,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
    <td>E-postmall för snabbstart</td>
    <td>02a- E-post - inbjudan</td>
   </tr>
-  <tr> 
-   <td>E-post</td> 
-   <td>E-postmall för snabbstart</td>
-   <td>02b - E-post - påminnelse om inbjudan</td>
-  </tr>
-  <tr> 
-   <td>E-post</td> 
-   <td>E-postmall för snabbstart</td>
-   <td>02c- Email - Invitation Reminder Last Chance</td>
-  </tr>
-  <tr> 
-   <td>E-post</td> 
-   <td>E-postmall för snabbstart</td>
-   <td>03 - E-post - påminnelse att delta</td>
-  </tr>
-  <tr> 
-   <td>E-post</td> 
-   <td>E-postmall för snabbstart</td>
-   <td>04a - E-post - uppföljning - Bifogad</td>
-  </tr>
-  <tr> 
-   <td>E-post</td> 
-   <td>E-postmall för snabbstart</td>
-   <td>04b - E-post - Uppföljning - NoShow</td>
-  </tr>
-  <tr> 
-   <td>Landningssida</td> 
-   <td>Lathund för snabbstart</td>
-   <td>01a - LP - Registrering</td>
-  </tr>
-  <tr> 
-   <td>Landningssida</td> 
-   <td>Lathund för snabbstart</td>
-   <td>01b - LP - Tack</td>
-  </tr>
-  <tr> 
-   <td>Formulär</td> 
-   <td> </td>
-   <td>Registrering av FM-händelse</td>
-  </tr>
+  <tr>
   <tr> 
    <td>Lokal rapport</td> 
    <td> </td>
@@ -107,7 +69,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   <tr> 
    <td>Lokal rapport</td> 
    <td> </td>
-   <td>Prestanda för landningssida</td>
+   <td>Programprestanda</td>
   </tr>
   <tr> 
    <td>Smart Campaign</td> 
@@ -117,37 +79,22 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>01 - Processregistrering</td>
+   <td>01 - Skicka inbjudan</td>
   </tr>
    <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>02a - Skicka inbjudan</td>
+   <td>02 - Aktiverat vid Show (Success)</td>
   </tr>
    <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>02b - Skicka påminnelse om inbjudan</td>
+   <td>03 - Skicka uppföljningsmejl</td>
   </tr>
    <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>02c - Skicka inbjudan sista chansen</td>
-  </tr>
-   <tr> 
-   <td>Smart Campaign</td> 
-   <td> </td>
-   <td>03 - Skicka påminnelse till Bifoga</td>
-  </tr>
-   <tr> 
-   <td>Smart Campaign</td> 
-   <td> </td>
-   <td>04 - Deltas (programmet lyckades)</td>
-  </tr>
-   <tr> 
-   <td>Smart Campaign</td> 
-   <td> </td>
-   <td>05 - Skicka uppföljningsmejl</td>
+   <td>04 - Engagerad av uppföljningsmejl (lyckades)</td>
   </tr>
   <tr> 
    <td>Mapp</td> 
@@ -204,34 +151,18 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   </tr>
    <tr> 
    <td>RTF</td> 
-   <td><code>{{my.Content-Description}}</code></td>
-   <td>Dubbelklicka för mer information  
-<br/><code><--My Content Description Here--></code> 
-<br/>Redigera den här innehållsbeskrivningen på programnivå på fliken Mina token. 
-<br/>Du kommer att lära dig: 
-<li>Punkt 1</li>
-<li>Punkt 2</li>
-<li>Punkt 3</li></td>
-  </tr>
-  <tr> 
-   <td>Text</td> 
-   <td><code>{{my.Event-Location-Line1}}</code></td>
-   <td><code><--XYZ Hotel--></code></td>
+   <td><code>{{my.Event-Booth#}}</code></td>
+   <td><code><--My Booth Number--></code></td>
   </tr>
    <tr> 
    <td>Text</td> 
-   <td><code>{{my.Event-Location-Line2}}</code></td>
-   <td><code><--ABC Room--></code></td>
-  </tr>
-   <tr> 
-   <td>Text</td> 
-   <td><code>{{my.Event-Location-Line3}}</code></td>
-   <td><code><--1234 Anystreet--></code></td>
+   <td><code>{{my.Event-City}}</code></td>
+   <td><code><--My Event City Here--></code></td>
   </tr>
   <tr> 
    <td>Text</td> 
-   <td><code>{{my.Event-Location-Line4}}</code></td>
-   <td><code><--Anytown, ZZ 99999--></code></td>
+   <td><code>{{my.Event-Date}}</code></td>
+   <td><code><--My Event Date--></code></td>
   </tr>
   <tr> 
    <td>Text</td> 
@@ -246,52 +177,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   <tr> 
    <td>Text</td> 
    <td><code>{{my.Event-Type}}</code></td>
-   <td>Live Event</td>
-  </tr>
-  <tr> 
-   <td>Text</td> 
-   <td><code>{{my.PageURL-Download}}</code></td>
-   <td>my.DownloadURL?without=http://</td>
-  </tr>
-  <tr> 
-   <td>Text</td> 
-   <td><code>{{my.PageURL-Registration}}</code></td>
-   <td>my.RegistrationPageURL?without=http://</td>
-  </tr>
-  <tr> 
-   <td>Text</td> 
-   <td><code>{{my.PageURL-ThankYou}}</code></td>
-   <td>my.ThankYouPageURL?without=http://</td>
-  </tr>
-  <tr> 
-   <td>Text</td> 
-   <td><code>{{my.Speaker1-Name}}</code></td>
-   <td><code><--Speaker Name Here--></code></td>
-  </tr>
-  <tr> 
-   <td>Text</td> 
-   <td><code>{{my.Speaker1-Title}}</code></td>
-   <td><code><--Speaker Title Here--></code></td>
-  </tr>
-  <tr> 
-   <td>Text</td> 
-   <td><code>{{my.Speaker2-Name}}</code></td>
-   <td><code><--Speaker Name Here--></code></td>
-  </tr>
-  <tr> 
-   <td>Text</td> 
-   <td><code>{{my.Speaker2-Title}}</code></td>
-   <td><code><--Speaker Title Here--></code></td>
-  </tr>
-  <tr> 
-   <td>Text</td> 
-   <td><code>{{my.Speaker3-Name}}</code></td>
-   <td><code><--Speaker Name Here--></code></td>
-  </tr>
- <tr> 
-   <td>Text</td> 
-   <td><code>{{my.Speaker3-Title}}</code></td>
-   <td><code><--Speaker Title Here--></code></td>
+   <td>Varumärke</td>
   </tr>
  </tbody> 
 </table>
@@ -333,7 +219,7 @@ SKÄRMBILD AV KONFLIKTREGLER
 
 >[!TIP]
 >
->Glöm inte att aktivera kampanjen&quot;06-Attended (Program Success)&quot; för att spåra lyckade försök! Gör så här _före_ formuläret är live och e-postmeddelanden skickas.
+>Glöm inte att aktivera kampanjerna&quot;02-Engaged at Show (Program Success)&quot; och&quot;04-Engaged by Monitoring Email (Program Success)&quot; för att spåra framgångar! Gör så här _före_ dina e-postmeddelanden skickas.
 
 >[!IMPORTANT]
 >

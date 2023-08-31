@@ -1,19 +1,19 @@
 ---
-description: EM-YYY-MM-DD-Single Email Send - Marketo Docs - Product Documentation
-title: EM-YYY-MM-DD-Single Email Send
+description: NL-YYYY-MM-Newsletter - Marketo Docs - Produktdokumentation
+title: NL-ÅÅÅ-MM-Newsletter
 hide: true
 hidefromtoc: true
 feature: Programs
 source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '282'
 ht-degree: 1%
 
 ---
 
-# EM-YYY-MM-DD-Single Email Send {#em-yyyy-mm-dd-single-email-send}
+# NL-ÅÅÅ-MM-Newsletter {#nl-yyyy-mm-newsletter}
 
-I det här exemplet skickas ett enda e-postmeddelande med ett e-postprogram för Marketo Engage. E-postmeddelandet kan innehålla ett A/B-test eller inte.
+I det här exemplet skickas ett nyhetsbrev via e-post som använder ett Marketo Engage-e-postprogram. E-postmeddelandet kan innehålla ett A/B-test eller inte.
 
 Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} sida.
 
@@ -28,7 +28,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
    <th>Programtyp</th>
   </tr> 
   <tr> 
-   <td>E-post</td> 
+   <td>Nyhetsbrev</td> 
    <td>01-medlem 
 <br/>02-Engaged-Success</td>
    <td>Inkluderande</td>
@@ -49,7 +49,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   <tr> 
    <td>E-post</td> 
    <td>E-postmall för snabbstart</td>
-   <td>01-Email-Tack</td>
+   <td>01 - E-post</td>
   </tr>
   <tr> 
    <td>Lokal rapport</td> 
@@ -65,13 +65,13 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>01-engagerad (programmet lyckades)</td>
+   <td>01 - Aktiverat (programmet lyckades)</td>
   </tr>
   <tr> 
    <td>Mapp</td> 
    <td> </td>
    <td>Assets - Houses all creative assets 
-<br/>(undermappar för e-post- och landningssidor)  </td>
+<br/>(undermappar för e-post)  </td>
   </tr>
   <tr> 
    <td>Mapp</td> 

@@ -1,19 +1,19 @@
 ---
-description: EV-YYYY-MM-DD-Event Program - Marketo Docs - Produktdokumentation
-title: EV-YYYY-MM-DD-Event-programmet
+description: WBN-YYYY-MM-DD-Webinar Program - Marketo Docs - Produktdokumentation
+title: WBN-YYYY-MM-DD-Webinar Program
 hide: true
 hidefromtoc: true
 feature: Programs
 source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '591'
 ht-degree: 1%
 
 ---
 
-# EV-YYYY-MM-DD-Event-programmet {#ev-yyyy-mm-dd-event-program}
+# WBN-YYYY-MM-DD-Webinar Program {#wbn-yyyy-mm-dd-webinar-program}
 
-Det här är ett exempel på ett eventprogram med en registreringssida, tre inbjudningsmejl och uppföljningsmejl som använder ett Marketo Engage Event Program. Passar för alla evenemang där du behöver registrera dig, inklusive reklamutskick, luncher, middagar eller presentationer vid mässor.
+Det här är ett exempel på ett webbinarium med registreringshantering, tre inbjudningar via e-post, påminnelser till deltagande och uppföljningsmejl med ett Marketo Engage Event Program.
 
 Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} sida.
 
@@ -29,13 +29,15 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   </tr> 
   <tr> 
    <td>Händelse</td> 
-   <td>01-Inbjuden 
-<br/>02-Väntelistat
-<br/>03-Registrerad
-<br/>04-Ingen visning
-<br/>05-Attended-Success</td>
+   <td>01 - Inbjuden 
+   <br/>02 - Väntelistat
+   <br/>03 - Registrerad
+   <br/>04 - Ingen visning
+   <br/>05 - Attended - Success
+   <br/>06 - Anmäld på begäran - lyckades</td>
    <td>Inkluderande</td>
-   <td>Händelse</td>
+   <td>Händelse
+   <p>(Integrerat: Evenemang med webbinarium)</td>
   </tr>
  </tbody> 
 </table>
@@ -52,59 +54,65 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   <tr> 
    <td>E-post</td> 
    <td>E-postmall för snabbstart</td>
-   <td>01-Email-Tack</td>
+   <td>01 - E-post - inbjudan</td>
   </tr>
    <tr> 
    <td>E-post</td> 
    <td>E-postmall för snabbstart</td>
-   <td>02a- E-post - inbjudan</td>
+   <td>02 - E-post - påminnelse om inbjudan</td>
+  </tr>
+   <tr> 
+   <td>E-post</td> 
+   <td>E-postmall för snabbstart</td>
+   <td>03 - E-post - påminnelse om inbjudan - sista chansen</td>
   </tr>
   <tr> 
    <td>E-post</td> 
    <td>E-postmall för snabbstart</td>
-   <td>02b - E-post - påminnelse om inbjudan</td>
+   <td>04 - E-post - Registreringsbekräftelse</td>
   </tr>
   <tr> 
    <td>E-post</td> 
    <td>E-postmall för snabbstart</td>
-   <td>02c- Email - Invitation Reminder Last Chance</td>
+   <td>05 - E-post - påminnelse att delta</td>
   </tr>
   <tr> 
    <td>E-post</td> 
    <td>E-postmall för snabbstart</td>
-   <td>03 - E-post - påminnelse att delta</td>
+   <td>06 -E-post - uppföljning - bifogad</td>
   </tr>
   <tr> 
    <td>E-post</td> 
    <td>E-postmall för snabbstart</td>
-   <td>04a - E-post - uppföljning - Bifogad</td>
+   <td>07 - E-post - Uppföljning - Inget bildspel </td>
   </tr>
-  <tr> 
-   <td>E-post</td> 
-   <td>E-postmall för snabbstart</td>
-   <td>04b - E-post - Uppföljning - NoShow</td>
-  </tr>
-  <tr> 
-   <td>Landningssida</td> 
-   <td>Lathund för snabbstart</td>
-   <td>01a - LP - Registrering</td>
-  </tr>
-  <tr> 
-   <td>Landningssida</td> 
-   <td>Lathund för snabbstart</td>
-   <td>01b - LP - Tack</td>
-  </tr>
+  <tr>
   <tr> 
    <td>Formulär</td> 
    <td> </td>
    <td>Registrering av FM-händelse</td>
   </tr>
   <tr> 
+   <td>Landningssida</td> 
+   <td>Lathund för snabbstart</td>
+   <td>01 - LP - Registrering</td>
+  </tr>
+  <tr> 
+   <td>Landningssida</td> 
+   <td>Lathund för snabbstart</td>
+   <td>02 - LP - Tack</td>
+  </tr>
+  <tr> 
+   <td>Landningssida</td> 
+   <td>Lathund för snabbstart</td>
+   <td>03 - LP - On Demand</td>
+  </tr>
+  <tr> 
    <td>Lokal rapport</td> 
    <td> </td>
    <td>E-postprestanda</td>
   </tr>
-  <tr> 
+   <tr> 
    <td>Lokal rapport</td> 
    <td> </td>
    <td>Prestanda för landningssida</td>
@@ -117,7 +125,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>01 - Processregistrering</td>
+   <td>01 - Processregistreringar</td>
   </tr>
    <tr> 
    <td>Smart Campaign</td> 
@@ -132,28 +140,33 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
    <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>02c - Skicka inbjudan sista chansen</td>
+   <td>02c - Skicka påminnelse om inbjudan sista chansen</td>
   </tr>
-   <tr> 
+  <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
    <td>03 - Skicka påminnelse till Bifoga</td>
   </tr>
-   <tr> 
+  <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
    <td>04 - Deltas (programmet lyckades)</td>
   </tr>
-   <tr> 
+  <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
    <td>05 - Skicka uppföljningsmejl</td>
   </tr>
   <tr> 
+   <td>Smart Campaign</td> 
+   <td> </td>
+   <td>06 - On-Demand (programmet lyckades)</td>
+  </tr>
+  <tr> 
    <td>Mapp</td> 
    <td> </td>
    <td>Assets - Houses all creative assets 
-<br/>(undermappar för e-post- och landningssidor)</td>
+<br/>(undermappar för e-post, landningssidor och Forms)</td>
   </tr>
   <tr> 
    <td>Mapp</td> 
@@ -184,6 +197,11 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   </tr>
   <tr> 
    <td>Text</td> 
+   <td><code>{{my.DownloadURL-PresentationSlides}}</code></td>
+   <td>my.DownloadURL?without=http:// </td>
+  </tr>
+  <tr> 
+   <td>Text</td> 
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
@@ -204,34 +222,14 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   </tr>
    <tr> 
    <td>RTF</td> 
-   <td><code>{{my.Content-Description}}</code></td>
+   <td><code>{{my.Event-Description}}</code></td>
    <td>Dubbelklicka för mer information  
-<br/><code><--My Content Description Here--></code> 
-<br/>Redigera den här innehållsbeskrivningen på programnivå på fliken Mina token. 
+<br/><code><--My Event Description Here--></code> 
+<br/>Redigera den här händelsebeskrivningen på programnivå på fliken Mina token. 
 <br/>Du kommer att lära dig: 
 <li>Punkt 1</li>
 <li>Punkt 2</li>
 <li>Punkt 3</li></td>
-  </tr>
-  <tr> 
-   <td>Text</td> 
-   <td><code>{{my.Event-Location-Line1}}</code></td>
-   <td><code><--XYZ Hotel--></code></td>
-  </tr>
-   <tr> 
-   <td>Text</td> 
-   <td><code>{{my.Event-Location-Line2}}</code></td>
-   <td><code><--ABC Room--></code></td>
-  </tr>
-   <tr> 
-   <td>Text</td> 
-   <td><code>{{my.Event-Location-Line3}}</code></td>
-   <td><code><--1234 Anystreet--></code></td>
-  </tr>
-  <tr> 
-   <td>Text</td> 
-   <td><code>{{my.Event-Location-Line4}}</code></td>
-   <td><code><--Anytown, ZZ 99999--></code></td>
   </tr>
   <tr> 
    <td>Text</td> 
@@ -246,7 +244,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   <tr> 
    <td>Text</td> 
    <td><code>{{my.Event-Type}}</code></td>
-   <td>Live Event</td>
+   <td>Webbinarium</td>
   </tr>
   <tr> 
    <td>Text</td> 
@@ -258,7 +256,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
    <td><code>{{my.PageURL-Registration}}</code></td>
    <td>my.RegistrationPageURL?without=http://</td>
   </tr>
-  <tr> 
+   <tr> 
    <td>Text</td> 
    <td><code>{{my.PageURL-ThankYou}}</code></td>
    <td>my.ThankYouPageURL?without=http://</td>
@@ -320,6 +318,8 @@ SKÄRMBILD AV KONFLIKTREGLER
 
 ## Bästa praxis {#best-practices}
 
+* Om du använder en integrerad webbseminarieleverantör, glöm inte att ansluta Marketo Engage-programmet till ditt webbinarium i värdsystemet.
+
 * När du har importerat webbinariet flyttar du formuläret från en lokal resurs till en global resurs som finns i Design Studio.
    * Genom att minska antalet formulär och använda mer globalt material från Design Studio får du större skalbarhet i programdesignen och den administrativa styrningen. Det ger även flexibilitet i regelbundna uppdateringar av regelefterlevnad för fält, anmälningsspråk osv.
 
@@ -333,7 +333,7 @@ SKÄRMBILD AV KONFLIKTREGLER
 
 >[!TIP]
 >
->Glöm inte att aktivera kampanjen&quot;06-Attended (Program Success)&quot; för att spåra lyckade försök! Gör så här _före_ formuläret är live och e-postmeddelanden skickas.
+>Glöm inte att aktivera kampanjerna &quot;04-Attended (Program Success)&quot; och &quot;06-Attended On-Demand (Program Success)&quot; för att spåra framgångar! Gör så här _före_ dina e-postmeddelanden skickas.
 
 >[!IMPORTANT]
 >
