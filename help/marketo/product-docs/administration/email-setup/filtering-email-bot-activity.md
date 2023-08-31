@@ -3,10 +3,10 @@ description: Filtrering av e-postsatsaktivitet - Marketo Docs - produktdokumenta
 title: Filtrerar e-postsatsaktivitet
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 9019cb4b81fb3acd744e644d51059644af454e5e
 workflow-type: tm+mt
-source-wordcount: '449'
-ht-degree: 15%
+source-wordcount: '433'
+ht-degree: 12%
 
 ---
 
@@ -16,8 +16,8 @@ Ibland kan aktiviteten för e-postrobot felaktigt blåsa upp e-postöppningen oc
 
 Vi använder två olika metoder för att bekräfta båda aktiviteterna:
 
-* Matcha med [Interactive Advertising Bureau bot list](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: Aktiviteter som matchar något i listan IAB UA/IP (User Agent/IP address) markeras som bots.
-* Matcha med närhetsmönster: När fler än två aktiviteter inträffar samtidigt (på mindre än en sekund) identifieras de som bottar. Attribut som beaktas vid jämförelse är:
+* Matcha med [Interactive Advertising Bureau bot list](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: Aktiviteter som matchar något i IAB UA/IP-listan (User Agent/IP address) markeras som bots.
+* Matcha med närhetsmönster: När fler än två aktiviteter inträffar samtidigt (under en sekund) identifieras de som botar. Attribut som beaktas vid jämförelse är:
    * Lead-ID (ska vara samma)
    * E-postresurs (ska vara samma)
    * Klicka eller mejla
@@ -51,13 +51,13 @@ I e-postlänkens klickning och öppningsaktivitet via e-post fylls nya attribut 
 >
 >Om du väljer [!UICONTROL Filter Bot Activity]kan du se en nedgång i e-postmeddelanden som öppnas och klicka på falska aktiviteter som försvinner.
 
-**VALFRITT STEG**: Om du vill inaktivera den här funktionen avmarkerar du reglagen. Om du inaktiverar återställs inte data.
+**VALFRITT STEG**: Om du vill inaktivera den här funktionen avmarkerar du reglaget/reglagen. Om du inaktiverar återställs inte data.
 
 >[!TIP]
 >
 >Utnyttja informationen om robotaktivitet i smarta listor via boolesk aktivitet (ja/nej) och Bot Activity Pattern (Bot Activity Pattern) i filtren&quot;Click Link in Email&quot; och&quot;Open Email&quot; (Öppna e-post) och&quot;Click Link in Email&quot; och&quot;Open Email&quot; (Öppna e-post).
 
-## IP Blockeringslista {#ip-blocklist}
+## IP BLOCKERINGSLISTA {#ip-blocklist}
 
 Vi har sammanställt en lista med IP-adresser som ansvarar för att generera miljontals falska åtaganden, eftersom ett sådant engagemang som tas emot från någon av följande IP-adresser automatiskt filtreras bort och inte läggs till i din Marketo Engage-instans. Detta kan leda till att e-postöppningar, klick och andra relaterade aktiviteter minskar. Listan nedan kan uppdateras regelbundet.
 
@@ -112,22 +112,6 @@ Vi har sammanställt en lista med IP-adresser som ansvarar för att generera mil
 * 162.129.251.14
 * 162.129.251.42
 * 208.52.157.204
-* 209.222.82.126
-* 209.222.82.127
-* 209.222.82.128
-* 209.222.82.129
-* 209.222.82.138
-* 209.222.82.139
-* 209.222.82.140
-* 209.222.82.141
-* 209.222.82.228
-* 209.222.82.229
-* 209.222.82.230
-* 209.222.82.231
-* 209.222.82.232
-* 209.222.82.233
-* 209.222.82.234
-* 209.222.82.235
 
 >[!NOTE]
 >
