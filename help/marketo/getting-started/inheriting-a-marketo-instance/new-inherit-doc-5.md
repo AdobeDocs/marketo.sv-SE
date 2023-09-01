@@ -3,9 +3,9 @@ description: Inherit Doc 5 - Marketo Docs - produktdokumentation
 title: Ärv Doc 5
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 1b97a8a2a491c2091eb722a16ab10f901e77a912
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ Nu när du har lärt dig de viktigaste produktområdena att granska när du ärv
   <tr> 
    <td>Dataordlista</td> 
    <td><li>Finns det en separat dataordlista som förklarar vilka fält som är tillgängliga?
-   <br/>     Om inte kan du skapa en.</li></td>
+   <br/>     Om inte kan du skapa en i en mapp som är tillgänglig för ditt marknadsföringsteam.</li></td>
   </tr>
   <tr> 
    <td>Organisation</td> 

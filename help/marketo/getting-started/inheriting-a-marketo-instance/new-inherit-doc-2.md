@@ -3,9 +3,9 @@ description: Inherit Doc 2 - Marketo Docs - produktdokumentation
 title: Ärv dok 2
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 1b97a8a2a491c2091eb722a16ab10f901e77a912
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '365'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ Förstå det totala antalet personer, säljbara personer och de främsta leveran
   </tr>
   <tr> 
    <td>Avrundade e-postadresser</td> 
-   <td><li>Text</li></td>
+   <td><li>KG - VÄNTAR PÅ LEVERANS</li></td>
   </tr>
   <tr> 
    <td>Möjliga dubbletter</td> 
