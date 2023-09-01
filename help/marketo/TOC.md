@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: d7f3ccbbef3afb8e2f51a0a5515c5a5054c72696
 workflow-type: tm+mt
-source-wordcount: '9066'
+source-wordcount: '9064'
 ht-degree: 0%
 
 ---
@@ -408,24 +408,23 @@ ht-degree: 0%
             + [Använda periodkostnader i ett program](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
          + Programbibliotek {#program-library}
             + [Översikt över programimportbiblioteket](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
-            + [CT-YYY-MM-Content Non-Marketo Landing Page](product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-non-marketo-landing-page.md)
-            + [CT-YYY-MM-Content on Marketo Landing Page](product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-on-marketo-landing-page.md)
-            + [EM-YYY-MM-DD-Single Email Send](product-docs/core-marketo-concepts/programs/program-library/em-yyyy-mm-dd-single-email-send.md)
-            + [EV-YYYY-MM-DD-Event-programmet](product-docs/core-marketo-concepts/programs/program-library/ev-yyyy-mm-dd-event-program.md)
-            + [NL-ÅÅÅ-MM-Newsletter](product-docs/core-marketo-concepts/programs/program-library/nl-yyyy-mm-newsletter.md)
-            + [NUR-YYYY-MM-Advanced Nurture](product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-advanced-nurture.md)
-            + [NUR-YYY-MM-Simple Nurture](product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-simple-nurture.md)
-            + [OA-YYY-MM-Online Advertising Marketo Landing Page](product-docs/core-marketo-concepts/programs/program-library/oa-yyyy-mm-online-advertising-marketo-landing-page.md)
-            + [OP-Acquisition-API](product-docs/core-marketo-concepts/programs/program-library/op-acquisition-api.md)
-            + [OP-Data Management](product-docs/core-marketo-concepts/programs/program-library/op-data-management.md)
-            + [OP-Deliverability Management](product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management.md)
-            + [OP-Lead Management](product-docs/core-marketo-concepts/programs/program-library/op-lead-management.md)
-            + [OP-Preference Management](product-docs/core-marketo-concepts/programs/program-library/op-preference-management.md)
-            + [OP-Scoring-Beteende](product-docs/core-marketo-concepts/programs/program-library/op-scoring-behavior.md)
-            + [OP-Scoring-Demographic](product-docs/core-marketo-concepts/programs/program-library/op-scoring-demographic.md)
-            + [TS-YYYY-MM-DD Tradeshow Program](product-docs/core-marketo-concepts/programs/program-library/ts-yyyy-mm-dd-tradeshow-program.md)
-            + [WBN-YYYY-MM-DD-Webinar Program](product-docs/core-marketo-concepts/programs/program-library/wbn-yyyy-mm-dd-webinar-program.md)
-            + [WR-YYYY-MM-Web Request Program](product-docs/core-marketo-concepts/programs/program-library/wr-yyyy-mm-web-request-program.md)
+            + [EM-YYY-MM-DD-Single Email Send](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/em-yyyy-mm-dd-single-email-send.md)
+            + [NL-ÅÅÅ-MM-Newsletter](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nl-yyyy-mm-newsletter.md)
+            + [WBN-YYYY-MM-DD-Webinar Program](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wbn-yyyy-mm-dd-webinar-program.md)
+            + [EV-YYYY-MM-DD-Event-programmet](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ev-yyyy-mm-dd-event-program.md)
+            + [TS-YYYY-MM-DD Tradeshow Program](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ts-yyyy-mm-dd-tradeshow-program.md)
+            + [NUR-YYY-MM-Simple Nurture](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-simple-nurture.md)
+            + [NUR-YYYY-MM-Advanced Nurture](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-advanced-nurture.md)
+            + [CT-YYY-MM-Content on Marketo Landing Page](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-on-marketo-landing-page.md)
+            + [CT-YYY-MM-Content Non-Marketo Landing Page](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-non-marketo-landing-page.md)
+            + [WR-YYYY-MM-Web Request Program](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wr-yyyy-mm-web-request-program.md)
+            + [OA-YYY-MM-Online Advertising Marketo Landing Page](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/oa-yyyy-mm-online-advertising-marketo-landing-page.md)
+            + [OP-Data Management](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-data-management.md)
+            + [OP-Lead Management](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-lead-management.md)
+            + [OP-Scoring-Beteende](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-scoring-behavior.md)
+            + [OP-Scoring-Demographic](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-scoring-demographic.md)
+            + [OP-Acquisition-API](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-acquisition-api.md)
+            + [OP-Deliverability Management](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management.md)
          + Rapport om programprestanda {#program-performance-report}
             + [Skapa en rapport om programprestanda](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [Lägg till programstatuskolumner i en programrapport](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
