@@ -3,7 +3,7 @@ description: Inherit Doc 5 - Marketo Docs - produktdokumentation
 title: Ärv Doc 5
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Nu när du har lärt dig de viktigaste produktområdena att granska när du ärv
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Område</th> 
+   <th style="width:20%">Område</th> 
    <th>Granska fokus</th>
   </tr> 
   <tr> 
@@ -40,13 +40,13 @@ Nu när du har lärt dig de viktigaste produktområdena att granska när du ärv
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Område</th> 
+   <th style="width:20%">Område</th> 
    <th>Granska fokus</th>
   </tr> 
   <tr> 
    <td>Dataordlista</td> 
    <td><li>Finns det en separat dataordlista som förklarar vilka fält som är tillgängliga?
-   <br/>Om inte kan du skapa en.</li></td>
+   <br/>     Om inte kan du skapa en.</li></td>
   </tr>
   <tr> 
    <td>Organisation</td> 
@@ -60,7 +60,7 @@ Nu när du har lärt dig de viktigaste produktområdena att granska när du ärv
   <tr> 
    <td>Playbooks</td> 
     <td><li>Har din organisation en användar- eller administratörsspelbok? 
-    <br/>I så fall bör du uppdatera dem därefter.</li></td>
+    <br/>     I så fall bör du uppdatera dem därefter.</li></td>
   </tr>
   <tr> 
    <td>Konversationer med interna intressenter</td> 

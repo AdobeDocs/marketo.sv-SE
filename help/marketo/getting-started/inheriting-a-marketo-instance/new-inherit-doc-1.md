@@ -3,7 +3,7 @@ description: Inherit Doc 1 - Marketo Docs - produktdokumentation
 title: Ärv dok 1
 hide: true
 hidefromtoc: true
-source-git-commit: 8d9ea20f04ec6320b31c2d6000240b72a45be959
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
 source-wordcount: '1428'
 ht-degree: 0%
@@ -18,20 +18,19 @@ Checklistorna nedan (efterföljande checklistor länkade till längst ned i varj
 >
 >Om du är nybörjare i Marketo Engage och inte känner till många av villkoren kan du läsa [Marketo-ordlista](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
 
-## Adobe Admin Console {#adobe-admin-console}
+## Adobe Identity Management {#adobe-identity-management}
 
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Område</th> 
+   <th style="width:20%">Område</th> 
    <th>Granska fokus</th>
   </tr> 
   <tr> 
    <td>Prenumeration</td> 
    <td><li>Är din prenumeration på Marketo Engage på <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe Identity Management System</a> (Adobe IMS) ännu? 
-<br/>
-Om så är fallet, har du fått rollen "Adobe Admin Console Product Admin" av din "Adobe Admin Console System Admin"? Om du är osäker på vem i organisationen som har administratörsbehörighet i konsolen kontaktar du <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe kundtjänst</a>.  
-<br/>Annars fortsätter du med <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">äldre användarroller och behörigheter</a> i Marketo Engage &gt; Admin &gt; Användare och roller tills din prenumeration förnyas.</li></td>
+<br/>     Om så är fallet, har du fått rollen "Adobe Admin Console Product Admin" av din "Adobe Admin Console System Admin"? Om du är osäker på vem i organisationen som har administratörsbehörighet i konsolen kontaktar du <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe kundtjänst</a>.  
+<br/>     Annars fortsätter du med <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">äldre användarroller och behörigheter</a> i Marketo Engage &gt; Admin &gt; Användare och roller tills din prenumeration förnyas.</li></td>
   </tr>
   <tr> 
    <td>Produktprofil</td> 
@@ -39,13 +38,13 @@ Om så är fallet, har du fått rollen "Adobe Admin Console Product Admin" av di
 <p>
 <li>Har du tilldelats rollen 'produktadministratör för Marketo Engage' i Marketo Engage/Admin/Users &amp; Roles?</li> 
 <li>Har du tilldelat Marketo Engage till alla lämpliga användares produktprofiler i Adobe Admin Console?
-<br/>Om inte, måste du tilldela Marketo Engage till deras Adobe IMS-produktprofil innan du tilldelar deras roller i Marketo Engage/Admin/Users &amp; Roles.</li>
+<br/>     Om inte, måste du tilldela Marketo Engage till deras Adobe IMS-produktprofil innan du tilldelar deras roller i Marketo Engage/Admin/Users &amp; Roles.</li>
 <p>Obs! Om din prenumeration har fler än 75 användare och nyligen har migrerats till Adobe IMS kan du välja att migrera flera användare och administrera deras Adobe-ID i grupper eller alla samtidigt. Läs mer om vad du kan förvänta dig av <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Migreringsdag för Adobe IMS</a>.</td>
   </tr>
   <tr> 
    <td>API för användarhantering</td> 
    <td><li>Har din prenumeration använt några Marketo API:er för användarhantering?
-<br/>I så fall måste du använda <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">Adobe IMS API:er</a> om du vill bjuda in, uppdatera och ta bort användare framåt.</li></td>
+<br/>     I så fall måste du använda <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">Adobe IMS API:er</a> om du vill bjuda in, uppdatera och ta bort användare framåt.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -55,7 +54,7 @@ Om så är fallet, har du fått rollen "Adobe Admin Console Product Admin" av di
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Område</th>
+   <th style="width:20%">Område</th>
    <th>Granska fokus</th>
   </tr> 
   <tr> 
@@ -65,7 +64,7 @@ Om så är fallet, har du fått rollen "Adobe Admin Console Product Admin" av di
 <li>Har ditt företag policyer för att ta bort användare?</li> 
 <li>Hur många användare har <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">Administratörsbehörigheter</a>?</li>
 <li>Bör någon av dessa användare ändras till <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">andra roller?</a></li> 
-<li>Vilka är API-användarna i den här instansen?</li></td>
+<li>Vilka är <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md" target="_blank">API-användare</a> i det här fallet?</li></td>
   </tr>
   <tr> 
    <td>Roller</td> 
@@ -88,7 +87,7 @@ Om så är fallet, har du fått rollen "Adobe Admin Console Product Admin" av di
   <tr> 
    <td>Sandlåda (om tillämpligt)</td> 
    <td><li>Har du en <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">sandbox-instans</a>?
-   <br/>  I så fall kan du granska kategorierna ovan för din sandlåda.</li>
+   <br/>     I så fall kan du granska kategorierna ovan för din sandlåda.</li>
 <li>Är <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">Programimport</a> länkad till din sandlåda?</li></td>
   </tr>
  </tbody> 
@@ -99,7 +98,7 @@ Om så är fallet, har du fått rollen "Adobe Admin Console Product Admin" av di
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Område</th>
+   <th style="width:20%">Område</th>
    <th>Granska fokus</th>
   </tr> 
   <tr> 
@@ -114,7 +113,7 @@ Om så är fallet, har du fått rollen "Adobe Admin Console Product Admin" av di
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Område</th>
+   <th style="width:20%">Område</th>
    <th>Granska fokus</th>
   </tr> 
   <tr> 
@@ -138,13 +137,13 @@ Om så är fallet, har du fått rollen "Adobe Admin Console Product Admin" av di
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Område</th>
+   <th style="width:20%">Område</th>
    <th>Granska fokus</th>
   </tr> 
   <tr> 
    <td>Inställningar för smart kampanj</td> 
    <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">Har du en begränsning?</a> på Smart Campaign-storleken? 
-   <br/>Om inte, överväg att lägga till en. Vi rekommenderar att du begränsar Smart Campaign-gränsen till 25 % av databasen för att undvika överkommunikation eller att hela databasen behandlas i arbetsflöden. Detta skyddar inte bara varumärket, utan hjälper till att skydda instansens prestanda.</li></td>
+   <br/>     Om inte, överväg att lägga till en. Vi rekommenderar att du begränsar Smart Campaign-gränsen till 25 % av databasen för att undvika överkommunikation eller att hela databasen behandlas i arbetsflöden. Detta skyddar inte bara varumärket, utan hjälper till att skydda instansens prestanda.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -154,7 +153,7 @@ Om så är fallet, har du fått rollen "Adobe Admin Console Product Admin" av di
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Område</th>
+   <th style="width:20%">Område</th>
    <th>Granska fokus</th>
   </tr> 
   <tr> 
@@ -170,12 +169,12 @@ Om så är fallet, har du fått rollen "Adobe Admin Console Product Admin" av di
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Område</th>
+   <th style="width:20%">Område</th>
    <th>Granska fokus</th>
   </tr> 
   <tr> 
    <td>Taggar</td> 
-   <td><li><a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" target="_blank">Hur många taggar</a> Är det där? Hur många taggar används? Behöver du lägga till något?</li>
+   <td><li><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md" target="_blank">Hur många taggar</a> Är det där? Hur många taggar används? Behöver du lägga till något?</li>
 <li>Krävs det taggar i programmen?</li></td>
   </tr>
   <tr> 
@@ -199,28 +198,28 @@ Om så är fallet, har du fått rollen "Adobe Admin Console Product Admin" av di
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Område</th>
+   <th style="width:20%">Område</th>
    <th>Granska fokus</th>
   </tr> 
   <tr> 
    <td>Fälthantering</td> 
    <td><li>Hur många fält finns det? 
-   <br/>Klicka <a href="/help/marketo/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md" target="_blank">Exportera fältnamn</a> om du vill granska en lista med fält, anpassade fält och deras API-namn.</li>
+   <br/>     Klicka <a href="/help/marketo/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md" target="_blank">Exportera fältnamn</a> om du vill granska en lista med fält, anpassade fält och deras API-namn.</li>
 <li>Hur många <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">anpassade fält</a> Är det där?</li>
 <li>Hur många fält används? 
-<br/>Välj <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">Exportera som används av</a> i listrutan Fältåtgärder för att granska relaterade resurser i ett fält.</li>
+<br/>     Välj <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">Exportera som används av</a> i listrutan Fältåtgärder för att granska relaterade resurser i ett fält.</li>
 <li>Hur många fält synkroniseras mellan Marketo Engage och CRM?</li>
 <li>Synkroniseras CRM-fält med rätt objekt?</li>
 <li>Finns det en <a href="/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md" target="_blank">anpassad vyuppsättning</a> för persondetaljer? Borde det vara?</li>
 <li>Har du en namngivningsregel för dina fält baserat på källa? 
-<br/>Om inte, överväg att genomföra detta.</li>
+<br/>     Om inte, överväg att genomföra detta.</li>
 <li>Finns det några fält <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">blockerad</a>? 
-<br/>I så fall, se till att förstå varför de är det.</li></td>
+<br/>     I så fall, se till att förstå varför de är det.</li></td>
   </tr>
   <tr> 
    <td>Anpassade aktiviteter</td> 
    <td><li>Finns det några <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">anpassade aktiviteter</a>?
-<br/>Klicka i så fall igenom dem för att förstå vilka aktiviteter som inte är relaterade till ett Marketo-formulär, e-postmeddelande eller en landningssida.</li></td>
+<br/>     Klicka i så fall igenom dem för att förstå vilka aktiviteter som inte är relaterade till ett Marketo-formulär, e-postmeddelande eller en landningssida.</li></td>
   </tr>
   <tr> 
    <td>Anpassade objekt</td> 
@@ -235,7 +234,7 @@ Om så är fallet, har du fått rollen "Adobe Admin Console Product Admin" av di
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Område</th>
+   <th style="width:20%">Område</th>
    <th>Granska fokus</th>
   </tr> 
   <tr> 
@@ -255,7 +254,7 @@ Om så är fallet, har du fått rollen "Adobe Admin Console Product Admin" av di
 <li>Finns det regler för <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md" target="_blank">omdirigeringar</a>?</li>
 <li>Har du befintliga domänalias? Följer du hur du använder domänalias?</li>
 <li>Är <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">Skyddade domäner för landningssidor</a> aktiverad? 
-<br/>Bekräfta om dina resurser på landningssidan innehåller en http-URL.</li></td>
+<br/>     Bekräfta om dina resurser på landningssidan innehåller en http-URL.</li></td>
   </tr>
   <tr> 
    <td>Munchkin</td> 
@@ -269,13 +268,13 @@ Om så är fallet, har du fått rollen "Adobe Admin Console Product Admin" av di
    <td><li>är <a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">IP-begränsningar</a> aktiverad? Borde de vara det?</li>
 <li>Vilka användare/appar gör API-anrop i din instans?</li>
 <li>Stöter du eller är du nära att stöta på API-gränsen? 
-<br/>Om så är fallet bör du överväga att öka den eller granska instansen för att få ned API-anropen.</li></td>
+<br/>     Om så är fallet bör du överväga att öka den eller granska instansen för att få ned API-anropen.</li></td>
   </tr>
   <tr> 
    <td>Marketo Sales Insight (om tillämpligt)</td> 
    <td><li>Har <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">MSI-paketet har installerats</a>?</li>
 <li>Har du <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">uppgraderat till den senaste versionen av Sales Insight</a>?</li>
-<li>Har du slutfört konfigurationen av Sales Insight? <br/>Företag/obegränsade användare <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">klicka här</a>, Professional-användare <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">klicka här</a>.</li>
+<li>Har du slutfört konfigurationen av Sales Insight? <br/>     Företag/obegränsade användare <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">klicka här</a>, Professional-användare <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">klicka här</a>.</li>
 <li>Har du <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">ger åtkomst till dina användare</a> baserat på hur många licenser du har köpt?</li>
 <li>är <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md" target="_blank">Stjärnor och flamman</a> skräddarsydd?</li></td>
   </tr>
@@ -303,7 +302,7 @@ Om så är fallet, har du fått rollen "Adobe Admin Console Product Admin" av di
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Område</th>
+   <th style="width:20%">Område</th>
    <th>Granska fokus</th>
   </tr> 
   <tr> 
@@ -324,7 +323,7 @@ Om så är fallet, har du fått rollen "Adobe Admin Console Product Admin" av di
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Område</th>
+   <th style="width:20%">Område</th>
    <th>Granska fokus</th>
   </tr> 
   <tr> 

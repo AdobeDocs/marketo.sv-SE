@@ -3,23 +3,23 @@ description: Inherit Doc 3 - Marketo Docs - produktdokumentation
 title: Ärv dokument 3
 hide: true
 hidefromtoc: true
-source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
 
 # Ärv dokument 3 {#inherit-doc-3}
 
-Marknadsföringsaktiviteterna är den plats där marknadsföringsteamet kan skapa smarta kampanjer, bygga kreativa resurser (t.ex. e-post och landningssidor) och visa resursprestanda.
+Ordna avsnittet marknadsföringsaktiviteter på rätt sätt så att andra kan hitta och hantera olika program i din Marketo Engage-instans och se till att människor bearbetas för att gå från marknadsföring till försäljning.
 
 ## Organisation {#organization}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Område</th> 
+   <th style="width:20%">Område</th> 
    <th>Granska fokus</th>
   </tr> 
   <tr> 
@@ -33,7 +33,7 @@ Marknadsföringsaktiviteterna är den plats där marknadsföringsteamet kan skap
   <tr> 
    <td>Program</td> 
    <td><li>KG - ÄR DETTA FORTFARANDE RELEVANT FINNS det <a href="https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself" target="_blank">Center of Excellence</a> med programmallar? 
-   <br/>Om så är fallet, är programmallarna bra för teamets användningsfall?</li>
+   <br/>     Om så är fallet, är programmallarna bra för teamets användningsfall?</li>
 <li>Är liknande programtyper <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">konsekvent strukturerad</a>?</li>
 <li>är <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">periodkostnader</a> på plats?</li>
 <li>Är alla program <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">synkroniserat med SFDC-kampanjer</a> (om tillämpligt)?</li>
@@ -64,22 +64,22 @@ Marknadsföringsaktiviteterna är den plats där marknadsföringsteamet kan skap
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Område</th> 
+   <th style="width:20%">Område</th> 
    <th>Granska fokus</th>
   </tr> 
   <tr> 
    <td>Tokens</td> 
-   <td><li>Används variabler i de vanligaste programtyperna? 
-   <br/>Annars bör du överväga att använda dem för att öka effektiviteten.</li>
+   <td><li>är <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" target="_blank">variabler</a> används i de vanligaste programtyperna? 
+   <br/>     Annars bör du överväga att använda dem för att öka effektiviteten.</li>
 <li>Om variabler implementeras, finns det globala mapptoken? Hur används de?</li></td>
   </tr>
   <tr> 
    <td>Engagement Programs</td> 
    <td><li>Finns det live? <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" target="_blank">Engagement Programs</a> springer?</li>
 <li>Hur många <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">folk är utmattade</a>? 
-<br/>Om det finns många utmattade personer bör du överväga att lägga till innehåll.</li>
-<li>Engagerar folk med innehållet? 
-<br/>Om inte, överväg att uppdatera den och/eller A/B-testning.</li></td>
+<br/>     Om det finns många utmattade människor bör du överväga <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" target="_blank">lägga till innehåll</a>.</li>
+<li>Är människor <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md" target="_blank">engagerande med innehållet</a>? 
+<br/>     Om inte, överväg att uppdatera den och/eller A/B-testning.</li></td>
   </tr>
   <tr> 
    <td>Gruppkampanjer</td> 
@@ -116,7 +116,7 @@ Marknadsföringsaktiviteterna är den plats där marknadsföringsteamet kan skap
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Område</th> 
+   <th style="width:20%">Område</th> 
    <th>Granska fokus</th>
   </tr> 
   <tr> 
@@ -140,7 +140,7 @@ Marknadsföringsaktiviteterna är den plats där marknadsföringsteamet kan skap
   <tr> 
    <td>Sekretess och efterlevnad</td> 
    <td><li>Har ni program för att säkerställa att ni följer datasekretess och skräppostlagar? 
-   <br/>Överväg <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>, CASL, CAN-SPAM, CCPA osv.</li>
+   <br/>     Överväg <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>, CASL, CAN-SPAM, CCPA osv.</li>
 <p>Tips! Kom ihåg att alltid rådfråga ditt juridiska team om dessa frågor. Fråga teamet om tidigare initiativ för att upprätthålla regelefterlevnaden innan du gör några ändringar.</td>
   </tr>
   <tr> 

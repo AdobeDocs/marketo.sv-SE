@@ -3,9 +3,9 @@ description: Inherit Doc 4 - Marketo Docs - produktdokumentation
 title: Ärv dokument 4
 hide: true
 hidefromtoc: true
-source-git-commit: d7334acc31456b640a128c699d07a6b4af330469
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '513'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Genom att strukturera mallar och skapa globala formulär, kodfragment och bilder
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Område</th> 
+   <th style="width:20%">Område</th> 
    <th>Granska fokus</th>
   </tr> 
   <tr> 
@@ -46,7 +46,7 @@ Genom att strukturera mallar och skapa globala formulär, kodfragment och bilder
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Område</th> 
+   <th style="width:20%">Område</th> 
    <th>Granska fokus</th>
   </tr> 
   <tr> 
@@ -65,7 +65,7 @@ Genom att strukturera mallar och skapa globala formulär, kodfragment och bilder
   <tr> 
    <td>Sekretess och efterlevnad</td> 
    <td><li>Anpassar er formulärstrategi er efter företagets datasekretess och krav på deltagande? 
-   <br/>Överväg <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Allmänna dataskyddsförordningen (GDPR)</a>, CASL (Canada's Anti-Spam Law), The Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 (CAN-SPAM), California Consumer Privacy Act (CCPA), etc., för att följa lagar och förordningar.</li>
+   <br/>     Överväg <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Allmänna dataskyddsförordningen (GDPR)</a>, Canada's Anti-Spam Law (CASL), The Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 (CAN-SPAM), California Consumer Privacy Act (CCPA), etc., för efterlevnad av regler.</li>
 <p>Tips! Kom ihåg att alltid rådfråga ditt juridiska team om dessa frågor. Fråga teamet om tidigare initiativ för att upprätthålla regelefterlevnaden innan du gör några ändringar.</td>
   </tr>
  </tbody> 
@@ -76,7 +76,7 @@ Genom att strukturera mallar och skapa globala formulär, kodfragment och bilder
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Område</th> 
+   <th style="width:20%">Område</th> 
    <th>Granska fokus</th>
   </tr> 
   <tr> 
@@ -104,13 +104,13 @@ Genom att strukturera mallar och skapa globala formulär, kodfragment och bilder
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Område</th> 
+   <th style="width:20%">Område</th> 
    <th>Granska fokus</th>
   </tr> 
   <tr> 
    <td>Fragment</td> 
    <td><li>Hur många <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">fragment</a> Är det där? Används de? 
-   <br/>Om inte, överväg att använda dem för <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">e-post</a> och <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">Landningssida</a> sidfotsinnehåll, logotyper med mera.</li></td>
+   <br/>     Om inte, överväg att använda dem för <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">e-post</a> och <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">Landningssida</a> sidfotsinnehåll, logotyper med mera.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -120,7 +120,7 @@ Genom att strukturera mallar och skapa globala formulär, kodfragment och bilder
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Område</th> 
+   <th style="width:20%">Område</th> 
    <th>Granska fokus</th>
   </tr> 
   <tr> 
@@ -134,7 +134,7 @@ Genom att strukturera mallar och skapa globala formulär, kodfragment och bilder
   <tr> 
    <td>Bilder och filer</td> 
    <td><li>Gör några bilder eller filer <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">som refereras på webbsidor</a> behöver uppdateras? 
-   <p>Exempel: Den hårdkodade URL-strukturen kan behöva uppdateras, till exempel <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
+   <p>Exempel: Den hårdkodade URL-strukturen <a href="https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632#_Toc54870361" target="_blank">kan behöva uppdateras</a>, till exempel <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
    <p>Kontakta din webbutvecklare för att få reda på var du kan behöva göra uppdateringar.</li></td>
   </tr>
  </tbody> 
@@ -145,13 +145,13 @@ Genom att strukturera mallar och skapa globala formulär, kodfragment och bilder
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Område</th> 
+   <th style="width:20%">Område</th> 
    <th>Granska fokus</th>
   </tr> 
   <tr> 
    <td>Resursstatus</td> 
    <td><li>Hur många mediefiler finns i <i>Utkast</i> och <i>Godkänd med utkast</i> status?
-   <br/>Om det finns många kan du ta bort eller godkänna dem.</li></td>
+   <br/>     Om det finns många kan du ta bort eller godkänna dem.</li></td>
   </tr>
   <tr> 
    <td>Resursdelning</td> 
