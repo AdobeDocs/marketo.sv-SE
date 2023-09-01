@@ -3,14 +3,14 @@ description: Inherit Doc 2 - Marketo Docs - produktdokumentation
 title: Ärv dok 2
 hide: true
 hidefromtoc: true
-source-git-commit: 1b97a8a2a491c2091eb722a16ab10f901e77a912
+source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '366'
 ht-degree: 0%
 
 ---
 
-# Ärv dok 2 {#inherit-doc-2}
+# Granska checklista för databas {#inherit-doc-2}
 
 Förstå det totala antalet personer, säljbara personer och de främsta leverantörerna i prenumerationen.
 
