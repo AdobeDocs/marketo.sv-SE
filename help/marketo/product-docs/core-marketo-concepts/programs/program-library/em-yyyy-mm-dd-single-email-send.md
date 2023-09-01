@@ -4,7 +4,7 @@ title: EM-YYY-MM-DD-Single Email Send
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 1%
@@ -86,8 +86,6 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
  </tbody> 
 </table>
 
-SCREENSHOT OF PROGRAM
-
 ## Mina token inkluderade {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -114,6 +112,8 @@ SCREENSHOT OF PROGRAM
   </tr>
  </tbody> 
 </table>
+
+SCREENSHOT OF PROGRAM
 
 ## Konfliktregler {#conflict-rules}
 
