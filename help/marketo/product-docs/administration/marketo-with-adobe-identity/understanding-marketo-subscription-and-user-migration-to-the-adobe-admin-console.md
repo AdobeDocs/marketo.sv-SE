@@ -3,7 +3,7 @@ description: Understanding Marketo Subscription and User Migration to the Adobe 
 title: Förstå Marketo prenumeration och användarmigrering till Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: c3214b440a1bfc9d54551f50e364935d66286764
 workflow-type: tm+mt
 source-wordcount: '1121'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Marketo produktadministratörer kan:
 
 >[!NOTE]
 >
->På grund av migreringens komplexitet begränsas datumändringar till högst 30 dagar efter det schemalagda datumet. Skicka ett e-postmeddelande till marketocares@adobe.com om du behöver ett senare datum.
+>På grund av migreringens komplexitet begränsas datumändringar till högst 30 dagar efter det schemalagda datumet. Skicka ett e-postmeddelande till marketocares@marketo.com om du behöver ett senare datum.
 
 * Se en banderoll i Min Marketo som visar en nedräkning till startdatumet för användarmigreringen.
 
@@ -97,4 +97,4 @@ Adobe meddelar alla systemadministratörer och produktadministratörer via e-pos
 
 ## Få support {#get-support}
 
-Om du vill ha ytterligare support för din prenumeration eller din användarmigrering kan du skicka ett e-postmeddelande till marketocares@adobe.com.
+Om du vill ha ytterligare support för din prenumeration eller din användarmigrering kan du skicka ett e-postmeddelande till marketocares@marketo.com.
