@@ -3,9 +3,9 @@ description: Inherit Doc 1 - Marketo Docs - produktdokumentation
 title: Ärv dok 1
 hide: true
 hidefromtoc: true
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: 088f51a5aa6be65f5f2e4f8ae5df946f6bdf2866
 workflow-type: tm+mt
-source-wordcount: '1429'
+source-wordcount: '1433'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Checklistorna nedan (efterföljande checklistor länkade till längst ned i varj
 <li>Har du tilldelats rollen 'produktadministratör för Marketo Engage' i Marketo Engage/Admin/Users &amp; Roles?</li> 
 <li>Har du tilldelat Marketo Engage till alla lämpliga användares produktprofiler i Adobe Admin Console?
 <br/>     Om inte, måste du tilldela Marketo Engage till deras Adobe IMS-produktprofil innan du tilldelar deras roller i Marketo Engage/Admin/Users &amp; Roles.</li>
-<p>Obs! Om din prenumeration har fler än 75 användare och nyligen har migrerats till Adobe IMS kan du välja att migrera flera användare och administrera deras Adobe-ID i grupper eller alla samtidigt. Läs mer om vad du kan förvänta dig av <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Migreringsdag för Adobe IMS</a>.</td>
+<p><img src="assets/note-icon-25.png" alt="anteckningsikon">Obs! Om din prenumeration har fler än 75 användare och nyligen har migrerats till Adobe IMS kan du välja att migrera gruppvis och administrera deras Adobe-ID i grupper eller alla samtidigt. Läs mer om vad du kan förvänta dig av <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Migreringsdag för Adobe IMS</a>.</td>
   </tr>
   <tr> 
    <td>API för användarhantering</td> 
@@ -261,7 +261,7 @@ Checklistorna nedan (efterföljande checklistor länkade till längst ned i varj
    <td><li>Är din <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin-spårningskod</a> på din webbplats (inte i Marketo)?</li>
 <li>Är en <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Spåra inte</a> Webbläsarbegäran aktiverad?</li>
 <li>Är din <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> konfigurerad? 
-<p>Tips! Om du saknar dokumentation om var munkinkoden finns på webbplatsen kan du visa alla URL:er genom att skapa en <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Aktivitetsrapport för webbsida</a>.</li></td>
+<p><img src="assets/tip-icon-25.png" alt="anteckningsikon">TIPS: Om du saknar dokumentation om var munkinkoden finns på webbplatsen kan du visa alla URL:er genom att skapa en <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Aktivitetsrapport för webbsida</a>.</li></td>
   </tr>
   <tr> 
    <td>Webbtjänster</td> 
