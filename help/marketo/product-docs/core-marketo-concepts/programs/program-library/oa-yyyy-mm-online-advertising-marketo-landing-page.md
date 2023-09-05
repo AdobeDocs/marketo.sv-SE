@@ -4,9 +4,9 @@ title: OA-YYY-MM-Online Advertising Marketo Landing Page
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '480'
 ht-degree: 0%
 
 ---
@@ -29,8 +29,8 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   </tr> 
   <tr> 
    <td>Onlineannonsering</td> 
-   <td>01-medlem 
-<br/>02-Engaged-Success</td>
+   <td>01 - Medlem 
+<br/>02 - Aktiverad - Slutförd</td>
    <td>Inkluderande</td>
    <td>Standard</td>
   </tr>
@@ -53,17 +53,17 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   </tr>
   <tr> 
    <td>E-post</td> 
-   <td>E-postmall för snabbstart</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-postmall för snabbstart</a></td>
    <td>01-Email-Tack</td>
   </tr>
   <tr> 
    <td>Landningssida</td> 
-   <td>Lathund för snabbstart</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Lathund för snabbstart</a></td>
    <td>01 - LP - Registrering</td>
   </tr>
    <tr> 
    <td>Landningssida</td> 
-   <td>Lathund för snabbstart</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Lathund för snabbstart</a></td>
    <td>02 - LP - Tack</td>
   </tr>
    <tr> 
@@ -79,17 +79,17 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>00-Capture Acquisition Program</td>
+   <td>00 - Capture Acquisition Program</td>
   </tr>
   <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>01-ifyllt formulär</td>
+   <td>01 - Ifyllt formulär</td>
   </tr>
   <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>02-engagerade (programmet lyckades)</td>
+   <td>02 - Aktiverat (programmet lyckades)</td>
   </tr>
   <tr> 
    <td>Mapp</td> 
@@ -207,7 +207,7 @@ SKÄRMBILD AV KONFLIKTREGLER
 
 >[!TIP]
 >
->Glöm inte att aktivera kampanjen&quot;02-engagerad&quot; för att spåra framgångar! Gör så här _före_ formuläret är live och e-postmeddelanden skickas.
+>Glöm inte att aktivera kampanjen&quot;02 - Engaged (Program Success)&quot; för att spåra framgångar! Gör så här _före_ formuläret är live och e-postmeddelanden skickas.
 
 >[!IMPORTANT]
 >

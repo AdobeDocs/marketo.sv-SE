@@ -4,9 +4,9 @@ title: CT-YYY-MM-Content on Marketo Landing Page
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '479'
 ht-degree: 0%
 
 ---
@@ -48,23 +48,23 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   </tr> 
   <tr> 
    <td>E-post</td> 
-   <td>E-postmall för snabbstart</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-postmall för snabbstart</a></td>
    <td>01-Email-Tack</td>
   </tr>
   <tr> 
    <td>Landningssida</td> 
-   <td>Lathund för snabbstart</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Lathund för snabbstart</a></td>
    <td>01 - LP - Registrering</td>
   </tr>
   <tr> 
    <td>Landningssida</td> 
-   <td>Lathund för snabbstart</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Lathund för snabbstart</a></td>
    <td>02 - LP - Tack</td>
   </tr>
   <tr> 
    <td>Formulär</td> 
    <td> </td>
-   <td>Innehållsregistreringsformulär</td>
+   <td>FM - Innehållsregistreringsformulär</td>
   </tr>
   <tr> 
    <td>Lokal rapport</td> 
@@ -76,21 +76,26 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
    <td> </td>
    <td>Prestanda för landningssida</td>
   </tr>
-  <tr> 
+   <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>01-ifyllt formulär</td>
+   <td>00 - Capture Acquisition Program</td>
   </tr>
   <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>02-engagerade (programmet lyckades)</td>
+   <td>01 - Ifyllt formulär</td>
+  </tr>
+  <tr> 
+   <td>Smart Campaign</td> 
+   <td> </td>
+   <td>02 - Aktiverat (programmet lyckades)</td>
   </tr>
   <tr> 
    <td>Mapp</td> 
    <td> </td>
    <td>Resurser - innehåller alla kreativa resurser 
-<br/>(undermappar för e-post- och landningssidor)  </td>
+<br/>(undermappar för e-post, landningssidor och Forms)  </td>
   </tr>
   <tr> 
    <td>Mapp</td> 

@@ -4,9 +4,9 @@ title: TS-YYYY-MM-DD Tradeshow Program
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
@@ -52,12 +52,12 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   </tr> 
   <tr> 
    <td>E-post</td> 
-   <td>E-postmall för snabbstart</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-postmall för snabbstart</a></td>
    <td>01-Email-Tack</td>
   </tr>
    <tr> 
    <td>E-post</td> 
-   <td>E-postmall för snabbstart</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-postmall för snabbstart</a></td>
    <td>02a- E-post - inbjudan</td>
   </tr>
   <tr>
@@ -84,17 +84,12 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
    <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>02 - Aktiverat vid Show (Success)</td>
+   <td>02 - Skicka uppföljningsmejl</td>
   </tr>
    <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>03 - Skicka uppföljningsmejl</td>
-  </tr>
-   <tr> 
-   <td>Smart Campaign</td> 
-   <td> </td>
-   <td>04 - Engagerad av uppföljningsmejl (lyckades)</td>
+   <td>03 - Engagerad av uppföljningsmejl (lyckades)</td>
   </tr>
   <tr> 
    <td>Mapp</td> 
@@ -219,7 +214,7 @@ SKÄRMBILD AV KONFLIKTREGLER
 
 >[!TIP]
 >
->Glöm inte att aktivera kampanjerna&quot;02-Engaged at Show (Program Success)&quot; och&quot;04-Engaged by Monitoring Email (Program Success)&quot; för att spåra framgångar! Gör så här _före_ dina e-postmeddelanden skickas.
+>Glöm inte att aktivera kampanjen&quot;03 - Inaktiverad av uppföljningsmeddelande via e-post (programmet lyckades)&quot; för att spåra om det lyckades! Gör så här _före_ dina e-postmeddelanden skickas.
 
 >[!IMPORTANT]
 >

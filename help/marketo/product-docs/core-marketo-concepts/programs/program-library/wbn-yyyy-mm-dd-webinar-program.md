@@ -4,9 +4,9 @@ title: WBN-YYYY-MM-DD-Webinar Program
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '581'
 ht-degree: 1%
 
 ---
@@ -53,37 +53,37 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   </tr> 
   <tr> 
    <td>E-post</td> 
-   <td>E-postmall för snabbstart</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-postmall för snabbstart</a></td>
    <td>01 - E-post - inbjudan</td>
   </tr>
    <tr> 
    <td>E-post</td> 
-   <td>E-postmall för snabbstart</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-postmall för snabbstart</a></td>
    <td>02 - E-post - påminnelse om inbjudan</td>
   </tr>
    <tr> 
    <td>E-post</td> 
-   <td>E-postmall för snabbstart</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-postmall för snabbstart</a></td>
    <td>03 - E-post - påminnelse om inbjudan - sista chansen</td>
   </tr>
   <tr> 
    <td>E-post</td> 
-   <td>E-postmall för snabbstart</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-postmall för snabbstart</a></td>
    <td>04 - E-post - Registreringsbekräftelse</td>
   </tr>
   <tr> 
    <td>E-post</td> 
-   <td>E-postmall för snabbstart</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-postmall för snabbstart</a></td>
    <td>05 - E-post - påminnelse att delta</td>
   </tr>
   <tr> 
    <td>E-post</td> 
-   <td>E-postmall för snabbstart</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-postmall för snabbstart</a></td>
    <td>06 -E-post - uppföljning - bifogad</td>
   </tr>
   <tr> 
    <td>E-post</td> 
-   <td>E-postmall för snabbstart</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-postmall för snabbstart</a></td>
    <td>07 - E-post - Uppföljning - Inget bildspel </td>
   </tr>
   <tr>
@@ -94,17 +94,17 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   </tr>
   <tr> 
    <td>Landningssida</td> 
-   <td>Lathund för snabbstart</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Lathund för snabbstart</a></td>
    <td>01 - LP - Registrering</td>
   </tr>
   <tr> 
    <td>Landningssida</td> 
-   <td>Lathund för snabbstart</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Lathund för snabbstart</a></td>
    <td>02 - LP - Tack</td>
   </tr>
   <tr> 
    <td>Landningssida</td> 
-   <td>Lathund för snabbstart</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Lathund för snabbstart</a></td>
    <td>03 - LP - On Demand</td>
   </tr>
   <tr> 
@@ -150,17 +150,12 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>04 - Deltas (programmet lyckades)</td>
+   <td>04 - Skicka uppföljningsmejl</td>
   </tr>
   <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>05 - Skicka uppföljningsmejl</td>
-  </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
-   <td> </td>
-   <td>06 - On-Demand (programmet lyckades)</td>
+   <td>05 - On-Demand (programmet lyckades)</td>
   </tr>
   <tr> 
    <td>Mapp</td> 
@@ -333,7 +328,7 @@ SKÄRMBILD AV KONFLIKTREGLER
 
 >[!TIP]
 >
->Glöm inte att aktivera kampanjerna &quot;04-Attended (Program Success)&quot; och &quot;06-Attended On-Demand (Program Success)&quot; för att spåra framgångar! Gör så här _före_ dina e-postmeddelanden skickas.
+>Glöm inte att aktivera kampanjen &quot;05 - Attended (Program Success)&quot; för att spåra lyckade försök! Gör så här _före_ dina e-postmeddelanden skickas.
 
 >[!IMPORTANT]
 >
