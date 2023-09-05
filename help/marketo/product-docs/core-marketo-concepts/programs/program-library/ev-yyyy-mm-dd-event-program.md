@@ -4,7 +4,7 @@ title: EV-YYYY-MM-DD-Event-programmet
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 1%
@@ -51,47 +51,47 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   </tr> 
   <tr> 
    <td>E-post</td> 
-   <td>E-postmall för snabbstart</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-postmall för snabbstart</a></td>
    <td>01-Email-Tack</td>
   </tr>
    <tr> 
    <td>E-post</td> 
-   <td>E-postmall för snabbstart</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-postmall för snabbstart</a></td>
    <td>02a- E-post - inbjudan</td>
   </tr>
   <tr> 
    <td>E-post</td> 
-   <td>E-postmall för snabbstart</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-postmall för snabbstart</a></td>
    <td>02b - E-post - påminnelse om inbjudan</td>
   </tr>
   <tr> 
    <td>E-post</td> 
-   <td>E-postmall för snabbstart</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-postmall för snabbstart</a></td>
    <td>02c- Email - Invitation Reminder Last Chance</td>
   </tr>
   <tr> 
    <td>E-post</td> 
-   <td>E-postmall för snabbstart</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-postmall för snabbstart</a></td>
    <td>03 - E-post - påminnelse att delta</td>
   </tr>
   <tr> 
    <td>E-post</td> 
-   <td>E-postmall för snabbstart</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-postmall för snabbstart</a></td>
    <td>04a - E-post - uppföljning - Bifogad</td>
   </tr>
   <tr> 
    <td>E-post</td> 
-   <td>E-postmall för snabbstart</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-postmall för snabbstart</a></td>
    <td>04b - E-post - Uppföljning - NoShow</td>
   </tr>
   <tr> 
    <td>Landningssida</td> 
-   <td>Lathund för snabbstart</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Lathund för snabbstart</a></td>
    <td>01a - LP - Registrering</td>
   </tr>
   <tr> 
    <td>Landningssida</td> 
-   <td>Lathund för snabbstart</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Lathund för snabbstart</a></td>
    <td>01b - LP - Tack</td>
   </tr>
   <tr> 

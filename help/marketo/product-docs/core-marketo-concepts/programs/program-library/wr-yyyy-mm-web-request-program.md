@@ -4,7 +4,7 @@ title: WR-YYYY-MM-Web Request Program
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 5aa0c2e3be16219613f0c72235428a962f8d58b3
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
 source-wordcount: '409'
 ht-degree: 0%
@@ -52,17 +52,17 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   </tr>
   <tr> 
    <td>E-post</td> 
-   <td>E-postmall för snabbstart</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-postmall för snabbstart</a></td>
    <td>Alert-WebRequest</td>
   </tr>
   <tr> 
    <td>Landningssida</td> 
-   <td>Lathund för snabbstart</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Lathund för snabbstart</a></td>
    <td>01 - LP - Begäran</td>
   </tr>
   <tr> 
    <td>Landningssida</td> 
-   <td>Lathund för snabbstart</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Lathund för snabbstart</a></td>
    <td>02 - LP - Tack</td>
   </tr>
   <tr> 
