@@ -3,9 +3,9 @@ description: Inherit Doc 4 - Marketo Docs - produktdokumentation
 title: Ärv dokument 4
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
@@ -60,13 +60,13 @@ Genom att strukturera mallar och skapa globala formulär, kodfragment och bilder
   <tr> 
    <td>Datainsamling</td> 
    <td><li>Är dina <a href="/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md" target="_blank">formulärfält</a> främst listrutor eller öppna textfält?</li>
-<p>Tips! Om de är öppna textfält bör du överväga att växla dem till listrutor för att undvika röriga data.</td>
+<p><img src="assets/tip-icon.png" alt="ikonen för tips">TIPS: Om de är öppna textfält bör du överväga att växla dem till plocklistor för att förhindra röriga data.</td>
   </tr>
   <tr> 
    <td>Sekretess och efterlevnad</td> 
    <td><li>Anpassar er formulärstrategi er efter företagets datasekretess och krav på deltagande? 
    <br/>     Överväg <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Allmänna dataskyddsförordningen (GDPR)</a>, Canada's Anti-Spam Law (CASL), The Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 (CAN-SPAM), California Consumer Privacy Act (CCPA), etc., för efterlevnad av regler.</li>
-<p>Tips! Kom ihåg att alltid rådfråga ditt juridiska team om dessa frågor. Fråga teamet om tidigare initiativ för att upprätthålla regelefterlevnaden innan du gör några ändringar.</td>
+<p><img src="assets/tip-icon.png" alt="ikonen för tips">TIPS: Kom ihåg att alltid rådfråga ditt juridiska team om dessa frågor. Fråga teamet om tidigare initiativ för att upprätthålla regelefterlevnaden innan du gör några ändringar.</td>
   </tr>
  </tbody> 
 </table>
@@ -94,7 +94,7 @@ Genom att strukturera mallar och skapa globala formulär, kodfragment och bilder
   <tr> 
    <td>Sekretess och efterlevnad</td> 
    <td><li>Har alla era e-postmeddelanden rätt sidfot? Överväg GDPR, CASL, CAN-SPAM, CCPA osv. för regelefterlevnad.</li>
-<p>Tips! Kom ihåg att alltid rådfråga ditt juridiska team om dessa efterlevnadsfrågor. Fråga teamet om tidigare initiativ för att upprätthålla regelefterlevnaden innan du gör några ändringar.</td>
+<p><img src="assets/tip-icon.png" alt="ikonen för tips">TIPS: Kom ihåg att alltid rådfråga ditt juridiska team om dessa efterlevnadsfrågor. Fråga teamet om tidigare initiativ för att upprätthålla regelefterlevnaden innan du gör några ändringar.</td>
   </tr>
  </tbody> 
 </table>
@@ -156,7 +156,7 @@ Genom att strukturera mallar och skapa globala formulär, kodfragment och bilder
   <tr> 
    <td>Resursdelning</td> 
    <td><li>Vilka tillgångar <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#sharing-across-workspaces" target="_blank">delas mellan arbetsytor</a>?</li>
-   <p>Obs! Det är viktigt att veta att åtgärder som vidtas i en arbetsyta kan leda till en otillgänglig resurs i en annan arbetsyta för en annan användare.</td>
+   <p><img src="assets/note-icon.png" alt="anteckningsikon"> Obs! Det är viktigt att veta att åtgärder som vidtas i en arbetsyta kan leda till en otillgänglig resurs i en annan arbetsyta för en annan användare.</td>
   </tr>
  </tbody> 
 </table>

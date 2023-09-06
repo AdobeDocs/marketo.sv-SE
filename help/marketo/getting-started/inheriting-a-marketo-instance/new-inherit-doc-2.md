@@ -3,9 +3,9 @@ description: Inherit Doc 2 - Marketo Docs - produktdokumentation
 title: Ärv dok 2
 hide: true
 hidefromtoc: true
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
@@ -75,7 +75,7 @@ Förstå det totala antalet personer, säljbara personer och de främsta leveran
    <td><li>Hur många <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">Smarta listor</a> Är det där? Hur används de i den här instansen?</li>
 <li>Är listorna ordnade i en sammanhängande mappstruktur? 
 <br/>     Om du har överblivna listor bör du överväga att ordna trädet så att det blir enkelt att hitta resurser.</li>
-<p>Tips: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Arkivering</a> Smarta listor som inte längre behövs hjälper till med organisation och prestanda.</td>
+<p><img src="assets/tip-icon.png" alt="ikonen för tips">TIPS: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Arkivering</a> Smarta listor som inte längre behövs hjälper till med organisation och prestanda.</td>
   </tr>
  </tbody> 
 </table>

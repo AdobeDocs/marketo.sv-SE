@@ -4,9 +4,9 @@ title: E-postmall för snabbstart
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '577'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
    * Modulens nedre utfyllnad
    * Bakgrundsfärg i modul
    * Logotypens justering
-* PICC
+* ![](assets/quick-start-email-template-1.png)
 
 ### Bildmodul {#image-module}
 
@@ -46,7 +46,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
    * Modulens övre utfyllnad
    * Modulens nedre utfyllnad
    * Bakgrundsfärg i modul
-* PICC
+* ![](assets/quick-start-email-template-2.png)
 
 ### Headline Module {#headline-module}
 
@@ -58,7 +58,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
    * Teckensnittsstorlek för rubriken (kan även redigeras i RTF-redigeraren)
    * Teckenfärg för rubriken (kan även redigeras i textredigeraren)
    * Justering av rubriktexten (kan även redigeras i RTF-redigeraren)
-* PICC
+* ![](assets/quick-start-email-template-3.png)
 
 ### Subheadline Module {#subheadline-module}
 
@@ -70,7 +70,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
    * Underrubrikens teckensnittsstorlek (kan även redigeras i RTF-redigeraren)
    * Teckensnittsfärg för underrubriken (kan även redigeras i RTF-redigeraren)
    * Justering av underrubriken (kan även redigeras i RTF-redigeraren)
-* PICC
+* ![](assets/quick-start-email-template-4.png)
 
 ### Modul för fri text {#free-text-module}
 
@@ -82,7 +82,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
    * Teckensnittsstorlek för text (kan även redigeras i RTF-redigeraren)
    * Teckenfärg för text (kan även redigeras i textredigeraren)
    * Textens justering (kan även redigeras i RTF-redigeraren)
-* PICC
+* ![](assets/quick-start-email-template-5.png)
 
 ### CTA-modul {#cta-module}
 
@@ -97,7 +97,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
    * CTA URL
    * CTA-text
    * CTA-justering
-* PICC
+* ![](assets/quick-start-email-template-6.png)
 
 ### Delningsmodul {#divider-module}
 
@@ -108,7 +108,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
    * Delningsfärg
    * Delningshöjd (i pixlar)
    * Delningsbredd (som %)
-* PICC
+* ![](assets/quick-start-email-template-7.png)
 
 ### Modul för sidfot {#footer-module}
 
@@ -120,4 +120,4 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
    * Bakgrundsfärg i modul
    * Textfärg
    * Innehållsjustering
-* PICC
+* ![](assets/quick-start-email-template-8.png)

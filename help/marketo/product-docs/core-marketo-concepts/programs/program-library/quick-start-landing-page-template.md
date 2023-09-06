@@ -4,9 +4,9 @@ title: Startsidmall för snabbstart
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '465'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
    * Visa eller dölj avsnittet
    * Avsnittets övre utfyllnad
    * Avsnittets nedre utfyllnad
-* PICC
+* ![](assets/quick-start-landing-page-template-1.png)
 
 ### Bildavsnitt {#image-section}
 
@@ -42,7 +42,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
    * Länken till banderollbilden
    * Banderollbredden - en av väljarna längst ned till höger gör att du kan göra bilden antingen lika bred som innehållsbehållaren eller så bred som hela webbläsaren
    * Visa eller dölj avsnittet
-* PICC
+* ![](assets/quick-start-landing-page-template-2.png)
 
 ### Text med två kolumner till vänster, Formulär till höger {#two-col-left-form-right}
 
@@ -56,7 +56,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
    * Visa eller dölj hela avsnittet
    * Visa eller dölj endast formuläret (om du döljer formuläret fylls texten i den vänstra kolumnen ut på sidans bredd. Detta kan användas för en tack- eller bekräftelsesida där ett formulär saknas.)
    * Visa eller dölj texten för sekretesspolicyn
-* PICC
+* ![](assets/quick-start-landing-page-template-3.png)
 
 ### Videoavsnitt {#video-section}
 
@@ -66,7 +66,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
    * Inbäddningskod för video
    * Visa/dölj videorubriken
    * Visa/dölj video
-* PICC
+* ![](assets/quick-start-landing-page-template-4.png)
 
 ### Sidfotsavsnittet {#footer-section}
 
@@ -76,7 +76,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
    * Bakgrundsfärg för avsnitt
    * Färg på sociala ikoner
    * Visa/dölj avsnitt
-* PICC
+* ![](assets/quick-start-landing-page-template-5.png)
 
 ### Ytterligare variabler {#additional-variables}
 

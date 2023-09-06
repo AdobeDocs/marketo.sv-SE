@@ -3,9 +3,9 @@ description: Inherit Doc 3 - Marketo Docs - produktdokumentation
 title: Ärv dokument 3
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '806'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Ordna avsnittet marknadsföringsaktiviteter på rätt sätt så att andra kan hi
    <td>Arkiv</td> 
    <td><li>Är äldre program <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">arkiverad</a>?</li>
 <li>Hur ofta granskar och arkiverar ert företag gamla program?</li>
-<p>Tips! Det är bra att göra en granskning varje år.</td>
+<p><img src="assets/tip-icon.png" alt="ikonen för tips">TIPS: Det är bra att göra en granskning varje år.</td>
   </tr>
   <tr> 
    <td>Meddelanden</td> 
@@ -54,7 +54,7 @@ Ordna avsnittet marknadsföringsaktiviteter på rätt sätt så att andra kan hi
    <td>Prenumerationer på smarta listor 
    <br/>(Fliken Marknadsföringsaktiviteter/Prenumerationer)</td> 
    <td><li>Finns det pågående <a href="/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md" target="_blank">Prenumerationer med Smart List</a> i din instans? Om ja, vem ska de göra?</li>
-<p>Tips: Överväg att konfigurera Smart List-prenumerationer för att gå till ett teamalias i stället för en individ. Detta täcker dig om enskilda personer inte är på kontoret.</td>
+<p><img src="assets/tip-icon.png" alt="ikonen för tips">TIPS: Överväg att konfigurera Smart List-prenumerationer för att gå till ett teamalias i stället för en individ. Detta täcker dig om enskilda personer inte är på kontoret.</td>
   </tr>
  </tbody> 
 </table>
@@ -96,7 +96,7 @@ Ordna avsnittet marknadsföringsaktiviteter på rätt sätt så att andra kan hi
    <td>Lokal Forms</td> 
    <td><li>Hur många program har lokala <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">formulär</a>? Bör dessa formulär göras om till globala formulär?</li>
 <li>Hämtar de data som passar er marknadsföring och era säljteam?</li>
-<p>Tips: Begränsa antalet lokala formulär för att underlätta uppdatering och anpassning till ändringar av datasekretess och regler för anmälan/avanmälan. Vilka frågor behöver ställas när du skapar ett formulär? Om den insamlade informationen inte ändras och de avancerade formulärfunktionerna inte ändras bör du överväga ett globalt formulär istället för ett lokalt formulär.</td>
+<p><img src="assets/tip-icon.png" alt="ikonen för tips">TIPS: Begränsa antalet lokala formulär för att underlätta uppdatering och anpassning till ändringar av datasekretess och regler för anmälan/avanmälan. Vilka frågor behöver ställas när du skapar ett formulär? Om den insamlade informationen inte ändras och de avancerade formulärfunktionerna inte ändras bör du överväga ett globalt formulär istället för ett lokalt formulär.</td>
   </tr>
   <tr> 
    <td>Global Forms</td> 
@@ -127,7 +127,7 @@ Ordna avsnittet marknadsföringsaktiviteter på rätt sätt så att andra kan hi
   <tr> 
    <td>Personkälla</td> 
    <td><li>Har du ett centraliserat program som tilldelar värden till personkällfält?</li>
-<p>Obs! Marketo Engage samlar automatiskt in data i ett källfält oavsett vilket program som används.</td>
+<p><img src="assets/note-icon.png" alt="anteckningsikon"> OBS! Marketo Engage samlar automatiskt in data i ett källfält oavsett vilket program som används.</td>
   </tr>
   <tr> 
    <td>Datainsamling</td> 
@@ -141,7 +141,7 @@ Ordna avsnittet marknadsföringsaktiviteter på rätt sätt så att andra kan hi
    <td>Sekretess och efterlevnad</td> 
    <td><li>Har ni program för att säkerställa att ni följer datasekretess och skräppostlagar? 
    <br/>     Överväg <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>, CASL, CAN-SPAM, CCPA osv.</li>
-<p>Tips! Kom ihåg att alltid rådfråga ditt juridiska team om dessa frågor. Fråga teamet om tidigare initiativ för att upprätthålla regelefterlevnaden innan du gör några ändringar.</td>
+<p><img src="assets/tip-icon.png" alt="ikonen för tips">TIPS: Kom ihåg att alltid rådfråga ditt juridiska team om dessa frågor. Fråga teamet om tidigare initiativ för att upprätthålla regelefterlevnaden innan du gör några ändringar.</td>
   </tr>
   <tr> 
    <td>Livscykel</td> 

@@ -3,9 +3,9 @@ description: Inherit Doc 1 - Marketo Docs - produktdokumentation
 title: Ärv dok 1
 hide: true
 hidefromtoc: true
-source-git-commit: 088f51a5aa6be65f5f2e4f8ae5df946f6bdf2866
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '1433'
+source-wordcount: '1437'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Checklistorna nedan (efterföljande checklistor länkade till längst ned i varj
 <li>Har du tilldelats rollen 'produktadministratör för Marketo Engage' i Marketo Engage/Admin/Users &amp; Roles?</li> 
 <li>Har du tilldelat Marketo Engage till alla lämpliga användares produktprofiler i Adobe Admin Console?
 <br/>     Om inte, måste du tilldela Marketo Engage till deras Adobe IMS-produktprofil innan du tilldelar deras roller i Marketo Engage/Admin/Users &amp; Roles.</li>
-<p><img src="assets/note-icon-25.png" alt="anteckningsikon">Obs! Om din prenumeration har fler än 75 användare och nyligen har migrerats till Adobe IMS kan du välja att migrera gruppvis och administrera deras Adobe-ID i grupper eller alla samtidigt. Läs mer om vad du kan förvänta dig av <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Migreringsdag för Adobe IMS</a>.</td>
+<p><img src="assets/note-icon.png" alt="anteckningsikon"> Obs! Om din prenumeration har fler än 75 användare och nyligen har migrerats till Adobe IMS kan du välja att migrera gruppvis och administrera deras Adobe-ID i grupper eller alla samtidigt. Läs mer om vad du kan förvänta dig av <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Migreringsdag för Adobe IMS</a>.</td>
   </tr>
   <tr> 
    <td>API för användarhantering</td> 
@@ -159,7 +159,7 @@ Checklistorna nedan (efterföljande checklistor länkade till längst ned i varj
   <tr> 
    <td>Kommunikationsbegränsningar</td> 
    <td><li>Finns det <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">kommunikationsgränser</a> på plats? Har ert företag policyer där kommunikationsbegränsningar kan behövas?</li>
-<p>Obs! Vi rekommenderar att du begränsar din kommunikation till 1 per dag och 3 per 7 dagar med <b>ej</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operativ</a> e-post blockerad.</td>
+<p><img src="assets/note-icon.png" alt="anteckningsikon"> Obs! Vi rekommenderar att du begränsar din kommunikation till 1 per dag och 3 per 7 dagar med <b>ej</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operativ</a> e-post blockerad.</td>
   </tr>
  </tbody> 
 </table>
@@ -242,7 +242,7 @@ Checklistorna nedan (efterföljande checklistor länkade till längst ned i varj
    <td><li>Vilken CRM synkroniserar du med? Salesforce? MS Dynamics? Veeva?</li>
 <li>Använder du en <a href="https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758" target="_blank">anpassad synkronisering</a>?</li>
 <li>[Endast Salesforce] Har din instans anpassade synkroniseringsfilter implementerats? 
-<p>Obs! Kontakta Marketo Support om du vill identifiera anpassade synkroniseringsfilter eller begära att en anpassad synkroniseringsregel implementeras.</li></td>
+<p><img src="assets/note-icon.png" alt="anteckningsikon"> Obs! Kontakta Marketo Support om du vill identifiera anpassade synkroniseringsfilter eller begära att en anpassad synkroniseringsregel implementeras.</li></td>
   </tr>
   <tr> 
    <td>Landningssidor</td> 
@@ -261,7 +261,7 @@ Checklistorna nedan (efterföljande checklistor länkade till längst ned i varj
    <td><li>Är din <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin-spårningskod</a> på din webbplats (inte i Marketo)?</li>
 <li>Är en <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Spåra inte</a> Webbläsarbegäran aktiverad?</li>
 <li>Är din <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> konfigurerad? 
-<p><img src="assets/tip-icon-25.png" alt="anteckningsikon">TIPS: Om du saknar dokumentation om var munkinkoden finns på webbplatsen kan du visa alla URL:er genom att skapa en <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Aktivitetsrapport för webbsida</a>.</li></td>
+<p><img src="assets/tip-icon.png" alt="ikonen för tips">TIPS: Om du saknar dokumentation om var munkinkoden finns på webbplatsen kan du visa alla URL:er genom att skapa en <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Aktivitetsrapport för webbsida</a>.</li></td>
   </tr>
   <tr> 
    <td>Webbtjänster</td> 
