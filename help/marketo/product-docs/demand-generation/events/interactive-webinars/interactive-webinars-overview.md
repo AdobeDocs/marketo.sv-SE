@@ -3,9 +3,9 @@ description: Översikt över interaktiva webbinarier - Marketo Docs - produktdok
 title: Översikt över interaktiva webbinarier
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 7e1f289cb074e016308b75b913a3faeafe149404
+source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '394'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ Efter webbinariet kan du [händelseprestandaanalys](/help/marketo/product-docs/d
 **Behöver jag en separat prenumeration för att använda interaktiva webbinarier?**
 
 Nej. Endast en aktiv Marketo Engage-prenumeration krävs för att använda interaktiva webbinarier.
+
+**Vilka språk finns för interaktiva webbinarier?**
+
+Interaktiva webbinarier finns på alla sex språk som stöds av Marketo: engelska, franska, tyska, japanska, portugisiska och spanska. Samma språk stöds av Adobe Connect och även vid leverans via interaktiva webbinarier.
 
 **Jag har uttömt det antal interaktiva webbinarier som ingår. Hur får jag fler sessioner eller mer kapacitet?**
 
