@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 69c2dc58f8ca609702f6e39543d8d72cba6b439c
+source-git-commit: 59a1dfe1a6ca638cdbc18a7163e64dc2bac25bb5
 workflow-type: tm+mt
-source-wordcount: '9073'
+source-wordcount: '9083'
 ht-degree: 0%
 
 ---
@@ -647,7 +647,11 @@ ht-degree: 0%
          + [Lägg till Google kundmatchning som en LaunchPoint-tjänst](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [Lägg till LinkedIn Matched Audiences som en LaunchPoint-tjänst](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Skicka en lista till ett annonsnätverk](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
+      + Dynamic Chat två {#dynamic-chat-two}
+         + Automatiserad chatt {#automated-chat}
+            + [Översikt över Dynamic Chat](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
       + Dynamic Chat {#dynamic-chat}
+         + [Frigör infogningar](product-docs/demand-generation/dynamic-chat/release-inserts.md)
          + [Översikt över Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Inledande konfiguration](product-docs/demand-generation/dynamic-chat/initial-setup.md)
          + [Lägg till eller ta bort chattanvändare](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
