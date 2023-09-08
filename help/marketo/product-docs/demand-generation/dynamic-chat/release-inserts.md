@@ -4,9 +4,9 @@ title: Inledande konfiguration
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 62af6c2379746e776b6b76d9f1fbb8ad9bb47305
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -14,21 +14,6 @@ ht-degree: 0%
 # Frigör infogningar {#release-inserts}
 
 Släpp saker nedan..
-
-STEVEN
-
-## Målinriktning för smarta listor i Marketo Engage {#marketo-engage-smart-list-targeting}
-
-Marknadsförarna kan inrikta sig på medlemmar i Marketo Engage smarta listor enligt villkoren för dialog.
-
-## Nya aktiviteter i Dynamic Chat {#new-dynamic-chat-activities}
-
-Nya aktiviteter för konversationsflöden, live chatt och andra nya funktioner.
-
-## Utlösartoken för nya aktiviteter {#trigger-tokens-for-new-activities}
-
-Det finns nya utlösande token som stöder de nya aktiviteterna för Dynamic Chat.
-
 
 JOHN
 
@@ -74,3 +59,122 @@ Se hur många samtal era säljare haft och vilka team som presterar bäst.
 ## Åtgärdskort i Stream Designer {#action-card-in-stream-designer}
 
 Marknadsförarna kan använda åtgärdskort i Dialog-strömmen för att skicka dolda värden till personposten Marketo Engage när besökarna interagerar med en dialog.
+
+
+STEVEN
+
+## Målinriktning för smarta listor i Marketo Engage {#marketo-engage-smart-list-targeting}
+
+Marknadsförarna kan inrikta sig på medlemmar i Marketo Engage smarta listor enligt villkoren för dialog.
+
+## Nya aktiviteter i Dynamic Chat {#new-dynamic-chat-activities}
+
+Nya aktiviteter för konversationsflöden, live chatt och andra nya funktioner.
+
+## Utlösartoken för nya aktiviteter {#trigger-tokens-for-new-activities}
+
+### Utlösartoken för Dynamic Chat {#dynamic-chat-trigger-tokens}
+
+<table style="table-layout:auto"> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Page URL}}</code></th> 
+   <th><code>{{Trigger.Conversation Transcript}}</code></th> 
+   <th><code>{{trigger.Conversation Status}}</code></th> 
+   <th><code>{{trigger.Agent Name}}</code></th> 
+   <th><code>{{trigger.Agent Email}}</code></th> 
+   <th><code>{{trigger.Scheduled For}}</code></th> 
+   <th><code>{{trigger.Goal name}}</code></th> 
+   <th><code>{{trigger.Document Name}}</code></th> 
+   <th><code>{{trigger.Document URL}}</code></th>
+   <th><code>{{trigger.Document Opened}}</code></th>
+   <th><code>{{trigger.Document Downloaded}}</code></th>
+  </tr> 
+  <tr> 
+   <td>Engagerad med en dialogruta</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Schemalagt möte i en dialogruta</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Dialogrutemål som nåtts</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr>
+  <tr> 
+   <td>Interagera med dokument i dialogrutan</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+  </tr> 
+ </tbody> 
+</table>

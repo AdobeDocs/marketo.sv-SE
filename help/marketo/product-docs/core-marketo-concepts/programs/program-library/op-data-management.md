@@ -4,9 +4,9 @@ title: OP-Data Management
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 5aa0c2e3be16219613f0c72235428a962f8d58b3
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -168,7 +168,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
  </tbody> 
 </table>
 
-SCREENSHOT OF PROGRAM
+![](assets/op-data-management-1.png)
 
 ## Konfliktregler {#conflict-rules}
 
@@ -187,8 +187,6 @@ SCREENSHOT OF PROGRAM
 * **E-postmallar med samma namn**
    * Behåll båda mallarna - _Rekommenderas_
    * Ersätt befintlig mall
-
-SKÄRMBILD AV KONFLIKTREGLER
 
 ## Bästa praxis {#best-practices}
 

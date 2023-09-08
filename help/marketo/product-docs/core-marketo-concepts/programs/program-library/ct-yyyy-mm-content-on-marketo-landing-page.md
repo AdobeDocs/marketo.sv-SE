@@ -4,9 +4,9 @@ title: CT-YYY-MM-Content on Marketo Landing Page
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '472'
 ht-degree: 0%
 
 ---
@@ -110,6 +110,8 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
  </tbody> 
 </table>
 
+![](assets/ct-yyyy-mm-content-on-marketo-landing-page-1.png)
+
 ## Mina token inkluderade {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -168,8 +170,6 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
  </tbody> 
 </table>
 
-SCREENSHOT OF PROGRAM
-
 ## Konfliktregler {#conflict-rules}
 
 * **Programtaggar**
@@ -187,8 +187,6 @@ SCREENSHOT OF PROGRAM
 * **E-postmallar med samma namn**
    * Behåll båda mallarna
    * Ersätt befintlig mall - _Rekommenderas_
-
-SKÄRMBILD AV KONFLIKTREGLER
 
 ## Bästa praxis {#best-practices}
 

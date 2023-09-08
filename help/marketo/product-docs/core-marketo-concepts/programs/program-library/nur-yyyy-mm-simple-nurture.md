@@ -4,9 +4,9 @@ title: NUR-YYY-MM-Simple Nurture
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '341'
 ht-degree: 1%
 
 ---
@@ -111,6 +111,8 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
  </tbody> 
 </table>
 
+![](assets/nur-yyyy-mm-simple-nurture-1.png)
+
 ## Mina token inkluderade {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -138,8 +140,6 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
  </tbody> 
 </table>
 
-SCREENSHOT OF PROGRAM
-
 ## Konfliktregler {#conflict-rules}
 
 * **Programtaggar**
@@ -157,8 +157,6 @@ SCREENSHOT OF PROGRAM
 * **E-postmallar med samma namn**
    * Behåll båda mallarna
    * Ersätt befintlig mall - _Rekommenderas_
-
-SKÄRMBILD AV KONFLIKTREGLER
 
 ## Bästa praxis {#best-practices}
 

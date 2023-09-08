@@ -4,9 +4,9 @@ title: OP-Acquisition-API
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 0f71600b18315feb3ef32e95dfb108b09c4cb79f
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -61,7 +61,7 @@ Det här exempelprogrammet är avsett för operativa processer för att spåra f
  </tbody> 
 </table>
 
-SCREENSHOT OF PROGRAM
+![](assets/op-acquisition-api-1.png)
 
 ## Konfliktregler {#conflict-rules}
 
@@ -80,8 +80,6 @@ SCREENSHOT OF PROGRAM
 * **E-postmallar med samma namn**
    * Behåll båda mallarna - _Rekommenderas_
    * Ersätt befintlig mall
-
-SKÄRMBILD AV KONFLIKTREGLER
 
 ## Bästa praxis {#best-practices}
 

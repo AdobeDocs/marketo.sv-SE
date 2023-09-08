@@ -4,9 +4,9 @@ title: OP-Scoring-Beteende
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '350'
 ht-degree: 4%
 
 ---
@@ -155,6 +155,8 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
  </tbody> 
 </table>
 
+![](assets/op-scoring-behavior-1.png)
+
 ## Mina token inkluderade {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -242,8 +244,6 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
  </tbody> 
 </table>
 
-SCREENSHOT OF PROGRAM
-
 ## Konfliktregler {#conflict-rules}
 
 * **Programtaggar**
@@ -261,8 +261,6 @@ SCREENSHOT OF PROGRAM
 * **E-postmallar med samma namn**
    * Behåll båda mallarna - _Rekommenderas_
    * Ersätt befintlig mall
-
-SKÄRMBILD AV KONFLIKTREGLER
 
 ## Bästa praxis {#best-practices}
 
