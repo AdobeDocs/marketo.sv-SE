@@ -4,10 +4,10 @@ title: Översikt över Dynamic Chat
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
 workflow-type: tm+mt
-source-wordcount: '857'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -52,6 +52,10 @@ Här ser du alla avtalade tider som har schemalagts av webbplatsbesökare via ol
 ## Routning {#routing}
 
 Här kan du se en lista över alla agenter som har kopplat samman sina kalendrar, i vilken ordning de presenteras för webbplatsens besökare och skapa anpassade routningsregler. [Läs mer om routning](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target="_blank"}
+
+## Live Chatt {#live-chat}
+
+Erbjud dina kvalificerade webbbesökare att få kontakt med säljarna via live-chatt. LÄNKA TILL DOC
 
 ## Vanliga frågor {#faq}
 

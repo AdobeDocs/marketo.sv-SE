@@ -4,9 +4,9 @@ title: Stream Designer
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
 workflow-type: tm+mt
-source-wordcount: '852'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -48,6 +48,16 @@ Strömdesignern innehåller flera kort som du kan lägga till för att forma cha
  <tr>
   <td><strong>Mål</strong></td>
   <td>Det här är det enda kortet som besökarna inte ser. Det är upp till dig att avgöra vid vilken punkt ett mål uppnås i den specifika chatten (t.ex. om du vill samla in besökarens e-postadress placerar du målkortet omedelbart efter Info Capture i strömmen).</td>
+ </tr>
+ <tr>
+  <td><strong>Åtgärd</strong></td>
+  <td>På liknande sätt som med dolda fält i ett formulär kan du med åtgärdskortet fylla i alla lead- eller företagsattribut med implicita värden som du vill hämta mot en lead-post. Du kan lägga till åtgärdskortet när som helst i konversationen och uppdatera respektive attribut med ett värde eller inbyggda tokens som automatiskt fyller i respektive värde.</td>
+ </tr>
+ <tr>
+  <td><strong>Live Chatt</strong></td>
+  <td>Använd chattkortet när du vill att besökarna ska chatta med en live-agent.
+  <li>Direktchattkortet måste vara det sista kortet i grenen</li>
+  <li>Besökarna dirigeras till en agent så snart de kommer till det här kortet i strömmen, så vi rekommenderar att du före det här kortet tillfrågar besökarna ett frågekort om de vill chatta med en handläggare</li></td>
  </tr>
 </table>
 
