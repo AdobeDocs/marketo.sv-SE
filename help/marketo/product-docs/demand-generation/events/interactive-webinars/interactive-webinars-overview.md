@@ -3,9 +3,9 @@ description: Översikt över interaktiva webbinarier - Marketo Docs - produktdok
 title: Översikt över interaktiva webbinarier
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 2aa7c1cb3d41ef9fa4eb5906d2ac8f631ce8e209
+source-git-commit: 7d01503c6cf7c52e9f30b76cedc33e7150557fae
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Interactive Webinars-funktionen är vår inbyggda webbinariplattform i Marketo E
 
 >[!IMPORTANT]
 >
->Interaktiva webbinarier med Adobe Connect är en funktion med inbyggd integrering i Adobe Connect. Din användning av interaktiva webbinarier regleras av ytterligare villkor.  Granska ditt kontrakt eller [kontakta Adobe](https://nation.marketo.com/t5/support/ct-p/Support) om du vill veta mer om de ytterligare villkoren.
+>Interaktiva webbinarier med Adobe Connect är en funktion med inbyggd integrering i Adobe Connect. Din användning av interaktiva webbinarier regleras av ytterligare villkor. Granska ditt kontrakt eller kontakta Adobe för att få information om ytterligare villkor.
 
 ## Vad är interaktiva webbinarier? {#what-is-interactive-webinars}
 
