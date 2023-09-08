@@ -3,7 +3,7 @@ description: Lägg till eller ta bort chattanvändare - Marketo Docs - produktdo
 title: Lägg till eller ta bort chattanvändare
 exl-id: b616030c-a9fe-48d7-902c-40621307bfec
 feature: Dynamic Chat
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Följ stegen nedan för att lägga till eller ta bort chattanvändare.
 
    ![](assets/add-or-remove-chat-users-1.png)
 
-1. Klicka **Dynamiskt chatt**.
+1. Klicka **Dynamic Chat**.
 
    ![](assets/add-or-remove-chat-users-2.png)
 
@@ -52,7 +52,7 @@ Följ stegen nedan för att lägga till eller ta bort chattanvändare.
 
 Om den nyligen tillagda chattanvändarens Marketo-roll inte redan har Dynamic Chat-behörighet gör du så här.
 
-1. I Marketo klickar du på **Administratör** och markera **Användare och roller**.
+1. Klicka på i Marketo **Administratör** och markera **Användare och roller**.
 
    ![](assets/add-or-remove-chat-users-8.png)
 
@@ -74,13 +74,13 @@ Om den nyligen tillagda chattanvändarens Marketo-roll inte redan har Dynamic Ch
 
    ![](assets/add-or-remove-chat-users-12.png)
 
-1. Klicka **Dynamiskt chatt**.
+1. Klicka **Dynamic Chat**.
 
    ![](assets/add-or-remove-chat-users-13.png)
 
    >[!NOTE]
    >
-   >Om du har fler än en Marketo-prenumeration väljer du en före nästa steg).
+   >Om du har fler än en Marketo-prenumeration väljer du en före nästa steg.
 
 1. Klicka på **Användare** -fliken.
 
