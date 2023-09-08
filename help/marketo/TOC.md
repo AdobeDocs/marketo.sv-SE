@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 59a1dfe1a6ca638cdbc18a7163e64dc2bac25bb5
+source-git-commit: 5d2c7f39805473a94f9d67dd829faf37d87631b1
 workflow-type: tm+mt
 source-wordcount: '9083'
 ht-degree: 0%
@@ -649,7 +649,7 @@ ht-degree: 0%
          + [Skicka en lista till ett annonsnätverk](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Dynamic Chat två {#dynamic-chat-two}
          + Automatiserad chatt {#automated-chat}
-            + [Översikt över Dynamic Chat](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
+            + [Konversationsflödesinställningar](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
       + Dynamic Chat {#dynamic-chat}
          + [Frigör infogningar](product-docs/demand-generation/dynamic-chat/release-inserts.md)
          + [Översikt över Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
