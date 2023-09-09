@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 5084013638c4131ebf4c5812e3e4d485ca94419c
+source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
 workflow-type: tm+mt
-source-wordcount: '9086'
+source-wordcount: '9095'
 ht-degree: 0%
 
 ---
@@ -43,11 +43,11 @@ ht-degree: 0%
       + [Objekt som ska checkas ut](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [Saker att granska: Kärnfärdigheter](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [Sätt att få hjälp](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
-      + [Nytt ärv dokument 1](getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
-      + [Nytt ärv dokument 2](getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
-      + [Nytt ärv dokument 3](getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
-      + [Nytt ärv dokument 4](getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
-      + [Nytt ärv dokument 5](getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
+      + [Ärvd instans: Admin Section Checklist](getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
+      + [Ärvd instans: Databaskontrolllista](getting-started/inheriting-a-marketo-instance/database-checklist.md)
+      + [Ärvd instans: Checklista för marknadsföringsaktiviteter](getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+      + [Ärvd instans: Design Studio Checklist](getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
+      + [Ärvd instans: Dokumentera konfigurationen](getting-started/inheriting-a-marketo-instance/document-your-setup.md)
 + Produktdokument {#product-docs}
    + Ytterligare program {#additional-apps}
       + SEO {#seo}
