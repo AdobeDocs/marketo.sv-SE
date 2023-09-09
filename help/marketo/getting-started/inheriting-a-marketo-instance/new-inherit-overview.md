@@ -3,7 +3,7 @@ description: Lär dig hur du optimerar och skalförändrar en befintlig Marketo 
 title: HoppaStarta en ärvd Marketo Engage-instans
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
 workflow-type: tm+mt
 source-wordcount: '333'
 ht-degree: 0%
@@ -36,15 +36,15 @@ Checklistorna nedan har sammanställts med synpunkter från Marketo Champions f�
 
 Du kan även hämta checklistorna i kalkylbladsformulär.
 
-* [Administratörsavsnittet](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
+* [Administratörsavsnittet](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
 
-* [Databas](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
+* [Databas](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)
 
-* [Marknadsföringsaktiviteter](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+* [Marknadsföringsaktiviteter](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
 
-* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
+* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
 
-* [Dokumentera dina ärvda instansinställningar](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
+* [Dokumentera dina ärvda instansinställningar](/help/marketo/getting-started/inheriting-a-marketo-instance/document-your-setup.md)
 
 ## Sätt att få hjälp {#ways-to-get-help}
 

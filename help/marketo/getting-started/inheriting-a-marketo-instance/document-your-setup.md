@@ -3,9 +3,9 @@ description: Ärvda instansdokument Dina inställningar - Marketo Docs - Produkt
 title: Ärvda instansdokument Dina inställningar
 hide: true
 hidefromtoc: true
-source-git-commit: 8660e8a7afa239c51cfed9e6e90e35aeedf6884f
+source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Nu när du har lärt dig de viktigaste produktområdena att granska när du ärv
    <td>Indata</td> 
    <td><li>Vilka system matar data till Marketo Engage?</li>
    <li>Läser de in data i program eller i databasen? Vilka program?</li>
-   <p>Åtgärd: Skapa en datamordlista/fältmappningstabell mellan system.</td>
+   <p><img src="assets/action-item-icon.png" alt="ikon för funktionsmakroobjekt">Åtgärd: Skapa en datamordlista/fältmappningstabell mellan system.</td>
   </tr>
   <tr> 
    <td>Utdata</td> 
@@ -51,7 +51,7 @@ Nu när du har lärt dig de viktigaste produktområdena att granska när du ärv
   <tr> 
    <td>Organisation</td> 
     <td><li>Har du robust dokumentation för hur din Marketo Engage-instans är organiserad och varför?</li>
-   <p>Åtgärd: Skapa dokumentation som innehåller mappstruktur, namnkonvention och kanaler som används i din instans.</td>
+   <p><p><img src="assets/action-item-icon.png" alt="ikon för funktionsmakroobjekt">Åtgärd: Skapa dokumentation som innehåller mappstruktur, namnkonvention och kanaler som används i din instans.</td>
   </tr>
   <tr> 
    <td>Changelog</td> 
@@ -70,4 +70,4 @@ Nu när du har lärt dig de viktigaste produktområdena att granska när du ärv
  </tbody> 
 </table>
 
-[◄ Granska en ärvd instans: Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
+[◄ Granska en ärvd instans: Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
