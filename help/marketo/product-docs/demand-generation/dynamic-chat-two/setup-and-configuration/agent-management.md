@@ -1,16 +1,18 @@
 ---
-description: Dok - Marketo Docs - produktdokumentation
-title: Dok
+description: Agenthantering - Marketo Docs - produktdokumentation
+title: Agenthantering
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 2e18242afb1600ca0e63f9ab777a7ba4ad1e5fbc
+source-git-commit: 801c9935cacf79971ce42a9517647e310a1ed25a
 workflow-type: tm+mt
-source-wordcount: '9'
+source-wordcount: '36'
 ht-degree: 0%
 
 ---
 
-# Dok {#doc}
+# Agenthantering {#agent-management}
 
-Kommer snart
+I Agenthantering kan du visa en lista med agenter i din Dynamic Chat-instans, hantera team och ange dina reservregler.
+
+Regler för grupphantering av agentlista
