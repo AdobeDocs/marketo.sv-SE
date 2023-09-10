@@ -4,10 +4,10 @@ title: Översikt över Dynamic Chat
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
+source-git-commit: 3fc84a0e679b0b27aaf4ee251668a3ba0a62f9ef
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '873'
+ht-degree: 1%
 
 ---
 
@@ -55,7 +55,7 @@ Här kan du se en lista över alla agenter som har kopplat samman sina kalendrar
 
 ## Live Chatt {#live-chat}
 
-Erbjud dina kvalificerade webbbesökare att få kontakt med säljarna via live-chatt. LÄNKA TILL DOC
+Erbjud dina kvalificerade webbbesökare att komma i kontakt med säljarna via [live-chatt](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md){target="_blank"}.
 
 ## Vanliga frågor {#faq}
 

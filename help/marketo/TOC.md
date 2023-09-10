@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
+source-git-commit: 3fc84a0e679b0b27aaf4ee251668a3ba0a62f9ef
 workflow-type: tm+mt
-source-wordcount: '9095'
+source-wordcount: '9153'
 ht-degree: 0%
 
 ---
@@ -648,9 +648,35 @@ ht-degree: 0%
          + [Lägg till LinkedIn Matched Audiences som en LaunchPoint-tjänst](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Skicka en lista till ett annonsnätverk](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Dynamic Chat två {#dynamic-chat-two}
+         + [Översikt över Dynamic Chat](product-docs/demand-generation/dynamic-chat-two/automated-chat/dynamic-chat-overview.md)
+         + [Chatbot-beteende](product-docs/demand-generation/dynamic-chat-two/automated-chat/chatbot-behavior.md)
+         + [Möteslista](product-docs/demand-generation/dynamic-chat-two/automated-chat/meeting-list.md)
+         + [Dynamic Chat verksamhet](product-docs/demand-generation/dynamic-chat-two/automated-chat/dynamic-chat-activites.md)
+         + [Analyser](product-docs/demand-generation/dynamic-chat-two/automated-chat/analytics.md)
          + Automatiserad chatt {#automated-chat}
-            + [Konversationsflödesinställningar](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
             + [Översikt över konversationsflöden](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md)
+            + [Skapa ett konversationsflöde](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-conversational-flow.md)
+            + [Konversationsflödesinställningar](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
+            + [Konversationer SDK](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversations-sdk.md)
+            + [Översikt över dialogrutan](product-docs/demand-generation/dynamic-chat-two/automated-chat/doc.md)
+            + [Skapa en dialogruta](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md)
+            + [Målgruppskriterier](product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md)
+            + [Stream Designer](product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md)
+            + [Rapporter](product-docs/demand-generation/dynamic-chat-two/automated-chat/reports.md)
+         + Integreringar {#integrations}
+            + [Adobe Marketo Engage](product-docs/demand-generation/dynamic-chat-two/integrations/adobe-marketo-engage.md)
+            + [Adobe PDF Embed API](product-docs/demand-generation/dynamic-chat-two/integrations/adobe-pdf-embed-api.md)
+         + Live Chatt {#live-chat}
+            + [Agent Inbox](product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md)
+            + [Meddelanden](product-docs/demand-generation/dynamic-chat-two/live-chat/notifications.md)
+         + Installation och konfiguration {#setup-and-configuration}
+            + [Inledande konfiguration](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/initial-setup.md)
+            + [Lägg till eller ta bort chattanvändare](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/add-or-remove-chat-users.md)
+            + [Konfiguration](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/configuration.md)
+            + [Agentinställningar](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md)
+            + [Agenthantering](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md)
+            + [Skyddsinställningar](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/security-settings.md)
+            + [Routning](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/routing.md)
       + Dynamic Chat {#dynamic-chat}
          + [Frigör infogningar](product-docs/demand-generation/dynamic-chat/release-inserts.md)
          + [Översikt över Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
