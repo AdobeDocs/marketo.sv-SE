@@ -4,10 +4,10 @@ title: Översikt över Dynamic Chat
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 3fc84a0e679b0b27aaf4ee251668a3ba0a62f9ef
+source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
 workflow-type: tm+mt
-source-wordcount: '873'
-ht-degree: 1%
+source-wordcount: '665'
+ht-degree: 0%
 
 ---
 
@@ -109,90 +109,29 @@ Följ de här stegen för att ändra Dynamic Chat.
 
 När du uppdaterar språket ändras allt i själva programmet utom orden som du har fyllt i personligen (t.ex. strömningssvar).
 
-## Gränser i Dynamic Chat {#limits-in-dynamic-chat}
+## Bevarandegränser för data i Dynamic Chat {#dynamic-chat-data-retention-limits}
 
 <table>
-  <th>Parameter</th>
-  <th>Beskrivning</th>
-  <th>Gräns</th>
+  <th>Datatyp</th>
+  <th>Kvarhållningsperiod</th>
  <tr>
-  <td>Totalt antal dialogrutor</td>
-  <td>Antal dialogrutor (publicerade och utkast)</td>
-  <td>500</td>
- </tr>
- <tr>
-  <td>Totalt antal kalendrar</td>
-  <td>Antal anslutna kalendrar</td>
-  <td>25</td>
- </tr>
- <tr>
-  <td>Totalt antal användare (administratörer och marknadsföringsanvändare)</td>
-  <td>Antal kombinerade användare som tillåts per Dynamic Chat-instans</td>
-  <td>50</td>
- </tr>
- <tr>
-  <td>Publicerade dialogrutor</td>
-  <td>Antal publicerade dialogrutor som har sparats</td>
-  <td>100</td>
- </tr>
- <tr>
-  <td>Mål-URL:er per dialogruta</td>
-  <td>Antal mål-URL:er som kan läggas till i en enda dialogruta</td>
-  <td>20</td>
- </tr>
- <tr>
-  <td>Attribut per dialogruta</td>
-  <td>Antal attribut som kan läggas till i målgruppsvillkor för en enskild dialogruta</td>
-  <td>100</td>
- </tr>
- <tr>
-  <td>Grupper</td>
-  <td>Antal grupper som kan läggas till i en enda dialogruta</td>
-  <td>10</td>
- </tr>
- <tr>
-  <td>Attribut per grupp</td>
-  <td>Antal attribut som kan läggas till i en grupp</td>
-  <td>10</td>
- </tr>
- <tr>
-  <td>Kort</td>
-  <td>Antal kort som kan läggas till i arbetsytan per dialogruta</td>
-  <td>500</td>
- </tr>
- <tr>
-  <td>Lagringsperiod för anonyma leaddata</td>
-  <td>Hur länge information om ett anonymt lead utan något åtagande sparas</td>
+  <td>Anonym lead utan engagemang</td>
   <td>90 dagar</td>
  </tr>
  <tr>
-  <td>Lagringsperiod för målaktivitet</td>
-  <td>Information om målaktivitet för tid behålls</td>
+  <td>Målaktivitet</td>
   <td>24 månader</td>
  </tr>
  <tr>
-  <td>Lagringsperiod för dokumentaktivitet</td>
-  <td>Hur länge dokumentaktivitetsdata sparas</td>
+  <td>Dokumentaktivitet</td>
   <td>24 månader</td>
  </tr>
  <tr>
-  <td>Interaktion med kvarhållningsperiod för dialogaktivitet</td>
-  <td>Den tid som interagerats med dialogaktivitetsdata behålls</td>
+  <td>Interaktion med dialogaktivitet</td>
   <td>90 dagar</td>
  </tr>
  <tr>
-  <td>Bevarandeperiod för mötesbokningsaktivitet</td>
-  <td>Den tid som mötesbokningen ska sparas i Dynamic Chat</td>
+  <td>Mötesbokningsaktivitet</td>
   <td>24 månader</td>
- </tr>
- <tr>
-  <td>Engagerade konversationer</td>
-  <td>Antal chattkonversationer som webbesökare kan interagera med per månad</td>
-  <td>250</td>
- </tr>
- <tr>
-  <td>Konversationer utlösta</td>
-  <td>Antal chattsamtal som kan visas för webbbesökare per månad</td>
-  <td>25,000</td>
  </tr>
 </table>
