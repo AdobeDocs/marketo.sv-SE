@@ -4,16 +4,16 @@ title: Agentinställningar
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 801c9935cacf79971ce42a9517647e310a1ed25a
+source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
 
 # Agentinställningar {#agent-settings}
 
-Anslut Outlook- eller Gmail-kalendern på fliken Kalender för användning vid schemaläggning av möten i chattbot.
+Anslut din Outlook- eller Gmail-kalender på fliken Kalenderkonfiguration för att använda vid schemaläggning av möten i chattbot.
 
 ## Anslut kalender {#connect-calendar}
 
@@ -50,14 +50,14 @@ När du konfigurerar med Google tilldelas Dynamic Chat följande behörigheter:
 * Ändra vem kalendern delas med
 * Åtkomst till ditt namn, din e-postadress, språkpreferens och profilbild
 
-## Tillgänglighetsinställningar för live-chatt {#live-chat-availability-settings}
-
-Text
-
-## Tillgänglighetsinställningar för mötesbokning {#meeting-booking-availability-settings}
+## Mötesbokning - tillgänglighet {#meeting-booking-availability}
 
 Text
 
 ## Möteslängd och bufferttid {#meeting-length-and-buffer-time}
+
+Text
+
+## Tillgänglighet för live-chatt {#live-chat-availability}
 
 Text

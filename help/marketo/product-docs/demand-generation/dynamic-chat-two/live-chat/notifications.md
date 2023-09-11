@@ -1,18 +1,16 @@
 ---
-description: Dok - Marketo Docs - produktdokumentation
-title: Dok
+description: Notifications - Marketo Docs - Product Documentation
+title: Meddelanden
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
+source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '12'
 ht-degree: 0%
 
 ---
 
-# Dok {#doc}
-
-Kommer snart
+# Meddelanden {#notifications}
 
 Webbläsare i programmets MSI-åtgärder

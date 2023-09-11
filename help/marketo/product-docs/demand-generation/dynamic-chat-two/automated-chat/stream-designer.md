@@ -4,9 +4,9 @@ title: Stream Designer
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
+source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '980'
 ht-degree: 0%
 
 ---
@@ -56,8 +56,8 @@ Strömdesignern innehåller flera kort som du kan lägga till för att forma cha
  <tr>
   <td><strong>Live Chatt</strong></td>
   <td>Använd chattkortet när du vill att besökarna ska chatta med en live-agent.
-  <li>Direktchattkortet måste vara det sista kortet i grenen</li>
-  <li>Besökarna dirigeras till en agent så snart de kommer till det här kortet i strömmen, så vi rekommenderar att du före det här kortet tillfrågar besökarna ett frågekort om de vill chatta med en handläggare</li></td>
+  <li>Chattkortet måste vara det sista kortet i grenen.</li>
+  <li>Besökarna dirigeras till en agent så snart de kommer till kortet i strömmen, så vi rekommenderar att du före kortet tillfrågar besökarna om de vill chatta med en Live-agent.</li></td>
  </tr>
 </table>
 

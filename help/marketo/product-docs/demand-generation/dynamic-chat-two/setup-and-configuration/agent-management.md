@@ -4,9 +4,9 @@ title: Agenthantering
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ce4daadc8351faaeb6537e75ec7d9f96bd835e5c
+source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -60,6 +60,10 @@ Välj ett standardmeddelande (systemmeddelande) eller skriv ett anpassat meddela
 Välj ett standardmeddelande (systemmeddelande) eller skriv ett anpassat meddelande så att besökarna kan se när Live-chatten är otillgänglig.
 
 ![](assets/agent-management-9.png)
+
+>[!NOTE]
+>
+>Markera **Inkludera bokningsalternativ för möte** kommer att generera en mötesbokningswidget för chattbesökaren.
 
 >[!TIP]
 >
