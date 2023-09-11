@@ -4,9 +4,9 @@ title: Målgruppskriterier
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -23,8 +23,6 @@ Prioritet avgör vilken dialog ett lead får om de kvalificerar sig för mer än
 
 ## Händelser {#events}
 
-![](assets/audience-criteria-2.png)
-
 Med händelser kan ni rikta in er på besökarna baserat på hur mycket de rullar eller hur länge de finns på sidan/webbplatsen. I exemplet nedan riktar vi oss till besökare som har varit på en viss sida i mer än 20 sekunder.
 
 1. Ta tag i **Tid på sidan** och dra den åt höger.
@@ -40,8 +38,6 @@ Med händelser kan ni rikta in er på besökarna baserat på hur mycket de rulla
    ![](assets/audience-criteria-5.png)
 
 ## Attribut {#attributes}
-
-![](assets/audience-criteria-6.png)
 
 **Kända personer**
 
@@ -96,6 +92,18 @@ Det finns ett enkelt sätt att specifikt rikta in sig på personer som inte finn
 1. _Är_ är inställt som standard. I fältet Välj värden skriver du NY (du kan också klicka på listrutan och välja från listan).
 
    ![](assets/audience-criteria-15.png)
+
+## medlemskap {#membership}
+
+Använd Marketo Engage Smart Lists för er målgrupp i dialogrutan.
+
+1. Under Medlemskap, ta **Medlem i Smart List** och släpp det på arbetsytan.
+
+   ![](assets/audience-criteria-15a.png)
+
+1. Välj önskad smart lista.
+
+   ![](assets/audience-criteria-15b.png)
 
 ## Lägg till grupper {#add-groups}
 

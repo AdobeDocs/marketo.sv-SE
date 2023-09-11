@@ -4,7 +4,7 @@ title: Routning
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -54,7 +54,6 @@ I det här exemplet skickar vi alla möten från de härledda delstaterna CA, OR
 1. När alla önskade värden är markerade klickar du på **Spara**.
 
    ![](assets/routing-8.png)
-
 
 ## Kontodirigering {#account-routing}
 

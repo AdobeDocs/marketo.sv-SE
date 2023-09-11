@@ -4,9 +4,9 @@ title: Konversationsflödesinställningar för Marketo Engage Forms
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 59a1dfe1a6ca638cdbc18a7163e64dc2bac25bb5
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ Skapa samtal mellan Marketo Engage Forms genom att integrera dem med Dynamic Cha
 >[!PREREQUISITES]
 >
 >LÄGG TILL FÖREGÅENDE HÄR
+
+>[!AVAILABILITY]
+>
+>Medlem i Smart List eller Medlem i List-kriterier kräver Dynamic Chat Prime.
 
 1. Hitta och välj ett formulär (eller skapa ett nytt).
 

@@ -4,7 +4,7 @@ title: Översikt över live-chatt
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Använd chattkortet i [strömdesigner](/help/marketo/product-docs/demand-generat
 **Bästa praxis**
 
 * Använd ett frågekort före live-chattkortet och fråga besökaren om de vill ansluta.
-* När besökaren har gått med på att ansluta kan du använda informationskortet för att hämta viss information, som för-/efternamn, e-postadress, jobbtitel osv. (det rekommenderas att minst begära förnamn och e-postadress)
+* När besökaren har gått med på att ansluta använder du informationskortet för att samla in en del av deras information, t.ex. för-/efternamn, e-postadress, befattning osv. (du bör begära minst förnamn och e-postadress).
 
 ## Alternativ för chattkort live {#live-chat-card-options}
 

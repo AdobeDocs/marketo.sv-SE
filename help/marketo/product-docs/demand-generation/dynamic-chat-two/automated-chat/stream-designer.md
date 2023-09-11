@@ -4,9 +4,9 @@ title: Stream Designer
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '980'
+source-wordcount: '1024'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,11 @@ Strömdesignern innehåller flera kort som du kan lägga till för att forma cha
  </tr>
  <tr>
   <td><strong>Schemaläggare för avtalad tid</strong></td>
-  <td>Ger besökaren en kalender med tillgängliga datum för att schemalägga en uppföljning. Kalendertillgängligheten återspeglar <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">nästa anställd i rad</a>.</td>
+  <td>Ger besökaren en kalender med tillgängliga datum för att schemalägga en uppföljning. Kalendertillgängligheten återspeglar <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">nästa anställd i rad</a>. Det finns också ett alternativ för att skicka attribut som agentens namn eller e-postadress.</td>
+ </tr>
+ <tr>
+  <td><strong>Mötesbokning</strong></td>
+  <td>Ger besökaren en kalender med tillgängliga datum för att schemalägga ett möte. Välj kalendertillgänglighet via resursallokering, en specifik agentes eller med anpassade regler.</td>
  </tr>
  <tr>
   <td><strong>Mål</strong></td>
@@ -68,19 +72,19 @@ I det övre högra hörnet av Stream Designer visas en handfull ikoner. Så här
 <table>
  <tr>
   <td><img src="assets/stream-designer-1.png"></td>
-  <td>Lägger till ett rutnät i bakgrunden för dem som föredrar den vyn</td>
- </tr>
- <tr>
-  <td><img src="assets/stream-designer-2.png"></td>
   <td>Zoomar in, skapar större kort</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-3.png"></td>
+  <td><img src="assets/stream-designer-2.png"></td>
   <td>Zoomar ut, skapa mindre kort</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-4.png"></td>
+  <td><img src="assets/stream-designer-3.png"></td>
   <td>Öppnar ett fönster där du kan testa chatten (tryck på samma knapp för att stänga)</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-4.png"></td>
+  <td>Gör att du kan söka efter korttyper eller innehåll i strömmen</td>
  </tr>
  <tr>
   <td><img src="assets/stream-designer-5.png"></td>
@@ -211,4 +215,3 @@ I det övre högra hörnet av Stream Designer visas en handfull ikoner. Så här
 >* [Målgruppskriterier](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
 >* [Rapporter](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
 >* [Använda dokumentkortet](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"}
-

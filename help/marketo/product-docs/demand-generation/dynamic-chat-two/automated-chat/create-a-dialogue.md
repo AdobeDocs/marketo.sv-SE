@@ -4,9 +4,9 @@ title: Skapa en dialogruta
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '80'
 ht-degree: 1%
 
 ---
@@ -31,9 +31,10 @@ Så här skapar du en ny dialogruta.
 >
 >Prioritet avgör vilken dialogruta som visas för en besökare när de kvalificerar sig för flera dialogrutor samtidigt.
 
+Lär dig sedan hur du [skapa en ström](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md#create-a-stream){target="_blank"}.
+
 >[!MORELIKETHIS]
 >
 >* [Målgruppskriterier](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
 >* [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}
 >* [Rapporter](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
-
