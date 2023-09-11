@@ -4,20 +4,24 @@ title: Agentinställningar
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '479'
 ht-degree: 0%
 
 ---
 
 # Agentinställningar {#agent-settings}
 
-Anslut din Outlook- eller Gmail-kalender på fliken Kalenderkonfiguration för att använda vid schemaläggning av möten i chattbot.
+Konfigurera din kalender och ange tillgänglighet för möte/live-chatt.
+
+![](assets/agent-settings-1.png)
 
 ## Anslut kalender {#connect-calendar}
 
-![](assets/agent-settings-1.png)
+Anslut din Outlook- eller Gmail-kalender på fliken Kalenderkonfiguration för att använda vid schemaläggning av möten i chattbot.
+
+![](assets/agent-settings-2.png)
 
 När en användares kalender är ansluten till Dynamic Chat läggs de till i kön och deras kalender blir tillgänglig för webbplatsbesökare att schemalägga avtalade tider på.
 
@@ -27,7 +31,7 @@ När en användares kalender är ansluten till Dynamic Chat läggs de till i kö
 
 Användare kan också anpassa innehållet i den inbjudan som skickas till besökaren när de schemalägger en avtalad tid i användarens kalender. De kan också markera kryssrutan längst ned för att inkludera länken Google Meet eller Microsoft Teams (beroende på vilken kalender som var ansluten).
 
-![](assets/agent-settings-2.png)
+![](assets/agent-settings-3.png)
 
 >[!TIP]
 >
@@ -52,12 +56,39 @@ När du konfigurerar med Google tilldelas Dynamic Chat följande behörigheter:
 
 ## Mötesbokning - tillgänglighet {#meeting-booking-availability}
 
-Text
+Ange din tidszon och tid/dag i veckan som du vill ha för att ta emot mötesbokningar.
 
-## Möteslängd och bufferttid {#meeting-length-and-buffer-time}
+![](assets/agent-settings-4.png)
 
-Text
+<table> 
+ <tbody> 
+  <tr> 
+   <td><b>Mötets längd</b></td>
+   <td>Maximal möteslängd. - VAD HÄNDER? SLUTAR DU AUTOMATISKT?</td>
+  </tr> 
+  <tr> 
+   <td><b>Bufferttid mellan möten</b></td>
+   <td>Den tid du anger som buffert efter mötet. Om du anger det i 30 minuter kan ingen boka ett möte med dig förrän 31 minuter efter det schemalagda slutet av ett möte i kalendern. 31 eller 30??????????</td>
+  </tr>
+ </tbody> 
+</table>
+
+>[!TIP]
+>
+>Du kan markera flera tidsblock på samma dag (t.ex. fredag från 8a-12p _och_ 1p-5p) genom att klicka på **+** till höger.
 
 ## Tillgänglighet för live-chatt {#live-chat-availability}
 
-Text
+Ange din tidszon och tid/veckodag som tillgänglig för att ta emot chattar live.
+
+![](assets/agent-settings-5.png)
+
+Om du är inloggad på appen får du ett meddelande i appen om en inkommande chatt. Om du inte är inloggad får du ett webbläsarmeddelande (i Google Chrome).
+
+>[!IMPORTANT]
+>
+>The [tillgänglighet växla](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#availability-toggle){target="_blank"} i agentinkorgen **åsidosätter** vad du anger på fliken Live-chatttillgänglighet. Så om du är schemalagd som tillgänglig från 1p-5p men behöver ta en snabb paus vid 3p behöver du inte ändra dina agentinställningar. Du kan växla status tills du byter den manuellt eller tills nästa tidsblock i tillgängligheten nås.
+
+>[!TIP]
+>
+>Du kan markera flera tidsblock på samma dag (t.ex. fredag från 8a-12p _och_ 1p-5p) genom att klicka på **+** till höger.

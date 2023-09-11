@@ -4,9 +4,9 @@ title: Agenthantering
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ I Agenthantering kan du visa en lista med agenter i din Dynamic Chat-instans, ha
 
 ## Agenter {#agents}
 
-På den här fliken visas alla agenter i din Dynamic Chat-instans och den innehåller information om deras namn, e-postadress, Live-chattstatus med mera.
+På den här fliken visas alla agenter i din Dynamic Chat-instans och den innehåller information om deras namn, e-postadress, chattstatus och annat.
 
 PICC2 - BEHÖVER SCREENSHOT FRÅN GUYS
 
@@ -63,7 +63,7 @@ Välj ett standardmeddelande (systemmeddelande) eller skriv ett anpassat meddela
 
 >[!NOTE]
 >
->Markera **Inkludera bokningsalternativ för möte** kommer att generera en mötesbokningswidget för chattbesökaren.
+>Markera **Inkludera bokningsalternativ för möte** kryssrutan ger chattbesökaren möjlighet att boka ett möte när inga agenter är tillgängliga för live-chatt.
 
 >[!TIP]
 >

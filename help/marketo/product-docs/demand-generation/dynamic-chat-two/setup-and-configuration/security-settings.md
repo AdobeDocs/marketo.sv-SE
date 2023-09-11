@@ -1,16 +1,34 @@
 ---
-description: Dok - Marketo Docs - produktdokumentation
-title: Dok
+description: Säkerhetsinställningar - Marketo Docs - produktdokumentation
+title: Skyddsinställningar
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 2e18242afb1600ca0e63f9ab777a7ba4ad1e5fbc
+source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
 workflow-type: tm+mt
-source-wordcount: '9'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
-# Dok {#doc}
+# Skyddsinställningar {#security-settings}
 
-Kommer snart
+I Skyddsinställningar kan du lägga till domäner till blockerade domäner eller tillåtelselista.
+
+![](assets/security-settings-1.png)
+
+## Blockerade e-postdomäner {#blocked-email-domains}
+
+1. Välj **Aktivera validering** för att aktivera blockeringslista. Ange upp till 50 domäner och klicka på **Spara**.
+
+   ![](assets/security-settings-2.png)
+
+>[!CAUTION]
+>
+>Var säker **NOT** att lägga till `adobeeventlab.com` till blockeringslista, eller? INAKTIVERA CHATT??
+
+## Tillåtna domäner {#allowed-domains}
+
+1. Välj **Aktivera validering** för att aktivera tillåtelselista. Ange tillåtna domäner och klicka på **Spara**.
+
+   ![](assets/security-settings-3.png)

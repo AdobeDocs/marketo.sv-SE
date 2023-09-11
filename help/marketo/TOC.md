@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 801c9935cacf79971ce42a9517647e310a1ed25a
+source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
 workflow-type: tm+mt
-source-wordcount: '9153'
+source-wordcount: '9156'
 ht-degree: 0%
 
 ---
@@ -667,6 +667,7 @@ ht-degree: 0%
             + [Adobe Marketo Engage](product-docs/demand-generation/dynamic-chat-two/integrations/adobe-marketo-engage.md)
             + [Adobe PDF Embed API](product-docs/demand-generation/dynamic-chat-two/integrations/adobe-pdf-embed-api.md)
          + Live Chatt {#live-chat}
+            + [Översikt över live-chatt](product-docs/demand-generation/dynamic-chat-two/live-chat/live-chat-overview.md)
             + [Agent Inbox](product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md)
             + [Meddelanden](product-docs/demand-generation/dynamic-chat-two/live-chat/notifications.md)
          + Installation och konfiguration {#setup-and-configuration}

@@ -4,9 +4,9 @@ title: Agent Inbox
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 4d5f0c1c2fa050d4da38daaff1a1be3725bda1d7
+source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,10 @@ I det övre högra hörnet av skärmen Agent Inbox kan du ange att din status ä
 >
 >**Det här åsidosätter** den [live chatttillgänglighet](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability) som du har etablerat i Agentinställningar. Statusen kvarstår tills du antingen byter tillbaka den eller till nästa tidsblock i tillgängligheten.
 
+>[!NOTE]
+>
+>Inga aktiva chattar påverkas om du anger att din status är otillgänglig.
+
 ## Acceptera en chatt {#accepting-a-live-chat}
 
 När en live-chatt dirigeras till agenten ser de en blå banderoll högst upp på skärmen och ber dem att godkänna.
@@ -36,7 +40,6 @@ När en live-chatt dirigeras till agenten ser de en blå banderoll högst upp p�
 ### Saker att notera {#things-to-note}
 
 * Agenter har 45 sekunder på sig att svara innan meddelandet&quot;Godkänn chatt&quot; går ut.
-* WEBBLÄSARTIDBIT
 * Det finns för närvarande en gräns på 10 chatt per agent
 
 ## Konversationer {#conversations}
@@ -44,6 +47,10 @@ När en live-chatt dirigeras till agenten ser de en blå banderoll högst upp p�
 Till vänster på skärmen Agent Inbox kan du välja att bara visa de aktiva konversationerna, eller alla.
 
 ![](assets/agent-inbox-4.png)
+
+>[!NOTE]
+>
+>Du kan se tidigare (inaktiva) konversationer från dig själv och andra agenter, men du kan bara se dina egna aktiva konversationer.
 
 ## Besökarinformation {#visitor-information}
 
@@ -61,4 +68,18 @@ Under besökarinformationen finns aktivitetshistorik. Visa aktivitetstyper och d
 >
 >Informationen visas endast under de senaste 90 dagarna.
 
-Aktiva konversationer - Alla konversationer - Information om kalenderdelning av besökare - Senaste Dynamic Chat-aktiviteter
+## Kalenderdelning {#calendar-sharing}
+
+Längst ned i chattfönstret finns en ikon som gör att du kan dela din eller en annan agentes kalender med chattbesökaren.
+
+1. Klicka på kalenderikonen.
+
+   ![](assets/agent-inbox-7.png)
+
+1. Välj önskad agentkalender och klicka på **Skicka**.
+
+   ![](assets/agent-inbox-8.png)
+
+1. Chattbesökaren kan boka ett möte.
+
+   ![](assets/agent-inbox-9.png)
