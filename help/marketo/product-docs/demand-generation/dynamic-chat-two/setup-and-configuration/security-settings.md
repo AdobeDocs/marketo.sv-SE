@@ -4,9 +4,9 @@ title: Skyddsinställningar
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -22,10 +22,6 @@ I Skyddsinställningar kan du lägga till domäner till blockerade domäner elle
 1. Välj **Aktivera validering** för att aktivera blockeringslista. Ange upp till 50 domäner och klicka på **Spara**.
 
    ![](assets/security-settings-2.png)
-
->[!CAUTION]
->
->Var säker **NOT** att lägga till `adobeeventlab.com` till blockeringslista, eller? INAKTIVERA CHATT??
 
 ## Tillåtna domäner {#allowed-domains}
 

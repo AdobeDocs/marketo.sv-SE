@@ -4,9 +4,9 @@ title: Routning
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
@@ -61,6 +61,6 @@ Identifiera och överför ditt målkonto och respektive säljare och skicka bes�
 
 ![](assets/routing-9.png)
 
-Grupproutning
+Teamdirigering - DELETE DESSA REFERENSER FÖR NU
 
-Medlem i Smart List-routning
+Medlem i Smart List-routning - EVENTUELLT FÖRDRÖJD

@@ -4,30 +4,28 @@ title: Skapa ett konversationsflöde
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
 # Skapa ett konversationsflöde {#create-a-conversational-flow}
 
-Utforma ett konversationsflöde och aktivera det för alla besökare baserat på en specifik åtgärd (t.ex. genom att klicka på en knapp för att ringa upp, vid sidinläsning, hur lång tid som tillbringats på sidan).
-
-Vill du säga skillnaden från Dialogs????????????
+Så här skapar du ett nytt konversationsflöde.
 
 1. Under Automatiserad chatt klickar du på **Konversationsflöden**.
 
-PICC
+   ![](assets/create-a-conversational-flow-1.png)
 
 1. Klicka **Skapa konversationsflöde**.
 
-PICC
+   ![](assets/create-a-conversational-flow-2.png)
 
 1. Välj ett tomt konversationsflöde eller någon av de förifyllda mallarna. Ange ett namn (beskrivningen är valfri), ändra språk (valfritt) och klicka på **Skapa**.
 
-PICC
+   ![](assets/create-a-conversational-flow-3.png)
 
 >[!NOTE]
 >
