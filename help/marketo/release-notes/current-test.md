@@ -4,10 +4,10 @@ title: Testa aktuell versionsinformation
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
+source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
 workflow-type: tm+mt
-source-wordcount: '1083'
-ht-degree: 2%
+source-wordcount: '1209'
+ht-degree: 1%
 
 ---
 
@@ -41,8 +41,8 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 <table>
   <tr> 
-   <td><b>Funktion</b></td>
-   <td><strong>Används av räkningskolumn för Design Studio-resurser</strong>: Med Marketo Engage-programmets referensbibliotek kan användare importera exempelprogram och andra resurser som motsvarar bästa praxis som rekommenderas av Adobe. Vårt produkthanteringsteam har uppdaterat biblioteket helt och hållet, vilket ger mer värdefulla verktyg för dem som vill komma igång snabbt.</td>
+   <td style="width:20%"><b>Funktion</b></td>
+   <td style="width:80%"><strong>Används av räkningskolumn för Design Studio-resurser</strong>: Med Marketo Engage-programmets referensbibliotek kan användare importera exempelprogram och andra resurser som motsvarar bästa praxis som rekommenderas av Adobe. Vårt produkthanteringsteam har uppdaterat biblioteket helt och hållet, vilket ger mer värdefulla verktyg för dem som vill komma igång snabbt.</td>
   </tr>
   <tr> 
    <td><b>Status</b></td>
@@ -58,9 +58,9 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Funktion</th> 
-   <th>Status</th>
-   <th>Dokumentation</th>
+   <th style="width:70%">Funktion</th> 
+   <th style="width:15%">Status</th>
+   <th style="width:15%">Dokumentation</th>
   </tr> 
   <tr> 
    <td><strong>Marketo Reference Library</strong>: Med Marketo Engage-programmets referensbibliotek kan användare importera exempelprogram och andra resurser som motsvarar bästa praxis som rekommenderas av Adobe. Vårt produkthanteringsteam har uppdaterat biblioteket helt och hållet, vilket ger mer värdefulla verktyg för dem som vill komma igång snabbt.</td> 
@@ -80,9 +80,44 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
  </tbody> 
 </table>
 
+* space
 
+* space
 
+* mer utrymme
 
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:65%">Funktion</th> 
+   <th style="width:15%">Status</th>
+   <th style="width:20%">Dokumentation</th>
+  </tr> 
+  <tr> 
+   <td><strong>Marketo Reference Library</strong>: Med Marketo Engage-programmets referensbibliotek kan användare importera exempelprogram och andra resurser som motsvarar bästa praxis som rekommenderas av Adobe. Vårt produkthanteringsteam har uppdaterat biblioteket helt och hållet, vilket ger mer värdefulla verktyg för dem som vill komma igång snabbt.</td> 
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Översikt över programimportbiblioteket</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Används av räkningskolumn för Design Studio-resurser</strong>: Med Marketo Engage-programmets referensbibliotek kan användare importera exempelprogram och andra resurser som motsvarar bästa praxis som rekommenderas av Adobe. Vårt produkthanteringsteam har uppdaterat biblioteket helt och hållet, vilket ger mer värdefulla verktyg för dem som vill komma igång snabbt.</td> 
+   <td><i>Kommer snart</i></td>
+   <td><i>Kommer snart</i></td>
+  </tr>
+ </tbody> 
+</table>
+
+* space
+
+* space
+
+* mer utrymme
+
+* testslut... FÖR NU
 
 * **Används av räkningskolumn för Design Studio-resurser**:
 
