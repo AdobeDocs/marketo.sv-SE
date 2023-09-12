@@ -4,9 +4,9 @@ title: Översikt över Dynamic Chat
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
+source-git-commit: 6682ff8611c0be30599b7bb6f516f9d7ba7ba926
 workflow-type: tm+mt
-source-wordcount: '665'
+source-wordcount: '658'
 ht-degree: 0%
 
 ---
@@ -65,7 +65,7 @@ JavaScript-kodfragmentet Dynamic Chat kan installeras på alla webbplatser och p
 
 **Hur länge lagras data för rapportering?**
 
-90 dagar (se den fullständiga listan över gränser) [nedan](#limits-in-dynamic-chat)).
+90 dagar.
 
 **Tillåter Dynamic Chat live-chatt?**
 
