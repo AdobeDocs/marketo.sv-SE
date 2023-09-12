@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: c2a3e2915c8a205f03c4bf578e6b2479af1206b3
 workflow-type: tm+mt
-source-wordcount: '9160'
+source-wordcount: '9159'
 ht-degree: 0%
 
 ---
@@ -668,7 +668,6 @@ ht-degree: 0%
          + Live Chatt {#live-chat}
             + [Översikt över live-chatt](product-docs/demand-generation/dynamic-chat-two/live-chat/live-chat-overview.md)
             + [Agent Inbox](product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md)
-            + [Meddelanden](product-docs/demand-generation/dynamic-chat-two/live-chat/notifications.md)
          + Installation och konfiguration {#setup-and-configuration}
             + [Inledande konfiguration](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/initial-setup.md)
             + [Lägg till eller ta bort chattanvändare](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/add-or-remove-chat-users.md)
