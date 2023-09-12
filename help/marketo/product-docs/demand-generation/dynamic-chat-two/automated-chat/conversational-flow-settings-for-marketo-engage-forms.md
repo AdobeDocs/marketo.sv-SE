@@ -4,7 +4,7 @@ title: Konversationsflödesinställningar för Marketo Engage Forms
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
+source-git-commit: b894b6fa62c6939ba450fa259b4cf5290b4582f5
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Skapa samtal mellan Marketo Engage Forms genom att integrera dem med Dynamic Cha
 
    >[!NOTE]
    >
-   >[Läs mer om konversationsflöden](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md){target="_blank"}
+   >[Läs mer om konversationsflöden](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md){target="_blank"}
 
    **VALFRITT STEG**: Du kan klicka på Lägg till val om du vill rikta in dig på chattbesökare som uppfyller ett visst villkor.
 
