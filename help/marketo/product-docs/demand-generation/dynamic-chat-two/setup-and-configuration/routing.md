@@ -4,9 +4,9 @@ title: Routning
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: df719d0db50009180e707b88b53115d4a62f35bf
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ Möten som bokats i Dynamic Chat kan dirigeras på två sätt. Rundar av eller a
 Runda av: Möten tilldelas agenter sekventiellt. Så om du har fem agenter och agent tre tog det senaste mötet, så får agent fyra nästa, följt av agent fem, sen till agent ett.
 
 Anpassad regel: Du kan välja särskilda agenter för att få möten baserat på de attribut du väljer.
+
+>[!NOTE]
+>
+>Kontodirigering har högsta prioritet. När en besökare når punkten i konversationen för att antingen boka ett möte eller starta en live-chatt, [Kontodirigering](#account-routing) kontrolleras först innan andra routningsalternativ beaktas.
 
 ## Skapa en anpassad regel {#create-a-custom-rule}
 
