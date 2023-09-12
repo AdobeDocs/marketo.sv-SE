@@ -4,7 +4,7 @@ title: Testa aktuell versionsinformation
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
+source-git-commit: 5a46493d1d9f1a56d574f62ce1d316a6238ee870
 workflow-type: tm+mt
 source-wordcount: '901'
 ht-degree: 0%
@@ -22,7 +22,6 @@ Här nedan hittar du alla funktioner som ingår i versionen från 23 september. 
 ## Standardfunktioner för lanseringscykel {#standard-release-cycle-features}
 
 Följande funktioner faller under standardversionscykeln och kommer att släppas den **8 september 2023**, med en stegvis utrullning av återstående funktioner under de följande veckorna. Versionsfunktioner och datum kan komma att ändras. Kontrollera status bredvid varje funktion.
-</br>
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
@@ -72,7 +71,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 Alla funktioner nedan följer ett Agile-format och släpps på olika datum före eller efter standardreleasedatum. Kontrollera status bredvid varje funktion.
 </br>
-<table style="table-layout:auto"> 
+<table style="border: none">
  <tbody> 
   <tr> 
    <th style="width:65%">Funktion</th> 
@@ -89,7 +88,7 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
 
 ### Dynamic Chat {#dynamic-chat}
 
-<table style="table-layout:auto"> 
+<table style="border: 0px">
  <tbody> 
   <tr> 
    <th style="width:65%">Funktion</th> 
