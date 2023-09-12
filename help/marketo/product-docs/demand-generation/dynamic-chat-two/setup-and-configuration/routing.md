@@ -4,9 +4,9 @@ title: Routning
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -61,6 +61,18 @@ Identifiera och överför ditt målkonto och respektive säljare och skicka bes�
 
 ![](assets/routing-9.png)
 
-Teamdirigering - DELETE DESSA REFERENSER FÖR NU
+### Lägg till ett konto {#add-an-account}
 
-Medlem i Smart List-routning - EVENTUELLT FÖRDRÖJD
+I det här exemplet dirigerar vi alla anställda från Lego direkt till agent Steven.
+
+1. Klicka på fliken Kontoroutning **+ Lägg till konto**.
+
+   ![](assets/routing-10.png)
+
+   >[!TIP]
+   >
+   >Du kan skapa flera konton samtidigt genom att klicka på **Ladda upp kontolista** och ladda upp en CSV-fil.
+
+1. Ange företagets namn, domän och välj önskad agent.
+
+   ![](assets/routing-11.png)

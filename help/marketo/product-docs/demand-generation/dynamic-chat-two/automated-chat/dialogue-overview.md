@@ -4,9 +4,9 @@ title: Översikt över dialogrutan
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ The [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/
 
 ## Rapporter {#reports}
 
-The [Rapporter](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"} i en dialogruta är där du kan se mätvärden för hur bra din dialog fungerar.
+På fliken Rapporter kan du se mätvärden för hur bra din dialogruta fungerar.
 
 ![](assets/dialogue-overview-3.png)
 

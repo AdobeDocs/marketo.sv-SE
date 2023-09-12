@@ -4,9 +4,9 @@ title: Agentinställningar
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '482'
 ht-degree: 0%
 
 ---
@@ -64,11 +64,11 @@ Ange din tidszon och tid/dag i veckan som du vill ha för att ta emot mötesbokn
  <tbody> 
   <tr> 
    <td><b>Mötets längd</b></td>
-   <td>Maximal möteslängd. - VAD HÄNDER? SLUTAR DU AUTOMATISKT?</td>
+   <td>Maximal möteslängd. - VAD HÄNDER? SLUTAR AUTOMATISKT SOM ZOOM?</td>
   </tr> 
   <tr> 
    <td><b>Bufferttid mellan möten</b></td>
-   <td>Den tid du anger som buffert efter mötet. Om du anger det i 30 minuter kan ingen boka ett möte med dig förrän 31 minuter efter det schemalagda slutet av ett möte i kalendern. 31 eller 30??????????</td>
+   <td>Den tid du anger som buffert efter mötet. Om du anger det i 30 minuter kan ingen boka ett möte med dig förrän 30 minuter efter det schemalagda slutet av ett möte i kalendern.</td>
   </tr>
  </tbody> 
 </table>
@@ -83,11 +83,11 @@ Ange din tidszon och tid/veckodag som tillgänglig för att ta emot chattar live
 
 ![](assets/agent-settings-5.png)
 
-Om du är inloggad på appen får du ett meddelande i appen om en inkommande chatt. Om du inte är inloggad får du ett webbläsarmeddelande.
+Om du är inloggad på appen får du ett meddelande i appen om en inkommande chatt. Om du inte är inloggad får du ett webbläsarmeddelande (om du har [konfigurera](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}).
 
 >[!IMPORTANT]
 >
->The [tillgänglighet växla](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#availability-toggle){target="_blank"} i agentinkorgen **åsidosätter** vad du anger på fliken Live-chatttillgänglighet. Så om du är schemalagd som tillgänglig från 1p-5p men behöver ta en snabb paus vid 3p behöver du inte ändra dina agentinställningar. Du kan växla status tills du byter den manuellt eller tills nästa tidsblock i tillgängligheten nås.
+>The [tillgänglighet växla](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#availability-toggle){target="_blank"} i agentinkorgen **åsidosätter** vad du anger på fliken Live-chatttillgänglighet. Så om du är schemalagd som tillgänglig från 1p-5p men behöver ta en snabb paus vid 3p behöver du inte ändra dina agentinställningar. Tillgängligheten växlar status tills du ändrar den manuellt eller tills nästa tidsblock i tillgängligheten nås.
 
 >[!TIP]
 >

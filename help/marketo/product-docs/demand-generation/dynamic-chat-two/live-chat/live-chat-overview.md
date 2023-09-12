@@ -4,16 +4,16 @@ title: Översikt över live-chatt
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
 
 # Översikt över live-chatt {#live-chat-overview}
 
-Använd chattkortet i [strömdesigner](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md){target="_blank"} när ni vill att besökarna ska chatta med en handläggare.
+Använd chattkortet i [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md){target="_blank"} när ni vill att besökarna ska chatta med en handläggare.
 
 ## Använda chattkortet {#using-the-live-chat-card}
 
@@ -23,7 +23,7 @@ Använd chattkortet i [strömdesigner](/help/marketo/product-docs/demand-generat
 >
 >Chattkortet måste alltid vara det sista kortet i grenen. Om kortet placeras i en slumpmässig position i grenen kan det överraska besökaren genom att plötsligt ansluta dem till en agent.
 
-**Bästa praxis**
+### Bästa praxis {#best-practices}
 
 * Använd ett frågekort före live-chattkortet och fråga besökaren om de vill ansluta.
 * När besökaren har gått med på att ansluta använder du informationskortet för att samla in en del av deras information, t.ex. för-/efternamn, e-postadress, befattning osv. (du bör begära minst förnamn och e-postadress).
@@ -46,7 +46,7 @@ Om du klickar på live-chattkortet i strömmen kan du välja hur besökaren ska 
   </tr>
     <tr> 
    <td><b>Anpassade regler</b></td>
-   <td>Alla anpassade regler rullas igenom när man överväger var besökaren ska dirigeras. Om besökaren inte uppfyller något av villkoren, FALLBACK RULE??</td>
+   <td>Alla anpassade regler rullas igenom när man överväger var besökaren ska dirigeras. Om besökaren inte är berättigad till någon anpassad regel får de <a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">live-chattmeddelande</a>.</td>
   </tr> 
   <tr> 
    <td><b>Team</b></td>
