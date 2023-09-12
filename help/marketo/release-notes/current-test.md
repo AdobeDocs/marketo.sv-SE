@@ -4,9 +4,9 @@ title: Testa aktuell versionsinformation
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
+source-git-commit: d84a1183938238a79c5aba61005ae07f7fd902a1
 workflow-type: tm+mt
-source-wordcount: '1209'
+source-wordcount: '1212'
 ht-degree: 1%
 
 ---
@@ -117,11 +117,9 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 * mer utrymme
 
-* testslut... FÖR NU
-
 * **Används av räkningskolumn för Design Studio-resurser**:
 
-<table> 
+<table width="400">
   <tr> 
    <td><b>Status</b></td>
    <td><b>Dokumentationsuppdateringar</b></td>
@@ -135,7 +133,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 * **Används av flikförbättringar för Design Studio-resurser**: Fliken Används av förbättring ger en mer detaljerad bild av typen och namnet på en resurs, tillsammans med var den används. Detta gäller för e-postinformation samt bilder och filinformation.
 
-<table> 
+<table width="400px">
   <tr> 
    <td><b>Status</b></td>
    <td><b>Dokumentationsuppdateringar</b></td>
@@ -146,6 +144,12 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   </tr>
   </tbody>
 </table>
+
+* space
+
+* mer utrymme
+
+* testslut... FÖR NU
 
 * **Tjänsten Beräkna steg för formelflöde**: Beräkningsformel är en Flow Step-tjänst som är byggd på Adobe IO Runtime-plattformen för användning med Marketo Engage Smart Campaigns. Adobe-klienter med IO-runtime kan driftsätta tjänsten och installera den i sina Marketo Engage-prenumerationer, så att de kan beräkna Excel-liknande formler i Marketo Smart Campaigns.
 

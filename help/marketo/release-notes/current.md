@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 61aa38883d62523449aed77d1dbd2e30f1d31038
+source-git-commit: d84a1183938238a79c5aba61005ae07f7fd902a1
 workflow-type: tm+mt
-source-wordcount: '942'
+source-wordcount: '951'
 ht-degree: 2%
 
 ---
@@ -328,6 +328,6 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
 
 ## Meddelanden {#announcements}
 
-* **Växla borttagning av växling för Design Studio-resurser**: Den växlingsväxling som gör att användare kan växla mellan det klassiska gränssnittet och den moderna UX-upplevelsen för Design Studio kommer att bli inaktuell, tillsammans med den gamla versionen av Design Studio, vilket gör att användare kan migrera helt till den moderna UX-upplevelsen.
+* **Växla borttagning av växling för Design Studio-resurser**: Den växlingsväxling som gör att användare kan växla mellan det klassiska gränssnittet och den moderna UX-upplevelsen för Design Studio kommer att bli inaktuell, tillsammans med den gamla versionen av Design Studio, vilket gör att användare kan migrera helt till den moderna UX-upplevelsen. [Läs mer här](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}.
 
 * **_Product Release Webinar_**: Besök oss den 6 september 2023 kl. 9:00 PT/12:00 ET för en [live webbinarium](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} som hanteras av vårt produktteam där du får se hur du kan använda alla de senaste produktinnovationerna.
