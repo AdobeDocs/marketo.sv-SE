@@ -4,7 +4,7 @@ title: Konfiguration
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Det finns flera olika anpassningsalternativ.
 
 Här definierar du utseendet och känslan för den chattbot där dina dialogrutor ska visas, inklusive: färger, teckensnitt, placering av robotwidgeten och chatbogens namn/avatar.
 
-Färgen för varje kategori bestäms av en [hexadecimalt färgvärde](https://color.adobe.com/create/color-wheel) (t.ex. vit = #ffffff, röd = #bf1932 osv.)
+Färgen för varje kategori bestäms av en [hexadecimalt färgvärde](https://color.adobe.com/create/color-wheel){target="_blank"} (t.ex. vit = #ffffff, röd = #bf1932 osv.)
 
 ![](assets/configuration-3.png)
 

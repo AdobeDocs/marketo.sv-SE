@@ -4,7 +4,7 @@ title: Skapa ett konversationsflöde
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: b894b6fa62c6939ba450fa259b4cf5290b4582f5
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
@@ -31,8 +31,8 @@ Så här skapar du ett nytt konversationsflöde.
 >
 >Detta ändrar endast systemtextens språk. Du ansvarar för att översätta innehåll.
 
-1. Precis som i dialogrutor är det dags att [skapa en ström](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md#create-a-stream){target="_blank"}.
+1. Precis som i dialogrutor är det dags att [skapa en ström](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Forms - översikt](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md){target="_blank"}
+>[Översikt över konversationsflöde](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md){target="_blank"}

@@ -4,7 +4,7 @@ title: Lägg till eller ta bort chattanvändare
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Följ stegen nedan för att lägga till eller ta bort chattanvändare.
 
 ## Lägg till en chattanvändare {#add-a-chat-user}
 
-1. Logga in på [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. Logga in på [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-chat-users-1.png)
 
@@ -71,7 +71,7 @@ Om den nyligen tillagda chattanvändarens Marketo-roll inte redan har Dynamic Ch
 
 ## Ta bort en chattanvändare {#remove-a-chat-user}
 
-1. Logga in på [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. Logga in på [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-chat-users-12.png)
 
@@ -101,5 +101,5 @@ Om den nyligen tillagda chattanvändarens Marketo-roll inte redan har Dynamic Ch
 
 >[!MORELIKETHIS]
 >
->* [Adobe Admin Console-användare](https://helpx.adobe.com/enterprise/using/users.html)
->* [Hantera användare individuellt](https://helpx.adobe.com/enterprise/using/manage-users-individually.html)
+>* [Adobe Admin Console-användare](https://helpx.adobe.com/enterprise/using/users.html){target="_blank"}
+>* [Hantera användare individuellt](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}

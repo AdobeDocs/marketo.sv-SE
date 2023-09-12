@@ -4,7 +4,7 @@ title: Adobe Marketo Engage
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Ansluta Dynamic Chat {#connecting-dynamic-chat}
 
-När du är klar med [inledande konfiguration](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target="_blank"}är det dags att utföra engångssynkroniseringen som kopplar Dynamic Chat till din Adobe Marketo Engage-prenumeration.
+När du är klar med [inledande konfiguration](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/initial-setup.md){target="_blank"}är det dags att utföra engångssynkroniseringen som kopplar Dynamic Chat till din Adobe Marketo Engage-prenumeration.
 
 1. I Min Marketo klickar du på **Dynamic Chat** platta.
 
@@ -81,5 +81,5 @@ Så här tar du bort ett attribut efter den första synkroniseringen.
 
 >[!MORELIKETHIS]
 >
->[Inledande konfiguration](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target="_blank"}
+>[Inledande konfiguration](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/initial-setup.md){target="_blank"}
 

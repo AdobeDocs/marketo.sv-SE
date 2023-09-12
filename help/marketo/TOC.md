@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: c2a3e2915c8a205f03c4bf578e6b2479af1206b3
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
-source-wordcount: '9159'
+source-wordcount: '9158'
 ht-degree: 0%
 
 ---
@@ -661,7 +661,6 @@ ht-degree: 0%
             + [Skapa en dialogruta](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md)
             + [Målgruppskriterier](product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md)
             + [Stream Designer](product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md)
-            + [Rapporter](product-docs/demand-generation/dynamic-chat-two/automated-chat/reports.md)
          + Integreringar {#integrations}
             + [Adobe Marketo Engage](product-docs/demand-generation/dynamic-chat-two/integrations/adobe-marketo-engage.md)
             + [Adobe PDF Embed API](product-docs/demand-generation/dynamic-chat-two/integrations/adobe-pdf-embed-api.md)
