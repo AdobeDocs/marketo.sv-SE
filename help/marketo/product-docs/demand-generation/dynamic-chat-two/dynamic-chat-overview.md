@@ -4,9 +4,9 @@ title: Översikt över Dynamic Chat
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 6682ff8611c0be30599b7bb6f516f9d7ba7ba926
+source-git-commit: a4fe70e1a95ff382499800049f161d1ad7dec7ab
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '627'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 0%
 # Översikt över Dynamic Chat {#dynamic-chat-overview}
 
 Med Dynamic Chat kan ni utnyttja ett lättanvänt gränssnitt för att nå ut till både personer och konton på er webbplats. Samla in relevant innehåll som namn, kontaktinformation och fritext. Besökarna kan även boka möten med säljteamet. Dynamic Chat-aktivitet och engagemangsdata kan användas för att lägga till medlemmar i Marketo-program och aktivera flerkanalsaktiviteter.
-
->[!NOTE]
->
->Dynamic Chat håller på att gradvis släppas ut och har för närvarande begränsad tillgång. Den här sidan uppdateras med allmän tillgänglighetsinformation (GA) allt eftersom de blir tillgängliga.
 
 >[!TIP]
 >

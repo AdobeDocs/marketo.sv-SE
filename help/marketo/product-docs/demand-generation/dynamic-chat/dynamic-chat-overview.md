@@ -1,11 +1,11 @@
 ---
 description: Dynamic Chat Overview - Marketo Docs - Product Documentation
-title: Dynamisk chattöversikt
+title: Översikt över Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
 feature: Dynamic Chat
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a4fe70e1a95ff382499800049f161d1ad7dec7ab
 workflow-type: tm+mt
-source-wordcount: '857'
+source-wordcount: '826'
 ht-degree: 1%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 1%
 # Översikt över Dynamic Chat {#dynamic-chat-overview}
 
 Med Dynamic Chat kan ni utnyttja ett lättanvänt gränssnitt för att nå ut till både personer och konton på er webbplats. Samla in relevant innehåll som namn, kontaktinformation och fritext. Besökarna kan även boka möten med säljteamet. Dynamic Chat-aktivitet och engagemangsdata kan användas för att lägga till medlemmar i Marketo-program och aktivera flerkanalsaktiviteter.
-
->[!NOTE]
->
->Dynamic Chat håller på att gradvis släppas ut och har för närvarande begränsad tillgång. Den här sidan uppdateras med allmän tillgänglighetsinformation (GA) allt eftersom de blir tillgängliga.
 
 >[!TIP]
 >
@@ -68,7 +64,7 @@ Nej, det använder bara förbestämda svar.
 
 **Har Dynamic Chat stöd för andra språk än engelska?**
 
-Ja. Dynamic Chat stöder följande språk: Franska, tyska, japanska, spanska, italienska, brasiliansk portugisiska, koreanska, förenklad kinesiska och traditionell kinesiska. Läs mer i [avsnitt nedan](#changing-the-language).
+Ja. Dynamic Chat stöder följande språk: franska, tyska, japanska, spanska, italienska, brasiliansk portugisiska, koreanska, förenklad kinesiska och traditionell kinesiska. Läs mer i [avsnitt nedan](#changing-the-language).
 
 **Stöder du AI/NLP-funktioner?**
 
@@ -80,7 +76,7 @@ I dialogrutan måste du använda _Personens e-postadress är tom_ -attribut.
 
 ## Ändra språk {#changing-the-language}
 
-Följ de här stegen för att ändra ditt Dynamic Chat-språk.
+Följ de här stegen för att ändra Dynamic Chat.
 
 >[!IMPORTANT]
 >
@@ -100,7 +96,7 @@ Följ de här stegen för att ändra ditt Dynamic Chat-språk.
 
    >[!NOTE]
    >
-   >Det finns ett par dussin språk att välja bland, men Dynamic Chat stöder bara följande: Engelska, franska, tyska, japanska, spanska, italienska, brasiliansk portugisiska, koreanska, förenklad kinesiska och traditionell kinesiska.
+   >Det finns ett par dussin språk att välja bland, men Dynamic Chat stöder bara följande: engelska, franska, tyska, japanska, spanska, italienska, brasiliansk portugisiska, koreanska, förenklad kinesiska och traditionell kinesiska.
 
 När du uppdaterar språket ändras allt i själva programmet utom orden som du har fyllt i personligen (t.ex. strömningssvar).
 
