@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
 workflow-type: tm+mt
-source-wordcount: '9156'
+source-wordcount: '9162'
 ht-degree: 0%
 
 ---
@@ -656,7 +656,7 @@ ht-degree: 0%
          + Automatiserad chatt {#automated-chat}
             + [Översikt över konversationsflöden](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md)
             + [Skapa ett konversationsflöde](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-conversational-flow.md)
-            + [Konversationsflödesinställningar](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
+            + [Konversationsflödesinställningar för Marketo Engage Forms](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md)
             + [Konversationer SDK](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversations-sdk.md)
             + [Översikt över dialogrutan](product-docs/demand-generation/dynamic-chat-two/automated-chat/dialogue-overview.md)
             + [Skapa en dialogruta](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md)
@@ -1967,6 +1967,7 @@ ht-degree: 0%
 + Versionsinformation {#release-notes}
    + [Releaschema](release-notes/release-schedule.md)
    + [Aktuell version](release-notes/current.md)
+   + [Aktuell version](release-notes/current-test.md)
    + Tidigare versioner {#previous-releases}
       + 2023 {#2023}
          + [Versionsinformation: 23 januari](release-notes/previous-releases/2023/release-notes-jan-23.md)

@@ -4,9 +4,9 @@ title: Agentinställningar
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '476'
 ht-degree: 0%
 
 ---
@@ -83,7 +83,7 @@ Ange din tidszon och tid/veckodag som tillgänglig för att ta emot chattar live
 
 ![](assets/agent-settings-5.png)
 
-Om du är inloggad på appen får du ett meddelande i appen om en inkommande chatt. Om du inte är inloggad får du ett webbläsarmeddelande (i Google Chrome).
+Om du är inloggad på appen får du ett meddelande i appen om en inkommande chatt. Om du inte är inloggad får du ett webbläsarmeddelande.
 
 >[!IMPORTANT]
 >

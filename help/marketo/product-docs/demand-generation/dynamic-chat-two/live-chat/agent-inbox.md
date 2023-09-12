@@ -4,9 +4,9 @@ title: Agent Inbox
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -25,17 +25,24 @@ I det övre högra hörnet av skärmen Agent Inbox kan du ange att din status ä
 
 >[!IMPORTANT]
 >
->**Det här åsidosätter** den [live chatttillgänglighet](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability) som du har etablerat i Agentinställningar. Statusen kvarstår tills du antingen byter tillbaka den eller till nästa tidsblock i tillgängligheten.
+>**Det här åsidosätter** den [live chatttillgänglighet](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} som du har etablerat i Agentinställningar. Statusen kvarstår tills du antingen byter tillbaka den eller till nästa tidsblock i tillgängligheten.
 
 >[!NOTE]
 >
 >Inga aktiva chattar påverkas om du anger att din status är otillgänglig.
 
-## Acceptera en chatt {#accepting-a-live-chat}
+## Live Chat-meddelanden {#live-chat-notifications}
 
-När en live-chatt dirigeras till agenten ser de en blå banderoll högst upp på skärmen och ber dem att godkänna.
+När en live-chatt dirigeras till en agent ser de en blå banderoll högst upp på skärmen och ber dem att godkänna.
 
 ![](assets/agent-inbox-3.png)
+
+>[!TIP]
+>
+>Du kan också konfigurera webbläsarmeddelanden, som meddelar dig om du inte är inloggad på Dynamic Chat.
+>
+>* Aktivera webbläsarmeddelanden i [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
+>* Aktivera webbläsarmeddelanden i [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
 
 ### Saker att notera {#things-to-note}
 
