@@ -4,9 +4,9 @@ title: Agentinställningar
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: 5c99dd3394ad09a48b5adbb022a9c4e63b619c81
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
@@ -64,7 +64,7 @@ Ange din tidszon och tid/dag i veckan som du vill ha för att ta emot mötesbokn
  <tbody> 
   <tr> 
    <td><b>Mötets längd</b></td>
-   <td>Maximal möteslängd. - VAD HÄNDER? SLUTAR AUTOMATISKT SOM ZOOM?</td>
+   <td>Anger hur lång tid besökarna ska se i dina tillgängliga mötesplatser.</td>
   </tr> 
   <tr> 
    <td><b>Bufferttid mellan möten</b></td>
