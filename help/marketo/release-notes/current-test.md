@@ -4,9 +4,9 @@ title: Testa aktuell versionsinformation
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 5a46493d1d9f1a56d574f62ce1d316a6238ee870
+source-git-commit: bca573d47314ce8017cbe8a3834c01618ccf601f
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '897'
 ht-degree: 0%
 
 ---
@@ -70,7 +70,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 ## Agile Release-funktioner {#agile-release-features}
 
 Alla funktioner nedan följer ett Agile-format och släpps på olika datum före eller efter standardreleasedatum. Kontrollera status bredvid varje funktion.
-</br>
+
 <table style="border: none">
  <tbody> 
   <tr> 
@@ -97,8 +97,8 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr> 
   <tr> 
    <td><strong>Åtgärdskort i Stream Designer</strong>: Marknadsförarna kan använda åtgärdskort i Dialog-strömmen för att skicka dolda värden till personposten Marketo Engage när besökarna interagerar med en dialog.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md#stream-designer-cards" target="_blank">Stream Designer-kort</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -107,8 +107,8 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
    <tr> 
    <td><strong>Forms i konversationslayout med Marketo Engage Forms</strong>: Förvandla Marketo Engage Forms till en konversationskedja genom att integrera dem med Dynamic Chat. Hitta leads direkt med hjälp av formulärdata eller Smart List-medlemskap för mötesbokningar, rapporter eller anpassade mål.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Forms</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -117,8 +117,8 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
     <tr> 
    <td><strong>Konversationer SDK</strong>: Omvandla alla typer av formulär, landningssidor eller nästan alla webbsidor till engagerande bokningsupplevelser.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md#conversations-sdk" target="_blank">Konversationer SDK</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -127,8 +127,8 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
   <tr> 
    <td><strong>Inställningar för anpassad mötesbokning</strong>: Agenter kan ange anpassade inställningar för mötesbokning, till exempel tillgänglighet, möteslängd och buffringstid mellan möten.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#meeting-booking-availability" target="_blank">Inställningar för anpassad mötesbokning</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -137,8 +137,8 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
    <tr> 
    <td><strong>Reservinställningar</strong>: Administratörer kan ange anpassade reservinställningar för att definiera vad besökarna ser när agenter inte är tillgängliga för chatt.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md#fallback-rules" target="_blank">Reservregler</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -147,8 +147,8 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
     <tr> 
    <td><strong>Instrumentpanel för globala prestanda</strong>: Se hur väl era dialoger fungerar, inklusive engagemangs- och prestandamått (totalt och över en tid), toppresterande sidor och högpresterande dialogrutor.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/analytics.md#global-performance-dashboard" target="_blank">Instrumentpanel för globala prestanda</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -157,8 +157,8 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
    <tr> 
    <td><strong>Live Chatt</strong>: Webbbesökare kan chatta med säljarna i realtid för att få svar på sina frågor.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/live-chat-overview.md" target="_blank">Översikt över live-chatt</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -167,8 +167,8 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
    <tr> 
    <td><strong>Live Chatt Performance Dashboard</strong>: Se hur många samtal era säljare haft och vilka team som presterar bäst.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/analytics.md#live-chat-performance-dashboard" target="_blank">Live Chatt Performance Dashboard</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -177,8 +177,8 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
     <tr> 
    <td><strong>Målinriktning för smarta listor i Marketo Engage</strong>: Marknadsförarna kan inrikta sig på medlemmar i Marketo Engage smarta listor enligt villkoren för dialog.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md#membership" target="_blank">medlemskap</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -187,8 +187,8 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
   <tr> 
    <td><strong>Instrumentpanel för mötesprestanda</strong>: Se hur många möten som bokas och vem de bokas med.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/analytics.md#meeting-performance-dashboard" target="_blank">Instrumentpanel för mötesprestanda</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -197,8 +197,8 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
    <tr> 
    <td><strong>Nya aktiviteter i Dynamic Chat</strong>: Nya aktiviteter för konversationsflöden, live chatt och andra nya funktioner.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activities.md" target="_blank">Dynamic Chat verksamhet</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -207,8 +207,8 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
     <tr> 
    <td><strong>Live Chat-meddelanden i realtid</strong>: När besökare begär live-chatt får agenterna meddelanden i realtid i appen och webbläsaren.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#live-chat-notifications" target="_blank">Live Chat-meddelanden</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -217,8 +217,8 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
     <tr> 
    <td><strong>Team</strong>: Skapa team med agenter som besökare kan dirigeras till för live-chatt eller mötesbokningar.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md#teams" target="_blank">Team</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -227,8 +227,8 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
     <tr> 
    <td><strong>Utlösartoken för nya aktiviteter</strong>: Det finns nya utlösande token som kan användas för de nya aktiviteterna för Dynamic Chat.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md#dynamic-chat-trigger-tokens" target="_blank">Utlösartoken för Dynamic Chat</a></td>
   </tr>
   <tr> 
    <td> </td> 
