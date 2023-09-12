@@ -3,9 +3,9 @@ description: Lär dig hur du optimerar och skalförändrar en befintlig Marketo 
 title: HoppaStarta en ärvd Marketo Engage-instans
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -14,21 +14,23 @@ ht-degree: 0%
 
 Vill du starta ett nytt jobb eller ta över en befintlig instans från en annan administratör? Att ta över en live-instans som har varit igång ett tag kan verka lite skrämmande, men den här guiden hjälper dig att komma igång på nolltid.
 
-## Objekt som ska checkas ut {#items-to-check-off}
+## Kom igång med Marketing Nation {#get-set-up-in-the-marketing-nation}
 
-Se till att du har rätt inställningar för rätt typ av åtkomst och information.
+Kontrollera att du är korrekt konfigurerad i Marketo Community.
 
-* Se en kort översikt över **vad Marketo gör** - KG - HITTA BÄTTRE VIDEO ELLER DELETE
+* **[Konfigurera din profil]**(https://nation.marketo.com/){target="_blank"}.
 
-* **Konfigurera din profil** i [**Marknadsföringsnation**](https://nation.marketo.com/){target="_blank"} community (användarnamn och lösenord krävs).
+* [**Konfigurera din profil**](https://nation.marketo.com/){target="_blank"}.
 
-* Läs upp [**Riktlinjer för marknadsföringscommunityn**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+* **[Konfigurera din profil](https://nation.marketo.com/)**{target="_blank"}.
+
+* **[Konfigurera din profil](https://nation.marketo.com/){target="_blank"}**.
+
+* Läs upp [**Riktlinjer för marknadsföringscommunity**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
 * Klicka **[!UICONTROL Your Places]** på din Marketo Nation-communityprofil för att se ditt företags kontosida.
 
 * Lär dig hur [**skicka in ett supportärende**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
-
-* [**Hantera användare**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md){target="_blank"} och radera dem som har lämnat företaget.
 
 ## Ärvda instansgranskningsguider {#inherited-instance-audit-guides}
 

@@ -3,7 +3,7 @@ description: Ärvd kontrollista för instansadministratör - Marketo Docs - Prod
 title: Ärvd kontrollista för instansadministratör
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
 workflow-type: tm+mt
 source-wordcount: '1444'
 ht-degree: 0%
@@ -60,7 +60,7 @@ Checklistorna nedan (efterföljande checklistor länkade till längst ned i varj
   <tr> 
    <td>Användare</td> 
    <td><li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">Hur många användare</a> Är det där?</li>
-<li>Finns det några användare som borde ha gått ut?</li>
+<li>Finns det några användare som ska tas bort?</li>
 <li>Har ditt företag policyer för att ta bort användare?</li> 
 <li>Hur många användare har <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">Administratörsbehörigheter</a>?</li>
 <li>Bör någon av dessa användare ändras till <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">andra roller?</a></li> 
