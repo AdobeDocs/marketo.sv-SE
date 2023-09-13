@@ -2,7 +2,7 @@
 description: Översikt över konversationsflöde - Marketo Docs - produktdokumentation
 title: Översikt över konversationsflöde
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+source-git-commit: 78ca35c105be2fd437da2f783388d5bfaced8c70
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 0%
@@ -51,7 +51,7 @@ Stream Designer for Conversational Flows är nästan identisk med den för Dialo
 
 ![](assets/conversational-flow-overview-2.png)
 
-## Fliken Rapport {#reports-tab}
+## Fliken Rapporter {#reports-tab}
 
 På fliken Rapporter kan du se mätvärden om hur bra ditt konversationsflöde fungerar.
 
