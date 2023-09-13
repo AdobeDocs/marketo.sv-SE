@@ -3,16 +3,16 @@ description: Versionsinformation - januari 2023 - Marketo Docs - produktdokument
 title: Versionsinformation - januari 2023
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a977597ccf15520bae32a4b65538a55c3930f36a
 workflow-type: tm+mt
 source-wordcount: '637'
 ht-degree: 1%
 
 ---
 
-# Versionsinformation: Januari 2023 {#release-notes-jan-23}
+# Versionsinformation: januari 2023 {#release-notes-jan-23}
 
-Här nedan hittar du alla funktioner som ingår i versionen från 23 januari. Se om det finns funktioner i din Adobe Marketo Engage-utgåva.
+Här nedan hittar du alla funktioner som ingår i versionen från 23 januari. Se om det finns funktioner i Adobe Marketo Engage Edition.
 
 >[!AVAILABILITY]
 >
@@ -26,7 +26,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 </br>
 
-* **Uppdaterade skärmar i modernt användargränssnitt**: I det moderna användargränssnittet (tidigare kallat Nästa generation Experience) levererar vi nya, uppdaterade skärmar som erbjuder uppdaterade design- och användarvänlighetsförbättringar som är tillgängliga via växlingsfunktion:
+* **Uppdaterade skärmar i modernt användargränssnitt**: I det moderna användargränssnittet (tidigare kallat Nästa generations upplevelse) levererar vi nya, uppdaterade skärmar som erbjuder uppdaterade design- och användarvänlighetsförbättringar som är tillgängliga via växlingsfunktion:
 
    * Fragmentlistvy
    * Malllista för landningssida
@@ -43,7 +43,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   </tbody>
 </table>
 
-* **Förbättrad användning av komponent för information om e-postmallar och utdragsinformation**: Fliken Ny som används av användargränssnittet innehåller ytterligare information om de olika resurserna som används av, till exempel när de senast ändrades och av vem. Du kan enkelt utföra analyser med hjälp av sök-, sorterings- och filtreringsfunktionerna. Den nya gränssnittskomponenten kommer att införlivas med resurserna E-postmall och Kodfragment.
+* **Förbättrat Används av komponent för information om e-postmallar och utdragsinformation**: Fliken Ny som används av användargränssnittet innehåller ytterligare information om de olika resurserna som används av, till exempel när de senast ändrades och av vem. Du kan enkelt utföra analyser med hjälp av sök-, sorterings- och filtreringsfunktionerna. Den nya gränssnittskomponenten kommer att införlivas med resurserna E-postmall och Kodfragment.
 
 <table> 
   <tr> 
@@ -79,7 +79,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 </br>
 
-* **Marketo Measure Ultimate**: Ger fullständig B2B-attribuering för företag med flera CRM- och/eller Marketo Engage-instanser och olika källdatabehov. Den erbjuder också en B2B-attribueringslösning för Adobe RT-CDP via delade AEP-data.
+* **Marketo Measure Ultimate**: Möjliggör fullständig B2B-attribuering för företag med flera CRM- och/eller Marketo Engage-instanser och olika källdatabehov. Den erbjuder också en B2B-attribueringslösning för Adobe RT-CDP via delade AEP-data.
 
 <table> 
   <tr> 
@@ -97,7 +97,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 </br>
 
-* **Förbättrad flik för webbtjänster genom att lägga till API-information för massexport**: Du kan nu visa den dagliga kapacitetstilldelningen för dina prenumerationer och visa den dagliga kapacitetsallokering som har använts under de senaste 7 dagarna.
+* **Förbättrad flik för webbtjänster genom att lägga till API-information för massexport**: Du kan nu visa den dagliga kapacitetstilldelningen för dina prenumerationer och visa hur mycket kapacitet som har använts de senaste 7 dagarna.
 
 <table> 
   <tr> 
@@ -115,7 +115,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 Följande funktioner följer ett Agile-format och släpps på olika datum före eller efter standardreleasedatum. Kontrollera status för respektive funktion nedan.
 
-### Dynamiskt chatt {#dynamic-chat}
+### Dynamic Chat {#dynamic-chat}
 
 </br>
 
@@ -133,7 +133,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
   </tbody>
 </table>
 
-* **Personalisering i mötesbekräftelse för Dynamic Chat**: Agenter kan personalisera e-postbekräftelser för mötesbokningar med hjälp av Marketo Engage person- och företagsfält för att engagera besökarna bättre (t.ex.: hälsa besökarna välkomna med sitt förnamn i det automatiska e-postmeddelandet om mötesbokningar).
+* **Personalisering i mötesbekräftelse för Dynamic Chat**: Agenter kan personalisera e-postbekräftelser för mötesbokningar med hjälp av Marketo Engage person- och företagsfält för att bättre kunna interagera med besökare (t.ex. välkomna besökare med deras förnamn i det automatiska e-postmeddelandet om mötesbokningar).
 
 <table> 
   <tr> 
@@ -142,12 +142,12 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
   </tr>
   <tr> 
    <td>Levererat</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">Kalender</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">Kalender</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Sök i Stream Designer**: Sök enkelt efter innehåll i Stream Designer för att snabbt hitta innehåll på alla kort/noder i en ström (t.ex.: sök efter&quot;SEO&quot; så markeras alla noder som innehåller strängen).
+* **Sök i Stream Designer**: Sök enkelt efter innehåll i Stream Designer för att snabbt hitta innehåll på alla kort/noder i en ström (t.ex. söka i SEO) och markera alla noder som innehåller strängen).
 
 <table> 
   <tr> 
@@ -161,7 +161,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
   </tbody>
 </table>
 
-* **Chatbot-datum-/tidväljare för Dynamic Chat**: Webbbesökare kan använda kalenderväljaren för att välja datum och tid i stället för att ange datumet manuellt.
+* **Chatbot-datum-/tidväljare för Dynamic Chat**: Webbbesökare kan använda kalenderväljaren för att välja ett datum och en tid i stället för att ange datumet manuellt.
 
 <table> 
   <tr> 
@@ -184,13 +184,13 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
   </tr>
   <tr> 
    <td>Levererat</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md">Möten</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/demand-generation/dynamic-chat/meeting-list.md">Möten</a></td>
   </tr>
   </tbody>
 </table>
 
 ## Meddelanden {#announcements}
 
-* **Marketo REST API-ändring**: I versionen från oktober 2022 introducerade vi en mindre ändring av svarsmeddelandet för Marketo REST API. Se detta [Marketo Nation](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} för mer information.
+* **Marketo REST API-ändring**: I versionen från oktober 2022 introducerade vi en mindre ändring av svarsmeddelandet för Marketo REST API. Se det här [Marketo Nation](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} för mer information.
 
 * **_Product Release Webinar_**: [Webbinariet Marketo Engage från oktober 2022 och januari 2023](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}

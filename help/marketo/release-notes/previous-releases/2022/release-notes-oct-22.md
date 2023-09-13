@@ -3,16 +3,16 @@ description: Versionsinformation - oktober 2022 - Marketo Docs - produktdokument
 title: Versionsinformation - oktober 2022
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a977597ccf15520bae32a4b65538a55c3930f36a
 workflow-type: tm+mt
 source-wordcount: '600'
 ht-degree: 1%
 
 ---
 
-# Versionsinformation: Oktober 2022 {#release-notes-oct-22}
+# Versionsinformation: oktober 2022 {#release-notes-oct-22}
 
-Här nedan hittar du alla funktioner som ingår i versionen från 22 oktober. Se om det finns funktioner i din Adobe Marketo Engage-utgåva.
+Här nedan hittar du alla funktioner som ingår i versionen från 22 oktober. Se om det finns funktioner i Adobe Marketo Engage Edition.
 
 >[!AVAILABILITY]
 >
@@ -40,7 +40,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   </tbody>
 </table>
 
-* **Integrering med Adobe Privacy Service**: Harmonisera med Privacy Service för att automatisera efterlevnaden av datasekretesregler i olika Experience Cloud-produkter. För närvarande är den här tjänsten endast tillgänglig för Marketo Engage som har anslutit sig till Adobe Identity Management System.
+* **Integrering med Adobe Privacy Service**: Harmonisera med Privacy Service för att automatisera efterlevnaden av datasekretesbestämmelser i olika Experience Cloud-produkter. För närvarande är den här tjänsten endast tillgänglig för Marketo Engage som har anslutit sig till Adobe Identity Management System.
 
 <table> 
   <tr> 
@@ -58,7 +58,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 </br>
 
-* **Uppdaterade skärmar i nästa generation**: Vi levererar nya, uppdaterade skärmar i nästa generation av upplevelser som erbjuder uppdaterade design- och användarvänlighetsförbättringar som är tillgängliga via växlingsfunktion:
+* **Uppdaterade skärmar i nästa generation**: Vi levererar nya, uppdaterade skärmar i nästa generation av upplevelser som ger en uppdaterad design- och användarvänlighetsförbättring som är tillgänglig via växlingsknapp:
 
    * Information om landningssidmall
    * E-postmallslista
@@ -89,7 +89,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   </tbody>
 </table>
 
-* **Rapportera resursfiltermoduler**: Ny design för rapportkonfigurationsmoduler som visar ett nytt resursträd på konfigurationsmenyn och ett filter för Skapat och Ändrat den.
+* **Rapportera resursfiltermoduler**: Ny design för rapportkonfigurationsmoduler som visar ett nytt resursträd på konfigurationsmenyn och ett filter för Skapad och ändrad den.
 
 <table> 
   <tr> 
@@ -107,7 +107,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 </br>
 
-* **Import av massutr: Säljarassociation**: Paritet med Lead REST API för att kunna koppla leads till säljare under bulkimporten, vilket minskar komplexiteten och antalet API-anrop som krävs.
+* **Masslead-import: Salesperson-association**: Paritet med Lead REST API för att kunna associera leads med säljare under bulkimporten, vilket minskar komplexiteten och antalet API-anrop som krävs.
 
 <table> 
   <tr> 
@@ -154,7 +154,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
   </tr>
   <tr> 
    <td>Levererat</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md#stream-designer-icons">Stream Designer-ikoner</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer#stream-designer-icons">Stream Designer-ikoner</a></td>
   </tr>
   </tbody>
 </table>
@@ -168,7 +168,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
   </tr>
   <tr> 
    <td>Levererat</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">Kalender</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">Kalender</a></td>
   </tr>
   </tbody>
 </table>
