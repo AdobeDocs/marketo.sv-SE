@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f0a38ddec7e42a52f31f22aa114a3f6f0c20baae
+source-git-commit: 0dce393742df841af88b71614b55c4946c081814
 workflow-type: tm+mt
-source-wordcount: '904'
+source-wordcount: '902'
 ht-degree: 1%
 
 ---
@@ -41,8 +41,8 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   </tr>
   <tr> 
    <td><strong>Används av räkningskolumn för Design Studio-resurser</strong>: Med Marketo Engage-programmets referensbibliotek kan användare importera exempelprogram och andra resurser som motsvarar bästa praxis som rekommenderas av Adobe. Vårt produkthanteringsteam har uppdaterat biblioteket helt och hållet, vilket ger mer värdefulla verktyg för dem som vill komma igång snabbt.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td>n/a</td>
   </tr>
    <tr> 
    <td> </td> 
@@ -51,8 +51,8 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   </tr>
    <tr> 
    <td><strong>Används av flikförbättringar för Design Studio-resurser</strong>: Fliken Används av förbättring ger en mer detaljerad bild av typen och namnet på en resurs, tillsammans med var den används. Detta gäller för e-postinformation samt bilder och filinformation.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td>n/a</td>
   </tr>
    <tr> 
    <td> </td> 
