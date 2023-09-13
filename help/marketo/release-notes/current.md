@@ -3,10 +3,10 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d84a1183938238a79c5aba61005ae07f7fd902a1
+source-git-commit: f0a38ddec7e42a52f31f22aa114a3f6f0c20baae
 workflow-type: tm+mt
-source-wordcount: '951'
-ht-degree: 2%
+source-wordcount: '904'
+ht-degree: 1%
 
 ---
 
@@ -20,311 +20,240 @@ Här nedan hittar du alla funktioner som ingår i versionen från 23 september. 
 
 ## Standardfunktioner för lanseringscykel {#standard-release-cycle-features}
 
-Följande funktioner faller under standardversionscykeln och kommer att släppas den **8 september 2023**, med en stegvis utrullning av återstående funktioner under de följande veckorna. Versionsfunktioner och datum kan komma att ändras. Kontrollera status för respektive funktion nedan.
+Följande funktioner faller under standardversionscykeln och kommer att släppas den **8 september 2023**, med en stegvis utrullning av återstående funktioner under de följande veckorna. Versionsfunktioner och datum kan komma att ändras. Kontrollera status bredvid varje funktion.
 
-</br>
-
-* **Marketo Reference Library**: Med Marketo Engage-programmets referensbibliotek kan användare importera exempelprogram och andra resurser som motsvarar bästa praxis som rekommenderas av Adobe. Vårt produkthanteringsteam har uppdaterat biblioteket helt och hållet, vilket ger mer värdefulla verktyg för dem som vill komma igång snabbt.
-
-<table>
+<table style="table-layout:auto"> 
+ <tbody> 
   <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
+   <th style="width:65%">Funktion</th> 
+   <th style="width:15%">Status</th>
+   <th style="width:20%">Dokumentation</th>
+  </tr> 
   <tr> 
+   <td><strong>Marketo Reference Library</strong>: Med Marketo Engage-programmets referensbibliotek kan användare importera exempelprogram och andra resurser som motsvarar bästa praxis som rekommenderas av Adobe. Vårt produkthanteringsteam har uppdaterat biblioteket helt och hållet, vilket ger mer värdefulla verktyg för dem som vill komma igång snabbt.</td> 
    <td>Levererat</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Översikt över programimportbiblioteket</a></td>
   </tr>
-  </tbody>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Används av räkningskolumn för Design Studio-resurser</strong>: Med Marketo Engage-programmets referensbibliotek kan användare importera exempelprogram och andra resurser som motsvarar bästa praxis som rekommenderas av Adobe. Vårt produkthanteringsteam har uppdaterat biblioteket helt och hållet, vilket ger mer värdefulla verktyg för dem som vill komma igång snabbt.</td> 
+   <td><i>Kommer snart</i></td>
+   <td><i>Kommer snart</i></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Används av flikförbättringar för Design Studio-resurser</strong>: Fliken Används av förbättring ger en mer detaljerad bild av typen och namnet på en resurs, tillsammans med var den används. Detta gäller för e-postinformation samt bilder och filinformation.</td> 
+   <td><i>Kommer snart</i></td>
+   <td><i>Kommer snart</i></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Tjänsten Beräkna steg för formelflöde</strong>: Beräkningsformel är en Flow Step-tjänst som är byggd på Adobe IO Runtime-plattformen för användning med Marketo Engage Smart Campaigns. Adobe-klienter med IO-runtime kan driftsätta tjänsten och installera den i sina Marketo Engage-prenumerationer, så att de kan beräkna Excel-liknande formler i Marketo Smart Campaigns.</td> 
+   <td><i>Kommer snart</i></td>
+   <td><i>Kommer snart</i></td>
+  </tr>
+ </tbody> 
 </table>
 
-* **Används av räkningskolumn för Design Studio-resurser**: Kolumnen Används av antal för listvyer i Design Studio markerar antalet/antalet resurser som använder den aktuella resursen. Detta gäller för kodfragment, e-postmallar, Forms och mallar för landningssidor.
+## Agile Release-funktioner {#agile-release-features}
 
-<table> 
+Alla funktioner nedan följer ett Agile-format och släpps på olika datum före eller efter standardreleasedatum. Kontrollera status bredvid varje funktion.
+
+<table style="border: none">
+ <tbody> 
   <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
+   <th style="width:65%">Funktion</th> 
+   <th style="width:15%">Status</th>
+   <th style="width:20%">Dokumentation</th>
+  </tr> 
   <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Används av flikförbättringar för Design Studio-resurser**: Fliken Används av förbättring ger en mer detaljerad bild av typen och namnet på en resurs, tillsammans med var den används. Detta gäller för e-postinformation samt bilder och filinformation.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Tjänsten Beräkna steg för formelflöde**: Beräkningsformel är en Flow Step-tjänst som är byggd på Adobe IO Runtime-plattformen för användning med Marketo Engage Smart Campaigns. Adobe-klienter med IO-runtime kan driftsätta tjänsten och installera den i sina Marketo Engage-prenumerationer, så att de kan beräkna Excel-liknande formler i Marketo Smart Campaigns.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-  </tbody>
-</table>
-
-## Agile Release-funktioner
-
-Följande funktioner följer ett Agile-format och släpps på olika datum före eller efter standardreleasedatum. Kontrollera status för respektive funktion nedan.
-
-* **Integrering med Marketo och Workfront**: För dem som har Marketo och Workfront kan du nu använda Workfront Fusion Templates för att integrera de två produkterna och låsa upp nya automatiseringsarbetsflöden för att effektivisera kampanjkörningen.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
+   <td><strong>Integrering med Marketo och Workfront</strong>: För dem som har Marketo och Workfront kan du nu använda Workfront Fusion Templates för att integrera de två produkterna och låsa upp nya automatiseringsarbetsflöden för att effektivisera kampanjkörningen.</td> 
    <td>Levererat</td>
    <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html" target="_blank">Granska och godkänn utkast</a></td>
   </tr>
-  </tbody>
+ </tbody> 
 </table>
+</br>
 
 ### Dynamic Chat {#dynamic-chat}
 
-</br>
-
-* **Åtgärdskort i Stream Designer**: Marknadsförarna kan använda åtgärdskort i Dialog-strömmen för att skicka dolda värden till personposten Marketo Engage när besökarna interagerar med en dialog.
-
-<table> 
+<table style="border: 0px">
+ <tbody> 
   <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
+   <th style="width:65%">Funktion</th> 
+   <th style="width:15%">Status</th>
+   <th style="width:20%">Dokumentation</th>
+  </tr> 
+  <tr> 
+   <td><strong>Åtgärdskort i Stream Designer</strong>: Marknadsförarna kan använda åtgärdskort i Dialog-strömmen för att skicka dolda värden till personposten Marketo Engage när besökarna interagerar med en dialog.</td> 
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards" target="_blank">Stream Designer-kort</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Forms i konversationslayout med Marketo Engage Forms</strong>: Förvandla Marketo Engage Forms till en konversationskedja genom att integrera dem med Dynamic Chat. Hitta leads direkt med hjälp av formulärdata eller Smart List-medlemskap för mötesbokningar, rapporter eller anpassade mål.</td> 
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Forms</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    <tr> 
+   <td><strong>Konversationer SDK</strong>: Omvandla alla typer av formulär, landningssidor eller nästan alla webbsidor till engagerande bokningsupplevelser.</td> 
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md#conversations-sdk" target="_blank">Konversationer SDK</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
   </tr>
   <tr> 
+   <td><strong>Inställningar för anpassad mötesbokning</strong>: Agenter kan ange anpassade inställningar för mötesbokning, till exempel tillgänglighet, möteslängd och buffringstid mellan möten.</td> 
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#meeting-booking-availability" target="_blank">Inställningar för anpassad mötesbokning</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Reservinställningar</strong>: Administratörer kan ange anpassade reservinställningar för att definiera vad besökarna ser när agenter inte är tillgängliga för chatt.</td> 
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#fallback-rules" target="_blank">Reservregler</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    <tr> 
+   <td><strong>Instrumentpanel för globala prestanda</strong>: Se hur väl era dialoger fungerar, inklusive engagemangs- och prestandamått (totalt och över en tid), toppresterande sidor och högpresterande dialogrutor.</td> 
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#global-performance-dashboard" target="_blank">Instrumentpanel för globala prestanda</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Live Chatt</strong>: Webbbesökare kan chatta med säljarna i realtid för att få svar på sina frågor.</td> 
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md" target="_blank">Översikt över live-chatt</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Live Chatt Performance Dashboard</strong>: Se hur många samtal era säljare haft och vilka team som presterar bäst.</td> 
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#live-chat-performance-dashboard" target="_blank">Live Chatt Performance Dashboard</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    <tr> 
+   <td><strong>Målinriktning för smarta listor i Marketo Engage</strong>: Marknadsförarna kan inrikta sig på medlemmar i Marketo Engage smarta listor enligt villkoren för dialog.</td> 
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#membership" target="_blank">medlemskap</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Instrumentpanel för mötesprestanda</strong>: Se hur många möten som bokas och vem de bokas med.</td> 
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#meeting-performance-dashboard" target="_blank">Instrumentpanel för mötesprestanda</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Nya aktiviteter i Dynamic Chat</strong>: Nya aktiviteter för konversationsflöden, live chatt och andra nya funktioner.</td> 
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md" target="_blank">Dynamic Chat verksamhet</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    <tr> 
+   <td><strong>Live Chat-meddelanden i realtid</strong>: När besökare begär live-chatt får agenterna meddelanden i realtid i appen och webbläsaren.</td> 
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications" target="_blank">Live Chat-meddelanden</a></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    <tr> 
+   <td><strong>Team</strong>: Skapa team med agenter som besökare kan dirigeras till för live-chatt eller mötesbokningar.</td> 
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#teams" target="_blank">Team</a></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    <tr> 
+   <td><strong>Utlösartoken för nya aktiviteter</strong>: Det finns nya utlösande token som kan användas för de nya aktiviteterna för Dynamic Chat.</td> 
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md#dynamic-chat-trigger-tokens" target="_blank">Utlösartoken för Dynamic Chat</a></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    <tr> 
+   <td><strong>Sida för konversationsflöde</strong>: På sidan Design Studio Asset visas nu konversationsflöden i Dynamic Chat. Se vilka flöden som kan integreras i Marketo Engage och länka direkt till redigeraren.</td> 
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
-  </tbody>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    <tr> 
+   <td><strong>Aviseringar om försäljningsåtgärder</strong>: Agenter med Sales Insight Actions får meddelanden om live-chattförfrågningar i realtid på åtgärdspanelen i Sales Insight.</td> 
+   <td><i>Kommer snart</i></td>
+   <td><i>Kommer snart</i></td>
+  </tr>
+ </tbody> 
 </table>
-
-* **Sida för konversationsflöde**: På sidan Design Studio Asset visas nu konversationsflöden i Dynamic Chat. Se vilka flöden som kan integreras i Marketo Engage och länka direkt till redigeraren.
-
-<table>
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Forms i konversationslayout med Marketo Engage Forms**: Förvandla Marketo Engage Forms till en konversationskedja genom att integrera dem med Dynamic Chat. Hitta leads direkt med hjälp av formulärdata eller Smart List-medlemskap för mötesbokningar, rapporter eller anpassade mål.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Konversationer SDK**: Omvandla alla typer av formulär, landningssidor eller nästan alla webbsidor till engagerande bokningsupplevelser.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Inställningar för anpassad mötesbokning**: Agenter kan ange anpassade inställningar för mötesbokning, till exempel tillgänglighet, möteslängd och buffringstid mellan möten.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Reservinställningar**: Administratörer kan ange anpassade reservinställningar för att definiera vad besökarna ser när agenter inte är tillgängliga för chatt.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Instrumentpanel för globala prestanda**: Se hur väl era dialoger fungerar, inklusive engagemangs- och prestandamått (totalt och över en tid), toppresterande sidor och högpresterande dialogrutor.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Live Chatt**: Webbbesökare kan chatta med säljarna i realtid för att få svar på sina frågor.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Live Chatt Performance Dashboard**: Se hur många samtal era säljare haft och vilka team som presterar bäst.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Målinriktning för smarta listor i Marketo Engage**: Marknadsförarna kan inrikta sig på medlemmar i Marketo Engage smarta listor enligt villkoren för dialog.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Instrumentpanel för mötesprestanda**: Se hur många möten som bokas och vem de bokas med.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Nya aktiviteter i Dynamic Chat**: Nya aktiviteter för konversationsflöden, live chatt och andra nya funktioner.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Live Chat-meddelanden i realtid**: När besökare begär live-chatt får agenterna meddelanden i realtid i appen och webbläsaren.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Aviseringar om försäljningsåtgärder**: Agenter med Sales Insight Actions får meddelanden om live-chattförfrågningar i realtid på åtgärdspanelen i Sales Insight.
-
-<table>
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Team**: Skapa team med agenter som besökare kan dirigeras till för live-chatt eller mötesbokningar.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Utlösartoken för nya aktiviteter**: Det finns nya utlösande token som kan användas för de nya aktiviteterna för Dynamic Chat.
-
-<table style="margin-left:10px" width="400px"> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Dokumentationsuppdateringar</b></td>
-  </tr>
-  <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-  </tbody>
-</table>
+<br/>
 
 ## Meddelanden {#announcements}
 
