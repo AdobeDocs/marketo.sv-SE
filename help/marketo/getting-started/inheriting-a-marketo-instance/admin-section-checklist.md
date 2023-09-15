@@ -3,22 +3,26 @@ description: Ärvd kontrollista för instansadministratör - Marketo Docs - Prod
 title: Ärvd kontrollista för instansadministratör
 hide: true
 hidefromtoc: true
-source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
+source-git-commit: d3a35d669eb54d020228ffdbdd7606a86abd18af
 workflow-type: tm+mt
-source-wordcount: '1444'
+source-wordcount: '1566'
 ht-degree: 0%
 
 ---
 
 # Ärvd instans: Admin Section Checklist {#inherited-instance-admin-section-checklist}
 
-Checklistorna nedan (efterföljande checklistor länkade till längst ned i varje artikel) har sammanställts med indata från Marketo Champions för att du snabbt ska komma igång. Du kan även hämta checklistorna och följa upp dina framsteg.
+Checklistorna nedan (efterföljande checklistor länkade till längst ned i varje artikel) har sammanställts av Adobe Professional Services med synpunkter från Marketo Champions för att du snabbt ska komma igång. Du kan även hämta checklistorna och följa upp dina framsteg.
 
 >[!TIP]
 >
 >Om du är nybörjare i Marketo Engage och inte känner till många av villkoren kan du läsa [Marketo Engage - ordlista](/help/marketo/getting-started/marketo-engage-glossary.md){target="_blank"}.
 
 ## Adobe Identity Management {#adobe-identity-management}
+
+>[!NOTE]
+>
+>Detta gäller endast prenumerationer på [Adobe Identity Management System (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your Marketo Engage subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} i Marketo Engage > Admin > Användare &amp; roller.
 
 <table> 
  <tbody> 
@@ -28,23 +32,22 @@ Checklistorna nedan (efterföljande checklistor länkade till längst ned i varj
   </tr> 
   <tr> 
    <td>Prenumeration</td> 
-   <td><li>Är din prenumeration på Marketo Engage på <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe Identity Management System</a> (Adobe IMS) ännu? 
-<br/>     Om så är fallet, har du fått rollen "Adobe Admin Console Product Admin" av din "Adobe Admin Console System Admin"? Om du är osäker på vem i organisationen som har administratörsbehörighet i konsolen kontaktar du <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe kundtjänst</a>.  
-<br/>     Annars fortsätter du med <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">äldre användarroller och behörigheter</a> i Marketo Engage &gt; Admin &gt; Användare och roller tills din prenumeration förnyas.</li></td>
+   <td><li>Har din Marketo Engage-prenumeration migrerats till <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> ännu? 
+<br/>     Om så är fallet, har du fått rollen "Adobe Admin Console Product Admin" av din "Adobe Admin Console System Admin"? Om du är osäker på vem i organisationen som har administratörsbehörighet i konsolen kontaktar du <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe kundtjänst</a>.</li>
+<li>Har du accepterat inbjudan till produktadministratör för Marketo Engage? E-postmeddelandet skickas när rollen tilldelas i Adobe Admin Console.
+<br/>     Om inte, sök efter <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#" target="_blank">välkomstmeddelande</a> i din inkorg och acceptera inbjudan att aktivera din Adobe ID.</li></td>
   </tr>
   <tr> 
    <td>Produktprofil</td> 
-   <td>(Prenumerationer på Adobe IMS <b>endast</b>)
-<p>
-<li>Har du tilldelats rollen 'produktadministratör för Marketo Engage' i Marketo Engage/Admin/Users &amp; Roles?</li> 
-<li>Har du tilldelat Marketo Engage till alla lämpliga användares produktprofiler i Adobe Admin Console?
-<br/>     Om inte, måste du tilldela Marketo Engage till deras Adobe IMS-produktprofil innan du tilldelar deras roller i Marketo Engage/Admin/Users &amp; Roles.</li>
-<p><img src="assets/note-icon.png" alt="anteckningsikon"> Obs! Om din prenumeration har fler än 75 användare och nyligen har migrerats till Adobe IMS kan du välja att migrera gruppvis och administrera deras Adobe-ID i grupper eller alla samtidigt. Läs mer om vad du kan förvänta dig av <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Migreringsdag för Adobe IMS</a>.</td>
+   <td><li>Tilldelas alla lämpliga användare till Marketo Engage produktprofil i Adobe Admin Console?
+<br/>     Om inte, se till att <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md" target="_blank">lägga till och/eller ta bort användare</a> från Marketo Engage produktprofiler i Adobe Admin Console. Du kan inte tilldela användarroller i Marketo Engage &gt; Admin &gt; Användare och roller om de läggs till i en produktprofil.</li>
+<p><img src="assets/note-icon.png" alt="anteckningsikon"> Obs! Om en oönskad användare läggs till i flera produktprofiler måste du ta bort användaren från alla produktprofiler. Annars har de fortfarande tillgång till Marketo Engage.</td>
   </tr>
   <tr> 
    <td>API för användarhantering</td> 
-   <td><li>Har din prenumeration använt några Marketo API:er för användarhantering?
-<br/>     I så fall måste du använda <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">Adobe IMS API:er</a> om du vill bjuda in, uppdatera och ta bort användare framåt.</li></td>
+   <td><li>Använder din prenumeration några Marketo API:er för användarhantering?
+<br/>     I så fall måste du använda <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">Adobe IMS API:er</a> om du vill bjuda in, uppdatera och ta bort användare framåt.</li>
+<p><img src="assets/note-icon.png" alt="anteckningsikon"> Obs! Rollhantering finns kvar i Marketo Engage och Marketo API:er för användarhantering kan fortfarande användas för rollhantering.</td>
   </tr>
  </tbody> 
 </table>
@@ -59,8 +62,10 @@ Checklistorna nedan (efterföljande checklistor länkade till längst ned i varj
   </tr> 
   <tr> 
    <td>Användare</td> 
-   <td><li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">Hur många användare</a> Är det där?</li>
-<li>Finns det några användare som ska tas bort?</li>
+   <td><img src="assets/note-icon.png" alt="anteckningsikon"> Obs! Om din prenumeration redan finns på Adobe IMS går du vidare till följande granskning av användarhantering i Adobe Admin Console. I annat fall går du till Admin &gt; Användare och roller &gt; Användare i Marketo Engage.
+   <p>
+   <li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">Hur många användare</a> Är det där?</li>
+<li>Finns det några användare som ska <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#remove-a-user" target="_blank">borttagen</a>?</li>
 <li>Har ditt företag policyer för att ta bort användare?</li> 
 <li>Hur många användare har <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">Administratörsbehörigheter</a>?</li>
 <li>Bör någon av dessa användare ändras till <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">andra roller?</a></li> 
@@ -68,12 +73,13 @@ Checklistorna nedan (efterföljande checklistor länkade till längst ned i varj
   </tr>
   <tr> 
    <td>Roller</td> 
-   <td><li>Hur många roller finns det?</li>  
+   <td><img src="assets/note-icon.png" alt="anteckningsikon"> Obs! Oavsett om du använder Marketo med Adobe Identity eller inte kan du fortsätta med att granska rollbehörigheter i Marketo Engage under Admin &gt; Användare &amp; roller &gt; Roller.
+   <p><li>Hur många roller finns det?</li>  
 <li>Vad <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">behörigheter/åtkomst</a> har varje roll? Ska någon justeras?</li>
 <li>Hur många användare finns det per roll?</li>
 <li>Hur ofta är användare <a href="/help/marketo/product-docs/administration/audit-trail/user-login-history.md" target="_blank">logga in</a>?</li>
 <li>Har varje API-användare sina <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md" target="_blank">egen användarroll</a>? Om inte, bör du implementera den för att underlätta felsökningen.</li> 
-<li>Anpassa era användarroller och behörigheter efter era företagsdata <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">integritetspolicy</a>?</li></td>
+<li>Anpassa era användarroller och behörigheter efter företagets integritetspolicyer för regelefterlevnad (t.ex. <a href="https://gdpr-info.eu/" target="_blank">GDPR</a>)? Gör företagsdata <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">integritetspolicy</a> tillåta användare att hämta och dela användardata för Marketo Engage? Är behörighetsverksamheten nödvändig?</li></td>
   </tr>
   <tr> 
    <td>Supportanvändare</td> 

@@ -3,9 +3,9 @@ description: Lär dig hur du optimerar och skalförändrar en befintlig Marketo 
 title: HoppaStarta en ärvd Marketo Engage-instans
 hide: true
 hidefromtoc: true
-source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
+source-git-commit: d3a35d669eb54d020228ffdbdd7606a86abd18af
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,9 @@ Vill du starta ett nytt jobb eller ta över en befintlig instans från en annan 
 
 ## Kom igång med Marketing Nation {#get-set-up-in-the-marketing-nation}
 
-Kontrollera att du är korrekt konfigurerad i Marketo Community.
-
-* **[Konfigurera din profil]**(https://nation.marketo.com/){target="_blank"}.
+Se till att du är korrekt konfigurerad i Marketing Nation Community.
 
 * [**Konfigurera din profil**](https://nation.marketo.com/){target="_blank"}.
-
-* **[Konfigurera din profil](https://nation.marketo.com/)**{target="_blank"}.
-
-* **[Konfigurera din profil](https://nation.marketo.com/){target="_blank"}**.
 
 * Läs upp [**Riktlinjer för marknadsföringscommunity**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
@@ -32,9 +26,9 @@ Kontrollera att du är korrekt konfigurerad i Marketo Community.
 
 * Lär dig hur [**skicka in ett supportärende**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
 
-## Ärvda instansgranskningsguider {#inherited-instance-audit-guides}
+## Granska din ärvda instans  {#audit-your-inherited-instance}
 
-Checklistorna nedan har sammanställts med synpunkter från Marketo Champions för att hjälpa dig att komma igång snabbt. Lär dig navigera på olika områden i Marketo Engage och utföra de olika uppgifter som krävs för att utföra en granskning, med länkar till rekommenderad hjälpdokumentation.
+Adobe Professional Services (med synpunkter från Marketo Champions) har sammanställt flera Marketo Engage Inherited Instance Audit Checklists som hjälper dig att komma igång snabbt. Lär dig navigera på olika områden i Marketo Engage och utföra de olika uppgifter som krävs för att utföra en granskning, med länkar till rekommenderad hjälpdokumentation.
 
 Du kan även hämta checklistorna i kalkylbladsformulär.
 
