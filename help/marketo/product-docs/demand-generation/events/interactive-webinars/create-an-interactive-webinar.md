@@ -3,9 +3,9 @@ description: Skapa ett interaktivt webbinarium - Marketo Docs - produktdokumenta
 title: Skapa ett interaktivt webbinarium
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0ee9bd4bc9639c452219f9445a88b552617a785f
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,13 @@ Skapa ett interaktivt webbinarium i några enkla steg.
 
    ![](assets/create-an-interactive-webinar-3.png)
 
-1. Klicka på listrutan Kanal och välj **Webbinarium**.
+1. Klicka på listrutan Kanal och välj en kanal som har _Händelse med webbinarium_ i kolumnen&quot;Tillämpar på&quot;. I det här exemplet väljer vi **Webbinarium**.
 
    ![](assets/create-an-interactive-webinar-4.png)
+
+   >[!NOTE]
+   >
+   >För att se vilka kanaler som gäller _Händelse med webbinarium_, gå till **Administratör** > **Taggar**. &quot;Gäller för&quot; ska vara den mittersta kolumnen. Läs mer om Tillämpa på i steg 5 i [den här artikeln](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
 1. Välj **Interaktiva webbinarier** och klicka **Nästa**.
 
@@ -46,6 +50,6 @@ Skapa ett interaktivt webbinarium i några enkla steg.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-Ditt interaktiva webbinarium skapas. Nu är det dags att [designa](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md).
+Ditt interaktiva webbinarium skapas. Nu är det dags att [utforma den](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
 
 ![](assets/create-an-interactive-webinar-8.png)
