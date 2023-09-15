@@ -3,9 +3,9 @@ description: Ärvd kontrollista för instansadministratör - Marketo Docs - Prod
 title: Ärvd kontrollista för instansadministratör
 hide: true
 hidefromtoc: true
-source-git-commit: d3a35d669eb54d020228ffdbdd7606a86abd18af
+source-git-commit: ea0e8368e83168dd3f14f815f387f8dead0fff11
 workflow-type: tm+mt
-source-wordcount: '1566'
+source-wordcount: '1560'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Checklistorna nedan (efterföljande checklistor länkade till längst ned i varj
    <td><li>Har din Marketo Engage-prenumeration migrerats till <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> ännu? 
 <br/>     Om så är fallet, har du fått rollen "Adobe Admin Console Product Admin" av din "Adobe Admin Console System Admin"? Om du är osäker på vem i organisationen som har administratörsbehörighet i konsolen kontaktar du <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe kundtjänst</a>.</li>
 <li>Har du accepterat inbjudan till produktadministratör för Marketo Engage? E-postmeddelandet skickas när rollen tilldelas i Adobe Admin Console.
-<br/>     Om inte, sök efter <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#" target="_blank">välkomstmeddelande</a> i din inkorg och acceptera inbjudan att aktivera din Adobe ID.</li></td>
+<br/>     Om inte, sök efter <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank">välkomstmeddelande</a> i din inkorg och acceptera inbjudan att aktivera din Adobe ID.</li></td>
   </tr>
   <tr> 
    <td>Produktprofil</td> 
