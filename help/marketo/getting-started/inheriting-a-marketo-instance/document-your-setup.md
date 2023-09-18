@@ -3,16 +3,16 @@ description: Ärvda instansdokument Dina inställningar - Marketo Docs - Produkt
 title: Ärvda instansdokument Dina inställningar
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
 
 # Ärvd instans: Dokumentera konfigurationen {#inherited-instance-document-your-setup}
 
-Nu när du har lärt dig de viktigaste produktområdena att granska när du ärver en etablerad instans är nästa steg att skapa/uppdatera dokumentation om din instanskonfiguration och teknologi. Oavsett om du skapar det via kalkylblad eller ett projekthanteringsprogram är dokumentationen en bra resurs för att spåra förloppet och registrera information.
+Nu när du har lärt dig de viktigaste produktområdena att granska när du ärver en etablerad instans är nästa steg att skapa/uppdatera dokumentation om din instanskonfiguration och teknologi. Oavsett om du skapar det via kalkylblad eller en projektledningsapplikation är din dokumentation en bra resurs för att spåra framsteg och registrera detaljer, liksom för att hålla din instans strukturerad och hållbar.
 
 ## Data {#data}
 
@@ -51,11 +51,12 @@ Nu när du har lärt dig de viktigaste produktområdena att granska när du ärv
   <tr> 
    <td>Organisation</td> 
     <td><li>Har du robust dokumentation för hur din Marketo Engage-instans är organiserad och varför?</li>
-   <p><p><img src="assets/action-item-icon.png" alt="ikon för funktionsmakroobjekt">Åtgärd: Skapa dokumentation som innehåller mappstruktur, namnkonvention och kanaler som används i din instans.</td>
+   <p><img src="assets/action-item-icon.png" alt="ikon för funktionsmakroobjekt">Åtgärd: Skapa dokumentation som innehåller mappstruktur, namnkonvention och kanaler som används i din instans.</td>
   </tr>
   <tr> 
    <td>Changelog</td> 
-    <td><li>Har du en ändringslogg där du kan dokumentera vad som ändras i din instans och varför?</li></td>
+    <td><li>Har du en ändringslogg där du kan dokumentera vad som ändras i din instans och varför?</li>
+    <p><img src="assets/action-item-icon.png" alt="ikon för funktionsmakroobjekt">Åtgärdsobjekt: Hämta det här exemplet för att skapa en ändringslogg och dokumentera ändringar i instansinställningarna.</td>
   </tr>
   <tr> 
    <td>Playbooks</td> 
@@ -65,7 +66,8 @@ Nu när du har lärt dig de viktigaste produktområdena att granska när du ärv
   <tr> 
    <td>Konversationer med interna intressenter</td> 
     <td><li>Vilka är de interna förväntningarna för företagets marknadsföringsteam? Matchar de vad Marketo Engage levererar?</li>
-   <li>Vilka team är intressenter i er Marketo Engage-instans?</li></td>
+   <li>Vilka team är intressenter i er Marketo Engage-instans?</li>
+   <p><img src="assets/action-item-icon.png" alt="ikon för funktionsmakroobjekt">Åtgärdsobjekt: Hämta det här <a href="https://nation.marketo.com/t5/product-blogs/planning-and-communicating-about-your-marketo-onboarding/ba-p/243555?attachment-id=1705" target="_blank">Mallen för handboken för interna intressenter</a> dokumentera mål och förväntningar från era huvudintressenter.</td>
   </tr>
  </tbody> 
 </table>

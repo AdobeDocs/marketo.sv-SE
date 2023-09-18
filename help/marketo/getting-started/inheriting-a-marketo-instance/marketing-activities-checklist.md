@@ -3,7 +3,7 @@ description: Ärvd checklista för instansmarknadsföringsaktiviteter - Marketo 
 title: Ärvd checklista för instansmarknadsföringsaktiviteter
 hide: true
 hidefromtoc: true
-source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
 source-wordcount: '826'
 ht-degree: 0%
@@ -16,11 +16,11 @@ Ordna avsnittet marknadsföringsaktiviteter på rätt sätt så att andra kan hi
 
 ## Organisation {#organization}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
-   <th style="width:20%">Område</th> 
-   <th style="width:80%">Granska fokus</th>
+   <th style="width:30%">Område</th> 
+   <th style="width:70%">Granska fokus</th>
   </tr> 
   <tr> 
    <td>Namnkonventioner</td> 
@@ -61,12 +61,12 @@ Ordna avsnittet marknadsföringsaktiviteter på rätt sätt så att andra kan hi
 
 ## Resurser {#assets}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
-  <tr> 
-   <th style="width:20%">Område</th> 
-   <th style="width:80%">Granska fokus</th>
-  </tr> 
+  <tr>
+   <th style="width:30%">Område</th>
+   <th style="width:70%">Granska fokus</th>
+  </tr>
   <tr> 
    <td>Tokens</td> 
    <td><li>är <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" target="_blank">variabler</a> används i de vanligaste programtyperna? 
@@ -114,12 +114,12 @@ Ordna avsnittet marknadsföringsaktiviteter på rätt sätt så att andra kan hi
 
 ## Verksamhetsprogram {#operational-programs}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
-   <th style="width:20%">Område</th> 
-   <th style="width:80%">Granska fokus</th>
-  </tr> 
+   <th style="width:30%">Område</th> 
+   <th style="width:70%">Granska fokus</th>
+  </tr>
   <tr> 
    <td>Personpoäng</td> 
    <td><li>Har ni en central <a href="/help/marketo/getting-started/quick-wins/simple-scoring.md" target="_blank">personpoäng</a> finns på plats?</li>

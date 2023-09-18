@@ -3,9 +3,9 @@ description: Ärvd checklista för instansdesign Studio - Marketo Docs - produkt
 title: Ärvd checklista för instansdesign Studio
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
-source-wordcount: '530'
+source-wordcount: '553'
 ht-degree: 0%
 
 ---
@@ -55,7 +55,11 @@ Genom att strukturera mallar och skapa globala formulär, kodfragment och bilder
 <li>Använder de flesta program globala eller lokala formulär?</li>
 <li>Samlar alla formulär in rätt data för marknadsföring och försäljning?</li>
 <li>Används dolda värden korrekt?</li>
-<li>Används några Marketo Engage-formulär på din webbplats (inte landningssidor i Marketo Engage)?</li></td>
+<li>Används några Marketo Engage-formulär på landningssidor som inte är Marketo Engage? Hur refereras de?</li>
+<p><img src="assets/tip-icon.png" alt="ikonen för tips">TIPS: Uppdatera sidor där du bäddar in Marketo Engage-formulär med den nya inbäddningskoden som introducerats (kräver säkra landningssidor).
+<br/><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script>
+<br/><form id="mktoForm_1"><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script>
+</td>
   </tr>
   <tr> 
    <td>Datainsamling</td> 
