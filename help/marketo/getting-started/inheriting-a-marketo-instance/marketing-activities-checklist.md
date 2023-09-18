@@ -3,9 +3,9 @@ description: Ärvd checklista för instansmarknadsföringsaktiviteter - Marketo 
 title: Ärvd checklista för instansmarknadsföringsaktiviteter
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '826'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Ordna avsnittet marknadsföringsaktiviteter på rätt sätt så att andra kan hi
  <tbody> 
   <tr> 
    <th style="width:20%">Område</th> 
-   <th>Granska fokus</th>
+   <th style="width:80%">Granska fokus</th>
   </tr> 
   <tr> 
    <td>Namnkonventioner</td> 
@@ -32,12 +32,12 @@ Ordna avsnittet marknadsföringsaktiviteter på rätt sätt så att andra kan hi
   </tr>
   <tr> 
    <td>Program</td> 
-   <td><li>KG - ÄR DETTA FORTFARANDE RELEVANT FINNS det <a href="https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself" target="_blank">Center of Excellence</a> med programmallar? 
-   <br/>     Om så är fallet, är programmallarna bra för teamets användningsfall?</li>
-<li>Är liknande programtyper <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">konsekvent strukturerad</a>?</li>
+   <td><li>Är liknande programtyper <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">konsekvent strukturerad</a>?</li>
 <li>är <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">periodkostnader</a> på plats?</li>
 <li>Är alla program <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">synkroniserat med SFDC-kampanjer</a> (om tillämpligt)?</li>
-<li>Har du flödessteg som tilldelar en <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">förvärvsprogram</a> till människor?</li></td>
+<li>Har du flödessteg som tilldelar en <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">förvärvsprogram</a> till människor?</li>
+<li>Finns det någon central plats för programmallar? 
+   <br/>     Om inte kan du välja bland flera färdiga programexempel i <a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Marketo Engage programbibliotek</a>.</li></td>
   </tr>
   <tr> 
    <td>Arkiv</td> 
@@ -45,14 +45,14 @@ Ordna avsnittet marknadsföringsaktiviteter på rätt sätt så att andra kan hi
 <li>Hur ofta granskar och arkiverar ert företag gamla program?</li>
 <p><img src="assets/tip-icon.png" alt="ikonen för tips">TIPS: Det är bra att göra en granskning varje år.</td>
   </tr>
-  <tr> 
+  <tr>
    <td>Meddelanden</td> 
    <td><li>Finns det några kampanjfel i <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md" target="_blank">Fliken Meddelanden</a> överst i instansen?</li>
 <li>Är du <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md#subscribe-to-notifications" target="_blank">prenumerera på meddelanden</a> för att hålla dig à jour med eventuella fel som kan uppstå i framtiden?</li></td>
   </tr>
   <tr> 
    <td>Prenumerationer på smarta listor 
-   <br/>(Fliken Marknadsföringsaktiviteter/Prenumerationer)</td> 
+   <br/>(marknadsföringsaktiviteter/prenumerationer)</td> 
    <td><li>Finns det pågående <a href="/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md" target="_blank">Prenumerationer med Smart List</a> i din instans? Om ja, vem ska de göra?</li>
 <p><img src="assets/tip-icon.png" alt="ikonen för tips">TIPS: Överväg att konfigurera Smart List-prenumerationer för att gå till ett teamalias i stället för en individ. Detta täcker dig om enskilda personer inte är på kontoret.</td>
   </tr>
@@ -65,7 +65,7 @@ Ordna avsnittet marknadsföringsaktiviteter på rätt sätt så att andra kan hi
  <tbody> 
   <tr> 
    <th style="width:20%">Område</th> 
-   <th>Granska fokus</th>
+   <th style="width:80%">Granska fokus</th>
   </tr> 
   <tr> 
    <td>Tokens</td> 
@@ -79,7 +79,8 @@ Ordna avsnittet marknadsföringsaktiviteter på rätt sätt så att andra kan hi
 <li>Hur många <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">folk är utmattade</a>? 
 <br/>     Om det finns många utmattade människor bör du överväga <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" target="_blank">lägga till innehåll</a>.</li>
 <li>Är människor <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md" target="_blank">engagerande med innehållet</a>? 
-<br/>     Om inte, överväg att uppdatera den och/eller A/B-testning.</li></td>
+<br/>     Om inte, överväg att uppdatera den och/eller A/B-testning.</li>
+<li>Har du stött på några personer i flera engagemangsprogram? Borde de vara i mer än en?</li></td>
   </tr>
   <tr> 
    <td>Gruppkampanjer</td> 
@@ -117,7 +118,7 @@ Ordna avsnittet marknadsföringsaktiviteter på rätt sätt så att andra kan hi
  <tbody> 
   <tr> 
    <th style="width:20%">Område</th> 
-   <th>Granska fokus</th>
+   <th style="width:80%">Granska fokus</th>
   </tr> 
   <tr> 
    <td>Personpoäng</td> 
@@ -151,7 +152,7 @@ Ordna avsnittet marknadsföringsaktiviteter på rätt sätt så att andra kan hi
   <tr> 
    <td>E-postleverans</td> 
    <td><li>Dra en <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">Rapport om e-postprestanda</a> för de senaste månaderna. Hur ser e-postleveransen ut?</li>
-<li>Om e-postleveransen är dålig bör du överväga att undersöka och implementera bästa praxis för e-postleverans, till exempel <a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" target="_blank">SPF och DKIM</a>.</li>
+<li>Om e-postleveransen inte är så stark som du vill kan du överväga att undersöka och implementera bästa praxis för e-postleverans, till exempel <a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" target="_blank">SPF och DKIM</a>.</li>
 <li>når ni ut till er marknadsföringsbara målgrupp?</li></td>
   </tr>
   <tr> 
