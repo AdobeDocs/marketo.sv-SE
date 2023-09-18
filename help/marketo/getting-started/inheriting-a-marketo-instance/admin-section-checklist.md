@@ -3,9 +3,9 @@ description: Ärvd kontrollista för instansadministratör - Marketo Docs - Prod
 title: Ärvd kontrollista för instansadministratör
 hide: true
 hidefromtoc: true
-source-git-commit: ea0e8368e83168dd3f14f815f387f8dead0fff11
+source-git-commit: ab7173fe39c80d3123dc9bf488d24571661c58b4
 workflow-type: tm+mt
-source-wordcount: '1560'
+source-wordcount: '1564'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Checklistorna nedan (efterföljande checklistor länkade till längst ned i varj
    <th>Granska fokus</th>
   </tr> 
   <tr> 
-   <td>Prenumeration</td> 
+   <td>Prenumeration och produktadministratör för Marketo Engage</td> 
    <td><li>Har din Marketo Engage-prenumeration migrerats till <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> ännu? 
 <br/>     Om så är fallet, har du fått rollen "Adobe Admin Console Product Admin" av din "Adobe Admin Console System Admin"? Om du är osäker på vem i organisationen som har administratörsbehörighet i konsolen kontaktar du <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe kundtjänst</a>.</li>
 <li>Har du accepterat inbjudan till produktadministratör för Marketo Engage? E-postmeddelandet skickas när rollen tilldelas i Adobe Admin Console.
