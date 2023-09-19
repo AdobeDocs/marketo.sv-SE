@@ -3,9 +3,9 @@ description: Ärvda instansdokument Dina inställningar - Marketo Docs - Produkt
 title: Ärvda instansdokument Dina inställningar
 hide: true
 hidefromtoc: true
-source-git-commit: 18749bdff222980177b46969b105216d7b720db9
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ Nu när du har lärt dig de viktigaste produktområdena att granska när du ärv
   <tr> 
    <td>Changelog</td> 
     <td><li>Har du en ändringslogg där du kan dokumentera vad som ändras i din instans och varför?</li>
-    <p><img src="assets/action-item-icon.png" alt="ikon för funktionsmakroobjekt">Åtgärdsobjekt: Hämta det här exemplet för att skapa en ändringslogg och dokumentera ändringar i instansinställningarna.</td>
+    <p><img src="assets/action-item-icon.png" alt="ikon för funktionsmakroobjekt">Åtgärdsobjekt: Skapa en ändringslogg och dokumentändringar som gjorts i instanskonfigurationen.</td>
   </tr>
   <tr> 
    <td>Playbooks</td> 
@@ -67,7 +67,7 @@ Nu när du har lärt dig de viktigaste produktområdena att granska när du ärv
    <td>Konversationer med interna intressenter</td> 
     <td><li>Vilka är de interna förväntningarna för företagets marknadsföringsteam? Matchar de vad Marketo Engage levererar?</li>
    <li>Vilka team är intressenter i er Marketo Engage-instans?</li>
-   <p><img src="assets/action-item-icon.png" alt="ikon för funktionsmakroobjekt">Åtgärdsobjekt: Hämta det här <a href="https://nation.marketo.com/t5/product-blogs/planning-and-communicating-about-your-marketo-onboarding/ba-p/243555?attachment-id=1705" target="_blank">Mallen för handboken för interna intressenter</a> dokumentera mål och förväntningar från era huvudintressenter.</td>
+   <p><img src="assets/action-item-icon.png" alt="ikon för funktionsmakroobjekt">Åtgärd: dokumentera mål och förväntningar från era huvudintressenter och uppdatera dem när ni checkar in dem med era motsvarigheter under året.</td>
   </tr>
  </tbody> 
 </table>

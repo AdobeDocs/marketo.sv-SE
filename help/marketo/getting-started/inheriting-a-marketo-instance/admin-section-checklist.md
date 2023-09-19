@@ -3,9 +3,9 @@ description: Ärvd kontrollista för instansadministratör - Marketo Docs - Prod
 title: Ärvd kontrollista för instansadministratör
 hide: true
 hidefromtoc: true
-source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '1566'
+source-wordcount: '1592'
 ht-degree: 0%
 
 ---
@@ -231,6 +231,21 @@ Checklistorna nedan (efterföljande checklistor länkade till längst ned i varj
    <td>Anpassade objekt</td> 
    <td><li>Hur många <a href="/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md" target="_blank">anpassade objekt</a> Är det där? Hur synkroniseras de med din CRM?</li>
 <li>Hur används dessa anpassade objekt av program och listfrågor?</li></td>
+  </tr>
+ </tbody> 
+</table>
+
+## E-post {#email}
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:20%">Område</th>
+   <th>Granska fokus</th>
+  </tr> 
+  <tr> 
+   <td>Standardinställningar för e-post</td> 
+   <td><li>I Admin &gt; E-post är alla dina standardinställningar aktuella (t.ex. <a href="/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md" target="_blank">"from", e-post/etikett</a>, <a href="/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md" target="_blank">varumärkesdomän</a>, <a href="/help/marketo/product-docs/administration/email-setup/edit-the-unsubscribe-message.md" target="_blank">avbeställ meddelande</a>, osv.)?</li></td>
   </tr>
  </tbody> 
 </table>

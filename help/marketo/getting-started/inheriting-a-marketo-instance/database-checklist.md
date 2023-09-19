@@ -3,9 +3,9 @@ description: Ärvd checklista för instansdatabas - Marketo Docs - produktdokume
 title: Ärvd checklista för instansdatabas
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -74,6 +74,7 @@ Förstå det totala antalet personer, säljbara personer och de främsta leveran
   <tr> 
    <td>Smarta listor</td> 
    <td><li>Hur många <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">Smarta listor</a> Är det där? Hur används de i den här instansen?</li>
+   <p><img src="assets/note-icon.png" alt="anteckningsikon"> Obs! I avsnittet Databas genereras smarta grupplistor av användare och smarta systemlistor är standardlistor som skapas av Marketo Engage.
 <li>Är listorna ordnade i en sammanhängande mappstruktur? 
 <br/>     Om du har överblivna listor bör du överväga att ordna trädet så att det blir enkelt att hitta resurser.</li>
 <p><img src="assets/tip-icon.png" alt="ikonen för tips">TIPS: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Arkivering</a> Smarta listor som inte längre behövs hjälper till med organisation och prestanda.</td>
@@ -91,7 +92,8 @@ Förstå det totala antalet personer, säljbara personer och de främsta leveran
   </tr> 
   <tr> 
    <td>Statiska listor</td> 
-   <td><li>Hur många <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">Statiska listor</a> Är det där? Hur används de i den här instansen?</li></td>
+   <td><li>Hur många <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">Statiska listor</a> Är det där? Hur används de i den här instansen?</li>
+   <p><img src="assets/note-icon.png" alt="anteckningsikon"> Obs! Grupplistor är statiska listor i databasavsnittet.</td>
   </tr>
  </tbody> 
 </table>

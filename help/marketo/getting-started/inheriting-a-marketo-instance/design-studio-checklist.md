@@ -3,7 +3,7 @@ description: Ärvd checklista för instansdesign Studio - Marketo Docs - produkt
 title: Ärvd checklista för instansdesign Studio
 hide: true
 hidefromtoc: true
-source-git-commit: 18749bdff222980177b46969b105216d7b720db9
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
 source-wordcount: '553'
 ht-degree: 0%
@@ -94,6 +94,7 @@ Genom att strukturera mallar och skapa globala formulär, kodfragment och bilder
   <tr> 
    <td>E-posttestning</td> 
    <td><li>Hur använder man <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/understanding-email-testing-options.md" target="_blank">e-posttestning</a>? Gäller metoden fortfarande?</li></td>
+  </tr>
   </tr>
   <tr> 
    <td>Sekretess och efterlevnad</td> 
