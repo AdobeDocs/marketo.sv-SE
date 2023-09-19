@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: c6bafe84ce856705b233818dddb49e4770c60d86
 workflow-type: tm+mt
 source-wordcount: '9098'
 ht-degree: 0%
@@ -38,7 +38,7 @@ ht-degree: 0%
       + [Omdirigera en landningssida](getting-started/quick-wins/redirect-a-landing-page.md)
       + [Automatisera en avisering om möjliga dubbletter av personer](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
    + Ärva en Marketo Engage-instans {#inheriting-a-marketo-engage-instance}
-      + [Var ska jag börja?](getting-started/inheriting-a-marketo-engage-instance/new-inherit-overview.md)
+      + [Var ska jag börja?](getting-started/inheriting-a-marketo-engage-instance/where-to-start.md)
       + [Ärvd instans: Admin Section Checklist](getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
       + [Ärvd instans: Databaskontrolllista](getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
       + [Ärvd instans: Checklista för marknadsföringsaktiviteter](getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
