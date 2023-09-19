@@ -3,9 +3,9 @@ description: Ärvd checklista för instansdesign Studio - Marketo Docs - produkt
 title: Ärvd checklista för instansdesign Studio
 hide: true
 hidefromtoc: true
-source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
+source-git-commit: 30a7b16e20b6abdfe4f7c10000e64d556ba94116
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: '560'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,31 @@ Genom att strukturera mallar och skapa globala formulär, kodfragment och bilder
  </tbody> 
 </table>
 
+## Bilder och filer {#images-and-files}
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:20%">Område</th> 
+   <th>Granska fokus</th>
+  </tr> 
+  <tr> 
+   <td>Namnkonventioner</td> 
+   <td><li>Gör <a href="/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md" target="_blank">bilder och filer</a> har du konsekventa namnkonventioner?</li></td>
+  </tr>
+  <tr> 
+   <td>Mappstruktur</td> 
+   <td><li>Är bilder och filer <a href="/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md" target="_blank">organiserat på lämpligt sätt</a> och är lätt att söka i?</li></td>
+  </tr>
+  <tr> 
+   <td>Bilder och filer</td> 
+   <td><li>Gör några bilder eller filer <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">som refereras på webbsidor</a> behöver uppdateras? 
+   <p>Exempel: Den hårdkodade URL-strukturen <a href="https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632#_Toc54870361" target="_blank">kan behöva uppdateras</a>, till exempel <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
+   <p>Kontakta din webbutvecklare för att få reda på var du kan behöva göra uppdateringar.</li></td>
+  </tr>
+ </tbody> 
+</table>
+
 ## Forms {#forms}
 
 <table style="table-layout:auto"> 
@@ -57,8 +82,8 @@ Genom att strukturera mallar och skapa globala formulär, kodfragment och bilder
 <li>Används dolda värden korrekt?</li>
 <li>Används några Marketo Engage-formulär på landningssidor som inte är Marketo Engage? Hur refereras de?</li>
 <p><img src="assets/tip-icon.png" alt="ikonen för tips">TIPS: Uppdatera sidor där du bäddar in Marketo Engage-formulär med den nya inbäddningskoden som introducerats (kräver säkra landningssidor).
-<br/><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script>
-<br/><form id="mktoForm_1"><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script>
+<br/><pre><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script></pre>
+<br/><pre><form id="mktoForm_1"></form><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script></pre>
 </td>
   </tr>
   <tr> 
@@ -120,31 +145,6 @@ Genom att strukturera mallar och skapa globala formulär, kodfragment och bilder
  </tbody> 
 </table>
 
-## Bilder och filer {#images-and-files}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:20%">Område</th> 
-   <th>Granska fokus</th>
-  </tr> 
-  <tr> 
-   <td>Namnkonventioner</td> 
-   <td><li>Gör <a href="/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md" target="_blank">bilder och filer</a> har du konsekventa namnkonventioner?</li></td>
-  </tr>
-  <tr> 
-   <td>Mappstruktur</td> 
-   <td><li>Är bilder och filer <a href="/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md" target="_blank">organiserat på lämpligt sätt</a> och är lätt att söka i?</li></td>
-  </tr>
-  <tr> 
-   <td>Bilder och filer</td> 
-   <td><li>Gör några bilder eller filer <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">som refereras på webbsidor</a> behöver uppdateras? 
-   <p>Exempel: Den hårdkodade URL-strukturen <a href="https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632#_Toc54870361" target="_blank">kan behöva uppdateras</a>, till exempel <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
-   <p>Kontakta din webbutvecklare för att få reda på var du kan behöva göra uppdateringar.</li></td>
-  </tr>
- </tbody> 
-</table>
-
 ## Alla resurser {#all-assets}
 
 <table style="table-layout:auto"> 
@@ -155,7 +155,7 @@ Genom att strukturera mallar och skapa globala formulär, kodfragment och bilder
   </tr> 
   <tr> 
    <td>Resursstatus</td> 
-   <td><li>Hur många mediefiler finns i <i>Utkast</i> och <i>Godkänd med utkast</i> status?
+   <td><li>Hur många mediefiler finns i <i>Utkast</i> och <i>Godkänd med utkast</i> status (t.ex. <a href="/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md" target="_blank">e-post</a>, <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md#approve-a-landing-page" target="_blank">Landningssidor</a>, <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/approve-a-form.md" target="_blank">formulär</a>, <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md" target="_blank">fragment</a>)?
    <br/>     Om det finns många kan du ta bort eller godkänna dem.</li></td>
   </tr>
   <tr> 
