@@ -2,7 +2,7 @@
 description: Ärvd kontrollista för instansadministratör - Marketo Docs - Produktdokumentation
 title: Ärvd kontrollista för instansadministratör
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '1592'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Ärvd instans: Admin Section Checklist {#inherited-instance-admin-section-checklist}
 
-Checklistorna nedan (efterföljande checklistor länkade till längst ned i varje artikel) har sammanställts av Adobe Professional Services med synpunkter från Marketo Champions för att du snabbt ska komma igång. Du kan också [ladda ned checklistor](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) och spåra dina framsteg.
+Checklistorna nedan (efterföljande checklistor länkade till längst ned i varje artikel) har sammanställts av Adobe Professional Services med synpunkter från Marketo Champions för att du snabbt ska komma igång. Du kan också [ladda ned checklistor](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) och spåra dina framsteg.
 
 >[!TIP]
 >
@@ -364,4 +364,4 @@ Checklistorna nedan (efterföljande checklistor länkade till längst ned i varj
 
 <br> 
 
-[Granska en ärvd instans: Database ►](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)
+[Granska en ärvd instans: Database ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)

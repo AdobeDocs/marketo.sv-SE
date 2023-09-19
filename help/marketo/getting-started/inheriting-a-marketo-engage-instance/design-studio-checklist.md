@@ -2,7 +2,7 @@
 description: Ärvd checklista för instansdesign Studio - Marketo Docs - produktdokumentation
 title: Ärvd checklista för instansdesign Studio
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '591'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Ärvd instans: Design Studio Checklist {#inherited-instance-design-studio-checklist}
 
-Genom att strukturera mallar och skapa globala formulär, kodfragment och bilder och filer kan du minimera datafel och effektivisera arbetsflödet i programbygget. Kom ihåg [ladda ned checklistor](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) och spåra dina framsteg.
+Genom att strukturera mallar och skapa globala formulär, kodfragment och bilder och filer kan du minimera datafel och effektivisera arbetsflödet i programbygget. Kom ihåg [ladda ned checklistor](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) och spåra dina framsteg.
 
 ## Landningssidor {#landing-pages}
 
@@ -83,7 +83,7 @@ Genom att strukturera mallar och skapa globala formulär, kodfragment och bilder
 <li>Används dolda värden korrekt?</li>
 <li>Används några Marketo Engage-formulär på landningssidor som inte är Marketo Engage? Hur refereras de?</li>
 <p><img src="assets/tip-icon.png" alt="ikonen för tips">TIPS: Uppdatera sidor där du bäddar in Marketo Engage-formulär med den nya inbäddningskoden som introducerats (kräver säkra landningssidor).
-<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png" target="_blank"><img src="assets/design-studio-checklist-1.png" alt="kodminiatyr"></a>
+<p><a href="/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/design-studio-checklist-2.png" target="_blank"><img src="assets/design-studio-checklist-1.png" alt="kodminiatyr"></a>
 </td>
   </tr>
   <tr> 
@@ -168,6 +168,6 @@ Genom att strukturera mallar och skapa globala formulär, kodfragment och bilder
 
 <br> 
 
-[◄ Granska en ärvd instans: Marknadsföringsaktiviteter](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+[◄ Granska en ärvd instans: Marknadsföringsaktiviteter](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
 
-[Granska en ärvd instans: Dokumentera din ärvda instansinställning ►](/help/marketo/getting-started/inheriting-a-marketo-instance/document-your-setup.md)
+[Granska en ärvd instans: Dokumentera din ärvda instansinställning ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)

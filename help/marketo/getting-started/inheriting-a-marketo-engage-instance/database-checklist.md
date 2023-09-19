@@ -2,7 +2,7 @@
 description: Ärvd checklista för instansdatabas - Marketo Docs - produktdokumentation
 title: Ärvd checklista för instansdatabas
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Ärvd instans: Databaskontrolllista {#inherited-instance-database-checklist}
 
-Förstå det totala antalet personer, säljbara personer och de främsta leverantörerna i prenumerationen. Kom ihåg [ladda ned checklistor](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) och spåra dina framsteg.
+Förstå det totala antalet personer, säljbara personer och de främsta leverantörerna i prenumerationen. Kom ihåg [ladda ned checklistor](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) och spåra dina framsteg.
 
 ## Systemets smarta listor {#system-smart-lists}
 
@@ -117,6 +117,6 @@ Förstå det totala antalet personer, säljbara personer och de främsta leveran
 
 <br> 
 
-[◄ Granska en ärvd instans: Admin](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
+[◄ Granska en ärvd instans: Admin](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
 
-[Granska en ärvd instans: marknadsföringsaktiviteter ►](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+[Granska en ärvd instans: marknadsföringsaktiviteter ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)

@@ -2,7 +2,7 @@
 description: Ärvda instansdokument Dina inställningar - Marketo Docs - Produktdokumentation
 title: Ärvda instansdokument Dina inställningar
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -71,4 +71,4 @@ Nu när du har lärt dig de viktigaste produktområdena att granska när du ärv
  </tbody> 
 </table>
 
-[◄ Granska en ärvd instans: Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
+[◄ Granska en ärvd instans: Design Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
