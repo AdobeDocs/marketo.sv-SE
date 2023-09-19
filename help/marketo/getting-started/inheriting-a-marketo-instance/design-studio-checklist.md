@@ -3,9 +3,9 @@ description: Ärvd checklista för instansdesign Studio - Marketo Docs - produkt
 title: Ärvd checklista för instansdesign Studio
 hide: true
 hidefromtoc: true
-source-git-commit: 30a7b16e20b6abdfe4f7c10000e64d556ba94116
+source-git-commit: de7dcdfc580d9d6b01a55d366c895fc6c696975c
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,9 @@ Genom att strukturera mallar och skapa globala formulär, kodfragment och bilder
   </tr> 
   <tr> 
    <td>Globala landningssidor</td> 
-   <td><li>Hur många globala <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">Landningssidor</a> Är det där? Används de av program?</li></td>
+   <td><li>Hur många globala <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">Landningssidor</a> Är det där? Används de av program?</li>
+   <li>Har du en <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">prenumerationscentral</a> konfigurera?
+   <br/>     Om inte kan du skapa en.</li></td>
   </tr>
   <tr> 
    <td>Mallar</td> 
@@ -83,7 +85,8 @@ Genom att strukturera mallar och skapa globala formulär, kodfragment och bilder
 <li>Används några Marketo Engage-formulär på landningssidor som inte är Marketo Engage? Hur refereras de?</li>
 <p><img src="assets/tip-icon.png" alt="ikonen för tips">TIPS: Uppdatera sidor där du bäddar in Marketo Engage-formulär med den nya inbäddningskoden som introducerats (kräver säkra landningssidor).
 <br/><pre><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script></pre>
-<br/><pre><form id="mktoForm_1"></form><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script></pre>
+<blockquote><form id="mktoForm_1"></form></blockquote>
+<script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script>
 </td>
   </tr>
   <tr> 
