@@ -3,7 +3,7 @@ description: Ärvd kontrollista för instansadministratör - Marketo Docs - Prod
 title: Ärvd kontrollista för instansadministratör
 hide: true
 hidefromtoc: true
-source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
+source-git-commit: 46a981c45d3fd7b78e97815193243b4f0d172f30
 workflow-type: tm+mt
 source-wordcount: '1592'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Ärvd instans: Admin Section Checklist {#inherited-instance-admin-section-checklist}
 
-Checklistorna nedan (efterföljande checklistor länkade till längst ned i varje artikel) har sammanställts av Adobe Professional Services med synpunkter från Marketo Champions för att du snabbt ska komma igång. Du kan även hämta checklistorna och följa upp dina framsteg.
+Checklistorna nedan (efterföljande checklistor länkade till längst ned i varje artikel) har sammanställts av Adobe Professional Services med synpunkter från Marketo Champions för att du snabbt ska komma igång. Du kan också [ladda ned checklistor](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist-09.2023.xlsx) och spåra dina framsteg.
 
 >[!TIP]
 >

@@ -3,9 +3,9 @@ description: Lär dig hur du optimerar och skalförändrar en befintlig Marketo 
 title: HoppaStarta en ärvd Marketo Engage-instans
 hide: true
 hidefromtoc: true
-source-git-commit: 2f0f92fdd439d5119d577096c5bf6c034bcd2be5
+source-git-commit: 46a981c45d3fd7b78e97815193243b4f0d172f30
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '459'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,6 @@ Se till att du är korrekt konfigurerad i Marketing Nation Community.
 * [**Konfigurera din profil**](https://nation.marketo.com/){target="_blank"}.
 
 * Läs upp [**Riktlinjer för marknadsföringscommunity**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
-
-* Klicka **[!UICONTROL Your Places]** på din Marketo Nation-communityprofil för att se ditt företags kontosida.
 
 * Lär dig hur [**skicka in ett supportärende**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
 
@@ -46,7 +44,7 @@ Vårt communityteam sammanfogar dina communityprofiler på 4-6 arbetsdagar. När
 
 Adobe, med synpunkter från Marketo Champions, har sammanställt flera Marketo Engage Inherited Instance Audit Checklists som hjälper dig att komma igång snabbt. Lär dig navigera på olika områden i Marketo Engage och utföra de olika uppgifter som krävs för att utföra en granskning, med länkar till rekommenderad hjälpdokumentation.
 
-Du kan även hämta checklistorna i kalkylbladsformulär.
+Du kan också [ladda ned checklistor](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist-09.2023.xlsx) i kalkylbladsformat.
 
 * [Administratörsavsnittet](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
 

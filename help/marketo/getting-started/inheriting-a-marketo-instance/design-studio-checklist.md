@@ -3,7 +3,7 @@ description: Ärvd checklista för instansdesign Studio - Marketo Docs - produkt
 title: Ärvd checklista för instansdesign Studio
 hide: true
 hidefromtoc: true
-source-git-commit: a3f99e113e862010c64568e51f37e55d6c25106c
+source-git-commit: 46a981c45d3fd7b78e97815193243b4f0d172f30
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Genom att strukturera mallar och skapa globala formulär, kodfragment och bilder
   </tr>
   <tr> 
    <td>Mallar</td> 
-   <td><li>Hur många <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md" target="_blank">Mallar för landningssidor</a> Är det där? Blås de?</li></td>
+   <td><li>Hur många <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md" target="_blank">Mallar för landningssidor</a> Är det där? Blås de?</li></td>
   </tr>
   <tr> 
    <td>Testgrupper</td> 
@@ -84,7 +84,7 @@ Genom att strukturera mallar och skapa globala formulär, kodfragment och bilder
 <li>Används dolda värden korrekt?</li>
 <li>Används några Marketo Engage-formulär på landningssidor som inte är Marketo Engage? Hur refereras de?</li>
 <p><img src="assets/tip-icon.png" alt="ikonen för tips">TIPS: Uppdatera sidor där du bäddar in Marketo Engage-formulär med den nya inbäddningskoden som introducerats (kräver säkra landningssidor).
-<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png"><img src="assets/design-studio-checklist-1.png" alt="kodminiatyr"></a>
+<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png" target="_blank"><img src="assets/design-studio-checklist-1.png" alt="kodminiatyr"></a>
 </td>
   </tr>
   <tr> 
