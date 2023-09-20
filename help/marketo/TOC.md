@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: c6bafe84ce856705b233818dddb49e4770c60d86
+source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
 workflow-type: tm+mt
-source-wordcount: '9098'
+source-wordcount: '9106'
 ht-degree: 0%
 
 ---
@@ -1239,6 +1239,7 @@ ht-degree: 0%
             + [Felaktig mottagarplats](product-docs/marketo-sales-connect/email/the-live-feed/incorrect-recipient-location.md)
             + [Översikt över Live-feed](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)
          + Avbeställ {#unsubscribes}
+            + [Lägg till inställningen för att avbryta prenumerationen](product-docs/marketo-sales-connect/email/unsubscribes/auto-append-unsubscribe-message-setting.md)
             + [Anpassa meddelande om att avbryta prenumeration på länk](product-docs/marketo-sales-connect/email/unsubscribes/customize-unsubscribe-link-message.md)
             + [Avbeställ Marketo](product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)
             + [Prenumerera på och avbryta prenumeration](product-docs/marketo-sales-connect/email/unsubscribes/resubscribing-an-unsubscribe.md)
@@ -1402,6 +1403,7 @@ ht-degree: 0%
                + [Konfigurera en anpassad leveranskanal för ditt team](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
             + Avbeställ {#unsubscribes}
                + [Avbeställ prenumeration - översikt](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
+               + [Lägg till inställningen för att avbryta prenumerationen](product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md)
                + [Anpassa meddelande om att avbryta prenumeration på länk](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
                + [Avbeställ Marketo](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [Synkronisera avbeställningar med Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)

@@ -2,9 +2,9 @@
 description: Versionsinformation - september 2023 - Marketo Docs - produktdokumentation
 title: Versionsinformation - september 2023
 feature: Release Information
-source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
+source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '793'
 ht-degree: 0%
 
 ---
@@ -52,16 +52,6 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <td><strong>Används av flikförbättringar för Design Studio-resurser</strong>: Fliken Används av förbättring ger en mer detaljerad bild av typen och namnet på en resurs, tillsammans med var den används. Detta gäller för e-postinformation samt bilder och filinformation.</td> 
    <td>Levererat</td>
    <td>n/a</td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   <tr> 
-   <td><strong>Tjänsten Beräkna steg för formelflöde</strong>: Beräkningsformel är en Flow Step-tjänst som är byggd på Adobe IO Runtime-plattformen för användning med Marketo Engage Smart Campaigns. Adobe-klienter med IO-runtime kan driftsätta tjänsten och installera den i sina Marketo Engage-prenumerationer, så att de kan beräkna Excel-liknande formler i Marketo Smart Campaigns.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
   </tr>
  </tbody> 
 </table>
