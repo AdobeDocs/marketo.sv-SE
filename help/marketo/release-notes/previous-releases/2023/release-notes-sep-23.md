@@ -2,9 +2,9 @@
 description: Versionsinformation - september 2023 - Marketo Docs - produktdokumentation
 title: Versionsinformation - september 2023
 feature: Release Information
-source-git-commit: df16b75e0b2fafbd8b671c9e43845937c37e8dd9
+source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '849'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>Används av räkningskolumn för Design Studio-resurser</strong>: Med Marketo Engage-programmets referensbibliotek kan användare importera exempelprogram och andra resurser som motsvarar bästa praxis som rekommenderas av Adobe. Vårt produkthanteringsteam har uppdaterat biblioteket helt och hållet, vilket ger mer värdefulla verktyg för dem som vill komma igång snabbt.</td> 
+   <td><strong>Används av räkningskolumn för Design Studio-resurser</strong>: Kolumnen Används av antal för listvyer i Design Studio markerar antalet resurser som används. Detta gäller för kodfragment, e-postmallar, Forms och mallar för landningssidor.</td> 
    <td>Levererat</td>
    <td>n/a</td>
   </tr>

@@ -2,9 +2,9 @@
 description: Dynamic Chat Overview - Marketo Docs - Product Documentation
 title: Översikt över Dynamic Chat
 feature: Dynamic Chat
-source-git-commit: 78ca35c105be2fd437da2f783388d5bfaced8c70
+source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
 workflow-type: tm+mt
-source-wordcount: '654'
+source-wordcount: '641'
 ht-degree: 0%
 
 ---
@@ -64,10 +64,6 @@ JavaScript-kodfragmentet Dynamic Chat kan installeras på alla webbplatser och p
 **Hur länge lagras data för rapportering?**
 
 90 dagar.
-
-**Tillåter Dynamic Chat live-chatt?**
-
-Nej, det använder bara förbestämda svar.
 
 **Har Dynamic Chat stöd för andra språk än engelska?**
 
