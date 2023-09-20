@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: df16b75e0b2fafbd8b671c9e43845937c37e8dd9
+source-git-commit: 362aba77e372ff5ae09878c6a57d6ce97b019421
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '241'
 ht-degree: 3%
 
 ---
@@ -30,7 +30,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <th style="width:20%">Dokumentation</th>
   </tr> 
   <tr> 
-   <td><strong>Ny design för rapportkonfiguration i modernt användargränssnitt</strong>: När du ställer in en rapportresurs får du ett nytt resursträd på konfigurationsmenyn samt möjlighet att filtrera på det datum som skapas och ändras.</td> 
+   <td><strong>Ny design för rapportkonfiguration i modernt användargränssnitt</strong>: När du skapar en rapportresurs får du en <a href="https://nation.marketo.com/t5/product-blogs/analytic-modal-updates/ba-p/340321" target="_blank">nytt resursträd</a> på konfigurationsmenyn samt möjligheten att filtrera på datum som skapats och ändrats.</td> 
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
