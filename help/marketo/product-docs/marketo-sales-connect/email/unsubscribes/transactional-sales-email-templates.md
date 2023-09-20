@@ -3,7 +3,7 @@ description: E-postmallar för transaktionsförsäljning - Marketo Docs - Produk
 title: E-postmallar för transaktionsförsäljning
 hide: true
 hidefromtoc: true
-feature: Sales Insight Actions
+feature: Marketo Sales Connect
 source-git-commit: d6a3d95ed42d1c08d69014e1aa013e7436bd06c2
 workflow-type: tm+mt
 source-wordcount: '172'
