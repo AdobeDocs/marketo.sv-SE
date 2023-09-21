@@ -2,9 +2,9 @@
 description: Versionsinformation - september 2023 - Marketo Docs - produktdokumentation
 title: Versionsinformation - september 2023
 feature: Release Information
-source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
+source-git-commit: c83fcb184c12677c85f34e899907ccb2a8ff9473
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '872'
 ht-degree: 0%
 
 ---
@@ -52,6 +52,26 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <td><strong>Används av flikförbättringar för Design Studio-resurser</strong>: Fliken Används av förbättring ger en mer detaljerad bild av typen och namnet på en resurs, tillsammans med var den används. Detta gäller för e-postinformation samt bilder och filinformation.</td> 
    <td>Levererat</td>
    <td>n/a</td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Lokalisering för interaktiva webbinarier</strong>: På så sätt kan du se informationen om Marketo Interactive Webinar Event Program på det språk du vill, samt välja leveransspråk så att det kan skilja sig från språket för den Marketo-användare som skapade Event Program.</td> 
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md" target="_blank">Vanliga frågor om interaktiva webbinarier</a></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Hantering av användaråtkomst för interaktiva webbinarier</strong>: Med Hantering av användaråtkomst kan användare av interaktiva webbinarier bara få tillgång till de händelseprogram de har behörighet till, vilket förhindrar obehörig åtkomst.</td> 
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md#user-access" target="_blank">Användaråtkomst</a></td>
   </tr>
  </tbody> 
 </table>
