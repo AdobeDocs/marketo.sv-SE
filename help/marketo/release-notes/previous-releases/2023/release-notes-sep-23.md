@@ -2,7 +2,7 @@
 description: Versionsinformation - september 2023 - Marketo Docs - produktdokumentation
 title: Versionsinformation - september 2023
 feature: Release Information
-source-git-commit: c83fcb184c12677c85f34e899907ccb2a8ff9473
+source-git-commit: 1075444e8c23d6d925c3b427ba8835ddeeead5ea
 workflow-type: tm+mt
 source-wordcount: '872'
 ht-degree: 0%
@@ -59,7 +59,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <td> </td>
   </tr>
    <tr> 
-   <td><strong>Lokalisering för interaktiva webbinarier</strong>: På så sätt kan du se informationen om Marketo Interactive Webinar Event Program på det språk du vill, samt välja leveransspråk så att det kan skilja sig från språket för den Marketo-användare som skapade Event Program.</td> 
+   <td><strong>Lokalisering för interaktiva webbinarier</strong>: Då kan du se informationen om Marketo Interactive Webinar Event Program på det språk du önskar, samt välja leveransspråk om du vill att den ska skilja sig från språket för den Marketo-användare som skapade Event Program.</td> 
    <td>Levererat</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md" target="_blank">Vanliga frågor om interaktiva webbinarier</a></td>
   </tr>
