@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
+source-git-commit: 45bd5bac341e08cdb14c7ae2a08c97a5ebcba73c
 workflow-type: tm+mt
-source-wordcount: '9106'
+source-wordcount: '9107'
 ht-degree: 0%
 
 ---
@@ -181,7 +181,7 @@ ht-degree: 0%
          + [Lägg till endast API-användare för Adobe IMS-aktiverade prenumerationer](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
          + [Lägg till eller ta bort en produktadministratör](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
          + [Lägg till eller ta bort en användare](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
-         + [Vanliga frågor](product-docs/administration/marketo-with-adobe-identity/faq.md)
+         + [Vanliga frågor och svar](product-docs/administration/marketo-with-adobe-identity/faq.md)
          + [Migrerar till Adobe-identitet](product-docs/administration/marketo-with-adobe-identity/migrating-to-adobe-identity.md)
          + [Användarinloggning med Adobe ID](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
          + [Förstå Marketo prenumeration och användarmigrering till Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
@@ -667,6 +667,7 @@ ht-degree: 0%
          + Installation och konfiguration {#setup-and-configuration}
             + [Inledande konfiguration](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
             + [Lägg till eller ta bort chattanvändare](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
+            + [Behörigheter](product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)
             + [Konfiguration](product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md)
             + [Agentinställningar](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md)
             + [Agenthantering](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
@@ -1119,7 +1120,7 @@ ht-degree: 0%
             + [Använda URL:er i Mina token](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
          + [Email CC](product-docs/email-marketing/general/email-cc.md)
    + Marketo Engage Modern UX {#marketo-engage-modern-ux}
-      + [Ökning](product-docs/marketo-engage-modern-ux/overview.md)
+      + [Översikt](product-docs/marketo-engage-modern-ux/overview.md)
       + [Ikonordlista](product-docs/marketo-engage-modern-ux/icon-glossary.md)
       + [Använda global sökning](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
       + [Växla av/på](product-docs/marketo-engage-modern-ux/toggle-switch.md)
@@ -1257,7 +1258,7 @@ ht-degree: 0%
             + [Skicka ett spårat e-postmeddelande](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-a-tracked-email.md)
             + [Skicka e-post via gruppe-post](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
             + [Använda en mall i dispositionsfönstret](product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
-      + Vanliga frågor {#faq}
+      + Vanliga frågor och svar {#faq}
          + [Kan jag återställa en kontakt eller grupp jag tagit bort?](product-docs/marketo-sales-connect/faq/can-i-recover-a-contact-or-group-i-deleted.md)
          + [Vanliga frågor om innehåll och bifogad fil](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
          + [Har Sales Connect en iPhone- eller Android-app?](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
@@ -1418,7 +1419,7 @@ ht-degree: 0%
                + [Anslut till Gmail](product-docs/marketo-sales-insight/actions/email-integrations/gmail/connect-to-gmail.md)
             + Outlook {#outlook}
                + [Anslut till Outlook](product-docs/marketo-sales-insight/actions/email-integrations/outlook/connect-to-outlook.md)
-         + Vanliga frågor {#faq}
+         + Vanliga frågor och svar {#faq}
             + [Kan jag återställa en kontakt eller grupp jag tagit bort?](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [Kan jag spåra flera mottagare med CC/BCC?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
             + [Vanliga frågor om innehåll och bifogad fil](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
@@ -1811,7 +1812,7 @@ ht-degree: 0%
             + [Definiera periodkostnader](product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)
             + [Aktivera anpassad fältsynkronisering för intäktscykelanalys](product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md)
             + [Scenrapport för personer efter intäkt](product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
-            + Attribut {#attribution}
+            + Tillskrivning {#attribution}
                + [Förstå attribut](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)
                + [Attribut - exempel 1](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
                + [Attribut - exempel 2](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
