@@ -2,7 +2,7 @@
 description: Inledande installation - Marketo Docs - produktdokumentation
 title: Inledande konfiguration
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+source-git-commit: 34545817fd35719290a848384e4bc9feba521305
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 # Inledande konfiguration {#initial-setup}
 
-## Access Admin Console {#access-admin-console}
-
 Konfigurera Dynamic Chat genom att följa stegen nedan.
+
+## Access Admin Console {#access-admin-console}
 
 >[!NOTE]
 >

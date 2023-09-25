@@ -2,16 +2,16 @@
 description: Översikt över Engagement Map - Marketo Docs - produktdokumentation
 title: Översikt över Engagement Map
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
+source-git-commit: 34545817fd35719290a848384e4bc9feba521305
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '748'
 ht-degree: 0%
 
 ---
 
 # Översikt över Engagement Map {#engagement-map-overview}
 
-Med Engagement Map kan ni bygga ut återanvändbara smarta kampanjer med hjälp av intuitiva bilder. Den är helt bakåtkompatibel med alla befintliga Marketo Engage Smart Campaigns, utan att nuvarande funktioner går förlorade.
+Med Engagement Map kan ni visualisera era smarta kampanjer intuitivt. Den är helt bakåtkompatibel med alla befintliga Marketo Engage Smart Campaigns, utan att nuvarande funktioner går förlorade.
 
 >[!NOTE]
 >
@@ -69,7 +69,7 @@ Den övre navigeringen innehåller följande funktioner:
 >
 >Ändringar som görs på en öppen smart lista och Flödesflik visas på fliken Engagement Map när du uppdaterar. Den uppdateras inte automatiskt. Uppdateringar och redigeringar som sparas automatiskt visas när fliken för aktivitetskartan uppdateras.
 
-## Vanliga frågor {#faq}
+## Vanliga frågor och svar {#faq}
 
 **Måste jag bygga om alla mina kampanjer i Engagement Map?**
 
@@ -77,7 +77,7 @@ Nej. Engagement Map har fullständig bakåtkompatibilitet. Med en enkel musklick
 
 **Betyder Engagement Map i Marketo Engage att jag inte längre har tillgång till mappstrukturen och måste lära mig hur man bygger en Smart Campaign?**
 
-Nej. Det fina med Engagement Map är att det ger er det bästa av två världar; det kompletterar det sätt på vilket ni bygger kampanjer just nu. Du kan välja om du vill använda det befintliga användargränssnittet eller skapa/visualisera i det nya användargränssnittet. Alla användare kommer fortfarande att få tillgång till de kraftfulla funktionerna i Marketo Engage, som nu kompletteras av ett visuellt verktyg.
+Nej. Det fina med Engagement Map är att det ger er det bästa av två världar; det kompletterar det sätt på vilket ni bygger kampanjer just nu. Alla användare kommer fortfarande att få tillgång till Marketo Engage kraftfulla funktioner, som nu kompletteras av tydlig bild.
 
 **Är Engagement Map ett betalt tillägg?**
 
@@ -86,10 +86,6 @@ Nej. Alla befintliga och nya användare av Marketo Engage under alla prenumerati
 **Är det jag som administratör för Marketo Engage som ansvarar för att aktivera/inaktivera Engagement Map?**
 
 Nej. Engagement Map kommer att vara tillgängligt för alla användare i deras instanser. Du kan inte aktivera/inaktivera den för vissa användare, arbetsytor osv.
-
-**Finns det för närvarande allt som finns tillgängligt i smarta kampanjer även i Engagement Map?**
-
-Ja. Engagement Map har fullständig funktionsparitet med smarta kampanjer.
 
 **På vilket sätt skiljer sig detta från andra visuella verktyg?**
 

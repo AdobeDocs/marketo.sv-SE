@@ -2,18 +2,20 @@
 description: Live Chat Overview - Marketo Docs - produktdokumentation
 title: Översikt över live-chatt
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+source-git-commit: 34545817fd35719290a848384e4bc9feba521305
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---
 
 # Översikt över live-chatt {#live-chat-overview}
 
-Använd chattkortet i [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} när ni vill att besökarna ska chatta med en handläggare.
+Med live-chatt kan besökare på webbplatsen delta i chattsamtal i realtid med säljarna.
 
 ## Använda chattkortet {#using-the-live-chat-card}
+
+Använd chattkortet i [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} när ni vill att besökarna ska chatta med en handläggare.
 
 ![](assets/live-chat-overview-1.png)
 
