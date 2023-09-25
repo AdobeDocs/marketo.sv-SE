@@ -4,9 +4,9 @@ title: Behörigheter
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 45bd5bac341e08cdb14c7ae2a08c97a5ebcba73c
+source-git-commit: ca158295a492edfa74c97f98196021767364f692
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 0%
 # Behörigheter {#permissions}
 
 Hantera användaråtkomst till de olika områdena i Dynamic Chat.
+
+## Anpassa behörigheter {#customize-permissions}
 
 1. I [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, klicka **Dynamic Chat**.
 
@@ -49,7 +51,7 @@ Nu kan du upprepa den här processen för alla andra Dynamic Chat-områden.
 
 ## Lista över behörigheter {#list-of-permissions}
 
-Här nedan hittar du en lista över alla tillgängliga behörigheter sorterade efter område.
+Här nedan finns en lista med alla tillgängliga behörigheter för varje område.
 
 <table>
 <thead>
@@ -73,8 +75,8 @@ Här nedan hittar du en lista över alla tillgängliga behörigheter sorterade e
     <td><li>Agent Inbox</li>
     <li>Visa mina konversationer</li>
     <li>Visa alla konversationer</li>
-    <li>Visa konversationssammanfattning<b>*</b></li>
-    <li>Visa assisterade svar<b>*</b></li></td>
+    <li>Visa konversationssammanfattning <b>*</b></li>
+    <li>Visa assisterade svar <b>*</b></li></td>
   </tr>
   <tr>
     <td>Möten</td>
@@ -96,21 +98,21 @@ Här nedan hittar du en lista över alla tillgängliga behörigheter sorterade e
   </tr>
   <tr>
     <td>Administratörsinställningar</td>
-    <td><li>Visa arbetsytor<b>*</b></li>
-    <li>Hantera arbetsytor (skapa, redigera, ta bort)<b>*</b></li>
+    <td><li>Visa arbetsytor <b>*</b></li>
+    <li>Hantera arbetsytor (skapa, redigera, ta bort) <b>*</b></li>
     <li>Visa Round-robin</li>
     <li>Visa anpassade regler</li>
     <li>Hantera anpassade regler (lägg till, redigera, ta bort)</li>
-    <li>Visa kontolista<b>*</b></li>
-    <li>Hantera konton (lägg till, redigera, ta bort)<b>*</b></li>
+    <li>Visa kontolista <b>*</b></li>
+    <li>Hantera konton (lägg till, redigera, ta bort) <b>*</b></li>
     <li>Hantera Chatbot-inställningar</li>
     <li>Hantera inställningar för konversationsflöden</li>
     <li>Hantera integritet och säkerhet</li>
     <li>Hantera integreringar</li>
-    <li>Hantera språk<b>*</b></li>
+    <li>Hantera språk <b>*</b></li>
     <li>Hantera agenter</li>
-    <li>Visa agentteam<b>*</b></li>
-    <li>Hantera agentteam (lägg till, redigera, ta bort)<b>*</b></li>
+    <li>Visa agentteam <b>*</b></li>
+    <li>Hantera agentteam (lägg till, redigera, ta bort) <b>*</b></li>
     <li>Visa användningsgränser</li></td>
   </tr>
 </tbody>
