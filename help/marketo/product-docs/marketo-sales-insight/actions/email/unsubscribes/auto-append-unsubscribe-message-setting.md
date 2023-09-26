@@ -4,7 +4,7 @@ title: Lägg till inställningen för att avbryta prenumerationen
 hide: true
 hidefromtoc: true
 feature: Sales Insight Actions
-source-git-commit: b0f62abfe04efd8e72ed8e92442d4a46ea118f33
+source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -35,4 +35,4 @@ Se till att alla skickade Sales Insight Actions-e-postmeddelanden innehåller et
 
 >[!TIP]
 >
->Om du inaktiverar inställningen för att avsluta prenumerationen rekommenderar vi att du lägger till en sidfot för att avbryta prenumerationen i mallarna så att du är säker på att din kommunikation har ett avanmälningsalternativ. Du kan göra detta genom att lägga till ett eget meddelande till varje mall eller genom att använda `{{team_unsubscribe}}` dynamiskt fält.
+>Om du inaktiverar inställningen för att avsluta prenumerationen rekommenderar vi att du lägger till en sidfot för att avbryta prenumerationen i mallarna så att du är säker på att din kommunikation har ett avanmälningsalternativ. Du kan göra detta genom att lägga till ett eget meddelande till varje mall eller genom att använda `{{team_unsubscribe}}` [dynamiskt fält](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"}.

@@ -1,21 +1,19 @@
 ---
 description: Behörigheter - Marketo Docs - produktdokumentation
 title: Behörigheter
-hide: true
-hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ca158295a492edfa74c97f98196021767364f692
+source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '396'
 ht-degree: 0%
 
 ---
 
 # Behörigheter {#permissions}
 
-Hantera användaråtkomst till de olika områdena i Dynamic Chat.
+Det finns fem standardprofiler med fördefinierade behörigheter som du kan redigera i Dynamic Chat. Du kan också skapa en anpassad profil med en anpassad uppsättning behörigheter. Vi går igenom båda.
 
-## Anpassa behörigheter {#customize-permissions}
+## Redigera befintliga behörigheter {#edit-existing-permissions}
 
 1. I [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, klicka **Dynamic Chat**.
 
@@ -29,11 +27,11 @@ Hantera användaråtkomst till de olika områdena i Dynamic Chat.
 
    ![](assets/permissions-3.png)
 
-1. Markera det område i Dynamic Chat som du vill redigera. Eftersom vi har valt Live Agent-profilen väljer vi Live Chat. Klicka på pennikonen.
+1. Markera området i profilen som du vill redigera. I det här exemplet väljer vi Live Chat. Klicka på pennikonen.
 
    ![](assets/permissions-4.png)
 
-1. Alla tillgängliga behörighetsobjekt finns till vänster. Du kan välja att lägga till behörigheter en i taget eller alla på en gång. I det här exemplet väljer vi alla. Klicka på **+ Lägg till alla** -knappen.
+1. Tillgängliga behörighetsobjekt visas till vänster. Du kan välja att lägga till behörigheter en i taget eller alla på en gång. I det här exemplet finns det bara en tillgänglig, så vi lägger till den. Klicka på **+** signera.
 
    ![](assets/permissions-5.png)
 
@@ -45,9 +43,30 @@ Hantera användaråtkomst till de olika områdena i Dynamic Chat.
 
    ![](assets/permissions-6.png)
 
-Nu kan du upprepa den här processen för alla andra Dynamic Chat-områden.
+Nu kan du upprepa den här processen för andra Dynamic Chat-områden.
 
 ![](assets/permissions-7.png)
+
+## Skapa en profil {#create-a-profile}
+
+1. I [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, klicka **Dynamic Chat**.
+
+   ![](assets/permissions-8.png)
+
+1. I **Produktprofiler** flik, klicka **Ny profil**.
+
+   ![](assets/permissions-9.png)
+
+1. **Namn** din produktprofil. Du kan också ge den ett visningsnamn och/eller en beskrivning och välja att låta användare få meddelanden när de läggs till/tas bort. Klicka **Spara** när det är klart.
+
+   ![](assets/permissions-10.png)
+
+1. Den nya profilen visas på fliken Produktprofiler. Markera den.
+
+   ![](assets/permissions-11.png)
+
+1. Följ nu steg 3-6 från [avsnitt ovan](#edit-existing-permissions) för varje önskat område.
+
 
 ## Lista över behörigheter {#list-of-permissions}
 
