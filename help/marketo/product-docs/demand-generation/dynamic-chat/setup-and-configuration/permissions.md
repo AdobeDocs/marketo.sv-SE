@@ -2,9 +2,9 @@
 description: Behörigheter - Marketo Docs - produktdokumentation
 title: Behörigheter
 feature: Dynamic Chat
-source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
+source-git-commit: d60b506f0c84fc2883054be628817374d3a1a09b
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Det finns fem standardprofiler med fördefinierade behörigheter som du kan redi
 
    ![](assets/permissions-6.png)
 
-Nu kan du upprepa den här processen för andra Dynamic Chat-områden.
+Nu kan du upprepa den här processen för alla andra Dynamic Chat-områden.
 
 ![](assets/permissions-7.png)
 
@@ -75,7 +75,7 @@ Här nedan finns en lista med alla tillgängliga behörigheter för varje områd
 <table>
 <thead>
   <tr>
-    <th>Dynamic Chat</th>
+    <th style="width:30%">Dynamic Chat</th>
     <th>Behörigheter</th>
   </tr>
 </thead>
