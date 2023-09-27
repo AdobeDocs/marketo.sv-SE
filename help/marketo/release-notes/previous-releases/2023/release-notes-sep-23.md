@@ -2,9 +2,9 @@
 description: Versionsinformation - september 2023 - Marketo Docs - produktdokumentation
 title: Versionsinformation - september 2023
 feature: Release Information
-source-git-commit: 3d9985127db3a420aca8bed13c9e3241d24b149f
+source-git-commit: 91abb47c44297f3b87646840aebf72d64a9a3a8d
 workflow-type: tm+mt
-source-wordcount: '889'
+source-wordcount: '937'
 ht-degree: 0%
 
 ---
@@ -265,6 +265,8 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
 <br/>
 
 ## Meddelanden {#announcements}
+
+* **Marketo Events och Marketo Moments Deprecation**: Adobe kommer att ta bort Marketo Events och Marketo Moments från alla appbutiker från och med 2 oktober 2023. Befintliga användare - du kan fortsätta använda de här apparna tills du migrerar din Marketo Engage-instans till Adobe Identity. De här apparna stöder inte inloggning med Adobe ID.
 
 * **Växla borttagning av växling för Design Studio-resurser**: Den växlingsväxling som gör att användare kan växla mellan det klassiska gränssnittet och den moderna UX-upplevelsen för Design Studio kommer att bli inaktuell, tillsammans med den gamla versionen av Design Studio, vilket gör att användare kan migrera helt till den moderna UX-upplevelsen. [Läs mer här](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}.
 
