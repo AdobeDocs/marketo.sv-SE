@@ -2,9 +2,9 @@
 description: Versionsinformation - juli 2023 - Marketo Docs - produktdokumentation
 title: Versionsinformation - juli 2023
 feature: Release Information
-source-git-commit: 45e092f7b7e7beeef9712869b62ba4e022c2bf3d
+source-git-commit: 3d9985127db3a420aca8bed13c9e3241d24b149f
 workflow-type: tm+mt
-source-wordcount: '664'
+source-wordcount: '641'
 ht-degree: 1%
 
 ---
@@ -179,4 +179,4 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
 
 * **Uppgradera till Google Analytics 4**: Marketo tidigare stödde Universal Analytics, som kommer att sluta spela in data senast 1 juli 2023. RTP-användare måste följa migreringsprocessen på sin Google Analytics-kontrollpanel för att få fullständigt stöd för integrering av Google Analytics 4 i RTP. Framöver kommer användarna att ha en unik alfanumerisk tagg (som finns i `<head>` i HTML-delen) på landningssidorna som gör att Marketo kan skicka data till Google Analytics.
 
-* **_Product Release Webinar_**: Besök oss den 6 september 2023 kl. 9:00 PT/12:00 ET för en [live webbinarium](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} som hanteras av vårt produktteam där du får se hur du kan använda alla de senaste produktinnovationerna.
+* **_Product Release Webinar_**: [Juli och september 2023 Marketo Engage Release Webinar](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}

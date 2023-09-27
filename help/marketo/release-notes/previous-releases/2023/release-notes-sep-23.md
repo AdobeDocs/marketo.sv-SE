@@ -2,9 +2,9 @@
 description: Versionsinformation - september 2023 - Marketo Docs - produktdokumentation
 title: Versionsinformation - september 2023
 feature: Release Information
-source-git-commit: 1075444e8c23d6d925c3b427ba8835ddeeead5ea
+source-git-commit: 3d9985127db3a420aca8bed13c9e3241d24b149f
 workflow-type: tm+mt
-source-wordcount: '872'
+source-wordcount: '889'
 ht-degree: 0%
 
 ---
@@ -267,3 +267,5 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
 ## Meddelanden {#announcements}
 
 * **Växla borttagning av växling för Design Studio-resurser**: Den växlingsväxling som gör att användare kan växla mellan det klassiska gränssnittet och den moderna UX-upplevelsen för Design Studio kommer att bli inaktuell, tillsammans med den gamla versionen av Design Studio, vilket gör att användare kan migrera helt till den moderna UX-upplevelsen. [Läs mer här](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}.
+
+* **_Product Release Webinar_**: [Juli och september 2023 Marketo Engage Release Webinar](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}
