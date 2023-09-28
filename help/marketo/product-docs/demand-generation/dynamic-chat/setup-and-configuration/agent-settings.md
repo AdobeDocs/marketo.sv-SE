@@ -3,9 +3,9 @@ description: Agentinställningar - Marketo Docs - produktdokumentation
 title: Agentinställningar
 feature: Dynamic Chat
 exl-id: 792a87bb-3ff9-46fb-ac68-146d5ffa9dc5
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+source-git-commit: 9834f6be3e2a89595d91d1fe51c11b8bb59b714d
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Agentinställningar {#agent-settings}
 
 Konfigurera din kalender och ange tillgänglighet för möte/live-chatt.
+
+>[!PREREQUISITES]
+>
+>Se till att dina agenter har fått rätt [behörigheter](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}.
 
 ![](assets/agent-settings-1.png)
 
