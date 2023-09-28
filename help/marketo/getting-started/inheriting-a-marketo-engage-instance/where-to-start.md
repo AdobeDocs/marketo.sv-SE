@@ -2,7 +2,8 @@
 description: Lär dig hur du optimerar och skalförändrar en befintlig Marketo Engage-instans som du har ärvt. Följ checklistan för att granska administratörsinställningar och upprätthålla databasens hygien.
 title: Var ska jag börja?
 feature: Getting Started
-source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
+exl-id: a7abbfe3-c2ac-489f-bc4b-9e8d3412b419
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '468'
 ht-degree: 0%

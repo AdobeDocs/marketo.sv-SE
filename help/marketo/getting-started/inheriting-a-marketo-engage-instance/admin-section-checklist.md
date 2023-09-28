@@ -2,7 +2,8 @@
 description: Ärvd kontrollista för instansadministratör - Marketo Docs - Produktdokumentation
 title: Ärvd kontrollista för instansadministratör
 feature: Getting Started
-source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
+exl-id: 4840d1a8-306b-4b53-917d-2262ae903a42
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '1592'
 ht-degree: 0%

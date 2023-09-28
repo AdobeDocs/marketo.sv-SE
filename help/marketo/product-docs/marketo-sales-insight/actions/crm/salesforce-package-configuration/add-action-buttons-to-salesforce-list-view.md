@@ -1,7 +1,8 @@
 ---
 description: Lägg till åtgärdsknappar i Salesforce-listvyn - Marketo Docs - produktdokumentation
 title: Lägg till åtgärdsknappar i Salesforce-listvyn
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+exl-id: 347cc5d2-dd7a-4221-b00f-812cf484938a
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -31,7 +32,7 @@ De åtgärdsknappar som ska installeras är:
 1. I rutan Snabbsökning söker du efter det objekt som du vill redigera (Lead eller Kontakt) och väljer objektnamn.
 1. Välj Layouter för knappen Listvy.
 1. Välj **Redigera** bredvid layouten som du vill lägga till knapparna i.
-1. Om du vill ändra vad som visas på sidan flyttar du knapparna mellan Tillgängliga knappar till Markerade knappar med knappen Lägg till. Åtgärdsknapparna innehåller&quot;Lägg till i säljkampanj&quot; och&quot;Skicka e-post för försäljning&quot;.
+1. Om du vill ändra vad som visas på sidan flyttar du knapparna mellan Tillgängliga knappar till Markerade knappar med knappen Lägg till. Åtgärdsknapparna innehåller&quot;Lägg till i försäljningskampanj&quot; och&quot;Skicka e-post för försäljning&quot;.
 1. Klicka **Spara**.
 1. Om du gjorde det här för Leads eller Kontakter, upprepar du de här stegen för att slutföra det här för det andra objektet.
 
@@ -41,7 +42,7 @@ De åtgärdsknappar som ska installeras är:
 1. Klicka **Inställningar**.
 1. I rutan Snabbsökning söker du efter det objekt som du vill redigera (Lead eller Kontakt) och markerar det.
 1. Klicka för att redigera listvyn (lead eller kontakt).
-1. Om du vill ändra vad som visas på sidan flyttar du knapparna mellan Tillgängliga knappar till Markerade knappar med knappen Lägg till. Åtgärdsknapparna innehåller&quot;Lägg till i säljkampanj&quot; och&quot;Skicka e-post för försäljning&quot;.
+1. Om du vill ändra vad som visas på sidan flyttar du knapparna mellan Tillgängliga knappar till Markerade knappar med knappen Lägg till. Åtgärdsknapparna innehåller&quot;Lägg till i försäljningskampanj&quot; och&quot;Skicka e-post för försäljning&quot;.
 1. Klicka **Spara**.
 1. Om du gjorde det här för Leads eller Kontakter, upprepar du de här stegen för att slutföra det här för det andra objektet.
 
@@ -49,4 +50,4 @@ De åtgärdsknappar som ska installeras är:
 >
 >* [Använda massutskick av e-post för försäljning i Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md){target="_blank"}
 >* [Använda Lägg till gruppvis i försäljningskampanj i Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md){target="_blank"}
->* [Installera Marketo Sales Insight-paket i Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
+>* [Installera Marketo Sales Insight-paket i Salesforce-AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}

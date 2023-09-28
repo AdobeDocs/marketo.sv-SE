@@ -2,7 +2,8 @@
 description: Live Chat Overview - Marketo Docs - produktdokumentation
 title: Översikt över live-chatt
 feature: Dynamic Chat
-source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
+exl-id: f6563e73-4b6e-437d-bf8b-ec72a9b8bcb3
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 0%

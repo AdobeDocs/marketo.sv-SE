@@ -3,10 +3,10 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 00038ada6a3712ccc06cb638125f2f6fb185a1c6
+source-git-commit: 6440f43ab77e32038964bf8272f350bd28474eec
 workflow-type: tm+mt
-source-wordcount: '241'
-ht-degree: 3%
+source-wordcount: '329'
+ht-degree: 2%
 
 ---
 
@@ -45,6 +45,17 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   <tr> 
+   <td><strong>Hämta inspelning och tilldela en medvärd i interaktiva webbinarier</strong>: Du kan nu lägga till en extern värddator för ditt webbinarium om den ursprungliga värddatorn inte är tillgänglig. Nu kan du även ladda ned webbinariet.</td> 
+   <td><i>Kommer snart</i></td>
+   <td><i>Kommer snart</i></td>
+  </tr>
  </tbody> 
 </table>
 <br/>
@@ -52,3 +63,5 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 ## Meddelanden {#announcements}
 
 * **Marketo Engage Forms jQuery 1.x**: I januari 2024-versionen kommer vi att uppdatera jQuery för Marketo Engage Forms till jQuery 3.x. Detta kan påverka implementeringen av anpassade formulär beroende på äldre versioner av jQuery.
+
+* **Marketo Events och Marketo Moments Deprecation**: Adobe kommer att ta bort Marketo Events och Marketo Moments från alla appbutiker från och med 2 oktober 2023. Befintliga användare - du kan fortsätta använda de här apparna tills du migrerar din Marketo Engage-instans till Adobe Identity. De här apparna stöder inte inloggning med Adobe ID.

@@ -1,7 +1,8 @@
 ---
 description: Använda Lägg till i säljkampanj gruppvis i Salesforce - Marketo Docs - produktdokumentation
 title: Använda Lägg till gruppvis i försäljningskampanj i Salesforce
-source-git-commit: b7d80630e55d30364912e472d126a994c5eeca19
+exl-id: 49bdd22f-f313-497b-af8d-8308eb905b8f
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '569'
 ht-degree: 0%
@@ -42,7 +43,7 @@ Lär dig hur du lägger till säljkampanjer satsvis i Salesforce för att skala 
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-3.png)
 
-1. Välj den kategori för säljkampanj som du vill använda i listrutan Kategorier.
+1. Välj den försäljningskampanjkategori som du vill använda i listrutan Kategorier.
 
 1. Välj den försäljningskampanj som du vill lägga till de valda personerna i och klicka på **Nästa**.
 
@@ -62,7 +63,7 @@ När du har klickat på Start visas en bekräftelseskärm där du ser hur många
 
 ## Lägg till i säljkampanj gruppvis i Salesforce Classic {#bulk-add-to-sales-campaign-in-salesforce-classic}
 
-1. I Salesforce klickar du på **Leads/kontakter** -fliken.
+1. Klicka på **Leads/kontakter** -fliken.
 
 1. I listrutan Visa väljer du önskad vy med leads/kontakter som du vill skicka e-post till och klickar på **Gå**.
 
@@ -72,7 +73,7 @@ När du har klickat på Start visas en bekräftelseskärm där du ser hur många
    >
    >Du kan skapa en ny vy genom att klicka på Skapa ny vy och konfigurera de tillgängliga filtren för att begränsa listan över mottagare som du ska skicka e-post till.
 
-1. Välj önskad lead- eller kontaktlista och klicka på **Lägg till i försäljningskampanj** -knappen.
+1. Välj lead eller kontaktlista och klicka på **Lägg till i försäljningskampanj** -knappen.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-9.png)
 

@@ -1,7 +1,8 @@
 ---
 description: Använda massutskick av e-post för försäljning i Salesforce - Marketo Docs - produktdokumentation
 title: Använda massutskick av e-post för försäljning i Salesforce
-source-git-commit: b7d80630e55d30364912e472d126a994c5eeca19
+exl-id: eac77a64-7eaa-48eb-820c-c8e188a234dd
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 0%
@@ -10,7 +11,7 @@ ht-degree: 0%
 
 # Använda massutskick av e-post för försäljning i Salesforce {#using-bulk-send-sales-email-in-salesforce}
 
-Lär dig hur du skickar massutskick i Salesforce för att skala din utgående kommunikation med hjälp av försäljningsåtgärder.
+Lär dig hur du skickar massutskick i Salesforce för att skalförändra din utgående kommunikation med hjälp av försäljningsåtgärder.
 
 >[!NOTE]
 >
@@ -32,7 +33,7 @@ Lär dig hur du skickar massutskick i Salesforce för att skala din utgående ko
    >
    >Du kan skapa en ny vy genom att klicka på kodikonen till höger och välja **Nytt**. När du har gett vyn ett nytt namn och sparat det kan du klicka på filterikonen till höger för att filtrera ner till den önskade uppsättningen leads/kontakter som du vill skicka med e-post.
 
-1. Välj önskad lead- eller kontaktlista och klicka på **Skicka e-postmeddelande** -knappen.
+1. Välj lead eller kontaktlista och klicka på **Skicka e-postmeddelande** -knappen.
 
    ![](assets/using-bulk-send-sales-email-in-salesforce-2.png)
 
@@ -44,7 +45,7 @@ Lär dig hur du skickar massutskick i Salesforce för att skala din utgående ko
    >
    >Använd [Fasta kategorier](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md#pinning-template-categories-in-the-compose-window){target="_blank"} för att ge enklare åtkomst till dina e-postmallar.
 
-   **VALFRITT STEG**: Förhandsgranska personalisering av dynamiska fält genom att klicka på **Förhandsgranska dynamiska fält** -knappen.
+   **VALFRITT STEG**: Förhandsgranska anpassning av dynamiska fält genom att klicka på **Förhandsgranska dynamiska fält** -knappen.
 
    >[!TIP]
    >
@@ -56,7 +57,7 @@ Lär dig hur du skickar massutskick i Salesforce för att skala din utgående ko
 
 ## Skicka massutskick i Salesforce Classic {#sending-bulk-email-in-salesforce-classic}
 
-1. I Salesforce klickar du på **Leads/kontakter** -fliken.
+1. Klicka på **Leads/kontakter** -fliken.
 
 1. I listrutan Visa väljer du önskad vy med leads/kontakter som du vill skicka e-post till och klickar på **Gå**.
 
@@ -80,7 +81,7 @@ Lär dig hur du skickar massutskick i Salesforce för att skala din utgående ko
    >
    >Använd [Fasta kategorier](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md#pinning-template-categories-in-the-compose-window){target="_blank"} för att ge enklare åtkomst till dina e-postmallar.
 
-   **VALFRITT STEG**: Förhandsgranska personalisering av dynamiska fält genom att klicka på **Förhandsgranska dynamiska fält** -knappen.
+   **VALFRITT STEG**: Förhandsgranska anpassning av dynamiska fält genom att klicka på **Förhandsgranska dynamiska fält** -knappen.
 
    >[!TIP]
    >

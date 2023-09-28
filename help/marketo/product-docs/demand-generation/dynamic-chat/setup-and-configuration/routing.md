@@ -2,7 +2,8 @@
 description: Routning - Marketo Docs - produktdokumentation
 title: Routning
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+exl-id: 93d1a96d-c101-4a1c-898c-dcadb5cdce85
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%

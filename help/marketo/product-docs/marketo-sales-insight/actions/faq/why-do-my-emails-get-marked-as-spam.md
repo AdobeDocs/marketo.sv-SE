@@ -1,7 +1,8 @@
 ---
 description: Varför markeras mina e-postmeddelanden som skräppost? - Marketo Docs - produktdokumentation
 title: Varför markeras mina e-postmeddelanden som skräppost?
-source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
+exl-id: 09fbfd78-fd06-4350-ad22-c0ff5e08394d
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -14,7 +15,7 @@ Som företag arbetar vi hårt för att säkerställa att våra leveransnivåer f
 
 **Kontrollera dina inställningar**
 
-* Anpassad domänspårning: På så sätt kan du visa alla spårningslänkar som du vill.&quot;din domän i stället för go.toutapp. En del e-postsäkerhet kommer att se att e-postmeddelandet kommer från din domän, men länken dirigeras om till go.toutapp. Genom att implementera spårning av anpassade domänlänkar kommer dina e-postmeddelanden att se legitima ut och ha större sannolikhet att hitta mottagarens inkorg.
+* Anpassad domänspårning: Det gör att du kan visa alla spårningslänkar som vanligt.&quot;din domän i stället för go.toutapp. En del e-postsäkerhet kommer att se att e-postmeddelandet kommer från din domän, men länken dirigeras om till go.toutapp. Genom att implementera spårning av anpassade domänlänkar kommer dina e-postmeddelanden att se legitima ut och ha större sannolikhet att hitta mottagarens inkorg.
 
 **Kontrollera dina e-postbeteenden**
 

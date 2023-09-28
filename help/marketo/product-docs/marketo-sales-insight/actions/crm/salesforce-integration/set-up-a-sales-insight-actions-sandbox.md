@@ -1,7 +1,8 @@
 ---
 description: Ställ in en Sales Insight Actions Sandbox - Marketo Docs - Product Documentation
 title: Ställ in en säkerhetssandlåda för Sales Insight Actions
-source-git-commit: 15c3124a53ce55810b598c43e29e21321534c81f
+exl-id: 58af77ef-93ea-4149-be91-f86cdc8f7476
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 0%
@@ -56,7 +57,7 @@ Din Actions-instans måste aktiveras med ett Salesforce-produktionskonto. När d
 
 1. Aktivera med Salesforce Production-instansen.
 
-1. Följ instruktionerna för att konfigurera kontot. Mer information finns i [Artikeln om användarintroduktion](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md){target="_blank"}.
+1. Följ instruktionerna för att konfigurera kontot. Mer information finns i [Artikel om användarintroduktion](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md){target="_blank"}.
 
 ## Förbered åtgärdsinstansen så att den är kompatibel med din Salesforce-sandlådeinstans {#prepare-your-actions-instance}
 

@@ -1,16 +1,17 @@
 ---
 description: Versionsinformation - maj 2023 - Marketo Docs - produktdokumentation
 title: Versionsinformation - maj 2023
-source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
+exl-id: e647fefc-e4f1-46e5-b688-887989f5feea
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: Maj 2023 {#release-notes-may-23}
+# Versionsinformation: maj 2023 {#release-notes-may-23}
 
-Här nedan hittar du alla funktioner som ingår i versionen från maj 23. Se om det finns funktioner i din Adobe Marketo Engage-utgåva.
+Här nedan hittar du alla funktioner som ingår i versionen från maj 23. Se om det finns funktioner i Adobe Marketo Engage Edition.
 
 >[!AVAILABILITY]
 >
@@ -33,7 +34,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   </tr>
   <tr> 
    <td>Levererat</td>
-   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Experience Cloud - översikt</a></td>
+   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Experience Cloud-gränssnitt - översikt</a></td>
   </tr>
   </tbody>
 </table>
@@ -72,7 +73,7 @@ Interaktiva webbinarier lanseras gradvis. Om du vill ha åtkomst tidigare fyller
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr> 
-   <td>Startade utrullning</td>
+   <td>Startades</td>
    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">Översikt över interaktiva webbinarier</a></td>
   </tr>
   </tbody>

@@ -2,7 +2,8 @@
 description: Ärvd checklista för instansdatabas - Marketo Docs - produktdokumentation
 title: Ärvd checklista för instansdatabas
 feature: Getting Started
-source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
+exl-id: efb126af-770c-4ce1-a131-0f3f66dfeafb
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 0%

@@ -1,7 +1,8 @@
 ---
 description: Varför synkroniseras inte mina försäljningsaktiviteter och aktivitetsfält till Salesforce? - Marketo Docs - produktdokumentation
 title: Varför synkroniseras inte mina försäljningsaktiviteter och aktivitetsfält till Salesforce?
-source-git-commit: c50f0f08914076a440026fb368bf38763b282bbf
+exl-id: 0836876d-1b89-4464-a841-81320a6e45fd
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%
@@ -22,7 +23,7 @@ ht-degree: 0%
 Om du inte ser e-post [aktivitetsattributfält](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"} i Salesforce kan det bero på begränsningar i teamets fälttillgänglighet. Salesforce-fältnivåsäkerhet ger Salesforce-administratörer möjlighet att placera begränsningar runt vilken information som kan visas och redigeras av användare. Om åtgärdsanvändare inte har tillgång till dessa fält för att visa och redigera dem kan åtgärdssynkroniseringen inte uppdatera dessa fält.
 
 * Arbeta med din Salesforce-administratör för att se till att de här skyddsinställningarna inte stör [Åtgärder för Salesforce-aktivitetsfält](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}.
-* Om du är Salesforce-administratör kan du se fälttillgängligheten på fliken Säkerhetskontroller. De huvudobjekt som funktionsmakron ska interagera med är: Leads, kontakter, konton, säljprojekt och aktivitet/aktiviteter.
+* Om du är Salesforce-administratör kan du se fälttillgängligheten på fliken Säkerhetskontroller. De huvudobjekt som funktionsmakron ska interagera med är: Leads, Kontakter, Konton, Affärsmöjligheter och Aktivitet/Aktiviteter.
 
 >[!NOTE]
 >
