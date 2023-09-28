@@ -3,7 +3,7 @@ description: Standardfältmappning för Dynamics - Marketo Docs - produktdokumen
 title: Fältmappning för standardDynamics
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
 workflow-type: tm+mt
 source-wordcount: '829'
 ht-degree: 13%
@@ -36,7 +36,7 @@ När du först synkroniserar ditt Marketo-konto med Microsoft skapar Marketo aut
     <tr>
       <td>Titel</td>
       <td>Titel</td>
-      <td>hälsning</td>
+      <td>hälsningsfras</td>
     </tr>
     <tr>
       <td>Första</td>
@@ -49,7 +49,7 @@ När du först synkroniserar ditt Marketo-konto med Microsoft skapar Marketo aut
       <td>middlename</td>
     </tr>
     <tr>
-      <td>Sista</td>
+      <td>Senaste</td>
       <td>Efternamn</td>
       <td>efternamn</td>
     </tr>
@@ -134,7 +134,7 @@ När du först synkroniserar ditt Marketo-konto med Microsoft skapar Marketo aut
       <td>donotbulkemi</td>
     </tr>
     <tr>
-      <td>Personklassificering</td>
+      <td>Personomdöme</td>
       <td>Klassificering</td>
       <td>leadqualityCode</td>
     </tr>
@@ -194,8 +194,8 @@ När du först synkroniserar ditt Marketo-konto med Microsoft skapar Marketo aut
       <td>mkt_leadinterest_potens</td>
     </tr>
     <tr>
-      <td>Senaste intressanta stund</td>
-      <td>Senaste intressanta stund</td>
+      <td>Senaste intressanta stund, typ</td>
+      <td>Senaste intressanta stund, typ</td>
       <td>mkt_lastIntresseDriftstyp</td>
     </tr>
     <tr>
@@ -276,7 +276,7 @@ Leadfälten nedan synkroniseras för internt bruk.
     <tr>
       <td>Titel</td>
       <td>Titel</td>
-      <td>hälsning</td>
+      <td>hälsningsfras</td>
     </tr>
     <tr>
       <td>Första</td>
@@ -289,7 +289,7 @@ Leadfälten nedan synkroniseras för internt bruk.
       <td>middlename</td>
     </tr>
     <tr>
-      <td>Sista</td>
+      <td>Senaste</td>
       <td>Efternamn</td>
       <td>efternamn</td>
     </tr>
@@ -315,7 +315,7 @@ Leadfälten nedan synkroniseras för internt bruk.
     </tr>
     <tr>
       <td>Adress</td>
-      <td>Adress 1: Gatuadress 1</td>
+      <td>Adress 1: Gata 1</td>
       <td>adress1_rad1</td>
     </tr>
     <tr>
@@ -325,7 +325,7 @@ Leadfälten nedan synkroniseras för internt bruk.
     </tr>
     <tr>
       <td>Stat</td>
-      <td>Adress 1: Stat/provins</td>
+      <td>Adress 1: Region</td>
       <td>address1_stateorregion</td>
     </tr>
     <tr>
@@ -360,12 +360,12 @@ Leadfälten nedan synkroniseras för internt bruk.
     </tr>
     <tr>
       <td>Microsoft-adress 2</td>
-      <td>Adress 1: Gatuadress 2</td>
+      <td>Adress 1: Gata 2</td>
       <td>address1_line2</td>
     </tr>
     <tr>
       <td>Microsoft-adress 3</td>
-      <td>Adress 1: Gatuadress 3</td>
+      <td>Adress 1: Gata 3</td>
       <td>address1_line3</td>
     </tr>
     <tr>
@@ -389,8 +389,8 @@ Leadfälten nedan synkroniseras för internt bruk.
       <td>mkt_lastinterest_potens</td>
     </tr>
     <tr>
-      <td>Senaste intressanta stund</td>
-      <td>Senaste intressanta stund</td>
+      <td>Senaste intressanta stund, typ</td>
+      <td>Senaste intressanta stund, typ</td>
       <td>mkt_lastIntresseDriftstyp</td>
     </tr>
     <tr>
@@ -488,13 +488,13 @@ Kontaktfälten nedan synkroniseras för internt bruk.
       <th>API-namn för MS Dynamics</th>
     </tr>
     <tr>
-      <td>Konto (a)</td>
+      <td>Konto a</td>
       <td>Konto</td>
-      <td>konto</td>
+      <td>kontotid</td>
     </tr>
     <tr>
       <td>Faktureringsadress</td>
-      <td>Adress 1: Gatuadress 1</td>
+      <td>Adress 1: Gata 1</td>
       <td>adress1_rad1</td>
     </tr>
     <tr>
@@ -514,12 +514,12 @@ Kontaktfälten nedan synkroniseras för internt bruk.
     </tr>
     <tr>
       <td>Microsoft faktureringsadress 2</td>
-      <td>Adress 1: Gatuadress 2</td>
+      <td>Adress 1: Gata 2</td>
       <td>address1_line2</td>
     </tr>
     <tr>
       <td>Microsoft faktureringsadress 3</td>
-      <td>Adress 1: Gatuadress 3</td>
+      <td>Adress 1: Gata 3</td>
       <td>address1_line3</td>
     </tr>
     <tr>
@@ -579,8 +579,8 @@ Kontaktfälten nedan synkroniseras för internt bruk.
     </tr>
     <tr>
       <td>Företag</td>
-      <td>name</td>
       <td>Kontonamn</td>
+      <td>name</td>
     </tr>
     <tr>
       <td>Antal anställda</td>
@@ -678,7 +678,7 @@ Kontofälten nedan synkroniseras för internt bruk.
     </tr>
     <tr>
       <td>Möjligheter</td>
-      <td>opportunityId</td>
+      <td>OpportunityId</td>
     </tr>
     <tr>
       <td>Potentiell kund</td>

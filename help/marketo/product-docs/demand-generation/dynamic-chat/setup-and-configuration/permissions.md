@@ -3,7 +3,7 @@ description: Behörigheter - Marketo Docs - produktdokumentation
 title: Behörigheter
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 0%
@@ -67,7 +67,6 @@ Nu kan du upprepa den här processen för alla andra Dynamic Chat-områden.
    ![](assets/permissions-11.png)
 
 1. Följ nu steg 3-6 från [avsnitt ovan](#edit-existing-permissions) för varje önskat område.
-
 
 ## Lista över behörigheter {#list-of-permissions}
 
