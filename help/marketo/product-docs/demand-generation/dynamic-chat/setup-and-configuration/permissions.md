@@ -3,7 +3,7 @@ description: Behörigheter - Marketo Docs - produktdokumentation
 title: Behörigheter
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: feb7c04d056455c00cfe63a1ada17f7c34b509d3
+source-git-commit: 57e5bd8a9968c26c5431484fe06964f696299856
 workflow-type: tm+mt
 source-wordcount: '724'
 ht-degree: 0%
@@ -75,7 +75,7 @@ Här nedan finns en lista med alla tillgängliga behörigheter för varje områd
 <table>
 <thead>
   <tr>
-    <th style="width:30%">Dynamic Chat</th>
+    <th style="width:25%">Dynamic Chat</th>
     <th>Behörigheter</th>
   </tr>
 </thead>
@@ -140,7 +140,7 @@ Nedan visas de fem standardprofilerna och de behörigheter som är aktiverade so
 <table>
 <thead>
   <tr>
-    <th style="width:30%">Profil</th>
+    <th style="width:25%">Profil</th>
     <th>Standardbehörigheter</th>
   </tr>
 </thead>
@@ -154,22 +154,22 @@ Nedan visas de fem standardprofilerna och de behörigheter som är aktiverade so
     <li>Visa konversationsflöden</li>
     <li>Hantera konversationsflöden (skapa, ta bort)</li>
     <li>Publicera konversationsflöden</li>
-    <p>
+    <br/>
+    <br/>
     <i>Live Chatt</i>
     <li>n/a</li>
-    <p>
+    <br>
     <br/><i>Möten</i>
     <li>n/a</li>
-    <p>
-    <br/><i>Analyser</i>
+    <br>
+    <br><i>Analyser</i>
     <li>Visa globala prestandarapporter</li>
     <li>Visa chattrapporter live</li>
     <li>Visa mötesrapporter</li>
-    <p>
-    <br/><i>Agentinställningar</i>
+    <br>
+    <br><i>Agentinställningar</i>
     <li>n/a</li>
-    <p>
-    <br/><i>Administratörsinställningar</i>
+    <br><i>Administratörsinställningar</i>
     <li>Visa Round-robin</li>
     <li>Visa anpassade regler</li>
     <li>Visa kontolista <b>*</b></li>
