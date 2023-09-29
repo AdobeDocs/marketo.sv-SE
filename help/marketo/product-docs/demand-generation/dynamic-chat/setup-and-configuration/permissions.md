@@ -3,7 +3,7 @@ description: Behörigheter - Marketo Docs - produktdokumentation
 title: Behörigheter
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: 2dab494bd897bf1030b8c2253831e7626dfe6e67
+source-git-commit: feb7c04d056455c00cfe63a1ada17f7c34b509d3
 workflow-type: tm+mt
 source-wordcount: '724'
 ht-degree: 0%
@@ -148,7 +148,6 @@ Nedan visas de fem standardprofilerna och de behörigheter som är aktiverade so
   <tr>
     <td>Marknadsförare</td>
     <td><i>Konversationshantering</i>
-    <p>
     <li>Visa dialogrutor</li>
     <li>Hantera dialogrutor (skapa, ta bort)</li>
     <li>Publicera dialogrutor</li>
@@ -156,21 +155,21 @@ Nedan visas de fem standardprofilerna och de behörigheter som är aktiverade so
     <li>Hantera konversationsflöden (skapa, ta bort)</li>
     <li>Publicera konversationsflöden</li>
     <p>
-    <p><i>Live Chatt</i></p>
+    <i>Live Chatt</i>
     <li>n/a</li>
     <p>
-    <p><i>Möten</i></p>
+    <br/><i>Möten</i>
     <li>n/a</li>
     <p>
-    <p><i>Analyser</i></p>
+    <br/><i>Analyser</i>
     <li>Visa globala prestandarapporter</li>
     <li>Visa chattrapporter live</li>
     <li>Visa mötesrapporter</li>
     <p>
-    <p><i>Agentinställningar</i></p>
+    <br/><i>Agentinställningar</i>
     <li>n/a</li>
     <p>
-    <p><i>Administratörsinställningar</i></p>
+    <br/><i>Administratörsinställningar</i>
     <li>Visa Round-robin</li>
     <li>Visa anpassade regler</li>
     <li>Visa kontolista <b>*</b></li>
