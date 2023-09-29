@@ -3,9 +3,9 @@ description: Behörigheter - Marketo Docs - produktdokumentation
 title: Behörigheter
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
+source-git-commit: 2dab494bd897bf1030b8c2253831e7626dfe6e67
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '724'
 ht-degree: 0%
 
 ---
@@ -91,16 +91,12 @@ Här nedan finns en lista med alla tillgängliga behörigheter för varje områd
   </tr>
   <tr>
     <td>Live Chatt</td>
-    <td><li>Agent Inbox</li>
-    <li>Visa mina konversationer</li>
+    <td><li>Visa mina konversationer</li>
     <li>Visa alla konversationer</li>
-    <li>Visa konversationssammanfattning <b>*</b></li>
-    <li>Visa assisterade svar <b>*</b></li></td>
   </tr>
   <tr>
     <td>Möten</td>
     <td><li>Hantera alla möten</li>
-    <li>Hantera mina möten</li></td>
   </tr>
   <tr>
     <td>Analyser</td>
@@ -117,8 +113,156 @@ Här nedan finns en lista med alla tillgängliga behörigheter för varje områd
   </tr>
   <tr>
     <td>Administratörsinställningar</td>
-    <td><li>Visa arbetsytor <b>*</b></li>
-    <li>Hantera arbetsytor (skapa, redigera, ta bort) <b>*</b></li>
+    <td><li>Visa Round-robin</li>
+    <li>Visa anpassade regler</li>
+    <li>Hantera anpassade regler (lägg till, redigera, ta bort)</li>
+    <li>Visa kontolista <b>*</b></li>
+    <li>Hantera konton (lägg till, redigera, ta bort) <b>*</b></li>
+    <li>Hantera Chatbot-inställningar</li>
+    <li>Hantera inställningar för konversationsflöden</li>
+    <li>Hantera integritet och säkerhet</li>
+    <li>Hantera integreringar</li>
+    <li>Hantera agenter</li>
+    <li>Visa agentteam <b>*</b></li>
+    <li>Hantera agentteam (lägg till, redigera, ta bort) <b>*</b></li></td>
+  </tr>
+</tbody>
+</table>
+
+**&#42;** Endast tillgängligt för Dynamic Prime-användare
+
+<p>
+
+## Standardprofilbehörigheter {#default-profile-permissions}
+
+Nedan visas de fem standardprofilerna och de behörigheter som är aktiverade som standard.
+
+<table>
+<thead>
+  <tr>
+    <th style="width:30%">Profil</th>
+    <th>Standardbehörigheter</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Marknadsförare</td>
+    <td><i>Konversationshantering</i>
+    <p>
+    <li>Visa dialogrutor</li>
+    <li>Hantera dialogrutor (skapa, ta bort)</li>
+    <li>Publicera dialogrutor</li>
+    <li>Visa konversationsflöden</li>
+    <li>Hantera konversationsflöden (skapa, ta bort)</li>
+    <li>Publicera konversationsflöden</li>
+    <p>
+    <p><i>Live Chatt</i></p>
+    <li>n/a</li>
+    <p>
+    <p><i>Möten</i></p>
+    <li>n/a</li>
+    <p>
+    <p><i>Analyser</i></p>
+    <li>Visa globala prestandarapporter</li>
+    <li>Visa chattrapporter live</li>
+    <li>Visa mötesrapporter</li>
+    <p>
+    <p><i>Agentinställningar</i></p>
+    <li>n/a</li>
+    <p>
+    <p><i>Administratörsinställningar</i></p>
+    <li>Visa Round-robin</li>
+    <li>Visa anpassade regler</li>
+    <li>Visa kontolista <b>*</b></li>
+    <li>Visa agentteam <b>*</b></li>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Live Agent</b></td>
+    <td><i>Konversationshantering</i>
+    <p>
+    <li>Visa dialogrutor</li>
+    <li>Visa konversationsflöden</li>
+    <p>
+    <p><i>Live Chatt</i></p>
+    <li>Visa mina konversationer</li>
+    <p>
+    <p><i>Möten</i></p>
+    <li>n/a</li>
+    <p>
+    <p><i>Analyser</i></p>
+    <li>Visa globala prestandarapporter</li>
+    <li>Visa chattrapporter live</li>
+    <li>Visa mötesrapporter</li>
+    <p>
+    <p><i>Agentinställningar</i></p>
+    <li>Hantera chatttillgänglighet live</li>
+    <li>Anslut din kalender</li>
+    <li>Hantera kalendertillgänglighet</li>
+    <p>
+    <p><i>Administratörsinställningar</i></p>
+    <li>Visa Round-robin</li>
+    <li>Visa anpassade regler</li>
+    <li>Visa kontolista <b>*</b></li>
+    <li>Visa agentteam <b>*</b></li>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Kalenderagent</b></td>
+    <td><i>Konversationshantering</i>
+    <p>
+    <li>Visa dialogrutor</li>
+    <li>Visa konversationsflöden</li>
+    <p>
+    <p><i>Live Chatt</i></p>
+    <li>n/a</li>
+    <p>
+    <p><i>Möten</i></p>
+    <li>n/a</li>
+    <p>
+    <p><i>Analyser</i></p>
+    <li>Visa globala prestandarapporter</li>
+    <li>Visa chattrapporter live</li>
+    <li>Visa mötesrapporter</li>
+    <p>
+    <p><i>Agentinställningar</i></p>
+    <li>Anslut din kalender</li>
+    <li>Hantera kalendertillgänglighet</li>
+    <p>
+    <p><i>Administratörsinställningar</i></p>
+    <li>Visa Round-robin</li>
+    <li>Visa anpassade regler</li>
+    <li>Visa kontolista <b>*</b></li>
+    <li>Visa agentteam <b>*</b></li>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Marknadsföringsadministratör</b></td>
+    <td><i>Konversationshantering</i>
+    <p>
+    <li>Visa dialogrutor</li>
+    <li>Hantera dialogrutor (skapa, ta bort)</li>
+    <li>Publicera dialogrutor</li>
+    <li>Visa konversationsflöden</li>
+    <li>Hantera konversationsflöden (skapa, ta bort)</li>
+    <li>Publicera konversationsflöden</li>
+    <p>
+    <p><i>Live Chatt</i></p>
+    <li>n/a</li>
+    <p>
+    <p><i>Möten</i></p>
+    <li>n/a</li>
+    <p>
+    <p><i>Analyser</i></p>
+    <li>Visa globala prestandarapporter</li>
+    <li>Visa chattrapporter live</li>
+    <li>Visa mötesrapporter</li>
+    <li>Exportera rapporter</li>
+    <p>
+    <p><i>Agentinställningar</i></p>
+    <li>n/a</li>
+    <p>
+    <p><i>Administratörsinställningar</i></p>
     <li>Visa Round-robin</li>
     <li>Visa anpassade regler</li>
     <li>Hantera anpassade regler (lägg till, redigera, ta bort)</li>
@@ -128,11 +272,44 @@ Här nedan finns en lista med alla tillgängliga behörigheter för varje områd
     <li>Hantera inställningar för konversationsflöden</li>
     <li>Hantera integritet och säkerhet</li>
     <li>Hantera integreringar</li>
-    <li>Hantera språk <b>*</b></li>
+    <li>Visa agentteam <b>*</b></li>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Försäljningsadministratör</b></td>
+    <td><i>Konversationshantering</i>
+    <p>
+    <li>Visa dialogrutor</li>
+    <li>Visa konversationsflöden</li>
+    <p>
+    <p><i>Live Chatt</i></p>
+    <li>Visa mina konversationer</li>
+    <li>Visa alla konversationer</li>
+    <p>
+    <p><i>Möten</i></p>
+    <li>Hantera alla möten</li>
+    <p>
+    <p><i>Analyser</i></p>
+    <li>Visa globala prestandarapporter</li>
+    <li>Visa chattrapporter live</li>
+    <li>Visa mötesrapporter</li>
+    <li>Exportera rapporter</li>
+    <p>
+    <p><i>Agentinställningar</i></p>
+    <li>Hantera chatttillgänglighet live</li>
+    <li>Anslut din kalender</li>
+    <li>Hantera kalendertillgänglighet</li>
+    <p>
+    <p><i>Administratörsinställningar</i></p>
+    <li>Visa Round-robin</li>
+    <li>Visa anpassade regler</li>
+    <li>Hantera anpassade regler (lägg till, redigera, ta bort)</li>
+    <li>Visa kontolista <b>*</b></li>
+    <li>Hantera konton (lägg till, redigera, ta bort) <b>*</b></li>
     <li>Hantera agenter</li>
     <li>Visa agentteam <b>*</b></li>
-    <li>Hantera agentteam (lägg till, redigera, ta bort) <b>*</b></li>
-    <li>Visa användningsgränser</li></td>
+    <li>Hantera agentteam <b>*</b></li>
+    </td>
   </tr>
 </tbody>
 </table>
