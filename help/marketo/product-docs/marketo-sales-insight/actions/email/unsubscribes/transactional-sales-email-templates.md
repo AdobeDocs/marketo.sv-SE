@@ -4,9 +4,9 @@ title: E-postmallar för transaktionsförsäljning
 hide: true
 hidefromtoc: true
 feature: Sales Insight Actions
-source-git-commit: d6a3d95ed42d1c08d69014e1aa013e7436bd06c2
+source-git-commit: 01bb763931e875630bbd9e32d0a4ecc200fef61c
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -25,34 +25,32 @@ Om ditt team skickar ut transaktionsbaserade eller icke-kommersiella e-postmedde
 
 1. Klicka på i sidhuvudet **Mallar**.
 
-PICC
+   ![](assets/transactional-sales-email-templates-1.png)
 
-1. Sök efter mallen som du vill uppdatera.
+1. Sök efter och välj den mall som du vill uppdatera.
 
-PICC
-
-1. Markera mallen.
-
-PICC
+   ![](assets/transactional-sales-email-templates-2.png)
 
 1. Aktivera alternativet för icke-kommersiell e-post under Mallinställningar.
 
-PICC
+   ![](assets/transactional-sales-email-templates-3.png)
 
 ## Skicka ett icke-kommersiellt e-postmeddelande {#send-a-non-commercial-email}
 
-När du har valt en person som inte längre prenumererar markeras personen som orange.
+>[!NOTE]
+>
+>När du har valt en person som inte längre prenumererar markeras personen som orange.
 
-1. I dispositionsfönstret väljer du den icke-kommersiella mall som du vill se.
+1. Klicka på i sidhuvudet **Skapa**. Sök efter och välj önskad icke-kommersiell mall.
 
-PICC
+   ![](assets/transactional-sales-email-templates-4.png)
 
 1. Användarna ser en banderoll som visar att de har valt en icke-kommersiell e-postmall.
 
-PICC
+   ![](assets/transactional-sales-email-templates-5.png)
 
 1. Klicka **Skicka**.
 
-PICC
+   ![](assets/transactional-sales-email-templates-6.png)
 
 E-postmeddelandet skickas fortfarande även om personen avbeställer prenumerationen.
