@@ -4,9 +4,9 @@ description: Förbered dig för ditt event - Marketo Docs - produktdokumentation
 title: Förbered dig för ditt evenemang
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Förbered dig för ditt evenemang {#prepare-for-your-event}
 
 Det finns flera saker du måste göra för att göra dig redo för evenemanget.
+
+>[!IMPORTANT]
+>
+>Den 2 oktober 2023 tog Adobe bort Marketo Events-appen från alla appbutiker. Om appen redan är installerad på din surfplatta/mobila enhet kan du fortsätta använda den tills vidare. När din Marketo Engage-instans har migrerats till Adobe Identity för autentisering av Marketo, kommer du inte längre att kunna komma åt appen. [Läs mer](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Skapa en ny Marketo-roll {#create-a-new-marketo-role}
 
@@ -41,13 +45,13 @@ Det går snabbt att ställa in dina händelsedatum.
 
    >[!CAUTION]
    >
-   >Om datumet för händelsen infaller mer än en vecka före eller efter det aktuella datumet visas inte händelsen i appen. **Tips**: Om du vill testa det anger du datumet tillfälligt inom en vecka från idag. Kom ihåg att returnera händelsen till rätt datum efter att du har testat den.
+   >Om datumet för händelsen infaller mer än en vecka före eller efter det aktuella datumet visas inte händelsen i appen. **Tips**: Om du vill testa det anger du datum tillfälligt inom en vecka från idag. Kom ihåg att returnera händelsen till rätt datum efter att du har testat den.
 
 ## Lägg till personer i din aktivitet {#add-people-to-your-event}
 
 Nu när du vet *när*&#x200B;är det dags att lägga till *som*.
 
-1. Om du redan har en lista över personer i Min Marketo klickar du på **Databas** platta.
+1. Om du redan har en lista över personer klickar du på **Databas** platta.
 
    ![](assets/db.png)
 
@@ -63,7 +67,7 @@ Nu när du vet *när*&#x200B;är det dags att lägga till *som*.
 
    ![](assets/six.png)
 
-1. Klicka på **Program** nedrullningsbar lista och välj din aktivitet.
+1. Klicka på **Program** nedrullningsbar lista och välj aktiviteten.
 
    ![](assets/seven.png)
 
@@ -75,7 +79,7 @@ Nu när du vet *när*&#x200B;är det dags att lägga till *som*.
 
    ![](assets/image2016-4-7-16-3a49-3a7.png)
 
-1. ...och visar när uppgiften är slutförd.
+1. ...och anger när uppgiften är slutförd.
 
    ![](assets/ten.png)
 

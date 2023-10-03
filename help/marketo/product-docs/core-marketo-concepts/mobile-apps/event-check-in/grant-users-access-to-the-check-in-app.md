@@ -4,9 +4,9 @@ description: Ge användare åtkomst till incheckningsprogrammet - Marketo Docs -
 title: Ge användare åtkomst till incheckningsappen
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Ge användare åtkomst till incheckningsappen {#grant-users-access-to-the-check-in-app}
 
 Marketo har en särskild användarroll för incheckningsappen för händelser. Så här skapar du en ny roll med behörighet att använda programmet.
+
+>[!IMPORTANT]
+>
+>Den 2 oktober 2023 tog Adobe bort Marketo Events-appen från alla appbutiker. Om appen redan är installerad på din surfplatta/mobila enhet kan du fortsätta använda den tills vidare. När din Marketo Engage-instans har migrerats till Adobe Identity för autentisering av Marketo, kommer du inte längre att kunna komma åt appen. [Läs mer](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Skapa en ny användarroll för mobilen {#create-a-new-user-role-for-mobile}
 
@@ -25,7 +29,7 @@ Marketo har en särskild användarroll för incheckningsappen för händelser. S
 
    ![](assets/image2015-6-2-10-3a56-3a0.png)
 
-1. Klicka på **Roller** tabbtangenten och sedan klicka **Ny roll**.
+1. Klicka på **Roller** tabbtangenten och klicka sedan på **Ny roll**.
 
    ![](assets/image2015-6-2-11-3a3-3a23.png)
 
@@ -57,4 +61,4 @@ Marketo har en särskild användarroll för incheckningsappen för händelser. S
    >
    >För befintliga användare kan du antingen skapa en ny roll eller lägga till behörigheten Access Mobile Application till den aktuella rollen.
 
-Användaren får ett e-postmeddelande som talar om för dem att de har tillgång till incheckningsappen.
+Användaren får ett e-postmeddelande som talar om att de har tillgång till incheckningsappen.

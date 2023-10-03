@@ -4,9 +4,9 @@ description: Checka in personer i ditt event från din surfplatta - Marketo Docs
 title: Checka in personer i din aktivitet från surfplattan
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '859'
 ht-degree: 0%
 
 ---
@@ -15,18 +15,21 @@ ht-degree: 0%
 
 När någon visas vid ditt evenemang hittar du deras information i appen. Efter incheckning befordras de till tillagd status när du synkroniserar till Marketo.
 
+>[!IMPORTANT]
+>
+>Den 2 oktober 2023 tog Adobe bort Marketo Events-appen från alla appbutiker. Om appen redan är installerad på din surfplatta/mobila enhet kan du fortsätta använda den tills vidare. När din Marketo Engage-instans har migrerats till Adobe Identity för autentisering av Marketo, kommer du inte längre att kunna komma åt appen. [Läs mer](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+
 Programmet fungerar på samma sätt på både iPad och Android, förutom små skillnader i layout och design.
 
 >[!PREREQUISITES]
 >
->* Skapa ett event i Marketo och fyll i det med Inbjuden och Registrerad person.
->* Ladda ned appen för surfplattan för [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) eller [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
+>* Skapa en händelse i Marketo och fyll i den med Inbjuden och registrerad person.
 
 ## Checka in registrerade gäster {#check-in-registered-guests}
 
 1. Tryck på appikonen på din iPad- eller Android-surfplatta.
 
-1. Tryck **Inloggning** för att starta Marketo Event-appen.
+1. Tryck **Inloggning** för att starta Marketo Event.
 
    ![](assets/1.jpg)
 
@@ -154,7 +157,7 @@ Appen Marketo Events fungerar oberoende tills du synkroniserar din aktivitet med
 
 ## Arbeta med begränsad Internet-åtkomst {#working-with-limited-internet-access}
 
-Vissa platser har dålig internetuppkoppling. Du behöver en bra anslutning till:
+Vissa platser har dålig Internetåtkomst. Du behöver en bra anslutning till:
 
 * Hämta och installera programmet
 * Logga in
@@ -165,7 +168,7 @@ Om du är oroad över internetuppkoppling kan du logga in på Marketo Events-app
 
 >[!TIP]
 >
->Om du inte har någon internetanslutning kan du fortfarande skapa en ny person för att checka in en person. Den kommer att stämma av med den befintliga personen när du synkroniserar appen.
+>Om du inte har någon internetanslutning kan du fortfarande skapa en ny person för att checka in. Den kommer att stämma av med den befintliga personen när du synkroniserar appen.
 
 >[!NOTE]
 >

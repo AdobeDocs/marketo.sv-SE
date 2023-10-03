@@ -4,9 +4,9 @@ description: Understanding Marketo Moments - Marketo Docs - Product Documentatio
 title: Förstå Marketo Moments
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '612'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Nu ligger kraften i Marketo i dina händer, bokstavligen! Förhandsgranska och schemalägg om e-post direkt från mobilen eller iPad.
 
+>[!IMPORTANT]
+>
+>Den 2 oktober 2023 tog Adobe bort appen Marketo Moments från alla appbutiker. Om appen redan är installerad på din surfplatta/mobila enhet kan du fortsätta använda den tills vidare. När din Marketo Engage-instans har migrerats till Adobe Identity för autentisering av Marketo, kommer du inte längre att kunna komma åt appen. [Läs mer](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+
 >[!NOTE]
 >
->Åtkomst till mobilappar krävs. Kontakta din Marketo-administratör för att [uppdatera din roll](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
-
->[!AVAILABILITY]
->
->Den här appen är inte kompatibel med [Autentisering av Adobe-identitet](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} just nu.
+>_Få tillgång till mobilappar_ behörighet krävs. Kontakta din Marketo-administratör för att [uppdatera din roll](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## Strömmar {#streams}
 
