@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 46507c0caab93778e3afe6a39ff5a8e70d492233
+source-git-commit: 6746f49d4ea4a19e2d1e99d3ddda34bb4ac6d2d6
 workflow-type: tm+mt
-source-wordcount: '9104'
+source-wordcount: '9101'
 ht-degree: 0%
 
 ---
@@ -490,7 +490,6 @@ ht-degree: 0%
                + [Förstå smarta kampanjkort](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
             + Arbeta med stunder {#working-with-moments}
                + [Skapa en favorit](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-               + [Hämtar Marketo Moments](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/downloading-marketo-moments.md)
                + [Markera färdig](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
                + [Anpassa Marketo Moments](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/personalizing-marketo-moments.md)
                + [Förhandsgranska e-post](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md)
