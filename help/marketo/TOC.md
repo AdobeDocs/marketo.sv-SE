@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 01bb763931e875630bbd9e32d0a4ecc200fef61c
+source-git-commit: 46507c0caab93778e3afe6a39ff5a8e70d492233
 workflow-type: tm+mt
-source-wordcount: '9111'
+source-wordcount: '9104'
 ht-degree: 0%
 
 ---
@@ -481,7 +481,6 @@ ht-degree: 0%
             + [Checka in personer i din aktivitet från surfplattan](product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)
             + [Ge användare åtkomst till incheckningsappen](product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md)
             + [Förbered dig för ditt evenemang](product-docs/core-marketo-concepts/mobile-apps/event-check-in/prepare-for-your-event.md)
-            + [Konfigurera iPad- eller Android-surfplattan](product-docs/core-marketo-concepts/mobile-apps/event-check-in/set-up-the-ipad-or-android-tablet.md)
          + Marketo Moments {#marketo-moments}
             + Förstå stunder {#understanding-moments}
                + [Förstå Marketo Moments](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
