@@ -2,10 +2,10 @@
 description: Live Chat Overview - Marketo Docs - produktdokumentation
 title: Översikt över live-chatt
 feature: Dynamic Chat
-exl-id: f6563e73-4b6e-437d-bf8b-ec72a9b8bcb3
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 44e8b249-b534-4cec-a612-daa184acd266
+source-git-commit: 870dd6df82c605fffa6681d68867354084988bcd
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,10 @@ Med live-chatt kan besökare på webbplatsen delta i chattsamtal i realtid med s
 Om du vill komma igång med live-chatt måste du lägga till dina live-chattagenter som [användare i Adobe Admin Console](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} and give them the [Live Chat permission](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}. När detta är klart kan du lägga till en [live chattkort](#using-the-live-chat-card) till en ny eller befintlig dialogruta.
 
 När besökare begär att få chatta med en agent via din dialogruta har agenterna flera [meddelandealternativ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}. When they click on the notification, they'll be taken to their [Agent Inbox](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"} där de kan börja chatta med besökaren.
+
+>[!NOTE]
+>
+>Agentavataren använder profilbilden från agentens Adobe-kontoprofil. Följ för att uppdatera bilden [dessa steg](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}.
 
 ## Använda chattkortet {#using-the-live-chat-card}
 
