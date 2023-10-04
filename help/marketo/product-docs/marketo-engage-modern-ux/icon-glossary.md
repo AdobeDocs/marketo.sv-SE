@@ -3,9 +3,9 @@ description: Ikonordlista - Marketo Docs - produktdokumentation
 title: Ikonordlista
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b635cecbdca47944dd92127b668a956fdc8c9509
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '239'
 ht-degree: 2%
 
 ---
@@ -76,7 +76,7 @@ Nedan visas ikonerna för det nya Adobe Marketo Engage-gränssnittet. Om du beh�
   <tr>
    <td><img src="assets/classic-field-organizer.png"></td> 
    <td><img src="assets/field-organizer.png"></td> 
-   <td>Sorteraren i fält</td> 
+   <td>Fältorganisatör</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-filter.png"></td> 
@@ -97,6 +97,11 @@ Nedan visas ikonerna för det nya Adobe Marketo Engage-gränssnittet. Om du beh�
    <td><img src="assets/classic-archive-folder.png"></td> 
    <td><img src="assets/folder-archive.png"></td> 
    <td>Mapp - arkiverad</td> 
+  </tr>
+  <tr>
+   <td><img src="assets/classic-folder-shared.png"></td> 
+   <td><img src="assets/folder-shared.png"></td> 
+   <td>Mapp - delad</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-locked-folder.jpg"></td> 
