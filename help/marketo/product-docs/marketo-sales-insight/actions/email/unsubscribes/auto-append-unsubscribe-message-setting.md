@@ -1,11 +1,9 @@
 ---
 description: Lägg till inställningen för att avbryta prenumerationen - Marketo Docs - Produktdokumentation
 title: Lägg till inställningen för att avbryta prenumerationen
-hide: true
-hidefromtoc: true
 feature: Sales Insight Actions
-exl-id: 7cfd2db3-181e-4407-807f-d17d77715fac
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 17734f62-74e6-4168-a9c8-7835e3daf5ff
+source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%

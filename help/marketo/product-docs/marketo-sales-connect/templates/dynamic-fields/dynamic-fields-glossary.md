@@ -4,9 +4,9 @@ description: Dynamiska fält - ordlista - Marketo Docs - produktdokumentation
 title: Ordlista för dynamiska fält
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-source-git-commit: d6a3d95ed42d1c08d69014e1aa013e7436bd06c2
+source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -22,8 +22,10 @@ Det här verktyget används för att `auto-personalize your email` och spara mas
 | `{{company}}` | Adobe |
 | `{{company_friendly}}` | Adobe |
 | `{{first_name}}` | Keith |
-| `{{friendly_unsubscribe}}` | Om du inte vill höra av mig igen, var snäll och säg till här |
+| `{{team_unsubscribe}}` | Om du inte längre vill få e-post från oss klickar du här |
+| `{{friendly_unsubscribe}}` | Trött på alla e-postmeddelanden? Meddela mig här |
 | `{{my_name}}` | Keith Flynn |
+| `{{my_signature}}` | Keith Flynn, Senior Technical Writer - Adobe |
 | `{{personal_email}}` | keith@pickyouremail.com |
 | `{{title}}` | Teknikskribent |
 | `{{work_website}}` | https://www.adobe.com |
@@ -33,6 +35,7 @@ Det här verktyget används för att `auto-personalize your email` och spara mas
 * Om en kontakts information är felaktigt angiven eller saknas på sidan Personer, kommer den inte att föras över korrekt till din mall.
 * Skillnaden mellan `{{company}}` och `{{company_friendly}}` är att `{{company_friendly}}` tar bort alla formella titlar, som Inc., LLC. osv., från namnet på din kontakts företag.
 * När du använder `{{company_friendly}}`ska du avgränsa Inc. eller Co. med ett kommatecken i kontaktinformationen. Så här vet Sales Connect vad som ska tas bort när värdet hämtas.
+* Om du använder `{{my_signature}}` dynamiskt fält läggs inte användarens signatur automatiskt till för att förhindra dubbletter.
 
 >[!TIP]
 >
