@@ -3,9 +3,9 @@ description: Dynamiska fält - Marketo Docs - produktdokumentation
 title: Dynamiska fält
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
+source-git-commit: cffe7a8734f79f887f3aad017a16fad4f04cda74
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '559'
 ht-degree: 0%
 
 ---
@@ -71,7 +71,7 @@ Det här verktyget används för att `auto-personalize your email` och spara mas
 * Skillnaden mellan `{{company}}` och `{{company_friendly}}` är att `{{company_friendly}}` tar bort alla formella titlar, som Inc., LLC. osv., från namnet på din kontakts företag.
 * När du använder `{{company_friendly}}`ska du avgränsa Inc. eller Co. med ett kommatecken i kontaktinformationen. Så här vet Sales Insight Actions vad som ska tas bort när värdet hämtas.
 * Vi låter dig anpassa dina e-postmallar med fördefinierade attribut som `{{my_name}}` eller `{{my_title}}`. Med dessa fält kan du snabbt referera till dig själv i e-postmallar.
-* Om du använder `{{my_signature}}` dynamiskt fält läggs inte användarens signatur automatiskt till för att förhindra dubbletter.
+* Systemet lägger automatiskt till användarens signatur i varje e-postmeddelande som skickas. Om användaren använder en mall med `{{my_signature}}` dynamiskt fält fylls signaturen där `{{my_signature}}` dynamiskt fält har placerats ut. Det läggs bara till där för att undvika duplicering. Systemet hanterar `{{team_unsubscribe}}` på samma sätt som när den globala inställningen för att avsluta prenumeration är aktiverad.
 
 >[!TIP]
 >
