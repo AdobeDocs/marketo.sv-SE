@@ -4,9 +4,9 @@ description: Konfigurera LinkedIn Lead Gen Forms - Marketo Docs - produktdokumen
 title: Konfigurera LinkedIn Lead Gen Forms
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e1254c8156557b27d066a4482076becbd03fc774
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '471'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,10 @@ Använd LinkedIn Lead Gen Forms för att köra annonskampanjer i LinkedIn och ge
 >
 >**Administratörsbehörigheter krävs**
 
+>[!NOTE]
+>
+>Ett LinkedIn-lead kommer inte in i Marketo Engage om det matchar en befintlig personpost i Marketo som är kopplad till en företagspost som skapats med företags-API:er, och Marketo-prenumerationen inte är ansluten till någon CRM.
+
 1. Gå till Marketo **Administratör**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
@@ -27,7 +31,7 @@ Använd LinkedIn Lead Gen Forms för att köra annonskampanjer i LinkedIn och ge
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Ange **Visningsnamn** för tjänsten väljer du **linkedIn Lead Gen** i listrutan och klicka på **Nästa**.
+1. Ange en **Visningsnamn** för tjänsten väljer du **LinkedIn Lead Gen** i listrutan och klicka på **Nästa**.
 
    ![](assets/linkedin-lead-gen.png)
 
