@@ -4,10 +4,10 @@ description: Versionsschema – Marketo Docs – produktdokumentation
 title: Releaschema
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 72845f270a3490f273cd833c05ad9aec0549c84c
+source-git-commit: aa7008300a32e3e6e311224ece73200add708e65
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 5%
+source-wordcount: '131'
+ht-degree: 6%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 5%
 
 **Frigör**: Månad/år för varje release. När versionsinformationen är tillgänglig länkas den i tabellen nedan.
 
-**Releasedatum**: Utrullningen börjar oftast på tisdagen i releaseveckan, då större delen av uppgraderingen sker på fredag kväll. Ett e-postmeddelande med specifika datum och versionsinformation skickas ut. Det listade datumet gäller uppdateringen på fredag.
+**Releasedatum**: Utrullningen börjar vanligtvis på tisdag i releasecommien, och mer av uppgraderingen sker på fredag kväll. Det listade datumet gäller uppdateringen på fredag.
 
 **Status**:
 
@@ -23,7 +23,7 @@ ht-degree: 5%
 * Pågår - vi håller på att lansera funktionerna i den här versionen
 * Skickat - Versionen är klar
 
-_Releasedatum kan ändras_
+_Releasedatum/funktioner kan komma att ändras_
 
 <table> 
  <colgroup> 
