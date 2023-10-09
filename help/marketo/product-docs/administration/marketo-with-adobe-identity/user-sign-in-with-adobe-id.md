@@ -3,18 +3,18 @@ description: Användarinloggning med Adobe ID - Marketo Docs - produktdokumentat
 title: Användarinloggning med Adobe ID
 exl-id: d17f4de3-491c-45a7-b4b8-f68b9bd35124
 feature: Marketo with Adobe Identity
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: d1ea45826d9ddf55a67d615b757b6deb9b5c6fc2
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
 
 # Användarinloggning med Adobe ID {#user-sign-in-with-adobe-id}
 
-När en användare med Adobe Identity behöver logga in på programmet Marketo Engage måste han/hon logga in via Adobe ID inloggningslänk jämfört med den vanliga inloggningen på Marketo inloggningssida. När du klickar på länken dirigeras användaren till Marketo Engage-programmet.
+När en användare med Adobe Identity behöver logga in på programmet Marketo Engage måste han/hon logga in via inloggningslänken för AdobeID jämfört med den vanliga inloggningen på inloggningssidan för Marketo Engage. När du klickar på länken dirigeras användaren till Marketo Engage-programmet.
 
-1. Klicka på **[!UICONTROL Sign in with an Adobe ID]** på Marketo inloggningssida.
+1. Klicka **[!UICONTROL Continue with AdobeID]** på inloggningssidan för Marketo Engage.
 
    ![](assets/user-sign-in-with-adobe-id-1.png)
 
