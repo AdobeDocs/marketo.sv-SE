@@ -3,9 +3,9 @@ description: Dynamic Chat Overview - Marketo Docs - Product Documentation
 title: Översikt över Dynamic Chat
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+source-git-commit: c4a02e1c365da6c56c94b119650e2c366cdc6641
 workflow-type: tm+mt
-source-wordcount: '696'
+source-wordcount: '571'
 ht-degree: 0%
 
 ---
@@ -113,22 +113,4 @@ Nedan visas bara några av gränserna/parametrarna i Dynamic Chat. En fullständ
 
 ## Vanliga frågor och svar {#faq}
 
-**Kan jag installera Dynamic Chat var som helst på min företagswebbplats eller fungerar det bara på Marketo landningssidor?**
-
-JavaScript-kodfragmentet Dynamic Chat kan installeras på alla webbplatser och på Marketo landningssidor.
-
-**Hur länge lagras data för rapportering?**
-
-90 dagar. En fullständig lista över begränsningar/parametrar finns på Marketo Engage [Produktbeskrivningssida](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
-
-**Har Dynamic Chat stöd för andra språk än engelska?**
-
-Ja. Dynamic Chat stöder följande språk: franska, tyska, japanska, spanska, italienska, brasiliansk portugisiska, koreanska, förenklad kinesiska och traditionell kinesiska. Läs mer i [Ändra språk](#changing-the-language).
-
-**Stöder du AI/NLP-funktioner?**
-
-Vi stöder inte AI/NLP-funktioner.
-
-**Hur kan jag rikta mig till anonyma människor?**
-
-I dialogrutan måste du använda _Personens e-postadress är tom_ -attribut.
+Se [Vanliga frågor om Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}.
