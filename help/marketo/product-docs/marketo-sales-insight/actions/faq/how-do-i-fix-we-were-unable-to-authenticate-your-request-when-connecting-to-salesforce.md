@@ -3,9 +3,9 @@ description: Hur korrigerar jag"Vi kunde inte autentisera din begäran" vid ansl
 title: Hur korrigerar jag"Vi kunde inte autentisera din begäran" vid anslutning till Salesforce?
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: b09bff5fe72e5cce86ab4664e264edb181fa3e5c
+source-git-commit: e6d939eca9731dc9df8ea506090a049e8741fa07
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Det här felet indikerar vanligtvis att du har en anpassad domän som vi inte ka
 
 Om instansen som du försöker ansluta till är en Salesforce-sandlådedomän och du får ett fel, måste du gå igenom ytterligare steg för att uppdatera instansen så att den blir Salesforce-sandlådekompatibel. [Läs mer](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}.
 
-## Lös OAuth-appen blockerad och andra feltyper {#resolve-oauth-app-blocked-and-other-error-types}
+## Lös OAuth-appen blockerad {#resolve-oauth-app-blocked}
 
 Om du får felmeddelandet&quot;Vi kunde inte autentisera din begäran&quot; med feltypen Oauth App Blocked eller en annan typ i URL:en, kan det finnas en begränsning för din åtkomst till Salesforce API. Kontakta din Salesforce-administratör för att kontrollera att följande saker finns på plats.
 
