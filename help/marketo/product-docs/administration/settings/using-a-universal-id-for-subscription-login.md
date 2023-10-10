@@ -4,9 +4,9 @@ description: Använda ett universellt ID för prenumerationsinloggning - Marketo
 title: Använda ett universellt ID för prenumerationsinloggning
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: b633a81cce39c89d63c2445fa197dbd6d7e6c57c
+source-git-commit: 6ef584a5f405fd5b62c561b99924b8f169a22118
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '581'
 ht-degree: 0%
 
 ---
@@ -61,7 +61,7 @@ Om du har flera prenumerationer kan du ha flera communityprofiler. Vi rekommende
 
 ## Mobilplattform {#mobile-platform}
 
-Användare med ett universellt ID kan se sina data på [Marketo Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md){target="_blank"} and the [event check-in application](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md){target="_blank"} från prenumerationen som de senast loggat in på. Du kan inte ändra prenumerationer från själva mobilplattformen.
+Användare med ett universellt ID kan se sina data på [Marketo Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md){target="_blank"} and the [event check-in application](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md){target="_blank"} från prenumerationen som de senast loggade in på. Du kan inte ändra prenumerationer från själva mobilplattformen.
 
 >[!MORELIKETHIS]
 >
