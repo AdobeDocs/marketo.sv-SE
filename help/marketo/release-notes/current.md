@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 215f32a43715b0e2d3794890e245675265748f09
+source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '340'
 ht-degree: 2%
 
 ---
@@ -53,8 +53,9 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   </tr>
    <tr> 
    <td><strong>Hämta inspelning och tilldela en medvärd i interaktiva webbinarier</strong>: Du kan nu lägga till en extern värddator för ditt webbinarium om den ursprungliga värddatorn inte är tillgänglig. Nu kan du även ladda ned webbinariet.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#webinar-recording" target="_blank">Hämta inspelning</a></li>
+   <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md" target="_blank">Skapa ett interaktivt webbinarium</a></li></td>
   </tr>
  </tbody> 
 </table>

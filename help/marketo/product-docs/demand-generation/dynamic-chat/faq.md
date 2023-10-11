@@ -2,9 +2,10 @@
 description: Dynamic Chat FAQ - Marketo Docs - produktdokumentation
 title: Vanliga frågor om Dynamic Chat
 feature: Dynamic Chat
-source-git-commit: c4a02e1c365da6c56c94b119650e2c366cdc6641
+exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
+source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
 workflow-type: tm+mt
-source-wordcount: '756'
+source-wordcount: '780'
 ht-degree: 0%
 
 ---
@@ -23,7 +24,7 @@ JavaScript-kodfragmentet Dynamic Chat kan installeras på alla webbplatser och p
 
 **Har Dynamic Chat stöd för andra språk än engelska?**
 
-Ja. Dynamic Chat stöder följande språk: franska, tyska, japanska, spanska, italienska, brasiliansk portugisiska, koreanska, förenklad kinesiska och traditionell kinesiska. Läs mer i [Ändra språk](#changing-the-language).
+Ja. Dynamic Chat stöder följande språk: franska, tyska, japanska, spanska, italienska, brasiliansk portugisiska, koreanska, förenklad kinesiska och traditionell kinesiska. Läs mer i [Ändra språk](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
 
 **Stöder du AI/NLP-funktioner?**
 
@@ -80,6 +81,10 @@ Detta tyder troligen på att din kalenderanslutning måste autentiseras på nytt
 **Vad är skillnaden mellan en dialog och ett konversationsflöde?**
 
 En dialogruta är en konversation som automatiskt visas för webbbesökare som uppfyller en definierad uppsättning målinriktningsvillkor. Ett konversationsflöde visas bara för besökare som utför en viss åtgärd på webben, till exempel trycker på en knapp.
+
+**Finns det något sätt att använda Dynamic Chat för att boka möten direkt från ett e-postmeddelande?**
+
+Ja! [Lär dig mer](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
 
 **Kan jag använda Dynamic Chat utan Marketo Engage?**
 
