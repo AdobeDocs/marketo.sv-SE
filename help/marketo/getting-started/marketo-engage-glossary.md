@@ -4,7 +4,7 @@ description: Marketo Engage-ordlista - Marketo Docs - produktdokumentation
 title: Marketo Engage - ordlista
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 feature: Getting Started
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: 096936c8bc94bbbfc5213a6b45913b300f547b90
 workflow-type: tm+mt
 source-wordcount: '4176'
 ht-degree: 0%
@@ -172,7 +172,7 @@ Nedan finns definitioner för många av termerna som du kan stöta på när du a
    <td colspan="1">I Marketo kan du duplicera flera olika typer av enheter i instansen. Du kan klona <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">program</a>, en <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">resurs inom ett program</a>, a <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">stream</a>, med mera.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
    <td colspan="1">Den främre delen av URL:en. Det enda ordet (plus YourCompany.com) kallas för CNAME (t.ex. <em>info</em>.YourCompany.com/).</td> 
   </tr> 
   <tr> 
