@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: c4a02e1c365da6c56c94b119650e2c366cdc6641
+source-git-commit: 639bb1404117607af116122b410479d37ae32fad
 workflow-type: tm+mt
-source-wordcount: '9102'
+source-wordcount: '9094'
 ht-degree: 0%
 
 ---
@@ -192,7 +192,6 @@ ht-degree: 0%
          + [Ändra ditt Marketo-lösenord](product-docs/administration/settings/change-your-marketo-password.md)
          + [Ändra lösenordsinställningarna](product-docs/administration/settings/change-your-password-security-settings.md)
          + [Skapa en anpassad flik för personinformationssidan](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
-         + [Anpassa URL:er för landningssidor med en CNAME](product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname.md)
          + [Redigera kontoinställningar](product-docs/administration/settings/edit-account-settings.md)
          + [Redigera inställningar för stöd för Do Not Track-webbläsare](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
          + [Redigera inställningar för landningssida](product-docs/administration/settings/edit-landing-page-settings.md)
