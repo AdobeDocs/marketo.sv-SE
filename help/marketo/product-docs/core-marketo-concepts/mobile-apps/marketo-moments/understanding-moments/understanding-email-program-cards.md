@@ -4,10 +4,10 @@ description: Understanding Email Program Cards - Marketo Docs - Product Document
 title: Understanding Email Program Cards
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '378'
-ht-degree: 0%
+source-wordcount: '350'
+ht-degree: 1%
 
 ---
 
@@ -41,11 +41,11 @@ När e-postmeddelandet har skickats visar kortet annan värdefull information, i
 
    ![](assets/image2015-7-16-17-3a6-3a16.png)
 
-1. Tryck **Bekräfta**.
+1. Tryck på **[!UICONTROL Confirm]**.
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Tryck **Bekräfta** för att slutföra jobbet, eller **Aldrig sinna** om du haft andra tankar.
+1. Tryck **[!UICONTROL Confirm]** för att slutföra jobbet, eller **[!UICONTROL Never Mind]** om du haft andra tankar.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -59,7 +59,7 @@ När e-postmeddelandet har skickats visar kortet annan värdefull information, i
 
    ![](assets/image2015-7-17-9-3a50-3a49.png)
 
-1. Tryck **Avbryt sändning**.
+1. Tryck på **[!UICONTROL Cancel Send]**.
 
    ![](assets/image2015-7-17-9-3a52-3a54.png)
 
@@ -75,11 +75,11 @@ Du kan schemalägga om bekräftade eller obekräftade e-postkort.
 
    ![](assets/image2015-7-17-9-3a58-3a44.png)
 
-1. Tryck **Ändra schema**.
+1. Tryck på **[!UICONTROL Reschedule]**.
 
    ![](assets/image2015-7-17-10-3a0-3a32.png)
 
-1. Välj ett datum i kalendern och tryck på **Ändra schema**.
+1. Välj ett datum i kalendern och tryck på **[!UICONTROL Reschedule]**.
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 
@@ -93,11 +93,11 @@ Du kan dela ett exempel på en e-poststund direkt med någon.
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. Tryck **Skicka exempel**.
+1. Tryck på **[!UICONTROL Send Sample]**.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. Ange en e-postadress och klicka på **Skicka exempel**.
+1. Ange en e-postadress och klicka på **[!UICONTROL Send Sample]**.
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
@@ -105,17 +105,13 @@ Du kan dela ett exempel på en e-poststund direkt med någon.
 
 Högerklicka på ett e-postkort för att förhandsgranska det.
 
-1. Tryck **Förhandsgranska e-post**.
+1. Tryck på **[!UICONTROL Preview Email]**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
    På det här sättet vet du att e-postmeddelandet är perfekt innan du trycker på utlösaren!
 
    ![](assets/image2015-6-30-11-3a15-3a22.png)
-
-   Underbar!
-
-Och det är toppen med att visa era e-postkampanjer. Nu är du proffs!
 
 >[!MORELIKETHIS]
 >

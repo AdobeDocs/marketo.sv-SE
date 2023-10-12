@@ -4,9 +4,9 @@ description: Förstå händelsekort - Marketo Docs - produktdokumentation
 title: Om händelsekort
 exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,9 @@ När du trycker på ett e-postprogramkort kan du:
 * [Markera en händelse som klar](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
 * [Dela ett händelsekort](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
-Det finns två händelsekort. På-dekorkortet, som skickas några timmar före evenemanget, visar hur många personer som är registrerade. Resultatkortet, som skickas efteråt, visar hur många som faktiskt deltog.
+Det finns två händelsekort. The [!UICONTROL On-Deck] kort, som skickas några timmar före evenemanget, visar hur många personer som är registrerade. The [!UICONTROL Results] kort som skickas efteråt visar hur många som faktiskt deltog.
 
 ![](assets/image2015-7-15-16-3a56-3a16.png)
-
-Du är bra!
 
 >[!MORELIKETHIS]
 >

@@ -3,16 +3,16 @@ unique-page-id: 11386358
 description: Marketo Sandbox - Marketo Docs - produktdokumentation
 title: Marketo Sandbox
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
 
 # Marketo Sandbox {#marketo-sandbox}
 
-En Marketo-sandlåda är ytterligare en instans som används för testning innan implementering i produktionsmiljön.
+En Marketo Engage-sandlåda är ytterligare en instans som används för testning innan implementering i produktionsmiljön.
 
 >[!AVAILABILITY]
 >
@@ -38,4 +38,4 @@ Du kan skicka ett supportärende och begära en engångsinstanskopia för att fy
 
 >[!NOTE]
 >
->Om du ändrar ditt ursprungliga CRM-system behövs en ny Marketo-instans och det går inte att skapa en instanskopia till den nya Marketo-instansen. Kontakta Marketo Support och utforska i stället funktionerna i Importera program.
+>Om du ändrar ditt ursprungliga CRM-system behövs en ny Marketo-instans och det går inte att skapa en instanskopia till den nya Marketo-instansen. Kontakta Marketo Support och utforska i stället funktionerna för att importera program.

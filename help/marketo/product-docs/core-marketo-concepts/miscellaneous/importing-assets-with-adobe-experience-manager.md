@@ -3,9 +3,9 @@ unique-page-id: 37355768
 description: Importera resurser med Adobe Experience Manager - Marketo Docs - produktdokumentation
 title: Importera resurser med Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -26,11 +26,11 @@ Med resursväljaren kan Marketo-kunder komma åt, välja och importera AEM till 
 >
 >För närvarande stöds den här funktionen endast fullt ut i Firefox. Det stöds inte i Safari och kanske inte fungerar i den senaste versionen av Chrome, beroende på inställningarna för cookie-filen för samma plats.
 
-1. Klicka **Design Studio**.
+1. Klicka på **[!UICONTROL Design Studio]**.
 
    ![](assets/importing-assets-with-adobe-experience-manager-1.png)
 
-1. Klicka på listrutan Ny och välj **Importera från Adobe Experience Manager**.
+1. Klicka på listrutan Ny och välj **[!UICONTROL Import from Adobe Experience Manager]**.
 
    ![](assets/importing-assets-with-adobe-experience-manager-2.png)
 
@@ -42,7 +42,7 @@ Med resursväljaren kan Marketo-kunder komma åt, välja och importera AEM till 
 
    ![](assets/importing-assets-with-adobe-experience-manager-4.png)
 
-1. Välj mapp. Markera sedan bilderna genom att klicka på miniatyrbilden (du kan välja upp till 10). Klicka **Välj** när det är klart.
+1. Välj mapp. Markera sedan bilderna genom att klicka på miniatyrbilden (du kan välja upp till 10). Klicka **[!UICONTROL Select]** när det är klart.
 
    ![](assets/importing-assets-with-adobe-experience-manager-5.png)
 
@@ -50,17 +50,17 @@ Med resursväljaren kan Marketo-kunder komma åt, välja och importera AEM till 
    >
    >Bilderna får inte vara större än 100 MB.
 
-1. Klicka **Importera** för att slutföra processen.
+1. Klicka **[!UICONTROL Import]** för att slutföra processen.
 
    ![](assets/importing-assets-with-adobe-experience-manager-6.png)
 
-   Och det är allt! Klicka **Stäng** för att återgå till Design Studio.
+   Och det är allt! Klicka **[!UICONTROL Close]** för att återgå till Design Studio.
 
    ![](assets/importing-assets-with-adobe-experience-manager-7.png)
 
 ## Saker att notera {#things-to-note}
 
-* Marketo har för närvarande stöd för Adobe Experience Manager version 6.4 och 6.5.
+* Marketo stöder för närvarande Adobe Experience Manager version 6.4 och 6.5.
 
 * Alla användare i din instans kan visa och komma åt de bilder du importerar.
 

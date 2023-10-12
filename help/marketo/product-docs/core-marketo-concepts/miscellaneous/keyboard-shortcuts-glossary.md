@@ -3,9 +3,9 @@ unique-page-id: 1147318
 description: Ordlista för kortkommandon - Marketo Docs - produktdokumentation
 title: Ordlista för kortkommandon
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -14,29 +14,28 @@ ht-degree: 0%
 
 Är du en person med kortkommandon? Vi har det du behöver!
 
-## Områdesnavigering: {#area-navigation}
+## Områdesnavigering {#area-navigation}
 
-| Kortkommando | Yta |
+| Kortkommando | Område |
 |---|---|
 | Alt+A | Analyser |
-| Alt+C | Kalender |
+| Alt/Opt + C | Kalender |
 | Alt/Opt + D | Design Studio |
 | Alt+F | Global sökning |
 | Alt+L | Databas |
 | Alt+M | Marknadsföringsaktiviteter |
 | Opt + N | Administratör |
 | Opt + O | Mina Marketo |
-| Alt+S | Superball-meny |
 
-## Navigering för kalender-/schemavy:  {#calendar-schedule-view-navigation}
+## Navigering för kalender-/schemavy  {#calendar-schedule-view-navigation}
 
 | Kortkommando | Åtgärd |
 |---|---|
 | Alt+Uppåtpil | Gå tillbaka i tiden |
 | Alt+Nedåtpil | Flytta framåt i tid |
-| Alt+T | Gå till Idag |
+| Alt/Opt + T | Gå till Idag |
 
-## Övrigt: {#miscellaneous}
+## Diverse {#miscellaneous}
 
 | Kortkommando | Åtgärd |
 |---|---|

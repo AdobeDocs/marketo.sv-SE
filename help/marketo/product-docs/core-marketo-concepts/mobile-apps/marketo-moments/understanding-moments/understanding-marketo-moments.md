@@ -4,9 +4,9 @@ description: Understanding Marketo Moments - Marketo Docs - Product Documentatio
 title: Förstå Marketo Moments
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '612'
+source-wordcount: '592'
 ht-degree: 0%
 
 ---
@@ -33,10 +33,10 @@ Här är de olika strömmarna i ögonblicket.
 >
 >**Definition**
 >
->* Moment: Allt som precis har körts, eller är på väg att köras, hamnar här.
->* Favoriter: allt du gör till en favorit hamnar här.
->* Senare: Allt som sker senare än det här ögonblicket går in här.
->* Klart: Allt som har körts färdigt eller du har markerat som gjort hamnar här.
+>* [!UICONTROL Moments]: Allt som precis har gått, eller är på väg att springa, hamnar här.
+>* [!UICONTROL Favorites]: Allt du gör med en favorit hamnar här inne.
+>* [!UICONTROL Later]: Allt som sker senare än så här kommer in här.
+>* [!UICONTROL Done]: Allt som har körts färdigt eller du har markerat som gjort hamnar här.
 
 Okej, nu när vi har det ur vägen kan vi ta en titt på Marketo Moments på en telefon!
 
@@ -44,21 +44,21 @@ Okej, nu när vi har det ur vägen kan vi ta en titt på Marketo Moments på en 
 
 Marketo Moments ger dig tre olika kort som du kan använda för att följa ditt e-postmeddelande:
 
-**På disk** - Det här e-postmeddelandet är på väg att gå ut. Det är din sista chans att förhandsgranska, skicka ett prov eller till och med avbryta om du behöver det.
+**[!UICONTROL On-Deck]** - Det här e-postmeddelandet är på väg att gå ut. Det är din sista chans att förhandsgranska, skicka ett prov eller till och med avbryta om du behöver det.
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**Hjärtslag** - Hallå - det här mejlet skickas nu! Och här är statistik också. Dela med dig.
+**[!UICONTROL Heart-beat]** - Hallå - det här mejlet skickas nu! Och här är statistik också. Dela med dig.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**Resultat** - Så här gjorde e-postmeddelandet. När e-postmeddelandet har körts klart visas engagemangspoängen och annan status på resultatkortet.
+**[!UICONTROL Results]** - Så här gjorde e-postmeddelandet. När e-postmeddelandet har körts klart visas engagemangspoängen och annan status på resultatkortet.
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
 ## Momentström {#moments-stream}
 
-När du först öppnar appen eller trycker **Moment** på menyn visas relevanta kort först. Var och en innehåller information om det specifika marknadsföringsinitiativet och dess övergripande resultat.
+När du först öppnar appen eller trycker **[!UICONTROL Moments]** på menyn visas relevanta kort först. Var och en innehåller information om det specifika marknadsföringsinitiativet och dess övergripande resultat.
 
 ![](assets/image2015-7-15-10-3a46-3a19.png)
 
@@ -82,11 +82,11 @@ Bra! Nu kan du få något att hända genom att trycka på:
 >
 >**Definition**
 >
->* Favorit: Det är enkelt att vara uppmärksam på de saker som är snabbast och viktigast om du gör dem till favoriter.
->* Klart: Klart tar bort det från vyn Marketo Moments (men lämnar det i Marketo, säkert och ljudformat).
->* Dela: Skicka en bild för att motivera eller gratulera ditt team.
->* Skicka exempel (endast e-post): Använd det här alternativet om du vill att andra ska kunna se hur dina e-postmeddelanden ser ut innan du skickar ut dem.
->* Förhandsgranska e-post (endast e-post): Det är alltid en bra idé att checka ut dina e-postmeddelanden i förväg.
+>* [!UICONTROL Favorite]: Det är enkelt att lägga märke till de saker som kommer i rätt tid och som är viktigast om du gör dem till favoriter.
+>* [!UICONTROL Done]: Klart tar bort det från vyn Marketo Moments (men lämnar det i Marketo, säkert och ljudformat).
+>* [!UICONTROL Share]: Skicka en bild för att motivera eller gratulera ditt team.
+>* [!UICONTROL Send Sample] (Endast e-post): Använd detta om du vill att andra ska kunna se hur dina e-postmeddelanden ser ut innan du skickar ut dem.
+>* [!UICONTROL Preview Email] (Endast e-post): Det är alltid en bra idé att checka ut dina e-postmeddelanden i förväg.
 
 ## Senare stunder {#later-moments}
 
@@ -96,7 +96,7 @@ I avsnittet Senare visas kommande aktiviteter.
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
-1. Tryck **Senare**.
+1. Tryck på **[!UICONTROL Later]**.
 
    ![](assets/image2015-7-15-10-3a54-3a47.png)
 
@@ -134,16 +134,16 @@ Smarta kampanjkort är en enda kampanjserie. Ett nytt kort visas varje gång den
 
 ## Bekräfta eller avbryta en åtgärd {#confirm-or-cancel-an-action}
 
-Under alla steg på vägen kan du bekräfta eller avbryta en åtgärd. Om du ändrar dig, bara tryck **Aldrig sinna**.
+Under alla steg på vägen kan du bekräfta eller avbryta en åtgärd. Om du ändrar dig, bara tryck **[!UICONTROL Never Mind]**.
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
-## Versioner  {#supported-versions}
+## Versioner {#supported-versions}
 
 Marketo Moments har stöd för följande operativsystemversioner:
 
-* Apple iOS 8.0 och senare.
-* Android version 4.1 och senare (i stort sett Jellybean och up).
+* [!DNL Apple] iOS 8.0 och senare.
+* [!DNL Android] version 4.1 och senare (Jellybean and up).
 
 Vill du lära dig mer?
 

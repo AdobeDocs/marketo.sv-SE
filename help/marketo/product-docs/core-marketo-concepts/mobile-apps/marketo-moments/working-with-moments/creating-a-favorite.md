@@ -4,10 +4,10 @@ description: Skapa en favorit - Marketo Docs - produktdokumentation
 title: Skapa en favorit
 exl-id: 017ae477-02e2-42de-a1b0-1f9a215ef73b
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 1%
 
 ---
 
@@ -23,7 +23,7 @@ Favorit ett kort för enkel framtida referens.
 
    ![](assets/image2015-7-14-16-3a28-3a54.png)
 
-1. Tryck **Favorit**.
+1. Tryck på **[!UICONTROL Favorite]**.
 
    ![](assets/image2015-7-14-16-3a36-3a22.png)
 

@@ -4,9 +4,9 @@ description: Förbered dig för ditt event - Marketo Docs - produktdokumentation
 title: Förbered dig för ditt evenemang
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Det finns flera saker du måste göra för att göra dig redo för evenemanget.
 
 ## Skapa en ny Marketo-roll {#create-a-new-marketo-role}
 
-Marketo har en särskild användarroll för incheckningsappen för händelser. [Skapa en ny Marketo-roll](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) för iPad- eller Android-användare, med behörighet att komma åt mobilprogrammet.
+Marketo har en särskild användarroll för incheckningsappen för händelser. [Skapa en ny Marketo-roll](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) for [!DNL iPad] eller [!DNL Android] -användare, med behörighet att komma åt mobilprogrammet.
 
 ## Bjud in nya användare på surfplattan till evenemanget {#invite-new-tablet-users-to-the-event}
 
@@ -39,7 +39,7 @@ Det går snabbt att ställa in dina händelsedatum.
 
    ![](assets/image2016-4-6-15-3a27-3a35.png)
 
-1. Dra över för att ändra **Preliminärt** till **Bekräftat**.
+1. Dra över för att ändra **[!UICONTROL Tentative]** till **[!UICONTROL Confirmed]**.
 
    ![](assets/image2016-4-6-15-3a30-3a57.png)
 
@@ -49,29 +49,29 @@ Det går snabbt att ställa in dina händelsedatum.
 
 ## Lägg till personer i din aktivitet {#add-people-to-your-event}
 
-Nu när du vet *när*&#x200B;är det dags att lägga till *som*.
+Nu när du vet _när_&#x200B;är det dags att lägga till *som*.
 
-1. Om du redan har en lista över personer klickar du på **Databas** platta.
+1. Om du redan har en lista över personer klickar du på **[!UICONTROL Database]** platta.
 
    ![](assets/db.png)
 
-1. Välj en lista med personer och klicka på **Folk** -fliken.
+1. Välj en lista med personer och klicka på **[!UICONTROL People]** -fliken.
 
    ![](assets/four.png)
 
-1. Välj personer för din aktivitet i listan. Använd **Ctrl** (eller **Kommando** på en Mac) för att klicka på flera personer, eller **Markera alla** för att markera alla.
+1. Välj personer för din aktivitet i listan. Använd **[!UICONTROL Ctrl]** (eller **[!UICONTROL Command]** på en Mac) för att klicka på flera personer, eller **[!UICONTROL Select All]** för att markera alla.
 
    ![](assets/five.png)
 
-1. Klicka **Personåtgärder**, hovra över **Program** och markera **Ändra programstatus**.
+1. Klicka **[!UICONTROL Person Actions]**, hovra över **[!UICONTROL Programs]** och markera **[!UICONTROL Change Program Status]**.
 
    ![](assets/six.png)
 
-1. Klicka på **Program** nedrullningsbar lista och välj aktiviteten.
+1. Klicka på **[!UICONTROL Program]** nedrullningsbar lista och välj aktiviteten.
 
    ![](assets/seven.png)
 
-1. Klicka på **Ny status** nedrullningsbar meny och välj **Roadshow > Registered**. Klicka **Kör nu**.
+1. Klicka på **[!UICONTROL New Status]** nedrullningsbar meny och välj **[!UICONTROL Roadshow]>[!UICONTROL Registered]**. Klicka på **[!UICONTROL Run Now]**.
 
    ![](assets/eight.png)
 

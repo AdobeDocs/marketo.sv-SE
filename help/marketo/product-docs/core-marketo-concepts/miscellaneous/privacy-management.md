@@ -2,9 +2,9 @@
 description: Integritetshantering - Marketo Docs - produktdokumentation
 title: Integritetshantering
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
-source-git-commit: 5aa75cc35ef8d39983563ab34b075ae580f9a97b
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
@@ -23,16 +23,15 @@ Marketo Engage har en uppsättning verktyg som hjälper dig att följa sekretess
 >
 >* Marketo Engage-användare som använder en annan Experience Cloud-produkt som redan finns i Adobe Identity Management System (t.ex. RT-CDP, B2B och B2P Editions, Audience Manager).
 
-
 ## Bestämmelser om integritetshantering {#regulations-on-privacy-management}
 
-Marketo Engage kan hjälpa er att följa följande regler:
+Marketo Engage hjälper dig att följa följande regler:
 
-* **GDPR** [Allmän dataskyddsförordning](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-does-general-data-protection-regulation-gdpr-govern_en) är EU:s integritetslagstiftning (EU) som harmoniserar och moderniserar dataskyddskraven för EU-länder.
-* **CCPA** [California Consumer Privacy Act](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&amp;division=3.&amp;title=1.81.5.&amp;part=4.&amp;kapitel=&amp;artikel=) ger personer bosatta i Kalifornien rätt till sina personuppgifter och ålägger dataskyddsansvar för vissa enheter som bedriver verksamhet i Kalifornien.
-* **PDPA** [Personal Data Protection Act](https://secureprivacy.ai/thailand-pdpa-summary-what-businesses-need-to-know/) Det är integritetslagstiftningen som harmoniserar och moderniserar dataskyddskraven för Thailand.
-* **LGPD** [Lei Geral de Proteção de Dados](https://iapp.org/media/pdf/resource_center/Brazilian_General_Data_Protection_Law.pdf) från och med början av 2021 för alla företag som samlar in eller behandlar personuppgifter i Brasilien.
-* **NZPA** [Integritetslag 2020](https://www.privacy.org.nz/privacy-act-2020/privacy-act-2020/) är den integritetslagstiftning som harmoniserar och moderniserar dataskyddskraven för Nya Zeeland.
+* **[!DNL GDPR]** [Allmän dataskyddsförordning](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-does-general-data-protection-regulation-gdpr-govern_en) Det är EU:s (EU) integritetslagstiftning som harmoniserar och moderniserar dataskyddskraven för EU-länder.
+* **[!DNL CCPA]** [California Consumer Privacy Act](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&amp;division=3.&amp;title=1.81.5.&amp;part=4.&amp;kapitel=&amp;artikel=) ger personer bosatta i Kalifornien rätt till sina personuppgifter och ålägger dataskyddsansvar för vissa enheter som bedriver verksamhet i Kalifornien.
+* **[!DNL PDPA]** [Personal Data Protection Act](https://secureprivacy.ai/thailand-pdpa-summary-what-businesses-need-to-know/) Det är integritetslagstiftningen som harmoniserar och moderniserar dataskyddskraven för Thailand.
+* **[!DNL LGPD]** [Lei Geral de Proteção de Dados](https://iapp.org/media/pdf/resource_center/Brazilian_General_Data_Protection_Law.pdf) från och med början av 2021 för alla företag som samlar in eller behandlar personuppgifter i Brasilien.
+* **[!DNL NZPA]** [Integritetslag 2020](https://www.privacy.org.nz/privacy-act-2020/privacy-act-2020/) är den integritetslagstiftning som harmoniserar och moderniserar dataskyddskraven för Nya Zeeland.
 
 Alla de ovannämnda förordningarna gäller för Marketo Engage-kunder som innehar uppgifter för registrerade personer som bor i de respektive regionerna eller länderna ovan (EU, Kalifornien, Thailand, Brasilien, Nya Zeeland).
 

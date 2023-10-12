@@ -1,30 +1,30 @@
 ---
 unique-page-id: 4720779
 description: Förstå mappar - Marketo Docs - produktdokumentation
-title: Om mappar
+title: Förstå mappar
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
 
-# Om mappar {#understanding-folders}
+# Förstå mappar {#understanding-folders}
 
 Mappar i ett program kan användas för att ordna smarta kampanjer och resurser. Dessa skiljer sig från [kampanjmappar](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
 
 ## Skapa en mapp {#create-a-folder}
 
-1. Gå till **Marknadsföringsaktiviteter** område.
+1. Gå till **[!UICONTROL Marketing Activities]** område.
 
    ![](assets/ma.png)
 
-1. Högerklicka på ett program och välj **Ny mapp**.
+1. Högerklicka på ett program och välj **[!UICONTROL New Folder]**.
 
    ![](assets/image2015-4-20-18-3a45-3a14.png)
 
-1. Namnge den nya mappen och tryck på **Retur**.
+1. Namnge den nya mappen och tryck på **[!UICONTROL Enter]**.
 
    ![](assets/image2015-4-20-18-3a46-3a57.png)
 
@@ -34,15 +34,13 @@ Bra! Nu har du en ny mapp där du kan lagra lokala resurser.
 
 Det är okej att ändra sig.
 
-1. Högerklicka på mappen och välj **Byt namn på mapp**.
+1. Högerklicka på mappen och välj **[!UICONTROL Rename Folder]**.
 
    ![](assets/image2015-4-20-18-3a49-3a10.png)
 
-1. Skriv ett nytt namn och tryck på **Retur**.
+1. Skriv ett nytt namn och tryck på **[!UICONTROL Enter]**.
 
    ![](assets/image2015-4-20-18-3a52-3a30.png)
-
-   Ät Volia! Mappen har ett nytt namn.
 
 ## Ta bort en mapp {#delete-a-folder}
 
@@ -50,11 +48,9 @@ Det är okej att ändra sig.
 >
 >Kontrollera att mappen är tom innan du tar bort den.
 
-1. Högerklicka på mappen och välj **Ta bort mapp**.
+1. Högerklicka på mappen och välj **[!UICONTROL Delete Folder]**.
 
    ![](assets/image2015-4-20-18-3a55-3a51.png)
-
-   Adios-mappen!
 
 ## Arkivera en mapp {#archive-a-folder}
 

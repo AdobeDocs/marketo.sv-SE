@@ -4,9 +4,9 @@ description: Dela ett ögonblick - Marketo Docs - produktdokumentation
 title: Dela en stund
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Vill du ge en uppdatering till ditt team? Du har två alternativ för att välja
 >
 >Den 2 oktober 2023 tog Adobe bort appen Marketo Moments från alla appbutiker. Om appen redan är installerad på din surfplatta/mobila enhet kan du fortsätta använda den tills vidare. När din Marketo Engage-instans har migrerats till Adobe Identity för autentisering av Marketo, kommer du inte längre att kunna komma åt appen. [Läs mer](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
-1. Tryck på **Dela** på kortet.
+1. Tryck på **[!UICONTROL Share]** på kortet.
 
    ![](assets/image2015-6-30-15-3a13-3a13.png)
 
-1. Tryck på kortmenyn och tryck på **Dela** på skärmen Information.
+1. Tryck på kortmenyn och tryck på **[!UICONTROL Share]** på skärmen Information.
 
    ![](assets/image2015-7-15-9-3a0-3a35.png)
 
@@ -37,8 +37,6 @@ Vill du ge en uppdatering till ditt team? Du har två alternativ för att välja
 
    ![](assets/image2015-7-14-16-3a11-3a42.png)
 
-1. Ange mottagarens adress, ämne och tryck **Skicka**.
+1. Ange mottagarens adress, ämne och tryck **[!UICONTROL Send]**.
 
    ![](assets/image2015-7-14-16-3a18-3a16.png)
-
-   Snyggt jobb!
