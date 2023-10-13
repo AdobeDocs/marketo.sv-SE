@@ -4,9 +4,9 @@ description: Navigera i programschemavy - Marketo Docs - produktdokumentation
 title: Navigera i programschemavy
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Här är grunderna som hjälper dig att navigera i programschemavyn.
 
-## Hitta schemavy {#find-the-schedule-view}
+## Hitta schemaläggningsvyn {#find-the-schedule-view}
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Välj program. Klicka på **Visa** nedrullningsbar meny. Välj **Schema**.
+1. Välj program. Klicka på **[!UICONTROL View]** nedrullningsbar meny. Välj **[!UICONTROL Schedule]**.
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -51,7 +51,7 @@ Här är grunderna som hjälper dig att navigera i programschemavyn.
 
 ## Ändra mellan lägen {#changing-between-modes}
 
-1. Klicka på **3 veckor** eller **Månad** kommer att ändra de synliga datumen på skärmen.
+1. Klicka på **[!UICONTROL 3 Weeks]** eller **[!UICONTROL Month]** kommer att ändra de synliga datumen på skärmen.
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 
@@ -65,4 +65,4 @@ Bra! Nu när du vet hur man visar programmet kan vi lära oss andra coola saker 
 
 >[!MORELIKETHIS]
 >
->[Skapa ett inlägg i programschemavy](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md)
+>[Skapa ett inlägg i programschemavy](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md){target="_blank"}

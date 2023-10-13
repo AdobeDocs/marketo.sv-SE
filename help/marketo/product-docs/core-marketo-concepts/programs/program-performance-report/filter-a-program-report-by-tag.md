@@ -4,26 +4,26 @@ description: Filtrera en programrapport efter tagg - Marketo Docs - produktdokum
 title: Filtrera en programrapport efter tagg
 exl-id: 6517cceb-c809-487a-a40f-2b24f3f3510e
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 1%
+source-wordcount: '80'
+ht-degree: 2%
 
 ---
 
 # Filtrera en programrapport efter tagg {#filter-a-program-report-by-tag}
 
-Fokusera på [rapport om programprestanda](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) på specifika [taggar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md).
+Fokusera på [rapport om programprestanda](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) på specifika [taggar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md){target="_blank"}.
 
-1. Gå till **Marknadsföring** **Verksamhet** (eller **Analyser**).
+1. Gå till **[!UICONTROL Marketing Activities]** (eller **[!UICONTROL Analytics]**).
 
    ![](assets/login-marketing-activities.png)
 
-1. Välj **Programprestanda** rapport.
+1. Välj **[!UICONTROL Program Performance]** rapport.
 
    ![](assets/image2014-9-23-16-3a12-3a36.png)
 
-1. Klicka på **Inställningar** och dra över en av **Taggar** filter.
+1. Klicka på **[!UICONTROL Setup]** och dra över en av **[!UICONTROL Tags]** filter.
 
    ![](assets/prospects.jpg)
 
@@ -31,14 +31,14 @@ Fokusera på [rapport om programprestanda](/help/marketo/product-docs/core-marke
 
    ![](assets/prospect1.jpg)
 
-1. Klicka **Använd**.
+1. Klicka på **[!UICONTROL Apply]**.
 
    ![](assets/prospect2.jpg)
 
-1. Klar! Klicka på **Rapport** flik att se _just_ de program som matchar de markerade taggarna i rapporten.
+1. Klar! Klicka på **[!UICONTROL Report]** flik att se _just_ de program som matchar de markerade taggarna i rapporten.
 
    ![](assets/image2014-9-23-16-3a14-3a42.png)
 
-   >[!NOTE]
-   >
-   >[Filtrera en programrapport efter periodkostnad](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
+>[!NOTE]
+>
+>[Filtrera en programrapport efter periodkostnad](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md){target="_blank"}

@@ -4,9 +4,9 @@ description: Dölja och ta bort anpassade posttyper - Marketo Docs - produktdoku
 title: Dölja och dölja anpassade posttyper
 exl-id: 3e41b47d-86dd-4fb3-ab87-0be0b534fc0a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Anpassade posttyper kan döljas i administratörsavsnittet. När posten är dold
 
 ## Dölj en anpassad posttyp {#hide-a-custom-entry-type}
 
-1. Gå till **Administratör** och klicka **Kalenderpost** **Typer**.
+1. Gå till **[!UICONTROL Admin]** och klicka **[!UICONTROL Calendar Entry Types]**.
 
    ![](assets/image2014-9-24-10-3a11-3a49.png)
 
-1. Högerklicka på den anpassade posten och klicka **Dölj**.
+1. Högerklicka på den anpassade posten och klicka på **[!UICONTROL Hide]**.
 
    ![](assets/image2014-9-24-10-3a11-3a54.png)
 
@@ -31,7 +31,7 @@ Anpassade posttyper kan döljas i administratörsavsnittet. När posten är dold
 
 Om du vill visa en anpassad posttyp är det också enkelt.
 
-1. Högerklicka på inlägget och välj **Visa**.
+1. Högerklicka på inlägget och välj **[!UICONTROL Unhide]**.
 
    ![](assets/image2014-9-24-10-3a12-3a14.png)
 

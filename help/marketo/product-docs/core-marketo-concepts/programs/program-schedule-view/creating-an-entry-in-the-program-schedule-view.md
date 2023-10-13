@@ -4,9 +4,9 @@ description: Skapa ett bidrag i programschemavy - Marketo Docs - produktdokument
 title: Skapa ett inlägg i programschemavy
 exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Du kan skapa poster i programschemavyn för att komplettera ett befintligt progr
 
 ## Skapa en grundläggande post {#create-a-basic-entry}
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Välj program. Klicka på **Visa** nedrullningsbar meny. Välj **Schema**.
+1. Välj program. Klicka på **[!UICONTROL View]** nedrullningsbar meny. Välj **[!UICONTROL Schedule]**.
 
    ![](assets/image2014-9-16-9-3a22-3a7.png)
 
@@ -29,7 +29,7 @@ Du kan skapa poster i programschemavyn för att komplettera ett befintligt progr
 
    ![](assets/image2014-9-16-9-3a22-3a33.png)
 
-1. Namnge posten. Tryck **Retur** för att bekräfta namnet.
+1. Namnge posten. Tryck **[!UICONTROL Enter]** för att bekräfta namnet.
 
    ![](assets/image2014-9-16-9-3a22-3a59.png)
 
@@ -41,7 +41,7 @@ Du kan skapa poster i programschemavyn för att komplettera ett befintligt progr
 
    ![](assets/image2014-9-16-9-3a25-3a23.png)
 
-1. Ange beskrivningen och klicka på **Spara**.
+1. Ange din beskrivning och klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-16-9-3a25-3a39.png)
 
@@ -51,15 +51,15 @@ Du kan skapa poster i programschemavyn för att komplettera ett befintligt progr
 
 ## Ändra posttyp {#change-entry-type}
 
-1. Välj en grundläggande post på menyn **Dagordning** vy.
+1. Välj en grundläggande post på menyn **[!UICONTROL Agenda]** vy.
 
    ![](assets/image2014-9-16-9-3a26-3a5.png)
 
-1. Välj **Typ** nedrullningsbar meny. Välj en ny posttyp.
+1. Välj **[!UICONTROL Type]** nedrullningsbar meny. Välj en ny posttyp.
 
    >[!NOTE]
    >
-   >Att göra är en [anpassad post](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md). Du kan göra en att göra-uppgift och andra anpassade poster för att hålla reda på saker som inte finns i Marketo dagordning.
+   >Att göra är en [anpassad post](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md){target="_blank"}. Du kan göra en att göra-uppgift och andra anpassade poster för att hålla reda på saker som inte finns i Marketo dagordning.
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
@@ -69,4 +69,4 @@ Du kan skapa poster i programschemavyn för att komplettera ett befintligt progr
 
 >[!NOTE]
 >
-> Du kan också skapa en [smart kampanj](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md) eller [e-postprogram](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md) från schemavyn.
+> Du kan också skapa en [smart kampanj](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md){target="_blank"} or [email program](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md){target="_blank"} från schemavyn.

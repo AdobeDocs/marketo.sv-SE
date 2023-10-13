@@ -4,9 +4,9 @@ description: Anpassade fälttoken för programmedlem - Marketo Docs - produktdok
 title: Anpassade fälttoken för programmedlem
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Medlemstoken används för fält som omfattas av programmedlemmens tillämpnings
 >[!NOTE]
 >
 >* Anpassade fält för programmedlemmar kan bara användas i ett program.
->* Det går inte att använda token för anpassade fält för programmedlemmar i: e-postförhuvud, datumtoken i väntesteg eller kodfragment.
+>* Det går inte att använda token för anpassade fält för programmedlemmar i: e-postförrubrik, datumtoken i väntesteg eller kodfragment.
 >* Programmedlemmens status stöds inte i medlemstoken.
 
 ## Använda token för anpassade fält för programmedlemmar i resurser {#using-program-member-custom-field-tokens-in-assets}
@@ -33,7 +33,7 @@ Du kan infoga token för anpassade fält för programmedlemmar i e-postmeddeland
 
 **E-post**
 
-1. Välj önskad e-postadress och klicka på **Redigera utkast**.
+1. Välj önskad e-postadress och klicka på **[!UICONTROL Edit Draft]**.
 
    ![](assets/program-member-custom-field-tokens-1.png)
 
@@ -41,11 +41,11 @@ Du kan infoga token för anpassade fält för programmedlemmar i e-postmeddeland
 
    ![](assets/program-member-custom-field-tokens-2.png)
 
-1. Sök efter och välj önskad token för anpassat fält för programmedlem, ange ett standardvärde och klicka på **Infoga**.
+1. Sök efter och välj önskad token för anpassat fält för programmedlem, ange ett standardvärde och klicka på **[!UICONTROL Insert]**.
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
-1. Klicka **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/program-member-custom-field-tokens-4.png)
 
@@ -55,7 +55,7 @@ Du kan infoga token för anpassade fält för programmedlemmar i e-postmeddeland
 
 **Landningssidor**
 
-1. Välj landningssida och klicka på **Redigera utkast**.
+1. Välj landningssida och klicka på **[!UICONTROL Edit Draft]**.
 
    ![](assets/program-member-custom-field-tokens-5.png)
 
@@ -75,17 +75,17 @@ Du kan infoga token för anpassade fält för programmedlemmar i e-postmeddeland
 
    ![](assets/program-member-custom-field-tokens-8.png)
 
-1. Ange ett standardvärde och klicka på **Infoga**.
+1. Ange ett standardvärde och klicka på **[!UICONTROL Insert]**.
 
    ![](assets/program-member-custom-field-tokens-9.png)
 
-1. Klicka **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/program-member-custom-field-tokens-10.png)
 
 **SMS**
 
-1. Välj önskat SMS och klicka på **Redigera utkast**.
+1. Välj önskat SMS och klicka **[!UICONTROL Edit Draft]**.
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
@@ -97,17 +97,17 @@ Du kan infoga token för anpassade fält för programmedlemmar i e-postmeddeland
 
    ![](assets/program-member-custom-field-tokens-13.png)
 
-1. Klicka på listrutan SMS-åtgärder och välj **Godkänn och stäng**.
+1. Klicka på listrutan SMS-åtgärder och välj **[!UICONTROL Approve & Close]**.
 
    ![](assets/program-member-custom-field-tokens-14.png)
 
 **Push-meddelanden**
 
-1. Välj önskat push-meddelande och klicka på **Redigera utkast**.
+1. Välj önskat push-meddelande och klicka på **[!UICONTROL Edit Draft]**.
 
    ![](assets/program-member-custom-field-tokens-15.png)
 
-1. Klicka **Push-meddelande**.
+1. Klicka på **[!UICONTROL Push Notification]**.
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
@@ -115,11 +115,11 @@ Du kan infoga token för anpassade fält för programmedlemmar i e-postmeddeland
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
-1. Sök efter och välj önskad token för anpassat fält för programmedlem. Ange ett standardvärde och klicka på **Infoga**.
+1. Sök efter och välj önskad token för anpassat fält för programmedlem. Ange ett standardvärde och klicka på **[!UICONTROL Insert]**.
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. Klicka **Slutför** för att spara och avsluta (eller **Nästa** att först granska).
+1. Klicka **[!UICONTROL Finish]** för att spara och avsluta (eller **[!UICONTROL Next]** att först granska).
 
    ![](assets/program-member-custom-field-tokens-19.png)
 

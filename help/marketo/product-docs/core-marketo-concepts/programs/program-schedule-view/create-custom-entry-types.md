@@ -4,10 +4,10 @@ description: Skapa anpassade anmälningstyper - Marketo Docs - produktdokumentat
 title: Skapa anpassade posttyper
 exl-id: 75a0fb0d-a0d4-472d-9ac1-53e2f2831221
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 0%
+source-wordcount: '94'
+ht-degree: 2%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Du kan skapa anpassade anmälningstyper som ska användas i programschemavy. På så sätt kan du hålla reda på alla punkter på dagordningen som inte kommer från Marketo och som påverkar programmet.
 
-1. Gå till **Administratör** och klicka **Taggar**.
+1. Gå till **[!UICONTROL Admin]** och klicka **[!UICONTROL Tags]**.
 
    ![](assets/admintags.png)
 
-1. Klicka **Typ av kalenderpost**.
+1. Klicka på **[!UICONTROL Calendar Entry Type]**.
 
    ![](assets/image2014-9-15-15-3a41-3a33.png)
 
-1. Klicka på **Nytt** nedrullningsbar meny och välj **Posttyp**.
+1. Klicka på **[!UICONTROL New]** nedrullningsbar meny och välj **[!UICONTROL Entry Type]**.
 
    ![](assets/image2014-9-15-15-3a41-3a58.png)
 
@@ -31,11 +31,11 @@ Du kan skapa anpassade anmälningstyper som ska användas i programschemavy. På
 
    ![](assets/image2014-9-15-16-3a11-3a24.png)
 
-1. Välj en **Postfärg**.
+1. Välj en **[!UICONTROL Entry Color]**.
 
    ![](assets/image2014-9-15-16-3a3-3a55.png)
 
-1. Klicka **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-16-3a4-3a14.png)
 

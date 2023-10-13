@@ -4,9 +4,9 @@ description: Schemalägga om ett helt program från schemaläggningsvyn - Market
 title: Schemalägga om ett helt program från schemaläggningsvyn
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ När du klonar ett program eller en händelse med datum, vill du troligtvis sche
 
    ![](assets/image2014-9-23-15-3a15-3a18.png)
 
-1. Välj listrutan Händelseåtgärd. Välj **Schemalägg om transaktioner**.
+1. Välj listrutan Händelseåtgärd. Välj **[!UICONTROL Reschedule Entries]**.
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
-1. Markera en ankarpunktspost. Baserat på den här flytten flyttas alla andra poster tillsammans med den.
+1. Markera en ankarpunkt. Baserat på den här flytten flyttas alla andra poster tillsammans med den.
 
    ![](assets/image2014-9-23-15-3a18-3a23.png)
 
@@ -31,7 +31,7 @@ När du klonar ett program eller en händelse med datum, vill du troligtvis sche
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 
-1. Klicka **Schemalägg om**.
+1. Klicka på **[!UICONTROL Reschedule]**.
 
    ![](assets/image2014-9-23-15-3a18-3a54.png)
 

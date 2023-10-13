@@ -4,7 +4,7 @@ description: Förstå mina token i ett program - Marketo Docs - produktdokumenta
 title: Förstå mina token i ett program
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 En variabel är en variabel som du kan använda i e-postmeddelanden, landningssidor och smarta kampanjer för att göra livet enklare.
 
-Förutom Mina token kan du även använda alla inbyggda tokens i dina program. Kolla in [Översikt över token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md).
+Förutom Mina token kan du även använda alla inbyggda tokens i dina program. Kolla in [Översikt över token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
 ## Mina token  {#my-tokens}
 
-Mina token är anpassade variabler som alla kan skapa. De är [skapad](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) i antingen kampanjmappar eller program.
+Mina token är anpassade variabler som alla kan skapa. De är [skapad](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} i antingen kampanjmappar eller program.
 
 Mina token visas så här: `{{my.Name Of Token}}`
 
@@ -45,7 +45,7 @@ Exempel:
    <td>Denna token innehåller ett datumvärde. Datumet visas som årsdag (t.ex. 2016-05-23).</td> 
   </tr> 
   <tr> 
-   <td>E-postskript <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
+   <td>E-postmeddelande <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
    <td>Använd denna token för att köra ett Velocity-skript i dina e-postmeddelanden. Läs mer <a href="https://developers.marketo.com/documentation/email-scripting/" title="Följ länk" rel="nofollow">här</a>. </td> 
   </tr> 
   <tr> 
@@ -73,7 +73,7 @@ Exempel:
 
 >[!CAUTION]
 >
->Mina token kommer inte att lösas när du skickar ett e-postmeddelande från Sales Insight på antingen Microsoft Dynamics eller Salesforce. endast standardtokens fylls i (Lead, Company, etc.). Standardvärden för variabler _kommer_ arbete.
+>Mina token kommer inte att matchas när du skickar ett e-postmeddelande från Sales Insight på antingen Microsoft Dynamics eller Salesforce. Endast standardtokens fylls i (Lead, Company osv.). Standardvärden för variabler _kommer_ arbete.
 
 ## Kapslade token {#nesting-tokens}
 
@@ -93,5 +93,5 @@ När du flyttar program och mappar påverkas även tokens. Kontrollera alltid f�
 
 >[!MORELIKETHIS]
 >
->* [Översikt över token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
->* [Hantera mina token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
+>* [Översikt över token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}
+>* [Hantera mina token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}

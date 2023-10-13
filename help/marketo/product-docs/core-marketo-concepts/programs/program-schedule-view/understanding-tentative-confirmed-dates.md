@@ -4,16 +4,16 @@ description: Introduktion till preliminära/bekräftade datum - Marketo Docs - p
 title: Förstå preliminära/bekräftade datum
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
 
 # Förstå preliminära/bekräftade datum {#understanding-tentative-confirmed-dates}
 
-Smarta kampanjer och e-postprogram har en kraftfull funktion som markeras som **Preliminärt** eller **Bekräftat**. Så här fungerar de.
+Smarta kampanjer och e-postprogram har en kraftfull funktion som kan markeras som **[!UICONTROL Tentative]** eller **[!UICONTROL Confirmed]**. Så här fungerar de.
 
 ## Preliminärt {#tentative}
 
@@ -23,7 +23,7 @@ Preliminära datum förmedlar avsikter. Tänk på det här som _penciling_ någo
 
 >[!NOTE]
 >
->Endast smarta gruppkampanjer och e-postprogram kan vara försiktiga.
+>Det är bara smarta gruppkampanjer och e-postprogram som kan vara preliminära.
 
 ## Bekräfta transaktioner {#confirming-entries}
 
@@ -47,8 +47,8 @@ Bekräftade poster kommer definitivt att köras. De har regler, godkända tillg�
 
 ## Slutförd  {#finished}
 
-Slutförda poster har redan körts. De kan bara finnas i det förflutna (uppenbarligen). När en post har körts och är **Slutförd** kan du inte flytta den eller göra den preliminärt. (Ingen föränderlig verklighet och störande av kontinuiteten i tidsströmmen.)
+Slutförda poster har redan körts. De kan bara finnas i det förflutna (uppenbarligen). När en post har körts och är **[!UICONTROL Finished]** kan du inte flytta den eller göra den preliminärt. (Ingen föränderlig verklighet och störande av kontinuiteten i tidsströmmen.)
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 
-Dessa lägen är kraftfulla verktyg. När du klonar ett program kommer alla smarta kampanj- och e-postprogramdatum att vara preliminära. De kan alla bekräftas direkt från schemavyn. Lugna dig, eller hur?
+De här lägena är kraftfulla verktyg. När du klonar ett program kommer alla smarta kampanj- och e-postprogramdatum att vara preliminära. De kan alla bekräftas direkt från schemavyn. Lugna dig, eller hur?

@@ -4,9 +4,9 @@ description: Skapa anpassade övertäckningar i programschemavy - Marketo Docs -
 title: Skapa anpassade övertäckningar i programschemavy
 exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Du kan skapa anpassade övertäckningar för att visa poster som är relevanta för dina behov.
 
-1. Klicka på **Dagordning** nedrullningsbar meny.
+1. Klicka på **[!UICONTROL Agenda]** nedrullningsbar meny.
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 
-1. Välj **Övertäckningar**.
+1. Välj **[!UICONTROL Overlays]**.
 
    ![](assets/image2014-9-24-10-3a20-3a17.png)
 
@@ -27,7 +27,7 @@ Du kan skapa anpassade övertäckningar för att visa poster som är relevanta f
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. Du kan också filtrera efter [programtaggar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md).
+1. Du kan också filtrera efter [programtaggar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md){target="_blank"}.
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 

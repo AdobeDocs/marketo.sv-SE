@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2953331
 description: Kör en smart kampanj igen i programschemavy - Marketo Docs - produktdokumentation
-title: Kör en smart kampanj igen i programschemavy
+title: Kör en smart kampanj igen i programschemavyn
 exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
 feature: Programs, Smart Campaigns
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-# Kör en smart kampanj igen i programschemavy {#rerun-a-smart-campaign-in-the-program-schedule-view}
+# Kör en smart kampanj igen i programschemavyn {#rerun-a-smart-campaign-in-the-program-schedule-view}
 
-Du kan enkelt skapa nya körningar av en befintlig smart kampanj direkt från programschemavyn.
+Du kan enkelt skapa nya körningar av en befintlig Smart Campaign direkt från programschemavyn.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -27,7 +27,7 @@ Du kan enkelt skapa nya körningar av en befintlig smart kampanj direkt från pr
 
    ![](assets/image2015-4-16-14-3a42-3a0.png)
 
-1. Välj listrutan för typ av menyalternativ och välj den smarta kampanj som du vill köra igen.
+1. Välj listrutan för typ av menyalternativ och välj Smart Campaign som du vill köra igen.
 
    ![](assets/image2015-4-16-15-3a26-3a33.png)
 
@@ -35,4 +35,4 @@ Du kan enkelt skapa nya körningar av en befintlig smart kampanj direkt från pr
    >
    >Du kan också göra det här via [programfokus](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
 
-Boom! På samma sätt har du schemalagt en ny körning för den smarta kampanjen. Om den smarta kampanjen innehöll e-poststeg för att skicka dem ser du även dem!
+Boom! På samma sätt har du schemalagt en ny körning för den smarta kampanjen. Om Smart Campaign innehöll e-poststeg för att skicka dem ser du även dem!
