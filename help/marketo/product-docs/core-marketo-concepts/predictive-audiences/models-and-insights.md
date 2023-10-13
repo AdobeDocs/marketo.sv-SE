@@ -3,7 +3,7 @@ description: Modeller och insikter - Marketo Docs - produktdokumentation
 title: Modeller och insikter
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 feature: Predictive Audiences
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -20,12 +20,12 @@ Modellernas prestanda beror på kvaliteten och fullständigheten hos indata. Se 
 
 Så här bedömer du modellens hälsa.
 
-Navigera till **[!UICONTROL Models and Data Health]** avsnitt under **[!UICONTROL Predictive Audiences]** i **[!UICONTROL Admin]** Marketo Engage. Här ser du alla dina modeller och deras status.
+Navigera till **[!UICONTROL Models and Data Health]** avsnitt under **[!UICONTROL Predictive Audiences]** i **[!UICONTROL Admin]** området Marketo Engage. Här ser du alla dina modeller och deras status.
 
 ![Bild ett](assets/models-and-insights-1.png)
 
-* **Utbildningsstatus**: Anger om din modell aktivt tränar (förbättrar prognoser). Kursen sker automatiskt varannan vecka. Alla modeller som _Bearbetar_ kan ta upp till 24 timmar att slutföra. För alla _Misslyckades_ modeller, kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
-* **Bedömningsstatus**: Anger om din modell aktivt beräknar prognoser (sannolikhetsprocent) för programmedlemmar.
+* **Utbildningsstatus**: Anger om din modell aktivt tränar (förbättrar prognoser). Kursen sker automatiskt varannan vecka. Alla modeller som _Bearbetar_ kan ta upp till 24 timmar att slutföra. För alla _Misslyckades_ modeller, kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+* **Värderingsstatus**: Anger om din modell aktivt beräknar prognoser (sannolikhetsprocent) för programmedlemmar.
 * **Prestanda**: Kategorisering av din modellhälsa baserat på datainsamling och datakvalitet (se nedan).
 * **Datakompatibilitet**: Procentandel av dataattribut som finns/är fullständiga.
 * **Datakvalitet**: Procentandel av attribut som innehåller bra, användbara data.

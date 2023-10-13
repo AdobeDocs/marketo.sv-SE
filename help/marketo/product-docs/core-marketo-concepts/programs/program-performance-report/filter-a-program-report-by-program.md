@@ -4,18 +4,18 @@ description: Filtrera en programrapport efter program - Marketo Docs - produktdo
 title: Filtrera en programrapport per program
 exl-id: 8be2ac9e-7331-4a0d-80d6-ea2e82215919
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
 # Filtrera en programrapport per program {#filter-a-program-report-by-program}
 
-Fokusera på [rapport om programprestanda](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) om specifika program för att jämföra deras resultat.
+Fokusera på [rapport om programprestanda](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} om specifika program för att jämföra deras resultat.
 
-1. Gå till **Marknadsföring** **Verksamhet** (eller **Analyser**).
+1. Gå till **[!UICONTROL Marketing Activities]** (eller **[!UICONTROL Analytics]**).
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ Fokusera på [rapport om programprestanda](/help/marketo/product-docs/core-marke
 
    ![](assets/image2014-9-23-16-3a4-3a4.png)
 
-1. Klicka på **Inställningar** tabb och dra över **Program**.
+1. Klicka på **[!UICONTROL Setup]** tabb och dra över **[!UICONTROL Programs]**.
 
    ![](assets/prospect3.jpg)
 
@@ -35,10 +35,10 @@ Fokusera på [rapport om programprestanda](/help/marketo/product-docs/core-marke
    >
    >Om du väljer en mapp innehåller rapporten allt som finns i mappen när rapporten körs.
 
-1. Det är allt! Klicka på **Rapport** flik att se _just_ de valda programmen i din rapport.
+1. Det är allt! Klicka på **[!UICONTROL Report]** flik att se _just_ de valda programmen i din rapport.
 
    ![](assets/image2014-9-23-16-3a5-3a41.png)
 
-   >[!NOTE]
-   >
-   >[Filtrera en programrapport efter tagg](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)
+>[!NOTE]
+>
+>[Filtrera en programrapport efter tagg](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md){target="_blank"}

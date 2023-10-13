@@ -4,9 +4,9 @@ description: Skapa en prestandarapport för program - Marketo Docs - produktdoku
 title: Skapa en rapport om programprestanda
 exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Se bra statistik om dina program med den här rapporten.
 
-1. [Skapa en rapport i ett program](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och väljer **Programprestanda** [rapporttyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. Klicka på **Rapport** -fliken.
+1. [Skapa en rapport i ett program](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} and select the **[!UICONTROL Program Performance]** [report type](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
+1. Klicka på **[!UICONTROL Report]** -fliken.
 1. Du är där! Utforska rapporten och se hur era program fungerar.
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
 
 >[!TIP]
 >
->Hitta de program som har lägst *Kostnad per lyckad åtgärd*, till exempel [sortera rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) i den kolumnen och väljer **Sortera stigande**.
+>Hitta de program som har lägst *Kostnad per lyckad åtgärd*, till exempel [sortera rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} i den kolumnen och väljer **[!UICONTROL Sort Ascending]**.
 
 Kolumnerna i en rapport om programprestanda omfattar:
 

@@ -3,16 +3,16 @@ description: Förstå målspårning och projekterade registreringar - Marketo Do
 title: Förstå målspårning och projekterade registreringar
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
 feature: Predictive Audiences
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
-source-wordcount: '978'
+source-wordcount: '977'
 ht-degree: 0%
 
 ---
 
 # Förstå målspårning och projekterade registreringar {#understanding-goal-tracking-and-projected-registrations}
 
-Så här ser ni hur ni kan följa upp målutvecklingen och förstå Marketo prognoser.
+Så här ser du hur du kan följa upp dina målframsteg och förstå Marketo prognoser.
 
 >[!PREREQUISITES]
 >
@@ -28,7 +28,7 @@ Så här ser ni hur ni kan följa upp målutvecklingen och förstå Marketo prog
 
    ![](assets/understanding-goal-tracking-and-projected-registrations-1.png)
 
-Du kommer också att se **[!UICONTROL Projected]** registreringar. Håll muspekaren över infoikonen om du vill se en uppdelning av det här talet efter segmentet Sannolikhet.
+Du ser också **[!UICONTROL Projected]** registreringar. Håll muspekaren över infoikonen om du vill se en uppdelning av det här talet efter segmentet Sannolikhet.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-2.png)
 
@@ -44,17 +44,17 @@ Om du inte har aktiverat växlingsfunktionen visas den här i användargränssni
 
    ![](assets/understanding-goal-tracking-and-projected-registrations-4.png)
 
-Alla medlemmar (registrerade och ännu inte registrerade) kategoriseras utifrån deras sannolikhet för registrering. Håll muspekaren över informationsikonen för att se hur dessa sannolikhetskategorier definieras.
+Alla medlemmar (registrerade och ännu inte registrerade) kategoriseras utifrån deras sannolikhet för registrering. Håll muspekaren över informationsikonen för att se hur dessa sannolikhetskategorier definieras.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-5.png)
 
 >[!NOTE]
 >
->Prediktionsnumren uppdateras var 24:e timme tills dagen för händelsen. Alla medlemmar som är listade som _Bearbetar_ kommer att ingå i nästa beräkningscykel.
+>Prediktionsnumren uppdateras var 24:e timme tills dagen för händelsen. Alla medlemmar som är listade som _Bearbetar_ kommer att ingå i nästa beräkningscykel.
 
 ## Liknande program
 
-Du kan få lite information om ditt aktuella event genom att titta på hur liknande program har utvecklats tidigare. I det här avsnittet visas upp till fem liknande program från de senaste sex månaderna, med antalet/procentandelen medlemmar som var _Registrerad_ eller senare.
+Du kan få lite information om ditt aktuella event genom att titta på hur liknande program har utvecklats tidigare. I det här avsnittet visas upp till fem liknande program från de senaste sex månaderna, med antalet/procentandelen medlemmar som var _Registrerad_ eller senare.
 
 Vid beräkningen av liknande program har vi bland annat tagit med följande faktorer:
 
@@ -69,13 +69,13 @@ Vid beräkningen av liknande program har vi bland annat tagit med följande fakt
 
 ## Recommendations
 
-Högst upp på sidan Rapporter hittar du AI/ML-drivna rekommendationer baserat på dina framsteg. Ta en titt regelbundet för tips och insikter!
+Överst på [!UICONTROL Reports] kan du hitta AI/ML-baserade rekommendationer baserat på dina framsteg. Ta en titt regelbundet för tips och insikter!
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-7.png)
 
 ## Personnivåprognoser
 
-Klicka på **[!UICONTROL Members]** för att visa alla programmedlemmar. Hovra över **[!UICONTROL Registration Likelihood]** eller **[!UICONTROL Attendance Likelihood]** fält för att se exakta procentsatser och kategoriseringar. Du kan sedan vidta åtgärder för medlemmar i en viss kategori (t.ex. alla i kategorin&quot;Less Troely&quot; för att registrera) och särskilt inrikta dig på dem för att eventuellt öka dina registreringsnummer.
+Klicka på **[!UICONTROL Members]** för att visa alla programmedlemmar. Hovra över **[!UICONTROL Registration Likelihood]** eller **[!UICONTROL Attendance Likelihood]** fält för att se exakta procentsatser och kategoriseringar. Du kan sedan vidta åtgärder för medlemmar i en viss kategori (t.ex. alla i kategorin&quot;Less Troely&quot; för att registrera) och särskilt inrikta dig på dem för att eventuellt öka antalet.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-8.png)
 
@@ -83,11 +83,11 @@ Klicka på **[!UICONTROL Members]** för att visa alla programmedlemmar. Hovra 
 >
 >Individuell sannolikhet tar hänsyn till mer än 40 personfaktorer, inklusive profilattribut, personaktivitet och tidigare inbjuden/registrerade/övervakade aktiviteter.
 
-## Vanliga frågor
+## Vanliga frågor och svar
 
-**F: Vad är segmentet?**
+**Fråga: Vad är segmentet?**
 
-S: Sannolikt att registrera är ett värde mellan 0 och 100. Alla som är medlemmar i händelseprogrammet får ett sannolikhetsvärde mellan 0 och 100.
+S: Sannolikheten att registrera är ett värde mellan 0 och 100. Alla som är medlemmar i händelseprogrammet får ett sannolikhetsvärde mellan 0 och 100.
 
 Vi sätter in sannolikhetsvärden i tre segment:
 
@@ -101,13 +101,13 @@ Därför har de som hamnar i segmentet Highly Troely större chans att anmäla s
 
 Konvertering till register = # av personer i segment som är registrerade delat med # personer som faller in i segmentet (om till exempel 100 personer faller in i segmentet Mycket sannolikt och 60 av dem registrerar sig, är konverteringsgraden 60 %).
 
-Konvertering % till register följer det här mönstret: Mycket sannolikt > Sannolikt > Mindre sannolikt.
+Konvertering % för registrering följer det här mönstret: Mycket sannolikt > Sannolikt > Mindre troligt.
 
 **F: Hur använder jag insikterna?**
 
 S: Bästa praxis innebär följande:
 
-i. Du skapar ett program och sedan använder en Smart Campaign prediktiva filter med&quot;större än X&quot;, vilket skulle resultera i ett visst antal personer (till exempel 1 000) och ni kör kampanjen.
+i. Du skapar ett program och sedan använder en Smart Campaign prediktiva filter med &quot;större än X&quot;, vilket skulle resultera i en viss mängd personer (till exempel 1 000) och du kör kampanjen.
 
 ii. Efter 24 timmar på [!UICONTROL Reports] kan du se de planerade registreringarna som beräknas baserat på sannolikheten att registrera värden för alla personer som för närvarande är inbjudna.
 
@@ -121,17 +121,17 @@ v. När som helst om du vill förstå varför ett projicerat tal visas kan du v�
 
 **F: Vad är segmenten efter registrering?**
 
-S: Tre staplar, var och en representerar ett segment (Mycket sannolikt, Sannolikt, Mindre sannolikt).
+S: Tre staplar, där var och en representerar ett segment (Mycket sannolikt, Sannolikt, Mindre sannolikt).
 
 **Lila prickad linje:** Genomsnittlig konverteringsgrad till registrering i det segmentet, baserat på tidigare liknande program.
 
-**Blue bar:** Registreringsprocent för alla personer i det segmentet.
+**Blå stapel:** Registreringsprocent för alla personer i det segmentet.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-10.png)
 
 Exempel: 100 personer har möjlighet att registrera > 50 % och 60 av dessa 100 personer. Mycket troligt har 60 % konvertering. Det innebär att alla medlemmar som läggs till i programmet är benägna att registrera värden, sedan läggs de in i segment och antalet registrerade personer i varje segmentkonverteringsgrad beräknas.
 
-**F: Vad betyder &quot;Registered and Higher&quot;?**
+**F: Vad betyder&quot;Registered and Higher&quot;?**
 
 S: Alla som är listade som registrerade eller som har en annan status med samma eller högre stegnummer.
 
@@ -139,7 +139,7 @@ Du kan skapa nya statusvärden för ett händelseprogram, men vi mappar dessa st
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-11.png)
 
-**F: Hur beräknas planerade registreringar?**
+**Fråga: Hur beräknas planerade registreringar?**
 
 S: Se nedan.
 

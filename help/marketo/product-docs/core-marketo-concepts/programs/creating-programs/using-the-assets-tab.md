@@ -4,7 +4,7 @@ description: Använda fliken Resurser - Marketo Docs - produktdokumentation
 title: Använda fliken Resurser
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Använda fliken Resurser {#using-the-assets-tab}
 
-Resursytan är en visuell representation av ditt program. Du kan använda den för att lägga till lokala resurser och interagera med befintliga.
+Resursens arbetsyta är en visuell representation av ditt standard- eller händelseprogram. Du kan använda den för att lägga till lokala resurser och interagera med befintliga.
 
 ## Lägga till resurser {#adding-assets}
 
-Från **Marknadsföringsaktiviteter** klickar du på **Resurser** -fliken. Välj något av resurserna nedan och lägg till dem i programmet.
+Klicka på **[!UICONTROL Assets]** -fliken i det önskade programmet. Välj något av resurserna nedan och lägg till dem i programmet.
 
 ![](assets/programassets.png)
 

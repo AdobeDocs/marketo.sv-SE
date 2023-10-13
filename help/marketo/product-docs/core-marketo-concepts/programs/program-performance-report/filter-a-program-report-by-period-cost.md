@@ -4,18 +4,18 @@ description: Filtrera en programrapport efter periodkostnad - Marketo Docs - pro
 title: Filtrera en programrapport efter periodkostnad
 exl-id: 039041be-326d-4018-b97d-d80198cb9b84
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
 # Filtrera en programrapport efter periodkostnad {#filter-a-program-report-by-period-cost}
 
-Fokusera på [rapport om programprestanda](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) under en viss period.
+Fokusera på [rapport om programprestanda](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} under en viss period.
 
-1. Gå till **Marknadsföringsaktiviteter** (eller **Analyser**).
+1. Gå till **[!UICONTROL Marketing Activities]** (eller **[!UICONTROL Analytics]**).
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -23,18 +23,18 @@ Fokusera på [rapport om programprestanda](/help/marketo/product-docs/core-marke
 
    ![](assets/image2014-9-23-16-3a22-3a52.png)
 
-1. Klicka på **Inställningar** tabb och dra över **Periodkostnad**.
+1. Klicka på **[!UICONTROL Setup]** tabb och dra över **[!UICONTROL Period Cost]**.
 
    ![](assets/lm-86194-1.png)
 
-1. Ange **Från** och **Till** datum för uppkomna kostnader och klicka **Använd**.
+1. Ange **[!UICONTROL From]** och **[!UICONTROL To]** datum för uppkomna kostnader och klicka **[!UICONTROL Apply]**.
 
    ![](assets/lm-86194-2a-hands.png)
 
-1. Du är klar! Klicka på **Rapport** för att bara visa de program som ligger inom den angivna tidsperioden för kostnadskostnad.
+1. Du är klar! Klicka på **[!UICONTROL Report]** för att bara visa de program som ligger inom den angivna tidsperioden för kostnadskostnad.
 
    ![](assets/lm-86194-report-tab.png)
 
-   >[!NOTE]
-   >
-   >[Filtrera en programrapport per program](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-program.md)
+>[!NOTE]
+>
+>[Filtrera en programrapport per program](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-program.md){target="_blank"}
