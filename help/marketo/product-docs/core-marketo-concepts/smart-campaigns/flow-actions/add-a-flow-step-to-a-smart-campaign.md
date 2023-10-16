@@ -4,7 +4,7 @@ description: Lägg till ett flödessteg i en smart kampanj - Marketo Docs - prod
 title: Lägg till ett flödessteg i en smart kampanj
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: e7211ff1336e0b7dc730ed113ce8b7cbfe986c70
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Flödesstegen talar om för Marketo Engage vad du vill ska hända med en grupp p
 
 >[!NOTE]
 >
->Flödessteg utförs i den ordning som de listas. [Ändra ordning på flödesstegen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"} för att säkerställa att de är i rätt sekvens.
+>Flödessteg utförs i den ordning som de listas. [Ändra ordning på flödesstegen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"} för att säkerställa att de är i rätt sekvens.
 
 >[!TIP]
 >
@@ -44,4 +44,4 @@ Häftig! Se till att [granska och validera Smart Campaign](/help/marketo/product
 >[!MORELIKETHIS]
 >
 >* [Använd Lägg till alternativ i ett flödessteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md){target="_blank"}
->* [Ändra ordning på flödesstegen i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}
+>* [Ändra ordning på flödesstegen i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}
