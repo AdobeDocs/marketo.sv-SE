@@ -3,9 +3,9 @@ unique-page-id: 2359807
 description: Anpassa Lotterimallar - Marketo Docs - Produktdokumentation
 title: Anpassa utlottningsstilar
 exl-id: 2b1437d9-a424-4d05-b614-7502c12e6ba2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ När du [skapa utlottningar](/help/marketo/product-docs/demand-generation/social
 
 >[!AVAILABILITY]
 >
->Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
+>Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
 1. Gå till **Marknadsföringsaktiviteter**.
 

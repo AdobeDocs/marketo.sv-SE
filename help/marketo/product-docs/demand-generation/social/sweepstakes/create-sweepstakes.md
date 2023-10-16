@@ -3,9 +3,9 @@ unique-page-id: 2359795
 description: Create Sweepstakes - Marketo Docs - produktdokumentation
 title: Skapa Lotterier
 exl-id: c16c03df-86d0-40ee-ad95-3c2653fa2a07
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ En utlottning ger folk en chans att vinna ett pris i utbyte mot att de berättar
 
 >[!AVAILABILITY]
 >
->Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
+>Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
 1. Välj **Nytt** > **Ny lokal resurs**.
 
@@ -80,4 +80,4 @@ Grattis! Du har skapat en utlottning.
 
 >[!MORELIKETHIS]
 >
->Nästa steg är att [publicera dina utlottningar](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)men du kan ändra utseendet och inställningarna för dina utlottningar. Börja med [anpassa dina utlottningsstilar](/help/marketo/product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md).
+>Nästa steg är att [publicera dina utlottningar](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)men du kan ändra utseendet och inställningarna för dina utlottningar. Börja med [anpassa dina utlottningar](/help/marketo/product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md).

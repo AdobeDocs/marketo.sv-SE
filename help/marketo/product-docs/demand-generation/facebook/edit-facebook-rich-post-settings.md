@@ -4,9 +4,9 @@ description: Redigera Facebook Rich Post Settings - Marketo Docs - produktdokume
 title: Redigera inställningar för Facebook Rich Post
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Anpassa inlägg när andra delar dig på Facebook.
 
 >[!AVAILABILITY]
 >
->Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
+>Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
 Marketo [sociala appar](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) låta era leads dela dina landningssidor med sina anslutningar i sociala nätverk som Facebook, Twitter, osv. Med facebook OpenGraph-taggar (OG-taggar) kan du ange vilken information från landningssidan som ska ingå i Facebook-inlägg.
 
@@ -43,7 +43,7 @@ Du kan ange vilka typer av sidinformation som ska användas i Facebook-inlägg s
    >
    >Dessa bör redan finnas i sidkällan, men för större kontroll kan du lägga till särskilda Facebook OG-taggar på landningssidan.
 
-   * Lägg inte till avancerat innehåll: Begränsar Facebook-inläggen från landningssidan till endast huvudmeddelandet och länken.
+   * Lägg inte till avancerat innehåll: Begränsar Facebook-inlägg från landningssidan till bara huvudmeddelandet och länken.
 
    ![](assets/image2014-9-22-16-3a48-3a18.png)
 

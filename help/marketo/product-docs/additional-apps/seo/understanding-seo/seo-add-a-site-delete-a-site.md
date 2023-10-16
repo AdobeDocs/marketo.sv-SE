@@ -4,9 +4,9 @@ description: SEO - Lägg till en webbplats/ta bort en webbplats - Marketo Docs -
 title: SEO - Lägg till en plats/ta bort en plats
 exl-id: 1005f5a8-8744-4fb3-9a07-83bc72810820
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '180'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ För att Marketo ska kunna hämta data (inkommande länkar och rekommendationer)
 
 >[!AVAILABILITY]
 >
->Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
+>Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
 ## [!UICONTROL Add a Site] {#add-a-site}
 

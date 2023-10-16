@@ -4,9 +4,9 @@ description: Förstå anpassade Marketo-objekt - Marketo Docs - produktdokumenta
 title: Förstå anpassade Marketo-objekt
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '662'
+source-wordcount: '668'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,17 @@ Använd anpassade objekt för att spåra mätvärden som är specifika för din 
 
 >[!AVAILABILITY]
 >
->Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
+>Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
 Använd anpassade objekt som filter och triggers i era smarta kampanjer. Exempel:
 
-* **Filter**: Skicka e-postmeddelanden endast till ägare av ett visst fordonsmärke
+* **Filter**: Skicka e-post endast till ägare av ett visst fordonsmärke
 * **Utlösare**: Skicka ett e-postmeddelande när ett anpassat objekt läggs till en person eller ett företag.
 
 Du kan ställa in anpassade objekt i en 1:N- eller många-till-många-relation. Exempel:
 
 * **En-till-många**: En person äger flera bilar
-* **Många-till-många**: Flera studenter är inskrivna i flera kurser från en kurskatalog
+* **Många-till-många**: Flera studenter har deltagit i flera kurser från en kurskatalog
 
 I en en-till-många-struktur används ett enda länkfält för att koppla det anpassade objektet till en person eller ett företag.
 

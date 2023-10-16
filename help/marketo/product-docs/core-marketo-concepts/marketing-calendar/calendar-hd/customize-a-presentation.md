@@ -4,9 +4,9 @@ description: Anpassa en presentation - Marketo Docs - produktdokumentation
 title: Anpassa en presentation
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Ställ in kalenderpresentationen så att den återspeglar de mål och aktivitete
 >[!AVAILABILITY]
 >
 >
->Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
+>Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
 >[!PREREQUISITES]
 >

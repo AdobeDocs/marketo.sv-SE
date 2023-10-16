@@ -4,9 +4,9 @@ description: '"Lägg till [!DNL Google AdWords] som [!DNL LaunchPoint] Service -
 title: "Lägg till [!DNL Google AdWords] som [!DNL LaunchPoint] Tjänst"
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Läs mer om [Google importfunktion för offlinekonvertering](https://support.goo
 
 >[!AVAILABILITY]
 >
->Alla kunder har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ Läs mer om [Google importfunktion för offlinekonvertering](https://support.goo
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-3.png)
 
-1. Ange [!UICONTROL display name] och markera **[!UICONTROL Google AdWords]**.
+1. Ange en [!UICONTROL display name] och markera **[!UICONTROL Google AdWords]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-4.png)
 
@@ -88,7 +88,7 @@ Läs mer om [Google importfunktion för offlinekonvertering](https://support.goo
 
    >[!NOTE]
    >
-   >[Automatisk taggning](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} måste väljas för att den här funktionen ska fungera. Inaktiveringen måste göras inifrån [!DNL AdWords].
+   >[Automatisk taggning](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} måste väljas för att den här funktionen ska fungera. Inaktivering måste göras inifrån [!DNL AdWords].
 
 Bra! Se den relaterade artikeln nedan för att lära dig hur du mappar [!DNL AdWords] offlinekonverteringar i intäktsmodellen.
 

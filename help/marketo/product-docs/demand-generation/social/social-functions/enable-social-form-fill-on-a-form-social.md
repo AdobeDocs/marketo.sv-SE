@@ -4,9 +4,9 @@ description: Aktivera ifyllning av sociala formulär på ett formulär (socialt)
 title: Aktivera ifyllning av sociala formulär på ett formulär (socialt)
 exl-id: 675d0499-b127-40fa-84ef-1c6ecfae8e2e
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Tillåt besökarna att fylla i formuläret via sitt sociala nätverk. Ni får au
 
 >[!AVAILABILITY]
 >
->Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
+>Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
@@ -37,7 +37,7 @@ Tillåt besökarna att fylla i formuläret via sitt sociala nätverk. Ni får au
 
    >[!TIP]
    >
-   >Ta en titt på vad [data som Marketo hämtar](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) om någon använder knapparna för sociala medier.
+   >Ta en titt på [data som Marketo hämtar](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) om någon använder knapparna för sociala medier.
 
 1. Klicka **Slutför**.
 
@@ -51,4 +51,4 @@ Tillåt besökarna att fylla i formuläret via sitt sociala nätverk. Ni får au
 
    ![](assets/image2016-4-28-16-3a45-3a58.png)
 
-Ganska bra?
+Ganska bra, va?

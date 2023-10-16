@@ -4,9 +4,9 @@ description: Skapa en [!DNL Webhook] - Marketo Docs - produktdokumentation
 title: Skapa en [!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '203'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ Använd [!DNL Webhooks] för att dra nytta av webbtjänster från tredje part f�
 
 >[!AVAILABILITY]
 >
->Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
+>Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
 1. Gå till **[!UICONTROL Admin]** område.
 
@@ -43,7 +43,7 @@ Använd [!DNL Webhooks] för att dra nytta av webbtjänster från tredje part f�
 
    * **[!UICONTROL Template]**: Om du vill skicka information i texten i begäran anger du det via nyttolastmallen. Mallar tillåts för följande typer av begäranden: POST, DELETE, PATCH eller PUT. Du kan använda dataformat som JSON eller XML. Om du vill infoga en variabel i mallen klickar du på **[!UICONTROL Insert Token]**.
 
-   * **[!UICONTROL Request Token Encoding]**: Om tokenvärdena innehåller specialtecken (t.ex. ett et-tecken, &#39;&amp;&#39;), anger du formatet för din begäran (**JSON** eller **Formulär/URL**).
+   * **[!UICONTROL Request Token Encoding]**: Om tokenvärdena innehåller specialtecken (t.ex. ett et-tecken (&amp;)) anger du formatet för din begäran (**JSON** eller **Formulär/URL**).
 
    * **[!UICONTROL Response type]**: Välj formatet för det svar du får från tjänsten (**JSON** eller **XML**).
 

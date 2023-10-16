@@ -4,9 +4,9 @@ description: Lägg till en video på en startsida i fri form - Marketo Docs - pr
 title: Lägga till en video på en startsida i frihandsformat
 exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Lägg in videofilmer med alternativ för delning via sociala medier på era land
 
 >[!AVAILABILITY]
 >
->Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
+>Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
 1. Navigera till landningssidan för frihandsritningar och klicka på **Redigera utkast**.
 
@@ -33,7 +33,7 @@ Lägg in videofilmer med alternativ för delning via sociala medier på era land
 
    >[!NOTE]
    >
-   >The **Skapa nytt** Funktionen visas endast i marknadsföringsaktiviteter. det är inte tillgängligt i Design Studio. Endast redan skapade videor finns i Design Studio. Du kan dock skapa en videodelning _i ett program_ genom att välja **Nytt** > **Ny lokal resurs**. Du kan sedan välja den i listrutan, vilket visas här.
+   >The **Skapa nytt** visas endast i marknadsföringsaktiviteter. Den är inte tillgänglig i Design Studio. Endast redan skapade videor finns i Design Studio. Du kan dock skapa en videodelning _i ett program_ genom att välja **Nytt** > **Ny lokal resurs**. Du kan sedan välja den i listrutan, vilket visas här.
 
 1. Ange webbadressen till YouTube-videon och ge sedan videon ett namn. Under listrutan Klona från väljer du **Ingen** och sedan klicka **Infoga**.
 

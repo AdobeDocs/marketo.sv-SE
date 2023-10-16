@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 639bb1404117607af116122b410479d37ae32fad
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
 source-wordcount: '9094'
 ht-degree: 0%
@@ -276,7 +276,7 @@ ht-degree: 0%
             + [Använda logik för standardregel för smart lista](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/using-standard-smart-list-rule-logic.md)
          + Flödesåtgärder {#flow-actions}
             + [Lägg till ett flödessteg i en smart kampanj](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-            + [Ändra ordning på flödesstegen i en smart kampanj](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md)
+            + [Ändra ordning på flödesstegen i en smart kampanj](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md)
             + [Lägg till i listan](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)
             + [Lägg till data i ett fält](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
             + [Ring webkrok](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md)

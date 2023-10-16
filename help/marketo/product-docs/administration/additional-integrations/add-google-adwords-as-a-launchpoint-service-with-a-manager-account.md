@@ -4,9 +4,9 @@ description: "Lägg till [!DNL Google AdWords] som [!DNL Launchpoint] Service me
 title: "Lägg till [!DNL Google AdWords] som [!DNL Launchpoint] Service med ett hanterarkonto"
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '296'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ Läs mer om [Google importfunktion för offlinekonvertering](https://support.goo
 
 >[!AVAILABILITY]
 >
->Alla kunder har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ Läs mer om [Google importfunktion för offlinekonvertering](https://support.goo
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-3.png)
 
-1. Ange **[!UICONTROL Display Name]** och markera **[!UICONTROL Google AdWords]**.
+1. Ange en **[!UICONTROL Display Name]** och markera **[!UICONTROL Google AdWords]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-4.png)
 

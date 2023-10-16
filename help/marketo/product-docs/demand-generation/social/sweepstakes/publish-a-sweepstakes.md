@@ -3,20 +3,20 @@ unique-page-id: 2359799
 description: Publicera Lotteriet - Marketo Docs - Produktdokumentation
 title: Publicera Lotteriet
 exl-id: c02d213c-a965-4737-817a-ce8bd7491853
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
 
 # Publicera Lotteriet {#publish-a-sweepstakes}
 
-Efter [skapa utlottningar](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)kan du publicera den på Marketo landningssidor, på din webbplats och på din Facebook.
+Efter dig [skapa utlottningar](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)kan du publicera den på Marketo landningssidor, på din webbplats och på din Facebook.
 
 >[!AVAILABILITY]
 >
->Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
+>Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
 >[!NOTE]
 >
@@ -42,8 +42,8 @@ Efter [skapa utlottningar](/help/marketo/product-docs/demand-generation/social/s
 
    >[!TIP]
    >
-   >Testa och förfina dina utlottningar. Gå till Lotteriet på din webbsida och registrera dig med testinformation. Notera allt du vill ändra om användarens upplevelse.
+   >Testa och förfina dina utlottningar. Gå till Lotteriet på din webbsida och registrera dig med testinformation. Observera allt du vill ändra när det gäller användarens upplevelse.
 
    >[!NOTE]
    >
-   >Kom ihåg att gå tillbaka till appen till [välj vinnarna av lotterierna](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)!
+   >När någon väl har börjat registrera sig, kom ihåg att gå tillbaka till appen till [välj vinnarna av lotterierna](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)!

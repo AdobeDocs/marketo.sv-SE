@@ -3,9 +3,9 @@ unique-page-id: 2359805
 description: Select Sweepstakes Winners - Marketo Docs - produktdokumentation
 title: Välj Lotterivinnare
 exl-id: 4f6d0b39-86c6-468f-97ad-d65ef3f13b9c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ När du [publicera utlottningar](/help/marketo/product-docs/demand-generation/so
 
 >[!AVAILABILITY]
 >
->Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
+>Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
@@ -26,13 +26,13 @@ När du [publicera utlottningar](/help/marketo/product-docs/demand-generation/so
 
    ![](assets/image2014-9-25-17-3a47-3a37.png)
 
-1. Klicka **Vinnare**.
+1. Klicka **Plockningsvinnare**.
 
    ![](assets/image2014-9-25-17-3a47-3a49.png)
 
    >[!TIP]
    >
-   >Klicka på **Deltagare** -fliken.
+   >Om du vill se en lista över personer som har anmält sig till ditt lotteri klickar du på **Deltagare** -fliken.
 
 1. Välj antal vinnare, välj **Jag är redo att välja** och klicka **Nästa**.
 
@@ -42,7 +42,7 @@ När du [publicera utlottningar](/help/marketo/product-docs/demand-generation/so
    >
    >Om du väljer 0 vinnare för en viss teckning visas inte den informationen på **Vinnare** -fliken.
 
-1. Klicka **Slutför** för att skicka [mejl](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md) till vinnarna i listan.
+1. Klicka **Slutför** skicka [mejl](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md) till vinnarna i listan.
 
    ![](assets/image2014-9-25-17-3a49-3a48.png)
 

@@ -4,20 +4,20 @@ description: E-postleverans Power Pack - Så här importerar du en dirigeringsli
 title: E-postleverans, Power Pack - Så här importerar du en dirigeringslista
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
 
 # Power Pack för e-postleverans: Så här importerar du en dirigeringslista {#email-deliverability-power-pack-how-to-import-a-seed-list}
 
-En lista med dirigerade e-postkonton är en lista över e-postkonton hos flera postlådeproviders, inklusive Google Apps, Hotmail, Yahoo!, osv., som används för att beräkna andelen inkorg- och skräppostmappsleveranser. Så här hämtar du listan till din Marketo-instans.
+En lista med dirigerade e-postkonton är en lista över e-postkonton hos flera postlådeproviders, inklusive Google Apps, Hotmail, Yahoo!, osv., som används för att beräkna hur många inkorgar och skräppostmappar som levereras. Så här hämtar du listan till din Marketo-instans.
 
 >[!AVAILABILITY]
 >
->Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
+>Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
 ## Importera en dirigerad lista {#import-a-seed-list}
 
@@ -39,7 +39,7 @@ En lista med dirigerade e-postkonton är en lista över e-postkonton hos flera p
 
    >[!NOTE]
    >
-   >Använd optimering av dirigerad lista (längst upp på sidan) om du vill att Everest ska optimera listan åt dig.
+   >Använd optimeringsfunktionen för dirigerad lista (längst upp på sidan) om du vill att Everest ska optimera listan åt dig.
 
 1. Efter exporten visas listan som en TXT-fil i webbläsarens nedladdningsmapp. Hämta den och [import](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) i din Marketo-instans som en statisk lista.
 

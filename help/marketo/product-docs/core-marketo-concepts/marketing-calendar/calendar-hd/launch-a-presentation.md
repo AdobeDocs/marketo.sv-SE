@@ -4,10 +4,10 @@ description: Starta en presentation - Marketo Docs - produktdokumentation
 title: Starta en presentation
 exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 1%
+source-wordcount: '104'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ När du har angett vyer och rotationsfrekvens för presentationen är det dags a
 >[!AVAILABILITY]
 >
 >
->Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
+>Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ När du har angett vyer och rotationsfrekvens för presentationen är det dags a
 
 >[!TIP]
 >
->Se till att _Förhandsgranska en presentation_ innan du startar.
+>Se till att _Förhandsgranska en presentation_ innan du startar programmet.
 
 1. Klicka på **[!UICONTROL Launch]**.
 

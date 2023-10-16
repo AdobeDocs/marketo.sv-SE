@@ -4,20 +4,20 @@ description: Skapa ett hänvisningserbjudande - Marketo Docs - produktdokumentat
 title: Skapa ett hänvisningserbjudande
 exl-id: c295943e-b9e5-4922-a3a4-800ed60cd513
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
 
 # Skapa ett hänvisningserbjudande {#create-a-referral-offer}
 
-Med hänvisningserbjudanden får du en anledning att hänvisa sina vänner. Skapa mål och belöningar för lyckade hänvisningar. Du kan släppa det på landningssidor, på din webbplats och till och med på Facebook.
+Hänvisningserbjudanden ger människor en anledning att hänvisa sina vänner. Skapa mål och belöningar för lyckade hänvisningar. Du kan släppa det på landningssidor, på din webbplats och till och med på Facebook.
 
 >[!AVAILABILITY]
 >
->Alla kunder har inte köpt den här funktionen. Kontakta din säljare för mer information.
+>Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
 1. Välj **Nytt** > **Ny lokal resurs**.
 
