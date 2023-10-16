@@ -4,9 +4,9 @@ description: Clone an Asset in a Program - Marketo Docs - Product Documentation
 title: Klona en resurs i ett program
 exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Klona ett program-kloner _allt_. Ibland vill du bara klona en resurs. Så här g
 
 >[!NOTE]
 >
->Du måste utföra ytterligare steg för att [klona en testgrupp för landningssidor](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md).
+>Du måste utföra ytterligare steg för att [klona en testgrupp för landningssidor](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md){target="_blank"}.
 
 ## Klona en lokal resurs {#clone-a-local-asset}
 
-1. Gå till **Marknadsföring** **Verksamhet**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,17 +29,17 @@ Klona ett program-kloner _allt_. Ibland vill du bara klona en resurs. Så här g
 
    ![](assets/image2014-9-23-15-3a56-3a12.png)
 
-1. Högerklicka på den lokala resurs som du vill klona. Klicka **Klona**.
+1. Högerklicka på den lokala resurs som du vill klona. Klicka på **[!UICONTROL Clone]**.
 
    ![](assets/image2014-9-23-15-3a56-3a25.png)
 
-1. Varje typ av resurs har en egen dialogruta. Fyll i informationen och klicka **Klona**.
+1. Varje typ av resurs har en egen dialogruta. Fyll i informationen och klicka **[!UICONTROL Clone]**.
 
    ![](assets/image2014-9-23-15-3a56-3a34.png)
 
    >[!TIP]
    >
-   >Du kan också klona en resurs till ett annat program. Använd **Program** för att göra ditt val.
+   >Du kan också klona en resurs till ett annat program. Använd **[!UICONTROL Program]** för att göra ditt val.
 
 1. Bra! Du bör nu se den nya klonade resursen.
 
@@ -47,4 +47,4 @@ Klona ett program-kloner _allt_. Ibland vill du bara klona en resurs. Så här g
 
    >[!NOTE]
    >
-   >[Klona ett program](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)
+   >[Klona ett program](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md){target="_blank"}

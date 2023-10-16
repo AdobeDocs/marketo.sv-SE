@@ -4,9 +4,9 @@ description: Anpassade fält för programmedlemmar - Marketo Docs - produktdokum
 title: Anpassade fält för programmedlem
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ Med anpassade fält för programmedlemmar kan du samla in programspecifika data 
 
 ## Skapa ett anpassat fält för en programmedlem {#create-a-program-member-custom-field}
 
-1. I Marketo klickar du på **Administratör**.
+1. Klicka på i Marketo **[!UICONTROL Admin]**.
 
    ![](assets/one.png)
 
-1. Klicka **Fälthantering**.
+1. Klicka på **[!UICONTROL Field Management]**.
 
    ![](assets/two.png)
 
-1. Klicka **Nytt anpassat fält**.
+1. Klicka på **[!UICONTROL New Custom Field]**.
 
    ![](assets/three.png)
 
@@ -37,7 +37,7 @@ Med anpassade fält för programmedlemmar kan du samla in programspecifika data 
    >
    >Anpassade fält för person och programmedlem kan inte ha samma namn.
 
-1. Fyll i återstående fält och klicka **Skapa**.
+1. Fyll i återstående fält och klicka **[!UICONTROL Create]**.
 
    ![](assets/five.png)
 

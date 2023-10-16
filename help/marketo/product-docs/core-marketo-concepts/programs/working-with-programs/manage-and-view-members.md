@@ -4,9 +4,9 @@ description: Hantera och visa medlemmar - Marketo Docs - produktdokumentation
 title: Hantera och visa medlemmar
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Du kan hantera och visa dina medlemmar i dina program på fliken Medlemmar.
 
 >[!NOTE]
 >
->Gå djupare in [programmedlemskap](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
+>Gå djupare in [programmedlemskap](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}.
 
 ## Sök efter en medlem {#search-for-a-member}
 
 Längst ned i avsnittet Medlemmar använder du sökfältet för att söka efter programmedlemmar efter namn, e-postadress, befattning eller företag.
 
-1. Klicka på **Medlemmar** -fliken i ditt program.
+1. Klicka på **[!UICONTROL Members]** -fliken i ditt program.
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
@@ -49,21 +49,21 @@ Högerklicka på kolumnrubriken om du vill sortera i bokstavsordning, antingen s
 
 ## Välj vilka kolumner som ska visas i rutnätet {#choose-which-columns-are-visible-in-the-grid}
 
-1. Klicka på **Visa** nedrullningsbar meny och välj **Skapa vy**.
+1. Klicka på **[!UICONTROL View]** nedrullningsbar meny och välj **[!UICONTROL Create View]**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. Namnge din anpassade vy. Välj kolumnrubriker. Klicka **Lägg till** och **Ta bort** om du vill flytta kolumner och skapa en vy.
+1. Namnge din anpassade vy. Välj kolumnrubriker. Klicka **[!UICONTROL Add]** och **[!UICONTROL Remove]** om du vill flytta kolumner och skapa en vy.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
-1. Klicka **Skapa**.
+1. Klicka på **[!UICONTROL Create]**.
 
    ![](assets/image2014-10-1-16-3a38-3a7.png)
 
 ## Filtrera medlemsstödrastret  {#filter-the-members-grid}
 
-1. Klicka på **Filter** och välj ett förloppssteg att sortera efter.
+1. Klicka på **[!UICONTROL Filter]** och välj ett förloppssteg att sortera efter.
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
@@ -71,11 +71,11 @@ Högerklicka på kolumnrubriken om du vill sortera i bokstavsordning, antingen s
 
 Du kan ändra status för dina personer inuti medlemsrutnätet.
 
-1. Håll ned **Ctrl/Cmd** och välja personer.
+1. Håll ned **[!UICONTROL Ctrl/Cmd]** och välja personer.
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. Klicka på **Ändra status** och välj en status.
+1. Klicka på **[!UICONTROL Change Status]** och välj en status.
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
@@ -87,4 +87,4 @@ Många funktioner, men de är ganska enkla. Mycket nöje!
 
 >[!MORELIKETHIS]
 >
->[Skapa en rapport om programprestanda](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
+>[Skapa en rapport om programprestanda](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}

@@ -4,20 +4,20 @@ description: Bästa praxis -Hur du organiserar program - Marketo Docs - Produktd
 title: Bästa praxis -Så här organiserar du dina program
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '843'
+source-wordcount: '844'
 ht-degree: 0%
 
 ---
 
-# God praxis: Organisera dina program {#best-practice-how-to-organize-your-programs}
+# Bästa praxis: Organisera dina program {#best-practice-how-to-organize-your-programs}
 
 Det finns många sätt att organisera trädet i marknadsföringsaktiviteter samt innehållet i ett enda program. Men det finns vissa sätt som är bättre och som kommer att hjälpa marknadsförare.
 
 >[!TIP]
 >
->En dag (när du blir befordrad!) någon annan kommer att försöka förstå dina program. En bra organisation kommer att hjälpa dem att bli produktiva snabbt.
+>En dag (när du blir befordrad!) kommer någon annan att försöka förstå dina program. En bra organisation kommer att hjälpa dem att bli produktiva snabbt.
 
 ## Mappar {#folders}
 
@@ -55,11 +55,11 @@ Var och en av dessa nämns i exemplet är en mapp. Lägg märke till att de alla
 
 >[!TIP]
 >
->Mappen&quot;Arkiv&quot; är en speciell typ av mapp som är utformad för att ta bort objekt från utvalda listor samt rapporter. Det gör att systemet kan köras snabbare. Lär dig [mer om mappar](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md).
+>Mappen&quot;Arkiv&quot; är en speciell typ av mapp som är utformad för att ta bort objekt från utvalda listor samt rapporter. Det gör att systemet kan köras snabbare. Läs [mer om mappar](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}.
 
 Du kan lägga till fler mappar när du vill. Tänk bara på att framtida generationer marknadsförare i företaget kommer att leva med dina beslut om hur ni namnger/organiserar saker.
 
-## Namngivningsscheman {#naming-schemes}
+## Namngivningsschema {#naming-schemes}
 
 Namngivning är viktigt eftersom Marketo funktioner alla använder ett gemensamt språk för att kommunicera. För program bör du ge dem ett unikt namn. **Två program får inte ha samma namn**. Det bästa sättet är att använda följande format:
 
@@ -75,7 +75,7 @@ Namngivning är viktigt eftersom Marketo funktioner alla använder ett gemensamt
 >1. NL 2015-06 nyhetsbrev
 >1. WBN 2015-12-01 Webbseminarium här
 
-Programnamnen måste vara unika i prenumerationen, även i olika [arbetsytor](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).  För lokala resurser i program är regeln att **behåll namnet enkelt**. Ange bara&quot;Inbjudan&quot; till skillnad från&quot;2015 Juniwebbinariet Invitation&quot;. Eftersom dessa finns i ett program är det överordnade programmet automatiskt en del av namnet när du väljer det någon annanstans. Med andra ord behöver lokala resurser bara vara unika inom programmet. Du kan ha hundratals resurser som heter&quot;Bjud in&quot;, var och en i ett annat program och det kommer inte att försvåra dig.
+Programnamnen måste vara unika i prenumerationen, även i olika [arbetsytor](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.  För lokala resurser i program är regeln att **behåll namnet enkelt**. Ange bara&quot;Inbjudan&quot; till skillnad från&quot;2015 Juniwebbinariet Invitation&quot;. Eftersom dessa finns i ett program är det överordnade programmet automatiskt en del av namnet när du väljer det någon annanstans. Med andra ord behöver lokala resurser bara vara unika inom programmet. Du kan ha hundratals resurser som heter&quot;Bjud in&quot;, var och en i ett annat program och det kommer inte att försvåra dig.
 
 ## Tokens {#tokens}
 
@@ -91,13 +91,13 @@ Med den organisation som nämns ovan kan du placera tokens i händelsemappen så
 
 ## Händelser {#events}
 
-En händelse har vanligtvis många rörliga delar, bland annat: inbjudningar, landningssidor, formulär, sociala widgetar och smarta kampanjer. Det bästa sättet att organisera dem för att underlätta användningen är att använda händelsefasen. Här är ett exempel på hur mappträdet ska söka efter en händelse.
+En Event har vanligtvis många rörliga delar, bland annat: inbjudningar, landningssidor, formulär, sociala widgetar och smarta kampanjer. Det bästa sättet att organisera dem för att underlätta användningen är att använda händelsefasen. Här är ett exempel på hur mappträdet ska söka efter en händelse.
 
 ![](assets/capture.png)
 
 ## Engagement Programs {#engagement-programs}
 
-Lär dig [allt om engagemangsprogram](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md). Det bästa sättet att organisera engagemangsprogrammet är med mappar. Skapa en mapp för varje ström och placera sedan e-postmeddelandena eller programmen i den mappen. Inkludera en arkivmapp i varje ström när innehållet blir inaktuellt och du vill ta bort det.
+Läs [allt om engagemangsprogram](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}. Det bästa sättet att organisera engagemangsprogrammet är med mappar. Skapa en mapp för varje ström och placera sedan e-postmeddelandena eller programmen i den mappen. Inkludera en arkivmapp i varje ström när innehållet blir inaktuellt och du vill ta bort det.
 
 ## Verksamhetsprogram {#operational-programs}
 
@@ -121,4 +121,4 @@ En del människor kan till och med abstrahera större delen av texten i e-postme
 
 ## Sammanfattning {#summary}
 
-Som du ser finns det mycket kraft i Marketo. Vi gick igenom grunderna här, men tänk på några [ytterligare tjänster från Marketo Experts](https://www.marketo.com/services/) för att finjustera och förbereda dig för framgång.
+Som du ser finns det mycket kraft i Marketo. Vi gick igenom grunderna här, men överväg ytterligare tjänster från [Marketo Engage experter](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} för att finjustera och förbereda dig för framgång.

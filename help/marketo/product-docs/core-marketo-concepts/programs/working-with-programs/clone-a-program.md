@@ -4,9 +4,9 @@ description: Clone a Program - Marketo Docs - produktdokumentation
 title: Klona ett program
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Klona snabbt och enkelt ett helt program och allt dess material i stället för att manuellt återskapa allting.
 
-1. Sök efter och välj det program som du vill klona, sedan under **Programåtgärder** klicka **Klona**.
+1. Sök efter och välj det program som du vill klona. I **[!UICONTROL Program Actions]** nedrullningsbar meny, klicka **[!UICONTROL Clone]**.
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
-1. Välj var du vill klona programmet.
+1. Välj till vilken plats du vill klona programmet.
 
    >[!NOTE]
    >
@@ -31,7 +31,7 @@ Klona snabbt och enkelt ett helt program och allt dess material i stället för 
    >
    >Ser du NOTE i skärmbilden ovan? Det innebär att om du klonar ett program med 1 000 eller fler personer i en lista kommer själva listan att klonas, men den kommer att vara tom. Om du klonar ett program med en lista som innehåller 999 personer eller mindre visas den listan tillsammans med alla dess medlemmar i det klonade programmet.
 
-1. Ange ett namn.
+1. Ange en [!UICONTROL Name].
 
    ![](assets/cloneprogramname.png)
 
@@ -39,7 +39,7 @@ Klona snabbt och enkelt ett helt program och allt dess material i stället för 
 
    ![](assets/choosefolderclone.png)
 
-1. Lägg till en valfri beskrivning och klicka sedan på **Skapa**. Se hur snabbt du kunde skapa ett nytt program med allt material redo att användas!
+1. Lägg till en valfri beskrivning och klicka sedan på **[!UICONTROL Create]**. Se hur snabbt du kunde skapa ett nytt program med allt material redo att användas!
 
    ![](assets/createclone.png)
 

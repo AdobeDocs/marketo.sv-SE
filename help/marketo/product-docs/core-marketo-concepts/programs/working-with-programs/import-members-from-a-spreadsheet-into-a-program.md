@@ -4,10 +4,10 @@ description: Importera medlemmar från ett kalkylblad till ett program - Marketo
 title: Importera medlemmar från ett kalkylblad till ett program
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 0%
+source-wordcount: '154'
+ht-degree: 1%
 
 ---
 
@@ -23,35 +23,35 @@ Du kan importera en lista över personer som automatiskt blir medlemmar i ett pr
 
    >[!CAUTION]
    >
-   >Använd följande format när du importerar ett datum till ett datumfält: 13/9 29 (månad/dag/år).
+   >Använd följande format när du importerar ett datum till ett datumfält: 9/29/24 (månad/dag/år).
 
 ## Importera din CSV-fil till Marketo {#import-your-csv-into-marketo}
 
-1. Gå till **Medlemmar** -avsnitt.
+1. Gå till **[!UICONTROL Members]** -avsnitt.
 
    ![](assets/image2014-9-18-15-3a3-3a57.png)
 
-1. Klicka **Importera medlemmar**.
+1. Klicka på **[!UICONTROL Import Members]**.
 
    ![](assets/image2014-9-18-15-3a38-3a14.png)
 
-1. Markera CSV-filen och klicka på **Nästa**.
+1. Markera CSV-filen och klicka på **[!UICONTROL Next]**.
 
    ![](assets/importlist1.png)
 
-1. Mappa datavärdena från listan till motsvarande Marketo-fält och klicka på **Nästa**.
+1. Mappa datavärdena från listan till motsvarande Marketo-fält och klicka på **[!UICONTROL Next]**.
 
    ![](assets/importlist12.png)
 
    >[!NOTE]
    >
-   >Om det finns fält som du inte vill importera väljer du **IGNORE** i listrutan Marketo Field.
+   >Om det finns fält som du inte vill importera väljer du **[!UICONTROL IGNORE]** i listrutan Marketo Field.
 
-1. Välj **Medlemsstatus** i listan.
+1. Välj **[!UICONTROL Member Status]** i listan.
 
    ![](assets/image2014-9-18-15-3a41-3a32.png)
 
-1. Klicka **Importera**.
+1. Klicka på **[!UICONTROL Import]**.
 
    ![](assets/image2014-9-18-15-3a44-3a19.png)
 
@@ -65,4 +65,4 @@ Du kan importera en lista över personer som automatiskt blir medlemmar i ett pr
 
 >[!MORELIKETHIS]
 >
->[Hantera och visa medlemmar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
+>[Hantera och visa medlemmar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}

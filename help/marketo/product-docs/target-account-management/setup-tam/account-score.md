@@ -4,7 +4,7 @@ description: Kontopoäng - Marketo Docs - produktdokumentation
 title: Kontopoäng
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -59,7 +59,7 @@ När du har konfigurerat lead-poängen fortsätter du genom att följa stegen ne
 
 1. Klicka **Administratör**.
 
-   ![](assets/one-1.png)
+   ![](assets/account-score-1.png)
 
 1. Klicka **Hantering av målkonto**.
 
@@ -73,14 +73,14 @@ När du har konfigurerat lead-poängen fortsätter du genom att följa stegen ne
    >
    >Du kan välja upp till **fem** fält för att beräkna kontouppsättningen.
 
-1. Ange namnet på kontouppsättningen och klicka på **Välj personpoäng** och välj bakgrundsmusik.
+1. Ange namnet på kontouppsättningen och klicka på **Välj personpoäng** och välj motsvarande poäng.
 
-   ![](assets/four.png)
+   ![](assets/account-score-4.png)
 
 1. Klicka **+Lägg till** för att lägga till fler bakgrundsmusik.
 
-   ![](assets/five.png)
+   ![](assets/account-score-5.png)
 
 1. Lägg till alla önskade bakgrundsmusik. Klicka **Spara** när det är klart.
 
-   ![](assets/six.png)
+   ![](assets/account-score-6.png)

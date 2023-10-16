@@ -3,10 +3,10 @@ description: Synkronisering av anpassade fält för programmedlem - Marketo Docs
 title: Synkronisering av anpassat fält för programmedlem
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 0%
+source-wordcount: '346'
+ht-degree: 1%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* Skapande av [Anpassade fält för programmedlem](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
+>* Skapar [Anpassade fält för programmedlem](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
 >* [Synkronisera en Salesforce-kampanj med ett program](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
 
 >[!NOTE]
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 ## Mappa Salesforce-fält till anpassade programmedlemsfält {#map-salesforce-fields-to-program-member-custom-fields}
 
-1. I Marketo klickar du på **Administratör**.
+1. Klicka på i Marketo **[!UICONTROL Admin]**.
 
    ![](assets/program-member-custom-field-sync-1.png)
 
-1. Klicka **Salesforce** och sedan klicka **Redigera** bredvid Synkronisering av anpassade fält för programmedlem.
+1. Klicka **[!DNL Salesforce]** och sedan klicka **[!UICONTROL Edit]** bredvid Synkronisering av anpassade fält för programmedlem.
 
    ![](assets/program-member-custom-field-sync-2.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 1. Om du vill ha ytterligare fältkopplingar avmarkerar du sökrutan och upprepar steg 3 till 5.
 
-1. Klicka **Spara** när det är klart.
+1. Klicka **[!UICONTROL Save]** när det är klart.
 
    ![](assets/program-member-custom-field-sync-6.png)
 
@@ -65,11 +65,11 @@ ht-degree: 0%
 
 Om du vill frigöra ett fält för att ersätta det, eller bara göra en allmän ändring, måste du först ta bort mappningen. Så här gör du.
 
-1. I Marketo klickar du på **Administratör**.
+1. Klicka på i Marketo **[!UICONTROL Admin]**.
 
    ![](assets/program-member-custom-field-sync-7.png)
 
-1. Klicka **Salesforce** och sedan klicka **Redigera** bredvid Synkronisering av anpassade fält för programmedlem.
+1. Klicka **[!DNL Salesforce]** och sedan klicka **[!UICONTROL Edit]** bredvid Synkronisering av anpassade fält för programmedlem.
 
    ![](assets/program-member-custom-field-sync-8.png)
 
@@ -79,13 +79,13 @@ Om du vill frigöra ett fält för att ersätta det, eller bara göra en allmän
 
    >[!TIP]
    >
-   >Du kan välja **Mappat** om du bara vill visa mappade fält.
+   >Du kan välja **[!UICONTROL Mapped]** om du bara vill visa mappade fält.
 
 1. Dela upp genom att klicka på **X** bredvid fältet.
 
    ![](assets/program-member-custom-field-sync-10.png)
 
-1. Mappningen har tagits bort. Klicka **Spara**.
+1. Mappningen har tagits bort. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/program-member-custom-field-sync-11.png)
 
