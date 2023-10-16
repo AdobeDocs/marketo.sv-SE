@@ -4,32 +4,32 @@ description: Importera ett program - Marketo Docs - produktdokumentation
 title: Importera ett program
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 797ae74a76674a0ad2b05ff22cd1c084068299fd
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '520'
 ht-degree: 0%
 
 ---
 
 # Importera ett program {#import-a-program}
 
-Ett program kan importeras från en Marketo-prenumeration till en annan. Du kan till exempel skapa ett program i en sandlåda och sedan importera det till din liveprenumeration. Du kan även importera ett färdigbyggt program från Marketo Program Library.
+Ett program kan importeras från en Marketo-prenumeration till en annan. Du kan till exempel skapa ett program i en sandlåda och sedan importera det till din liveprenumeration. Du kan även importera ett fördefinierat program från [Marketo Program Library](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
 
 ## Importera ett program {#importing-a-program}
 
-1. Gå till **Marknadsföringsaktiviteter.**
+1. Gå till **Marknadsföringsaktiviteter**.
 
    ![](assets/import-a-program-1.png)
 
-1. Klicka **Nytt** nedrullningsbar meny. Välj **Importprogram**.
+1. Klicka på **Nytt** nedrullningsbar meny och välj **Importprogram**.
 
    ![](assets/import-a-program-2.png)
 
    >[!NOTE]
    >
-   >Programimport är bara tillgängligt för användare som har roller med behörigheten Importera program aktiverad. Läs mer om [hantera användarroller och behörigheter](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+   >Programimport är bara tillgängligt för användare som har roller med behörigheten Importera program aktiverad. Läs mer om [hantera användarroller och behörigheter](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
    >
-   >Om du vill ansluta ett sandlådekonto till din liveprenumeration kontaktar du [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Om du vill ansluta ett sandlådekonto till din liveprenumeration kontaktar du [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
 1. Välj en Marketo **Prenumeration** och ett program att importera. Klicka **Nästa**.
 
@@ -41,7 +41,7 @@ Ett program kan importeras från en Marketo-prenumeration till en annan. Du kan 
 
    >[!NOTE]
    >
-   >Se till att **Använd standardkonflikt** regler är markerade. Konfliktregler behövs när du importerar program till en instans som har resurser med samma namn.
+   >Kontrollera att **Använd standardkonflikt** regler är markerade. Konfliktregler behövs när du importerar program till en instans som har resurser med samma namn.
 
 1. Välj önskad konfliktinformation och klicka på **Nästa**.
 
@@ -63,11 +63,11 @@ Du får en bekräftelse via e-post när importen är klar.
 
 ## Inverkan på externa resurser under programimporten {#impact-on-external-assets-during-program-imports}
 
-Program använder externa resurser som e-postmallar, mallar för landningssidor, bilder, formulär, tokens och programtaggar. Du kan konfigurera hur landningssidmallar och programtaggar hanteras, och Marketo hanterar automatiskt resten.
+Program använder externa resurser som e-postmallar, mallar för landningssidor, bilder, formulär, tokens och programtaggar. Du kan konfigurera hur mallarna och programtaggarna för landningssidor hanteras, och Marketo hanterar automatiskt resten.
 
 **Mallar för e-post/landningssida:** Mallar för e-post/landningssida importeras till Design Studio. Du kan använda konfliktregler för att konfigurera beteendet när det finns en mall med samma namn. Med standardregeln läggs ett nummer till i en mall om det finns en mall med samma namn. Om du till exempel redan har en mall med namnet &quot;Standardmall&quot; får den nya namnet &quot;Standardmall - 1&quot;.
 
-**Landningssidor/Forms:** Om det finns ett formulär eller en landningssida med samma namn i Design Studio importeras de fortfarande, men med en siffra efter namn (t.ex.: Landningssida - 1).
+**Landningssidor/Forms:** Om det finns ett formulär eller en landningssida med samma namn i Design Studio importeras de fortfarande, men med ett nummer efter namnet (t.ex. landningssida - 1).
 
 **Bilder:** Bilder som används av landningssidor importeras till designstudion om det inte finns någon bild med samma namn.
 
@@ -75,10 +75,10 @@ Program använder externa resurser som e-postmallar, mallar för landningssidor,
 
 >[!CAUTION]
 >
->Bildtypen mina tokens stöds inte för programimporter. Om ett program som har bildtypen mina tokens importeras, **no** Token kommer fram.
+>Bildtypen mina tokens stöds inte för programimporter. Om ett program med bildtypen min token importeras, **no** Token kommer fram.
 
 **Programtaggar:** Du kan använda konfliktregler för att styra hur programtaggar som inte finns i destinationskontot behandlas. Om du använder standardregeln skapas programtaggarna, eller så kan du välja att ignorera taggarna.
 
 >[!CAUTION]
 >
->När du importerar ett program skickas e-postmeddelanden eller landningssidor som innehåller [dynamiskt innehåll](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) kommer att hoppas över.
+>Vid import av ett program skickas e-post/landningssidor som innehåller [dynamiskt innehåll](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"} kommer att hoppas över.
