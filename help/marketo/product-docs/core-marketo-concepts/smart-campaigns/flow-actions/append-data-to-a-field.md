@@ -4,9 +4,9 @@ description: Bifoga data i ett fält - Marketo Docs - produktdokumentation
 title: Lägg till data i ett fält
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Det finns ett enkelt sätt att lägga till data i ett fält. Så här gör du.
 
 >[!PREREQUISITES]
 >
->[Skapa en kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>[Skapa en kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}
 
 >[!NOTE]
 >
->Stegen nedan gäller även för [Ändra medlemsuppgifter för program](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md).
+>Stegen nedan gäller även för [Ändra medlemsuppgifter för program](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}.
 
-1. Under **Flöde** -fliken, dra i **Ändra datavärde** flödessteg.
+1. Under **[!UICONTROL Flow]** -fliken, dra i **[!UICONTROL Change Data Value]** flödessteg.
 
    ![](assets/image2014-9-22-16-3a5-3a1.png)
 

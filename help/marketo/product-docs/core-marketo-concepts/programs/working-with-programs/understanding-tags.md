@@ -4,16 +4,16 @@ description: Taggar - Marketo Docs - produktdokumentation
 title: Taggar
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
 # Taggar {#understanding-tags}
 
-Nu vet du antagligen att program är som byggstenar i Marketo. Genom att använda taggar och kanaler blir det lättare att filtrera data för rapportering.
+Nu vet du antagligen att program är som byggstenar i Marketo Engage. Genom att använda taggar och kanaler blir det lättare att filtrera data för rapportering.
 
 Taggar används för att beskriva program. Ni kan skapa så många ni behöver, var och en med unika värden. Kanaler identifierar leveransmekanismen i ett program, som webbinarium, sponsring eller online-annonsering.
 
@@ -23,7 +23,7 @@ Märkordstyper identifierar den typ av information som du vill sortera efter.
 
 >[!TIP]
 >
->Tala med [Marketo Admin](/help/marketo/product-docs/administration/tags/create-custom-tags.md) om du vill skapa egna taggar.
+>Kontakta din Marketo-administratör om du vill skapa [egna taggar](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ Varje taggtyp har värden att välja mellan.
 
 ## Kanal {#channel}
 
-Kanaler används för att rapportera hur [medlemmar](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) genom programmet. Varje kanal har en uppsättning status för progression och en status som är inställd på samma framgång.
+Kanaler används för att rapportera hur [medlemmar](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"} genom programmet. Varje kanal har en uppsättning status för progression och en status som är inställd på samma framgång.
 
 >[!NOTE]
 >
@@ -61,5 +61,5 @@ Kanaler används för att rapportera hur [medlemmar](/help/marketo/product-docs/
 
 >[!MORELIKETHIS]
 >
->* [Skapa egna taggar](/help/marketo/product-docs/administration/tags/create-custom-tags.md)
->* [Skapa en programkanal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)
+>* [Skapa egna taggar](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}
+>* [Skapa en programkanal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}

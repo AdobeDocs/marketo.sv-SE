@@ -4,9 +4,9 @@ description: Ta bort person - Marketo Docs - produktdokumentation
 title: Ta bort person
 exl-id: 40039444-9b2a-4b80-93bc-7da3d6e9475c
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -31,10 +31,10 @@ När du drar i flödessteget ställs den automatiskt in så att den även tas bo
 
 ![](assets/two-4.png)
 
-Du kan ta bort från Marketo och inte från CRM, till exempel:
+Du kan ta bort från Marketo Engage och inte från CRM, som:
 
 ![](assets/three-3.png)
 
 >[!NOTE]
 >
->Ta bort personen från CRM **fungerar endast med Salesforce**. Om du tar bort en person från Marketo och väljer att behålla den i Salesforce, återskapas personen i Marketo om deras Salesforce-post någonsin uppdateras.
+>Ta bort personen från CRM _fungerar bara med[!DNL Salesforce]_. Om du tar bort en person från Marketo och väljer att behålla den [!DNL Salesforce]kommer de att återskapas i Marketo om deras [!DNL Salesforce] posten uppdateras.

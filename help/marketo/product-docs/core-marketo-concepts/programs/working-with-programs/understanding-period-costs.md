@@ -4,9 +4,9 @@ description: Förstå periodkostnader - Marketo Docs - produktdokumentation
 title: Förstå periodkostnader
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ Periodkostnader avser de pengar du spenderar under en viss månad på ett progra
 >
 >**Exempel**
 >
->Om du spenderar 1 000 dollar på att anställa en illustratör till en e-bok som lanseras i juli, skulle e-boksprogrammet ha en periodkostnad på 1 000 dollar i juli.
+>Om du spenderar 1 000 dollar på att anställa en illustratör till en e-bok som lanseras i juli, skulle kostnaden för e-boksprogrammet bli 1 000 dollar i juli.
 >
->Om du spenderar 200 USD per månad på Google Adwords har Google Adwords-programmet en periodkostnad på 200 USD **varje månad**.
+>Om du spenderar 200 USD per månad på [!DNL Google Adwords] - [!DNL Google Adwords] skulle ha en periodkostnad på 200 dollar _varje månad_.
 
 >[!NOTE]
 >
@@ -39,7 +39,7 @@ Tänk dig en händelse, som ett webbinarium, som inträffar i mars. Nya människ
 
    ![](assets/graph1.png)
 
-   ...kontakter som lagts till under månaderna före och efter *endast* räkna mot mars.
+   ...kontakter som lagts till under månaderna före och efter kommer *endast* räkna mot mars.
 
    ![](assets/graph2.png)
 
@@ -47,7 +47,7 @@ Tänk dig en händelse, som ett webbinarium, som inträffar i mars. Nya människ
 
    ![](assets/graph3.png)
 
-   ...Kontakter som läggs till endast under månaderna efter mars räknas till mars.
+   ...kontakter som läggs till endast under månaderna efter mars räknas mot mars.
 
    ![](assets/graph4.png)
 
@@ -55,7 +55,7 @@ Tänk dig en händelse, som ett webbinarium, som inträffar i mars. Nya människ
 
    ![](assets/graph5.png)
 
-   ...Kontakter som läggs till under månaderna januari till mars räknas till januari. Kontakter som lagts till under månaderna april och maj räknas till april.
+   ...kontakter som lagts till under månaderna januari till mars räknas mot januari. Kontakter som lagts till under månaderna april och maj räknas till april.
 
    ![](assets/graph6.png)
 

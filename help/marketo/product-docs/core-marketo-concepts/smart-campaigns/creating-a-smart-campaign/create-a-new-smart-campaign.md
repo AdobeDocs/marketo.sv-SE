@@ -4,9 +4,9 @@ description: Skapa en ny smart kampanj - Marketo Docs - produktdokumentation
 title: Skapa en ny smart kampanj
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Smarta kampanjer är det viktigaste verktyget i Marketo Engage. De kan aktiveras
 >
 >Läs mer om [Smarta kampanjer](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/create-a-new-smart-campaign-1.png)
 
-1. Högerklicka på önskat program och välj **Ny smart kampanj**.
+1. Högerklicka på önskat program och välj **[!UICONTROL New Smart Campaign]**.
 
    ![](assets/create-a-new-smart-campaign-2.png)
 
@@ -31,11 +31,11 @@ Smarta kampanjer är det viktigaste verktyget i Marketo Engage. De kan aktiveras
    >
    >Ni kan skapa smarta kampanjer som lokala resurser i alla program.
 
-1. Ange namnet på den smarta kampanjen och klicka på **Skapa**.
+1. Ange namnet på den smarta kampanjen och klicka på **[!UICONTROL Create]**.
 
    ![](assets/create-a-new-smart-campaign-3.png)
 
-   Lär dig sedan definiera vilka personer som ska köras via den smarta kampanjen med en smart lista.
+   Läs sedan om hur du definierar vilka personer som ska köras via den smarta kampanjen med en smart lista.
 
    >[!MORELIKETHIS]
    >

@@ -4,9 +4,9 @@ description: Synkronisera en SFDC-kampanj med ett program - Marketo Docs - produ
 title: Synkronisera en SFDC-kampanj med ett program
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Med Marketo Engage kan du synkronisera dina program med [!DNL Salesforce] kampan
 
 >[!PREREQUISITES]
 >
->Du måste [enable [!DNL Salesforce] kampanjsynkronisering](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) först.
+>Du måste [enable [!DNL Salesforce] kampanjsynkronisering](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"} först.
 
 >[!CAUTION]
 >
@@ -35,11 +35,11 @@ Med Marketo Engage kan du synkronisera dina program med [!DNL Salesforce] kampan
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
-1. Välj **[!UICONTROL Create New]** eller välj en befintlig Salesforce-kampanj.
+1. Välj **[!UICONTROL Create New]** eller välja en befintlig [!DNL Salesforce] kampanj.
 
    >[!TIP]
    >
-   >Om du väljer en befintlig Salesforce-kampanj ska du se till att [matchar programstatusvärdena för Salesforce-kampanjen och Marketo-programmet](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
+   >Om du väljer en befintlig [!DNL Salesforce] kampanj, se till att [matchar programstatusvärdena för [!DNL Salesforce] kampanj och Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md){target="_blank"}.
 
 1. Ange ett namn för den nya kampanjen och klicka på **[!UICONTROL Save]**.
 
