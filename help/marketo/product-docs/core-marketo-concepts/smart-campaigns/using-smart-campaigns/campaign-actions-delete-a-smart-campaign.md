@@ -4,26 +4,26 @@ description: Kampanjåtgärder -Ta bort en smart kampanj - Marketo Docs - Produk
 title: Kampanjåtgärder -Ta bort en smart kampanj
 exl-id: 11a210c8-3375-4e12-a97f-a70a9115a197
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
 # Kampanjåtgärder: Ta bort en smart kampanj {#campaign-actions-delete-a-smart-campaign}
 
-Om du har en gammal smart kampanj som du inte längre behöver kan du ta bort den. Så här gör du.
+Om du har en gammal Smart Campaign som du inte längre behöver kan du ta bort den. Så här gör du.
 
 >[!CAUTION]
 >
 >Se till att du är säker innan du tar bort. När du har tagit bort en smart kampanj kan den inte återställas.
 
-1. Gå till **Marknadsföringsaktiviteter** område.
+1. Gå till **[!UICONTROL Marketing Activities]** område.
 
    ![](assets/campaign-actions-delete-a-smart-campaign-1.png)
 
-1. Navigera till din inaktiva smarta kampanj. I **Campaign** **Åtgärder** nedrullningsbar meny, välja **Ta bort**.
+1. Navigera till din inaktiva smarta kampanj. I **[!UICONTROL Campaign Actions]** nedrullningsbar meny, välja **[!UICONTROL Delete]**.
 
    ![](assets/campaign-actions-delete-a-smart-campaign-2.png)
 
@@ -31,10 +31,10 @@ Om du har en gammal smart kampanj som du inte längre behöver kan du ta bort de
    >
    >Lär dig hur du avbryter bearbetningen av en aktiv smart kampanj utan att ta bort den helt och hållet [avbryta en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
 
-1. Klicka **Ta bort** för att bekräfta.
+1. Klicka **[!UICONTROL Delete]** för att bekräfta.
 
    ![](assets/campaign-actions-delete-a-smart-campaign-3.png)
 
    >[!CAUTION]
    >
-   >Gör **NOT** ta bort en aktiv smart kampanj med personer i flödesstegen. Kampanjen kommer troligtvis fortfarande att genomföras.
+   >Ta INTE bort en aktiv smart kampanj med personer i flödesstegen. Kampanjen kommer troligtvis fortfarande att genomföras.

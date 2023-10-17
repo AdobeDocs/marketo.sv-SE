@@ -4,9 +4,9 @@ description: Avbryt en schemalagd batchkampanjkörning - Marketo Docs - produktd
 title: Avbryt en schemalagd batchkampanjkörning
 exl-id: 4bdffdcc-d654-40d1-a316-5ed05fc1b7f4
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Om du har schemalagt en körning för en av dina gruppkampanjer och vill avbryta den, så här gör du.
 
-1. Välj kampanjen och gå till **Schema** -fliken.
+1. Välj kampanjen och gå till **[!UICONTROL Schedule]** -fliken.
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-1.png)
 
@@ -23,7 +23,7 @@ Om du har schemalagt en körning för en av dina gruppkampanjer och vill avbryta
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-2.png)
 
-1. Bekräfta annulleringen genom att klicka på **OK**.
+1. Bekräfta annulleringen genom att klicka på **[!UICONTROL OK]**.
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-3.png)
 

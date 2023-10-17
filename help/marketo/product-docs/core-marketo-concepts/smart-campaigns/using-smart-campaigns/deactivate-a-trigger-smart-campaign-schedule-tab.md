@@ -4,9 +4,9 @@ description: Inaktivera en utlösare för smart kampanj | Fliken Schema - Market
 title: Inaktivera en utlösare för smart kampanj | Fliken Schema
 exl-id: 59138811-c963-4c4d-9513-b3e12e8e9e38
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
@@ -19,14 +19,14 @@ Om du har en gammal utlösarkampanj som du behöver inaktivera gör du så här:
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-1.png)
 
-1. Under fliken Schema klickar du på **Inaktivera**.
+1. Klicka på fliken Schema **[!UICONTROL Deactivate]**.
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-2.png)
 
-1. Bekräfta genom att klicka **Inaktivera**.
+1. Bekräfta genom att klicka **[!UICONTROL Deactivate]**.
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-3.png)
 
 >[!NOTE]
 >
->Detta kommer att upphöra *new* personer kommer in i flödet, men personer i väntesteg eller andra flödessteg fortsätter att gå igenom flödet tills det är klart.
+>Detta kommer att upphöra _new_ personer kommer in i flödet, men personer i väntesteg eller andra flödessteg fortsätter att gå igenom flödet tills det är klart.

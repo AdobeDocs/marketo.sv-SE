@@ -4,30 +4,30 @@ description: Flytta en smart kampanj - Marketo Docs - produktdokumentation
 title: Flytta en smart kampanj
 exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
 # Flytta en smart kampanj {#move-a-smart-campaign}
 
-Flytta en smart kampanj mellan olika program eller mappar genom att dra och släppa eller flytta i trädet. Reglerna för er smarta kampanj kommer inte att ändras, utan bara kapslas på en annan plats.
+Flytta en smart kampanj mellan olika program eller mappar genom att dra och släppa eller flytta i trädet. Reglerna för Smart Campaign kommer inte att ändras, utan bara kapslas på en annan plats.
 
 >[!CAUTION]
 >
->Eftersom reglerna inte ändras måste du uppdatera informationen manuellt för att återspegla det nya programmet om kampanjens smarta lista eller flödessteg refererar till det ursprungliga programmet, eftersom det **not** automatisk uppdatering.
+>Eftersom reglerna inte ändras måste du uppdatera informationen manuellt för att återspegla det nya programmet om kampanjens smarta lista eller flödessteg refererar till det ursprungliga programmet, eftersom det _not_ automatisk uppdatering.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/move-a-smart-campaign-1.png)
 
-1. Leta reda på den smarta kampanj du vill flytta, högerklicka på den och välj **Flytta**.
+1. Leta reda på den smarta kampanj du vill flytta, högerklicka på den och välj **[!UICONTROL Move]**.
 
    ![](assets/move-a-smart-campaign-2.png)
 
-1. Välj **Till** (destination), **Program** och valfritt **Mapp**. Välj **Flytta**.
+1. Välj **[!UICONTROL To]** (destination), **[!UICONTROL Program]**, och valfritt **[!UICONTROL Folder]**. Välj **[!UICONTROL Move]**.
 
    ![](assets/move-a-smart-campaign-3.png)
 
