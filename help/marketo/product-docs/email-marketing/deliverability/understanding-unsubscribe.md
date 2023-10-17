@@ -1,23 +1,19 @@
 ---
 unique-page-id: 7514918
 description: Så här säger du upp prenumerationen - Marketo Docs - produktdokumentation
-title: Om att avbryta prenumerationen
+title: Så här säger du upp prenumerationen
 exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
-# Om att avbryta prenumerationen {#understanding-unsubscribe}
+# Så här säger du upp prenumerationen {#understanding-unsubscribe}
 
 Det finns faktiskt flera olika typer av inbyggda prenumerationer i Marketo. De representeras alla av fält på personobjektet, precis som förnamn.
-
->[!NOTE]
->
->Marketo håller på att ändra termer som Blacklist och Whitelist för att Blocklist och Tillåtslista i vår produkt. Under den här uppdateringen kan du se de gamla villkoren i våra användargränssnitt och skärmbilder för dokumentation samt de nya villkoren i vår dokumentationstext. Vi ber om ursäkt för all förvirring.
 
 Alla dessa fält är inbyggda i din Marketo-prenumeration. De är alla boolesk (kryssrutetyp). De kan användas i Forms eller [Ändra datavärde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) flödessteg.
 

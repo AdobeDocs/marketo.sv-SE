@@ -4,9 +4,9 @@ description: Använd inbyggda/systemsmarta listor - Marketo Docs - produktdokume
 title: Använd inbyggda/systemsmarta listor
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 0%
 # Använd inbyggda/systemsmarta listor {#use-built-in-system-smart-lists}
 
 Marketo har några användbara smarta listor. Vi kollar dem!
-
->[!NOTE]
->
->Marketo håller på att ändra termer som Blacklist och Whitelist för att Blocklist och Tillåtslista i vår produkt. Under den här uppdateringen kan du se de gamla villkoren i våra användargränssnitt och skärmbilder för dokumentation samt de nya villkoren i vår dokumentationstext. Vi ber om ursäkt för all förvirring.
 
 1. Gå till **Databas**.
 
@@ -27,21 +23,21 @@ Marketo har några användbara smarta listor. Vi kollar dem!
 
    ![](assets/two.png)
 
-1. Så här ser du ett exempel: Välj **Alla personer** klickar du på **Folk** -fliken.
+1. Så här ser du ett exempel: Välj **Alla personer** och klickar sedan på **Folk** -fliken.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Filtren i systemsmarta listor behöver inte tillämpas på varje smart lista/kampanj. Deras innehåll känns igen automatiskt.
+   >Filtren i systemsmarta listor behöver inte tillämpas på varje smart lista/kampanj. Innehållet i dem känns igen automatiskt.
 
 Här följer en sammanfattning av vad de inbyggda smarta listorna gör:
 
 | Listnamn | Beskrivning |
 |---|---|
 | Alla personer | Alla personer i din Marketo-databas |
-| Avbeställ | Dessa personer kan endast få operativa e-postmeddelanden; Detta kontrolleras vanligtvis av personen själv. |
-| Marknadsföring har pausats | Dessa personer kan endast få operativa e-postmeddelanden; Detta kontrolleras vanligtvis av dig, marknadsföraren. |
+| Avbeställ | Dessa personer kan endast skickas operativa e-postmeddelanden. Detta styrs vanligtvis av personen själv. |
+| Marknadsföring har pausats | Dessa personer kan bara skickas operativa e-postmeddelanden. Detta styrs vanligtvis av dig, marknadsföraren. |
 | Blockeringslista | De här personerna kommer inte att få något e-postmeddelande alls. |
 | Avrundade e-postadresser | Personer med en olevererbar e-postadress eller som avvisar din e-postadress. |
 | Möjliga dubbletter | Personer som kan vara duplicerade i Marketo-databasen. |

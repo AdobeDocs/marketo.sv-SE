@@ -4,9 +4,9 @@ description: Ändra programstatus - Marketo Docs - produktdokumentation
 title: Ändra programstatus
 exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Översikt {#overview}
 
-Programstatus hjälper dig att hålla reda på hur människor utvecklas genom ett program eller en händelse. Mer information finns i [Anpassa, skapa och hantera kanaler](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+Programstatus hjälper dig att hålla reda på hur människor utvecklas genom ett program eller en händelse. Mer information finns i [Anpassa, skapa och hantera kanaler](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
 >[!CAUTION]
 >
@@ -23,11 +23,11 @@ Programstatus hjälper dig att hålla reda på hur människor utvecklas genom et
 
 ## Användning {#usage}
 
-1. Dra i **Ändra programstatus** flödessteg.
+1. Dra i **[!UICONTROL Change Program Status]** flödessteg.
 
    ![](assets/image2014-9-22-14-3a43-3a34.png)
 
-1. Välj **Ny status** som du vill ange. Personen blir också medlem i programmet om de inte redan är det.
+1. Välj **[!UICONTROL New Status]** som du vill ange. Personen blir också medlem i programmet om de inte redan är det.
 
    ![](assets/image2014-9-22-14-3a43-3a45.png)
 
@@ -37,4 +37,4 @@ Alternativen är begränsade till giltiga statusvärden för det programmet.
 >
 >En person kan inte gå bakåt till en tidigare programstatus som definierats i kanalredigeraren i Admin.
 
-Statuser är kraftfulla verktyg för att hålla reda på människor och för rapportering. Det är värt din tid.
+Statuser är kraftfulla verktyg för att hålla reda på människor och för rapportering.

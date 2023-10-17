@@ -4,26 +4,22 @@ description: Synkronisera person till SFDC - Marketo Docs - Produktdokumentation
 title: Synkronisera person till SFDC
 exl-id: 4284ec35-6ac5-4084-beb7-976eb6fd7e3c
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
 # Synkronisera person till SFDC {#sync-person-to-sfdc}
 
->[!NOTE]
->
->Endast tillgängligt när det är integrerat med Salesforce.
-
-## Översikt {#overview}
-
 Det här flödessteget infogar personer som skapats av Marketo som leads i Salesforce CRM.
 
 ![](assets/sync-person-to-sfdc.png)
 
-## Användning {#usage}
+>[!NOTE]
+>
+>Endast tillgängligt när det är integrerat med Salesforce.
 
 1. Som standard tilldelas ledande ägare i det här flödessteget baserat på Salesforce-reglerna för automatisk tilldelning.
 

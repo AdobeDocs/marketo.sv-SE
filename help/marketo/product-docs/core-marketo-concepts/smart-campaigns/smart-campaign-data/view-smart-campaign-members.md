@@ -4,22 +4,22 @@ description: Visa medlemmar i smarta kampanjer - Marketo Docs - produktdokumenta
 title: Visa medlemmar i smarta kampanjer
 exl-id: 027d93a9-f838-4f96-80d6-7bf6ee1cc03d
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
 # Visa medlemmar i smarta kampanjer {#view-smart-campaign-members}
 
-Se personer som redan har gått igenom det smarta kampanjflödet. dvs. medlemmar i smarta kampanjer.
+Visa personer som redan har gått igenom Smart Campaign-flödet, dvs. medlemmar i Smart Campaign.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
 ![](assets/login-marketing-activities.png)
 
-1. Klicka på **Visa kampanjmedlemmar**.
+1. I din smarta kampanj klickar du på **[!UICONTROL View Campaign Members]**.
 
    ![](assets/changescore-hands.png)
 
@@ -27,7 +27,7 @@ Se personer som redan har gått igenom det smarta kampanjflödet. dvs. medlemmar
 >
 >Ni kan visa kampanjmedlemmar var ni än befinner er i en smart kampanj.
 
-1. The **Kampanjmedlemmar** -fliken visar personer som redan har gått igenom det smarta kampanjflödet.
+1. The **[!UICONTROL Campaign Members]** -fliken visar personer som redan har gått igenom Smart Campaign-flödet.
 
    ![](assets/smartcampaignheader-complete.jpg)
 
@@ -37,4 +37,4 @@ Se personer som redan har gått igenom det smarta kampanjflödet. dvs. medlemmar
 
    >[!MORELIKETHIS]
    >
-   >[Visa blockerade personer i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
+   >[Visa blockerade personer i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md){target="_blank"}

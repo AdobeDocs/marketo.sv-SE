@@ -4,10 +4,10 @@ description: Change Engagement Program Stream - Marketo Docs - produktdokumentat
 title: Change Engagement Program Stream
 exl-id: 1b8dd04b-3af8-4733-b630-b06c4b06bb75
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Översikt {#overview}
 
-Normalt använder du [regler för direktövergång](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) för att uppnå detta, men om du vill flytta personer manuellt från en ström till en annan, är detta det flödessteg som ska användas.
+Normalt använder du [regler för direktövergång](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) för att uppnå detta. Men om du vill flytta personer manuellt från en ström till en annan, är det här flödessteget som ska användas.
 
 ![](assets/image2014-9-22-14-3a52-3a14.png)
 

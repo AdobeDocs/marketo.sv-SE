@@ -3,9 +3,9 @@ description: Change Program Member Data - Marketo Docs - Product Documentation
 title: Ändra medlemsuppgifter för program
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Du kan använda Marketo för att uppdatera ett fälts värde med hjälp av åtg�
 >
 >Du kan också blockera ett fält så att det inte uppdateras. Mer information finns i Blockera uppdateringar till ett fält.
 
-1. På fliken för Smart Campaign kan du ta fram **Ändra medlemsuppgifter för program** och välj önskat program.
+1. På fliken för Smart Campaign-flöde tar du fram **[!UICONTROL Change Program Member Data]** och välj önskat program.
 
    ![](assets/change-program-member-data-1.png)
 
@@ -32,15 +32,15 @@ Du kan använda Marketo för att uppdatera ett fälts värde med hjälp av åtg�
 
 >[!NOTE]
 >
->Du kan också använda variabler i Nytt värde.
+>Du kan också använda variabler i [!UICONTROL New Value].
 
 Kör nu bara Smart Campaign, så är du klar!
 
 >[!TIP]
 >
->Om du vill rensa fälten i stället för att uppdatera dem kan du ange &quot;NULL&quot; (inga citattecken, versaler) som nytt värde.
+>Om du vill rensa fälten i stället för att uppdatera dem kan du ange &quot;NULL&quot; (inga citattecken, versaler) som [!UICONTROL New Value].
 
 >[!MORELIKETHIS]
 >
->* [Använd token i flödessteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
->* [Lägg till data i ett fält](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
+>* [Använd token i flödessteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}
+>* [Lägg till data i ett fält](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md){target="_blank"}

@@ -4,9 +4,9 @@ description: Marketo Engage-ordlista - Marketo Docs - produktdokumentation
 title: Marketo Engage - ordlista
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 feature: Getting Started
-source-git-commit: 096936c8bc94bbbfc5213a6b45913b300f547b90
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '4176'
+source-wordcount: '4128'
 ht-degree: 0%
 
 ---
@@ -118,10 +118,6 @@ Nedan finns definitioner för många av termerna som du kan stöta på när du a
   </tr> 
  </tbody> 
 </table>
-
->[!NOTE]
->
->Marketo håller på att ändra termer som Blacklist och Whitelist för att Blocklist och Tillåtslista i vår produkt. Under den här uppdateringen kan du se de gamla villkoren i våra användargränssnitt och skärmbilder för dokumentation samt de nya villkoren i vår dokumentationstext. Vi ber om ursäkt för all förvirring.
 
 ## C {#c}
 
