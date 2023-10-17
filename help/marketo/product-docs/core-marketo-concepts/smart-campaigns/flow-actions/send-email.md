@@ -4,10 +4,10 @@ description: Skicka e-post - Marketo Docs - produktdokumentation
 title: Skicka e-post
 exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 0%
+source-wordcount: '92'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Översikt {#overview}
 
-The **Skicka e-post** Flödessteget kan användas som en del av kampanjer eller som ett enda flödessteg för att skicka e-post till medarbetarna.
+The &quot;[!UICONTROL Send Email]&quot; kan användas som en del av kampanjer eller som ett enda flödessteg för att skicka e-post till era medarbetare.
 
 ![](assets/image2014-9-22-10-3a8-3a11.png)
 
@@ -29,7 +29,7 @@ Du kan förhandsgranska det valda e-postmeddelandet direkt från flödessteget.
 
    >[!NOTE]
    >
-   >E-postmeddelandet måste godkännas om du vill välja det i flödessteget.
+   >Din e-postadress måste godkännas om du vill välja den i flödessteget.
 
 1. Klicka på förhandsgranskningsikonen för att visa det markerade e-postmeddelandet.
 

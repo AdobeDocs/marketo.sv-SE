@@ -4,9 +4,9 @@ description: Använd en datumtoken i ett vänteflödessteg - Marketo Docs - prod
 title: Använd en datumtoken i ett vänteflödessteg
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,17 @@ Du kan använda steget Väntflöde för att pausa en persons resa genom en smart
 
 >[!NOTE]
 >
->Detta gäller endast utlösande kampanjer. Du kan inte använda den här funktionen i gruppkampanjer.
+>Detta gäller endast utlösarkampanjer. Du kan inte använda den här funktionen i gruppkampanjer.
 
-1. I er smarta kampanj **Flöde** tabb, dra över **Vänta** flödessteg.
+1. I din smarta kampanj **[!UICONTROL Flow]** tabb, dra över **[!UICONTROL Wait]** flödessteg.
 
    ![](assets/image2014-9-22-14-3a8-3a22.png)
 
-1. Klicka på kugghjulsikonen till höger.
+1. Klicka på kugghjulet.
 
    ![](assets/image2014-9-22-14-3a8-3a37.png)
 
-1. Från **Typ** nedrullningsbar meny, välja **Datumtoken**.
+1. Från **[!UICONTROL Type]** nedrullningsbar meny, välja **[!UICONTROL Date Token]**.
 
    ![](assets/image2014-9-22-14-3a8-3a41.png)
 
@@ -56,11 +56,11 @@ Du kan använda steget Väntflöde för att pausa en persons resa genom en smart
    >
    >Du kan också ange antalet dagar med en `{{lead.` eller `{{company.` token som representerar ett heltalsfält, eller en `{{my.` token av nummertyp.
 
-1. Klicka **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-22-14-3a11-3a3.png)
 
    >[!MORELIKETHIS]
    >
-   >* [Använd en varaktighet i ett vänteflödessteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
-   >* [Använd ett specifikt datum i ett vänteflödessteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
+   >* [Använd en varaktighet i ett vänteflödessteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md){target="_blank"}
+   >* [Använd ett specifikt datum i ett vänteflödessteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md){target="_blank"}

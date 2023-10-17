@@ -3,9 +3,9 @@ description: Kör kampanj - Marketo Docs - produktdokumentation
 title: Kör kampanj
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '709'
+source-wordcount: '701'
 ht-degree: 0%
 
 ---
@@ -32,17 +32,17 @@ Execute Campaign är en förbättring vid [Begär kampanj](/help/marketo/product
 
 ## Så här skapar du en körbar kampanj {#how-to-create-an-executable-campaign}
 
-1. Högerklicka på önskat program och välj **Ny smart kampanj**.
+1. Högerklicka på önskat program och välj **[!UICONTROL New Smart Campaign]**.
 
    ![](assets/execute-campaign-1.png)
 
-1. Ge den ett namn, välj **Körbar** och klicka **Skapa**.
+1. Ge den ett namn, välj **[!UICONTROL Executable]** och klicka **[!UICONTROL Create]**.
 
    ![](assets/execute-campaign-2.png)
 
 1. Definiera Smart List och Flow, precis som andra smarta kampanjer.
 
-Du kan också klona en befintlig smart kampanj. Om du klonar en befintlig körbar kampanj måste du ändå välja **Körbar** efter namngivning.
+Du kan också klona en befintlig smart kampanj. Om du klonar en befintlig körbar kampanj måste du ändå välja **[!UICONTROL Executable]** efter namngivning.
 
 >[!NOTE]
 >
@@ -73,11 +73,11 @@ Vid användning av Schedule eller Request Campaign [i API:t](https://developers.
 
 >[!CAUTION]
 >
->Lämna aldrig dina smarta listor för körbara kampanjer ogiltiga, annars **ingen** kvalificerar sig för det. Det bästa sättet är att skapa separata resurser för smarta listor, definiera dem helt och se till att de är giltiga. Använd sedan filtret&quot;Medlem i smart lista&quot; i den körbara kampanjen så att du kan byta ut din smarta listdefinition.
+>Lämna aldrig dina smarta listor för körbara kampanjer ogiltiga, annars _ingen_ kvalificerar sig för det. Det bästa sättet är att skapa separata resurser för smarta listor, definiera dem helt och se till att de är giltiga. Använd sedan filtret&quot;Medlem i smart lista&quot; i den körbara kampanjen så att du kan byta ut din smarta listdefinition.
 
 ## Exempel på tokenarv {#token-inheritance-example}
 
-Nedan visas ett visuellt exempel på tokenarv i en körbar kampanj och två överordnade kampanjer: en med tokenkontext inställd på **True**, den andra till **Falskt**.
+Nedan visas ett visuellt exempel på tokenarv i en körbar kampanj och två överordnade kampanjer: en med tokenkontext inställd på **[!UICONTROL True]**, den andra till **[!UICONTROL False]**.
 
 Underordnad kampanj med en tokeniserad Change Score.
 
@@ -87,7 +87,7 @@ Barnets kampanj är Mina token.
 
 ![](assets/execute-campaign-4.png)
 
-**Exempel ett - sant**
+### Exempel ett - sant {#example-one-true}
 
 I steget Kör kampanjflöde i den första överordnade kampanjen ställs kontexten för Använd överordnad kampanjtoken in på **True**.
 
@@ -101,7 +101,7 @@ Resultat: bakgrundsmusik ändrad med +10.
 
 ![](assets/execute-campaign-7.png)
 
-**Exempel två: Falskt**
+### Exempel två: Falskt {#example-two-false}
 
 I steget Kör kampanjflöde i den andra överordnade kampanjen har kontexten Använd överordnad kampanjtoken satts till **Falskt**.
 

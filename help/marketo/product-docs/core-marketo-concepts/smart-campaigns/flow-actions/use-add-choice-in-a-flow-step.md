@@ -4,9 +4,9 @@ description: Använd Lägg till val i ett flödessteg - Marketo Docs - produktdo
 title: Använd Lägg till alternativ i ett flödessteg
 exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Lägg till ett flödessteg i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+>[Lägg till ett flödessteg i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
 
-**Lägg till alternativ** I kan du använda ett flödessteg och säga&quot;Det beror&quot; när du väljer detaljer.
+Med Lägg till alternativ kan du använda ett flödessteg och säga att det är beroende när du väljer detaljerna.
 
-1. Under **Flöde** lägg till ett flödessteg och klicka sedan på **Lägg till alternativ**.
+1. Under **[!UICONTROL Flow]** Lägg till ett flödessteg och klicka sedan på **[!UICONTROL Add Choice]**.
 
    ![](assets/image2014-9-22-11-3a58-3a20.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Tokens kommer att **not** arbeta i villkorsdelen av ett urvalsflödessteg.
+   >Tokens kommer att _not_ arbeta i villkorsdelen av ett urvalsflödessteg.
 
 1. Upprepa stegen ovan för att lägga till flera alternativ och lägg sedan till/justera standardvärdet.
 
@@ -49,10 +49,10 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Endast det första matchande alternativet används för flödessteget. Lär dig hur  [ändra ordning på&quot;Lägg till val&quot; i en flödesåtgärd](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md).
+   >Endast det första matchande alternativet används för flödessteget. Lär dig hur [ändra ordning på&quot;Lägg till val&quot; i en flödesåtgärd](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"}.
 
-   Bra! Nu kan ni skapa en enda smart kampanj med alternativ för flödessteg i stället för att skapa flera smarta kampanjer för varje val.
+   Bra! Nu kan ni skapa en enda smart kampanj med flödesstegalternativ i stället för att skapa flera smarta kampanjer för varje val.
 
    >[!MORELIKETHIS]
    >
-   >[Ändra ordning på Lägg till alternativ i ett flödessteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md)
+   >[Ändra ordning på Lägg till alternativ i ett flödessteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"}

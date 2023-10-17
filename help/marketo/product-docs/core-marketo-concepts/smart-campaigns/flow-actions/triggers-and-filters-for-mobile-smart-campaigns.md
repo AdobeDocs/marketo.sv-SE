@@ -4,9 +4,9 @@ description: Utlösare och filter för smarta mobilkampanjer - Marketo Docs - pr
 title: Utlösare och filter för smarta mobilkampanjer
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '823'
+source-wordcount: '820'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Du kan ställa in utlösare och filter för en smart kampanj för mobilappar.
 
-För de flesta aktiviteter finns det en utlösare, ett filter och ett inaktivitetsfilter. Använd inaktivitetsfilter för att spåra en åtgärd, som att trycka på ett push-meddelande, som *inte* inträffar.
+För de flesta aktiviteter finns det en utlösare, ett filter och ett inaktivitetsfilter. Använd inaktivitetsfilter för att spåra en åtgärd, som att trycka på ett push-meddelande, som _inte_ inträffar.
 
 * Mobilappen är/har installerats
 * Mobilappen har öppnats/öppnats
@@ -27,7 +27,7 @@ Det finns bara filter för den här aktiviteten:
 
 * Skickades push-meddelande - filter och inaktivitetsfilter
 
-Sök efter **mobilapp** i den högra panelen för att lista alla mobilappsutlösare och -filter.
+Sök efter&quot;mobilapp&quot; i den högra panelen om du vill visa en lista över alla utlösare och filter för mobilappen.
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-1.png)
 
@@ -47,7 +47,7 @@ Vissa utlösare och filter har ytterligare begränsningar, till exempel:
 
 * Appversion - Ett sätt att rikta sig till personer som inte har den senaste versionen. Om den senaste programversionen till exempel är 2.0 kan du använda den för att hitta personer som INTE finns i programversion 2.0
 
-* Installationskälla - Det enda alternativet är API
+* Installationskälla - För närvarande är det enda alternativet API
 
 * Språk - Inställningen på enheten
 
@@ -57,7 +57,7 @@ Vissa utlösare och filter har ytterligare begränsningar, till exempel:
 
 * Sessionslängd (sekunder) - Sessionstid när programmet är i förgrunden
 
-* Är push-aktiverad - **True** innebär att push-meddelanden kan skickas. **Falskt** betyder att de inte kan det, personen kan till exempel ha avanmält sig från att ta emot push-meddelanden
+* Är push-aktiverad - **True** innebär att push-meddelanden kan skickas. **Falskt** innebär att de inte kan det, till exempel kan personen ha avanmält sig från att ta emot push-meddelanden
 
 ## Utlösare och filter {#triggers-and-filters}
 
@@ -103,7 +103,7 @@ Mobilappen har öppnats/öppnats
 
 Har/haft aktivitet för mobilappar
 
-Dessa är ett kraftfullt sätt att spåra anpassad mobilaktivitet. Du måste arbeta med utvecklaren för att ställa in spårning [för Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android) och [för iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
+Dessa är ett kraftfullt sätt att spåra anpassad mobilaktivitet. Du måste arbeta med utvecklaren för att ställa in spårning [för Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android){target="_blank"} and [for iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios){target="_blank"}.
 
 * Har aktivitet för mobilappar - utlösare
 
@@ -192,5 +192,5 @@ Tryck/tryck på push-meddelande
 
 >[!MORELIKETHIS]
 >
->* [Lägga till en begränsning i ett smart listfilter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
->* [Använd inaktivitetsfilter i en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
+>* [Lägga till en begränsning i ett smart listfilter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
+>* [Använd inaktivitetsfilter i en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}

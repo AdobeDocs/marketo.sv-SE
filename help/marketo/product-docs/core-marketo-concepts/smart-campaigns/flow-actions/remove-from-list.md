@@ -4,10 +4,10 @@ description: Ta bort från lista - Marketo Docs - produktdokumentation
 title: Ta bort från lista
 exl-id: ec837329-f904-47ea-b276-a0f7becdcc75
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
 source-wordcount: '49'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ## Översikt {#overview}
 
-Eftersom du har möjlighet att [Lägg till i listan](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)behöver du också ett sätt att ta bort personer från listor.
+Eftersom du kan [Lägg till i listan](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}behöver du också ett sätt att ta bort personer från listor.
 
 ![](assets/image2014-9-22-10-3a44-3a3.png)
 
 ## Användning {#usage}
 
-1. Sök och välj **Lista** du vill att personerna ska tas bort från.
+1. Sök efter och markera den lista som du vill att personerna ska tas bort från.
 
    ![](assets/image2014-9-22-10-3a44-3a7.png)
 

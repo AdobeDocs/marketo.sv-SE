@@ -3,9 +3,9 @@ description: Flow Step Service - Marketo Docs - produktdokumentation
 title: Flödesstegstjänst
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '1220'
+source-wordcount: '1206'
 ht-degree: 0%
 
 ---
@@ -16,19 +16,19 @@ Självbetjäningsflödessteg är ett ramverk och en uppsättning funktioner för
 
 ## Onboarding och Managing Services {#onboarding-and-managing-services}
 
-För installation av ett anpassat flödessteg krävs administratörsbehörighet i Marketo (**Hantera webbhotell** i den 21 januari (Changing in the March 11th release). Förutom installations-URL:en kan alla andra aspekter av en tjänst redigeras efter att den initiala introduktionen har slutförts genom att detaljnivån för tjänsten har hämtats från Service Providers-rutnätet.
+Administratörsbehörighet krävs i Marketo för att installera ett anpassat flödessteg. Förutom installations-URL:en kan alla andra aspekter av en tjänst redigeras efter att den initiala introduktionen har slutförts genom att detaljnivån för tjänsten har hämtats från Service Providers-rutnätet.
 
 ## Installations-URL {#installation-url}
 
 För att kunna påbörja installationen måste du först hämta URL:en för det OpenAPI-dokument som definierar tjänsten. Din tjänsteleverantör bör kunna ge dig detta och har vanligtvis en URL som slutar på `/openapi.json`. Fullständiga URL:er ser ut ungefär som `https://www.example.com/OpenAPI.json`. När du har den här URL:en går du till menyn Tjänsteleverantörer i ditt Admin Section.
 
-Klicka **Nästa** om du vill gå till sektionen Ange inloggningsuppgifter för tjänsten.
+Klicka **[!UICONTROL Next]** om du vill gå till sektionen Ange inloggningsuppgifter för tjänsten.
 
 ![](assets/flow-step-service-1.png)
 
 ## Ange autentiseringsuppgifter för tjänsten {#enter-service-credentials}
 
-Marketo måste ha giltiga API-autentiseringsuppgifter för att komma åt den tjänst som installeras. Dessa inloggningsuppgifter bör du få från din tjänsteleverantör. Tjänsterna har tre olika autentiseringsalternativ, så du kan se en av tre olika autentiseringsuppgifter: **API-nyckel** som bara har ett inmatningsfält, **Grundläggande autentisering** som kräver ett användarnamn och lösenord och som också kan kräva ett fält som heter Realm, och **OAuth2** med _Klientautentiseringsuppgifter_ bidrag, vilket kräver _Klient-ID_ och _Klienthemlighet_.
+Marketo måste ha giltiga API-autentiseringsuppgifter för att komma åt den tjänst som installeras. Dessa inloggningsuppgifter bör du få från din tjänsteleverantör. Tjänsterna har tre olika autentiseringsalternativ, så du kan se en av tre olika autentiseringsuppgifter: **API-nyckel** som bara har ett inmatningsfält, **Grundläggande autentisering** som kräver ett användarnamn och lösenord och kan kräva ett fält som heter Realm, och **OAuth2** med _Klientautentiseringsuppgifter_ bidrag, vilket kräver _Klient-ID_ och _Klienthemlighet_.
 
 När du sparar dina inloggningsuppgifter försöker Marketo anropa tjänstens statusslutpunkt för att verifiera att de är giltiga. Om de angivna autentiseringsuppgifterna är ogiltiga visas ett felmeddelande om detta.
 
@@ -68,7 +68,7 @@ Inkommande fält är de som tjänsten Flow Step kan skriva data till.
 
 ## Konfigurationsalternativ (valfritt) {#configuration-options}
 
-Vissa tjänster har antingen valfria eller obligatoriska globala konfigurationsalternativ. Om något av alternativen krävs måste ett värde anges för alla nödvändiga alternativ innan du sparar eller slutför introduktionen. Parametrar vars namn är i kursiv stil skickas till den anropade tjänsten som rubriker.
+Vissa tjänster har antingen valfria eller obligatoriska globala konfigurationsalternativ. Om något av alternativen är obligatoriskt måste du ange ett värde för alla nödvändiga alternativ innan du sparar eller slutför introduktionen. Parametrar vars namn är i kursiv stil skickas till den anropade tjänsten som rubriker.
 
 ![](assets/flow-step-service-4.png)
 
@@ -78,7 +78,7 @@ För att underlätta övergången till nya eller alternativa versioner av en tj�
 
 ## Borttagning av tjänst {#service-deprecation}
 
-Ibland måste tryckeriet ersätta stegvisa tjänster som en normal del av programvarans livscykel. När en tjänsteleverantör meddelar detta fylls borttagningsdatumet och meddelandet i i rutnätsvyn för tjänsteleverantörer. Om du fortsätter att använda en tjänst som har blivit inaktuell kan det leda till avbrott i tjänsten om den inte längre svarar på förväntat sätt, eller slutar ta emot begäranden från Marketo Smart Campaigns, så du bör vara uppmärksam på eventuella meddelanden om borttagning av tjänst som du får och vidta lämpliga åtgärder för att ta bort eller ersätta åtgärder från tjänsten som fortfarande används.
+Ibland måste tryckeriet ta bort stegvisa tjänster som en normal del av programvarans livscykel. När en tjänsteleverantör meddelar detta fylls borttagningsdatumet och meddelandet i i rutnätsvyn för tjänsteleverantörer. Om du fortsätter att använda en tjänst som har blivit inaktuell kan det leda till avbrott i tjänsten om den inte längre svarar på förväntat sätt, eller slutar ta emot begäranden från Marketo Smart Campaigns, så du bör vara uppmärksam på eventuella meddelanden om borttagning av tjänst som du får och vidta lämpliga åtgärder för att ta bort eller ersätta åtgärder från tjänsten som fortfarande används.
 
 ## Använda tredjeparts- och anpassade flödessteg {#using-third-party-and-custom-flow-steps}
 

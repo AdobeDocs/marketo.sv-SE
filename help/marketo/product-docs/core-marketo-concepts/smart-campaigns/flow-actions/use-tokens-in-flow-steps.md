@@ -4,7 +4,7 @@ description: Använd token i flödessteg - Marketo Docs - produktdokumentation
 title: Använd token i flödessteg
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Lägg till ett flödessteg i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+>[Lägg till ett flödessteg i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
 
-En variabel är en variabel. Ni använder det i e-postmeddelanden, landningssidor och smarta kampanjer för att göra livet enklare. Du kan använda [Mina token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (egna tokens) i flödessteg, webbhooks, e-post och landningssidor. Du kan använda variabler för att inkludera variabelt innehåll i dessa flödessteg:
+En variabel är en variabel. Ni använder det i e-postmeddelanden, landningssidor och smarta kampanjer för att göra livet enklare. Du kan använda [Mina token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (egna tokens) i flödessteg, webbhooks, e-post och landningssidor. Du kan använda variabler för att inkludera variabelt innehåll i dessa flödessteg:
 
 * Ändra datavärde
 * Ändra medlemsuppgifter för program
@@ -32,7 +32,7 @@ En variabel är en variabel. Ni använder det i e-postmeddelanden, landningssido
 
    >[!NOTE]
    >
-   >Checka ut [Översikt över token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) om du vill se en lista över flera tillgängliga token.
+   >Checka ut [Översikt över token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} om du vill se en lista över flera tillgängliga token.
 
 1. Fortsätt skriva tills du hittar den variabel du vill ha och klicka för att välja.
 
@@ -44,11 +44,11 @@ En variabel är en variabel. Ni använder det i e-postmeddelanden, landningssido
 
    >[!NOTE]
    >
-   >Anpassade fälttoken för programmedlem kan användas i: Skapa aktivitet, Skapa aktivitet i Microsoft, intressanta ögonblick, Ändra datavärdesåtgärder och webbhooks.
+   >Token för anpassade fält för programmedlemmar kan användas i: Skapa aktivitet, Skapa aktivitet i Microsoft, Intressanta stunder, Ändra dataflödesåtgärder och Webhooks.
 
-   Häftig! Data hämtas från token när den smarta kampanjen körs.
+   Häftig! Data hämtas från token när Smart Campaign körs.
 
    >[!MORELIKETHIS]
    >
-   >* [Hantera mina token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
-   >* [Förstå mina token i ett program](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
+   >* [Hantera mina token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}
+   >* [Förstå mina token i ett program](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"}

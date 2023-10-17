@@ -4,9 +4,9 @@ description: Ändra ordning på Lägg till alternativ i ett flödessteg - Market
 title: Ändra ordning på Lägg till alternativ i ett flödessteg
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -19,20 +19,20 @@ Eftersom endast det första matchande alternativet gäller för en person är de
 
    ![](assets/one.png)
 
-1. Låt oss flytta alternativ 3 uppåt över alternativ 2. Klicka på **Alternativ 3** sedan klicka **Flytta uppåt**.
-
-   >[!NOTE]
-   >
-   >När du ändrar ordning kan du **Flytta uppåt**, **Flytta nedåt**, eller **Flytta till**.
+1. I det här exemplet flyttar vi Choice 3 uppåt över Choice 2. Klicka på **[!UICONTROL Choice 3]** klicka sedan på **[!UICONTROL Move Up]**.
 
    ![](assets/two.png)
 
-   Snyggt jobb! Nu vet du hur du flyttar ett val uppåt/nedåt i steg om. Så ja! Det är så enkelt att ordna om ordningen för dina flödesstegval.
+   >[!NOTE]
+   >
+   >När du ändrar ordning kan du **[!UICONTROL Move Up]**, **[!UICONTROL Move Down]**, eller **[!UICONTROL Move To]**.
+
+   Snyggt jobb! Nu vet du hur du flyttar ett val uppåt/nedåt i steg om.
 
    ![](assets/three.png)
 
-1. Om du har många alternativ och behöver flytta en nivå uppåt eller nedåt, kan du spara tid med den här alternativa metoden. Klicka på det alternativ du vill flytta, sedan under **Flytta till** drar du skjutreglaget till den position du vill flytta valet till.
+**VALFRITT STEG**: Om du har många alternativ och behöver flytta en nivå uppåt eller nedåt, kan du spara tid med den här alternativa metoden. Klicka på det alternativ du vill flytta, sedan under **[!UICONTROL Move To]** drar du skjutreglaget till den position du vill flytta valet till.
 
-   ![](assets/four.png)
+![](assets/four.png)
 
 Det är så enkelt att ordna om ordningen för dina flödesstegval.
