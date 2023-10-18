@@ -4,10 +4,10 @@ description: Ersätta en överförd bild eller fil - Marketo Docs - produktdokum
 title: Ersätta en överförd bild eller fil
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 feature: Image Editor
-source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
+source-git-commit: 74266763ab61379d50560f18fa65bbb35c37feb0
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 1%
+source-wordcount: '101'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 1%
 
    ![](assets/replace-an-uploaded-image-or-file-3.png)
 
-1. Dra och släpp eller bläddra på datorn efter ersättningsfilen.
+1. Dra och släpp eller bläddra på datorn efter ersättningsbilden/filen.
 
    ![](assets/replace-an-uploaded-image-or-file-4.png)
 
@@ -33,7 +33,7 @@ ht-degree: 1%
    >
    >Ersättningsfiltypen måste vara densamma som originalet (t.ex. .jpg)
 
-1. När du har valt ersättningsfilen klickar du på **[!UICONTROL Replace]**.
+1. När du har valt ersättningsbilden/filen klickar du på **[!UICONTROL Replace]**.
 
    ![](assets/replace-an-uploaded-image-or-file-5.png)
 

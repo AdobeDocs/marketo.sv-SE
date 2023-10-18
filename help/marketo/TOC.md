@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 74266763ab61379d50560f18fa65bbb35c37feb0
 workflow-type: tm+mt
-source-wordcount: '9094'
+source-wordcount: '9098'
 ht-degree: 0%
 
 ---
@@ -766,6 +766,7 @@ ht-degree: 0%
             + [Konfigurera reCAPTCHA v3](product-docs/demand-generation/forms/using-captcha/setting-up-recaptcha-v3.md)
             + [Aktivera CAPTCHA i Marketo Forms](product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md)
       + Bilder och filer {#images-and-files}
+         + [Nytt dokument för Lägg till bilder](product-docs/demand-generation/images-and-files/new-add-images-doc.md)
          + [Lägg till bilder och filer i Marketo](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
          + [Ta bort en överförd bild eller fil](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
          + [Hitta URL-adressen till en överförd bild eller fil](product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
