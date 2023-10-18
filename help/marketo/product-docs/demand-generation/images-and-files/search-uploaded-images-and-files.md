@@ -4,9 +4,9 @@ description: Sök i överförda bilder och filer - Marketo Docs - produktdokumen
 title: Sök efter överförda bilder och filer
 exl-id: c8eb7493-768a-4580-a76e-5b59ca9c14b1
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 929d2eff975c491b29b93cef96a5c59a1f833474
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -17,23 +17,21 @@ Det är enkelt att hitta bilder och filer i Marketo.
 
 1. Gå till **Design Studio**.
 
-   ![](assets/designstudio-1.png)
+   ![](assets/search-uploaded-images-and-files-1.png)
 
-1. Klicka **Bilder och filer** om du vill se en fullständig lista över alla överförda filer.
+1. Klicka **Bilder och filer** för en fullständig lista över alla överförda filer.
 
-   ![](assets/image2014-9-16-11-3a44-3a4.png)
+   ![](assets/search-uploaded-images-and-files-2.png)
 
-1. I **Snabbsökning** längst ned på skärmen skriver du namnet på filen som du letar efter och klickar på **Retur**.
+1. I sökrutan skriver du det ord som filen börjar med och trycker på **Retur**.
 
-   ![](assets/image2014-9-16-11-3a46-3a32.png)
+   ![](assets/search-uploaded-images-and-files-3.png)
 
->[!TIP]
+>[!NOTE]
 >
->Om du vill starta en ny sökning klickar du på **x** i **Snabbsökning** box.
-
-Sparka upp fötterna, du är klar!
+>Bild- och filsökningen använder för närvarande bara funktionen&quot;börjar med&quot;.
 
 >[!MORELIKETHIS]
 >
->* [Ersätta en överförd bild eller fil](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
->* [Ordna dina bilder och filer med hjälp av mappar](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
+>* [Ersätta en överförd bild eller fil](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
+>* [Ordna dina bilder och filer med hjälp av mappar](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md){target="_blank"}
