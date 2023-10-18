@@ -4,31 +4,33 @@ description: Hitta URL:en till en överförd bild eller fil - Marketo Docs - pro
 title: Hitta URL-adressen till en överförd bild eller fil
 exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 0%
+source-wordcount: '65'
+ht-degree: 1%
 
 ---
 
 # Hitta URL-adressen till en överförd bild eller fil {#find-the-url-of-an-uploaded-image-or-file}
 
-Söker du efter webbadressen (URL:en) till en bild eller fil som du har överfört? Marketo har täckt dig.
+Söker du efter webbadressen (URL:en) till en bild eller fil som du har överfört?
 
-1. Gå till **Design Studio**.
+1. Gå till **[!UICONTROL Design Studio]**.
 
-   ![](assets/designstudio-4.png)
+   ![](assets/find-the-url-of-an-uploaded-image-or-file-1.png)
 
-1. Klicka **Bilder och filer** på den vänstra menyn och markera sedan den fil som du vill använda URL:en för.
+1. Klicka på **[!UICONTROL Images and Files]**.
 
-   ![](assets/image2014-9-25-14-3a47-3a53.png)
+   ![](assets/find-the-url-of-an-uploaded-image-or-file-2.png)
 
-1. The **URL** visas på informationssidan. Högerklicka på **URL** och klicka **Kopiera** på menyn som visas.
+1. Välj önskad resurs.
 
-   ![](assets/image2014-9-25-14-3a48-3a16.png)
+   ![](assets/find-the-url-of-an-uploaded-image-or-file-3.png)
 
-Ge dig själv en klappa på ryggen för ett väl utfört jobb!
+1. The **[!UICONTROL URL]** visas på informationssidan.
+
+   ![](assets/find-the-url-of-an-uploaded-image-or-file-4.png)
 
 >[!MORELIKETHIS]
 >
->[Ersätta en överförd bild eller fil](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
+>[Ersätta en överförd bild eller fil](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}

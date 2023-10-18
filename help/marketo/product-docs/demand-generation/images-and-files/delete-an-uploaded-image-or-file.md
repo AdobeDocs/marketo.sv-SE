@@ -4,43 +4,43 @@ description: Ta bort en överförd bild eller fil - Marketo Docs - produktdokume
 title: Ta bort en överförd bild eller fil
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
 # Ta bort en överförd bild eller fil {#delete-an-uploaded-image-or-file}
 
-1. Gå till **Design** **Studio**.
+Det går snabbt och enkelt att ta bort bilder eller filer.
 
-   ![](assets/designstudio-5.png)
+>[!CAUTION]
+>
+>När bilderna har tagits bort tas de bort helt från Marketo Engage och kan inte återställas.
 
-1. Välj **Bilder och filer** i den vänstra menyn klickar du på bredvid namnet på filen som du vill ta bort.
+1. Gå till **[!UICONTROL Design Studio]**.
 
-   ![](assets/image2014-9-16-11-3a18-3a15.png)
+   ![](assets/delete-an-uploaded-image-or-file-1.png)
 
-1. Klicka på **Filåtgärder** nedrullningsbar meny och välj **Ta bort**.
+1. Välj **[!UICONTROL Images and Files]**
 
-   ![](assets/image2014-9-16-11-3a18-3a22.png)
+   ![](assets/delete-an-uploaded-image-or-file-2.png)
 
-1. Kontrollera att du har valt rätt fil och klicka på **Ta bort**.
+1. Sök efter och markera bilden/filen. Klicka på **[!UICONTROL Image and file actions]** nedrullningsbar meny och välj **[!UICONTROL Delete]**.
 
-   ![](assets/image2014-9-16-11-3a18-3a30.png)
+   ![](assets/delete-an-uploaded-image-or-file-3.png)
 
-   >[!CAUTION]
+1. Kontrollera att du har valt rätt fil och klicka på **[!UICONTROL Delete]**.
+
+   ![](assets/delete-an-uploaded-image-or-file-4.png)
+
+   >[!NOTE]
    >
-   >Borttagna bilder och filer tas bort helt från Marketo och kan inte återställas.  De kommer inte längre att visas på landningssidor eller e-postmeddelanden där de används.
-
-1. Du kommer tillbaka till **Bilder** och **Filer** sidan där du ser att filen har tagits bort.
-
-   ![](assets/image2014-9-16-11-3a19-3a0.png)
-
-Snyggt gjort!
+   >Resurser tas inte bort om de används.
 
 >[!MORELIKETHIS]
 >
->* [Ersätta en överförd bild eller fil](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
->* [Sök efter överförda bilder och filer](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
->* [Hitta URL-adressen till en överförd bild eller fil](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
+>* [Ersätta en överförd bild eller fil](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
+>* [Sök efter överförda bilder och filer](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
+>* [Hitta URL-adressen till en överförd bild eller fil](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}

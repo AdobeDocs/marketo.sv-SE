@@ -4,9 +4,9 @@ description: Ordna dina bilder och filer med hjälp av mappar - Marketo Docs - P
 title: Ordna dina bilder och filer med hjälp av mappar
 exl-id: b2961d6b-8bc0-4376-b438-03d9fd26be72
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -15,24 +15,30 @@ ht-degree: 0%
 
 När du skapar mappar kan du flytta bilder och filer, se bara den uppsättning bilder du vill ha och överföra direkt till en viss mapp.
 
-1. Gå till **Design Studio**.
+1. Gå till **[!UICONTROL Design Studio]**.
 
-   ![](assets/designstudio-7.png)
+   ![](assets/organize-your-images-and-files-using-folders-1.png)
 
-1. Högerklicka på **Bilder och filer** i den vänstra menyn väljer du **Ny mapp**.
+1. Högerklicka på **[!UICONTROL Images and Files]** och markera **[!UICONTROL New folder]**.
 
-   ![](assets/image2014-9-16-11-3a25-3a45.png)
+   ![](assets/organize-your-images-and-files-using-folders-2.png)
 
-1. När den nya mappen visas ger du den ett namn.
+1. Namnge mappen och klicka på **[!UICONTROL Create]**.
 
-   ![](assets/image2014-9-16-11-3a25-3a53.png)
+   ![](assets/organize-your-images-and-files-using-folders-3.png)
 
-1. Gå till **Bilder och filer** kan du nu dra och släppa i den mapp du vill ha.
+1. Gå tillbaka till **[!UICONTROL Images and Files]** och välj den resurs som du vill flytta. Klicka på **[!UICONTROL Image and file actions]** nedrullningsbar meny och välj **[!UICONTROL Move]**.
 
-   ![](assets/image2014-9-16-11-3a26-3a0.png)
+   ![](assets/organize-your-images-and-files-using-folders-4.png)
 
-Hög fem! Du är redo för utopia av mappen.
+1. Markera önskad mapp.
+
+   ![](assets/organize-your-images-and-files-using-folders-5.png)
+
+1. Klicka **Mflytta**.
+
+   ![](assets/organize-your-images-and-files-using-folders-6.png)
 
 >[!MORELIKETHIS]
 >
->[Sök efter överförda bilder och filer](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
+>[Sök efter överförda bilder och filer](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
