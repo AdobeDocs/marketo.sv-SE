@@ -3,7 +3,7 @@ description: Hantering av användare och licenser - Marketo Docs - produktdokume
 title: Hantering av användare och licenser
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
+source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%
@@ -67,32 +67,32 @@ Interactive Webinars erbjuder specifika licenser för att skapa event som drivs 
    ![](assets/user-and-license-management-11.png)
 
 <table> 
-  <tr> 
-   <td><b>Startdatum</b></td>
+  <tr>
+   <td width="20%"><b>Startdatum</b></td>
    <td>Datum då licensen börjar.</td>
   </tr>
   <tr> 
-   <td><b>Förfallodatum</b></td>
+   <td width="20%"><b>Förfallodatum</b></td>
    <td>Datum när licensen upphör att gälla.</td>
   </tr>
   <tr> 
-   <td><b>Typ</b></td>
+   <td width="20%"><b>Typ</b></td>
    <td>Den typ av licens som köpts. Det finns tre typer: licens för delade händelser, licens för delade rum, ytterligare lagringslicens.</td>
   </tr>
   <tr> 
-   <td><b>Händelsekapacitet</b></td>
+   <td width="20%"><b>Händelsekapacitet</b></td>
    <td>Det högsta antalet deltagare som kan inrymmas i en händelse.</td>
   </tr>
   <tr> 
-   <td><b>Totalt antal händelser</b></td>
+   <td width="20%"><b>Totalt antal händelser</b></td>
    <td>Det totala antalet händelser som har etablerats med den här licensen.</td>
   </tr>
   <tr> 
-   <td><b>Förbrukade händelser</b></td>
+   <td width="20%"><b>Förbrukade händelser</b></td>
    <td>Det totala antalet slutförda händelser.</td>
   </tr>
   <tr> 
-   <td><b>Lagringskapacitet</b></td>
+   <td width="20%"><b>Lagringskapacitet</b></td>
    <td>Mängd tillgängligt lagringsutrymme för lagring av inspelningar, säkerheter, hero images, dokumentation och andra resurser.</td>
   </tr>
   </tbody>

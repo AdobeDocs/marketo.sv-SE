@@ -3,9 +3,9 @@ description: Översikt över interaktiva webbinarier - Marketo Docs - produktdok
 title: Översikt över interaktiva webbinarier
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
+source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Interaktiva webbinarier [tre olika licenser](/help/marketo/product-docs/demand-g
 
 Efter webbinariet kan du [händelseprestandaanalys](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"} via rapporter och kontrollpaneler som innehåller lead- och aggregeringsdata. Med interaktiva webbinariespecifika filter och utlösare kan du hitta specifika grupper med personer som har vidtagit specifika åtgärder (t.ex. klickat på en länk, hämtat en resurs med mera).
 
-## Vanliga frågor {#faq}
+## Vanliga frågor och svar {#faq}
 
 **Behöver jag en separat prenumeration för att använda interaktiva webbinarier?**
 
@@ -47,3 +47,7 @@ Ja, du kan styra vilka Marketo-användare som får tillstånd att skapa och leve
 **Måste jag koppla webbinariet som drivs av Adobe Connect tillbaka till Interactive Webinar Event Program som Launchpoint Event Programs?**
 
 Nej, interaktiva webbinariets händelseprogram gör associationen till dig.
+
+**Spelas mina interaktiva webbinarier in automatiskt?**
+
+Det är de inte. När webbinariet har startats klickar du på listrutan bredvid webbinariets namn och väljer **Spela in session**.
