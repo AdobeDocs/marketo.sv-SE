@@ -4,9 +4,9 @@ description: Konfigurera en anpassad DKIM-signatur - Marketo Docs - produktdokum
 title: Konfigurera en anpassad DKIM-signatur
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 9e731fa02cd20b34f48c7f85241b97f4c507d4a9
+source-git-commit: aed161086948aa2cec0199771ba5b3b1491600f9
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,9 @@ Du kan anpassa DKIM-signaturen så att den återspeglar vilken eller vilka domä
 
    ![](assets/set-up-a-custom-dkim-signature-2.png)
 
-1, Klicka på **SPF/DKIM** tabbtangenten, sedan **Lägg till domän**.
+1. Klicka på **SPF/DKIM** tabbtangenten, sedan **Lägg till domän**.
 
-![](assets/set-up-a-custom-dkim-signature-3.png)
+   ![](assets/set-up-a-custom-dkim-signature-3.png)
 
 1. Ange den domän som du kommer att använda i Marketo e-postmeddelanden som Från-adress. Välj en väljare och en nyckelstorlek. Klicka **Lägg till** när det är klart.
 
@@ -45,6 +45,18 @@ Du kan anpassa DKIM-signaturen så att den återspeglar vilken eller vilka domä
    >
    >* Vi rekommenderar nyckelstorleken 2048.
    >* Om du använder en annan domän i din Från-adress använder vi den Marketo delade DKIM-signaturen.
+
+   <table> 
+   <tr>
+   <td width="20%"><b>Väljare</b></td>
+   <td>En unik sträng/identifierare som används för att hitta den offentliga nyckeldelen av DKIM-posten. Det kan vara en godtycklig sträng eller en unik identifierare som separerar och identifierar syftet med den DKIM-nyckeln/posten.</td>
+   </tr>
+   <tr> 
+   <td width="20%"><b>Nyckelstorlek</b></td>
+   <td>Den säkerhetsnivå som du vill att din DKIM-signatur ska krypteras med.</td>
+   </tr>
+   </tbody>
+   </table>
 
 1. Skicka **Värdpost** och **TXT Value** till din IT-avdelning. Be dem att skapa posten åt dig och se till att den sprids till alla namnservrar som är kopplade till Från-domänen. Marketo DKIM-verifiering kräver att DKIM-nyckeln sprids till alla namnservrar som är associerade med den domän som DKIM-signerar.
 
