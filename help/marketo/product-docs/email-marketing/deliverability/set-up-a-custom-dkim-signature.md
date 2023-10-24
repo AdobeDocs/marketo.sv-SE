@@ -4,7 +4,7 @@ description: Konfigurera en anpassad DKIM-signatur - Marketo Docs - produktdokum
 title: Konfigurera en anpassad DKIM-signatur
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: aed161086948aa2cec0199771ba5b3b1491600f9
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 0%
@@ -57,6 +57,8 @@ Du kan anpassa DKIM-signaturen så att den återspeglar vilken eller vilka domä
    </tr>
    </tbody>
    </table>
+
+   <p>
 
 1. Skicka **Värdpost** och **TXT Value** till din IT-avdelning. Be dem att skapa posten åt dig och se till att den sprids till alla namnservrar som är kopplade till Från-domänen. Marketo DKIM-verifiering kräver att DKIM-nyckeln sprids till alla namnservrar som är associerade med den domän som DKIM-signerar.
 

@@ -4,7 +4,7 @@ description: Använda logik för standardregel för smart lista - Marketo Docs -
 title: Använda logik för standardregel för smart lista
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 feature: Smart Campaigns
-source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Du kan ha märkt alternativet &quot;Använd filter&quot; när du skapade kampanj
 
 >[!NOTE]
 >
->Ändringen av regellogik för smarta listor gäller bara för filter, **not** -utlösare.
+>Ändringen av regellogik för smarta listor gäller bara för filter, _not_ -utlösare.
 
 Utlösare utvärderas alltid som ELLER även om inställningen ovan är inställd på ALL. Här är ett exempel:
 
@@ -38,8 +38,8 @@ Country is US
 THEN follow the campaign's flow step(s)
 ```
 
-Så om en person fyller i formuläret **eller** besöker sidan, kommer kampanjen sedan att utvärdera den personen baserat på **alla** eller **alla** av de efterföljande filtren, beroende på vilken inställning som används.
+Så om en person fyller i formuläret _eller_ besöker sidan, kommer kampanjen sedan att utvärdera den personen baserat på _alla_ eller _alla_ av de efterföljande filtren, beroende på vilken inställning som används.
 
 >[!MORELIKETHIS]
 >
->[Använda avancerad logik för smarta listregler](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
+>[Använda avancerad logik för smarta listregler](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"}

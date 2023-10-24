@@ -3,16 +3,16 @@ description: Åsidosättning av prioritet för utlösarkampanjer - Marketo Docs 
 title: Åsidosättning av prioritet för utlösarkampanjer
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '222'
 ht-degree: 1%
 
 ---
 
 # Åsidosättning av prioritet för utlösarkampanjer {#priority-override-for-trigger-campaigns}
 
-Administratörer kan åsidosätta Marketo fastställda prioritet för utlösarkampanjer för att ange prioriteringar som bättre motsvarar affärsmålen.
+Administratörer kan åsidosätta den Marketo Engage-fastställda prioriteten för utlösarkampanjer för att ange prioriteringar som bättre överensstämmer med affärsmålen.
 
 >[!NOTE]
 >
@@ -42,11 +42,11 @@ Administratörer kan åsidosätta Marketo fastställda prioritet för utlösarka
 
 ## Åsidosätt prioritet {#override-priority}
 
-1. Hitta era utlösarkampanjer. Högerklicka på den och välj **[!UICONTROL Override Campaign Priority]**.
+1. Hitta din utlösarkampanj. Högerklicka på den och välj **[!UICONTROL Override Campaign Priority]**.
 
    ![](assets/priority-override-for-trigger-campaigns-4.png)
 
-1. Klicka på **[!UICONTROL Override Campaign Priority]** för att aktivera. Välj en ny prioritetsnivå och klicka på **[!UICONTROL Confirm]**.
+1. Klicka på **[!UICONTROL Override Campaign Priority]** skjutreglage som ska aktiveras. Välj en ny prioritetsnivå och klicka på **[!UICONTROL Confirm]**.
 
    ![](assets/priority-override-for-trigger-campaigns-5.png)
 
@@ -57,5 +57,5 @@ Administratörer kan åsidosätta Marketo fastställda prioritet för utlösarka
 >[!NOTE]
 >
 >* Du kan visa kampanjens standardprioritet i [!UICONTROL Campaign Queue] under [!UICONTROL Marketing Activities]. Vi rekommenderar att du ställer in kampanjprioriteten på en nivå som är högre än standardnivån för att öka exekveringsfrekvensen.
->* Prioriteten för användarinställningen gäller endast nya personer som är kvalificerade för kampanjen. Personer som redan är i kö påverkas inte.
->* Prioritetsåsidosättningar hämtas i [Granskningsspår](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md).
+>* Prioriteten för användarinställningen gäller endast för nya personer som är kvalificerade för kampanjen. Personer som redan är i kö påverkas inte.
+>* Prioritetsåsidosättningar hämtas i [Granskningsspår](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md){target="_blank"}.
