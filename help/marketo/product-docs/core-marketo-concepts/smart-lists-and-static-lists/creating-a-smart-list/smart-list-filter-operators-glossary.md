@@ -4,16 +4,16 @@ description: Operatorordlista för smarta listfilter - Marketo Docs - produktdok
 title: Ordlista för operatorer för smarta listfilter
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: '592'
 ht-degree: 0%
 
 ---
 
 # Ordlista för operatorer för smarta listfilter {#smart-list-filter-operators-glossary}
 
-En operator är en del av den smarta listan som hjälper dig att få reda på mer. Du kan beskriva filtret eller utlösaren på ett enkelt språk. De tillgängliga operatorerna är olika för varje fälttyp.
+En operator är en del av den smarta listan som hjälper dig att få en specifik bild. Du kan beskriva filtret eller utlösaren på ett enkelt språk. De tillgängliga operatorerna är olika för varje fälttyp.
 
 Här är en ordlista som beskriver varje uppsättning operatorer.
 
@@ -31,7 +31,7 @@ När du väljer en operator ändras den högra sidan dynamiskt.
 | tidigare | Indata för naturligt språk&#42; | Se diagrammet nedan |
 | tidigare än | Indata för naturligt språk&#42; | Se diagrammet nedan |
 | i framtiden | Indata för naturligt språk&#42; | Se diagrammet nedan |
-| i framtiden efter | Indata för naturligt språk&#42; | Se diagrammet nedan |
+| i framtiden | Indata för naturligt språk&#42; | Se diagrammet nedan |
 | tidsram | Förinställningar (sista kvartalet, igår osv.) | Definierad i plocklista |
 | efter | Enstaka datum | Alla poster efter angivet datum |
 | före | Enstaka datum | Alla poster före den angivna |
@@ -52,11 +52,11 @@ Skriv bara in numret och enheten så fungerar det!
 
 >[!NOTE]
 >
->&quot;Tidigare&quot; **gör** inkluderar den dag (fram till tidpunkten, inte efter) som du skapar den smarta listan.
+>&quot;Tidigare&quot; _gör_ inkluderar den dag (fram till tidpunkten, inte efter) som du skapar din smarta lista.
 
 >[!CAUTION]
 >
->När du skapar en smart lista med ett datumfältfilter (t.ex. Födelsedatum, SFDC Skapat den) och använder begränsningarna **före**, **på eller före**, eller **tidigare än**, kommer den smarta listan även att omfatta personer som inte har något värde i det datumfältet.
+>När du skapar en smart lista med hjälp av ett datumfältfilter (t.ex. Födelsedatum, SFDC Skapat den) och använder begränsningarna **[!UICONTROL before]**, **[!UICONTROL on or before]**, eller **[!UICONTROL in past before]**, kommer den smarta listan även att omfatta personer som inte har något värde i det datumfältet.
 
 Använd följande diagram för att förstå skillnaden mellan datumoperatorerna.
 
@@ -68,11 +68,11 @@ Använd följande diagram för att förstå skillnaden mellan datumoperatorerna.
 >
 >Datumfält kan bli knepiga när du arbetar med tidigare och framtida händelser. Här är några exempel.
 >
->**Tidigare**
+>**[!UICONTROL In past before]**
 >
 >Använd den här operatorn för att skicka e-post till personer som inte har prenumererat på eller förnyat tjänsten inom ett år eller som aldrig har varit prenumeranter.
 >
->**I framtiden efter**
+>**[!UICONTROL In future after]**
 >
 >Säg att ni vill se kunder som är redo för förnyelse på 90 dagar. Du använder två separata filter. Använd först&quot;I framtiden efter 90 dagar&quot; och sedan&quot;I framtiden 91 dagar&quot;. Det skulle fånga den som har ett datum 90 dagar från nu.
 
@@ -86,9 +86,9 @@ Använd följande diagram för att förstå skillnaden mellan datumoperatorerna.
 | är inte | Allt utom exakt matchning |
 | börjar med | Första bokstäver i strängmatchning |
 | börjar inte med | Strängens första bokstäver matchar INTE |
-| innehåller | Alla bokstäver i strängen matchar (exempel: california, förmögenhet, därav) |
-| innehåller inte | Inga bokstäver i strängmatchningen. (omvänt för &quot;contains&quot;) |
-| är tom | Poster som inte har något värde (NULL) |
+| innehåller | Alla bokstäver i strängen matchar (exempel: california, förmögenhet, däri) |
+| innehåller inte | Inga bokstäver i strängmatchningen. (inverterat av &quot;contains&quot;) |
+| är tom | Poster utan värde (NULL) |
 | är inte tom | Poster med ANY-värde |
 
 >[!TIP]
@@ -109,7 +109,7 @@ Använd följande diagram för att förstå skillnaden mellan datumoperatorerna.
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1">är</td> 
-   <td colspan="1" rowspan="1">Exakt nummermatchning ( = 0 returnerar båda leads med 0 <em>och</em> NULL)</td> 
+   <td colspan="1" rowspan="1">Exakt nummermatchning ( = 0 returnerar båda leads med 0 <em>och</em> NULL</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">är inte</td> 
@@ -133,7 +133,7 @@ Använd följande diagram för att förstå skillnaden mellan datumoperatorerna.
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">högst</td> 
-   <td colspan="1" rowspan="1">Mindre än den angivna (inklusive)</td> 
+   <td colspan="1" rowspan="1">Mindre än den angivna (inkluderande)</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">är tom</td> 

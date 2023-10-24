@@ -4,7 +4,7 @@ description: Best Practices for Smart Lists - Marketo Docs - produktdokumentatio
 title: Bästa praxis för smarta listor
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 feature: Smart Lists
-source-git-commit: 0e68da238100f3816c2e64e1fbe4a5a2892bb3e1
+source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
 workflow-type: tm+mt
 source-wordcount: '573'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Smarta listor är det mest kraftfulla frågeverktyget i marknadsföringsuniversum. De hittar de personer du söker med magisk hastighet och enkelhet.
 
-För att göra dem enkla att arbeta med och optimera prestanda har vi skapat en lista med bra metoder. Mycket nöje!
+För att göra dem enkla att arbeta med och optimera prestanda har vi skapat en lista med bästa praxis. Mycket nöje!
 
 >[!NOTE]
 >

@@ -4,9 +4,9 @@ description: Skapa en smart lista - Marketo Docs - produktdokumentation
 title: Skapa en smart lista
 exl-id: 3acab0f8-44c9-4346-add7-8b317aa82471
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Med smarta listor kan du söka efter särskilda grupper med personer med hjälp av enkla filter. Så här skapar du en.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,15 +23,15 @@ Med smarta listor kan du söka efter särskilda grupper med personer med hjälp 
 
    ![](assets/image2014-8-11-10-3a17-3a8.png)
 
-1. Under **Nytt**, klicka **Ny lokal resurs**.
+1. Under **[!UICONTROL New]**, klicka **[!UICONTROL New Local Asset]**.
 
    ![](assets/image2014-9-9-16-3a26-3a28.png)
 
-1. Välj **Smart List**.
+1. Välj **[!UICONTROL Smart List]**.
 
    ![](assets/image2014-9-9-16-3a27-3a18.png)
 
-1. Ange **Namn** och klicka **Skapa**.
+1. Ange en **[!UICONTROL Name]** och klicka **[!UICONTROL Create]**.
 
    ![](assets/image2014-9-9-16-3a27-3a39.png)
 
@@ -39,4 +39,4 @@ Med smarta listor kan du söka efter särskilda grupper med personer med hjälp 
 
    >[!MORELIKETHIS]
    >
-   >[Söka efter och lägga till filter i en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
+   >[Söka efter och lägga till filter i en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
