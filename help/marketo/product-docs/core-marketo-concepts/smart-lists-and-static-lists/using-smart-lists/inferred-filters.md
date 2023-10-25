@@ -4,7 +4,7 @@ description: Inkommande filter - Marketo Docs - produktdokumentation
 title: Inkommande filter
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Inkommande filter {#inferred-filters}
 
-När någon besöker er webbplats [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) cookies och placerar dem i systemet. Vi slår upp deras IP-adresser i en särskild databas och drar nytta av all slags bra information.
+När någon besöker er webbplats [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} cookies och placerar dem i systemet. Vi slår upp deras IP-adresser i en särskild databas och drar nytta av all slags bra information.
 
 >[!NOTE]
 >
->Vi uppdaterar regelbundet databasen som används för IP-adresssökningar för att säkerställa att de härledda fältsvärdena förblir aktuella. Databasuppdateringar kan medföra nya härledda fältvärden som du kan behöva lägga till i definitioner för smarta listfilter.
+>Vi uppdaterar regelbundet databasen som används för IP-adresssökningar för att säkerställa att de härledda fältsvärdena förblir aktuella. Databasuppdateringar kan medföra nya härledda fältvärden som du kan behöva lägga till i filterdefinitioner för smarta listor.
 >
 >Databasuppdateringar kan utföras under [Marketo Engage produktrelease](/help/marketo/release-notes/release-schedule.md){target="_blank"}. When an update does occur, the [Marketo Engage release notes](/help/marketo/release-notes/current.md){target="_blank"} innehåller en förklaring till eventuella ändringar av härledda fältvärden.
 
@@ -33,7 +33,7 @@ När någon besöker er webbplats [Munchkin](/help/marketo/product-docs/administ
 
 ![](assets/image2015-4-27-13-3a30-3a48.png)
 
-När du använder något av de här filtren i en smart lista kommer resultatet att ge användarna den information de kommer ifrån.
+När du använder något av de här filtren i en smart lista kommer resultatet att ge personer den här slutna informationen.
 
 >[!TIP]
 >
@@ -46,4 +46,4 @@ Dessa anonyma besökare konverteras automatiskt till personer när de klickar p�
 
 >[!NOTE]
 >
->Läs mer om [anonym aktivitet och leads](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).
+>Läs mer om [anonym aktivitet och leads](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md){target="_blank"}.

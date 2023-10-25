@@ -4,41 +4,41 @@ description: Använda avancerad logik för smarta listregler - Marketo Docs - pr
 title: Använda avancerad logik för smarta listregler
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
 
 # Använda avancerad logik för smarta listregler {#using-advanced-smart-list-rule-logic}
 
-Du kan hitta exakt de personer du behöver genom att tillämpa logik för smarta listregler på flera filter i en smart lista. Så här gör du.
+Du kan hitta exakt de personer du behöver genom att tillämpa logiken för smarta listregler på flera filter i en smart lista. Så här gör du.
 
 >[!PREREQUISITES]
 >
->* [Söka efter och lägga till filter i en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
->* [Definiera smarta listfilter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
+>* [Söka efter och lägga till filter i en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
+>* [Definiera smarta listfilter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}
 
 >[!NOTE]
 >
->Avancerad filterlogik är bara tillgänglig om det finns tre eller fler filter i den smarta listan.
+>Avancerad filterlogik är bara tillgänglig om det finns tre eller fler filter i din smarta lista.
 
 ## Lägg till logik i en smart lista {#add-logic-to-a-smart-list}
 
-Som standard hittar din smarta lista de personer som matchar **ALLA** filter (filter 1 _och_ 2 _och_ 3). Du kan ändra regellogiken för att hitta personer som matchar **VALFRITT** av definierade filter (filter 1 _eller_ 2 _eller_ 3) eller använda avancerade filter (filter 1) _och_ 2 _eller_ 3).
+Som standard hittar din smarta lista de personer som matchar **[!UICONTROL ALL]** filter (filter 1 _och_ 2 _och_ 3). Du kan ändra regellogiken för att hitta personer som matchar **[!UICONTROL ANY]** av definierade filter (filter 1 _eller_ 2 _eller_ 3) eller använda avancerade filter (filter 1) _och_ 2 _eller_ 3).
 
 I det här exemplet vill vi säga att du vill hitta folk i Kalifornien _och_ med minst 50 poäng _eller_ med statusen&quot;Försäljning kvalificerad&quot;.
 
-1. Välj **Använd avancerade filter** i listrutan.
+1. Välj **[!UICONTROL Use Advanced filters]** i listrutan.
 
    ![](assets/one.png)
 
    >[!NOTE]
    >
-   >Använda **Avancerat** filter minskar behovet av att skapa smarta listor med filtret Medlem i smart lista. Detta hjälper till att optimera prestanda.
+   >Använda **[!UICONTROL Advanced]** -filter minskar behovet av att skapa smarta listor med filtret Medlem i smart lista. Detta hjälper till att optimera prestanda.
 
-1. The **Avancerade filter** &quot;och&quot; visas som standardvärde mellan alla filter.
+1. The **[!UICONTROL Advanced filters]** &quot;och&quot; visas som standardvärde mellan alla filter.
 
    ![](assets/two-2.png)
 

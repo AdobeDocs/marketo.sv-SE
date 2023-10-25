@@ -4,22 +4,22 @@ description: Använd inaktivitetsfilter i en smart lista - Marketo Docs - produk
 title: Använd inaktivitetsfilter i en smart lista
 exl-id: 9e00c864-db3f-46cd-b65d-e4fd49d89ff5
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
 # Använd inaktivitetsfilter i en smart lista {#use-inactivity-filters-in-a-smart-list}
 
-Visste du att du kan söka efter personer i en smart lista som *inte* gör något? Kolla in dessa inaktivitetsfilter.
+Visste du att du kan söka efter personer i en smart lista som _inte_ gör något? Kolla in dessa inaktivitetsfilter.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Markera den smarta lista som du vill redigera och klicka sedan på **Smart List** -fliken.
+1. Markera den smarta lista som du vill redigera och klicka sedan på **[!UICONTROL Smart List]** -fliken.
 
    ![](assets/smartlist-choose.png)
 
@@ -29,8 +29,8 @@ Visste du att du kan söka efter personer i en smart lista som *inte* gör någo
 
    >[!TIP]
    >
-   >Det finns många filter i **Inaktivitetsfilter** mapp. Sök efter **Inte** och kolla in dem.
+   >Det finns många filter i **[!UICONTROL Inactivity Filters]** mapp. Sök efter&quot;Inte&quot; och checka ut dem.
 
-1. Välj **är** -operator. Då hittar du alla personer som inte har besökt någon sida de senaste 30 dagarna.
+1. Välj **[!UICONTROL is any]** -operator. Då hittar du alla personer som inte har besökt någon sida de senaste 30 dagarna.
 
    ![](assets/mysmartlist-people.jpg)

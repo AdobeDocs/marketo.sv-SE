@@ -4,7 +4,7 @@ description: Filter och utlösare för affärsmöjligheter - Marketo Docs - prod
 title: Filter och utlösare för affärsmöjligheter
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Med filter och utlösare för affärsmöjligheter kan du spåra affärsmöjlighetshändelser från Salesforce. De är lite annorlunda jämfört med andra filter och utlösare.
 
-## Filter för affärsmöjlighet {#opportunity-filters}
+## Affärsmöjlighetsfilter {#opportunity-filters}
 
 Med säljprojektsfilter kan du fördjupa dig i dina Salesforce-leads som har möjligheter. Du kan hitta dem i mappen Affärsmöjligheter på paletten när du redigerar en smart lista. De kommer i några smaker.
 
@@ -24,7 +24,7 @@ Med säljprojektsfilter kan du fördjupa dig i dina Salesforce-leads som har mö
 * Förväntad intäkt för total optisk summa
 * Har möjlighet
 * Affärsmöjligheten har lagts till
-* Affärsmöjligheten har tagits bort
+* Möjligheten har tagits bort
 * Affärsmöjligheten har uppdaterats
 
 Om du letar efter dina säljprojektsfält (anpassade eller standard) använder du **Har möjlighet** filter eller **Möjligheten var`[Added/Removed/Updated]`** filter eller utlösare.
@@ -39,7 +39,7 @@ Med de här filtren kan du hitta leads baserat på det totala antalet, beloppet 
 
 Om du letar efter leads som har affärsmöjligheter baserat på en kombination av villkor använder du **Har möjlighet**, **lades till i affärsmöjligheten**, eller **Borttagen från affärsmöjligheten** filter. De säger:
 
-* **Har möjlighet**: Om denna lead för närvarande har någon matchande affärsmöjlighet
+* **Har möjlighet**: Om denna lead har en matchande affärsmöjlighet
 * **lades till i affärsmöjligheten**: Om denna lead någonsin lagts till i en matchande affärsmöjlighet
 * **Borttagen från affärsmöjligheten**: Om denna lead någonsin tagits bort från en matchande affärsmöjlighet
 

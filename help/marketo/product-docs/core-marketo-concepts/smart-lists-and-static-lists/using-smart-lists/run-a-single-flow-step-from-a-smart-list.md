@@ -4,10 +4,10 @@ description: Köra ett enda flödessteg från en smart lista - Marketo Docs - pr
 title: Köra ett enda flödessteg från en smart lista
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 0%
+source-wordcount: '219'
+ht-degree: 1%
 
 ---
 
@@ -17,13 +17,13 @@ Om du vill köra ett enda steg för ett enda flöde kan du använda ett enda fl�
 
 >[!PREREQUISITES]
 >
->[Skapa en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Skapa en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Välj en lista eller smart lista med personer i den och gå sedan till **Folk** -fliken.
+1. Välj en lista eller smart lista med personer i den och gå sedan till **[!UICONTROL People]** -fliken.
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -31,27 +31,27 @@ Om du vill köra ett enda steg för ett enda flöde kan du använda ett enda fl�
    >
    >Både statiska listor och smarta listor har den här funktionen.
 
-1. Klicka **Markera alla**. Du kan också använda **Ctrl/Cmd** och klicka för att markera några poster manuellt.
+1. Klicka på **[!UICONTROL Select All]**. Du kan också använda **Ctrl/Cmd** och klicka för att markera några poster manuellt.
 
    ![](assets/smartlist-selectallhand.png)
 
    >[!NOTE]
    >
-   >Om resultatet sträcker sig över flera sidor klickar du på **Markera alla** markerar alla personer på alla sidor.
+   >Om resultatet sträcker sig över flera sidor klickar du på **[!UICONTROL Select All]** kommer att markera alla personer på alla sidor.
 
-1. Under **Person** **Åtgärder** väljer du ett flödessteg. I det här exemplet kommer vi att använda [Ändra datavärde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+1. Under **[!UICONTROL Person Actions]** väljer du ett flödessteg. I det här exemplet använder vi [Ändra datavärde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
 
    ![](assets/personactions-hands.png)
 
-1. Söka efter och markera en **Attribut**. I det här exemplet tar vi alla som har delstat&quot;Kalifornien&quot; och ändrar det till&quot;Kalifornien&quot;.
+1. Söka efter och markera en **[!UICONTROL Attribute]**. I det här exemplet ska vi ta alla som har delstat&quot;Kalifornien&quot; och ändra det till&quot;Kalifornien&quot;.
 
    ![](assets/runaction-hands.png)
 
-1. Ange ett nytt värde. Klicka **Kör nu**.
+1. Ange ett nytt värde. Klicka på **[!UICONTROL Run Now]**.
 
    ![](assets/runactionnewvalue-hands.png)
 
-1. Om du ändrar datavärden för ett stort antal personer kan du behöva bekräfta ändringen genom att skriva in talet. Klicka **Gå för den**.
+1. Om du ändrar datavärden för ett stort antal personer kan du behöva bekräfta ändringen genom att skriva in talet. Klicka på **[!UICONTROL Go For It]**.
 
    ![](assets/changedatavalue.jpg)
 

@@ -4,24 +4,24 @@ description: Referera till en lista eller en smart lista över arbetsytor - Mark
 title: Referera till en lista eller en smart lista över arbetsytor
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
 # Referera till en lista eller en smart lista över arbetsytor {#reference-a-list-or-smart-list-across-workspaces}
 
-Listor och smarta listor kan delas och refereras mellan arbetsytor för enkel återanvändning från databasen.
+Listor och smarta listor kan delas och refereras till mellan arbetsytor för enkel återanvändning från databasen.
 
 >[!NOTE]
 >
->Personpartitionsregler gäller (smarta listor och statiska listor på en arbetsyta visar endast personer som är medlemmar i listan *och* medlemmar på den aktuella arbetsytan).
+>Personpartitionsregler gäller (smarta listor och statiska listor på en arbetsyta visar endast personer som är medlemmar i listan _och_ medlemmar på den aktuella arbetsytan).
 
-## Dela en lista eller smart lista  {#share-a-list-or-smart-list}
+## Dela en lista eller smart lista {#share-a-list-or-smart-list}
 
-1. Gå till **Databas**.
+1. Gå till **[!UICONTROL Database]**.
 
    ![](assets/db-1.png)
 
@@ -37,11 +37,11 @@ Listor och smarta listor kan delas och refereras mellan arbetsytor för enkel å
 
    ![](assets/three-4.png)
 
-1. Högerklicka **Ny mapp** och markera **Dela mapp**.
+1. Högerklicka **[!UICONTROL New Folder]** och markera **[!UICONTROL Share Folder]**.
 
    ![](assets/four-3.png)
 
-1. Välj en **Arbetsyta** att dela med. Välj **Spara**.
+1. Välj en **[!UICONTROL Workspace]** att dela med. Välj **[!UICONTROL Save]**.
 
    ![](assets/image2014-12-9-15-3a37-3a25.png)
 
