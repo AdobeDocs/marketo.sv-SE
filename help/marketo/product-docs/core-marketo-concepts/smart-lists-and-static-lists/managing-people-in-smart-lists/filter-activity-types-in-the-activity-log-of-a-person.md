@@ -4,10 +4,10 @@ description: Filtrera aktivitetstyper i aktivitetsloggen för en person - Market
 title: Filtrera aktivitetstyper i aktivitetsloggen för en person
 exl-id: c778aa9c-d985-43ab-9018-58f3e3fe8165
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 0%
+source-wordcount: '112'
+ht-degree: 2%
 
 ---
 
@@ -17,27 +17,27 @@ Sök efter aktiviteter som är viktiga för dig i aktivitetsloggen.
 
 >[!NOTE]
 >
->Läs mer om [aktivitetsloggen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md).
+>Läs mer om [aktivitetsloggen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}.
 
-1. Gå till **Personinformation** sida. Klicka på **Aktivitetslogg** -fliken.
+1. Gå till sidan Personinformation. Klicka på **[!UICONTROL Activity Log]** -fliken.
 
    ![](assets/one.png)
 
-1. Välj **Filter** nedrullningsbar meny.
+1. Välj **[!UICONTROL Filter]** nedrullningsbar meny.
 
    ![](assets/two-3.png)
 
 ## Skapa anpassade filter {#creating-custom-filters}
 
-1. Klicka på **Filter** nedrullningsbar meny. Välj **Egen**.
+1. Klicka på **[!UICONTROL Filter]** nedrullningsbar meny. Välj **[!UICONTROL Custom]**.
 
    ![](assets/three-3.png)
 
-1. Välj aktiviteter att filtrera efter. Klicka **Spara som**.
+1. Välj aktiviteter att filtrera efter. Klicka på **[!UICONTROL Save As]**.
 
    ![](assets/image2015-4-27-22-3a55-3a43.png)
 
-1. Ange **eget filternamn**. Klicka **Spara**.
+1. Ange en **[!UICONTROL custom filter name]**. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/five-1.png)
 
@@ -47,12 +47,12 @@ Sök efter aktiviteter som är viktiga för dig i aktivitetsloggen.
 
 ## Referera sparade filter {#reference-saved-filters}
 
-Du kan komma åt sparade filter via **Filter** nedrullningsbar meny.
+Du kan komma åt sparade filter via [!UICONTROL Filter] nedrullningsbar meny.
 
-1. Klicka på **Filter** nedrullningsbar meny. Välj **Egen**.
+1. Klicka på **[!UICONTROL Filters]** nedrullningsbar meny. Välj **[!UICONTROL Custom]**.
 
    ![](assets/seven-1.png)
 
-1. Klicka **Sparade filter**. Sparade filter visas nedan.
+1. Klicka på **[!UICONTROL Saved Filters]**. Sparade filter visas nedan.
 
    ![](assets/eight.png)

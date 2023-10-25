@@ -4,16 +4,16 @@ description: Sök och sammanfoga duplicerade personer - Marketo Docs - produktdo
 title: Sök och sammanfoga duplicerade personer
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
 
 # Sök och sammanfoga duplicerade personer {#find-and-merge-duplicate-people}
 
-Marketo deduplicerar automatiskt när nya personer kommer in i systemet. CRM kan dock ha skickat dubbletter till Marketo. Så här sammanfogar du dem.
+Marketo Engage tar automatiskt bort dubbletter när nya personer kommer in i systemet. CRM-data kan dock ha skickats över dubbletter från början. Så här sammanfogar du dem.
 
 >[!CAUTION]
 >
@@ -29,7 +29,7 @@ Marketo deduplicerar automatiskt när nya personer kommer in i systemet. CRM kan
 
 ## Sök dubbletter {#find-duplicates}
 
-1. Gå till **Databas** område.
+1. Gå till **[!UICONTROL Database]** område.
 
    ![](assets/find-and-merge-duplicate-people-1.png)
 
@@ -37,7 +37,7 @@ Marketo deduplicerar automatiskt när nya personer kommer in i systemet. CRM kan
    >
    >Det kanske inte fungerar att sammanfoga personer i Marketo om du använder ett Salesforce-personkonto. Sammanfoga posterna i Salesforce om det är möjligt.
 
-1. Välj **Möjliga dubbletter** systemsmart lista och klicka på **Folk** -fliken.
+1. Välj **[!UICONTROL Possible Duplicates]** System Smart List och klicka på **[!UICONTROL People]** -fliken.
 
    ![](assets/find-and-merge-duplicate-people-2.png)
 
@@ -49,9 +49,9 @@ Marketo deduplicerar automatiskt när nya personer kommer in i systemet. CRM kan
 
 >[!CAUTION]
 >
->När du sammanfogar personer och den person som förlorar har ett anpassat Marketo-objekt, kommer det att **not** för att återassocieras med den vinnande personen. Överför det anpassade objektet igen innan du utför sammanfogningen.
+>När du sammanfogar personer och den person som förlorar har ett anpassat Marketo-objekt, kommer det att _not_ och associeras med den vinnande personen. Överför det anpassade objektet på nytt innan du utför sammanfogningen.
 
-1. Markera dubbletterna genom att hålla ned Ctrl/Cmd och klicka och sedan på **Sammanfoga personer**.
+1. Markera dubbletterna genom att hålla ned Ctrl/Cmd och klicka och sedan på **[!UICONTROL Merge People]**.
 
    ![](assets/find-and-merge-duplicate-people-3.png)
 
@@ -59,7 +59,7 @@ Marketo deduplicerar automatiskt när nya personer kommer in i systemet. CRM kan
    >
    >Du kan ha två eller flera dubbletter för samma person - markera alla samtidigt.
 
-1. Du ser värdena mellan posterna som _inte_ matchar. Välj det värde som du vill behålla för varje fält. Klicka **Sammanfoga** när det är klart. Om du inte vill ha något av värdena kan du kontrollera **Egen** och ange ett värde.
+1. Du ser värdena mellan posterna som _inte_ matcha. Välj det värde som du vill behålla för varje fält. Klicka **[!UICONTROL Merge]** när det är klart. Om du inte vill ha något av värdena kan du kontrollera **[!UICONTROL Custom]** och ange ett värde.
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 

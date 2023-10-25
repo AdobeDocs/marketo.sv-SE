@@ -4,7 +4,7 @@ description: Använda personinformationssidan - Marketo Docs - produktdokumentat
 title: Använda personinformationssidan
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 13%
@@ -20,7 +20,7 @@ Personinformationssidan innehåller all information som Marketo känner till om 
 Det finns många sätt att öppna specifika personer. Några exempel är:
 
 * Från **Databas** kan du söka i Snabbsökning
-* Valfri smart **list** eller lista
+* Alla **Smart List** eller lista
 * **Medlemmar** flik i ett program
 * **Visa kampanjmedlemmar** i en smart kampanj
 * Några **rapporter**
@@ -84,8 +84,8 @@ Många fält kan redigeras. Om du vill uppdatera en persons information skriver 
 | Marketo Social Facebook Photo URL | Marketo Social Facebook Profile URL | Marketo Social Facebook Reach | Refererade registreringar från Marketo Social Facebook | Refererade Marketo Social Facebook-besök |
 | Marketo Social Genus | Marketo Social, senast refererad registrering | Marketo Social, senaste refererat besök | Marketo Social LinkedIn Display Name | Marketo Social LinkedIn ID |
 | Marketo Social LinkedIn Photo URL | Marketo Social LinkedIn Profile URL | Marketo Social LinkedIn Reach | Refererade registreringar från Marketo Social LinkedIn | Refererade Marketo Social LinkedIn-besök |
-| Marketo Social Syndication ID | Marketo Social, totalt antal refererade registreringar | Marketo Social, totalt antal refererade besök | Marketo Social Twitter Display Name | Marketo Social Twitter ID |
-| Marketo Social Twitter Photo URL | Marketo Social Twitter Profile URL | Marketo Social Twitter Reach | Refererade registreringar från Marketo Social Twitter | Refererade Marketo Social Twitter-besök |
+| Marketo Social Syndication ID | Marketo Social, totalt antal refererade registreringar | Marketo Social, totalt antal refererade besök | Visningsnamn för Marketo Social Twitter | Marketo Social Twitter-ID |
+| Marketo Social Twitter Photo URL | Profil-URL för Marketo Social Twitter | Marketo Social Twitter Reach | Refererade registreringar för Marketo Social Twitter | Refererade besök i Marketo Social Twitter |
 | Mellannamn | Mobiltelefon | Antal anställda | Telefonnummer | Postnummer |
 | Prioritet | Relativa poäng | Roll | Titel | SNI-kod |
 | Plats | Stat | Avprenumererad | Orsak till avprenumeration | Uppdaterat den |
@@ -100,8 +100,8 @@ Många fält kan redigeras. Om du vill uppdatera en persons information skriver 
 >* Möjligheter för SFDC-kontakter
 >* Vissa Marketo-specifika fält, t.ex. Skapad och Ursprunglig källtyp.
 >
->Läs mer om [Systemhanterade fält](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
+>Läs mer om [Systemhanterade fält](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Skapa en anpassad flik för personinformationssidan](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
+>[Skapa en anpassad flik för personinformationssidan](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md){target="_blank"}

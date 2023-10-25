@@ -4,30 +4,30 @@ description: Leta upp aktivitetsloggen för en person - Marketo Docs - produktdo
 title: Leta reda på aktivitetsloggen för en person
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
 # Leta reda på aktivitetsloggen för en person {#locate-the-activity-log-for-a-person}
 
-Aktivitetsloggen är den ultimata källan till sanning. Det här är den fullständiga historien om en persons resa i Marketo.
+Aktivitetsloggen är den ultimata källan till sanning. Det här är den fullständiga historien om en persons resa i Marketo Engage.
 
-1. Gå till **Databas**.
+1. Gå till **[!UICONTROL Database]**.
 
    ![](assets/locate-the-activity-log-for-a-person-1.png)
 
-1. Välj **Alla personer**.
+1. Välj **[!UICONTROL All People]**.
 
    ![](assets/locate-the-activity-log-for-a-person-2.png)
 
-1. Klicka på **Folk** -fliken. Välj en person **ID** tal.
+1. Klicka på **[!UICONTROL People]** -fliken. Välj en person **[!UICONTROL Id]** tal.
 
    ![](assets/locate-the-activity-log-for-a-person-3.png)
 
-1. Klicka **Aktivitetslogg**.
+1. Klicka på **[!UICONTROL Activity Log]**.
 
    ![](assets/locate-the-activity-log-for-a-person-4.png)
 
@@ -43,10 +43,10 @@ Behöver du exportera en persons aktivitetslogg till Excel?
 
    ![](assets/locate-the-activity-log-for-a-person-6.png)
 
-1. En Excel-fil hämtas till webbläsaren.
+1. En Excel-fil laddas ned till webbläsaren.
 
    ![](assets/locate-the-activity-log-for-a-person-7.png)
 
    >[!MORELIKETHIS]
    >
-   >Läs mer om [filtrera aktivitetsloggen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) för att se specifik personverksamhet.
+   >Läs mer om [filtrera aktivitetsloggen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md){target="_blank"} för att se specifik personverksamhet.

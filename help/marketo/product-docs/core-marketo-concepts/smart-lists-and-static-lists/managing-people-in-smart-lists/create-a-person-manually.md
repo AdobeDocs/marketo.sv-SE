@@ -4,30 +4,30 @@ description: Skapa en person manuellt - Marketo Docs - produktdokumentation
 title: Skapa en person manuellt
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
 # Skapa en person manuellt {#create-a-person-manually}
 
-Det finns många sätt att få in en person i Marketo. Så här skapar du en manuellt.
+Det finns många sätt att få in en person i Marketo Engage. Så här skapar du en manuellt.
 
 >[!CAUTION]
 >
->Marketo gör det **not** har stöd för e-postadresser som innehåller känslolägesikoner.
+>Marketo stöder inte e-postadresser som innehåller känslolägesikoner.
 
-1. Gå till **Databas**.
+1. Gå till **[!UICONTROL Database]**.
 
    ![](assets/db-1.png)
 
-1. Under **Nytt**, klicka **Ny person**.
+1. Under **[!UICONTROL New]**, klicka **[!UICONTROL New Person]**.
 
    ![](assets/two-2.png)
 
-1. Ange personens information och klicka sedan på **Skapa**.
+1. Ange personens information och klicka sedan på **[!UICONTROL Create]**.
 
    ![](assets/three-2.png)
 

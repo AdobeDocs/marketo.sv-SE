@@ -4,9 +4,9 @@ description: Använd listmedlemmar i en smart lista - Marketo Docs - produktdoku
 title: Använda listmedlemmar i en smart lista
 exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Du kan lägga till personer i en lista med [Importera](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) eller [Lägg till i flödessteget Lista](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md).
+>Du kan lägga till personer i en lista med [Importera](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) eller [Lägg till i flödessteget Lista](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}.
 
 Med det här filtret kan du hämta medlemmar från en annan lista genom att referera till den i reglerna för smarta listor. Så här gör du.
 
-1. Välj en smart lista och klicka på **Smart List** -fliken.
+1. Välj en smart lista och klicka på **[!UICONTROL Smart List]** -fliken.
 
    ![](assets/smartlist-sltab.png)
 
-1. På den högra filterpanelen söker du efter och drar **List-medlem** filter på arbetsytan.
+1. På den högra filterpanelen söker du efter och drar **[!UICONTROL Member of List]** filter på arbetsytan.
 
    ![](assets/use-members-of-list-in-a-smart-list-2nd.png)
 
-1. Klicka på listrutan eller skriv för att söka efter listan som du vill ta med i den smarta listan.
+1. Klicka på listrutan eller skriv för att söka efter listan som du vill ta med i din smarta lista.
 
    ![](assets/memberoflist.png)
 

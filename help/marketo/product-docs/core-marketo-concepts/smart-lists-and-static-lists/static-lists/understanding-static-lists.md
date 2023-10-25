@@ -4,9 +4,9 @@ description: Statiska listor - Marketo Docs - produktdokumentation
 title: Statiska listor
 exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
 feature: Static Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -30,13 +30,13 @@ Skillnaden mellan en statisk och smart lista är avgörande för att förstå.
 >
 >Ett av de vanligaste felen är att man kan ta bort en person från en lista genom att helt enkelt ta bort personen. **Det här är fel**. Om du tar bort personen tas de bort från **hela databasen**, inte bara listan.
 
-## Olika sätt att lägga till/ta bort personer från en lista {#ways-to-add-remove-people-from-a-list}
+## Sätt att lägga till/ta bort personer från en lista {#ways-to-add-remove-people-from-a-list}
 
-1. Steg för smart kampanjflöde ([Lägg till i listan](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md), [Ta bort från lista](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md))
+1. Steg för smart kampanjflöde ([Lägg till i listan](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}, [Remove from List](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"})
 
-1. [Steg för ett åtgärdsflöde](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md)
+1. [Steg för ett åtgärdsflöde](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md){target="_blank"}
 1. Dra personer till en lista i trädet
-1. [Listimport](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+1. [Listimport](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 ## Vissa användningsområden för en statisk lista {#some-uses-of-a-static-list}
 
@@ -48,4 +48,4 @@ Njut av kraften i LIST!
 
 >[!MORELIKETHIS]
 >
->[Skapa en statisk lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
+>[Skapa en statisk lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md){target="_blank"}

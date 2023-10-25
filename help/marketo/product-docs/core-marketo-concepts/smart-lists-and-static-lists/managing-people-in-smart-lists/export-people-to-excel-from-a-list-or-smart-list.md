@@ -4,9 +4,9 @@ description: Exportera personer till Excel från en lista eller smart lista - Ma
 title: Exportera personer till Excel från en lista eller smart lista
 exl-id: d2a184e2-fb22-47f7-8368-747fa803233e
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Om du behöver listresultat eller smarta listresultat utanför Marketo kan du enkelt exportera till Excel. Så här gör du.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 
-1. Välj den lista eller smarta lista som du vill exportera och gå till **Folk** -fliken.
+1. Markera den lista eller smarta lista som du vill exportera och gå till **[!UICONTROL People]** -fliken.
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -27,22 +27,22 @@ Om du behöver listresultat eller smarta listresultat utanför Marketo kan du en
 
    ![](assets/exportpeople.png)
 
-1. Välj **Synliga kolumner** och klicka **Exportera**.
+1. Välj **[!UICONTROL Visible Columns]** och klicka **[!UICONTROL Export]**.
 
    ![](assets/image2014-9-11-14-3a1-3a37.png)
 
    >[!NOTE]
    >
-   >Om du väljer **Alla kolumner**, blir exporten större och tar längre tid att generera/hämta.
+   >Om du väljer **[!UICONTROL All Columns]**, blir exporten större och tar längre tid att generera/hämta.
 
    >[!TIP]
    >
-   >Om personposterna innehåller främmande tecken som inte återges korrekt vid exporten kan du prova att ändra filtypen i **Format** nedrullningsbar meny.
+   >Om personposterna innehåller främmande tecken som inte återges korrekt vid exporten kan du prova att ändra filtypen i **[!UICONTROL Format]** nedrullningsbar meny.
 
-1. Exporten körs. När du är klar klickar du **Ladda ned nu** för att hämta filen.
+1. Exporten körs. När du är klar klickar du **[!UICONTROL Download now]** för att hämta filen.
 
    ![](assets/popup.png)
 
    >[!TIP]
    >
-   >Om det tar ett tag att exportera kan du alltid logga ut och komma tillbaka till den senare. The **Ladda ned nu** kan nås genom att markera **Visa exportstatus** i **Liståtgärder** och gäller i en vecka.
+   >Om det tar ett tag att exportera kan du alltid logga ut och komma tillbaka till den senare. The **[!UICONTROL Download now]** kan nås genom att markera **[!UICONTROL Show Export Status]** i **[!UICONTROL List Actions]** och gäller i en vecka.
