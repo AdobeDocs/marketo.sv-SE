@@ -3,16 +3,16 @@ description: Standardfältmappning för Dynamics - Marketo Docs - produktdokumen
 title: Fältmappning för standardDynamics
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '829'
+source-wordcount: '830'
 ht-degree: 13%
 
 ---
 
 # Fältmappning för standardDynamics {#default-dynamics-field-mapping}
 
-När du först synkroniserar ditt Marketo-konto med Microsoft skapar Marketo automatiskt dessa associationer mellan de inbyggda fälten i Dynamics och Marketo.  Marketo synkroniserar även dina anpassade fält på leads, konton, säljprojekt och kontakter.
+När du först synkroniserar ditt Marketo Engage-konto med Microsoft skapar Marketo automatiskt dessa associationer mellan de inbyggda fälten i Dynamics och Marketo.  Marketo synkroniserar även dina anpassade fält på leads, konton, säljprojekt och kontakter.
 
 ## Leadfält {#lead-fields}
 
@@ -244,7 +244,7 @@ Leadfälten nedan synkroniseras för internt bruk.
       <th>API-namn för MS Dynamics</th>
     </tr>
     <tr>
-      <td>Ägare </td>
+      <td>Ägare</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -431,7 +431,7 @@ Leadfälten nedan synkroniseras för internt bruk.
     <tr>
       <td>Personanteckningar</td>
       <td>Beskrivning</td>
-      <td>description </td>
+      <td>description</td>
     </tr>
     <tr>
       <td>Personpoäng</td>
@@ -441,7 +441,7 @@ Leadfälten nedan synkroniseras för internt bruk.
     <tr>
       <td>Personanteckningar</td>
       <td>Beskrivning</td>
-      <td>description </td>
+      <td>description</td>
     </tr>
   </tbody>
 </table>
@@ -459,7 +459,7 @@ Kontaktfälten nedan synkroniseras för internt bruk.
       <th>API-namn för MS Dynamics</th>
     </tr>
     <tr>
-      <td>Ägare </td>
+      <td>Ägare</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -603,7 +603,7 @@ Kontofälten nedan synkroniseras för internt bruk.
       <th>API-namn för MS Dynamics</th>
     </tr>
     <tr>
-      <td>Ägare </td>
+      <td>Ägare</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -673,7 +673,7 @@ Kontofälten nedan synkroniseras för internt bruk.
       <th>API-namn för MS Dynamics</th>
     </tr>
     <tr>
-      <td>Ägare </td>
+      <td>Ägare</td>
       <td>ownerid</td>
     </tr>
     <tr>

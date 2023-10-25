@@ -4,7 +4,7 @@ description: Microsoft Dynamics Sync-filter -Merge - Marketo Docs - Produktdokum
 title: Microsoft Dynamics Sync-filter - Sammanfoga
 exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Det är när en post är sann och en är falsk som det blir svårt.
 
 | Om synkroniseringsfiltret för den förlorade posten är: | och synkroniseringsfiltret för den vinnande posten är: | Detta är resultatet i Marketo |
 |---|---|---|
-| True | True | Den vinnande posten fortsätter synkroniseringen med Marketo |
-| Falskt | Falskt | Det vinnande resultatet fortsätter **not** synka med Marketo |
+| True | True | Den vinnande posten fortsätter att synkroniseras med Marketo |
+| Falskt | Falskt | Det vinnande resultatet fortsätter _not_ synka med Marketo |
 | Falskt | True | Den vinnande posten synkroniseras med Marketo |
 | True | Falskt | Den vinnande posten synkroniseras inte med Marketo |

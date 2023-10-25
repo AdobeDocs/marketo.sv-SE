@@ -4,9 +4,9 @@ description: Synkroniseringsstatus - Marketo Docs - produktdokumentation
 title: Synkroniseringsstatus
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ På flikarna Synkroniseringsstatus och Synkroniseringsfel kan du hålla reda på
 
 ## Fliken Synkroniseringsstatus {#sync-status-tab}
 
-1. Klicka **Administratör** och **Microsoft Dynamics**.
+1. Klicka **[!UICONTROL Admin]** sedan **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. Klicka på **Synkroniseringsstatus** -fliken.
+1. Klicka på **[!UICONTROL Sync Status]** -fliken.
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
@@ -35,7 +35,7 @@ På flikarna Synkroniseringsstatus och Synkroniseringsfel kan du hålla reda på
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. Klicka på **Visa:** nedrullningsbar meny och välj **Senaste timmen** för att visa genomströmningsinformation.
+1. Klicka på **[!UICONTROL View]** nedrullningsbar meny och välj **[!UICONTROL Last Hour]** för att visa genomströmningsinformation.
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
@@ -55,4 +55,4 @@ Sök, sök och exportera leads (och andra objekt) som inte kunde synkroniseras m
 
 >[!MORELIKETHIS]
 >
->[Meddelandetyper](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
+>[Meddelandetyper](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md){target="_blank"}

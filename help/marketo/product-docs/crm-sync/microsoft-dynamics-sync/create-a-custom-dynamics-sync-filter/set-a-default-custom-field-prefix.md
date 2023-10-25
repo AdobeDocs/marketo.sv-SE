@@ -4,7 +4,7 @@ description: Ange ett standardprefix för anpassat fält - Marketo Docs - produk
 title: Ange ett standardprefix för anpassat fält
 exl-id: 5608864b-356d-451b-b079-4ea11c3296e5
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Ange ett standardprefix för anpassat fält {#set-a-default-custom-field-prefix}
 
-Microsoft Dynamics-standardprefixet för anpassade fält måste vara **new** för att Marketo egna fält ska kunna synkroniseras korrekt. Så här ändrar du standardprefixet.
+Microsoft Dynamics-standardprefixet för anpassade fält måste vara _new_ för att Marketo egna fält ska kunna synkroniseras korrekt. Så här ändrar du standardprefixet.
 
-1. Gå till Inställningar och välj **Anpassningar.**
+1. Gå till Inställningar och välj **Anpassningar**.
 
    ![](assets/image2015-10-9-11-3a18-3a8.png)
 

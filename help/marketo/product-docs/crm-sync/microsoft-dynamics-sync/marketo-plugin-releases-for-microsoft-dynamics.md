@@ -4,7 +4,7 @@ description: Marketo Plugin Releases for Microsoft Dynamics - Marketo Docs - Pro
 title: Marketo Plugin Releases for Microsoft Dynamics
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 7%
@@ -15,13 +15,13 @@ ht-degree: 7%
 
 När du först synkroniserar till Microsoft Dynamics hämtar du den senaste versionen av plugin-programmen för Marketo. Marketo uppdaterar regelbundet dessa plugin-program så att du kan gå tillbaka till samma ställe och ladda ned den nya versionen.
 
-[Ladda ned det senaste plugin-programmet](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) motsvarar din Dynamics-release.
+[Ladda ned det senaste plugin-programmet](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} motsvarar din Dynamics-release.
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-1.png)
 
 ## Uppdaterar Dynamics-lösningen {#updating-your-dynamics-solution}
 
-1. Importera den senaste versionen av lösningen över den befintliga versionen av Dynamics CRM (t.ex.: om Dynamics CRM har version 1.4 och den senaste versionen är 1.5, ska du importera _över_ version 1.4).
+1. Importera den senaste versionen av lösningen till den befintliga versionen av Dynamics CRM (t.ex. om Dynamics CRM har version 1.4 och den senaste versionen är 1.5) importerar du _över_ version 1.4).
 
 1. Följande popup-fönster visas. Välj **Uppdatera** och **Underhåll anpassningar** och sedan klicka **Importera**.
 
@@ -68,7 +68,7 @@ När du först synkroniserar till Microsoft Dynamics hämtar du den senaste vers
   <tr> 
    <td colspan="1"><p>4.0.0.21</p></td> 
    <td colspan="1">11/9/16</td> 
-   <td colspan="1">Felkorrigering: Plugin-programmet prenumererade inte på händelser som fångar upp det anpassade objektets statusändring. Den här korrigeringen är specifik för Dynamics CRM On Premise 2011. </td> 
+   <td colspan="1">Felkorrigering: Plugin-programmet prenumererade inte på händelser som fångar statusändringen för det anpassade objektet. Den här korrigeringen är specifik för Dynamics CRM On Premise 2011. </td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.20</td> 
@@ -78,12 +78,12 @@ När du först synkroniserar till Microsoft Dynamics hämtar du den senaste vers
   <tr> 
    <td colspan="1">4.0.0.19</td> 
    <td colspan="1">6/28/16</td> 
-   <td colspan="1"><p>Felkorrigering: En onödig uppdateringstransaktion för kundaffärsmöjlighetsrollen i marknadsföringsloggen noterades när affärsmöjligheten skapades. </p><p>Felkorrigering: En extra raderingstransaktion loggades när kundens affärsmöjlighetsroll togs bort.</p></td> 
+   <td colspan="1"><p>Felkorrigering: En onödig uppdateringstransaktion för kundaffärsmöjlighetsrollen i marknadsföringsloggen noterades när affärsmöjligheten skapades. </p><p>Felkorrigering: En extra borttagningstransaktion loggades när kundens affärsmöjlighetsroll togs bort.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.18</td> 
    <td colspan="1">5/31/16</td> 
-   <td colspan="1">Felkorrigering: Uppdaterade och tog bort anpassade objekt asynkront.</td> 
+   <td colspan="1">Felkorrigering: Uppdateringen och borttagningen av anpassade objekt har gjorts asynkron.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.17</td> 
@@ -93,7 +93,7 @@ När du först synkroniserar till Microsoft Dynamics hämtar du den senaste vers
   <tr> 
    <td colspan="1">4.0.0.16</td> 
    <td colspan="1">3/29/16</td> 
-   <td>Felkorrigering: En Tilldelningshändelse loggades när synkroniseringsfiltret stängdes av.</td> 
+   <td>Felkorrigering: En tilldelningshändelse loggades när synkroniseringsfiltret stängdes av.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.15</td> 
@@ -103,7 +103,7 @@ När du först synkroniserar till Microsoft Dynamics hämtar du den senaste vers
   <tr> 
    <td colspan="1">4.0.0.14</td> 
    <td colspan="1">1/18/16</td> 
-   <td colspan="1">Felkorrigering: Skapade åtkomstbegränsningar för normala Dynamics-användare för att bemöta säkerhetsproblem.</td> 
+   <td colspan="1">Felkorrigering: Åtkomstbegränsningar för normala Dynamics-användare har skapats för att åtgärda säkerhetsproblem.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.13</td> 
@@ -120,4 +120,4 @@ När du först synkroniserar till Microsoft Dynamics hämtar du den senaste vers
 
 >[!MORELIKETHIS]
 >
->[Ladda ned Marketo Lead Management Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+>[Ladda ned Marketo Lead Management Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}
