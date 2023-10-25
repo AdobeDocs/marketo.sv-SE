@@ -4,9 +4,9 @@ description: SEO - Förstå nyckelord - Marketo Docs - produktdokumentation
 title: SEO - Förstå nyckelord
 exl-id: 33a350c9-7b57-4031-b916-58d2b12c1927
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 [!UICONTROL Keywords] är ryggraden i er SEO-strategi. Målet är att vara på första sidan, så nära första sidan som möjligt för nyckelord som är relevanta för ditt företag.
 
-The [!UICONTROL Keywords] -avsnittet visar hur framgångsrik din webbplats är när det gäller att uppnå detta och hur du kan uppgradera till [din tävling](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
+The [!UICONTROL Keywords] -avsnittet visar hur framgångsrik din webbplats är när det gäller att uppnå detta och hur du ställer upp [din tävling](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
 
 ## [!UICONTROL Keywords] - Sammanfattningsvy {#keywords-summary-view}
 
@@ -51,6 +51,10 @@ The [!UICONTROL Keywords] -avsnittet visar hur framgångsrik din webbplats är n
   </tr> 
  </tbody> 
 </table>
+
+>[!NOTE]
+>
+>Data visas bara för nyckelord rankade 1-100.
 
 ## [!UICONTROL Keywords] - Konkurrentvy {#keywords-competitor-view}
 

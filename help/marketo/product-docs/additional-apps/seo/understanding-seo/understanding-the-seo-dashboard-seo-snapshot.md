@@ -4,14 +4,14 @@ description: Förstå SEO Dashboard -SEO Snapshot - Marketo Docs - produktdokume
 title: Förstå SEO-instrumentpanelen - SEO-ögonblicksbild
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
 
-# Förstå SEO-kontrollpanelen: SEO-fixering {#understanding-the-seo-dashboard-seo-snapshot}
+# Förstå SEO-instrumentpanelen: SEO-ögonblicksbild {#understanding-the-seo-dashboard-seo-snapshot}
 
 Använd kontrollpanelen för att få en översiktlig bild av hur nyckelordsrankningen är trending och hur bra webbplatsen är optimerad för SEO.
 
@@ -35,7 +35,9 @@ I det här avsnittet visas hur din webbplats rankas för [nyckelord som ni rikta
 >
 >Du kan även visa hur en [specifik lista](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) nyckelord fungerar. Klicka på listrutan och välj vilken som ska intressera dig.
 
-Kom igen! Vi fortsätter.
+>[!NOTE]
+>
+>Data visas bara för nyckelord rankade 1-100.
 
 ## [!UICONTROL Average Page Optimization Score] {#average-page-optimization-score}
 
@@ -63,4 +65,4 @@ Nu ska vi kolla in [!UICONTROL Recommendations] i den här instrumentpanelen.
 
 >[!MORELIKETHIS]
 >
->[Om kontrollpanelen: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
+>[Om Dashboard: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)

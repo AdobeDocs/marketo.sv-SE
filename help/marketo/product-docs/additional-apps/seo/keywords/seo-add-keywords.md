@@ -4,9 +4,9 @@ description: SEO - Lägg till nyckelord - Marketo Docs - produktdokumentation
 title: SEO - Lägg till nyckelord
 exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -33,8 +33,12 @@ Nyckelord är fraser som användare skriver i sökmotorer. Lägg till de nyckelo
 
    ![](assets/image2014-9-18-11-3a29-3a12.png)
 
-   >[!MORELIKETHIS]
-   >
-   >[Förstå nyckelord (sammanfattningsvy)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-
 Bra jobbat! Nu bör du se dina nya tillägg i nyckelordslistan.
+
+>[!NOTE]
+>
+>Data visas bara för nyckelord rankade 1-100.
+
+>[!MORELIKETHIS]
+>
+>[Förstå nyckelord (sammanfattningsvy)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
