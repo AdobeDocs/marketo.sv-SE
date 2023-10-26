@@ -4,32 +4,20 @@ description: '"Lägg till [!DNL Webex] som [!DNL LaunchPoint] Service - Marketo 
 title: "Lägg till [!DNL Webex] som [!DNL LaunchPoint] Tjänst"
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: d8ee31db267a6e24ed4c764b6feae882e3dc6266
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 4%
+source-wordcount: '97'
+ht-degree: 3%
 
 ---
 
 # Lägg till [!DNL Webex] som [!DNL LaunchPoint] Tjänst {#add-webex-as-a-launchpoint-service}
 
-Marketo Engage hanterar dina [!DNL Webex] registrering av webbinarium och närvaro.
+Marketo Engage hanterar dina [!DNL Webex] registrering av webbinarium och närvaro. Du måste ha en befintlig prenumeration på [[!UICONTROL Webex]](https://www.webex.com/).
 
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
-
->[!NOTE]
->
->En befintlig prenumeration på [!DNL Webex] och administrationsrättigheter krävs för detta steg. Ha följande inställningar till hands: Användarnamn, lösenord och platsnamn.
-
->[!NOTE]
->
->Platsnamnet finns i slutet av den URL som används för att logga in [!DNL Webex]. Exempel:
->
->`https://mycompany.webex.com/mw0300lc/mywebex/default.do?siteurl=mycompany`
->
->**Varning:** Ange inte hela URL:en i detta fält. Ange bara platsnamnet!
 
 1. Gå till **[!UICONTROL Admin]** område.
 
@@ -43,22 +31,26 @@ Marketo Engage hanterar dina [!DNL Webex] registrering av webbinarium och närva
 
    ![](assets/add-webex-as-a-launchpoint-service-3.png)
 
-1. Ange **[!UICONTROL Display Name]**. Under **[!UICONTROL Service]** väljer du **[!UICONTROL Webex]**.
+1. Ange en **[!UICONTROL Display Name]**. I **[!UICONTROL Service]** nedrullningsbar meny, välja **[!UICONTROL Webex Webinars]**.
 
    ![](assets/add-webex-as-a-launchpoint-service-4.png)
 
-1. Ange **[!UICONTROL Username]** och **[!UICONTROL Password]**.
+1. Klicka på **[!UICONTROL Log Into Webex Webinars]**.
 
    ![](assets/add-webex-as-a-launchpoint-service-5.png)
 
-1. Slutför processen genom att ange **[!UICONTROL Site Name]** sedan klicka **[!UICONTROL Create]**.
+1. Webex öppnas på en ny flik. Logga in med dina autentiseringsuppgifter för Webex.
 
    ![](assets/add-webex-as-a-launchpoint-service-6.png)
 
+1. När inloggningen är klar stängs fliken och _Ny tjänst_ modal i Marketo Engage kommer att vara &quot;Webex Webinars-kontot är inställt.&quot; Klicka på **[!UICONTROL Create]**.
+
+   ![](assets/add-webex-as-a-launchpoint-service-7.png)
+
 Dina **[!DNL Webex]** är nu synkroniserat med Marketo.
 
-![](assets/add-webex-as-a-launchpoint-service-7.png)
+![](assets/add-webex-as-a-launchpoint-service-8.png)
 
 >[!MORELIKETHIS]
 >
->Lär dig hur [skapa en händelse med [!DNL Webex]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target="_blank"}.
+>[Skapa en händelse med [!DNL Webex]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target="_blank"}.
