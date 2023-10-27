@@ -4,9 +4,9 @@ description: Konfigurera protokoll för Marketo - Marketo Docs - produktdokument
 title: Konfigurera protokoll för Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
+source-git-commit: f95721d5007fc686a8de7d11233cfe08ccce7237
 workflow-type: tm+mt
-source-wordcount: '1028'
+source-wordcount: '968'
 ht-degree: 3%
 
 ---
@@ -15,13 +15,7 @@ ht-degree: 3%
 
 Om du eller din organisation använder restriktiva brandväggs- eller proxyserverinställningar kan du eller din nätverksadministratör behöva tillåtslista vissa domäner och IP-adressintervall för att Adobe Marketo Engage ska fungera som förväntat.
 
-## Varumärkesinriktade kampanjlandningssidor och e-postmeddelanden {#branded-campaign-landing-pages-and-emails}
-
-Er marknadsföringsgrupp använder Marketo för att skapa varumärkesanpassade kampanjlandningssidor och e-postmeddelanden. För att säkerställa att dessa landningssidor och e-postmeddelanden fungerar behöver de lite hjälp från IT-avdelningen. Ange följande protokoll med den information som din marknadsföringsgrupp ska ha skickat till dig via e-post.
-
-Den här artikeln bör delas med IT-avdelningen på det företag som vill implementera dessa protokoll.
-
-Om IT-teamet begränsar webbåtkomsten via ett tillåtelselista ber du dem lägga till följande domäner (inklusive asterisken) för att tillåta alla Marketo resurser och webbsocketar:
+Om du behöver hjälp med att implementera protokollen nedan kan du dela den här artikeln med din IT-avdelning. Om de begränsar webbåtkomsten med hjälp av ett tillåtelselista måste de lägga till följande domäner (inklusive asterisken) för att tillåta alla Marketo-resurser och webbsocketar:
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
