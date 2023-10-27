@@ -4,9 +4,9 @@ title: Nytt dokument för Lägg till bilder
 hide: true
 hidefromtoc: true
 feature: Image Editor
-source-git-commit: 100a12a2d9cafe73b6ce62cecee177da604332d3
+source-git-commit: 2154c444be9654474fcc2d1b8e9983983f44846f
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -103,9 +103,13 @@ Text
 
    ![](assets/add-images-and-files-to-marketo-15.png)
 
-1. Text
+1. Välj **[!UICONTROL Adobe Experience Manager]** och klicka **[!UICONTROL Next]**.
 
-PICC
+   ![](assets/add-images-and-files-to-marketo-16.png)
+
+   >[!NOTE]
+   >
+   >Om du inte redan har gjort det blir du ombedd att logga in på ditt AEM.
 
 1. Text
 
