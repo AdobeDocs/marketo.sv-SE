@@ -4,14 +4,16 @@ title: Skapa en händelse med Webex
 hide: true
 hidefromtoc: true
 feature: Events
-source-git-commit: 286e1b7b563be70e932206adec6f80b4877b7953
+source-git-commit: eb7bea86a5696ff2699b38b27291deeb5cbe7ab2
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '602'
 ht-degree: 0%
 
 ---
 
 # Skapa en händelse med Webex {#create-an-event-with-webex}
+
+När du har skapat ett webbinarium i Webex måste du synkronisera ditt event med Marketo Engage.
 
 >[!PREREQUISITES]
 >
@@ -19,13 +21,9 @@ ht-degree: 0%
 >* [Skapa ett nytt händelseprogram](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Ange lämplig [flödesåtgärder](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) för att spåra engagemang
 
-## Boka ett webbinarium {#schedule-a-webinar}
+## Schemalägg ditt webbinarium {#schedule-your-webinar}
 
-Skapa först ett webbinarium i [Webex](https://www.webex.com/){target="_blank"}. Marketo Engage only uses specific settings and fields for your integration, which we'll go through shortly. For additional information, please see the [Webex Webinars Help Documentation](https://help.webex.com/en-us/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"}.
-
->[!NOTE]
->
->Du kan välja vilka inställningar du vill använda i webbex, men endast följande information kan visas i Marketo Engage: Namn på webbinarium, startdatum/sluttid, tidszon och beskrivning.
+Du schemalägger din aktivitet och väljer önskade inställningar i [Webex](https://www.webex.com/){target="_blank"}. Only the following information is viewable in Marketo: webinar name, start/end date & time, time zone, and description. Additional information about Webex Webinars [can be found here](https://help.webex.com/en-us/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"}.
 
 ### Grundläggande information {#basic-information}
 
@@ -71,11 +69,9 @@ Skapa först ett webbinarium i [Webex](https://www.webex.com/){target="_blank"}.
 >
 >Integreringen av Marketo-Webex stöder inte sändning av bekräftelsemeddelanden från Webex. Bekräftelsen måste skickas via Marketo. När du har schemalagt evenemanget måste du kopiera händelseinformationen till bekräftelsemeddelandet från Marketo och ange e-postmeddelandet som _Operativ_.
 
-Nu är vi redo att hoppa in i Marketo Engage!
-
 ## Synkronisera din aktivitet med Marketo Engage {#sync-your-event-with-marketo-engage}
 
-1. I Marketo söker du efter och väljer det Event Program som du har skapat. I **Händelseåtgärder** nedrullningsbar meny, välja **Händelseinställningar**.
+1. I Marketo söker du efter och väljer önskat Event Program. I **Händelseåtgärder** nedrullningsbar meny, välja **Händelseinställningar**.
 
    ![](assets/create-an-event-with-webex-5.png)
 
@@ -99,7 +95,7 @@ Nu är vi redo att hoppa in i Marketo Engage!
 
    ![](assets/create-an-event-with-webex-9.png)
 
-Ditt Webex-event synkroniseras nu med ditt Marketo-event. Personer som registrerar sig för ditt webbinarium kommer att bli puffade för ditt webbinarium via _Ändra programstatus_ flödessteg när Ny status är inställd på &quot;Registrerad&quot;. Ingen annan status kommer att föra personen över. Var noga med att _Ändra programstatus_ flödessteg 1, och _Skicka e-post_ flödessteg 2.
+Ditt Webex-event har nu synkroniserats med ditt Marketo Event Program. Personer som registrerar sig för ditt webbinarium kommer att bli puffade för ditt webbinarium via _Ändra programstatus_ flödessteg när den nya statusen är inställd på &quot;Registrerad&quot;. Ingen annan status kommer att föra personen över. Var noga med att _Ändra programstatus_ flödessteg 1, och _Skicka e-post_ flödessteg 2.
 
 ## Saker att notera {#things-to-note}
 
