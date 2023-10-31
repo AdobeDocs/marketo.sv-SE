@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 51a4374cb2ce1995ec8f33eddd4b3470e7ad409e
+source-git-commit: dbfbf2bfe78e88e494d15b8d81e78e16e8c92edb
 workflow-type: tm+mt
-source-wordcount: '9099'
+source-wordcount: '9104'
 ht-degree: 0%
 
 ---
@@ -104,7 +104,7 @@ ht-degree: 0%
          + [Lägg till Munchkin-spårningskod på din webbplats](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
          + [Nästa generations Munchkin Tracking - frågor och svar](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
          + [Lägg till enkel inloggning på en portal](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
-         + [Lägg till WebEx som en LaunchPoint-tjänst](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
+         + [Lägg till webb som en LaunchPoint-tjänst](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
          + [Lägg till Workplace av Facebook som en LaunchPoint-tjänst](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
          + [Lägg till zoom som en LaunchPoint-tjänst](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
          + [Konfigurera dina SOAP API-inställningar](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
@@ -684,7 +684,8 @@ ht-degree: 0%
             + [Skapa ett evenemang med Adobe Connect](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
             + [Skapa en händelse med GotoWebinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
             + [Skapa en händelse med webbmöte på nivå 3](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
-            + [Skapa en händelse med WebEx](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
+            + [Skapa en händelse med Webex](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
+              [Skapa en händelse med Webex 2](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex-2.md)
             + [Skapa en händelse med zoom](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
             + Skapa en händelse med Marketo ON24-adaptern {#create-an-event-with-the-marketo-on24-adapter}
                + [Konfigurera ON24-integreringen med Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/set-up-the-on24-integration-with-marketo.md)
