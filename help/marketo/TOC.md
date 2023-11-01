@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: dbfbf2bfe78e88e494d15b8d81e78e16e8c92edb
+source-git-commit: 7edce24c2199a6a2eaa119d3ef77543bbd97999c
 workflow-type: tm+mt
-source-wordcount: '9104'
+source-wordcount: '9099'
 ht-degree: 0%
 
 ---
@@ -685,7 +685,6 @@ ht-degree: 0%
             + [Skapa en händelse med GotoWebinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
             + [Skapa en händelse med webbmöte på nivå 3](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
             + [Skapa en händelse med Webex](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
-              [Skapa en händelse med Webex 2](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex-2.md)
             + [Skapa en händelse med zoom](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
             + Skapa en händelse med Marketo ON24-adaptern {#create-an-event-with-the-marketo-on24-adapter}
                + [Konfigurera ON24-integreringen med Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/set-up-the-on24-integration-with-marketo.md)

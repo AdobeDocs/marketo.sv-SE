@@ -4,150 +4,101 @@ description: Skapa en händelse med Webex - Marketo Docs - produktdokumentation
 title: Skapa en händelse med Webex
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 7edce24c2199a6a2eaa119d3ef77543bbd97999c
 workflow-type: tm+mt
-source-wordcount: '957'
+source-wordcount: '602'
 ht-degree: 0%
 
 ---
 
 # Skapa en händelse med Webex {#create-an-event-with-webex}
 
+När du har skapat ett webbinarium i Webex måste du synkronisera ditt event med Marketo Engage.
+
 >[!PREREQUISITES]
 >
 >* [Lägg till webb som en LaunchPoint-tjänst](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [Skapa ett nytt händelseprogram](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Ange lämplig [flödesåtgärder](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) för att spåra engagemang
->* Kontrollera att du använder Webex-händelser (klassiska)
 
-Skapa först en Webex-händelse i Webex Event Center. Marketo använder bara specifika inställningar och fält för din integrering, som vi kommer att gå igenom inom kort. Andra fält som du kanske vill konfigurera för WebBex beskrivs i [Användarhandbok för Webex Event Center](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
+## Schemalägg ditt webbinarium {#schedule-your-webinar}
 
->[!IMPORTANT]
->
->Marketo Engage stöder endast händelser som skapats i WebBex-händelser (klassiska). Marketo stöder för närvarande inte händelser skapade i WebBex Events (nya).
+Du schemalägger din aktivitet och väljer önskade inställningar i [Webex](https://www.webex.com/){target="_blank"}. Only the following information is viewable in Marketo: webinar name, start/end date & time, time zone, and description. Additional information about Webex Webinars [can be found here](https://help.webex.com/en-us/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"}.
 
-## Grundläggande information {#basic-information}
+### Grundläggande information {#basic-information}
 
-* **Händelsenamn -** Det här namnet kan visas i Marketo.
-* **Kryssrutan Ej listrerad**
+![](assets/create-an-event-with-webex-1.png)
 
-   * Vi rekommenderar att du gör det **not** lista evenemanget. På så sätt kan alla registrera sig via Marketo landningssida. Personer som registrerar sig via en annan mekanism än Marketo visas i Marketo efter att evenemanget har avslutats OCH endast om de deltog i evenemanget.
-   * Om du väljer att lista evenemanget visas det på sidan Lista över händelser för alla som besöker din Event Center-webbplats.
+* **Ämne**: Detta är ditt händelsenamn och kan visas i Marketo.
+* **Datum och tid**: Start-/slutdatum, start-/sluttid, varaktighet och tidszon kan visas i Marketo.
+* **Maximalt antal deltagare**: Det maximala antalet deltagare avgör vilka WebBex-funktioner som stöds.
+* **Webbcast-vy för deltagare**: Markera detta om du vill att ditt webbinarium ska direktuppspelas till alla deltagare.
+* **Panelister**: Bjud in specifika personer att bli panelister på ditt webbinarium.
+* **Dagordning för webbinarium**: Fyll i detta om du vill ange kontext i den e-postinbjudan som skickas till panelerna.
 
-* **Registrering -** Markera den här rutan om du vill ange &quot;required&quot;. Du använder ett formulär/en landningssida från Marketo för att samla in registreringsinformation som skickas till Webex.
-* **Händelsenord**- (valfritt) Om du använder det här fältet måste du ta med det i bekräftelsemeddelandet!
+### Säkerhet {#security}
 
-![](assets/image2015-5-28-13-3a30-3a55.png)
+![](assets/create-an-event-with-webex-2.png)
 
-## Datum och tid {#date-time}
+* **Webbinarium, lösenord**: (valfritt) Om du använder det här fältet måste du ta med det i bekräftelsemeddelandet.
+* **Panelist password**: (valfritt) Om du använder det här fältet måste du ta med det på webbseminariets dagordning.
+* **Kräv konto**: Begränsar deltagare till endast de som har Webex-konton.
 
-* **Startdatum** - Ange ditt startdatum. Detta kommer att kunna visas i Marketo.
+### Alternativ för ljudanslutning {#audio-connection-options}
 
-* **Starttid** - Ange din starttid. Detta kommer att kunna visas i Marketo.
+![](assets/create-an-event-with-webex-3.png)
 
-* **Beräknad varaktighet** - Ange händelsens varaktighet. Detta kommer att kunna visas i Marketo.
+* **Typ av ljudanslutning**: Välj hur webbinariet ska delta i ljuddelen av webbinariet.
+* **Ton för in- och utträde**: Välj det ljud som du vill att användare ska använda när någon går in i eller ut ur webbinariet (anslutning av telefonljud krävs).
+* **Ljud av panelistan**: Välj önskade inställningar för tyst i panelistan.
 
-* **Tidszoner** - Ange tillämpliga tidszoner. De kommer att kunna ses i Marketo.
+### Avancerade alternativ {#advanced-options}
 
-![](assets/image2015-5-28-13-3a37-3a39.png)
+![](assets/create-an-event-with-webex-4.png)
 
-## Inställningar för ljudkonferens {#audio-conference-settings}
-
-De här inställningarna finns endast i Webex. De används inte av eller kan inte visas i Marketo, men de kan vara viktiga för ditt webbinarium, så dubbelkontrollera dem!
-
-## Händelsebeskrivning och -alternativ  {#event-description-options}
-
-Följande alternativ används av eller kan visas i Marketo. Andra fält finns endast i Webex.
-
-* **Beskrivning** - Ange en beskrivning. Detta kan visas men inte ändras i Marketo.
-* **Enkät efter evenemanget** - Marketo kan för närvarande inte samla in information om en undersökning efter ett evenemang på webben.
-* **Mål-URL** - (valfritt) Du kan ange URL-adressen till en Marketo-landningssida som fungerar som mål-URL-adressen som ska visas när sessionen är slut.
-
-![](assets/image2015-5-28-13-3a48-3a49.png)
-
-## Deltagare och registrering {#attendees-registration}
-
-Du styr inbjudningslistan, registreringsformuläret och andra e-postmeddelanden med hjälp av en Marketo Event. Andra funktioner stöds inte av Marketo, bland annat:
-
-* **Högsta antal registranter** - För närvarande **not** som stöds med integreringen mellan Marketo och Webex.  Manuellt godkännande av registranter är tillgängligt med statusen Väntande godkännande och status i Marketo.
-
-* **Registrerings-ID krävs** - Stöds för närvarande med Marketo-Webex-integreringen. Du kan använda Marketo för att skicka ut bekräftelsemeddelandet för ditt event. När personen registrerar sig får han/hon en unik URL som han/hon använder för att ange händelsen.
-
-  >[!TIP]
-  >
-  >Om du vill fylla i bekräftelsemeddelandet med den här unika URL-adressen använder du följande token i e-postmeddelandet: `{{member.webinar url}}`. När bekräftelse-URL:en skickas, tolkas denna token automatiskt till personens unika bekräftelse-URL.
-  >
-  >Ange bekräftelsemeddelandet som **Operativ** för att säkerställa att personer som registrerar sig och kan avbeställa prenumerationen fortfarande får sin bekräftelseinformation.
-
-* **Registreringslösenord** - (Valfritt) Stöds för närvarande inte med integreringen Marketo-Webex.
-* **Godkännanderegler** - Stöds för närvarande inte med Marketo-Webex-integreringen. Men ni kan använda smarta kampanjer i Marketo för att styra godkännanden.
-
-![](assets/image2015-5-28-14-3a4-3a41.png)
-
-### Presentatörer och paneler {#presenters-panelists}
-
-Informationen som konfigureras i det här avsnittet skickas inte till Marketo.
-
-### E-postmeddelanden {#email-messages}
-
-Du kommer att använda Marketo för att skicka ut e-postmeddelanden till dina registranter, bekräftelsemeddelanden osv. Du behöver inte konfigurera något i det här avsnittet. Inaktivera (avmarkera) alternativen för e-postmeddelanden i Webex.
-
-![](assets/image2015-5-28-14-3a9-3a14.png)
+* **Automatisk inspelning**: Markera detta om du vill att webbinariet ska spelas in automatiskt.
+* **Öva session**: Kontrollera att en övningssession har startats när webbinariet börjar.
+* **Brytningssessioner**: Med brytningssessioner kan du förtilldela paneler och deltagare innan webbinariet startar, eller låta dem ansluta under webbinariet.
+* **Webbinarier**: Genom att lägga till i en webbinarieserie kan man se webbinariet oavsett om det är offentligt eller inte.
+* **Registrering**: Kräver att deltagarna registrerar sig och får värdgodkännande innan de går med.
+* **Påminnelse via e-post**: Välj en påminnelse från 15 minuter innan webbinariet startar upp till två dagar.
+* **Alternativ för webbinarier**: Avgör vilka funktioner som är tillgängliga för deltagare i webbinariet.
+* **Deltagarbehörigheter**: Deltagarbehörigheter avgör vilka åtgärder som är tillgängliga för webbinariets deltagare.
 
 >[!NOTE]
 >
->Integreringen av Marketo-Webex stöder inte sändning av bekräftelsemeddelanden från Webex. Bekräftelsen måste skickas via Marketo. När du har schemalagt evenemanget måste du kopiera händelseinformationen till bekräftelsemeddelandet från Marketo och ange e-postmeddelandet som **Operativ**.
+>Integreringen av Marketo-Webex stöder inte sändning av bekräftelsemeddelanden från Webex. Bekräftelsen måste skickas via Marketo. När du har schemalagt evenemanget måste du kopiera händelseinformationen till bekräftelsemeddelandet från Marketo och ange e-postmeddelandet som _Operativ_.
 
-Nu är vi redo att börja använda Marketo!
+## Synkronisera din aktivitet med Marketo Engage {#sync-your-event-with-marketo-engage}
 
-1. Markera händelsen som du skapade. Öppna **Händelseåtgärder** nedrullningsbar meny. Välj **Händelseinställningar.**
+1. I Marketo söker du efter och väljer önskat Event Program. I **Händelseåtgärder** nedrullningsbar meny, välja **Händelseinställningar**.
 
-   ![](assets/image2015-5-14-16-3a7-3a31.png)
+   ![](assets/create-an-event-with-webex-5.png)
 
    >[!NOTE]
    >
    >Kanaltypen för den valda händelsen måste vara **webbinarium**.
 
-1. Under **Evenemangspartner**, markera **Webex**.
+1. I **Evenemangspartner** nedrullningsbar meny, välja **Webex Webinars**.
 
-   ![](assets/image2015-1-30-13-3a58-3a2.png)
+   ![](assets/create-an-event-with-webex-6.png)
 
-1. Under **Inloggning** väljer du din webbex-inloggning.
+1. I **Inloggning** väljer du din webbex-inloggning.
 
-   ![](assets/image2015-5-18-12-3a2-3a26.png)
+   ![](assets/create-an-event-with-webex-7.png)
 
-1. Under **Händelse** väljer du en nyligen skapad Webex-händelse. Välj sedan en valfri sida för säkerhetskopiering och klicka på **Spara**.
+1. I **Händelse** väljer du en Webex-händelse.
 
-   ![](assets/image2015-5-14-16-3a15-3a55.png)
+   ![](assets/create-an-event-with-webex-8.png)
 
-1. Välj en valfri säkerhetskopieringssida för din Webex-händelse. Välj i listrutan över godkända Marketo-landningssidor eller ange webbadressen till en landningssida som inte är Marketo.
+1. Din webbseminarieinformation fylls i. Klicka **Spara**.
 
-   >[!TIP]
-   >
-   >Ange en säkerhetskopieringssida för att dirigera en medlem till en viss sida om de klickar på deras anpassade händelse-URL före händelsens starttid.
+   ![](assets/create-an-event-with-webex-9.png)
 
-   >[!NOTE]
-   >
-   >De fält som Marketo skickar är: Förnamn, efternamn, e-postadress.
+Ditt Webex-event har nu synkroniserats med ditt Marketo Event Program. Personer som registrerar sig för ditt webbinarium kommer att bli puffade för ditt webbinarium via _Ändra programstatus_ flödessteg när den nya statusen är inställd på &quot;Registrerad&quot;. Ingen annan status kommer att föra personen över. Var noga med att _Ändra programstatus_ flödessteg 1, och _Skicka e-post_ flödessteg 2.
 
-   ![](assets/webex.png)
+## Saker att notera {#things-to-note}
 
-   >[!CAUTION]
-   >
-   >Undvik att använda kapslade e-postprogram för att skicka ut bekräftelsemeddelanden. Använd händelseprogrammets smarta kampanj i stället, som visas ovan.
+* Undvik att använda kapslade e-postprogram för att skicka ut bekräftelsemeddelanden. Använd ert Event Program Smart Campaign i stället.
 
-   >[!TIP]
-   >
-   >Det kan ta upp till 48 timmar innan data visas i Marketo. Om du fortfarande inte ser något efter att ha väntat så länge väljer du **Uppdatera från webbseminarieleverantör** på menyn Händelseåtgärder i **Sammanfattning** -fliken för din aktivitet.
-
-Söt! Ditt Webex-event synkroniseras nu med ditt Marketo-event. Personer som registrerar sig för ditt webbinarium kommer att pushas till din webbinarileverantör via flödessteget Ändra programstatus när Ny status är inställd på&quot;Registrerad&quot;. Ingen annan status kommer att föra personen över. Se även till att du följer flödessteget Ändra programstatus 1 och Skicka e-postflöde 2.
-
-## Visa schemat  {#viewing-the-schedule}
-
-Klicka på kalenderposten för aktiviteten i programschemavyn. Schemat visas till höger på skärmen.
-
-![](assets/image2015-5-14-16-3a21-3a41.png)
-
->[!NOTE]
->
->Om du vill ändra ditt evenemangsschema måste du redigera webbinariet på Webex.
+* Det kan ta upp till 48 timmar innan data visas i Marketo. Om du fortfarande inte ser något efter att ha väntat så länge klickar du på **Uppdatera från webbseminarieleverantör** i **Händelseåtgärder** listrutan i **Sammanfattning** -fliken i ditt Event Program.
