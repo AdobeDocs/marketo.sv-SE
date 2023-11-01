@@ -4,16 +4,20 @@ description: Filtrera resurser i en e-postrapport för en kampanj - Marketo Docs
 title: Filtrera resurser i en e-postrapport för kampanj
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
 
 # Filtrera resurser i en e-postrapport för kampanj {#filter-assets-in-a-campaign-email-reports}
 
-Fokusera på [Kampanjens e-postprestanda](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) rapport om specifika [smarta kampanjer](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) i dina program (&quot;lokala resurser&quot;) eller på de som har arkiverats.
+Fokusera på [Kampanjens e-postprestanda](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) rapport om specifika [smarta kampanjer](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) i dina program (lokala resurser) eller på de som har arkiverats.
+
+>[!NOTE]
+>
+>Det går inte att filtrera resurser i rapporter i satellitläge (ikonen&quot;Öppna i ett nytt fönster&quot; till höger om sidan med resursinformation).
 
 1. Gå till **Analyser** (eller **Marknadsföringsaktiviteter**).
 
