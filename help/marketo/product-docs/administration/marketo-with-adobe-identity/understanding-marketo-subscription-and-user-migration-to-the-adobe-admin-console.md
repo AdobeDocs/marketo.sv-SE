@@ -3,9 +3,9 @@ description: Understanding Marketo Subscription and User Migration to the Adobe 
 title: Förstå Marketo prenumeration och användarmigrering till Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: c871be92ce61c37e9a8d198c1b3bae6588f6a94f
+source-git-commit: cc7f5880dba926349ddf763e5b28fc4a922aa26d
 workflow-type: tm+mt
-source-wordcount: '1172'
+source-wordcount: '1169'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ Marketo produktadministratörer kan:
 
 >[!NOTE]
 >
->På grund av migreringens komplexitet begränsas datumändringar till högst 30 dagar efter det schemalagda datumet. Skicka ett e-postmeddelande till marketocares@marketo.com om du behöver ett senare datum.
+>På grund av migreringens komplexitet begränsas datumändringar till högst 30 dagar efter det schemalagda datumet. Skicka e-post till `marketocares@marketo.com` om du behöver ett senare datum.
 
 * Se en banderoll i Min Marketo som visar en nedräkning till startdatumet för användarmigreringen.
 
@@ -81,7 +81,7 @@ Som Marketo produktadministratör bör du se till att alla användare är förbe
 
 ### Vad man kan förvänta sig på migreringsdagen {#what-to-expect-on-migration-day}
 
-Användarmigreringen startar vid midnatt i den tidszon som anges i Marketo-prenumerationen.
+Användarmigreringen startar vid midnatt Pacific Standard Time på migreringens startdatum.
 
 **Adobe migrerar automatiskt Marketo Admins först**. När Marketo-administratörer migreras till Adobe Identity får de rollen som produktadministratör för Adobe i Marketo-programmet tillsammans med eventuella andra roller de tidigare hade.
 
@@ -101,4 +101,4 @@ Adobe meddelar alla systemadministratörer och produktadministratörer via e-pos
 
 ## Få support {#get-support}
 
-Om du vill ha ytterligare support för din prenumeration eller din användarmigrering kan du skicka ett e-postmeddelande till marketocares@marketo.com.
+Om du vill ha ytterligare support för din prenumeration eller din användarmigrering kan du skicka e-post `marketocares@marketo.com`.
