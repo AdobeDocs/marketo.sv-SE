@@ -2,10 +2,10 @@
 description: Versionsinformation - juli 2023 - Marketo Docs - produktdokumentation
 title: Versionsinformation - juli 2023
 feature: Release Information
-exl-id: bda861e3-24a1-4325-9b4c-f65a046d7696
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 4056353c-4125-4849-8350-59c58afb9e66
+source-git-commit: 87bc9acec7f998edaf06ecb1880da91513f32214
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '654'
 ht-degree: 1%
 
 ---
@@ -92,7 +92,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
 
 </br>
 
-* **Avbeställ tilläggsinställningar**: Du har nu större kontroll över dina avbeställningsmeddelanden med nya konfigurationsalternativ för Avbeställ tillägg. Nya funktioner ger administratörerna kontroll över när, var och vilket meddelande om att avbeställa prenumerationen som kommer att visas i e-postmeddelandena om försäljningen.
+* **Avbeställ tilläggsinställningar för försäljningsinsikter**: Du har nu större kontroll över dina avbeställningsmeddelanden med nya konfigurationsalternativ för Avbeställ tillägg. Nya funktioner ger administratörerna kontroll över när, var och vilket meddelande om att avbeställa prenumerationen som kommer att visas i e-postmeddelandena om försäljningen.
 
 <table> 
   <tr> 
@@ -100,13 +100,13 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><a href="help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">Lägg till inställningen för att avbryta prenumerationen</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Fråga om dynamiskt fält**: Nu kan du uppmana säljteamet att anpassa specifika delar av ett e-postmeddelande ännu mer med nya fältfrågor som kan läggas till i e-postmallar i Sales Insight Actions.
+* **Fråga om dynamiska fält för försäljningsinsikter**: Nu kan du uppmana säljteamet att anpassa specifika delar av ett e-postmeddelande ännu mer med nya fältfrågor som kan läggas till i e-postmallar i Sales Insight Actions.
 
 <table> 
   <tr> 
@@ -120,7 +120,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
   </tbody>
 </table>
 
-* **Dynamiska standardfält**: Med standardvärden för dynamiska fält kan du konfigurera ett reservvärde som ett dynamiskt fält kan resultera i om det inte finns något tillgängligt värde att fylla i. Detta bidrar till att säkerställa att e-postmeddelanden skickas ut med all personalisering ifylld.
+* **Dynamiska standardfält för försäljningsåtgärder**: Med standardvärden för dynamiska fält kan du konfigurera ett reservvärde som ett dynamiskt fält kan resultera i om det inte finns något tillgängligt värde att fylla i. Detta bidrar till att säkerställa att e-postmeddelanden skickas ut med all personalisering ifylld.
 
 <table> 
   <tr> 
