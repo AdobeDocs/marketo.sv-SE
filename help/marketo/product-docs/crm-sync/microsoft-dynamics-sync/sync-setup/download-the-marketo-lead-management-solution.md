@@ -4,9 +4,9 @@ description: Ladda ned Marketo Lead Management Solution - Marketo Docs - produkt
 title: Ladda ned Marketo Lead Management Solution
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Administratörsbehörigheter krävs**
 
-Du måste hämta och installera en Marketo-lösning i ditt Microsoft Dynamics-konto för att komma igång med synkroniseringen.
+Du måste hämta och installera en Marketo Engage-lösning i ditt Microsoft Dynamics-konto för att komma igång med synkroniseringen.
 
 >[!CAUTION]
 >
@@ -27,19 +27,19 @@ Du måste hämta och installera en Marketo-lösning i ditt Microsoft Dynamics-ko
 >
 >Marketo stöder endast SSL-certifikat som för närvarande är kompatibla med Java 7.
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/download-the-marketo-lead-management-solution-1.png)
 
-1. Klicka på **CRM**.
+1. Klicka på **[!UICONTROL CRM]**.
 
    ![](assets/download-the-marketo-lead-management-solution-2.png)
 
-1. Välj **Microsoft**.
+1. Välj **[!DNL Microsoft]**.
 
    ![](assets/download-the-marketo-lead-management-solution-3.png)
 
-1. Välj **Ladda ned Marketo Solution**.
+1. Välj **[!UICONTROL Download Marketo Solution]**.
 
    ![](assets/download-the-marketo-lead-management-solution-4.png)
 

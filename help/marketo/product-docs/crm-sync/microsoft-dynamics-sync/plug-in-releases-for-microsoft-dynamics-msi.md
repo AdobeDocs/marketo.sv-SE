@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10099102
 description: Plugin-versioner för Microsoft Dynamics MSI - Marketo Docs - produktdokumentation
-title: Plugin-versioner för Microsoft Dynamics MSI
+title: Plug-in-versioner för Microsoft Dynamics MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 6%
+source-wordcount: '309'
+ht-degree: 7%
 
 ---
 
-# Plugin-versioner för Microsoft Dynamics MSI {#plug-in-releases-for-microsoft-dynamics-msi}
+# Plug-in-versioner för Microsoft Dynamics MSI {#plug-in-releases-for-microsoft-dynamics-msi}
 
-När du först synkroniserar till Microsoft Dynamics hämtar och installerar du den senaste versionen av plugin-programmen för Marketo Sales Insight (MSI). Marketo uppdaterar regelbundet dessa plugin-program så att du kan gå tillbaka till samma ställe och ladda ned den nya versionen.
+När du först synkroniserar till Microsoft Dynamics hämtar och installerar du den senaste versionen av plugin-programmen för Marketo Sales Insight (MSI). Marketo Engage uppdaterar regelbundet dessa plugin-program så att du kan gå tillbaka till samma ställe och ladda ned den nya versionen.
 
-Om du använder Marketo inbyggda CRM-synkroniseringslösning för Dynamics, ska du [ladda ned det senaste plugin-programmet](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} corresponding to your Dynamics release. For those who have a custom sync and have purchased Marketo Sales Insight, the [package is here](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+Om du använder Marketo inbyggda CRM-synkroniseringslösningen för Dynamics, ska du [ladda ned det senaste plugin-programmet](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} corresponding to your Dynamics release. For those who have a custom sync and have purchased Marketo Sales Insight, the [package is here](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
 >[!NOTE]
 >
@@ -23,23 +23,23 @@ Om du använder Marketo inbyggda CRM-synkroniseringslösning för Dynamics, ska 
 
 ## Uppgradera din MSI-lösning {#upgrading-your-msi-solution}
 
-1. Importera den senaste versionen av lösningen _över den befintliga versionen_ i Dynamics CRM genom att trycka på **Importera** i Dynamics.
+1. Importera den senaste versionen av lösningen _över den befintliga versionen_ i Dynamics CRM genom att trycka på **[!UICONTROL Import]** i Dynamics.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-1.png)
 
 >[!NOTE]
 >
->Exempel: om din Dynamics CRM har version 2.0.0.20 och den senaste versionen är 2.0.0.21, ska du importera _över_ version 2.0.0.20.
+>Exempel: Om din Dynamics CRM har version 2.0.0.20 och den senaste versionen är 2.0.0.21, importerar du _över_ version 2.0.0.20.
 
-1. Klicka **Nästa**.
+1. Klicka på **[!UICONTROL Next]**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-2.png)
 
-1. Välj **Steg för uppgradering** och **Underhåll anpassningar** och sedan klicka **Importera**.
+1. Välj **[!UICONTROL Stage for Upgrade]** och **[!UICONTROL Maintain customizations]** och sedan klicka **[!UICONTROL Import]**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-3.png)
 
-1. Klicka **Nästa**.
+1. Klicka på **[!UICONTROL Next]**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
 
@@ -49,7 +49,7 @@ Om du använder Marketo inbyggda CRM-synkroniseringslösning för Dynamics, ska 
 
 Och det är allt! Efter uppgraderingen visas bara en MSI-lösning.
 
-## Versionsuppdateringar {#version-updates}
+## Uppdateringar av versioner {#version-updates}
 
 <table> 
  <colgroup> 
@@ -86,22 +86,22 @@ Och det är allt! Efter uppgraderingen visas bara en MSI-lösning.
   <tr> 
    <td colspan="1">10/01/20</td> 
    <td colspan="1">2.0.0.21</td> 
-   <td colspan="1">Felkorrigering: Tilldela åtkomst till MSI API-konfigurationsfält för användare med rollen Sales Insight</td> 
+   <td colspan="1">Felkorrigering: Tilldela åtkomst till konfigurationsfält för MSI API för användare med rollen Sales Insight</td> 
   </tr> 
   <tr> 
    <td colspan="1">07/20/20</td> 
    <td colspan="1">2.0.0.20</td> 
-   <td colspan="1">Felkorrigering: Lägg till ett valideringsmeddelande för osynkroniserade poster</td> 
+   <td colspan="1">Felkorrigering: Lägg till ett valideringsmeddelande för icke-synkroniserade poster</td> 
   </tr> 
   <tr> 
    <td colspan="1">06/12/20</td> 
    <td colspan="1">2.0.0.19</td> 
-   <td colspan="1">Felkorrigering: Så här döljer du MSI-hemligt lösenord i MSD API-konfiguration</td> 
+   <td colspan="1">Felkorrigering: Så här döljer du lösenord för MSD-API-konfiguration</td> 
   </tr> 
   <tr> 
    <td colspan="1">05/26/20</td> 
    <td colspan="1">2.0.0.18</td> 
-   <td colspan="1">Felkorrigering: Så här ändrar du MSI-roll-ID-validering för att visa MSI-knappar</td> 
+   <td colspan="1">Felkorrigering: Så här ändrar du MSI roll-ID-validering för att visa MSI-knappar</td> 
   </tr> 
   <tr> 
    <td colspan="1">05/21/20</td> 
@@ -111,7 +111,7 @@ Och det är allt! Efter uppgraderingen visas bara en MSI-lösning.
   <tr> 
    <td colspan="1">04/28/20</td> 
    <td colspan="1">2.0.0.16</td> 
-   <td colspan="1">Felkorrigering: Tar bort länkberoende för inställning av platskarta för MSD CRM</td> 
+   <td colspan="1">Felkorrigering: Länkberoende för inställning av platskarta i MSD CRM tas bort</td> 
   </tr> 
  </tbody> 
 </table>
