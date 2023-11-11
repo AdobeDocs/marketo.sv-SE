@@ -3,16 +3,16 @@ description: Installera Marketo för Microsoft Dynamics 2016/Dynamics 365 On-Pre
 title: Installera Marketo för Microsoft Dynamics 2016/Dynamics 365 On-Premises Step 1 of 3
 exl-id: 0a494ae7-87da-4ff9-bb47-990b957533e1
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 15cb3ddcd82fa1ba60fae3aa1adaac3d5964a0fa
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 0%
+source-wordcount: '270'
+ht-degree: 1%
 
 ---
 
-# Steg 1 av 3: Konfigurera Synkronisera användare för Marketo (lokal version 2016 /Dynamics 365) {#step-of-configure-sync-user-for-marketo-on-premises-2016}
+# Steg 1 av 3: Konfigurera Synkronisera användare för Marketo (lokal version 2016/Dynamics 365) {#step-of-configure-sync-user-for-marketo-on-premises-2016}
 
-Innan du kan synkronisera Microsoft Dynamics 2016 On-Prem/Dynamics 365 med Marketo måste du först installera Marketo-lösningen i Dynamics.
+Innan du kan synkronisera Microsoft Dynamics 2016 On-Prem/Dynamics 365 med Marketo Engage måste du först installera Marketo-lösningen i Dynamics.
 
 >[!NOTE]
 >
@@ -20,45 +20,45 @@ Innan du kan synkronisera Microsoft Dynamics 2016 On-Prem/Dynamics 365 med Marke
 
 >[!PREREQUISITES]
 >
->Om du använder Microsoft Dynamics On-Premise måste du ha [Driftsättning mot Internet](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) med [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+ (ADFS) har konfigurerats. Obs! IFD-dokumentet laddas ned automatiskt när du klickar på länken.
+>Om du använder Microsoft Dynamics On-Premise måste du ha [Driftsättning mot Internet](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701){target="_blank"} (IFD) with [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0+ (ADFS) har konfigurerats. Obs! IFD-dokumentet laddas ned automatiskt när du klickar på länken.
 >
->[Ladda ned Marketo Lead Management Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) innan du börjar.
+>[Ladda ned Marketo Lead Management Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} innan du börjar.
 
 >[!NOTE]
 >
->**Dynamics-administratörsbehörigheter krävs.**
+>**Dynamics-administratörsbehörigheter krävs**.
 >
 >Du behöver administratörsbehörighet för CRM för att kunna utföra den här synkroniseringen.
 
-1. Logga in på **Dynamics.** Klicka på **Microsoft Dynamics CRM** nedrullningsbar meny och välj **Inställningar**.
+1. Logga in i Dynamics. Klicka på **[!UICONTROL Microsoft Dynamics CRM]** nedrullningsbar meny och välj **[!UICONTROL Settings]**.
 
    ![](assets/image2015-3-19-8-33-29.png)
 
-1. Under **Inställningar**, markera **Lösningar**.
+1. Under **[!UICONTROL Settings]** väljer du **[!UICONTROL Solutions]**.
 
    ![](assets/image2015-3-19-8-33-3.png)
 
-1. Klicka **Importera**.
+1. Klicka på **[!UICONTROL Import]**.
 
    ![](assets/image2015-3-19-8-34-8.png)
 
-1. Klicka **Bläddra** och välj den lösning du behöver [nedladdad](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klicka **Nästa**.
+1. Klicka **[!UICONTROL Browse]** och välj den lösning du behöver [nedladdad](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}. Klicka **Nästa**.
 
    ![](assets/image2015-3-19-9-20-56.png)
 
-1. Visa lösningsinformationen och klicka på **Visa information om lösningspaket**.
+1. Visa lösningsinformationen och klicka på **[!UICONTROL View solution package details]**.
 
    ![](assets/image2015-11-18-11-12-8.png)
 
-1. När du är klar med kontrollen av all information klickar du på **Stäng**.
+1. När du är klar med kontrollen av all information klickar du på **[!UICONTROL Close]**.
 
    ![](assets/step6.png)
 
-1. Gå tillbaka till sidan Lösningsinformation, klicka på **Nästa**.
+1. Gå tillbaka till sidan Lösningsinformation, klicka på **[!UICONTROL Next]**.
 
    ![](assets/image2015-3-19-9-21-50.png)
 
-1. Kontrollera att kryssrutan för SDK-alternativet är markerad. Klicka **Importera**.
+1. Kontrollera att kryssrutan för SDK-alternativet är markerad. Klicka på **[!UICONTROL Import]**.
 
    ![](assets/image2015-3-19-9-19-12.png)
 
@@ -70,7 +70,7 @@ Innan du kan synkronisera Microsoft Dynamics 2016 On-Prem/Dynamics 365 med Marke
 
    ![](assets/image2015-3-11-11-34-9.png)
 
-1. Hämta en loggfil (om du vill) och klicka på **Stäng**.
+1. Hämta en loggfil (om du vill) och klicka på **[!UICONTROL Close]**.
 
    >[!NOTE]
    >
@@ -78,11 +78,11 @@ Innan du kan synkronisera Microsoft Dynamics 2016 On-Prem/Dynamics 365 med Marke
 
    ![](assets/image2015-3-13-9-54-39.png)
 
-1. Marketo Lead Management visas nu på **Alla lösningar** sida.
+1. Marketo Lead Management visas nu på **[!UICONTROL All Solutions]** sida.
 
    ![](assets/image2015-3-19-8-40-38.png)
 
-1. Välj Marketo och klicka **Publicera alla anpassningar**.
+1. Välj Marketo och klicka **[!UICONTROL Publish All Customizations]**.
 
    ![](assets/image2015-3-19-8-41-21.png)
 
@@ -94,4 +94,4 @@ Innan du kan synkronisera Microsoft Dynamics 2016 On-Prem/Dynamics 365 med Marke
 
    >[!MORELIKETHIS]
    >
-   >[Installera Marketo för Dynamics 2015 On-Prem och 2016 365 On-Prem Step 2 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
+   >[Installera Marketo för Dynamics 2015 On-Prem och 2016 365 On-Prem Step 2 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md){target="_blank"}
