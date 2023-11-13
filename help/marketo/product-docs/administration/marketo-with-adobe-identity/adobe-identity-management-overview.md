@@ -3,22 +3,16 @@ description: Adobe Identity Management Overview - Marketo Docs - Product Documen
 title: Adobe Identity Management - översikt
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
 
 # Adobe Identity Management - översikt {#adobe-identity-management-overview}
 
-Om du har ett nytt konto hos Adobe Marketo Engage (nytt konto, inte bara en ny instans för ett befintligt konto) från och med den 15 februari 2022, kan det integreras med Adobe Identity Management System, beroende på vilket produktpaket som köpts. Om du vill ta reda på om du har det kontaktar du kontoteamet (din kontoansvarige) på Adobe.
-
-Befintliga Marketo-prenumerationer kommer att börja migreras till Adobe Identity Management System under andra halvåret 2023.
-
-Om du har en [nytt konto](/help/marketo/product-docs/administration/marketo-with-adobe-identity/quick-guide.md){target="_blank"} (inte bara en ny instans för ett befintligt konto) med Adobe Marketo Engage den 15 februari 2022, kan den integreras med Adobe Identity Management System (IMS), beroende på vilket produktpaket som köpts. Om du vill ta reda på om du har det kontaktar du kontoteamet (din kontoansvarige) på Adobe.
-
-Befintliga Marketo-prenumerationer kommer i slutet av 2023 att migreras till Adobe Identity Management System. I början kan dessa migreringar bara göras efter att du har återtecknat din Marketo-prenumeration. Adobe planerar att börja migrera Marketo-användare utanför omkontraktsevenemang i mitten av 2024.
+Alla nya Adobe Marketo Engage-prenumerationer (31 juli 2023 eller senare) är integrerade med Adobe Identity Management System. Befintliga Marketo-prenumerationer migreras för närvarande till Adobe Identity Management-systemet vid förnyelser och/eller omkontraktshändelser. Migreringar utanför en händelse för förnyelse eller omtilldelning stöds inte för närvarande.
 
 >[!NOTE]
 >
