@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d0302459ac521d6b0dc6dc699fa7d99b38b9f058
+source-git-commit: 16c3e72e7b58c81d80f55f1f92ce89da49470035
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '357'
 ht-degree: 2%
 
 ---
@@ -63,6 +63,6 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 ## Meddelanden {#announcements}
 
-* **Marketo Engage Forms jQuery 1.x**: I januari 2024-versionen kommer vi att uppdatera jQuery för Marketo Engage Forms till jQuery 3.x. Detta kan påverka implementeringen av anpassade formulär beroende på äldre versioner av jQuery.
+* **Marketo Engage Forms jQuery 1.x**: I januari 2024-versionen kommer vi att uppdatera jQuery för Marketo Engage Forms till jQuery 3.x. Detta kan påverka implementeringen av anpassade formulär beroende på äldre versioner av jQuery. [Läs mer här](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705#M2597){target="_blank"}.
 
 * **Marketo Events och Marketo Moments Deprecation**: Adobe is [ta bort Marketo Events och Marketo Moments](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"} från alla appbutiker från 2 oktober 2023. Befintliga användare - du kan fortsätta använda de här apparna tills du migrerar din Marketo Engage-instans till Adobe Identity. De här apparna stöder inte inloggning med Adobe ID.
