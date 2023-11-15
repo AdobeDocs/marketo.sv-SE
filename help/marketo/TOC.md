@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 7edce24c2199a6a2eaa119d3ef77543bbd97999c
+source-git-commit: 1152e81462fb77dd23ff57e26ded7f9b3c02c258
 workflow-type: tm+mt
-source-wordcount: '9099'
+source-wordcount: '9103'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ ht-degree: 0%
       + [Installationssteg](getting-started/setup/setup-steps.md)
       + [Konfigurera checklista](getting-started/setup/setup-checklist.md)
       + [Konfigurera protokoll för Marketo](getting-started/setup/configure-protocols-for-marketo.md)
+      + [Uppdaterat dokument för Konfigurera protokoll](getting-started/setup/updated-configure-protocols-doc.md)
    + Snabbvinningar {#quick-wins}
       + [Konfigurera och lägg till en person](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [Skicka e-post](getting-started/quick-wins/send-an-email.md)

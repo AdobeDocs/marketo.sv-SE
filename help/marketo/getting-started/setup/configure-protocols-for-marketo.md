@@ -4,7 +4,7 @@ description: Konfigurera protokoll för Marketo - Marketo Docs - produktdokument
 title: Konfigurera protokoll för Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: f95721d5007fc686a8de7d11233cfe08ccce7237
+source-git-commit: 1152e81462fb77dd23ff57e26ded7f9b3c02c258
 workflow-type: tm+mt
 source-wordcount: '968'
 ht-degree: 3%
@@ -217,4 +217,3 @@ Följande tabeller omfattar alla Marketo Engage-servrar som gör utgående samta
 
 </tbody>
 </table>
-
