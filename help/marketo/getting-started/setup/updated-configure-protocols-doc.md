@@ -4,7 +4,7 @@ title: Uppdaterat dokument för Konfigurera protokoll
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 1152e81462fb77dd23ff57e26ded7f9b3c02c258
+source-git-commit: 10458ed8bc6553e11686d00dacc1ba36d683ab56
 workflow-type: tm+mt
 source-wordcount: '2104'
 ht-degree: 2%
@@ -257,7 +257,7 @@ Det finns två typer av justering för DMARC - DKIM-justering och SPF-justering.
 
 * DKIM-justerad DMARC - För att ställa in DKIM-justerad DMARC måste du:
 
-   * Konfigurera DKIM för FROM: Meddelandets domän. Använd instruktionerna [i den här artikeln](help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
+   * Konfigurera DKIM för FROM: Meddelandets domän. Använd instruktionerna [i den här artikeln](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
    * Konfigurera DMARC för FROM:/DKIM-domänen som konfigurerats tidigare
 
 * DMARC-justerad SPF - Om du vill ställa in DMARC-justerad SPF via märkesbaserad retursökväg måste du:
