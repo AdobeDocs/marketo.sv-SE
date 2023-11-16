@@ -4,10 +4,10 @@ description: Konfigurera protokoll för Marketo - Marketo Docs - produktdokument
 title: Konfigurera protokoll för Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 1152e81462fb77dd23ff57e26ded7f9b3c02c258
+source-git-commit: 2c293eacb0dd693118efc0260118337eb671c1b9
 workflow-type: tm+mt
-source-wordcount: '968'
-ht-degree: 3%
+source-wordcount: '2104'
+ht-degree: 2%
 
 ---
 
@@ -90,7 +90,7 @@ Vissa antispam-system använder fältet för e-postretursökväg i stället för
 
 ## Steg 3: Konfigurera SPF och DKIM {#step-set-up-spf-and-dkim}
 
-Marknadsföringsteamet ska också ha skickat dig DKIM-information som ska läggas till i din DNS-resurspost (visas även nedan). Följ stegen för att konfigurera DKIM och SPF och meddela sedan marknadsföringsteamet att detta har uppdaterats.
+Marknadsföringsteamet bör också ha skickat dig DKIM-information (Domain Keys Identified Mail) som ska läggas till i din DNS-resurspost (även den som visas nedan). Följ stegen för att konfigurera DKIM och SPF (Sender Policy Framework) och meddela sedan marknadsföringsteamet att detta har uppdaterats.
 
 1. Om du vill konfigurera SPF lägger du till följande rad i våra DNS-poster:
 
@@ -110,7 +110,175 @@ Marknadsföringsteamet ska också ha skickat dig DKIM-information som ska lägga
 
    Kopiera HostRecord och TXTValue för varje DKIMDomain som du har konfigurerat efter följande [anvisningar här](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. Glöm inte att verifiera varje domän i Admin > E-post > DKIM när din IT-personal har slutfört det här steget.
 
-## Steg 4: Konfigurera MX-poster för din domän {#step-set-up-mx-records-for-your-domain}
+## Steg 4: Konfigurera DMARC {#set-up-dmarc}
+
+DMARC (Domain-based Message Authentication, Reporting &amp; Conformance) är ett autentiseringsprotokoll som används för att hjälpa organisationer att skydda sin domän mot obehörig användning. DMARC utökar de befintliga autentiseringsprotokollen, som SPF och DKIM, för att informera mottagarservrarna om vilka åtgärder de bör vidta om ett autentiseringsfel inträffar på deras domän. Även om DMARC för närvarande är valfritt rekommenderas det starkt eftersom det bättre skyddar er organisations varumärke och anseende. Större leverantörer som Google och Yahoo kommer att kräva att DMARC används för bulkavsändare från och med februari 2024.
+
+För att DMARC ska fungera måste du ha minst en av följande DNS TXT-poster:
+
+* En giltig SPF
+* En giltig DKIM-post för din FROM: Domän (rekommenderas för Marketo Engage)
+
+Dessutom måste du ha en DMARC-specifik DNS TXT-post för din FROM: Domain. Om du vill kan du definiera en e-postadress som du väljer för att ange var DMARC-rapporter ska ligga inom organisationen, så att du kan övervaka rapporter.
+
+Som en god praxis bör DMARC-implementeringen långsamt implementeras genom att eskalera din DMARC-policy från p=none till p=karantäns, till p=reject när du får en förståelse för DMARC:s potentiella effekt och ställa in din DMARC-policy på en avspänd anpassning av SPF och DKIM.
+
+### DMARC-exempelarbetsflöde {#dmarc-example-workflow}
+
+1. Om du är konfigurerad att ta emot DMARC-rapporter bör du göra följande..
+
+   I. Analysera den feedback och de rapporter som du tar emot och använder (p=none), som instruerar mottagaren att inte vidta några åtgärder mot meddelanden som inte kan autentiseras, men ändå skicka e-postrapporter till avsändaren.
+
+   II. Granska och åtgärda problem med SPF/DKIM om legitimt meddelande inte kan autentiseras.
+
+   III. Kontrollera om SPF eller DKIM är justerade och skickar autentisering för alla giltiga e-postmeddelanden.
+
+   IV. Granska rapporter för att säkerställa att resultatet blir det du förväntar dig baserat på din SPF/DKIM-policy.
+
+1. Fortsätt att justera principen till (p=karantän), vilket innebär att den mottagande e-postservern ska karantänera e-post som inte kan autentiseras (detta innebär vanligtvis att meddelandena placeras i skräppostmappen).
+
+   I. Granska rapporter för att säkerställa att resultatet blir vad du förväntar dig.
+
+1. Om du är nöjd med beteendet hos meddelanden på p=karantännivå kan du justera principen till (p=avvisad). p=avvisningsprincipen innebär att mottagaren helt nekar (studsar) alla e-postmeddelanden för domänen som inte kan autentiseras. När den här principen är aktiverad har bara e-post som är verifierad som 100 % autentiserad av din domän en chans att placeras i inkorgen.
+
+>[!CAUTION]
+>
+>Använd den här profilen med försiktighet och kontrollera om den passar din organisation.
+
+### DMARC-rapportering {#dmarc-reporting}
+
+DMARC kan ta emot rapporter om e-postmeddelanden som saknar SPF/DKIM. Det finns två olika rapporter som genereras av ISP-tjänstleverantörer som en del av autentiseringsprocessen som avsändare kan få via RUA/RUF-taggarna i sin DMARC-policy.
+
+* Aggregate Reports (RUA): does not contain any PII (Personally Identiitable Information) that will be GDPR (General Data Protection Regulation) sensitive.
+
+* Forensic Reports (RUF): Innehåller e-postadresser som är GDPR-känsliga. Innan ni börjar använda programmet bör ni kontrollera internt hur ni hanterar information som måste vara GDPR-kompatibel.
+
+Det viktigaste användningsområdet för dessa rapporter är att få en översikt över e-postmeddelanden som försöker förfalskas. Det här är mycket tekniska rapporter som är bäst sammanställda via ett verktyg från tredje part.
+
+### Exempel på DMARC-poster {#example-dmarc-records}
+
+* Bare minimipost: `v=DMARC1; p=none`
+
+* Post som dirigerar till en e-postadress för att ta emot rapporter: `v=DMARC1; p=none;  rua=mailto:emaill@domain.com;     ruf=mailto:email@domain.com`
+
+### DMARC-taggar och vad de gör {#dmarc-tags-and-what-they-do}
+
+DMARC-poster har flera komponenter som kallas DMARC-taggar. Varje tagg har ett värde som anger en viss aspekt av DMARC.
+
+<table>
+<thead>
+  <tr>
+    <th>Märkordsnamn </th>
+    <th>Obligatoriskt/valfritt </th>
+    <th> -funktion </th>
+    <th>Exempel </th>
+    <th>Standardvärde </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>v</td>
+    <td>Obligatoriskt</td>
+    <td>Den här DMARC-taggen anger versionen. Det finns bara en version från och med nu, så det här har ett fast värde på v=DMARC1</td>
+    <td>V=DMARC1 DMARC1</td>
+    <td>DMARC1</td>
+  </tr>
+  <tr>
+    <td>p</td>
+    <td>Obligatoriskt</td>
+    <td>Visar den valda DMARC-principen och instruerar mottagaren att rapportera, karantän eller avvisa e-post som inte kan autentiseras.</td>
+    <td>p=ingen, karantän eller avvisad</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>fo</td>
+    <td>Valfritt</td>
+    <td>Låter domänägaren ange rapportalternativ.</td>
+    <td>0: Generera en rapport om allt misslyckas 
+    <br>1: Generera en rapport om något misslyckas 
+    <br>d: Generera en rapport om DKIM misslyckas 
+    <br>s: Generera en rapport om SPF misslyckas</td>
+    <td>1 (rekommenderas för DMARC- rapporter)</td>
+  </tr>
+  <tr>
+    <td>pct</td>
+    <td>Valfritt</td>
+    <td>Anger procentandelen meddelanden som ska filtreras.</td>
+    <td>pct=20</td>
+    <td>100</td>
+  </tr>
+  <tr>
+    <td>rua</td>
+    <td>Valfritt (rekommenderas)</td>
+    <td>Identifierar var aggregerade rapporter kommer att levereras.</td>
+    <td>rua=mailto:aggrep@example.com</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>ruf</td>
+    <td>Valfritt (rekommenderas)</td>
+    <td>Identifierar var kriminaltekniska rapporter kommer att levereras.</td>
+    <td>ruf=mailto:authfail@example.com</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>sp</td>
+    <td>Valfritt</td>
+    <td>Anger DMARC-princip för underdomäner till den överordnade domänen.</td>
+    <td>sp=avvisa</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>adkim</td>
+    <td>Valfritt</td>
+    <td>Kan antingen vara Strikt (Strikt) eller Avspänd ®. Avlastad justering innebär att domänen som används i DKIM-signaturen kan vara en underdomän till Från-adressen. Strikta justeringar innebär att domänen som används i DKIM-signaturen måste vara en exakt matchning av domänen som används i Från-adressen.</td>
+    <td>adkim=r </td>
+    <td>r</td>
+  </tr>
+  <tr>
+    <td>aspf</td>
+    <td>Valfritt</td>
+    <td>Kan antingen vara Strikt (Strikt) eller Avspänd ®. Avspänd justering innebär att ReturnPath-domänen kan vara en underdomän till Från adress. Strikta justeringar innebär att domänen Return-Path måste vara exakt densamma som Från-adressen.</td>
+    <td>aspf=r</td>
+    <td>r</td>
+  </tr>
+</tbody>
+</table>
+
+Mer information om DMARC och alla dess alternativ finns på [https://dmarc.org/](https://dmarc.org/){target="_blank"}.
+
+### DMARC och Marketo Engage {#dmarc-and-marketo-engage}
+
+Det finns två typer av justering för DMARC - DKIM-justering och SPF-justering.
+
+>[!NOTE]
+>
+>Vi rekommenderar DMARC-justering på DKIM jämfört med SPF för Marketo.
+
+* DKIM-justerad DMARC - För att ställa in DKIM-justerad DMARC måste du:
+
+   * Konfigurera DKIM för FROM: Meddelandets domän. Använd instruktionerna [i den här artikeln](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
+   * Konfigurera DMARC för FROM:/DKIM-domänen som konfigurerats tidigare
+
+* DMARC-justerad SPF - Om du vill ställa in DMARC-justerad SPF via märkesbaserad retursökväg måste du:
+
+   * Konfigurera domänen för varumärkesskyddad retursökväg
+      * Konfigurera lämplig SPF-post
+      * Ändra MX-posten så att den pekar tillbaka till standardvärdet för MX för det datacenter som e-postmeddelandet skickas från
+
+   * Konfigurera DMARC för domänen för varumärkesskyddad retursökväg
+
+* Om du skickar e-post från Marketo via en dedikerad IP-adress och inte redan har implementerat en profilerad retursökväg, eller om du är osäker, öppnar du en biljett med [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+
+* Om du skickar e-post från Marketo via en delad pool med IP-adresser kan du se om du är berättigad till pålitliga IP-adresser via [gäller här](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}. Varumärkesbaserad retursökväg erbjuds kostnadsfritt till dem som skickar från Marketo betrodda IP-adresser. Om du godkänner programmet kan du kontakta Marketo Support för att skapa en egen returväg.
+
+   * Betrodda IP-adresser: En delad pool med IP-adresser som är reserverade för användare med lägre volym som skickar &lt;75 kB/månad och som inte är kvalificerade för en dedikerad IP-adress. Dessa användare måste också uppfylla kraven på god praxis.
+
+* Om du skickar e-post från Marketo via delade IP-adresser och du inte är berättigad till betrodda IP-adresser och skickar mer än 100 000 meddelanden per månad måste du kontakta kontoteamet på Adobe (din kontohanterare) för att köpa en dedikerad IP-adress.
+
+* Strikta SPF-justeringar stöds inte och rekommenderas inte i Marketo.
+
+## Steg 5: Konfigurera MX-poster för din domän {#step-set-up-mx-records-for-your-domain}
 
 Med en MX-post kan du ta emot e-post till domänen som du skickar e-post från för att bearbeta svar och automatiska svar. Om du skickar från din företagsdomän har du förmodligen redan konfigurerat detta. Annars kan du vanligtvis konfigurera den så att den mappas till företagets domäns MX-post.
 
@@ -214,6 +382,5 @@ Följande tabeller omfattar alla Marketo Engage-servrar som gör utgående samta
    <tr>
    <td>130.248.168.17</td>
   </tr>
-
-</tbody>
+ </tbody>
 </table>
