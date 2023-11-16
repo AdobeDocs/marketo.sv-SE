@@ -4,9 +4,9 @@ description: Skapa ett anpassat Dynamics Sync-filter - Marketo Docs - produktdok
 title: Skapa ett anpassat Dynamics-synkroniseringsfilter
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '795'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,13 @@ Vill du inte synkronisera allt i Dynamics CRM till Marketo? Oroa dig inte! Med M
 Så här ställer du in ett Dynamics-synkroniseringsfilter:
 
 1. Skapa ett eget booleskt fält med namnet new_synctomkto i Dynamics CRM för alla objekt (lead, kontakt, konto, möjlighet och andra anpassade entiteter).
-1. Tilldela det här fältet ett Ja/Nej-värde eller lämna det tomt.
+1. Tilldela det här fältet värdet Ja/Nej.
 
->[!NOTE]
+Du måste göra dessa ändringar i Dynamics CRM, inte i databasen eller Marketo.
+
+>[!CAUTION]
 >
->Du måste göra dessa ändringar i Dynamics CRM, inte i databasen eller Marketo.
+>Om du inte tilldelar fältet och låter det vara tomt/NULL synkroniseras det ned, men uppdateras inte.
 
 Marketo letar efter det här fältet under den automatiska bakgrundssynkroniseringen och avgör vilka poster som ska synkroniseras över baserat på den här logiken:
 

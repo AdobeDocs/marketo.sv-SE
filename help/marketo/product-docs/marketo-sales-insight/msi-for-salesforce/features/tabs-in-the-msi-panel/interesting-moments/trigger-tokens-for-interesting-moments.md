@@ -4,7 +4,7 @@ description: Utlösartoken för intressanta ögonblick - Marketo Docs - produktd
 title: Utlösartoken för intressanta ögonblick
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: f0a38ddec7e42a52f31f22aa114a3f6f0c20baae
+source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
 workflow-type: tm+mt
 source-wordcount: '546'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
 
 ### E-postutlösare {#email-triggers}
 
-<table style="table-layout:auto"> 
+<table style="table-layout:auto">
  <colgroup> 
   <col> 
   <col> 
