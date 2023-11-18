@@ -3,9 +3,9 @@ description: Salesforce Sync Status - Marketo Docs - Produktdokumentation
 title: Status för Salesforce-synkronisering
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 feature: Salesforce Integration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '542'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Använd kontrollpanelen Synkroniseringsstatus för att visa synkroniseringsstatus som en del av synkroniseringsstegen och dess status.
 
-Synkroniseringsstegen återspeglar push- eller pull-åtgärder för varje objekttyp för objektschemat och själva data. Statistik täcker nya poster, uppdateringar, borttagningar och antalet misslyckade under synkroniseringen. Användare kan filtrera efter datum, åtgärdstyp eller objekttyp. Kontrollpanelen Synkroniseringsstatus visar status för synkroniseringscykler de senaste fem dagarna.
+Synkroniseringsstegen återspeglar push- eller pull-åtgärder för varje objekttyp för objektschemat och själva data. Statistik täcker nya poster, uppdateringar, borttagningar och antalet misslyckade under synkroniseringen. Användare kan filtrera efter datum, åtgärdstyp eller objekttyp. Kontrollpanelen Synkroniseringsstatus visar status för synkroniseringscykler de senaste fem dagarna.
 
 >[!NOTE]
 >
@@ -22,15 +22,15 @@ Synkroniseringsstegen återspeglar push- eller pull-åtgärder för varje objekt
 
 ## Visa synkroniseringsstatus {#view-sync-status}
 
-1. Klicka **Administratör**.
+1. Klicka på **[!UICONTROL Admin]**.
 
    ![](assets/salesforce-sync-status-1.png)
 
-1. Klicka på Salesforce under Integrering och sedan på fliken Synkroniseringsstatus.
+1. Under [!UICONTROL Integration], klicka **Salesforce** och sedan **[!UICONTROL Sync Status]** -fliken.
 
    ![](assets/salesforce-sync-status-2.png)
 
-Statistik sorteras som standard efter den senast startade. Du kan sortera efter Början eller Avslutad den (från senaste till äldsta) genom att klicka på sorteringsikonen.
+Statistik sorteras som standard efter den senast startade. Du kan sortera efter Startdatum eller Slutet den (från senaste till äldsta) genom att klicka på sorteringsikonen.
 
 ![](assets/salesforce-sync-status-3.png)
 
@@ -40,15 +40,15 @@ Statistik sorteras som standard efter den senast startade. Du kan sortera efter 
 
    ![](assets/salesforce-sync-status-4.png)
 
-1. Välj datum- och tidsintervall och klicka sedan på listrutorna för att filtrera efter objekttyp, Åtgärdstyp och/eller Statustyp.
+1. Välj datum- och tidsintervall och klicka sedan på listrutorna för att filtrera efter [!UICONTROL Object Type], [!UICONTROL Operation Type]och/eller [!UICONTROL Status Type].
 
    ![](assets/salesforce-sync-status-5.png)
 
-1. Klicka **Använd**.
+1. Klicka på **[!UICONTROL Apply]**.
 
    ![](assets/salesforce-sync-status-6.png)
 
-**VALFRITT STEG**: Om du vill exportera synkroniseringsfel klickar du på **Exportera**. Data exporteras som en CSV-fil.
+**VALFRITT STEG**: Om du vill exportera synkroniseringsfel klickar du på **[!UICONTROL Export]**. Data exporteras som en CSV-fil.
 
 ![](assets/salesforce-sync-status-7.png)
 
@@ -231,7 +231,7 @@ Statistik sorteras som standard efter den senast startade. Du kan sortera efter 
   <tr> 
    <td colspan="1">Synkronisera med program</td> 
    <td colspan="1">Kampanjer</td> 
-   <td colspan="1">Synkroniserar Marketo-program med SFDC-kampanjer</td> 
+   <td colspan="1">Synkroniserar Marketo med SFDC-kampanjer</td> 
    <td colspan="1">Nytt, Uppdateringar, Misslyckades eller Överhoppat</td>
   </tr> 
   <tr> 

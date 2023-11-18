@@ -4,9 +4,9 @@ description: Underförstådda Salesforce-åtgärder - Marketo Docs - produktdoku
 title: Underförstådda Salesforce-åtgärder
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -15,12 +15,12 @@ ht-degree: 0%
 
 När ett Salesforce-specifikt flödessteg körs, utförs ibland extra steg automatiskt. Här är reglerna, så du vet:
 
-Dessa regler gäller _när personen inte är närvarande [Salesforce.com](https://Salesforce.com)_ som kontakt eller lead.
+Dessa regler gäller när personen inte befinner sig i [Salesforce.com](https://Salesforce.com){target="_blank"} som kontakt eller lead.
 
 <table> 
  <thead> 
   <tr> 
-   <th>Marketo Flow</th> 
+   <th>Marketo Flow, steg</th> 
    <th>Automatisk åtgärd</th> 
   </tr> 
  </thead> 
@@ -48,6 +48,6 @@ Dessa regler gäller _när personen inte är närvarande [Salesforce.com](https:
  </tbody> 
 </table>
 
-Du kan filtrera bort SFDC-poster i en smart lista med hjälp av **SFDC-typ** Filtrera med operatorn inställd på &quot;är inte tom&quot;. Alla SFDC-poster har ett värde i det här fältet.
+Du kan filtrera bort SFDC-poster i en smart lista med hjälp av **[!UICONTROL SFDC Type]** Filtrera med operatorn inställd på &quot;är inte tom&quot;. Alla SFDC-poster har ett värde i det här fältet.
 
-Kom ihåg att dessa automatiska åtgärder bara utförs om leadet inte finns i [Salesforce.com](https://salesforce.com)
+Kom ihåg att dessa automatiska åtgärder bara utförs om leadet inte finns i [Salesforce.com](https://salesforce.com){target="_blank"}

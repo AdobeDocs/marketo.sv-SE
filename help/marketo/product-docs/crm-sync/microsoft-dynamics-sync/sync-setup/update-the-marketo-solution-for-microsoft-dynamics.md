@@ -4,9 +4,9 @@ description: Uppdatera Marketo Solution for Microsoft Dynamics - Marketo Docs - 
 title: Uppdatera Marketo Solution för Microsoft Dynamics
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,15 @@ När en ny Microsoft Dynamics-lösning släpps kan du hämta uppdateringen från
 >
 >Du måste ladda ned den senaste Marketo-lösningen _före_ utföra uppdateringar.
 
-1. Gå till **Administratör** område.
+1. Gå till **[!UICONTROL Admin]** område.
 
    ![](assets/admin.png)
 
-1. Klicka **Microsoft Dynamics**.
+1. Klicka på **[!DNL Microsoft Dynamics]**.
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. Välj **Ladda ned Marketo Solution**.
+1. Välj **[!UICONTROL Download Marketo Solution]**.
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
@@ -41,14 +41,14 @@ När en ny Microsoft Dynamics-lösning släpps kan du hämta uppdateringen från
 
    Häftig! En ZIP-fil med lösningen kommer nu att laddas ned till din enhet. Kontakta Dynamics-administratören om du inte känner till installationsstegen.
 
-## Uppdatera {#performing-the-update}
+## Utföra uppdateringen {#performing-the-update}
 
-1. Importera den senaste versionen av lösningen över den befintliga versionen av Dynamics CRM (t.ex.: om Dynamics CRM har version 1.4 och den senaste versionen är 1.5, ska du importera _över_ version 1.4).
+1. Importera den senaste versionen av lösningen till den befintliga versionen av Dynamics CRM (t.ex. om Dynamics CRM har version 1.4 och den senaste versionen är 1.5) importerar du _över_ version 1.4).
 
-1. Följande popup-fönster visas. Välj **Uppdatera** och **Underhåll anpassningar** och sedan klicka **Importera**.
+1. Följande popup-fönster visas. Välj **[!UICONTROL Update]** och **[!UICONTROL Maintain customizations]** och sedan klicka **[!UICONTROL Import]**.
 
    ![](assets/update-the-marketo-solution-for-microsoft-dynamics-5.png)
 
 >[!CAUTION]
 >
->Om du väljer Uppgradera i stället för Uppdatera kan det leda till att data skadas i Dynamics-miljön. **Var noga med att välja Uppdatera** under Importalternativ.
+>Om du väljer Uppgradera i stället för Uppdatera kan det leda till att data skadas i Dynamics-miljön. _Var noga med att välja Uppdatera_ under Importalternativ.

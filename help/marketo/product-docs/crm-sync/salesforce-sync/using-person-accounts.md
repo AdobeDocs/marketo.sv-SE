@@ -4,16 +4,16 @@ description: Använda personkonton - Marketo Docs - produktdokumentation
 title: Använda personkonton
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
 
 # Använda personkonton {#using-person-accounts}
 
-Personkonton kan konfigureras i Salesforce för att passa behoven i din organisation. Så här behandlar Marketo personkonton.
+Personkonton kan konfigureras i Salesforce för att passa behoven i din organisation. Så här behandlar Marketo Engage personkonton.
 
 >[!NOTE]
 >
@@ -33,15 +33,15 @@ Ett personkonto synkroniseras till Marketo som ett företag och som en person.
 
 ## Hur skiljer jag på affärskonton och personkonton? {#how-do-i-differentiate-business-accounts-and-person-accounts}
 
-Använd **Är personkonto** i din smarta lista för att skilja personkonton från standardkonton.
+Använd filtret Är personkonto i din smarta lista för att skilja personkonton från vanliga affärskonton.
 
 ## Var visas informationen om mitt personkonto i Marketo Sales Insight? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-Aktiviteter som rör personkonton visas i **Konto** -panelen.
+Aktiviteter som rör personkonton visas i **[!UICONTROL Account]** -panelen.
 
 >[!NOTE]
 >
->Marketo Sales Insight&#39;s **Lägg till i Marketo Campaign** och **Skicka e-post** är för närvarande inte tillgängliga för personkonton.
+>Marketo Sales Insight&#39;s **[!UICONTROL Add to Marketo Campaign]** och **[!UICONTROL Send Email]** är för närvarande inte tillgängliga för personkonton.
 
 ## Hur kopplar jag affärsmöjligheter till ett personkonto? {#how-do-i-associate-opportunities-to-a-person-account}
 

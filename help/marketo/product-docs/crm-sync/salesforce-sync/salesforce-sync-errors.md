@@ -3,9 +3,9 @@ description: Salesforce-synkroniseringsfel - Marketo Docs - produktdokumentation
 title: Salesforce-synkroniseringsfel
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 feature: Salesforce Integration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ Visa en sammanfattning av de fel som uppstod under synkroniseringsprocessen. Det
 
 ## Visa synkroniseringsfel {#view-sync-errors}
 
-1. Klicka **Administratör**.
+1. Klicka på **[!UICONTROL Admin]**.
 
    ![](assets/salesforce-sync-errors-1.png)
 
-1. Under Integrering klickar du på **Salesforce** och sedan **Synkroniseringsfel** -fliken.
+1. Under Integrering klickar du på **Salesforce** och sedan **[!UICONTROL Sync Errors]** -fliken.
 
    ![](assets/salesforce-sync-errors-2.png)
 
@@ -48,10 +48,10 @@ Visa en sammanfattning av de fel som uppstod under synkroniseringsprocessen. Det
 
    ![](assets/salesforce-sync-errors-3.png)
 
-1. Välj datum- och tidsintervall och filtrera sedan efter feltyp (jobbnivå eller postnivå). Klicka **Använd** när det är klart.
+1. Välj datum- och tidsintervall och filtrera sedan efter feltyp (jobbnivå eller postnivå). Klicka **[!UICONTROL Apply]** när det är klart.
 
    ![](assets/salesforce-sync-errors-4.png)
 
-**VALFRITT STEG**: Om du vill exportera synkroniseringsfel klickar du på **Exportera**. Data exporteras som en CSV-fil.
+**VALFRITT STEG**: Om du vill exportera synkroniseringsfel klickar du på **[!UICONTROL Export]**. Data exporteras som en CSV-fil.
 
 ![](assets/salesforce-sync-errors-5.png)

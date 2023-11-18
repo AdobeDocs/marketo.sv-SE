@@ -4,9 +4,9 @@ description: Lägg till/ta bort värden för plocklistor - Marketo Docs - Produk
 title: Lägg till/ta bort värden för plocklistor
 exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Här är några saker du bör känna till när det gäller att lägga till och t
 
 ## Lägga till värden för plocklista {#adding-picklist-values}
 
-1. Om ett extra värde läggs till i Salesforce till en typ av plocklistefält får du ett [meddelande](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) identifiera vilka former detta kommer att påverka.
+1. Om ett extra värde läggs till i Salesforce till en typ av plocklistefält får du ett [meddelande](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} identifiera vilka former detta kommer att påverka.
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. Gå till formulärredigeraren och [lägg till det extra värdet](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) i listan med förslag.
+1. Gå till formulärredigeraren och [lägg till det extra värdet](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md){target="_blank"} i listan med förslag.
 
 ## Ta bort värden för plocklistor {#remove-picklist-values}
 
@@ -29,11 +29,11 @@ När ett listvärde tas bort från ett fält i Salesforce måste du ta bort det 
 
 >[!NOTE]
 >
->Om ett lead-fält och ett kontaktfält i Salesforce har olika värden är de gemensamma värdena tillgängliga för användning i Marketo.
+>Om ett lead-fält och ett kontaktfält i Salesforce har olika värden är de gemensamma värdena tillgängliga för användning i Marketo Engage.
 
 Om ett lead-fält och ett kontaktfält i Salesforce har olika värden:
 
-1. Om du lägger till ytterligare ett värde i SFDC i en plocklista visas ett meddelande.
+1. Om du lägger till ytterligare ett värde i SFDC i en plocklista får du ett meddelande.
 1. Meddelandet talar om var det används. Du kan nu lägga till det nya värdet som ett alternativ i formuläret om du vill.
 
 Om en lista med SFDC-leads har andra värden än en lista för en SFDC-kontakt, används de gemensamma värdena som standardvärdesalternativ i formuläret.

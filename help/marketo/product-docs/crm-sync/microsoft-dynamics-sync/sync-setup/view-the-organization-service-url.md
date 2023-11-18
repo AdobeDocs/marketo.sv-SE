@@ -4,30 +4,30 @@ description: Visa URL för organisationstjänsten - Marketo Docs - produktdokume
 title: Visa URL för organisationstjänsten
 exl-id: 37c6afa3-ae82-4134-8a00-b4dc08064f5d
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 0%
+source-wordcount: '74'
+ht-degree: 5%
 
 ---
 
 # Visa URL för organisationstjänsten {#view-the-organization-service-url}
 
-Marketo behöver organisationstjänstens URL för att kunna synkronisera med Dynamics-instanser. Så här hittar du det i Dynamics.
+Marketo Engage behöver URL:en för organisationstjänsten för att kunna synkronisera med MD-instanser. Så här hittar du det i Dynamics.
 
-1. Logga in i Dynamics. Klicka på ikonen Inställningar och välj **Avancerade inställningar**.
+1. Logga in på [!DNL Dynamics]. Klicka på ikonen Inställningar och välj **[!UICONTROL Advanced Settings]**.
 
    ![](assets/one.png)
 
-1. Klicka **Inställningar** och markera **Anpassningar**.
+1. Klicka på **[!UICONTROL Settings]** och välj **[!UICONTROL Customizations]**.
 
    ![](assets/two.png)
 
-1. Klicka **Resurser för utvecklare**.
+1. Klicka på **[!UICONTROL Developer Resources]**.
 
    ![](assets/three.png)
 
-1. URL:en till organisationstjänsten finns under **Tjänstslutpunkter**.
+1. URL:en till organisationstjänsten finns under **[!UICONTROL Service Endpoints]**.
 
    ![](assets/four.png)
 

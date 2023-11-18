@@ -4,9 +4,9 @@ description: Steg 2 av 3 - Konfigurera Marketo Solution med Server to Server Con
 title: Steg 2 av 3 - Konfigurera Marketo Solution med Server to Server Connection
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 feature: Microsoft Dynamics
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '598'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Steg 1 av 3: Installera Marketo Solution with Server to Server Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"}
+>[Steg 1 av 3: Installera Marketo Solution med Server to Server Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"}
 
 ## Skapa klientprogram i Azure AD {#create-client-application-in-azure-ad}
 
@@ -27,15 +27,15 @@ ht-degree: 0%
 
 1. Ge administratörens samtycke genom att följa stegen [i den här artikeln](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md){target="_blank"}.
 
-1. Generera en klienthemlighet i Admin Center genom att klicka på **Certifikat och hemligheter**.
+1. Generera en klienthemlighet i Admin Center genom att klicka på **[!UICONTROL Certificates & secrets]**.
 
    ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-1.png)
 
-1. Klicka på **Ny klienthemlighet** -knappen.
+1. Klicka på **[!UICONTROL New client secret]** -knappen.
 
    ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-2.png)
 
-1. Ange en beskrivning av klienthemligheten och klicka på **Lägg till**.
+1. Ange en beskrivning av klienthemligheten och klicka på **[!UICONTROL Add]**.
 
    ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-3.png)
 
@@ -65,19 +65,19 @@ Ytterligare referenser [finns här](https://docs.microsoft.com/en-us/azure/activ
 
 Nästan klart! Allt vi har kvar är att informera Marketo Solution om den nya användaren som har skapats.
 
-1. Gå tillbaka till avsnittet Avancerade inställningar och klicka på ![](assets/image2015-5-13-15-3a49-3a19.png) -ikon bredvid Inställningar och välj **Marketo Config**.
+1. Gå tillbaka till avsnittet Avancerade inställningar och klicka på ![](assets/image2015-5-13-15-3a49-3a19.png) -ikon bredvid Inställningar och välj **[!UICONTROL Marketo Config]**.
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >Om du inte ser **Marketo Config** Uppdatera sidan på menyn Inställningar. Om det inte fungerar, försök [publicera Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"} igen eller logga ut och in igen.
+   >Uppdatera sidan om du inte ser &quot;Marketo Config&quot; på menyn Inställningar. Om det inte fungerar, försök [publicera Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"} igen eller logga ut och in igen.
 
-1. Klicka **Standard**.
+1. Klicka på **[!UICONTROL Default]**.
 
    ![](assets/fifteen.png)
 
-1. Klicka på sökknappen på **Marketo-användare** och välj den synkroniseringsanvändare du skapade.
+1. Klicka på sökknappen på **[!UICONTROL Marketo User]** och välj den synkroniseringsanvändare du skapade.
 
    ![](assets/sixteen.png)
 
@@ -89,11 +89,11 @@ Nästan klart! Allt vi har kvar är att informera Marketo Solution om den nya an
 
    ![](assets/seventeen.png)
 
-1. Klicka på ![](assets/image2015-5-13-15-3a49-3a19-1.png) -ikon bredvid Inställningar och välj **Lösningar**.
+1. Klicka på ![](assets/image2015-5-13-15-3a49-3a19-1.png) -ikon bredvid Inställningar och välj **[!UICONTROL Solutions]**.
 
    ![](assets/eighteen.png)
 
-1. Klicka på **Publicera alla anpassningar** -knappen.
+1. Klicka på **[!UICONTROL Publish All Customizations]** -knappen.
 
    ![](assets/nineteen.png)
 
@@ -103,11 +103,11 @@ Nästan klart! Allt vi har kvar är att informera Marketo Solution om den nya an
 
 ## Innan du fortsätter till steg 3 {#before-proceeding-to-step}
 
-* Om du vill begränsa antalet poster som du synkroniserar, [konfigurera ett eget synkroniseringsfilter](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md){target="_blank"} nu.
+* Om du vill begränsa antalet poster som du synkroniserar, [konfigurera ett anpassat synkroniseringsfilter](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md){target="_blank"} nu.
 * Kör [Validera Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"} -processen. Den verifierar att dina initiala inställningar har gjorts korrekt.
 * Logga in på Marketo Sync User i Microsoft Dynamics CRM.
 
 >[!MORELIKETHIS]
 >
->* [Steg 3 av 3: Ansluta Marketo-lösningen med server-till-server-anslutning](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md){target="_blank"}
+>* [Steg 3 av 3: Ansluta Marketo Solution med Server to Server Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md){target="_blank"}
 >* [Konfigurera om Dynamics-autentiseringsmetod](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md){target="_blank"}

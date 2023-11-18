@@ -3,9 +3,9 @@ description: Steg 4 av 4 - Anslut Marketo-lösningen med Resource Owner Password
 title: Steg 4 av 4 - Anslut Marketo-lösningen med Resursägarens lösenordskontrollanslutning
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ Detta är det sista steget i synkroniseringen. Du är nästan framme!
 
 >[!PREREQUISITES]
 >
->* [Steg 1 av 4: Installera Marketo Solution med Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
->* [Steg 2 av 4: Konfigurera Marketo Solution med Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
->* [Steg 3 av 4: Konfigurera klientapp för MS Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
+>* [Steg 1 av 4: Installera Marketo Solution med Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md){target="_blank"}
+>* [Steg 2 av 4: Konfigurera Marketo Solution med Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md){target="_blank"}
+>* [Steg 3 av 4: Konfigurera klientapp för MS Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -26,35 +26,35 @@ Detta är det sista steget i synkroniseringen. Du är nästan framme!
 
 >[!NOTE]
 >
->Om du uppgraderar från grundläggande autentisering till OAuth kan du använda [den här artikeln](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md) för att konfigurera om din autentisering.
+>Om du uppgraderar från grundläggande autentisering till OAuth kan du använda [den här artikeln](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md){target="_blank"} för att konfigurera om din autentisering.
 
 ## Ange användarinformation för Dynamics Sync {#enter-dynamics-sync-user-information}
 
-1. Logga in på Marketo och klicka **Administratör**.
+1. Logga in på Marketo och klicka **Admin**.
 
    ![](assets/login-admin.png)
 
-1. Klicka på **CRM**.
+1. Klicka på **[!UICONTROL CRM]**.
 
    ![](assets/image2015-3-16-9-3a47-3a34.png)
 
-1. Välj **Microsoft**.
+1. Välj **[!UICONTROL Microsoft]**.
 
    ![](assets/image2015-3-16-9-3a50-3a6.png)
 
-1. Klicka **Redigera** in **Steg 1: Ange autentiseringsuppgifter**.
+1. Klicka **[!UICONTROL Edit]** in **[!UICONTROL Enter Credentials]**.
 
    ![](assets/image2015-3-16-9-3a48-3a43.png)
 
    >[!CAUTION]
    >
-   >Kontrollera att din organisations-URL är korrekt eftersom det inte går att återställa efterföljande schemaändringar efter överföringen. Om en felaktig Org URL används måste du skaffa en ny Marketo-prenumeration. Om du inte känner till URL:en [lära dig hur du hittar det här](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
+   >Kontrollera att din organisations-URL är korrekt eftersom det inte går att återställa efterföljande schemaändringar efter överföringen. Om en felaktig Org URL används måste du skaffa en ny Marketo-prenumeration. Om du inte känner till URL:en [lära dig hur du hittar det här](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
 
    >[!NOTE]
    >
-   >Innan du anger nya autentiseringsuppgifter kan du [validera dem här](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md).
+   >Innan du anger nya uppgifter kan du [validera dem här](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}.
 
-1. Ange **Användarnamn**, **Lösenord**, Microsoft Dynamics **URL**, **Klient-ID** och **Klienthemlighet**. Klicka **Spara** när det är klart.
+1. Ange **[!UICONTROL Username]**, **[!UICONTROL Password]**, Microsoft Dynamics **URL**, **[!UICONTROL Client ID]** och **[!UICONTROL Client Secret]**. Klicka **[!UICONTROL Save]** när det är klart.
 
    ![](assets/step-4-of-4-connect-ropc-5.png)
 
@@ -64,37 +64,37 @@ Detta är det sista steget i synkroniseringen. Du är nästan framme!
 
 ## Markera fält som ska synkroniseras {#select-fields-to-sync}
 
-1. Klicka **Redigera** in **Steg 2: Markera fält som ska synkroniseras**.
+1. Klicka **[!UICONTROL Edit]** in **[!UICONTROL Select Fields to Sync]**.
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
-1. Markera de fält som du vill synkronisera till Marketo så att de är förmarkerade. Klicka **Spara**.
+1. Markera de fält som du vill synkronisera till Marketo så att de är förmarkerade. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2016-8-25-15-3a6-3a11.png)
 
 >[!NOTE]
 >
->Marketo lagrar en referens till de fält som ska synkroniseras. Om du tar bort ett fält i Dynamics rekommenderar vi att du gör det med [synkronisering inaktiverad](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Uppdatera sedan schemat i Marketo genom att redigera och spara [Markera fält som ska synkroniseras](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
+>Marketo lagrar en referens till de fält som ska synkroniseras. Om du tar bort ett fält i Dynamics rekommenderar vi att du gör det med [synkronisering inaktiverad](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"}. Then refresh the schema in Marketo by editing and saving the [Select Fields to Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"}.
 
 ## Synkronisera fält för ett eget filter {#sync-fields-for-a-custom-filter}
 
 Om du har skapat ett eget filter måste du gå in och välja de nya fält som ska synkroniseras med Marketo.
 
-1. Gå till Admin och välj **Microsoft Dynamics**.
+1. Gå till Admin och välj **[!DNL Microsoft Dynamics]**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Klicka **Redigera** i Fältsynkroniseringsinformation.
+1. Klicka **[!UICONTROL Edit]** i Fältsynkroniseringsinformation.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. Rulla ned till fältet och kontrollera det. Det faktiska namnet måste vara new_synctomkto, men visningsnamnet kan vara vad som helst. Klicka **Spara**.
+1. Rulla ned till fältet och kontrollera det. Det faktiska namnet måste vara new_synctomkto, men visningsnamnet kan vara vad som helst. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2016-8-25-15-3a7-3a35.png)
 
 ## Aktivera synkronisering {#enable-sync}
 
-1. Klicka **Redigera** in **Steg 3: Aktivera synkronisering**.
+1. Klicka **[!UICONTROL Edit]** in **[!UICONTROL Enable Sync]**.
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 
@@ -102,7 +102,7 @@ Om du har skapat ett eget filter måste du gå in och välja de nya fält som sk
    >
    >Marketo avduplicerar inte automatiskt mot en Microsoft Dynamics-synkronisering eller när du anger personer eller leads manuellt.
 
-1. Läs allt i popup-fönstret, ange din e-postadress och klicka på **Starta synkronisering**.
+1. Läs allt i popup-fönstret, ange din e-postadress och klicka på **[!UICONTROL Start Sync]**.
 
    ![](assets/image2015-3-16-9-3a55-3a10.png)
 
@@ -114,4 +114,4 @@ Utmärkt arbete!
 
 >[!MORELIKETHIS]
 >
->[Konfigurera om Dynamics-autentiseringsmetod](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)
+>[Konfigurera om Dynamics-autentiseringsmetod](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md){target="_blank"}

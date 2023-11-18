@@ -4,10 +4,10 @@ description: Steg 1 av 3 -Lägg till Marketo-fält i Salesforce (Enterprise/Unli
 title: Steg 1 av 3 -Lägg till Marketo-fält i Salesforce (Enterprise/Unlimited)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '784'
-ht-degree: 0%
+source-wordcount: '752'
+ht-degree: 1%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Du måste ha tillgång till Salesforce API:er för att kunna synkronisera mellan Marketo och Salesforce.
+>Du måste ha tillgång till Salesforce API:er för att kunna synkronisera mellan Marketo Engage och Salesforce.
 
 Marketo använder en uppsättning fält för att samla in viss typ av marknadsföringsrelaterad information. Om du vill ha dessa data i Salesforce följer du instruktionerna nedan.
 
-1. Skapa tre anpassade fält i Salesforce för lead- och kontaktobjekten: Poäng, förvärvsprogram och förvärvstidpunkt.
+1. Skapa tre anpassade fält i Salesforce för lead- och kontaktobjekten: poäng, anskaffningsprogram och anskaffningsdatum.
 1. Mappa dessa anpassade fält mellan leads och kontakter så att värdena överförs vid konvertering i Salesforce.
 1. Du kan skapa ytterligare fält om det behövs (se tabellen nedan).
 
@@ -29,29 +29,29 @@ Alla dessa anpassade fält är valfria och behöver inte synkronisera Marketo oc
 
 Lägg till tre anpassade fält i lead- och kontaktobjekten i Salesforce som listas ovan. Om du vill lägga till fler fält kan du läsa tabellen med tillgängliga fält i slutet av det här avsnittet.
 
-Utför följande steg för vart och ett av de tre anpassade fälten för att lägga till dem. Börja med bakgrundsmusik.
+Utför följande steg för vart och ett av de tre anpassade fälten för att lägga till dem. Börja med Score.
 
-1. Logga in i Salesforce och klicka på **Inställningar**.
+1. Logga in i Salesforce och klicka på **[!UICONTROL Setup]**.
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. Klicka på på menyn Skapa till vänster **Anpassa** och markera **Leads**. Klicka **Fält**.
+1. I [!UICONTROL Build] till vänster klickar du på **[!UICONTROL Customize]** och markera **[!UICONTROL Leads]**. Klicka på **[!UICONTROL Fields]**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. Klicka **Nytt** i delen Anpassade fält och relationer längst ned på sidan.
+1. Klicka **[!UICONTROL New]** i delen Anpassade fält och relationer längst ned på sidan.
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
-1. Välj lämplig fälttyp (för poäng - tal), Acquisition Program - text; Anskaffningsdatum - datum/tid).
+1. Välj lämplig fälttyp (för Poäng - tal; Anskaffningsprogram - text; Anskaffningsdatum - Datum/tid).
 
    ![](assets/choose-field-type-2-hand.png)
 
-1. Klicka **Nästa**.
+1. Klicka på **[!UICONTROL Next]**.
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
-1. Ange fältetikett, längd och fältnamn enligt tabellen nedan.
+1. Ange [!UICONTROL Field Label], [!UICONTROL Length]och [!UICONTROL Field Name] för fältet enligt tabellen nedan.
 
 <table> 
  <thead> 
@@ -106,18 +106,18 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
 >
 >Text- och nummerfält kräver en längd, men inte datum-/tidsfält. En beskrivning är valfri.
 
-1. Klicka **Nästa**.
+1. Klicka på **[!UICONTROL Next]**.
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
-1. Ange åtkomstinställningar och klicka på **Nästa**:
+1. Ange åtkomstinställningar och klicka på **[!UICONTROL Next]**:
 
-   * Ange alla roller till **Synlig** och **Skrivskyddad**
+   * Ange alla roller till **[!UICONTROL Visible]** och **[!UICONTROL Read-Only]**
 
-   * Rensa **Skrivskyddad** kryssrutan för din synkroniseringsanvändares profil:
+   * Rensa **[!UICONTROL Read-Only]** kryssrutan för din synkroniseringsanvändares profil:
 
-      * Om du har en användare med profilen för en _Systemadministratör_ som synkroniseringsanvändare, rensa **Skrivskyddad** kryssrutan för systemadministratörsprofilen (som visas nedan)
-      * Om du skapade en _egen profil_ för synkroniseringsanvändaren, rensa **Skrivskyddad** kryssruta för den anpassade profilen
+      * Om du har en användare med profilen för en _Systemadministratör_ som synkroniseringsanvändare, rensa **[!UICONTROL Read-Only]** kryssrutan för systemadministratörsprofilen (som visas nedan)
+      * Om du skapade en _egen profil_ för synkroniseringsanvändaren, rensa **[!UICONTROL Read-Only]** kryssruta för den anpassade profilen
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -125,11 +125,11 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Klicka **Spara och ny** för att gå tillbaka och skapa de två andra anpassade fälten. Klicka **Spara** med dig är du klar med alla tre.
+1. Klicka **[!UICONTROL Save & New]** för att gå tillbaka och skapa de två andra anpassade fälten. Klicka **[!UICONTROL Save]** med dig, med alla tre.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. Klicka på på menyn Skapa till vänster **Anpassa** och välj Kontakter. Klicka på Fält.
+1. Klicka på på menyn Skapa till vänster **[!UICONTROL Customize]** och välj Kontakter. Klicka på Fält.
 1. Utför steg 3 till 10 för fälten Poäng, Inköpsdatum och Anskaffningsprogram på kontaktobjektet, precis som för lead-objektet.
 1. Du kan också använda ovanstående procedur för ytterligare anpassade fält från den här tabellen.
 
@@ -244,15 +244,15 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
 
 Ett anpassat fält på lead-objektet i Salesforce bör mappas till ett kontaktfält på kontaktobjektet så att data överförs när en konvertering inträffar.
 
-1. Klicka på i det övre högra hörnet **Inställningar**.
+1. Klicka på i det övre högra hörnet **[!UICONTROL Setup]**.
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. Skriv&quot;Fält&quot; i navigeringssökningen utan att trycka på Retur. Fält visas under olika objekt; Klicka **Fält** under Leads.
+1. Skriv&quot;Fält&quot; i navigeringssökningen utan att trycka på Retur. Fält visas under olika objekt; klicka **[!UICONTROL Fields]** under Leads.
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. Gå till avsnittet Leadanpassade fält och relationer och klicka på **Mappa leadfält**.
+1. Gå till avsnittet Leadanpassade fält och relationer och klicka på **[!UICONTROL Map Lead Fields]**.
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 
@@ -266,10 +266,8 @@ Ett anpassat fält på lead-objektet i Salesforce bör mappas till ett kontaktf�
 
 1. Upprepa stegen ovan för alla andra fält som du har skapat.
 
-1. Klicka **Spara** när du är klar.
-
-   Inte så lätt, eller hur?
+1. Klicka **[!UICONTROL Save]** när det är klart.
 
 >[!MORELIKETHIS]
 >
->[Steg 2 av 3: Skapa en Salesforce-användare för Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>[Steg 2 av 3: Skapa en Salesforce-användare för Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}
