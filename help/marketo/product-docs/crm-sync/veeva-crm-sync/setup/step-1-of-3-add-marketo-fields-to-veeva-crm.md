@@ -3,10 +3,10 @@ description: Steg 1 av 3 - Lägg till Marketo-fält i Veeva CRM - Marketo Docs -
 title: Steg 1 av 3 - Lägg till Marketo-fält i Veeva CRM
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 0%
+source-wordcount: '511'
+ht-degree: 2%
 
 ---
 
@@ -30,23 +30,23 @@ Lägg till ett anpassat fält på lead- och kontaktobjekten i Veeva CRM som list
 
 Utför följande steg för fältet Poäng för att lägga till det.
 
-1. Logga in på Veeva CRM och klicka på **Inställningar**.
+1. Logga in på Veeva CRM och klicka på **[!UICONTROL Setup]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-1.png)
 
-1. Klicka på Objekt och fält och välj Objektshanteraren.
+1. Klicka på **[!UICONTROL Objects and Fields]** och välj **[!UICONTROL Object Manager]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-2.png)
 
-1. Sök efter Kontakt i sökfältet.
+1. Sök efter &quot;Kontakt&quot; i sökfältet.
 
    ![](assets/step-1-of-3-add-marketo-fields-3.png)
 
-1. Klicka på kontaktobjektet.
+1. Klicka på **[!UICONTROL Contact]** -objekt.
 
-1. Välj Fält och relationer.
+1. Välj **[!UICONTROL Fields and Relationships]**.
 
-1. Klicka **Nytt**.
+1. Klicka på **[!UICONTROL New]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-4.png)
 
@@ -54,11 +54,11 @@ Utför följande steg för fältet Poäng för att lägga till det.
 
    ![](assets/step-1-of-3-add-marketo-fields-5.png)
 
-1. Klicka **Nästa**.
+1. Klicka på **[!UICONTROL Next]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-6.png)
 
-1. Ange fältetikett, längd och fältnamn enligt tabellen nedan.
+1. Ange **[!UICONTROL Field Label]**, **[!UICONTROL Length]** och **[!UICONTROL Field Name]** för fältet enligt tabellen nedan.
 
 <table>
  <tbody>
@@ -86,13 +86,13 @@ Decimaler 0</td>
 
 >[!NOTE]
 >
->Text- och nummerfält måste ha en längd, men inte datum-/tidfält. En beskrivning är valfri.
+>Text- och nummerfält kräver en längd, men inte datum-/tidsfält. En beskrivning är valfri.
 
-1. Klicka **Nästa**.
+1. Klicka på **[!UICONTROL Next]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-8.png)
 
-1. Ange åtkomstinställningar och klicka på **Nästa**.
+1. Ange åtkomstinställningar och klicka på **[!UICONTROL Next]**.
 
 1. Ställ in alla roller till Synlig och Skrivskyddad.
 
@@ -105,9 +105,9 @@ Decimaler 0</td>
 
 1. Välj de sidlayouter som ska visa fältet.
 
-1. Klicka **Spara och ny** för att gå tillbaka och skapa de två andra anpassade fälten.
+1. Klicka **[!UICONTROL Save & New]** för att gå tillbaka och skapa de två andra anpassade fälten.
 
-1. Klicka **Spara** när du är klar med alla tre.
+1. Klicka **[!UICONTROL Save]** när du är klar med alla tre.
 
    ![](assets/step-1-of-3-add-marketo-fields-10.png)
 

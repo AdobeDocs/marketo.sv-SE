@@ -4,16 +4,16 @@ description: SFDC-synkronisering - fältsynkronisering - Marketo Docs - produktd
 title: SFDC-synkronisering - fältsynkronisering
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
 
 # SFDC-synkronisering: Fältsynkronisering {#sfdc-sync-field-sync}
 
-Marketo synkroniserar fältinformation från Salesforce. Här är detaljerna.
+Marketo Engage synkroniserar fältinformation från Salesforce. Här är detaljerna.
 
 ## Vilka fält synkroniseras? {#which-fields-are-synced}
 
@@ -21,7 +21,7 @@ Vi synkroniserar de flesta standardfält i SFDC och alla anpassade fält som syn
 
 ## Hur avgör du om en post i Marketo är en lead eller en kontakt i Salesforce? {#how-do-you-determine-if-a-record-in-marketo-is-a-lead-or-a-contact-in-salesforce}
 
-Vi har ett fält i Marketo som kallas SFDC-typ. Den har tre möjliga värden: lead, contact, or it is empty. Om den är tom innebär det att denna Marketo-lead inte finns i SFDC.
+Vi har ett fält i Marketo som kallas SFDC-typ. Den har tre möjliga värden: lead, contact, eller så är den tom. Om den är tom innebär det att denna Marketo-lead inte finns i SFDC.
 
 ## Hur avgör du om en lead eller kontakt tas bort i SFDC? {#how-do-you-determine-if-a-lead-or-contact-is-deleted-in-sfdc}
 
@@ -49,7 +49,7 @@ Om du ändrar API-namnet för ett fält i SFDC skapas ett nytt fält i Marketo.
 
 ## Vad händer om jag lägger till ett nytt listvärde i SFDC? {#what-happens-if-i-add-a-new-picklist-value-in-sfdc}
 
-Om ett nytt listvärde läggs till i SFDC till ett fält, skickar Marketo ett meddelande till dig.
+Om ett nytt plocklistevärde läggs till i SFDC till ett fält skickar Marketo ett meddelande till dig.
 
 ## Vad gäller för anpassade SFDC-sökfält? {#what-about-custom-sfdc-lookup-fields}
 
@@ -57,7 +57,7 @@ Sökfält i SFDC synkroniserar ID:t men inte det refererade namnet.
 
 ## SFDC-formelfält då? {#what-about-sfdc-formula-fields}
 
-Formelfält synkroniseras, men uppdateringar av referenserna i formeln synkroniseras inte förrän en uppdatering av en [Stämpel för systemläge](https://help.salesforce.com/apex/HTViewSolution?id=000193203&amp;language=en_US).
+Formelfält synkroniseras, men uppdateringar av referenserna i formeln synkroniseras inte förrän en uppdatering av en [Stämpel för systemläge](https://help.salesforce.com/apex/HTViewSolution?id=000193203&amp;language=en_US){target="_blank"}.
 
 ## Vad händer när jag tar bort ett fält från Salesforce som tidigare synkroniserades med Marketo? {#what-happens-when-i-delete-a-field-from-salesforce-that-was-previously-syncing-with-marketo}
 

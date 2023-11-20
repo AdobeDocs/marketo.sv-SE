@@ -4,16 +4,16 @@ description: Standardfältmappning för Salesforce - Marketo Docs - produktdokum
 title: Standardfältmappning för Salesforce
 exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '363'
 ht-degree: 34%
 
 ---
 
 # Standardfältmappning för Salesforce {#default-salesforce-field-mapping}
 
-När du först synkroniserar ditt Marketo-konto med Salesforce skapar Marketo automatiskt dessa associationer mellan dina inbyggda Salesforce- och Marketo-fält. Marketo synkroniserar även dina anpassade fält på leads, konton, säljprojekt och kontakter.
+När du först synkroniserar ditt Marketo Engage-konto med Salesforce skapar Marketo automatiskt dessa associationer mellan de inbyggda fälten i Salesforce och Marketo. Marketo synkroniserar även dina anpassade fält på leads, konton, säljprojekt och kontakter.
 
 ## Leadfält {#lead-fields}
 
@@ -44,7 +44,7 @@ När du först synkroniserar ditt Marketo-konto med Salesforce skapar Marketo au
 | Titel | Titel |
 | Stat/provins | Stat |
 | Status | Status |
-| Gata | Adress |
+| Gatuadress | Adress |
 | Titel | Befattning |
 | Webbplats | Webbplats |
 
@@ -65,7 +65,7 @@ När du först synkroniserar ditt Marketo-konto med Salesforce skapar Marketo au
 | Leadpoäng | Poäng |
 | MailingCity | Ort |
 | MailingCountry | Land |
-| MailingPostalCode | Postnummer |
+| Postnummer | Postnummer |
 | MailingState | Stat |
 | MailingStreet | Adress |
 | Mobiltelefon | Mobiltelefon |

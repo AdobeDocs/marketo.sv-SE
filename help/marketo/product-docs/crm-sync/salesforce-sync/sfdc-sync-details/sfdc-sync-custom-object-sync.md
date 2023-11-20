@@ -4,16 +4,16 @@ description: SFDC-synkronisering - anpassad objektsynkronisering - Marketo-dokum
 title: SFDC-synkronisering - anpassad objektsynkronisering
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 0%
+source-wordcount: '213'
+ht-degree: 1%
 
 ---
 
 # SFDC-synkronisering: Synkronisering av anpassat objekt {#sfdc-sync-custom-object-sync}
 
-Anpassade objekt som skapas i Salesforce-instansen kan också ingå i Marketo.  Så här ställer du in det.
+Anpassade objekt som skapas i Salesforce-instansen kan också ingå i Marketo Engage. Så här ställer du in det.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Anpassade objekt som skapas i Salesforce-instansen kan också ingå i Marketo.  
 
 >[!PREREQUISITES]
 >
->Om du vill använda ett anpassat objekt måste det associeras med ett [lead](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md), [kontakta](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md), eller [konto](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md) objekt i Salesforce.
+>Om du vill använda ett anpassat objekt måste det associeras med ett [lead](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md){target="_blank"}, [contact](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md){target="_blank"}, or [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md){target="_blank"} objekt i Salesforce.
 
 >[!IMPORTANT]
 >
@@ -29,15 +29,15 @@ Anpassade objekt som skapas i Salesforce-instansen kan också ingå i Marketo.  
 
 ## Aktivera anpassat objekt  {#enable-custom-object}
 
-1. Klicka **Administratör** och **Salesforce-objektsynkronisering** länk.
+1. Klicka **[!UICONTROL Admin]** och **[!UICONTROL Salesforce Objects Sync]** länk.
 
    ![](assets/image2015-11-19-10-3a28-3a5.png).
 
-1. Om det här är ditt första anpassade objekt klickar du på **Synkroniseringsschema**.
+1. Om det här är ditt första anpassade objekt klickar du på **[!UICONTROL Sync Schema]**.
 
    ![](assets/rtaimage-2.png)
 
-1. Klicka **Inaktivera global synkronisering**.
+1. Klicka på **[!UICONTROL Disable Global Sync]**.
 
    ![](assets/image2015-4-22-10-3a45-3a0.png)
 
@@ -55,11 +55,11 @@ Anpassade objekt som skapas i Salesforce-instansen kan också ingå i Marketo.  
    >
    >Anpassade objekt måste ha unika namn. Marketo stöder inte två olika anpassade objekt med samma namn.
 
-1. Klicka **Aktivera synkronisering**.
+1. Klicka på **[!UICONTROL Enable Sync]**.
 
    ![](assets/image2015-4-22-10-3a45-3a50.png)
 
-1. Klicka **Aktivera synkronisering** igen.
+1. Klicka **[!UICONTROL Enable Sync]** igen.
 
    ![](assets/image2015-4-22-10-3a46-3a10.png)
 
@@ -71,11 +71,11 @@ Anpassade objekt som skapas i Salesforce-instansen kan också ingå i Marketo.  
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 
-1. Klicka **Aktivera synkronisering**.
+1. Klicka på **[!UICONTROL Enable Sync]**.
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. Om du vill visa alla dina anpassade Salesforce-objekt klickar du på **Administratör** och **Salesforce-objektsynkronisering** länk (samma som steg 1 ovan).
+1. Om du vill visa alla dina anpassade Salesforce-objekt klickar du på **[!UICONTROL Admin]** och **[!UICONTROL Salesforce Objects Sync]** länk (samma som steg 1 ovan).
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 
@@ -85,6 +85,6 @@ Anpassade objekt som skapas i Salesforce-instansen kan också ingå i Marketo.  
 
 ### What&#39;s Next: {#whats-next}
 
-[Lägg till/ta bort anpassat objektfält som smart lista/utlösarbegränsningar](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
+[Lägg till/ta bort anpassat objektfält som smart lista/utlösarbegränsningar](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
 
 Underbar! Nu kan du använda data från det här anpassade objektet i smarta kampanjer och smarta listor.

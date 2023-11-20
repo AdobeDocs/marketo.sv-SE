@@ -4,10 +4,10 @@ description: Dölj ett Salesforce-fält från Marketo Sync - Marketo Docs - prod
 title: Dölj ett Salesforce-fält från Marketo Sync
 exl-id: 5d7229f0-43b0-4232-93ed-a9ca52ace401
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 0%
+source-wordcount: '157'
+ht-degree: 1%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 0%
 >
 >**Administratörsbehörigheter krävs**
 
-Alla fält i Salesforce är inte användbara för marknadsföring. Du kan optimera synkroniseringsprestanda genom att endast inkludera fält som du behöver. Så här kan du dölja ett fält för Marketo.
+Alla fält i Salesforce är inte användbara för marknadsföring. Du kan optimera synkroniseringsprestanda genom att endast inkludera fält som du behöver. Så här kan du dölja ett fält för Marketo Engage.
 
-1. Klicka på namnmenyn och välj **Inställningar**.
+1. Klicka på namnmenyn och välj **[!UICONTROL Setup]**.
 
    ![](assets/image2015-6-30-15-3a11-3a23.png)
 
-1. Retur **profiler** i sökfältet och klicka på **Profiler** under **Hantera användare**.
+1. Ange&quot;profiler&quot; i sökfältet och klicka på **[!UICONTROL Profiles]** under **[!UICONTROL Manage Users]**.
 
    ![](assets/image2015-6-30-15-3a12-3a46.png)
 
@@ -31,15 +31,15 @@ Alla fält i Salesforce är inte användbara för marknadsföring. Du kan optime
 
    ![](assets/image2015-6-30-15-3a17-3a38.png)
 
-1. Under **Fältnivåsäkerhet** avsnitt, klicka **Visa** bredvid objektet som innehåller målfältet.
+1. Under **[!UICONTROL Field-Level Security]** avsnitt, klicka **[!UICONTROL View]** bredvid objektet som innehåller målfältet.
 
    ![](assets/image2015-6-30-15-3a24-3a32.png)
 
-1. Klicka **Redigera**.
+1. Klicka på **[!UICONTROL Edit]**.
 
    ![](assets/image2015-6-30-15-3a25-3a42.png)
 
-1. Avmarkera **Synlig** intill det fält du vill dölja. Klicka **Spara**.
+1. Avmarkera **[!UICONTROL Visible]** intill det fält som du vill dölja. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2015-6-30-15-3a27-3a16.png)
 
@@ -51,4 +51,4 @@ Alla fält i Salesforce är inte användbara för marknadsföring. Du kan optime
 
    >[!MORELIKETHIS]
    >
-   >[Dölja och visa ett fält](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md)
+   >[Dölja och visa ett fält](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md){target="_blank"}

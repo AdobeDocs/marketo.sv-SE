@@ -3,10 +3,10 @@ description: Steg 2 av 3 - Skapa en veeva CRM-användare för Marketo Engage - M
 title: Steg 2 av 3 - Skapa en veeva CRM-användare för Marketo Engage
 exl-id: 78945192-36b0-4e0b-830a-f37eb0b83484
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '632'
-ht-degree: 0%
+source-wordcount: '592'
+ht-degree: 1%
 
 ---
 
@@ -26,21 +26,21 @@ I den här artikeln ska du anpassa fältbehörigheter med en veeva CRM-sidlayout
 
 Om du följer de här stegen kan Marketo synkroniseringsanvändare uppdatera anpassade fält.
 
-1. Klicka på sidlayouten Konto (personkonto) i navigeringsfältet utan att trycka på Retur och klicka sedan på Sidlayout under Kontakter.
+1. Klicka på sidlayouten Konto (personkonto) i navigeringsfältet utan att trycka på Retur och klicka på **[!UICONTROL Page Layout]** under Kontakter.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-1.png)
 
-1. Klicka **Sidlayouter**.
+1. Klicka på **[!UICONTROL Page Layouts]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-2.png)
 
-1. Klicka **HCP - Professional**.
+1. Klicka på **[!UICONTROL HCP - Professional]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-3.png)
 
-1. Klicka och dra en ny **Avsnitt** till sidlayouten.
+1. Klicka och dra en ny **[!UICONTROL Section]** till sidlayouten.
 
-1. Ange&quot;Marketo&quot; som avsnittsnamn och klicka på **OK**.
+1. Ange&quot;Marketo&quot; som avsnittsnamn och klicka på **[!UICONTROL OK]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-4.png)
 
@@ -66,39 +66,39 @@ Om du följer de här stegen kan Marketo synkroniseringsanvändare uppdatera anp
    >
    >Skapa två kolumner för fälten genom att dra nedåt till höger på sidan. Du kan flytta fält från den ena sidan till den andra om du vill balansera kolumnlängden.
 
-1. När du är klar med HCP-Professional-layouten klickar du på **Spara**.
+1. När du är klar med HCP-Professional-layouten klickar du på **[!UICONTROL Save]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-6.png)
 
->[!NOTE]
->
->Upprepa detta för andra sidlayouter för konton.
+   >[!NOTE]
+   >
+   >Upprepa detta för andra sidlayouter för konton.
 
 ## Skapa en profil {#create-a-profile}
 
-1. Klicka **Inställningar**.
+1. Klicka på **[!UICONTROL Setup]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-7.png)
 
-1. Skriv&quot;profiler&quot; i navigeringsfältet och klicka på **Profiler** länk.
+1. Skriv&quot;profiler&quot; i navigeringsfältet och klicka på **[!UICONTROL Profiles]** länk.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-8.png)
 
-1. Klicka **Nytt**.
+1. Klicka på **[!UICONTROL New]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-9.png)
 
-1. Välj standardanvändare, ge profilen namnet&quot;Marketo-Salesforce-synkronisering&quot; och klicka på **Spara**.
+1. Välj standardanvändare, ge profilen namnet&quot;Marketo-Salesforce-synkronisering&quot; och klicka på **[!UICONTROL Save]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-10.png)
 
 ## Ange profilbehörigheter {#set-profile-permissions}
 
-1. Klicka **Redigera** för att ange säkerhetsbehörigheter.
+1. Klicka **[!UICONTROL Edit]** för att ange säkerhetsbehörigheter.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-11.png)
 
-1. Kontrollera att API-aktivering är markerat under Administrativa behörigheter.
+1. Under Administrativa behörigheter ser du till att **[!UICONTROL API Enabled]** är markerat.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-12.png)
 
@@ -106,19 +106,19 @@ Om du följer de här stegen kan Marketo synkroniseringsanvändare uppdatera anp
    >
    >Markera rutan Lösenordet upphör aldrig att gälla.
 
-1. Se till att Redigera händelser och Redigera uppgifter är markerade under avsnittet Allmänna användarbehörigheter.
+1. Under avsnittet Allmänna användarbehörigheter ser du till att **[!UICONTROL Edit Events]** och **[!UICONTROL Edit Tasks]** är markerade.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-13.png)
 
-1. Under avsnittet Standardobjektbehörigheter kontrollerar du att behörigheterna Läs, Skapa, Redigera och Ta bort är markerade för Konton och Kontakter.
+1. Under avsnittet Standardobjektbehörigheter ser du till att **[!UICONTROL Read]**, **[!UICONTROL Create]**, **[!UICONTROL Edit]** och **[!UICONTROL Delete]** behörigheter kontrolleras för konton och kontakter.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-14.png)
 
-1. Under avsnittet Anpassade objektbehörigheter kontrollerar du att Läs-behörigheterna är markerade för Anrop, Anropa nyckelmeddelande och andra önskade anpassade objekt.
+1. Kontrollera att Läs-behörigheterna är ikryssade under avsnittet Anpassade objektbehörigheter **[!UICONTROL Call]**, **[!UICONTROL Call Key Message]** och andra anpassade objekt.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-15.png)
 
-1. När du är klar klickar du på **Spara** längst ned på sidan.
+1. När du är klar klickar du **[!UICONTROL Save]** längst ned på sidan.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-16.png)
 
@@ -126,31 +126,31 @@ Om du följer de här stegen kan Marketo synkroniseringsanvändare uppdatera anp
 
 1. Diskutera med era marknadsförare för att ta reda på vilka anpassade fält som behövs för att synkronisera.
 
->[!NOTE]
->
->Det här steget förhindrar att fält som du inte behöver visas i Marketo, vilket gör att det blir enklare och snabbare att synkronisera.
+   >[!NOTE]
+   >
+   >Det här steget förhindrar att fält som du inte behöver visas i Marketo, vilket gör att det blir rörigt och snabbar upp synkroniseringen.
 
-1. Gå till avsnittet Fältnivåsäkerhet på profilinformationssidan. Klicka på Visa för att redigera tillgängligheten för objekten Kontakt och Konto.
+1. Gå till profildetaljsidan [!UICONTROL Field-Level Security] -avsnitt. Klicka **[!UICONTROL View]** om du vill redigera tillgängligheten för objekten Kontakt och Konto.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-17.png)
 
->[!TIP]
->
->Du kan konfigurera andra objekt efter organisationens behov.
+   >[!TIP]
+   >
+   >Du kan konfigurera andra objekt efter organisationens behov.
 
-1. För varje objekt klickar du på **Redigera**.
+1. För varje objekt klickar du **[!UICONTROL Edit]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-18.png)
 
-Leta reda på de onödiga fälten och se till att Läs- och Redigera-åtkomst är **un** markerad. Klicka **Spara** när det är klart.
+1. Leta reda på de onödiga fälten och se till att Läs- och Redigera-åtkomst är _avmarkerad_. Klicka **[!UICONTROL Save]** när det är klart.
 
-![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
+   ![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
 
->[!NOTE]
->
->Redigera bara tillgängligheten för anpassade fält.
+   >[!NOTE]
+   >
+   >Redigera bara tillgängligheten för anpassade fält.
 
-1. När du är klar med inaktiveringen av alla onödiga fält kontrollerar du Läs åtkomst och Redigera åtkomst för följande objektfält. Klicka på Spara när du är klar.
+1. När du är klar med inaktiveringen av alla onödiga fält kontrollerar du Läs åtkomst och Redigera åtkomst för följande objektfält. Klicka **[!UICONTROL Save]** när det är klart.
 
 <table>
  <tbody>
@@ -181,15 +181,15 @@ Marketo kräver autentiseringsuppgifter för att få åtkomst till Veeva CRM. De
 >
 >Om din organisation inte har några ytterligare veva CRM-licenser kan du använda en befintlig Marketing-användare med systemadministratörsprofilen.
 
-1. Ange&quot;användare&quot; i navigeringsfältet och klicka på **Användare** under Hantera användare.
+1. Ange&quot;användare&quot; i navigeringsfältet och klicka på **[!UICONTROL Users]** under Hantera användare.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-20.png)
 
-1. Klicka **Ny användare**.
+1. Klicka på **[!UICONTROL New User]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-21.png)
 
-1. Fyll i de obligatoriska fälten och välj Användarlicens: Salesforce, ställ in profilen: Marketo Sync User och klicka på **Spara**.
+1. Fyll i de obligatoriska fälten, välj användarlicens: Salesforce, ange profilen: Marketo Sync User och klicka på **[!UICONTROL Save]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-22.png)
 
@@ -201,4 +201,4 @@ Underbar! Nu har du ett konto som Marketo Engage kan använda för att ansluta t
 
 >[!MORELIKETHIS]
 >
->[Steg 3 av 3: Connect Marketo och Veeva CRM](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md){target="_blank"}
+>[Steg 3 av 3: Anslut Marketo och Veeva CRM](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md){target="_blank"}
