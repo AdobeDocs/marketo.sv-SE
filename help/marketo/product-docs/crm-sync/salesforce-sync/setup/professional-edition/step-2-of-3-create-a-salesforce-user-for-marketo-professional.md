@@ -4,9 +4,9 @@ description: Steg 2 av 3 - Skapa en Salesforce-användare för Marketo (Professi
 title: Steg 2 av 3 - Skapa en Salesforce-användare för Marketo (Professional)
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '383'
 ht-degree: 1%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->De här stegen måste utföras av en Salesforce-administratör
+>De här stegen måste utföras av en Salesforce-administratör.
 
 >[!PREREQUISITES]
 >
->[Steg 1 av 3: Lägg till Marketo-fält i Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
+>[Steg 1 av 3: Lägg till Marketo-fält i Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md){target="_blank"}
 
 I den här artikeln ska du anpassa fältbehörigheter med en Salesforce-sidlayout och skapa en Marketo-Salesforce-synkroniseringsanvändare.
 
@@ -27,23 +27,23 @@ I den här artikeln ska du anpassa fältbehörigheter med en Salesforce-sidlayou
 
 Salesforce Professional anger tillgänglighet på fältnivå med sidlayouter, i motsats till Salesforce Enterprise/Unlimited&#39;s Profiles. Om du följer de här stegen kan Marketo synkroniseringsanvändare uppdatera anpassade fält.
 
-1. Typ **sidlayout** i navigeringsfältet utan att trycka på **Retur** och klicka **Sidlayout** under **Leads**.
+1. Skriv &quot;[!UICONTROL page layouts]&quot; i navigeringsfältet utan att trycka på **[!UICONTROL Enter]** och klicka **[!UICONTROL Page Layout]** under **[!UICONTROL Leads]**.
 
    ![](assets/image2016-2-26-12-3a58-3a32.png)
 
-1. Klicka **Redigera** bredvid Leadlayout.
+1. Klicka **[!UICONTROL Edit]** bredvid Leadlayout.
 
    ![](assets/image2016-2-26-13-3a2-3a46.png)
 
-1. Klicka och dra en ny **Avsnitt** till sidlayouten.
+1. Klicka och dra en ny **[!UICONTROL Section]** till sidlayouten.
 
    ![](assets/image2014-12-9-12-3a56-3a40.png)
 
-1. Ange&quot;Marketo&quot; för **Avsnittsnamn** och klicka **OK**.
+1. Ange&quot;Marketo&quot; för **[!UICONTROL Section Name]** och klicka **[!UICONTROL OK]**.
 
    ![](assets/image2014-12-9-12-3a56-3a52.png)
 
-1. Klicka och dra fältet **Anskaffningsdatum** till **Marketo** -avsnitt.
+1. Klicka och dra fältet **[!UICONTROL Acquisition Date]** till **Marketo** -avsnitt.
 
    ![](assets/image2014-12-9-12-3a57-3a0.png)
 
@@ -74,21 +74,21 @@ Salesforce Professional anger tillgänglighet på fältnivå med sidlayouter, i 
    >
    >Skapa två kolumner för fälten genom att dra nedåt till höger på sidan. Du kan flytta fält från den ena sidan till den andra om du vill balansera kolumnlängden.
 
-1. Klicka **Spara** när fält har lagts till.
+1. Klicka **[!UICONTROL Save]** när fält har lagts till.
 
    ![](assets/image2014-12-9-12-3a57-3a10.png)
 
-1. Upprepa alla ovanstående steg för Salesforce **Kontaktsidlayout**.
+1. Upprepa alla ovanstående steg för Salesforce **[!UICONTROL Contact Page Layout]**.
 
    ![](assets/image2016-2-26-13-3a10-3a1.png)
 
-1. Kom ihåg att klicka **Spara** när du är klar med **Kontaktsidlayout**.
+1. Kom ihåg att klicka **[!UICONTROL Save]** när du är klar med **[!UICONTROL Contact Page Layout]**.
 
    ![](assets/image2014-12-9-12-3a57-3a30.png)
 
    >[!NOTE]
    >
-   >Se till att **Heldagshändelse** fältet har lagts till i **Händelsesidlayout**.
+   >Se till att **[!UICONTROL All-Day Event]** fältet har lagts till i **[!UICONTROL Event Page Layout]**.
 
 ## Skapa synkroniserad användare {#create-sync-user}
 
@@ -96,17 +96,17 @@ Marketo kräver inloggningsuppgifter för att få åtkomst till Salesforce. Dett
 
 >[!NOTE]
 >
->Om din organisation inte har några ytterligare Salesforce-licenser kan du använda en befintlig **Marknadsförare** med **Systemadministratör** profil.
+>Om din organisation inte har några ytterligare Salesforce-licenser kan du använda en befintlig Marketing-användare med systemadministratörsprofilen.
 
-1. Ange&quot;användare&quot; i navigeringsfältet och klicka på **Användare** under **Hantera användare**.
+1. Ange&quot;användare&quot; i navigeringsfältet och klicka på **[!UICONTROL Users]** under **[!UICONTROL Manage Users]**.
 
    ![](assets/image2014-12-9-12-3a57-3a42.png)
 
-1. Klicka **Ny användare**.
+1. Klicka på **[!UICONTROL New User]**.
 
    ![](assets/image2014-12-9-12-3a58-3a1.png)
 
-1. Fyll i de obligatoriska fälten, välj **Användarlicens: Salesforce**, ange **Profil: Systemadministratör**, kontrollera **Marknadsförare** och klicka **Spara**.
+1. Fyll i de obligatoriska fälten, välj **[!UICONTROL User License: Salesforce]**, ange **[!UICONTROL Profile: System Administrator]**, kontrollera **[!UICONTROL Marketing User]** och klicka **[!UICONTROL Save]**.
 
    ![](assets/image2014-12-9-12-3a58-3a11.png)
 
@@ -118,4 +118,4 @@ Underbar! Nu har du ett konto som Marketo kan använda för att ansluta till Sal
 
 >[!MORELIKETHIS]
 >
->[Steg 3 av 3: Connect Marketo och Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
+>[Steg 3 av 3: Anslut Marketo och Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md){target="_blank"}

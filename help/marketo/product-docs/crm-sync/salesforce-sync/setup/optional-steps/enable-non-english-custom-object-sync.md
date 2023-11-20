@@ -4,10 +4,10 @@ description: Aktivera icke-engelsk anpassad objektsynkronisering - Marketo Docs 
 title: Aktivera icke-engelsk anpassad objektsynkronisering
 exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 0%
+source-wordcount: '139'
+ht-degree: 1%
 
 ---
 
@@ -21,35 +21,35 @@ Om din Marketo-synkroniseringsanvändare är inställd på ett annat språk än 
 
 ## Komma runt {#getting-around-it}
 
-1. Logga in i Salesforce med markeringen för att synkronisera användaren.
+1. Logga in på [!DNL Salesforce] med hjälp av markeringen för att synkronisera användare.
 
    ![](assets/image2014-12-10-13-3a18-3a1.png)
 
-1. Under användarnamnet går du till **Inställningar**.
+1. Under användarnamnet går du till **[!UICONTROL Setup]**.
 
    ![](assets/image2014-12-10-13-3a18-3a11.png)
 
-1. Under **Personlig information**, klicka **Mina personuppgifter**.
+1. Under **[!UICONTROL Personal Information]**, klicka **[!UICONTROL My Personal Information]**.
 
    ![](assets/image2014-12-10-13-3a18-3a22.png)
 
-1. Klicka **Redigera**.
+1. Klicka på **[!UICONTROL Edit]**.
 
    ![](assets/image2014-12-10-13-3a18-3a32.png)
 
-1. Ändra **Språk** till **Engelska**.
+1. Ändra **[!UICONTROL Language]** till **[!UICONTROL English]**.
 
    ![](assets/image2014-12-10-13-3a18-3a45.png)
 
-1. Klicka **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. Tillbaka i Marketo, under **Admin > Salesforce > Objekt** klicka **Uppdatera schema**.
+1. Tillbaka i Marketo, under **[!UICONTROL Admin]** > **[!UICONTROL Salesforce]** > **[!UICONTROL Objects]**, klicka **[!UICONTROL Refresh Schema]**.
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 
-1. Objektivlistan kommer då att visas på engelska. Välj det objekt du vill använda och klicka sedan på **Aktivera synkronisering**.
+1. Objektivlistan kommer då att visas på engelska. Välj det objekt du vill använda och klicka **[!UICONTROL Enable Sync]**.
 
    ![](assets/image2014-12-10-13-3a19-3a16.png)
 

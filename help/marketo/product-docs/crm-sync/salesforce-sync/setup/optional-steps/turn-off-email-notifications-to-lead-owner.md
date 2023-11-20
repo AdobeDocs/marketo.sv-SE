@@ -4,10 +4,10 @@ description: Inaktivera e-postmeddelanden till lead-ägaren - Marketo Docs - pro
 title: Inaktivera e-postmeddelanden till leadägaren
 exl-id: e079ed85-5fdd-49c9-a89c-aaf854a5db63
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 0%
+source-wordcount: '54'
+ht-degree: 3%
 
 ---
 
@@ -15,18 +15,18 @@ ht-degree: 0%
 
 Du kan inaktivera de automatiska e-postmeddelanden som skickas till Leadägare i Salesforce vid Leadtilldelning. Så här gör du.
 
-1. Gå till **Administratör**.
+1. Gå till **[!UICONTROL Admin]**.
 
    ![](assets/admin-1.png)
 
-1. Klicka **Salesforce**.
+1. Klicka på **[!DNL Salesforce]**.
 
    ![](assets/adminsalesforce.png)
 
-1. Under **Synkroniseringsalternativ**, klicka **Redigera**.
+1. Under **[!UICONTROL Sync Options]**, klicka **[!UICONTROL Edit]**.
 
    ![](assets/salesforcesummary2.jpg)
 
-1. Avmarkera **Skicka e-postmeddelande till ägaren i Salesforce vid lead-tilldelning** box. Klicka **Spara**.
+1. Avmarkera **[!UICONTROL Send email notification to owner in Salesforce upon lead assignment]** box. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/new-screen.png)

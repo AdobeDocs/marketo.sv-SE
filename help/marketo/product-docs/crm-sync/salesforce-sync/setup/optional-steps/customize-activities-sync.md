@@ -4,26 +4,26 @@ description: Synkronisera anpassade aktiviteter - Marketo Docs - Produktdokument
 title: Synkronisera anpassade aktiviteter
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
 
 # Synkronisera anpassade aktiviteter {#customize-activities-sync}
 
-Om du inte använder Marketo Sales Insight kan Marketo skapa poster för Salesforce-aktivitetshistorik för vissa händelser. Så här aktiverar du dem.
+Om du inte använder Marketo Sales Insight kan Marketo Engage skapa poster för Salesforce-aktivitetshistorik för vissa händelser. Så här aktiverar du dem.
 
-1. Gå till **Administratör**.
+1. Gå till **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Klicka **Salesforce** och sedan klicka **Redigera synkroniseringsalternativ**.
+1. Klicka **[!DNL Salesforce]** och sedan klicka **[!UICONTROL Edit Sync Options]**.
 
    ![](assets/two-1.png)
 
-1. Markera rutorna bredvid aktiviteter som du vill att Marketo ska skicka till Salesforce och klicka på **Spara**.
+1. Markera rutorna bredvid aktiviteter som du vill att Marketo ska skicka till Salesforce och klicka på **[!UICONTROL Save]**.
 
    ![](assets/three-1.png)
 
@@ -53,7 +53,7 @@ Om du inte använder Marketo Sales Insight kan Marketo skapa poster för Salesfo
   </tr> 
   <tr> 
    <td>E-post skickad</td> 
-   <td>Flödessteg: Har skickats ett e-postmeddelande</td> 
+   <td>Flödessteg: Skickades ett e-postmeddelande</td> 
   </tr> 
   <tr> 
    <td>E-post levererad</td> 
@@ -77,14 +77,14 @@ Om du inte använder Marketo Sales Insight kan Marketo skapa poster för Salesfo
   </tr> 
   <tr> 
    <td>E-postmeddelande har skickats</td> 
-   <td>Har skickats ett e-postmeddelande via Marketo Sales Insight</td> 
+   <td>Skickades via Marketo Sales Insight</td> 
   </tr> 
   <tr> 
    <td>E-postadress öppnad</td> 
    <td>Öppnade ett e-postmeddelande som skickats via Marketo Sales Insight</td> 
   </tr> 
   <tr> 
-   <td>Klicka på länken i e-postmeddelandet om försäljning</td> 
+   <td>Klicka på länken i försäljningsmejl</td> 
    <td>Klicka på en länk i ett e-postmeddelande som skickats via Marketo Sales Insight</td> 
   </tr> 
   <tr> 
@@ -96,8 +96,8 @@ Om du inte använder Marketo Sales Insight kan Marketo skapa poster för Salesfo
 
 >[!NOTE]
 >
->&quot;E-postmeddelande tas emot&quot; **not** levereras. Leveransstatus hämtas inte för e-postmeddelanden som skickas via Sales Insight.
+>&quot;E-postmeddelande tas emot&quot; _not_ levereras. Leveransstatus hämtas inte för e-postmeddelanden som skickas via Sales Insight.
 
 >[!TIP]
 >
->Om du är intresserad av att få in mer Marketo-information i Salesforce kan du läsa [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) produkt.
+>Om du är intresserad av att få in mer Marketo-information i Salesforce kan du läsa vår [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} produkt.

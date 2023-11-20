@@ -4,30 +4,30 @@ description: Lägg till/ta bort anpassat objektfält som smart lista/utlösarbeg
 title: Lägg till/ta bort anpassat objektfält som smart lista/utlösarbegränsningar
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 0%
+source-wordcount: '173'
+ht-degree: 2%
 
 ---
 
 # Lägg till/ta bort anpassat objektfält som smart lista/utlösarbegränsningar {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
-Marketo ger exakt kontroll över Salesforce-objektsynkroniseringen. På så sätt kan du välja de fält som är tillgängliga som begränsningar i anpassade objektfilter och använda dem som utlösare i smarta kampanjer.
+Marketo Engage ger kontroll över den anpassade objektsynkroniseringen i Salesforce. På så sätt kan du välja de fält som är tillgängliga som begränsningar i anpassade objektfilter och använda dem som utlösare i smarta kampanjer.
 
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
 
-1. Klicka **Admin.**
+1. Klicka på **[!UICONTROL Admin]**.
 
    ![](assets/image2014-12-10-13-3a9-3a47.png)
 
-1. Klicka **Administratör** och sedan **Salesforce-objektsynkronisering.**
+1. Klicka på **[!UICONTROL Admin]** och sedan på **[!UICONTROL Salesforce Objects Sync]**.
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 
-1. **Salesforce-objektsynkronisering** visas i den vänstra kolumnen.
+1. **[!UICONTROL Salesforce Objects Sync]** visas i den vänstra kolumnen.
 
    ![](assets/image2015-12-11-15-3a15-3a15.png)
 
@@ -35,19 +35,19 @@ Marketo ger exakt kontroll över Salesforce-objektsynkroniseringen. På så sät
 
    ![](assets/image2014-12-10-13-3a10-3a11.png)
 
-1. Klicka **Redigera synliga fält**.
+1. Klicka på **[!UICONTROL Edit Visible Fields]**.
 
    >[!TIP]
    >
-   >Om **Redigera synliga fält** är nedtonad, objektet används för närvarande i en smart lista eller smart kampanj. Ta bort alla associationer för att fortsätta.
+   >Om **[!UICONTROL Edit Visible Fields]** är nedtonad, objektet används för närvarande i en smart lista eller smart kampanj. Ta bort alla associationer för att fortsätta.
 
    ![](assets/image2014-12-10-13-3a10-3a25.png)
 
-1. Om den globala synkroniseringen är aktiverad klickar du på **Inaktivera global synkronisering**.
+1. Om den globala synkroniseringen är aktiverad klickar du på **[!UICONTROL Disable Global Sync]**.
 
    ![](assets/image2014-12-10-13-3a10-3a36.png)
 
-1. Markera rutorna intill de filter-/utlösarbegränsningar som behövs och klicka på **Spara**.
+1. Markera rutorna intill de filter-/utlösarbegränsningar som behövs och klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-12-10-13-3a10-3a47.png)
 
@@ -55,7 +55,7 @@ Marketo ger exakt kontroll över Salesforce-objektsynkroniseringen. På så sät
    >
    >Alla fält markeras som standard som begränsningar för filter.
 
-1. Klicka på **Fält** för att bekräfta ändringarna.
+1. Klicka på **[!UICONTROL Fields]** för att bekräfta dina ändringar.
 
    ![](assets/image2014-12-10-13-3a10-3a56.png)
 
@@ -63,8 +63,8 @@ Marketo ger exakt kontroll över Salesforce-objektsynkroniseringen. På så sät
    >
    >Glöm inte att aktivera den globala synkroniseringen igen!
 
-Wow! Nu har smarta listor och smarta kampanjer ännu större kraft.
+Nu har smarta listor och smarta kampanjer ännu mer kraft.
 
 >[!MORELIKETHIS]
 >
->[Aktivera/inaktivera synkronisering av anpassat objekt](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync.md)
+>[Aktivera/inaktivera synkronisering av anpassat objekt](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync.md){target="_blank"}
