@@ -2,10 +2,10 @@
 description: Adobe Marketo Engage - Marketo Docs - produktdokumentation
 title: Adobe Marketo Engage
 feature: Dynamic Chat
-exl-id: 5e341040-70ff-49f2-a954-b609d24e6006
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
+source-git-commit: a2996605fca9c0fe8172b7e43c3463266d87e178
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,10 @@ ht-degree: 0%
 ## Ansluta Dynamic Chat {#connecting-dynamic-chat}
 
 När du är klar med [inledande konfiguration](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md){target="_blank"}är det dags att utföra engångssynkroniseringen som kopplar Dynamic Chat till din Adobe Marketo Engage-prenumeration.
+
+>[!NOTE]
+>
+>Dynamic Chat stöder synkronisering av [Marketo native](https://developers.marketo.com/rest-api/lead-database/fields/list-of-standard-fields/){target="_blank"} och anpassade person-/företagsfält.
 
 1. I Min Marketo klickar du på **Dynamic Chat** platta.
 
