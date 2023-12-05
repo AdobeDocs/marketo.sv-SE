@@ -4,7 +4,7 @@ description: Lägg till ett flödessteg för SMS - Marketo Docs - Produktdokumen
 title: Lägg till ett flödessteg för SMS
 exl-id: 8e96f6ad-43c9-4d64-8cb6-241664956d72
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 Marketo har tre flödessteg som du kan använda i SMS-smarta kampanjer:
 
 * **Skicka SMS-meddelande** - Den här flödesåtgärden skickar meddelanden till personer från Marketo smartlist som prenumererar på en användarvald Vibes-prenumerationslista. Det initierar inte prenumerationsprocessen.
-* **Prenumerera på Vibes List** - Den här flödesåtgärden initierar SMS-prenumerationsprocessen via en Vibes Acquisition Campaign som valts av användaren. Vibes skickar sedan ett bekräftelsemeddelande; mottagaren måste svara för att slutföra prenumerationsprocessen.
+* **Prenumerera på Vibes List** - Den här flödesåtgärden initierar SMS-prenumerationsprocessen via en Vibes Acquisition Campaign som valts av användaren. Vibes skickar sedan ett bekräftelsemeddelande. Mottagaren måste svara på meddelandet för att slutföra prenumerationsprocessen.
 * **Avbeställ utskick om Vibes List** - Den här flödesåtgärden avslutar prenumerationen för varje person från en användarvald Vibes-prenumerationslista.
 
 >[!NOTE]
@@ -32,7 +32,7 @@ Här är grunderna för hur du använder SMS.
 
 1. I Min Marketo klickar du på **Marknadsföringsaktiviteter**.
 
-   ![](assets/image2016-7-28-11-3a41-3a17.png)
+   ![](assets/add-a-flow-step-for-sms-1.png)
 
 1. Hitta den smarta kampanj som du vill lägga till SMS-flödet i. Klicka på **Flöde** -fliken.
 

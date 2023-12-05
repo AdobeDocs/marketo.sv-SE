@@ -4,9 +4,9 @@ title: Skapa ett Vibes SMS-meddelande
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 2dc19295bcea7efc38b7bf50ee802335bff8b12c
+source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '441'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ Så här skapar du ett Vibes SMS-meddelande.
 
    >[!NOTE]
    >
-   >USA och Kanada har olika gränser, med 160 respektive 130 tecken. Om du överskrider teckengränserna kan meddelandet delas upp. Vi visar när du överskrider gränsen för Kanada, men redigeraren är optimerad för USA och delar upp meddelandet baserat på USA:s gräns.
+   >Teckengränsen för ett SMS-meddelande är 160 tecken med ASCII-standardteckenuppsättningen. Om du överskrider 160 tecken delas meddelandet upp baserat på det totala antalet tecken.
 
 1. Klicka **Token** på Infoga-menyn för att lägga till en token i meddelandet.
 
@@ -61,7 +61,13 @@ Så här skapar du ett Vibes SMS-meddelande.
 
    >[!NOTE]
    >
-   >Om du lägger till en variabel kan meddelandet överskrida teckengränsen. Meddelandet delas sedan upp, vilket medför ytterligare kostnader.
+   >Om du lägger till en variabel kan meddelandet överskrida teckengränsen. Meddelandet delas sedan upp, vilket resulterar i ytterligare meddelanden.
+
+   >[!IMPORTANT]
+   >
+   >SMS-kompatibilitet: Alla utgående SMS-meddelanden måste innehålla varumärkesnamnet eller programbeskrivningen. HJÄLP- och STOP-anvisningar ska ges minst en gång per månad och prenumerant för program för återkommande meddelanden.
+
+   ????? Om du använder Marketo URL-förkortaren används X-tecken i meddelandet ??????????
 
 1. Klicka **Länk** på Infoga-menyn för att lägga till en länk till meddelandet.
 
@@ -73,11 +79,16 @@ Så här skapar du ett Vibes SMS-meddelande.
 
    >[!NOTE]
    >
-   >De två spårningslänkarna är markerade som standard.
+   >* De två spårningslänkarna är markerade som standard.
+   >* Om du använder Marketo URL-förkortaren används X-tecken i ditt meddelande.????????????????????????????
 
 1. Om du vill använda en extern URL i stället klickar du på **Extern URL** och ange URL-adressen i URL-fältet. Klicka **Infoga**.
 
    ![](assets/insert-link-url-hands.jpg)
+
+   >[!CAUTION]
+   >
+   >Vi rekommenderar _not_ Använd URL-förkortningar (t.ex. Bitly) eftersom bärarna kan flagga ditt meddelande som skräppost.
 
 1. Länken visas i meddelandet.
 
@@ -94,3 +105,5 @@ Så här skapar du ett Vibes SMS-meddelande.
    >Teckenantalet återspeglar endast tecknen i det lägsta meddelandet.
 
 Om du infogar mer än USA:s gräns bryts meddelandet ned i avsnitt. Det finns en absolut gräns på 900 tecken. När gränsen har nåtts trunkeras meddelandet automatiskt när det skickas till målgruppen.
+
+US LIMIT?????

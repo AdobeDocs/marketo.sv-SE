@@ -4,9 +4,9 @@ description: Skapa ett Vibes SMS-meddelande - Marketo Docs - Produktdokumentatio
 title: Skapa ett Vibes SMS-meddelande
 exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Så här skapar du ett Vibes SMS-meddelande.
 >
 >SMS-textmeddelanden är inte HIPAA-kompatibla.
 
-1. Gå till **Marknadsföringsaktiviteter** och högerklicka på ett program.
+1. Gå till **Marknadsföringsaktiviteter** och högerklicka.
 
    ![](assets/mobile-right-click-hand.jpg)
 
@@ -53,7 +53,7 @@ Så här skapar du ett Vibes SMS-meddelande.
 
    >[!NOTE]
    >
-   >Begränsningarna för USA och Kanada är olika, med 160 respektive 130 tecken. Om du överskrider teckengränserna kan meddelandet delas upp. Vi visar när du överskrider gränsen för Kanada, men redigeraren är optimerad för USA och delar upp meddelandet baserat på USA:s gräns.
+   >USA och Kanada har olika gränser, med 160 respektive 130 tecken. Om du överskrider teckengränserna kan meddelandet delas upp. Vi visar när du överskrider gränsen för Kanada, men redigeraren är optimerad för USA och delar upp meddelandet baserat på USA:s gräns.
 
 1. Klicka **Token** på Infoga-menyn för att lägga till en token i meddelandet.
 
@@ -85,7 +85,7 @@ Så här skapar du ett Vibes SMS-meddelande.
 
    >[!NOTE]
    >
-   >Marketo visar en länkförhandsgranskning av den varumärkesprofilerade spårningsdomänen. Om du avmarkerar kryssrutan för länken mkt_tok ändras länken. Avmarkera kryssrutan Spåra länk också så förkortas URL-adressen till dess grundläggande längd (till exempel www.mygooglepage.com).
+   >Marketo visar en länkförhandsgranskning av domänen för varumärkesspårning. Om du avmarkerar kryssrutan för länken mkt_tok ändras länken. Avmarkera kryssrutan Spåra länk också så förkortas URL-adressen till dess grundläggande längd (till exempel www.mygooglepage.com).
 
    ![](assets/image2016-7-27-16-3a20-3a16.png)
 
@@ -93,4 +93,4 @@ Så här skapar du ett Vibes SMS-meddelande.
    >
    >Teckenantalet återspeglar endast tecknen i det lägsta meddelandet.
 
-Om du infogar fler än USA:s gräns bryts meddelandet ned i avsnitt. Det finns en absolut gräns på 900 tecken. När gränsen har nåtts trunkeras meddelandet automatiskt när det skickas till målgruppen.
+Om du infogar mer än USA:s gräns bryts meddelandet ned i avsnitt. Det finns en absolut gräns på 900 tecken. När gränsen har nåtts trunkeras meddelandet automatiskt när det skickas till målgruppen.

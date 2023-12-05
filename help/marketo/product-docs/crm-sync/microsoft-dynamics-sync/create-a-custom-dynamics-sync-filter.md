@@ -4,16 +4,16 @@ description: Skapa ett anpassat Dynamics Sync-filter - Marketo Docs - produktdok
 title: Skapa ett anpassat Dynamics-synkroniseringsfilter
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
+source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
 workflow-type: tm+mt
-source-wordcount: '795'
+source-wordcount: '814'
 ht-degree: 0%
 
 ---
 
 # Skapa ett anpassat Dynamics-synkroniseringsfilter {#create-a-custom-dynamics-sync-filter}
 
-Vill du inte synkronisera allt i Dynamics CRM till Marketo? Oroa dig inte! Med Marketo kan du konfigurera ett synkroniseringsfilter och bara synkronisera en del av dina poster.
+Vill du inte synkronisera allt i Dynamics CRM till Marketo Engage? Oroa dig inte! Med Marketo kan du konfigurera ett synkroniseringsfilter och bara synkronisera en del av dina poster.
 
 ## Översikt {#overview}
 
@@ -26,7 +26,7 @@ Du måste göra dessa ändringar i Dynamics CRM, inte i databasen eller Marketo.
 
 >[!CAUTION]
 >
->Om du inte tilldelar fältet och låter det vara tomt/NULL synkroniseras det ned, men uppdateras inte.
+>Om du inte tilldelar fältet och låter det vara tomt/NULL synkroniseras det ned, men uppdateras inte. Poster med fältvärdet blank/NULL i Dynamics CRM visar fältvärdet i Marketo som &quot;false&quot;.
 
 Marketo letar efter det här fältet under den automatiska bakgrundssynkroniseringen och avgör vilka poster som ska synkroniseras över baserat på den här logiken:
 
